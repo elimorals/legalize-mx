@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-derechos-y-productos-del-estado-de-baja-california-11120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2018-12-31"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de diciembre de 2015.
 
@@ -131,9 +131,9 @@ II. Derechos por la expedición de formas aprobadas;
 
 III. Derechos por servicios del Archivo General de Notarías; y
 
-> <small>(REFORMADA, B.O. 10 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
 
-IV. Derechos por servicios de control vehicular, únicamente en licencias de conducir, para automovilista, placas o calcomanías de un solo vehículo, propiedad del pensionado, jubilado, adultos mayores de 60 años y personas con discapacidad.
+IV.- Derechos por servicios de control vehicular, únicamente en licencias de conducir para automovilista, placas o tarjeta de circulación de un solo vehículo, propiedad del pensionado, jubilado, adultos mayores de 60 años y personas con discapacidad.
 
 > <small>(REFORMADO, B.O. 10 DE ABRIL DE 2016)</small>
 
@@ -247,67 +247,53 @@ La Federación, los Municipios, los Poderes, órganos autónomos, dependencias y
 
 Los derechos contenidos en esta Ley, se pagarán conforme a las cuotas y tarifas que para cada caso se establezcan.
 
-## Título Segundo. De los derechos por el uso, goce o aprovechamiento de bienes del Dominio Público
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE DICIEMBRE DE 2019)</small>
 
-### Capítulo Único. De los bienes del Dominio Público bajo custodia y administración de la Secretaría General de Gobierno
+## Título Segundo. De los derechos por el uso, goce o aprovechamiento de Bienes de Dominio Público
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+### Capítulo Único
+
+De los Bienes del Dominio Público bajo custodia y administración del Gobierno del Estado.
 
 ###### Artículo 14.
 
 Por el uso, goce o aprovechamiento de los siguientes bienes del Dominio Público se cobrará los derechos correspondientes, con base en la siguiente:
 
-I. Unidad Cultural Prof. Jesús Castro
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], B.O. 20 DE DICIEMBRE DE 2019)</small>
 
-Agúndez (Teatro de la Ciudad): TARIFA
+I.- Unidad Cultural Prof. Jesús Castro Agúndez (Teatro de la Ciudad):
 
-A) Para eventos académicos y/o culturales, por dos horas:
+Tarifa:
 
-1. Academias de danza, baile y ballet locales,
+a) Uso o goce del Teatro de la Ciudad, por hora o fracción; $9,000.00
 
-así como compañías de teatro local: $5,000.00
+b) Uso o goce del teatro de la ciudad para ceremonias
 
-2. Para jardines de niños, primarias y secundarias: $8,000.00
+De clausura y/o graduación de los niveles educativos
 
-3. Ceremonias de graduación de preparatorias
+Preescolar, Primaria, Secundaria, Medio Superior
 
-y universidades: $10,000.00
+y Superior del Sector Público, por hora o fracción: $6,300.00
 
-B) Para eventos privados o empresariales:
+> <small>(ADICIONADA [N. DE E. REFORMADA CON SUS INCISOS], B.O. 20 DE DICIEMBRE DE 2019)</small>
 
-1. Instituciones de beneficencia por parte
+II.- Centro Cultural La Paz
 
-de asociaciones y sociedades civiles y/o
+Tarifa:
 
-religiosas, por dos horas: $10,000.00
+a) Uso o goce del Salón de usos múltiples, por hora o fracción; $900.00
 
-2. Funciones comerciales:
+b) Uso o goce del Patio foro al aire libre, por hora o fracción; $700.00
 
-I. Por dos horas:
+> <small>(ADICIONADA [N. DE E. N. DE E. REFORMADA CON SU INCISO], B.O. 20 DE DICIEMBRE DE 2019)</small>
 
-a) Para niños: $15,000.00
+III.- Sala de Conciertos La Paz
 
-b) Para Adultos: $25,000.00
+Tarifa:
 
-II. Por cuatro horas, para simposios
-
-y conferencias: $20,000.00
-
-III. Por ocho horas: $40,000.00
-
-C) Para instituciones diversas en situación
-
-precaria, previa gestión y autorización por
-
-parte del titular del Poder Ejecutivo: $3,000.00
-
-D) Para instituciones y dependencias del
-
-Gobierno del Estado de Baja California Sur,
-
-previa gestión y autorización por parte del
-
-Titular del Poder Ejecutivo: Exento
-
-Los tiempos que amparan el costo de las tarifas de esta Fracción, contarán con un margen máximo de tolerancia de 30 minutos. Si el evento se excediera de dicho margen se cobrará el tiempo excedente de manera proporcional, siempre y cuando la disponibilidad del espacio lo permita.
+a) Uso o goce de la Sala de conciertos, por hora o fracción; $2,000.00
 
 ## Título Tercero. De los derechos por la prestación de servicios
 
@@ -343,6 +329,10 @@ Los ingresos a que se refiere este Artículo, se destinarán a la unidad generad
 
 Tratándose de la expedición de copias simples en los términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California Sur, se pagarán derechos a razón de $3.00 por copia.
 
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+Cuando se trate de la expedición de copias simples de expedientes o documentos que consten en los archivos de la autoridad y sean solicitados por los particulares, se pagarán derechos por una cantidad igual a la señalada en el párrafo anterior, por cada copia.
+
 Por la expedición de documentos o copias certificadas de los mismos que sean solicitados por la Federación, el Distrito Federal, Estados y/o Municipios de asuntos oficiales y de su competencia, siempre que esta solicitud no derive de la petición de un particular, así como por la expedición de copias certificadas solicitadas por las autoridades para la substanciación del juicio de amparo, no se pagarán derechos.
 
 Cuando por causas no imputables a los solicitantes de alguno de los servicios a que se refiere este Capítulo, fuere necesario reponer o modificar algún registro, documento o trámite, no se pagarán los derechos correspondientes a la reposición o modificación.
@@ -373,45 +363,7 @@ e) Apostillas: $362.00
 
 f) Cartas de Ciudadano Sudcaliforniano: $722.00
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE DICIEMBRE DE 2017)</small>
-
-II.- Seguridad Pública. Tarifa:
-
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
-
-a) Expedición de licencias para prestar
-
-servicios de seguridad privada; $7,942.00
-
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
-
-b) Refrendo anual de licencia para prestar
-
-servicios de seguridad privada; $3,610.00
-
-c) Autorización y Registro de Personal de
-
-Seguridad Privada por cada agente. $362.00
-
-d) Constancia de No Antecedentes Penales; $72.00
-
-e) Aplicación de Evaluaciones; $4,621.00
-
-> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
-
-f) Inclusión de modalidades en la licencia
-
-para prestar Servicios de Seguridad Privada; $3,610.00
-
-> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
-
-g) Estudio y tramite de la solicitud de
-
-autorización para prestar Servicios de
-
-Seguridad Privada; $362.00
-
-Los derechos causados conforme a esta Fracción, se deberán pagar los primeros quince días después de haber cumplido con los requisitos que para el registro le solicite al interesado la Subsecretaría de Seguridad Pública del Gobierno del Estado, cuando sea licencia de funcionamiento y cuando sea refrendo los primeros treinta días del mes de enero.
+II.- (DEROGADA, B.O. 20 DE DICIEMBRE DE 2019)
 
 III.- Consejería Jurídica Tarifa:
 
@@ -639,9 +591,9 @@ XXI. Exámenes extraordinarios de educación
 
 secundaria; $19.00
 
-XXII. Exámenes extraordinarios de educación
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
 
-media superior y superior; $72.00
+XXII.- Exámenes extraordinarios de educación media superior y superior, por materia;
 
 XXIII. Exámenes a título de suficiencia de educación
 
@@ -761,17 +713,9 @@ formación para el trabajo, sea cual fuere la
 
 modalidad. $902.00
 
-> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+XLVII. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2019)
 
-XLVII. Formato de certificado o certificación de estudios para
-
-instituciones educativas formadoras de docentes; $45.00
-
-> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
-
-XLVIII. Formato de título profesional para
-
-instituciones educativas formadoras de docentes; $80.00
+XLVIII. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2019)
 
 > <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -855,6 +799,126 @@ LIX. Refrendo anual y actualización de expedientes de
 
 escuelas incorporadas al Sistema Educativo Estatal. $6,391.92
 
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 19 Bis.
+
+Por los servicios que preste el Instituto Sudcaliforniano de Cultura, se causarán y pagarán derechos conforme a la siguiente:
+
+I.- Archivo Histórico Pablo L. Martínez
+
+Tarifa:
+
+a) Reproducción digital de documentos, por foja; $35.00
+
+b) Reproducción digital de fotografías, por unidad; $150.00
+
+c) Reproducción digital de mapas, planos y diseños,
+
+(Plancha completa), por unidad; $120.00
+
+d) Reproducción bibliográfica digitalización de libros y
+
+revistas, por página; $15.00
+
+e) Reproducción digital de hemeroteca,(Periódicos plana
+
+completa), por foja; $80.00
+
+f) Reproducción digital de hemeroteca, (Por tema o artículo
+
+solicitado), por media foja; $30.00
+
+g) Sesión fotográfica de documentos, por toma; $10.00
+
+h) Certificaciones de acervo documental y de mapoteca; $850.00
+
+II.- Escuela de Música
+
+Tarifa:
+
+a) Inscripción por ciclo escolar, pago único individual o por familia; $300.00
+
+b) Colegiatura mensual, a pagar los primeros cinco días al mes; $400.00
+
+c) Colegiatura mensual a parir de tres miembros de la misma
+
+familia o curso de instrumento adicional; $330.00
+
+d) Colegiatura mensual para alumnos del programa del
+
+Instituto Nacional de las Personas Adultas Mayores; $250.00
+
+e) Colegiatura mensual para alumnos del programa SEP,
+
+instrumentos de orquesta (Nivel Secundaria); $330.00
+
+f) Trámite por reducción de carga académica; $100.00
+
+g) Reposición y expedición de documentos oficiales; $20.00
+
+h) Uso de instrumento portátil para alumnos, pago mensual; $200.00
+
+i) Uso de piano para estudio en la escuela de Música del
+
+Estado, pago mensual; $1,000.00
+
+j) Examen extraordinario; $100.00
+
+III.- Casa de la Cultura
+
+Tarifa:
+
+a) Inscripción, pago anual; $150.00
+
+b) Cursos de modelado, dibujo, pintura, manualidades,
+
+grabado, gráfica y encuadernación, canto, piano, batería
+
+e iniciación a danza contemporánea, pago mensual; $400.00
+
+c) Cursos de verano, pago único; $450.00
+
+d) Taller de introducción al movimiento consciente,
+
+pago mensual; $450.00
+
+e) Taller de introducción al movimiento consciente,
+
+pago por sesión; $150.00
+
+f) Cursos música moderna, música regional, guitarra
+
+acústica para principiantes, danza árabe, pago mensual; $350.00
+
+g) Cursos de manualidades en repujado y pintura en tela,
+
+caricatura editorial, creación literaria y guion cinematográfico,
+
+pago mensual; $300.00
+
+h) Curso de ballet clásico, pago mensual; $250.00
+
+i) Coro de música mexicana, pago mensual; $200.00
+
+j) Taller de iniciación a danza contemporánea, por sesión; $50.00
+
+IV.- Ágora de La Paz
+
+Tarifa:
+
+a) Uso o goce del recinto "Salón de los Espejos",
+
+por hora o fracción; $120.00
+
+V.- Centro de Convenciones y Expresión Cultural de Sudcalifornia
+
+Tarifa:
+
+a) Uso o goce del espacio de Centro de Convenciones,
+
+por hora o fracción; $400.00
+
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ### Capítulo Quinto. De los Servicios prestados por la Secretaría de Turismo, Economía y Sustentabilidad
@@ -904,6 +968,14 @@ de Licencia de Funcionamiento. $8,751.00
 a) Recepción, Evaluación y Emisión del Registro del Plan de
 
 Manejo de Residuos de Manejo Especial (RME) $7,056.00
+
+> <small>(ADICIONADO [N. DE E. CON SU INCISO], B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+4. Reportes;
+
+a) Reporte de cumplimiento de términos, condicionantes y
+
+criterios en materia ambiental; $2,785.00
 
 > <small>(ADICIONADA [N. DE E. CON SU INCISO], B.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -973,9 +1045,27 @@ para la conexión de los servicios de agua potable
 
 y alcantarillado: $288.00
 
-II.- Cambio de régimen a propiedad en condominio a que se refiere la Ley Sobre el Régimen de Propiedad en Condominio del Estado de Baja California Sur:
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+II.- Servicios en Materia Urbana
+
+Tarifa:
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+a) Dictamen Técnico de Uso de Suelo: $2,270.00
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+b) Dictamen Técnico de Lotificación y/o Sembrado de Edificios: $2,270.00
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+c) Cambio de régimen a propiedad en condominio a que se refiere la Ley Sobre el Régimen de Propiedad en Condominio del Estado de Baja California Sur:
 
 > <small>[N. DE E. VÉASE TABLA EN EL B.O. DE 31 DE DICIEMBRE DEL 2015, PÁGINA 14.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, B.O. 20 DE DICIEMBRE DE 2019, PÁGINA 76.]</small>
 
 Para los efectos de esta Fracción, se entenderá por unidad, la unidad de propiedad exclusiva a que se refiere el Artículo 2° Fracción XVI de la Ley referida.
 
@@ -1267,13 +1357,15 @@ de carga: $1,033.00
 
 d) Motocicletas: $375.00
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
 Para la dotación y/o reposición de placas de identificación
 
 del servicio de control vehicular deberá tener cubierto el
 
-pago por concepto de revista vehicular, revisión
+pago por concepto de tarjeta de circulación vehicular,
 
-electromecánica, infracciones y licencia vigente.
+revisión electromecánica, infracciones y licencia vigente.
 
 e) Las personas físicas y morales que tengan negocios
 
@@ -1293,11 +1385,11 @@ No se podrán otorgar más de cinco juegos de placas por año,
 
 para una misma persona física o moral registrada.
 
-8 Expedición de la calcomanía de revalidación se pagará
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE DICIEMBRE DE 2019)</small>
 
-anualmente durante los primeros cuatro meses del año,
+8 Expedición de la tarjeta de circulación se pagará anualmente durante
 
-conforme a la siguiente tarifa:
+los primeros cuatro meses del año, conforme a la siguiente tarifa:
 
 a) Camiones, camionetas y pick-up: $469.00
 
@@ -2067,7 +2159,9 @@ así como a dependencias Federales y Municipios en
 
 el Boletín Oficial, por Plana: $722.00
 
-No se estará obligado al pago de dicha cuota tratándose de las publicaciones de Presupuestos de Egresos, Reglamentos y Estados Financieros de los Ayuntamientos del Estado.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+No se estará obligado al pago de dicha cuota tratándose de las publicaciones de Presupuestos de Egresos, Planes y Programas Municipales de Desarrollo Urbano, Reglamentos y Estados financieros de los Ayuntamientos del Estado.
 
 Los ingresos que se obtengan por la recaudación de los derechos a que se refiere la presente Fracción, se destinarán a la modernización y equipamiento de la Secretaría de Finanzas y Administración y de los Talleres Gráficos del Estado.
 
@@ -2099,9 +2193,61 @@ II. Constancia de No Sujeción a Proceso
 
 Administrativo; $72.00
 
-### Capítulo Único
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+### Capítulo Décimo Primero. De los Servicios prestados por la Secretaría de Seguridad Pública
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 28 Bis.
+
+Por los servicios prestados por la Secretaría de Seguridad Pública se causarán y pagarán los derechos conforme a la siguiente:
+
+I.- Seguridad Pública
+
+Tarifa:
+
+a) Expedición de licencias para prestar servicios de
+
+seguridad privada; $8,320.00
+
+b) Refrendo anual de licencia para prestar servicios
+
+de seguridad privada; $3,780.00
+
+c) Autorización y Registro de Personal de Seguridad
+
+Privada por cada agente. $380.00
+
+d) Constancia de No Antecedentes Penales; $76.00
+
+e) Aplicación de Evaluaciones; $4,840.00
+
+f) Inclusión de modalidades en la licencia para prestar
+
+Servicios de Seguridad Privada; $3,780.00
+
+g) Estudio y tramite de la solicitud de autorización
+
+para prestar Servicios de Seguridad Privada; $380.00
+
+h) Capacitación básica a personal de Empresas de
+
+Seguridad Privada; $3,000.00
+
+i) Capacitación intermedia a personal de Empresas de
+
+Seguridad Privada; $3,500.00
+
+j) Capacitación especializada a personal de Empresas de
+
+Seguridad Privada; $5,000.00
+
+Los derechos causados conforme a esta fracción, se deberán pagar los primeros quince días después de haber cumplido con los requisitos que para el registro le solicite al interesado la Secretaría de Seguridad Pública del Gobierno del Estado, cuando sea licencia de funcionamiento y cuando sea refrendo los primeros 30 días del mes de Enero. La capacitación que se menciona en ésta fracción será únicamente para aquellas empresas que cuenten con autorización por parte de la Secretaría de Seguridad Pública del Estado.
 
 ## Título Cuarto. De los productos
+
+### Capítulo Único
 
 ###### Artículo 29.
 
@@ -2188,3 +2334,9 @@ B.O. 31 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 2586 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día 01 de enero del 2019, previo su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2665 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día 01 de enero del 2020, previo su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
