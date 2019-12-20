@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-asentamientos-humanos-ordenamiento-territorial-y-124616"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-27"
-last_updated: "2019-09-25"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el lunes 27 de noviembre de 2017.
 
@@ -4541,9 +4541,17 @@ XI. Realizarse bajo criterios de sustentabilidad, de tal forma que permitan un m
 
 XII. Las instalaciones deberán incluir aparatos sanitarios de consumo bajo de agua, accesorios, materiales y especificaciones para el aprovechamiento racional del agua y que eviten dispendios y fugas, todo bajo el nuevo enfoque de desarrollo sustentable;
 
-XIII. Realizarse y utilizarse bajo especificaciones que permitan prevenir y controlar los riesgos de contaminación, sujetándose a las Leyes aplicables; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
-XIV. En los casos de instalación y construcción de anuncios panorámicos por seguridad y protección deben contar con una memoria de cálculo estructural firmada por un profesionista responsable que garantice una resistencia mínima de los componentes físicos de soporte de los anuncios de 120 Km./hr contra el viento.
+XIII. Realizarse y utilizarse bajo especificaciones que permitan prevenir y controlar los riesgos de contaminación, sujetándose a las Leyes aplicables;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XIV. En los casos de instalación y construcción de anuncios panorámicos por seguridad y protección deben contar con una memoria de cálculo estructural firmada por un profesionista responsable que garantice una resistencia mínima de los componentes físicos de soporte de los anuncios de 120 Km./hr contra el viento; y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XV. Contar, desde el inicio hasta la conclusión de la obra y mantener en todo momento a la vista del público, en el exterior del inmueble, en lugar de fácil acceso de la obra, una lona de materiales ecológicos la cual también deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias toxicas o nocivas para la salud o el medio ambiente, como también resistente a la intemperie de un metro cuadrado, que contenga los datos esenciales que permitan identificar el número de la Licencia o Permiso de Construcción o Edificación, otorgada por la Autoridad Competente, su vigencia, así como el tipo de obra, el uso o destino del suelo, giro de que se trate, y el nombre de la persona responsable de la construcción, quien lo será también de verificar el cumplimiento de esta disposición.
 
 ### Capítulo Séptimo. De las Acciones de Conservación y Mejoramiento
 
@@ -7556,3 +7564,17 @@ P.O. 25 DE SEPTIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 153. SE REFORMA POR MODIFICACIÓN LOS ARTÍCULOS 23, 34, Y EL SEGUNDO PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 43, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 34, TODOS DE LA LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO (SIC); Y SE REFORMA POR MODIFICACIÓN EL PRIMER PÁRRAFO DEL ARTÍCULO 166 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 200. SE REFORMAN POR MODIFICACIÓN LOS ARTÍCULOS TERCERO Y SEXTO TRANSITORIOS DEL DECRETO POR EL QUE SE EXPIDE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEON”.]
+
+Único.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 205. SE REFORMA (SIC) LAS FRACCIONES XIII Y XIV Y SE ADICIONA LA FRACCIÓN XV DEL ARTÍCULO 237 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Los Municipios en un plazo no mayor a 60-sesenta días naturales contados a partir de la entrada en vigor de este Decreto, deberán realizar las reformas necesarias para ajustar sus Reglamentos Municipales a las disposiciones del presente Decreto.
