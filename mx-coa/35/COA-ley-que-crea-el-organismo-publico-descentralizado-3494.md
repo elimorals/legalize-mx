@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-organismo-publico-descentralizado-3494"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-31"
-last_updated: "2017-03-17"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3494&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "COMISIÓN ESTATAL DE AGUAS Y SANEAMIENTO DE COAHUILA"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 31 de agosto de 1993.
 
@@ -39,11 +39,11 @@ LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COMISION ESTATAL D
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO PRIMERO.
 
-Se crea el Organismo Público Descentralizado "Comisión Estatal de Aguas y Saneamiento de Coahuila", con personalidad jurídica y patrimonio propios, que en lo sucesivo se denominará "El Organismo", con domicilio en la ciudad de Saltillo, Coahuila de Zaragoza, sin perjuicio de que pueda establecer en otras poblaciones del Estado las delegaciones y oficinas que estime necesarias para la realización de sus actividades, y que estará sectorizado a la Secretaría de Medio Ambiente.
+Se crea el Organismo Público Descentralizado "Comisión Estatal de Aguas y Saneamiento de Coahuila", con personalidad jurídica y patrimonio propios, que en lo sucesivo se denominará "El Organismo", con domicilio en la ciudad de Saltillo, Coahuila de Zaragoza, sin perjuicio de que pueda establecer en otras poblaciones del Estado las delegaciones y oficinas que estime necesarias para la realización de sus actividades, y que estará sectorizado a la Secretaría de Vivienda y Ordenamiento Territorial.
 
 El Gobierno del Estado asignará al organismo el presupuesto suficiente para su operación.
 
@@ -113,9 +113,9 @@ El Consejo Directivo será el órgano superior de Gobierno de la Comisión y se 
 
 I.- (DEROGADA, P.O. 17 DE MARZO DE 2017)
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
-II.- Un Presidente que será la persona titular de la Secretaría de Medio Ambiente;
+II.- Un Presidente que será la persona titular de la Secretaría de Vivienda y Ordenamiento Territorial;
 
 > <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
@@ -123,9 +123,13 @@ III.- Cuatro vocales, que serán las personas titulares de la:
 
 a) Secretaría de Finanzas;
 
-b) Secretaría de Desarrollo Económico, Competitividad y Turismo;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
-c) Secretaría de Infraestructura y Transporte; y
+b) Secretaría de Economía;
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+c) Secretaría de Infraestructura, Desarrollo Urbano y Movilidad; y
 
 d) Secretaría de Salud.
 
@@ -414,3 +418,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 396.- SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO PRIMERO; LA FRACCIÓN II Y LOS INCISOS B) Y C) DE LA FRACCIÓN III DEL ARTÍCULO SEXTO, DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "COMISIÓN ESTATAL DE AGUAS Y SANEAMIENTO DE COAHUILA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Reglamento Interior de la Comisión Estatal de Aguas y Saneamiento de Coahuila, deberá adecuarse en un plazo no mayor a noventa días a partir de la entrada en vigor del presente decreto.
+
+TERCERO.- En lo que no se opongan al presente decreto, continuarán aplicándose las disposiciones del Reglamento Interior de la Comisión Estatal de Aguas y Saneamiento de Coahuila vigente en la fecha de publicación del presente decreto, hasta en tanto se realice su adecuación.
+
+CUARTO.- Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
