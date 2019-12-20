@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2019-12-13"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -2160,6 +2160,10 @@ En todo caso, las iniciativas para la expedición, reforma, derogación o abroga
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
 V. La publicación deberá hacerse siempre en el Periódico Oficial del Gobierno del Estado y, en su caso, en la gaceta oficial del Municipio siempre que se ordene publicarse expresamente. No obstante, para la vigencia del bando de policía y gobierno, los reglamentos, las circulares y las disposiciones de observancia general, bastará con la publicación en el Periódico Oficial del Gobierno del Estado. Si la importancia de la materia así lo amerita, a juicio del ayuntamiento o del presidente municipal, deberá publicarse también, como preámbulo del ordenamiento jurídico de que se trate, una exposición de motivos, aprobada por el propio ayuntamiento, con el objetivo de lograr la interpretación y aplicación más correcta posible, del instrumento legal que se expide.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+La secretaría del ayuntamiento, bajo su más estricta responsabilidad, deberá remitir a la secretaría de gobierno del Estado, dentro de los quince días naturales siguientes a la sesión de cabildo, la certificación donde conste la expedición, reforma, derogación o abrogación de la legislación municipal para los efectos de su publicación en los términos del párrafo anterior.
 
 VI. La reforma o adición de los ordenamientos legales municipales, se podrá llevar a cabo en cualquier tiempo, siempre que se cumplan las anteriores bases normativas.
 
@@ -4856,3 +4860,11 @@ P.O. 13 DE DICIEMBRE DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 402.- SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN V, DEL ARTÍCULO 176 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; y
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
