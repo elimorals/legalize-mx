@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-electricidad-120888
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-04-12"
-last_updated: "2019-09-23"
+last_updated: "2019-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120888&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2017-04-05"
 ---
 # ESTATUTO ORGANICO DE LA COMISION FEDERAL DE ELECTRICIDAD
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE DICIEMBRE DE 2019 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 20 DE DICIEMBRE DE 2019.]</small>
 
 Estatuto publicado en la Segunda Sección al Número 8 del Diario Oficial de la Federación, el miércoles 12 de abril de 2017.
 
@@ -407,9 +407,9 @@ III. Subdirección de Evaluación Operativa; y
 
 IV. Subdirección de Seguridad Física.
 
-> <small>(ADICIONADA, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+(ADICIONADA, D.O.F. 23 DE SEPTIEMBRE DE 2019) (F. DE E., D.O.F. 20 DE DICIEMBRE DE 2019)
 
-V. Coordinación de Monitoreo y Análisis Operativo.
+V. Coordinación de Monitoreo y Análisis Operativo de Energéticos.
 
 ###### ARTÍCULO 16.
 
@@ -823,11 +823,11 @@ V. Coordinar la elaboración de los estudios, los proyectos y la operación de l
 
 VI. Elaborar los planes de emergencia para restablecer la seguridad en los centros de trabajo estratégicos de la Comisión que pudieran ver comprometida dicha seguridad.
 
-> <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2019) (F. DE E., D.O.F. 20 DE DICIEMBRE DE 2019)
 
 ###### Artículo 37 Bis.
 
-A la Coordinación de Monitoreo y Análisis Operativo, además de las funciones genéricas señaladas en el presente Estatuto, le corresponden las siguientes:
+A la Coordinación de Monitoreo y Análisis Operativo de Energéticos, además de las funciones genéricas señaladas en el presente Estatuto, le corresponden las siguientes:
 
 I. Coadyuvar, con las Empresas Productivas Subsidiarias de generación, la Subdirección de Negocios no Regulados y las Empresas filiales de proveeduría de insumos primarios, en la planificación de los requerimientos de combustibles de corto, mediano y largo plazo para cada una de las centrales;
 
@@ -943,9 +943,13 @@ A la Coordinación de Administración y Servicios, además de las funciones gen�
 
 I. Emitir las convocatorias, bases y pliegos de requisitos relacionados con la adquisición de bienes, servicios y obras que requiera la Comisión o cualquiera de sus empresas productivas subsidiarias que se lo solicite;
 
-II. Proponer disposiciones normativas, en materia de adquisiciones, arrendamientos, servicios y almacenes;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2019)</small>
 
-III. Implementar las acciones referidas a procesos de servicios generales, protección civil, transporte de bienes, transportes aéreos y terrestres, logística administrativa en inmuebles de la Comisión, aplicables a la Comisión;
+II. Proponer disposiciones normativas, en materia de adquisiciones, arrendamientos, servicios, inteligencia de mercado y almacenes;
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2019)</small>
+
+III. Implementar las acciones referidas a procesos de inteligencia de mercado, servicios generales, protección civil, transporte de bienes, transportes aéreos y terrestres, logística administrativa en inmuebles de la Comisión, aplicables a la Comisión;
 
 IV. Coordinar la operación del sistema electrónico de contrataciones de la Comisión y sus empresas productivas subsidiarias.
 
@@ -1364,3 +1368,9 @@ D.O.F. 23 DE SEPTIEMBRE DE 2019.
 PRIMERO.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Para realizar las actividades puntualizadas de las funciones de la Dirección Corporativa de Negocios Comerciales y hasta en tanto se formalicen las posibles transferencias de bienes materiales, sistemas y recursos humanos, estos últimos podrán ser comisionados.
+
+D.O.F. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DE “MODIFICACIONES AL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD”.]
+
+Único.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
