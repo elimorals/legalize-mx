@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2019-09-24"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -173,6 +173,10 @@ XVII. Fomentar las medidas necesarias para la protección y cuidados de las y lo
 
 XVIII. Promover, fomentar e impulsar en los educandos una cultura de paz, a través de técnicas de mediación y prácticas restaurativas para la solución de conflictos derivados del ámbito escolar.
 
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XIX. Promover la inclusión, como eje transversal, de la educación ambiental, entendida, como el proceso tendiente a la formación de una conciencia crítica ante los problemas ambientales, en el que el educando asimila los conceptos e interioriza las actitudes que le permitan evaluar las relaciones de interdependencia establecidas entre la sociedad y su medio natural, considerando el ámbito educativo formal e informal; y de la cultura ambiental que permita le (sic) participar responsablemente en la atención y solución de los problemas ambientales, para contribuir al tránsito del desarrollo sostenible en el Estado.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 ARTICULO 7° BIS.- El criterio que orientará a la educación que el Estado y sus organismos descentralizados impartan -así como toda la educación preescolar, la primaria, la secundaria, media superior, la normal y demás para la formación de las y los maestros de educación básica que los particulares impartan- se basará en los resultados del progreso científico; luchará contra la ignorancia y sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia especialmente la que se ejerce contra las mujeres, niñas, niños y adolescentes, debiendo implementar políticas públicas de Estado orientadas a la transversalidad de criterios en los tres órdenes de gobierno y:
@@ -269,9 +273,17 @@ XXIII.- Promover la transparencia en las escuelas públicas y particulares en la
 
 XXIV.- Capacitar a los responsables de los centros educativos en materia de protección civil, y conocimiento acerca de la normatividad referente a la seguridad y los planes de contingencia de disturbios; para que lo difundan entre el personal docente y administrativo de dichos centros;
 
-XXV.- Proveer la información que el Instituto Nacional de Evaluación Educativa requiera para el ejercicio de sus funciones, así como cumplir con los lineamientos que éste emita y demás funciones que de manera análoga le correspondan de conformidad con la normatividad aplicable; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
-XXVI.- Las demás que le confiera la presente ley y otras disposiciones aplicables.
+XXV.- Proveer la información que el Instituto Nacional de Evaluación Educativa requiera para el ejercicio de sus funciones, así como cumplir con los lineamientos que éste emita y demás funciones que de manera análoga le correspondan de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XXVI.- Coordinarse con la Secretaría del Medio Ambiente, a fin de generar los programas de educación ambiental, de forma integral e interdisciplinario en todos los niveles educativos donde se considere al medio ambiente como un todo e involucren tanto a educandos como a docentes, en la identificación y resolución de problemas a través de la adquisición de conocimientos, valores, actitudes y habilidades, propios de la ciencia ambiental para la toma de decisiones y la participación activa y organizada para el logro de un desarrollo sustentable; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XXVII.- Las demás que le confiera la presente ley y otras disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
 
@@ -639,13 +651,15 @@ V.- Orientar la influencia formativa de los adultos y su actitud al relacionarse
 
 VI.- Promover la adquisición y mejoramiento de hábitos de higiene, salud y alimentación;
 
-VII.- Vincular la labor educativa de los niños con el desarrollo comunitario y la preservación del medio ambiente; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+VII.- Vincular la labor educativa de los niños con el desarrollo comunitario y la educación ambiental y preservación del medio ambiente; y
 
 VIII.- Orientar a padres de familia o a los tutores para la educación de sus hijos o pupilos.
 
 ### CAPITULO III. DE LA EDUCACIÓN BÁSICA
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 36.
 
@@ -653,13 +667,13 @@ La educación básica tiene como propósito formar y desarrollar en los educando
 
 La Secretaría de Educación del Estado diseñará las estrategias necesarias para articular pedagógicamente los niveles educativos que comprende la educación básica tomando en consideración la normatividad aplicable que en este rubro señale la autoridad federal.
 
+La Secretaría de Educación fortalecerá en los educandos la dimensión ambiental e incorporará los criterios, enfoques y contenidos de sustentabilidad en los programas del sistema educativo estatal adecuándolos a las prerrogativas y realidades de la entidad, como lo son el cambio climático, la reducción de riesgos de desastres, la seguridad humana, los estilos de vida y consumo sostenibles.
+
 En el servicio educativo destinado a menores de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesario para preservar su integridad física, psicológica y social, sobre la base del respeto a su persona y la aplicación de la disciplina escolar compatible con su edad.
 
 Se brindarán cursos a los docentes y al personal que labora en los planteles de educación, sobre los derechos y la obligación que tienen al estar encargados de la custodia de los menores educandos, de protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso, trata o explotación.
 
 En caso de que los educadores así como las autoridades educativas, tengan conocimiento de la comisión de algún delito en agravio de los estudiantes, lo harán del conocimiento inmediato de la autoridad correspondiente.
-
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
 Así mismo, cuando las autoridades educativas, los directores de los planteles educativos, así como el resto del personal docente noten la prolongada o reiterada ausencia de un estudiante deberán notificarlo o reportarlo ante la Procuraduría para Niños, Niñas y la Familia con la finalidad de descartar o detectar posibles situaciones de maltrato infantil.
 
@@ -697,6 +711,10 @@ X.- Orientar el conocimiento de la diversidad cultural y la valoración de las m
 
 XI.- Ofrecer oportunidades para el conocimiento y la práctica de normas y hábitos básicos de higiene y alimentación que ayuden a prevenir enfermedades y preservar la salud.
 
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XII.- Fortalecer la educación basada en valores, en principios de tolerancia, igualdad de género, del cuidado y protección del medio ambiente, así como del aprovechamiento sustentable de los recursos naturales.
+
 #### SECCIÓN SEGUNDA. DE LA EDUCACIÓN PRIMARIA
 
 ###### ARTICULO 39.
@@ -726,6 +744,10 @@ VIII.- Capacitar respecto al uso de instrumentos sencillos de trabajo y empleo d
 IX.- Orientar en el educando la adquisición de una conciencia de participación comprometida con el cuidado y conservación del entorno natural y social; y
 
 X.- Fortalecer la práctica de los valores y el respeto a los símbolos patrios.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XI.- Inculcar los conceptos y principios fundamentales de la ciencia ambienta (sic), el desarrollo sostenible, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del educando y la sociedad.
 
 #### SECCIÓN TERCERA. DE LA EDUCACIÓN SECUNDARIA
 
@@ -758,6 +780,10 @@ VIII.- Apoyar al educando con talleres de orientación vocacional, implementados
 (ADICIONADA, P.O. 12 DE ABRIL DE 2016) (F. DE E., P.O. 3 DE JUNIO DE 2016)
 
 IX.- Fortalecer la conciencia histórica de identidad regional, estatal y nacional mediante el conocimiento y la práctica de la justicia, la democracia y la solidaridad.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+X.- Inculcar la contribución al desarrollo sostenible por medio de procesos de información, actualización, capacitación y profesionalización para llevar a cabo las acciones relativas a la protección del medio ambiente y la conservación y restauración de los recursos naturales, en forma individual y colectiva;
 
 ### CAPITULO IV. DE LAS ÁREAS DE APOYO
 
@@ -873,6 +899,10 @@ V.- Fortalecer la identidad regional y nacional a través del aprecio por la cul
 
 VI.- Fomentar la práctica continua de los valores humanos en la convivencia social.
 
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+VII.- Generar una cultura ambiental a través del conocimiento, la ética y el desarrollo de competencias que posibiliten un aprendizaje sobre la realidad local y alcanzar una mejor comprensión de las causas, consecuencias y posibles soluciones a problemas ambientales.
+
 ###### ARTICULO 52.
 
 La educación profesional técnica tendrá las siguientes características y finalidades:
@@ -882,6 +912,10 @@ I.- Proporcionar capacitación y adiestramiento a través de las carreras técni
 II.- Vincular al educando con el sector productivo de bienes y servicios de la entidad; y
 
 III.- Inculcar en los alumnos el cumplimiento de las disposiciones legales y profesionales relacionadas con las actividades técnicas o especialidades que adquieran.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+IV.- Dotar de una sólida preparación profesional en los estudiantes buscando que adquieran amplios conocimientos científicos, pedagógicos y de educación ambiental para la sostenibilidad.
 
 La educación profesional técnica no constituirá antecedente académico para ascender a la educación superior.
 
@@ -932,6 +966,10 @@ VIII.- Capacitar al estudiante en el conocimiento y aplicación de la legislaci�
 IX.- Preparar al futuro docente en el campo de la investigación para conocer y explicar los problemas educativos de su contexto y proponer medidas de solución; y
 
 X.- Fomentar el conocimiento y el aprecio a los derechos humanos por parte de los futuros profesionales de la educación.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XI.- Desarrollar en el futuro docente, una conciencia ecológica para que pueda orientar a las comunidades educativas en el mejoramiento y conservación del medio ambiente.
 
 ### CAPITULO VII. DE LA EDUCACIÓN PARA ADULTOS
 
@@ -1033,11 +1071,11 @@ Las autoridades educativas locales a través del Consejo Nacional de Participaci
 
 Los planes y programas de estudio a que se refiere este artículo deberán ser publicados en el Periódico Oficial del Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 65.
 
-La autoridad educativa del estado pondrá a consideración y, en su caso, autorización de la autoridad federal, contenidos que permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, la cultura, el medio ambiente y los recursos naturales, igualdad de género, derechos humanos, así como otros aspectos propios del Estado de Coahuila.
+La autoridad educativa del estado pondrá a consideración y, en su caso, autorización de la autoridad federal, contenidos que permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, la cultura, igualdad de género, derechos humanos, además los conceptos fundamentales de la ciencia ambiental, el desarrollo sostenible, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente, como elementos esenciales para el desenvolvimiento armónico e integral del educando; también los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
 
@@ -1950,3 +1988,11 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 409.- SE MODIFICA EL CONTENIDO DE LA FRACCIÓN XXVI, DEL ARTÍCULO 7 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
