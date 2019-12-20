@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-deuda-publica-para-el-estado-de-baja-california-sur-1170
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-31"
-last_updated: "2019-04-20"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117075&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE DEUDA PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de Octubre de 2016.
 
@@ -57,11 +57,19 @@ LEY DE DEUDA PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público y tiene por objeto establecer las bases y requisitos para la contratación y celebración de Financiamientos y Obligaciones que formen parte de la deuda pública, así como regular lo relativo a su gestión, administración, refinanciamiento, reestructuración, registro y control.
+La presente Ley es de orden público, tiene como objeto establecer los criterios, bases y requisitos para la programación, autorización, contratación, registro y control de la Deuda Pública y las Obligaciones que regirán al Estado, sus Municipios y a los demás Entes Públicos sujetos a esta Ley, de conformidad con el artículo 79 Fracción XVIII y el artículo 148 Fracción XXVII de la Constitución Política del Estado Libre y Soberano de Baja California Sur y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-En lo no previsto en la presente Ley, le será aplicado lo establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+La presente Ley deberá ser interpretada de forma armónica y funcional con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y considerando la normatividad que derive de la misma.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+En lo no previsto en esta Ley, se estará a lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Baja California Sur, así como las disposiciones que sobre la materia se contengan en otros ordenamientos jurídicos.
 
 ###### ARTÍCULO 2.
 
@@ -81,7 +89,9 @@ V. Los fideicomisos públicos que formen parte de la administración pública pa
 
 Para efectos de esta Ley, en singular o plural, se entenderá por:
 
-I. Asociaciones Público-Privadas: Las previstas en la Ley de Asociaciones Público Privadas para el Estado de Baja California Sur;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+I. Asociaciones Público-Privadas: Las previstas en la Ley de Asociaciones Público Privadas para el Estado de Baja California Sur, incluyendo los proyectos de prestación de servicios o cualquier esquema similar de carácter local, independientemente de la denominación que se utilice;
 
 II. Deuda Contingente: Cualquier Financiamiento sin fuente o garantía de pago definida, que sea asumida de manera solidaria o subsidiaria por el Estado con sus Municipios, organismos descentralizados y empresas de participación estatal mayoritaria y fideicomisos, locales o municipales y, por los propios Municipios con sus respectivos organismos descentralizados y empresas de participación municipal mayoritaria;
 
@@ -101,13 +111,19 @@ IX. Deuda Pública Municipal: La que contraigan, como obligados directos, los Mu
 
 X. Deuda Pública Municipal Contingente: Cuando el Municipio actúe como garante, avalista o deudor solidario, mancomunado o subsidiario de otros municipios, de sus organismos descentralizados municipales o intermunicipales, de las empresas de participación municipal y de los fideicomisos públicos municipales;
 
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+X Bis. Disponibilidades: Los recursos provenientes de los ingresos que durante los ejercicios fiscales no fueron pagados ni devengados para algún rubro del gasto presupuestado, excluyendo las transferencias federales etiquetadas;
+
 XI. Entidades Públicas: La señalada en el Artículo 2 de la presente Ley;
 
 XII. Estado: El Estado de Baja California Sur;
 
 XIII. Financiamiento: Toda operación constitutiva de un pasivo, directo, indirecto o contingente, de corto, mediano o largo plazo, a cargo de las Entidades Públicas, derivada de un crédito, empréstito o préstamo, emisiones bursátiles, así como arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente;
 
-XIV. Financiamiento Neto: La diferencia entre las disposiciones realizadas de un Financiamiento y las amortizaciones efectuadas de la Deuda Pública;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XIV. Financiamiento Neto: La suma de las disposiciones realizadas de un financiamiento y las disponibilidades, menos las amortizaciones efectuadas de la Deuda Pública;
 
 XV. Fuente de pago: Los recursos utilizados por las Entidades Públicas para el pago de cualquier Financiamiento u Obligación;
 
@@ -235,7 +251,9 @@ IV. Incluir anualmente dentro del proyecto de Presupuesto de Egresos del Estado,
 
 V. Contratar los Financiamientos y Obligaciones a su cargo bajo las mejores condiciones de mercado, de conformidad con la autorización del Congreso del Estado, en representación del Estado, e
 
-VI. Informar al Congreso del Estado de la situación que guarda la Deuda Pública de conformidad con lo establecido por el artículo 67 de esta Ley, al presentar el proyecto de Ley de Ingresos y el Presupuesto de Egresos y en los demás casos que lo establezcan otras disposiciones legales. Dicho informe deberá contener al menos lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+VI. Informar al Congreso del Estado la situación que guarda la Deuda Pública y el ejercicio de las partidas presupuestales correspondientes al rendir el informe de la Cuenta Pública de conformidad con lo establecido en el artículo 67 de esta Ley, al presentar el proyecto de Ley de Ingresos y el Presupuesto de Egresos, sujetándose a la Ley General de Contabilidad Gubernamental y a las disposiciones emitidas por el Consejo Nacional de Armonización Contable, sin perjuicio de las demás obligaciones que establezcan otras disposiciones legales. Dicho informe deberá contener al menos lo siguiente:
 
 a) El origen y condiciones de la operación de la deuda, tales como: los montos de financiamiento contratados, los organismos que contrataron, los plazos, las tasas de interés, los periodos de gracia y las garantías;
 
@@ -287,7 +305,9 @@ XV. Aprobar, previamente a la autorización del Congreso del Estado, los montos 
 
 XVI. Contratar a empresas calificadoras debidamente autorizadas en México, auditores externos o asesores especializados, a efecto de que emitan su opinión respecto de la calidad crediticia del Estado y las calificaciones sobre la estructura y mecanismos de pago de los Financiamientos y Obligaciones que negocie el Estado y sus Entidades Públicas y para que realicen la revisión periódica de las calificaciones respectivas; así como la dictaminación de los estados financieros del Estado, que incluyan la situación de la Deuda Pública o que sean estructuradores de las operaciones financieras que celebre el Estado;
 
-XVII. Solicitar la inscripción de los Financiamientos y Obligaciones que contrate, en el Registro Público Único que al efecto lleva la Secretaría de Hacienda y Crédito Publico e informar a dicha dependencia, sobre la situación que guarden, de acuerdo con lo previsto en la normatividad aplicable;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XVII. Solicitar la inscripción, modificación y cancelación de los Financiamientos, Obligaciones e Instrumentos Derivados que contrate, en el Registro Público Único que al efecto lleva la Secretaría de Hacienda y Crédito Público, e informar a dicha dependencia sobre la situación que guarden sus obligaciones inscritas en dicho registro de acuerdo con lo previsto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
 XVIII. Llevar el Registro Estatal, de acuerdo a lo previsto en esta Ley;
 
@@ -295,9 +315,23 @@ XIX. Inscribir en el Registro Estatal los Financiamientos y Obligaciones que cel
 
 XX. Expedir a través del Registro Estatal, las certificaciones que correspondan, con relación a las obligaciones que se encuentren inscritas en dicho registro;
 
-XXI. Asesorar a las Entidades Públicas señaladas en las fracciones II, III, IV y V del Artículo 2 de esta Ley, en todo lo relativo a las operaciones que pretendan realizar en materia de Deuda Pública; y
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
 
-XXII. Las demás que, en materia de Deuda Pública, le confieran la Constitución Política del Estado de Baja California Sur, esta Ley u otras disposiciones legales.
+XXI. Asesorar a las Entidades Públicas señaladas en las fracciones II, III, IV y V del artículo 2 de esta Ley, en la formulación de sus proyectos financieros y en todo lo relativo a las operaciones que pretendan realizar en materia de deuda pública. En caso de que el Congreso del Estado y el Poder Judicial del Estado requieran asesoría en esta materia deberá suscribirse un convenio de colaboración;
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XXII. Suscribir, previa autorización del Congreso del Estado, los convenios necesarios para adherirse al mecanismo de contratación de Deuda Estatal Garantizada y afectar las participaciones que en ingresos federales le correspondan al Estado que sean necesarias, en los términos que se convengan con la Secretaría de Hacienda y Crédito Público, y
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XXIII. Las demás que, en materia de Deuda Pública, le confieran la Constitución Política del Estado Libre y Soberano de Baja California Sur, esta Ley u otras disposiciones legales.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 8
+
+BIS. La Secretaría coadyuvará, si así se lo solicitan, con las Entidades Públicas para lograr que tengan una planeación financiera integral y finanzas públicas sostenibles.
 
 ###### ARTÍCULO 9.
 
@@ -327,7 +361,9 @@ XI. Solicitar al Poder Ejecutivo del Estado para que, por conducto de la Secreta
 
 XII. Solicitar a las entidades de la administración pública paramunicipal, la documentación e información complementaria que requiera para el análisis de las solicitudes de autorización de endeudamiento cuando se les solicite fungir como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos;
 
-XIII. Incluir, anualmente, en los presupuestos de egresos municipales, la o las partidas presupuestales necesarias y suficientes para cubrir, en su totalidad, el pago del servicio de la deuda pública a su cargo, correspondiente al ejercicio fiscal que se trate;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XIII. Preparar anualmente y obtener del cabildo la aprobación del Presupuesto de Egresos del Municipio de que se trate e incluir en dicho documento las partidas presupuestales necesarias para cubrir, en su totalidad la Deuda Pública, Financiamientos y obligaciones contenidas en Instrumentos Derivados a cargo del Municipio y las Entidades de la Administración Pública Paramunicipal correspondientes, pagaderas en el ejercicio fiscal de que se trate, cumpliendo con los requisitos señalados en la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Baja California Sur y su reglamento, que le sean aplicables y con las disposiciones municipales en materia de programación y presupuestación. La inclusión en el Presupuesto de Egresos Municipal de las Obligaciones derivadas de Contratos de Asociaciones Público-Privadas se realizará de conformidad con lo establecido en esta Ley, en la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Baja California Sur y en la Ley de Asociaciones Público Privada (sic) para el Estado de Baja California Sur;
 
 XIV. Vigilar que se incluyan anualmente dentro de los presupuestos de egresos de las entidades de la administración pública paramunicipal, la o las partidas presupuestales necesarias y suficientes para cubrir, en su totalidad, el pago del servicio de la deuda pública a cargo de las mismas, correspondiente al ejercicio fiscal que se trate;
 
@@ -341,13 +377,43 @@ XVII. Proporcionar al Congreso del Estado, por conducto de la Auditoría Superio
 
 XVIII. Contratar a empresas calificadoras debidamente autorizadas en México, a efecto de que emitan su opinión respecto de la calidad crediticia del Municipio y las calificaciones sobre la estructura y mecanismo de pago de los Financiamientos que se proponga instrumentar el Municipio y sus entidades paramunicipales, y para que realicen la revisión periódica de las calificaciones respectivas;
 
-XIX. Solicitar la inscripción de los Financiamientos y Obligaciones que contraten, en el Registro Público Único que al efecto lleva la Secretaría de Hacienda y Crédito Público e informar a dicha dependencia sobre la situación que guarden sus obligaciones inscritas en el citado registro, de acuerdo a lo previsto en la normatividad aplicable;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
 
-XX. Inscribir los Financiamientos y Obligaciones que contraten, en el Registro Estatal e informar a la Secretaría sobre la situación que guarden sus obligaciones inscritas en dicho registro, de acuerdo a lo previsto en esta Ley y notificar, en su caso, el pago de los Financiamientos y Obligaciones inscritas para efectos de la cancelación de las inscripciones correspondientes;
+XIX. Solicitar la inscripción, modificación y cancelación de los Financiamientos, Obligaciones e Instrumentos Derivados que celebre el Municipio, en el Registro Público Único que lleve la Secretaría de Hacienda y Crédito Público, e informar a dicha dependencia sobre la situación que guarden sus obligaciones inscritas en dicho registro de acuerdo a lo previsto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XX. Solicitar la inscripción, modificación y cancelación de los Financiamientos y Obligaciones e Instrumentos Derivados que celebren en el Registro Estatal de Financiamientos y Obligaciones que lleve la Secretaría, e informar a dicha dependencia sobre la situación que guarden sus obligaciones inscritas en el Registro de acuerdo a lo previsto en esta Ley y notificar, en su caso, el pago total de las obligaciones inscritas para efecto de la cancelación de la inscripción correspondiente;
 
 XXI. Solicitar al Registro Estatal la expedición de las certificaciones correspondientes con relación a los Financiamientos y Obligaciones a su cargo que se encuentren inscritas en dicho registro; y
 
-XXII. Las demás que, en materia de Deuda Pública, le confieran la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Baja California Sur, esta Ley u otras disposiciones legales.
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XXII. Presentar anualmente al Congreso del Estado las iniciativas de Ley de Ingresos en la cual se contemplen los montos de endeudamiento netos necesarios para el financiamiento de su Presupuesto de Egresos y proporcionar suficientes elementos de juicio para justificar dichos montos, en términos de lo dispuesto en el artículo 117, fracción VIII de la Constitución Política de los Estados Unidos Mexicanos y de conformidad con lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XXIII. Solicitar la autorización del Congreso del Estado para aprobar montos y conceptos de endeudamientos no previstos o adicionales a los autorizados en la Ley de Ingresos cuando considere que existen circunstancias extraordinarias que así lo justifiquen;
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XXIV. Publicar información financiera de acuerdo con las disposiciones establecidas en la Ley General de Contabilidad Gubernamental y las normas emitidas por el Consejo Nacional de Armonización Contable;
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XXV. Informar a la Secretaría y a la Secretaría de Hacienda y Crédito Público con la periodicidad que éstas establezcan, la situación que guardan las finanzas municipales, las obligaciones crediticias inscritas en el Registro Estatal de Financiamientos y Obligaciones y en el Registro Público Único, conforme a las características y mediante los mecanismos que cada uno determine;
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XXVI. Autorizar los convenios para adherirse al mecanismo de contratación de Deuda Estatal Garantizada, así como suscribir los convenios previa autorización del Congreso del Estado, de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XXVII. Los Ayuntamientos son responsables de la inscripción, modificación, cancelación, actualización y envío de información al Registro Público Único y al Registro Estatal de Financiamientos y Obligaciones, dentro de los plazos señalados en esta Ley, y
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XXVIII. Las demás que, en materia de Deuda Pública, le confieran la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Baja California Sur, esta Ley u otras disposiciones legales.
 
 ###### ARTÍCULO 10.
 
@@ -453,11 +519,23 @@ Las Entidades Públicas estarán obligadas a que los Financiamientos y Obligacio
 
 El secretario de finanzas y administración, tesorero municipal o su equivalente de cada Entidad Pública, según corresponda a su ámbito de competencia, será el responsable de confirmar que el Financiamiento fue celebrado en las mejores condiciones de mercado.
 
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+Una vez celebrados los instrumentos jurídicos correspondientes, a más tardar 10 días hábiles después de la inscripción en el Registro Público Único, dichos instrumentos deberán publicarse en la página oficial de internet de la Entidad Pública que corresponda y, en caso de no tenerla, será responsable de proporcionar al Estado los instrumentos correspondientes para su publicación.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+Asimismo, cada Entidad Pública presentará en los informes trimestrales a que se refiere la Ley General de Contabilidad Gubernamental y en su respectiva cuenta pública, la información detallada de cada Financiamiento u Obligación contraída en los términos de este Capítulo, incluyendo como mínimo, el importe, tasa, plazo, comisiones y demás accesorios pactados.
+
 En el caso de que el Estado o cualquiera de sus Entidades Públicas soliciten Financiamiento por un monto mayor o igual a cuarenta millones de Unidades de Inversión o su equivalente, o el Municipio o cualquiera de sus Entidades Públicas soliciten Financiamientos por un monto mayor a diez millones de Unidades de Inversión o su equivalente y, en ambos casos, a un plazo de pago superior a un año, deberán cumplir con lo establecido en el Artículo 26 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como con el reglamento de esa ley, lineamientos y demás normatividad que se derive de la misma, orientada a lograr y comprobar que los Financiamientos se contraten en las mejores condiciones de mercado.
 
 ###### ARTÍCULO 20.
 
 En la contratación de Obligaciones que se deriven de arrendamientos financieros o de esquemas de Asociaciones Público-Privadas, en lo conducente, las Entidades Públicas se sujetarán a lo previsto en el artículo anterior.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+Asimismo, las propuestas presentadas deberán ajustarse a la naturaleza y particularidades de la Obligación a contratar, siendo obligatorio hacer públicos todos los conceptos que representen un costo para la Entidad Pública. En todo caso, la contratación se deberá realizar con quien presente mejores condiciones de mercado de acuerdo con el tipo de Obligación a contratar y conforme a la legislación aplicable.
 
 ###### ARTÍCULO 21.
 
@@ -485,6 +563,10 @@ Las Obligaciones a corto plazo deberán ser contratadas bajo las mejores condici
 
 Los recursos derivados de las Obligaciones a corto plazo deberán ser destinados exclusivamente a cubrir necesidades de corto plazo, entendiendo dichas necesidades como insuficiencias de liquidez de carácter temporal.
 
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+El Estado y los Municipios presentarán en los informes periódicos a que se refiere la Ley General de Contabilidad Gubernamental y en su respectiva cuenta pública, la información detallada de las Obligaciones a Corto Plazo contraídas en los términos del presente Capítulo, incluyendo el importe, tasas, plazo, comisiones y cualquier costo relacionado. Adicionalmente, deberá incluir la tasa efectiva de las Obligaciones a Corto Plazo a que hace referencia el artículo 26 fracción IV de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, calculada conforme a la metodología que para tal efecto emita la Secretaría de Hacienda y Crédito Público.
+
 ###### ARTÍCULO 24.
 
 Las Obligaciones a corto plazo no podrán ser objeto de Refinanciamiento o Reestructuración a plazos mayores a un año, salvo en el caso de las Obligaciones destinadas a Inversión Pública Productiva y se cumplan los requisitos previstos en el presente Capítulo.
@@ -511,11 +593,61 @@ El Poder Ejecutivo del Estado asesorará, por conducto de la Secretaría, en los
 
 El Estado y los Municipios, en la contratación de los Financiamientos u Obligaciones que realicen ellos mismos o sus entidades, podrán gestionar ante las empresas calificadoras, que califiquen cada uno de los Financiamientos en particular, con el fin de que se analicen las condiciones, características, monto, plazo, mecanismos de fuente de pago y garantía, que hagan viable el otorgamiento del Financiamiento.
 
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 29
+
+BIS. Las Entidades Públicas que hayan contraído Financiamientos u Obligaciones deberán;
+
+I. Contar con un expediente electrónico, adicional al soporte documental en donde consten los instrumentos jurídicos que dieron origen al Financiamiento u Obligación de que se trate, incluyendo, en su caso, copia de las Fuentes de Pago o Garantías de Pago otorgadas, copia de los títulos de crédito suscritos y evidencia de transferencias de los pagos realizados, conforme a las disposiciones que emita la Secretaría;
+
+II. Informar trimestralmente a la Secretaría los datos de todos los Financiamientos u Obligaciones contratados, su saldo insoluto y cualquier otro movimiento realizado en relación con los mismos. Tratándose del Estado, dentro del plazo de diez días naturales posteriores al término de los meses de marzo, junio, septiembre y diciembre, la información correspondiente a cada Financiamiento y Obligación del Estado y de cada una de sus Entidades;
+
+III. Proporcionar a la Secretaría toda la información que sea veraz, completa y necesaria para que verifique la debida aplicación de los recursos conforme a lo previsto en las autorizaciones correspondientes y en esta Ley;
+
+IV. Inscribir los Financiamientos y Obligaciones en el Registro Estatal de Financiamientos y Obligaciones y solicitar su inscripción en el Registro Público Único;
+
+V. Publicar los instrumentos que documenten los Financiamientos contratados, así como en su caso, los convenios celebrados con la Federación en la página oficial de internet de las Entidades Públicas que corresponda, en los términos de esta Ley, dentro de los cinco días naturales a que se lleve a cabo la inscripción de los instrumentos en el Registro Público Único;
+
+VI. Presentar en los informes trimestrales a que se refiere la Ley General de Contabilidad Gubernamental y en su respectiva cuenta pública, la información detallada de cada Financiamiento u Obligación contraídos en los términos de esta Ley, incluyendo como mínimo, el importe, tasa, plazo, comisiones y demás accesorios pactados;
+
+VII. Tratándose del Estado y los Municipios, enviar trimestralmente a la Secretaría de Hacienda y Crédito Público y a la Secretaría, respectivamente, la información que se especifique en el convenio correspondiente para efectos de la evaluación periódica de cumplimiento, prevista en el Capítulo Cuarto del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+VIII. En el caso de que el Estado y los Municipios se adhieran al mecanismo de la Deuda Estatal Garantizada, la autorización para celebrar los convenios que resulten necesarios deberá ser emitida por la Legislatura y, en su caso, por los Ayuntamientos; los convenios deberán ser publicados en el Diario Oficial de la Federación, así como en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+IX. En caso de que el Estado, a solicitud de los Municipios, los incorpore al mecanismo de coordinación previsto en esta fracción, deberá otorgarles su aval y suscribir un convenio adicional y único con la Federación respecto a sus Municipios, y
+
+X. Las demás obligaciones que establezcan las disposiciones en materia de deuda pública en la legislación aplicable, incluyendo la Ley General de Contabilidad Gubernamental y la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 29
+
+TER. Además de lo previsto en el artículo anterior, las Entidades Públicas Municipales deberán cumplir con las siguientes obligaciones respecto de los Financiamientos u Obligaciones que contraten:
+
+I. Llevar el registro de los Financiamientos y Obligaciones que contraten conforme lo que disponga la Tesorería Municipal;
+
+II. Comunicar a la Tesorería Municipal mensualmente los datos de todos los Financiamientos y Obligaciones contratados, su saldo insoluto y cualquier otro movimiento realizado con relación al mismo;
+
+III. Proporcionar a la Tesorería Municipal toda la información necesaria para que verifique la debida aplicación de los recursos conforme a lo previsto en las autorizaciones correspondientes y en esta Ley, e
+
+IV. Inscribir los Financiamientos y Obligaciones en el Registro Estatal de Financiamientos y Obligaciones y solicitar su inscripción en el Registro Público Único.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 29
+
+QUÁTER. El Congreso del Estado, a través de la Auditoría Superior del Estado de Baja California Sur, podrá realizar visitas o auditorías a las Entidades Públicas, para verificar el estado real de su crédito y el cumplimiento de las disposiciones de esta Ley y las demás leyes aplicables.
+
 ### CAPÍTULO CUARTO. DE LA EMISIÓN Y COLOCACIÓN DE VALORES Y DE LOS FIDEICOMISOS EMISORES DE VALORES Y DE CAPTACIÓN DE RECURSOS
 
 ###### ARTÍCULO 30.
 
 Tratándose de la contratación de Financiamientos a través del mercado bursátil, la Entidad Pública deberá fundamentar ante el Congreso del Estado y, en caso de que se autorice la emisión, en el propio documento de colocación, las razones por las cuales el mercado bursátil es una opción más adecuada que el bancario.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+En este caso, cada Entidad Pública deberá precisar todos los costos derivados de la emisión y colocación de valores a su cargo conforme lo requieran las disposiciones en materia de valores que sean emitidas al respecto.
 
 ###### ARTÍCULO 31.
 
@@ -685,9 +817,15 @@ El Registro de Financiamientos y Obligaciones del Estado de Baja California Sur,
 
 Los efectos de este Registro Estatal, son únicamente declarativos e informativos, por lo que no prejuzgan ni validan los actos jurídicos por los cuales se celebraron las operaciones relativas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 57.
 
-Los Financiamientos y Obligaciones que deberán inscribirse, de manera enunciativa más no limitativa, son: créditos, emisiones bursátiles, contratos de arrendamiento financiero, operaciones de factoraje, garantías, Instrumentos derivados que conlleven a una obligación de pago mayor a un año y contratos de Asociaciones Público-Privadas. Tanto las garantías, como los Instrumentos derivados antes referidos deberán indicar la obligación principal o el subyacente correspondiente, con el objeto de que el Registro Estatal no duplique los registros.
+Los Financiamientos y Obligaciones que deberán inscribirse, de manera enunciativa más no limitativa, son: obligaciones de corto plazo, créditos, emisiones bursátiles, contratos de arrendamiento financiero, operaciones de factoraje, garantías, Instrumentos derivados que conlleven a una obligación de pago mayor a un año y contratos de Asociaciones Público-Privadas. Tanto las garantías de pago o fuente de pago, como los Instrumentos derivados antes referidos deberán inscribirse dentro de los diez días hábiles siguientes a su contratación adjuntando los documentos del financiamiento a los que estén relacionados e indicar la obligación principal o el subyacente correspondiente, con el objeto de que el Registro Público Estatal no duplique los registros.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+La inscripción en el Registro Estatal es obligatoria y es independiente de aquella que las Entidades Públicas deban realizar, conforme a la legislación aplicable, en el Registro Público Único, que para el efecto administra la Secretaría de Hacienda y Crédito Público.
 
 Asimismo, en el caso de Financiamientos y Obligaciones con Fuente o Garantía de Pago de participaciones, aportaciones federales, ingresos o derechos de cobro distintos de las contribuciones de los (sic) Entidades Públicas, la inscripción del Financiamiento o la Obligación en el Registro Estatal bastará para que se entienda inscrito el mecanismo de Fuente de pago o Garantía correspondiente.
 
@@ -763,6 +901,22 @@ i) En caso de que el Financiamiento u Obligación que se solicite registrar est�
 
 IX. En caso de que no se hubiera cumplido con alguno de los requisitos para su inscripción, la propia Secretaría notificará a la entidad solicitante para que, en su caso, subsane la omisión en un término no mayor de diez días hábiles, contados a partir de la recepción de la notificación.
 
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 59
+
+BIS. En el Registro Estatal se inscribirán en un apartado específico las Obligaciones que se deriven de contratos de Asociaciones Público-Privadas. Para llevar a cabo la inscripción, las Entidades Públicas deberán presentar al Registro Público Estatal la información relativa al monto de inversión del proyecto al valor presente y el pago mensual del servicio, identificando la parte correspondiente el pago de inversión, el plazo del contrato, así como las erogaciones pendientes de pago.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 59
+
+TER. La disposición o desembolso del Financiamiento u Obligación a cargo de las Entidades Públicas estará condicionada a la inscripción de los mismos en el Registro Estatal de Financiamientos y Obligaciones, excepto tratándose de Obligaciones a Corto Plazo o emisión de valores.
+
+En el caso de Obligaciones a corto plazo la solicitud deberá presentarse ante el Registro Público Estatal, en un período no mayor a 30 días naturales contados a partir del día siguiente al de su contratación.
+
+Tratándose de emisión de valores, la Entidad Pública deberá presentar en un plazo de diez días hábiles siguientes a la inscripción de la emisión en el Registro Público Estatal, la colocación o circulación de los valores a efecto de perfeccionar la inscripción.
+
 ###### ARTÍCULO 60.
 
 Los Financiamientos destinados al Refinanciamiento sólo podrán liquidar Financiamientos previamente inscritos en el Registro Estatal.
@@ -774,6 +928,14 @@ La Secretaría podrá solicitar a las Instituciones financieras y a la Secretar�
 ###### ARTÍCULO 62.
 
 La Secretaría proporcionará a las Entidades Públicas, así como a sus acreditantes, las certificaciones procedentes que soliciten, respecto a los Financiamientos u Obligaciones inscritas en el Registro Estatal.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+Con base en la información proporcionada por los (sic) Entidades Públicas, la Secretaría podrá dar a conocer información agregada de los Financiamientos y Obligaciones.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+La Secretaría expedirá a quienes acrediten su interés jurídico, las certificaciones que soliciten respecto de la Deuda Pública y demás operaciones inscritas en el Registro Estatal de Financiamientos y Obligaciones.
 
 ###### ARTÍCULO 63.
 
@@ -836,6 +998,38 @@ Las Entidades Públicas deberán publicar su información financiera de acuerdo 
 ###### ARTÍCULO 75.
 
 La fiscalización sobre el cumplimiento de lo dispuesto en esta Ley corresponderá a la Auditoría Superior del Estado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO OCTAVO. DE LAS SANCIONES
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 76.
+
+Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la presente Ley y demás disposiciones aplicables en la materia, serán sancionados de conformidad con lo previsto en la legislación en materia de responsabilidades administrativas de los servidores públicos y demás disposiciones aplicables, en términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y del Título Noveno de la Constitución Política del Estado Libre y Soberano de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 77.
+
+Los servidores públicos y las personas físicas o morales que causen daño o perjuicio estimable en dinero a la Hacienda del Estado o de los Municipios, incluyendo en su caso, los beneficios obtenidos indebidamente por actos u omisiones que les sean imputables, o por incumplimiento de obligaciones derivadas de esta Ley, serán responsables del pago de la indemnización correspondiente, en los términos de las disposiciones generales aplicables.
+
+Las responsabilidades se fincarán en primer término a quienes directamente hayan ejecutado los actos o incurran en las omisiones que las originaron y, subsidiariamente, a los que, por la naturaleza de sus funciones, hayan omitido la revisión o autorizado tales actos por causas que impliquen dolo, culpa o negligencia por parte de los mismos.
+
+Serán responsables solidarios con los servidores públicos respectivos, las personas físicas o morales privadas en los casos en que hayan participado y originen una responsabilidad.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 78.
+
+Las sanciones e indemnizaciones que se determinen por el incumplimiento a las disposiciones de esta Ley tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida, sujetándose al procedimiento de ejecución que establece la legislación aplicable.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 79.
+
+Las sanciones e indemnizaciones a que se refiere esta Ley se impondrán y exigirán con independencia de las responsabilidades de carácter político, penal, administrativo o civil que, en su caso, lleguen a determinarse por las autoridades competentes.
 
 T R A N S I T O R I O S:
 
@@ -912,3 +1106,11 @@ B.O. 20 DE ABRIL DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2668 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el 01 de enero de 2020, previo su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado deberá emitir el Reglamento de la presente Ley y publicarlo en el Boletín Oficial del Gobierno del Estado de Baja California Sur, disponiendo de un plazo de 180 días naturales a partir de la entrada de vigor del presente Decreto.
