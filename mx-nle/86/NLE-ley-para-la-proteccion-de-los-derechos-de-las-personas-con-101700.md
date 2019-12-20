@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-proteccion-de-los-derechos-de-las-personas-con-1017
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2019-12-16"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 3 de julio de 2014.
 
@@ -508,6 +508,14 @@ XVI. Las demás que dispongan otros ordenamientos legales.
 ###### Artículo 27.
 
 La educación especial tendrá por objeto, además de lo establecido en la Ley General de Educación, la formación de la vida independiente y la atención de necesidades educativas especiales que comprende entre otras, dificultades severas de aprendizaje, comportamiento, emocionales, discapacidad múltiple o severa y aptitudes sobresalientes, que le permita a las personas tener un desempeño académico equitativo, evitando así la desatención, deserción, rezago o discriminación.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 27 Bis.
+
+Es responsabilidad del Ejecutivo Estatal, a través de las autoridades educativas, dotar a los planteles educativos con las instalaciones, personal y equipo necesarios y de calidad para la atención de niñas, niños y adolescentes con alguna discapacidad, conforme a su disponibilidad presupuestal.
+
+Los planteles educativos en donde se imparta la educación especial, deberán ser accesibles y cumplir con lo previsto en la Ley de Educación del Estado, en lo relativo a la atención de las niñas, niños y adolescentes con alguna discapacidad.
 
 ###### Artículo 28.
 
@@ -1080,3 +1088,9 @@ P.O. 16 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 195. SE REFORMA POR MODIFICACIÓN LAS FRACCIONES I Y VI DEL ARTÍCULO 37 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 201. SE REFORMA POR ADICIÓN DE UN ARTÍCULO 16 BIS Y POR MODIFICACIÓN AL ARTÍCULO 49 DE LA LEY DE EDUCACIÓN DEL ESTADO; Y SE REFORMA POR ADICIÓN DE UN ARTÍCULO 27 BIS A LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
