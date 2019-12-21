@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-periodico-oficial-el-estado-de-jalisco-18503"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2006-01-07"
+last_updated: "2019-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DEL PERIODICO OFICIAL "EL ESTADO DE JALISCO"
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL PERIODICO OFICIAL "EL ESTADO DE JALISCO"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Sexta del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -41,23 +43,29 @@ Se crea la Ley del Periódico Oficial "El Estado de Jalisco", para quedar como s
 
 ### CAPITULO I. Disposiciones Generales
 
-###### Artículo 1º.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-La presente Ley es de orden público e interés social y tiene por objeto regular la administración, elaboración, publicación y distribución del Periódico Oficial "El Estado de Jalisco".
+###### Artículo 1°.
+
+La presente Ley es de orden público e interés social y tiene por objeto regular la administración, elaboración, publicación, accesibilidad y disponibilidad del Periódico Oficial "El Estado de Jalisco".
 
 ###### Artículo 2º.
 
 El Periódico Oficial "El Estado de Jalisco" es el medio de difusión del Gobierno del Estado, de carácter permanente, en el que se publican los actos y resoluciones que las leyes o acuerdos ordenen.
 
-###### Artículo 3º.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-Los efectos de la publicación de los actos y ordenamientos legales en el Periódico Oficial son la publicidad y vigencia legal, en los términos que del mismo decreto, acuerdo o disposición general se desprenda, salvo lo dispuesto en el capítulo II de la presente Ley.
+###### Artículo 3°.
+
+Los efectos de la publicación de los actos y ordenamientos legales en el Periódico Oficial son la publicidad y vigencia legal, en los términos que del mismo decreto, acuerdo o disposición general se desprenda.
 
 ###### Artículo 4º.
 
 La publicación del Periódico Oficial corresponde al Ejecutivo del Estado por conducto del Secretario General de Gobierno.
 
-La Dirección de Publicaciones de la Secretaría General de Gobierno, es la encargada de la administración, elaboración, publicación y distribución del Periódico Oficial "El Estado de Jalisco".
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
+La Dirección de Publicaciones de la Secretaría General de Gobierno, es la encargada de la administración, elaboración, publicación, accesibilidad y disponibilidad del Periódico Oficial "El Estado de Jalisco".
 
 ###### Artículo 5º.
 
@@ -73,7 +81,9 @@ III. Director: el Director de Publicaciones.
 
 Al Secretario le corresponde para los efectos de esta Ley ordenar la publicación del Periódico Oficial y supervisar su administración.
 
-###### Artículo 7º.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 7°.
 
 Corresponde al Director, en relación con el Periódico Oficial:
 
@@ -81,9 +91,13 @@ I. Su administración y elaboración;
 
 II. La publicación fiel y oportuna de los contenidos que obren en las ordenes que le sean giradas por el Secretario;
 
-III. Integrar y conservar el archivo del Periódico Oficial;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-IV. Establecer las estrategias de distribución del Periódico Oficial en todo el territorio del Estado;
+III. Integrar, custodiar, preservar y conservar la edición impresa del Periódico Oficial y su archivo;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
+IV. Establecer las estrategias de accesibilidad y disponibilidad del Periódico Oficial en todo el territorio del Estado;
 
 V. Otorgar suscripciones gratuitas a las dependencias y entidades del Gobierno del Estado y municipales;
 
@@ -91,9 +105,29 @@ VI. Rendir informe anual de actividades a la Secretaría General de Gobierno;
 
 VII. Proponer al Secretario las modificaciones operativas y reglamentarias que aprecie necesarias para mejorar la producción del Periódico Oficial;
 
-VIII. Participar en la divulgación de las leyes del Estado; y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-IX. Aquellas que le impongan otras leyes.
+VIII. Participar en la divulgación de las leyes del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2019)</small>
+
+IX. Expedir las Constancias de Publicación que sean solicitadas de conformidad con el Reglamento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2019)</small>
+
+X. Incorporar el desarrollo y la innovación tecnológica a los procesos de edición, difusión, custodia y preservación del Periódico Oficial y documentos de archivo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2019)</small>
+
+XI. Administrar la página electrónica del Periódico Oficial en la Internet;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2019)</small>
+
+XII. Procurar editar compilaciones temáticas electrónicas del Periódico Oficial para facilitar su colección y análisis; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2019)</small>
+
+XIII. Aquellas que le impongan otras leyes.
 
 ###### Artículo 8º.
 
@@ -119,6 +153,24 @@ IX. Las publicaciones del Diario Oficial de la Federación de importancia para n
 
 X. Los actos y resoluciones que la Constitución y demás leyes ordenen que se publiquen en el Periódico Oficial.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
+Artículo 8 BIS.- El Periódico Oficial "El Estado de Jalisco" se publicará en forma electrónica. Además de la versión electrónica, se imprimirán cuando menos seis ejemplares para efectos de evidencia documental física y consulta. Los seis ejemplares quedarán en custodia de las siguientes entidades:
+
+I. El propio archivo del Periódico Oficial;
+
+II. La Dirección del Archivo Histórico del Estado de Jalisco;
+
+III. La Biblioteca Pública del Estado;
+
+IV. La Biblioteca del Congreso del Estado;
+
+V. El archivo del Supremo Tribunal de Justicia del Estado; y
+
+VI. La Suprema Corte de Justicia de la Nación.
+
+Los ejemplares impresos a que se refiere el párrafo anterior, deberán distribuirse dentro del plazo de siete días hábiles contados a partir de su publicación.
+
 ###### Artículo 9º.
 
 El Periódico Oficial se organiza para su compilación en Tomos enumerados de 50 números.
@@ -131,9 +183,11 @@ El periódico Oficial publicará el índice del Tomo integrado en los términos 
 
 Dentro del primer trimestre de cada año el Periódico Oficial dará a conocer el índice anual de las publicaciones del año inmediato anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 11.
 
-El Periódico Oficial deberá contener impresos por lo menos los siguientes datos:
+El Periódico Oficial deberá contener por lo menos los siguientes datos:
 
 I. El nombre "El Estado de Jalisco";
 
@@ -169,35 +223,47 @@ Para su publicación se considerarán hábiles todos los días del año, pudiend
 
 La Dirección podrá otorgar suscripciones gratuitas adicionales a las previstas en esta Ley cuando medie acuerdo de la Secretaría General de Gobierno.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 15.
 
-El Periódico Oficial será editado y distribuido en cantidad suficiente que garantice cuando menos la satisfacción de la demanda en todo el territorio estatal.
+El Periódico Oficial será publicado y difundido de forma electrónica y gratuita, el mismo día de su edición, garantizando su accesibilidad y disponibilidad en todo el territorio estatal.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 16.
 
-El Reglamento del Periódico Oficial regulará su edición, impresión, publicación, distribución y venta.
+El Reglamento del Periódico Oficial regulará su edición, publicación, accesibilidad y disponibilidad.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
+Artículo 16 BIS.- El Director o a quien éste designe podrá, a petición de parte, expedir las Constancias de Publicación, impresiones de la edición electrónica del Periódico Oficial y otros documentos de su competencia. El costo de las mismas será el que se determine en la Ley de Ingresos del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
+Artículo 16 TER.- La Secretaría General, a través de sus Unidades Regionales, brindará facilidades para la consulta del Periódico Oficial a las personas que no tengan posibilidad de acceder a tecnologías de la información y comunicación.
 
 ### CAPITULO II. De la divulgación del Periódico Oficial por medios electrónicos
 
 ###### Artículo 17.
 
-El Director administrará la página electrónica del Periódico Oficial en la internet.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2019)
 
 ###### Artículo 18.
 
-Cada ejemplar del Periódico Oficial será reproducido en la página electrónica de la Dirección de Publicaciones en la internet, dentro de los siguientes diez días de su publicación impresa.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2019)
 
 ###### Artículo 19.
 
-La página electrónica deberá identificarse con los mismos datos y requisitos que se enumeran los artículos 11 y 12 de la presente Ley.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2019)
 
 ###### Artículo 20.
 
-La publicación electrónica del Periódico Oficial será únicamente para efectos de divulgación, por lo que no afecta la entrada en vigor ni el contenido oficial de los materiales publicados en el formato impreso.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2019)
 
 ###### Artículo 21.
 
-La consulta del formato electrónico será bajo la responsabilidad del usuario, por lo que ni la Secretaría ni la Dirección responderán por la fidelidad de los textos divulgados.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2019)
 
 ###### Artículo 22.
 
@@ -205,9 +271,11 @@ A quien sin causa justificada altere los textos y gráficos de la versión elect
 
 ###### Artículo 23.
 
-La Dirección procurará editar compilaciones electrónicas del Periódico Oficial para facilitar su colección y análisis.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2019)
 
-### CAPITULO III. Del Procedimiento
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO III. Del Procedimiento de edición, publicación y divulgación
 
 ###### Artículo 24.
 
@@ -225,11 +293,13 @@ El Director deberá publicar los contenidos recibidos en los términos del artí
 
 Error de publicación es aquel que surge de la infidelidad de los textos y gráficos enviados por el Secretario y el material publicado, en cuyo caso el Director, de oficio o por orden superior, corregirá la errata en el ejemplar siguiente a la fecha en que se tenga conocimiento de ésta.
 
-En todos los demás casos el Director sólo podrá publicar fe de erratas cuando éstas provengan por despacho del Secretario, autorizadas en los términos del artículo 25 de esta Ley.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
+En todos los demás casos el Director sólo podrá publicar fe de erratas cuando éstas provengan por despacho del Secretario, autorizadas en los términos del artículo 25 de esta Ley, además el Director deberá hacer la publicación digital correspondiente y las impresiones previstas en esta Ley.
 
 ###### Artículo 28.
 
-Todas las correcciones o aclaraciones que sufra el Periódico Oficial en su formato impreso deberán reproducirse electrónicamente, salvo que se trate de alteraciones provocadas por violación a la página electrónica en cuyo caso su corrección deberá operar inmediatamente después de que se tenga conocimiento de ellas.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2019)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE ENERO DE 2006)</small>
 
@@ -300,3 +370,15 @@ LIC. FELIPE DE JESÚS PRECIADO CORONADO
 P.O. 7 DE ENERO DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27754/LXII/19 QUE REFORMA LOS ARTICULOS 1°, 3°, 4°, 7°, 11, 15, 16, 27 Y EL CAPÍTULO III PARA QUEDAR "DEL PROCEDIMIENTO DE EDICIÓN, PUBLICACIÓN Y DIVULGACIÓN"; ADICIONA LOS ARTICULOS 8BIS, 16BIS Y 16TER, Y DEROGA LOS ARTÍCULOS 17, 18, 19, 20, 21, 23, 28 DE LA LEY DEL PERIÓDICO OFICIAL "EL ESTADO DE JALISCO".]
+
+Primero. El presente decreto entrará en vigor el día primero de enero de 2020, previa publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. El Director del Periódico Oficial "El Estado de Jalisco", deberá publicar al menos una vez cada 30 días el presente decreto para efectos informativos antes de la entrada en vigor del mismo.
+
+Tercero. El Ejecutivo del Estado dispondrá de 90 días naturales a partir de la publicación del presente decreto, para emitir el Reglamento correspondiente de la Ley del Periódico Oficial "El Estado de Jalisco".
+
+Cuarto. El Ejecutivo del Estado realizará las acciones y adecuaciones presupuestales para dar cumplimiento al presente decreto.
