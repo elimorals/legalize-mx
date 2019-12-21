@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2019-11-26"
+last_updated: "2019-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -65,7 +65,7 @@ La ley establecerá las bases y lineamientos a los cuales habrá de sujetarse el
 
 ###### Art. 3.
 
-El Territorio del Estado es el que le corresponde conforme a la Constitución Federal, y se divide en los siguientes municipios: Acaponeta, Ahuacatlán, Amatlán de Cañas, Bahía de Banderas, Compostela, El Nayar, Huajicori, Ixtlán del Río, Jala, La Yesca, Rosamorada, Ruiz, San Blas, San Pedro Lagunillas, Santiago Ixcuintla, Santa María del Oro, Tecuala, Tepic, Tuxpan y Xalisco. Igualmente, forman parte del Territorio del Estado las islas que le corresponden conforme al Artículo 48o. de la Constitución General de la República.
+El Territorio del Estado es el que le corresponde conforme a la Constitución Federal, y se divide en los siguientes municipios: Acaponeta, Ahuacatlán, Amatlán de Cañas, Bahía de Banderas, Compostela, El Nayar, Huajicori, Ixtlán del Río, Jala, La Yesca, Rosamorada, Ruiz, San Blas, San Pedro Lagunillas, Santiago Ixcuintla, Santa María del Oro, Tecuala, Tepic, Tuxpan y Xalisco. Igualmente, forman parte del Territorio del Estado las islas que le corresponden conforme al Artículo 48o de la Constitución General de la República.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
 
@@ -251,7 +251,9 @@ e) Los alumnos de todos los niveles de educación impartida por el estado y los 
 
 f) El estado reconoce la ciencia y la tecnología, como bases fundamentales del desarrollo estatal. Toda persona tiene derecho al conocimiento científico y tecnológico, así como al respeto de su diversidad cultural y a participar libremente en la vida cultural y artística de la comunidad.
 
-5.- Los adultos mayores tienen derecho a una vida con calidad; a la protección de su patrimonio, salud, alimentación, a la asistencia y seguridad social y a la igualdad de oportunidades, la ley protegerá esos derechos, sin restricción alguna. Las autoridades garantizarán el derecho de acceso gratuito a los servicios de salud.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
+5.- Las personas adultas mayores tienen derecho a una vida digna, decorosa y de calidad; a la protección de su patrimonio, salud y alimentación; a la asistencia y seguridad social, a la igualdad de oportunidades y a recibir un trato digno; a la educación gratuita, la capacitación continua y el acceso al trabajo, de acuerdo a sus habilidades para garantizar su seguridad e integridad física y con el objeto de consolidar su integración a la sociedad y la obtención de un ingreso propio; la ley protegerá esos derechos, sin restricción alguna. Las autoridades garantizarán el derecho de acceso gratuito a los servicios de salud.
 
 6.- El Estado garantizará la producción de alimentos, constituyéndose como áreas estratégicas del desarrollo la agricultura y el turismo.
 
@@ -1169,7 +1171,7 @@ VI. No haber figurado directa ni indirectamente en alguna sedición, cuartelazo,
 
 ###### Art. 63.
 
-El Gobernador será electo popular y directamente cada seis años. Empezará a ejercer sus funciones el diecinueve de Septiembre posterior a la elección, protestando ante el Congreso del Estado y en ningún caso, ni por motivo alguno, podrá ser reelecto.
+El Gobernador será electo popular y directamente cada seis años, empezará a ejercer sus funciones el diecinueve de Septiembre posterior a la elección, protestando ante el Congreso del Estado y en ningún caso, ni por motivo alguno, podrá ser reelecto.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1943)</small>
 
@@ -4148,3 +4150,11 @@ SEXTO.- La integración de tres Magistrados del Tribunal Estatal Electoral de Na
 (NOTA: EL 1 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ARTÍCULO TRANSITORIO SÉPTIMO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE ENERO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 SÉPTIMO.- Los Magistrados que actualmente se encuentran en funciones seguirán en el cargo hasta la conclusión del periodo para el que fueron nombrados; A PARTIR DEL 16 DE DICIEMBRE DE 2019 Y HASTA EL 16 DE DICIEMBRE DE 2021, LA INTEGRACIÓN DEL TRIBUNAL ESTATAL ELECTORAL DE NAYARIT SERÁ DE CUATRO MAGISTRADOS.
+
+P.O. 21 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA EL NUMERAL 5 DE LA FRACCIÓN XIII DEL ARTICULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA DE DERECHOS SOCIALES DE LAS PERSONAS ADULTAS MAYORES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Remítase el presente Decreto a los Ayuntamientos del Estado de Nayarit, para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit.
