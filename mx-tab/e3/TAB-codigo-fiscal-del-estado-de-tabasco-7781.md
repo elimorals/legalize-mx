@@ -4,7 +4,7 @@ identifier: "TAB-codigo-fiscal-del-estado-de-tabasco-7781"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-09-25"
-last_updated: "2019-08-07"
+last_updated: "2019-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO FISCAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el sábado 25 de septiembre de 1993.
 
@@ -101,13 +101,13 @@ Participaciones son los ingresos que el Gobierno del Estado de Tabasco tiene der
 
 Son créditos fiscales los que tenga derecho a percibir el Gobierno del Estado o sus organismos descentralizados, que provengan de contribuciones, aprovechamientos, multas y accesorios, incluyendo los que deriven de responsabilidades que tenga derecho a exigir de servidores públicos o de los particulares, así como, aquéllos a los que las leyes les den ese carácter.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-La recaudación proveniente de todos los ingresos del Estado, inclusive la de sus organismos descentralizados y empresas de participación estatal mayoritaria, aun cuando se destinen a un fin específico, se harán por los mecanismos que autorice la Secretaría de Planeación y Finanzas.
+La recaudación proveniente de todos los ingresos del Estado, inclusive la de sus organismos descentralizados y empresas de participación estatal mayoritaria, aun cuando se destinen a un fin específico, se harán por los mecanismos que autorice la Secretaría de Finanzas.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-Las autoridades fiscales o administrativas que remitan créditos a la Secretaría de Planeación y Finanzas para su cobro, deberán cumplir con los requisitos que establezca la misma Secretaría.
+Las autoridades fiscales o administrativas que remitan créditos a la Secretaría de Finanzas para su cobro, deberán cumplir con los requisitos que establezca la misma Secretaría.
 
 ###### Artículo 7.
 
@@ -125,15 +125,13 @@ IV. Ley de Catastro; y
 
 V. La Ley de Coordinación Fiscal y Financiera del Estado de Tabasco;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
-
-VI. La Ley Registral del Estado de Tabasco.
+VI. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2019)
 
 VII. Los demás ordenamientos que contengan disposiciones de orden hacendario.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-La aplicación de las disposiciones a que se refiere este artículo le corresponderá al Poder Ejecutivo del Estado de Tabasco, por conducto de la Secretaría de Planeación y Finanzas y demás autoridades fiscales y administrativas que establezcan las leyes.
+La aplicación de las disposiciones a que se refiere este artículo le corresponderá al Poder Ejecutivo del Estado de Tabasco, por conducto de la Secretaría de Finanzas y demás autoridades fiscales y administrativas que establezcan las leyes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -143,9 +141,9 @@ Son autoridades fiscales del Estado de Tabasco:
 
 I. El Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-II. El Secretario de Planeación y Finanzas;
+II. El Secretario de Finanzas;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -155,9 +153,7 @@ III. El Subsecretario de Ingresos;
 
 IV. El Procurador Fiscal;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-V. El Director General de Recaudación;
+V. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2019)
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -171,29 +167,19 @@ VII. El Director Técnico de Recaudación;
 
 VIII. El Director de Auditoría Fiscal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
-
-IX. El Director General de Fiscalización;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+IX. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2019)
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 X. El Director de Licencias e Inspecciones;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-X BIS. El Coordinador Catastral y Registral;
+X BIS. El Coordinador General de Auditoría Fiscal;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+XI. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2019)
 
-XI. El Director General de Catastro;
-
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
-
-XI BIS. El Director General del Registro Público y del Comercio;
+XI BIS. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2019)
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -203,9 +189,9 @@ XII. El Director de Catastro;
 
 XIII. El Titular de la Unidad de Ejecución Fiscal;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-XIV. El Director de Control de Procesos;
+XIV. El Subdirector de Control de Procesos;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -231,11 +217,9 @@ XIX. Los Verificadores;
 
 XX. Los Auditores; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
-
-XXI. Los Demás que señalen las leyes, así como aquellas personas habilitadas por acuerdo expreso del Secretario de Planeación y Finanzas para ejercer funciones relacionadas con la gestión y la recepción de pago de contribuciones; en este último caso dicho acuerdo debe ser publicado en el Periódico Oficial del Estado de Tabasco.
+XXI. Los demás que señalen las leyes, así como aquellas personas habilitadas por acuerdo expreso del Secretario de Finanzas para ejercer funciones relacionadas con la gestión y la recepción de pago de contribuciones; en este último caso dicho acuerdo debe ser publicado en el Periódico Oficial del Estado de Tabasco.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -265,9 +249,9 @@ II. En cualquier otro caso, dentro de los cinco días siguientes al momento de l
 
 En el caso de contribuciones que se deban pagar mediante retención, aún cuando quien deba efectuarla no retenga o no haga pago de la contraprestación relativa, el retenedor estará obligado a enterar una cantidad equivalente a la que debió haber retenido.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-Quien haga pago de créditos fiscales deberá obtener de la Receptoría de Rentas, la forma oficial, el recibo oficial o la forma valorada, expedidos y controlados exclusivamente por la Secretaría de Planeación y Finanzas del Gobierno del Estado, o la documentación que en las disposiciones respectivas se establezca, en la que conste la impresión original de la máquina registradora. Tratándose de los pagos efectuados en las oficinas de las instituciones de crédito, se deberá obtener la impresión de la máquina registradora, el sello, la constancia o el acuse de recibo electrónico con sello digital; en el caso de otros medios electrónicos, obtener el comprobante electrónico con cadena original y sello digital.
+Quien haga pago de créditos fiscales deberá obtener de la Receptoría de Rentas, la forma oficial, el recibo oficial o la forma valorada, expedidos y controlados exclusivamente por la Secretaría de Finanzas del Gobierno del Estado, o la documentación que en las disposiciones respectivas se establezca, en la que conste la impresión original de la máquina registradora. Tratándose de los pagos efectuados en las oficinas de las instituciones de crédito, se deberá obtener la impresión de la máquina registradora, el sello, la constancia o el acuse de recibo electrónico con sello digital; en el caso de otros medios electrónicos, obtener el comprobante electrónico con cadena original y sello digital.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -495,7 +479,9 @@ V.- Describir las razones de negocio que motivan la operación planteada;
 
 VI.- Indicar si los hechos o circunstancias sobre los que versa la promoción han sido previamente planteados ante la misma autoridad u otra distinta, o han sido materia de medios de defensa ante autoridades administrativas o jurisdiccionales y, en su caso, el sentido de la resolución;
 
-VII.- Indicar si el contribuyente se encuentra sujeto al ejercicio de las facultades de comprobación por parte de la Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
+VII. Indicar si el contribuyente se encuentra sujeto al ejercicio de las facultades de comprobación por parte de la Secretaría de Finanzas.
 
 Si el promovente no se encuentra en los supuestos a que se refiere la fracción VII de este artículo deberá manifestarlo así expresamente.
 
@@ -515,13 +501,13 @@ Quien promueva a nombre de otro deberá acreditar que la representación le fue 
 
 Las contribuciones o sus accesorios se causarán y pagarán en moneda nacional.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-Se aceptarán como medios de pago, además de dinero en efectivo, cheques certificados, transferencias electrónicas, tarjetas de crédito y débito, fichas bancaria (sic) de depósito o comprobante de pago de establecimientos autorizados, mediante la modalidad de pago referenciado, de conformidad con los procedimientos establecidos por la Secretaría de Planeación y Finanzas.
+Se aceptarán como medios de pago, además de dinero en efectivo, cheques certificados, transferencias electrónicas, tarjetas de crédito y débito, fichas bancarias de depósito o comprobante de pago de establecimientos autorizados, mediante la modalidad de pago referenciado, de conformidad con los procedimientos establecidos por la Secretaría de Finanzas.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-Se aceptará como medio de pago de las contribuciones, los cheques del mismo banco en que se efectué el pago, tarjetas de crédito o débito, y la transferencia electrónica de fondos a favor de la Secretaría de Planeación y Finanzas del Gobierno del Estado. Se entiende por transferencia electrónica de fondos, el pago de las contribuciones que por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor del Estado, realizada por las instituciones de crédito, en forma electrónica.
+Se aceptará como medio de pago de las contribuciones, los cheques del mismo banco en que se efectué el pago, tarjetas de crédito o débito, y la transferencia electrónica de fondos a favor de la Secretaría de Finanzas del Gobierno del Estado. Se entiende por transferencia electrónica de fondos, el pago de las contribuciones que por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor del Estado, realizada por las instituciones de crédito, en forma electrónica.
 
 Los pagos que se hagan se aplicarán a los créditos más antiguos, siempre que se trate de la misma contribución y, antes del adeudo principal, a los accesorios, en el orden siguiente:
 
@@ -539,13 +525,13 @@ Cuando el contribuyente interponga algún medio de defensa legal impugnando algu
 
 Para determinar las contribuciones se considerarán, inclusive, las fracciones del peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad inmediata anterior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad inmediata superior.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-Cuando las leyes fiscales establezcan que las contribuciones se paguen mediante declaración, la Secretaría de Planeación y Finanzas podrá ordenar, por medio de disposiciones de carácter general y con el objeto de facilitar el cumplimiento de la obligación, así como para allegarse de la información necesaria en materia de estadística de ingresos, que se proporcione en declaración distinta de aquella con la cual se efectúe el pago.
+Cuando las leyes fiscales establezcan que las contribuciones se paguen mediante declaración, la Secretaría de Finanzas podrá ordenar, por medio de disposiciones de carácter general y con el objeto de facilitar el cumplimiento de la obligación, así como para allegarse de la información necesaria en materia de estadística de ingresos, que se proporcione en declaración distinta de aquella con la cual se efectúe el pago.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-El Gobierno del Estado, a través de la Secretaría de Planeación y Finanzas, podrá autorizar otros medios de pago así como facultar a terceros para la realización de dichos cobros mediante mecanismos que establezca la propia Secretaría y que le permitan auxiliarse en el cobro de las contribuciones.
+El Gobierno del Estado, a través de la Secretaría de Finanzas, podrá autorizar otros medios de pago así como facultar a terceros para la realización de dichos cobros mediante mecanismos que establezca la propia Secretaría y que le permitan auxiliarse en el cobro de las contribuciones.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
 
@@ -555,7 +541,7 @@ Cuando no se cubran las contribuciones y los aprovechamientos, así como las dev
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-En los casos en que el índice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Instituto Nacional de Estadística y Geografía, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Instituto Nacional de Estadística y Geografía, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
 
 Los valores de bienes u operaciones se actualizarán de acuerdo con lo dispuesto por este artículo, cuando las leyes fiscales así lo establezcan. Las disposiciones señalarán en cada caso el periodo de que se trate.
 
@@ -615,33 +601,43 @@ La obligación de devolver prescribe en los mismos términos y condiciones que e
 
 Los créditos y deudas entre los Gobiernos Federal, Estatal y Municipal, así como de sus organismos descentralizados o empresas de participación estatal, podrán compensarlos previo acuerdo que celebren.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 24 Bis.
 
-Los contribuyentes obligados a pagar impuestos mediante declaración, podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligadas a pagar como contribuyentes directos o por retención a terceros, siempre que ambos deriven de la misma contribución, incluyendo sus accesorios, salvo que el saldo sea producto de un dictamen fiscal, caso en el cual podrán compensar previo al cumplimiento de los requisitos que la Secretaría de Planeación y Finanzas señale al respecto. También podrán compensar con autorización de la misma dependencia saldos a favor del contribuyente contra cualquier impuesto o derecho, aun cuando aquélla no sea mediante declaración.
+Los contribuyentes obligados a pagar impuestos mediante declaración, podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligadas a pagar como contribuyentes directos o por retención a terceros, siempre que ambos deriven de la misma contribución, incluyendo sus accesorios, salvo que el saldo sea producto de un dictamen fiscal, caso en el cual podrán compensar previo al cumplimiento de los requisitos que la Secretaría de Finanzas señale al respecto. También podrán compensar con autorización de la misma dependencia saldos a favor del contribuyente contra cualquier impuesto o derecho, aun cuando aquélla no sea mediante declaración.
 
-Si la compensación se hubiere efectuado y no procediera, se causarán recargos en los términos del artículo 22 de este código sobre las cantidades compensadas indebidamente, actualizadas conforme lo señala el mismo artículo, desde el mes en que se efectuó la compensación indebida, y hasta a aquel en que se haga el pago del monto de la compensación efectuada.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+Si la compensación se hubiere efectuado y no procediera, se causaran recargos en los términos del artículo 22 de este código sobre las cantidades compensadas indebidamente, actualizadas conforme lo señala el mismo artículo, desde el mes en que se efectuó la compensación indebida, y hasta a aquel en que se haga el pago del monto de la compensación efectuada.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 No se podrán compensar las cantidades cuya devolución se haya solicitado o cuando haya prescrito la obligación de compensarlas.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
 La obligación de compensar prescribe en los términos y condiciones que el crédito fiscal.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 Las autoridades fiscales podrán compensar de oficio las cantidades que los contribuyentes estén obligados a pagar, ya sea por adeudos de dicho contribuyente o por retención a terceros, cuando éstos sean objeto de una resolución debidamente ejecutoriada o que quede firme por no haberse agotado los medios de defensa previstos en la Ley, contra las cantidades que las autoridades fiscales estén obligadas a devolver al mismo contribuyente conforme a lo dispuesto por el artículo 23 de este Código, aun cuando la devolución haya sido solicitada. En este caso se notificara personalmente al contribuyente la resolución que determinó la compensación.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
 Para los efectos de este Código, se entenderá que es una misma contribución si se trata del mismo impuesto o derecho.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 25.
 
-Las personas jurídicas colectivas, así como las personas físicas que deban presentar declaraciones periódicas del impuesto sobre nóminas, impuesto sobre honorarios por actividades profesionales y ejercicios lucrativos, no gravados por la Ley de Impuesto al Valor Agregado e impuesto sobre la prestación de servicio de hospedaje o que estén obligados a expedir comprobantes fiscales digitales de conformidad con la legislación federal respectiva, por las actividades que realicen, deberán solicitar su inscripción y presentar los avisos, en su caso, en el Registro Estatal de Contribuyentes de la Secretaría de Planeación y Finanzas, y proporcionar la información relacionada con su identidad, domicilio, actividad y en general sobre su situación fiscal, en los formatos autorizados que para tal efecto apruebe la Secretaría.
+Las personas jurídicas colectivas, así como las personas físicas que deban presentar declaraciones periódicas del impuesto sobre nóminas, impuesto sobre honorarios por actividades profesionales y ejercicios lucrativos, no gravados por la Ley de Impuesto al Valor Agregado e impuesto sobre la prestación de servicio de hospedaje o que estén obligados a expedir comprobantes fiscales digitales de conformidad con la legislación federal respectiva, por las actividades que realicen, deberán solicitar su inscripción y presentar los avisos, en su caso, en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas, y proporcionar la información relacionada con su identidad, domicilio, actividad y en general sobre su situación fiscal, en los formatos autorizados que para tal efecto apruebe la Secretaría.
 
 La misma obligación señalada en el párrafo anterior se establece para las sucursales o agencias, cuyas matrices no se encuentren domiciliadas dentro del territorio del Estado.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-La Secretaría de Planeación y Finanzas llevará el Registro Estatal de Contribuyentes, basándose en los datos que las personas le proporcionen de conformidad con este artículo y en los que la propia Secretaría obtenga por cualquier otro medio, asimismo asignará la clave que corresponda a cada persona inscrita, quien deberá citarla en todo documento que presente ante las autoridades fiscales. Las personas inscritas deberán conservar en su domicilio la documentación comprobatoria de haber cumplido con las obligaciones que establece este artículo.
+La Secretaría de Finanzas llevará el Registro Estatal de Contribuyentes, basándose en los datos que las personas le proporcionen de conformidad con este artículo y en los que la propia Secretaría obtenga por cualquier otro medio, asimismo asignará la clave que corresponda a cada persona inscrita, quien deberá citarla en todo documento que presente ante las autoridades fiscales. Las personas inscritas deberán conservar en su domicilio la documentación comprobatoria de haber cumplido con las obligaciones que establece este artículo.
 
 La solicitud o los avisos a que se refiere el primer párrafo de este artículo, que se presenten en forma extemporánea, surtirán sus efectos a partir de la fecha en que sean presentados.
 
@@ -721,15 +717,15 @@ El aviso para los efectos de la fracción III de este artículo, se presentará 
 
 Cuando las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registro (sic) contables a que se refiere la fracción I de este Artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 29.
 
-Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de Registro Estatal de Contribuyentes, declaraciones o avisos ante las autoridades fiscales, lo harán en las formas o medios electrónicos que al respecto expida la Secretaría de Planeación y Finanzas, debiendo proporcionar el número de ejemplares, los datos, informes y adjuntar los documentos que dichas formas requieran.
+Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de Registro Estatal de Contribuyentes, declaraciones o avisos ante las autoridades fiscales, lo harán en las formas o medios electrónicos que al respecto expida la Secretaría de Finanzas, debiendo proporcionar el número de ejemplares, los datos, informes y adjuntar los documentos que dichas formas requieran.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-En los casos que las formas para la presentación de las declaraciones o avisos que prevengan las disposiciones fiscales, no hubieren sido aprobadas por la Secretaría de Planeación y Finanzas, los obligados a presentarlas las formularán en escrito por triplicado que contengan su nombre, denominación o razón social, domicilio y clave y Registro Estatal de Contribuyentes, ejercicio y los datos relativos a la obligación que pretendan cumplir; en caso de que se trate de la obligación de pago, deberá señalarse además el monto del mismo.
+En los casos que las formas para la presentación de las declaraciones o avisos que prevengan las disposiciones fiscales, no hubieren sido aprobadas por la Secretaría de Finanzas, los obligados a presentarlas las formularán en escrito por triplicado que contengan su nombre, denominación o razón social, domicilio y clave y Registro Estatal de Contribuyentes, ejercicio y los datos relativos a la obligación que pretendan cumplir; en caso de que se trate de la obligación de pago, deberá señalarse además el monto del mismo.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -809,11 +805,11 @@ La firma electrónica avanzada en los documentos digitales, amparada por un cert
 
 Para tales efectos, el certificado que contenga la firma electrónica avanzada, será el que expedida el Servicio de Administración Tributaria, y les serán aplicables las normas de vigencia, validez, revocación y cancelación previstas en los artículos 17-D, 17-G y 17-H; además, de contraer los titulares de la misma, las obligaciones del artículo 17-J, del Capítulo II de los Medios Electrónicos del Código Fiscal de la Federación.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 30 Quater.
 
-Cuando los contribuyentes remitan un documento digital a las autoridades fiscales, recibirán el acuse de recibo que contenga el sello digital. En este caso, el sello digital identificará a la dependencia qué recibió el documento y se presumirá, salvo prueba en contrario, que el documento digital fue recibido en la hora y fecha que se consignen en el acuse de recibo mencionado. La Secretaria de Planeación y Finanzas establecerá los medios para que los contribuyentes puedan verificar la autenticidad de los acuses de recibo con sello digital.
+Cuando los contribuyentes remitan un documento digital a las autoridades fiscales, recibirán el acuse de recibo que contenga el sello digital. En este caso, el sello digital identificará a la dependencia que recibió el documento y se presumirá, salvo prueba en contrario, que el documento digital fue recibido en la hora y fecha que se consignen en el acuse de recibo mencionado. La Secretaría de Finanzas establecerá los medios para que los contribuyentes puedan verificar la autenticidad de los acuses de recibo con sello digital.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -857,17 +853,17 @@ g) Publicar anualmente las resoluciones dictadas por las autoridades fiscales qu
 
 h) Dar a conocer, mediante publicación en el Periódico Oficial del Estado de Tabasco, los criterios no vinculativos de las disposiciones fiscales.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-Los servicios de asistencia al contribuyente a que se refiere esta fracción también deberán difundirse a través de la página electrónica que al efecto establezca la Secretaría de Planeación y Finanzas. En dicha página también se podrán dar a conocer todos los trámites fiscales;
+Los servicios de asistencia al contribuyente a que se refiere esta fracción también deberán difundirse a través de la página electrónica que al efecto establezca la Secretaría de Finanzas. En dicha página también se podrán dar a conocer todos los trámites fiscales;
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 II. Para los efectos de lo dispuesto en este artículo, la autoridad fiscal, en el ejercicio de sus facultades de asistencia al contribuyente, podrá realizar recorridos; campañas de difusión por medios electrónicos e impresos; invitaciones verbales, electrónicas, impresas; o censos, para informar y asesorar a los contribuyentes acerca del exacto cumplimiento de sus obligaciones fiscales y promover su incorporación voluntaria o actualización de sus datos en los registros de contribuyentes que para tal efecto mantenga la Secretaría.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-No se considera que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando derivado de lo señalado en el párrafo que antecede, soliciten a los particulares los datos, informes y documentos necesarios para corregir o actualizar los Registros de Contribuyentes que mantenga la Secretaría de Planeación y Finanzas.
+No se considera que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando derivado de lo señalado en el párrafo que antecede, soliciten a los particulares los datos, informes y documentos necesarios para corregir o actualizar los Registros de Contribuyentes que mantenga la Secretaría de Finanzas.
 
 Asimismo, las autoridades fiscales darán a conocer a los contribuyentes, a través de los medios de difusión que se señalen en reglas de carácter general, los criterios de carácter interno que emitan para el debido cumplimiento de las disposiciones fiscales, salvo aquéllos que, a juicio de la propia autoridad, tengan el carácter de reservados, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos cuando se publiquen en el Periódico Oficial del Estado de Tabasco
 
@@ -905,7 +901,9 @@ Lo previsto en este artículo no constituye instancia, ni interrumpe ni suspende
 
 Las autoridades fiscales podrán, discrecionalmente, revisar las resoluciones administrativas de carácter individual no favorables a un particular emitidas por sus subordinados jerárquicamente y, en el supuesto de que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, podrán, por una sola vez, modificarlas o revocarlas en beneficio del contribuyente, siempre y cuando los contribuyentes no hubieren interpuesto medios de defensa y hubieren transcurrido los plazos para presentarlos, y sin que haya prescrito el crédito fiscal.
 
-Lo señalado en el párrafo anterior, no constituirá instancia y las resoluciones que dicte la Secretaría de Planeación y Finanzas al respecto no podrán ser impugnadas por los contribuyentes.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
+Lo señalado en el párrafo anterior, no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas al respecto no podrán ser impugnadas por los contribuyentes.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -1117,11 +1115,11 @@ Tratándose de los supuestos establecidos en el inciso b) de la fracción I de e
 
 Para la práctica del aseguramiento precautorio se observarán las disposiciones contenidas en la Sección Segunda del Capítulo II del Título V de este Código, en aquello que no se oponga a lo previsto en este artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 36.
 
-Cuando las personas no cumplan con sus obligaciones fiscales como enterar el pago de contribuciones, presentar declaraciones, avisos o demás documentos dentro de los plazos señalados en las disposiciones fiscales, las autoridades fiscales exigirán el cumplimiento de la obligación fiscal omitida ante las oficinas correspondientes o en su caso a través de los medios electrónicos que autorice la Secretaría de Planeación y Finanzas, procediendo de la siguiente forma:
+Cuando las personas no cumplan con sus obligaciones fiscales como enterar el pago de contribuciones, presentar declaraciones, avisos o demás documentos dentro de los plazos señalados en las disposiciones fiscales, las autoridades fiscales exigirán el cumplimiento de la obligación fiscal omitida ante las oficinas correspondientes o en su caso a través de los medios electrónicos que autorice la Secretaría de Finanzas, procediendo de la siguiente forma:
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -1379,9 +1377,9 @@ V. Tratando se (sic) de la fracción VIII del artículo anterior, el plazo se su
 
 Dicha suspensión no podrá exceder de un plazo de dos meses contados a partir de que la autoridad notifique al contribuyente la reposición del procedimiento; y
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-VI. Cuando la autoridad se vea impedida para continuar el ejercicio de sus facultades de comprobación por caso fortuito o fuerza mayor, hasta que la causa desaparezca, lo cual se deberá publicar en el Periódico Oficial del Estado de Tabasco y en la página de la Secretaría de Planeación y Finanzas;
+VI. Cuando la autoridad se vea impedida para continuar el ejercicio de sus facultades de comprobación por caso fortuito o fuerza mayor, hasta que la causa desaparezca, lo cual se deberá publicar en el Periódico Oficial del Estado de Tabasco y en la página de la Secretaría de Finanzas.
 
 Si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad del contribuyente en las oficinas de las propias autoridades, los contribuyentes interponen algún medio de defensa en el país o en el extranjero contra los actos o actividades que deriven del ejercicio de sus facultades de comprobación, dichos plazos se suspenderán desde la fecha en que se interpongan los citados medios de defensa hasta que se dicte resolución definitiva de los mismos.
 
@@ -1541,15 +1539,21 @@ III. Señalen el nombre o domicilio de un tercero, real o ficticio, si se compru
 
 IV. Se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 49.
 
-Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código o en las leyes fiscales, o bien que consten en los expedientes, documentos o base de datos que lleven, tengan acceso o en su poder las autoridades fiscales, así como aquellos proporcionados por otras autoridades, podrán servir para motivar las resoluciones de la Secretaría de Planeación y Finanzas y de cualquier otra autoridad u organismo descentralizado competente en materia de contribuciones estatales.
+Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código o en las leyes fiscales, o bien que consten en los expedientes, documentos o base de datos que lleven, tengan acceso o en su poder las autoridades fiscales, así como aquellos proporcionados por otras autoridades, podrán servir para motivar las resoluciones de la Secretaría de Finanzas y de cualquier otra autoridad u organismo descentralizado competente en materia de contribuciones estatales.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 Cuando otras autoridades proporcionen expedientes o documentos a las autoridades fiscales conforme a lo dispuesto en el párrafo anterior, estas últimas deberán conceder a los contribuyentes un plazo de quince días, contado a partir de la fecha en la que les den a conocer tales expedientes o documentos, para manifestar por escrito lo que a su derecho convenga, lo cual formará parte del expediente administrativo correspondiente.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 Las mencionadas autoridades estarán a lo dispuesto en el primer párrafo de este artículo, sin perjuicio de su obligación de mantener la confidencialidad de la información proporcionada por terceros independientes que afecte su posición competitiva, a que se refiere el artículo 76 de este Código.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 Las copias o reproducciones que deriven del microfilm o disco óptico de documento que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias o reproducciones sean certificadas por funcionarios competentes para ello, sin necesidad de cotejo con los originales.
 
@@ -1741,8 +1745,6 @@ Los servidores públicos que intervengan en los diversos trámites relativos a l
 
 Dicha reserva o confidencialidad tampoco comprenderá la información relativa a los adeudos fiscales de los contribuyentes, que las autoridades fiscales proporcionen o difundan únicamente a las sociedades de información crediticia que operen de conformidad con la Ley para Regular las Sociedades de Información Crediticia, sea que estos adeudos emanen de contribuciones locales o de contribuciones federales coordinadas. A efecto de la correcta y debida aplicación de la facultad prevista en este párrafo, la Secretaría podrá solicitar o auxiliarse de la colaboración que brinden las autoridades federales.
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
 Mediante acuerdo de intercambio recíproco de información, suscrito por el titular de la Secretaría, se podrá suministrar la información a las autoridades fiscales de otras entidades federativas o del Gobierno Federal, siempre que se pacte o acuerde que la misma sólo se utilizará para efectos fiscales y se guardará el secreto fiscal correspondiente.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
@@ -1761,9 +1763,9 @@ V. Que tengan a su cargo créditos fiscales que hayan sido afectados en los tér
 
 VI. Que se les hubiere condonado algún crédito fiscal.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-La Secretaría de Planeación y Finanzas publicará en su página de Internet el nombre, denominación o razón social y clave del Registro Estatal de Contribuyentes, de aquéllos que se ubiquen en alguno de los supuestos a los que se refiere el párrafo anterior. Los contribuyentes que estuvieran inconformes con la publicación de sus datos, podrán llevar a cabo el procedimiento de aclaración que la Secretaría determine, en el cual podrán aportar las pruebas que a su derecho convenga. La autoridad fiscal deberá resolver el procedimiento en un plazo de tres días, contados a partir del día siguiente al que se reciba la solicitud correspondiente y, en caso de aclararse dicha situación, la Secretaría procederá a eliminar la información publicada que corresponda.
+La Secretaría de Finanzas publicará en su página de Internet el nombre, denominación o razón social y clave del Registro Estatal de Contribuyentes, de aquéllos que se ubiquen en alguno de los supuestos a los que se refiere el párrafo anterior. Los contribuyentes que estuvieran inconformes con la publicación de sus datos, podrán llevar a cabo el procedimiento de aclaración que la Secretaría determine, en el cual podrán aportar las pruebas que a su derecho convenga. La autoridad fiscal deberá resolver el procedimiento en un plazo de tres días, contados a partir del día siguiente al que se reciba la solicitud correspondiente y, en caso de aclararse dicha situación, la Secretaría procederá a eliminar la información publicada que corresponda.
 
 Los datos personales recabados a través de las solicitudes, avisos, declaraciones y demás manifestaciones, ya sean impresos o por medios electrónicos, serán incorporados, protegidos y tratados en los sistemas de datos personales de la Secretaría conforme a las disposiciones fiscales, con la finalidad de ejercer las facultades conferidas a la autoridad fiscal y únicamente podrán ser transmitidos en los términos y con las excepciones establecidas en el presente artículo, además de las previstas en otros ordenamientos legales fiscales estatales o federales.
 
@@ -1821,21 +1823,21 @@ I. La omisión sea descubierta por las autoridades fiscales;
 
 II. La omisión haya sido corregida por el contribuyente, después de que las autoridades fiscales hubieren notificado una orden de visita domiciliaria, o haya mediado requerimiento o cualquier otra gestión notificada por las mismas, tendentes a la comprobación del cumplimiento de las disposiciones fiscales; y
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-III. La omisión haya sido corregida por el contribuyente con posterioridad a los tres días siguientes a la presentación del dictamen de los estados financieros de dicho contribuyente, formulado por un Contador Público ante la Secretaría de Planeación y Finanzas, respecto de aquellas contribuciones omitidas que hubieren sido observadas en el dictamen.
+III. La omisión haya sido corregida por el contribuyente con posterioridad a los tres días siguientes a la presentación del dictamen de los estados financieros de dicho contribuyente, formulado por un Contador Público ante la Secretaría de Finanzas, respecto de aquellas contribuciones omitidas que hubieren sido observadas en el dictamen.
 
 Siempre que se omita el pago de una contribución, cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores titulados, los accesorios serán a cargo exclusivamente de éstos y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de los contribuyentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 61.
 
-La Secretaría de Planeación y Finanzas podrá condonar las multas por infracciones a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
+La Secretaría de Finanzas podrá condonar hasta el 100% las multas por infracciones a las disposiciones fiscales estatales, inclusive las determinadas por el propio contribuyente, para lo cual la propia Secretaría aplicará supletoriamente las reglas de carácter general, requisitos y supuestos que establezca la Federación en materia de condonación.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-La solicitud de condonación de multas, en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría de Planeación y Finanzas al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código.
+La solicitud de condonación de multas, en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código.
 
 La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal.
 
@@ -1859,9 +1861,9 @@ b) Se lleven dos o más sistemas de contabilidad con distinto contenido;
 
 c) Se destruya o permita la destrucción total o parcial de la contabilidad;
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-d) Que se microfilme o graben en disco (sic) ópticos o en cualquier otro medio que autorice la Secretaría de Planeación y Finanzas, documentación o información para efectos fiscales sin cumplir con los requisitos que establecen las disposiciones relativas. El agravante procederá sin perjuicio de que los documentos microfilmados o grabados, carezcan de valor probatorio;
+d) Que se microfilme o graben en disco ópticos (sic) o en cualquier otro medio que autorice la Secretaría de Finanzas, documentación o información para efectos fiscales sin cumplir con los requisitos que establecen las disposiciones relativas. El agravante procederá sin perjuicio de que los documentos microfilmados o grabados, carezcan de valor probatorio.
 
 e) La comisión en el entero de contribuciones que se hayan retenido; y
 
@@ -1945,9 +1947,9 @@ III. Para las señaladas en la fracción III:
 
 a) Tratándose de declaraciones, la mayor que resulte entre cinco veces el valor diario de la Unidad de Medida y Actualización o el 1% de las contribuciones declaradas; en ningún caso la multa prevista en este inciso será mayor de cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-b) De veinticinco veces el valor diario de la Unidad de Medida y Actualización tratándose de recursos ante la Secretaría de Planeación y Finanzas; y
+b) De veinticinco veces el valor diario de la Unidad de Medida y Actualización tratándose de recursos ante la Secretaría de Finanzas; y
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -2089,11 +2091,11 @@ Las infracciones no previstas en este Código, pero que se encuentren en otras l
 
 ### Capítulo II. Delitos Fiscales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 77.
 
-Para proceder penalmente por los delitos fiscales previstos en este Capítulo, será necesario que, ante el Ministerio Público la Secretaría de Planeación y Finanzas:
+Para proceder penalmente por los delitos fiscales previstos en este Capítulo, será necesario que, ante el Ministerio Público la Secretaría de Finanzas:
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -2101,23 +2103,23 @@ I. Formule querella, tratándose de los previstos en los artículos 88, 89, 90, 
 
 II. Presente denuncia, en los demás casos no previstos en la fracción anterior.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-En ambos casos la Secretaría de Planeación y Finanzas o quien la represente, deberá declarar que el fisco estatal sufrió o pudo sufrir perjuicio directamente por los actos o abstenciones imputados.
+En ambos casos la Secretaría de Finanzas quien la represente, deberá declarar que el fisco estatal sufrió o pudo sufrir perjuicio directamente por los actos o abstenciones imputados.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-Los procesos de los delitos fiscales a que se refiere la fracción I de este artículo se sobreseerán a petición de la Secretaría de Planeación y Finanzas, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las actualizaciones y los recargos respectivos, o bien, estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
+Los procesos de los delitos fiscales a que se refiere la fracción I de este artículo se sobreseerán a petición de la Secretaría de Finanzas, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las actualizaciones y los recargos respectivos, o bien, estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-En los delitos fiscales en que sea necesario querella y el daño o el perjuicio sea cuantificable, la Secretaría de Planeación y Finanzas hará la cuantificación correspondiente en la propia querella.
+En los delitos fiscales en que sea necesario querella y el daño o el perjuicio sea cuantificable, la Secretaría de Finanzas hará la cuantificación correspondiente en la propia querella.
 
 Cuando el término medio aritmético de la pena privativa de libertad que corresponda al delito imputado exceda de cinco años, para conceder la libertad provisional, el monto de la caución que fije la autoridad judicial comprenderá la suma de la cuantificación antes mencionada, las contribuciones adeudadas y los recargos, determinados por la autoridad fiscal a la fecha en que se promueva la libertad provisional. La caución que se otorgue en los términos de este párrafo no sustituye a la garantía del interés fiscal.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-En caso de que el procesado hubiere pagado o garantizado el interés fiscal, a entera satisfacción de la Secretaría de Planeación y Finanzas, la autoridad judicial, a solicitud del procesado, podrá reducir hasta en un veinte por ciento el monto de la caución.
+En caso de que el procesado hubiere pagado o garantizado el interés fiscal, a entera satisfacción de la Secretaría de Finanzas, la autoridad judicial, a solicitud del procesado, podrá reducir hasta en un veinte por ciento el monto de la caución.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
@@ -2173,11 +2175,11 @@ En el caso de delito continuado, la pena podrá aumentarse hasta por una mitad m
 
 Para los efectos de este Código, el delito es continuado cuando se ejecuta con pluralidad de conductas o hechos y con unidad de intención delictuosa.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 84.
 
-La acción penal de los delitos fiscales perseguibles por querella prescribirá en tres años, contados a partir del día en que la Secretaría de Planeación y Finanzas tenga conocimiento del delito y del delincuente; y si no tiene conocimiento, en cinco años que se computarán a partir de la fecha de la comisión del delito. En los demás casos, se estará a las reglas del Código Penal.
+La acción penal de los delitos fiscales perseguibles por querella prescribirá en tres años, contados a partir del día en que la Secretaría de Finanzas tenga conocimiento del delito y del delincuente; y si no tiene conocimiento, en cinco años que se computarán a partir de la fecha de la comisión del delito. En los demás casos, se estará a las reglas del Código Penal.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
 
@@ -2277,23 +2279,17 @@ IV. Por edictos, en el caso de que la persona a quien deba notificarse hubiera f
 
 V. Por instructivo, solamente en los casos y con las formalidades a que se refiere el segundo párrafo del artículo 97 de este Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+La Secretaría de Finanzas podrá habilitar a terceros para que realicen las notificaciones previstas en la fracción I de este artículo, cumpliendo las formalidades previstas en este Código.
 
-La Secretaría de Planeación y Finanzas podrá habilitar a terceros para que realicen las notificaciones previstas en la fracción I de este artículo, cumpliendo las formalidades previstas en este Código.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+Para los efectos del artículo 56 primer párrafo de este Código, los notificadores habilitados están obligados a guardar absoluta reserva de los datos de los contribuyentes que las autoridades fiscales les suministren para ese fin, observando en todo momento los convenios de confidencialidad suscritos con la Secretaría de Finanzas.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-Para los efectos del artículo 56 primer párrafo de este Código, los terceros habilitados para realizar las notificaciones, están obligados a guardar absoluta reserva de los datos de los contribuyentes que las autoridades fiscales les suministren para ese fin, observando en todo momento los convenios de confidencialidad suscritos con la Secretaría de Planeación y Finanzas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
-
-Para los efectos de los artículos 95, 96 y 97 de este Código, el notificador de los terceros habilitados, deberá identificarse ante la persona con quien se entienda la diligencia, mediante la constancia de identificación que para tales actos emita la empresa tercera contratada por la Secretaría de Planeación y Finanzas.
+Para los efectos de los artículos 95, 96 y 97 de este Código, los notificadores habilitados, deberán identificarse ante la persona con quien se entienda la diligencia, mediante la constancia de identificación que para tales actos emita la Secretaría de Finanzas.
 
 ###### Artículo 95.
 
@@ -2367,9 +2363,9 @@ Se tendrá como fecha de notificación la de la última publicación.
 
 Los Contribuyentes podrán garantizar el interés fiscal, cuando se actualice alguno de los supuestos previstos en el artículo 61 y 103 de este Código, en alguna de las formas siguientes:
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-I. Depósito de dinero en las oficinas recaudadoras de la Secretaría de Planeación y Finanzas;
+I. Depósito de dinero en las oficinas recaudadoras de la Secretaría de Finanzas;
 
 II. Prenda o hipoteca;
 
@@ -2391,15 +2387,13 @@ La autoridad fiscal vigilará que sean suficientes, tanto en el momento de su ac
 
 La garantía deberá constituirse dentro de los treinta días siguientes al en que surta efectos la notificación efectuada por la autoridad fiscal correspondiente de la resolución sobre la cual se deba garantizar el interés fiscal, salvo en los casos en que se indique un plazo diferente en otros preceptos de este Código.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 102.
 
-La garantía del interés fiscal se otorgará a favor de la Secretaría de Planeación y Finanzas o del organismo descentralizado que sea competente para cobrar coactivamente créditos fiscales.
+La garantía del interés fiscal se otorgará a favor de la Secretaría de Finanzas o del organismo descentralizado que sea competente para cobrar coactivamente créditos fiscales.
 
 Las garantías subsistirán hasta que proceda su cancelación en los términos que establezca este Código y los gastos que se originen será por cuenta del interesado.
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -2423,11 +2417,11 @@ IV. En los demás casos que señalen este ordenamiento y otras leyes fiscales.
 
 No se otorgará garantía respecto de gastos de ejecución, salvo que el interés fiscal esté constituido únicamente por éstos.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 104.
 
-Para los efectos de la fracción I del artículo 101 de este Código, el depósito de dinero generará intereses, calculados conforme a las tasas que para este caso señale la Secretaría de Planeación y Finanzas, debiendo permanecer la cantidad original en depósito mientras subsista la obligación de garantizar, pudiendo retirar el depositante los intereses que se generen.
+Para los efectos de la fracción I del artículo 101 de este Código, el depósito de dinero generará intereses, calculados conforme a las tasas que para este caso señale la Secretaría de Finanzas, debiendo permanecer la cantidad original en depósito mientras subsista la obligación de garantizar, pudiendo retirar el depositante los intereses que se generen.
 
 ###### Artículo 105.
 
@@ -2543,9 +2537,9 @@ La garantía deberá ampliarse dentro del mes siguiente a aquel en que concluya 
 
 Las garantías constituidas para asegurar el interés fiscal, a que se refieren las fracciones II, IV y V del artículo 101 de este Código, se harán efectivas a través del Procedimiento Administrativo de Ejecución.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-Si la garantía consiste en depósito de dinero en las oficinas recaudadoras de la Secretaría de Planeación y Finanzas, una vez que el crédito fiscal quede firme se ordenará su aplicación por la misma Secretaría.
+Si la garantía consiste en depósito de dinero en las oficinas recaudadoras de la Secretaría de Finanzas, una vez que el crédito fiscal quede firme se ordenará su aplicación por la misma Secretaría.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -2939,7 +2933,9 @@ En ningún caso procederá la inmovilización de los depósitos o seguros, por u
 
 En los casos en que el crédito fiscal se encuentre firme, la autoridad fiscal procederá como sigue:
 
-I. Si la autoridad fiscal tiene inmovilizadas cuentas en entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, y el contribuyente no ofreció una forma de garantía del interés fiscal suficiente antes de que el crédito fiscal quedara firme, la autoridad fiscal ordenará a la entidad financiera o sociedad cooperativa la transferencia de los recursos hasta por el monto del crédito fiscal, o hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir el mismo. La entidad financiera o la sociedad cooperativa de ahorro y préstamo deberán informar a la autoridad fiscal, dentro de los tres días posteriores a la orden de transferencia, el monto transferido y acompañar el comprobante que acredite el traspaso de los fondos a la cuenta de la Secretaría de Planeación y Finanzas o de la autoridad fiscal que corresponda.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
+I. Si la autoridad fiscal tiene inmovilizadas cuentas en entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, y el contribuyente no ofreció una forma de garantía del interés fiscal suficiente antes de que el crédito fiscal quedara firme, la autoridad fiscal ordenará a la entidad financiera o sociedad cooperativa la transferencia de los recursos hasta por el monto del crédito fiscal, o hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir el mismo. La entidad financiera o la sociedad cooperativa de ahorro y préstamo deberán informar a la autoridad fiscal, dentro de los tres días posteriores a la orden de transferencia, el monto transferido y acompañar el comprobante que acredite el traspaso de los fondos a la cuenta de la Secretaría de Finanzas o de la autoridad fiscal que corresponda.
 
 II. Si el interés fiscal se encuentra garantizado en alguna forma distinta a las establecidas en las fracciones I y III, del artículo 101 de este Código, la autoridad fiscal procederá a requerir al contribuyente para que efectúe el pago del crédito fiscal en el plazo de cinco días siguientes a la notificación del requerimiento. En caso de no efectuarlo, la autoridad fiscal podrá, indistintamente, hacer efectiva la garantía ofrecida, o proceder en los términos de la fracción anterior, a la transferencia de los recursos respectivos. En este caso, una vez que la entidad financiera o la sociedad cooperativa de ahorro y préstamo, informe a la autoridad fiscal haber transferido los recursos suficientes para cubrir el crédito fiscal, la autoridad fiscal deberá proceder en un plazo máximo de tres días, a liberar la garantía otorgada por el contribuyente.
 
@@ -4125,24 +4121,158 @@ QUINTO. Los sistemas a que se refiere el artículo 81-A de la Ley de Hacienda de
 
 SEXTO. La Secretaría de Finanzas realizará las previsiones presupuestales necesarias para el cumplimiento de lo establecido en el presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL " DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL FEDERAL EN MATERIA DE COMBATE A LA CORRUPCIÓN".]
+P.O. 21 DE DICIEMBRE DE 2019.
 
-Primero.- El presente Decreto entrará en vigor a partir del nombramiento que el Senado de la República realice del Titular de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción, creada en términos de lo establecido en el segundo párrafo del Artículo Décimo Octavo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia político-electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, a través del Acuerdo A/011/14 por el que se crea la Fiscalía Especializada en materia de Delitos relacionados con Hechos de Corrupción y se establecen sus atribuciones, publicado en el Diario Oficial de la Federación el 12 de marzo de 2014.
+## [N. DE E. TRANSITORIOS DEL DECRETO 162 POR EL QUE "SE REFORMA: EL ARTÍCULO 6, PÁRRAFOS SEGUNDO Y TERCERO; 7 ÚLTIMO PÁRRAFO; 8, FRACCIONES II, X BIS, XIV Y XXI; 10, PÁRRAFO SEXTO; 19 BIS, FRACCIÓN VII; ARTÍCULO 21, PÁRRAFOS SEGUNDO, TERCERO, SÉPTIMO Y OCTAVO; 24 BIS, PRIMER PÁRRAFO, ARTÍCULO 25, PÁRRAFOS PRIMERO Y TERCERO; 29, PÁRRAFOS PRIMERO Y SEGUNDO; 30 QUATER; 31, FRACCIÓN I PÁRRAFO SEGUNDO Y FRACCIÓN II PÁRRAFO SEGUNDO; 31 TER PÁRRAFO SEGUNDO; 36 PÁRRAFO PRIMERO; 42 BIS, FRACCIÓN VI; 49 PÁRRAFO PRIMERO; 56 PÁRRAFO QUINTO; 60, FRACCIÓN III; 61, PÁRRAFOS PRIMERO Y SEGUNDO; 62, FRACCIÓN II INCISO D); 67, FRACCIÓN III INCISO B); 77, PÁRRAFOS PRIMERO, SEGUNDO, TERCERO, CUARTO Y SEXTO; 84; 94, PÁRRAFOS SEGUNDO, TERCERO Y CUARTO; 101, FRACCIÓN I; 102, PÁRRAFO PRIMERO; 104; 111, PÁRRAFO SEGUNDO Y 125 TER, FRACCIÓN I. SE DEROGA: LA FRACCIÓN VI DEL ARTÍCULO 7; Y LAS FRACCIONES V, IX, XI Y XI BIS DEL ARTÍCULO 8; TODOS DEL CÓDIGO FISCAL DEL ESTADO DE TABASCO".]
 
-Segundo.- A partir de la entrada en vigor de este Decreto, para el caso en que las reformas contenidas en el mismo, contemplen una descripción legal de una conducta delictiva que en los artículos reformados se contemplaban como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
+PRIMERO. El presente Decreto entrará en vigor el día uno del mes de enero del año dos mil veinte, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
 
-I. En los casos de hechos que constituyan alguno de los delitos reformados por el presente Decreto, cuando se tenga conocimiento de los mismos, el Ministerio Público iniciará la investigación de conformidad con la traslación del tipo que resulte;
+SEGUNDO. Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
 
-II. En las investigaciones iniciadas, en los que aún no se ejercite la acción penal, el Ministerio Público ejercerá ésta de conformidad con la traslación del tipo que resulte;
+TERCERO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado tenga que entregar al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2020 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de competencia hacendaria de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
 
-III. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte;
+Para el caso de aquellas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaria estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2020 o cualquier otro ordenamiento legal en que así proceda.
 
-IV. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades, y
+CUARTO. La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2020 no contempla los recursos refrendados del ejercicio fiscal 2019, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2020.
 
-V. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+QUINTO. Se condonan y eximen parcialmente, durante el ejercicio fiscal 2020, los accesorios derivados de los créditos fiscales y las obligaciones omitidas del Impuesto Vehicular Estatal y del derecho de refrendo de placas, canje de placas, tarjeta de circulación y calcomanías, conforme a lo siguiente:
 
-Tercero.- Una vez que entre en vigencia la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes que establece el inciso a) de la fracción XXI del artículo 73, la fracción XIII del artículo 215 quedará derogada y los procedimientos iniciados por hechos que ocurran a partir de dicha entrada en vigor, se seguirán conforme a lo establecido en la misma.
+I. Los determinados por concepto (sic) Impuesto Vehicular Estatal establecido en el capítulo séptimo del título segundo vigente hasta el 31 de diciembre de 2014, en la Ley de Hacienda del Estado de Tabasco, correspondientes a los ejercicios 2011, 2012, 2013 y 2014.
 
-Los procedimientos iniciados antes de la vigencia de dicha ley continuarán su sustanciación de conformidad con este Código.
+Por el periodo comprendido del 1 de enero al 31 de diciembre de 2020, se otorga un estímulo fiscal para las personas físicas o jurídico-colectivas, consistente en un descuento del 100%, 75% y 50%, sobre los recargos, multas y gastos de ejecución causados al Impuesto Vehicular Estatal; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago de este impuesto más su actualización, dentro del periodo en comento, conforme a la siguiente tabla:
 
-Cuarto.- Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+CONCEPTO ESTÍMULO PRIMER PERIODO DE PAGO
+
+Recargos 100%
+
+Multas 100% 1 (sic) enero al 30 de abril de 2020
+
+Gastos de ejecución 100%
+
+CONCEPTO ESTÍMULO SEGUNDO PERIODO DE PAGO
+
+Recargos 75%
+
+Multas 75% 1 de mayo al 31 de agosto de 2020
+
+Gastos de ejecución 75%
+
+CONCEPTO ESTÍMULO TERCER PERIODO DE PAGO
+
+Recargos 50%
+
+Multas 50% 1 de septiembre al 31 de diciembre
+
+de 2020
+
+Gastos de ejecución 50%
+
+Los contribuyentes que opten por los estímulos que se otorgan en la fracción I del presente artículo transitorio, podrán ejercer el derecho de pago a plazos, conforme a lo siguiente:
+
+a) Pago en parcialidades sin que el plazo exceda de doce meses, quedando exentos de presentar garantía del interés fiscal, siempre que se cumpla en lo conducente con lo establecido en los artículos 52, 52 Bis fracciones I, IV, V, VI y V II (SIC) segundo párrafo, y 53 del Código Fiscal del Estado.
+
+b) En el caso de las personas físicas o jurídico-colectivas, que opten por realizar el pago del Impuesto Vehicular Estatal hasta en 36 parcialidades conforme lo señalan los artículos 52, 52 Bis y 53 del Código Fiscal del Estado de Tabasco, no podrán ser beneficiarios del estímulo a que se refiere el presente artículo transitorio.
+
+II. Los determinados por concepto de derecho de refrendo de placas, canje de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción IV y V, y 86 fracción IV y V de la Ley de Hacienda del Estado de Tabasco causados en los ejercicios anteriores al 2020.
+
+Por el periodo comprendido del 1 de enero al 31 de diciembre de 2020, se otorga un estímulo fiscal para las personas físicas o jurídico-colectivas, consistente en un descuento del 100%, 75% y 50% sobre los recargos, multas y gastos de ejecución causados por concepto del derecho de refrendo de placas, canje de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción IV y V, y 86 fracción IV y V de la Ley de Hacienda del Estado de Tabasco causados en los ejercicios anteriores al 2020; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago del derecho de refrendo de placas, tarjeta de circulación y calcomanías, dentro del periodo en comento, conforme a la siguiente tabla:
+
+CONCEPTO ESTÍMULO PRIMER PERIODO DE PAGO
+
+Recargos 100%
+
+Multas 100% 1 (sic) enero al 30 de abril de 2020
+
+Gastos de ejecución 100%
+
+CONCEPTO ESTÍMULO SEGUNDO PERIODO DE PAGO
+
+Recargos 75%
+
+Multas 75% 1 de mayo al 31 de agosto de 2020
+
+Gastos de ejecución 75%
+
+CONCEPTO ESTÍMULO TERCER PERIODO DE PAGO
+
+Recargos 50%
+
+Multas 50% 1 de septiembre al 31 de diciembre
+
+de 2020
+
+Gastos de ejecución 50%
+
+Los contribuyentes que opten por los estímulos que se otorgan en la fracción II del presente artículo transitorio, podrán ejercer el derecho de pago a plazos, conforme a lo siguiente:
+
+a) Pago en parcialidades sin que el plazo exceda de doce meses, quedando exentos de presentar garantía del interés fiscal, siempre que se cumpla en lo conducente con lo establecido en los artículos 52, 52 Bis fracciones I, IV, V, VI y VII segundo párrafo, y 53 del Código Fiscal del Estado.
+
+b) En el caso de las personas físicas o jurídico-colectivas, que opten por realizar el pago del derecho de refrendo de placas, canje de placas tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción V y 86 fracción V de la Ley de Hacienda del Estado de Tabasco, causados en los ejercicios anteriores al 2020, hasta en 36 parcialidades, conforme lo señalan los artículos 52, 52 Bis y 53 del Código Fiscal del Estado de Tabasco, no podrán ser beneficiarios de los estímulos a que se refiere el presente artículo transitorio.
+
+III. De igual forma los contribuyentes podrán optar por pagar las contribuciones mencionadas, mediante las siguientes opciones:
+
+1.- Sistema de Recaudación en Línea
+
+2.- Receptorías de Rentas
+
+3.- Unidades móviles
+
+4.- Módulos permanentes de cobros
+
+A través de los siguientes medios:
+
+a) Transferencia electrónica (Sistema de Recaudación en Línea)
+
+b) Tarjeta de crédito
+
+c) Tarjeta de débito
+
+d) Comprobante de pago de establecimientos autorizados, mediante la modalidad de pago referenciado
+
+e) Cheque certificado
+
+Lo anterior de conformidad con los procedimientos establecidos en el artículo 21 del Código Fiscal del Estado.
+
+Los estímulos a que se refiere este artículo, también procederán aún y cuando dichos créditos fiscales hayan sido objeto de impugnación por parte del contribuyente, sea ante las autoridades administrativas o jurisdiccionales, siempre que a la fecha de la adhesión, el procedimiento de impugnación respectivo haya quedado concluido mediante resolución firme, o bien, de no haber concluido, el contribuyente presente la solicitud de desistimiento debidamente ratificado, a dicho medio de defensa ante las autoridades competentes.
+
+No se podrán aplicar los estímulos establecidos en este artículo transitorio a los créditos fiscales pagados y en ningún caso dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno.
+
+La adhesión a los estímulos previstos en este artículo no constituirá instancia y la resolución que dicte la autoridad fiscal al respecto, no podrá ser impugnada por ningún medio de defensa.
+
+Con fundamento en el artículo 116 del Código Fiscal del Estado, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2015, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+SEXTO.- La Secretaría de Finanzas expedirá dentro de los 60 días naturales siguientes a la entrada en vigor del presente decreto, las reglas que considere necesarias para la correcta aplicación de la condonación y estímulo fiscal que se otorga en el artículo transitorio que antecede.
+
+La Secretaría de Finanzas informará, de conformidad a lo establecido en el artículo 2 de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2020, a la Comisión de Hacienda y Finanzas del Congreso del Estado, el resultado de los ingresos percibidos por el cumplimiento de este artículo.
+
+SÉPTIMO.- El Ejecutivo estatal a través de la Secretaría de Finanzas implementará un programa de regularización y depuración del Registro Estatal de Vehículos, que estará vigente durante el 2020, con el que se permitirá realizar la suspensión administrativa de obligaciones vehiculares en dicho registro a los contribuyentes que se encuentren sujetos a las contribuciones vehiculares correspondientes, a pesar de que con anterioridad a la entrada en vigor del presente decreto hayan vendido o cedido la propiedad de vehículos nacionales usados cuyo año- modelo sea 2016 y anteriores.
+
+La suspensión administrativa de obligaciones vehiculares será autorizada por la Secretaría de Finanzas quien deberá expedir a más tardar a los 60 días naturales siguientes a la entrada en vigor del presente decreto las reglas de operación para la correcta aplicación del programa.
+
+Los efectos de la suspensión administrativa de obligaciones vehiculares autorizada serán los siguientes:
+
+I. Que las contribuciones por la tenencia y uso del vehículo, que se generen a partir de la autorización de dicho trámite sean a cargo de quien ostente la tenencia y uso de este;
+
+II. Que la autoridad fiscal competente no requiera en términos del artículo 36 del Código Fiscal del Estado, a quien ostente la tenencia y uso del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, para efectos de que cumpla con la obligación a que se refiere el artículo 82 fracción II de la Ley de Hacienda del Estado de Tabasco;
+
+III. Que hasta en tanto no se efectúe el cambio de propietario del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, no deberá realizarse ningún otro trámite que afecte lo asentado respecto de dicho vehículo en el Registro Estatal de Vehículos; y
+
+IV. Que la Secretaría de Finanzas informe a la Dirección General de la Policía Estatal de Caminos, cuales son los vehículos sujetos a la suspensión administrativa de obligaciones vehiculares, para los efectos señalados en los artículos 35 de la Ley General de Tránsito y Vialidad del Estado de Tabasco; 6 fracción III y 7 fracción V del Reglamento de la citada legislación.
+
+Cuando el contribuyente que solicite la suspensión administrativa de obligaciones vehiculares proporcione datos o documentos falsos, la Secretaría de Finanzas cancelará dicho trámite, quedando sin efectos incluso las previamente autorizadas; así como, todo acto que se haya realizado con posterioridad a la autorización del trámite a que se refiere el presente artículo, sin menoscabo de las sanciones administrativas y penales que procedan.
+
+OCTAVO. El Ejecutivo Estatal por conducto de la Secretaría de Finanzas, implementará a partir del 1 de enero de 2020 un programa adicional al contemplado en el artículo Quinto transitorio del presente Decreto, dicho programa contemplará la condonación de pagos y beneficios fiscales, respecto a los créditos fiscales y obligaciones omitidas del Impuesto Vehicular Estatal y del derecho de refrendo de placas, canje de placas, tarjeta de circulación y calcomanías de motocicletas y motonetas.
+
+Dicho programa deberá contribuir a fortalecer la eficiencia recaudatoria del Gobierno del Estado, contemplando un esquema de depuración de créditos incobrables, con el objetivo de incrementar el número de contribuyentes que se inscriban en el Registro Estatal de Vehículos y obtengan su placa de circulación vigente, lo que permitirá identificar a los propietarios de las motocicletas y motonetas que circulan en el Estado de Tabasco.
+
+Con la finalidad de vigilar el cumplimiento de las disposiciones fiscales relativas a la inscripción en el Registro Estatal de Vehículos y al emplacamiento de las motocicletas y motonetas que circulan en la entidad, el Ejecutivo Estatal por conducto de la Secretaría de Seguridad y Protección Ciudadana y las autoridades municipales en materia de tránsito y vialidad, implementarán a partir del 1º de enero de 2020 un programa de vigilancia e inspección en relación a aquellos ciudadanos que circulen en el Estado en vehículos sin placas de circulación o con placas de circulación que no se encuentren vigentes, tomando en consideración la vigencia establecida por las autoridades federales en la normatividad aplicable.
+
+NOVENO. El monto que resulte del incremento en el cobro de los derechos establecidos en los artículos 85, fracción V, inciso a) y 86, fracción V, inciso a) -De 10.0 a 12.0 UMA- de la Ley de Hacienda del Estado de Tabasco, se destinará preferentemente para la creación de un fondo de movilidad y seguridad vial para el mantenimiento de señalización, semaforización y vialidades, así como inversión en nuevas obras viales, tales como broches viales, pasos peatonales, puentes y demás aplicables.
+
+DÉCIMO. Con fundamento en el artículo 116 del Código Fiscal del Estado, se declara la prescripción de los créditos y obligaciones fiscales derivadas de las contribuciones por conceptos de usos de agua en sus diversas modalidades: doméstico, comercial, industrial y por inmuebles destinados al servicio público; correspondientes a los servicios que presta la Comisión Estatal de Agua y Saneamiento, así como sus accesorios, anteriores al ejercicio fiscal 2015, que se encuentren en el sistema de recaudación de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+DÉCIMO PRIMERO. Cuando se trate de Impuestos y Derechos municipales en los que se coordine el Estado con los ayuntamientos municipales para que el primero cobre y administre por cuenta del municipio, los descuentos e incentivos fiscales se ajustarán a lo que previamente acuerden las partes.
