@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2019-05-14"
+last_updated: "2019-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -507,7 +507,9 @@ X. Formular la iniciativa de Ley de ingresos del municipio para cada año fiscal
 
 XI. Formular y aprobar el Presupuesto de Egresos del municipio para cada año fiscal, con base en sus ingresos disponibles y sujetándose para ello a las normas contenidas en ésta y las demás leyes aplicables;
 
-XII. Administrar el patrimonio del municipio conforme a la Ley y vigilar, a través del Presidente municipal y de los órganos de control que se establezcan del propio ayuntamiento, la correcta aplicación del Presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+XII. Administrar los bienes muebles e inmuebles del municipio conforme a la Ley y vigilar, a través del Presidente municipal y de los órganos de control que se establezcan del propio ayuntamiento, la correcta aplicación del Presupuesto de Egresos;
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
@@ -603,19 +605,19 @@ III. Convocar por conducto del Secretario del Ayuntamiento a sesiones del mismo,
 
 IV. Nombrar y remover libremente aquellos servidores públicos cuyo nombramiento o remoción no este determinado de otro modo;
 
-AV. utorizar, (sic) mancomunadamente con el Titular de la Dependencia Encargada del (sic) las Finanzas Públicas Municipales, las erogaciones del Ayuntamiento, en los términos de las partidas en su Presupuesto de Egresos. Dicha autorización podrá delegarse en los términos del Acuerdo que emita el ayuntamiento y fije los montos, bases y mecanismos para la emisión de documentos y títulos de valor, así como las responsabilidades y sistemas de control para el ejercicio del gasto público;
+V. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2019)
 
 VI. Vigilar la correcta recaudación de los ingresos municipales y que su erogación se realice con estricto apego al Presupuesto de Egresos;
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
-VII. Enviar a la Entidad Superior de Fiscalización del Estado, dentro de los primeros quince días naturales de cada mes, el informe que contenga los estados financieros relacionados al ejercicio presupuestal del mes inmediato anterior. Asimismo, realizar un informe de la Cuenta Pública Municipal, el cual deberá presentarse en los mismos términos que establece la Ley de Fiscalización Superior del Estado de Querétaro;
+VII. Enviar a la Entidad Superior de Fiscalización del Estado, a través del titular de la dependencia encargada de las finanzas públicas, en términos de la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Querétaro, el Informe de Avance de Gestión Financiera y la Cuenta Pública, del Municipio;
 
 VIII. Celebrar a nombre y por acuerdo del ayuntamiento, los actos, convenios y contratos necesarios para el mejor desempeño de las funciones municipales y la eficaz prestación de los servicios, ajustándose a la normatividad aplicable;
 
 IX. Vigilar y verificar la actuación de las dependencias municipales para cerciorarse de su correcto funcionamiento y dictar las medidas pertinentes para el mejoramiento de la administración municipal;
 
-X. Determinar las políticas para autorizar las órdenes de pago en los términos del Presupuesto de Egresos;
+X. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2019)
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
 
@@ -751,9 +753,7 @@ XIII.- Presentar al Ayuntamiento, para su autorización y sellado, en un plazo n
 
 XIV.- (DEROGADA, P.O. 18 DE ABRIL DE 2017)
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
-
-XV.- Exigir al titular de la dependencia encargada de las finanzas públicas y demás servidores públicos municipales que manejen fondos, el otorgamiento de fianzas previamente al inicio del desempeño de sus funciones;
+XV.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2019)
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
 
@@ -803,7 +803,9 @@ Las comisiones permanentes de dictamen, son cuerpos consultivos y de evaluación
 
 I. DE GOBERNACIÓN.- Cuya competencia será: garantizar la seguridad y tranquilidad de las personas y de sus bienes dentro de su territorio; elecciones municipales; estadística municipal; legalización de firmas de servidores públicos municipales; registro civil; aplicación de sanciones por infracciones previstas en los reglamentos municipales; inspectoría municipal; asociaciones religiosas y culto público; supervisión de funciones, desarrollo y desempeño del cuerpo de protección civil y el otorgamiento de auxilios extraordinarios en casos de incendios, terremotos, inundaciones, escasez de víveres y demás sucesos de emergencia y rescate; y los demás asuntos que señalen las leyes y los reglamentos municipales.
 
-II. DE HACIENDA, PATRIMONIO Y CUENTA PÚBLICA.- Cuya competencia será: presupuestos; iniciativas de reforma a la legislación hacendaría municipal; funcionamiento de las oficinas receptoras; examen de cuenta pública, y los demás asuntos señalados en las leyes y los reglamentos.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+II. DE HACIENDA, PATRIMONIO Y CUENTA PÚBLICA.- Cuya competencia será: presupuestos; iniciativas de reforma a la legislación hacendaria municipal; funcionamiento de las oficinas receptoras; estudio de cuenta pública, y los demás asuntos señalados en las leyes y los reglamentos.
 
 III. DE OBRAS Y SERVICIOS PÚBLICOS.- Cuya competencia será: dotación, distribución y tratamiento de aguas; desagüe, drenaje y red de alcantarillado; calles, parques, jardines y su equipamiento, y alumbrado públicos; zonas y monumentos de valor arquitectónico e histórico; inspección de construcciones particulares; obras peligrosas; saneamiento, recolección, traslado, tratamiento y disposición final de residuos y limpia de las poblaciones; construcción, mantenimiento, reparación y conservación de edificios municipales, tales como panteones, rastros, mercados y escuelas; rótulos, letreros y carteleras, y los demás asuntos que le señalen las leyes y los reglamentos.
 
@@ -1023,9 +1025,13 @@ IX. Custodiar los documentos que constituyan valores del Municipio, cuando su re
 
 X. Ejercer las facultades que en materia de deuda pública le confieran las disposiciones aplicables;
 
-XI. Liberar los recursos y realizar los pagos correspondientes a las dependencias, órganos adscritos y desconcentrados del Municipio, conforme a los programas y con cargo a sus presupuestos aprobados.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
-XII. Los titulares de las dependencias y los ejecutores de gasto a que se refiere el artículo 54 de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, generarán la solicitud u orden de pago, conforme a la normatividad aplicable, bajo su más estricta responsabilidad, a efecto de que la dependencia encargada de las finanzas públicas del Municipio pueda realizar los pagos a que se refiere esta fracción;
+XI. Liberar los recursos y cumplir con las autorizaciones de pago, correspondientes a las dependencias, órganos adscritos y desconcentrados del Municipio, conforme a los programas y con cargo a sus presupuestos aprobados.
+
+Los titulares de las dependencias y los ejecutores de gasto a que se refiere el artículo 54 de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, generarán la solicitud u orden de pago, conforme a la normatividad aplicable, bajo su más estricta responsabilidad, a efecto de que la dependencia encargada de las finanzas públicas del Municipio pueda realizar los pagos a que se refiere esta fracción;
+
+XII. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2019)
 
 XIII. Realizar una labor permanente de difusión y orientación fiscal;
 
@@ -1051,9 +1057,15 @@ XXIII. Prestar asesoría técnica en materia de tecnologías de la información,
 
 XXIV. Nombrar a los titulares de las direcciones y unidades administrativas de la dependencia encargada de las finanzas municipales;
 
-XXV. Expedir certificaciones de los documentos que obren en los archivos de las unidades administrativas y órganos desconcentrados de la misma, a través de sus titulares; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
-XXVI. Las demás señaladas por las leyes y reglamentos correspondientes.
+XXV. Expedir certificaciones de los documentos que obren en los archivos de las unidades administrativas y órganos desconcentrados de la misma, a través de sus titulares;
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+XXVI. Celebrar los instrumentos relacionados con la administración financiera y tributaria, pudiendo delegar sus funciones, atribuciones y facultades en sus subalternos, mediante acuerdo administrativos que deberán ser publicados en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”; y
+
+XXVII. Las demás señaladas por las leyes y reglamentos correspondientes.
 
 ### CAPÍTULO CUARTO. DE LA DEPENDENCIA ENCARGADA DE LA ADMINISTRACIÓN DE SERVICIOS INTERNOS, RECURSOS HUMANOS, MATERIALES Y TÉCNICOS DEL MUNICIPIO
 
@@ -1357,7 +1369,7 @@ X. Las demás que señalen los reglamentos.
 
 ###### ARTICULO 72.
 
-El ayuntamiento podrá encomendar a los consejeros las recaudaciones económicas que deba aportar la comunidad cuando se trate de aportaciones para la realización concertada de obra pública; en este caso, los recibos serán autorizados por la dependencia encargada de las finanzas públicas municipales y a ésta se concentrarán tales fondos para ser aplicados a la obra respectiva.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2019)
 
 ## TÍTULO V. DE LOS ACTOS ADMINISTRATIVOS MUNICIPALES
 
@@ -1713,15 +1725,21 @@ Los bienes inmuebles del dominio privado del municipio son imprescriptibles y po
 
 ### CAPÍTULO SEGUNDO. DE LA HACIENDA MUNICIPAL
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 102.
 
-Son autoridades hacendarias las siguientes:
+En relación con la hacienda municipal, adicionalmente a lo establecido en el Código Fiscal del Estado de Querétaro, son autoridades fiscales y hacendarias las siguientes:
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 I. El ayuntamiento;
 
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
 II. El presidente municipal; y
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 III. El titular de la dependencia encargada de las finanzas públicas municipales, el Director de Ingresos o el titular de la unidad administrativa encargada de la recaudación de los ingresos, así como los funcionarios que mediante acuerdo autorice el titular de la dependencia encargada de las finanzas públicas municipales.
 
@@ -1749,11 +1767,11 @@ La dependencia encargada de las finanzas públicas, efectuará la determinación
 
 El titular de la dependencia encargada de las finanzas públicas es el responsable de la elaboración de los proyectos de iniciativa de Ley de Ingresos y del Presupuesto de Egresos del municipio.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 107.
 
-Para la elaboración de la Ley de Ingresos, el titular de la dependencia encargada de las finanzas públicas presentará al Ayuntamiento, a más tardar el día veinte de noviembre, un proyecto de iniciativa de Ley, en el cual hará acopio de la información económica y contable del ejercicio anterior, así como de los factores generales que reflejen la situación económica del municipio y la región.
+Para la elaboración de la Ley de Ingresos, el titular de la dependencia encargada de las finanzas públicas presentará al Ayuntamiento, a más tardar el día veinte de noviembre, un proyecto de iniciativa de Ley, en el cual hará acopio de la información económica y contable del ejercicio anterior, así como de los factores generales que reflejen la situación económica del municipio y la región. Lo anterior, previo cumplimiento de lo establecido en el artículo 48, fracción VI de esta Ley.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
@@ -1763,39 +1781,57 @@ El Ayuntamiento deberá formular anualmente la iniciativa de Ley de ingresos cor
 
 La Legislatura del Estado resolverá lo conducente, a más tardar el quince de diciembre.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 109.
 
-La iniciativa de Ley de Ingresos del municipio, contendrá:
+La iniciativa de Ley de Ingresos del municipio se elaborará atendiendo lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, en la Ley General de Contabilidad Gubernamental, en la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro y demás disposiciones aplicables, conteniendo, además de lo señalado en los ordenamientos referidos, lo siguiente:
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 I. La estimación de los ingresos por los rubros específicos que se consideran para el ejercicio fiscal correspondiente de impuestos, derechos, productos y aprovechamientos, clasificados de conformidad con la Ley de Hacienda de los Municipios del Estado de Querétaro;
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 II. Las participaciones, aportaciones federales y otras transferencias a que se tenga derecho y hayan sido presupuestadas a favor del Municipio;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 III. Los ingresos extraordinarios que se prevean por la enajenación de bienes que pretendan efectuarse durante el ejercicio;
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 IV. Los ingresos extraordinarios que se prevean por endeudamiento que pretendan realizarse durante el ejercicio;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 V. Las normas de tasación flexibles entre un mínimo y un máximo; y
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 VI. Cualquier otro concepto contenido en la Ley de Hacienda de los Municipios del Estado de Querétaro.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 110.
 
-El Presupuesto de Egresos de cada Municipio, constituye la expresión económica de la política gubernamental y será el aprobado por los ayuntamientos; se integra con los presupuestos de las dependencias y organismos municipales y en la conformación del mismo y en las modificaciones que se le hagan, se guardará el equilibrio presupuestal en su relación con los ingresos aprobados en la Ley de Ingresos del Municipio.
-
-Para la elaboración del Presupuesto de Egresos las diferentes dependencias administrativas del gobierno municipal, deberán turnar a la dependencia encargada de las finanzas públicas, una propuesta que contenga el monto de los recursos que requiera para el cumplimiento de los programas que se le hayan asignado y los planes de trabajo necesarios para el cumplimiento de sus funciones.
-
-Con base en las propuestas antes mencionadas, los ingresos proyectados y la priorización de programas y acciones que determine el Ayuntamiento y el Presidente Municipal, el titular de la dependencia encargada de las finanzas, elaborará y presentará al Presidente Municipal, un proyecto de iniciativa de Presupuesto de Egresos del Municipio. Recibida la iniciativa el Ayuntamiento resolverá de conformidad con lo que al efecto disponga su reglamento.
+El Presupuesto de Egresos de cada Municipio, constituye la expresión económica de la política gubernamental y será el aprobado por los ayuntamientos; se integra con los presupuestos de las dependencias y organismos municipales y en la conformación del mismo se guardará el equilibrio presupuestal en su relación con los ingresos aprobados en la Ley de Ingresos del Municipio.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
+Para la elaboración del Presupuesto de Egresos las diferentes dependencias administrativas del gobierno municipal, deberán turnar a la dependencia encargada de las finanzas públicas, una propuesta que contenga el monto de los recursos que requiera para el cumplimiento de los programas que se le hayan asignado y los planes de trabajo necesarios para el cumplimiento de sus funciones.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+Con base en las propuestas antes mencionadas, los ingresos proyectados y la priorización de programas y acciones que determine el Ayuntamiento y el Presidente Municipal, el titular de la dependencia encargada de las finanzas, elaborará y presentará al Presidente Municipal, un proyecto de iniciativa de Presupuesto de Egresos del Municipio. Recibida la iniciativa el Ayuntamiento resolverá de conformidad con lo que al efecto disponga su reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 111.
 
-El Presupuesto de Egresos contendrá los apartados siguientes:
+El Presupuesto de Egresos se elaborará atendiendo lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, en la Ley General de Contabilidad Gubernamental, en la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro y demás disposiciones aplicables, conteniendo, además de lo señalado en los ordenamientos referidos, los apartados siguientes:
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 I. Exposición de motivos, en la que se describan:
 
@@ -1805,23 +1841,43 @@ b) Situación de la deuda pública al término del último ejercicio fiscal pres
 
 c) Ingresos y gastos reales del primero de octubre del año anterior al treinta de septiembre del año en curso;
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 II. La integración de las partidas por objeto del gasto y por conceptos globales de gasto social y gasto administrativo que ejercerán sus dependencias y entidades;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 III. Las prioridades de gasto, programas y proyectos, así como la distribución del presupuesto, detallando el gasto en servicios personales, incluyendo el analítico de plazas y desglosando todas las remuneraciones; las contrataciones de servicios por honorarios y, en su caso, previsiones para personal eventual; pensiones; gastos de operación, incluyendo gasto en comunicación social; gasto de inversión; así como gasto correspondiente a compromisos plurianuales, proyectos de asociaciones público privadas y proyectos de prestación de servicios, así como cualquier otro que establezcan las disposiciones aplicables;
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 IV. El listado de los programas, así como sus indicadores estratégicos y de gestión aprobados;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 V. La asignación de recursos, de acuerdo a las normas, metodologías y clasificadores que correspondan conforme a la Ley General respectiva;
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 VI. Reportes de saldos en cuentas bancarias al treinta de septiembre del año en curso y dinero en efectivo, especificando su origen y, en su caso, destino;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 VII. Los tabuladores que contengan las remuneraciones, sean fijas o variables, en efectivo o en especie, de los servidores públicos, determinados en los términos del Título Tercero de esta Ley;
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 VIII. Resumen ejecutivo del presupuesto que refleje la suma del total presupuestado;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 IX. El endeudamiento neto;
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 X. Los intereses de la deuda; y
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 XI. La demás información que, en su caso, señalen las disposiciones generales aplicables a los sujetos de la Ley.
 
@@ -1833,15 +1889,15 @@ En la formulación del Presupuesto de Egresos deberán observarse los lineamient
 
 I. La presupuestación del gasto público municipal deberá sujetarse a los objetivos y prioridades que señale el Plan de Desarrollo Municipal y sus programas, atendiendo a los principios de eficiencia, eficacia, economía, transparencia, honradez y austeridad;
 
-II. Sólo habrá un Presupuesto, las partidas podrán ser modificadas con posterioridad:
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
-a) Cuando existan ingresos extraordinarios o adicionales, para lo cual el titular de la dependencia encargada de las finanzas públicas, lo hará del conocimiento del Ayuntamiento dentro del mes siguiente al que ingresaron, manifestando de manera detallada la fuente de ingresos y el destino que se propone.
+II. Sólo habrá un Presupuesto de Egresos del Municipio, el cual es aprobado por el Ayuntamiento en los términos previstos por esta Ley y demás disposiciones aplicables.
 
-b) Cuando resulten necesarias transferencias entre partidas, para ajustarlas a las necesidades de las dependencias.
+En el ejercicio de los ingresos excedentes que se obtengan en relación a lo presupuestado en la Ley de Ingresos, se observará lo establecido por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro y demás disposiciones legales que regulen dichos ingresos;
 
-c) En ambos casos se deberá señalar el origen y destino de los recursos y se procederá conforme a lo dispuesto por la ley;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
-III. Todos los gastos públicos deberán consignarse en el Presupuesto o en modificaciones al mismo;
+III. Todos los gastos públicos deberán consignarse en el Presupuesto;
 
 IV. Las autorizaciones presupuestales del gasto no se formularán en forma general, sino por partidas detalladas y específicas, sin perjuicio de agruparlas en partidas globales;
 
@@ -1871,11 +1927,13 @@ XI. No se podrán aprobar partidas para el otorgamiento de bonos, compensaciones
 
 Aprobada la Ley de Ingresos por la Legislatura, el Ayuntamiento aprobará su Presupuesto de Egresos, el cual será publicado en los términos de la Presente Ley. Cuando por cualquier causa no se haya aprobado la Ley de Ingresos o el Presupuesto de Egresos que corresponda, entrará en vigor uno en iguales términos del que se encuentre vigente en ese momento, hasta en tanto se apruebe los que correspondan a ese ejercicio fiscal.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 114.
 
-Corresponde al Presidente Municipal y a los titulares de las Dependencias, la ejecución de las partidas que se les hubieren asignado del Presupuesto de Egresos y no podrán autorizarse, ni ejercerse erogación alguna si no se encuentra prevista en el Presupuesto de Egresos una partida presupuestal específica para ello, o si esta se ha agotado; aun cuando se haya solicitado transferencia de recursos de otra partida presupuestal para lograr la suficiencia y ésta aún no se ha aprobado en los términos previstos por la presente Ley y el Reglamento correspondiente.
+Corresponde al Presidente Municipal y a los titulares de las Dependencias y organismos municipales, la ejecución de las partidas que se les hubieren asignado del Presupuesto de Egresos y no podrán autorizarse, ni ejercerse erogación alguna si no se encuentra prevista en dicho Presupuesto.
+
+Para tal efecto, dichos servidores públicos deberán observar lo establecido por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro y demás disposiciones legales que resulten aplicables.
 
 Por lo anterior en la ejecución del gasto público, las dependencias y organismos municipales, deberán:
 
@@ -1883,11 +1941,15 @@ I. Realizar sus actividades con sujeción a los objetivos y metas de los program
 
 II. Registrar y controlar su ejercicio presupuestal, sujetándose a los compromisos reales de pago.
 
-La dependencia encargada de las finanzas públicas, en los términos que establezcan los reglamentos municipales, es el responsable de la supervisión del ejercicio presupuestal y del avance de los programas operativos de las dependencias y organismos municipales, debiendo informar periódicamente al Ayuntamiento de los resultados obtenidos.
+La dependencia encargada de las finanzas públicas, en los términos que establezcan los reglamentos municipales, es la responsable de la supervisión del ejercicio presupuestal.
 
 ###### ARTICULO 115.
 
 El presupuesto de egresos será aprobado por el Ayuntamiento con base en sus ingresos disponibles.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+Una vez aprobado el Presupuesto de Egresos, sólo se podrán comprometer recursos con cargo al presupuesto autorizado, contando previamente con la suficiencia presupuestaria, identificando la fuente de ingresos.
 
 ## TÍTULO VII. DEL DESARROLLO MUNICIPAL, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS
 
@@ -2928,3 +2990,123 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
 
 Artículo Tercero. Las acciones a que se refiere la presente Ley se podrán realizar conforme a la suficiencia y disponibilidad presupuestal con que cuenten los municipios para su aplicación, así como atendiendo a las propias condiciones de cada uno de los municipios, quienes deberán reglamentar el método de asignación de recursos destinados, a partir del siguiente ejercicio fiscal.
+
+P.O. 22 DE DICIEMBRE DE 2019.
+
+[N. DE. E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO, DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE QUERÉTARO, Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY QUE EXPIDE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ARCHIVOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el 1 de enero de 2020.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Con relación a las reformas de los artículos 4 y 36 de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro relativas a la Unidad de Comunicación Social y Atención Ciudadana, las alusiones a la Coordinación de Comunicación Social contenidas en otras disposiciones legales y reglamentarias, administrativas, así como en cualquier otro instrumento jurídico, se entenderán hechas a dicha Unidad, debiéndose expedir las disposiciones reglamentarias que resulten necesarias para el cumplimiento de lo dispuesto en esta Ley.
+
+Los asuntos en trámite o procedimientos iniciados ante la Coordinación de Comunicación Social que se encuentren pendientes de atender o de resolución a la entrada en vigor de la presente Ley, serán sustanciados por la Unidad de Comunicación Social y Atención Ciudadana.
+
+###### ARTÍCULO CUARTO.
+
+De conformidad con lo previsto en el Artículo Noveno de la presente Ley, se extingue el organismo público descentralizado del Poder Ejecutivo del Estado de Querétaro, denominado Instituto de la Función Registral del Estado de Querétaro, creado mediante Ley publicada el 3 de octubre de 2018 en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+###### ARTÍCULO QUINTO.
+
+Se autoriza al Director del Registro Público de la Propiedad y del Comercio a efecto de que realice los trámites correspondientes a la cancelación de los registros fiscales y administrativos que se hubiesen generado para efectos de la operación del Instituto de la Función Registral del Estado de Querétaro, así como para la terminación de los instrumentos jurídicos que se hubiesen celebrado con las instituciones financieras para su entrada en operación.
+
+###### ARTÍCULO SEXTO.
+
+Las alusiones al Instituto de la Función Registral del Estado de Querétaro contenidas en otras disposiciones legales y reglamentarias, administrativas, así como en cualquier otro instrumento jurídico, se entenderán hechas al Registro Público de la Propiedad y del Comercio, así como al Archivo General de Notarías, ambos del Estado Libre y Soberano de Querétaro, cuando de acuerdo al contexto y al ámbito competencial que corresponda, se refieran a dicho Registro o Archivo.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2020, serán las siguientes:
+
+I. Por la expedición de los oficios y certificaciones a que se refieren las fracciones III y IV del artículo 127 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1.25 UMA;
+
+II. Cuando los avisos de testamentos a los que se refiere el artículo 113 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo que al efecto establezca la Secretaría de Gobierno, no se causarán los derechos correspondientes;
+
+III. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 88 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
+
+MES DE PAGO DESCUENTO
+
+Enero 10%
+
+Febrero 8%
+
+Marzo 5%
+
+IV. Se cancelan los créditos fiscales por incosteabilidad en el cobro.
+
+Para efectos de esta fracción, se consideran créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2019, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión.
+
+Se cancelan los adeudos del Impuesto Sobre Tenencia o Uso de Vehículos, así como los derechos por control vehicular previstos en la Ley de Hacienda del Estado de Querétaro, generados por los ejercicios fiscales 2015 y anteriores;
+
+V. Las personas que resulten beneficiarias de los apoyos contenidos en el Programa de Apoyo a la Tenencia gozarán de una reducción en el impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro a su cargo, del noventa y nueve por ciento;
+
+VI. Las autoridades fiscales podrán restituir las cantidades pagadas por los particulares por concepto de derechos contenidos en la Ley de Hacienda del Estado de Querétaro, siempre y cuando:
+
+a) Los particulares hayan promovido un medio de defensa en materia de constitucionalidad, con motivo del pago de los derechos a que hace referencia el primer párrafo de esta fracción;
+
+b) El medio de defensa no haya sido extemporáneo;
+
+c) Las cantidades sujetas a restitución hayan sido efectivamente pagadas al fisco estatal; y
+
+d) El particular presente ante las autoridades jurisdiccionales competentes el escrito mediante el cual se desista del medio de defensa señalado en el inciso a) de esta fracción.
+
+Para efectos de lo anterior, previa opinión favorable de la Procuraduría Fiscal del Estado, se generará la orden de pago correspondiente.
+
+La restitución prevista en esta fracción podrá realizarse antes de que se dicte sentencia que ponga fin al medio de defensa mencionado;
+
+VII. Las tarjetas de circulación a que hace referencia el artículo 157 de la Ley de Hacienda del Estado de Querétaro, que hubiesen sido expedidas para los ejercicios fiscales 2013, 2014, 2015, 2016, 2017, 2018 y 2019 continuarán vigentes hasta el 31 de marzo de 2021.
+
+Para efectos de lo anterior, los contribuyentes, tenedores o usuarios de vehículos deberán realizar el pago del Impuesto Sobre Tenencia o Uso de Vehículos y los derechos correspondientes al ejercicio fiscal 2020, que contempla la referida ley.
+
+Los citados contribuyentes, tenedores o usuarios, para comprobar la vigencia de las tarjetas de circulación señaladas en el primer párrafo de esta fracción, ante las autoridades que así se lo requieran, exhibirán la representación impresa del comprobante fiscal digital respectivo;
+
+VIII. El impuesto sobre diversiones y espectáculos públicos a que se refiere el Capítulo Quinto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se reducirá en un 100%. En este caso, los contribuyentes no deberán cumplir con las obligaciones formales relativas a dicha contribución;
+
+IX. Los derechos previstos en los artículos 169 Bis y 169 Ter de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del (sic) Querétaro Centro de Congresos y Querétaro Teatro Metropolitano;
+
+X. Siempre que se trate de vivienda de interés social o popular, los derechos que de conformidad con la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente.
+
+b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos.
+
+c) La expedición de certificados de no propiedad;
+
+XI. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
+
+a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+c) Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate.
+
+Se causará un derecho a razón de 5 UMA por la inscripción del acto en el que conste la adquisición de vivienda de interés social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona;
+
+XII. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos.
+
+b) La inscripción de la escritura pública en la que conste la operación mediante la cual las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios.
+
+c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado;
+
+XIII. No se causarán los derechos previstos en la Ley de Hacienda del Estado de Querétaro, por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
+
+a) El acto en el que conste la reestructuración de los créditos señalados en el artículo 100 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicho Registro se encuentre la anotación del crédito inicial.
+
+b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas morales y personas físicas con actividad empresarial, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que los inmuebles adquiridos se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos.
+
+c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas morales y personas físicas con actividad empresarial, siempre que con ello se propicie el mantenimiento de empleos.
+
+d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes;
+
+XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial; y
+
+XV. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro y los Programas que se financien con dicho Fondo.
