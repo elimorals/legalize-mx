@@ -4,7 +4,7 @@ identifier: "QUE-codigo-urbano-del-estado-de-queretaro-88087"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-05-31"
-last_updated: "2019-06-30"
+last_updated: "2019-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "QUE"
 ---
 # CODIGO URBANO DEL ESTADO DE QUERETARO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: DE CONFORMIDAD CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE ELTEXTO DE LAS DISPOSICIONES REFORMADAS POR EL DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LAS DISPOSICIONES REFORMADAS POR EL DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]
 
 CÓDIGO URBANO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 31 de mayo de 2012.
 
@@ -179,9 +179,9 @@ VIII. Promover la ordenación de los procesos de conurbación entre los Municipi
 
 IX. Publicar los programas en materia de desarrollo urbano y ordenamiento territorial;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-X. Inscribir los programas de desarrollo urbano en el Instituto de la Función Registral del Estado de Querétaro y todas aquellas resoluciones que se emitan de conformidad con este ordenamiento, que por su naturaleza así lo ameriten. Para tal efecto, el Instituto de la Función Registral del Estado de Querétaro, solicitará a la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo del Estado, una opinión técnica sobre la congruencia del programa a inscribir, excepto el Programa Estatal de Desarrollo Urbano;
+X. Inscribir los programas de desarrollo urbano en el Registro Público de la Propiedad y del Comercio y todas aquellas resoluciones que se emitan de conformidad con este ordenamiento, que por su naturaleza así lo ameriten. Para tal efecto, el Registro Público de la Propiedad y del Comercio, solicitará a la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo del Estado, una opinión técnica sobre la congruencia del programa a inscribir, excepto el Programa Estatal de Desarrollo Urbano;
 
 XI. Verificar la congruencia y vinculación que deberán observar entre sí los programas de desarrollo urbano, incluyendo los de áreas conurbadas o zonas metropolitanas;
 
@@ -259,9 +259,9 @@ Es competencia de los Municipios:
 
 I. La que le señala el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, así como aplicar y hacer cumplir las disposiciones de este ordenamiento, en la esfera de su competencia y atribuciones;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-II. Controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales, de acuerdo con los programas de desarrollo urbano debidamente aprobados, publicados e inscritos en el Instituto de la Función Registral del Estado de Querétaro, así como otras leyes o reglamentos aplicables;
+II. Controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales, de acuerdo con los programas de desarrollo urbano debidamente aprobados, publicados e inscritos en el Registro Público de la Propiedad y del Comercio que corresponda, así como otras leyes o reglamentos aplicables;
 
 III. Supervisar, por conducto de su área encargada del desarrollo urbano, que las obras de urbanización de los desarrollos inmobiliarios se apeguen a las especificaciones autorizadas;
 
@@ -623,13 +623,13 @@ Concluido el último foro de consulta, la Secretaría de Desarrollo Urbano y Obr
 
 Fenecido el término a que se refiere el artículo anterior, la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo del Estado, de estimarlo pertinente, realizará las modificaciones que considere en un término de cinco días hábiles, turnándolo al Gobernador del Estado para efecto de su aprobación y orden de publicación de una versión abreviada en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”, así como en uno de los periódicos de mayor circulación en la Entidad.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 38.
 
-Una vez publicada la versión abreviada del Programa Estatal de Desarrollo Urbano, en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”, el titular del Poder Ejecutivo del Estado, en un término no mayor a cinco días hábiles, ordenará su inscripción en el Instituto de la Función Registral del Estado de Querétaro, a fin de que surta sus efectos legales.
+Una vez publicada la versión abreviada del Programa Estatal de Desarrollo Urbano, en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", el titular del Poder Ejecutivo del Estado, en un término no mayor a cinco días hábiles, ordenará su inscripción en el Registro Público de la Propiedad y del Comercio, a fin de que surta sus efectos legales.
 
-La forma de inscripción y la consulta del Programa a que se refiere este artículo se hará en los términos que al efecto prevea el Reglamento del Instituto de la Función Registral del Estado de Querétaro, sin detrimento que una copia certificada del documento íntegro que lo conforma, esté a disposición de la ciudadanía para su consulta, en las oficinas de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo del Estado.
+La forma de inscripción y la consulta del Programa a que se refiere este artículo, se hará en los términos que al efecto prevea el Reglamento del Registro Público de la Propiedad y del Comercio, sin detrimento que una copia certificada del documento íntegro que lo conforma, esté a disposición de la ciudadanía para su consulta, en las oficinas de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo del Estado.
 
 ###### Artículo 39.
 
@@ -757,13 +757,13 @@ Fenecido el término a que se refiere el artículo anterior, el Ayuntamiento o e
 
 Una vez aprobado el Programa Municipal de Desarrollo Urbano, el Ayuntamiento del Municipio que corresponda, ordenará la publicación de una versión abreviada en la Gaceta Municipal, en caso de contar con ésta, así como la publicación de dicha versión en el Periódico Oficial del Gobierno Estado “La Sombra de Arteaga” y en un periódico de mayor circulación en la Entidad.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 48.
 
-Una vez publicado el Programa Municipal de Desarrollo Urbano en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”, el Ayuntamiento en un término no mayor a tres días hábiles, solicitará su inscripción en el Instituto de la Función Registral del Estado de Querétaro, a fin de que surta sus efectos legales.
+Una vez publicado el Programa Municipal de Desarrollo Urbano en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", el Ayuntamiento en un término no mayor a tres días hábiles, solicitará su inscripción en el Registro Público de la Propiedad y del Comercio, a fin de que surta sus efectos legales.
 
-La forma de inscripción y la consulta del Programa a que se refiere este artículo, se hará en los términos que al efecto prevea el Reglamento del Instituto de la Función Registral del Estado de Querétaro; sin detrimento de que una copia certificada del documento íntegro que lo conforma, esté a disposición de la ciudadanía para su consulta en las oficinas de la Dependencia encargada del Desarrollo Urbano del Municipio que corresponda, así como de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo del Estado.
+La forma de inscripción y la consulta del Programa a que se refiere este artículo, se hará en los términos que al efecto prevea el Reglamento del Registro Público de la Propiedad y del Comercio; sin detrimento de que una copia certificada del documento íntegro que lo conforma, esté a disposición de la ciudadanía para su consulta en las oficinas de la Dependencia encargada del Desarrollo Urbano del Municipio que corresponda, así como de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo del Estado.
 
 ###### Artículo 49.
 
@@ -779,11 +779,11 @@ IV. Sobrevenga otra causa de interés social que les afecte.
 
 La modificación o cancelación se sujetará a lo previsto en los artículos 43 al 48 de este Código.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 50.
 
-Mediante resolución firme emitida por la autoridad judicial se procederá a la modificación o cancelación de los programas, de lo cual tomará razón el Instituto de la Función Registral del Estado de Querétaro.
+Mediante resolución firme emitida por la autoridad judicial se procederá a la modificación o cancelación de los programas, de lo cual tomará razón el Registro Público de la Propiedad y del Comercio.
 
 ###### Artículo 51.
 
@@ -799,9 +799,9 @@ Los Programas Subregionales de Desarrollo Urbano, de Ordenación de Zonas Metrop
 
 Los Programas Subregionales de Desarrollo Urbano, de Ordenación de Zonas Metropolitanas o Zonas Conurbadas, serán elaborados, ejecutados, controlados y evaluados, por los Municipios que las integren, a través del órgano u organismo que se establezca en el convenio, que al efecto celebren el Poder Ejecutivo del Estado y los Municipios.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-Una vez celebrado el convenio correspondiente, el titular del Poder Ejecutivo del Estado emitirá la declaratoria de área conurbada o zona metropolitana, la cual deberá publicarse en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y en un periódico de mayor circulación en la Entidad e inscribirse en el Instituto de la Función Registral del Estado de Querétaro.
+Una vez celebrado el convenio correspondiente, el titular del Poder Ejecutivo del Estado emitirá la declaratoria de área conurbada o zona metropolitana, la cual deberá publicarse en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y en un periódico de mayor circulación en la Entidad e inscribirse en el Registro Público de la Propiedad y del Comercio.
 
 ###### Artículo 54.
 
@@ -867,13 +867,13 @@ b) Asignar un aprovechamiento conveniente a zonas o áreas de los Municipios que
 
 Los Programas Subregionales, de Zonas Metropolitanas o de Zonas Conurbadas, una vez elaborados y aprobados por las autoridades correspondientes, conforme a los convenios que suscriban para tal efecto, deberán publicarse por una sola ocasión y de manera abreviada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", así como en la Gaceta Municipal de los Municipios que intervienen, cuando exista y en un periódico de mayor circulación en el Estado.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.
 
-Una vez publicados, el órgano competente conforme al convenio que suscriban los Municipios y, en su caso, el Poder Ejecutivo del Estado, en un término no mayor a tres días hábiles, solicitará su inscripción en el Instituto de la Función Registral del Estado de Querétaro, a fin de que surta sus efectos legales.
+Una vez publicados, el órgano competente conforme al convenio que suscriban los Municipios y, en su caso, el Poder Ejecutivo del Estado, en un término no mayor a tres días hábiles, solicitará su inscripción en el Registro Público de la Propiedad y del Comercio, a fin de que surta sus efectos legales.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-La forma de inscripción y la consulta de los Programas a que se refiere este artículo, se hará en los términos que al efecto prevea el Reglamento del Instituto de la Función Registral del Estado de Querétaro, sin detrimento de que una copia certificada del documento íntegro que lo conforma, esté a disposición de la ciudadanía para su consulta en las oficinas de las dependencias encargadas del Desarrollo Urbano de los Municipios que correspondan, así como de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo del Estado.
+La forma de inscripción y la consulta de los Programas a que se refiere este artículo, se hará en los términos que al efecto prevea el Reglamento del Registro Público de la Propiedad y del Comercio, sin detrimento de que una copia certificada del documento íntegro que lo conforma, esté a disposición de la ciudadanía para su consulta en las oficinas de las dependencias encargadas del Desarrollo Urbano de los Municipios que correspondan, así como de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo del Estado.
 
 ###### Artículo 60.
 
@@ -911,9 +911,9 @@ Por centro de población, se entienden las áreas constituidas por las zonas urb
 
 La fundación de un centro de población se realizará mediante Decreto expedido por la Legislatura del Estado a iniciativa DEL TITULAR DEL PODER EJECUTIVO DEL ESTADO O de los Municipios, en el ámbito de su competencia, previo dictamen favorable que emita la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo del Estado y el área encargada del desarrollo urbano correspondiente al municipio donde se ubique el centro de población. En dichos dictámenes se garantizará que su localización e integración al sistema de centros de población es lo más adecuado en relación al impacto ambiental que éste puede ocasionar.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-El Decreto de fundación contendrá las Declaratorias sobre las determinaciones relativas a las provisiones de tierra y los usos del suelo, espacios públicos, equipamientos para las actividades económicas, reservas y destinos, que deberán establecerse mediante el programa de desarrollo urbano respectivo, asignando la categoría político administrativa al centro de población. Dicho Decreto deberá inscribirse en el Instituto de la Función Registral del Estado de Querétaro, una vez publicado en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
+El Decreto de fundación contendrá las Declaratorias sobre las determinaciones relativas a las provisiones de tierra y los usos del suelo, espacios públicos, equipamientos para las actividades económicas, reservas y destinos, que deberán establecerse mediante el programa de desarrollo urbano respectivo, asignando la categoría político administrativa al centro de población. Dicho Decreto deberá inscribirse en el Registro Público de la Propiedad y del Comercio, una vez publicado en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 ###### Artículo 65.
 
@@ -1145,9 +1145,9 @@ Para la constitución de reservas territoriales, tendientes a garantizar la disp
 
 I. Integrar la propiedad requerida o asegurar su disponibilidad a través de su adquisición, vía derecho público o privado o de asociación con propietarios;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-II. Formular esquemas específicos de utilización del suelo para barrios, colonias, fraccionamientos o nuevos desarrollos habitacionales, para una parte o la totalidad de las zonas de reserva para el crecimiento urbano, que consigne el Programa Municipal de Desarrollo Urbano, el cual una vez aprobado, publicado e inscrito en el Instituto de la Función Registral del Estado de Querétaro delimitará el área afectada y regirá la habilitación, urbanización y aprovechamiento de los predios; y
+II. Formular esquemas específicos de utilización del suelo para barrios, colonias, fraccionamientos o nuevos desarrollos habitacionales, para una parte o la totalidad de las zonas de reserva para el crecimiento urbano, que consigne el Programa Municipal de Desarrollo Urbano, el cual una vez aprobado, publicado e inscrito en el Registro Público de la Propiedad y del Comercio delimitará el área afectada y regirá la habilitación, urbanización y aprovechamiento de los predios; y
 
 III. Promover el financiamiento y ejecución de las obras de urbanización o habilitación con infraestructura primaria.
 
@@ -1325,11 +1325,11 @@ El Poder Ejecutivo del Estado y los Municipios, en el ámbito de su competencia,
 
 Los Notarios Públicos sólo podrán autorizar escrituras de actos, convenios y contratos vinculados con el aprovechamiento o enajenación de la propiedad o de cualquier otro derecho relacionado con el desarrollo urbano, previa comprobación de la existencia de las constancias, autorizaciones, permisos o licencias que las autoridades competentes expidan en relación a la utilización o disposición de áreas o predios, de conformidad con lo previsto en la Ley General de Asentamientos Humanos, este Código y sus disposiciones reglamentarias, así como los programas de desarrollo urbano, mismos que deberán ser referidos en los instrumentos públicos respectivos.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 113.
 
-El Instituto de la Función Registral del Estado de Querétaro, podrá rechazar la inscripción de los Programas de Desarrollo Urbano cuando advierta que éstos no son congruentes o no están vinculados a otros programas de desarrollo urbano inscritos de superior jerarquía, pudiendo al efecto, solicitar a la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo del Estado emita la opinión técnica correspondiente.
+El Registro Público de la Propiedad y del Comercio, podrá rechazar la inscripción de los Programas de Desarrollo Urbano cuando advierta que éstos no son congruentes o no están vinculados a otros programas de desarrollo urbano inscritos de superior jerarquía, pudiendo al efecto, solicitar a la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo del Estado emita la opinión técnica correspondiente.
 
 ###### Artículo 114.
 
@@ -1667,9 +1667,9 @@ El desarrollador podrá solicitar a la autoridad competente, la relotificación 
 
 En caso de haber modificaciones respecto de superficies vendibles, vialidades y equipamientos, se hará el ajuste técnico correspondiente, así como el cobro de los derechos y otorgamiento de garantías, a cuyo efecto deberá emitirse la autorización correspondiente.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-La autorización una vez protocolizada, deberá inscribirse en el Instituto de la Función Registral del Estado de Querétaro.
+La autorización una vez protocolizada, deberá inscribirse en el Registro Público de la Propiedad y del Comercio.
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
@@ -1837,9 +1837,11 @@ X. No se deberán considerar dentro de la superficie de transmisión gratuita pr
 
 XI. El dictamen técnico deberá establecer los porcentajes y superficies del desarrollo destinados para vías públicas ubicadas dentro del mismo, así como las que se determinen por el enlace y la integración de los desarrollos inmobiliarios considerados en proyectos de nuevas vías, promovidas por el mismo propietario del desarrollo inmobiliario, así como de los equipamientos urbanos, lo que deberá quedar expresamente asentado en la autorización de la licencia para ejecución de obras de urbanización del desarrollo inmobiliario.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-Una vez que dicha autorización sea publicada en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga” y, en su caso, en la Gaceta Municipal correspondiente, el propietario del desarrollo inmobiliario tendrá la obligación de transmitir gratuitamente dichas superficies mediante escritura pública a favor del Municipio, la cual deberá inscribirse en el Instituto de la Función Registral del Estado de Querétaro, con cargo al desarrollador.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
+Una vez que dicha autorización sea publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y, en su caso, en la Gaceta Municipal correspondiente, el propietario del desarrollo inmobiliario tendrá la obligación de transmitir gratuitamente dichas superficies mediante escritura pública a favor del Municipio, la cual deberá inscribirse en el Registro Público de la Propiedad y del Comercio, con cargo al desarrollador.
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
@@ -1857,11 +1859,11 @@ El propietario de un desarrollo inmobiliario, tendrá que acordar con los organi
 
 En los casos de desarrollos inmobiliarios colindantes con áreas naturales protegidas o zonas de conservación ambiental, se deberá prever que las superficies de equipamiento urbano destinadas a los espacios públicos y las áreas verdes concentradas se localicen preferentemente en la frontera de colindancia
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 158.
 
-La escritura que señale las áreas materia de la transmisión gratuita, no causará impuesto de traslación de dominio, ni pago por derechos de inscripción en el Instituto de la Función Registral del Estado de Querétaro, y deberá otorgarse en un plazo máximo de treinta días hábiles, contados a partir del día siguiente al de la fecha en que se publique la autorización de la licencia para ejecución de obras de urbanización.
+La escritura que señale las áreas materia de la transmisión gratuita, no causará impuesto de traslación de dominio, ni pago por derechos de inscripción en el Registro Público de la Propiedad y del Comercio, y deberá otorgarse en un plazo máximo de treinta días hábiles, contados a partir del día siguiente al de la fecha en que se publique la autorización de la licencia para ejecución de obras de urbanización.
 
 ###### Artículo 159.
 
@@ -1905,9 +1907,9 @@ Es obligación del desarrollador la operación y mantenimiento de las obras de u
 
 Tratándose de la enajenación de un desarrollo inmobiliario, ya sea en forma total o en alguna de sus etapas, secciones o fases, el comprador adquiere con permisos y licencias, así como con derechos y obligaciones.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-El adquirente, deberá solicitar al Municipio que corresponda el reconocimiento administrativo de la causahabiencia, a través del Acuerdo del Ayuntamiento correspondiente; el que deberá ser publicado en el Periódico Oficial de Gobierno del Estado “La Sombra de Arteaga” e inscrito en el Instituto de la Función Registral del Estado de Querétaro.
+El adquirente, deberá solicitar al Municipio que corresponda el reconocimiento administrativo de la causahabiencia, a través del Acuerdo del Ayuntamiento correspondiente; el que deberá ser publicado en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga" e inscrito en el Registro Público de la Propiedad y del Comercio.
 
 ### Capítulo Sexto. De los Fraccionamientos y sus Características
 
@@ -1997,31 +1999,31 @@ VII. Las que soliciten las autoridades federales, estatales y municipales respec
 
 La autoridad podrá emitir la autorización de subdivisión de predios que provengan de resoluciones administrativas y judiciales relativas a inmatriculaciones administrativas, informaciones de dominio, prescripciones u otras figuras jurídicas.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-Las autorizaciones que se emitan en términos del párrafo anterior deberán ser protocolizadas por Notario Público e inscribirse en el Instituto de la Función Registral del Estado de Querétaro.
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
+
+Las autorizaciones que se emitan en términos del párrafo anterior deberán ser protocolizadas por notario público e inscribirse en el Registro Público de la Propiedad y del Comercio.
 
 ###### Artículo 176.
 
 La solicitud para fusionar o subdividir predios deberá presentarse por escrito ante la autoridad municipal, anexando:
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-I. Documento que acredite la identidad y propiedad del solicitante, debidamente inscrito en el Instituto de la Función Registral del Estado de Querétaro; y
+I. Documento que acredite la identidad y propiedad del solicitante, debidamente inscrito en el Registro Público de la Propiedad y del Comercio; y
 
 II. Plano del estado actual y propuesta de fusión o subdivisión de los predios, con acotaciones legibles, colindancias, cuadro de superficies, ubicación de los predios, nombre y firma del director responsable de obra y señalamiento de la orientación de los mismos. El Municipio que corresponda, podrá solicitar el plano georeferenciado, cuando las colindancias no estén definidas por el área de catastro correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 177.
 
-No se autorizará la fusión de un predio a un desarrollo inmobiliario ya autorizado e inscrito en el Instituto de la Función Registral del Estado de Querétaro, cuando se trate de un predio que no forma parte del predio de origen del desarrollo inmobiliario.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+No se autorizará la fusión de un predio a un desarrollo inmobiliario ya autorizado e inscrito en el Registro Público de la Propiedad y del Comercio, cuando se trate de un predio que no forma parte del predio de origen del desarrollo inmobiliario.
 
 No se autorizará la fusión de lotes, unidades privativas o condominios que pertenezcan a desarrollos inmobiliarios diferentes ya autorizados.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 Para el caso de ampliación de etapa de un desarrollo inmobiliario, en la modalidad de fraccionamiento en superficie colindante al desarrollo, se estará a lo dispuesto en el artículo 150 de este ordenamiento.
 
@@ -2031,9 +2033,11 @@ Para el caso de ampliación de etapa de un desarrollo inmobiliario, en la modali
 
 Se entiende por fraccionamiento la división de un terreno en lotes, cuando para dar acceso a éstos, se requieran una o más calles que conformarán vías de comunicación locales y éstas, a su vez, se comuniquen con una vía de jurisdicción federal, estatal o municipal.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-Las calles o vialidades locales que se generen al interior de un fraccionamiento tendrán el carácter de vías públicas de libre acceso a la población y deberán ser transmitidas gratuitamente por el desarrollador en favor del Municipio que corresponda, mediante escritura pública, inscrita en el Instituto de la Función Registral del Estado de Querétaro.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2017)</small>
+
+Las calles o vialidades locales que se generen al interior de un fraccionamiento, tendrán el carácter de vías públicas de libre acceso a la población y deberán ser transmitidas gratuitamente por el desarrollador en favor del Municipio que corresponda, mediante escritura pública, inscrita en el Registro Público de la Propiedad y del Comercio del Estado.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2017)</small>
 
@@ -2065,11 +2069,11 @@ El desarrollo inmobiliario bajo la modalidad de fraccionamiento, estará compues
 
 Los fraccionamientos de urbanización progresiva son aquellos fraccionamientos de cualquier tipo, que fueron autorizados a asociaciones de colonos legalmente constituidas y registradas ante la autoridad municipal, cuyas obras de urbanización e infraestructura se generan a través de la cooperación de los colonos y por etapas, según el programa de obras aprobado por la autoridad competente. Las autorizaciones deberán ser anteriores a la fecha de entrada en vigor del presente Código.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 183.
 
-Los fraccionamientos a que hace referencia el artículo anterior, podrán ser reconocidos bajo la modalidad de fraccionamiento, conforme a lo que se establece en este ordenamiento, debiéndose formalizar en escritura pública e inscribir en el Instituto de la Función Registral del Estado de Querétaro.
+Los fraccionamientos a que hace referencia el artículo anterior, podrán ser reconocidos bajo la modalidad de fraccionamiento, conforme a lo que se establece en este ordenamiento, debiéndose formalizar en escritura pública e inscribir en el Registro Público de la Propiedad y del Comercio.
 
 #### Sección Segunda. Del Proceso de Autorización de los Fraccionamientos
 
@@ -2117,11 +2121,13 @@ A fin de emitir el dictamen o autorización correspondiente, la autoridad compet
 
 Los dictámenes de uso de suelo para la construcción de un fraccionamiento, se emitirán por la autoridad municipal o, en su caso, estatal, de conformidad con las disposiciones del Título Cuarto, Capítulo II de este Código, así como en las normas reglamentarias que al efecto se expidan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 189.
 
-Las autorizaciones a que se refieren las fracciones IV, V, VI y VII del artículo 186, deberán publicarse a costa del fraccionador en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, así como en la Gaceta Municipal del Municipio en que se encuentra el desarrollo inmobiliario, en su caso, por dos veces, mediando un plazo mínimo de seis días naturales entre cada una, sin contar en ellos los de la publicación. Asimismo, deberán protocolizarse ante Notario Público e inscribirse en el Instituto de la Función Registral del Estado de Querétaro.
+Las autorizaciones a que se refieren las fracciones IV, V, VI y VII del artículo 186, deberán publicarse a costa del fraccionador en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", así como en la Gaceta Municipal del Municipio en que se encuentra el desarrollo inmobiliario, en su caso, por dos veces, mediando un plazo mínimo (sic) seis días naturales entre cada una, sin contar en ellos los de la publicación. Asimismo, deberán protocolizarse ante Notario Público e inscribirse en el Registro Público de la Propiedad y del Comercio.
 
 El plazo para que el desarrollador realice la publicación y protocolización de las autorizaciones a que se refiere este artículo, será de sesenta días hábiles, contados a partir del siguiente al en que se le haya notificado la autorización.
 
@@ -2163,11 +2169,11 @@ El visto bueno del proyecto de lotificación, consiste en la aprobación que rea
 
 #### Sección Tercera. De la Licencia de Ejecución de Obras de Urbanización y Supervisión de Obras de Urbanización
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 192.
 
-La autorización de la licencia para ejecución de obras de urbanización de un fraccionamiento, que otorgue el Municipio o en su caso el Poder Ejecutivo del Estado, establecerá con base al plano de lotificación autorizado, la etapa, sección o fase, las superficies que lo integran, el desglose de las mismas, el pago de impuestos y derechos, obligaciones y plazos de vigencia, las donaciones a favor del Municipio y las que correspondan a los organismos operadores, las limitaciones y restricciones, así como aquellas condicionantes que se estimen necesarias para el adecuado funcionamiento de la etapa, sección o fase del fraccionamiento que corresponda; la que deberá ser inscrita en el Instituto de la Función Registral del Estado de Querétaro, previa protocolización ante Notario Público.
+La autorización de la licencia para ejecución de obras de urbanización de un fraccionamiento, que otorgue el Municipio o en su caso el Poder Ejecutivo del Estado, establecerá con base al plano de lotificación autorizado, la etapa, sección o fase, las superficies que lo integran, el desglose de las mismas, el pago de impuestos y derechos, obligaciones y plazos de vigencia, las donaciones a favor del Municipio y las que correspondan a los organismos operadores, las limitaciones y restricciones, así como aquellas condicionantes que se estimen necesarias para el adecuado funcionamiento de la etapa, sección o fase del fraccionamiento que corresponda; la que deberá ser inscrita en el Registro Público de la Propiedad y del Comercio, previa protocolización ante Notario Público.
 
 ###### Artículo 193.
 
@@ -2213,9 +2219,11 @@ IV. Garantizar por el desarrollador a satisfacción de la autoridad competente, 
 
 En caso de incumplimiento la autoridad competente hará efectivo el instrumento que se otorgó para garantizar la que se aplicará para realizar por sí o por medio de contratista, las obras omitidas; lo anterior, sin perjuicio de las sanciones administrativas y responsabilidad civil o penal que se generen
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-En caso de que la garantía se otorgue a través de hipoteca, la escritura en la que se constituya no causará el pago por derechos de inscripción en el Instituto de la Función Registral del Estado de Querétaro.
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
+
+En caso de que la garantía se otorgue a través de hipoteca, la escritura en la que se constituya no causará el pago por derechos de inscripción en el Registro Público de la Propiedad y el Comercio.
 
 ###### Artículo 199.
 
@@ -3639,11 +3647,11 @@ Para los desarrollos inmobiliarios a que se refiere este Capítulo, que hayan si
 
 La modificación de un conjunto habitacional o comercial se sujetará a lo dispuesto en el presente Código, considerando las características y condiciones físicas existentes.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 315.
 
-La modificación de los conjuntos habitacionales o comerciales estará sujeta al dictamen técnico de la autoridad competente y a la ubicación del conjunto habitacional; contendrá las acciones que tendrán que llevarse a cabo por parte de los organismos operadores de los sistemas de infraestructura y viabilidad, del cumplimiento de fianzas y áreas de transmisión gratuita, debiéndose formalizar en escritura pública e inscribir en el Instituto de la Función Registral del Estado de Querétaro.
+La modificación de los conjuntos habitacionales o comerciales estará sujeta al dictamen técnico de la autoridad competente y a la ubicación del conjunto habitacional; contendrá las acciones que tendrán que llevarse a cabo por parte de los organismos operadores de los sistemas de infraestructura y viabilidad, del cumplimiento de fianzas y áreas de transmisión gratuita, debiéndose formalizar en escritura pública e inscribir en el Registro Público de la Propiedad y del Comercio.
 
 ###### Artículo 316.
 
@@ -5515,11 +5523,11 @@ I. Dar curso a documentos, contratos y convenios que contravengan lo dispuesto e
 
 II. La falta de actuación oportuna, ante la evidencia de los hechos que representen violación flagrante de este Código.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO NOVENO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 524.
 
-Son infracciones cuya responsabilidad corresponde a los encargados del Instituto de la Función Registral del Estado de Querétaro, así como a los Notarios Públicos:
+Son infracciones cuya responsabilidad corresponde a los encargados de la Dirección y Subdirecciones del Registro Público de la Propiedad y del Comercio en el Estado, así como a los Notarios Públicos:
 
 I. Autorizar documentos, contratos, convenios, escrituras o minutas que contravengan las disposiciones del presente Código, así como los planes, programas, decretos o resoluciones administrativas relativas al desarrollo urbano del Estado y sus Municipios;
 
@@ -5885,6 +5893,8 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 
 Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, POR LO QUE ESTOS TRANSITORIOS QUEDAN DEROGADOS.]</small>
+
 P.O. 3 DE OCTUBRE DE 2018.
 
 ## [N. DE E. TRANSITORIOS DE LA "LEY QUE EXPIDE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO, DEL (SIC) LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ARCHIVOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO".]
@@ -5896,6 +5906,8 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Los artículos de instrucción Segundo al Décimo de la presente Ley, entrarán en vigor a partir del 01 de enero de 2020.
 
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, POR LO QUE ESTOS TRANSITORIOS QUEDAN DEROGADOS.]</small>
 
 P.O. 19 DE DICIEMBRE DE 2018.
 
@@ -6009,9 +6021,11 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, POR LO QUE ESTOS TRANSITORIOS QUEDAN DEROGADOS.]</small>
+
 P.O. 30 DE JUNIO DE 2019.
 
-## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LOS ARTÍCULOS CUARTO Y QUINTO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO, DE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE EXPIDE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ARCHIVOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA”, DE FECHA 19 DE DICIEMBRE DE 2018”.]
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LOS ARTÍCULOS CUARTO Y QUINTO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO, DE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE EXPIDE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ARCHIVOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA", DE FECHA 19 DE DICIEMBRE DE 2018".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -6031,4 +6045,124 @@ Atento a lo establecido en los Artículos Transitorios Segundo y Cuarto, primer 
 
 ###### ARTÍCULO QUINTO.
 
-Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 22 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO, DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE QUERÉTARO, Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY QUE EXPIDE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ARCHIVOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el 1 de enero de 2020.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Con relación a las reformas de los artículos 4 y 36 de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro relativas a la Unidad de Comunicación Social y Atención Ciudadana, las alusiones a la Coordinación de Comunicación Social contenidas en otras disposiciones legales y reglamentarias, administrativas, así como en cualquier otro instrumento jurídico, se entenderán hechas a dicha Unidad, debiéndose expedir las disposiciones reglamentarias que resulten necesarias para el cumplimiento de lo dispuesto en esta Ley.
+
+Los asuntos en trámite o procedimientos iniciados ante la Coordinación de Comunicación Social que se encuentren pendientes de atender o de resolución a la entrada en vigor de la presente Ley, serán sustanciados por la Unidad de Comunicación Social y Atención Ciudadana.
+
+###### ARTÍCULO CUARTO.
+
+De conformidad con lo previsto en el Artículo Noveno de la presente Ley, se extingue el organismo público descentralizado del Poder Ejecutivo del Estado de Querétaro, denominado Instituto de la Función Registral del Estado de Querétaro, creado mediante Ley publicada el 3 de octubre de 2018 en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO QUINTO.
+
+Se autoriza al Director del Registro Público de la Propiedad y del Comercio a efecto de que realice los trámites correspondientes a la cancelación de los registros fiscales y administrativos que se hubiesen generado para efectos de la operación del Instituto de la Función Registral del Estado de Querétaro, así como para la terminación de los instrumentos jurídicos que se hubiesen celebrado con las instituciones financieras para su entrada en operación.
+
+###### ARTÍCULO SEXTO.
+
+Las alusiones al Instituto de la Función Registral del Estado de Querétaro contenidas en otras disposiciones legales y reglamentarias, administrativas, así como en cualquier otro instrumento jurídico, se entenderán hechas al Registro Público de la Propiedad y del Comercio, así como al Archivo General de Notarías, ambos del Estado Libre y Soberano de Querétaro, cuando de acuerdo al contexto y al ámbito competencial que corresponda, se refieran a dicho Registro o Archivo.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2020, serán las siguientes:
+
+l. Por la expedición de los oficios y certificaciones a que se refieren las fracciones III y IV del artículo 127 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1.25 UMA;
+
+II. Cuando los avisos de testamentos a los que se refiere el artículo 113 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo que al efecto establezca la Secretaría de Gobierno, no se causarán los derechos correspondientes;
+
+III. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 88 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
+
+MES DE PAGO DESCUENTO
+
+Enero 10%
+
+Febrero 8%
+
+Marzo 5%
+
+IV. Se cancelan los créditos fiscales por incosteabilidad en el cobro.
+
+Para efectos de esta fracción, se consideran créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2019, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión.
+
+Se cancelan los adeudos del Impuesto Sobre Tenencia o Uso de Vehículos, así como los derechos por control vehicular previstos en la Ley de Hacienda del Estado de Querétaro, generados por los ejercicios fiscales 2015 y anteriores;
+
+V. Las personas que resulten beneficiarias de los apoyos contenidos en el Programa de Apoyo a la Tenencia gozarán de una reducción en el impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro a su cargo, del noventa y nueve por ciento;
+
+VI. Las autoridades fiscales podrán restituir las cantidades pagadas por los particulares por concepto de derechos contenidos en la Ley de Hacienda del Estado de Querétaro, siempre y cuando:
+
+a) Los particulares hayan promovido un medio de defensa en materia de constitucionalidad, con motivo del pago de los derechos a que hace referencia el primer párrafo de esta fracción;
+
+b) El medio de defensa no haya sido extemporáneo;
+
+c) Las cantidades sujetas a restitución hayan sido efectivamente pagadas al fisco estatal; y
+
+d) El particular presente ante las autoridades jurisdiccionales competentes el escrito mediante el cual se desista del medio de defensa señalado en el inciso a) de esta fracción.
+
+Para efectos de lo anterior, previa opinión favorable de la Procuraduría Fiscal del Estado, se generará la orden de pago correspondiente.
+
+La restitución prevista en esta fracción podrá realizarse antes de que se dicte sentencia que ponga fin al medio de defensa mencionado;
+
+VII. Las tarjetas de circulación a que hace referencia el artículo 157 de la Ley de Hacienda del Estado de Querétaro, que hubiesen sido expedidas para los ejercicios fiscales 2013, 2014, 2015, 2016, 2017, 2018 y 2019 continuarán vigentes hasta el 31 de marzo de 2021.
+
+Para efectos de lo anterior, los contribuyentes, tenedores o usuarios de vehículos deberán realizar el pago del Impuesto Sobre Tenencia o Uso de Vehículos y los derechos correspondientes al ejercicio fiscal 2020, que contempla la referida ley.
+
+Los citados contribuyentes, tenedores o usuarios, para comprobar la vigencia de las tarjetas de circulación señaladas en el primer párrafo de esta fracción, ante las autoridades que así se lo requieran, exhibirán la representación impresa del comprobante fiscal digital respectivo;
+
+VIII. El impuesto sobre diversiones y espectáculos públicos a que se refiere el Capítulo Quinto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se reducirá en un 100%. En este caso, los contribuyentes no deberán cumplir con las obligaciones formales relativas a dicha contribución;
+
+IX. Los derechos previstos en los artículos 169 Bis y 169 Ter de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del Querétaro Centro de Congresos y Querétaro Teatro Metropolitano;
+
+X. Siempre que se trate de vivienda de interés social o popular, los derechos que de conformidad con la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente.
+
+b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos.
+
+c) La expedición de certificados de no propiedad;
+
+XI. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
+
+a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+c) Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate.
+
+Se causará un derecho a razón de 5 UMA por la inscripción del acto en el que conste la adquisición de vivienda de interés social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona;
+
+XII. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos.
+
+b) La inscripción de la escritura pública en la que conste la operación mediante la cual las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios.
+
+c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado;
+
+XIII. No se causarán los derechos previstos en la Ley de Hacienda del Estado de Querétaro, por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
+
+a) El acto en el que conste la reestructuración de los créditos señalados en el artículo 100 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicho Registro se encuentre la anotación del crédito inicial.
+
+b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas morales y personas físicas con actividad empresarial, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que los inmuebles adquiridos se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos.
+
+c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas morales y personas físicas con actividad empresarial, siempre que con ello se propicie el mantenimiento de empleos.
+
+d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes;
+
+XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial; y
+
+XV. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro y los Programas que se financien con dicho Fondo.
