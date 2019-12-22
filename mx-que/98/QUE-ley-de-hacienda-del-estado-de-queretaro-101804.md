@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-101804"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-21"
-last_updated: "2019-06-30"
+last_updated: "2019-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "QUE"
 ---
 # LEY DE HACIENDA DEL ESTADO DE QUERETARO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LAS DISPOSICIONES REFORMADAS POR EL DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]
 
 LEY DE HACIENDA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 21 de julio de 2014.
 
@@ -443,7 +445,9 @@ La Federación, el Distrito Federal, los Estados, los Municipios, sus organismos
 
 No se causará el impuesto a que se refiere este Capítulo, por la tenencia o uso de los siguientes vehículos:
 
-I. Los eléctricos utilizados para el transporte público de personas;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+I. Los eléctricos y aquellos eléctricos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno;
 
 II. Los importados temporalmente, en los términos de la legislación aduanera;
 
@@ -627,9 +631,11 @@ Para los efectos de este artículo, se entiende por vehículos destinados a tran
 
 #### Sección II. Otros Vehículos
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 32.
 
-En esta sección se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor, automóviles eléctricos y motocicleta.
+En esta sección se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor, motocicletas, automóviles eléctricos y aquellos eléctricos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -667,11 +673,11 @@ $ $ $ %
 
 1,087,461.79 En adelante 73,073.99 11
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 36.
 
-Tratándose de automóviles y motocicletas eléctricos nuevos, así como de aquellos eléctricos nuevos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, no se causará el impuesto previsto en este capítulo.
+Tratándose de automóviles y motocicletas eléctricos, así como de aquellos eléctricos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, no se causará el impuesto previsto en este capítulo.
 
 ###### Artículo 37.
 
@@ -1241,7 +1247,9 @@ Para los efectos de este impuesto, los reintegros correspondientes a los boletos
 
 El entero del impuesto se ajustará a lo siguiente:
 
-I. Cuando el impuesto se cause con motivo de la realización de las actividades previstas en la fracción I del artículo 62 de esta Ley, el pago del impuesto deberá efectuarse a más tardar el día 20 del mes siguiente a aquel en el que se cause dicho impuesto, mediante declaración de pago.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+I. Cuando el impuesto se cause con motivo de la realización de las actividades previstas en la fracción I del artículo 62 de esta Ley, el pago del impuesto deberá efectuarse a más tardar el día 22 del mes siguiente a aquel en el que se cause dicho impuesto, mediante declaración de pago.
 
 Lo anterior, no será aplicable en el caso de organizadores accidentales, quienes deberán ajustarse a lo dispuesto en el inciso b), fracción II, del artículo 69 de esta Ley; y
 
@@ -1323,9 +1331,9 @@ Objeto
 
 ### Capítulo Octavo. Impuesto Sobre la Venta de Bienes cuya Enajenación se encuentra gravada por la Ley del Impuesto Especial Sobre Producción y Servicios
 
-Objeto
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+Objeto
 
 ###### Artículo 70.
 
@@ -1403,55 +1411,45 @@ VI. Poner a disposición de las autoridades competentes, para los efectos del ej
 
 ###### Artículo 74.
 
-Es objeto de este impuesto, la venta final de cualquiera de los siguientes bienes que se realice en el territorio del Estado:
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+El objeto de este impuesto es la venta final de cualquiera de los siguientes bienes que se realice en el territorio del Estado:
 
 I. Bebidas en envase cerrado con contenido alcohólico;
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
-
 II. Alcohol;
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
-
-III. Alcohol desnaturalizado, y
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+III. Alcohol desnaturalizado; y
 
 IV. Mieles incristalizables.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+De lo previsto en este Capítulo, se exceptúan aquellas bebidas alcohólicas cuyo gravamen se encuentra expresamente reservado a la Federación, en términos del artículo 73, fracción XXIX, numeral 5, incisos e) y g), de la Constitución Política de los Estados Unidos Mexicanos.
 
-Se exceptúan aquellas bebidas alcohólicas cuyo gravamen se encuentra expresamente reservado a la Federación, en términos del artículo 73, fracción XXIX, numeral 5, incisos e) y g), de la Constitución Política de los Estados Unidos Mexicanos.
+Para los efectos de este impuesto se entiende que la venta se realiza en territorio del Estado, cuando la entrega de los bienes a que se refiere este artículo al adquirente se realice dentro del mismo.
 
-Para los efectos de este impuesto se entiende por:
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
-Bebidas con contenido alcohólico, las bebidas alcohólicas y las bebidas refrescantes, de acuerdo con lo siguiente:
-
-Bebidas alcohólicas, las que a la temperatura de 15° centígrados, tengan una graduación alcohólica de más de 3°G.L., hasta 55°G.L., incluyendo el aguardiente y los concentrados de bebidas alcohólicas, aun cuando tengan una graduación alcohólica mayor.
-
-Bebidas refrescantes, las elaboradas con un mínimo de 50% a base de vino de mesa, producto de la fermentación natural de frutas, pudiéndose adicionar agua, bióxido de carbono o agua carbonatada, jugo de frutas, extracto de frutas, aceites esenciales, ácido cítrico, azúcar, ácido benzoico o ácido sórbico o sus sales como conservadores, así como aquéllas que se elaboran de destilados alcohólicos diversos de los antes señalados.
-
-Bebidas alcohólicas a granel, las que se encuentren envasadas en recipientes cuya capacidad exceda a 5,000 mililitros.
-
-Alcohol, la solución acuosa de etanol con las impurezas que la acompañan, con graduación mayor de 55°G.L., a una temperatura de 15° centígrados.
-
-Alcohol desnaturalizado, la solución acuosa de etanol con las impurezas que la acompañan, con una graduación mayor de 55°G.L., a una temperatura de 15°centígrados con la adición de las sustancias desnaturalizantes autorizadas por la Secretaría de Salud.
-
-Mieles incristalizables, el producto residual de la fabricación del azúcar, cuando referido a 85° brix a 20° centígrados, los azúcares fermentados expresados en glucosa no excedan del 61%.
-
-Venta final, la que realice cualquier persona física o moral de los bienes a que se refiere este artículo, al último adquirente en envase cerrado, para su consumo o posterior comercialización en envase abierto.
-
-Sujetos obligados
+Tasa y conceptos
 
 ###### Artículo 75.
 
-Están obligadas al pago de este impuesto las personas físicas y las morales que en territorio del Estado, realicen la venta de los bienes a que se refiere el artículo anterior.
+Para efectos de lo establecido en el artículo anterior, se entiende por:
 
-La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, aunque conforme a otras leyes o decretos no causen contribuciones estatales o estén exentos de ellos, deberán aceptar la traslación de este impuesto y, en su caso, pagarlo y trasladarlo, de acuerdo con los preceptos de esta Ley.
+I. Bebidas con contenido alcohólico, las bebidas alcohólicas y las bebidas refrescantes, de acuerdo con lo siguiente:
 
-El impuesto a que hace referencia este Capítulo no se considera violatorio de precios o tarifas, incluyendo los oficiales.
+a) Bebidas alcohólicas, las que a la temperatura de 15° centígrados, tengan una graduación alcohólica de más de 3°G.L., hasta 55°G.L., incluyendo el aguardiente y los concentrados de bebidas alcohólicas, aun cuando tengan una graduación alcohólica mayor.
+
+b) Bebidas refrescantes, las elaboradas con un mínimo de 50% a base de vino de mesa, producto de la fermentación natural de frutas, pudiéndose adicionar agua, bióxido de carbono o agua carbonatada, jugo de frutas, extracto de frutas, aceites esenciales, ácido cítrico, azúcar, ácido benzoico o ácido sórbico o sus sales como conservadores, así como aquéllas que se elaboran de destilados alcohólicos diversos de los antes señalados.
+
+c) Bebidas alcohólicas a granel, las que se encuentren envasadas en recipientes cuya capacidad exceda a 5,000 mililitros.
+
+II. Alcohol, la solución acuosa de etanol con las impurezas que la acompañan, con graduación mayor de 55° G.L., a una temperatura de 15° centígrados.
+
+III. Alcohol desnaturalizado, la solución acuosa de etanol con las impurezas que la acompañan, con una graduación mayor de 55° G.L., a una temperatura de 15° centígrados con la adición de las sustancias desnaturalizantes autorizadas por la Secretaría de Salud.
+
+IV. Mieles incristalizables, el producto residual de la fabricación del azúcar, cuando referido a 85° brix a 20° centígrados, los azúcares fermentados expresados en glucosa no excedan del 61%.
+
+V. Venta final, la que realice cualquier persona física o moral de los bienes a que se refiere este artículo, al último adquirente en envase cerrado, para su consumo o posterior comercialización en envase abierto.
+
+Este impuesto se calculará aplicando al valor que señala el siguiente artículo, la tasa del 4.5%.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -1461,43 +1459,17 @@ Base
 
 La base de este impuesto será el valor de enajenación. Para estos efectos, se considerará como valor de enajenación el precio de venta, sin incluir el impuesto al valor agregado e impuesto especial sobre producción y servicios.
 
-Tasa
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+Sujetos y periodo de pago
 
 ###### Artículo 77.
 
-Este impuesto se calculará aplicando al valor que señala el artículo anterior, la tasa del 4.5%.
+Están obligadas al pago de este impuesto las personas físicas y las morales que, en territorio del Estado, realicen la venta de los bienes a que se refiere el artículo 74.
 
-Momento de causación
+La Federación, la Ciudad de México, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, aunque conforme a otras leyes o decretos no causen contribuciones estatales o estén exentos de ellos, deberán aceptar la traslación de este impuesto y, en su caso, pagarlo y trasladarlo, de acuerdo con los preceptos de esta Ley.
 
-###### Artículo 78.
-
-El impuesto se causará al momento en que el enajenante reciba efectivamente las cantidades correspondientes al precio de venta de los bienes a que se refiere este Capítulo.
-
-Venta en territorio del Estado
-
-###### Artículo 79.
-
-Para los efectos de este impuesto se entiende que la venta se realiza en territorio del Estado, cuando la entrega de los bienes a que se refiere el artículo 74 al adquirente se realice dentro del mismo.
-
-Traslado del impuesto
-
-###### Artículo 80.
-
-Las personas físicas y morales que realicen la venta de los bienes a que se refiere el artículo 74 de esta Ley, trasladarán este impuesto a los adquirentes de dichos bienes, debiendo incluirlo como parte del precio que se cargue o cobre a dichas personas.
-
-Se entenderá por traslado del impuesto, el cobro o cargo del impuesto que el contribuyente debe hacer al adquirente de un monto equivalente al impuesto establecido en este Capítulo.
-
-El traslado a que se refiere este artículo, en ningún caso se realizará en forma expresa y por separado.
-
-Acreditamiento del impuesto
-
-###### Artículo 81.
-
-Los contribuyentes a que se refiere este Capítulo, pagarán el impuesto a su cargo sin que proceda su acreditamiento contra otros impuestos locales o federales.
-
-Periodo de pago
-
-###### Artículo 82.
+El impuesto a que hace referencia este Capítulo no se considera violatorio de precios o tarifas, incluyendo los oficiales.
 
 El impuesto se calculará mensualmente y se pagará a más tardar el día veintidós del mes siguiente a aquél al que corresponda el pago, a través del formato que para tales efectos establezca la Secretaría de Planeación y Finanzas.
 
@@ -1507,23 +1479,59 @@ El pago mensual será el que resulte de aplicar la tasa del 4.5% sobre el valor 
 
 Si un contribuyente tuviera varios establecimientos, locales o sucursales en el territorio del Estado, presentará por todos ellos una sola declaración de pago por las operaciones que correspondan a dichos establecimientos, ante las oficinas autorizadas por la Secretaría de Planeación y Finanzas.
 
-De las obligaciones de los contribuyentes
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+Momento de causación y acreditamiento del impuesto
+
+###### Artículo 78.
+
+El impuesto establecido en el presente Capítulo se causará al momento en que el enajenante reciba efectivamente las cantidades correspondientes al precio de venta de los bienes a que se refiere el artículo 74 de esta Ley.
+
+Los contribuyentes a que se refiere el artículo 77 de la presente Ley, pagarán el impuesto a su cargo sin que proceda su acreditamiento contra otros impuestos locales o federales.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+Traslado del impuesto
+
+###### Artículo 79.
+
+Las personas físicas y morales que realicen la venta de los bienes a que se refiere el artículo 74 de esta Ley, trasladarán el impuesto materia del presente Capítulo a los adquirentes de dichos bienes. Las referidas personas físicas y morales deberán incluir este impuesto como parte del precio que se cargue o cobre a los adquirentes de los referidos bienes.
+
+Para efectos de lo señalado en el párrafo anterior, se entenderá por traslado del impuesto, el cobro o cargo que la persona física o moral debe hacer al adquirente de un monto equivalente al impuesto establecido en este Capítulo. Este traslado en ningún caso se realizará en forma expresa y por separado.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+Obligaciones de los contribuyentes
+
+###### Artículo 80.
+
+Los contribuyentes a que se refiere este Capítulo tienen, además de las obligaciones señaladas en los otros artículos del mismo y en las demás disposiciones fiscales, las siguientes:
+
+I. Empadronarse para los efectos de este impuesto dentro de los diez días hábiles siguientes a la fecha de inicio de sus operaciones, ante la Dirección de Ingresos dependiente de la Secretaría de Planeación y Finanzas, mediante aviso que será presentado en las formas o medios electrónicos que para tal efecto autorice dicha dependencia.
+
+II. Llevar un registro pormenorizado de las ventas que realice respecto de los bienes a que se refiere el artículo 74 de esta Ley, por cada establecimiento, local, agencia o sucursal en que se efectúen, identificando los montos de cada una de dichas operaciones y las cantidades que integran la base del impuesto.
+
+III. Expedir comprobantes que reúnan los requisitos establecidos en el Código Fiscal del Estado de Querétaro, sin que se traslade en forma expresa y por separado del impuesto establecido en este Capítulo.
+
+IV. Pagar el impuesto determinado a su cargo, mediante declaración que será presentada ante la oficina que para tales efectos autorice la Secretaría de Planeación y Finanzas, a más tardar el día veintidós del mes siguiente a aquel a que corresponda el impuesto.
+
+###### Artículo 81.
+
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2019)
+
+###### Artículo 82.
+
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2019)
 
 ###### Artículo 83.
 
-Los contribuyentes a que se refiere este Capítulo, tienen, además de las obligaciones señaladas en los otros artículos del mismo y en las demás disposiciones fiscales, las siguientes:
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
-
-a) Empadronarse para los efectos de este impuesto dentro de los diez días hábiles siguientes a la fecha de inicio de sus operaciones, ante la Dirección de Ingresos dependiente de la Secretaría de Planeación y Finanzas, mediante aviso que será presentado en las formas o medios electrónicos que para tal efecto autorice dicha dependencia.
-
-b) Llevar un registro pormenorizado de las ventas que realice respecto de los bienes a que se refiere el artículo 74 de esta Ley, por cada establecimiento, local, agencia o sucursal en que se efectúen, identificando los montos de cada una de dichas operaciones y las cantidades que integran la base del impuesto.
-
-c) Expedir comprobantes que reúnan los requisitos establecidos en el Código Fiscal del Estado de Querétaro, sin que se traslade en forma expresa y por separado del impuesto establecido en este Capítulo.
-
-d) Pagar el impuesto determinado a su cargo, mediante declaración que será presentada ante la oficina que para tales efectos autorice la Secretaría de Planeación y Finanzas, a más tardar el día veintidós del mes siguiente a aquel a que corresponda el impuesto.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2019)
 
 ### Capítulo Segundo. Por los servicios prestados por el Registro Público de la Propiedad y del Comercio
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 #### SECCIÓN 1. I. Entregar el certificado de discapacidad permanente emitido por el Sistema Estatal para el Desarrollo Integral de la Familia; y
 
@@ -1560,6 +1568,10 @@ Los juegos de placas de demostración deberán portarse simultáneamente y utili
 ## Título Cuarto. De los Derechos
 
 ### Capítulo Tercero. Por los servicios prestados por el Archivo General de Notarías
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+Objeto
 
 ###### Artículo 84.
 
@@ -1693,113 +1705,393 @@ III. De la autorización o giro, la cantidad que resulte mayor entre el equivale
 
 Del cambio de otros datos informativos sobre el establecimiento o del titular de la licencia, sin costo alguno.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE CAPÍTULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ### Capítulo Cuarto. De los servicios prestados por Autoridades Catastrales
 
 ###### Artículo 90.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Por la inscripción de compraventa de inmuebles; compraventa de bienes inmuebles con reserva de dominio; permuta de bienes inmuebles; adjudicaciones judiciales; dación en pago de inmuebles; escrituración en rebeldía; adjudicaciones por herencia; limitaciones de dominio; uso; consolidación de propiedad; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios, se causará el derecho a razón del 7.5 al millar sobre el valor del inmueble, de acuerdo a lo establecido en el artículo 97 de esta Ley.
+
+Por la inscripción del acto mediante el cual se adquiera el usufructo o la nuda propiedad, se causarán y pagarán derechos a razón del 3.75 al millar.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 91.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Para los efectos correspondientes, se considera vivienda:
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+a) De interés social, aquella cuyo valor, al término de su edificación, no exceda del equivalente a 20 UMA elevado al año.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+b) Popular, aquella cuyo valor, al término de su edificación, no exceda del equivalente a 30 UMA elevado al año.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 92.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Por la constitución de régimen de propiedad en condominio o unidad condominal, se causará el derecho a razón del 3.75 al millar sobre el valor del avalúo y por modificación se causará a razón de 37.5 UMA.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 93.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Se pagará por concepto de derechos el equivalente a 7.5 UMA por la inscripción de testamento público abierto, cerrado u ológrafo; reconocimiento de herederos, nombramiento o discernimiento y aceptación del cargo de albacea.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 94.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Se causará el derecho a razón de 15 UMA por la inscripción de:
+
+I. Anotación o inscripción ordenada por autoridad judicial o administrativa, resolución judicial, convenio judicial, autorización para venta de bienes, diligencia de apeo y deslinde;
+
+II. Adquisición o transmisión de derechos posesorios;
+
+III. Acta de asamblea de condóminos;
+
+IV. Contrato de arrendamiento de bienes;
+
+V. Servidumbres;
+
+VI. Constitución de garantías reales sobre muebles;
+
+VII. Constitución, disolución o liquidación de sociedades, cooperativas y asociaciones;
+
+VIII. Capitulaciones matrimoniales y su modificación, constitución o disolución de sociedad conyugal, comunidad de bienes y de patrimonio familiar;
+
+IX. Convenio modificatorio que no implique novación de contrato;
+
+X. Cumplimiento de condición;
+
+XI. Ratificación de gestión de negocios;
+
+XII. Rectificación de documento;
+
+XIII. Sustitución de deudor o acreedor;
+
+XIV. Prórroga de gravamen;
+
+XV. Protocolización de acuerdos;
+
+XVI. Constitución de habitación; y
+
+XVII. Protocolización de plano y deslinde catastral de predios con superficie no mayor a 5,000 metros cuadrados. Tratándose de predios con una superficie mayor, se estará a lo dispuesto en el artículo 105, fracción III, de la presente Ley.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 95.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Por avisos preventivos se pagarán 3.75 UMA y por avisos definitivos se pagará 1.25 UMA.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 96.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Por la inscripción de actas de asambleas o administrativas que no impliquen aumento de capital, modificación de sociedades o asociaciones sin aumento de capital, otorgamiento, sustitución, suspensión o revocación de poderes generales o especiales, quiebras, concurso, suspensión de pagos, protocolización de estatutos, resolución administrativa, liquidación de sociedad mercantil, se pagará la cantidad de 15 UMA.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 97.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Por la inscripción de cualquiera de los actos o contratos precisados en los artículos que anteceden, se pagará el derecho conforme al valor mayor que resulte entre el de la operación consignada o el avalúo comercial que se practique; si no se hubiere practicado el avalúo en razón a la naturaleza del acto, servirá de base para el pago el valor catastral, tratándose de inmuebles.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 98.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Se pagará por concepto de derechos el equivalente a 3.75 UMA, por la inscripción de:
+
+I. Cancelación de:
+
+a) Aviso definitivo o preventivo.
+
+b) Embargo.
+
+c) Fideicomiso, fideicomiso de garantía o traslativo de dominio o de administración.
+
+d) Suspensión de pagos.
+
+e) Contrato de Hipoteca.
+
+f) Arrendamiento financiero.
+
+g) Constitución de crédito agrícola.
+
+h) De inscripción de convenio modificatorio que implique la ampliación de garantía o novación.
+
+i) De reserva de dominio de bienes inmuebles;
+
+II. Contratos de comodato y otros de naturaleza mercantil no especificados en otras disposiciones de la presente ley;
+
+III. Radicación de juicio sucesorio ante notario, informe de testamento, ratificación de firmas, registro de firma y sello de corredor público, registro de título de corredor público, emisión de certificados digitales;
+
+IV. Modificación de fideicomiso con garantía;
+
+V. Anotación marginal que no modifique el derecho;
+
+VI. Cualquier acto, contrato o documento cuyo valor no pueda ser determinado;
+
+VII. Adjudicación que se realice a favor de los beneficiarios, respecto de bienes inmuebles considerados para efectos de esta Ley como vivienda de interés social, cuya transmisión haya sido dispuesta mediante testamento, en términos del artículo 1477 del Código Civil del Estado de Querétaro; y
+
+VIII. Cancelación de convenio.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 99.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Por la inscripción de fianzas, obligaciones solidarias, compraventa con reserva de dominio de bienes muebles, constitución de garantías reales sobre inmuebles, compraventa de bienes muebles, convenios que impliquen ampliación del crédito, ampliación de garantía, disolución de copropiedad o actos o contratos relativos a la disolución de la subdivisión del régimen de copropiedad, se cobrará por concepto de derechos el 3.125 al millar sobre el importe de operación.
+
+En el caso de ampliación de garantía, los derechos se calcularán sobre el valor que se le asigne a los bienes que servirán de garantía y, en caso de que no se establezca, sobre el total de la cantidad que se está garantizando.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+En la inscripción de actos o contratos relativos a la subdivisión o disolución de copropiedad, los derechos señalados en el párrafo primero, se causarán únicamente en aquellos casos en los que exista transmisión de derechos de propiedad. De no existir dicha transmisión o demasía, se cobrará por concepto de derechos 15 UMA.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 100.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Se pagará por concepto de derechos el 3.125 al millar sobre el importe de la operación o valor, por la inscripción o cancelación de:
+
+I. Arrendamiento financiero;
+
+II. Constitución de créditos agrícolas; y
+
+III. Exclusivamente para la inscripción los fideicomisos de garantía.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 101.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Por derechos relativos a donaciones se cubrirá el 10 al millar sobre su importe.
+
+Para el cálculo de los derechos a que se refiere este artículo, se considerará que el usufructo y la nuda propiedad, tienen cada uno de ellos, el 50% del valor del bien.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 102.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Por inscripción de resoluciones judiciales relativas a informaciones ad perpetuam o prescripciones adquisitivas, se cobrará el 12.5 al millar sobre el valor del bien.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 103.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Por toda clase de actos, contratos o convenios mediante los cuales se subdividan o se fusionen predios, se cobrarán 10 UMA.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 104.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Por todos los actos, contratos o convenios semejantes a los enunciados en el artículo anterior, relativos a predios de tipo popular urbano, se cobrará por concepto de derechos en el registro 6.25 UMA.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 105.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Se causarán y pagarán 50 UMA por la inscripción de:
+
+I. Aumento de capital de sociedades mercantiles;
+
+II. Autorización de fraccionamiento, nomenclatura de calles, protocolización de planos, protocolización de licencia de ejecución de obras, lotificación, relotificación, protocolización de autorización para venta de lotes y acta de entrega-recepción; y
+
+III. Protocolización de deslinde catastral de predio con superficie mayor a 5,000 metros cuadrados.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 106.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Las inscripciones, anotaciones, cancelaciones, expediciones de certificados o certificaciones y demás servicios que preste el Registro Público de la Propiedad y del Comercio, en materia de crédito agrícola y ejidal, causarán y pagarán los derechos de conformidad con las leyes respectivas y en los casos no previstos se aplicarán las cuotas señaladas en este Capítulo.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 107.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Por la expedición de certificados, copias certificadas y búsqueda de antecedentes, se causarán y pagarán los siguientes derechos:
+
+CONCEPTO UMA
+
+Expedición de certificados de gravamen y
+
+de libertad de gravamen por 20 años. 8.75
+
+Expedición de certificados de gravamen y
+
+de libertad de gravamen de más de 20 años. 12.5
+
+Expedición de certificados de inscripción y
+
+de no inscripción. 8.75
+
+Certificado de propiedad, de no propiedad y
+
+de única propiedad. 5
+
+Certificado de historial registral de hasta 10 años. 15
+
+Certificado de historial registral de más de 10 y
+
+hasta 20 años. 20
+
+Certificado de historial registral de más de
+
+20 años. 25
+
+Expedición de copias certificadas, por cada
+
+5 hojas. 2.5
+
+Trascripción de documento por cada 15 hojas o
+
+fracción de tal número. 7.5
+
+Búsqueda de antecedentes sin expedición
+
+de certificados por inmueble, hasta por diez años.
+
+Cuando la búsqueda exceda del plazo a que 2.5
+
+se refiere el párrafo anterior, se cobrará 1
+
+UMA, por cada periodo de diez años de
+
+búsqueda adicional o fracción.
+
+Las solicitudes emitidas por autoridades judiciales no causarán derechos, siempre y cuando su atención no implique la expedición de certificados, copias certificadas o la realización de algún acto de inscripción.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 108.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Por el servicio de consulta remota al sistema de información del Registro Público de la Propiedad y del Comercio, entendiéndose por tal servicio, el que se presta a los usuarios mediante el acceso para consulta de una base de datos a través de un enlace de comunicaciones entre equipos de cómputo, se causarán 37.5 UMA por un año de servicio, cuando dicha cuota se entere en su totalidad durante el primer mes del ejercicio de que se trate, en caso contrario se causarán y pagarán 3.75 UMA por cada mes de servicio.
+
+Los usuarios que utilicen el equipo de cómputo que ponga a disposición del público en general el Registro Público de la Propiedad y el Comercio, para consultar los antecedentes registrales que obran en dicho Registro, no estarán obligados al pago de los derechos a que se refiere este artículo.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 109.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Cuando un mismo título o documento origine dos o más inscripciones, los derechos se causarán por cada una de ellas, calculándose separadamente.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+Tratándose de instituciones de crédito, de auxiliares de crédito, sociedades financieras de objeto limitado, de seguros, de fianzas y del Instituto del Fondo Nacional para la Vivienda de los Trabajadores (INFONAVIT) e Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) cuando actúen como instituciones de crédito; las inscripciones que deban hacerse causarán los mismos derechos; pero su conjunto no podrá exceder del 3.125 al millar sobre el importe de la operación.
+
+Lo dispuesto en el primer párrafo de este artículo no será aplicable tratándose de la inscripción de convenios modificatorios de contratos de crédito con garantía hipotecaria otorgados en favor de los desarrolladores inmobiliarios para la construcción de fraccionamientos o condominios, cuando éstos no impliquen la novación del contrato, ni la constitución de nuevas garantías o ampliación de las otorgadas en el contrato de crédito originario, así como en la cancelación de los citados contratos, que deban registrarse en más de un folio, siempre que el contrato del cual deriven se haya registrado originalmente en un solo folio, caso en el cual se cobrará lo correspondiente a una sola inscripción.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 110.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Cuando los derechos indicados en este Capítulo se establezcan al millar y la cantidad que resulte a pagar sea inferior a 3.75 UMA, se cobrará esta última cantidad.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE CAPÍTULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ### Capítulo Quinto. Por los servicios prestados por Autoridades del Trabajo y Previsión Social
 
 ###### Artículo 111.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Son objeto de este derecho los servicios prestados por el Archivo General de Notarías.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+Sujeto
 
 ###### Artículo 112.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Son sujetos los contribuyentes solicitantes de los servicios prestados por el Archivo General de Notarías.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+Tasa
 
 ###### Artículo 113.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Por los servicios prestados por el Archivo General de Notarías, se causarán y pagarán derechos, de conformidad con las siguientes cuotas:
+
+CONCEPTO NÚMERO DE HOJAS UMA
+
+Expedición De 3 a 5 hojas 10
+
+de testimonio
+
+Expedición De 6 a 9 hojas 15
+
+de testimonio
+
+Expedición De 10 a 15 hojas 20
+
+de testimonio
+
+Expedición De 16 hojas en adelante 22.5
+
+de testimonio
+
+Avisos e informes de testamento, búsqueda de
+
+documentos, copias certificadas, por cada diez hojas. 3.75
+
+Certificación de escrituras y/o de constancias de apéndice. 3.75
+
+Autorización de cada folio. 0.0625
+
+Revisión de exactitud de la razón de cierre de tomo,
+
+por cada ocasión y tomo. 3.75
+
+Inscripción en el libro de Registro de Notarías. 10
+
+Expedición de copias simples, por cada diez hojas. 1.25
+
+Aviso de testamento sobre la vivienda de interés
+
+social o popular 0
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 114.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Por el servicio de guarda y custodia de testamento público cerrado, se causará y pagará una cuota única de 10 UMA.
 
 ### Capítulo Sexto. Por los servicios prestados por las Autoridades de Educación
 
@@ -1821,19 +2113,43 @@ III. Copia certificada de levantamiento topográfico o deslinde catastral en tam
 
 IV. Copia certificada de planos catastrales en tamaño carta, oficio o doble carta, sin ampliación o reducción, con ortofoto de fondo, 7.5 UMA por plano;
 
-V. Copia simple de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm hasta un metro cuadrado, sin ampliación o reducción, 7.5 UMA por plano;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+V. Copia simple de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm hasta un metro cuadrado, sin ampliación o reducción:
+
+a) 7.5 UMA por plano, en blanco y negro; y
+
+b) 10 UMA por plano, a color;
 
 VI. Copia simple de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm hasta un metro cuadrado, sin ampliación o reducción, con ortofoto de fondo, 8.75 UMA por plano;
 
-VII. Copia certificada de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm hasta un metro cuadrado, sin ampliación o reducción, 8.75 UMA por plano;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+VII. Copia certificada de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm hasta un metro cuadrado, sin ampliación o reducción:
+
+a) 8.75 UMA por plano, en blanco y negro; y
+
+b) 11.25 UMA por plano, a color;
 
 VIII. Copia certificada de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm hasta un metro cuadrado, sin ampliación o reducción, con ortofoto de fondo, 10 UMA por plano;
 
-IX. Copia simple de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción, 10 UMA por metro cuadrado;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+IX. Copia simple de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción:
+
+a) 10 UMA por metro cuadrado, en blanco y negro; y
+
+b) 12.5 UMA por metro cuadrado, a color;
 
 X. Copia simple de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción, con ortofoto de fondo, 11.25 UMA por metro cuadrado;
 
-XI. Copia certificada de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción, 11.25 UMA por metro cuadrado;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+XI. Copia certificada de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción:
+
+a) 11.25 UMA por metro cuadrado, en blanco y negro; y
+
+b) 13.75 UMA por metro cuadrado, a color;
 
 XII. Copia certificada de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción, con ortofoto de fondo, 12.5 UMA por metro cuadrado;
 
@@ -1893,29 +2209,11 @@ XXXVII. Copia digital en formato de documento portátil (PDF) de planos catastra
 
 Por la ejecución de deslindes catastrales se causarán y pagarán:
 
+> <small>(REFORMADA [N. DE E. CON SUS CANTIDADES], P.O. 22 DE DICIEMBRE DE 2019)</small>
+
 I. De predios con superficie:
 
-Metros Cuadrados UMA Sumar 1.25 UMA por cada
-
-Hasta de 150 50.00
-
-De más de 150 50.00 10 m2 hasta llegar a 500 m2
-
-De más de 500 93.75 20 m2 hasta llegar a 1000 m2
-
-De más de 1000 125.00 80 m2 hasta llegar a 5000 m2
-
-De más de 5000 187.50 100 m2 hasta llegar a 20000 m2
-
-De más de 20000 375.00 120 m2 hasta llegar a 50000 m2
-
-De más de 50000 687.50 200 m2 hasta llegar a 100000 m2
-
-De más de 100000 1000.00 500 m2 hasta llegar a 500000 m2
-
-De más de 500000 2000.00 800 m2 hasta llegar a 1000000 m2
-
-De más de 1000000 2781.25 1200 m2 excedentes
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINA 28569.]</small>
 
 II. Cuando el contribuyente opte por efectuar el procedimiento de deslinde catastral con apoyo de un topógrafo externo inscrito en el Padrón de Contratistas de Obra Pública del Estado de Querétaro y reconocido por la Dirección de Catastro, se pagará el 70 por ciento de los montos establecidos en la fracción I del presente artículo, siempre y cuando dicho topógrafo externo presente ante la Dirección de Catastro el expediente que incluya el plano de levantamiento topográfico del predio realizado conforme a las normas técnicas para ejecución de deslindes de la Dirección de Catastro, la investigación de antecedentes de propiedad del predio objeto del deslinde y de los predios colindantes en el Registro Público de la Propiedad, así como la solicitud y la documentación requerida para el trámite de deslinde catastral. Dicho expediente se someterá a revisión por parte de la Dirección de Catastro y en caso de que ésta detectara alguna inconsistencia atribuible al topógrafo externo que motive una nueva revisión del expediente, se causarán y pagarán 20 UMA por la citada revisión. El topógrafo externo a que se hace referencia en esta fracción, estará obligado a realizar las modificaciones, actualizaciones y anotaciones que establezca la Dirección de Catastro, de acuerdo al resultado del procedimiento administrativo de deslinde catastral;
 
@@ -2275,41 +2573,15 @@ c) El que se autorice a las áreas de desarrollo urbano de los municipios, que m
 
 Los accesos que excedan de los señalados en los incisos anteriores, causarán y pagarán los derechos en los términos de las fracciones I y II de este artículo, según corresponda.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS CANTIDADES], P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 124.
 
 Por la elaboración de avalúos individuales para efectos catastrales, realizados a solicitud del interesado, se causarán y pagarán derechos de conformidad con lo siguiente:
 
-VALOR DEL MÁS EL VALOR DEL
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINA 28570.]</small>
 
-INMUEBLE EN UMA UMA INMUEBLE MULTIPLICADO
-
-ELEVADO AL AÑO POR ESTA CANTIDAD
-
-AL MILLAR
-
-Hasta 5 17.5
-
-Más de 5 hasta 25 10 4.0625
-
-Más de 25 hasta 42 12.5 3.75
-
-Más de 42 hasta 63 17.5 3.4375
-
-Más de 63 hasta 84 25 3.125
-
-Más de 84 hasta 126 35 2.8125
-
-Más de 126 hasta 251 50 2.5
-
-Más de 251 hasta 406 78.75 2.1875
-
-Más de 406 hasta 614 125 1.875
-
-Más de 614 hasta 921 195 1.5625
-
-Más de 921 300 1.25
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
 Los avalúos catastrales que practique la Dirección de Catastro, tendrán vigencia por el ejercicio administrativo que corresponda a su fecha de elaboración.
 
@@ -2339,45 +2611,17 @@ Horas subsecuentes hasta 10 horas 0.3125
 
 Más de 10 horas hasta 24 horas 7.5
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SU TABLA], P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 126.
 
 Por los servicios catastrales relativos a fraccionamientos y condominios, se causarán y pagarán:
 
-TRÁMITE UMA
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINA 28570.]</small>
 
-Alta de fraccionamiento
+En caso de que, tras la primera revisión, y derivado del incumplimiento de alguno de los requisitos, no sea posible realizar el alta de un fraccionamiento, unidad condominal o condominio, así como la pre-asignación de claves catastrales para cualquiera de dichos desarrollos inmobiliarios, se causará y pagará un derecho de 3.75 UMA por cada revisión subsecuente que se requiera.
 
-Alta de condominio 17.5
-
-Expedición de dictamen técnico
-
-Reconsideración de valor catastral
-
-Preasignación de claves catastrales 6.25
-
-Relotificación de fraccionamiento
-
-Modificación al régimen en condominio 26.25
-
-Expedición de listados de fraccionamientos o condominios
-
-Individualización de predio a petición expresa del desarrollador
-
-o nuevo propietario o la que se genere derivado de un aviso
-
-mensual de ventas presentado de manera extemporánea.
-
-Actualización de datos catastrales (nombre del propietario
-
-o su domicilio) 3.75
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
-
-En caso de que no sea posible realizar el alta del fraccionamiento o condominio por la falta de algún requisito o la inconsistencia de algún documento presentado, por la subsecuente revisión del expediente se causará el 50 por ciento de los derechos que por dichos conceptos establece el presente artículo.
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+En caso de que no sea posible realizar el alta del fraccionamiento, unidad condominal o condominio debido a la inconsistencia en algún documento presentado o a que la información registrada en los archivos catastrales no coincida con la presentada; por la subsecuente revisión del expediente se causará el 50 por ciento de los derechos que por dichos conceptos establece el presente artículo.
 
 Tratándose de la regularización de asentamientos humanos derivado de programas federales o estatales, no se pagarán los derechos que se causen con motivo de la prestación de los servicios consistentes en el alta de fraccionamiento, la preasignación de claves catastrales y la relotificación.
 
@@ -2461,9 +2705,13 @@ XI. Por el alta de predios producto de subdivisión para una fracción y resto d
 
 XII. Por la aplicación de deméritos a solicitud del interesado, 3.75 UMA;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
-XIII. Por la inspección de inmueble, a solicitud del interesado, para verificar los tipos de construcción y características del inmueble, sin incluir mediciones de la poligonal del predio o de las construcciones, ni la ubicación geodésica del mismo; 8 UMA;
+XII BIS. Por la revisión de valor catastral o el valor unitario de suelo asignado a un predio, presentada por el propietario o su representante, 3.75 UMA;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+XIII. Por la inspección de un predio, a solicitud del interesado, para verificar los tipos de construcción y características del predio, sin incluir mediciones de la poligonal del predio o de las construcciones, ni la ubicación geodésica del mismo, 8 UMA;
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -2495,17 +2743,21 @@ XIX. Por la emisión de dictamen técnico que incluya trabajos de brigada de top
 
 XX. Por el empadronamiento de los avisos de traslado de dominio, 3.75 UMA.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
-Para efectos de esta fracción, se entenderá por empadronamiento del aviso de traslado de dominio, aquel que se realice con motivo del primer registro de un inmueble en el Padrón Catastral, así como del primer cambio de propietario que recaiga sobre un predio que se derive de un fraccionamiento o condominio.
+Para efectos de esta fracción, se entenderá por empadronamiento del aviso de traslado de dominio, aquel que se realice con motivo del primer registro de un predio en el Padrón Catastral, así como del primer cambio de propietario que recaiga sobre un predio que se derive de un fraccionamiento o condominio.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
 Se exceptúa del pago del derecho a que se refiere esta fracción, cuando el aviso a empadronar corresponda a la primera operación traslativa de dominio de un predio regularizado a través de un programa federal, estatal o municipal de regularización de asentamientos humanos;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
-XXI. Por la expedición del informe de valor referido de inmueble, a petición del interesado, 3.75 UMA, por predio.
+XX BIS. Por el empadronamiento de aviso rectificatorio de traslado de dominio o solicitud de corrección de alguno de los datos manifestados en un aviso de traslado de dominio, 7.5 UMA;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+XXI. Por la expedición del informe de valor referido de un predio, a petición del interesado, por cada ejercicio administrativo que se requiera, 3.75 UMA;
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -2539,6 +2791,24 @@ I. Por la expedición de copias certificadas de constancias cuando el solicitant
 
 II. Por certificaciones de copias fotostáticas y su cotejo de originales de documentación solicitada por la parte patronal, por página: 3.75 UMA.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 129 Bis.
+
+Por los servicios prestados por la Junta de Conciliación y Arbitraje de acuerdo al programa que se establezca en materia de conciliación para abatir el rezago, se causarán y pagarán los siguientes derechos:
+
+I. Por la capacitación, evaluación y certificación de licenciados en derecho inscritos en el programa, 237 UMA por persona.
+
+El pago por la inscripción a la capacitación, examen y certificación se realizará previamente a la impartición de la capacitación, de acuerdo a lo que establezca el programa respectivo, el cual no será objeto de devolución en caso de que los solicitantes de este servicio no obtengan resultado aprobatorio;
+
+II. Por la evaluación que las empresas soliciten que se aplique a las trabajadoras y trabajadores para que éstos se acrediten como conciliadores certificados, 178 UMA por persona.
+
+El pago por la realización de la evaluación será realizado por las empresas referidas en el párrafo que antecede de manera previa a su aplicación, de acuerdo a lo que establezca el programa respectivo y no será objeto de devolución en caso de que sus trabajadores no obtengan resultado aprobatorio; y
+
+III. Por la certificación emitida a las empresas, 178 UMA, por empresa.
+
+El pago de la certificación se realizará previamente a la aplicación de la evaluación señalada en la fracción II, de acuerdo a lo que establezca el programa respectivo y no será objeto de devolución en caso de que sus trabajadores no obtengan resultado aprobatorio.
+
 ### Capítulo Octavo. Por los servicios prestados por las Autoridades de la Secretaría de Gobierno
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
@@ -2557,87 +2827,25 @@ Por los servicios prestados por las autoridades de la Secretaría de Educación,
 
 Por los trámites que realice la Dirección Estatal de Profesiones de la Secretaría de Educación del Poder Ejecutivo del Estado de Querétaro, se causarán y pagarán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. CON SUS CANTIDADES], P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 I. En materia de registro de colegios, asociaciones y federaciones de profesionistas:
 
-CONCEPTO UMA
-
-Por el registro de un colegio de profesionistas 15
-
-Por la expedición de autorización para la
-
-constitución de un colegio de profesionistas 15
-
-Por las anotaciones al registro 5
-
-Por la inscripción de asociados que no
-
-figuren en el registro original 0.625
-
-Por la expedición de una autorización para
-
-constituir una asociación de profesionistas 12.5
-
-Por el registro de una asociación de profesionistas 12.5
-
-Por la expedición de una autorización para constituir
-
-una federación de profesionistas 31.25
-
-Para el registro de una federación de colegios de
-
-profesionistas 312.50
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINA 28572.]</small>
 
 II. Por el trámite de títulos profesionales, de diploma de especialidad o de grado académico y otros conceptos previstos en la ley estatal de la materia:
 
+> <small>(REFORMADO [N. DE E. CON SUS CANTIDADES], P.O. 22 DE DICIEMBRE DE 2019)</small>
+
 a) En relación a títulos profesionales de los niveles de profesional asociado, técnico, técnico superior, técnico superior universitario, licenciatura, especialidad o de grado académico:
 
-CONCEPTO UMA
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINA 28572.]</small>
 
-Por trámite de Registro de Título y
-
-Expedición de Cédula Profesional
-
-de Profesional Asociado, Técnico,
-
-Técnico Superior y Técnico Superior
-
-Universitario. 5
-
-Por trámite de registro de Título y
-
-Expedición de Cédula Profesional de
-
-Licenciatura y Grado Académico. 11
-
-Por trámite de registro de Diploma y
-
-Expedición de Cédula Profesional para
-
-el ejercicio de una Especialidad. 17
-
-Por trámite de Duplicado de Cédula
-
-Profesional. 5
+> <small>(REFORMADO [N. DE E. CON SUS CANTIDADES], P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 b) Otros conceptos:
 
-CONCEPTO UMA
-
-Por trámite de expedición de autorización
-
-provisional para ejercer por estar el
-
-título profesional en trámite o para
-
-ejercer como pasante. 3
-
-Por trámite de consultas de archivo. 1.5
-
-Por trámite de constancias de
-
-antecedentes profesionales. 6
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINA 28573.]</small>
 
 III. Por los trámites que realice ante la Secretaría de Educación Pública del Gobierno Federal:
 
@@ -2709,189 +2917,13 @@ Por certificación profesional. 15
 
 (DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 134.
 
 Por los servicios que presta la Dirección de Educación, se causarán y pagarán los siguientes derechos:
 
-CONCEPTO UMA
-
-Por solicitud, evaluación y resolución de Planes y
-
-Programas de estudio de tipo superior, cuando en
-
-términos de las disposiciones aplicables constituya
-
-un requisito para el trámite de reconocimiento de
-
-validez oficial de estudios de tipo superior. 63.75
-
-Por solicitud, estudio y resolución del trámite de
-
-reconocimiento de validez oficial de estudios de
-
-tipo superior. 170
-
-Por solicitud, estudio y resolución del trámite de
-
-cambio de titular de reconocimiento de validez
-
-oficial de estudios, de tipo superior, tipo medio
-
-superior o educación inicial, respecto de cada
-
-plan de estudios sea cual fuere la modalidad. 63.75
-
-Por solicitud, estudio y resolución del trámite de
-
-cambio de titular de autorización para impartir
-
-educación básica, normal y demás para la formación
-
-de maestros de educación básica, respecto de cada
-
-plan de estudios, sea cual fuera la modalidad. 63.75
-
-Por solicitud, estudio y resolución del trámite de cambio
-
-de planes y programas de estudio de tipo superior o
-
-media superior con reconocimiento de validez oficial. 73.75
-
-Cambio o ampliación de domicilio o establecimiento de
-
-un plantel adicional respecto de cada plan de estudios
-
-con reconocimiento de validez oficial o autorización para
-
-impartir educación básica. 63.75
-
-Por solicitud, estudio y resolución del trámite de
-
-autorización para impartir educación básica, normal
-
-y demás para la formación de maestros, sea cual
-
-fuere la modalidad. 63.75
-
-Por solicitud, estudio y resolución del trámite de
-
-reconocimiento de validez oficial de estudios de los
-
-niveles de educación inicial y medio superior o equivalente
-
-y de formación para el trabajo, sea cual fuere la modalidad. 63.75
-
-Por solicitud, de equivalencia y revalidación de estudios:
-
-a) De educación media superior 6.25
-
-b) De educación superior 17.5
-
-Por duplicado de equivalencia o revalidación de estudios 2.5
-
-Por registro de alumnos (por semestre, cuatrimestre,
-
-trimestre o módulo y por institución):
-
-a) Capacitación para el Trabajo 1.25
-
-b) Bachillerato 1.25
-
-c) Educación Normal 1.25
-
-d) Licenciatura 1.25
-
-e) Técnico Superior Universitario 1.25
-
-f) Profesional Asociado 1.25
-
-g) Especialidad 1.25
-
-h) Maestría 1.25
-
-i) Doctorado 1.25
-
-Examen de regularización (por materia, por alumno):
-
-a) Capacitación para el Trabajo 1.25
-
-b) Bachillerato 1.25
-
-c) Educación Normal 1.25
-
-d) Licenciatura 1.25
-
-e) Técnico Superior Universitario 1.25
-
-f) Profesional Asociado 1.25
-
-g) Especialidad 1.25
-
-h) Maestría 1.25
-
-i) Doctorado 1.25
-
-Duplicado de certificado, todos los niveles. 2.5
-
-Examen a título de suficiencia, por materia. 1.25
-
-Validación de certificado de estudios parciales,
-
-por ciclo escolar. 1.25
-
-Exámenes profesionales o de grado. 3.75
-
-Otorgamiento de títulos de educación normal. 1.25
-
-Autenticación de títulos de educación superior. 2.5
-
-Dictamen y cambio de carrera (educación superior). 2.5
-
-Por expedición de dictamen técnico para realizar estudios. 2.5
-
-Cambios de área realizados de manera posterior a la
-
-emisión del dictamen de equivalencia o revalidación
-
-correspondiente. 2.5
-
-Cancelación y consecuente reexpedición de formatos
-
-de certificados de educación media superior que se
-
-solicite por instituciones de educación incorporadas
-
-al Estado. 1.25
-
-Por la emisión de constancias de servicios para ingreso
-
-a la Universidad Pedagógica Nacional o Escuela Normal
-
-Superior de Querétaro. 2.5
-
-Por la emisión de certificación de acta de examen o título
-
-profesional, por deterioro, extravío o robo. 2.5
-
-Por cualquier otra certificación o expedición de constancias
-
-distintas de las señaladas en el presente artículo. 2.5
-
-Renovación de vigencia de reconocimiento de validez
-
-oficial de estudios de educación inicial, tipo media superior
-
-y superior o equivalente, así como de formación para el
-
-trabajo, por cada plan de estudios. 18.75
-
-Reposición del dictamen de equivalencia o revalidación
-
-de estudios, una vez concluido el plazo para la entrega
-
-de la resolución. 2.5
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINAS DE LA 28573 A LA 28574.]</small>
 
 ###### Artículo 135.
 
@@ -2905,45 +2937,7 @@ Son objeto de los derechos contenidos en este Capítulo, la prestación de servi
 
 ###### Artículo 137.
 
-Por los servicios relativos a la expedición de dictamen de uso de suelo, se pagarán los siguientes derechos:
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-I. Por la realización del estudio necesario para la expedición del dictamen de uso de suelo, se pagará una cuota correspondiente a 6.25 UMA.
-
-Cuando del estudio a que se refiere el párrafo anterior se desprenda que la expedición del dictamen de uso de suelo es procedente, el monto pagado en los términos de esta fracción podrá ser acreditado contra las cantidades que conforme a la fracción II de este artículo deban pagarse;
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-II. Por la expedición de dictamen de uso de suelo hasta 100 m2, se pagará la cantidad que resulte de aplicar la tarifa prevista en la siguiente tabla.
-
-Por superficie excedente a 100 m2, excepto para el uso agropecuario, se pagará adicionalmente la cantidad que resulte de aplicar la siguiente fórmula:
-
-Cantidad a pagar por superficie excedente =
-
-1.25 UMA x (No. de m2 excedentes)
-
-Factor único
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE DICIEMBRE DE 2015, PÁGINAS DE LA 27058 A LA 27059.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 16 DE DICIEMBRE DE 2016, PÁGINAS DE LA 16468 A LA 16469.]</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-III. Para efectos del cobro de metros cuadrados excedentes a 100 m2 relativos al uso agropecuario, se pagará una cuota equivalente a 12.5 UMA;
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-IV. Por la modificación, corrección y/o ratificación de dictamen de uso de suelo se pagará una cuota correspondiente a 6.25 UMA;
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-V. En caso de que una industria o comercio pretenda establecerse en un parque, fraccionamiento o condominio industrial, que haya cumplido previamente con los trámites requeridos por la Secretaría de Desarrollo Urbano y Obras Públicas y efectuado el pago correspondiente, únicamente cubrirá un pago por la emisión del dictamen de uso de suelo individual de 12.5 UMA, y
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-VI. Por la emisión del informe de uso de suelo pagará una cuota del 7.5 UMA.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2019)
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SU TABLA], P.O. 19 DE DICIEMBRE DE 2018)</small>
 
@@ -3299,7 +3293,7 @@ Zona C: Jalpan de Serra, Landa de Matamoros, Peñamiller, Pinal de Amoles, San J
 
 ### Capítulo Décimo Primero. Servicios prestados por las Autoridades de la Secretaría de Seguridad Ciudadana
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS CANTIDADES], P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 145.
 
@@ -3351,53 +3345,9 @@ Por la expedición de la constancia de no inhabilitación a favor de las persona
 
 Por los servicios prestados por la Secretaría de Seguridad Ciudadana, en materia de seguridad privada, se causarán y pagarán los derechos correspondientes, conforme a lo siguiente:
 
-CONCEPTO UMA
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINA 28575.]</small>
 
-a). Por el trámite y, en su caso, autorización a
-
-personas físicas y morales para la prestación de
-
-servicios de seguridad privada en el Estado de Querétaro 100
-
-b). Por el trámite de registro para la prestación
-
-de servicios de seguridad privada en el Estado a
-
-personas físicas y morales con autorización de la
-
-Secretaría de Gobernación 55
-
-c). Por el trámite y, en su caso, refrendo anual de
-
-la autorización a personas físicas y morales para la
-
-prestación de servicios de seguridad privada en el
-
-Estado de Querétaro 50
-
-d). Por el trámite y, en su caso, modificación de las
-
-modalidades para la prestación de los servicios de
-
-seguridad privada 5
-
-e). Por el trámite y, en su caso, expedición de la
-
-credencial de habilitación como guardia o vigilante 2
-
-f). Por la reposición de credencial de habilitación
-
-como guardia o vigilante 1
-
-g). Por el trámite y, en su caso, autorización de
-
-vehículos en el Padrón de Vehículos Escolta 2
-
-h). Por el trámite y, en su caso, refrendo anual de la
-
-autorización de vehículos en el Padrón de Vehículos Escolta 1
-
-i). Por baja en el Padrón de Vehículos Escolta 1
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2018)</small>
 
 El pago de los derechos que establece este artículo deberá hacerse previamente a la prestación de los servicios respectivos. Cuando no se compruebe lo anterior, el servicio no se proporcionará.
 
@@ -3407,33 +3357,11 @@ El pago de los derechos que establece este artículo deberá hacerse previamente
 
 Por los servicios prestados por la Secretaría de Seguridad Ciudadana, en materia de seguridad vial, se causarán y pagarán los derechos correspondientes, conforme a lo siguiente:
 
+> <small>(REFORMADA [N. DE E. CON SUS CANTIDADES], P.O. 22 DE DICIEMBRE DE 2019)</small>
+
 I. En materia de licencias de conducir:
 
-CONCEPTO Modalidad UMA
-
-A (automovilista) y B (chofer) 10
-
-Expedición y renovación C (carga CC, colectivo CO,
-
-de licencia para conducir taxi CT) 3.75
-
-D (motociclista) 6
-
-A (automovilista) y B (chofer) 5
-
-Duplicado de licencia C (carga CC, colectivo CO,
-
-para conducir taxi CT) 2
-
-D (motocicleta) 3
-
-Expedición y renovación
-
-de permiso para conducir Menor de edad 12
-
-Duplicado de permiso
-
-para conducir Menor de edad 6
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINA 28575.]</small>
 
 II. En materia de permisos provisionales y constancias:
 
@@ -3541,25 +3469,27 @@ Autorización de vehículo para impartir clases de manejo 1
 
 Por los servicios prestados por las autoridades fiscales se causarán y pagarán los siguientes derechos:
 
-I. Expedición de certificados:
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+I. Por búsqueda en archivos, 1.25 UMA; y
 
-a) Por la primera hoja: 1.25 UMA.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-b) Por cada hoja excedente a la primera 0.625 UMA, y
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-II. Por búsqueda en archivos, 1.25 UMA, por certificación de copias de documentos de archivo por cada hoja 0.125 UMA.
+II. Por certificación de copias de documentos de archivo por cada hoja 0.125 UMA.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 155.
 
 Corresponde a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, administrar y controlar el Padrón Vehicular Estatal relativo a los vehículos que sean dados de alta en su jurisdicción territorial; para tales efectos dicha autoridad realizará los trámites relativos a las altas, bajas y cambios que procedan en el Padrón. En consecuencia, será dicha autoridad la que lleve a cabo los actos de verificación y comprobación para mantener actualizado dicho Padrón.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+La autoridad fiscal competente podrá expedir criterios normativos aplicables al Padrón Vehicular Estatal.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+Previo a cualquier movimiento al Padrón Vehicular Estatal, la autoridad fiscal podrá llevar a cabo los requerimientos y verificaciones de los datos y documentos proporcionados por el contribuyente.
 
 Por Padrón Vehicular Estatal, se entenderá la base de datos establecida en relación a los vehículos a los que se les expida placas de circulación dentro de la jurisdicción territorial del Estado.
 
@@ -3579,7 +3509,7 @@ El plazo para realizar o manifestar los actos antes señalados, será de 15 día
 
 En caso de vehículos del servicio público del transporte, las concesiones y permisos respectivos deberán estar aprobados por la autoridad competente, previamente a que la Secretaría de Planeación y Finanzas efectúe el registro o modificación de los datos de los vehículos asociados a dichas concesiones y permisos en el Padrón Vehicular Estatal; debiendo constar tal situación en los expedientes administrativos que al respecto se integren.
 
-La autoridad fiscal competente podrá implementar o adicionar los medios de control, identificación y registro que considere convenientes.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 156.
 
@@ -3641,9 +3571,9 @@ III. La expedición de placas metálicas, tarjeta de circulación y calcomanía 
 
 IV. Por la baja del vehículo en el Padrón Vehicular Estatal se pagarán 2.5 UMA;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
-V. Por la reposición de la tarjeta de circulación se pagará 1.875 UMA. Para ello, será necesario que la unidad se encuentre al corriente en el pago. del impuesto sobre tenencia o uso de vehículos que corresponda y de los derechos por control vehicular. Se deberá presentar constancia de no infracción emitida por los sistemas de información de la Secretaría de Seguridad Ciudadana del Estado de Querétaro; y
+V. Por la reposición de la tarjeta de circulación se pagará 1.875 UMA. Para ello, será necesario que la unidad se encuentre al corriente en el pago del impuesto sobre tenencia o uso de vehículos que corresponda y de los derechos por control vehicular; y
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -3705,17 +3635,11 @@ III. Comprobante de domicilio en el Estado de Querétaro, emitido a nombre del p
 
 IV. Previo al registro en el Padrón Vehicular Estatal, la autoridad fiscal podrá validar los datos asentados en los registros vehiculares de otras entidades federativas;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 V. Para el caso de vehículos inscritos en otra entidad federativa se deberá entregar las placas y tarjeta de circulación del vehículo o, en su caso, presentar la baja correspondiente.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-En caso de extravío, destrucción o robo, de una o ambas placas y/o de la tarjeta de circulación, el solicitante deberá presentar constancia de no infracción emitida por la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-Tratándose de robo o extravío de una o ambas placas, también deberá exhibirse denuncia presentada ante la autoridad investigadora competente.
+Tratándose de robo o extravío de una o ambas placas, deberá exhibirse denuncia presentada ante la autoridad investigadora competente;
 
 VI. Si el vehículo que se pretende registrar es de procedencia extranjera, se deberán presentar los documentos originales que acrediten la legal estancia del vehículo en el país o, en su caso, copia certificada emitida por las autoridades aduaneras, así como acreditar el cumplimiento de los requisitos que establezcan las disposiciones federales aplicables al caso en particular;
 
@@ -3881,6 +3805,10 @@ Tratándose de solicitudes que requieran la expedición de copias certificadas, 
 
 ### Capítulo Décimo Séptimo. Por los servicios prestados por el Estado en Materia de Transporte Público
 
+###### Artículo 172 Bis.
+
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
+
 ###### Artículo 167.
 
 Por los servicios de suscripción al Padrón de Proveedores de la Administración Pública Estatal, prestados por la Oficialía Mayor, se causarán y pagarán 5 UMA, tratándose de personas físicas y 12.5 UMA, en el caso de personas morales.
@@ -3921,7 +3849,9 @@ IV. Por cada certificado y holograma de verificación vehicular tipo doble cero 
 
 V. Por cada certificado y holograma de verificación vehicular tipo 1 de que se dote a los centros de verificación autorizados, se pagará el equivalente a 1.56 UMA;
 
-VI. Por cada certificado y holograma de verificación vehicular tipo 2 de que se dote a los centros de verificación autorizados, se pagará el equivalente a 1.31 UMA;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+VI. Por cada certificado y holograma de verificación vehicular tipo 2 de que se dote a los centros de verificación autorizados, se pagará el equivalente a 0.86 UMA;
 
 VII. Por cada certificado de rechazo de verificación vehicular de que se dote a los centros de verificación autorizados, se pagará el equivalente a .6245 UMA;
 
@@ -3937,9 +3867,13 @@ XII. Por la reposición del certificado y holograma de verificación vehicular t
 
 XIII. Por la expedición de la licencia ambiental, se pagará el equivalente a 33.75 UMA para empresas pequeñas; 46.25 UMA para empresas medianas y 58.75 UMA para empresas grandes;
 
-XIV. Por la autorización del informe preventivo de impacto ambiental, se pagará el equivalente a 150 UMA;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
-XV. Por la autorización de la manifestación de impacto ambiental en modalidad particular, se pagará el equivalente a 187.50 UMA y en modalidad regional, se pagará el equivalente a 375 UMA;
+XIV. Por la autorización del informe preventivo de impacto ambiental, se pagará el equivalente a 150 UMA; para los proyectos que se encuentren en unidades de gestión ambiental con categoría de aprovechamiento sustentable, de acuerdo al Programa de Ordenamiento Ecológico Regional vigente, se pagará adicionalmente 2.5 UMA por cada 100 m2 de superficie afectada por el proyecto;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+XV. Por la autorización de la manifestación de impacto ambiental en modalidad particular, se pagará el equivalente a 187.50 UMA y en modalidad regional, se pagará el equivalente a 375 UMA; para los proyectos que se encuentren en unidades de gestión ambiental con categoría de aprovechamiento sustentable, de acuerdo al Programa de Ordenamiento Ecológico Regional vigente, se pagará adicionalmente 2.5 UMA por cada 100 m2 de superficie afectada por el proyecto;
 
 XVI. Por la resolución de riesgo ambiental, se pagará el equivalente a 150 UMA;
 
@@ -3993,395 +3927,21 @@ General 2.8875
 
 Menores de 12 años y personas adultas mayores: 2.3125
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 169 Bis.
 
 Por el uso y aprovechamiento de los bienes del Querétaro Centro de Congresos, se causarán y pagarán, por evento, los siguientes derechos:
 
-CONCEPTO UMA
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINAS DE LA 28577 A LA 28580.]</small>
 
-Sala A Tarifa 8 a 22 horas 1410
-
-Hora extra por Sala A 150
-
-Sala A Tarifa 24 horas 1971.04
-
-Sala B Tarifa 8 a 22 horas 570
-
-Hora extra por Sala B 60
-
-Sala B Tarifa 24 horas 797.27
-
-Sala C Tarifa 8 a 22 horas 285
-
-Hora extra por Sala C 30
-
-Sala C Tarifa 24 horas 398.64
-
-Sala D Tarifa 8 a 22 horas 264
-
-Hora extra por Sala D 28
-
-Sala D Tarifa 24 horas 383.87
-
-Pasillo PB Tarifa 8 a 22 horas 280
-
-Hora extra por Pasillo PB 30
-
-Pasillo PB Tarifa 24 horas 391.26
-
-Terraza PB Tarifa 8 a 22 horas 331
-
-Hora extra por Terraza PB 35
-
-Terraza PB Tarifa 24 horas 645.94
-
-Gran Salón Querétaro Tarifa 8 a 22 horas 2821
-
-Hora Extra por Gran Salón Querétaro 300
-
-Gran Salón Querétaro Tarifa 24 horas 3942.08
-
-Salón Constitución 51
-
-Oficinas primer nivel 10
-
-Salón Corregidora Tarifa 8 a 22 horas 659
-
-Hora extra por Salón Corregidora 70
-
-Salón Corregidora Tarifa 24 horas 819.42
-
-Salón Corregidor Tarifa 8 a 22 horas 416
-
-Hora extra por Salón Corregidor 44
-
-Salón Corregidor Tarifa 24 horas 516.75
-
-Pasillo N3B Tarifa 8 a 22 horas 208
-
-Hora extra por Pasillo N3B 22
-
-Pasillo N3B Tarifa 24 horas 258.38
-
-Salón Casa de Los Corregidores Tarifa 8 a 22 horas 1283
-
-Hora extra por Casa de los Corregidores 137
-
-Salón Casa de Los Corregidores Tarifa 24 horas 1593.95
-
-Acueducto 301 Tarifa 8 a 22 horas 58
-
-Hora extra por Acueducto 301 6
-
-Acueducto 301 Tarifa 24 horas 74.44
-
-Acueducto 302 Tarifa 8 a 22 horas 63
-
-Hora extra por Acueducto 302 6
-
-Acueducto 302 Tarifa 24 horas 81.2
-
-Acueducto 303 Tarifa 8 a 22 horas 63
-
-Hora extra por Acueducto 303 6
-
-Acueducto 303 Tarifa 24 horas 81.2
-
-Acueducto 304 Tarifa 8 a 22 horas 79
-
-Hora extra por Acueducto 304 6
-
-Acueducto 304 Tarifa 24 horas 101.5
-
-Acueducto 305 Tarifa 8 a 22 horas 79
-
-Hora extra por Acueducto 305 6
-
-Acueducto 305 Tarifa 24 horas 101.5
-
-Acueducto 306 Tarifa 8 a 22 horas 63
-
-Hora extra por Acueducto 306 6
-
-Acueducto 306 Tarifa 24 horas 81.2
-
-Acueducto 307 Tarifa 8 a 22 horas 63
-
-Hora extra por Acueducto 307 6
-
-Acueducto 307 Tarifa 24 horas 81.2
-
-Acueducto 308 Tarifa 8 a 22 horas 58
-
-Hora extra por Acueducto 308 6
-
-Acueducto 308 Tarifa 24 horas 74.44
-
-Acueducto 301-308 Tarifa 8 a 22 horas 657
-
-Hora Extra por Acueducto 301 - 308 70
-
-Acueducto 301 - 308 Tarifa 24 horas 848.95
-
-Lobbie PB-P 481.2
-
-Lobbie PB-O 481.2
-
-Lobbie PB 926.41
-
-Lobbie N1-P 94.66
-
-Lobbie N1-O 164.08
-
-Lobbie N3-P 136.31
-
-Lobbie N3-O 132.53
-
-Vestibulo Exterior 340.26
-
-Estacionamiento 12235
-
-Pódium 6
-
-Tarima Modular 5
-
-Postes unifila/listón rojo 1
-
-Rotafolio 4
-
-Tablón medio 1
-
-Tablón completo 1
-
-Tablón redondo 1
-
-Paño mantel 1
-
-Sillones (juego 3 piezas) 29
-
-Sillón individual café 4
-
-Sillón doble café 8
-
-Pista de baile modular 1
-
-Módulos de alfombra 8
-
-Equipo de sonido A 30
-
-Equipo de sonido B 54
-
-Equipo de sonido C 76
-
-Micrófono alámbrico 3
-
-Micrófono inalámbrico 9
-
-Micrófono Lavalier 11
-
-Reproductor DVD-CD 4
-
-Video proyector 45
-
-Pantalla 4x3 m 18
-
-Pantalla Led Smart TV 40" 7
-
-Pantalla LCD 9
-
-Pantalla 3x2 m 14
-
-Grúa 13
-
-Servicio de Internet alámbrico 12
-
-Servicio de Internet inalámbrico 3
-
-Servicio de Internet fibra óptica 93
-
-Servicio de líneas telefónicas 6
-
-Uso de instalación eléctrica 220V/30A/2F 16
-
-Uso de instalación eléctrica 220V/60A/2F 28
-
-Uso de instalación eléctrica 220V/100A/2F 35
-
-Uso de instalación eléctrica 220V/30A/3F 23
-
-Uso de instalación eléctrica 220V/60A/3F 24
-
-Uso de instalación eléctrica 220V/100A/3F 50
-
-Uso de instalación eléctrica 480V/30A/3F 29
-
-Uso de instalación eléctrica 480V/60A/3F 40
-
-Uso de instalación eléctrica 480V/100A/3F 58
-
-Uso de plugg (trifásico) 480 VCA, 100A, 3PH, 4P 6
-
-Uso de plugg (trifásico) 250 VCA, 100A, 3PH, 3P 6
-
-Espacio para exhibición de vehículos 24
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 169 Ter.
 
 Por el uso y aprovechamiento de los bienes del Querétaro Teatro Metropolitano, se causarán y pagarán, por evento, los siguientes derechos:
 
-CONCEPTO UMA
-
-Sala principal Tarifa 12 horas continuas,
-
-en horario de las 08:00 a las 24:00 horas 1053
-
-Hora extra por Sala Principal 130
-
-Luneta Tarifa 12 horas continuas,
-
-en horario de las 08:00 a las 24:00 horas 508
-
-Hora extra por Luneta 62
-
-Experimental Tarifa 12 horas continuas,
-
-en horario de las 08:00 a las 24:00 horas 237
-
-Hora extra por Experimental 27
-
-Sala de danza Tarifa 12 horas continuas,
-
-en horario de las 08:00 a las 24:00 horas 106
-
-Hora extra por Sala de Danza 13
-
-Salón Verde (Green Room) Tarifa 12 horas
-
-continuas, en horario de las 08:00 a las 24:00 horas 29
-
-Hora Extra por Salón Verde (Green Room) 3.5
-
-Camerino estrella Tarifa 12 horas continuas,
-
-en horario de las 08:00 a las 24:00 horas 28
-
-Hora extra por Camerino Estrella 3.5
-
-Camerino individual 12 horas continuas,
-
-en horario de las 08:00 a las 24:00 horas 25
-
-Hora extra por Camerino Individual 3
-
-Camerino colectivo 12 horas continuas,
-
-en horario de las 08:00 a las 24:00 horas 43
-
-Hora extra por Camerino Colectivo 5
-
-Tablón medio 1
-
-Tablón completo 1
-
-Paño mantel 1
-
-Sillón individual café 4
-
-Sillón doble café 8
-
-Pódium 6
-
-Eslinga 2 m 2
-
-Eslinga 3 m 2
-
-Micrófono inalámbrico Sennheiser md 5235 5
-
-Micrófono Sennheiser mkh416 ambiental 2
-
-Micrófono electrovoice rs27 2
-
-Micrófono inalámbrico tipo Lavalier Sennheiser MZ-2 Gold 6
-
-Micrófono inalámbrico tipo Lavalier con solapa Countryman 6
-
-Micrófono ambiental Countryman M2H 3
-
-Caja directa Klark Teknik 2
-
-Micrófono Shure 418 microflex 3
-
-Micrófono Akg 321 microflex 3
-
-Micrófono Sm 81 2
-
-Micrófono Sm 57 2
-
-Micrófono Sm 58 2
-
-Micrófono Beta 98 de pinza 2
-
-Micrófono Shure Beta 52 2
-
-Micrófono Shure Beta 87 2
-
-Subsnake ramtech 12 canales 2
-
-Monitor de piso electrovoice plasma P1 5
-
-Monitor de piso electrovoice plasma P2 5
-
-Consola Yamaha M7CL 48 CH 64
-
-Consola Yamaha LS9 32 CH 24
-
-Sistema de Monitoreo Psm 700 Shure 11
-
-Video proyector Eiky 15 mil lúmenes 160
-
-Cabeza móvil de iluminación robótica Clay
-
-Paky1 Alpha Whas halo 1200/Dts Whash 19
-
-Leeko 25/50 3
-
-Leeko 15/30 3
-
-Leeko 36 grados 4
-
-Leeko 26 grados 4
-
-Leeko 19 2
-
-Leeko 14 2
-
-Par 64 2
-
-Máquina de niebla Hazer marca Lemaitre 7
-
-Leeko robótico ETC modelo Revolution Original 10
-
-Grúa 27
-
-Servicio de Internet alámbrico 12
-
-Servicio de Internet fibra óptica 93
-
-Servicio de líneas telefónicas 6
-
-Uso de instalación eléctrica 38
-
-Uso de instalación eléctrica 220V/30A/3F 23
-
-Centro de carga 8
-
-Cable de 4 líneas camlook para centro de carga 6
-
-Espacio para exhibición de vehículos 24
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINAS DE LA 28580 A LA 28582.]</small>
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -4389,15 +3949,21 @@ Espacio para exhibición de vehículos 24
 
 Por los servicios prestados por la Secretaría de Desarrollo Agropecuario, consistentes en la admisión a las instalaciones del Parque Recreativo Cimacuático, se causarán y pagarán los siguientes derechos:
 
-I. Adultos $25.00;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
-II. Niños y adultos mayores $15.00; y
+I. Adultos $29.00;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+II. Niños y adultos mayores $17.00; y
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 III. Grupos:
 
-a) Escuelas $10.00 por persona.
+a) Escuelas $12.00 por persona.
 
-b) Sector empresarial y de servicios $20.00 por persona.
+b) Sector empresarial y de servicios $23.00 por persona.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -4405,57 +3971,37 @@ b) Sector empresarial y de servicios $20.00 por persona.
 
 Por la obtención de bases de licitación pública que emitan las autoridades administrativas, se causarán y pagarán 45 UMA.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 172.
 
-Por los servicios prestados por el Poder Ejecutivo del Estado de Querétaro, cuando su costo no se encuentre previsto por esta Ley, así como cuando se trate de solicitudes formuladas en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se causarán y pagarán los siguientes derechos:
+Por los servicios prestados por el Poder Ejecutivo del Estado de Querétaro, cuando su costo no se encuentre previsto por esta Ley, así como cuando se trate de solicitudes formuladas en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro o de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Querétaro, se causarán y pagarán los siguientes derechos:
 
-CONCEPTO UMA
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINAS DE LA 28582 A LA 28583.]</small>
 
-Copia simple o impresión tamaño carta o digitalización,
+Tratándose de solicitudes formuladas en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro y de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Querétaro, la búsqueda de información que deban realizar las dependencias, entidades o unidades administrativas no generará costo alguno.
 
-por hoja 0.0125
+Cuando la información objeto de la petición se encuentre en sistemas informáticos y sea necesario procesarla, el cobro de su procesamiento será el equivalente al que corresponda por cada hoja digitalizada, en términos de este artículo, excepto tratándose de solicitudes realizadas de conformidad con lo previsto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro y en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Querétaro.
 
-Copia simple o impresión tamaño oficio o digitalización,
+Los costos de envío, incluidos los de embalaje, para la entrega de la información, por concepto de servicios de correo certificado o mensajería, tratándose de solicitudes formuladas en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro y de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Querétaro, deberán ser cubiertos por los solicitantes, haciendo de conocimiento a la Unidad de Transparencia los servicios que hayan contratado, para proceder con el envío respectivo.
 
-por hoja 0.025
-
-Copia certificada tamaño carta, por hoja 0.0313
-
-Copia certificada tamaño oficio, por hoja 0.0437
-
-Digitalización de documentos para ser entregados
-
-en disco compacto, memoria USB o para ser enviados
-
-vía correo electrónico, por cada hoja 1.0125
-
-Cuando la información se entregue en disco compacto
-
-o memoria USB, con independencia de los derechos
-
-correspondientes al servicio de digitalización, se
-
-cobrará por cada disco o memoria USB. 0.069
-
-Copia simple de planos de 90 X 60 cm, por cada una 0.32
-
-Copia simple de planos de 90 X 1.20 cm, por cada una 0.68
-
-Copia certificada de planos de 90 X 60 cm, por cada una 0.68
-
-Copia certificada de planos de 90 X1.20 cm, por cada una 1.36
-
-Tratándose de solicitudes formuladas en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, la búsqueda de información que deban realizar las dependencias, entidades o unidades administrativas no generará costo alguno.
-
-Cuando la información objeto de la petición se encuentre en sistemas informáticos y sea necesario procesarla, el cobro de su procesamiento, será el equivalente al que corresponda por cada hoja digitalizada, en términos de este artículo.
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 172 Bis.
 
-(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
+Por el uso y aprovechamiento de los bienes asignados a la Secretaría de la Juventud, se causarán y pagarán los siguientes derechos:
+
+CONCEPTO UMA
+
+Auditorio de la Secretaría de la Juventud, por evento 71.01
+
+Galería de la Secretaría de la Juventud, por día 17.75
+
+Salón “Co-working”, por día 2.37
+
+Salón “Co-working”, por mes 35.51
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ### Capítulo Único
 
@@ -5163,11 +4709,11 @@ Se derogan todas las disposiciones de igual o menor jerarquía que contravengan 
 
 P.O. 19 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO".]
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO”.]
 
 Artículo Primero. La presente Ley entrará en vigor el 1 de enero de 2018, considerando lo previsto en los párrafos subsecuentes.
 
-La reforma y adición al artículo 6 bis de la Ley de Deuda Pública del Estado de Querétaro, iniciará su vigencia a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+La reforma y adición al artículo 6 bis de la Ley de Deuda Pública del Estado de Querétaro, iniciará su vigencia a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Lo dispuesto en el artículo 150 de la Ley de Hacienda del Estado de Querétaro, estará en vigor hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción establezca la operación del Sistema nacional de Servidores públicos y particulares sancionados, previsto por el artículo 49, fracción III, de la Ley General del Sistema Nacional Anticorrupción.
 
@@ -5175,13 +4721,49 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 
 Artículo Tercero. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2018, serán las siguientes:
 
-I. (DEROGADA, P.O. 3 DE OCTUBRE DE 2018)
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO DÉCIMO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-II. (DEROGADA, P.O. 3 DE OCTUBRE DE 2018)
+I. Siempre que se trate de vivienda de interés social o popular, los derechos que de conformidad con la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
 
-III. (DEROGADA, P.O. 3 DE OCTUBRE DE 2018)
+a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente.
 
-IV. (DEROGADA, P.O. 3 DE OCTUBRE DE 2018)
+b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos.
+
+c) La expedición de certificados de no propiedad;
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO DÉCIMO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+II. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
+
+a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+c) Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate.
+
+Se causará un derecho a razón de 5 UMA por la inscripción del acto en el que conste la adquisición de vivienda de interés social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona;
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO DÉCIMO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+III. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos.
+
+b) La inscripción de la escritura pública en la que conste la operación mediante la cual las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios.
+
+c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado;
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO DÉCIMO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+IV. No se causarán los derechos previstos en la Ley de Hacienda del Estado de Querétaro, por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
+
+a) El acto en el que conste la reestructuración de los créditos señalados en el artículo 100 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicho Registro se encuentre la anotación del crédito inicial.
+
+b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas morales y personas físicas con actividad empresarial, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que los inmuebles adquiridos se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos.
+
+c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas morales y personas físicas con actividad empresarial, siempre que con ello se propicie el mantenimiento de empleos.
+
+d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes;
 
 V. Por la expedición de los oficios y certificaciones a que se refieren las fracciones III y IV del artículo 127 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1.25 UMA;
 
@@ -5203,7 +4785,9 @@ Para efectos de esta fracción, se consideran créditos de cobro incosteable, aq
 
 Se cancelan los adeudos del Impuesto Sobre Tenencia o Uso de Vehículos, así como los derechos por control vehicular, previstos en la Ley de Hacienda del Estado de Querétaro, generados por los ejercicios fiscales 2013 y anteriores;
 
-IX. (DEROGADA, P.O. 3 DE OCTUBRE DE 2018)
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO DÉCIMO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+IX. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial;
 
 X. De los recursos que se obtengan por los servicios prestados por la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado, contemplados en la fracción I del artículo 153 de la Ley de Hacienda del Estado de Querétaro, la cantidad equivalente a 0.50 UMA, por cada pago que se realice por dicho concepto, se destinará para equipamiento de los cuerpos voluntarios de bomberos y de atención médica prehospitalaria que comprueben estar legalmente constituidos en el Estado, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado, el titular de la Coordinación Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador. Dichos recursos no podrán utilizarse para el gasto corriente de las corporaciones voluntarias a las que se refiere este artículo;
 
@@ -5211,7 +4795,7 @@ XI. Las personas que resulten beneficiarias de los apoyos contenidos en el Progr
 
 XII. De los recursos que se obtengan por los servicios de control vehicular contemplados en las fracciones I y II del artículo 157 de la Ley de Hacienda del Estado de Querétaro, la cantidad equivalente a 0.50 UMA, por cada pago que se realice por dicho concepto, se destinará para equipamiento y/o gastos de operación de los cuerpos voluntarios de bomberos, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado, el titular de la Coordinación Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador;
 
-XIII. De los recursos que se obtengan por los servicios de control vehicular contemplados en las fracciones I y II del artículo 157 de la Ley de Hacienda del Estado de Querétaro, la cantidad equivalente a 0.85 UMA, por cada pago que se realice por dicho concepto, se destinarán al desarrollo de políticas públicas, programas y proyectos que contribuyan a la disminución de las emisiones del dióxido de carbono y otros gases de efecto invernadero en el Estado, así como a aquellos que promuevan la sustentabilidad ambiental y la utilización de fuentes renovables de energía, prioritariamente al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro y su ejercicio se sujetará a las Reglas de Operación que al efecto establezca la Secretaría de Desarrollo Sustentable, previa aprobación de la Secretaría de Planeación y Finanzas. Dichas reglas serán publicadas en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga";
+XIII. De los recursos que se obtengan por los servicios de control vehicular contemplados en las fracciones I y II del artículo 157 de la Ley de Hacienda del Estado de Querétaro, la cantidad equivalente a 0.85 UMA, por cada pago que se realice por dicho concepto, se destinarán al desarrollo de políticas públicas, programas y proyectos que contribuyan a la disminución de las emisiones del dióxido de carbono y otros gases de efecto invernadero en el Estado, así como a aquellos que promuevan la sustentabilidad ambiental y la utilización de fuentes renovables de energía, prioritariamente al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro y su ejercicio se sujetará a las Reglas de Operación que al efecto establezca la Secretaría de Desarrollo Sustentable, previa aprobación de la Secretaría de Planeación y Finanzas. Dichas reglas serán publicadas en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”;
 
 XIV. Las autoridades fiscales podrán restituir las cantidades pagadas por los particulares por concepto de derechos contenidos en la Ley de Hacienda del Estado de Querétaro, siempre y cuando:
 
@@ -5235,11 +4819,13 @@ Los citados contribuyentes, tenedores o usuarios, deberán comprobar la vigencia
 
 XVI. El impuesto sobre diversiones y espectáculos públicos a que se refiere el Capítulo Quinto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se reducirá en un 100%. En este caso, los contribuyentes no deberán cumplir con las obligaciones formales relativas a dicha contribución;
 
-XVII. Las obligaciones formales y sustantivas de los contribuyentes del Impuesto Sobre Loterías, Rifas, Sorteos, Concursos y Juegos con Apuestas, previsto por el Capítulo Sexto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se tendrán por cumplidas en su totalidad, en aquellos casos en los que hubiesen determinado y enterado dicho tributo correspondiente a los ejercicios fiscales 2012, 2013 y 2014, aplicando las deducciones a que se refieren los artículos 65, fracciones V y VI y 66, de la mencionada norma hacendaria en vigor a partir del 1° de enero del 2015; y
+XVII. Las obligaciones formales y sustantivas de los contribuyentes del Impuesto Sobre Loterías, Rifas, Sorteos, Concursos y Juegos con Apuestas, previsto por el Capítulo Sexto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se tendrán por cumplidas en su totalidad, en aquellos casos en los que hubiesen determinado y enterado dicho tributo correspondiente a los ejercicios fiscales 2012, 2013 y 2014, aplicando las deducciones a que se refieren los artículos 65, fracciones V y VI y 66, de la mencionada norma hacendaria en vigor a partir del 1º de enero del 2015; y
 
 XVIII. Los derechos previstos en los artículos 169 Bis y 169 Ter de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del Querétaro Centro de Congresos y Querétaro Teatro Metropolitano.
 
-Artículo Cuarto. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+Artículo Cuarto. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, POR LO QUE ESTOS TRANSITORIOS QUEDAN DEROGADOS.]</small>
 
 P.O. 3 DE OCTUBRE DE 2018.
 
@@ -5252,6 +4838,8 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Los artículos de instrucción Segundo al Décimo de la presente Ley, entrarán en vigor a partir del 01 de enero de 2020.
 
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, POR LO QUE ESTOS TRANSITORIOS QUEDAN DEROGADOS.]</small>
 
 P.O. 19 DE DICIEMBRE DE 2018.
 
@@ -5357,6 +4945,8 @@ d) La inscripción de la cancelación de licencia de ejecución de obras de urba
 
 XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, POR LO QUE ESTOS TRANSITORIOS QUEDAN DEROGADOS.]</small>
+
 P.O. 30 DE JUNIO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LOS ARTÍCULOS CUARTO Y QUINTO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO, DE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE EXPIDE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ARCHIVOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA", DE FECHA 19 DE DICIEMBRE DE 2018".]
@@ -5380,3 +4970,123 @@ Atento a lo establecido en los Artículos Transitorios Segundo y Cuarto, primer 
 ###### ARTÍCULO QUINTO.
 
 Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 22 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO, DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE QUERÉTARO, Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY QUE EXPIDE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ARCHIVOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el 1 de enero de 2020.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Con relación a las reformas de los artículos 4 y 36 de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro relativas a la Unidad de Comunicación Social y Atención Ciudadana, las alusiones a la Coordinación de Comunicación Social contenidas en otras disposiciones legales y reglamentarias, administrativas, así como en cualquier otro instrumento jurídico, se entenderán hechas a dicha Unidad, debiéndose expedir las disposiciones reglamentarias que resulten necesarias para el cumplimiento de lo dispuesto en esta Ley.
+
+Los asuntos en trámite o procedimientos iniciados ante la Coordinación de Comunicación Social que se encuentren pendientes de atender o de resolución a la entrada en vigor de la presente Ley, serán sustanciados por la Unidad de Comunicación Social y Atención Ciudadana.
+
+###### ARTÍCULO CUARTO.
+
+De conformidad con lo previsto en el Artículo Noveno de la presente Ley, se extingue el organismo público descentralizado del Poder Ejecutivo del Estado de Querétaro, denominado Instituto de la Función Registral del Estado de Querétaro, creado mediante Ley publicada el 3 de octubre de 2018 en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO QUINTO.
+
+Se autoriza al Director del Registro Público de la Propiedad y del Comercio a efecto de que realice los trámites correspondientes a la cancelación de los registros fiscales y administrativos que se hubiesen generado para efectos de la operación del Instituto de la Función Registral del Estado de Querétaro, así como para la terminación de los instrumentos jurídicos que se hubiesen celebrado con las instituciones financieras para su entrada en operación.
+
+###### ARTÍCULO SEXTO.
+
+Las alusiones al Instituto de la Función Registral del Estado de Querétaro contenidas en otras disposiciones legales y reglamentarias, administrativas, así como en cualquier otro instrumento jurídico, se entenderán hechas al Registro Público de la Propiedad y del Comercio, así como al Archivo General de Notarías, ambos del Estado Libre y Soberano de Querétaro, cuando de acuerdo al contexto y al ámbito competencial que corresponda, se refieran a dicho Registro o Archivo.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2020, serán las siguientes:
+
+l. Por la expedición de los oficios y certificaciones a que se refieren las fracciones III y IV del artículo 127 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1.25 UMA;
+
+II. Cuando los avisos de testamentos a los que se refiere el artículo 113 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo que al efecto establezca la Secretaría de Gobierno, no se causarán los derechos correspondientes;
+
+III. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 88 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
+
+MES DE PAGO DESCUENTO
+
+Enero 10%
+
+Febrero 8%
+
+Marzo 5%
+
+IV. Se cancelan los créditos fiscales por incosteabilidad en el cobro.
+
+Para efectos de esta fracción, se consideran créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2019, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión.
+
+Se cancelan los adeudos del Impuesto Sobre Tenencia o Uso de Vehículos, así como los derechos por control vehicular previstos en la Ley de Hacienda del Estado de Querétaro, generados por los ejercicios fiscales 2015 y anteriores;
+
+V. Las personas que resulten beneficiarias de los apoyos contenidos en el Programa de Apoyo a la Tenencia gozarán de una reducción en el impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro a su cargo, del noventa y nueve por ciento;
+
+VI. Las autoridades fiscales podrán restituir las cantidades pagadas por los particulares por concepto de derechos contenidos en la Ley de Hacienda del Estado de Querétaro, siempre y cuando:
+
+a) Los particulares hayan promovido un medio de defensa en materia de constitucionalidad, con motivo del pago de los derechos a que hace referencia el primer párrafo de esta fracción;
+
+b) El medio de defensa no haya sido extemporáneo;
+
+c) Las cantidades sujetas a restitución hayan sido efectivamente pagadas al fisco estatal; y
+
+d) El particular presente ante las autoridades jurisdiccionales competentes el escrito mediante el cual se desista del medio de defensa señalado en el inciso a) de esta fracción.
+
+Para efectos de lo anterior, previa opinión favorable de la Procuraduría Fiscal del Estado, se generará la orden de pago correspondiente.
+
+La restitución prevista en esta fracción podrá realizarse antes de que se dicte sentencia que ponga fin al medio de defensa mencionado;
+
+VII. Las tarjetas de circulación a que hace referencia el artículo 157 de la Ley de Hacienda del Estado de Querétaro, que hubiesen sido expedidas para los ejercicios fiscales 2013, 2014, 2015, 2016, 2017, 2018 y 2019 continuarán vigentes hasta el 31 de marzo de 2021.
+
+Para efectos de lo anterior, los contribuyentes, tenedores o usuarios de vehículos deberán realizar el pago del Impuesto Sobre Tenencia o Uso de Vehículos y los derechos correspondientes al ejercicio fiscal 2020, que contempla la referida ley.
+
+Los citados contribuyentes, tenedores o usuarios, para comprobar la vigencia de las tarjetas de circulación señaladas en el primer párrafo de esta fracción, ante las autoridades que así se lo requieran, exhibirán la representación impresa del comprobante fiscal digital respectivo;
+
+VIII. El impuesto sobre diversiones y espectáculos públicos a que se refiere el Capítulo Quinto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se reducirá en un 100%. En este caso, los contribuyentes no deberán cumplir con las obligaciones formales relativas a dicha contribución;
+
+IX. Los derechos previstos en los artículos 169 Bis y 169 Ter de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del Querétaro Centro de Congresos y Querétaro Teatro Metropolitano;
+
+X. Siempre que se trate de vivienda de interés social o popular, los derechos que de conformidad con la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente.
+
+b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos.
+
+c) La expedición de certificados de no propiedad;
+
+XI. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
+
+a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+c) Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate.
+
+Se causará un derecho a razón de 5 UMA por la inscripción del acto en el que conste la adquisición de vivienda de interés social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona;
+
+XII. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos.
+
+b) La inscripción de la escritura pública en la que conste la operación mediante la cual las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios.
+
+c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado;
+
+XIII. No se causarán los derechos previstos en la Ley de Hacienda del Estado de Querétaro, por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
+
+a) El acto en el que conste la reestructuración de los créditos señalados en el artículo 100 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicho Registro se encuentre la anotación del crédito inicial.
+
+b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas morales y personas físicas con actividad empresarial, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que los inmuebles adquiridos se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos.
+
+c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas morales y personas físicas con actividad empresarial, siempre que con ello se propicie el mantenimiento de empleos.
+
+d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes;
+
+XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial; y
+
+XV. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro y los Programas que se financien con dicho Fondo.
