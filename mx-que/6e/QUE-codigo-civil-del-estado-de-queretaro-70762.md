@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2019-06-30"
+last_updated: "2019-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "QUE"
 ---
 # CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, SE SUGIERE CONSULTAR EL ARTÍCULO TRANSITORIO CORRESPONDIENTE.]</small>
+[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, SE SUGIERE CONSULTAR EL ARTÍCULO TRANSITORIO CORRESPONDIENTE.]
+
+[NOTA 2. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE ELTEXTO DE LAS DISPOSICIONES REFORMADAS POR EL DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -1285,11 +1287,11 @@ No forman parte de la sociedad conyugal el salario de los esposos, pero sí los 
 
 Las capitulaciones matrimoniales en que se constituya la sociedad conyugal, constarán en escritura pública cuando los esposos pacten hacerse copartícipes o transferirse la propiedad de bienes que ameriten tal requisito para que la traslación sea válida.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 173.
 
-En este caso, la modificación que se haga de las capitulaciones deberá también otorgarse en escritura pública, haciendo la respectiva anotación en el protocolo en que se otorgaron las primitivas capitulaciones y en el Instituto de la Función Registral del Estado de Querétaro. Sin llenar estos requisitos, las alteraciones no producirán efectos contra tercero.
+En este caso, la modificación que se haga de las capitulaciones deberá también otorgarse en escritura pública, haciendo la respectiva anotación en el protocolo en que se otorgaron las primitivas capitulaciones y en el Registro Público de la Propiedad y del Comercio. Sin llenar estos requisitos, las alteraciones no producirán efectos contra tercero.
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2018)</small>
 
@@ -1387,9 +1389,9 @@ La sociedad conyugal termina por disolución del matrimonio, por voluntad de uno
 
 La autorización para el cambio de régimen y para que se proceda a la liquidación de los bienes comunes, debe solicitarse al Juez del domicilio de los cónyuges.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-La declaración que modifica el régimen patrimonial se mandará inscribir oficiosamente en el Instituto de la Función Registral del Estado de Querétaro para que surta efectos contra tercero. Así como ante el Registro Civil que corresponda.
+La declaración que modifica el régimen patrimonial se mandará inscribir oficiosamente en el Registro Público de la Propiedad y del Comercio para que surta efectos contra tercero. Así como ante el Registro Civil que corresponda.
 
 ###### Artículo 185.
 
@@ -4729,27 +4731,25 @@ IV. Que son propiedad del constituyente, los bienes destinados al patrimonio y q
 
 V. Que el valor de los bienes que van a constituir el patrimonio no exceda del fijado para tal efecto. Este valor se comprobará por certificación de la Dirección de Catastro, por factura de casa comercial, juicio de peritos o por avalúo de perito autorizado en el Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### Artículo 729 Bis.
 
-Cuando se opte por la constitución del patrimonio de la familia ante Notario Público, el interesado acudirá con el fedatario público de su elección, dentro de la demarcación notarial en la que se ubique la casa habitación que formará parte de dicho patrimonio, haciéndole saber con toda precisión y de manera que puedan ser inscritos en el Instituto de la Función Registral del Estado de Querétaro, los bienes que van a quedar afectados.
-
-> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2017)</small>
+Cuando se opte por la constitución del patrimonio de la familia ante Notario Público, el interesado acudirá con el fedatario público de su elección, dentro de la demarcación notarial en la que se ubique la casa habitación que formará parte de dicho patrimonio, haciéndole saber con toda precisión y de manera que puedan ser inscritos en el Registro Público de la Propiedad y del Comercio, los bienes que van a quedar afectados.
 
 Además, entregará al Notario los documentos que comprueben lo dispuesto en el artículo anterior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### Artículo 729 Ter.
 
-Si se acreditan las condiciones exigidas en el artículo 729, el Notario Público dará trámite a la constitución del patrimonio de la familia y efectuará, por cuenta y a cargo del constituyente, la publicación por una sola vez en dos periódicos locales de mayor circulación en la Entidad, en donde se dé aviso de la constitución del patrimonio de la familia. Realizado lo anterior y pasados diez días hábiles de la publicación, expedirá el testimonio para que con su inscripción se hagan las anotaciones correspondientes en el Instituto de la Función Registral del Estado de Querétaro.
-
-> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2017)</small>
+Si se acreditan las condiciones exigidas en el artículo 729, el Notario Público dará trámite a la constitución del patrimonio de la familia y efectuará, por cuenta y a cargo del constituyente, la publicación por una sola vez en dos periódicos locales de mayor circulación en la Entidad, en donde se dé aviso de la constitución del patrimonio de la familia. Realizado lo anterior y pasados diez días hábiles de la publicación, expedirá el testimonio para que con su inscripción se hagan las anotaciones correspondientes en el Registro Público de la Propiedad y del Comercio.
 
 Si de las publicaciones realizadas apareciere algún acreedor del solicitante o tercero jurídicamente interesado que se opusiere a la constitución del patrimonio de la familia, el Notario suspenderá el trámite.
-
-> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2017)</small>
 
 De ocurrir lo anterior, la constitución deberá realizarse necesariamente en la vía judicial.
 
@@ -4823,11 +4823,11 @@ El Ministerio Público será oído en la extinción y en la reducción del patri
 
 Extinguido el patrimonio de la familia, los bienes que lo formaban vuelven al pleno dominio del que lo constituyó o pasan a sus herederos si aquel ha muerto.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 741.
 
-Las certificaciones de autoridades administrativas, así como las anotaciones y el registro que haga la oficina del Instituto de la Función Registral del Estado de Querétaro con motivo de la constitución, incremento, disminución o extinción del patrimonio de la familia, serán hechas sin costo alguno para el interesado.
+Las certificaciones de autoridades administrativas, así como las anotaciones y el registro que haga la oficina del Registro Público de la Propiedad y del Comercio con motivo de la constitución, incremento, disminución o extinción del patrimonio de la familia, serán hechas sin costo alguno para el interesado.
 
 # Libro Segundo. De los bienes
 
@@ -5221,11 +5221,11 @@ Posesión pacífica es la que se adquiere sin violencia.
 
 Posesión continua es la que no se ha interrumpido por alguno de los medios enumerados en el Capítulo Quinto del Título Séptimo de este Libro.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 821.
 
-Posesión pública es la que se disfruta de manera que pueda ser conocida de todos. También lo es la que está inscrita en el Instituto de la Función Registral del Estado de Querétaro.
+Posesión pública es la que se disfruta de manera que pueda ser conocida de todos. También lo es la que esta inscrita en el Registro Público de la Propiedad y del Comercio.
 
 ###### Artículo 822.
 
@@ -5901,11 +5901,11 @@ Las enajenaciones hechas por herederos o legatarios de la parte de herencia que 
 
 La copropiedad cesa: por la división de la cosa común; por la destrucción o pérdida de ella; por su enajenación y por la consolidación o reunión de todas las partes alícuotas en un solo copropietario.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 968.
 
-La división de una cosa común no perjudica a tercero, el cual conserva los derechos reales que le pertenecen desde antes de hacerse la partición, observándose, en su caso, lo dispuesto para hipotecas que graven fincas susceptibles de ser fraccionadas y lo prevenido para el adquirente de buena fe que inscribe su título en el Instituto de la Función Registral del Estado de Querétaro.
+La división de una cosa común no perjudica a tercero, el cual conserva los derechos reales que le pertenecen desde antes de hacerse la partición, observándose, en su caso, lo dispuesto para hipotecas que graven fincas susceptibles de ser fraccionadas y lo prevenido para el adquirente de buena fe que inscribe su título en el Registro Público de la Propiedad y del Comercio.
 
 ###### Artículo 969.
 
@@ -7961,11 +7961,11 @@ La violación de lo dispuesto en la fracción I, será sancionada con multa de c
 
 Si la violación es de lo dispuesto en la fracción II, la multa será de cinco a diez veces el salario mínimo general diario vigente en la zona, misma que se duplicará si el infractor fuere notario o funcionario público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 1401.
 
-Siempre que se otorgue un testamento ante notario público, éste deberá formular un aviso de testamento al Instituto de la Función Registral del Estado de Querétaro, quien, a su vez, remitirá tal aviso al Registro Nacional de Avisos de Testamento, por vía electrónica, con los datos conducentes.
+Siempre que se otorgue un testamento ante notario público, éste deberá formular un aviso de testamento al Registro Público de la Propiedad y del Comercio, quien, a su vez, remitirá tal aviso al Registro Nacional de Avisos de Testamento, por vía electrónica, con los datos conducentes.
 
 Asimismo, el notario que hubiere autorizado el testamento, debe dar aviso a los interesados luego que sepa la muerte del testador. Si no lo hace, será responsable de los daños y perjuicios que la dilación ocasione.
 
@@ -8159,35 +8159,35 @@ Si contuviere palabras, tachadas enmendadas o entre renglones, las salvará el t
 
 La omisión de esta formalidad por el testador, sólo afecta a la validez de las palabras tachadas, enmendadas o entre renglones, pero no al testamento mismo.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 1446.
 
-El testador hará por duplicado su testamento e imprimirá en cada ejemplar su huella digital. El original, dentro de un sobre cerrado y lacrado, será depositado en la sección correspondiente del Instituto de la Función Registral del Estado de Querétaro y el duplicado, también encerrado en un sobre lacrado y con la nota en la cubierta, de que se hablará después, será devuelto al testador. Éste, podrá poner en los sobres que contengan los testamentos los sellos, señales o marcas que estime necesarios para evitar violaciones.
+El testador hará por duplicado su testamento e imprimirá en cada ejemplar su huella digital. El original, dentro de un sobre cerrado y lacrado, será depositado en la sección correspondiente del Registro Público de la Propiedad y del Comercio y el duplicado, también encerrado en un sobre lacrado y con la nota en la cubierta, de que se hablará después, será devuelto al testador. Éste, podrá poner en los sobres que contengan los testamentos los sellos, señales o marcas que estime necesarios para evitar violaciones.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 1447.
 
-El depósito en el Instituto de la Función Registral del Estado de Querétaro, se hará personalmente por el testador, quién, si no es conocido del encargado de la oficina, debe presentar dos testigos que lo identifiquen. En el sobre que contenga el testamento original, el testador, de su puño y letra, pondrá la siguiente constancia: "Dentro de este sobre se contiene mi testamento". A continuación se expresará el lugar y la fecha en que se hace el depósito. La constancia será firmada por el testador y por el encargado de la oficina. En caso de que intervengan testigos de identificación, también firmarán.
+El depósito en el Registro Público de referencia, se hará personalmente por el testador, quién, si no es conocido del encargado de la oficina, debe presentar dos testigos que lo identifiquen. En el sobre que contenga el testamento original, el testador, de su puño y letra, pondrá la siguiente constancia: “Dentro de este sobre se contiene mi testamento”. A continuación se expresará el lugar y la fecha en que se hace el depósito. La constancia será firmada por el testador y por el encargado de la oficina. En caso de que intervengan testigos de identificación, también firmarán.
 
 ###### Artículo 1448.
 
 En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia extendida por el encargado de la oficina: "Recibí el pliego cerrado que...................., afirma contiene el original de su testamento ológrafo y del cual, según afirmación de la misma persona, existe dentro de este sobre un duplicado”. Se pondrá luego el lugar y la fecha en que se extiende la constancia, que será firmada por el encargado de la oficina, poniéndose también al calce la firma del testador y de los testigos de identificación, cuando intervengan.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 1449.
 
-Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en las oficinas del Instituto de la Función Registral del Estado de Querétaro, el encargado de ellas deberá concurrir al lugar donde aquel se encontrare, para cumplir las formalidades del depósito.
+Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en las oficinas del Registro Público de la Propiedad y del Comercio, el encargado de ellas deberá concurrir al lugar donde aquel se encontrare, para cumplir las formalidades del depósito.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 1450.
 
-Hecho el depósito, el encargado del Instituto tomará razón de él en el libro respectivo y remitirá, vía electrónica, al Registro Nacional de Avisos de Testamento el aviso de su depósito, con los datos conducentes, a fin de que el testamento pueda ser identificado y conservará el original bajo su directa responsabilidad hasta que proceda hacer su entrega al mismo testador o al juez competente.
+Hecho el depósito, el encargado del Registro tomará razón de él en el libro respectivo y remitirá, vía electrónica, al Registro Nacional de Avisos de Testamento el aviso de su depósito, con los datos conducentes, a fin de que el testamento pueda ser identificado y conservará el original bajo su directa responsabilidad hasta que proceda hacer su entrega al mismo testador o al juez competente.
 
-Los testamentos ológrafos no producirán efecto si no son depositados en el Instituto de la Función Registral del Estado de Querétaro.
+Los testamentos ológrafos no producirán efecto si no son depositados en el Registro Público de la Propiedad y del Comercio.
 
 ###### Artículo 1451.
 
@@ -8213,11 +8213,11 @@ Sólo cuando el original depositado haya sido destruido o robado, se tendrá com
 
 El testamento ológrafo quedará sin efecto cuando el original o el duplicado, en su caso, estuvieren rotos o el sobre que los cubre resultare abierto o las firmas que los autoricen aparecieren borradas, rapadas o con enmendaduras, aún cuando el contenido del testamento no sea vicioso.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 1457.
 
-El encargado del Instituto de la Función Registral del Estado de Querétaro no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador o a los jueces competentes que oficialmente se los pidan.
+El encargado del Registro Público de la Propiedad y del Comercio no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador o a los jueces competentes que oficialmente se los pidan.
 
 ### Capítulo Quinto. Del testamento privado
 
@@ -10071,11 +10071,11 @@ En las obligaciones a plazo, el perjudicado no podrá reclamar el cumplimiento s
 
 Al declararse la resolución, las partes deberán restituirse aquello que se hubieren entregado mutuamente al contratarse la obligación.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 1836.
 
-La resolución del contrato, fundada en falta de pago por parte del adquirente de la propiedad de bienes inmuebles u otro derecho real sobre los mismos, no surtirá efecto contra tercero de buena fe, si no se ha estipulado expresamente y ha sido inscrito en el Instituto de la Función Registral del Estado de Querétaro, en la forma prevista por la ley.
+La resolución del contrato, fundada en falta de pago por parte del adquirente de la propiedad de bienes inmuebles u otro derecho real sobre los mismos, no surtirá efecto contra tercero de buena fe, si no se ha estipulado expresamente y ha sido inscrito en el Registro Público de la Propiedad y del Comercio, en la forma prevista por la ley.
 
 ###### Artículo 1837.
 
@@ -10371,11 +10371,11 @@ El acreedor de cosa cierta no puede ser obligado a recibir otra, aun cuando sea 
 
 La obligación de dar cosa cierta comprende también la de entregar sus accesorios, salvo que lo contrario resulte del título de la obligación o de las circunstancias del caso.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 1900.
 
-En las enajenaciones de cosas ciertas y determinadas, la traslación de la propiedad se verifica entre los contratantes, por mero efecto del contrato, sin dependencia de tradición, ya sea natural, ya sea simbólica, debiendo tenerse en cuenta las disposiciones relativas del Instituto de la Función Registral del Estado de Querétaro.
+En las enajenaciones de cosas ciertas y determinadas, la traslación de la propiedad se verifica entre los contratantes, por mero efecto del contrato, sin dependencia de tradición, ya sea natural, ya sea simbólica, debiendo tenerse en cuenta las disposiciones relativas del Registro Público de la Propiedad y del Comercio.
 
 ###### Artículo 1901.
 
@@ -10499,15 +10499,15 @@ La cesión de créditos civiles que no sean a la orden o al portador puede hacer
 
 La cesión de créditos que no sean a la orden o al portador, no produce efectos contra tercero sino desde que su fecha deba tenerse por cierta, conforme a las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-I. Si tiene por objeto un crédito que deba inscribirse, desde la fecha de su inscripción en el Instituto de la Función Registral del Estado de Querétaro;
+I. Si tiene por objeto un crédito que deba inscribirse, desde la fecha de su inscripción en el Registro Público de la Propiedad y del Comercio;
 
 II. Si se hace en escritura pública, desde la fecha de su otorgamiento; y
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-III. Si se trata de un documento privado, desde el día en que se haya incorporado o inscrito en el mencionado Instituto de la Función Registral; desde que haya muerto o se haya imposibilitado para escribir alguna de las personas que aparezcan firmándolo; desde que haya sido entregado a un funcionario público por razón de su oficio o desde aquella fecha en que, por otros medios y que no sean sólo declaraciones de testigos, se demuestre que ya se había otorgado el documento en cuestión.
+III. Si se trata de un documento privado, desde el día en que se haya incorporado o inscrito en el mencionado Registro Público; desde que haya muerto o se haya imposibilitado para escribir alguna de las personas que aparezcan firmándolo; desde que haya sido entregado a un funcionario público por razón de su oficio o desde aquella fecha en que, por otros medios y que no sean sólo declaraciones de testigos, se demuestre que ya se había otorgado el documento en cuestión.
 
 ###### Artículo 1921.
 
@@ -11581,11 +11581,11 @@ Las ventas al menudeo de bebidas embriagantes, hechas al fiado en cantinas, no d
 
 Ninguno puede vender sino lo que es de su propiedad.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2156.
 
-La venta de cosa ajena es nula y el vendedor es responsable de los daños y perjuicios si procede con dolo o mala fe, debiendo tenerse en cuenta lo que se dispone en el título relativo al Instituto de la Función Registral del Estado de Querétaro para los adquirentes de buena fe.
+La venta de cosa ajena es nula y el vendedor es responsable de los daños y perjuicios si procede con dolo o mala fe, debiendo tenerse en cuenta lo que se dispone en el título relativo al Registro Público de la Propiedad y del Comercio para los adquirentes de buena fe.
 
 ###### Artículo 2157.
 
@@ -11783,13 +11783,13 @@ Si se venden cosas futuras, tomando el comprador el riesgo de que no llegasen a 
 
 La venta que se haga facultando al comprador para que pague el precio en abonos, se sujetará a las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-I. Si la venta es de bienes inmuebles, puede pactarse que la falta de pago de uno o de varios abonos ocasionará la rescisión del contrato. La rescisión producirá efectos contra tercero que hubiere adquirido los bienes de que se trata, siempre que la cláusula rescisoria se haya inscrito en el Instituto de la Función Registral del Estado de Querétaro;
+I. Si la venta es de bienes inmuebles, puede pactarse que la falta de pago de uno o de varios abonos ocasionará la rescisión del contrato. La rescisión producirá efectos contra tercero que hubiere adquirido los bienes de que se trata, siempre que la cláusula rescisoria se haya inscrito en el Registro Público de la Propiedad y del Comercio;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-II. Si se trata de bienes muebles, tales como automóviles, motores, pianos, máquinas de coser u otros que sean susceptibles de identificarse de manera indubitable, podrá también pactarse la cláusula rescisoria de que habla la fracción anterior y esa cláusula producirá efectos contra tercero que haya adquirido los bienes, si se inscribió en el Instituto de la Función Registral del Estado de Querétaro; y
+II. Si se trata de bienes muebles, tales como automóviles, motores, pianos, máquinas de coser u otros que sean susceptibles de identificarse de manera indubitable, podrá también pactarse la cláusula rescisoria de que habla la fracción anterior y esa cláusula producirá efectos contra tercero que haya adquirido los bienes, si se inscribió en el Registro Público de la Propiedad y del Comercio; y
 
 III. Si se trata de bienes muebles que no sean susceptibles de identificarse indubitablemente y que, por lo mismo, su venta no puede registrarse, los contratantes podrán pactar la rescisión de la venta por falta de pago del precio, pero esa cláusula no producirá efectos contra tercero de buena fe que hubiere adquirido los bienes a que esta fracción se refiere.
 
@@ -11805,9 +11805,9 @@ Las convenciones que impongan al comprador obligaciones más onerosas que las ex
 
 Puede pactarse válidamente que el vendedor se reserve la propiedad de la cosa vendida hasta que su precio haya sido pagado.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-Cuando los bienes vendidos sean inmuebles o muebles que puedan identificarse de manera indubitable, el pacto de que se trata produce efectos contra tercero, si se inscribe en el Instituto de la Función Registral del Estado de Querétaro; pero si son muebles que no puedan identificarse indubitablemente y la venta no pueda registrarse, el pacto no surtirá efectos contra los terceros que adquieran de buena fe.
+Cuando los bienes vendidos sean inmuebles o muebles que puedan identificarse de manera indubitable, el pacto de que se trata produce efectos contra tercero, si se inscribe en el Registro Público de la Propiedad y del Comercio; pero si son muebles que no puedan identificarse indubitablemente y la venta no pueda registrarse, el pacto no surtirá efectos contra los terceros que adquieran de buena fe.
 
 ###### Artículo 2198.
 
@@ -11835,21 +11835,21 @@ La venta de un inmueble que tenga un valor hasta de quinientas veces el salario 
 
 Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, imprimiendo su huella digital el contratante que no firmó.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2204.
 
-De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Instituto de la Función Registral del Estado de Querétaro.
+De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público de la Propiedad y del Comercio.
 
 ###### Artículo 2205.
 
 Si el valor del inmueble excede de quinientas veces el salario mínimo general diario vigente en la zona, su venta se hará en escritura pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2206.
 
-Tratándose de bienes ya inscritos en el Instituto de la Función Registral del Estado de Querétaro, cuyo valor no exceda de quinientas veces el salario mínimo general diario vigente en la zona, cuando la venta sea al contado puede hacerse transmitiendo el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor están inscritos los bienes.
+Tratándose de bienes ya inscritos en el Registro Público en cita, cuyo valor no exceda de quinientas veces el salario mínimo general diario vigente en la zona, cuando la venta sea al contado puede hacerse transmitiendo el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor están inscritos los bienes.
 
 El endoso será ratificado ante el registrador, quien tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas; previa comprobación de que están cubiertos los impuestos correspondientes a la compraventa realizada en esta forma, hará una nueva inscripción de los bienes vendidos, en favor del comprador.
 
@@ -12469,9 +12469,9 @@ El arrendatario que por causa de reparaciones pierda el uso total o parcial de l
 
 Si la misma cosa se ha dado en arrendamiento separadamente a dos o más personas y por el mismo tiempo, prevalecerá el arrendamiento primero en fecha; si no fuere posible verificar la prioridad de ésta, valdrá el arrendamiento del que tiene en su poder la cosa arrendada.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-Si el arrendamiento debe ser inscrito en el Instituto de la Función Registral del Estado de Querétaro, sólo vale el inscrito.
+Si el arrendamiento debe ser inscrito en el Registro Público de la Propiedad y del Comercio, sólo vale el inscrito.
 
 ###### Artículo 2338.
 
@@ -12997,9 +12997,9 @@ II. En escrito privado, firmado por el otorgante y dos testigos, ratificadas las
 
 III. En carta poder sin ratificación de firmas.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-El Instituto de la Función Registral del Estado de Querétaro, al proceder a la inscripción de la escritura pública que contenga mandato, deberá dar aviso del mismo ante el Registro Nacional de Avisos de Poderes Notariales.
+El Registro Público de la Propiedad y del Comercio, al proceder a la inscripción de la escritura pública que contenga mandato, deberá dar aviso del mismo ante el Registro Nacional de Avisos de Poderes Notariales.
 
 ###### Artículo 2448.
 
@@ -13635,11 +13635,11 @@ El contrato por el que se constituya una asociación debe constar por escrito.
 
 La asociación puede admitir y excluir asociados.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2573.
 
-Las asociaciones se regirán por sus estatutos, los que deberán ser inscritos en el Instituto de la Función Registral del Estado de Querétaro para que produzcan efectos contra tercero.
+Las asociaciones se regirán por sus estatutos, los que deberán ser inscritos en el Registro Público de la Propiedad y del Comercio para que produzcan efectos contra tercero.
 
 ###### Artículo 2574.
 
@@ -13759,11 +13759,11 @@ IV. El importe del capital social y la aportación con que cada socio debe contr
 
 Si falta alguno de estos requisitos, los socios podrán pedir la liquidación de la sociedad.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2594.
 
-El contrato de sociedad debe inscribirse en el Registro de Sociedades Civiles, dependiente del Instituto de la Función Registral del Estado de Querétaro, para que produzca efectos contra tercero.
+El contrato de sociedad debe inscribirse en el Registro de Sociedades Civiles, dependiente del Registro Público de la Propiedad y del Comercio, para que produzca efectos contra tercero.
 
 ###### Artículo 2595.
 
@@ -13897,9 +13897,9 @@ VI. Por la renuncia de uno de los socios, cuando se trate de sociedades de durac
 
 VII. Por resolución judicial.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-Para que la disolución de la sociedad surta efecto contra tercero, es necesario que se haga constar en el Registro de Sociedades Civiles, dependiente del Instituto de la Función Registral del Estado de Querétaro.
+Para que la disolución de la sociedad surta efecto contra tercero, es necesario que se haga constar en el Registro de Sociedades Civiles, dependiente del Registro Público de la Propiedad y del Comercio.
 
 ###### Artículo 2621.
 
@@ -14517,45 +14517,45 @@ Si la fianza se ha otorgado por tiempo indeterminado, tiene derecho el fiador, c
 
 ### Capítulo Sexto. De la fianza legal o judicial
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2749.
 
-El fiador que haya de darse por disposición de la ley o de providencia judicial, excepto cuando el fiador sea una institución de crédito, debe tener bienes inmuebles inscritos en el Instituto de la Función Registral del Estado de Querétaro, de un valor que garantice suficientemente las obligaciones que contraiga.
+El fiador que haya de darse por disposición de la ley o de providencia judicial, excepto cuando el fiador sea una institución de crédito, debe tener bienes inmuebles inscritos en el Registro Público de la Propiedad y del Comercio, de un valor que garantice suficientemente las obligaciones que contraiga.
 
 Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de quinientas veces el salario mínimo general diario vigente en la zona, no se exigirá que el fiador tenga bienes inmuebles.
 
 La fianza puede substituirse con prenda o hipoteca.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2750.
 
-Para otorgar una fianza legal o judicial por más de quinientas veces el salario mínimo general diario vigente en la zona, se presentará un certificado expedido por el encargado del Instituto de la Función Registral del Estado de Querétaro, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación que garantice.
+Para otorgar una fianza legal o judicial por más de quinientas veces el salario mínimo general diario vigente en la zona, se presentará un certificado expedido por el encargado del Registro Público de la Propiedad y del Comercio, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación que garantice.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2751.
 
-La persona ante quién se otorgue la fianza, dentro del plazo de tres días, dará aviso del otorgamiento al Instituto de la Función Registral del Estado de Querétaro en cita, para que al margen de la inscripción de propiedad correspondiente al bien inmueble que se designó para comprobar la solvencia del fiador, se ponga nota relativa al otorgamiento de la fianza.
+La persona ante quién se otorgue la fianza, dentro del plazo de tres días, dará aviso del otorgamiento al Registro Público de la Propiedad y del Comercio en cita, para que al margen de la inscripción de propiedad correspondiente al bien inmueble que se designó para comprobar la solvencia del fiador, se ponga nota relativa al otorgamiento de la fianza.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-Extinguida ésta, dentro del plazo de tres días, se dará aviso al Instituto de la Función Registral del Estado de Querétaro, para que haga la cancelación de la nota marginal.
+Extinguida ésta, dentro del plazo de tres días, se dará aviso al Registro Público en cuestión, para que haga la cancelación de la nota marginal.
 
 La falta de avisos hace responsable al que debe darlos, de los daños y perjuicios que su omisión origine.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2752.
 
-En los certificados de gravamen que se expidan en el mencionado Instituto de la Función Registral del Estado de Querétaro, se harán figurar las notas marginales de que habla el artículo anterior.
+En los certificados de gravamen que se expidan en el mencionado Registro Público, se harán figurar las notas marginales de que habla el artículo anterior.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2753.
 
-Si el fiador enajena o grava los bienes inmuebles cuyas inscripciones de propiedad están anotadas en el Instituto de la Función Registral del Estado de Querétaro y de las operaciones resulta la insolvencia del fiador, el nuevo adquirente o acreedor responderá de la fianza otorgada hasta el monto del valor del bien cuya inscripción de propiedad fue anotada.
+Si el fiador enajena o grava los bienes inmuebles cuyas inscripciones de propiedad están anotadas en el Registro Público de la Propiedad y del Comercio y de las operaciones resulta la insolvencia del fiador, el nuevo adquirente o acreedor responderá de la fianza otorgada hasta el monto del valor del bien cuya inscripción de propiedad fue anotada.
 
 ###### Artículo 2754.
 
@@ -14569,11 +14569,11 @@ De la prenda
 
 La prenda es un derecho real constituido sobre un bien mueble enajenable, para garantizar el cumplimiento de una obligación y su preferencia en el pago.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2756.
 
-También pueden darse en prenda los frutos pendientes de los bienes raíces, que deben ser recogidos en tiempo determinado. Para que esta prenda surta sus efectos contra tercero, necesitará inscribirse en el Instituto de la Función Registral del Estado de Querétaro a que corresponda la finca respectiva.
+También pueden darse en prenda los frutos pendientes de los bienes raíces, que deben ser recogidos en tiempo determinado. Para que esta prenda surta sus efectos contra tercero, necesitará inscribirse en el Registro Público de la Propiedad y del Comercio a que corresponda la finca respectiva.
 
 El que dé los frutos en prenda se considerará como depositario de ellos, salvo convenio en contrario.
 
@@ -14581,11 +14581,11 @@ El que dé los frutos en prenda se considerará como depositario de ellos, salvo
 
 Para que se tenga por constituida la prenda, deberá ser entregada al acreedor, real o jurídicamente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2758.
 
-Se entiende entregada jurídicamente la prenda al acreedor, cuando éste y el deudor convienen en que quede en poder de un tercero, o bien, cuando quede en poder del mismo deudor, porque así lo haya estipulado con el acreedor o expresamente lo autorice la ley. En estos dos últimos casos, para que el contrato de prenda produzca efectos contra tercero, debe inscribirse en el Instituto de la Función Registral del Estado de Querétaro.
+Se entiende entregada jurídicamente la prenda al acreedor, cuando éste y el deudor convienen en que quede en poder de un tercero, o bien, cuando quede en poder del mismo deudor, porque así lo haya estipulado con el acreedor o expresamente lo autorice la ley. En estos dos últimos casos, para que el contrato de prenda produzca efectos contra tercero, debe inscribirse en el Registro Público de la Propiedad y del Comercio.
 
 El deudor puede usar de la prenda que quede en su poder, en los términos que convengan las partes.
 
@@ -14595,11 +14595,11 @@ El contrato de prenda debe constar por escrito. Si se otorga en documento privad
 
 No surtirá efecto la prenda contra tercero, si no consta la certeza de la fecha por el registro, escritura pública o de alguna otra manera fehaciente.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2760.
 
-Cuando la cosa dada en prenda sea un título de crédito que legalmente deba constar en el Instituto de la Función Registral del Estado de Querétaro, no surtirá efecto contra tercero el derecho de prenda sino desde que se inscriba en dicho Instituto.
+Cuando la cosa dada en prenda sea un título de crédito que legalmente deba constar en el Registro Público de la Propiedad y del Comercio, no surtirá efecto contra tercero el derecho de prenda sino desde que se inscriba en dicho Registro.
 
 ###### Artículo 2761.
 
@@ -14855,11 +14855,11 @@ Cuando una finca hipotecada susceptible de ser fraccionada convenientemente se d
 
 Sin consentimiento del acreedor, el propietario del predio hipotecado no puede darlo en arrendamiento, ni pactar pago anticipado de rentas por un plazo que exceda a la duración de la hipoteca, bajo la pena de nulidad del contrato en la parte que exceda de la expresada duración. Si la hipoteca no tiene plazo cierto, no podrá estipularse anticipo de rentas, ni arrendamiento por más de un año.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2814.
 
-La hipoteca constituida a favor de un crédito que devengue intereses, no garantiza en perjuicio de tercero, además del capital, sino los intereses de tres años, a menos que se haya pactado expresamente que garantizará los intereses por más tiempo, con tal que no exceda del plazo para la prescripción de los intereses y de que se haya tomado razón de esta estipulación en el Instituto de la Función Registral del Estado de Querétaro.
+La hipoteca constituida a favor de un crédito que devengue intereses, no garantiza en perjuicio de tercero, además del capital, sino los intereses de tres años, a menos que se haya pactado expresamente que garantizará los intereses por más tiempo, con tal que no exceda del plazo para la prescripción de los intereses y de que se haya tomado razón de esta estipulación en el Registro Público de la Propiedad y del Comercio.
 
 ###### Artículo 2815.
 
@@ -14889,11 +14889,11 @@ Son hipotecas voluntarias, las convenidas entre partes o impuestas por disposici
 
 La hipoteca constituida para la seguridad de una obligación futura o sujeta a condiciones suspensivas inscritas, surtirá efecto contra tercero desde su inscripción, si la obligación llega a realizarse o la condición a cumplirse.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2821.
 
-Si la obligación asegurada estuviese sujeta a condición resolutoria inscrita, la hipoteca no dejará de surtir su efecto respecto de tercero, sino desde que se haga constar en el Instituto de la Función Registral del Estado de Querétaro, el cumplimiento de la condición.
+Si la obligación asegurada estuviese sujeta a condición resolutoria inscrita, la hipoteca no dejará de surtir su efecto respecto de tercero, sino desde que se haga constar en el Registro Público de la Propiedad y del Comercio, el cumplimiento de la condición.
 
 ###### Artículo 2822.
 
@@ -14909,17 +14909,17 @@ Si alguno de los interesados se niega a firmar dicha solicitud, acudirá el otro
 
 Todo hecho o convenio entre las partes que pudiere modificar o destruir la eficacia de una obligación hipotecaria anterior, no surtirá efecto contra tercero si no se hace constar en el mencionado Registro, por medio de una inscripción nueva, de una cancelación total o parcial o de una nota marginal, según los casos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2825.
 
-El crédito puede cederse, en todo o en nada, siempre que la cesión se haga en la forma que para la constitución de la hipoteca previene el artículo 2817, se dé conocimiento al deudor y sea inscrita en el Instituto de la Función Registral del Estado de Querétaro.
+El crédito puede cederse, en todo o en nada, siempre que la cesión se haga en la forma que para la constitución de la hipoteca previene el artículo 2817, se dé conocimiento al deudor y sea inscrita en el Registro Público de la Propiedad y del Comercio.
 
 Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituida para garantizar obligaciones al portador, se transmitirá por la simple entrega del título y sin ningún otro requisito.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-Las instituciones del sistema bancario mexicano, actuando en nombre propio o como fiduciarias, las demás entidades financieras y los institutos de seguridad social, podrán ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, de escritura pública, ni de inscripción en el Instituto en cita, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
+Las instituciones del sistema bancario mexicano, actuando en nombre propio o como fiduciarias, las demás entidades financieras y los institutos de seguridad social, podrán ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, de escritura pública, ni de inscripción en el Registro en cita, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
 
 En los supuestos previstos en los dos párrafos anteriores, la inscripción de la hipoteca a favor del acreedor original, se considerará hecha a favor del o los cesionarios referidos en tales párrafos, quienes tendrán todos los derechos y acciones derivadas de ésta, en las mismas condiciones pactadas originalmente.
 
@@ -15303,9 +15303,9 @@ VIII. El crédito que provenga del precio de los bienes vendidos y no pagados, c
 
 Tratándose de bienes muebles, cesará la preferencia si hubieren sido inmovilizados; y
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-IX. Los créditos anotados en el Instituto de la Función Registral del Estado de Querétaro, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre dichos bienes, solamente en cuanto a créditos posteriores.
+IX. Los créditos anotados en el Registro Público de la Propiedad y del Comercio, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre dichos bienes, solamente en cuanto a créditos posteriores.
 
 ### Capítulo Cuarto. Acreedores de primera clase
 
@@ -15353,45 +15353,43 @@ Pagados los créditos enumerados en los capítulos que preceden, se pagarán los
 
 Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas, ni al origen de los créditos.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA DENOMINACIÓN DEL PRESENTE TÍTULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-## Título Segundo. Instituto de la Función Registral del Estado de Querétaro
+## Título Segundo. Del Registro Público de la Propiedad y del Comercio
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA DENOMINACIÓN DEL PRESENTE CAPÍTULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-### Capítulo Primero. De las oficinas del Instituto de la Función Registral del Estado de Querétaro
+### Capítulo Primero. De las oficinas del Registro Público de la Propiedad y del Comercio
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2898.
 
-Para efectos del presente Capítulo, el Instituto de la Función Registral del Estado de Querétaro se denominará, en lo subsecuente, como Instituto de la Función Registral. Sus oficinas se establecerán en las poblaciones que determinen las disposiciones reglamentarias aplicables.
+Para efectos del presente Capítulo, el Registro Público de la Propiedad y del Comercio se denominará, en lo subsecuente, como Registro Público. Sus oficinas se establecerán en las poblaciones que determine el Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2899.
 
-El Instituto de la Función Registral funcionará conforme al sistema y métodos que determine su reglamento, teniendo como funciones el dirigir y administrar la función del registro público de la propiedad y el comercio, así como dirigir y administrar la función de archivo general de notarías. El Reglamento fijará el número de secciones o divisiones de que se componga la oficina y en donde deban registrarse los títulos susceptibles de inscripción, así como los requisitos necesarios para desempeñar los cargos que requiere el funcionamiento de dicho Instituto.
+El Registro Público funcionará conforme al sistema y métodos que determine su reglamento, el cual fijará el número de secciones o divisiones de que se componga la oficina y en donde deban registrarse los títulos susceptibles de inscripción, así como los requisitos necesarios para desempeñar los cargos que requiere el funcionamiento de dicho Registro Público.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2900.
 
-La función de registro público de la propiedad y del comercio del Instituto de la Función Registral será pública. Los encargados de ésta, tienen la obligación de permitir a las personas que lo soliciten, que se enteren de los asientos que obren en los folios o libros del Instituto de la Función Registral y de los documentos relacionados con los mismos, que estén archivados. También tienen la obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros y folios del Instituto, así como certificaciones de existir o no anotaciones relativas a los bienes señalados o a cargo de ciertas personas.
+La institución será pública. Los encargados de ésta, tienen la obligación de permitir a las personas que lo soliciten, que se enteren de los asientos que obren en los folios o libros del Registro Público y de los documentos relacionados con los mismos, que estén archivados. También tienen la obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros y folios del Registro, así como certificaciones de existir o no anotaciones relativas a los bienes señalados o a cargo de ciertas personas.
 
-Tratándose de testamentos, el Instituto de la Función Registral deberá remitir, vía electrónica, al Registro Nacional de Avisos de Testamento, el aviso de su depósito, con los datos conducentes.
+Tratándose de testamentos, el Registro Público deberá remitir, vía electrónica, al Registro Nacional de Avisos de Testamento, el aviso de su depósito, con los datos conducentes.
 
-Cualquier consulta, trámite o solicitud que las autoridades locales o los habitantes en el Estado requieran hacer al Registro Nacional de Avisos de Testamento, se hará por conducto del Instituto de la Función Registral.
-
-Para los testamentos ológrafos depositados en el Instituto de la Función Registral, se observará lo dispuesto en el artículo 1457.
+Cualquier consulta, trámite o solicitud que las autoridades locales o los habitantes en el Estado requieran hacer al Registro Nacional de Avisos de Testamento, se hará por conducto del Registro Público de la Propiedad y del Comercio. Para los testamentos ológrafos depositados en el Registro Público, se observará lo dispuesto en el artículo 1457.
 
 ### Capítulo Segundo. Los títulos sujetos a registro De los efectos legales del registro
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2901.
 
-Se inscribirán en el Instituto de la Función Registral:
+Se inscribirán en el Registro Público:
 
 I. Los títulos por los cuales se adquiere, transmite, modifica, grava o extingue el dominio, la posesión o los demás derechos reales sobre inmuebles;
 
@@ -15429,11 +15427,11 @@ XIV. Los demás títulos que la ley ordene expresamente que sean registrados.
 
 Los documentos que conforme a esta ley deben registrarse y no se registren, sólo producirán efectos entre quienes los otorguen, pero no podrán producir perjuicios a tercero, el cual sí podrá aprovecharse en cuanto le fueren favorables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2903.
 
-Se inscribirán preventivamente, en el Instituto de la Función Registral:
+Se inscribirán preventivamente, en el Registro Público de la Propiedad y del Comercio:
 
 I. Las demandas relativas a la propiedad de bienes inmuebles o a la constitución, declaración, modificación o extinción de cualquier derecho real sobre aquéllos;
 
@@ -15443,17 +15441,17 @@ III. Las demandas promovidas para exigir el cumplimiento de contratos preparator
 
 IV. Las providencias judiciales que ordenen el secuestro o prohíban la enajenación de bienes inmuebles o derechos reales;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-V. Los títulos presentados al Instituto de la Función Registral, cuya inscripción haya sido denegada o suspendida por el registrador;
+V. Los títulos presentados al Registro Público, cuya inscripción haya sido denegada o suspendida por el registrador;
 
 VI. Las fianzas legales o judiciales;
 
 VII. Las cédulas hipotecarias;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-VIII. Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con los bienes inscritos en el Instituto de la Función Registral; y
+VIII. Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con los bienes inscritos en el Registro Público; y
 
 IX. Cualquier otro título que sea inscribible, de acuerdo con este Código u otras leyes aplicables.
 
@@ -15467,9 +15465,9 @@ En los casos de las fracciones IV y VIII del artículo anterior, podrá producir
 
 Los actos ejecutables, los contratos otorgados y las resoluciones judiciales pronunciadas en país extranjero u otra entidad federativa, sólo se inscribirán concurriendo las circunstancias siguientes:
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-I. Que tengan el carácter de inscribibles conforme a las disposiciones de este Código y del Reglamento del Instituto de la Función Registral y requieren necesariamente de su inscripción en el Estado o país de que se trate;
+I. Que tengan el carácter de inscribibles conforme a las disposiciones de este Código y del Reglamento del Registro Público de la Propiedad y del Comercio y requieren necesariamente de su inscripción en el Estado o país de que se trate;
 
 II. Que estén debidamente legalizados y, en su caso, traducidos por perito oficial; y
 
@@ -15479,9 +15477,9 @@ III. Si fueran resoluciones judiciales, que se ordene su inscripción por la aut
 
 La inscripción no convalida los actos o contratos que sean nulos con arreglo a las leyes.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-No obstante lo dispuesto en el párrafo anterior, los actos o contratos que se otorguen o celebren por personas que en el Instituto de la Función Registral aparezcan con derecho para ello, no se invalidarán, en cuanto a tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante, en virtud de título anterior no inscrito o de causas que no resulten claramente del mismo registro.
+No obstante lo dispuesto en el párrafo anterior, los actos o contratos que se otorguen o celebren por personas que en el Registro Público aparezcan con derecho para ello, no se invalidarán, en cuanto a tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante, en virtud de título anterior no inscrito o de causas que no resulten claramente del mismo registro.
 
 Lo dispuesto en el párrafo anterior no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando una ley prohibitiva o de interés público.
 
@@ -15499,11 +15497,11 @@ No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, a
 
 ### Capítulo Tercero. Del modo de hacer el registro y de las personas que tienen derecho de pedir la inscripción
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2909.
 
-La inscripción de los títulos en el Instituto de la Función Registral, puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir o por el Notario Público que haya autorizado la escritura de que se trate.
+La inscripción de los títulos en el Registro Público, puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir o por el notario público que haya autorizado la escritura de que se trate.
 
 ###### Artículo 2910.
 
@@ -15541,11 +15539,11 @@ VII. Cuando falte algún otro requisito de forma que deba llenar el documento de
 
 En caso de que el registrador devuelva un documento sin registrar, tiene la obligación de hacer una inscripción preventiva, siempre y cuando el solicitante de la inscripción se inconforme con la negativa a su registro, en los términos establecidos en el Reglamento. Lo anterior, con la finalidad de que si la autoridad competente ordena que se registre el título rechazado, la inscripción definitiva surta sus efectos desde que por primera vez se presentó el título. Si el juez aprueba la calificación hecha por el registrador, se cancelará la inscripción preventiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2914.
 
-Toda inscripción que se haga en el Instituto de la Función Registral, expresará las circunstancias siguientes:
+Toda inscripción que se haga en el Registro Público, expresará las circunstancias siguientes:
 
 I. La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que debe inscribirse, su medida superficial, nombre y número si constare en el título o la referencia al registro anterior donde consten esos datos; asimismo, constará la mención de haberse agregado el croquis al legajo respectivo;
 
@@ -15561,9 +15559,9 @@ VI. La naturaleza del acto o contrato;
 
 VII. La fecha del título y el funcionario que lo haya autorizado; y
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-VIII. El día y la hora de la presentación del título en el Instituto de la Función Registral.
+VIII. El día y la hora de la presentación del título en el Registro Público.
 
 ###### Artículo 2915.
 
@@ -15573,19 +15571,19 @@ El registrador que haga una inscripción sin cumplir con lo dispuesto en los art
 
 El registro producirá sus efectos desde el día y la hora en que el documento se hubiera presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2917.
 
-Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces o cualquier derecho real sobre los mismos o que sin serlo sea inscribible, el Notario Público ante quien se vaya a otorgar el instrumento, podrá solicitar al Instituto de la Función Registral certificado sobre la existencia e inexistencia de gravámenes en relación con los mismos. En dicha solicitud, que surtirá efectos de aviso preventivo a partir de su presentación, deberá mencionarse la operación y finca de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El registrador practicará inmediatamente la nota de presentación en el folio o libro correspondiente, cuya vigencia se extenderá hasta los treinta días naturales contados a partir de la fecha de expedición del certificado.
+Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces o cualquier derecho real sobre los mismos o que sin serlo sea inscribible, el notario público ante quien se vaya a otorgar el instrumento, podrá solicitar al Registro Público certificado sobre la existencia e inexistencia de gravámenes en relación con los mismos. En dicha solicitud, que surtirá efectos de aviso preventivo a partir de su presentación, deberá mencionarse la operación y finca de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El registrador practicará inmediatamente la nota de presentación en el folio o libro correspondiente, cuya vigencia se extenderá hasta los treinta días naturales contados a partir de la fecha de expedición del certificado.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo anterior, el notario público ante quien se otorgó, dentro del plazo de vigencia del aviso preventivo, dará aviso definitivo al Instituto respecto de la operación de que se trate, el que contendrá, además de los datos mencionados en el párrafo anterior, la fecha de escritura y la de su firma. El registrador, con el aviso citado, practicará de inmediato la nota de presentación correspondiente, la cual tendrá una vigencia de ciento ochenta días naturales, a partir de la fecha de presentación del aviso definitivo. Si éste se presenta dentro del término establecido para el aviso preventivo, sus efectos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el párrafo anterior; en caso contrario sólo surtirá efectos desde la fecha y hora en que fue presentado y según el número de entrada que le corresponda.
+Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo anterior, el notario público ante quien se otorgó, dentro del plazo de vigencia del aviso preventivo, dará aviso definitivo al Registro respecto de la operación de que se trate, el que contendrá, además de los datos mencionados en el párrafo anterior, la fecha de escritura y la de su firma. El registrador, con el aviso citado, practicará de inmediato la nota de presentación correspondiente, la cual tendrá una vigencia de ciento ochenta días naturales, a partir de la fecha de presentación del aviso definitivo. Si éste se presenta dentro del término establecido para el aviso preventivo, sus efectos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el párrafo anterior; en caso contrario sólo surtirá efectos desde la fecha y hora en que fue presentado y según el número de entrada que le corresponda.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-Si el testimonio respectivo se presenta al Instituto de la Función Registral dentro de cualquiera de los términos que se señalan en los dos párrafos anteriores, su inscripción surtirá efectos contra terceros desde la fecha de presentación del aviso preventivo o, en su caso, desde la fecha de presentación del aviso definitivo, con arreglo a sus números de entrada. Si el testimonio se presenta vencidos los referidos plazos, su inscripción únicamente surtirá efectos desde la fecha y hora de su presentación.
+Si el testimonio respectivo se presenta al Registro Público dentro de cualquiera de los términos que se señalan en los dos párrafos anteriores, su inscripción surtirá efectos contra terceros desde la fecha de presentación del aviso preventivo o, en su caso, desde la fecha de presentación del aviso definitivo, con arreglo a sus números de entrada. Si el testimonio se presenta vencidos los referidos plazos, su inscripción únicamente surtirá efectos desde la fecha y hora de su presentación.
 
 Si el documento en que conste alguna de las operaciones que se mencionan en el primer párrafo de este artículo fuere privado, deberá dar aviso definitivo el notario público o, en su caso, con arreglo a la ley, la autoridad que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo supuesto el aviso en cuestión surtirá los mismos efectos que el dado por los notarios respecto de instrumentos públicos.
 
@@ -15593,11 +15591,11 @@ En virtud de lo dispuesto en los párrafos anteriores, los documentos que se pre
 
 No podrá presentarse más de un aviso preventivo por el mismo notario público, durante la vigencia de la nota a que se refiera el párrafo primero de este artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 2918.
 
-Los encargados del Instituto de la Función Registral son responsables, además de las penas en que puedan incurrir, de los daños y perjuicios a que dieren lugar:
+Los encargados del Registro Público son responsables, además de las penas en que puedan incurrir, de los daños y perjuicios a que dieren lugar:
 
 I. Si rehúsan sin motivo legal o retardan sin causa justificada, la inscripción de los documentos que le sean presentados;
 
@@ -15757,9 +15755,9 @@ Las cancelaciones se harán en la forma que fije el reglamento, pero deberán co
 
 Las inscripciones preventivas, cualquiera que sea su origen, caducarán a los tres años de su fecha, salvo aquéllas a las que se les fije un plazo de caducidad más breve. No obstante, a petición de parte o por mandato de las autoridades que los decretaron, podrá prorrogarse una o más veces, por dos años cada vez, siempre que la prórroga sea anotada antes de que caduque el asiento.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-La caducidad produce la extinción del asiento respectivo por el simple transcurso del tiempo; en este supuesto, cualquier interesado podrá solicitar al Director General del Instituto de la Función Registral, que se registre la cancelación de dicho asiento.
+La caducidad produce la extinción del asiento respectivo por el simple transcurso del tiempo; en este supuesto, cualquier interesado podrá solicitar al Director del Registro Público de la Propiedad y del Comercio, que se registre la cancelación de dicho asiento.
 
 ## TRANSITORIOS
 
@@ -15967,6 +15965,8 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 
 Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, POR LO QUE ESTOS TRANSITORIOS QUEDAN DEROGADOS.]</small>
+
 P.O. 3 DE OCTUBRE DE 2018.
 
 ## [N. DE E. TRANSITORIOS DE LA "LEY QUE EXPIDE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO, DEL (SIC) LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ARCHIVOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO".]
@@ -15994,6 +15994,8 @@ P.O. 17 DE OCTUBRE DE 2018.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, POR LO QUE ESTOS TRANSITORIOS QUEDAN DEROGADOS.]</small>
 
 P.O. 19 DE DICIEMBRE DE 2018.
 
@@ -16131,9 +16133,11 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, POR LO QUE ESTOS TRANSITORIOS QUEDAN DEROGADOS.]</small>
+
 P.O. 30 DE JUNIO DE 2019.
 
-## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LOS ARTÍCULOS CUARTO Y QUINTO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO, DE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE EXPIDE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ARCHIVOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA”, DE FECHA 19 DE DICIEMBRE DE 2018”.]
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LOS ARTÍCULOS CUARTO Y QUINTO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO, DE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE EXPIDE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ARCHIVOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA", DE FECHA 19 DE DICIEMBRE DE 2018".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -16153,4 +16157,124 @@ Atento a lo establecido en los Artículos Transitorios Segundo y Cuarto, primer 
 
 ###### ARTÍCULO QUINTO.
 
-Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 22 DE DICIEMBRE DE 2019.
+
+[N. DE. E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO, DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE QUERÉTARO, Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY QUE EXPIDE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ARCHIVOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el 1 de enero de 2020.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que contravengan·a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Con relación a las reformas de los artículos 4 y 36 de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro relativas a la Unidad de Comunicación Social y Atención Ciudadana, las alusiones a la Coordinación de Comunicación Social contenidas en otras disposiciones legales y reglamentarias, administrativas, así como en cualquier otro instrumento jurídico, se entenderán hechas a dicha Unidad, debiéndose expedir las disposiciones reglamentarias que resulten necesarias para el cumplimiento de lo dispuesto en esta Ley.
+
+Los asuntos en trámite o procedimientos iniciados ante la Coordinación de Comunicación Social que se encuentren pendientes de atender o de resolución a la entrada en vigor de la presente Ley, serán sustanciados por la Unidad de Comunicación Social y Atención Ciudadana.
+
+###### ARTÍCULO CUARTO.
+
+De conformidad con lo previsto en el Artículo Noveno de la presente Ley, se extingue el organismo público descentralizado del Poder Ejecutivo del Estado de Querétaro, denominado Instituto de la Función Registral del Estado de Querétaro, creado mediante Ley publicada el 3 de octubre de 2018 en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO QUINTO.
+
+Se autoriza al Director del Registro Público de la Propiedad y del Comercio a efecto de que realice los trámites correspondientes a la cancelación de los registros fiscales y administrativos que se hubiesen generado para efectos de la operación del Instituto de la Función Registral del Estado de Querétaro, así como para la terminación de los instrumentos jurídicos que se hubiesen celebrado con las instituciones financieras para su entrada en operación.
+
+###### ARTÍCULO SEXTO.
+
+Las alusiones al Instituto de la Función Registral del Estado de Querétaro contenidas en otras disposiciones legales y reglamentarias, administrativas, así como en cualquier otro instrumento jurídico, se entenderán hechas al Registro Público de la Propiedad y del Comercio, así como al Archivo General de Notarías, ambos del Estado Libre y Soberano de Querétaro, cuando de acuerdo al contexto y al ámbito competencial que corresponda, se refieran a dicho Registro o Archivo.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2020, serán las siguientes:
+
+I. Por la expedición de los oficios y certificaciones a que se refieren las fracciones III y IV del artículo 127 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1.25 UMA;
+
+II. Cuando los avisos de testamentos a los que se refiere el artículo 113 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo que al efecto establezca la Secretaría de Gobierno, no se causarán los derechos correspondientes;
+
+III. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 88 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
+
+MES DE PAGO DESCUENTO
+
+Enero 10%
+
+Febrero 8%
+
+Marzo 5%
+
+IV. Se cancelan los créditos fiscales por incosteabilidad en el cobro.
+
+Para efectos de esta fracción, se consideran créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2019, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión.
+
+Se cancelan los adeudos del Impuesto Sobre Tenencia o Uso de Vehículos, así como los derechos por control vehicular previstos en la Ley de Hacienda del Estado de Querétaro, generados por los ejercicios fiscales 2015 y anteriores;
+
+V. Las personas que resulten beneficiarias de los apoyos contenidos en el Programa de Apoyo a la Tenencia gozarán de una reducción en el impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro a su cargo, del noventa y nueve por ciento;
+
+VI. Las autoridades fiscales podrán restituir las cantidades pagadas por los particulares por concepto de derechos contenidos en la Ley de Hacienda del Estado de Querétaro, siempre y cuando:
+
+a) Los particulares hayan promovido un medio de defensa en materia de constitucionalidad, con motivo del pago de los derechos a que hace referencia el primer párrafo de esta fracción;
+
+b) El medio de defensa no haya sido extemporáneo;
+
+c) Las cantidades sujetas a restitución hayan sido efectivamente pagadas al fisco estatal; y
+
+d) El particular presente ante las autoridades jurisdiccionales competentes el escrito mediante el cual se desista del medio de defensa señalado en el inciso a) de esta fracción.
+
+Para efectos de lo anterior, previa opinión favorable de la Procuraduría Fiscal del Estado, se generará la orden de pago correspondiente.
+
+La restitución prevista en esta fracción podrá realizarse antes de que se dicte sentencia que ponga fin al medio de defensa mencionado;
+
+VII. Las tarjetas de circulación a que hace referencia el artículo 157 de la Ley de Hacienda del Estado de Querétaro, que hubiesen sido expedidas para los ejercicios fiscales 2013, 2014, 2015, 2016, 2017, 2018 y 2019 continuarán vigentes hasta el 31 de marzo de 2021.
+
+Para efectos de lo anterior, los contribuyentes, tenedores o usuarios de vehículos deberán realizar el pago del Impuesto Sobre Tenencia o Uso de Vehículos y los derechos correspondientes al ejercicio fiscal 2020, que contempla la referida ley.
+
+Los citados contribuyentes, tenedores o usuarios, para comprobar la vigencia de las tarjetas de circulación señaladas en el primer párrafo de esta fracción, ante las autoridades que así se lo requieran, exhibirán la representación impresa del comprobante fiscal digital respectivo;
+
+VIII. El impuesto sobre diversiones y espectáculos públicos a que se refiere el Capítulo Quinto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se reducirá en un 100%. En este caso, los contribuyentes no deberán cumplir con las obligaciones formales relativas a dicha contribución;
+
+IX. Los derechos previstos en los artículos 169 Bis y 169 Ter de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del (sic) Querétaro Centro de Congresos y Querétaro Teatro Metropolitano;
+
+X. Siempre que se trate de vivienda de interés social o popular, los derechos que de conformidad con la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente.
+
+b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos.
+
+c) La expedición de certificados de no propiedad;
+
+XI. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
+
+a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+c) Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate.
+
+Se causará un derecho a razón de 5 UMA por la inscripción del acto en el que conste la adquisición de vivienda de interés social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona;
+
+XII. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos.
+
+b) La inscripción de la escritura pública en la que conste la operación mediante la cual las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios.
+
+c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado;
+
+XIII. No se causarán los derechos previstos en la Ley de Hacienda del Estado de Querétaro, por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
+
+a) El acto en el que conste la reestructuración de los créditos señalados en el artículo 100 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicho Registro se encuentre la anotación del crédito inicial.
+
+b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas morales y personas físicas con actividad empresarial, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que los inmuebles adquiridos se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos.
+
+c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas morales y personas físicas con actividad empresarial, siempre que con ello se propicie el mantenimiento de empleos.
+
+d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes;
+
+XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial; y
+
+XV. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro y los Programas que se financien con dicho Fondo.
