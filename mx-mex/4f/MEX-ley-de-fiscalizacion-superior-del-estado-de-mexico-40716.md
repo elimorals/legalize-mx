@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2019-12-20"
+last_updated: "2019-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "MEX"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE FEBRERO DE 2020 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 26 de agosto de 2004.
 
@@ -59,13 +63,15 @@ III. Organo Superior: Al Organo Superior de Fiscalización del Estado de México
 
 IV. Comisión: A la Comisión de Vigilancia de la Legislatura del Estado;
 
-> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
-V. Entidades Fiscalizables: A los Poderes Públicos, Municipios, organismos autónomos, organismos auxiliares, fideicomisos públicos o privados y en general cualquier entidad, persona física o jurídica colectiva, pública o privada, mandato, fondo u otra figura análoga que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente con recursos públicos del Estado o Municipios, o en su caso de la federación.
+V. Entidades Fiscalizables: A los Poderes Públicos, Municipios, organismos autónomos, organismos auxiliares, fideicomisos públicos asimilados y simples, privados y en general cualquier entidad, persona física o jurídica colectiva, pública o privada, mandato, fondo u otra figura análoga que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente con recursos públicos del Estado o Municipios, o en su caso de la federación.
 
 VI. Organismos Autónomos: A los organismos que por disposición constitucional estén dotados de autonomía;
 
-VII. Organismos Auxiliares: A los organismos públicos descentralizados, empresas de participación estatal y fideicomisos públicos de la administración pública estatal y municipal;
+> <small>(REFORMADA, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+VII. Organismos Auxiliares: A los organismos públicos descentralizados, empresas de participación estatal y fideicomisos públicos asimilados de la administración pública estatal y municipal.
 
 VIII. Cuenta Pública: Los informes que rinden anualmente a la Legislatura, el Gobernador y los Presidentes Municipales, respecto de los resultados y la situación financiera del ejercicio fiscal inmediato anterior;
 
@@ -1678,3 +1684,39 @@ G.G. 20 DE DICIEMBRE DE 2019.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 23 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 118.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY PARA LA COORDINACIÓN Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MÉXICO Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO, ASÍ COMO LAS AUTORIZACIONES ESPECÍFICAS RELATIVAS AL ARTÍCULO 2 DE LA LEY DE INGRESOS DEL ESTADO DE MÉXICO PARA EL EJERCICIO FISCAL DEL AÑO 2020, ASÍ COMO LA AUTORIZACIÓN ESPECÍFICA DE REFINANCIAMIENTO DE CRÉDITOS ESTATALES”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1 de enero de 2020, con excepción de la reforma al párrafo décimo del artículo 32 del Código Financiero del Estado de México y Municipios, así como el Transitorio Séptimo de este Decreto, que entrarán en vigor el día de su publicación.
+
+TERCERO.- Los fideicomisos que integren recursos públicos y hayan sido constituidos con anterioridad a la entrada en vigor del presente Decreto, independientemente de la manera en que se hayan constituido y la fecha de su autorización, tendrán que inscribirse en el Registro de Fideicomisos del Estado de México, dentro de los 60 días hábiles siguientes a su entrada en vigor. De no cumplir con dicha obligación, la Secretaría de Finanzas podrá suspender la ministración de recursos que en su caso le corresponda, hasta en tanto cumpla con la obligación señalada, de acuerdo con las Reglas de Carácter General que al efecto emita la Secretaría.
+
+Para la constitución de fideicomisos públicos a partir de la entrada en vigor de este Decreto, se deberá contar como requisito previo, en todos los casos, con el visto bueno de la Secretaría de Finanzas, quien deberá verificar para tal efecto, el cumplimiento de lo previsto en la normatividad aplicable en cada caso.
+
+CUARTO.- Las autorizaciones para dictaminar emitidas hasta el 31 de diciembre de 2019, quedarán sin efectos a partir del 01 de enero de 2020. Los requisitos para obtener el registro a que se refiere el artículo 47-D del Código, entrarán en vigor a partir del 01 de enero del 2020 y será requisito para los dictámenes que se presenten a partir del año 2020, de conformidad con las Reglas Generales para dictaminar la determinación y pago del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal.
+
+QUINTO.- Con el fin de fortalecer las haciendas públicas municipales, con base en el mejoramiento de la recaudación de los ingresos propios, el Estado tendrá la facultad concurrente para la recaudación de contribuciones municipales y en general para todas las gestiones de cobro inherentes a dichas contribuciones.
+
+Los municipios conservarán en todo momento la facultad de administrar y recaudar libremente su hacienda, en términos de lo establecido en la fracción IV del artículo 115 de la Constitución Política de los Estado (sic) Unidos Mexicanos.
+
+La facultad concurrente a que se hace referencia en el primer párrafo, tendrá como fin la optimización del proceso tributario, facilitando el cumplimiento de las obligaciones a los contribuyentes, en beneficio de los municipios, al contar con una mejor recaudación de las contribuciones municipales y mayores recursos vía transferencias intergubernamentales.
+
+Conforme a la fracción IV del artículo 115 de la Constitución Política de los Estado (sic) Unidos Mexicanos, los municipios que decidan suscribir un convenio y lo formalicen a más tardar el 31 de marzo de 2020, percibirán, además de las participaciones estatales a que se refieren los incisos A), B), C) y D) de la fracción II del artículo 219 del citado Código, un 10% adicional de las participaciones que ordinariamente les son entregadas por concepto de la recaudación correspondiente al Impuesto sobre Tenencia o uso de Vehículos.
+
+Aquellos municipios que decidan no suscribir el convenio en cita, dejarán de percibir los recursos correspondientes a las participaciones de los ingresos ministrados por el Gobierno Estatal a que se refiere el párrafo anterior.
+
+De igual forma, los municipios que habiendo firmado algún convenio para la administración y recaudación de contribuciones, aprovechamientos e ingresos propios, decidan darlo por terminado en el transcurso del ejercicio fiscal correspondiente, dejarán de percibir el porcentaje extra de las participaciones de origen estatal a que se refiere el presente artículo a partir del mes inmediato posterior.
+
+SEXTO.- La reforma al artículo 115 de este Código entrará en vigor a partir del día 01 de julio del año 2020.
+
+Durante el periodo del 01 de enero al 31 de marzo del 2020, para determinar el Impuesto Sobre Adquisición de Inmuebles y otras Operaciones Traslativas de Dominio de Inmuebles, se utilizará la siguiente tabla:
+
+> <small>[N. DE E. VÉASE TABLA EN LA G.G. DE 23 DE DICIEMBRE DE 2019, PÁGINA 290.]</small>
+
+SÉPTIMO.- Las Instituciones que presenten adeudos por concepto de cuotas y aportaciones ante el Instituto de Seguridad Social del Estado de México y Municipios, podrán regularizarlos mediante convenio de pago en parcialidades hasta por ochenta y cuatro meses exceptuando lo previsto en el artículo 32 del Código Financiero del Estado de México y Municipios, y se les podrá condonar hasta el 100% de los recargos y multas que, en su caso, hubiesen generado, para tal efecto deberán suscribir el convenio respectivo dentro de los dos meses siguientes a la entrada en vigor del presente Decreto.
+
+OCTAVO.- Las Reglas Generales y Lineamientos Generales a que se refiere el presente Decreto, deberán emitirse dentro de los primeros 90 días a partir de la entrada en vigor de este Decreto.
