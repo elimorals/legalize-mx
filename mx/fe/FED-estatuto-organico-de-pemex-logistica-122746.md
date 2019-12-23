@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-logistica-122746"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-08-10"
-last_updated: "2019-06-28"
+last_updated: "2019-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122746&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,13 @@ issue_date: "2017-07-31"
 ---
 # ESTATUTO ORGANICO DE PEMEX LOGISTICA
 
+[N. DE E. LAS MODIFICACIONES APARECEN EN LAS DIRECCIONES ELECTRÓNICAS: www.pemex.com/acerca/marco_normativo/Documents/estatutos/mod_eoplo_201912.pdf Y
+
+www.dof.gob.mx/2019/PEMEX/mod_eoplo_201912.pdf]
+
 ESTATUTO ORGÁNICO DE PEMEX LOGÍSTICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE DICIEMBRE DE 2019.
 
 Estatuto Orgánico publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 10 de agosto de 2017.
 
@@ -179,11 +183,23 @@ I. Realizar las acciones que resulten necesarias para el cumplimiento de lo esta
 
 II. Proporcionar la información operativa, técnica y administrativa que les sea requerida por el Director General y por las direcciones corporativas, en la forma y términos solicitados; así como la información sobre los avances y resultados y, en su caso, presentar medidas de mejora;
 
-III. Diseñar e instrumentar mecanismos de rendición de cuentas y evaluación del desempeño, alineados con los establecidos en Pemex, y
+[INFORMACIÓN OBTENIDA DE: www.pemex.com/acerca/marco_normativo/Documents/estatutos/mod_eoplo_201912.pdf Y www.dof.gob.mx/2019/PEMEX/mod_eoplo_201912.pdf]
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2019)</small>
 
-IV. Presentar por conducto del Director General, al Director General de Pemex para su resolución, los conflictos que se susciten entre Pemex Logística y otras Empresas Productivas Subsidiarias y Empresas Filiales, con excepción de aquellos que deban ser atendidos por las áreas de Pemex, en términos del Estatuto Orgánico de Petróleos Mexicanos.
+III. Diseñar e instrumentar mecanismos de rendición de cuentas y evaluación del desempeño, alineados con los establecidos en Pemex;
+
+[INFORMACIÓN OBTENIDA DE: www.pemex.com/acerca/marco_normativo/Documents/estatutos/mod_eoplo_201912.pdf Y www.dof.gob.mx/2019/PEMEX/mod_eoplo_201912.pdf]
+
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2019)</small>
+
+IV. Presentar por conducto del Director General, al Director General de Pemex para su resolución, los conflictos que se susciten entre Pemex Logística y otras Empresas Productivas Subsidiarias y Empresas Filiales, con excepción de aquellos que deban ser atendidos por las áreas de Pemex, en términos del Estatuto Orgánico de Petróleos Mexicanos, y
+
+[INFORMACIÓN OBTENIDA DE: www.pemex.com/acerca/marco_normativo/Documents/estatutos/mod_eoplo_201912.pdf Y www.dof.gob.mx/2019/PEMEX/mod_eoplo_201912.pdf]
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2019)</small>
+
+V. Cumplir las decisiones sobre los asuntos administrativos y operativos que determine el Director General de Pemex, por si o por conducto del director corporativo que designe.
 
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2019)</small>
 
@@ -2033,11 +2049,13 @@ El Director Corporativo de Administración y Servicios, el Subdirector de Servic
 
 Los servidores públicos de Pemex y las demás Empresas Productivas Subsidiarias, que deban realizar actos por cuenta y orden y/o en representación de Pemex Logística o bien, que tengan asignadas responsabilidades en términos del estatuto orgánico respectivo, se considerarán mandatarios de ésta con base en los poderes que se les otorguen.
 
-> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2019)</small>
+[INFORMACIÓN OBTENIDA DE: www.pemex.com/acerca/marco_normativo/Documents/estatutos/mod_eoplo_201912.pdf Y www.dof.gob.mx/2019/PEMEX/mod_eoplo_201912.pdf]
+
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 71.
 
-En caso de ausencia del Director General será suplido por el Subdirector de Tratamiento y Logística Primaria, por el Subdirector de Transporte y por el Subdirector de Almacenamiento y Despacho, en ese orden o, en su caso, por el servidor público que el Director General designe por escrito.
+En caso de ausencia del Director General, será suplido por el Subdirector de Tratamiento y Logística Primaria, por el Subdirector de Transporte y por el Subdirector de Almacenamiento y Despacho, en ese orden, o en su caso, por el servidor público que el Director General de Pemex designe por escrito.
 
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2019)</small>
 
@@ -2146,3 +2164,21 @@ OCTAVO. Las referencias que se hagan en otros instrumentos a las áreas que desa
 NOVENO. Los asuntos, procedimientos, trámites o instrumentos de cualquier naturaleza que se hayan iniciado por las áreas que se reubican o desaparecen, deberán continuarse hasta su conclusión por las áreas que asumen las funciones conforme a las modificaciones de este Estatuto.
 
 DÉCIMO. Los titulares de las áreas de Pemex Logística deberán atender a la definición de los casos, criterios, formatos y plazos en los que deba realizarse la entrega de recursos, información y documentación, derivado de la reubicación o desaparición de las áreas de la estructura orgánica básica de Pemex Logística que emita la Auditoría Interna, así como participar en los actos de entrega y recepción, con motivo de la entrada en vigor de las modificaciones al presente Estatuto.
+
+D.O.F. 23 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO NÚMERO CAEPS-PLOG-30/2019".]
+
+[INFORMACIÓN OBTENIDA DE: www.pemex.com/acerca/marco_normativo/Documents/estatutos/mod_eoplo_201912.pdf Y www.dof.gob.mx/2019/PEMEX/mod_eoplo_201912.pdf]
+
+ÚNICO. Las presentes modificaciones al Estatuto, entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL "AVISO POR EL QUE SE DAN A CONOCER LAS DIRECCIONES ELECTRÓNICAS EN DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DE PEMEX LOGÍSTICA Y SU APROBACIÓN.]</small>
+
+AVISO POR EL QUE SE DAN A CONOCER LAS DIRECCIONES ELECTRÓNICAS EN DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DE PEMEX LOGÍSTICA Y SU APROBACIÓN:
+
+www.pemex.com/acerca/marco_normativo/Documents/estatutos/mod_eoplo_201912.pdf
+
+www.dof.gob.mx/2019/PEMEX/mod_eoplo_201912.pdf
+
+Ciudad de México, a 13 de diciembre de 2019.- La Directora Jurídica, Luz María Zarza Delgado.- Rúbrica.
