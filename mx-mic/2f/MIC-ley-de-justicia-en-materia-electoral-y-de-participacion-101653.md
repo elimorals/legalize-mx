@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-justicia-en-materia-electoral-y-de-participacion-101653"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2016-12-29"
+last_updated: "2019-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE JUSTICIA EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 30 de junio de 2014.
 
@@ -963,9 +963,17 @@ Las elecciones en el Estado serán nulas por violaciones graves, dolosas y deter
 
 a) Se exceda el gasto de campaña en un cinco por ciento o más del monto total autorizado;
 
-b) Se compre cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la Ley; y,
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
-c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos prohibidos por la Ley en las campañas.
+b) Se compre cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la Ley;
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos prohibidos por la Ley en las campañas; y,
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+d) Se realice violencia política en razón de género.
 
 Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
 
@@ -1082,3 +1090,9 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 23 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 205.- ÚNICO.- SE REFORMAN LOS INCISOS B) Y C); Y SE ADICIONA EL INCISO D), AL ARTÍCULO 72 DE LA LEY DE JUSTICIA EN MATERIA ELECTORAL Y PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
