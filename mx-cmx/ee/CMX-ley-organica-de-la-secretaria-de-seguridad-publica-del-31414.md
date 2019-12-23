@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-secretaria-de-seguridad-publica-del-31414"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-05-20"
-last_updated: "2017-07-05"
+last_updated: "2019-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31414&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2003-04-07"
 ---
 # LEY ORGANICA DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DE 23 DE DICIEMBRE DE 2019, LA PRESENTE LEY HA SIDO ABROGADA.]</small>
 
 LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE DICIEMBRE DE 2019 (ABROGADA).
 
 Ley Orgánica publicada en la Gaceta Oficial del Distrito Federal, el martes 20 de mayo de 2003.
 
@@ -240,9 +240,9 @@ Para ser Subsecretario u Oficial Mayor se requiere:
 
 I. Ser mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Tener cuando menos treinta anos de edad;
+II. Tener cuando menos treinta años de edad;
 
-III. Poseer, con antigüedad mínima de cinco anos, titulo profesional, y
+III. Poseer, con antigüedad mínima de cinco años, titulo profesional, y
 
 IV. Gozar de buena reputación y no haber sido condenado por sentencia irrevocable como responsable de un delito doloso, ni estar sujeto a proceso penal.
 
@@ -1161,3 +1161,23 @@ SEGUNDO.- Publíquese en la Gaceta Oficial de (sic) Ciudad de México, para su c
 TERCERO.- La Asamblea Legislativa del Distrito Federal para el ejercicio fiscal 2018, debe destinar recursos suficientes a la Secretaría de Desarrollo Social, para la implementación de la Acción Interinstitucional denominada “Por Tu Familia, Desarme Voluntario” y su modalidad “Por Tu Familia, Desarme Voluntario te Acompaña Desde Tu Casa”.
 
 CUARTO.- La Secretaría de Finanzas realizará las gestiones necesarias para la asignación presupuestal a la Secretaría de Desarrollo Social.
+
+G.O. 23 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO”.]
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- Se derogan las disposiciones que contravengan la presente Ley.
+
+Tercero.- El Reglamento Interior de la Secretaría de Seguridad Pública del Distrito Federal, publicado el 16 de octubre de 2008, mantendrá su vigencia en todo lo que no se oponga a la presente Ley, hasta el momento en que la persona titular de la Jefatura de Gobierno de la Ciudad de México expida el Reglamento Interior de la Secretaría de Seguridad Ciudadana de la Ciudad de México.
+
+Cuarto.- Las referencias al Centro de Control de Confianza contenidas en otros ordenamientos, se entenderán realizadas al Centro de Evaluación y Control de Confianza de la Ciudad de México.
+
+Quinto.- Todas las referencias en otros ordenamientos legales realizadas a la Policía del Distrito Federal o de la Ciudad de México, se entenderán hechas a la Policía de Proximidad, de conformidad con la fracción I del artículo 53 de la Ley del Sistema de Seguridad Ciudadana.
+
+Sexto.- Los integrantes de las Instituciones Policiales de la Secretaría conservarán tanto el grado jerárquico obtenido, como los derechos inherentes al mismo en la Carrera Policial, los cuales se homologarán a la nomenclatura establecida en la presente Ley, conforme los plazos y procedimientos que se definan en la normatividad, que al efecto se expida.
+
+Séptimo.- Todas las referencias hechas al Consejo de Honor y Justicia de la Secretaría de Seguridad Pública del Distrito Federal o de la Ciudad de México, se entenderán realizadas a la Comisión de Honor y Justicia.
+
+Octavo.- De conformidad con lo dispuesto en el artículo Cuarto Transitorio de la Ley del Sistema de Seguridad Ciudadana de la Ciudad de México, los procedimientos sustanciados ante el Consejo de Honor y Justicia se resolverán atendiendo a lo establecido en las Reglas para el Establecimiento de la Carrera Policial de la Policía del Distrito Federal y el Reglamento que Establece el Procedimiento para la Conclusión de la Carrera Policial de la Secretaría de Seguridad Pública del Distrito Federal, hasta la entrada en vigor de los ordenamientos que los sustituyan, en los términos que establezcan.
