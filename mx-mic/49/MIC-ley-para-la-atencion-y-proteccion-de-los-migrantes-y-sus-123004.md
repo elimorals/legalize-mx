@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-atencion-y-proteccion-de-los-migrantes-y-sus-123004
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-18"
-last_updated: "2019-08-28"
+last_updated: "2019-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 18 de agosto de 2017.
 
@@ -137,9 +137,17 @@ IX. Acceso a una estrategia de integración social, cultural y laboral para los 
 
 X. Ser consultados y participar en temas relacionados con la migración para la integración y ejecución de los Planes de Desarrollo Estatal y Municipales, reconociéndole al migrante michoacano como un ente transformador que tiene la capacidad y el interés de proponer mejoras en la política económica y social de sus lugares de origen;
 
-XI. Recibir acompañamiento de la Secretaría ante las autoridades competentes, para realizar los trámites necesarios relacionados con su nacionalidad; y,
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
-XII. Las demás que les confieran las normas jurídicas aplicables.
+XI. Recibir acompañamiento de la Secretaría ante las autoridades competentes, para realizar los trámites necesarios relacionados con su nacionalidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+XII. Recibir apoyo dirigido a mejorar la condición social de la población femenina migrante y la erradicación de todas las formas de discriminación en su contra; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+XIII. Las demás que les confieran las normas jurídicas aplicables.
 
 ###### Artículo 5.
 
@@ -189,13 +197,19 @@ XVI. Garantizar el acceso a la identidad y a la documentación que proporciona e
 
 XVII. Implementar programas transversales de protección y apoyo con documentación, traslado, alimentación, albergue, salud, reinserción educativa, atención psicológica, seguridad y protección a su integridad física, a los menores que emigran por causas de pérdidas de sus progenitores, violencia intrafamiliar, violencia en su comunidad, agresión y explotación sexual;
 
-XVIII. Promover mecanismos de reunificación familiar y procesos de custodia para aquellos menores de edad cuyos padres sean migrantes;
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
-XIX. Otorgar becas a los michoacanos que hayan tenido la calidad de migrantes, así como a sus familias, en los diferentes programas que ofrece el Estado para generar empleos; y,
+XVIII. Promover acciones de prevención de violencia contra las mujeres migrantes y diseñar e implementar un modelo de atención, en el que se considere su condición, para que exista homologación en los servicios de atención que se proporcionen;
 
-XX. Los demás que contribuyan al mejoramiento de las condiciones de vida de los migrantes y sus familias.
+XIX. Promover mecanismos de reunificación familiar y procesos de custodia para aquellos menores de edad cuyos padres sean migrantes;
 
-En el caso de las fracciones III, XII, XIV y XIX, la Secretaría deberá indicar en los lineamientos que emita, los requisitos para poder acceder a los programas y beneficios, debiendo considerar a los migrantes que retornaron al Estado en el lapso de un año.
+XX. Otorgar becas a los michoacanos que hayan tenido la calidad de migrantes, así como a sus familias, en los diferentes programas que ofrece el Estado para generar empleos; y,
+
+XXI. Los demás que contribuyan al mejoramiento de las condiciones de vida de los migrantes y sus familias.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+En el caso de las fracciones III, XII, XIV y XX, la Secretaría deberá indicar en los lineamientos que emita, los requisitos para poder acceder a los programas y beneficios, debiendo considerar a los migrantes que retornaron al Estado en el lapso de un año.
 
 ###### Artículo 8.
 
@@ -1122,3 +1136,11 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 147.- ARTÍCULO VIGÉSIMO NOVENO.- SE REFORMA EL INCISO E) DE LA FRACCIÓN III, DEL APARTADO A DEL ARTÍCULO 20 DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 207.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES XI Y XII Y SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 4°; Y, SE ADICIONA LA FRACCIÓN XVIII RECORRIÉNDOSE EN SU ORDEN LAS SIGUIENTES FRACCIONES AL ARTÍCULO 7º Y SE REFORMA EL ÚLTIMO PÁRRAFO DEL MISMO ARTÍCULO; AMBOS NUMERALES DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
