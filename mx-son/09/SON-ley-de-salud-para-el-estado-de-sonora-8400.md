@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2019-10-10"
+last_updated: "2019-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -1897,9 +1897,11 @@ Se consideran establecimientos los locales y sus instalaciones, sus dependencias
 
 (DEROGADO, B.O. 4 DE JUNIO DE 2009)
 
+> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 167.
 
-Cuando el uso que se pretenda dar a una edificación o local sea para la atención del público, además de los requisitos previstos en otras disposiciones aplicables, se deberá contar con agua potable corriente y retretes públicos, los cuales deberán reunir los requisitos que establezcan las normas jurídicas correspondientes.
+Cuando el uso que se pretenda dar a una edificación o local sea para la atención del público, además de los requisitos previstos en otras disposiciones aplicables, se deberá contar con agua potable y baños públicos. En el caso de instalaciones con un aforo de más de 100 personas, habrá baños familiares, los cuales deberán reunir los requisitos que establezcan los reglamentos y las normas jurídicas correspondientes.
 
 ###### ARTICULO 168.
 
@@ -3332,3 +3334,11 @@ El presente decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 El Titular del Poder Ejecutivo y los Ayuntamientos, deberán adecuar sus disposiciones reglamentarias a lo dispuesto en el presente Decreto, a más tardar, dentro de los ciento ochenta días naturales después de su entrada en vigor.
+
+B.O. 23 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 85 QUE REFORMA EL ARTÍCULO 167 DE LA LEY DE SALUD PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado.
