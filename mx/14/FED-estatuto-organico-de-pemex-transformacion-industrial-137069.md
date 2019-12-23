@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-transformacion-industrial-137069"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-06-28"
-last_updated: "2019-07-26"
+last_updated: "2019-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137069&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2019-06-24"
 ---
 # ESTATUTO ORGANICO DE PEMEX TRANSFORMACION INDUSTRIAL
 
+> <small>[N. DE E. LAS MODIFICACIONES APARECEN EN LAS DIRECCIONES ELECTRÓNICAS: www.pemex.com/acerca/marco_normativo/Documents/estatutos/mod_eoptri_201912.pdf Y www.dof.gob.mx/2019/PEMEX/mod_eoptri_201912.pdf]</small>
+
 ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACIÓN INDUSTRIAL
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 26 DE JULIO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE DICIEMBRE DE 2019.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de junio de 2019.
 
@@ -191,9 +191,23 @@ I. Realizar las acciones que resulten necesarias para el cumplimiento de lo esta
 
 II. Proporcionar la información operativa, técnica y administrativa que les sea requerida por el Director General y por las direcciones corporativas, en la forma y términos solicitados; así como la información sobre los avances y resultados y, en su caso, presentar medidas de mejora;
 
-III. Diseñar e instrumentar mecanismos de rendición de cuentas y evaluación del desempeño, alineados con los establecidos en Pemex, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.pemex.com/acerca/marco_normativo/Documents/estatutos/mod_eoptri_201912.pdf Y www.dof.gob.mx/2019/PEMEX/mod_eoptri_201912.pdf]</small>
 
-IV. Presentar por conducto del Director General, al Director General de Pemex para su resolución, los conflictos que se susciten entre Pemex Transformación Industrial y otras Empresas Productivas Subsidiarias y Empresas Filiales, con excepción de aquellos que deban ser atendidos por las áreas de Pemex, en términos del Estatuto Orgánico de Petróleos Mexicanos.
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2019)</small>
+
+III. Diseñar e instrumentar mecanismos de rendición de cuentas y evaluación del desempeño, alineados con los establecidos en Pemex;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.pemex.com/acerca/marco_normativo/Documents/estatutos/mod_eoptri_201912.pdf Y www.dof.gob.mx/2019/PEMEX/mod_eoptri_201912.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2019)</small>
+
+IV. Presentar por conducto del Director General, al Director General de Pemex para su resolución, los conflictos que se susciten entre Pemex Transformación Industrial y otras Empresas Productivas Subsidiarias y Empresas Filiales, con excepción de aquellos que deban ser atendidos por las áreas de Pemex, en términos del Estatuto Orgánico de Petróleos Mexicanos, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.pemex.com/acerca/marco_normativo/Documents/estatutos/mod_eoptri_201912.pdf Y www.dof.gob.mx/2019/PEMEX/mod_eoptri_201912.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2019)</small>
+
+V. Cumplir las decisiones sobre los asuntos administrativos y operativos que determine el Director General de Pemex, por si o por conducto del director corporativo que designe.
 
 Las funciones de soporte para Pemex Transformación Industrial en las materias de recursos humanos y relaciones laborales, salud, financiera y de seguros y administración de riesgos, aduanal, salvaguardia estratégica, administración patrimonial, aprovechamiento y mantenimiento inmobiliario, Abastecimiento, jurídica, de Tecnologías de la Información y las de dirección del negocio, se llevarán a cabo por las áreas de Pemex, conforme al Estatuto Orgánico de Petróleos Mexicanos.
 
@@ -2457,9 +2471,13 @@ El Director Corporativo de Administración y Servicios, el Subdirector de Servic
 
 Los servidores públicos de Pemex y las demás Empresas Productivas Subsidiarias, que deban realizar actos por cuenta y orden y/o en representación de Pemex Transformación Industrial, o bien, que tengan asignadas responsabilidades en términos del Estatuto Orgánico respectivo, se considerarán mandatarios de ésta con base en los poderes que se les otorguen.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.pemex.com/acerca/marco_normativo/Documents/estatutos/mod_eoptri_201912.pdf Y www.dof.gob.mx/2019/PEMEX/mod_eoptri_201912.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 96.
 
-En caso de ausencia del Director General, será suplido por el Subdirector de Producción de Petrolíferos, por el Subdirector de Comercialización, por el Subdirector de Abasto de Combustibles y por el Subdirector de Proyectos Industriales, en ese orden, o en su caso, por el servidor público que el Director General designe por escrito.
+En caso de ausencia del Director General, será suplido por el Subdirector de Producción de Petrolíferos, por el Subdirector de Comercialización, por el Subdirector de Abasto de Combustibles y por el Subdirector de Proyectos Industriales, en ese orden, o en su caso, por el servidor público que el Director General de Pemex designe por escrito.
 
 ###### Artículo 97.
 
@@ -2542,3 +2560,23 @@ www.dof.gob.mx/2019/PEMEX/eoptr_20190702.pdf
 EL CONSEJO DE ADMINISTRACIÓN DE PEMEX TRANSFORMACIÓN INDUSTRIAL, con fundamento en el artículo 12, fracción VI, del Acuerdo de Creación de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Transformación Industrial, aprobó el Estatuto Orgánico de Pemex Transformación Industrial, en sesión 27 Extraordinaria celebrada el día 24 de junio de 2019, mediante acuerdo número CAEPS-PTRI-019/2019.
 
 Ciudad de México, a 23 de julio de 2019.- La Directora Jurídica, Luz María Zarza Delgado.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 23 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO NÚMERO CAEPS-PTRI-041/2019”.]
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.pemex.com/acerca/marco_normativo/Documents/estatutos/mod_eoptri_201912.pdf Y www.dof.gob.mx/2019/PEMEX/mod_eoptri_201912.pdf]</small>
+
+ÚNICO. Las presentes modificaciones al Estatuto, entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL "AVISO POR EL QUE SE DAN A CONOCER LAS DIRECCIONES ELECTRÓNICAS EN DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACIÓN INDUSTRIAL Y SU APROBACIÓN".]</small>
+
+AVISO POR EL QUE SE DAN A CONOCER LAS DIRECCIONES ELECTRÓNICAS EN DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACION INDUSTRIAL Y SU APROBACION:
+
+www.pemex.com/acerca/marco_normativo/Documents/estatutos/mod_eoptri_201912.pdf
+
+www.dof.gob.mx/2019/PEMEX/mod_eoptri_201912.pdf
+
+Ciudad de México, a 13 de diciembre de 2019.- La Directora Jurídica, Luz María Zarza Delgado.- Rúbrica.
