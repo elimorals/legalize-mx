@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-para-la-integracion-al-110870"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-01-06"
-last_updated: "2017-11-15"
+last_updated: "2019-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110870&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,13 @@ issue_date: "2015-11-23"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO PARA LA INTEGRACION AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL
 
-> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL AVISO POR EL QUE SE DAN A CONOCER LAS REFORMAS AL ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. 15 DE NOVIEMBRE DE 2017, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE AVISO, TODAS LAS MENCIONES REALIZADAS AL INDEPEDI Y/O INSTITUTO PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL, CONTENIDAS EN ESTE ESTATUTO, LEYES Y REGLAMENTOS RESPECTIVOS, ASÍ COMO EN LOS ACTOS JURÍDICOS EN LOS QUE EL ORGANISMO SEA PARTE, SE ENTENDERÁN REFERIDAS AL INDISCAPACIDAD, Y/O INSTITUTO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO.]</small>
+NOTA 1: INFORMACIÓN OBTENIDA DEL PORTAL DEL INSTITUTO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO EN https://indiscapacidad.cdmx.gob.mx/storage/app/media/DOCUMENTOS%20GACETA/estatutoorganicodelinsitutodelaspe rsonascondiscapacidaddelaciudaddemexico.pdf, EL 31 DE ENERO DE 2020.
+
+NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 23 DE DICIEMBRE DEL 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
 
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE DICIEMBRE DE 2019 (ABROGADO).
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el miércoles 6 de enero de 2016.
 
@@ -645,3 +647,39 @@ G.O. 15 DE NOVIEMBRE DE 2017.
 PRIMERO.- El presente aviso entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- A partir de la entrada en vigor del presente aviso, todas las menciones realizadas al INDEPEDI y/o Instituto para la Integración al Desarrollo de las Personas con Discapacidad del Distrito Federal, contenidas en este Estatuto, leyes y reglamentos respectivos, así como en los actos jurídicos en los que el organismo sea parte, se entenderán referidas al INDISCAPACIDAD, y/o Instituto de las Personas con Discapacidad de la Ciudad de México.
+
+G.O. 23 DE DICIEMBRE DE 2019.
+
+> <small>[N. DE E. SE TRANSCRIBE EL AVISO QUE SE RELACIONAN CON PRESENTE ORDENAMIENTO]</small>
+
+AVISO POR EL QUE SE HACE DEL CONOCIMIENTO DEL PÚBLICO EN GENERAL, EL ENLACE ELECTRÓNICO, EN EL QUE PUEDE CONSULTARSE EL ESTATUTO ORGÁNICO DEL INSTITUTO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO.
+
+ÚNICO.- Se hace del conocimiento general, el Estatuto Orgánico del Instituto de las Personas con Discapacidad de la Ciudad de México, el cual puede ser consultado en su integridad en la liga electrónica que al efecto se cita:
+
+https://indiscapacidad.cdmx.gob.mx/storage/app/media/DOCUMENTOS%20GACETA/estatutoorganicodelinsitutodelaspe rsonascondiscapacidaddelaciudaddemexico.pdf
+
+## TRANSITORIOS
+
+PRIMERO.- La responsable del mantenimiento de dicho enlace digital es la persona Jefa de Unidad Departamental de Jurídica y Normativa del Instituto de las Personas con Discapacidad de la Ciudad de México, número de contacto: 15194290 ext. 107, Prolongación Sastrería 20, colonia 10 de Mayo, Alcaldía Venustiano Carranza, C.P. 15290, Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta de la Ciudad de México.
+
+TERCERO.- El presente Aviso surtirá sus efectos a partir de su publicación en la Gaceta de la Ciudad de México.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DEL INSTITUTO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Publíquese el presente aviso de Estatuto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente aviso del Estatuto Orgánico entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se abroga el Estatuto Orgánico del INSTITUTO PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL, publicado en la GACETA OFICIAL DEL DISTRITO FEDERAL el 6 de enero de 2016.
+
+CUARTO. Se deroga cualquier disposición que se oponga al contenido del presente Estatuto Orgánico.
+
+QUINTO. En tanto las condiciones económicas y presupuestales de la Ciudad de México sigan limitadas por la LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO la creación y nombramiento de cualquier tipo de Dirección Ejecutiva, independientemente del nombre asignado, queda suspendida.
+
+SEXTO. Las unidades administrativas de nueva creación iniciarán sus labores a partir de la entrada en vigor del presente aviso.
+
+SÉPTIMO. Las referencias hechas a las actuales unidades administrativas del Instituto que cambian de denominación debido a la publicación del presente Estatuto Orgánico, así como las atribuciones que se les otorgan en otros instrumentos normativos, se entenderán conferidas a las unidades administrativas que correspondan conforme a la normatividad actual.
+
+OCTAVO. La Dirección General emitirá la convocatoria para integrar por primera vez el Consejo Consultivo.
