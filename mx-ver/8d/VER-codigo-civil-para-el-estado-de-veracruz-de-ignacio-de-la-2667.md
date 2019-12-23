@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2019-06-20"
+last_updated: "2019-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE DICIEMBRE DE 2019.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -2064,6 +2064,28 @@ En el caso de depósito de menores, deberá decretarse oficiosamente la conviven
 > <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
 A la conducta que uno o ambos padres, en proceso de separación o separados, ejerza sobre sus hijas e hijos, con el objeto de obstaculizar o destruir sus vínculos con alguno de ellos, se le llamará manipulación y aleccionamiento parental, derivadas de la utilización de las y los menores en el conflicto parental.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 345 BIS
+
+Cuando ambos padres lo acuerden mediante el convenio de divorcio respectivo, o cuando los progenitores lo soliciten durante la tramitación del juicio o aún después de dictada la sentencia, el órgano jurisdiccional competente, atendiendo al interés superior del menor, podrá otorgarles la custodia compartida. Esta custodia podrá acordarse en periodos equivalentes de una semana, un mes, por semestre, o en aquellos periodos que determinen el padre o la madre de conformidad con sus posibilidades, valorando las especiales circunstancias de cada caso y considerando lo más adecuado para la edad de las hijas o los hijos.
+
+Algunos criterios que el órgano jurisdiccional deberá considerar para otorgar la custodia compartida serán:
+
+I. Que entre los padres se mantenga siempre el respeto y se promueva éste y el aprecio por las hijas y los hijos hacia cada uno de ellos;
+
+II. Que ambos padres tengan claro el papel de cada uno en la crianza y desarrollo de los menores, durante y después de los acuerdos a los que lleguen y que sean confirmados por la autoridad judicial competente;
+
+III. Que exista la posibilidad de llegar a acuerdos entre los padres es un elemento esencial, ya sea sin o con auxilio de ayuda externa, a través de un medio alternativo, como la mediación;
+
+IV. Que ambos padres mantengan una alta autoestima, flexibilidad y apertura al apoyo y la ayuda mutua a favor de los hijos, independientemente del divorcio y sus causas;
+
+V. Que ambos progenitores garanticen condiciones semejantes de vida a las hijas o hijos, durante los lapsos correspondientes, como el de radicar dentro de la misma ciudad en lugares cuya distancia del centro escolar no afecte el cumplimiento de sus deberes educativos, frecuentar los espacios de esparcimiento del menor, y aquellas que impliquen las mejores condiciones equivalentes a su desarrollo emocional y afectivo; y
+
+VI. Aquellas otras que, a juicio del órgano jurisdiccional, estime convenientes.
+
+En la custodia compartida, cada progenitor podrá absorber todas las obligaciones derivadas del sustento económico de los hijos e hijas durante los periodos de asignación, o cualquier otra variante acordada por el padre o la madre decretada por el órgano jurisdiccional, siempre y cuando existan las condiciones necesarias para este efecto. Las labores del hogar y el cuidado de las hijas y los hijos se considerarán equiparables al trabajo formal de aquel progenitor que aporta económicamente al hogar. En igualdad de circunstancias deberán tener igualdad de obligaciones, a fin de no causar perjuicios a los menores y compartir el cumplimiento de sus deberes, atendiendo al bienestar del descendiente.
 
 > <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
@@ -16437,8 +16459,16 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 20 DE JUNIO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 253 QUE REFORMA EL ARTÍCULO 242 DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 253 QUE REFORMA EL ARTÍCULO 242 DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 308 QUE ADICIONA EL ARTÍCULO 345 BIS AL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto
