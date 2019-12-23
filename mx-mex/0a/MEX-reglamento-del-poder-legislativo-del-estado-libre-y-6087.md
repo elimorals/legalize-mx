@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2019-10-04"
+last_updated: "2019-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE DICIEMBRE DE 2019.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -2057,6 +2057,10 @@ VII. Elaborar el proyecto de presupuesto anual de egresos de la Dirección Gener
 
 VIII. Elaborar el proyecto de presupuesto anual para cada grupo parlamentario, que no excederá del cincuenta por ciento del presupuesto total de la Dirección General de Comunicación Social.
 
+> <small>(ADICIONADA, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+IX. Implementar durante el desarrollo de las transmisiones en vivo de las sesiones de la Legislatura y de la Diputación Permanente, la traducción a la lengua de señas mexicanas, mediante la colocación de un recuadro permanente en la parte inferior de la pantalla, en el que establezca un intérprete, con el propósito de difundirlas entre la población con discapacidad auditiva.
+
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 166.
@@ -2703,15 +2707,21 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 TERCERO.- En un plazo no mayor a 30 días, la Comisión de Gestión Integral de Riesgos y Protección Civil, mediante iniciativa de Decreto ajustará las facultades de acuerdo a su denominación.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 466, POR EL QUE SE REFORMAN LAS FRACCIONES III, IV Y V, DEL ARTÍCULO 362 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499".]
+G.G. 23 DE DICIEMBRE DE 2019.
 
-PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 103.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO Y SE RECORREN LOS PÁRRAFOS SUBSECUENTES AL ARTÍCULO 6 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 165 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 11 DEL REGLAMENTO DE COMUNICACIÓN SOCIAL E IMAGEN INSTITUCIONAL DEL PODER LEGISLATIVO DEL ESTADO DE MÉXICO”.]
 
-SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento para los efectos legales conducentes.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-TERCERO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+SEGUNDO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
-P.O. 24 DE NOVIEMBRE DE 2020.
+TERCERO.- La “LX” Legislatura del Estado de México, en un lapso no mayor a 90 días naturales contados a partir de la entrada en vigor de la presente reforma, llevará a cabo las acciones conducentes y presupuestales para dar cumplimiento de lo establecido en el presente decreto.
+
+CUARTO.- La Dirección General de Comunicación Social, deberá actualizar las distintas plataformas oficiales del Poder Legislativo, a fin de cumplir con lo establecido en el presente Decreto.
+
+QUINTO.- La Junta de Coordinación Política proveerá lo necesario para el cumplimiento del presente Decreto.
+
+SEXTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 467 POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 284 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499”.]
 
