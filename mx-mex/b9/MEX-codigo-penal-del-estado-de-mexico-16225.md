@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2019-09-06"
+last_updated: "2019-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE SEPTIEMBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE DICIEMBRE DE 2019.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -145,11 +143,11 @@ Es continuado, cuando existe unidad de propósito delictivo, pluralidad de condu
 
 ### CAPITULO II. LOS DELITOS GRAVES
 
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 9.
 
-Se califican como delitos graves para todos los efectos legales: el cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V, el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110, el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho, previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V y X y 137 fracción II; el de peculado, señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros, señalado en el artículo 148 párrafo segundo; el de encubrimiento, previsto en el artículo 152 párrafo segundo; el de falso testimonio, contenido en las fracciones III y IV del artículo 156, el de evasión a que se refiere el artículo 160, el delito de falsificación de documentos, previsto en el artículo 170 fracción II, el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174, el delito de usurpación de funciones públicas o de profesiones, previsto en el artículo 176 penúltimo párrafo, el de uso indebido de uniformes, insignias, distinciones o condecoraciones previsto en el artículo 177, el de delincuencia organizada; previsto en el artículo 178, los delitos en contra del desarrollo urbano, señalados en el primer y segundo párrafos del artículo 189, el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195, el que se comete en contra de las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, establecidos en el artículo 204 y 205, los contemplados con la utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, establecidos en el artículo 206, el de lenocinio, previsto en los artículos 209 y 209 bis, el tráfico de menores, contemplado en el artículo 219, el de cremación de cadáver señalado en el artículo 225, el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo, tercero, cuarto y quinto fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en el artículo 230, el de lesiones, que señala el artículo 238, fracción V, el de homicidio, contenido en el artículo 241, el de feminicidio, previsto en el artículo 242 bis, el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo, el de extorsión contenido en los párrafos tercero y cuarto del artículo 266; el asalto a una población a que se refiere el artículo 267, el de trata de personas, contemplado en el artículo 268 bis, el de abuso sexual, señalado en el artículo 270, el de violación, señalado por los artículos 273 y 274, el de robo, contenido en los artículos 290, fracción I en su primer y quinto párrafos, II, III, IV, V, XVI y XVII y 292, el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV, el de despojo, a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto, y el de daño en los bienes, señalado en el artículo 311 y; en su caso, su comisión en grado de tentativa como lo establece este código, 314 bis, segundo párrafo, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
+Se califican como delitos graves para todos los efectos legales: el cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V, el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110, el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho, previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V y X y 137 fracción II; el de peculado, señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros, señalado en el artículo 148 párrafo segundo; el de encubrimiento, previsto en el artículo 152 párrafo segundo; el de falso testimonio, contenido en las fracciones III y IV del artículo 156, el de evasión a que se refiere el artículo 160, el delito de falsificación de documentos, previsto en el artículo 170 fracción II, el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174, el delito de usurpación de funciones públicas o de profesiones, previsto en el artículo 176 penúltimo párrafo, el de uso indebido de uniformes, insignias, distinciones o condecoraciones previsto en el artículo 177, el de delincuencia organizada; previsto en el artículo 178, los delitos en contra del desarrollo urbano, señalados en el primer y segundo párrafos del artículo 189, el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195, el que se comete en contra de las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, establecidos en el artículo 204 y 205, los contemplados con la utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, establecidos en el artículo 206, el de lenocinio, previsto en los artículos 209 y 209 bis, el tráfico de menores, contemplado en el artículo 219, el de cremación de cadáver señalado en el artículo 225, el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo, tercero, cuarto y quinto fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en el artículo 230, el de lesiones, que señala el artículo 238, fracción V, el de homicidio, contenido en el artículo 241, el de feminicidio, previsto en el artículo 242 bis, el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo, el de extorsión contenido en los párrafos tercero y cuarto del artículo 266; el asalto a una población a que se refiere el artículo 267, el de trata de personas, contemplado en el artículo 268 bis, el de abuso sexual, señalado en el artículo 270, el de violación, señalado por los artículos 273 y 274, el de robo, contenido en los artículos 290, fracción I en su primer y quinto párrafos, II, III, IV, V, XVI, XVII y XVIII y 292, el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV, el de despojo, a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto, y el de daño en los bienes, señalado en el artículo 311 y; en su caso, su comisión en grado de tentativa como lo establece este código, 314 bis, segundo párrafo, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
 
 ### CAPITULO III. TENTATIVA DEL DELITO
 
@@ -4469,9 +4467,11 @@ XVI. Si en los actos mencionados en las fracciones anteriores, participa, en eje
 
 XVII. Cuando se cometa a escuelas e inmuebles destinados a actividades educativas, se impondrán de tres a doce años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa.
 
-> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 23 DE DICIEMBRE DE 2019)</small>
 
-XVIII. Cuando se corneta (sic) en medios de transporte público de pasajeros en sus diversas clases y modalidades, transporte de personal, de turismo o escolar, se impondrán de nueve a quince años de prisión y multa de uno a tres veces el valor de lo robado, sin que exceda de mil días, sin perjuicio en su caso, de la agravante a que se refiere la fracción I de este artículo.
+XVIII. Cuando se cometa en medios de transporte público de pasajeros en sus diversas clases y modalidades, transporte de personal, de turismo o escolar, se impondrán de doce a dieciocho años de prisión y multa de uno a tres veces el valor de lo robado, sin que exceda de mil días multa, sin perjuicio en su caso, de la agravante a que se refiere la fracción I de este artículo.
+
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 Además de la pena señalada en el párrafo anterior, se impondrán las penas siguientes:
 
@@ -7050,3 +7050,13 @@ G.G. 5 DE SEPTIEMBRE DE 2019.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 23 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 105.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 9 Y 290 FRACCIÓN XVIII PRIMERA (SIC) PÁRRAFO DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
