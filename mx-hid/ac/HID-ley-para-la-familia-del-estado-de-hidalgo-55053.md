@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2019-11-18"
+last_updated: "2019-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -747,11 +747,11 @@ La disolución del matrimonio por divorcio sólo podrá tener lugar por sentenci
 
 (DEROGADO, P.O. 31 DE MARZO DE 2011)
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 109.
 
-La custodia de los hijos menores de 12 años, estará bajo la responsabilidad de la madre, con excepción de que exista alguna causa o impedimento que ponga en riesgo el desarrollo integral del menor, atendiendo siempre el interés superior de éste.
+La custodia de las hijas e hijos menores estará bajo la responsabilidad de la madre o el padre o de cualquier otra persona según las circunstancias que considere el juzgador en relación con la edad del menor o alguna causa que ponga en riesgo su integridad física o psíquica que impida su sano desarrollo, atendiendo siempre el interés superior de la niñez y la adolescencia.
 
 ###### Artículo 110.
 
@@ -3300,3 +3300,9 @@ P.O. 18 DE NOVIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 23 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 227 QUE REFORMA EL ARTÍCULO 109 DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
