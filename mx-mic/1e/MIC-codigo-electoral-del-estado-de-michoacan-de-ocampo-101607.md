@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2019-08-28"
+last_updated: "2019-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -75,25 +75,29 @@ III. Código: Código Electoral del Estado de Michoacán de Ocampo;
 
 IV. Congreso: Congreso del Estado de Michoacán de Ocampo;
 
-V. Estado: Estado Libre y Soberano de Michoacán de Ocampo;
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
-VI. Instituto: Instituto Electoral de Michoacán;
+V. Defensoría: La Defensoría Jurídica para la Protección de los Derechos Político-Electorales en Michoacán;
 
-VII. Instituto Nacional: Instituto Nacional Electoral;
+VI. Estado: Estado Libre y Soberano de Michoacán de Ocampo;
 
-VIII. Ley General: Ley General de Instituciones y Procedimientos Electorales;
+VII. Instituto: Instituto Electoral de Michoacán;
 
-IX. Ley de Partidos: Ley General de Partidos Políticos;
+VIII. Instituto Nacional: Instituto Nacional Electoral;
 
-X. Partidos políticos: a partidos políticos con registro nacional o estatal, indistintamente;
+IX. Ley General: Ley General de Instituciones y Procedimientos Electorales;
 
-XI. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo; y,
+X. Ley de Partidos: Ley General de Partidos Políticos;
 
-XII. Tribunal: Tribunal Electoral del Estado de Michoacán.
+XI. Partidos políticos: a partidos políticos con registro nacional o estatal, indistintamente;
+
+XII. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo; y,
+
+XIII. Tribunal: Tribunal Electoral del Estado de Michoacán.
 
 > <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-XIII. UMA: Unidad de Medida y Actualización.
+XIV. UMA: Unidad de Medida y Actualización.
 
 ### CAPÍTULO SEGUNDO. DERECHOS Y OBLIGACIONES DE LOS CIUDADANOS
 
@@ -1619,15 +1623,15 @@ IX. Llevar el registro de los criterios jurisprudenciales;
 
 X. Las demás que señale la ley o le indique el Pleno.
 
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
-ARTÍCULO 69 BIS. El Tribunal contará con un Órgano Interno de Control quien tendrá a su cargo la fiscalización de los ingresos y egresos, así como la investigación, tramitación, sustanciación y resolución, en su caso, de los procedimientos y recursos establecidos en la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo por responsabilidades de los servidores públicos del Tribunal; en el ejercicio de sus atribuciones estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones; así mismo contará con fe pública en sus actuaciones. En el desempeño de su función se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, profesionalismo, exhaustividad y transparencia.
+ARTÍCULO 69 a). El Tribunal contará con un Órgano Interno de Control quien tendrá a su cargo la fiscalización de los ingresos y egresos, así como la investigación, tramitación, sustanciación y resolución, en su caso, de los procedimientos y recursos establecidos en la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo por responsabilidades de los servidores públicos del Tribunal; en el ejercicio de sus atribuciones estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones; así mismo contará con fe pública en sus actuaciones. En el desempeño de su función se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, profesionalismo, exhaustividad y transparencia.
 
-El titular del Órgano Interno de Control será nombrado por el Congreso con el voto de las dos terceras partes de sus miembros presentes, durará en su encargo cinco años y no podrá ser reelecto; estará adscrito administrativamente a la Presidencia del Tribunal.
+El titular del Órgano Interno de Control será nombrado por el Pleno, durará en su encargo cinco años y no podrá ser reelecto; estará adscrito administrativamente a la Presidencia del Tribunal.
 
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
-ARTÍCULO 69 TER. El Pleno realizará la evaluación de los aspirantes e integrará y enviará al Congreso la propuesta mediante el procedimiento siguiente:
+ARTÍCULO 69 b). El Pleno realizará la evaluación de los aspirantes mediante el procedimiento siguiente:
 
 I. Publicará convocatoria abierta en el Periódico Oficial, en el portal de internet y en un diario de circulación estatal que contendrá lugar, fecha, plazos, términos y requisitos para el proceso de selección;
 
@@ -1637,13 +1641,15 @@ III. Los aspirantes deberán someterse a evaluación de eficiencia y competencia
 
 IV. El Pleno garantizará que quienes califiquen el examen, no conozcan la identidad del aspirante evaluado; y,
 
-V. El Pleno remitirá al Congreso la lista acompañada del expediente debidamente foliado y pormenorizado de cada aspirante evaluado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado, para que el Congreso designe de entre los cinco mejor evaluados.
+V. El Pleno elaborara un expediente debidamente foliado y pormenorizado de cada aspirante evaluado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado.
 
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
-ARTÍCULO 69 QUATER. Para ser Contralor deben reunirse los siguientes requisitos:
+ARTÍCULO 69 c). Para ser Contralor deben reunirse los siguientes requisitos:
 
-I. Ser mexicano por nacimiento, estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+(NOTA: EL 30 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO PRIMERO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2018 Y SU ACUMULADA 69/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+I. Ser mexicano POR NACIMIENTO, estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II. Tener más de treinta años de edad, el día de la designación;
 
@@ -1660,6 +1666,142 @@ VII. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal
 El Órgano Interno de Control contará con la estructura orgánica, personal y recursos que apruebe el Pleno a propuesta del Presidente.
 
 El titular del Órgano Interno de Control podrá ser sancionado conforme a los términos de la normatividad en materia de responsabilidad de servidores públicos.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 d). El Tribunal contará con una Defensoría Jurídica para la Protección de los Derechos Político-Electorales, con autonomía técnica y operativa, cuya finalidad es brindar de manera gratuita a los ciudadanos que ejerzan cargos públicos de elección popular, los servicios de asesoría y defensa de su derecho político electoral en la vertiente del ejercicio del cargo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 e). La Defensoría tiene por objeto ser una instancia accesible a (sic) para trámite, seguimiento y conclusión del Juicio para la protección de los derechos político-electorales.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 f). Los servicios de la Defensoría sólo se brindarán a todos los ciudadanos en el ámbito local, no así en el federal, ni a los partidos políticos o sus representantes. La representación se hará únicamente ante el Tribunal Electoral del Estado de Michoacán.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 g). Los servicios de la Defensoría deberán prestarse bajo los principios de legalidad, certeza, objetividad, máxima publicidad, austeridad, probidad, honestidad, honradez, imparcialidad, independencia, rendición de cuentas y transparencia.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 h). El servicio de la Defensoría en materia electoral, se prestará cuando medie solicitud expresa de la parte interesada de quien aspire o ejerza algún cargo de elección popular, ya sea por sistema normativo indígena o de partidos políticos.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 i). La Defensoría se integrará por el personal siguiente:
+
+I. Un Titular, el cual será nombrado por el Pleno del Tribunal a propuesta de su Presidente;
+
+II. Un mínimo de dos defensoras o defensores; y,
+
+III. El personal de apoyo necesario para el cumplimiento de sus atribuciones de conformidad con el presupuesto autorizado.
+
+En dichas designaciones se deberá garantizar la paridad de género.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 j). Para ser el titular de la Defensoría deben reunirse los siguientes requisitos:
+
+I. Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
+
+II. Tener cuando menos treinta años cumplidos al día de su designación;
+
+III. Contar con título y cédula profesional de Licenciatura en Derecho, con experiencia mínima comprobable de cinco años en área afín al derecho electoral y de los derechos humanos;
+
+IV. Gozar de buena reputación y no haber sido condenado con sentencia firme por delito grave;
+
+V. No ser militante de algún partido político; y,
+
+VI. No haber sido sancionado con destitución o inhabilitación administrativa por conducta grave en cualquier institución pública.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 k). La Defensoría deberá actuar con la máxima diligencia, esmero y cuidado, a efecto de salvaguardar los derechos político-electorales de los ciudadanos, guardando la debida reserva de la información y de los datos personales que se conozcan con motivo de la defensa o asesoría electoral que presten.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 l). Son atribuciones del titular de la Defensoría:
+
+I. Diseñar e implementar, el programa anual de difusión sobre los derechos político-electorales de los ciudadanos en el Estado de Michoacán de Ocampo y de los servicios que presta, apoyándose de las áreas respectivas del Instituto para tal efecto;
+
+II. Coordinar, vigilar y dar seguimiento a los asuntos y servicios que presta la Defensoría;
+
+III. Emitir dictámenes o acuerdos fundados y motivados en los que se justifique la prestación o no de los servicios solicitados;
+
+IV. Elaborar un registro de personas sancionadas por violencia político (sic) de género y entregarlo al Secretario General del Tribunal, para los efectos correspondientes;
+
+V. Coadyuvar en la organizar (sic) y participar en eventos académicos y reuniones, con la finalidad de promover la difusión, el desarrollo y la defensa de los derechos político-electorales en el Estado de Michoacán;
+
+VI. Promover y gestionar la celebración de convenios con instituciones públicas y privadas, que puedan contribuir al correcto cumplimiento de las funciones de la Defensoría;
+
+VII. Atender los requerimientos de las distintas áreas del Tribunal que se le formulen en el ámbito de su competencia;
+
+VIII. Rendir informes cuatrimestrales ante el Pleno del Tribunal sobre el funcionamiento, resultados y servicios que presta; y,
+
+IX. Las demás que establezca el Reglamento Interior de la Defensoría.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 m). Para ser Defensora o Defensor se deberán cumplir con los mismos requisitos establecidos para el titular y tendrán las funciones siguientes:
+
+I. Desahogar las consultas que le sean formuladas, orientando sobre la naturaleza, contenido y los alcances de sus derechos político-electorales;
+
+II. Representar y asesorar a quien lo solicite, velando por la protección de sus intereses en los procesos jurisdiccionales que se tramiten;
+
+III. Presentar, promover e interponer ante el Tribunal los actos, promociones, medios de impugnación y recursos necesarios para defender y salvaguardar los derechos político-electorales;
+
+IV. Requerir a sus representados y allegarse de todos los documentos y elementos necesarios que se consideren indispensables para ejercer debidamente sus atribuciones y defender eficazmente los derechos político-electorales;
+
+V. Vigilar la tramitación de los procesos en que intervengan, e informar periódicamente a sus asesorados del estado procesal que guarden los mismos;
+
+VI. Llevar a cabo un registro y formar un expediente de control de todos los procedimientos o asuntos en los que intervengan;
+
+VII. Procurar en cualquier tiempo, la conciliación de intereses ante las partes en los asuntos que asesoren, atendiendo el interés de su representado; y,
+
+VIII. Las demás que se deriven de la naturaleza de sus atribuciones, de las disposiciones aplicables y las que le instruya el titular.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 n). La Defensoría se abstendrá de intervenir en los supuestos siguientes:
+
+I. Cuando los servicios se estén prestando en forma gratuita por institución pública o privada distinta a la Defensoría;
+
+II. Cuando técnica y procesalmente resulte inviable la prestación de los servicios;
+
+III. Cuando la defensa o asesoría no verse sobre derechos político-electorales en la vertiente de quienes aspiren o desempeñen en su caso el (sic) algún cargo de elección; y,
+
+IV. Cuando los asuntos no sean competencia del Tribunal Electoral del Estado de Michoacán.
+
+La abstención de actuar de la Defensoría deberá sustentarse plenamente en un dictamen o acuerdo fundado y motivado, propuesto por la Defensora o el Defensor correspondiente y aprobado por el titular, lo cual se hará del conocimiento de Pleno del Tribunal.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 o). Los servicios de la Defensoría dejarán de prestarse:
+
+I. A petición expresa del o de la representada en el sentido de que no tienen interés en que se siga prestando el servicio de que se trate;
+
+II. Cuando se incurra en actos de violencia, amenaza o injuria en contra de la Defensoría o sus servidores públicos;
+
+III. Cuando se incurra dolosamente en falsedad de datos proporcionados; y,
+
+IV. Por causa grave debidamente justificada, previo derecho de audiencia, a fin de que alegue lo que a su derecho convenga.
+
+En cualquiera de los supuestos anteriores, el titular de la Defensoría, así como los Defensores no serán sujetos de ninguna clase de responsabilidad con motivo de la no continuidad en la prestación de los servicios.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 p). El titular de la Defensoría, así como las y los Defensores, les está prohibido:
+
+I. Recibir contraprestación alguna por los servicios propios de la Defensoría;
+
+II. El ejercicio particular de la profesión de abogado, salvo de que se trate de causa propia, la de su cónyuge o su concubina o concubino, así como parientes consanguíneos en línea recta sin limitación de grado y colaterales hasta el cuarto grado, por afinidad o civil;
+
+III. Desempeñar otro empleo, cargo o comisión remunerados en alguno de los tres órdenes de gobierno, salvo el desempeño de actividades docentes y de investigación;
+
+IV. Conocer o tramitar asuntos cuando estén impedidos para ello; y,
+
+V. Las demás que deriven de la naturaleza de sus atribuciones o de las disposiciones aplicables.
 
 # LIBRO TERCERO. DE LOS PARTIDOS POLÍTICOS
 
@@ -5487,6 +5629,20 @@ P.O. 17 DE OCTUBRE DE 2018.
 
 P.O. 28 DE AGOSTO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- "ARTÍCULO TRIGÉSIMO SEXTO. SE REFORMA EL INCISO J) DE LA FRACCIÓN II DEL ARTÍCULO 189 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO TRIGÉSIMO SEXTO. SE REFORMA EL INCISO J) DE LA FRACCIÓN II DEL ARTÍCULO 189 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 204.- ÚNICO.- SE ADICIONA LA FRACCIÓN V RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 3, SE REFORMAN LOS ARTÍCULOS 69 BIS, 69 TER Y 69 QUATER, Y SE ADICIONAN LOS ARTÍCULOS 69 D), 69 E), 69 F), 69 G), 69 H) 69 I) 69 J), 69 K), 69 L), 69 M), 69 N), 69 O) Y 69 P), DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Pleno del Tribunal Electoral del Estado de Michoacán a propuesta del Presidente del Tribunal, deberá realizar los ajustes presupuestales necesarios para garantizar la creación y el debido funcionamiento de la Defensoría.
+
+TERCERO. La designación del titular de la Defensoría, deberá realizarse en un plazo no mayor a 90 días naturales.
+
+CUARTO. Una vez nombrado el titular de la Defensoría, tendrá un plazo no mayor a 40 días naturales para presentar al pleno del Tribunal, el Reglamento Interior de la Defensoría, para su eventual aprobación.
+
+QUINTO. Notifíquese al Presidente del Tribunal Electoral del Estado para que sea publicado en los estrados y página de Internet del Tribunal Electoral del Estado de Michoacán.
