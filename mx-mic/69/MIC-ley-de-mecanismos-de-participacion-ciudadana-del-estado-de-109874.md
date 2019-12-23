@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-mecanismos-de-participacion-ciudadana-del-estado-de-1098
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-08"
-last_updated: "2016-04-27"
+last_updated: "2019-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE MECANISMOS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 8 de septiembre de 2015.
 
@@ -169,7 +169,9 @@ El Instituto, a través del órgano que éste acuerde, aprobará los instrumento
 
 Cuando corresponda al Instituto u Órgano del Estado conocer de un procedimiento de participación ciudadana determinará a través del órgano que acuerde, si reúne los requisitos previstos en esta ley en un plazo no mayor de cinco días hábiles siguientes a la presentación, y notificará el acuerdo de admisión al solicitante, dentro de los dos días hábiles siguientes.
 
-En caso de no reunir los requisitos se prevendrá al solicitante para que en un plazo de cinco días hábiles subsane lo observado, bajo el apercibimiento que, de no hacerlo, la solicitud quedará sin efectos y no podrá presentarla nuevamente en el mismo año.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+En caso de no reunir los requisitos se prevendrá al solicitante mediante notificación personal para que en un plazo de cinco días hábiles subsane lo observado, bajo el apercibimiento que, de no hacerlo, la solicitud quedará sin efectos y no podrá presentarla nuevamente en el mismo año.
 
 ###### ARTÍCULO 14.
 
@@ -189,9 +191,11 @@ III. Promover la participación ele la ciudadanía michoacana en los procedimien
 
 IV. Dar certeza, eficacia y transparencia a los resultados de los instrumentos de participación ciudadana, que le correspondan.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 16.
 
-Doce meses previos al día de la jornada electoral y sesenta días posteriores a la conclusión del proceso electoral respectivo, no podrán autorizarse ni celebrarse mecanismos de participación ciudadana alguno, salvo lo dispuesto en el capítulo primero y quinto del Título Segundo, así como el capítulo primero y segundo del Título Tercero previstos por esta Ley.
+Seis meses previos al día de la jornada electoral y sesenta días posteriores a la conclusión del proceso electoral ordinario, con excepción de algún proceso extraordinario, podrán autorizarse, pero no celebrarse mecanismos de participación ciudadana de Referéndum, Plebiscito, Consulta Ciudadana y Observatorios Ciudadanos, en cuyo caso, su implementación se prorrogará hasta fenecido el citado periodo. Dicho plazo no afectará lo dispuesto en los capítulos Primero y Quinto del Título Segundo, así como los capítulos Primero y Segundo del Título Tercero previstos por esta Ley.
 
 ### CAPÍTULO TERCERO. DE LAS EXCEPCIONES
 
@@ -261,9 +265,11 @@ b) Se trate de decretos, reglamentos, órdenes, acuerdos y circulares de observa
 
 c) Se trate de bandos de gobierno o reglamentos que emitan los Ayuntamientos y los solicitantes constituyan por lo menos el dos punto cinco por ciento de la lista nominal respectiva.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 23.
 
-El plazo para presentar la solicitud de Referéndum para los ciudadanos, Gobernador y los Ayuntamientos, será de treinta días hábiles después de la publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo de: leyes y decretos que expida el Congreso; decretos, reglamentos, órdenes, acuerdos y circulares de observancia general que contengan disposiciones sobre asuntos administrativos que expida el Gobernador; así como, bandos de gobierno o reglamentos que emitan los Ayuntamientos.
+El plazo para presentar la solicitud de Referéndum para los ciudadanos será de sesenta días hábiles, mientras que para el Gobernador y los Gobiernos municipales, será de treinta días hábiles, en ambos casos a partir de la publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo de: leyes y decretos que expida el Congreso; decretos, reglamentos, órdenes, acuerdos y circulares de observancia general que contengan disposiciones sobre asuntos administrativos que expida el Gobernador; así como, bandos de gobierno o reglamentos que emitan los Gobiernos Municipales.
 
 ###### ARTÍCULO 24.
 
@@ -279,7 +285,9 @@ IV. La autoridad o autoridades de las que emana la materia del Referéndum;
 
 V. La relación de motivos, debidamente fundada y detallando los elementos que se tengan para pedir la aplicación del Referéndum;
 
-VI. Domicilio para recibir notificaciones en la capital del Estado o en la cabecera municipal de que se trate;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+VI. Domicilio para recibir notificaciones en la capital del Estado, en la cabecera municipal, dirección de correo electrónico y número telefónico en su caso;
 
 VII. La relación de nombres de los solicitantes; y,
 
@@ -311,7 +319,9 @@ II. En caso de que la solicitud no cumpla con el porcentaje de los ciudadanos re
 
 III. En los casos en que, manifiestamente, la solicitud se haya presentado con firmas apócrifas, los ciudadanos no estén inscritos en la lista nominal o los datos de la solicitud no coincidan con los registrados;
 
-IV. Cuando la (sic) leyes y decretos que expida el Congreso; a los decretos, reglamentos, órdenes, acuerdos y circulares de observancia general que contengan disposiciones sobre asuntos administrativos que expida el Gobernador; así como los bandos de Gobierno o los Reglamentos que emitan los Ayuntamientos objeto del procedimiento de Referéndum se hayan reformado de manera que hubiere desaparecido la materia del procedimiento;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+IV. Cuando las leyes y decretos que expida el Congreso; los decretos, reglamentos, órdenes, acuerdos y circulares de observancia general que contengan disposiciones sobre asuntos administrativos que expida el Gobernador; así como los bandos de Gobierno o los Reglamentos que emitan los Gobiernos Municipales objeto del procedimiento de Referéndum se hayan reformado de manera que hubiere desaparecido la materia del procedimiento;
 
 V. Cuando la Ley o materia no exista; y,
 
@@ -325,11 +335,15 @@ El Consejo General del Instituto podrá pedir la colaboración de instituciones 
 
 Los resultados del Referéndum serán vinculatorios, cuando se cumplan los siguientes requisitos:
 
-I. Haya participado el cuarenta por ciento de ciudadanos de acuerdo con la votación válida en la elección local inmediata anterior;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+I. Haya participado el treinta y cinco por ciento de ciudadanos de acuerdo con la votación válida en la elección inmediata anterior: Para gobernador cuando se trate de Referéndum estatal, y para el ayuntamiento respectivo cuando se trate de Referéndum municipal;
 
 II. Haya votado el sesenta por ciento en el mismo sentido; y,
 
-III. Cuando el resultado no obtenga el porcentaje requerido para ser vinculatorio, sus efectos servirán como criterio de valoración.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+III. Cuando el resultado no obtenga el porcentaje requerido para ser vinculatorio, sus efectos servirán como criterio de valoración, y el Órgano del Estado correspondiente hará públicas sus conclusiones en la materia respectiva.
 
 #### SECCIÓN SEGUNDA. DEL PLEBISCITO
 
@@ -351,15 +365,19 @@ a) Se trate de actos o decisiones del Gobernador y lo solicite el uno punto cinc
 
 b) Se trate de bandos de gobierno o reglamentos que emitan los Ayuntamientos y los solicitantes constituyan por lo menos el dos punto cinco por ciento de la lista nominal.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 30 BIS. El plazo para presentar la solicitud de Plebiscito para los ciudadanos será de sesenta días hábiles, mientras que, para el Gobernador y los Gobiernos Municipales, será de treinta días hábiles, en ambos casos después de un acto o decisión del Gobernador o de los Gobiernos Municipales que se considere trascendental para la vida pública y el interés social.
+
 ###### ARTÍCULO 31.
 
 Los requisitos de la solicitud presentada por los ciudadanos son:
 
 I. Nombre de los solicitantes;
 
-II. Domicilio legal para recibir notificaciones en la capital del
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
-Estado, o en la cabecera municipal de que se trate;
+II. Domicilio para recibir notificaciones en la capital del Estado, en la cabecera municipal, dirección de correo electrónico y número telefónico en su caso;
 
 III. Señalar de manera precisa el acto o decisión del Gobernador o del Ayuntamiento que se considere trascendental para la vida pública y que motiven la solicitud;
 
@@ -371,7 +389,9 @@ VI. Solicitud debidamente formulada con firma autógrafa o, en su caso, huella d
 
 VII. La relación de nombres completos de los solicitantes; y,
 
-VIII. Las copias simples por ambos lados de la credencial de elector de los peticionarios.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+VIII. Las copias simples por ambos lados de la credencial de elector vigente de los solicitantes.
 
 ###### ARTÍCULO 32.
 
@@ -395,7 +415,9 @@ Es improcedente la solicitud de Plebiscito en los siguientes casos:
 
 I. Cuando la solicitud se haya presentado en forma extemporánea;
 
-II. Contra actos consumados o de imposible reparación;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+II. Contra actos consumados de imposible reparación;
 
 III. Cuando los actos o decisiones no sean materia de Plebiscito;
 
@@ -407,19 +429,25 @@ V. Cuando la solicitud no cumpla con los requisitos y formalidades exigidas por 
 
 El Consejo General del Instituto podrá pedir el apoyo técnico especializado de instituciones académicas y científicas relacionadas con la materia que trate el Plebiscito para la elaboración de las preguntas que se someterán a consulta pública.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 35.
 
-El acto o decisión de gobierno podrá someterse a Plebiscito cuando sus implicaciones sean valoradas trascendentales, en el ámbito correspondiente, por el Consejo General. Para lo cual podrá solicitar opinión de especialistas en la materia que así estime conveniente.
+El acto o decisión de gobierno podrá someterse a Plebiscito cuando sus implicaciones sean valoradas trascendentales, en el ámbito correspondiente, por el Consejo General, que deberá fundar y motivar, así como hacer públicas sus conclusiones. Para lo cual podrá solicitar opinión de especialistas en la materia que así estime conveniente.
 
 ###### ARTÍCULO 36.
 
 Los resultados del Plebiscito serán vinculatorios, cuando se cumplan los siguientes requisitos:
 
-I. Haya participado el cuarenta por ciento de ciudadanos de acuerdo con la votación válida en la elección local inmediata anterior; y,
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+I. Haya participado el treinta y cinco por ciento de ciudadanos de acuerdo con la votación válida en la elección inmediata anterior: Para gobernador cuando se trate de Plebiscito estatal, y para el Gobierno Municipal respectivo cuando se trate de Plebiscito municipal; y,
 
 II. Haya votado el sesenta por ciento en el mismo sentido.
 
-Cuando el resultado no obtenga el porcentaje requerido para ser vinculatorio, sus efectos servirán como criterio de valoración.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+Cuando el resultado no obtenga el porcentaje requerido para ser vinculatorio, sus efectos servirán como criterio de valoración, y el Órgano del Estado correspondiente hará públicas sus conclusiones en la materia respectiva.
 
 #### SECCIÓN TERCERA. DEL PROCEDIMIENTO COMÚN AL REFERENDUM Y PLEBISCITO
 
@@ -1000,3 +1028,19 @@ b) A los 113 Municipios, a efecto de que giren instrucciones a los titulares u �
 c) A los titulares de los Órganos Constitucionales Autónomos.
 
 CUARTO. El Instituto Electoral de Michoacán contará con el término de 90 noventa días para emitir la normatividad correspondiente a la integración y funcionamiento de los observatorios ciudadanos, la cual una vez emitida deberá hacer del conocimiento de los órganos de Gobierno a efecto de que estén en condiciones de emitir la convocatoria para la constitución de los Observatorios.
+
+P.O. 23 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 206 POR EL QUE “SE REFORMAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 13; EL ARTÍCULO 16; EL ARTÍCULO 23; LA FRACCIÓN VI DEL ARTÍCULO 24; LA FRACCIÓN IV DEL ARTÍCULO 26; LAS FRACCIONES I Y III DEL ARTÍCULO 28; LAS FRACCIONES II Y VIII DEL ARTÍCULO 31; LA FRACCIÓN II DEL ARTÍCULO 33; EL ARTÍCULO 35; LA FRACCIÓN I Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 36; Y SE ADICIONA UN ARTÍCULO 30 BIS; TODOS DE LA LEY DE MECANISMOS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Notifíquese el presente Decreto al titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva.
+
+###### ARTÍCULO TERCERO.
+
+Notifíquese el presente Decreto al Instituto Electoral del Estado de Michoacán, el cual tendrá un plazo máximo de 90 días para reformar el Reglamento de Mecanismos de Participación Ciudadana del Instituto Electoral del Estado de Michoacán, conforme al mismo.
