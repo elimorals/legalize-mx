@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2019-12-16"
+last_updated: "2019-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MEX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE FEBRERO DE 2020 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -731,9 +733,9 @@ LI. Emitir normas, políticas y procedimientos para el establecimiento y la oper
 
 LII. Expedir las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación de los vehículos automotores destinados a transporte de carga, de uso particular y comercial, que no sean competencia de otras autoridades.
 
-> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
-LIII. Autorizar la constitución de todos los fideicomisos en los que las Dependencias y Entidades Públicas del Gobierno del Estado de México sean parte, verificar el debido cumplimiento de sus fines, así como registrar, supervisar y evaluar su funcionamiento en cualquier momento;
+LIII. Emitir dictamen de viabilidad o la autorización, según sea el caso, respecto de la constitución de los fideicomisos públicos de los Entes Públicos, a través de sus unidades administrativas, dependencias u organismos auxiliares, verificar el debido cumplimiento de sus fines, así como registrar, supervisar y evaluar su funcionamiento en cualquier momento, solicitando la información que considere necesaria con base en los lineamientos que para tal efecto emita la Secretaría;
 
 > <small>(ADICIONADA, G.G. 3 DE DICIEMBRE DE 2007)</small>
 
@@ -745,39 +747,39 @@ En los convenios antes mencionados que celebre el Estado se podrán estipular la
 
 LV. Hacer efectivas las garantías otorgadas bajo cualquier modalidad a favor del Gobierno del Estado de México, mediante los procedimientos previstos en las disposiciones legales y reglamentarias aplicables.
 
-(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014) (F. DE E., P.O. 3 DE FEBRERO DE 2016)
+(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 LVI. Determinar el destino final tratándose de tráileres, autobuses y cualquier tipo de remolques, una vez declarados abandonados;
 
-(REFORMADA, G.G. 6 DE ENERO DE 2016) (F. DE E., P.O. 3 DE FEBRERO DE 2016)
+(REFORMADA, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 LVII. Implementar, desarrollar y fomentar la política de Gobierno Digital y el uso estratégico de tecnologías de la información en el ejercicio de la gestión pública dentro de la Entidad.
 
-(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., P.O. 3 DE FEBRERO DE 2016)
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 LVIII. Emitir lineamientos técnicos en materia de Gobierno Digital conforme a lo establecido en los ordenamientos jurídicos aplicables.
 
-(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., P.O. 3 DE FEBRERO DE 2016)
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 LIX. Dar asesoría en materia de Gobierno Digital a los sujetos de la Ley de Gobierno Digital del Estado de México y Municipios, teniendo como base la normatividad aplicable en dicha materia.
 
-(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., P.O. 3 DE FEBRERO DE 2016)
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 LX. Implementar y administrar el Registro Único de Personas Acreditadas del Estado de México, y realizar todas las acciones que de ello (sic). Para la realización de las acciones establecidas en esta fracción, la Secretaría deberá coordinarse con el Consejo Estatal de Gobierno Digital, aplicando las disposiciones de la normatividad aplicable.
 
-(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., P.O. 3 DE FEBRERO DE 2016)
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 LXI. Implementar y administrar el Sistema Estatal de Información, Trámites y Servicios, en coordinación con el Consejo Estatal de Gobierno Digital.
 
-(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., P.O. 3 DE FEBRERO DE 2016)
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 LXII. Aplicar las políticas en materia de protección de datos personales respecto del almacenamiento y custodia de información que derive del ejercicio de sus atribuciones.
 
-(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., P.O. 3 DE FEBRERO DE 2016)
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 LXIII. Promover, formular, instrumentar, ejecutar, dar seguimiento y evaluar las políticas, lineamientos, acciones y programas en materia de Mejora Regulatoria aplicadas al uso estratégico de tecnologías de la información de conformidad con la Ley de Gobierno Digital del Estado de México y Municipios.
 
-(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., P.O. 3 DE FEBRERO DE 2016)
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 LXIV. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
@@ -2125,11 +2127,11 @@ La Organización, Integración y Atribuciones de los Tribunales Administrativos,
 
 ### CAPITULO QUINTO. De los Organismos Auxiliares del Poder Ejecutivo
 
-> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 45.
 
-Los organismos descentralizados, las empresas de participación estatal y los fideicomisos públicos serán considerados como organismos auxiliares del Poder Ejecutivo y forman parte de la Administración Pública del Estado.
+Los organismos descentralizados, las empresas de participación estatal y los fideicomisos públicos asimilados, serán considerados como organismos auxiliares del Poder Ejecutivo y como parte integrante de la Administración Pública del Estado.
 
 > <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -2157,9 +2159,13 @@ Se asimilan a las empresas de participación estatal mayoritaria, las sociedades
 
 El Gobernador, a través de sus dependencias y entidades, podrá constituir o participar en los fideicomisos previstos en el artículo 3 fracción XVII del Código Financiero del Estado de México y Municipios.
 
-Los fideicomisos públicos con estructura deberán contar con un Decreto o Acuerdo de creación emitido por la Legislatura o el Gobernador según corresponda, de conformidad con lo señalado en el artículo 46 de esta Ley; serán considerados organismos auxiliares del Poder Ejecutivo y sujetarán su actuación a lo previsto en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+> <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
-Los demás fideicomisos solo deberán ser autorizados, registrados, supervisados y evaluados por la Secretaría de Finanzas en los términos y condiciones que al efecto establezcan las disposiciones jurídicas aplicables.
+Los fideicomisos públicos asimilados, deberán contar con un Decreto o Acuerdo de creación emitido por la Legislatura o el Gobernador, según corresponda, de conformidad con lo señalado en el artículo 46 de esta Ley. Serán considerados organismos auxiliares del Poder Ejecutivo y sujetarán su actuación a lo previsto en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México, su Reglamento y a las disposiciones administrativas que al efecto emita la Secretaría de Finanzas.
+
+> <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+La Secretaría de Finanzas, tratándose de fideicomisos públicos simples, emitirá un dictamen de viabilidad o autorización, según corresponda; asimismo deberán ser registrados, supervisados y evaluados por la Secretaría de Finanzas y rendir la información que les sea solicitada.
 
 > <small>(ADICIONADO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -3137,7 +3143,7 @@ TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado e
 
 CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2016)</small>
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
 
 El Ejecutivo del Estado deberá expedir el Reglamento de la Ley de Gobierno Digital del Estado de México y Municipios en un plazo no mayor a ciento veinte días hábiles a la entrada en vigor del presente Decreto.
 
@@ -3151,7 +3157,7 @@ OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las au
 
 NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la Información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2016)</small>
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
 
 DÉCIMO.- Para que las dependencias establecidas en el artículo 67 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
 
@@ -3159,7 +3165,7 @@ DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el
 
 DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2016)</small>
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
 
 DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el tres de septiembre de dos mil diez y se deroga el Libro Décimo Quinto del Código Administrativo del Estado de México publicado en el periódico oficial "Gaceta del Gobierno" el cinco de enero de dos mil seis
 
@@ -3698,3 +3704,39 @@ e) Poder Legislativo del Estado de México.
 Décimo Séptimo. La Legislatura del Estado proveerá de los recursos necesarios para la implementación de la reforma del sistema de justicia laboral del Estado de México y para dar cumplimiento a lo dispuesto en el presente Decreto.
 
 Décimo Octavo. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 23 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 118.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY PARA LA COORDINACIÓN Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MÉXICO Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO, ASÍ COMO LAS AUTORIZACIONES ESPECÍFICAS RELATIVAS AL ARTÍCULO 2 DE LA LEY DE INGRESOS DEL ESTADO DE MÉXICO PARA EL EJERCICIO FISCAL DEL AÑO 2020, ASÍ COMO LA AUTORIZACIÓN ESPECÍFICA DE REFINANCIAMIENTO DE CRÉDITOS ESTATALES”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1 de enero de 2020, con excepción de la reforma al párrafo décimo del artículo 32 del Código Financiero del Estado de México y Municipios, así como el Transitorio Séptimo de este Decreto, que entrarán en vigor el día de su publicación.
+
+TERCERO.- Los fideicomisos que integren recursos públicos y hayan sido constituidos con anterioridad a la entrada en vigor del presente Decreto, independientemente de la manera en que se hayan constituido y la fecha de su autorización, tendrán que inscribirse en el Registro de Fideicomisos del Estado de México, dentro de los 60 días hábiles siguientes a su entrada en vigor. De no cumplir con dicha obligación, la Secretaría de Finanzas podrá suspender la ministración de recursos que en su caso le corresponda, hasta en tanto cumpla con la obligación señalada, de acuerdo con las Reglas de Carácter General que al efecto emita la Secretaría.
+
+Para la constitución de fideicomisos públicos a partir de la entrada en vigor de este Decreto, se deberá contar como requisito previo, en todos los casos, con el visto bueno de la Secretaría de Finanzas, quien deberá verificar para tal efecto, el cumplimiento de lo previsto en la normatividad aplicable en cada caso.
+
+CUARTO.- Las autorizaciones para dictaminar emitidas hasta el 31 de diciembre de 2019, quedarán sin efectos a partir del 01 de enero de 2020. Los requisitos para obtener el registro a que se refiere el artículo 47-D del Código, entrarán en vigor a partir del 01 de enero del 2020 y será requisito para los dictámenes que se presenten a partir del año 2020, de conformidad con las Reglas Generales para dictaminar la determinación y pago del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal.
+
+QUINTO.- Con el fin de fortalecer las haciendas públicas municipales, con base en el mejoramiento de la recaudación de los ingresos propios, el Estado tendrá la facultad concurrente para la recaudación de contribuciones municipales y en general para todas las gestiones de cobro inherentes a dichas contribuciones.
+
+Los municipios conservarán en todo momento la facultad de administrar y recaudar libremente su hacienda, en términos de lo establecido en la fracción IV del artículo 115 de la Constitución Política de los Estado Unidos Mexicanos.
+
+La facultad concurrente a que se hace referencia en el primer párrafo, tendrá como fin la optimización del proceso tributario, facilitando el cumplimiento de las obligaciones a los contribuyentes, en beneficio de los municipios, al contar con una mejor recaudación de las contribuciones municipales y mayores recursos vía transferencias intergubernamentales.
+
+Conforme a la fracción IV del artículo 115 de la Constitución Política de los Estado (sic) Unidos Mexicanos, los municipios que decidan suscribir un convenio y lo formalicen a más tardar el 31 de marzo de 2020, percibirán, además de las participaciones estatales a que se refieren los incisos A), B), C) y D) de la fracción II del artículo 219 del citado Código, un 10% adicional de las participaciones que ordinariamente les son entregadas por concepto de la recaudación correspondiente al Impuesto sobre Tenencia o uso de Vehículos.
+
+Aquellos municipios que decidan no suscribir el convenio en cita, dejarán de percibir los recursos correspondientes a las participaciones de los ingresos ministrados por el Gobierno Estatal a que se refiere el párrafo anterior.
+
+De igual forma, los municipios que habiendo firmado algún convenio para la administración y recaudación de contribuciones, aprovechamientos e ingresos propios, decidan darlo por terminado en el transcurso del ejercicio fiscal correspondiente, dejarán de percibir el porcentaje extra de las participaciones de origen estatal a que se refiere el presente artículo a partir del mes inmediato posterior.
+
+SEXTO.- La reforma al artículo 115 de este Código entrará en vigor a partir del día 01 de julio del año 2020.
+
+Durante el periodo del 01 de enero al 31 de marzo del 2020, para determinar el Impuesto Sobre Adquisición de Inmuebles y otras Operaciones Traslativas de Dominio de Inmuebles, se utilizará la siguiente tabla:
+
+> <small>[N. DE E. VÉASE TABLA EN LA G.G. DEL 23 DE DICIEMBRE DE 2019, PÁGINA 290.]</small>
+
+SÉPTIMO.- Las Instituciones que presenten adeudos por concepto de cuotas y aportaciones ante el Instituto de Seguridad Social del Estado de México y Municipios, podrán regularizarlos mediante convenio de pago en parcialidades hasta por ochenta y cuatro meses exceptuando lo previsto en el artículo 32 del Código Financiero del Estado de México y Municipios, y se les podrá condonar hasta el 100% de los recargos y multas que, en su caso, hubiesen generado, para tal efecto deberán suscribir el convenio respectivo dentro de los dos meses siguientes a la entrada en vigor del presente Decreto.
+
+OCTAVO.- Las Reglas Generales y Lineamientos Generales a que se refiere el presente Decreto, deberán emitirse dentro de los primeros 90 días a partir de la entrada en vigor de este Decreto.
