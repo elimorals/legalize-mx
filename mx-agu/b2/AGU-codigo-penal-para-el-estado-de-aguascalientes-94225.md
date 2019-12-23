@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2019-11-28"
+last_updated: "2019-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1057,11 +1057,17 @@ Se considerará que existen razones de género cuando se acredite cualquiera de 
 
 I. Exista o haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, noviazgo, amistad o cualquier otra relación de hecho;
 
-II. Exista o haya existido entre el activo y la víctima una relación laboral, docente o cualquiera otra que implique confianza, subordinación o superioridad;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
-III. La víctima presente signos de violencia sexual de cualquier tipo;
+II. Exista o haya existido entre el activo y la víctima una relación laboral, escolar, docente o cualquiera otra que implique confianza, subordinación o superioridad;
 
-IV. A la víctima se le hayan infligido lesiones o mutilaciones, previas o posteriores a la privación de la vida;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+III. La víctima presente signos de violencia sexual de cualquier tipo o su cadáver presente signos de necrofilia;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+IV. A la víctima se le hayan infligido lesiones, mutilaciones o signos de haber sufrido tortura, previas o posteriores a la privación de la vida;
 
 V. Existan antecedentes o actos de amenazas, violencia o lesiones de cualquier tipo por parte del sujeto activo contra la víctima;
 
@@ -1071,7 +1077,9 @@ VII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a l
 
 VIII. Que el activo haya obligado a la víctima a ejercer la prostitución, o haya ejercido actos de trata de personas en agravio de la víctima;
 
-IX. (DEROGADA, P.O. 11 DE JUNIO DE 2018)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+IX. La víctima se hubiere encontrado en estado de gravidez.
 
 X. Cuando el sujeto activo abuse de su cargo público para la comisión del delito.
 
@@ -1785,15 +1793,21 @@ Al responsable de Abigeato Calificado se le aplicará hasta en dos terceras part
 
 Abigeato equiparado. Se equipara al Abigeato:
 
-I. Al que, con ánimo de apropiársela, altere o elimine las marcas o señales de identificación de una o más cabezas de ganado ajeno;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
+I. Alterar o eliminar los fierros, marcas o señales, aretes o elementos electromagnéticos, o cualquier otro signo, señal o elemento de identificación de una o más cabezas de ganado ajeno, sin el consentimiento del que legalmente pueda otorgarlo;
 
-II. Al que, sin tener la posesión del ganado y con ánimo de apropiársela, altere o elimine las marcas o señales de identificación; o
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
+II. Transportar o comercializar dolosamente ganado robado, así como pieles o carne de los mismos;
 
-III. Al que, proceda al sacrificio de ganado, sin el consentimiento de quien legalmente pueda otorgarlo;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+III. Expedir certificados falsos para obtener guías simulando ventas y/o hacer uso de dichos certificados; y/o
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+IV. Proceder al sacrificio de ganado, sin el consentimiento de quien legalmente pueda otorgarlo.
 
 > <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
 
@@ -3428,3 +3442,19 @@ P.O. 28 DE NOVIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 290.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES I, II, III, Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 145 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 291.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES II, III, IV Y IX DEL ARTÍCULO 97 A DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
