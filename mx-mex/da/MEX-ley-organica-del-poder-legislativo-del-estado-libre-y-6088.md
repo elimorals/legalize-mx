@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2019-10-04"
+last_updated: "2019-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -68,6 +68,10 @@ A la Legislatura se le denominará agregando previamente el número romano que l
 ###### Artículo 6.
 
 Durante su ejercicio constitucional, la Legislatura tendrá tres períodos de sesiones ordinarias cada año, el primer periodo iniciará el 5 de septiembre y concluirá, a más tardar el 18 de diciembre; el segundo iniciará el 1º de marzo y no podrá prolongarse más allá del 30 de abril; y el tercero iniciará el 20 de julio, sin que pueda prolongarse más allá del 15 de agosto, pudiendo ser convocada a períodos de sesiones extraordinarias en los términos previstos por la Constitución y la ley.
+
+> <small>(ADICIONADO, G.G. 23 DE DICIEMBRE DE 2009)</small>
+
+Para el desarrollo de todas las sesiones de la Legislatura y de la Diputación Permanente, se dispondrá de las y los intérpretes de Lengua de Señas Mexicana necesarios, con el fin de traducir a las personas con discapacidad auditiva los asuntos que se desahogan en las mismas. Asimismo, en la transmisión de las sesiones, a través de la página electrónica y de las demás plataformas tecnológicas del Poder Legislativo del Estado de México, se colocará un recuadro permanente en la pantalla donde se enfoque en todo momento a la o el intérprete.
 
 > <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2008)</small>
 
@@ -2246,3 +2250,19 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO.- En un plazo no mayor a 30 días, la Comisión de Gestión Integral de Riesgos y Protección Civil, mediante iniciativa de Decreto ajustará las facultades de acuerdo a su denominación.
+
+G.G. 23 DE DICIEMBRE DE 2009.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 103.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO Y SE RECORREN LOS PÁRRAFOS SUBSECUENTES AL ARTÍCULO 6 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 165 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y SE REFORMA LA FRACCIÓN X DEL ARTÍCULO XI DEL REGLAMENTO DE COMUNICACIÓN SOCIAL E IMAGEN INSTITUCIONAL DEL PODER LEGISLATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- La “LX” Legislatura del Estado de México, en un lapso no mayor a 90 días naturales contados a partir de la entrada en vigor de la presente reforma, llevará a cabo las acciones conducentes y presupuestales para dar cumplimiento de lo establecido en el presente decreto.
+
+CUARTO.- La Dirección General de Comunicación Social, deberá actualizar las distintas plataformas oficiales del Poder Legislativo, a fin de cumplir con lo establecido en el presente Decreto.
+
+QUINTO.- La Junta de Coordinación Política proveerá lo necesario para el cumplimiento del presente Decreto.
+
+SEXTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
