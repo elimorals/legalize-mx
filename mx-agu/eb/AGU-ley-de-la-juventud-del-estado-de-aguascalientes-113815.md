@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-juventud-del-estado-de-aguascalientes-113815"
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-04"
-last_updated: "2018-11-12"
+last_updated: "2019-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de abril de 2016.
 
@@ -47,9 +47,11 @@ LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES
 
 La presente Ley es de orden público, interés social y observancia general en el Estado; su objeto es establecer, fomentar y garantizar el ejercicio de los derechos de los Jóvenes así como definir las políticas públicas dirigidas a la Juventud.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 2°.
 
-Los derechos previstos en la presente Ley beneficiarán a la Juventud, quedando prohibida toda discriminación motivada por origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra situación personal, que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de los Jóvenes o de sus padres, representantes legales o tutores.
+Los derechos previstos en la presente Ley beneficiarán a la Juventud tanto a los que sean adultos como a los adolescentes en lo que conforme a su edad y desarrollo sea aplicable, quedando prohibida toda discriminación motivada por origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra situación personal, que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de los Jóvenes o de sus padres, representantes legales o tutores.
 
 ###### ARTÍCULO 3°.
 
@@ -115,9 +117,17 @@ IV. Sufrir alguna clase de pobreza según los lineamientos y criterios estableci
 
 V. Personas con discapacidad;
 
-VI. Sufrir alguna enfermedad crónica; y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
-VII. Víctimas de delitos o de violaciones de sus derechos humanos.
+VI. Sufrir alguna enfermedad crónica;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+VII. Víctimas de delitos o de violaciones de sus derechos humanos; y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
+VIII. Con problemas de salud mental y/o trastornos mentales.
 
 ### CAPÍTULO II. De los Derechos de los Jóvenes
 
@@ -133,7 +143,7 @@ III. Recibir asesoría y asistencia jurídica;
 
 IV. Desarrollarse en un ambiente libre de violencia, así como recibir protección para salvaguardar su integridad física y psicológica;
 
-V. Ser tratados con igualdad, sin sufrir alguna forma de discriminación; gozando de la protección que para el efecto prevén la Ley para Prevenir y Erradicar la Discriminación del Estado de Aguascalientes, el Código Penal para el Estado de Aguascalientes y demás disposiciones aplicables;
+V. Ser tratados con igualdad, sin sufrir alguna forma de discriminación, gozando de la protección que para el efecto prevén la Ley para Prevenir y Erradicar la Discriminación del Estado de Aguascalientes, el Código Penal para el Estado de Aguascalientes y demás disposiciones aplicables;
 
 VI. Ser integrados a la vida social, de tal forma que tengan acceso a los servicios públicos como sujetos de derechos y oportunidades que les garanticen mejor calidad de vida, especialmente a aquellos Jóvenes que se encuentren en alguno de los supuestos referidos en el Artículo 7° de la presente Ley;
 
@@ -143,7 +153,7 @@ VIII. Participar en el diseño e implementación de las políticas públicas a t
 
 IX. A recibir atención cuando sean víctimas de un delito y a recibir trato digno cuando ellos cometan violaciones a la normatividad;
 
-X. Recibir información preventiva en materia de embarazos no deseados, enfermedades de transmisión sexual, adicciones, nutrición; atención a su salud física y psicológica;
+X. Recibir información preventiva en materia de embarazos no deseados, enfermedades de transmisión sexual, adicciones, nutrición, atención a su salud física y psicológica;
 
 XI. Oportunidades de empleo en condiciones equitativas en los sectores público y privado con igualdad, sin sufrir ninguna forma de discriminación;
 
@@ -165,7 +175,7 @@ XV. Los demás que les reconozcan otras disposiciones legales o reglamentarias.
 
 ###### ARTÍCULO 9°.
 
-Las políticas públicas dirigidas a la Juventud, son estrategias integrales, diseñadas e implementadas por el Ejecutivo y los Ayuntamientos en sus respectivos ámbitos competenciales y tienen, el objeto de garantizar el cumplimiento de los derechos de los Jóvenes e impulsar el desarrollo de sus capacidades, que de forma enunciativa y no limitativa comprenden las siguientes acciones:
+Las políticas públicas dirigidas a la Juventud, son estrategias integrales, diseñadas e implementadas por el Ejecutivo y los Ayuntamientos en sus respectivos ámbitos competenciales y tienen el objeto de garantizar el cumplimiento de los derechos de los Jóvenes e impulsar el desarrollo de sus capacidades, que de forma enunciativa y no limitativa comprenden las siguientes acciones:
 
 I. Ofrecer estímulos para la adquisición de bienes y servicios;
 
@@ -395,7 +405,7 @@ Los Ayuntamientos deberán incluir en sus Planes de Desarrollo Municipal y en su
 
 ###### ARTÍCULO 15.
 
-Cualquier persona que realice un acto u omisión que afecte derechos de los Jóvenes tendrá responsabilidad civil o penal, según corresponda.
+Cualquier persona que realice un acto u omisión que afecte derechos de los Jóvenes, tendrá responsabilidad civil o penal, según corresponda.
 
 ###### ARTÍCULO 16.
 
@@ -472,3 +482,11 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Quedan Derogadas todas las disposiciones normativas o reglamentarias que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 289.- ARTÍCULO ÚNICO.- SE REFORMAN EL ARTÍCULO 2°; LAS FRACCIONES VI Y VII DEL ARTÍCULO 7°; Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 7° A LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
