@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-comunicacion-social-e-imagen-institucional-89391"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-31"
-last_updated: "2012-08-31"
+last_updated: "2019-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE COMUNICACIÓN SOCIAL E IMAGEN INSTITUCIONAL DEL PODER LEGISLATIVO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE DICIEMBRE DE 2019.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el viernes 31 de agosto de 2012.
 
@@ -113,7 +113,9 @@ VIII. Planear y ejecutar un sistema de análisis y evaluación de la informació
 
 IX. Mantener actualizada la página electrónica oficial del Poder Legislativo, para lo cual deberá apoyarse de los órganos y dependencias de la Legislatura y las coordinaciones de comunicación social de los grupos parlamentarios, a fin de obtener la información detallada sobre cada materia para su correcta difusión;
 
-X. Crear y operar con el apoyo del Área de Informática de la Legislatura el Sistema de Transmisión en Vivo vía Página electrónica oficial del Poder Legislativo, las sesiones legislativas y actividades institucionales más relevantes;
+> <small>(REFORMADA, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+X. Crear y operar con el apoyo del Área de Informática del Poder Legislativo, el sistema de transmisión en vivo de las sesiones de la Legislatura y la Diputación Permanente, a través de las distintas plataformas oficiales del Poder Legislativo, implementando la traducción en lengua de señas mexicana durante el desarrollo de dichas transmisiones;
 
 XI. Diseñar, elaborar y proponer el Manual de Identidad Gráfica del Poder Legislativo;
 
@@ -248,3 +250,21 @@ DIP. JOSÉ HÉCTOR CÉSAR ENTZANA RAMÍREZ
 DIP. MIGUEL ÁNGEL XOLALPA MOLINA
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 23 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 103.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO Y SE RECORREN LOS PÁRRAFOS SUBSECUENTES AL ARTÍCULO 6 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 165 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 11 DEL REGLAMENTO DE COMUNICACIÓN SOCIAL E IMAGEN INSTITUCIONAL DEL PODER LEGISLATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- La “LX” Legislatura del Estado de México, en un lapso no mayor a 90 días naturales contados a partir de la entrada en vigor de la presente reforma, llevará a cabo las acciones conducentes y presupuestales para dar cumplimiento de lo establecido en el presente decreto.
+
+CUARTO.- La Dirección General de Comunicación Social, deberá actualizar las distintas plataformas oficiales del Poder Legislativo, a fin de cumplir con lo establecido en el presente Decreto.
+
+QUINTO.- La Junta de Coordinación Política proveerá lo necesario para el cumplimiento del presente Decreto.
+
+SEXTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
