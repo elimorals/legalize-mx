@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-fertilizantes-109702"
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-09-04"
-last_updated: "2019-06-28"
+last_updated: "2019-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109702&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,9 @@ issue_date: "2015-08-19"
 ---
 # ESTATUTO ORGANICO DE PEMEX FERTILIZANTES
 
-> <small>[N. DE E. LAS MODIFICACIONES APARECEN EN LAS DIRECCIONES ELECTRÓNICAS www.pemex.com/acerca/marco_normativo/Documents/estatutos/eopfe_201907.pdf y www.dof.gob.mx/2019/PEMEX/eopfe_201907.pdf]</small>
-
 ESTATUTO ORGÁNICO DE PEMEX FERTILIZANTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE DICIEMBRE DE 2019.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de septiembre de 2015.
 
@@ -183,13 +181,17 @@ I. Realizar las acciones que resulten necesarias para el cumplimiento de lo esta
 
 II. Proporcionar la información operativa, técnica y administrativa que les sea requerida por el Director General y por las direcciones corporativas, en la forma y términos solicitados; así como la información sobre los avances y resultados y, en su caso, presentar medidas de mejora;
 
-III. Diseñar e instrumentar mecanismos de rendición de cuentas y evaluación del desempeño, alineados con los establecidos en Pemex, y
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2019)</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.pemex.com/acerca/marco_normativo/Documents/estatutos/eopfe_201907.pdf y www.dof.gob.mx/2019/PEMEX/eopfe_201907.pdf]</small>
+III. Diseñar e instrumentar mecanismos de rendición de cuentas y evaluación del desempeño, alineados con los establecidos en Pemex;
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2019)</small>
 
-IV. Presentar por conducto del Director General, al Director General de Pemex para su resolución, los conflictos que se susciten entre Pemex Fertilizantes y otras Empresas Productivas Subsidiarias y Empresas Filiales, con excepción de aquellos que deban ser atendidos por las áreas de Pemex, en términos del Estatuto Orgánico de Petróleos Mexicanos.
+IV. Presentar por conducto del Director General, al Director General de Pemex para su resolución, los conflictos que se susciten entre Pemex Fertilizantes y otras Empresas Productivas Subsidiarias y Empresas Filiales, con excepción de aquellos que deban ser atendidos por las áreas de Pemex, en términos del Estatuto Orgánico de Petróleos Mexicanos, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2019)</small>
+
+V. Cumplir las decisiones sobre los asuntos administrativos y operativos que determine el Director General de Pemex, por si o por conducto del director corporativo que designe.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.pemex.com/acerca/marco_normativo/Documents/estatutos/eopfe_201907.pdf y www.dof.gob.mx/2019/PEMEX/eopfe_201907.pdf]</small>
 
@@ -1023,13 +1025,11 @@ Artículo 50 TER. El Director Corporativo de Administración y Servicios, el Sub
 
 Artículo 50 QUÁTER. Los servidores públicos de Pemex y las demás Empresas Productivas Subsidiarias, que deban realizar actos por cuenta y orden y/o en representación de Pemex Fertilizantes o bien, que tengan asignadas responsabilidades en términos del estatuto orgánico respectivo, se considerarán mandatarios de ésta con base en los poderes que se les otorguen.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.pemex.com/acerca/marco_normativo/Documents/estatutos/eopfe_201907.pdf y www.dof.gob.mx/2019/PEMEX/eopfe_201907.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 51.
 
-En caso de ausencia del Director General, será suplido por el Gerente de Estrategia y Desarrollo, el Gerente de Operaciones y por el Gerente de Comercialización, en ese orden o, en su caso, por el servidor público que el Director General designe por escrito.
+En caso de ausencia del Director General, será suplido por el Gerente de Estrategia y Desarrollo, el Gerente de Operaciones y por el Gerente de Comercialización, en ese orden, o en su caso, por el servidor público que el Director General de Pemex designe por escrito.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.pemex.com/acerca/marco_normativo/Documents/estatutos/eopfe_201907.pdf y www.dof.gob.mx/2019/PEMEX/eopfe_201907.pdf]</small>
 
@@ -1160,3 +1160,23 @@ www.pemex.com/acerca/marco_normativo/Documents/estatutos/eopfe_201907.pdf
 www.dof.gob.mx/2019/PEMEX/eopfe_201907.pdf
 
 Ciudad de México, a 25 de junio de 2019.- La Subdirectora de Consultoría Jurídica Suplente por ausencia del Director Jurídico mediante oficio DG/516/2018, Luz María Zarza Delgado.- Rúbrica.
+
+D.O.F. 23 DE DICIEMBRE DE 2019.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL “AVISO POR EL QUE SE DAN A CONOCER LAS DIRECCIONES ELECTRÓNICAS EN DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DE PEMEX FERTILIZANTES Y SU APROBACION”.]</small>
+
+EL CONSEJO DE ADMINISTRACIÓN DE PEMEX FERTILIZANTES, con fundamento en el artículo 12, fracción VI, del Acuerdo de Creación de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Fertilizantes, aprobó las modificaciones al Estatuto Orgánico de Pemex Fertilizantes, en Sesión 29 Ordinaria celebrada el día 4 de diciembre de 2019, mediante acuerdo número CAEPS-PF-037/2019.
+
+El Estatuto Orgánico de Pemex Fertilizantes tiene por objeto establecer la estructura y organización básica y las funciones de las distintas áreas que integran Pemex Fertilizantes, así como los directivos o personal de confianza que tendrán la representación de la misma y aquellos que podrán otorgar poderes en nombre de la empresa y las reglas para el funcionamiento de su Consejo de Administración.
+
+En ese sentido, se expide el siguiente:
+
+AVISO POR EL QUE SE DAN A CONOCER LAS DIRECCIONES ELECTRÓNICAS EN DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DE PEMEX FERTILIZANTES Y SU APROBACION:
+
+www.pemex.com/acerca/marco_normativo/Documents/estatutos/mod_eopfert_201912.pdf
+
+www.dof.gob.mx/2019/PEMEX/mod_eopfert_201912.pdf
+
+## TRANSITORIO
+
+ÚNICO. Las presentes modificaciones al Estatuto, entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
