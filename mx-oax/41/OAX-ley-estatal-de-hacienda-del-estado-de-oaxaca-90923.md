@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-hacienda-del-estado-de-oaxaca-90923"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-15"
-last_updated: "2018-12-29"
+last_updated: "2019-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE HACIENDA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DEL 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de diciembre de 2012.
 
@@ -63,7 +63,9 @@ II. Causación: Al Momento exacto en que se considera consumado el hecho generad
 
 III. Código: Al Código Fiscal para el Estado de Oaxaca;
 
-IV. Lugar de pago: La Secretaría, las sucursales o a través de los medios electrónicos que al efecto proporcionen los bancos y entidades financieras; así como en las sucursales de casas comerciales, oficinas postales y otros organismos públicos o privados;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+IV. Lugar de pago: La Secretaría, las sucursales o a través de los medios electrónicos que al efecto proporcionen los bancos y entidades financieras; así como en casas comerciales, sus sucursales y demás establecimientos, oficinas postales y otros organismos públicos o privados;
 
 V. Objeto: Al elemento económico sobre el que se asienta la contribución;
 
@@ -91,9 +93,11 @@ XI. Unidad de Medida y Actualización (UMA): Unidad de cuenta, índice, base, me
 
 XII. Zona Económica Especial: La establecida por la Ley Federal de Zonas Económicas y la Ley de Coordinación Estatal de las Zonas Económicas Especiales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 3.
 
-La Secretaría podrá ser auxiliada por las sucursales o a través de los medios electrónicos que al efecto proporcionen las instituciones bancarias y entidades financieras; así como en las sucursales de casas comerciales, oficinas postales y otros organismos públicos o privados, que cumplan con todos los requisitos de seguridad y control que, en su caso, determine la Secretaría, como auxiliares en la recaudación de los ingresos, considerando al efecto la mayor cobertura y eficiencia posibles.
+La Secretaría podrá ser auxiliada por las sucursales o a través de los medios electrónicos que al efecto proporcionen las instituciones bancarias y entidades financieras; así como en los establecimientos y sucursales de casas comerciales, oficinas postales y otros organismos públicos o privados, que cumplan con todos los requisitos de seguridad y control que, en su caso, determine la Secretaría, como auxiliares en la recaudación de los ingresos, considerando al efecto la mayor cobertura y eficiencia posibles.
 
 Para tal efecto, la Secretaría podrá celebrar los acuerdos, contratos y convenios que sean necesarios con los entes privados antes señalados.
 
@@ -363,6 +367,10 @@ Los contribuyentes que ejerzan la opción prevista en el párrafo anterior, lo d
 
 En el caso de copropietarios, cada uno podrá efectuar las deducciones que le correspondan, multiplicando la cantidad que corresponda, por los conceptos y en los términos de este artículo, por el porcentaje que resulte de participación en la propiedad, según conste en el documento constitutivo de la copropiedad sobre el bien común.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Cuando se determinen en forma presuntiva los ingresos por este impuesto, los contribuyentes podrán optar por que las autoridades fiscales apliquen la deducción del 35 por ciento de los ingresos determinados presuntivamente y al resultado se le aplique la tasa a que se refiere el artículo 26 de esta ley.
+
 Tratándose de subarrendamiento, sólo se deducirá el importe de las rentas que pague el arrendatario al arrendador.
 
 Cuando el contribuyente ocupe parte del bien inmueble del cual derive el ingreso por otorgar el uso o goce temporal del mismo u otorgue su uso o goce temporal de manera gratuita, no podrá deducir la parte de los gastos, así como tampoco el Impuesto Predial y las contribuciones de mejoras que correspondan proporcionalmente a la unidad por él ocupada o de la otorgada gratuitamente. En los casos de subarrendamiento, el subarrendador no podrá deducir la parte proporcional del importe de las rentas pagadas que correspondan a la unidad que ocupe o que otorgue gratuitamente.
@@ -373,9 +381,13 @@ Los contribuyentes al efectuar los pagos a que se refiere este capítulo, harán
 
 Tratándose de inversiones, los contribuyentes de este impuesto podrán deducir de los ingresos del periodo, la sexta parte de la deducción que corresponda al año calendario, independientemente del uso que se dé al inmueble de que se trate.
 
-En el caso de que los ingresos percibidos sean inferiores a las deducciones del periodo, los contribuyentes podrán considerar la diferencia que resulte entre ambos conceptos, como deducible en los periodos siguientes, siempre y cuando dichas deducciones correspondan al mismo año calendario.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-Las deducciones a que se refiere este artículo deberán estar relacionadas con los inmuebles por los que se obtengan los ingresos materia de este impuesto.
+En el caso de que los ingresos percibidos sean inferiores a las deducciones del período, los contribuyentes podrán considerar la diferencia que resulte entre ambos conceptos, como deducible en los períodos siguientes, hasta agotarla, siempre y cuando no rebase de los cinco ejercicios siguientes.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Las deducciones a que se refiere este artículo deberán estar relacionadas con los inmuebles por los que se obtengan los ingresos materia de este impuesto y deberán reunir los requisitos fiscales previstos en la Ley del Impuesto Sobre la Renta y el Código Fiscal de la Federación.
 
 Cuando el uso o goce temporal del bien de que se trate no se hubiese otorgado por todo el año calendario, las deducciones a que se refieren las fracciones I a V de este artículo se aplicarán únicamente cuando correspondan al periodo por el cual se otorgó el uso o goce temporal del bien inmueble o a los tres meses inmediatos anteriores en que se otorgue dicho uso o goce.
 
@@ -1207,7 +1219,81 @@ Las personas físicas, morales o unidades económicas que se instalen dentro del
 
 Posteriormente a los diez años de no causación, las personas físicas, morales o unidades económicas que se instalen dentro del polígono territorial de las zonas económicas especiales, se les calculará este impuesto aplicando una tasa de seis por ciento sobre la base que señala en el artículo 61 de esta Ley por los cinco años siguientes.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO NOVENO BIS. IMPUESTO SOBRE LA EXTRACCIÓN DE MATERIALES POR REMEDIACIÓN AMBIENTAL
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 A. Es objeto de este impuesto la extracción del suelo y subsuelo de materiales que constituyan depósitos de igual naturaleza a los componentes de los terrenos, aun y cuando constituyan vetas, mantos o yacimientos, tales como los agregados pétreos, la andesita, las arcillas, la arena, el azufre, la caliza, la grava, la riolita, las rocas dimensionables, la sal, la vermiculita, el yeso, piedras y sustrato o capa fértil.
+
+Para estos efectos, la extracción deberá realizarse por medio de trabajos a cielo abierto en el territorio del Estado. No se considerarán objeto de este impuesto los minerales o sustancias a que hace referencia el artículo 4 de la Ley Minera.
+
+Para efectos del presente artículo se entenderá como:
+
+I. Agregados Pétreos: Los materiales granulares sólidos inertes que se emplean en los firmes de las carreteras con o sin adición de elementos activos y con granulometrías adecuadas; se utilizarán para la fabricación de productos artificiales resistentes, mediante su mezcla con materiales aglomerados de activación hidráulica (cementos, cales, entre otros) o con ligantes asfálticos, y
+
+II. Rocas dimensionables: el granito, la cantera, el mármol, el ónix, roca travertino, rocas sedimentarias y demás rocas para la construcción.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 B. Son sujetos de este impuesto las personas físicas, las personas morales o unidades económicas que dentro del territorio del Estado extraigan del suelo y subsuelo materiales referidos en el Artículo 69 A.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 C. La base de este impuesto es el volumen de metros cúbicos de material extraído del suelo y subsuelo que constituyan depósitos de igual o semejante naturaleza a los componentes del terreno.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 D. Este impuesto se causará aplicando a la base las cuotas por metro cúbico que se extraiga de los materiales objeto de la contribución, en los términos siguientes:
+
+Material Cuota en UMA
+
+Agregados Pétreos 0.31
+
+Andesita 0.47
+
+Arcillas 0.19
+
+Arena 0.25
+
+Azufre 2.04
+
+Caliza 0.21
+
+Grava 0.20
+
+Riolita 0.31
+
+Rocas dimensionables 2.94
+
+Sal 0.67
+
+Vermiculita 7.45
+
+Yeso 0.40
+
+Piedras y sustrato o capa fértil 0.13
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 E. El pago de este impuesto se efectuará mediante declaración bimestral definitiva que deberá ser presentada en los primeros 17 días de los meses de marzo, mayo, julio, septiembre, noviembre y enero del año siguiente en que ocurran las actividades de extracción de materiales objeto de la contribución.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 F. Los sujetos obligados al pago de este impuesto tendrán a su cargo las obligaciones siguientes:
+
+I. Las personas físicas y morales o unidades económicas que para efecto de impuestos federales tengan su domicilio fiscal en otras entidades, pero que realicen las actividades a que se refiere este Capítulo, deberán registrar como domicilio fiscal estatal, el lugar en donde se originen sus actos;
+
+II. Presentar las declaraciones del impuesto y enterar y pagar el impuesto correspondiente en la forma y los términos previstos en este Capítulo y en las Reglas;
+
+III. Llevar la contabilidad de conformidad con el Código.
+
+IV. Llevar un libro de registros de extracción en el que se hará constar diariamente la cantidad en metros cúbicos de material que se extraiga del suelo y subsuelo;
+
+V. Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto;
+
+VI. Poner a disposición de las autoridades competentes, para los efectos del ejercicio de sus facultades de comprobación, los informes, documentos, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto, así como del resto de las obligaciones a su cargo en términos del Código; y
+
+VII. Las demás que señale la ley y los ordenamientos fiscales aplicables.
 
 ###### ARTÍCULO 63.
 
@@ -1249,9 +1335,9 @@ La retención deberá realizarse sobre el importe total, que por concepto de rem
 
 Las Dependencias y Entidades de la Administración Pública Federal, Estatal o Municipal en la celebración de contratos de obra pública deberán retener este impuesto a las personas físicas, morales o unidades económicas obligadas al pago de esta contribución al momento del pago de las estimaciones correspondiente de la obra.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-Para determinar la cantidad a retener se tomará como base del impuesto, la cantidad establecida por concepto de mano de obra enterada en el presupuesto autorizado de la obra pública, aplicando la tasa señalada en el artículo 66 de esta Ley, por cada pago de estimaciones por trabajos ejecutados, que se otorgue al obligado de este impuesto a cuenta de pago final y hasta la terminación de la obra.
+Para determinar la cantidad a retener se tomará como base del impuesto, los conceptos establecidos en el artículo 63 de esta Ley, de acuerdo a la cantidad establecida por mano de obra enterada en el presupuesto autorizado de la obra pública, aplicando la tasa señalada en el artículo 66 de esta Ley, por cada pago de estimaciones por trabajos ejecutados, que se otorgue al obligado de este impuesto a cuenta de pago final y hasta la terminación de la obra.
 
 ###### ARTÍCULO 65.
 
@@ -1293,7 +1379,9 @@ IX. Participaciones de los trabajadores en las utilidades de las empresas;
 
 X. Aportaciones al Instituto Mexicano del Seguro Social (IMSS), al Instituto del Fondo Nacional para la Vivienda de los Trabajadores (INFONAVIT), al Instituto de Seguridad y Servicios Sociales para los Trabajadores al Servicio del Estado (ISSSTE), a la Oficina de Pensiones del Estado y las del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (ISSFAM), de las cuotas a cargo del patrón;
 
-XI. Los pagos por tiempo extraordinario cuando este no rebase tres horas diarias, ni tres veces por semana de trabajo;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+XI. Los pagos por tiempo extraordinario cuando este no rebase tres horas diarias ni tres veces por semana de trabajo, en caso de existir excedentes por este concepto, estos formarán parte de la base del impuesto y deberán enterarse conforme al artículo 63 de esta ley.
 
 XII. Alimentación y habitación cuando no se proporcionen gratuitamente al trabajador, así como las despensas;
 
@@ -1311,7 +1399,9 @@ Para que los conceptos anteriormente señalados se exceptúen deberán estar deb
 
 No causarán este impuesto:
 
-I. Las Instituciones de asistencia o de beneficencia autorizadas por las leyes de la materia, así como, las sociedades o asociaciones civiles autorizadas para recibir donativos en los términos de la Ley del Impuesto Sobre la Renta que, sin designar individualmente a los beneficiarios, tengan las siguientes actividades:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+I. Las instituciones de asistencia o de beneficencia autorizadas por las leyes de la materia, así como las sociedades o asociaciones civiles autorizadas sin fines de lucro para recibir donativos en los términos de la Ley del Impuesto Sobre la Renta que, sin designar individualmente a los beneficiarios, tengan las siguientes actividades:
 
 a) Atención a personas que, por sus carencias socioeconómicas o por problemas de invalidez, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
@@ -1343,6 +1433,10 @@ VII. Las unidades agrícolas industriales de la mujer campesina, y;
 
 VIII. Las personas físicas, morales o unidades económicas que se instalen dentro del polígono territorial de las zonas económicas especiales.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+IX. Los organismos públicos descentralizados del Estado cuando tengan por objeto la prestación de servicios de educación inicial básica incluyendo la indígena, especial, la normal y demás para la formación de maestros, así como la prestación de los servicios de salud a población abierta en el territorio del Estado.
+
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
 
 La no causación de este impuesto será por un periodo de diez años a partir de que se genere la obligación del pago.
@@ -1367,15 +1461,17 @@ II. Las personas físicas, morales o unidades económicas, cuyo domicilio fiscal
 
 III. Cuando el domicilio fiscal de las personas físicas, morales o unidades económicas, se encuentre ubicado fuera del territorio del estado de Oaxaca, y realicen erogaciones por remuneraciones al trabajo personal en establecimientos dentro de dicho territorio, deberán presentar una sola declaración en los lugares de pago autorizados por la Secretaría, en razón del domicilio fiscal que al efecto hayan manifestado ante la Secretaría, para realizar el pago respectivo, acumulando los pagos por la prestación de un servicio personal que realicen en cada uno de los establecimientos;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-IV. Presentar declaración anual informativa dentro de los tres primeros meses del año, cuando estos realicen los siguientes actos:
+IV. Presentar declaración anual informativa dentro de los tres primeros meses del año, cuando presten servicios mediante los cuales proporcionen trabajadores a terceros cuyo domicilio se encuentre dentro y fuera del territorio del estado.
 
-a) Presten servicios mediante los cuales proporcionen trabajadores a terceros cuyo domicilio se encuentre dentro o fuera del territorio del Estado, o
+a) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2019)
 
-b) Contraten en el territorio del Estado, servicios mediante los cuales se les proporcionen trabajadores.
+b) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2019)
 
 La presentación de declaraciones informativas a que refiere este artículo se realizará en los formatos y conforme a las reglas de carácter general que emita la Secretaría.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 ### CAPÍTULO ÚNICO
 
@@ -1407,8 +1503,6 @@ Los productos por conceptos diversos de los señalados, en el artículo que ante
 
 ### CAPÍTULO ÚNICO
 
-> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2012)</small>
-
 ###### ARTÍCULO 73.
 
 Se consideran aprovechamientos, los ingresos que percibe el Estado por funciones de derecho público, distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal mismas que se clasifican de la siguiente manera:
@@ -1422,6 +1516,8 @@ III. Los no comprendidos en las fracciones de la Ley de Ingresos causadas en eje
 ## TÍTULO SEXTO. DE LOS INGRESOS POR VENTAS DE BIENES Y SERVICIOS
 
 ### CAPÍTULO ÚNICO
+
+> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 74.
 
@@ -1442,6 +1538,8 @@ III. Los provenientes por ventas de bienes y servicios producidos en establecimi
 Son los recursos que por disposición de la Ley de Coordinación Fiscal le corresponden al Estado y Municipios de la Entidad; inclúye los recursos destinados a la ejecución de programas federales que mediante la reasignación de recursos presupuestarios se obtiene en los términos de los Convenios que celebre el Gobierno del Estado con la Federación.
 
 ## TÍTULO OCTAVO. DE LAS TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y OTRAS AYUDAS
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 76.
 
@@ -1570,3 +1668,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil diecinueve, previa publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 883.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE HACIENDA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinte, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
