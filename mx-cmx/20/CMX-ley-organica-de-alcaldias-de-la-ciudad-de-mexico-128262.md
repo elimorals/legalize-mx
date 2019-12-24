@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-alcaldias-de-la-ciudad-de-mexico-128262"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2019-07-12"
+last_updated: "2019-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128262&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Tomo I del Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -572,7 +572,11 @@ V. Construir, rehabilitar, mantener y, en su caso, administrar y mantener en bue
 
 VI. Proponer y ejecutar las obras tendientes a la regeneración de barrios y, en su caso, promover su incorporación al patrimonio cultural, en coordinación con las autoridades competentes;
 
-VII. Ejecutar dentro de su demarcación territorial los programas de obras públicas para el abastecimiento de agua potable y servicio de drenaje y alcantarillado y las demás obras y equipamiento urbano en coordinación con el organismo público encargado del abasto de agua y saneamiento de la Ciudad; así como realizar las acciones necesarias para procurar el abastecimiento y suministro de agua potable en la demarcación;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+VII. Ejecutar dentro de su demarcación territorial los programas de obras públicas para el abastecimiento de agua potable y servicio de drenaje y alcantarillado y las demás obras y equipamiento urbano en coordinación con el organismo público encargado del abasto de agua y saneamiento de la Ciudad; así como realizar las acciones necesarias para procurar el abastecimiento y suministro de agua potable en la demarcación.
+
+Para coadyuvar en el cumplimiento de los criterios técnicos del organismo público competente para el abasto de agua, se constituirá un Consejo Hídrico en la demarcación, integrado por las personas titulares de la Alcaldía, quien lo presidirá, además de las unidades de Servicios Urbanos, Obras y Desarrollo Urbano y de Gestión Integral de Riesgos y Protección Civil;
 
 VIII. Prestar el servicio de tratamiento de residuos sólidos en la demarcación territorial en los términos de la legislación aplicable;
 
@@ -656,9 +660,21 @@ III. Diseñar e implementar, en coordinación con el Gobierno de la Ciudad, acci
 
 IV. Vigilar, en coordinación con el Gobierno de la Ciudad, que no sean ocupadas de manera ilegal las áreas naturales protegidas y el suelo de conservación;
 
-V. Promover la educación y participación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente, y
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2019)</small>
 
-VI. Las demás que le confieren esta y otras disposiciones jurídicas en la materia.
+V. Promover la educación y participación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+VI. Diseñar e implementar programas de reforestación de especies arbóreas idóneas para el entorno y la infraestructura urbana en las vías secundarias de las demarcaciones territoriales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+VII. Promover y fomentar entre las personas el cuidado de las áreas verdes en el entorno inmediato a su domicilio, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+VIII. Las demás que le confieren esta y otras disposiciones jurídicas en la materia.
 
 ###### Artículo 53.
 
@@ -2178,11 +2194,13 @@ DÉCIMO SEGUNDO.- El jefe de gobierno tendrá hasta 180 días a partir de que se
 
 DÉCIMO TERCERO.- Las disposiciones contenidas en el Título XIV de la presente Ley, serán sometidas a Consulta conforme a lo dispuesto por el Artículo 25 de la Constitución Política de la Ciudad de México, durante los primeros 90 días del año 2018 por lo que, en su caso, la Asamblea Legislativa del Distrito Federal deberá realizar las adiciones a la presente Ley, si es que resultaren del proceso.
 
-DÉCIMO CUARTO.- Las disposiciones relativas a los procesos de presupuestación, administración, ministración, ejercicio, contabilidad, responsabilidades e información financiera de las alcaldías, se establecerán en la Ley correspondiente, con previa consulta al Cabildo de la Ciudad, en un plazo no mayor a 180 días contados a partir de la instalación formal de las alcaldías electas para el periodo 2018 – 2021.
+DÉCIMO CUARTO.- Las disposiciones relativas a los procesos de presupuestación, administración, ministración, ejercicio, contabilidad, responsabilidades e información financiera de las alcaldías, se establecerán en la Ley correspondiente, con previa consulta al Cabildo de la Ciudad, en un plazo no mayor a 180 días contados a partir de la instalación formal de las alcaldías electas para el periodo 2018 - 2021.
 
 DÉCIMO QUINTO.- El Sistema Integral de Información, Diagnóstico, Monitoreo y Evaluación del Desarrollo Urbano podrá ser contemplado por el Congreso y por el Instituto de Planeación Democrática y Prospectiva de la Ciudad, en la regulación e implementación del régimen de planeación previsto en el artículo 15 de la Constitución Local.
 
-DECIMO SEXTO.- La retribución a que se refiere el artículo 82, de esta Ley, no podrá exceder el monto equivalente a 265 unidades de medida de actualización vigente.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+DÉCIMO SEXTO.- La retribución a la que se refiere el artículo 82 de esta Ley, deberá contemplarse el cargo de Concejal u homólogo en el tabulador de sueldos y salarios del presupuesto de egresos para el año 2020, así como en los años subsecuentes.
 
 DÉCIMO SÉPTIMO.- El reglamento de esta ley y los manuales deben publicarse en la Gaceta Oficial den (sic) la Ciudad y mantenerse actualizado, con indicación del inicio de su vigencia. Las actualizaciones también se publicarán en el órgano de difusión señalado.
 
@@ -2237,3 +2255,31 @@ G.O. 12 DE JULIO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA Y REFORMA EL ARTÍCULO 52 DE LA LEY ORGÁNICA DE ALCALDÍAS".]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México y, para su mayor difusión, en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO DÉCIMO SEXTO TRANSITORIO DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México y, para su mayor difusión, en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- La Comisión de Presupuesto y Cuenta Pública del Congreso de la Ciudad de México, deberá incluir en el tabulador de sueldos y salarios de mandos medios y superiores u homólogos, para el ejercicio 2020, el cargo de Concejal y su retribución.
+
+CUARTO.- En el presupuesto de egresos para los ejercicios fiscales de los años subsecuentes, la Secretaría de Administración y Finanzas, será la encargada de incluir el cargo de Concejal en el tabulador de sueldos y salarios, así como su retribución.
+
+G.O. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA Y REFORMA EL ARTÍCULO 42 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México y, para su mayor difusión, en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
