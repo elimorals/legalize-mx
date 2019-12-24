@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-centros-de-reclusion-para-el-distrito-federal-100096"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-04"
-last_updated: "2017-10-05"
+last_updated: "2019-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100096&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-03-28"
 
 LEY DE CENTROS DE RECLUSIÓN PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 4 de abril de 2014.
 
@@ -954,6 +954,84 @@ V. En ejecución de los tratados y convenios a que se refiere el artículo 18 Co
 
 VI. Para el caso de arrestos por determinación de autoridad competente.
 
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 78 Bis.
+
+Las personas que sean internadas en un Centro de Reclusión deberán ser registradas en el Sistema Único de Información Criminal definido en la Ley General del Sistema Nacional de Seguridad Pública y en la Ley Nacional de Ejecución Penal.
+
+En la base de datos del registro de las personas privadas de la libertad deberá constar, al menos, la siguiente información:
+
+I. Datos de la persona:
+
+A. Clave de identificación biométrica;
+
+B. Nombre (s);
+
+C. Fotografía;
+
+D. Alcaldía donde se encuentra el Centro Penitenciario;
+
+E. Características sociodemográficas tales como: sexo, fecha de nacimiento, estatura, peso, nacionalidad, estado de origen, municipio de origen, estado de residencia habitual, municipio de residencia habitual, condición de identificación indígena, condición de habla indígena, estado civil, escolaridad, condición de alfabetización, y ocupación;
+
+F. En su caso, los datos de niñas y niños que vivan con su madre en el Centro Penitenciario;
+
+Existirá una versión pública de la base de datos para atender el Sistema de Información Estadística Penitenciaria;
+
+II. Un expediente médico que se integrará por lo menos con los siguientes datos:
+
+A. Ficha de identificación;
+
+B. Historia clínica completa;
+
+C. Notas médicas subsecuentes;
+
+D. Estudios de laboratorio, gabinete y complementarios, y
+
+E. Tratándose de personas procesados (sic) penalmente, los documentos de consentimiento informado de la toma de muestra para perfil genético de los delitos establecidos en la Ley del Banco de Perfiles Genéticos de ADN de la Ciudad de México.
+
+III. En su caso, el expediente de ejecución que contendrá, al menos:
+
+A. Nombre;
+
+B. Tres identificadores biométricos, en los términos de la fracción primera del presente artículo;
+
+C. Fotografía;
+
+D. Fecha de inicio del proceso penal;
+
+E. Delito;
+
+F. Fuero del delito;
+
+G. Resolución privativa de la libertad y resoluciones administrativas y judiciales que afecten la situación jurídica de la persona privada de la libertad;
+
+H. Fecha de ingreso al Centro Penitenciario;
+
+I. Alcaldía donde se encuentra el Centro Penitenciario;
+
+J. Nombre del Centro Penitenciario;
+
+K. Alcaldía donde se lleva a cabo el proceso;
+
+L. Fecha de la sentencia;
+
+M. Pena impuesta, cuando sea el caso;
+
+N. Traslados especificando fecha, así como lugar de origen y destino;
+
+Ñ. Inventario de los objetos personales depositados en la Autoridad Penitenciaria;
+
+O. Ubicación al interior del Centro Penitenciario;
+
+P. Lista de las personas autorizadas para visitar a la persona privada de la libertad;
+
+Q. Sanciones y beneficios obtenidos;
+
+R. Información sobre cónyuge, o pareja, familiares directos, así como dependientes económicos, incluyendo su lugar de residencia, origen y/o arraigo, y
+
+S. Plan de actividades.
+
 ###### Artículo 79.
 
 Los internos sobre los cuales recayó una sentencia condenatoria ejecutoriada, tendrán derecho a que se les traslade a un Centro de Reclusión cercano a su domicilio o al de su familia, de acuerdo con los convenios nacionales e internacionales vigentes. No obstante lo anterior, los indiciados y procesados no podrán ser trasladados a los Centros de Reclusión y los sentenciados ejecutoriados que se encuentran en ellos, no podrán regresar a los mismos, aún en el caso de la comisión de un nuevo delito, excepción hecha de los casos en que así lo determine la autoridad judicial por haberse acreditado plenamente el riesgo en la seguridad institucional o de los internos. A quienes se les dicte sentencia y ésta haya causado ejecutoria, a la brevedad posible deberán ser trasladadas a los Centros de Reclusión.
@@ -1569,3 +1647,25 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
 
 TERCERO.- Los derechos, erogaciones y acciones previstas en este ordenamiento jurídico que impliquen erogaciones de carácter presupuestal, deberán realizarse de manera gradual y sujetarse a la capacidad financiera del Gobierno de la Ciudad de México, con el objeto de garantizar el equilibrio presupuestal.
+
+G.O. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY POR LA QUE SE CREA EL BANCO DE ADN PARA USO FORENSE DE LA CIUDAD DE MÉXICO, SE ADICIONA UN ARTÍCULO 78 BIS A LA LEY DE CENTROS DE RECLUSIÓN PARA EL DISTRITO FEDERAL Y SE REFORMA EL ARTÍCULO 136 DE LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO EN MATERIA DE REGISTRO DE IDENTIFICACIÓN BIOMÉTRICA”.]
+
+PRIMERO. Publíquese el presente decreto en la Gaceta Oficial de la Ciudad de México y en el sitio web del Congreso de la Ciudad de México para su mayor difusión.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. El Banco de Perfiles Genéticos deberá estar en operación a más tardar dentro de los 365 días posteriores a la entrada en vigor de la presente Ley que se expide.
+
+CUARTO. La implementación del Banco de perfiles genéticos será gradual, debiendo quedar concluida en su totalidad a más tardar el 31 de diciembre del 2022.
+
+QUINTO. En tanto no entre en funcionamiento la Fiscalía General de Justicia, las funciones que le son atribuidas en la presente Ley, serán desarrolladas por la Procuraduría General de Justicia.
+
+SEXTO. La Coordinación Interinstitucional deberá elaborar y aprobar los lineamientos, manuales, procedimiento, protocolos, así como la capacitación y certificación, en el término de doce meses contados a partir de la fecha de entrada en vigor de la presente Ley.
+
+SÉPTIMO. La Fiscalía General de Justicia de la Ciudad de México, a partir de que entre en vigor el presente decreto deberá emitir en un plazo no mayor a 90 días los protocolos de actuación para la toma de muestras, respetando siempre el principio de la dignidad humana.
+
+OCTAVO. Las referencias hechas a la Fiscalía General de Justicia de la Ciudad de México y a su titular se entenderán hechas para la Procuraduría General de Justicia de la Ciudad de México en tanto no entre en funciones la Fiscalía.
+
+NOVENO. A partir de la entrada en vigor del presente decreto, se incluirán en la base de datos de las personas sentenciadas, a aquellas que hayan adquirido ese carácter con fecha posterior a la entrada en vigor de la presente ley.
