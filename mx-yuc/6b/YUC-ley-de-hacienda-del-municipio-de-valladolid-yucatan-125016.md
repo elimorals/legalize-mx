@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-valladolid-yucatan-125016"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-27"
-last_updated: "2017-12-27"
+last_updated: "2019-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,13 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE VALLADOLID, YUCATAN
 
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA DEL MUNICIPIO DE VALLADOLID, YUCATÁN, PUBLICADA EN EL D.O. DE 24 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
 LEY DE HACIENDA DEL MUNICIPIO DE VALLADOLID, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en el Número 33,504 del Diario Oficial del Estado de Yucatán, el miércoles 27 de diciembre de 2017.
 
@@ -3510,3 +3514,25 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE HACIENDA DEL MUNICIPIO DE VALLADOLID, YUCATÁN".]
+
+Primero.- Esta Ley entrará en vigor el primero de enero del año 2020, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo.- Se abroga la Ley de Hacienda del Municipio de Valladolid, Yucatán, publicada en el Diario Oficial del Gobierno del Estado el día 27 de diciembre de 2017 en el Decreto 567.
+
+Tercero.- Se derogan todas las disposiciones de igual y menor rango que contravengan lo dispuesto en este decreto.
+
+Cuarto.- En lo no previsto por esta Ley, se aplicará supletoriamente lo establecido por el Código Fiscal y la Ley General de Hacienda para los Municipios, ambas del Estado de Yucatán.
+
+Quinto.- El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que a la fecha de la publicación de esta ley, no hayan sido transferidos formalmente al Ayuntamiento por el Gobierno del Estado de Yucatán, entrarán en vigor hasta la celebración del convenio respectivo.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 150/2019 POR EL QUE SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE HOMÚN, KAUA, MUNA, OPICHÉN, SEYÉ, SOTUTA, TELCHAC PUEBLO Y VALLADOLID".]
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto, entrará en vigor el primero de enero del año 2020, previo su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
