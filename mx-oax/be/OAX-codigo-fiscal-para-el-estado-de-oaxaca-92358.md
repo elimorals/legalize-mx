@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-para-el-estado-de-oaxaca-92358"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-12-22"
-last_updated: "2018-12-29"
+last_updated: "2019-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2019.
 
 Código publicado en la cuarta sección del periódico oficial del Estado de Oaxaca el sábado 22 de diciembre de 2012.
 
@@ -163,9 +163,9 @@ VI. El Director de Ingresos y Recaudación, y los Coordinadores de la Dirección
 
 VII. El Director de Auditoría e Inspección Fiscal y los Coordinadores de la Dirección a su cargo;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-VIII. Los auditores, inspectores, visitadores, notificadores, ejecutores e interventores;
+VIII. Los Auditores, Inspectores, Visitadores, Verificadores, Notificadores, Ejecutores e Interventores;
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -371,7 +371,9 @@ Cuando de conformidad con las disposiciones fiscales se deban realizar operacion
 
 Cuando los contribuyentes o responsables solidarios, no cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe; además, deberán pagarse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno.
 
-Los recargos a que se refiere el párrafo anterior se calcularán aplicando al monto de las contribuciones o de los aprovechamientos actualizados por el período a que se refiere este párrafo, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de actualización de la contribución o aprovechamiento de que se trate. La tasa de recargos para cada uno de los meses de mora será la que resulte de incrementar en 50% a la que fije anualmente el Congreso del Estado en la Ley de Ingresos.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Los recargos a que se refiere el párrafo anterior se calcularán aplicando al monto de las contribuciones o de los aprovechamientos actualizados por el período a que se refiere este párrafo, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de la contribución o aprovechamiento de que se trate. La tasa de recargos para cada uno de los meses de mora será la que resulte de incrementar en 50% a la que fije anualmente el Congreso del Estado en la Ley de Ingresos; para tal efecto, la tasa se considerará hasta la centésima y, en su caso, se ajustará a la centésima inmediato (sic) superior cuando el dígito de la milésima sea igual o mayor a 5 y cuando la milésima sea menor a 5 se mantendrá la tasa a la centésima que haya resultado.
 
 Los recargos por falta de pago oportuno de contribuciones o aprovechamientos se causarán hasta por cinco años, salvo en los casos a que se refiere el artículo 117 de este Código, supuestos en los cuales los recargos se causarán hasta en tanto no se extingan las facultades de las autoridades fiscales para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, y se calcularán sobre el total del crédito fiscal, excluyendo salvo disposición expresa en contrario, los propios recargos, y los gastos de ejecución.
 
@@ -547,7 +549,9 @@ IV. Dirección de correo electrónico institucional: Sistema de comunicación a 
 
 V. Documento digital: A todo mensaje de datos que contiene información o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología;
 
-VI. Firma electrónica avanzada: Medio de identificación en forma electrónica consignados en un mensaje de datos, o adjuntados, o lógicamente asociados al mismo, que puedan ser utilizados para identificar al Firmante e indicar que éste aprueba la información recogida en dicho mensaje. La firma electrónica avanzada establece la relación entre los datos y la identidad del Firmante;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+VI. Firma electrónica avanzada: el conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa.
 
 VII. Firmante: La persona que posee los datos de creación de la Firma electrónica avanzada y del certificado digital, que actúa por cuenta propia o de la persona a la que representa;
 
@@ -919,11 +923,11 @@ Los contribuyentes podrán cumplir con la obligación a que se refiere el párra
 
 Los formatos electrónicos a que se refiere el primer párrafo de este artículo, se darán a conocer en el portal electrónico de la Secretaría, los cuales estarán apegados a las disposiciones fiscales aplicables, y su uso será obligatorio siempre que la difusión en el portal mencionado se lleve a cabo al menos con un mes de anticipación a la fecha en que el contribuyente esté obligado a utilizarlos.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 63.
 
-A petición de los interesados, previo el pago de los derechos correspondientes, la Secretaría podrá expedir constancias en la que se señalen las declaraciones por ellos presentadas, o sobre la situación fiscal de los mismos. Dicha constancia únicamente tendrá carácter informativo, y en ella no se prejuzgará sobre el correcto cumplimiento de las obligaciones a su cargo. Para ello, la Secretaría expedirá los documentos o información solicitada por los medios que se determinen mediante Reglas.
+A petición de los contribuyentes, previo el pago de los derechos correspondientes, la Secretaría podrá expedir constancias, en las que se señalen el cumplimiento de sus obligaciones presentadas o sobre la situación fiscal respecto de sus obligaciones fiscales estatales. La constancia tendrá carácter informativo, y en ella no se prejuzgará sobre el correcto cumplimiento de las obligaciones a su cargo. Para ello, la Secretaría expedirá los documentos o información solicitada por los medios que se determinen mediante reglas de carácter general.
 
 ###### ARTÍCULO 64.
 
@@ -945,6 +949,14 @@ Los obligados a presentar los avisos a que se refiere el Reglamento de este Cód
 
 Cuando a los obligados señalados en este artículo les hubieren iniciado facultades de comprobación, las autoridades fiscales estatales, aun en su carácter de autoridades fiscales federales en términos de los convenios celebrados con la Secretaría de Hacienda y Crédito Público, y se coloquen en cualquiera de los supuestos para presentar avisos al registro estatal de contribuyentes, deberán presentar los avisos con cinco días de anticipación a aquél en que se dé el supuesto que corresponda, y deberán proporcionar copia dentro del mismo término a las autoridades que directamente estén ejerciendo las referidas facultades de comprobación.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+En el supuesto de que el contribuyente cambie su domicilio a otra Entidad Federativa y esté sujeto al ejercicio de las facultades de comprobación de la autoridad fiscal del estado de Oaxaca, deberá informar a ésta, mediante escrito libre con 30 días de anticipación de dicho cambio de domicilio.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Si el cambio de domicilio se efectúa antes de la notificación de la resolución a que se refiere el artículo 131 de este código, el contribuyente deberá presentar el aviso de suspensión de actividades, señalando un domicilio en el estado de Oaxaca para oír y recibir notificaciones, para efectos de notificar los actos subsecuentes de la visita domiciliaria o revisión de gabinete, en ambos casos.
+
 ###### ARTÍCULO 65.
 
 A fin de realizar las aclaraciones pertinentes sin ejercer los medios de impugnación previstos en las disposiciones legales, los particulares podrán acudir mediante escrito libre que entregarán personalmente ante las autoridades fiscales que hubiesen emitido la resolución que se pretende aclarar, dentro de un plazo de seis días siguientes a aquél en que haya surtido efectos la notificación de las resoluciones a que se refieren los Artículos 102 y 170 de este Código, así como en los demás casos que la autoridad fiscal determine mediante Reglas.
@@ -963,7 +975,9 @@ Lo dispuesto en el párrafo anterior, se aplicará sin perjuicio del acreditamie
 
 Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución en los términos de este artículo, nace cuando dicho acto se anule.
 
-Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de cuarenta y cinco días hábilessiguientes (sic) a la fecha en que fue presentada la solicitud ante la autoridad fiscal competente con todos los datos requeridos, incluyendo para el caso en que solicite la devolución para su depósito en cuenta del solicitante, los datos de la institución integrante del sistema financiero y el número de cuenta para transferencias electrónicas del contribuyente en dicha institución financiera debidamente integrado de conformidad con las disposiciones del Banco de México, así como los demás informes y documentos que señale el Reglamento; tratándose de contribuyentes que dictaminen sus estados financieros por contador público autorizado en los términos del artículo 81 de este Código, el plazo para que las autoridades fiscales efectúen la devolución será de un mes.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de cuarenta y cinco días hábiles siguientes a la fecha en que fue presentada la solicitud ante la autoridad fiscal competente con todos los datos requeridos, incluyendo para el caso en que solicite la devolución para su depósito en cuenta del solicitante, los datos de la Institución integrante del sistema financiero y el número de cuenta para transferencias electrónicas del contribuyente en dicha institución financiera, debidamente integrado de conformidad con las disposiciones del Banco de México, así como los demás informes y documentos que señale el reglamento; tratándose de contribuyentes que se dictaminen por contador público registrado en los términos del artículo 81 de este código, el plazo para que las autoridades fiscales efectúen la devolución será de un mes.
 
 Cuando las autoridades fiscales soliciten la colaboración de otras autoridades estatales o municipales de acuerdo al artículo 96 del presente Código, para determinar la procedencia de la devolución, se suspenderán los plazos previstos en el párrafo anterior, para efectuar la misma hasta en tanto se obtenga la información solicitada, debiendo notificar dicha situación al solicitante de la devolución.
 
@@ -1455,13 +1469,13 @@ En el ámbito estatal y para efectos del adecuado ejercicio de sus funciones, la
 
 ###### ARTÍCULO 97.
 
-Los hechos que las autoridades fiscales conozcan con motivo del ejercicio de sus facultades de comprobación, o bien que consten en los expedientes, documentos o bases de datos que tengan en su poder o a las que tengan acceso, así como los proporcionados por otras autoridades, podrán utilizarse como sustento de la motivación de las resoluciones que emitan.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2019)
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 98.
 
-Para determinar contribuciones omitidas, la Secretaría tendrá como ciertos los hechos u omisiones que hubieran sido conocidos por otras autoridades fiscales y le hayan sido dados a conocer en términos del artículo anterior al contribuyente afectado.
+Para determinar contribuciones omitidas, la Secretaría tendrá como ciertos los hechos u omisiones que hubieran sido conocidos por otras autoridades fiscales y le hayan sido dados a conocer en términos del artículo 113 de este ordenamiento al contribuyente afectado.
 
 ###### ARTÍCULO 99.
 
@@ -1499,9 +1513,11 @@ Las autoridades fiscales no aplicarán la medida de apremio prevista en la fracc
 
 No se aplicarán medidas de apremio cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos, manifiesten por escrito a la autoridad, que se encuentran impedidos de atender completa o parcialmente la solicitud realizada por causa de fuerza mayor o caso fortuito, y lo acrediten exhibiendo las pruebas correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 102.
 
-En los casos que las personas obligadas a presentar declaraciones por disposición de ley, avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, las autoridades fiscales exigirán la presentación del documento respectivo ante las oficinas correspondientes, procediendo de forma simultánea o sucesiva a realizar cualquiera de los actos siguientes:
+En los casos que las personas obligadas a presentar declaraciones por disposición de ley, avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, las autoridades fiscales exigirán la presentación del documento respectivo ante las oficinas correspondientes, procediendo de la siguiente forma:
 
 I. Imponer la multa que corresponda en los términos de este Código y requerir hasta en tres ocasiones la presentación del documento omitido otorgando al contribuyente un plazo de quince días para el cumplimiento de cada requerimiento. Si no se atienden los requerimientos se impondrán las multas que correspondan por no atender los requerimientos realizados, que tratándose de declaraciones, será una multa por cada obligación omitida.
 
@@ -1611,9 +1627,9 @@ IX. Allegarse las pruebas necesarias para formular la denuncia o querella al min
 
 En el caso de que la autoridad fiscal este ejerciendo las facultades de comprobación previstas en las fracciones II, III y IV de este artículo y en el ejercicio revisado se acredite o compensen saldos a favor, o pago de lo indebido o se apliquen estímulos o subsidios fiscales, se podrá requerir al contribuyente, dentro del mismo acto de comprobación la documentación comprobatoria con la que acredite de manera fehaciente el origen y procedencia de dichos conceptos, según se trate, independientemente del ejercicio en que se hayan originado los mismos, sin que dicho requerimiento se considere como un nuevo acto de comprobación.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-Las autoridades fiscales que estén ejerciendo alguna de las facultades previstas en las fracciones II o III de este articulo y detecten hechos u omisiones que puedan entrañar un incumplimiento en el pago de contribuciones, deberán informar al contribuyente o a su representante legal, en un plazo de al menos 10 días hábiles previos al del levantamiento de la última acta parcial o del oficio de observaciones, el derecho que tienen para acudir a las oficinas que estén llevando a cabo el procedimiento de que se trate, para conocer los hechos y omisiones que hayan detectado.
+Las autoridades fiscales que estén ejerciendo alguna de las facultades previstas en las fracciones II o III de este artículo y detecten hechos u omisiones que puedan entrañar un incumplimiento en el pago de contribuciones, deberán informar al contribuyente, a su representante legal, y en el caso de las personas morales a sus órganos de dirección por conducto de aquél, mediante oficio, en un plazo de al menos 10 días hábiles, previos al del levantamiento de la última acta parcial o del oficio de observaciones, el derecho que tienen para acudir a las oficinas que estén llevando a cabo el procedimiento de que se trate, para conocer los hechos u omisiones detectados en el procedimiento de fiscalización.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
@@ -1621,27 +1637,39 @@ Transcurrido el plazo a que se refiere el párrafo anterior, la autoridad emitir
 
 El ejercicio de las facultades a que se refiere este artículo lo podrán realizar las autoridades fiscales de forma simultánea, indistinta o sucesiva, y en cada caso, se considerarán iniciadas con el primer acto que se notifique al contribuyente.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 108.
 
-Las autoridades fiscales, cuando en el ejercicio de sus facultades o a través (sic) Convenios de Intercambio de Información conozcan que los contribuyentes no se encuentran inscritos en el Registro Estatal de Contribuyentes, deberán solicitar a éstos la información necesaria para su inscripción en el citado registro e inscribir a quienes de conformidad con las disposiciones fiscales deban estarlo y no cumplan con este requisito, en términos del artículo 170 de este Código.
+Las autoridades fiscales, cuando en el ejercicio de sus facultades o a través (sic) Convenios de Intercambio de Información conozcan que los contribuyentes no se encuentran inscritos en el Registro Estatal de Contribuyentes y/u omitan de manera completa o parcial el cumplimiento de sus obligaciones, deberán solicitar a éstos la información necesaria para su inscripción en el citado registro estatal e inscribir a quienes de conformidad con las disposiciones fiscales deban estarlo y no cumplan con este requisito, así como dar a conocer la probable omisión, en términos del artículo 170 de este Código.
 
 En caso que los obligados directos a realizar la inscripción no proporcionen la información necesaria para hacerlo, las autoridades procederán a recabarla incluso de terceros que cuenten con elementos que permitan discernir que es aplicable para los fines que se persiguen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 109.
 
-Las autoridades fiscales podrán determinar presuntivamente la base gravable de las contribuciones a cargo de los contribuyentes para efectos de establecer en cantidad líquida las cantidades que teniendo derecho a percibir el fisco estatal, se consideren omitidas, cuando:
+Las autoridades fiscales podrán determinar presuntivamente la base para el cálculo del impuesto, el remanente, sus ingresos, el valor de la prestación de los servicios y el monto de la prenda por los que deban pagar contribuciones para efectos de establecer en cantidad líquida las contribuciones que tiene derecho a percibir el fisco estatal, cuando:
 
-I. Exista oposición o se obstaculice el inicio o desarrollo de las facultades de comprobación de las autoridades fiscales;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-II. En el ejercicio de las facultades de comprobación de la autoridad, los contribuyentes o la persona con quien se entiendan las diligencias no presenten los libros o registros contables; no presenten la documentación comprobatoria de más del 3% de cualquiera de los conceptos que se hubieren declarado; o no proporcionen los informes relativos al cumplimiento de sus obligaciones fiscales;
+I. Exista oposición o se obstaculice el inicio o desarrollo de las facultades de comprobación de las autoridades fiscales u omitan presentar una o más declaraciones bimestrales de cualquier contribución hasta el momento en que se inicie el ejercicio de dichas facultades y siempre que haya transcurrido más de un mes desde el día en que venció el plazo para la presentación de la declaración de que se trate.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+II. En el ejercicio de las facultades de comprobación de la autoridad, no presenten los libros o registros contables; no presenten la documentación comprobatoria de más del 3% de cualquiera de los conceptos que se hubieren declarado y/o registrado; o no proporcionen los informes relativos al cumplimiento de sus obligaciones fiscales;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 III. Se dé cualquiera de las siguientes irregularidades:
 
-a) Exista omisión del registro de operaciones, ingresos o compras, así como alteración del costo, por más del 3% sobre lo declarado, o
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-b) Exista registro de compras, gastos o servicios no realizados o no recibidos;
+a) Exista omisión del registro de operaciones, ingresos o gastos o servicios, por más del 3% sobre lo declarado, o
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+b) Exista registro de gastos o servicios no realizados o no recibidos;
 
 IV. No hayan solicitado su inscripción en el registro estatal de contribuyentes después de 6 meses de haber iniciado actividades;
 
@@ -1767,7 +1795,13 @@ Lo dispuesto en el párrafo anterior no es aplicable cuando el contribuyente se 
 
 Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código o en las leyes fiscales realizadas por las autoridades fiscales, o bien que consten en los expedientes, documentos o bases de datos que lleven, tengan acceso o en su poder dichas autoridades, así como aquéllos proporcionados por terceros relacionados con el contribuyente, responsables solidarios, o por otras autoridades, podrán servir para motivar los actos o resoluciones de la Secretaría y cualquier otra autoridad u organismo descentralizado o desconcentrado competente en materia de contribuciones estatales.
 
-Cuando las autoridades fiscales emitan resoluciones con base a la información señalada en el párrafo anterior, excepto tratándose de hechos conocidos en el ejercicio directo ante el contribuyente de sus facultades de comprobación, y previamente a la emisión de la resolución que corresponda, deberán correr traslado al interesado de los elementos que integren el expediente respectivo, concediendo un plazo de quince días al contribuyente para que manifieste lo que a su derecho corresponda, lo cual deberá formar parte del expediente respectivo.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Cuando las autoridades fiscales emitan resoluciones con base a la información señalada en el párrafo anterior, deberán correr traslado al interesado de los elementos que integren el expediente respectivo, concediendo un plazo de quince días al contribuyente para que manifieste lo que a su derecho corresponda, lo cual deberá formar parte del expediente respectivo. Se exceptúa el plazo anterior, tratándose de actos relacionados con el seguimiento, control y vigilancia de las obligaciones.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Se exceptúa lo dispuesto en el párrafo anterior, tratándose de hechos conocidos en el ejercicio directo ante el contribuyente de sus facultades de comprobación, y previamente a la emisión de la resolución que corresponda.
 
 ###### ARTÍCULO 114.
 
@@ -1879,9 +1913,11 @@ La reserva señalada en el primer párrafo del presente artículo no se actualiz
 
 ## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES APLICABLES A LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 122.
 
-Los actos administrativos emitidos por las autoridades fiscales en que se determine la existencia de una obligación fiscal, se establezcan las bases para su liquidación o se fije en cantidad líquida un crédito fiscal, así como todos aquéllos que sean recurribles, deberán cumplir con los siguientes requisitos:
+Los actos administrativos que se deban notificar deberán tener por lo menos, los siguientes requisitos:
 
 I. Deberán constar en orden escrita, impresa o digital;
 
@@ -2035,9 +2071,11 @@ Los hechos diferentes a que se refiere el párrafo anterior deberán sustentarse
 
 La orden que se emita en los casos previstos en este artículo deberá ser debidamente motivada respecto el objeto de la revisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 131.
 
-Las autoridades fiscales deberán emitir las resoluciones que correspondan por las irregularidades y omisiones que hubieren conocido dentro del ejercicio de sus facultades de comprobación previstas en las fracciones II y III del artículo 107 de este Código, dentro de un plazo que no podrá exceder de seis meses, contados a partir de que se hubiere notificado el acta final en el caso de visita domiciliaria, o de que venza el plazo del contribuyente para desvirtuar los hechos u omisiones asentados en el oficio de observaciones respecto de las revisiones en las oficinas de la autoridad.
+Las autoridades fiscales que al ejercer las facultades de comprobación a que se refieren las fracciones II y III del artículo 107 de este código, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución que se notificará al contribuyente de manera personal, dentro de un plazo máximo de seis meses, contados a partir de que se hubiere notificado el acta final en el caso de visita domiciliaria, o tratándose de las revisiones de la contabilidad de los contribuyentes que se efectué en las oficinas de las autoridades fiscales, a partir de la fecha en que concluya el plazo otorgado al contribuyente para desvirtuar los hechos u omisiones asentados en el oficio de observaciones respecto de las revisiones en las oficinas de la autoridad.
 
 El plazo señalado en el párrafo anterior se suspenderá si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad en las oficinas de las propias autoridades, y cuando el contribuyente durante el plazo para emitir la resolución interponga algún medio de defensa, desde la fecha de su interposición y hasta que quede firme la resolución que al mismo hubiere recaído.
 
@@ -2179,9 +2217,9 @@ Durante el desarrollo de la visita domiciliaria, los contribuyentes, sus represe
 
 I. Permitir a los visitadores designados por la autoridad el acceso al lugar o lugares objeto de la misma;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-II. Mantener a su disposición la contabilidad y demás documentos que acrediten el cumplimiento de las disposiciones fiscales, de los que los visitadores podrán sacar copias para que previo cotejo con sus originales se certifiquen por la autoridad que ordenó la visita y sean anexados a las actas parciales o finales, que levanten con motivo de la misma.
+II. Mantener a su disposición la contabilidad y demás documentos que acrediten el cumplimiento de las disposiciones fiscales, de los cuales los visitadores podrán sacar copias para que, previo cotejo con sus originales, se certifiquen por los mismos y sean anexados a las actas parciales o final, que levanten con motivo de la misma.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
@@ -2196,6 +2234,10 @@ V. Conservar y resguardar la contabilidad de la que les hubiese sido conferido s
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 VI. Cuando se presenten documentos o libros para desvirtuar los hechos asentados en actas, el contribuyente o su representante legal deberá presentar escrito en el que señale específicamente cuáles de los registros que aparecen en libros, así como los documentos presentados, son los que tienen una vinculación directa con cada uno de los hechos· particulares que se pretendan desvirtuar.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+VII. En caso de actualizarse los supuestos previstos en las fracciones I, III y VII del artículo 153 del presente código, deberán Informar mediante escrito a la autoridad fiscalizadora sobre el inicio y en lo subsecuente la conclusión de dicho acontecimiento, adjuntando las documentales que así lo acrediten.
 
 ###### ARTÍCULO 146.
 
@@ -2331,9 +2373,11 @@ Se tendrán por consentidos dentro de la fase oficiosa del procedimiento los hec
 
 VI. Cuando con motivo de la revisión practicada en los términos de este artículo no hubiere observaciones, la autoridad fiscalizadora lo comunicará al contribuyente mediante oficio de conclusión en que se señalen los documentos que habiendo sido presentados por el particular, fueron objeto de revisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 153.
 
-El ejercicio de las facultades de comprobación que las autoridades fiscales realicen a través de la revisión de la contabilidad de los contribuyentes en las oficinas de la propia autoridad, o bien a través de la realización de visitas domiciliarias, deberá ser concluido en el plazo improrrogable de un año, contado a partir de la fecha en que se notifique al contribuyente el inicio de las facultades de comprobación en visita domiciliaria, y de que venza el plazo para que el contribuyente presente la documentación solicitada en el caso de revisión en las oficinas de la autoridad. Se entiende que la visita domiciliaria concluye con el levantamiento del acta final, y la revisión de la contabilidad en las oficinas de la propia autoridad, concluye con la notificación del oficio de observaciones a que se refiere el artículo 152 de este Código.
+El ejercicio de las facultades de comprobación que las autoridades fiscales realicen a través de la revisión de la contabilidad de los contribuyentes en las oficinas de la propia autoridad, o bien a través de la realización de visitas domiciliarias, deberá ser concluido en el plazo improrrogable de doce meses, contados a partir de la fecha en que surta efectos la notificación al contribuyente del inicio de las facultades de comprobación. Se entiende que la visita domiciliaria concluye con el levantamiento del acta final, y la revisión de la contabilidad que se lleva en las oficinas de la propia autoridad concluye con la notificación del oficio de observaciones a que se refiere el artículo 152 de este Código.
 
 El plazo a que se refiere el párrafo anterior se suspende en los casos siguientes y de acuerdo a los momentos que para cada uno de ellos se señalan:
 
@@ -2349,23 +2393,39 @@ V. Cuando por caso fortuito o fuerza mayor, la autoridad se encuentre impedida p
 
 VI. Cuando durante el plazo para concluir el ejercicio de las facultades de comprobación, el contribuyente interponga cualquier medio de impugnación que impida continuarlas, desde la fecha en que lo interponga, y hasta la fecha en que la resolución que hubiese recaído a dicho medio de impugnación quede firme.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+VII. Cuando el domicilio del contribuyente permanezca cerrado por un periodo mayor a 15 días naturales consecutivos, por causas ajenas a este, distintas a las contempladas en las fracciones anteriores; en este caso, las facultades de comprobación se suspenderán a partir de la fecha en que el contribuyente de aviso de esta situación y hasta que pueda abrir dicho domicilio y proporcione la documentación comprobatoria correspondiente, en los términos previstos en las reglas que para tal efecto expida la Secretaría.
+
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 Cuando las autoridades fiscales no levanten el acta final de visita domiciliaria, no notifiquen el oficio de observaciones, o en su caso, el de conclusión de la revisión dentro del plazo establecido en este artículo, quedarán sin efectos tanto las órdenes, como las actuaciones que de ellos se hubieren derivado.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 154.
 
-Cuando las autoridades fiscales para el ejercicio de las facultades de comprobación soliciten de las y los contribuyentes, responsables solidarios o terceros, documentación para su revisión, se estará a los siguientes plazos para proporcionarla:
+En el caso de que con motivo de sus facultades de comprobación, las autoridades fiscales soliciten informes o documentos del contribuyente, responsable solidario o tercero, se estará a los siguientes plazos para su presentación:
 
-I. De inmediato cuando se solicite durante una visita domiciliaria;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-II. Dentro de los seis días, cuando la contabilidad requerida, no sea presentada en los términos de la fracción anterior, y
+I. Inmediato, cuando se solicite durante la visita los libros y registros que formen parte de su contabilidad y todo lo relacionado con la misma. Tratándose de una visita domiciliaria de inspección, revisar que los permisos otorgados por la Secretaría cumplan con el fin para el que fueron expedidos.
 
-III. Quince días, en los casos no previstos en las fracciones anteriores.
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-Los plazos a que se refiere (sic) las fracciones II y III de este artículo, podrán ampliarse a solicitud de la o el interesado por diez días más, cuando se trate de informes cuyo contenido sea difícil de proporcionar o de difícil obtención.
+II. Tres días contados a partir del día siguiente a aquél en que se soliciten requerimientos durante el desarrollo de una visita domiciliaria de inspección.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+III. Seis días contados a partir del día siguiente a aquél en que se los soliciten durante el desarrollo de una visita y sean documentos de los que deba tener en su poder el contribuyente.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+IV. Quince días contados a partir del día siguiente a aquél en que surta efectos la notificación de la solicitud respectiva, en los demás casos.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Los plazos a que se refiere (sic) las fracciones III y IV de este artículo, se podrán ampliar por las autoridades fiscales por diez días más, previa solicitud del contribuyente; cuando se trate de informes cuyo contenido sea difícil de proporcionar o de difícil obtención.
 
 ### CAPÍTULO TERCERO. DE LA REVISIÓN DE DICTÁMENES PARA EFECTOS FISCALES
 
@@ -2443,9 +2503,7 @@ Si el contador público registrado se somete a la legislación estatal pero incu
 
 ###### ARTÍCULO 159.
 
-Cuando en la revisión de los dictámenes emitidos para efectos fiscales estatales se advierta que existen omisiones en el pago de contribuciones, y el contribuyente no hubiere efectuado el pago correspondiente, las autoridades fiscales mediante resolución fundada y motivada requerirán su pago a través de la presentación de la declaración complementaria que corresponda.
-
-Si en el plazo de veinte días posteriores a aquél en que se hubiere requerido el pago en los términos de este artículo, no se ha realizado dicho pago, las autoridades fiscales procederán a exigirlo a través del procedimiento administrativo de ejecución.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2019)
 
 ### CAPÍTULO CUARTO. DE LAS VISITAS DE INSPECCIÓN
 
@@ -2453,7 +2511,9 @@ Si en el plazo de veinte días posteriores a aquél en que se hubiere requerido 
 
 Para efectos de las visitas domiciliarias de inspección previstas en la fracción V del artículo 107 de este Código, los procedimientos aplicables serán los siguientes:
 
-I. La orden que deberá reunir los requisitos establecidos en el artículo 146 de este Código;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+I. La orden deberá reunir los requisitos establecidos en el artículo 146 de este código;
 
 II. Se realizarán en el domicilio fiscal, o cualquier otro establecimiento, sucursal, local, o puesto fijo o semifijo en la vía pública, que tengan los contribuyentes dentro del Estado y en ellos se realicen actividades de enajenación, prestación de servicios, contratación u otorgamiento del uso o goce temporal de bienes; o bien, se almacenen mercancías, o se realicen actividades relacionadas con permisos y concesiones, o que sean reguladas en su funcionamiento por la legislación estatal;
 
@@ -2465,11 +2525,13 @@ V. Se levantará acta circunstanciada en la que se harán constar los hechos, om
 
 VI. Realizada la visita de inspección, si al cierre del acta de visita domiciliaria, el visitado o la persona con quien se entiende la diligencia o los testigos designados por ésta se niegan a firmar el acta, dicha circunstancia se asentará en la propia acta, sin que se afecte la validez o valor probatorio de la misma, dándose por concluida la visita correspondiente;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-VII. Cuando de las irregularidades conocidas se constituyan hechos por los cuales se deba efectuar el procedimiento de clausura, los visitadores actuarán en términos del artículo 173 A de este Código, y
+VII. Si con motivo de la visita se conocen incumplimientos a las disposiciones fiscales, se concederá al contribuyente un plazo de tres días para desvirtuar la comisión de las infracciones que se le imputen, para lo cual deberá presentar las pruebas que a sus intereses convengan.
 
-VIII. Concluida la visita, las autoridades en la propia acta, harán saber al interesado que cuenta con un plazo de tres días para desvirtuar la comisión de las infracciones que se le imputen, para lo cual deberá presentar las pruebas que a sus intereses convengan.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+VIII. Cuando de las irregularidades conocidas se constituyan hechos por los cuales se deba efectuar el procedimiento de clausura, los visitadores actuarán en términos del artículo 173 A de este código.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
@@ -2511,9 +2573,9 @@ IV. Cualquier otra información obtenida por la autoridad fiscal en el ejercicio
 
 Cuando en el desarrollo de sus facultades de comprobación la autoridad advierta cualquiera de las irregularidades que se prevén en el artículo 109 de este Código, deberá darlo a conocer al contribuyente antes del levantamiento de la última acta parcial o de la notificación del oficio de observaciones.
 
-El contribuyente contará con un plazo de quince días, para subsanar las irregularidades e informar a la autoridad cuáles fueron las acciones realizadas, o bien, manifestar lo que a su derecho convenga. Recibido el escrito del contribuyente, la autoridad en el plazo de cinco días valorará, determinará y comunicará al revisado si se subsanó la irregularidad dada a conocer, o si se realizará la determinación presuntiva por considerarse que no se subsanaron las irregularidades que dieron origen a ello. Si el contribuyente dentro del plazo establecido no informa haber subsanado las irregularidades que genera la causa de determinación presuntiva, la autoridad procederá a realizar la determinación de esta forma.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-La determinación presuntiva realizada en los términos de este artículo, no admite prueba en contrario.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -2677,19 +2739,23 @@ ARTÍCULO 173 A. La autoridad fiscal como resultado de la visita de inspección 
 
 I. Cuando el contribuyente haya omitido inscribirse en el Registro Estatal de Contribuyentes:
 
-a) 3 días, cuando operó por 6 meses sin estar inscrito;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+a) 3 días, cuando operó hasta por 6 meses sin estar inscrito;
 
 b) 10 días, por operar por más de 6 meses hasta 12 meses sin estar inscrito, y
 
 c) 15 días, por operar por más de 12 meses sin estar inscrito.
 
-II. Cuando el sujeto obligado omita el pago de las contribuciones a su cargo:
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-a) 3 días, en tres ocasiones consecutivas omita el pago correspondiente;
+II. Cuando el sujeto obligado haya omitido el pago de las contribuciones a su cargo o las realice a gestión de autoridad:
 
-b) 10 días, más de tres hasta 6 ocasiones consecutivas omita el pago correspondiente, y
+a) 3 días, cuando en tres ocasiones consecutivas haya omitido el pago correspondiente;
 
-c) 15 días, más de 6 ocasiones consecutivas en adelante omita el pago correspondiente.
+b) 10 días, cuando haya omitido el pago correspondiente en más de tres y hasta en 6 ocasiones consecutivas, y
+
+c) 15 días, cuando haya omitido el pago correspondiente en más de 6 ocasiones consecutivas.
 
 El cómputo del plazo de la clausura será desde el día en que se coloquen los sellos, independientemente de que se trate de un día incompleto.
 
@@ -2699,11 +2765,21 @@ ARTÍCULO 173 B. El procedimiento de clausura deberá sujetarse a lo siguiente:
 
 I. Realizarse mediante un acto de autoridad debidamente fundado y motivado por la autoridad competente.
 
-II. Llevar a cabo el levantamiento del acta con el contribuyente, o representante legal o apoderado legal, en el domicilio fiscal, establecimiento, sucursal y/o local.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-III. Determinar el plazo de clausura, de acuerdo con lo previsto en el artículo 173 A de este Código.
+II. Deberán de identificarse los visitadores ante el contribuyente o con la persona con quien se entienda la diligencia, requiriéndole para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide la diligencia aún y cuando los testigos no se encuentren desde el inicio.
 
-IV. Colocar los sellos de clausura, los que deberán contener los logotipos oficiales, número de folio y motivo de la clausura.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+III. Llevar a cabo el levantamiento del acta con el contribuyente o con la persona con quien se entienda la diligencia, indistintamente, en el domicilio fiscal, establecimiento, sucursal y/o local.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+IV. Determinar el plazo de clausura, de acuerdo con lo previsto en el artículo 173 A de este código.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+V. Colocar los sellos de clausura, los que deberán contener los logotipos oficiales, número de folio y motivo de la clausura.
 
 Cuando la orden de clausura afecta a un local o establecimiento que además de fines comerciales o industriales sirve de habitación, constituyendo el domicilio de una o más personas físicas, la clausura se ejecutará únicamente para suspender el funcionamiento del local o establecimiento del contribuyente, sin que impida la entrada o salida de la habitación.
 
@@ -4454,5 +4530,15 @@ P.O. 29 DE DICIEMBRE DE 2018.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil diecinueve, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 879.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinte, previa publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga al presente Decreto, aun cuando no estén expresamente derogadas.
