@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-victimas-para-la-ciudad-de-mexico-126466"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-19"
-last_updated: "2019-10-22"
+last_updated: "2019-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126466&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-02-15"
 
 LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 19 febrero de 2018.
 
@@ -835,6 +835,10 @@ La Comisión de Víctimas expedirá los lineamientos respectivos a efecto de que
 VIII. Derivado de una determinación judicial, el pago a cargo del responsable, o en su caso, del Gobierno de la Ciudad de México.
 
 En caso de que de la resolución judicial fueran dos o más autoridades las responsables, el Comité Interdisciplinario Evaluador verificará que no se incurra en un doble pago por los mismos hechos victimizantes.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Los entes públicos de la Ciudad de México y las alcaldías responsables de hechos victimizantes o de las violaciones a derechos humanos, en términos del artículo 3, fracciones XVIII y XLII de esta Ley, tendrá la obligación de llevar a cabo la medida de compensación a las víctimas con cargo a su presupuesto, compensación que será determinada por la Comisión de Víctimas en el plan de reparación integral que corresponda.
 
 ###### Artículo 62.
 
@@ -2637,3 +2641,11 @@ G.O. 22 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE MODIFICAN LA FRACCIÓN VII DEL ARTÍCULO 3; EL PÁRRAFO PRIMERO DEL ARTÍCULO 112 Y EL CAPÍTULO IV PARA DECIR COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS, DE LA LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO 61 DE LA LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese el presente decreto en la Gaceta Oficial de la Ciudad de México y para mayor difusión en el Diario Oficial de la Federación.
