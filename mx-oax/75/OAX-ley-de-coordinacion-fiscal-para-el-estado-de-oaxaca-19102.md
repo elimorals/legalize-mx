@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2018-12-29"
+last_updated: "2019-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -335,9 +335,11 @@ II. La declaratoria de revocación de mandato y/o sustitución de concejales det
 
 III. Cuando el Ayuntamiento no notifique a la Secretaría de Finanzas las cuentas bancarias productivas específicas mediante el acta de cabildo a que alude el Artículo 8.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-ARTICULO 8 B.- El Estado a través de la Secretaría constituirá un Fideicomiso de Administración y Pago, con las subcuentas que sean necesarias para identificar los recursos de Participaciones y Aportaciones que correspondan a los Municipios, siempre que por algunas de las causas que se citan a continuación, fuera imposible ministrar los recursos que por disposición legal les corresponda.
+ARTICULO 8 B.- El Estado a través de la Secretaría constituirá un Fideicomiso de Administración y Pago, con las subcuentas que sean necesarias para identificar los recursos de Participaciones y Aportaciones que correspondan a los Municipios, siempre que exista alguna de las causas que se citan a continuación, y que subsista por un período de tiempo mayor a sesenta días hábiles, y fuera imposible ministrar los recursos que por disposición legal les corresponda.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 Son causales que imposibilitan la ministración de recursos de Participaciones y Aportaciones, entre otras:
 
@@ -347,7 +349,15 @@ II. La ausencia legalmente notificada de concejos municipales y/o administradore
 
 III. Cualquier otra que impida tener certeza jurídica de quien o quienes son los servidores públicos municipales responsables de la administración de la hacienda pública municipal.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 Una vez superado (sic) las causales de imposibilidad la Secretaría de Finanzas ordenará al Fiduciario la transferencia de recursos a las cuentas bancarias productivas específicas que señalen las autoridades municipales, incluidas en ellas los rendimientos financieros que se hayan generado en las cuentas del Fideicomiso a que se refiere el presente Artículo.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 8 C.- Cuando exista alguna de las causales de imposibilidad en la entrega de los Fondos de Participaciones y Fondos de Aportaciones mencionadas en el artículo 8 A durante un período de tiempo igual o menor a 60 días hábiles, los recursos se mantendrán en la cuenta de controversias aperturada por la Secretaría de Finanzas, así también en el caso de que exista un rechazo al momento de enviar el recurso por cuenta bloqueada por la institución bancaria.
+
+Lo anterior sin perjuicio de la normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -375,11 +385,11 @@ El calendario de entrega, porcentaje, fórmulas y variables utilizadas y montos 
 
 La Secretaría publicará en el Periódico Oficial y en su página de internet, el monto de cada uno de los conceptos de las Participaciones entregadas a cada Municipio, desglosado por fondo y monto mensual dentro de los primeros quince días del mes siguiente al que termine el trimestre que corresponda; asimismo, publicará el monto definitivo que le haya correspondido a los Municipios en el ejercicio de que se trate, incluidos los ajustes realizados.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 12.
 
-Las fórmulas de los fondos de Participaciones contenidas en los artículos 6, 7, 7A y 7B de la presente Ley, se revisarán y modificarán anualmente. En tanto que las variables no se actualicen, se aplicarán provisionalmente los que correspondan al año inmediato anterior.
+Las fórmulas de los fondos de Participaciones contenidas en los artículos 6, 6A, 6B, 6C, 6D, 7, 7A y 7B de la presente Ley, se revisarán anualmente. En tanto que las variables no se actualicen, se aplicarán provisionalmente los que correspondan al año inmediato anterior.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -974,3 +984,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil diecinueve, previa publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
+
+P.O. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 880.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinte, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
