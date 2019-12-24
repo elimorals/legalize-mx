@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-de-oaxaca-126043"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-20"
-last_updated: "2018-12-29"
+last_updated: "2019-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE DERECHOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 20 de diciembre de 2017.
 
@@ -173,15 +173,17 @@ Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamie
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 15.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 24 DE DICIEMBRE DE 2019, PÁGINA 6.]</small>
+
 ###### Artículo 13.
 
 Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamiento del Jardín Etnobotánico, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 15.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 3.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 3; Y 24 DE DICIEMBRE DE 2019, PÁGINA 6.]</small>
 
-El Servicio de guía para grupos de estudiantes provenientes de instituciones públicas nacionales será gratuita, previa solicitud en la que se señale el día y horario de la visita.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 14.
 
@@ -257,7 +259,11 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 15 A LA 16.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 3 A LA 4; 29 DE DICIEMBRE DE 2018, PÁGINA16.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 3 A LA 4; 29 DE DICIEMBRE DE 2018, PÁGINA 16; Y 24 DE DICIEMBRE DE 2019, PÁGINA 6.]</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Artículo 18 A. Se causarán y pagarán derechos por la cantidad de 1.43 UMA, por la reposición de credencial para la acreditación de autoridades municipales.
 
 ### CAPÍTULO IV. SECRETARÍA DE SALUD
 
@@ -267,7 +273,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 16.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 4; 29 DE DICIEMBRE DE 2018, PÁGINA 16.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 4; 29 DE DICIEMBRE DE 2018, PÁGINA 16; Y 24 DE DICIEMBRE DE 2019, PÁGINAS DE LA 6 A LA 7.]</small>
 
 ###### Artículo 20.
 
@@ -275,7 +281,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 16.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 16.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 16; Y 24 DE DICIEMBRE DE 2019, PÁGINA 7.]</small>
 
 ###### Artículo 21.
 
@@ -303,13 +309,15 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 17.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 24 DE DICIEMBRE DE 2019, PÁGINA 7.]</small>
+
 ###### Artículo 25.
 
 Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de regularización de la tenencia de la tierra urbana, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 17.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 16 A LA 17.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 16 A LA 17; Y 24 DE DICIEMBRE DE 2019, PÁGINA 7.]</small>
 
 ###### Artículo 26.
 
@@ -395,13 +403,19 @@ VIII Integración de expedientes
 
 administrativos: 6.00
 
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
 IX Expedición de permiso
 
 provisional para circular
 
 sin placas ni tarjeta de
 
-circulación, por 30 días: 3.60
+circulación, por 30 días,
+
+para servicio público
+
+concesionado. 3.60
 
 X Autorización de alta
 
@@ -441,13 +455,15 @@ permisionarios u operadores del servicio
 
 público: 100.00
 
-II Impartición de curso (sic) capacitación
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-a prestadores de servicio público: 5.00
+II Impartición de curso y expedición de
 
-III Expedición de constancias de
+constancias de capacitación
 
-capacitación a prestadores de servicio público: 5.00
+a prestadores de servicios públicos. 5.00
+
+III (DEROGADA, P.O. 24 DE DICIEMBRE DE 2019)
 
 IV Expedición, renovación y reposición
 
@@ -513,11 +529,9 @@ y aditamentos para vehículos del
 
 servicio del transporte público de pasajeros: 5.00
 
-V Asignación, corrección y notificación
+V (DEROGADA, P.O. 24 DE DICIEMBRE DE 2019)
 
-del Número Único de Concesionario 5.00
-
-VI Asignación o reposición de código “QR”: 5.00
+VI Asignación o reposición de código "QR": 5.00
 
 VII Expedición de tarjetón de tarifas
 
@@ -587,7 +601,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 20.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 5; 29 DE DICIEMBRE DE 2018, PÁGINA 18.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 5; 29 DE DICIEMBRE DE 2018, PÁGINA 18; Y 24 DE DICIEMBRE DE 2019, PÁGINA 7.]</small>
 
 ### CAPÍTULO VIII. SECRETARÍA DE DESARROLLO SOCIAL Y HUMANO
 
@@ -639,7 +653,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 21 A LA 22.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS 6.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS 6; Y 24 DE DICIEMBRE DE 2019, PÁGINAS DE LA 7 A LA 8.]</small>
 
 ### CAPÍTULO XII. SECRETARÍA DE LA CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL
 
@@ -658,6 +672,8 @@ Se causarán y pagarán derechos por los servicios públicos que se (sic) realic
 Se causarán y pagarán derechos por los servicios públicos que se realicen en materia archivística, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 22.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 24 DE DICIEMBRE DE 2019, PÁGINA 8.]</small>
 
 ### CAPÍTULO XIII. SECRETARÍA DE ECONOMÍA
 
@@ -691,7 +707,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 23.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 7.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 7; Y 24 DE DICIEMBRE DE 2019, PÁGINA 8.]</small>
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
@@ -723,15 +739,11 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 23.]</small>
 
-### CAPÍTULO XVI. INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE OAXACA
+### CAPÍTULO XVI. CONSEJERÍA JURÍDICA DEL GOBIERNO DEL ESTADO
 
 ###### Artículo 42.
 
-Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de medio ambiente, de conformidad con las siguientes cuotas:
-
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 23 A LA 24.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 7 A LA 8; 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 21 A LA 22.]</small>
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2019)
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
@@ -761,7 +773,13 @@ recursos forestales, riesgo y
 
 emergencias (sic) ambiental: 25.00 20.00
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Artículo 42 A. Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de medio ambiente de conformidad con las siguientes cuotas:
+
+> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 24 DE DICIEMBRE DE 2019, PÁGINAS DE LA 8 A LA 10.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 ### CAPÍTULO I. BÁSICA
 
@@ -771,7 +789,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 24.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 8; 29 DE DICIEMBRE DE 2018, PÁGINA 23.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 8; 29 DE DICIEMBRE DE 2018, PÁGINA 23; 24 DE DICIEMBRE DE 2019, PÁGINA 10.]</small>
 
 ###### Artículo 44.
 
@@ -779,17 +797,17 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 24.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 8; 29 DE DICIEMBRE DE 2018, PÁGINA 23.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 8; 29 DE DICIEMBRE DE 2018, PÁGINA 23; Y DE 24 DE DICIEMBRE DE 2019, PÁGINAS DE LA 10 A LA 11.]</small>
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2018)</small>
 
 El registro de actos o contratos, se cobrarán por cada uno, con independencia de que aparezcan en un mismo documento.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 44 Bis.
 
-Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de registro de la propiedad y del comercio, de conformidad con las siguientes cuotas:
+Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de comercio, de conformidad con las siguientes cuotas:
 
 I. Registro Público de Comercio
 
@@ -797,7 +815,9 @@ Número de UMA
 
 a) Acta de sesión de consejo de administración: 10.00
 
-b) Asamblea (extraordinaria): 10.00
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+b) Asamblea (extraordinaria y ordinaria): 10.00
 
 c) Constitución de sociedad mercantil: 12.00
 
@@ -877,11 +897,11 @@ Se causarán y pagarán derechos por los servicios públicos de:
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
 
-### CAPÍTULO VI (SIC). SISTEMA DE ESTUDIOS TECNOLÓGICOS
+### CAPÍTULO III. SISTEMA DE ESTUDIOS TECNOLÓGICOS
 
 ## TÍTULO CUARTO. DE LOS DERECHOS POR LA PRESTACIÓN DE SERVICIOS EDUCATIVOS
 
-### CAPÍTULO VII. SISTEMA DE UNIVERSIDADES ESTATALES DE OAXACA
+### CAPÍTULO IV. SISTEMA DE UNIVERSIDADES ESTATALES DE OAXACA
 
 ###### Artículo 48.
 
@@ -897,7 +917,7 @@ Se causarán y pagarán derechos por los servicios públicos que realice la Coor
 
 > <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 11 A LA 13.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 23 A LA 24.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 23 A LA 24; Y 24 DE DICIEMBRE DE 2019, PÁGINA 11.]</small>
 
 ###### Artículo 50.
 
@@ -957,9 +977,13 @@ Se causarán y pagarán derechos por los servicios públicos que realice el Cole
 
 > <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 14.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 24 DE DICIEMBRE DE 2019, PÁGINA 11.]</small>
+
 Tratándose de la fracción III, IV y V, los alumnos que demuestren al término de sus periodos lectivos promedios de evaluaciones que se ubiquen entre 8 y 10, se aplicaran los siguientes descuentos:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 14.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 53.
 
@@ -1019,6 +1043,8 @@ A los alumnos que obtengan al término de sus periodos lectivos promedios de eva
 
 El Consejo Directivo determinará el otorgamiento de becas que van desde el 25%, 50%, 75% y 100% por los conceptos de inscripción y reinscripción.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 57.
 
 Se causarán y pagarán derechos por los servicios públicos que se realicen las (sic) universidades parte del Sistema de Universidades Estatales, de conformidad con las siguientes cuotas:
@@ -1062,5 +1088,15 @@ P.O. 29 DE DICIEMBRE DE 2018.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. El presente Decreto entrará en vigor el 1 de enero de 2019, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga (sic) al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 881.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE DERECHOS DE OAXACA”.]
+
+PRIMERO. Publíquese en el presente Decreto en el Periódico Oficial del Gobierno de Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinte, previa publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga (sic) al presente Decreto, aun cuando no estén expresamente derogadas.
