@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-de-seguridad-ciudadana-de-la-ciudad-de-137369"
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-01"
-last_updated: "2019-08-01"
+last_updated: "2019-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137369&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-08-01"
 
 LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2019.
 
 Ley publicada en el No. 147 bis de la Gaceta Oficial de la Ciudad de México, el jueves 1 de agosto de 2019.
 
@@ -286,6 +286,8 @@ Las políticas en materia de prevención social del delito delimitarán la corre
 
 El Sistema contará para su funcionamiento y operación con las instancias, instrumentos, políticas, acciones y servicios previstos en la presente Ley, tendientes a cumplir los fines de la seguridad ciudadana y contribuir a su buen funcionamiento y la coordinación con el Sistema Nacional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 15.
 
 El Sistema se integra por:
@@ -298,7 +300,9 @@ I. Autoridades
 
 3. Fiscalía;
 
-4. Secretaría de Gobierno;
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+4. Los Gabinetes de Seguridad Ciudadana y Procuración de Justicia en las Coordinaciones Territoriales.
 
 5. Alcaldías de la Ciudad, en el marco de sus competencias; e
 
@@ -694,6 +698,8 @@ También podrán asistir al Gabinete de Seguridad los invitados que determine la
 
 La organización y funcionamiento del Gabinete de Seguridad Ciudadana y Procuración de Justicia se establecerá conforme al reglamento correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 34.
 
 Corresponde a la persona titular de la Coordinación General del Gabinete de Seguridad Ciudadana y Procuración de Justicia:
@@ -702,9 +708,13 @@ I. Coordinar y convocar a las reuniones del Gabinete;
 
 II. Autorizar los accesos al Sistema de Consulta de Información Criminal, previa autorización de la persona titular de la Jefatura de Gobierno;
 
-III. Convocar y coordinar los trabajos de las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia, a través de las personas representantes de la Jefatura de Gobierno de la Ciudad;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2019)</small>
 
-IV. Coordinar la participación de las personas representantes de la Jefatura de Gobierno de la Ciudad de México en los Gabinetes que se realizarán en las Alcaldías de la Ciudad de México;
+III. Convocar y coordinar los trabajos de las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia, a través de las personas representantes de la Jefatura de Gobierno en las Coordinaciones Territoriales de la Ciudad;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+IV. Coordinar la participación de las personas representantes de la Jefatura de Gobierno en las Coordinaciones Territoriales de la Ciudad de México en las reuniones de los Gabinetes que se realizarán en las Alcaldías de la Ciudad de México;
 
 V. Coordinar la recepción, procesamiento, análisis y evaluación de la información que se genere en materia de seguridad ciudadana y procuración de justicia para la elaboración de estadísticas que permitan dar seguimiento puntual a los avances logrados; así como tomar las decisiones necesarias para realizar los ajustes correspondientes;
 
@@ -740,21 +750,27 @@ XVIII. Las demás que le señalen las disposiciones jurídicas o administrativas
 
 En las demarcaciones territoriales se constituirán Gabinetes de Seguridad Ciudadana cuya función será favorecer la coordinación entre el Gobierno, las alcaldías y el gobierno federal, en un marco de respeto a sus atribuciones conferidas por la Ley, con el objeto de cumplir con los fines de la seguridad ciudadana en sus respectivos ámbitos de competencia.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 36.
 
-Los Gabinetes de Seguridad de Demarcación se integrarán por:
+Los Gabinetes de Seguridad de las Alcaldías se integrarán por:
 
-I. Los titulares de la Alcaldía, quienes los presidirán;
+I. El titular de la Alcaldía correspondiente, quien lo coordinará;
 
-II. Un representante de la Fiscalía en cada demarcación;
+II. El Fiscal de la Alcaldía correspondiente;
 
-III. La Jefatura de Zona de la Secretaría; y
+III. El Jefe Titular de Zona de la Secretaría;
 
-IV. Los juzgados cívicos que designe la Consejería Jurídica y de Servicios Legales.
+IV. El Comandante de la Policía de Investigación de la Fiscalía de la Alcaldía correspondiente;
 
-Los Gabinetes de demarcación podrán invitar a las reuniones de trabajo a representantes de la sociedad civil o de la comunidad de conformidad con los temas a tratar. También se podrá invitar a otras personas e instituciones que puedan exponer conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad ciudadana, quienes únicamente contarán con voz. Su participación será de carácter honorífico.
+V. Un representante de la persona Titular de la Jefatura de Gobierno, y
 
-Asimismo, se extenderán invitaciones al Poder Ejecutivo Federal y al Gobierno de la Ciudad de México para enviar representantes a participar de manera permanente en las reuniones de los Gabinetes de demarcación.
+VI. Un representante de los juzgados cívicos, quien será designado por la Consejería Jurídica y de Servicios Legales.
+
+Los Gabinetes de Seguridad de las Alcaldías podrán invitar a las reuniones de trabajo a representantes de la sociedad civil o de la comunidad de conformidad con los temas a tratar. También se podrá invitar a otras personas e instituciones que puedan exponer conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad ciudadana, quienes únicamente contarán con voz. Su participación será de carácter honorífico.
+
+Asimismo, se extenderán invitaciones al Poder Ejecutivo Federal y al Gobierno de la Ciudad de México para enviar representantes a participar de manera permanente en las reuniones de los Gabinetes.
 
 ###### Artículo 37.
 
@@ -766,21 +782,25 @@ La organización y funcionamiento de los Gabinetes de demarcación se establecer
 
 En los sectores de policía en que se divida el territorio de la Ciudad se instituirán Gabinetes de Coordinaciones Territoriales cuya función será hacer posible la coordinación entre el ámbito territorial más específico como son los cuadrantes de policía, el gobierno de la Ciudad y de las Alcaldías, con el objeto de cumplir con los fines de la seguridad ciudadana en su respectivo ámbito de competencia.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 39.
 
 Los Gabinetes de las Coordinaciones Territoriales se integrarán por las siguientes personas:
 
-I. Un representante de la Alcaldía; quien lo coordinará;
+I. Un representante de la persona titular de la Jefatura de Gobierno, quien se encargará de coordinarlo;
 
-II. Un representante de la fiscalía;
+II. El responsable de la Agencia del Ministerio Público de la Coordinación Territorial;
 
-III. El Jefe de Sector de la policía;
+III. El o los Jefes de Sector de la policía correspondientes a la Coordinación Territorial;
 
-IV. Un representante de la persona titular de la Jefatura de Gobierno;
+IV. El Comandante de la Policía de Investigación de la Coordinación Territorial;
 
-V. Un representante de los juzgados cívicos que al efecto designe la Consejería Jurídica y de Servicios Legales;
+V. El Juez Cívico responsable de la Coordinación Territorial;
 
-VI. Un médico legista, que designe la Secretaría de Salud.
+VI. El Médico Legista responsable en la Coordinación Territorial, y
+
+VII. Un representante de la Alcaldía correspondiente.
 
 ###### Artículo 40.
 
@@ -930,11 +950,15 @@ VII. De custodia: consiste en la protección de las personas privadas de su libe
 
 VIII. Las que le señalen las demás disposiciones normativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 53.
 
-El modelo de cuerpos policiales se establece en razón del tramo de responsabilidad y de la ingeniería institucional diseñada en la Constitución de la Ciudad y demás disposiciones legales, de la siguiente manera:
+La organización de los cuerpos policiales se establece en razón del tramo de responsabilidad de la ingeniería institucional diseñada en la Constitución de la Ciudad y demás disposiciones legales, de la siguiente manera:
 
-I. Bajo la responsabilidad de la Secretaría se encuentra la policía de proximidad que se divide en: Policía Preventiva; Policía Auxiliar; Policía de Tránsito, Policía Bancaria e Industrial; Policía Cívica, y Cuerpos especiales y las demás que determinen la normatividad aplicable.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+I. Bajo la responsabilidad de la Secretaría se encuentra la Policía de Proximidad que se divide en: Policía Preventiva, Policía Auxiliar, Policía de Control de Tránsito, Policía Bancaria e Industrial, Policía Cívica, Policía Turística, Policía de la Brigada de Vigilancia Animal, Cuerpos Especiales, y las demás que determinen la normatividad aplicable.
 
 II. Bajo la responsabilidad de la Fiscalía: Policía de investigación.
 
@@ -1094,9 +1118,11 @@ XXI. Los demás que esta Ley y otros ordenamientos legales establezcan.
 
 ## Título Séptimo. Servicios de seguridad privada
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 61.
 
-Para los efectos de la presente Ley, los servicios de seguridad privada solamente podrán prestarse solamente en las siguientes modalidades:
+Para los efectos de la presente Ley, los servicios de seguridad privada solamente podrán prestarse en las siguientes modalidades:
 
 I. Protección y vigilancia de personas o bienes;
 
@@ -1358,6 +1384,8 @@ IX. Un régimen disciplinario justo e imparcial, y
 
 X. La identidad y el sentido de pertenencia, a partir del desarrollo de condiciones físicas, estructurales y de difusión de las experiencias vitales que generen un sentido de identidad en el personal sustantivo de las Instituciones de Seguridad Ciudadana.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 85.
 
 La conclusión del servicio de un integrante es la terminación de su nombramiento o la cesación de sus efectos legales, por las siguientes causas:
@@ -1380,7 +1408,9 @@ b) Muerte o incapacidad permanente, o
 
 c) Jubilación o Retiro.
 
-Los casos a que se refieren las fracciones I I (sic) del presente artículo serán del conocimiento y resolución de la Oficialía Mayor de las Instituciones de Seguridad Ciudadana o área administrativa equivalente u homóloga; en tanto que los relativos a la fracción (sic) II y III serán resueltos por el (sic) Comisión de Honor y Justicia y el Consejo Disciplinario de Inclusión de la Diversidad y de la Identidad de Género de dichas Instituciones, según corresponda.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Los casos a que se refiere la fracción I y II del presente artículo serán del conocimiento y resolución de la Comisión de Honor y Justicia de las Instituciones de Seguridad Ciudadana o área administrativa equivalente u homóloga; en tanto que los relativos a la fracción III será competencia la Oficialía Mayor de la Institución de Seguridad, según corresponda.
 
 ###### Artículo 86.
 
@@ -1580,31 +1610,47 @@ Los correctivos disciplinarios serán aplicados de manera fundada y motivada por
 
 Las unidades de asuntos internos aplicarán los correctivos disciplinarios en los asuntos de su conocimiento y en el caso de conductas que deban ser sancionadas con la suspensión o destitución deberán remitir el expediente correspondiente debidamente integrado al órgano colegiado competente para que resuelva lo que en derecho corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 105.
 
 Mediante la amonestación el superior jerárquico advierte al subordinado la omisión o falta en el cumplimiento de sus deberes, invitándolo a corregirse. Será de palabra y constará por escrito. Quien amoneste lo hará de tal manera que ninguna persona de menor jerarquía a la del amonestado conozca de la aplicación de la medida y observará la discreción que exige la disciplina.
 
 El arresto consiste en el confinamiento del integrante sancionado en espacios especiales, deberá cumplirse fuera de los horarios de servicio y quedará un registro mediante una boleta de arresto en la cual se plasmará la fecha, hora de inicio, conclusión y lugar de cumplimiento del mismo, así como el fundamento y la causa de su imposición.
 
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Previo a la imposición del arresto, y con el propósito de determinar si el subordinado es acreedor a éste, el superior jerárquico deberá otorgarle derecho de audiencia, a efecto de hacerle del conocimiento los hechos que se le atribuyen, para que éste exprese lo que a su derecho convenga.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 106.
 
-Contra el arresto que apliquen los superiores jerárquicos procederá el recurso de rectificación ante el (sic) Comisión de Honor y Justicia respectivo, el cual deberá presentarse dentro de los cinco días hábiles siguientes a su aplicación.
+Contra el arresto que apliquen los superiores jerárquicos procederá el recurso de rectificación ante la Comisión de Honor y Justicia respectivo, la cual deberá presentarse dentro de los cinco días hábiles siguientes a su aplicación.
 
 El recurso de rectificación no suspenderá los efectos del arresto, pero tendrá por objeto que dicho correctivo no aparezca en el expediente u hoja de servicio del integrante, sin perjuicio de las sanciones a las que se haga acreedor el superior jerárquico que lo impuso injustificadamente. La resolución del recurso de rectificación es definitiva en sede administrativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 107.
 
-La suspensión temporal de funciones se determinará por el Consejo de Honor y Justicia o por el Comisión Disciplinario de Inclusión de la Diversidad y de la Identidad de Género, según corresponda, y podrá ser de carácter preventivo o correctivo atendiendo a las causas que la motiven.
+La suspensión temporal de funciones se determinará por la Comisión de Honor y Justicia y podrá ser de carácter preventivo o correctivo atendiendo a las causas que la motiven.
 
-La suspensión temporal de carácter preventivo procederá contra el integrante que se encuentre sujeto a investigación administrativa o penal, por actos u omisiones de los que puedan derivarse presuntas responsabilidades o imputaciones y cuya permanencia en el servicio, a juicio del Consejo de Honor y Justicia o del Consejo Disciplinario de Inclusión de la Diversidad y de la Identidad de Género, según corresponda, pudiera afectar a las Instituciones de Seguridad Ciudadana o a la comunidad en general. Dicha suspensión subsistirá hasta que el asunto de que se trate quede total y definitivamente resuelto en la instancia final del procedimiento correspondiente.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+La suspensión temporal de carácter preventivo procederá contra el integrante que se encuentre sujeto a investigación administrativa o penal, por actos u omisiones de los que puedan derivarse presuntas responsabilidades o imputaciones y cuya permanencia en el servicio, a juicio de la Comisión de Honor y Justicia, pudiera afectar a las Instituciones de Seguridad Ciudadana o a la comunidad en general. Dicha suspensión subsistirá hasta que el asunto de que se trate quede total y definitivamente resuelto en la instancia final del procedimiento correspondiente.
 
 En caso de que el integrante resulte sin responsabilidad, se le reintegrarán los salarios y prestaciones que hubiese dejado de percibir hasta ese momento, con motivo de la suspensión preventiva y en caso contrario se declarará la sanción que conforme a las constancias resulte procedente aplicar.
 
 La suspensión temporal de carácter correctivo procederá contra el integrante que en forma reiterada o particularmente indisciplinada ha incurrido en faltas cuya naturaleza no amerita la destitución. Dicha suspensión no podrá exceder de treinta días naturales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 108.
 
-La destitución es la remoción del integrante por incurrir en responsabilidad en el desempeño de sus funciones o en faltas graves por incumplimiento de sus obligaciones. Los integrantes de las Instituciones de Seguridad Ciudadana podrán ser destituidos por las siguientes causas:
+La destitución es la remoción del integrante por incurrir en responsabilidad en el desempeño de sus funciones o en faltas graves por incumplimiento de sus obligaciones. Los integrantes de las Instituciones de Seguridad Ciudadana podrán ser destituidos por las siguientes (sic)
+
+causas:
 
 I. Por ausentarse del servicio durante un periodo de tres días consecutivos o de cinco días dentro de un término de treinta días naturales sin permiso o causa justificada;
 
@@ -1618,7 +1664,9 @@ c) La evaluación del desempeño;
 
 III. La sentencia condenatoria por delito doloso que haya causado ejecutoria;
 
-IV. Por falta grave a los principios de actuación previstos en los artículos 7 y 41 de esta Ley, y a las obligaciones que de ellos se derivan, así como a las normas de disciplina que se establezcan en cada una de las Instituciones Policiales.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+IV. Por falta grave a los principios de actuación y obligaciones a que hacen mención los artículos 4 y 59 de esta Ley, así como a las normas de disciplina que se establezcan en cada una de las Instituciones Policiales.
 
 V. Por incurrir en faltas de probidad y honradez durante y fuera del servicio.
 
@@ -1650,7 +1698,7 @@ XVIII. Por aplicar a sus subalternos en forma dolosa o reiterada, correctivos di
 
 XIX. Por obligar a sus subalternos a entregarles dinero o cualquier otro tipo de dádivas a cambio de permitirles el goce de las prestaciones a que todo policía tiene derecho;
 
-XX. Facilitar el vestuario, equipo de protección, equipo electrónico Hand Held, placas, gafetes, chaleco con la leyenda “Autorizado para infracciones” u otros elementos del uniforme para que los utilice otro elemento no autorizado para ello o persona ajena a la corporación;
+XX. Facilitar el vestuario, equipo de protección, equipo electrónico Hand Held, placas, gafetes, chaleco con la leyenda "Autorizado para infracciones" u otros elementos del uniforme para que los utilice otro elemento no autorizado para ello o persona ajena a la corporación;
 
 XXI. Causar daño por negligencia o falta inexcusable a los vehículos, equipo electrónico Hand Held, Radares Móviles y demás equipo asignado, cuando el elemento operativo policial se niegue a reparar el daño;
 
@@ -1694,9 +1742,11 @@ III. Al Mérito.
 
 En cada caso, se otorgará un estímulo económico adicional, ajustándose a las disponibilidades presupuestales del caso.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 111.
 
-La Condecoración al Valor Policial consistente en medalla y diploma, se conferirá a quienes salven la vida de una o varias personas o realicen las funciones encomendadas por la Ley con grave riesgo para su vida o su salud. En casos excepcionales, las personas titulares de la Jefatura de Gobierno o de la Fiscalía, según sea el caso, a propuesta del Consejo de Honor y Justicia y en atención a la respectiva hoja de servicios, determinarán la promoción del elemento policial a la jerarquía inmediata superior.
+La Condecoración al Valor Policial consistente en medalla y diploma, se conferirá a quienes salven la vida de una o varias personas o realicen las funciones encomendadas por la Ley con grave riesgo para su vida o su salud. En casos excepcionales, las personas titulares de la Jefatura de Gobierno o de la Fiscalía, según sea el caso, a propuesta de la Comisión de Honor y Justicia y en atención a la respectiva hoja de servicios, determinarán la promoción del elemento policial a la jerarquía inmediata superior.
 
 ###### Artículo 112.
 
@@ -1740,9 +1790,11 @@ V. El otorgamiento de condecoraciones y determinar, con arreglo a la disponibili
 
 La Comisión de Honor y Justicia velará por la honorabilidad y reputación de las Instituciones de Seguridad Ciudadana. Para tal efecto, gozará de las más amplias facultades para examinar los expedientes u hojas de servicio de los policías y para practicar las diligencias que le permitan allegarse de los elementos necesarios para dictar su resolución, según se disponga en la normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 118.
 
-La Comisión de Honor y Justicia de la Secretaría estará integrado por:
+La Comisión de Honor y Justicia de la Secretaría estará integrada por:
 
 I. Un Presidente, que será designado por la persona titular de la Secretaría;
 
@@ -1750,7 +1802,9 @@ II. Un Secretario, que será designado por el o la presidenta de este Consejo y 
 
 III. Un representante de la Subsecretaría de Operación Policial de la Secretaría;
 
-IV. Un representante de la Subsecretaría de Tránsito de la Secretaría;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+IV. Un representante de la Subsecretaría de Control de Tránsito de la Secretaría;
 
 V. Un representante de la Policía Auxiliar;
 
@@ -1763,6 +1817,42 @@ VIII. Dos representantes de organizaciones civiles que atiendan el tema de Segur
 Tendrán derecho a voto todos los integrantes con excepción del Secretario. Para cada uno de estos cargos, también se designará un suplente. Los acuerdos y resoluciones de la Comisión de Honor y Justicia se tomarán por unanimidad de votos o con la mitad más uno de sus integrantes presentes y, en caso de empate, la persona titular de la presidencia tendrá voto de calidad.
 
 Serán invitados permanentes: la Comisión de Derechos Humanos de la Ciudad de México; un representante del Consejo Nacional y un representante de los cuerpos policiales.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 118 Bis.
+
+En los asuntos a que se refieren las fracciones I a III del artículo 116 de esta Ley se abrirá un expediente con las constancias que existan sobre el particular y se sujetarán al siguiente procedimiento:
+
+I. Se notificará personalmente al integrante el inicio del procedimiento en el domicilio que haya señalado conforme al artículo 59, fracción XXXII de esta Ley.
+
+II. En la notificación se le informará la naturaleza y causa del procedimiento a fin de que conozca los hechos que se le imputan y pueda defenderse por sí o por su defensor concediéndole diez días hábiles para que ofrezca las pruebas pertinentes y señalándole lugar, día y hora para la celebración de la audiencia de pruebas y alegatos. Serán admisibles toda clase de pruebas, excepto la confesional de la autoridad y las que fueren en contra del derecho.
+
+III. En dicha audiencia se desahogarán las pruebas admitidas y el interesado podrá presentar en forma verbal o por escrito los alegatos que a su derecho convengan. Una vez integrado el expediente, la Comisión de Honor y Justicia dictará su resolución debidamente fundada y motivada dentro de los veinte días hábiles siguientes, misma que será notificada personalmente al interesado en el domicilio antes indicado o en el que haya designado durante la secuela del procedimiento, misma que tendrá que ser dentro del territorio de la Ciudad de México.
+
+IV. La resolución que emita la Comisión de Honor y Justicia tomará en consideración a la falta cometida, la jerarquía y los antecedentes del integrante sujeto a procedimiento, así como las pruebas desahogadas.
+
+V. De todo lo actuado se levantará constancia por escrito.
+
+Las resoluciones de la Comisión de Honor y Justicia se agregarán a los expedientes u hojas de servicio de los integrantes de las Instituciones de Seguridad Ciudadana.
+
+La substanciación del procedimiento administrativo disciplinario se realizará por la unidad administrativa encargada de brindar el apoyo, soporte y coadyuvancia a la Comisión de Honor y Justicia, pero en todos los casos la resolución será emitida por dicho órgano colegiado.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 118 Ter.
+
+En contra de las resoluciones de la Comisión de Honor y Justicia se podrá interponer el recurso de revisión ante la persona titular de la Secretaría o Fiscalía General según sea el caso, dentro de los tres días hábiles siguientes a la notificación de la resolución. En el escrito correspondiente, el recurrente expresará los agravios que estime pertinentes y aportará las pruebas que procedan. Interpuesto el recurso de revisión dentro del plazo señalado y, admitido que sea, el o la persona titular de la Secretaría o Fiscalía General, lo resolverán dentro de los diez días hábiles siguientes. La resolución del recurso de revisión es definitiva en sede administrativa.
+
+La resolución del recurso se agregará al expediente u hoja de servicios correspondiente.
+
+La Ley de Responsabilidades Administrativas de la Ciudad de México, será de aplicación supletoria en la substanciación del procedimiento descrito en el artículo anterior, así como para la substanciación del recurso de revisión.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 118 Quáter.
+
+En el caso de destitución, si la autoridad jurisdiccional resolviere que fue injustificada, el Gobierno de la Ciudad sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
 
 ###### Artículo 119.
 
@@ -1998,13 +2088,27 @@ Se consideran miembros de las instituciones de seguridad ciudadana a quienes ten
 
 Dichos registros contendrán información actualizada permanentemente relativa a los integrantes de las instituciones de seguridad, los cuales contendrán por lo menos:
 
-I. Los datos que permitan identificar plenamente y localizar al servidor público, nombre, cargo, grado, fotografía de sus huellas digitales, fotografía, clave de inscripción en el Registro Nacional de Personal de Seguridad Pública, fecha de expedición y vigencia de la misma, la que no excederá de un año, así como el nombre, cargo y firma de la autoridad que la expida; utilizando para su elaboración y control las técnicas y medidas necesarias que eviten su falsificación o alteración y aseguren su autenticidad; escolaridad y antecedentes en el servicio, así como su trayectoria en la seguridad ciudadana;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2019)</small>
 
-En el caso de las empresas de seguridad privada el documento de identificación deberá contener además nombre de la empresa, domicilio y forma de contacto en donde se pueda verificar la información.
+I. Los datos que permitan identificar plenamente y localizar al servidor público, nombre, cargo, grado, huellas digitales, fotografía, clave de inscripción en el Registro Nacional de Personal de Seguridad Pública, fecha de expedición y vigencia de la misma, la que no excederá de un año, así como el nombre, cargo y firma de la autoridad que la expida; utilizando para su elaboración y control las técnicas y medidas necesarias que eviten su falsificación o alteración y aseguren su autenticidad; escolaridad y antecedentes en el servicio, así como su trayectoria en la seguridad ciudadana.
 
-II. Los estímulos, reconocimientos y sanciones a que se haya hecho acreedor el servidor público, y
+En el caso de las empresas de seguridad privada el documento de identificación deberá contener además nombre de la empresa, domicilio y forma de contacto en donde se pueda verificar la información;
 
-III. Cualquier cambio de adscripción, actividad o rango del servidor público, así como las razones que lo motivaron.
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+II. La Clave de identificación biométrica;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+III. Tres identificadores biométricos, debiéndose incluir entre ellos, las huellas dactilares, así como aquél obtenido por medio de los análisis del material genético, utilizando la molécula de ácido desoxirribonucleico (ADN), que exclusivamente proporcione información genética reveladora de la identidad de la persona y su sexo;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+IV. La toma de muestras biológicas para la obtención de perfiles genéticos del personal de los Cuerpos de Seguridad Ciudadana deberán ser llevadas a cabo bajo los procedimientos de ingreso y permanencia;
+
+V. Los estímulos, reconocimientos y sanciones a que se haya hecho acreedor el servidor público, y
+
+VI. Cualquier cambio de adscripción, actividad o rango del servidor público, así como las razones que lo motivaron.
 
 Cuando a los integrantes de las instituciones de seguridad ciudadana se les dicte cualquier auto de procesamiento, sentencia condenatoria o absolutoria, sanción administrativa o resolución que modifique, confirme o revoque dichos actos, se notificará inmediatamente al Registro.
 
@@ -2164,9 +2268,13 @@ Décimo Tercero. El Programa de Seguridad Ciudadana de la Ciudad de México, deb
 
 Décimo Cuarto. Las leyes, reglamentos, decretos, acuerdos y demás normatividad que regule la prestación del servicio de seguridad privada en la Ciudad de México, continuarán vigentes en todo lo que no se opongan a la presente Ley y a la Ley General del Sistema Nacional de Seguridad Pública.
 
-Décimo Quinto. Sin perjuicio de lo previsto en esta Ley, la persona titular de la Jefatura de Gobierno, con la participación que corresponda a la Secretaría de Seguridad Ciudadana y a la Fiscalía General de Justicia, deberá cumplir en tiempo y forma con lo dispuesto en el Transitorio Séptimo del “DECRETO por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional”, publicado en el Diario Oficial de la Federación el 26 de marzo de 2019.
+Décimo Quinto. Sin perjuicio de lo previsto en esta Ley, la persona titular de la Jefatura de Gobierno, con la participación que corresponda a la Secretaría de Seguridad Ciudadana y a la Fiscalía General de Justicia, deberá cumplir en tiempo y forma con lo dispuesto en el Transitorio Séptimo del "DECRETO por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional", publicado en el Diario Oficial de la Federación el 26 de marzo de 2019.
 
-Décimo Sexto. Los procedimientos administrativos disciplinarios que se hayan iniciado o se encuentren en trámite en los órganos colegiados de las instituciones policiales, antes de la entrada en vigor de la presente Ley, continuarán su trámite hasta su total conclusión de conformidad con la normativa vigente en el momento de su inicio. Igual disposición aplicará para los recursos de revisión y de rectificación interpuestos antes de la entrada en vigor de esta Ley.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Décimo Sexto. Los procedimientos administrativos disciplinarios que se encuentren en trámite o pendientes de resolución en los Órganos Colegiados de las instituciones policiales a la fecha de entrada en vigor de esta Ley, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron tales procedimientos. Misma disposición aplicará para los recursos de revisión y de rectificación interpuestos antes de la entrada en vigor de esta Ley.
+
+Las disposiciones de la Ley de Seguridad Pública del Distrito Federal hasta la entrada en vigor de la presente Ley seguirán aplicándose por los hechos realizados durante su vigencia y su resolución le corresponderá a la Comisión de Honor y Justicia de la Secretaría de Seguridad Ciudadana de la Ciudad de México.
 
 Décimo Séptimo. Al personal de las Instituciones de Seguridad Ciudadana que actualmente esté en activo, le será aplicable la Ley, sin menoscabo de sus derechos derivados de la relación por la prestación del servicio.
 
@@ -2178,6 +2286,40 @@ Vigésimo. Las disposiciones relativas a la policía cívica serán reguladas en
 
 Vigésimo Primero. Lo dispuesto en esta Ley respecto del Consejo de Evaluación de la Ciudad de México quedará sujeto a la entrada en vigor de las disposiciones jurídicas que lo regulen.
 
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Vigésimo Segundo. Todas las referencias hechas al Consejo de Honor y Justicia de la Secretaría de Seguridad Pública del Distrito Federal o de la Ciudad de México, se entenderán realizadas a la Comisión de Honor y Justicia de la Secretaría de Seguridad Ciudadana de la Ciudad de México.
+
 Palacio Legislativo del Congreso de la Ciudad de México, a los treinta y un días del mes de julio del año dos mil diecinueve.- POR LA MESA DIRECTIVA.- DIPUTADO JOSÉ DE JESÚS MARTÍN DEL CAMPO CASTAÑEDA, PRESIDENTE.- DIPUTADA ISABELA ROSALES HERRERA, SECRETARIA.- DIPUTADA ANA PATRICIA BAEZ GUERRERO, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 3 fracciones XVII y XVIII, 7, 10 fracción II, 12 y 21, párrafo primero, de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, el primer día del mes de agosto del año dos mil diecinueve.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, JESÚS ORTA MARTÍNEZ.- FIRMA.- EL CONSEJERO JURÍDICO Y DE SERVICIOS LEGALES, HÉCTOR VILLEGAS SANDOVAL.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY POR LA QUE SE CREA EL BANCO DE ADN PARA USO FORENSE DE LA CIUDAD DE MÉXICO, SE ADICIONA UN ARTÍCULO 78 BIS A LA LEY DE CENTROS DE RECLUSIÓN PARA EL DISTRITO FEDERAL Y SE REFORMA EL ARTÍCULO 136 DE LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO EN MATERIA DE REGISTRO DE IDENTIFICACIÓN BIOMÉTRICA”.]
+
+PRIMERO. Publíquese el presente decreto en la Gaceta Oficial de la Ciudad de México y en el sitio web del Congreso de la Ciudad de México para su mayor difusión.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. El Banco de Perfiles Genéticos deberá estar en operación a más tardar dentro de los 365 días posteriores a la entrada en vigor de la presente Ley que se expide.
+
+CUARTO. La implementación del Banco de perfiles genéticos será gradual, debiendo quedar concluida en su totalidad a más tardar el 31 de diciembre del 2022.
+
+QUINTO. En tanto no entre en funcionamiento la Fiscalía General de Justicia, las funciones que le son atribuidas en la presente Ley, serán desarrolladas por la Procuraduría General de Justicia.
+
+SEXTO. La Coordinación Interinstitucional deberá elaborar y aprobar los lineamientos, manuales, procedimiento, protocolos, así como la capacitación y certificación, en el término de doce meses contados a partir de la fecha de entrada en vigor de la presente Ley.
+
+SÉPTIMO. La Fiscalía General de Justicia de la Ciudad de México, a partir de que entre en vigor el presente decreto deberá emitir en un plazo no mayor a 90 días los protocolos de actuación para la toma de muestras, respetando siempre el principio de la dignidad humana.
+
+OCTAVO. Las referencias hechas a la Fiscalía General de Justicia de la Ciudad de México y a su titular se entenderán hechas para la Procuraduría General de Justicia de la Ciudad de México en tanto no entre en funciones la Fiscalía.
+
+NOVENO. A partir de la entrada en vigor del presente decreto, se incluirán en la base de datos de las personas sentenciadas, a aquellas que hayan adquirido ese carácter con fecha posterior a la entrada en vigor de la presente ley.
+
+G.O. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en Gaceta Oficial del Gobierno de la Ciudad de México.
