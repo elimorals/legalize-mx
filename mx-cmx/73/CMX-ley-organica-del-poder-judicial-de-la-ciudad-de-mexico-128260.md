@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-poder-judicial-de-la-ciudad-de-mexico-128260"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2019-12-10"
+last_updated: "2019-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128260&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Tomo I al Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -698,9 +698,13 @@ VI. De los casos de responsabilidad civil de las y los jueces penales del Tribun
 
 VII. De los demás asuntos que determinen las leyes.
 
-Estas Salas resolverán de manera colegiada, cuando se trate de apelaciones contra sentencias definitivas derivadas de procedimientos ordinarios dictadas en procesos instruidos por delitos graves en los que se imponga pena de prisión preventiva mayor a cinco años. En todos los demás casos, las resoluciones se dictarán en forma unitaria conforme al turno correspondiente.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
 
-Tratándose de procedimientos en materia oral la Sala resolverá conforme a lo establecido en el párrafo anterior, cuando se trate de apelaciones contra sentencias definitivas derivadas de procedimientos ordinarios dictadas en procesos instruidos por delito en los que se imponga pena de prisión preventiva mayor a cinco años.
+Estas Salas resolverán de manera colegiada, cuando se trate de apelaciones contra sentencias definitivas derivadas de procedimientos ordinarios dictadas en procesos instruidos por delitos graves en los que se imponga pena de prisión mayor a cinco años. En todos los demás casos, las resoluciones se dictarán en forma unitaria conforme al turno correspondiente.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Tratándose de procedimientos en materia oral la Sala resolverá conforme a lo establecido en el párrafo anterior, cuando se trate de apelaciones contra sentencias definitivas en las que se haya impuesto pena de prisión mayor de cinco años.
 
 Cualquiera de las y los Magistrados podrá determinar que el fallo se realice en forma colegiada en razón del criterio que se va a establecer o por otra circunstancia.
 
@@ -832,7 +836,9 @@ De igual manera, y tomando en consideración las características del hecho inve
 
 Las y los Jueces de Control, conocerá desde el inicio de la etapa de investigación hasta el dictado del auto de apertura de juicio; así como resolverán de manera unitaria.
 
-Los Tribunales de Enjuiciamiento que actúen de manera unitaria o colegiada, conocerán desde que se recibe el auto de apertura a juicio oral, hasta la explicación y el dictado de la sentencia; asimismo resolverán de manera colegiada, cuando se trate de delitos que ameriten prisión preventiva oficiosa o por el volumen de pruebas, víctimas o acusados involucrados en el proceso a consideración del Juzgador Coordinador. El Tribunal de Enjuiciamiento actuará de manera colegiada cuando esté integrado por tres jueces. En todos los demás casos, será de manera unitaria conforme al turno correspondiente.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Los Tribunales de Enjuiciamiento que actúen de manera unitaria o colegiada, conocerán desde que se recibe el auto de apertura a juicio oral, hasta la explicación y el dictado de la sentencia; asimismo resolverán de manera colegiada, cuando esté integrada por tres jueces, lo anterior, en razón del criterio que se va a establecer o por otra circunstancia, según lo determine el juez a quien se le designe el asunto; y resolverán de manera unitaria en los demás casos.
 
 En materia penal tendrán la validez y eficacia de un documento físico original de registro, los archivos de documentos, mensajes, imágenes, bancos de datos y toda aplicación almacenada o transmitida por medios electrónicos, informáticos, magnéticos, ópticos, telemáticos o producidos por nuevas tecnologías, destinados a la tramitación judicial, ya sea que registren actos o resoluciones judiciales. Lo anterior siempre que cumplan con los procedimientos establecidos para garantizar su autenticidad, integridad y seguridad.
 
@@ -1392,7 +1398,9 @@ Los Juzgados de Control, Tribunal de Enjuiciamiento, Jueces de Ejecución y Trib
 
 Los asuntos les serán asignados en riguroso turno por parte del Órgano De Gestión Judicial y conforme a las reglas que al efecto emita el Consejo de la Judicatura, mismas que deberán garantizar objetividad, imparcialidad y equidad en los turnos, así como equilibrio en las cargas de trabajo entre los distintos juzgados.
 
-El Tribunal de Enjuiciamiento se integrará y conocerá del juicio oral, de manera unitaria o colegiada. En este último supuesto será en los asuntos relativos a delitos que tengan señalada prisión preventiva oficiosa, en términos de lo que al efecto dispone el Código Nacional de Procedimientos Penales; así como en aquellos que determine la o el Juez Coordinador.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+El Tribunal de Enjuiciamiento se integrará y conocerá del juicio oral, de manera unitaria o colegiada. En este último supuesto, será en razón del criterio que se va a establecer o por otra circunstancia, según lo determine el juez a quien se le designe el asunto; y resolverán de manera unitaria en los demás casos.
 
 ###### Artículo 103.
 
@@ -1406,7 +1414,9 @@ III. Del conflicto competencial que eleven las y los Jueces de Control, Tribunal
 
 IV. De los demás asuntos que determinen las leyes.
 
-El Tribunal de Alzada resolverá de manera colegiada, respecto a las sentencias dictadas por el Tribunal de Enjuiciamiento en delitos de prisión preventiva oficiosa y en las que se haya impuesto pena de prisión mayor de cinco años o cuando alguna de las Magistradas o Magistrados lo determine en razón del precedente u otra circunstancia. En todos los demás casos, las resoluciones se dictarán en forma unitaria conforme al turno correspondiente.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+El Tribunal de Alzada resolverá de manera colegiada, respecto a las sentencias dictadas por el Tribunal de Enjuiciamiento, en las que se haya impuesto pena de prisión mayor de cinco años o cuando alguna de las Magistradas o Magistrados lo determine en razón del precedente u otra circunstancia. En todos los demás casos, las resoluciones se dictarán en forma unitaria conforme al turno correspondiente.
 
 ### CAPÍTULO VI. DE LA JUSTICIA CIVIL DE CUANTÍA MENOR, DEL PROCESO ORAL CIVIL Y PENAL
 
@@ -4707,3 +4717,13 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Publíquese en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E.TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 52 PÁRRAFOS SEGUNDO Y TERCERO, 61 PÁRRAFO SÉPTIMO, 102 PÁRRAFO TERCERO Y 103 ÚLTIMO PÁRRAFO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.– El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Remítase a la Jefa de Gobierno de la Ciudad de México para efectos de su publicación.
+
+TERCERO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
