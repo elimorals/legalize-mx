@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transicion-de-la-procuraduria-general-de-justicia-a-1336
 country: "mx"
 rank: "ley"
 publication_date: "2019-02-14"
-last_updated: "2019-02-14"
+last_updated: "2019-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133646&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-01-21"
 ---
 # LEY DE TRANSICION DE LA PROCURADURIA GENERAL DE JUSTICIA A LA FISCALIA GENERAL DE JUSTICIA DE LA CIUDAD DE MEXICO
 
+[N. DE. E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 24 DE DICIEBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
 LEY DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE DICIEMBRE DE 2019 (ABROGADO)
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el jueves 14 de febrero de 2019.
 
@@ -345,3 +347,107 @@ SÉPTIMO. Remítase el presente Decreto a la persona titular de la Jefatura de G
 Palacio Legislativo del Congreso de la Ciudad de México, a los veinte días del mes de diciembre del año dos mil dieciocho.- POR LA MESA DIRECTIVA.- DIPUTADO JOSÉ DE JESÚS MARTÍN DEL CAMPO CASTAÑEDA, PRESIDENTE.- DIPUTADA ISABELA ROSALES HERRERA, SECRETARIA.- DIPUTADA ANA PATRICIA BAEZ GUERRERO, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2, 3, fracciones XVII y XVIII, 7, 10 fracción II, 12 y 21 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los veintiún días del mes de enero del año dos mil diecinueve. LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 24 DE DICIEMBRE DE 2019.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México para su mayor difusión.
+
+SEGUNDO. El presente Decreto entrará en vigor el día 10 de enero de 2020.
+
+TERCERO. A partir de la entrada en vigor de la Ley Orgánica de la Fiscalía General de Justicia de la Ciudad de México, la Ley de Transición de la Procuraduría General de Justicia a la Fiscalía General de Justicia de la Ciudad de México, publicada en la Gaceta Oficial de la Ciudad de México, el 14 de Febrero de 2019, quedará abrogada.
+
+Las normas aplicables de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal, el Reglamento de la misma, así como los acuerdos, protocolos, lineamientos, manuales y demás instrumentos normativos continuarán en vigor, hasta en tanto se expidan, publiquen y adquieran vigencia las disposiciones jurídicas que los sustituyan.
+
+Las autoridades y unidades administrativas de la Procuraduría General de Justicia de la Ciudad de México conservarán sus denominaciones, atribuciones y estructura hasta en tanto no entren en vigor las normas jurídicas y estructuras administrativas que los supriman o sustituyan.
+
+Conforme avance el Plan de Transición, la persona titular de la Fiscalía General de Justicia de la Ciudad de México, mediante avisos publicados en la Gaceta Oficial, declarará la cesación de funciones de las unidades administrativas que conforman la Procuraduría General de Justicia del Distrito Federal y el inicio de funciones de las unidades administrativas creadas por esta Ley y el reglamento.
+
+CUARTO. La Procuraduría General de Justicia de la Ciudad de México continuará encargándose de la función ministerial hasta que inicie sus funciones la Fiscalía General de Justicia de la Ciudad de México.
+
+QUINTO. El Congreso de la Ciudad de México declarará concluido el mandato de la Comisión de Transición, una vez que haya concluido la ejecución del Plan de Transición.
+
+La Comisión opinará y supervisará las actividades de la Unidad de Implementación hasta la conclusión del Plan de Transición.
+
+El Plan de Transición comprenderá como mínimo los aspectos siguientes:
+
+I. Diagnóstico, mapeo y análisis de los fenómenos criminales que perseguirá; la definición del plan de política criminal y la operación y despliegue del modelo de investigación criminal;
+
+II. Definición de objetivos, estrategias, acciones, metas e indicadores de resultados del proceso de transición, con base en criterios de gradualidad que consideren los tipos y fenómenos delictivos, unidades operativas centrales y territoriales, regiones geográficas u otros;
+
+III. Estrategia específica respecto al personal en activo y al reclutamiento de nuevos talentos, que contemple a su vez esquemas de formación inicial, certificación, capacitación, desarrollo y gestión del cambio;
+
+IV. Estrategia para el diseño de la nueva estructura organizativa; así como del proceso de cierre de las estructuras y procesos previos;
+
+V. Proponer la estrategia de liquidación de casos, con el inventario de casos en trámite que proporcione la persona titular de la Procuraduría; así como su situación jurídica, tanto del sistema inquisitivo mixto como del acusatorio, para garantizar su adecuada atención; así como la identificación de casos de alto impacto social o de violaciones graves a los derechos humanos. Los casos pendientes de resolución relacionados con violaciones graves de derechos humanos o corrupción no podrán ser liquidados, así como la forma de atención y trámite a estos casos hasta su conclusión;
+
+VI. Estrategia de transparencia, participación ciudadana y rendición de cuentas del proceso de transición que asegure la publicidad y mecanismos necesarios para el seguimiento, colaboración y vigilancia;
+
+VII. Estrategia de colaboración y articulación con otras instituciones con las que requiera coordinarse para llevar a cabo la función fiscal;
+
+VIII. Las propuestas normativas necesarias para el funcionamiento de la Fiscalía.
+
+IX. Establecerá un mecanismo expeditivo para establecer el sistema central de recepción y canalización de los asuntos nuevos que tenga que conocer la Fiscalía General; y
+
+X. La Comisión definirá el plazo o plazos para la instrumentación del Plan de Transición, el cual podrá ser gradual.
+
+SEXTO. Una vez publicado este Decreto y habiendo sido designada La o El titular de la Fiscalía General Justicia de la Ciudad de México, el Congreso de la Ciudad de México deberá emitir la declaratoria expresa de la entrada en vigor de la autonomía constitucional de la misma.
+
+SÉPTIMO. Todos los convenios y actos jurídicos celebrados por la Procuraduría General de la Ciudad de México se entenderán como vigentes y obligarán en sus términos a la Fiscalía General, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o cancelarlos posteriormente.
+
+OCTAVO. Todas las referencias normativas a la Procuraduría General de la Ciudad de México, así como todas las participaciones institucionales de ésta o de la persona titular de la Procuraduría General de la Ciudad de México, se entenderán referidas a la Fiscalía General de la Ciudad de México, o a la persona titular de la misma.
+
+La persona titular de la Procuraduría General de Justicia de la Ciudad de México que se encuentre en funciones al momento de expedirse la declaratoria a que se refiere el artículo transitorio segundo, continuará en su encargo hasta en tanto el Congreso de la Ciudad de México designe a La o El titular de la Fiscalía General de Justicia de la Ciudad de México.
+
+NOVENO. El Reglamento de la Ley Orgánica de la Fiscalía General de Justicia de la Ciudad de México deberá publicarse en la Gaceta Oficial de la Ciudad de México en un plazo que no exceda de ciento veinte días naturales, contados a partir del nombramiento de la persona titular de la Fiscalía.
+
+DÉCIMO. Las averiguaciones previas, carpetas de investigación y demás casos que se encuentren en trámite a la entrada en vigor del presente Decreto serán resueltos por las áreas o unidades administrativas a las que están asignadas, conforme a los ordenamientos vigentes al momento de su inicio o apertura. Lo anterior sin perjuicio de que se adscriban a nuevas unidades conforme a los avances del proceso de la transición orgánica de la Fiscalía General de Justicia de la Ciudad de México.
+
+A partir del inicio de funciones de la persona titular de la Fiscalía General de Justicia de la Ciudad de México contará con 120 días para presentar una estrategia de liquidación de casos, así como su situación jurídica, tanto del sistema inquisitivo mixto como del acusatorio, para garantizar su adecuada atención; así como la identificación de casos de alto impacto social o de violaciones graves a los derechos humanos. Los casos pendientes de resolución relacionados con violaciones graves de derechos humanos o corrupción no podrán ser liquidados, así como la forma de atención y trámite a estos casos hasta su conclusión.
+
+DECIMO PRIMERO. El Congreso de la Ciudad de México, tomando en cuenta el principio de austeridad, contemplará en el Decreto por el que se expide el Presupuesto de Egresos de la Ciudad de México para el Ejercicio Fiscal 2020 y subsecuentes, la asignación y garantía de la suficiencia presupuestal para la instalación de la Fiscalía General de Justicia de la Ciudad de México y la ejecución de la planeación estratégica del proceso de transición, conforme a lo establecido en la Ley de Transición de la Procuraduría General de Justicia a la Fiscalía General de Justicia de la Ciudad de México y el artículo 72 de la Ley del Sistema Anticorrupción de la Ciudad de México.
+
+DÉCIMO SEGUNDO. La persona Titular de la Fiscalía General de Justicia, deberá elaborar el Plan de Política Criminal para presentarlo ante el Congreso de la Ciudad de México, de conformidad con el artículo 44, apartado B, numeral 2, de la Constitución Política de la Ciudad de México.
+
+El Plan se elaborará a partir de la realización de un inventario integral y un diagnóstico de los recursos financieros, humanos y materiales, casos pendientes, procesos de colaboración e inteligencia y cualquier otro insumo que considere necesario para la integración del mismo.
+
+En el Plan se deberá priorizar en orden de importancia el establecimiento del Servicio Profesional de Carrera, la consolidación de los sistemas informáticos, las unidades de análisis criminalístico y criminológico que investigarán el volumen de casos con imputado desconocido, los grupos especializados de litigio oral y ejecución penal, los órganos administrativos y los sustantivos necesarios para la función de procuración de justicia.
+
+DÉCIMO TERCERO. Las o Los Fiscales, Agentes del Ministerio Público, oficiales Secretarios, policías de investigación, analistas, auxiliares y peritos, así como el o El personal profesional, técnico y administrativo que a la entrada en vigor del presente ordenamiento se encuentren laborando en la Procuraduría General de Justicia de la Ciudad de México se sujetarán a las disposiciones de relaciones laborales que dispone el artículo Transitorio Vigésimo Quinto de la Constitución Política de la Ciudad de México.
+
+En la transición del personal de la Procuraduría General de Justicia, tratándose de personal sindicalizado, la representación gremial participará en los términos que señalen las leyes e instrumentos aplicables.
+
+La Fiscalía contará con médicos legistas en su plantilla de personal. El personal que actualmente funge con tal carácter podrá ser readscrito a la Fiscalía, previo consentimiento, en los términos de la normatividad aplicable e intervención de la representación sindical, en su caso.
+
+DÉCIMO CUARTO. Una vez instaladas las Fiscalías Especializadas y demás unidades administrativas, las personas titulares de inmediato solicitarán a La o El titular de la Fiscalía General de la Ciudad de México, la asignación del personal que integrará dichas áreas, de acuerdo a la Ley y Reglamento. En el proceso de asignación, se observarán, entre otros, los principios de igualdad, paridad y no discriminación entre mujeres y hombres.
+
+DÉCIMO QUINTO. La Fiscalía Especializada en Combate a la Corrupción, respondiendo a la satisfacción del interés público y del bien común, podrá atraer por conducto de su titular, asuntos cuyo trámite se hubiese iniciado con anterioridad a la asignación de su gestión.
+
+DÉCIMO SEXTO. Los Órganos Colegiados de la Procuraduría General de Justicia de la Ciudad de México que se encuentren integrados y en operación a la entrada en vigor del presente Decreto, seguirán actuando conforme a los ordenamientos vigentes aplicables; lo anterior; sin perjuicio de que se modifique su integración y funcionamiento conforme a los avances del proceso de la transición orgánica de la Fiscalía General de Justicia de la Ciudad de México.
+
+DÉCIMO SÉPTIMO. A la entrada en vigor del presente Decreto, los bienes muebles, inmuebles y demás recursos materiales, financieros y presupuestales, asignados a la Procuraduría General de Justicia de la Ciudad de México, pasarán a formar parte del patrimonio de la Fiscalía General de la Ciudad de México. En lo relativo a bienes en posesión o servicios contratados para los fines de la Procuraduría General, obtenidos por arrendamiento, comodato o cualquier otro contrato mediante el cual se haya transmitido la posesión o propalado dichos servicios, continuarán siendo utilizados por la Fiscalía General de la Ciudad de México.
+
+La Secretaría de Finanzas y Administración de la Ciudad de México, deberá efectuar las gestiones y trámites correspondientes, para dar cumplimiento cabal al presente artículo, conforme a las disposiciones legales aplicables.
+
+DÉCIMO OCTAVO. La persona Titular de la Fiscalía General, deberá designar dentro de los treinta días siguientes al inicio (sic) su gestión, a la persona que encabezará la unidad de implementación del proceso de Transición.
+
+DÉCIMO NOVENO. El proceso de transición de la Procuraduría General de Justicia de la Ciudad de México a Fiscalía General de Justicia de la Ciudad de México, será gradual hasta un plazo de cuatro años, a partir de la asunción del cargo de La o El titular de la Fiscalía, de acuerdo con el Plan de Transición.
+
+VIGÉSIMO. El proceso de transición de la Procuraduría General a la Fiscalía General de la Ciudad de México, se llevará a cabo de acuerdo con el Plan de Transición y será coordinado por la Unidad de Implementación. Este proceso deberá ejecutarse conforme a los lineamientos que expida la persona titular de la Fiscalía General, en un plazo de 120 días contados desde la fecha de su designación, asignándose para tales efectos el fondo especial para el financiamiento de dicho proceso.
+
+VIGÉSIMO PRIMERO. Las personas agentes del ministerio público adscritos a juzgados civiles y familiares dejaran de estar adscritos a dichos juzgados, debiendo ser sustituidos por el personal que salvaguarda los derechos de las niñas, niños y adolescentes de conformidad con la ley de la materia.
+
+No obstante, en tanto no se establezca la sustitución de la función de representación social que llevan a cabo los agentes del ministerio público, en los juzgados civiles y familiares del Tribunal Superior de Justicia, continuaran adscritos a dichos juzgados efectuando dicha función en beneficio de las niñas y niños de la ciudad de México.
+
+VIGÉSIMO SEGUNDO. La Fiscalía General y la Comisión de Atención a Víctimas de la Ciudad de México convendrán un periodo de transición en lo concerniente a la asesoría jurídica y la atención a víctimas, conforme al cual, en forma escalonada y paulatina, ejecuten las siguientes acciones:
+
+1. En materia de asesoría jurídica penal, la Comisión de Víctimas, absorberá exclusivamente la asesoría jurídica en los siguientes delitos de alto impacto y que se enuncian a continuación: homicidio doloso, feminicidio, secuestro, trata de personas, delitos en materia de tortura, desaparición forzada de personas y desaparición cometida por particulares, así como abordar en forma exclusiva la representación victimal en materia de la ejecución de sentencias penales.
+
+La asesoría jurídica victimal en su totalidad será transferida a partir del 1º de enero de 2024, en cuyo caso, la Comisión de Víctimas conocerá en forma exclusiva de la asesoría jurídica de las víctimas, en observancia y para efectos del artículo 20, apartado C de la Constitución Federal y de conformidad con la Ley General de Víctimas. Asimismo, conocerá adicionalmente para efectos de la asesoría jurídica victimal de los delitos de abuso o violencia sexual contra menores, como delitos sexuales en general.
+
+2. En materia de atención a víctimas, la Comisión de Atención a Víctimas de la Ciudad de México a partir del 1º de enero de 2022, conocerá exclusivamente de la atención a víctimas y primer contacto, conforme a la Ley General de Víctimas y la Ley de Víctimas de la ciudad de México. Ambas instancias se coordinarán estrechamente en forma previa para permitir la implementación y transmisión ordenada de la atención a víctimas a la Comisión de Víctimas.
+
+VIGÉSIMO TERCERO. Los requisitos de ingreso, promoción y permanencia para el personal sustantivo se establecerán en el Reglamento y no podrán ser menores a los señalados a la Ley Orgánica de la Procuraduría General de Justicia de la Ciudad de México.
