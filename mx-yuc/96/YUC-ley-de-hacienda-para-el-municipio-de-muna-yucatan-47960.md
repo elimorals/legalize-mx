@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-muna-yucatan-47960"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2017-12-27"
+last_updated: "2019-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,13 @@ state: "YUC"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE MUNA, YUCATAN
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY DE HACIENDA DEL MUNICIPIO DE MUNA, YUCATÁN, PUBLICADA EN EL D.O. DE 24 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MUNA, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -2582,3 +2584,13 @@ Este decreto entrará en vigor el 1 de enero de 2018, previa publicación en el 
 Segundo. Derogación tácita
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
+
+D.O. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 150/2019 POR EL QUE SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE HOMÚN, KAUA, MUNA, OPICHÉN, SEYÉ, SOTUTA, TELCHAC PUEBLO Y VALLADOLID”.]
+
+Artículo Primero.- Se abroga la Ley de Hacienda del Municipio de Muna, Yucatán publicada en el Diario Oficial del Gobierno del Estado de Yucatán mediante Decreto 646 de fecha 3 de Enero de 2006 y todas las disposiciones contrarias al presente ordenamiento.
+
+Artículo Segundo.- Esta ley entrará en vigor el primero de enero de 2020, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Tercero.- En lo no previsto por esta Ley, se aplicará supletoriamente lo establecido por el Código Fiscal y la Ley de Hacienda Municipal, ambas del Estado de Yucatán.
