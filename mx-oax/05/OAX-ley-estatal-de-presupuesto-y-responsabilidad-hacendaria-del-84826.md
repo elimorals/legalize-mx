@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-presupuesto-y-responsabilidad-hacendaria-del-848
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2019-11-23"
+last_updated: "2019-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -99,9 +101,17 @@ X. Balance presupuestario: la diferencia entre los Ingresos totales incluidos en
 
 XI. Balance presupuestario de recursos disponibles: la diferencia entre los Ingresos de libre disposición, incluidos en la Ley de Ingresos, más el Financiamiento Neto y los Gastos no etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+XI Bis. Banco de proyectos de inversión pública (BPIP): Herramienta tecnológica y metodológica que regula procedimientos e instrumentos para la formulación, preparación, evaluación ex ante, viabilización y registro de los proyectos de inversión pública en el Estado;
+
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2019)</small>
 
 XII. Clasificador por objeto del gasto: el instrumento que permite registrar de manera ordenada, sistemática y homogénea las compras, los pagos y las erogaciones autorizados en capítulos conceptos y partidas. Este clasificador permite formular y aprobar el proyecto de Presupuesto de Egresos desde la perspectiva económica y dar seguimiento a su ejercicio;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+XII Bis. Criterios Generales de Política Económica: El documento enviado por el Ejecutivo Federal al Congreso de la Unión, en los términos del artículo 42, fracción III, inciso a), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
@@ -123,9 +133,9 @@ XVI. Cuenta Pública: El informe a que se refiere la Ley de Fiscalización Super
 
 XVII. Déficit presupuestario: el financiamiento que cubre la diferencia entre los montos previstos en la Ley de Ingresos y el Presupuesto de Egresos y aquella entre los ingresos y los gastos en los presupuestos de las entidades;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-XVIII. Dependencias: Administración Pública Centralizada: Integrada por la Gubernatura, Secretarías de Despacho, Consejería Jurídica del Gobierno del Estado y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, así como, por los Órganos Auxiliares, las unidades administrativas que dependan directamente del Gobernador del Estado y los Órganos Desconcentrados.
+XVIII. Dependencias: Administración Pública Centralizada integrada por la Gubernatura, Secretarias de Despacho, Fiscalía General del Estado, Consejería Jurídica del Gobierno del Estado y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, así como, por los Organos Auxiliares, las unidades administrativas que dependan directamente del Gobernador del Estado y los Órganos Desconcentrados.
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
@@ -267,6 +277,10 @@ L. Percepciones extraordinarias: Los estímulos, reconocimientos, recompensas, i
 
 LI. Percepciones ordinarias: los pagos por sueldos y salarios que se cubren a los servidores públicos conforme a los tabuladores autorizados por el desempeño de sus labores cotidianas en los Poderes Legislativo, Judicial, Ejecutivo y Órganos Autónomos, donde prestan sus servicios, así como los montos correspondientes a los incrementos que, en su caso, se hayan aprobado para el ejercicio fiscal;
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+LI Bis. Población objetivo: Población que un programa tiene planeado o programado atender para cubrir la población potencial y que cumple con los criterios de elegibilidad establecidos en su normatividad.
+
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 LII. Presupuesto de Egresos: el Presupuesto de Egresos del Estado de Oaxaca para el ejercicio fiscal correspondiente, incluyendo el decreto y sus anexos;
@@ -283,9 +297,9 @@ LIV. Presupuesto regularizable de servicios personales: las erogaciones que con 
 
 LV. Programas de inversión: las acciones que implican erogaciones de gasto de capital destinadas tanto a obra pública en infraestructura, adquisición y modificación de inmuebles, adquisición de bienes muebles asociadas a estos programas, rehabilitación o mantenimiento que implique un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles; estudios, diseño, ejecución y evaluación de las mismas;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-LVI. Proyectos de inversión Pública: Conjunto organizado de insumos, actividades, recursos y/u obras tendientes a aumentar la información bruta de capital fijo o el incremento de capital humano en un tiempo y con unos recursos finitos. Los proyectos se dividen en Proyectos de Inversión Real o Física, Proyectos de Desarrollo Humano y Proyectos Mixtos;
+LVI. Proyectos de inversión Pública: Conjunto organizado de insumos, actividades, recursos y/u obras tendientes a aumentar la formación bruta de capital fijo o el incremento de capital humano en un tiempo y con unos recursos finitos. Los proyectos se dividen en Proyectos de Inversión Real o Física, Proyectos de Desarrollo Humano y Proyectos Mixtos;
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
@@ -355,7 +369,7 @@ LXX. Unidad responsable: Para efectos presupuestales los Poderes Legislativo y J
 
 Los conceptos utilizados en la presente Ley que requieran ser precisados y que no se encuentren incluidos en este apartado, deberán incluirse en el Reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 3.
 
@@ -365,9 +379,11 @@ Las dependencias, entidades, órganos auxiliares del Gobernador del Estado y los
 
 Las disposiciones generales a que se refiere el párrafo anterior deberán publicarse en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 4.
 
-El gasto público estatal comprende las erogaciones por concepto de Gasto Corriente, Gasto de Capital, Amortización de la deuda y disminución de pasivos, que realizan los Ejecutores de gasto.
+El gasto público estatal comprende las erogaciones por concepto de Gasto Corriente, Gasto de Capital, Inversión Pública, Amortización de la deuda y disminución de pasivos, que realizan los Ejecutores de gasto.
 
 Los Ejecutores de gasto serán responsables de planear, programar, presupuestar sus actividades institucionales, así como establecer medidas para la administración interna, controlar y evaluar sus actividades.
 
@@ -377,9 +393,9 @@ El ejercicio del presupuesto, resguardo y custodia de la documentación justific
 
 Los Ejecutores de gasto están obligados a rendir cuentas por la administración y ejercicio de los recursos públicos en los términos de la presente Ley y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-Los Ejecutores de gasto están obligados a presentar a la Secretaría la documentación necesaria para el seguimiento programático de los recursos públicos.
+Los Ejecutores de gasto están obligados a presentar a la Secretaría la documentación e información necesaria para el seguimiento programático de los recursos públicos, desde su inicio hasta la conclusión o en atención a los requerimientos que efectué la propia Secretaría.
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2019)</small>
 
@@ -463,7 +479,9 @@ III. Con anterioridad al ejercicio o contratación de cualquier proyecto de inve
 
 Para los propósitos señalados en el párrafo anterior, el Gobierno Estatal deberá contar con un área encargada de evaluar el análisis socioeconómico, conforme a los requisitos que, en su caso, se determinen para tales efectos; así como de integrar y administrar el registro de proyectos de Inversión pública, dichas evaluaciones deberán ser públicas a través de la página oficial de Internet de la Secretaría;
 
-IV. En el caso de proyectos de inversión pública que rebase el equivalente a 500 millones de pesos, deberá realizar un análisis costo eficiencia, a nivel de prefactibilidad.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+IV. En el caso de proyectos de inversión pública que rebase el equivalente a 500 millones de pesos, deberá realizar una evaluación de análisis costo beneficio, a nivel de prefactibilidad.
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2019)</small>
 
@@ -535,9 +553,9 @@ V. Determinar los mecanismos de distribución, operación y administración;
 
 VI. Garantizar que los recursos se entreguen a la población objetivo;
 
-> <small>(REFORMADA, 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-VII. Remitir a la Secretaría el programa e informes trimestrales de avance y resultados alcanzados los cuales deberán hacerse pública (sic) a través de las páginas oficiales de Internet de la misma, y
+VII. Remitir a la Secretaría el programa e informes trimestrales de avance y resultados alcanzados los cuales deberán hacerse públicos a través de las páginas oficiales de Internet de la misma, y
 
 VIII. Las demás obligaciones contenidas en la presente Ley y su Reglamento, así como las señaladas por el Consejo Nacional de Armonización Contable.
 
@@ -654,6 +672,10 @@ A toda propuesta de aumento o creación de gasto que afecte el proyecto de Presu
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 Sin perjuicio de lo dispuesto en el artículo 50, no procederá pago alguno que no esté comprendido en el Presupuesto de Egresos o determinado por ley posterior; en este último caso primero se tendrá que aprobar la fuente de ingresos adicional para cubrir los nuevos gastos, en los términos del párrafo anterior, debiendo el Ejecutivo Estatal revelar en la cuenta pública y en los informes trimestrales de avance de gestión financiera que entregue al Congreso la fuente de ingresos con la que se haya pagado.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Todo proyecto de ley o decreto que sea sometido a votación del pleno de la legislatura local, deberá incluir en su dictamen una estimación sobre el impacto presupuestario del proyecto.
 
 Las comisiones correspondientes del Congreso del Estado, al elaborar los dictámenes respectivos, realizarán una valoración del impacto presupuestario de las iniciativas de ley o decreto, y solicitarán al Centro de Estudios Económicos y de Finanzas Públicos una opinión técnica sobre el impacto presupuestario antes de la emisión del proyecto correspondiente, y podrán solicitar opinión a la Secretaría sobre el proyecto correspondiente.
 
@@ -837,9 +859,11 @@ La Secretaría queda facultada para formular el anteproyecto de presupuesto de l
 
 En caso del incumplimiento descrito en el párrafo anterior se sancionará conforme a lo dispuesto en el artículo 88 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 28.
 
-Los Poderes Legislativo y los Órganos Autónomos enviarán a la Secretaría sus proyectos de presupuesto, a efecto de integrarlos al proyecto de Presupuesto de Egresos, a más tardar 10 días naturales antes de la fecha de presentación del mismo.
+Los Poderes Legislativo, Judicial y los Órganos Autónomos enviarán a la Secretaría sus proyectos de presupuesto, a efecto de integrarlos al proyecto de Presupuesto de Egresos, a más tardar 10 días naturales antes de la fecha de presentación del mismo.
 
 En la programación y presupuestación de sus respectivos programas, los Ejecutores de gasto a que se refiere el párrafo anterior deberán sujetarse a lo dispuesto en esta Ley y observar que su propuesta sea compatible con los criterios generales de política económica.
 
@@ -851,7 +875,9 @@ En el proyecto de Presupuesto de Egresos se deberán prever, en un capítulo esp
 
 En los proyectos de infraestructura pública de largo plazo incluidos en programas prioritarios a los que se refiere el artículo 59 fracción XXI Bis, de la Constitución Local, en que la Secretaría haya otorgado su autorización por considerar que el esquema de financiamiento correspondiente fue el más recomendable de acuerdo a las condiciones imperantes, a la estructura del proyecto y al flujo de recursos que genere, el servicio de las obligaciones derivadas de los financiamientos correspondientes se considerará preferente respecto de nuevos financiamientos, para ser incluido en los Presupuestos de Egresos de los años posteriores hasta la total terminación de los pagos relativos, con el objeto de que las entidades adquieran en propiedad bienes de infraestructura pública.
 
-Los proyectos a que se refiere el párrafo anterior deberán cubrir los requisitos que dispongan las disposiciones generales aplicables, así como los requisitos que establezca la Secretaría en materia de inversión. Dichos proyectos pueden ser considerados:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Los proyectos a que se refiere el párrafo anterior deberán cubrir los requisitos que establezcan las disposiciones generales aplicables, así como los requisitos que señale la Secretaría en materia de inversión. Dichos proyectos pueden ser considerados:
 
 I. Inversión directa, tratándose de proyectos en los que, por la naturaleza de los contratos, las entidades asumen una obligación de adquirir activos productivos construidos a su satisfacción; e
 
@@ -913,9 +939,13 @@ b) Se establezcan las necesidades de inversión a corto, mediano y largo plazo, 
 
 II. Presentar a la Secretaría los proyectos de inversión que tengan a su cargo, en donde se muestre que dichos proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. La Secretaría, en los términos que establezca el Reglamento, podrá solicitar a las dependencias y entidades que dicha evaluación esté dictaminada por un experto independiente La evaluación no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria e inmediata de desastres naturales;
 
-III. Registrar cada proyecto de inversión en la cartera que integre la Secretaría, para lo cual se deberá presentar la evaluación costo-beneficio correspondiente. Las dependencias y entidades deberán mantener actualizada la información contenida en la cartera. Sólo los proyectos de inversión registrados en la cartera se podrán incluir en el proyecto de Presupuesto de Egresos. La Secretaría podrá negar o cancelar el registro si un proyecto de inversión no cumple con las disposiciones aplicables, y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-IV. Los proyectos registrados en la cartera de inversión serán analizados por la Secretaría, la que determinará la prelación para su inclusión en el proyecto de Presupuesto de Egresos, para establecer el orden de proyectos de inversión en su conjunto y maximizar el impacto que puedan tener para incrementar el beneficio social, observando principalmente los criterios siguientes:
+III. Registrar cada proyecto de inversión en el Banco de Proyectos de Inversión Pública que integre la Secretaría, para lo cual se deberá presentar la evaluación costo-beneficio correspondiente. Las dependencias y entidades deberán mantener actualizada la información contenida en el Banco de Proyectos de Inversión Pública. Sólo los proyectos de inversión registrados en el Banco de Proyectos de Inversión Pública se podrán incluir en el proyecto de Presupuesto de Egresos. La Secretaría podrá negar o cancelar el registro si un proyecto de inversión no cumple con las disposiciones aplicables, y
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+IV. Los proyectos registrados en el Banco de Proyectos de Inversión Pública serán analizados por la Secretaría, la que determinará la prelación para su inclusión en el proyecto de Presupuesto de Egresos, para establecer el orden de proyectos de inversión en su conjunto y maximizar el impacto que puedan tener para incrementar el beneficio social, observando principalmente los criterios siguientes:
 
 a) Rentabilidad socioeconómica;
 
@@ -929,11 +959,11 @@ d) Concurrencia con otros proyectos de inversión.
 
 V. Todas las acciones y/o proyectos registrados en el Banco de Proyectos de Inversión Pública, deberán contar con su respectiva solicitud de autorización de recursos, fundada y motivada por parte de los Ejecutores de gasto del Estado.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 31 Bis.
 
-Una vez autorizados los programas y los presupuestos respectivos para Proyectos de inversión, la responsabilidad de los mismos recaerá sobre los Ejecutores de gasto encargados de la realización de los mismos, quiénes serán responsables de su correcta aplicación conforme lo establecido en las disposiciones aplicables y la presente Ley.
+Una vez autorizados los programas y los presupuestos respectivos para Proyectos de inversión, la responsabilidad de los mismos recaerá sobre los Ejecutores de gasto encargados de la realización de los mismos, quiénes serán responsables de su correcta aplicación, ejecución y comprobación conforme lo establecido en las disposiciones aplicables y la presente Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1053,7 +1083,7 @@ a) La iniciativa de Ley de Ingresos y, en su caso, las iniciativas de reformas l
 
 b) El proyecto de Presupuesto de Egresos;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 III. La Ley de Ingresos y, en su caso, las iniciativas relacionadas con las fuentes de ingresos serán aprobadas por la Legislatura a más tardar el 30 de noviembre;
 
@@ -1145,7 +1175,9 @@ Con base en lo anterior, la Contraloría establecerá los controles presupuestar
 
 Las dependencias y entidades deberán publicar un extracto de sus compromisos de resultados y trimestralmente los resultados de desempeño en sus páginas electrónicas de internet.
 
-Los Ejecutores de gasto deberán coordinarse para contar con sistemas de control presupuestario que promuevan la programación, presupuestación, ejecución, registro e información del gasto de conformidad con los criterios establecidos en el párrafo segundo del artículo 1 de esta Ley, así como que contribuyan al cumplimiento de los objetivos y metas aprobados en el Presupuesto de Egresos.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Los Ejecutores de gasto deberán contar con sistemas de control presupuestario que promuevan la programación, presupuestación, ejecución, registro e información del gasto de conformidad con los criterios establecidos en el párrafo segundo del artículo 1 de esta Ley, así como que contribuyan al cumplimiento de los objetivos y metas aprobados en el Presupuesto de Egresos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1166,6 +1198,10 @@ Los Poderes Legislativo, Judicial y los Órganos Autónomos establecerán sistem
 ###### Artículo 41.
 
 Las dependencias y entidades podrán solicitar a la Secretaría adelantos de su presupuesto aprobado en el Presupuesto de Egresos, que les permitan atender contingencias o, en su caso, gastos urgentes de operación, a través de acuerdos de ministración, invariablemente mediante la expedición de una cuenta por liquidar certificada, excepcionalmente la Secretaría podrá autorizar recursos en caso de contingencias cuando el presupuesto disponible del Ejecutor de gasto no le permita atenderlas.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Los compromisos y obligaciones financieras contraídos por los Ejecutores de gasto a nombre del Gobierno del Estado que no cuente con disponibilidad presupuestaria será responsabilidad exclusiva de los mismos.
 
 El Reglamento establecerá los plazos para regularizar los acuerdos de ministración y los requisitos para prorrogarlos, sin exceder del día 15 de diciembre de cada ejercicio fiscal, salvo en los casos de excepción, los cuales no podrán rebasar el último día hábil de enero del ejercicio fiscal siguiente.
 
@@ -1277,9 +1313,9 @@ El calendario de presupuesto deberá ponerse a disposición de la ciudadanía en
 
 La Secretaría a través de la Tesorería efectuará los pagos correspondientes a los proveedores, contratistas y prestadores de servicio del Poder Ejecutivo, utilizando preferentemente la red bancaria.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-La entrega de participaciones, aportaciones, asignaciones, reasignaciones, transferencias y subsidios a favor de los Municipios del Estado, se realizarán mediante transferencia bancaria a las cuentas bancarias productivas específicas que los Municipios comuniquen a la Secretaría mediante acta de cabildo aprobada por mayoría de sus integrantes, donde conste la institución financiera, clave interbancaria y el número de referencia, además de señalar la autorización de los concejales que suscribirán a nombre del Municipio los convenios que correspondan.
+La entrega de participaciones, aportaciones, asignaciones, reasignaciones, transferencias y subsidios a favor de los Municipios del Estado, se realizarán mediante transferencia bancaria a las cuentas bancarias productivas específicas y exclusivas que los Municipios comuniquen a la Secretaría mediante acta de cabildo aprobada por mayoría de sus integrantes, donde conste la institución financiera, clave interbancaria y el número de referencia, además de señalar la autorización de los concejales que suscribirán a nombre del Municipio los convenios que correspondan.
 
 Los Poderes Legislativo, Judicial y los Órganos Autónomos, recibirán y manejarán sus presupuestos así como efectuaran sus pagos a través de sus propias tesorerías o equivalentes.
 
@@ -1287,9 +1323,9 @@ La Secretaría por conducto de la Tesorería, realizará los trámites y suscrip
 
 Por lo que deberá informar trimestralmente la relación de cuentas bancarias productivas específicas en las cuales se depositaron los recursos federales transferidos en los informes trimestrales y Cuenta Pública.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-Los Ejecutores de gasto deberán aperturar una cuenta bancaria específica para cada uno de los recursos federales que se les transfiera a fin de identificarlos plenamente, la cual deberá ser tramitada al día siguiente de la suscripción del documento que de origen al recurso federal, esto en aquellos casos en los que no sea necesario contar previamente con la apertura de la cuenta. Para lo cual deberán observar el procedimiento previsto en el Reglamento de esta Ley.
+Los Ejecutores de gasto deberán aperturar una cuenta bancaria específica para cada uno de los recursos federales y estatales que se les transfiera a fin de identificarlos plenamente, la cual deberá ser tramitada al día siguiente de la suscripción del documento que de origen al recurso federal, esto en aquellos casos en los que no sea necesario contar previamente con la apertura de la cuenta. Para lo cual deberán observar el procedimiento previsto en el Reglamento de esta Ley.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1481,7 +1517,9 @@ Los Ejecutores de gasto, en el ejercicio de sus respectivos presupuestos, deber�
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-El Ejecutivo Estatal, por conducto de la Secretaría, Administración y Contraloría, establecerá un programa de mediano plazo para promover la eficiencia y eficacia en la gestión pública de la Administración Pública Estatal, a través de acciones que modernicen y mejoren la prestación de los servicios públicos, promuevan la productividad en el desempeño de las funciones de las dependencias y entidades y reduzcan gastos de operación. Dichas acciones deberán orientarse a lograr mejoras continuas de mediano plazo que permitan, como mínimo, medir con base anual su progreso.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+El Ejecutivo Estatal, por conducto de la Secretaría, Administración y Contraloría, de acuerdo con la información de desempeño reportada, establecerá un programa de mediano plazo para promover la eficiencia y eficacia en la gestión pública de la Administración Pública Estatal, a través de acciones que modernicen y mejoren la prestación de los servicios públicos, promuevan la productividad en el desempeño de las funciones de las dependencias y entidades, y reduzcan gastos de operación. Dichas acciones deberán orientarse a lograr mejoras continuas de mediano plazo que permitan, como mínimo, medir con base anual su progreso.
 
 Las dependencias y entidades deberán cumplir con los compromisos e indicadores del desempeño de las medidas que se establezcan en el programa a que se refiere el párrafo anterior. Dichos compromisos deberán formalizarse por los titulares de las dependencias y entidades, y el avance en su cumplimiento se reportará en los informes trimestrales.
 
@@ -1633,7 +1671,9 @@ Cuando algún servidor público fallezca y tuviere cuando menos una antigüedad 
 
 El Ejecutivo Estatal, por conducto de la Secretaría, autorizará las transferencias que con cargo a los presupuestos de las Entidades y en su caso de las Dependencias, se aprueben en el Presupuesto de Egresos de la Federación.
 
-La recepción de los recursos federales por parte de las Entidades conlleva la obligación de expedir a favor del Gobierno del Estado comprobante fiscal digital por el monto total transferido.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+La recepción de los recursos federales por parte de las Entidades conlleva la obligación de expedir a favor del Gobierno del Estado comprobante fiscal digital por el monto total transferido o de acuerdo con el calendario de ministraciones establecido.
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2019)</small>
 
@@ -1765,11 +1805,11 @@ Todos los programas y proyectos en los que sea susceptible identificar geográfi
 
 ### CAPÍTULO PRIMERO. DE LA INFORMACIÓN Y TRANSPARENCIA
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 80.
 
-Los Ejecutores de gasto, en el manejo de los recursos públicos estatales y de origen federal, deberán observar las disposiciones contenidas en la Ley de Coordinación Fiscal, Ley Federal de Transparencia y Acceso a la Información Pública, Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, reglas de operación de los programas federales y demás disposiciones generales aplicables.
+Los Ejecutores de gasto, en el manejo de los recursos públicos estatales o de origen federal, deberán presentar la información financiera en los informes periódicos y en su respectiva cuenta pública, observando las disposiciones contenidas en la Ley General de Contabilidad Gubernamental, la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley de Coordinación Fiscal, el título tercero bis de la Ley General de Salud, la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, reglas de operación de los programas federales y demás disposiciones generales aplicables.
 
 ###### Artículo 81.
 
@@ -1779,7 +1819,9 @@ Asimismo, incluirá los principales indicadores sobre los resultados y avances d
 
 Los Ejecutores de gasto serán responsables de remitir en los calendarios que fije la Secretaría, la información que corresponda para la debida integración del Informe de Avance de Gestión, cuya metodología permitirá hacer comparaciones consistentes durante el ejercicio fiscal y entre varios ejercicios fiscales.
 
-Los informes trimestrales deberá (sic) contener como mínimo:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Los informes trimestrales deberán contener como mínimo:
 
 I. La situación económica, incluyendo el análisis sobre la producción y el empleo, precios y salarios y la evaluación del sector financiero y del sector externo;
 
@@ -1817,9 +1859,11 @@ La Secretaría presentará los datos estadísticos y la información que tenga d
 
 La información que la Secretaría proporcione al Congreso del Estado deberá ser completa y oportuna. En caso de incumplimiento procederán las responsabilidades que correspondan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 82.
 
-La Secretaría informará sobre la cartera de programas y proyectos de inversión, así como la relativa a los análisis costo y beneficio, a que se refiere el artículo 36 de esta Ley.
+La Secretaría informará sobre los programas y proyectos de inversión registrados en el Banco de Proyectos de Inversión Pública, así como la relativa a los análisis costo y beneficio, a que se refiere el artículo 36 de esta Ley.
 
 Información que se pondrá a disposición del público en general a través de medios electrónicos, con excepción de aquélla que, por su naturaleza, se considere como reservada. En todo caso, se observarán las disposiciones contenidas en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca.
 
@@ -1909,11 +1953,11 @@ Los registros contables se llevarán con base acumulativa en apego estricto de l
 
 Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la presente Ley, su Reglamento y demás disposiciones generales en la materia, serán sancionados de conformidad con lo previsto en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca y demás disposiciones aplicables en términos del Título Séptimo de la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 87.
 
-El Órgano de Fiscalización ejercerá la competencia que, conforme a (sic) Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca y las demás disposiciones aplicables, le correspondan en materia de responsabilidades.
+El Órgano Superior de Fiscalización del Estado de Oaxaca ejercerá la competencia que, conforme a la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca y las demás disposiciones aplicables, le correspondan en materia de responsabilidades.
 
 ###### Artículo 88.
 
@@ -1941,9 +1985,9 @@ X. Realicen acciones u omisiones que deliberadamente generen subejercicios por u
 
 XI. Cuando por un acto u omisión se evite el reintegro de recursos no ejercidos a la Secretaría o en su caso a la Tesorería de la Federación en los plazos señalados por esta Ley, Ley Federal de Presupuesto y Responsabilidad Hacendaría y su Reglamento y las demás disposiciones generales aplicables;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-XII. Infrinjan las disposiciones generales que emitan la Secretaría, (sic) Administración, la Contraloría y el Órgano de Fiscalización, en el ámbito de sus respectivas competencias.
+XII. Infrinjan las disposiciones generales que emitan la Secretaría, Administración, la Contraloría y el Órgano Superior de Fiscalización del Estado de Oaxaca, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 89.
 
@@ -1965,9 +2009,11 @@ Las responsabilidades se fincarán en primer término a quienes directamente hay
 
 Serán responsables solidarios con los servidores públicos respectivos, las personas físicas o morales en los casos en que hayan participado y originen una responsabilidad.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 90.
 
-Las sanciones e indemnizaciones que se determinen conforme a las disposiciones de esta Ley tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida, sujetándose al procedimiento de ejecución que establece el Código Fiscal para el Estado de Oaxaca.
+Las sanciones e indemnizaciones que se determinen por incumplimiento a las disposiciones de esta Ley tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida, sujetándose al procedimiento de ejecución que establece el Código Fiscal para el Estado de Oaxaca.
 
 ###### Artículo 91.
 
@@ -2078,3 +2124,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 885.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinte, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga al presente Decreto, aun cuando no estén expresamente derogadas.
