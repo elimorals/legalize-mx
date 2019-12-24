@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-deuda-publica-para-el-estado-de-oaxaca-125270"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-30"
-last_updated: "2018-12-29"
+last_updated: "2019-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE DEUDA PUBLICA PARA EL ESTADO DE OAXACA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE DEUDA PÚBLICA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 2017.
 
@@ -61,7 +63,7 @@ I. Afectación: La aportación, cesión o destino de un derecho o ingreso del En
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-II. Asociaciones Público–Privadas: Las previstas en la Ley de Asociaciones Público Privadas o en (sic) ley Estatal de Asociaciones Público Privadas incluyendo los proyectos de prestación de servicios.
+II. Asociaciones Público-Privadas: Las previstas en la Ley de Asociaciones Público Privadas o en (sic) ley Estatal de Asociaciones Público Privadas incluyendo los proyectos de prestación de servicios.
 
 III. Congreso: Honorable Congreso del Estado Libre y Soberano de Oaxaca;
 
@@ -89,101 +91,105 @@ XI. Ejecutivo del Estado: Titular del Poder Ejecutivo del Estado Libre y Soberan
 
 XII. Emergencia: Situaciones fortuitas y de fuerza mayor que requieran de atención inmediata, ya que pueden causar importantes daños a gran parte de una comunidad o área, comprometiendo la seguridad e integridad de su población;
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+XIII. Entes Públicos: Los poderes Ejecutivo, Legislativo y Judicial, los organismos autónomos del Estado; los municipios; los organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos del Estado y los Municipios, así como cualquier otro ente sobre el que el Estado y los Municipios tengan control sobre sus decisiones o acciones;
+
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XIII. Estado: Estado Libre y Soberano de Oaxaca;
+XIV. Estado: Estado Libre y Soberano de Oaxaca;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XIV. Financiamiento: Toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los sujetos obligados, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas independientemente de la forma, mediante la que se instrumente;
+XV. Financiamiento: Toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los sujetos obligados, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas independientemente de la forma, mediante la que se instrumente;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XV. Garantía de pago: Mecanismo que respalda el pago de un Financiamiento u Obligación contratada;
+XVI. Garantía de pago: Mecanismo que respalda el pago de un Financiamiento u Obligación contratada;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XVI. Financiamiento Neto: Diferencia entre las disposiciones realizadas de un Financiamiento y las amortizaciones efectuadas de la deuda pública;
+XVII. Financiamiento Neto: Diferencia entre las disposiciones realizadas de un Financiamiento y las amortizaciones efectuadas de la deuda pública;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XVII. Fuente de pago: Recursos utilizados por los sujetos obligados para el pago de cualquier Financiamiento u Obligación;
+XVIII. Fuente de pago: Recursos utilizados por los sujetos obligados para el pago de cualquier Financiamiento u Obligación;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XVIII. Ingresos totales: Totalidad de los Ingresos de libre disposición, las transferencias federales etiquetadas y el financiamientoneto (sic);
+XIX. Ingresos totales: Totalidad de los Ingresos de libre disposición, las transferencias federales etiquetadas y el financiamientoneto (sic);
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XIX. Ingresos excedentes: Recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos;
+XX. Ingresos excedentes: Recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XX. Ingresos de libre disposición: Ingresos locales y las participaciones federales, así como los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico;
+XXI. Ingresos de libre disposición: Ingresos locales y las participaciones federales, así como los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XXI. Ingresos locales: Aquéllos percibidos por el Estado y los Municipios por impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos, incluidos los recibidos por venta de bienes y prestación de servicios y los demás previstos en términos de las disposiciones aplicables;
+XXII. Ingresos locales: Aquéllos percibidos por el Estado y los Municipios por impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos, incluidos los recibidos por venta de bienes y prestación de servicios y los demás previstos en términos de las disposiciones aplicables;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XXII. Instrumentos Derivados: Valores, contratos o cualquier otro acto jurídico cuya valuación esté referida a uno o más activos, valores, tasas o índices subyacentes;
+XXIII. Instrumentos Derivados: Valores, contratos o cualquier otro acto jurídico cuya valuación esté referida a uno o más activos, valores, tasas o índices subyacentes;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XXIII. Inversión pública productiva: Toda erogación por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad especifica sea; a) la construcción, mejoramiento, rehabilitación y/o reposición de bienes de dominio público; b) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración; mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable, c) la adquisición de bines (sic) para la prestación de un servicio público especifico, comprendidos de manera limitativa en los conceptos de vehículos de trasporte (sic) público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable;
+XXIV. Inversión pública productiva: Toda erogación por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad especifica sea; a) la construcción, mejoramiento, rehabilitación y/o reposición de bienes de dominio público; b) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración; mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable, c) la adquisición de bines (sic) para la prestación de un servicio público especifico, comprendidos de manera limitativa en los conceptos de vehículos de trasporte (sic) público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XXIV. Ley: Ley de Deuda Pública para el Estado de Oaxaca;
+XXV. Ley: Ley de Deuda Pública para el Estado de Oaxaca;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XXV. Ley de Disciplina Financiera: Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+XXVI. Ley de Disciplina Financiera: Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XXVI. Ley General: Ley General de Contabilidad Gubernamental;
+XXVII. Ley General: Ley General de Contabilidad Gubernamental;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XXVII. Municipios: Ayuntamientos del Estado Libre y soberano de Oaxaca;
+XXVIII. Municipios: Ayuntamientos del Estado Libre y soberano de Oaxaca;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XXVIII. Obligaciones: Los compromisos de pago a cargo de los Sujetos Obligados, derivados de los Financiamientos y de las Asociaciones Público-Privadas;
+XXIX. Obligaciones: Los compromisos de pago a cargo de los Sujetos Obligados, derivados de los Financiamientos y de las Asociaciones Público-Privadas;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XXIX. Obligaciones a corto plazo: Cualquier Obligación contratada con Instituciones financieras a un plazo menor o igual a un año;
+XXX. Obligaciones a corto plazo: Cualquier Obligación contratada con Instituciones financieras a un plazo menor o igual a un año;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XXX. Presupuesto de Egresos: Presupuesto de Egresos del Estado o Municipio, aprobado por el Congreso o el ayuntamiento, respectivamente;
+XXXI. Presupuesto de Egresos: Presupuesto de Egresos del Estado o Municipio, aprobado por el Congreso o el ayuntamiento, respectivamente;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XXXI. Reestructuración: Celebración de actos jurídicos que tengan por objeto modificar las condiciones originalmente pactadas en un Financiamiento;
+XXXII. Reestructuración: Celebración de actos jurídicos que tengan por objeto modificar las condiciones originalmente pactadas en un Financiamiento;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XXXII. Refinanciamiento: Contratación de uno o varios Financiamientos cuyos recursos se destinen a liquidar total o parcialmente uno o más Financiamientos previamente contratados;
+XXXIII. Refinanciamiento: Contratación de uno o varios Financiamientos cuyos recursos se destinen a liquidar total o parcialmente uno o más Financiamientos previamente contratados;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XXXIII. Registro Estatal: Registro Estatal de Financiamientos y Obligaciones de Oaxaca a cargo de la Secretaría de Finanzas del Poder Ejecutivo del Estado;
+XXXIV. Registro Estatal: Registro Estatal de Financiamientos y Obligaciones de Oaxaca a cargo de la Secretaría de Finanzas del Poder Ejecutivo del Estado;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XXXIV. Registro Público Único: Registro para la inscripción de Financiamiento y Obligaciones a que se refiere la Ley de Disciplina Financiera;
+XXXV. Registro Público Único: Registro para la inscripción de Financiamiento y Obligaciones a que se refiere la Ley de Disciplina Financiera;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XXXV. Secretaría: Secretaría de Finanzas del Poder Ejecutivo, y
+XXXVI. Secretaría: Secretaría de Finanzas del Poder Ejecutivo, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-XXXVI. Sujetos Obligados: Estado y Municipios.
+XXXVII. Sujetos Obligados: Estado y sus Entes Públicos.
 
 ###### Artículo 3.
 
@@ -235,7 +241,9 @@ IV. Los proyectos de infraestructura pública de largo plazo;
 
 V. La suscripción, emisión o colocación de títulos de crédito, bonos, valores o cualquier otro documento pagadero a plazo;
 
-VI. El otorgamiento de cualquier garantía o aval;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+VI. El otorgamiento de cualquier garantía o aval; y
 
 VII. En el Presupuesto de Egresos del Estado los montos de amortizaciones de los Financiamientos u obligaciones; y
 
@@ -273,11 +281,7 @@ Dentro de los 15 días naturales siguientes a la celebración del Refinanciamien
 
 ###### Artículo 9.
 
-Tratándose del último año de la administración, los Sujetos Obligados podrán contratar Financiamientos u Obligaciones, siempre que:
-
-I. El plazo de pago del monto principal del financiamiento u obligación no exceda de 180 días naturales contados a partir de la fecha de la contratación; y
-
-II. El plazo de pago no exceda el periodo constitucional de la administración que contrató dicho Financiamiento u Obligación, ni se suscriba dentro de los 90 días naturales anteriores a la conclusión de dicho periodo constitucional.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2019)
 
 ###### Artículo 10.
 
@@ -307,7 +311,7 @@ III. Deberán ser quirografarias; y
 
 IV. Ser inscritas en el Registro Estatal y en el Registro Público Único, de conformidad con la legislación aplicable en la materia.
 
-Una vez alcanzado el porcentaje a que se refiere la fracción I del presente artículo, no se podrá contratar una obligación similar sino hasta los treinta días posteriores a su liquidación.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 Tratándose del Ejecutivo del Estado, dicha contratación se realizará por conducto de la Secretaría.
 
@@ -337,9 +341,9 @@ V. Presentar anualmente al Congreso en el Proyecto de Presupuesto de Egresos del
 
 VI. Comunicar al Congreso la situación de la Deuda Pública en los informes a que se refiere la Ley General, Ley de Disciplina Financiera y los previstos en las demás disposiciones aplicables, así como en la Cuenta Pública del Estado;
 
-VII. Dictaminar la capacidad de endeudamiento de los Municipios a petición del Congreso; y
+VII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2019)
 
-VIII. Realizar las retenciones de los recursos para el pago de la deuda contraída por cualquier Municipio, autorizadas por el Congreso y de conformidad a lo establecido en esta Ley.
+VIII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2019)
 
 ###### Artículo 15.
 
@@ -349,7 +353,9 @@ I. Formular el capítulo de Financiamientos u Obligaciones en el proyecto de Ley
 
 II. Vigilar, que se incluyan en el proyecto de Presupuesto de Egresos, los montos necesarios para satisfacer puntualmente los compromisos derivados de la deuda contraída en términos de esta Ley y demás disposiciones aplicables;
 
-III. Efectuar los pagos derivados de compromisos provenientes de proyectos de infraestructura pública de largo plazo, intereses constituidos por allegarse de recursos de los Fondos de Desastres Naturales y Apoyo para la Infraestructura y Seguridad y en general todas las operaciones de financiamiento que comprendan obligaciones a plazo;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+III. Efectuar los pagos del servicio de la deuda pública contraída;
 
 IV. Administrar la Deuda Pública;
 
@@ -367,7 +373,7 @@ X. Notificar a la Secretaría de Hacienda y Crédito Público y a cualquier otra
 
 a) Dicha notificación deberá contener instrucción que señale términos y condiciones aplicables al pago de los ingresos provenientes de las participaciones o aportaciones federales de que se trate, siempre que se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes para la modificación de dicha instrucción y no se afecten los derechos de los acreedores.
 
-b) Cualquier modificación notificada por el Ejecutivo del Estado a la Secretaría de Hacienda y Crédito Público, deberá anotarse en los registros presupuestales y contables;
+b) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2019)
 
 XI. A petición del Congreso, certificar que la capacidad de pago de los municipios sea suficiente para cubrir puntualmente los compromisos que se contraigan. Para tal efecto, deberá evaluar y supervisar el cumplimiento de las disposiciones en materia de Deuda Pública y la adecuada estructura financiera de los mismos;
 
@@ -403,7 +409,9 @@ VI. Celebrar y suscribir los contratos y documentos que sean necesarios para est
 
 VII. Reestructurar o refinanciar la deuda contraída directamente;
 
-VIII. Proporcionar la información que les solicite el Ejecutivo del Estado y el Congreso sobre la situación que guarda la Deuda Pública Municipal para efecto de la certificación de su capacidad de endeudamiento;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+VIII. Proporcionar la información que les solicite la Secretaría y el Congreso sobre la información financiera y la situación que guarda la Deuda Pública Municipal para efecto de la certificación de su capacidad de pago;
 
 IX. Proporcionar la información para el sistema de alertas, conforme lo establece la Ley de Disciplina Financiera;
 
@@ -419,9 +427,11 @@ XIV. Las atribuciones a que se refiere este artículo serán ejercidas, en lo co
 
 ### CAPÍTULO TERCERO. De la Contratación de Deuda Pública y sus Derivados
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 17.
 
-Los Sujetos Obligados, únicamente podrán celebrar financiamientos, cuando los recursos obtenidos de las mismas se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, en términos de lo establecido en la Constitución Política del Estado Libre y Soberano de Oaxaca, en la Ley de Disciplina Financiera y esta Ley.
+Los Sujetos Obligados únicamente podrán celebrar financiamientos, cuando los recursos obtenidos de las mismas se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, en términos de lo establecido en la Ley de Disciplina Financiera y esta Ley.
 
 En ningún caso podrá destinarse Financiamientos u Obligaciones para cubrir gasto corriente.
 
@@ -433,15 +443,17 @@ Una vez celebrados los instrumentos jurídicos relativos, a más tardar 10 días
 
 La contratación de Instrumentos Derivados no impactará en el cálculo de los Financiamientos y Obligaciones, aprobados por el Congreso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 19.
 
-La contratación de Financiamientos y la conformación de Obligaciones a cargo de los Municipios deberán ser previamente autorizadas por sus respectivos Ayuntamientos en las iniciativas de leyes de ingresos que deban ser presentadas al Congreso para su aprobación anual.
+La contratación de Financiamientos y la conformación de Obligaciones a cargo de los Municipios deberán ser previamente autorizadas por sus respectivos Ayuntamientos en las iniciativas de leyes de Ingresos que deban ser presentadas al Congreso para su aprobación anual, no se contempla este requisito para la contratación de Obligaciones a corto plazo.
 
 Los Municipios podrán presentar al Congreso en cualquier tiempo iniciativas de Decretos para la autorización y aprobación de Financiamientos o la contratación de Obligaciones siempre que se cumpla con lo previsto en la presente Ley y en la Ley de Disciplina Financiera.
 
 ###### Artículo 20.
 
-Los Sujetos Obligados sólo podrán contraer Financiamientos u Obligaciones cuando se destinen a inversiones públicas productivas y a Refinanciamiento o Reestructura, incluyendo los gastos y costos relacionados con la contratación de dichos Financiamientos y Obligaciones, así como las reservas que deban constituirse en relación con las mismas.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2019)
 
 ###### Artículo 21.
 
@@ -577,9 +589,11 @@ Los Sujetos Obligados, para efectos de llevar a cabo los trámites a que se refi
 
 A falta de disposición expresa en esta Ley, en el caso del uso de la Firma Electrónica Avanzada se aplicará supletoriamente la Ley de Firma Electrónica Avanzada del Estado de Oaxaca.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 37.
 
-El Registro Estatal, deberá ser administrado a través de un Sistema electrónico a cargo de la Secretaría que permite la recepción, trámite y resolución de las solicitudes de inscripción, modificación, cancelación y cualquier otro trámite relacionado con el Registro Estatal, así como de la recepción de la información de los Financiamientos y Obligaciones del Estado y de los Municipios.
+El Registro Estatal, deberá ser administrado a través de los medios que determine la Secretaría que permita la recepción, trámite y resolución de las solicitudes de inscripción, modificación, cancelación y cualquier otro trámite relacionado con el Registro Estatal, así como de la recepción de la información de los Financiamientos y Obligaciones del Estado y de los Municipios.
 
 ###### Artículo 38.
 
@@ -670,3 +684,13 @@ PRIMERO.- Publíquese en (sic) el presente Decreto en el Periódico Oficial del 
 SEGUNDO.- El presente Decreto entrará en vigor el uno de enero de dos mil diecinueve, previa publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 882.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinte, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga (sic) al presente Decreto, aun cuando no estén expresamente derogadas.
