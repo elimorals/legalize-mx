@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-etica-del-instituto-del-fondo-nacional-de-la-122220"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-28"
-last_updated: "2017-06-28"
+last_updated: "2019-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122220&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-12-09"
 ---
 # CODIGO DE ETICA DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE ÉTICA DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 24 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2019 (ABROGADO).
 
 Código publicado en la Cuarta Sección al Número 21 del Diario Oficial de la Federación, el miércoles 28 de junio de 2017.
 
@@ -210,3 +212,29 @@ Nota
 Para el Distintivo Empresa Incluyente "Gilberto Rincón Gallardo" se considera como grupos en situación de vulnerabilidad a las personas con discapacidad, personas adultas mayores, personas con VIH, personas de la comunidad Lésbico, Gay, Bisexual, Transexual, Transgénero, Travesti e Intersexual (LGBTTTI), personas liberadas, mujeres y hombres jefes de familia con hijos con discapacidad o al cuidado de personas adultas mayores enfermas, personas afromexicanas y grupos indígenas.
 
 Este Código fue aprobado por Acuerdo número 1954, en la sesión ordinaria número 113 de la Asamblea General del Infonavit celebrada el nueve de diciembre de dos mil dieciséis.- El Secretario General y Jurídico, Omar Cedillo Villavicencio.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES”.]
+
+PRIMERO. Se instruye al Director General la expedición del presente Código de Ética y su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Código de Ética entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO. Se abroga el Código de Ética del Instituto del Fondo Nacional de la Vivienda para los Trabajadores publicado en el Diario Oficial de la Federación el día 28 de junio de 2017, el cual contiene las adecuaciones aprobadas por la Asamblea General del Instituto, mediante acuerdo número 1954, adoptado en su sesión ordinaria número 113, celebrada el día 9 de diciembre de 2016.
+
+CUARTO. Los procedimientos administrativos que se encuentren en trámite a la entrada en vigor del presente Código de Ética se sustanciarán conforme a las disposiciones vigentes al momento de su inicio.
+
+QUINTO. El presente Código de Ética será aplicable para las conductas que inicien, después de su entrada en vigor, o aún iniciadas, continúen después de la entrada en vigor de este instrumento.
+
+SEXTO. La Comisión de Vigilancia pondrá a consideración del Consejo de Administración, la aprobación del Protocolo de atención a casos de hostigamiento y acoso sexual en un plazo no mayor a 90 días naturales después de aprobado el presente Código de Ética. Una vez que se apruebe dicho Protocolo, la Comisión de Vigilancia pondrá a consideración del Consejo de Administración la aprobación del manual de aplicación y disposiciones que implementen de manera eficiente la protección en contra de estas conductas y la sanción de sus violaciones, en un plazo no mayor a 90 días naturales.
+
+SÉPTIMO. Dentro de un plazo no mayor a 180 días naturales después de aprobado el Código de Ética, la Comisión de Vigilancia deberá actualizar sus reglas de operación y las bases de funcionamiento de la Subcomisión Tripartita de Ética, las cuales se presentarán a la Asamblea General para su consideración y en su caso, aprobación.
+
+Dentro de un plazo no mayor a 180 días naturales después de aprobado el presente Código de Ética, la Comisión de Vigilancia propondrá al Consejo de Administración las políticas en materia de “Tramitación de Denuncias y Aplicación al Programa de Beneficio”.
+
+En tanto se realicen dichas reformas, las atribuciones conferidas a la Subcomisión Tripartita de Ética serán llevadas a cabo por la Comisión de Vigilancia.
+
+OCTAVO. Dentro de los 120 días naturales posteriores a la aprobación del presente Código de Ética se ajustará la Guía de Responsabilidad Social de los Proveedores del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, así como cualquier otra disposición interna de la Administración que requiera actualizarse derivado del contenido del presente Código.
