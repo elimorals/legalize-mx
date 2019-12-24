@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-acceso-a-la-informacion-publica-y-114448"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-06"
-last_updated: "2019-08-05"
+last_updated: "2019-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114448&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2016-05-06"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2019.
 
 Ley publicada en el No. Bis de la Gaceta Oficial de la Ciudad de México, el viernes 6 de mayo de 2016.
 
@@ -1632,9 +1632,11 @@ La información pública de oficio deberá actualizarse por lo menos cada tres m
 
 El Instituto, de oficio o a petición de los particulares, verificará el cumplimiento de las disposiciones previstas en este Título. Las denuncias presentadas por los particulares podrán realizarse en cualquier momento, de conformidad con el procedimiento señalado en la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 118.
 
-La página de inicio de los portales de Internet de los sujetos obligados tendrá un vínculo de acceso directo al sitio donde se encuentra la información pública a la que se refiere este Título, el cual deberá contar con un buscador.
+La página de inicio de los portales de Internet de los sujetos obligados tendrá un vínculo de acceso directo al sitio donde se encuentra la información pública a la que se refiere este Título, el cual deberá contar con un buscador, así como con las características de usabilidad, uso intuitivo, y diseño adaptativo a cualquier tipo de plataforma de consulta.
 
 La información de obligaciones de transparencia deberá publicarse con perspectiva de género y discapacidad, cuando así corresponda a su naturaleza.
 
@@ -3819,3 +3821,11 @@ G.O. 5 DE AGOSTO DE 2019.
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 118 DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO”]
+
+PRIMERO.- Publíquese en el Diario Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Ciudad de México.
