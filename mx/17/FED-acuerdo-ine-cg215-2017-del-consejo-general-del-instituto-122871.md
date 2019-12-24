@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg215-2017-del-consejo-general-del-instituto-122871
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-08-16"
-last_updated: "2017-08-16"
+last_updated: "2019-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122871&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-06-28"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE APRUEBA LA REESTRUCTURACIÓN DEL ÓRGANO INTERNO DE CONTROL CON MOTIVO DE LAS REFORMAS A LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES Y LA PROMULGACIÓN DE LAS LEYES GENERALES DEL SISTEMA NACIONAL ANTICORRUPCIÓN, QUE INCIDEN EN SU FUNCIONAMIENTO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2019.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el miércoles 16 de agosto de 2017.
 
@@ -60,3 +60,31 @@ El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbric
 Órgano Interno de Control
 
 > <small>[N. DE E. VÉASE CUADRO RESUMEN DE PLAZAS EN LA TERCERA SECCIÓN DEL D.O.F. 16 DE AGOSTO DE 2017, PÁGINAS 46 Y 47.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA ACTUALIZACIÓN DE LA ESTRUCTURA DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL".]
+
+Primero (SIC).- El titular del Órgano Interno de Control del Instituto Nacional Electoral, dispondrá de un plazo de sesenta días, para expedir, en ejercicio de sus facultades, las modificaciones al Estatuto Orgánico y la actualización de la normativa interna para la organización y funcionamiento del Órgano Interno de Control; mientras tanto, proveerá las medidas administrativas que requiera la instrumentación de actualización de la estructura orgánica aprobada en el presente Acuerdo.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL"ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA ACTUALIZACIÓN DE LA ESTRUCTURA DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL".]</small>
+
+Primero.- Se aprueba la actualización a la estructura orgánica del Órgano Interno de Control, conforme se detalla en los Anexos del presente Acuerdo.
+
+Segundo.- La actualización de la estructura orgánica del Órgano Interno de Control entrará en vigor a partir del 1° de enero de 2020.
+
+Tercero.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la Gaceta del Instituto Nacional Electoral.
+
+> <small>[N. DE E. ENLACE ELECTRÓNICO DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES A LA ESTRUCTURA DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL.]</small>
+
+El Acuerdo y los anexos pueden ser consultados en las siguientes direcciones electrónicas:
+
+Página INE:
+
+https://www.ine.mx/sesion-extraordinaria-del-consejo-general-11-diciembre-2019/
+
+Página DOF
+
+www.dof.gob.mx/2019/INE/CGext201912_11_ap_9.pdf
