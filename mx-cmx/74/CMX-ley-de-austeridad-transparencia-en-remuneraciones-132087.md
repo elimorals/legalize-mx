@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-austeridad-transparencia-en-remuneraciones-132087"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2019-08-22"
+last_updated: "2019-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132087&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-28"
 
 LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 31 de diciembre de 2018.
 
@@ -1148,11 +1148,13 @@ Cubrir los daños que pudiera ocasionar al vehículo a consecuencia de algún pe
 
 Para tal efecto deberá realizar el pago de infracciones o multas viales que pudieran generarse, hasta la liberación del vehículo oficial.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 95.
 
-Los Sujetos obligados por esta Ley, únicamente podrán realizar un viaje oficial al extranjero, con excepción de la o del Jefe de Gobierno, a quien el Congreso local podrá autorizar los viajes necesarios para el desempeño de su actividad.
+Los Sujetos obligados por esta Ley, únicamente podrán realizar un viaje oficial al extranjero, con excepción de la persona titular de la Jefatura de Gobierno, a quien el Congreso Local podrá autorizar los viajes necesarios para el desempeño de su actividad.
 
-En todos los casos, los funcionarios que efectúen el viaje oficial deberán remitir un informe del propósito de su viaje, los gastos efectuados y de los resultados obtenidos al Congreso dentro del plazo de 15 días hábiles, una vez concluido el mismo.
+En todos los casos, los funcionarios que efectúen el viaje oficial deberán remitir un informe del propósito de su viaje, los gastos efectuados y de los resultados obtenidos al Congreso Local y a la Secretaría de la Contraloría dentro del plazo de 15 días hábiles, una vez concluido el mismo.
 
 ###### Artículo 96.
 
@@ -2027,3 +2029,9 @@ G.O. 22 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 95 DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
