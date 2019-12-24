@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-de-datos-personales-en-posesion-de-127761"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-10"
-last_updated: "2018-04-10"
+last_updated: "2019-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127761&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-02-22"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el martes 10 de abril de 2018.
 
@@ -266,11 +266,9 @@ En la obtención del consentimiento de personas que se encuentren en estado de i
 
 Por regla general no podrán tratarse datos personales sensibles, salvo que se cuente con el consentimiento previo, expreso, informado e inequívoco de su titular, a través de su firma autógrafa, firma electrónica o cualquier mecanismo de autenticación que al efecto se establezca o, en su caso, se trate de las excepciones establecidas en la presente Ley.
 
-(NOTA: EL 11 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 47/2018 Y SU ACUMULADA 48/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 ###### Artículo 15.
 
-En caso que la obtención o recabación de datos personales se haya hecho de manera indirecta, el tratamiento de datos personales se hará lícito cuando el Responsable tome las medidas necesarias para informar sobre el tratamiento de los datos o bien lleve a cabo las acciones pertinentes para obtener el consentimiento de la persona.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 2019)
 
 ###### Artículo 16.
 
@@ -328,23 +326,61 @@ Para que el aviso de privacidad cumpla de manera eficiente con su función de in
 
 Cuando resulte imposible dar a conocer al titular el aviso de privacidad, de manera directa o ello exija esfuerzos desproporcionados, el responsable podrá instrumentar medidas compensatorias de comunicación masiva de acuerdo con los criterios establecidos para tal efecto.
 
-(NOTA: EL 11 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 47/2018 Y SU ACUMULADA 48/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 21.
 
-El aviso de privacidad deberá contener la siguiente información:
+El aviso de privacidad se pondrá a disposición del titular en dos modalidades: simplificado e integral. El aviso simplificado deberá contener la siguiente información:
 
-I. La identificación del responsable y la ubicación de su domicilio;
+I. La denominación del responsable;
 
-II. El fundamento legal que faculta al responsable para llevar a cabo el tratamiento;
+II. Las finalidades del tratamiento para las cuales se obtienen los datos personales, distinguiendo aquéllas que requieran el consentimiento del titular;
 
-III. Los datos personales que serán sometidos a tratamiento, así como de la existencia de un sistema de datos personales;
+III. cuando se realicen transferencias de datos personales que requieran consentimiento, se deberá informar:
 
-IV. Las finalidades del tratamiento para las cuales se recaban los datos personales, el ciclo de vida de los mismos, la revocación del consentimiento y los derechos del titular sobre éstos;
+a) Las autoridades, poderes, entidades, órganos y organismos gubernamentales de los tres órdenes de gobierno y las personas físicas o morales a las que se transfieren los datos personales, y
 
-V. Los mecanismos, medios y procedimientos disponibles para ejercer los derechos Acceso, Rectificación, Cancelación y Oposición; y
+b) Las finalidades de estas transferencias;
 
-VI. El domicilio de la Unidad de Transparencia.
+IV. Los mecanismos y medios disposiciones para que el titular, en su caso, pueda manifestar su negativa para el tratamiento de sus datos personales para finalidades y transferencias de datos personales que requieren el consentimiento del titular, y
+
+V. El sitio donde se podrá consultar el aviso de privacidad integral.
+
+La puesta a disposición del aviso de privacidad al que refiere este artículo no exime al responsable de su obligación de proveer los mecanismos para que el titular pueda conocer el contenido del aviso de privacidad integral.
+
+Los mecanismos y medios a los que se refiere la fracción IV de este artículo, deberán estar disponibles para que el titular pueda manifestar su negativa al tratamiento de sus datos personales para las finalidades o transferencias que requieran el consentimiento del titular previo a que ocurra dicho tratamiento.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 21 Bis.
+
+El responsable deberá poner a disposición del titular el aviso de privacidad simplificado en los siguientes momentos:
+
+I. Previo a la obtención de los mismos, cuando los datos personales se obtengan de manera directa del titular; y
+
+II. Previo al uso o aprovechamiento, cuando los datos personales se obtienen de manera directa del titular.
+
+Las reglas anteriores, no eximen al responsable de proporcionar al titular el aviso de privacidad integral en momento posterior, conforme a las disposiciones aplicables de la presente Ley.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 21 Ter.
+
+El aviso de privacidad integral, además de lo dispuesto en las fracciones del artículo anterior y al que refiere la fracción V del artículo 21 deberá contener, al menos, la siguiente información:
+
+I. El domicilio del responsable;
+
+II. Los datos personales que serán sometidos a tratamiento, identificando aquéllos que son sensibles;
+
+III. El fundamento legal que faculta al responsable para llevar a cabo el tratamiento;
+
+IV. Las finalidades del tratamiento para las cuales se obtienen los datos personales, distinguiendo aquéllas que requieren el consentimiento del titular;
+
+V. Los mecanismos, medios y procedimientos disponibles para ejercer los derechos ARCO;
+
+VI. El domicilio de la Unidad de Transparencia, y
+
+VII. Los medios a través de los cuales el responsable comunicará a los titulares los cambios al aviso de privacidad.
 
 ###### Artículo 22.
 
@@ -616,17 +652,15 @@ El titular tendrá derecho a solicitar por sí o por su representante, la rectif
 
 Cuando se trate de datos que reflejen hechos constatados en un procedimiento administrativo o en un proceso judicial, aquellos se consideraran exactos siempre que coincidan con éstos.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 44.
 
 El titular tendrá derecho a solicitar la cancelación de sus datos personales de los archivos, registros, expedientes y sistemas del responsable, a fin de que los mismos ya no estén en su posesión y dejen de ser tratados.
 
-(NOTA: EL 11 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 47/2018 Y SU ACUMULADA 48/2018, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2019)</small>
 
-LA CANCELACIÓN DE DATOS SERÁ PROCEDENTE CUANDO EL TRATAMIENTO NO SE AJUSTE A LAS FINALIDADES O A LO DISPUESTO EN LA LEY, CUANDO EL TITULAR RETIRE O REVOQUE EL CONSENTIMIENTO Y EL TRATAMIENTO NO TENGA OTRO FUNDAMENTO JURÍDICO, SUS DATOS HAYAN SIDO TRATADOS DE MANERA ILÍCITA O CUANDO SE HAYAN DIFUNDIDO SIN SU CONSENTIMIENTO.
-
-(NOTA: EL 11 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 47/2018 Y SU ACUMULADA 48/2018, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-EL DERECHO DE CANCELACIÓN NO PROCEDERÁ CUANDO SEA NECESARIO PARA EJERCER EL DERECHO A LA LIBERTAD DE EXPRESIÓN, POR RAZONES DE INTERÉS PÚBLICO CON FINES ESTADÍSTICOS O DE INVESTIGACIÓN CIENTÍFICA O HISTÓRICA, O PARA EL CUMPLIMIENTO DE UNA OBLIGACIÓN LEGAL QUE DETERMINE EL TRATAMIENTO DE DATOS.
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 45.
 
@@ -982,9 +1016,11 @@ Los sujetos obligados promoverán acuerdos con instituciones públicas especiali
 
 (NOTA: EL 11 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 47/2018 Y SU ACUMULADA 48/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 77.
 
-El responsable procurará que las personas con algún tipo de discapacidad o grupos vulnerables, puedan ejercer, en igualdad de circunstancias, su derecho a la protección de datos personales.
+El responsable procurará que los grupos vulnerables, puedan ejercer, en igualdad de circunstancias, su derecho a la protección de datos personales.
 
 ## TÍTULO OCTAVO
 
@@ -1006,9 +1042,9 @@ III. Imponer las medidas de apremio para asegurar el cumplimiento de sus resoluc
 
 IV. Promover y difundir el ejercicio del derecho a la protección de datos personales;
 
-(NOTA: EL 11 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 47/2018 Y SU ACUMULADA 48/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2019)</small>
 
-V. Coordinarse con las autoridades competentes para que las solicitudes para el ejercicio de los derechos ARCO y los recursos de revisión que se presenten en lenguas indígenas, PREFERENTEMENTE, sean atendidos en la misma lengua;
+V. Coordinarse con las autoridades competentes para que las solicitudes para el ejercicio de los derechos y los recursos de revisión que se presenten en lenguas indígenas, sean atendidas en la misma lengua;
 
 VI. Garantizar, en el ámbito de sus respectivas competencias, condiciones de accesibilidad para que los titulares que pertenecen a grupos vulnerables puedan ejercer, en igualdad de circunstancias, su derecho a la protección de datos personales;
 
@@ -1226,33 +1262,35 @@ Una vez admitido el recurso de revisión, el Instituto podrá buscar una concili
 
 De llegar a un acuerdo, éste se hará constar por escrito y tendrá efectos vinculantes. El recurso de revisión quedará sin materia y el Instituto deberá verificar el cumplimiento del acuerdo respectivo.
 
-(NOTA: EL 11 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 47/2018 Y SU ACUMULADA 48/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 95.
 
 Admitido el recurso de revisión, el Instituto promoverá la conciliación entre las partes, de conformidad con el siguiente procedimiento:
 
-I. El Instituto requerirá a las partes que manifiesten, por cualquier medio, su voluntad de conciliar, en un plazo no mayor a siete días, contados a partir de la notificación de dicho acuerdo, mismo que contendrá un resumen del recurso de revisión y de la respuesta del responsable si la hubiere, señalando los elementos comunes y los puntos de controversia.
+I. El Instituto y los Organismos garantes, según corresponda, requerirán a las partes que manifiesten, por cualquier medio, su voluntad de conciliar, en un plazo no mayor a siete días, contados a partir de la notificación de dicho acuerdo, mismo que contendrá un resumen del recurso de revisión y de la respuesta del responsable si la hubiere, señalando los elementos comunes y los puntos de controversia.
 
-La conciliación podrá celebrarse presencialmente, por medios remotos o locales de comunicación electrónica o por cualquier otro medio que determine el Instituto. En cualquier caso, la conciliación habrá de hacerse constar por el medio que permita acreditar su existencia.
+La conciliación podrá celebrarse presencialmente, por medios remotos o locales de comunicación electrónica o por cualquier otro medio que determine el Instituto o los Organismos garantes, según corresponda. En cualquier caso, la conciliación habrá de hacerse constar por el medio que permita acreditar su existencia.
 
 Queda exceptuado de la etapa de conciliación, cuando el titular sea menor de edad y se haya vulnerado alguno de los derechos contemplados en la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes, vinculados con la Ley y el Reglamento, salvo que cuente con representación legal debidamente acreditada;
 
-II. Aceptada la posibilidad de conciliar por ambas partes, el Instituto señalará el lugar o medio, día y hora para la celebración de una audiencia de conciliación, la cual deberá realizarse dentro de los cinco días siguientes en que el Instituto haya recibido la manifestación de la voluntad de conciliar de ambas partes, en la que se procurará avenir los intereses entre el titular y el responsable.
+II. Aceptada la posibilidad de conciliar por ambas partes, el Instituto y los Organismos garantes, según correspondan, señalarán el lugar o medio, día y hora para la celebración de una audiencia de conciliación, la cual deberá realizarse dentro de los diez días siguientes en que el Instituto o los Organismos garantes, según corresponda, hayan recibido la manifestación de la voluntad de conciliar de ambas partes, en la que se procurará avenir los intereses entre el titular y el responsable.
 
-El Instituto podrá suspender cuando lo estime pertinente o a instancia de ambas partes la audiencia por una ocasión. En caso de que se suspenda la audiencia, el Instituto señalará día y hora para su reanudación dentro de los cinco días siguientes.
+El conciliador podrá, en todo momento en la etapa de conciliación, requerir a las partes que presenten en un plazo máximo de cinco días, los elementos de convicción que estime necesarios para la conciliación.
+
+El conciliador podrá suspender cuando lo estime pertinente o a instancia de ambas partes la audiencia por una ocasión. En caso de que se suspenda la audiencia, el conciliador señalará día y hora para su reanudación dentro de los cinco días siguientes.
 
 De toda audiencia de conciliación se levantará el acta respectiva, en la que conste el resultado de la misma. En caso de que el responsable o el titular o sus respectivos representantes no firmen el acta, ello no afectará su validez, debiéndose hacer constar dicha negativa;
 
 III. Si alguna de las partes no acude a la audiencia de conciliación y justifica su ausencia en un plazo de tres días, será convocado a una segunda audiencia de conciliación, en el plazo de cinco días; en caso de que no acuda a esta última, se continuará con el recurso de revisión. Cuando alguna de las partes no acuda a la audiencia de conciliación sin justificación alguna, se continuará con el procedimiento;
 
-IV. De no existir acuerdo en la audiencia de conciliación, se continuará con el recurso de revisión, respetando los plazos establecidos para resolver el recurso de revisión;
+IV. De no existir acuerdo en la audiencia de conciliación, se continuará con el recurso de revisión;
 
-V. De llegar a un acuerdo, éste se hará constar por escrito y tendrá efectos vinculantes. El recurso de revisión quedará sin materia, y
+V. De llegar a un acuerdo, éste se hará constar por escrito y tendrá efectos vinculantes. El recurso de revisión quedará sin materia y el Instituto, o en su caso, los Organismos garantes, deberán verificar el cumplimiento del acuerdo respectivo, y
 
 VI. El cumplimiento del acuerdo dará por concluido la sustanciación del recurso de revisión, en caso contrario, el Instituto reanudará el procedimiento.
 
-El plazo al que se refiere el artículo siguiente de la presente Ley será suspendido durante el periodo de cumplimiento del acuerdo de conciliación.
+El plazo será suspendido durante el periodo de cumplimiento del acuerdo de conciliación.
 
 ###### Artículo 96.
 
@@ -1605,3 +1643,13 @@ TERCERO. Los asuntos iniciados con anterioridad a la entrada en vigor del presen
 Recinto de la Asamblea Legislativa del Distrito Federal, a los catorce días del mes de noviembre del año dos mil diecisiete.- POR LA MESA DIRECTIVA.- DIP. FERNANDO ZÁRATE SALGADO, PRESIDENTE.- DIP. FRANCIS IRMA PIRIN CIGARRERO, SECRETARIA.- DIP. EVA ELOISA LESCAS HERNÁNDEZ, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los veintidós días del mes de febrero del año dos mil dieciocho.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE DE JESÚS GUTIÉRREZ GUTIÉRREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, JOSÉ FRANCISCO CABALLERO GARCÍA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, TANYA MÜLLER GARCÍA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, EDGAR OSWALDO TUNGÜI RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.- EL SECRETARIO DE MOVILIDAD, CARLOS AUGUSTO MENESES FLORES.- FIRMA.- EL SECRETARIO DE TURISMO, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE CULTURA, EDUARDO VÁZQUEZ MARTÍN.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, FAUSTO LUGO GARCÍA.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, AMALIA DOLORES GARCÍA MEDINA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MAURICIO RODRÍGUEZ ALONSO.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, EVANGELINA HERNÁNDEZ DUARTE.- FIRMA.- EL SECRETARIO DE FINANZAS, ÉDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.- EL SECRETARIO DE SALUD, ROMÁN ROSALES AVILÉS.- FIRMA.- EL SECRETARIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN, DAVID GARCÍA JUNCO MACHADO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 21, 44, 79 FRACCIÓN V Y 95; SE ADICIONAN LOS ARTÍCULOS 21 BIS Y 21 TER; SE DEROGA EL ARTÍCULO 15 DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
