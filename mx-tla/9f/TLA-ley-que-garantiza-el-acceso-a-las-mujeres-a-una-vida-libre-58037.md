@@ -4,7 +4,7 @@ identifier: "TLA-ley-que-garantiza-el-acceso-a-las-mujeres-a-una-vida-libre-5803
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-13"
-last_updated: "2018-04-13"
+last_updated: "2019-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el jueves 13 de diciembre de 2007.
 
@@ -509,11 +509,17 @@ Violencia mediática. Es aquella producida por los medios masivos de comunicaci�
 
 Así también la utilización de adolescentes y niñas en mensajes e imágenes, que legitimen la desigualdad de trato o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia contra las mujeres.
 
-#### SECCIÓN PRIMERA. MODELOS
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN DÉCIMA. VIOLENCIA DIGITAL
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+Artículo 25 Undécimo. La violencia digital es cualquier acto realizado a través de las Tecnologías de la Información y la Comunicación (TIC), plataformas de internet, redes sociales, correo electrónico, o cualquier otro espacio digitalizado, que implique acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas, que atenten contra la integridad, la dignidad, la intimidad, la libertad, la vida privada o vulnere algún derecho humano de las mujeres, causando daño psicológico, físico, económico o sexual, tanto en el ámbito privado como en el público.
 
 ### CAPÍTULO V. MODELOS Y EJES DE ACCIÓN
 
-#### SECCIÓN SEGUNDA. MODELOS DE ATENCIÓN
+#### SECCIÓN PRIMERA. MODELOS
 
 ###### Artículo 26.
 
@@ -563,7 +569,7 @@ VII. Mecanismos de evaluación, y
 
 VIII. Medición de la efectividad.
 
-#### SECCIÓN TERCERA. MODELOS DE PREVENCIÓN
+#### SECCIÓN SEGUNDA. MODELOS DE ATENCIÓN
 
 ###### Artículo 30.
 
@@ -669,7 +675,7 @@ II. Acciones específicas para el hostigamiento sexual en el ámbito laboral y d
 
 III. El acoso como práctica discriminatoria y de ejercicio de poder en ausencia de jerarquía, y con una igualdad aparente entre las partes.
 
-#### SECCIÓN CUARTA. MODELOS DE SANCIÓN
+#### SECCIÓN TERCERA. MODELOS DE PREVENCIÓN
 
 ###### Artículo 39.
 
@@ -687,7 +693,7 @@ IV. Capacitación psicojurídica transversal de los servidores públicos del Est
 
 La identificación de los factores protectores por cada uno de los tipos de victimización, a partir del impacto que genera la violencia contra las mujeres, se integrarán a los modelos preventivos de detección que se efectúen. Sin perjuicio de las estrategias de difusión y visibilización de la violencia contra las mujeres y sus consecuencias individuales y colectivas.
 
-#### SECCIÓN QUINTA. MODELOS DE ERRADICACIÓN
+#### SECCIÓN CUARTA. MODELOS DE SANCIÓN
 
 ###### Artículo 41.
 
@@ -701,7 +707,7 @@ III. Procedimientos ágiles, que no mermen el empoderamiento de las mujeres, y
 
 IV. El registro de los modelos ante la Secretaría Técnica del Sistema Estatal.
 
-#### SECCIÓN PRIMERA. ALERTA DE GÉNERO Y AGRAVIO COMPARADO
+#### SECCIÓN QUINTA. MODELOS DE ERRADICACIÓN
 
 ###### Artículo 42.
 
@@ -727,9 +733,7 @@ III. La armonización normativa y judicial en su completitud y la interpretació
 
 ### CAPÍTULO VI. MECANISMOS GARANTES
 
-#### SECCIÓN SEGUNDA. ORDENES DE PROTECCIÓN
-
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
+#### SECCIÓN PRIMERA. ALERTA DE GÉNERO Y AGRAVIO COMPARADO
 
 ###### Artículo 44.
 
@@ -753,7 +757,9 @@ Esta mesa de armonización legislativa procurará la coordinación de los tres n
 
 El agravio comparado, implica un trato desigual a las mujeres dentro del marco jurídico del Estado en relación con otro Estado, incluso de procedimientos y trámites de índole administrativa.
 
-#### SECCIÓN ÚNICA. SISTEMA ESTATAL DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
+#### SECCIÓN SEGUNDA. ORDENES DE PROTECCIÓN
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
 
 ###### Artículo 47.
 
@@ -859,7 +865,7 @@ Previo a la suspensión de las órdenes de protección decretadas por el Ministe
 
 ### CAPÍTULO VII. SISTEMA ESTATAL
 
-#### SECCIÓN PRIMERA. PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA
+#### SECCIÓN ÚNICA. SISTEMA ESTATAL DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### Artículo 49.
 
@@ -945,7 +951,7 @@ XII. Diseñar programas en favor de las mujeres jóvenes que permitan la prevenc
 
 ### CAPÍTULO VIII. PROGRAMA ESTATAL
 
-#### SECCIÓN PRIMERA. TITULAR DEL EJECUTIVO DEL ESTADO
+#### SECCIÓN PRIMERA. PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA
 
 ###### Artículo 54.
 
@@ -999,7 +1005,7 @@ El Ejecutivo del Estado considerará en el Presupuesto de Egresos del Estado, un
 
 ### CAPÍTULO IX. DISTRIBUCIÓN DE COMPETENCIAS
 
-#### SECCIÓN SEGUNDA. SECRETARÍA DE GOBIERNO
+#### SECCIÓN PRIMERA. TITULAR DEL EJECUTIVO DEL ESTADO
 
 ###### Artículo 58.
 
@@ -1043,7 +1049,7 @@ XVIII. Difundir por todos los medios de comunicación del Estado el contenido de
 
 Las facultades antes señaladas podrán ser desempeñadas a través de las dependencias o entidades de la Administración Pública Estatal, en el ámbito de sus respectivas competencias. Debiendo en todo momento ser supervisadas por el Titular del Ejecutivo del Estado.
 
-#### SECCIÓN TERCERA. COORDINACIÓN DE DESARROLLO SOCIAL
+#### SECCIÓN SEGUNDA. SECRETARÍA DE GOBIERNO
 
 ###### Artículo 59.
 
@@ -1085,7 +1091,7 @@ XVII. Garantizar la evaluación anual de los servicios y servidores públicos qu
 
 XVIII. Las demás que le señale esta ley y otras disposiciones legales.
 
-#### SECCIÓN CUARTA. SUBSECRETARIA DE SEGURIDAD PÚBLICA, PREVENCIÓN Y READAPTACIÓN SOCIAL
+#### SECCIÓN TERCERA. COORDINACIÓN DE DESARROLLO SOCIAL
 
 ###### Artículo 60.
 
@@ -1111,7 +1117,7 @@ IX. Brindar la asesoría que requieran los municipios a fin de suscribir conveni
 
 X. Las demás previstas en esta ley y demás ordenamientos legales.
 
-#### SECCIÓN QUINTA. SECRETARÍA DE EDUCACIÓN PÚBLICA
+#### SECCIÓN CUARTA. SUBSECRETARIA DE SEGURIDAD PÚBLICA, PREVENCIÓN Y READAPTACIÓN SOCIAL
 
 ###### Artículo 61.
 
@@ -1145,7 +1151,7 @@ XIII. Realizar un subprograma de monitoreo de zonas de violencia contra las muje
 
 XIV. Cumplir con cada una de las atribuciones que le confiere la normatividad aplicable.
 
-#### SECCIÓN SEXTA. SECRETARÍA DE SALUD
+#### SECCIÓN QUINTA. SECRETARÍA DE EDUCACIÓN PÚBLICA
 
 ###### Artículo 62.
 
@@ -1177,7 +1183,7 @@ XII. Proporcionar formación y capacitación anualmente a todo el personal de lo
 
 XIII. Las demás que señale esta ley y otras disposiciones legales aplicables.
 
-#### SECCIÓN SÉPTIMA. PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+#### SECCIÓN SEXTA. SECRETARÍA DE SALUD
 
 ###### Artículo 63.
 
@@ -1219,7 +1225,7 @@ X. Establecer programas temáticos sobre discriminación y violencia contra las 
 
 XI. Las demás que señale esta ley y demás disposiciones legales.
 
-#### SECCIÓN OCTAVA. INSTITUTO ESTATAL DE LA MUJER
+#### SECCIÓN SÉPTIMA. PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
 ###### Artículo 64.
 
@@ -1251,7 +1257,7 @@ XII. Proporcionar semestralmente contención del estrés al personal especializa
 
 XIII. Las demás que le señale esta ley y demás disposiciones legales aplicables.
 
-#### SECCIÓN NOVENA. SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+#### SECCIÓN OCTAVA. INSTITUTO ESTATAL DE LA MUJER
 
 ###### Artículo 65.
 
@@ -1287,7 +1293,7 @@ XIV. Realizar campañas de información, movimientos en pro de la mujer para que
 
 XV. Las demás que le señale esta ley y demás disposiciones legales aplicables.
 
-#### SECCIÓN DÉCIMA. MUNICIPIOS
+#### SECCIÓN NOVENA. SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
 ###### Artículo 66.
 
@@ -1309,7 +1315,7 @@ VII. Capacitar y sensibilizar al personal para proporcionar una atención con pe
 
 VIII. Las demás que le señale esta ley y demás disposiciones legales.
 
-#### SECCIÓN PRIMERA. PROCEDIMIENTO
+#### SECCIÓN DÉCIMA. MUNICIPIOS
 
 ###### Artículo 67.
 
@@ -1347,7 +1353,7 @@ XV. La atención de los demás asuntos que en materia de violencia contra las mu
 
 ### CAPÍTULO X. PROCEDIMIENTO Y SANCIONES
 
-#### SECCIÓN SEGUNDA. SANCIONES
+#### SECCIÓN PRIMERA. PROCEDIMIENTO
 
 ###### Artículo 68.
 
@@ -1358,6 +1364,8 @@ I. Recibida una queja, el Instituto Estatal de la Mujer citará al presunto infr
 II. Transcurrido el plazo antes señalado, si el presunto infractor hubiese ofrecido pruebas, el Instituto Estatal de la Mujer fijará un plazo que no excederá de tres días hábiles para que las mismas sean recibidas o perfeccionadas, y
 
 III. Concluido el período probatorio o vencido el plazo indicado en la fracción II de este artículo, en el supuesto de que el presunto infractor no comparezca o no ofrezca pruebas, el Instituto Estatal de la Mujer emitirá resolución en un plazo no mayor de cinco días hábiles, determinando si se aplica o no la sanción.
+
+#### SECCIÓN SEGUNDA. SANCIONES
 
 ###### Artículo 69.
 
@@ -1474,3 +1482,15 @@ Se derogan todas aquellas disposiciones que se opongan al contenido del presente
 ###### ARTÍCULO TERCERO.
 
 A partir de la entrada en vigor del presente Decreto, las autoridades estatales tendrán 180 días hábiles, para expedir, reformar o derogar, las disposiciones reglamentarias para dar pleno cumplimiento al mandato de la Ley que Garantiza el Acceso a las Mujeres a una Vida Libre de Violencia en el Estado de Tlaxcala.
+
+P.O. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 187.- POR EL QUE SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE TLAXCALA; Y DE LA LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
