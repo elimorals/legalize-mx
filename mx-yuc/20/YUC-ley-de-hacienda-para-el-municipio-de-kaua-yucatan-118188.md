@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-kaua-yucatan-118188"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2016-12-31"
+last_updated: "2019-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE KAUA, YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE KAUA, YUCATÁN, PUBLICADA EN EL D.O. DE 24 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE HACIENDA PARA EL MUNICIPIO DE KAUA, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el sábado 31 de diciembre de 2016.
 
@@ -1450,3 +1452,15 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 24 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 150/2019 POR EL QUE SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE HOMÚN, KAUA, MUNA, OPICHÉN, SEYÉ, SOTUTA, TELCHAC PUEBLO Y VALLADOLID”.]
+
+Artículo Primero.- Se abroga la Ley de Hacienda del Municipio de Kaua, Yucatán publicada en el Diario Oficial del Gobierno del Estado de Yucatán mediante Decreto 443 de fecha 31 de diciembre de 2016 y todas las disposiciones contrarias al presente ordenamiento.
+
+Artículo Segundo.- Esta ley entrará en vigor el primero de enero de 2020, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Tercero.- En lo no previsto por esta Ley, se aplicará supletoriamente lo establecido por el Código Fiscal y la Ley de Hacienda Municipal, ambas del Estado de Yucatán.
