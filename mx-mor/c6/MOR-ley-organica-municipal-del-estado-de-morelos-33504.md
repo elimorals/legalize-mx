@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2018-07-11"
+last_updated: "2019-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -549,101 +549,141 @@ En el caso de que uno o más miembros del Ayuntamiento, hubieren sido sustituido
 
 (DEROGADO, P.O. 14 DE DICIEMBRE DE 2012)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 24.
 
 El día uno de enero del año siguiente a su elección, el Ayuntamiento, a convocatoria del Presidente Municipal, celebrará su Primera Sesión de Cabildo.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-Una vez verificado el quórum legal, y rendida la protesta por parte de los miembros del Cabildo que no lo hubieren hecho en la sesión a que se refiere el artículo 21 de esta Ley, el Presidente Municipal emitirá la siguiente declaratoria:
+Una vez verificado el quórum legal, y rendida la protesta por parte de los miembros del Cabildo que no lo hubieren hecho en la Sesión a que se refiere el artículo 21 de esta Ley, el Presidente Municipal emitirá la siguiente declaratoria:
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-"Queda legítimamente instalado el Ayuntamiento del Municipio de...que deberá funcionar durante del (sic) período...".
+“Queda legítimamente instalado el Ayuntamiento del Municipio de que deberá funcionar durante del (sic) período…”.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
 
 Instalado el Ayuntamiento, el Presidente Municipal comunicará la forma como quedó integrado a los Poderes Públicos del Estado.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-En dicha sesión, actuará como Secretario el Síndico, en el caso de que esté ausente, actuará con tal carácter él Regidor que nombre el propio Ayuntamiento al inicio de la sesión de Cabildo.
+En dicha Sesión, actuará como Secretario el Síndico, en el caso de que esté ausente, actuará con tal carácter él Regidor que nombre el propio Ayuntamiento al inicio de la Sesión de Cabildo.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2019)</small>
 
 Una vez instalado, el Cabildo se ocupará de desahogar el orden del día, que incluirá la atención de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-I.- Designar a los titulares de las dependencias de la administración pública municipal, así como a la titular de la dirección de la instancia de la mujer con excepción del Secretario del Ayuntamiento, el Tesorero, el Contralor Municipal, el Titular de la Seguridad Pública Municipal, los cuales serán nombrados por el Presidente; en ambos casos las designaciones tendrán que ajustarse al principio de paridad, en una proporción que no exceda el cincuenta por ciento para un mismo género. Por lo que respecta al Contralor Municipal, dicho nombramiento se sujetará a la ratificación de las dos terceras partes del Cabildo. En todo momento, el Ayuntamiento verificará que la remuneración autorizada a dichos servidores públicos no rebase los montos establecidos en la fracción V del artículo 20 de la Ley de Presupuesto, Contabilidad y Gasto Público del estado de Morelos.
+I.- Designar a los Titulares de las Dependencias de la Administración Pública Municipal, así como a la Titular de la Dirección de la Instancia de la Mujer con excepción del Secretario del Ayuntamiento, el Tesorero, el Contralor Municipal, el Titular de la Seguridad Pública Municipal, los cuales serán nombrados por el Presidente; en ambos casos las designaciones tendrán que ajustarse al principio de paridad, en una proporción que no exceda el cincuenta por ciento para un mismo género. Por lo que respecta al Contralor Municipal, dicho nombramiento se sujetará a la ratificación de las dos terceras partes del Cabildo. En todo momento, el Ayuntamiento verificará que la remuneración autorizada a dichos servidores públicos no rebase los montos establecidos en la fracción V del artículo 20 de la Ley de Presupuesto, Contabilidad y Gasto Público del estado de Morelos.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-II.- Determinar las comisiones municipales que atiendan los ramos de la Administración Pública de acuerdo a sus necesidades y con base a las facultades consignadas en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Morelos, las cuales deberán ser colegiadas y permanentes, así como designar a los titulares de las mismas.
+II.- El número y denominación de las Comisiones, será determinado por los integrantes del Ayuntamiento, pero en todo caso deberán considerar las siguientes materias:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2017)</small>
-
-El número y denominación de las comisiones, será determinado por los integrantes del Ayuntamiento, pero en todo caso deberán considerar las siguientes materias:
-
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
 
 a) Gobernación y Reglamentos;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
+
 b) Hacienda, Programación y Presupuesto;
 
-c) Planificación y Desarrollo;
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+c) Planificación y Desarrollo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
 
 d) Desarrollo Urbano, Vivienda y Obras Públicas;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
+
 e) Servicios Públicos Municipales;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
 
 f) Bienestar Social;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
+
 g) Desarrollo Económico;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
 
 h) Seguridad Pública y Tránsito;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
+
 i) Asuntos Indígenas, Colonias y Poblados;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
 
 j) Educación, Cultura y Recreación;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
+
 k) Desarrollo Agropecuario;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
 
 l) Coordinación de Organismos Descentralizados;
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-m) Protección Ambiental;
+m) Protección ambiental y Desarrollo Sustentable;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
 
 n) Derechos Humanos;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
+
 o) Turismo;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
 
 p) Patrimonio Municipal;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
+
 q) Protección del Patrimonio Cultural;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
 
 r) Relaciones Públicas y Comunicación Social;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
+
 s) Asuntos Migratorios;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
 
 t) Igualdad y Equidad de Género;
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
 
 u) Asuntos de la Juventud;
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-v) Transparencia y Protección de datos personales, rendición de cuentas y combate a la corrupción, y
+v) Transparencia y Protección de Datos Personales, Rendición de Cuentas y Combate a la corrupción;
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-w) Ciencia, Tecnología e Innovación.
+w) Ciencia, Tecnología e Innovación; y,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+x) Participación Ciudadana.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 Las comisiones que se designen a los miembros del Ayuntamiento serán irrenunciables, salvo causa grave justificada así calificada por la mayoría absoluta de los integrantes del Cabildo.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 Con el objeto de atender asuntos específicos, según las necesidades del Municipio, los Ayuntamientos están facultados para constituir comisiones temporales. En la asignación de las comisiones se deberá respetar el principio de equidad; asimismo se deberá tomar preferentemente en consideración el perfil, preparación e instrucción de los regidores. Los regidores deberán tener asignada cuando menos una comisión, y será el Cabildo, quien por su acuerdo, haga dicha asignación;
 
@@ -3129,9 +3169,9 @@ En caso de que se declare procedente la desaparición o suspensión definitiva d
 
 ###### Artículo 190.
 
-Si la desaparición o suspensión definitiva de un Ayuntamiento se declara dentro de los doce meses del inicio de su ejercicio, el Concejo Municipal designado por el Congreso tendrá el carácter de provisional; en este caso el propio Congreso convocará a nueva elección del Ayuntamiento, de conformidad con las disposiciones de la Ley General de Instituciones y Procedimientos Electorales y del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos. El Ayuntamiento electo concluirá el periodo respectivo.
+Si la desaparición o suspensión definitiva de un Ayuntamiento se declara dentro de los doce meses del inicio de su ejercicio, el Concejo Municipal designado por el Congreso tendrá el carácter de provisional; en este caso el propio Congreso convocará a nueva elección del Ayuntamiento, de conformidad con las disposiciones de la Ley General de Instituciones y Procedimientos Electorales y del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos. El Ayuntamiento electo concluirá el período respectivo.
 
-En caso de que la desaparición del Ayuntamiento se declare dentro de los últimos veinticuatro meses de su ejercicio, el Concejo Municipal designado concluirá el período respectivo.
+En caso de que la desaparición del Ayuntamiento se declare dentro de los últimos veinticuatro meses de su ejercicio, el Concejo Municipal designado concluirá el periodo respectivo.
 
 ###### Artículo 191.
 
@@ -4126,6 +4166,16 @@ PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, 
 SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS TREINTA Y NUEVE POR EL QUE SE REFORMA EL ARTÍCULO 24 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones legales de igual o menor rango jerárquico que se opongan al presente Decreto.
 
 ###### ARTÍCULO CUARTO.
 
