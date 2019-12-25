@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ingresos-y-presupuesto-de-egresos-del-estado-de-133647"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-01-25"
-last_updated: "2019-01-25"
+last_updated: "2019-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE INGRESOS Y PRESUPUESTO DE EGRESOS DEL ESTADO DE SINALOA PARA EL EJERCICIO FISCAL DEL AÑO 2019
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Edición Vespertina parte Uno del Periódico Oficial del Estado de Sinaloa, el viernes 25 de enero de 2019.
 
@@ -1149,7 +1149,7 @@ Los titulares de las Dependencias y Entidades de la Administración Pública Est
 
 ## ARTÍCULOS TRANSITORIOS
 
-PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se faculta al Ejecutivo del Estado para que conforme a los programas y dentro de los montos del Presupuesto de Egresos aprobado por la presente Ley, efectúe los traspasos y transferencias que resulten procedentes, como consecuencia de las adecuaciones a la estructura orgánica y programático-presupuestal de las propias Dependencias y Entidades de la Administración Pública Estatal y de los Ramos Administrativos y Generales.
 
@@ -1211,7 +1211,9 @@ Universidad Tecnológica de Escuinapa
 
 Seguridad Publica $12,000,000.00
 
-Programa de Homologación de Pensiones para viudas de policías, caídos en cumplimiento de su deber $12,000,000.00
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+Programa de recursos para apoyo de viudas y beneficarios (sic) de policías. $12,000,000.00
 
 Gobernación $7,000,000.00
 
@@ -1269,7 +1271,7 @@ Fondo estatal de apoyo a ciencia, tecnología e innovación $4,000,000.00
 
 TOTAL $800,762,611.00
 
-Para efectos de las reasignaciones anteriormente descritas se proponen las siguientes reducciones que asciende a la cantidad de $800’762,611.00 (Ochocientos millones setecientos sesenta y dos mil seiscientos once pesos 00/100 moneda nacional), que se distribuyen en los rubros asentados en el siguiente cuadro:
+Para efectos de las reasignaciones anteriormente descritas se proponen las siguientes reducciones que asciende a la cantidad de $800'762,611.00 (Ochocientos millones setecientos sesenta y dos mil seiscientos once pesos 00/100 moneda nacional), que se distribuyen en los rubros asentados en el siguiente cuadro:
 
 CONCEPTO REDUCCIÓN
 
@@ -1336,3 +1338,17 @@ El Secretario de Administración y Finanzas
 CARLOS GERARDO ORTEGA CARRICARTE
 
 > <small>[N. DE E. VÉASE ANEXOS EN LA EDICIÓN VESPERTINA PARTE UNO DEL P.O. DE 25 DE ENERO DE 2019, PÁGINAS DE LA 67 A LA 964.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 392 QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS Y PRESUPUESTO DE EGRESOS DEL ESTADO DE SINALOA PARA EL EJERCICIO FISCAL DEL AÑO 2019".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá hacer entrega de los recursos asignados al Programa a que se refiere la modificación del presente Decreto, antes del 31 de diciembre de 2019.
