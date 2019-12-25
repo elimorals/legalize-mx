@@ -4,7 +4,7 @@ identifier: "SIN-ley-que-regula-las-casas-de-empeno-en-el-estado-de-sinaloa-1180
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-13"
-last_updated: "2016-12-13"
+last_updated: "2019-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria Sección Segunda al Periódico Oficial del Estado de Sinaloa, el martes 13 de Diciembre de 2016.
 
@@ -147,7 +147,9 @@ VI. Comprobante de domicilio del establecimiento o sucursal, con un máximo de d
 
 VII. Domicilio para oír y recibir notificaciones;
 
-VIII. Licencia de funcionamiento y constancia de uso de suelo expedida por la autoridad municipal competente;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+VIII. Licencia de funcionamiento y, constancia, licencia o dictamen de uso de suelo y cualquier otro, expedida por la autoridad municipal competente;
 
 IX. Comprobante de pago de los derechos correspondientes;
 
@@ -706,3 +708,21 @@ C. GERARDO O. VARGAS LANDEROS
 El Secretario de Administración y Finanzas
 
 C. ARMANDO VILLAREAL IBARRA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 436 QUE REFORMA, DEROGA Y ADICIONA, DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA, LA LEY DE COORDINACIÓN FISCAL, LA LEY QUE REGULA LAS CASAS DE EMPEÑO Y EL CÓDIGO FISCAL, TODOS DEL ESTADO DE SINALOA”.]
+
+Artículo Primero. La vigencia del presente Decreto será a partir del día siguiente a la fecha de su publicación en el Periódico Oficial “El Estado de Sinaloa”, excepto lo previsto en el artículo siguiente.
+
+Artículo Segundo. Las reformas a la Ley de Hacienda del Estado de Sinaloa contenidas en el artículo 17 Bis, y el segundo párrafo de la fracción II, del artículo 21 de la misma, entrarán en vigor a partir del día 1 de junio del año 2020. Por única ocasión, la declaración correspondiente al mes de mayo acumulará la relativa a la de los meses de enero, febrero, marzo y abril de dicho año.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
+
+Artículo Cuarto. Dentro de los 30 días siguientes a la entrada en vigor del presente decreto, el Servicio de Administración Tributaria del Estado de Sinaloa, deberá expedir y publicar en el Periódico Oficial “El Estado de Sinaloa”, las Reglas de Carácter General para el cumplimiento de registro y pago en las obligaciones inherentes al impuesto sobre nóminas previsto en la Ley de Hacienda del Estado de Sinaloa.
+
+Artículo Quinto. Las obligaciones derivadas de la Ley de Hacienda del Estado de Sinaloa, originadas durante el ejercicio fiscal 2019, deberán cumplirse en las formas y plazos establecidos conforme a las disposiciones vigentes de dicha Ley en ese ejercicio fiscal 2019.
+
+Artículo Sexto. En un plazo no mayor de 180 días contados a partir de la entrada en vigor del presente Decreto, se deberá crear el Padrón de Certificados Electrónicos de Servidores Públicos.
