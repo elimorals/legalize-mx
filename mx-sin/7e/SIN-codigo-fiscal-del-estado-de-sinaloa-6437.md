@@ -4,7 +4,7 @@ identifier: "SIN-codigo-fiscal-del-estado-de-sinaloa-6437"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-28"
-last_updated: "2017-12-22"
+last_updated: "2019-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FISCAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 28 de diciembre de 1994.
 
@@ -129,11 +129,23 @@ I.- Si la contribución se calcula por períodos establecidos en la Ley, y en lo
 
 II.- En cualquier otro caso, dentro del plazo establecido en el Artículo 30 de este Código.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-###### ARTÍCULO 16.
+###### ARTICULO 15-A.
 
-Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, deberán pagarse recargos por concepto de indemnización al fisco estatal por falta de pago oportuno. La tasa de recargos por cada mes de mora, será la que resulte de incrementar en un 50% a la que en la Ley de Ingresos y Presupuesto de Egresos del Estado, anualmente apruebe el Congreso Local para los casos de pago a plazos o prórroga de éstos.
+El monto de las contribuciones se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo. Las contribuciones no se actualizarán por fracciones de mes.
+
+En los casos en que el índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo, no haya sido publicado por el Instituto Nacional de Estadística y Geografía, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+
+Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización. El monto de ésta, determinado en los pagos provisionales, definitivos y del ejercicio, no será deducible ni acreditable.
+
+El Servicio de Administración Tributaria del Estado de Sinaloa, realizará las operaciones aritméticas previstas en este artículo y publicará el factor de actualización, así como las cantidades actualizadas en el Periódico Oficial "El Estado de Sinaloa".
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 16.
+
+Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, además deberán pagarse recargos por concepto de indemnización al fisco estatal por falta de pago oportuno. Dichos recargos se calcularán aplicando al monto de las contribuciones actualizadas por el periodo a que se refiere este párrafo, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el periodo de actualización de la contribución de que se trate. La tasa de recargos por cada mes de mora, será la que resulte de incrementar en un 50% a la que en la Ley de Ingresos y Presupuesto de Egresos del Estado anualmente apruebe el Congreso del Estado para los casos de pago a plazos o prórroga de éstos.
 
 ###### ARTICULO 17.
 
@@ -241,11 +253,93 @@ La legislación fiscal se complementa con los Decretos, Reglamentos, Circulares,
 
 Las Leyes Administrativas y fiscales que se refieran a la Hacienda Pública Estatal, que no prevengan expresamente otra cosa, obligan y surten efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Sinaloa.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+### CAPITULO TERCERO
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN I. DE LA FIRMA ELECTRÓNICA AVANZADA
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 29 BIS.- Se considera firma electrónica avanzada el conjunto de datos electrónicos consignados en un mensaje de datos o documento electrónico, que tiene como propósito identificar al emisor del mismo como autor legítimo de éste, y que permite asegurar la integridad y autenticidad del mensaje o el documento.
+
+La firma electrónica avanzada deberá cumplir con los requisitos previstos en la Ley de Gobierno Electrónico del Estado de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 29 BIS-A.- Para efectos de este Código, serán titulares de la firma electrónica avanzada las autoridades fiscales estatales, que estén legalmente facultadas para emitir los documentos oficiales de la Dependencia en cuestión, de acuerdo con la normatividad aplicable.
+
+Los titulares serán informados mediante escrito por la Autoridad Certificadora, de las responsabilidades y deberes que asumen con el uso de la firma electrónica avanzada, hecho lo cual, los primeros signarán la carta responsiva correspondiente.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 29 BIS-B.- Los derechos y obligaciones de las autoridades fiscales titulares de la firma electrónica avanzada, son las previstas en la Ley de Gobierno Electrónico del Estado de Sinaloa.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN II. DEL PADRÓN DE CERTIFICADOS ELECTRÓNICOS Y DE LA AUTORIDAD CERTIFICADORA
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 29 BIS-C.- Se crea el Padrón de Certificados Electrónicos como la base de datos en la que deberán estar inscritos los Certificados de firma electrónica avanzada y/o sello electrónico de la autoridad fiscal, a cargo del Órgano Interno de Control.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 29 BIS-D.- El Padrón contendrá lo siguiente:
+
+I. Nombre del servidor público.
+
+II. Cargo del servidor público.
+
+III. Nombramiento.
+
+IV. Certificado digital de firma electrónica avanzada y/o de sello electrónico del servidor público.
+
+V. Trámites y servicios que podrá autorizar o certificar el servidor público.
+
+VI. Cualquier otra información que el Secretario, Subsecretario, Director o Jefe de Área considere pertinente.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 29 BIS-E.- Al funcionario que sea inscrito en el Padrón, se le asignará una clave pública, con lo cual se garantizará la integridad y autoría de los actos que emita, al ser objeto de revisión mediante el método de remisión al documento original.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 29 BIS-F.- En caso de separación del cargo del servidor público inscrito, el Titular de la unidad administrativa emisora del acto, deberá dar aviso de forma inmediata, a más tardar 3 días hábiles, a la Autoridad Certificadora.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 29 BIS-G.- En caso de que el servidor público sea separado del ejercicio de la función para autorizar y certificar con firma electrónica avanzada y sello digital, el Órgano de Control Interno deberá dentro de un término de 3 días hábiles siguientes a dicha separación del cargo, dar aviso a la Autoridad Certificadora para que realice la cancelación provisional de la inscripción del servidor público en el Padrón de Certificados Electrónicos, hasta en tanto se resuelva el procedimiento de responsabilidad administrativa, de acuerdo a la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 29 BIS-H. En caso de que el servidor público sea destituido o inhabilitado del cargo, el Órgano de Control Interno, deberá dar aviso de manera inmediata, a más tardar dentro de los 3 días hábiles siguientes a dicha destitución o inhabilitación, a la Autoridad Certificadora, con el fin de realizar la cancelación definitiva de la inscripción.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 29 BIS-l.- El titular de la unidad administrativa correspondiente que no dé aviso de la separación del cargo de un servidor público inscrito en el Padrón de Certificados Electrónicos, incurrirá en responsabilidad administrativa conforme a la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 29 BIS-J.- Se entenderá como Autoridad Certificadora a la Secretaría de Innovación Gubernamental, en los términos previstos en la Ley de Gobierno Electrónico del Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 29 BIS-K.- La Autoridad Certificadora tendrá las responsabilidades, atribuciones y obligaciones que prevé la Ley de Gobierno Electrónico del Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 29 BIS-L.-En todo lo relativo a la suspensión y revocación de los certificados, se aplicará lo previsto en la Ley de Gobierno Electrónico del Estado para tal efecto.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 29 BIS-M.- En caso de que se utilicen los medios electrónicos y/o herramientas previstas en este Código, como los certificados y la firma electrónica avanzada, como instrumento para la realización de cualquier conducta tipificada en las leyes penales, se aplicarán las sanciones establecidas en las mismas.
 
 ## TITULO SEGUNDO. NACIMIENTO, EXIGIBILIDAD Y EXTINCION DE LOS CREDITOS FISCALES
 
-### CAPITULO PRIMERO. DE LOS SUJETOS
+### CAPITULO UNICO
 
 ###### ARTICULO 30.
 
@@ -443,7 +537,7 @@ II.- Que en el caso anterior se trate de una sola prestación fiscal a cargo de 
 
 ## TITULO TERCERO. DE LOS SUJETOS, DEL DOMICILIO FISCAL Y DE LOS DERECHOS Y OBLIGACIONES DE LOS PARTICULARES
 
-### CAPITULO SEGUNDO. DEL DOMICILIO FISCAL
+### CAPITULO PRIMERO. DE LOS SUJETOS
 
 ###### ARTICULO 55.
 
@@ -535,7 +629,7 @@ Los responsables solidarios también lo son por los accesorios de las contribuci
 
 (DEROGADO, P.O. 22 DE DICIEMBRE DE 2017)
 
-### CAPITULO TERCERO. DERECHOS Y OBLIGACIONES DE LOS PARTICULARES
+### CAPITULO SEGUNDO. DEL DOMICILIO FISCAL
 
 ###### ARTICULO 61.
 
@@ -561,7 +655,7 @@ d).- Si se trata de sucursales o agencias cuya matriz esté radicada fuera del t
 
 III.- Tratándose de personas físicas o morales residentes fuera del territorio del Estado de Sinaloa que realicen actividades gravadas en el Estado de Sinaloa, el de su representante.
 
-### CAPITULO UNICO
+### CAPITULO TERCERO. DERECHOS Y OBLIGACIONES DE LOS PARTICULARES
 
 ###### ARTICULO 62.
 
@@ -741,9 +835,7 @@ V.- Las omisiones conocidas en la revisión, efectuada por el Contador Público,
 
 ## TITULO CUARTO. DE LAS FACULTADES Y OBLIGACIONES DE LAS AUTORIDADES FISCALES
 
-### CAPITULO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 73.
 
@@ -1331,7 +1423,9 @@ El personal oficial que intervenga en los diversos trámites relativos a la apli
 
 ## TITULO QUINTO. DE LAS INFRACCIONES, SANCIONES Y DELITOS FISCALES
 
-### CAPITULO SEGUNDO. DELITOS FISCALES
+### CAPITULO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 93.
 
@@ -1671,9 +1765,7 @@ La Secretaría de Hacienda Pública y Tesorería, de conformidad con lo dispuest
 
 El Gobernador del Estado podrá mediante acuerdo expreso establecer fondos con multas no fiscales.
 
-### CAPITULO UNICO. DE LOS RECURSOS ADMINISTRATIVOS
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+### CAPITULO SEGUNDO. DELITOS FISCALES
 
 ###### ARTICULO 106.
 
@@ -1949,7 +2041,9 @@ BIS.- Incurre en desobediencia a mandato legítimo de autoridad competente, quie
 
 ## TITULO SEXTO. DEFENSA JURIDICA DEL PARTICULAR EN MATERIA FISCAL
 
-### CAPITULO PRIMERO. DE LAS NOTIFICACIONES
+### CAPITULO UNICO. DE LOS RECURSOS ADMINISTRATIVOS
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 118.
 
@@ -2151,29 +2245,29 @@ Cuando las pruebas documentales no obren en poder del recurrente, si éste no hu
 
 La autoridad fiscal a petición del recurrente, recabará las pruebas que obren en el expediente en que se haya originado el acto impugnado, siempre que el interesado no hubiese tenido oportunidad de obtenerlas.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 133.
 
-Cuando se alegue que una resolución o acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de actos recurribles se estará a las siguientes reglas:
+Cuando se alegue que una resolución o un acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de actos recurribles se estará a las siguientes reglas:
 
 I.- Si el particular afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer mediante la interposición del recurso administrativo que proceda contra dicho acto, en el que manifestará la fecha en que lo conoció.
 
 En caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen contra la notificación.
 
-II.- Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo ante la autoridad fiscal competente para notificar dicho acto. La citada autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiera practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la autoridad citada dará a conocer el acto y la notificación por estrados.
-
-El particular tendrá un plazo de quince días a partir del siguiente al en que la autoridad se los haya dado a conocer, para ampliar el recurso administrativo, impugnando el acto y su notificación o sólo la notificación.
+II.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2019)
 
 III.- La autoridad competente para resolver el recurso administrativo estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso, se haya hecho del acto administrativo.
 
-IV.- Si se resuelve que no hubo notificación o que fue ilegal, tendrá el recurrente como sabedor del acto administrativo desde la fecha en que manifestó conocerlo o en que se le dio a conocer en los términos de la Fracción II de este artículo, quedando sin efectos todo lo actuado en base a aquélla, y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicho acto.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+V (SIC). Si se resuelve que no hubo notificación o que fue ilegal, se tendrá al recurrente como sabedor del acto administrativo desde la fecha en que manifestó conocerlo quedando sin efectos todo lo actuado en base a aquélla, y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicho acto.
 
 Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, desechará dicho recurso.
 
 ## TITULO SEPTIMO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
-### CAPITULO SEGUNDO. DE LA GARANTIA DEL INTERES FISCAL
+### CAPITULO PRIMERO. DE LAS NOTIFICACIONES
 
 ###### ARTICULO 134.
 
@@ -2205,15 +2299,39 @@ III.- Señalar lugar y fecha de emisión;
 
 IV.- Estar fundado y motivado, y expresar la resolución, objeto o propósito de que se trate;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-V.- Ostentar la firma de servidor público competente; y,
+V.- Ostentar la firma autógrafa o electrónica avanzada del servidor público competente.
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 VI.- El nombre y domicilio de las personas a las que vaya dirigido, cuando se ignore el nombre y/o el domicilio se señalarán los datos suficientes que permitan su identificación o la del lugar o lugares que habrán de inspeccionarse.
 
 Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria, se señalará, además, la causa legal de la responsabilidad.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+Para la emisión y regulación de la firma electrónica avanzada de las autoridades fiscales, serán aplicables las disposiciones previstas en la Ley de Gobierno Electrónico del Estado de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+En los actos administrativos que consten en documentos impresos, el funcionario competente podrá expresar su voluntad para emitir el acto plasmando en el documento impreso un sello expresado en caracteres, generado mediante el uso de su firma electrónica avanzada y amparada por un certificado vigente a la fecha del acto.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+Para dichos efectos, la impresión de caracteres consistente en el sello resultado del acto de firmar con la firma electrónica avanzada amparada por un certificado vigente a la fecha de la resolución, que se encuentre contenida en el documento impreso, producirá los mismos efectos que las Leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+Asimismo, la integridad y autoría del documento impreso que contenga la impresión del sello resultado de la firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución, será verificable mediante el método de remisión al documento original con la clave pública del autor.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+La Autoridad Certificadora establecerá los medios a través de los cuales se podrá comprobar la integridad y autoría del documento señalado en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria se señalará, además, la causa legal de la responsabilidad.
 
 ###### ARTICULO 136.
 
@@ -2238,6 +2356,10 @@ También podrán efectuar en el último domicilio que el interesado haya señala
 Toda notificación personal realizada con quien deba entenderse será legalmente válida, aun cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales. En el caso de las sociedades en proceso de liquidación, cuando se haya nombrado varios liquidadores las notificaciones o diligencias que deban efectuarse con las mismas podrán practicarse válidamente con cualquiera de ellos.
 
 Cuando la notificación sea personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, sea para que lo espere a una hora fija del día hábil siguiente o para que acuda a notificarse dentro del plazo de 3 días a las oficinas de las autoridades fiscales.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+Si el notificador acude al domicilio en cumplimiento al citatorio señalado en el párrafo anterior, y el domicilio se encuentra solo, no encuentra a la persona buscada en el domicilio o si quien lo atiende se niega a recibir el acto a notificar, podrá realizar la notificación mediante instructivo, el cual fijará en lugar visible del domicilio.
 
 Tratándose de actos relativos a procedimientos administrativos de ejecución, el citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperare, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En el caso de que éstos últimos se nieguen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancias para dar cuenta al Jefe de la Oficina Recaudadora.
 
@@ -2267,7 +2389,7 @@ Cuando una notificación se haga en forma distinta a la señalada en los Artícu
 
 La declaración de nulidad de notificaciones, traerá como consecuencia la nulidad de las actuaciones posteriores a la notificación anulada y que tengan relación con ella.
 
-### CAPITULO TERCERO. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
+### CAPITULO SEGUNDO. DE LA GARANTIA DEL INTERES FISCAL
 
 ###### ARTICULO 142.
 
@@ -2283,9 +2405,9 @@ IV.- Obligación solidaria asumida por un tercero que compruebe su idoneidad y s
 
 V.- Embargo en la vía administrativa;
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-La garantía deberá comprender, además de las contribuciones adeudadas, actualizadas, los accesorios causados así como los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este periodo y si no se ha cubierto el crédito deberá actualizar su importe cada año y ampliarse la garantía para que cubra el importe actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
+La garantía deberá comprender, además de las contribuciones adeudadas actualizadas, los accesorios causados, así como los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este periodo y si no se ha cubierto el crédito deberá actualizar su importe cada año y ampliarse la garantía para que cubra el importe actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
@@ -2375,9 +2497,11 @@ Tratándose de fianzas a favor del Gobierno del Estado, otorgada para garantizar
 
 No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de quince días siguientes a la fecha en que surta efectos su notificación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 146.
 
-Cuando el contribuyente hubiera interpuesto en tiempo y forma el recurso administrativo de revocación, el plazo para garantizar el interés fiscal será de cinco meses siguientes a la fecha que surta efectos la notificación del acto.
+Cuando el contribuyente hubiera interpuesto en tiempo y forma el recurso administrativo de revocación, el plazo para garantizar el interés fiscal será de un mes siguientes (sic) a la fecha de su interposición.
 
 Cuando en el medio de defensa se impugnen únicamente algunos de los créditos determinados por el acto administrativo, cuya ejecución fue suspendida, se pagarán los créditos fiscales no impugnados con los recargos correspondientes.
 
@@ -2391,9 +2515,7 @@ No se exigirá garantía adicional si en el procedimiento administrativo de ejec
 
 En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán acudir al Tribunal de Justicia Administrativa del Estado que conozca el juicio respectivo u ocurrir al superior jerárquico de la autoridad ejecutora, si se está tramitando recurso, acompañará los documentos en que conste el medio de defensa hecho valer y el ofrecimiento o, en su caso, otorgamiento de la garantía del interés fiscal. El superior jerárquico aplicará en lo conducente las reglas establecidas por este Código para el citado incidente de suspensión a la ejecución.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+### CAPITULO TERCERO. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
 ###### ARTICULO 147.
 
@@ -2437,11 +2559,11 @@ Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios 
 
 Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación que establece este Código, o el juicio de nulidad respectivo.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 151.
 
-Se suspenderá el procedimiento administrativo de ejecución durante la tramitación del recurso administrativo, cuando lo solicite el interesado y garantice el crédito fiscal de que se trate, los recargos y los accesorios legales. La suspensión podrá ser solicitada en cualquier tiempo ante la autoridad fiscal competente, acompañando copia del escrito con el que se hubiese iniciado el recurso administrativo.
+Se suspenderá el procedimiento administrativo de ejecución durante la tramitación del recurso administrativo, sin la necesidad de la solicitud expresa del recurrente, siempre y cuando el recurrente garantice el crédito fiscal de que se trate, los recargos y los accesorios legales, dentro del plazo establecido en el artículo 146 de este Código.
 
 ###### ARTICULO 152.
 
@@ -2455,7 +2577,9 @@ Las autoridades fiscales para hacer efectivo un crédito fiscal exigible y el im
 
 I. Embargar bienes suficientes para, en su caso, rematarlos, enajenarlos fuera de subasta o adjudicarlos en favor del fisco;
 
-II. A embargar negociaciones con todo lo que de hecho y por derecho les corresponda, a fin de obtener, mediante la intervención de ellas, los ingresos necesarios que permitan satisfacer el crédito fiscal y los accesorios legales.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+II. A embargar negociaciones con todo lo que de hecho y por derecho les corresponda, a fin de obtener, mediante la intervención de ellas, los ingresos necesarios que permitan satisfacer el crédito fiscal actualizado y los accesorios legales.
 
 El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier género se inscribirá en el Registro Público de la Propiedad que corresponda en atención a la naturaleza de los bienes o derechos de que se trate.
 
@@ -2504,6 +2628,10 @@ II.- Acciones, bonos, cupones vencidos, valores mobiliarios y, en general, créd
 III.- Bienes muebles no comprendidos en las fracciones anteriores.
 
 IV.- Bienes inmuebles.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+El monto del embargo sólo podrá ser hasta por el importe del crédito fiscal actualizado y sus accesorios legales que correspondan hasta la fecha en que se practique.
 
 La persona con quien se entienda la diligencia de embargo podrá designar dos testigos, si no lo hiciese o si éstos se negasen a firmar, así lo hará constar el ejecutor en el acta, precediéndolos (sic) a designar el ejecutor dentro de las personas que ahí se encuentren, sin que tales circunstancias afecten la legalidad del embargo.
 
@@ -2791,6 +2919,10 @@ En caso de conflicto, el remanente se depositará en institución de crédito au
 
 ## TITULO OCTAVO. DEL PROCEDIMIENTO CONTENCIOSO
 
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 198.
 
 El conocimiento y resolución del juicio contencioso administrativo local corresponde al Tribunal de Justicia Administrativa del Estado, y el mismo se tramitará y regirá por lo dispuesto en la Ley de Justicia Administrativa para el Estado de Sinaloa.
@@ -3018,3 +3150,19 @@ El Gobierno del Estado de Sinaloa y los Municipios deberán hacer las modificaci
 ###### ARTÍCULO VIGÉSIMO.
 
 Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 436 QUE REFORMA, DEROGA Y ADICIONA, DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA, LA LEY DE COORDINACIÓN FISCAL, LA LEY QUE REGULA LAS CASAS DE EMPEÑO Y EL CÓDIGO FISCAL, TODOS DEL ESTADO DE SINALOA".]
+
+Artículo Primero. La vigencia del presente Decreto será a partir del día siguiente a la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa", excepto lo previsto en el artículo siguiente.
+
+Artículo Segundo. Las reformas a la Ley de Hacienda del Estado de Sinaloa contenidas en el artículo 17 Bis, y el segundo párrafo de la fracción II, del artículo 21 de la misma, entrarán en vigor a partir del día 1 de junio del año 2020. Por única ocasión, la declaración correspondiente al mes de mayo acumulará la relativa a la de los meses de enero, febrero, marzo y abril de dicho año.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
+
+Artículo Cuarto. Dentro de los 30 días siguientes a la entrada en vigor del presente decreto, el Servicio de Administración Tributaria del Estado de Sinaloa, deberá expedir y publicar en el Periódico Oficial "El Estado de Sinaloa", las Reglas de Carácter General para el cumplimiento de registro y pago en las obligaciones inherentes al impuesto sobre nóminas previsto en la Ley de Hacienda del Estado de Sinaloa.
+
+Artículo Quinto. Las obligaciones derivadas de la Ley de Hacienda del Estado de Sinaloa, originadas durante el ejercicio fiscal 2019, deberán cumplirse en las formas y plazos establecidos conforme a las disposiciones vigentes de dicha Ley en ese ejercicio fiscal 2019.
+
+Artículo Sexto. En un plazo no mayor de 180 días contados a partir de la entrada en vigor del presente Decreto, se deberá crear el Padrón de Certificados Electrónicos de Servidores Públicos.
