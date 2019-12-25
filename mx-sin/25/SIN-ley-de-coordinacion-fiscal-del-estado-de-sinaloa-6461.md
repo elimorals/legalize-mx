@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-coordinacion-fiscal-del-estado-de-sinaloa-6461"
 country: "mx"
 rank: "ley"
 publication_date: "1990-01-15"
-last_updated: "2017-12-22"
+last_updated: "2019-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el lunes 15 de enero de 1990.
 
@@ -83,6 +83,10 @@ V. El 22% de la recaudación que del Fondo de Fiscalización y Recaudación corr
 
 VI. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+VII. El 22% del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos.
+
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ARTICULO 3 BIS.- Con el propósito de incentivar la recaudación de (sic) Impuesto Predial y las cuotas por suministro de agua potable y alcantarillado, por parte de los Municipios, se constituye el Fondo Estatal de Participaciones con los recursos propios del Gobierno del Estado que registren un flujo de efectivo, que a continuación se indican:
@@ -98,6 +102,8 @@ En relación a la recaudación de cuotas por suministro de agua potable y alcant
 ARTICULO 3 BIS A.- El Fondo Estatal a que se refiere el artículo 3° Bis de esta Ley, se distribuirá entre los municipios conforme a la siguiente fórmula:
 
 > <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 180 A LA 181.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA EN EL P.O. DE 25 DE DICIEMBRE DE 2019, PÁGINA 29.]</small>
 
 La recaudación a que se refiere este artículo, será la que obtengan anualmente los municipios en los términos que establezca la Comisión Permanente de Tesoreros Municipales y Funcionarios Fiscales, en base a las cifras certificadas por la Auditoría Superior del Estado conforme a las Reglas de Validación de Ingresos Propios y Cuotas por Servicio de Agua Potable autorizadas por la mencionada Comisión Permanente y aprobadas por la Convención Fiscal de los Ayuntamientos del Estado.
 
@@ -146,6 +152,28 @@ La recaudación a que se refiere este artículo, será la que obtengan anualment
 III. El 10% restante, se distribuirá en proporción inversa a las participaciones que tenga cada municipio, éstas son el resultado de la suma de las participaciones a que se refieren las fracciones I y II de este artículo en el ejercicio de que se trate.
 
 Los coeficientes de participación que conforme a las bases anteriores resulten, se revisarán y modificarán anualmente. En tanto que dichos factores no se actualicen se seguirán aplicando provisionalmente los que correspondan al año inmediato anterior.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 4 BIS 1.- Las participaciones a que se refiere el artículo 3-B de la Ley de Coordinación Fiscal, serán distribuidas de conformidad con los montos por Municipio y por Órgano que se reciba por parte de la Secretaría de Hacienda y Crédito Público y que ésta informe a la Secretaría de Administración y Finanzas del Gobierno del Estado de Sinaloa.
+
+Cuando la Secretaría de Hacienda y Crédito Público realice deducciones correspondientes a periodos anteriores, el Estado efectuará la deducción correspondiente al Municipio de que se trate, de ser insuficiente el ingreso del Municipio, el saldo se descontará de las ministraciones siguientes.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 4 BIS 2.- Del Fondo de Estabilización de los Ingresos de las Entidades Federativas previsto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que recibe el Estado para compensar la caída en las Participaciones Federales por concepto del Fondo General de Participaciones y del Fondo de Fiscalización y Recaudación, se distribuirá el 22% a los Municipios en base a las siguientes fórmulas:
+
+> <small>[N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 25 DE DICIEMBRE DE 2019, PÁGINAS DE LA 30 A LA 34.]</small>
+
+La recaudación a que se refieren las anteriores fórmulas, será la que obtengan los Municipios en los términos que establezca la Comisión Permanente de Tesoreros Municipales y Funcionarios Fiscales, en base a las cifras certificadas por la Auditoría Superior del Estado conforme a las Reglas de Validación de Ingresos Propios y Cuotas por Servicio de Agua Potable autorizadas por la mencionada Comisión Permanente y aprobadas por la Convención Fiscal de los Ayuntamientos del Estado.
+
+Los coeficientes de participación que conforme a las bases anteriores resulten, se revisarán y modificarán anualmente. En tanto que dichos factores no se actualicen se seguirán aplicando provisionalmente los que correspondan al año inmediato anterior al en que el Estado reciba dicho Fondo.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 4 BIS 3.- Los Municipios recibirán el 100% de los recursos que el Estado reciba del Fondo de Estabilización de los Ingresos de las Entidades Federativas para compensar la caída de las Participaciones Federales provenientes del Fondo de Fomento Municipal, el cual se distribuirá mediante el siguiente mecanismo:
+
+> <small>[N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 25 DE DICIEMBRE DE 2019, PÁGINAS DE LA 35 A LA 37.]</small>
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -624,3 +652,19 @@ El Gobierno del Estado de Sinaloa y los Municipios deberán hacer las modificaci
 ###### ARTÍCULO VIGÉSIMO.
 
 Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 436 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA, DEROGA Y ADICIONA, DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA, LA LEY QUE REGULA LAS CASAS DE EMPEÑO Y EL CÓDIGO FISCAL, TODOS DEL ESTADO DE SINALOA".]
+
+Artículo Primero. La vigencia del presente Decreto será a partir del día siguiente a la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa", excepto lo previsto en el artículo siguiente.
+
+Artículo Segundo.- Las reformas a la Ley de Hacienda del Estado de Sinaloa contenidas en el artículo 17 Bis, y el segundo párrafo de la fracción II, del artículo 21 de la misma, entrarán en vigor a partir del día 1 de junio del año 2020. Por única ocasión, la declaración correspondiente al mes de mayo acumulará la relativa a la de los meses de enero, febrero, marzo y abril de dicho año.
+
+Artículo Tercero.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
+
+Artículo Cuarto. Dentro de los 30 días siguientes a la entrada en vigor del presente decreto, el Servicio de Administración Tributaria del Estado de Sinaloa, deberá expedir y publicar en el Periódico Oficial "El Estado de Sinaloa", las Reglas de Carácter General para el cumplimiento de registro y pago en las obligaciones inherentes al impuesto sobre nóminas previsto en la Ley de Hacienda del Estado de Sinaloa.
+
+Artículo Quinto. Las obligaciones derivadas de la Ley de Hacienda del Estado de Sinaloa, originadas durante el ejercicio fiscal 2019, deberán cumplirse en las formas y plazos establecidos conforme a las disposiciones vigentes de dicha Ley en ese ejercicio fiscal 2019.
+
+Artículo Sexto. En un plazo no mayor de 180 días contados a partir de la entrada en vigor del presente Decreto, se deberá crear el Padrón de Certificados Electrónicos de Servidores Públicos.
