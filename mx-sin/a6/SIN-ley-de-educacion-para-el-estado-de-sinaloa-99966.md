@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-99966"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-26"
-last_updated: "2019-09-27"
+last_updated: "2019-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 26 de marzo de 2014.
 
@@ -342,6 +342,14 @@ XXXII. Formalizar convenios con la federación, ayuntamientos, sectores producti
 > <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
 
 XXXIII. Respetar íntegramente los derechos adquiridos de los trabajadores de la educación, así como reconocer aquellos adquiridos mediante acuerdos alcanzados a través de convenios, minutas y acuerdos celebrados por el Gobierno del Estado, a través de las instancias respectivas y su organización sindical, que estipulan beneficios laborales, profesionales, salariales y sociales, que no contravengan esta Ley y las Leyes Generales de la materia;
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+En atención a lo previsto en el párrafo anterior, al Acuerdo Nacional para la Modernización de la Educación Básica y al Decreto de creación del organismo Servicios de Educación Pública Descentralizada del Estado de Sinaloa, los trabajadores de la educación jubilados y pensionados federalizados, afiliados al Sindicato Nacional de Trabajadores de la Educación, Sección 27, así como, los trabajadores jubilados y pensionados homologados de educación media superior y superior en la entidad, tienen derecho a percibir un aguinaldo de 65 días de salario de la respectiva cuota diaria de pensión. En virtud de que los trabajadores reciben una parte del aguinaldo a través del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Gobierno del Estado por conducto de los Servicios de Educación Pública Descentralizada del Estado de Sinaloa, cubrirá la diferencia que resulte.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+Quedan excluidos de esta disposición los trabajadores que estén bajo el régimen de cuentas individuales.
 
 > <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2018)</small>
 
@@ -2098,3 +2106,11 @@ El Reglamento de dicha Ley incluirá como mínimo, los lineamientos y reglas de 
 CUARTO. La entrega de los uniformes, calzado deportivo y útiles escolares a que se refiere la Ley para la Dotación Gratuita de Uniformes, Calzado Deportivo y Útiles Escolares del Estado de Sinaloa, aplicará a partir del ciclo escolar 2020-2021.
 
 Para garantizar la entrega de uniformes y útiles escolares del ciclo escolar 2019-2020 se estará a lo dispuesto por el Programa de Uniformes y útiles Escolares emitido por el Poder Ejecutivo del Estado.
+
+P.O. 25 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 366 DEL H. CONGRESO DEL ESTADO.- QUE ADICIONA LOS PÁRRAFOS SEGUNDO Y TERCERO, A LA FRACCIÓN XXXIII, DEL ARTÍCULO 15 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA”.]
+
+Artículo Primero. El presente decreto se publicará en el Periódico Oficial "El Estado de Sinaloa", y entrará en vigor a partir del día primero de enero del año dos mil veinte.
+
+Artículo Segundo. El Ejecutivo y el Congreso del Estado, deberán prever las asignaciones presupuestales dentro de la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa para el ejercicio fiscal de 2020.
