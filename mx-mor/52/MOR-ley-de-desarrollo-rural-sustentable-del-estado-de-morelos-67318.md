@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-rural-sustentable-del-estado-de-morelos-67318
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2019-08-12"
+last_updated: "2019-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de marzo de 2009.
 
@@ -1071,7 +1071,9 @@ I. Tendrán preferencia los pequeños productores y agentes económicos de bajos
 
 II. Se atenderán prioritariamente las zonas con mayor índice de marginación de productores indígenas, mujeres, jóvenes para incorporarlos a la vida productiva y mejorar sus condiciones de vida. La Secretaría de Desarrollo Agropecuario podrá promover, fortalecer y vigilar la creación y operación de entidades financieras locales, regionales, y estatales con carácter de banca social, para impulsar el financiamiento del desarrollo rural;
 
-III. Se apoyarán proyectos productivos rentables, altamente generadores de empleos que promuevan la producción, transformación, industrialización y comercialización, que generen ingresos y mejoren el nivel de vida de los productores del campo;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+III. Se apoyarán proyectos productivos rentables, altamente generadores de empleo, que empleen tecnologías de mitigación y adaptación a los efectos del cambio climático que promuevan la producción, transformación, industrialización y comercialización, que generen ingresos y mejoren el nivel de vida de los productores del campo;
 
 IV. Se impulsará la consolidación de las organizaciones económicas de la entidad a través de apoyos financieros integrales que contemplen capacitación y asistencia técnica especializada, administrativa, operativa y de mercado, en especial en habilidades en desarrollo gerencial;
 
@@ -1636,5 +1638,15 @@ P.O. 12 DE AGOSTO DE 2019.
 PRIMERA.- Aprobado que sea el presente Decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS CUARENTA Y TRES POR EL QUE SE REFORMA LA FRACCIÓN III, DEL ARTÍCULO 84 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS".]
+
+PRIMERA.- Aprobado que sea el presente Decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 TERCERA.- Se derogan todas las disposiciones que se opongan al presente Decreto.
