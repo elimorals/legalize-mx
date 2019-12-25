@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-instituciones-y-procedimientos-electorales-para-10160
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-30"
-last_updated: "2017-12-06"
+last_updated: "2019-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el lunes 30 de junio de 2014.
 
@@ -1275,15 +1275,15 @@ El Instituto Morelense designará a los integrantes del Consejo Estatal y funcio
 
 Dichas comisiones ejecutivas tendrán la obligación de presentar la información al Consejo Estatal que corresponda respecto de la función asignada.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 83.
 
-El Consejo Estatal conformará para el mejor desempeño de sus atribuciones, comisiones ejecutivas, las cuales tendrán como objetivo planear, organizar, dirigir y controlar el desarrollo adecuado de las actividades de las diferentes direcciones y órganos técnicos del Instituto Morelense, de acuerdo a la materia encomendada.
+El Consejo Estatal conformará para el mejor desempeño de sus atribuciones, Comisiones Ejecutivas, las cuales tendrán como objetivo planear, organizar, dirigir y controlar el desarrollo adecuado de las actividades de las diferentes direcciones y Órganos Técnicos del Instituto Morelense, de acuerdo a la materia encomendada.
 
-Las comisiones ejecutivas permanentes con que contará el Consejo Estatal, son las siguientes:
+Las Comisiones Ejecutivas permanentes con que contará el Consejo Estatal, son las siguientes:
 
-I. De Asuntos jurídicos;
+I. De Asuntos Jurídicos;
 
 II. De Organización y Partidos Políticos;
 
@@ -1293,17 +1293,19 @@ IV. De Administración y Financiamiento;
 
 V. De Participación Ciudadana;
 
-VI. De Seguimiento al Servicio Profesional Electoral Nacional,
+VI. De Seguimiento al Servicio Profesional Electoral Nacional;
 
 VII. De Quejas;
 
 VIII. De Transparencia;
 
-IX. De Fiscalización, y
+IX. De Fiscalización;
 
-X. De Imagen y Medios de Comunicación.
+X. De Imagen y Medios de Comunicación; y,
 
-Cuando exista acuerdo delegatorio del Instituto Nacional, se establecerá una Comisión de Fiscalización, que asumirá las funciones contenidas en la normativa aplicable.
+XI. De Fortalecimiento de la Igualdad de Género y No Discriminación en la Participación Política.
+
+Cuando exista Acuerdo Delegatorio del Instituto Nacional, se establecerá una Comisión de Fiscalización, que asumirá las funciones contenidas en la normativa aplicable.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
@@ -1590,6 +1592,40 @@ IV. Elaborar o rendir al Consejo Estatal los informes o dictámenes derivados de
 V. Analizar, discutir, modificar y aprobar el anteproyecto anual del presupuesto de egresos del Instituto que le sea remitido por la Secretaría Ejecutiva para la posterior aprobación por parte del Consejo Estatal, y
 
 VI. Elaborar el proyecto de manual de organización y el catálogo de cargos y puestos de la rama administrativa del Instituto y someterlo para su aprobación al Consejo Estatal.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 91 Bis.
+
+La Comisión de Fortalecimiento de la Igualdad de Género y No Discriminación en la Participación Política, tendrá las siguientes atribuciones:
+
+I. Proponer al Consejo los lineamientos que se requieran para su mejor operatividad;
+
+II. Proponer al Consejo, los Manuales, Lineamientos y Reglamentos necesarios para la promoción de los derechos humanos e igualdad de género;
+
+III. Presentar al Consejo el Dictamen o, en su caso, el informe de los asuntos que conozca;
+
+IV. Revisar la implementación de la perspectiva de género y el enfoque de derechos humanos, en las tareas institucionales;
+
+V. Supervisar las acciones, competencia del Instituto, relativas a la difusión, promoción y formación en materia de derechos humanos y género, dirigidas a los miembros del Servicio Profesional Electoral Nacional y al personal de la Rama Administrativa;
+
+VI. Supervisar los procesos institucionales que favorecen la participación y representación política de las mujeres;
+
+VII. Opinar sobre las publicaciones institucionales en materia de género y derechos humanos;
+
+VIII. Supervisar la implementación de los mecanismos que favorecen una cultura institucional incluyente, no discriminatoria y no sexista en el Instituto;
+
+IX. Opinar respecto del contenido de materiales e instructivos de promoción de la cultura de igualdad de género y no discriminación elaborados por las Direcciones del Instituto;
+
+X. Impulsar el desarrollo de proyectos de investigación y estudios sobre la materia;
+
+XI. Aprobar la estrategia de difusión en medios de comunicación de campañas de sensibilización y prevención de conductas que constituyen violencia política electoral en razón de género;
+
+XII. Impulsar y dar seguimiento a las actividades de vinculación para la suscripción de convenios relacionados con la participación política efectiva de las mujeres, así como con la prevención de la violencia política en razón de género;
+
+XIII. Tener a cargo las relaciones interinstitucionales en materia de Igualdad de Género y No Discriminación entre el Instituto y otras Dependencias u Organizaciones; y,
+
+XIV. Las demás que se señalen en este Código, y en la normatividad aplicable.
 
 ###### Artículo 92.
 
@@ -6040,3 +6076,13 @@ TERCERA. Por única ocasión, la propuesta para ocupar la Titularidad del órgan
 CUARTA. El Tribunal Electoral deberá prever en su proyecto de presupuesto de egresos para el ejercicio fiscal del año 2018, los recursos necesarios que permitan el adecuado funcionamiento del órgano interno de control.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS CUARENTA Y DOS.- POR EL QUE SE REFORMA EL ARTÍCULO 83 Y SE ADICIONA EL ARTÍCULO 91 BIS DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- (SIC) Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
