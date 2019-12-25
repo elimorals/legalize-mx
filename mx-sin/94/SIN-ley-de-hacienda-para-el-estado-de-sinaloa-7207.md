@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2018-10-05"
+last_updated: "2019-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el 15 de noviembre de 1978.
 
@@ -175,15 +175,39 @@ ART. 16.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
 ### CAPITULO III. IMPUESTO SOBRE NOMINAS
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-ART. 17.- Se encuentran obligadas al pago de este impuesto las personas físicas y morales que, aun teniendo su domicilio fuera del Estado, realicen en el mismo, erogaciones en dinero o en especie por concepto de remuneración al trabajo personal subordinado, independientemente de la designación que se le otorgue.
+ART. 17.- Se encuentran obligadas al pago de este impuesto las personas físicas y morales que, aun teniendo su domicilio fuera del Estado, realicen en el mismo, erogaciones en dinero o en especie por concepto de remuneración al trabajo personal subordinado o por concepto de remuneraciones asimiladas a salario subordinado, en los términos de la Ley del Impuesto Sobre la Renta, independientemente de la designación que se le otorgue.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+Se exceptúan del pago del impuesto por concepto de remuneraciones asimiladas a salario, a cualquier ente público Federal, Estatal o Municipal.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 Para los efectos de este impuesto, se considerarán erogaciones destinadas a remunerar el trabajo personal subordinado, los salarios y demás prestaciones que se deriven de una relación laboral y cuando el servicio se preste en otro Estado no se causará este impuesto por los pagos que realicen por estas erogaciones.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-ART. 18. El impuesto sobre nóminas se determinará sobre el monto total de las erogaciones gravadas mensualmente, realizadas por concepto de remuneración al trabajo personal subordinado (base gravable), mediante la aplicación de la tarifa y procedimientos siguientes:
+ART. 17-BIS.- También están obligadas a retener y enterar este impuesto, las personas físicas y morales, las unidades económicas, las asociaciones en participación y los fideicomisos que contraten la prestación de servicios de contribuyentes domiciliados dentro del territorio del Estado o en otra Entidad Federativa, cuya realización genere la prestación de trabajo personal dentro del territorio del Estado. La retención del impuesto se efectuará al contribuyente que preste los servicios contratados, debiendo entregarle la constancia de retención correspondiente durante los quince días siguientes al periodo respectivo.
+
+Las prestadoras de servicios de personal a que se refiere este artículo, informarán mensualmente a la receptora de dicho servicio, el importe de la nómina y el impuesto correspondiente que habrá de retenerse.
+
+Cuando la prestadora de servicios de personal no proporcione la información a que se refiere el párrafo anterior y para la determinación de la retención del impuesto se desconozca el monto de las remuneraciones al trabajo personal realizadas por el contribuyente de que se trate, la retención deberá determinarse aplicando la tasa prevista en la tabla contenida en el artículo 18 del presente Capítulo al valor total de las contraprestaciones efectivamente pagadas por los servicios contratados en el mes que corresponda, sin incluir el Impuesto al Valor Agregado e independientemente de la denominación con que se designen.
+
+La retención del impuesto prevista anteriormente, no libera a los contribuyentes directos de la obligación de presentar la declaración de pago del impuesto prevista en el artículo 21 fracción II de la presente Ley, en la cual podrá acreditar el impuesto que le haya sido retenido en el período correspondiente, y en su caso, cubrir la diferencia del impuesto sobre nóminas que le resulte a su cargo, o bien solicitar la devolución del impuesto correspondiente, en el supuesto de que dicha retención genere un saldo a favor del contribuyente.
+
+Los contribuyentes a que se refiere este artículo deberán solicitar su inscripción en el Registro Estatal de Contribuyentes, como retenedores del Impuesto, así como las prestadoras de servicio.
+
+Para los efectos de este artículo, se entenderá por prestación de servicios, toda obligación de hacer, de no hacer o permitir, asumida por una persona en beneficio de otra; cuando con motivo de la prestación de un servicio se proporcionen bienes o se otorgue su uso o goce temporal al prestatario, y se considerará como ingreso por el servicio o como valor de éste, el importe total de la contraprestación a cargo del prestatario, siempre que sean bienes que normalmente se proporcionen o se conceda su uso o goce con el servicio de que se trate.
+
+Son responsables solidarios del pago de este impuesto, las personas físicas o morales, las unidades económicas, las asociaciones en participación y los fideicomisos que contraten o reciban la prestación del trabajo personal, no obstante el pago se realice por conducto de un tercero.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ART. 18.- La base para el pago de este impuesto tanto de los sujetos directos como de los retenedores, será el monto total de las erogaciones gravadas mensualmente, realizadas por concepto de remuneración al trabajo personal subordinado incluyendo las remuneraciones por honorarios asimilados a salarios o sueldos asimilados a salarios efectuadas a personas que presten servicios a un prestatario, en el supuesto de que los mismos se lleven a cabo en las instalaciones de éste último, o independientemente del lugar en que se presten, mediante la aplicación de la tarifa y procedimientos siguientes:
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 Base gravable mensual
 
@@ -207,11 +231,13 @@ nacional
 
 900,000.01 En adelante 22,800.00 3.00%
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 Sobre el impuesto previsto en este Capítulo no se causará impuesto adicional alguno.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-ART. 19.- Este impuesto se causará en el momento en que se realicen las erogaciones por la prestación del servicio personal subordinado y se pagará mediante declaración, que deberá presentarse ante la Oficina Recaudadora correspondiente al domicilio del contribuyente o ante la Oficina autorizada al efecto. El pago deberá efectuarse mediante declaración bimestral, dentro de los primeros quince días de los meses de marzo, mayo, julio, septiembre, noviembre y enero; por las erogaciones que hubieren sido efectuadas durante el primero, segundo, tercero, cuarto, quinto y sexto bimestre del año; según corresponda.
+ART. 19.- Este impuesto se causará en el momento en que se realicen las erogaciones por la prestación del servicio personal subordinado incluyendo las remuneraciones por honorarios asimilados a salarios o sueldos asimilados a salarios efectuadas a personas que presten servicios a un prestatario y se pagará mediante declaración que deberá presentarse ante la Oficina Recaudadora correspondiente al domicilio del contribuyente (sujeto directo o retenedor) o, en los Centros Autorizados por la Secretaría de Administración y Finanzas para tal efecto. El pago deberá efectuarse mediante declaración mensual, dentro de los primeros diecisiete días del mes de calendario inmediato posterior a aquél en que se efectuaron las erogaciones y/o retenciones; según sea el caso.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
@@ -230,6 +256,10 @@ ART. 21.- Son obligaciones de los contribuyentes de este impuesto además de las
 I.- Solicitar la inscripción en el Padrón de Contribuyentes del Estado ante el Servicio de Administración Tributaria del Estado de Sinaloa;
 
 II.- Presentar las declaraciones correspondientes aun cuando no se hubieren efectuado erogaciones gravadas.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+Los contribuyentes deberán proporcionar anexo a la declaración, la información que se precisará en las Reglas de Carácter General que emita para tal efecto el Servicio de Administración Tributaria del Estado de Sinaloa.
 
 III.- Proporcionar los documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
 
@@ -349,17 +379,17 @@ Los contribuyentes del impuesto de hospedaje, cuando presten servicios bajo el s
 
 ART. 28.- El monto del impuesto se determinará aplicando a la base gravable a que alude el artículo anterior la tasa del 3%.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-ART. 29.- Este impuesto se causará al momento en que se actualice cualquiera de los supuestos a que se refiere el artículo 26 de la presente Ley, y deberá enterarse mediante declaración que presentará el contribuyente en los formatos oficialmente aprobados ante las oficinas autorizadas para ello, dentro de los primeros quince días de cada mes, debiendo contener dichas declaraciones la información y demás datos relativos a las altas y operaciones objeto de este impuesto que se hayan realizado en el mes anterior.
+ART. 29.- Este impuesto se causará al momento en que se actualice cualquiera de los supuestos a que se refiere el artículo 26 de la presente Ley, y deberá enterarse mediante declaración que presentará el contribuyente en los formatos oficialmente aprobados ante las oficinas autorizadas para ello, dentro de los primeros diecisiete días de cada mes, debiendo contener dichas declaraciones la información y demás datos relativos a las altas y operaciones objeto de este impuesto que se hayan realizado en el mes anterior.
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 La obligación de presentar la declaración subsistirá aun cuando no se hayan obtenido ingresos gravados, si no se presenta el aviso de suspensión de actividades.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-Asimismo, aquellas personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras intervengan en el cobro por la prestación de los servicios de hospedaje y en caso de que se cubra a través de ellas lo correspondiente al Impuesto Sobre la Prestación de Servicios de Hospedaje, deberán presentar por sí o a través de sus Representantes Legales a más tardar el día 15 de cada mes, una sola declaración por el total de las contribuciones percibidas en el mes inmediato anterior, en las formas y medios que para tal efecto establezca la Secretaría de Administración y Finanzas de conformidad con lo establecido en el párrafo primero de este artículo.
+Asimismo, aquellas personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras intervengan en el cobro por la prestación de los servicios de hospedaje y en caso de que se cubra a través de ellas lo correspondiente al Impuesto Sobre la Prestación de Servicios de Hospedaje, deberán presentar por sí o a través de sus Representantes Legales a más tardar el día diecisiete de cada mes, una sola declaración por el total de las contribuciones percibidas en el mes inmediato anterior, en las formas y medios que para tal efecto establezca la Secretaría de Administración y Finanzas de conformidad con lo establecido en el párrafo primero de este artículo.
 
 > <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
@@ -503,9 +533,9 @@ Los organismos públicos descentralizados de la Administración Pública Federal
 
 ART. 34 BIS-6. Este impuesto se causará en el momento en que se efectúe el pago o entrega del premio, por los organizadores del evento.
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-ART. 34 BIS-7. Los retenedores a que se refiere el artículo 34 bis-5 de esta Ley, efectuarán el entero del impuesto a más tardar el día 15 del mes siguiente a aquél en que se causó, excepto los casos previstos en el último párrafo del artículo 34 bis-8, presentando para tal efecto declaración ante las oficinas, instituciones o medios electrónicos autorizados en términos del Código Fiscal del Estado de Sinaloa que corresponda al domicilio del organizador del evento y con alguno de los medios de pago autorizados. Dicho pago se considerará definitivo.
+ART. 34 BIS-7.- Los retenedores a que se refiere el artículo 34 bis-5 de esta Ley, efectuarán el entero del impuesto a más tardar el día diecisiete del mes siguiente a aquél en que se causó, excepto los casos previstos en el último párrafo del artículo 34 bis-8, presentando para tal efecto declaración ante las oficinas, instituciones o medios electrónicos autorizados en términos del Código Fiscal del Estado de Sinaloa que corresponda al domicilio del organizador del evento y con alguno de los medios de pago autorizados. Dicho pago se considerará definitivo.
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
@@ -563,9 +593,9 @@ ART. 34 BIS-14. Este impuesto se causa en el momento que se entreguen a los part
 
 ART. 34 BIS-15. No se pagará este impuesto cuando la prestación del servicio a que se refiere este impuesto se realice por organismos o instituciones de enseñanza con reconocimiento de validez oficial de estudios, de asistencia social o de beneficencia, debidamente autorizadas por las Leyes de la materia.
 
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-ART. 34 BIS-16. Los sujetos obligados al pago del impuesto a que se refiere esta Sección, realizarán el pago a más tardar el día 20 del mes siguiente a aquél al que corresponda el pago, presentando para tal efecto declaración ante las oficinas, instituciones o medios electrónicos autorizados en términos del Código Fiscal del Estado de Sinaloa que corresponda al domicilio del organizador del evento y con alguno de los medios de pago autorizados. Dicho pago se considerará definitivo.
+ART. 34 BIS-16.- Los sujetos obligados al pago del impuesto a que se refiere esta Sección, realizarán el pago a más tardar el día diecisiete del mes siguiente a aquél al que corresponda el pago, presentando para tal efecto declaración ante las oficinas, instituciones o medios electrónicos autorizados en términos del Código Fiscal del Estado de Sinaloa que corresponda al domicilio del organizador del evento y con alguno de los medios de pago autorizados. Dicho pago se considerará definitivo.
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
@@ -581,19 +611,75 @@ III. Conservar a disposición de las autoridades fiscales y exhibir cuando se le
 
 ART. 34 BIS-18. El impuesto a que se refiere esta Sección no dará lugar a incrementos en los precios señalados por los contribuyentes, ni se expresará por separado en los billetes, boletos y demás comprobantes que permitan participar en loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN TERCERA. DEL IMPUESTO A LAS EROGACIONES EN JUEGOS CON APUESTAS
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ART. 34 TER (SIC).- Están obligados al pago del impuesto previsto en esta Sección las personas que realicen erogaciones dentro del territorio del Estado de Sinaloa, para participar en juegos con apuestas.
+
+Se entiende como erogaciones para participar en juegos con apuestas, las cantidades que se entreguen a operadores de los establecimientos por concepto de utilización o acceso a las máquinas, así como a los juegos con apuestas y sorteos, cualquiera que sea el nombre con el que se les designe.
+
+Para los efectos de este impuesto, se considera apuesta el monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada deberá ser superior a ésta.
+
+Para los efectos de este impuesto, se incluyen dentro de los juegos con apuestas independientemente del nombre con el que se les designe, aquellos en los que el premio se pueda obtener por la destreza del participante en el uso de máquinas, que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
+
+Igualmente se consideran juegos con apuestas aquellos en los que el participante deba estar presente en el juego, activamente o como espectador, y aquellos juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que el resultado no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante.
+
+Asimismo, quedan comprendidos en los juegos con apuestas, los de apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video o audio o ambos.
+
+Igualmente, quedan comprendidos en los juegos con apuestas, aquellos establecimientos autorizados por autoridad competente, en los que se reciban, capten, crucen o exploten apuestas.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ART. 34 TER-1.- El impuesto se calculará aplicando la tasa del 10% al monto de las erogaciones efectuadas por la persona que participe en juegos con apuestas, ya sean pagos en efectivo, en especie o por cualquier otro medio que permita participar en los mismos.
+
+Las erogaciones a que se refiere el párrafo anterior incluyen la carga y cualquier recarga adicional que se realice mediante tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes o cualquier otro medio que permitan participar en los juegos con apuestas a que se refiere el artículo 34 TER, o el uso o acceso a las máquinas a que se refiere el propio artículo, ya sea que dichos medios o dispositivos se usen en la fecha en que se efectúe el pago o en una posterior.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ART. 34 TER-2.- El impuesto se causará en el momento en que el sujeto pague al operador del establecimiento los montos o contraprestaciones que le permitan participar en dichos juegos con apuestas y hasta por el monto de cada pago que se realice de manera directa o a través de otro usuario distinto.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ART. 34 TER-3.- El operador del establecimiento en el que se realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos recaudará el impuesto para participar en juegos con apuestas al momento de recibir el pago o contraprestación correspondiente, y deberá enterarlo ante las oficinas recaudadoras del Servicio de Administración Tributaria del Estado de Sinaloa, a más tardar el día diecisiete del mes de calendario siguiente a la fecha de su recaudación o el día hábil siguiente si aquel no lo fuere.
+
+Cuando el pago o contraprestación a favor del operador del establecimiento se realice en especie, el contribuyente deberá proveer de recursos en efectivo al operador del establecimiento para que éste pueda recaudar el impuesto. La omisión del contribuyente a lo previsto en este párrafo, no libera al operador de la responsabilidad solidaria prevista en el artículo 34 TER- 6.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ART. 34 TER-4.- El impuesto previsto en esta Sección se causará y pagará con independencia de los impuestos a que se refieren las Secciones Primera y Segunda de este Capítulo.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ART. 34 TER-5.- Los operadores de los establecimientos en los que se realicen los juegos con apuestas o en los que se instalen las máquinas de juegos, además de la obligación de recaudar y enterar el impuesto a que se refiere el artículo 34 TER-3, están obligados a expedir comprobantes por cada contraprestación que cobren, incluyendo la carga y recarga, que otorguen a quienes utilicen las máquinas de juegos, en la que conste expresamente y por separado el importe recaudado.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ART. 34 TER-6.- Serán responsables solidarios del impuesto, además del operador del establecimiento en el que se realicen los juegos y concursos o en los que se instalen las máquinas de juegos, cualquiera de las siguientes personas físicas o morales, cuando no sean ellas quienes reciban los pagos del contribuyente:
+
+I. Las que organicen, administren, exploten o patrocinen los juegos referidos en el artículo 34 TER;
+
+II. Los arrendatarios de los establecimientos en los que se realicen los juegos o concursos a que se refiere el artículo 34 TER;
+
+III. Las que reciban cantidades a fin de permitir a terceros la participación en los juegos objeto del presente impuesto, y
+
+IV. Los propietarios o legítimos poseedores de las máquinas de juegos a que se refiere esta Sección.
+
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO VI. DEL IMPUESTO A CASAS DE EMPEÑO
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 #### SECCIÓN PRIMERA. DE LOS SUJETOS Y EL OBJETO
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 34 BIS-19. Están obligadas al pago del impuesto establecido en este capítulo las personas físicas y morales que, en el territorio del Estado de Sinaloa, en forma habitual o profesional, realicen u oferten al público contrataciones u operaciones de mutuo con interés y garantía prendaria no reguladas por leyes y autoridades financieras, respecto de aquellos bienes dados en prenda que no sean recuperados por el deudor prendario y sean posteriormente enajenados. El impuesto se causará en la fecha en la que el bien dado en prenda se enajene al público en general.
+ART. 34 BIS-19 (SIC). Están obligadas al pago del impuesto establecido en este capítulo las personas físicas y morales que, en el territorio del Estado de Sinaloa, en forma habitual o profesional, realicen u oferten al público contrataciones u operaciones de mutuo con interés y garantía prendaria no reguladas por leyes y autoridades financieras, respecto de aquellos bienes dados en prenda que no sean recuperados por el deudor prendario y sean posteriormente enajenados. El impuesto se causará en la fecha en la que el bien dado en prenda se enajene al público en general.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2016)</small>
-
-### CAPÍTULO VI. DEL IMPUESTO A CASAS DE EMPEÑO
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 #### SECCIÓN SEGUNDA. DE LA BASE GRAVABLE, TASA Y ÉPOCA DE PAGO
 
@@ -755,9 +841,9 @@ En la copia certificada deberá expresarse que su expedición se hace para ser p
 
 IV.- Los certificados de insolvencia.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-### CAPITULO II. COPIAS DE PLANOS, AVALUOS Y TRABAJOS CATASTRALES
+### CAPITULO II. DERECHOS POR LOS SERVICIOS QUE PRESTA EL INSTITUTO CATASTRAL DEL ESTADO DE SINALOA
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -1219,9 +1305,9 @@ el Instituto 0.40
 
 No son sujetos del pago señalado en la fracción VI inciso b), los registros derivados de programas de instituciones federales y estatales, de regularización de la tenencia de la tierra, en su primer registro catastral.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-ART. 38.- Los casos no previstos en esta tarifa serán resueltos por el Instituto Catastral, asimilándolos con alguno de los señalados en ella.
+ART. 38.- Por cualquier otro servicio que proporcione el Instituto Catastral del Estado, no previsto en el presente Capítulo, se cobrará la cantidad correspondiente al valor de .5 de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -1377,6 +1463,10 @@ ART. 41.- La recaudación de los derechos a que se refiere este Capítulo se har
 
 ART. 42.- Las formas oficiales numeradas valoradas utilizables para copias certificadas de actas del Registro Civil serán proporcionadas a las oficinas del Registro Civil por el Servicio de Administración Tributaria del Estado de Sinaloa, quien tendrá a su cargo el resguardo, manejo y control de las mismas.
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ART. 42 BIS.- Cuando se proporcione un nuevo servicio en el Registro Civil, no previsto en el presente Capítulo, para efecto del cobro de los derechos correspondientes, se cobrará la cantidad correspondiente al valor de .5 de la Unidad de Medida y Actualización.
+
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO IV. PUBLICACIONES EN EL PERIODICO OFICIAL
@@ -1481,9 +1571,9 @@ ART. 45.- Las cuotas a que se refiere el Artículo 44 son aplicables únicamente
 
 Toda publicación o suscripción deberá ser pagada previamente en la Oficina Recaudadora correspondiente.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-### CAPITULO V. LEGALIZACION DE TITULOS PROFESIONALES
+### CAPITULO V. LEGALIZACIÓN DE TÍTULOS PROFESIONALES Y RECONOCIMIENTO DE VALIDEZ OFICIAL DE ESTUDIOS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
@@ -1492,6 +1582,10 @@ ART. 46.- Los derechos fiscales de legalización de títulos profesionales se ca
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 El contribuyente podrá hacer el pago de la cuota a que se refiere el párrafo anterior, en la Oficina Recaudadora del Servicio de Administración Tributaria del Estado de Sinaloa que corresponda, debiendo presentar en la Secretaría General de Gobierno, junto con el título cuya legalización se pretenda, el recibo oficial de pago correspondiente que le será devuelto con el título.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ART. 46 BIS.- Por la revalidación anual de autorización o de reconocimiento de validez oficial de estudios, emitida por la autoridad educativa estatal, se cubrirá una vez el valor diario de la Unidad de Medida y Actualización por cada alumno inscrito.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -1587,9 +1681,21 @@ de circulación) 15.00
 
 6.- Para ómnibus 25.00
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-b).- Por reposición de juego de placas por daños que impidan la visibilidad de su contenido, robo, extravío o destrucción:
+7.- Para vehículos unitarios 25.00
+
+todo terreno
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+b).- Por reposición de juegos de
+
+placas que impidan la visibilidad
+
+de su contenido, robo, extravío o
+
+destrucción:
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
@@ -1612,6 +1718,16 @@ Estatal 17.00
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
 5.- Para motocicletas 10.00
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+6.- Para ómnibus 15.00
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+7.- Para vehículos utilitarios 15.00
+
+todo terreno
 
 c).- Por reposición de tarjeta de circulación
 
@@ -1637,6 +1753,12 @@ estatal 16.00
 
 6.- Para ómnibus 16.00
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+7.- Para vehículos utilitarios 16.00
+
+todo terreno
+
 e).- Por la baja de placas 1.00
 
 f).- Por la expedición de cada permiso
@@ -1645,19 +1767,37 @@ para circular sin placas en vehículos
 
 de servicio particular, por día: 0.50
 
-> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-g).- Por la baja definitiva del Registro del Vehículo, de conformidad con el artículo 42 de la Ley de Tránsito y Transportes del Estado de Sinaloa, cuando opere:
+g).- Por la baja definitiva del
+
+Registro del Vehículo, de
+
+conformidad con el artículo 354
+
+de la Ley de Movilidad
+
+Sustentable del Estado de Sinaloa,
+
+cuando opere:
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 1.- Por destrucción o inutilización del vehículo
 
 que impida su circulación 16.00
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 2.- Por cambio del servicio a que estaba destinado 16.00
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 3.- Por cambio en la clase de vehículo que requiera
 
 de placas diferentes 16.00
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 4.- Por requerirse para el registro en otra entidad
 
@@ -1733,13 +1873,17 @@ de pasajeros y carga 1.00
 
 4.- Para servicio exclusivo de turismo 1.50
 
-VIII.- Por cada estudio socio-económico que
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-se efectúe de acuerdo a lo previsto por
+VIII.- Por cada estudio socio-
 
-la Ley de Tránsito y Transportes del
+económico que se efectúe de
 
-Estado 35.00
+acuerdo a lo previsto por la
+
+Ley de Movilidad Sustentable
+
+del Estado de Sinaloa 35.00
 
 IX.- Por cada examen o certificado médico para
 
@@ -1783,13 +1927,15 @@ XIV.- Por la búsqueda de información
 
 ante autoridades fuera del Estado 1.00
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-ART. 49.- Para la aplicación de las multas por violaciones a la Ley de Tránsito y Transportes del Estado, se atenderá a lo dispuesto por dicha ley.
+Para efectos del presente artículo, se entiende por vehículos utilitarios todo terreno, todo aquel vehículo de tres o cuatro ruedas, con motor a gasolina, destinado específicamente para ser utilizado en actividades deportivas, recreativas, turísticas, de seguridad o laborales; y, por motocicleta, el vehículo automotor de dos o más ruedas, independientemente de la denominación que se le otorgue.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-El pago de los derechos a que se refiere este capítulo deberá efectuarse en las fechas y dentro de los plazos establecidos, por la Ley de Tránsito y Transportes del Estado. Cuando la Ley de Tránsito no precise fecha para el pago de los derechos, tratándose de los previstos en la fracción III inciso A) del artículo anterior, deberán cubrirse dentro de los siguientes quince días a la fecha en que se adquiera el vehículo de que se trate. Los demás deberán efectuarse a mas tardar el día treinta y uno de marzo de cada año. El pago fuera de los plazos establecidos en este párrafo, ocasionará la aplicación de las sanciones previstas en el Código Fiscal del Estado.
+ART. 49.- Para la aplicación de las multas por violaciones a la Ley de Movilidad Sustentable del Estado de Sinaloa, se atenderá a lo dispuesto por dicha Ley.
+
+El pago de los derechos a que se refiere este capítulo deberá efectuarse en las fechas y dentro de los plazos establecidos, por la Ley de Movilidad Sustentable del Estado de Sinaloa. Cuando dicha Ley no precise fecha para el pago de los derechos, tratándose de los previstos en la fracción III inciso A) del artículo anterior, deberán cubrirse dentro de los siguientes quince días a la fecha en que se adquiera el vehículo de que se trate. Los demás deberán efectuarse a más tardar el día treinta y uno de marzo de cada año. El pago fuera de los plazos establecidos en este párrafo, ocasionará la aplicación de las sanciones previstas en el Código Fiscal del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2323,7 +2469,7 @@ bienes inmuebles se causarán: 5.00
 
 f).- Por la inscripción de documentos o actas de disolución o liquidación de sociedades mercantiles donde se adjudiquen bienes inmuebles a socios distintos de quienes los hayan aportado o a no socios, se causarán derechos en los términos y con los límites a que se refiere el inciso a) de esta fracción.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
 
 g).- Por la inscripción de documentos o actas donde conste la fusión o escisión de sociedades, se causará un derecho equivalente a 10 veces el valor diario de la Unidad de Medida y Actualización por cada sociedad que se fusione o por cada sociedad que nazca con motivo de la escisión.
 
@@ -2693,13 +2839,9 @@ g). De 9 ejes $ 4.84
 
 h). Por eje excedente a que se refiere el inciso anterior. $ 0.59
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-Cuando por la aplicación de la tarifa anterior se determine una cuota en fracciones de centavos, se ajustará la cuota a la unidad inmediata siguiente si se trata de fracciones superiores a cincuenta centavos y cuando la fracción sea de cincuenta centavos o inferior, el ajuste se hará a la unidad inmediata anterior.
-
-> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+La presente tarifa se actualizará en términos reales a más tardar el día 31 del mes de enero de cada año, tomando como referencia el Índice Nacional de Precios al Consumidor. La tarifa será publicada por la Secretaría de Administración y Finanzas en el Periódico Oficial "El Estado de Sinaloa", la cual empezará a regir a partir del día siguiente al de su publicación.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -3055,13 +3197,9 @@ ART. 78 BIS-5.- Por la búsqueda exhaustiva de información pública del Gobiern
 
 ART. 78 BIS-6.- Cuando en esta Ley se tenga fijado el cobro de algún derecho, por la reproducción de materiales que contengan información pública del Gobierno del Estado de Sinaloa o de sus entidades públicas, no se aplicará la tarifa que señala este Capítulo.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+ART. 78 BIS-7.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2019)
 
-ART. 78 BIS-7.- Por la revalidación anual de autorización o de reconocimiento de validez oficial de estudios, emitida por la autoridad educativa estatal, se cubrirá una vez el valor diario de la Unidad de Medida y Actualización por cada alumno inscrito.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-ART. 78 BIS-8. Cuando por el pago de los derechos contenidos en este Título, se determine una cuota en fracciones de centavos, se ajustará esta a la unidad inmediata siguiente si se trata de fracciones de cincuenta centavos o superior y cuando la fracción sea inferior a cincuenta centavos, el ajuste se hará a la unidad inmediata anterior.
+ART. 78 BIS-8.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2019)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
@@ -3135,6 +3273,10 @@ ART. 78 BIS-10. Los Organismos Descentralizados como personas jurídicas, cuyo o
 
 ART. 78 BIS-11.- El servicio que el Estado preste a nombre de terceros, así como la administración y recaudación de contribuciones que realice a nombre de estos, causarán un derecho en los términos previstos en los Acuerdos y Convenios que para tal efecto se celebren.
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+ART. 78 BIS-12.- Cuando por el pago de los derechos contenidos en este Título, se determine una cuota en fracciones de centavos, se ajustará ésta a la unidad inmediata siguiente si se trata de fracciones de cincuenta centavos o superior y, cuando la fracción sea inferior a cincuenta centavos, el ajuste se hará a la unidad inmediata anterior.
+
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO UNICO
@@ -3183,6 +3325,10 @@ ART. 85.- Igualmente ingresarán como productos los ingresos obtenidos de otras 
 
 ART. 86.- Los recargos por la falta de pago oportuno de créditos fiscales y la indemnización moratoria aplicable en los casos de la prórroga otorgada para el pago de esos créditos, se causarán de acuerdo con las disposiciones de esta Ley e ingresarán como aprovechamientos del erario.
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+
+Así mismo, los gastos y honorarios de ejecución generados por la aplicación del Procedimiento Administrativo de Ejecución previsto en el Código Fiscal del Estado de Sinaloa, ingresarán como aprovechamientos del erario público.
+
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ART. 87.- Las multas impuestas por infracciones a la legislación fiscal se harán efectivas por la autoridad que las impuso y el ingreso se acreditará en la cuenta de multas fiscales.
@@ -3191,13 +3337,9 @@ ART. 87.- Las multas impuestas por infracciones a la legislación fiscal se har�
 
 ART. 88.- Las multas que impongan las autoridades judiciales y administrativas del Estado serán cobradas por la Oficina Recaudadora con jurisdicción en el lugar de residencia de la autoridad que la haya impuesto. Al efecto dicha autoridad comunicará, por oficio, a la Oficina Recaudadora correspondiente la imposición de la multa dentro de los tres días siguientes para que la haga efectiva. En el caso de que la autoridad que impuso la multa o su superior jerárquico o cualquiera otra autoridad competente ordene la suspensión del procedimiento de cobro, la garantía del interés fiscal se otorgará ante la citada Oficina Recaudadora.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+ART. 89.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2019)
 
-ART. 89.- Son rezagos los ingresos por concepto de toda clase de créditos fiscales que se obtengan en su ejercicio posterior a aquél en que debieran haber sido pagados.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-ART. 90.- La denominación "rezagos", no implica cambio de la naturaleza del crédito respectivo. En consecuencia, en la cuenta de rezagos se abrirán las subcuentas necesarias para acreditar el ingreso al concepto específico del crédito fiscal pagado.
+ART. 90.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2019)
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3327,9 +3469,7 @@ c).- Licencias y Servicios de Tránsito.
 
 d).- Registro público de la propiedad y del comercio, con excepción de los derechos por este concepto aplicables a créditos de habilitación o avío, refaccionarios o hipotecarios, otorgados por instituciones de crédito.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-ART. 112.- La tasa adicional del 10% y demás porcentaje que se señala en el artículo precedente, también se aplicará a los "rezagos" derivados de impuestos y derechos que los originen.
+ART. 112.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2019)
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -4264,3 +4404,19 @@ P.O. 5 DE OCTUBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 25 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 436 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA, DEROGA Y ADICIONA, DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA, LA LEY QUE REGULA LAS CASAS DE EMPEÑO Y EL CÓDIGO FISCAL, TODOS DEL ESTADO DE SINALOA”.]
+
+Artículo Primero. La vigencia del presente Decreto será a partir del día siguiente a la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa", excepto lo previsto en el artículo siguiente.
+
+Artículo Segundo. Las reformas a la Ley de Hacienda del Estado de Sinaloa contenidas en el artículo 17 Bis, y el segundo párrafo de la fracción II, del artículo 21 de la misma, entrarán en vigor a partir del día 1 de junio del año 2020. Por única ocasión, la declaración correspondiente al mes de mayo acumulará la relativa a la de los meses de enero, febrero, marzo y abril de dicho año.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
+
+Artículo Cuarto. Dentro de los 30 días siguientes a la entrada en vigor del presente decreto, el Servicio de Administración Tributaria del Estado de Sinaloa, deberá expedir y publicar en el Periódico Oficial "El Estado de Sinaloa”, las Reglas de Carácter General para el cumplimiento de registro y pago en las obligaciones inherentes al impuesto sobre nóminas previsto en la Ley de Hacienda del Estado de Sinaloa.
+
+Artículo Quinto. Las obligaciones derivadas de la Ley de Hacienda del Estado de Sinaloa, originadas durante el ejercicio fiscal 2019, deberán cumplirse en las formas y plazos establecidos conforme a las disposiciones vigentes de dicha Ley en ese ejercicio fiscal 2019.
+
+Artículo Sexto. En un plazo no mayor de 180 días contados a partir de la entrada en vigor del presente Decreto, se deberá crear el Padrón de Certificados Electrónicos de Servidores Públicos.
