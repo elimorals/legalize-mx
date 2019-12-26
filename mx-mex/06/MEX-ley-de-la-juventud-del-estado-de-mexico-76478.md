@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-juventud-del-estado-de-mexico-76478"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-31"
-last_updated: "2016-06-15"
+last_updated: "2019-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Quinta a la Gaceta del Gobierno del Estado de México, el martes 31 de agosto de 2010.
 
@@ -473,7 +473,9 @@ El Consejo estará integrado por:
 
 I.- Un Presidente, que será el titular de la Secretaría de Desarrollo Social del Gobierno del Estado de México
 
-II.- Quince vocales, que serán:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 26 DE DICIEMBRE DE 2019)</small>
+
+II.- Los vocales siguientes:
 
 a) Un representante de la Secretaría General de Gobierno;
 
@@ -487,9 +489,11 @@ e) Un representante de la Secretaría de Salud;
 
 f) Un representante de la Secretaría de Desarrollo Económico;
 
-g) El titular del Instituto Mexiquense de Cultura;
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2019)</small>
 
-h) El titular del Instituto Mexiquense de Cultura Física y Deporte;
+g) Un representante de la Secretaría de Cultura;
+
+h) (DEROGADO, G.G. 26 DE DICIEMBRE DE 2019)
 
 i) El titular del Instituto Mexiquense contra las Adicciones;
 
@@ -613,19 +617,25 @@ b) Acercar a los jóvenes con líderes empresariales, a fin de motivarlos e ince
 
 c) Las demás necesarias, dentro de su ámbito de competencia, para el cumplimiento del objeto de la presente Ley.
 
-VIII. Al Instituto Mexiquense de Cultura le corresponde:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 26 DE DICIEMBRE DE 2019)</small>
+
+VIII. A la Secretaría de Cultura le corresponde:
 
 a) Desarrollar incentivos para que los jóvenes acudan a museos y a cualquier tipo de expresión y exposición artística;
 
 b) Desarrollar un programa especial que abra espacios en museos para la exposición de obras y trabajos de jóvenes artistas y creadores; y
 
-c) Las demás necesarias dentro de su ámbito de competencia, para el cumplimiento del objeto de la presente Ley.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 26 DE DICIEMBRE DE 2019)</small>
 
-IX. Al Instituto Mexiquense de Cultura Física y Deporte le corresponde:
+c) Impulsar de manera anual una campaña que promueva la activación física y el deporte entre los jóvenes; y
 
-a) Impulsar de manera anual una campaña que promueva la activación física y el deporte entre los jóvenes; y
+d) Las demás necesarias dentro de su ámbito de competencia, para el cumplimiento del objeto de la presente Ley.
 
-b) Las demás necesarias dentro de su ámbito de competencia, para el cumplimiento del objeto de la presente Ley.
+IX. (DEROGADO [N. DE E. ESTE PÁRRAFO], G.G. 26 DE DICIEMBRE DE 2019)
+
+a) (DEROGADO, G.G. 26 DE DICIEMBRE DE 2019)
+
+b) (DEROGADO, G.G. 26 DE DICIEMBRE DE 2019)
 
 X. Al Instituto Mexiquense contra las Adicciones le corresponde:
 
@@ -728,3 +738,11 @@ G.G. 15 DE JUNIO DE 2016.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 26 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 121.- POR EL QUE SE REFORMAN EL INCISO G) Y LA FRACCIÓN II DEL ARTÍCULO 26; EL INCISO C), RECORRIÉNDOSE EL ACTUAL EN SU ORDEN Y LA FRACCIÓN VII (SIC), AMBOS DEL ARTÍCULO 31; SE DEROGAN EL INCISO H) DEL ARTÍCULO 26; LOS INCISOS A) Y B), ASÍ COMO LA FRACCIÓN IX DEL ARTÍCULO 31, TODOS DE LA LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
