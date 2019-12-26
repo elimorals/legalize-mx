@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2019-11-26"
+last_updated: "2019-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1635,7 +1635,11 @@ z). De prevención y atención de conflictos laborales; y
 
 z.1). De Atención al Adulto Mayor;
 
-z.2). Las demás que determine el Ayuntamiento, de acuerdo con las necesidades del Municipio.
+> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2019)</small>
+
+z.2) De protección y bienestar animal; y
+
+z.3) Las demás que determine el Ayuntamiento, de acuerdo con las necesidades del Municipio.
 
 II. Serán comisiones transitorias, aquéllas que se designen para la atención de problemas especiales o situaciones emergentes o eventuales de diferente índole y quedarán integradas por los miembros que determine el ayuntamiento, coordinadas por el responsable del área competente.
 
@@ -2577,7 +2581,15 @@ I. Agua potable, alcantarillado, saneamiento y aguas residuales;
 
 II. Alumbrado público;
 
-III. Limpia y disposición de desechos;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.G. 26 DE DICIEMBRE DE 2019)</small>
+
+III. Limpia, recolección, segregada, traslado, tratamiento y disposición final de los residuos sólidos urbanos;
+
+En la recolección segregada, con la finalidad de fomentar la economía circular y promover la valorización de los residuos sólidos urbanos, se observará la siguiente clasificación:
+
+a) Orgánicos
+
+b) Inorgánicos
 
 IV. Mercados y centrales de abasto;
 
@@ -4990,3 +5002,23 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. En un plazo no mayor a noventa días los municipios deberán adecuar la normatividad correspondiente de las Coordinaciones Municipales de Protección Civil para dar cumplimiento a lo previsto en el presente Decreto.
+
+G.G. 26 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 122.- POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 125 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 26 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 123.- POR EL QUE SE ADICIONA EL INCISO Z.2) RECORRIÉNDOSE EL SUBSECUENTE PARA QUEDAR COMO Z.3), DE LA FRACCIÓN I, DEL ARTÍCULO 69 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 235 TER DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO Y SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 6.94 DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
