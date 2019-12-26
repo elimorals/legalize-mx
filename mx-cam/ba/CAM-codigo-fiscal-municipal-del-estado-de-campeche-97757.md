@@ -4,7 +4,7 @@ identifier: "CAM-codigo-fiscal-municipal-del-estado-de-campeche-97757"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-12-24"
-last_updated: "2019-12-11"
+last_updated: "2019-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 24 de diciembre de 2013.
 
@@ -205,7 +205,7 @@ Cuando de conformidad con las disposiciones fiscales se deban realizar operacion
 
 Cuando los contribuyentes o responsables solidarios, no cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizara desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe; además, deberán pagarse recargos en concepto de indemnización al fisco municipal por la falta de pago oportuno.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2019)</small>
 
 Los recargos a que se refiere el párrafo anterior se calcularán aplicando al monto de las contribuciones o de los aprovechamientos actualizados por el período a que se refiere este párrafo, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de actualización de la contribución o aprovechamiento de que se trate. La tasa de recargos para cada uno de los meses de mora será la que resulte de incrementar en 50% a la que mediante Ley fije anualmente el Congreso de la Unión.
 
@@ -2228,5 +2228,13 @@ P.O. 11 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE “SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 14 DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE CAMPECHE”.]
 
 PRIMERO.- El presente decreto entrara en vigor el día primero de enero del año dos mil veinte, previa su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 110 POR EL QUE "SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 14 DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrara en vigor el día 1º de enero del año 2020, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
