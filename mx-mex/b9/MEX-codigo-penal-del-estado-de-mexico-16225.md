@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2019-12-23"
+last_updated: "2019-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE DICIEMBRE DE 2019.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3326,6 +3326,10 @@ En cualquier caso, se procederá inmediatamente al aseguramiento de los animales
 ###### Artículo 235 Ter.
 
 A quien cause la muerte no inmediata, utilizando cualquier medio que prolongue la agonía de cualquier animal que no constituya plaga, se le impondrá una pena de seis meses a tres años de prisión y de cien a doscientos días multa.
+
+> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2019)</small>
+
+Las penas contenidas en este capítulo se incrementarán hasta en una mitad cuando el maltrato animal sea cometido por servidores públicos que tengan por encargo el manejo de animales.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
 
@@ -7060,3 +7064,15 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+
+G.G. 26 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 123.- POR EL QUE SE ADICIONA EL INCISO Z.2) RECORRIÉNDOSE EL SUBSECUENTE PARA QUEDAR COMO Z.3), DE LA FRACCIÓN I, DEL ARTÍCULO 69 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 235 TER DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO Y SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 6.94 DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
