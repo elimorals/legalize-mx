@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2018-09-17"
+last_updated: "2019-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE DICIEMBRE DE 2019.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -7617,6 +7617,10 @@ III. Arresto inconmutable de treinta y seis horas y multa de mil a dos mil quini
 
 Cuando las infracciones hayan sido cometidas por personas que ejerzan entrenamientos profesionales, tengan cargos de dirección en instituciones científicas o directamente vinculadas con la explotación y cuidado de los animales víctimas de maltrato o se trate de propietarios de vehículos exclusivamente destinados al transporte de éstos, la multa será de cincuenta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente sin perjuicio de las demás sanciones que proceden conforme a otras leyes.
 
+> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2019)</small>
+
+Las sanciones contenidas en este capítulo se incrementarán hasta en una mitad cuando el maltrato animal sea cometido por servidores públicos que tengan por encargo el manejo de animales.
+
 ###### Artículo 6.
 
 95. La autoridad correspondiente, fundará y motivará la resolución en la que se imponga una sanción tomando en cuenta los siguientes criterios:
@@ -8056,3 +8060,15 @@ DÉCIMO NOVENO. El Manual de funcionamiento del Análisis de Impacto Regulatorio
 VIGÉSIMO. El Catálogo Estatal de Regulaciones, Trámites y Servicios iniciará su funcionamiento dentro de un plazo de un año, a partir de la entrada en vigor de la Ley para la Mejora Regulatoria del Estado de México y sus Municipios.
 
 VIGÉSIMO PRIMERO. Se abroga la Ley para la Mejora Regulatoria del Estado de México y Municipios, publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, en fecha 6 de septiembre del 2010, a través del Decreto número 148, sin perjuicio de lo previsto en los transitorios anteriores.
+
+G.G. 26 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 123.- POR EL QUE SE ADICIONA EL INCISO Z.2) RECORRIÉNDOSE EL SUBSECUENTE PARA QUEDAR COMO Z.3), DE LA FRACCIÓN I, DEL ARTÍCULO 69 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 235 TER DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO Y SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 6.94 DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
