@@ -1,0 +1,42 @@
+---
+title: "LEY DE INGRESOS PARA EL MUNICIPIO DE SAN MARTIN TEXMELUCAN, PUEBLA, PARA EL EJERCICIO FISCAL 2020"
+identifier: "PUE-ley-de-ingresos-para-el-municipio-de-san-martin-texmelucan-143356"
+country: "mx"
+rank: "ley_de_ingresos"
+publication_date: "2019-12-26"
+last_updated: "2019-12-26"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143356&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-pue"
+scjn_id: "143356"
+scjn_status: "NO VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "18 TERCERA SECCION"
+reform_count: "0"
+scjn_last_update: "2019-12-26"
+issue_date: "2019-12-16"
+municipality: "San Martín Texmelucan"
+municipality_inegi: "21132"
+state: "PUE"
+---
+# LEY DE INGRESOS PARA EL MUNICIPIO DE SAN MARTIN TEXMELUCAN, PUEBLA, PARA EL EJERCICIO FISCAL 2020
+
+LEY DE INGRESOS PARA EL MUNICIPIO DE SAN MARTÍN TEXMELUCAN, PUEBLA, PARA EL EJERCICIO FISCAL 2020
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el jueves 26 de diciembre de 2019.
+
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+
+(NOTA: EL 19 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 87/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+###### ARTÍCULO 18.
+
+Los derechos por el alumbrado público, se causarán anualmente y (sic) pagaran bimestralmente, aplicándole a la base que se refiere la Ley de Hacienda Municipal del Estado, las tasas siguientes:
+
+a) Usuarios de la tarifa 1,2 y 3. 6.5%
+
+b) Usuarios de la tarifa OM, HM, HS y HSL. 2%
