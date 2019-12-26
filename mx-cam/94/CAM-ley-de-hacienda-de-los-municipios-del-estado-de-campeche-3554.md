@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "2019-12-11"
+last_updated: "2019-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -1225,9 +1225,121 @@ Es objeto de este derecho la prestación de servicios que proporcionen las autor
 
 Son sujetos de este derecho, quienes hagan uso de los servicios mencionados en los dos artículos anteriores.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 74.
 
-(DEROGADO, P.O. 11 DE DICIEMBRE DE 2019)
+Los derechos por servicios que prestan las autoridades de tránsito de los municipios se pagarán en la tesorería municipal, y/o lugar que esta determine se causarán al equivalente a la unidad de medida y actualización vigente en el Estado conforme a la siguiente:
+
+T AR I FA
+
+G R U P O S 1 2 3
+
+I.- Por juego de placas de circulación, incluyendo calcomanía y tarjeta de circulación del año:
+
+A. Para automóviles de servicio particular o privado 13.5
+
+B. Para automóviles de alquiler de servicio público local 13.5
+
+C. Para camión o vehículo de carga de servicio
+
+particular o privado 13.5
+
+D. Para camión o vehículo de carga de
+
+servicio público local 13.5
+
+E. Para autobús o camión de pasajeros
+
+de servicio particular o privado 13.5
+
+F. Para autobús o camión de pasajeros de
+
+servicio público local 13.5
+
+G. Para demostración y para vehículos
+
+propiedad de empresas arrendadoras 20
+
+H. Para motocicletas o motonetas 4.5
+
+l. Para bicicletas 1.15
+
+J. Por reposición de placas se cubrirá la misma
+
+cuota que corresponda de acuerdo con los sub
+
+incisos que anteceden. Si es por extravío o
+
+robo, deberá comprobarse haber denunciado
+
+previamente el hecho ante la autoridad competente.
+
+II.- Por otros servicios de tránsito
+
+A. Permisos para que transiten vehículos sin
+
+placas hasta por quince días 20
+
+B. Por expedición de licencias para conducir
+
+que tendrán vigencia de tres años.
+
+a). Para automovilistas 5
+
+b). Para chofer 7
+
+c). Para motociclistas 4
+
+d). Para automovilistas de servicio público 17
+
+e). Para chofer de servicio público 17
+
+f). Para Motocicletas de servicio público 7
+
+C. Por expedición de licencias para conducir
+
+que tendrán vigencia de seis años.
+
+a). Para automovilistas 10
+
+b). Para chofer 14
+
+c). Para motociclistas 8
+
+d). Para automovilistas de servicio público 34
+
+e). Para chofer de servicio público 34
+
+f). Para Motocicletas de servicio público 14
+
+D. Permiso para práctica de manejo sin
+
+licencia, hasta por quince días 20
+
+E. Por la reposición de tarjeta de circulación 2
+
+F. Por refrendo anual de placas, que incluye
+
+calcomanía y tarjeta de circulación 3.5
+
+G. Por refrendo anual de placas, que incluye
+
+calcomanía y tarjeta de circulación para
+
+motocicletas, cuatrimotos, motonetas, trimotos
+
+o similares. 1
+
+III.- Las cuotas que anteceden se efectuarán en las oficinas autorizadas al efecto.
+
+El plazo para el pago de canje de placas de circulación y del refrendo anual a que se refiere la fracción I apartado A, B, C, D, E, F, H y fracción II apartado E y F, deberá realizarse durante el primer trimestre del año. En los demás casos dentro de los quince días hábiles siguientes a la adquisición del vehículo.
+
+Las placas de circulación tendrán una vigencia de tres años considerando el año de canje correspondiente, subsistiendo la obligación de refrendarlas anualmente.
+
+El plazo para el canje de placas de circulación a que se refiere la fracción I apartado I, deberá de realizarse de forma anual durante el primer trimestre del año.
+
+IV.- Para los efectos de la fracción I, previo a la solicitud de estas contraprestaciones será requisito indispensable que los contribuyentes acrediten haber cumplido con las contribuciones en materia vehicular y no tener adeudos derivadas de multas administrativas por sanciones e infracciones de tránsito y control vehicular previstas en los artículos 129 y 130 de la Ley de Vialidad, Tránsito y Control Vehicular del Estado de Campeche, y su reglamento.
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2019)</small>
 
@@ -2863,8 +2975,16 @@ TERCERO.- En un término de 120 días contados a partir de la entrada en vigor d
 
 P.O. 11 DE DICIEMBRE DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO NUMERO 105 DEL H. AYUNTAMIENTO DEL MUNICIPIO DE PALIZADA, POR EL CUAL SE APRUEBA LA INICIATIVA PARA DEROGAR EL ARTICULO 74 Y ADICIONAR EL ARTÍCULO 74-BIS DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE; Y DE REFORMAR EL PÁRRAFO SEGUNDO DEL ARTICULO 14 DEL CÓDIGO FISCAL DEL ESTADO DE CAMPECHE”.]
+## [N. DE E. TRANSITORIOS DEL "ACUERDO NUMERO 105 DEL H. AYUNTAMIENTO DEL MUNICIPIO DE PALIZADA, POR EL CUAL SE APRUEBA LA INICIATIVA PARA DEROGAR EL ARTICULO 74 Y ADICIONAR EL ARTÍCULO 74-BIS DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE; Y DE REFORMAR EL PÁRRAFO SEGUNDO DEL ARTICULO 14 DEL CÓDIGO FISCAL DEL ESTADO DE CAMPECHE".]
 
 PRIMERO.- El presente decreto entrara en vigor el día primero de enero del año dos mil veinte, previa su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 110 POR EL QUE “SE REFORMA EL ARTÍCULO 74 DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrara en vigor el día 1° de enero del año 2020, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
