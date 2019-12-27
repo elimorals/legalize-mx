@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-177-de-instituciones-y-procedimientos-101678"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2017-05-25"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Número 52 Sección I del Boletín Oficial del Estado de Sonora, el lunes 30 de junio de 2014.
 
@@ -53,13 +53,11 @@ Las disposiciones de la presente Ley son de orden público y de observancia gene
 
 Para el desempeño de sus funciones, las autoridades electorales previstas en la presente Ley, contarán con el apoyo y colaboración de las autoridades estatales y municipales.
 
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 3.
 
-Los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y probidad serán rectores de la función electoral, como lo dispone la Constitución Federal, la Constitución Local y la Ley General.
-
-> <small>(REFORMADO, B.O. 25 DE MAYO DE 2017)</small>
-
-En los casos de esta Ley donde no haya disposición expresa, reglas o criterios específicos o únicos, se podrá interpretar de forma gramatical, sistemática y funcional.
+Los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y probidad serán rectores de la función electoral, como lo dispone la Constitución Federal, la Constitución Local y la Ley General, todo lo anterior, con perspectiva de género.
 
 ###### Artículo 4.
 
@@ -1227,6 +1225,12 @@ El Instituto Estatal contará con un contralor general que será designado por e
 
 El patrimonio del Instituto Estatal se integra con los bienes muebles e inmuebles, inversiones, rendimientos financieros y otros ingresos que se destinen al cumplimiento de su objeto y fines, así como con el presupuesto que para dicho organismo autorice, anualmente, el Congreso del Estado.
 
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 108 Bis.
+
+Está prohibido incluir dentro del presupuesto Anual de Egresos del Instituto Estatal Electoral y de Participación Ciudadana, la contratación de un seguro de vida o de gastos médicos privado para sus servidores públicos, salvo que, por motivo de sus condiciones generales de trabajo u otro instrumento obligatorio, hayan convenido con sus trabajadores otorgar dicha prestación.
+
 ### CAPÍTULO II. De los fines y funciones del Instituto Estatal
 
 ###### Artículo 109.
@@ -1319,9 +1323,11 @@ Sección A
 
 Del Consejo General
 
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 114.
 
-El Consejo General es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral y de participación ciudadana, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad, guíen todas las actividades del Instituto Estatal.
+El Consejo General es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral y de participación ciudadana, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad, guíen todas las actividades del Instituto Estatal con perspectiva de género.
 
 > <small>(REFORMADO, B.O. 25 DE MAYO DE 2017)</small>
 
@@ -1855,7 +1861,9 @@ De las comisiones permanentes y especiales
 
 El Consejo General integrará las comisiones temporales que considere necesarias para el desempeño de sus atribuciones, las que siempre serán presididas por un Consejero Electoral.
 
-Independientemente de lo señalado en el párrafo anterior, las comisiones de: Educación Cívica y Capacitación Electoral; Organización Electoral; de Seguimiento al Servicio Profesional Electoral Nacional, de Vinculación con el Instituto Nacional, así como la de Denuncias, funcionarán permanentemente, sesionarán mínimamente cada dos meses y se integrarán exclusivamente por consejeros electorales designados por el Consejo General, a propuesta de la Presidencia por el voto de cuando menos 5 de sus integrantes. Los consejeros electorales podrán participar hasta en tres de las comisiones antes mencionadas, con independencia de las comisiones temporales, por un periodo de tres años en igualdad de condiciones y de manera equitativa; la presidencia de tales comisiones será rotativa en forma anual entre sus integrantes.
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Independientemente de lo señalado en el párrafo anterior, las comisiones de: Educación Cívica y Capacitación Electoral; Organización Electoral; de Seguimiento al Servicio Profesional Electoral Nacional, de Vinculación con el Instituto Nacional, de Denuncias, así como de Paridad e Igualdad de Género, funcionarán permanentemente, sesionarán mínimamente cada dos meses y se integrarán exclusivamente por consejeros electorales designados por el Consejo General, a propuesta de la Presidencia por el voto de cuando menos 5 de sus integrantes. Los consejeros electorales podrán participar hasta en tres de las comisiones antes mencionadas, con independencia de las comisiones temporales, por un periodo de tres años en igualdad de condiciones y de manera equitativa; la presidencia de tales comisiones será rotativa en forma anual entre sus integrantes.
 
 El Consejo General designará, dentro de los cinco días siguientes a la nueva integración de consejeros, del año previo al de la elección a las comisiones permanentes, sus integrantes y el consejero electoral que la presidirá.
 
@@ -1893,9 +1901,21 @@ II.- Dirección Ejecutiva de Asuntos Jurídicos;
 
 III.- Dirección Ejecutiva de Educación Cívica y Capacitación;
 
-IV.- Dirección Ejecutiva de Fiscalización; y
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-V.- Dirección Ejecutiva de Organización y Logística Electoral.
+IV.- Dirección Ejecutiva de Fiscalización;
+
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+V.- Dirección Ejecutiva de Organización y Logística Electoral. El Estatuto del servicio profesional electoral será emitido por el Instituto Nacional, conforme a lo dispuesto en la Ley General; y
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+VI.- Dirección Ejecutiva de Paridad e Igualdad de Género; misma que, en coordinación con la Dirección ejecutiva de Educación Cívica y Capacitación desarrollará por lo menos las siguientes funciones:
+
+A) Realizar campañas de información para la prevención y erradicación de la violencia política por razón de género; y
+
+B) Capacitar al personal que labora en el Instituto, organismos públicos locales e integrantes de mesas directivas de casillas para prevenir y erradicar la violencia política de género, así como en igualdad sustantiva.
 
 El Estatuto del servicio profesional electoral será emitido por el Instituto Nacional, conforme a lo dispuesto en la Ley General.
 
@@ -4273,6 +4293,10 @@ La retribución de los magistrados será establecida en el presupuesto de egreso
 
 El Tribunal Estatal, disfrutará de las franquicias postales dentro de la Entidad, que sean necesarias para el desarrollo de sus actividades.
 
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Está prohibido incluir dentro del presupuesto Anual de Egresos del Tribunal Estatal, la contratación de un seguro de vida o de gastos médicos privado para sus servidores públicos, salvo que, por motivo de sus condiciones generales de trabajo u otro instrumento obligatorio, hayan convenido con sus trabajadores otorgar dicha prestación.
+
 ###### Artículo 308.
 
 El magistrado presidente será designado por votación mayoritaria de los magistrados del propio Tribunal Estatal y durará en su encargo 3 años. La presidencia del Tribunal será rotatoria.
@@ -5164,3 +5188,27 @@ El Consejo General del Instituto Estatal Electoral y de Participación Ciudadana
 ###### ARTÍCULO CUARTO.
 
 Por única ocasión, lo dispuesto en el artículo 121, fracción XV del presente Decreto se realizará a más tardar el 30 de julio del año 2018.
+
+B.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 91, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, DE LA LEY DE HACIENDA DEL ESTADO, DE LA LEY DE TRÁNSITO DEL ESTADO DE SONORA, DE LA LEY DE BIENES Y CONCESIONES, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, DE LA LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE SONORA Y DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 01 de enero de 2020, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para que la Secretaría de Hacienda del Estado de Sonora, esté en posibilidades de dar cabal cumplimiento a lo dispuesto en los artículos 17, párrafo segundo de la Ley de Tránsito del Estado de Sonora y 316, párrafos tercero, cuarto y quinto de la Ley de Hacienda del Estado, deberá realizar el proceso de contratación sujetándose a lo previsto en el artículo 25 de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal. Debiendo cubrir el pago de la póliza de seguro de responsabilidad civil en el mes de enero del 2020, para que los ciudadanos obtengan el beneficio planteado en los artículos señalados de las leyes de Tránsito del Estado de Sonora y de Hacienda del Estado, a partir del primer minuto del primer día de dicho año.
+
+B.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 82, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA Y EL CÓDIGO PENAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
