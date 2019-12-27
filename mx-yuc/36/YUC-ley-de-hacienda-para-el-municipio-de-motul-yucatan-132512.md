@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-motul-yucatan-132512"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-29"
-last_updated: "2018-12-29"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MOTUL, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Suplemento II al Número 33,762 del Diario Oficial del Estado de Yucatán, el sábado 29 de diciembre de 2018.
 
@@ -403,23 +403,7 @@ VIII.- Proporcionar con veracidad los datos que requiera la Tesorería Municipal
 
 IX.- Cumplir con las obligaciones fiscales, en la forma y términos que señala la presente ley.
 
-X.- Realizar los pagos de acuerdo a las siguientes tarifas:
-
-1 a 50 m2 $165.00
-
-51 a 100 m2 $330.00
-
-101 a 200 m2 $440.00
-
-201 a 400 m2 $550.00
-
-401 a 800 m2 $880.00
-
-801 a 1000 m2 $1,100.00
-
-1,001 a 2000 m2 $2,200.00
-
-2,001 m2 en Adelante $1.65 por m2 (Sin exceder $11,000.00)
+X.- (DEROGADA, D.O. 27 DE DICIEMBRE DE 2019)
 
 DE LAS LICENCIAS DE FUNCIONAMIENTO
 
@@ -535,33 +519,57 @@ Lo dispuesto en el párrafo anterior, no se aplicará a los contribuyentes que a
 
 DE LA TARIFA
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 47.
 
 Cuando la base del impuesto predial sea el valor catastral del inmueble, el impuesto se determinará multiplicando la tasa del .15 % en los términos de lo dispuesto en la Ley General de Hacienda para los Municipios del Estado de Yucatán.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], D.O. 27 DE DICIEMBRE DE 2019)</small>
+
 I.- Por predios Urbanos y rustico, con o sin construcción.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 27 DE DICIEMBRE DE 2019)</small>
 
 1.- Tablas de valores unitarios de terrenos en UMAS
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 23 A LA 24.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, D.O. 27 DE DICIEMBRE DE 2019, PÁGINAS DE LA 12 A LA 14.]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 27 DE DICIEMBRE DE 2019)</small>
+
 EN EL CASO DE LOS PREDIOS CUYO VALOR CATASTRAL ES IGUAL O INFERIOR A 62 UMAS SE PAGARÁ UN MINIMO DE 0.70 UMAS DE IMPUESTO.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 27 DE DICIEMBRE DE 2019)</small>
 
 2.- VALORES UNITARIOS DE CONSTRUCCIÓN.
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 24 A LA 25.]</small>
 
-VALORES DE PREDIOS RUSTICOS POR HECTAREA, EN UMAS.
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, D.O. 27 DE DICIEMBRE DE 2019, PÁGINAS DE LA 14 A LA 16.]</small>
 
-COLINDANCIA CON CARRETERAS. 18 POR HECTAREA
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
-COLINDANCIA CON CAMINO BLANCO 14 POR HECTAREA
+VALORES DE PREDIOS RÚSTICOS POR HECTAREA, EN UMAS.
 
-COLINDANCIA CON BRECHA 10 POR HECTAREA
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+COLINDANCIA CON CARRETERAS. 100 UMAS POR HECTÁREA
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+COLINDANCIA CON CAMINO BLANCO 70 UMAS POR HECTÁREA
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+COLINDANCIA CON BRECHA 50 UMAS POR HECTÁREA
 
 EN EL CASO DE PREDIOS CUYO VALOR CATASTRAL ES IGUAL O INFERIOR A 150 UMAS, ESTOS PAGARAN EL EQUIVALENTE A 0.55 UMAS DE IMPUESTO PREDIAL.
 
 DEL PAGO
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 48.
 
@@ -1118,6 +1126,22 @@ XVI.- Autorización de instalación subterránea o aérea de ductos o conductore
 XVII.- Autorización de instalación de antenas en inmuebles o mobiliario urbano; 200 UMAS por antena.
 
 XVII (SIC).- Permiso por construcción de fraccionamientos 0.50 UMAS por metro cuadrado.
+
+> <small>(ADICIONADA [N. DE E. CON SUS APARTADOS], D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+XVIII.- Adicionalmente a los derechos y permisos ya establecidos en el presente artículo, cuando se trate de desarrollos inmobiliarios y fraccionamientos se deberán pagar los derechos siguientes:
+
+A. Revisión previa de proyecto de lotificación de fraccionamientos
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 27 DE DICIEMBRE DE 2019, PÁGINAS DE LA 16 A LA 17.]</small>
+
+B. Licencia de urbanización por servicios básicos
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 27 DE DICIEMBRE DE 2019, PÁGINA 17.]</small>
+
+C. Autorización de la Constitución de Desarrollo Urbano
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 27 DE DICIEMBRE DE 2019, PÁGINAS DE LA 17 A LA 18.]</small>
 
 DE LAS EXENCIONES
 
@@ -2446,3 +2470,13 @@ Secretaria general de Gobierno, encargada del Despacho del Gobernador, conforme 
 Lic. Olga Rosas Moya
 
 Secretaria de Administración y Finanzas, en funciones de secretaria general de Gobierno, conforme al artículo 18 del Código de la Administración Pública de Yucatán
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 152/2019 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CHICXULUB PUEBLO, CHOCHOLÁ, DZIDZANTÚN, MOTUL, SACALUM, TEKAX, TEMAX, TIZIMÍN, TZUCACAB Y UMÁN”.]
+
+Artículo primero.- Este Decreto entrará en vigor el día primero de enero del año 2020, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo.- En cuanto a la Ley de Hacienda para el Municipio de Motul, Yucatán, en el ejercicio fiscal 2020, el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder de un 10 % del que le haya correspondido durante el ejercicio fiscal 2019 para los predios cuyo valor catastral sea menor o igual a $ 350,000.00 y para los predios cuyo valor catastral sea mayor a $350,000.00, el impuesto predial no podrá exceder de un 15 % del que le haya correspondido durante el ejercicio fiscal 2019. El comparativo se hará con base en el impuesto principal, sin tomar en consideración bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
