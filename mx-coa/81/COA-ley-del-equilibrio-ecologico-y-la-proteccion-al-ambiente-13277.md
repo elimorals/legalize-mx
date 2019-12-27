@@ -4,7 +4,7 @@ identifier: "COA-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-13277"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "2019-12-20"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
@@ -635,11 +635,17 @@ VI.- La realización de acciones operativas tendientes a cumplir con los fines p
 
 VII.- La realización de acciones para la vigilancia del cumplimiento de las disposiciones de la LGEEPA.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 13.
 
 El Ejecutivo del Estado y las autoridades competentes de los municipios podrán celebrar acuerdos de coordinación para la realización de acciones conjuntas en materia de educación, conservación y desarrollo ecológico y protección al ambiente.
 
-Así mismo, podrán suscribir convenios de concertación con los sectores social y privado, para los efectos citados en el párrafo anterior.
+Los ayuntamientos podrán suscribir convenios de coordinación con el Estado a través de la Secretaría, para que asuman la función relativa a la evaluación del impacto ambiental, cuando este se requiera para conjuntos habitacionales, fraccionamientos y nuevos centros de población. Dichos convenios serán publicados en el Periódico Oficial del Gobierno del Estado.
+
+Los municipios deberán informar a la Secretaría, dentro de los cinco días hábiles siguientes, los trámites que realicen derivados del ejercicio de las funciones asumidas en virtud de los convenios de coordinación a que se refiere el párrafo anterior.
+
+El Estado y los municipios podrán suscribir convenios de concertación con los sectores social y privado, para los efectos citados en el párrafo primero.
 
 ###### ARTICULO 14.
 
@@ -3264,3 +3270,15 @@ P.O. 20 DE DICIEMBRE DE 2019.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 495.- SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 4, EL ARTÍCULO 13, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 33 Y LA FRACCIÓN VI DEL ARTÍCULO 158; Y SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 158, Y LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 191, DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONAN LOS PÁRRAFOS TERCEROS (SIC) Y CUARTO AL ARTÍCULO 8, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y SE REFORMA EL ARTÍCULO 13, DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
