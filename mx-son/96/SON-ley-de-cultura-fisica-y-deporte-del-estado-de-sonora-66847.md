@@ -4,7 +4,7 @@ identifier: "SON-ley-de-cultura-fisica-y-deporte-del-estado-de-sonora-66847"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-16"
-last_updated: "2019-12-02"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el lunes 16 de febrero de 2009.
 
@@ -709,11 +709,31 @@ IV.- Los demás que para cada caso establezca el reglamento de esta ley.
 
 La Comisión en el término de 30 días deberá proporcionar las constancias y documentos de inscripción correspondientes, a quienes satisfagan los requisitos señalados en el artículo anterior.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+## TÍTULO TERCERO BIS. Del Fondo Para el Fomento del Deporte
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Artículo 56 BIS 1.- El Poder Ejecutivo del Estado en término (sic) de las disposiciones que resulten aplicables, con la participación de los sectores públicos, privados y sociales, creará un Fondo para el fomento del deporte.
+
+Dicho fondo, tendrá como objetivo principal, el atraer recursos financieros y en especie, que permitan el buen desarrollo y funcionamiento del Programa Estatal.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Artículo 56 BIS 2.- El Fondo se integrará con los recursos que para tal efecto se determinen en el Presupuesto de Egresos del Estado de Sonora para el ejercicio fiscal correspondiente, conforme a la disponibilidad presupuestal, así como con los recursos que promueva y se allegue por cualquier medio lícito, con el apoyo de la participación privada y social, conforme a este Ley y el reglamento.
+
+Las aportaciones que personas físicas o morales realicen al Fondo, serán deducibles de impuestos en los términos que se establezcan para tal efecto en la legislación aplicable.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Artículo 56 BIS 3.- Para el funcionamiento del Fondo, la Comisión junto con la Secretaría de Hacienda, establecerán las reglas de operación, procurando impactar en la totalidad de los municipios del Estado, así como el mayor rendimiento de los recursos disponibles a través de la mezcla de recursos con otras instancias.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Artículo 56 BIS 4.- Para la aplicación de los recursos que integran el Fondo, se deberá sujetar a lo previsto en la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Sonora y demás disposiciones legales aplicables.
+
 ## TÍTULO CUARTO. DE LA CULTURA FÍSICA Y EL DEPORTE
-
-## TÍTULO QUINTO. DEL DEPORTE ADAPTADO
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE ABRIL DE 2017)</small>
 
 ### CAPÍTULO I. DEL FOMENTO A LA PRÁCTICA DE ACTIVIDADES FÍSICAS Y DEPORTIVAS
 
@@ -1005,6 +1025,10 @@ V.- Promover con los Consejos Estatales del Deporte Estudiantil, universidades y
 
 VI.- Realizar cualquier actividad que contribuya al desarrollo de las competiciones que de acuerdo con la legislación vigente corresponda a la Comisión o las autoridades municipales, en su caso.
 
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+VII.- Otorgar los recursos económicos y materiales necesarios cuando se represente a la entidad.
+
 ###### Artículo 82.
 
 Los candidatos a obtener estímulos y apoyos a que se refiere este capítulo, propuestos por la Asociación Deportiva Estatal correspondiente o quienes lo soliciten directamente, deberán satisfacer, además de los requisitos que establezca la reglamentación de la presente ley, los siguientes:
@@ -1193,9 +1217,9 @@ Contra las resoluciones dictadas con fundamento en las disposiciones de la prese
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE ABRIL DE 2017)</small>
 
-## TÍTULO SEXTO. DEL DEPORTE PARA ADULTOS MAYORES
+## TÍTULO QUINTO. DEL DEPORTE ADAPTADO
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 2 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE ABRIL DE 2017)</small>
 
 ### CAPÍTULO ÚNICO. DEL DEPORTE ADAPTADO
 
@@ -1244,6 +1268,10 @@ Los Institutos del deporte de los Municipios deberán contar con un departamento
 Las autoridades municipales, en el ámbito de sus respectivas circunscripciones deberán observar el debido cumplimiento del presente Título, así como de los demás ordenamientos establecidos en la presente Ley y su reglamento.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 2 DE DICIEMBRE DE 2019)</small>
+
+## TÍTULO SEXTO. DEL DEPORTE PARA ADULTOS MAYORES
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 2 DE DICIEMBRE DE 2019)</small>
 
 ### CAPÍTULO ÚNICO. DEL DEPORTE PARA ADULTOS MAYORES
 
@@ -1368,3 +1396,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado deberá actualizar sus disposiciones reglamentarias, en un plazo de 60 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+B.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 98, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA (SIC) A LA LEY DE HACIENDA DEL ESTADO”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
