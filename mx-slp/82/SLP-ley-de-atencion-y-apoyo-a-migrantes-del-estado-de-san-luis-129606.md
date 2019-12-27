@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-atencion-y-apoyo-a-migrantes-del-estado-de-san-luis-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-13"
-last_updated: "2019-08-06"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ATENCIÓN Y APOYO A MIGRANTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 13 de julio de 2018.
 
@@ -291,7 +291,7 @@ II. Tener como mínimo veinticinco años de edad cumplidos al momento de su desi
 
 III. Tener dominio sobre temas de migración y del idioma inglés;
 
-IV. No haber sido condenado por delito grave, y
+IV. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2019)
 
 V. Encontrarse en pleno uso de sus derechos civiles y políticos.
 
@@ -574,6 +574,14 @@ Alejandro Leal Tovías
 P.O. 6 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0223.- SE REFORMA Y ADICIONA EL ARTÍCULO 5° DE LA LEY DE ATENCIÓN Y APOYO A MIGRANTES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0457.- SE DEROGA DEL ARTÍCULO 20 LA FRACCIÓN IV DE LA LEY DE ATENCIÓN Y APOYO A MIGRANTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
