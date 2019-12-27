@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2018-08-23"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "SON"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ENERO DE 2020 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -53,8 +57,6 @@ El ejercicio del Poder Ejecutivo se deposita en un solo individuo que se denomin
 
 Para el ejercicio de sus atribuciones y el despacho de los asuntos de orden administrativo que correspondan al Poder Ejecutivo, la administración pública será directa y paraestatal.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, B.O. 4 DE JULIO DE 2016)</small>
 
 Integran la administración pública directa las Secretarias.
@@ -62,6 +64,10 @@ Integran la administración pública directa las Secretarias.
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
 Componen la administración pública paraestatal las siguientes entidades: organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones civiles asimiladas a dichas empresas en los términos de la presente Ley y fideicomisos públicos.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Está prohibido incluir dentro del presupuesto Anual de Egresos del Poder Ejecutivo, la contratación de un seguro de vida o de gastos médicos privado para los servidores públicos de la Administración Pública Directa y Paraestatal, así como de las unidades adscritas directamente al Titular del Ejecutivo del Estado Se exceptúan los elementos policiacos encargados de la Seguridad Pública del Estado o, salvo que, por motivo de sus condiciones generales de trabajo u otro instrumento obligatorio, hayan convenido con sus trabajadores otorgar dicha prestación.
 
 > <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
@@ -495,7 +501,7 @@ XII. Auxiliar a las autoridades federales y en el ejercicio de su competencia lo
 
 XIII. Auxiliar a las autoridades federales en el exacto cumplimiento de la legislación en materia de asociaciones religiosas y culto público;
 
-XIV. Promover la cultura cívico (sic) política de los ciudadanos y los mecanismos de participación, apoyando en el ámbito de su competencia a las autoridades electorales nacionales o estatales;
+XIV. Promover la cultura cívico política de los ciudadanos y los mecanismos de participación, apoyando en el ámbito de su competencia a las autoridades electorales nacionales o estatales;
 
 XV. Expedir previa autorización del Titular del Ejecutivo del Estado, las licencias, autorizaciones, concesiones y permisos cuyo otorgamiento no esté atribuido a otras dependencias del Ejecutivo;
 
@@ -2506,3 +2512,19 @@ La Secretaría de la Consejería Jurídica deberá proponer al titular del Poder
 ###### ARTÍCULO TERCERO.
 
 Cualquier trámite, diligencia, gestión, procedimiento o proceso que se encuentre vigente respecto a la derogación de la fracción XX, del artículo 23 bis y modificación del párrafo primero del artículo 23 bis 1 de la presente Ley, atenderá la previsión contenida en los puntos de acuerdo números Tercero, Cuarto y Quinto del Acuerdo por el que el Estado de Sonora, a través de sus tres poderes y la Fiscalía General de Justicia se adhiere al Acuerdo entre los tres Poderes de la Unión para la Consolidación del Sistema de Justicia Penal, por tanto las obligaciones a cargo de los servidores públicos que hubieren estado adscritos a la Secretaría Ejecutiva de la Comisión Implementadora del Nuevo Sistema de Justicia Penal, será responsabilidad exclusiva de dichos servidores públicos y éstos tendrán además el deber legal de atenderlas hasta su legal extinción.
+
+B.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 91, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, DE LA LEY DE HACIENDA DEL ESTADO, DE LA LEY DE TRÁNSITO DEL ESTADO DE SONORA, DE LA LEY DE BIENES Y CONCESIONES, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, DE LA LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE SONORA Y DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 01 de enero de 2020, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para que la Secretaría de Hacienda del Estado de Sonora, esté en posibilidades de dar cabal cumplimiento a lo dispuesto en los artículos 17, párrafo segundo de la Ley de Tránsito del Estado de Sonora y 316, párrafos tercero, cuarto y quinto de la Ley de Hacienda del Estado, deberá realizar el proceso de contratación sujetándose a lo previsto en el artículo 25 de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal. Debiendo cubrir el pago de la póliza de seguro de responsabilidad civil en el mes de enero del 2020, para que los ciudadanos obtengan el beneficio planteado en los artículos señalados de las leyes de Tránsito del Estado de Sonora y de Hacienda del Estado, a partir del primer minuto del primer día de dicho año.
