@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-chochola-yucatan-27162"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2011-12-28"
+last_updated: "2019-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE CHOCHOLA, YUCATAN
 
-LEY DE HACIENDA DEL MUNICIPIO DE CHOCHOLA, YUCATAN
+LEY DE HACIENDA DEL MUNICIPIO DE CHOCHOLA, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 31 de diciembre de 2002.
 
@@ -115,7 +115,9 @@ c).- Hipoteca.
 
 d).- Prenda.
 
-Respecto de la garantía prendaria, solamente será aceptada por la autoridad como tal, cuando el monto del crédito fiscal y sus accesorios sea menor o igual a 50 salarios mínimos diarios vigentes en el municipio que corresponda al momento de la determinación del crédito.
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Respecto de la garantía prendaria, solamente será aceptada por la autoridad como tal, cuando el monto del crédito fiscal y sus accesorios sea menor o igual a 60 U.M.A vigentes en el municipio que corresponda al momento de la determinación del crédito.
 
 En el procedimiento de constitución de estas garantías se observarán en cuanto fueren aplicables las reglas que fijen el Código Fiscal del Estado o en su defecto el Código Fiscal de la Federación y su reglamento.
 
@@ -369,7 +371,13 @@ DEL SALARIO MÍNIMO
 
 ###### ARTÍCULO 36.
 
-Cuando en la presente Ley se haga mención de las palabras “salario” o “salario mínimo” dichos términos se entenderán indistintamente como el salario mínimo general diario vigente en el Estado de Yucatán en el momento de realización de la situación jurídica o de hecho prevista en la misma. Tratándose de multas, el salario que servirá de base para su cálculo sea el vigente al momento de individualizar la sanción.
+(DEROGADO, D.O. 27 DE DICIEMBRE DE 2019)
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 36-A.
+
+Cuando en la presente ley se haga mención de las palabras "unidad de medida y actualización" y/o "U.M.A", dichos términos se entenderán indistintamente como el valor en pesos que determine el Instituto Nacional de Estadística y Geografía y que deberán ser publicados anualmente en el Diario Oficial de la Federación, en el momento de realización de la situación jurídica o de hecho prevista en la misma. Tratándose de multas, la unidad de medida y actualización que servirá de base para su cálculo, será la vigente al momento de individualizar la sanción.
 
 ## TITULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES
 
@@ -737,7 +745,9 @@ VII.- Liquidación del impuesto.
 
 A la manifestación señalada en este artículo, se acumulará copia del avalúo practicado al efecto.
 
-Cuando los fedatarios públicos y quienes realizan funciones notariales no cumplan con la obligación a que se refiere este artículo, serán sancionados con una multa de cinco a diez salarios mínimos vigentes.
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Cuando los fedatarios públicos y quienes realizan funciones notariales no cumplan con la obligación a que se refiere este artículo, serán sancionados con una multa de cinco a diez U.M.A vigentes.
 
 Los jueces o presidentes de las juntas de conciliación y arbitraje federales o estatales, únicamente tendrán la obligación de comunicar a la Tesorería Municipal, el procedimiento que motivó la adquisición, el número de expediente, el nombre o razón social de la persona a quien se adjudique el bien y la fecha de adjudicación.
 
@@ -935,33 +945,35 @@ Los inmuebles que se encuentren catalogados como Monumentos Históricos por el I
 
 DE LA TARIFA
 
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 75.
 
-La tarifa del derecho por el servicio mencionado en los incisos 1 y 2 del artículo 72, 1.5 salarios mínimos.
+La tarifa del derecho por el servicio mencionado en los incisos 1 y 2 del artículo 72, será de 1.83 U.M.A vigentes en el Estado de Yucatán.
 
 La tarifa del derecho por el servicio mencionado en el inciso 7 del artículo 72, se pagará por predio resultante, conforme lo siguiente:
 
 Para la construcción tipo A:
 
-1.0 de un salario
+1.22 U.M.A vigentes en el Estado de Yucatán
 
 Para las construcciones tipo B:
 
-0.50 de un salario
+.63 U.M.A vigentes en el Estado de Yucatán
 
 La tarifa de los derechos por los servicios mencionados en los demás incisos del artículo 72, será de:
 
-Por el servicio previsto en el inciso 3) .06 de un salario, por metro cuadrado.
+Por el servicio previsto en el inciso 3) .06 de un U.M.A, por metro cuadrado.
 
-Por el servicio previsto en el inciso 4) .02 de un salario por m2 de vía pública.
+Por el servicio previsto en el inciso 4) .02 de un U.M.A por m2 de vía pública.
 
-Por el servicio previsto en el inciso 5) .10 de un salario por metro lineal.
+Por el servicio previsto en el inciso 5) .10 de un U.M.A por metro lineal.
 
-Por el servicio previsto en el inciso 6) .30 de un salario por el servicio.
+Por el servicio previsto en el inciso 6) .30 de un U.M.A por el servicio.
 
-Por el servicio previsto en el inciso 8) .25 de un salario por metro cúbico.
+Por el servicio previsto en el inciso 8) .25 de un U.M.A por metro cúbico.
 
-Por el servicio previsto en el inciso 9) .05 de un salario por metro cuadrado.
+Por el servicio previsto en el inciso 9) .05 de un U.M.A por metro cuadrado.
 
 Las construcciones, excavaciones, demoliciones y demás obras o trabajos iniciados o llevados a cabo sin la licencia, autorización o constancia correspondiente, se entenderán extemporáneos y pagarán una sanción correspondiente a tres tantos el importe de la tarifa respectiva.
 
@@ -1021,199 +1033,189 @@ Para que la Tesorería Municipal esté en condiciones de expedir la Licencia de 
 
 DE LA TARIFA
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 81.
 
 Para el otorgamiento de licencias para el funcionamiento de establecimientos con giros relacionados con la venta de bebidas alcohólicas, se cobrará una cuota de acuerdo a las siguientes tarifas:
 
-I.- Vinatería o licorería $ 20,000.00
+GIRO EXPEDICIÓN RENOVACIÓN
 
-II.- Expendio de cerveza $ 20,000.00
+I.- Vinatería o 307 U.M.A 42 U.M.A
+
+II.- Expendio de cerveza 307 U.M.A 42 U.M.A
 
 III.- Supermercados con
 
-área de bebidas alcohólicas $ 20,000.00
+área de bebidas alcohólicas 307 U.M.A 42 U.M.A
 
-IV.- Centros nocturnos y/o video bares $ 20,000.00
+IV.- Centros nocturnos
 
-V.- Cantinas y bares $ 20,000.00
+y/o video bares 307 U.M.A 42 U.M.A
 
-VI.- Discotecas y clubes sociales $ 20,000.00
+V.- Cantinas y bares 307 U.M.A 42 U.M.A
 
-VII.- Salones de baile, billar o boliche $ 20,000.00
+VI.- Discotecas y clubes sociales 307 U.M.A 42 U.M.A
 
-VIII.- Restaurantes, hoteles y moteles $ 20,000.00
+VII.- Salones de baile, billar o boliche 307 U.M.A 42 U.M.A
 
-IX.- Centros recreativos, deportivos
+VIII.- Restaurant-Bar 307 U.M.A 42 U.M.A
 
-y salón (sic) cerveza $ 20,000.00
+IX.- Moteles 307 U.M.A 42 U.M.A
 
-Para el otorgamiento de la revalidación anual de las licencias de estos establecimientos se pagará una cuota anual de $ 2,500.00.
+X.- Posadas y/o cabañas 307 U.M.A 42 U.M.A
 
-> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+XI.- Hoteles hasta 19 cuartos 307 U.M.A 42 U.M.A
+
+XII.- Hoteles a partir de 20 cuartos 473 U.M.A 150 U.M.A
+
+XIII.- Centros recreativos,
+
+deportivos o salón cerveza 307 U.M.A 42 U.M.A
+
+A los permisos eventuales para el funcionamiento de giros relacionados con la venta de bebidas alcohólicas que se encuentren al interior de la población, pagarán un derecho de 6 U.M.A por cada día de permiso.
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 81-A.
 
 El cobro de derechos por el otorgamiento de licencias, permisos o autorizaciones para el funcionamiento de establecimientos y locales comerciales o de servicios que no expendan bebidas alcohólicas, se realizará con base en las siguientes tarifas:
 
-GIRO EXPEDICIÓN RENOVACIÓN
+EXPEDICIÓN RENOVACION
 
-Comercial o de Servicios $ $
+GIRO COMERCIAL
 
-I.- Farmacias, boticas
+O DE SERVICIOS U.M.A U.M.A
 
-y similares 330.00 120.00
+I.- Farmacias, boticas y similares 4 2
 
-II.- Carnicerías, pollerías
+II.- Carnicerías, pollerías y pescaderías 2.7 1
 
-y pescaderías 220.00 60.00
+III.- Panaderías y tortillerías 2 1
 
-III.- Panaderías y tortillerías 170.00 55.00
+IV.- Expendio de refrescos 4 2
 
-IV.- Expendio de refrescos 335.00 125.00
+V.- Fábrica de jugos embolsados 4 2
 
-V.- Fábrica de jugos
+VI.- Expendio de refrescos naturales 2.7 1
 
-embolsados 335.00 125.00
+VII.- Compra/Venta de oro y plata 7.5 2.4
 
-VI.- Expendio de refrescos
+VIII.- Taquerías y/o loncherías y/o
 
-naturales 220.00 60.00
+fondas y/o cocina económica 2 1
 
-VII.- Compra/Venta de oro
+IX.- Taller de expendio de alfarerías 2 1
 
-y plata 600.00 200.00
+X.- Talleres y expendios de zapaterías 2.4 1
 
-VIII.- Taquerías, loncherías
+XI.- Tlapalerías 3 1
 
-y fondas 160.00 65.00
+XII.- Compra/Venta de materiales
 
-IX.- Taller de expendio
+de Construcción 7.5 4.3
 
-de alfarerías 160.00 65.00
+XIII.- Tiendas, Tendejones y misceláneas 2 1
 
-X.- Talleres y expendios
-
-de zapaterías 200.00 70.00
-
-XI.- Tlapalerías 250.00 80.00
-
-XII.- Compra/Venta de
-
-materiales de Construcción 600.00 350.00
-
-XIII.- Tiendas, Tendejones
-
-y misceláneas 160.00 55.00
-
-XIV.- Bisutería 230.00 60.00
+XIV.- Bisutería 3 1
 
 XV.- Compra/venta de motos
 
-y refaccionarias 340.00 120.00
+y refaccionarias 4.2 1.5
 
-XVI.- Papelerías y centros
+XVI.- Papelerías y centros de copiado 3 1
 
-de copiado 230.00 60.00
+XVII.- Hoteles y/o posadas y/o hospedajes
 
-XVII.- Hoteles, Hospedajes 650.00 350.00
+A) hasta 19 cuartos 12 6
+
+B) a partir de 20 cuartos 30 15
 
 XVIII.- Peleterías Compra/venta
 
-de sintéticos 550.00 180.00
+de sintéticos 6.5 2
 
 XIX.- Terminales de taxis,
 
-autobuses y triciclos 330.00 120.00
+autobuses y triciclos 4 1.5
 
-XX.- Ciber Café y centros
+XX.- Ciber Café y centros de cómputo 4 1.5
 
-de cómputo 330.00 120.00
+XXI.- Estética unisex y peluquerías 2 .6
 
-XXI.- Estética unisex y
-
-peluquerías 170.00 50.00
-
-XXII.- Talleres mecánicos 300.00 100.00
+XXII.- Talleres mecánicos 3.6 1.2
 
 XXIII.- Talleres de torno y
 
-herrería en genera (sic) 210.00 50.00
+herrería en general 2.7 .6
 
-XXIV.- Fábrica de cajas 315.00 105.00
+XXIV.- Fábrica de cajas 4 1.5
 
-XXV.- Tienda de ropa y
+XXV.- Tienda de ropa y almacenes 3.6 2
 
-almacenes 300.00 150.00
+XXVI.- Florerías y funerarias 4 1.5
 
-XXVI.- Florerías y funerarias 315.00 105.00
+XXVII.- Bancos 20 10
 
-XXVII.- Bancos 600.00 350.00
+XXVIII.- Puestos de venta de
 
-XXVIII.- Puestos de venta
+revistas, periódicos 2.5 .6
 
-de revistas, periódicos y
+XXIX.- Videoclubs en general 4 1.5
 
-casetes 210.00 50.00
+XXX.- Carpinterías 4 1.5
 
-XXIX.- Videoclubs en
+XXXI.- Bodega de refrescos 13 6
 
-general 315.00 105.00
+XXXII.- Consultorios y clínicas 5 2
 
-XXX.- Carpinterías 315.00 105.00
+XXXIII.- Paleterías y dulcerías 3 1
 
-XXXI.- Bodega de refrescos 1,050.00 350.00
+XXXIV.- Negocios de telefonía celular 7.5 5
 
-XXXII.- Consultorios y clínicas 350.00 150.00
+XXXV.- Cinema 13 6
 
-XXXIII.- Paleterías y dulcerías 210.00 52.50
+XXXVI.- Talleres de reparación eléctrico 4 2
 
-XXXIV.- Negocios de telefonía
+XXXVII.- Escuelas particulares y academias 13 6
 
-celular 600.00 350.00
-
-XXXV.- Cinema 1,000.00 500.00
-
-XXXVI.- Talleres de
-
-reparación eléctrico 330.00 170.00
-
-XXXVII.- Escuelas
-
-particulares y academias 600.00 300.00
-
-XXXVIII.- Salas de fiestas
-
-y plazas de toros 600.00 300.00
+XXXVIII.- Salas de fiestas y plazas de toros 7.5 3.6
 
 XXXIX.- Expendios de
 
-alimentos balanceados 315.00 105.00
+alimentos balanceados 4 1.5
 
-XL.- Gaseras 650.00 350.00
+XL.- Gaseras 13 6
 
-XLI.- Gasolineras 1,700.00 800.00
+XLI.- Gasolineras 100 50
 
-XLlI.- Mudanzas 315.00 105.00
+XLII.- Mudanzas 4 1.5
 
-XLIII.- Oficinas de servicio
+XLIII.- Oficinas de servicio de
 
-de sistemas de televisión 600.00 300.00
+sistemas de televisión 7.5 3.5
 
-XLlV.- Fábrica de hielo 315.00 105.00
+XLIV.- Fábrica de hielo 4 1.5
 
-XLV.- Centros de foto
+XLV.- Centros de foto estudio y grabación 4 1.5
 
-estudio y grabación 315.00 105.00
+XLVI.- Despachos contables y jurídicos 4 1.5
 
-XLVI.- Despachos
+XLVII.- Compra/venta de frutas y legumbres 4 2.5
 
-contables y jurídicos 315.00 105.00
+XLVIII.- Minisuper 20 6
 
-XLVII.- Compra/venta de
+XLIX.- Fabrica de materiales
 
-frutas y legumbres 315.00 210.00
+de construcción 250 70
+
+L.- Restaurantes 20 6
+
+LI.- Guarderías y/o Estancias Infantiles 20 6
+
+LII.- Casas de empeño 8.5 3.4
+
+LIII.- Sistemas de comunicaciones 100 50
 
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -1299,7 +1301,9 @@ g) Por cada copia certificada
 
 del UMAIP 3.00
 
-En todo caso se requerirá la licencia de salud correspondiente. El incumplimiento de esta disposición se sancionará con una multa de uno a diez salarios mínimos. En caso de reincidencia, la sanción fijada por la autoridad se duplicará y el Presidente Municipal hará del conocimiento de la Secretaria de Salud aquélla circunstancia para que la dependencia estatal resuelva lo conducente.
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+En todo caso se requerirá la licencia de salud correspondiente. El incumplimiento de esta disposición se sancionará con una multa de uno a diez U.M.A. En caso de reincidencia, la sanción fijada por la autoridad se duplicará y el Presidente Municipal hará del conocimiento de la Secretaría de Salud aquélla circunstancia para que la dependencia estatal resuelva lo conducente.
 
 ### CAPITULO V
 
@@ -1341,9 +1345,11 @@ El derecho por uso de baños del mercado municipal será de $ 2.00
 
 DE LA RENUNCIA Y OTORGAMIENTO DE CONCESIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 88.
 
-El otorgamiento de concesiones para el uso y aprovechamiento de superficies de los mercados públicos municipales, causará un derecho de 25 veces el salario mínimo cuando no exceda el periodo de la administración municipal y de 50 días de salario mínimo cuando exceda de seis años.
+El otorgamiento de concesiones para el uso y aprovechamiento de superficies de los mercados públicos municipales, causará un derecho de 30 U.M.A cuando no exceda el período de la administración municipal y de 60 U.M.A cuando exceda de seis años.
 
 Cuando algún concesionario ilegalmente haya pretendido enajenar sus derechos, el contrato que contenga la operación será nulo de pleno derecho, será causa de revocación de la concesión y de la aplicación al enajenante de una multa consistente en el.30 del valor de la concesión.
 
@@ -1363,27 +1369,27 @@ DEL OBJETO
 
 Es objeto de este derecho la matanza, guarda de corrales, peso en básculas e inspección fuera del rastro de animales y de carne fresca o en canal.
 
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 91.
 
 Los derechos por los servicios de rastro se causarán de conformidad con lo siguiente:
 
 SERVICIO TARIFA
 
-II (SIC). Por matanza de ganado.
+Por matanza de ganado
 
 Por cada cabeza de ganado:
 
-> <small>(REFORMADO EN SU MONTO, D.O. 28 DE DICIEMBRE DE 2011)</small>
-
 a).- Vacuno $ 90.00
 
-> <small>(REFORMADO EN SU MONTO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+Por cada cabeza de ganado:
 
 b).- Porcino $ 50.00
 
 La inspección de carne en los rastros públicos no causará derecho alguno, pero las personas que introduzcan carne al Municipio de Chocholá deberán pasar por esa inspección. Dicha inspección se practicará en términos de lo dispuesto en la Ley General de Salud y su Reglamento. Esta disposición es de orden público e interés social.
 
-En el caso de que las personas que realicen la introducción de carne en los términos del párrafo anterior, no pasaren por la inspección mencionada, se harán acreedoras a una sanción cuyo importe será de uno a diez salarios mínimos por pieza de ganado introducida o su equivalente. En caso de reincidencia, la sanción fijada se duplicará.
+En el caso de que las personas que realicen la introducción de carne en los términos del párrafo anterior, no pasaren por la inspección mencionada, se harán acreedoras a una sanción cuyo importe será de uno a diez U.M.A por pieza de ganado introducida o su equivalente. En caso de reincidencia, la sanción fijada se duplicará.
 
 DE LA MATANZA FUERA DE LOS RASTROS PUBLICOS
 
@@ -1391,7 +1397,9 @@ DE LA MATANZA FUERA DE LOS RASTROS PUBLICOS
 
 El ayuntamiento a través de sus órganos administrativos podrá autorizar mediante la licencia respectiva y sin cobro alguno, la matanza de ganado fuera de los rastros públicos del municipio, previo el cumplimiento de los requisitos que determinan la Ley de Salud del Estado de Yucatán su Reglamento.
 
-En todo caso se requerirá la licencia correspondiente. El incumplimiento de esta disposición se sancionará con una multa de uno a diez salarios mínimos. En caso de reincidencia, dicha sanción se duplicará y así sucesivamente.
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+En todo caso se requerirá la licencia correspondiente. El incumplimiento de esta disposición se sancionará con una multa de uno a diez U.M.A. En caso de reincidencia, dicha sanción se duplicará y así sucesivamente.
 
 ### CAPITULO VII. DERECHOS POR SERVICIOS DE LIMPLIA (SIC) Y RECOLECCION DE BASURA
 
@@ -1457,7 +1465,9 @@ II.- Contratación $ 150.00 por toma
 
 Son sujetos obligados al pago de este derecho las personas físicas o morales que soliciten este servicio de acuerdo con lo siguiente:
 
-0.25 Salarios Mínimos por elemento por hora.
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+0.3 U.M.A por elemento por hora.
 
 El pago de este derecho se hará al momento de solicitar el servicio.
 
@@ -1749,7 +1759,9 @@ II.- Embargo.
 
 III.- Honorarios o enajenación fuera de remate.
 
-Cuando el .02 del importe del crédito omitido, fuere inferior al importe de un salario mínimo vigente en el Estado de Yucatán, se cobrará el monto de un salario mínimo en lugar del mencionado .02 del crédito omitido.
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Cuando el .02 del importe del crédito omitido, fuere inferior al importe de un U.M.A vigente en el Estado de Yucatán, se cobrará el monto de un U.M.A en lugar del mencionado .02 del crédito omitido.
 
 DE LOS GASTOS EXTRAORDINARIOS DE EJECUCION
 
@@ -1791,7 +1803,9 @@ Las autoridades fiscales municipales para hacer cumplir sus determinaciones podr
 
 a) Apercibimiento
 
-b) Multa de uno a diez salarios mínimos, excepto cuando las disposiciones de la presente Ley, señalen otra cantidad
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+b) Multa de uno a diez U.M.A, excepto cuando las disposiciones de la presente Ley, señalen otra cantidad
 
 c) Clausura
 
@@ -1836,3 +1850,11 @@ D.O. 28 DE DICIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 Esta (sic) decreto entrará en vigor el día primero de enero del año dos mil doce, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 152/2019 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CHICXULUB PUEBLO, CHOCHOLÁ, DZIDZANTÚN, MOTUL, SACALUM, TEKAX, TEMAX, TIZIMÍN, TZUCACAB Y UMÁN".]
+
+Artículo primero.- Este Decreto entrará en vigor el día primero de enero del año 2020, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo.- En cuanto a la Ley de Hacienda para el Municipio de Motul, Yucatán, en el ejercicio fiscal 2020, el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder de un 10 % del que le haya correspondido durante el ejercicio fiscal 2019 para los predios cuyo valor catastral sea menor o igual a $ 350,000.00 y para los predios cuyo valor catastral sea mayor a $350,000.00, el impuesto predial no podrá exceder de un 15 % del que le haya correspondido durante el ejercicio fiscal 2019. El comparativo se hará con base en el impuesto principal, sin tomar en consideración bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
