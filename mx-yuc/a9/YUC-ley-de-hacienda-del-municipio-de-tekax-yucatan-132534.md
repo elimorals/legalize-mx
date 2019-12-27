@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-tekax-yucatan-132534"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-29"
-last_updated: "2018-12-29"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE TEKAX DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Suplemento II del Diario Oficial del Estado de Yucatán, el sábado 29 de diciembre de 2018.
 
@@ -609,15 +609,21 @@ La base del impuesto previsto en esta sección será la totalidad del ingreso pe
 
 Tasa
 
-La tasa del impuesto previsto en esta sección será del 6% sobre la base determinada, conforme al artículo anterior.
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
-Cuando un espectáculo público consista en obras teatrales o en circos, la tasa será del 4%, aplicada a la totalidad del ingreso percibido.
+La tasa del impuesto previsto en esta sección será del 8% sobre la base determinada, conforme al artículo anterior.
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Cuando un espectáculo público consista en obras teatrales o en circos, la tasa será del 6%, aplicada a la totalidad del ingreso percibido.
 
 ###### Artículo 49.
 
 Disminución de la tasa
 
-Cuando un espectáculo o diversión pública sea organizado con fines culturales, recreativos, de beneficencia o en promoción del deporte, y la convivencia familiar, el titular de la dirección quedará facultado para disminuir las tasas previstas en el artículo que antecede.
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Cuando un espectáculo o diversión pública sea organizado con fines culturales, recreativos, de beneficencia o en promoción del deporte, y la convivencia familiar, el titular de la dirección de Tesorería quedará facultado para disminuir a 3% como mínimo las tasas previstas en el artículo anterior.
 
 ###### Artículo 50.
 
@@ -801,7 +807,9 @@ Objeto
 
 El objeto del impuesto predial es:
 
-I. La propiedad y el usufructo, de predios urbanos y rústicos ubicados en el municipio.
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+I. La propiedad, el usufructo o la posesión a titulo distinto de los anteriores de predios urbanos, rústicos, ejidales y comunales ubicados dentro del territorio municipal.
 
 II. La propiedad y el usufructo de las construcciones edificadas, en los predios señalados en la fracción anterior.
 
@@ -819,7 +827,9 @@ Sujetos
 
 Los sujetos obligados al pago del impuesto predial son:
 
-I. Los propietarios o usufructuarios de inmuebles ubicados en el municipio, así como de las construcciones permanentes edificadas en ellos.
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+I. Los propietarios o usufructuarios de predios urbanos, rústicos, ejidales y comunales ubicados dentro del territorio municipal, así como de las construcciones permanentes edificadas en ellos.
 
 II. Los fideicomitentes por todo el tiempo que el fiduciario no transmitiere la propiedad o el uso de los inmuebles a que se refiere la fracción anterior, al fideicomisario o a las demás personas que correspondiere, en cumplimiento del contrato de fideicomiso.
 
@@ -832,6 +842,10 @@ V. Los organismos descentralizados, las empresas de participación estatal que t
 VI. Las personas físicas o morales que posean por cualquier título bienes inmuebles del dominio público de la federación, estado o municipio utilizados o destinados para fines administrativos o propósitos distintos a los de su objeto público.
 
 VII. Los subarrendadores, cuya base será la diferencia que resulte a su favor entre la contraprestación que recibe y la que paga.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+VIII. Los ejidatarios, comuneros y/o titulares de los certificados de derechos de propiedad agraria, otorgados por el organismo o dependencia encargado de la regularización de la tenencia de la tierra o por la autoridad jurisdiccional competente en caso de conflicto entre las partes.
 
 ###### Artículo 64.
 
@@ -861,7 +875,9 @@ Responsables solidarios
 
 Son sujetos solidariamente responsables del impuesto predial:
 
-I. Los funcionarios o empleados públicos, los notarios o fedatarios públicos y las personas que por disposición legal tengan funciones notariales, que inscriban o autoricen algún acto o contrato jurídico, sin cerciorarse de que se hubiera cubierto el impuesto respectivo, mediante la acumulación o anexo del certificado expedido por la (sic).
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+I. Los funcionarios o empleados públicos, los notarios o fedatarios públicos y las personas que por disposición legal tengan funciones notariales, que inscriban o autoricen algún acto o contrato jurídico, sin cerciorarse de que se hubiese cubierto el impuesto respectivo, mediante la acumulación o anexo del certificado expedido por la Tesorería Municipal.
 
 II. Los empleados de la dirección que formulen certificados de estar al corriente en el pago del impuesto predial, que alteren el importe de los adeudos por este concepto, o los dejen de cobrar.
 
@@ -873,13 +889,19 @@ V. El vencido en un procedimiento judicial o administrativo por virtud del cual 
 
 VI. La federación, el estado y municipio, cuando por cualquier título concedan la posesión de los bienes de dominio público, a las entidades paraestatales, los organismos descentralizados, las personas morales o físicas, y los utilicen para fines administrativos o propósitos distintos a su objeto público, en términos de las fracciones V y VI del artículo 63.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+VII. Los comisariados o representantes ejidales en los términos de las leyes agrarias.
+
 ###### Artículo 67.
 
 Base
 
 La base del impuesto predial será:
 
-I. El valor catastral del inmueble.
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+I. El valor catastral del inmueble. Se entiende por valor catastral el señalado a los inmuebles en los términos de la legislación catastral del Estado, o del propio Municipio, cuando éste tenga a su cargo su Catastro Municipal.
 
 II. La contraprestación que produzcan los inmuebles, incluyendo los del dominio público, cuando por cualquier título se utilicen para fines distintos a su objeto; los terrenos o construcciones ubicadas en ellos y que por el uso o goce fuere susceptible de ser cobrada por el propietario, el fideicomisario, el usufructuario, o el concesionario, independientemente de que se pacte en efectivo, especie o servicios.
 
@@ -887,7 +909,9 @@ II. La contraprestación que produzcan los inmuebles, incluyendo los del dominio
 
 Base valor catastral
 
-Cuando la base del impuesto predial sea el valor catastral de un inmueble, dicha base estará determinada por el valor consignado en la cédula, que de conformidad con la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán y su reglamento, expedirá el catastro del municipio.
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Cuando la base del impuesto predial sea el valor catastral de un inmueble, dicha base estará determinada por el valor consignado en la cédula, que, de conformidad con la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán y su reglamento, expedirá la Dirección del Catastro del referido instituto o la autoridad catastral del municipio.
 
 Cuando el catastro del municipio expida una cédula con diferente valor a la que existe registrada en el padrón municipal, el nuevo valor servirá como base para calcular el impuesto predial a partir del bimestre siguiente al mes que se recepcione la citada cédula.
 
@@ -977,7 +1001,21 @@ El mínimo a pagar de impuesto predial establecido, cuando el cálculo se realic
 
 Época de pago
 
-El impuesto predial sobre la base de valor catastral deberá cubrirse por bimestres anticipados dentro de los primeros quince días de cada uno de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año.
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+El impuesto predial se causa de forma anual, dividido en seis partes iguales que se pagarán bimestralmente a cuenta del impuesto anual. Los pagos bimestrales a que se refiere este artículo deberán hacerse dentro de los primeros quince días inmediatos posteriores al bimestre al cual corresponda, ante las oficinas de la tesorería municipal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Los bimestres a que se refiere este artículo corresponden a los meses enero-febrero, marzo-abril, mayo-junio, julio-agosto, septiembre-octubre y noviembre-diciembre.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 72 Bis.
+
+Lugar de pago del impuesto
+
+El pago de impuesto predial se efectuará en la tesorería municipal, en las oficinas autorizadas por el ayuntamiento.
 
 ###### Artículo 73.
 
@@ -1191,6 +1229,16 @@ Cuando de conformidad con la Ley de Gobierno de los Municipios del Estado de Yuc
 
 #### Sección segunda. Mercados y ambulantes
 
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 95 Bis.
+
+Objeto
+
+Es objeto de este derecho la prestación de servicios de administración de mercados que proporcione el municipio.
+
+Se entenderá por servicios de administración de mercados, la asignación de lugares o espacios para la instalación de locales fijos o semifijos y su control, así como los servicios de aseo, mantenimiento, vigilancia y otros relacionados con la operación y el funcionamiento tanto de mercados construidos, centrales de abasto y los lugares destinados por el ayuntamiento a la comercialización.
+
 ###### Artículo 96.
 
 Sujetos obligados
@@ -1257,6 +1305,22 @@ IV. Por el otorgamiento del permiso para efectuar trabajos de pintura, rotulaci�
 
 V. Por el otorgamiento del permiso para efectuar trabajos de instalación de monumentos de granito, en el interior del panteón, por tumba: 2.23 UMA
 
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 100 Bis.
+
+El pago de los derechos a que se refiere el Artículo anterior se hará al solicitarse las concesiones temporales o adquisiciones a perpetuidad y los permisos para construcción de monumentos.
+
+En los panteones o cementerios municipales, las inhumaciones serán por quince años con derecho a refrendos o bien a perpetuidad, debiendo cubrirse las tarifas señaladas por la presente Ley.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 100 Ter.
+
+Si dentro del primer año de hecho un refrendo de temporalidad se solicita la perpetuidad de la fosa, se deducirá al importe de ésta la suma enterada por el refrendo.
+
+Las personas que poseen fosas a perpetuidad en los panteones municipales, podrán inhumar en ellas otros cadáveres, siempre que se haya vencido el término que señalan las Leyes y Reglamentos respectivos para la inhumación.
+
 ###### Artículo 101.
 
 Descuentos
@@ -1266,6 +1330,16 @@ El titular de la dirección, a solicitud escrita del titular de la unidad admini
 La dependencia competente del ayuntamiento realizará la investigación socioeconómica de cada solicitante y remitirá un dictamen aprobando o negando la reducción.
 
 #### Sección cuarta. Uso y aprovechamiento de las vías por vehículos de carga
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 101 Bis.
+
+Objeto y Sujeto.
+
+El objeto de este derecho, es el servicio prestado por la autoridad municipal en materia de seguridad pública, por el otorgamiento de permisos para la realización de eventos, trabajos o maniobras que afecten la vialidad del lugar cuando éstos se realicen fuera de los horarios establecidos en las normas correspondientes.
+
+Son sujetos obligados las personas físicas o morales que requieran permisos para el uso y aprovechamiento de las vías por vehículos de carga, para efectuar ciertos eventos, trabajos o maniobras que afecten la vialidad del lugar donde se realicen.
 
 ###### Artículo 102.
 
@@ -1282,6 +1356,14 @@ III. Por el permiso para realizar actividades de extracción de aguas negras o d
 IV. Por el permiso para cierre total o parcial de la calle para realizar actividades de construcción, carga o descarga, por cada hora: 0.25 UMA
 
 Cuando se causen simultáneamente los derechos previstos en las fracciones II, III y IV de este artículo, solo deberá cubrirse aquel cuya cuota total resulte superior.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 102 Bis.
+
+Pago
+
+El pago de los derechos se hará por anticipado en el momento de la solicitud del servicio, ante las oficinas de la Tesorería Municipal o lugar autorizado para ello. En el caso de que la autoridad determine de oficio la prestación del servicio, y el pago de éste no pudiera ser realizado con anterioridad, el sujeto obligado deberá realizar el pago dentro del plazo que establezca dicha autoridad.
 
 #### Sección quinta. Uso y aprovechamiento de otros bienes de dominio público
 
@@ -1321,6 +1403,14 @@ Exenciones
 
 La dirección podrá exentar del pago de los derechos previstos en esta sección a las personas físicas o morales, o instituciones públicas, que usen o aprovechen bienes del dominio público municipal cuando lo soliciten para realizar alguna actividad o eventos altruistas con fines no lucrativos y que generen un beneficio en la ciudadanía.
 
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 105 Bis.
+
+Época de pago
+
+El pago de los derechos establecidos en la presente sección será cada vez que se solicite el servicio por el uso y aprovechamiento de los bienes de dominio público municipal en las oficinas de la Tesorería municipal o bien donde esta lo designe.
+
 #### Sección sexta. Agua potable y drenaje
 
 ###### Artículo 106.
@@ -1335,33 +1425,131 @@ Responsables solidarios
 
 Son responsables solidarios del pago de los derechos previstos en esta sección, los notarios y escribanos públicos que autoricen instrumentos en los que se consigne la enajenación de predios o giros sin que previamente se compruebe con las constancias oficiales correspondientes que se está al corriente del pago de los derechos de agua potable.
 
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 107 Bis.
+
+Base
+
+Serán las bases para el cobro del derecho por servicio de Agua Potable y drenaje y de más servicios, las siguientes:
+
+I. Para los predios que cuenten con medidor volumétrico en su toma de agua: El consumo en metros cúbicos.
+
+II. Para los predios que no cuenten con medidor volumétrico en su toma de agua: Por cada toma de agua instalada.
+
+III. Por la contratación para la conexión de un predio a la red de Agua Potable Municipal: Por la toma de agua.
+
+IV. Por el servicio de drenaje sanitario será el importe correspondiente al consumo de agua potable.
+
+V. Cargo por reconexión de tomas.
+
+VI. Cargos por reubicación de tomas.
+
+VII. Por el cambio de titular del contrato
+
+VIII. Por la emisión de cada constancia de no adeudo.
+
+IX. Por cualquiera otros servicios solicitados por el usuario, diversos a los anteriores, el importe que resulte del presupuesto respectivo, atendiendo a su requerimiento.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 107 Ter.
+
+Servicio de Agua Potable y Drenaje
+
+Clasificación de los conceptos por el Servicio de Agua Potable y drenaje que deberán cubrir los sujetos obligados:
+
+I. De conexión:
+
+a) Por instalación de la toma;
+
+b) Por reinstalación en caso de limitación o suspensión del servicio;
+
+c) Por reubicación de la toma; y
+
+d) Por dotación de litros por segundo.
+
+II. De consumo:
+
+a) Doméstico;
+
+b) Comercial;
+
+c) Industrial;
+
+d) Hotelero;
+
+e) Servicios generales a la comunidad.
+
+III. Por la prestación de servicios distintos a los anteriores:
+
+a) Suministro de agua a carros tanque;
+
+b) Recepción en planta de aguas residuales transportadas en carros tanque;
+
+c) Suministro de agua residual tratada;
+
+d) Servicio de tratamiento de aguas residuales;
+
+e) Suministro de agua en bloque;
+
+f) Reposición de medidor;
+
+g) Reubicación de toma; y
+
+h) Por los conceptos establecidos en el artículo 107 Bis de este ordenamiento.
+
 ###### Artículo 108.
 
-Cuotas y tarifas
+(DEROGADO, D.O. 27 DE DICIEMBRE DE 2019)
 
-Por los servicios públicos de agua potable, se pagarán derechos conforme a las siguientes cuotas y tarifas:
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
-I. Para el caso de consumo de agua potable para uso doméstico:
+###### Artículo 108 Bis.
 
-a) Para aquellos predios que no cuentan con medidor volumétrico: 0.42 UMA
+Cuotas y tarifas por el consumo de Agua Potable
 
-b) Para aquellos predios que cuentan con medidor volumétrico, cuando el consumo bimestral haya sido inferior a cuarenta metros cúbicos: 0.42 UMA
+Por los servicios públicos de agua potable, se pagarán derechos conforme a las siguientes cuotas y tarifas por el Consumo de Agua potable suministrado por el Sistema municipal de Agua Potable:
 
-c) Para aquellos predios que cuentan con medidor volumétrico, cuando el consumo bimestral haya sido superior a cuarenta metros cúbicos, por cada metro cúbico: 0.0151 UMA
+a) Las tarifas base para el cobro de los servicios de agua potable para el uso doméstico, sobre la base del consumo determinado mediante la lectura del medidor, serán las siguientes:
 
-II. Para el caso de consumo de agua potable para uso comercial o industrial:
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 27 DE DICIEMBRE DE 2019, PÁGINA 27]</small>
 
-a) Para aquellos predios que no cuentan con medidor volumétrico: 0.62 UMA
+Se entiende por servicios Domésticos: Aquellos predios utilizados como vivienda familiar donde se utilice el servicio de agua potable para el aseo personal de sus habitantes y limpieza de la casa-habitación. Se incluyen los condominios y unidades habitacionales.
 
-b) Para aquellos predios que cuentan con medidor volumétrico, cuando el consumo bimestral haya sido inferior a cuarenta metros cúbicos: 0.62 UMA
+En tanto se carezca de medidor en tomas de uso doméstico clasificados como vivienda familiar se establece como tarifa de consumo mínimo, la correspondiente al rango de consumo de 0 a 10 M3, equivalente a 1.79 UMA.
 
-c) Para aquellos predios que cuentan con medidor volumétrico, cuando el consumo bimestral haya sido superior a cuarenta metros cúbicos, por cada metro cúbico: 0.0165 UMA
+b) Las tarifas base para el cobro de los servicios de agua potable para el uso comercial, considerando el consumo determinado de la lectura del medidor serán las siguientes:
 
-III. Para el caso de consumo de agua potable para granjas u otros establecimientos de alto consumo: 3.75 UMA
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 27 DE DICIEMBRE DE 2019, PÁGINA 28]</small>
 
-IV. Por la conexión a la toma de agua potable: 3.10 UMA
+Se entienden por servicios Comerciales: Aquellos predios donde se realizan actividades de compra y venta de productos, y/o se prestan servicios al público en general; y el agua se utiliza para la limpieza general de las instalaciones y para el aseo personal de los empleados.
 
-V. Por la reconexión de los servicios de agua potable, con motivo de la reducción o suspensión del servicio por adeudo de las cuotas establecidas en las fracciones I y II: 1.55 UMA
+En tanto se carezca de medidor en tomas de uso Comercial, se establecerá una cuota con base a un estudio previo efectuado por el personal autorizado por el sistema municipal de agua potable
+
+c) Las tarifas base para el cobro de los servicios de agua potable para el uso industrial, considerando el consumo determinado de la lectura del medidor serán las siguientes:
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 27 DE DICIEMBRE DE 2019, PÁGINA 28]</small>
+
+Se entiende por servicios Industriales: Aquellos predios donde se realicen actividades industriales y se utilice el agua para transformar la materia prima en productos terminados, para la limpieza general de las instalaciones y para el aseo personal de los empleados.
+
+En tanto se carezca de medidor en tomas de uso Industrial se establecerá una cuota con base a un estudio previo efectuado por el personal autorizado por el sistema municipal de agua potable.
+
+d) las tarifas base para el cobro de los servicios de agua potable para el uso hotelero, considerando el consumo determinado de la lectura del medidor serán las siguientes:
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 27 DE DICIEMBRE DE 2019, PÁGINA 29]</small>
+
+Se entiende por servicios Hoteleros: Aquellos predios utilizados por empresas dedicadas a ofrecer alojamiento temporal que utilizan el agua para el aseo personal de sus clientes, para la limpieza general de las instalaciones, elaboración de alimentos y actividades de recreación.
+
+En tanto se carezca de medidor en tomas de uso Hotelero se establecerá una cuota con base a un estudio previo efectuado por el personal autorizado por el sistema municipal de agua potable.
+
+e) Las tarifas base para el cobro de los servicios de agua potable para el uso de los servicios Públicos a la comunidad, considerando el consumo determinado de la lectura del medidor, serán las siguientes:
+
+[N. DE E. VÉASE TABLA EN EL D.O. DE 27 DE DICIEMBRE DE 2019, PÁGINAS DE LA 29 A LA 30].
+
+Se entienden por servicios generales: Aquellos predios utilizados por órganos, dependencias o entidades de la Federación y el Estado para fines de su función pública.
+
+En tanto se carezca de medidor en tomas de uso de servicios generales se establecerá una cuota con base a un estudio previo efectuado por el personal autorizado por el sistema municipal de agua potable.
 
 ###### Artículo 109.
 
@@ -1369,29 +1557,177 @@ Presunción de la prestación del servicio
 
 Para efectos de lo dispuesto en esta sección, se entenderá que el servicio de agua potable se presta con la mera existencia de la toma frente al predio, independientemente de si se hagan o no conexiones.
 
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 109 Bis.
+
+Sanciones
+
+Las sanciones que se impongan de conformidad con lo dispuesto en esta sección, deberán ser cubiertas en las oficinas de la caja recaudadora del municipio, dentro del término de quince días contados a partir de la fecha en que las resoluciones respectivas sean notificadas a los responsables. Los cuáles serán determinados según la tabla siguiente, con base a la Ley Orgánica de la Junta de Agua Potable del Estado de Yucatán.
+
+SANCIONES
+
+Tipo de multa UMA
+
+Multa por reconexión no autorizada – básica 12
+
+Multa por reconexión no autorizada – intermedia 23
+
+Multa por reconexión no autorizada – alta 35
+
+Multa por daños/manipulación del medidor – básica 12
+
+Multa por daños/manipulación del medidor – intermedia 23
+
+Multa por daños/manipulación del medidor – alta 35
+
+Multa por dar agua de otro predio de forma
+
+clandestina – básica 6
+
+Multa por dar agua de otro predio de forma
+
+clandestina – intermedia 17
+
+Multa por dar agua de otro predio de forma
+
+clandestina – alta 23
+
+Multa por recibir agua de otro predio de forma
+
+clandestina – básica 6
+
+Multa por recibir agua de otro predio de forma
+
+clandestina – intermedia 17
+
+Multa por recibir agua de otro predio de forma
+
+clandestina – alta 23
+
+Multa por toma obstaculizada – básica 6
+
+Multa por toma obstaculizada – intermedia 12
+
+Multa por toma obstaculizada – alta 23
+
+Multa por des limitación no autorizada 6
+
+Multa por cambio de tarifa sin previo aviso 12
+
+Multa por bomba directa al medidor 23
+
+Multa por toma clandestina 23
+
+Multa por daños/manipulación del medidor 23
+
+Multa por derivación antes del medidor 35
+
+Multa por conexión a hidrantes de bomberos 46
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 109 Ter.
+
+Otros servicios.
+
+Por otros servicios prestados en el Sistema de Agua Potable y drenaje, distintos al servicio de Consumo, se determinaran con base a las cuotas siguientes:
+
+CONTRATATO (SIC) DE TOMA ÚNICA (de 0 a 14 m)
+
+Concepto UMA
+
+Contratación toma única doméstico 12.9
+
+Contratación toma única comercial,
+
+Industrial, hotelero y servicios generales 13.8
+
+CONTRATACIÓN
+
+Concepto UMA
+
+Interconexiones 25
+
+Contratación fraccionadores con convenio 10
+
+Suministro, tendido e instalación de tubería
+
+ramal de 13 mm de diámetro interior y 19 mm
+
+de diámetro exterior, RD-9 para media toma
+
+domiciliaria, primera sección. Incluye:
+
+excavación de zanja de hasta 0.20 m por
+
+0.20 m de sección, en cualquier tipo de
+
+material y relleno con material seleccionado,
+
+producto de la excavación; flete; maniobras;
+
+herramientas; y mano de obra. No incluye
+
+reparación de pavimento 1.3
+
+Suministro, tendido e instalación de tubería
+
+ramal de 13 mm de diámetro interior y 19 mm
+
+de diámetro exterior, RD-9 para media toma
+
+domiciliaria, primera sección. Incluye:
+
+excavación de zanja de hasta 0.20 m por
+
+0.20 m de sección, en cualquier tipo de
+
+material y relleno con material seleccionado,
+
+producto de la excavación; flete; maniobras;
+
+herramientas; y mano de obra. Incluye
+
+reparación de pavimento 2.8
+
+DICTÁMENES
+
+> <small>[N. DE E. VÉANSE TABLAS EN EL D.O. DE 27 DE DICIMBRE DE 2019, PÁGINAS DE LA 32 A LA 33]</small>
+
 ###### Artículo 110.
 
 Tarifa por el servicio de drenaje
 
 Por el derecho al servicio de drenaje sanitario, se deberá pagar una cuota equivalente al 50% del importe del consumo de agua potable que corresponda al mismo periodo, de acuerdo con lo establecido por las fracciones I, II y III del artículo 108.
 
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 111.
 
 Exenciones
 
-Quedan exceptuados del pago de los derechos previstos en esta sección, los predios de dominio público del municipio, el estado de Yucatán o de la federación.
+Quedan exceptuados del pago de los derechos previstos en esta sección, los predios de dominio público del municipio.
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 112.
 
 Época de pago
 
-Los derechos a que se refiere esta sección, con excepción de los previstos en las fracciones IV y V del artículo 108, deberán cubrirse bimestralmente y se pagará dentro de los primeros quince días del periodo siguiente.
+Los derechos por servicio de Agua Potable y drenaje, deberán cubrirse bimestralmente y se pagará dentro de los primeros quince días del periodo siguiente.
 
 ###### Artículo 113.
 
-No aplicación de actualizaciones y recargos
+(DEROGADO, D.O. 27 DE DICIEMBRE DE 2019)
 
-No se causarán actualizaciones ni recargos de los derechos a que se refiere esta sección.
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 113 Bis.
+
+Recargo.
+
+La falta de pago oportuno de los usuarios correspondiente al Servicio de Agua Potable y drenaje, causará un recargo por una cuota de 2 UMA por recibo emitido, la cual deberá cubrir independientemente del monto facturado.
 
 ###### Artículo 114.
 
@@ -1401,11 +1737,13 @@ Los usuarios de este servicio están obligados a permitir que las autoridades fi
 
 #### Sección séptima. Alumbrado público
 
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 115.
 
 Objeto
 
-Es objeto de este derecho la prestación del servicio de alumbrado público para los habitantes del municipio. Se entiende por servicio de alumbrado público, el que el municipio otorga a la comunidad, en calles, plazas, jardines y otros lugares de uso común.
+Es objeto de este derecho la prestación del servicio de alumbrado público a favor y en beneficio de los habitantes del municipio de Tekax. Se entiende por servicio y mantenimiento de alumbrado público, la iluminación que el municipio otorga a la comunidad en calles, plazas, jardines y otros lugares de uso común, así como el mantenimiento y la ampliación de la red de distribución de dicho servicio.
 
 ###### Artículo 116.
 
@@ -1415,17 +1753,43 @@ Son sujetos obligados al pago de las cuotas del derecho de alumbrado público lo
 
 ###### Artículo 117.
 
+(DEROGADO, D.O. 27 DE DICIEMBRE DE 2019)
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 117 Bis.
+
 Tarifa
 
-La tarifa mensual correspondiente al derecho de alumbrado público será la obtenida como resultado de dividir el costo anual global general actualizado erogado por el municipio en la prestación de este servicio, entre el número de usuarios registrados en la Comisión Federal de Electricidad y el número de predios rústicos o urbanos detectados que no están registrados en la Comisión Federal de Electricidad. El resultado será dividido entre doce; y lo que dé como resultado de esta operación se cobrará en cada recibo que la Comisión Federal de Electricidad expida, y su monto no podrá ser superior al 5% de las cantidades que deban pagar los contribuyentes en forma particular, por el consumo de energía eléctrica.
+La tarifa mensual correspondiente al derecho de Alumbrado Público será la obtenida como resultado de dividir el costo anual, global, general, actualizado y erogado por el Municipio para la prestación de este servicio, entre el número de usuarios registrados en la Comisión Federal de Electricidad en el Municipio y el número de predios rústicos o urbanos detectados que no están registrados en la Comisión Federal de Electricidad. El resultado será dividido entre doce.
 
-Los propietarios o poseedores de predios rústicos o urbanos que no estén registrados en la Comisión Federal de Electricidad pagarán la tarifa resultante mencionada en el párrafo anterior, mediante el recibo que para tal efecto expida la dirección. Se entiende para los efectos de esta ley por costo anual global general actualizado erogado, la suma que resulte del total de las erogaciones efectuadas, en el período comprendido del mes de noviembre del penúltimo ejercicio inmediato anterior hasta el mes de octubre del ejercicio inmediato anterior, por gasto directamente involucrado con la prestación de este servicio traídos a valor presente tras la aplicación de un factor de actualización que se obtendrá para cada ejercicio dividiendo el Índice Nacional de Precios al Consumidor del mes de noviembre del ejercicio inmediato anterior entre el Índice Nacional de Precios al Consumidor correspondiente al mes de octubre del penúltimo ejercicio inmediato anterior.
+El importe resultante, se cobrará en parcialidades mensuales en cada recibo que expida la Comisión Federal de Electricidad a sus usuarios, y su monto no podrá ser superior al 5% de las cantidades que deban pagar los contribuyentes en forma particular, por el consumo de energía eléctrica.
+
+El costo total del Servicio y Mantenimiento de Alumbrado Público, se compondrá por aquellas cantidades que representen o sean equivalentes a los siguientes conceptos:
+
+I. Costo por servicios personales empleados en el año inmediato anterior en la instalación, operación y mantenimiento del servicio de alumbrado público, entendido como tal los sueldos, salarios compensaciones, servicio y contribuciones que se deriven de la administración de la nómina del Departamento de Alumbrado Público del Municipio de Tekax.
+
+II. Costo de los materiales, suministros y gastos de mantenimiento que fueron empleados durante el año próximo anterior en el servicio de alumbrado público, el cual se compondrá de lo erogado en los conceptos por compras y adquisiciones, reposición de lámparas, el mantenimiento de líneas eléctricas y postes, materiales, seguridad, herramientas y maquinaria, así como la operación y mantenimiento de ésta.
+
+III. Costo anual, global, general y actualizado del suministro de energía eléctrica, del año próximo anterior.
+
+IV. Costo de la ejecución de los nuevos proyectos de ampliación e introducción de servicio de alumbrado público, del año próximo anterior.
+
+Para los efectos de este artículo, se entenderá por "costo anual, global, general, actualizado y erogado" la suma que resulte del total de las erogaciones efectuadas, en el período comprendido del mes de noviembre del penúltimo ejercicio inmediato anterior hasta el mes de octubre del ejercicio inmediato anterior, por gasto involucrado con la prestación de este servicio por el Municipio y precisadas en las fracciones I a IV de este propio artículo, traídos a valor presente tras la aplicación de un factor de actualización que se obtendrá para cada ejercicio fiscal, dividiendo el Índice Nacional de Precios al Consumidor del mes de noviembre del año anterior al que se calcula, entre el Índice Nacional de Precios al Consumidor correspondiente al mes de octubre del año antepasado al del ejercicio fiscal actual.
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 118.
 
 Periodicidad
 
-El derecho de alumbrado público se causará mensualmente. El pago se hará dentro de los primeros 15 días siguientes al mes en que se cause, dicho pago deberá realizarse en las oficinas de la dirección o en las instituciones autorizadas para tal efecto. El plazo de pago a que se refiere este artículo podrá ser diferente, incluso podrá ser bimestral, en el caso a que se refiere el párrafo primero del artículo anterior.
+El derecho de alumbrado público se causará mensualmente. La época de pago de esta contribución, corresponderá a los períodos de facturación que por servicio de suministro de energía eléctrica expida la Comisión Federal de Electricidad a los contribuyentes.
+
+Si el período de facturación de la Comisión Federal de Electricidad es bimestral, el cobro corresponderá a dos parcialidades mensuales.
+
+Los propietarios o poseedores de predios rústicos, suburbanos o urbanos que no estén registrados en la Comisión Federal de Electricidad, pagarán la tarifa, mediante el recibo que para tal efecto expida la Tesorería Municipal. El pago será efectuado en parcialidades mensuales, que deberán ser enteradas dentro de los primeros quince días de cada mes.
+
+Para los efectos del presente artículo, el Tesorero Municipal dará a conocer a través de un acuerdo publicado en el Periódico Oficial del Estado de Yucatán, a más tardar al quinto día hábil del inicio de cada año, el monto que resulte del costo anual, global, general, actualizado y erogado, así como el número de contribuyentes del presente derecho, y las operaciones aritméticas que permitan conocer con certeza, la tarifa mensual resultante.
 
 ###### Artículo 119.
 
@@ -1447,17 +1811,27 @@ Sujetos obligados
 
 Son sujetos obligados al pago de los derechos por recolección y traslado de residuos, las personas físicas o morales que utilicen los referidos servicios, sean estos prestados por una dependencia o por una entidad paramunicipal.
 
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+El objeto de este derecho, corresponde a la recolección de basura a domicilio o en los lugares que al efecto se establezcan en los reglamentos municipales correspondientes.
+
 ###### Artículo 122.
 
 Cuotas y tarifas
 
 Por el servicio público de recolección y traslado de residuos, se pagarán derechos conforme a las siguientes cuotas y tarifas:
 
-I. Para el caso de predios residenciales, por mes: 0.25 UMA
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
-II. Para el caso de predios comerciales o industriales, por cada tambor recolectado: 0.12 UMA
+I. Para el caso de predios residenciales, por mes: 0.30 UMA
 
-III. Por cada viaje de recolección: 3.50 UMA
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+II. Para el caso de predios comerciales o industriales, por cada tambor recolectado: 0.36 UMA
+
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+III. Por cada viaje de recolección solicitado: 3.50 UMA
 
 ###### Artículo 123.
 
@@ -1471,6 +1845,10 @@ No aplicación de actualizaciones y recargos
 
 No se causarán actualizaciones ni recargos de los derechos a que se refiere esta sección.
 
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+El servicio se puede suspender en los casos de: falta de pago oportuno, cuando sean residuos peligrosos y cuando los residuos se encuentren en lugares inaccesibles para el recolector.
+
 ###### Artículo 125.
 
 Descuento anual
@@ -1483,15 +1861,47 @@ Los contribuyentes que paguen anticipadamente, durante los meses de enero y febr
 
 ###### Artículo 126.
 
-Sujetos obligados
+(DEROGADO, D.O. 27 DE DICIEMBRE DE 2019)
 
-Son sujetos obligados al pago del derecho de limpia, las personas físicas o morales que sean propietarias o poseedoras de bienes inmuebles en desuso ubicados en el municipio y que soliciten el servicio, y este sea autorizado por la autoridad competente del ayuntamiento.
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 126 Bis.
+
+Objeto y Sujetos obligados
+
+Es objeto de este derecho el servicio público de limpieza de predios prestado por el ayuntamiento a los habitantes del municipio. Se entenderá como servicio de limpia, aquellos trabajos realizados por el Ayuntamiento para conservar en condiciones de sanidad los bienes inmuebles en desuso.
+
+Son sujetos de este derecho:
+
+I. Los propietarios o poseedores de predios urbanos en el área territorial del municipio que se determine con la cobertura de recolección de basura.
+
+II. Los propietarios de lotes baldíos en los que el ayuntamiento respectivo preste el servicio público de limpieza.
+
+III. Los ciudadanos que soliciten servicios especiales de limpia, debiendo para tal fin celebrar contrato especial con el ayuntamiento, independientemente de que el servicio vaya a prestarse en forma eventual, periódica o permanente.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 126 Ter.
+
+Base
+
+Servirá de base para el cobro de este derecho:
+
+I. La superficie total del predio que sea objeto de limpia por parte del personal del municipio cuando la Dirección de Servicios Públicos Municipales determine la limpieza de un predio baldío, después de haberse agotado el procedimiento procesal administrativos (sic), conforme al reglamento municipal correspondiente.
+
+II. Tratándose de servicio contratado, la periodicidad y forma en que el servicio deba prestarse de acuerdo con lo estipulado en el contrato.
 
 ###### Artículo 127.
 
 Tarifa
 
-Por el servicio público de limpia, se pagarán derechos equivalentes a 0.15 UMA por cada metro cuadrado de la superficie del inmueble en el cual se efectúe el servicio de limpia.
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Por el servicio público de limpia, se pagarán derechos equivalentes a 0.15 UMA por cada metro cuadrado de la superficie del inmueble en el cual se efectúe el servicio de limpia. El pago se realizará en la caja de la Tesorería Municipal o con la persona que el Ayuntamiento designe.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+El dueño de los predios relacionados con la prestación del servicio público de limpieza en cualquiera de las modalidades señaladas como sujetos obligados responde de manera objetiva por el pago de créditos fiscales que se generen con motivo de la prestación de dichos servicios.
 
 #### Sección décima. Licencias de funcionamiento y permisos temporales
 
@@ -1899,6 +2309,16 @@ La dependencia competente del ayuntamiento realizará la investigación socioeco
 
 #### Sección décima tercera. Catastro
 
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 147 Bis.
+
+Objeto y sujeto.
+
+Son objeto de estos derechos, los servicios que prestan las autoridades municipales en materia de catastro, de conformidad con las disposiciones aplicables que rijan en el municipio correspondiente.
+
+Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios de catastro.
+
 ###### Artículo 148.
 
 Cuotas y tarifas
@@ -1991,6 +2411,24 @@ No causarán derecho alguno las divisiones de terrenos en zonas rústicas que se
 
 Las instituciones públicas quedan exentas del pago de los derechos que establece esta sección.
 
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 149 Bis.
+
+Época y lugar de pago
+
+El pago de los derechos por los servicios prestados en materia de catastro, se hará por anticipado al solicitar el servicio en las oficinas que para tal efecto establezca la tesorería municipal.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 149 Ter.
+
+Objeto y sujeto
+
+Son objeto de este derecho, la matanza, guarda en corrales, transporte, peso en básculas e inspección de animales realizados en el rastro municipal
+
+Son sujetos obligados al pago de los derechos por matanza de ganado, las personas físicas o morales que utilicen el servicio de Rastro Público para el sacrificio de animales, prestado por alguna dependencia del Ayuntamiento, o bien una paramunicipal u organismo descentralizado de la Administración Pública Municipal.
+
 #### Sección décima cuarta. Rastro
 
 ###### Artículo 150.
@@ -2035,7 +2473,25 @@ La inspección de carne en los rastros públicos no causará derecho alguno, per
 
 Las personas que incumplan con lo dispuesto en el párrafo anterior serán sancionadas con una multa equivalente a (sic) de 4 a 10 UMA, por cada pieza de ganado introducida.
 
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 151 Bis.
+
+Época de pago
+
+El pago deberá efectuarse invariablemente al hacerse la solicitud del servicio, realizado en el Rastro Municipal, en las oficinas que para tal efecto establezca la tesorería municipal.
+
 #### Sección décima quinta. Supervisión sanitaria de matanza de animales
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 151 Ter.
+
+Objeto y Sujeto
+
+El Ayuntamiento a través de sus órganos administrativos podrá autorizar la matanza de ganado fuera de los rastros públicos del Municipio, previo el cumplimiento del pago de derecho y los requisitos que determinan la Ley de Salud del Estado de Yucatán y su Reglamento.
+
+Son sujetos de estos derechos, las personas que soliciten la autorización para matanza de animales en domicilio particular.
 
 ###### Artículo 152.
 
@@ -2049,6 +2505,10 @@ II. Porcino: 0.75 UMA
 
 III. Ovino o caprino: 0.75 UMA
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+El incumplimiento, por el servicio de supervisión sanitaria de matanza de animales en el domicilio particular, será sancionado con base al segundo párrafo del artículo 151 de esta Ley. En caso de reincidencia, dicha sanción se duplicará.
+
 #### Sección décima sexta. Vigilancia
 
 ###### Artículo 153.
@@ -2056,6 +2516,10 @@ III. Ovino o caprino: 0.75 UMA
 Prestación del servicio
 
 El servicio de vigilancia se prestará a las personas físicas o morales que lo soliciten voluntariamente o por ser necesario para cumplir con las disposiciones legales o normativas que requieran contar con el servicio de vigilancia para llevarse a cabo algún evento o actividad.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Es objeto de este derecho el servicio de vigilancia prestado por la policía municipal.
 
 ###### Artículo 154.
 
@@ -2068,6 +2532,10 @@ I. En fiestas de carácter social, exposiciones y asambleas, por jornada de ocho
 II. En las centrales y terminales de autobuses, centros deportivos empresas, instituciones y empresas particulares, por jornada de ocho horas: 5.00 UMA
 
 III. En cualquier tipo de actividad, por hora de servicio: 1.00 UMA
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+El pago de los derechos por servicio de vigilancia, se hará por anticipado al solicitar el servicio, en las oficinas de la Tesorería Municipal.
 
 #### Sección décima séptima. Corralón y grúa
 
@@ -2109,6 +2577,14 @@ b) Camiones, autobuses, microbuses y minibuses: 8.00 UMA
 
 III. Salvamento, rescate y traslado de vehículos accidentados: 12.00 UMA
 
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 156 Bis.
+
+Época de pago
+
+El pago de los derechos por servicio de Corralón y grúa se hará una vez proporcionado el servicio, de acuerdo a las cuotas establecidas en la ley y en los lugares autorizados por la Tesorería Municipal.
+
 #### Sección décima octava. Protección civil
 
 ###### Artículo 157.
@@ -2137,7 +2613,25 @@ VI. Emisión del análisis de riesgo, cuando se trate de instituciones educativa
 
 Cuando por su denominación algún establecimiento no se encuentre comprendido en la clasificación anterior, se ubicará en aquel en que por sus características le sea más semejante.
 
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 158 Bis.
+
+Época de Pago.
+
+El pago de los derechos se hará al momento de solicitar el servicio de protección civil en las oficinas de la tesorería municipal.
+
 #### Sección décima novena. Servicios y permisos en materia de panteones
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 158 Ter.
+
+Objeto y Sujeto
+
+Son objeto del derecho por servicios y permisos en materia de panteones, aquellos que sean solicitados y prestados por el Ayuntamiento, los cuales se enlistan en el Artículo 159 de esta Ley.
+
+Son sujetos del derecho a que se refiere la presente sección, las personas físicas o morales que soliciten y reciban, alguno o algunos de los servicios en materia de panteones prestados por el ayuntamiento.
 
 ###### Artículo 159.
 
@@ -2165,7 +2659,33 @@ IX. Por el otorgamiento de la concesión para operar un panteón particular, por
 
 X. Por el otorgamiento de la concesión para operar un crematorio particular, por cada año concesionado: 200.00 UMA
 
-#### Sección vigésima. Certificados y constancies (sic)
+> <small>(ADICIONADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+XI. Autorización de traslado de un Cadáver de un municipio a otro, previo permiso sanitario y del Registro Civil.
+
+3.6 UMA, más 0.1 UMA por kilómetro recorrido
+
+> <small>(ADICIONADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+XII. Autorización de traslado de un Cadáver fuera del Estado de Yucatán, previo permiso sanitario y del Registro Civil.
+
+3.6 UMA, más 0.2 UMA por kilómetro recorrido
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 159 Bis.
+
+Para el cómputo del número de kilómetros recorridos señalados en el artículo anterior fracción XI y XII se considerará como kilómetros recorridos, las distancias establecidas por la Secretaría de Comunicaciones y Transportes, entre el punto de origen hasta el punto de destino del traslado.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 159 Ter.
+
+El pago por los servicios y permisos de panteones se realizará al momento de solicitarlos, en las oficinas de la tesorería municipal o donde esta última lo designe.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+#### Sección vigésima. Certificados y constancias
 
 #### Sección vigésima primera. Acceso a la información pública
 
@@ -2195,6 +2715,14 @@ Entre los certificados o constancias previstos en la fracción I, se encuentran 
 
 Los certificados, constancias, duplicados y certificaciones que se prevean de forma específica en otra disposición de esta ley, se deberán pagar las cuotas o tarifas que se establezcan en la referida disposición.
 
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 160 Bis.
+
+Época de pago
+
+El pago de los derechos a que se refiere esta sección, se hará por anticipado en las oficinas de la tesorería municipal o donde esta última designe.
+
 #### Sección vigésima segunda. Gaceta oficial
 
 ###### Artículo 161.
@@ -2215,6 +2743,14 @@ II. Por la certificación de copias, por cada página: 3 Pesos
 
 III. Por la entrega de información en disco compacto (CD) o disco versátil digital (DVD): 10 Pesos
 
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 162 Bis.
+
+Época de pago
+
+El pago de los derechos causados por los materiales empleados en la Unidad de Transparencia se realizará en las oficinas de Tesorería o bien donde esta última lo designe.
+
 ###### Artículo 163.
 
 Cuotas y tarifas
@@ -2230,6 +2766,14 @@ III. La publicación de cualquier documento previsto en la fracción II, por cad
 IV. La publicación de cualquier documento previsto en la fracción II que no exceda de media plana: 4.00 UMA
 
 V. La publicación de cualquier documento previsto en la fracción II, por cada plana: 7.00 UMA
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 163 Bis.
+
+Época de pago
+
+El pago de los derechos causados por los servicios relacionados con la emisión de los ejemplares y publicaciones de la Gaceta Municipal del Ayuntamiento, se realizará al momento de solicitar el servicio en las oficinas de la Tesorería municipal o donde se designe.
 
 ### Capítulo IV. Productos
 
@@ -2594,3 +3138,13 @@ Secretaria general de Gobierno, encargada del Despacho del Gobernador, conforme 
 Lic. Olga Rosas Moya
 
 Secretaria de Administración y Finanzas, en funciones de secretaria general de Gobierno, conforme al artículo 18 del Código de la Administración Pública de Yucatán
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 152/2019 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CHICXULUB PUEBLO, CHOCHOLÁ, DZIDZANTÚN, MOTUL, SACALUM, TEKAX, TEMAX, TIZIMÍN, TZUCACAB Y UMÁN".]
+
+Artículo primero.- Este Decreto entrará en vigor el día primero de enero del año 2020, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo.- En cuanto a la Ley de Hacienda para el Municipio de Motul, Yucatán, en el ejercicio fiscal 2020, el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder de un 10 % del que le haya correspondido durante el ejercicio fiscal 2019 para los predios cuyo valor catastral sea menor o igual a $ 350,000.00 y para los predios cuyo valor catastral sea mayor a $350,000.00, el impuesto predial no podrá exceder de un 15 % del que le haya correspondido durante el ejercicio fiscal 2019. El comparativo se hará con base en el impuesto principal, sin tomar en consideración bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
