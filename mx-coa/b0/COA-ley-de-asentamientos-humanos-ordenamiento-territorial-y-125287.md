@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-ordenamiento-territorial-y-125287"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-26"
-last_updated: "2018-05-29"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de diciembre de 2017.
 
@@ -117,9 +117,11 @@ XVI. Seguridad: Promueve las condiciones de seguridad personal y patrimonial; as
 
 XVII. Sustentabilidad Ambiental: Promover prioritariamente, el uso racional del agua y de los recursos naturales renovables y no renovables, para evitar comprometer la capacidad de futuras generaciones. Así como evitar rebasar la capacidad de carga de los ecosistemas y que el crecimiento urbano ocurra sobre suelos agropecuarios de alta calidad, áreas naturales protegidas o bosques.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 4.
 
-Para los efectos de esta la Leyse (sic) entenderá por:
+Para los efectos de esta la (sic) Ley se entenderá por:
 
 I. Acción urbanística: Actos o actividades tendientes al uso o aprovechamiento del suelo dentro de áreas urbanizadas o urbanizables, tales como subdivisiones, parcelaciones, fusiones, relotificaciones, fraccionamientos, condominios, conjuntos urbanos o urbanizaciones, así como de construcción, ampliación, remodelación, reparación, restauración, demolición o reconstrucción de inmuebles, de propiedad pública o privada. Comprende también la realización de obras de equipamiento, infraestructura o servicios urbanos en la entidad;
 
@@ -145,7 +147,9 @@ XI. Conservación: La acción tendiente a mantener el equilibrio ecológico y pr
 
 XII. Consolidación: La acción tendiente al mejor aprovechamiento de la infraestructura, el equipamiento o los servicios existentes en una zona determinada de un centro de población, ocupando los espacios y predios baldíos y subutilizados dentro de su área urbanizada;
 
-XIII. Constancia de factibilidad educativa: Documento emitido por el Instituto Coahuilense de la Infraestructura Física Educativa, mediante el cual se hace constar que las áreas de cesión destinadas a equipamiento urbano, que sean necesarias para la construcción de espacios educativos, cuentan con las superficies, características y especificaciones, de conformidad con las disposiciones aplicables, instrumento sin el cual no se autorizará la acción urbanística que corresponda;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+XIII. Constancia de factibilidad educativa: Documento emitido por el Instituto Coahuilense de la Infraestructura Física Educativa, mediante el cual se hace constar que las áreas de cesión destinadas a equipamiento urbano, que sean necesarias para la construcción de espacios educativos, cuentan con las superficies, características y especificaciones, de conformidad con las disposiciones aplicables;
 
 XIV. Constancia de zonificación: El documento informativo oficial expedido por la autoridad municipal, a solicitud de una persona física o moral, en la cual se hacen constar el o los usos o el destino establecido en el plan o programa de desarrollo urbano a un inmueble determinado;
 
@@ -511,9 +515,13 @@ XXVII. Resolver sobre los recursos administrativos que conforme a su competencia
 
 XXVIII. Las demás que les señale esta Leyy (sic) otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 13.
 
-Los municipios podrán suscribir convenios de coordinación con el Gobierno del Estado de Coahuila de Zaragoza, con el propósito de que este último asuma el ejercicio de funciones que en materia de asentamientos humanos y desarrollo urbano le corresponden a los municipios, cuando el gobierno municipal lo solicite, justificando sus razones para ello. Dichos convenios serán publicados en el Periódico Oficial del Gobierno del Estado.
+Los municipios podrán suscribir convenios de coordinación con el Gobierno del Estado de Coahuila de Zaragoza, con el propósito de que este último asuma el ejercicio de funciones que en materia de asentamientos humanos y desarrollo urbano le (sic) corresponden a los municipios, o bien para que los municipios asuman las funciones o servicios que les corresponden al Estado a través de la Secretaría, justificando sus razones para ello. Dichos convenios serán publicados en el Periódico Oficial del Gobierno del Estado.
+
+Los municipios deberán informar a la Secretaría, dentro de los cinco días hábiles siguientes, los trámites que realicen derivados del ejercicio de las funciones asumidas en virtud de los convenios de coordinación a que se refiere el párrafo anterior.
 
 ###### Artículo 14.
 
@@ -811,7 +819,9 @@ XI. Las prioridades de ocupación de las áreas de conservación, consolidación
 
 XII. Las demás disposiciones que de acuerdo con la legislación aplicable sean procedentes.
 
-La unidad administrativa de desarrollo urbano municipal, podrá autorizar la modificación de densidad habitacional a una densidad inmediata mayor o menor por única vez, siempre que se acredite que se tiene la capacidad y viabilidad de la infraestructura y los servicios correspondientes.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+La unidad administrativa de desarrollo urbano municipal, podrá autorizar la modificación de densidad habitacional a una densidad inmediata mayor o menor, siempre que se acredite que se tiene la capacidad y viabilidad de la infraestructura y los servicios correspondientes.
 
 ### CAPÍTULO SEGUNDO. DEL PROGRAMA ESTATAL DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO
 
@@ -2307,7 +2317,9 @@ IV. La autorización de impacto ambiental en su caso, que expida la autoridad co
 
 V. La autorización del impacto urbano, que expida la Secretaría en los supuestos y términos que establece esta Ley;
 
-VI. La constancia de factibilidad educativa emitida por el Instituto Coahuilense de la Infraestructura Física Educativa en los casos de licencias de fraccionamientos;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+VI. Las constancias de factibilidad, que de conformidad con las disposiciones aplicables, sean necesarias para los efectos de este artículo;
 
 VII. La documentación que acredite que el solicitante está al corriente en el pago del impuesto predial;
 
@@ -2330,6 +2342,10 @@ Las autorizaciones, permisos, licencias, certificaciones, constancias y document
 La autorización a que se refiere la fracción IV de este artículo no será exigible tratándose de solicitudes de la constancia de zonificación.
 
 No se otorgará licencia de uso o destino de suelo y licencia de funcionamiento sin cubrir los requisitos a que se refieren las fracciones X y XI para los solicitantes que ejerzan o pretendan ejercer actividad minera.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+La constancia de factibilidad educativa emitida por el Instituto Coahuilense de la Infraestructura Física Educativa en los casos de licencias de fraccionamientos, deberá obtenerse, cuando sea necesaria para la construcción de espacios educativos, por la autoridad municipal, de conformidad con el párrafo tercero de la fracción III del artículo 197 y el párrafo tercero de la fracción III del artículo 198 de esta Ley y demás disposiciones aplicables.
 
 ###### Artículo 159.
 
@@ -2594,6 +2610,14 @@ La electrificación y el alumbrado públicos se regirán por las leyes de la mat
 ###### Artículo 191.
 
 Los fraccionamientos habitacionales son aquellos destinados a la construcción de viviendas unifamiliares o multifamiliares, comprendidos en el área urbana de los centros de población.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Los fraccionamientos habitacionales urbanos de cualquiera de las densidades que se prevén en el artículo 166 de esta ley, estarán ubicados en las zonas, y como mínimo, con las características de lotificación, usos de suelo, cesión de áreas, vialidad e infraestructura urbana, que se establezcan en el plan director de desarrollo urbano del centro de población correspondiente y/o en los reglamentos municipales de la materia, por lo que no les serán aplicables los artículos 192 a 199 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Cuando el plan director de desarrollo urbano de algún centro de población y/o los reglamentos municipales de la materia, no contemple las características a que se refiere el párrafo anterior, se deberá cumplir con lo dispuesto en el presente capítulo.
 
 ###### Artículo 192.
 
@@ -4154,3 +4178,15 @@ SEXTO. En un plazo no mayor de un año contado a partir de la entrada en vigor d
 SÉPTIMO. Las autorizaciones, permisos y licencias expedidas conforme a las disposiciones aplicables durante la vigencia de la ley que se reforma, continuarán vigentes hasta la conclusión del término con el que fueron otorgadas.
 
 OCTAVO. Toda referencia a la Secretaría de Infraestructura y Transporte que haga alguna disposición legal o administrativa, así como a la Secretaría de Medio Ambiente y Desarrollo Urbano, en materia de asentamientos humanos, ordenamiento territorial y/o desarrollo urbano, deberá entenderse hecha a la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 495.- SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 4, EL ARTÍCULO 13, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 33 Y LA FRACCIÓN VI DEL ARTÍCULO 158; Y SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 158, Y LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 191, DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONAN LOS PÁRRAFOS TERCEROS (SIC) Y CUARTO AL ARTÍCULO 8, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y SE REFORMA EL ARTÍCULO 13, DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
