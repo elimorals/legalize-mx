@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2018-10-01"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -769,7 +769,9 @@ V. Visitadurías Generales;
 
 VI. Direcciones Operativas, y
 
-VII. Contraloría Interna.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+VII. Órgano Interno de Control.
 
 ###### ARTICULO 55.
 
@@ -1059,9 +1061,9 @@ Esta Dirección tiene como objeto central facilitar las tareas sustantivas de la
 
 El Órgano Interno de Control es la instancia de la Comisión dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones; y contará con las atribuciones que le prescribe la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
-En el ejercicio de sus atribuciones la persona titular del Órgano Interno de Control, se abstendrá de interferir en el desempeño de las funciones y en el ejercicio de las atribuciones de defensa y promoción de los Derechos Humanos de los servidores de la Comisión.
+En el ejercicio de sus atribuciones, el Órgano Interno de Control se abstendrá de interferir en el desempeño de las funciones y en el ejercicio de las atribuciones de defensa y promoción de los Derechos Humanos, de los servidores públicos de la Comisión.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE OCTUBRE DE 2018)</small>
 
@@ -1103,33 +1105,79 @@ VIII. Vigilar el cumplimiento de las normas y disposiciones sobre el registro, c
 
 IX. Rendir anualmente al Congreso del Estado en el mes de enero de cada año, un informe de labores que explique sobre el cumplimiento de las responsabilidades que le consigna esta Ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 79.
 
-La persona titular de la Contraloría Interna será designada, previa convocatoria pública, por el Congreso del Estado, con el voto de la mayoría de sus miembros presentes. Durará en su encargo cuatro años, y podrá ser reelecta por una sola vez; y así mismo, no podrá ser removida sino por los casos y causas que establezcan las leyes de la materia.
+La persona titular del Órgano Interno de Control será electa, previa convocatoria pública, por el Congreso del Estado, con el voto de la mayoría de sus miembros presentes. Durará en su encargo cuatro años, y podrá ser reelecta por una sola vez; y así mismo, no podrá ser removida sino por los casos y causas que establezcan las leyes de la materia.
 
-En la designación la persona titular de la Contraloría Interna, el Congreso del Estado se sujetará a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+En la elección de la persona titular del Órgano Interno de Control, el Congreso del Estado se sujetará a lo siguiente:
 
 I. Nombrará una comisión especial de cinco legisladores, encargada de sustanciar el procedimiento en los términos del presente artículo;
 
-II. La comisión especial emitirá una convocatoria pública, en la que se establecerán las bases a que se sujetará la elección la persona titular de la Contraloría Interna, y los requisitos que deberán cubrir las personas que aspiren a ejercer ese encargo misma que deberá ser publicada en el Periódico Oficial del Estado, y cuando menos en uno de los diarios locales de mayor circulación en la Entidad;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
-III. La comisión integrará una lista no menor de tres aspirantes, que presentará a la consideración del Pleno del Congreso del Estado;
+II. La comisión especial emitirá una convocatoria pública, en la que se establecerán las bases a que se sujetará la elección de la persona titular del Órgano Interno de Control, y los requisitos que deberán cubrir las personas que aspiren a ejercer ese encargo, misma que deberá ser publicada en el Periódico Oficial del Estado, y cuando menos en uno de los diarios locales de mayor circulación en la Entidad;
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
-IV. El Pleno del Congreso por mayoría de sus miembros presentes, de la lista presentada por la comisión especial, elegirá en votación por cédula, a quien deberá fungir como persona titular de la Contraloría Interna de la Comisión, y
+III. La comisión integrará una lista con el nombre de las personas aspirantes que hayan cumplido los requisitos establecidos en la ley y en la convocatoria respectiva, misma que presentará a la consideración del Pleno del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+IV. El Pleno del Congreso por mayoría de sus miembros presentes, de la lista presentada por la comisión especial, elegirá en votación por cédula, a quien deberá fungir como titular del Órgano Interno de Control de la Comisión, y
 
 V. Efectuada la elección, se citará a la persona electa para que rinda la protesta de ley, ante el Pleno del Congreso.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 79 BIS. Las autoridades, Investigadora; y Substanciadora, integrantes del Órgano Interno de Control, serán electas, previa convocatoria pública, por el Congreso del Estado, con el voto de la mayoría de sus miembros presentes. Durarán en su encargo cuatro años, y podrán ser reelectas por una sola vez; no podrán ser removidas sino por los casos y causas que establezcan las leyes de la materia.
+
+En la elección de las autoridades, Investigadora; y Substanciadora, el Congreso del Estado se sujetará a lo siguiente:
+
+I. Nombrará una Comisión Especial de cinco legisladores, encargada de sustanciar el procedimiento en los términos del presente artículo;
+
+II. La Comisión Especial emitirá una convocatoria pública, en la que se establecerán las bases a que se sujetará la elección de las autoridades, Investigadora; y Substanciadora, así como los requisitos que deberán cubrir las personas que aspiren a ejercer estos cargos. La Convocatoria deberá ser publicada en el Periódico Oficial del Estado, y cuando menos en uno de los diarios locales de mayor circulación en la Entidad;
+
+III. La Comisión Especial integrará una lista con el nombre de las personas aspirantes que hayan cumplido los requisitos establecidos en la ley y en la convocatoria respectiva, misma que presentará a la consideración del Pleno del Congreso del Estado;
+
+IV. El Pleno del Congreso por mayoría de sus miembros presentes, de la lista presentada por la Comisión Especial, elegirá a quienes deberán fungir como autoridades, Investigadora; y Substanciadora, del Órgano Interno de Control de la Comisión, y
+
+V. Efectuada la elección, se citará a las personas electas para que se les tome la protesta de ley, ante el Pleno del Congreso.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 79 TER. El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+
+III. Contar al momento de su elección con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público;
+
+IV. Contar al día de su elección, con título profesional antigüedad mínima de cinco años, con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello;
+
+V. Contar con reconocida solvencia moral;
+
+VI. No pertenecer o haber pertenecido en los cinco años anteriores a su elección, a despachos de consultoría o auditoría que hubieren prestado sus servicios a la Comisión, o haber fungido como consultor o auditor externo de la Comisión, en lo individual durante ese periodo;
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+VIII. No haber sido titular de los poderes; Ejecutivo; Legislativo; o Judicial, ni titular de sus dependencias y entidades; dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político; ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia elección.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 80.
 
-La Contraloría Interna contará con los recursos necesarios para mantener un sistema de vigilancia de los procesos administrativos de la Comisión. A este efecto, deberá coordinarse con la Auditoría Superior del Estado.
+El Órgano Interno de Control contará con los recursos necesarios para mantener un sistema de vigilancia de los procesos administrativos de la Comisión. A este efecto, deberá coordinarse con la Auditoría Superior del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 81.
 
-La Contraloría Interna privilegiará siempre la evaluación operativa, buscando mejorar permanentemente los servicios de defensa y promoción de los Derechos Humanos. Para ello, utilizará los principios establecidos en el Capítulo Segundo del Título Primero de esta Ley.
+El Órgano Interno de Control privilegiará siempre la evaluación operativa, buscando mejorar permanentemente los servicios de defensa y promoción de los Derechos Humanos. Para ello utilizará los principios establecidos en el Capítulo Segundo del Título Primero de esta Ley.
 
 En caso de duda, los criterios de eficacia operativa en las tareas sustantivas de la Comisión, tendrán prioridad sobre criterios meramente normativos o formales.
 
@@ -1780,3 +1828,15 @@ P.O. 1 DE OCTUBRE DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0449.- SE REFORMAN LOS ARTÍCULOS 54, 78, 79, 80 Y 81; Y ADICIONAN LOS ARTÍCULOS 79 BIS Y 79 TER DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. El Congreso del Estado, dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, deberá iniciar el proceso para la elección de las autoridades, Investigadora; y Substanciadora, integrantes del Órgano Interno de Control, de la Comisión Estatal de Derechos Humanos del Estado de San Luis Potosí.
+
+TERCERO. Los titulares de las autoridades, Investigadora; y Substanciadora, integrantes del Órgano Interno de Control, de la Comisión Estatal de Derechos Humanos del Estado de San Luis Potosí, que a la entrada en vigor de este Decreto se encuentren en funciones, seguirán en el cumplimiento de su cargo, hasta en tanto el Congreso del Estado elija a quienes deban suplirlos, en los términos precisados en el Transitorio que antecede.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
