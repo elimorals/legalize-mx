@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2018-12-24"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "SON"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ENERO DE 2020 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO FISCAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
 
@@ -134,6 +136,10 @@ II.- (DEROGADA, B.O. 24 DE DICIEMBRE DE 2018)
 ###### ARTÍCULO 7º.
 
 No podrá exigirse el pago de tributo alguno que no se encuentre previsto en la Ley de Hacienda del Estado, en la Ley de Ingresos o en una Ley especial.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+El Gobernador del Estado, a través del Secretario de Hacienda del Estado, con el objeto de simplificar las obligaciones de los contribuyentes, de facilitar la recaudación de los ingresos y de hacer más efectivos y prácticos sus registros o sistemas de control fiscal, podrá dictar disposiciones de carácter general, para modificar o adicionar el control, formas de pago y procedimiento, siempre que no varíe en forma alguna el sujeto, objeto, base, cuota, tasa o tarifa de los gravámenes, infracciones y sanciones.
 
 ###### ARTÍCULO 8º.
 
@@ -573,11 +579,11 @@ Los contribuyentes que hayan ejercido la opción a que se refiere el primer pár
 
 Se podrán compensar los créditos y deudas entre el Estado por una parte y la Federación y Municipios, por la otra. Tratándose de la compensación con Federación y Municipios se requerirá acuerdo previo con éstos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 33.
 
-Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas o tengan la obligación de pagar, retener o de recaudar impuestos, así como, todas aquellas personas físicas o morales cuyas actividades sean reguladas por leyes administrativas en el Estado, deberán solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Hacienda, proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal, mediante los avisos respectivos, dentro de los treinta días siguientes al inicio de sus actividades, salvo que las leyes fiscales señalen otro plazo. Las personas obligadas a presentar su inscripción y demás avisos, lo harán en las oficinas exactoras de su jurisdicción, mismas que podrán prellenar el formato de registro indicado en el portal electrónico de la Secretaría de Hacienda, las que deberán proporcionarles su cédula de registro expedida por la Secretaría de Hacienda, la cual deberá constar en lugar visible del establecimiento y a falta de este conservarse en el domicilio del interesado. Asimismo, las personas a que se refiere este párrafo estarán obligadas a manifestar al Registro Estatal de Contribuyentes su domicilio fiscal; en el caso de cambio de domicilio fiscal, deberán presentar el aviso correspondiente, dentro del mes siguiente al día en que tenga lugar dicho cambio salvo que al contribuyente se le hayan iniciado facultades de comprobación y no se le haya notificado la resolución a que se refiere el artículo 62 Bis de este Código, en cuyo caso deberá presentar el aviso previo a dicho cambio con cinco días de anticipación. La autoridad fiscal podrá considerar como domicilio fiscal del contribuyente aquel en que se verifique alguno de los supuestos establecidos en el artículo 15 de este Código, cuando el manifestado en las solicitudes y avisos a que se refiere este artículo no corresponda a alguno de los supuestos de dicho precepto.
+Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas o tengan la obligación de pagar, retener o de recaudar impuestos, así como, todas aquellas personas físicas o morales cuyas actividades sean reguladas por leyes administrativas en el Estado, deberán solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Hacienda, proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal, así como su dirección de correo electrónico, mediante los avisos respectivos, dentro de los treinta días siguientes al inicio de sus actividades, salvo que las leyes fiscales señalen otro plazo. Las personas obligadas a presentar su inscripción y demás avisos, lo harán en las oficinas exactoras de su jurisdicción, mismas que podrán prellenar el formato de registro indicado en el portal electrónico de la Secretaría de Hacienda, las que deberán proporcionarles su cédula de registro expedida por la Secretaría de Hacienda, la cual deberá constar en lugar visible del establecimiento y a falta de este conservarse en el domicilio del interesado. Asimismo, las personas a que se refiere este párrafo estarán obligadas a manifestar al Registro Estatal de Contribuyentes su domicilio fiscal; en el caso de cambio de domicilio fiscal, deberán presentar el aviso correspondiente, dentro del mes siguiente al día en que tenga lugar dicho cambio salvo que al contribuyente se le hayan iniciado facultades de comprobación y no se le haya notificado la resolución a que se refiere el artículo 62 Bis de este Código, en cuyo caso deberá presentar el aviso previo a dicho cambio con cinco días de anticipación. La autoridad fiscal podrá considerar como domicilio fiscal del contribuyente aquel en que se verifique alguno de los supuestos establecidos en el artículo 15 de este Código, cuando el manifestado en las solicitudes y avisos a que se refiere este artículo no corresponda a alguno de los supuestos de dicho precepto.
 
 Quedan exceptuados de la obligación de inscribirse los sujetos a que alude el artículo 6 de este Código, sin menoscabo de la obligación de retener o de recaudar contribuciones en los casos que lo dispongan las leyes.
 
@@ -588,6 +594,10 @@ La solicitud o los avisos a que se refiere el primer párrafo de este artículo 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 Los avisos, declaraciones o manifestaciones se harán en las formas oficiales que al efecto se publiquen en el portal electrónico de la Secretaría de Hacienda, pudiendo reproducirse por cualquier interesado, salvo tratándose de formas valoradas, las cuales serán proporcionadas en las oficinas recaudadoras de acuerdo a las disposiciones administrativas de carácter general que establezca dicha Secretaría. A falta de forma publicada, se podrá utilizar formato libre.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Cuando en la solicitud de inscripción al Registro Estatal, o en los avisos correspondientes, se hubiese incurrido en errores u omisiones o empleado de manera equivocada las formas aprobadas, se darán a conocer los datos correctos a las oficinas exactoras respectivas utilizando para tal efecto, las formas oficiales pertinentes, e indicando en ellas que se presentan para “corrección de errores u omisiones”. Con el original de la reposición se devolverá la copia del documento erróneo.
 
 > <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -625,9 +635,21 @@ Las entidades y dependencias que tengan a su cargo la aplicación de subsidios o
 
 Los particulares que tengan derecho al otorgamiento de subsidio o estímulos y que se ubiquen en los supuestos de las fracciones I y II del artículo 33 TER, no se consideran comprendidos en dichos supuestos cuando previo a la aplicación del estímulo celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo.
 
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 34.
 
-La Secretaría de Finanzas, llevará el Registro Estatal de Contribuyentes basándose en los datos que las personas le proporcionen de conformidad con el artículo anterior y en los que la propia Secretaría obtenga por cualquier otro medio; asimismo asignará la clave que corresponda a cada persona inscrita, quien deberá citarla en todo documento que presente ante las autoridades fiscales y jurisdiccionales, cuando en este último caso se trate de asuntos en que la Secretaría de Finanzas sea parte.
+La Secretaría de Hacienda, llevará el Registro Estatal de Contribuyentes basándose en los datos que las personas le proporcionen de conformidad con el artículo 33 de este Código y en los que la propia Secretaría obtenga por cualquier otro medio; asimismo asignará la clave que corresponda a cada persona inscrita, quien deberá citarla en todo documento que presente ante las autoridades fiscales y jurisdiccionales, cuando en este último caso se trate de asuntos en que la Secretaría de Hacienda sea parte.
+
+Así mismo, la Secretaría de Hacienda llevará el Registro Estatal de Contribuyentes, unificando de manera ordenada los registros de contribuciones locales, el Registro Estatal Vehicular; así como, los datos correspondientes a los ingresos federales coordinados.
+
+Para efectos de lo dispuesto en el párrafo anterior, la Secretaría de Hacienda deberá contemplar lo dispuesto en los ordenamientos jurídicos que regulan dichos registros, además de las reglamentaciones establecidas en este Código para el Registro Estatal de Contribuyentes, pudiendo obviar requisitos que se repitan entre un ordenamiento y otro, al momento de establecer los trámites de inscripción o modificaciones a los registros citados en el párrafo que antecede.
+
+Las personas que no lleven a cabo actividades de las señaladas en el artículo 33 de este Código, y que se den de alta en el Registro Estatal Vehicular de conformidad con la Ley de Control Vehicular para el Estado de Sonora, no tendrán la obligación de solicitar su inscripción al Registro Estatal de Contribuyentes, ni a presentar los avisos a que se refiere el mencionado artículo, pero serán incorporadas al Registro Estatal de Contribuyentes por la Secretaría de Hacienda, misma que al momento del trámite de alta al Registro Estatal Vehicular, les asignará la clave señalada en el primer párrafo de este artículo e integrará el Registro Estatal de Contribuyentes únicamente con la información que se deba proporcionar por dichas personas al Registro Estatal Vehicular, actualizando cada movimiento de forma automática conforme se vayan solicitando las modificaciones al citado Registro Estatal Vehicular en términos de las leyes de la materia.
+
+Las autoridades fiscales podrán solicitar a los contribuyentes la información necesaria para su inscripción y actualización de sus datos en el citado Registro Estatal de Contribuyentes e inscribir de oficio a quienes de conformidad con las disposiciones fiscales deban estarlo y no cumplan con esta obligación, sin perjuicio de las sanciones y demás consecuencias legales derivadas de dicha omisión.
+
+No se considera que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando derivado de lo señalado en el párrafo anterior, soliciten a los particulares los datos, informes y documentos necesarios para corregir o actualizar el Registro Estatal de Contribuyentes o en su caso, inscribirlos de oficio a dicho registro.
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -648,6 +670,10 @@ I.- Del domicilio, excepción hecha de quienes solo causen impuestos que deban s
 II.- De razón o denominación social, al que acompañarán copia de la escritura correspondiente;
 
 III.- De aumento o disminución de obligaciones, suspensión o reanudación de actividades;
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+El aviso de reanudación de actividades no implica nueva inscripción al Registro Estatal de Contribuyentes.
 
 > <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -905,11 +931,13 @@ b).- Contar con reconocida experiencia y solvencia moral, así como con el tiemp
 
 c).- Prestar sus servicios en forma gratuita.
 
-> <small>(ADICIONADA, B.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-III.- Realizar recorridos, invitaciones y censos para informar y asesorar a los contribuyentes acerca del exacto cumplimiento de sus obligaciones fiscales y promover su incorporación voluntaria o actualización de sus datos en el Registro Estatal de Contribuyentes.
+III.- Realizar recorridos, invitaciones y censos para informar y asesorar a los contribuyentes acerca del exacto cumplimiento de sus obligaciones fiscales y promover la actualización de sus datos en el Registro Estatal de Contribuyentes. Encontrándose facultada la autoridad en términos del artículo 34 de este Código, para inscribir de oficio a las personas físicas y morales que hubieran sido detectadas en dichos recorridos, en la omisión de inscribirse al Registro Estatal de Contribuyentes teniendo obligación de hacerlo.
 
-No se considera que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando derivado de lo señalado en el párrafo que antecede, soliciten a los particulares los datos, informes y documentos necesarios para corregir o actualizar el Registro Estatal de Contribuyentes.
+> <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN III], B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+No se considera que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando derivado de lo señalado en la fracción III de este artículo, soliciten a los particulares los datos, informes y documentos necesarios para corregir o actualizar el Registro Estatal de Contribuyentes o en su caso, inscribirlos de oficio a dicho registro.
 
 Asimismo, las autoridades fiscales darán a conocer a los contribuyentes, a través de los medios de difusión, los criterios de carácter interno que emitan para el debido cumplimiento de las disposiciones fiscales, salvo aquéllos que, a juicio de la propia autoridad, tengan el carácter de confidenciales, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos cuando se publiquen en el Boletín Oficial del Estado de Sonora.
 
@@ -1209,9 +1237,13 @@ Así mismo, las autoridades que tengan o hayan tenido relaciones con alguno o al
 
 No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando únicamente soliciten los datos, informes y documentos a que se refiere este artículo, pudiendo ejercerlas en cualquier momento.
 
-> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-ARTÍCULO 54 BIS.- Las autoridades fiscales podrán llevar a cabo verificaciones para constatar los datos proporcionados al Registro Estatal de Contribuyentes, relacionados con la identidad, domicilio y demás datos que se hayan manifestado para los efectos de dicho registro, sin que por ello se considere que las autoridades fiscales inician sus facultades de comprobación.
+ARTICULO 54 BIS.- Las autoridades fiscales podrán llevar a cabo verificaciones para constatar los datos proporcionado (sic) al Registro Estatal de Contribuyentes, relacionados con la identidad, domicilio y demás datos que se hayan manifestado para los efectos de dicho registro, o para constatar que los contribuyentes se encuentran inscritos al registro mencionado, sin que por ello se considere que las autoridades fiscales inician sus facultades de comprobación.
+
+Cuando con motivo de las verificaciones citadas en el párrafo que antecede, la autoridad detecte inconsistencias en los datos proporcionados al Registro Estatal de Contribuyentes, proporcionará al contribuyente las formas oficiales pertinentes para que indique en ellas los datos correctos y se las devuelva en ese mismo acto a la autoridad, a fin de que actualice dicho registro. La autoridad cotejará con la documentación idónea, que sea correcta la información asentada por el contribuyente en dicha forma oficial.
+
+Asimismo, cuando se constate que un contribuyente no se encuentra inscrito al Registro Estatal de Contribuyentes estando obligado a ello, la autoridad lo inscribirá de oficio, observando para ello lo dispuesto en el artículo 34 de este Código.
 
 ###### ARTÍCULO 55.
 
@@ -2587,9 +2619,9 @@ De las diligencias en que conste la notificación o cita, el notificador tomara 
 
 En los casos de sociedades en liquidación, cuando se hubieran nombrado varios liquidadores, las notificaciones o diligencias que deban efectuarse con las mismas podrán practicarse válidamente con cualquiera de ellos.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causará a cargo de quien incurrió en el incumplimiento la cantidad de $60.00 por concepto de honorarios de notificación, misma que la autoridad recaudadora determinará conjuntamente con la notificación y se pagará al cumplir con el requerimiento. Dicha cantidad se actualizará semestralmente de conformidad con el artículo 149 de este Ordenamiento.
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causará a cargo de quien incurrió en el incumplimiento la cantidad de $180.00 por concepto de honorarios de notificación, misma que la autoridad recaudadora determinará conjuntamente con la notificación y se pagará al cumplir con el requerimiento. Dicha cantidad se actualizará anualmente de conformidad con el artículo 149 de este Ordenamiento.
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -2942,6 +2974,14 @@ Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios 
 Cuando el requerimiento y el embargo a que se refiere este artículo se lleven a cabo en una misma diligencia se efectuará un solo cobro por concepto de gastos de ejecución.
 
 Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Los ingresos recaudados por concepto de gastos de ejecución, se destinarán al establecimiento de un fondo revolvente de gastos de cobranza, salvo que por Ley estén destinados a otros fines. El destino de estos ingresos será con independencia del presupuesto que tengan asignado las autoridades fiscales estatales para dichos gastos de cobranza.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+La Secretaría de Hacienda expedirá Reglas de Carácter General para la aplicación del fondo revolvente señalado en el párrafo anterior. En tanto se emitan las citadas Reglas, se aplicará supletoriamente la reglamentación que, en su caso, hayan emitido las autoridades fiscales para regular el cobro y aplicación de los gastos de ejecución.
 
 Cuando las autoridades fiscales ordenen la práctica de un avalúo, y éste resulte superior en más de un 10% del valor declarado por el contribuyente, éste deberá cubrir el costo de dicho avalúo.
 
@@ -4432,3 +4472,19 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Lo dispuesto en el artículo 41 Decies del Código Fiscal del Estado de Sonora, será aplicable a partir del ejercicio fiscal del año 2019, a efecto de que el primer dictamen se presente a más tardar el día 30 de julio de 2020, por el citado ejercicio fiscal del año 2019.
+
+B.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 91, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, DE LA LEY DE HACIENDA DEL ESTADO, DE LA LEY DE TRÁNSITO DEL ESTADO DE SONORA, DE LA LEY DE BIENES Y CONCESIONES, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, DE LA LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE SONORA Y DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 01 de enero de 2020, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para que la Secretaría de Hacienda del Estado de Sonora, esté en posibilidades de dar cabal cumplimiento a lo dispuesto en los artículos 17, párrafo segundo de la Ley de Tránsito del Estado de Sonora y 316, párrafos tercero, cuarto y quinto de la Ley de Hacienda del Estado, deberá realizar el proceso de contratación sujetándose a lo previsto en el artículo 25 de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal. Debiendo cubrir el pago de la póliza de seguro de responsabilidad civil en el mes de enero del 2020, para que los ciudadanos obtengan el beneficio planteado en los artículos señalados de las leyes de Tránsito del Estado de Sonora y de Hacienda del Estado, a partir del primer minuto del primer día de dicho año.
