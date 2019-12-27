@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2019-11-12"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -1123,9 +1123,11 @@ V.- La indicación del lugar donde se puedan obtener las pruebas que el reclaman
 
 En la demanda se ofrecerán y acompañarán las pruebas de que se disponga y los documentos que acrediten la personalidad del representante, en su caso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 120.
 
-Dentro de las setenta y dos horas siguientes a la presentación de la demanda, el tribunal dictará auto de radicación señalando fecha y hora de la audiencia de conciliación, demanda y excepciones, ofrecimiento y recepción de pruebas, ordenando emplazar a la parte demandada, corriéndole traslado con las copias simples de la demanda, documentos anexos y del acuerdo de radicación, apercibiéndola que de no contestar la demanda se le tendrá por contestada en sentido afirmativo, salvo prueba en contrario.
+Dentro de las setenta y dos horas siguientes a la presentación de la demanda, el tribunal dictará auto de radicación señalando fecha y hora de la audiencia de conciliación, demanda y excepciones, ordenando emplazar a la parte demandada, corriéndole traslado con las copias simples de la demanda, documentos anexos y del acuerdo de radicación, apercibiéndola que de no contestar la demanda se le tendrá por contestada en sentido afirmativo, salvo prueba en contrario.
 
 En el mismo acuerdo se ordenará que se notifique personalmente a las partes con diez días de anticipación a la fecha de la audiencia; la falta de esta notificación obligará al tribunal a señalar de oficio nueva fecha y hora para la celebración de la audiencia, salvo que el actor se desista de la acción intentada. El acuerdo en mención deberá contener además las observaciones del artículo siguiente.
 
@@ -1391,7 +1393,9 @@ I.- El actuario se cerciorará de que la persona que deba ser notificada tenga s
 
 II.- Encontrándose el interesado o su apoderado, el actuario notificará la resolución entregando copia de la misma; si se trata de la parte demandada, lo asentará en el acta y en su caso, se asegurará de que la persona con quien entiende la diligencia, es el representante legal;
 
-III.- Si no está presente el interesado o su representante, se le dejará citatorio para que lo espere al día siguiente en hora determinada;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+III.- Si no está presente el interesado o su representante, se le dejará citatorio para que lo espere al día siguiente en hora determinada, si el domicilio se encuentra cerrado, y es el señalado por las partes para recibir notificaciones, en términos de los artículos 148 y 149 de esta Ley, el actuario fijará el citatorio en la puerta del inmueble y asentará razón de ello, observando lo dispuesto por el artículo 158 de la presente Ley;
 
 IV.- Si no obstante el citatorio, no está presente el interesado o su representante, la notificación podrá entenderse con la persona que se encuentre en la casa, local u oficina señalados, siempre que sea mayor de edad. Si estuvieren cerrados, se fijará una copia de la resolución en la puerta de acceso; y
 
@@ -1401,9 +1405,11 @@ V.- Si en la casa, local u oficina designados para hacer la notificación se neg
 
 En todos los casos señalados anteriormente el actuario levantará razón en el acta, señalando con claridad los elementos de convicción en que se apoye.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 154.
 
-Las siguientes notificaciones personales se harán al interesado o persona autorizada el día siguiente en que se dicte la resolución, si concurre al local del Tribunal o en el domicilio que hubiere designado y si no estuviere presente, se le dejará copia de la resolución respectiva; si la casa o local estuvieren cerrados, se fijará la copia en la puerta de entrada y se asentará razón en autos de lo anterior.
+Las siguientes notificaciones personales se harán al interesado o persona autorizada, si concurre al local del Tribunal, o en el domicilio que hubiere designado y si no estuviere presente, se le dejará copia de la resolución respectiva; si la casa o local estuvieren cerrados, se fijará la copia en la puerta de entrada y se asentará razón en autos de lo anterior.
 
 ###### ARTICULO 155.
 
@@ -1953,8 +1959,24 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 12 DE NOVIEMBRE DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0312.- SE DEROGA DEL ARTÍCULO 105 LA FRACCIÓN III, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0312.- SE DEROGA DEL ARTÍCULO 105 LA FRACCIÓN III, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
-PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0445.- SE REFORMA EL ARTÍCULO 120 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0446.- SE REFORMAN LOS ARTÍCULOS 152 Y 154 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
