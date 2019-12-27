@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-tzucacab-yucatan-132536"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-29"
-last_updated: "2018-12-29"
+last_updated: "2019-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE TZUCACAB
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
-Ley publicada en el Suplemento Número II del Diario Oficial del Gobierno del Estado de Yucatán, el sábado 29 de diciembre de 2018.
+Ley publicada en el Suplemento Número II del Diario Oficial del Estado de Yucatán, el sábado 29 de diciembre de 2018.
 
 Decreto 23/2018 por el que se emiten las leyes de Hacienda de los municipios de Motul, Kanasín, Peto, Tapakan, Tekax y Tzucacab, Yucatán
 
@@ -919,11 +919,13 @@ Cuando la base del impuesto predial sea el valor catastral del inmueble, el impu
 
 El impuesto predial sobre la base de valor catastral deberá cubrirse por bimestres anticipados dentro de los primeros quince días de cada uno de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año.
 
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 72.
 
 Descuento
 
-Cuando el contribuyente pague en una sola exhibición el impuesto predial correspondiente a una anualidad, durante el primer bimestre del año de dicho año, gozará de un descuento del 10% sobre el importe de dicho impuesto.
+Cuando el contribuyente pague en una sola exhibición el impuesto predial correspondiente a una anualidad, durante los primeros meses de enero, febrero y marzo del año de dicho año, gozará de un descuento del 30%, 20% y 10% sobre el importe de dicho impuesto, adicionalmente se aplicara un descuento del 50% a las personas de tercera edad presentando su copia de credencial de adulto mayor.
 
 ###### Artículo 73.
 
@@ -1321,7 +1323,9 @@ IV. Por el suministro de agua, a través de pipa chica: 2.00 UMA
 
 V. Por el suministro de agua, a través de pipa grande: 3.75 UMA
 
-VI. Por la conexión a la toma de agua potable: 3.75 UMA
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+VI. Por la conexión a la toma de agua potable: 3.00 UMA
 
 VII. Por la reconexión de los servicios de agua
 
@@ -1349,11 +1353,13 @@ Exenciones
 
 Quedan exceptuados del pago de los derechos previstos en esta sección, los predios de dominio público del municipio, el estado de Yucatán o de la federación.
 
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 110.
 
 Época de pago
 
-Los derechos a que se refieren las fracciones I, II y III del artículo 106 deberán cubrirse bimestralmente y se pagará dentro de los primeros quince días del periodo siguiente.
+Los derechos a que se refieren las fracciones I, II y III del artículo 106 deberán cubrirse mensualmente y se pagará dentro de los primeros quince días del periodo siguiente.
 
 ###### Artículo 111.
 
@@ -1489,19 +1495,27 @@ Cuotas para giros relacionados con la venta de bebidas alcohólicas
 
 Por el otorgamiento de licencias de funcionamiento de establecimientos o locales cuyos giros comprendan la venta de bebidas alcohólicas, sea en envase cerrado o para consumo en el mismo lugar, se pagarán derechos conforme a las siguientes cuotas:
 
-I. Vinaterías o licorerías: 186 UMA
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
-II. Expendios de cerveza: 186 UMA
+I. Vinaterías o licorerías: 165 UMA
+
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+II. Expendios de cerveza: 140 UMA
 
 III. Supermercados que comercialicen
 
 cervezas, vinos o licores: 310 UMA
 
-IV. Minisúper: 248 UMA
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+IV. Minisúper: 186 UMA
 
 V. Centros nocturnos y discotecas: 496 UMA
 
-VI. Cantinas y bares: 372 UMA
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+VI. Cantinas y bares: 165 UMA
 
 VII. Clubes sociales: 186 UMA
 
@@ -1517,131 +1531,27 @@ Revalidación anual
 
 Por el otorgamiento de la revalidación anual de licencias para el funcionamiento de los establecimientos referidos en el artículo anterior, se pagará una cuota equivalente al 25% de lo establecido para la expedición de la primera licencia de funcionamiento.
 
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 131.
 
 Cuotas por otros giros comerciales
 
 Por el otorgamiento de licencias de funcionamiento de establecimientos o locales comerciales se pagarán derechos conforme a las siguientes cuotas:
 
-I. Billares; bisuterías; boneterías; cocinas económicas;
+I. Billares; bisuterías; boneterías; cocinas económicas; dulcerías; establecimientos de venta de hamburguesas y similares; expendios de alimentos balanceados; expendios de pollos asados; expendios de refrescos naturales; fondas; gimnasios; invernaderos; lavanderías; loncherías; misceláneas; peleterías; puestos de venta de revistas, periódicos, casetas, discos compactos de cualquier formato; relojerías; sastrerías; subagencias de refrescos; talabartería; talleres de reparación de aparatos electrónicos; talleres de reparación de bicicletas; talleres de reparación de motos; talleres de torno general; taquerías; tendejones; tiendas de novedades, juguetes y regalos; tiendas de plásticos; y zapaterías: 6 UMA
 
-dulcerías; establecimientos de venta de hamburguesas
+II. Almacenes de ropa; arrendadora de sillas y mesas; balnearios; cafeterías; carnicerías; carpinterías; centros de cómputo e internet; centros de copiado; centros de estudio de fotos y grabación; depósitos de relleno de agua purificada; establecimientos para la contratación de mudanzas y transportes; establecimientos para la renta de juegos infantiles y diversiones; expendios de refrescos; fábricas de hielo; ferreterías; floristerías; fruterías; heladerías; imprentas; lavaderos de carros; librerías; llanteras; negocios de reparación telefonía celular; ópticas; paleterías; papelerías; peluquerías; pescaderías; pizzerías; pollerías; servicios agropecuarios; talleres de compraventa de zapatos; talleres de costura; talleres de hojalatería; talleres de instalación de audio; talleres mecánicos; talleres y tiendas de artesanías; tiendas de abarrotes; tiendas de jugos embolsados; tiendas de ropa; tiendas de telas y regalos; tlapalerías; verdulerías; y vulcanizadoras: 11 UMA
 
-y similares; expendios de alimentos balanceados;
+III. Academias; boticas; casetas; consultorios; despachos de servicios profesionales; establecimientos para la compraventa de vehículos usados; estéticas unisex; expendios de aceites y aditivos; expendios de gas butano; farmacias; laboratorios; molinos de grano; negocios de telefonía celular; panaderías; restaurantes; talleres de herrería, aluminio y cristales; tortillerías; veterinarias; y videoclubes: 21 UMA
 
-expendios de pollos asados; expendios de refrescos
+IV. Bodegas de todo tipo; casas de empeños; centros de servicio automotriz; establecimientos para la compraventa de materiales de construcción; establecimientos para la compraventa de motos, bicicletas y refacciones; fideicomisos; funerarias; minisúper; plantas purificadoras de agua; refaccionarias automotriz (sic); y salas de fiestas: 51 UMA
 
-naturales; fondas; gimnasios; invernaderos; lavanderías;
+V. Clínicas; escuelas particulares; financieras; establecimientos para la compraventa de oro y plata; fábricas y maquiladoras de hasta veinte empleados; hospitales; hostales; hoteles; moteles; mueblerías; y oficinas de servicios de sistemas de televisión: 100 UMA
 
-loncherías; misceláneas; peleterías; puestos de venta de
+VI. Agencias de automóviles nuevos; bancos, centros cambiarios e instituciones financieras; cinemas; fábricas y maquiladoras de hasta cincuenta empleados; gaseras; gasolineras; y tiendas de artículos de electrodomésticos, muebles y línea blanca: 250 UMA
 
-revistas, periódicos, casetas, discos compactos de
-
-cualquier formato; relojerías; sastrerías; subagencias
-
-de refrescos; talabartería; talleres de reparación
-
-de aparatos electrónicos; talleres de reparación de
-
-bicicletas; talleres de reparación de motos; talleres de
-
-torno general; taquerías; tendejones; tiendas de
-
-novedades, juguetes y regalos; tiendas de plásticos;
-
-y zapaterías: 5 UMA
-
-II. Almacenes de ropa; arrendadora de sillas y mesas;
-
-balnearios; cafeterías; carnicerías; carpinterías; centros
-
-de cómputo e internet; centros de copiado; centros de
-
-estudio de fotos y grabación; depósitos de relleno de
-
-agua purificada; establecimientos para la contratación
-
-de mudanzas y transportes; establecimientos para la
-
-renta de juegos infantiles y diversiones; expendios de
-
-refrescos; fábricas de hielo; ferreterías; floristerías;
-
-fruterías; heladerías; imprentas; lavaderos de carros;
-
-librerías; llanteras; negocios de reparación (sic) telefonía
-
-celular; ópticas; paleterías; papelerías; peluquerías;
-
-pescaderías; pizzerías; pollerías; servicios agropecuarios;
-
-talleres de compraventa de zapatos; talleres de costura;
-
-talleres de hojalatería; talleres de instalación de audio;
-
-talleres mecánicos; talleres y tiendas de artesanías;
-
-tiendas de abarrotes; tiendas de jugos embolsados;
-
-tiendas de ropa; tiendas de telas y regalos; tlapalerías;
-
-verdulerías; y vulcanizadoras: 10 UMA
-
-III. Academias; boticas; casetas; consultorios; despachos
-
-de servicios profesionales; establecimientos para la
-
-compraventa de vehículos usados; estéticas unisex;
-
-expendios de aceites y aditivos; expendios de gas
-
-butano; farmacias; laboratorios; molinos de grano;
-
-negocios de telefonía celular; panaderías; restaurantes;
-
-talleres de herrería, aluminio y cristales; tortillerías;
-
-veterinarias; y videoclubes: 20 UMA
-
-IV. Bodegas de todo tipo; casas de empeños;
-
-centros de servicio automotriz; establecimientos
-
-para la compraventa de materiales de construcción;
-
-establecimientos para la compraventa de motos,
-
-bicicletas y refacciones; fideicomisos; funerarias;
-
-minisúper; plantas purificadoras de agua; refaccionarias
-
-automotriz; y salas de fiestas: 50 UMA
-
-V. Clínicas; escuelas particulares; establecimientos
-
-para la compraventa de oro y plata; fábricas y maquiladoras
-
-de hasta veinte empleados; hospitales; hostales; hoteles;
-
-moteles; mueblerías; y oficinas de servicios de sistemas
-
-de televisión: 100 UMA
-
-VI. Agencias de automóviles nuevos; bancos,
-
-centros cambiarios e instituciones financieras;
-
-cinemas; fábricas y maquiladoras de hasta
-
-cincuenta empleados; gaseras; gasolineras;
-
-y tiendas de artículos de electrodomésticos,
-
-muebles y línea blanca: 250 UMA
-
-VII. Fábricas y maquiladoras de más de cincuenta
-
-empleados; supermercados; tienda departamental: 500 UMA
+VII. Fábricas y maquiladoras de más de cincuenta empleados; supermercados; tienda departamental: 500 UMA
 
 Cuando por su denominación algún establecimiento no se encuentre comprendido en la clasificación anterior, se ubicará en aquel en que por sus características le sea más semejante.
 
@@ -2061,13 +1971,21 @@ II. Verificación de medidas y colindancias de predios
 
 de hasta 100 m²: 1.50 UMA
 
-III. Verificación de medidas y colindancias de predios
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
-mayores de 100 m²: 3.75 UMA
+III. Verificación de medidas y colindancias
 
-IV. Expedición de oficios de división o unión: 1.50 UMA
+de predios mayores de 100 m²: 2.50 UMA
 
-V. Expedición de cédulas catastrales: 1.50 UMA
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+IV. Expedición de constancias de propiedad, custodia: .59 UMA
+
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+V. Expedición de Documentos de Donación y
+
+Compra-Venta de predios: .59 UMA
 
 ###### Artículo 147.
 
@@ -2714,3 +2632,13 @@ LICENCIADO JOSÉ ALFONSO LOZANO POVEDA, DIRECTOR DEL DIARIO OFICIAL DEL GOBIERNO
 QUE LAS PRESENTES COPIAS CONSISTENTES DE CIENTO CINCUENTA Y NUEVE FOJAS ÚTILES, SON FIEL REPRODUCCIÓN DEL ORIGINAL QUE TUVE A LA VISTA, DEL SUPLEMENTO II DE LA EDICIÓN NÚMERO 33,762 DE FECHA 29 DE DICIEMBRE DEL AÑO 2018.
 
 SE EXPIDE LA PRESENTE CERTIFICACIÓN EN LA CIUDAD DE MÉRIDA, CAPITAL DEL ESTADO DE YUCATÁN, A LOS VEINTINUEVE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL DIECIOCHO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 152/2019 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CHICXULUB PUEBLO, CHOCHOLÁ, DZIDZANTÚN, MOTUL, SACALUM, TEKAX, TEMAX, TIZIMÍN, TZUCACAB Y UMÁN”.]
+
+Artículo primero.- Este Decreto entrará en vigor el día primero de enero del año 2020, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo.- En cuanto a la Ley de Hacienda para el Municipio de Motul, Yucatán, en el ejercicio fiscal 2020, el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder de un 10 % del que le haya correspondido durante el ejercicio fiscal 2019 para los predios cuyo valor catastral sea menor o igual a $ 350,000.00 y para los predios cuyo valor catastral sea mayor a $350,000.00, el impuesto predial no podrá exceder de un 15 % del que le haya correspondido durante el ejercicio fiscal 2019. El comparativo se hará con base en el impuesto principal, sin tomar en consideración bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
