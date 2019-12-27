@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2018-12-28"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -43,37 +43,11 @@ LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
 ### CAPÍTULO ÚNICO. PRINCIPIOS GENERALES
 
+> <small>(REFORMADO, P.O. DE 27 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 1.
 
-La Hacienda Pública del Estado de Campeche, para atender los gastos y cumplir las obligaciones de su administración, organización y prestación de servicios públicos, percibirá en cada ejercicio fiscal los ingresos que por concepto de impuestos, derechos, productos, aprovechamientos, ingresos extraordinarios, participaciones y fondos de aportaciones federales autorice la Ley de Ingresos que anualmente aprueba el Congreso del Estado. Todos los ingresos a que se refiere la presente Ley son inembargables.
-
-La Hacienda Pública del Estado de Campeche se compone:
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2015)</small>
-
-I.- De los ingresos provenientes de los impuestos al comercio de libros, periódicos y revistas; sobre la extracción de materiales del suelo y subsuelo; sobre nóminas; sobre servicios de hospedaje; sobre loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos; a las erogaciones en juegos y concursos; adicional para la preservación del patrimonio cultural, infraestructura y deporte y, a la venta final de bebidas con contenido alcohólico;
-
-II.- De los ingresos provenientes de los derechos derivados de la prestación de servicios públicos;
-
-III.- De los ingresos provenientes de los productos derivados de la enajenación de bienes muebles e inmuebles propiedad del Estado; el importe de los arrendamientos de bienes muebles e inmuebles propiedad del Estado; por servicios prestados por los talleres gráficos del Estado y Periódico Oficial; por bienes mostrencos y vacantes; por instituciones de asistencia social; por aquellos que deriven de los contratos o leyes que lo establezcan y por la explotación de los recursos naturales propiedad de la Federación que se encuentren en el territorio del Estado, conforme a los términos y proporciones que le asignen las leyes y convenios relativos;
-
-IV.- De los ingresos provenientes de los aprovechamientos originados por conceptos de garantías y multas, reintegros, donaciones, préstamos y aquellos que se deriven de concesiones y contratos, indemnizaciones a favor del Estado, fianzas cuya pérdida se declare por resolución firme a favor del Estado, accesorios de las contribuciones y gastos de administración;
-
-V.- De los ingresos extraordinarios tales como financiamientos, impuestos y derechos extraordinarios, expropiaciones, contribuciones de mejoras y especiales; 1% sobre obras que se realicen en el Estado; y apoyos financieros federales.
-
-VI.- De las participaciones que por ingresos federales se le asignen de acuerdo con lo dispuesto en la Ley de Coordinación Fiscal, el Decreto de Presupuesto de Egresos de la Federación, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, y el Convenio de Colaboración Administrativa en materia Fiscal Federal y sus anexos;
-
-VII.- De los incentivos económicos derivados de los Convenios de Colaboración Administrativa en materia Fiscal Federal y sus anexos;
-
-VIII.- De los Fondos de Aportaciones Federales que el Gobierno Federal le determine por los conceptos y montos de conformidad con la Ley de Coordinación Fiscal, así como el Decreto de Presupuesto de Egresos de la Federación;
-
-IX.- De las utilidades de los organismos descentralizados de carácter estatal, empresas de participación estatal y fideicomisos;
-
-X.- De ingresos provenientes de las tasas adicionales que, en su caso, fije la Legislatura Local;
-
-XI.- De los capitales, créditos, obligaciones y empréstitos a favor del Estado, así como las donaciones, herencias y legados que reciba; y
-
-XII.- De los bienes muebles e inmuebles propiedad del Estado.
+La Hacienda Pública del Estado de Campeche se compone de los ingresos provenientes de: Impuestos, Cuotas y Aportaciones de Seguridad Social, Contribuciones de Mejoras, Derechos, Productos, Aprovechamientos, Ingresos por Ventas de Bienes, Prestación de Servicios y Otros Ingresos, Participaciones, Fondos de Aportaciones Federales, Convenios, Incentivos derivados de la Colaboración Fiscal y Fondos distintos de Aportaciones, Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos, Transferencias, Asignaciones, Subsidios, Subvenciones, Pensiones y Jubilaciones e Ingresos derivados de Financiamientos; así como los recargos, multas y actualizaciones que en su caso se generen y, demás rubros que se encuentren establecidos en esta Ley, en la Ley de Ingresos del Estado de Campeche y cualesquiera otra ley que establezca ingresos a favor del Estado que deberá percibir en cada ejercicio fiscal. Estos ingresos estarán destinados a atender los gastos públicos y cumplir las obligaciones de su administración, organización y prestación de servicios públicos Todos los ingresos a que se refiere la presente Ley son inembargables.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -95,9 +69,9 @@ El pago de las contribuciones a que se refiere esta Ley, deberá efectuarse en l
 
 Los comprobantes que se expidan por concepto de pago de derechos, tendrán vigencia hasta el 31 de diciembre del mismo año fiscal de su expedición. Concluida la vigencia únicamente podrá exigirse la contraprestación siempre y cuando se pague la diferencia que pudiera tener el costo presente de la misma, esta actualización no podrá extenderse por más de 5 años, plazo en el cual de manera definitiva quedarán sin efecto el o los pagos, sin derecho a devolución como tampoco a la contraprestación.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 27 DE DICIEMBRE DE 2019)</small>
 
-ARTÍCULO 3 BIS.- Los ingresos derivados de las contribuciones previstas en la presente ley, previa autorización del Congreso del Estado, podrán ser afectados a fideicomisos de medio de pago o garantía y/o a fideicomisos constituidos para contratar financiamientos conforme a la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
+ARTÍCULO 3 bis.- Los ingresos derivados de las contribuciones previstas en la presente ley, previa autorización del H. Congreso del Estado, podrán ser afectados a fideicomisos de medio de pago o garantía y/o a fideicomisos constituidos para contratar financiamientos conforme a la Ley de Obligaciones, Financiamientos y Deuda Pública del Estado de Campeche y sus Municipios.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -1155,185 +1129,455 @@ El pago de los derechos que establece el artículo anterior, deberá hacerse por
 
 ### CAPÍTULO II. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DE COMERCIO
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. DE 27 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 56.
 
-Los actos o contratos que por disposición de las leyes de la materia o por voluntad de las partes, deban ser inscritos en los libros del Registro Público de la Propiedad y de Comercio del Estado, causarán un derecho conforme a las siguientes tarifas y cuotas y se pagarán previa prestación del servicio:
+Los Derechos por la prestación de los servicios del Estado, a través del Registro Público de la Propiedad y de Comercio, se causarán y pagarán de la forma siguiente:
 
-I. De la propiedad raíz, por la inscripción de inmuebles o derechos reales que transfieran o modifiquen la propiedad, el derecho se causará conforme a la siguiente tarifa:
+I.- Por la inscripción de actos contenidos en documentos relativos a actos de comercio, sociedades y personas morales mercantiles.
 
-Porcentaje sobre el excedente del límite inferior
+Unidad de
 
-Cuota fija
+Medida y
 
-HASTA $ 120,000.00 $ 45.00
+Actualización
 
-DE $ 120,001.00 A $ 200,000.00 $ 65.00 0.10%
+1 Calificación o análisis jurídico de cualquier
 
-DE $ 200,001.00 A $ 300,000.0 $100.00 0.20%
+documento que se presente para su inscripción
 
-DE $ 300,001.00 A $ 400,000.0 $ 120.00 0.30%
+y se niegue la misma, por no ser inscribible,
 
-DE $ 400,001.00 EN ADELANTE $150.00 0.40%
+o se resuelva sin inscripción voluntaria del
 
-Para el cobro del presente derecho se tomará como base el valor que resulte más alto entre el avalúo bancario, el valor fiscal o catastral y valor de operación.
+interesado o por resolución judicial 1
 
-Unidades de Medida
+2 Inscripción de Acta de sesión de consejo de
 
-y Actualización
+administración 3.5
 
-II. Por el examen de cualquier documento público o
+3 Inscripción de Asamblea 3.5
 
-Privado que se presente para su inscripción y se
+4 Inscripción de Constitución de Sociedad mercantil 5
 
-niegue la misma, por no ser inscribible, o se resuelva
+5 Inscripción de Constitución/Modificación de
 
-sin inscripción voluntaria del interesado o por resolución
+Sociedad Microindustrial 5
 
-judicial 1.13
+6 Inscripción de Depósito de firmas 3.5
 
-III. Las inscripciones de documentos que aclaren,
+7 Inscripción de Matriculación de Comerciante
 
-ratifiquen o modifiquen los contratos o actos, sin
+Individual 3
 
-aumentar el valor, ni transferir derechos pecuniarios
+8 Inscripción de Poder por Persona Moral o
 
-y que hayan cubierto el pago de los derechos de
+Representación 4
 
-registro, pagarán 1.13
+9 Inscripción de Registro y/o Modificación de
 
-IV. Por inscripción de documentos hipotecarios
+Sociedad Extranjera 5
 
-se pagará de acuerdo con la tarifa de la fracción I.
+10 Inscripción de Renuncia de Poderes de
 
-V. Las inscripciones de cualquier documento
+Comercio 4
 
-de las sociedades civiles ya sea de constitución,
+11 Inscripción de contrato de Arrendamiento
 
-modificación o disolución pagarán 4
+Financiero (Inmueble)-Comercio 3
 
-VI. Por la inscripción de contratos de permuta de
+12 Inscripción de Cancelación de gravamen
 
-inmuebles o derechos reales se pagará sobre el
+de comercio 2.5
 
-valor que exprese cada documento el 0.20%
+13 Inscripción de Convenio modificatorio de
 
-VII. Por la inscripción de los contratos
+comercio 2.13
 
-preparatorios o accesorios, sobre traslación
+14 Inscripción de Rectificación/Cancelación de
 
-de dominio o derechos reales de inmuebles,
+Inscripciones/Anotaciones de Comercio 3
 
-por cada documento 1.5
+15 Inscripción de Poder para otorgar o suscribir
 
-VIII. Por la cancelación de hipotecas o
+Títulos de Crédito 4
 
-documentos no especificados 1.5
+16 Inscripción de Anotación por Orden
 
-IX. Por la inscripción de prórroga de hipotecas,
+Autoridad-Comercio 3
 
-sin aumentar el capital o interés 1
+17 Inscripción de Sentencia de Concurso
 
-X. Por la inscripción de embargos y fianzas,
+Mercantil/Declaración de Quiebra 3
 
-sobre el importe de la operación, 0.03%
+18 Inscripción de Corredor Público 3
 
-XI. Por la inscripción de cualquier
+19 Inscripción de Capitulaciones
 
-otro documento no especificado 2
+Matrimoniales-Comercio 3
 
-XII. Por la inscripción de la escritura
+20 Inscripción de Nombramiento y cancelación
 
-constitutiva de sociedades mercantiles
+de Interventor-Comercio 3
 
-o de las relativas a aumento de su capital 4
+21 Inscripción de Cancelación de Anotación
 
-XIII. Por la inscripción de actas de asambleas
+por orden de autoridad-Comercio 3
 
-de socios o juntas de administradores, no
+22 Inscripción de Toma de razón en el Registro
 
-referentes a aumentos de capital 2.5
+Público de Comercio 3
 
-XIV. Por el registro de poderes,
+23 Inscripción de Subrogación de acreedor
 
-conferidos a socios, administradores o
+en créditos garantizados 4
 
-personas dependientes y las substituciones,
+24 Inscripción de Constitución de Sociedad
 
-sus revocaciones o renovaciones, por cada acto 3
+por acciones simplificada 5
 
-XV. Por la inscripción de actos de emisión de
+25 Inscripción de Modificación de Sociedad
 
-bonos y obligaciones, se estará a lo dispuesto
+por acciones simplificada 5
 
-en la fracción I.
+26 Inscripción de Acuerdo de Disolución y
 
-XVI. La inscripción de escrituras de
+liquidación en términos del artículo 249 Bis 1
 
-disolución o liquidación de las sociedades
+fracción II de la Ley General de Sociedades
 
-mercantiles, cubrirá la cuota de 3
+Mercantiles 4
 
-XVII. Las inscripciones relativas a habilitación
+27 Inscripción de Cancelación de folio en
 
-de edad, licencia y emancipación, para ejercer
+términos del artículo 249 Bis 1 fracción VII de
 
-el comercio, y por las renovaciones de unos y otros 1.13
+la Ley General de Sociedades Mercantiles 4
 
-XVIII. Por busca de datos, para la expedición
+28 Inscripción de Cancelación de Inscripción
 
-de informes certificados, relativos a las
+de comercio 4
 
-constancias de registro:
+II.- Por la inscripción de actos contenidos en documentos relativos a la propiedad, limitaciones o gravámenes de bienes inmuebles.
 
-a) Del año en curso 1
+Unidad de
 
-b) Por cada año anterior 0.2
+Medida y
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+Actualización
 
-XIX.- La inscripción de créditos hipotecarios,
+1 Calificación o análisis jurídico de cualquier
 
-refaccionarios y de habilitación o avío que
+documento que se presente para su inscripción
 
-soliciten las sociedades de crédito o cualquier
+y se niegue la misma, por no ser inscribible,
 
-institución y organización auxiliar de crédito,
+o se resuelva sin inscripción voluntaria del
 
-a personas físicas o morales. 10
+interesado o por resolución judicial 1
 
-XX.- La inscripción de cualquier tipo
+2 Inscripción de Adjudicación por herencia 3
 
-de embarcaciones, se pagará conforme
+3 Inscripción de Adjudicación por remate 3
 
-a la tarifa de la fracción I
+4 Inscripción de Dación en pago 3
 
-XXI.- Por expedición de certificados de
+5 Inscripción de Disolución de copropiedad y
 
-libertad o gravamen y de restricciones
+aplicación de bienes 3
 
-al derecho de propiedad 1.5
+6 Inscripción de Disolución de sociedad
 
-XXII.- Por expedición de Certificados
+conyugal 3
 
-de inscripción de propiedad, positivos o
+7 Inscripción de Decreto 3
 
-negativos 1.5
+8 Inscripción de Fideicomiso en traslativo 3
 
-XXIII.- Por inscripción de reestructuración,
+9 Inscripción de Fraccionamiento por lote 3
 
-en cualquiera de sus modalidades 2
+10 Inscripción de Fusión de predios 3
 
-XXIV.- Por el registro de sello, firma,
+11 Inscripción de Modificación/rectificación
 
-rúbrica o media firma 10
+de medidas y colindancias 3
 
-XXV.- Por la inscripción de aviso de testamento 1
+12 Inscripción de Permuta 3
 
-XXVI.- Por la verificación de constancia de
+13 Inscripción de Prescripción positiva 3
 
-aviso de testamento 1
+14 Inscripción de Información ad-perpetuam 3
+
+15 Inscripción de Acta aclaratoria, rectificación,
+
+reposición y cancelación 3
+
+16 Inscripción de Subdivisión de predio 3
+
+17 Inscripción de Traslativo de dominio,
+
+compraventa, donación 5
+
+18 Inscripción de Anotación de embargo 3
+
+19 Inscripción de Arrendamiento Financiero 2.5
+
+20 Inscripción de Cancelación de embargo
+
+por autoridad 2.5
+
+21 Inscripción de Cancelación de gravamen 2.5
+
+22 Inscripción de Cancelación de limitaciones
+
+de propiedad 2.5
+
+23 Inscripción de Cédula hipotecaria-Demanda
+
+de juicio hipotecario 3
+
+24 Inscripción de Constitución de patrimonio
+
+familiar 3
+
+25 Inscripción de Contrato de arrendamiento 3
+
+26 Inscripción de Convenio modificatorio
+
+de gravamen 3
+
+27 Inscripción de Gravamen 3
+
+28 Inscripción de Plan de Desarrollo Urbano 3
+
+29 Inscripción de Promesa de compra venta 2.5
+
+30 Inscripción de Servidumbre de paso 3
+
+31 Inscripción de Anotación preventiva
+
+de demanda 3
+
+32 Inscripción de Segundo Aviso Preventivo 2
+
+33 Inscripción de Cancelación de anotación 2.5
+
+34 Inscripción de Declaración de herederos 2.5
+
+35 Inscripción de Demanda de amparo 3
+
+36 Inscripción de Fianza 3
+
+37 Inscripción de Cancelación de fianza 2.5
+
+38 Inscripción de Primer Aviso Preventivo 2.5
+
+39 Inscripción de Fideicomiso de garantía
+
+y administración 2.5
+
+40 Inscripción de Constitución de sociedad
+
+conyugal-capitulaciones matrimoniales 3
+
+41 Inscripción de Anotación de resolución de
+
+sobreseimiento 0
+
+42 Inscripción de Anotación de sentencia
+
+definitiva de amparo 0
+
+43 Inscripción de Interlocutoria en el incidente
+
+de suspensión definitiva 0
+
+44 Inscripción de Obra nueva 3
+
+45 Inscripción de Compraventa con Reserva
+
+de Dominio 3
+
+46 Inscripción de Suspensión provisional
+
+de amparo 0
+
+47 Inscripción de Transmisión de propiedad y
+
+extinción total o parcial de fideicomiso 3
+
+48 Inscripción de Anotación por orden judicial 3
+
+49 Inscripción de Acta de Asamblea de
+
+Condóminos 3.5
+
+50 Inscripción de Modificación al régimen de
+
+propiedad en Condominio 3.5
+
+51 Inscripción de Título de Propiedad 0
+
+52 Inscripción de Comodato 3
+
+53 Inscripción de Poder a persona física 4
+
+54 Inscripción de Modificación de Fideicomiso 3.5
+
+55 Inscripción de Anotación Marginal 3
+
+56 Inscripción de Cancelación de Fideicomiso 3
+
+57 Inscripción de Cancelación de Anotación
+
+Marginal 3
+
+58 Inscripción de Cancelación de comodato 3
+
+59 Inscripción de Cancelación de
+
+arrendamiento financiero 3
+
+60 Inscripción de Reversión de propiedad 3
+
+61 Inscripción de Créditos y traslativos
+
+otorgados para adquisición o construcción
+
+de vivienda de interés social o popular 4
+
+III.- Por la inscripción de actos contenidos en documentos relativos a (Sociedades o asociaciones) personas morales civiles.
+
+Unidad de
+
+Medida y
+
+Actualización
+
+1 Calificación o análisis jurídico de cualquier
+
+documento que se presente para su inscripción
+
+y se niegue la misma, por no ser inscribible,
+
+o se resuelva sin inscripción voluntaria del
+
+interesado o por resolución judicial 1
+
+2 Inscripción de Inscripción de asamblea de
+
+sociedad civil 3.5
+
+3 Inscripción de Inscripción de sociedad civil 5
+
+4 Inscripción de Poder por Persona Moral 4
+
+5 Inscripción de Anotación por Orden Judicial 3
+
+6 Inscripción de Cancelación de Anotación
+
+Judicial 3
+
+7 Inscripción de Rectificación y Reposición
+
+de Inscripciones 3
+
+8 Inscripción de Registro de Estatutos de Persona
+
+Moral Extranjera 3
+
+9 Inscripción de Renuncia de Cargo 3
+
+10 Inscripción de Anotación de Litigio 3
+
+IV.- Por la expedición de documentos correspondientes a copias simples, copias certificadas, certificados consultas de folio, búsquedas, inscripciones, calificaciones, registros de firma y sello y demás documentos no especificados:
+
+Unidad de
+
+Medida y
+
+Actualización
+
+1 Expedición de Certificado de existencia o
+
+inexistencia de gravamen de Comercio 2
+
+2 Expedición de Certificado de Inscripción
+
+de comercio 2
+
+3 Expedición de Certificado de inscripción con
+
+historial registral de comercio 2
+
+4 Expedición de Certificado de no inscripción
+
+en oficina registral de Comercio 2
+
+5 Expedición de Copia certificada de comercio 2
+
+6 Expedición de Copia simple de comercio 1.5
+
+7 Consulta de folio mercantil electrónico 2
+
+8 Consulta o Búsqueda de sociedad mercantil o
+
+socios (oficios) 6
+
+9 Expedición de Certificado de inscripción con
+
+historial registral-propiedades (tracto sucesivo) 2
+
+10 Expedición de Copia certificada de
+
+propiedades 2
+
+11 Búsqueda/Consulta de folio real electrónico
+
+o libro físico proporcionando datos registrales o
+
+folio real 3
+
+12 Consulta o Búsqueda de propiedades (por
+
+nombre, dirección o datos parciales) 6
+
+13 Expedición de certificado negativo de
+
+propiedad 2
+
+14 Expedición de certificado de única
+
+propiedad 2
+
+15 Expedición de certificado de existencia o
+
+inexistencia de gravámenes con descripción de
+
+medidas y colindancias 2.5
+
+16 Inscripción de aviso de testamento 1.5
+
+17 Búsqueda aviso de testamento 1.5
+
+18 Expedición de Copia certificada de
+
+sociedades civiles 2
+
+19 Expedición de Certificado de no inscripción
+
+de Sociedad civil 2
+
+20 Inscripción de sociedad civil de convivencia 5
+
+21 Expedición de Certificado de gravamen de
+
+sociedad rural 2
+
+22 Documento no especificado 3
+
+23 Registro de Firma y sello de fedatario 1
 
 ### CAPÍTULO III. POR CERTIFICACIONES Y COPIAS CERTIFICADAS
 
@@ -2465,7 +2709,7 @@ Por servicios que proporcionan las instituciones de salud pública se causarán 
 
 > <small>[N. DE E. VÉASE TABULADOR EN EL P.O. DE 13 DE JULIO DE 2017, PÁGINAS DE LA 18 A LA 105.]</small>
 
-> <small>[N. DE E. VÉASE REFORMA AL TABULADOR EN EL P.O. DE 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 2 A LA 7.]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL TABULADOR EN EL P.O. DE 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 2 A LA 7; Y P.O. DE 27 DE DICIEMBRE DE 2019, PAGINAS DE LA 178 A LA 181]</small>
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE DICIEMBRE DE 2018)</small>
 
@@ -2477,311 +2721,401 @@ Por servicios que proporcionan las instituciones de salud pública se causarán 
 
 Por servicios que proporciona la Secretaría de Educación en los niveles de educación básica, media superior y superior, se causarán y pagarán los derechos establecidos en el siguiente tabulador:
 
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. DE 27 DE DICIEMBRE DE 2019)</small>
+
 NOMBRE DEL SERVICIO UMA
 
 SERVICIOS DE EDUCACIÓN
 
-Por solicitud, estudio y resolución del trámite de RVOE
+I. Por solicitud de RVOE de tipo superior 333.08
 
-de tipo Superior 186.1
+II. Cambios a cada plan y programa de estudio
 
-Cambios a cada plan y programa de estudio de tipo superior
+de tipo superior con reconocimiento de validez
 
-con reconocimiento de validez oficial 54.48
+oficial 54.48
 
-Cambio o ampliación de domicilio, o establecimiento
+III. Cambio o ampliación de domicilio, o
 
-de un plantel adicional, respecto de cada plan de estudios
+establecimiento de un plantel adicional, respecto
 
-con reconocimiento de validez oficial 47.62
+de cada plan de estudios con reconocimiento de
 
-Por solicitud, estudio y resolución del trámite de autorización
+validez oficial 47.62
 
-para impartir educación preescolar, primaria, secundaria,
+IV. Por solicitud, estudio y resolución del
 
-normal y demás para la formación de maestros, sea cual
+trámite de autorización para impartir
 
-fuere la modalidad 86.85
+educación preescolar, primaria, secundaria,
 
-Por solicitud, estudio y resolución del trámite de
+normal y demás para la formación de maestros,
 
-reconocimiento de validez oficial de estudios de los niveles
+sea cual fuere la modalidad 86.85
 
-medio superior o equivalente y de formación para el trabajo,
+V. Por solicitud, estudio y resolución del
 
-sea cual fuere la modalidad. 86.85
+trámite de reconocimiento de validez oficial
 
-Exámenes profesionales o de grado de tipo superior 2.73
+de estudios de los niveles medio superior o
 
-Exámenes profesionales o de grado de tipo medio superior 1.38
+equivalente y de formación para el trabajo,
 
-Exámenes a título de suficiencia de educación secundaria
+sea cual fuere la modalidad 86.85
 
-y de educación media superior 0.31
+VI. Exámenes profesionales o de grado de
 
-Exámenes a título de suficiencia de tipo superior, por materia 1
+tipo superior 2.73
 
-Exámenes extraordinarios, por materia de educación secundaria
+VII. Exámenes profesionales o de grado de tipo
 
-y de educación media superior 0.25
+medio superior 1.38
 
-Exámenes extraordinarios, por materia de tipo superior 1
+VIII. Exámenes a título de suficiencia de
 
-Expedición de duplicado de certificados de terminación
+educación secundaria y de educación media
 
-de estudios de educación básica y educación media superior 0.64
+superior 0.31
 
-Expedición de duplicado de certificados de terminación de
+IX. Exámenes a título de suficiencia de tipo
 
-estudios de tipo superior 2.02
+superior, por materia 1
 
-Revisión de certificados de estudio, por grado escolar
+X. Exámenes extraordinarios, por materia de
 
-de educación básica y educación media superior 0.16
+educación secundaria y de educación media
 
-Revisión de certificados de estudio, por grado escolar
+superior 0.25
 
-de tipo superior 0.53
+XI. Exámenes extraordinarios, por materia
 
-Revalidación de estudios de educación básica 0.43
+de tipo superior 1
 
-Revalidación de estudios de educación media-superior 4.4
+XII. Expedición de duplicado de certificados
 
-Revalidación de estudios de educación superior 13.24
+de terminación de estudios de educación básica
 
-Equivalencia de estudios de educación media-superior 4.4
+y educación media superior 0.64
 
-Equivalencia de estudios de educación superior 13.24
+XIII. Expedición de duplicado de certificados de
 
-Inspección y vigilancia de establecimiento educativo
+terminación de estudios de tipo superior 2.02
 
-particular, por alumno inscrito en ejercicio escolar de
+XIV. Revisión de certificados de estudio, por
 
-educación media superior 0.47
+grado escolar de educación básica y educación
 
-Inspección y vigilancia de establecimiento educativo
+media superior 0.16
 
-particular, por alumno inscrito en cada ejercicio escolar
+XV. Revisión de certificados de estudio, por grado
 
-de educación secundaria 0.46
+escolar de tipo superior 0.53
 
-Inspección y vigilancia de establecimiento educativo
+XVI. Revalidación de estudios de educación
 
-particular, por alumno inscrito en cada ejercicio escolar
+básica 0.43
 
-de educación primaria 0.1
+XVII. Revalidación de estudios de educación
 
-Inspección y vigilancia de establecimiento educativo
+media-superior 4.4
 
-particular, por alumno inscrito en cada ejercicio escolar de
+XVIII. Revalidación de estudios de educación
 
-educación preescolar 0.1
+superior 13.24
 
-Inspección y vigilancia de establecimiento educativo
+XIX. Equivalencia de estudios de educación
 
-particular, por alumno inscrito en cada ejercicio escolar de
+media-superior 4.4
 
-educación superior 1.24
+XX. Equivalencia de estudios de educación
 
-Expedición de duplicado de certificados de terminación de
+superior 13.24
 
-estudios de escuelas estatales de educación media superior
+XXI. Inspección y vigilancia de establecimiento
+
+educativo particular, por alumno inscrito en
+
+ejercicio escolar de educación media superior 0.47
+
+XXII. Inspección y vigilancia de establecimiento
+
+educativo particular, por alumno inscrito en cada
+
+ejercicio escolar de educación secundaria 0.46
+
+XXIII. Inspección y vigilancia de establecimiento
+
+educativo particular, por alumno inscrito en cada
+
+ejercicio escolar de educación primaria 0.1
+
+XXIV. Inspección y vigilancia de establecimiento
+
+educativo particular, por alumno inscrito en cada
+
+ejercicio escolar de educación preescolar 0.1
+
+XXV. Inspección y vigilancia de establecimiento
+
+educativo particular, por alumno inscrito en cada
+
+ejercicio escolar de educación superior 1.24
+
+XXVI. Expedición de duplicado de certificados
+
+de terminación de estudios de escuelas
+
+estatales de educación media superior
 
 (ANGLI LARA) 18.61
 
-Exámenes extraordinarios por materia en preparatorias estatales
+XXVII. Exámenes extraordinarios por materia
 
-de educación media superior (ANGLI LARA) 1.86
+en preparatorias estatales de educación media
 
-Expedición de duplicado de credencial de escuelas estatales de
+superior (ANGLI LARA) 1.86
 
-educación media superior (ANGLI LARA) 1.24
+XXVIII. Expedición de duplicado de credencial
 
-Expedición de duplicado de certificado parcial de estudios de
+de escuelas estatales de educación media
 
-escuelas estatales de educación media superior (ANGLI LARA) 7.44
+superior (ANGLI LARA) 1.24
 
-Expedición de constancia de estudios de escuelas estatales de
+XXIX. Expedición de duplicado de certificado
 
-educación media superior (ANGLI LARA) 0.74
+parcial de estudios de escuelas estatales de
 
-Cuota de inscripción por semestre de escuelas estatales de
+educación media superior (ANGLI LARA) 7.44
 
-educación media superior (ANGLI LARA) 40.32
+XXX. Expedición de constancia de estudios
 
-Expedición de duplicado de certificados de terminación
+de escuelas estatales de educación media
 
-de estudios de escuelas estatales de educación media
+superior (ANGLI LARA) 0.74
 
-superior (CHAMPOTÓN) 4.34
+XXXI. Cuota de inscripción por semestre de
 
-Exámenes extraordinarios por materia en preparatorias
+escuelas estatales de educación media superior
 
-estatales de educación media superior (CHAMPOTON) 0.87
+(ANGLI LARA) 40.32
 
-Expedición de duplicado de certificados parcial de
+XXXII. Expedición de duplicado de certificados
 
-estudios de escuelas estatales de educación media superior
+de terminación de estudios de escuelas
+
+estatales de educación media superior
 
 (CHAMPOTÓN) 4.34
 
-Expedición de constancia de estudios de escuelas
+XXXIII. Exámenes extraordinarios por materia
 
-estatales de educación media superior (CHAMPOTÓN) 0.25
+en preparatorias estatales de educación media
 
-Exámenes de regularización por materia en
+superior (CHAMPOTÓN) 0.87
 
-preparatorias estatales de educación media superior
+XXXIV. Expedición de duplicado de certificados
 
-(CHAMPOTÓN) 1.86
+parcial de estudios de escuelas estatales de
 
-Cuota de inscripción por semestre de escuelas estatales
+educación media superior (CHAMPOTÓN) 4.34
 
-de educación media superior (CHAMPOTÓN) 1.24
+XXXV. Expedición de constancia de estudios
 
-Cuota de colegiatura mensual de escuelas estatales de
+de escuelas estatales de educación media superior
 
-educación media superior (CHAMPOTÓN) 1.24
+(CHAMPOTÓN) 0.25
 
-Registro de Colegio de Profesionistas 49.63
+XXXVI. Exámenes de regularización por materia
 
-Registro de Establecimiento Educativo Legalmente
+en preparatorias estatales de educación media
 
-Autorizado para Expedir Títulos Profesionales, Diplomas
+superior (CHAMPOTÓN) 1.86
 
-de Especialidad o Grados Académicos 6.2
+XXXVII. Cuota de inscripción por semestre de
 
-Registro de Título Electrónico 6.2
+escuelas estatales de educación media superior
 
-Cotejo y Revisión de Documentos Para Expedición
+(CHAMPOTÓN) 1.24
 
-De Títulos 18.61
+XXXVIII. Cuota de colegiatura mensual de
 
-Enmienda al Registro Profesional en relación con
+escuelas estatales de educación media superior
 
-Colegios de Profesionistas 3.1
+(CHAMPOTÓN) 1.24
 
-Enmienda al Registro Profesional en relación con
+XXXIX. Registro de Colegio de Profesionistas 49.63
 
-Establecimiento Educativo 3.1
+XL. Registro de Establecimiento Educativo
 
-Enmienda al Registro Profesional en relación con el Título
+Legalmente Autorizado para Expedir Títulos
 
-Profesional o Grado Académico 1.24
+Profesionales, Diplomas de Especialidad o
 
-Enmienda al Registro Profesional Inscripción de Asociado
+Grados Académicos 6.2
 
-a un Colegio de Profesionistas que no figuren en el Registro
+XLI. Registro de Título Electrónico 6.2
+
+XLII. Cotejo y Revisión de Documentos Para
+
+Expedición De Títulos 18.61
+
+XLIII. Enmienda al Registro Profesional en
+
+relación con Colegios de Profesionistas 3.1
+
+XLIV. Enmienda al Registro Profesional en
+
+relación con Establecimiento Educativo 3.1
+
+XLV. Enmienda al Registro Profesional en
+
+relación con el Título Profesional o Grado
+
+Académico 1.24
+
+XLVI. Enmienda al Registro Profesional
+
+Inscripción de Asociado a un Colegio de
+
+Profesionistas que no figuren en el Registro
 
 Original 0.31
 
-Enmienda al Registro Profesional en relación con
+XLVII. Enmienda al Registro Profesional en
 
-Federaciones de Colegios de Profesionistas 3.1
+relación con Federaciones de Colegios de
 
-Enmienda al Registro Profesional Inscripción de
+Profesionistas 3.1
 
-Asociado a una Federación de Colegios de Profesionistas
+XLVIII. Enmienda al Registro Profesional
 
-que no figure en el Registro Original 3.1
+Inscripción de Asociado a una Federación de
 
-Renovación del Consejo Directivo de un Colegio 4.96
+Colegios de Profesionistas que no figure en el
 
-Cambio de Domicilio de Colegio de Profesionistas 3.1
+Registro Original 3.1
 
-Expedición de Autorización Provisional para Ejercer
+XLIX. Renovación del Consejo Directivo de un
 
-por estar el Título Profesional en Trámite o como Pasante 2.48
+Colegio 4.96
 
-Constancias de Antecedentes Profesionales 1.86
+L. Cambio de Domicilio de Colegio de
 
-Registro de Federación de Colegios de Profesionistas 62.03
+Profesionistas 3.1
 
-Renovación de Consejo de Federación de Colegios de
+LI. Expedición de Autorización Provisional para
 
-Profesionistas 6.2
+Ejercer por estar el Título Profesional en Trámite
 
-Registro de Firmas 1.24
+o como Pasante 2.48
 
-Registro de Sellos 1.24
+LII. Constancias de Antecedentes Profesionales 1.86
 
-Registro de Consejo de Certificación de Especialidades 4.96
+LIII. Registro de Federación de Colegios de
 
-### CAPÍTULO I. POR ENAJENACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
+Profesionistas 62.03
+
+LIV. Renovación de Consejo de Federación de
+
+Colegios de Profesionistas 6.2
+
+LV. Registro de Firmas 1.24
+
+LVI. Registro de Sellos 1.24
+
+LVII. Registro de Consejo de Certificación de
+
+Especialidades 4.96
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. DE 27 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO XI. DE LOS SERVICIOS PRESTADOS POR EL PERIÓDICO OFICIAL DEL ESTADO
+
+> <small>(ADICIONADO, P.O. DE 27 DE DICIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 79-F.
+
+Ingresarán a la Hacienda Pública los derechos que se cobren por los servicios prestados por el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. DE 27 DE DICIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 79-G.
+
+Los pagos que deban efectuar los interesados ingresarán a la oficina recaudadora correspondiente, mediante recibo oficial que expida la misma, cuyo pago podrá efectuarse de conformidad con lo establecido por el artículo 3 de esta Ley.
+
+> <small>(ADICIONADO, P.O. DE 27 DE DICIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 79-H.
+
+Los derechos que se pagarán por las publicaciones que se realicen en el Periódico Oficial del Estado serán los siguientes:
+
+Unidades de
+
+Medida y
+
+Actualización
+
+I. Por publicación
+
+a) Por plana entera 15.38
+
+b) Por media plana 7.69
+
+c) Por cuarto de plana 3.84
+
+II. La expedición de copias certificadas de años anteriores al año 2015, ya que se trata del archivo histórico.
+
+a) Por la primera hoja 1.53
+
+b) Por las subsiguientes .1
 
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
-### CAPÍTULO II. POR EL IMPORTE DE LOS ARRENDAMIENTOS DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO I. POR ENAJENACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
 
 ###### ARTÍCULO 80.
 
-Se consideran ingresos por productos, el resultado de las ventas de bienes muebles e inmuebles propiedad del Estado.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2019)
 
 ###### ARTÍCULO 81.
 
-Los bienes que integran el patrimonio del Estado son inalienables e imprescriptibles y no serán bajo ningún concepto objeto de embargo, ni de gravamen alguno. Dichos bienes sólo podrán enajenarse en los términos de la Ley de Bienes del Estado de Campeche y de sus Municipios y, en su caso, la Ley para el Fomento de las Actividades Económicas Empresariales en el Estado de Campeche y demás leyes aplicables.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2019)
 
 ###### ARTÍCULO 82.
 
-Los muebles e inmuebles que el Estado se haya adjudicado en pago de contribuciones, podrán ser enajenados sin más requisito que el de la subasta, en el precio y condiciones que el Ejecutivo del Estado estime convenientes.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2019)
 
 ###### ARTÍCULO 83.
 
-Los bienes a que se refiere el artículo anterior podrán ser donados a los Municipios e instituciones de beneficencia pública para fines directos a la comunidad y con las salvedades o condiciones que el Ejecutivo determine.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2019)
 
-### CAPÍTULO III. POR TALLERES GRÁFICOS Y PERIÓDICO OFICIAL DEL ESTADO
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO II. POR EL IMPORTE DE LOS ARRENDAMIENTOS DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
 
 ###### ARTÍCULO 84.
 
-Ingresarán íntegramente a la Hacienda Pública del Estado los importes por concepto de arrendamiento de bienes muebles e inmuebles propiedad del Estado.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2019)
 
-### CAPÍTULO IV. POR BIENES MOSTRENCOS Y VACANTES
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO III. POR TALLERES GRÁFICOS Y PERIÓDICO OFICIAL DEL ESTADO
 
 ###### ARTÍCULO 85.
 
-Ingresarán a la Hacienda Pública, los productos provenientes de las publicaciones del Periódico Oficial del Estado.
-
-Las oficinas públicas del Estado, tendrán derecho a recibir gratuitamente las ediciones del Periódico Oficial del Estado.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2019)
 
 ###### ARTÍCULO 86.
 
-Los pagos que deban efectuar los interesados, ingresarán a la oficina recaudadora correspondiente, mediante recibo oficial que expida la misma, cuyo pago podrá efectuarse de conformidad con lo establecido por el artículo 3 de esta Ley.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2019)
 
 ###### ARTÍCULO 87.
 
-El precio de las publicaciones que realizan los Talleres Gráficos del Estado serán los siguientes:
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2019)
 
-Unidades de Medida y Actualización
-
-I.- Periódico Oficial del Estado.
-
-a) Suscripción anual 16.2
-
-b) Número del día 0.08
-
-c) Número atrasado 0.15
-
-d) Números Especiales 0.15
-
-e) Por cada publicación por palabra 0.02
-
-f) Por publicación por plana entera 10.8
-
-g) Por publicación media plana 5.4
-
-h) Por publicación cuarto de plana 2.7
-
-II.- Por periódico donde se publiquen Leyes del Estado.
-
-a) Ejemplar 2.25
-
-b) Otras publicaciones editadas, se cobrará el costo de la impresión.
-
-### CAPÍTULO V. POR INSTITUCIONES DE ASISTENCIA SOCIAL
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+### CAPÍTULO IV. POR BIENES MOSTRENCOS Y VACANTES
 
 ###### ARTÍCULO 88.
 
@@ -2791,19 +3125,21 @@ Ingresarán a la Hacienda Pública del Estado, previo al procedimiento correspon
 
 Los bienes de las personas que mueran intestadas, careciendo de los herederos a que se refieren los Capítulos I al V del Título Cuarto del Libro Tercero del Código Civil vigente en el Estado, serán adjudicados a la Hacienda Pública del Estado. A las personas que denuncien ante las autoridades competentes el hecho, así como la situación a que alude el artículo anterior, se les otorgará una participación del 20 % sobre el importe de los bienes denunciados, si no existe reclamación alguna.
 
-### CAPÍTULO VI. POR LAS UTILIDADES DE LOS ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA Y FIDEICOMISOS
+### CAPÍTULO V. POR INSTITUCIONES DE ASISTENCIA SOCIAL
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 90.
 
 El Servicio de Administración Fiscal del Estado de Campeche recaudará directamente las cuotas por los servicios que presten las instituciones de asistencia social estatales, con excepción de aquellas instituciones que hayan sido creadas como organismos descentralizados de la administración pública estatal.
 
-### CAPÍTULO VII. OTROS PRODUCTOS
+### CAPÍTULO VI. POR LAS UTILIDADES DE LOS ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA Y FIDEICOMISOS
 
 ###### ARTÍCULO 91.
 
 Corresponden a la Hacienda Pública del Estado de Campeche, los ingresos por utilidades de los organismos descentralizados, empresas de participación estatal y fideicomisos.
 
-### CAPÍTULO I. GARANTÍAS Y MULTAS
+### CAPÍTULO VII. OTROS PRODUCTOS
 
 ###### ARTÍCULO 92.
 
@@ -2811,7 +3147,7 @@ Se consideran como otros Productos aquellos que no se encuentren, comprendidos e
 
 ## TÍTULO QUINTO. DE LOS APROVECHAMIENTOS
 
-### CAPÍTULO II. REINTEGROS
+### CAPÍTULO I. GARANTÍAS Y MULTAS
 
 ###### ARTÍCULO 93.
 
@@ -2827,7 +3163,7 @@ Las garantías constituidas para la autorización de permisos especiales a menor
 
 Ingresarán a la Hacienda Pública las multas impuestas administrativamente por cualquier autoridad del Estado, las establecidas en calidad de penas en los procesos de orden judicial y las provenientes de la conmutación de sanciones que dispongan las Leyes respectivas. Las autoridades que las impongan, tienen obligación de comunicarlo a las autoridades hacendarias.
 
-### CAPÍTULO III. DONACIONES
+### CAPÍTULO II. REINTEGROS
 
 ###### ARTÍCULO 96.
 
@@ -2837,21 +3173,27 @@ Las cantidades pagadas de más o indebidamente con cargo al Presupuesto de Egres
 
 También ingresarán por este concepto las responsabilidades administrativas que se finquen por autoridad competente y que se hagan efectivas.
 
-### CAPÍTULO IV. PRÉSTAMOS
+### CAPÍTULO III. DONACIONES
 
 ###### ARTÍCULO 98.
 
 Ingresarán al Erario Estatal las donaciones que se hagan en favor del Estado. Cuando los bienes objeto de la donación no consistan en dinero, serán inventariados como bienes patrimoniales del Estado, para darles el uso o aprovechamiento que acuerde el Ejecutivo; en caso contrario en los términos fijados por el donante.
 
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. DE 27 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO V. APROVECHAMIENTOS DIVERSOS
+### CAPÍTULO IV. APROVECHAMIENTOS PATRIMONIALES
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. DE 27 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 99.
 
-(DEROGADO, P.O. 26 DE DICIEMBRE DE 2011)
+Se consideran aprovechamientos patrimoniales, los ingresos que percibe el Estado por uso o enajenación de bienes muebles, inmuebles e intangibles, por recuperación de capital o, en su caso, patrimonio invertido.
 
-### CAPÍTULO ÚNICO
+Los bienes que integran el patrimonio del Estado son inalienables, imprescriptibles e inembargables, y no podrán ser objeto de gravamen alguno. Dichos bienes sólo podrán enajenarse en los términos de la Ley de Bienes del Estado de Campeche y de sus Municipios y, en su caso, la Ley para el Fomento de las Actividades Económicas y Empresariales en el Estado de Campeche y demás leyes aplicables.
+
+Los bienes que el Estado se haya adjudicado en pago de contribuciones podrán ser enajenados sin más requisito que el de la subasta, en el precio y condiciones que el Ejecutivo del Estado estime convenientes.
+
+### CAPÍTULO V. APROVECHAMIENTOS DIVERSOS
 
 ###### ARTÍCULO 100.
 
@@ -2869,83 +3211,109 @@ I.- Las concesiones y contratos;
 
 II.- Las indemnizaciones a favor del Estado; y
 
-III.- Las fianzas cuya pérdida se declare por resolución firme a favor del Estado.
+> <small>(REFORMADA, P.O. DE 27 DE DICIEMBRE DE 2019)</small>
+
+III.- Aportación a cargo de contratistas y destajistas que realicen obras en el Estado por el 1% sobre el pago de cada una, para obras y acciones de beneficio social.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. DE 27 DE DICIEMBRE DE 2019)</small>
+
+## TÍTULO QUINTO bis. DE LOS INGRESOS POR VENTA DE BIENES, PRESTACIÓN DE SERVICIOS Y OTROS INGRESOS
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. DE 27 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. DE 27 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 102 bis.- Se consideran ingresos por ventas de bienes, prestaciones de servicios y otros ingresos, a los ingresos propios obtenidos por las instituciones públicas de seguridad social, las Empresas Productivas del Estado, las Entidades de la Administración Pública Paraestatal, los Poderes Legislativo y Judicial y los Órganos Autónomos, por sus actividades de producción, comercialización o prestación de servicios; así como otros ingresos por sus actividades diversas no inherentes a su operación que generen recursos, de acuerdo con los siguientes conceptos:
+
+I. Ingresos por ventas de bienes y prestación de servicios de instituciones públicas de seguridad social;
+
+II. Ingresos por ventas de bienes y prestación de servicios de empresas productivas del Estado;
+
+III. Ingresos por ventas de bienes y prestación de servicios de entidades paraestatales y fideicomisos no empresariales y no financieros;
+
+IV. Ingresos por ventas de bienes y prestación de servicios de entidades paraestatales empresariales no financieras con participación Estatal mayoritaria;
+
+V. Ingresos por ventas de bienes y prestación de servicios de entidades paraestatales empresariales financieras monetarias con participación Estatal mayoritaria;
+
+VI. Ingresos por ventas de bienes y prestación de servicios de entidades paraestatales empresariales financieras no monetarias con participación Estatal mayoritaria;
+
+VII. Ingresos por ventas de bienes y prestación de servicios de Fideicomisos Financieros Públicos con participación Estatal mayoritaria;
+
+VIII. Ingresos por ventas de bienes y prestación de servicios de los Poderes Legislativo y Judicial, y de los órganos autónomos; y
+
+IX. Otros Ingresos.
 
 ## TÍTULO SEXTO. DE LOS ACCESORIOS
 
-### CAPÍTULO PRIMERO
-
-## TÍTULO SÉPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2011)</small>
-
-### CAPÍTULO SEGUNDO. DE LOS INGRESOS DERIVADOS DE FINANCIAMIENTOS
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
-
-ARTÍCULO 105 BIS.- Son los ingresos obtenidos por la celebración de empréstitos o créditos a favor del Estado, los cuales se contratarán, regularán, ejercerán y aplicarán de conformidad con la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 103.
 
 Se consideran accesorios de las contribuciones y de los aprovechamientos, lo expresamente señalado en el artículo 22 del Código Fiscal del Estado de Campeche, y se recaudarán en las formas y plazos establecidos en esta Ley y en el referido Código.
 
+## TÍTULO SÉPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO PRIMERO
+
+###### ARTÍCULO 104.
+
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2019)
+
+###### ARTÍCULO 105.
+
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2019)
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO SEGUNDO. DE LOS INGRESOS DERIVADOS DE FINANCIAMIENTOS
+
+> <small>(REFORMADO, P.O. DE 27 DE DICIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 105 Bis.
+
+Son los ingresos obtenidos por la celebración de empréstitos o créditos a favor del Estado, los cuales se contratarán, regularán, ejercerán y aplicarán de conformidad con la Ley de Obligaciones, Financiamientos y Deuda Pública del Estado de Campeche y sus Municipios.
+
 ## TÍTULO OCTAVO. DE LAS PARTICIPACIONES
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. DE 27 DE DICIEMBRE DE 2019)</small>
 
-###### ARTÍCULO 104.
+###### ARTÍCULO 106.
 
-Son ingresos extraordinarios los que perciba la Hacienda Pública del Estado, cuando circunstancias especiales obliguen al propio Estado a hacer frente a necesidades imprevistas que impliquen erogaciones extraordinarias.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
-
-###### ARTÍCULO 105.
-
-Los ingresos a que se refiere el artículo que antecede, serán los siguientes:
-
-1.- Impuestos y derechos extraordinarios;
-
-2.- Contribuciones de mejoras;
-
-3.- Expropiaciones; y
-
-4.- Aportación a cargo de contratistas y destajistas que realicen obras en el Estado, por el 1% sobre el pago de cada una, para obras y acciones de beneficio social.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2011)</small>
-
-### CAPÍTULO ÚNICO
+Las participaciones por ingresos federales, se percibirán de acuerdo con lo dispuesto en la Ley de Coordinación Fiscal, el Decreto de Presupuesto de Egresos de la Federación, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y sus anexos, el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos; las cuales ingresarán a la Secretaría de Finanzas del Estado, salvo aquellas que hayan sido afectadas como fuente de pago o garantía de las obligaciones contraídas por el Estado o sus municipios, de conformidad con la Ley de Obligaciones, Financiamientos y Deuda Pública del Estado de Campeche y sus Municipios.
 
 ## TÍTULO NOVENO. DE LOS INCENTIVOS
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+###### ARTÍCULO 107.
 
-###### ARTÍCULO 106.
-
-Las participaciones por ingresos federales, se percibirán de acuerdo con lo dispuesto en la Ley de Coordinación Fiscal, el Decreto de Presupuesto de Egresos de la Federación, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y sus anexos, el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos; las cuales ingresarán a la Secretaría de Finanzas del Estado, salvo aquellas que hayan sido afectadas como fuente de pago o garantía de las obligaciones contraídas por el Estado o sus municipios, de conformidad con la Ley de Deuda Pública Estatal.
+Los incentivos que se establezca (sic) en el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos, celebrado entre el Gobierno Federal y el Estado de Campeche, ingresarán a la hacienda pública en los términos que se establezcan en el referido Convenio.
 
 ## TÍTULO DÉCIMO. DE LOS FONDOS DE APORTACIONES FEDERALES
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
-
-###### ARTÍCULO 107.
-
-Los incentivos que se establezca (sic) en el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos, celebrado entre el Gobierno Federal y el Estado de Campeche, ingresarán a la hacienda pública en los términos que se establezcan en el referido Convenio.
-
-## TÍTULO UNDÉCIMO. CONVENIOS DE TRANSFERENCIA DE RECURSOS FEDERALES
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 108.
 
 Los Fondos de Aportaciones Federales se percibirán en los plazos, conceptos y montos establecidos en la Ley de Coordinación Fiscal y el Decreto de Presupuesto de Egresos de la Federación, los cuales serán destinados y distribuidos de conformidad con lo establecido en la precitada Ley Federal. Estos Fondos ingresarán a la Secretaría de Finanzas del Estado, salvo aquellos que en los términos, condiciones y porcentajes establecidos en la Ley de Coordinación Fiscal hayan sido afectados para garantizar obligaciones o servir como fuente de pago de dichas obligaciones contraídas por el Estado o sus municipios.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+## TÍTULO UNDÉCIMO. CONVENIOS DE TRANSFERENCIA DE RECURSOS FEDERALES
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 109.
 
@@ -3294,3 +3662,15 @@ P.O. 28 DE DICIEMBRE DE 2018.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 116 POR EL QUE “ARTÍCULO PRIMERO.- SE REFORMA EL ARTÍCULO 1, EL PRIMER PÁRRAFO DEL ARTÍCULO 3 BIS, LOS ARTÍCULOS 56, 79-D, 79-E Y SE REPONE CON NUEVA DENOMINACIÓN EL DEROGADO CAPÍTULO IV PARA QUEDAR COMO “APROVECHAMIENTOS PATRIMONIALES” Y CON NUEVO TEXTO EL DEROGADO ARTÍCULO 99; LA FRACCIÓN III DEL ARTÍCULO 102, LOS ARTÍCULOS 105 BIS Y 106"; "ARTÍCULO SEGUNDO.- SE ADICIONA UN CAPÍTULO XI DENOMINADO DE LOS SERVICIOS PRESTADOS POR EL PERIODICO OFICIAL DEL ESTADO CON SUS RESPECTIVOS ARTÍCULOS 79-F, 79-G Y 79-H DEL TÍTULO TERCERO; UN TÍTULO QUINTO BIS DENOMINADO "DE LOS INGRESOS POR VENTAS DE BIENES, PRESTACIÓN DE SERVICIOS Y OTROS INGRESOS", CON UN CAPITULO ÚNICO Y SU CORRESPONDIENTE ARTÍCULO 102 BIS"; "ARTÍCULO TERCERO.- SE DEROGA EL CAPITULO I DENOMINADO "POR ENAJENACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO" Y SUS ARTÍCULOS 80, 81, 82, 83; EL CAPÍTULO II “POR EL IMPORTE DE LOS ARRENDAMIENTOS DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO” Y SU ARTÍCULO 84; EL CAPÍTULO III “POR TALLERES GRÁFICOS Y PERIÓDICO OFICIAL DEL ESTADO” Y SUS ARTÍCULOS 85,86 (SIC) Y 87, TODOS DEL TÍTULO CUARTO “DE LOS PRODUCTOS”, LOS ARTÍCULOS 104 Y 105 TODOS DE LA LEY DE HACIENDA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día 1 de enero del año 2020, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Finanzas, a través de disposiciones administrativas, deberá determinar la forma en la que las entidades paraestatales, atendiendo a su naturaleza, ajustarán su contabilidad a las disposiciones del presente decreto y al Clasificador por Rubros de Ingresos emitido por la Comisión Nacional de Armonización Contable.
+
+TERCERO.- Hasta en tanto se realizan los ajustes a la Ley del Periódico Oficial del Estado de Campeche, para armonizarlo con lo dispuesto en el esta (sic) Ley, seguirán aplicándose las disposiciones contenidas en Capítulo III del Título Cuarto vigentes hasta antes de la entrada en vigor del presente decreto.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
