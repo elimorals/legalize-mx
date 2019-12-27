@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-tulum-del-estado-de-91148"
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-30"
-last_updated: "2014-10-08"
+last_updated: "2019-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE TULUM DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de noviembre de 2012.
 
@@ -40,6 +40,12 @@ D E C R E T A:
 ÚNICO.- Se expide la Ley de Hacienda del Municipio de Tulum del Estado de Quintana Roo, para quedar como sigue;
 
 LEY DE HACIENDA DEL MUNICIPIO DE TULUM DEL ESTADO DE QUINTANA ROO
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 023 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE TULUM, DEL ESTADO DE QUINTANA ROO; Y SE REFORMA EL ARTÍCULO 1 DE LA LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el 1o. de enero del año 2020.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -599,23 +605,157 @@ d) Permisos y documentos que se les soliciten en relación con el pago de este i
 
 Asimismo tendrán la facultad y obligación de retener y enterar el impuesto respectivo en la Tesorería Municipal al día siguiente de la terminación del contrato respectivo o en su caso, en forma mensual.
 
-### CAPÍTULO I. DE COOPERACIÓN PARA OBRAS PÚBLICAS QUE REALICE EL MUNICIPIO
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN I. DERECHOS POR CONTROL VEHICULAR
+### CAPÍTULO VI. DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES
 
-#### SECCIÓN II. REGISTRO DE VEHÍCULOS
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN III. DOTACIÓN Y CANJE DE PLACAS
+#### SECCIÓN I. DEL OBJETO DEL IMPUESTO
 
-#### SECCIÓN IV. INSPECCIÓN DE FRENOS, DIRECCIÓN Y SISTEMA DE LUCES
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN V. LICENCIAS PARA CONDUCIR VEHÍCULOS DE MOTOR
+###### Artículo 46 Bis.
 
-#### SECCIÓN VI. EXCEPCIONES
+Es objeto de este impuesto:
+
+I. La adquisición de bienes inmuebles que consistan en terreno, terreno con construcción ubicados en el territorio del Municipio, así como los derechos relacionados con el mismo;
+
+II. La celebración de contratos que impliquen la compraventa con reserva de dominio o sujeta a condición;
+
+III. La adquisición de propiedad en virtud de remate judicial, administrativo y/o adjudicación sucesoria;
+
+IV. La permuta, cuando a través de ella se transmita la propiedad;
+
+V. La transmisión de la propiedad de bienes inmuebles, que realice el fideicomitente en la constitución del fideicomiso traslativo de dominio o la aportación de éstos a un fideicomiso;
+
+VI. La transmisión de la propiedad de bienes inmuebles, que haga la fiduciaria en cumplimiento del fideicomiso;
+
+VII. La cesión de derechos de fideicomitentes o fideicomisarios, se considerará que exista ésta, cuando haya sustitución de un fideicomitente o de un fideicomisario, por cualquier motivo;
+
+VIII. La cesión de derechos en los contratos de arrendamiento financiero, sobre inmuebles, así como, la adquisición de los bienes materia del mismo, que se efectúe por una persona distinta al arrendatario por cesión o cualquier otro título;
+
+IX. La adquisición de inmuebles en dación de pago, y
+
+X. La transmisión de la propiedad por herencia o legado.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN II. DEL SUJETO DEL IMPUESTO
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 46 Ter.
+
+Es sujeto de este impuesto, la persona física o jurídica que, como resultado de cualquiera de los actos jurídicos o contratos a que se refiere el artículo anterior, adquiere el dominio, derecho de propiedad, copropiedad o cualquier derecho real sobre uno o más bienes inmuebles.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN III. DE LA BASE
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 46 Quáter.
+
+Será base de este impuesto el valor del inmueble que resulte más alto entre:
+
+I. El valor de la adquisición o precio pactado; este será actualizado por el factor que se obtenga de dividir el índice de precios al consumidor del mes inmediato anterior a aquel en que sea exigible el pago, entre el índice del mes anterior en que se efectuó la adquisición;
+
+II. El avalúo catastral con una antigüedad no mayor de 180 días a la fecha de adquisición, o
+
+III. El avalúo practicado por peritos valuadores que se encuentren inscritos en el registro estatal correspondiente o el avalúo practicado por institución bancaria; en ambos casos con una antigüedad no mayor de 180 días a la fecha de adquisición.
+
+Cuando no exista el valor o precio pactado a que se refiere la fracción I, se aplicará el avalúo que resulte más alto de las fracciones II y III.
+
+Para los fines de este capítulo, se considera que el usufructo o la nuda propiedad tienen un valor cada uno de ellos del 50% del valor de la propiedad a que se refiere este artículo.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN IV. DE LA TASA DEL IMPUESTO
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Artículo 46 Quínquies. El impuesto se calculará aplicando la tasa del 3% al valor del inmueble.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN V. DE LA ÉPOCA DE PAGO DEL IMPUESTO
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Artículo 46 Séxies. El pago del impuesto deberá hacerse dentro de los quince días siguientes a aquél en que se realicen cualquiera de los supuestos que a continuación se señalan:
+
+I. Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga;
+
+II. A la adjudicación de los bienes de la sucesión o a los tres años de la muerte del autor de la misma si transcurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como al cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se cause por el cesionario o por el adquiriente;
+
+III. Tratándose de adquisiciones efectuadas a través de fideicomisos, cuando se realicen los supuestos de enajenación en los términos del Código Fiscal Municipal del Estado de Quintana Roo;
+
+IV. Cuando se adquieran bienes inmuebles por dación en pago, se tomará como base gravable el avalúo comercial practicado por persona autorizada, a partir de la fecha de la celebración del convenio respectivo;
+
+V. Al proporcionarse o inscribirse el reconocimiento judicial de la prescripción positiva, remate judicial y administrativo, y
+
+VI. En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro Público de la Propiedad y del Comercio del Estado de Quintana Roo para poder surtir efectos en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes.
+
+En todos los casos el pago del impuesto se hará en la Tesorería Municipal, utilizando las formas que para tal fin autorice esa dependencia y a las que acompañará siempre, una copia del avalúo que corresponda al que se refiere el artículo 46 Quáter de esta ley.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 46 Sépties.
+
+En las adquisiciones que se hagan constar en escritura pública, los notarios, jueces, corredores y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad, lo harán constar en escritura pública y lo enterarán mediante declaración autorizada, en la Tesorería Municipal, expresando:
+
+I. Nombre y domicilio de los contratantes y del adquirente;
+
+II. Nombre del notario o fedatario, así como el número de la notaría en que se otorgó la escritura;
+
+III. Fecha y lugar en que se firmó la escritura pública;
+
+IV. Naturaleza del acto o concepto de la adquisición;
+
+V. Ubicación y nomenclatura del bien inmueble;
+
+VI. Valor de la operación, valor catastral y avalúo bancario, acompañando copia del avalúo correspondiente;
+
+VII. Tratándose de compraventa de inmuebles colindantes con la Zona Federal Marítimo Terrestre, que usen o gocen la misma, teniendo o no concesión autorizada, deberán presentar la constancia de uso o no uso de concesión, en caso de contar con la constancia de uso de concesión, presentar constancia de no adeudo por derechos de uso y goce de la Zona Federal Marítimo terrestre, así como la copia de la última declaración y copia del recibo oficial expedido por la tesorería municipal con el que acrediten estar al corriente en el pago de esta contribución y los derechos que señala el artículo 118 de esta ley;
+
+VIII. Tratándose de unidades privativas pertenecientes a fraccionamientos o a condominios, las constancias de no adeudo podrán ser las correspondientes a la parte proporcional del pago realizado por cada una de las unidades privativas, y dichas unidades serán responsables por los adeudos de la proporcionalidad de los proindivisos;
+
+IX. Copia del certificado de no adeudo de cooperación por obra municipal, y
+
+X. Tratándose de compraventa de inmuebles, deberán presentar copia del recibo oficial de pago del impuesto predial, expedido por la tesorería municipal con el que acrediten estar al corriente en el pago de esta contribución.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Artículo 46 Ócties. Los notarios públicos tendrán la obligación de presentar a la Tesorería Municipal, un informe detallado, a más tardar en el mes de enero de cada año, correspondiente al año anterior, sobre las escrituras públicas y cualquier otro documento que transmita la propiedad de bienes inmuebles en los que hubiesen intervenido y que por alguna razón no fueron inscritos en el Registro Público de la Propiedad y del Comercio y que por consecuencia, no estuviese cubierto el Impuesto sobre Adquisición de Bienes Inmuebles.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN VI. DE LAS EXENCIONES Y DEDUCCIONES DEL IMPUESTO
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 46 Nonies.
+
+No se pagará el impuesto establecido en este capítulo en las adquisiciones de inmuebles hechas por dependencias, entidades, organismos estatales o municipales para la realización de acciones o programas de vivienda, su legalización y regularización, a personas que resulten beneficiadas con sus programas, que no sean propietarias de otro inmueble y que lo destinen a casa habitación.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Artículo 46 Décies. La vivienda de interés social y popular tendrá un deducible equivalente a diez veces el valor diario de la U.M.A. elevado al año, mismo que será aplicable a la base para el cálculo del impuesto.
+
+Para los efectos de este artículo se considera:
+
+I. Vivienda de interés social, aquella cuyo valor al término de su edificación, no exceda de la cantidad que resulte de multiplicar por diecisiete veces el valor diario de la U.M.A. elevado al año, y
+
+II. Vivienda popular; aquella cuyo valor al término de su edificación, no exceda del importe que resulte de multiplicar por veintiocho veces el valor diario de la U.M.A. elevado al año.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Artículo 46 Undécies. Para los efectos de este capítulo, cuando el enajenante, persona física o jurídica, sea un fraccionador, desarrollador o urbanizador inmobiliario, estará obligado a remitir a la Tesorería Municipal, copia de los contratos de promesa de compraventa y cesiones de derechos, a más tardar dentro de los 30 días naturales siguientes a la fecha de su celebración.
 
 ## TÍTULO TERCERO. DE LOS DERECHOS
 
-### CAPÍTULO II. SERVICIO DE TRÁNSITO
+### CAPÍTULO I. DE COOPERACIÓN PARA OBRAS PÚBLICAS QUE REALICE EL MUNICIPIO
 
 ###### Artículo 47.
 
@@ -717,7 +857,9 @@ Los derechos de cooperación serán causados al terminarse las obras en cada tra
 
 Están exentos del pago de derechos de cooperación, el Municipio, el Estado y la Federación, por sus bienes de dominio público. Salvo que tales bienes sean utilizados por Entidades Paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-### CAPÍTULO III. REGISTRO CIVIL MUNICIPAL
+### CAPÍTULO II. SERVICIO DE TRÁNSITO
+
+#### SECCIÓN I. DERECHOS POR CONTROL VEHICULAR
 
 ###### Artículo 54.
 
@@ -885,6 +1027,8 @@ de competencia para conducir vehículos
 
 de motor.
 
+#### SECCIÓN II. REGISTRO DE VEHÍCULOS
+
 ###### Artículo 55.
 
 Para el efecto del registro de vehículo ante la Dirección de Tránsito, se estará a lo siguiente:
@@ -892,6 +1036,8 @@ Para el efecto del registro de vehículo ante la Dirección de Tránsito, se est
 I. Cuando se trate del primer registro, los derechos deberán ser cubiertos en el momento en que se efectúe; y
 
 II. Los registros subsecuentes deberán cubrirse en el mes de enero de cada año.
+
+#### SECCIÓN III. DOTACIÓN Y CANJE DE PLACAS
 
 ###### Artículo 56.
 
@@ -903,6 +1049,8 @@ Cuando por cualquier circunstancia un vehículo se retire de la circulación en 
 
 Por las placas que correspondan a dos ejercicios fiscales, se cubrirán dos anualidades en el momento de su entrega.
 
+#### SECCIÓN IV. INSPECCIÓN DE FRENOS, DIRECCIÓN Y SISTEMA DE LUCES
+
 ###### Artículo 58.
 
 Los vehículos de transporte público concesionado que circulen en el Municipio, deberán sujetarse a inspección semestral de frenos, dirección y sistema de luces, previo pago de los derechos que fija el artículo 54 fracciones I y II.
@@ -911,15 +1059,19 @@ Los vehículos de transporte público concesionado que circulen en el Municipio,
 
 Los vehículos que transporten pasajeros estarán también sujetos a la inspección sanitaria, por la cual cubrirán los derechos correspondientes.
 
+#### SECCIÓN V. LICENCIAS PARA CONDUCIR VEHÍCULOS DE MOTOR
+
 ###### Artículo 60.
 
 No podrán conducirse vehículos de motor sin obtenerse previamente la licencia de manejo respectiva, ésta se otorgará después de que la persona interesada haya sido aprobada en el examen médico y de competencia, que se practicará previo pago de los derechos respectivos.
+
+#### SECCIÓN VI. EXCEPCIONES
 
 ###### Artículo 61.
 
 Quedan exceptuados del pago de los derechos a que se refiere este capítulo, los vehículos propiedad de los Gobiernos Federal, del Estado de Quintana Roo, y del Municipio.
 
-### CAPÍTULO IV. SERVICIOS EN MATERIA DE DESARROLLO URBANO
+### CAPÍTULO III. REGISTRO CIVIL MUNICIPAL
 
 ###### Artículo 62.
 
@@ -1091,7 +1243,7 @@ Los actos de registro civil se efectuarán previo pago de los derechos a que se 
 
 Los Oficiales del Registro Civil que actúen sin que hayan sido cubiertos los derechos, serán responsables solidarios de su pago.
 
-### CAPÍTULO V. DE LAS CERTIFICACIONES
+### CAPÍTULO IV. SERVICIOS EN MATERIA DE DESARROLLO URBANO
 
 ###### Artículo 67.
 
@@ -1227,7 +1379,7 @@ a) Por la fusión de 2 lotes 4.60 S.M.G.
 
 b) Por cada lote que exceda de 2: 4.03 S.M.G.
 
-### CAPÍTULO VI. PANTEONES
+### CAPÍTULO V. DE LAS CERTIFICACIONES
 
 ###### Artículo 73.
 
@@ -1271,7 +1423,7 @@ III. Las que acrediten la clausura de algún establecimiento o cualquiera causa 
 
 IV. Las de supervivencia de pensionistas de la Federación y los Estados y las que acuerde el Ayuntamiento o en su caso el Presidente Municipal conforme a sus facultades.
 
-### CAPÍTULO VII. ALINEAMIENTOS DE PREDIOS, CONSTAN DEL USO DEL SUELO, NUMERO OFICIAL, MEDICIÓN DE SOLARES DEL FUNDO LEGAL Y SERVICIOS CATASTRALES
+### CAPÍTULO VI. PANTEONES
 
 ###### Artículo 76.
 
@@ -1397,7 +1549,7 @@ Las personas que poseen fosas a perpetuidad en los panteones municipales, podrá
 
 El Municipio concederá las licencias para las exhumaciones y traslado de cadáveres o restos, una vez satisfechos los requisitos de salubridad y el pago de los derechos correspondientes.
 
-### CAPÍTULO VIII. LICENCIAS Y REFRENDOS DE FUNCIONAMIENTO COMERCIAL, INDUSTRIAL Y DE SERVICIOS
+### CAPÍTULO VII. ALINEAMIENTOS DE PREDIOS, CONSTAN DEL USO DEL SUELO, NUMERO OFICIAL, MEDICIÓN DE SOLARES DEL FUNDO LEGAL Y SERVICIOS CATASTRALES
 
 ###### Artículo 82.
 
@@ -1601,7 +1753,7 @@ II. Concluidos los tres meses de este último refrendo, no podrá concederse otr
 
 III. La expedición de copias de alineamiento o de los refrendos, causarán un derecho igual al 25% de la cuota que se hubiere cubierto con motivo de la expedición del alineamiento o del refrendo, que en ningún caso será menor a 2.5 S.M.G.
 
-### CAPÍTULO IX. LICENCIAS PARA FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES EN HORAS EXTRAORDINARIAS
+### CAPÍTULO VIII. LICENCIAS Y REFRENDOS DE FUNCIONAMIENTO COMERCIAL, INDUSTRIAL Y DE SERVICIOS
 
 ###### Artículo 85.
 
@@ -1963,7 +2115,7 @@ Los contribuyentes que no se hayan inscrito en el padrón municipal o que no hub
 
 Simultáneamente al requerimiento, la autoridad impondrá la sanción que corresponda en los términos del Código Fiscal Municipal.
 
-### CAPÍTULO X. RASTRO E INSPECCIÓN SANITARIA
+### CAPÍTULO IX. LICENCIAS PARA FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES EN HORAS EXTRAORDINARIAS
 
 ###### Artículo 90.
 
@@ -1991,7 +2143,7 @@ excepto cerveza:
 
 El derecho por horas extraordinarias a que se refiere el artículo anterior, será pagado por mensualidades adelantadas, dentro de los cinco primeros días de cada mes.
 
-### CAPÍTULO XI. TRASLADO DE ANIMALES SACRIFICADOS EN LOS RASTROS
+### CAPÍTULO X. RASTRO E INSPECCIÓN SANITARIA
 
 ###### Artículo 92.
 
@@ -2029,7 +2181,7 @@ III. Ganado lanar o cabrío hasta 0.2 S.M.G
 
 IV. Aves hasta 0.3 S.M.G.
 
-### CAPÍTULO XII. DEPOSITO DE ANIMALES EN CORRALES MUNICIPALES
+### CAPÍTULO XI. TRASLADO DE ANIMALES SACRIFICADOS EN LOS RASTROS
 
 ###### Artículo 94.
 
@@ -2053,7 +2205,7 @@ En tanto se adquieren los vehículos para atender las necesidades de la distribu
 
 Por la concesión del derecho de traslado o acarreo, el concesionario cubrirá anualmente por este concepto el importe que se le fije, de acuerdo al convenio celebrado.
 
-### CAPÍTULO XIII. REGISTRO Y BÚSQUEDA DE FIERROS Y SEÑALES PARA GANADO
+### CAPÍTULO XII. DEPOSITO DE ANIMALES EN CORRALES MUNICIPALES
 
 ###### Artículo 95.
 
@@ -2079,7 +2231,7 @@ III. Ganado lanar o cabrío 0.2 S.M.G.
 
 IV. Aves 0.3 S.M.G.
 
-### CAPÍTULO XIV. EXPEDICIÓN DE CERTIFICADOS DE VECINDAD, DE RESIDENCIA Y DE MORADA CONYUGAL
+### CAPÍTULO XIII. REGISTRO Y BÚSQUEDA DE FIERROS Y SEÑALES PARA GANADO
 
 ###### Artículo 98.
 
@@ -2091,7 +2243,7 @@ El derecho que se pagará por el Registro de Fierros, será de: 3.0 S.M.G.
 
 Por cada búsqueda de señales y marcas que se hagan en los archivos, a solicitud de los interesados y duplicados que se expidan, se pagará 1.5 S.M.G.
 
-### CAPÍTULO XV. ANUNCIOS
+### CAPÍTULO XIV. EXPEDICIÓN DE CERTIFICADOS DE VECINDAD, DE RESIDENCIA Y DE MORADA CONYUGAL
 
 ###### Artículo 100.
 
@@ -2105,7 +2257,7 @@ II. De residencia 2.0 S.M.G.
 
 III. De morada conyugal 2.0 S.MG.
 
-### CAPÍTULO XVI. PERMISOS PARA RUTA DE AUTOBUSES DE PASAJEROS, URBANOS Y SUBURBANOS
+### CAPÍTULO XV. ANUNCIOS
 
 ###### Artículo 101.
 
@@ -2203,7 +2355,7 @@ II. Las que realicen las entidades gubernamentales en sus funciones de derecho p
 
 III. Los manifiestos públicos o sindicales, los anuncios de venta o de alquiler de inmuebles, las solicitudes relativas a trabajos, o avisos en las puertas de los templos de culto.
 
-### CAPÍTULO XVII. LIMPIEZA DE SOLARES BALDÍOS
+### CAPÍTULO XVI. PERMISOS PARA RUTA DE AUTOBUSES DE PASAJEROS, URBANOS Y SUBURBANOS
 
 ###### Artículo 106.
 
@@ -2245,7 +2397,7 @@ Este derecho debe ser cubierto a la Tesorería Municipal contra el otorgamiento 
 
 Las concesiones de permisos de ruta, deberán ser supervisadas por las autoridades municipales y los propietarios, poseedores o chóferes de los vehículos a quienes se otorgó el permiso, deberán mostrarlo a las autoridades competentes cuando estas lo requieran.
 
-### CAPÍTULO XVIII. SERVICIOS DE INSPECCIÓN Y VIGILANCIA
+### CAPÍTULO XVII. LIMPIEZA DE SOLARES BALDÍOS
 
 ###### Artículo 110.
 
@@ -2263,13 +2415,13 @@ Cuando el Municipio realice los servicios de desmonte, desyerbado o limpieza de 
 
 El pago de las obligaciones establecidas, deberán de ser realizadas en un término de quince días de manera conjunta con la multa correspondiente ante la Tesorería Municipal, una vez hecha la notificación, mediante las formas que establece el Código Fiscal Municipal del Estado de Quintana Roo, o en su caso, las aprobadas por la autoridad fiscal municipal.
 
-### CAPÍTULO XIX. DEL SERVICIO PRESTADO POR LAS AUTORIDADES DE SEGURIDAD PÚBLICA
+### CAPÍTULO XVIII. SERVICIOS DE INSPECCIÓN Y VIGILANCIA
 
 ###### Artículo 113.
 
 El Municipio cobrará este servicio en la forma y términos que para el efecto establezca el ordenamiento legal correspondiente.
 
-### CAPÍTULO XX. SERVICIOS DE RECOLECCIÓN, TRANSPORTACIÓN, TRATAMIENTO Y DESTINO FINAL DE RESIDUOS SÓLIDOS
+### CAPÍTULO XIX. DEL SERVICIO PRESTADO POR LAS AUTORIDADES DE SEGURIDAD PÚBLICA
 
 ###### Artículo 114.
 
@@ -2301,7 +2453,7 @@ segundo, mensualmente pagarán:
 
 Las personas físicas o morales que requieran del servicio especial, lo solicitarán por escrito ante las Oficinas de la Tesorería Municipal indicando número de personal requerido, fecha de inicio y terminación del convenio, domicilio donde se prestará el servicio, nombre y denominación o razón social del solicitante, domicilio del mismo.
 
-### CAPÍTULO XXI. PROMOCIÓN Y PUBLICIDAD TURÍSTICA
+### CAPÍTULO XX. SERVICIOS DE RECOLECCIÓN, TRANSPORTACIÓN, TRATAMIENTO Y DESTINO FINAL DE RESIDUOS SÓLIDOS
 
 ###### Artículo 118.
 
@@ -2329,7 +2481,7 @@ Este derecho deberá ser cubierto en la Tesorería Municipal en forma mensual de
 
 Cuando el presente derecho sea cubierto en una sola emisión, cubra todo el año y sea enterado en la Tesorería Municipal correspondiente dentro del mes de enero, y febrero de cada año fiscal, se le concederá al contribuyente un descuento del 10% del total del importe.
 
-### CAPÍTULO XXII. USO DE LA VÍA PÚBLICA O DE OTROS BIENES DE USO COMÚN
+### CAPÍTULO XXI. PROMOCIÓN Y PUBLICIDAD TURÍSTICA
 
 ###### Artículo 119.
 
@@ -2351,7 +2503,7 @@ II. Para los establecimientos descritos en la fracción II del artículo anterio
 
 Los pagos se enterarán en forma anual durante los dos primeros meses del año o dentro de los veinte primeros días siguientes a la fecha de inicio de sus operaciones mercantiles. En este último caso, la autoridad fiscal impondrá una tarifa estimada y proporcional a los meses del año transcurridos.
 
-### CAPÍTULO XXIII. OTROS NO ESPECIFICADOS
+### CAPÍTULO XXII. USO DE LA VÍA PÚBLICA O DE OTROS BIENES DE USO COMÚN
 
 ###### Artículo 122.
 
@@ -2413,7 +2565,7 @@ Los tráilers que tengan más de una caja, se les cobrará el 50% adicional a la
 
 Las flotillas de más de 10 vehículos cuyo propietario sea una misma persona física o moral, podrán solicitar a la Tesorería Municipal, un descuento de hasta el 50% de la tarifa que corresponda, respecto de cada permiso solicitado.
 
-### CAPÍTULO XXIV. DE LA VERIFICACIÓN, CONTROL Y FISCALIZACIÓN DE OBRA PÚBLICA
+### CAPÍTULO XXIII. OTROS NO ESPECIFICADOS
 
 ###### Artículo 123.
 
@@ -2453,7 +2605,7 @@ Aquellos derechos no regulados en la presente Ley se recaudarán conforme al ord
 
 Todos los servicios de orden público municipal podrán ser concesionados a particulares, en las formas y con los requisitos que el Ayuntamiento considere.
 
-### CAPÍTULO XXV. SERVICIOS EN MATERIA DE ECOLOGÍA Y PROTECCIÓN AL AMBIENTE
+### CAPÍTULO XXIV. DE LA VERIFICACIÓN, CONTROL Y FISCALIZACIÓN DE OBRA PÚBLICA
 
 ###### Artículo 127.
 
@@ -2461,7 +2613,7 @@ Por la verificación, control y fiscalización que las leyes en la materia encom
 
 La Tesorería Municipal al hacer el pago de las estimaciones de obra que le corresponda, retendrá el derecho a que se refiere el párrafo anterior y registrara el 50 por ciento de todo lo recaudado por este concepto a favor de la partida presupuestal de la respectiva Contraloría Municipal para su aplicación a gastos inherentes a sus operaciones de verificación y control de la Obra Pública Municipal. El restante 50 por ciento de todo lo recaudado por este concepto será transferido por la Tesorería Municipal al Órgano Superior de Fiscalización del Estado, el cual lo integrara al Fondo para el Fortalecimiento de la Fiscalización Superior.
 
-### CAPÍTULO XXVI. DE LOS SERVICIOS EN MATERIA DE PROTECCIÓN CIVIL
+### CAPÍTULO XXV. SERVICIOS EN MATERIA DE ECOLOGÍA Y PROTECCIÓN AL AMBIENTE
 
 ###### Artículo 128.
 
@@ -2503,7 +2655,7 @@ Los derechos previstos en el presente artículo deberán ser pagados previamente
 
 Los mismos derechos se causarán, por la expedición de la constancia de actualización de datos de los particulares registrados, cuando los datos del registro se modifiquen.
 
-### CAPÍTULO XXVII. DE LOS SERVICIOS QUE PRESTA LA UNIDAD DE VINCULACIÓN
+### CAPÍTULO XXVI. DE LOS SERVICIOS EN MATERIA DE PROTECCIÓN CIVIL
 
 ###### Artículo 130.
 
@@ -2527,7 +2679,7 @@ V. Por revalidación anual de registro 10.0 S.M.G.
 
 VI. Otros servicios no precisados en este artículo 7.0 S.M.
 
-### CAPÍTULO I. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
+### CAPÍTULO XXVII. DE LOS SERVICIOS QUE PRESTA LA UNIDAD DE VINCULACIÓN
 
 ###### Artículo 131.
 
@@ -2545,11 +2697,11 @@ III. Por la expedición de disco compacto 1.00 S.M.G. por cada uno.
 
 Tratándose de lo dispuesto en las fracciones II, III y IV, no se realizará cobro alguno, cuando el solicitante presente ante la Unidad de Vinculación que corresponda, el material señalado en esas fracciones o cualquier otro que se requiera para la reproducción de la información solicitada.
 
-### CAPÍTULO II. BIENES MOSTRENCOS
+### CAPÍTULO I. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
 
 ## TÍTULO CUARTO. PRODUCTOS
 
-### CAPÍTULO III. MERCADOS
+### CAPÍTULO II. BIENES MOSTRENCOS
 
 ###### Artículo 132.
 
@@ -2573,7 +2725,7 @@ En todos los casos en que se autorice la enajenación de bienes del Municipio y 
 
 Los bienes de uso común o destinados al servicio del Municipio no podrán ser enajenados mientras tengan ese carácter, el que solo podrá cambiarse mediante la aprobación por mayoría calificada del Ayuntamiento respectivo, y en los términos y para los fines previstos en la Ley de los Municipios del Estado de Quintana Roo.
 
-### CAPÍTULO IV. ARRENDAMIENTO, EXPLOTACIÓN O ENAJENACIÓN DE EMPRESAS MUNICIPALES
+### CAPÍTULO III. MERCADOS
 
 ###### Artículo 137.
 
@@ -2583,7 +2735,7 @@ Se entiende por bienes mostrencos los bienes inmuebles abandonados y los predios
 
 El producto líquido de los bienes mostrencos que sean rematados o vendidos conforme a las disposiciones del Código Civil, constituirá un ingreso para la Hacienda Municipal.
 
-### CAPÍTULO V. CRÉDITOS A FAVOR DEL MUNICIPIO
+### CAPÍTULO IV. ARRENDAMIENTO, EXPLOTACIÓN O ENAJENACIÓN DE EMPRESAS MUNICIPALES
 
 ###### Artículo 139.
 
@@ -2667,7 +2819,7 @@ semifijos en la vía pública, pagarán diario:
 
 g) Otros no especificados, diario: de 0.8 a 5.0 S.M.G.
 
-### CAPÍTULO VI. VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
+### CAPÍTULO V. CRÉDITOS A FAVOR DEL MUNICIPIO
 
 ###### Artículo 140.
 
@@ -2677,13 +2829,13 @@ Se consideran productos los ingresos que se deriven del arrendamiento, explotaci
 
 La realización de las actividades a que se hace referencia en el artículo anterior se hará previo acuerdo del Ayuntamiento, observándose además las disposiciones de carácter Estatal que al respecto existan.
 
-### CAPÍTULO VII. PRODUCTOS DIVERSOS
+### CAPÍTULO VI. VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
 
 ###### Artículo 142.
 
 Se consideran productos aquellos ingresos que obtiene el Municipio mediante créditos de empresas, de personas físicas o morales para satisfacer sus necesidades económicas.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VII. PRODUCTOS DIVERSOS
 
 ###### Artículo 143.
 
@@ -2718,6 +2870,8 @@ La Tesorería Municipal deberá ajustar sus procedimientos de cobro, liquidació
 Como participaciones del Estado se entienden aquellos ingresos que el Estado entrega al Municipio, deducibles de sus propios ingresos y que se regulan conforme a las disposiciones que al efecto establecen las leyes fiscales del Estado o la Legislatura local.
 
 ## TÍTULO SÉPTIMO. APORTACIONES FEDERALES
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 148.
 
@@ -2830,3 +2984,5 @@ P.O. 8 DE OCTUBRE DE 2014.
 Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE DICIEMBRE DE 2019.
