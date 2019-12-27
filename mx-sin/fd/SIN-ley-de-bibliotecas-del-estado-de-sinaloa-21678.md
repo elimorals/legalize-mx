@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-bibliotecas-del-estado-de-sinaloa-21678"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-18"
-last_updated: "2016-09-02"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE BIBLIOTECAS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el día 18 de mayo de 2001.
 
@@ -60,6 +60,10 @@ IV.- La determinación de lineamientos para llevar a cabo la concertación con l
 La biblioteca pública tendrá como finalidad ofrecer en forma democrática los servicios de consulta y préstamo de libros, periódicos, revistas y todo tipo de obras impresas o en formato digital, así como otros servicios culturales complementarios que permitan a la población adquirir, transmitir, acrecentar, promover y conservar en forma libre el conocimiento en todas las ramas del saber.
 
 Su acervo comprenderá colecciones bibliográficas, hemerográficas, auditivas, visuales, audiovisuales, digitales y, en general, cualquier otro medio que contenga información afín.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Sus instalaciones deberán garantizar la accesibilidad a todas las personas, contar con el equipo necesario y la bibliografía especializada, para la prestación de los servicios sin discriminación alguna y en igualdad de oportunidades.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
 
@@ -342,3 +346,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
 
 TERCERO. El Ejecutivo del Estado y los Ayuntamientos incluirán progresivamente en los Presupuestos de Egresos posteriores a la entrada en vigor del presente Decreto, las partidas específicas para financiar el equipamiento de cómputo, el funcionamiento de la red de internet y los programas de digitalización del acervo impreso y adquisición de acervo digital de las bibliotecas de su competencia.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 359 DEL H. CONGRESO DEL ESTADO.- QUE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 1 BIS DE LA LEY DE BIBLIOTECAS DEL ESTADO DE SINALOA".]
+
+ÚNICO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
