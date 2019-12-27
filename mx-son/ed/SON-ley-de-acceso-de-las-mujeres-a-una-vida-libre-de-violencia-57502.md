@@ -4,7 +4,7 @@ identifier: "SON-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5750
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-29"
-last_updated: "2019-10-10"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 29 de octubre de 2007.
 
@@ -117,17 +117,19 @@ III.- La violencia patrimonial.- Es cualquier acto u omisión que afecta la supe
 
 IV.- Violencia económica.- Es toda acción u omisión del Agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
-> <small>(REFORMADA, B.O. 10 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 27 DE DICIEMBRE DE 2019)</small>
 
 V.- La violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 10 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-VI.- Violencia Obstétrica.- Es toda acción u omisión por parte del personal de salud, que atenta contra el derecho a la no discriminación, a la salud, la integridad física, la igualdad y la privacidad, especialmente en lo que ve a la salud sexual, los derechos reproductivos de las mujeres durante el embarazo, el parto y el puerperio y su autonomía para ejercerlos de manera informada; así como el abuso de medicalización y patologización de los procesos naturales; trayendo consigo la pérdida de autonomía y capacidad de decidir libremente sobre sus cuerpos y su sexualidad, un daño físico o psicológico, o la muerte de la madre o del producto;
+VI.- Violencia Política: Es el conjunto de acciones u omisiones cometidas por una o varias personas o a través de terceros, basadas en elementos de género que causen daño a una mujer y que tengan por objeto menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos o prerrogativas inherentes a un cargo público;
 
-> <small>(ADICIONADA, B.O. 10 DE OCTUBRE DE 2019)</small>
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN VIII DEL PRESENTE ARTÍCULO.]</small>
 
-VII.- Violencia de los derechos reproductivos.- Es toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, con relación al número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, así como los servicios de atención prenatal, y obstétricos de emergencia; y
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+VII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 10 DE OCTUBRE DE 2019)</small>
 
@@ -185,13 +187,69 @@ El Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, re
 
 El Estado y los ayuntamientos promoverán las acciones conducentes para prevenir, atender, investigar y sancionar las conductas violentas en contra de las mujeres ejercidas por servidores públicos, así como aquellas que, en su caso, sean necesarias a fin de que se repare el daño inflingido (sic) a las víctimas, de conformidad con lo dispuesto por las disposiciones jurídicas aplicables.
 
-### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO NTEGRA, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO VI. DE LA ALERTA DE VIOLENCIA DE GÉNERO
+### CAPÍTULO IV BIS. DE LA VIOLENCIA POLÍTICA
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 14 BIS.- La violencia política contra las mujeres es la acción u omisión ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político-electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones y la libertad de organización.
+
+Se manifiesta en minimización, anulación, presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas o privación de la libertad o de la vida en razón del género.
+
+Constituye una forma de discriminación de los espacios de poder y de decisión; fomenta la desigualdad y trasgrede los derechos políticos y civiles de las mujeres; puede expresarse a través de las siguientes acciones:
+
+I.- Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
+
+II.- Imponer la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
+
+III.- Suministrar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa, errada o imprecisa que induzca al incorrecto ejercicio de sus atribuciones;
+
+IV.- Proporcionar información incompleta o datos falsos a la autoridad administrativa, electoral o jurisdiccional con la finalidad de menoscabar los derechos político-electorales de las mujeres y la garantía del debido proceso;
+
+V.- Ocultar información u omitir la convocatoria de cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y/o actividades;
+
+VI.- Impedir o restringir la reincorporación al cargo que se ostente, cuando hagan uso de una licencia, incluida la licencia de maternidad;
+
+VII.- Impedir por cualquier medio que las mujeres electas, titulares o suplentes, o designadas a cualquier puesto o encargo público, asistan a la toma de protesta de su encargo, así como a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que impliqué la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo el derecho a voz y voto;
+
+VIII.- Impedir u obstaculizar, los derechos de asociación y afiliación en los partidos políticos y/u otro tipo de organizaciones civiles, en razón de género;
+
+IX.- Establecer conductas que impliquen amenazas verbales, difamación, desprestigio, burlas, descalificación, acecho, hostigamiento, acoso sexual y/o calumnias en público o privado, por cualquier medio convencional y/o digital;
+
+X.- Intimidar mediante agresiones físicas, sexuales, psicológicas o verbales contra su persona o sus familiares;
+
+XI.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un espacio público, de poder o de decisión.
+
+XII.- Excluir a las mujeres electas, titulares o designadas a cualquier puesto de liderazgo o encargo público, de la relación institucional directa que conlleva el ejercicio de su cargo.
+
+XIII.- Presionar, intimidar y/u obligar de manera directa o indirecta a la renuncia o a la solicitud de licencia de los cargos de elección popular o de la función pública según sea el caso.
+
+XIV.- Impedir, obstaculizar o minimizar la construcción e implementación de proyectos políticos, legislativos, gubernamentales y políticas públicas, elaborados y abanderados por mujeres que ocupan cargos de elección popular, que tengan por objeto generar condiciones para la realización de la igualdad sustantiva.
+
+XV.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un espacio público, de poder o de decisión.
+
+### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA
 
 ###### ARTÍCULO 15.
 
 Violencia feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado o Municipios y culminar en homicidio y otras formas de muerte violenta de mujeres, con perturbación social en un territorio determinado o la existencia de un agravio que impida el ejercicio pleno de los derechos humanos de las mujeres.
+
+### CAPÍTULO VI. DE LA ALERTA DE VIOLENCIA DE GÉNERO
+
+###### ARTÍCULO 16.
+
+Alerta de violencia de género: Es el conjunto de acciones gubernamentales de emergencia derivadas de la declaratoria emitida por la autoridad competente para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad.
+
+###### ARTÍCULO 17.
+
+Cuando se presenten casos de violencia feminicida, el Estado y los municipios dispondrán de las medidas que sean adecuadas para garantizar la seguridad de las mujeres, el cese de la violencia en su contra y eliminar las situaciones de desigualdad en que se encuentren, sin perjuicio de que puedan proponer a la Secretaría de Gobernación la emisión de declaratorias de alertas de violencia de género, a fin de que se adopten las medidas y acciones preventivas de seguridad y justicia que procedan.
+
+###### ARTÍCULO 18.
+
+El Estado y los municipios coadyuvarán con la Federación en la implementación de las medidas y acciones que se determinen en la declaratoria de alerta de violencia de género y participarán en los grupos interinstitucionales y multidisciplinarios que se formen para dar seguimiento a las acciones y medidas señaladas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 10 DE OCTUBRE DE 2019)</small>
 
 ### CAPÍTULO VII. DE LA VIOLENCIA OBSTÉTRICA
 
@@ -283,27 +341,11 @@ ARTÍCULO 18 BIS 6.- La Secretaría de Salud Pública podrá celebrar convenios 
 
 ARTÍCULO 18 BIS 7.- Los hospitales públicos y privados deberán contar con un módulo especial para la recepción de denuncias por casos de Violencia Obstétrica.
 
-###### ARTÍCULO 16.
-
-Alerta de violencia de género: Es el conjunto de acciones gubernamentales de emergencia derivadas de la declaratoria emitida por la autoridad competente para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad.
-
-###### ARTÍCULO 17.
-
-Cuando se presenten casos de violencia feminicida, el Estado y los municipios dispondrán de las medidas que sean adecuadas para garantizar la seguridad de las mujeres, el cese de la violencia en su contra y eliminar las situaciones de desigualdad en que se encuentren, sin perjuicio de que puedan proponer a la Secretaría de Gobernación la emisión de declaratorias de alertas de violencia de género, a fin de que se adopten las medidas y acciones preventivas de seguridad y justicia que procedan.
-
-###### ARTÍCULO 18.
-
-El Estado y los municipios coadyuvarán con la Federación en la implementación de las medidas y acciones que se determinen en la declaratoria de alerta de violencia de género y participarán en los grupos interinstitucionales y multidisciplinarios que se formen para dar seguimiento a las acciones y medidas señaladas.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 10 DE OCTUBRE DE 2019)</small>
-
 ### CAPÍTULO I. DEL OBJETO E INTEGRACIÓN DEL SISTEMA ESTATAL
-
-### CAPÍTULO II. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ## TÍTULO TERCERO. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
+### CAPÍTULO II. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### ARTÍCULO 19.
 
@@ -341,7 +383,7 @@ IX.- Los organismos y dependencias instituidos en el ámbito municipal para la p
 
 La Secretaría Ejecutiva del Sistema Estatal elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación, en su caso.
 
-### CAPÍTULO II. DE LA COMPETENCIA DE LOS AYUNTAMIENTOS
+### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
 
 ###### ARTÍCULO 22.
 
@@ -387,7 +429,7 @@ La Secretaría de Gobierno procurará la participación de los sectores público
 
 ## TÍTULO CUARTO. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN, Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO ÚNICO. DE LAS ÓRDENES DE PROTECCIÓN
+### CAPÍTULO II. DE LA COMPETENCIA DE LOS AYUNTAMIENTOS
 
 ###### ARTÍCULO 24.
 
@@ -605,9 +647,9 @@ VII.- Promover y vigilar que la atención ofrecida en las diversas instituciones
 
 VIII.- Las demás previstas en esta ley y en otras disposiciones aplicables.
 
-### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
+### CAPÍTULO ÚNICO. DE LAS ÓRDENES DE PROTECCIÓN
 
-### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS
+### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
 
 ###### ARTÍCULO 33.
 
@@ -646,6 +688,8 @@ XV.- Auxiliar a las demás autoridades competentes en materia de violencia hacia
 XVI.- Las demás previstas en esta ley y en otras disposiciones aplicables.
 
 ## TÍTULO QUINTO. DE LAS MEDIDAS DE PROTECCIÓN
+
+### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS
 
 ###### ARTÍCULO 34.
 
@@ -936,3 +980,11 @@ El protocolo de actuación para atender los casos de Violencia Obstétrica, debe
 ###### ARTÍCULO TERCERO.
 
 Los módulos de recepción de denuncias por casos de Violencia Obstétrica, a que se hace referencia en el artículo 18 BIS 7 del presente Decreto, deberá estar funcionando a más tardar dentro del plazo de 60 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+B.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 82, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA Y EL CÓDIGO PENAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
