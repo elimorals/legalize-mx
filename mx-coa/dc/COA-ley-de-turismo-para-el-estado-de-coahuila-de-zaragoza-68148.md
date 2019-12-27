@@ -4,7 +4,7 @@ identifier: "COA-ley-de-turismo-para-el-estado-de-coahuila-de-zaragoza-68148"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-10"
-last_updated: "2019-08-23"
+last_updated: "2019-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE TURISMO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TURISMO DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TURISMO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 10 de febrero de 2009.
 
@@ -755,8 +757,18 @@ P.O. 23 DE AGOSTO DE 2019.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO SÉPTIMO TRANSITORIO DEL “DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN”, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 14 DE JULIO DE 2014”.]
+P.O. 27 DE DICIEMBRE DE 2019.
 
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO 433.- LEY DE TURISMO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
-Segundo.- Lo dispuesto en el tercer párrafo del Artículo Séptimo Transitorio del “Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de julio de 2014, que se adiciona, será aplicable únicamente a las solicitudes de prórroga presentadas con anterioridad a la entrada en vigor del presente Decreto.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley Estatal de Turismo del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado el día 10 de febrero de 2009.
+
+TERCERO. El Consejo Estatal de Turismo deberá de instalarse en (sic) plazo de treinta días hábiles posteriores a la publicación del presente Decreto y su reglamento deberá de expedirse en un plazo de ciento ochenta días hábiles posteriores a la publicación del presente Decreto.
+
+CUARTO. En un plazo de seis meses posteriores a la publicación de este Decreto, se deberán de expedir las adecuaciones necesarias a las disposiciones reglamentarias y administrativas.
+
+QUINTO. Se derogan todas las disposiciones que se opongan a la presente ley.
+
+SEXTO. Las erogaciones que se presenten con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado, para el presente ejercicio fiscal y los subsecuentes, de la Secretaría de Turismo y Desarrollo de Pueblos Mágicos, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto regularizable de la Secretaria antes mencionada para el presente ejercicio fiscal ni posteriores.
