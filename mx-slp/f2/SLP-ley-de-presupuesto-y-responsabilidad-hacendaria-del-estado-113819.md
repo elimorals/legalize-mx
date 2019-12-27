@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1138
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2019-10-28"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de marzo de 2016.
 
@@ -408,7 +408,9 @@ Estos ejecutores del gasto remitirán a la Secretaría sus proyectos de calendar
 
 La Secretaría queda facultada para elaborar los calendarios de presupuesto de los ejecutores del gasto, cuando no le sean presentados en los términos establecidos.
 
-La Secretaría cumplirá los calendarios de presupuesto autorizados a los ejecutores del gasto, en los términos de las disposiciones aplicables, de acuerdo con la disponibilidad de los recursos financieros.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+La Secretaría cumplirá los calendarios de presupuesto autorizados a los ejecutores del gasto, en los términos de las disposiciones aplicables, de acuerdo con la disponibilidad de los recursos financieros. Tratándose de los incrementos de las prestaciones ordinarias que, en su caso, se hayan aprobado para el ejercicio fiscal por el concepto de servicios personales, éste se aplicará dentro del primer semestre del año, a excepción de que no hubiera disponibilidad de los recursos, plena justificación de ello.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2019)</small>
 
@@ -1056,7 +1058,9 @@ VIII. Las medidas o mecanismos que permitan afrontar contingencias en los progra
 
 IX. En el caso que involucren recursos públicos federales que no pierden su naturaleza por ser transferidos, éstos deberán depositarse en cuentas bancarias específicas que permitan su identificación para efectos de comprobación de su ejercicio y fiscalización, en los términos de las disposiciones generales aplicables, y
 
-X. La Auditoría, en los términos de la Ley de Auditoría Superior del Estado, podrá acordar con las contralorías internas de los municipios, reglas y procedimientos para fiscalizar el ejercicio de estos recursos.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+X. La Auditoría, en los términos de la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí, podrá acordar con las contralorías internas de los municipios, reglas y procedimientos para fiscalizar el ejercicio de estos recursos.
 
 ###### ARTÍCULO 72.
 
@@ -1104,6 +1108,8 @@ Con el objeto de mejorar la transparencia y rendición de cuentas en el ejercici
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 77.
 
 La Secretaría realizará trimestralmente la evaluación económica de los ingresos y egresos, en función de los calendarios de presupuesto de las dependencias y entidades. Los demás ejecutores del gasto realizarán este análisis, a través de sus respectivas unidades de administración, o de las unidades especializadas que éstas determinen.
@@ -1148,11 +1154,13 @@ Los resultados a los que se refiere este artículo deberán ser considerados par
 
 ###### ARTÍCULO 80.
 
-Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la presente Ley y demás disposiciones generales en la materia, serán sancionados de conformidad con lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, y demás disposiciones aplicables en términos del Título Décimo Segundo de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la presente Ley y demás disposiciones generales en la materia, serán sancionados de conformidad con lo previsto en la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí, y demás disposiciones aplicables en términos del Título Décimo Segundo de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 81.
 
-La Auditoría ejercerá las atribuciones que, conforme a la Ley de Auditoría Superior del Estado de San Luis Potosí, y las demás disposiciones aplicables, le correspondan en materia de responsabilidades.
+La Auditoría ejercerá las atribuciones que, conforme a la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí, y las demás disposiciones aplicables, le correspondan en materia de responsabilidades.
 
 ###### ARTÍCULO 82.
 
@@ -1331,5 +1339,21 @@ P.O. 28 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0292.- SE ADICIONA AL ARTÍCULO 36 EL PÁRRAFO ÚLTIMO, DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0450.- SE REFORMA EL ARTÍCULO 23 DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0451.- SE REFORMAN LOS ARTÍCULOS 71, 80, Y 81 DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
