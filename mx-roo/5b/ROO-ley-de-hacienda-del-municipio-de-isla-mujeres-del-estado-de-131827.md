@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-isla-mujeres-del-estado-de-131
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-29"
-last_updated: "2018-11-29"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Número 154 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 29 de noviembre de 2018.
 
@@ -681,27 +681,69 @@ De igual manera, tendrán la facultad y obligación de retener y enterar el impu
 
 ### CAPÍTULO I. De los Derechos de Saneamiento Ambiental
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN I. Del Objeto
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 54.
 
-Los derechos que establece este capítulo se causarán por la ejecución de saneamiento ambiental que se realice en el municipio, en razón de la ocupación de hoteles, posadas o casas de huéspedes, hostales y moteles.
+Los derechos que establece este capítulo se causarán por la ejecución de saneamiento ambiental que se realice en el municipio.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN II. De los Sujetos
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 55.
 
-Están obligados a pagar los derechos de saneamiento ambiental el o los usuarios de cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales y moteles, mismo derecho que será retenido por los prestadores de servicios del ramo.
+Están obligados a pagar los derechos de saneamiento ambiental:
 
-Tratándose de los visitantes que no se hospeden en algún establecimiento de los referidos en el párrafo anterior, el pago lo deberán realizar a través de la operadora marítima de transporte de pasajeros con ruta dentro del ámbito territorial del municipio.
+I. Los usuarios de cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales y moteles, o cualquier otro servicio de hospedaje.
+
+II. Los visitantes que no se hospeden en algún establecimiento de los referidos en la fracción I del presente artículo.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 55 Bis.
+
+Tratándose del pago del derecho de Saneamiento Ambiental que realicen los usuarios de cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales y moteles, o cualquier otro servicio de hospedaje, el monto del derecho deberá ser retenido por los prestadores de los servicios del ramo. Debiendo enterar y declarar lo retenido en términos del artículo 57 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 55 Ter.
+
+Tratándose del pago del derecho de Saneamiento Ambiental que realicen los visitantes que no se hospeden en alguno de los establecimientos referidos en la fracción I del artículo 55 de esta Ley, el monto del derecho deberá ser retenido por la operadora marítima de transporte de pasajeros con ruta dentro del ámbito territorial del municipio. Debiendo enterar y declarar lo retenido en términos del artículo 57 de la presente Ley.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN III. De la Tasa y Período de Pago
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 56.
 
-El pago del derecho de saneamiento ambiental se causará en razón del 30% del valor correspondiente a la Unidad de Medida y Actualización diaria por cuarto y/o habitación, por noche de ocupación, al momento en el que el pago de la ocupación de la habitación se efectúe por adelantado, o al momento del registro (check in), o al momento de la salida (checkout) si el pago es después de prestado el servicio.
+El pago del derecho de saneamiento ambiental se causará en razón del:
 
-Tratándose de los visitantes a la parte insular del Municipio, que no se hospeden, el pago será del 20% del valor correspondiente a la Unidad de Medida y Actualización diaria, el cual se enterará a la operadora marítima de transporte de pasajeros cuya ruta esté dentro del ámbito territorial del municipio.
+1. 30% del valor correspondiente a la Unidad de Medida y Actualización diaria por cuarto y/o habitación, por noche de ocupación, al momento en el que el pago de la ocupación de la habitación se efectúe por adelantado, o al momento del registro (check in), o al momento de la salida (checkout) si el pago es después de prestado el servicio.
 
-En el caso de los visitantes a la parte insular que utilicen el medio de transporte marítimo, además de cubrir el pago establecido en el párrafo anterior, deberán cubrir un pago correspondiente al 10% del valor correspondiente a la Unidad de Medida y Actualización diaria, al momento de hospedarse en cualquiera de los establecimientos previstos en el artículo 55 de esta Ley.
+2. 20% del valor correspondiente a la Unidad de Medida y Actualización diaria, tratándose de los visitantes a la parte insular del Municipio, que no se hospeden en alguno de los establecimientos previstos en la fracción I del artículo 55 de esta Ley. El cual será retenido por la operadora marítima de transporte de pasajeros cuya ruta esté dentro del ámbito territorial del municipio.
+
+3. 10% del valor correspondiente a la Unidad de Medida y Actualización diaria, en el caso de los visitantes a la parte insular que utilicen el medio de transporte marítimo, además de cubrir el pago establecido en la fracción anterior, éste porcentaje deberá pagarse al momento de hospedarse en cualquiera de los establecimientos previstos en la fracción I del artículo 55 de esta Ley.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 57.
 
 Los retenedores deberán de enterar y declarar mensualmente, mediante formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información que se refiere a las habitaciones ocupadas por la prestación de ese servicio, de las operaciones practicadas con personas físicas y morales, a más tardar el día diecisiete del mes inmediato posterior al que se efectuó la retención, acompañado del entero del derecho correspondiente.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN IV. De las Exenciones
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 58.
 
@@ -709,11 +751,11 @@ Quedan exentos del pago de este derecho:
 
 I. Los visitantes que acrediten ser ciudadanos quintanarroenses;
 
-2. Los visitantes que contraten el servicio de transporte marítimo de las sociedades cooperativas locales con domicilio fiscal en el municipio de Isla Mujeres, y
+II. Los visitantes que contraten el servicio de transporte marítimo de las sociedades cooperativas locales con domicilio fiscal en el municipio de Isla Mujeres; y
 
-3. Las personas que desempeñen cualquier actividad laboral en el Municipio.
+III. Las personas que desempeñen cualquier actividad laboral en el Municipio.
 
-Para efecto de lo dispuesto en el inciso a) de este artículo, los contribuyentes de este derecho acreditarán al prestador de servicio ser ciudadanos quintanarroenses con su identificación oficial.
+Para efecto de lo dispuesto en la fracción I de este artículo, los contribuyentes de este derecho acreditarán al prestador de servicio ser ciudadanos quintanarroenses con la presentación de una identificación oficial.
 
 ### CAPÍTULO II. De los Derechos de Cooperación por Obras Públicas que realice el Municipio
 
@@ -3676,3 +3718,13 @@ EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 (RÚBRICA)
 
 LIC. FRANCISCO XAVIER LÓPEZ MENA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 010 POR EL QUE SE REFORMAN LOS ARTÍCULOS 54, 55, 56, 57 Y 58; Y SE ADICIONAN LOS ARTÍCULOS 55 BIS Y 55 TER, TODOS DE LA LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
