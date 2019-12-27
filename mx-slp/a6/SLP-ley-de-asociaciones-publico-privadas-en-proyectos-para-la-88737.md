@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asociaciones-publico-privadas-en-proyectos-para-la-88737
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-12"
-last_updated: "2019-11-12"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 12 de junio de 2012.
 
@@ -237,7 +237,25 @@ La Secretaría establecerá los lineamientos que contengan criterios y política
 
 Conforme a la metodología prevista en los lineamientos a que se refiere el párrafo anterior, la Secretaría o la Tesorería Municipal que corresponda, analizará y evaluará el impacto del proyecto en el gasto específico de la dependencia o entidad correspondiente y en el gasto público del Estado o del Ayuntamiento.
 
-Si de acuerdo con el análisis y la evaluación referida en el párrafo anterior, se estimara que el proyecto compromete la salud financiera de la dependencia o entidad proponente o la sustentabilidad del gasto público estatal o municipal, en su caso, en general, se desechará el eventual desarrollo del proyecto.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Además de dichos lineamientos, se deberán tomar en cuenta los siguientes elementos para la evaluación:
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+I. Impacto presupuestal de los distintos proyectos existentes acumulados, cuando los haya;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+II. Proyección general de impacto presupuestal futuro del proyecto, que incluya al menos la evolución de la deuda, y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+III. Estado histórico del Presupuesto de Egresos, y proyección estadística general del mismo, a nivel estatal o municipal según sea el caso.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Si de acuerdo con el análisis y la evaluación referida en el presente artículo, se estimara que el proyecto compromete la salud financiera de la dependencia o entidad proponente, o la sustentabilidad del gasto público estatal o municipal, en su caso, en general, se desechará el eventual desarrollo del proyecto.
 
 ###### Artículo 14.
 
@@ -1394,3 +1412,11 @@ P.O. 12 DE NOVIEMBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0453.- SE REFORMA Y ADICIONA EL ARTÍCULO 13 DE LA LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
