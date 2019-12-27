@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-temax-yucatan-53554"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-28"
-last_updated: "2018-12-29"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE TEMAX, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 28 de diciembre de 2006.
 
@@ -454,41 +454,357 @@ Cuando la base del impuesto predial, sea el valor catastral de un inmueble, dich
 
 Cuando la dirección de Catastro del Municipio de Temax, Yucatán, expidiere una cédula con diferente valor a la que existe registrada en el padrón municipal, el nuevo valor servirá como base para calcular el impuesto predial a partir del bimestre siguiente al mes que se recepcione la citada cédula. Lo dispuesto en el párrafo anterior, no se aplicará a los contribuyentes que a la fecha de la recepción de la nueva cédula catastral ya hubieren pagado el impuesto predial correspondiente. En este caso, el nuevo valor consignado en la cédula servirá como base del cálculo del impuesto predial para el siguiente bimestre no cubierto.
 
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 46.
 
 Cuando la base del impuesto predial sea el valor catastral del inmueble, el impuesto se determinará aplicando el valor catastral siguiente:
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2018)</small>
+TABLA DE VALORES DE TERRENO
 
-Límite Límite Cuota Factor
+ÁREA CENTRO
 
-inferior superior fija para
+VALOR POR M2 $ 15.00
 
-anual aplicar
+CALLE 24 entre 29 y 31 $ 15.00
 
-en el
+CALLE 24 entre 31 y 33 $ 15.00
 
-excedente
+CALLE 24 entre 33 y 35 $ 15.00
 
-del Límite
+CALLE 26 entre 29 y 31 $ 15.00
 
-inferior
+CALLE 26 entre 31 y 33 $ 15.00
 
-Pesos pesos pesos
+CALLE 26 entre 33 y 33-A $ 15.00
 
-0.01 4,000.00 10.00 De 0 a .001
+CALLE 26 entre 33-A y 35 $ 15.00
 
-4,000.01 5,500.00 18.00 De 0 a .001
+CALLE 28 entre 29 y 31 $ 15.00
 
-5,500.01 6,500.00 25.00 De 0 a .001
+CALLE 28 entre 31 y 31-A $ 15.00
 
-6,500.01 7,500.00 32.00 De 0 a .001
+CALLE 28 entre 31-A y 33-A $ 15.00
 
-7,500.01 8,500.00 44.00 De 0 a .001
+CALLE 28 entre 33-A y 35 $ 15.00
 
-8,500.01 10,000.00 50.00 De 0 a .001
+CALLE 30 entre 29 y 31 $ 15.00
 
-10,000.01 En adelante 54.00 De 0 a .001
+CALLE 30 entre 31 y 33 $ 15.00
+
+CALLE 30 entre 33 y 35 $ 15.00
+
+CALLE 32 entre 29 y 31 $ 15.00
+
+CALLE 32 entre 31 y 33 $ 15.00
+
+CALLE 32 entre 33 y 35 $ 15.00
+
+CALLE 29 entre 24 y 26 $ 15.00
+
+CALLE 29 entre 26 y 28 $ 15.00
+
+CALLE 29 entre 28 y 30 $ 15.00
+
+CALLE 29 entre 30 y 32 $ 15.00
+
+CALLE 31 entre 24 y 26 $ 15.00
+
+CALLE 31 entre 26 y 28 $ 15.00
+
+CALLE 31 entre 28 y 30 $ 15.00
+
+CALLE 31 entre 30 y 32 $ 15.00
+
+CALLE 33 entre 24 y 26 $ 15.00
+
+CALLE 33 entre 30 y 32 $ 15.00
+
+CALLE 33-A entre 26 y 28 $ 15.00
+
+CALLE 33-A entre 28 y 30 $ 15.00
+
+CALLE 35 entre 24 y 26 $ 15.00
+
+CALLE 35 entre 26 y 28 $ 15.00
+
+CALLE 35 entre 28 y 30 $ 15.00
+
+CALLE 35 entre 30 y 32 $ 15.00
+
+ÁREA MEDIA
+
+VALOR POR M2 $ 10.00
+
+CALLE 20 entre 27 y 29 $ 10.00
+
+CALLE 20 entre 29 y 31 $ 10.00
+
+CALLE 20 entre 31 y 31-A $ 10.00
+
+CALLE 20 entre 31-A y 33 $ 10.00
+
+CALLE 20 entre 33 y 37 $ 10.00
+
+CALLE 22 entre 27 y 29 $ 10.00
+
+CALLE 22 entre 29 y 31 $ 10.00
+
+CALLE 22 entre 31 y 31-A $ 10.00
+
+CALLE 22 entre 31-A y 33 $ 10.00
+
+CALLE 22 entre 33 y 37 $ 10.00
+
+CALLE 22-A entre 31 y 33 $ 10.00
+
+CALLE 24 entre 27 y 29 $ 10.00
+
+CALLE 24 entre 35 y 37 $ 10.00
+
+CALLE 24 entre 37 y 39 $ 10.00
+
+CALLE 26 entre 27 y 29 $ 10.00
+
+CALLE 26 entre 35 y 37 $ 10.00
+
+CALLE 26 entre 37 y 39 $ 10.00
+
+CALLE 28 entre 27 y 29 $ 10.00
+
+CALLE 28 entre 35 y 37 $ 10.00
+
+CALLE 28 entre 37 y 39 $ 10.00
+
+CALLE 30 entre 27 y 29 $ 10.00
+
+CALLE 30 entre 35 y 37 $ 10.00
+
+CALLE 30 entre 37 y 39 $ 10.00
+
+CALLE 32 entre 27 y 29 $ 10.00
+
+CALLE 32 entre 35 y 37 $ 10.00
+
+CALLE 32 entre 37 y 39 $ 10.00
+
+CALLE 34 entre 27 y 29 $ 10.00
+
+CALLE 34 entre 29 y 31 $ 10.00
+
+CALLE 34 entre 31 y 33 $ 10.00
+
+CALLE 34 entre 33 y 35 $ 10.00
+
+CALLE 34 entre 35 y 37 $ 10.00
+
+CALLE 34 entre 37 y 39 $ 10.00
+
+CALLE 36 entre 27 y 29-A $ 10.00
+
+CALLE 36 entre 29-A y 29 $ 10.00
+
+CALLE 36 entre 29 y 31 $ 10.00
+
+CALLE 36 entre 31 y 33 $ 10.00
+
+CALLE 36 entre 33 y 35 $ 10.00
+
+CALLE 36 entre 35 y 37-A $ 10.00
+
+CALLE 36 entre 37-A y 39 $ 10.00
+
+CALLE 27 entre 20 y 22 $ 10.00
+
+CALLE 27 entre 22 y 24 $ 10.00
+
+CALLE 27 entre 24 y 26 $ 10.00
+
+CALLE 27 entre 26 y 28 $ 10.00
+
+CALLE 27 entre 28 y 30 $ 10.00
+
+CALLE 27 entre 30 y 32 $ 10.00
+
+CALLE 27 entre 32 y 34 $ 10.00
+
+CALLE 27 entre 34 y 36 $ 10.00
+
+CALLE 29 entre 20 y 22 $ 10.00
+
+CALLE 29 entre 22 y 24 $ 10.00
+
+CALLE 29 entre 24 y 26 $ 10.00
+
+CALLE 29 entre 26 y 28 $ 10.00
+
+CALLE 29 entre 28 y 30 $ 10.00
+
+CALLE 29 entre 30 y 32 $ 10.00
+
+CALLE 29 entre 32 y 34 $ 10.00
+
+CALLE 29 entre 34 y 36 $ 10.00
+
+CALLE 31 entre 20 y 22 $ 10.00
+
+CALLE 31 entre 22 y 22-A $ 10.00
+
+CALLE 31 entre 22-A y 24 $ 10.00
+
+CALLE 31 entre 32 y 34 $ 10.00
+
+CALLE 31 entre 34 y 36 $ 10.00
+
+CALLE 31-A entre 30, 20 y 22 $ 10.00
+
+CALLE 33 entre 20 y 22 $ 10.00
+
+CALLE 33 entre 22 y 22-A $ 10.00
+
+CALLE 33 entre 22-A y 24 $ 10.00
+
+CALLE 33 entre 32 y 34 $ 10.00
+
+CALLE 33 entre 34 y 36 $ 10.00
+
+CALLE 35 entre 32 y 34 $ 10.00
+
+CALLE 35 entre 34 y 36 $ 10.00
+
+CALLE 37 entre 20 y 22 $ 10.00
+
+CALLE 37 entre 22 y 24 $ 10.00
+
+CALLE 37 entre 24 y 26 $ 10.00
+
+CALLE 37 entre 26 y 28 $ 10.00
+
+CALLE 37 entre 28 y 30 $ 10.00
+
+CALLE 37 entre 30 y 32 $ 10.00
+
+CALLE 37 entre 32 y 34 $ 10.00
+
+CALLE 37 entre 34 y 36 $ 10.00
+
+CALLE 39 entre 24 y 26 $ 10.00
+
+CALLE 39 entre 26 y 28 $ 10.00
+
+CALLE 39 entre 28 y 30 $ 10.00
+
+CALLE 39 entre 30 y 32 $ 10.00
+
+CALLE 39 entre 32 y 34 $ 10.00
+
+CALLE 39 entre 34 y 36 $ 10.00
+
+ÁREA PERIFERIA
+
+VALOR POR M2
+
+RESTO DEL ÁREA (PERIFERIA): $ 8.00
+
+TODAS LAS COMISARIAS: $ 8.00
+
+RÚSTICOS
+
+VALOR POR HA. O M2
+
+BRECHA. $ 0.05 centavos
+
+CAMINO BLANCO. $ 0.06 centavos
+
+CARRETERA. $ 0.08 centavos
+
+VALOR UNITARIO DE CONTRUCCIÓN (SIC) POR M2
+
+TIPO DE
+
+CONSTRUCCIÓN ÁREA CENTRO ÁREA MEDIA PERIFERIA
+
+CONCRETO $ 150.00 $ 125.00 $ 100.00
+
+HIERRO Y ROLLIZOS $ 100.00 $ 80.00 $ 60.00
+
+ZINC, ASBESTO O TEJA $ 80.00 $ 70.00 $ 60.00
+
+CARTON Y PAJA $ 60.00 $ 50.00 $ 40.00
+
+PARA COBRO DEL IMPUESTO PREDIAL
+
+PREDIOS URBANOS
+
+TARIFA FIJA SEGÚN VALOR CATASTRAL
+
+LÍMITE LÍMITE CUOTA FACTOR
+
+INFERIOR SUPERIOR FIJA
+
+ANUAL
+
+$ 1.00 $ 5,000.00 $ 50.00
+
+$ 5,001.00 $ 10,000.00 $ 70.00
+
+$ 10,001.00 $ 20,000.00 $ 80.00
+
+$ 20,001.00 $ 30,000.00 $ 100.00
+
+$ 30,001.00 $ 40,000.00 $ 120.00
+
+$ 40,001.00 $ 50,000.00 $ 150.00
+
+$ 50,001.00 $ 70,000.00 $ 170.00
+
+$ 70,001.00 EN ADELANTE $ 200.00
+
+COMERCIOS $ 200.00
+
+PEQUEÑOS COMERCIOS $ 100.00
+
+PARA COBRO DEL IMPUESTO PREDIAL
+
+PREDIOS RÚSTICOS
+
+TARIFA FIJA POR HA O M2
+
+HECTÁREAS CUOTA FIJA ANUAL FACTOR
+
+1 HA. A 5 HAS. $ 100.00
+
+6 HAS. A 10 HAS. $ 150.00
+
+11 HAS. A 20 HAS. $ 200.00
+
+21 HAS. A 35 HAS. $ 250.00
+
+36 HAS. A 50 HAS. $ 300.00
+
+51 HAS. A 90 HAS. $ 350.00
+
+91 HAS. A 150 HAS. $ 400.00
+
+151 HAS. A 200 HAS. $ 450.00
+
+201 HAS. EN ADELANTE $ 500.00
+
+EMPRESAS $ 300.00
+
+GASOLINERAS $ 500.00
+
+RÚSTICOS
+
+ACCESO POR CARRETERA SE LE APLICA UN 10% SOBRE CUOTA
+
+ASFALTADA FIJA
+
+ACCESO POR CAMINO BLANCO SE LE APLICA UN 5% SOBRE CUOTA
+
+O TERRACERÍA FIJA
+
+ACCESO POR BRECHA
 
 ###### Artículo 47.
 
@@ -1184,59 +1500,67 @@ Son sujetos de estos derechos las personas físicas o morales, que soliciten los
 
 El objeto de estos derechos está constituido por los servicios que presta el Catastro Municipal.
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 101.
 
-La cuota que se pagará por los servicios que presta el Catastro Municipal, causarán derechos de conformidad con la siguiente tarifa:
+La cuota que se pagará por los servicios que presta el Catastro Municipal, causarán derechos de conformidad con las siguientes tarifas:
 
-I.-Emisión de copias fotostáticas simples:
+CERTIFICADO DE NO ADEUDO $50.00
 
-a) Por cada hoja simple tamaño carta, de cédulas, planos, parcelas, formas de manifestación de traslación de dominio o cualquier otra manifestación. $ 20.00
+COPIA CERTIFICADA $50.00
 
-b) Por cada copia simple tamaño oficio de cédulas, planos, parcelas, formas de manifestación de traslado de domino o cualquier otra manifestación. $ 25.00
+COPIA SIMPLE CARTA $20.00
 
-II.- Por expedición de copias fotostáticas certificadas de:
+COPIA SIMPLE OFICIO $25.00
 
-a) Cédulas, planos, parcelas, manifestaciones, tamaño carta. $ 50.00
+CERTIFICADO DE NO PROPIEDAD $100.00
 
-b) Fotostáticas de plano tamaño oficio. $ 60.00
+CERTIFICADO DE SI PROPIEDAD $100.00
 
-c) Fotostáticas de plano, hasta 4 veces tamaño oficio, por cada una. $ 60.00
+CEDULA CATASTRAL $100.00
 
-d) Fotostáticas de planos, mayores de 4 veces del tamaño oficio, por cada una. $ 100.00
+CONSTANCIA DE VALOR CATASTRAL $60.00
 
-III.- Por expedición de oficios de:
+CONSTANCIA DE INSCRIPCIÓN (SI) O (NO) VIGENTE $60.00
 
-a) División (por cada parte) $ 50.00
+HISTORIAL DE PREDIOS $100.00
 
-b) Unión, rectificación de medidas, urbanización y cambio de nomenclatura $ 100.00
+OFICIO DE UNIÓN DE PREDIOS $100.00
 
-c) Cédulas catastrales $ 100.00
+RECTIFICACIÓN DE UNIÓN DE PREDIOS $100.00
 
-d) Constancia de valor catastral, inscripción vigente y no vigente, número oficial de predio, información de bienes inmuebles $ 60.00
+OFICIO DE DIVISIÓN:
 
-e) Certificado de No propiedad o Única propiedad $ 100.00
+EN 1 PARTE $50.00
 
-f) Rectificación de Unión de predios $ 100.00
+EN 2 PARTES $100.00
 
-IV.- Por elaboración de planos:
+OFICIO DE RECTIFICACIÓN DE MEDIDAS $100.00
+
+NÚMERO OFICIAL DE PREDIO $100.00
+
+INFORMACIÓN DE BIENES INMUEBLES $60.00
+
+DILIGENCIA DE VERIFICACIÓN $250.00
+
+OFICIO DE URBANIZACIÓN DE PREDIO $100.00
+
+OFICIO DE CAMBIO DE NOMENCLATURA $100.00
+
+I.- Por elaboración de planos:
 
 a) Catastrales a escala $ 150.00
 
 b) Planos topográficos hasta 100 hectáreas. $ 258.00
 
-V.- Por revalidación de oficios de división, unión y rectificación de medidas. $ 100.00
-
-VI.- Por reproducción de documentos microfilmados:
+II.- Por reproducción de documentos microfilmados:
 
 a) Tamaño carta. $ 41.00
 
 b) Tamaño oficio. $ 52.00
 
-VII.- Por diligencias de verificación de medidas físicas y de colindancias de predios. $ 25.00
-
-VIII.- Cuando la diligencia incluya trabajos de topografía, adicionalmente a la tarifa de la fracción anterior, se causarán en los montos siguientes:
+III.- Cuando la diligencia incluya trabajos de topografía, adicionalmente a la tarifa de la fracción anterior, se causarán en los montos siguientes:
 
 De 01-00-00 a 10-00-00 $ 565.00
 
@@ -1250,13 +1574,13 @@ De 40-00-01 a 50-00-00 $ 3,090.00
 
 De 50-00-01 en adelante $ 515.00 por hectárea
 
-IX.- Por actualizaciones de predios urbanos se causarán y pagarán los siguientes derechos:
+IV.- Por actualizaciones de predios urbanos se causarán y pagarán los siguientes derechos:
 
 De un valor de $ 1,000.00 a $ 4,000.00 $ 20.00
 
 De un valor de $ 4,001.00 a $ 10,000.00 $ 125.00
 
-De un valor de $ 10,001.00 a $ 30,000.00 $ 150.00.
+De un valor de $ 10,001.00 a $ 30,000.00 $ 150.00
 
 De un valor de $ 30,001.00 a $ 50,000.00 $ 180.00
 
@@ -1400,37 +1724,39 @@ Son objeto de este derecho los servicios que en el panteón sean prestados por e
 
 Son sujetos de este derecho las personas físicas o morales que, soliciten y reciban, uno o varios de los servicios que son prestados en el panteón por el Municipio.
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 119.
 
 Los derechos a que se refiere este capítulo se causarán y pagarán de conformidad con la siguiente tarifa:
 
-I.- Por renta de bóvedas del Ayuntamiento, por un período de 3 años: $3000.00
+I.- Por la renta de una fosa en el cementerio (10 años) $ 5,000.00
 
-II.- Por empadronamiento $65.00
+II.- Por empadronamiento $ 65.00
 
-III.- Por uso de fosa común de 2 a 3 años $ 60.00
+III.- Por uso de fosa común $ 100.00
 
-IV.- Cambio de concesionario $155.00
+IV.- Cambio de concesionario $ 1,500.00
 
-V.- Por construcción y remodelación $ 120.00 por cada permiso
+V.- Por construcción y remodelación (Por cada permiso)$ 120.00
 
-VI.- Por inhumación $200.00
+VI.- Por inhumación $ 200.00
 
-VII.- Por exhumación $200.00
+VII.- Por exhumación $ 200.00
 
-VIII.- Por depósito de cenizas en el panteón: $120.00
+VIII.- Por depósito de cenizas en el panteón: $ 150.00
 
 IX.- Por servicios en las comisarías se pagará:
 
-a) Por inhumación $165.00
+a) Por inhumación $ 165.00
 
 b) Por exhumación $ 165.00
 
 c) Por uso de la fosa común $ 60.00
 
-X.- Permiso para construcción de osario $120.00.
+X.- Permiso para construcción de osario $ 150.00
+
+XI.- Por permiso adicional de un año $ 300.00
 
 ### CAPÍTULO IX. Derechos por Servicios de Vigilancia
 
@@ -1961,3 +2287,11 @@ D.O. 29 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 22/2018 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE DZIDZANTÚN, SACALUM, TEMAX Y UMÁN".]
 
 Artículo único.- Este Decreto entrará en vigor el día primero de enero del año dos mil diecinueve, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 152/2019 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CHICXULUB PUEBLO, CHOCHOLÁ, DZIDZANTÚN, MOTUL, SACALUM, TEKAX, TEMAX, TIZIMÍN, TZUCACAB Y UMÁN".]
+
+Artículo primero.- Este Decreto entrará en vigor el día primero de enero del año 2020, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo.- En cuanto a la Ley de Hacienda para el Municipio de Motul, Yucatán, en el ejercicio fiscal 2020, el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder de un 10 % del que le haya correspondido durante el ejercicio fiscal 2019 para los predios cuyo valor catastral sea menor o igual a $ 350,000.00 y para los predios cuyo valor catastral sea mayor a $350,000.00, el impuesto predial no podrá exceder de un 15 % del que le haya correspondido durante el ejercicio fiscal 2019. El comparativo se hará con base en el impuesto principal, sin tomar en consideración bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
