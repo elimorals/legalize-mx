@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transito-del-estado-de-sonora-8409"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-27"
-last_updated: "2017-12-26"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "SON"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ENERO DE 2020 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE TRÁNSITO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 27 de febrero de 1984.
 
@@ -277,7 +279,9 @@ En caso de duda sobre si un camino o calle deba ser o no considerado como vía p
 
 Las Leyes Fiscales respectivas, determinarán las características, vigencia y cuantía de los derechos por concepto de placas de circulación, expedición de licencias, calcomanías por revisados, permisos, estacionamientos exclusivos, estacionamientos públicos y estacionómetros.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+En el caso de las licencias de conducir, los ordenamientos fiscales estatales correspondientes deberán prever la contratación de una póliza de seguro de responsabilidad civil, a favor del titular de la licencia.
 
 ## TITULO SEGUNDO. DE LAS REGLAS DE TRANSITO
 
@@ -297,193 +301,41 @@ IV.- Licencia de motociclista.
 
 V.- Licencia provisional, expedida durante el trámite de licencias definitivas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+VI.- Licencia provisional de chofer.
 
-VI.- Permiso de Conducir para menor de edad.
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+Será facultad propia del Ejecutivo Estatal la expedición de licencias y permisos para la conducción de vehículos de propulsión automotriz.
 
 ###### ARTICULO 19.
 
-Para obtener la licencia de automovilista a que se refiere la Fracción I del Artículo anterior, se requiere:
-
-I.- Ser mayor de 18 años.
-
-II.- Llenar la solicitud correspondiente en las formas oficiales impresas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-III.- Tomar curso teórico-vial, impartido por las autoridades de tránsito competentes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-IV.- Certificado médico, con antigüedad no mayor a 3 meses, de su aptitud física y mental para conducir, así como de que no es afecto al uso consuetudinario de bebidas embriagantes o de estupefacientes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-V.- Aprobar las evaluaciones teóricas y prácticas establecidas por el personal autorizado del departamento de tránsito.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-VI. (DEROGADA, B.O. 14 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-Las autoridades encargadas de expedir dichas licencias podrán solicitar, nuevamente, cualquiera de los requisitos anteriores para la renovación, según las características del solicitante.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 20.
 
-Para obtener la licencia de chofer, a que se refiere la Fracción II del Artículo 18 de esta Ley, además de reunir los requisitos que se establecen en el Artículo anterior, el solicitante deberá acreditar haber recibido capacitación y adiestramiento en el manejo de vehículos.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 21.
 
-Para obtener licencia de operador de servicio público de transporte, deberá:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
-
-I.- Tener como mínimo 18 años cumplidos a la fecha de la solicitud.
-
-II.- Llenar la solicitud correspondiente, en la forma oficial impresa.
-
-III.- Aprobar el examen sobre conducción de vehículos de servicio público y el examen escrito de conocimiento de esta Ley ante la Autoridad de Tránsito.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-IV.- Aprobar las evaluaciones teóricas y prácticas establecidas por el personal autorizado del departamento de tránsito.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
-
-V.- Presentar Carta de no antecedentes penales con una antigüedad no mayor a seis meses a la fecha de realización del trámite.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-VI.- Demostrar haber recibido capacitación y adiestramiento en el manejo de vehículos de propulsión automotriz.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-VII.- Exhibir certificación médica, ya sea de la Dirección de Medicina Preventiva de la Secretaría de Comunicaciones y Transporte o de cualquier otra Institución Médica Oficial, que acredite la aptitud física y mental, para conducir vehículos del servicio público, así como de que no es afecto al uso consuetudinario de bebidas embriagantes o de estupefacientes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
-
-Las autoridades responsables de expedir esta Licencia podrán solicitar, cualquiera de los requisitos establecidos en la renovación de la misma.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 22.
 
-Para obtener licencia de motociclista se requiere:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
-
-I.- Tener como mínimo 18 años cumplidos a la fecha de la solicitud. Podrá autorizarse permiso a un menor de esta edad pero mayor de 16 años, cuando justifique que únicamente utilizará la motocicleta para trasladarse a la escuela, taller o desempeño de su trabajo que haga necesario su uso; además, deberá exhibir carta autorización y responsiva de sus padres o tutor.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-II.- Demostrar que no es afecto al uso consuetudinario de bebidas embriagantes o de estupefacientes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-III.- Tomar curso teórico-vial impartido por las autoridades de tránsito competentes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-IV.- Aprobar las evaluaciones teóricas y prácticas establecidas por el personal autorizado del departamento de tránsito en el que demuestre su pericia en el manejo de estos vehículos y que no tiene impedimento físico o mental;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
-
-V.- Llenar solicitud correspondiente, en las formas oficiales impresas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
-
-Las autoridades responsables de expedir esta Licencia podrán solicitar, cualquiera de los requisitos establecidos en la renovación de la misma.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 23.
 
-Las personas con 16 ó 17 años cumplidos a la fecha de la solicitud, podrán solicitar a la Secretaría de Hacienda, por conducto de sus agencias fiscales, permiso para manejar automóviles o permiso de motociclista de servicio particular, el cual tendrá vigencia hasta que el interesado cumpla su mayoría de edad, momento a partir del cual podrá tramitar la licencia de manejo respectiva.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-El uso de dichos permisos estará limitado en el horario de uso de las 5:00 horas a las 00:00 horas, a menos que:
-
-a) Se demuestre con carta de trabajo y vigencia del Instituto Mexicano del Seguro Social o de cualquier otra institución de seguridad social que por cuestiones de trabajo es necesaria su circulación.
-
-b) Se demuestre que la circulación es necesaria por motivos escolares.
-
-c) Se encuentre atendiendo una emergencia médica propia, de algún pasajero o familiar.
-
-d) Vayan acompañados por persona mayor de 24 años de edad que tenga licencia de automovilista o chofer vigente.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 24.
 
-Para obtener el permiso a que se refiere el Artículo anterior, deberán satisfacerse los siguientes requisitos:
-
-I.- Presentar solicitud en las formas impresas, firmadas por uno de los padres o tutor, quien se hará solidario de la responsabilidad civil en que incurra el solicitante.
-
-II.- Cubrir los derechos correspondientes.
-
-III.- Aprobar el examen que determine la autoridad de tránsito. En caso de no aprobarlo, podrá con la misma solicitud y pago presentarlo en dos ocasiones, dentro de un plazo máximo de seis meses.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-IV.-Tomar curso teórico-vial impartido por las autoridades de tránsito competentes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-V.- Certificado médico, con antigüedad no mayor a 3 meses que anexe los resultados de las pruebas correspondientes en el que acredite su aptitud física y mental para conducir, así como de que no es afecto al uso consuetudinario de bebidas embriagantes o de estupefacientes.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 25.
 
-El permiso podrá ser renovado y expedido nuevamente por períodos iguales al que se expidió originalmente, siempre y cuando compruebe no haber incurrido en alguna infracción por negligencia o imprudencia, hasta en tanto el interesado esté en condiciones de que se le expida la licencia respectiva.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
-
-Las autoridades responsables de expedir este permiso podrán solicitar, cualquiera de los requisitos establecidos en la renovación de la misma.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 26.
 
@@ -493,61 +345,19 @@ Tampoco se permitirá que menores de 18 años, manejen juegos o diversiones mec�
 
 ###### ARTICULO 27.
 
-Toda persona que haya obtenido licencia o permiso de manejo podrá hacer uso de él durante su vigencia, siempre que conserve las cualidades físicas y mentales necesarias para conducir vehículos de motor.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 28.
 
-A toda persona que padezca una incapacidad física para la conducción normal de vehículos de motor, se le podrá expedir licencia, cunado (sic) cuente con anteojos, prótesis u otros aparatos y el vehículo que pretende conducir esté provisto de mecanismos y otros medios auxiliares que previa demostración, le capaciten para conducir y satisfaga además los requisitos señalados por los Artículos 19, 20 y 22 de esta Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 29.
 
-A ninguna persona se le expedirá, reexpedirá, repondrá o renovará una licencia cuando se encuentre en los siguientes casos:
-
-I.- Cuando el titular de una licencia expedida por la Tesorería General del Estado u otra entidad federativa, no haya efectuado el pago de alguna multa por infracción a esta Ley, o cuando subsistan las condiciones que originaron la suspensión o cancelación de la licencia.
-
-II.- Cuando se compruebe que el solicitante tiene el hábito a los estupefacientes o al uso de bebidas embriagantes.
-
-III.- Cuando se compruebe que el solicitante ha sido previamente calificado de cualquier incapacidad mental o física que le impida conducir vehículos de motor y no demostrare mediante certificado médico haberse restablecido.
-
-IV.- Cuando a juicio debidamente fundado de la autoridad correspondiente, represente un peligro para la seguridad o bienestar general, el que esa persona conduzca un vehículo de motor en la vía pública.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 30.
 
-Las licencias a que se refiere el Artículo 18 de esta Ley, serán expedidas por la Tesorería General del Estado, en las formas oficiales impresas para el efecto y tendrán la vigencia que en las mismas se establezcan y contendrán:
-
-I.- Nombre completo del conductor.
-
-II.- Edad en años cumplidos.
-
-III.- Domicilio.
-
-IV.- Fotografía.
-
-V.- Autoridad emisora.
-
-VI.- Fecha de expedición.
-
-VII.- Término de vigencia.
-
-VIII.- Número que corresponda a la licencia.
-
-IX.- Firma del funcionario correspondiente y sello de la dependencia que expida la licencia.
-
-X.- Tipo de licencia.
-
-> <small>(ADICIONADA, B.O. 12 DE NOVIEMBRE DE 2007)</small>
-
-XI.- Especificación de ser donador voluntario o no.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-XII.- Especificar si utiliza anteojos, prótesis u otros aparatos que le capaciten para conducir.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -569,13 +379,9 @@ Para efectos del párrafo anterior, la persona que autorice a otro a que conduzc
 
 Las licencias para conducir expedidas por las autoridades de otros Estados o de otros Países, tendrá la misma validez que las expedidas conforme a esta Ley para conducir vehículos, siempre y cuando aparezca que se encuentran en vigor y que sus tenedores no establezcan domicilio en el Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
-
 ###### ARTICULO 33.
 
-Los extranjeros que soliciten la expedición de una licencia de las señaladas en el artículo 18, además de llenar los requisitos exigidos según el caso, deberán comprobar satisfactoriamente su calidad migratoria.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -583,69 +389,13 @@ Los extranjeros que soliciten la expedición de una licencia de las señaladas e
 
 ### CAPITULO II. DE LA SUSPENSION Y CANCELACION DE LICENCIAS Y PERMISOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
 ###### ARTICULO 34.
 
-Las licencias y permisos de conducir que hubiere expedido la Secretaría de Hacienda, conforme a lo establecido en esta Ley, podrán recogerse, suspenderse o cancelarse en los siguientes casos:
-
-I.- Procede la suspensión:
-
-a) Por Resolución Judicial que cause ejecutoria y así lo ordene.
-
-II.- Procede la cancelación:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-a).- Por haber sido infraccionado, el titular de la licencia, en más de tres ocasiones en el período de un año, por conducir vehículos con exceso de velocidad.
-
-b).- Por haber sido infraccionado por conducir vehículos en estado de ebriedad o bajo la influencia de estupefacientes, aun cuando no constituya delito.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-c).- Por infracción a lo dispuesto por el artículo 81 de esta ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-d).- Por transportar bebidas con contenido alcohólico dentro del vehículo, cuando el conductor sea un menor de edad y no se encuentre acompañado de un adulto.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-e).- Por participar en competencias de aceleración y velocidad en la vía pública.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-f).- Por resolución judicial que cause ejecutoria y así lo ordene.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-g).- Por haber sido infraccionado, en más de tres ocasiones, por faltas consideradas como graves, en el período de un año, al encargado de conducir una unidad destinada al servicio público de transporte.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-h).- Por reincidir en conducción temeraria.
-
-III.- Procede recoger la licencia de operador de servicio público de transporte, por las causas y en los términos que señala la Ley de Transporte del Estado de Sonora.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 35.
 
-Al recibirse en la Tesorería General del Estado, el oficio que comunica la Resolución Judicial que ordena la suspensión de la licencia, aquella la boletinará a sus dependencias receptoras y a las autoridades municipales de tránsito, para que procedan de inmediato a ejecutar la Resolución respectiva.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -671,13 +421,9 @@ En caso de que no se entregue la licencia, se hará del conocimiento del Ministe
 
 Cuando se recoja una licencia en los términos del Artículo 34, Fracción III de esta Ley, deberá remitirse inmediatamente al Departamento de Tránsito respectivo para que le sea entregada al conductor una vez que haya liquidado la multa y se registre la infracción para su control y efectos estadísticos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
 ###### ARTICULO 39.
 
-Salvo el término señalado en la resolución judicial respectiva, la Secretaría de Hacienda podrá expedir nueva licencia a las personas a quienes se les haya cancelado conforme a esta Ley, siempre y cuando haya transcurrido, cuando menos, seis meses de la cancelación y hayan desaparecido las condiciones que originaron la misma. Al efecto, recabarán la información de la autoridad municipal de tránsito del domicilio del interesado.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 ### CAPITULO III. DE LOS VEHICULOS
 
@@ -851,21 +597,27 @@ e).- Otros de propulsión sin motor.
 
 Para circular en el Estado de Sonora, todo vehículo debe reunir los siguientes requisitos:
 
-I.- Portar placas y tarjeta de circulación.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+I.- Portar los elementos de identificación vehicular a que hace referencia la Ley de Control Vehicular para el Estado de Sonora.
 
-a).- De las expedidas por la Tesorería General del Estado, cuya vigencia deberá revalidarse anualmente.
+a).- De los expedidos por la Secretaría de Hacienda del Estado, tratándose de vehículos de propulsión mecánica.
 
-La Tesorería General del Estado cuando las circunstancias lo justifiquen, podrá expedir a los propietarios de los vehículos, permisos por tiempo determinado para transitar sin placas o sin tarjeta de circulación y calcomanía de revalidación.
+La Secretaría de Hacienda del Estado cuando las circunstancias lo justifiquen, podrá expedir a los propietarios de los vehículos, permisos por tiempo determinado para transitar sin los elementos de identificación vehicular.
 
-b) De las expedidas por otros Estados de la República, siempre y cuando se encuentren vigentes.
+b).- De las expedidas por otros Estados de la República, siempre y cuando se encuentren vigentes.
+
+c).- De las expedidas anualmente por los ayuntamientos de los municipios del Estado, a través de sus respectivas Tesorerías municipales, en el caso de vehículos de propulsión sin motor.
+
+Las tesorerías municipales estarán facultadas para expedir a los propietarios de los vehículos a que se refiere el párrafo anterior, justificadamente, permisos por tiempo determinado para transitar sin los elementos de identificación vehicular.
 
 > <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
 II.- Ostentar adheridas en el cristal, las calcomanías correspondientes a la revalidación anual de placas y al revisado del vehículo.
 
-III.- Los vehículos de emergencia y oficiales, aún cuando ostenten los signos que los identifiquen plenamente como tales, están obligados a transitar al amparo de placas.
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+III.- Los vehículos de emergencia y oficiales, aun cuando ostenten los signos que los identifiquen plenamente como tales, están obligados a transitar al amparo de portar los elementos de identificación vehicular.
 
 IV.- Los señalados en el Artículo 52 de esta Ley.
 
@@ -873,43 +625,27 @@ IV.- Los señalados en el Artículo 52 de esta Ley.
 
 V.- Haber aprobado, en el caso de los vehículos de propulsión mecánica, el examen de verificación de emisiones contaminantes, en los términos de la ley de la materia, debiendo portar en lugar visible la calcomanía que por este efecto se expida.
 
-> <small>(ADICIONADO, B.O. 6 DE JULIO 1995)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-Los vehículos destinados al servicio público o privado de transporte para circular en vías de jurisdicción estatal, deberán cumplir con las condiciones de peso, dimensiones, capacidad y otras especificaciones en los términos que establezca el Reglamento que al efecto expedirá el Gobernador del Estado.
+Los vehículos destinados al servicio público o privado de transporte para circular en vías de jurisdicción estatal, deberán cumplir con las condiciones de peso, dimensiones, capacidad y otras especificaciones en los términos que establezca el Reglamento que al efecto expedirá el Ejecutivo Estatal.
 
-> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 42.
 
-La obtención de placas y tarjetas de circulación en los casos de vehículos nuevos o usados, deberá realizarse dentro de los quince días hábiles siguientes al de la fecha de adquisición o del pedimento de importación definitivo a la zona fronteriza o al interior del País o de la baja de placas.
+La obtención (sic) los elementos de identificación vehicular en los casos de vehículos nuevos o usados, deberá realizarse dentro de los quince días hábiles siguientes al de la fecha de adquisición o del pedimento de importación definitivo a la zona fronteriza o al interior del País o de la baja de placas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Tratándose de vehículos provenientes de otras entidades federativas cuyos propietarios establezcan su domicilio en el Estado de Sonora, tienen de plazo para adquirirlas hasta el 31 de enero del año siguiente al de dicho cambio.
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
-
-Las placas que se expidan para la circulación de vehículos tendrán el carácter de permanentes por lo que sólo se efectuará la reposición de placas en caso de pérdida, robo o daño, en este último caso, cuando el deterioro sea tal que dificulte la identificación de éstas.
-
-El canje de placas se efectuará en el transcurso de los tres primeros meses del año de calendario que corresponda y tendrán una vigencia de tres años, contados a partir del último programa de canje que implemente el Gobierno.
-
-Las placas de circulación de los vehículos de propulsión mecánica deberán revalidarse anualmente, durante los tres primeros meses del año de calendario.
-
-Para efecto de los trámites a que se hace referencia en el presente artículo, el interesado deberá contar con licencia de conducir vigente del Estado y demás requisitos establecidos en las disposiciones administrativas de observancia general que expida el Ejecutivo Estatal, por conducto de la Secretaría de Hacienda.
+Las placas que se expidan para la circulación de vehículos tendrán el carácter de permanentes y deberán revalidarse anualmente, durante los tres primeros meses del año de calendario.
 
 ###### ARTICULO 43.
 
-Cuando se trate de placas para vehículos de servicio público de transporte, además de observar los requisitos establecidos en el Artículo anterior, deberá acreditarse, en su caso:
-
-I.- Que el vehículo reúne los requisitos de comodidad, seguridad, eficiencia y vida útil para la prestación del servicio público, mediante certificación expedida por la Dirección de Transporte del Estado.
-
-II.- Certificación de no adeudo de impuestos y derechos federales, estatales o municipales.
-
-III.- Que la unidad reúne los requisitos mínimos de limpieza e higiene, mediante certificación expedida por la Secretaría de Salud Pública del Estado.
-
-Asimismo el concesionario de servicio público de transporte deberá acreditar la propiedad y tenencia legal del vehículo y contar en su caso, con el seguro del viajero vigente, en los términos de Ley.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 44.
 
-Los vehículos destinados al servicio público de transporte deberán satisfacer además las exigencias y requisitos que se señalan en la Ley de Transportes del Estado.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 45.
 
@@ -919,15 +655,13 @@ Los vehículos propiedad particular de los funcionarios y empleados públicos, n
 
 ###### ARTICULO 46.
 
-Los vehículos destinados exclusivamente a su venta al público y en tanto son vendidos, para poder circular en la vía pública, deberán portar placas de demostración, que para este efecto proporcionará la Tesorería General del Estado. Para obtener las placas de demostración se estará a lo que dispongan al respecto las Leyes Fiscales correspondientes.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 47.
 
-Las placas y tarjetas de circulación son intransferibles. Las placas permanecerán en el vehículo hasta en tanto éste se enajene, caso en el cual, deberán entregarse en la Agencia Fiscal respectiva para su baja, previo el pago de derechos correspondientes.
+Las (sic) elementos de identificación vehicular son intransferibles. Las placas de circulación permanecerán en el vehículo hasta en tanto éste se enajene, caso en el cual, deberán entregarse en la Agencia Fiscal respectiva para su baja, previo el pago de derechos correspondientes.
 
 ###### ARTICULO 48.
 
@@ -943,15 +677,17 @@ Al ser dado de baja el vehículo, deberá acreditarse no tener adeudo por concep
 
 Con el aviso de baja, deberán liquidarse todos los impuestos y derechos vehiculares que estuvieren pendientes de pago.
 
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 49.
 
-En caso de extravío de una o ambas placas, deberá darse aviso de este hecho al Departamento de Tránsito Municipal, proporcionando todos los datos que se consideren convenientes y que sirvan para acreditar el extravío o para formalizar la averiguación penal que pudiese resultar.
+En caso de extravío de una o ambas placas de circulación, deberá darse aviso de este hecho al Departamento de Tránsito Municipal, proporcionando todos los datos que se consideren convenientes y que sirvan para acreditar el extravío o para formalizar la averiguación penal que pudiese resultar.
 
-La copia del aviso, sellada de recibido por el Departamento de Tránsito Municipal, servirá de resguardo al interesado hasta por un término de treinta días, transcurrido el cual deberá dar de baja el número de placas y recabar un nuevo juego, previo el pago de los derechos de expedición.
+La copia del aviso, sellada de recibido por el Departamento de Tránsito Municipal, servirá de resguardo al interesado hasta por un término de quince días, transcurrido el cual deberá dar de baja el número de placas de circulación y recabar un nuevo juego, previo el pago de los derechos de expedición.
 
 ###### ARTICULO 50.
 
-Las tarjetas de circulación, contendrán todos los datos relativos al propietario, vehículo y características y la expedición estará a cargo de las autoridades fiscales estatales.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 51.
 
@@ -2471,7 +2207,7 @@ SP-30 La señal ZONA DE DERRUMBES se utilizará para indicar a los conductores d
 
 SP-31 La señal OBRAS EN EL CAMINO se utilizará para marcar un tramo ocupado temporalmente por trabajadores, ó equipo dedicado a labores de conservación ó reconstrucción, ó por instalaciones que requieren invasión ó cruces en la superficie de rodamiento.
 
-SP-32 La señal PEATONES se utilizará para advertir a los conductores de vehículos la proximidad de lugares frecuentados por peatones, ó bien de un cruce especialmente destinados a ellos.
+SP-32 La señal PEATONES se utilizará para advertir a los conductores de vehículos la proximidad de lugares frecuentados por peatones, ó bien de un cruce especialmente destinado a ellos.
 
 SP-33 La señal ESCUELA se utilizará para indicar la proximidad de un edificio escolar ó lugares cercanos de cruce habitual de escolares.
 
@@ -2509,7 +2245,7 @@ En todos los casos, la señal se colocará sobre el camino ó calle de menor vol
 
 SR-7 La señal CEDA EL PASO implica que el conductor detenga ó aminore la velocidad de su vehículo, cuando sea necesario ceder el paso al tránsito que se va a cruzar ó a incorporar.
 
-SR-8 La señal ADUANA se utilizará para indicar que todos los vehículos deberán detenerse en el lugar que se requiera, para la revisión aduanal. En la parte inferior de la señal llevará la palabra ADUANA.
+SR-8 La señal ADUANA se utilizará para indicar que todos los vehículos deberán detenerse en el lugar que se requiera, para revisión aduanal. En la parte inferior de la señal llevará la palabra ADUANA.
 
 SR-9 La señal VELOCIDAD RESTRINGIDA se utilizará para indicar la limitación de velocidad que se imponga a una arteria ó tramo de camino. En la parte inferior se colocará la palabra MAXIMA, MINIMA, FIJA ó SALIDA, según sea el caso.
 
@@ -3578,3 +3314,19 @@ B.O. 26 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 91, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, DE LA LEY DE HACIENDA DEL ESTADO, DE LA LEY DE TRÁNSITO DEL ESTADO DE SONORA, DE LA LEY DE BIENES Y CONCESIONES, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, DE LA LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE SONORA Y DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 01 de enero de 2020, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para que la Secretaría de Hacienda del Estado de Sonora, esté en posibilidades de dar cabal cumplimiento a lo dispuesto en los artículos 17, párrafo segundo de la Ley de Tránsito del Estado de Sonora y 316, párrafos tercero, cuarto y quinto de la Ley de Hacienda del Estado, deberá realizar el proceso de contratación sujetándose a lo previsto en el artículo 25 de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal. Debiendo cubrir el pago de la póliza de seguro de responsabilidad civil en el mes de enero del 2020, para que los ciudadanos obtengan el beneficio planteado en los artículos señalados de las leyes de Tránsito del Estado de Sonora y de Hacienda del Estado, a partir del primer minuto del primer día de dicho año.
