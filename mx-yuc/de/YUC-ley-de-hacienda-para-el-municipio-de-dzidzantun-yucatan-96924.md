@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-dzidzantun-yucatan-96924"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-27"
-last_updated: "2018-12-29"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE DZIDZANTÚN, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 27 de diciembre de 2013.
 
@@ -2567,141 +2567,97 @@ Son sujetos de estos derechos las personas físicas o morales que soliciten los 
 
 El objeto de estos derechos está constituido por los servicios que presta el Catastro Municipal.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 94.
 
-La cuota que se pagará por los servicios que presta el Catastro Municipal, causarán derechos de conformidad con la siguiente tarifa.
+La cuota que se pagará por los servicios que presta el catastro Municipal, causarán derechos de conformidad con la siguiente tarifa:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+I.- Emisión de copias fotostáticas simples.
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+a) Por cada hoja simple tamaño carta, de cédulas, .3 UMAS
 
-I.- Emisión de copias fotostáticas simples. UMA
+planos, parcelas, formas de manifestación de
 
-a) Por cada hoja simple tamaño carta, de 0.50
+traslación de dominio o cualquier otra manifestación
 
-cédulas, planos, parcelas, formas de
+b) Por cada copia simple tamaño oficio .3 UMAS
 
-manifestación de traslación de dominio
+II. Por expedición de copias fotostáticas certificados de:
 
-o cualquier otra manifestación
+a) Cédulas, planos, parcelas, manifestaciones, tamaño carta .53 UMAS
 
-b) Por cada copia simple tamaño oficio 0.50
+b) Fotostáticas de plano tamaño oficio, por cada una .53 UMAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+c) Fotostáticas de plano hasta 4 veces tamaño oficio, 2 UMAS
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+por cada una
 
-II.- Por expedición de copias fotostáticas
+d) Fotostáticas de planos mayores de 4 veces de 2 UMAS
 
-certificadas de:
+tamaño oficio por cada una
 
-a) Cédulas, planos, parcelas, manifestaciones,
+III. Por expedición de oficios de: 2 UMAS
 
-tamaño carta 2.00
+a) División (de cada parte) 2 UMAS
 
-b) Fotostáticas de plano tamaño oficio,
+b) Unión, rectificación de medidas, urbanización 2 UMAS
 
-por cada una 0.50
+y cambio de nomenclatura
 
-c) Fotostáticas de plano hasta 4 veces
+c) Cédulas catastrales 2 UMAS
 
-tamaño oficio, por cada una 4.00
+d) Constancias de no propiedad, única propiedad, 3 UMAS
 
-d) Fotostáticas de planos mayores de 4 veces
+valor catastral, número oficial de predio, certificado
 
-de tamaño oficio por cada una 5.00
+de inscripción vigente, información de bienes inmuebles
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+e) Certificado de inscripción vigente, constancia 2 UMAS
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+de valor catastral
 
-III.- Por expedición de oficios de:
+IV. Por elaboración de planos:
 
-a) División(por cada parte) 1.00
+a) Catastrales a escala 3 UMAS
 
-b) Unión, rectificación de medidas, urbanización
+b) Planos topográficos hasta 100 has 5 UMAS
 
-y cambio de nomenclatura 3.00
+V.- Por revalidación de oficios de división, unión 2 UMAS
 
-c) Cédulas catastrales 2.00
-
-d) Constancias de no propiedad, única propiedad,
-
-valor catastral, número oficial de predio,
-
-certificado de inscripción vigente, información
-
-de bienes inmuebles 2.00
-
-e) Certificado de inscripción vigente, constancia
-
-de valor catastral 2.00
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
-
-IV.- Por elaboración de planos:
-
-a) Catastrales a escala 4.00
-
-b) Impresión de Planos topográficos hasta 300 has 15.00
-
-c) Planos topográficos a tamaño carta u oficio. 5.00
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
-
-V.- Por revalidación de oficios de división,
-
-unión y rectificación de Medidas 2.00
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+y rectificación de medidas
 
 VI.- Cuando la diligencia incluya trabajos de topografía, adicionalmente a la tarifa de la fracción anterior, se causarán en los montos siguientes:
 
-De 01-00-00 a 5-00-00 60 UMA
+a) De 01-00-00 a 10-00-00 8 UMAS
 
-De 05-00-01 a 10-00-00 120 UMA
+b) De 10-00-01 a 20-00-00 15 UMAS
 
-De 10-00-01 a 20-00-00 135 UMA
+c) De 20-00-01 a 30-00-00 17 UMAS
 
-De 20-00-01 a 30-00-00 150 UMA
+d) De 30-00-01 a 40-00-00 32 UMAS
 
-De 30-00-01 a 40-00-00 165 UMA
+e) De 40-00-01 a 50-00-00 40 UMAS
 
-De 40-00-01 a 50-00-00 180 UMA
+f) De 50-00-01 en adelante 8 UMAS
 
-De 50-00-01 a 60-00-00 195 UMA
+por
 
-De 60-00-01 a 70-00-00 210 UMA
+hectárea
 
-De 70-00-01 a 80-00-00 225 UMA
+VII. Por actualizaciones de predios urbanos se causarán y para los siguientes derechos:
 
-De 80-00-01 a 90-00-00 240 UMA
+a) De un valor de $1,000.00 a $ 4,000.00 2 UMAS
 
-De 90-00-01 a 100-00-00 255 UMA
+b) De un valor de $4,001.00 a $30,000.00 2.5 UMAS
 
-De 100-00-01 a 150-00-00 270 UMA
+c) De un valor de $10,001.00 a $30,000.00 3 UMAS
 
-De 150-00-01 a 200-00-00 285 UMA
+d) De un valor de $30,001.00 a $50,000.00 3.5 UMAS
 
-De 200-00-01 a 250-00-00 300 UMA
+e) De un valor de $50,001.00 a $80,000.00 4 UMAS
 
-De 250-00-01 a 300-00-00 315 UMA
-
-De 300-00-01 EN ADELANTE 330 UMA
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-VII. (DEROGADA, D.O. 28 DE DICIEMBRE DE 2016)
+f) De un valor de $80,001.00 en adelante 5 UMAS
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -2731,13 +2687,15 @@ I.- Hasta 160,000 m2 $ 0.050 por m2
 
 II.- Más de 160,000 m2 Por metros excedentes $ 0.023 por m2
 
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 97.
 
 Por la revisión de la documentación de construcción en régimen de propiedad en condominio, se causarán derechos de acuerdo a su tipo:
 
-I.- Tipo comercial $ 40.00 por departamento
+I.- Tipo comercial 1 UMA
 
-II.- Tipo habitacional $ 30.00 por departamento
+II.- Tipo habitacional .5 UMA
 
 ###### Artículo 98.
 
@@ -4456,3 +4414,11 @@ D.O. 29 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 22/2018 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE DZIDZANTÚN, SACALUM, TEMAX Y UMÁN”.]
 
 Artículo único.- Este Decreto entrará en vigor el día primero de enero del año dos mil diecinueve, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 152/2019 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CHICXULUB PUEBLO, CHOCHOLÁ, DZIDZANTÚN, MOTUL, SACALUM, TEKAX, TEMAX, TIZIMÍN, TZUCACAB Y UMÁN”.]
+
+Artículo primero.- Este Decreto entrará en vigor el día primero de enero del año 2020, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo.- En cuanto a la Ley de Hacienda para el Municipio de Motul, Yucatán, en el ejercicio fiscal 2020, el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder de un 10 % del que le haya correspondido durante el ejercicio fiscal 2019 para los predios cuyo valor catastral sea menor o igual a $ 350,000.00 y para los predios cuyo valor catastral sea mayor a $350,000.00, el impuesto predial no podrá exceder de un 15 % del que le haya correspondido durante el ejercicio fiscal 2019. El comparativo se hará con base en el impuesto principal, sin tomar en consideración bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
