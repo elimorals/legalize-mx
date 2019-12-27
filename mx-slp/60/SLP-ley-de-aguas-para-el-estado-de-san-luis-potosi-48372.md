@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2019-07-29"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -2377,6 +2377,10 @@ c) Las obras en construcción mayores de 2,500 metros cuadrados, así como en te
 
 d) Los establecimientos dedicados al lavado de autos.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+e) Las instituciones públicas o privadas; y negociaciones que se dediquen al servicio de lavandería, o que presten de manera adicional este servicio a sus usuarios o clientes.
+
 ### CAPITULO IV. De las Cuotas y Tarifas
 
 ###### ARTICULO 164.
@@ -2493,11 +2497,15 @@ III. Cuotas fijas; se aplicarán de manera extraordinaria y exclusivamente en lo
 
 El prestador de los servicios podrá determinar una estructura tarifaria, que tome en cuenta el tipo y nivel socioeconómico o la capacidad de pago de los diferentes estratos de usuarios. De tal forma que permita establecer criterios de equidad en el costo de dichos servicios. La estructura tarifaria deberá diseñarse de manera que de su aplicación resulten los mismos ingresos, que si se aplicaran las tarifas medias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 171 BIS. Los ayuntamientos y los organismos operadores establecerán anualmente estímulos fiscales en beneficio: de las personas con discapacidad; de las personas adultas mayores; y de las mujeres que siendo madres solteras asuman en su totalidad el sustento económico de su hogar, así como el de sus hijas e hijos menores de edad, y que se encuentren en estado de desventaja social conforme a las disposiciones de la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí; estímulos de los que disfrutarán, según corresponda, y hasta por el cincuenta por ciento de los derechos causados.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Para el acceso a los estímulos fiscales a que se refiere este artículo, los contribuyentes deberán acreditar fehacientemente su condición de acuerdo al mecanismo que establezca el ayuntamiento u organismo operador, siempre que se cuente con medidor y no se tengan adeudos.
+
 > <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2014)</small>
-
-ARTICULO 171 BIS. Los ayuntamientos y los organismos operadores establecerán anualmente estímulos fiscales en beneficio de las personas con discapacidad, así como de las personas adultas mayores, de los que disfrutarán; según corresponda, y hasta por el cincuenta por ciento de los derechos causados.
-
-Para el acceso a los estímulos fiscales a que se refiere este artículo, los contribuyentes deberán acreditar su condición de acuerdo al mecanismo que establezca el ayuntamiento u organismo operador, siempre que se cuente con medidor y no se tengan adeudos.
 
 La deducción que resulte de la aplicación del estímulo fiscal en relación con el valor total de los derechos generados por la prestación del servicio público, se indicará en los recibos de pago en forma separada a la cantidad total a pagar por los usuarios.
 
@@ -3550,5 +3558,23 @@ P.O. 29 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0211.- SE REFORMAN LOS ARTÍCULOS 8°, 206 Y 207; Y ADICIONA A LOS ARTÍCULOS 8° CUATRO FRACCIONES, Y AL ARTÍCULO 206 CUATRO FRACCIONES, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0447.- SE ADICIONA AL ARTÍCULO 163 EN SU FRACCIÓN IV EL INCISO E), DE LA LEY DE AGUAS PARA EL
+
+ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0448.- SE REFORMA EL ARTÍCULO 171 BIS DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
