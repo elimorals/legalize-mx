@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2019-12-23"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -1209,9 +1209,9 @@ XLI. Para conceder permiso al Gobernador del Estado a fin de que pueda asumir el
 
 XLII. (DEROGADA, B.O. 8 DE NOVIEMBRE DE 1993)
 
-> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-XLIII. Para expedir Leyes y reglamentos concernientes a la recta aplicación de la Ley Federal del Trabajo, en las materias que ésta encomienda a las Autoridades Estatales; así mismo, para expedir las leyes que normen las relaciones de los servidores públicos de los Poderes del Estado y Ayuntamientos y de los trabajadores al servicio de los organismos descentralizados.
+XLIII. Para expedir leyes y reglamentos concernientes a la recta aplicación de la Ley Federal del Trabajo, en las materias que ésta encomienda a las autoridades estatales; para expedir las leyes que normen las relaciones de los servidores públicos de los Poderes del Estado y Ayuntamientos y de los trabajadores al servicio de los organismos descentralizados; así como la normatividad que regule el Centro de Conciliación Laboral del Estado de Sonora, al que hace referencia el artículo 123, apartado A), fracción XX de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADA, B.O. 13 DE ENERO DE 2017)</small>
 
@@ -1583,7 +1583,7 @@ IV. Hacer cumplir las resoluciones de los tribunales y prestar a éstos los medi
 
 V. Exigir de las autoridades que dependan del Ejecutivo del Estado, el cumplimiento estricto de las obligaciones que les imponen la Constitución Federal, la Estatal y las Leyes que de ellas emanen, aplicándoles las sanciones a que se hagan acreedores, en los términos que prevengan las leyes.
 
-> <small>(REFORMADA PRIMER PÁRRAFO, B.O. 22 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
 VI. Imponer las sanciones administrativas que determinen las leyes y reglamentos.
 
@@ -1671,9 +1671,13 @@ XXX. Dictar las medidas urgentes encaminadas a la conservación y mejoramiento d
 
 XXXI. Formar la estadística del Estado.
 
-XXXII. Dictar las disposiciones necesarias para la instalación o funcionamiento de la Junta Central de Conciliación y Arbitraje, a que se refiere la fracción XX del artículo 123 de la Constitución General de la República.
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-XXXIII. Nombrar al representante que le corresponde en la Junta de Conciliación y Arbitraje, a que se refiere la fracción XX del artículo 123 de la Constitución General.
+XXXII. Prestar la función conciliatoria en materia del trabajo a través del Centro de Conciliación Laboral del Estado de Sonora a que se refiere el artículo 123, apartado A), fracción XX de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+XXXIII. Nombrar y remover al titular del Centro de Conciliación Laboral del Estado de Sonora;
 
 XXXIV. Fomentar la organización de instituciones de utilidad social para infundir o inculcar la previsión popular.
 
@@ -2154,6 +2158,10 @@ Asimismo, el Pleno elegirá de entre sus miembros, en los plazos que determine l
 > <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 13 DE AGOSTO DE 2018)</small>
 
 El Supremo Tribunal de Justicia, por conducto de su Presidente, deberá rendir al Congreso y al Gobernador del Estado, un informe anual por escrito, que le soliciten sobre el ramo judicial.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+La resolución de las diferencias o los conflictos entre trabajadores y patrones estará a cargo del Poder Judicial del Estado de Sonora, cuyos integrantes serán designados conforme a las leyes respectivas. Antes de acudir al Juzgado Laboral competente, los trabajadores y patrones deberán agotar la etapa conciliatoria correspondiente.
 
 > <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
@@ -3533,7 +3541,7 @@ Los Diputados que se elijan a la LIV Legislatura del Congreso del Estado, durar�
 
 ###### ARTICULO TERCERO.
 
-El período ordinario del Congreso del Estado, correspondiente a los meses de noviembre a diciembre del año de 1993 y los períodos ordinarios correspondientes al año de 1994, se celebrarán de acuerdo con las fechas que han venido rigiendo en los términos de la Ley 109, publicada en el Boletín Oficial número 23, sección I, de 17 de septiembre de 1987.
+El período ordinario del Congreso del Estado, correspondiente a los meses de noviembre a diciembre del año de 1993 y los períodos ordinarios correspondientes al año de 1994, se celebrarán de acuerdo con las fechas que han venido rigiendo en los términos de la Ley 109, publicada en el Boletín Oficial número 23, sección I, del 17 de septiembre de 1987.
 
 A partir del 16 de septiembre de 1995 los períodos de sesiones ordinarios se celebrarán de acuerdo con las fechas establecidas en la presente Ley.
 
@@ -3717,7 +3725,7 @@ B.O. 4 DE OCTUBRE DE 2004.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación, en su caso, que emitan la mitad más uno de los Ayuntamientos del Estado, a todos los cuales se les deberá notificar lo que corresponda para los efectos del artículo 163 de la Constitución Política Local.
 
-Se instruye a la Mesa Directiva y, en su caso, a la Diputación Permanente, a efecto que lleve a cabo el cómputo respectivo y para que, de obtenerse la votación aprobatoria necesaria, se giren las instrucciones petinentes para la publicación correspondiente en el Boletín Oficial del Gobierno del Estado.
+Se instruye a la Mesa Directiva y, en su caso, a la Diputación Permanente, a efecto que lleve a cabo el cómputo respectivo y para que, de obtenerse la votación aprobatoria necesaria, se giren las instrucciones pertinentes para la publicación correspondiente en el Boletín Oficial del Gobierno del Estado.
 
 B.O. 7 DE OCTUBRE DE 2004.
 
@@ -4273,4 +4281,50 @@ Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del E
 
 ###### ARTÍCULO SEGUNDO.
 
-Las menciones que se realicen en la Ley Orgánica de las (sic) Fiscalía General del Estado de Sonora y demás leyes, reglamentos, acuerdos, circulares y documentos oficiales, respecto de la Policía Estatal Investigadora, se entenderán que se refieren a la Agencia Ministerial de Investigación Criminal, hasta en tanto entre en vigor la presente ley.
+Las menciones que se realicen en la Ley Órgánica de las (sic) Fiscalía General del Estado de Sonora y demás leyes, reglamentos, acuerdos, circulares y documentos oficiales, respecto de la Policía Estatal Investigadora, se entenderán que se refieren a la Agencia Ministerial de Investigación Criminal, hasta en tanto entre en vigor la presente ley.
+
+B.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 278, QUE REFORMA Y ADICIONA DIVERSA DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado Sonora, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado del Estado (sic) de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y en caso de resultar aprobado la presente Ley por cuando menos la mitad más uno de los ayuntamientos de los Municipios del Estado, la remitan al titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto se instituyen e inician operaciones los Juzgados Laborales y el Centro de Conciliación Laboral del Estado de Sonora, las Juntas Locales y Especiales de Conciliación y Arbitraje continuarán atendiendo las diferencias o conflictos que se presenten entre el capital y el trabajo.
+
+Los asuntos que estuvieran en trámite al momento de iniciar sus funciones los juzgados laborales y el Centro de Conciliación Laboral del Estado de Sonora serán resueltos de conformidad con las disposiciones aplicables al momento de su inicio.
+
+###### ARTÍCULO TERCERO.
+
+En cualquier caso, los derechos de los trabajadores que tienen a su cargo la atención de los asuntos a que se refiere el primer párrafo del artículo Segundo Transitorio, se respetarán conforme a la ley.
+
+###### ARTÍCULO CUARTO.
+
+Las Juntas Locales y Especiales de Conciliación y Arbitraje deberán transferir en los términos, plazos y formas los procedimientos, expedientes y documentación que, en el ámbito de sus respectivas competencias, tengan bajo su atención o resguardo a las autoridades que establezcan las leyes respectivas.
+
+###### ARTÍCULO QUINTO.
+
+La Gobernadora Constitucional del Estado de Sonora continuará ejerciendo las facultades referidas en el artículo 79, fracciones XXXII y XXXIII, de la Constitución Política del Estado de Sonora, reformadas en virtud del presente Decreto, hasta en tanto se termine de implementar la reforma en Materia de Justicia Laboral.
+
+###### ARTÍCULO SEXTO.
+
+El titular del Centro de Conciliación Laboral del Estado de Sonora deberá reunir los requisitos siguientes:
+
+I.- Ser mexicano por nacimiento, y estar en pleno goce de sus derechos civiles y políticos;
+
+II.- Tener por lo menos treinta años cumplidos al día de su designación;
+
+III.- Contar con experiencia profesional y conocimiento en materia laboral;
+
+IV.- No haber sido Secretario o Subsecretario de Estado cuando menos un año antes de la designación;
+
+V.- No haber ocupado un cargo de elección popular cuando menos un año antes de la designación;
+
+VI.- No haber sido Secretario General Sindical; y
+
+VIII (SIC).- No haber sido Presidente de alguna Junta de Conciliación Laboral cuando menos un año antes de la designación.
