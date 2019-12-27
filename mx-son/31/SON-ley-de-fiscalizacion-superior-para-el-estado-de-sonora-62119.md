@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fiscalizacion-superior-para-el-estado-de-sonora-62119"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-14"
-last_updated: "2018-06-25"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62119&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 14 de julio de 2008.
 
@@ -276,6 +276,10 @@ Para el debido y eficaz cumplimiento de sus tareas de fiscalización superior en
 > <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2018)</small>
 
 Los recursos presupuestales asignados y ejercidos por el Instituto, serán auditados por contador público certificado externo designado por el Órgano de Control Interno del Instituto.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Está prohibido incluir dentro del presupuesto Anual de Egresos del Instituto Superior de Auditoria y Fiscalización, la contratación de un seguro de vida o de gastos médicos privado para sus servidores públicos, salvo que, por motivo de sus condiciones generales de trabajo u otro instrumento obligatorio, hayan convenido con sus trabajadores otorgar dicha prestación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE JUNIO DE 2015)</small>
 
@@ -1763,17 +1767,21 @@ IX.- Presentar ante el Congreso del Estado, solicitud para remover al Auditor Ma
 
 X.- Participar en los actos de entrega recepción de los servidores públicos del Instituto; y
 
-> <small>(REFORMADA, B.O. 25 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-XI.- Implementar las políticas eficaces de ética pública, política de integridad y conducta institucional para los servidores públicos del Instituto;
+X.- (SIC) Implementar las políticas eficaces de ética pública, política de integridad y conducta institucional para los servidores públicos del Instituto;
 
-> <small>(ADICIONADA, B.O. 25 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-XII.- Establecer las bases y lineamientos para la implementación del Servicio Profesional de Carrera, para aquellos servidores públicos vinculados a la investigación y sustanciación de las faltas administrativas, en los términos que esta ley dispone;
+XI.-(SIC) Establecer las bases y lineamientos para la implementación del Servicio Profesional de Carrera, para aquellos servidores públicos vinculados a la investigación y sustanciación de las faltas administrativas, en los términos que esta ley dispone; y
 
 > <small>(ADICIONADA, B.O. 25 DE JUNIO DE 2018)</small>
 
 XII (SIC).- Las demás que establezca la ley.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Para efecto de que la Contraloría Interna cuente con suficiencia presupuestal para dar cumplimiento a lo ordenado en este artículo, el Instituto Superior de Auditoría y Fiscalización, asignará de manera adicional a lo establecido en el párrafo noveno del artículo 67 de la Constitución Política del Estado de Sonora, una cantidad no menor al 2% del presupuesto anual de dicho instituto.
 
 > <small>(REFORMADO, B.O. 25 DE JUNIO DE 2018)</small>
 
@@ -1964,3 +1972,27 @@ Las demás disposiciones que se establecen en este Decreto se aplicarán a todas
 ###### ARTÍCULO CUARTO.
 
 Los recursos de revisión en trámite ante el Instituto, con anterioridad de la entrada en vigor del presente Decreto serán resueltos por el Instituto.
+
+B.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 91, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, DE LA LEY DE HACIENDA DEL ESTADO, DE LA LEY DE TRÁNSITO DEL ESTADO DE SONORA, DE LA LEY DE BIENES Y CONCESIONES, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, DE LA LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE SONORA Y DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 01 de enero de 2020, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para que la Secretaría de Hacienda del Estado de Sonora, esté en posibilidades de dar cabal cumplimiento a lo dispuesto en los artículos 17, párrafo segundo de la Ley de Tránsito del Estado de Sonora y 316, párrafos tercero, cuarto y quinto de la Ley de Hacienda del Estado, deberá realizar el proceso de contratación sujetándose a lo previsto en el artículo 25 de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal. Debiendo cubrir el pago de la póliza de seguro de responsabilidad civil en el mes de enero del 2020, para que los ciudadanos obtengan el beneficio planteado en los artículos señalados de las leyes de Tránsito del Estado de Sonora y de Hacienda del Estado, a partir del primer minuto del primer día de dicho año.
+
+B.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 94, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ARTÍCULO 95 DE LA LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
