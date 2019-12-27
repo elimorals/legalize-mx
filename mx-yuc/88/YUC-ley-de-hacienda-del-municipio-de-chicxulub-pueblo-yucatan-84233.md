@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-chicxulub-pueblo-yucatan-84233
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-26"
-last_updated: "2011-12-26"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE CHICXULUB PUEBLO, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 26 de diciembre de 2011.
 
@@ -243,6 +243,12 @@ Las licencias de funcionamiento serán expedidas por la Dirección de Finanzas y
 
 La revalidación de las licencias de funcionamiento, estarán vigentes desde el día de su tramitación y hasta el día 31 de diciembre del año en que se tramiten.
 
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 25 Bis.
+
+La revalidación de las licencias de funcionamiento, cuando el contribuyente pague durante los treinta días siguientes de su vencimiento, gozará de un descuento del 30% sobre el importe de dichos derechos.
+
 ###### Artículo 26.
 
 La vigencia de las licencias de funcionamiento podrán concluir anticipadamente, e incluso condicionarse, cuando por la actividad de la persona física o moral que la solicita, se requieran permisos, licencias o autorizaciones de otras dependencias municipales, estatales o federales. En dicho caso, el plazo de vigencia o la condición, serán iguales a las expresadas por dichas dependencias.
@@ -385,9 +391,11 @@ Cuando la base del impuesto predial sea el valor catastral de un inmueble, dicha
 
 Cuando la base del impuesto predial sea el valor catastral del inmueble, el pago se determinará aplicando las tasas establecidas en la Ley de Ingresos del Municipio de Chicxulub Pueblo.
 
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 38.
 
-El impuesto predial sobre la base de valor catastral deberá cubrirse por anualidad. Cuando el contribuyente pague el impuesto predial, durante los meses de enero, febrero y marzo de cada año, gozará de un descuento del 10% sobre el importe de dicho impuesto.
+El impuesto predial sobre la base de valor catastral deberá cubrirse por anualidad. Cuando el contribuyente pague el impuesto predial, durante los meses de enero, febrero y marzo de cada año, gozará de un descuento del 30%, 20%, y 10% respectivamente, sobre el importe de dicho impuesto.
 
 ###### Artículo 39.
 
@@ -541,7 +549,9 @@ VIII.- Liquidación del impuesto.
 
 A la manifestación señalada en este artículo, se acumulará copia del avalúo practicado al efecto.
 
-Cuando los fedatarios públicos y quienes realizan funciones notariales, no cumplan con la obligación a que se refiere este artículo, serán sancionados con una multa de 10 veces el salario mínimo vigente en el Estado de Yucatán.
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Cuando los fedatarios públicos y quienes realizan funciones notariales, no cumplan con la obligación a que se refiere este artículo, serán sancionados con una multa de 10 veces el (sic) la Unidad de Medida y Actualización (UMA) vigente.
 
 Los jueces o presidentes de las juntas de conciliación y arbitraje federales o estatales, únicamente tendrán la obligación de comunicar a la Dirección de Finanzas y Tesorería Municipal, el procedimiento que motivó la adquisición, el número de expediente, el nombre o razón social de la persona a quien se adjudique el bien y la fecha de adjudicación.
 
@@ -857,13 +867,17 @@ Los derechos por los servicios de rastro se causarán de conformidad con la tari
 
 La inspección de carne en los rastros públicos no causará derecho alguno, pero las personas que introduzcan carne al Municipio de Chicxulub Pueblo, Yucatán, deberán pasar por esa inspección. Dicha inspección se practicará en términos de lo dispuesto en la Ley de Salud del Estado de Yucatán. Esta disposición es de orden público e interés social.
 
-En el caso de que las personas que realicen la introducción de carne en los términos del párrafo anterior, no pasaran por la inspección mencionada, se harán acreedoras a una sanción cuyo importe será de 1 a 10 veces el salario mínimo vigente en el Estado de Yucatán, por pieza de ganado e introducida o su equivalente.
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+En el caso de las personas que realicen la introducción de carne en los términos del párrafo anterior, que no pasaren por la inspección mencionada, se harán acreedoras a una sanción cuyo importe será de 1 a 10 veces la Unidad de Medida y Actualización (UMA) vigente, por pieza de ganado introducida o su equivalente.
 
 ###### Artículo 95.
 
 El Ayuntamiento a través de sus órganos administrativos podrá autorizar mediante la licencia respectiva y sin cobro alguno, la matanza de ganado fuera de los rastros públicos del Municipio, previo el cumplimiento de los requisitos que determinan la Ley de Salud del Estado de Yucatán y su Reglamento.
 
-En todo caso, se requerirá la licencia correspondiente. El incumplimiento de esta disposición se sancionará con una multa de 1 a 10 veces el salario mínimo vigente en el Estado de Yucatán. En caso de reincidencia, dicha sanción se duplicará.
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+En todo caso, se requerirá la licencia correspondiente. El incumplimiento de esta disposición se sancionará con una multa de 1 a 10 veces la Unidad de Medida y Actualización (UMA) vigente. En caso de reincidencia, dicha sanción se duplicará.
 
 #### Sección Sexta. Derechos por Servicios de Mercados
 
@@ -1297,7 +1311,9 @@ II.- Embargo, y
 
 III.- Honorarios o enajenación fuera de remate.
 
-Cuando el 3% del importe del crédito omitido, fuera inferior al importe de un salario mínimo vigente en el Estado de Yucatán, se cobrará el monto de un salario mínimo, en sustitución del mencionado 3% del crédito omitido.
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Cuando el 3% del importe del crédito omitido, fuera inferior al importe de una Unidad de Medida y Actualización (UMA) vigente, se cobrará el monto de Unidad de Medida y Actualización (UMA) vigente, en sustitución del mencionado 3% del crédito omitido.
 
 ### CAPÍTULO IV. De los Gastos Extraordinarios de Ejecución
 
@@ -1373,7 +1389,9 @@ III.- Hipoteca, y
 
 IV.- Prenda.
 
-Respecto de la garantía prendaria, solamente será aceptada por la autoridad como tal, cuando el monto del crédito fiscal y sus accesorios sea menor o igual a 50 veces el salario mínimo vigente en el Estado, al momento de la determinación del crédito.
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Respecto de la garantía prendaria, solamente será aceptada por la autoridad como tal, cuando el monto del crédito fiscal y sus accesorios sea menor o igual a 50 veces la Unidad de Medida y Actualización (UMA) vigente, al momento de la determinación del crédito.
 
 En el procedimiento de constitución de estas garantías se observarán en cuanto fueren aplicables las reglas que fijen en el Código Fiscal de la Federación y su reglamento.
 
@@ -1408,3 +1426,13 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 152/2019 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CHICXULUB PUEBLO, CHOCHOLÁ, DZIDZANTÚN, MOTUL, SACALUM, TEKAX, TEMAX, TIZIMÍN, TZUCACAB Y UMAN”.]
+
+Artículo primero.- Este Decreto entrará en vigor el día primero de enero del año 2020, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo.- En cuanto a la Ley de Hacienda para el Municipio de Motul, Yucatán, en el ejercicio fiscal 2020, el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder de un 10% del que le haya correspondido durante el ejercicio fiscal 2019 para los predios cuyo valor catastral sea menor o igual a $ 350,000.00 y para los predios cuyo valor catastral sea mayor a $350,000.00, el impuesto predial no podrá exceder de un 15 % del que le haya correspondido durante el ejercicio fiscal 2019. El comparativo se hará con base en el impuesto principal, sin tomar en consideración bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
