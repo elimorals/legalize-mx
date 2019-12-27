@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-sacalum-yucatan-47950"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2018-12-29"
+last_updated: "2019-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47950&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE SACALUM, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -451,9 +451,9 @@ I.- Autoricen el funcionamiento de establecimientos que de manera permanente o t
 
 II.- Autoricen el funcionamiento de plantas generadoras de energía renovable y/o no renovable.
 
-> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
-III.- Estén señaladas en el Titulo Cuarto, Capítulo III de esta ley.
+III.- Mismas contribuciones que se señalan en los Capítulos (sic) III de esta ley.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 29 DE DICIEMBRE DE 2018)</small>
 
@@ -599,41 +599,39 @@ Lo dispuesto en el párrafo anterior no se aplicará a los contribuyentes que a 
 
 DE LA TARIFA
 
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 47.
 
 El impuesto predial se causará de acuerdo con la siguiente tarifa:
 
 Por predios urbanos y rústicos con o sin construcción.
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2018)</small>
+LÍMITE LÍMITE CUOTA FIJA FACTOR A
 
-Límite Límite Cuota fija Factor a
+INFERIOR SUPERIOR ANUAL APLICAR AL
 
-inferior superior anual aplicar al
+EXCEDENTE
 
-Excedente
+DEL LÍMITE
 
-del límite
+INFERIOR
 
-inferior
+.0001 10,000.00 90.00 0.010
 
-.0001 10,000.00 70 % DE 1 UMA 0.010
+10,000.01 20,000.00 140.00 0.010
 
-10,000.01 20,000.00 120 % DE 1 UMA 0.010
+20,000.01 30,000.00 180.00 0.010
 
-20,000.01 30,000.00 170 % DE 1 UMA 0.010
+30,000.01 40,000.00 220.00 0.010
 
-30,000.01 40,000.00 220 % DE 1 UMA 0.010
+40,000.01 50,000.00 270.00 0.010
 
-40,000.01 50,000.00 260 % DE 1 UMA 0.010
+50,000.01 60,000.00 320.00 0.010
 
-50,000.01 60,000.00 330 % DE 1 UMA 0.010
-
-70,000.01 EN ADELANTE 380 % DE 1 UMA 0.025
+70,000.01 EN ADELANTE 390.00 0.025
 
 A la cantidad que exceda del límite inferior le será aplicado el factor determinado en esta tarifa y el resultado se incrementará con la cuota fija anual respectiva.
-
-> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
 El impuesto predial Rustico: $ 50.00 por hectárea
 
@@ -983,9 +981,9 @@ La tasa del Impuesto Sobre Diversiones y Espectáculos Públicos, será de 0.08,
 
 I.- Cuando el espectáculo público consista en la puesta en escena de obras teatrales la tasa será de cero.
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
-II.- En espectáculos de circo, la tarifa será equivalente a 1 UMA por día.
+II.- En espectáculos de circo, la tarifa será equivalente a 2 UMA por día.
 
 > <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2018)</small>
 
@@ -1275,7 +1273,9 @@ III.- Parques eólicos para la generación de energía renovable o no renovable.
 
 IV.- Plantas solares (fotovoltaicas) para la generación de energía renovable o no renovable.
 
-De igual forma, quedan obligados al pago de los derechos para la obtención de las licencias de funcionamiento, todas aquellas personas físicas o morales que deseen abrir o que tengan en funcionamiento, establecimientos en los que se expendan al público bebidas alcohólicas tales como, los que de manera enunciativa más no limitativa, se relacionan a continuación:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Quedan obligados al pago de los derechos para la obtención de las licencias de funcionamiento, todas aquellas personas físicas o morales que deseen abrir o que tengan en funcionamiento, establecimientos en los que se expendan al público bebidas alcohólicas tales como, los que de manera enunciativa más no limitativa, se relacionan a continuación:
 
 1.- Restaurantes.
 
@@ -1297,17 +1297,15 @@ De igual forma, quedan obligados al pago de los derechos para la obtención de l
 
 DE LA VIGENCIA
 
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 89.
 
 Las licencias de funcionamiento que se expidan por cualquiera de los conceptos anteriores tendrán una vigencia anual y deberá de revalidarse durante los meses de enero y febrero de cada año o dentro de los dos primeros meses del período constitucional del gobierno municipal correspondiente.
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
-
 Cuando una licencia de funcionamiento se expida dentro de los primeros dos meses del último año de ejercicio o dentro de los dos primeros meses del primer año de ejercicio de una administración municipal, la tarifa de la revalidación se reducirá en un 50 por ciento.
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
-
-Para que la Tesorería Municipal esté en condiciones de expedir la Licencia de Funcionamiento o su revalidación, el peticionario deberá de acompañar, además de la documentación que se señala en el Artículo 41 y 41 A de esta ley, el original o copia certificada de la Licencia de Salubridad o determinación sanitaria vigente expedida por la Secretaría de Salud del Estado de Yucatán.
+Para que la Tesorería Municipal esté en condiciones de expedir la Licencia de Funcionamiento o su revalidación, el peticionario deberá de acompañar, además de la documentación que se señala en el artículo 41 y 41A de esta ley, el original o copia certificada de la Licencia de Salubridad o determinación sanitaria vigente expedida por la Secretaría de Salud del Estado de Yucatán.
 
 TARIFA
 
@@ -1317,13 +1315,15 @@ TARIFA
 
 La tarifa de los derechos para la obtención de las Licencias de Funcionamiento de los establecimientos que se señalan en el Artículo 88 de esta Ley, serán los siguientes:
 
-I,- (sic) Por apertura para venta
+I,- Por apertura para venta
 
 de bebidas alcohólicas $25,000.00
 
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
 II.- Por revalidación para venta
 
-de bebidas alcohólicas $3,000.00
+de bebidas alcohólicas $6,000.00
 
 III.- Por permisos eventuales
 
@@ -1339,15 +1339,153 @@ generación de energía renovable
 
 o no renovable $ 400,000.00
 
-V.- para la instalación y operación (sic) Plantas fotovoltaicas para la generación de energía renovable o no renovable $ 450,000.00
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+V.- Para la instalación y operación (sic) Plantas fotovoltaicas para la generación de energía renovable o no renovable $600,000.00
 
-Artículo 90 A.- El cobro de derechos por el otorgamiento (sic) licencias, permisos o autorizaciones para el funcionamiento de los demás establecimientos y locales comerciales o de servicios, se realizará con base en las siguientes tarifas:
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
-> <small>[N. DE E. VÉASE TARIFAS EN D.O. DE 28 DE DICIEMBRE DE 2016, PÁGINAS DE LA 83 A LA 85.]</small>
+Artículo 90 A.- El cobro de derechos por el otorgamiento de licencias, permisos o autorizaciones para el funcionamiento de los demás establecimientos y locales comerciales o de servicios, se realizará con base en las siguientes tarifas:
 
-> <small>[N. DE E. VÉASE REFORMAS A LAS TARIFAS EN EL D.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 18 A LA 19.]</small>
+GIRO EXPEDICION RENOVACION
+
+COMERCIAL O DE
+
+SERVICIOS $ $
+
+I.- Farmacias, boticas y similares 300 150
+
+II.- Carnicerías, pollerías,
+
+pescaderías y fruterías 300 150
+
+III.- Panaderías y tortillerías 300 200
+
+IV.- Expendio de refrescos 300 200
+
+V.- Fábrica de jugos embolsados 300 200
+
+VI.- Expendio de refrescos naturales 300 100
+
+VII.- Compra/venta de oro y plata 1,000.00 500
+
+VIII.- Taquerías, loncherías,
+
+Restaurantes, fondas. 500 150
+
+IX.- Taller y/o expendio de alfarerías 200 100
+
+X.- Talleres Zapatería o accesorios. 2,000.00 800
+
+XI.- Tlapalerías 400 200
+
+XII.- Compra/venta de materiales de
+
+construcción 1,000.00 500
+
+XIII.- Tiendas, tendejones y misceláneas 400 150
+
+XIV.- Bisutería y otros 400 150
+
+XV.- Compra/venta de motos y
+
+refaccionarías 700 150
+
+XVI.- Papelerías y centro de copiado 700 200
+
+XVII.- Hoteles, hospedajes 10,000.00 1,500.00
+
+XVIII.- Peleterías compra/venta de
+
+sintéticos 450 250
+
+XIX.- Terminales de taxis,
+
+autobuses y triciclos 400 150
+
+XX.- Ciber café y centros de cómputo 300 200
+
+XXI.- Estéticas unisex y peluquerías 300 150
+
+XXII.- Talleres mecánicos 400 150
+
+XXIII.- Talleres de torno y herrería
+
+en general 400 200
+
+XXIV.- Restaurantes 500 300
+
+XXV.- Tiendas de ropa y almacenes 400 150
+
+XXVI.- Florerías y funerarias 400 150
+
+XXVII.- Bancos, casas de empeño
+
+y financieras 3,500.00 1000
+
+XXVIII.- Puestos de venta de revistas,
+
+periódicos 300 100
+
+XXIX.- Videoclubs en general 300 150
+
+XXX.- Carpinterías 400 150
+
+XXXI.- Bodegas de refrescos 1,500.00 200
+
+XXXII.- Consultorios y clínicas 700 400
+
+XXXIII.- Peleterías y dulcerías 300 150
+
+XXXIV.-Expendios de telefonía celular 300 200
+
+XXXV.- Cinema 2,000.00 1,000.00
+
+XXXVI.-Talleres de reparación y eléctrica 400 150
+
+XXXVII.- Escuelas particulares y academias 700 300
+
+XXXVIII.- Salas de fiestas 3,000.00 1,000.00
+
+XXXIX.-Expendios de alimentos de
+
+animales 400 150
+
+XL.- Gaseras 3,000.00 1,000.00
+
+XLI.- Gasolineras 6,000.00 1,500.00
+
+XLII.- Mueblería 300 100
+
+XLIII.- Servicio de sistema de cablevisión 800 500
+
+XLIV.- Fábrica de hielo 400 150
+
+XLV.- Centros de foto estudios y grabación 400 150
+
+XLVI.- Despachos contables y jurídicos 1000 500
+
+XLVII.- Servicio de motos taxi 500 150
+
+XLVIII.- Compra/venta de frutas y verduras 300 100
+
+XLIX.- Empacadoras de alimentos 7,000.00 4,000.00
+
+LX.- La instalación y operación de
+
+plantas fotovoltaicas para la generación
+
+de energía renovable y no renovable 600,000.00 70,000.00
+
+LXI.- Granjas avícolas, porcícolas,
+
+ganaderas de más
+
+de 10 empleados. 15,000.00 10,000.00
+
+LXII.- Servicios de Sistemas de telefonía
+
+celular 10,000.00 7,000.00
 
 DE LAS MULTAS Y CLAUSURAS
 
@@ -1425,11 +1563,11 @@ Son responsables solidarios del pago de estos derechos los Notarios Públicos y 
 
 CUOTA
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018) (REPUBLICADO, D.O. 27 DE DICIEMBRE DE 2019)
 
 ###### Artículo 101.
 
-La cuota de este derecho será el equivalente a $20.00 de manera mensual por cada toma de agua.
+La cuota de este derecho será el equivalente a $ 20.00 de manera mensual por cada toma de agua.
 
 PAGO
 
@@ -1517,15 +1655,17 @@ Estos derechos se causarán de acuerdo a las cuotas siguientes:
 
 I.- Por Inhumaciones y exhumaciones $ 400.00
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA [N. DE E. CON SU INCISO], D.O. 27 DE DICIEMBRE DE 2019)</small>
 
-II.- Por usar una bóveda por un periodo de tres años.
+II.- Por usar una bóveda por un periodo de dos años
 
-a) Por metro cuadrado $ 200.00
+a) Por metro cuadrado $ 500.00
 
 III.- Por usar una bóveda a perpetuidad.
 
-a) Por metro cuadrado $ 400.00
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+a) Por metro cuadrado $ 1000.00
 
 IV.- Por construcción de cripta o Bóveda $ 100.00
 
@@ -1587,31 +1727,23 @@ En todo caso, se requerirá la licencia correspondiente. El incumplimiento de es
 
 ### Capítulo X. Otros Servicios Prestados por el Ayuntamiento
 
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 117.
 
 Las personas físicas y morales que soliciten los servicios que a continuación se detallan estarán obligadas al pago de los derechos conforme a lo siguiente:
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2018)</small>
-
 Servicio UMA
 
-A) Por participar
+A) Por participar en licitaciones 20
 
-en licitaciones 15
+B) Certificaciones y constancias
 
-B) Certificaciones y
+expedidas por el Ayuntamiento .50
 
-constancias expedidas
+C) Venta de formas oficiales .50
 
-por el Ayuntamiento .50
-
-C) Venta de formas
-
-oficiales .50
-
-D) Expedición de disco
-
-magnético 2
+D) Expedición de disco magnético 2
 
 ### Capítulo XI. De los Derechos por el Uso y Aprovechamiento de los Bienes de Dominio Público del Patrimonio Municipal
 
@@ -2174,3 +2306,11 @@ D.O. 29 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 22/2018 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE DZIDZANTÚN, SACALUM, TEMAX Y UMÁN”.]
 
 Artículo único.- Este Decreto entrará en vigor el día primero de enero del año dos mil diecinueve, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 152/2019 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CHICXULUB PUEBLO, CHOCHOLÁ, DZIDZANTÚN, MOTUL, SACALUM, TEKAX, TEMAX, TIZIMÍN, TZUCACAB Y UMAN”.]
+
+Artículo primero.- Este Decreto entrará en vigor el día primero de enero del año 2020, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo.- En cuanto a la Ley de Hacienda para el Municipio de Motul, Yucatán, en el ejercicio fiscal 2020, el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder de un 10% del que le haya correspondido durante el ejercicio fiscal 2019 para los predios cuyo valor catastral sea menor o igual a $ 350,000.00 y para los predios cuyo valor catastral sea mayor a $350,000.00, el impuesto predial no podrá exceder de un 15 % del que le haya correspondido durante el ejercicio fiscal 2019. El comparativo se hará con base en el impuesto principal, sin tomar en consideración bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
