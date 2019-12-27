@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-las-personas-101406
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-06-16"
-last_updated: "2019-08-16"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101406&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,11 @@ issue_date: "2013-12-19"
 
 > <small>[N. DE E. EL ACUERDO EXPEDIDO POR LA SECRETARIA DE BIENESTAR, PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 16 DE AGOSTO DE 2019, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE DICIEMBRE DE 2019 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LAS PERSONAS ADULTAS MAYORES
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE AGOSTO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 27 DE DICIEMBRE DE 2019.]</small>
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 16 de junio de 2014.
 
@@ -855,11 +855,11 @@ XXIX. Coordinar, recopilar y concentrar con la Subdirección de Recursos Materia
 
 XXX. Las que le encomiende la Dirección General o la Dirección de Área de su adscripción.
 
-> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2019)</small>
+(REFORMADO, D.O.F. 16 DE AGOSTO DE 2019) (F. DE E., D.O.F. 27 DE DICIEMBRE DE 2019)
 
 ###### Artículo 31.
 
-Corresponde a la Subdirección de Servicios Generales, Recursos Materiales y Sistemas, las facultades siguientes:
+Corresponde a la Subdirección de Recursos Materiales, Servicios Generales y Sistemas, las facultades siguientes:
 
 I. Coordinar y supervisar las funciones, actividades en materia de adquisiciones, almacén, inventarios, mantenimiento y servicios generales;
 
@@ -1065,27 +1065,25 @@ V. Las demás que determine el Consejo Ciudadano.
 
 ### CAPÍTULO QUINTO. DEL ÓRGANO INTERNO DE CONTROL
 
-> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2019)</small>
+(REFORMADO, D.O.F. 16 DE AGOSTO DE 2019) (F. DE E., D.O.F. 27 DE DICIEMBRE DE 2019)
 
 ###### Artículo 42.
 
-El Instituto contará, con un Órgano Interno de Control el cual será designado por la Secretaria de la Función Pública.
+El Instituto contará, con un Órgano Interno de Control, mismo que se mantendrá operando presupuestalmente, con cargo a la Entidad, con respecto a los recursos humanos, materiales y financieros; sin embargo, funcionarán bajo la subordinación jerárquica y funcional de la Secretaría de la Función Pública.
 
-El Titular del Órgano Interno de Control, en el ejercicio de sus facultades, se auxiliará de tres Titulares:
+El Titular del Órgano Interno de Control, en el ejercicio de sus facultades, se auxiliará de los Titulares de las Áreas de:
 
-1. Titular del Área de Responsabilidades,
+1. Responsabilidades,
 
-2. Titular Área de Quejas, y
+2. Quejas, y
 
-3. Titular del Área de Auditoria Interna para el Desarrollo y Mejora de la Gestión Pública
+3. Auditoría.
 
-Los servidores públicos que conformen el Órgano Interno de Control, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, Ley General de Responsabilidades de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por los artículos 79 y 80 del Reglamento Interior de la Secretaría de la Función Pública.
-
-> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2019)</small>
+(REFORMADO, D.O.F. 16 DE AGOSTO DE 2019) (F. DE E., D.O.F. 27 DE DICIEMBRE DE 2019)
 
 ###### Artículo 43.
 
-Las ausencias de la/el Titular del Órgano Interno de Control, así como la de los tres Titulares de Responsabilidad, Quejas y de Auditoría Interna para el Desarrollo y Mejora de la Gestión Pública, serán suplidas conforme a lo previsto en el artículo 88 segundo y tercer párrafo del Reglamento Interior de la Secretaria de la Función Pública.
+Las ausencias de la/el Titular del Órgano Interno de Control, así como las ausencias de los Titulares de las áreas de Responsabilidades, Quejas y Auditoría, serán suplidas conforme a lo previsto en el artículo 104 segundo, tercer y cuarto párrafo del Reglamento Interior de la Secretaria de la Función Pública.
 
 > <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2019)</small>
 
@@ -1165,4 +1163,12 @@ SEGUNDO.- El Instituto deberá adecuar su estructura orgánica y sus normas admi
 
 TERCERO.- Se deroga cualquier disposición que se oponga al contenido del presente Estatuto.
 
-CUARTO.- Las facultades y atribuciones señaladas en los artículos 44 y 45, del Capítulo Quinto del presente Estatuto, estarán vigentes hasta que se realice la transferencia de recursos humanos, financieros y materiales del Órgano Interno de Control, de este Instituto a la Secretaria de la Función Pública, lo anterior en términos del artículo Sexto Transitorio del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal", publicado en el Diario Oficial de la Federación el 30 de noviembre de 2018.
+> <small>(F. DE E., D.O.F. 27 DE DICIEMBRE DE 2019)</small>
+
+CUARTO.- Las facultades y atribuciones señaladas en los artículos 42 y 43, del Capítulo Quinto del presente Estatuto, estarán vigentes hasta que se realice la transferencia de recursos humanos, financieros y materiales del Órgano Interno de Control, de este Instituto a la Secretaria de la Función Pública, lo anterior en términos del artículo Sexto Transitorio del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal”, publicado en el Diario Oficial de la Federación el 30 de noviembre de 2018.
+
+D.O.F. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE ORDENA LA PUBLICACIÓN DE UNA FE DE ERRATAS AL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LAS PERSONAS ADULTAS MAYORES, PUBLICADO EL 16 DE AGOSTO DE 2019”.]
+
+ÚNICO.- La presente fe de erratas al Estatuto Orgánico del Instituto Nacional de las Personas Adultas Mayores entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
