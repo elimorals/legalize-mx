@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2019-12-25"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el 15 de noviembre de 1978.
 
@@ -2893,7 +2893,7 @@ Se entenderá que el pago que corresponda por los conceptos establecidos en este
 
 ART. 67.- Estarán exentos del pago de cuotas los vehículos militares, policiales y de auxilio turístico, así como ambulancias y bomberos, siempre que por sus características o emblemas se identifiquen como tales.
 
-Tampoco pagarán estas cuotas los vehículos en que transite el Presidente y Senadores de la República, Gobernador del Estado, Diputados Federales, Diputados al Congreso del Estado de Sinaloa y Presidentes Municipales del Estado de Sinaloa.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -4420,3 +4420,11 @@ Artículo Cuarto. Dentro de los 30 días siguientes a la entrada en vigor del pr
 Artículo Quinto. Las obligaciones derivadas de la Ley de Hacienda del Estado de Sinaloa, originadas durante el ejercicio fiscal 2019, deberán cumplirse en las formas y plazos establecidos conforme a las disposiciones vigentes de dicha Ley en ese ejercicio fiscal 2019.
 
 Artículo Sexto. En un plazo no mayor de 180 días contados a partir de la entrada en vigor del presente Decreto, se deberá crear el Padrón de Certificados Electrónicos de Servidores Públicos.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 383 DEL H. CONGRESO DEL ESTADO.- SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 67 DE LA LEY DE HACIENDA DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
