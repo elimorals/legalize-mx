@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-la-comision-estatal-de-derechos-humanos-del-8500"
 country: "mx"
 rank: "ley"
 publication_date: "1992-10-08"
-last_updated: "2017-08-03"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY QUE CREA LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SONORA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ENERO DE 2020 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 8 de octubre de 1992.
 
@@ -843,6 +845,10 @@ La Comisión gozará, respecto de su patrimonio, de las franquicias, exenciones 
 
 La Comisión tendrá la facultad de elaborar su anteproyecto de presupuesto anual de egresos, el cual remitirá directamente al titular del Ejecutivo Estatal, para su incorporación al Presupuesto de Egresos del Estado.
 
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Está prohibido incluir dentro del presupuesto Anual de Egresos del Instituto Estatal Electoral y de Participación Ciudadana, la contratación de un seguro de vida o de gastos médicos privado para sus servidores públicos, salvo que, por motivo de sus condiciones generales de trabajo u otro instrumento obligatorio, hayan convenido con sus trabajadores otorgar dicha prestación.
+
 > <small>(ADICIONADO, B.O. 9 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 66.
@@ -1000,3 +1006,19 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 91, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, DE LA LEY DE HACIENDA DEL ESTADO, DE LA LEY DE TRÁNSITO DEL ESTADO DE SONORA, DE LA LEY DE BIENES Y CONCESIONES, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, DE LA LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE SONORA Y DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 01 de enero de 2020, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para que la Secretaría de Hacienda del Estado de Sonora, esté en posibilidades de dar cabal cumplimiento a lo dispuesto en los artículos 17, párrafo segundo de la Ley de Tránsito del Estado de Sonora y 316, párrafos tercero, cuarto y quinto de la Ley de Hacienda del Estado, deberá realizar el proceso de contratación sujetándose a lo previsto en el artículo 25 de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal. Debiendo cubrir el pago de la póliza de seguro de responsabilidad civil en el mes de enero del 2020, para que los ciudadanos obtengan el beneficio planteado en los artículos señalados de las leyes de Tránsito del Estado de Sonora y de Hacienda del Estado, a partir del primer minuto del primer día de dicho año.
