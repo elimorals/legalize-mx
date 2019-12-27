@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidad-patrimonial-del-estado-y-municipios-4376
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2019-08-20"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de Diciembre de 2004.
 
@@ -85,9 +85,11 @@ V. Unidad: el valor de la Unidad de Medida y Actualización.
 
 La interpretación de las disposiciones de este Ordenamiento, para efectos administrativos, corresponderá a cada entidad y, para efectos jurisdiccionales, al Tribunal Estatal de lo Contencioso Administrativo.
 
-###### ARTICULO 9º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
-El Presupuesto de Egresos del Gobierno del Estado incluirá el monto de las partidas que, en términos de la Ley de Presupuesto, Contabilidad y Gasto Público Estatal, deberá destinarse para cubrir las responsabilidades patrimoniales.
+###### ARTÍCULO 9°.
+
+El Presupuesto de Egresos del Gobierno del Estado incluirá el monto de las partidas que, en términos de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí, deberá destinarse para cubrir las responsabilidades patrimoniales.
 
 Los ayuntamientos y las demás entidades a que se refiere la presente Ley, deberán incluir en sus respectivos presupuestos, la partida que deberá destinarse para cubrir las responsabilidades patrimoniales que pudieran desprenderse de este ordenamiento.
 
@@ -386,3 +388,11 @@ P.O. 20 DE AGOSTO DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRTO (SIC) 0452.- SE REFORMA EL ARTÍCULO 9° DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se deroga (sic) todas las disposiciones legales que se opongan al presente Decreto.
