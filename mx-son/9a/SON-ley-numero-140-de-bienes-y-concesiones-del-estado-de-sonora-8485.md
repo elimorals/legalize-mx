@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-140-de-bienes-y-concesiones-del-estado-de-sonora-848
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-31"
-last_updated: "2018-06-07"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "SON"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ENERO DE 2020 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el jueves 31 de diciembre de 1992.
 
@@ -111,7 +113,9 @@ VI.- Determinar la participación del Estado en empresas de participación estat
 
 VII.- Fijar la política del Gobierno del Estado en materia de arrendamiento. Los contratos de arrendamiento que celebren las dependencias deberán basarse en la justipreciación de rentas que realice la Comisión Estatal;
 
-VIII.- Autorizar y revisar las operaciones inmobiliarias que realicen los organismos descentralizados respecto de bienes de dominio público. Cuando se trate de enajenaciones, dichos bienes serán previamente desincorporados del dominio público;
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+VIII.- Autorizar y revisar las operaciones inmobiliarias que realicen los organismos descentralizados respecto de bienes de dominio público y privado que les pertenezcan. Cuando se trate de enajenaciones, dichos bienes de dominio público serán previamente desincorporados del dominio público;
 
 IX.- Mantener al corriente el inventario y el avalúo de los bienes del dominio del Estado y determinar las normas y procedimientos para realizarlos;
 
@@ -201,7 +205,9 @@ I.- Decretar, cuando ello sea preciso, en los términos de esta Ley, que un bien
 
 II.- Decretar, cuando así proceda, la incorporación al dominio público de un bien que forma parte del dominio privado, siempre que su posesión corresponda al Estado;
 
-III.- Desincorporar del dominio público, en los casos en que la Ley lo permita y asimismo mediante decreto, un bien que haya dejado de ser útil para fines de servicio público;
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+III.- Desincorporar del dominio público, en los casos en que la Ley lo permita y asimismo mediante decreto, con el fin de sanear las finanzas públicas o cuando un bien haya dejado de ser útil para fines de servicio público;
 
 IV.- Expedir las normas que regulen el uso, la conservación y el aprovechamiento de los bienes de dominio público; y
 
@@ -1108,3 +1114,19 @@ El presente Decreto se deberá publicar en el Boletín Oficial del Gobierno del 
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los 60 días anteriores a que el presente Decreto entre en vigor, la Secretaría de la Consejería Jurídica del Gobierno del Estado con el apoyo de las dependencias que considere necesario, deberán llevar a cabo la capacitación a los servidores públicos estatales y municipales encargados de aplicar la normatividad aquí aprobada.
+
+B.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 91, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, DE LA LEY DE HACIENDA DEL ESTADO, DE LA LEY DE TRÁNSITO DEL ESTADO DE SONORA, DE LA LEY DE BIENES Y CONCESIONES, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, DE LA LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE SONORA Y DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 01 de enero de 2020, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para que la Secretaría de Hacienda del Estado de Sonora, esté en posibilidades de dar cabal cumplimiento a lo dispuesto en los artículos 17, párrafo segundo de la Ley de Tránsito del Estado de Sonora y 316, párrafos tercero, cuarto y quinto de la Ley de Hacienda del Estado, deberá realizar el proceso de contratación sujetándose a lo previsto en el artículo 25 de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal. Debiendo cubrir el pago de la póliza de seguro de responsabilidad civil en el mes de enero del 2020, para que los ciudadanos obtengan el beneficio planteado en los artículos señalados de las leyes de Tránsito del Estado de Sonora y de Hacienda del Estado, a partir del primer minuto del primer día de dicho año.
