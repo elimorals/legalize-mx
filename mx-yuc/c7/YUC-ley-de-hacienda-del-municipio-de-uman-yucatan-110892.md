@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-uman-yucatan-110892"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-29"
-last_updated: "2018-12-29"
+last_updated: "2019-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE UMÁN, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 29 de Diciembre de 2015.
 
@@ -35,7 +35,9 @@ Rolando Rodrigo Zapata Bello, Gobernador del Estado de Yucatán, con fundamento 
 
 “EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 29 Y 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA, 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, 117 Y 118 DEL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, TODOS DEL ESTADO DE YUCATÁN, EMITE LA SIGUIENTE;
 
-E X P O S I C I Ó N D E M O T I V O S: …
+E X P O S I C I Ó N D E M O T I V O S:
+
+[...]
 
 En tal virtud y con fundamento en los artículos 30 fracción V de la Constitución Política, 18 y 43 fracción IV inciso a) de la Ley de Gobierno del Poder Legislativo y 71 fracción II del Reglamento de la Ley de Gobierno del Poder Legislativo, todos del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -647,13 +649,15 @@ Cuando un inmueble sea otorgado en uso, goce, se permita su ocupación por cualq
 
 Cuando la base del impuesto predial sea el valor catastral del inmueble, se determinará aplicando la tarifa establecida en la Ley de Ingresos del Municipio de Umán, Yucatán.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 46.
 
-El impuesto predial sobre la base del valor catastral deberá cubrirse anualmente. Cuando el contribuyente pague el impuesto predial correspondiente a una anualidad, durante el primer, segundo y tercer mes de dicho año, gozará de una bonificación del 30%, 15% y 10% respectivamente sobre el importe de dicho impuesto.
+El impuesto predial sobre la base del valor catastral deberá cubrirse anualmente. Cuando el contribuyente pague el impuesto predial correspondiente a una anualidad durante el primer mes del año fiscal en curso, gozará de una bonificación por pronto pago del 30%, y de 15% en el segundo mes, sobre el importe del impuesto predial determinado.
 
-Los programas que implemente la Dirección de Finanzas y Tesorería Municipal y que representen apoyos a los contribuyentes, deberán de ser sometidos a la aprobación del Cabildo y dados a conocer a la ciudadanía mediante su publicación en algún medio local y en la Gaceta Municipal.
+Respecto a Jubilados, pensionados y personas con capacidades diferentes con tarjeta del Instituto Nacional de las Personal Adultos (sic) Mayores (INAPAM) todo el año se les aplicará una bonificación del 50%, únicamente respecto al predio de su propiedad en el que habiten, no acumulable con las bonificaciones por pronto pago realizadas en enero y febrero, excluyéndose por tal razón cualquier otro descuento o bonificación respecto a otras propiedades con las que cuente.
+
+Los programas que en el ejercicio fiscal correspondiente implemente la Dirección de Finanzas y Tesorería Municipal y que representen apoyos a los contribuyentes, deberán de ser sometidos a la aprobación del Cabildo y dados a conocer a la ciudadanía mediante su publicación en algún medio local y en la Gaceta Municipal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE DICIEMBRE DE 2018)</small>
 
@@ -1079,7 +1083,7 @@ V. Salones de baile, de billar o boliche.
 
 VI. Fondas y loncherías.
 
-VIl. Hoteles, moteles y posadas.
+VII. Hoteles, moteles y posadas.
 
 VIII. Licorerías.
 
@@ -1131,7 +1135,7 @@ V. Farmacias
 
 VI. Consultorio médico
 
-VIl. Laboratorios y análisis clínicos
+VII. Laboratorios y análisis clínicos
 
 VIII. Farmacia y consultorio
 
@@ -1271,49 +1275,51 @@ En todo caso, la Tesorería antes de aplicar las sanciones que establece este ar
 
 #### Sección Segunda (sic). De los servicios que presta la Dirección de Desarrollo Urbano y Obras Públicas
 
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 88.
 
 Son sujetos obligados al pago de derechos por los servicios que presta la Dirección de Desarrollo Urbano y Obras Públicas, las personas físicas o morales que lo soliciten, respecto de los servicios u otorgamiento de las licencias o permisos que se señalan a continuación:
 
-I.- Permiso para construcción o reconstrucción de particulares;
+I.- Por el Análisis de Factibilidad de Uso de Suelo;
 
-II.- Constancia de terminación de obra;
+II.- Licencias de uso del Suelo;
 
-III.- Permiso para la realización de una demolición;
+III.- Licencia de uso del Suelo para el Trámite de la Licencia para Construcción;
 
-IV.- Derecho de inspección para el otorgamiento exclusivamente de la constancia de alineamiento de un predio;
+IV.- Licencia de uso del Suelo para el Trámite de la Licencia de Funcionamiento Municipal;
 
-V.- Sellado de planos;
+V.- Constancia de Alineamiento;
 
-VI.- Inspección, revisión de planos y alineamientos de terrenos para el otorgamiento de la licencia o permiso de construcción para viviendas tipo INFONAVIT o cuyo uso sea para bodegas, industrias, comercio, etc.;
+VI.- Factibilidad de División de Predio;
 
-VII.- Permiso para Remodelación;
+VII.- Trabajos de Construcción;
 
-VIII.- Permiso de Ampliación;
+VIII.- Constancia de Terminación de Obra;
 
-IX.- Inspección para el otorgamiento de la licencia que autorice romper o hacer cortes del pavimento, las banquetas y las guarniciones, así como ocupar la vía pública para instalaciones provisionales;
+IX.- Licencia de Urbanización;
 
-X.- Licencia para efectuar excavaciones o para la construcción de pozos, fosas sépticas o albercas;
+X.- Permiso de Explotación;
 
-XI.- Licencias para construcción o demolición de bardas u obras lineales o colocar pisos;
+XI.- Validación de Planos;
 
-XII.- Certificado de cooperación;
+XII.- Otorgamiento de Constancia a que se Refiere la Ley Sobre Régimen de Propiedad y Condominio Inmobiliario del Estado de Yucatán;
 
-XIII.- Licencia de uso de suelo;
+XIII.- Permisos de Anuncios;
 
-XIV.- Inspección para expedir licencia para efectuar excavaciones o zanjas en la vía pública;
+XIV.- Visitas de Inspección;
 
-XV.- Inspección para expedir licencia o permiso para el uso de andamios o tapiales;
+XV.- Revisión Previa de Todos los Proyectos de Urbanización e Infraestructura Urbana, Para los Casos donde se Requiera una Segunda o Posterior Revisión;
 
-XVI.- Constancia de factibilidad de uso de suelo, apertura de una vía pública, unión, división, rectificación de medidas o fraccionamiento de inmuebles;
+XVI.- Por la Expedición del Oficio de Información del Tipo de Zona en la que se Ubican los Bienes Inmuebles, de Conformidad con lo Establecido en el Programa de Desarrollo Urbano del Municipio de Umán;
 
-XVII.- Revisión de planos, supervisión y expedición de constancia para obras de urbanización (vialidad, aceras, guarnición, drenaje, alumbrado, placas de nomenclatura, agua potable, etc.);
+XVII.- Emisión de Copias Simples y/o Copias Certificadas de cualquier Documentación Contenida en los Expedientes de la Dirección de Desarrollo Urbano y Obras Públicas;
 
-XVIII.- Revisión de estudios y proyectos;
+XVIII.- Copia Electrónica de Planos Aprobados por la Dirección de Desarrollo Urbano y Obras Públicas en Disco Compacto no Regrabable;
 
-XIX.- Expedición de duplicados de licencias y permisos;
+XIX.- Autorización de la Constitución de Desarrollo Inmobiliario;
 
-XX.- Expedición de Licencia de Fraccionamiento;
+XX.- Autorización de la Modificación de la Constitución de Desarrollo Inmobiliario;
 
 XXI.- Expedición de Licencia de explotación de material;
 
@@ -1491,49 +1497,43 @@ Son sujetos del derecho a que se refiere la presente sección, las personas fís
 
 El pago por los servicios de panteones se realizará al momento de solicitarlos.
 
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 106.
 
-Los derechos a que se refiere este capítulo se causarán y pagaran de conformidad con los siguientes servicios:
+Los derechos a que se refiere este capítulo se causarán y pagarán de conformidad con los siguientes:
 
-I.- Servicio de inhumación en secciones;
+I.- servicios:
 
-II.- Servicio de inhumación en fosa común;
+1.- Servicio de inhumación en secciones;
 
-III.- Servicio de Exhumación en secciones;
+2.- Servicio de inhumación en fosa común;
 
-IV.- Servicio de Exhumación en fosa común;
+3.- Servicio de Exhumación en secciones;
 
-V.- Actualización de documentos por concesiones a perpetuidad;
+4.- Servicio de Exhumación en fosa común;
 
-VI.- Expedición de duplicados por documentos de concesiones;
+5.- Actualización de documentos por concesiones a perpetuidad
 
-VII.- Venta de osarios;
+6.- Expedición de duplicados por documentos de concesiones
 
-VIII.- Concesión de bóvedas a perpetuidad para adulto en secciones
+7.- Venta de osarios
 
-IX.- Concesión de bóvedas a perpetuidad para infantes en secciones;
+8.- Renta de bóvedas para adultos por dos años
 
-X.- Concesión de bóvedas a perpetuidad para recién nacido en secciones;
+9.- Renta de bóvedas para infantes por dos años
 
-XI.- Renta de bóvedas para adulto por dos años;
+10.- Renta de bóvedas para recién nacidos por dos años
 
-XII.- Renta de bóvedas para infantes por dos años;
+11.- Servicio funerario básico (caja normal, traslado y mobiliario de velación).
 
-XIII.- Renta de bóvedas para recién nacidos por dos años.
+12.- Servicio funerario con caja de ventanilla (Traslado de cortejo, equipo de velación y caja de ventanilla).
 
-> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2016)</small>
+II.- Permiso de mantenimiento o construcción de cripta o gaveta en cualquiera de las clases de los panteones municipales.
 
-XIV.- Servicios de velación;
-
-> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2016)</small>
-
-XV.- Servicios de traslado.
+III.- Exhumación después de transcurrido el término de Ley.
 
 Las tarifas aplicables para el cobro de los mismos, serán las previstas en la Ley de Ingresos del Municipio.
-
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2016)</small>
-
-En el caso de personas de escasos recursos el Director de Finanzas y Tesorero Municipal, podrá disminuir a petición expresa del Director de Desarrollo Social, las cuotas señaladas en la Ley de Ingresos del Municipio de Umán, Yucatán. El Director de Desarrollo Social a fin de solicitar la disminución que se señala, deberá tomar en consideración el estudio socioeconómico y los lineamientos que para tal efecto realice y establezca, respectivamente, la Dirección de Panteones del Ayuntamiento de Umán.
 
 ###### Artículo 107.
 
@@ -2488,3 +2488,11 @@ D.O. 29 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 22/2018 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE DZIDZANTÚN, SACALUM, TEMAX, Y UMAN”.]
 
 Artículo único.- Este Decreto entrará en vigor el día primero de enero del año dos mil diecinueve, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 152/2019 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CHICXULUB PUEBLO, CHOCHOLÁ, DZIDZANTÚN, MOTUL, SACALUM, TEKAX, TEMAX, TIZIMÍN, TZUCACAB Y UMÁN".]
+
+Artículo primero.- Este Decreto entrará en vigor el día primero de enero del año 2020, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo.- En cuanto a la Ley de Hacienda para el Municipio de Motul, Yucatán, en el ejercicio fiscal 2020, el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder de un 10 % del que le haya correspondido durante el ejercicio fiscal 2019 para los predios cuyo valor catastral sea menor o igual a $ 350,000.00 y para los predios cuyo valor catastral sea mayor a $350,000.00, el impuesto predial no podrá exceder de un 15 % del que le haya correspondido durante el ejercicio fiscal 2019. El comparativo se hará con base en el impuesto principal, sin tomar en consideración bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
