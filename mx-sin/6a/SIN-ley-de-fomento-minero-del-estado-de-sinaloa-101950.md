@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-fomento-minero-del-estado-de-sinaloa-101950"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-08"
-last_updated: "2016-12-28"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101950&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE FOMENTO MINERO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en la segunda sección del periódico oficial el 8 de agosto de 2014.
 
@@ -149,9 +149,17 @@ VII. Dos Consejeros representantes de las Cámaras Empresariales del Estado, dir
 
 VIII. Dos Consejeros representantes de las Asociaciones de Concesionarios de la Pequeña y Mediana Minería, propuestos por ellos mismos y designados por el Titular del Poder Ejecutivo;
 
-IX. Cinco Consejeros representantes designados por la Asociación de Empresas en operación en Sinaloa y que cuenten con más de cincuenta empleados; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
-X. Dos Consejeros representantes de instituciones académicas, relacionadas con la formación de profesionistas enfocados al sector minero, propuestos por ellos mismos y designados por el Titular del Poder Ejecutivo, a propuesta de las mismas instituciones.
+IX. Cinco Consejeros representantes designados por la Asociación de Empresas en operación en Sinaloa y que cuenten con más de cincuenta empleados;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+X. Dos Consejeros representantes de instituciones académicas, relacionadas con la formación de profesionistas enfocados al sector minero, propuestos por ellos mismos y designados por el Titular del Poder Ejecutivo, a propuesta de las mismas instituciones; y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+XI. Tres Consejeros representantes de organizaciones Ambientalistas, relacionadas con la defensa y protección al medio ambiente, propuestos por ellos mismos y designados por el Titular del Poder Ejecutivo, a propuesta de las mismas organizaciones.
 
 Los miembros del Consejo tendrán derecho a voz y voto, y sus cargos serán honoríficos, por lo que no recibirán remuneración, emolumento o compensación alguna por su desempeño como consejeros.
 
@@ -173,7 +181,9 @@ El domicilio del Consejo será en la ciudad de Culiacán y sesionará en las ins
 
 El Presidente podrá invitar a las sesiones a los funcionarios de instituciones, dependencias y entidades de la Administración Pública Federal, Estatal o Municipal, así como a los sectores social, académico y privado, cuando se traten asuntos relacionados con sus respectivas competencias, los cuales solo tendrán derecho a voz.
 
-Los servidores públicos referidos en las fracciones I, II, III, IV, V y VI del artículo 8 serán integrantes del Consejo mientras duren sus cargos, los representantes de las organizaciones empresariales o gremiales e instituciones académicas referidas en las fracciones VII, VIII, IX y X durarán en su cargo dos años pudiendo ser reelegidos a propuesta del sector que los propone.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Los servidores públicos referidos en las fracciones I, II, III, IV, V y VI del artículo 8 serán integrantes del Consejo mientras duren sus cargos, los representantes de las organizaciones empresariales o gremiales, instituciones académicas y organizaciones ambientalistas referidas en las fracciones VII, VIII, IX, X y XI durarán en su cargo dos años pudiendo ser reelegidos a propuesta del sector que los propone.
 
 ###### Artículo 13.
 
@@ -548,3 +558,11 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 382 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO MINERO DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
