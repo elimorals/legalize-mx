@@ -4,7 +4,7 @@ identifier: "SIN-codigo-familiar-del-estado-de-sinaloa-92146"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-02-06"
-last_updated: "2019-12-13"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FAMILIAR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de febrero de 2013.
 
@@ -1197,7 +1197,7 @@ No estará obligado a contribuir económicamente, el concubino que se encuentre 
 
 Al cesar la vida en común, la concubina o el concubino que carezca de ingresos o bienes suficientes para su sostenimiento, tiene derecho a una pensión alimenticia por un tiempo igual al que haya durado el concubinato, a no ser que quien demande, haya demostrado ingratitud, o viva en concubinato o contraiga matrimonio.
 
-Este derecho podrá ejercitarse sólo durante el año siguiente a la cesación del concubinato.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 172.
 
@@ -7432,3 +7432,9 @@ P.O. 13 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 314 DEL H. CONGRESO DEL ESTADO.- QUE ADICIONAN (SIC) LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 1129 DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 381 DEL H. CONGRESO DEL ESTADO.- QUE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 171 DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
