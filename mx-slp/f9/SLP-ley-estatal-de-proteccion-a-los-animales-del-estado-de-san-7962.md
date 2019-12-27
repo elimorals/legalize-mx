@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "2019-10-03"
+last_updated: "2019-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
@@ -855,11 +855,11 @@ Las infracciones denunciadas por escrito serán sancionadas por la secretaría d
 
 Las conductas a que hace referencia el artículo anterior, serán sancionadas por los secretarios de los ayuntamientos, con multa de cincuenta hasta doscientos días de la unidad de medida y actualización vigente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 83.
 
-Se sancionará con multa de uno hasta cien días de la unidad de medida y actualización a quienes cometan los siguientes actos:
+Se sancionará con multa de tres hasta ciento veinte días del valor de la unidad de medida y actualización vigente, a quienes cometan los siguientes actos:
 
 I.- Ocasionar la muerte intencional por cualquier medio no autorizado por esta Ley y que produzca una prolongada agonía al animal, causándole un sufrimiento innecesario;
 
@@ -875,11 +875,11 @@ III.- Privar de aire, luz, alimento, espacio suficiente al animal en forma negli
 
 IV.- Hostigue, maltrate o torture a cualquier animal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 84.
 
-De comprobarse que los animales han sido torturados y maltratados con brutalidad excesiva y grave negligencia, la sanción podrá ser de trescientos hasta seiscientos días de la unidad de medida y actualización vigente.
+De comprobarse que los animales han sido torturados y maltratados con brutalidad excesiva y grave negligencia, la sanción podrá ser de cuatrocientos hasta ochocientos días del valor de la unidad de medida y actualización vigente.
 
 Igual sanción se impondrá a las personas reincidentes.
 
@@ -1096,6 +1096,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0263.- SE REFORMAN LOS ARTÍCULOS 22 BIS, 38, 86, 87, Y 88; Y ADICIONA EL ARTÍCULO 87 BIS, DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0455.- SE REFORMAN LOS ARTÍCULOS 83 Y 84 DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES; Y SE REFORMA, DE LA PARTE ESPECIAL, LA DENOMINACIÓN DEL TÍTULO DÉCIMO QUINTO Y DEL CAPÍTULO V; ASÍ COMO LOS ARTÍCULOS 309 Y 317; Y ADICIONA AL ARTÍCULO 311 EL PÁRRAFO TERCERO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
