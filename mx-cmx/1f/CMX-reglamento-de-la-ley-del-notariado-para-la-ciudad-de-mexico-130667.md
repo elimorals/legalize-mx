@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-del-notariado-para-la-ciudad-de-mexico-130
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-10-01"
-last_updated: "2018-10-01"
+last_updated: "2019-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130667&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2018-09-17"
 ---
 # REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO PUBLICADO EN LA G.O. DE 27 DE DICIEMBRE DE 2019, A PARTIR DEL 31 DE DICIEMBRE DE 2019 ENTRAN EN VIGOR LOS ARTÍCULOS 76 ANTEPENÚLTIMO, PENÚLTIMO Y ÚLTIMO PÁRRAFOS, 88 ÚLTIMO PÁRRAFO, 89 ÚLTIMO PÁRRAFO, 97 ÚLTIMO PÁRRAFO, 98, 99 Y 100 DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, A QUE HACE REFERENCIA EN EL ARTÍCULO NOVENO TRANSITORIO DEL DECRETO QUE CONTIENE LAS OBSERVACIONES DEL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO RESPECTO DEL DIVERSO POR EL QUE SE ABROGA LA LEY DEL NOTARIADO DEL DISTRITO FEDERAL Y SE EXPIDE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL DÍA 11 DE JUNIO DE 2018; ASÍ COMO EL TÍTULO SEXTO DEL REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, EN TODO LO RELATIVO AL "SISTEMA INFORMÁTICO", "ARCHIVO ELECTRÓNICO", "ÍNDICE ELECTRÓNICO" Y "APÉNDICE ELECTRÓNICO DE COTEJOS", CONFORME A LO DISPUESTO POR LOS ARTÍCULOS QUINTO Y SEXTO TRANSITORIOS DEL DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL DÍA 01 DE OCTUBRE DE 2018".]</small>
+
 REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el lunes 1 de octubre de 2018.
 
@@ -1071,3 +1073,31 @@ En tanto el Colegio desarrolla y libera los referidos módulos, el Libro de Regi
 SÉPTIMO.- Para efectos del presente Reglamento y de la Ley, todas las referencias hechas al índice se entenderán realizadas al Índice Electrónico o al Índice Electrónico del Libro de Registro de Cotejos, según corresponda a partir de la fecha en que el Sistema Informático se encuentre en operación.
 
 Dado en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los diecisiete días del mes de septiembre del año dos mil dieciocho.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, JOSÉ RAMÓN AMIEVA GÁLVEZ, FIRMA.- EL SECRETARIO DE GOBIERNO, GUILLERMO OROZCO LORETO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 27 DE DICIEMBRE DE 2019.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO POR EL QUE SE PUBLICA LA ENTRADA EN VIGOR DE LOS ARTÍCULOS 76 ANTEPENÚLTIMO, PENÚLTIMO Y ÚLTIMO PÁRRAFOS, 88 ÚLTIMO PÁRRAFO, 89 ÚLTIMO PÁRRAFO, 97 ÚLTIMO PÁRRAFO, 98, 99 Y 100 DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, SEÑALADOS EN EL ARTÍCULO NOVENO TRANSITORIO DEL DECRETO QUE CONTIENE LAS OBSERVACIONES DEL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO RESPECTO DEL DIVERSO POR EL QUE SE ABROGA LA LEY DE (SIC) NOTARIADO DEL DISTRITO FEDERAL Y SE EXPIDE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL DÍA 11 DE JUNIO DE 2018; ASÍ COMO EL TÍTULO SEXTO DEL REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, EN TODO LO RELATIVO AL “SISTEMA INFORMÁTICO”, “ARCHIVO ELECTRÓNICO”, “ÍNDICE ELECTRÓNICO” Y “APÉNDICE ELECTRÓNICO DE COTEJOS”, CONFORME A LO DISPUESTO POR LOS ARTÍCULOS QUINTO Y SEXTO TRANSITORIOS DEL DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL DÍA 01 DE OCTUBRE DE 2018”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO.- A partir del 31 de diciembre de 2019 entran en vigor los artículos 76 antepenúltimo, penúltimo y último párrafos, 88 último párrafo, 89 último párrafo, 97 último párrafo, 98, 99 y 100 de la Ley del Notariado para la Ciudad de México, a que hace referencia en el artículo noveno transitorio del DECRETO QUE CONTIENE LAS OBSERVACIONES DEL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO RESPECTO DEL DIVERSO POR EL QUE SE ABROGA LA LEY DE (SIC) NOTARIADO DEL DISTRITO FEDERAL Y SE EXPIDE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO publicado en la Gaceta Oficial de la Ciudad de México el día 11 de junio de 2018; así como el Título Sexto del Reglamento de la Ley del Notariado para la Ciudad de México, en todo lo relativo al “Sistema Informático”, “Archivo Electrónico”, “Índice Electrónico” y “Apéndice Electrónico de Cotejos”, conforme a lo dispuesto por los artículos quinto y sexto transitorios del DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, publicado en la Gaceta Oficial de la Ciudad de México el día 01 de octubre de 2018.
+
+SEGUNDO.- En consecuencia, a partir del 1º de enero de 2020 se libera y se hace obligatorio el inicio de operación del módulo del “Sistema Informático” y su “Red Integral Notarial” correspondiente al Libro de Registro de Cotejos con su respectivo “Apéndice Electrónico de Cotejos”, en el que todos los notarios de la Ciudad de México deberán capturar y remitir por medio de dicho sistema que administra el Colegio de Notarios de la Ciudad de México, los registros de los cotejos de los documentos que les presenten para dicho efecto.
+
+TERCERO.- Por lo anterior y de conformidad con lo señalado en el mencionado artículo noveno transitorio, a partir de la entrada en vigor del presente acuerdo y de los artículos antes mencionados de la Ley del Notariado para la Ciudad de México y de su Reglamento, los Notarios de esta ciudad capturarán por medio del “Sistema Informático” los registros de los cotejos de los documentos que les presenten para dicho efecto, cuyos asientos se verán reflejados en el Libro de Registro de Cotejos, adjuntándose su respectivo “Apéndice Electrónico de Cotejos”, siendo el “Sistema Informático” el único medio para ello, según lo establece el artículo 59 del Reglamento de la Ley del Notariado para la Ciudad de México.
+
+CUARTO.- En términos del artículo 58 del mencionado Reglamento, el “Sistema Informático” será implementado de manera gradual y modular para facilitar la interconexión referida en dicho precepto legal a través de la “Red Integral Notarial”, por lo que la operación del módulo que se libera y sus aplicaciones informáticas necesarias para la captura, consulta y aprovechamiento de los datos correspondientes serán de uso obligatorio para todos los Notarios de la Ciudad de México, a partir de la entrada en vigor de las disposiciones a que se refiere el presente acuerdo, de conformidad con las Reglas de Uso que hasta la fecha ha expedido el Colegio de Notarios y las que expida en un futuro.
+
+QUINTO.- Se acuerda que lo dispuesto en el presente, será aplicable en todo lo relativo al “Sistema Informático”, “Archivo Electrónico”, “Índice Electrónico” y “Apéndice Electrónico de Cotejos”, conforme a las disposiciones aplicables de la Ley del Notariado para la Ciudad de México y su Reglamento, respecto de los Libros de Registro de Cotejos, cuya formación se inicie a partir del inicio de operación de los mencionados módulos, es decir, a partir del 1º de enero de 2020, en términos del mencionado transitorio noveno.
+
+SEXTO.- La formación de las decenas del protocolo, el Archivo Electrónico, Índice y el manejo del protocolo (libros y apéndice), con excepción de lo relativo al Libro de Registro de Cotejos y su “Apéndice Electrónico”, seguirá ejecutándose como se venía haciendo de acuerdo con el marco normativo anterior, hasta en tanto el Colegio de Notarios vaya dando a conocer las fechas de inicio de operación de cada módulo a sus miembros y se vayan publicando las Reglas de Uso correspondientes para tales efectos, y se liberen dichos módulos mediante acuerdos equivalentes a éste, siendo obligatorio su uso a partir de que eso ocurra.
+
+SÉPTIMO.- Los Libros de Registro de Cotejos que se encuentren en uso hasta el 31 de diciembre de 2019 deberán ser cerrados por cada Notario en el estado de uso en el que se encuentren y comunicarse a la Autoridad competente el número de registro en el que se cierren, indicando así mismo el número de folio donde consta asentado el último registro, por lo que al inicio de operación del módulo del “Sistema Informático” y su “Red Integral Notarial” correspondiente al Libro de Registro de Cotejos con su respectivo “Apéndice Electrónico de Cotejos”, es decir, el 1 de enero de 2020 deberá iniciarse un nuevo libro con la utilización del “Sistema Informático” mismo que se abrirá con el número consecutivo de registro de cotejo que corresponda, en el que, de acuerdo con lo señalado en el presente y en las disposiciones normativas aplicables, los Notarios procederán conforme a las mismas. Para tal efecto, los notarios, en una hoja no foliada, asentarán la razón de terminación a que se refiere el artículo 98 de la Ley del Notariado para la Ciudad de México pudiendo constar dicho libro, en consecuencia, de un número menor a doscientos folios.
+
+OCTAVO.- Para el inicio del nuevo Libro de Registro de Cotejos a que se refiere el artículo séptimo transitorio de este acuerdo, el notario, después de asentar en una hoja no foliada la razón de apertura a que se refiere el artículo 98 de la Ley del Notariado para la Ciudad de México, utilizará el siguiente folio que corresponda en el orden que venía utilizando los folios para tal efecto. El nuevo libro y subsecuentes libros deberán constar de doscientos folios conforme a lo dispuesto por el artículo 98 referido.
+
+## TRANSITORIOS
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente acuerdo entrará en vigor a partir del 31 de diciembre de 2019.
