@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2019-12-23"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -489,9 +489,9 @@ Para que proceda lo que se prevé en esta fracción, será necesario que el ofen
 
 En los supuestos de las fracciones II y III, cuando el responsable de resarcir daños carezca de medios y recursos para realizar el pago correspondiente, el Estado, a través de sus organismos y dependencias competentes, tendrá la obligación de proporcionar a la víctima los tratamientos y cuidados necesarios para su recuperación, en términos de la Ley de Atención y Protección a Víctimas del Delito, la Ley de Prevención y Atención de la Violencia Familiar para el Estado de Sonora, y en su caso, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sonora.
 
-> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del artículo 31 BIS, se considera que siempre existe daño moral en los delitos siguientes: sexting contemplado en el artículo 167 Bis de este Código, corrupción de menores de edad e incapaces, utilización de imágenes y/o voces de personas menores de edad para la pornografía, relaciones sexuales remuneradas con personas menores de edad, violación, violencia familiar, rapto, acoso sexual, abusos deshonestos, privación ilegal de libertad, homicidio, feminicidio, chantaje, hostigamiento sexual, delitos contra la autoridad, delitos contra la intimidad personal, y fraude familiar.
+ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del artículo 31 BIS, se considera que siempre existe daño moral en los delitos siguientes: sexting contemplado en el artículo 167 Bis de este Código, corrupción de menores de edad e incapaces, utilización de imágenes y/o voces de personas menores de edad para la pornografía, relaciones sexuales remuneradas con personas menores de edad, violación, violencia familiar, acoso sexual, abusos deshonestos, privación ilegal de libertad, homicidio, feminicidio, chantaje, hostigamiento sexual, delitos contra la autoridad, delitos contra la intimidad personal, y fraude familiar.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -2031,6 +2031,18 @@ Cuando el delito fuere cometido por un servidor público o un profesionista en e
 
 Para efecto de determinar el daño ocasionado al libre desarrollo de la personalidad de la víctima por los delitos a los que se refiere el presente capítulo, se deberán solicitar los dictámenes necesarios para conocer su afectación. En caso de incumplimiento a la presente disposición por parte del Ministerio Público, éste será sancionado en los términos del presente Código y de la legislación aplicable. En los casos en que el sentenciado no pueda garantizar la atención médica psicológica o de la especialidad que requiera, el Estado deberá proporcionar esos servicios a la víctima.
 
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 169-D.
+
+Comete el delito de turismo sexual quien promueva, publicite, invite, facilite o gestione por cualquier medio a que una o más personas viajen al interior o exterior del territorio estatal con la finalidad de que realice cualquier tipo de actos sexuales reales o simulados con una o varias personas menores de dieciocho años de edad, o con una o varias personas que no tienen capacidad para comprender el significado del hecho o con una o varias personas que no tienen capacidad para resistirlo. Al autor de este delito se le impondrá una pena de diez a quince años de prisión y multa de mil a mil quinientas unidades de medida y actualización.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 169-E.
+
+A quien, a través del turismo sexual, realice cualquier tipo de actos sexuales reales o simulados con una o varias personas menores de dieciocho años de edad, o con una o varias personas que no tienen capacidad para comprender el significado del hecho o con una o varias personas que no tienen capacidad para resistirlo, se le impondrá una pena de quince a veinte años de prisión y una multa de dos mil a tres mil unidades de medida y actualización.
+
 > <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 170.
@@ -2881,8 +2893,6 @@ En el supuesto señalado en la fracción V del presente artículo, además de la
 
 ### CAPITULO IV. RAPTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
-
 ###### ARTICULO 215.
 
 Comete el delito de estupro el que tiene cópula con persona mayor de doce y menor de dieciocho años, obteniendo su consentimiento por medio de seducción o cualquier tipo de engaño. Al estuprador, se le sancionará con prisión de dos a cuatro años y multa de cien a trescientas unidades de medida y actualización.
@@ -2912,6 +2922,10 @@ La reparación del daño, en los casos de estupro, comprenderá el pago de los a
 Al que por medio de la violencia física o moral tenga cópula con una persona, sea cual fuere su sexo, se le aplicará de cinco a quince años de prisión.
 
 Para los efectos de este Capítulo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima, por vía vaginal, anal u oral, independientemente de su sexo.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Si entre el sujeto activo y el sujeto pasivo de la violación existiera un vínculo matrimonial, de concubinato o de pareja, se impondrá la pena prevista en este artículo. En estos casos el delito se perseguirá por querella.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE MAYO DEL 2001)</small>
 
@@ -2971,27 +2985,23 @@ La pérdida de la patria potestad por parte del sentenciado, no implica la falta
 
 En el supuesto señalado en la fracción VI del presente artículo, además de la pena privativa de libertad, se impondrán destitución, en su caso, e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, o para ejercer profesión hasta por cinco años.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ### CAPITULO I. SUPOSICION, SUPRESION, OCULTACION Y SUBSTITUCION DE INFANTE; Y VIOLACION DE IMPEDIMENTOS CIVILES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 221.
 
-Al que sustrajere o retuviere a una mujer por medio de la violencia física o moral, de la seducción o del engaño, para satisfacer algún deseo erótico o para casarse, se le aplicarán de seis meses a seis años de prisión y multa de diez a doscientas Unidades de Medida y Actualización.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
-
-Cuando la conducta señalada en el párrafo anterior se realice en el interior de las instituciones de educación básica, media superior, superior o en sus inmediaciones, la sanción se incrementará en una mitad.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 222.
 
-Se impondrá también la sanción del artículo anterior, aunque el raptor no emplee la violencia ni el engaño, sino solamente la seducción y consienta en el rapto la mujer, si ésta fuere menor de dieciséis años.
-
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 223.
 
-Por el sólo hecho de no haber cumplido dieciocho años la mujer raptada que voluntariamente siga a su raptor, se presume que éste empleó la seducción.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 224.
 
@@ -2999,9 +3009,7 @@ Por el sólo hecho de no haber cumplido dieciocho años la mujer raptada que vol
 
 ###### ARTICULO 225.
 
-No se procederá contra el raptor, sino por queja de la mujer ofendida o de su marido, si fuere casada; pero si la raptada fuere menor de edad, por queja de quien ejerza la patria protestad o la tutela, o, en su defecto de la misma menor.
-
-Cuando el rapto se acompañe con otro delito perseguible de oficio, sí se procederá contra el raptor, por este último.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 ### CAPITULO II. BIGAMIA
 
@@ -4029,6 +4037,12 @@ ARTICULO 295 BIS.- Si el sujeto activo, espontáneamente, deja en libertad a la 
 
 Se equipara al delito de privación ilegal de libertad y se sancionará con la pena prevista en el artículo 294 de este Código a quien, por cualquier medio, ilegalmente obligue a otro a llevar a cabo una conducta o abstenerse de realizarla, afectándole su capacidad de actuar, de cualquier modo.
 
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 295-B.
+
+Se considera que comete el delito de privación ilegal de libertad, para los efectos de la sanción prevista en el artículo 294, al que sustrajere o retuviere a una mujer por medio de la violencia física o moral con la finalidad de menoscabar su integridad sexual.
+
 ### CAPITULO III. ABUSO DE CONFIANZA
 
 ###### ARTICULO 296.
@@ -4787,6 +4801,12 @@ En caso de reincidencia se aumentarán las sanciones a que se refieren los prece
 
 Ninguna suspensión de derechos políticos podrá acordarse sin que previamente se oiga en defensa al interesado.
 
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 336 BIS.- Se impondrá prisión de dos a seis años y multa de diez a doscientas Unidades de Medida y de (sic) Actualización, a quien cometa el delito de violencia política de género.
+
+Se entenderá por violencia política de género a quien por cualquier medio impida, obstaculice o realice por sí o a través de terceros cualquier acción u omisión con el ánimo de causar daño físico, psicológico, sexual, económico o de otra índole, resultado de discriminación por razón de género en contra de una o más mujeres que tenga como propósito restringir, suspender o impedir el ejercicio de sus derechos político-electorales o inducirla u obligarla a tomar decisiones de la misma índole en contra de su voluntad o de la ley.
+
 ## TITULO VIGESIMO TERCERO. DELITOS CONTRA LA ECOLOGIA
 
 ###### ARTICULO 337.
@@ -5375,8 +5395,40 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 B.O. 23 DE DICIEMBRE DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 84, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL DEL ESTADO DE SONORA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 84, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL DEL ESTADO DE SONORA”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+B.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 79, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 80, QUE ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 81, QUE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 218 DEL CÓDIGO PENAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 82, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA Y EL CÓDIGO PENAL DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
