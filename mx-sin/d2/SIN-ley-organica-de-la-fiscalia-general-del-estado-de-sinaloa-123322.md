@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-fiscalia-general-del-estado-de-sinaloa-12332
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-09-08"
-last_updated: "2019-07-22"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "SIN"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE SINALOA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE FEBRERO DE 2020 EN EL P.O. DEL ESTADO DE SINALOA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 8 de septiembre de 2017.
 
@@ -395,7 +393,9 @@ Son obligaciones del Fiscal General:
 
 I. Ejercer con máxima diligencia las atribuciones que como titular del Ministerio Público y de la Fiscalía General le confiere la Ley;
 
-II. Presentar anualmente a los Poderes Legislativo y Ejecutivo del Estado, el informe de actividades a que se refiere el artículo 76 Bis de la Constitución del Estado, así como comparecer ante dichos poderes cuando se le cite a rendir cuentas o a informar sobre su gestión;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+II. Presentar en el mes de enero de cada año a los Poderes Legislativo y Ejecutivo del Estado, un informe de actividades a que se refiere el artículo 76 Bis de la Constitución Política del Estado de Sinaloa, así como comparecer ante ellos cuando se le cite a rendir cuentas o a informar sobre su gestión.
 
 III. Emitir el Reglamento y las demás disposiciones normativas necesarias para prevenir, investigar y, en su caso, solicitar la reparación del daño por violaciones a derechos humanos, en los términos de la Constitución Federal, la Constitución del Estado, y las leyes aplicables; y
 
@@ -1660,3 +1660,13 @@ Los procedimientos iniciados por el delito de tortura antes de la entrada en vig
 ###### ARTÍCULO NOVENO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 374 QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 15 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. Para el informe que corresponde al ejercicio de actividades del 15 de marzo al 31 de diciembre de 2019 de la Fiscalía General del Estado, se presentará por única ocasión en el mes de julio de 2020.
+
+El informe que corresponde al ejercicio anual de actividades del año 2020, se presentará en el mes de enero del año 2021; los subsecuentes se apegarán a lo establecido en el artículo 15 fracción II de este Decreto.
