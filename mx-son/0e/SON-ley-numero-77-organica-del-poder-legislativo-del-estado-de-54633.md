@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2019-10-31"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY NUMERO 77 ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ENERO DE 2020 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -261,7 +263,7 @@ VII.- Asociarse para formar parte de un Grupo Parlamentario, en los términos de
 
 VIII.- Percibir la dieta mensual;
 
-IX.- Gozar en lo individual de un seguro de vida y uno de gastos médicos;
+IX.- (DEROGADA, B.O. 27 DE DICIEMBRE DE 2019)
 
 X.- Contar con un cubículo dentro del recinto oficial e instalaciones necesarias para establecer un enlace permanente con sus representados, a efecto de retroalimentar su función legislativa y dar seguimiento a sus demandas; en ambos casos contará con personal de apoyo y asesoría y demás elementos necesarios para el cumplimiento de sus funciones y comisiones;
 
@@ -395,13 +397,17 @@ V.- Portar armas dentro del recinto legislativo; y
 
 VI.- Cuando acumulen tres retardos en un periodo de treinta días naturales, tanto en las sesiones del pleno del Congreso del Estado como en las reuniones de comisión, consideradas separadamente.
 
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 46.
 
 Tratándose de disminución de la dieta por inasistencias injustificadas o retardos a sesiones del pleno del Congreso del Estado o reuniones de comisiones, se observará lo siguiente:
 
-I.- Al término de cada sesión del pleno del Congreso del Estado o reunión de comisión, el Presidente de la Mesa Directiva o de la comisión correspondiente, informará a Oficialía Mayor y notificará por escrito y personalmente al diputado que no asistió a la sesión o reunión respectiva, del registro de su falta o retardo, a efecto de que éste, en un plazo de tres días hábiles, justifique la inasistencia o retardos en términos de la presente ley ante la Presidencia de la Mesa Directiva o de la comisión, según corresponda; y
+I.- Los diputados que no puedan asistir a sesiones del pleno sean ordinarias o extraordinarias, o comisiones del congreso deberán justificar fehacientemente sus inasistencias cuando menos con 24 horas de anticipación a la hora que esta citada la sesión o la comisión respectiva.
 
-II.- En caso de que el diputado no justifique su inasistencia o retardo, vencido el término a que se refiere la fracción anterior, la Comisión de Régimen Interno y Concertación Política ordenará fundada y motivadamente la ejecución de los descuentos a Oficialía Mayor, previa notificación personal al diputado infractor.
+II.- De igual manera, en caso de inasistencia de algún diputado por motivo de caso fortuito o fuerza mayor, quien no asistió a la sesión o reunión respectiva, contará con un plazo de 24 horas para justificar fehacientemente por el que no acudió o se retardo en términos de la presente ley ante la Presidencia de la Mesa Directiva o de la comisión, según corresponda, debiendo presentar copia ante Oficialía Mayor. Al término de cada sesión del pleno del Congreso del Estado o reunión de comisión, el Presidente de la Mesa Directiva o de la comisión correspondiente, informará a Oficialía Mayor del registro de la falta o retardo: y
+
+III.- En caso de que el diputado no justifique su inasistencia o retardo, vencido el término a que se refiere (sic) las fracciones anteriores del presente artículo, Oficialía Mayor girará la instrucción para que se realicen los descuentos correspondientes sin ningún trámite adicional de por medio.
 
 ###### ARTÍCULO 47.
 
@@ -736,6 +742,14 @@ Tratándose de dictámenes que versen sobre reformas, adiciones o derogaciones a
 Por lo que toca a dictámenes que versen sobre leyes de ingresos y decretos de egresos, deberán ser entregados a los integrantes de las comisiones correspondientes con cinco días hábiles de anticipación a la fecha en que la Comisión lleve a cabo su reunión para la dictaminación correspondiente de los mismos.
 
 Cuando los dictámenes versen sobre Decretos y Acuerdos, los dictámenes deberán ser entregados a los integrantes de las comisiones correspondientes con dos días hábiles de anticipación a la fecha en que la Comisión lleve a cabo su reunión para la dictaminación correspondiente de los mismos.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Tratándose de las minutas recibidas sobre modificaciones a la Constitución Política de los Estados Unidos Mexicanos, el Presidente del Congreso las turnará de manera inmediata a la Comisión de Gobernación y Puntos Constitucionales, para que dicha Comisión dictamine y presente la Minuta para su publicación en la Gaceta Parlamentaria a fin de que esta sea sometida al pleno para su discusión y aprobación, en su caso. La presentación del dictamen de la comisión ante el pleno, deberán (sic) ser en la siguiente sesión a la fecha de su dictaminación o en el menor plazo posible, en los términos de la presente Ley.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Para los efectos del párrafo anterior, en el caso de la Diputación Permanente, además de turnar la Minuta de manera inmediata a la Comisión de Gobernación y Puntos Constitucionales, tendría que estar convocando con carácter urgente a sesión extraordinaria, para someterse al pleno para su discusión y aprobación, en su caso, mediante la emisión del dictamen correspondiente.
 
 ###### ARTÍCULO 90.
 
@@ -2637,29 +2651,43 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 B.O. 31 DE OCTUBRE DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 66, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ARTÍCULO 92 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 66, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ARTÍCULO 92 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE ATENTADOS AL PUDOR, ESTUPRO, VIOLACIÓN EQUIPARADA, HOSTIGAMIENTO O ACOSO SEXUAL, LESIONES A MUJERES CON SUSTANCIAS CORROSIVAS Y MALTRATO ANIMAL”.]
+B.O. 27 DE DICIEMBRE DE 2019.
 
-ÚNICO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 75, QUE REFORMA EL ARTÍCULO 46 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA”.]
 
-P.O. 7 DE JUNIO DE 2021.
+###### ARTÍCULO ÚNICO.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 306 DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT”.]
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+B.O. 27 DE DICIEMBRE DE 2019.
 
-P.O. 6 DE OCTUBRE DE 2021.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 83, QUE ADICIONA DIVERSAS DISPOSICIONES AL ARTÍCULO 89 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA”.]
 
-## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 247 DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE DELITO DE COHECHO”.]
+###### ARTÍCULO ÚNICO.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-P.O. 9 DE DICIEMBRE DE 2021.
+B.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 91, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, DE LA LEY DE HACIENDA DEL ESTADO, DE LA LEY DE TRÁNSITO DEL ESTADO DE SONORA, DE LA LEY DE BIENES Y CONCESIONES, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, DE LA LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE SONORA Y DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 01 de enero de 2020, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para que la Secretaría de Hacienda del Estado de Sonora, esté en posibilidades de dar cabal cumplimiento a lo dispuesto en los artículos 17, párrafo segundo de la Ley de Tránsito del Estado de Sonora y 316, párrafos tercero, cuarto y quinto de la Ley de Hacienda del Estado, deberá realizar el proceso de contratación sujetándose a lo previsto en el artículo 25 de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal. Debiendo cubrir el pago de la póliza de seguro de responsabilidad civil en el mes de enero del 2020, para que los ciudadanos obtengan el beneficio planteado en los artículos señalados de las leyes de Tránsito del Estado de Sonora y de Hacienda del Estado, a partir del primer minuto del primer día de dicho año.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DEL DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD; AGRAVANTE DEL DELITO DE FEMINICIDIO, Y DE COMBATE A LOS CRÍMENES DE ODIO”.]
 
