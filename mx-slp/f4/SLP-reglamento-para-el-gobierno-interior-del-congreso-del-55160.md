@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2019-11-26"
+last_updated: "2019-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -821,15 +821,13 @@ VI. La dispensa de trámites en el procedimiento de las iniciativas sólo será 
 
 No podrán presentarse iniciativas en la sesión si éstas no fueron previamente incluidas en la Gaceta Parlamentaria, a excepción de la dispensa enunciada en la fracción precedente.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 76.
 
-Las propuestas de iniciativas de los diputados deberán estar firmadas y serán presentadas al Presidente por escrito y en dispositivo de almacenamiento de datos; podrá leer en la sesión respectiva un extracto de la misma. La iniciativa será turnada a la comisión correspondiente en los términos establecidos en la fracción III del artículo 75 de este mismo Ordenamiento.
+Las propuestas de iniciativas de las y los diputados, deberán estar firmadas y serán presentadas al Presidente por escrito y en dispositivo de almacenamiento de datos; podrá leer en la sesión respectiva un extracto de la misma. La iniciativa será turnada a la comisión correspondiente en los términos establecidos en la fracción III del artículo 75 de este mismo Ordenamiento.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
-
-El derecho de adhesión a una iniciativa deberá ser ejercido a través de la Directiva a petición del solicitante, que únicamente procederá previa consulta y aceptación del promovente, una vez que haya concluido su presentación ante el Pleno. Las adhesiones deberán asentarse en la acta de la sesión.
+El derecho de adhesión a una iniciativa deberá ser ejercido a través de la Directiva a petición del solicitante, que únicamente procederá previa consulta y aceptación del promovente, una vez que haya concluido su presentación ante el Pleno. Las adhesiones deberán asentarse en el acta de la sesión.
 
 ###### ARTICULO 77.
 
@@ -2880,3 +2878,11 @@ P.O. 26 DE NOVIEMBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+> <small>[N. DE E. TRANSIORIOS DEL “DECRETO 0458.- SE REFORMA EL ARTÍCULO 76 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]</small>
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
