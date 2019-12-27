@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-municipio-de-san-jose-de-gracia-132270"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2018-12-24"
-last_updated: "2018-12-24"
+last_updated: "2019-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 ---
 # LEY DE INGRESOS DEL MUNICIPIO DE SAN JOSE DE GRACIA, AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2019
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DE LA LEY DE INGRESOS DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2020, PUBLICADA EN EL P.O. EXTRAORDINARIO DE LA DÉCIMA SEGUNDA SECCIÓN AL NÚMERO 37 DEL 27 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A PARTIR DEL 1 DE ENERO DE 2020]</small>
+
 LEY DE INGRESOS DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2019
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en la Edición Vespertina de la Décima Segunda Sección al Número 52 del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2018.
 
@@ -87,7 +89,7 @@ IX. POR INFORMACIÓN PROPORCIONADA EN DIGITAL, POR CADA CD $44.50
 
 X. Por certificados o constancias de no adeudo al Municipio y otros similares $44.50
 
-XI. Expedición de constancias de avalúo en base al Padrón $65.00
+XI. Expedición de constancias de avalúo en base al padrón $65.00
 
 XII. Expedición de constancias de traslado de dominio catastral $159.00
 
