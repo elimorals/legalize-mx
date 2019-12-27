@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-tizimin-yucatan-53553"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-28"
-last_updated: "2016-12-28"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE TIZIMIN, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el jueves 28 de diciembre de 2006.
 
@@ -1196,6 +1196,32 @@ Los usuarios de este servicio están obligados a permitir que las autoridades fi
 
 Es objeto del derecho por los servicios que presta el Laboratorio de análisis clínicos del municipio, la entrega de los resultados obtenidos de los estudios químicos por escrito, firmados por el químico correspondiente a cargo del laboratorio.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+#### Sección Décimo Cuarta. Derechos por Servicios de Protección Civil
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 132 Ter.
+
+Son sujetos de los derechos establecidos en esta sección las personas físicas o morales que soliciten, cualquiera de los servicios a que se refiere esta sección.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 132 Quater.
+
+El objeto de los derechos establecidos en esta sección son los servicios prestados por el Departamento de Protección Civil por concepto de:
+
+I.- Constancia de Conformidad respecto de seguridad y ubicación para el consumo de Pirotecnia y Explosivos, y
+
+II.- Resultado de visita de verificación voluntaria.
+
+III.- Por capacitación
+
+IV.- Aprobaciones y/o Dictámenes
+
+Es objeto del derecho por los servicios que presta por servicios de protección civil del municipio, la entrega de los resultados obtenidos de los estudios, dictámenes, que los particulares o dependencias públicas puedan ejercer la actividad de asesoría, capacitación, evaluación, elaboración de programas internos de protección civil, de continuidad de operaciones y estudios de vulnerabilidad y riesgos en materia de protección civil, deberán contar con el registro expedido por la autoridad competente de protección civil.
+
 ### CAPÍTULO III. Contribuciones Especiales
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
@@ -1671,3 +1697,11 @@ D.O. 28 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día primero de enero del año dos mil diecisiete, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 152/2019 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CHICXULUB PUEBLO, CHOCHOLÁ, DZIDZANTÚN, MOTUL, SACALUM, TEKAX, TEMAX, TIZIMÍN, TZUCACAB Y UMAN”.]
+
+Artículo primero.- Este Decreto entrará en vigor el día primero de enero del año 2020, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo.- En cuanto a la Ley de Hacienda para el Municipio de Motul, Yucatán, en el ejercicio fiscal 2020, el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder de un 10 % del que le haya correspondido durante el ejercicio fiscal 2019 para los predios cuyo valor catastral sea menor o igual a $ 350,000.00 y para los predios cuyo valor catastral sea mayor a $350,000.00, el impuesto predial no podrá exceder de un 15 % del que le haya correspondido durante el ejercicio fiscal 2019. El comparativo se hará con base en el impuesto principal, sin tomar en consideración bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
