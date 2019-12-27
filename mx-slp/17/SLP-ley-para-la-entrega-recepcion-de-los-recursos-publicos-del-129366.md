@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-entrega-recepcion-de-los-recursos-publicos-del-1293
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-21"
-last_updated: "2019-05-22"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ENTREGA-RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 21 de junio de 2018.
 
@@ -453,7 +453,9 @@ IX. Entregar al titular del Poder Ejecutivo en un acto protocolario el expedient
 
 X. Elaborar un libro blanco en el cual se establecerá constancia documental del desarrollo de programas, y proyectos de gobierno de alto impacto social, en la que describa y presente de manera cronológica las acciones conceptuales, legales, presupuestarias, administrativas, operativas y de seguimiento que se hayan realizado, así como los resultados obtenidos por el programa o proyecto, y
 
-X. (SIC) Las demás que le confieran la presente Ley y otros ordenamientos jurídicos vigentes, para la debida realización del proceso de entrega-recepción.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+XI. Las demás que le confieran la presente Ley y otros ordenamientos jurídicos vigentes, para la debida realización del proceso de entrega-recepción.
 
 ###### ARTÍCULO 21.
 
@@ -903,15 +905,17 @@ La comisión de entrega será designada mediante Acuerdo de Cabildo, misma que s
 
 Las comisiones de entrega y enlace se integrarán a más tardar, cuarenta y cinco días antes del acto protocolario de entrega-recepción.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 57.
 
-La comisión de recepción será designada por el presidente electo mediante escrito; y se integrará por el Síndico y las personas que al efecto sean designadas, además de un regidor electo de cada partido político representado en el Cabildo, de entre los cuales nombrará un Secretario Técnico.
+La comisión de recepción será designada mediante escrito firmado por el Presidente, un síndico, así como un regidor de cada partido político representado en el Cabildo electo; se integrará al menos por un Síndico y un regidor de cada partido político representado en el Cabildo electo, de entre los cuales se nombrará un Secretario Técnico.
 
 Los anteriores servidores públicos electos para acreditar su personalidad deberán exhibir la constancia de mayoría o asignación expedida por el Consejo Estatal Electoral y de Participación Ciudadana del Estado de San Luis Potosí.
 
-La comisión de recepción se integrará cuarenta y cinco días antes del acto protocolario de entrega-recepción.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+La comisión de recepción se integrará cuarenta y cinco días naturales antes del acto protocolario de entrega-recepción.
 
 ###### ARTÍCULO 58.
 
@@ -921,9 +925,11 @@ Una vez que las comisiones de entrega y recepción sean integradas, notificaran 
 
 La Auditoría Superior del Estado, designará al personal necesario que dará seguimiento al avance del proceso de entrega-recepción, notificando de tal designación a los presidentes municipales saliente y electo. Y en caso de ser necesario a juicio de la o del Titular de la Auditor (sic) Superior, tales representantes de la Entidad de Fiscalización, podrán acudir en cualquier momento a las oficinas del Ayuntamiento correspondiente para solicitar aclaraciones, información y documentación que considere necesarios para que el proceso de entrega-recepción se ajuste a lo dispuesto en la presente Ley y demás ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 60.
 
-Los servidores públicos del Ayuntamiento saliente en el ámbito de sus respectivas atribuciones, serán responsables de integrar oportunamente el expediente de entrega-recepción de acuerdo a la información que le corresponda a cada área, el cual deberá contener al menos la información que señala el capítulo de la integración de la información de entrega-recepción de la presente Ley. Se emitirá en un original y tres copias, debiendo permanecer el original en la Presidencia Municipal, una copia invariablemente en los archivos del Órgano de Control Interno de que se trate, la segunda copia será para la Auditoría Superior del Estado y la tercera copia para los representantes del Ayuntamiento saliente.
+Los servidores públicos del Ayuntamiento saliente en el ámbito de sus respectivas atribuciones, serán responsables de integrar oportunamente el expediente de entrega-recepción de acuerdo a la información que le corresponda a cada área, el cual deberá contener al menos la información que señala el capítulo de la integración de la información de entrega-recepción de la presente Ley. Se emitirá en un original y tres copias, debiendo permanecer el original en la Presidencia Municipal, una copia invariablemente en los archivos del Órgano de Control Interno de que se trate, la segunda copia será para la Auditoría Superior del Estado y la tercera copia para el servidor público saliente. En caso de ser más de uno el servidor público saliente, a todos se les proporcionará copia del expediente de entrega recepción.
 
 Los representantes del Ayuntamiento saliente y entrante, así como la Auditoría Superior del Estado, deberán efectuar la verificación física preliminar del contenido del expediente de entrega-recepción.
 
@@ -1050,5 +1056,13 @@ P.O. 22 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0169 BIS.- SE REFORMAN LOS ARTÍCULOS 10, 17, Y 50; Y ADICIONA AL ARTÍCULO 7°; ASÍ MISMO, SE DEROGA DEL ARTÍCULO 7° EN SU FRACCIÓN II EL INCISO B), DE LA LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0441.- SE REFORMAN LOS ARTÍCULOS 20, 57 Y 60 DE LA LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
