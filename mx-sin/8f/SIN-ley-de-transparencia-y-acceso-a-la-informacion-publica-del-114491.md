@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1144
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2017-06-26"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Sinaloa, el miércoles 4 de mayo de 2016.
 
@@ -136,6 +136,10 @@ XIX. Metadato: Son datos que describen o identifican otros datos.
 XX. Plataforma Nacional: La Plataforma Nacional de Transparencia a que hace referencia el artículo 49 de la Ley General;
 
 XXI. Pleno: Órgano supremo de decisión de la Comisión, integrado por las o los Comisionados;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+XXI Bis. Portal web accesible: El sitio de internet que se presenta con elementos que facilitan a todas las personas, el acceso y el uso de información, bienes y servicios disponibles, independientemente de las limitaciones que tengan quienes accedan a éstas, o de las limitaciones derivadas de su entorno, sean físicas, educativas o socioeconómicas;
 
 XXII. Servidores públicos: Los mencionados en el artículo 130 de la Constitución Política del Estado de Sinaloa;
 
@@ -304,6 +308,10 @@ IX. Fomentar el uso de tecnologías de la información para garantizar la transp
 X. Cumplir con las resoluciones emitidas por la Comisión;
 
 XI. Publicar y mantener actualizada la información relativa a las obligaciones de transparencia;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+XI Bis. Realizar adaptaciones para contar con un portal web accesible;
 
 XII. Responder sustancialmente a las solicitudes de información que les sean formuladas;
 
@@ -2557,7 +2565,7 @@ DIPUTADO SECRETARIO
 
 Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-Es dado en el Palacio del Poder Ejecutivo del Estado en la ciudad de Culiacán Rosales, Sinaloa, a los tres días del mes de mayo del año dos mil dieciséis.
+Es dado en el Palacio del Poder Ejecutivo del Estado en la ciudad de Culiacán Rosales, Sinaloa, a los tres días del mes de mayo del dos mil dieciséis.
 
 El Gobernador Constitucional del Estado
 
@@ -2592,3 +2600,11 @@ Quinto. Las referencias relativas a la Ley General de Responsabilidades Administ
 Sexto. Los Ayuntamientos, dentro de los 180 días siguientes a la publicación de este Decreto, iniciarán los procesos de designación de los titulares de los órganos internos de control que ejerzan recursos públicos, previstos en este Decreto.
 
 Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos que ejercen recursos públicos que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política del Estado de Sinaloa, en materia de combate a la corrupción, publicado en el Periódico Oficial "El Estado de Sinaloa" el 17 de marzo de 2017, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 313 DEL H. CONGRESO DEL ESTADO.- SE ADICIONAN LAS FRACCIONES XXI BIS AL ARTÍCULO 3, Y LA XI BIS AL ARTÍCULO 22 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Los sujetos obligados tendrán un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, para implementar las acciones necesarias para instaurar su portal web accesible, en los términos del mismo.
