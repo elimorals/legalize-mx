@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2019-12-13"
+last_updated: "2019-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -3405,6 +3405,8 @@ Las penas anteriores se incrementarán en un tercio, cuando la persona obre de c
 
 ARTÍCULO 293 TER. A la persona privada de su libertad que se fugue mientras compurga alguna pena privativa de libertad, o en cumplimiento de una medida cautelar de prisión preventiva, no se le contará el tiempo que pase fuera del lugar en que deba hacerla efectiva, ni se tendrá en cuenta la buena conducta que haya tenido antes de la fuga.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 276.
 
 Comete el delito de quebrantamiento de sellos quien altera, destruye o quita los sellos puestos por orden de la autoridad.
@@ -3491,6 +3493,8 @@ No se impondrá sanción alguna, en el caso de la fracción I del artículo 280 
 
 ### CAPÍTULO IV. Disposiciones comunes a los Delitos previstos en los Capítulos I a III
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 284.
 
 Comete el delito de falso testimonio quien:
@@ -3511,9 +3515,9 @@ Este delito se sancionará con una pena de uno a tres años de prisión, sanció
 
 En el caso de la fracción III de este artículo, la pena será de uno a cuatro años de prisión y sanción pecuniaria de cien a cuatrocientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO V. Maltrato a los Animales Domésticos
+### CAPÍTULO V. Maltrato a los Animales Domésticos y Silvestres
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 285.
 
@@ -3617,7 +3621,7 @@ Si el procesado o sentenciado fue inculpado por cualquier delito de los consider
 
 ### CAPÍTULO VII. Tortura
 
-## TÍTULO DÉCIMO QUINTO. DELITOS CONTRA EL AMBIENTE; LA GESTION AMBIENTAL; EL DESARROLLO TERRITORIAL SUSTENTABLE; Y EL MALTRATO A LOS ANIMALES DOMESTICOS
+## TÍTULO DÉCIMO QUINTO. DELITOS CONTRA EL AMBIENTE; LA GESTIÓN AMBIENTAL; EL DESARROLLO TERRITORIAL SUSTENTABLE; Y EL MALTRATO A LOS ANIMALES DOMÉSTICOS Y SILVESTRES
 
 ### CAPÍTULO VIII. Tráfico de Influencia
 
@@ -3907,7 +3911,7 @@ VII. Realice obras, o edificaciones en suelos destinados a, vialidades; áreas v
 
 ###### ARTÍCULO 309.
 
-Para los efectos de los capítulos I a III del presente Título se estará a las definiciones establecidas en la Ley General del Equilibrio Ecológico y la Protección Ambiental; y la Ley Ambiental del Estado de San Luis Potosí, así como las determinadas en los ordenamientos aplicables.
+Para los efectos de los capítulos, I, II, III, y V, del presente Título, se estará a las definiciones establecidas en la Ley General del Equilibrio Ecológico y la Protección Ambiental; la Ley Ambiental del Estado de San Luis Potosí; y la Ley Estatal de Protección a los Animales; así como las determinadas en los ordenamientos aplicables.
 
 ###### ARTÍCULO 310.
 
@@ -3918,6 +3922,10 @@ Los delitos previstos en los capítulos I a III del presente Título se persegui
 La Secretaría de Ecología y Gestión Ambiental deberá coadyuvar con la autoridad que conozca de la investigación, o el proceso penal seguido por las denuncias o querellas, respecto de los delitos a que se refieren los capítulos I a III de este Titulo.
 
 La Secretaría de Ecología y Gestión Ambiental del Estado tiene la facultad para otorgar el perdón, por la comisión de delitos tipificados en los capítulos I a III del presente Título, en los casos que proceda.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
+Asimismo, para el caso del capítulo V de este Título, el síndico municipal tiene la obligación de colaborar con la autoridad que conozca de la investigación, o el proceso penal seguido por las denuncias o querellas presentadas por la probable comisión del delito de maltrato animal, o bien, cuando tenga conocimiento pleno del hecho, deberá presentar la denuncia correspondiente, adjuntando todo dato de prueba que se encuentre a su alcance.
 
 ###### ARTÍCULO 312.
 
@@ -3947,6 +3955,8 @@ En caso de concurso de delitos, en lo referente a la reparación del daño, tend
 
 Cuando en la comisión de un delito previsto en los capítulos I a III de este Título intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor, la pena de prisión se aumentará en una mitad y será destituido del cargo, e inhabilitará para ocupar empleo o comisión en el servicio público de tres a diez años.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2019)</small>
+
 ### CAPÍTULO XII. Delitos Cometidos por Servidores Públicos en la Procuración e Impartición de Justicia
 
 > <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL CONTENIDO Y ESTRUCTURA DEL ARTÍCULO 342 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL CONTENIDO Y ESTRUCTURA PREVIO A LA REFORMA DE 27 DE MAYO DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 18 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 342 .... I a V .... Este delito se castigará con una pena de uno a cuatro años de prisión, sanción pecuniaria de cien a cuatrocientos días del valor de la unidad de medida y actualización, y destitución e inhabilitación de su empleo, cargo o comisión públicos, por el doble del lapso de la privación de la libertad que sea impuesta."]</small>
@@ -3955,17 +3965,19 @@ Cuando en la comisión de un delito previsto en los capítulos I a III de este T
 
 ###### ARTÍCULO 317.
 
-Comete el delito de maltrato animal, quien con ensañamiento o crueldad, por acción u omisión, maltrata animales domésticos, provocándoles lesiones que produzcan un menoscabo físico, o les cause la muerte. Este delito se sancionará con las siguientes penas:
+Comete el delito de maltrato animal, quien con ensañamiento o crueldad, por acción u omisión, maltrata animales domésticos y/o silvestres, provocándoles lesiones que produzcan un menoscabo físico, o les cause la muerte; así como quien realice actos sádicos o zoofílicos, o de exposición a condiciones de sobreexplotación de su capacidad física con cualquier fin, contra cualquier animal doméstico y/o silvestre, ya sea por acción directa, omisión o negligencia. Este delito se sancionará con las siguientes penas:
 
-I. Cuando el maltrato implique lesiones mínimas, que no produzca un menoscabo físico permanente, se impondrá pena de tres a seis meses de prisión, y sanción pecuniaria de diez a cincuenta días del valor de la unidad de medida de actualización vigente; e inhabilitación hasta por un año para el ejercicio de la profesión, oficio o comercio, cuando quien lo cometió se dedique al cuidado de animales;
+I. Cuando el maltrato implique lesiones mínimas, que no produzca un menoscabo físico permanente, se impondrá pena de cuatro a nueve meses de prisión, y sanción pecuniaria de veinte a cien días del valor de la unidad de medida de actualización vigente; e inhabilitación hasta por un año para el ejercicio de la profesión, oficio o comercio, cuando quien lo cometió se dedique al cuidado de animales;
 
-II. Cuando el maltrato implique lesiones que produzcan un menoscabo físico permanente, se impondrá pena de seis meses a un año de prisión, y sanción pecuniaria de cien a doscientos días del valor de la unidad de medida y actualización vigente; e inhabilitación hasta por dos años para el ejercicio de la profesión, oficio o comercio, cuando quien lo cometió se dedique al cuidado de animales, y
+II. Cuando el maltrato implique lesiones que produzcan un menoscabo físico permanente, se impondrá pena de nueve a dieciocho meses de prisión, y sanción pecuniaria de ciento cincuenta a trescientos días del valor de la unidad de medida y actualización vigente; e inhabilitación hasta por dos años para el ejercicio de la profesión, oficio o comercio, cuando quien lo cometió se dedique al cuidado de animales;
 
-III. Cuando el maltrato produzca la muerte, se impondrá pena de uno a dos años de prisión, y sanción pecuniaria de doscientos a cuatrocientos días del valor de la unidad de medida y actualización vigente; e inhabilitación hasta por tres años para el ejercicio de la profesión, oficio o comercio, cuando quien lo cometió se dedique al cuidado de animales.
+III. Cuando el maltrato produzca la muerte, se impondrá pena de dieciocho meses a tres años de prisión, y sanción pecuniaria de doscientos cincuenta a quinientos días del valor de la unidad de medida y actualización vigente; e inhabilitación hasta por tres años para el ejercicio de la profesión, oficio o comercio, cuando quien lo cometió se dedique al cuidado de animales, y
 
-> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 29 DE JULIO DE 2019)</small>
+IV. Cuando el maltrato consista en actos sádicos o zoofílicos, o de exposición a condiciones de sobreexplotación de su capacidad física, se impondrá pena de dos a cuatro años de prisión, y sanción pecuniaria de trescientos a quinientos días del valor de la unidad de medida y actualización vigente; e inhabilitación hasta por cinco años para el ejercicio de la profesión, oficio o comercio, cuando quien lo cometió se dedique al cuidado de animales.
 
 Para los efectos de este artículo se entiende por animal doméstico, a aquél que se ha adaptado a vivir y convivir con las personas.
+
+Para los efectos de este artículo se entiende por animal silvestre, aquél que subsiste sujeto a los procesos de selección natural y que se desarrolla libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y, por ello, sean susceptibles de captura y apropiación.
 
 > <small>(ADICIONADO, P.O. 18 DE MARZO DE 2017)</small>
 
@@ -5250,6 +5262,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 13 DE DICIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0326.- SE ADICIONAN LOS ARTÍCULOS 286 BIS Y 286 TER DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0455.- SE REFORMAN LOS ARTÍCULOS 83 Y 84 DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES; Y SE REFORMA, DE LA PARTE ESPECIAL, LA DENOMINACIÓN DEL TÍTULO DÉCIMO QUINTO Y DEL CAPÍTULO V; ASÍ COMO LOS ARTÍCULOS 309 Y 317; Y ADICIONA AL ARTÍCULO 311 EL PÁRRAFO TERCERO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
