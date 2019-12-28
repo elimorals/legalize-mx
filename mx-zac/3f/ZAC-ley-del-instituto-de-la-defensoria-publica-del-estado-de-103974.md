@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-instituto-de-la-defensoria-publica-del-estado-de-103974
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-17"
-last_updated: "2014-12-17"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL INSTITUTO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 17 de diciembre de 2014.
 
@@ -51,7 +51,9 @@ La presente Ley es de orden público e interés social y tiene por objeto regula
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Asesor Jurídico: Al servidor público del Instituto encargado de brindar asesoría y representación jurídica de ciudadanos en materia civil, familiar y mercantil, en los términos señalados en esta Ley;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+I. Asesor Jurídico: Al servidor público del Instituto encargado de brindar asesoría y representación jurídica de ciudadanos en las materias civil, familiar, mercantil, laboral, administrativa y de responsabilidades de los servidores públicos, en los términos señalados en esta Ley;
 
 II. Director General: Al Director General del Instituto;
 
@@ -61,7 +63,9 @@ IV. Instituto: Al Instituto de la Defensoría Pública del Estado de Zacatecas;
 
 V. Junta: A la Junta de Gobierno del Instituto;
 
-VI. Ley de Responsabilidades de los Servidores Públicos: Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+VI. Ley de Responsabilidades: Ley General de Responsabilidades Administrativas;
 
 VII. Ley del Servicio Civil: Ley del Servicio Civil del Estado de Zacatecas;
 
@@ -73,13 +77,17 @@ X. Estatuto Orgánico: El Estatuto Orgánico del Instituto de la Defensoría Pú
 
 XI. Usuario: Persona que recibe el servicio de defensoría pública, que presta el Instituto.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 3.
 
-En todo aquello no previsto en esta Ley, se aplicará supletoriamente lo dispuesto en la Ley Orgánica de la Administración Pública, Ley de las Entidades Públicas Paraestatales, Ley del Servicio Civil del Estado, Ley del Servicio Profesional de Carrera del Estado y Municipios de Zacatecas y Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas.
+En todo aquello no previsto en esta Ley, se aplicará supletoriamente lo dispuesto en la Ley Orgánica de la Administración Pública, Ley de las Entidades Públicas Paraestatales, Ley del Servicio Civil del Estado y Ley del Servicio Profesional de Carrera del Estado y Municipios de Zacatecas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 4.
 
-El servicio de defensoría pública tiene como finalidad garantizar el derecho a la defensa en materia penal y la protección del interés de los adolescentes en conflicto con la ley penal; así como el acceso a la justicia mediante la orientación, asesoría, y representación jurídica en asuntos del orden familiar, civil, mercantil y laboral, en los términos que establece la presente Ley.
+El servicio de defensoría pública tiene como finalidad garantizar el derecho a la defensa en materia penal y la protección del interés de los adolescentes en conflicto con la ley penal; así como el acceso a la justicia mediante la orientación, asesoría, y representación jurídica en asuntos del orden familiar, civil, mercantil, laboral, administrativo y de responsabilidades administrativas, en los términos que establece la ley.
 
 El servicio de la defensoría pública se brindará a través del Instituto de la Defensoría Pública del Estado de Zacatecas, bajo los principios de legalidad, obligatoriedad, profesionalismo, gratuidad, confidencialidad, transparencia y eficacia.
 
@@ -161,13 +169,41 @@ IV. Subdirección en materia Laboral;
 
 V. Subdirección en materias Civil, Familiar y Mercantil;
 
-VI. Subdirección Administrativa y de Gestión;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-VII. Visitaduría de la Defensoría Pública;
+VI. Subdirección Administrativa y de Responsabilidades de los Servidores Públicos;
 
-VIII. Unidad de Enlace de Acceso a la Información Pública; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-IX. Los demás órganos que se requieran para el ejercicio de sus funciones.
+VII. Coordinación Administrativa y de Gestión;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+VIII. Visitaduría de la Defensoría Pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+IX. Unidad de Transparencia;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+X. Órgano Interno de Control;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XI. Unidad de Planeación;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XII. Secretaría Técnica;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XIII. Unidad de Informática, Comunicación Social y Relaciones Públicas, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XIV. Los demás órganos que se requieran para el ejercicio de sus funciones.
 
 ###### Artículo 14.
 
@@ -185,7 +221,15 @@ V. Proporcionar obligatoria y gratuitamente patrocinio de defensa de los derecho
 
 Para los efectos del párrafo anterior, el Instituto podrá actuar en coordinación con traductores e intérpretes que tengan conocimiento de la lengua y cultura a la que pertenezcan los indígenas, mediante la celebración de convenios de colaboración con las instituciones que puedan coadyuvar a la obtención de esos fines, y promoverá la formación de defensores públicos bilingües; y
 
-VI. Las demás que establezcan la presente Ley, el Estatuto Orgánico y otras disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+VI. Asistir, asesorar y representar a los servidores públicos y particulares que enfrenten procedimientos relacionados con faltas administrativas graves y no graves, en la etapa de substanciación y hasta la emisión de la sentencia que se dicte dentro del procedimiento, en términos de la Ley de Responsabilidades;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+VII. Brindar asesoría jurídica gratuita a los ciudadanos afectados por actos administrativos emitidos por las autoridades estatales y municipales en ejercicio de sus funciones de derecho público, siempre y cuando carezcan de los recursos para contratar a un abogado particular, y
+
+VIII. Las demás que establezcan la presente Ley, el Estatuto Orgánico y otras disposiciones legales aplicables.
 
 ###### Artículo 15.
 
@@ -221,9 +265,11 @@ Por cada miembro propietario, el titular nombrará un suplente, debiendo enviar 
 
 El Director General del Instituto tendrá el carácter de Secretario Técnico de la Junta, con derecho a voz.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 17.
 
-La Junta de Gobierno celebrará, cuando menos, una sesión bimestral ordinaria y las extraordinarias que sean necesarias a juicio del Presidente de la Junta de Gobierno o de tres de sus miembros, con una anticipación de tres días tratándose de sesiones ordinarias y de un día para las extraordinarias.
+La Junta de Gobierno celebrará, cuando menos, una sesión trimestral ordinaria y las extraordinarias que sean necesarias a juicio del Presidente de la Junta de Gobierno o de tres de sus miembros, con una anticipación de tres días tratándose de sesiones ordinarias y de un día para las extraordinarias.
 
 La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros. Las resoluciones se tomarán con el voto mayoritario de los miembros presentes, teniendo el Presidente voto de calidad para el caso de empate.
 
@@ -321,9 +367,109 @@ XXI. Presentar a la Junta un informe anual de actividades; y
 
 VII (SIC). Las demás que establezcan la presente Ley, el Estatuto Orgánico y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 22.
 
-Como órgano adscrito a la Dirección General, funcionará la Unidad de Enlace de Acceso a la Información Pública, que tendrá las facultades y obligaciones que establece la Ley de la materia.
+Como órgano adscrito a la Dirección General, funcionará la Unidad de Transparencia, que tendrá las facultades y obligaciones que establece la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 22 Bis.
+
+El Instituto contará con un Órgano Interno de Control que dependerá presupuestalmente de él, pero estará subordinado, jerárquica y funcionalmente a la Secretaría de la Función Pública, y ejercerá las atribuciones que expresamente le señalen la Ley de Responsabilidades y el Reglamento Interior de la citada Secretaría.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 22 Ter.
+
+La Dirección General tendrá adscrita una Unidad de Planeación, que tendrá como funciones las siguientes:
+
+I. Integrar y validar la información necesaria que sirva de base para la elaboración de los informes institucionales y sectoriales que deben rendir los servicios que presta el Instituto;
+
+II. Coadyuvar en el proceso de presupuestación, para la elaboración de los programas presupuestarios;
+
+III. Coordinar y evaluar el proceso de programación de los servicios en los ámbitos estatal y jurisdiccional;
+
+IV. Dirigir, coordinar y asesorar a las áreas de los servicios, en la integración, del manual de organización y del manual de procedimientos de la institución;
+
+V. Solicitar la validación de los manuales de organización y procedimientos para su actualización;
+
+VI. Integrar y coordinar la elaboración del Manual de Organización General de los Servicios para contar con el documento y cumplir con la normatividad;
+
+VII. Conformar, coordinar y asesorar la adaptación de sistemas, métodos e indicadores para la evaluación periódica y anual de los programas en materia jurídica, lo anterior en concordancia con la legislación y sus reformas;
+
+VIII. Realizar el análisis programático presupuestal de los programas, subprogramas y proyectos que sean responsabilidad del Instituto;
+
+IX. Aplicar, coordinar y promover la observancia de las normas, emitidas en materia de informática tanto por el Instituto, como por otras dependencias federales y estatales que normen el uso y operación de los sistemas informativos, vigilando su cumplimiento en las unidades aplicativas de los servicios;
+
+X. Coordinar la capacitación al personal operativo en materia de informática y estadística;
+
+XI. Definir y resolver los requerimientos técnicos y específicos de los equipos de insumos para la adquisición, utilización, conservación y mantenimiento de los equipos de cómputo;
+
+XII. Coordinar, integrar y supervisar la realización de los programas presupuestarios cuidando el apego a los lineamientos presupuestales;
+
+XIII. Celebrar reuniones mensuales o cuando se considere necesario, con los mandos medios de su área y, en su caso, con otras áreas de los servicios involucradas, con el fin de conocer, analizar y resolver la problemática que se genere;
+
+XIV. Formar parte del Comité Coordinador de Áreas de Planeación del Gobierno del Estado para apoyar en la toma de decisiones y de acuerdos, y
+
+XV. Las demás que establezcan otras disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 22 Quáter.
+
+La Dirección General contará con una Secretaría Técnica, que tendrá las funciones siguientes:
+
+I. Instrumentar y controlar el sistema de registro y seguimiento de los acuerdos del Director con los titulares de las Unidades Administrativas del Instituto;
+
+II. Evaluar y dar seguimiento al Programa Presupuestario, conjuntamente con la Coordinación Administrativa y de Gestión;
+
+III. Auxiliar al Director en las reuniones periódicas de trabajo con los titulares de las Unidades Administrativas del Instituto, a efecto de dar seguimiento al cumplimiento de los programas y acciones del Instituto;
+
+IV. Brindar asesoría, asistencia y apoyo al Director General, así como la que sea requerida por las Unidades Administrativas o instruida por el Director General;
+
+V. Dar seguimiento a los programas y acciones a cargo del Instituto, contenidos en el Plan de Trabajo del ejercicio fiscal que corresponda;
+
+VI. Organizar y desarrollar conjuntamente con las Unidades Administrativas respectivas, el informe anual de actividades y someterlo a la aprobación del Director General;
+
+VII. Monitorear y dar seguimiento a los sistemas y procedimientos que permitan mejorar y dar cumplimiento a las atribuciones del Instituto;
+
+VIII. Dar seguimiento a los asuntos canalizados por el Director General a las Unidades Administrativas respectivas, para su atención y solución;
+
+IX. Coordinar de manera conjunta con la Coordinación Administrativa y de Gestión en la elaboración y actualización de los Manuales de Organización y Procedimientos del Instituto;
+
+X. Apoyar técnicamente en la elaboración de proyectos que sean requeridos por el Director General;
+
+XI. Atender las comisiones y gestiones específicas que el Director General le asigne y preparar los informes sobre el desarrollo y cumplimiento de las mismas, y
+
+XII. Las demás que establezcan otras disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 22 Quinquies.
+
+La Dirección General tendrá adjunta la Unidad de Informática, Comunicación Social y Relaciones Públicas, que tendrá las siguientes funciones:
+
+I. Informar permanente al Director General, sobre el análisis de la información que se genere en los medios de comunicación relacionada con acciones que competan con el Instituto o que puedan tener una repercusión sobre la actuación de éste y darla a conocer a las áreas correspondientes;
+
+II. Definir, programar y ejecutar las acciones, mecanismos y estrategias de comunicación social que se requieran para dar a conocer las actividades del Instituto;
+
+III. Implementar mecanismos mediante los cuales se mantenga informada a la comunidad sobre la actividad que desempeña el Instituto;
+
+IV. Revisar y dar corrección a textos públicos generados en las diferentes áreas del Instituto;
+
+V. Auxiliar al encargado de la Unidad en la redacción y revisión de textos que elabore;
+
+VI. Ser el enlace con los diversos medios de comunicación, otorgándoles la información necesaria referente a las actividades de la Unidad y del Instituto para su conocimiento y difusión;
+
+VII. Mantener estrecha la relación con otros entes públicos, para seguimiento y análisis de información que se relacione con el Instituto;
+
+VIII. Mantener actualizada la información que se difunda en la página electrónica del Instituto;
+
+IX. Revisar y redactar la información anexa a imágenes del portal informático oficial del Instituto, así como de otras comunicaciones de sus redes sociales, y
+
+X. Las demás que establezcan otras disposiciones legales y administrativas aplicables.
 
 ###### Artículo 23.
 
@@ -393,7 +539,9 @@ Los Subcoordinadores coadyuvarán con el Coordinador en el desempeño de las fun
 
 Para el ejercicio de sus atribuciones, la Subdirección de la Defensoría Pública en Materia Laboral, estará integrada por las siguientes Coordinaciones:
 
-I. Procuraduría de la Defensa del Trabajo con competencia en la Junta Local de Conciliación y Arbitraje; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+I. Procuraduría de la Defensa del Trabajo con competencia en los Tribunales en materia laboral del Estado de Zacatecas, y
 
 II. Procuraduría de la Defensa de los Trabajadores con competencia en el Tribunal Local de Conciliación y Arbitraje.
 
@@ -404,6 +552,14 @@ La Subdirección de Defensoría Pública en materia Laboral, tendrá a su cargo 
 ###### Artículo 31.
 
 La Subdirección en materias Civil, Familiar y Mercantil brindará asesoría jurídica gratuita en esas materias a toda persona que lo solicite y las representará ante los Juzgados competentes cuando carezcan de recursos para contratar a un abogado particular.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 31 Bis.
+
+El Instituto contará con una Subdirección Administrativa y de Responsabilidades de los Servidores Públicos que brindará asistencia técnica, asesoría y defensa jurídica gratuita a los servidores públicos y particulares que enfrenten asuntos relacionados con faltas administrativas graves y no graves, durante la etapa de substanciación y hasta la emisión de la sentencia que se dicte dentro del procedimiento, en términos de la Ley de Responsabilidades.
+
+Asimismo, brindará asesoría jurídica gratuita a los ciudadanos que consideren afectados sus derechos, con motivo de actos administrativos emitidos por autoridades estatales y municipales en ejercicio de sus funciones de derecho público, previo el estudio socioeconómico respectivo.
 
 ###### Artículo 32.
 
@@ -543,9 +699,11 @@ IX. Visitar periódicamente a los sentenciados en su centro de reclusión a fin 
 
 IX (SIC). Las demás que le confieran esta Ley, el Estatuto Orgánico y otros ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 40.
 
-Los procuradores de la defensa del trabajo con competencia en la Junta Local de Conciliación y Arbitraje tendrán las funciones y obligaciones señaladas en las leyes federales, estatales y en el Estatuto Orgánico.
+Los procuradores de la defensa del trabajo con competencia en los Tribunales en materia laboral del Estado de Zacatecas tendrán las funciones y obligaciones señaladas en las leyes federales, estatales y en el Estatuto Orgánico.
 
 Los procuradores de la defensa de los trabajadores con competencia en el Tribunal Local de Conciliación y Arbitraje tendrán las siguientes funciones y obligaciones:
 
@@ -570,6 +728,34 @@ II. Representar ante los Juzgados competentes a las personas que soliciten el se
 III. Rendir informe mensual al Subdirector de área sobre los asuntos que se encuentren bajo su responsabilidad; y
 
 IV. Las demás que le confieran esta Ley, el Estatuto Orgánico y otros ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 41 Bis.
+
+Los defensores de oficio y asesores jurídicos en materia administrativa y de responsabilidades de los servidores públicos, tendrán las atribuciones siguientes:
+
+I. Brindar asesoría y representación jurídica, cuando así lo soliciten los usuarios, en los casos siguientes:
+
+a) En los juicios de nulidad, respecto de los actos o resoluciones que las autoridades de la administración pública estatal y municipal, dicten, ordenen, ejecuten o traten de ejecutar en agravio de personas físicas o morales;
+
+b) En los juicios de nulidad de los actos o resoluciones de la administración pública paraestatal o paramunicipal, cuando actúen con funciones administrativas de autoridad, y
+
+c) A los servidores públicos o particulares, tratándose de asuntos relacionados con faltas graves y no graves durante la etapa de sustanciación y hasta la emisión de la sentencia que se dicte dentro del procedimiento, en términos de la Ley de Responsabilidades;
+
+II. Cumplir con los principios que rigen la función del Instituto;
+
+III. Atender y dar respuesta a las consultas realizadas por los servidores públicos, relacionadas con sus funciones de asesoría y representación jurídica;
+
+IV. Asumir y ejercer la defensa adecuada del servidor público desde que sea asignado por el Instituto;
+
+V. Dar seguimiento a los asuntos asignados, observando el estado procesal que guarda;
+
+VI. Asistir al servidor público en la audiencia inicial;
+
+VII. Desahogar vistas, ofrecer y aportar pruebas, formular alegatos y, en general, las actividades que correspondan a la defensa del servidor público, con las limitantes establecidas en la presente Ley, y
+
+VIII. Las que deriven de las leyes y reglamentos de la materia.
 
 ###### Artículo 42.
 
@@ -736,3 +922,17 @@ LIC. MIGUEL ALEJANDRO ALONSO REYES.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. FRANCISCO ESCOBEDO VILLEGAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 300.- SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el 1 de enero del año 2020, previa publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. A partir de la entrada en vigor del presente Decreto, el Tribunal de Justicia Administrativa del Estado transferirá al Instituto de la Defensoría Pública del Estado los recursos financieros asignados a la Unidad de Asistencia Jurídica, así como los expedientes que se tramitan en ella, con la finalidad de que sean atendidos por el Instituto.
+
+El Tribunal y el Instituto suscribirán los acuerdos que sean necesarios para el cabal cumplimiento de la disposición anterior.
+
+Artículo tercero. Se derogan las disposiciones que contravengan el presente Decreto.
