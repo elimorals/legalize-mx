@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2019-11-23"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -12029,6 +12029,12 @@ Es arrendamiento aquél contrato por virtud del cual, las dos partes contratante
 
 La renta o precio del arrendamiento puede consistir en una suma de dinero o en cualquiera otra cosa equivalente, con tal que sea cierta y determinada o determinable al momento del pago.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+###### Art. 1981 Bis.
+
+Tratándose de bienes inmuebles, las partes no pueden convenir en ningún momento, bajo pena de nulidad, interés de ningún tipo que exceda lo contemplado en los artículos comprendidos del 1974 al 1977 en el capítulo de este Código referente a mutuo con interés.
+
 ###### Art. 1982.
 
 Son susceptibles de arrendamiento todos los bienes que pueden usarse sin consumirse por su primer uso, excepto aquéllos que la ley prohibe arrendar y los derechos de personalidad.
@@ -12121,21 +12127,29 @@ IV. Garantizar el uso o goce pacífico del bien, por todo el tiempo que dure el 
 
 V. Garantizar una posesión útil del bien arrendado, respondiendo de los daños y perjuicios que sufra el arrendatario por los defectos o vicios ocultos del bien, anteriores al arrendamiento;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-VI. Responder de los daños y perjuicios que se causen al arrendatario en el caso de que el arrendador sufra la evicción del bien arrendado. En caso de que ésta se dé habiendo mala fe del arrendador, la indemnización en ningún caso será inferior al importe de tres meses de rentas;
+VI. Entregar el bien inmueble al corriente de pagos de todo tipo de contribuciones, previas a la vigencia del contrato;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+(REUBICADA [N. DE E. ANTES FRACCIÓN VI], P.O. 28 DE DICIEMBRE DE 2019)
 
-VII. Devolver al arrendatario el saldo que hubiese a su favor al terminar el contrato de arrendamiento; y
+VII. Responder de los daños y perjuicios que se causen al arrendatario en el caso de que el arrendador sufra la evicción del bien arrendado. En caso de que ésta se dé habiendo mala fe del arrendador, la indemnización en ningún caso será inferior al importe de tres meses de rentas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VII], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-VIII. Entregar al arrendatario los documentos que acrediten el pago de la renta.
+VIII. Devolver al arrendatario el saldo que hubiese a su favor al terminar el contrato de arrendamiento;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VIII], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-La entrega de los documentos a que se refiere la fracción VIII, presumen la existencia del contrato de arrendamiento y el pago de la deuda constante en ellos.
+IX. Entregar al arrendatario los documentos que acrediten el pago de la renta; y
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+X. Tratándose de arrendamiento de inmuebles ajustarse, en cuanto a intereses se refiere, a lo estipulado en los artículos comprendidos del 1974 al 1977 en el capítulo de este Código referente a Mutuo con interés.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+La entrega de los documentos a que se refiere la fracción IX, presume la existencia del contrato de arrendamiento y el pago de la deuda constante en ellos.
 
 ###### Art. 1996.
 
@@ -12201,13 +12215,17 @@ IV. Poner en conocimiento del arrendador, en el término más breve posible, tod
 
 V. Recibir del arrendador, los documentos que acrediten el pago de la renta, pudiendo consignarlo, cuando el arrendador se niegue a entregarlos; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2003)</small>
+(REPUBLICADA, P.O. 28 DE DICIEMBRE DE 2019)
 
 VI. Desocupar el bien, en caso de arrendamiento de inmuebles, y entregarlo al arrendador una vez cumplido el plazo fijado en el contrato o en la ley;
 
-> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-VII. Pagar las cantidades que resulten con motivo de los servicios con que cuente el bien material del arrendamiento, y al término de dicho contrato, entregar al arrendador la documentación que acredite que no se dejan adeudos por tales conceptos, si no hubo convenio expreso.
+VII. Pagar las cantidades que resulten con motivo de los servicios con que cuente el bien material del arrendamiento, y al término de dicho contrato, entregar al arrendador la documentación que acredite que no se dejan adeudos por tales conceptos, si no hubo convenio expreso; y
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+VIII. Tratándose de arrendamiento de inmuebles, pagar como máximo de intereses en caso de mora, lo estipulado en los artículos comprendidos del 1974 al 1977 en el capítulo de este Código referente a mutuo con interés.
 
 ###### Art. 2006.
 
@@ -13031,13 +13049,13 @@ Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día pref
 
 Cuando a la falta de pago del importe de la renta por dos o más meses consecutivos tratándose de inmuebles y de dos quincenas para los muebles, se aúne el abandono del bien, previa certificación de la autoridad judicial, se entregará el mismo al arrendador, cesando en ese momento la obligación de seguir pagando rentas, dándose por concluido el contrato.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Art. 2143.
 
-Si después de terminado el plazo por el que se celebró el arrendamiento o su prórroga, el arrendatario continúa sin oposición en el uso y goce del bien arrendado, continuará el arrendamiento por tiempo indeterminado, estando obligado el arrendatario a pagar la renta que corresponda por el tiempo que exceda conforme a lo convenido en el contrato, actualizándose el pago de la renta conforme al interés legal establecido en el presente código.
+Si después de terminado el plazo por el que se celebró el arrendamiento o su prórroga, el arrendatario continúa sin oposición en el uso y goce del bien arrendado, continuará el arrendamiento hasta por un tiempo igual al del establecido en el contrato y se observará lo previsto en las disposiciones generales de dicho contrato estando obligado el arrendatario a pagar la renta que corresponda por el tiempo que exceda conforme a lo convenido en el contrato, actualizándose el pago de la renta conforme al interés legal establecido en el presente Código.
 
-Cualesquiera de las partes podrá solicitar la terminación del contrato de arrendamiento en los términos del artículo 2035 de este código.
+En caso de haber operado la tácita reconducción en términos de lo establecido en el párrafo anterior del presente artículo, el arrendamiento concluirá a voluntad de cualesquiera de los contratantes, previo aviso dado a la otra parte en forma indubitable. Tratándose de un predio urbano, el aviso deberá darse con tres meses de antelación si lo da el arrendador y un mes si lo da el arrendatario; y con nueve meses de anticipación para ambas partes, si el predio es rústico o destinado a fines agropecuarios.
 
 Las obligaciones contraídas por un tercero con objeto de garantizar el cumplimiento del arrendamiento, cesan al término del plazo determinado, salvo convenio en contrario.
 
@@ -19146,3 +19164,9 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27570/LXII/19 QUE REFORMA LOS ARTÍCULOS 268, 381 Y 391 DEL CÓDIGO CIVIL Y EL ARTÍCULO 82 DE LA LEY DEL REGISTRO CIVIL, AMBOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. Esta ley entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27780/LXII/19 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 2143; Y ADICIONA EL ARTÍCULO 1981 BIS, LAS FRACCIONES VI Y X AL ARTÍCULO 1995 Y LA FRACCIÓN VII AL ARTÍCULO 2005, DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
