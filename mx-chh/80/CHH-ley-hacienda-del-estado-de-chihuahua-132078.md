@@ -4,7 +4,7 @@ identifier: "CHH-ley-hacienda-del-estado-de-chihuahua-132078"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2019-03-09"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Número 104 del Periódico Oficial del Estado de Chihuahua, el lunes 31 de diciembre de 2018.
 
@@ -267,9 +267,11 @@ OTRAS OBLIGACIONES DE LOS RETENEDORES
 
 Los retenedores de este impuesto están obligados a enterar una cantidad equivalente a la que debieron retener conforme a esta ley, aun cuando no hubieren efectuado la retención.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 31.
 
-El Gobierno Federal, el del Distrito Federal, los Gobiernos de los Estados, los Municipios, el Patronato de Ahorro Nacional, la Lotería Nacional y Pronósticos Deportivos para la Asistencia Pública y los Partidos Políticos; así como las instituciones de asistencia privada, instituciones educativas y las de beneficencia social, retendrán y enterarán el impuesto que se cause por la obtención de premios que se entreguen, a quienes compren o adquieran en el territorio del Estado los billetes, boletos, contraseñas o cualquier otro comprobante que les permita participar en los correspondientes eventos.
+El Gobierno Federal, el de la Ciudad de México, los Gobiernos de los Estados, los Municipios, el Patronato de (sic) Ahorro Nacional, la Lotería Nacional y Pronósticos Deportivos para la Asistencia Pública y los Partidos Políticos; así como las instituciones de asistencia privada, instituciones educativas y las de beneficencia social, retendrán y enterarán el impuesto que se cause por la obtención de premios que se entreguen, a quienes compren o adquieran en el territorio del Estado los billetes, boletos, contraseñas o cualquier otro comprobante que les permita participar en los correspondientes eventos.
 
 En ningún caso quedarán exentos del pago del impuesto los premios obtenidos.
 
@@ -373,6 +375,8 @@ Cuando los ingresos a que se refiere esta Sección sean percibidos a través de 
 
 OBJETO Y DESTINO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 37.
 
 Pagarán este impuesto las personas físicas que perciban ingresos por la enajenación de inmuebles que se ubiquen en el territorio del Estado.
@@ -433,11 +437,13 @@ OBJETO
 
 ###### ARTÍCULO 40.
 
-Es objeto de este impuesto, la prestación de servicios de hospedaje que realicen las personas físicas o morales en el Estado de Chihuahua.
+Es objeto de este impuesto, los servicios de hospedaje que reciban las personas físicas o morales en el Estado de Chihuahua, de manera directa o a través de intermediarios, facilitadores, o cualquiera que sea el nombre que se les designe.
 
 De los ingresos que se recauden con motivo de este impuesto, una cantidad que represente una proporción de tres puntos porcentuales de la tasa aplicable, será destinada a la promoción y difusión de la actividad turística en el Estado. Los puntos porcentuales restantes se destinarán a obras de inversión pública relacionadas con dicha actividad, inclusive podrá ser utilizado para empatar programas de inversión turística establecidos, convenidos o coordinados con el Ejecutivo Federal.
 
-Se entiende que la prestación de los servicios de hospedaje a que se refiere el primer párrafo, son los que se realizan en el Estado, cuando estos tengan lugar o surtan sus efectos de hecho o de derecho parcial o totalmente en su territorio, independientemente del lugar donde se concierte o se realice el pago o contraprestación por dicho servicio.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Se entiende que los servicios de hospedaje a que se refiere el primer párrafo, son los que se realizan en el Estado, cuando estos tengan lugar o surtan sus efectos de hecho o de derecho parcial o totalmente en su territorio, independientemente del lugar donde se concierte o se realice el pago o contraprestación por dicho servicio.
 
 PRESTACIÓN DE SERVICIOS DE HOSPEDAJE
 
@@ -445,11 +451,15 @@ PRESTACIÓN DE SERVICIOS DE HOSPEDAJE
 
 Para efectos de este impuesto se entiende por prestación de servicios de hospedaje:
 
-I. El otorgamiento de albergue o alojamiento a cambio de una contraprestación.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-II. El sistema de tiempo compartido o de cualquier otra denominación, mediante el que se conceda el uso, goce y demás derechos que se convengan sobre un bien o parte del mismo, ya sea una unidad cierta, considerada en lo individual o una unidad variable dentro de una clase determinada, durante un período específico, a intervalos previamente establecidos, determinados o determinables.
+I. El otorgamiento de albergue o alojamiento a cambio de una contraprestación, dentro de los que quedan comprendidos los recibidos bajo el sistema de tiempo compartido o cualquier otra denominación, o los recibidos en cualquier otra instalación, bien o parte del mismo, utilizado de manera ocasional o permanente para ese fin.
 
-III. La prestación de servicios de paraderos de casas rodantes, móviles o auto- transportables, mediante los que se otorga el espacio e instalaciones para estacionamiento temporal de estas; así como los servicios de campamento a través de los que se otorga espacio para acampar.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+II. Los servicios de paraderos de casas rodantes, móviles o autotransportables, mediante los que se recibe el espacio e instalaciones para estacionamiento temporal de estas; así como los servicios de campamento a través de los que se recibe espacio para acampar.
+
+III. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2019)
 
 EXCEPCIÓN A SERVICIOS DE HOSPEDAJE
 
@@ -459,9 +469,11 @@ No se considerarán servicios de hospedaje: el de albergue o alojamiento en hosp
 
 SUJETOS
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 43.
 
-Son sujetos de este impuesto, los usuarios de los servicios de hospedaje, mediante las retenciones a las que están obligados los prestadores de los mismos.
+Son sujetos de este impuesto, las personas físicas y morales que, dentro del Estado de Chihuahua, de manera permanente o temporal, reciban los servicios señalados en el artículo 41 de la presente Ley.
 
 RESPONSABLES SOLIDARIOS
 
@@ -471,9 +483,23 @@ Son responsables solidarios las personas físicas y morales prestadores de los s
 
 RETENEDORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 45.
 
-Los retenedores de este impuesto, están obligados a enterar una cantidad equivalente a la que debieron retener aun cuando no hubieren hecho la retención o no hayan recibido las contraprestaciones relativas al servicio prestado.
+Los prestadores de los servicios a que hace referencia el artículo 41 de esta Ley, tendrán la obligación de determinar, retener y enterar el impuesto, en forma expresa y por separado, a las personas que reciban y paguen los servicios objeto de esta contribución, ya sea que el pago se efectúe por los beneficiarios directos del servicio o a través de terceros por conducto de intermediarios, facilitadores o cualquiera que sea el nombre con el que se les designe.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Cuando en la prestación del servicio de hospedaje intervenga una persona física o moral, o una entidad o figura jurídica extranjera en su carácter de intermediario o facilitador, en el cobro de las contraprestaciones por servicios de hospedaje, ya sea que se realice en forma personal o a través de plataformas tecnológicas, aplicaciones informáticas y similares, y en caso de que se cobre por estos medios la contraprestación, está obligada, por cuenta del prestador del servicio, a determinar, retener y enterar el impuesto de las personas que reciban el servicio de hospedaje, en el plazo que señala el artículo 50 de esta ley.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Los retenedores de este impuesto, están obligados a enterar una cantidad equivalente a la que debieron retener aun cuando no hubieren hecho la retención.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Al momento de efectuar la retención de este impuesto a las personas que reciban el servicio de hospedaje, los retenedores también estarán obligados a retener el Impuesto Adicional Universitario que establece esta Ley, el cual deberá enterarse en el plazo que señala el artículo 50 de la misma.
 
 BASE
 
@@ -483,6 +509,10 @@ La base para el cálculo de éste impuesto se integra con el valor total de la c
 
 En el cálculo a que se refiere el párrafo anterior, deberán estar incluidos los depósitos, anticipos, penas convencionales y cualquier otro concepto directamente vinculado con la prestación del servicio de hospedaje, que se cargue o cobre a quien los reciba.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Este impuesto en ningún caso se considerará que forma parte del valor de los servicios de hospedaje.
+
 BASE EN CASOS DE TIEMPO COMPARTIDO
 
 ###### ARTÍCULO 47.
@@ -491,11 +521,13 @@ Cuando el servicio sea por el sistema de “tiempo compartido”, la base para e
 
 BASE EN SERVICIOS TODO INCLUIDO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 48.
 
-Los servicios prestados bajo el sistema “todo incluido” por el cual el pago de la contraprestación contemple servicios adicionales al de hospedaje tales como alimentación, bebidas, transportación y otros similares, considerarán como base gravable únicamente el importe correspondiente al albergue, en caso de que no se desglosen y demuestren la prestación de los servicios accesorios, se entenderá que el valor de la contraprestación respectiva corresponde a los servicios de hospedaje.
+Los servicios recibidos bajo el sistema "todo incluido" por el cual el pago de la contraprestación contemple servicios adicionales al de hospedaje tales como alimentación, bebidas, transportación y otros similares, considerarán como base gravable únicamente el importe correspondiente al albergue, en caso de que no se desglosen y demuestren la prestación de los servicios accesorios, se entenderá que el valor de la contraprestación respectiva corresponde a los servicios de hospedaje.
 
-El contribuyente podrá optar por estimar el importe relativo al servicio de hospedaje dentro del sistema “todo incluido”, sin que en ningún caso pueda ser inferior al 40% del monto total de los servicios comprendidos bajo este sistema.
+El contribuyente podrá optar por estimar el importe relativo al servicio de hospedaje dentro del sistema "todo incluido", sin que en ningún caso pueda ser inferior al 40% del monto total de los servicios comprendidos bajo este sistema.
 
 TASA
 
@@ -505,15 +537,19 @@ El monto del impuesto se determinará aplicando a la base gravable la tasa del 4
 
 PAGO DEL IMPUESTO
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 50.
 
-El pago del impuesto se hará mediante el entero de las retenciones que tiene obligación de efectuar el prestador de los servicios de hospedaje, cada mes y dentro de los 15 días siguientes al mismo.
+Los prestadores de servicios de hospedaje deberán enterar las retenciones efectuadas mediante pagos mensuales definitivos, a más tardar el día 15 del mes siguiente a aquel en que se causó.
 
 CAUSACIÓN Y MOMENTO DE RETENCIÓN
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 51.
 
-El impuesto se causará y retendrá en el momento en que se preste el servicio de hospedaje.
+El impuesto se causará en el momento en que se recibe el servicio de hospedaje y se retendrá en el momento en que se perciban las contraprestaciones que deriven de la prestación de dicho servicio.
 
 COMPROBANTE FISCAL
 
@@ -523,15 +559,23 @@ En el Comprobante Fiscal correspondiente, deberán estar de manera expresa, el d
 
 OBLIGACIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 53.
 
-Las personas físicas y morales que presten los servicios de hospedaje objeto de este impuesto, así como aquellas que tengan a su cargo la administración, mantenimiento u operación del establecimiento, están obligadas a lo siguiente:
+Las personas físicas y morales que presten los servicios de hospedaje objeto de este impuesto, los retenedores, así como aquellas que tengan a su cargo la administración, mantenimiento u operación del establecimiento, están obligadas a lo siguiente:
 
-I. Solicitar la inscripción en el Registro Estatal de Contribuyentes ante la autoridad fiscal que le corresponda dentro de los 15 días siguientes al inicio de sus operaciones, mediante la forma oficial del caso y proporcionando la información relacionada con su identidad, su domicilio y aquella que le sea solicitada.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-II. Retener a los usuarios de sus servicios el impuesto a que se refiere esta Sección y enterarlo en las oficinas autorizadas por los períodos y en las fechas a que se refiere la Ley.
+I. Solicitar la inscripción en el Registro Estatal de Contribuyentes ante la autoridad fiscal que le corresponda dentro de los 15 días siguientes al inicio de sus operaciones, mediante la forma oficial del caso y proporcionando la información relacionada con su identidad, su domicilio y aquella que le sea solicitada. Los prestadores del servicio de hospedaje, quedarán relevados de cumplir con esta obligación, en el supuesto que señala el segundo párrafo del artículo 45 de esta Ley.
 
-III. Presentar la declaración que corresponda, la que subsistirá aun cuando no se hayan obtenido los ingresos gravados, si no se ha presentado el aviso de suspensión de actividades.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+II. Retener a los usuarios de sus servicios el impuesto a que se refiere esta Sección y enterarlo en las oficinas autorizadas por los períodos y en las fechas a que se refiere el artículo 50 de esta Ley.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+III. Presentar la declaración que corresponda, la que subsistirá aun cuando no haya cantidad a cubrir, si no se ha presentado el aviso de suspensión de actividades.
 
 IV. Efectuar, en el comprobante fiscal, el desglose de los servicios prestados, cuando así corresponda.
 
@@ -539,11 +583,37 @@ V. Llevar la contabilidad, consignando en la documentación respectiva, el monto
 
 VI. Cumplir con las demás obligaciones y disposiciones que se establezcan en esta Ley o en el Código Fiscal del Estado.
 
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Las personas físicas o morales, o entidades o figuras jurídicas extranjeras que, como intermediarios o facilitadores, intervengan en el cobro de las contraprestaciones derivadas de dicho servicio, ya sea de forma personal o a través de plataformas tecnológicas, aplicaciones informáticas y similares, además de efectuar la retención a que están obligados, deberán cumplir con lo siguiente:
+
+a) Proporcionar ante las oficinas recaudadoras, junto con la declaración del periodo de que se trate, la información de los anfitriones prestadores del servicio de hospedaje, que se señala a continuación:
+
+1. Nombre, denominación o razón social.
+
+2. Domicilio fiscal.
+
+3. Institución financiera y clave interbancaria estandarizada en la cual se reciben los depósitos de los pagos.
+
+4. La dirección y la clave catastral del inmueble donde se presta el servicio de hospedaje.
+
+5. Monto de las operaciones celebradas por prestación del servicio de hospedaje durante el periodo de que se trate.
+
+6. Registro Estatal de Contribuyentes.
+
+b) Proporcionar un domicilio fiscal ubicado en el territorio del Estado y, en su caso, designar un representante legal.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Para los efectos de esta Ley, Anfitrión es la persona física o moral que brinda servicios de hospedaje en inmuebles de su propiedad, posesión o administración en forma total o parcial, de manera permanente o eventual, ya sea en forma personal o a través de plataformas tecnológicas, aplicaciones informáticas o similares.
+
 ESTIMACIÓN PRESUNTIVA
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 54.
 
-La autoridad fiscal podrá determinar, en forma presuntiva, la base de este impuesto para su cálculo y pago, en los casos en que los retenedores se ubiquen en alguno de los supuestos establecidos para tales efectos en el Código Fiscal del Estado.
+La autoridad fiscal podrá determinar, en forma presuntiva, el valor de los actos por los que se debe de pagar este impuesto en los casos en que los retenedores se ubiquen en alguno de los supuestos establecidos para tales efectos en el Código Fiscal del Estado.
 
 #### SECCIÓN III. IMPUESTO SOBRE ADQUISICIÓN DE VEHÍCULOS AUTOMOTORES Y OTROS BIENES MUEBLES USADOS
 
@@ -715,9 +785,15 @@ EXENTOS
 
 Están exentas del pago de este impuesto, las adquisiciones que efectúen los distribuidores de automóviles autorizados en el Estado y los comerciantes en el ramo de vehículos.
 
-#### SECCIÓN ÚNICA. IMPUESTO ADICIONAL UNIVERSITARIO
+#### SECCIÓN I. IMPUESTO ADICIONAL UNIVERSITARIO
 
 OBJETO
+
+#### SECCIÓN II. CONTRIBUCIÓN A LA CRUZ ROJA
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+SUJETO
 
 ### CAPÍTULO IV. IMPUESTOS SOBRE NÓMINAS Y ASIMILABLES
 
@@ -787,6 +863,8 @@ La Secretaría de Hacienda podrá determinar estimativamente las erogaciones de 
 
 ## TÍTULO TERCERO. OTROS IMPUESTOS
 
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADA SU NUMERACIÓN], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 79.
 
 Es objeto de este impuesto, los montos que resulten a pagar por concepto de impuestos ordinarios y derechos a que se refieren esta Ley y la Ley de Ingresos del Estado de Chihuahua.
@@ -815,6 +893,36 @@ PAGO
 
 El impuesto establecido en esta sección deberá pagarse en los mismos plazos y de manera conjunta con los impuestos ordinarios y derechos que lo causen.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 83-A.
+
+Se establece una contribución a cargo de los sujetos que deban cubrir la contraprestación que corresponda a los servicios públicos que presta el Estado en materia de control vehicular, relativos al derecho de control vehicular, la dotación o canje de placas metálicas de identificación vehicular, así como por la expedición de licencias de conducir.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+OBJETO Y TASA
+
+###### ARTÍCULO 83-B.
+
+La contribución a que se refiere la presente Sección, se causará por cada trámite de derecho de control vehicular y por dotación o canje de placas metálicas de identificación vehicular, así como por cada expedición de licencia de conducir, de conformidad con la tasa o cuota que al efecto se apruebe en la Ley de Ingresos del Estado de Chihuahua.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+PAGO
+
+###### ARTÍCULO 83-C.
+
+El pago de esta contribución se efectuará al momento de hacerse el entero de los Derechos a que se refieren los artículos anteriores, en las formas oficialmente aprobadas para el pago de los citados Derechos.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+DESTINO
+
+###### ARTÍCULO 83-D.
+
+La Secretaría de Hacienda deberá entregar mensualmente a la Delegación de la Cruz Roja Mexicana en el Estado, los ingresos provenientes de la contribución a que se refiere esta Sección, para que sean destinados a la prestación de los servicios propios de la citada Institución en sus distintas Delegaciones y a fin de ampliar sus servicios en los Municipios en que actualmente no lo hace.
+
 ## TÍTULO CUARTO. OTROS INGRESOS
 
 ### CAPÍTULO ÚNICO. CONTRIBUCIÓN DE MEJORAS PARA OBRAS PÚBLICAS
@@ -839,9 +947,11 @@ Se harán efectivas por medio del procedimiento administrativo de ejecución, qu
 
 CAUSACIÓN
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 86.
 
-Los derechos por la prestación de servicios públicos a cargo de las diversas dependencias del Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento en que se provoque el gasto que deba ser remunerado por el particular, salvo en el caso en que las leyes estatales aplicables en la materia señalen cosa distinta.
+Los derechos establecidos en la presente Ley y demás disposiciones aplicables, por el uso o aprovechamiento de los bienes de dominio público del Estado, así como la prestación de servicios públicos a cargo de las diversas dependencias del Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento en que se provoque el gasto que deba ser remunerado por el particular, salvo en el caso en que las leyes estatales aplicables en la materia señalen cosa distinta.
 
 PAGO
 
@@ -921,9 +1031,11 @@ Para la percepción de estos ingresos se estará a lo dispuesto, según el caso,
 
 DEFINICIÓN
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 94.
 
-Son aprovechamientos los ingresos a que se refiere el Código Fiscal del Estado; quedan comprendidos las herencias, legados y donaciones a favor de la Hacienda Pública del Estado de Chihuahua.
+Son aprovechamientos los ingresos que percibe el Estado por funciones de derecho público distintos de las contribuciones, los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal.
 
 COBRO
 
@@ -937,9 +1049,13 @@ CLASIFICACIÓN
 
 Quedan comprendidos dentro de esta clasificación además de los establecidos en la presente Ley y en las demás leyes fiscales estatales, los ingresos que obtenga el Estado por concepto de:
 
-I. Aprovechamientos de Tipo Corriente.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-II. Aprovechamientos de Capital.
+I. Aprovechamientos Ordinarios. Son los ingresos que se perciben por funciones de derecho público, cuyos elementos pueden no estar previstos en una ley, sino en una disposición administrativa de carácter general, provenientes de multas e indemnizaciones no fiscales, reintegros, juegos y sorteos, donativos, entre otros.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+II. Aprovechamientos Patrimoniales. Son los ingresos que se perciben por uso o enajenación de bienes muebles, inmuebles e intangibles, por recuperaciones de capital o en su caso patrimonio invertido, de conformidad con la legislación aplicable en la materia.
 
 Los aprovechamientos que se incluyan en dicha clasificación, deberán corresponder con los establecidos en el Clasificador por Rubro de Ingresos que para tal efecto emita el Consejo Nacional de Armonización Contable.
 
@@ -982,3 +1098,11 @@ P.O. 9 DE MARZO DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se autoriza a la Secretaría de Hacienda del Gobierno del Estado, para que realice las adecuaciones y ajustes necesarios, respecto a los ingresos estimados en la Ley de Ingresos del Estado de Chihuahua, para el Ejercicio Fiscal 2019; de igual forma se le autoriza, en su caso, para realizar los reembolsos presupuestales correspondientes a que hubiere lugar.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLYC/0636/2019”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil veinte.
