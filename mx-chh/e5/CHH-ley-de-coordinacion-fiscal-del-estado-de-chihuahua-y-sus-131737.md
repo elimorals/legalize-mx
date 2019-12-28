@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-coordinacion-fiscal-del-estado-de-chihuahua-y-sus-131737
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-24"
-last_updated: "2018-12-01"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 24 de noviembre de 2018.
 
@@ -403,9 +403,11 @@ La Comisión Nacional del Agua solo podrá solicitar al Ejecutivo del Estado la 
 
 [Párrafos tercero y cuarto vienen de la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado de Chihuahua, artículo 142, párrafos segundo y tercero, adicionados mediante Decreto No. 537-2014 V P.E. publicado en el P.O.E. No. 85 del 22 de octubre de 2014]
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 38.
 
-Con el 20% de los ingresos del Estado por concepto de impuestos estatales no destinados a un fin específico, de acuerdo a lo estipulado en la Ley de Hacienda del Estado de Chihuahua, se integrará el Fondo para el Desarrollo Socioeconómico Municipal, cuyos recursos se establecen como aportaciones del Estado que se transfieren a los municipios, condicionando su gasto a la consecución y cumplimiento del objetivo de impulsar el desarrollo socioeconómico municipal.
+Solo para efectos de referencia, con el 20% de los ingresos del Estado por concepto de impuestos estatales no destinados a un fin específico, con excepción del Impuesto sobre Nómina, pagado por los organismos descentralizados del Estado que reciban, ya sea de manera total o parcial, recursos federales etiquetados para el pago de su nómina; de acuerdo a lo estipulado en la Ley de Hacienda del Estado de Chihuahua, se integrará el Fondo para el Desarrollo Socioeconómico Municipal, cuyos recursos se establecen como aportaciones del Estado que se transfieren a los municipios, condicionando su gasto a la consecución y cumplimiento del objetivo de impulsar el desarrollo socioeconómico municipal.
 
 La distribución entre los municipios de los recursos del Fondo para el Desarrollo Socioeconómico Municipal, se determinarán conforme a la siguiente fórmula:
 
@@ -422,6 +424,10 @@ II. El tipo y costo del programa o proyecto.
 III. El impacto social, beneficios y costos sociales.
 
 IV. La reducción de la pobreza extrema.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+El Fondo para el Desarrollo Socioeconómico Municipal se determinará anualmente en el Presupuesto de Egresos del Estado y se enterará mensualmente en los doce meses del año por partes iguales a los municipios por conducto de la Secretaría de Hacienda.
 
 > <small>(ADICIONADO, P.O. 01 DE DICIEMBRE DE 2018)</small>
 
@@ -614,3 +620,11 @@ PRIMERO.- Publíquese en el Periódico Oficial del Estado.
 SEGUNDO.- El presente Decreto entrará en vigor el mismo día que el Decreto No. LXV/EXLEY/0883/2018 XVIII P.E., por el que fue expedida la Ley de Coordinación Fiscal para el Estado de Chihuahua y sus Municipios.
 
 TERCERO.- Háganse las previsiones presupuestales a que haya lugar para el cumplimiento del presente Decreto, particularmente para la constitución del Fondo creado mediante el mismo, siguiendo las formalidades a que haya lugar en los términos aplicables.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLYC/0636/2019”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil veinte.
