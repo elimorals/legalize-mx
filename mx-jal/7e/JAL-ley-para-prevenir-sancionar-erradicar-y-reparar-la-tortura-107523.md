@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-prevenir-sancionar-erradicar-y-reparar-la-tortura-1075
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-25"
-last_updated: "2019-10-19"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA PREVENIR, SANCIONAR, ERRADICAR Y REPARAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES E INHUMANOS O DEGRADANTES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 25 de abril de 2015.
 
@@ -53,7 +53,9 @@ Todas las autoridades del Estado respetarán y garantizarán en todo momento el 
 
 Para los efectos de esta ley se entenderá por:
 
-I. Organismos de protección de los derechos humanos: La Comisión Nacional de los Derechos Humanos, la Comisión Estatal de Derechos Humanos del Estado de Jalisco y el Sistema Estatal de Protección a Víctimas;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+I. Organismos de protección de los derechos humanos: La Comisión Nacional de los Derechos Humanos, la Comisión Estatal de Derechos Humanos del Estado de Jalisco y el Sistema Estatal de Atención a Víctimas del Delito o Violaciones a sus Derechos Humanos;
 
 II. Organismos internacionales de protección de los derechos humanos: Aquellos organismos que tienen la facultad de realizar visitas a México para promover los derechos humanos y su protección;
 
@@ -99,9 +101,11 @@ I. Programas de investigación, documentación, valoración médica y psicológi
 
 II. Protocolos de actuación, campañas de sensibilización y difusión, manuales, capacitaciones y cualquier otro mecanismo idóneo, para prevenir, sancionar y erradicar la tortura.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 8.
 
-Los protocolos de investigación de la tortura y uso legítimo de la fuerza, que emita la Fiscalía General del Estado serán de observancia general para todos los cuerpos de seguridad pública.
+Los protocolos de investigación de la tortura y uso legítimo de la fuerza, que emita la Fiscalía Estatal serán de observancia general para todos los cuerpos de seguridad pública.
 
 ### Capítulo III. De las Visitas a los Centros de Detención
 
@@ -133,7 +137,9 @@ Todo servidor público que en el ejercicio en sus funciones tenga conocimiento d
 
 El agente del ministerio público que en ejercicio de sus funciones tenga conocimiento por sí o por denuncia, de la comisión de un hecho de tortura u otros tratos crueles, inhumanos o degradantes, deberá de iniciar de oficio la investigación correspondiente y, en su caso, ejercer la acción penal en los plazos que señale la legislación penal adjetiva.
 
-En caso de no iniciar la investigación se le sancionará en términos de la Ley en materia de responsabilidades de los servidores públicos, sin menoscabo de las sanciones que establezca el Código Penal para el Estado Libre y Soberano de Jalisco.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+En caso de no iniciar la investigación se le sancionará en términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, sin menoscabo de las sanciones que establezca el Código Penal para el Estado Libre y Soberano de Jalisco.
 
 ###### Artículo 13.
 
@@ -173,9 +179,11 @@ El Estado adoptará todo tipo de medidas de restitución, rehabilitación, satis
 
 ### Capítulo VI. De las Sanciones
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 21.
 
-Las violaciones a los preceptos de esta ley cometidas por servidores públicos, serán sancionadas en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, sin menoscabo de las sanciones que establezca el Código Penal para el Estado Libre y Soberano de Jalisco.
+Las violaciones a los preceptos de esta ley cometidas por servidores públicos, serán sancionadas en los términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, sin menoscabo de las sanciones que establezca el Código Penal para el Estado Libre y Soberano de Jalisco.
 
 ## TRANSITORIOS
 
@@ -248,3 +256,9 @@ P.O. 19 DE OCTUBRE DE 2019.
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27738/LXII/19 QUE REFORMAN (SIC) LOS ARTÍCULOS 2, 8, 12 Y 21 DE LA LEY PARA PREVENIR, SANCIONAR, ERRADICAR Y REPARAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES E INHUMANOS O DEGRADANTES DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
