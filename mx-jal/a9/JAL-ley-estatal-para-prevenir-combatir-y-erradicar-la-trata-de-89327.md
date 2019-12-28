@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-prevenir-combatir-y-erradicar-la-trata-de-8932
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-01"
-last_updated: "2015-11-17"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY ESTATAL PARA PREVENIR, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE JALISCO
 
-LEY ESTATAL PARA PREVENIR, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE JALISCO.
+LEY ESTATAL PARA PREVENIR, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 1 de septiembre de 2012.
 
@@ -167,19 +167,19 @@ c) Secretaría de Educación;
 
 d) Secretaría de Salud;
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-e) Secretaría de Movilidad;
+e) Secretaría del Transporte;
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-f) Fiscalía General;
+f) Fiscalía Estatal;
 
 g) Secretaría del Trabajo y Previsión Social;
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-h) Secretaría de Desarrollo e Integración Social;
+h) Secretaría de Igualdad Sustantiva entre mujeres y hombres;
 
 i) (DEROGADO, P.O. 9 DE OCTUBRE DE 2014)
 
@@ -187,9 +187,9 @@ j) Procuraduría Social;
 
 k) El Sistema Estatal para el Desarrollo Integral de la Familia;
 
-l) El Instituto Jalisciense de las Mujeres;
+l) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
-m) El instituto Jalisciense de la Juventud, y
+m) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 > <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
 
@@ -610,3 +610,9 @@ P.O. 9 DE OCTUBRE DE 2014.
 P.O. 17 DE NOVIEMBRE DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27721/LXII/19 QUE REFORMA EL ARTÍCULO 5 DE LA LEY ESTATAL PARA PREVENIR, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco.
