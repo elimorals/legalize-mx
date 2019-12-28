@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2019-11-09"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -315,6 +315,10 @@ III.- Presentar ante las autoridades municipales proyectos para reglamentos o no
 
 IV.- Colaborar en las actividades de participación ciudadana.
 
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+V.- En los municipios que se rigen por Sistemas Normativos Internos, podrán presentar y exponer ante su asamblea comunitaria y a las autoridades municipales proyectos de estatuto electoral comunitario.
+
 ###### ARTÍCULO 28.
 
 Son obligaciones de los ciudadanos del Municipio:
@@ -360,6 +364,10 @@ El Ayuntamiento estará integrado por el Presidente Municipal y el número de S�
 Los miembros del Ayuntamiento se eligen por sufragio universal, directo, libre y secreto de los ciudadanos según los principios de mayoría relativa y de representación proporcional, en los términos de la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca.
 
 En los Municipios que se rigen por usos y costumbres, para la elección del Ayuntamiento, se respetarán las tradiciones y prácticas democráticas en los términos de los ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Las asambleas comunitarias y la Asamblea General, garantizaran la participación de hombres y mujeres para que todos y cada uno de los Centros de Población y Categorías Administrativas existentes queden representados en el Ayuntamiento.
 
 ###### ARTÍCULO 32.
 
@@ -449,6 +457,10 @@ I.- Expedir y reformar de acuerdo con las leyes que expida la Legislatura del Es
 
 I Bis.- Aprobar y publicar dentro de los 90 días siguientes a su toma de posesión su Bando de Policía y Gobierno, y reglamentos o, en su caso, ratificar o actualizar los vigentes, debiendo remitirlo al Congreso del Estado para su conocimiento.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Si durante la gestión municipal fuera urgente y necesario hacer alguna modificación a los reglamentos, así lo determinará El Cabildo por la mayoría de sus integrantes, dando conocimiento de ello al Congreso del Estado.
+
 II.- Proponer ante la Legislatura del Estado, iniciativas de leyes, decretos y acuerdos en materia municipal;
 
 III.- Ordenar su territorio municipal para efectos administrativos;
@@ -485,13 +497,19 @@ Los programas de obras públicas a que hace referencia la presente ley, tratánd
 
 XVI.- Administrar, vigilar y evaluar la formulación e instrumentación de los planes de desarrollo urbano y los mecanismos que se requieran para la adecuada conducción del mismo, la creación de zonas territoriales, de reserva ecológica y los de alta productividad agrícola, previo dictamen de la autoridad competente;
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XVII.- Convocar a elecciones de las autoridades auxiliares del Ayuntamiento, así como de las agencias municipales y de policía, respetando en su caso, las tradiciones, usos, costumbres y prácticas democráticas de las propias localidades, en los términos previstos por el artículo 79 de esta Ley.
+XVII.- Reconocer y Convocar en coordinación con las autoridades comunitarias a elecciones de las autoridades auxiliares del Ayuntamiento, así como de las agencias municipales y de policía, respetando en su caso, la organización interna, las tradiciones, usos, costumbres y prácticas democráticas de las propias localidades, en los términos previstos por el artículo 79 de esta Ley.
 
-Si el ayuntamiento por mayoría calificada considera que se encuentra en riesgo la paz y estabilidad de la Agencia Municipal o de Policía de que se trate, acordará no convocar a elecciones, procediendo a designar a un encargado que permanecerá en el cargo hasta por sesenta días.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+En situación de conflicto interno en la que se ponga en riesgo la paz y estabilidad de la agencia municipal o de policía, el ayuntamiento agotara los mecanismos para garantizar la armonía en el proceso de elección. De no haber condiciones para la elección de la autoridad auxiliar, el ayuntamiento por mayoría calificada considera que se encuentra en riesgo la paz y estabilidad de la Agencia Municipal o de Policía de que se trate, acordará no convocar a elecciones, procediendo a designar a un encargado que permanecerá en el cargo hasta por sesenta días. Tiempo en el que se procurara, en estricto respeto a los derechos de los pueblos indígenas y principios democráticos, alcanzar la armonía en la comunidad para proceder con el proceso de elección correspondiente.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2011)</small>
 
 Vencido el plazo a que se refiere el párrafo anterior, y si las condiciones no son favorables para convocar a elección, el Ayuntamiento procederá por mayoría calificada a ratificar al encargado de la Agencia Municipal o de Policía hasta por tres años, o el tiempo que determinen sus usos y costumbres.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2011)</small>
 
 Una vez electas las autoridades auxiliares, el Ayuntamiento facultará al Presidente Municipal expedir de manera inmediata los nombramientos correspondientes, lo mismo realizará para el caso de que se nombre a un encargado;
 
@@ -731,19 +749,19 @@ LXXXIV.- Hacer pública la información del padrón a que hace referencia la fra
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-LXXXV. Crear la instancia Municipal de la Mujer, que será la encargada de implementar la política municipal en materia de igualdad de derechos y obligaciones entre hombres y mujeres;
+LXXXV.- Crear la instancia Municipal de la Mujer, que será la encargada de implementar la política municipal en materia de igualdad de derechos y obligaciones entre hombres y mujeres;
 
 > <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN LXXXV], P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-LXXXVI. Promover la organización y preservación de los archivos municipales conforme a la Ley de Archivos del Estado de Oaxaca.
+LXXXVI.- Promover la organización y preservación de los archivos municipales conforme a la Ley de Archivos del Estado de Oaxaca.
 
 > <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN LXXXVI], P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-LXXXVII. En los municipios donde se encuentren asentados pueblos indígenas, los ayuntamientos promoverán, en el marco de las prácticas tradicionales de las Comunidades y Pueblos Indígenas, el desarrollo de sus lenguas, cultura, usos, costumbres, recursos naturales y sus formas específicas de organización social, atendiendo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Particular del Estado y la Ley de los Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca.
+LXXXVII.- En los municipios donde se encuentren asentados pueblos indígenas, los ayuntamientos promoverán, en el marco de las prácticas tradicionales de las Comunidades y Pueblos Indígenas, el desarrollo de sus lenguas, cultura, usos, costumbres, recursos naturales y sus formas específicas de organización social, atendiendo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Particular del Estado y la Ley de los Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca.
 
 > <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-LXXXVII (SIC). Las demás que les señalen las leyes y reglamentos municipales.
+LXXXVII (SIC).- Las demás que les señalen las leyes y reglamentos municipales.
 
 ###### ARTÍCULO 44.
 
@@ -1145,7 +1163,7 @@ F) Para lo no previsto en el presente Capítulo, se aplicará de manera supletor
 
 ARTÍCULO 65 BIS.- La Asamblea General Comunitaria es la máxima autoridad en los municipios indígenas que se rigen por sus Sistemas Normativos para elegir a sus autoridades. Sus acuerdos serán plenamente válidos y deberán ser reconocidos y respetados por el Estado, siempre que no violen los derechos humanos de sus integrantes, reconocidos por la Constitución y Tratados Internacionales. Se integra por los miembros de la comunidad, en condiciones de igualdad conforme a sus sistemas normativos indígenas.
 
-La asamblea general encargada de elegir a las autoridades indígenas en municipios que se rigen por sus Sistemas Normativos, podrá decidir la terminación anticipada del periodo para el que fueron electos todos los integrantes de un Ayuntamiento y elegir a las autoridades sustitutas, para concluir dicho período, cumpliendo con el Sistema Normativo que corresponda.
+La asamblea general encargada de elegir a las autoridades indígenas en municipios que se rigen por sus Sistemas Normativos, podrá decidir la terminación anticipada del período para el que fueron electos todos los integrantes de un Ayuntamiento y elegir a las autoridades sustitutas, para concluir dicho período, cumpliendo con el Sistema Normativo que corresponda.
 
 Procederá la terminación anticipada del mandato, cuando se reúnan los requisitos y se cumpla con el siguiente procedimiento:
 
@@ -3608,3 +3626,27 @@ P.O. 9 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 799.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 838.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN V AL ARTÍCULO 27 Y UN TERCER PÁRRAFO AL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 839.- MEDIANTE EL CUAL ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN 1 (SIC) BIS DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 840.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XVII EN SUS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
