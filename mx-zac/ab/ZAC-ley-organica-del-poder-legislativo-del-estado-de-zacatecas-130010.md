@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1300
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-07"
-last_updated: "2019-06-12"
+last_updated: "2019-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Suplemento 7 al Número 54 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de julio de 2018.
 
@@ -795,7 +795,9 @@ I. Identificar la procedencia con la Constitución federal y la propia del Estad
 
 II. Analizar el impacto en otras leyes del Estado, al que se denominará análisis colateral;
 
-III. Verificar el impacto presupuestario de acuerdo con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+III. En su caso, verificar la procedencia del impacto presupuestario de acuerdo con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios;
 
 IV. Apegarse a la estructura lógico jurídica, y
 
@@ -2414,3 +2416,41 @@ P.O. 12 DE JUNIO DE 2019.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo Segundo. En un plazo que no exceda de cinco días naturales, contados a partir de la publicación del presente Decreto, los Grupos Parlamentarios deberán ratificar o en su caso remover a los legisladores que integren la Comisión de Régimen Interno y Concertación Política y la Comisión de Planeación, Patrimonio y Finanzas, y que se encuentren en los supuestos legales señalados en la reforma de mérito, en términos del presente instrumento legislativo.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 252.- SE REFORMA Y ADICIONA LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS Y LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Vigencia
+
+Artículo Primero. El Decreto de reforma entrará en vigor a partir del 1 de enero de 2020, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Obligación de los Entes Públicos
+
+Artículo Segundo. Dentro del término de sesenta días naturales contados a partir de la vigencia del Decreto, todos los Entes Públicos del Estado y Municipios, en el ámbito de sus respectivas competencias, tienen obligación de:
+
+- Expedir la reglamentación y demás normatividad de Impacto Presupuestario, para implementar las etapas de 1) Evaluación de Impacto Presupuestario, 2) Dictamen de Estimación de Impacto Presupuestario, y 3) Dictamen de Estructura Orgánica y Ocupacional.
+
+Armonización del marco jurídico
+
+Artículo Tercero. Los Entes Públicos del Estado y Municipios, en el ámbito de sus respectivas competencias, llevarán a cabo el proceso de armonización, actualización, en su caso, reforma al marco jurídico que les aplique, de conformidad a las siguientes bases y etapas de armonización normativa en materia de Impacto Presupuestario:
+
+- Dentro del término de sesenta días naturales contados a partir de la vigencia del Decreto, el Poder Legislativo expedirá el Reglamento de Impacto Presupuestario, para implementar las etapas de 1) Evaluación de Impacto Presupuestario; 2) Dictamen de Estimación de Impacto Presupuestario; 3) Dictamen de Estructura Orgánica y Ocupacional, en su caso, por creación de nuevas áreas a través de la iniciativa de ley o decreto.
+
+- Dentro del término de sesenta días naturales contados a partir de la vigencia del presente Decreto, el Poder Judicial del Estado deberá actualizar su reglamentación de conformidad con el presente Decreto.
+
+- Los Municipios del Estado, los organismos autónomos y demás Entes Públicos, en el término de sesenta días naturales a partir de la vigencia del presente Decreto, deben expedir la reglamentación, en su caso, podrán aplicar el reglamento o lineamiento que expidan los Poderes del Estado, en materia de evaluación de impacto presupuestario, dictamen de estimación de impacto presupuestario y dictamen de estructura orgánica y ocupacional.
+
+Capacitación
+
+Artículo Cuarto. Los Entes Públicos del Estado y Municipios, en el ámbito de sus respectivas competencias, al día siguiente de la publicación del presente Decreto, implementarán talleres de capacitación para acreditar al personal jurídico, técnico, contable y administrativo que tenga vinculación con alguna de las etapas del impacto presupuestario.
+
+Área de Impacto Presupuestario
+
+Artículo Quinto. Los Entes Públicos del Estado y Municipios, en el ámbito de sus respectivas competencias, dentro de los sesenta días naturales, a partir de la publicación del presente Decreto, deberán proveer lo conducente para la instalación de un área específica, que se integre con personal adscrito a las áreas jurídicas, contables y administrativas, que acredite capacitación, formación, actualización y especialización en materia de impacto presupuestario, regulatorio y otros tipos de impacto.
+
+El Poder Legislativo del Estado, realizará las acciones administrativas necesarias para instalar la unidad u órgano especializado que tiene entre sus funciones la elaboración, revisión y seguimiento del impacto presupuestario de leyes, decretos de reforma y disposiciones administrativas.
+
+Disposiciones de derogación
+
+Artículo Sexto. Se derogan todas las disposiciones legales, reglamentarias o administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
