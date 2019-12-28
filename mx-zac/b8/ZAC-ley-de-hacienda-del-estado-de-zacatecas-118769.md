@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-118769"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2018-12-31"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -1185,9 +1185,13 @@ DE LA TASA
 
 Este impuesto se determinará aplicando a la base gravable, la tasa del 1.40 %.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Tratándose de vehículos automotrices a los cuales se haya aplicado la totalidad de depreciación anual a que se refiere el artículo 67 de esta Ley en diez años, pagarán a partir del siguiente año la cantidad de $980.00.
+Tratándose de vehículos automotrices a los cuales se haya aplicado la totalidad de depreciación anual a que se refiere el artículo 67 de esta Ley en diez años, pagarán de la manera siguiente:
+
+a) De once a veinte años modelo, pagarán la cantidad de: $676.00, y
+
+b) De más de veinte años modelo, pagarán la cantidad de: $338.00
 
 DEL PAGO
 
@@ -1453,15 +1457,25 @@ III. Capacitación de Personal de Seguridad Pública Municipal:
 
 Curso de Capacitación Importe
 
-Curso 40 horas. $ 3,500.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Curso 80 horas. $ 6,000.00
+a) Curso 40 horas $ 3,500.00
 
-Evaluación de habilidades y destrezas por elementos. $ 1,500.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Cursos de Formación Inicial Equivalente, 972 horas. $ 40,000.00
+b) Curso 80 horas $ 6,000.00
 
-Cursos de Formación Inicial Equivalente, 486 horas. $ 20,000.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+c) Evaluación de habilidades y destrezas por elementos $ 1,500.00
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+d) Cursos de Formación Inicial Equivalente, 972 horas $ 40,000.00
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+e) Cursos de Formación Inicial Equivalente, 486 horas $ 20,000.00
 
 ###### ARTÍCULO 96.
 
@@ -1533,39 +1547,51 @@ VI. Los provenientes del Periódico Oficial, Órgano del Gobierno del Estado Lib
 
 a) Por suscripción y puesta a disposición en las propias instalaciones del Periódico Oficial:
 
-1. Por semestre $2,500.00
-
-2. Por año $4,500.00
-
-b) Por enviar a otros lugares fuera de la ciudad de Zacatecas, pero en el interior del país:
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 1. Por semestre $3,200.00
 
-2. Por año $5,800.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-c) Por enviar al extranjero:
+2. Por año $5,500.00
 
-1. Por semestre $4,800.00
+b) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
-2. Por año $9,200.00
+c) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 VII. Por el servicio de expedición o puesta a disposición por ejemplar:
 
-a) Del día $15.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-b) De fechas anteriores
+a) Del día ordinario $15.00;
 
-1. Hasta seis meses $20.00
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-2. Hasta de un año $25.00
+b) De fechas anteriores:
 
-3. De más de un año $30.00
+1. Hasta seis meses $25.00
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+2. Hasta de un año $30.00
 
-VIII. Por servicios de publicación, por palabra de Aviso judicial, administrativo, edicto, notificación y otros actos que se publiquen conforme a disposiciones legales, causarán la siguiente cuota por inserción $0.80.
+3. De más de un año $40.00.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+c) Del día del suplemento $20.00.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+VIII. Por servicios de publicación, por palabra de Aviso judicial, administrativo, edicto, notificación y otros actos que se publiquen conforme a disposiciones legales, causarán la siguiente cuota por inserción $0.90
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+IX. Por certificación de copias de ejemplares $300.00
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+X. Por servicio de fotocopia simple $1.00.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1575,13 +1601,17 @@ BIS. Los servicios que preste la Subsecretaría de Transporte Público a través
 
 I. La Dirección de Análisis y Capacitación de Transporte:
 
-a). Curso para operadores del Servicio Público. $ 200.00
+a) Curso para operadores del Servicio Público. $ 200.00
 
-b). Gafete para operadores del Servicio Público. $ 500.00
+b) Gafete para operadores del Servicio Público. $ 500.00
 
-c). Reposición de Gafetes para Operadores del Servicio Público. $ 250.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-d). Certificación de documentos, por foja. $ 4.00
+c) Reposición de Gafetes $250.00;
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+d) Certificación de documentos de una a cinco fojas. $203.00, y por cada foja excedente $4.00.
 
 II. La Dirección de Concesiones, Inspección y Vigilancia de Transporte:
 
@@ -1605,53 +1635,87 @@ Por cada unidad excedente de las 10 primeras. $ 5,000.00
 
 8. Grúas. $150,000.00
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+9. Servicio de Ambulancia $40,000.00
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+10. De Discapacitados $30,000.00
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+11. Escolar $50,000.00
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+12. De personal de empresas $70,000.00.
+
 b) Refrendo anual de concesión. $ 1,500.00
 
 c) Reposición de concesión. $ 2,500.00
 
 d) Transferencia de derechos de concesión por:
 
-1. Compra venta. $ 75,000.00
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+1. Cesión de derechos:
+
+i. En las modalidades de colectivo urbano y suburbano. $20,000.00
+
+ii. En las modalidades de arrendamiento hasta por 10 unidades, servicio de ambulancias, de personas con discapacidad, agencia funeraria, carga de materiales, y de carga liviana $30,000.00
+
+iii. En las modalidades de colectivo foráneo, taxi, turístico, escolar, de personal de empresas, y grúa $75,000.00
 
 2. Incapacidad física o mental. $ 5,000.00
 
 3. Fallecimiento del titular. $ 5,000.00
 
-e) Substitución de beneficiario en la concesión. $1,000.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-f) Expedición de permiso experimental. $5,000.00
+e) Designación de beneficiario en la concesión $1,000.00
 
-g) Renovación mensual de permisos experimentales. $1,500.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+f) Substitución de beneficiario en la concesión $1,500.00
 
-h) La revisión operativa de unidades de servicio público de pasajeros y carga:
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-1. Cambio de Vehículo. $ 300.00
+g) Expedición de permiso experimental $5,000.00
 
-2. Cambio de ruta. $ 950.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-3. Ampliación de ruta. $ 450.00
+h) Renovación mensual de permisos experimentales $1,500.00;
 
-4. Anual. $ 300.00
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+i) Revisión operativa de:
 
-5. Certificación de servicio público. $203.00
+1. Cambio provisional de vehículo $100.00;
 
-i). Expedición de permiso para circular sin placas:
+2. Cambio de vehículo $300.00;
 
-1. Por 5 días. $ 400.00
+3. Cambio de ruta $950.00;
 
-2. Por 10 días. $ 550.00
+4. Ampliación de ruta $450.00, y
 
-3. Por 15 días. $ 700.00
-
-4. Por 30 días. $ 1,100.00
+5. Anual $300.00.
 
 j) Permisos temporales para portar publicidad en vehículos de transporte público de pasajeros o de carga por unidad, por un año. $ 2, 500.00
 
 k) Permisos temporales para portar publicidad en vehículos de transporte público de taxi por unidad, por un año. $ 1, 000.00
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+l) Expedición de permiso para cambio provisional del vehículo:
+
+1. Por cinco días $400.00;
+
+2. Por diez días $550.00;
+
+3. Por quince días $700.00
+
+4. Por treinta días $1,100.00.
 
 ### CAPÍTULO TERCERO. Servicios de la Secretaría de Finanzas
 
@@ -1667,15 +1731,19 @@ Grupo C: Pánuco, Mezquital del Oro, Vetagrande, Apulco, Jiménez del Téul, Mom
 
 II. Las verificaciones a los establecimientos que lleve a cabo el Estado, se causarán de acuerdo al grupo al que pertenezca el municipio donde se ubique el domicilio del establecimiento, de acuerdo a los importes siguientes:
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 Grupo A B C
 
-$373.00 $299.00 $224.00
+$722.00 $579.00 $433.00
 
 III. La anuencia que expida el Estado se tasará de acuerdo con los importes siguientes:
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 Grupo A B C
 
-$522.00 $448.00 $373.00
+$1,011.00 $867.00 $722.00
 
 IV. Los derechos relativos a las licencias, originarán el pago de los importes siguientes:
 
@@ -1749,11 +1817,9 @@ c) Para los vehículos que se encuentren registrados en el padrón vehicular, cu
 
 Para los efectos de esta fracción, se cubrirán los derechos siguientes
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-a) VEHÍCULO AUTOMOTOR DE SERVICIO PARTICULAR, DE SERVICIO PÚBLICO, REMOLQUES, ASÍ COMO LOS DE DEMOSTRACIÓN DE AGENCIAS DISTRIBUIDORAS DE AUTOS. $1,250.00
+a) Vehículo de servicio particular: $1,250.00
 
 b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
@@ -1766,6 +1832,10 @@ e) Motocicletas y similares. $550.00
 f) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 según se refiera:
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+g) Remolque $800.00
 
 II. Reposición de tarjeta de circulación: $ 150.00
 
@@ -1983,17 +2053,17 @@ Del ingreso percibido por concepto de servicios catastrales, un 5% será destina
 
 Los servicios que presten por concepto de:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-I. Calificación Registral, por testimonio o documento $50.00
+I. Calificación Registral, por testimonio o documento $55.00
 
 II. Inscripción de documentos relativos a bienes inmuebles:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-a) Tratándose de inmuebles, se cubrirá la tarifa mínima general por
+a) Tratándose de inmuebles con valor de hasta $281,000.00, se cubrirá una cuota de $2,163.00, por inmueble; por el excedente del valor del bien inmueble se pagará el 1 por ciento.
 
-inmueble equivalente a $2,163.00
+Para efectos del valor establecido en el párrafo anterior, éste será el mayor entre el avaluó practicado por la Dirección de Catastro y Registro Público y el documento sujeto de inscripción.
 
 b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
@@ -2047,109 +2117,133 @@ c) Para los efectos de este capítulo se equiparan a la compraventa los siguient
 
 17. Tratándose de títulos otorgados por el Instituto Nacional del Suelo Sustentable e Instituto del Fondo Nacional de la Vivienda para los Trabajadores y otras instituciones oficiales similares, o por los programas que se instituyan en su lugar.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-III. Diligencias de apeo y deslinde: $300.00
+III. Diligencias de apeo y deslinde $330.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-IV. Capitulaciones matrimoniales: $300.00
+IV. Capitulaciones matrimoniales $330.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-V. En la inscripción del régimen de propiedad en condominio, por cada departamento, despacho, vivienda, local, cajón de estacionamiento o cualquier otro tipo de unidades privativas $300.00
+V. En la inscripción del régimen de propiedad en condominio, por cada departamento, despacho, vivienda, local, cajón de estacionamiento o cualquier otro tipo de unidades privativas $330.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-VI. Fusión de predios, por cada uno de los predios fusionados $100.00
+VI. Fusión de predios, por cada uno de los predios fusionados $110.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-VII. Actos, contratos, convenios o autorizaciones por los que se fraccione, lotifique o subdivida un predio, por cada lote o fracción: $100.00
+VII. Actos, contratos, convenios o autorizaciones por los que se fraccione, lotifique o subdivida un predio, por cada lote o fracción $110.00
 
 VIII. Por la inscripción y anotación relativa a la limitación o gravamen de la propiedad y posesión de inmuebles, se tasará al 0.35% sobre el valor de limitación o gravamen, cuando no se determine o no se inserte éste, se tasarán, tratándose de actos o contratos de la forma siguiente:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+a) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
-a) Arrendamiento, subarrendamiento o cesión de arrendamiento $1,100.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+b) Constitución o sustitución de garantías reales, cesión de garantías u obligaciones reales $1,210.00
 
-b) Constitución o sustitución de garantías reales, cesión de garantías u
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-obligaciones reales $1,100.00
+c) Subrogación de garantía, cesión de garantías u obligaciones reales $1,210.00
 
-c) Subrogación de garantía, cesión de garantías u obligaciones reales. $821.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+d) Comodato o convenios judiciales $1,210.00
 
-d) Comodato o convenios judiciales. $1,100.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-e) Demandas o resoluciones que limiten el derecho de propiedad o posesión. $821.00
+e) Demandas o resoluciones que limiten el derecho de propiedad o posesión $1,210.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-f) Fideicomiso de afectación o administración en garantía y en el que el o los fideicomitentes se reserven expresamente la propiedad $1,100.00
+f) Fideicomiso de afectación o administración en garantía y en el que el o los fideicomitentes, se reserven expresamente la propiedad $1,210.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-g) El cumplimiento de condiciones suspensivas a que se haya sujetado la transmisión de la propiedad $1,100.00
+g) El cumplimiento de condiciones suspensivas a que se haya sujetado la transmisión de la propiedad $1,210.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-h) Fianzas $1,100.00
+h) Fianzas $1,210.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-i) Prendas sobre crédito inscrito $1,100.00
+i) Prendas sobre crédito inscrito $1,210.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-j) Prenda de frutos pendientes $1,100.00
+j) Prenda de frutos pendientes $1,210.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-k) Uso, usufructo, servidumbre y contratos de crédito refaccionario, de habilitación y avío celebrado entre particulares $1,100.00
+k) Uso, usufructo, servidumbre y contratos de crédito refaccionario, de habilitación y avío celebrado entre particulares $1,210.00, y
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-l) División de copropiedad, por cada uno de los predios resultantes $1,100.00
+l) División de copropiedad, por cada uno de los predios resultantes $1,210.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-IX. Por el registro de cédula hipotecaria, embargo judicial o administrativo, se tasará en $900.00 sobre el monto total de lo reclamado, siempre y cuando éste sea igual o menor al equivalente a $229,950.00; cuando el monto de lo reclamado rebase el rango establecido en esta fracción, se aplicará adicionalmente el 1% al monto excedente;
+IX. Por el registro de cédula hipotecaria, embargo judicial o administrativo, cuando el monto total de lo reclamado sea hasta por la cantidad de $281,000.00, se cubrirá la cantidad de $990.00. Para inscripciones cuyo monto rebase el rango del valor establecido en esta fracción, se aplicará la tarifa adicional del 1% al monto excedente;
 
 X. Contrato de promesa de venta, se tasará al 0.4 % sobre el valor que se manifieste en el documento.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XI. Contrato de apertura de crédito: $600.00
+XI. Contrato de apertura de crédito $660.00
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XII. Créditos hipotecarios, refaccionarios, de habilitación y avío otorgados por las instituciones de crédito, 0.20 % sobre el importe de la operación que se consigne en el documento.
-
-> <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+XII. Los créditos otorgados en los que intervenga el fondo instituido por (sic) en relación a la agricultura (FIRA), el 0.16% sobre el monto.
 
 > <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-En materia de crédito para adquisición de vivienda el registro de contrato de hipoteca y crédito simple, se tasará al 0.115% sobre el importe de la operación que se consigne, sin cargo por concepto de contrato de apertura de crédito.
+> <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XIII. Inscripción de documentos que contengan los siguientes actos $765.00
+Tratándose de reestructuración de crédito o de convenios de reconocimiento de adeudo, se tasará sobre el diferencial entre el registrado y el que contenga la reestructura o el convenio de reconocimiento del adeudo.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Créditos hipotecarios, refaccionarios, de habilitación y avío, otorgados dentro del programa federal de PROCAMPO, o el que se instituya en su caso, 0.09% sobre el importe de la operación que se consigne en el documento.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+En materia de crédito para adquisición de vivienda, por el registro del contrato de hipoteca y crédito simple, se tasará al 0.125% sobre el importe de la operación que se consigne, sin cargo por concepto de contrato de apertura de crédito.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XIII. Inscripción de documentos que contengan los siguientes actos $990.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 a) Testamento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 b) Auto de designación, aceptación, discernimiento o sustitución del cargo de albacea; declaración y reconocimiento de herederos, si consta en el mismo documento; y repudio de la herencia;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 c) Autorización para vender o gravar bienes de menores;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 d) Poder, su modificación o revocación;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 e) Actuaciones judiciales;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 f) Depósito de testamento ológrafo;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 g) Modificación al contrato inicial por error material.
 
@@ -2163,13 +2257,13 @@ c) Compraventa;
 
 d) Compraventa con reserva de dominio se tasará sobre el valor o en el documento; a falta de éste sobre el avalúo que practique la Secretaria de Finanzas.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XV. Registro de personas morales o aumento de su capital social, 0.28% sobre el monto de capital social o sus aumentos:
+XV. Registro de personas morales o aumento de su capital social, 0.28% sobre el monto de capital social o sus aumentos, en los casos de (sic) dicho capital no exceda de $392,800.00 se pagará la cantidad de $1,210.00
 
-> <small>(REFORMADO [ N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XVI. Registro de documentos que contengan los siguientes actos: $900.00
+XVI. Registro de documentos que contengan los siguientes actos $990.00
 
 a) Disolución de personas morales;
 
@@ -2183,67 +2277,71 @@ d) Modificación al pacto social constitutivo;
 
 e) Registro de emisiones de acciones, cédulas, obligaciones o certificados de participación, depósito o de copias autorizadas por balance, transformación de sociedades y en general otros actos inscribibles;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XVII. Cancelación de inscripción o anotación: $200.00
+XVII. Cancelación de inscripción o anotación $220.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XVIII. Registro de instrumentos notariales celebrados ante fedatarios públicos de otras Entidades Federativas, con consecuencias jurídicas en el Estado, adicionalmente al monto de derechos que cause el acto: $3,000.00
+XVIII. Registro de instrumentos notariales celebrados ante fedatarios públicos de otras Entidades Federativas, con consecuencias jurídicas en el Estado, adicionalmente al monto de derechos que cause el acto $3,300.00
 
 XIX. Por la inscripción de documentos, expedición de certificados o de copias certificadas, solicitadas para entrega urgente, y que se expedirán dentro de las 7 horas hábiles siguientes a su solicitud, adicionalmente al pago de los derechos que corresponden, se cobrará:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-a) Inscripción de documentos a excepción de fraccionamientos
+a) Inscripción de documentos a excepción de fraccionamientos urbanos $1,500.00
 
-urbanos $1,400.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+b) Expedición de copias y certificados $450.00
 
-b) Expedición de copias y certificados $400.00
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+XX. Por el registro del contrato de arrendamiento, subarrendamiento o cesión de arrendamiento, se tasará al 0.35% la cantidad que dé como resultado el multiplicar la renta mensual por los años de duración de dicho contrato, en caso de que no se determine el monto del contrato, se cubrirá la cuota de $1,210.00
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 103.
 
-Inscripción de contrato innominado: $2,300.00
+Por la inscripción de contrato innominado $2,860.00
 
 ###### ARTÍCULO 104.
 
 Expedición de certificado de:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-I. No propiedad: $300.00
+I. No propiedad $330.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-II. Inscripción o no inscripción: $300.00
+II. Inscripción o no inscripción $330.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-III. Libertad de gravamen: $149.00
+III. Libertad de graven (sic) $220.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-IV. Existencia de un gravamen: $200.00
+IV. Existencia de un gravamen $220.00
 
-a) Por cada gravamen excedente $50.00
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+a) Por cada gravamen excedente $55.00
 
 V. Certificado de Historial registral:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-a) Hasta 5 fojas $300.00
+a) Hasta 5 fojas $330.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-b) Por cada foja excedente $18.00
+b) Por cada foja excedente $20.00
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-VI. Certificado de Limitación o de Anotación $250.00
+VI. Certificado de Limitación o de Anotación $270.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2257,15 +2355,23 @@ I. Existente en libros:
 
 a) Certificadas
 
-1. Hasta cinco fojas: $400.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-2. Por cada foja excedente: $18.00
+1. Hasta cinco fojas $440.00
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+2. Por cada foja excedente $20.00
 
 b) Simples
 
-1. Hasta cinco fojas: $200.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-2. Por cada foja excedente: $15.00
+1. Hasta cinco fojas $220.00
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+2. Por cada foja excedente $17.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2273,15 +2379,21 @@ II. En el archivo del apéndice:
 
 a) Certificadas
 
-1. Hasta cinco fojas: $500.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-2. Por cada foja excedente: $18.00
+1. Hasta cinco fojas $550.00
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+2. Por cada foja excedente $20.00.
 
 b) Simples
 
 1. Hasta cinco fojas: $250.00
 
-2. Por cada foja excedente: $15.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+2. Por cada foja excedente $17.00
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2289,27 +2401,35 @@ III. Expedidas del sistema electrónico:
 
 a) Certificadas
 
-1. Hasta cinco fojas: $400.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-2. Por cada foja excedente: $18.00
+1. Hasta cinco fojas $440.00
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+2. Por cada foja excedente $20.00
 
 b) Simples
 
-1. Hasta cinco fojas: $200.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-2. Por cada foja excedente: $15.00
+1. Hasta cinco fojas $220.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+2. Por cada foja excedente $17.00
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 106.
 
-Ratificación o certificación de firmas $300.00
+Ratificación o certificación de firmas $330.00
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 107.
 
-Cuando de un mismo título se consignen dos o más actos jurídicos, por cada acto $300.00
+Cuando de un mismo título se consignen dos o más actos jurídicos, por cada acto $330.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2323,23 +2443,17 @@ Si el mismo origina dos o más inscripciones, se tasarán por separado cada acto
 
 Del ingreso percibido por concepto del pago de derechos por los servicios de catastro y registro público, un 5% será destinado a su modernización y para la celebración de convenios con Municipios, cuyo monto deberá ser considerado como ampliación presupuestal, con independencia de lo establecido en la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-###### ARTÍCULO 107 Bis.
+ARTÍCULO 107 BIS. Por los servicios que se soliciten en materia de catastro y registro público, cuando los antecedentes a que se refieran dichos servicios se encuentren fuera del distrito judicial en el que se dirija la petición, se cobrará una tarifa adicional por documento equivalente a: $550.00
 
-Por los servicios que se soliciten en materia de catastro y registro público, cuando los antecedentes a que se refieran dicho servicios se encuentren fuera del distrito judicial en el que se dirija la petición, se cobrará una tarifa adicional por documento equivalente a: $500.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+ARTÍCULO 107 TER. Por los servicios de certificados y copias que se soliciten en materia de catastro y registro público, cuando los antecedentes a que se refiera se encuentren fuera del distrito de la capital del Estado y solicitado en la Jefatura del Registro Público, se cobrará una tarifa adicional por documento equivalente a. $880.00
 
-###### ARTÍCULO 107 Ter.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Por los servicios de certificados y copias que se soliciten en materia de catastro y registro público, cuando los antecedentes a que se refiera se encuentren fuera del distrito de la capital del Estado y solicitado en la Jefatura del Registro Público, se cobrará una tarifa adicional por documento equivalente a: $800.00
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-###### ARTÍCULO 107 Quáter.
-
-Consulta en la base de datos electrónica, realizada vía remota, por cada inscripción: $200.00
+ARTÍCULO 107 QUÁTER. Consulta en la base de datos electrónica, realizada vía remota, por cada inscripción $220.00
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -2425,13 +2539,13 @@ VII. Por cada copia heliográfica de planos de Programas y Esquemas de Desarroll
 
 VIII. Expedición de dictamen en materia de planeación y desarrollo urbano. $ 896.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-IX. Evaluación y Dictamen de Manifiesto de Impacto Urbano. $ 5,000.00
+IX. Evaluación y Dictamen de Manifiesto de Impacto Urbano $7,500.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-X. Evaluación y Resolución del Impacto Vial. $ 4,990.00
+X. Evaluación y Resolución del Impacto Vial $7,500.00
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2509,9 +2623,9 @@ I. Elaboración de oficio de cancelación de garantía hipotecaria, reserva de d
 
 II. Elaboración de convenio de subsanación de escritura; con relación a los contratos privados emitidos por el entonces Instituto Zacatecano de la Vivienda Social. $1,045.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-III. Expedición de títulos y escrituras privadas, respecto a los programas de vivienda y programas de regularización que ejecuta la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial. $3,432.00
+III. Expedición de títulos y escrituras públicas, respecto a los programas de vivienda y programas de regularización que ejecuta la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial $3,432.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2521,23 +2635,37 @@ En lo que se refiere a dichos programas el Ejecutivo del Estado podrá establece
 
 #### Sección Segunda. Servicios de la Secretaría de Obras Públicas
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-ARTÍCULO 111 BIS. Los servicios prestados por concepto de inscripción a concurso: $2,537.00
+ARTÍCULO 111 BIS. Los servicios que presten por concepto de:
 
-I. Costo por cada disco magnético de 3.5 pulgadas que se proporcionen a los concursantes: $12.00
+I. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2019)
 
-II. Costo por cada disco compacto “CD” que se proporcione a los concursantes: $75.00
+II. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2019)
 
-III. Por cada foja de las bases y demás documentos que se proporcionen a los concursantes $5.00
+III. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2019)
 
-IV. Por cada copia heliográfica que se proporcione: $127.00
+IV. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2019)
 
-V. Sobre tamaño legal por cada paquete de concurso: $6.00
+V. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2019)
 
-VI. Costo por inscripción a cada licitación obra: $3,358.00
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-VII. Costo por inscripción a licitaciones de suministros, servicios y arrendamientos: $2,387.00
+VI. Costo por inscripción a cada licitación obra $3,500.00
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+VII. Costo por inscripción a licitaciones de suministros, servicios y arrendamientos $2,500.00
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 111 TER. Por los servicios relacionados con el otorgamiento de permisos para la construcción de obras dentro del derecho de vía de los caminos y puentes de jurisdicción estatal, se pagarán los derechos conforme a las siguientes cuotas:
+
+I. Por la autorización de cruces superficiales, subterráneos o aéreos en carreteras y puentes de jurisdicción estatal $2,624.00
+
+II. Por la autorización de instalaciones marginales dentro del derecho de vía de carreteras y puentes de jurisdicción estatal, por cada 100 metros o fracción que exceda de dicha longitud $2,624.00
+
+III. Por la autorización para construcción de accesos que afecten el derecho de vía de carreteras estatales, incluyendo la supervisión de la obra, será del 14 % sobre el costo de la misma.
 
 ### CAPÍTULO SÉPTIMO. Servicios de la Secretaría de la Función Pública
 
@@ -2595,7 +2723,9 @@ III. Expedición de duplicados de certificados de estudios de:
 
 a) Primaria o secundaria. $29.00
 
-b) Academias. $35.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+b) Academias y Centros de Capacitación para el Trabajo $75.00
 
 c) Nivel medio superior. $39.00
 
@@ -2607,7 +2737,9 @@ IV. Práctica de examen extraordinario de regularización.
 
 a) De educación secundaria. $12.00
 
-b) De nivel medio superior o academias. $17.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+b) De nivel medio superior, academias y Centros de Capacitación para el Trabajo $20.00
 
 (NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE INCISO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -2671,7 +2803,9 @@ b) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
 c) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
-XI. Compulsa de documentos, por foja: $12.00
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XI. Compulsa de documentos, por foja $15.00
 
 XII. Por cualquier otra certificación o expedición de constancia distintas a las señaladas en las fracciones anteriores: $35.00
 
@@ -2707,19 +2841,25 @@ a) De tipo inicial. $12.00
 
 b) De tipo básico. $13.00
 
-c) De tipo medio, academias comerciales, centros de formación para el trabajo, Normales y demás para la formación de maestros de educación básica. $15.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+c) De tipo medio superior, academias, centros de capacitación para el trabajo, Normales y demás para la formación de maestros de educación básica $20.00
 
 d) De tipo superior. $24.00
 
 XX. Registro de colegio de profesionistas. $3,866.00
 
-XXI. Registro de socios a un colegio de profesionistas. $23.00
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XXI. Registro de socios a un colegio de profesionistas $30.00
 
 XXII. Registro de Título Profesional. $23.00
 
 XXIII. Certificación o constancia de registro de título profesional, diploma de especialidad o grado académico. $224.00
 
-XXIV. Autorización provisional para ejercer como pasante. $373.00
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XXIV. Autorización provisional para ejercer como pasante $410.00
 
 (NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTA FRACCIÓN, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -2789,9 +2929,13 @@ XLVI. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
 
 XLVII. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
 
-XLVIII. Consulta de archivo a la Dirección de Profesiones (cuando la solicitud de consulta se derive de un acto de carácter judicial no será sujeto de cobro. $109.00
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XLIX. Integración de expediente para el Trámite de registro de Título, Grado o Diploma y Expedición de Cédula Profesional. $109.00
+XLVIII. Consulta de archivo al Departamento de Certificaciones (cuando la solicitud de consulta se derive de un acto de carácter judicial no será sujeto de cobro) $110.00
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XLIX. Creación de Título Profesional, Grado Académico de Maestría y Doctorado o Diploma de Especialidad en formato electrónico $120.00
 
 (NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -2838,6 +2982,20 @@ LIII. Expedición de copias certificadas de documentos, por cada foja tamaño ca
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 LIV. Certificación a punto y raya de título y acta de examen profesionales. $75.00
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+LV. Práctica de examen a título de suficiencia de Nivel Medio Superior, Academias, Centros de Capacitación para el Trabajo y de Nivel Superior $45.00, y
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+LVI. Servicios complementarios de los Subsistemas de Preparatoria Abierta y Bachillerato a Distancia:
+
+a) Credencial $35.00
+
+b) Historial Académico $10.00
+
+c) Constancia $35.00
 
 ### CAPÍTULO NOVENO. Servicios de la Secretaría de Administración
 
@@ -2926,6 +3084,8 @@ Los servicios prestados en materia de Transporte y Tránsito, por concepto de:
 I. Por expedición de licencia de manejo, incluido el examen médico para tal efecto:
 
 > <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL P.O. DE 31 DE DICIEMBRE DE 2016, PÁGINA 122.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 28 DE DICIEMBRE DE 2019, PÁGINA 45.]</small>
 
 II. Reposición de la licencia de conducir. $166.00
 
@@ -3017,131 +3177,139 @@ XI. Constancia de vigencia o de existencia de licencia de conducir. $300.00
 
 Por la evaluación y emisión del dictamen de impacto ambiental:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-I. Informe preventivo $4,400.00
+I. Informe preventivo $4,583.04
 
 II. Estudio de Impacto Ambiental tipo General:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-a) Con nivel de impacto bajo $5,745.00
+a) Con nivel de impacto bajo $5,983.99
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-b) Con nivel de impacto medio $5,922.00
+b) Con nivel de impacto medio $6,168.36
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-c) Con nivel de impacto alto $6,717.00
+c) Con nivel de impacto alto $6,996.43
 
 III. Estudio de Impacto Ambiental tipo Intermedio:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-a) Con nivel de impacto bajo $7,513.00
+a) Con nivel de impacto bajo $7,825.54
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-b) Con nivel de impacto medio $9,544.00
+b) Con nivel de impacto medio $9,993.11
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-c) Con nivel de impacto alto $13,387.00
+c) Con nivel de impacto alto $13,943.90
 
 IV. Estudio de Impacto Ambiental Específico:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-a) Con nivel de impacto bajo $14,443.00
+a) Con nivel de impacto bajo $15,043.83
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-b) Con nivel de impacto medio $18,053.00
+b) Con nivel de impacto medio $18,804.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-c) Con nivel de impacto alto $21,844.00
+c) Con nivel de impacto alto $22,752.71
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-V. Exención de trámite de impacto ambiental: $3,468.00
+V. Exención de trámite de impacto ambiental $3,612.27;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-VI. Ratificación y ampliación de resolución de impacto ambiental: $2,138.00
+VI. Ratificación y ampliación de resolución de impacto ambiental $2,226.94;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-VII. Estudio de riesgo ambiental: $9,929.00
+VII. Estudio de riesgo ambiental $10,342.05, y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-VIII. Evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental $4,470.00
+VIII. Evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental $4,655.95.
 
 ###### ARTÍCULO 121.
 
 Por la prestación de los siguientes servicios:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-I. Reproducción de material didáctico, ecológico y ambiental $13.00 por foja.
+I. Reproducción de material didáctico, ecológico y ambiental $13.54 por foja;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-II. Reproducción de material informático ecológico y ambiental en medio de almacenamiento (USB, Disco Compacto o cualquier otro) $154.00 c/u.
+II. Reproducción de material informativo ecológico y ambiental en medio de almacenamiento (USB, Disco Compacto o cualquier otro) $160.41 c/u;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-III. Reproducción de material con información ecológico-ambiental disponible en archivos digitalizados a disco compacto $330.00 c/u.
+III. Reproducción de material con información ecológico-ambiental disponible en archivos digitalizados a disco compacto $343.73 c/u;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-IV. Información de Planos con información ecológico-ambiental $1,430.00 c/u.
+IV. Información de Planos con información ecológico-ambiental $1,489.49 c/u;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-V. Reproducción de planos con información ecológico-ambiental $880.00 c/u.
+V. Reproducción de planos con información ecológico-ambiental $916.61 c/u;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-VI. Asesoría, capacitación y materiales sobre ecología y medio ambiente, por cada hora $1,206.00.
+VI. Asesoría, capacitación y materiales sobre ecología y medio ambiente, por cada hora $1,256.17;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-VII. Registro en el Padrón de Prestadores de Servicio Ecológico y Ambiental. $1,980.00.
+VII. Registro en el Padrón de Prestadores de Servicio Ecológico y Ambiental $2,062.37;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-VIII. Reproducción en plotter $935.00.
+VIII. Reproducción en plotter $973.90;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-IX. Autorización por simulacro de Incendio $935.00.
+IX. Autorización por simulacro de incendio $973.90;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-X. Registro de generadores de residuos de manejo especial $3,370.00.
+X. Registro de generadores de residuos de manejo especial $3,510.19, y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XI. Trámite de certificación ambiental $2,750.00.
+XI. Trámite de certificación ambiental por Renovación de Registro de Manejo Especial $2,864.40.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-###### ARTÍCULO 121 Bis.
+ARTÍCULO 121 BIS. Por uso o goce temporal de las salas audiovisuales del Ecoparque Centenario Toma de Zacatecas.
 
-Por uso o goce temporal de las salas audiovisuales del Ecoparque Centenario Toma de Zacatecas.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-a) Sala de Centro de Educación Ambiental: $2,500.00
+a) Sala de Centro de Educación Ambiental $2,604.00;
 
-b) Sala de uso múltiple: $2,000.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-c) Sala de Juntas: $800.00
+b) Sala de uso múltiple $2,083.20;
 
-d) Plaza Cívica: $500.00
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-e) Plaza del lago: $500.00
+c) Sala de Juntas $833.28;
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+d) Plaza Cívica $520.80, y
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+e) Plaza del lago $520.80.
 
 ###### ARTÍCULO 122.
 
@@ -3201,7 +3369,7 @@ c) Asentamiento de escritura pública. $4.00
 
 d) Otras formas impresas, cada una. $4.00
 
-e) Servicio de Consulta e impresión de Leyes, reglamentos, folletos y demás publicaciones, su costo se determinará de conformidad con el tiraje de la edición, número de hojas y calidad de impresión y encuadernación;
+e) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 f) Servicio y expedición de juego de 150 fojas de protocolo notarial abierto. $746.00
 
@@ -3422,3 +3590,49 @@ Artículo tercero. El Impuesto establecido en el Capítulo Cuarto, del Título S
 Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respecto del Impuesto Sobre Tenencia o Uso de Vehículos contenido en el Capítulo Cuarto del Título Segundo que se suspende conforme a este Decreto, que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones aplicables.
 
 Artículo cuarto. Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 302.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES FISCALES Y HACENDARIAS DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veinte, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos de la obligación establecida en la Sección VIII, Capítulo Segundo del Título Segundo y la Sección III Bis, Capítulo Segundo del Título Tercero del Código Fiscal del Estado de Zacatecas y sus Municipios, la Secretaría de Finanzas deberá emitir para su debida publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas, a más tardar el 31 de marzo de 2020, las reglas de carácter general relativas al cumplimiento, presentación y facultades de comprobación del dictamen fiscal.
+
+###### ARTÍCULO TERCERO.
+
+Para efectos del artículo 101-Bis del Código Fiscal del Estado de Zacatecas y sus Municipios, no serán sujetos de la obligación de presentar el dictamen del cumplimiento de sus obligaciones fiscales, aquellas personas físicas, morales o unidades económicas que hayan celebrado un acuerdo anticipado de pago a que se refiere el artículo 158-Bis, respecto de los ejercicios convenidos.
+
+###### ARTÍCULO CUARTO.
+
+Las personas físicas, morales o unidades económicas, que se encuentren en los supuestos establecidos en los artículos 101-Bis y 101-Ter, del Código Fiscal del Estado de Zacatecas y sus Municipios, tendrán la opción de presentar el dictamen correspondiente al ejercicio fiscal 2019, con base en los plazos siguientes:
+
+I. Presentar aviso a través de los medios y formas que establezca la Secretaría, mediante las reglas de carácter general, a más tardar el último día del mes de mayo.
+
+II. El dictamen a que se refiere el artículo 101 Bis de este Código y la documentación que se señala en el artículo 101 Nonies del mismo, se deberá presentar a través de los medios y formas que establezca la Secretaría, mediante reglas de carácter general, a más tardar el día 30 del mes de septiembre del ejercicio siguiente al cierre del periodo a dictaminar, por los contribuyentes obligados a dictaminar y aquellos que hayan optado por dictaminar el cumplimiento de sus obligaciones.
+
+###### ARTÍCULO QUINTO.
+
+Dentro de los 90 días siguientes a la publicación del presente Decreto, la Secretaría de Finanzas del Gobierno del Estado de Zacatecas, modificará su Reglamento Interior para adecuarlo a la presente reforma.
+
+###### ARTÍCULO SEXTO.
+
+La inscripción de los contadores públicos que realicen dictamen fiscal, deberá hacerse a más tardar el 30 de abril de 2020 y los ejercicios subsecuentes a más tardar el 28 de febrero de cada año, cuyo procedimiento se regirá en lo establecido en el artículo segundo de estas disposiciones transitorias.
+
+###### ARTÍCULO SÉPTIMO.
+
+Para los efectos de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios, el Titular del Poder Ejecutivo llevará a cabo acciones para generar ahorros y economías, durante el ejercicio fiscal 2020, respecto del gasto corriente y estructuras, que no esté relacionado con programas de atención a la población.
+
+Los Poderes Legislativo y Judicial, así como los organismos autónomos, deberán adoptar acciones que les permitan obtener economías en los mismos términos del párrafo anterior, en el ámbito de sus respectivas competencias.
+
+Dichas (sic) ahorros y economías en ningún momento serán en detrimento de la calidad en el desempeño de la función y administración pública.
+
+El resultado de la aplicación de las acciones descritas en el presente artículo deberá reportarse en los informes trimestrales.
+
+###### ARTÍCULO OCTAVO.
+
+Derivado de la reforma a los artículos 2 y 34 de la Ley de Coordinación y Colaboración Financiera para el Estado de Zacatecas y sus Municipios, los municipios que en el ejercicio fiscal 2020 pudiesen observar un crecimiento menor, derivado de la reforma a la fórmula para determinar y distribuir sus participaciones, tendrán garantizado que su participación no sea menor a la que obtuvieron en el ejercicio fiscal 2019, las cuales podrán cubrirse, en su caso, a través del Fondo de Estabilización de los Ingresos de las Entidades Federativas, en los términos establecidos en las leyes de la materia.
