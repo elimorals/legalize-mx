@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-en-materia-de-sanidad-vegetal-del-46366"
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-30"
-last_updated: "2019-07-11"
+last_updated: "2019-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE COORDINACION EN MATERIA DE SANIDAD VEGETAL DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO 27787/LXII/19 QUE ABROGA LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD ANIMAL PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD VEGETAL DEL ESTADO DE JALISCO, CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO AGENCIA DE SANIDAD, INOCUIDAD Y CALIDAD AGROALIMENTARIA DE JALISCO Y EXPIDE LA LEY AGROALIMENTARIA DEL ESTADO DE JALISCO Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, PUBLICADO EN EL P.O. DE 28 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE COORDINACIÓN EN MATERIA DE SANIDAD VEGETAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado, el martes 30 de agosto de 2005
 
@@ -684,3 +686,19 @@ P.O. 11 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27292/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 5°, 7°, 15, 53 Y EL CAPÍTULO IV DE LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD ANIMAL PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; 6° DE LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD VEGETAL DEL ESTADO DE JALISCO; 5° Y 7° DE LA LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; 26 Y 83 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; Y EL 41 DE LA LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27787/LXII/19 QUE ABROGA LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD ANIMAL PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD VEGETAL DEL ESTADO DE JALISCO, CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO AGENCIA DE SANIDAD, INOCUIDAD Y CALIDAD AGROALIMENTARIA DE JALISCO Y EXPIDE LA LEY AGROALIMENTARIA DEL ESTADO DE JALISCO Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente decreto entrará en vigor el 1 de enero de 2020, previa su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Ejecutivo del Estado de Jalisco deberá expedir las disposiciones reglamentarias necesarias para el cumplimiento del presente decreto.
+
+TERCERO. El Ejecutivo del Estado, por conducto de la Secretaría de Agricultura y Desarrollo Rural, deberá de efectuar todas las acciones y gestiones necesarias para la organización y funcionamiento de la Agencia de Sanidad, Inocuidad y Calidad Agroalimentaria en Jalisco que deberá concretarse dentro del plazo referido en el artículo Primero Transitorio.
+
+Asimismo, se faculta a la Secretaría de Agricultura y Desarrollo Rural del Estado de Jalisco para que, respetando los derechos laborales de los trabajadores, lleve a cabo la transferencia de personal que se requiera para dicho fin; asimismo se le faculta para que, en coordinación con las Secretarías de Administración y de la Hacienda Pública, lleven a cabo todas las acciones necesarias y adecuaciones presupuestales necesarias para el cumplimiento del presente decreto.
+
+CUARTO. Los permisos, registros, autorizaciones, certificados y reconocimientos emitidos en los términos de las Leyes que se abrogan o de los preceptos que se derogan, continuarán vigentes y serán reconocidos hasta en tanto concluya el plazo por el que fueron emitidos.
+
+QUINTO. La Junta de Gobierno de la Agencia de Sanidad, Inocuidad y Calidad Agroalimentaria en Jalisco se instalará en un periodo no mayor a los treinta días naturales siguientes a la entrada en vigor del presente decreto.
