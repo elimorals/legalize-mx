@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-patrimonio-del-estado-y-municipios-22279"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-18"
-last_updated: "2014-12-03"
+last_updated: "2019-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DEL PATRIMONIO DEL ESTADO Y MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE BIENES DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 28 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL PATRIMONIO DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019 (ABROGADO).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 18 de agosto de 2001.
 
@@ -672,3 +674,21 @@ Segundo.- Dentro de los 60 días siguientes a la entrada en vigor del presente D
 Tercero.- Se abroga el Decreto 605, por el que se reforman diversos ordenamientos legales para dar vigencia al Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, publicado en Suplemento 2 al No. 40 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 18 de mayo de 2013. Y se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Cuarto.- Los procedimientos de regularización que hayan sido instaurados previo a la publicación de la presente reforma, se desahogarán y resolverán de conformidad con la Ley de Fraccionamientos Rurales, sin ordenarse la expedición del título, por lo que al momento de certificar la zona a la que pertenezca el inmueble e inicie el proceso de obtención del dominio pleno, el acuerdo de adjudicación servirá para acreditar el derecho que le asiste al interesado. Por tanto se remitirá el acuerdo al Organismo Regularizador de la Tenencia de la Tierra para que expida la escritura privada correspondiente.
+
+P.O. DE 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 355.- LEY DE BIENES DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del 1 de enero de 2020, previa publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Artículo Segundo. Se abroga la Ley del Patrimonio del Estado y Municipios, publicada en el Suplemento al No. 66 del Periódico Oficial, Órgano de Gobierno del Estado en fecha 18 de agosto de 2001.
+
+Artículo Tercero. En un plazo no mayor de 90 días naturales a partir de la publicación de esta Ley, el Ejecutivo del Estado expedirá el Reglamento o reglamentos de la misma.
+
+Los Entes Públicos, dentro del plazo de 180 días posteriores a la publicación de esta Ley, emitirán las normas jurídicas y administrativas necesarias para el cumplimiento de sus obligaciones, en términos de sus respectivas competencias.
+
+Artículo Cuarto. El Sistema de Información Inmobiliaria entrará en funcionamiento dentro de los 120 días naturales siguientes a la entrada en vigor de esta Ley.
+
+Artículo Quinto. Todas las referencias a la Ley del Patrimonio del Estado y Municipios, se entenderán referidas a la presente Ley.
+
+Artículo Sexto. Los procedimientos administrativos que se hayan iniciado con anterioridad a la entrada en vigor de la presente ley, se seguirán rigiendo por la Ley del Patrimonio del Estado y Municipios.
