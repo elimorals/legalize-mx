@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-de-datos-personales-en-posesion-de-122639"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-26"
-last_updated: "2017-07-26"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 26 de julio de 2017.
 
@@ -237,9 +237,21 @@ Ley - Supletoriedad.
 
 I. La Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
 
-II. La Ley del Procedimiento Administrativo del Estado de Jalisco; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-III. El Código de Procedimientos Civiles del Estado de Jalisco.
+II. La Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+III. La Ley General de Transparencia y Acceso a la Información Pública;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+IV. La Ley del Procedimiento Administrativo del Estado de Jalisco; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+V. El Código de Procedimientos Civiles del Estado de Jalisco.
 
 ###### Artículo 8.
 
@@ -2239,7 +2251,9 @@ V. La reincidencia.
 
 Infracciones - Responsabilidad Administrativa.
 
-1. Independientemente de la sanción que aplique el Instituto, éste deberá presentar ante las autoridades competentes denuncia en materia de responsabilidad administrativa de los servidores públicos para que, de ser procedente, se sancione al servidor público de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco. En el caso de que se imponga como sanción la inhabilitación.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+1. Independientemente de la sanción que aplique el Instituto, éste deberá presentar ante las autoridades competentes denuncia en materia de responsabilidad administrativa de los servidores públicos para que, de ser procedente, se sancione al servidor público de conformidad con la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 ###### Artículo 152.
 
@@ -2308,3 +2322,17 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27722/LXII/19 QUE REFORMA EL ARTÍCULO 151 DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27758/LXII/19 QUE REFORMA EL ARTÍCULO 7° DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
