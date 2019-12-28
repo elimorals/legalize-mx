@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-y-atencion-de-los-migrantes-en-el-estado-1172
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-17"
-last_updated: "2019-07-11"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117292&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección II al Número 4 del Periódico Oficial del Estado de Jalisco, el jueves 17 de noviembre de 2016.
 
@@ -91,15 +91,11 @@ X. Las demás que reconozcan y confieran las normas jurídicas aplicables.
 
 ### CAPÍTULO III. DE LAS OBLIGACIONES DE LOS MIGRANTES
 
-(NOTA: EL 15 DE ENERO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 110/2016, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE ENERO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 4.
 
-Los migrantes deberán cumplir con las siguientes obligaciones:
-
-I. Mostrar la documentación que acredite su identidad, cuando les sea requerida por las autoridades competentes; y
-
-II. Proporcionar la información y datos personales que les sean solicitados por las autoridades competentes, en el ámbito de sus atribuciones.
+Los migrantes deberán cumplir con las obligaciones establecidas en el artículo 16 de la Ley de Migración.
 
 ### CAPÍTULO IV. DE LAS POLÍTICAS PÚBLICAS PARA LOS MIGRANTES
 
@@ -252,3 +248,9 @@ P.O. 11 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27291/LXII/19 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 3° DE LA LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES EN EL ESTADO DE JALISCO”.]
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27772/LXII/19 QUE REFORMA EL ARTÍCULO 4° DE LA LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES EN EL ESTADO DE JALISCO”.]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
