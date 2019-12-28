@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2019-10-31"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 31 DE OCTUBRE DE 2019 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 24 DE OCTUBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -4071,9 +4069,11 @@ Cuando el homicidio se cometa en riña inesperada, al provocador de la misma, y 
 
 La riña es la contienda de obra entre dos o más personas que pretenden dañarse ilícitamente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### Art. 219.
 
-Se entiende que el homicidio y las lesiones son calificadas:
+Se entiende que el homicidio y las lesiones son calificados:
 
 I. Cuando se cometan con premeditación, ventaja, alevosía o traición:
 
@@ -4119,13 +4119,41 @@ VI. Cuando se dé tormento al ofendido o se obre con ensañamiento o crueldad;
 
 VII. Cuando se causen por envenenamiento, contagio intencional, asfixia, o uso de estupefacientes, psicotrópicos, gases, inhalantes o solventes;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-VIII. Cuando se causen derivaciones de cualquiera de los delitos a que se refieren los artículos 124-Bis y 124-Ter de este Código; y
+VIII. Cuando se causen derivaciones de cualquiera de los delitos a que se refieren los artículos 124-Bis y 124-Ter de este Código;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-IX. Cuando la víctima sea un periodista y el delito se cometa con motivo de su actividad como tal.
+IX. Cuando la víctima sea un periodista y el delito se cometa con motivo de su actividad como tal; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+X. Cuando se cometan por odio hacia la víctima, motivado por:
+
+a) su orientación sexual;
+
+b) su identidad o expresión de género;
+
+c) su condición social o económica;
+
+d) su origen étnico o apariencia física;
+
+e) su nacionalidad o lugar de origen;
+
+f) su religión o creencias;
+
+g) su ideología o militancia política;
+
+h) su color de piel o cualquier otra característica genética o lingüística;
+
+i) alguna discapacidad o condiciones de salud; o
+
+j) su profesión u oficio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Para los efectos de la fracción X, se presume que existen motivos de odio cuando el sujeto activo del delito se ha expresado de manera personal, por redes sociales o por algún otro medio de difusión, en rechazo, repudio, desprecio o intolerancia contra el colectivo de personas establecidos en los incisos de dicha fracción, al que pertenezca la víctima; o bien, cuando existan antecedentes o datos previos al hecho delictivo, que indicien que hubo amenazas o acoso contra la víctima por razón de su pertenencia a dichos colectivos.
 
 ###### Art. 220.
 
@@ -6884,3 +6912,9 @@ P.O. 24 DE OCTUBRE DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Las dependencias y entidades obligadas por la presente ley a crear los protocolos contarán con un plazo de 180 días a partir de la publicación del presente decreto, para la elaboración y publicación de los mismos.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27779/LXII/19 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 219 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
