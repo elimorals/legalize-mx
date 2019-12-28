@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-administracion-de-bienes-asegurados-decomisados-102
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-27"
-last_updated: "2014-09-27"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102575&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS PARA EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2014.
 
@@ -63,9 +63,13 @@ III. Bienes: los bienes asegurados, abandonados o decomisados, en los términos 
 
 IV. Comisión: la Comisión para la Supervisión de la Administración de Bienes Asegurados, Abandonados y Decomisados;
 
-V. Fiscal General: el titular de la Fiscalía General del Estado de Jalisco; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-VI. Ministerio Público: el Ministerio Público perteneciente a la Fiscalía General del Estado, especializado en materia del orden común o adolescentes.
+V. Fiscal Estatal: el titular de la Fiscalía Estatal del Estado de Jalisco; y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+VI. Ministerio Público: el Ministerio Público perteneciente a la Fiscalía Estatal del Estado, especializado en materia del orden común o adolescentes.
 
 ###### Artículo 3.
 
@@ -81,11 +85,15 @@ El procedimiento para llevar a cabo la declaratoria de aseguramiento, abandono o
 
 La Comisión se integrará por:
 
-I. El Fiscal General, quien la presidirá;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+I. El Fiscal Estatal, quien la presidirá;
 
 II. El Presidente del Supremo Tribunal de Justicia del Estado;
 
-III. El Secretario de Planeación, Administración y Finanzas;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+III. El Secretario de Administración;
 
 IV. El Secretario de Salud; y
 
@@ -93,9 +101,11 @@ V. El Administrador, quien tendrá voz pero no voto.
 
 Los integrantes de la Comisión podrán nombrar a sus respectivos suplentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 5.
 
-La Comisión es un órgano administrativo desconcentrado de la Fiscalía General del Estado de Jalisco, con autonomía técnica y operativa, sesionará ordinariamente cuando menos cada mes y extraordinariamente cuando se requiera.
+La Comisión es un órgano administrativo desconcentrado de la Fiscalía Estatal, con autonomía técnica y operativa, sesionará ordinariamente cuando menos cada mes y extraordinariamente cuando se requiera.
 
 Sus reuniones serán válidas con la presencia de tres de sus integrantes con derecho a voto, entre los cuales deberá estar el Presidente o su suplente y siempre con el Administrador.
 
@@ -219,13 +229,17 @@ El administrador tendrá independencia respecto al propietario, órganos de admi
 
 Los bienes asegurados de los que se decrete su abandono o decomiso, conforme al Código Nacional de Procedimientos Penales, serán enajenados o destruidos por el Administrador en los términos de dicho ordenamiento y demás legislaciones aplicables.
 
-###### Artículo 20.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Los recursos obtenidos por bienes en abandono serán destinados a la Fiscalía General del Estado, previo procedimiento de enajenación y, en su caso, liquidación.
+###### Articulo 20.
 
-###### Artículo 21.
+Los recursos obtenidos por bienes en abandono serán destinados a la Fiscalía Estatal, previo procedimiento de enajenación y, en su caso, liquidación.
 
-Los recursos obtenidos producto de bienes decomisados, una vez satisfecha la reparación a la víctima, serán entregados en partes iguales al Poder Judicial, a la Fiscalía General del Estado, a la Secretaría de Salud y al Fondo Estatal de Ayuda, Asistencia y Reparación Integral de Víctimas.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+###### Articulo 21.
+
+Los recursos obtenidos producto de bienes decomisados, una vez satisfecha la reparación a la víctima, serán entregados en partes iguales al Poder Judicial, a la Fiscalía Estatal, a la Secretaria de Salud y al Fondo Estatal de Ayuda, Asistencia y Reparación Integral de Víctimas.
 
 ###### Artículo 22.
 
@@ -288,3 +302,11 @@ EL Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27739/LXII/19 QUE REFORMAN LOS ARTÍCULOS; 2 FRACCIONES V Y VI, 4 FRACCIONES I Y III, 5 PÁRRAFO PRIMERO, 20 Y 21 DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS PARA EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
