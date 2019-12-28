@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2019-10-08"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
-Ley publicada en la Número 24 Bis, Edición Especial del Periódico Oficial “El Estado de Jalisco”, el miércoles 5 de diciembre de 2018.
+Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
 Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.
 
@@ -321,7 +321,13 @@ XV. Asegurar a todos los grupos en situación de vulnerabilidad el acceso efecti
 
 XVI. Fomentar la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de dichos insumos; y
 
-XVII. Las demás contenidas en la normatividad aplicable.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XVII. Constituir, actualizar y coordinar la Federación el Registro Estatal de Cáncer; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XVII], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XVIII. Las demás contenidas en la normatividad aplicable.
 
 ###### Artículo 19.
 
@@ -489,6 +495,8 @@ Servicios de Salud. Cobertura.
 
 2. La Secretaría de Salud podrá ofrecer atención domiciliaria de conformidad al reglamento cuando, por imposibilidad psíquica o física, los pacientes no puedan acudir a los servicios de salud pública y atención médica o se trate de campañas de medicina preventiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 34.
 
 Servicios de Salud. Servicios Básicos.
@@ -515,9 +523,17 @@ IX. La atención y control de las enfermedades catalogadas como raras o catastr�
 
 X. La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
-XI. La promoción de una cultura de vida saludable a través de hábitos alimenticios nutricionales; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XII. Las demás que establezcan esta Ley y otras disposiciones legales aplicables.
+XI. La promoción de una cultura de vida saludable a través de hábitos alimenticios nutricionales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XII. El tratamiento de reconstrucción mamaria; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XII (SIC). Las demás que establezcan esta Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 35.
 
@@ -1221,6 +1237,8 @@ Atención Integral de la Salud de la Mujer. Detección Cáncer Cérvico Uterino.
 
 1. La Secretaría de Salud vigilará, dentro de su competencia, que las muestras para la detección del Cáncer Cérvico Uterino sean tomadas preferentemente por personal femenino e interpretadas por médicos capacitados en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 95.
 
 Atención Integral de la Salud de la Mujer. Detección Cáncer de Mama.
@@ -1233,9 +1251,21 @@ II. Tamizaje con citología y/o detección del Virus del Papiloma Humano a mujer
 
 III. Educación y promoción a las personas susceptibles sobre los factores de riesgo del cáncer de mama y cérvico uterino;
 
-IV. Atención médica a mujeres con diagnóstico de cáncer de mama y cérvico uterino en la institución según su derecho habiencia (sic); y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-V. Acompañamiento psicológico a las mujeres sobrevivientes de cáncer de mama y cérvico uterino.
+IV. Atención médica a mujeres con diagnóstico de cáncer de mama y cérvico uterino en la institución según su derecho habiencia;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+V. Acompañamiento psicológico a las mujeres sobrevivientes de cáncer de mama y cérvico uterino; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+VI. Tratamiento de reconstrucción mamaria, previa información oportuna a las mujeres con diagnóstico o en seguimiento al tratamiento de cáncer mamario, de la posibilidad de reconstrucción y las opciones existentes según el caso, previa evaluación y autorización del médico especialista tratante.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI.]</small>
+
+La reconstrucción será en coordinación con instituciones públicas, privadas o sociales cuando sea posible.
 
 ###### Artículo 96.
 
@@ -2005,9 +2035,19 @@ Enfermedades Transmisibles. Consejo Consultivo.
 
 1. Para una adecuada prevención y atención, las instituciones integrantes del Sistema de Salud, bajo la rectoría de la Secretaría de Salud, crearán el Consejo Consultivo de Prevención y Control de Enfermedades No Transmisibles del Estado de Jalisco.
 
-#### SECCIÓN CUARTA (SIC). DE LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE ADICCIONES
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN TERCERA. DE LOS DERECHOS DE LOS PACIENTES USUARIOS DE SUSTANCIAS PSICOACTIVAS
+#### SECCIÓN SEGUNDA. DEL REGISTRO ESTATAL DE CÁNCER
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Artículo. 163 Bis. Registro Estatal de Cáncer. Objeto.
+
+1. La Secretaría de Salud Jalisco constituirá un registro de los casos de cáncer en el Estado, en coordinación con el Registro Nacional de Cáncer, el Sistema Estatal de Información Básica en Materia de Salud y el Instituto Jalisciense en Cancerología, a fin de fortalecer las acciones que se llevan a cabo para su prevención y atención oportuna, de conformidad con la Ley General de Salud.
+
+2. El Registro Estatal, deberá reportar al Registro Nacional de Cáncer, cada año, el número de personas enfermas que se reportaron en ese periodo de tiempo.
+
+#### SECCIÓN CUARTA (SIC). DE LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE ADICCIONES
 
 ###### Artículo 164.
 
@@ -2235,7 +2275,7 @@ XI. Tratar con dignidad y apego a los Derechos Humanos a los pacientes adictos; 
 
 XII. Las demás previstas por las disposiciones aplicables.
 
-#### SECCIÓN PRIMERA. SERVICIO SOCIAL DE LOS PASANTES
+#### SECCIÓN TERCERA. DE LOS DERECHOS DE LOS PACIENTES USUARIOS DE SUSTANCIAS PSICOACTIVAS
 
 ###### Artículo 169.
 
@@ -2367,7 +2407,7 @@ II. En el caso de los que no estén incluidos en el catálogo referido en la fra
 
 ### CAPÍTULO III. DE LA FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
 
-#### SECCIÓN SEGUNDA. SERVICIO SOCIAL PROFESIONAL
+#### SECCIÓN PRIMERA. SERVICIO SOCIAL DE LOS PASANTES
 
 ###### Artículo 180.
 
@@ -2401,7 +2441,7 @@ Servicio Social de Pasantes. Participación.
 
 2. La prestación del servicio social de pasantes de licenciaturas diversas a las ciencias de la salud y alumnos de educación media superior, se encauzará preferentemente a requerimientos cuya atención esté relacionada a su formación académica, incluyendo la administración y servicios tales como ludotecas y bibliotecas.
 
-#### SECCIÓN PRIMERA. CONSEJO ESTATAL DE TRASPLANTES DE ÓRGANOS Y TEJIDOS
+#### SECCIÓN SEGUNDA. SERVICIO SOCIAL PROFESIONAL
 
 ###### Artículo 184.
 
@@ -3081,7 +3121,7 @@ IV. En caso de que el posible donador cuente con algún documento que acredite l
 
 V. Informar al Fiscal General del Estado de las circunstancias del proceso de donación, para que aquél manifieste su anuencia o inconformidad para la donación. El ministerio público notificará a la institución hospitalaria la decisión del Fiscal General del Estado.
 
-#### SECCIÓN SEGUNDA. DE LA PARTICIPACIÓN SOCIAL
+#### SECCIÓN PRIMERA. CONSEJO ESTATAL DE TRASPLANTES DE ÓRGANOS Y TEJIDOS
 
 ###### Artículo 227.
 
@@ -3215,7 +3255,7 @@ Consejo de Trasplante. Registro Estatal de Trasplantes.
 
 2. El Consejo de Trasplantes vigilará la correcta aplicación del Reglamento Estatal de Asignaciones y Distribución de Órganos y Tejidos.
 
-#### SECCIÓN PRIMERA. CAUSAS DE REVOCACIÓN
+#### SECCIÓN SEGUNDA. DE LA PARTICIPACIÓN SOCIAL
 
 ###### Artículo 236.
 
@@ -3823,7 +3863,7 @@ Autorizaciones Sanitarias. Revocación.
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
-#### SECCIÓN SEGUNDA. DEL PROCEDIMIENTO PARA LA REVOCACIÓN
+#### SECCIÓN PRIMERA. CAUSAS DE REVOCACIÓN
 
 ###### Artículo 301.
 
@@ -3854,6 +3894,8 @@ IX. En los demás casos en que, conforme a la Ley, lo determine la autoridad san
 Autorizaciones Sanitarias. Riesgos.
 
 1. Cuando la revocación de una autorización se funde en los riesgos o daños que pueda causar o cause un servicio, la autoridad sanitaria dará conocimiento de tales revocaciones a las dependencias y entidades públicas que tengan atribuciones de orientación al consumidor.
+
+#### SECCIÓN SEGUNDA. DEL PROCEDIMIENTO PARA LA REVOCACIÓN
 
 ###### Artículo 303.
 
@@ -4508,3 +4550,17 @@ P.O. 8 DE OCTUBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27753/LXII/19 QUE REFORMA LOS ARTÍCULOS 34 Y 95 DE LA LEY DE SALUD DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
+
+SEGUNDO. El Ejecutivo del Estado, de conformidad a la capacidad y disposición financiera, deberá realizar las transferencias presupuestales para dar cumplimiento al presente decreto.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27784/LXII/19 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XVI Y XVII; Y SE ADICIONA UNA FRACCIÓN XVIII AL ARTÍCULO 18, LA SECCIÓN SEGUNDA AL CAPÍTULO II DEL TÍTULO QUINTO, ASÍ COMO EL ARTÍCULO 163 BIS DE LA LEY DE SALUD DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
