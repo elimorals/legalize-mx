@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acuacultura-y-pesca-para-el-estado-de-jalisco-y-sus-9019
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-17"
-last_updated: "2019-11-23"
+last_updated: "2019-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90197&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 17 de noviembre de 2012.
 
@@ -1501,145 +1501,79 @@ El aprovechamiento de los productos pesqueros obtenidos en la captura incidental
 
 ###### Artículo 145.
 
-Las medidas sanitarias constituyen acciones de seguridad que tienen por objeto prevenir, controlar, combatir y erradicar enfermedades y plagas que puedan afectar o afecten a los recursos pesqueros y acuícolas.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ###### Artículo 146.
 
-La Secretaría podrá determinar y aplicar las siguientes medidas sanitarias preventivas y/o correctivas:
-
-I. Cuarentena;
-
-II. Sanitización;
-
-III. El aseguramiento y, en su caso, disposición de los recursos pesqueros o acuícolas vivos, sus productos, subproductos y productos químicos, farmacéuticos, biológicos y alimenticios para uso o consumo de dichos recursos;
-
-IV. El aseguramiento de las embarcaciones o vehículos en que se transportan dichos recursos, o
-
-IV. (sic) La suspensión temporal, parcial o total, de la operación de las instalaciones de granjas, unidades de manejo acuícola o laboratorios de diagnóstico o de producción de los recursos acuícolas destinados a la pesca o a la acuacultura.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ###### Artículo 147.
 
-La Secretaría podrá promover ante otras autoridades competentes la ejecución de las medidas sanitarias o de seguridad que establezcan otros ordenamientos jurídicos.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ###### Artículo 148.
 
-Cuando exista la probabilidad razonable o la presencia probada de alguna plaga o enfermedad controlable o de alto riesgo para los recursos pesqueros o acuícolas, la Secretaría deberá determinar la cuarentena de los recursos contaminados como medida sanitaria.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ###### Artículo 149.
 
-La sanitización se hará a los recursos pesqueros o acuícolas, y a las instalaciones, equipos y vehículos de transporte en los que se encuentren o movilicen dichos recursos, cuando se advierta la presencia de microorganismos causantes de enfermedades.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ###### Artículo 150.
 
-Las medidas sanitarias que determine y aplique la Secretaría se establecerán por el tiempo estrictamente necesario para asegurar el nivel de protección sanitaria, considerando la infraestructura acuícola instalada, las características de la zona en donde se origine el problema y las de la zona a las que se destinen los recursos pesqueros y acuícolas de que se trate.
-
-La Secretaría podrá auxiliarse de la fuerza pública para la ejecución de las medidas sanitarias que determine.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ###### Artículo 151.
 
-Cuando el particular incumpla con la medida sanitaria o incurra en mora para su cumplimiento, la Secretaría aplicará las acciones correctivas necesarias para que dicha medida sea ejecutada; así mismo, deberá realizar las diligencias y la coordinación correspondientes ante las dependencias competentes, para recuperar los gastos de ejecución, como los correspondientes recargos y multas que procedan de acuerdo con las leyes hacendarias aplicables, además de los derechos por inspección y vigilancia que fueren causados, mismos que se harán efectivos mediante el procedimiento económico coactivo previsto en la ley de la materia. Lo anterior, sin perjuicio de acciones, en las vías competentes, derivadas de la responsabilidad por daños y perjuicios que resulten del incumplimiento de las medidas sanitarias.
-
-Las multas a que se refiere este artículo son independientes de las multas administrativas que imponga la Secretaría como sanción en los términos de la presente ley.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ###### Artículo 152.
 
-Los permisionarios deberán dar aviso a la Secretaría, por cualquier medio, de la presencia de enfermedades de alto riesgo para los recursos pesqueros o acuícolas, dentro del término de veinticuatro horas siguientes a la detección de las mismas, para que ésta acuerde las medidas sanitarias conducentes.
-
-Los permisionarios, además del aviso a que se refiere el párrafo anterior, deberán tomar las medidas que consideren conducentes y que se encuentren a su alcance para hacer frente a la situación, en tanto la Secretaría acuerda las medidas sanitarias que procedan.
-
-Cuando los permisionarios detecten durante el cultivo de especies la presencia de enfermedades de alto riesgo en uno o más estanques o jaulas, además del referido aviso a la Secretaría, deberán suspender, en su caso, la descarga de agua hacia el drenaje correspondiente. En estos casos, la Secretaría podrá ordenar la cosecha anticipada, previa visita de verificación que realice a través del personal calificado y autorizado.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ### CAPÍTULO II. DE LA SANIDAD
 
 ###### Artículo 153.
 
-La Secretaría, a través del IAPEJ, tiene por objeto dar asesoría e implementar y ejecutar programas sanitarios con la finalidad de erradicar plagas y enfermedades acuícolas, así como la certificación de los productos que ingresen al estado, tanto nacionales como extranjeros, a fin de reducir riesgos sanitarios en la producción acuícola y pesquera local.
-
-Para salvaguardar la sanidad de los recursos pesqueros y acuícolas, la Secretaría, en coordinación con las dependencias competentes de la administración pública federal, y en su caso, con cargo al presupuesto federal, podrá:
-
-I. Realizar acciones de verificación sanitaria de los recursos pesqueros y acuícolas;
-
-II. Instalar y operar los puntos de verificación sanitaria y de sanitización de equipos de embalaje y transporte;
-
-III. Aplicar las medidas sanitarias previstas en la presente ley;
-
-IV. Vigilar la operación de los laboratorios de diagnóstico y de producción, así como aprobar, modificar o rechazar las técnicas y los protocolos para el diagnóstico de enfermedades de los recursos pesqueros y acuícolas;
-
-V. Promover, directamente o en coordinación con las demás autoridades competentes, las campañas de prevención, diagnóstico y control sanitario tendientes a proteger los recursos pesqueros y acuícolas;
-
-VI. Requerir en cualquier momento a los acuicultores o porteadores la exhibición de los certificados de sanidad acuícolas expedidos por las autoridades competentes;
-
-VII. Promover y vigilar el establecimiento de estaciones cuarentenarias;
-
-VIII. Promover, implementar y ejecutar acciones destinadas a la realización de estudios para identificar, prevenir, controlar y erradicar enfermedades que afecten o puedan afectar a los recursos pesqueros y acuícolas;
-
-IX. Difundir y actualizar permanentemente información sobre sanidad pesquera y acuícola;
-
-X. Promover y operar el intercambio de información con instituciones nacionales o internacionales en materia de sanidad de los recursos pesqueros y acuícolas, y
-
-XI. Realizar las demás acciones que sean procedentes conforme a la presente ley, su reglamento y los planes de manejo, en materia de sanidad.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ###### Artículo 154.
 
-La Secretaría, a través del IAPEJ, expedirá constancia de verificación sanitaria a las granjas o establecimientos acuícolas cuyas instalaciones hayan cumplido con los requerimientos de la presente ley, su reglamento y los planes de manejo.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ###### Artículo 155.
 
-Si durante la realización de verificaciones sanitarias se encontraren agentes patógenos generadores de enfermedades de alto riesgo en los recursos examinados, la Secretaría determinará inmediatamente la aplicación de las medidas sanitarias que procedan.
-
-En caso de que los recursos verificados sean portadores de enfermedades controladas, la Secretaría los mantendrá en vigilancia hasta que el tratamiento correspondiente produzca resultados positivos finales.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ###### Artículo 156.
 
-Para garantizar la sanidad de los recursos pesqueros o acuícolas, los permisionarios para la acuacultura y para laboratorios de producción deberán tener en las instalaciones de las granjas y en los laboratorios respectivos, infraestructura de verificación sanitaria, así como el equipo y material necesarios para desinfectar los materiales de empaque, embalaje y vehículos de transporte, que cumplan los requisitos técnicos que se establezcan en el plan de manejo acuícola.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ### CAPÍTULO III. DE LOS PUNTOS DE VERIFICACIÓN SANITARIA
 
 ###### Artículo 157.
 
-Los puntos de verificación sanitaria son instalaciones fijas o móviles establecidas en coordinación con las autoridades federales, estatales y con apoyo, en su caso, de las autoridades municipales correspondientes, para verificar que el ingreso al estado y el traslado de los recursos pesqueros o acuícolas cumplan con los requisitos establecidos en la presente ley y en las demás disposiciones aplicables y, en su caso, aplicar las medidas sanitarias conducentes.
-
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2019)</small>
-
-Los puntos de verificación estarán a cargo del personal designado por la SADER y el apoyo que corresponda según convenio que se celebre al respecto con la Secretaría.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ###### Artículo 158.
 
-Los puntos de verificación fijos estarán establecidos en las entradas principales del estado.
-
-Los puntos de verificación móviles se establecerán temporalmente en caminos o vías de comunicación terrestre.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ###### Artículo 159.
 
-En los puntos de verificación sanitaria se llevarán a cabo las siguientes acciones:
-
-I. Inspeccionar física y documentalmente las cargas que se transportan para verificar la legal procedencia y las condiciones sanitarias que guardan los recursos pesqueros o acuícolas vivos, productos, subproductos, insumos así como equipos, materiales de empaque y embalaje que se transportan;
-
-II. Sanitizar el equipo de transporte y embalaje de conformidad con lo dispuesto en el plan de manejo acuícola;
-
-III. Colocar al transporte un sello de sanitización con el que se compruebe que el mismo ha sido desinfectado con el medio que la Secretaría establezca;
-
-IV. Lavar la unidad y, posteriormente, clorarla en caso de que el vehículo regrese con organismos muertos en su interior;
-
-V. Verificar que los vehículos limpios sean sanitizados en su exterior y en su interior, así como las javas, las hieleras o los contenedores que se utilicen para movilizar los recursos pesqueros o acuícolas;
-
-VI. Impedir la internación de vehículos cuya carga no cumpla con los requisitos solicitados por la presente ley y las demás disposiciones aplicables;
-
-VII. Disponer las medidas sanitarias que establece esta ley, cuando se requiera, y
-
-VIII. Levantar, en su caso, las actas correspondientes de retorno de los transportes que no cumplan con los requisitos de internación.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ###### Artículo 160.
 
-La desinfección o sanitización de materiales de empaque, embalaje y vehículos de transporte se hará conforme a las disposiciones técnicas establecidas en el plan de manejo acuícola.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ###### Artículo 161.
 
-En los puntos de verificación fijos la Secretaría contará con el equipo y material necesarios para desinfectar o sanitizar los materiales de empaque y embalaje y los vehículos de transporte.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ###### Artículo 162.
 
-Para los efectos del cabal cumplimiento del presente capítulo, se actuará en coordinación y concurrencia con las autoridades federales competentes en la materia.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ## TÍTULO IX. DE LA CALIDAD DE LOS PROCESOS DE PRODUCCIÓN ACUÍCOLA
 
@@ -1647,37 +1581,23 @@ Para los efectos del cabal cumplimiento del presente capítulo, se actuará en c
 
 ###### Artículo 163.
 
-La Secretaría, a través del IAPEJ, podrá prestar servicios de verificación de estándares de calidad cuando se lo requieran los productores, a efecto de que les expida certificados de calidad de los procesos de producción.
-
-Para efectos de lo anterior, el Instituto verificará las acciones comprendidas desde la siembra hasta antes de la transformación de los recursos acuícolas.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ###### Artículo 164.
 
-Para determinar los estándares de calidad en el proceso de producción acuícola y otorgar al permisionario el reconocimiento de la calidad alcanzada en el proceso de producción, el Instituto atenderá la aplicación de las buenas prácticas de sanidad acuícola y de producción establecidas en normas nacionales e internacionales.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ###### Artículo 165.
 
-La Secretaría, a través del IAPEJ, podrá expedir a los acuacultores el certificado de calidad, a solicitud de los mismos, siempre y cuando éstos hayan cumplido con los estándares a que se refiere el artículo anterior, debiendo resolver dicha solicitud en un plazo de diez días hábiles contados a partir de la fecha de su recepción.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ###### Artículo 166.
 
-La Secretaría, a través del IAPEJ, expedirá un certificado de calidad a los acuacultores por cada ciclo de cultivo que cubre la producción de éste, mismo que contendrá lo siguiente:
-
-I. Datos de identificación de la granja acuícola o laboratorio de producción y el recurso acuícola producido;
-
-II. Números de las constancias de verificación realizadas en el ciclo de producción;
-
-III. En su caso, número de la constancia expedida por laboratorio de diagnóstico autorizado;
-
-IV. Grado de calidad alcanzado de conformidad con los estándares de calidad a que se refiere la presente ley;
-
-V. Vigencia, y
-
-VI. Fecha de expedición, nombre y firma del titular de la Secretaría y sello oficial.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ###### Artículo 167.
 
-La Secretaría, a través del IAPEJ, llevará un registro de los certificados de calidad expedidos a las granjas o establecimientos acuícolas y laboratorios de producción. Dichos certificados se integrarán al Sistema de información Estatal Acuícola y Pesquero.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ## TÍTULO X. DE LA LEGAL PROCEDENCIA Y TRASLADO DE LOS RECURSOS PESQUEROS Y ACUÍCOLAS
 
@@ -2246,3 +2166,19 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27398/LXII/19 QUE REFORMA LOS ARTÍCULOS 6 Y 13 DE LA LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27787/LXII/19 QUE ABROGA LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD ANIMAL PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD VEGETAL DEL ESTADO DE JALISCO, CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO AGENCIA DE SANIDAD, INOCUIDAD Y CALIDAD AGROALIMENTARIA DE JALISCO Y EXPIDE LA LEY AGROALIMENTARIA DEL ESTADO DE JALISCO Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente decreto entrará en vigor el 1 de enero de 2020, previa su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. El Ejecutivo del Estado de Jalisco deberá expedir las disposiciones reglamentarias necesarias para el cumplimiento del presente decreto.
+
+TERCERO. El Ejecutivo del Estado, por conducto de la Secretaría de Agricultura y Desarrollo Rural, deberá de efectuar todas las acciones y gestiones necesarias para la organización y funcionamiento de la Agencia de Sanidad, Inocuidad y Calidad Agroalimentaria en Jalisco que deberá concretarse dentro del plazo referido en el artículo Primero Transitorio.
+
+Asimismo, se faculta a la Secretaría de Agricultura y Desarrollo Rural del Estado de Jalisco para que, respetando los derechos laborales de los trabajadores, lleve a cabo la transferencia de personal que se requiera para dicho fin; asimismo se le faculta para que, en coordinación con las Secretarías de Administración y de la Hacienda Pública, lleven a cabo todas las acciones necesarias y adecuaciones presupuestales necesarias para el cumplimiento del presente decreto.
+
+CUARTO. Los permisos, registros, autorizaciones, certificados y reconocimientos emitidos en los términos de las Leyes que se abrogan o de los preceptos que se derogan, continuarán vigentes y serán reconocidos hasta en tanto concluya el plazo por el que fueron emitidos.
+
+QUINTO. La Junta de Gobierno de la Agencia de Sanidad, Inocuidad y Calidad Agroalimentaria en Jalisco se instalará en un periodo no mayor a los treinta días naturales siguientes a la entrada en vigor del presente decreto.
