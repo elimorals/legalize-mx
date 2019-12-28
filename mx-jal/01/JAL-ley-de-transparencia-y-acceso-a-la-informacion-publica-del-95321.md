@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9532
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-08"
-last_updated: "2019-11-19"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 8 de agosto de 2013.
 
@@ -2489,15 +2489,19 @@ III. Los recursos financieros que recaude por los conceptos que la ley autorice,
 
 IV. Los demás bienes que adquiera u obtenga de conformidad con la ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 37.
 
-Instituto - Relaciones laborales
+Instituto - Relaciones laborales y responsabilidad administrativa
 
 1. Las relaciones laborales entre el Instituto y sus trabajadores se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
 
 2. El Instituto deberá establecer el servicio civil de carrera.
 
-3. Los servidores públicos del Instituto se sujetarán a la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+3. Los servidores públicos del Instituto se sujetarán a la Ley de Responsabilidades Política (sic) y Administrativas del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -4357,13 +4361,17 @@ a) El artículo 119 párrafo 1 fracciones I, XI, XII y XIV.
 
 Responsabilidad administrativa
 
-1. Independientemente de la sanción que aplique el Instituto, éste deberá presentar ante las autoridades competentes denuncia en materia de responsabilidad administrativa de los servidores públicos para que, de ser procedente, se sancione al servidor público de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco. En el caso de que se imponga como sanción la inhabilitación, ésta no podrá ser menor a tres años.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+1. Independientemente de la sanción que aplique el Instituto, éste deberá presentar ante las autoridades competentes denuncia en materia de responsabilidad administrativa de los servidores públicos para que, de ser procedente, se sancione al servidor público de conformidad con la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 125.
 
 Sanciones - Impugnación
 
-1. Las sanciones administrativas que establece este capítulo serán combatibles mediante el juicio de nulidad seguido ante el Tribunal de lo Administrativo del Estado.
+1. Las sanciones administrativas que establece este capítulo serán combatibles mediante el juicio de nulidad seguido ante el Tribunal de Justicia Administrativa.
 
 ###### Artículo 126.
 
@@ -4525,9 +4533,9 @@ P.O. 11 DE JULIO DE 2019.
 
 P.O. 19 DE NOVIEMBRE DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 27589/LXII/19 QUE ABROGA LA LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS PÚBLICOS E HISTÓRICOS DEL ESTADO DE JALISCO, CONTENIDA EN EL DECRETO 17032 Y SUS RESPECTIVAS REFORMAS, Y EXPIDE LA LEY DE ARCHIVOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27589/LXII/19 QUE ABROGA LA LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS PÚBLICOS E HISTÓRICOS DEL ESTADO DE JALISCO, CONTENIDA EN EL DECRETO 17032 Y SUS RESPECTIVAS REFORMAS, Y EXPIDE LA LEY DE ARCHIVOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
 
-Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco”.
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 Segundo.- El Titular de la Dirección de Área del Archivo Histórico del Gobierno del Estado fungirá como encargado de la presidencia en el Consejo Estatal de Archivos y será el vínculo con el Consejo Nacional de Archivos en tanto se nombre al Titular de la Dirección General de Archivos del Estado.
 
@@ -4544,3 +4552,15 @@ Séptimo.- Los sujetos obligados deberán realizar las adecuaciones presupuestal
 Octavo.- La integración de las auditorías archivísticas en el programa anual de auditorías, deberá ser contemplada en el programa anual 2020.
 
 Noveno.- Para aquellos sujetos obligados que a la entrada en vigor del presente decreto no cuenten con un portal electrónico al que se refiere el artículo 65 de la Ley de Archivos del Estado de Jalisco y sus Municipios que se expide a través de este decreto, la publicación de los expedientes de disposición documental y transferencia secundaria se realizará a través del portal del Archivo General del Estado en los términos de las disposiciones legales aplicables.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27593/LXII/19 QUE REFORMA LOS ARTÍCULOS 37 Y 124 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27757/LXII/19 QUE REFORMA EL ARTÍCULO 125 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
