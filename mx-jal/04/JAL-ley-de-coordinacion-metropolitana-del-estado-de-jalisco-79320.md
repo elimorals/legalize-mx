@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-metropolitana-del-estado-de-jalisco-79320"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-03"
-last_updated: "2019-10-31"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 31 DE OCTUBRE DE 2019 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 27382/LXII/19 PUBLICADO EN EL P.O. DE 24 DE OCTUBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 3 de febrero de 2011.
 
@@ -661,13 +659,15 @@ II. Las Mesas de Gestión Metropolitana, en adelante Mesas de Gestión.
 
 ### Capítulo II. Junta de Coordinación Metropolitana
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 27.
 
-Naturaleza e integración de la Junta
+Naturaleza e integración de la Junta.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-1. La Junta es el órgano máximo de coordinación política, integrado por los presidentes de los municipios que conforman el área metropolitana correspondiente, el Gobernador del Estado, el titular de la Secretaría de Desarrollo Agrario, Territorial y Urbano, el titular de la Secretaría del Medio Ambiente y Desarrollo Territorial, el presidente del Consejo Ciudadano en turno y el presidente de la comisión legislativa de Gestión Metropolitana del Poder Legislativo del Estado, o quien aquella designe de entre sus miembros, este último con derecho a voz exclusivamente.
+1. La Junta es el órgano máximo de coordinación política, integrado por los presidentes de los municipios que conforman el área metropolitana correspondiente, el Gobernador del Estado, el titular de la Secretaría de Desarrollo Agrario, Territorial y Urbano, el presidente del Consejo Ciudadano en turno y el presidente de la comisión legislativa de Gestión Metropolitana del Poder Legislativo del Estado, o a quien este designe de entre los diputados integrantes de la comisión, este último con derecho a voz exclusivamente.
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
 
@@ -1324,3 +1324,9 @@ P.O. 24 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27382/ LXII/19 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY (SIC) COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27761/LXII/19 QUE REFORMA EL ARTÍCULOS (SIC) 27 NUMERAL 1 DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
