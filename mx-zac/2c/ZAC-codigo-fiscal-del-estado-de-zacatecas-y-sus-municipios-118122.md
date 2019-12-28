@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-fiscal-del-estado-de-zacatecas-y-sus-municipios-118122"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-12-31"
-last_updated: "2018-12-31"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118122&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Código publicado en el Suplemento 16 al Número 105 del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -135,7 +135,9 @@ III. Los Organismos Operadores de los Sistemas de Agua Potable, Alcantarillado y
 
 IV. El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Zacatecas
 
-Para estos efectos, son autoridades fiscales siempre que conforme a sus ordenamientos jurídicos, se les otorguen facultades para administrar, comprobar, fiscalizar, determinar y cobrar los ingresos establecidos en el artículo 3 de este Código, y que ejerzan facultades en materia fiscal establecidas en este mismo ordenamiento y en las demás leyes fiscales, en el ámbito de sus respectivas competencias.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Para estos efectos, son autoridades fiscales siempre que, conforme a sus ordenamientos jurídicos, se les otorgue cualquiera de las facultades para administrar, comprobar, fiscalizar, determinar o cobrar los ingresos establecidos en el artículo 3 de este Código, y que ejerzan facultades en materia fiscal establecidas en este mismo ordenamiento y en las demás leyes fiscales, en el ámbito de sus respectivas competencias.
 
 También podrán ser considerados autoridades fiscales los órganos administrativos desconcentrados o descentralizados que ejerzan las facultades referidas en el párrafo anterior, así como la Secretaría del Agua y Medio Ambiente y la Procuraduría de Protección al Medio Ambiente del Estado de Zacatecas, en apoyo a las facultades establecidas en este artículo a la Secretaría de Finanzas, con relación a los impuestos de carácter ecológico.
 
@@ -181,9 +183,7 @@ Para determinar el monto de las cantidades a que se refiere el párrafo anterior
 
 Cuando de conformidad con las disposiciones fiscales se deban realizar operaciones aritméticas con el fin de determinar factores, las mismas deberán calcularse hasta el diezmilésimo. Cuando el diezmilésimo obtenido sea mayor a cinco, se ajustará la decena con un punto hacia arriba, y si es igual o inferior a cinco, la decena quedará como hubiere resultado. El resultado de estas operaciones será el factor aplicable.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-Cuando de conformidad con las disposiciones fiscales se deban realizar operaciones aritméticas con el fin de determinar factores, las mismas deberán calcularse hasta el diezmilésimo.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 11.
 
@@ -1011,9 +1011,7 @@ En el supuesto de que las solicitudes, declaraciones y avisos se presenten de ma
 
 Tratándose de los créditos fiscales establecidos en cantidad líquida por las autoridades fiscales como consecuencia del ejercicio de sus facultades de comprobación, determinación o sancionadoras, deberán pagarse junto con sus accesorios, dentro de los quince días hábiles siguientes a aquél en que surta efectos su notificación, o garantizarse cuando se solicite plazo para el pago en parcialidades, o en cualquier otro caso que expresamente se prevea en las disposiciones fiscales.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-Las contribuciones omitidas que las autoridades fiscales determinen en cantidad líquida como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse conjuntamente con sus accesorios, dentro de los 15 días hábiles siguientes a aquel en el que haya surtido efecto su notificación.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 Cuando la obligación de pago del crédito fiscal derive de una responsabilidad solidaria por disposición de ley, las autoridades fiscales previamente a la notificación de la resolución que lo determina en cantidad líquida, deberán correr traslado al responsable solidario de los procedimientos realizados en el ejercicio de sus facultades de comprobación.
 
@@ -1029,11 +1027,23 @@ Cuando las autoridades fiscales hubiesen iniciado el ejercicio de sus facultades
 
 Asimismo, si después de haberse presentado dos o más declaraciones complementarias a la original, se pretenden presentar otras declaraciones complementarias en las que se modifiquen conceptos que originen el pago de lo indebido del contribuyente o tengan efectos que reduzcan las cargas tributarias de éste, deberá proporcionarse la información y, en su caso, anexarse a éstas los documentos que acrediten la existencia y veracidad de tales operaciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 67.
 
-Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de registro estatal o municipal de contribuyentes, avisos o informes, ante las autoridades fiscales, lo harán en las formas impresas que siendo aprobadas por las autoridades fiscales estatales o municipales, según sea el caso, y hayan sido publicadas en el Periódico Oficial, Órgano del Gobierno del Estado o en las gacetas municipales, debiendo proporcionar el número de ejemplares, los datos e informes y los documentos que dichas formas requieran; o bien, deberán hacerlo mediante documento digital cuando así lo establezcan las mencionadas autoridades fiscales.
+Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de registro estatal o municipal de contribuyentes, avisos o informes, ante las autoridades fiscales, lo harán de la manera siguiente:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+I. A la Secretaría de Finanzas, a través del portal electrónico;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+II. A las demás autoridades, en las formas impresas que siendo aprobadas por las autoridades fiscales estatales o municipales, según sea el caso, hayan sido publicadas en el Periódico Oficial, Órgano del Gobierno del Estado o en las gacetas municipales, debiendo proporcionar el número de ejemplares, los datos e informes y los documentos que dichas formas requieran, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+III. Mediante documento digital cuando así lo establezcan las mencionadas autoridades fiscales.
 
 Tratándose de declaraciones que tengan obligación de presentar los contribuyentes ante la Secretaría de Finanzas, aun cuando no exista cantidad a pagar, éstas deberán presentarse invariablemente a través de los medios electrónicos que establezca, mediante reglas de carácter general, la propia Secretaría de Finanzas.
 
@@ -1129,9 +1139,11 @@ Para los efectos del cambio de nombre, denominación o razón social, el aviso d
 
 Para los efectos de este Código, se considera que cambia el nombre de las personas físicas cuando así se haga constar en el Registro Civil; además, se entiende que cambia la denominación o razón social de las personas morales, cuando dicho cambio haya ocurrido en los términos de las disposiciones legales aplicables y se haga constar que se eleve a rango de escritura pública, debidamente registrada.
 
-###### Artículo 76.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-El aviso de cambio de Representante Legal, deberá presentarse ante la autoridad fiscal que corresponda, de acuerdo con lo siguiente:
+###### ARTÍCULO 76.
+
+El aviso de cambio de Representante Legal, deberá realizarse por medios electrónicos, a través del portal electrónico de la Secretaría de Finanzas y los municipios en sus respectivas Tesorerías, de acuerdo con lo siguiente:
 
 I. Tratándose de personas morales, cuando se cambie a quien tendrá la representación legal de la misma dentro de los quince días siguientes a que tenga lugar el cambio de la persona a quien se haya conferido la administración única, dirección general o gerencia general, o quien realice estas funciones con independencia del nombre del cargo con que se le designe, así como cuando se haga la designación del síndico o liquidador, respectivamente; debiendo acompañarse en su caso, la escritura respectiva; y
 
@@ -1165,9 +1177,11 @@ El aviso de aumento o disminución de obligaciones fiscales deberá presentarse 
 
 Para los efectos de las fracciones I y II de este artículo, se considerará que no hay aumento o disminución de obligaciones fiscales cuando se modifiquen los formatos en que deban presentarse las declaraciones o cuando por disposición legal se modifiquen los plazos para efectuar pagos.
 
-###### Artículo 78.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-El aviso de cancelación en el Registro Estatal o Municipal de Contribuyentes que corresponda, deberá presentarse de acuerdo con lo siguiente:
+###### ARTÍCULO 78.
+
+El aviso de cancelación en el Registro Estatal o Municipal de Contribuyentes que corresponda, deberá presentarse por medios electrónicos a través del portal electrónico de la Secretaría de Finanzas y los municipios en sus respectivas Tesorerías, de acuerdo con lo siguiente:
 
 I. En los casos de fusión de sociedad, la que subsista o resulte de la fusión presentará el aviso por las sociedades que desaparezcan, junto con la última declaración que les correspondía presentar, la sociedad acompañará constancia de que la fusión ha quedado inscrita en el registro público correspondiente;
 
@@ -1179,17 +1193,23 @@ III. Tratándose del fallecimiento, el representante legal de la sucesión de pe
 
 En el aviso de cancelación del Registro Estatal o Municipal de Contribuyentes, según corresponda, deberá señalarse el domicilio donde queda a disposición de las Autoridades Fiscales la contabilidad y documentación con la que se compruebe el cumplimiento de las obligaciones fiscales.
 
-###### Artículo 79.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Tratándose del aviso de cancelación en el Registro Estatal o Municipal de Contribuyentes por liquidación de personas morales o sociedades, el aviso deberá presentarse ante la autoridad fiscal que corresponda dentro del mes siguiente al día en que se inicie el procedimiento de liquidación.
+###### ARTÍCULO 79.
+
+Tratándose del aviso de cancelación en el Registro Estatal o Municipal de Contribuyentes por liquidación de personas morales o sociedades, el aviso deberá presentarse por medios electrónicos a través del portal electrónico de la Secretaría de Finanzas y los municipios en sus respectivas Tesorerías, dentro del mes siguiente al día en que se inicie el procedimiento de liquidación.
 
 ###### Artículo 80.
 
 En el caso de personas morales cuyo domicilio fiscal se encuentre dentro de la circunscripción territorial del Estado de Zacatecas y pretendan establecer una sucursal, establecimiento o local en un domicilio distinto al del domicilio fiscal, deberán realizar el aviso de apertura.
 
-Los avisos de apertura o cierre de establecimientos o de locales que se utilicen como base fija para el desempeño de sus actividades, deberán presentarse ante la autoridad fiscal dentro del mes siguiente al día en que se realice cualquiera de estos hechos.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Los avisos de apertura o cierre de establecimientos o locales se presentarán ante la autoridad fiscal que corresponda cuando se utilice como domicilio para el desempeño de actividades comerciales, industriales, agropecuarias, o de servicios, incluyendo el arrendamiento, uno diverso al señalado como domicilio fiscal.
+Los avisos de apertura o cierre de establecimientos o de locales que se utilicen como base fija para el desempeño de sus actividades, deberán ser presentados por medios electrónicos a través del portal electrónico de la Secretaría de Finanzas y los municipios en sus respectivas Tesorerías, dentro del mes siguiente al día en que se realice cualquiera de estos hechos.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Los avisos de apertura o cierre de establecimientos o locales deberán ser presentados por medios electrónicos a través del portal electrónico de la Secretaría de Finanzas y los municipios en sus respectivas Tesorerías, cuando se utilice como domicilio para el desempeño de actividades comerciales, industriales, agropecuarias, o de servicios, incluyendo el arrendamiento, uno diverso al señalado como domicilio fiscal.
 
 #### SECCIÓN IV. De las devoluciones y compensaciones
 
@@ -1473,7 +1493,197 @@ Cuando el pago de contribuciones omitidas que se exija por responsabilidad solid
 
 Si la responsabilidad solidaria se exige después que el contribuyente incumplió con el plazo otorgado para el pago en parcialidades, y el responsable solidario se constituyó como tal en dicho procedimiento de pago en parcialidades, el responsable solidario no tendrá acción para impugnar la base sobre la cual fue determinado y liquidado el crédito fiscal exigido.
 
-#### SECCIÓN I. De la Visita Domiciliaria
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN VIII. Del Dictamen Fiscal
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 101 BIS. Las personas físicas, morales y las unidades económicas presentarán dictamen del cumplimiento de sus obligaciones fiscales, en los términos de este Código y de las reglas de carácter general que para esos efectos emita la Secretaría de Finanzas, respecto de las contribuciones a las que se encuentre sujeto, cuando se ubiquen en alguno de los supuestos que señala el artículo 101 Ter de este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 101 TER. Los contribuyentes a que se refiere el artículo anterior de este Código, estarán obligados a presentar dictamen de cumplimiento de sus obligaciones fiscales, cuando se encuentren en alguno de los supuestos siguientes:
+
+I. Para efectos del Impuesto Sobre Nóminas:
+
+a) Que en el año calendario anterior a aquel que se dictamina, hayan contado con un promedio mensual de cien o más trabajadores;
+
+b) Que en el año calendario anterior a aquel que se dictamina, hayan tenido una base promedio mensual del Impuesto Sobre Nóminas de setecientos cincuenta mil pesos o mayor a dicha cantidad, o
+
+c) Que en el año calendario anterior a aquel que se dictamina, hayan obtenido ingresos acumulables anuales en los términos del Impuesto Sobre la Renta de igual o superior a diez millones de pesos.
+
+II. Para efectos de Impuesto Sobre Servicios de Hospedaje:
+
+a) Que se encuentre en alguno de los supuestos establecidos en la fracción anterior, o
+
+b) Que en el año calendario anterior a aquel que se dictamina, hayan enterado un promedio mensual del Impuesto Sobre Servicios de Hospedaje de cincuenta mil pesos o mayor a dicha cantidad.
+
+III. Para efectos del Impuesto por Remediación Ambiental en la Extracción de Materiales:
+
+a) Que se encuentre en alguno de los supuestos establecidos en la fracción I de este artículo, o
+
+b) Que en el año calendario anterior a aquel que se dictamina, hayan enterado un promedio mensual del Impuesto por Remediación Ambiental en la Extracción de Materiales igual o superior a dos millones de pesos.
+
+IV. Para efectos del Impuesto de la Emisión de Gases a la Atmósfera:
+
+a) Que se encuentre en alguno de los supuestos establecidos en la fracción I de este artículo, o
+
+b) Que en el año calendario anterior a aquel que se dictamina, hayan enterado un promedio mensual del Impuesto de la Emisión de Gases a la Atmósfera igual o superior a tres millones de pesos.
+
+V. Para efectos del Impuesto por la Emisión de Contaminantes al Suelo, Subsuelo y Agua:
+
+a) Que se encuentre en alguno de los supuestos establecidos en la fracción I de este artículo, o
+
+b) Que en el año calendario anterior a aquel que se dictamina, hayan enterado un promedio mensual del Impuesto por la Emisión de Contaminantes al Suelo, Subsuelo y Agua igual o superior a tres millones de pesos.
+
+VI. Para efectos del Impuesto al Depósito o Almacenamiento de Residuos:
+
+a) Que se encuentre en alguno de los supuestos establecidos en la fracción I de este artículo, o
+
+b) Que en el año calendario anterior a aquel que se dictamina, hayan enterado un promedio mensual del Impuesto al Depósito o Almacenamiento de Residuos igual o superior a tres millones de pesos.
+
+Las personas físicas, morales o unidades económicas que no se encuentren en alguno de los supuestos señalados en las fracciones de este artículo, tendrán la opción de dictaminar el cumplimiento de sus obligaciones fiscales en términos de lo establecido en esta Sección.
+
+El periodo del dictamen deberá abarcar las contribuciones causadas durante un año de calendario.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 101 QUÁTER. La presentación del aviso para dictaminar y del dictamen en los plazos en que dispone este Código, no impide el ejercicio de las facultades de cobro de créditos fiscales en el caso de que la autoridad fiscal advierta diferencias u omisiones de pago.
+
+Lo establecido en este artículo no es limitante para que los contribuyentes dictaminen otras obligaciones fiscales a su cargo o como retenedores, atendiendo lo dispuesto por el artículo 101 Ter de este Código.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 101 QUINQUIES. Los contribuyentes que se encuentren obligados u opten por dictaminar el cumplimiento de sus obligaciones fiscales, deberán presentar el aviso correspondiente a través de los medios y formas que establezca la Secretaría de Finanzas, mediante las reglas de carácter general, a más tardar el último día del mes de febrero del ejercicio siguiente a aquel que se dictamina, señalando las contribuciones objeto del dictamen, aún cuando el aviso no se presente por primera ocasión.
+
+El aviso a que se refiere este artículo no surtirá efectos cuando:
+
+I. No se presente en los medios que señale la Secretaría de Finanzas;
+
+II. El contador público propuesto que no cuente con la inscripción correspondiente ante la Secretaría de Finanzas, antes de la presentación del aviso, o bien, no compruebe haber cumplido con lo dispuesto en el párrafo segundo del artículo 101 Cuaterdecies, o su inscripción se encuentre suspendida en los términos de la fracción II del artículo 158 Duodecies de este Código;
+
+III. Exista impedimento del contador público que suscriba el aviso;
+
+IV. Se esté practicando visita domiciliaria al contribuyente por el periodo al cual corresponde el aviso para dictaminar, salvo que se encuentren obligados por disposición del artículo 101 Ter de este Código, y
+
+V. Cuando se presente de manera extemporánea, respecto de los contribuyentes que no se encuentren obligados a dictaminar sus obligaciones fiscales en términos del artículo 101 Ter.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 101 SEXTIES. El aviso a que se refiere el artículo anterior, deberá ser suscrito por el contribuyente o por su representante legal y por el contador público que vaya a emitir el dictamen, y sólo será válido por el periodo y las contribuciones que se indiquen.
+
+Los contribuyentes podrán modificar el aviso originalmente presentado, cuando se incluyan o modifiquen las contribuciones a dictaminar; se sustituya al dictaminador designado, siempre y cuando lo comunique a las autoridades fiscales a más tardar treinta días antes de que concluya el plazo para la presentación del dictamen, justificando los motivos que tuviere.
+
+Cuando el contador público señalado en el aviso no pueda formular el dictamen por incapacidad física o impedimento legal debidamente probado, el aviso para sustituirlo se podrá presentar en cualquier tiempo hasta antes de que concluya el plazo para la presentación del dictamen.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 101 SEPTIES. El dictamen a que se refiere el artículo 101 Bis y la documentación que se señala en el artículo 101 Nonies, ambos de este Código, se deberá presentar a través de los medios y formas que establezca la Secretaría de Finanzas, mediante reglas de carácter general, a más tardar el día 30 del mes de junio del ejercicio siguiente al cierre del periodo a dictaminar, por los contribuyentes obligados a dictaminar y aquellos que hayan optado por dictaminar el cumplimiento de sus obligaciones.
+
+El dictamen a que se refiere este artículo no surtirá efectos fiscales cuando:
+
+I. No se presente en los medios que señale la Secretaría de Finanzas;
+
+II. El contador público propuesto no cuente con la inscripción correspondiente ante la Secretaría de Finanzas, antes de la presentación del aviso o del propio dictamen, o bien, no compruebe haber cumplido con lo dispuesto por el artículo 101 Cuaterdecies, o su inscripción se encuentre suspendida en los términos de la fracción II del artículo 158 Duodecies, ambos de este Código;
+
+III. Exista impedimento del contador público que emita el dictamen;
+
+IV. Se esté practicando visita domiciliaria al contribuyente por el periodo al cual corresponde el dictamen, salvo que se encuentren obligados por disposición del artículo 101 Ter de este Código, y
+
+V. Cuando el dictamen se presente de manera extemporánea.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 101 OCTIES. Las autoridades fiscales podrán conceder prórroga hasta por un mes, para la presentación del dictamen, si existen causas comprobadas que impidan el cumplimiento dentro del plazo establecido, previo análisis de las causas que motivaron la demora. La solicitud de prórroga deberá ser firmada por el contribuyente o por su representante legal, así como por el contador público que dictaminará y deberá presentarse ante la Secretaría de Finanzas a más tardar quince días naturales antes del vencimiento del plazo de presentación, señalando los motivos que tuviere para la demora. Se considerará concedida la prórroga hasta por un mes, si dentro de los diez días naturales siguientes a la fecha de presentación de la solicitud de prórroga, la Secretaría de Finanzas no da contestación.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 101 NONIES. Los contribuyentes que opten o se encuentren obligados a dictaminar el cumplimiento de sus obligaciones fiscales deberán presentar, en los medios que establezca la Secretaría de Finanzas, mediante reglas de carácter general, la documentación siguiente:
+
+I. Carta de presentación del dictamen;
+
+II. El dictamen;
+
+III. El informe, y
+
+IV. Los anexos.
+
+Para efectos de lo establecido en el artículo 101 Ter fracciones III, IV, V y VI de este Código, los contadores públicos podrán asistirse de especialistas en mediciones de contaminantes u otros relacionados con la materia ambiental, los cuales obtendrán la certificación que corresponda ante la autoridad facultada para ello en materia ambiental y obtendrán un registro ante la Secretaría de Finanzas, conforme lo establezcan las reglas de carácter general que para tal efecto emita dicha dependencia.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 101 DECIES. Las declaraciones, que en los términos de este Código presenten los contribuyentes, podrán ser modificadas por ellos, mediante declaraciones complementarias, siempre que no se haya iniciado el procedimiento de comprobación por parte de la autoridad fiscal, sin que lo anterior limite a las autoridades en el ejercicio de sus facultades de comprobación.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 101 UNDECIES. Los contribuyentes tendrán la obligación de conservar el aviso, el dictamen y demás documentación que en esta Sección se señala, durante el plazo de cinco años contados a partir de la fecha de presentación de la última declaración o de que realizó el pago, en su caso.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 101 DUODECIES. El dictamen deberá contener la opinión sobre el cumplimiento de las disposiciones fiscales establecidas en este Código, y de las contribuciones sujetas a dictamen, el cual se formulará de acuerdo con las reglas de carácter general que emita la Secretaría de Finanzas y las normas de auditoría que regulan la capacidad, independencia e imparcialidad profesional del contador público, el trabajo que desempeña y la información que rinda como resultado de los mismos.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 101 TERDECIES. Para los efectos del artículo 101 Duodecies, las normas de auditoría se considerarán cumplidas en la forma siguiente:
+
+I. Las relativas a la capacidad, independencia e imparcialidad profesionales, cuando su inscripción se encuentre vigente y no tenga impedimento para dictaminar;
+
+II. Las relativas al trabajo profesional, cuando:
+
+a) La planeación del trabajo y la supervisión de sus auxiliares, los especialistas en mediciones de contaminantes, le permitan allegarse de elementos de juicio suficientes para fundar su dictamen, y
+
+b) El estudio y evaluación del sistema de control interno del contribuyente le permita determinar el alcance y naturaleza de los procedimientos de auditoría que habrán de emplearse.
+
+En caso de excepciones a lo anterior, el contador público deberá mencionar en qué consisten y su efecto sobre el dictamen, emitiendo, en consecuencia, un dictamen con salvedades, un dictamen negativo o con abstención de opinión, según sea el caso.
+
+III. El informe que se emitirá conjuntamente con el dictamen se integrará en la forma siguiente:
+
+a) Se declarará, bajo protesta de decir verdad, que se emite el informe con base en la revisión practicada conforme a las normas de auditoría y las reglas de carácter general que emita la Secretaría de Finanzas, por el periodo correspondiente;
+
+b) Se manifestará que dentro de las pruebas llevadas a cabo, en cumplimiento de las normas y procedimientos de auditoría, se examinó la situación fiscal del contribuyente por el periodo dictaminado. En caso de haber observado cualquier omisión respecto al cumplimiento de sus obligaciones fiscales, ésta se mencionará en forma expresa; de lo contrario se señalará que no se observó omisión alguna, y
+
+c) Se hará mención expresa de que se verificó el cálculo y entero de las contribuciones sujetas a dictamen y que se encuentran establecidas en la Ley de Hacienda del Estado de Zacatecas a su cargo o retenidas por el contribuyente.
+
+IV. Se deberán presentar anexos en las formas oficiales aprobadas respecto de cada contribución a que esté sujeto el contribuyente, y
+
+V. Las omisiones conocidas en la revisión efectuada por el contador público, deberán pagarse antes de la entrega del dictamen o, en su caso, informar de las mismas a las autoridades fiscales. La autoridad fiscal podrá requerir hasta por dos ocasiones al contribuyente para que exhiba los pagos de los saldos a cargo contenidos en su dictamen, así como la documentación soporte del dictamen correspondiente; sin que dicho requerimiento constituya el inicio de facultades de comprobación. Por cada requerimiento no atendido, se impondrá una multa en los términos de este Código.
+
+En los aspectos no contemplados en los artículos 101 Bis, 101 Ter, 101 Quáter, 101 Quinquies, 101 Sexties, 101 Septies, 101 Octies, 101 Nonies, 101 Decies, 101 Undecies, 101 Duodecies y en el presente, la Secretaría de Finanzas emitirá las reglas de carácter general para el cumplimiento de las obligaciones fiscales.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 101 QUATERDECIES. La inscripción para formular dictámenes del cumplimiento de obligaciones fiscales establecidas en este Código, lo podrán obtener las personas que tengan Cédula Profesional de contador público registrada ante la Secretaría de Educación Pública; que sean miembros de un Colegio de Contadores Públicos reconocido por la Secretaría de Finanzas, y que presenten solicitud de inscripción ante la misma, acompañando original para cotejo y copia de los documentos siguientes:
+
+I. Cédula Profesional, y
+
+II. Constancia emitida por un colegio de contadores públicos que acredite su calidad de miembro activo por un período mínimo de tres años, expedida dentro de los dos meses anteriores a la fecha de la presentación de la solicitud de inscripción.
+
+Una vez otorgada la inscripción, el contador público deberá comprobar ante la Secretaría de Finanzas, dentro de los tres primeros meses del año en que pretenda presentar avisos o dictámenes, que es socio activo del colegio profesional y presentar constancia de cumplimiento de la norma de educación continua, expedida por dicho colegio, o constancia de que sustentó y aprobó el examen correspondiente ante la autoridad fiscal.
+
+Cuando un contador público registrado en los términos de este artículo, durante dos años consecutivos no participe en la presentación de avisos o dictámenes en cualquiera de las formas establecidas en este Código, se dará de baja su inscripción sin que se requiera resolución para tal efecto.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 101 QUINDECIES. Son impedimentos para que el contador público dictamine el cumplimiento de obligaciones fiscales, los siguientes:
+
+I. Ser cónyuge, pariente por consanguinidad o civil en línea recta sin limitación de grado, transversal dentro del cuarto grado y por afinidad dentro del segundo grado, del propietario o socio de las personas físicas, morales o unidades económicas sujetas de dictamen, o de algún director, administrador o empleado que tenga intervención importante en la administración;
+
+II. Ser o haber sido en el ejercicio fiscal que dictamina, o en los tres ejercicios anteriores al mismo, director, miembro del consejo de administración, administrador o empleado del contribuyente o de una empresa afiliada, subsidiaria o que esté vinculada económica o administrativamente a dicho contribuyente, cualquiera que sea la forma como se le designe y se le retribuyan sus servicios.
+
+El comisario de la sociedad no se considerará impedido para dictaminar, salvo que concurra otra causal de las mencionadas en este artículo;
+
+III. Tener o haber tenido en el ejercicio fiscal que dictamine, alguna injerencia o vinculación económica en los negocios del contribuyente, que le impida mantener su independencia e imparcialidad;
+
+IV. Recibir, por cualquier medio, participación directa en función de los resultados de su auditoría o emita su dictamen relativo al cumplimiento de las obligaciones fiscales del contribuyente, en circunstancias en las cuales su remuneración dependa de su resultado;
+
+V. Laborar o prestar sus servicios en la Secretaría de Finanzas, la Comisión Estatal de la Defensa del Contribuyente o en cualquier otro organismo fiscal competente para determinar contribuciones locales o federales;
+
+VI. Ser agente o corredor de bolsa de valores en ejercicio;
+
+VII. Encontrarse vinculado en cualquier otra forma con el contribuyente, que le impida independencia e imparcialidad de criterio, y
+
+VIII. Cuando se acredite fehacientemente que dejó de existir la relación contractual entre el contador público que dictamine y el contribuyente que lo contrató.
 
 ## TÍTULO TERCERO. DE LAS FACULTADES DE LAS AUTORIDADES FISCALES
 
@@ -1579,9 +1789,11 @@ Las autoridades fiscales podrán, a petición de los interesados, revisar discre
 
 En estos supuestos, por tratarse de la modificación de resoluciones en las que sin haber intentado la vía administrativa con anterioridad, se actualiza el supuesto de haber sido consentidas en términos de las disposiciones establecidas en los medios de impugnación procedentes, las resoluciones dictadas conforme lo establecido en el párrafo anterior no podrán ser impugnadas por los contribuyentes, incluso en las partes que consideren no les favorecen. Para estos efectos, al presentar su solicitud, el contribuyente deberá manifestar el consentimiento expreso con la resolución que pretende sea modificada, enunciando a manera de información, cuáles son las contravenciones legales o a sus derechos humanos que a su juicio se actualizan en la emisión de la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 112.
 
-Cuando los contribuyentes, los responsables solidarios o terceros con ellos relacionados se opongan, impidan u obstaculicen el inicio o desarrollo del ejercicio de las facultades, las autoridades fiscales podrán aplicar como medidas de apremio las siguientes:
+Cuando los contribuyentes, los responsables solidarios o terceros con ellos relacionados impidan, de cualquier forma o por cualquier medio, el inicio o desarrollo del ejercicio de las facultades, las autoridades fiscales podrán aplicar como medidas de apremio las siguientes:
 
 I. Solicitar el auxilio de la fuerza pública.
 
@@ -1595,7 +1807,9 @@ III. Practicar el aseguramiento precautorio de los bienes o de la negociación d
 
 IV. Solicitar a la autoridad competente se proceda por desobediencia o resistencia, por parte del contribuyente, responsable solidario o tercero relacionado con ellos, a un mandato legítimo de autoridad competente.
 
-Las autoridades fiscales aplicarán la medida de apremio prevista en la fracción I, cuando los contribuyentes responsables solidarios o terceros relacionados con ellos no atiendan las solicitudes de información con los requerimientos de documentación que les realicen las autoridades fiscales, o al atenderlos no proporcionen lo solicitado; cuando se nieguen a proporcionar la contabilidad con la cual acrediten el cumplimiento de las disposiciones fiscales a que estén obligados o cuando destruyan o alteren la misma.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Las autoridades fiscales impondrán las medidas de apremio previstas en las fracciones anteriores en su estricto orden; sin embargo, cuando los contribuyentes responsables solidarios o terceros relacionados con ellos no atiendan las solicitudes de información con los requerimientos de documentación que les realicen las autoridades fiscales, o al atenderlos no proporcionen lo solicitado; cuando se nieguen a proporcionar la contabilidad con la cual acrediten el cumplimiento de las disposiciones fiscales a que estén obligados o cuando destruyan o alteren la misma, no será aplicable la fracción I.
 
 No se aplicarán medidas de apremio cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos, manifiesten por escrito a la autoridad, que se encuentran impedidos de atender completa o parcialmente la solicitud realizada por causa de fuerza mayor o caso fortuito, y lo acrediten exhibiendo las pruebas correspondientes.
 
@@ -1619,6 +1833,88 @@ VI. Cuando el contribuyente presente aviso de cambio de domicilio a un lugar rec
 
 VII. Cuando al inicio de facultades de comprobación, el contribuyente no hubiere presentado el aviso de cambio de domicilio correspondiente, en términos de lo dispuesto en los artículos 73 fracción I y 74 del presente Código.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 113 BIS. El aseguramiento precautorio de los bienes o de la negociación de los contribuyentes o los responsables solidarios, a que se refiere la fracción III del artículo 112 de este Código; así como el levantamiento del mismo, en su caso, se realizará conforme a lo siguiente:
+
+I. Se practicará una vez agotadas las medidas de apremio a que se refieren las fracciones I y II del artículo 112 de este Código, salvo en los casos señalados a continuación:
+
+a) Cuando no puedan iniciarse o desarrollarse las facultades de las autoridades fiscales derivado de que los contribuyentes, los responsables solidarios, no sean localizables en su domicilio fiscal; desocupen o abandonen el mismo sin presentar el aviso correspondiente, hayan desaparecido, o se ignore su domicilio;
+
+b) Cuando una vez iniciadas las facultades de comprobación, exista riesgo inminente de que los contribuyentes o los responsables solidarios oculten, enajenen o dilapiden sus bienes;
+
+c) Cuando durante el desarrollo de las facultades de comprobación del cumplimiento de obligaciones fiscales, el contribuyente se niegue a proporcionar la contabilidad que acredite el cumplimiento de las disposiciones fiscales, a las que esté obligado. Se considerará que existe negativa en los términos de esta fracción, cuando después de haber sido requerido, la contabilidad no sea proporcionada por más de cinco días posteriores al plazo en que debió hacerlo en los términos de las disposiciones de este Código, y
+
+d) Se realicen visitas a contribuyentes con locales, puestos fijos o semifijos en la vía pública y dichos contribuyentes no puedan demostrar que se encuentran inscritos en el Registro Estatal o Municipal de Contribuyentes.
+
+II. La autoridad practicará el aseguramiento precautorio hasta por el monto de la determinación provisional de adeudos fiscales presuntos que ella misma realice, únicamente para estos efectos. Para lo anterior, se podrá utilizar cualquiera de los procedimientos establecidos en el artículo 147 de este Código.
+
+La autoridad fiscal que practique el aseguramiento precautorio levantará acta circunstanciada, que deberá cumplir los requisitos señalados en el artículo 114 de este Código, en la que precise las razones por las cuales realiza dicho aseguramiento, misma que se notificará al contribuyente en ese acto, asimismo, notificará personalmente al contribuyente, responsable solidario o tercero relacionado con ellos, a más tardar el tercer día siguiente a aquél en que se haya practicado el aseguramiento, señalando la conducta que lo originó y, en su caso, el monto sobre el cual procedió el mismo;
+
+III. El aseguramiento precautorio se sujetará al orden siguiente:
+
+a) Bienes inmuebles, en este caso, el contribuyente o su representante legal deberá manifestar, bajo protesta de decir verdad, si dichos bienes reportan cualquier gravamen real, aseguramiento o embargo anterior; se encuentran en copropiedad, o pertenecen a sociedad conyugal alguna. Cuando la diligencia se entienda con un tercero, se deberá requerir a éste para que, bajo protesta de decir verdad, manifieste si tiene conocimiento de que el bien que pretende asegurarse es propiedad del contribuyente y, en su caso, proporcione la documentación con la que cuente para acreditar su dicho;
+
+b) Cuentas por cobrar, acciones, bonos, cupones vencidos, valores mobiliarios y, en general, créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la Federación, estados, municipios y de instituciones o empresas de reconocida solvencia;
+
+c) Derechos de autor sobre obras literarias, artísticas o científicas; patentes de invención y registros de modelos de utilidad, diseños industriales, marcas y avisos comerciales;
+
+d) Obras artísticas, colecciones científicas, joyas, medallas, armas, antigüedades, así como instrumentos de artes y oficios, indistintamente;
+
+e) Dinero y metales preciosos;
+
+f) Depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito, componente, producto o instrumento de ahorro o inversión en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta o contrato que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la Ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 Unidades de Medida y Actualización emitidas por el Instituto Nacional de Estadística y Geografía, elevados al año, en concordancia con lo que establece la Ley de los Sistemas de Ahorro para el Retiro;
+
+g) Los bienes muebles no comprendidos en las fracciones anteriores, y
+
+h) La negociación del contribuyente.
+
+Los contribuyentes, responsables solidarios o terceros relacionados con ellos, deberán acreditar la propiedad de los bienes sobre los que se practique el aseguramiento precautorio.
+
+Cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos no cuenten o, bajo protesta de decir verdad, manifiesten no contar con alguno de los bienes a asegurar conforme al orden establecido, se asentará en el acta circunstanciada referida en la fracción III del artículo 272 de este Código.
+
+En el supuesto de que existan varios bienes y el valor del bien a asegurar conforme al orden establecido, exceda del monto de la determinación provisional de adeudos fiscales presuntos efectuada por la autoridad, se podrá practicar el aseguramiento sobre el siguiente bien en el orden de prelación.
+
+Cuando no puedan iniciarse o desarrollarse las facultades de las autoridades fiscales derivado de que los contribuyentes, los responsables solidarios o terceros relacionados con ellos no sean localizables en su domicilio fiscal, desocupen o abandonen el mismo sin presentar el aviso correspondiente, hayan desaparecido o se ignore su domicilio, el aseguramiento se practicará sobre los bienes a que se refiere la fracción VI de este artículo.
+
+IV. El aseguramiento de los bienes a que se refiere el inciso f) de la fracción III de este artículo, se realizará conforme lo siguiente:
+
+a) La solicitud de aseguramiento precautorio se formulará mediante oficio dirigido a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas o a la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien, a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda;
+
+b) Cuando la solicitud de aseguramiento se realice a través de las Comisiones señaladas en el inciso anterior, éstas contarán con un plazo de tres días para ordenar a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, que practique el aseguramiento precautorio;
+
+c) La entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, contará con un plazo de tres días contados a partir de la recepción de la solicitud respectiva, ya sea a través de la Comisión de que se trate, o bien, de la autoridad fiscal, según sea el caso, para practicar el aseguramiento precautorio;
+
+d) Una vez practicado el aseguramiento precautorio, la entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate, deberá informar a la autoridad fiscal que ordenó la medida a más tardar al tercer día siguiente a aquél en que lo haya realizado, las cantidades aseguradas en una o más cuentas o contratos del contribuyente, responsable solidario o tercero relacionado con ellos, y
+
+e) En ningún caso procederá el aseguramiento precautorio de los depósitos bancarios, otros depósitos o seguros del contribuyente por un monto mayor al de la determinación provisional de adeudos fiscales presuntos que la autoridad fiscal realice para efectos del aseguramiento, ya sea que se practique sobre una sola cuenta o contrato o más de uno. Lo anterior, siempre y cuando previo al aseguramiento, la autoridad fiscal cuente con información de las cuentas o contratos y los saldos que existan en los mismos.
+
+V. La autoridad fiscal notificará al contribuyente, responsable solidario o tercero relacionado con ellos, a más tardar el tercer día siguiente a aquél en que se haya practicado el aseguramiento, señalando la conducta que lo originó y, en su caso, el monto sobre el cual procedió el mismo. La notificación se hará personalmente o a través del buzón tributario al contribuyente, responsable solidario o tercero relacionado;
+
+VI. Los bienes asegurados precautoriamente podrán, desde el momento en que se notifique el aseguramiento precautorio y hasta que el mismo se levante, dejarse en posesión del contribuyente, responsable solidario o tercero relacionado con ellos, siempre que para estos efectos actúe como depositario en los términos establecidos en el artículo 265 de este Código.
+
+El contribuyente, responsable solidario o tercero relacionado con ellos que actúe como depositario, deberá rendir cuentas mensuales a la autoridad fiscal que corresponda respecto de los bienes que se encuentren bajo su custodia.
+
+Lo establecido en esta fracción no será aplicable tratándose del aseguramiento que se practique sobre los bienes a que se refieren los incisos e) y f) de la fracción III de este artículo;
+
+VII. Cuando el ejercicio de facultades de comprobación no se concluya dentro de los plazos que establece este Código; se acredite fehacientemente que ha cesado la conducta que dio origen al aseguramiento precautorio, o bien, exista orden de suspensión emitida por autoridad competente que el contribuyente haya obtenido, la autoridad deberá ordenar que se levante la medida a más tardar el tercer día siguiente a que ello suceda.
+
+En el caso de que se hayan asegurado los bienes a que se refiere el inciso f) de la fracción III de este artículo, el levantamiento del aseguramiento se realizará conforme a lo siguiente:
+
+a) La solicitud para el levantamiento del aseguramiento precautorio se formulará mediante oficio dirigido a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas o a la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien, a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, dentro del plazo de tres días siguientes a aquél en que se actualice alguno de los supuestos a que se refiere el primer párrafo de este artículo;
+
+b) Cuando la solicitud de levantamiento del aseguramiento se realice a través de las Comisiones señaladas en el párrafo anterior, éstas contarán con un plazo de tres días a partir de que surta efectos la notificación a las mismas, para ordenar a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, que levante el aseguramiento precautorio;
+
+c) La entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate, contará con un plazo de tres días a partir de la recepción de la solicitud respectiva, ya sea a través de la comisión que corresponda, o bien, de la autoridad fiscal, según sea el caso, para levantar el aseguramiento precautorio;
+
+d) Una vez levantado el aseguramiento precautorio, la entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate deberá informar del cumplimiento de dicha medida a la autoridad fiscal que ordenó el levantamiento, a más tardar al tercer día siguiente a aquél en que lo haya realizado;
+
+e) Cuando la autoridad constate que el aseguramiento precautorio se practicó por una cantidad mayor a la debida, únicamente ordenará su levantamiento hasta por el monto excedente, observando lo dispuesto en los párrafos que anteceden, y
+
+f) Tratándose de los supuestos establecidos en la fracción II de este artículo, el aseguramiento precautorio quedará sin efectos cuando se acredite la inscripción al Registro Estatal o Municipal de Contribuyentes o se acredite la legal posesión o propiedad de la mercancía, según sea el caso.
+
+Para la práctica del aseguramiento precautorio se observarán las disposiciones contenidas en la Sección II del Capítulo Cuarto del Título Quinto de este Código, en aquello que no se oponga a lo previsto en este artículo.
+
 ###### ARTÍCULO 114.
 
 Los actos administrativos emitidos por las autoridades fiscales en que se determine la existencia de una obligación fiscal, se establezcan las bases para su liquidación o se fije en cantidad líquida un crédito fiscal, así como todos aquéllos que sean recurribles, deberán cumplir con los requisitos siguientes:
@@ -1637,7 +1933,9 @@ VI. Establecer la causa legal de responsabilidad, cuando ésta derive de una res
 
 VII. Ostentar la firma de la autoridad fiscal competente para emitirlo.
 
-En el caso de resoluciones administrativas que consten en documentos digitales, deberán contener la firma electrónica del funcionario competente, la cual tendrá el mismo valor que la firma autógrafa.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+En el caso de actos administrativos que consten en documentos escritos, impresos o digitales, deberán contener la firma del funcionario competente, la cual podrá ser autógrafa o electrónica avanzada.
 
 Cuando se ignore el nombre de la persona a quién deba ser dirigido, deberán señalarse datos suficientes que permitan su identificación.
 
@@ -1979,7 +2277,7 @@ Mediante convenio de intercambio reciproco de información, suscrito por el Secr
 
 ### CAPÍTULO SEGUNDO. DE LOS PROCEDIMIENTOS PARA LA COMPROBACIÓN DEL CUMPLIMIENTO DE LAS OBLIGACIONES FISCALES
 
-#### SECCIÓN II. De la Revisión en las Oficinas de la Autoridad
+#### SECCIÓN I. De la Visita Domiciliaria
 
 ###### ARTÍCULO 136.
 
@@ -2075,7 +2373,7 @@ Cuando de la revisión interna que realice la autoridad de las actas de visita y
 
 En este supuesto, la autoridad deberá comunicar al contribuyente mediante resolución fundada y motivada, el inicio de la reposición del procedimiento. Si la autoridad no comunica al contribuyente dicho inicio dentro de los primeros diez meses después de iniciada la revisión, precluirá su derecho para hacerlo.
 
-#### SECCIÓN III. De las Visitas Domiciliarias de Inspección
+#### SECCIÓN II. De la Revisión en las Oficinas de la Autoridad
 
 ###### ARTÍCULO 142.
 
@@ -2129,7 +2427,7 @@ III. En los casos no previstos en las fracciones anteriores, el plazo de present
 
 Los plazos a que se refieren las fracciones II y III de este artículo podrán ampliarse a solicitud del interesado, por diez días más cuando se trate de informes cuyo contenido sea difícil de proporcionar o sean de difícil obtención. La solicitud deberá presentarse hasta antes de vencer el plazo original que corresponda.
 
-#### SECCIÓN IV. De los procedimientos para la determinación presuntiva de la Base Gravable y de los Ingresos Presuntos
+#### SECCIÓN III. De las Visitas Domiciliarias de Inspección
 
 ###### ARTÍCULO 145.
 
@@ -2175,9 +2473,165 @@ Cuando las autoridades no notifiquen la resolución correspondiente en cualquier
 
 La nulidad de las actuaciones del procedimiento de fiscalización no afectará o invalidará la información obtenida en el desarrollo del procedimiento anulado.
 
-#### SECCIÓN V. De los demás Procedimientos
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN I. Del Recurso de Revocación
+#### SECCIÓN III BIS. De la Revisión del Dictamen Formulado por Contador Público
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 146 TER. Se presumirán ciertos, salvo prueba en contrario, los hechos afirmados en los dictámenes formulados por los contadores públicos sobre el cumplimiento de sus obligaciones fiscales establecidas en este Código; o bien, en las aclaraciones que dichos contadores formulen respecto de sus dictámenes, siempre que se reúnan los requisitos siguientes:
+
+I. Que el contador público que dictamine obtenga su inscripción ante la Secretaría de Finanzas, en los términos de lo señalado en el artículo 101 Quaterdecies de este Código;
+
+II. Que el dictamen se formule de acuerdo a lo establecido en el artículo 101 Duodecies;
+
+III. Que el contador público emita, conjuntamente con su dictamen, un informe, bajo protesta de decir verdad, sobre la revisión de la situación fiscal del contribuyente;
+
+IV. Que el dictamen se presente a través de los medios que establezca la Secretaría de Finanzas de conformidad con las reglas de carácter general que al efecto emita, y
+
+V. Que el contador público esté, en el mes de presentación del dictamen, al corriente en el cumplimiento de sus obligaciones fiscales en los términos del artículo 68 de este Código, para lo cual deberán exhibir a los particulares el documento vigente expedido por la Secretaría de Finanzas, en el que se emita la opinión del cumplimiento de obligaciones fiscales.
+
+Las opiniones o interpretaciones contenidas en los dictámenes, no obligan a las autoridades fiscales. La revisión de los dictámenes y demás documentos relativos a los mismos se podrá efectuar en forma previa o simultánea al ejercicio de las otras facultades de comprobación respecto de los contribuyentes o responsables solidarios.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 146 QUÁTER. Cuando las autoridades fiscales en el ejercicio de sus facultades de comprobación revisen el dictamen y demás información a que se refiere este artículo y las reglas de carácter general emitidas por la Secretaría de Finanzas, estarán a lo que enseguida se dispone:
+
+I. Se requerirá al contador público que haya formulado el dictamen, lo siguiente:
+
+a) Cualquier información que, conforme a este Código y a las reglas de carácter general emitidas por la Secretaría de Finanzas, debiera estar incluida en el Dictamen emitido para efectos de este ordenamiento;
+
+b) La exhibición de los papeles de trabajo elaborados con motivo de la auditoría practicada, los cuales, en todo caso, se entiende que son propiedad del contador público, y
+
+c) La información que se considere pertinente para cerciorarse del cumplimiento de las obligaciones fiscales del contribuyente.
+
+La revisión a que se refiere esta fracción se llevará a cabo con el contador público que haya formulado el dictamen. Esta revisión no deberá exceder de un plazo de seis meses contados a partir de que se notifique al contador público la solicitud de información.
+
+En caso de que las autoridades fiscales ejerzan las facultades de comprobación con el contribuyente dictaminado en términos de lo establecido de (sic) las fracciones II y III del presente artículo, se considerará concluida la revisión del dictamen al día siguiente de la notificación de la resolución determinativa de crédito fiscal, oficio de conclusión o acta final de corrección al contribuyente dictaminado.
+
+Cuando la autoridad, dentro del plazo mencionado, no requiera directamente al contribuyente la información a que se refiere el inciso c) de esta fracción o no ejerza directamente con el contribuyente las facultades a que se refiere la fracción II del presente artículo, no podrá volver a revisar el mismo dictamen, salvo cuando se revisen hechos diferentes de los ya revisados.
+
+II. Las autoridades fiscales, podrán, a su juicio, ejercer directamente con el contribuyente sus facultades de comprobación, en los supuestos siguientes:
+
+a) Habiéndose requerido al contador público que haya formulado el dictamen, la información y los documentos a que se refiere la fracción anterior, después de haberlos recibido o si estos no fueran suficientes a juicio de las autoridades fiscales para conocer la situación fiscal del contribuyente, y
+
+b) Si estos no se presentan dentro de los plazos que establece el artículo siguiente, o dicha información y documentos son incompletos.
+
+III. Las autoridades fiscales podrán, en cualquier tiempo, solicitar a los terceros relacionados con el contribuyente o responsables solidarios, la información y documentación para verificar si son ciertos los datos consignados en el dictamen y en los demás documentos, en cuyo caso, la solicitud respectiva se hará por escrito, notificando copia de la misma al contribuyente.
+
+La visita domiciliaria o el requerimiento de información que se realice a un contribuyente que dictamine sus estados financieros en los términos de este Código, cuyo único propósito sea el obtener información relacionada con un tercero, no se considerará revisión de dictamen.
+
+El plazo a que se refiere el segundo párrafo de la fracción I de este artículo es independiente del que se establece en el artículo 143 de este Código.
+
+Las facultades de comprobación a que se refiere este artículo, se podrán ejercer sin perjuicio de lo dispuesto en el artículo 120 de este Código.
+
+Para el ejercicio de las facultades de comprobación de las autoridades fiscales, no se deberá observar el orden establecido en este artículo, cuando:
+
+a) En el dictamen exista abstención de opinión, opinión negativa o salvedades que tengan implicaciones fiscales;
+
+b) En el caso de que se determinen diferencias de impuestos a pagar y estos no se enteren de conformidad con lo dispuesto en esta sección;
+
+c) El dictamen no surta efectos fiscales, en términos de lo establecido en el artículo 101 Septies de este Código;
+
+d) El contador público que formule el dictamen no esté autorizado o su inscripción esté suspendida o cancelada;
+
+e) El contador público que formule el dictamen desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio en los términos señalados en el presente Código;
+
+f) Tratándose de la revisión de los conceptos modificados por el contribuyente, que origine la presentación de declaraciones complementarias posteriores a la emisión de dictamen del ejercicio al que correspondan las modificaciones;
+
+g) Cuando habiendo ejercido la opción a que se refiere el segundo párrafo del artículo 101 Ter de este Código, el aviso del dictamen se haya presentado en forma extemporánea;
+
+h) Cuando el dictamen se haya presentado en forma extemporánea, e
+
+i) Por cada dictamen, que no proporcione la información a que se refiere este Código y las reglas de carácter general que para tal efecto emita la Secretaría de Finanzas o la proporcione de manera incompleta, con errores, inconsistencias o en forma distinta a lo señalado en las disposiciones fiscales.
+
+Tratándose de la revisión de pagos provisionales o definitivos, sólo se aplicará el orden establecido en este artículo, respecto de aquellos comprendidos en los periodos por los cuales ya se hubiera presentado el dictamen.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 146 QUINQUIES. Cuando las autoridades fiscales revisen el dictamen y demás información a que se refiere el artículo anterior, y soliciten al contador público inscrito que lo hubiera formulado, información o documentación, la misma se deberá presentar en los plazos siguientes:
+
+I. Seis días, tratándose de papeles de trabajo elaborados con motivo del dictamen realizado. Cuando el contador público inscrito tenga su domicilio fiscal fuera del estado de Zacatecas, el plazo será de diez días, y
+
+II. Quince días, tratándose de otra documentación o información relacionada con el dictamen, que esté en poder del contribuyente.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 146 SEXIES. Cuando el contador público inscrito no dé cumplimiento a las disposiciones referidas en este Código o en reglas de carácter general que emita la Secretaría de Finanzas, o no aplique las normas o procedimientos de auditoría, la autoridad fiscal, previa audiencia, impondrá al contador público inscrito las sanciones siguientes:
+
+I. Amonestación, cuando el contador público inscrito:
+
+a) No proporcione o presente incompleta la información a que se refiere el artículo 146 Quáter de este Código.
+
+La sanción a que se refiere este inciso se aplicará por cada dictamen formulado en contravención a las disposiciones legales aplicables, independientemente del ejercicio fiscal de que se trate y las sanciones correspondientes se acumularán, y
+
+b) No hubiera integrado en el dictamen o declaratoria la información que para efectos del proceso de envío se determine en las reglas de carácter general que emita la Secretaría de Finanzas.
+
+La sanción a que se refiere este inciso, se aplicará por cada dictamen en el que no se hubiera integrado la información que corresponda, independientemente del ejercicio fiscal de que se trate y las sanciones correspondientes se acumularán.
+
+II. Suspensión a la inscripción del contador público dictaminador a que se refiere este Código:
+
+a) De uno a tres años cuando el contador público inscrito:
+
+1. Formule el dictamen o declaratoria en contravención a lo establecido en el presente Código, así como en las reglas de carácter general que emita la Secretaría de Finanza;
+
+2. No aplique las normas de auditoría a que se refiere el artículo 101 Terdecies de este Código;
+
+3. Formule dictamen estando impedido para hacerlo de acuerdo a lo previsto en el artículo 101 Quindecies de este Código;
+
+4. A requerimiento de la autoridad fiscal, no exhiba los papeles de trabajo que elaboró con motivo del dictamen de cumplimiento de obligaciones a que se refiere este Código;
+
+5. No informe su cambio de domicilio fiscal, o
+
+6. No presente o presente de manera incompleta la información y documentación que demuestre los procedimientos de revisión de la situación fiscal del contribuyente, establecidos en las reglas de carácter general que emita la Secretaría de Finanzas.
+
+La sanción a que se refieren los numerales 1, 2, 3, 4 y 6, se aplicará por cada dictamen formulado en contravención a las disposiciones jurídicas aplicables o no se hubiera presentado la información que corresponda, independientemente del ejercicio fiscal de que se trate y las sanciones correspondientes se acumularán.
+
+b) Acumule tres amonestaciones de las previstas en la fracción I de este artículo. En este caso la suspensión será de un año y se aplicará una vez notificada la tercera amonestación;
+
+c) Se le vincule a proceso por la comisión de delitos de carácter fiscal. En este caso la suspensión durará el tiempo en el que el contador público se encuentre sujeto al proceso penal;
+
+d) No cumpla con lo establecido en el último párrafo del artículo 101 Quaterdecies de este Código. En este caso la suspensión durará hasta que se obtenga la renovación, refrendo o recertificación a que se refiere el citado artículo;
+
+e) Emita dictamen o declaratoria sin contar con la certificación a que se refiere el 101 Quaterdecies de este Código. En este caso la suspensión durará hasta que se obtenga la certificación, y
+
+f) No exhiba a requerimiento de autoridad, los papeles de trabajo que elaboró con motivo del dictamen de cumplimiento de obligaciones. En este caso la suspensión será de uno a dos años.
+
+III. La cancelación a la inscripción al contador público dictaminador, aplicará si hubiere reincidencia en los términos del artículo 146 Septies de éste Código.
+
+La Secretaría de Finanzas publicará a través de su portal electrónico, los contadores públicos que se encuentren en los supuestos establecidos en el presente y siguientes artículos. De igual forma se dará inmediatamente aviso por escrito al colegio profesional a que pertenezca el contador público en cuestión.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 146 SEPTIES. Para los efectos de lo señalado en el artículo anterior, la Secretaría de Finanzas, previa audiencia, procederá a la cancelación definitiva de la inscripción a que se refiere el citado precepto, para lo cual se entenderá que:
+
+I. Existe reincidencia cuando el contador público acumule dos suspensiones; la cancelación se aplicará una vez notificada la segunda suspensión, y
+
+II. El contador público participó en la comisión de un delito de carácter fiscal cuando cause ejecutoria la sentencia definitiva de condena.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 146 OCTIES. Para llevar a cabo las facultades a que se refieren los artículos 146 Sexies y 146 Septies de este Código, la Secretaría de Finanzas deberá observar el procedimiento siguiente:
+
+I. Concluida la revisión del dictamen en términos de lo señalado en el penúltimo párrafo de la fracción I del artículo 146 Quáter y determinada la irregularidad, en un plazo que no exceda de seis meses, será hecha del conocimiento del contador público inscrito, a efecto de que en el término de quince días manifieste por escrito lo que a su derecho convenga, y ofrezca y exhiba las pruebas que considere pertinentes.
+
+La autoridad fiscal admitirá toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posiciones;
+
+II. Agotado el periodo probatorio a que se refiere la fracción anterior, con vista en los elementos que obren en el expediente, la autoridad fiscal emitirá la resolución que proceda, y
+
+III. La resolución se emitirá en un plazo que no excederá de doce meses, contado a partir de que se agote el plazo señalado en la fracción I de este artículo.
+
+Las sociedades o asociaciones civiles conformadas por los despachos de contadores públicos, cuyos integrantes obtengan autorización para formular los dictámenes, deberán registrarse ante la autoridad fiscal competente, en los términos señalados en las reglas de carácter general que emita la Secretaría de Finanzas.
+
+Cuando la formulación de un dictamen se efectúe sin que se cumplan los requisitos de independencia e imparcialidad por parte de contador público o por la persona moral de la que sea socio o integrante, se procederá a la cancelación de la inscripción del contador público, previa audiencia, conforme al procedimiento establecido en este Código.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 146 NONIES. Las autoridades fiscales deberán concluir anticipadamente las visitas en los domicilios fiscales que hayan ordenado, cuando el visitado hubiere dictaminado el cumplimiento de obligaciones en términos de lo señalado en el artículo 101 Ter de este Código, por contador público autorizado. Lo dispuesto en este párrafo no será aplicable cuando a juicio de las autoridades fiscales la información proporcionada en términos del artículo 146 Quáter de este ordenamiento, no sea suficiente para conocer la situación fiscal del contribuyente, cuando no se presente dentro de los plazos que establece el artículo 146 Quinquies de este Código, la información o documentación solicitada, cuando en el dictamen exista abstención de opinión, opinión negativa o salvedades, que tenga implicaciones fiscales, ni cuando el dictamen se presente fuera de los plazos previstos en este ordenamiento.
+
+En el caso de conclusión anticipada a que se refiere el párrafo anterior se deberá levantar acta en la que se señale la razón de tal hecho.
+
+#### SECCIÓN IV. De los procedimientos para la determinación presuntiva de la Base Gravable y de los Ingresos Presuntos
 
 ###### ARTÍCULO 147.
 
@@ -2275,7 +2729,7 @@ III. Señalen el nombre o domicilio de un tercero, real o ficticio, si se compru
 
 IV. Se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
 
-#### SECCIÓN II. Del Trámite y Resolución del Recurso
+#### SECCIÓN V. De los demás Procedimientos
 
 ###### ARTÍCULO 154.
 
@@ -2463,9 +2917,13 @@ Cuando la comisión de una o varias infracciones origine la omisión total o par
 
 Cuando se den los supuestos que en los dos párrafos siguientes se señalan, la determinación de las sanciones aplicables estará a cargo del propio infractor considerando el ejercicio de su voluntad para determinar el momento de pago, y las reglas establecidas en este artículo de este Código para la determinación de las mismas no serán aplicables; por tanto, la existencia de la sanción en cantidad fija no será violatoria de sus derechos humanos y las garantías de éstos.
 
-Cuando el infractor pague las contribuciones omitidas junto con sus accesorios después de iniciado el ejercicio de las facultades de comprobación de las autoridades fiscales, y hasta antes de que se le notifique el acta final de la visita domiciliaria o el oficio de observaciones si la revisión se realizó en las oficinas de la autoridad, según sea el caso, la multa será del 30 por ciento de las contribuciones omitidas.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Si el infractor paga las contribuciones omitidas junto con sus accesorios, después de que se notifique el acta final de la visita domiciliaria o el oficio de observaciones, según sea el caso, pero antes de la notificación de la resolución que determine el monto de las contribuciones omitidas y la sanción que corresponda, la multa será del 40 por ciento de las contribuciones omitidas.
+Cuando el infractor pague las contribuciones omitidas junto con sus accesorios después de iniciado el ejercicio de las facultades de comprobación de las autoridades fiscales, y hasta antes de que se le notifique el acta final de la visita domiciliaria o el oficio de observaciones si la revisión se realizó en las oficinas de la autoridad, según sea el caso, la multa será del 20 por ciento de las contribuciones omitidas.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Si el infractor paga las contribuciones omitidas junto con sus accesorios, después de que se notifique el acta final de la visita domiciliaria o el oficio de observaciones, según sea el caso, pero antes de la notificación de la resolución que determine el monto de las contribuciones omitidas y la sanción que corresponda, la multa será del 30 por ciento de las contribuciones omitidas.
 
 Si las autoridades fiscales determinan contribuciones omitidas mayores que las consideradas por el contribuyente para calcular la multa en los términos de los párrafos tercero y cuarto de este artículo, aplicarán el porcentaje que corresponda en los términos del primer párrafo de este artículo sobre el remanente no pagado de las contribuciones.
 
@@ -2485,9 +2943,11 @@ III. No citar la clave del registro estatal o municipal de contribuyentes o util
 
 IV. Señalar como domicilio fiscal para efectos del registro estatal o municipal de contribuyentes, un lugar distinto del que corresponda conforme al artículo 26 de este Código; se impondrá una multa de $3,750.00 a $7,500.00.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 168.
 
-Son infracciones relacionadas con la obligación de pago de las contribuciones, así como de presentación de declaraciones, solicitudes, documentación, avisos, información o expedir constancias:
+Son infracciones relacionadas con la obligación de pago de las contribuciones, así como de presentación de declaraciones, dictámenes, solicitudes, documentación, avisos, información o expedir constancias, las siguientes:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2544,6 +3004,14 @@ VI. No presentar aviso de cambio de domicilio fiscal o de establecimientos, o pr
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 VII. En lo referente a la contribución establecida en el artículo 99 de la Ley de Hacienda del Estado de Zacatecas, cuando un vehículo sea registrado en otra entidad federativa y el propietario no presente la documentación que acredite este hecho dentro de los 30 días hábiles siguientes a la realización de este supuesto, se impondrá una multa equivalente de $1,400.00 a $3,750.00.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+VIII. No presentar el aviso de dictamen a que se refiere el artículo 101 Quinquies de este Código o hacerlo fuera del plazo establecido en dicho artículo; se impondrá una multa de $10,000.00 a $30,000.00, y
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+IX. No presentar el dictamen a que se refieren los artículos 101 Bis y 101 Septies de este Código o hacerlo fuera del plazo establecido en este último artículo; se impondrá una multa de $50,000.00 a $200,000.00.
 
 ###### ARTÍCULO 169.
 
@@ -2973,7 +3441,7 @@ La orden que se emita en los casos previstos en este artículo deberá ser debid
 
 ### CAPÍTULO SEGUNDO. DEL RECURSO ADMINISTRATIVO
 
-#### SECCIÓN I. Disposiciones Generales
+#### SECCIÓN I. Del Recurso de Revocación
 
 ###### ARTÍCULO 205.
 
@@ -3097,7 +3565,7 @@ Lo dispuesto en el párrafo anterior no es aplicable cuando la interposición de
 
 El tercero que afirme ser propietario de los bienes o negociaciones, o titular de los derechos embargados, podrá hacer valer el recurso de revocación en cualquier tiempo antes de que se finque el remate, se enajenen fuera de remate o se adjudiquen los bienes a favor Estado o Municipio, según corresponda. El tercero que afirme tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales, lo hará valer en cualquier tiempo antes que se haya aplicado el importe del remate a cubrir el crédito fiscal.
 
-#### SECCIÓN II. Del Embargo Precautorio
+#### SECCIÓN II. Del Trámite y Resolución del Recurso
 
 ###### ARTÍCULO 215.
 
@@ -3275,7 +3743,9 @@ Cuando la notificación se efectúe personalmente y el notificador no encuentre 
 
 El citatorio a que se refiere este artículo será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo y del buzón tributario.
 
-En caso de que el requerimiento de pago a que hace referencia el artículo 270 de este Código, no pueda realizarse personalmente, porque la persona a quien deba notificarse no sea localizada en el domicilio fiscal, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación la notificación del requerimiento de pago y la diligencia de embargo se realizarán por estrados y a través del buzón tributario.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+En caso de que el requerimiento de pago a que hace referencia el artículo 270 de este Código, no pueda realizarse personalmente, porque la persona a quien deba notificarse no sea localizada en el domicilio fiscal, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación; la notificación del requerimiento de pago y la diligencia de embargo se realizarán por estrados o a través del buzón tributario.
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento los honorarios en cantidad de $150.00 y se pagarán al cumplir con el requerimiento.
 
@@ -3315,7 +3785,7 @@ Las notificaciones realizadas en términos de este artículo se consideran efect
 
 ### CAPÍTULO CUARTO. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
 
-#### SECCIÓN III. Requerimiento de Pago y Embargo
+#### SECCIÓN I. Disposiciones Generales
 
 ###### ARTÍCULO 235.
 
@@ -3447,9 +3917,11 @@ Si para el ejercicio de las acciones de gestión a que hace referencia la fracci
 
 Los honorarios de los peritos se regularán de conformidad con los aranceles respectivos y, en su defecto, la de los bienes objeto del peritaje y de las demás circunstancias del caso.
 
-###### Artículo 255.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-La Secretaría de Finanzas constituirá un fondo destinado a mejorar, modernizar y fortalecer la administración tributaria, el cual se conformará con el cien por ciento de lo recaudado por concepto de multas, gastos extraordinarios, honorarios y gastos de ejecución, establecidos en el presente Código; así como el cincuenta por ciento por los citados conceptos e incentivos derivados de la aplicación del Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus respectivos anexos, los cuales se destinarán a equipamiento, sistemas informáticos de desarrollo, incentivos y capacitación al personal y difusión, cuyo ejercicio de los recursos será de manera autónoma y con independencia del presupuesto que para los fines correspondientes tenga asignado la Secretaría de Finanzas.
+###### ARTÍCULO 255.
+
+La Secretaría de Finanzas constituirá un fondo, reserva o pasivo destinado a mejorar, modernizar y fortalecer la administración hacendaria, el cual se conformará con el cien por ciento de lo recaudado por concepto de multas, gastos extraordinarios, honorarios y gastos de ejecución, establecidos en el presente Código; así como el veinticinco por ciento por los citados conceptos e incentivos derivados de la aplicación del Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus respectivos anexos, los cuales se destinarán a equipamiento, sistemas informáticos de desarrollo, incentivos y capacitación al personal y difusión, cuyo ejercicio de los recursos será de manera autónoma y con independencia del presupuesto que para los fines correspondientes tenga asignado la Secretaría de Finanzas.
 
 Los municipios a través de las tesorerías o su equivalente, podrán crear el fondo en los términos establecidos en el párrafo anterior, pudiendo incluir los derivados de Convenios de Colaboración que lleven a cabo con la Secretaría de Finanzas.
 
@@ -3523,7 +3995,7 @@ Las autoridades fiscales continuarán con el procedimiento administrativo de eje
 
 En todos los casos, cuando hubiere negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán promover el incidente de suspensión de la ejecución ante el Tribunal de Justicia Administrativa del Estado de Zacatecas que conozca del juicio respectivo.
 
-#### SECCIÓN IV. De la Intervención de Negociaciones
+#### SECCIÓN II. Del Embargo Precautorio
 
 ###### ARTÍCULO 260.
 
@@ -3609,91 +4081,21 @@ Los depositarios designados conforme este artículo, deberán informar y, en su 
 
 ###### ARTÍCULO 266.
 
-El aseguramiento precautorio de los bienes o de la negociación de los contribuyentes o los responsables solidarios, a que se refiere la fracción III del artículo 112 de este Código se practicará una vez agotadas las medidas de apremio a que se refieren las fracciones I y II del artículo 112 de este Código, salvo en los casos siguientes:
-
-I. Cuando no puedan iniciarse o desarrollarse las facultades de las autoridades fiscales derivado de que los contribuyentes, los responsables solidarios, no sean localizables en su domicilio fiscal; desocupen o abandonen el mismo sin presentar el aviso correspondiente, hayan desaparecido, o se ignore su domicilio;
-
-II. Cuando una vez iniciadas las facultades de comprobación, exista riesgo inminente de que los contribuyentes o los responsables solidarios oculten, enajenen o dilapiden sus bienes;
-
-III. Cuando durante el desarrollo de las facultades de comprobación del cumplimiento de obligaciones fiscales, el contribuyente se niegue a proporcionar la contabilidad que acredite el cumplimiento de las disposiciones fiscales, a las que esté obligado. Se considerará que existe negativa en los términos de esta fracción, cuando después de haber sido requerido para ello, la contabilidad no sea proporcionada por más de cinco días posteriores al plazo en que debió hacerlo en los términos de las disposiciones de este Código; y
-
-IV. Se realicen visitas a contribuyentes con locales, puestos fijos o semifijos en la vía pública y dichos contribuyentes no puedan demostrar que se encuentran inscritos en el registro estatal o municipal de contribuyentes.
-
-La autoridad practicará el aseguramiento precautorio hasta por el monto de la determinación provisional de adeudos fiscales presuntos que ella misma realice, únicamente para estos efectos. Para lo anterior, se podrá utilizar cualquiera de los procedimientos establecidos en los artículos contenidos en la Sección II del Capítulo Cuarto del Título Quinto, de este Código.
-
-La autoridad fiscal que practique el aseguramiento precautorio levantará acta circunstanciada, que deberá cumplir los requisitos señalados en el artículo 114 de este Código, en la que precise las razones por las cuales realiza dicho aseguramiento, misma que se notificará al contribuyente en ese acto, asimismo, notificará personalmente al contribuyente, responsable solidario o tercero relacionado con ellos, a más tardar el tercer día siguiente a aquél en que se haya practicado el aseguramiento, señalando la conducta que lo originó y, en su caso, el monto sobre el cual procedió el mismo.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ###### ARTÍCULO 267.
 
-El aseguramiento precautorio se sujetará al orden siguiente:
-
-I. Bienes inmuebles, en este caso, el contribuyente o su representante legal deberá manifestar, bajo protesta de decir verdad, si dichos bienes reportan cualquier gravamen real, aseguramiento o embargo anterior; se encuentran en copropiedad, o pertenecen a sociedad conyugal alguna.
-
-Cuando la diligencia se entienda con un tercero, se deberá requerir a éste para que, bajo protesta de decir verdad, manifieste si tiene conocimiento de que el bien que pretende asegurarse es propiedad del contribuyente y, en su caso, proporcione la documentación con la que cuente para acreditar su dicho;
-
-II. Cuentas por cobrar, acciones, bonos, cupones vencidos, valores mobiliarios y, en general, créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la Federación, estados y municipios y de instituciones o empresas de reconocida solvencia;
-
-III. Derechos de autor sobre obras literarias, artísticas o científicas; patentes de invención y registros de modelos de utilidad, diseños industriales, marcas y avisos comerciales;
-
-IV. Obras artísticas, colecciones científicas, joyas, medallas, armas, antigüedades, así como instrumentos de artes y oficios, indistintamente;
-
-V. Dinero y metales preciosos;
-
-VI. Depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito, componente, producto o instrumento de ahorro o inversión en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta o contrato que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la Ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 Unidades de Medida y Actualización emitidas por el Instituto Nacional de Estadística y Geografía, elevados al año, en concordancia con lo que establece la Ley de los Sistemas de Ahorro para el Retiro;
-
-VII. Los bienes muebles no comprendidos en las fracciones anteriores; y
-
-VIII. La negociación del contribuyente.
-
-Los contribuyentes, responsables solidarios o terceros relacionados con ellos, deberán acreditar la propiedad de los bienes sobre los que se practique el aseguramiento precautorio.
-
-Cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos no cuenten o, bajo protesta de decir verdad, manifiesten no contar con alguno de los bienes a asegurar conforme al orden establecido, se asentará en el acta circunstanciada referida en la fracción III del artículo 272 de este Código.
-
-En el supuesto de que el valor del bien a asegurar conforme al orden establecido exceda del monto de la determinación provisional de adeudos fiscales presuntos efectuada por la autoridad, se podrá practicar el aseguramiento sobre el siguiente bien en el orden de prelación.
-
-Cuando no puedan iniciarse o desarrollarse las facultades de las autoridades fiscales derivado de que los contribuyentes, los responsables solidarios o terceros relacionados con ellos no sean localizables en su domicilio fiscal, desocupen o abandonen el mismo sin presentar el aviso correspondiente, hayan desaparecido o se ignore su domicilio, el aseguramiento se practicará sobre los bienes a que se refiere la fracción VI de este artículo.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ###### ARTÍCULO 268.
 
-El aseguramiento de los bienes a que se refiere la fracción VI del artículo 267 de este Código, se realizará conforme a lo siguiente:
-
-La solicitud de aseguramiento precautorio se formulará mediante oficio dirigido a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas o a la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien, a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda.
-
-Cuando la solicitud de aseguramiento se realice a través de las Comisiones señaladas en el párrafo anterior, éstas contarán con un plazo de tres días para ordenar a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, que practique el aseguramiento precautorio.
-
-La entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, contará con un plazo de tres días contado a partir de la recepción de la solicitud respectiva, ya sea a través de la Comisión de que se trate, o bien, de la autoridad fiscal, según sea el caso, para practicar el aseguramiento precautorio.
-
-Una vez practicado el aseguramiento precautorio, la entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate, deberá informar a la autoridad fiscal que ordenó la medida a más tardar al tercer día siguiente a aquél en que lo haya realizado, las cantidades aseguradas en una o más cuentas o contratos del contribuyente, responsable solidario o tercero relacionado con ellos.
-
-En ningún caso procederá el aseguramiento precautorio de los depósitos bancarios, otros depósitos o seguros del contribuyente por un monto mayor al de la determinación provisional de adeudos fiscales presuntos que la autoridad fiscal realice para efectos del aseguramiento, ya sea que se practique sobre una sola cuenta o contrato o más de uno. Lo anterior, siempre y cuando previo al aseguramiento, la autoridad fiscal cuente con información de las cuentas o contratos y los saldos que existan en los mismos.
-
-Los bienes asegurados precautoriamente podrán, desde el momento en que se notifique el aseguramiento precautorio y hasta que el mismo se levante, dejarse en posesión del contribuyente, responsable solidario o tercero relacionado con ellos, siempre que para estos efectos actúe como depositario en los términos establecidos en el artículo 265 de este Código.
-
-El contribuyente, responsable solidario o tercero relacionado con ellos que actúe como depositario, deberá rendir cuentas mensuales a la autoridad fiscal que corresponda respecto de los bienes que se encuentren bajo su custodia.
-
-Lo establecido en los dos párrafos anteriores no será aplicable tratándose del aseguramiento que se practique sobre los bienes a que se refieren las fracciones V y VI del artículo 267 de este Código.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ###### ARTÍCULO 269.
 
-Cuando el ejercicio de facultades de comprobación no se concluya dentro de los plazos que establece este Código; se acredite fehacientemente que ha cesado la conducta que dio origen al aseguramiento precautorio, o bien, exista orden de suspensión emitida por autoridad competente que el contribuyente haya obtenido, la autoridad deberá ordenar que se levante la medida a más tardar el tercer día siguiente a que ello suceda.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
-En el caso de que se hayan asegurado los bienes a que se refiere la fracción VI del artículo 267 de este Código, el levantamiento del aseguramiento se realizará conforme a lo siguiente:
-
-La solicitud para el levantamiento del aseguramiento precautorio se formulará mediante oficio dirigido a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas o a la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien, a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, dentro del plazo de tres días siguientes a aquél en que se actualice alguno de los supuestos a que se refiere el primer párrafo de este artículo.
-
-Cuando la solicitud de levantamiento del aseguramiento se realice a través de las Comisiones señaladas en el párrafo anterior, estas contarán con un plazo de tres días a partir de que surta efectos la notificación a las mismas, para ordenar a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, que levante el aseguramiento precautorio.
-
-La entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate, contará con un plazo de tres días a partir de la recepción de la solicitud respectiva, ya sea a través de la comisión que corresponda, o bien, de la autoridad fiscal, según sea el caso, para levantar el aseguramiento precautorio.
-
-Una vez levantado el aseguramiento precautorio, la entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate deberá informar del cumplimiento de dicha medida a la autoridad fiscal que ordenó el levantamiento, a más tardar al tercer día siguiente a aquél en que lo haya realizado.
-
-Cuando la autoridad constate que el aseguramiento precautorio se practicó por una cantidad mayor a la debida, únicamente ordenará su levantamiento hasta por el monto excedente, observando para ello lo dispuesto en los párrafos que anteceden.
-
-Tratándose de los supuestos establecidos en la fracción II del artículo 266 de este Código, el aseguramiento precautorio quedará sin efectos cuando se acredite la inscripción al registro estatal o municipal de contribuyentes o se acredite la legal posesión o propiedad de la mercancía, según sea el caso.
-
-Para la práctica del aseguramiento precautorio se observarán las disposiciones contenidas en la Sección Segunda del Capitulo Cuarto del Título Quinto de este Código, en aquello que no se oponga a lo previsto en este artículo.
-
-#### SECCIÓN V (eliminar) (SIC). De la Intervención de Negociaciones
+#### SECCIÓN III. Requerimiento de Pago y Embargo
 
 ###### ARTÍCULO 270.
 
@@ -3891,7 +4293,7 @@ En igual forma procederá el ejecutor cuando la persona con quien se entienda la
 
 Si no fuere factible romper o forzar las cerraduras de cajas u otros objetos unidos a un inmueble o de difícil transportación, el ejecutor trabará embargo sobre ellos y su contenido y los sellará, en cuyo caso el deudor se considerará como depositario de los mismos con las obligaciones que para ello se prevén en las disposiciones aplicables; para su apertura se seguirá el procedimiento establecido en el párrafo anterior.
 
-#### SECCIÓN V. Del Remate
+#### SECCIÓN IV. De la Intervención de Negociaciones
 
 ###### ARTÍCULO 286.
 
@@ -3942,6 +4344,8 @@ IX. Elaborar un informe mensual con los movimientos realizados en el mes, el cua
 En la intervención de negociaciones serán aplicables, en lo conducente, las secciones de este Capítulo.
 
 > <small>[N. DE E. DEL ANÁLISIS AL DECRETO 108 PUBLICADO EN EL SUPLEMENTO 16 DEL P.O. 31 DE DICIEMBRE DE 2016, SE ADVIERTE IDÉNTICA DENOMINACIÓN DE LA SECCIÓN IV DEL CAPÍTULO II DEL TÍTULO QUINTO, VÉASE PÁGINAS 158 Y 160.]</small>
+
+#### SECCIÓN V (eliminar) (SIC). De la Intervención de Negociaciones
 
 ###### Artículo 287.
 
@@ -4012,6 +4416,8 @@ La intervención se levantará cuando el crédito fiscal se hubiera satisfecho o
 ###### ARTÍCULO 295.
 
 Las autoridades fiscales podrán proceder a la enajenación de la negociación intervenida o a la enajenación de los bienes o derechos que componen la misma de forma separada, cuando lo recaudado en tres meses no alcance a cubrir, por lo menos, el 24 por ciento del crédito fiscal, salvo que se trate de negociaciones que obtengan sus ingresos en un determinado período del año, en cuyo caso el porciento (sic) será el que corresponda al número de meses transcurridos a razón del 8 por ciento mensual y siempre que lo recaudado no alcance para cubrir el porciento (sic) del crédito que resulte.
+
+#### SECCIÓN V. Del Remate
 
 ###### ARTÍCULO 296.
 
@@ -4384,3 +4790,49 @@ Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respect
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 302.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES FISCALES Y HACENDARIAS DEL ESTADO DE ZACATECAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veinte, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos de la obligación establecida en la Sección VIII, Capítulo Segundo del Título Segundo y la Sección III Bis, Capítulo Segundo del Título Tercero del Código Fiscal del Estado de Zacatecas y sus Municipios, la Secretaría de Finanzas deberá emitir para su debida publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas, a más tardar el 31 de marzo de 2020, las reglas de carácter general relativas al cumplimiento, presentación y facultades de comprobación del dictamen fiscal.
+
+###### ARTÍCULO TERCERO.
+
+Para efectos del artículo 101-Bis del Código Fiscal del Estado de Zacatecas y sus Municipios, no serán sujetos de la obligación de presentar el dictamen del cumplimiento de sus obligaciones fiscales, aquellas personas físicas, morales o unidades económicas que hayan celebrado un acuerdo anticipado de pago a que se refiere el artículo 158-Bis, respecto de los ejercicios convenidos.
+
+###### ARTÍCULO CUARTO.
+
+Las personas físicas, morales o unidades económicas, que se encuentren en los supuestos establecidos en los artículos 101-Bis y 101-Ter, del Código Fiscal del Estado de Zacatecas y sus Municipios, tendrán la opción de presentar el dictamen correspondiente al ejercicio fiscal 2019, con base en los plazos siguientes:
+
+I. Presentar aviso a través de los medios y formas que establezca la Secretaría, mediante las reglas de carácter general, a más tardar el último día del mes de mayo.
+
+II. El dictamen a que se refiere el artículo 101 Bis de este Código y la documentación que se señala en el artículo 101 Nonies del mismo, se deberá presentar a través de los medios y formas que establezca la Secretaría, mediante reglas de carácter general, a más tardar el día 30 del mes de septiembre del ejercicio siguiente al cierre del periodo a dictaminar, por los contribuyentes obligados a dictaminar y aquellos que hayan optado por dictaminar el cumplimiento de sus obligaciones.
+
+###### ARTÍCULO QUINTO.
+
+Dentro de los 90 días siguientes a la publicación del presente Decreto, la Secretaría de Finanzas del Gobierno del Estado de Zacatecas, modificará su Reglamento Interior para adecuarlo a la presente reforma.
+
+###### ARTÍCULO SEXTO.
+
+La inscripción de los contadores públicos que realicen dictamen fiscal, deberá hacerse a más tardar el 30 de abril de 2020 y los ejercicios subsecuentes a más tardar el 28 de febrero de cada año, cuyo procedimiento se regirá en lo establecido en el artículo segundo de estas disposiciones transitorias.
+
+###### ARTÍCULO SÉPTIMO.
+
+Para los efectos de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios, el Titular del Poder Ejecutivo llevará a cabo acciones para generar ahorros y economías, durante el ejercicio fiscal 2020, respecto del gasto corriente y estructuras, que no esté relacionado con programas de atención a la población.
+
+Los Poderes Legislativo y Judicial, así como los organismos autónomos, deberán adoptar acciones que les permitan obtener economías en los mismos términos del párrafo anterior, en el ámbito de sus respectivas competencias.
+
+Dichas (sic) ahorros y economías en ningún momento serán en detrimento de la calidad en el desempeño de la función y administración pública.
+
+El resultado de la aplicación de las acciones descritas en el presente artículo deberá reportarse en los informes trimestrales.
+
+###### ARTÍCULO OCTAVO.
+
+Derivado de la reforma a los artículos 2 y 34 de la Ley de Coordinación y Colaboración Financiera para el Estado de Zacatecas y sus Municipios, los municipios que en el ejercicio fiscal 2020 pudiesen observar un crecimiento menor, derivado de la reforma a la fórmula para determinar y distribuir sus participaciones, tendrán garantizado que su participación no sea menor a la que obtuvieron en el ejercicio fiscal 2019, las cuales podrán cubrirse, en su caso, a través del Fondo de Estabilización de los Ingresos de las Entidades Federativas, en los términos establecidos en las leyes de la materia.
