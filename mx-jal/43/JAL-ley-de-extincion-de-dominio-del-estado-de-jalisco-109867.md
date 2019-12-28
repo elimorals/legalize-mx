@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-extincion-de-dominio-del-estado-de-jalisco-109867"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-19"
-last_updated: "2018-08-02"
+last_updated: "2019-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE EXTINCION DE DOMINIO DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 27777/LXII/19 MEDIANTE EL CUAL SE ABROGA LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE JALISCO Y EMITE LA DECLARATORIA PARA EL INICIO DE LA VIGENCIA DE LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO EN EL TERRITORIO DE JALISCO, PUBLICADO EN EL P.O. DE 28 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco el sábado 19 de septiembre de 2015.
 
@@ -718,3 +720,9 @@ P.O. 2 DE AGOSTO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26848/LXI/18 QUE REFORMA LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27777/LXII/19 MEDIANTE EL CUAL SE ABROGA LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE JALISCO Y EMITE LA DECLARATORIA PARA EL INICIO DE LA VIGENCIA DE LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO EN EL TERRITORIO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
