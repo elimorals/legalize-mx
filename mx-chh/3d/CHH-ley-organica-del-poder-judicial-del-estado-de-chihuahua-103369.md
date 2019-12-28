@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-103369"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-10-29"
-last_updated: "2019-03-13"
+last_updated: "2019-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "CHH"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 28 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 29 de octubre de 2014.
 
@@ -3966,3 +3968,87 @@ PRIMERO.- El presente Decreto entrará en vigor el día en que se emita la decla
 SEGUNDO.- Hasta la fecha en que entre en vigor el presente Decreto, el Poder Judicial del Estado, a través de la Sala de lo Contencioso Administrativo y Fiscal, conocerá de los asuntos en la materia, debiendo concluir los que se encuentren en trámite, conforme a las disposiciones del Código Fiscal del Estado de Chihuahua, publicado en el Periódico Oficial del Estado de fecha 30 de diciembre de 1970.
 
 TERCERO.- Todas las referencias contenidas en los ordenamientos legales, a la Sala de lo Contencioso Administrativo y Fiscal del Tribunal Superior de Justicia del Estado, se entenderán hechas al Tribunal Estatal de Justicia Administrativa. Así como las relativas al Juicio de Oposición, habrá de entenderse al Juicio Contencioso Administrativo.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/EXLEY/0621/2019 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica del Poder Judicial del Estado, aprobada mediante Decreto No. 588/2014 I P.O., publicada en el Periódico Oficial del Estado No. 87 del 29 de octubre de 2014.
+
+###### ARTÍCULO TERCERO.
+
+El Pleno del Tribunal Superior de Justicia expedirá dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto, las normas reglamentarias respectivas.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo de la Judicatura expedirá dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la reglamentación respectiva en materia administrativa.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo de la Judicatura deberá emitir los estatutos en materia de carrera judicial, dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo de la Judicatura emitirá la primera convocatoria para la integración de las listas de personas habilitadas del sistema de carrera del Poder Judicial, dentro de los ciento ochenta días posteriores a la entrada en vigor de los estatutos señalados en el transitorio quinto del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las y los servidores públicos en activo que, previo a la entrada en vigor del presente decreto ocupaban una plaza definitiva considerada de carrera judicial, conservarán sus derechos en el actual sistema de carrera en materia de ascenso y permanencia.
+
+###### ARTÍCULO OCTAVO.
+
+En tanto se expidan las disposiciones reglamentarias a que hace referencia este Decreto, seguirán vigentes las expedidas con fundamento en la ley abrogada, en todo aquello que no contravenga las nuevas disposiciones.
+
+###### ARTÍCULO NOVENO.
+
+Los procedimientos administrativos que se encuentren en trámite o pendientes de ejecución a la entrada en vigor del presente Decreto, se regirán bajo las reglas procedimentales vigentes al inicio de su trámite.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+Se derogan todas las disposiciones en materia de responsabilidades administrativas que se opongan a las disposiciones contenidas en esta Ley.
+
+Las competencias y atribuciones de la autoridad investigadora se ejercerán por la Unidad de Investigación de Responsabilidad (sic) Administrativas, quien sustituirá a la Contraloría y a la Visitaduría del Poder Judicial del Estado.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Pleno del Consejo de la Judicatura, deberá designar a quien ocupe la titularidad de la Unidad de Investigación de Responsabilidades Administrativas, en un plazo no mayor a tres días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+Designada la persona titular de la Unidad de Investigación de Responsabilidad (sic) Administrativas, esta sustituirá inmediata y totalmente en sus funciones delegadas a la Contraloría y a la Visitaduría del Poder Judicial del Estado que actuaban como autoridad investigadora, ejerciendo las competencias y atribuciones que le correspondían a las mismas.
+
+El personal de la Contraloría y la Visitaduría del Poder Judicial del Estado que actuaba como autoridad investigadora se adscribirá de manera inmediata a la Unidad de Investigación de Responsabilidad Administrativa (sic), conservando como mínimo, su antigüedad, percepciones económicas y derechos laborales.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las disposiciones del presente Decreto, referentes a la duración del periodo de gestión de la Presidencia del Tribunal Superior de Justicia, surtirán efectos a partir de su entrada en vigor, por lo que el Magistrado Presidente en funciones deberá concluir su encargo en la fecha que corresponda del año 2020.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los asuntos que se encuentren en trámite en las comisiones del Consejo de la Judicatura, serán desahogados conforme a las disposiciones del presente Decreto por el Consejero o Consejera que anteriormente presidia dicha comisión.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La presentación del informe anual que establece el artículo 48 del presente Decreto, incluirá por única ocasión el periodo adicional derivado de la modificación de la fecha.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+El Consejo deberá cumplir con los términos establecidos en el transitorio quinto del Decreto publicado en el Diario Oficial de la Federación de fecha 1 de mayo de 2019, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Las Magistradas y Magistrados que fueron designados conforme a la Constitución del Estado antes de la reforma aprobada mediante Decreto No. 579/2014 I P.O., concluirán su encargo y cesarán sus funciones a partir de la fecha en que estén en situación de jubilación, siempre y cuando hayan desempeñado el cargo cuando menos por un periodo de cinco años, y recibirán los beneficios correspondientes de conformidad con la legislación vigente al momento de su designación.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+Hasta en tanto, el Pleno del Tribunal Superior de Justicia y el Consejo de la Judicatura, respectivamente, en la esfera de sus atribuciones, determinen cuáles serán los órganos jurisdiccionales que estarán dotados de competencia para conocer de la materia de extinción de domino, conocerán de esta, los tribunales que conocen de la materia Civil, pudiendo pronunciar dichas determinaciones de manera simultánea, o bien, realizarlo con posterioridad a la primera designación que se efectúe en la especie.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Queda sin efecto el Decreto No. LXVI/RFLEY/0586/2019.
