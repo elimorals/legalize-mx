@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2019-10-19"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -1381,9 +1381,9 @@ s) El Colegio Mayoritario de Ingenieros Mecánicos y Electricistas del estado de
 
 t) Las tres principales universidades del Estado, que cuenten con estudios profesionales en las áreas de la arquitectura, ingeniería civil o desarrollo urbano.
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-V. El Diputado Presidente de la Comisión de Desarrollo Urbano del Congreso del Estado;
+V. El Diputado Presidente de la Comisión de Planeación, Ordenamiento Territorial y de la Gestión del Agua del Congreso del Estado;
 
 > <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -1445,9 +1445,9 @@ X. El Procurador de Desarrollo Urbano del estado de Jalisco;
 
 XI. El Delegado Estatal del Instituto Nacional de Antropología e Historia, previa aceptación;
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XII. Un representante del Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad; y
+XII. Un representante de La Secretaría General de Gobierno; y
 
 > <small>(ADICIONADA, P.O. 11 DE ENERO DE 2018)</small>
 
@@ -6452,3 +6452,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El poder ejecutivo del estado, dentro de los 180 días naturales siguientes a la entrada en vigor del presente decreto, deberá de realizar las adecuaciones reglamentarias necesarias para el cumplimiento al presente decreto.
 
 TERCERO. Los ayuntamientos dentro del plazo de 180 días naturales siguientes a la entrada en vigor del presente decreto, deberán de realizar las adecuaciones necesarias en sus reglamentos aplicables, para dar cumplimiento al presente decreto.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27783/LXII/19 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 39, FRACCIONES V Y XII DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
