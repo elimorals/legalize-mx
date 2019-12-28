@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2019-07-27"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -117,7 +117,9 @@ XII. Elementos operativos: los integrantes de las instituciones de la Fiscalía 
 
 XIII. "Escudo Urbano·C5": al Organismo Público Descentralizado encargado del Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo del Estado de Jalisco;
 
-XIV. Fiscal General: el titular de la Fiscalía General del Estado;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XIV. Fiscal Estatal: El titular de la Fiscalía Estatal;
 
 XV. Instituciones de seguridad pública: instituciones policiales y del sistema penitenciario encargadas de la seguridad pública a nivel estatal y municipal;
 
@@ -179,35 +181,31 @@ Para efectos del cumplimiento del presente artículo, las instituciones de segur
 
 Lo anterior, sin perjuicio de las unidades que en materia de investigación científica establezcan las instituciones de seguridad pública en el ámbito de sus respectivas competencias, las cuales tendrán como función principal la búsqueda, preservación y obtención de indicios y pruebas en general, en los términos de esta ley.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-La unidad correspondiente de la Fiscalía General utilizará los métodos de investigación que garanticen la recopilación técnica y científica de evidencias de los actos dirigidos contra la confidencialidad, la integridad y la disponibilidad de los sistemas, redes y datos informáticos, y para tal fin los particulares, prestadores de servicios de información y, en general, todas aquellas personas físicas o jurídicas de carácter privado que procesen, traten o tengan en su poder bases de datos personales de terceros, estarán obligados a otorgar o transferir la información en los términos que se les solicite, para el caso concreto de la investigación.
+La unidad correspondiente de la Fiscalía Estatal utilizará los métodos de investigación que garanticen la recopilación técnica y científica de evidencias de los actos dirigidos contra la confidencialidad, la integridad y la disponibilidad de los sistemas, redes y datos informáticos, y para tal fin los particulares, prestadores de servicios de información y, en general, todas aquellas personas físicas o jurídicas de carácter privado que procesen, traten o tengan en su poder bases de datos personales de terceros, estarán obligados a otorgar o transferir la información en los términos que se les solicite, para el caso concreto de la investigación.
 
 ###### Artículo 6°.
 
 Ninguna persona de las obligadas por esta ley podrá ingresar ni permanecer en las instituciones de seguridad pública si no ha sido debidamente certificada, ya sea por los centros de control de confianza federales, por el Centro o por las unidades de control de confianza respectivamente de conformidad con las disposiciones legales aplicables en la materia, y así mismo deberá registrarse en las bases de datos de personal de seguridad pública administrados por la plataforma tecnológica nacional que se establezca para tal fin.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-###### Artículo 7°.
+###### Artículo 7.
 
-Las facultades que este ordenamiento otorga a la Fiscalía General serán ejercidas por su titular, que para el debido cumplimiento de las mismas podrá delegar funciones, en los términos de la normatividad aplicable.
+Las facultades que este ordenamiento otorga a la Fiscalía Estatal serán ejercidas por su titular, que para el debido cumplimiento de las mismas podrá delegar funciones, en los términos de la normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-###### Artículo 8°.
+###### Artículo 8.
 
-La Fiscalía General en el ejercicio de sus atribuciones podrá requerir la intervención de las corporaciones policiales, quienes estarán obligadas a brindar el apoyo necesario dentro del ámbito de su competencia, atendiendo a sus capacidades de operatividad.
+La Fiscalía Estatal en el ejercicio de sus atribuciones podrá requerir la intervención de las corporaciones policiales, quienes estarán obligadas a brindar el apoyo necesario dentro del ámbito de su competencia, atendiendo sus capacidades de operatividad.
 
 ###### Artículo 9°.
 
 Todos los vehículos blindados deberán estar inscritos en el registro que al efecto lleve a cabo el Consejo Estatal, conforme al reglamento respectivo.
 
-Tíitulo Segundo
-
-Del Sistema Estatal de Seguridad Pública
-
-## Título Tercero. Del Programa Estatal de Seguridad Pública
+## Título Segundo. Del Sistema Estatal de Seguridad Pública
 
 ### Capítulo I. Del Consejo Estatal de Seguridad Pública
 
@@ -275,9 +273,9 @@ VII. Integrar programas, estructuras o acciones operativas conjuntas en los tér
 
 VIII. Relación con la comunidad y fomento de la cultura de prevención de infracciones, delitos y conductas antisociales;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-IX. El control del cumplimiento de las condicionantes y supervisión de los liberados en su reinserción social, a través de la Comisaria de Atención a Preliberados y Liberados de la Fiscalía General; y
+IX. El control del cumplimiento de las condicionantes y supervisión de los liberados en su reinserción social, a través de la Comisaría de Atención a Preliberados y Liberados de la Fiscalía Estatal; y
 
 X. Las relacionadas con las anteriores, que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a alcanzar los fines de la seguridad pública.
 
@@ -305,9 +303,9 @@ a) Secretaría General de Gobierno;
 
 b) Secretaría de Movilidad;
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-c) Fiscalía General;
+c) Fiscalía Estatal;
 
 d) (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014);
 
@@ -475,7 +473,7 @@ XV. Las demás que le asigne el Consejo Estatal o le confieran otros ordenamient
 
 El Secretario Ejecutivo deberá llevar a cabo la administración de los recursos que el Gobierno del Estado de Jalisco y la Federación aporten mediante los convenios de coordinación que en la materia se suscriban, así como verificar la ejecución y cumplimiento de los objetivos previstos en los mismos. En este caso, deberá integrarse una comisión en los términos del reglamento respectivo.
 
-## Título Cuarto. Disposiciones comunes a los integrantes de las instituciones de seguridad pública del Estado
+## Título Tercero. Del Programa Estatal de Seguridad Pública
 
 ### Capítulo Único
 
@@ -487,7 +485,7 @@ Corresponde a la Secretaría coordinar a las dependencias y corporaciones respec
 
 El programa deberá contener las bases de concertación entre los gobiernos estatal y sus dependencias, federal y municipales, así como con los órganos consultivos del Gobierno del Estado y la ciudadanía en general, con la finalidad de mejorar la función.
 
-## Título Quinto. Del desarrollo policial y del servicio profesional de carrera ministerial y pericial de las instituciones de seguridad pública
+## Título Cuarto. Disposiciones comunes a los integrantes de las instituciones de seguridad pública del Estado
 
 ### Capítulo I. Disposiciones generales
 
@@ -501,15 +499,17 @@ I. El Gobernador del Estado;
 
 II. El Secretario de Seguridad; y
 
-III. El Fiscal.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+III. El Fiscal Estatal.
 
 ###### Artículo 26.
 
 Los cuerpos de seguridad pública de Jalisco son:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-I. La Fiscalía General:
+I. La Fiscalía Estatal:
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2016)</small>
 
@@ -523,9 +523,9 @@ b) Los cuerpos operativos adscritos a la Fiscalía de Reinserción Social, con t
 
 c) Policía procesal, aquella adscrita a los tribunales de Enjuiciamiento Penal, para dar cumplimiento a lo establecido en el artículo 3, fracción XX de la presente Ley;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-II. Los cuerpos operativos de la Fiscalía General, con todas las unidades, divisiones y agrupamientos que prevean la ley orgánica de la institución, su reglamento y demás disposiciones aplicables;
+II. Los cuerpos operativos de la Fiscalía Estatal, con todas las unidades, divisiones y agrupamientos que prevean la ley orgánica de la institución, su reglamento y demás disposiciones aplicables;
 
 > <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
@@ -1135,7 +1135,7 @@ Los cursos de capacitación tendientes a fortalecer la cultura de la legalidad, 
 
 Artículo 68 Undecies. Los municipios podrán celebrar convenios con el Estado para que, a través de éste se brinde la capacitación referida en el presente capítulo.
 
-## Título Sexto. Del sistema disciplinario y responsabilidad administrativa
+## Título Quinto. Del desarrollo policial y del servicio profesional de carrera ministerial y pericial de las instituciones de seguridad pública
 
 ### Capítulo I. Disposiciones generales
 
@@ -1451,7 +1451,7 @@ El Centro y las unidades de control de confianza son los órganos encargados de 
 
 De conformidad con la coordinación que debe prevalecer entre el Estado y la Federación en la materia, el Centro Nacional de Certificación y Acreditación supervisará que los procedimientos de evaluación se desarrollen conforme a los lineamientos establecidos en esta ley y las demás disposiciones que de ellos deriven.
 
-## Título Séptimo. De la información sobre seguridad pública
+## Título Sexto. Del sistema disciplinario y responsabilidad administrativa
 
 ### Capítulo I. Generalidades
 
@@ -1983,9 +1983,7 @@ Si después de concluidas las causas de suspensión, el elemento no informa en e
 
 El elemento operativo deberá entregar su identificación, municiones, armamento, equipo y todo material que se le haya ministrado para el cumplimiento de sus funciones mientras se resuelve su situación jurídica.
 
-## Título Octavo. Del uso de la tecnología y redes de telecomunicación para la seguridad pública
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2018)</small>
+## Título Séptimo. De la información sobre seguridad pública
 
 ### Capítulo I. De la estadística de seguridad pública
 
@@ -2087,7 +2085,9 @@ La base estatal de datos se actualizará permanentemente y se integrará con la 
 
 Las personas encargadas de las instituciones antes señaladas deberán remitir dicha información al Centro Integral de Información sobre Seguridad Pública en los términos que éste establezca, atendiendo a los tiempos de procesamiento de la información para las dependencias encargadas del suministro de información.
 
-En el supuesto de no remitirla en los términos señalados se procederá de conformidad con la presente ley y, en su caso, la Ley de Responsabilidades de los Servidores Públicos del Estado, independientemente de la comisión de algún delito.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+En el supuesto de no remitirla en los términos señalados se procederá de conformidad con la presente ley y, en su caso, la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, independientemente de la comisión de algún delito.
 
 Dicha información únicamente se deberá dar de baja de esta base de datos a la brevedad posible, mediante resoluciones de libertad, por desvanecimiento de datos o falta de elementos para procesar, así como por sentencias absolutorias.
 
@@ -2135,9 +2135,9 @@ Cualquier interesado que estime falsa o errónea alguna información, podrá sol
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2018)</small>
 
-## Título Noveno. De la participación ciudadana en las instituciones de seguridad pública
+## Título Octavo. Del uso de la tecnología y redes de telecomunicación para la seguridad pública
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2018)</small>
 
 ### Capítulo I. Disposiciones generales
 
@@ -2707,7 +2707,7 @@ La interposición del recurso suspenderá la ejecución de las sanciones pecunia
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
-## Título Noveno (Sic). De los servicios de seguridad privada
+## Título Noveno. De la participación ciudadana en las instituciones de seguridad pública
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
@@ -2873,7 +2873,7 @@ La respectiva unidad de la Fiscalía General utilizará los métodos de investig
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
-## Título Décimo. De los delitos contra el funcionamiento del Sistema Estatal de Seguridad Pública
+## Título Noveno (Sic). De los servicios de seguridad privada
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
@@ -2995,11 +2995,11 @@ Si el responsable es o hubiere sido servidor público de las instituciones de se
 
 Las sanciones previstas en este capítulo se impondrán sin perjuicio de las penas que correspondan por otros delitos previstos en los ordenamientos penales federales, según corresponda.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 236.
 
-Se impondrán de dos a ocho años de prisión y multa de cien a seiscientos días de salario mínimo e inhabilitación por los años a los que haya sido condenado por pena de prisión, a quien actúe indebidamente de manera dolosa o con culpa en la aplicación de los procedimientos o lineamientos relativos a las evaluaciones de control de confianza.
+Se impondrán de dos a ocho años de prisión y multa de cien a seiscientas veces el valor diario de la Unidad de Medida y Actualización e inhabilitación por los años a los que haya sido condenado por pena de prisión, a quien actúe indebidamente de manera dolosa o con culpa en la aplicación de los procedimientos o lineamientos relativos a las evaluaciones de control de confianza.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
@@ -3312,5 +3312,11 @@ SEPTIMO. Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 27 DE JULIO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27313/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL Y LA FRACCIÓN II DEL ARTÍCULO 60 DE LA LEY DE ATENCIÓN A VÍCTIMAS, AMBAS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27737/LXII/19 QUE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
