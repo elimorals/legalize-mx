@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-obra-publica-para-el-estado-de-jalisco-y-sus-125988"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-30"
-last_updated: "2019-04-09"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE OBRA PÚBLICA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Número 42 Sección III del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2018.
 
@@ -85,31 +85,61 @@ VIII. Estimaciones: Documento que contiene la valuación de los trabajos ejecuta
 
 IX. Generadores de obra: Es el comprobante de los trabajos ejecutados, que se presenta en formato autorizado y con la documentación que soporta administrativamente el pago de estimaciones con croquis, fotografías y demás elementos que se requieran, suscrito por el residente y responsable de obra;
 
-X. Ley: Ley de Obra Pública del Estado de Jalisco y sus Municipios;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XI. Licitante: La persona que participe ofertando la realización de obra pública o servicios en cualquier procedimiento de licitación o invitación;
+X. Instituto: Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana que corresponda;
 
-XII. Obra Pública: Los trabajos de construcción, ya sea infraestructura o edificación, promovidos por la administración pública teniendo como objetivo el beneficio de la comunidad;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XIII. OIC: El Órgano Interno de Control del ente público que corresponda;
+XI. Ley: Ley de Obra Pública del Estado de Jalisco y sus Municipios;
 
-XIV. Proyecto ejecutivo: El Proyecto Ejecutivo es el conjunto de elementos que tipifican, describen y especifican detalladamente las obras de edificación, restauración, urbanas e infraestructura, en cualquiera de sus géneros, expresadas en planos, documentos y estudios técnicos necesarios para la ejecución de la obra, elaborados por un director responsable de proyecto, o varios con especialidad en la materia; que incluye además, memoria de cálculo, memoria descriptiva, catálogo de conceptos, presupuesto de obra, especificaciones de construcción, calendario de obra, así como los manuales de operación y mantenimiento;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XV. Reglamento: El Reglamento de la Ley de Obra Pública del Estado de Jalisco y sus Municipios;
+XII. Licitante: La persona que participe ofertando la realización de obra pública o servicios en cualquier procedimiento de licitación o invitación;
 
-XVI. Residente de obra; Servidor público designado por la Secretaría que funge como su representante ante el contratista y es responsable de la supervisión, vigilancia, control y revisión de los trabajos, incluyendo la aprobación de estimaciones presentadas por los contratistas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XVII. Responsable de obra: Profesionista designado por el contratista como responsable de la ejecución de la obra o la prestación del servicio, con facultades para oír y recibir toda clase de notificaciones, suscribir la bitácora y demás documentos relacionados con los trabajos y tomar las decisiones que se requieran en todo lo relativo al cumplimiento del contrato;
+XIII. Obra Pública: Los trabajos de construcción, ya sea infraestructura o edificación, promovidos por la administración pública teniendo como objetivo el beneficio de la comunidad;
 
-XVIII. RUPC: Registro Estatal Único de Proveedores y Contratistas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XIX. SECG: Sistema Electrónico de Compras Gubernamentales y Contratación de Obra Pública, conforme a la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios;
+XIV. OIC: El Órgano Interno de Control del ente público que corresponda;
 
-XX. Secretaría: La Secretaría de Infraestructura y Obra Pública del Estado de Jalisco;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XXI. Servicios relacionados con la obra pública: Son las acciones que tienen por objeto proporcionar la información o estudios necesarios previos a la realización de un proyecto ejecutivo y durante la obra. En este apartado se incluye la dirección o supervisión de obra; y
+XV. Proyecto ejecutivo: El Proyecto Ejecutivo es el conjunto de elementos que tipifican, describen y especifican detalladamente las obras de edificación, restauración, urbanas e infraestructura, en cualquiera de sus géneros, expresadas en planos, documentos y estudios técnicos necesarios para la ejecución de la obra, elaborados por un director responsable de proyecto, o varios con especialidad en la materia; que incluye además, memoria de cálculo, memoria descriptiva, catálogo de conceptos, presupuesto de obra, especificaciones de construcción, calendario de obra, así como los manuales de operación y mantenimiento;
 
-XXII. Testigo Social: La persona que participa con voz en los procedimientos de contratación de obra pública y servicios relacionados con la misma y que emite un testimonio final de conformidad con ésta; figura que es diversa al testigo social contemplado en la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XVI. Reglamento: El Reglamento de la Ley de Obra Pública del Estado de Jalisco y sus Municipios;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XVII. Residente de obra: Servidor público designado por la Secretaría que funge como su representante ante el contratista y es responsable de la supervisión, vigilancia, control y revisión de los trabajos, incluyendo la aprobación de estimaciones presentadas por los contratistas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XVIII. Responsable de obra: Profesionista designado por el contratista como responsable de la ejecución de la obra o la prestación del servicio, con facultades para oír y recibir toda clase de notificaciones, suscribir la bitácora y demás documentos relacionados con los trabajos y tomar las decisiones que se requieran en todo lo relativo al cumplimiento del contrato;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XIX. RUPC: Registro Estatal Único de Proveedores y Contratistas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XX. SECG: Sistema Electrónico de Compras Gubernamentales y Contratación de Obra Pública, conforme a la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XXI. Secretaría: La Secretaría de Infraestructura y Obra Pública del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XXII. Servicios relacionados con la obra pública: Son las acciones que tienen por objeto proporcionar la información o estudios necesarios previos a la realización de un proyecto ejecutivo y durante la obra. En este apartado se incluye la dirección o supervisión de obra; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XXIII. Testigo Social: La persona que participa con voz en los procedimientos de contratación de obra pública y servicios relacionados con la misma y que emite un testimonio final de conformidad con ésta; figura que es diversa al testigo social contemplado en la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios.
 
 2. Se considera obra pública, entre otros, los siguientes:
 
@@ -513,11 +543,15 @@ Servicios Relacionados - Contratación.
 
 Debido a lo especializado de los servicios relacionados con la obra pública estos deberán ser contratados por asignación directa hasta por el monto que determine la presente ley y su reglamento.
 
-### CAPÍTULO III. Banco de Proyectos del Estado de Jalisco
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO III. Banco de Proyectos
+
+> <small>(REFORMADO SU ACÁPITE, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 32.
 
-Banco de Proyectos.
+Banco de Proyectos del Estado de Jalisco.
 
 1. El Gobierno del Estado de Jalisco a través de la Secretaría de Planeación, Administración y Finanzas, creará una Plataforma Electrónica que funcionará como Banco de Proyectos, en la cual se registrarán todos los planes, programas, estudios obras y proyectos previamente a ejecutarse con el fin de concentrar la información en un mismo registro al que se tenga acceso en todo el Estado para garantizar que se cumplan los siguientes objetivos:
 
@@ -540,6 +574,14 @@ VIII. Incentivar la participación de expertos y de la sociedad en general en lo
 IX. Propiciar un esquema que favorezca la participación ciudadana en el que actores del sector público, privado y académico promuevan planes, programas, estudios, obras y proyectos que no hayan sido previstos por las autoridades.
 
 2. La Plataforma electrónica será pública y deberá contener los datos correspondientes a los planes, programas, estudios, obras y proyectos, permitiendo registrar el documento que describa la propuesta, los autores, modo de contratación, origen del recurso y demás datos que señale el Reglamento que para tal efecto se emita.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Artículo 32 bis. Banco de Proyectos Metropolitano.
+
+Los proyectos considerados de impacto metropolitano se remitirán al Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana que corresponda, quien a su vez será el responsable de integrar el Banco de Proyectos Metropolitano, así como de conocer de aquellos proyectos que pretendan generar un impacto en el Área Metropolitana.
+
+Los proyectos que no cumplan con las expectativas del Banco de Proyectos Metropolitano se remitirán al Banco de Proyectos del Estado de Jalisco.
 
 ###### Artículo 33.
 
@@ -3140,3 +3182,9 @@ SEXTO. Las reformas en materia de revocación de mandato entrarán en vigor una 
 Una vez entrando en vigor el mecanismo de revocación de mandato, su regulación se ajustará en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos.
 
 SÉPTIMO. El Consejo deberá expedir su reglamento interno dentro de los 90 días hábiles siguientes a su instalación.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27762/LXII/19 QUE REFORMA EL ARTÍCULO 2° ADICIONA EL ARTÍCULO 32 BIS AMBOS DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
