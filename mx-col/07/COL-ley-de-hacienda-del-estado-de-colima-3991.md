@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2019-11-02"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -199,27 +199,31 @@ III.- Presentar los avisos de cambio que se produzcan en los datos que debe cont
 
 IV.- Proporcionar a las Autoridades Fiscales, los datos e informes que le sean solicitados dentro del plazo que para ello se les fije.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-V.- Recibir las ordenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las Autoridades Fiscales de la Secretaría de Planeación y Finanzas, todos los informes y documentos que le soliciten para el desempeño de sus funciones; y
+V.- Permitir el ejercicio de facultades de comprobación de las autoridades fiscales de la Secretaria de Planeación y Finanzas para comprobar el correcto cumplimiento de sus obligaciones respecto de este impuesto, proporcionando para tal efecto toda la información impresa o digital y demás documentación que se le solicite para tal fin.; (sic) y
 
-VI.- Llevar los libros o registros y expedir la documentación comprobatoria, tanto de sus ingresos como del pago del impuesto, de conformidad con las disposiciones fiscales federales correspondientes.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+VI.- Llevar los libros o registros contables exigidos por las disposiciones fiscales y expedir la documentación comprobatoria, tanto de sus ingresos como del pago de este impuesto, de conformidad con las disposiciones fiscales correspondientes.
 
 ###### Artículo 18.
 
 Los retenedores del impuesto y, en general, quiénes hagan pagos a los contribuyentes del mismo, tienen la obligación de proporcionar los datos y documentos que les sean solicitados por las Autoridades Fiscales del Estado y recibir las visitas de inspección o permitir la practica de auditorías para verificar el pago correcto de este gravamen.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 19.
 
-La Secretaría de Planeación y Finanzas podrá estimar los ingresos de los sujetos de este impuesto, en los siguientes casos:
+La Secretaría de Planeación y Finanzas podrá estimar de manera presuntiva los ingresos de los sujetos de este impuesto, en los siguientes casos:
 
 I.- Cuando no presenten sus declaraciones, no lleven los libros o registros, no expidan la documentación comprobatoria a que están obligados; y
 
 II.- Cuando por los informes que se obtengan, se ponga de manifiesto la percepción de un promedio de ingresos superior, cuando menos en un diez por ciento, al declarado por el contribuyente.
 
-Para practicar las estimaciones a que se refiere este Artículo se tendrán en cuenta las actividades realizadas por el contribuyente, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Para practicar las estimaciones a que se refiere este ARTÍCULO se tendrán en cuenta las actividades realizadas por el contribuyente, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos, agenda o registro de citas profesionales para la prestación del servicio y otros datos que puedan utilizarse.
 
 ###### Artículo 20.
 
@@ -294,6 +298,10 @@ IV.- Las empresas dedicadas a la compraventa de vehículos usados, llevaran un r
 ###### Artículo 31.
 
 No causa este impuesto, la obtención de ingresos por la enajenación de vehículos por la que deba pagarse el Impuesto al Valor Agregado, de conformidad con la Ley respectiva.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+No se considera que existe transmisión de la propiedad tratándose del cambio de nombre o género del propietario del vehículo.
 
 ###### Artículo 32.
 
@@ -435,11 +443,13 @@ III.- Presentar los avisos de cambio que se produzcan en los datos que debe cont
 
 IV.- Proporcionar a las autoridades fiscales, los datos e informes relacionados con este impuesto, que les sean solicitados dentro del plazo que para ello se fije.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-V.- Recibir las órdenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las autoridades fiscales de la Secretaría de Planeación y Finanzas, todos los documentos e informes que les soliciten para comprobar el cumplimiento de las obligaciones fiscales.
+V.- Permitir el ejercicio de facultades de comprobación de las autoridades fiscales de la Secretaria de Planeación y Finanzas, para comprobar el correcto cumplimiento de sus obligaciones respecto de este impuesto, proporcionando para tal efecto toda la información impresa o digital y demás documentación que se le solicite para tal fin; y
 
-VI.- Llevar los libros o registros y expedir documentación comprobatoria de las operaciones gravadas, de conformidad con las disposiciones fiscales federales correspondientes.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+VI.- Llevar los libros o registros contables exigidos por las disposiciones fiscales y expedir la documentación comprobatoria, de las operaciones gravadas de conformidad con las disposiciones fiscales correspondientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
@@ -542,6 +552,14 @@ I.- Proporcionar al interesado constancia de retención del impuesto cuando así
 II.- Acumular la información de todos los establecimientos que operen en el territorio estatal, en la declaración que corresponda a su domicilio fiscal en el Estado de Colima; y
 
 III.- Manifestar ante la autoridad fiscal competente las reglas para la celebración de las actividades objeto de este impuesto antes de que inicie la distribución de los boletos o cualquier otro comprobante que permita participar en las mismas. En caso de que se hagan modificaciones a las citadas reglas, deberá dar aviso a más tardar 15 días antes de que se realicen dichas actividades.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+IV.- Permitir el ejercicio de facultades de comprobación de las autoridades fiscales de la Secretaria de Planeación y Finanzas, para comprobar el correcto cumplimiento de sus obligaciones respecto de este impuesto, proporcionando para tal efecto toda la información impresa o digital y demás documentación que se le solicite para tal fin; y
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+V.- Llevar los libros o registros contables y expedir la documentación comprobatoria, de las operaciones gravadas de conformidad con las disposiciones fiscales correspondientes.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -736,6 +754,10 @@ Viviendas residenciales 26.25
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 Artículo 41 S.- Los contribuyentes de este impuesto tendrán, además de las señaladas en el presente capítulo y en el Código Fiscal del Estado, la obligación de llevar los registros contables que permitan identificar el monto de las erogaciones gravadas y exentas, objeto del impuesto a que se refiere este capítulo, así como el importe del impuesto pagado por las mismas.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Asimismo los contribuyentes deberán de permitir el ejercicio de facultades de comprobación de las autoridades fiscales de la Secretaria de Planeación y Finanzas, para comprobar el correcto cumplimiento de sus obligaciones respecto de este impuesto, proporcionando para tal efecto toda la información impresa o digital y demás documentación que se les solicite para tal fin.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -1069,9 +1091,9 @@ El monto de las cuotas establecidas en este artículo se actualizarán con el fa
 
 Tratándose de motocicletas de más de diez años modelo (sic) anteriores al de aplicación de este capítulo, el impuesto se pagará a la tasa del 0%.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Artículo 41 Z BIS 6.- Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos, que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
+Artículo 41 Z BIS 6.- Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos, que además cuenten con motor de combustión interna como los híbridos o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
@@ -1345,9 +1367,13 @@ El servidor público que preste algún servicio, en contravención a lo dispuest
 
 Por los servicios prestados en la Dirección General de Gobierno se pagarán los derechos siguientes:
 
-Numero de días
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-de salario mínimo
+UNIDADES DE
+
+MEDIDA Y
+
+ACTUALIZACIÓN
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
@@ -1605,7 +1631,7 @@ ACTUALIZACIÓN
 
 I.- (DEROGADA, P.O. 5 DE ENERO DE 1999)
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 II.- Certificaciones y constancias, en general, así como certificaciones por consultas relacionadas con el control vehicular a otras entidades o agencias de vehículos 2.000
 
@@ -1627,6 +1653,8 @@ Por los conceptos a que se refiere esta fracción, las personas que acrediten se
 
 Los adultos en plenitud acreditarán ser de escasos recursos económicos, mediante constancia expedida por el Director del Instituto para la Atención de Adultos en Plenitud.
 
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IGUAL AL CONTENIDO DE LA FRACCIÓN VIII.]</small>
+
 > <small>(REFORMADA [N. DE E. ADICIONADA CON LOS INCISOS QUE LA INTEGRAN], P.O. 28 DE JULIO DE 2018)</small>
 
 V.- Por la expedición, modificación, refrendo y reposición del permiso otorgado a las personas físicas y morales para la apertura, instalación y funcionamiento de las llamadas casas de empeño, o cualquier otro nombre equivalente, a través de las cuales oferten al público la celebración de contratos de mutuo con interés y contratos de prenda:
@@ -1641,15 +1669,29 @@ d) Por la reposición del permiso 8.000
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
-V (SIC). Constancia de cumplimiento de obligaciones fiscales 0.000
+V (SIC).- Constancia de cumplimiento de obligaciones fiscales 0.000
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
-VI. Reimpresión del recibo oficial de pago 0.000
+VI.- Reimpresión del recibo oficial de pago 0.000
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
-VII. Reimpresión de la declaración de impuestos 0.000
+VII.- Reimpresión de la declaración de impuestos 0.000
+
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IGUAL AL CONTENIDO DE LA FRACCIÓN V.]</small>
+
+> <small>(REFORMADA CON SUS INCISOS [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+VIII.- Por la expedición, modificación, refrendo y reposición del permiso otorgado a las personas físicas y morales para la apertura, instalación y funcionamiento de las llamadas casas de empeño, o cualquier otro nombre equivalente, a través de las cuales oferten al público la celebración de contratos de mutuo con interés y contratos de prenda:
+
+a) Por la expedición del permiso 122.000
+
+b) Por la modificación del permiso 15.000
+
+c) Por el refrendo del permiso 122.000
+
+d) Por la reposición del permiso 8.000
 
 ###### Artículo 54.
 
@@ -1877,9 +1919,13 @@ b) Por dotación de placas y tarjeta de circulación de vehículos de servicio p
 
 c) Por dotación de placas y tarjeta de circulación de vehículos de servicio privado para motocicleta 10.000
 
-d) Por dotación de placas y tarjeta de circulación de vehículos de servicio privado para vehículos de demostración 17.000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-e) Por dotación de placas y tarjeta de circulación de vehículos de servicio privado para motocicletas de demostración 15.000
+d) Por dotación de placas y tarjeta de circulación de vehículos de servicio privado para vehículos de demostración 24.000
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+e) Por dotación de placas y tarjeta de circulación de vehículos de servicio privado para motocicletas de demostración 20.000
 
 f) Por dotación de placas y tarjeta de circulación de vehículos de servicio público:
 
@@ -1923,7 +1969,9 @@ l) Por reposición de placas y tarjeta de circulación por canje:
 
 Por los conceptos consignados en los incisos a), b), c), d), e) y h), las personas que acrediten ser jubiladas o pensionadas por una institución pública, discapacitados acreditados por una institución de salud pública y adultos mayores, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, únicamente respecto a un sólo vehículo del que acredite ser propietario y que éste sea de uso particular.
 
-VIII (SIC). Por reposición de placas de circulación, por robo, extravío o deterioro:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+VII. Por reposición de las placas de circulación por robo, extravío o deterioro:
 
 a) Vehículos de servicio particular, incluyendo tarjeta de circulación 10.000
 
@@ -1941,17 +1989,27 @@ VIII. Por la expedición de permisos provisionales y de traslado:
 
 a) Permisos Provisionales:
 
-1.- Primer permiso de 30 días 6.000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-2.- Segundo permiso de 30 días 6.000
+1.- Primer permiso de 30 días 3.500
 
-3.- Tercero permiso de 30 días 12.000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+2.- Segundo permiso de 30 días 3.500
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+3.- Tercero permiso de 30 días 4.500
 
 b) Permiso de Traslado:
 
-1.- Por diez días 4.000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-2.- Por día adicional, máximo 3 días 2.000
+1.- Por diez días 2.000
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+2.- Por día adicional, máximo 3 días 0.500
 
 IX. Certificaciones y constancias 2.000
 
@@ -2023,7 +2081,17 @@ ACTUALIZACIÓN
 
 I.- Verificación de congruencia de los dictámenes de vocación del suelo:
 
-a).- Para el aprovechamiento urbano del suelo que implique la transformación del terreno rústico en urbanizado 20.000
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+a) Para el aprovechamiento urbano del suelo que implique la transformación del terreno rústico en urbanizado u obras de renovación urbana. Sobre el total de la superficie a aprovechar:
+
+1.- Hasta 2.00 Has 20.000
+
+2.- De 2.01 Has a 5.00 Has 60.000
+
+3.- De 5.01 Has a 10.00 Has 120.000
+
+4.- De más de 10.00 Has 240.000
 
 > <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 18 DE DICIEMBRE DE 2018)</small>
 
@@ -2057,7 +2125,9 @@ más, por cada lote producto de la subdivisión 7.500
 
 más, por cada lote producto de la subdivisión 4.500
 
-8.- Habitacional unifamiliar, densidad media, clave H3-H 4.000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+8.- Habitacional unifamiliar, densidad media, clave H3-U 4.000
 
 más, por cada lote producto de la subdivisión 2.000
 
@@ -2243,7 +2313,9 @@ más, por cada lote producto de la relotificación 5.000
 
 más, por cada lote producto de la relotificación 3.000
 
-8. Habitacional unifamiliar, densidad media, clave H3-H 35.000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+8. Habitacional unifamiliar, densidad media, clave H3-U 35.000
 
 más, por cada lote producto de la relotificación 2.000
 
@@ -2267,11 +2339,9 @@ más, por cada lote producto de la relotificación 1.500
 
 más, por cada lote producto de la relotificación 3.000
 
-14. Habitacional plurifamiliar Horizontal Campestre 7.000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Comunitario
-
-más, por cada lote producto de la subdivisión 3.500
+14. Corredor urbano mixto intensidad media, clave MD-2 45.000
 
 más, por cada lote producto de la relotificación 2.500
 
@@ -2283,19 +2353,21 @@ más, por cada lote producto de la relotificación 1.500
 
 más, por cada lote producto de la relotificación 1.500
 
-17. Habitacional plurifamiliar Horizontal Campestre 7.000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Comunitario
-
-más, por cada lote producto de la subdivisión 3.500
-
-18. Mixto central intensidad baja, clave MC-1 80.000
+17. Mixto central intensidad baja, clave MC-1 80.000
 
 más, por cada lote producto de la relotificación 4.000
 
-19. Mixto central intensidad media, clave MC-2 70.000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Mixto central intensidad alta, clave MC-3 60.000
+18. Mixto central intensidad media, clave MC-2 70.000
+
+más, por cada lote producto de la relotificación 3.500
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+19. Mixto central intensidad alta, clave MC-3 60.000
 
 más, por cada lote producto de la relotificación 3.000
 
@@ -2407,15 +2479,11 @@ más, por cada lote producto de la relotificación 4.000
 
 e) Para modificación, demolición o ampliación de inmuebles del Patrimonio Urbano Arquitectónico 10.000
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-f) De equipamiento e infraestructura primaria de los centros de población:
+f) De equipamiento urbano e infraestructura básica
 
-1. Alta 10.000
-
-2. Media 20.000
-
-3. Baja 30.000
+de los centros de población 20.000
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
@@ -2423,7 +2491,9 @@ g) Hospitales y Centros Médicos 20.000
 
 h) Centrales camioneras de carga y de abastos 30.000
 
-i) Industrias medianas y grandes 10.000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+i) Industrial 30.000
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
@@ -2433,11 +2503,15 @@ j) Edificios Multifamiliares, cuando superen las 20 unidades 10.000
 
 clave H2-H y/o H2-V 9.000
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 más, por cada unidad de aprovechamiento 4.500
 
 2.- Habitacional plurifamiliar horizontal y/o vertical 4.000
 
 densidad media, clave H3-H y/o H4-V
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 más, por cada unidad de aprovechamiento 2.000
 
@@ -2445,17 +2519,93 @@ más, por cada unidad de aprovechamiento 2.000
 
 densidad alta, clave H4-H y/o H4-V
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 más, por cada unidad de aprovechamiento 1.000
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-k) Proyectos de hotelería cuando superan las 30 habitaciones 25.000
+k) Edificación de proyectos de hotelería
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+cuando superan las 30 unidades de alojamiento 25.000
 
-En el caso de regularización de subdivisiones, la cuota a pagar será la que resulte de aplicar el factor del 1.50 a la que corresponda de acuerdo con la clasificación de este inciso.
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-II.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1994)(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1999)
+1.- Más, por cada unidad de alojamiento de
+
+Turístico-hotelero densidad mínima, clave TH-1 6.000
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+2.- Más, por cada unidad de alojamiento de
+
+Turístico-hotelero densidad baja, clave TH-2 4.500
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+3.- Más, por cada unidad de alojamiento de
+
+Turístico-hotelero densidad media, clave TH-3 2.000
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+4.- Más, por cada unidad de alojamiento de
+
+Turístico-hotelero densidad alta, clave TH-4 1.000
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+l) Gasolineras, gaserías y estaciones de servicios especiales 30.000
+
+> <small>(REFORMADA CON SUS NUMERALES [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+II.- Otorgamiento de permisos
+
+a) Por los servicios relacionados con el otorgamiento de permisos para la construcción de obras dentro del derecho de vía de los caminos y puentes de jurisdicción estatal, se pagarán derechos conforme a las siguientes cuotas:
+
+1.- Por la revisión del estudio técnico de planos,
+
+proyectos y memorias de obra y expedición de la
+
+autorización para la construcción de obras e
+
+instalaciones marginales que se realicen dentro
+
+de los derechos de vía de carreteras, puentes,
+
+por kilómetro o fracción 1568.16
+
+2.- Por la revisión de estudios técnicos de planos,
+
+proyectos y memorias de obra y expedición de la
+
+autorización para construcción de obras por
+
+cruzamientos superficiales, subterráneos o aéreos
+
+que atraviesen carreteras y puentes de jurisdicción estatal 2623.63
+
+3.- Por la autorización para la construcción de
+
+accesos que afecten el derecho de vía de una carretera,
+
+incluyendo la supervisión de la obra 14%
+
+sobre el
+
+costo
+
+de la misma
+
+4.-Por la revisión del estudio técnico del proyecto,
+
+supervisión y autorización de obras para paradores 1%
+
+sobre el
+
+costo de
+
+la obra
 
 III.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1994)(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1999)
 
@@ -3151,7 +3301,9 @@ III.- Por la expedición de certificado de no antecedentes penales:
 
 a).- En las oficinas de la dependencia 1.000
 
-b).- En los Kioscos de Servicios e información 0.830
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+b).- En los Kioscos de Servicios e información 1.000
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
@@ -4061,6 +4213,26 @@ inmueble objeto de la adquisición se destine a su enajenación o a
 
 la construcción con fines habitacionales.
 
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+I BIS.- Por examen de cualquier documento
+
+público o privado presentado ante el instituto para
+
+su inscripción se cobrará por una sola vez 2.000
+
+La Secretaría de Planeación y Finanzas enviará de
+
+manera trimestral los ingresos generados por dicho
+
+concepto y será destinado al Fondo para la Modernización
+
+del Instituto para el Registro del Territorio del Estado de
+
+Colima, siendo el Consejo Directivo del Instituto, quien
+
+determine los conceptos en que deberá destinarse.
+
 II.- Por la inscripción de contratos de fideicomiso de cualquier tipo,
 
 sobre el valor de los bienes fideicomitidos que resulte mayor entre
@@ -4563,6 +4735,8 @@ b1).- Expedición de certificados de existencia o inexistencia de
 
 gravámenes en los Kioscos de Servicios Electrónicos:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 1.- Si el predio no tiene gravámenes. 3.500
 
 2.- Si el predio tiene gravámenes. 5.110
@@ -4597,17 +4771,41 @@ XXXII.- Expedición de reimpresión de solicitud de trámite
 
 y/o recibo de pago 2.500
 
-> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XXXIII.- Servicio de notificación vía mensaje de texto a celular o aplicación de software o correo electrónico al titular del derecho registral, por cualquier movimiento que se realice en el folio.
+XXXIII.- Servicio de notificación vía mensaje de texto
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+a celular o aplicación de software o correo electrónico
 
-a) Por ejercicio fiscal y por cada folio 1.500
+por cualquier movimiento que se realice en el folio
 
-b).- Modificaciones a los datos del usuario
+al propietario del inmueble o al titular del derecho
 
-del servicio 1.000
+registral del crédito, gravamen o anotación,
+
+previo (sic) acreditación del interés jurídico 1.500
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XXXIV.- Cuando se trate de solicitudes de inscripción
+
+de documentos públicos promovidas por los
+
+Notarios Públicos y en el mismo trámite se solicite
+
+éste servicio bajo el "FORMATO DE SOLICITUD
+
+DEL SERVICIO DE ALERTA PATRIMONIAL", tendrá
+
+vigencia únicamente por el año fiscal en el que se
+
+haya registrado, quedando a salvo el derecho de
+
+renovarse por quien acredite el interés jurídico en los
+
+años subsecuentes, haciendo el pago de los
+
+derechos correspondientes 0.000
 
 > <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
@@ -5295,6 +5493,16 @@ b) Por cada día subsecuente de
 
 publicación 0.200
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+V.- Cuota de recuperación por día:
+
+a) Por el uso del auditorio externo 11.840
+
+b) Por el uso del auditorio interno 9.480
+
+c) Por el uso de sala adjunta del auditorio externo 5.920
+
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO UNICO. Del Derecho por la Extracción de Materiales
@@ -5401,9 +5609,13 @@ a) Los contratistas que celebren contratos de obra pública o de servicios relac
 
 Los recursos que se recauden por la celebración de contratos de obra pública o de servicios relacionados con la misma, con organismos públicos descentralizados, serán destinados a los propios organismos para la operación, conservación, mantenimiento e inversión necesarios para la prestación de los servicios a que se refiere esta fracción.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-III.- Información diversa no certificada expedida en los Kioscos de servicios e información de gobierno, por cada hoja.
+III.- Información diversa no certificada
+
+expedida en los Kioscos de servicios e información
+
+de gobierno, por cada hoja 0.024
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
@@ -5505,7 +5717,9 @@ V.-Incentivos por colaboración administrativa en materia fiscal con la federaci
 
 VI.- Aportaciones de terceros para obras y servicios públicos a cargo del Estado, para obras de beneficio social.
 
-VII.- Los contratistas y destajistas que realicen obras para el Gobierno del Estado, aportarán el 1 % sobre el pago de cada una, para obras de beneficio social.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+VII.- La aportación del 1% sobre el pago de cada obra de beneficio social que realicen los contratistas y destajistas que lleven a cabo para el Gobierno del Estado.
 
 VIII.- Cauciones cuyas pérdidas se declaren por resolución firme a favor del Estado.
 
@@ -5573,11 +5787,11 @@ El C. Gobernador Constitucional del Estado, solicitará al Congreso del Estado l
 
 Para los efectos del Título Segundo, se entenderá por "unidad de medida y actualización", el valor diario de la de la unidad de medida y actualización, en la fecha de pago del derecho de que se trate.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-###### Articulo 76.
+###### Artículo 76.
 
-Los gastos de ejecución y los honorarios por notificación que se recauden, se destinarán en un 50% a cubrir las erogaciones que se realicen para requerir el cumplimiento de las obligaciones fiscales así como para recuperar los créditos fiscales exigibles, por concepto de consumibles, arrendamiento de bodegas para el almacenamiento de bienes muebles embargados y honorarios que deban pagarse a los notificadores y ejecutores que lleven a cabo las diligencias respectivas. El 50% restante se distribuirá entre el personal de la Secretaría de Planeación y Finanzas que directa o indirectamente haya intervenido en el cobro, notificación de las obligaciones o ejecución de los créditos fiscales, de conformidad con lo que determine el Reglamento respectivo.
+Los gastos de ejecución y los honorarios por notificación que se recauden, se destinarán en un 50% a cubrir las erogaciones que se realicen para requerir el cumplimiento de las obligaciones fiscales así como para recuperar los créditos fiscales exigibles, por concepto de consumibles, arrendamiento de bodegas para el almacenamiento de bienes muebles embargados y honorarios que deban pagarse a los notificadores y ejecutores que lleven a cabo las diligencias respectivas. El 50% restante se destinará a un fondo especial para el fortalecimiento tecnológico, para capacitación del personal y actualizaciones que por ejercicio de las atribuciones y funciones que requiera la Dirección General de Ingresos, de la Secretaría de Planeación y Finanzas.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
@@ -5585,9 +5799,7 @@ Los gastos de ejecución y los honorarios por notificación que se recauden, se 
 
 Para determinar las contribuciones y demás conceptos de ingreso que se establecen en esta Ley, se considerarán inclusive, las fracciones del peso; no obstante, para efectuar su pago, el monto se ajustará a la unidad de peso mas próxima.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
-
-En los derechos que se causan por los servicios prestados en los Kioscos de Servicios y Trámites Electrónicos, el monto que se pague en efectivo, se ajustará a la decena de pesos inmediata inferior.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -6378,3 +6590,13 @@ P.O. 2 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 148 POR EL QUE SE REFORMAN CON LA FINALIDAD DE ARMONIZAR EL TÉRMINO DE ADULTO MAYOR EN SUSTITUCIÓN DEL TÉRMINO ADULTO EN PLENITUD EN LA LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COLIMA, LEY DE HACIENDA PARA EL ESTADO DE COLIMA, LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, LEY ESTATAL DE OBRAS PÚBLICAS, LEY DE PARTICIPACIÓN CIUDADADANA DEL ESTADO DE COLIMA, LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA Y LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 211 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día 1º de enero de 2020, previa su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Respecto del Fondo que se crea con motivo de la adición del numeral I BIS, del artículo 62 BIS 1, de la Ley de Hacienda para el Estado de Colima, el Poder Ejecutivo de la Entidad deberá informar al H. Congreso del Estado de Colima por conducto de la Comisión de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos, durante el mes inmediato posterior al envío de manera trimestral de los ingresos generados y destinados al Fondo para la Modernización del Instituto para el Registro del Territorio del Estado de Colima, los montos correspondientes a esa transferencia.
+
+TERCERO.- Respecto del Fondo que se crea con motivo de la reforma al numeral 76, de la Ley de Hacienda para el Estado de Colima, el Poder Ejecutivo de la Entidad deberá informar al H. Congreso del Estado de Colima por conducto de la Comisión de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos, durante los meses de febrero y agosto de cada ejercicio fiscal, los importes equivalente (sic) al 50% que se destinará al fondo especial para el fortalecimiento tecnológico, para capacitación del personal y actualizaciones que por ejercicio de las atribuciones y funciones que requiera la Dirección General de Ingresos, de la Secretaría de Planeación y Finanzas.
