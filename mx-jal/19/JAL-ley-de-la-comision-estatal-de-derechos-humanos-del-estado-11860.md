@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-11860
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2019-10-12"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -221,9 +221,9 @@ d) Los recintos de detención, oficinas del Ministerio Público, reclusorios y s
 
 XXIV. Formular programas y proponer acciones, en coordinación con las dependencias competentes, para impulsar el cumplimiento de los tratados, convenciones y acuerdos internacionales signados y ratificados por México en materia de derechos humanos y, en su caso, promover el levantamiento de las reservas que el Ejecutivo federal haya establecido sobre los mismos. Para ello, elaborará y actualizará de manera constante, una recopilación de dichos documentos, que deberá ser divulgada de manera amplia entre la población; y
 
-> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XXV. Formular recomendaciones públicas, autónomas, no vinculatorias, así como denuncias y quejas ante las autoridades respectivas, demostrada la existencia de violaciones a los derechos humanos, cuando no se hubiere logrado conciliación, haya sido parcial o no se haya cumplido ésta, seguido que sea el procedimiento hasta su culminación;
+XXV. Formular recomendaciones públicas, autónomas, no vinculatorias, así como denuncias y quejas ante las autoridades respectivas, demostrada la existencia de violaciones a los derechos humanos, cuando no proceda o no se hubiese logrado conciliación, haya sido parcial o no se haya cumplido ésta, seguido que sea el procedimiento hasta su culminación;
 
 > <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
@@ -969,15 +969,21 @@ Del Procedimiento.
 
 Generalidades.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 47.
 
-El procedimiento que se siga ante la Comisión deberá ser breve, sencillo y gratuito; sólo estará sujeto a las mínimas formalidades que se requieran en la investigación de los hechos buscando siempre la conciliación. Se tramitará además, de acuerdo con los principios de inmediatez, concentración y rapidez, procurando el contacto directo con quejosos y autoridades, para evitar la dilación de las comunicaciones escritas.
+El procedimiento que se siga ante la Comisión deberá ser breve, sencillo y gratuito; solo estará sujeto a las mínimas formalidades que se requieran en la investigación de los hechos buscando la conciliación, siempre que no se trate de violaciones graves a los derechos humanos, definidas en el artículo 68 de la presente ley, o que afecten intereses de terceros. Se tramitará además, de acuerdo con los principios de inmediatez, concentración y rapidez, procurando el contacto directo con quejosos y autoridades, para evitar la dilación de las comunicaciones escritas.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 El principio de concentración abarcará no solo la acumulación del trámite de los expedientes de queja, sino también, a través de su resolución, violaciones reiteradas por parte de los servidores públicos de las diversas instituciones de gobierno que hacen probable la existencia de violaciones a los derechos humanos.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
 El principio de concentración se aplicará también cuando los patrones definidos de transgresión se deriven de la actuación de servidores públicos que pertenezcan a una misma dependencia.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 Sin perjuicio de analizar cada caso particular y recomendar sanciones individuales, la Comisión revisará los patrones de violación a los derechos humanos imputables a autoridades y servidores públicos cuando acumule quejas bajo este principio.
 
@@ -1534,3 +1540,9 @@ P.O. 12 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27364/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 20, 21, 27, 28, 84 Y 85 DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO”.]
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27782/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 7 Y 47 DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
