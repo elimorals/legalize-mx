@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-los-derechos-y-defensa-del-contribuyente-del-estado-1187
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2018-12-31"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DE LOS DERECHOS Y DEFENSA DEL CONTRIBUYENTE DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -489,15 +489,29 @@ Cuando los quejosos o reclamantes no puedan identificar a las autoridades o serv
 
 Si de la presentación de la queja o reclamación no se deducen los elementos que permitan la intervención de la Comisión Estatal de la Defensa del Contribuyente, ésta dentro del término de tres días siguientes a su presentación, requerirá al quejoso o reclamante, para que haga la aclaración respectiva, con el apercibimiento de que si en el término de tres días contados a partir del día siguiente a que surta efectos su notificación, no subsana la omisión requerida, se tendrá por no presentada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 41.
 
-En caso de ser procedente o habiéndose cumplido los requisitos omitidos, se emitirá auto de admisión dentro de los tres días siguientes a la presentación de la queja o reclamación; en dicho acuerdo se requerirá a las autoridades señaladas como responsables para que en el término de tres días hábiles siguientes al que surta efectos su notificación, rindan un informe sobre los actos que se les atribuyan en la queja o reclamación.
+En caso de ser procedente o habiéndose cumplido los requisitos omitidos, se emitirá auto de admisión dentro de los tres días siguientes a la presentación de la queja o reclamación; en dicho acuerdo se requerirá a las autoridades señaladas como responsables para que en el término de cinco días hábiles siguientes al que surta efectos su notificación, rindan un informe sobre los actos que se les atribuyan en la queja o reclamación.
 
 En casos urgentes y para la mejor eficacia de la notificación, el Comisionado podrá ordenar que ésta se realice a las autoridades responsables por la vía electrónica.
 
 En el informe que rindan las autoridades, se deberán hacer constar los antecedentes del asunto, los fundamentos y motivaciones de los actos reclamados, si efectivamente éstos existieron, debiendo acompañar copia certificada de las constancias que sean necesarias para apoyar dicho informe. El interesado deberá cubrir previamente el pago de los derechos respectivos por la expedición de tales copias certificadas.
 
 Las resoluciones deben ser notificadas a más tardar dentro del día siguiente al que se hubiesen pronunciado, y se asentará la razón que corresponda inmediatamente después de dicha resolución.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Las autoridades fiscales sujetas al procedimiento de queja, podrán en todo momento hasta antes de su terminación, realizar propuestas de solución, a efecto de restablecer en el ejercicio de sus derechos a los contribuyentes afectados por sus actos u omisiones.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Una vez realizada la propuesta por la autoridad fiscal, se dará vista al contribuyente para que, dentro de los tres días hábiles siguientes a su notificación, manifieste si acepta o no la propuesta de la autoridad fiscal.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Si el contribuyente acepta la propuesta realizada, se informará a la autoridad fiscal responsable, para que, en el término de cinco días hábiles, acredite que dio cumplimiento a la propuesta planteada, para posteriormente proceder al cierre del procedimiento de queja; en caso contrario, se dará curso a la investigación hasta su total terminación.
 
 ###### Artículo 42.
 
@@ -664,3 +678,49 @@ PRIMERO. Publíquese en el Periódico Oficial Órgano del Gobierno del Estado Li
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente en que haya surtido todos sus efectos en el Estado la declaración de invalidez decretada mediante la Acción de Inconstitucionalidad 12/2018 emitida por la Suprema Corte de Justicia de la Nación.
 
 TERCERO. Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente decreto.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 302.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES FISCALES Y HACENDARIAS DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veinte, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos de la obligación establecida en la Sección VIII, Capítulo Segundo del Título Segundo y la Sección III Bis, Capítulo Segundo del Título Tercero del Código Fiscal del Estado de Zacatecas y sus Municipios, la Secretaría de Finanzas deberá emitir para su debida publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas, a más tardar el 31 de marzo de 2020, las reglas de carácter general relativas al cumplimiento, presentación y facultades de comprobación del dictamen fiscal.
+
+###### ARTÍCULO TERCERO.
+
+Para efectos del artículo 101-Bis del Código Fiscal del Estado de Zacatecas y sus Municipios, no serán sujetos de la obligación de presentar el dictamen del cumplimiento de sus obligaciones fiscales, aquellas personas físicas, morales o unidades económicas que hayan celebrado un acuerdo anticipado de pago a que se refiere el artículo 158-Bis, respecto de los ejercicios convenidos.
+
+###### ARTÍCULO CUARTO.
+
+Las personas físicas, morales o unidades económicas, que se encuentren en los supuestos establecidos en los artículos 101-Bis y 101-Ter, del Código Fiscal del Estado de Zacatecas y sus Municipios, tendrán la opción de presentar el dictamen correspondiente al ejercicio fiscal 2019, con base en los plazos siguientes:
+
+I. Presentar aviso a través de los medios y formas que establezca la Secretaría, mediante las reglas de carácter general, a más tardar el último día del mes de mayo.
+
+II. El dictamen a que se refiere el artículo 101 Bis de este Código y la documentación que se señala en el artículo 101 Nonies del mismo, se deberá presentar a través de los medios y formas que establezca la Secretaría, mediante reglas de carácter general, a más tardar el día 30 del mes de septiembre del ejercicio siguiente al cierre del periodo a dictaminar, por los contribuyentes obligados a dictaminar y aquellos que hayan optado por dictaminar el cumplimiento de sus obligaciones.
+
+###### ARTÍCULO QUINTO.
+
+Dentro de los 90 días siguientes a la publicación del presente Decreto, la Secretaría de Finanzas del Gobierno del Estado de Zacatecas, modificará su Reglamento Interior para adecuarlo a la presente reforma.
+
+###### ARTÍCULO SEXTO.
+
+La inscripción de los contadores públicos que realicen dictamen fiscal, deberá hacerse a más tardar el 30 de abril de 2020 y los ejercicios subsecuentes a más tardar el 28 de febrero de cada año, cuyo procedimiento se regirá en lo establecido en el artículo segundo de estas disposiciones transitorias.
+
+###### ARTÍCULO SÉPTIMO.
+
+Para los efectos de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios, el Titular del Poder Ejecutivo llevará a cabo acciones para generar ahorros y economías, durante el ejercicio fiscal 2020, respecto del gasto corriente y estructuras, que no esté relacionado con programas de atención a la población.
+
+Los Poderes Legislativo y Judicial, así como los organismos autónomos, deberán adoptar acciones que les permitan obtener economías en los mismos términos del párrafo anterior, en el ámbito de sus respectivas competencias.
+
+Dichas (sic) ahorros y economías en ningún momento serán en detrimento de la calidad en el desempeño de la función y administración pública.
+
+El resultado de la aplicación de las acciones descritas en el presente artículo deberá reportarse en los informes trimestrales.
+
+###### ARTÍCULO OCTAVO.
+
+Derivado de la reforma a los artículos 2 y 34 de la Ley de Coordinación y Colaboración Financiera para el Estado de Zacatecas y sus Municipios, los municipios que en el ejercicio fiscal 2020 pudiesen observar un crecimiento menor, derivado de la reforma a la fórmula para determinar y distribuir sus participaciones, tendrán garantizado que su participación no sea menor a la que obtuvieron en el ejercicio fiscal 2019, las cuales podrán cubrirse, en su caso, a través del Fondo de Estabilización de los Ingresos de las Entidades Federativas, en los términos establecidos en las leyes de la materia.
