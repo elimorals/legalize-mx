@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-disciplina-financiera-y-responsabilidad-hacendaria-11878
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2018-12-31"
+last_updated: "2019-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -85,7 +85,9 @@ V. CONAC: Consejo Nacional de Armonización Contable;
 
 VI. Criterios Generales de Política Económica: el documento enviado por el Ejecutivo Federal al Congreso de la Unión, en los términos del artículo 42, fracción III, inciso a), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el cual sirve de base para la elaboración de la Ley de Ingresos y el Presupuesto de Egresos de la Federación;
 
-VII. Dependencias: las Secretarías de la Administración Pública Centralizada del Poder Ejecutivo del Estado, incluyendo a sus órganos desconcentrados;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+VII. Dependencias: las Secretarías y Coordinaciones de la Administración Pública Centralizada del Poder Ejecutivo del Estado, incluyendo a sus órganos desconcentrados;
 
 VIII. Disciplina financiera: la observancia de los principios y las disposiciones en materia de responsabilidad hacendaria y financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de obligaciones por los Entes Públicos, que aseguren una gestión responsable y sostenible de sus finanzas públicas, generando condiciones favorables para el crecimiento económico y el empleo, y la estabilidad del sistema financiero;
 
@@ -93,7 +95,17 @@ VIII. Disciplina financiera: la observancia de los principios y las disposicione
 
 VIII. Bis. Disponibilidades: los recursos provenientes de los ingresos que durante los ejercicios fiscales anteriores no fueron pagados ni devengados para algún rubro del gasto presupuestado, excluyendo a las Transferencias federales etiquetadas;
 
-IX. Entes Públicos: los Poderes Ejecutivo, Legislativo y Judicial, los órganos autónomos del Estado; los Municipios; los Organismos Descentralizados, empresas de participación estatal mayoritaria y fideicomisos del Estado y los Municipios, así como cualquier otro ente sobre el que el Estado y los Municipios tengan control sobre sus decisiones o acciones;
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+VIII. Ter. Economías: los remanentes de recursos no devengados del presupuesto modificado;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+IX. Entes Públicos: los Poderes Ejecutivo, Legislativo y Judicial, los organismos autónomos del Estado; los Municipios; las entidades de la administración pública paraestatal, paramunicipal e intermunicipal; empresas de participación estatal o municipal mayoritarias, fideicomisos del Estado y los Municipios, así como cualquier otro ente sobre el que el Estado y los Municipios tengan control sobre sus decisiones o acciones;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+IX. Bis. Entidades: son las que integran la Administración Pública Paraestatal, se conforman de Organismos Públicos Descentralizados, Empresas de Participación Estatal Mayoritaria y Fideicomisos Públicos;
 
 X. Ejecutores del gasto: son los Entes Públicos que tengan control sobre sus decisiones o acciones, que realizan las erogaciones reguladas en esta Ley, con cargo al Presupuesto de Egresos;
 
@@ -133,6 +145,10 @@ XXIV. Obligaciones: los compromisos de pago a cargo de los Entes Públicos deriv
 
 XXV. Obligaciones a corto plazo: cualquier Obligación contratada con Instituciones financieras a un plazo menor o igual a un año;
 
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XXV. Bis. Órgano Hacendario: denominación otorgada a la Secretaría de Finanzas derivada de la atribución de recaudar, registrar, administrar y, en su caso, transferir los recursos que correspondan al Estado;
+
 XXVI. Percepciones extraordinarias: los estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de compromisos de resultados sujetos a evaluación; así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de las disposiciones aplicables;
 
 XXVII. Percepciones ordinarias: los pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular como contraprestación por el desempeño de sus labores cotidianas en los Entes Públicos, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado para el ejercicio fiscal;
@@ -144,6 +160,10 @@ XXIX. Racionalidad: principio basado en la razón y la congruencia en el uso y d
 XXX. Responsabilidad hacendaria: es la observancia de los principios y las disposiciones de esta Ley, la Ley de Ingresos, el Presupuesto de Egreso (sic) y los ordenamientos jurídicos aplicables que procuren el equilibrio presupuestario, la disciplina fiscal y el cumplimiento de las metas aprobadas por la Legislatura del Estado;
 
 XXXI. Secretaría: la Secretaría de Finanzas del Poder Ejecutivo, y
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XXXI. Bis. Subejercicio del gasto: las disponibilidades presupuestarias que resultan, con base en el calendario de presupuesto, sin cumplir las metas contenidas en los programas o sin contar con el compromiso formal de su ejecución, y
 
 XXXII. Transferencias federales etiquetadas: los recursos que reciben de la Federación el Estado y los Municipios, que están destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, la cuota social y la aportación solidaria federal previstas en el Título Tercero Bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recursos con destino específico que se otorguen en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Presupuesto de Egresos de la Federación.
 
@@ -331,81 +351,135 @@ Facultad de la Secretaría para formular proyectos de presupuesto.
 
 La Secretaría está facultada para formular el Proyecto de Presupuesto de Egresos de las entidades y dependencias del Poder Ejecutivo cuando éstas no los presentaran en el plazo que establece esa Ley, o en los casos en que habiendo presentado no se apeguen a las disposiciones legales emitidas para tal efecto. En el caso de los demás Entes Públicos, les asignará el presupuesto aprobado para el ejercicio fiscal inmediato anterior. La omisión señalada en este artículo será informada a la Secretaría de la Función Pública o al órgano interno de control del Ente Público incumplido, para los efectos de responsabilidad administrativa de los servidores públicos.
 
-Impacto presupuestario.
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+Obligaciones en materia de impacto presupuestario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 18.
 
-El Ejecutivo del Estado, por conducto de la Secretaría, realizará una estimación del impacto presupuestario de las iniciativas de leyes o decretos que se presenten a la consideración de la Legislatura del Estado. Asimismo, realizará estimaciones sobre el impacto presupuestario de las disposiciones administrativas que emita el Ejecutivo y además impliquen costos para su implementación.
+El Ejecutivo del Estado, por conducto de la Secretaría, realizará un dictamen de estimación de impacto presupuestario de las iniciativas de leyes o decretos que presente a la consideración de la Legislatura del Estado. Asimismo, realizará estimaciones sobre el impacto presupuestario de las disposiciones administrativas que emita el Ejecutivo que impliquen costos para su implementación.
 
-Todo proyecto de ley o decreto que sea sometido a votación del Pleno de la Legislatura del Estado, deberá incluir en su dictamen correspondiente una estimación sobre el impacto presupuestario del proyecto.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-La aprobación y ejecución de nuevas obligaciones financieras derivadas de la legislación estatal, se realizará en el marco del principio de balance presupuestario sostenible, por lo cual, se sujetarán a la capacidad financiera del Estado.
+La Legislatura del Estado, a través de las Comisiones Legislativas, deberán observar que todo proyecto de ley o decreto que sea sometido a votación del Pleno, deberán incluir el dictamen de estimación de impacto presupuestario, sólo en los casos que impliquen repercusiones en las finanzas públicas estatales o municipales, con apoyo de la unidad u órgano especializado de la Legislatura del Estado. Cuando las Comisiones Legislativas lo consideren, solicitarán opinión a la Secretaría, sobre el proyecto de ley o decreto.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-La Secretaría deberá emitir los Lineamientos para la Evaluación del Impacto Presupuestario de los proyectos de iniciativas de leyes o decretos y demás disposiciones administrativas, a que hace referencia el primer párrafo de este artículo.
+Los Entes Públicos, en el ámbito se (sic) sus respectivas competencias, a través de la unidad u órgano especializado previsto en su legislación orgánica, darán cumplimiento a las disposiciones de esta Ley.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Estimación impacto presupuestario
+La aprobación y ejecución de nuevas obligaciones financieras derivadas de la legislación estatal, municipal o disposiciones administrativas, se realizará en el marco del principio de balance presupuestario sostenible, por lo cual, se sujetarán a la capacidad financiera del Estado o municipios, según corresponda.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Los Entes Públicos, en el ámbito de sus respectivas competencias, expedirán la reglamentación y normatividad para el cumplimiento de esta Ley, relativa a la evaluación de impacto presupuestario de los proyectos de iniciativas de leyes, decretos y disposiciones administrativas, así como, los dictámenes de estimación de impacto presupuestario y de estructura orgánica.
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Dictamen de estructura orgánica
 
 ###### Artículo 18 Bis.
 
-Las Dependencias y Entes Públicos deberán contar con una estimación de la Secretaría sobre el impacto presupuestario a que se refiere el artículo 16 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y 18 de esta Ley.
+(DEROGADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)
 
-Los proyectos de disposiciones administrativas que así lo requieran, deberán contar con la autorización sobre la estructura orgánica y ocupacional de la Dependencia o Entes Públicos de que se trate, que apruebe la Secretaría de la Función Pública o su equivalente en los Municipios, previo dictamen presupuestal favorable que emita la Secretaría o su equivalente municipal, en términos de las leyes señalas (sic) en el párrafo anterior.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+Los proyectos que impliquen creación o modificación de estructuras orgánicas, deberán contar con el dictamen de estructura orgánica y ocupacional del Ente Público, dependencia o entidad de que se trate, que emita la Secretaría de la Función Pública y en los demás Entes Públicos el órgano interno de control correspondiente, previo dictamen de impacto presupuestario favorable que emita la Secretaría o su equivalente de otros Entes Públicos, en términos de las disposiciones aplicables.
 
-Evaluación del impacto presupuestario
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Evaluación de impacto presupuestario
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 18 Ter.
 
-Las Dependencias y Entes Públicos que presenten proyectos en términos del artículo anterior, en términos de lo dispuesto por el artículo 18 de esta Ley, realizarán una evaluación sobre su impacto presupuestario en los términos de los Lineamientos que establezca la Secretaría.
+Los Entes Públicos, dependencias y entidades que presenten proyectos, en términos de lo dispuesto por el artículo 18 de esta Ley, realizarán una evaluación de impacto presupuestario en los términos de la reglamentación y normatividad que emitan los Entes Públicos, en el ámbito de sus respectivas competencias.
 
-La evaluación del impacto presupuestario considerará, cuando menos, los aspectos siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-I. Impacto en el gasto de las Dependencias y Entes Públicos por la creación, extinción, modificación o fusión de unidades administrativas y plazas o, en su caso, creación de nuevos Entes Públicos, Dependencias o unidades administrativas;
+La evaluación de impacto presupuestario considerará, cuando menos, los aspectos siguientes:
 
-II. Impacto presupuestario en los programas aprobados de las Dependencias y entidades;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+I. Impacto en el gasto por la creación, extinción, modificación o fusión de unidades administrativas y plazas o, en su caso, creación de nuevos Entes Públicos, dependencias, entidades o unidades administrativas;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+II. Impacto presupuestario en los programas aprobados;
 
 III. Determinación de destinos específicos de gasto público. En este caso, solamente podrán preverse destinos específicos en ordenamientos de naturaleza fiscal;
 
-IV. Establecimiento de nuevas atribuciones y actividades que deberán realizar las dependencias y entidades que requieran de mayores asignaciones presupuestarias para llevarlas a cabo, y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+IV. Establecimiento de nuevas atribuciones y actividades que deberán realizar los Entes Públicos, las dependencias y entidades que requieran de mayores asignaciones presupuestarias para llevarlas a cabo, y
 
 V. Inclusión de disposiciones generales que incidan en la regulación en materia presupuestaria.
 
-Las Dependencias y Entes Públicos deberán estimar el costo total del proyecto respectivo con base en los aspectos señalados en las fracciones anteriores, para lo cual, podrán tomar como referencia el costo que hayan tenido reformas similares o semejantes. Asimismo, señalarán si los costos serán financiados con sus propios presupuestos y sin generar presiones de gasto en los subsecuentes ejercicios fiscales. En caso de tener impacto en su presupuesto, los Entes Públicos y Dependencias deberán señalar la posible fuente de financiamiento de los nuevos gastos en términos del artículo 20 de esta Ley.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+Los Entes Públicos, dependencias y entidades deberán estimar el costo total del proyecto respectivo con base en los aspectos señalados en las fracciones anteriores, para lo cual, podrán tomar como referencia el costo que hayan tenido reformas similares o semejantes. Asimismo, señalarán si los costos serán financiados con sus propios presupuestos y sin generar presiones de gasto en los subsecuentes ejercicios fiscales. En caso de tener impacto en su presupuesto, deberán señalar la posible fuente de ingreso distinta al financiamiento de los nuevos gastos en términos del artículo 20 de esta Ley.
 
-Requisitos impacto presupuestario
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+La evaluación de impacto presupuestario debe emitirse en un término de diez días hábiles, contados a partir del día siguiente de recibir la solicitud. En caso de no presentarse, las comisiones legislativas continuarán el procedimiento con apoyo de la unidad u órgano especializado, sin perjuicio de las responsabilidades administrativas que procedan.
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Procedimiento del impacto presupuestario
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 18 Quáter.
 
-La Secretaría o su equivalente en los municipios, emitirá la estimación del impacto presupuestario de los proyectos a que se refiere el artículo 18 de esta ley.
+Los Entes Públicos y la Secretaría, en el ámbito de sus respectivas competencias, emitirán el dictamen de estimación de impacto presupuestario de los proyectos a que se refiere el artículo 18 de esta ley, en el cual deben analizar, al menos, los aspectos del artículo anterior.
 
-Los Entes Públicos y Dependencias presentarán a la Secretaría, por conducto de su unidad o área jurídica correspondiente, la solicitud acompañada del proyecto y de la evaluación de impacto presupuestario respectiva, suscrita por los servidores públicos competentes de sus coordinaciones administrativas o sus equivalentes.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Para emitir el dictamen, se requiere presentar solicitud, por conducto del área jurídica correspondiente, acompañada del proyecto y de la evaluación de impacto presupuestario respectiva, suscrita por los servidores públicos competentes de sus coordinaciones administrativas o sus equivalentes.
 
 Cuando algún proyecto tenga impacto presupuestario en dos o más Dependencias o entidades, o en una distinta de la responsable de su elaboración, las evaluaciones de impacto correspondientes deberán estar suscritas por los servidores públicos competentes de cada Dependencia o entidad involucrada; el responsable de la elaboración del proyecto será el encargado de integrar las distintas evaluaciones. Lo anterior, con excepción de los proyectos que establezcan regulación aplicable para la Administración Pública, caso en el cual, la Dependencia competente para elaborar dicho proyecto será la responsable de presentar y suscribir la evaluación de impacto correspondiente.
 
-La Secretaría o sus equivalentes en los municipios, emitirá su estimación de impacto presupuestario, en un plazo que no excederá de 20 días hábiles, contados a partir del día siguiente a la presentación de la documentación señalada en los párrafos anteriores.
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Cuando la Secretaría reciba una solicitud que no reúna los requisitos a que se refiere la presente Ley, podrá solicitar a los Entes Públicos o Dependencias para que en un plazo de tres días hábiles, subsane la información, en cuyo caso se suspenderá el plazo a que se refiere el párrafo anterior; de no subsanarse las omisiones en el plazo otorgado, se tendrá por no presentada dicha solicitud.
+Cuando la Legislatura del Estado solicite opinión de la Secretaría, el término para dar respuesta, no excederá de cinco días hábiles, contados a partir del día siguiente de recibir la solicitud.
 
-La Secretaría o sus equivalentes en los municipios, podrá emitir recomendaciones sobre las disposiciones jurídicas del ordenamiento sujeto a dictamen que incidan en el ámbito presupuestario, cuando así lo considere.
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Tanto la evaluación como la estimación correspondiente se anexarán a la iniciativa de ley o decreto que se presente a la Legislatura del Estado o, en su caso, a las disposiciones administrativas a que se refiere el artículo 18 Bis de la presente Ley que se sometan a firma del Gobernador del Estado.
+La unidad u órgano especializado de la Legislatura del Estado, en coordinación con la Auditoría Superior del Estado, emitirán el dictamen de estimación de impacto presupuestario de las iniciativas de leyes o decretos que promuevan las y los diputados, organismos autónomos y municipios, de conformidad con la legislación orgánica y reglamentación que para estos efectos expida la Legislatura.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+La Secretaría o el órgano especializado de otros Entes Públicos, en el ámbito de sus respectivas competencias, emitirán el dictamen de estimación de impacto presupuestario, en un plazo que no excederá de diez días hábiles, contados a partir del día siguiente a la presentación de la documentación señalada en los párrafos anteriores.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Cuando la Secretaría o el órgano especializado de otros Entes Públicos, reciban una solicitud que no reúna los requisitos a que se refiere la presente Ley, podrán solicitar que en un plazo de tres días hábiles, subsanen la información, en cuyo caso se suspenderá el plazo a que se refiere el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+La Secretaría o el órgano especializado de otros Entes Públicos, podrán emitir recomendaciones sobre las disposiciones jurídicas del ordenamiento sujeto a dictamen que incidan en el ámbito presupuestario, cuando así se considere.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Tanto la evaluación como el dictamen de estimación de impacto presupuestario, en su caso, dictamen de estructura orgánica y ocupacional se anexarán a la iniciativa de ley o decreto que se presente a la Legislatura del Estado o, en su caso, a las disposiciones administrativas que se sometan a firma del Gobernador del Estado.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 Revisión legal de proyectos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 18 Quinquies.
 
-Los Entes Públicos y Dependencias, previo a la presentación de iniciativas de leyes, decretos o disposiciones administrativas, a que hace referencia el primer párrafo del artículo 18 de esta Ley, que realicen ante la Coordinación General Jurídica del Gobierno del Estado para la revisión legal y, en su caso, aprobación, deberán acompañar la evaluación y estimación de impacto presupuestario.
+Las dependencias y entidades, previo a la presentación de iniciativas de leyes, decretos o disposiciones administrativas, a que hace referencia el primer párrafo del artículo 18 de esta Ley, que realicen ante la Coordinación General Jurídica del Gobierno del Estado para la revisión legal y, en su caso, aprobación, deberán acompañar la evaluación y el dictamen de estimación de impacto presupuestario.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Esta misma atribución la tendrán las áreas jurídicas de los Entes Públicos en el ámbito de sus respectivas competencias, de acuerdo a su legislación orgánica.
 
 Presentación de Ley de Ingresos y Presupuesto de Egresos.
 
@@ -609,13 +683,13 @@ Ejercicio del gasto público de otros Entes Públicos.
 
 Los Poderes Legislativo y Judicial, los órganos Autónomos, los Organismos descentralizados y los Municipios, para el fortalecimiento de su autonomía, ejecutarán su presupuesto a través de sus propias unidades de administración o coordinaciones administrativas o equivalentes y bajo su más estricta responsabilidad; corresponde a sus titulares la rectoría en la ejecución de los recursos públicos bajos (sic) la normatividad que los regula.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
 Transferencias de recursos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 31.
 
-La Secretaría en su carácter de ente administrador y con efectos de suficiencia presupuestal, efectuará las transferencias de recursos a los Entes Públicos en su calidad de entes ejecutores del gasto con base en el Presupuesto de Egresos y de acuerdo con los calendarios de ministración correspondientes; éstos manejarán directamente los recursos públicos que les corresponden y realizarán sus pagos a través de sus estructuras administrativas o coordinaciones administrativas; los Entes Públicos deberán atender la Ley General de Contabilidad Gubernamental, Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, esta Ley y demás disposiciones relativas a la contabilización de su gasto y la emisión de su información financiera.
+La Secretaría en su carácter de Órgano Hacendario y con efectos de suficiencia presupuestal, efectuará las transferencias de recursos a los Entes Públicos en su calidad de entes ejecutores del gasto con base en el Presupuesto de Egresos y de acuerdo con los calendarios de ministración correspondientes; éstos manejarán directamente los recursos públicos que les corresponden y realizarán sus pagos a través de sus estructuras administrativas o coordinaciones administrativas; los Entes Públicos deberán atender la Ley General de Contabilidad Gubernamental, Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, esta Ley y demás disposiciones relativas a la contabilización de su gasto y la emisión de su información financiera.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -733,7 +807,9 @@ Los Entes Públicos estarán bajo la vigilancia de sus órganos internos de admi
 
 La responsabilidad administrativa derivada de este dispositivo legal, será sancionada de acuerdo con las leyes aplicables a cada Ente Público, independientemente de las de carácter resarcitoria, penal, civil o cualquier otra que se pudiera configurar.
 
-Devolución de recursos públicos.
+> <small>(REFORMADO SU ACÁPITE, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Reintegro de recursos públicos federales.
 
 ###### Artículo 39.
 
@@ -745,63 +821,47 @@ Los ejecutores del gasto de cada Ente Público serán los responsables directos 
 
 Para los efectos de este artículo, se entenderá que el Estado ha devengado o comprometido las transferencias federales etiquetadas, en los términos previstos en el artículo 4, fracciones XIV y XV de la Ley General de Contabilidad Gubernamental.
 
-Remanentes y economías presupuestarias.
+> <small>(REFORMADO SU ACÁPITE, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Reintegro de recursos públicos estatales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 40.
 
-Las dependencias del Poder Ejecutivo y los Organismos descentralizados del Ejecutivo que por cualquier motivo, al término del ejercicio fiscal que corresponda, conserven recursos presupuestarios, los reintegrarán a la Secretaría dentro de los primeros cinco días hábiles del mes de enero inmediato siguiente, con los rendimientos obtenidos en su caso.
+Las dependencias y Entidades del Poder Ejecutivo que por cualquier motivo, al término del ejercicio fiscal que corresponda, conserven recursos públicos estatales, que no se encuentren comprometidos o devengados, los reintegrarán a la Secretaría dentro de los primeros cinco días hábiles del mes de enero inmediato siguiente, con los rendimientos obtenidos en su caso.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Cuando finalizado el ejercicio fiscal, las dependencias no hubieren comprometido o devengado, algún recurso en los términos de la normativa que regula dichos recursos, quedará cancelada su ejecución, a menos que se trate de compromisos u obligaciones plurianuales.
+Las transferencias estatales que al 31 de diciembre del ejercicio fiscal inmediato anterior se hayan comprometido y aquéllas devengadas pero que no hayan sido pagadas, deberán cubrir los pagos respectivos a más tardar durante el primer semestre del ejercicio fiscal siguiente, o para el caso específico de subsidios y programas, lo realizarán de conformidad con el calendario de ejecución establecido en el convenio correspondiente; una vez cumplido el plazo referido, los recursos remanentes deberán reintegrarse a la Secretaría, a más tardar dentro de los 15 días naturales siguientes.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Queda prohibido establecer fondos de contingencias o con cualquier otra denominación que tenga por objeto o como propósito evitar el reintegro de recursos no comprometidos o devengados al final del ejercicio fiscal de que se trate.
+Queda prohibido establecer fondos de contingencias o con cualquier otra denominación que tenga por objeto o como propósito evitar el reintegro de recursos estatales no comprometidos o devengados al final del ejercicio fiscal de que se trate.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-Queda prohibido realizar erogaciones al final del ejercicio con cargo a ahorros y economías del presupuesto que tengan por objeto evitar la concentración de recursos a que se refiere este artículo.
+> <small>(DEROGADO CUARTO PÁRRAFO, P. O. 28 DE DICIEMBRE DE 2019)</small>
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 La Secretaría queda facultada para crear las provisiones o pasivos que representen compromisos formales de pago o gasto, adquisiciones devengadas, la construcción de obras públicas, pedidos debidamente fincados a proveedores de bienes o servicios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Devengo como condición de pago
+Ahorros y economías presupuestarias.
+
+###### Artículo 40 Bis.
+
+Los ahorros y economías que se generen derivado de las medidas de austeridad y racionalidad del gasto aplicadas preferentemente en el gasto corriente, así como las disposiciones de la materia que emita el Ejecutivo del Estado; se deberán destinar a cubrir el déficit en las finanzas públicas, así como para generar el desarrollo de la inversión productiva del Estado.
+
+Los Poderes Legislativo y Judicial, así como los Órganos Autónomos, deberán adoptar acciones que les permitan obtener economías en los mismos términos del párrafo anterior, en el ámbito de sus respectivas competencias.
+
+Queda prohibido realizar erogaciones al final del ejercicio fiscal con cargo a ahorros y economías del Presupuesto de Egresos que tengan por objeto evitar la concentración de los ahorros y economías.
+
+Asimismo, queda prohibido constituir o participar en fideicomisos, mandatos o análogos, con ahorros, economías o subejercicios del Presupuesto de Egresos, que tengan por objeto evitar la concentración de recursos públicos estatales.
 
 ###### Artículo 41.
 
-Una vez concluida la vigencia de un presupuesto de egresos del Estado, sólo procederá hacer pagos, con base en éste, por los conceptos comprometidos o efectivamente devengados en el año que corresponda, siempre que se hubieren contabilizado debida y oportunamente las operaciones correspondientes y hayan estado contempladas en dicho presupuesto de egresos.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-Las erogaciones previstas en el presupuesto de egresos que no se encuentren comprometidas o devengadas al 31 de diciembre, no podrán ejercerse.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-No podrán ejercerse las erogaciones previstas en el presupuesto de egresos que no se encuentren comprometidas o devengadas al 31 de diciembre del ejercicio que corresponda.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-Sin perjuicio de lo anterior, los subsidios federales y Transferencias federales etiquetadas que, al 31 de diciembre del ejercicio fiscal inmediato anterior se hayan comprometido y aquéllas devengadas pero que no hayan sido pagadas, deberán cubrir los pagos respectivos a más tardar durante el primer trimestre del ejercicio fiscal siguiente, o bien, de conformidad con el calendario de ejecución establecido en el convenio correspondiente; una vez cumplido el plazo referido, los recursos remanentes deberán reintegrarse a la Tesorería de la Federación, a más tardar dentro de los 15 días naturales siguientes.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-Los Poderes Legislativo y Judicial, los órganos autónomos, las dependencias, así como las entidades respecto a las transferencias federales etiquetadas que reciban, que por cualquier motivo al 31 de diciembre conserven recursos, incluyendo los rendimientos obtenidos, deberán reintegrar el importe disponible a la Tesorería de la Federación.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-Las Transferencias federales etiquetadas que reciban los Entes Públicos y Dependencias, que por cualquier motivo al 31 de diciembre del ejercicio fiscal que corresponda, no se hayan comprometido o devengado, deberán reintegrar a la Tesorería de la Federación el importe disponible, incluyendo los rendimientos obtenidos.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-Para los efectos de este artículo, se entenderá que el Estado ha devengado o comprometido las Transferencias federales etiquetadas, en los términos previstos en el artículo 4, fracciones XIV y XV de la Ley General de Contabilidad Gubernamental.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-Queda prohibido realizar erogaciones al final del ejercicio fiscal con cargo a ahorros y economías del Presupuesto de Egresos que tengan por objeto evitar el reintegro de recursos a que se refiere este artículo.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 Prohibición de contraer obligaciones de subsecuentes ejercicios fiscales.
 
@@ -883,9 +943,9 @@ Serán consideradas instancias ejecutoras de estos recursos, aquellas dependenci
 
 Las dependencias y entidades ejecutoras de gasto deberán ajustar su actuación a lo establecido en las leyes, reglamentos, lineamientos, reglas de operación y demás marco jurídico aplicable y, en su caso, a los convenios que al efecto se celebren.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-En el supuesto de que al término del ejercicio fiscal existan recursos no devengados, independientemente del origen de los mismos, la instancia ejecutora deberá a la Secretaría al cierre del ejercicio, con el propósito de que ésta proceda, en su caso, al reintegro o devolución del recurso no devengado a la Tesorería de la Federación, cuando sea procedente por mandato del precitado marco jurídico o contractual.
+En el supuesto de que al término del ejercicio fiscal existan recursos no devengados, independientemente del origen de los mismos, la instancia ejecutora deberá informar a la Secretaría al cierre del ejercicio, con el propósito de que ésta proceda, en su caso, al reintegro o devolución del recurso no devengado a la Tesorería de la Federación, cuando sea procedente por mandato del precitado marco jurídico o contractual.
 
 Ejecutores del gasto, diferentes del Poder Ejecutivo.
 
@@ -1117,7 +1177,9 @@ XI. Los Entes Públicos deberán sujetarse a las disposiciones generales aplicab
 
 XII. No realizar traspasos de recursos de otros capítulos presupuestales al Capítulo 1000 de Servicios Personales o viceversa. Los recursos del Capítulo 1000 son intransferibles, excepto cuando exista autorización de la Secretaría o sus equivalentes;
 
-XIII. Las dependencias y organismos descentralizados del Poder Ejecutivo, deberán sujetarse a la estructura orgánica y ocupacional autorizada por la Secretaría de Administración y al dictamen presupuestal emitido por la Secretaría, o sus equivalentes en las demás entidades públicas;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XIII. Las dependencias y organismos descentralizados del Poder Ejecutivo, deberán sujetarse a la estructura orgánica y ocupacional autorizada por la Secretaría de la Función Pública y al dictamen presupuestal emitido por la Secretaría, o sus equivalentes en las demás entidades públicas;
 
 XIV. No se autorizarán labores en tiempo extraordinario, excepto en los casos en que por la naturaleza de la función se requiera prolongar la jornada por causas plenamente justificadas, su aprobación dependerá de la disponibilidad financiera correspondiente y de las políticas que, en materia de recursos humanos, establezca la Secretaría de Administración o su equivalente en los Entes Públicos.
 
@@ -1291,7 +1353,9 @@ En el Poder Ejecutivo, se elimina la contratación en servicios de asesoría, co
 
 Respecto de los Organismos Públicos Descentralizados, la contratación de servicios podrá realizarse, solo cuando se encuentren debidamente justificados y con la autorización de sus juntas u órganos de gobierno, bajo su estricta responsabilidad.
 
-Asimismo, se elimina la contratación de servicios de limpieza u otros que puedan realizarse con el personal con que actualmente cuenta el Poder Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Asimismo, se elimina la contratación de servicios de limpieza u otros servicios de mantenimiento similares que puedan realizarse con el personal con que actualmente cuenta el Poder Ejecutivo del Estado, salvo los casos de limpieza u otros servicios de mantenimiento similares especializados que se encuentren debidamente justificados y sólo con la autorización presupuestaria de la Secretaría.
 
 Los Entes Públicos diferentes al Poder Ejecutivo, deberán normar y establecer condiciones para estas contrataciones, que permitan el ahorro y la austeridad.
 
@@ -1371,9 +1435,11 @@ En todos los casos, los subsidios, donativos y demás ayudas serán considerados
 
 Orientación de subsidios y transferencias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 85.
 
-Los subsidios y las transferencias deberán orientarse para apoyar el desarrollo de actividades prioritarias de interés general, así como sujetarse a los criterios de selectividad, transparencia y temporalidad, con base en lo siguiente:
+Los subsidios y las transferencias deberán orientarse para apoyar el desarrollo de actividades prioritarias de interés general, así como sujetarse a los criterios de objetividad, transparencia y temporalidad, con base en lo siguiente:
 
 I. Identificar con precisión a la población objetivo. Asimismo, el mecanismo de operación deberá garantizar que los recursos se canalicen a la población objetivo, evitando su distracción entre aquellos miembros de la sociedad que no los necesitan;
 
@@ -2004,3 +2070,87 @@ Artículo tercero. El Impuesto establecido en el Capítulo Cuarto, del Título S
 Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respecto del Impuesto Sobre Tenencia o Uso de Vehículos contenido en el Capítulo Cuarto del Título Segundo que se suspende conforme a este Decreto, que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones aplicables.
 
 Artículo cuarto. Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO NO. 302.- SE REFOMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES FISCALES Y HACENDARIAS DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veinte, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos de la obligación establecida en la Sección VIII, Capitulo Segundo del Título Segundo y la Sección III Bis, Capítulo Segundo del Título Tercero del Código Fiscal del Estado de Zacatecas y sus Municipios, la Secretaría de Finanzas deberá emitir para su debida publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas, a más tardar el 31 de marzo de 2020, las reglas de carácter general relativas al cumplimiento, presentación y facultades de comprobación del dictamen fiscal.
+
+###### ARTÍCULO TERCERO.
+
+Para efectos del artículo 101-Bis del Código Fiscal del Estado de Zacatecas y sus Municipios, no serán sujetos de la obligación de presentar el dictamen del cumplimiento de sus obligaciones fiscales, aquellas personas físicas, morales o unidades económicas que hayan celebrado un acuerdo anticipado de pago a que se refiere el artículo 158-Bis, respecto de los ejercicios convenidos.
+
+###### ARTÍCULO CUARTO.
+
+Las personas físicas, morales o unidades económicas, que se encuentren en los supuestos establecidos en los artículos 101-Bis y 101-Ter, del Código Fiscal del Estado de Zacatecas y sus Municipios, tendrán la opción de presentar el dictamen correspondiente al ejercicio fiscal 2019, con base en los plazos siguientes:
+
+I. Presentar aviso a través de los medios y formas que establezca la Secretaría, mediante las reglas de carácter general, a más tardar el último día del mes de mayo.
+
+II. El dictamen a que se refiere el artículo 101 Bis de este Código y la documentación que se señala en el artículo 101 Nonies del mismo, se deberá presentar a través de los medios y formas que establezca la Secretaría, mediante reglas de carácter general, a más tardar el día 30 del mes de septiembre del ejercicio siguiente al cierre del periodo a dictaminar, por los contribuyentes obligados a dictaminar y aquellos que hayan optado por dictaminar el cumplimiento de sus obligaciones.
+
+###### ARTÍCULO QUINTO.
+
+Dentro de los 90 días siguientes a la publicación del presente Decreto, la Secretaría de Finanzas del Gobierno del Estado de Zacatecas, modificará su Reglamento Interior para adecuarlo a la presente reforma.
+
+###### ARTÍCULO SEXTO.
+
+La inscripción de los contadores públicos que realicen dictamen fiscal deberá hacerse a más tardar el 30 de abril de 2020 y los ejercicios subsecuentes a más tardar el 28 de febrero de cada año, cuyo procedimiento se regirá en lo establecido en el artículo segundo de estas disposiciones transitorias.
+
+###### ARTÍCULO SÉPTIMO.
+
+Para los efectos de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios, el Titular del Poder Ejecutivo llevará a cabo acciones para generar ahorros y economías, durante el ejercicio fiscal 2020, respecto del gasto corriente y estructuras, que no esté relacionado con programas de atención a la población.
+
+Los Poderes Legislativo y Judicial, así como los organismos autónomos, deberán adoptar acciones que les permitan obtener economías en los mismos términos del párrafo anterior, en el ámbito de sus respectivas competencias.
+
+Dichas (sic) ahorros y economías en ningún momento serán en detrimento de la calidad en el desempeño de la función y administración pública.
+
+El resultado de la aplicación de las acciones descritas en el presente artículo deberá reportarse en los informes trimestrales.
+
+###### ARTÍCULO OCTAVO.
+
+Derivado de la reforma a los artículos 2 y 34 de la Ley de Coordinación y Colaboración Financiera para el Estado de Zacatecas y sus Municipios, los municipios que en el ejercicio fiscal 2020 pudiesen observar un crecimiento menor, derivado de la reforma a la fórmula para determinar y distribuir sus participaciones, tendrán garantizado que su participación no sea menor a la que obtuvieron en el ejercicio fiscal 2019, las cuales podrán cubrirse, en su caso, a través del Fondo de Estabilización de los Ingresos de las Entidades Federativas, en los términos establecidos en las leyes de la materia.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 252.- SE REFORMA Y ADICIONA LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS Y LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Vigencia
+
+Artículo Primero. El Decreto de reforma entrará en vigor a partir del 1 de enero de 2020, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Obligación de los Entes Públicos
+
+Artículo Segundo. Dentro del término de sesenta días naturales contados a partir de la vigencia del Decreto, todos los Entes Públicos del Estado y Municipios, en el ámbito de sus respectivas competencias, tienen obligación de:
+
+- Expedir la reglamentación y demás normatividad de Impacto Presupuestario, para implementar las etapas de 1) Evaluación de Impacto Presupuestario, 2) Dictamen de Estimación de Impacto Presupuestario, y 3) Dictamen de Estructura Orgánica y Ocupacional.
+
+Armonización del marco jurídico
+
+Artículo Tercero. Los Entes Públicos del Estado y Municipios, en el ámbito de sus respectivas competencias, llevarán a cabo el proceso de armonización, actualización, en su caso, reforma al marco jurídico que les aplique, de conformidad a las siguientes bases y etapas de armonización normativa en materia de Impacto Presupuestario:
+
+- Dentro del término de sesenta días naturales contados a partir de la vigencia del Decreto, el Poder Legislativo expedirá el Reglamento de Impacto Presupuestario, para implementar las etapas de 1) Evaluación de Impacto Presupuestario; 2) Dictamen de Estimación de Impacto Presupuestario; 3) Dictamen de Estructura Orgánica y Ocupacional, en su caso, por creación de nuevas áreas a través de la iniciativa de ley o decreto.
+
+- Dentro del término de sesenta días naturales contados a partir de la vigencia del presente Decreto, el Poder Judicial del Estado deberá actualizar su reglamentación de conformidad con el presente Decreto.
+
+- Los Municipios del Estado, los organismos autónomos y demás Entes Públicos, en el término de sesenta días naturales a partir de la vigencia del presente Decreto, deben expedir la reglamentación, en su caso, podrán aplicar el reglamento o lineamiento que expidan los Poderes del Estado, en materia de evaluación de impacto presupuestario, dictamen de estimación de impacto presupuestario y dictamen de estructura orgánica y ocupacional.
+
+Capacitación
+
+Artículo Cuarto. Los Entes Públicos del Estado y Municipios, en el ámbito de sus respectivas competencias, al día siguiente de la publicación del presente Decreto, implementarán talleres de capacitación para acreditar al personal jurídico, técnico, contable y administrativo que tenga vinculación con alguna de las etapas del impacto presupuestario.
+
+Área de Impacto Presupuestario
+
+Artículo Quinto. Los Entes Públicos del Estado y Municipios, en el ámbito de sus respectivas competencias, dentro de los sesenta días naturales, a partir de la publicación del presente Decreto, deberán proveer lo conducente para la instalación de un área específica, que se integre con personal adscrito a las áreas jurídicas, contables y administrativas, que acredite capacitación, formación, actualización y especialización en materia de impacto presupuestario, regulatorio y otros tipos de impacto.
+
+El Poder Legislativo del Estado, realizará las acciones administrativas necesarias para instalar la unidad u órgano especializado que tiene entre sus funciones la elaboración, revisión y seguimiento del impacto presupuestario de leyes, decretos de reforma y disposiciones administrativas.
+
+Disposiciones de derogación
+
+Artículo Sexto. Se derogan todas las disposiciones legales, reglamentarias o administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
