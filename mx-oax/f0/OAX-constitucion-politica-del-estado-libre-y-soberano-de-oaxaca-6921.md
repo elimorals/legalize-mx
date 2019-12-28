@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2019-11-09"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -441,7 +441,7 @@ Toda medida o disposición protectoras de la familia y la niñez son de orden p�
 
 Toda familia tiene derecho a disfrutar de vivienda digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+((ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)
 
 Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades y a la salud física y mental. La Ley determinará los apoyos a la protección de los menores, a cargo de las instituciones públicas y promoverá la asistencia privada.
 
@@ -1653,9 +1653,9 @@ Por tanto, mando que se imprima, publique, circule y se le dé el debido cumplim
 
 Son facultades del Congreso del Estado:
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-I. Dictar leyes para la administración del Gobierno interior del Estado, en todos los ramos; interpretarlas, aclararlas en el ámbito de sus funciones, reformarlas, derogarlas y abrogarlas;
+I. Dictar leyes para la administración del Gobierno interior del Estado, en todos los ramos; interpretarlas, aclararlas en el ámbito de sus funciones, reformarlas, derogarlas y abrogarlas, en los que se observarán los mismos trámites establecidos para su formación;
 
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -5470,3 +5470,11 @@ P.O. 9 DE NOVIEMBRE DE 2019.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 837.- MEDIANTE EL CUAL REFORMA LA FRACCION I DEL ARTÍCULO 59 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO: Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
