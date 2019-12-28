@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2019-03-02"
+last_updated: "2019-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "COL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE ENERO DE 2020 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -55,13 +57,27 @@ DISPOSICIONES GENERALES.
 
 La presente Ley es de orden público y establece las bases para la organización y funcionamiento del Poder Legislativo del Estado, cuyo titular es la Asamblea denominada CONGRESO DEL ESTADO LIBRE Y SOBERANO DE COLIMA.
 
-Corresponden al Poder Legislativo del Estado, las facultades y obligaciones que señalan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Colima, esta Ley y otros ordenamientos legales.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Corresponden al Poder Legislativo del Estado, las facultades y obligaciones que señalan la Constitución Política de los Estados Unidos Mexicanos, los Tratados y Convenios Internacionales de los que el Estado Mexicano forma parte, la Constitución Política del Estado Libre y Soberano de Colima, esta Ley y otros ordenamientos legales.
 
 El Poder Legislativo contará, además, con los órganos de administración, fiscalización e investigación que determinen esta Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 2º.
 
-Para los efectos de la presente Ley, cuando en ella se exprese Constitución: se entenderá por la Constitución Política del Estado Libre y Soberano de Colima; por Ley: la Ley Orgánica del Poder Legislativo del Estado de Colima; por Reglamento: el Reglamento de la presente Ley; por Congreso: el Congreso del Estado de Colima y por Comisión de Gobierno: a la Comisión de Gobierno Interno y Acuerdos Parlamentarios.
+Para los efectos de la presente Ley, se entenderá:
+
+I. Comisión de Gobierno: a la Comisión de Gobierno Interno y Acuerdos Parlamentarios;
+
+II. Congreso: Congreso del Estado Libre y Soberano de Colima;
+
+III. Constitución: Constitución Política del Estado Libre y Soberano de Colima;
+
+IV. Ley: Ley Orgánica del Poder Legislativo del Estado de Colima; y
+
+V. Reglamento: Reglamento de la presente Ley.
 
 ###### ARTICULO 3º.
 
@@ -111,7 +127,17 @@ I.- Cuando se encuentre en estudio una iniciativa para la expedición o reformas
 
 II.- Para ampliar el contenido del informe anual rendido por el Gobernador del Estado, de conformidad al procedimiento establecido en el artículo 31 de la Constitución Local; o
 
-III.- Cuando exista la necesidad de conocer información sobre la aplicación de las políticas públicas en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+III.- Cuando exista la necesidad de conocer información sobre la aplicación de las políticas públicas en el ámbito de su competencia; o
+
+(NOTA: EL 31 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX Y X, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 121/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE JUNIO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+IV.- PARA INFORMAR Y EXPLICAR HECHOS O CIRCUNSTANCIAS QUE POR SU NATURALEZA RESULTEN DE TRASCENDENCIA PARA LA SOCIEDAD O EL BUEN DESEMPEÑO DEL SERVICIO PÚBLICO.
 
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
 
@@ -123,25 +149,33 @@ Toda propuesta para citar a los servidores públicos mencionados en el artículo
 
 ARTICULO 9° BIS.- Para las comparecencias de las autoridades o servidores públicos a los que hace referencia el artículo 13 apartado A, párrafo tercero de la Constitución Política del Estado Libre y Soberano de Colima, que hayan sido aprobadas por el Pleno a solicitud de la Comisión de Derechos Humanos del Estado de Colima, se estará a lo siguiente:
 
-I.- Una vez que ingrese al lugar destinado para sesionar el servidor público compareciente, el Presidente de la Mesa Directiva en turno del H. Congreso procederá a tomarle protesta correspondiente de decir verdad y le hará saber las responsabilidades de los servidores públicos que incurren en falsedad.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+I.- Una vez que ingrese al lugar destinado para sesionar el servidor público compareciente, el Presidente de la Mesa Directiva en turno del H. Congreso procederá a tomarle la protesta correspondiente de decir verdad, y le hará saber el motivo de la comparecencia, así como las responsabilidades de los servidores públicos que incurren en falsedad.
 
 II.- Posteriormente, el Presidente de la Mesa Directiva en turno del H. Congreso le otorgará el uso de la voz para que exponga de manera fundada y motivada su negativa para no dar cumplimiento a la recomendación que le emitió la Comisión Estatal de Derechos Humanos.
 
 III.- Hecha la exposición, hará uso de la palabra un legislador por cada uno de los Grupos Parlamentarios y los Diputados únicos de partido que deseen hacerlo. Estas intervenciones se realizarán en orden creciente, en razón del número de legisladores de cada Grupo Parlamentario y cada una de ellas no excederá de diez minutos.
 
-IV.- A continuación, un legislador de cada Grupo Parlamentario y los Diputados únicos, podrán formular sus preguntas de manera directa al servidor público compareciente. Al final de cada una de ellas, el servidor público citado hará uso de la palabra para dar respuesta a cada una de ellas; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+IV.- A continuación, un legislador de cada Grupo Parlamentario y los diputados únicos, en un término de hasta diez minutos, podrán formular sus preguntas de manera directa al servidor público compareciente. Al final de cada una de ellas, el servidor público citado hará uso de la palabra para dar respuesta a cada una de ellas; y
 
 V.- Una vez finalizados los cuestionamientos el servidor público compareciente emitirá un mensaje final, acto seguido el Presidente de la Mesa Directiva en turno del H. Congreso hará uso de la palabra para un mensaje final sobre el tema para el que fue citado el servidor público.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 10.
 
-Ninguna autoridad podrá dictar mandamiento alguno que afecte los bienes del Poder Legislativo, ni ejecutar resoluciones judiciales o administrativas sobre las personas o bienes de los Diputados dentro de sus instalaciones.
+Ninguna autoridad podrá dictar mandamiento alguno que afecte los bienes del Poder Legislativo, ni ejecutar resoluciones judiciales o administrativas sobre las personas o bienes de los Diputados dentro de las instalaciones de cualquier dependencia de aquél.
 
 Serán nulos de pleno derecho los actos realizados en contravención a este artículo, independientemente de la responsabilidad en que incurran quienes los hayan ordenado o ejecutado.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 11.
 
-Esta Ley, sus reformas y adiciones, así como su Reglamento, no necesitan promulgación del Gobernador del Estado, ni podrán ser objeto de veto, únicamente le serán turnadas para los efectos de su publicación. Es competencia exclusiva de los Diputados, la presentación de iniciativas de reforma, adición, abrogación o derogación de la presente Ley.
+Esta Ley, sus reformas y adiciones, así como su Reglamento, no necesitan promulgación del Gobernador del Estado, ni podrán ser objeto de veto, únicamente le serán turnadas para los efectos de su publicación. Es competencia exclusiva de los Diputados la presentación de iniciativas de reforma, adición, abrogación o derogación de la presente Ley y su Reglamento.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -181,21 +215,41 @@ A los Diputados no podrá exigírseles responsabilidad legal alguna por las opin
 
 Ningún Diputado podrá excusarse de realizar las tareas propias de su encargo, salvo causa grave que calificará el Congreso o la Comisión Permanente, en su caso.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 19.
 
-Compete al Congreso o, en su caso, a la Comisión Permanente, conocer de las excusas, incapacidades o licencias que presenten los Diputados electos o en funciones, para el desempeño de su encargo. El Presidente de la Directiva o, en su caso, de la Comisión Permanente turnará el escrito de solicitud a la comisión respectiva para su estudio y dictamen. El Congreso o la Comisión Permanente, en su caso, emitirá acuerdo declarando la procedencia de aquella, llamando al suplente respectivo en caso de diputados por el principio de mayoría relativa, y al que siga en la lista tratándose de diputados plurinominales.
+Compete al Congreso o, en su caso, a la Comisión Permanente, conocer de las excusas e incapacidades que presenten las Diputadas y Diputados electos o en funciones, para el desempeño de su encargo. El Presidente de la Directiva o, en su caso, de la Comisión Permanente turnará el escrito de solicitud a la comisión respectiva para su estudio y dictamen. El Congreso o la Comisión Permanente, en su caso, emitirá acuerdo declarando la procedencia de aquélla, llamando al suplente respectivo en caso de diputados por el principio de mayoría relativa, y al que siga en la lista tratándose de diputados de representación proporcional.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 19 BIS.- Los diputados y diputadas tendrán derecho a solicitar licencia en el ejercicio del cargo, por las siguientes causas:
+
+I.- Enfermedad que incapacite para el desempeño de la función;
+
+II.- Optar por el desempeño de una comisión o empleo de la Federación, de las Entidades Federativas o de los Municipios, que no pertenezca al ramo de educación pública;
+
+III.- Postularse a otro cargo de elección popular, cuando tal licencia sea una condición establecida en las normas internas del partido político o en las disposiciones electorales correspondientes;
+
+IV.- Para desahogar trámites o comparecencias ante la autoridad competente, por procesos judiciales o jurisdiccionales;
+
+V.- Para ocupar un cargo dentro de su partido político, cuando su normatividad interna así lo disponga; o
+
+VI.- Por cualquier otra causa, siempre que la Asamblea lo apruebe.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 20.
 
-Los Diputados percibirán una remuneración denominada dieta, que será igual para cada uno de ellos, y se fijará en el presupuesto de egresos del Poder Legislativo, y sólo podrá ser objeto de descuento previa autorización expresa del diputado o por pensión alimenticia.
+Los Diputados percibirán una remuneración denominada dieta, que será igual para cada uno de ellos, y se fijará en el presupuesto de egresos del Poder Legislativo, y sólo podrá ser objeto de descuento en términos de esta Ley y el Reglamento, previa autorización expresa del diputado, o por pensión alimenticia.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 21.
 
-Los Diputados que no asistan a una sesión sin causa justificada o sin permiso de la Directiva, no gozarán de la dieta correspondiente a ese día.
+Los Diputados que no estén presentes en algún pase de lista, sin causa justificada o sin permiso de la Directiva, no gozarán de la dieta correspondiente a ese día.
 
-Cuando se deje de asistir a tres sesiones consecutivas sin previo permiso de la Directiva, se llamará al suplente respectivo, quien ejercerá las funciones durante el resto del período ordinario.
+Cuando se deje de asistir a tres sesiones consecutivas sin justificación o sin previo permiso de la Directiva, se llamará al suplente respectivo, quien ejercerá las funciones durante el resto del período ordinario.
 
 ###### ARTICULO 22.
 
@@ -219,29 +273,31 @@ VI.- Ser integrante de comisiones del Congreso;
 
 VII.- Participar en los trabajos, deliberaciones y debates de las comisiones;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-VIII.- Participar con voz en las sesiones de comisión en que se dictamine una iniciativa que haya suscrito;
+VIII. Ser convocado a las sesiones de comisión en que se dictamine una iniciativa que haya suscrito;
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
 
 IX.- Abstenerse de votar en las sesiones del Congreso o de las comisiones de que se forme parte, pudiendo razonar su abstención, previamente a la votación;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-X.- Contar con el documento e insignia que los acredite como Diputados;
+X. Contar con el documento que los acredite como Diputados;
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
 
 XI.- Recibir los apoyos financieros, materiales y de recursos humanos que requieran para desempeñar con eficacia su encargo, sin que por ningún motivo puedan recibir recursos para la previsión social múltiple ciudadana, apoyos sociales o conceptos similares, por no ser una función inherente a su encargo;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XII.- Realizar gestiones ante las diversas instancias de autoridad de los asuntos que les planteen sus representados; y
+XII. Gozar de los servicios de seguridad social, de conformidad con lo dispuesto en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, como servidores públicos del Congreso;
 
-> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+XIII. Realizar gestiones ante las diversas instancias de autoridad de los asuntos que les planteen sus representados; y
 
-XIII.- Las demás que le confieran la Constitución, esta Ley, el Reglamento o se deriven de acuerdos que emitan el Congreso o la comisión Permanente.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XIV. Las demás que le confieran la Constitución, esta Ley, el Reglamento o se deriven de acuerdos que emitan el Congreso o la Comisión Permanente.
 
 ###### ARTICULO 23.
 
@@ -271,7 +327,9 @@ VIII.- Observar en el ejercicio de sus funciones, tanto en el Recinto Parlamenta
 
 IX.- Abstenerse de hacer uso de la palabra durante las sesiones, si el Presidente no se la ha concedido;
 
-X.- Permanecer de pie al dirigirse a la Asamblea durante sus intervenciones en las sesiones;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+X.- Permanecer de pie al dirigirse a la Asamblea durante sus intervenciones en las sesiones, a excepción de quienes ocupen la Directiva;
 
 > <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -283,7 +341,9 @@ Una vez justificadas las faltas a sesiones o salidas anticipadas del Pleno, no p
 
 Cuando algún Diputado faltare a sesión de la Asamblea, sin causa justificada, o no la justifique dentro del plazo previsto en este artículo, le será descontado la dieta correspondiente de ese día, para este efecto se dividirá la dieta mensual entre treinta.
 
-Los recursos descontados a los Diputados que no justifiquen sus inasistencias, serán destinados a instituciones de beneficencia pública, como donativos siendo este determinado (sic) la Comisión de Gobierno Interno y Acuerdos Parlamentarios.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Los recursos descontados a los diputados que no justifiquen sus inasistencias, serán destinados a instituciones de beneficencia pública como donativos, siendo este determinado por la Comisión de Gobierno.
 
 En el caso de las sesiones extraordinarias que sean convocadas con menos de 24 horas de antelación, se exceptúan las disposiciones de esta fracción.
 
@@ -299,7 +359,9 @@ XIV.- Representar al Congreso en los actos, ceremonias o reuniones a las que sea
 
 XV.- Guardar reserva de todo lo que se trate o resuelva en las sesiones secretas;
 
-XVI.- Presentar, por conducto de la comisión respectiva, la declaración patrimonial en los términos de ley;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XVI.- Presentar ante el Órgano Interno de control la declaración patrimonial, en los términos de ley;
 
 > <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -317,11 +379,11 @@ XIX.- Las demás que les señalen la Constitución, esta Ley, su Reglamento o se
 
 DE LA SUSPENSION Y PERDIDA DEL CARACTER DE DIPUTADO.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 24.
 
-Los Diputados podrán ser suspendidos, destituidos o inhabilitados de su encargo en los términos del Título Undécimo de la Constitución y demás ordenamientos aplicables.
+Los Diputados podrán ser suspendidos o destituidos de su encargo e inhabilitados, en los términos del Título Undécimo de la Constitución y demás ordenamientos aplicables.
 
 ###### ARTICULO 25.
 
@@ -331,9 +393,9 @@ Los Diputados quedarán suspendidos de los derechos y obligaciones a que se refi
 
 I.- Por licencia concedida en los términos fijados por esta Ley;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-II.- Por resolución definitiva de la autoridad penal que ordene pena corporal; y
+II.- Por determinación o resolución definitiva de la autoridad competente; o
 
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2004)</small>
 
@@ -343,7 +405,9 @@ III.- Cuando se le suspenda su derecho a concurrir a sesiones por el tiempo que 
 
 El carácter de Diputado se perderá en los siguientes casos:
 
-I.- Por resolución que así lo determine, como resultado de juicio político instaurado en su contra;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+I.- Por resolución de autoridad competente que así lo determine;
 
 II.- Por sentencia judicial firme que declare el estado de interdicción;
 
@@ -371,7 +435,9 @@ La Comisión Instaladora tendrá a su cargo:
 
 I.- Recibir de la Oficialía Mayor:
 
-a).- Las constancias que los Consejos Municipales Electorales o el Consejo General Electoral hayan entregado a cada Diputado electo, conforme lo establece el Código Electoral del Estado; y
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+a).- Las constancias que la autoridad electoral administrativa haya entregado a cada Diputado electo, conforme lo establece el Código Electoral del Estado; y
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -385,9 +451,9 @@ II.- Coordinar, planear y ejecutar un seminario de capacitación dirigido a los 
 
 III.- Entregará entre el 15 y 20 de septiembre, credenciales de identificación y acceso a los Diputados electos que integrarán la nueva Legislatura;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-IV.- Citará de manera fehaciente, a los Diputados electos, a una junta previa que tendrá verificativo a las 11:00 horas del 25 de septiembre del año de la elección; y
+IV.- Citará de manera fehaciente, a los Diputados electos, a una junta previa que tendrá verificativo a las 11:00 horas del 25 de septiembre del año de la elección en el Recinto Legislativo; y
 
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
 
@@ -423,11 +489,11 @@ f).- El Presidente de la Directiva Provisional citará a sesión solemne de inst
 
 g).- Finalmente, el Presidente de la Directiva Provisional entregará la documentación a que se refiere la fracción IV del artículo anterior, al Presidente de la Directiva del primer período ordinario de sesiones, en la sesión de instalación de la Legislatura, quien en su momento los turnará a la Comisión de Gobierno.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 30.
 
-De conformidad con lo previsto por el párrafo primero del artículo 29 de la Constitución, el día 1° de octubre del año de la elección, a las 11:00 horas, se reunirán en sesión solemne y en el Recinto Legislativo del Congreso, los Diputados electos. Este acto será presidido por la Directiva Provisional.
+De conformidad con lo previsto por el párrafo primero del artículo 29 de la Constitución, el día 1º de octubre del año de la elección, a las 11:00 horas, se reunirán en sesión solemne en el Recinto Legislativo del Congreso, los Diputados electos. Este acto será presidido por la Directiva Provisional.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2016)</small>
 
@@ -435,15 +501,15 @@ De conformidad con lo previsto por el párrafo primero del artículo 29 de la Co
 
 Enseguida el Presidente de la Directiva Provisional pedirá a los secretarios pasen lista de presentes, si estos certifican la existencia del quórum, el Presidente lo declarará así e instará a los Diputados a que escojan entre sí en escrutinio secreto y por mayoría simple, a los integrantes de la Directiva que habrán de fungir durante el primer período ordinario de sesiones. En caso que no se lograre la mayoría simple para elegir la Directiva, después de tres rondas de votación, fungirán como Presidente, Vicepresidente, Secretarios y Suplentes, los Diputados de mayoría relativa que hayan obtenido del primero al quinto lugares, respectivamente, en cuanto al porcentaje de votos, en la elección correspondiente.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Si existe el número suficiente de Diputados para completar el quórum, pero no la totalidad de los integrantes del Congreso, la Directiva Provisional declarará la ausencia de los Diputados propietarios faltantes y se procederá a llamarlos por escrito para que se presenten dentro de los 5 días siguientes, indicando día y hora, apercibiéndolos que de no presentarse se entenderá que no aceptan el cargo y se llamará a los suplentes si se trata de diputados electos por el principio de mayoría relativa o al que siga en la lista si se trata de diputados plurinominales.
+Si existe el número suficiente de Diputados para completar el quórum, pero no la totalidad de los integrantes del Congreso, la Directiva Provisional declarará la ausencia de los Diputados propietarios faltantes y se procederá a llamarlos por escrito para que se presenten dentro de los 5 días siguientes, indicando día y hora, apercibiéndolos que de no presentarse se entenderá que no aceptan el cargo y se llamará a los suplentes si se trata de diputados electos por el principio de mayoría relativa, o al que siga en la lista si se trata de diputados de representación proporcional.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 32.
 
-En caso de no haber quórum, los Diputados presentes levantarán de inmediato una acta circunstanciada. Acto seguido procederán por escrito a compeler a los Diputados faltantes para que asistan a tomar posesión de sus cargos el 6 de octubre siguiente, a las 11:00 horas, apercibiéndolos que de no presentarse se entenderá que no aceptan su encargo y se llamará a los suplentes o a los que sigan en la lista de Diputados por el principio de representación proporcional, según sea el caso. Si en el día y la hora indicados en el párrafo anterior asiste el número suficiente de Diputados propietarios para completar el quórum, se procederá en los términos del artículo anterior. En caso contrario, los Diputados que asistan levantarán nuevamente un acta circunstanciada en la que asentarán la declaratoria de que los Diputados propietarios faltantes, en los términos del artículo 28 constitucional, no aceptaron su encargo. Acto seguido procederán por escrito a llamar a los Diputados suplentes o a los que por orden de prelación sigan en la lista si se trata de diputados plurinominales, para que se presenten el 11 de octubre, a las 11:00 horas, apercibiéndolos que de no presentarse se declarará vacante el puesto y se convocará a nuevas elecciones. Si en el día y la hora indicados en el párrafo anterior asiste el número suficiente de Diputados suplentes para completar el quórum, se procederá en los términos del artículo anterior. En caso contrario, los presentes declararán vacantes las diputaciones respectivas. Acto seguido, se elegirá por mayoría simple la Directiva del Congreso. A continuación el Presidente de la Directiva rendirá protesta en los términos del artículo 33 de esta Ley y posteriormente procederá a tomarla al resto de los Diputados presentes. Con el número de Diputados que hayan tomado protesta, la Legislatura integrada en estos términos, se considerará instalada para todos los efectos legales. La Directiva expedirá de inmediato el decreto que convoque a las elecciones de las diputaciones vacantes. La Directiva electa en los términos de este artículo fungirá como tal hasta que el Congreso quede completamente integrado. Las diputaciones plurinominales vacantes se cubrirán siguiendo el orden de prelación de las listas registradas por los partidos, de conformidad con la Ley Electoral. El Oficial Mayor en funciones será el responsable de notificar a los Diputados propietarios y suplentes faltantes los escritos a que se refiere el presente artículo. Será aplicable, en lo conducente, el Código de Procedimientos Civiles.
+En caso de no haber quórum, los Diputados presentes levantarán de inmediato un acta circunstanciada. Acto seguido procederán por escrito a compeler a los Diputados faltantes para que asistan a tomar posesión de sus cargos el 6 de octubre siguiente, a las 11:00 horas, apercibiéndolos que de no presentarse se entenderá que no aceptan su encargo y se llamará a los suplentes o a los que sigan en la lista de Diputados por el principio de representación proporcional, según sea el caso. Si en el día y la hora indicados en el párrafo anterior asiste el número suficiente de Diputados propietarios para completar el quórum, se procederá en los términos del artículo anterior. En caso contrario, los Diputados que asistan levantarán nuevamente un acta circunstanciada en la que asentarán la declaratoria de que los Diputados propietarios faltantes, en los términos del artículo 28 constitucional, no aceptaron su encargo. Acto seguido procederán por escrito a llamar a los Diputados suplentes o a los que por orden de prelación sigan en la lista de diputados de representación proporcional, para que se presenten el 11 de octubre, a las 11:00 horas, apercibiéndolos que de no presentarse se declarará vacante el puesto y se convocará a nuevas elecciones. Si en el día y la hora indicados en el párrafo anterior asiste el número suficiente de Diputados suplentes para completar el quórum, se procederá en los términos del artículo anterior. En caso contrario, los presentes declararán vacantes las diputaciones respectivas. Acto seguido, se elegirá por mayoría simple la Directiva del Congreso. A continuación, el Presidente de la Directiva rendirá protesta en los términos del artículo 33 de esta Ley y posteriormente procederá a tomarla al resto de los Diputados presentes. Con el número de Diputados que hayan tomado protesta, la Legislatura integrada en estos términos, se considerará instalada para todos los efectos legales. La Directiva expedirá de inmediato el decreto que convoque a las elecciones de las diputaciones vacantes. La Directiva electa en los términos de este artículo fungirá como tal hasta que el Congreso quede completamente integrado. Las diputaciones de representación proporcional vacantes se cubrirán siguiendo el orden de prelación de las listas registradas por los partidos, de conformidad con la Ley Electoral. El Oficial Mayor en funciones será el responsable de notificar a los Diputados propietarios y suplentes faltantes los escritos a que se refiere el presente artículo. Será aplicable, en lo conducente, el Código de Procedimientos Civiles.
 
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
 
@@ -479,11 +545,7 @@ El Gobernador del Estado y el Presidente del Supremo Tribunal de Justicia, asist
 
 - El Gobernador del Estado presentará un informe por escrito, en el que manifieste el estado general que guarda la administración pública de la Entidad y el cumplimiento del Plan Estatal de Desarrollo, el 1° de octubre de cada año, con motivo de la apertura de sesiones ordinarias del primer periodo de cada año de ejercicio del Congreso, en términos de lo dispuesto por el artículo 31 de la Constitución.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
-
-###### ARTICULO 36 Bis.
-
-El 30 de septiembre del último año de ejercicio de la Legislatura, en sesión solemne a la que asistirán los titulares de los Poderes Ejecutivo y Judicial, los Diputados declararán clausurada la Legislatura, pronunciándose las siguientes palabras: "EL DIA DE HOY, 30 DE SEPTIEMBRE DE (el año) SE DECLARAN CLAUSURADOS LOS TRABAJOS DE LA (su número) LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE COLIMA".
+ARTICULO 36 BIS.- (DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 ### CAPITULO II
 
@@ -523,17 +585,17 @@ En caso de ausencia del Presidente o cuando este debiera abandonar el Recinto, e
 
 De igual manera en ausencia justificada del Presidente, tendrá la representación legal del Congreso en los términos de la fracción II del artículo 42 de esta Ley.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 40.
 
-Los Secretarios y Suplentes designados ejercerán sus funciones por todo el período para el que hubiesen sido nombrados, sin que puedan ser reelectos para el período inmediato de sesiones, ni ser electos Presidentes durante el tiempo de su ejercicio. Alguno de los Suplentes cubrirán la falta temporal de cualquiera de los Secretarios a una sesión o cuando alguno debiere abandonar el Recinto por causa justificada; si en esta última hipótesis no se encontrare presente alguno de los dos Suplentes, el Congreso nombrará un Secretario para dicha sesión.
+Los Secretarios y Suplentes designados ejercerán sus funciones por todo el período para el que hubiesen sido nombrados, sin que puedan ser electos Presidentes durante el tiempo de su ejercicio. Alguno de los Suplentes cubrirán (sic) la falta temporal de cualquiera de los Secretarios a una sesión o cuando alguno debiere abandonar el Recinto por causa justificada; si en esta última hipótesis no se encontrare presente alguno de los dos Suplentes, el Congreso nombrará un Secretario para dicha sesión.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 41.
 
-Si no se logra la mayoría simple para elegir Presidente, Vicepresidente o a la Directiva completa, fungirán como tales los Diputados que sigan en el orden señalado en el artículo 31 de esta Ley, respectivamente, en cuanto al porcentaje de votos, en la elección correspondiente. A partir del décimo sexto lugar, se continuará con el orden de prelación que los Diputados Plurinominales hayan tenido en las listas registradas, tomando uno de cada partido, comenzando por el que haya obtenido el mayor número de votos. Cuando se haya completado la totalidad de Diputados, iniciarán nuevamente el orden previsto en el artículo 31 de este ordenamiento.
+Si después de dos rondas no se logra la mayoría simple para elegir Presidente, Vicepresidente o a la Directiva completa, fungirán como tales los Diputados que sigan en el orden señalado en el artículo 31 de esta Ley, respectivamente, en cuanto al porcentaje de votos, en la elección correspondiente. A partir del décimo sexto lugar, se continuará con el orden de prelación que los diputados de representación proporcional hayan tenido en las listas registradas, tomando uno de cada partido, comenzando por el que haya obtenido el mayor número de votos. Cuando se haya completado la totalidad de Diputados, iniciarán nuevamente el orden previsto en el artículo 31 de este ordenamiento.
 
 ### CAPITULO III
 
@@ -557,7 +619,9 @@ V.- Declarar el quórum o la falta de éste;
 
 VI.- Integrar, en unión de los Secretarios, el orden del día tomando en consideración las proposiciones de la Comisión de Gobierno y someterlo a la aprobación del Congreso al inicio de cada sesión;
 
-VII.- Informar sobre la justificación de las ausencias de los Diputados a las sesiones y someter a la consideración del Congreso los casos de faltas injustificadas, para los efectos correspondientes;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+VII.- Informar sobre la justificación de las ausencias de los Diputados a las sesiones y someter a la consideración del Congreso los casos de faltas injustificadas, para los efectos del artículo 21 de esta Ley;
 
 VIII.- Conducir los debates;
 
@@ -565,15 +629,17 @@ IX.- Dar curso reglamentario a los negocios y determinar los trámites que deban
 
 X.- Someter a discusión y votación los dictámenes que presenten las Comisiones;
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XI.- Conceder la palabra alternativamente en pro y en contra, a los Diputados que se inscriban previamente ante el Presidente de la Mesa Directiva;
+XI.- Conceder la palabra alternativamente en pro y en contra, a los Diputados que se inscriban previamente ante el Presidente de la Mesa Directiva, en términos del Reglamento;
 
 XII.- Exhortar a los Diputados a guardar orden y respeto durante el desarrollo de las sesiones;
 
 XIII.- Exigir orden y compostura al público asistente a las sesiones e imponerlo cuando hubiere motivo para ello o altere el desarrollo de las sesiones;
 
-XIV.- Ordenar el desalojo del público asistente a las sesiones cuando hubiere motivo para ello;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XIV.- Ordenar el desalojo del público asistente a las sesiones o parte de este, cuando hubiere motivo para ello;
 
 XV.- Solicitar el auxilio de la fuerza pública cuando fuere necesario;
 
@@ -583,7 +649,9 @@ XVII.- Asistir con voz pero sin voto, a las reuniones de la Comisión de Gobiern
 
 XVIII.- Firmar con los Secretarios, las resoluciones propias del Congreso establecidas en la Constitución, así como los nombramientos de los servidores públicos del Congreso y tomarles la protesta de ley;
 
-XIX.- Proponer al Congreso las comisiones especiales de protocolo;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XIX.- Comunicar al Congreso las comisiones especiales de protocolo, previo consenso con los integrantes;
 
 > <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -599,9 +667,9 @@ XXIII.- Motivar a las comisiones para que presenten sus dictámenes en los tiemp
 
 XXIV.- Exhortar a los Diputados que falten a sesiones, para que concurran a las siguientes;
 
-> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XXV.- Proponer la modificación del orden del día, cuando se trate de casos de obvia y urgente resolución en los que el Congreso del Estado tenga que tomar una determinación, debiendo ser aprobado por la Asamblea; y
+XXV.- Proponer la modificación del orden del día, cuando se trate de casos de obvia y urgente resolución en los que el Congreso del Estado tenga que tomar una determinación o a propuesta de la Comisión de Gobierno, debiendo ser aprobado por la Asamblea; y
 
 > <small>(REFORMADA, P.O. 21 DE JULIO DE 2007)</small>
 
@@ -631,11 +699,13 @@ I.- Auxiliar al Presidente para el buen desempeño de sus funciones;
 
 II.- Vigilar la preparación y el orden de los asuntos en cartera con que se dará cuenta al Congreso;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-III.- Pasar lista de asistencia, verificar la existencia del quórum, y cuidar que hayan sido enviados a los Diputados, previamente a la sesión, por medio electrónico, el orden del día, el acta de la sesión anterior y la síntesis de comunicaciones, con el objeto de que pueda solicitarse la dispensa de lectura de dichos documentos;
+III.- Pasar lista de asistencia, verificar la existencia del quórum, y cuidar que hayan sido enviados a los Diputados y publicados en la Gaceta Parlamentaria en los términos correspondientes, el orden del día, el acta de la sesión anterior y la síntesis de comunicaciones, con el objeto de que pueda solicitarse la dispensa de lectura de dichos documentos;
 
-IV.- Dar lectura a las iniciativas de ley o decreto que no sean iniciadas por los diputados;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+IV.- Suplir, en el orden en que fueron elegidos, las ausencias momentáneas del Presidente;
 
 V.- Recabar y contar los votos de los Diputados, comunicando el resultado al Presidente;
 
@@ -657,11 +727,15 @@ XI.- Supervisar las funciones de la Oficialía Mayor en cuanto a la Secretaría 
 
 XII.- Proporcionar la documentación necesaria para la edición del Diario de los Debates;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 XIII.- Turnar, una vez aprobado, el proyecto anual de presupuesto de egresos del Poder Legislativo al Gobernador del Estado, para los efectos de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado;
 
-XIV.- Las demás que se deriven de esta ley, el Reglamento o de las disposiciones o acuerdos que emita el Congreso.
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XIV.- Publicar los documentos correspondientes en la Gaceta Parlamentaria; y
+
+XV.- Las demás que se deriven de esta ley, el Reglamento o de las disposiciones o acuerdos que emita el Congreso.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
@@ -689,9 +763,7 @@ Tendrán derecho a voz y voto los coordinadores de los Grupos Parlamentarios acr
 
 La Presidencia de la Comisión de Gobierno Interno deberá elegirse democráticamente mediante el voto de los coordinadores parlamentarios y Diputados Únicos, en función del número de Diputados que representen cada uno de ellos, en relación con el total que integren el Congreso, resultando electa la propuesta que sume el mayor número de votos. En caso de que ninguno de ellos alcance la mayoría de votos, la presidencia recaerá en el Coordinador del Grupo Parlamentario que tenga, al momento de dicha elección, el mayor número de Diputados. En el caso de que dos o más Grupos Parlamentarios tengan igual número de Diputados, la presidencia la tendrá el del partido político que haya obtenido mayor número de diputaciones de Mayoría Relativa. Si tuvieran el mismo número de Diputados de mayoría, la preeminencia la tendrá el que tuviera mayor cantidad de votos en la elección de Diputados.
 
-> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
-
-ARTICULO 47 BIS.- La Diputada o el Diputado que asuma la Presidencia de la Comisión de Gobierno Interno no podrá, simultáneamente, ocupar la Presidencia de la Directiva del Congreso del Estado.
+ARTICULO 47 BIS.- (DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
@@ -699,11 +771,11 @@ ARTICULO 47 BIS.- La Diputada o el Diputado que asuma la Presidencia de la Comis
 
 Las resoluciones de la Comisión de Gobierno Interno serán tomadas por mayoría. Cada Coordinador tendrá los votos que correspondan al número de Diputados que formen parte de su grupo parlamentario; el voto de cada Diputada o Diputado Único se computará como un solo voto.
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 49.
 
-La Comisión de Gobierno Interno deberá reunirse cuando menos una vez por semana durante los períodos ordinarios y, fuera de estos, cuando sea necesario. Las reuniones ordinarias serán convocadas, por escrito, con 24 horas de anticipación, por el Presidente de la Comisión; en el caso de las reuniones extraordinarias, la convocatoria deberá expedirse con al menos 06 horas de anticipación, pudiendo reunirse en cualquier tiempo, siempre que estén presentes la totalidad de sus integrantes. Sus trabajos los desarrollará de conformidad con lo establecido por esta Ley y su Reglamento en lo relativo a las comisiones legislativas.
+La Comisión de Gobierno Interno deberá reunirse cuando menos cuatro veces al mes durante los períodos ordinarios y, fuera de estos, cuando sea necesario. Las reuniones ordinarias serán convocadas, por escrito, con 24 horas de anticipación, por el Presidente de la Comisión; en el caso de las reuniones extraordinarias, la convocatoria deberá expedirse con al menos 06 horas de anticipación, pudiendo reunirse en cualquier tiempo, siempre que estén presentes la totalidad de sus integrantes. Sus trabajos los desarrollará de conformidad con lo establecido por esta Ley y su Reglamento en lo relativo a las comisiones legislativas.
 
 ###### ARTICULO 50.
 
@@ -727,15 +799,19 @@ V.- Elaborar, conjuntamente con la Comisión de Hacienda y Presupuesto y Fiscali
 
 VI.- Ejercer el presupuesto de egresos del Poder Legislativo e informar por escrito trimestralmente a la Asamblea;
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-VII.- Autorizar las condiciones generales de trabajo de los servidores públicos del Congreso, a propuesta de la Oficialía Mayor; y
+VII.- Autorizar las condiciones generales de trabajo de los servidores públicos del Congreso, a propuesta de la Oficialía Mayor;
 
 VIII.- (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-> <small>(F. DE E. P.O. 27 DE MARZO DE 1999)</small>
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-IX.- Las demás que le confieran esta Ley, el Reglamento o de las disposiciones o acuerdos que emita el Congreso.
+IX.- Declarar días inhábiles; y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XI (SIC).- Las demás que le confieran esta Ley, el Reglamento o de las disposiciones o acuerdos que emita el Congreso.
 
 ###### ARTICULO 51.
 
@@ -995,9 +1071,9 @@ V. Acreditar experiencia profesional mínima de cinco años.
 
 Las faltas temporales hasta por treinta días de la persona titular de la Oficialía Mayor serán suplidas, con el carácter de Encargado del Despacho, por la persona que designe la Comisión de Gobierno Interno y Acuerdos Parlamentarios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-ARTICULO 63 BIS.- La Contraloría Interna es el órgano técnico de control y evaluación de los servidores públicos del Poder Legislativo; dispondrá de facultades de fiscalización, auditoría interna, vigilancia, transparencia, rendición de cuentas, investigación, substanciación y sanción de las responsabilidades administrativas en que estos incurran. Sus atribuciones, facultades y estructura orgánica estarán consignadas en el Reglamento respectivo.
+ARTICULO 63 BIS.- La Contraloría Interna es el órgano técnico encargado de promover, evaluar y fortalecer el buen funcionamiento del control interno en el Congreso; dispondrá de facultades de fiscalización, auditoría interna, vigilancia, transparencia, rendición de cuentas, investigación, substanciación y sanción de las responsabilidades administrativas en que estos incurran. Sus atribuciones, facultades y estructura orgánica estarán consignadas en el Reglamento respectivo.
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
@@ -1025,7 +1101,9 @@ ARTICULO 63 TER.- El Instituto de Profesionalización e Investigaciones Parlamen
 
 El Instituto de Profesionalización e Investigaciones Parlamentarias se regirá por una Junta de Gobierno, la cual estará integrada por:
 
-I. Una Presidencia, que estará a cargo de la persona titular de la Presidencia de la Comisión de Gobierno Interno;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+I. Una Presidencia, que estará a cargo de la persona titular de la Presidencia de la Comisión de Gobierno;
 
 II. Una Secretaría, que estará a cargo de la persona titular de la Dirección del Instituto de Profesionalización e Investigaciones Parlamentarias; y
 
@@ -1037,11 +1115,25 @@ b) A la persona titular de la Presidencia o integrante de la Comisión de Estudi
 
 c) A la persona titular de la Presidencia o integrante de la Comisión de Educación y Cultura;
 
-d) A la persona titular de la Presidencia o integrante de la Comisión de Justicia, Gobernación y Poderes; y
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-e) A la persona titular de la Presidencia o integrante de la Comisión de Economía.
+d) A la persona titular de la Presidencia o integrante de la Comisión de Justicia, Gobernación y Poderes;
 
-La Dirección del Instituto estará a cargo de una persona titular de la misma, quien será nombrada por el Congreso, a propuesta de la Comisión de Gobierno Interno, misma que, para tal efecto, emitirá una convocatoria pública y, además, entrevistará a cada una de las personas interesadas en ocupar el cargo.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+e) A la persona titular de la Presidencia o integrante de la Comisión de Economía;
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+f) A la persona titular de la Presidencia o integrante de la Comisión de Sistema Estatal Anticorrupción; y
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+g) A la persona titular de la Presidencia o integrante de la Comisión de Transparencia y Acceso a la Información.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+La Dirección del Instituto estará a cargo de una persona titular de la misma, quien será nombrada por el Congreso, a propuesta de la Comisión de Gobierno, misma que, para tal efecto, emitirá una convocatoria pública y, además, entrevistará a cada una de las personas interesadas en ocupar el cargo.
 
 > <small>(ADICIONADO [CON SUS FRACCIONES], P.O. 10 DE ENERO DE 2019)</small>
 
@@ -1131,9 +1223,11 @@ La sesión se considera como el tiempo de reunión, necesario y efectivo que por
 
 Las sesiones del Congreso serán: ordinarias o extraordinarias, podrán ser públicas o secretas, permanentes, solemnes, de jurado de acusación o de declaración de procedencia.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 73.
 
-Durante los períodos ordinarios, el Congreso celebrará sesiones cuantas veces sea necesario, para el oportuno despacho de los negocios de su competencia, debiendo hacerlo, cuando menos, una vez por semana. Lo acontecido en estas será consignado en el Libro de Actas correspondiente y publicado en el Periódico Oficial del Estado; igualmente quedará asentado en el Diario de Debates del Congreso.
+Durante los periodos ordinarios, el Congreso celebrará sesiones cuantas veces sea necesario, para el oportuno despacho de los negocios de su competencia, debiendo hacerlo, cuando menos, cuatro veces por mes. Lo acontecido en estas será consignado en el Libro de Actas correspondiente y publicado en el Periódico Oficial del Estado; igualmente quedará asentado en el Diario de Debates del Congreso.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1141,11 +1235,13 @@ Durante los períodos ordinarios, el Congreso celebrará sesiones cuantas veces 
 
 En las sesiones, los Diputados ocuparán las curules sin preferencia alguna en el Recinto Legislativo, excepto en el presidium, donde se instalará la Directiva.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 75.
 
-Las sesiones del Congreso se celebrarán en los días y horas en que sean convocadas y podrán ser diferidas, previo acuerdo emitido por la Comisión de Gobierno Interno y Acuerdos Parlamentarios y del Presidente de la Mesa Directiva o de la Comisión Permanente.
+Las sesiones del Congreso se celebrarán en los días y horas en que sean convocadas y podrán ser diferidas, previo acuerdo emitido por la Comisión de Gobierno y del Presidente de la Mesa Directiva o de la Comisión Permanente.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
 El acta de la sesión con la que se clausura un período ordinario, las funciones de la Comisión Permanente y las de cada una de las sesiones extraordinarias deberán ser discutidas y aprobadas en la misma sesión.
 
@@ -1197,15 +1293,21 @@ e).- Rinda el Gobernador el informe preceptuado en el artículo 31 de la Constit
 
 f).- Ocurran en visita delegaciones parlamentarias del Congreso de la Unión, de los Congresos de los Estados o de otros países;
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-g).- Rindan protesta los Magistrados de los Tribunales Administrativos y Electorales; los Consejeros del Instituto Electoral del Estado y el Presidente y Consejeros de la Comisión de Derechos Humanos del Estado, de acuerdo con las leyes respectivas;
+g).- Rindan protesta los integrantes de los Poderes Públicos del Estado y de los órganos constitucionales autónomos, que por disposición legal deban hacerlo ante el Congreso del Estado, de acuerdo con las leyes respectivas;
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 h).- Se imponga alguna presea o reconocimiento instituidos por el Congreso;
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-i).- Inicie el primer período ordinario de sesiones de cada año de ejercicio constitucional de la Legislatura.
+i).- Inicie el primer período ordinario de sesiones de cada año de ejercicio constitucional de la Legislatura; y
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+j).- Las demás que así lo establezcan las leyes.
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2007)</small>
 
@@ -1305,11 +1407,23 @@ III.- Es iniciativa de acuerdo, toda resolución del Congreso que, por su natura
 
 IV.- Es iniciativa de acuerdo económico, toda resolución del Congreso que sólo tiene efectos en su administración interna o de sus dependencias.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+El orden que se seguirá para la presentación de iniciativas en asuntos generales, será conforme se turnen para su publicación en la Gaceta Parlamentaria, atendiendo a la clasificación siguiente:
+
+I. Iniciativas de Ley o Decreto en primer término; y
+
+II. Iniciativas de Acuerdo o Acuerdo Económico en segundo término.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Una vez presentadas las iniciativas, se procederá a la presentación de posicionamientos que, en su caso, deseen realizar las y los Diputados sobre temas de su interés.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 85.
 
-Las iniciativas se turnarán por medio electrónico a las comisiones legislativas, si la iniciativa presenta dudas acerca de su naturaleza, la Asamblea decidirá lo que en derecho proceda y formularán el dictamen correspondiente.
+Las iniciativas se turnarán por medio electrónico a las comisiones legislativas y se publicarán en la Gaceta Parlamentaria; si la iniciativa presenta dudas acerca de su naturaleza, la Asamblea decidirá lo que en derecho proceda y formularán el dictamen correspondiente.
 
 ###### ARTICULO 86.
 
@@ -1325,9 +1439,9 @@ Las iniciativas de punto de acuerdo o de acuerdo económico provenientes de los 
 
 Para efectos de lo dispuesto en el párrafo anterior, será requisito que los diputados entreguen dichas iniciativas a la Mesa Directiva antes del inicio de la sesión que corresponda, y se hagan del conocimiento de todos los legisladores.
 
-> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Las iniciativas de punto de acuerdo o acuerdo económico que no sean dadas a conocer a los legisladores antes del inicio de la sesión, no podrán ser discutidas y votadas como lo previene el primer párrafo del presente artículo; y se turnarán a la Oficialía Mayor para ser discutidas y votadas en la siguiente sesión ordinaria.
+Las iniciativas de punto de acuerdo o acuerdo económico que no sean dadas a conocer a los legisladores y que no sean publicadas en la Gaceta Parlamentaria con un mínimo de 24 horas antes del inicio de la sesión, no podrán ser discutidas y votadas como lo previene el primer párrafo del presente artículo; y se turnarán a la Oficialía Mayor para ser discutidas y votadas en la siguiente sesión ordinaria.
 
 > <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
@@ -1373,9 +1487,9 @@ VI.- Conclusiones o puntos resolutivos;
 
 VII.- Fecha y espacio para el nombre y la firma de los diputados; y
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-VIII.- Los anexos correspondientes a las opiniones técnicas jurídicas y respuestas o acuses de recibido por parte de Secretarías del Poder Ejecutivo, Ayuntamientos, Organismos Descentralizados y Órganos Autónomos, en cuanto a impacto de leyes, así como impactos presupuestarios que sean remitidos por cualquiera de las autoridades mencionadas.
+VIII.- En su caso, los anexos correspondientes a las opiniones técnicas jurídicas y respuestas o acuses de recibido por parte de las Secretarías del Poder Ejecutivo, Ayuntamientos, Organismos Descentralizados y Órganos Autónomos, en cuanto a impacto de leyes, así como impactos presupuestarios que sean remitidos por cualquiera de las autoridades mencionadas.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
 
@@ -1387,11 +1501,15 @@ Una vez firmados los dictámenes, en favor o en contra, por la mayoría de los m
 
 Las comisiones procederán a estudiar, analizar y dictaminar las iniciativas de ley, de decreto y de acuerdo de conformidad a las atribuciones que les da esta Ley y su Reglamento y presentarán por escrito su dictamen en un plazo no mayor de 30 días hábiles contados a partir del día siguiente de recibir los expedientes respectivos, salvo que medie acuerdo de la Asamblea para ampliar este plazo.
 
-> <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 93.
 
-Presentados los dictámenes se les dará lectura y concluida la misma, el Congreso acordará si se procede a la discusión y votación o se produce una segunda lectura, en cuyo caso ésta se remitirá a la siguiente sesión. Las discusiones y los trámites se sujetarán a lo que disponga el Reglamento.
+Presentados los dictámenes, el Congreso acordará si se procede a la discusión y votación. Las discusiones y trámites se sujetarán a lo que disponga el Reglamento.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 93 BIS.- Las Minutas Proyecto de Decreto que modifiquen la Constitución Política de los Estados Unidos Mexicanos, serán turnadas a la Comisión o Comisiones competentes por la Presidencia del H. Congreso del Estado o de la Comisión Permanente, a más tardar al día siguiente de su recepción en forma física o electrónica, informándose de ello a los demás integrantes de la Legislatura y se seguirán el trámite, plazos y términos que se disponen en el artículo 134 Bis del Reglamento.
 
 ### CAPITULO IV
 
@@ -1413,7 +1531,11 @@ I.- Mayoría simple, la correspondiente a más de la mitad de los Diputados pres
 
 II.- Mayoría absoluta, la correspondiente a más de la mitad de los Diputados que integran el Congreso; y
 
-III.- Mayoría calificada, la correspondiente a cuando menos las dos terceras partes de los Diputados integrantes del Congreso.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+III.- Mayoría calificada, la correspondiente a cuando menos las dos terceras partes de los Diputados presentes en la sesión del Congreso.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 Cuando en la Constitución o en una ley se señale una mayoría diferente, se estará a lo que dispongan dichos ordenamientos. En todos los casos, cuando la mayoría resulte en fracciones, se estará al entero inmediato superior.
 
@@ -1519,11 +1641,11 @@ La Comisión Permanente por conducto de su Presidente o Vicepresidente en su cas
 
 Cuando el Congreso sea convocado a sesión o período extraordinario, al inicio de aquella o en la primera de este, la Asamblea elegirá una Mesa Directiva para desahogar los asuntos por los que fue convocado, misma que concluirá sus funciones al momento de agotarlos o que se inicie un período ordinario. La Comisión Permanente continuará en funciones, una vez que concluya la sesión o período extraordinario.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 108.
 
-La Comisión Permanente sesionará por lo menos una vez por semana, pudiendo diferirlas previo acuerdo de la Comisión de Gobierno Interno y Acuerdos Parlamentarios y el Presidente de la Comisión Permanente. Para que puedan instalarse validamente las sesiones de la Comisión Permanente, se requiere la asistencia de la mayoría de los integrantes.
+La Comisión permanente sesionará por lo menos una vez por semana pudiendo diferirlas previo acuerdo de la Comisión de Gobierno y el Presidente de la Comisión Permanente. Para que puedan instalarse válidamente las sesiones de la Comisión Permanente, se requiere la asistencia de la mayoría de los integrantes.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1798,3 +1920,11 @@ P.O. 2 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 35 POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 58 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al momento de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 193 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y DE SU REGLAMENTO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto, deberá iniciar su funcionamiento la Gaceta Parlamentaria.
