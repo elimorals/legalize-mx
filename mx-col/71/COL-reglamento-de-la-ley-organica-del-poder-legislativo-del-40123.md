@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2019-01-10"
+last_updated: "2019-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "COL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE ENERO DE 2020 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -223,11 +225,13 @@ Cuando algún Diputado solicite licencia, se procederá de la siguiente manera:
 
 I.- Dirigirá escrito a la Directiva del Congreso o a la Comisión Permanente, señalando los motivos que justifiquen la petición;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-II.- Recibida la petición, se turnará a la Comisión de Justicia, Gobernación y Poderes para su análisis, discusión y dictamen correspondiente, mismo que de ser aprobatorio contendrá el proyecto de acuerdo; y
+II.- Recibida la petición, se turnará a la Comisión de Justicia, Gobernación y Poderes, para que ésta sin mayor trámite emita el Dictamen aprobatorio; y
 
-III.- Presentado el dictamen a la Asamblea, si es favorable, se expedirá el acuerdo correspondiente y, en su caso, se ordenará citar al mismo tiempo al suplente, quien dentro de los cinco días hábiles siguientes rendirá la protesta de ley.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+III.- Presentado el dictamen a la Asamblea, se expedirá el acuerdo correspondiente y, en su caso, se ordenará citar al mismo tiempo al suplente, quien dentro de los cinco días hábiles siguientes rendirá la protesta de ley.
 
 El Diputado Suplente, una vez que rinda protesta, se incorporará de inmediato a las Comisiones y demás trabajos asignados al propietario.
 
@@ -341,9 +345,11 @@ k).- El Presidente de la Directiva Provisional nombrará dos comisiones de corte
 
 l).- (DEROGADO, P.O. 21 DE JULIO DE 2007)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 24.
 
-Reunidos los Diputados electos el día y hora señalados por el párrafo primero del artículo 28 de la Constitución y 30 de la Ley, se procederá de la siguiente manera:
+Reunidos los Diputados electos el día y hora señalados por el párrafo primero del artículo 29 de la Constitución y 30 de la Ley, se procederá de la siguiente manera:
 
 a).- Uno de los Secretarios procederá a pasar lista de asistencia e informará al Presidente del resultado;
 
@@ -353,9 +359,9 @@ c).- En caso de no lograrse la mayoría simple para elegir a la Directiva, en la
 
 d).- Reanudada la sesión, se efectuará una segunda ronda de votación y de no obtenerse la mayoría simple, se declarará otro receso de veinte minutos y si después de una tercera ronda no se puede elegir a la Mesa Directiva se declarará un último receso;
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-e).- Al reanudarse la sesión, el Presidente declarará quiénes, en los términos del segundo párrafo del artículo 31 de la Ley, ocuparán los cargos de Presidente, Vicepresidente, Secretarios y Suplentes de estos, respectivamente, durante el primer período ordinario de sesiones, invitándolos a que pasen a ocupar sus lugares y haciéndoles entrega de la documentación recibida de la Comisión Instaladora;
+e).- Al reanudarse la sesión, el Presidente declarará quiénes, en los términos del primer párrafo del artículo 31 de la Ley, ocuparán los cargos de Presidente, Vicepresidente, Secretarios y Suplentes de estos, respectivamente, durante el primer período ordinario de sesiones, invitándolos a que pasen a ocupar sus lugares y haciéndoles entrega de la documentación recibida de la Comisión Instaladora;
 
 f).- Continuando con la sesión y puestos de pié los integrantes de la Legislatura, invitados y público en general, el Presidente rendirá protesta en los términos del tercer párrafo del artículo 33 de la Ley y a continuación les tomará la protesta a los demás integrantes del Congreso;
 
@@ -373,9 +379,9 @@ Si existe quórum, pero no está la totalidad de los integrantes del Congreso, a
 
 De no existir quórum, la Directiva Provisional levantará acta circunstanciada que será firmada por los Diputados presentes y procederá a compeler por escrito a los Diputados faltantes, convocándolos a sesión para el día 6 de octubre, a partir de las 11:00 horas, con el apercibimiento legal respectivo.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Si el día y hora señalados en el párrafo anterior existe quórum, se desarrollará la sesión en los términos del artículo 24 de este Reglamento; en caso contrario, nuevamente se levantará acta circunstanciada, en la que se declarará que los Diputados Propietarios faltantes, no aceptaron su cargo y se procederá a llamar a los Diputados suplentes o siguientes de la lista de diputados plurinominales para que comparezcan el día 11 de octubre a partir de las 11:00 horas, con el apercibimiento de que si no comparecen, se declarará vacante el puesto y se convocará a elecciones extraordinarias.
+Si el día y hora señalados en el párrafo anterior existe quórum, se desarrollará la sesión en los términos del artículo 24 de este Reglamento; en caso contrario, nuevamente se levantará acta circunstanciada, en la que se declarará que los Diputados Propietarios faltantes, no aceptaron su cargo y se procederá a llamar a los Diputados suplentes o siguientes de la lista de diputados de representación proporcional para que comparezcan el día 11 de octubre a partir de las 11 :00 horas, con el apercibimiento de que si no comparecen, se declarará vacante el puesto y se convocará a elecciones extraordinarias.
 
 De existir quórum el día y hora indicados en el párrafo anterior, se desarrollará la sesión en los términos del artículo 24 de este Reglamento; en caso contrario, la Directiva Provisional declarará vacantes las Diputaciones respectivas y se elegirá por mayoría simple la Directiva del Congreso.
 
@@ -383,9 +389,9 @@ A continuación, el Presidente rendirá protesta en los términos del tercer pá
 
 El presidente declarará un receso, para el efecto de que la Directiva prepare el dictamen de Decreto que convoca a elecciones extraordinarias de las diputaciones de mayoría vacantes. Reanudada la sesión, se procederá al análisis y aprobación, en su caso, del Decreto mencionado.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Las Diputaciones plurinominales vacantes, se cubrirán siguiendo el orden de prelación de las listas registradas por los partidos.
+Las Diputaciones de representación proporcional vacantes, se cubrirán siguiendo el orden de prelación de las listas registradas por los partidos.
 
 > <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
@@ -435,35 +441,17 @@ Si la ausencia del Presidente y del Vicepresidente se presentare en la primera s
 
 Si durante el desarrollo de una sesión, el Presidente hubiere de abandonarla por cualquier motivo y el Vicepresidente estuviere ausente, la Asamblea le otorgará autorización para su retiro y elegirá, siguiendo el procedimiento del artículo 27 de este Reglamento, a quien deba suplirlo por el término de la sesión.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 33.
 
-Los Secretarios y Suplentes designados no podrán ser electos para los cargos de Presidente o Vicepresidente durante el tiempo de su ejercicio, ni tampoco reelectos para el período inmediato de sesiones.
+Los Secretarios y Suplentes designados no podrán ser electos para los cargos de Presidente o Vicepresidente durante el tiempo de su ejercicio.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 34.
 
-Además de las facultades y atribuciones que el artículo 42 de la Ley le confiere al Presidente, tendrá las siguientes:
-
-I.- Someter a discusión y votación los dictámenes que presenten las Comisiones y una vez tomadas las votaciones, declarará lo conducente;
-
-II.- Firmar con los Secretarios, las resoluciones del Congreso, así como las actas de las sesiones después de su aprobación;
-
-III.- Erigir al Congreso en Órgano de Acusación en los términos de la Constitución y de la Ley de Juicio Político del Estado de Colima;
-
-IV.- Firmar con los Secretarios el documento de remisión al Gobernador del Estado, del proyecto de presupuesto anual de egresos del Poder Legislativo, para los efectos previstos por la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Colima;
-
-V.- Exhortar a las Comisiones para que presenten sus dictámenes en los tiempos reglamentarios y de ser necesario, proponer a la Asamblea que pasen a otra Comisión, o en su caso, se integre una especial para dictaminar algún asunto en particular;
-
-VI.- Rendir los informes previo y justificado, en los Juicios de Amparo, en los que el Congreso sea señalado como autoridad responsable;
-
-VII.- Ordenar a la Secretaría, que dé aviso a los Titulares de los Poderes Ejecutivo y Judicial y a los Ayuntamientos, en su caso, de manera oportuna y por escrito, del día en que se someterá a discusión de la Asamblea, algún asunto o iniciativa de su interés, para los efectos legales conducentes;
-
-VIII.- Poner a la consideración de los Diputados el acta de la sesión anterior y en su oportunidad someterla a su aprobación. Cuando el acta y la síntesis de comunicaciones hayan sido distribuidas previamente a los Diputados, podrá solicitarse a la Asamblea en votación económica la dispensa (sic) la lectura de ambos documentos; y
-
-IX.- Las demás que determine este Reglamento o los acuerdos que internamente emita la Asamblea.
+El Presidente del Congreso puesto de pie, al igual que los demás Diputados y el público asistente, pronunciará las siguientes palabras: "SE DECLARA LEGITIMA Y SOLEMNEMENTE INSTALADA LA (su número ordinal) LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA".
 
 ###### Artículo 35.
 
@@ -477,9 +465,9 @@ Cuando se materialice la hipótesis prevista por el artículo 43 de la Ley, un D
 
 Además de las facultades y atribuciones que el artículo 45 de la Ley le confiera a los Secretarios, tendrán las siguientes:
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-I.- Pasar lista de asistencia, verificar la existencia del quórum, dar a conocer el orden del día que se propone y cuidar que éste, el acta de la sesión anterior y la síntesis de comunicaciones de cada sesión, hayan sido enviados previamente a los diputados por medio electrónico, con el objeto de que pueda solicitarse la dispensa del trámite de lectura de dichos documentos;
+I.- Pasar lista de asistencia, verificar la existencia del quórum, dar a conocer el orden del día que se propone y cuidar que éste, el acta de la sesión anterior y la síntesis de comunicaciones de cada sesión, hayan sido enviados previamente a los diputados y publicados en la Gaceta Parlamentaria, con el objeto de que pueda solicitarse la dispensa del trámite de lectura de dichos documentos;
 
 II.- Cuidar que se redacten las actas de las sesiones en forma fidedigna, firmarlas después de aprobadas y asentarlas en el libro respectivo;
 
@@ -489,9 +477,9 @@ III.- Turnar, conjuntamente con el Presidente, una vez aprobado, el proyecto anu
 
 IV.- Vigilar que la Oficialía Mayor del Congreso, a través de la dependencia correspondiente, lleve debidamente los libros de Iniciativas, de Leyes y Decretos, Acuerdos y Actas de la Cámara;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-V.- Cuidar que los dictámenes se entreguen oportunamente por medio electrónico a los Diputados, en los términos del artículo 135 de este Reglamento; y
+V.- Cuidar que los dictámenes se entreguen oportunamente a los Diputados y sean publicados en la Gaceta Parlamentaria, en los términos del artículo 131 de este Reglamento; y
 
 > <small>(ADICIONADA, P.O. 21 DE JULIO DE 2007)</small>
 
@@ -531,11 +519,11 @@ En caso de cambio del Coordinador del Grupo Parlamentario que presida la Comisi�
 
 Tendrán derecho a voz y voto los Coordinadores de los Grupos Parlamentarios o sus Suplentes acreditados y los Diputados Únicos; los Diputados que sin ser parte de la Comisión de Gobierno Interno y Acuerdos Parlamentarios, asistan a las sesiones de ésta, tendrán exclusivamente derecho a voz.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 40.
 
-La Comisión de Gobierno Interno se reunirá por lo menos una vez por semana, durante los períodos ordinarios de sesiones; y fuera de estos las veces que sean necesarias. Las reuniones ordinarias serán convocadas, por escrito, con 24 horas de anticipación, por el Presidente de la Comisión y contendrán la propuesta de asuntos a tratar en la orden del día.
+La Comisión de Gobierno se reunirá por lo menos cuatro veces al mes, durante los períodos ordinarios de sesiones; y fuera de éstos las veces que sean necesarias. Las reuniones serán convocadas, por escrito, con 24 horas de anticipación, por el Presidente de la Comisión y contendrán la propuesta de asuntos a tratar en la orden del día.
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
@@ -571,13 +559,19 @@ III. No haber sido dictada sentencia en su contra en un proceso penal por delito
 
 IV. Contar con título y cédula profesional, debidamente registrados, en la Licenciatura en derecho;
 
-Son facultades y obligaciones de la persona titular de la Secretaría Técnica de la Comisión de Gobierno Interno y Acuerdos Parlamentarios:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Son facultades y obligaciones de la persona titular de la Secretaría Técnica de la Comisión de Gobierno:
 
 I.- La planeación y programación técnica de las sesiones, elaborar el protocolo y ceremonial de su desarrollo y la asistencia a la Presidencia de la Comisión para el desarrollo de las mismas;
 
-II.- Elaboración y revisión de las minutas que elabore la comisión, así como su remisión correspondiente;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-III.- Integrar el anteproyecto de orden del día, al que deberá acompañar el acta de la sesión anterior, debiendo enviarlos a las Diputadas y los Diputados integrantes de la Comisión de Gobierno Interno, así como preparar el demás material propio de las sesiones;
+II.- Elaboración y revisión de las minutas de la comisión, así como su remisión correspondiente;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+III.- Integrar el anteproyecto de orden del día, al que deberá acompañar el acta de la sesión anterior, debiendo enviarlos por escrito o medio electrónico a las Diputadas y los Diputados integrantes de la Comisión de Gobierno, así como preparar el demás material propio de las sesiones;
 
 IV.- Asistir a todas las sesiones de la Comisión, elaborando el guión correspondiente de la misma;
 
@@ -589,7 +583,9 @@ VII.- Llevar libros de control y seguimiento de los acuerdos y demás comunicaci
 
 VIII.- Recabar las firmas correspondientes a los acuerdos y las actas de las sesiones de la Comisión de Gobierno Interno;
 
-IX.- Recibir de la Oficialía Mayor o de las direcciones que dependen de la misma toda clase de documentos dirigidos a la Comisión o que deban ser del conocimiento de esta; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+IX.- Recibir de la Oficialía Mayor o de las direcciones que dependen de la misma toda clase de documentos dirigidos a la Comisión o que deban ser del conocimiento de ésta; y
 
 X.- Las demás que le señalen este ordenamiento, la Asamblea, la Comisión de Gobierno o la persona titular de la Presidencia de la misma.
 
@@ -803,7 +799,7 @@ II.- Dictaminar sobre los asuntos que en materia de juicio político y de declar
 
 III.- Estudiar y dictaminar los asuntos relativos a incompatibilidades en el servicio público de los Diputados;
 
-IV.- Recibir las declaraciones anuales de situación patrimonial de los Diputados y servidores públicos del Poder Legislativo y proceder de conformidad con la ley de la materia; y
+IV.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2019)
 
 V.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
@@ -813,7 +809,9 @@ V.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y dispos
 
 Corresponde a la Comisión de Educación y Cultura, conocer de los siguientes asuntos:
 
-I.- Los relativos a la Educación Pública del Estado en todos sus niveles;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+I.- Los relativos en materia educativa, en términos del artículo 3o. de la Constitución Federal y conforme a lo dispuesto en la legislación de la materia;
 
 II.- Los referentes a la creación, organización y funcionamiento de instituciones culturales, así como el fomento y promoción de la cultura;
 
@@ -925,21 +923,23 @@ VII.- Dictaminar, conjuntamente con la Comisión de Planeación del Desarrollo U
 
 VIII.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 55.
 
-Corresponde a la Comisión de Seguridad Pública conocer de los siguientes asuntos:
+Corresponde a la Comisión de Seguridad Pública conocer de los asuntos siguientes:
 
-I.- Dictaminar, conjuntamente con la Comisión de Estudios Legislativos y Puntos Constitucionales las iniciativas relacionadas a establecer y regular el funcionamiento y estructura de los cuerpos de seguridad pública;
+I.- Estudiar, analizar y, en su caso, dictaminar, conjuntamente con la Comisión de Estudios Legislativos y Puntos Constitucionales, las iniciativas o asuntos relacionados a establecer y regular el funcionamiento y la estructura de los cuerpos de seguridad pública municipales y del Estado;
 
-II.- Formar parte de los Planes y Programas que se establezcan en materia de Seguridad Pública del Estado;
+II.- Participar formar parte (sic) en los Planes y Programas de trabajo del Sistema Estatal de Seguridad Publica, a través del Consejo Estatal de Seguridad Pública;
 
-III.- Participar en los Planes y Programas que se establezcan dentro del Sistema Estatal de Seguridad Pública;
+III.- Proponer al Consejo Estatal de Seguridad Pública y a los Consejos Municipales de Seguridad Pública, recomendaciones que deben ajustarse en el marco de (sic) Sistema Estatal de Seguridad Publica;
 
-IV.- Proponer acciones y políticas que se consideren deben ajustarse en el marco de Sistema Estatal de Seguridad Pública; y
+IV.- Coadyuvar en la vigilancia el (sic) cumplimiento de los lineamientos de políticas generales que en materia de seguridad expida el Consejo Estatal de Seguridad Pública;
 
-V.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+V.- Coadyuvar en la vigilancia las acciones (sic) que se lleven a cabo en el Servicio de Carrera Policial, así como su sistema de ascenso a las categorías y especialidades de Seguridad Pública; y
+
+VI.- Las demás que le otorguen el artículo 10 de la Constitución Local, la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1351,9 +1351,13 @@ II.- Dar seguimiento a la investigación de casos de corrupción de los servidor
 
 III.- Solicitar la revisión de contratos o convenios celebrados por cualquier entidad o dependencia de carácter estatal o municipal;
 
-IV.- Solicitar a los órganos que integran el Sistema Anticorrupción del Estado de Colima la información necesaria para el debido ejercicio de sus atribuciones; y
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-V.- Las demás que le otorguen la ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+IV.- Por conducto de la presidencia, formar parte del Comité Coordinador del Sistema Estatal Anticorrupción;
+
+V. Solicitar a los órganos que integran el Sistema Anticorrupción del Estado de Colima la información necesaria para el debido ejercicio de sus atribuciones; y
+
+VI.- Las demás que le otorguen la ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
 > <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
 
@@ -1367,9 +1371,15 @@ II.- Dictaminar, conjuntamente con la Comisión de Estudios Legislativos y Punto
 
 III.- Los relativos con el nombramiento y remoción, en su caso, de las personas que se desempeñen como Presidenta y Comisionados del Instituto de Transparencia y Acceso a la Información Pública del Estado de Colima;
 
-IV.- Los relacionados con el cumplimiento de la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima por parte de las distintas dependencias y entidades de las administraciones públicas estatal y municipales; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-V.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+IV.- Los relacionados con el cumplimiento de la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima por parte de las distintas dependencias y entidades de las administraciones públicas estatal y municipales;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+V. Por conducto de la presidencia, formar parte del Comité Coordinador del Sistema Estatal Anticorrupción; y
+
+VI.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1389,11 +1399,15 @@ Los Diputados que se interesen en participar en el estudio, análisis y dictamen
 
 Los Diputados que tengan algún interés personal o que interese de la misma manera a su cónyuge, parientes consanguíneos en línea recta, colaterales dentro del cuarto grado y afines, dentro del segundo grado, se abstendrán de participar en el estudio, análisis y dictamen del asunto de que se trate, quien contravenga esta disposición incurrirá en responsabilidad administrativa en los términos de la Ley General de Responsabilidades Administrativas.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 71.
 
-Las reuniones de las Comisiones serán privadas; sin embargo, podrán celebrarse reuniones de información y audiencia con representantes de grupos sociales interesados en el tema, peritos y personas que por sus conocimientos puedan aportar datos de interés sobre la materia en estudio, debiéndose extender invitación expresa. En este caso, las audiencias podrán ser públicas; así mismo, si los integrantes de la Comisión lo estiman conveniente, se podrá convocar a foros de consulta popular para tal finalidad.
+Las reuniones de las Comisiones podrán ser públicas o privadas, según lo estimen conveniente los integrantes de la Comisión o Comisiones en conjunto. Asimismo, podrán celebrarse reuniones de información y audiencia con representantes de grupos sociales interesados en el tema, peritos y personas que por sus conocimientos puedan aportar datos de interés sobre la materia en estudio, debiéndose extender invitación expresa. También podrán convocar a foros de consulta pública para tal finalidad.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Los asesores de los Diputados que concurran a las reuniones podrán tener voz, sólo cuando estos últimos se encuentren presentes o cuando la Comisión responsable así lo permita.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1419,17 +1433,17 @@ El Congreso podrá elegir, en los términos antes señalados, comisiones especia
 
 Los dictámenes de las Comisiones deberán presentarse firmados por la totalidad de sus integrantes; en caso de que uno o más de sus miembros difiera del parecer de la mayoría, se procederá en los términos del artículo 72 de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 76.
 
-Los asuntos de competencia concurrente, deberán turnarse a las Comisiones respectivas, las que deberán dictaminar conjuntamente, siendo la primera de las nombradas en el turno, la responsable de emitir el dictamen. Si no hay acuerdo en la proposición, la segunda comisión podrá presentar voto particular.
+Las iniciativas, oficios, documentos o asuntos de competencia concurrente deberán turnarse a las Comisiones respectivas, las que deberán dictaminar conjuntamente, siendo la primera de las nombradas en el turno la responsable de emitir el dictamen. Si no hay acuerdo en la proposición, la segunda comisión podrá presentar voto particular.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 77.
 
-Las Comisiones, por conducto de su Presidente, podrán requerir al archivo y oficinas públicas la información y copia de los documentos necesarios para el estudio y dictamen de los asuntos que les fueren turnados.
+Las Comisiones, por escrito y por conducto de su Presidente, podrán solicitar a las áreas de archivo de cualquier dependencia y oficinas públicas la información y copia de los documentos necesarios para el estudio y análisis del dictamen de la iniciativa, oficio, documento o asunto que les fue turnado.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1477,7 +1491,9 @@ El Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, dep
 
 Al frente del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, estará el Auditor Superior quien será designado por el voto de las dos terceras partes de los Diputados presentes en los términos que determine la Ley de la materia. Durará en el cargo un período de siete años y podrá ser reelecto por un periodo más. Durante el ejercicio de su cargo únicamente podrá ser removido por las causas graves que la Ley señale y con el voto de las dos terceras partes de los Diputados presentes.
 
-El Auditor Superior de Fiscalización, deberá reunir los requisitos que (sic) establecen en las fracciones I y II del artículo 69, y fracción XXV del 34 de la Constitución Local.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+El Auditor Superior de Fiscalización deberá reunir los requisitos que establece el artículo 117 de la Constitución Local.
 
 SECCIÓN B
 
@@ -1527,9 +1543,9 @@ V.- Apoyar, por medio de la Dirección Jurídica, en los trabajos propios de las
 
 VI.- Llevar los libros, registros y demás documentos necesarios para el control y seguimiento de los asuntos del Congreso;
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-VII.- Tener bajo su cuidado la elaboración del Diario de Debates, misma que estará a cargo de la Secretaría Técnica de la Oficialía Mayor, en coordinación con la Jefatura de Informática;
+VII.- Tener bajo su cuidado la elaboración del Diario de Debates, misma que estará a cargo de la Secretaría Técnica de la Oficialía Mayor, en coordinación con la Jefatura de Informática y la Dirección de Proceso Legislativo;
 
 > <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1577,11 +1593,11 @@ XVIII.- Las demás que le confieran la Ley, este ordenamiento, la Asamblea, la D
 
 #### SECCIÓN C. DE LAS ÁREAS DE APOYO DE LA OFICIALÍA MAYOR
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 87.
 
-Para el eficaz desempeño de las funciones encomendadas a la Oficialía Mayor, contará con las siguientes Direcciones: de Proceso Legislativo; de Administración, Finanzas y Servicios Generales, y Jurídica. Asimismo, tendrá una Jefatura de Comunicación Social y las siguientes Unidades: de Igualdad y Equidad de Género, y de Seguridad y Logística; además, la persona titular de la Oficialía Mayor será apoyada por una Secretaría Técnica y una Oficialía de Partes.
+Para el eficaz desempeño de las funciones encomendadas a la Oficialía Mayor, contará con las siguientes Direcciones: de Proceso Legislativo; de Administración, Finanzas y Servicios Generales, Jurídica y de Comunicación Social. Asimismo, tendrá las siguientes Unidades: de Igualdad y Equidad de Género, y de Seguridad; además, la persona titular de la Oficialía Mayor será apoyada por una Secretaría Técnica y una Oficialía de Partes.
 
 ###### Artículo 87 Bis.
 
@@ -1613,9 +1629,9 @@ II. La realización de minutas y su remisión correspondiente;
 
 III. Asistir a todas las sesiones de la Asamblea, elaborando el guión correspondiente de la misma;
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-IV. Integrar el anteproyecto de orden del día, acta y síntesis de comunicaciones, debiendo enviarlos con la anticipación necesaria a las Diputadas y los Diputados, por medio electrónico, así como recopilar el demás material propio de las sesiones;
+IV.- Integrar el anteproyecto de orden del día, acta y síntesis de comunicaciones, debiendo enviarlos con la anticipación necesaria a la Comisión de Gobierno para su publicación en la Gaceta Parlamentaria, así como a las Diputadas y los Diputados, por medio electrónico, así como recopilar el demás material propio de las sesiones;
 
 > <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -1661,11 +1677,11 @@ XIV. Revisar, en coordinación con la Dirección Jurídica, los dictámenes que 
 
 XV. Las demás que en materia jurídico legislativa le señalen este ordenamiento, la Asamblea, la Directiva o la Comisión de Gobierno.
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 89.
 
-La Dirección de Administración, Finanzas y Servicios Generales tiene como objetivo brindar apoyo al Congreso del Estado de Colima en materia administrativa, financiera, contable, de informática y de servicio técnico. La persona titular de la misma dependerá jerárquicamente de la Oficialía Mayor. Esta dirección contará con las siguientes Jefaturas: de Recursos Materiales y Patrimonio; de Servicios Generales; de Recursos Humanos; de Finanzas y Contabilidad; y de Informática.
+La Dirección de Administración, Finanzas y Servicios Generales tiene como objetivo brindar apoyo al Congreso del Estado de Colima en materia administrativa, financiera, contable, y de servicio técnico. La persona titular de la misma dependerá jerárquicamente de la Oficialía Mayor. Esta dirección contará con las siguientes Jefaturas: de Recursos Materiales y Patrimonio; de Servicios Generales y Logística; de Recursos Humanos; y de Finanzas y Contabilidad.
 
 > <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
 
@@ -1785,11 +1801,17 @@ VIII.- Las demás que le confieran la Ley, la Asamblea, la Directiva o la Comisi
 
 El Director Jurídico deberá ser licenciado en derecho, con una experiencia profesional de por lo menos 5 años anterior a la designación y cumplir con los requisitos que señale el artículo 85 de este Reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 91 Bis.
+
+La Dirección de Comunicación Social tiene como objetivo la atención a las y los representantes de los medios de comunicación, la difusión de las actividades legislativas, además de proporcionar la información de medios de comunicación a las y los Diputados, así como el cuidado del contenido y actualización de la información de la página web institucional del H. Congreso del Estado. Su titular dependerá jerárquicamente de la Oficialía Mayor. Esta Dirección contará con las Jefaturas siguientes: de Comunicación Social, de Producción Audiovisual y de Informática.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 92.
 
-La persona titular de la Jefatura de Comunicación Social tendrá las facultades y obligaciones siguientes:
+La persona titular de la Dirección de Comunicación Social tendrá las facultades y obligaciones siguientes:
 
 > <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1807,9 +1829,9 @@ III.- Encargarse de preparar diariamente la síntesis local y nacional de notici
 
 IV.- Las demás que le confieran la Ley, la Asamblea, la Directiva o la Comisión de Gobierno.
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Para ser titular de la Jefatura de Comunicación Social se requiere cumplir los requisitos señalados en las fracciones del tercer párrafo del artículo 63 de la Ley; tratándose de la fracción IV, deberá ser Licenciado en Comunicación Social o áreas afines.
+Para ser titular de la Dirección de Comunicación Social se requiere cumplir los requisitos señalados en las fracciones del tercer párrafo del artículo 63 de la Ley; tratándose de la fracción IV, deberá ser Licenciado en Comunicación Social o áreas afines.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
 
@@ -1857,31 +1879,51 @@ IX.- Las demás que le confieran la Ley, la Asamblea, la Directiva o la Comisió
 
 Para ser titular de la Unidad de Igualdad y Equidad de Género del Congreso, se requiere cumplir con los requisitos señalados en las fracciones del tercer párrafo del artículo 63 de la Ley; por lo que ve a la experiencia profesional, deberá acreditar mínimo tres años en materia de igualdad y equidad de género.
 
-> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 92 Ter.
 
-La Unidad de Seguridad y Logística tendrá las facultades y obligaciones siguientes:
+La Unidad de Seguridad tendrá las facultades y obligaciones siguientes:
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
 
 I.- Tener a su cargo la seguridad del recinto legislativo, tanto en lo que ve a las instalaciones, como a los servidores públicos que laboran dentro del mismo;
 
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
 II.- La planificación a corto, mediano y largo plazo de todo tipo de actividades referentes a seguridad dentro del recinto legislativo;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
 
 III.- Capacitar, mediante cursos y conferencias, al personal a su cargo en diversas áreas relacionadas con el buen funcionamiento del orden y la seguridad dentro del recinto legislativo;
 
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
 IV.- Mantener coordinación con las diversas áreas y unidades de la Oficialía Mayor, en cuanto al protocolo, orden y seguridad, para cumplir eficazmente con sus funciones;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
 
 V.- Mantener informada a la persona titular de la Oficialía Mayor en todo lo referente a la seguridad del Poder Legislativo, así como lo relativo a la consecución de logros y metas propuestos;
 
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
 VI.- Efectuar prácticas que permitan poner en ejecución planes de contingencia, referentes a siniestros, desastres naturales o cualquier eventualidad que pudiera ocurrir dentro del recinto legislativo;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
 
 VII.- Instrumentar controles para el registro e identificación del ingreso de personas al Recinto Legislativo;
 
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
 VIII.- Ser el responsable directo de la guarda, custodia y almacenaje de las videograbaciones del circuito cerrado y vigilancia con que cuente el Congreso, las cuales en modo alguno serán difundidas sin que al efecto se otorgue autorización expresa por parte de la Comisión de Gobierno; y
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
 
 IX.- Las demás que le confieran la Ley, la Asamblea, la Directiva o la Comisión de Gobierno.
 
-Para ser titular de la Unidad de Seguridad y Logística se requiere cumplir con los requisitos señalados en las fracciones del tercer párrafo del artículo 63, de la Ley. Tratándose de la IV, deberá acreditar experiencia mínima de cinco años en materia de seguridad.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Para ser titular de la Unidad de Seguridad se requiere cumplir con los requisitos señalados en las fracciones del tercer párrafo del artículo 63, de la Ley. Tratándose de la IV (sic), deberá acreditar experiencia mínima de cinco años en materia de seguridad.
 
 ### CAPÍTULO IX. DE LOS GRUPOS PARLAMENTARIOS
 
@@ -1969,9 +2011,9 @@ Serán sesiones ordinarias las que se celebren durante los períodos a que se re
 
 Sesiones extraordinarias serán las que se efectúen fuera de los períodos señalados en el párrafo anterior, serán convocadas por la Comisión Permanente, debiéndose ocupar en ellas sólo de los asuntos incluidos en la convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Las sesiones del Congreso se celebrarán en los días y horas en que sean convocadas y podrán ser diferidas, previo acuerdo emitido por la Comisión de Gobierno Interno y Acuerdos Parlamentarios y el Presidente de la Mesa Directiva o de la Comisión Permanente.
+Las sesiones del Congreso se celebrarán en los días y horas en que sean convocadas y podrán ser diferidas, previo acuerdo emitido por la Comisión de Gobierno y el Presidente de la Mesa Directiva o de la Comisión Permanente.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2035,11 +2077,11 @@ VIII.- Convocatoria para la próxima sesión; y
 
 IX.- Clausura.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 113.
 
-Durante los períodos ordinarios previstos por el artículo 30 de la Constitución, el Congreso deberá celebrar sesiones cuantas veces sea necesario para el oportuno despacho de los asuntos de su competencia, debiendo hacerlo al efecto cuando menos una vez por semana.
+Durante los períodos ordinarios previstos por el artículo 30 de la Constitución, el Congreso deberá celebrar sesiones cuantas veces sea necesario para el oportuno despacho de los asuntos de su competencia, debiendo hacerlo al efecto cuando menos cuatro veces por mes.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2101,7 +2143,7 @@ El Presidente del Congreso abrirá y cerrará las sesiones ordinarias con la sig
 
 ### CAPÍTULO XI. DE LAS INICIATIVAS
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ### CAPITULO XII. DE LOS DICTAMENES
 
@@ -2109,7 +2151,7 @@ El Presidente del Congreso abrirá y cerrará las sesiones ordinarias con la sig
 
 ###### Artículo 122.
 
-Toda iniciativa deberá presentarse por escrito y en medio electrónico, firmada por quienes la presenten e irá dirigida a los Secretarios del Congreso.
+Toda iniciativa deberá presentarse por escrito y en medio electrónico, firmada por quienes la presenten e irá dirigida a los Secretarios del Congreso y será publicada en la Gaceta Parlamentaria.
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2018)</small>
 
@@ -2129,21 +2171,29 @@ c).- Cuerpo jurídico en el que se especifique claramente el texto sugerido; y
 
 d).- Artículos transitorios.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2018)</small>
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Al momento de la presentación de una iniciativa ante la Asamblea, se podrá leer un resumen de la misma y deberá insertarse de manera íntegra en el Diario de los Debates.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 124.
 
-Las iniciativas que se reciban, una vez dada cuenta de ellas a la Asamblea o la Comisión Permanente, en su caso, serán turnadas a la comisión o comisiones que correspondan por medio electrónico, para su estudio, análisis y dictamen correspondiente.
+Las iniciativas que se reciban en Oficialía de Partes, serán turnadas por la Directiva a la comisión o comisiones respectivas y posteriormente se dará cuenta de ello a la Asamblea en síntesis de comunicaciones; para el caso de aquellas que se presente ante el Pleno, una vez dada cuenta de ellas a la Asamblea o la Comisión Permanente, en su caso, serán turnadas a la comisión o comisiones que correspondan por medio electrónico, para su estudio, análisis y dictamen correspondiente y, en todos los casos, serán publicadas en la Gaceta Parlamentaria
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2018)</small>
 
 Sólo podrán dispensarse de este trámite, por acuerdo expreso de la Asamblea, aquellos asuntos que tengan una obvia resolución por no ameritar un examen profundo o que a juicio de la misma sean urgentes.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2018)</small>
+
 Únicamente las iniciativas a que se refiere el párrafo anterior, deberán leerse íntegramente en la sesión que corresponda para efectos de que se discuta por los integrantes de la Asamblea. No obstante, lo anterior, cuando la Asamblea lo apruebe, cualquier iniciativa podrá leerse en una sesión.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 125.
 
-Las peticiones de particulares, corporaciones o autoridades que carezcan del derecho de iniciativa, se turnarán a la Comisión de Participación Ciudadana y Peticiones por medio electrónico, la que determinará si son de tomarse o no en consideración. En caso afirmativo, la hará suya, la presentará y se seguirá el trámite respectivo.
+Las peticiones de particulares, corporaciones o autoridades que carezcan del derecho de iniciativa, se turnarán a la Comisión de Participación Ciudadana y Peticiones por medio electrónico y serán publicadas en la Gaceta Parlamentaria, la que determinará si son de tomarse o no en consideración. En caso afirmativo, la hará suya, la presentará y se seguirá el trámite respectivo.
 
 > <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
@@ -2157,7 +2207,15 @@ II.- Entregarse al Presidente de la Asamblea antes del inicio de la sesión para
 
 III.- Una vez que se haya cumplido con lo dispuesto en las fracciones I y II del presente artículo, serán leídas en la sesión inmediata a su entrega y difusión a todos los legisladores;
 
-IV.- Leídas que fueran en el Pleno, para exponer los fundamentos y razones de su contenido o proposición, el Presidente las pondrá a consideración de la Asamblea, para efectos de su discusión y votación;
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 193, PUBLICADO EN EL P.O. DE 28 DE DICIEMBRE DE 2019, PÁGINA 25.]</small>
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Al momento de la presentación de una iniciativa ante la Asamblea, previa aprobación de la mayoría simple de los presentes, se podrá leer un resumen de la misma y deberá insertarse de manera íntegra en el Diario de los Debates.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+IV.- Salvo lo dispuesto en el párrafo anterior, leídas que fueran en el Pleno, para exponer los fundamentos y razones de su contenido o proposición, el Presidente las pondrá a consideración de la Asamblea, para efectos de su discusión y votación.
 
 V.- En la discusión únicamente hablarán por una sola vez hasta cuatro Diputados, dos en pro y dos en contra; y
 
@@ -2191,11 +2249,11 @@ En los casos en que la Ley, este Reglamento o cualquier otra disposición normat
 
 Si la comisión estimare necesario hacer modificaciones a la iniciativa que le fue turnada para su estudio, tendrá el derecho de hacerlas, las dará a conocer en su dictamen, exponiendo los razonamientos lógico-jurídicos en que se apoye.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 131.
 
-Las copias de los dictámenes deberán darse a conocer por medio electrónico a los miembros del Congreso, al inicio de la sesión en que sean presentados.
+Para conocimiento de los miembros del Congreso y de la población en general, los dictámenes deberán publicarse en la Gaceta Parlamentaria al menos 24 horas antes del inicio de la sesión.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2203,9 +2261,9 @@ Las copias de los dictámenes deberán darse a conocer por medio electrónico a 
 
 Una vez presentado un dictamen a la Asamblea y concluida su lectura, el Presidente lo pondrá a consideración de la misma para los efectos de su discusión y aprobación en esa sesión o en la siguiente, si así lo acuerda la mayoría de los miembros presentes o lo solicita la comisión.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-Siempre que se haya cumplido con lo dispuesto por el artículo 131 de este Reglamento, podrá la Asamblea acordar, por mayoría simple, que un dictamen se lea de forma parcial, con la obligación de insertar íntegramente el documento en el diario de los debates.
+Siempre que se haya cumplido con lo dispuesto en el artículo 131 de este Reglamento, la Asamblea podrá acordar, por mayoría simple, omitir la lectura del dictamen o, en su caso, leerlo de manera resumida, con la obligación de insertar íntegramente el documento en el diario de los debates.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2218,6 +2276,16 @@ Si un dictamen presentado a la Asamblea no fuere aprobado en lo general, se regr
 ###### Artículo 134.
 
 Los dictámenes elaborados por las comisiones sobre asuntos que no llegare a resolver la Legislatura que los recibió, serán sometidos a trámite por la siguiente Legislatura.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 134 Bis.
+
+Las Minutas Proyecto de Decreto que modifiquen la Constitución Política de los Estados Unidos Mexicanos, serán turnadas a la Comisión o Comisiones competentes por la Presidencia del H. Congreso del Estado o de la Comisión Permanente, a más tardar al día siguiente de su recepción en forma física o electrónica, y posteriormente se informará de ello a los demás integrantes de la Legislatura mediante la síntesis de comunicación.
+
+Una vez que la Comisión o Comisiones competentes reciban la Minuta Proyecto de Decreto, la Comisión responsable convocará a reunión de trabajo a celebrarse dentro de las 72 horas siguientes para su análisis, discusión y dictaminación.
+
+El dictamen que expida la Comisión o Comisiones competentes será listado en el orden del día de la Sesión Ordinaria siguiente o de la Sesión Extraordinaria que para tal efecto se convoque, para su lectura, discusión y aprobación, en su caso, sin necesidad de segunda lectura.
 
 ### CAPITULO XIV. DE LA DISPENSA DE TRÁMITES
 
@@ -2291,9 +2359,9 @@ II.- Discutir con preferencia cualquier dictamen de los designados por el Presid
 
 Podrá permitirse que toda una Ley se vote en lo general y particular en un solo acto, sin dividirla en libros, títulos, capítulos y secciones, siempre que no haya sido impugnada o que los diputados no se hayan reservado para discutir y votar por separado algún libro, título, capítulo y sección del mismo; la proposición que se haga en tal sentido será admitida por la Directiva previa aprobación, en forma económica, y por mayoría del Pleno legislativo.
 
-### CAPÍTULO XVI. DE LAS VOTACIONES
+### CAPÍTULO XV BIS. DE LA GACETA PARLAMENTARIA
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 143.
 
@@ -2321,21 +2389,41 @@ Los debates y deliberaciones en cada uno de los casos a que se refiere el artíc
 
 I.- Tratándose de actas, si un Diputado la impugnare, la Secretaría expondrá las razones por las que el documento fue redactado en los términos en que estuviere concebido. Enseguida, podrá hacer uso de la palabra el que hizo la impugnación y en el mismo sentido podrá hablar hasta por dos veces otro Diputado. En pro podrán hacer uso de la palabra por dos veces otros dos Diputados y los Secretarios podrán intervenir cuantas veces sea necesario para dar las explicaciones correspondientes. Una vez concluido el debate, se preguntará a la Asamblea si se modifica el acta en el sentido en que se haya impugnado y si fueren varios los puntos impugnados, se hará la pregunta respecto a cada uno de ellos. Si la resolución fuere en sentido afirmativo o si la modificación planteada fuere de obvia resolución, el Presidente instruirá a la Secretaría para que haga las modificaciones respectivas;
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Las intervenciones de cada Diputado no serán mayores a tres minutos cada una, independientemente del sentido de su exposición, en tanto que la Secretaría no tendrá limitación de tiempo.
+
 II.- Dictado un trámite por el Presidente, si algún Diputado lo reclamare, se pondrá inmediatamente a discusión, hablarán dos Diputados en pro y dos en contra, hasta por dos veces cada uno y el Presidente lo hará las que crea necesarias para exponer el fundamento y razonamientos que sustenten dicho trámite. Enseguida se preguntará si subsiste el trámite y si la Asamblea resuelve por la negativa, el Presidente lo reformará en el sentido de la impugnación. Si el trámite es nuevamente reclamado, se procederá en los términos antes señalados;
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Las intervenciones de cada Diputado no serán mayores a tres minutos cada una, independientemente del sentido de su exposición, en tanto que la Presidencia no tendrá limitación de tiempo.
 
 La reclamación de un trámite no podrá hacerse cuando después de dictado éste, se haya verificado alguna votación o se esté ocupando la Asamblea de un asunto distinto del que motivó aquél;
 
 III.- Para resolver si se toman en consideración un ocurso o una proposición, podrán hablar dos Diputados en pro y dos en contra, hasta por dos veces cada uno. Concluida la discusión, el Presidente lo someterá a votación, ordenando el trámite según el resultado de la misma;
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Las intervenciones de cada Diputado no serán mayores a tres minutos cada una, independientemente del sentido de su exposición, en tanto que los integrantes de la Directiva no tendrá (sic) limitación de tiempo.
+
 IV.- Cuando se someta a discusión un dictamen de ley, de decreto, acuerdo, voto particular y demás asuntos, el Presidente lo anunciará diciendo: "Está a discusión (en lo general o en lo particular, según el caso), los Diputados que deseen hacer uso de la palabra se inscribirán en la Secretaría ", observándose para el caso el siguiente procedimiento:
 
-a).- Cuando un dictamen estuviere compuesto de varios artículos resolutivos, se pondrá primero a discusión en lo general estableciendo en ella los miembros de la Asamblea si han de reservarse artículos del dictamen para su discusión en lo particular. En las discusiones en lo general podrán hablar tres Diputados en pro y tres en contra, por dos veces cada uno. Agotada la discusión, el Presidente preguntará si se considera suficientemente discutido el asunto, si se decide por la afirmativa, se procederá desde luego a recoger la votación. Si se decide que no lo está, se continuará discutiendo en los términos antes señalados y se hará por segunda y última vez la pregunta de si está suficientemente discutido; si aún se resuelve por la negativa, podrán hablar dos Diputados en pro y dos en contra por una sola vez, con lo que se tendrá el asunto como suficientemente discutido en lo general. Hecha esta declaración y una vez recogida la votación si fuere afirmativa, se pondrán desde luego a discusión los artículos en lo particular, observándose el procedimiento antes señalado. Si no hubiese artículos reservados se procederá inmediatamente a la votación para su aprobación, en lo particular, en un solo acto. En la discusión en lo particular, los miembros de la Asamblea deberán presentar por escrito, a la Mesa Directiva, las modificaciones o adiciones al dictamen.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+a).- Cuando un dictamen estuviere compuesto de varios artículos resolutivos, se pondrá primero a discusión en lo general estableciendo en ella los miembros de la Asamblea si han de reservarse artículos del dictamen para su discusión en lo particular. En las discusiones en lo general podrán hablar tres Diputados en pro y tres en contra, por dos veces cada uno. Agotada la discusión, el Presidente preguntará si se considera suficientemente discutido el asunto, si se decide por la afirmativa, se procederá desde luego a recoger la votación. Si se decide que no lo está, se continuará discutiendo en segunda ronda en los términos antes señalados y se hará por segunda y última vez la pregunta de si está suficientemente discutido; si aún se resuelve por la negativa, en tercera ronda podrán hablar dos Diputados en pro y dos en contra por una sola vez, con lo que se tendrá el asunto como suficientemente discutido en lo general. Hecha esta declaración y una vez recogida la votación si fuere afirmativa, se pondrán desde luego a discusión los artículos en lo particular, observándose el procedimiento antes señalado. Si no hubiese artículos reservados se procederá inmediatamente a la votación para su aprobación, en lo particular, en un solo acto. En la discusión en lo particular, los miembros de la Asamblea deberán presentar por escrito, a la Mesa Directiva, las modificaciones o adiciones al dictamen.
 
 b).- Si el asunto o documento constare de un solo artículo, se pondrá a la discusión a la vez en lo general y en lo particular, sujetándose a las disposiciones contenidas en esta fracción.
 
 No habiendo discusión el Presidente lo declarará así y ordenará a la Secretaría proceda a recoger la votación correspondiente,
 
-V.- Tomada en consideración una proposición suspensiva, se pondrá de inmediato a discusión, pudiendo hablar dos Diputados en pro y dos en contra. Concluida la discusión se someterá a votación y con el resultado obtenido se procederá en consecuencia. No podrá admitirse mas de una proposición suspensiva en torno a un mismo asunto; y
+> <small>(REFORMADO [N. DE E. ESTE PÁRAFO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+V.- Tomada en consideración una proposición suspensiva, se pondrá de inmediato a discusión, pudiendo hablar dos Diputados en pro y dos en contra. Concluida la discusión se someterá a votación y con el resultado obtenido se procederá en consecuencia. No podrá admitirse más de una proposición suspensiva en torno a un mismo asunto.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Las intervenciones de cada Diputado no serán mayores a tres minutos cada una, independientemente del sentido de su exposición, en tanto que los integrantes de la Directiva no tendrá (sic) limitación de tiempo; y
 
 VI.- Cuando un Diputado creyere que se ha infringido algún artículo de este Reglamento o cuando se viertan injurias contra alguna persona o corporación, podrá hacer una moción para que se restablezca el orden, indicando en su intervención la forma en que a su juicio deba procederse. No podrán discutirse dos o más mociones a un mismo tiempo y respecto a éstas se observará el trámite de las proposiciones.
 
@@ -2345,11 +2433,13 @@ VI.- Cuando un Diputado creyere que se ha infringido algún artículo de este Re
 
 Cuando se presente un dictamen suscrito por la mayoría de los integrantes de una comisión y el voto particular de la minoría, se dará lectura a ambos y se pondrá a discusión el primero. Si no fuere aprobado, se pondrá a discusión el voto particular.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 146.
 
-Desechado un dictamen en lo general o en alguno de sus artículos, volverá a la comisión para que se reforme en el sentido de la discusión; si se hubieren manifestado en el debate diversas opiniones, la reforma se hará en el sentido expresado por la mayoría. Si no hubiere habido discusión, la comisión estudiará de nuevo su dictamen, ampliará los fundamentos para mejor ilustración de la Asamblea y lo presentará reformado en los términos que estime convenientes.
+Desechado un dictamen en lo general o en alguno de sus artículos, volverá a la comisión para que se reforme en el sentido de la discusión; si se hubieren manifestado en el debate diversas opiniones, la reforma se hará en el sentido expresado por la mayoría. Si no hubiere discusión, la comisión estudiará de nuevo su dictamen, ampliará los fundamentos para mejor ilustración de la Asamblea y lo presentará reformado en los términos que estime convenientes.
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 Cuando fuere desechado un voto particular, volverá a su autor para los efectos de este artículo.
 
@@ -2421,6 +2511,10 @@ Los demás miembros de la Asamblea, aún cuando no estén inscritos en la lista 
 
 Los miembros de la Comisión que presenten el dictamen o el autor de un proyecto sometido a debate, podrán hacer uso de la palabra cuantas veces lo juzguen necesario. Lo mismo podrán hacer los Diputados que radiquen en el distrito, cuando se discuta un asunto que impacte en esa circunscripción y el Presidente, en cumplimiento de las funciones inherentes a su cargo; este beneficio no será aplicable cuando éste último desee tomar parte en la discusión, pues entonces deberá de sujetarse a las prevenciones señaladas en este Reglamento para los demás Diputados. Tampoco será aplicable esta disposición cuando el Presidente tenga interés personal en el asunto que se discuta.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Los Diputados que intervengan de conformidad con el párrafo anterior, deberán atender los tiempos dispuestos en el artículo 144 de este Reglamento.
+
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 154.
@@ -2469,13 +2563,61 @@ Los servidores públicos señalados en el presente artículo, no podrán hacer p
 
 Los representantes de los Poderes y Ayuntamientos, se retirarán del recinto legislativo, antes de que ésta efectúe la votación, pudiendo quedarse en las galerías.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO XVI. DE LAS VOTACIONES
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 159 Bis 1.
+
+La Gaceta Parlamentaria es el medio informativo interno que contiene la información sobre los asuntos y el trabajo parlamentario a realizarse en las sesiones del Pleno de la Legislatura.
+
+El Congreso del Estado contará con un medio informativo denominado "Gaceta Parlamentaria", con el objeto de ordenar y dar a conocer los asuntos y documentos tratados en cada Sesión del Pleno o de la Comisión Permanente.
+
+Su contenido será difundido de manera electrónica en la página oficial del Congreso del Estado, y a los correos oficiales de las Diputadas y los Diputados.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 159 Bis 2.
+
+La Directiva se auxiliará de la Dirección de Proceso Legislativo para la elaboración, publicación y actualización la (sic) Gaceta Parlamentaria, comunicando con la debida anticipación a la Mesa Directiva o a la Comisión Permanente, según corresponda.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 159 Bis 3.
+
+Deberán publicarse en la Gaceta Parlamentaria, por lo menos los siguientes documentos:
+
+I. Orden del día de las sesiones ordinarias, extraordinarias y solemnes;
+
+II. Actas de las sesiones de la Asamblea;
+
+III. Síntesis de comunicaciones;
+
+IV. Convocatorias a sesión;
+
+V. Las iniciativas de ley, decreto, punto de acuerdo presentadas ante el Congreso del Estado;
+
+VI. Acuerdos legislativos y minutas aprobadas por el Congreso del Estado;
+
+VII. Los dictámenes emitidos por comisiones, así como los votos particulares; y
+
+VIII. Las demás que ordene la asamblea o la mesa directiva.
+
+Los documentos que aparezcan en la Gaceta Parlamentaria serán meramente informativos.
+
+Las modificaciones hechas a los mismos con posterioridad a la edición de la Gaceta, serán responsabilidad de sus autores.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 159 Bis 4.
+
+Los documentos a publicar en la Gaceta Parlamentaria deberán presentarse, firmados de manera física y electrónica, en forma previa al inicio de la sesión ante la Comisión de Gobierno.
+
 ### CAPÍTULO XVII. DE LAS RESOLUCIONES
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
-
-### CAPÍTULO XVIII. DEL CEREMONIAL
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 160.
 
@@ -2571,7 +2713,7 @@ Ningún Diputado podrá votar por si mismo, ni emitir su voto en cuestiones en q
 
 Cualquier Diputado podrá pedir a la Secretaría que haga constar en el acta el sentido en que se emita su voto o que diga en voz alta los nombres de los que votaron en uno u otro sentido, para que los interesados puedan hacer la rectificación que proceda, salvo que la votación fuere secreta.
 
-### CAPITULO XIX. DEL PUBLICO
+### CAPÍTULO XVIII. DEL CEREMONIAL
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2675,7 +2817,7 @@ IX.- Copia autógrafa del Decreto enviado al Ejecutivo para los efectos legales 
 
 X.- Un Ejemplar del Periódico Oficial del Estado, en el que conste la publicación del Decreto respectivo.
 
-### CAPÍTULO XX. DE LA EXPEDICION DEL BANDO SOLEMNE
+### CAPITULO XIX. DEL PUBLICO
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2759,7 +2901,7 @@ Sólo por acuerdo del Congreso podrá permitirse el uso de una curul a una perso
 
 En todas las sesiones solemnes que celebre el Congreso, como una forma de darle más realce al evento, los Diputados deberán vestir formal.
 
-### CAPÍTULO XXI. DEL COLEGIO ELECTORAL
+### CAPÍTULO XX. DE LA EXPEDICION DEL BANDO SOLEMNE
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2805,9 +2947,9 @@ Toda persona que altere el orden será despedida de las galerías; pero si la fa
 
 Cuando el orden sea alterado por los integrantes del Congreso y fuere materialmente imposible su restablecimiento, el Presidente está facultado para suspender o dar por terminada la sesión.
 
-### CAPÍTULO XXII. DE LA COMISION PERMANENTE
+### CAPÍTULO XXI. DEL COLEGIO ELECTORAL
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 202.
 
@@ -2829,7 +2971,7 @@ IV.- Aprobado el dictamen por la Asamblea el Presidente de la Directiva dará le
 
 V.- El Decreto del Bando Solemne entrará en vigor el día de su expedición y se enviará al Ejecutivo para su difusión en los términos del artículo 254 del Código Electoral para el Estado de Colima.
 
-### CAPÍTULO XXIII. DEL JUICIO POLÍTICO
+### CAPÍTULO XXII. DE LA COMISION PERMANENTE
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -2855,9 +2997,9 @@ III.- El dictamen deberá ser aprobado por la mayoría de votos de las Diputados
 
 El Congreso también se erigirá en Colegio Electoral cuando designe Concejo Municipal, aplicándose en este caso en lo conducente las disposiciones del artículo anterior.
 
-### CAPÍTULO XXIV. EL DIARIO DE LOS DEBATES
+### CAPÍTULO XXIII. DEL JUICIO POLÍTICO
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 206.
 
@@ -2913,11 +3055,9 @@ La Comisión Permanente podrá celebrar sus sesiones en el Recinto Legislativo o
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO XXV
+### CAPÍTULO XXIV. EL DIARIO DE LOS DEBATES
 
-DEL PROCEDIMIENTO PARA LA APLICACIÓN DE SANCIONES ADMINISTRATIVAS.
-
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 215.
 
@@ -3039,9 +3179,11 @@ DISPOSICIONES COMUNES PARA EL JUICIO POLÍTICO Y LA DECLARACIÓN DE PROCEDENCIA.
 
 (DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
-### CAPITULO XXVI. JUICIO DE RESPONSABILIDAD ADMINISTRATIVA
+### CAPÍTULO XXV
 
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2016)</small>
+DEL PROCEDIMIENTO PARA LA APLICACIÓN DE SANCIONES ADMINISTRATIVAS.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 240.
 
@@ -3056,6 +3198,10 @@ El Diario de los Debates contendrá el lugar y fecha en que se verifiquen las se
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
 
 El Diputado deberá presentar por escrito y en medio electrónico a la Presidencia de la Mesa Directiva, la iniciativa que solicite se inserte en el Diario de los Debates.
+
+### CAPITULO XXVI. JUICIO DE RESPONSABILIDAD ADMINISTRATIVA
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2016)</small>
 
 ###### Artículo 242.
 
@@ -3362,3 +3508,11 @@ SEGUNDO.- La Dirección de Servicios Documentarios continuará realizando las fa
 TERCERO.- En un término no mayor a 30 treinta días hábiles posterior a la aprobación del presente dictamen, deberán ser expedidos los Reglamentos internos de la Contraloría Interna y del Instituto de Profesionalización e Investigaciones Parlamentarias, ambos del H. Congreso del Estado, así como aprobado el tabulador salarial correspondiente al ejercicio fiscal 2019, en el que se incluyan los ajustes correspondientes a las dependencias que fueron creadas en términos del presente decreto.
 
 CUARTO.- La Oficialía Mayor y las Direcciones de Proceso Legislativo, de Finanzas, Administración y Servicios Generales, y Jurídica, por conducto de sus titulares, en un término improrrogable de 60 días naturales posteriores al inicio de vigencia del presente Decreto, deberán expedir los manuales de procedimientos de sus áreas, a efecto de determinar la máxima eficiencia de las tareas del personal a su cargo.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 193 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y DE SU REGLAMENTO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto, deberá iniciar su funcionamiento la Gaceta Parlamentaria.
