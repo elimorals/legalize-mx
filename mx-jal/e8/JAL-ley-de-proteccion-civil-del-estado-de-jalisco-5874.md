@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-civil-del-estado-de-jalisco-5874"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "2019-08-10"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 10 de julio de 1993.
 
@@ -141,7 +141,7 @@ XXI. Fenómenos destructivos: los enunciados en los grupos del orden geológico,
 
 XXII. Grupo de Voluntarios: asociación de personas que coadyuvan en las tareas operativas de protección civil, generalmente durante la emergencia; junto con la población, integran la organización participativa del Sistema Nacional de Protección Civil;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
 XXIII. Juguetería pirotécnica: artificios pirotécnicos que, por sus características, puede ser de acceso generalizado;
 
@@ -161,7 +161,7 @@ XXVI. Peligro: es la probabilidad de que un área en particular sea afectada por
 
 XXVII. Prevención: las acciones dirigidas a identificar y controlar riesgos, evitar o mitigar el impacto destructivo de los siniestros o desastres sobre la población, sus bienes, los servicios públicos, la planta productiva y el medio ambiente;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
 
 XXVIII. Programa de Protección Civil: documento elaborado para hacer frente a los fenómenos destructivos cuyo contenido refiere las acciones preventivas, de respuesta a la emergencia, de recuperación inicial y de reconstrucción;
 
@@ -1365,9 +1365,9 @@ La Unidad Estatal administrará las instalaciones, equipo y materiales necesario
 
 Su reglamento interior establecerá los procedimientos de control de su patrimonio.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-El personal que integre la Unidad Estatal se regirá por la Ley de Servidores Públicos del Estado de Jalisco y sus Municipios y la Ley de Responsabilidades para los Servidores Públicos del Estado de Jalisco.
+El personal que integre la Unidad Estatal se regirá por la Ley de Servidores Públicos del Estado de Jalisco y sus Municipios y la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 ### CAPITULO VI. De la integración y funcionamiento de los Sistemas Municipales de Protección Civil
 
@@ -2011,11 +2011,11 @@ El procedimiento de notificación, ejecución y extinción de las sanciones pecu
 
 Las sanciones impuestas conforme a ésta Ley son independientes de las que puedan imponerse por la misma conducta conforme a otras disposiciones legales.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 85.
 
-La responsabilidad por daños o perjuicios causados por acciones u omisiones que deriven en siniestros o desastres, se determinará y hará efectiva, conforme las disposiciones de la legislación constitucional, penal, civil, Ley de Responsabilidades para los Servidores Públicos del Estado de Jalisco y demás aplicables al caso.
+La responsabilidad por daños o perjuicios causados por acciones u omisiones que deriven en siniestros o desastres, se determinará y hará efectiva, conforme las disposiciones de la legislación constitucional, penal, civil, Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco y demás aplicables al caso.
 
 ### CAPITULO XV. De las notificaciones
 
@@ -2324,3 +2324,9 @@ A la publicación del presente decreto, las autoridades competentes, contarán c
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27771/LXII/19 QUE REFORMA LOS ARTÍCULOS 41 Y 85 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
