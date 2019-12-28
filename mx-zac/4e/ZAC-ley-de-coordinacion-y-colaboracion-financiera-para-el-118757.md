@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-coordinacion-y-colaboracion-financiera-para-el-118757"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2018-12-31"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Suplemento al Periódico Oficial del Gobierno del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -79,7 +79,9 @@ VII. Establecer los procedimientos para la evaluación, rendición de informes d
 
 Para efectos de esta Ley se entenderá por:
 
-I. Año base. Corresponde al año 2016, como ejercicio de punto de partida y comparación, para el crecimiento de los Municipios en esfuerzo recaudatorio por el cobro de las contribuciones relativas al Impuesto Predial y Derechos de Agua;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+I. Año base. Corresponde al penúltimo ejercicio fiscal anterior de aquél que se lleva el cálculo de las participaciones establecidas en los artículos 33 y 34 de esta Ley, el cual representará el ejercicio de punto de partida y comparación, para el crecimiento de los Municipios en esfuerzo recaudatorio por el cobro de las contribuciones relativas al Impuesto Predial y Derechos de Agua;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -633,17 +635,19 @@ La distribución del Fondo Único de Participaciones a los Municipios que establ
 
 > <small>[N. DE E. VÉASE FÓRMULAS EN EL SUPLEMENTO AL P.O. DE 31 DE DICIEMBRE DE 2016, PÁGINA 36.]</small>
 
+> <small>[N. DE E. VÉASE REFORMA A LAS FÓRMULAS EN EL SUPLEMENTO 23 AL P.O. DE 28 DE DICIEMBRE DE 2019, PÁGINA 48.]</small>
+
 Donde:
 
 FuPít Es la participación del fondo al que se refiere este artículo del municipio i en el año t.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-FuPi, 16. Es la participación del fondo al que se refiere este artículo que el municipio i recibió en el año base, considerando para ello lo establecido en el artículo 33 fracción I, incisos a), b), c), d), e) y f).
+FuPi, 16. Es la participación del fondo al que se refiere este artículo que el municipio i recibió en el año base.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-AFuP16, t. Es el crecimiento en el fondo al que se refiere este artículo entre el año base y el periodo t, considerando para ello lo establecido en el artículo 33 fracción I, incisos a), b), c), d), e) y f).
+AFuP16, t. Es el crecimiento en el fondo al que se refiere este artículo entre el año base y el periodo t.
 
 IP. Es el Coeficiente Impuesto Predial para distribución del 50% del excedente del Fondo Único de Participaciones con respecto al año base del municipio i en el año t en que se efectúa el cálculo.
 
@@ -656,6 +660,10 @@ RA. Es la recaudación de los derechos de agua, que registren un flujo de efecti
 --- (sic) Es la suma sobre todos los Municipios de la variable que le sigue.
 
 i
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Ab. Es el año base definido en el artículo 2 de la presente Ley.
 
 Cuando en el ejercicio que corresponda la distribución del Fondo establecido en el artículo 33 de la presente Ley, sea menor a lo participado en el ejercicio del año inmediato anterior, los Municipios recibirán las participaciones en proporción a lo transferido en ese mismo ejercicio.
 
@@ -910,3 +918,51 @@ Artículo tercero. El Impuesto establecido en el Capítulo Cuarto, del Título S
 Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respecto del Impuesto Sobre Tenencia o Uso de Vehículos contenido en el Capítulo Cuarto del Título Segundo que se suspende conforme a este Decreto, que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones aplicables.
 
 Artículo cuarto. Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 302.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES FISCALES Y HACENDARIAS DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veinte, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos de la obligación establecida en la Sección VIII, Capítulo Segundo del Título Segundo y la Sección III Bis, Capítulo Segundo del Título Tercero del Código Fiscal del Estado de Zacatecas y sus Municipios, la Secretaría de Finanzas deberá emitir para su debida publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas, a más tardar el 31 de marzo de 2020, las reglas de carácter general relativas al
+
+cumplimiento, presentación y facultades de comprobación del dictamen fiscal.
+
+###### ARTÍCULO TERCERO.
+
+Para efectos del artículo 101-Bis del Código Fiscal del Estado de Zacatecas y sus Municipios, no serán sujetos de la obligación de presentar el dictamen del cumplimiento de sus obligaciones fiscales, aquellas personas físicas, morales o unidades económicas que hayan celebrado un acuerdo anticipado de pago a que se refiere el artículo 158-Bis, respecto de los ejercicios convenidos.
+
+###### ARTÍCULO CUARTO.
+
+Las personas físicas, morales o unidades económicas, que se encuentren en los supuestos establecidos en los artículos 101-Bis y 101-Ter, del Código Fiscal del Estado de Zacatecas y sus Municipios, tendrán la opción de presentar el dictamen correspondiente al ejercicio fiscal 2019, con base en los plazos siguientes:
+
+I. Presentar aviso a través de los medios y formas que establezca la Secretaría, mediante las reglas de carácter general, a más tardar el último día del mes de mayo.
+
+II. El dictamen a que se refiere el artículo 101 Bis de este Código y la documentación que se señala en el artículo 101 Nonies del mismo, se deberá presentar a través de los medios y formas que establezca la Secretaría, mediante reglas de carácter general, a más tardar el día 30 del mes de septiembre del ejercicio siguiente al cierre del periodo a dictaminar, por los contribuyentes obligados a dictaminar y aquellos que hayan optado por dictaminar el cumplimiento de sus obligaciones.
+
+###### ARTÍCULO QUINTO.
+
+Dentro de los 90 días siguientes a la publicación del presente Decreto, la Secretaría de Finanzas del Gobierno del Estado de Zacatecas, modificará su Reglamento Interior para adecuarlo a la presente reforma.
+
+###### ARTÍCULO SEXTO.
+
+La inscripción de los contadores públicos que realicen dictamen fiscal, deberá hacerse a más tardar el 30 de abril de 2020 y los ejercicios subsecuentes a más tardar el 28 de febrero de cada año, cuyo procedimiento se regirá en lo establecido en el artículo segundo de estas disposiciones transitorias.
+
+###### ARTÍCULO SÉPTIMO.
+
+Para los efectos de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios, el Titular del Poder Ejecutivo llevará a cabo acciones para generar ahorros y economías, durante el ejercicio fiscal 2020, respecto del gasto corriente y estructuras, que no esté relacionado con programas de atención a la población.
+
+Los Poderes Legislativo y Judicial, así como los organismos autónomos, deberán adoptar acciones que les permitan obtener economías en los mismos términos del párrafo anterior, en el ámbito de sus respectivas competencias.
+
+Dichas (sic) ahorros y economías en ningún momento serán en detrimento de la calidad en el desempeño de la función y administración pública.
+
+El resultado de la aplicación de las acciones descritas en el presente artículo deberá reportarse en los informes trimestrales.
+
+###### ARTÍCULO OCTAVO.
+
+Derivado de la reforma a los artículos 2 y 34 de la Ley de Coordinación y Colaboración Financiera para el Estado de Zacatecas y sus Municipios, los municipios que en el ejercicio fiscal 2020 pudiesen observar un crecimiento menor, derivado de la reforma a la fórmula para determinar y distribuir sus participaciones, tendrán garantizado que su participación no sea menor a la que obtuvieron en el ejercicio fiscal 2019, las cuales podrán cubrirse, en su caso, a través del Fondo de Estabilización de los Ingresos de las Entidades Federativas, en los términos establecidos en las leyes de la materia.
