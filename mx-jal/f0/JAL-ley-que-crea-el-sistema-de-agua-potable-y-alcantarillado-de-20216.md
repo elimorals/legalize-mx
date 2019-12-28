@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-crea-el-sistema-de-agua-potable-y-alcantarillado-de-202
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-31"
-last_updated: "2014-02-22"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE CREA EL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DE DEGOLLADO, JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 31 de agosto de 1996.
 
@@ -141,9 +141,9 @@ XII.- Resolver sobre las solicitudes para la prestación de los servicios de agu
 
 XIII.- Ejercer la vigilancia general que los servicios demanden y tomar las medidas necesarias para su conservación y reparación resolviendo lo relativo a sus mejoras y ampliaciones;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XIV.- Promover ante el Ayuntamiento de Degollado, Jalisco, cuando se ejercite la facultad económica-coactiva, en el cobro de adeudos a cargo de usuarios morosos, debiéndose considerar para todos los efectos, dichos adeudos, como créditos fiscales, en los términos de la Ley de Hacienda Municipal, o en su caso, promover la celebración de convenios de coordinación entre el Ayuntamiento y el Gobierno del Estado, para que la Secretaría de Planeación, Administración y Finanzas de la entidad se haga cargo de la recaudación o intervenga para los efectos de hacer efectivos los créditos insolutos, a través de sus oficinas de recaudación fiscal competentes;
+XIV.- Promover ante el Ayuntamiento de Degollado, Jalisco, cuando se ejercite la facultad económica-coactiva, en el cobro de adeudos a cargo de usuarios morosos, debiéndose considerar para todos los efectos, dichos adeudos, como créditos fiscales, en los términos de la Ley de Hacienda Municipal, o en su caso, promover la celebración de convenios de coordinación entre el Ayuntamiento y el Gobierno del Estado, para que la Secretaría de la Hacienda Pública de la entidad se haga cargo de la recaudación o intervenga para los efectos de hacer efectivos los créditos insolutos, a través de sus oficinas de recaudación fiscal competentes;
 
 XV.- Vigilar el cumplimiento de las dispocisiones (sic) de esta ley y su reglamento, por parte de los usuarios de los servicios, a través de su Director General y las dependencias que se determinan;
 
@@ -298,3 +298,9 @@ Lic. Raúl Octavio Espinoza Martínez
 P.O. 22 DE FEBRERO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27592/LXII/19 QUE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 9, DE LA LEY QUE CREA EL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DE DEGOLLADO, JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
