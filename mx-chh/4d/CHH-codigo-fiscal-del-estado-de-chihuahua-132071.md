@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-132071"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-12-31"
-last_updated: "2019-03-13"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Código publicado en el Folleto Anexo al Número 104 del Periódico Oficial del Estado de Chihuahua, el lunes 31 de diciembre de 2018.
 
@@ -1085,9 +1085,11 @@ Asimismo, con la finalidad de fortalecer la administración y recaudación de lo
 
 La condonación o reducción de impuestos solamente podrá concederse por decreto del Congreso del Estado expedido con aplicación general, y únicamente en los casos en que por fuerza mayor o por accidentes naturales ocurridos en el Estado, los causantes hayan sufrido perjuicios considerables que afecten tanto su situación económica como los diversos elementos que haya tenido en cuenta la ley para establecer los impuestos de que se trate. Sin embargo, tratándose de rezagos, o sea de impuestos que se perciban en años posteriores al en que el crédito se haya generado, el Gobernador del Estado y el Secretario de Hacienda, podrán condonarlos o reducirlos cuando lo consideren justo y equitativo en los términos de la fracción XXV del artículo 93 de la Constitución Política del Estado. El acuerdo en que se autorice esta medida deberá precisar su aplicación y alcance, así como la región o regiones en cuyo beneficio se dicte y será publicado en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 88-A.
 
-La Secretaría de Hacienda, una vez apreciados discrecionalmente los motivos que tuvo la autoridad para la imposición de sanciones y las demás circunstancias del caso; podrá condonar las multas por infracciones a las disposiciones fiscales y la indemnización por falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal; así mismo por razones plenamente justificadas, podrán ser condonados los derechos por servicios que preste el Estado. Las condonaciones anteriormente mencionadas solo podrán realizarse de manera particular en cada caso que específicamente le sea planteado a la Secretaría mencionada, y nunca con efectos generales. Contra estas resoluciones no cabrá recurso alguno.
+La Secretaría de Hacienda, una vez apreciados discrecionalmente los motivos que tuvo la autoridad para la imposición de sanciones y las demás circunstancias del caso, podrá condonar las multas por infracciones a las disposiciones fiscales y la indemnización por falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal; así mismo, podrán ser condonados los derechos por servicios que preste el Estado. Las condonaciones anteriormente mencionadas solo podrán realizarse de manera particular en cada caso que específicamente le sea planteado a la Secretaría mencionada, y nunca con efectos generales, salvo los casos en que la Secretaría elabore y ejecute programas tendientes a incrementar los ingresos del Estado. Contra estas resoluciones no cabrá recurso alguno.
 
 ###### Artículo 88-B.
 
@@ -3113,6 +3115,10 @@ Los plazos para cumplimiento de la resolución que establece este artículo, emp
 
 Las autoridades fiscales competentes, por las infracciones cometidas por los contribuyentes y sujetos obligados, podrán imponer las multas administrativas que en este Código y demás disposiciones aplicables se establecen, y la aplicación de las multas por infracciones a las disposiciones fiscales, es independiente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+Cuando las multas no se paguen en la fecha establecida en las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en los términos del artículo 23 de este Código.
+
 ###### Artículo 246.
 
 Cuando la multa aplicable a una misma conducta que se tipifica como infracción sea modificada posteriormente mediante reforma al precepto legal que la contenga, las autoridades fiscales aplicarán la multa que resulte menor entre la existente en el momento en que se cometió la infracción y la multa vigente en el momento de su imposición.
@@ -3374,3 +3380,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día en que se emita la decla
 SEGUNDO.- Hasta la fecha en que entre en vigor el presente Decreto, el Poder Judicial del Estado, a través de la Sala de lo Contencioso Administrativo y Fiscal, conocerá de los asuntos en la materia, debiendo concluir los que se encuentren en trámite, conforme a las disposiciones del Código Fiscal del Estado de Chihuahua, publicado en el Periódico Oficial del Estado de fecha 30 de diciembre de 1970.
 
 TERCERO.- Todas las referencias contenidas en los ordenamientos legales, a la Sala de lo Contencioso Administrativo y Fiscal del Tribunal Superior de Justicia del Estado, se entenderán hechas al Tribunal Estatal de Justicia Administrativa. Así como las relativas al Juicio de Oposición, habrá de entenderse al Juicio Contencioso Administrativo.
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLYC/0636/2019".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil veinte.
