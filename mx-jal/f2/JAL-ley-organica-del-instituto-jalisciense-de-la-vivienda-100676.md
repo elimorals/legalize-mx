@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-jalisciense-de-la-vivienda-100676"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-05-09"
-last_updated: "2014-05-17"
+last_updated: "2019-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100676&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE LA VIVIENDA
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE MAYO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Número Ter de la Edición Especial del Periódico Oficial del Estado de Jalisco, el viernes 9 de mayo de 2014.
 
@@ -177,7 +175,9 @@ I. El Gobernador del Estado o la persona que éste designe en su representación
 
 II. El Secretario General de Gobierno;
 
-III. El Secretario de Planeación, Administración y Finanzas;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+III. El Secretario de la Hacienda Pública;
 
 IV. El Secretario de Infraestructura y Obra Pública;
 
@@ -237,15 +237,21 @@ XV. Establecer las bases para determinar el demérito del patrimonio inicial del
 
 XVI. Conocer de las quejas y denuncias que se presenten en contra del Director General del Instituto;
 
-XVII. Proponer al Gobernador del Estado, por conducto de la Secretaría de Planeación, Administración y Finanzas, los proyectos de escisión o de convenios de fusión con otras Entidades en materia de Políticas y Programas de Vivienda;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-XVIII. Proponer a la Secretaría de Planeación, Administración y Finanzas la constitución de reservas y su aplicación, en caso de excedentes económicos del Instituto;
+XVII. Proponer al Gobernador del Estado, por conducto de la Secretaría de la Hacienda Pública, los proyectos de escisión o de convenios de fusión con otras Entidades en materia de Políticas y Programas de Vivienda;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XVIII. Proponer a la Secretaría de Hacienda Pública la constitución de reservas y su aplicación, en caso de excedentes económicos del Instituto;
 
 XIX. Emitir acuerdo en los casos en que el Director General pretenda otorgar, sustituir o revocar poderes, que siempre deberán ser especiales, con excepción de aquéllos que se confieran para pleitos y cobranzas, mismos que podrán ser generales;
 
 XX. Aprobar los informes periódicos que rinda el Director General, con la intervención del Órgano de Vigilancia;
 
-XXI. Aprobar las bases tomando en consideración los principios establecidos en el Código Fiscal del Estado de Jalisco, para cancelar adeudos a cargo de terceros y a favor del Instituto cuando sea notoria la imposibilidad práctica de su cobro e informarlo a la Secretaría de Planeación, Administración y Finanzas;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+XXI. Aprobar las bases tomando en consideración los principios establecidos en el Código Fiscal del Estado de Jalisco, para cancelar adeudos a cargo de terceros y a favor del Instituto cuando sea notoria la imposibilidad práctica de su cobro e informarlo a la Secretaría de la Hacienda Pública,
 
 XXII. Atender los informes sobre control y auditoría que le remita el Órgano de Vigilancia del Instituto;
 
@@ -590,3 +596,11 @@ El Secretario General de Gobierno
 ARTURO ZAMORA JIMÉNEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27742/LXII/19 QUE REFORMA LOS ARTÍCULOS 7° Y 9° DE LA LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE LA VIVIENDA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco''.
