@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-instituto-estatal-de-las-mujeres-del-estado-de-104910"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-25"
-last_updated: "2017-11-16"
+last_updated: "2019-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DEL INSTITUTO ESTATAL DE LAS MUJERES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 25 de diciembre de 2014.
 
@@ -109,9 +109,29 @@ IX. Proponer a las autoridades federales, estatales o municipales, según corres
 
 X. Gestionar ante agencias nacionales e internacionales el financiamiento de apoyo económico para programas, proyectos productivos o investigaciones de instituciones u organizaciones en beneficio de mujeres;
 
-XI. Promover la realización de programas y atención para las mujeres en situación de vulnerabilidad, así como de incentivar la incorporación de las mujeres discapacitadas a las labores remuneradas; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
-XII. Las demás que le confiere las leyes, decretos, acuerdos y reglamentos para el cumplimiento de su objeto.
+XI. Promover la realización de programas y atención para las mujeres en situación de vulnerabilidad, así como de incentivar la incorporación de las mujeres discapacitadas a las labores remuneradas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+XII. Promover en los órdenes estatal y municipal, así como en los diversos sectores de la sociedad, acciones dirigidas a mejorar la condición social de la población femenina y la erradicación de todas las formas de discriminación y violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+XIII. Establecer comunicación y coordinación permanente con las autoridades responsables de la procuración e impartición de justicia y de la seguridad pública de la Federación, Estado y Municipios, para proponer medidas de prevención, atención y sanción contra cualquier forma de violación de los derechos de las mujeres, con especial énfasis en los de la niñez;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+XIV. Otorgar atención especial a las mujeres de las comunidades indígenas, promoviendo entre ellas, el respeto a los derechos humanos y la revaloración de los derechos específicos al género;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+XV. Promover y fomentar en las mujeres el acceso al empleo y al comercio e informarles sobre sus derechos laborales y las condiciones de trabajo apropiadas en condiciones de igualdad con los hombres; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+XVI. Las demás que le confiere las leyes, decretos, acuerdos y reglamentos para el cumplimiento de su objeto.
 
 ### CAPÍTULO II. DEL PATRIMONIO
 
@@ -424,3 +444,15 @@ P.O. 16 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
 
 TERCERO (SIC). Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 224.- POR EL QUE SE REFORMA Y ADICIONA LA LEY DEL INSTITUTO ESTATAL DE LAS MUJERES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
