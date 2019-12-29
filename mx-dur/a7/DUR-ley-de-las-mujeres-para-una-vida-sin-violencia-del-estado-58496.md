@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-mujeres-para-una-vida-sin-violencia-del-estado-58496
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-30"
-last_updated: "2019-08-08"
+last_updated: "2019-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2007.
 
@@ -205,9 +205,9 @@ VIII. Hostigamiento: Ejercicio del poder en una relación de subordinación real
 
 IX. Acoso Sexual: Forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo del poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en espacios públicos o privados, en uno o varios eventos;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
-X. Violencia Política: Es el acto u omisión que constituye violencia física, psicológica o sexual cometida por los sujetos a que hace mención el artículo 442 de la Ley General de Instituciones y Procedimientos Electorales, en forma individual o colectivamente, por si o a través de terceros, en contra de una o varias mujeres o de sus familias, antes, durante o después de las precampañas y campañas políticas; al momento de ser electas; en ejercicio de la función o representación pública; con la finalidad de limitar, suspender, impedir o restringir el ejercicio de su cargo o para inducirla u obligarla a que realice, en contra de su voluntad, una acción o incurra en una omisión, en el cumplimiento de sus funciones o en el ejercicio de sus derechos;
+X. Violencia Política: Es el acto u omisión que constituye violencia física, psicológica o sexual cometida por los sujetos a que hace mención el artículo 442 de la Ley General de Instituciones y Procedimientos Electorales, en forma individual o colectivamente, por si o a través de terceros, en contra de una o varias mujeres o de sus familias, antes, durante o después de las precampañas y campañas políticas; al momento de ser electas; en ejercicio de la función o representación pública; que tenga por objeto o resultado restringir, anular o menoscabar el ejercicio efectivo de los derechos político-electorales, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones y la libertad de organización, con la finalidad de limitar, suspender, impedir o restringir el ejercicio de su labor o para inducirla u obligarla a que realice, en contra de su voluntad, una acción o incurra en una omisión, en el cumplimiento de sus funciones o en el ejercicio de sus derechos;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2019)</small>
 
@@ -217,9 +217,9 @@ XI. Violencia simbólica: la que se ejerza a través de patrones estereotipados,
 
 XII. Violencia Mediática: Toda aquella publicación o difusión de mensajes e imágenes a través de cualquier medio masivo de comunicación, que de manera directa o indirecta promueva la explotación de mujeres o sus imágenes, injurie, difame, discrimine, deshonre, humille o atente contra la dignidad de las mujeres;
 
-> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
-XIII. Violencia Digital: Toda aquella agresión psicológica o emocional que realiza una persona a través y por el uso de las nuevas tecnologías de la información y comunicación, contra su pareja, ex pareja o (sic) contra de cualquier mujer, con la finalidad de discriminación, dominación sometimiento, acoso, extorción, intromisión o cualquiera otra que ponga en riesgo la salud y/o la seguridad de la víctima; y
+XIII. Violencia digital: Es cualquier acto que se presenta a través de las Tecnologías de la Información y la Comunicación (TIC), plataformas de internet, redes sociales o correo electrónico, o cualquier otro espacio digitalizado que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño o sufrimiento psicológico, físico, económico o sexual tanto en el ámbito privado como en el público; así como daño moral a ellas y/o su familia. Se manifiesta mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas.
 
 XIV. Cualquier otra acción, conducta u omisión que provoque violencia en cualquiera de sus formas contra las mujeres.
 
@@ -287,9 +287,9 @@ Se consideran actos de violencia política hacia las mujeres entre otros:
 
 a) Limitar sin justificación el ejercicio de sus derechos para contender en los procesos internos de sus institutos políticos, con la finalidad de que no logren acceder a una candidatura, o en los procesos interpartidarios para ocupar un cargo o cartera dentro de su instituto político;
 
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
-b) Proporcionar información incompleta, falsa o errónea de datos personales de las mujeres candidatas a cargo de elección popular, al Instituto Electoral y de Participación Ciudadana del Estado de Durango o de los Consejos Municipales del propio Instituto, con la finalidad de impedir el registro o anular sus candidaturas;
+b) Proporcionar información incompleta, falsa o errónea de datos personales de las mujeres candidatas a cargo de elección popular, al Instituto Electoral y de Participación Ciudadana del Estado de Durango o de los Consejos Municipales del propio Instituto, con la finalidad de impedir el registro, anular sus candidaturas, de menoscabar los derechos político-electorales de las mujeres y la garantía del debido proceso electoral;
 
 > <small>(ADICIONADO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -343,19 +343,43 @@ n) Imponer, por estereotipos de género, la realización de actividades y tareas
 
 ñ) Impedir o restringir la reincorporación de la mujer a su cargo, cuando hagan uso de una licencia justificada, incluyendo la licencia de maternidad.
 
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
-o) Restringir o impedir el uso de las acciones constitucionales y legales para proteger sus derechos, y/o evitar el cumplimiento de las resoluciones correspondientes; y
+o) Restringir o impedir el uso de las acciones constitucionales y legales para proteger sus derechos, y/o evitar el cumplimiento de las resoluciones correspondientes;
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2019)</small>
 
 p) Aplicar sanciones pecuniarias, descuentos arbitrarios e Ilegales (sic) y/o retención de salarios.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
-###### Artículo 12.
+q) Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
 
-La violencia contra las mujeres en el ámbito institucional, es el abuso de poder llevado a cabo por los servidores públicos de los tres órdenes de gobierno, que se traducen en actos u omisiones que perjudican, menoscaban, dilatan, obstaculizan o impiden el goce y disfrute de los derechos y libertades de la víctima; así como el acceso a políticas destinadas a prevenir, atender, sancionar y erradicar la violencia contra las mujeres.
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+r) Suministrar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa, errada o imprecisa que induzca al incorrecto ejercicio de sus atribuciones;
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+s) Ocultar información u omitir la convocatoria de cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y/o actividades;
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+t) Establecer conductas que impliquen amenazas verbales, difamación, desprestigio, burlas, descalificación, acecho, hostigamiento, acoso sexual y/o calumnias en público o privado, por cualquier medio convencional y/o digital;
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+u) Presionar, intimidar y/u obligar de manera directa o indirecta a la renuncia o a la solicitud de licencia de los cargos de elección popular o de la función pública según sea el caso, y
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+v) Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un espacio público, de poder o de decisión.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 12.
+
+La violencia contra las mujeres en el ámbito institucional, es el abuso de poder llevado a cabo por los servidores públicos de los tres órdenes de gobierno, que se manifiesta en minimización, anulación, presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas o privación de la libertad, que se traducen en actos u omisiones que perjudican, menoscaban, dilatan, obstaculizan o impiden el goce y disfrute de los derechos y libertades de la víctima; así como el acceso a políticas destinadas a prevenir, atender, sancionar y erradicar la violencia contra las mujeres.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
@@ -1848,3 +1872,23 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 225.- POR EL QUE SE REFORMA Y ADICIONA LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 243.- QUE CONTIENE REFORMAS Y ADICIONES AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
