@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transito-para-los-municipios-del-estado-de-durango-10418
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-22"
-last_updated: "2016-12-25"
+last_updated: "2019-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "DUR"
 
 LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2019.
 
-Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22 de diciembre de 1996.
+Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 22 de diciembre de 1996.
 
 EL CIUDADANO LICENCIADO MAXIMILIANO SILERIO ESPARZA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A SUS HABITANTES, S A B E D:
 
@@ -194,6 +194,42 @@ XII.- Estimular la creación y el uso de vehículos de tecnología alternativa, 
 XIII.- Instrumentar las medidas necesarias para proteger a los peatones, a los menores de edad, a las personas con discapacidad y a los adultos mayores, en su carácter de usuarios de la vía pública; y
 
 XIV.- Proteger la salud, la seguridad individual y el patrimonio de la ciudadanía frente a los riesgos producidos por la conducción de vehículos automotores.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 18 BIS.- Los peatones gozarán de los siguientes derechos:
+
+I. Que los centros urbanos ofrezcan la posibilidad de desplazamiento peatonal, con las condiciones óptimas de comodidad, habitabilidad, seguridad y el uso de medios de transporte acordes.
+
+II. Disfrutar del espacio público y de un medio ambiente sano, en condiciones de seguridad, comodidad y accesibilidad adecuadas para su salud física, emocional y mental;
+
+III. Acceder a un sistema de movilidad libre, seguro e incluyente, a través de un servicio de transporte público debidamente equipado, así como de zonas seguras para todo tipo de movilidad urbana y la disposición de áreas de aparcamiento que no afecten su movilidad;
+
+IV. Derecho de paso en todas las intersecciones, en las zonas con señalamiento para tal efecto y en aquellas en que el tránsito vehicular esté controlado por dispositivos electrónicos o por agentes de tránsito;
+
+V. Derecho de paso libre sobre las aceras y zonas peatonales;
+
+VI. Derecho de preferencia al cruzar las calles, cuando el señalamiento de tránsito permita el paso simultáneo de vehículos y peatones, en los cruces peatonales con señalamiento específico en vuelta continua de los vehículos a la derecha o a la izquierda o con señalamiento manual o electrónico, cuando habiéndoles correspondido el paso de acuerdo con el ciclo del semáforo no alcancen a cruzar totalmente la vía, cuando transiten en formación, desfile, filas escolares o comitivas organizadas y cuando transiten por la banqueta y algún conductor deba cruzarla para entrar o salir de alguna cochera, estacionamiento o calle privada;
+
+VII. Derecho de orientación, entendido como la obligación a cargo de los agentes, a proporcionar la información que soliciten los peatones, sobre el señalamiento vial, ubicación de las calles, normas que regulen el tránsito de personas y bienes; y
+
+VIII. Derecho de asistencia o auxilio, es decir, la obligación de los ciudadanos y agentes de tránsito de ayudar a los peatones menores de diez años, a los ancianos y a quienes no se encuentren en uso de sus facultades físicas o mentales para cruzar las calles, gozando de prioridad en el paso; en estos casos los agentes de tránsito, deberán acompañar a los menores y personas con movilidad limitada, hasta que se complemente el cruzamiento.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 18 TER.- Al transitar por la vía pública, los peatones tienen la obligación de cumplir las disposiciones siguientes:
+
+I. Cruzar las calles en las esquinas o en las zonas especiales de paso, de forma perpendicular a las aceras, atendiendo las indicaciones de los oficiales de tránsito, cuando se encuentren presentes;
+
+II. Abstenerse de caminar a lo largo de la superficie de rodamiento de las calles;
+
+III. Dar preferencia de paso y asistencia a las personas que utilicen ayudas técnicas o tengan movilidad limitada;
+
+IV. En intersecciones no controladas por semáforos o agentes de tránsito, deberán cruzar las calles cerciorándose que pueden hacerlo con toda seguridad;
+
+V. Cuando no existan banquetas en las vialidades, deberá circular por el acotamiento y a falta de éste, por la orilla de la vía. En todo caso, procurarán circular en sentido contrario al tránsito de los vehículos; y
+
+VI. Al abordar o descender de un vehículo, no deberán obstaculizar la circulación, hasta el momento que se acerque el vehículo a la orilla de la banqueta y puedan hacerlo con toda seguridad.
 
 ###### ARTICULO 19.
 
@@ -374,6 +410,10 @@ ARTÍCULO 34 BIS.- El vidrio parabrisas frontal de los vehículos a motor que ci
 Se prohíbe la circulación de vehículos con todos los vidrios oscurecidos por micas o tintes especiales que impidan la visibilidad hacia el interior del vehículo, y especialmente los dos vidrios laterales delanteros. Se exceptúan los polarizados y entintados de nivel medio, así como los que hayan sido instalados por el fabricante del vehículo, que se requieran por razones médicas y por autorización de la autoridad de tránsito.
 
 La Secretaría de Seguridad Pública del Gobierno del Estado se coordinará y colaborará con los ayuntamientos, a través de las Direcciones Municipales de Tránsito y Vialidad y de Seguridad Pública, para dar cumplimiento a lo establecido en este artículo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+Se prohíbe a los conductores o propietarios de cualquier tipo de motocicletas, trimoto, cuatrimoto, o motocarro, llevar como acompañante a menores de cinco años o que habiendo cumplido esa edad no puedan sujetarse por sus propios medios y alcanzar el posapiés o pedal que tenga el vehículo para ese efecto. Los Ayuntamientos sancionaran en los reglamentos que correspondan la violación a esta disposición.
 
 ###### ARTICULO 35.
 
@@ -838,3 +878,21 @@ Solo aquellos municipios del Estado de Durango, que celebren convenio con el Gob
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 241.- QUE CONTIENE ADICIONES A LA LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Los ayuntamientos del Estado deberán expedir, dentro de los 90 días posteriores a la publicación del presente decreto las disposiciones reglamentarias a fin de dar cumplimiento al mismo.
+
+P.O. 29 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 242.- QUE CONTIENE REFORMAS A LA LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. En un plazo que no exceda de 45 días posteriores a la entrada en vigor del presente Decreto, los Ayuntamientos deberán expedir la reglamentación necesaria para dar cumplimiento a este decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
