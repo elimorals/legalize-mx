@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-extincion-de-dominio-para-el-estado-de-durango-103954"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-27"
-last_updated: "2017-03-05"
+last_updated: "2019-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 254, PUBLICADO EN EL PERIÓDICO OFICIAL DE 29 DE DICIEMBRE DE 2019, LA PRESENTE LEY HA SIDO ABROGADA.]</small>
+
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2019 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 27 de noviembre de 2014.
 
@@ -798,3 +800,13 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 29 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 254.- QUE CONTIENE ABROGACIÓN DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se contravengan al contenido del presente decreto.
+
+TERCERO.- Los procesos en materia de extinción de dominio iniciados con fundamento en la Ley de Extinción de Dominio para el Estado de Durango, publicada en el Periódico Oficial No. 95 bis de fecha 27 de noviembre de 2014, deberán concluirse y ejecutarse conforme a la misma; las sentencias dictadas con base en el ordenamiento que deja de tener vigencia a la entrada del presente Decreto surtirán todos sus efectos jurídicos. Las investigaciones en preparación de la acción de extinción de dominio deberán continuarse con la Ley Nacional de Extinción de Dominio.
