@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-publica-para-el-estado-de-durango-106258"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-28"
-last_updated: "2018-06-24"
+last_updated: "2019-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 28 de diciembre de 2014.
 
@@ -73,7 +73,9 @@ VIII. Instituir el servicio policial de carrera;
 
 IX. Determinar el régimen de sanciones aplicable a los miembros de las corporaciones de seguridad pública, cuando infrinjan la presente Ley y sus reglamentos, sin perjuicio de lo dispuesto en otras disposiciones aplicables; y
 
-X. Fijar las bases para regular los Consejos de Honor y Justicia de los cuerpos de seguridad pública estatales y establecer sus facultades para aplicar los sistemas disciplinarios, de estímulos y recompensas.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+X. Fijar las bases para regular los Consejos de Profesionalización, Honor y Justicia de las Corporaciones de Seguridad Pública y establecer sus facultades para aplicar los sistemas disciplinarios, de estímulos y recompensas.
 
 ###### ARTÍCULO 2.
 
@@ -431,7 +433,9 @@ XIII. Optimizar el uso de los recursos federales, estatales y municipales que se
 
 XIV. Informar oportunamente al Gobernador del Estado sobre alteraciones graves del orden público o la tranquilidad social en su Municipio;
 
-XV. Integrar el Consejo de Honor y Justicia a que se refiere esta Ley;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+XV. Integrar el Consejo de Profesionalización, Honor y Justicia a que se refiere esta Ley; Auxiliar a las autoridades federales y estatales de seguridad pública, así como a las autoridades judiciales y de procuración de justicia cuando sea requerido;
 
 XVI. Auxiliar a las autoridades federales y estatales de seguridad pública, así como a las autoridades judiciales y de procuración de justicia cuando sea requerido;
 
@@ -1111,11 +1115,13 @@ En los casos no previstos en la presente Ley en materia de seguridad privada, se
 
 ### CAPÍTULO I. DEL INSTITUTO SUPERIOR DE SEGURIDAD PÚBLICA DEL ESTADO DE DURANGO
 
-###### ARTÍCULO 78.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
-Se crea el Instituto Superior de Seguridad Pública del Estado de Durango, como un organismo público descentralizado de la Administración Pública Estatal, dotado de personalidad jurídica y patrimonio propio, carácter técnico y autonomía de gestión, el cual estará sectorizado a la Secretaría de Seguridad Pública del Estado de Durango, teniendo como objeto diseñar y ejecutar de acuerdo a la normatividad aplicable, los planes y programas para la formación, profesionalización, actualización y certificación de los aspirantes e integrantes de las corporaciones policiales del Estado, los cuales se fundamentarán en los principios de legalidad, objetividad, eficiencia, transparencia, profesionalismo, honradez y respeto a los derechos humanos que rigen la presente Ley.
+###### Artículo 78.
 
-El Instituto tendrá su domicilio en la ciudad Victoria de Durango, y podrá establecer unidades representativas en cualquier lugar del Estado de Durango.
+El Instituto Superior de Seguridad Pública del Estado de Durango, será un órgano desconcentrado de la Secretaría de Seguridad Pública del Estado de Durango, el cual tiene como objeto diseñar y ejecutar de acuerdo a la normatividad aplicable, los planes y programas para la formación, profesionalización, actualización y certificación de los aspirantes e integrantes de las corporaciones policiales del Estado, bajo los principios de legalidad, objetividad, eficiencia, transparencia, profesionalismo, honradez y respeto a los derechos humanos que rigen la presente Ley.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
 Para el cumplimiento de su objeto, el Instituto tendrá las siguientes funciones:
 
@@ -1167,73 +1173,25 @@ XXIII. Tramitar los registros, autorizaciones y reconocimiento de los planes y p
 
 XXIV. Las demás que establezcan las disposiciones legales aplicables.
 
-La organización y funcionamiento del Instituto, se regirá por las disposiciones de la presente Ley, de su Reglamento y de la Ley de Entidades Paraestatales del Estado de Durango.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 79.
 
-Para el ejercicio de las atribuciones que le confiere esta ley, el Instituto contará con los Órganos de Gobierno siguientes:
-
-I. El Consejo Directivo, y
-
-II. La Dirección General.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2019)
 
 ###### ARTÍCULO 80.
 
-El Consejo Directivo será la máxima autoridad del Instituto y está integrada por:
-
-I. Un Presidente que será el Titular del Poder Ejecutivo.
-
-II. Un Vicepresidente que será el Secretario de Seguridad Pública.
-
-III. Como Vocales:
-
-a) El Secretario General de Gobierno.
-
-b) El Secretario de Finanzas y de Administración.
-
-c) Tres miembros distinguidos de la sociedad civil, preferentemente integrantes del Consejo Estatal de Seguridad Pública, quienes serán designados por el Presidente.
-
-IV. Un Comisario Público, designado por la Secretaría de Contraloría, con derecho a voz pero sin voto.
-
-El cargo de miembro del Consejo Directivo será honorario, por lo que no recibirá retribución alguna. Los vocales a los que se refiere la fracción III, inciso c), de este artículo, durarán en su encargo tres años; sin embargo a su renuncia anticipada, serán sustituidos conforme al referido inciso.
-
-El Director General del Instituto, será designado conforme a la fracción V del artículo 31 de esta ley y fungirá como Secretario Técnico en las reuniones del Consejo Directivo, participando en ellas con voz pero sin derecho a voto.
-
-Los Servidores públicos que fungen como miembros del Consejo Directivo, contarán con un suplente, cuya personalidad será acreditada y registrada para efectos de dotar de validez a los acuerdos del Órgano de Gobierno en los que se participen.
-
-El Consejo Directivo celebrará sesiones ordinarias al menos, cuatro veces al año y, en forma extraordinaria, por la urgencia o trascendencia de los asuntos a tratar; ambas deberán ser convocadas por su Presidente. Para que las sesiones sean válidas se requiere la asistencia de cuando menos la mitad más uno de sus miembros y los acuerdos se tomarán por mayoría de votos, en caso de empate el Presidente tendrá voto de calidad.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2019)
 
 ###### ARTÍCULO 81.
 
-El Consejo Directivo tendrá las facultades y obligaciones indelegables siguientes:
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2019)
 
-I. Establecer las políticas y lineamientos generales para el desarrollo, el funcionamiento, operación de recursos y de las actividades del Instituto.
-
-II. Aprobar y expedir el reglamento interior, los manuales de organización y funciones, acuerdos y demás disposiciones generales que normen el funcionamiento del Instituto, propuestos por el Director General.
-
-III. Examinar y aprobar en su caso, los estudios y proyectos en lo particular, sobre actividades que correspondan a la ejecución de los fines de la Institución y aprobar en su caso, los convenios que se suscriban;
-
-IV. Conocer en forma periódica, los informes de labores que rinda el Director General.
-
-V. Fijar políticas generales, para el funcionamiento, operación de recursos y organización del Instituto.
-
-VI. Aprobar los estados financieros del Instituto, enviados por el Director, previo informe emitido por parte del Comisario Público y remitirlos a la Entidad de Auditoria Superior del Estado para los efectos de su revisión.
-
-VII. Aprobar la estructura básica de la organización del Instituto y las modificaciones que procedan a la misma, en base a la propuesta que presente el Director General y a la normatividad aplicable.
-
-VIII. Vigilar la preservación y conservación del patrimonio del Instituto, así como conocer y resolver sobre los actos que dispongan de sus bienes.
-
-IX. Autorizar la aplicación de los ingresos propios que genere el Instituto, de conformidad con las disposiciones legales aplicables.
-
-X. Certificar que los cursos y estudios que se impartan, cumplan los estándares de calidad, conforme a los convenios que se suscriban a nivel federal, conforme a las leyes vigentes; y
-
-XI. Las demás que le señale la Ley de Entidades Paraestatales del Estado de Durango, y otras disposiciones jurídicas y reglamentarias aplicables.
-
-Para el cumplimiento de las facultades conferidas, el Consejo Directivo contará con el apoyo de un Consejo Técnico Consultivo, con funciones de opinión y asesoría. La organización y funcionamiento del Consejo Técnico se establecerá en las normas reglamentarias que al efecto emita el Consejo Directivo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 82.
 
-Para ser Director General del Instituto, se deberá cumplir con los siguientes requisitos:
+Para ser Director del Instituto, se deberá cumplir con los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos;
 
@@ -1247,13 +1205,15 @@ V. No desempeñar otro cargo público por el cual reciba remuneración; y
 
 VI. Los demás que establezcan el reglamento de esta Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 83.
 
-El Director General del Instituto tendrá las atribuciones siguientes:
+El Director del Instituto tendrá las atribuciones siguientes:
 
-I. Presentar al Consejo Directivo del Instituto:
+I. Presentar al Secretario de Seguridad Pública:
 
-a) Las propuestas de planes y programas específicos y los contenidos en los convenios que se suscriban para la formación de los aspirantes e integrantes de las corporaciones policiales del Estado y los Municipios, así como del personal docente y administrativo a su cargo;
+a) Las propuestas de planes y programas específicos y los contenidos en los convenios que se suscriban para la formación de los aspirantes e integrantes de las corporaciones policiales del Estado y los Municipios y del personal docente y administrativo a su cargo;
 
 b) Los estudios y proyectos sobre actividades que correspondan a la ejecución de los fines de la Institución;
 
@@ -1261,55 +1221,37 @@ c) El proyecto de reglamento interno del Instituto; y
 
 d) Las políticas generales para el funcionamiento, operación de recursos y organización del Instituto.
 
-II. Certificar los cursos y estudios que imparta, a través de sistema de estándares de calidad;
+II. Certificar los cursos y estudios que imparta, a través de (sic) Sistema de Estándares de Calidad;
 
-III. Participar como vocal en el Consejo de Honor y Justicia de la Secretaria de Seguridad Pública, vigilando el exacto cumplimiento de los acuerdos y resoluciones que dichos órganos emitan y como Secretario Técnico en las reuniones del Consejo Directivo;
+III. Participar como vocal en el Consejo de Profesionalización Honor y Justicia de las Corporaciones de Seguridad Pública, vigilando el exacto cumplimiento de los acuerdos y resoluciones que dicho órgano emita;
 
-IV. Informar periódicamente al Consejo Directivo y al Consejo Técnico Consultivo, el cumplimiento de los acuerdos y resoluciones emitidos en sus sesiones ordinarias o extraordinarias;
+IV. Informar periódicamente a la instancia correspondiente, el cumplimiento de los acuerdos y resoluciones emitidas en sus sesiones ordinarias o extraordinarias;
 
 V. Representar al Instituto como apoderado general para pleitos y cobranzas y actos de administración, de acuerdo con el reglamento interior del mismo;
 
 VI. Elaborar los proyectos y programas, estados financieros y los demás que se le soliciten;
 
-VII. Previa aprobación del Consejo Directivo, celebrar convenios con los Municipios, personas físicas o morales, públicas o privadas, para el desarrollo y aplicación de los programas de capacitación, actualización, especialización y profesionalización;
+VII. Proponer al Secretario de Seguridad Pública, la celebración de convenios con los Municipios, personas físicas o morales, públicas o privadas, para el desarrollo y aplicación de los programas de capacitación, actualización, especialización y profesionalización;
 
 VIII. Cumplir con los programas y lineamientos establecidos por la Secretaría de Seguridad;
 
-IX. Ejercer el presupuesto del Instituto, bajo la supervisión y aprobación del Consejo Directivo del Instituto;
+IX. Ejercer el presupuesto del Instituto, conforme a los lineamientos y normatividad aplicable en materia de disciplina financiera;
 
 X. Aprobar y hacer cumplir el calendario de actividades del Instituto;
 
-XI. Designar, previo acuerdo con el Presidente del Consejo, a los Funcionarios y demás personal del Instituto;
+XI. Designar, previo acuerdo del Secretario de Seguridad Pública, a los servidores públicos y demás personal del Instituto;
 
 XII. Aplicar sanciones y medidas disciplinarias al personal y alumnado que infrinja las disposiciones reglamentarias respectivas;
 
-XIII. Promover la impartición permanente de cursos básicos, medio y superior de especialización, de actualización y de promoción, para el mejoramiento profesional de los integrantes de las corporaciones de seguridad pública del Estado;
+XIII. Promover la impartición permanente de cursos básicos, medio y superior de especialización, actualización y promoción, para el mejoramiento profesional de los integrantes de las corporaciones de seguridad pública del Estado;
 
-XIV. Someter a consideración del Consejo Directivo, el informe financiero del año fiscal correspondiente, para los efectos de su revisión y aprobación; y
+XIV. Someter a consideración del Secretario de Seguridad Pública, el informe financiero del año fiscal correspondiente, para los efectos legales a que haya lugar; y
 
 XV. Las demás que le señalen las disposiciones jurídicas y reglamentarias aplicables.
 
 ###### ARTÍCULO 84.
 
-El patrimonio del Instituto estará constituido por:
-
-I. Las aportaciones, participaciones, subsidios y apoyo que le otorguen los Gobiernos Federal, Estatal y Municipal y los organismos del sector social que coadyuven a su financiamiento;
-
-II. Los ingresos que obtenga por los servicios que preste en el cumplimiento de su objeto;
-
-III. Los legados y donaciones otorgados en su favor y demás liberalidades que reciba de las personas de los sectores social y privado;
-
-IV. Los derechos, bienes muebles e inmuebles que adquiera por cualquier título jurídico para el cumplimiento de su objeto, y
-
-V. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos y demás ingresos que adquiera por cualquier título legal.
-
-Los bienes inmuebles que formen parte del patrimonio del Instituto serán inalienables e imprescriptibles y en todo caso se estará conforme a la ley respecto de las contribuciones estatales. Tampoco estarán gravados los actos y contratos en los que intervenga, si las contribuciones conforme a las leyes respectivas, tuvieran carácter estatal.
-
-Los ingresos propios que el Instituto obtenga por los servicios que presta o las donaciones que reciba, serán integrados a su patrimonio y no podrán ser contabilizados como aportaciones del Gobierno Federal o del Gobierno Estatal, sin que ello implique excepción alguna respecto de las obligaciones de rendición de cuentas o de la sujeción a la fiscalización superior a cargo del Congreso del Estado. Los ingresos propios del Instituto se ejercerán conforme al programa previamente autorizado por el Consejo Directivo.
-
-El Instituto contará con un Órgano de Control Interno que estará a cargo del Comisario Público al que se refiere el artículo 81, así como de un Contralor y su respectivo suplente. El Contralor Interno y su suplente serán designados por el titular de la Secretaría de Contraloría, conforme a la Ley Orgánica de la Administración Pública del Estado de Durango.
-
-El personal del Instituto en su relación laboral, por la naturaleza de sus funciones será de base, confianza o por honorarios. La determinación de la relación laboral se establecerá conforme al artículo 123 Constitucional, a la Ley Federal de Trabajo y en cuanto aplique, en las disposiciones contenidas en la Ley de los Trabajadores al Servicio de los Tres Poderes del Estado de Durango.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2019)
 
 ### CAPÍTULO II. DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL
 
@@ -1353,53 +1295,65 @@ No podrá concederse constancia de grado a integrante alguno de las corporacione
 
 La operación del Servicio Profesional de Carrera Policial, quedará a cargo del Instituto, el cual será autónomo en su funcionamiento, en los términos del artículo 79 de esta Ley y gozará de las más amplias facultades para examinar al personal operativo de las diversas corporaciones policiales del Estado y de los Municipios, sus expedientes y hojas de servicio y funcionará en la forma que señale el reglamento específico en que se regule la operación del Servicio Profesional de Carrera Policial y se auxiliará por una Dirección con personal especializado del Instituto, así como con todas las áreas de la Secretaría, involucradas en la Carrera Policial
 
-### CAPÍTULO III. DE LOS CONSEJOS DE HONOR Y JUSTICIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO III. DE LOS CONSEJOS DE PROFESIONALIZACIÓN, HONOR Y JUSTICIA
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 92.
 
-El Consejo de Honor y Justicia de las Corporaciones de Seguridad Pública, será la autoridad colegiada que tendrá como fin velar por la honorabilidad y buena reputación de los integrantes de las corporaciones de seguridad pública y combatirá con energía las conductas lesivas para la comunidad o para la propia corporación. Para tal efecto, gozará de las más amplias facultades para examinar los expedientes u hojas de servicio de los elementos policiales, que le sean turnados por la Dirección de Asuntos Internos, para practicar las diligencias que le permitan allegarse de los elementos que juzgue necesarios para dictar resolución.
+El Consejo de Profesionalización, Honor y Justicia de las Corporaciones de Seguridad Pública, será la autoridad colegiada que tendrá como fin velar por la honorabilidad y reputación de los integrantes de dichas corporaciones, y combatirá las conductas lesivas para la comunidad o para la propia corporación. Para tal efecto, gozará de las más amplias facultades para examinar los expedientes u hojas de servicio del personal operativo, que le sean turnados por la Dirección de Asuntos Internos, para tal fin practicará las diligencias que le permitan allegarse de los elementos probatorios que juzgue necesarios para dictar resolución.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 93.
 
-El Consejo de Honor y Justicia tendrá las siguientes atribuciones:
+El Consejo de Profesionalización, Honor y Justicia tendrá las siguientes atribuciones:
 
-I. Conocer y resolver sobre las faltas en que incurran los elementos de las corporaciones de seguridad pública del Estado conforme, a los principios de actuación previstos en la presente Ley, así como a las del régimen disciplinario de la Policía;
+I. Conocer y resolver sobre las faltas en que incurran los elementos de las corporaciones de seguridad pública, conforme a los principios de actuación previstos en la presente Ley y las del régimen disciplinario de la Policía;
 
-II. Determinar los correctivos disciplinarios a los oficiales superiores por faltas cometidas en el ejercicio de mando;
+II. Aplicar los correctivos disciplinarios a los oficiales superiores por faltas cometidas en el ejercicio de mando, previstas en la legislación aplicable;
 
-III. Instruir a la Coordinación Jurídica de la corporación policial, para la presentación de denuncias y querellas, ante la autoridad competente, si las faltas u omisiones cometidas por elementos en activo de los cuerpos de seguridad pública pudieran constituir algún delito; y
+III. Instruir al Área Jurídica de la corporación policial para la presentación de denuncias y querellas correspondientes, ante la autoridad competente; y
 
-IV. Las demás que le asigne esta Ley y demás disposiciones relativas.
+IV. Las demás que le asigne esta Ley y demás disposiciones legales relativas.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 94.
 
-El Consejo de Honor y Justicia será integrado por:
+El Consejo de Profesionalización, Honor y Justicia, de las Corporaciones de Seguridad Pública estará integrado por:
 
-I. Un Presidente, que será el Subsecretario del ramo;
+I. Un Presidente.- Que será el Titular de la Secretaría de Seguridad Pública;
 
-II. Un Secretario Técnico, que será el titular de la corporación correspondiente; y
+II. Un Secretario Técnico.- Que será el Titular de la Subsecretaría Operativa;
 
-III. Cinco vocales que serán representantes, uno del Órgano Interno de Control, uno de la Dirección del Instituto y tres elementos de la corporación correspondiente.
+III. Primer Vocal.- Que será el Titular de la Subsecretaría del Sistema Penitenciario;
 
-Por cada uno de estos cargos se elegirá un suplente. La organización y funcionamiento del Consejo de Honor y Justicia será conforme a lo que establezca su propio reglamento.
+IV. Segundo Vocal.- Que será el Titular de la Dirección General de la Policía Estatal;
+
+V. Tercer Vocal.- Que será el Titular de la Dirección de Centros Penitenciarios;
+
+V (SIC). Cuarto Vocal.- Que será el Titular de la Dirección del Instituto Superior De Seguridad Pública del Estado de Durango;
+
+VI. Quinto Vocal.- Que será un representante de la Secretaría de Contraloría del Estado; y
+
+VII. Tres integrantes que serán insaculados entre los elementos policiales pertenecientes a la Secretaría de Seguridad Pública, que tengan por lo menos una jerarquía correspondiente a niveles medios y que gocen de reconocida honorabilidad y probidad, durarán en su cargo un año y no serán reelectos. Para cada integrante propietario se designará un suplente.
+
+La organización y funcionamiento del Consejo de Profesionalización, Honor y Justicia se establecerá en el reglamento correspondiente.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 95.
 
-Con respecto a los demás cuerpos de Seguridad Pública Estatal, se integrará un Consejo de Honor y Justicia en los términos de la Ley que rige su funcionamiento. Así mismo en cada Municipio, el Ayuntamiento nombrará un Consejo de Honor y Justicia que tendrá la integración y funciones que señale el reglamento respectivo, atendiendo a las bases señaladas en esta Ley.
+En los demás cuerpos de Seguridad Pública a nivel estatal y municipal, se integrará un Consejo con iguales atribuciones que el Consejo de Profesionalización, Honor y Justicia en los términos de la Ley que rige su funcionamiento que tendrá la integración y funciones que señale el reglamento respectivo, atendiendo las bases señaladas en esta Ley.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 96.
 
-Por los actos y desempeño meritorio de los servidores públicos sujetos a esta Ley, el Consejo podrá proponer a la Comisión del Servicio Profesional de Carrera Policial:
-
-I. Mención especial o constancia de buen desempeño;
-
-II. Diploma por servicio destacado;
-
-III. Premios y recompensas;
-
-IV. Condecoraciones al valor policial, a la perseverancia o al mérito; y
-
-V. Cambio de adscripción, promoción o ascenso, en tanto beneficie al interesado.
+El Consejo podrá proponer a la Comisión del Servicio Profesional de Carrera Policial, que otorgue a los elementos que destaquen o realicen actos heroicos dentro o fuera del ejercicio de sus funciones operativas y conforme al dictamen correspondiente, según sea el caso, reconocimientos, condecoraciones, estímulos, premios y recompensas económicas, conforme al Reglamento correspondiente.
 
 ## TÍTULO QUINTO. DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -2369,7 +2323,9 @@ En cada caso se otorgará un estímulo económico adicional, ajustándose a las 
 
 La condecoración al valor policial consiste en medalla y diploma, se conferirá a quienes salven la vida, integridad física o bienes de una o varias personas o realicen las funciones encomendadas por la Ley con grave riesgo para su vida o la salud.
 
-En casos excepcionales, la Secretaría de Seguridad, a propuesta del Consejo de Honor y Justicia y en atención a la respectiva hoja de servicios, determinará la promoción del elemento policial a la jerarquía inmediata superior.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+En casos excepcionales, la Secretaría de Seguridad, a propuesta del Consejo de Profesionalización, Honor y Justicia y en atención a la respectiva hoja de servicios, determinará la promoción del elemento policial a la jerarquía inmediata superior.
 
 ###### ARTÍCULO 180.
 
@@ -2389,9 +2345,11 @@ III. Al Mérito Social, cuando se distinga particularmente en la prestación de 
 
 Las características de las condecoraciones y el procedimiento para su otorgamiento serán establecidos en el Reglamento del Servicio Profesional de Carrera Policial.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 183.
 
-Los elementos que hayan recibido alguna de las condecoraciones a que se refiere este capítulo tendrán derecho a participar en el proceso de insaculación para formar parte del Consejo de Honor y Justicia.
+Los elementos que hayan recibido alguna de las condecoraciones a que se refiere este capítulo tendrán derecho a participar en el proceso de insaculación para formar parte del Consejo de Profesionalización, Honor y Justicia.
 
 ###### ARTÍCULO 184.
 
@@ -2451,7 +2409,9 @@ IV. Destitución.
 
 La amonestación con apercibimiento es el acto por el cual el superior advierte al subalterno la omisión o falta en el cumplimiento de sus deberes, exhortándolo a corregirse, la amonestación se hará constar por escrito. El arresto es la reclusión que sufre un subalterno por haber incurrido en faltas graves o por haber incurrido en acumulación de amonestaciones.
 
-En todo caso, la orden de arresto deberá hacerse por escrito, especificando el motivo y duración del mismo. Los superiores jerárquicos informarán al Consejo de Honor y Justicia sobre los correctivos disciplinarios que impongan, dentro de los tres días hábiles siguientes a la aplicación, exponiendo las causas que lo motivaron.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+En todo caso, la orden de arresto deberá hacerse por escrito, especificando el motivo y duración del mismo. Los superiores jerárquicos informarán al Consejo de Profesionalización, Honor y Justicia sobre los correctivos disciplinarios que impongan, dentro de los tres días hábiles siguientes a la aplicación, exponiendo las causas que lo motivaron.
 
 ###### ARTÍCULO 190.
 
@@ -2481,23 +2441,29 @@ Las conductas u omisiones de los elementos de los Cuerpos de Seguridad Pública 
 
 La suspensión temporal o el cambio de actividad, podrá ser de carácter preventivo o correctivo.
 
-La suspensión temporal con carácter preventivo o cambio de actividad, se determinará por el Consejo de Honor y Justicia, atendiendo a las causas que la motiven.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+La suspensión temporal con carácter preventivo o cambio de actividad, se determinará por el Consejo de Profesionalización, Honor y Justicia, atendiendo a las causas que la motiven.
 
 La suspensión que sea con carácter correctivo, será facultad de los Directores de área y Comisario General.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 194.
 
-La suspensión temporal de carácter preventivo o cambio de actividad, procederá contra el elemento que se encuentre sujeto a investigación administrativa o carpeta de investigación, por actos u omisiones de los que puedan derivarse presuntas responsabilidades y cuya permanencia en el servicio a juicio del Consejo de Honor y Justicia, pudiera afectar a la corporación o a la comunidad en general.
+La suspensión temporal de carácter preventivo o cambio de actividad, procederá contra el elemento que se encuentre sujeto a investigación administrativa o carpeta de investigación, por actos u omisiones de los que puedan derivarse presuntas responsabilidades y cuya permanencia en el servicio a juicio del Consejo de Profesionalización, Honor y Justicia, pudiera afectar a la corporación o a la comunidad en general.
 
-La suspensión y en su caso, el cambio de actividad, subsistirán hasta que el asunto de que se trate quede total y definitivamente resuelto en la instancia final del procedimiento correspondiente. En caso de que al elemento sujeto a carpeta de Investigación se le decrete prisión preventiva, sin mayor trámite, por pérdida de confianza, será cesado de su encargo por el Consejo de Honor y Justicia, sin que proceda su reinstalación o restitución, procediendo sólo a la indemnización, de conformidad con lo previsto por el Artículo 123 Apartado “B” Fracción XIII, de la Constitución Federal.
+La suspensión y en su caso, el cambio de actividad, subsistirán hasta que el asunto de que se trate quede total y definitivamente resuelto en la instancia final del procedimiento correspondiente. En caso de que al elemento sujeto a carpeta de Investigación se le decrete prisión preventiva, sin mayor trámite, por pérdida de confianza, será cesado de su encargo por el Consejo de Profesionalización, Honor y Justicia, sin que proceda su reinstalación o restitución, procediendo sólo a la indemnización, de conformidad con lo previsto por el Artículo 123 Apartado "B" Fracción XIII, de la Constitución Federal.
 
 ###### ARTÍCULO 195.
 
 La suspensión temporal de carácter correctivo procederá contra el elemento que en forma reiterada o particularmente indisciplinada ha incurrido en faltas cuya naturaleza no amerita la destitución. La suspensión a que se refiere este párrafo no podrá exceder de treinta días naturales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 196.
 
-Los integrantes de los Cuerpos de Seguridad Pública podrán ser destituidos por el Consejo de Honor y Justicia correspondiente, por las siguientes causas:
+Los integrantes de los Cuerpos de Seguridad Pública podrán ser destituidos por el Consejo de Profesionalización, Honor y Justicia correspondiente, por las siguientes causas:
 
 I. Faltar a sus servicios por más de tres días consecutivos, o cinco días en un período de treinta días naturales, sin permiso o causa justificada.
 
@@ -2549,7 +2515,9 @@ Los certificados que emitan los Centros de Evaluación y Control de Confianza de
 
 Cuando en los procesos de certificación a cargo del Centro Estatal de Acreditación y Control de Confianza de las instituciones de seguridad pública intervengan instituciones privadas, éstas deberán contar con la acreditación vigente del Centro Nacional de Certificación y Acreditación. En caso contrario, el proceso carecerá de validez.
 
-La no obtención de dichos certificados será causa suficiente para que el respectivo Consejo de Honor y Justicia proceda a la destitución.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+La no obtención de dichos certificados será causa suficiente para que el respectivo Consejo de Profesionalización, Honor y Justicia proceda a la destitución.
 
 ###### ARTÍCULO 199.
 
@@ -2654,3 +2622,15 @@ EI presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 222.- QUE CONTIENE REFORMAS A LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- El patrimonio de que dispone actualmente el Instituto Superior de Seguridad Pública del Estado de Durango, pasará a formar parte de la Secretaría de Seguridad Pública.
+
+TERCERO.- La Secretaría de Finanzas y de Administración del Gobierno del Estado procederá conforme a lo dispuesto en la Ley de Entidades Paraestatales del Estado de Durango a fin de dar cumplimiento a lo dispuesto en este decreto.
+
+CUARTO.- Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
