@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-victimas-del-estado-de-durango-125581"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-28"
-last_updated: "2018-01-14"
+last_updated: "2019-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125581&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 LEY DE VÍCTIMAS DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE ENERO DE 2018.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 28 de diciembre de 2017.
 
@@ -865,7 +863,9 @@ XXXI. Crear una plataforma que permita integrar, desarrollar y consolidar la inf
 
 XXXII. Adoptar las acciones necesarias para garantizar el ingreso de las víctimas al Registro;
 
-XXXIII. Hacer públicos los informes anuales sobre el funcionamiento del Fondo, de la Asesoría Jurídica Federal, así como sobre el Programa y las recomendaciones pertinentes a fin de garantizar un óptimo y eficaz funcionamiento, siguiendo los principios de publicidad y transparencia;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+XXXIII. Hacer públicos los informes anuales sobre el funcionamiento del Fondo, de la Asesoría Jurídica, así como sobre el Programa y las recomendaciones pertinentes a fin de garantizar un óptimo y eficaz funcionamiento, siguiendo los principios de publicidad y transparencia;
 
 XXXIV. Solicitar al órgano competente se apliquen las medidas disciplinarias y sanciones correspondientes;
 
@@ -875,7 +875,9 @@ XXXVI. Elaborar protocolos para generar mecanismos de atención a victimas del d
 
 XXXVII. Proponer al Sistema programas integrales emergentes de ayuda, atención, asistencia, protección, acceso a justicia, a la verdad y reparación integral, en casos de delitos graves o violaciones a derechos humanos cometidos contra una víctima o un grupo de víctimas;
 
-XXXVIII. Nombrar a los titulares del Fondo, Asesoría Jurídica Federal y del Registro;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+XXXVIII. Nombrar a los titulares del Fondo, Asesoría Jurídica y del Registro;
 
 XXXIX. Emitir opinión sobre el proyecto de Reglamento de la presente Ley y sus reformas y adiciones; y
 
@@ -1499,9 +1501,13 @@ Las compensaciones subsidiarias se cubrirán con los recursos del Fondo correspo
 
 El Fondo Estatal estará exento de toda imposición de carácter fiscal, así como de los diversos gravámenes a que puedan estar sujetas las operaciones que se realicen por éste.
 
-Artículo 80 La Comisión Ejecutiva Estatal deberá emitir las disposiciones reglamentarias necesarias para el funcionamiento del Fondo, las cuales se regirán por lo establecido en esta Ley.
+###### Artículo 80.
 
-Los recursos del Fondo serán administrados y operados por medio de un fideicomiso público, en una institución de banca de desarrollo que funja como fiduciaria, de acuerdo con las instrucciones de la Comisión Ejecutiva Estatal en su calidad de fideicomitente, siguiendo criterios de transparencia, oportunidad, eficiencia y rendición de cuentas.
+La Comisión Ejecutiva Estatal deberá emitir las disposiciones reglamentarias necesarias para el funcionamiento del Fondo, las cuales se regirán por lo establecido en esta Ley.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+Los recursos del Fondo serán administrados y operados por medio de un fideicomiso, en una institución de banca de desarrollo que funja como fiduciaria, de acuerdo con las instrucciones de la Comisión Ejecutiva Estatal en su calidad de fideicomitente, siguiendo criterios de transparencia, oportunidad, eficiencia y rendición de cuentas.
 
 La Comisión Ejecutiva Estatal, proveerá a las víctimas los recursos para cubrir las medidas a que se refiere el Capitulo Tercero y Quinto, de esta Ley con cargo al Fondo. La víctima deberá comprobar el ejercicio del monto a más tardar a los treinta días posteriores de haber recibido el recurso. El Reglamento establecerá los criterios de comprobación, dentro de los cuales deberá señalar aquellos en los que los organismos públicos de protección de derechos humanos podrán auxiliar en la certificación del gasto.
 
@@ -1920,3 +1926,13 @@ DR. JOSÉ ROSAS AISPURO TORRES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ARQ. ADRIÁN ALANÍS QUIÑONES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 221.- QUE CONTIENE REFORMAS A LA LEY DE VÍCTIMAS DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
