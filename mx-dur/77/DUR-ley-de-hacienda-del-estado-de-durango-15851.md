@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2018-12-25"
+last_updated: "2019-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -1644,6 +1644,36 @@ VIII.- Cualquier otro certificado o certificación
 que se expida distinta de las mencionadas en
 
 este articulo. 5
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
+VIII BIS.- Respecto de los servicios que presta la Dirección General de Notarías causarán derechos conforme a lo siguiente:
+
+a) Informes por la búsqueda de 3
+
+constancias o datos, por
+
+cada período de cinco años:
+
+b) Certificación de constancias 3
+
+de documentos que obran en
+
+su custodia:
+
+c) Disposiciones Testamentarias: 3
+
+d) Testamentos Ológrafos: 7
+
+e) Expedición de Testimonios: 18
+
+f) Examen de aspirante al 178
+
+ejercicio del notariado:
+
+g) Examen de oposición para la 356
+
+obtención de patente de Notario:
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
 
@@ -3760,3 +3790,11 @@ P.O. 25 DE DICIEMBRE DE 2018.
 PRIMERO. El presente decreto de reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Durango.
 
 SEGUNDO. Previo a la celebración del convenio de colaboración correspondiente al ejercicio fiscal 2019, la Secretaría de Salud, deberá celebrar con el representante legal de la Delegación en el Estado de Durango de la Cruz Roja Mexicana, Institución de Asistencia Privada, un convenio marco de colaboración en el que se establezcan las bases generales, así como las obligaciones y derechos de cada una de las partes, para el otorgamiento del estímulo.
+
+P.O. 29 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 256.- QUE CONTIENE ADICIÓN DE LA FRACCIÓN VIII BIS AL ARTÍCULO 57 DE LA LEY DE HACIENDA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
