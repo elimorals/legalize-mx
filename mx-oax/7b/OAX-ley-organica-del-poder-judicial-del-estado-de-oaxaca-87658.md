@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-judicial-del-estado-de-oaxaca-87658"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-04-28"
-last_updated: "2019-11-07"
+last_updated: "2019-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 28 de abril de 2012.
 
@@ -71,9 +71,35 @@ Los tribunales y juzgados del Poder Judicial tendrán jurisdicción concurrente 
 
 Emitirán sus resoluciones de conformidad con los principios pro persona, progresividad, buena fe, justicia, democracia, respeto de los derechos humanos, no discriminación, buena gobernanza, igualdad de derechos, libre determinación y respeto a la diversidad e identidad cultural, en el marco del pluralismo jurídico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 3.
 
-El Poder Judicial administrará con autonomía su presupuesto sin que pueda ser menor al ejercido en el año anterior; así como el fondo para la administración de justicia y su régimen interno, además, ejercerá íntegra y directamente su presupuesto de egresos.
+El Poder Judicial está facultado para:
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+I. Administrar con autonomía y ejercer integra y directamente su presupuesto público, el que no podrá ser menor al ejercido en el año anterior, excepto cuando existan reducciones generalizadas decretadas por el Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+II. Administrar el fondo para la administración de justicia, en los términos de la presente ley y demás disposiciones legales aplicables; y,
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+III. Determinar y administrar su régimen interno.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Artículo 3A.
+
+En el ejercicio de su presupuesto el Poder Judicial deberá cuidar que el gasto público se administre con eficiencia, eficacia, economía, transparencia, honradez y para satisfacer los objetivos para los que está destinado, quedando prohibido que las retribuciones salariales de los servidores públicos excedan las que le corresponden al Gobernador del Estado o a las de su superior jerárquico, así mismo, deberá de observar lo dispuesto en los artículos 127 y 134 de la Constitución Política de los Estados Unidos Mexicanos, 137 y 138 de la Constitución Local y en lo conducente la Ley Estatal de Presupuesto y Responsabilidad Hacendaria y la Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Oaxaca.
+
+Queda facultado el Consejo de la Judicatura para emitir reglamentos manuales, lineamientos y demás normatividades administrativas y financieras encaminadas a imponer medidas de austeridad y racionalidad en el ejercicio del gasto público.
+
+El Poder Judicial rendirá cuentas al Congreso del Estado de los recursos que reciba, en la forma y términos que dispongan la Constitución Política del Estado Libre y Soberano de Oaxaca y la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Oaxaca.
+
+De igual forma, el Poder Judicial deberá rendir cuentas anualmente de la administración del Fondo para la Administración de Justicia al Congreso del Estado en el mismo plazo indicado en el párrafo anterior.
 
 ###### Artículo 4.
 
@@ -301,9 +327,13 @@ XV. Publicar los acuerdos generales del Pleno y los propios. En cada caso se ind
 
 XVI. Legalizar las firmas de los servidores públicos del Poder Judicial cuando la ley exija este requisito;
 
-XVII. Rendir cuenta anualmente ante el Congreso del Estado, del ejercicio del presupuesto del Tribunal Superior de Justicia; y
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-XVIII. Las demás que determinen las leyes, los reglamentos y acuerdos generales.
+XVII. Rendir cuentas anualmente ante el Congreso del Estado de la administración y manejo del fondo para la administración de Justicia.
+
+XVIII. Rendir cuenta anualmente ante el Congreso del Estado, del ejercicio del presupuesto del Tribunal Superior de Justicia; y
+
+XIX. Las demás que determinen las leyes, los reglamentos y acuerdos generales.
 
 ###### Artículo 18.
 
@@ -743,51 +773,55 @@ XV. Establecer la política laboral y de organización en materia de recursos hu
 
 XVI. Supervisar que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra sea conforme a las leyes correspondientes;
 
-XVII. Nombrar y remover, a propuesta del presidente consejero, al secretario ejecutivo, a los titulares de los órganos de administración interna, a los auxiliares del Poder Judicial y supervisar su funcionamiento; asimismo acordar lo relativo a sus licencias;
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-XVIII. Integrar las comisiones que estime convenientes para el adecuado funcionamiento del Consejo de la Judicatura y señalarles su duración, objeto y funciones:
+XVII. Emitir reglamentos, manuales, lineamientos y demás normatividades administrativas y financieras encaminadas a imponer medidas de austeridad y racionalidad en el ejercicio del gasto público;
 
-XIX. Verificar el cumplimiento de los requisitos de ley y aplicar el examen de oposición para los candidatos a ocupar los cargos de magistrados del Tribunal Superior de Justicia y Tribunales Especializados; y remitir al Gobernador del Estado una lista que contenga ocho candidatos por cada vacante;
+XVIII. Nombrar y remover, a propuesta del presidente consejero, al secretario ejecutivo, a los titulares de los órganos de administración interna, a los auxiliares del Poder Judicial y supervisar su funcionamiento; asimismo acordar lo relativo a sus licencias;
 
-XX. Acordar las renuncias que presenten los jueces del Poder Judicial, su retiro forzoso o voluntario y suspender en sus cargos a los jueces del Poder Judicial a solicitud de la autoridad judicial que conozca del procedimiento penal que se siga en su contra. En estos casos, la resolución que se dicte deberá comunicarse a la autoridad que la hubiere solicitado;
+XIX. Integrar las comisiones que estime convenientes para el adecuado funcionamiento del Consejo de la Judicatura y señalarles su duración, objeto y funciones:
+
+XX. Verificar el cumplimiento de los requisitos de ley y aplicar el examen de oposición para los candidatos a ocupar los cargos de magistrados del Tribunal Superior de Justicia y Tribunales Especializados; y remitir al Gobernador del Estado una lista que contenga ocho candidatos por cada vacante;
+
+XXI. Acordar las renuncias que presenten los jueces del Poder Judicial, su retiro forzoso o voluntario y suspender en sus cargos a los jueces del Poder Judicial a solicitud de la autoridad judicial que conozca del procedimiento penal que se siga en su contra. En estos casos, la resolución que se dicte deberá comunicarse a la autoridad que la hubiere solicitado;
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
-XXI. Resolver sobre las quejas administrativas y sobre la responsabilidad de servidores públicos en términos de lo que dispone esta ley, incluyendo aquellas que se refieran a la violación de los impedimentos previstos en el artículo 101 de la Constitución Política del Estado Libre y Soberano de Oaxaca, por parte de los correspondientes miembros del Poder Judicial del Estado, salvo los que se refieran a los miembros del pleno del Tribunal Superior de Justicia. De igual manera sobre la queja prevista en el artículo 135 del Código Nacional de Procedimientos Penales en los términos previstos en dicho precepto;
+XXII. Resolver sobre las quejas administrativas y sobre la responsabilidad de servidores públicos en términos de lo que dispone esta ley, incluyendo aquellas que se refieran a la violación de los impedimentos previstos en el artículo 101 de la Constitución Política del Estado Libre y Soberano de Oaxaca, por parte de los correspondientes miembros del Poder Judicial del Estado, salvo los que se refieran a los miembros del pleno del Tribunal Superior de Justicia. De igual manera sobre la queja prevista en el artículo 135 del Código Nacional de Procedimientos Penales en los términos previstos en dicho precepto;
 
-XXII. Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, así como los de servicios al público, con excepción del Tribunal Superior de Justicia;
+XXIII. Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, así como los de servicios al público, con excepción del Tribunal Superior de Justicia;
 
-XXIII. Conceder licencias en los términos previstos en esta ley;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XXIV. Nombrar, en términos de esta Ley, en los juzgados y salas de primera instancia, en los casos de ausencias de alguno de sus servidores públicos o empleados, a un interino;
-
-XXV. Dictar las disposiciones necesarias para regular el turno de los asuntos de la competencia de los juzgados y tribunales de primera instancia, cuando en un mismo lugar haya varios de ellos;
-
-XXVI. Formar anualmente una lista con los nombres de las personas que puedan fungir como peritos ante los órganos del Poder Judicial del Estado, ordenándolas por ramas, especialidades y distritos judiciales;
-
-XXVII. Fijar los períodos vacacionales de los tribunales especializados y del propio Consejo de la Judicatura;
-
-XXVIII. Administrar los bienes muebles e inmuebles del Poder Judicial, cuidando su mantenimiento, conservación y acondicionamiento;
-
-XXIX. Fijar las bases de la política informática y los lineamientos para la información estadística que permitan conocer y planear el desarrollo del Poder Judicial; así como regular, recopilar, documentar, seleccionar y difundir para conocimiento público, con apego a las normas en materia de transparencia y acceso a la información pública;
-
-XXX. Investigar y determinar las responsabilidades y sanciones a los servidores públicos y empleados del propio Consejo de la Judicatura; de los tribunales especializados, juzgados y tribunales de primera instancia; todo ello en los términos y mediante los procedimientos establecidos en la ley, los reglamentos y acuerdos que se dicten en materia disciplinaria, por conducto de la visitaduría general;
-
-XXXI. Regular las autorizaciones para abandonar el lugar de residencia de los servidores públicos adscritos a los juzgados y tribunales especializados del Poder Judicial;
-
-XXXII. Dictar las disposiciones necesarias para la recepción, control, adjudicación y destino de los bienes asegurados y decomisados;
+XXIV. Conceder licencias en los términos previstos en esta ley;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XXXIII. Nombrar y remover en los términos que señale el reglamento interno y acuerdos generales, al titular y asesores de la Coordinación de Asesores del Tribunal Contencioso Administrativo y de Cuentas;
+XXV. Nombrar, en términos de esta Ley, en los juzgados y salas de primera instancia, en los casos de ausencias de alguno de sus servidores públicos o empleados, a un interino;
+
+XXVI. Dictar las disposiciones necesarias para regular el turno de los asuntos de la competencia de los juzgados y tribunales de primera instancia, cuando en un mismo lugar haya varios de ellos;
+
+XXVII. Formar anualmente una lista con los nombres de las personas que puedan fungir como peritos ante los órganos del Poder Judicial del Estado, ordenándolas por ramas, especialidades y distritos judiciales;
+
+XXVIII. Fijar los períodos vacacionales de los tribunales especializados y del propio Consejo de la Judicatura;
+
+XXIX. Administrar los bienes muebles e inmuebles del Poder Judicial, cuidando su mantenimiento, conservación y acondicionamiento;
+
+XXX. Fijar las bases de la política informática y los lineamientos para la información estadística que permitan conocer y planear el desarrollo del Poder Judicial; así como regular, recopilar, documentar, seleccionar y difundir para conocimiento público, con apego a las normas en materia de transparencia y acceso a la información pública;
+
+XXXI. Investigar y determinar las responsabilidades y sanciones a los servidores públicos y empleados del propio Consejo de la Judicatura; de los tribunales especializados, juzgados y tribunales de primera instancia; todo ello en los términos y mediante los procedimientos establecidos en la ley, los reglamentos y acuerdos que se dicten en materia disciplinaria, por conducto de la visitaduría general;
+
+XXXII. Regular las autorizaciones para abandonar el lugar de residencia de los servidores públicos adscritos a los juzgados y tribunales especializados del Poder Judicial;
+
+XXXIII. Dictar las disposiciones necesarias para la recepción, control, adjudicación y destino de los bienes asegurados y decomisados;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXXIV. Nombrar y remover en los términos que señale el reglamento interno y acuerdos generales, al titular y asesores de la Coordinación de Asesores del Tribunal Contencioso Administrativo y de Cuentas;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
-XXXIV. Designar de entre sus miembros a un representante que deberá integrarse y formar parte del Comité Coordinador del Sistema Estatal de Combate a la Corrupción.
+XXXV. Designar de entre sus miembros a un representante que deberá integrarse y formar parte del Comité Coordinador del Sistema Estatal de Combate a la Corrupción.
 
-XXXV. Desempeñar cualquier otra función que la ley le encomiende.
+XXXVI. Desempeñar cualquier otra función que la ley le encomiende.
 
 ###### Artículo 53.
 
@@ -2640,3 +2674,21 @@ SÉPTIMO.- El Pleno del Tribunal de Justicia Administrativa del Estado de Oaxaca
 OCTAVO.- Lo no previsto en esta Ley Orgánica, se establecerá en el Reglamento Interno y Acuerdos Generales del Pleno del Tribunal.
 
 NOVENO.- Todas las referencias que en las leyes se hagan al Tribunal de lo Contencioso Administrativo y de Cuentas del Poder Judicial del Estado de Oaxaca, se entenderán referidas al Tribunal de Justicia Administrativa del Estado de Oaxaca.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 841.- MEDIANTE EL CUAL ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA”.]
+
+ÚNICO: El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 842.- MEDIANTE EL CUAL REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 843.- MEDIANTE EL CUAL ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA".]
+
+Único: El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese.
