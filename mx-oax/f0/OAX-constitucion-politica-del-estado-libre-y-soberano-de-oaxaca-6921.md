@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2019-12-28"
+last_updated: "2019-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -441,7 +441,7 @@ Toda medida o disposición protectoras de la familia y la niñez son de orden p�
 
 Toda familia tiene derecho a disfrutar de vivienda digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
 
-((ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades y a la salud física y mental. La Ley determinará los apoyos a la protección de los menores, a cargo de las instituciones públicas y promoverá la asistencia privada.
 
@@ -599,13 +599,17 @@ Las formas alternativas de justicia deberán observarse en la aplicación de est
 
 El Estado de Oaxaca tiene una composición multiétnica, multilingüe y pluricultural, sustentada en la presencia y diversidad de los pueblos y comunidades que lo integran. El derecho a la libre determinación de los pueblos y comunidades indígenas, así como del Pueblo y comunidades afromexicanas se expresa como autonomía, en tanto partes integrantes del Estado de Oaxaca, en el marco del orden jurídico vigente; por tanto dichos pueblos y comunidades tienen personalidad jurídica de derecho público y gozan de derechos sociales. La ley reglamentaria establecerá las medidas y procedimientos que permitan hacer valer y respetar los derechos sociales de los pueblos y comunidades indígenas y del Pueblo y comunidades afromexicanas.
 
-Los pueblos indígenas del Estado de Oaxaca son: Amuzgos, Cuicatecos, Chatinos, Chinantecos, Chocholtecos, Chontales, Huaves, Ixcatecos, Mazatecos, Mixes, Mixtecos, Nahuas, Triquis, Zapotecos y Zoques. El Estado reconoce a las comunidades indígenas y afromexicanas que los conforman, a sus reagrupamientos étnicos, lingüísticos o culturales. La ley reglamentaria protegerá al Pueblo y las comunidades afromexicanas, así como a los indígenas pertenecientes a cualquier otro pueblo procedente de otros Estados de la República y que por cualquier circunstancia, residan dentro del territorio del Estado de Oaxaca. Asimismo el Estado reconoce a los pueblos y comunidades indígenas y afromexicanas, sus formas de organización social, política y de gobierno, sus sistemas normativos internos, la jurisdicción que tendrán en sus territorios, el acceso a los recursos naturales de sus tierras y territorios, su participación en el quehacer educativo y en los planes y programas de desarrollo, sus formas de expresión religiosa y artística, la protección de las mismas y de su acervo cultural y en general para todos los elementos que configuran su identidad. Por tanto, la ley reglamentaria establecerá las normas, medidas y procedimientos que aseguren la protección y respeto de dichos derechos sociales, los cuales serán ejercidos directamente por las autoridades de los pueblos y comunidades indígenas y afromexicanas o por quienes legalmente los representen.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Los pueblos indígenas del Estado Libre y Soberano de Oaxaca son: Amuzgos, Cuicatecos, Chatinos, Chinantecos, Chocholtecos, Chontales, Huaves, lxcatecos, Mazatecos, Mixes, Mixtecos, Nahuas, Triquis, Zapotecos Y Zoques. El Estado reconoce a las comunidades indígenas y afromexicanas que los conforman, a sus reagrupamientos étnicos, lingüísticos o culturales. La ley reglamentaria protegerá al pueblo y a las comunidades afromexicanas, así como a los indígenas pertenecientes a cualquier otro pueblo procedente de otros estados de la república y que (sic) cualquier circunstancia, residan dentro del territorio del estado de Oaxaca, en este último caso, la ley preverá las medidas urgentes de salud, alimentación, justicia, educación vivienda, asistencia social y todos aquellos satisfactores que garanticen la protección a sus derechos humanos, especialmente en el caso de ser desplazados, siempre y cuando persista la necesidad. Asimismo, el estado reconoce a los pueblos y comunidades indígenas y afromexicanas sus formas de organización social, política y de gobierno, sus sistemas normativos internos, la jurisdicción que tendrán en sus territorios, el acceso a los recursos naturales de sus tierras y territorios, su participación en el quehacer educativo y en los planes y programas de desarrollo, sus formas de expresión religiosa y artística, la protección de las mismas y de su acervo cultural y, en general, para todos los elementos que configuran su identidad. Por tanto, la ley reglamentaria establecerá las normas, medidas y procedimientos que se (sic) aseguren la protección y respeto de dichos derechos sociales, los cuales serán ejercidos directamente por las autoridades de los pueblos y comunidades indígenas y afromexicanas o por quienes legalmente los representan.
 
 La ley reglamentaria castigará las diversas formas de discriminación étnica y las conductas etnocidas; así como el saqueo cultural en el Estado. Igualmente protegerá a los pueblos y comunidades indígenas y al Pueblo y comunidades afromexicanas contra reacomodos y desplazamientos, determinando los derechos y obligaciones que se deriven de los casos de excepción que pudieran darse, así como las sanciones que procedan con motivo de su contravención.
 
 La Ley establecerá los procedimientos que aseguren a los indígenas y afromexicanos el acceso efectivo a la protección jurídica que el Estado brinda a todos sus habitantes.
 
-En los juicios en que un indígena o un afromexicano sea parte, las autoridades se asegurarán que de preferencia, los procuradores de justicia y los jueces sean hablantes de la lengua nativa o, en su defecto, cuenten con un traductor bilingüe y se tomarán en consideración dentro del marco de la Ley vigente, su condición, prácticas y costumbres, durante el proceso y al dictar sentencia.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+En los juicios en que un indígena o un afromexicano sea parte, las autoridades se asegurarán que de preferencia, los ministerios públicos o fiscales y los jueces y magistrados sean hablantes de la lengua nativa o, en su defecto, cuenten con un traductor o interprete bilingüe, defensor técnico y adecuado y/o asesor jurídico, y se tomarán en consideración dentro del marco de la Ley vigente, su condición, prácticas y costumbres, durante el proceso y al dictar sentencia, procurando garantizar la igualdad procesal entre las partes.
 
 En los conflictos de límites ejidales, municipales o de bienes comunales, el Estado promoverá la conciliación y concertación para la solución definitiva, con la participación de las autoridades comunitarias de los pueblos y comunidades indígenas y afromexicanas.
 
@@ -2093,7 +2097,9 @@ El Órgano Superior de Fiscalización del Estado de Oaxaca tendrá las siguiente
 
 I. Revisar y fiscalizar en forma posterior, salvo las excepciones establecidas en este artículo, los ingresos, egresos, la deuda pública, el manejo, la custodia, la administración y la aplicación de fondos y recursos públicos de los Poderes del Estado y Municipios, entes públicos estatales y municipales, que ejerzan recursos públicos, organismos públicos estatales organismos públicos autónomos y particulares que manejen recursos públicos, además de los recursos transferidos a fideicomisos, fondos y mandatos, públicos y privados, o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero; así como, el cumplimiento de los objetivos contenidos en sus programas en la forma y términos que disponga la ley reglamentaria. Quedando facultado el Órgano Superior de Fiscalización del Estado de Oaxaca para solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pagos diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas. Las observaciones y recomendaciones que, respectivamente, el Órgano Superior de Fiscalización del Estado de Oaxaca emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
-Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que determine la Ley, derivado de denuncias el Órgano Superior de Fiscalización del Estado de Oaxaca, previa autorización de su Titular, podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizables, así como respecto de ejercicios anteriores. Las entidades fiscalizables proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la ley reglamentaria y, en su (sic) caso de incumplimiento a estos requerimientos, serán aplicables las sanciones previstas en la misma. El Órgano Superior de Fiscalización del Estado de Oaxaca rendirá un informe específico al Congreso del Estado y, en su caso, promoverá las acciones o responsabilidades que correspondan ante el Tribunal de lo Contencioso Administrativo y de Cuentas, la Fiscalía Especializada en Combate a la Corrupción o las autoridades competentes.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que determine la Ley, derivado de denuncias el Órgano Superior de Fiscalización del Estado de Oaxaca, previa autorización de su Titular, podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizables, así como respecto de ejercicios anteriores. Las entidades fiscalizables proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la ley reglamentaria y, en su caso, de incumplimiento a estos requerimientos, serán aplicables las sanciones previstas en la misma. El Órgano Superior de Fiscalización del Estado de Oaxaca rendirá un informe específico al Congreso del Estado y, en su caso, promoverá las acciones o responsabilidades que correspondan ante el Tribunal de Justicia Administrativa del Estado de Oaxaca, la Fiscalía Especializada de Combate a la Corrupción o las autoridades competentes.
 
 Si estos requerimientos a que refiere el párrafo anterior no fueren atendidos en los plazos y formas señalados por la ley reglamentaria, podrá dar lugar al proceso de investigación y en su caso el Órgano Superior de Fiscalización del Estado de Oaxaca finque las responsabilidades que sean de su competencia y promueva ante otras instancias las que correspondan.
 
@@ -2105,13 +2111,15 @@ II. Fiscalizar los recursos provenientes de las aportaciones que en términos de
 
 III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales y federales; así como efectuar visitas domiciliarias, con el único objeto de exigir la exhibición de libros, papeles o archivos indispensables, sujetándose a las leyes y a las formalidades establecidas para los cateos;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-IV. Derivado de sus investigaciones, en caso de que existan elementos de presunción de violaciones a la ley, promover los procedimientos de responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa del Estado de Oaxaca.
+IV. Ejercer las facultades y atribuciones que le otorguen otras leyes generales y locales en materia de Contabilidad Gubernamental, Combate a la Corrupción y Responsabilidades Administrativas. Además, sí derivado de sus investigaciones, en caso de que existan elementos de presunción de violaciones a la ley, promover los procedimientos de responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa del Estado de Oaxaca.
 
 V. Entregar al Congreso del Estado, los informes de resultados de la revisión de la Cuenta Pública de los poderes del Estado, órganos autónomos y municipios, así como de la revisión y fiscalización practicada a los informes periódicos que le presenten los entes fiscalizables del Estado, en los plazos y con las modalidades que la ley señale;
 
-VI. Iniciar leyes en las materias de su competencia, imponer las sanciones administrativas que la Ley establezca y, en su caso, ordenar procedimientos ante la autoridad competente; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VI. Iniciar leyes en las materias de su competencia, imponer las sanciones administrativas que la Ley establezca y, en su caso, promover las acciones y procedimientos ante la autoridad competente; y
 
 VII. Fiscalizar las acciones del Estado y Municipios, en materia de deuda pública.
 
@@ -3853,6 +3861,10 @@ Las autoridades fomentarán con preferencia las actividades turísticas que apro
 
 Es responsabilidad del Estado promover el desarrollo de las actividades turísticas dentro del territorio estatal, asegurando en todo momento que los centros de turismo crezcan de manera integrada al desarrollo de la región donde están ubicados y contribuyan al desarrollo general de la entidad.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 127 BIS. El Estado garantizará el desarrollo integral de las regiones impulsando la producción de alimentos considerando en su Plan Estatal de Desarrollo como estratégico el fomento de la agricultura.
+
 (REUBICADO [N. DE E. ANTES ARTICULO 152], P.O. 8 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 128.
@@ -5478,3 +5490,33 @@ P.O. 28 DE DICIEMBRE DE 2019.
 PRIMERO: Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 845.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN I Y LAS FRACCIONES IV Y VI DEL ARTÍCULO 65 BIS, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 846.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 16 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente hábil de su publicación en el periódico oficial del Estado.
+
+SEGUNDO.- El Congreso del Estado, contara con el término de 90 días para expedir la ley a que se refiere esta reforma, para hacer las adecuaciones necesarias a las leyes secundarias.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 847.- MEDIANTE EL CUAL REFORMA EL QUINTO PÁRRAFO DEL ARTÍCULO 16 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 849.- MEDIANTE EL CUAL ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
