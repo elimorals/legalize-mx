@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-seguridad-publica-y-138
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-09-02"
-last_updated: "2019-09-02"
+last_updated: "2019-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y VIALIDAD DEL MUNICIPIO DE CALVILLO Y DE LAS RELACIONES Y DERECHOS DE LOS ELEMENTOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
 
 Reglamento publicado en la Cuarta Sección del Número 35 del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de septiembre de 2019.
 
@@ -243,7 +243,9 @@ XIII. Las previstas para los Policías Primeros y Policías Segundos que no se c
 
 XIV. Las demás que le señalen sus superiores.
 
-XV. Analizar y evaluar el desempeño del personal de la corporación, a fin de mejorar los servicios de seguridad, inspección y vigilancia;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XV. Analizar y evaluar el desempeño de todo el personal de la corporación en activos y de nuevo ingreso, a fin de mejorar los servicios de seguridad, inspección y vigilancia; de acuerdo a lo estipulado dentro de los lineamientos del Catálogo de Puestos, Manual de Organización, Reglamento del Servicio Profesional de Carrera; Manual de Identidad emitido en el año 2009 y todas aquellas leyes de observancia general en materia de Seguridad Pública;
 
 XVI. Registrar y controlar la documentación que permita elaborar la estadística correspondiente a las actividades operativas que realicen los miembros de la corporación;
 
@@ -557,9 +559,21 @@ XLIX. Someter a su persona a los exámenes antidrogas o antidoping que practique
 
 L. Respetar la inmunidad de los diplomáticos y el fuero de los funcionarios a quienes se les hubiere conferido por Ley;
 
-LI. Realizar sus aportaciones en términos de ley del régimen de Seguridad y Servicios Sociales; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-LII. Las demás previstas en los ordenamientos jurídicos aplicables o que les indiquen sus superiores.
+LI. Carecer de tatuajes visibles que contengan expresiones o imágenes contrarias a los valores constitucionales aplica para personal operativo en activo y de nuevo ingreso; de acuerdo al Catálogo de Puestos del Municipio de Calvillo, Aguascalientes y las leyes aplicables vigentes; y de igual forma al personal operativo en activo que tiene tatuajes no deberán estar visibles al utilizar playera de manga corta;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+LII. Carecer de perforaciones visibles que admitan desdoro para el uniforme, que puedan atentar contra la disciplina o la imagen de la Secretaría de Seguridad Pública de este Municipio en cualquiera de sus formas contrarias a los valores constitucionales aplica para personal operativo en activo y de nuevo ingreso; de acuerdo al Catálogo de Puestos del Municipio de Calvillo, Aguascalientes y las leyes aplicables vigentes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+LIII. Realizar sus aportaciones en términos de ley del régimen de Seguridad y Servicios Sociales; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+LIV. Las demás previstas en los ordenamientos jurídicos aplicables o que les indiquen sus superiores.
 
 ###### Artículo 29.
 
@@ -633,9 +647,21 @@ XXXII. Introducir y permitir que permanezcan en su área de servicio o vehículo
 
 XXXIII. Hacer falsas imputaciones y elevar queja sin fundamento en contra de sus superiores o compañeros, o expresarse mal de los mismos, en tal caso, se pondrá en conocimiento de la Comisión de Honor y Justicia, a fin de que se proceda en consecuencia;
 
-XXXIV. Usar divisas pertenecientes a otras corporaciones de seguridad pública; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-XXXV. Realizar actos que contravengan los ordenamientos aplicables y los valores del policía.
+XXXIV. Se abstendrán de utilizar tatuajes visibles que contengan expresiones o imágenes contrarias a los valores constitucionales aplica para personal operativo en activo y de nuevo ingreso; de acuerdo al Catálogo de Puestos del Municipio de Calvillo, Aguascalientes y las leyes aplicables vigentes; y de igual forma al personal operativo en activo que tiene tatuajes no deberán estar visibles al utilizar playera de manga corta.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XXXV. Se abstendrán de utilizar perforaciones visibles que admitan desdoro para el uniforme, que puedan atentar contra la disciplina o la imagen de la Secretaría de Seguridad Pública de este Municipio en cualquiera de sus formas contrarías a los valores constitucionales aplica para personal operativo en activo y de nuevo ingreso; de acuerdo al Catálogo de Puestos del Municipio de Calvillo, Aguascalientes y las leyes aplicables vigentes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XXXVI. Usar divisas pertenecientes a otras corporaciones de seguridad pública; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XXXVII. Realizar actos que contravengan los ordenamientos aplicables y los valores del policía.
 
 ### CAPITULO OCTAVO. De las Listas y de los Partes Informativos
 
@@ -1717,7 +1743,9 @@ Queda prohibida la imposición simultánea de más de un correctivo disciplinari
 
 La calificación de la gravedad de la infracción y por ende del correctivo disciplinario a imponer, queda al criterio de la autoridad sancionadora, quien deberá expresar las razones para dicha calificación y deberá tomar en cuenta lo siguiente:
 
-I. La importancia de suprimir conductas que afecten a la ciudadanía o lesionen la imagen de la corporación;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+I. La importancia de suprimir conductas que afecten a la ciudadanía o lesionen la imagen de la corporación; como las perforaciones y los tatuajes visibles aplicable a los elementos operativos en activo y de nuevo ingreso.
 
 II. Las circunstancias socioeconómicas del elemento Policial;
 
@@ -1803,9 +1831,17 @@ XVII. Desobedecer una orden del Mando Supremo, del Alto Mando, del Mando Superio
 
 XVIII. Disparar el arma de fuego a cargo sin causa justificada;
 
-XIX. Denigrar o atacar a la Secretaría de Seguridad Pública y Vialidad, a cualquiera de sus áreas administrativas con comentarios, boletines, comunicados o actos infundados que perjudiquen su imagen; o por
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-XX. La pérdida de la confianza.
+XIX. Portar perforaciones o tatuajes visibles que dañen la imagen institucional de la Secretaría de Seguridad Pública del Municipio aplica para personal operativo en activo y de nuevo ingreso.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XX. Denigrar o atacar a la Secretaría de Seguridad Pública y Vialidad, a cualquiera de sus áreas administrativas con comentarios, boletines, comunicados o actos infundados que perjudiquen su imagen; o por
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XXI. La pérdida de la confianza.
 
 El cambio de mandos superiores o de autoridades de elección popular no será causa, bajo ninguna circunstancia, de destitución para ningún elemento de que ostente mando de Policía Primero hacia el grado inferior en el orden jerárquico.
 
@@ -1820,3 +1856,9 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones reglamentarias municipales en lo que se opongan al presente Reglamento.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+> <small>[N. DE E. EL DECRETO PUBLICADO EN EL PERÍODICO OFICIAL DE FECHA 30 DE DICIEMBRE DE 2019, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES.]</small>
