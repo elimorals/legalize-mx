@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-42425"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2019-11-22"
+last_updated: "2019-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "GUA"
 ---
 # LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 30 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el lunes 27 de diciembre de 2004.
 
@@ -1372,3 +1374,51 @@ P.O. 22 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112 MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO CON LAS FRACCIONES I Y II AL ARTÍCULO 8 BIS DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 162, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE EXPIDE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO”.]
+
+Vigencia de la Ley
+
+Artículo Primero. La presente Ley iniciará su vigencia a partir del día 1 de enero del año de 2020, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación
+
+Artículo Segundo. Se abroga la Ley de Hacienda para el Estado de Guanajuato, contenida en el decreto número 113, expedido por la Quincuagésima Novena Legislatura y publicada en el Periódico Oficial del Gobierno del Estado de Guanajuato número 207, segunda parte, de fecha 27 de diciembre de 2004.
+
+Ultractividad
+
+Artículo Tercero. Las obligaciones y derechos derivados de la Ley que se abroga, que hubieran nacido durante su vigencia, por la realización de las situaciones jurídicas o de hecho previstas en la misma, deberán ser cumplidas en las formas y plazos establecidos en el citado ordenamiento y conforme a las disposiciones, resoluciones a consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, conforme a la Ley que se abroga.
+
+Referencias al Servicio de Administración Tributaria de (sic) Estado de Guanajuato
+
+Artículo Cuarto. Las referencias al Servicio de Administración Tributaria del Estado de Guanajuato, contenidas en la presente Ley, se entenderán hechas a la Secretaría de Finanzas, Inversión y Administración, hasta en tanto inicie su vigencia la Ley del Servicio de Administración Tributaria del Estado de Guanajuato.
+
+Referencias a la Ley que se abroga
+
+Artículo Quinto. Cuando en la Ley de Hacienda para el Estado de Guanajuato, se haga referencia a situaciones jurídicas o de hecho, relativas a ejercicios anteriores, se entenderán incluidos, cuando así proceda, aquellos que se realizaron durante la vigencia de la Ley que se abroga.
+
+Derogación de disposiciones
+
+Artículo Sexto. A partir de la entrada en vigor la Ley de Hacienda para el Estado de Guanajuato, quedan sin efectos las disposiciones legales, reglamentarias, administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a lo establecido en esta Ley.
+
+Pérdidas fiscales
+
+Artículo Séptimo. Los contribuyentes que, con anterioridad a la entrada en vigor de la Ley de Hacienda para el Estado de Guanajuato, hubiesen sufrido pérdidas fiscales en los términos de la Ley que se abroga, podrán disminuir el saldo pendiente de acreditar, hasta agotarlo, en los términos de esta última.
+
+Inversiones
+
+Artículo Octavo. Los contribuyentes que con anterioridad al inicio de la vigencia de la Ley de Hacienda para el Estado de Guanajuato hubiesen efectuado inversiones en los términos de la Ley que se abroga, podrán deducir el porcentaje del monto original de la inversión que se encuentre pendiente, hasta agotarlo, en los términos de esta última.
+
+Asuntos en trámite
+
+Artículo Noveno. Los asuntos en la materia que, a la fecha de entrada en vigor de la Ley de Hacienda para el Estado de Guanajuato se encuentren en trámite, serán concluidos en los términos de la Ley que se abroga.
+
+Facultades de las autoridades fiscales
+
+Artículo Décimo. Las autoridades fiscales, mantendrán vigentes las facultades de comprobación a las que hace referencia el Código Fiscal para el Estado de Guanajuato y la Ley de Hacienda para el Estado de Guanajuato que se abrogan, por lo que hace a las obligaciones fiscales de los contribuyentes correspondientes a los ejercicios fiscales de 2019 y anteriores.
+
+Declaraciones informativas
+
+Artículo Undécimo. Los contribuyentes obligados a presentar declaraciones informativas en los términos de la Ley que se abroga, deberán presentar las declaraciones correspondientes al ejercicio que concluye el 31 de diciembre de 2019, a más tardar el 28 de febrero de 2020.
