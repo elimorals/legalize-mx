@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-impuesto-al-hospedaje-del-estado-de-quintana-roo-124988
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-27"
-last_updated: "2019-04-22"
+last_updated: "2019-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LA LEY DEL IMPUESTO AL HOSPEDAJE DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Extraordinario al Número 146 del Periódico Oficial del Estado de Quintana Roo, el miércoles 27 de diciembre de 2017.
 
@@ -69,9 +69,21 @@ VI. PLATAFORMA DIGITAL. Es la aplicación tecnológica mediante la cual la perso
 
 VII. PRESTADOR DE SERVICIO DE HOSPEDAJE. La persona física o moral que directamente o a través de agencias operadoras mayoristas, agencias de viajes minoristas de servicios turísticos y/o tiempos compartidos, subagencia o de cualquier tipo, con motivo de los actos o negocios jurídicos que celebre, preste el servicio de hospedaje.
 
-VIII. SECRETARÍA. La Secretaría de Finanzas y Planeación del Gobierno del Estado de Quintana Roo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-IX. SERVICIO DE HOSPEDAJE. La prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación económica.
+VIII. SATQ. Servicio de Administración Tributaria del Estado de Quintana Roo.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+IX. SECRETARÍA. La Secretaría de Finanzas y Planeación del Gobierno del Estado de Quintana Roo.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+X. SERVICIO DE HOSPEDAJE. La prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación económica.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XI. UNIDAD ECONÓMICA. Al conjunto de personas que realicen actividades empresariales con motivo de la celebración de un acto o negocio jurídico, cuando como consecuencia del mismo no surja una persona moral diferente de quienes la constituyan en los términos del derecho común; las unidades económicas tendrán personalidad jurídica para los efectos del derecho fiscal y se considerarán, para efectos fiscales sujetos pasivos de las obligaciones tributarias previstas en esta Ley. Las unidades económicas deberán nombrar un representante común ante las autoridades fiscales.
 
 ###### ARTÍCULO 3.
 
@@ -131,17 +143,17 @@ El impuesto se causará en el momento de pago por la prestación del servicio de
 
 Son sujetos del impuesto, las personas físicas, morales o unidades económicas que paguen los servicios señalados en el artículo 4 de esta Ley.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-Cuando el servicio de hospedaje se brinde a través de un anfitrión, éste deberá solicitar su inscripción ante el Registro de Anfitriones en Línea por cada uno de los establecimientos en donde se brinde el servicio de hospedaje.
+Cuando el servicio de hospedaje se brinde a través de un anfitrión, este deberá solicitar su inscripción ante el Registro Estatal de Contribuyentes y obtener la Licencia de Funcionamiento por cada uno de los establecimientos en donde se brinde el servicio de hospedaje, cumpliendo con todos y cada uno de los requisitos previstos en las disposiciones fiscales del Estado.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-Previo a lo dispuesto en el párrafo anterior, los Anfitriones, deberán obtener su constancia que lo acredita como tal, a través del Registro de Anfitriones en Línea dispuesto por la Secretaría.
+Las plataformas digitales que intervengan como intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje, deberán inscribirse en el Registro Estatal de Contribuyentes y obtener la Licencia de Funcionamiento con el carácter de retenedor.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-Para tal efecto, la plataforma digital que intervenga en el cobro de las contraprestaciones por servicio de hospedaje, deberá proporcionar a la Secretaría su Padrón de Anfitriones con base a las reglas que al efecto emita ésta.
+Para tal efecto, la plataforma digital que intervenga en el cobro de las contraprestaciones por servicio de hospedaje, deberá proporcionar a la Secretaría su Padrón de Anfitriones con base a las reglas que al efecto emita ésta, debiendo emitir una constancia de manera individual a sus anfitriones del cumplimento de esta obligación.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -151,7 +163,9 @@ Bis. No estarán obligados a cumplir lo previsto en el segundo párrafo del art�
 
 I. Acreditar que es residente permanente del inmueble, y
 
-II. El periodo máximo para ofrecer la habitación no exceda los 45 días al año, sea este consecutivo o no.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+II. Que el ingreso mensual obtenido por la prestación del servicio no exceda de 120 veces el valor diario de la Unidad de Medida y Actualización por inmueble.
 
 Lo anterior no lo exime del pago del impuesto a que se refiere la presente Ley.
 
@@ -189,17 +203,21 @@ Los prestadores de servicios tendrán la obligación de determinar, retener y en
 
 Este Impuesto en ningún caso se considerará que forma parte del valor de los servicios de hospedaje.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 13.
 
-Los prestadores de servicios de hospedaje deberán enterar las retenciones efectuadas mediante pagos mensuales definitivos, a más tardar el día 17 del mes siguiente a aquel en que se causó, utilizando las formas autorizadas por la Secretaría a través de los medios electrónicos dispuestos por ésta.
+Los prestadores de servicios de hospedaje deberán enterar las retenciones efectuadas mediante pagos mensuales definitivos, a más tardar el día 17 del mes siguiente a aquel en que se causó, en las formas autorizadas por la Secretaría a través del SATQ, conforme a los medios electrónicos dispuestos por este.
 
 El pago mensual definitivo será la cantidad que resulte de aplicar la tasa del impuesto sobre el valor total de facturación y/o contratación de los servicios a que se refieren los artículos 4 y 9 de esta Ley, obtenidos en el período por el que se efectúa el pago.
 
 Las obligaciones de presentar declaraciones de pagos mensuales definitivos subsistirán aun cuando no hubiese cantidad a cubrir.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 14.
 
-Los retenedores que presten servicios de Hospedaje presentarán declaración informativa anual, dentro de los cuatro meses siguientes al cierre del ejercicio, a través de los medios electrónicos dispuestos por la Secretaría.
+Los retenedores que presten servicios de hospedaje presentarán declaración informativa anual, dentro de los cuatro meses siguientes al cierre del ejercicio, en los medios electrónicos dispuestos por la Secretaría a través del SATQ.
 
 La declaración informativa anual contendrá información que se refiere a ingresos en efectivo, por cheques y transferencias derivadas de depósitos, anticipos, intereses y penas convencionales por la prestación o pagos del servicio de hospedaje, todo lo anterior en relación con las operaciones practicadas con personas físicas, morales o unidades económicas.
 
@@ -225,17 +243,19 @@ I. La diferencia a favor o su incremento podrá compensarse en la siguiente decl
 
 II. La diferencia a cargo se deberá cubrir en conjunto con los recargos y actualizaciones que se señalan en los artículos 20 y 22 del Código, en la siguiente declaración de pago mensual definitivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 17.
 
-Los retenedores de este impuesto que tengan dos o más establecimientos dentro del Estado, en los que se presten los servicios gravados por este impuesto, presentarán por todos ellos una sola declaración de pago mensual definitivo, según se trate, en la oficina autorizada por la Secretaría que corresponda a su domicilio fiscal, determinado de conformidad con lo dispuesto en el Código.
+Los retenedores de este impuesto que tengan dos o más establecimientos dentro del Estado, en los que se presten los servicios gravados por este impuesto, presentarán por todos ellos una sola declaración de pago mensual definitivo, según se trate, ante la Dirección de Recaudación que corresponda a su domicilio fiscal, determinado de conformidad con lo dispuesto en el Código.
 
 En las declaraciones que se presenten en los términos del párrafo anterior, deberán consignarse los datos concernientes al número de establecimientos por los que se declara, la ubicación de los mismos, el valor de las contraprestaciones de los servicios prestados en cada establecimiento y los demás datos señalados en las mismas.
 
 Los retenedores que presten servicios de hospedaje que tengan varios establecimientos en el Estado, deberán conservar en cada uno de ellos, copia de las declaraciones de pago mensual definitivo, y proporcionarlas a las autoridades fiscales estatales, cuando así lo requieran.
 
-Los retenedores que presten servicios de hospedaje, deberán de proporcionar mensualmente, mediante formas aprobadas por la Secretaría, a través de los medios electrónicos dispuestos por ésta, la información que se refiere a ingresos en efectivo, por cheques y transferencias derivadas de depósitos, anticipos, intereses y penas convencionales por la prestación o pagos del servicio de hospedaje, todo lo anterior en relación con las operaciones practicadas con personas físicas, morales o unidades económicas, a más tardar el día 17 del mes posterior al que corresponda dicha información.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Los retenedores que presten servicios de hospedaje, deberán de proporcionar mensualmente, en las formas autorizadas por la Secretaría a través del SATQ, conforme a los medios electrónicos dispuestos por este, la información que se refiere a ingresos en efectivo, por cheques y transferencias derivadas de depósitos, anticipos, intereses y penas convencionales por la prestación o pagos del servicio de hospedaje, todo lo anterior en relación con las operaciones practicadas con personas físicas, morales o unidades económicas, a más tardar el día 17 del mes posterior al que corresponda dicha información.
 
 ###### ARTÍCULO 18.
 
@@ -300,3 +320,11 @@ P.O. 22 DE ABRIL DE 2019.
 PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Quedan sin efecto todas las disposiciones legales que se opongan al presente decreto, de igual o inferior jerarquía.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 013 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO AL HOSPEDAJE DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día 1 de enero de 2020.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente decreto, de igual o inferior jerarquía.
