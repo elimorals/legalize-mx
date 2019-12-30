@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-procedimiento-administrativo-del-estado-de-15237"
 country: "mx"
 rank: "ley"
 publication_date: "1999-02-14"
-last_updated: "2018-03-26"
+last_updated: "2019-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15237&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Segunda del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 14 de febrero de 1999.
 
@@ -99,7 +99,9 @@ VIII.- Ser expedido, sin que medie dolo o violencia en su emisión;
 
 IX.- Mencionar el órgano del cual emana;
 
-X.- Ser expedido decidiendo expresamente todos los puntos propuestos por la (sic) partes o establecidos por la ley;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+X.- Ser expedido decidiendo expresamente todos los puntos propuestos por las partes o establecidos por la ley;
 
 XI.- Ser expedido sin que medie error respecto a la referencia específica de identificación del expediente, documento o nombre completo de las personas;
 
@@ -323,11 +325,11 @@ Cuando el escrito inicial no contenga los requisitos o no se acompañe de los do
 
 Contra el desechamiento o la negativa de dar trámite a las solicitudes o promociones, procederá el recurso de revisión.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 25.
 
-En las promociones, actuaciones y resoluciones del procedimiento administrativo podrán utilizarse formas impresas o precodificadas autorizadas previamente y publicadas en los términos de esta ley; las cuales serán proporcionados (sic) gratuitamente por las dependencias y entidades de la Administración Pública del Estado y de sus Municipios.
+En las promociones, actuaciones y resoluciones del procedimiento administrativo podrán utilizarse formas impresas o precodificadas autorizadas previamente y publicadas en los términos de esta ley; las cuales serán proporcionadas gratuitamente por las dependencias y entidades de la Administración Pública del Estado y de sus Municipios.
 
 #### SECCION VI. Impedimentos, Excusas y Recusaciones
 
@@ -355,9 +357,11 @@ El servidor público que se encuentre en alguna de las circunstancias señaladas
 
 Cuando hubiere otro servidor público con competencia, el superior jerárquico turnará el asunto a éste, en su defecto, dispondrá que el servidor público que se hubiere excusado resuelva, bajo la supervisión de su superior jerárquico.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 28.
 
-El superior jerárquico cuando tenga conocimiento de que alguno de sus subalternos se encuentra en alguna de las causales de impedimento a que se refiere el Artículo 21 de la presente ley, ordenará que se inhiba de todo conocimiento.
+El superior jerárquico cuando tenga conocimiento de que alguno de sus subalternos se encuentra en alguna de las causales de impedimento a que se refiere el Artículo 26 de la presente ley, ordenará que se inhiba de todo conocimiento.
 
 ###### ARTICULO 29.
 
@@ -557,7 +561,9 @@ El órgano o autoridad de las Administraciones Públicas Estatal y Municipal ant
 
 El desahogo de las pruebas ofrecidas y admitidas se realizarán dentro de un plazo no menor de tres ni mayor de 10 días contados a partir de su admisión.
 
-Las pruebas supervenietes (sic) podrán presentarse siempre que no se haya emitido la resolución definitiva.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Las pruebas supervenientes podrán presentarse siempre que no se haya emitido la resolución definitiva.
 
 ###### ARTICULO 52.
 
@@ -901,7 +907,9 @@ El acto que se revoque conforme a este artículo gozará de presunción de legit
 
 La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente teniendo la autoridad la facultad de invocar hechos notorios, pero, cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado bastará con el examen de dicho punto.
 
-La autoridad, en beneficio del recurrente, podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuesto (sic) en el recurso.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+La autoridad, en beneficio del recurrente, podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso.
 
 Igualmente, deberá dejar sin efectos legales los actos administrativos cuando advierta una ilegalidad manifiesta y los agravios sean insuficientes, pero deberá fundar cuidadosamente los motivos por los que consideró ilegal el acto y precisar el alcance en la resolución.
 
@@ -1062,3 +1070,11 @@ Los procedimientos administrativos iniciados con anterioridad a la entrada en vi
 ###### ARTÍCULO TERCERO.
 
 En el año 2018 será considerado día inhábil el primero de diciembre en lugar del primero de octubre, para el caso de la transmisión del Poder Ejecutivo Federal.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 296.- ARTÍCULO ÚNICO.- SE REFORMA EL ARTÍCULO 4º, FRACCIÓN X; 25, 28, 51, SEGUNDO PÁRRAFO Y 92, SEGUNDO PÁRRAFO DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
