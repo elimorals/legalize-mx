@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-procuraduria-federal-del-consumidor-40112"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-16"
-last_updated: "2015-08-24"
+last_updated: "2019-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40112&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2004-07-13"
 ---
 # REGLAMENTO DE LA PROCURADURIA FEDERAL DEL CONSUMIDOR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA PROCURADURÍA FEDERAL DEL CONSUMIDOR, PUBLICADO EN EL D.O.F. DE 30 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA PROCURADURÍA FEDERAL DEL CONSUMIDOR
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 24 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS DIEZ DÍAS HÁBILES SIGUIENTES A LA FECHA DE SU PUBLICACIÓN.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2019 (ABROGADO).
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el viernes 16 de julio de 2004.
 
@@ -768,3 +768,21 @@ PRIMERO.- El presente Decreto entrará en vigor a los diez días hábiles siguie
 SEGUNDO.- La Procuraduría realizará las modificaciones a su Estatuto Orgánico, para la operación de la Subprocuraduría de Telecomunicaciones, dentro de los cuarenta y cinco días hábiles posteriores a la publicación del presente Decreto.
 
 TERCERO.- Los procedimientos, actos administrativos y asuntos en materia de Telecomunicaciones iniciados, previo a la entrada en vigor del presente Decreto, continuarán su substanciación en las áreas administrativas conforme a la normatividad vigente al momento de su inicio, hasta su total conclusión.
+
+D.O.F. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA PROCURADURÍA FEDERAL DEL CONSUMIDOR”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de la Procuraduría Federal del Consumidor, publicado en el Diario Oficial de la Federación el dieciséis de julio de dos mil cuatro.
+
+La normativa jurídica vigente que deriva del Reglamento que se abroga con este transitorio, continuará vigente en lo que no se ponga (sic) a este Reglamento que se expide, hasta en tanto se emita la normativa que las sustituya.
+
+TERCERO.- Los trámites iniciados en las Delegaciones, Subdelegaciones o Unidades de Servicio conforme al Reglamento que se abroga, continuarán su sustanciación por las Oficinas de Defensa del Consumidor en el ámbito competencial correspondiente.
+
+CUARTO.- Los trámites iniciados conforme al Reglamento que se abroga, continuarán su sustanciación por los servidores públicos conforme a la normativa vigente al momento de su inicio, hasta su total conclusión.
+
+QUINTO.- Las menciones contenidas en otros reglamentos y demás disposiciones administrativas de carácter general, respecto a las unidades administrativas cuyas funciones se modifican por virtud de este Reglamento, se entenderán referidas a las unidades administrativas que, respectivamente, adquieran tales funciones.
+
+SEXTO.- Cuando, en términos del penúltimo párrafo del artículo 5 de este Reglamento, el auxilio que proporcione la Procuraduría Federal del Consumidor al Órgano Interno de Control de la Secretaría de la Función Pública, involucre recursos presupuestarios, dicho apoyo se efectuará conforme a los criterios que determine la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, observando lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación de fecha 30 de noviembre de 2018.
