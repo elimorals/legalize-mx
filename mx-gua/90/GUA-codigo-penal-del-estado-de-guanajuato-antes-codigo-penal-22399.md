@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2019-08-02"
+last_updated: "2019-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -1814,6 +1814,10 @@ Se requerirá querella cuando el delito se cometa entre cónyuges, concubinos, a
 ###### Artículo 176.
 
 A quien intimide a otro con causarle daño en su persona o sus bienes jurídicos o en los de un tercero con quien se encuentre ligado por vínculos familiares, matrimonio, concubinato o estrecha amistad, se le aplicará de seis meses a dos años de prisión y de cinco a veinte días multa.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Si el sujeto activo intimida con difundir, exponer, distribuir, publicar, compartir, exhibir, reproducir, intercambiar, ofertar, comerciar o transmitir, mediante materiales impresos, correo electrónico, mensaje telefónico, redes sociales o cualquier medio tecnológico; imágenes, audios o videos de contenido erótico o sexual en los que aparezca o involucren al sujeto pasivo del delito, las penas se aumentarán hasta la mitad de la punibilidad prevista para este delito.
 
 Este delito se perseguirá por querella.
 
@@ -4196,5 +4200,11 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente al de 
 P.O. 2 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 94, QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN DOS ÚLTIMOS PÁRRAFOS AL ARTÍCULO 194 DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 144, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 176 Y SE RECORRE EL ACTUAL PÁRRAFO SEGUNDO COMO PÁRRAFO TERCERO, DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
