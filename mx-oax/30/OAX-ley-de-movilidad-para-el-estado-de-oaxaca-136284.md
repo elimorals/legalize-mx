@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2019-04-27"
+last_updated: "2019-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -1787,7 +1787,13 @@ Para conducir los vehículos del servicio público y especial de transporte, se 
 
 Las licencias de conducir expedidas por la Secretaría serán de los tipos que se establezcan en el Reglamento de la presente Ley.
 
-Para la expedición de licencias de conducir por primera vez, se otorgarán previa aprobación del examen y el pago de derechos. El examen será aplicado por la Secretaría.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+La expedición de licencias de conducir, se realizará previa capacitación, aprobación del examen y el pago de derechos. El certificado de capacitación será emitido por la Secretaría sin costo adicional, quien será responsable de aplicar el examen.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+En caso de no aprobar el examen, deberá esperar treinta días naturales a efecto de realizar nuevamente los trámites para su obtención.
 
 ###### Artículo 173.
 
@@ -2512,3 +2518,11 @@ DÉCIMO TERCERO: El Registro Estatal de Transporte de Oaxaca, que se encuentra e
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 12 de abril de 2019.- Dip. César Enrique Morales Niño, Presidente.- Presidente.- Dip. Yarith Tannos, Secretaria.- Dip. Arsenio Lorenzo Mejía García, Secretario.- Dip. Griselda Sosa Vásquez, Secretaria.- Rúbricas.”
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 16 de abril de 2019. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 866.- MEDIANTE EL CUAL REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
