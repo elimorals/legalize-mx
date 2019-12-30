@@ -4,7 +4,7 @@ identifier: "VER-ley-que-impone-la-obligacion-a-los-propietarios-de-bienes-23505
 country: "mx"
 rank: "ley"
 publication_date: "1938-09-22"
-last_updated: "1938-09-22"
+last_updated: "2019-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY QUE IMPONE LA OBLIGACION A LOS PROPIETARIOS DE BIENES INMUEBLES DEL ESTADO, DE LEGALIZAR SUS DERECHOS DE PROPIEDAD
 
-LEY QUE IMPONE LA OBLIGACION A LOS PROPIETARIOS DE BIENES INMUEBLES DEL ESTADO DE LEGALIZAR SUS DERECHOS DE PROPIEDAD
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 307, PUBLICADO EN LA G.O. DE 30 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY QUE IMPONE LA OBLIGACIÓN A LOS PROPIETARIOS DE BIENES INMUEBLES DEL ESTADO DE LEGALIZAR SUS DERECHOS DE PROPIEDAD
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 22 de septiembre de 1938.
 
@@ -74,3 +76,11 @@ El Ejecutivo del Estado reglamentará la aplicación de la presente Ley.
 Esta Ley comenzará a regir en la fecha de su publicación, en la "Gaceta Oficial" del Estado, derogándose todas las disposiciones que se opongan a ella.
 
 Dada en la residencia del Poder Ejecutivo, en la ciudad de Jalapa-Enríquez, Ver., a los ocho días del mes de septiembre de mil novecientos treinta y ocho.- El Gobernador del Estado, Lic. MIGUEL ALEMAN.- El Secretario de Gobierno, Lic. FERNANDO CASAS ALEMAN.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 307 POR EL QUE SE ABROGAN DIVERSAS LEYES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de fecha (sic)
