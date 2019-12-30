@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2019-12-23"
+last_updated: "2019-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1695,9 +1695,9 @@ Se aplicarán de 2 a 4 años de prisión y de 100 a 300 días multa, y al pago t
 
 Robo Calificado. El Robo será Calificado cuando:
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-I. Se cometa con medios violentos como armas o uso de violencia física o moral, suficiente en contra de la víctima o sobre otra persona que la acompañe, o cuando se ejerza aquélla para proporcionarse la fuga o mantenerse con lo apropiado;
+I. Se cometa con medios violentos como armas o instrumentos que por su forma y características simulen serlo, o uso de violencia física o moral, suficiente en contra de la víctima o sobre otra persona que la acompañe, o cuando se ejerza aquélla para proporcionarse la fuga o mantenerse con lo apropiado;
 
 II. El objeto material del apoderamiento sea un expediente o algún documento de protocolo, oficina o archivo públicos, o de documento que contenga obligación, liberación o transmisión de derechos que obre en un expediente judicial;
 
@@ -2719,15 +2719,35 @@ Si para la ejecución de los hechos descritos en este Artículo se utilizan mate
 
 Dignidad de los muertos. Se afecta la dignidad de las personas muertas o cadáveres, mediante:
 
-I. Su destrucción, mutilación, incineramiento, ocultamiento, inhumación o exhumación, sin la debida autorización de las autoridades sanitarias correspondientes;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-II. Usarlos para cualquier fin, sin la autorización de las autoridades competentes;
+I. Su destrucción, desecho, mutilación, incineramiento, ocultamiento, inhumación o exhumación, sin la debida autorización de las autoridades sanitarias correspondientes;
 
-III. Cometer actos de vilipendio sobre los mismos o violar el lugar donde éstos se encuentren; o
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-IV. Profanarlos con actos de necrofilia.
+II. El ocultamiento o abandono del cadáver o alguna parte de éste, o la omisión de aviso a las autoridades ante el conocimiento de su existencia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+III. Usarlos para cualquier fin, sin la autorización de las autoridades competentes;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+IV. Cometer actos de vilipendio sobre los mismos o violar el lugar donde éstos se encuentren;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+V. Profanarlos con actos de necrofilia; o
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VI. Fotografiar o videograbar, así como difundir o permitir la difusión, por cualquier medio, de las imágenes o videos de uno o más cadáveres, restos humanos o datos que permitan su identificación, sin la autorización de los ofendidos o autoridad competente.
 
 Al responsable de las conductas descritas en este Artículo, se le aplicarán de 6 meses a 3 años de prisión y de 15 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Si quien comete este delito es servidor público o que por su trabajo o labores se encuentre bajo su resguardo o custodia el cadáver o restos humanos, las penas se incrementarán en una tercera parte en sus mínimos y máximos.
 
 ### CAPÍTULO XV. Tipos Penales Protectores de la Seguridad Interior del Estado
 
@@ -3458,3 +3478,19 @@ P.O. 23 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 297.- ARTÍCULO ÚNICO.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 142 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 298.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES I, II, III Y IV Y SE ADICIONAN LAS FRACCIONES V Y VI, ASÍ COMO UN TERCER PÁRRAFO AL ARTÍCULO 183 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
