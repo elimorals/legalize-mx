@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-obras-publicas-y-servicios-relacionados-del-estado-24656
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-11"
-last_updated: "2019-08-24"
+last_updated: "2019-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de septiembre del 2001.
 
@@ -105,9 +105,11 @@ XI.- Reglamentos: El Reglamento de construcción y Seguridad Estructural vigente
 
 XII.- Padrón de Contratistas: El Padrón de Contratistas de Obra Pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 4.
 
-El gasto de la obra pública se sujetará a lo previsto en el Presupuesto de Egresos del Estado de Oaxaca, y en su caso, al Presupuesto de Egresos de los Municipios; en los términos de la Ley de Presupuesto, Gasto Público y su Contabilidad y de la Ley Orgánica Municipal del Estado, así como de las disposiciones reglamentarias en materia de planeación, programación y ejecución del gasto público y su comprobación.
+El gasto de la obra pública se sujetará a lo previsto en el Presupuesto de Egresos del Estado de Oaxaca, y en su caso, al Presupuesto de Egresos de los Municipios; en los términos de la Ley Estatal de Presupuesto y Responsabilidad Hacendaria y de la Ley Orgánica Municipal del Estado, así como de las disposiciones reglamentarias en materia de planeación, programación y ejecución del gasto público y su comprobación.
 
 Esta Ley regula, la obra pública que contraten las Dependencias, Entidades o los Ayuntamientos, cuando se realice con fondos estatales o municipales, siendo aplicable en lo no previsto por esta y para las cuestiones técnicas, las disposiciones contenidas en el Reglamento de Construcción y Seguridad Estructural para el Estado de Oaxaca.
 
@@ -249,7 +251,9 @@ III.- La calendarización física y financiera de los recursos necesarios;
 
 IV.- Los avances tecnológicos preferentemente nacionales, aplicables en función de la naturaleza de las obras, selección de materiales, equipos y procedimientos que satisfagan los requisitos técnicos y los proyectos;
 
-V.- Los requerimientos de áreas, predios y uso de suelo acorde a lo establecido por la Ley de Desarrollo Urbano para el Estado de Oaxaca, y demás Legislación aplicable;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+V.- Los requerimientos de áreas, predios y uso de suelo acorde a lo establecido por la Ley de Ordenamiento Territorial y Desarrollo Urbano para el Estado de Oaxaca, y demás Legislación aplicable;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -337,7 +341,9 @@ Para el exacto cumplimiento de lo dispuesto por este artículo los Ayuntamientos
 
 En la obra pública cuya ejecución rebase un ejercicio presupuestal, deberá determinarse tanto el presupuesto total como el relativo a los ejercicios de que se trate, cuando la naturaleza de la obra lo permita; en la formulación de los presupuestos de los ejercicios subsecuentes se atenderán los costos que en su momento se encuentren vigentes.
 
-Para los efectos de éste artículo las Dependencias, Entidades y Ayuntamientos, observarán lo dispuesto en el artículo 25 de la Ley de Presupuesto, Gasto Público y su Contabilidad, vigente para el Estado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Para los efectos de éste artículo las Dependencias, Entidades y Ayuntamientos, observarán lo dispuesto en el artículo 25 de la Ley Estatal de Presupuesto y Responsabilidad Hacendaria vigente para el Estado.
 
 ## TITULO TERCERO. DE LOS PROCEDIMIENTOS PARA LA CONTRATACION Y EJECUCION DE LA OBRA
 
@@ -369,7 +375,9 @@ En el caso de las fracciones II y III se estará a lo dispuesto en el tercer pá
 
 La contratación de obra pública, por Dependencias y Entidades solo podrá llevarse a cabo cuando se tenga saldo disponible en las partidas correspondientes del presupuesto aprobado, y se cuente con los títulos de propiedad debidamente inscritos en los Registros Públicos a favor de las Dependencias, Entidades y Ayuntamientos, además deberán contar con los estudios y proyectos, las normas y especificaciones de construcción y programas de ejecución; salvo casos excepcionales a juicio de la Secretaría y previa autorización del COPLADE, podrán convocarse sin contar con tales requisitos.
 
-Los servidores públicos que autoricen actos en contravención a lo dispuesto en este artículo, se harán acreedores a las sanciones previstas por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca y disposiciones aplicables.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Los servidores públicos que autoricen actos en contravención a lo dispuesto en este artículo, se harán acreedores a las sanciones previstas por la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca y disposiciones aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
@@ -395,7 +403,9 @@ I. Acreditar fehacientemente su calidad de contratista o prestador de servicios 
 
 II. Comprobar que se encuentra al corriente de sus obligaciones fiscales en términos de lo dispuesto en el Código Fiscal para el Estado de Oaxaca;
 
-III. Cuando se trate de personas morales deberán exhibir copia certificada de la escritura o acta constitutiva debidamente inscrita en el Registro Público de la Propiedad, así como, sus modificaciones sí las hubiera; en caso de haber sido creadas por disposición legal, deberán indicar esta circunstancia; y tratándose de fideicomisos, el contrato correspondiente;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+III. Cuando se trate de personas morales deberán exhibir copia certificada de la escritura o acta constitutiva, debidamente inscrita en el Instituto de la Función Registral del Estado de Oaxaca, así como sus modificaciones si las hubiera, en caso de haber sido creadas por disposición legal, deberán indicar esta circunstancia; y tratándose de fideicomisos, el contrato correspondiente;
 
 Los representantes o apoderados legales de las personas morales, deberán presentar copia certificada de identificación oficial con fotografía; así como de su registro federal de contribuyentes y su Clave Única de Registro de Población (CURP);
 
@@ -1131,13 +1141,17 @@ La Tesorería Municipal, al hacer el pago de las estimaciones de obra retendrá 
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 77.
 
-La infracción a las disposiciones contenidas en esta ley, o a las normas y acuerdos que con base en ella se dicten, será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
+La infracción a las disposiciones contenidas en esta ley, o a las normas y acuerdos que con base en ella se dicten, será sancionada en términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 78.
 
-Además de las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, las sanciones por infracciones a esta ley, podrán consistir en sanción económica, la cual se fijará en cantidad líquida, y en ningún caso será inferior al importe de cien días de salario mínimo vigente en el Estado, ni mayor de mil.
+Además de las sanciones previstas en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, las sanciones por infracciones a esta ley, podrán consistir en sanción económica, la cual se fijará en cantidad líquida, y en ningún caso será inferior al importe de cien veces el valor diario de la Unidad de Medida y Actualización, ni mayor de mil.
 
 ###### Artículo 79.
 
@@ -1193,7 +1207,9 @@ I.- Comunicarán, por escrito a la Dependencia, Entidad o al Ayuntamiento ejecut
 
 II.- Dentro del plazo señalado, la Dependencia, Entidad o el Ayuntamiento responsable de la infracción, darán cuenta del cumplimiento de las medidas propuestas para subsanar la misma; y,
 
-III.- En el caso de que no se rindan las aclaraciones solicitadas o no se corrijan las violaciones señaladas, se procederá en los términos de las disposiciones aplicables de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+III.- En el caso de que no se rindan las aclaraciones solicitadas o no se corrijan las violaciones señaladas, se procederá en los términos de las disposiciones aplicables de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
 ###### Artículo 85.
 
@@ -1535,8 +1551,14 @@ SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 24 DE AGOSTO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 726.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA".]
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 726.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA".]
 
 PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 864.- MEDIANTE EL CUAL REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Oaxaca.
