@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-coordinacion-fiscal-del-estado-de-guanajuato-5334"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-27"
-last_updated: "2016-10-28"
+last_updated: "2019-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de diciembre de 1991.
 
@@ -49,15 +49,15 @@ Esta ley tiene por objeto:
 
 l.- Establecer los. montos, bases y plazos para la distribución de las Participaciones de Ingresos Federales e Incentivos Económicos derivados de la Colaboración Administrativa en Materia Fiscal Federal e Ingresos Propios de Gobierno del Estado que correspondan a los municipios del estado así como su vigilancia en el cálculo y liquidación;
 
-II.- Coordinar el sistema fiscal del Estado de Guanajuato con sus municipios y fijar las reglas de colaboración administrativa; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+II. Coordinar el Sistema Fiscal del Estado de Guanajuato con sus municipios y establecer las reglas de colaboración administrativa;
 
 III.- Constituir los organismos en materia de coordinación fiscal y dar las bases de su organización y funcionamiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
-
-IV.- Señalar los fondos de aportaciones federales que correspondan a los municipios del Estado.
+IV. Señalar los fondos de aportaciones federales y otros recursos estatales, con destino específico, que correspondan a los municipios del Estado.
 
 ### CAPITULO SEGUNDO. DE LOS MONTOS, BASES Y PLAZOS PARA LA DISTRIBUCION DE PARTICIPACIONES
 
@@ -77,45 +77,49 @@ De las Participaciones sobre el Ingreso Federal que correspondan al Estado, incl
 
 I.- 20% del Fondo General de Participaciones;
 
-II.- 20% de la Participación del Impuesto Federal sobre Tenencia o Uso de Vehículos; y
+II.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2019)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+III.- 20% del Impuesto Especial sobre Producción y Servicios por la enajenación de cerveza, bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas y bebidas alcohólicas, así como de tabaco labrado;
 
-III.- 20% de la Participación en el Impuesto Especial sobre Producción y Servicios por la enajenación de cerveza, bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas y bebidas alcohólicas, así como de tabaco labrado;
+IV.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-IV.- 50% de los Derechos por licencias de funcionamiento para almacenamiento, distribución y compra-venta de bebidas alcohólicas;
-
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
-
-V.- 20% de la participación del Impuesto sobre Automóviles Nuevos; y
+V.- 20% del Impuesto sobre Automóviles Nuevos;
 
 VI.- 100% del Fondo de Fomento Municipal;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-VII.- 20% de los recursos derivados del Fondo de Fiscalización y Recaudación;
+VII.- 20% del Fondo de Fiscalización y Recaudación;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-VIII.- 20% de los recursos derivados del Impuesto Especial sobre Producción y Servicios a la venta final de gasolinas y diesel;
+VIII.- 20% del Impuesto Especial sobre Producción y Servicios a la venta final de gasolinas y diésel;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-IX.- 20% del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos; y
+IX.- 20% del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos;
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-X.- 100% del Impuesto sobre la Renta participable correspondiente a los municipios, de conformidad con lo dispuesto por el artículo 3-B de la Ley de Coordinación Fiscal.
+X.- 100% del Impuesto sobre la Renta participable correspondiente a los municipios, de conformidad con lo dispuesto por el artículo 3-B de la Ley de Coordinación Fiscal;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XI.- 20% del Impuesto a la Venta Final de Bebidas Alcohólicas; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XII.- 20% de las participaciones que obtenga el Estado por el Impuesto Sobre la Renta por la enajenación de bienes inmuebles a que se refiere el artículo 126 de la Ley del Impuesto sobre la Renta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 4o.
 
-Los Ingresos provenientes del Fondo General de Participaciones, del Impuesto sobre Tenencia o Uso de Vehículos y del Impuesto sobre Automóviles Nuevos, se distribuirán entre los Municipios de la manera siguiente:
+Los ingresos provenientes del Fondo General de Participaciones y del Impuesto sobre Automóviles Nuevos, se distribuirán entre los municipios de la manera siguiente:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -133,17 +137,15 @@ II.- Adicionalmente percibirán la cantidad que resulte de aplicar al monto del 
 
 a).- 50% en razón directa a la Recaudación efectiva del Impuesto Predial y Derechos por Servicios de Consumo de Agua Potable, realizada en el territorio del Municipio en el último año anterior a aquél para el que se efectúa el cálculo.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-b) 40% en razón directa a la población que registre cada municipio, de acuerdo a la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía, al iniciarse cada año; y
+b) 40% en razón directa a la población que registre cada municipio, de acuerdo a la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía; y,
 
 c).- El 10% en razón proporcionalmente inversa a los factores que resulten de la Recaudación y Población a que se refieren los incisos a) y b) de este Artículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2007)</small>
-
-La mecánica de distribución anterior no será aplicable en el evento de que en el año de cálculo los recursos referidos en el artículo 3o., fracciones I, II y V de la presente Ley, sean inferiores a lo observado en 2007. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al coeficiente efectivo que cada municipio haya recibido de dicho Fondo en el año 2007.
+La mecánica de distribución anterior no será aplicable en el evento de que en el año de cálculo los recursos referidos en el artículo 3o., fracciones I y V de la presente Ley, sean inferiores a lo observado en 2007. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al coeficiente efectivo que cada municipio haya recibido de dicho Fondo en el año 2007.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -151,25 +153,33 @@ La mecánica de distribución anterior no será aplicable en el evento de que en
 
 La distribución de los ingresos provenientes del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos, se hará conforme a las reglas de los incisos a), b) y c) de la fracción II del presente artículo.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 5o.
 
-El Fondo de Fomento Municipal, se distribuirá entre los municipios de acuerdo con lo siguiente:
+El Fondo de Fomento Municipal, sin considerar las participaciones derivadas de la coordinación del impuesto predial, se distribuirá entre los municipios de acuerdo con lo siguiente:
 
 I. Recibirán anualmente una cantidad igual a la que les hubiere correspondido en el año 2013; y
 
 II. Adicionalmente percibirán la cantidad que resulte de aplicar al monto del incremento en el Fondo a que se refiere este artículo en el año para el que se hace el cálculo en relación con el año 2013, el coeficiente que se determine conforme a los siguientes criterios:
 
-a) El 70% con base en los siguiente (sic):
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-1. El 50% por partes iguales entre la totalidad de los municipios del Estado y;
+a) El 50% por partes iguales entre la totalidad de los municipios del Estado; y
 
-2. El 50% restante entre todos los municipios, en razón proporcionalmente inversa a la población, de acuerdo a lo que establece el artículo 4, fracción II, inciso b) de esta Ley.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-b) El 30 % en proporción a la recaudación obtenida en el impuesto predial de aquellos municipios que tengan vigente el Convenio de Coordinación Fiscal para la administración de este impuesto con el Gobierno del Estado de Guanajuato y que esté publicado en el Periódico Oficial del Gobierno del Estado.
+b) El 50% restante entre todos los municipios, en razón proporcionalmente inversa a la población, de acuerdo a lo que establece el artículo 4o., fracción II, inciso b) de esta Ley.
 
 La mecánica de distribución anterior no será aplicable en el evento de que en el año de cálculo los recursos referidos en el artículo 3°, fracción VI de esta ley, sean inferiores a lo observado en 2013. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al coeficiente efectivo que cada Municipio haya recibido de dicho Fondo en el año 2013.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Las participaciones derivadas del Convenio de coordinación del impuesto predial entre el Estado y los Municipios, se distribuirán en razón directa a la recaudación efectiva del impuesto predial, realizada en el territorio de cada municipio en el último año anterior a aquél para el que se efectúa el cálculo, respecto del total de los municipios con convenio.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Para que un municipio sea considerado en las participaciones del párrafo que antecede, deberá haber celebrado el convenio con el Estado, publicado en el Periódico Oficial del Gobierno del Estado y que haya sido reconocido por la Secretaría de Hacienda y Crédito Público, en el entendido que de no haber suscrito dicho convenio o el mismo no se encuentre vigente, no será elegible el municipio para la distribución de las participaciones a que se refiere el párrafo anterior.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -179,7 +189,9 @@ La mecánica de distribución anterior no será aplicable en el evento de que en
 
 Las participaciones a municipios provenientes del Fondo de Fiscalización y Recaudación, se distribuirán de acuerdo a los siguientes criterios:
 
-I. 50% en razón directa al número de contribuyentes por Municipio que se tengan en el Registro Estatal de Contribuyentes, respecto del Régimen de Incorporación Fiscal al inicio del ejercicio fiscal correspondiente al año de cálculo.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+I. 50% en razón directa al número de contribuyentes por Municipio que se tengan en el Registro Estatal de Contribuyentes, respecto del Régimen de Incorporación Fiscal al cierre del ejercicio fiscal anterior al año de cálculo.
 
 II. 50% en razón directa a la recaudación del impuesto predial y derechos por el suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales.
 
@@ -189,23 +201,19 @@ II. 50% en razón directa a la recaudación del impuesto predial y derechos por 
 
 El fondo a que se refiere este artículo se distribuirá en forma trimestral, a los municipios, a través de pagos definitivos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 5o-B.
 
-Las participaciones a municipios provenientes de la aplicación del Impuesto Especial sobre Producción y Servicios a la venta final de gasolinas y diesel, se distribuirán de la siguiente manera:
+Las participaciones a municipios provenientes de la aplicación del Impuesto Especial sobre Producción y Servicios a la venta final de gasolinas y diésel, se distribuirán de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-I. 70% en razón directa a la población que registre cada municipio, de acuerdo con la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía, al inicio del ejercicio fiscal correspondiente al año de cálculo; y
+I. 70% en razón directa a la población que registre cada municipio, de acuerdo con la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2007)</small>
-
-II.- 30% considerando el padrón vehicular de cada municipio de acuerdo con el Registro Estatal Vehicular, al inicio del ejercicio fiscal correspondiente al año de cálculo.
+II. 30% considerando el padrón vehicular de cada municipio de acuerdo con el Registro Estatal Vehicular, al cierre del ejercicio fiscal anterior al año del cálculo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -221,29 +229,15 @@ II.- 30% considerando el padrón vehicular de cada municipio de acuerdo con el R
 
 Los recursos que obtengan los municipios de acuerdo con lo previsto en este artículo, podrán afectarse en garantía, en términos del artículo 9º. de la Ley de Coordinación Fiscal, siempre que la afectación correspondiente en ningún caso exceda del 25% de los recursos que le correspondan.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 5o-C.
 
-Las participaciones del Impuesto Especial sobre Producción y Servicios por la enajenación de cerveza, bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas y bebidas alcohólicas, así como de tabaco labrado y los derechos por licencias de funcionamiento para la producción, almacenamiento, distribución y enajenación de bebidas alcohólicas, se distribuirán entre los municipios de acuerdo con lo siguiente:
+Las participaciones del Impuesto Especial sobre Producción y Servicios por la enajenación de cerveza, bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas y bebidas alcohólicas, así como de tabaco labrado y por el Impuesto a la Venta Final de Bebidas Alcohólicas, se distribuirán entre los municipios de acuerdo con lo siguiente:
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+I. El 50% en razón proporcionalmente inversa a la población que registre cada municipio, de acuerdo a la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía; y
 
-I. Recibirán anualmente una cantidad igual a la que les hubiere correspondido en el año 2007; y
-
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
-
-II. Adicionalmente, percibirán la cantidad que resulte de aplicar al monto del incremento que tengan las participaciones a que se refiere este artículo en el año para el que se hace el cálculo, en relación con el año 2007, el coeficiente que se determine conforme a los siguientes criterios:
-
-a) El 50% por partes iguales entre la totalidad de los municipios del Estado; y
-
-b) El 50% restante entre todos los municipios, en razón proporcionalmente inversa a la población, de acuerdo a lo que establece el artículo 4, fracción 11, inciso b) de esta Ley.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
-
-La mecánica de distribución anterior no será aplicable en el evento de que en el año de cálculo los recursos referidos en el artículo 3°, fracciones III y IV de esta Ley, sean inferiores a lo observado en 2007. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al coeficiente efectivo que cada Municipio haya recibido de dicho Fondo en el año 2007.
+II. El 50% en relación con el número de licencias y permisos para la producción o almacenaje, y enajenación que tenga cada Municipio al cierre del ejercicio fiscal anterior al que se realiza el cálculo.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
@@ -253,17 +247,23 @@ Las participaciones a que se refiere el artículo 3, fracción X, de la presente
 
 Para efectos del párrafo anterior, se considerará la recaudación que se obtenga por el Impuesto sobre la Renta relativo, una vez descontadas las devoluciones por dicho concepto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+###### ARTICULO 5o-E.
+
+Las participaciones del Impuesto Sobre la Renta por la enajenación de bienes inmuebles a que se refiere el artículo 126 de la Ley del Impuesto Sobre la Renta, se distribuirán entre los municipios de acuerdo con lo siguiente:
+
+I. El 80% en razón directa a la población que registre cada municipio, de acuerdo a la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía; y
+
+II. El 20% por partes iguales entre la totalidad de los municipios del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 6o.
 
-El Gobierno del Estado, por conducto de la Secretaría de Finanzas, Inversión y Administración, pagará a los municipios de forma preliminar, las cantidades que les correspondan, derivadas de las participaciones a que se refiere el artículo 3 de la presente Ley, los días 10 y 25 de cada mes o al día siguiente hábil, las que deberán entregarse en efectivo y sin condicionamiento alguno.
+El Gobierno del Estado, por conducto de la Secretaría de Finanzas, Inversión y Administración, pagará a los municipios de forma preliminar, las cantidades que les correspondan, derivadas de las participaciones a que se refiere el artículo 3o. de la presente Ley, los días 10 y 25 de cada mes o al día siguiente hábil, las que deberán entregarse en efectivo y sin condicionamiento alguno. Para el caso de los días 10 se considerará un anticipo equivalente al 50% del Fondo General de Participaciones que correspondió al municipio conforme al importe recibido en el mes de cálculo del 2007; además del 100% de aquellos recursos participables a los que se refieren las fracciones V y VIII del artículo 3o.; para el caso de la fracción VIII se referirá únicamente a los recaudados por concepto de rezago y no a los transferidos por la Tesorería de la Federación.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
-
-En lo concerniente a las diferencias por ajustes y las participaciones a que se refiere el artículo 3, fracción X, de esta Ley, se pagarán dentro de los 5 días siguientes a su recepción. Para el caso de ajustes a cargo de los municipios, los ajustes se aplicarán cuando exista la suficiencia presupuestal necesaria.
+Sin perjuicio de lo establecido en el párrafo anterior, las participaciones a que se refiere el artículo 3o., fracciones VIII y X, de esta Ley y las diferencias que se tengan por ajustes, se pagarán dentro de los 5 días siguientes a su recepción. Para el caso de ajustes a cargo de los municipios, los ajustes se aplicarán cuando exista la suficiencia presupuestal necesaria.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -278,6 +278,12 @@ Los reportes finales de recaudación se enviarán en forma física a la Secretar
 Cuando la recaudación de los derechos por suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, se realice a través de un organismo operador descentralizado; los formatos deberán ser validados por el titular del organismo operador y por el tesorero municipal. Cuando la recaudación la realice directamente el municipio, los formatos deberán ser validados por el tesorero municipal.
 
 Hasta en tanto esta información no se encuentre validada por el Sistema Nacional de Coordinación Fiscal, la Secretaría de Finanzas, Inversión y Administración realizará el cálculo del monto de las participaciones que correspondan a los municipios en forma provisional; para tales efectos, aplicará los coeficientes del ejercicio inmediato anterior y efectuará el ajuste correspondiente dentro de los treinta días siguientes a la fecha en que se cuente con la validación de dicha información.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 6o-B.
+
+En el supuesto que durante un ejercicio se lleve a cabo la actualización de la información de población por Municipio a que se hace referencia en el inciso b), fracción II del artículo 4º.; fracción I del artículo 5°B; la fracción I del artículo 5°-C de esta Ley; el monto de las participaciones que se haya distribuido a los municipios se considerará como provisional; para tales efectos, se efectuará el ajuste correspondiente dentro de los treinta días siguientes a la fecha en que se cuente con la información actualizada.
 
 ###### ARTICULO 7o.
 
@@ -377,13 +383,39 @@ Las participaciones que correspondan a los municipios son inembargables y no est
 
 La compensación entre el derecho del Municipio a recibir participaciones, y las obligaciones que tenga con el Estado, por créditos de cualquier naturaleza, operará en los términos de la legislación fiscal vigente.
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 18.
 
-Las aportaciones a las que se refiere el artículo 16 de esta Ley podrán ser afectadas en garantía, como fuente de pago de obligaciones contraídas por los municipios, o afectadas en ambas modalidades, en los términos de lo dispuesto en la Ley Federal de Coordinación Fiscal.
+Las aportaciones a las que se refiere el artículo 16 de esta Ley podrán ser afectadas en garantía, como fuente de pago de obligaciones contraídas por los municipios, o afectadas en ambas modalidades, en los términos de lo dispuesto en la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
 Los municipios podrán convenir que el Estado afecte sus participaciones o aportaciones susceptibles de afectación, para efectos de lo establecido en el párrafo anterior.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO OCTAVO. DE OTROS RECURSOS ESTATALES
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 19.
+
+Se entenderán como otros recursos estatales aquellos ingresos propios del Gobierno del Estado que se otorgan a los municipios a través de un convenio.
+
+La firma de los convenios por parte de los municipios no será obligatoria, pero en caso de no suscribir los mismos, el Estado no estará obligado a otorgar dichos recursos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 20.
+
+Los ingresos propios del Gobierno del Estado que se consideran como otros recursos estatales, previa firma del convenio respectivo, son:
+
+I. El 50% de la recaudación de cada Municipio correspondiente a los Derechos recaudados por las licencias y permisos para la producción o almacenaje, y enajenación de bebidas alcohólicas; y
+
+II. El 25%. de la recaudación de cada municipio correspondiente al Impuesto por Servicios de Hospedaje.
+
+Para que un Municipio acceda a los recursos antes señalados deberá de cumplir con lo establecido en el convenio respectivo.
 
 ## TRANSITORIOS.
 
@@ -482,3 +514,25 @@ P.O. 28 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL ARTÍCULO SEXTO DEL “DECRETO NÚMERO 115, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO; LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO; LEY DE COORDINACIÓN FISCAL DEL ESTADO; Y SE EXPIDE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
 
 Artículo Único. El presente ARTÍCULO SEXTO del presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 165, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONA Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO".]
+
+Artículo Primero. El presente Decreto entrará en vigor el 1 de enero de 2020, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los ingresos por concepto del 20% de la Participación del Impuesto Federal sobre Tenencia o Uso de Vehículos que recaude el Gobierno del Estado, se distribuirán en términos de lo establecido en el artículo 4° de la presente Ley.
+
+Artículo Tercero. Los ingresos por concepto del 50% de la participación de los Derechos por licencias de funcionamiento para almacenamiento, distribución y compra-venta de bebidas alcohólicas, que recaude el Estado por obligaciones correspondientes al 31 de diciembre de 2019 y anteriores, se distribuirán conforme a la siguiente fórmula:
+
+I. Recibirán anualmente una cantidad igual a la que les hubiere correspondido en el año 2007; y
+
+II. Adicionalmente, percibirán la cantidad que resulte de aplicar al monto del incremento que tengan las participaciones a que se refiere este artículo en el año para el que se hace el cálculo, en relación con el año 2007, el coeficiente que se determine conforme a los siguientes criterios:
+
+a) El 50% por partes iguales entre la totalidad de los municipios del Estado; y
+
+b) El 50% restante entre todos los municipios, en razón proporcionalmente inversa a la población, de acuerdo a lo que establece el artículo 4°, fracción II, inciso b) de esta Ley.
+
+Artículo Cuarto. La Secretaría de Finanzas, Inversión y Administración pondrá a disposición de los municipios el convenio al que hace referencia el artículo 19 de la presente Ley para su firma en su caso, a más tardar el último día hábil del mes de enero de 2020.
+
+Artículo Quinto. Para los efectos del artículo 20 de la presente Ley, los recursos previstos en la fracción I se entenderán a los derechos por licencias de funcionamiento para almacenamiento, distribución y compra-venta de bebidas alcohólicas, que recaude el Estado por obligaciones correspondientes al periodo del 1 de enero de 2020 y hasta la entrada en vigor de la Ley de Bebidas Alcohólicas para el Estado de Guanajuato y sus Municipios.
