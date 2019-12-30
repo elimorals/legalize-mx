@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-y-vialidad-del-estado-de-oaxaca-antes-ley-11421
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2019-11-23"
+last_updated: "2019-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE TRÁNSITO, MOVILIDAD Y VIALIDAD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -65,51 +65,71 @@ III. Establecer y desarrollar las bases para salvaguardar la integridad y derech
 
 Para la aplicación e interpretación de la presente Ley, se entenderá por:
 
-I. Conductor: A la persona que conduce un vehículo terrestre en cualquiera de sus modalidades, o que tiene control físico sobre él, cuando éste se encuentra en movimiento;
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-II. Delegados Regionales: A los encargados de coordinar las acciones de tránsito, movilidad y vialidad en las regiones del Estado;
+I. Actividades de apoyo a la comunidad: La prestación de servicios voluntarios y honoríficos de orientación, limpieza, conservación, restauración u ornato, en lugares localizados en la circunscripción territorial en que se hubiere cometido la infracción.
 
-III. Dispositivos para el control de la vialidad: A los elementos de diversa índole empleados para regular y guiar el tránsito de peatones y vehículos, tales como semáforos, señalizaciones viales, reductores de velocidad, medios electrónicos, instrumentos tecnológicos y otros similares;
+Son actividades de Apoyo a la comunidad:
 
-IV. Director: Al Director General de la Policía Vial Estatal de la Secretaría de Seguridad Pública;
+a) Limpieza, pintura o restauración de centros públicos educativos, de salud o de servicios.
 
-V. Estado de ebriedad: Cuando los conductores o peatones tengan una cantidad superior a 0.8 gramos por litro de alcohol en la sangre o una cantidad superior a 0.4 miligramos por litro de alcohol en aire espirado;
+b) Limpieza, pintura o restauración de los bienes dañados por el infractor o semejantes a los mismos;
 
-VI. Encierro: Al lugar autorizado, propiedad del Gobierno del Estado o de un particular concesionado, para resguardar los vehículos asegurados por la autoridad competente;
+c) Realización de obras de ornato en lugares de uso común;
 
-VII. Grúa: Al servicio motorizado para el traslado de vehículos;
+d) Realización de obras de balizamiento, limpia o reforestación en lugares de uso común;
 
-VIII. Ley: A la Ley de Tránsito, Movilidad y Vialidad del Estado de Oaxaca;
+e) Asistir a pláticas de Alcohólicos Anónimos;
 
-IX. Licencia: Al Documento expedido por la autoridad competente, que autoriza a personas a conducir un vehículo;
+f) Participar en talleres, exposiciones, muestras culturales, artísticas y/o deportivas en espacios públicos que organice el municipio en donde se haya cometido la infracción, y;
 
-X. Pasajero: A la persona distinta al conductor que viaja a bordo de un vehículo;
+g) Las demás que determine la autoridad correspondiente.
 
-XI. Peatón: A la persona que transita a pie por la vía pública;
+II. Conductor: A la persona que conduce un vehículo terrestre en cualquiera de sus modalidades, o que tiene control físico sobre él, cuando éste se encuentra en movimiento;
 
-XII. Policía Vial Estatal: A los elementos dependientes o adscritos a la Dirección General de la Policía Vial Estatal, de la Secretaría de Seguridad Pública;
+III. Delegados Regionales: A los encargados de coordinar las acciones de tránsito, movilidad y vialidad en las regiones del Estado;
 
-XIII. Reglamento: Al Reglamento de la Ley de Tránsito y Vialidad del Estado de Oaxaca;
+IV. Dispositivos para el control de la vialidad: A los elementos de diversa índole empleados para regular y guiar el tránsito de peatones y vehículos, tales como semáforos, señalizaciones viales, reductores de velocidad, medios electrónicos, instrumentos tecnológicos y otros similares;
 
-XIV. Secretaría: A la Secretaría de Seguridad Pública del Estado;
+V. Director: Al Director General de la Policía Vial Estatal de la Secretaría de Seguridad Pública;
 
-XV. Tránsito: Al movimiento de vehículos o peatones, que se desplazan sobre una vialidad;
+VI. Estado de ebriedad: Cuando los conductores o peatones tengan una cantidad superior a 0.8 gramos por litro de alcohol en la sangre o una cantidad superior a 0.4 miligramos por litro de alcohol en aire espirado;
+
+VII. Encierro: Al lugar autorizado, propiedad del Gobierno del Estado o de un particular concesionado, para resguardar los vehículos asegurados por la autoridad competente;
+
+VIII. Grúa: Al servicio motorizado para el traslado de vehículos;
+
+IX. Ley: A la Ley de Tránsito, Movilidad y Vialidad del Estado de Oaxaca;
+
+X. Licencia: Al Documento expedido por la autoridad competente, que autoriza a personas a conducir un vehículo;
+
+XI. Pasajero: A la persona distinta al conductor que viaja a bordo de un vehículo;
+
+XII. Peatón: A la persona que transita a pie por la vía pública;
+
+XIII. Policía Vial Estatal: A los elementos dependientes o adscritos a la Dirección General de la Policía Vial Estatal, de la Secretaría de Seguridad Pública;
+
+XIV. Reglamento: Al Reglamento de la Ley de Tránsito y Vialidad del Estado de Oaxaca;
+
+XV. Secretaría: A la Secretaría de Seguridad Pública del Estado;
+
+XVI. Tránsito: Al movimiento de vehículos o peatones, que se desplazan sobre una vialidad;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XVI. UMA: A la Unidad de Medida y Actualización que se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas que emanen de dichas leyes. Establecida por el Instituto Nacional de Estadística y Geografía;
+XVII. UMA: A la Unidad de Medida y Actualización que se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas que emanen de dichas leyes. Establecida por el Instituto Nacional de Estadística y Geografía;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XVII. Vialidad: Al conjunto de Servicios pertenecientes a las vías públicas, cuya función es facilitar el tránsito eficiente y seguro de personas y vehículos;
+XVIII. Vialidad: Al conjunto de Servicios pertenecientes a las vías públicas, cuya función es facilitar el tránsito eficiente y seguro de personas y vehículos;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XVIII. Vehículo: Todo medio de transporte, de personas, carga o mixto, motorizado, de tracción humana o animal, autorizado por el Estado para circular en vía pública, y
+XIX. Vehículo: Todo medio de transporte, de personas, carga o mixto, motorizado, de tracción humana o animal, autorizado por el Estado para circular en vía pública, y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XIX. Vía Pública: Todo espacio de dominio público y de uso común destinado al tránsito de personas y vehículos.
+XX. Vía Pública: Todo espacio de dominio público y de uso común destinado al tránsito de personas y vehículos.
 
 ###### Artículo 4.
 
@@ -153,9 +173,11 @@ IV. Policías Viales Municipales.
 
 Las autoridades señaladas en el artículo anterior, están facultadas en el ámbito de sus respectivas competencias, para emitir las disposiciones necesarias, a efecto de planear, establecer, regular, administrar, controlar, supervisar y ejecutar el tránsito y la vialidad de peatones y vehículos; así como, resguardar la seguridad pública y la protección de los derechos y bienes de las personas, preservando el orden público en las vías públicas terrestres abiertas a la circulación, en los términos establecidos en esta Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 8.
 
-La Secretaría de Vialidad y Transporte, la Secretaría, la Policía Vial Estatal y demás autoridades, en el ámbito de sus respectivas competencias, se coordinarán en la vigilancia, verificación e inspección de los servicios de autotransporte Estatal, sus servicios auxiliares y transporte privado, cuando circulen en el Estado.
+La Secretaría de Movilidad, la Secretaría, la Policía Vial Estatal y demás autoridades, en el ámbito de sus respectivas competencias, se coordinarán en la vigilancia, verificación e inspección de los servicios de autotransporte Estatal, sus servicios auxiliares y transporte privado, cuando circulen en el Estado.
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES
 
@@ -249,7 +271,9 @@ XI. Ordenar, instalar y ejecutar de manera aleatoria, en la Vía Pública de com
 
 XII. Ordenar el aseguramiento de vehículos por haber infringido sus conductores la presente Ley y su Reglamento, y la liberación de los mismos, previo pago de derechos y multas, así como, la acreditación de la propiedad del vehículo, con documento idóneo;
 
-XIII. Ordenar la suspensión y cancelación de licencias, en coordinación con la Secretaría de Vialidad y Transporte, en los casos previstos por esta Ley, su Reglamento y demás disposiciones normativas aplicables;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XIII. Ordenar la suspensión y cancelación de licencias, en coordinación con la Secretaría de Movilidad, en los casos previstos por esta Ley, su Reglamento y demás disposiciones normativas aplicables;
 
 XIV. Proporcionar asesoría en materia de tránsito y vialidad a los Municipios;
 
@@ -275,7 +299,9 @@ II. Revisar y dar el visto bueno a los proyectos de planificación del tránsito
 
 III. Cumplir las comisiones que le encomiende el Gobernador del Estado, el Secretario y el Director, en el desempeño de su cargo;
 
-IV. Dar cuenta al Director, proporcionándole los elementos de prueba que hubiere obtenido, de los casos que ameriten sanción para la prestación del servicio público de transporte de pasajeros o de carga, para los efectos que en el ámbito de su competencia determine la Secretaría de Vialidad y Transporte, de acuerdo a la normatividad aplicable a la materia;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+IV. Dar cuenta al Director, proporcionándole los elementos de prueba que hubiere obtenido, de los casos que ameriten sanción para la prestación del servicio público de transporte de pasajeros o de carga, para los efectos que en el ámbito de su competencia determine la Secretaría de Movilidad, de acuerdo a la normatividad aplicable a la materia;
 
 V. Ejercer el mando, control y vigilancia del personal a su cargo, de las Delegaciones y de las demás áreas administrativas que la integran, en sus respectivas jurisdicciones e informar al Director respecto a su funcionamiento;
 
@@ -295,7 +321,9 @@ III. Formular proyectos de planificación del tránsito, movilidad y vialidad en
 
 IV. Realizar infracciones a que se refiere esta Ley y su Reglamento, e imponer la sanción correspondiente, de conformidad con la normatividad aplicable;
 
-V. Elaborar el informe policial con los elementos de prueba que hubiere obtenido, de los casos que ameriten sanción para la prestación del servicio público de transporte de pasajeros o de carga, para los efectos que en el ámbito de su competencia determine la Secretaría de Vialidad y Transporte, de acuerdo a la normatividad aplicable a la materia;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+V. Elaborar el informe policial con los elementos de prueba que hubiere obtenido, de los casos que ameriten sanción para la prestación del servicio público de transporte de pasajeros o de carga, para los efectos que en el ámbito de su competencia determine la Secretaría de Movilidad, de acuerdo a la normatividad aplicable a la materia;
 
 VI. Rendir mensualmente un informe detallado al Delegado Regional, de sus labores y de la situación que guarda la oficina a su cargo, y
 
@@ -441,9 +469,11 @@ El derecho que tienen los conductores a no ser desposeídos de los bienes a que 
 
 El Titular del Poder Ejecutivo, aplicará y vigilará el estricto cumplimiento de esta Ley y su Reglamento, por conducto de la Secretaría y de la Dirección de la Policía Vial Estatal, en las Vías Públicas de jurisdicción Estatal y en aquellas de jurisdicción Federal o Municipal, que le sean transferidas mediante convenio.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 27.
 
-La Secretaría de Vialidad y Transporte informará a la Dirección de la Policía Vial Estatal, de las resoluciones en la que se suspenda o cancelen las licencias o permisos, para los efectos a que haya lugar.
+La Secretaría de Movilidad informará a la Dirección de la Policía Vial Estatal, de las resoluciones en la que se suspenda o cancelen las licencias o permisos, para los efectos a que haya lugar.
 
 ### CAPÍTULO IV. DE LOS CONDUCTORES, PEATONES Y PASAJEROS
 
@@ -769,9 +799,17 @@ I. Transportar a un pasajero en lugar intermedio entre la persona que conduce y 
 
 II. Transportar carga que impida mantener ambas manos en el manubrio, y un debido control o su necesaria estabilidad;
 
-III. Detenerse sobre las áreas reservadas para el tránsito de peatones, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-IV. Asirse o sujetarse a otros vehículos en movimiento.
+III. Detenerse sobre las áreas destinadas para el tránsito de peatones;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+IV. asirse o sujetarse a otros vehículos en movimiento, y;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+V. Circular sobre las banquetas y áreas reservadas al uso exclusivo de peatones; con excepción de las niñas y niños menores de 12 años.
 
 ###### Artículo 64.
 
@@ -827,9 +865,11 @@ Las autoridades del Poder Ejecutivo Estatal, en el ámbito de sus competencias, 
 
 ### CAPÍTULO X. DE LA PROTECCIÓN AMBIENTAL
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 75.
 
-Los vehículos que circulen en la Vía Pública del Estado, se sujetarán a la presente Ley y a las disposiciones Federales, Estatales y Municipales, en materia de equilibrio ecológico y protección al medio ambiente; así como, para la prevención y control de la contaminación, consistente en la verificación obligatoria de emisiones contaminantes, que se realicen en los centros autorizados, que para tal efecto establezca el Estado, a través del Instituto Estatal de Ecología y Desarrollo Sustentable.
+Los vehículos que circulen en la vía pública del Estado, se sujetarán a la presente Ley y a las disposiciones Federales, Estatales y Municipales, en materia de equilibrio ecológico y protección al medio ambiente; así como, para la prevención y control de la contaminación, consistente en la verificación obligatoria de emisiones contaminantes, que se realicen en los centros autorizados, que para tal efecto establezca el Estado, a través de la Secretaría de Medio Ambiente, Energías y Desarrollo Sustentable.
 
 ###### Artículo 76.
 
@@ -839,9 +879,11 @@ En el caso de que la verificación de emisiones de contaminantes, determine que 
 
 La Policía Vial Estatal, en su caso, aplicará las infracciones respectivas a los conductores de vehículos que no acrediten la aprobación del proceso de medición de emisiones contaminantes, de conformidad con la normatividad aplicable en la materia.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 78.
 
-La Dirección, en coordinación con el Instituto Estatal de Ecología y Desarrollo Sustentable, podrá implementar en la Vía Pública de competencia estatal, operativos para detectar mediante unidades móviles de verificación vehicular, a los vehículos que rebasen los niveles máximos permisibles de emisiones contaminantes.
+La Dirección, en coordinación con la Secretaría de Medio Ambiente, Energías y Desarrollo Sustentable, podrá implementar en la vía pública de competencia estatal, operativos para detectar mediante unidades móviles ·de verificación vehicular, a los vehículos que rebasen los niveles máximos permisibles de emisiones contaminantes.
 
 ###### Artículo 79.
 
@@ -875,6 +917,22 @@ En todo momento, se privilegiará el convenio entre particulares, tratándose ú
 
 La Secretaría podrá instalar operativos y realizar infracciones, con apoyo de dispositivos tecnológicos, a efecto de garantizar la seguridad de peatones y conductores en la vía pública.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+En los operativos, la Secretaría deberá cumplir con lo siguiente:
+
+I. El personal que lleve a cabo los operativos deberá estar habilitado para tal efecto;
+
+II. al Momento de la realización de los operativos, el personal deberá identificarse debidamente ante el conductor;
+
+III. exhibir el acuerdo o la orden del operativo al conductor, previamente emitido por la Secretaría, y;
+
+IV. Solicitar al conductor únicamente los documentos señalados en el artículo 33 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+La Secretaría deberá llevar a cabo los operativos en lugares seguros y visibles y de acuerdo a los objetivos establecidos en estos, salvo en los casos en que se desprenda la existencia de indicios suficientes que constituyan la comisión de delitos, quien remitirá a las autoridades competentes.
+
 ###### Artículo 85.
 
 Los elementos de la policía víal estatal tendrán la facultad para realizar operativos para la detección de alcohol mediante dispositivos tecnológicos o métodos de alcoholimetría en aire espirado, de embriaguez o alcoholemia en los conductores, conforme a lo establecido en esta Ley, su Reglamento y demás disposiciones normativas aplicables.
@@ -883,7 +941,21 @@ Los Policías Viales Estatales tienen la atribución de solicitar a todo conduct
 
 Para los operativos de la detección del alcohol, las autoridades competentes en materia de tránsito, se sujetarán a los protocolos emitidos por el Consejo Nacional para la Prevención de Accidentes y el Consejo Estatal para la Prevención de Accidentes.
 
-La persona que al conducir cualquier tipo de vehículo en estado de ebriedad será sancionado con arresto inconmutable de veinticuatro horas, independientemente de los delitos que se configuren.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+La persona que al conducir cualquier tipo de vehículo en estado de ebriedad será sancionado con arresto de veinticuatro horas, conmutables por actividades de apoyo a la comunidad, mismas que deberá cumplir en un lapso no mayor a treinta días desde la fecha de la infracción. En caso de reincidencia, el arresto será inconmutable y se suspenderá la licencia de conducir por un periodo de ciento ochenta días; independientemente de los delitos que se configuren.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 85 Bis.
+
+Las actividades de apoyo a la comunidad se llevarán a cabo bajo la supervisión de las autoridades correspondientes en donde se cometió la infracción.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 85 Ter.
+
+En el supuesto de que el infractor no realice las actividades de apoyo a la comunidad, la autoridad correspondiente emitirá la orden de presentación a efecto de que la sanción impuesta sea ejecutada de inmediato.
 
 ###### Artículo 86.
 
@@ -963,6 +1035,10 @@ V. Retención del vehículo, y
 
 VI. Arresto.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VII. Actividades de apoyo a la comunidad.
+
 El Reglamento establecerá los supuestos para la imposición de las sanciones establecidas en la presente Ley.
 
 Las sanciones señaladas en este artículo, se impondrán al responsable de la infracción, y/o al propietario del vehículo, independientemente de las sanciones civiles, penales o ambientales, a que haya lugar.
@@ -995,9 +1071,11 @@ Los aprovechamientos, las garantías y multas que resulten de la aplicación de 
 
 Las infracciones en materia de tránsito y vialidad, serán sancionadas administrativamente por las autoridades de la materia, en los términos de esta Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 98.
 
-Se considera reincidencia el haber cometido más de una falta a las normas de tránsito y vialidad en un periodo de treinta días, de conformidad con lo establecido en esta Ley y su Reglamento.
+Se considera reincidencia el haber cometido más de una falta a las normas de tránsito y vialidad en un periodo de ciento ochenta días, de conformidad con lo establecido en esta Ley y su Reglamento.
 
 ###### Artículo 99.
 
@@ -1104,3 +1182,31 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 865.- MEDIANTE EL CUAL REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO, MOVILIDAD Y VIALIDAD DEL ESTADO DE OAXACA".]
+
+PRIMERO: Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 867.- MEDIANTE EL CUAL REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO, MOVILIDAD Y VIALIDAD DEL ESTADO DE OAXACA”.]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: El Titular del Poder Ejecutivo dispondrá de sesenta días hábiles posteriores a la entrada en vigor del presente Decreto, para determinar la temporalidad de actividades de apoyo a la comunidad, en el Reglamento de la Ley de Tránsito, Movilidad y Vialidad del Estado de Oaxaca.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM 868.- MEDIANTE EL CUAL ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO, MOVILIDAD Y VIALIDAD DEL ESTADO DE OAXACA”.]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 869.- MEDIANTE EL CUAL REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO, MOVILIDAD Y VIALIDAD DEL ESTADO DE OAXACA”.]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
