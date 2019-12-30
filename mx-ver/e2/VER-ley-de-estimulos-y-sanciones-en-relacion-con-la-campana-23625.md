@@ -4,7 +4,7 @@ identifier: "VER-ley-de-estimulos-y-sanciones-en-relacion-con-la-campana-23625"
 country: "mx"
 rank: "ley"
 publication_date: "1947-07-17"
-last_updated: "1947-07-17"
+last_updated: "2019-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY DE ESTIMULOS Y SANCIONES EN RELACION CON LA CAMPAÑA CONTRA DEL ANALFABETISMO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO NO. 307 POR EL QUE SE ABROGAN DIVERSAS LEYES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA GACETA OFICIAL DE 30 DE DICIEMBRE DE 2019, LA PRESENTE LEY HA SIDO ABROGADA.]</small>
+
 LEY DE ESTIMULOS Y SANCIONES EN RELACION CON LA CAMPAÑA CONTRA DEL ANALFABETISMO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2019 (ABROGADO).
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 17 de julio de 1947.
 
@@ -138,3 +140,11 @@ Esta ley surtirá sus efectos en todo el Estado, diez días después de su publi
 Dada en la residencia del Poder Ejecutivo, en la ciudad de Jalapa-Enríquez, a los dieciséis días del mes de julio de mil novecientos cuarenta y siete.
 
 Por tanto, mando se imprima, publique y circule, para conocimiento general y debido cumplimiento.- ADOLFO RUIZ CORTINES.- El Secretario de Gobierno, Lic. ANGEL CARVAJAL.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G. O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 307 QUE ABROGA DIVERSAS LEYES DEL ESTADO DE VERACRUZ”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de fecha
