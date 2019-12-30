@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-asentamientos-humanos-y-desarrollo-urbano-para-el-14507"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-19"
-last_updated: "2016-12-22"
+last_updated: "2019-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 30 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en la Tercera Sección del Periódico Oficial, el miércoles 19 de mayo de 1999.
 
@@ -3626,3 +3628,39 @@ P.O. 22 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT”.]
+
+PRIMERO. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del Nayarit.
+
+SEGUNDO. Se abroga la Ley de Asentamientos Humanos y Desarrollo Urbano para el Estado de Nayarit contenida en el Decreto 8181, publicado en el Periódico Oficial el día 19 de mayo de 1999.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado, deberá expedir el Reglamento de la presente Ley dentro del término de ciento ochenta días hábiles posteriores a la entrada en vigor de la presente Ley.
+
+En tanto se expiden las disposiciones reglamentarias conducentes se aplicará la normativa vigente, en todo aquello que no se oponga al contenido de la presente Ley.
+
+CUARTO. El Titular del Poder Ejecutivo del Estado, en el plazo de un año contado a partir de la entrada en vigor de esta Ley, deberá formular y promover el Sistema de Información Territorial y Urbano a que se refiere la presente Ley.
+
+QUINTO. En tanto se revisan o, en su caso, elaboran y aprueban los Programas de ordenamiento territorial y desarrollo urbano, estos continuarán vigentes.
+
+SEXTO. En un plazo de seis meses a partir de la entrada en vigor de esta Ley, los Ayuntamientos procederán a expedir o modificar sus Reglamentos de Construcción y demás disposiciones jurídicas y administrativas conducentes
+
+SÉPTIMO. Aquellas autorizaciones, permisos, procedimientos y licencias expedidas conforme a la ley que se abroga, continuarán vigentes hasta la conclusión del término con el que fueron otorgadas.
+
+OCTAVO. Posterior a la publicación de la presente Ley, deberán actualizarse las Comisiones y los Consejos en un plazo de un año conforme a las disposiciones que se señalan en la presente Ley.
+
+Las Comisiones y Consejos instalados conforme a las disposiciones de la Ley abrogada, continuarán su funcionamiento ejerciendo las facultades que de acuerdo a su naturaleza les correspondan en el presente ordenamiento.
+
+NOVENO. Los asuntos que se encuentren en trámite cualquiera que sea su estado, seguirán llevándose a cabo conforme a las disposiciones de la Ley que se abroga hasta en tanto no se concluyan.
+
+DÉCIMO. En un plazo de ciento ochenta días contados a partir de la entrada en vigor de la presente Ley, el Congreso del Estado deberá realizar las reformas a las disposiciones legales correspondientes.
+
+DÉCIMO PRIMERO. Se deberán de prever las adecuaciones correspondientes a la Ley de Ingresos del Estado Libre y Soberano de Nayarit para el ejercicio fiscal 2020.
+
+DÉCIMO SEGUNDO. En un plazo de un año contado a partir de la entrada en vigor de esta Ley, se deberán formular o actualizar los planes y programas de desarrollo urbano de centros de población mayores a cien mil habitantes.
+
+DÉCIMO TERCERO. Las referencias relativas a la Ley de Asentamientos Humanos y Desarrollo Urbano para el Estado de Nayarit, se entenderán hechas a la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nayarit.
+
+DÉCIMO CUARTO. Para la creación del Sistema de Información y Territorial (sic) Urbano, los Consejos y Comisiones que prevé la presente Ley, se deberá de contemplar el recurso necesario en la (sic) Presupuesto de Egresos del estado para el año 2020 del Poder Ejecutivo del Estado de Nayarit.
