@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-gobierno-del-7000
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-28"
-last_updated: "2019-11-02"
+last_updated: "2019-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el 28 de diciembre de 1963.
 
@@ -193,6 +193,12 @@ ARTICULO 21 BIS.- Se otorgará a madres y padres de familia, un permiso especial
 
 Para que este permiso sea concedido, el trabajador deberá informar al patrón cuando menos con 12 horas de anticipación, y contar con una solicitud firmada y sellada por la autoridad educativa de la institución a la que pertenezcan sus hijos, en la que se establezca el día y hora de la actividad.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 21 TER.- Se otorgará a las y los empleados un permiso con goce de sueldo de tres días hábiles, por el fallecimiento de su cónyuge, concubina o concubinario, de un familiar con quien haya tenido parentesco por consanguinidad en primer o segundo grado, o por afinidad en primer grado.
+
+Para efectos de la (sic) anterior, el empleado deberá hacerlo del conocimiento a su superior jerárquico, por la vía que considere más oportuna, el primer día de su ausencia y deberá exhibir copia simple del documento en que conste tal suceso, en un plazo no mayor de quince días naturales a partir del primer día hábil de su reingreso.
+
 ###### ARTICULO 22.
 
 Serán días de descanso obligatorio los que señala el calendario oficial.
@@ -329,7 +335,13 @@ V.- Procurar a los empleados, dentro de sus posibilidades económicas, los medio
 
 VI.- Conceder a los empleados licencias hasta por quince días con goce de sueldo para el desempeño de comisiones sindicales y sin goce de él para atender cargos de elección popular. Las licencias comprenderán todo el período para el que hayan sido electos y éste se computará como efectivo dentro del escalafón.
 
-VII.- Expedir a los empleados sus respectivas credenciales para su debida identificación.
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VII.- Conceder las licencias a que se refiere el artículo 68 Ter de esta Ley, y;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VIII.- expedir a los empleados sus respectivas credenciales para su debida identificación.
 
 ###### ARTICULO 36.
 
@@ -639,6 +651,10 @@ Los empleados al servicio de los Poderes del Estado de Oaxaca, tendrán derecho 
 
 En caso de enfermedad grave del infante recién nacido, así como de complicaciones graves de salud que pongan en riesgo la vida de la madre, la licencia de paternidad podrá extenderse por un periodo de cinco días hábiles continuos.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 68 TER.- Los padres o madres de menores diagnosticados con cualquier tipo de cáncer, gozarán de la licencia a que se refiere el artículo 140 Bis de la Ley del Seguro Social, en los términos referidos, con la intención de acompañar a los mencionados pacientes en sus correspondientes tratamientos médicos.
+
 ## TITULO QUINTO.
 
 ### CAPITULO PRIMERO.
@@ -940,3 +956,19 @@ P.O. 2 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 784.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 872.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO”.]
+
+Primero.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 873.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan y contravengan al presente Decreto.
