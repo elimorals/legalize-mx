@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-577-hacendario-para-el-municipio-de-70963"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-11-04"
-last_updated: "2019-10-15"
+last_updated: "2019-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "VER"
 ---
 # CODIGO NUMERO 577 HACENDARIO PARA EL MUNICIPIO DE COSOLEACAQUE DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE JUNIO DE 2020 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO NÚMERO 577 HACENDARIO PARA EL MUNICIPIO DE COSOLEACAQUE DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2019.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 4 de noviembre de 2009.
 
@@ -109,9 +111,17 @@ XX. Reglas, normas o disposiciones de carácter general: Aquellas que el Cabildo
 
 XXI. Síndico: El Síndico del Ayuntamiento;
 
-XXII. Tesorería: La Tesorería del Ayuntamiento; y
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-XXII (sic). Tesorero: El Titular de la Tesorería del Ayuntamiento.
+XXII. Tesorería: La Tesorería del Ayuntamiento;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XXIII. Tesorero: El Titular de la Tesorería del Ayuntamiento; y
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XXIV. UMA ó UMAs: Unidad de Medida y Actualización.
 
 ###### Artículo 3.
 
@@ -421,9 +431,11 @@ La obligación fiscal nace cuando se realizan las situaciones jurídicas o de he
 
 Las contribuciones se determinarán y liquidarán conforme a las disposiciones vigentes en el momento de su causación, pero le serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-Artículo 34 bis. Se causarán honorarios por concepto de entrega de notificaciones por requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales. Serán pagados por el notificado por un monto equivalente a un salario mínimo.
+Artículo 34 bis. Se causarán honorarios por concepto de entrega de notificaciones por requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales. Serán pagados por el notificado por un monto equivalente a 1.215 UMAs.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
 La obligación de pago se hará del conocimiento del infractor conjuntamente con la notificación de la infracción de que se trate. Los honorarios deberán ser cubiertos a más tardar en la fecha en que se cumpla con el requerimiento.
 
@@ -465,9 +477,13 @@ La Tesorería podrá autorizar expresamente la aceptación de otros instrumentos
 
 Para determinar las contribuciones se considerarán las fracciones del peso; para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de uno hasta cincuenta centavos se ajusten a la unidad del peso inmediata inferior, y las que contengan cantidades de cincuenta y uno a noventa y nueve centavos, se ajusten a la unidad del peso inmediata superior.
 
-Para los efectos de este Código, se entenderá por salario mínimo el establecido como tal para el Municipio en las disposiciones legales respectivas de orden federal.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-Cuando no se cubra la contribución, producto o aprovechamiento en la fecha o época establecidas en este Código, y los mismos se fijen en salarios mínimos, el cobro se realizará conforme al vigente al momento de su incumplimiento.
+Para los efectos de este Código, se entenderá por Unidad de Medida y Actualización el establecido como tal para el Municipio en las disposiciones legales respectivas de orden federal.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Cuando no se cubra la contribución, producto o aprovechamiento en la fecha o época establecidas en este Código, y los mismos se fijen en Unidades de Medida y Actualización, el cobro se realizará conforme al vigente al momento de su incumplimiento.
 
 ###### Artículo 39.
 
@@ -475,9 +491,11 @@ La falta de pago de un crédito fiscal en la fecha o dentro del plazo establecid
 
 Las contribuciones o aprovechamientos cuyo pago se haya omitido y que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como de los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro de los quince días siguientes a aquél en que haya surtido efectos su notificación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 40.
 
-Los adeudos por contribuciones o accesorios podrán pagarse a plazos, en una sola exhibición o en parcialidades, previa autorización del Tesorero, a solicitud por escrito de los obligados. El plazo que al efecto se autorice no podrá ser mayor de veinticuatro meses.
+Los adeudos por contribuciones o accesorios podrán pagarse a plazos, en una sola exhibición o en parcialidades, previa autorización de las Autoridades Fiscales, a solicitud por escrito de los obligados. El plazo que al efecto se autorice no podrá ser mayor de veinticuatro meses.
 
 La solicitud de pago en parcialidades sólo podrá referirse a adeudos de contribuciones o accesorios de ejercicios fiscales anteriores al de la solicitud.
 
@@ -493,7 +511,9 @@ III. Los accesorios distintos de las multas que tenga a su cargo el contribuyent
 
 Durante los plazos concedidos se causarán recargos por prórroga sobre el saldo insoluto, incluyendo los accesorios a la tasa que fije anualmente la Ley de Ingresos del Municipio.
 
-El Tesorero, al autorizar el pago a plazos, ya sea en una sola exhibición o en parcialidades, exigirá que se garantice el interés fiscal dentro de los quince días siguientes a la fecha en que se hubiere notificado la autorización.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Las autoridades fiscales, al autorizar el pago a plazos, ya sea en una sola exhibición o en parcialidades, exigirá que se garantice el interés fiscal dentro de los quince días siguientes a la fecha en que se hubiere notificado la autorización.
 
 ###### Artículo 41.
 
@@ -1057,9 +1077,17 @@ XIX. No conservar la documentación comprobatoria durante el plazo que establece
 
 XX. Omitir total o parcialmente el pago de contribuciones o créditos fiscales de cualquier tipo y que sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación;
 
-XXI. No dar aviso a la Tesorería, o hacerlo extemporáneamente respecto del cese de actividades definitivo; y
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-XXII. Incurrir en cualquier otro acto u omisión distinta de los enumerados en las fracciones anteriores que, en alguna forma, infrinja las disposiciones fiscales.
+XXI. No dar aviso a la Tesorería, o hacerlo extemporáneamente respecto del cese de actividades definitivo;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XXII. Incurrir en cualquier otro acto u omisión distinta de los enumerados en las fracciones anteriores que, en alguna forma, infrinja las disposiciones fiscales; y
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XXIII. Ostentar en forma no idónea o diversa de lo que señalen las disposiciones fiscales la comprobación del pago de una prestación fiscal.
 
 ###### Artículo 89.
 
@@ -1147,29 +1175,45 @@ Las autoridades fiscales impondrán las sanciones administrativas por infracció
 
 I. Las infracciones que establece el artículo 88 de este Código serán sancionadas con multa equivalente a los montos que a continuación se señalan:
 
-a) De cinco a quince días de salario mínimo, por infracción a las fracciones I, IV, VII, VIII, X, XII y XV.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-b) De quince a treinta días de salario mínimo, por infracción a las fracciones XIX, XXI y XXII.
+a) De 6.07 a 18.22 UMAs, por infracción a las fracciones I, IV, VII, VIII, X, XII y XV.
 
-c) De treinta a cincuenta días de salario mínimo, por infracción a las fracciones II, III, V, VI, IX, XI, XIII, XIV, XVI, XVII y XVIII;
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+b) De 18.22 a 36.45 UMAs, por infracción a las fracciones XX, XXII y XXIII.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+c) De 36.45 a 60.76 UMAs, por infracción a las fracciones II, III, V, VI, IX, XI, XIII, XIV, XVI, XVII, XVIII y XIX;
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
 II. La infracción que establece la fracción XX del artículo 88 de este Código, se sancionará con multa del cien a ciento cincuenta por ciento del crédito omitido;
 
-III. Las infracciones comprendidas en el artículo 89 de este Código, se sancionarán con multa de cincuenta a cien días de salario mínimo;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-IV. Las infracciones comprendidas en el artículo 90 de este Código, se sancionarán con multa de setenta y cinco a cien días de salario mínimo; y
+III. Las infracciones comprendidas en el artículo 89 de este Código, se sancionarán con multa de 60.76 a 121.53 UMAs;
 
-V. Las infracciones comprendidas en el artículo 91 de este Código, se sancionarán con multa de cuarenta y cinco a noventa días de salario mínimo.
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-Cuando por un acto o una omisión se incurra en varias infracciones a las que correspondan diversas multas, sólo se impondrá la multa mayor.
+IV. Las infracciones comprendidas en el artículo 90 de este Código, se sancionarán con multa de 91.14 a 121.53 UMAs; y
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+V. Las infracciones comprendidas en el artículo 91 de este Código, se sancionarán con multa de 54.68 a 109.37 UMAs.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Cuando por un acto o una omisión se incurra en varias infracciones a las que correspondan diversas multas, la multa que se aplicara corresponderá a la suma de las multas de las infracciones.
 
 Los ingresos que el Municipio obtenga por la aplicación de multas y sanciones establecidas en disposiciones reglamentarias, así como en otros ordenamientos de carácter hacendario, se enterarán de conformidad con los montos que establezcan los ordenamientos que las contengan.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 93.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de cinco a cien días de salario mínimo.
+La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de 6.07 a 121.53 UMAs.
 
 ## TÍTULO QUINTO. DE LOS DELITOS FISCALES
 
@@ -1297,7 +1341,9 @@ II. De nueve meses a cuatro años de prisión, al que imprima, grabe o troquele,
 
 III. De nueve meses a tres años de prisión, al que altere en sus características las cédulas, licencias o comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medio de control fiscal; y
 
-IV. De seis meses a dos años de prisión y una multa de treinta a quinientos días de salario mínimo, a quien forme las cosas y objetos señalados en las fracciones anteriores con los fragmentos de otros recortados o mutilados.
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+IV. De seis meses a dos años de prisión y una multa de 36.45 a 607.65 UMAs, a quien forme las cosas y objetos señalados en las fracciones anteriores con los fragmentos de otros recortados o mutilados.
 
 ###### Artículo 110.
 
@@ -1325,7 +1371,9 @@ X. Utilizar sellos, documentación u otro medio de control fiscal falsificados o
 
 XI. Permitir el uso de su nombre para manifestar negociaciones ajenas.
 
-El delito de defraudación fiscal se sancionará con pena de tres meses a cuatro años de prisión, si el monto de la prestación fiscal defraudada no excede de mil días de salario mínimo, y con prisión de un año a seis años, si dicho monto excede de esa cantidad.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+El delito de defraudación fiscal se sancionará con pena de tres meses a cuatro años de prisión, si el monto de la prestación fiscal defraudada no excede de 1,215.30 UMAs y con prisión de un año a seis años, si dicho monto excede de esa cantidad.
 
 Cuando no se pueda determinar la cuantía del impuesto que se defraudó, la pena será de tres meses a seis años de prisión.
 
@@ -1353,9 +1401,11 @@ c) Imprima u ordene imprimir formas de control fiscal o emita u ordene la emisi�
 
 d) Altere documentación oficial o expida una falsa en cualquier tipo de trámite del orden fiscal.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 112.
 
-Se impondrá prisión de seis meses a tres años y se impondrá multa de treinta a quinientos días de salario mínimo, a quien entregue u ofrezca dinero o dádivas a los servidores públicos municipales, para incurrir en alguno de los delitos previstos por este Título.
+Se impondrá prisión de seis meses a tres años y se impondrá multa de 36.46 a 607.65 UMAs, a quien entregue u ofrezca dinero o dádivas a los servidores públicos municipales, para incurrir en alguno de los delitos previstos por este Título.
 
 # LIBRO TERCERO. De los Ingresos Municipales
 
@@ -1457,9 +1507,9 @@ Cuando la Tesorería advierta que un inmueble ha salido del dominio público de 
 
 Los contribuyentes del impuesto predial que sean pensionados o jubilados y, en caso de fallecimiento de éstos, la viuda o concubina legalmente reconocida, tendrán derecho a un descuento del cincuenta por ciento del importe anual a pagar, previa acreditación fehaciente de los supuestos respectivos y de encontrarse al corriente en el pago de este impuesto. Esta prerrogativa se aplicará únicamente a un inmueble, siempre que se trate de la casa habitación del contribuyente y el pago se realice durante los meses de enero o febrero del ejercicio correspondiente.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-Las personas mayores de sesenta años, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de diez mil salarios mínimos.
+Las personas mayores de sesenta años, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de 12,153 UMAs.
 
 > <small>(ADICIONADO, G.O. 30 DE MAYO DE 2019)</small>
 
@@ -1467,11 +1517,11 @@ El Ayuntamiento, por acuerdo del Cabildo, podrá otorgar igualmente el descuento
 
 A estos descuentos no se podrá adicionar el descuento señalado en el artículo 118 de este Código.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 122.
 
-El impuesto anual a pagar no podrá ser menor a cinco salarios mínimos, excepto lo dispuesto por el artículo 118 de este Código.
+El impuesto anual a pagar no podrá ser menor a 6.08 UMAs, excepto lo dispuesto por el artículo 118 de este Código.
 
 El pago de este impuesto se considerará definitivo, salvo prueba en contrario.
 
@@ -1577,7 +1627,7 @@ Cuando con motivo de la adquisición, el adquirente asuma la obligación de paga
 
 Para los efectos de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del cincuenta por ciento del valor de la propiedad.
 
-En los inmuebles adquiridos durante el período de tres años anteriores, contado a partir de la fecha de la operación actual, el impuesto se calculará sobre el valor que resulte de disminuir del valor mayor, a que se refiere el párrafo primero, aquel valor que se tomó como base para el cálculo del impuesto en la última adquisición.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
 En la adquisición por prescripción positiva, la base del impuesto se determinará con valores referidos a la fecha en que cause ejecutoria la resolución judicial; en la adquisición por herencia, a la fecha de la adjudicación; y en la información ad perpétuam, a la fecha de la resolución judicial.
 
@@ -1645,7 +1695,9 @@ IV. Los actos constitutivos de fideicomiso de garantía, salvo que se realicen e
 
 V. Por los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero;
 
-En la enajenación de predios derivada de programas de regularización de la tenencia de la tierra, que realicen organismos federales, estatales o municipales, se pagará este impuesto con una cuota fija equivalente al cincuenta por ciento de un salario mínimo diario.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+En la enajenación de predios derivada de programas de regularización de la tenencia de la tierra, que realicen organismos federales, estatales o municipales, se pagará este impuesto con una cuota fija equivalente a 3 UMAs por cada lote.
 
 ###### Artículo 142.
 
@@ -1843,9 +1895,11 @@ VI. Retener y enterar el impuesto que corresponda, conforme a los artículos 154
 
 VII. Proporcionar constancia de retención de impuestos a la persona que obtenga el premio.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 159.
 
-No causarán este impuesto la Federación, los Estados, los Municipios, los Partidos Políticos en los términos de la legislación electoral correspondiente, los organismos públicos descentralizados de la Administración Pública Estatal y Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, y las asociaciones de asistencia y beneficencia pública legalmente constituidas, así como las asociaciones religiosas. Tampoco se causará este impuesto cuando los premios en forma global no superen el valor equivalente a los cuatrocientos salarios mínimos en el Municipio.
+No causarán este impuesto la Federación, los Estados, los Municipios, los Partidos Políticos en los términos de la legislación electoral correspondiente, los organismos públicos descentralizados de la Administración Pública Estatal y Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, y las asociaciones de asistencia y beneficencia pública legalmente constituidas, así como las asociaciones religiosas. Tampoco se causará este impuesto cuando los premios en forma global no superen el valor equivalente a 486.12 UMAs.
 
 ###### Artículo 160.
 
@@ -1869,13 +1923,21 @@ Este impuesto se causará mensualmente por cada establecimiento en que se celebr
 
 Este impuesto se causará y pagará conforme a las tarifas y clasificaciones siguientes:
 
-I. Billar, dominó, dados, ajedrez, damas y otros similares, por mesa, dos salarios mínimos;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-II. Los juegos de boliche, por mesa, tres salarios mínimos;
+I. Billar, dominó, dados, ajedrez, damas y otros similares, por mesa, 2.43 UMAs;
 
-III. Videojuegos, dos salarios mínimos por máquina; y
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-IV. Los juegos de azar y electrónicos, por mesa o máquina electrónica, tres salarios mínimos.
+II. Los juegos de boliche, por mesa, 3.65 UMAs;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+III. Videojuegos, 2.43 UMAs por máquina; y
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+IV. Los juegos de azar y electrónicos, por mesa o máquina electrónica, 3.65 UMAs.
 
 ###### Artículo 165.
 
@@ -1903,9 +1965,11 @@ La Tesorería podrá nombrar interventores para vigilar el cumplimiento de las o
 
 ### CAPÍTULO VI. De la Contribución Adicional sobre Ingresos Municipales
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 169.
 
-Es objeto de esta contribución, la realización de pagos por concepto de impuestos, derechos y productos que establece este Código, excepto el relativo al Impuesto sobre Traslación de Dominio de Bienes Inmuebles.
+Es objeto de esta contribución, la realización de pagos por concepto de impuestos, derechos y productos que establece este Código.
 
 ###### Artículo 170.
 
@@ -1919,15 +1983,17 @@ Es base de esta contribución el importe de los pagos por concepto de los impues
 
 Esta contribución se causará y pagará, aplicando a la base que corresponda, las tarifas o tasas siguientes:
 
-I. Siete y medio por ciento adicional sobre el impuesto predial;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+I. Ocho por ciento adicional sobre el impuesto predial;
 
-II. Quince por ciento adicional sobre los impuestos sobre espectáculos públicos; sobre loterías, rifas, sorteos y concursos; sobre juegos permitidos; y sobre fraccionamientos; y
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+II. Dieciséis por ciento adicional sobre los impuestos sobre espectáculos públicos; sobre loterías, rifas, sorteos y concursos; sobre juegos permitidos; y sobre fraccionamientos; y
 
-III. Quince por ciento adicional sobre los derechos y productos que establece el presente Código.
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+III. Dieciséis por ciento adicional sobre los derechos y productos que establece el presente Código.
 
 ###### Artículo 173.
 
@@ -1957,9 +2023,11 @@ Este impuesto se causará, liquidará y pagará aplicando a la base gravable det
 
 El pago de este impuesto deberá efectuarse en la Tesorería correspondiente al domicilio del bien a fraccionar, dentro de los veinte días siguientes a la fecha en que se hubiere causado.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 179.
 
-Las disposiciones de este Capítulo afectarán exclusivamente a aquellas operaciones que se encuentren comprendidas en la fracción I del artículo 9 de la Ley del Impuesto al Valor Agregado.
+Las disposiciones de este Capítulo afectarán exclusivamente el suelo objeto de la enajenación.
 
 ###### Artículo 180.
 
@@ -2073,15 +2141,19 @@ Son sujetos de este derecho las personas físicas o morales que soliciten del Ay
 
 El Municipio, en términos de lo dispuesto por la Ley de Coordinación Fiscal y demás normatividad aplicable, ejercerá facultades operativas de verificación al momento de expedir las licencias a que se refiere este Código y deberá solicitar a los interesados la exhibición de su cédula de inscripción al Registro Federal de Contribuyentes.
 
-En términos de la normatividad aludida en el párrafo anterior, la licencia, permiso o autorización de funcionamiento, o el registro o refrendo anual en su caso, no causarán cuota alguna, pero cumplirán los requisitos que para su otorgamiento señalen los reglamentos municipales, incluyendo el pago de las formas valoradas que correspondan, que no podrá exceder de un salario mínimo.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-Se exceptúan de la no causación los giros comerciales que enajenen o expendan bebidas alcohólicas en forma total o parcial al público en general, en cuyo caso deberán cubrir la cuota o tarifa establecida en el presente Código por el otorgamiento o refrendo de cada licencia, pero la omisión a dicha obligación se sancionará con multa equivalente a la cuota o tarifa señalada para el refrendo, según el caso y, de persistir la omisión dentro del término de quince días, se procederá a la clausura.
+En términos de la normatividad aludida en el párrafo anterior, la licencia, permiso o autorización de funcionamiento, o el registro o refrendo anual en su caso, sus propietarios cumplirán los requisitos que para el otorgamiento de aquéllos señalen los reglamentos municipales y deberán cubrir la cuota o tarifa establecida en el presente Código por el otorgamiento o refrendo de cada licencia o cédula de empadronamiento, pero la omisión a dicha obligación se sancionará con multa equivalente a la cuota o tarifa señalada para el refrendo, según el caso y, de persistir la omisión dentro del término de quince días, se procederá a la clausura.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
 #### SECCIÓN I. De los Establecimientos cuyo Giro sea la Enajenación de Bebidas Alcohólicas realizada Total o Parcialmente al Público
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 200.
 
-Las licencias, permisos o autorizaciones son intransferibles, otorgados para una persona física o moral y para un lugar determinado, por lo que no podrá cambiarse de propietario y del domicilio señalado en los mismos, sin la autorización previa del Cabildo, en términos de las disposiciones legales correspondientes.
+Las licencias, permisos o autorizaciones son intransferibles, otorgados para una persona física o moral y para un lugar determinado, por lo que no podrá cambiarse de propietario y del domicilio señalado en los mismos.
 
 ###### Artículo 201.
 
@@ -2091,71 +2163,71 @@ Los permisos o autorizaciones de carácter temporal, para giros comerciales que 
 
 La expedición de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, estará sujeta a los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo, mediante reglas o disposiciones de carácter general.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. CON SUS CUOTAS], G.O. 30 DE DICIEMBRE DE 2019)</small>
 
 Por la expedición de licencias a que este artículo se refiere, se pagarán las cuotas siguientes:
 
-Giro Costo de la licencia en número de salarios mínimos
+Giro: Costo de la licencia en
 
-Abarrotes con venta de cerveza 250
+número de UMAs:
 
-Abarrotes con venta de cerveza, vinos y
+Abarrotes con venta de cerveza 303.83
 
-licores 500
+Abarrotes con venta de cerveza, vinos y licores 607.65
 
-Agencias 1,250
+Agencias 1,519.13
 
-Almacenes o distribuidores 1,250
+Almacenes o Distribuidores 1,519.13
 
-Billares 500
+Billares 607.65
 
-Cantinas o bares 1,300
+Cantinas o bares 1,579.89
 
-Centros de eventos sociales 1,000
+Centros de eventos sociales 1,215.30
 
-Centros deportivos o recreativos 500
+Centros deportivos o recreativos 607.65
 
-Centros nocturnos y cabarets 3,900
+Centros nocturnos y cabarets 4,739.67
 
-Cervecerías 500
+Cervecerías 607.65
 
-Clubes sociales 300
+Clubes sociales 364.59
 
-Depósitos 300
+Depósitos 364.59
 
-Discotecas 3,900
+Discotecas 4,739.67
 
-Hoteles 800
+Hoteles 972.24
 
-Moteles 400
+Moteles 486.12
 
-Kermeses, ferias y bailes públicos 600
+Kermeses, ferias y bailes públicos 729.18
 
-Licorerías 550
+Licorerías 668.42
 
-Loncherías, taquerías, marisquerías, fondas,
+Loncherías, taquerías, marisquerías,
 
-coctelerías, torterías, pizzerías y similares 350
+fondas, coctelerías, torterías, pizzerías
 
-Minisúper, ultramarinos 650
+y similares 425.36
 
-Peñas, canta bar, café bar, video bar y café
+Mini super, ultramarinos 789.95
 
-cantante 1,300
+Peñas, canta bar, café bar, video bar y café cantante 1,579.89
 
-Restaurante 500
+Restaurante 607.65
 
-Restaurante-bar 800
+Restaurante-bar 972.24
 
-Servicar 500
+Servicar 607.65
 
-Supermercados 1,500
+Supermercados 1,822.95
 
-Centros Comerciales 2,300
+Centros comerciales 2,795.19
 
 Establecimientos en los que lleven a cabo
 
-juegos con apuestas y sorteos o casinos 2,300
+juegos con apuestas y sorteos o Casinos 2,795.19
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -2165,35 +2237,35 @@ Los derechos por refrendos anuales se calcularán a razón del veinte por ciento
 
 Los establecimientos a que se refiere este artículo que no se encuentren en actividad deberán cubrir el pago del refrendo correspondiente dentro del mes de enero, de lo contrario se cancelará la licencia, el permiso o la autorización de funcionamiento respectivo.
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. CON SUS CUOTAS], G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-Por la ampliación de horario de servicio de los establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, se causará el pago de derechos por las horas autorizadas, conforme a la siguiente tabla y cuota en salarios mínimos, sin que exceda el horario permitido en el artículo 174 de la Ley de Salud del Estado de Veracruz de Ignacio de la Llave:
+Por la ampliación de horario de servicio de los establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, se causará el pago de derechos por las horas autorizadas, conforme a la siguiente tabla y cuota en Unidades de Medida y Actualización, sin que exceda el horario permitido en el artículo 174 de la Ley de Salud del Estado de Veracruz de Ignacio de la Llave:
 
-Giro Salarios mínimos
+Giro: UMAs por cada hora:
 
-por cada hora
+Cantina 7.29
 
-Cantina 6
+Peña 7.29
 
-Peña 6
+Bar 7.29
 
-Bar 6
+Cervecería 7.29
 
-Cervecería 6
+Centro Nocturno o Cabaret 7.29
 
-Centro Nocturno o Cabaret 6
+Discoteca 7.29
 
-Discoteca 6
+Centros comerciales 6.08
 
-Centros comerciales 5
+Minisuper, Ultramarinos, Supermercados 3.65
 
-Minisuper, Ultramarinos, Supermercados 3
+Tiendas de Abarrotes, Misceláneas,
 
-Tiendas de Abarrotes, Misceláneas, Ultramarinos,
+U-l tramarinos, Mini Súper y Supermer-
 
-Mini Súper y Supermercados, Depósitos de Cerveza
+cados, Depósitos de Cerveza y
 
-y Depósitos de Vinos y Licores 0.08
+Depósitos de Vinos y Licores 0.10
 
 #### SECCIÓN II. De los Derechos por Anuncios Comerciales y Publicidad
 
@@ -2223,35 +2295,35 @@ Los derechos a que se refiere esta Sección, se cobrarán por la autorización r
 
 I. Por la colocación de anuncios comerciales en la vía pública o tenga efectos sobre ésta, repercutiendo en la imagen urbana, de acuerdo a la siguiente clasificación:
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-a) Popular: de dos a cuatro salarios mínimos por metro cuadrado de superficie del anuncio, por cada anunciante, semestralmente;
+a) Popular: de 2.43 a 4.86 UMAs por metro cuadrado de superficie del anuncio, por cara anunciante, semestralmente;
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-b) Interés social: de cuatro a cinco salarios mínimos por metro cuadrado de superficie del anuncio, por cada anunciante, semestralmente;
+b) Interés social: de 4.86 a 6.08 UMAs por metro cuadrado de superficie del anuncio, por cara anunciante, semestralmente;
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-c) Medio: de cinco a seis salarios mínimos por metro cuadrado de superficie del anuncio, por cada anunciante, semestralmente; y
+c) Medio: de 6.08 a 7.29 UMAs por metro cuadrado de superficie del anuncio, por cara anunciante, semestralmente; y
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-d) Residencial: de seis a nueve salarios mínimos por superficie del anuncio, por cada anunciante, semestralmente.
+d) Residencial: de 7.29 a 10.94 UMAs por superficie del anuncio, por cara anunciante, semestralmente.
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+Para aquellos anuncios que tengan efectos sobre la carretera costera del golfo y los barrios primero y segundo de la cabecera municipal, de 9.72 a 10.94 UMAs por metro cuadrado de superficie del anuncio, por cara anunciante hacia la vialidad, semestralmente.
 
-Para aquellos anuncios que tengan efectos sobre la carretera costera del golfo y los barrios primero y segundo de la cabecera municipal, de ocho a nueve salarios mínimos por metro cuadrado de superficie del anuncio, por cada anunciante hacia la vialidad, semestralmente.
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+II. Por la colocación eventual de anuncios comerciales que tengan efectos en la vía pública, repercutiendo en la imagen urbana, 12.15 UMAs por evento;
 
-II. Por la colocación eventual de anuncios comerciales que tengan efectos en la vía pública, repercutiendo en la imagen urbana, diez salarios mínimos por evento;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-III. Por el anuncio de eventos en altavoz móvil, cuatro salarios mínimos por evento; y
+III. Por el anuncio de eventos en altavoz móvil, 4.86 UMAs por evento; y
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-IV. Por la colocación de anuncios comerciales en el interior o exterior de vehículos en los que se preste el servicio de transporte público de pasajeros, díez salarios mínimos, semestralmente.
+IV. Por la colocación de anuncios comerciales en el interior o exterior de vehículos en los que se preste el servicio de transporte público de pasajeros, 12.15 UMAs, semestralmente.
 
 No causarán los derechos previstos en esta Sección, la colocación de anuncios, o cualquier acto publicitario, realizado con fines de asistencia o beneficencia pública; la publicidad de partidos políticos y de asociaciones religiosas; la publicidad de la Federación, del Estado, o del Municipio; y la publicidad que se realice con fines nominativos para la identificación de la negociación, siempre y cuando se realice en el propio establecimiento.
 
@@ -2261,187 +2333,233 @@ No causarán los derechos previstos en esta Sección, la colocación de anuncios
 
 Son objeto de este derecho los servicios que el Ayuntamiento preste, a solicitud o en rebeldía del usuario, los que se causarán y pagarán conforme a los conceptos y tarifas siguientes:
 
-I. Alineamiento de predios, en términos de la Ley de Desarrollo Regional y Urbano y sus Reglamentos, por metro lineal 0.875 salarios mínimos.
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-II. Por asignación de número oficial e inspección de predios, 7.5 salarios mínimos.
+I. Alineamiento de predios, en términos de la Ley de Desarrollo Regional y Urbano y sus Reglamentos, por metro lineal 1.06 UMAs.
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+II. Por asignación de número oficial e inspección de predios, 9.11 UMAs.
 
 III. Por licencias:
 
-a) De construcción de bardas, por metro lineal 0.325 salarios mínimos;
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+a) De construcción de bardas, por metro lineal 0.39 UMAs.
 
 b) De construcción o ampliación o remodelación, tomando como base la superficie total que resulte de la suma de las superficies parciales cubiertas por construcciones correspondientes a cada uno de los pisos de que consta el edificio, se pagaran por metro cuadrado o fracción, de conformidad con las cuotas siguientes:
 
-Uso Salario Mínimo
+> <small>(REFORMADO [N. DE E. CON SUS CUOTAS], G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-1. Residencial 0.28
+Uso: UMAs:
 
-2. Medio 0.242
+1. Residencial 0.34
 
-3. Interés Social 0.075
+2. Medio 0.29
 
-4. Popular 0.06
+3. Interés Social 0.09
 
-5. Comercial 0.425
+4. Popular 0.07
 
-6. Industrial 0.425
+5. Comercial 0.51
 
-7. Agropecuario 0.152
+6. Industrial 0.51
 
-8. De Servicio 0.152
+7. Agropecuario 0.18
+
+8. De Servicio 0.18
 
 c) Para fusionar, subdividir o relotificar, en términos de la Ley de Desarrollo Regional y Urbano y el Reglamento de la materia, por metro cuadrado:
 
-Uso Salario Mínimo
+> <small>(REFORMADO [N. DE E. CON SUS CUOTAS], G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-1. Residencial 0.0212
+Uso: UMAs:
 
-2. Medio 0.0145
+1. Residencial 0.026
 
-3. Interés Social 0.00625
+2. Medio 0.017
 
-4. Popular 0.004
+3. Interés Social 0.0075
 
-5. Comercial 0.04
+4. Popular 0.0048
 
-6. Industrial 0.04
+5. Comercial 0.048
 
-7. Agropecuario 0.0125
+6. Industrial 0.048
 
-8. De Servicio 0.015
+7. Agropecuario 0.015
 
-En ningún caso la cuota a pagar será menor de 2 salarios mínimos;
+8. De Servicio 0.018
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+En ningún caso la cuota a pagar será menor de 2.431 UMAs;
 
 d) Para fraccionamientos, sobre el área total por fraccionar o lotificar, por metro cuadrado o fracción, en término de la Ley de Desarrollo Regional y Urbano y sus reglamentos, por metro cuadrado o fracción:
 
-Uso Salario Mínimo
+> <small>(REFORMADO [N. DE E. CON SUS CUOTAS], G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-1. Residencial 0.0212
+Uso: UMAs:
 
-2. Medio 0.0145
+1. Residencial 0.026
 
-3. Interés Social 0.00625
+2. Medio 0.017
 
-4. Popular 0.004
+3. Interés Social 0.0075
 
-5. Comercial 0.04
+4. Popular 0.0048
 
-6. Industrial 0.04
+5. Comercial 0.048
 
-7. Agropecuario 0.0125
+6. Industrial 0.048
 
-8. De Servicio 0.015
+7. Agropecuario 0.015
 
-En ningún caso la cuota a pagar será menor de 2 salarios mínimos;
+8. De Servicio 0.018
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+En ningún caso la cuota a pagar será menor de 2.431 UMAs;
 
 e) Por demoliciones por metro cuadrado:
 
-Uso Salario Mínimo
+> <small>(REFORMADO [N. DE E. CON SUS CUOTAS], G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-1. Residencial 0.256
+Uso: UMAs:
 
-2. Medio 0.205
+1. Residencial 0.311
 
-3. Interés Social 0.1275
+2. Medio 0.249
 
-4. Popular 0.1025
+3. Interés Social 0.155
 
-5. Comercial 0.575
+4. Popular 0.125
 
-6. Industrial 0.575
+5. Comercial 0.699
 
-7. Agropecuario 0.23
+6. Industrial 0.699
 
-8. De Servicio 0.4075
+7. Agropecuario 0.280
 
-En ningún caso la cuota a pagar será menor de 2 salarios mínimos;
+8. De Servicio 0.495
 
-f) Por la construcción de albercas y depósitos de agua, por metro cúbico o fracción, 1.2 salarios mínimos;
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-g) Por la construcción de tanques subterráneos para almacenamiento de material peligroso o combustible, por metro cúbico o fracción, 4 salarios mínimos;
+En ningún caso la cuota a pagar será menor de 2.431 UMAs;
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+f) Por la construcción de albercas y depósitos de agua, por metro cúbico o fracción, 1.458 UMAs;
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+g) Por la construcción de tanques subterráneos para almacenamiento de material peligroso o combustible, por metro cúbico o fracción, 4.861 UMAs;
 
 h) Para la conversión al régimen de propiedad en condominio, por metro cuadrado:
 
-Uso Salario Mínimo
+> <small>(REFORMADO [N. DE E. CON SUS CUOTAS], G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-1. Residencial 0.14
+Uso: UMAs:
 
-2. Medio 0.1225
+1. Residencial 0.170
 
-3. Interés Social 0.0375
+2. Medio 0.148
 
-4. Popular 0.03
+3. Interés Social 0.045
 
-5. Comercial 0.2125
+4. Popular 0.036
 
-6. Industrial 0.2125
+5. Comercial 0.258
 
-7. Agropecuario 0.075
+6. Industrial 0.258
 
-8. De Servicio 0.075
+7. Agropecuario 0.091
+
+8. De Servicio 0.091
 
 i) Por remodelación de fachadas, se pagará por metro cuadrado o fracción, de acuerdo a lo señalado en el inciso b);
 
-j) Por la construcción de estacionamientos descubiertos o patios de almacenaje, se pagará por metro cuadrado de piso, 0.10 salarios mínimos; y
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-k) Realizar obras, modificaciones, reparaciones, introducir servicios provisionales o permanentes en la vía pública por metro lineal o cuadrado, según corresponda, un salario mínimo.
+j) Por la construcción de estacionamientos descubiertos o patios de almacenaje, se pagará por metro cuadrado de piso, 0.122 UMAs; y
 
-Por las demás no especificadas en esta fracción por metro cuadrado 0.01 salarios mínimos;
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+k) Realizar obras, modificaciones, reparaciones, introducir servicios provisionales o permanentes en la vía pública por metro lineal o cuadrado, según corresponda, 1.215 UMAs.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Por las demás no especificadas en esta fracción por metro cuadrado 0.012 UMAs;
 
 IV. Por deslinde de predios por metro cuadrado o fracción:
 
-Uso Salario Mínimo
+> <small>(REFORMADO [N. DE E. CON SUS CUOTAS], G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-1. Residencial 0.0925
+Uso: UMAs:
 
-2. Medio 0.05
+1. Residencial 0.112
 
-3. Interés Social 0.04375
+2. Medio 0.061
 
-4. Popular 0.0375
+3. Interés Social 0.053
 
-5. Comercial 0.0625
+4. Popular 0.046
 
-6. Industrial 0.025
+5. Comercial 0.076
 
-7. Agropecuario 0.02
+6. Industrial 0.030
 
-8. De Servicio 0.025
+7. Agropecuario 0.024
 
-En ningún caso la cuota a pagar será menor de 2 salarios mínimos;
+8. De Servicio 0.030
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+En ningún caso la cuota a pagar será menor de 2.431 UMAs;
 
 V. Por registro, estudio y aprobación de planos y proyectos de construcción, remodelación o ampliación, de acuerdo a los reglamentos vigentes, por plano:
 
-Uso Salario Mínimo
+> <small>(REFORMADO [N. DE E. CON SUS CUOTAS], G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-1. Residencial 4
+Uso: UMAs:
 
-2. Medio 3
+1. Residencial 4.86
 
-3. Interés Social 2
+2. Medio 3.64
 
-4. Popular 1
+3. Interés Social 2.43
 
-5. Comercial 8
+4. Popular 1.22
 
-6. Industrial 8
+5. Comercial 9.72
 
-7. Agropecuario 4
+6. Industrial 9.72
 
-8. De Servicio 4
+7. Agropecuario 4.86
+
+8. De Servicio 4.86
 
 VI. Por dictamen de uso de suelo o administrativo, según clasificación, por metro cuadrado:
 
-Uso Salarios Mínimos
+> <small>(REFORMADO [N. DE E. CON SUS CUOTAS], G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-1. Vivienda 0.10
+Uso: UMAs:
 
-2. Industria 0.15
+1. Vivienda 0.122
 
-3. Comercio 0.50
+2. Industrial 0.182
 
-4. Servicio 0.30
+3. Comercio 0.608
 
-En ningún caso la cuota a pagar será menor a 5 salarios mínimos.
+4. Servicio 0.365
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+En ningún caso la cuota a pagar será menor a 6.077 UMAs.
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VII. Por el alta de Peritos Responsables de obras y por el empadronamiento de las empresas contratistas, se cobraran por nuevo Ingreso 40 UMAs y por refrendo 20 UMAs.
 
 Por cambio de uso de suelo, en caso de que el Municipio contare con un Programa de Ordenamiento Urbano, en términos de la normatividad aplicable, se pagará el cincuenta por ciento de la cuota establecida para un dictamen de uso de suelo.
 
@@ -2519,7 +2637,9 @@ I. La expedición de certificados, constancias y copias certificadas de document
 
 II. La evaluación de impacto ambiental; y
 
-III. La expedición de copias simples o certificadas, o por hoja impresa por medio de dispositivo informático, disco de 3.5 pulgadas o disco compacto, por solicitudes de información conforme a la Ley de Transparencia y Acceso a la información Pública para el Estado.
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+III. La expedición de copias simples o certificadas, o por hoja impresa por medio de dispositivo electrónico USB, por solicitudes de información conforme a la Ley de Transparencia y Acceso a la Información Pública para el Estado.
 
 ###### Artículo 222.
 
@@ -2531,49 +2651,81 @@ Los funcionarios facultados para prestar los servicios a que se refiere este Cap
 
 Los derechos por expedición de certificaciones y otros servicios, se causarán y pagarán conforme a las cuotas siguientes:
 
-I. Certificado o certificaciones expedidos por funcionarios o empleados municipales, incluyendo la búsqueda de datos para expedirlos, por cada certificado, 1.20 salarios mínimos.
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+I. Certificado o certificaciones expedidos por funcionarios o empleados municipales, incluyendo la búsqueda de datos para expedirlos, por cada certificado, 1.458 UMAs.
 
 II. Copias de documentos que obren en los archivos de oficinas municipales:
 
-a) Por hoja escrita a doble espacio en ambas caras, 1 salario mínimo.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-b) Por hoja que indica el inciso anterior, escrita a un espacio por ambas caras, 1.10 salarios mínimos.
+a) Por hoja escrita a doble espacio en ambas caras, 1.215 UMAs.
 
-c) En los casos a que se refieren las fracciones anteriores, cuando se escriba por una sola cara de la hoja, 1 salario mínimo.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-d) Copias certificadas de planos de construcción, 5 salarios mínimos.
+b) Por hoja que indica el inciso anterior, escrita a un espacio por ambas caras, 1.337 UMAs.
 
-En los casos a que se refiere esta fracción, además de los derechos que establecen los incisos que anteceden, se cobrará por la búsqueda de los documentos de los que deba sacarse copia, cuando el interesado no proporcione los datos exactos para su localización, por cada año que comprenda la busca (sic), 0.30 salarios mínimos;
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-III. Evaluación de impacto ambiental, 21 salarios mínimos;
+c) En los casos a que se refieren las fracciones anteriores, cuando se escriba por una sola cara de la hoja, 1.215 UMAs.
 
-IV. Certificados de conducta, 2.10 salarios mínimos;
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-V. Certificados de dependencia económica, 2.10 salarios mínimos;
+d) Copias certificadas de planos de construcción, 6.077 UMAs.
 
-VI. Certificados de reclutamiento militar, 2.10 salarios mínimos;
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-VII. Certificados de huellas dactilares 2.10 salarios mínimos;
+En los casos a que se refiere esta fracción, además de los derechos que establecen los incisos que anteceden, se cobrará por la búsqueda de los documentos de los que deba sacarse copia, cuando el interesado no proporcione los datos exactos para su localización, por cada año que comprenda la busca (sic), 0.365 UMAs;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+III. Evaluación de impacto ambiental, 25.521 UMAs;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+IV. Certificados de conducta, 2.552 UMAs.
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+V. Certificados de dependencia económica, 2.552 UMAs
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VI. Certificados de reclutamiento militar, 2.552 UMAs;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VII. Certificados de huellas dactilares 2.552 UMAs
 
 VIII. Constancias expedidas por las dependencias de Desarrollo Urbano, por cada una, según los incisos siguientes:
 
-a) Interés Social y Popular, 2 salarios mínimos, y
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-b) Residencial, Industrial y Comercial, 10 salarios mínimos.
+a) Interés Social y Popular, 2.431 UMAs, y
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-IX. Por diversas constancias en materia ambiental, 20 salarios mínimos;
+b) Residencial, Industrial y Comercial 12.153 UMAs.
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+IX. Por diversas constancias en materia ambiental, 24.306 UMAs;
 
 > <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
 X. Por solicitudes de información conforme a la Ley de Transparencia y Acceso a la Información Pública para el Estado:
 
-a) Por copias simples o impresos por medio de dispositivo informático, por cada hoja tamaño carta u oficio: 0.02 salarios mínimos;
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-b) Por copias certificadas distintas a las señaladas en las fracciones anteriores, por cada hoja o fracción: 0.02 salarios mínimos; y
+a) Por copias simples o impresos por medio de dispositivo informático, por cada hoja tamaño carta u oficio: 0.024 UMAs;
 
-c) Por información grabada en dispositivo electrónico de almacenamiento o disco compacto, por copia: 0.03 salarios mínimos.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+b) Por copias certificadas distintas a las señaladas en las fracciones anteriores, por cada hoja o fracción: 0.024 UMAs; y
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+c) Por información grabada en dispositivo electrónico de almacenamiento o disco compacto, por copia: 0.036 UMAs.
 
 El costo del envío de información corresponderá a las tarifas que apliquen las empresas de servicios de mensajería contratadas, así como a las determinadas por el Servicio Postal Mexicano, para el caso de envíos por correo certificado.
 
@@ -2599,13 +2751,21 @@ El pago de este derecho se efectuará previamente a la prestación del servicio,
 
 Por la prestación de servicios que se proporcionan en los rastros públicos municipales se causarán derechos conforme a las cuotas siguientes:
 
-I. Bovino, por cada animal: 1.5 a 3.0 salarios mínimos;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-II. Porcino y equino, por cada animal: 0.5 a 1.0 salarios mínimos;
+I. Bovino, por cada animal: 1.823 a 3.646 UMAs;
 
-III. Ovino y caprino, por cada animal: 0.2 a 0.4 salarios mínimos;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-IV. Aves y otras especies menores, por cada animal: 0.01 a 0.02 salarios mínimos;
+II. Porcino y equino, por cada animal: 0.608 a 1.215 UMAs;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+III. Ovino y caprino, por cada animal: 0.243 a 0.49 UMAs;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+IV. Aves y otras especies menores, por cada animal: 0.012 a 0.024 UMAs;
 
 V. Por uso de corrales después de transcurridas cuarenta y ocho horas del ingreso del animal, por día o fracción se pagará el diez por ciento de las cantidades señaladas en las fracciones anteriores; y
 
@@ -2617,35 +2777,59 @@ VI. Por uso de frigoríficos, después de transcurridas veinticuatro horas del i
 
 Son objeto de estos derechos, los servicios de inhumación, cremación y exhumación de cadáveres o restos humanos, apertura y cierre de gavetas, depósito de restos en osario, construcción, reconstrucción y ampliación de monumentos, criptas, fosas o nichos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 229.
 
-Son sujetos de estos derechos, las personas físicas o morales que soliciten la prestación de los servicios que señala el artículo anterior, quienes pagarán, en salarios mínimos, las cuotas siguientes:
+Son sujetos de estos derechos, las personas físicas o morales que soliciten la prestación de los servicios que señala el artículo anterior, quienes pagarán, en Unidades de Medida y Actualización, las cuotas siguientes:
 
 I. Inhumaciones por siete años y refrendo de fosas:
 
-a) Sin bóveda 5
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-b) Con bóveda 17
+a) Sin bóveda 6.077
 
-II. Inhumaciones en fosas a perpetuidad 10
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-III. Depósito de restos en osario por una temporalidad de 7 años 13
+b) Con bóveda 20.66
 
-IV. Depósito de restos en el osario a perpetuidad 1
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-V. Construcción, reconstrucción, ampliación o modificación de monumentos, criptas o fosas 1
+II. Inhumaciones en fosas a perpetuidad 12.153
 
-VI. Inhumación de restos, apertura o cierre de gavetas y demás operaciones semejantes 5
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-VII. Exhumaciones 5
+III. Depósito de restos en osario por una temporalidad de 7 años 15.79
 
-VIII. Reinhumaciones 5
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-IX. Cremaciones 4
+IV. Depósito de restos en el osario a perpetuidad 1.215
 
-X. Nichos en el panteón municipal 13
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 2019)</small>
+V. Construcción, reconstrucción, ampliación o modificación de monumentos, criptas o fosas 1.215
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VI. Inhumación de restos, apertura o cierre de gavetas y demás operaciones semejantes 6.077
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VII. Exhumaciones 6.077
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VIII. Reinhumaciones 6.077
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+IX. Cremaciones 4.861
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+X. Nichos en el panteón municipal 15.79
+
+> <small>(ADICIONADO [N. DE E. PERTENECE AL ARTÍCULO], G.O. 15 DE OCTUBRE DE 2019)</small>
 
 El Ayuntamiento, por acuerdo del Cabildo, podrá exentar del pago del derecho por la prestación de los servicios de inhumaciones y refrendo de fosas a que se refiere este artículo cuando se trate de los restos mortales de las víctimas directas e indirectas del delito de desaparición forzada de personas y la cometida por particulares, a efecto de garantizar el derecho previsto en la fracción IX del artículo 73 de la Ley en Materia de Desaparición de Personas para el Estado de Veracruz de Ignacio de la Llave.
 
@@ -2687,21 +2871,23 @@ Los derechos a que este Capítulo se refiere, se causarán y pagarán mensualmen
 
 I. Por cada inmueble destinado a uso habitacional, de tipo:
 
-Salarios mínimos
+> <small>(REFORMADO [N. DE E. CON SUS CUOTAS], G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-Residencial 0.5
+UMAs:
 
-Medio 0.4
+Residencial 0.608
 
-Interés social 0.3
+Medio 0.486
 
-Popular 0.2
+Interés social 0.365
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+Popular 0.243
 
-II. Por cada industria o comercio, así como empresas que presenten espectáculos públicos, 0.016 salarios mínimos por kilogramo o 0.025 salarios mínimos por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial.
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+II. . (sic) Por cada industria o comercio, así como empresas que presenten espectáculos públicos, 0.019 UMAs por kilogramo o 0.030 UMAs por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial.
+
+> <small>(ADICIONADO [N. DE E. PERTENECE AL ARTÍCULO], G.O. 15 DE OCTUBRE DE 2019)</small>
 
 Aquellos contribuyentes que opten por el pago anual recibirán un descuento del diez por ciento.
 
@@ -2737,11 +2923,13 @@ Son sujetos de este derecho, las personas físicas o morales que sean propietari
 
 Es base gravable el volumen de material extraído cuantificado en metros cúbicos o, en su defecto, por el lapso de explotación del banco de material.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-Por los derechos a que se refiere este Capítulo se pagará, por metro cúbico o fracción de material extraído, la cuota de 0.025 salarios mínimos.
+Por los derechos a que se refiere este Capítulo se pagará, por metro cúbico o fracción de material extraído, la cuota de 0.030 UMAs.
 
-En el caso de que no sea posible determinar el volumen de material extraído, este derecho se pagará a razón de un salario mínimo diario.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+En el caso de que no sea posible determinar el volumen de material extraído, este derecho se pagará a razón de 1.215 UMAs diario.
 
 ### CAPÍTULO XI. De los Derechos por Servicios Prestados por la Tesorería
 
@@ -2749,49 +2937,95 @@ En el caso de que no sea posible determinar el volumen de material extraído, es
 
 Son objeto de estos derechos los servicios siguientes, que se causarán y pagarán de conformidad con las cuotas que en cada caso se señalan:
 
-I. Rectificación o cancelación de los datos asentados en la declaración inicial de traslado de dominio, a solicitud del interesado, 1 salario mínimo.
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-II. Expedición de una constancia de datos catastrales, 3 salarios mínimos.
+I. Rectificación o cancelación de los datos asentados en la declaración inicial de traslado de dominio, a solicitud del interesado, 1.215 UMAs.
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+II. Expedición de una constancia de datos catastrales, 3.646 UMAs;
 
 III. Expedición de cartografía catastral propiedad del Municipio:
 
-a) Copias en papel heliográfico o bond por plano general de localidad, con curvas de nivel al metro y cuotas de crucero, en escala 1:2,000, por hoja, 4.5 salarios mínimos.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-b) Copias en papel heliográfico o bond por plano general de localidad, en escalas aproximadas 1:4,000, 1:5,000, 1:7,500 y 1:10,000, 3 salarios mínimos.
+a) Copias en papel heliográfico o bond por plano general de localidad, con curvas de nivel al metro y cuotas de crucero, en escala 1:2,000, por hoja, 5.469 UMAs.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+b) Copias en papel heliográfico o bond por plano general de localidad, en escalas aproximadas 1:4,000, 1:5,000, 1:7,500 y 1:10,000, 3.646 UMAs.
 
 c) Copias en papel heliográfico o bond por plano manzanero de localidades catastradas, en escala 1:500 o 1:1,000:
 
-1. De 1 hasta 100 planos, por plano, 4.5 salarios mínimos.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-2. De 101 planos en adelante por plano, 3 salarios mínimos.
+1.- De 1 hasta 100 planos, por plano, 5.469 UMAs.
 
-d) Copias del plano de región catastral, sin escala, con nomenclatura y valores catastrales del suelo urbano, por hoja, 3 salarios mínimos.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-e) Copias del plano perimetral tamaño carta de un predio registrado en la cartografía catastral urbana, en escala 1:500, por plano. 3 salarios mínimos.
+2.- De 101 planos en adelante por plano, 3.646 UMAs.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+d) Copias del plano de región catastral, sin escala, con nomenclatura y valores catastrales del suelo urbano, por hoja, 3.646 UMAs.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+e) Copias del plano perimetral tamaño carta de un predio registrado en la cartografía catastral urbana, en escala 1:500, por plano. 3.646 UMAs.
 
 f) Cartografía digital en escala 1:1,000 en formatos DXF., DWG. y ARC/INFO., por km²:
 
-1. Cobertura de manzanas, 22 salarios mínimos.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-2. Cobertura de predios, 64 salarios mínimos.
+1.- Cobertura de manzanas, 26.737 UMAs.
 
-3. Cobertura de construcciones, 64 salarios mínimos.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-4. Cobertura de curvas de nivel a cada metro, 10 salarios mínimos.
+2.- Cobertura de predios, 77.77 UMAs.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+3.- Cobertura de construcciones, 77.77 UMAs.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+4.- Cobertura de curvas de nivel a cada metro, 12.153 UMAs.
 
 g) Copias de contacto de fotografías aéreas, en escalas 1:4,500 1:10,000 y 1:20,000:
 
-1. En papel bond, imagen blanco y negro, en formato 23x23 cm, por copia, 1 salario mínimo.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-2. Grabada con escáner e impresión en papel bond, blanco y negro, en formato 23x23 cm, por copia. 1.1 salario mínimo.
+1.- En papel bond, imagen blanco y negro, en formato 23 x 23 cm., por copia, 1.215 UMAs.
 
-3. Grabada en diskette de 3.5" o disco compacto, por copia, 3.8 salarios mínimos.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-IV. Por la certificación de cada plano catastral propiedad del Municipio, 3 salarios mínimos.
+2.- Grabada con escáner e impresión en papel bond, blanco y negro, en formato 23 x 23 cm., por copia. 1.337 UMAs.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+3.- Grabada en disco compacto y/o memoria USB, por copia 4.618 UMAs.
+
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+IV. Por la certificación de cada plano catastral propiedad del Municipio, 3.646 UMAs.
 
 Se exceptúan del pago de derechos por la expedición de cartografía catastral y copias de contacto de fotografías aéreas, las dependencias y organismos Federales, Estatales y Municipales, en los términos de los convenios de colaboración que se suscriban, previo cumplimiento de las disposiciones legales aplicables.
 
-V. La certificación de documentos públicos que obran en el archivo de la tesorería, 1 salario mínimo.
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+V. La certificación de documentos públicos que obran en el archivo de la tesorería, 1.215 UMAs.
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VI. Expedición de una Cédula Catastral, 8.5 UMAs;
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VII. Expedición de un Certificado de Valor Catastral o Catastral Provisional, 12 UMAs; y
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VIII. Inspección del predio y/o trabajo técnico, 9 UMAs.
 
 ###### Artículo 242.
 
@@ -2807,61 +3041,59 @@ Son objeto de estos derechos los servicios de inscripción de actos del estado c
 
 Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios a que se refiere el artículo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 245.
 
-Los derechos a que se refiere este Capítulo se causarán y pagarán, en salarios mínimos, de acuerdo a las cuotas siguientes:
+Los derechos a que se refiere este Capítulo se causarán y pagarán, en Unidades de Medida y Actualización, de acuerdo a las cuotas siguientes:
 
-Salarios Mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
-
-I. Por la expedición de copias de actas del
-
-Registro Civil, incluyendo el papel sellado,
-
-por cada hoja 1.20. con excepción de la primera
-
-copia certificada del acta de registro
-
-de nacimiento de una persona y, en su caso, del
-
-acta de adopción: 1.20
+I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado, por cada hoja 1.458 UMAs, con excepción de la primera copia certificada del acta de registro de nacimiento de una persona y, en su caso, del acta de adopción;
 
 > <small>(REFORMADA, G.O. 30 DE MAYO DE 2019)</small>
 
-II. Registro de nacimientos ordinarios
+II. Registro de nacimientos ordinarios y extemporáneos 0
 
-y extemporáneos 0
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+III. Reconocimiento de hijos 3.038
 
-III. Reconocimiento de hijos 2.5
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-IV. Adopciones 2.5
+IV. Adopciones 3.038
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-V. Celebración de matrimonios en oficina 20
+V. Celebración de matrimonios en oficina 214.306
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-VI. Celebración de matrimonios a domicilio 60
+VI. Celebración de matrimonio a domicilio 72.918
 
-VII. Inscripción de sentencias 13.20
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-VIII. Divorcios 17.5
+VII. Inspección de sentencias 16.042
 
-IX. Expedición de certificados de vecindad 1.20
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-X. Notas marginales en los libros de actas 2.5
+VIII. Divorcios 21.268
 
-> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-XI. Inscripción de actas del extranjero 13.20
+IX. Expedición de certificados de vecindad 1.458
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-Por búsqueda de los documentos anteriores, se pagarán 2 salarios mínimos, por cada diez años o fracción del periodo que comprenda la búsqueda, cuando no se proporcionen los datos exactos para su localización.
+X. Notas marginales en los libros de actas 3.038
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XI. Inscripción de actas del extranjero 16.042
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Por búsqueda de los documentos anteriores, se pagarán 2.431 UMAs, por cada diez años o fracción del periodo que comprenda la búsqueda, cuando no se proporcionen los datos exactos para su localización.
 
 En los casos de trámites urgentes, se aumentará su costo en un cien por ciento más de la cuota autorizada.
 
@@ -2877,107 +3109,251 @@ Las personas que utilicen espacios en mercados, así como en tianguis, deberán 
 
 Los derechos por la ocupación de espacios, se calcularán y pagarán de conformidad con las cuotas siguientes:
 
-I. La ocupación de espacios en mercados municipales se pagará diariamente por metro cuadrado, a razón de 0.0625 salarios mínimos.
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+I. La ocupación de espacios en mercados municipales se pagará diariamente por metro cuadrado, a razón de 0.076 UMAs.
 
 Las altas, traspasos, cambios, ampliaciones de giro y arreglo o modificaciones de locales o áreas que ocupen, se efectuarán de conformidad con la normatividad aplicable, previa autorización del Ayuntamiento;
 
-II. Por ocupación de espacios en la vía pública o áreas municipales se pagará por metro cuadrado o fracción, previa autorización una cuota diaria de 0.05 salarios mínimos;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-III. Ocupación temporal de la vía pública o áreas municipales por vehículos, aparatos mecánicos o electromecánicos en época de días de mercado o celebraciones de ferias o similares, por metro cuadrado o fracción pagarán una cuota diaria de 0.05 salarios mínimos;
+II. Por ocupación de espacios en la vía pública o áreas municipales se pagará por metro cuadrado o fracción, previa autorización una cuota diaria de 0.061 UMAs;
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-IV. La ocupación de espacios en vía pública o áreas municipales, por postería eléctrica, etcétera, exceptuando las áreas verdes, se pagará diariamente por metro cuadrado de superficie, 0.075 salarios mínimos.
+III. Ocupación temporal de la vía pública o áreas municipales por vehículos, aparatos mecánicos o electromecánicos en época de días de mercado o celebraciones de ferias o similares, por metro cuadrado o fracción pagarán una cuota diaria de 0.061 UMAs;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+IV. La ocupación de espacios en vía pública o áreas municipales, por postería eléctrica, etcétera, exceptuando las áreas verdes, se pagará diariamente por metro cuadrado de superficie, 0.091 UMAs.
 
 V. La ocupación de la vía pública requiere autorización en los casos y con las cuotas que a continuación se indican: Andamios, tapiales y otros usos no especificados, por metro lineal diariamente:
 
-a) Sobre el arroyo de una calle de la ciudad 0.05 salarios mínimos.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-b) Por ocupación de banqueta en la ciudad 0.05 salarios mínimos.
+a) Sobre el arroyo de una calle de la ciudad 0.061 UMAs
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+b) Por ocupación de banqueta en la ciudad 0.061 UMAs
 
 VI. Por la ocupación de subsuelo con construcciones permanentes, se pagarán mensualmente las siguientes cuotas:
 
-a) Instalaciones lineales diversas por metro 0.05 salarios mínimos.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-b) Instalaciones no lineales por metro cuadrado o fracción por planta o piso de profundidad 0.1375 salarios mínimos.
+a) Instalaciones lineales diversas por metro 0.061 UMAs
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-VII. Por ocupación temporal de la vía pública o áreas municipales, por metro cuadrado o fracción, diariamente 0.075 salarios mínimos.
+b) Instalaciones no lineales por metro cuadrado o fracción por planta o piso de profundidad 0.167 UMAs.
 
-El estacionamiento en la vía pública se pagará mediante utilización de parquímetros, por hora o fracción a razón de 0.125 salarios mínimos.
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VII. Por ocupación temporal de la vía pública o áreas municipales, por metro cuadrado o fracción, diariamente 0.091 UMAs.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+El estacionamiento en la vía pública se pagará mediante utilización de parquímetros, por hora o fracción a razón de 0.152 UMAs.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO XIV. DE LOS DERECHOS POR SERVICIOS PRESTADOS EN MATERIA DE PROTECCIÓN CIVIL
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 247 Bis.
 
-Por los servicios prestados en materia de Protección Civil se causarán y cobrarán en salarios mínimos, los siguientes derechos:
+Por los servicios prestados en materia de Protección Civil se causarán y cobrarán en UMAs, los siguientes derechos:
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
 I. Por la emisión de dictámenes técnicos de instalaciones públicas y privadas, existentes y futuras, de acuerdo a la Ley de Protección Civil y la Reducción del Riesgo de Desastres para el Estado de Veracruz de Ignacio de la Llave.
 
 Alto Riesgo
 
-1 a 166 metros cuadrados de superficie 26
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-167 a 332 metros cuadrados de superficie 52
+1 a 166 metros cuadrados de superficie 31.598
 
-333 a 500 metros cuadrados de superficie 80
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+167 a 332 metros cuadrados de superficie 63.196
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+333 a 500 metros cuadrados de superficie 97.224
 
 Riesgo Medio
 
-1 a 166 metros cuadrados de superficie 23
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-167 a 332 metros cuadrados de superficie 46
+1 a 166 metros cuadrados de superficie 27.952
 
-333 a 500 metros cuadrados de superficie 70
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+167 a 332 metros cuadrados de superficie 55.904
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+333 a 500 metros cuadrados de superficie 85.071
 
 Bajo Riesgo
 
-1 a 60 metros cuadrados de superficie 7
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-61 a 125 metros cuadrados de superficie 14
+1 a 60 metros cuadrados de superficie 8.507
 
-126 a 190 metros cuadrados de superficie 21
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-191 a 250 metros cuadrados de superficie 28
+61 a 125 metros cuadrados de superficie 17.014
 
-251 a 315 metros cuadrados de superficie 35
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-316 a 380 metros cuadrados de superficie 42
+126 a 190 metros cuadrados de superficie 25.521
 
-381 a 500 metros cuadrados de superficie 60
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-En estos casos, la autoridad en materia de protección civil estará facultada para incrementar el monto en 20 salarios mínimos adicionales por cada 500 metros cuadrados de superficie o fracción que exceda los primeros 500 metros cuadrados de superficie de los rubros mencionados.
+191 a 250 metros cuadrados de superficie 34.028
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+251 a 315 metros cuadrados de superficie 42.536
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+316 a 380 metros cuadrados de superficie 51.043
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+381 a 500 metros cuadrados de superficie 72.918
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+En estos casos, la autoridad en materia de protección civil estará facultada para incrementar el monto en 24.036 UMAs adicionales por cada 500 metros cuadrados de superficie o fracción que exceda los primeros 500 metros cuadrados de superficie de los rubros mencionados.
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
 II. Por impartición de cada curso de capacitación a personas morales o físicas como entidades del sector privado:
 
-Persona Física 2
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-Persona Moral 60
+Persona Física 2.431
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Personal Moral 72.918
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
 III. Por registro como tercero acreditado que por su actividad y experiencia se vinculen con la protección civil para llevar a cabo cursos de capacitación, estudios de riesgo vulnerabilidad, programas internos y especiales:
 
-Persona Física: 25
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Persona Física 30.383
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
 IV. Renovación de registro como terceros acreditados.
 
-Persona Física: 12
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-V. Por la autorización de programas especiales de Protección Civil que se presenten para la realización de un evento o espectáculo en el municipio de Cosoleacaque para promotores particulares, se pagará:
+Persona Física 14.584
 
-Aforo del evento:
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-De 1 a 1,000 asistentes: 40
+V. Por la autorización de programas especiales de Protección Civil que se presenten para la realización de un evento o espectáculo en el municipio para promotores particulares, se pagará: Aforo del evento:
 
-De 1,001 a 5,000 asistentes: 60
+De 1 a 1,000 asistentes: 48.612
 
-De 5,001 a 10,000 asistentes: 80
+De 1,001 a 5,000 asistentes: 72.918
 
-De 10,001 en adelante: 90
+De 5,001 a 10,000 asistentes: 97.224
+
+De 10,001 en adelante: 109.377
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VI. Por el Ingreso y revisión de programa interno de protección civil, para las empresas establecidas en el municipio se pagarán 120 UMAs.
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VII. Por el Visto bueno sin uso de gas, para locales comerciales establecidos en el municipio se pagarán:
+
+UMAs
+
+1 a 30 metros cuadrados 4
+
+31 a 60 metros cuadrados 8
+
+61 a 90 metros cuadrados 12
+
+91 a 125 metros cuadrados 17
+
+126 a 190 metros cuadrados 25
+
+191 a 250 metros cuadrados 34
+
+251 a 315 metros cuadrados 42
+
+316 a 380 metros cuadrados 50
+
+381 a 500 metros cuadrados 59
+
+En estos casos, la autoridad en materia de protección civil estará facultada para incrementar el monto en 24 UMAs adicionales por cada 500 metros cuadrados de superficie o fracción que exceda los primeros 500 metros cuadrados de superficie de los rubros mencionados.
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VIII. Por Visto bueno con uso de gas, para locales comerciales establecidos en el municipio, se pagarán:
+
+UMAs
+
+1 a 30 metros cuadrados 12
+
+31 a 60 metros cuadrados 17
+
+61 a 90 metros cuadrados 25
+
+91 a 125 metros cuadrados 34
+
+126 a 190 metros cuadrados 42
+
+191 a 250 metros cuadrados 50
+
+251 a 315 metros cuadrados 59
+
+316 a 380 metros cuadrados 68
+
+381 a 500 metros cuadrados 76
+
+En estos casos, la autoridad en materia de protección civil estará facultada para incrementar el monto en 20 UMAs adicionales por cada 500 metros cuadrados de superficie o fracción que exceda los primeros 500 metros cuadrados de superficie de los rubros mencionados.
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+IX. Por autorización de programas especiales de protección civil que se presenten para realización de un evento o espectáculo en el municipio se pagarán en UMAs:
+
+De acuerdo con el aforo del evento:
+
+De 1 a 1,000 asistentes 40
+
+De 1,001 a 5,000 asistentes 60
+
+De 5,001 a 10,000 asistentes 80
+
+De 10,001 en adelante 90
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+X. Por Visto Bueno o constancia de no afectación, para micro, pequeña y mediana empresa, así como para construcciones particulares por riesgo y vulnerabilidad del lugar donde se habita o exista un local comercial se pagarán 2 UMAs.
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XI. Por Servicios de supervisión y apoyo en el desarrollo de espectáculos en el municipio se pagarán en UMAs:
+
+Por cada elemento operativo 4
+
+Por cada supervisor 6
+
+Por vehículo de emergencia requerido 7
 
 ## TÍTULO TERCERO. DE LAS CONTRIBUCIONES POR MEJORAS
 
@@ -3157,9 +3533,13 @@ Los productos a que se refieren las fracciones I a IV del artículo anterior se 
 
 Los bienes embargados por las autoridades municipales que se depositen en almacenes o locales pertenecientes al Municipio, cuando no se retiren después de cinco días siguientes a la fecha en que queden a disposición del adquirente o del deudor contra quien se hubiese seguido el procedimiento económico-coactivo, así como los bienes depositados por cualquier otra causa en los mismos locales, causarán por concepto de almacenaje, por períodos mensuales vencidos, las cuotas siguientes:
 
-I. Por metro cuadrado o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día, 0.02 salarios mínimos; y
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
-II. Los semovientes depositados en predios propiedad del Municipio, diariamente por cabeza, 0.4 salarios mínimos.
+I. Por metro cuadrado o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día, 0.024 UMAs y
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+II. Los semovientes depositados en predios propiedad del Municipio, diariamente por cabeza, 0.5 UMAs.
 
 Además de las cuotas que señala esta fracción, se cobrará el importe de la manutención y el gasto del cuidado de los animales depositados.
 
@@ -4970,3 +5350,11 @@ G.O. 15 DE OCTUBRE DE 2019.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, Órgano del Gobierno del Estado de Veracruz de Ignacio de la llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 309 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS CÓDIGOS CIVIL Y DE PROCEDIMIENTOS ADMINISTRATIVOS Y DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente decreto entrará en vigor el día primero de enero del año 2020, previa publicación en la Gaceta Oficial Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
