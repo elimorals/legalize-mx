@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-del-servicio-profesional-en-derechos-humanos-y-del-992
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-03-03"
-last_updated: "2014-03-03"
+last_updated: "2019-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99258&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,13 @@ issue_date: "2014-02-18"
 ---
 # ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS Y DEL PERSONAL ADMINISTRATIVO DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
+NOTA 1: INFORMACIÓN OBTENIDA EN EL ENLACE ELECTRÓNICO: https://directorio.cdhdf.org.mx/pdf/recos/Estatuto_del_Servicio_Profesional_DH2020.pdf
+
+NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 30 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
+
 ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS Y DEL PERSONAL ADMINISTRATIVO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2019 (ABROGADO)
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el lunes 3 de marzo de 2014.
 
@@ -1987,3 +1991,59 @@ Los procedimientos y procesos generales que se hayan iniciado conforme a las dis
 ###### ARTÍCULO CUARTO.
 
 La adecuación y creación de la normativa interna que derive de la entrada en vigor del presente Estatuto, deberá presentarse para su aprobación ante el Consejo de la Comisión, dentro del término de ciento ochenta días naturales posteriores a la publicación en la Gaceta Oficial del Distrito Federal.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 30 DE DICIEMBRE DE 2019.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL AVISO QUE SE RELACIONA CON LA REFORMA DEL PRESENTE ORDENAMIENTO.]</small>
+
+AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DEL SITIO OFICIAL DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO, DONDE PODRÁ SER CONSULTADO EL ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO; MISMO QUE FUE APROBADO POR EL CONSEJO DE LA MISMA MEDIANTE ACUERDO NUMERO 19/2019, DE FECHA 21 DE NOVIEMBRE DE 2019.
+
+ÚNICO. El Estatuto del Servicio Profesional en Derechos Humanos de la Comisión de Derechos Humanos de la Ciudad de México, entra en vigor el día 01 de enero de 2020 y estará disponible para su consulta y descarga en el siguiente enlace electrónico: https://directorio.cdhdf.org.mx/pdf/recos/Estatuto_del_Servicio_Profesional_DH2020.pdf
+
+## TRANSITORIOS
+
+PRIMERO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO. Se designa como responsable de la funcionalidad y permanencia del enlace electrónico en el sitio oficial de la Comisión de Derechos Humanos de la Ciudad de México al Mtro. Silvano Joel Cantú Martínez, Director del Servicio Profesional en Derechos Humanos de la Comisión de Derechos Humanos de la Ciudad de México, con correo electrónico silvano.cantu@cdhcm.org.mx, y teléfono 5552295600, extensión 1825.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto entrará en vigor el 1 de enero de 2020, abrogando el Estatuto del Servicio Profesional en Derechos Humanos y del Personal Administrativo de la Comisión de Derechos Humanos del Distrito Federal publicado en la Gaceta Oficial del Distrito Federal de fecha 3 de marzo de 2014, así como los Lineamientos para la Realización de Actividades Complementarias de Formación que tiendan al Cumplimiento de los Objetivos de la Comisión de Derechos Humanos del Distrito Federal de 24 de abril de 2003, los Lineamientos del Proceso General de Desarrollo de Carrera de 11 de septiembre de 2014, los Lineamientos del Proceso General de Formación Profesional y Actualización Permanente de 11 de septiembre de 2014.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones normativas internas que contravengan lo dispuesto en el presente Estatuto.
+
+###### ARTÍCULO TERCERO.
+
+La actualización de la Metodología a que se refiere el presente Estatuto, deberá ser emitida dentro del término de ciento ochenta días naturales posteriores a la publicación del Estatuto y entrará en vigor en esa misma fecha.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos que se hayan iniciado conforme a las disposiciones del Estatuto que se abroga se sustanciarán hasta su conclusión, de conformidad con los preceptos de dicho ordenamiento legal.
+
+###### ARTÍCULO QUINTO.
+
+La Evaluación del Desempeño correspondiente al año 2019 se realizará conforme a los criterios, normas y procedimientos establecidos en las disposiciones del Estatuto que se abroga, así como de la Metodología vigente.
+
+###### ARTÍCULO SEXTO.
+
+En atención a lo dispuesto en el artículo 114 de la Ley Orgánica de la Comisión de Derechos Humanos de la Ciudad de México, publicada en la Gaceta Oficial de la Ciudad de México de 12 de julio de 2019, las personas Integrantes del Servicio con nivel de dirección de área continuarán siendo parte del mismo hasta que, en su caso, se separen de él.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Programa de Profesionalización en Derechos Humanos deberá ser emitido dentro del término de ciento ochenta días naturales posteriores a la publicación del Estatuto y entrará en vigor en esa misma fecha.
+
+Las personas Integrantes del Servicio que a la fecha de entrada en vigor del presente Estatuto tengan concluido el Programa de Formación Profesional y Actualización Permanente ingresarán de manera automática a la fase de Actualización Permanente del Programa de Profesionalización y, aquellas que se encuentren en alguna de las fases del derogado Programa, se incorporarán al vigente según corresponda.
+
+###### ARTÍCULO OCTAVO.
+
+Derivado de la armonización normativa interna de la Comisión de Derechos Humanos de la Ciudad de México, el Concurso de Oposición previsto para el ejercicio 2019 se realizará una vez que entre en vigor el presente Estatuto y con base en el nuevo Catálogo General de Cargos y Puestos, durante el año de 2020.
+
+###### ARTÍCULO NOVENO.
+
+Los casos de implementación no contemplados en los presentes artículos transitorios, podrán ser resueltos mediante acuerdo emitido por la persona Titular de la Presidencia de la Comisión.
