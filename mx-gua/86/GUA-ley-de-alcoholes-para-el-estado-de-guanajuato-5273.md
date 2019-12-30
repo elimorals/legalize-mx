@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-alcoholes-para-el-estado-de-guanajuato-5273"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-18"
-last_updated: "2018-09-21"
+last_updated: "2019-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE ALCOHOLES PARA EL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTíCULO SEGUNDO TRANSITORIO DE LA LEY DE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS, PUBLICADA EN EL PERIÓDICO OFICIAL EL 30 DE DICIEMBRE DE 2019; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 1 DE SEPTIEMBRE DE 2020.]</small>
+
 LEY DE ALCOHOLES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de diciembre de 1992.
 
@@ -930,3 +932,47 @@ Artículo Octavo. El Gobernador del Estado expedirá los reglamentos, así como 
 En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
 
 Artículo Noveno. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 166, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE EXPIDE LA LEY DE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS”.]
+
+Vigencia
+
+Artículo Primero. La presente Ley entrará en vigor el 1 de septiembre de 2020, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación
+
+Artículo Segundo. Se abroga la Ley de Alcoholes para el Estado de Guanajuato, contenida en el Decreto Legislativo número 123, expedido por la Quincuagésima Quinta Legislatura del Congreso del Estado, publicada en el Periódico Oficial del Gobierno del Estado el 18 de diciembre de 1992.
+
+Emisión de disposiciones de carácter general
+
+Artículo Tercero. El SATEG a través de su Director General, a efecto de dar cumplimiento al presente Decretó deberá emitir las disposiciones de carácter general dentro de los noventa días naturales siguientes a la entrada en vigor del mismo.
+
+Plazo para la emisión de reglamentos municipales y ultractividad
+
+Artículo Cuarto. Los ayuntamientos deberán emitir los reglamentos municipales a los que hace referencia el artículo 47, dentro de los noventa días naturales posteriores a la entrada en vigor de la presente Ley.
+
+Una vez emitidos, quedarán sin efectos los reglamentos municipales, acuerdos y disposiciones de carácter general, expedidos con fundamento en la Ley que se abroga en lo que no contravengan al presente Decreto, mismos que continuarán vigentes hasta en tanto se emitan nuevas disposiciones que expresa o tácitamente las deroguen.
+
+Vigencia de los actos emanados con la Ley abrogada
+
+Artículo Quinto. Las licencias, permisos o autorizaciones, otorgadas conforme a la Ley que se abroga, conservarán su validez, debiendo regirse en lo sucesivo y sin perjuicio de sus derechos adquiridos, por las disposiciones de la presente Ley y su reglamentación.
+
+En caso de que los titulares de las licencias, permisos o autorizaciones aludidas en el párrafo que antecede, soliciten cualquier modificación sobre éstas, se llevará a cabo el procedimiento que establece esta Ley y su reglamentación, siempre y cuando el Servicio de Administración Tributaria del Estado de Guanajuato cuente con la infraestructura, los recursos humanos y materiales necesarios para ello.
+
+Trámites y procedimientos pendientes de resolución
+
+Artículo Sexto. Los trámites y procedimientos pendientes de resolución con anterioridad a la vigencia de esta Ley se resolverán conforme a las disposiciones de la Ley que se abroga.
+
+Canje de licencias
+
+Artículo Séptimo. Los titulares de las licencias otorgadas durante la vigencia de la Ley que se abroga deberán realizar el canje respectivo durante los siete meses posteriores al inicio de la vigencia del presente ordenamiento, de conformidad con las disposiciones de carácter general que para tal efecto emita el Servicio de Administración Tributaria del Estado de Guanajuato.
+
+En caso de que los titulares no realicen el canje señalado en el párrafo anterior, las licencias quedarán canceladas. De ser así, se deberá llevar a cabo el trámite para el otorgamiento de una nueva licencia.
+
+El canje al que hace referencia el presente artículo será gratuito.
+
+Suscripción de instrumentos jurídicos
+
+Artículo Octavo. Los instrumentos jurídicos a los que hace referencia el artículo 46 de la presente Ley podrán ser suscritos dentro de los noventa días posteriores a la entrada en vigor de la presente Ley, dejando sin efectos los que se hayan suscrito con fundamento en la Ley que se abroga.
