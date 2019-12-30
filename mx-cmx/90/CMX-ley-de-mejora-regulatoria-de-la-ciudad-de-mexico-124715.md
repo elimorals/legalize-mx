@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-mejora-regulatoria-de-la-ciudad-de-mexico-124715"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-07"
-last_updated: "2017-12-07"
+last_updated: "2019-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124715&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-10-31"
 ---
 # LEY DE MEJORA REGULATORIA DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL DÉCIMO PRIMERO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA PARA LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 30 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MEJORA REGULATORIA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el jueves 7 de diciembre de 2017.
 
@@ -779,3 +781,33 @@ SEXTO. El Registro Electrónico de Trámites y Servicios de la Ciudad de México
 Recinto de la Asamblea Legislativa del Distrito Federal, al día uno del mes de agosto del año dos mil diecisiete. - POR LA MESA DIRECTIVA.- DIP. MAURICIO ALONSO TOLEDO GUTIÉRREZ, PRESIDENTE.- DIP. REBECA PERALTA LEÓN, SECRETARIA.- DIP. LUCIANO JIMENO HUANOSTA, SECRETARIO.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los treinta y un días del mes de octubre del año dos mil diecisiete.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, SALOMÓN CHERTORIVSKI WOLDENBERG.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY DE MEJORA REGULATORIA DE LA CIUDAD DE MÉXICO PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL 7 DE DICIEMBRE DE 2017 Y SE EXPIDE LA LEY DE MEJORA REGULATORIA PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a la Ley de Mejora Regulatoria de la Ciudad de México, publicada en la Gaceta Oficial de la Ciudad de México el 7 de diciembre de 2017 y demás normatividad y disposiciones aplicables anteriores a la expedición del presente Decreto.
+
+TERCERO. La persona titular de la Jefatura de Gobierno emitirá el Reglamento de la presente Ley en ejercicio de las atribuciones que le otorga el artículo 32, Apartado C, Numeral 1, inciso a) de la Constitución Política de la Ciudad de México en un plazo máximo de 210 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. La Unidad tendrá un plazo de 210 días naturales contados a partir de la entrada en vigor de la presente Ley para elaborar los lineamientos para la implementación de Análisis de Impacto Regulatorio a fin de que sean aprobados por el Consejo de Mejora Regulatoria de la Ciudad de México.
+
+QUINTO. La herramienta tecnológica del Catálogo de Regulaciones, Trámites y Servicios iniciará su funcionamiento dentro de un plazo que no exceda los dos años contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. La Unidad tendrá un plazo de 210 días naturales contados a partir de la entrada en vigor de la presente Ley para elaborar los lineamientos de operación del Expediente Electrónico.
+
+SÉPTIMO. La Unidad tendrá un plazo de 210 días naturales contados a partir de la entrada en vigor de la presente Ley para elaborar los lineamientos de la información que contendrá el Registro de Visitas Domiciliarias de la Ciudad de México.
+
+OCTAVO. La Unidad tendrá un plazo de 210 días naturales contados a partir de la entrada en vigor de la presente Ley para la implementación del Registro de Regulaciones, Trámites y Servicios.
+
+NOVENO. El Consejo deberá instalarse formalmente dentro un plazo de 90 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+DÉCIMO. Los Sujetos Obligados tendrán un plazo de 24 meses, contados a partir de la entrada en vigor de la presente Ley para que digitalicen la totalidad de los Trámites y Servicios que generen en el cumplimiento de sus atribuciones.
+
+DÉCIMO PRIMERO. Se abroga la Ley de Mejora Regulatoria de la Ciudad de México, publicada en la Gaceta Oficial de la Ciudad de México el 7 de diciembre de 2017 y se derogan todas aquellas disposiciones que contravengan lo establecido en el presente Decreto.
+
+DÉCIMO SEGUNDO. Una vez que entre en funciones la Fiscalía General de Justicia, al ser organismo público autónomo, será Sujeto Obligado sólo para efectos de lo previsto en el Capítulo Segundo del Título Tercero de esta Ley.
