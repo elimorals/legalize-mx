@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-del-consejo-rector-de-pachuca-ciudad-del-1209
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-04-03"
-last_updated: "2017-04-03"
+last_updated: "2019-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO RECTOR DE PACHUCA CIUDAD DEL CONOCIMIENTO Y LA CULTURA DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO QUE CONTIENE EL ESTATUTO ORGÁNICO DEL CONSEJO RECTOR DE PACHUCA CIUDAD DEL CONOCIMIENTO Y LA CULTURA, PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL CONSEJO RECTOR DE PACHUCA CIUDAD DEL CONOCIMIENTO Y LA CULTURA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2019 (ABROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 3 de abril de 2017.
 
@@ -832,3 +834,23 @@ Ing. Oscar Jorge Súchil Villegas
 Coordinador General del Consejo Rector de Pachuca Ciudad del Conocimiento y la Cultura
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE CONTIENE EL ESTATUTO ORGÁNICO DEL CONSEJO RECTOR DE PACHUCA CIUDAD DEL CONOCIMIENTO Y LA CULTURA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Acuerdo publicado en el Periódico Oficial del Estado el 3 de abril de 2017.
+
+TERCERO. Los aspectos no previstos en este Acuerdo, serán resueltos por la persona Titular de la Coordinación General.
+
+CUARTO. Los acuerdos, circulares y demás disposiciones emitidas por la Coordinación General antes y durante la autorización del Estatuto que se abroga, tendrán plena validez, en tanto lo dispuesto en ellos no se oponga a lo establecido en el presente Acuerdo.
+
+QUINTO. A partir de la entrada en vigor de este Acuerdo, cada una de las unidades que integran el Organismo deberá emitir sus manuales de organización y procedimientos en un plazo de 180 días hábiles.
+
+SEXTO. En tanto no se expidan los instrumentos jurídicos que regulen internamente las actividades de las unidades del Organismo, se continuarán aplicando los vigentes al momento de entrar en vigor el presente Acuerdo.
+
+SÉPTIMO. El presente Acuerdo deberá inscribirse en el Registro Público en términos de lo que establece la Ley de Entidades Paraestatales y su Reglamento.
