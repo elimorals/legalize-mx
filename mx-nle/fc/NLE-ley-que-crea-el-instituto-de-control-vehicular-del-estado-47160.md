@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-control-vehicular-del-estado-47160
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2018-12-31"
+last_updated: "2019-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de diciembre de 2005.
 
@@ -189,7 +189,7 @@ V. Dar cumplimiento a los acuerdos del Pleno del Observatorio Ciudadano de Segur
 
 > <small>(ADICIONADO, P.O. 12 DE ENERO DE 2018)</small>
 
-Articulo 3 Bis IV.- El Secretario Técnico del Observatorio Ciudadano de Seguridad Vial tendrá las siguientes facultades y atribuciones:
+Artículo 3 Bis IV.- El Secretario Técnico del Observatorio Ciudadano de Seguridad Vial tendrá las siguientes facultades y atribuciones:
 
 I. Elaborar el Proyecto del Reglamento Interior;
 
@@ -705,6 +705,12 @@ Artículo Décimo Noveno. Durante el ejercicio fiscal 2019, tratándose de vehí
 
 En cualquier tiempo en que el Instituto advierta que el registro se asentó en contravención de disposiciones legales o que un tercero acredite la legítima propiedad del vehículo, el Instituto lo revocará quedando sin efectos los medios de identificación vehicular, y certificaciones que haya emitido respecto de aquél, dando vista a la Fiscalía General de Justicia del Estado de Nuevo León para los efectos que procedan.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Artículo Vigésimo.- Durante el ejercicio fiscal 2020, tratándose de vehículos cuyo modelo sea 2005 o años anteriores, en los que no se cuente con documento idóneo que legalmente acredite la adquisición del mismo, conforme lo que disponen los artículos 14, 22 y 23, fracción VIII, de esta Ley, el interesado podrá solicitar su registro presentando algún otro medio de prueba con el cual justifique la legal posesión, cumpliendo con los requisitos que al efecto establezca el propio Instituto, siempre que el vehículo no cuente con reporte de robo y se acredite la importación legal en caso de vehículos extranjeros, debiendo realizar el pago de los derechos correspondientes.
+
+En cualquier tiempo en que el Instituto advierta que el registro se asentó en contravención de disposiciones legales o que un tercero acredite la legítima propiedad del vehículo, el Instituto lo revocará quedando sin efectos los medios de identificación vehicular, y certificaciones que haya emitido respecto de aquél, dando vista a la Fiscalía General de Justicia del Estado de Nuevo León para los efectos que procedan.
+
 Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su capital, a los treinta días del mes de noviembre de 2005. PRESIDENTE: DIP. CÉSAR AGUSTÍN SERNA ESCALERA: DIP. SECRETARIA: ALICIA MARGARITA AYALA MEDINA: DIP. SECRETARIO: JULIO REYES RAMÍREZ.- Rúbricas.
@@ -766,3 +772,11 @@ Segundo.- A la entrada en vigor del presente Decreto, se derogan todas las dispo
 Tercero.- La Secretaría de Finanzas y Tesorería General del Estado contará con un plazo de 30 días hábiles a partir de la entrada en vigor del presente Decreto, para emitir las Reglas Generales a que se refieren los artículos 74, primer párrafo y 139, cuarto párrafo, del Código Fiscal del Estado.
 
 Cuarto.- Se prorroga por un año adicional el plazo para emitir las Reglas Generales a que se refiere el artículo Tercero Transitorio del Decreto Número 330, publicado en el Periódico Oficial del Estado el 29 de diciembre de 2017.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 215. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN, TAMBIÉN REFORMA EL CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN; Y SE ADICIONA A LA LEY QUE CREA AL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN, CON UN ARTÍCULO VIGÉSIMO TRANSITORIO”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor el 1° de enero del año 2020.
+
+Artículo Segundo.- A la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
