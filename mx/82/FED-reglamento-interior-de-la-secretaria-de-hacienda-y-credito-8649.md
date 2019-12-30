@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-hacienda-y-credito-8649
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-11"
-last_updated: "2017-09-27"
+last_updated: "2019-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8649&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1996-09-06"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2019.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 11 de septiembre de 1996.
 
@@ -305,6 +305,10 @@ ii) Dirección de Asuntos Jurídicos, y
 
 iii) Dirección de Fideicomisos;
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
+
+d) Dirección General de Proyectos Estratégicos.
+
 XXVIII. Subprocuraduría Fiscal Federal de Amparos:
 
 a) Dirección General de Amparos contra Leyes:
@@ -455,13 +459,11 @@ II. Comisión Nacional Bancaria y de Valores;
 
 III. Comisión Nacional de Seguros y Fianzas;
 
-> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
 
-IV. Comisión Nacional del Sistema de Ahorro para el Retiro;
+IV. Comisión Nacional del Sistema de Ahorro para el Retiro, y
 
-> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
-
-V. Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales, y
+V. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2019)
 
 > <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 2017)</small>
 
@@ -909,9 +911,9 @@ XXXIX. Coordinar el análisis y, en su caso, la elaboración de los anteproyecto
 
 XL. Coordinar la atención de consultas jurídicas que realicen las unidades administrativas de la Secretaría, en los asuntos relacionados con las atribuciones conferidas a la misma en las leyes y disposiciones en materia de hidrocarburos y energía eléctrica, ingresos sobre hidrocarburos, ingresos petroleros, el Fondo Mexicano del Petróleo para la Estabilidad y el Desarrollo y las empresas productivas del Estado;
 
-> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
 
-XLI. Coordinar la revisión jurídica de los proyectos de decretos de declaratorias de zonas económicas especiales, de los convenios de coordinación para su establecimiento, de los programas para su desarrollo, y de los demás instrumentos jurídicos que la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales someta a consideración del Secretario;
+XLI. Coordinar la revisión jurídica de los proyectos de Decretos de Declaratorias de Zonas Económicas Especiales y de los proyectos de programas para su desarrollo, así como suscribir los convenios de coordinación para su establecimiento en términos de la Ley Federal de Zonas Económicas Especiales y su Reglamento;
 
 > <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2017)</small>
 
@@ -993,29 +995,45 @@ LXII. Expedir las constancias de identificación del personal a su cargo y del p
 
 LXIII. Proceder conforme a los criterios, políticas y lineamientos que establezca la Dirección General Adjunta de Evaluación y Control Procedimental de Amparos para la operación y mantenimiento del sistema integral de seguimiento y evaluación de procesos de la Procuraduría Fiscal de la Federación;
 
-> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
 
-LXIV. Autorizar a los titulares de las Subprocuradurías Fiscales Federales y de las Direcciones Generales adscritas a la Procuraduría Fiscal de la Federación, el ejercicio de la atribución a que se refiere el artículo 12, fracción V de este Reglamento, y
+LXIV. Autorizar a los titulares de las Subprocuradurías Fiscales Federales y de las Direcciones Generales adscritas a la Procuraduría Fiscal de la Federación, el ejercicio de la atribución a que se refiere el artículo 12, fracción V de este Reglamento;
 
-LXV. (DEROGADA, D.O.F. 27 DE SEPTIEMBRE DE 2017)
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+LXV. Coordinar la implementación de la política para el establecimiento y desarrollo de Zonas Económicas Especiales;
 
-LXVI. Ejercer las atribuciones contenidas en el artículo 7o. de este Reglamento.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
 
-LXVII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
+LXVI. Ejercer las atribuciones contenidas en el artículo 7o. de este Reglamento;
 
-LXVIII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
 
-LXIX. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
+LXVII. Fungir como Secretario Técnico de la Comisión Intersecretarial de las Zonas Económicas Especiales;
 
-LXX. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
 
-LXXI. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
+LXVIII. Otorgar las concesiones y otros derechos respecto de los bienes del dominio público de la Federación que sean destinados a la Secretaría con el objeto de establecer y desarrollar una Zona Económica Especial;
 
-LXXII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
 
-LXXIII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
+LXIX. Enviar al Congreso de la Unión, el informe sobre la operación de cada Zona Económica Especial y los resultados obtenidos en el desarrollo económico y social del área de influencia, conforme a la Ley Federal de Zonas Económicas Especiales, así como rendir informes al Titular de la Secretaría, respecto de las acciones que realice en relación con las Zonas Económicas Especiales;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
+
+LXX. Emitir acuerdos, lineamientos, dictámenes, instrumentos y mecanismos necesarios en materia de Zonas Económicas Especiales competencia de la Secretaría, de conformidad con las leyes respectivas;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
+
+LXXI. Ejercer las atribuciones que las leyes y reglamentos le confieren a la Secretaría en materia de Zonas Económicas Especiales, con excepción de aquellas conferidas expresamente a otra unidad administrativa de dicha Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
+
+LXXII. Coordinar el apoyo y asesoría a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, así como a las entidades paraestatales sectorizadas a dicha dependencia, en consultas jurídicas, formulación y propuesta de anteproyectos de iniciativas de leyes o decretos; de reglamentos, decretos, acuerdos y demás ordenamientos del Ejecutivo Federal, y de disposiciones de carácter general en las materias competencia de la Secretaría, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
+
+LXXIII. Fungir como enlace en materia jurídica con los órganos administrativos desconcentrados de la Secretaría para la atención de los asuntos relacionados con las disposiciones que los regulan.
 
 LXXIV. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
@@ -6047,9 +6065,9 @@ XVIII. Orientar, de manera conjunta con las demás unidades administrativas comp
 
 XIX. Atender las consultas jurídicas que realicen las unidades administrativas de la Secretaría, en los asuntos relacionados con las atribuciones conferidas a la misma en las leyes y disposiciones en materia de hidrocarburos y energía eléctrica, ingresos sobre hidrocarburos, ingresos petroleros, el Fondo Mexicano del Petróleo para la Estabilidad y el Desarrollo y las empresas productivas del Estado;
 
-> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
 
-XX. Realizar la revisión jurídica de los proyectos de decretos de declaratorias de zonas económicas especiales, de los convenios de coordinación para su establecimiento, de los programas para su desarrollo, y de los demás instrumentos jurídicos que la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales someta a consideración del Secretario;
+XX. Realizar la revisión jurídica de los proyectos de Decretos de Declaratorias de Zonas Económicas Especiales, de los convenios de coordinación para su establecimiento, de los programas para su desarrollo, y de los demás instrumentos jurídicos que someta a consideración del Procurador Fiscal de la Federación;
 
 > <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2017)</small>
 
@@ -6063,11 +6081,49 @@ XXII. Atender las consultas jurídicas que realicen las unidades administrativas
 
 XXIII. Determinar que un proyecto presentado por las dependencias y entidades en términos del artículo 18, fracción IV del Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria no requiere dictamen de impacto presupuestario;
 
-> <small>(ADICIONADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
 
-XXIV. Coordinar el apoyo jurídico en la participación de la Secretaría como integrante del Consejo de Seguridad Nacional, así como en la celebración de convenios y bases, en el manejo de la información competencia de la Secretaría y en la emisión de las normas presupuestarias, en materia de seguridad nacional, y
+XXIV. Coordinar el apoyo jurídico en la participación de la Secretaría como integrante del Consejo de Seguridad Nacional, así como en la celebración de convenios y bases, en el manejo de la información competencia de la Secretaría y en la emisión de las normas presupuestarias, en materia de seguridad nacional;
 
-XXV. Atender los demás asuntos que le encomiende el Procurador Fiscal de la Federación.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 30 DE DICIEMBRE DE 2019)</small>
+
+XXV. Coordinar la elaboración de los proyectos de Decretos de Declaratorias de las Zonas Económicas Especiales;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
+
+XXVI. Proponer los acuerdos mediante los cuales se habilite a los interesados a presentar propuestas para el establecimiento de Zonas Económicas Especiales, así como el acuerdo conjunto con la Comisión Nacional de Mejora Regulatoria y las demás instancias competentes, mediante el cual se establezca la Ventanilla Única para cada Zona Económica Especial;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
+
+XXVII. Proponer los lineamientos que establezcan los requisitos, procedimientos y criterios de evaluación para el otorgamiento de permisos, asignaciones y autorizaciones en las Zonas Económicas Especiales;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
+
+XXVIII. Revisar las propuestas para otorgar concesiones y otros derechos respecto de los bienes del dominio público de la Federación que sean destinados a la Secretaría con el objeto de establecer y desarrollar una Zona Económica Especial;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
+
+XXIX. Coordinar las acciones relativas a la emisión de dictámenes, programas de desarrollo y demás instrumentos que se sometan a su consideración en materia de Zonas Económicas Especiales y, en su caso, para la aprobación de la Comisión Intersecretarial de Zonas Económicas Especiales;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
+
+XXX. Coordinar la elaboración del informe que el Procurador Fiscal de la Federación deba enviar al Congreso de la Unión, sobre la operación de cada Zona Económica Especial y los resultados obtenidos en el desarrollo económico y social del área de influencia, conforme a la Ley Federal de Zonas Económicas Especiales, con la participación que corresponda a otras unidades administrativas de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
+
+XXXI. Apoyar y asesorar jurídicamente a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, así como a las entidades paraestatales sectorizadas a dicha dependencia, en la formulación de los anteproyectos de iniciativas de leyes o decretos; de reglamentos, decretos, acuerdos y demás ordenamientos del Ejecutivo Federal, y de disposiciones de carácter general en las materias competencia de esta Subprocuraduría;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
+
+XXXII. Fungir como enlace con los órganos administrativos desconcentrados de la Secretaría en las materias competencia de esta Subprocuraduría para la atención de los asuntos relacionados con las disposiciones que los regulan;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
+
+XXXIII. Informar a su superior jerárquico de los anteproyectos de iniciativas de leyes o decretos; de reglamentos, decretos, acuerdos y demás ordenamientos del Ejecutivo Federal, y de disposiciones de carácter general en las materias que sean competencia de esta Subprocuraduría, propuestos por las unidades administrativas y órganos administrativos desconcentrados de la Secretaría y las entidades paraestatales sectorizadas a dicha dependencia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 30 DE DICIEMBRE DE 2019)</small>
+
+XXXIV. Atender los demás asuntos que le encomiende el Procurador Fiscal de la Federación.
 
 > <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
@@ -6315,9 +6371,9 @@ XV. Analizar y, en su caso, participar en la elaboración de los anteproyectos d
 
 XVI. Atender las consultas jurídicas que realicen las unidades administrativas de la Secretaría, en los asuntos relacionados con las facultades conferidas a la misma en las leyes y disposiciones en materia de hidrocarburos y energía eléctrica, ingresos sobre hidrocarburos, ingresos petroleros, el Fondo Mexicano del Petróleo para la Estabilidad y el Desarrollo y las empresas productivas del Estado, en el ámbito de competencia a que se refiere este artículo;
 
-> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
 
-XVII. Participar en la revisión jurídica de los proyectos de decretos de declaratorias de zonas económicas especiales y de los demás instrumentos jurídicos que la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales someta a consideración del Secretario, en el ámbito de competencia a que se refiere este artículo, y
+XVII. Participar en la revisión jurídica de los proyectos de decretos de Declaratorias de Zonas Económicas Especiales y de los demás instrumentos jurídicos que se sometan a consideración del Secretario y del Procurador Fiscal de la Federación, en el ámbito de competencia a que se refiere este artículo, y
 
 > <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2017)</small>
 
@@ -6393,9 +6449,9 @@ II. Revisar y opinar el informe sobre el uso de la facultad conferida al Ejecuti
 
 III. Participar en la atención de las consultas jurídicas que realicen las unidades administrativas de la Secretaría, respecto de las disposiciones en materia de hidrocarburos y energía eléctrica, ingresos sobre hidrocarburos, ingresos petroleros, el Fondo Mexicano del Petróleo para la Estabilidad y el Desarrollo y las empresas productivas del Estado, en el ámbito de competencia a que se refiere este artículo, y
 
-> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
 
-IV. Participar en la revisión jurídica de los proyectos de decretos de declaratoria de zonas económicas especiales y de los demás instrumentos jurídicos que la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales someta a consideración del Titular de la Secretaría, en el ámbito de competencia a que se refiere este artículo, y
+IV. Participar en la revisión jurídica de los proyectos de Decretos de Declaratorias de Zonas Económicas Especiales y de los demás instrumentos jurídicos que se sometan a consideración del Secretario y del Procurador Fiscal de la Federación, en el ámbito de competencia a que se refiere este artículo, y
 
 E. Además de las atribuciones contenidas en el apartado B de este artículo, compete a la Dirección de Legislación y Consulta Fiscal "C":
 
@@ -6457,9 +6513,9 @@ XVII. Analizar y, en su caso, elaborar los anteproyectos de instrumentos jurídi
 
 XVIII. Atender las consultas jurídicas que realicen las unidades administrativas de la Secretaría, en los asuntos relacionados con el Fondo Mexicano del Petróleo para la Estabilidad y el Desarrollo y las empresas productivas del Estado, en el ámbito de competencia a que se refiere este artículo;
 
-> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
 
-XIX. Realizar la revisión jurídica de los proyectos de decretos de declaratorias de zonas económicas especiales, de los convenios de coordinación para su establecimiento, de los proyectos de programas para su desarrollo, y demás instrumentos jurídicos, salvo lo relativo a las materias fiscal y aduanera, que la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales someta a consideración del Secretario, y
+XIX. Participar en la revisión jurídica de los proyectos de Decretos de Declaratorias de Zonas Económicas Especiales, de los convenios de coordinación para su establecimiento, de los proyectos de programas para su desarrollo, y demás instrumentos jurídicos, salvo lo relativo a las materias fiscal y aduanera, que se sometan a consideración del Secretario y del Procurador Fiscal de la Federación, en los asuntos que incidan en el ámbito de este artículo, y
 
 > <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2017)</small>
 
@@ -6499,9 +6555,9 @@ X. Coadyuvar en el análisis y, en su caso, elaboración de los anteproyectos de
 
 XI. Resolver las consultas jurídicas que realicen las unidades administrativas de la Secretaría, en los asuntos relacionados con el Fondo Mexicano del Petróleo para la Estabilidad y el Desarrollo y las empresas productivas del Estado, en el ámbito de competencia a que se refiere este artículo;
 
-> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
 
-XII. Coadyuvar en la revisión jurídica de los proyectos de decretos de declaratorias de zonas económicas especiales, de los convenios de coordinación para su establecimiento, de los proyectos de programas para su desarrollo, y demás instrumentos jurídicos, salvo lo relativo a las materias fiscal y aduanera, que la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales someta a consideración del Secretario;
+XII. Participar en la revisión jurídica de los proyectos de Decretos de Declaratorias de Zonas Económicas Especiales, de los convenios de coordinación para su establecimiento, de los proyectos de programas para su desarrollo, y demás instrumentos jurídicos, salvo lo relativo a las materias fiscal y aduanera, que se sometan a consideración del Secretario y del Procurador Fiscal de la Federación;
 
 > <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2017)</small>
 
@@ -6553,9 +6609,9 @@ I. Apoyar en la revisión de los aspectos jurídicos en la formulación del Plan
 
 II. Verificar que los anteproyectos de iniciativas de leyes o decretos, reglamentos, decretos, acuerdos, y demás instrumentos jurídicos que suscriba el Presidente de la República, y de disposiciones de carácter general emitidas por la Secretaría, sean congruentes con el Plan Nacional de Desarrollo y con los programas que deriven de éste;
 
-> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
 
-III. Participar en la revisión jurídica de los proyectos de decretos de declaratorias de zonas económicas especiales, de los convenios de coordinación para su establecimiento, de los proyectos de programas para su desarrollo, y demás instrumentos jurídicos, salvo lo relativo a las materias fiscal y aduanera, que la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales someta a consideración del Secretario;
+III. Participar en la revisión jurídica de los proyectos de Decretos de Declaratorias de Zonas Económicas Especiales, de los convenios de coordinación para su establecimiento, de los proyectos de programas para su desarrollo, y demás instrumentos jurídicos, salvo lo relativo a las materias fiscal y aduanera, que se sometan a consideración del Secretario y del Procurador Fiscal de la Federación;
 
 > <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2017)</small>
 
@@ -6597,9 +6653,61 @@ II. Proponer conforme a la Ley Federal de Presupuesto y Responsabilidad Hacendar
 
 III. Participar en la atención de las consultas jurídicas que realicen las unidades administrativas de la Secretaría, en los asuntos relacionados con el Fondo Mexicano del Petróleo para la Estabilidad y el Desarrollo y las empresas productivas del Estado, salvo aquellas que corresponden a otras unidades administrativas de la Secretaría.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 71-H.
 
-(DEROGADO, D.O.F. 10 DE OCTUBRE DE 2012)
+Compete a la Dirección General de Proyectos Estratégicos:
+
+I. Fungir como enlace de la Procuraduría Fiscal de la Federación con las unidades administrativas y órganos administrativos desconcentrados de la Secretaría y las entidades paraestatales sectorizadas a dicha dependencia, en las materias competencia de la Subprocuraduría Fiscal Federal de Legislación y Consulta;
+
+II. Apoyar a las unidades administrativas de la Procuraduría Fiscal de la Federación, en la coordinación con los órganos administrativos desconcentrados de la Secretaría, para la atención de los asuntos de su competencia;
+
+III. Representar al Subprocurador Fiscal Federal de Legislación y Consulta, en asuntos de coordinación con los órganos administrativos desconcentrados de la Secretaría en el ámbito de su competencia;
+
+IV. Opinar, formular y proponer los anteproyectos de iniciativas de leyes o decretos; de reglamentos, decretos, acuerdos y demás ordenamientos del Ejecutivo Federal, y de disposiciones de carácter general en las materias que sean competencia de la Subprocuraduría Fiscal Federal de Legislación y Consulta;
+
+V. Elaborar los proyectos de Decretos de Declaratorias de las Zonas Económicas Especiales;
+
+VI. Atender las consultas jurídicas que realicen las unidades administrativas de la Secretaría, en los asuntos relacionados con las atribuciones conferidas a la misma en las leyes y disposiciones en materia de Zonas Económicas Especiales;
+
+VII. Coadyuvar en la elaboración de los acuerdos mediante los cuales se habilita a los interesados a presentar propuestas para el establecimiento de Zonas Económicas Especiales;
+
+VIII. Coordinar la elaboración del acuerdo conjunto con la Comisión Nacional de Mejora Regulatoria y las demás instancias competentes, mediante el cual se establezca la Ventanilla Única para cada Zona Económica Especial;
+
+IX. Elaborar los lineamientos que establecen los requisitos, procedimientos y criterios de evaluación para el otorgamiento de permisos, asignaciones y autorizaciones en las Zonas Económicas Especiales;
+
+X. Analizar y, en su caso, elaborar las propuestas para otorgar concesiones y otros derechos respecto de los bienes del dominio público de la Federación que le hubieren sido destinados a la Secretaría con el objeto de establecer y desarrollar una Zona Económica Especial;
+
+XI. Tramitar las autorizaciones para que servidores públicos de la Subprocuraduría Fiscal Federal de Legislación y Consulta realicen actos y suscriban documentos específicos, en relación con las Zonas Económicas Especiales cuando la atribución no esté conferida expresamente a otro servidor público en este Reglamento;
+
+XII. Coadyuvar en la designación de los servidores públicos que deban representar al Procurador Fiscal de la Federación, ante órganos colegiados, comisiones, instancias o grupos de trabajo en los que tenga participación, en materia de Zonas Económicas Especiales;
+
+XIII. Auxiliar jurídicamente al Procurador Fiscal de la Federación como Secretario Técnico de la Comisión Intersecretarial de Zonas Económicas Especiales;
+
+XIV. Coadyuvar en la coordinación e implementación de la política para el establecimiento y desarrollo de Zonas Económicas Especiales;
+
+XV. Proponer para aprobación superior, la instrumentación de mecanismos específicos para apoyar, promover, facilitar la gestión, fomentar y financiar la planeación, establecimiento y operación de Zonas Económicas Especiales;
+
+XVI. Realizar las acciones relativas a la emisión de dictámenes para el establecimiento, modificación y ampliación de las Zonas Económicas Especiales, en coordinación con las unidades competentes de la Secretaría;
+
+XVII. Auxiliar en la formulación de los proyectos de dictámenes, programas de desarrollo y demás instrumentos que se sometan a la consideración y, en su caso, aprobación de la Comisión Intersecretarial de Zonas Económicas Especiales;
+
+XVIII. Elaborar el proyecto de informe que el Procurador Fiscal de la Federación debe enviar al Congreso de la Unión, sobre la operación de cada Zona Económica Especial y los resultados obtenidos en el desarrollo económico y social del área de influencia, conforme a la Ley Federal de Zonas Económicas Especiales, con la participación que corresponda a otras unidades administrativas y órganos administrativos desconcentrados de la Secretaría;
+
+XIX. Elaborar los informes que se deban rendir respecto de las acciones que se realicen en relación con las Zonas Económicas Especiales;
+
+XX. Solicitar la publicación en el Diario Oficial de la Federación de las disposiciones de carácter general, así como de aquellas que deban publicarse en dicho medio de difusión oficial, en las materias a que se refiere este artículo, siempre que dicha atribución no corresponda a otra unidad administrativa de la Secretaría;
+
+XXI. Auxiliar y asesorar jurídicamente a las unidades administrativas de la Secretaría en el ejercicio de sus atribuciones, en las materias a que se refiere este artículo;
+
+XXII. Informar a su superior jerárquico de los anteproyectos de iniciativas de leyes o decretos; de reglamentos, decretos, acuerdos y demás ordenamientos del Ejecutivo Federal, y de disposiciones de carácter general en las materias que sean competencia de la Subprocuraduría Fiscal Federal de Legislación y Consulta propuestos por las unidades administrativas y órganos administrativos desconcentrados de la Secretaría y las entidades paraestatales sectorizadas a dicha dependencia;
+
+XXIII. Realizar estudios, análisis e investigaciones, incluso de derecho comparado, en las materias a que se refiere el presente artículo;
+
+XXIV. Elaborar, revisar, emitir opinión y, en su caso, someter a consideración superior los documentos que deba suscribir el Secretario en las materias a que se refiere el presente artículo, y
+
+XXV. Acordar con el Subprocurador Fiscal Federal de Legislación y Consulta los asuntos de su competencia, así como atender los demás asuntos que este le encomiende.
 
 ###### Artículo 71-I.
 
@@ -8523,11 +8631,11 @@ El Órgano Interno de Control contará en su estructura con un área administrat
 
 Para la más eficaz atención y el eficiente despacho de los asuntos de su competencia, la Secretaría podrá contar con los órganos administrativos desconcentrados que le estarán jerárquicamente subordinados y a los que se les otorgarán autonomía técnica y facultades ejecutivas para resolver sobre materias específicas dentro del ámbito de competencia que se determine en cada caso, de conformidad con las normas que al efecto establezca el instrumento legal respectivo, el cual deberá ser publicado en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 98-C.
 
-El Servicio de Administración Tributaria, la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas, la Comisión Nacional del Sistema de Ahorro para el Retiro, la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales y el Instituto de Administración y Avalúos de Bienes Nacionales tendrán la organización y las atribuciones que les establezcan las disposiciones jurídicas por los que fueron creados.
+El Servicio de Administración Tributaria, la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas, la Comisión Nacional del Sistema de Ahorro para el Retiro y el Instituto de Administración y Avalúos de Bienes Nacionales tendrán la organización y las atribuciones que les establezcan las disposiciones jurídicas por los que fueron creados.
 
 > <small>(DEROGADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
@@ -9040,3 +9148,29 @@ SEGUNDO.- Las referencias que se hagan y las atribuciones que se otorgan en decr
 TERCERO.- Los asuntos en trámite que son atendidos por unidades administrativas que modifican sus atribuciones en virtud de la entrada en vigor del presente Decreto, serán atendidos y resueltos por las unidades administrativas a las que se les da la competencia correspondiente en este instrumento.
 
 CUARTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a la Secretaría de Hacienda y Crédito Público en el ejercicio fiscal que corresponda.
+
+D.O.F. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO.- Se deroga el Artículo Primero del Decreto por el que se crea la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales y se reforman y adicionan diversas disposiciones del Reglamento Interior de la Secretaría de Hacienda y Crédito Público, publicado el 30 de junio de 2016 en el Diario Oficial de la Federación, por lo que se extingue el órgano administrativo desconcentrado Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales.
+
+CUARTO.- Todas las referencias que se hagan al órgano administrativo desconcentrado Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales en disposiciones reglamentarias o administrativas, contratos, convenios o actos administrativos, se entenderán hechas a la Secretaría de Hacienda y Crédito Público, por conducto de la Procuraduría Fiscal de la Federación.
+
+La Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales, por conducto de quien a la entrada en vigor del presente Decreto funja como su Titular, presentará a la Procuraduría Fiscal de la Federación un reporte detallado de los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite o pendientes de resolución, así como de los aspectos relevantes que dicha Procuraduría deba conocer para su atención en relación con las facultades que le son transferidas por virtud del presente instrumento, dentro de los quince días naturales siguientes a su entrada en vigor.
+
+QUINTO.- Los recursos humanos, materiales y financieros de la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales, serán reasignados o, en su caso, donados, al organismo público descentralizado denominado Corredor Interoceánico del Istmo de Tehuantepec, de conformidad con lo que determine la Secretaría de Hacienda y Crédito Público.
+
+Sin perjuicio de lo anterior, la Procuraduría Fiscal de la Federación ejercerá las atribuciones que las disposiciones en materia de zonas económicas especiales le confieren a la Secretaría de Hacienda y Crédito Público, así como al órgano administrativo desconcentrado que se extingue por virtud del presente instrumento, para lo cual le serán transferidos los recursos humanos y financieros necesarios para contar con una Dirección General y hasta tres subdirecciones de área para tales efectos.
+
+La Oficialía Mayor de la Secretaría de Hacienda y Crédito Público será responsable del proceso de reasignación o, en su caso, donación, de los recursos a que se refiere este transitorio, por lo que proveerá y acordará lo necesario para tal efecto, sin perjuicio de las atribuciones que correspondan a otras instancias en términos de las disposiciones jurídicas aplicables. Asimismo, se realizará lo conducente con la unidad de administración y finanzas competente para el ejercicio 2020.
+
+SEXTO.- Las modificaciones a las estructuras orgánicas que se generen como resultado de la entrada en vigor del presente instrumento, deberán realizarse mediante movimientos compensados conforme a lo señalado en el transitorio anterior y las disposiciones jurídicas aplicables, por lo que no se autorizarán ampliaciones adicionales para tales fines en el presente ejercicio fiscal ni subsecuentes.
+
+SÉPTIMO.- La Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales se extingue para los efectos financieros, presupuestales y de cuenta pública el 31 de diciembre de 2019, por lo que deberá dar cumplimiento a todos los procesos administrativos y legales que se deriven de la extinción a más tardar en dicha fecha.
+
+OCTAVO.- Se abroga el Reglamento Interior de la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales, publicado el 29 de septiembre de 2017 en el Diario Oficial de la Federación.
