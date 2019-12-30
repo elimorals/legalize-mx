@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-autoridad-federal-para-el-123561"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-09-29"
-last_updated: "2017-09-29"
+last_updated: "2019-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123561&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-09-28"
 ---
 # REGLAMENTO INTERIOR DE LA AUTORIDAD FEDERAL PARA EL DESARROLLO DE LAS ZONAS ECONOMICAS ESPECIALES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL OCTAVO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO, PUBLICADO EN EL D.O.F. DE 30 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA AUTORIDAD FEDERAL PARA EL DESARROLLO DE LAS ZONAS ECONÓMICAS ESPECIALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2019 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de septiembre de 2017.
 
@@ -890,3 +892,31 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento, se cubrirán con cargo al presupuesto autorizado a la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiocho de septiembre de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Antonio Meade Kuribreña.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO.- Se deroga el Artículo Primero del Decreto por el que se crea la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales y se reforman y adicionan diversas disposiciones del Reglamento Interior de la Secretaría de Hacienda y Crédito Público, publicado el 30 de junio de 2016 en el Diario Oficial de la Federación, por lo que se extingue el órgano administrativo desconcentrado Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales.
+
+CUARTO.- Todas las referencias que se hagan al órgano administrativo desconcentrado Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales en disposiciones reglamentarias o administrativas, contratos, convenios o actos administrativos, se entenderán hechas a la Secretaría de Hacienda y Crédito Público, por conducto de la Procuraduría Fiscal de la Federación.
+
+La Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales, por conducto de quien a la entrada en vigor del presente Decreto funja como su Titular, presentará a la Procuraduría Fiscal de la Federación un reporte detallado de los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite o pendientes de resolución, así como de los aspectos relevantes que dicha Procuraduría deba conocer para su atención en relación con las facultades que le son transferidas por virtud del presente instrumento, dentro de los quince días naturales siguientes a su entrada en vigor.
+
+QUINTO.- Los recursos humanos, materiales y financieros de la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales, serán reasignados o, en su caso, donados, al organismo público descentralizado denominado Corredor Interoceánico del Istmo de Tehuantepec, de conformidad con lo que determine la Secretaría de Hacienda y Crédito Público.
+
+Sin perjuicio de lo anterior, la Procuraduría Fiscal de la Federación ejercerá las atribuciones que las disposiciones en materia de zonas económicas especiales le confieren a la Secretaría de Hacienda y Crédito Público, así como al órgano administrativo desconcentrado que se extingue por virtud del presente instrumento, para lo cual le serán transferidos los recursos humanos y financieros necesarios para contar con una Dirección General y hasta tres subdirecciones de área para tales efectos.
+
+La Oficialía Mayor de la Secretaría de Hacienda y Crédito Público será responsable del proceso de reasignación o, en su caso, donación, de los recursos a que se refiere este transitorio, por lo que proveerá y acordará lo necesario para tal efecto, sin perjuicio de las atribuciones que correspondan a otras instancias en términos de las disposiciones jurídicas aplicables. Asimismo, se realizará lo conducente con la unidad de administración y finanzas competente para el ejercicio 2020.
+
+SEXTO.- Las modificaciones a las estructuras orgánicas que se generen como resultado de la entrada en vigor del presente instrumento, deberán realizarse mediante movimientos compensados conforme a lo señalado en el transitorio anterior y las disposiciones jurídicas aplicables, por lo que no se autorizarán ampliaciones adicionales para tales fines en el presente ejercicio fiscal ni subsecuentes.
+
+SÉPTIMO.- La Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales se extingue para los efectos financieros, presupuestales y de cuenta pública el 31 de diciembre de 2019, por lo que deberá dar cumplimiento a todos los procesos administrativos y legales que se deriven de la extinción a más tardar en dicha fecha.
+
+OCTAVO.- Se abroga el Reglamento Interior de la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales, publicado el 29 de septiembre de 2017 en el Diario Oficial de la Federación.
