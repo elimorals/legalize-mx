@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2019-12-23"
+last_updated: "2019-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2019.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -4511,23 +4511,13 @@ ARTICULO 759
 
 La rectificación o modificación de un acta del estado civil, no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo lo dispuesto en el artículo siguiente y el reconocimiento que voluntariamente haga un padre de su hijo, el cual se sujetará a las prescripciones de este Código.
 
-> <small>[N. DE E. EL CONTENIDO DEL PRESENTE ARTÍCULO ES SIMILAR AL DEL ARTÍCULO 760 BIS.]</small>
-
-> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
 ARTICULO 760
 
-Cuando la rectificación tienda a enmendar yerros o defectos mecanográficos, ortográficos, numéricos y otros meramente accidentales del acta asentada, el que tenga derecho a pedir su corrección podrá acudir ante el oficial Encargado del Registro Civil que corresponda, quien de acuerdo con los lineamientos que al respecto expida la Dirección General del Registro Civil acordará lo procedente. Si el acuerdo es negativo, el interesado deberá demandar la rectificación en juicio.
+Cuando la rectificación tienda a enmendar yerros o defectos mecanográficos, ortográficos, numéricos y otros meramente accidentales del acta asentada, o a precisar los apellidos que conforme a su registro de nacimiento correspondan a alguno de los cónyuges que hubieren comparecido al reconocimiento de un hijo autodenominándose en los términos del artículo 53 de este Código, el que tenga derecho a pedir su corrección podrá acudir ante el Oficial Encargado del Registro Civil que corresponda, quien de acuerdo con los lineamientos que al respecto expida la Dirección General del Registro Civil y oyendo al Ministerio Público, acordará lo procedente. Si el acuerdo es negativo, el interesado deberá demandar la rectificación en juicio.
 
-> <small>[N. DE E. EL CONTENIDO DEL PRESENTE ARTÍCULO ES SIMILAR AL DEL ARTÍCULO 760.]</small>
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1979)</small>
-
-###### ARTICULO 760
-
-BIS
-
-Cuando la rectificación tienda a enmendar yerros o defectos mecanográficos, ortográficos, numéricos y otros meramente accidentales del acta asentada, el que tenga derecho a pedir su corrección podrá acudir ante el Juez del Registro Civil que corresponda, quien oyendo al Ministerio Público acordará lo procedente. Si el acuerdo es negativo, el interesado deberá demandar la rectificación en juicio.
+ARTICULO 760 BIS. (DEROGADO, G.O. 30 DE DICIEMBRE DE 2019)
 
 (REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
 
@@ -16472,3 +16462,9 @@ G.O. 23 DE DICIEMBRE DE 2019.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto
+
+G.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 310 QUE REFORMA EL ARTÍCULO 760 Y DEROGA EL ARTÍCULO 760 BIS AMBOS DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
