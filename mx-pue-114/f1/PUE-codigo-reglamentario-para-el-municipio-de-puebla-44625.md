@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2019-11-07"
+last_updated: "2019-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -3823,6 +3823,10 @@ XXXI. Peatón: Persona que transita en zonas públicas o privadas con acceso al 
 
 XXXII. Persona con discapacidad: Es aquella que tenga deficiencias físicas, mentales, intelectuales o sensoriales a largo plazo que al interactuar con diversas barreras puedan impedir su participación en la sociedad en igualdad de condiciones con los demás;
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XXXII. Bis. Programa vial 1 x 1: Programa vial encaminado a mejorar la fluidez vehicular y evitar accidentes, optimizando tiempos, al ceder el paso uno por uno a los vehículos, con las excepciones respectivas;
+
 XXXIII. Red Urbana de Transporte Articulado (RUTA): Es aquél servicio que se presta a través de corredores de transporte público de pasajeros, el cual opera de manera exclusiva en una vialidad con carriles reservados para el transporte público total o parcialmente confinados. El sistema comprenderá la troncal correspondiente y las rutas alimentadoras del mismo;
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
@@ -3842,6 +3846,10 @@ XXXVII. SEMOVI: Secretaría de Movilidad del Honorable Ayuntamiento del Municipi
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
 XXXVIII. Señalética: Signo o demarcación colocado por la autoridad competente con el objeto de regular, advertir o encauzar la movilidad;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XXXVIII. Bis. Servicio(s) complementario(s) de Micromovilidad: Es el transporte en equipo especial móvil o vehículos no motorizados que usualmente resuelve el primer y último tramo de los trayectos diarios de las y los usuarios mediante la administración y operación de aplicaciones y plataformas informáticas,
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
@@ -3933,7 +3941,9 @@ La Administración Pública Municipal facilitará las condiciones para que las p
 
 I. Peatones, en especial personas con discapacidad y personas de movilidad reducida;
 
-II. Ciclistas;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+II. Ciclistas o usuarios del servicio de micromovilidad;
 
 III. Usuarios del servicio de transporte público;
 
@@ -3993,7 +4003,9 @@ X. En las calles de prioridad peatonal, donde podrán circular en todo lo ancho 
 
 XI. Los estudiantes gozarán de derecho de preferencia de paso en todas las intersecciones y zonas escolares señaladas al efecto;
 
-XII. En vuelta de los vehículos a la derecha o a la izquierda con circulación continua o con señalamiento manual o electrónico; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XII. En vuelta de los vehículos a la derecha o a la izquierda con cualquier tipo de dispositivo de control de tránsito; y
 
 XIII. Para salvaguardar el derecho de preferencia de los peatones establecido en las fracciones anteriores, los conductores de vehículos tienen prohibido rebasar en luz roja, las líneas que protegen las zonas de peatones, o el alineamiento de los edificios, o intersecciones donde no exista señalamiento, semáforo peatonal, líneas de zona peatonal, o Agente.
 
@@ -4111,27 +4123,35 @@ Los menores de edad, las personas con discapacidad, adultos mayores y las mujere
 
 #### SECCIÓN IV. CICLISTAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 262.
 
-Los ciclistas tienen derecho de preferencia sobre el tránsito vehicular siempre y cuando:
+Los ciclistas y los usuarios del servicio de micromovilidad tienen derecho de preferencia sobre el tránsito vehicular siempre y cuando:
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
 
 I. Habiéndoles correspondido el paso de acuerdo con el ciclo del semáforo no alcancen a cruzar la vía;
 
-II. Los vehículos vayan a dar vuelta a la derecha para entrar a otra vía y haya ciclistas cruzando esta, siempre y cuando el ciclista observe las disposiciones de conducción y circulación de vehículos que establece el presente Capítulo;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+II. Los vehículos vayan a dar vuelta a la derecha para entrar a otra vía y haya ciclistas o usuarios de los servicios de complementarios de micromovilidad cruzando esta, siempre y cuando estos observen las disposiciones de conducción y circulación de vehículos que establece el presente Capítulo;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
 
 III. Los vehículos deban circular o cruzar una Ciclovía y en esta haya ciclistas circulando; y
 
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
+
 IV. Circulen sobre un carril de acuerdo a la presente Sección.
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 263.
 
-Son obligaciones de los ciclistas, las siguientes:
+Son obligaciones de los ciclistas y usuarios del servicio de micromovilidad, las siguientes:
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
 
 I. Dar preferencia al peatón en todos los casos;
 
@@ -4139,39 +4159,73 @@ I. Dar preferencia al peatón en todos los casos;
 
 II. Respetar las señales de tránsito, las indicaciones de los Agentes y los Dispositivos de Control de Tránsito;
 
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
+
 III. Transitar en el sentido de la circulación vehicular;
 
-IV. Llevar a bordo sólo al número de personas para el que exista asiento disponible;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-V. Utilizar el carril de extrema derecha de circulación, no deberá circular entre carriles, excepto cuando el ciclista se encuentre con tránsito detenido y busque colocarse en lugar visible para reiniciar la marcha;
+IV. Llevar a bordo sólo al número de personas para el que esté diseñada la bicicleta o el servicio complementario de micromovilidad;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+V. Utilizar preferentemente el carril de extrema derecha de circulación, no deberá circular entre carriles, a excepción del ciclista cuando se encuentre con tránsito detenido y busque colocarse en lugar visible para reiniciar la marcha;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
 
 VI. Rebasar sólo por el carril izquierdo;
 
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
+
 VII. Cerciorarse que la bicicleta cumpla con las características de vehículos no motorizados;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
 
 VIII. Circular preferentemente, por las vías destinadas para ello; no podrá circular sobre las banquetas y áreas reservadas al uso exclusivo de peatones;
 
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
+
 IX. Compartir de manera responsable con los vehículos y el transporte público la circulación en carriles de la extrema derecha;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
 
 X. Usar las señales apropiadas para dar vuelta a la izquierda o a la derecha y para indicar la dirección de su giro o cambio de carril;
 
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
+
 XI. Circular sin mascotas excepto si las transportan en canastillas debidamente aseguradas;
 
-XII. Dentro del Centro Histórico, en las calles donde se cuenta con Ciclovía, Ciclocarril o Carril compartido ciclista, los ciclistas deberán circular en ella, y deberán avisar de su presencia mediante su voz o el timbre de su bicicleta a otros usuarios, encontrándose obligados a disminuir su velocidad;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XII. Dentro del Centro Histórico, en las calles donde se cuenta con Ciclovía, Ciclocarril o Carril compartido ciclista, los ciclistas y usuarios del servicio complementario de micromovilidad deberán circular sobre esta, en el sentido que indica el dispositivo de control de tránsito, y deberán avisar de su presencia mediante su voz o el timbre de su bicicleta o vehículo del servicio complementario de micromovilidad a otros usuarios, encontrándose obligados a disminuir su velocidad;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
 
 XIII. En caso de falla mecánica, efectuarán las reparaciones preferentemente fuera de la superficie de rodamiento de las Ciclovías, Ciclocarril o Carril compartido ciclista;
 
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
+
 XIV. Respetar los carriles confinados para el transporte público de pasajeros (RUTA);
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
 
 XV. Mantener ambas manos sobre el manubrio, y un debido control del vehículo o su necesaria estabilidad, en caso de transportar carga, ésta deberá ser por medio de canastilla o porta bultos;
 
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
+
 XVI. No conducir bajo los efectos del alcohol, enervantes, estupefacientes, psicoactivos o cualquier otro que produzca efectos similares;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
 
 XVII. No sujetarse a otros vehículos en movimiento; y
 
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
+
 XVIII. No hacer uso de audífonos, teléfonos celulares u otros dispositivos electrónicos al cruzar calles, avenidas, Ciclovías, Ciclocarril o cualquier otra vía de circulación.
 
-Los ciclistas que no cumplan con las obligaciones de este Capítulo, serán amonestados verbalmente por los Agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Los ciclistas o usuarios del servicio complementario de micromovilidad que no cumplan con las obligaciones de este Capítulo, serán amonestados verbalmente por los Agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -4371,7 +4425,9 @@ X. Grúas;
 
 XI. Tractocamiones;
 
-XII. Equipo Especial Móvil, en el que quedan comprendidos todos los vehículos no especificados en la enumeración anterior; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XII. Equipo Especial Móvil y/o modificados, en el que quedan comprendidos todos los vehículos no especificados en la enumeración anterior; como lo son de manera enunciativa mas no limitativa, las bicicletas eléctricas, monopatines o scooters; que en su caso sean parte del servicio complementario de micromovilidad; y
 
 XIII. RUTA.
 
@@ -4391,7 +4447,9 @@ b) Estar provistos de algún aparato que sirva para emitir sonidos claros y perc
 
 c) Contar con ruedas enllantadas; en ningún caso de madera, metal u otros materiales que puedan dañar la Vía Pública;
 
-d) Estar provistos de velocímetro en perfecto estado de funcionamiento y con iluminación durante la noche;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+d) Estar provistos de velocímetro en perfecto estado de funcionamiento y con iluminación durante la noche, a excepción de los vehículos pertenecientes al sistema complementario de micromovilidad, los cuales contarán con los requerimientos emitidos por la autoridad competente.
 
 e) Tener fanales delanteros de luz blanca fija, con dispositivos para disminuir la intensidad de luz en los casos que así lo exija la circulación; luces intermitentes en la parte posterior y delantera; en la parte posterior luz roja que accione y se intensifique al aplicar los frenos y luz blanca que accione al circular de reversa y una luz que ilumine la placa de circulación posterior después del atardecer;
 
@@ -4419,6 +4477,10 @@ p) Las motobicicletas, motonetas y motocicletas, por su naturaleza, quedan excep
 
 Transportar pasajero para el que no exista asiento disponible, solo pueden transportar carga, bultos u objetos en canastilla o porta bultos, cuando con ello no se impida la visibilidad o entorpezca los movimientos del conductor;
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+q) Los vehículos del servicio complementario de micromovilidad, así como scooters o monopatines eléctricos, por su naturaleza, quedan exceptuadas de lo ordenado en los incisos j), k), l), m), n), y o) de esta fracción, sin embargo, tienen prohibido transportar más de un pasajero, así como carga, bultos, remolques u objetos que impidan la visibilidad.
+
 II. Camionetas, camiones, trailers, autobuses, remolques, grúas y tractocamiones, además de lo previsto en la fracción anterior, deberán:
 
 a) Estar provistos de escapes que reúnan las condiciones señaladas por las normas aplicables;
@@ -4440,6 +4502,10 @@ e) Además del equipo de emergencia exigido por el último inciso de la fracció
 Para que un vehículo motorizado pueda transitar en el Municipio, es necesario que con anticipación sea registrado en términos de las disposiciones federales y estatales aplicables, esté provisto de placas de circulación, engomado alfa numérico y tarjeta de circulación o el permiso de circulación vigente, además de que cumpla con los demás requisitos que, en su caso, establezcan de manera especial la legislación y demás disposiciones aplicables en la materia. La baja, cancelación o sustitución de la inscripción antes referida, así como la responsabilidad que surja de su omisión, se regirán por las mismas disposiciones.
 
 Para el caso de los vehículos motorizados que porten placas de circulación del Estado de Puebla, éstas deberán estar vigentes.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Tratándose de vehículos pertenecientes al sistema complementario de micromovilidad, deberán contar con anticipación con registros y/o permisos en términos de las disposiciones federales y estatales aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -4619,9 +4685,17 @@ IV. Chofer para el Servicio Público de Transporte. Conductores de vehículos de
 
 V. Chofer para el Servicio de Transporte Mercantil. Conductores de vehículos destinados al servicio público de transporte o al servicio mercantil, sin menos cabo (sic) de que pueden conducir cualquier otro tipo de vehículos de uso particular, excepto los referidos en la fracción II de este artículo;
 
-VI. Automovilistas o Motociclistas con Licencia Provisional. Conductores de dieciséis a dieciocho años o que sean mayores de esta última edad y estén aprendiendo a conducir; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-VII. Choferes del Servicio Público de Transporte y del Servicio de Transporte Mercantil, con Licencia Temporal de Entrenamiento. Conductores que estén en proceso de capacitación y adiestramiento para operar vehículos destinados al servicio de transporte.
+VI. Automovilistas o Motociclistas con Licencia Provisional. Conductores de dieciséis a dieciocho años o que sean mayores de esta última edad y estén aprendiendo a conducir;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VII. Choferes del Servicio Público de Transporte y del Servicio de Transporte Mercantil con Licencia Temporal de Entrenamiento. Conductores que estén en proceso de capacitación y adiestramiento para operar vehículos destinados al servicio público; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VIII. Usuarios de equipo especial móvil.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -4757,6 +4831,10 @@ XXII. Obstruir terminales, paraderos y terminales de transferencia;
 
 XXIII. No respetar las señales del semáforo de RUTA;
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XXIII. Bis. Dar vuelta continua a la derecha, excepto cuando exista dispositivo de control de tránsito que lo permita;
+
 XXIV. Transitar en Ciclovía y Ciclocarril; y
 
 XXV. Las demás que se deriven del presente Capítulo.
@@ -4831,6 +4909,10 @@ V. Para el transporte de explosivos en el Municipio, es obligatorio contar previ
 
 VI. Los vehículos que transporten materias inflamables o explosivas deben usar una bandera roja en la parte posterior del vehículo y en forma ostensible se fijarán rótulos en las posteriores y laterales que contengan la inscripción "PELIGRO, EXPLOSIVOS" o "PELIGRO, INFLAMABLE".
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Para el abastecimiento carga y distribución de mercancías, materiales y sustancias inflamables, explosivas, corrosivas, radioactivas, biológicas, toxicas o peligrosas, además de las disposiciones previstas en los artículos 298 y 299 del presente Capítulo, deberán contar con los elementos de señalización respectivos, como conos y señalamientos verticales portables, que permitan delimitar una zona de por lo menos 4 metros de anticipación a la zona de su estacionamiento, con la finalidad de prevenir a los automovilistas que transiten por la vía utilizada.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 2 DE MARZO DE 2015)</small>
@@ -4845,15 +4927,29 @@ DEL TRANSPORTE DE CARGA Y DISTRIBUCIÓN DE MERCANCÍAS
 
 Las maniobras para carga y descarga de bultos, materiales y mercancía en general, se sujetarán a las siguientes disposiciones:
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-I. Tanto en las arterias de tránsito libre, como en las consideradas de circulación restringidas que correspondan a zonas comerciales, oficinas y edificios públicos, se permitirá la circulación de vehículos destinados al servicio de carga y las maniobras de carga y descarga, sólo dentro de las horas que determine la SEMOVI;
+I. Tanto en las arterias de tránsito libre, como en las consideradas de circulación restringidas que correspondan a zonas comerciales, oficinas y edificios públicos, se permitirá la circulación de vehículos destinados al servicio de carga y las maniobras de carga y descarga, sólo dentro de las horas y zonas que determine la SEMOVI;
 
 II. Durante las maniobras de carga y descarga, no deberá impedirse la circulación de peatones ni de vehículos, salvo en caso de riesgo, debiendo usarse el equipo adecuado para que tales maniobras se lleven a cabo en condiciones satisfactorias;
 
-III. Las operaciones de carga y descarga se deben hacer empleando el tiempo mínimo compatible con la clase de vehículos que se manejen, su capacidad y los bienes de que se trate; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+III. Las operaciones de carga y descarga se deben hacer empleando el tiempo mínimo compatible con la clase de vehículos que se manejen, su capacidad y los bienes de que se trate; sin que este tiempo en ningún caso sea mayor al establecido por la autoridad competente;
 
 IV. Los vehículos dedicados al servicio de inhumaciones podrán efectuar a cualquier hora del día y de la noche, maniobras de carga, descarga y trasporte de cajas mortuorias.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+V. Las zonas autorizadas no representan ni son de uso exclusivo para establecimientos o comercios en particular;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VI. Los vehículos particulares o transporte mercantil de personas, a excepción del transporte de turismo, podrán realizar el ascenso o descenso de personas en las zonas designadas para la carga y descarga de mercancías, con una permanencia del tiempo que para tal efecto establezca la autoridad competente, por lo que queda estrictamente prohibido realizar base o estadía en dichas zonas; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VII. El transporte turístico podrá realizar ascensos y descensos de usuarios en las zonas designadas para la carga y descarga de mercancías; sin embargo, la detención no deberá rebasar el tiempo de permanencia autorizado, por lo cual queda estrictamente prohibido realizar base o estadía en dichas zonas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -4923,15 +5019,27 @@ En estos casos los conductores de los vehículos deben circular con todas las pr
 
 Los conductores están obligados a respetar los límites de velocidad establecidos para cada vía de circulación mediante los señalamientos respectivos, siendo aplicables además las siguientes disposiciones:
 
-I. En Vías Primarias, bulevares, avenidas con camellón o sus similares la velocidad máxima será de setenta kilómetros por hora;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-II. En avenidas sin camellón y avenidas de dos carriles de circulación con camellón o sus similares la velocidad máxima será de cincuenta kilómetros por hora en Vías Secundarias;
+I. En Vías Primarias, bulevares, avenidas con camellón o sus similares la velocidad máxima será de cincuenta kilómetros por hora;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+II. En Vías Secundarias, avenidas sin camellón y avenidas de dos carriles de circulación con camellón o sus similares la velocidad máxima será de treinta kilómetros por hora;
 
 III. En las vías de circulación determinadas como Zona 30 la velocidad máxima será de treinta kilómetros;
 
-IV. En caso de que un vehículo sea conducido a una velocidad debajo de la mínima establecida, deberá circular siempre por su extrema derecha; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-V. En las zonas de velocidad controlada, así como las curvas, bocacalles y cruceros, queda prohibido adelantar a otro vehículo que marche a la velocidad máxima permitida en esos lugares.
+IV. En caso de que un vehículo sea conducido a una velocidad debajo de la mínima establecida, deberá circular siempre por su extrema derecha;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+V. En las zonas de velocidad controlada, así como las curvas, bocacalles y cruceros, quedan (sic) prohibido adelantar a otro vehículo que marche a la velocidad máxima permitida en esos lugares; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VI. En las zonas permitidas para el tránsito de vehículos del sistema complementario de micromovilidad, estos deberán circular máximo a la velocidad permitida por la autoridad competente, sin que en ningún caso supere lo establecido en este artículo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -4949,11 +5057,9 @@ Solo pueden circular por carriles exclusivos del Corredor de Transporte Público
 
 Para dar vuelta en una intersección, los conductores lo harán con precaución, en la siguiente forma:
 
-I. Vuelta a la derecha:
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-a) Tanto el movimiento para colocarse en posición como la propia maniobra, se harán tomando el extremo derecho del carril que esté junto a la orilla de la vía;
-
-b) Será de manera continua, aún cuando el semáforo se encuentre en rojo, excepto en los casos donde existan señales restrictivas o cuando interfiera en corredores de ciclovía; antes de realizar dicha maniobra se hará alto total observando a ambos lados, dando preferencia de paso al peatón, ciclista y vehículos que transiten sobre la calle a la que se incorporen. Al finalizar la vuelta a la derecha, los conductores deberán tomar oportunamente el extremo derecho al que se incorporen.
+I. Vuelta a la derecha: Tanto el movimiento para colocarse en posición como la propia maniobra, se harán tomando el extremo derecho del carril que esté junto a la orilla de la vía. En caso de que exista cualquier tipo de dispositivo de control de tránsito que lo permita, la vuelta será continua, aun cuando el semáforo se encuentre en rojo; para ello, antes de realizar dicha maniobra se hará alto total observando a ambos lados, dando preferencia de paso al peatón, ciclista y vehículos que transiten sobre la calle a la que se incorporen. Al finalizar la vuelta a la derecha, los conductores deberán tomar oportunamente el extremo derecho al que se incorporen.
 
 II. Vuelta a la izquierda:
 
@@ -5087,7 +5193,9 @@ I. En las vías de circulación con ''preferencia de paso", los vehículos que e
 
 II. Para cruzar o entrar en las arterias que están consideradas con ''preferencia de paso", los conductores de vehículos están obligados a detener su marcha, efectuando alto total sin rebasar el límite de las banquetas, e iniciar nuevamente cuando se haya asegurado de que no se acerque ningún vehículo que circule sobre las citadas arterias;
 
-III. En las intersecciones de las vías de circulación que carezcan de señalamiento de ''preferencia de paso", los conductores de vehículos deben hacer alto antes de atravesar la misma, cediendo el paso a los peatones, y en caso de que coincidan dos o más vehículos, deben ceder el paso a los que circulen por la vía de su derecha, prosiguiendo su marcha una vez que no exista peligro para hacerlo;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+III. En las intersecciones de las vías de circulación que carezcan de señalamiento, cuando se aproximen en forma simultánea vehículos provenientes de diferentes vialidades de un solo sentido, que confluyan en la misma, los conductores deberán hacer alto total y proceder a alternarse el paso bajo el criterio de uno por uno, iniciando el que circule por la vía del lado derecho.
 
 IV. En las intersecciones de dos o más arterias con ''preferencia de paso", pero que provisionalmente carezcan de señalamiento, los conductores de vehículos disminuirán su velocidad de acuerdo con las necesidades de circulación en los mismos y hasta un máximo de veinte kilómetros por hora;
 
@@ -5095,9 +5203,17 @@ V. Al escuchar la sirena de los vehículos previstos en la fracción II del art�
 
 VI. Los conductores que vayan a entrar en una vía principal o rápida, deberán tomar el carril de menor velocidad y si no existe tal carril, deberán disminuir su velocidad cediendo el paso a los vehículos que circulen por la vía principal o rápida;
 
-VII. Al salir de la vía principal o rápida, los conductores deben de pasar con suficiente anticipación al carril de su extrema derecha, para tomar desde su inicio el carril de menor velocidad; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-VIII. Queda prohibido cruzar una intersección cuando los semáforos lo permitan pero no exista espacio suficiente para terminar de cruzarla y se bloquee el paso de personas o vehículos.
+VII. Al salir de la vía principal o rápida, los conductores deben pasar con suficiente anticipación al carril de su extrema derecha, para tomar desde su inicio el carril de menor velocidad;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VIII. Queda prohibido cruzar una intersección cuando los semáforos lo permitan, pero no exista espacio suficiente para terminar de cruzarla y se bloquee el pazo (sic) de personas o vehículos; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+IX. Cuando a una intersección se aproximen en forma simultánea vehículos provenientes de diferentes vialidades que confluyan en la misma y exista señalamiento que indique 1X1, los conductores deberán hacer alto total, cediendo el paso a los peatones y enseguida alternarse el paso con los vehículos, bajo el criterio de uno por uno, iniciando el que circule por la vía del lado derecho.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -5261,13 +5377,17 @@ I. La SEMOVI colocará el señalamiento en las vialidades en que se prohíba el 
 
 II. En las calles en donde se permita el estacionamiento de vehículos, los conductores de éstos están obligados a estacionarlos sobre el lado izquierdo de la dirección en que circulen, salvo casos en que el análisis técnico permita efectuar estacionamientos en el lado opuesto;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-III. En todo caso los conductores deben observar estrictamente las disposiciones relativas a estacionamientos en "cordón" o en "batería" que sobre el particular apruebe la SEMOVI; y
+III. En todo caso los conductores deben observar estrictamente las disposiciones relativas a estacionamientos en “cordón” o en “batería” que sobre el particular apruebe la SEMOVI;
 
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-IV. Los vehículos no podrán ser estacionados fuera de los lugares permitidos para ese efecto, ni a menos de diez metros de la esquina en donde no se encuentre marcada la limitación correspondiente; tampoco podrá estacionarse en o cerca de una curva, o la cima donde el vehículo no pueda ser visto por otro a una distancia de seguridad, de acuerdo con la velocidad permitida en la vía.
+IV. Los vehículos no podrán ser estacionados fuera de los lugares permitidos para ese efecto, ni a menos de diez metros de la esquina en donde no se encuentre marcada la limitación correspondiente; tampoco podrá estacionarse en o cerca de una curva, o la cima donde el vehículo no pueda ser visto por otro a una distancia de seguridad, de acuerdo con la velocidad permitida en la vía; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+V. Los vehículos pertenecientes al sistema complementario de micromovilidad solo podrán ser estacionados solo (sic) en los lugares o bahías autorizadas para tal efecto por la SEMOVI.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -5305,7 +5425,9 @@ Se prohíbe el estacionamiento en los siguientes casos:
 
 I. En una intersección;
 
-II. En el cruce o zona de peatones;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+II. En el cruce o zona de peatones aun cuando sean únicamente delimitados por pintura en forma de señalamiento horizontal.
 
 III. Dentro de una distancia de 10 metros de un hidrante o toma de agua para el uso de servicios públicos;
 
@@ -5317,7 +5439,9 @@ VI. En los lugares en donde haya señales oficiales de no estacionarse o exista 
 
 VII. En doble o más filas;
 
-VIII. Sobre la banqueta, camellones, calles o vías angostas, donde el estacionarse impida o dificulte el tránsito, tanto vehicular como peatonal, en cuyo caso se utilizará grúa para trasladarlo al Depósito Oficial, con cargo al infractor;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VIII. Sobre la banqueta, camellones, calles o vías angostas, o en los espacios peatonales que sean delimitados con pintura a manera de señalamiento horizontal, donde el estacionarse impida o dificulte el tránsito, tanto vehicular como peatonal, en cuyo caso se utilizará grúa para trasladarlo al Depósito Oficial o al Depósito Oficial Equiparado con cargo al infractor;
 
 IX. En lugares de uso destinado a paradas, estaciones, terminales, bases o sitios, excepto los vehículos autorizados;
 
@@ -5431,7 +5555,9 @@ XIII. Otorgar a las autoridades administrativas y judiciales, el auxilio que req
 
 XIV. Proporcionar a las personas físicas o jurídicas colectivas que acrediten conforme a derecho su interés jurídico, las constancias que le sean útiles para justificar que han cumplido con las disposiciones de la materia o de cualquier otro documento público de naturaleza similar, así como de la información que requieran de los expedientes de la propia Secretaría, siempre que en este caso realicen su petición por escrito, señalen el expediente de que se trata y los datos que requieran, y que la información no sea de carácter reservado o confidencial;
 
-XV. Establecer horarios específicos para operaciones de carga y descarga, dictar disposiciones especiales sobre estacionamientos, sitios, bases y terminales, e incluso restringir la circulación en las Vías Públicas municipales, cuando la densidad vehicular, la concentración de personas o vehículos, el desarrollo de marchas o desfiles, la realización de mítines, manifestaciones o reuniones públicas, o alguna otra circunstancia similar, impongan la necesidad de recurrir a tales medidas para ordenar el tránsito y garantizar la seguridad de las personas;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XV. Coadyuvar con la SEMOVI a dictar disposiciones especiales sobre estacionamientos, sitios, bases y terminales, e incluso restringir la circulación en las Vías Públicas municipales, cuando la densidad vehicular, la concentración de personas o vehículos, el desarrollo de marchas o desfiles, la realización de mítines, manifestaciones o reuniones públicas, o alguna otra circunstancia similar, impongan la necesidad de recurrir a tales medidas para ordenar el tránsito y garantizar la seguridad de las personas;
 
 XVI. Regular las señales realizadas por Agentes para dirigir el tránsito;
 
@@ -5717,13 +5843,11 @@ Los encargados de ejecutar obras o trabajos en la Vía Pública deberán colocar
 
 En caso de desobediencia o negligencia de lo dispuesto en el párrafo anterior, la Dirección de Tránsito deberá informar a la autoridad competente para que aplique las sanciones correspondientes. Si se produce algún accidente de tránsito, las personas responsables del incumplimiento deberán resarcir a los conductores y peatones afectados los daños y perjuicios causados por tal motivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
 APARTADO II
 
-BASES, SITIOS Y PARADEROS
+BASES, SITIOS, PARADEROS Y BAHÍAS
 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
@@ -5735,19 +5859,23 @@ Para los efectos de estaciones, terminales, bases y/o sitios, se entiende por:
 
 I. Estaciones, Estaciones Terminales, Terminales o Terminales de Trasferencia. Las instalaciones auxiliares del transporte público, mercantil de personas, RUTA y de transporte de carga y distribución de mercancías, establecidas en el Municipio en los términos previstos por la legislación aplicable, que son destinadas a la llegada, concentración, estacionamiento y salida de vehículos utilizados para la prestación de los servicios; el ascenso, descenso y transbordo de pasajeros, así como a la recepción, almacenamiento, carga, descarga y despacho de equipaje o mercancías, dependiendo del tipo de terminal establecida, requerirán dictamen emitido por la SEMOVI;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-II. Bases. Los predios de propiedad particular o superficies de la infraestructura vial, que se pueden determinar cómo áreas de servicio auxiliar para el transporte público y que se establezcan conforme a la legislación estatal, debiendo estar ubicadas en el lugar que el itinerario respectivo señale como puntos de origen y destino, para ser utilizadas para estacionar sus vehículos antes de iniciar o al terminar el recorrido de sus rutas por las empresas o concesionarios del servicio público de transporte, sin exceder el número de unidades permitido, o en su defecto, servir de referencia de paso, de acuerdo con las condiciones de operación vehicular de la zona en que estén localizadas. Las bases requerirán dictamen emitido por la SEMOVI; y
+II. Bases. Los predios de propiedad particular o superficies de la infraestructura vial, que se pueden determinar cómo áreas de servicio auxiliar para el transporte público y que se establezcan conforme a la legislación estatal, debiendo estar ubicadas en el lugar que el itinerario respectivo señale como puntos de origen y destino, para ser utilizadas para estacionar sus vehículos antes de iniciar o al terminar el recorrido de sus rutas por las empresas o concesionarios del servicio público de transporte, sin exceder el número de unidades permitido, o en su defecto, servir de referencia de paso, de acuerdo con las condiciones de operación vehicular de la zona en que estén localizadas. Las bases requerirán dictamen emitido por la SEMOVI;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-III. Sitios. Los predios de propiedad particular o lugares de la Vía Pública, que se determinen como áreas de servicio auxiliar para el transporte mercantil de personas y que se establezcan conforme a lo previsto por la legislación estatal, para ser utilizadas por las empresas o permisionarios a estacionar sus vehículos durante su horario de servicio, sin exceder el número de unidades permitido, y a los que el usuario pueda acudir para su contratación. Los sitios requerirán dictamen emitido por la SEMOVI.
+III. Sitios. Los predios de propiedad particular o lugares de la Vía Pública, que se determinen como áreas de servicio auxiliar para el transporte mercantil de personas y que se establezcan conforme a lo previsto por la legislación estatal, para ser utilizadas por las empresas o permisionarios a estacionar sus vehículos durante su horario de servicio, sin exceder el número de unidades permitido, y a los que el usuario pueda acudir para su contratación. Los sitios requerirán dictamen emitido por la SEMOVI; y
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2017)</small>
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+IV. Bahías. A los lugares en la vía pública que sean autorizados por la SEMOVI, previo dictamen de factibilidad, para colocar estaciones de préstamo de vehículos pertenecientes al sistema complementario de micromovilidad.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 346.
 
-Para el establecimiento de terminales de competencia federal o estatal, bases y sitios en el Municipio, los concesionarios o interesados en su instalación deberán obtener previamente dictamen favorable de la SEMOVI respecto de su ubicación y funcionamiento, sin perjuicio de la (sic) demás obligaciones que las disposiciones municipales aplicables les imponga en materia de desarrollo urbano, construcciones, ecología y establecimientos mercantiles.
+Para el establecimiento de terminales de competencia federal o estatal, bases, sitios o bahías en el Municipio, los concesionarios o interesados en su instalación deberán obtener previamente dictamen favorable de la SEMOVI respecto de su ubicación y funcionamiento, sin perjuicio de las demás obligaciones que las disposiciones municipales aplicables les imponga en materia de desarrollo urbano, construcciones, ecología y establecimientos mercantiles.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2017)</small>
 
@@ -5767,13 +5895,17 @@ II. En el caso de bases y sitios, establecerse de manera preferente, en lugares 
 
 III. Que los lugares a que se refieren las dos fracciones anteriores, estén ubicados en zonas permitidas de acuerdo con el Programa de Desarrollo Urbano del Municipio, con uso de suelo compatible y de tal manera que el impacto en el tránsito municipal de dichos lugares no resulte negativo;
 
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-IV. Que la ubicación de bases y sitios no se encuentre en calles o avenidas de gran densidad de circulación, por donde transiten dos o más líneas de servicio público de transporte ni a menos de 500 metros de otra base o sitio ya establecido; y
+IV. Que la ubicación de bases y sitios no se encuentre en calles o avenidas de gran densidad de circulación, por donde transiten dos o más líneas de servicio público de transporte ni a menos de 500 metros de otra base o sitio ya establecido;
 
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-V. Los demás que determinen las autoridades competentes, en los diferentes rubros relacionados con la autorización, instalación, operación y modificación de terminales, bases y sitios.
+V. En el caso de bahías, se establecerán en la Vía Pública o dentro de espacios públicos en el municipio determinados por la SEMOVI; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VI. Los demás que determinen las autoridades competentes, en los diferentes rubros relacionados con la autorización, instalación, operación y modificación de terminales, bases y sitios.
 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
@@ -5836,6 +5968,10 @@ En caso de que la SEMOVI considere conveniente para la movilidad del Municipio, 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 Si la instancia competente autoriza la supresión o cambio de ubicación de alguna base o sitio, el interesado podrá solicitar que se le autorice otro lugar para el establecimiento de la nueva base o sitio de acuerdo con esta Sección, o bien, su incorporación a otros ya establecidos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+En el caso de las bahías, la SEMOVI podrá cambiar la ubicación de estas de acuerdo con los dictámenes y estudios correspondientes, a fin de mejorar la movilidad en el municipio.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -5959,7 +6095,7 @@ De las infracciones en general y otras obligaciones.
 
 > <small>[N. DE E. VÉASE F. DE E. A LA TABLA EN LA TERCERA SECCIÓN DEL P.O. 14 DE JULIO DE 2015, PÁGINA 3.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, EN LA TERCERA SECCIÓN DEL P.O. 31 DE OCTUBRE DE 2016, PÁGINAS DE LA 7 A LA 15.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, EN LA TERCERA SECCIÓN DEL P.O. 31 DE OCTUBRE DE 2016, PÁGINAS DE LA 7 A LA 15; Y DÉCIMO SÉPTIMA SECCIÓN DEL P.O. 30 DE DICIEMBRE DE 2019, PÁGINA 23.]</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -38314,5 +38450,13 @@ P.O. 7 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 4 DE SEPTIEMBRE DE 2019, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE REFORMA LAS FRACCIONES VIII Y IX DEL ARTÍCULO 651 Y ADICIONA LA FRACCIÓN X AL CITADO ARTÍCULO DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
 
 PRIMERO. Las reformas y adición aprobadas en el presente Dictamen, entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 19 DE NOVIEMBRE DE 2019, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LAS COMISIONES UNIDAS DE MOVILIDAD URBANA Y DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CAPÍTULO 10 "TRÁNSITO MUNICIPAL, MOVILIDAD Y SEGURIDAD VIAL", DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. La presente reforma y adición de diversas disposiciones al Capítulo 10 del Código Reglamentario para el Municipio de Puebla, son de orden general y entrarán en vigor un día después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
