@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2019-01-14"
+last_updated: "2019-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE ENERO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -1219,13 +1217,45 @@ III.- Conservar la documentación relacionada con las constancias y las retencio
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2019.)</small>
+
+### CAPITULO QUINTO BIS
+
+Del Impuesto a las Tarifas Efectivamente Cobradas por las Empresas de Redes de Transporte.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 138 BIS.- Es objeto de este impuesto el ingreso que se percibe por la tarifa efectivamente cobrada, por cada viaje iniciado en el Estado de Nuevo León por los conductores de las Empresas de Redes de Transporte, y su objetivo es contribuir en el fortalecimiento de las acciones para el financiamiento de políticas públicas destinadas a mejorar la movilidad sostenible y la accesibilidad en el Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 138 BIS-1.- Son sujetos de este impuesto las Empresas de Redes de Transporte que promuevan, administren u operen viajes dentro del territorio del Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 138 BIS-2.- La base del Impuesto lo constituyen los ingresos por las tarifas efectivamente cobradas por las Empresas de Redes de Transporte al usuario que inicie un viaje dentro del Estado de Nuevo León. Se aplicará a la base del impuesto una tasa del 1.5 por ciento, antes del Impuesto al Valor Agregado.
+
+Bajo ninguna circunstancia o interpretación, se podrá repercutir este impuesto a la tarifa cobrada al usuario final.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 138 BIS-3.- El impuesto que resulte de aplicar la tasa indicada en el artículo precedente, será retenido por las Empresas de Redes de Transporte, quienes deberán enterarlo a la Secretaría de Finanzas y Tesorería General del Estado, de forma semestral dentro de los primeros 10 días del mes de enero y junio en que realicen la retención, anexando carta bajo protesta de decir verdad, que el impuesto enterado corresponde a las tarifas efectivamente cobradas a sus usuarios dentro del Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 138 BIS-4.- Quienes se encuentren dentro de los supuestos del presente Capítulo, además de efectuar las retenciones de este impuesto, tendrán las siguientes obligaciones:
+
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas y Tesorería General del Estado, en su carácter de retenedores, utilizando para tales efectos las formas aprobadas.
+
+II.- Entregar una copia del acta o documento constitutivo.
+
+III.- Conservar la documentación relacionada con las retenciones de este impuesto, por un plazo no menor a cinco años, a disposición de la Secretaría de Finanzas y Tesorería General del Estado.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO SÉPTIMO], P.O. 17 DE DICIEMBRE DE 2010)
 
 ### CAPITULO SEXTO. Del Impuesto Sobre Compraventa o Permuta de Ganado
-
-### CAPITULO SEPTIMO. Del Impuesto sobre Venta de Gasolina y demás Derivados del Petróleo
 
 ###### ARTICULO 139.
 
@@ -1305,9 +1335,7 @@ V.- Adoptar las medidas de control y someterse a los actos de vigilancia que par
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO OCTAVO], P.O. 17 DE DICIEMBRE DE 2010)
 
-### CAPITULO OCTAVO. Impuesto sobre Nóminas
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+### CAPITULO SEPTIMO. Del Impuesto sobre Venta de Gasolina y demás Derivados del Petróleo
 
 ###### ARTICULO 148.
 
@@ -1335,9 +1363,9 @@ La Tesorería General podrá celebrar convenios con Petróleos Mexicanos para qu
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO NOVENO], P.O. 17 DE DICIEMBRE DE 2010)
 
-### CAPITULO NOVENO. Del Impuesto sobre Honorarios
+### CAPITULO OCTAVO. Impuesto sobre Nóminas
 
-> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 154.
 
@@ -1641,7 +1669,9 @@ II.- En los términos del último párrafo del artículo 44 del Código Fiscal d
 
 (REUBICADO Y ADICIONADO [N. DE E. ANTES CAPÍTULOS DÉCIMO Y DÉCIMO PRIMERO], P.O. 17 DE DICIEMBRE DE 2010)
 
-### CAPITULO DECIMO. Del Impuesto sobre Expendios de Bebidas Alcohólicas
+### CAPITULO NOVENO. Del Impuesto sobre Honorarios
+
+> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 171.
 
@@ -1847,9 +1877,7 @@ No se pagará el impuesto tratándose de la prestación de servicios de hospedaj
 
 (REUBICADO Y ADICIONADO [N. DE E. ANTES CAPÍTULO DÉCIMO CUARTO], P.O. 17 DE DICIEMBRE DE 2010)
 
-### CAPITULO DECIMO PRIMERO. Impuesto sobre Ganado y Aves que se sacrifiquen
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+### CAPITULO DECIMO. Del Impuesto sobre Expendios de Bebidas Alcohólicas
 
 ###### ARTICULO 205.
 
@@ -2107,7 +2135,9 @@ Cuando el retenedor o causante adhiera sobre el envase de bebidas alcohólicas m
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO DÉCIMO QUINTO], P.O. 17 DE DICIEMBRE DE 2010)
 
-### CAPITULO PRIMERO. Disposiciones Generales
+### CAPITULO DECIMO PRIMERO. Impuesto sobre Ganado y Aves que se sacrifiquen
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 249.
 
@@ -2187,9 +2217,7 @@ Los encargados de los rastros no permitirán la matanza de ganado o aves, si no 
 
 ## TITULO TERCERO. De los Derechos
 
-### CAPITULO SEGUNDO. De los Derechos por Servicios Prestados por la Secretaría del Trabajo
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+### CAPITULO PRIMERO. Disposiciones Generales
 
 ###### ARTICULO 261.
 
@@ -2217,9 +2245,9 @@ El funcionario o empleado público que preste algún servicio por el que se caus
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO TERCERO. De los Derechos por Servicios Prestados por la Secretaría General de Gobierno
+### CAPITULO SEGUNDO. De los Derechos por Servicios Prestados por la Secretaría del Trabajo
 
-> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 266.
 
@@ -2265,9 +2293,9 @@ Lo (sic) derechos, establecidos por este Artículo, se cubrirán por semestres a
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-### CAPITULO CUARTO. De los Derechos por Servicios Prestados por la Secretaría de Educación
+### CAPITULO TERCERO. De los Derechos por Servicios Prestados por la Secretaría General de Gobierno
 
-> <small>(ADICIONADO Y REUBICADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 269.
 
@@ -2685,9 +2713,9 @@ IV.- Por la expedición de informes sobre la existencia o inexistencia de testam
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO QUINTO. De los Derechos por Servicios Prestados por la Secretaría de Finanzas y Tesorería General
+### CAPITULO CUARTO. De los Derechos por Servicios Prestados por la Secretaría de Educación
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(ADICIONADO Y REUBICADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 275 Bis.
 
@@ -2705,51 +2733,53 @@ a) Constancias, Certificaciones o Revalidaciones de Estudios de Primaria y Secun
 
 2. Escuelas Técnicas y Comerciales:
 
-a) Certificación de escuelas técnicas y comerciales, así como de escuelas técnicas de capacitación para el trabajo, con estudios no mayores de dos años con diploma ….. 1 cuota
+a) Certificación de escuelas técnicas y comerciales, así como de escuelas técnicas de capacitación para el trabajo, con estudios no mayores de dos años con diploma ... 1 cuota
 
-b) Certificado terminal de escuelas técnicas comerciales con estudios de tres años ….. 2 cuotas
+b) Certificado terminal de escuelas técnicas comerciales con estudios de tres años ... 2 cuotas
 
 3. Nivel Medio Superior:
 
-a) Legalización de certificados de preparatoria, así como por Registro y legalización de certificaciones de nivel medio superior ….. 2 cuotas
+a) Legalización de certificados de preparatoria, así como por Registro y legalización de certificaciones de nivel medio superior ... 2 cuotas
 
-b) Equivalencias de estudios, por materia ….. 0.5 cuotas
+b) Equivalencias de estudios, por materia ... 0.5 cuotas
 
-En ningún caso la cantidad a pagar será menor a …… 2.5 cuotas
+En ningún caso la cantidad a pagar será menor a .. 2.5 cuotas
 
-c) Revalidación de estudios ….. 2.5 cuotas
+c) Revalidación de estudios ... 2.5 cuotas
 
-d) Registro y legalización de actas de examen profesional ….. 5 cuotas
+d) Registro y legalización de actas de examen profesional ... 5 cuotas
 
-e) Registro y legalización de títulos de técnicos medios y profesionales ….. 6.5 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-f) Certificación de estudios de escuelas desaparecidas, así como, por la legalización de certificaciones de escuelas desaparecidas ….. 2 cuotas
+e) Registro y legalización de títulos de técnicos medios y profesionales ... 3.25 cuotas
 
-g) Constancias sobre liberación de servicio social de escuelas desaparecidas ….. 1 cuota
+f) Certificación de estudios de escuelas desaparecidas, así como, por la legalización de certificaciones de escuelas desaparecidas ... 2 cuotas
+
+g) Constancias sobre liberación de servicio social de escuelas desaparecidas ... 1 cuota
 
 4. Educación Superior:
 
-a) Legalización de certificados, así como el registro y legalización de certificados y registro y legalización de actas de examen profesional, de nivel superior, por cada trámite ….. 10.5 cuotas
+a) Legalización de certificados, así como el registro y legalización de certificados y registro y legalización de actas de examen profesional, de nivel superior, por cada trámite ... 10.5 cuotas
 
-b) Equivalencias de estudios, por materia ….. 0.5 cuotas
+b) Equivalencias de estudios, por materia ... 0.5 cuotas
 
-En ningún caso la cantidad a pagar será menor a ….. 2.5 cuotas
+En ningún caso la cantidad a pagar será menor a ... 2.5 cuotas
 
-c) Revalidación de estudios, por materia ….. 0.5 cuotas
+c) Revalidación de estudios, por materia ... 0.5 cuotas
 
-En ningún caso la cantidad a pagar será menor a ….. 2.5 cuotas
+En ningún caso la cantidad a pagar será menor a ... 2.5 cuotas
 
-d) Registro y legalización de títulos profesionales y de técnico superior profesional ….. 13.5 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-e) Registro y legalización de actas de examen profesional, así como de certificados, de técnico superior profesional, por trámite ….. 10.5 cuotas
+d) Registro y legalización de títulos profesionales y de técnico superior Profesional ... 6.75 cuotas
 
-f) Certificados de estudios, de actas de examen profesional y transcripciones de títulos profesionales, de escuelas desaparecidas, por cada trámite ….. 3 cuotas
+e) Registro y legalización de actas de examen profesional, así como de certificados, de técnico superior profesional, por trámite ... 10.5 cuotas
 
-g) Constancias de Servicio Social de escuelas desaparecidas ….. 1.5 cuotas
+f) Certificados de estudios, de actas de examen profesional y transcripciones de títulos profesionales, de escuelas desaparecidas, por cada trámite ... 3 cuotas
 
-5. Ejercicio Profesional:
+g) Constancias de Servicio Social de escuelas desaparecidas ... 1.5 cuotas
 
-a) Trámite de Cédula Profesional, así como Autorización para el ejercicio de especialidad, por cada trámite ….. 5 cuotas
+5. (DEROGADO, P.O. 30 DE DICIEMBRE DE 2019)
 
 > <small>N. DE E. EN RELACIÓN CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, VER ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEÓN, P.O. 13 DE ENERO DE 2007.</small>
 
@@ -2831,9 +2861,9 @@ Los derechos de refrendo anual a que se refiere este artículo deberán cubrirse
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO CUARTO] Y REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1993)
 
-### CAPITULO SEXTO. De los Derechos Prestados por la Secretaría de Desarrollo Sustentable
+### CAPITULO QUINTO. De los Derechos por Servicios Prestados por la Secretaría de Finanzas y Tesorería General
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 276.
 
@@ -3253,7 +3283,9 @@ Los derechos previstos en las fracciones XXII y XXIII de este artículo, serán 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO SEPTIMO. De los Derechos por Servicios Prestados por Diversas Dependencias y Entidades de los Poderes Legislativo, Ejecutivo y Judicial
+### CAPITULO SEXTO. De los Derechos Prestados por la Secretaría de Desarrollo Sustentable
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 276 Bis.
 
@@ -3419,11 +3451,21 @@ VI.- Certificación estatal de cumplimiento ambiental 25 cuotas
 
 VII.- Evaluación de Impacto Urbano Regional 500 cuotas
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-VIII.- Evaluación de Congruencia en planes
+VIII.- Evaluación de Congruencia en planes o programas municipales de desarrollo urbano, de planes o programas de desarrollo urbano de centros de población o su modificación total o parcial:
 
-o programas de desarrollo urbano 500 cuotas
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+a) De municipios con una población mayor a 500,000 habitantes conforme a información oficial más reciente que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía 500 cuotas
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+b) De municipios con una población mayor a 200,000 hasta 500,000 habitantes conforme a la información oficial más reciente que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía 300 cuotas
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+c) De municipios con una población hasta 200,000 habitantes conforme a la información oficial más reciente que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía 200 cuotas
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -3431,29 +3473,33 @@ IX.- Evaluación de Congruencia en planes
 
 o programas parciales de desarrollo urbano 375 cuotas
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-X.- Evaluación de Medidas de Mitigación en
+X.- Evaluación de Medidas de Mitigación en zonas de riesgo:
 
-zonas de riesgo para desarrollos en predios con
+> <small>(ADICIONADO CON SUS NUMERALES, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-superficie de hasta 499 metros cuadrados 75 cuotas
+a) Para fraccionamientos o conjuntos urbanos, edificaciones u obras en predios ubicados en área urbanizable:
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+1. Inmuebles con superficie de hasta 499 metros cuadrados 75 cuotas
 
-XI.- Evaluación de Medidas de Mitigación en zonas de riesgo para
+2. Inmuebles con superficie mayor a 499 y hasta 999 metros cuadrados 187.50 cuotas
 
-desarrollos en predios con superficie mayor a 499 y hasta 999
+3. Inmuebles con superficie mayor a 999 metros cuadrados 500 cuotas
 
-metros cuadrados 187.50 cuotas
+> <small>(ADICIONADO CON SUS NUMERALES, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+b) Para construcciones en inmuebles ubicados en áreas urbanizadas:
 
-XII.- Evaluación de Medidas de Mitigación en zonas de
+1. Inmuebles con superficie de hasta 499 metros cuadrados 30 cuotas
 
-riesgo para multifamiliares u otros desarrollos con
+2. Inmuebles con superficie mayor a 499 y hasta 999 metros cuadrados 50 cuotas
 
-superficie mayor a 999 metros cuadrados 500 cuotas
+3. Inmuebles con superficie mayor a 999 metros cuadrados 100 cuotas
+
+XI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2019)
+
+XII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2019)
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
@@ -3461,9 +3507,7 @@ XIII.- Asistencia Técnica del Centro de Colaboración
 
 Geoespacial 187.50 cuotas
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
-
-XIV.- Asistencia Técnica para trámites urbanísticos 75 cuotas
+XIV.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2019)
 
 XV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
@@ -3475,17 +3519,17 @@ XVIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 XIX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-XX.- Evaluación y elaboración de la cedula de
+XX.- Evaluación y elaboración de la cédula de ingreso al registro estatal.
 
-ingreso al registro estatal de asociaciones
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-protectoras de animales, individuos, organizaciones
+a) De asociaciones protectoras de animales y organizaciones no gubernamentales dedicadas a la protección y bienestar animal 20 cuotas
 
-no gubernamentales y/o profesionales dedicados a
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-la protección y bienestar animal 65 cuotas
+b) De individuos y/o profesionales dedicados a la protección y bienestar animal 15 cuotas
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -3495,35 +3539,17 @@ ingreso al registro estatal de establecimientos que se
 
 dediquen a la crianza y/o venta de animales 150 cuotas
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-XXII.- Análisis del registro de las personas físicas
+XXII.- Análisis del registro de las personas físicas y morales que se dediquen o realicen actividades de exhibición, trabajo, deportivas, competencias y/o adiestramiento de animales 40 cuotas
 
-y morales que se dediquen o realicen actividades
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-de exhibición, trabajo, deportivas, competencias
+XXIII.- Evaluación y elaboración de la cédula de ingreso al registro estatal de las personas físicas y morales que se dediquen o realicen actividades de atención médica y/o centros de atención veterinaria 35 cuotas
 
-y/o adestramiento (sic) de animales 136 cuotas
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
-
-XXIII.- Evaluación y elaboración de la cedula de
-
-ingreso al registro estatal de las personas físicas
-
-y morales que se dediquen o realicen actividades de
-
-atención médica y/o centros de atención veterinaria 40 cuotas
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
-
-XXIV.- Evaluación y elaboración de la cedula de
-
-ingreso al registro estatal de establecimientos físicos
-
-o móviles que proporcionen un servicio de limpieza,
-
-cuidado y/o resguardo de animales 136 cuotas
+XXIV.- Evaluación y elaboración de la cédula de ingreso al registro estatal de establecimientos físicos o móviles que proporcionen un servicio de limpieza, cuidado y/o resguardo de animales 40 cuotas
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -3539,11 +3565,25 @@ XXVI.- Evaluación de la factibilidad de aprovechamiento
 
 de recursos minerales no reservados a la Federación 150 cuotas
 
+> <small>(ADICIONADA CON SUS INCISOS, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XXVII.- Procedimiento de análisis y evaluación para la emisión de Certificado de Laboratorios en materia de pavimentos
+
+a) Por primera vez 87 cuotas
+
+b) Renovación de Certificado 87 cuotas
+
+> <small>(ADICIONADA CON SUS INCISOS, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+XXVIII.- Procedimiento de análisis y evaluación para la emisión de Certificado de Profesionales Responsables en materia de pavimentos:
+
+a) Por primera vez 46 cuotas
+
+b) Renovación de Certificado 31 cuotas
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+### CAPITULO SEPTIMO. De los Derechos por Servicios Prestados por Diversas Dependencias y Entidades de los Poderes Legislativo, Ejecutivo y Judicial
 
 ### CAPITULO UNICO
 
@@ -3777,11 +3817,13 @@ En caso de reproducción en fotografías, cintas de video, dispositivos de archi
 
 En todos los casos, con excepción del Poder Judicial del Estado y de las solicitudes tramitadas en los términos que establece la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, por búsqueda y localización de documentos, archivos, y expedientes y demás información solicitada, generará 1 cuota, sin perjuicio del derecho que corresponda por las copias expedidas.
 
-### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTÍCULO 286], P.O. DE 26 DE DICIEMBRE DE 2001)
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ## TITULO CUARTO. De los Productos
 
-### CAPITULO SEXTO. De los Derechos por Servicios Prestados por la Secretaría de Desarrollo Urbano y Obras Públicas
+### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTÍCULO 286], P.O. DE 26 DE DICIEMBRE DE 2001)
 
 ###### ARTICULO 278.
 
@@ -4514,3 +4556,19 @@ P.O. 31 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 079. SE REFORMA LA LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN EN SUS ARTÍCULOS 172, SEGUNDO PÁRRAFO, 276, FRACCIONES II Y SUS INCISOS A) Y B), III Y SUS INCISOS A) Y B), IV Y SUS INCISOS A) Y B), V, VI Y SUS INCISOS A) Y B), VII Y SUS INCISOS A), B) Y C), XI, INCISOS A) Y B), XII, INCISOS A) Y B), XIII, INCISO A), XIV, XV, XVI, XIX, XXII Y XXIII, 276 BIS FRACCIONES, III, INCISO B), V, INCISO B); SE ADICIONA EN EL ARTICULO 276, FRACCIONES IV, CON UN INCISO C), V, CON LOS INCISOS A) Y B), VI CON UN INCISO C), VII, CON LOS INCISOS D) Y E), XII, CON UN INCISO C), 276 BIS, FRACCIÓN III, CON LOS INCISOS I), J) Y K) Y CON UNA FRACCION XXVI; Y SE DEROGA EN EL ARTICULO 276, FRACCIONES III, INCISOS C) Y D) Y VII, SEGUNDO PARRAFO, Y 276 BIS, FRACCIONES, XV, XVI, XVII, XVIII, Y XIX”.]
 
 Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2019.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 215. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN, TAMBIÉN REFORMA EL CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN; Y SE ADICIONA A LA LEY QUE CREA AL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN, CON UN ARTÍCULO VIGÉSIMO TRANSITORIO”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor el 1° de enero del año 2020.
+
+Artículo Segundo.- A la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 267. SE REFORMA LA LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN, POR ADICIÓN TANTO DE UN CAPÍTULO QUINTO BIS DENTRO DEL TÍTULO SEGUNDO, COMO DE SUS RESPECTIVOS ARTÍCULOS 138 BIS, 138 BIS1, 138 BIS2, 138 BIS3 Y 138 BIS4”.]
+
+Primero.- El presente Decreto entrará en vigor el 1 de enero de 2020.
+
+Segundo.- La Secretaría de Finanzas y Tesorería General del Estado, deberá dentro del plazo de 45 días, poner a disposición de las Empresas de Redes de Transporte los formatos necesarios para dar cumplimiento al presente decreto.
