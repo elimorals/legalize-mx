@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "2018-12-31"
+last_updated: "2019-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -152,6 +152,14 @@ Quien haga pago de créditos fiscales deberá obtener de la oficina recaudadora,
 ###### ARTICULO 9.
 
 El cumplimiento de las leyes fiscales, no podrá eludirse por la simulación de actos jurídicos regidos por disposiciones de derecho privado que signifiquen el desconocimiento de una obligación de carácter fiscal. En tales casos la obligación con todo y sus accesorios, que se pretende eludir, deberá cumplirse plenamente aplicando además las sanciones respectivas por las infracciones en que se hubiere incurrido.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Los actos jurídicos que carezcan de una razón de negocios y que generen un beneficio fiscal directo o indirecto, tendrán los efectos fiscales que correspondan a los que se habrían realizado para la obtención del beneficio económico razonablemente esperado por el contribuyente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+En el ejercicio de sus facultades de comprobación, la autoridad fiscal podrá presumir que los actos jurídicos carecen de una razón de negocios con base en los hechos y circunstancias del contribuyente conocidos al amparo de dichas facultades, así como de la valoración de los elementos, la información y documentación obtenidos durante las mismas. No obstante lo anterior, dicha autoridad fiscal no podrá desconocer para efectos fiscales los actos jurídicos referidos, sin que antes se dé a conocer dicha situación en la última acta parcial a que se refiere la fracción IV del artículo 48 de este Código, en el oficio de observaciones a que se refiere la fracción IV del artículo 50 de este Código, y que hayan transcurrido los plazos a que se refieren los artículos anteriores, para que el contribuyente manifieste lo que a su derecho convenga y aporte la información y documentación tendiente a desvirtuar la referida presunción.
 
 ###### ARTICULO 10.
 
@@ -379,9 +387,11 @@ Para los efectos de este artículo se aplicará el Indice Nacional de Precios al
 
 ### CAPITULO UNICO. De los Derechos y Obligaciones de los Contribuyentes
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 19.
 
-Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital.
+Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital, y en el caso de que se presente en documento digital, este deberá contener la firma electrónica avanzada.
 
 Las promociones deberán presentarse en las formas que al efecto apruebe la Secretaría de Finanzas y Tesorería General del Estado, en el número de Ejemplares que establezca la forma oficial y acompañar los anexos que en su caso ésta requiera. Cuando no existan formas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales y tener por lo menos los siguientes requisitos:
 
@@ -406,6 +416,14 @@ Cuando no se cumpla alguno de los requisitos a que se refiere este artículo, la
 Si la omisión consiste en no haber usado la forma oficial aprobada, las autoridades fiscales deberán acompañar al requerimiento la forma respectiva en el número de ejemplares que sea necesario.
 
 Lo dispuesto en este artículo no es aplicable a las declaraciones, solicitudes de inscripción o avisos a que se refiere el artículo 32 de este Código.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Para los efectos de lo dispuesto en este artículo, las autoridades fiscales podrán aceptar el uso de la firma electrónica avanzada, que el contribuyente tramitó ante el Servicio de Administración Tributaria del Gobierno Federal y le será aplicable lo dispuesto en el Capítulo II "De los Medios Electrónicos" del Código Fiscal de la Federación.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Para efectos de este Código, la firma electrónica a que se refiere el párrafo anterior, producirá los mismos efectos que la firma electrónica avanzada a que se refiere la Ley Sobre Gobierno Electrónico y Fomento al Uso de las Tecnologías de la Información del Estado, por lo que las disposiciones de dicha Ley resultarán aplicables en lo conducente para las actuaciones que se realicen conforme a este Código por medios electrónicos.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -445,9 +463,9 @@ Para determinar las contribuciones cuyo importe sea o comprenda fracciones en pe
 
 Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago hasta que el mismo se efectúe; además deberán pagarse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-Los recargos se calcularán sobre el total del crédito fiscal y mientras subsistan las facultades de la autoridad para determinar el crédito fiscal o para obtener su cobro mediante el procedimiento administrativo de ejecución o en su caso, mientras no se haya extinguido el derecho del particular para solicitar la devolución de cantidades pagadas indebidamente o de saldos a favor. En su cálculo se excluirán los propios recargos, la indemnización a que se refiere el cuarto párrafo de este artículo, los gastos de ejecución y las multas. Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se calcularán aplicando al monto de las cantidades actualizadas la tasa que fije la Ley respectiva por todo el mes, independientemente de que no se haya vencido por completo, a partir del día siguiente al en que debió hacerse el pago y hasta que el mismo se efectúe.
+Los recargos se causarán hasta por cinco años, salvo en los casos a que se refiere el artículo 67 de este Código, supuestos en los cuales los recargos se causarán hasta en tanto no se extingan las facultades de las autoridades fiscales para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, y se calcularán sobre el total del crédito fiscal y mientras subsistan las facultades de la autoridad para determinar el crédito fiscal o para obtener su cobro mediante el procedimiento administrativo de ejecución o en su caso, mientras no se haya extinguido el derecho del particular para solicitar la devolución de cantidades pagadas indebidamente o de saldos a favor. En su cálculo se excluirán los propios recargos, la indemnización a que se refiere el cuarto párrafo de este artículo, los gastos de ejecución y las multas. Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se calcularán aplicando al monto de las cantidades actualizadas la tasa que fije la Ley respectiva por todo el mes, independientemente de que no se haya vencido por completo, a partir del día siguiente al en que debió hacerse el pago y hasta que el mismo se efectúe.
 
 Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
 
@@ -529,7 +547,9 @@ I.- Los retenedores y las personas a quienes las leyes impongan la obligación d
 
 II.- Las personas que estén obligadas a efectuar pagos provisionales por cuenta del contribuyente, hasta por el monto de estos pagos.
 
-III.- Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquellas que se causaron durante su gestión. No será aplicable lo dispuesto en esta fracción, cuando la sociedad en liquidación garantice el interés fiscal por las contribuciones mencionadas en los términos del Artículo 12 de este Código.
+> <small>(REFORMADA [N. DE. E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+III.- Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquellas que se causaron durante su gestión.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -761,7 +781,13 @@ Las instancias o peticiones que se formulen a las autoridades fiscales deberán 
 
 Los actos administrativos que se deban notificar deberán tener por lo menos los siguientes requisitos:
 
-I.- Constar por escrito.
+> <small>(REFORMADO [N. DE. E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+I.- Constar por escrito en documento impreso o digital.
+
+> <small>(ADICIONADO P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Tratándose de actos administrativos que consten en documentos digitales la notificación personal se hará por medios electrónicos y con la firma electrónica avanzada del funcionario competente.
 
 II.- Señalar la autoridad que lo emite.
 
@@ -770,6 +796,10 @@ III.- Estar fundado y motivado y expresar la resolución, objeto o propósito de
 IV.- Ostentar la firma del funcionario competente y, en su caso, el nombre o nombres de las personas a las que se envíe. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación.
 
 Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria, se señalará, además la causa legal de la responsabilidad.
+
+> <small>(ADICIONADO P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+Para la emisión y regulación de los documentos digitales, de la firma electrónica avanzada de los funcionarios pertenecientes a la Secretaría de Finanzas y Tesorería General del Estado y demás autoridades fiscales y, para la notificación por medios electrónicos serán aplicables las disposiciones previstas en la Ley Sobre Gobierno Electrónico y Fomento al Uso de las Tecnologías de la Información del Estado y demás leyes aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -1153,9 +1183,17 @@ Cuando el contador público no de cumplimiento a las disposiciones referidas en 
 
 En el caso de que con motivo del ejercicio de sus facultades de comprobación, las autoridades fiscales soliciten datos, informes o documentos del contribuyente, responsable solidario o tercero, éstos tendrán los siguientes plazos para su presentación:
 
-I.- Seis días contados a partir del siguiente a aquel en que se le notificó la solicitud respectiva, cuando dichas pruebas sean de las que debe tener en su poder el contribuyente, y se lo soliciten durante el desarrollo de una visita que le practiquen.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-II.- Quince días contados a partir del siguiente a aquel en que se le notificó la solicitud respectiva, en los demás casos.
+I.- Los libros y registros que formen parte de su contabilidad, solicitados en el curso de una visita, deberán presentarse de inmediato, así como los diagramas y el diseño del sistema de registro electrónico, en su caso.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+II.- Seis días contados a partir del día siguiente a aquél en que surta efectos la notificación de la solicitud respectiva, cuando los documentos sean de los que deba tener en su poder el contribuyente y se los soliciten durante el desarrollo de una visita.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+III.- Quince días contados a partir del día siguiente a aquél en que surta efectos la notificación de la solicitud respectiva, en los demás casos.
 
 Los plazos a que se refiere este Artículo se podrán ampliar por las autoridades fiscales hasta veinte días más cuando se trate de informes cuyo contenido sea difícil de proporcionar o de difícil obtención.
 
@@ -1261,9 +1299,11 @@ III.- Señalen el nombre o domicilio de un tercero, real o ficticio, si se compr
 
 IV.- Se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 63.
 
-Los hechos y omisiones que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este código, o en las leyes fiscales, o bien, que consten en la documentación o expedientes que lleven o tengan en su poder las autoridades fiscales, podrán ser utilizados por la Secretaría de Finanzas y Tesorería General del Estado y por cualquier autoridad u organismo descentralizado que sea competente para determinar contribuciones de carácter estatal.
+Los hechos y omisiones que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien, que consten en la documentación o expedientes o bases de datos que lleven, tengan acceso o en su poder las autoridades fiscales, así como aquéllos proporcionados por otras autoridades, podrán servir para motivar las resoluciones de la Secretaría de Finanzas y Tesorería General del Estado y de cualquier autoridad u organismo descentralizado que sea competente en materia de contribuciones de carácter estatal.
 
 Las copias o reproducciones de microfilm de documentos que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias o reproducciones sean certificadas por funcionario competente para ello, sin necesidad de cotejo con los originales.
 
@@ -1337,7 +1377,13 @@ II.- Se presentó o debió haberse presentado la declaración o aviso que corres
 
 III.- Se hubiere cometido la infracción a las disposiciones fiscales, pero si la infracción fuese de carácter continuo o continuado, el término correrá a partir del día siguiente al en que hubiese cesado la consumación o se hubiese realizado la última conducta o hecho, respectivamente.
 
-El plazo señalado en este artículo no está sujeto a interrupción y sólo se suspenderá cuando se interponga algún recurso administrativo o juicio.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+El plazo a que se refiere este artículo será de diez años, cuando el contribuyente no haya presentado su solicitud en el Registro Estatal de Contribuyentes, no lleve contabilidad o no la conserve durante el plazo que establece este Código, así como por los ejercicios en que no presente alguna declaración del ejercicio, estando obligado a presentarlas. En los casos en los que posteriormente el contribuyente en forma espontánea presente la declaración omitida y cuando ésta no sea requerida, el plazo será de cinco años, sin que en ningún caso este plazo de cinco años, sumado al tiempo transcurrido entre la fecha en la que debió presentarse la declaración omitida y la fecha en la que se presentó espontáneamente, exceda de diez años.
+
+> <small>(ADICIONADO P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+El plazo señalado en este artículo no está sujeto a interrupción y sólo se suspenderá cuando se ejerzan las facultades de comprobación de las autoridades fiscales a que se refieren las fracciones II, III y IV del artículo 44 de este Código; cuando se interponga algún recurso administrativo o juicio; o cuando las autoridades fiscales no puedan iniciar el ejercicio de sus facultades de comprobación en virtud de que el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal. En estos dos últimos casos, se reiniciará el cómputo del plazo de caducidad a partir de la fecha en la que se localice al contribuyente. Asimismo, el plazo a que hace referencia este artículo se suspenderá en los casos de huelga, a partir de que se suspenda temporalmente el trabajo y hasta que termine la huelga y en el de fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión.
 
 Las facultades de las autoridades fiscales para investigar hechos constitutivos de delitos en materia fiscal, no se extinguirán conforme a este artículo.
 
@@ -1349,11 +1395,11 @@ Los contribuyentes, transcurridos los plazos a que se refiere este artículo, po
 
 Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos que la negativa Implique la afirmación de otro hecho.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-###### Artículo 69.
+###### ARTICULO 69.
 
-El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las Leyes Fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la Administración y de la Defensa de los Intereses Fiscales Estatales, a los Tribunales Judiciales o Administrativos, a las Autoridades Fiscales Federales o Municipales, o en el supuesto previsto en el Artículo 63 de este Código. Dicha reserva tampoco comprenderá la información que se proporcione a Instituciones de Crédito autorizadas por el Estado o los Municipios para recibir el pago de contribuciones.
+El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las Leyes Fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la Administración y de la Defensa de los Intereses Fiscales Estatales, a los Tribunales Judiciales o Administrativos, a las Autoridades Fiscales Federales o Municipales, o en el supuesto previsto en el Artículo 63 de este Código. Dicha reserva tampoco comprenderá la información que se proporcione a Instituciones de Crédito autorizadas por el Estado o los Municipios para recibir el pago de contribuciones. Dicha reserva tampoco comprenderá la información relativa a los créditos fiscales de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público de conformidad con la Ley para Regular las Sociedades de Información Crediticia, ni la que se proporcione para efectos de la notificación por terceros en términos de la legislación aplicable.
 
 ## TITULO IV. De las Infracciones y Delitos Fiscales
 
@@ -2085,13 +2131,11 @@ ARTICULO 132 BIS.- (DEROGADO, P.O. 3 DE FEBRERO DE 2017)
 
 Las notificaciones de los actos administrativos se harán:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-I.- Personalmente, por correo certificado, correo electrónico o mensaje de datos con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos.
+I.- Personalmente, por correo certificado, o por medios electrónicos mediante documentos digitales y con la firma electrónica avanzada, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-Las notificaciones efectuadas a través del correo electrónico o mensaje de datos, a fin de que sean llevadas a cabo, la Secretaría de Finanzas y Tesorería General del Estado emitirá para ello Reglas Generales. Las notificaciones a que se refiere el presente párrafo se entenderán realizadas al tercer día hábil siguiente a aquel en que se envió el correo electrónico o el mensaje de datos y surtirán sus efectos el día hábil siguiente al en que hubieren sido realizadas.
+Las notificaciones efectuadas mediante documentos digitales se harán por medios electrónicos y con la firma electrónica avanzada, en los términos que establece la Ley Sobre Gobierno Electrónico y Fomento al Uso de las Tecnologías de la Información del Estado.
 
 II.- Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior.
 
@@ -2121,27 +2165,29 @@ Las notificaciones personales por correo certificado con acuse de recibo, podrá
 
 Tratándose de procedimientos instaurados por las Autoridades Fiscales de los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, cuando el domicilio del interesado se encuentre en cualesquiera de los citados Municipios, la diligencia se practicará directamente por la Autoridad Instructora. En los demás casos, tratándose del resto de los municipios del Estado, las diligencias se practicarán vía exhorto, y en el caso de Municipios de otro Estado, el exhorto se remitirá previa certificación de firmas por parte de la Secretaría General de Gobierno.
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 136.
 
-Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, sea para que espere a una hora fija del día hábil siguiente o para que acuda a notificarse, dentro del plazo de seis días, a las oficinas de las autoridades fiscales.
+Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, para que espere a una hora fija del día hábil posterior, y en caso de que tampoco sea posible dejar el citatorio debido a que la persona que atiende se niega a recibirlo, o bien, nadie atendió la diligencia en el domicilio, la notificación se realizará conforme a lo señalado en el artículo 133, fracción III de este Código.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-Tratándose de actos relativos al procedimiento administrativo de ejecución, el citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino debidamente identificados. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible del domicilio de la persona citada, debiendo el notificador asentar razón de tal circunstancia para dar cuenta al jefe de la oficina exactora.
+El citatorio a que se refiere este artículo será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino debidamente identificados. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará conforme a lo señalado en el artículo 133, fracción III de este Código.
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán los gastos de ejecución a cargo de quien incurrió en el incumplimiento.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-###### ARTÍCULO 137.
+###### ARTICULO 137.
 
-Cuando las personas a quienes se haya de notificar, omitan señalar domicilio en su primer escrito o hayan variado su domicilio fiscal para el caso de que lo hubieren manifestado ante la propia autoridad y no hubieren notificado esta situación, o bien se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación, o cuando habiéndose efectuado la notificación a través de edictos, el notificado no compareciere, las notificaciones que deban efectuarse, aún las de carácter personal, se efectuarán por estrados a través de instructivo que deberá contener el texto íntegro del acto de autoridad que se pretenda notificar y que se fijará durante cinco días en un sitio abierto al público de las oficinas de la autoridad y del cual se dejará constancia en el expediente respectivo. En estos casos se tendrá como fecha de notificación la del sexto día, contado a partir del siguiente a aquél en que se hubiera fijado el documento.
+Cuando las personas a quienes se haya de notificar, omitan señalar domicilio en su primer escrito o hayan variado su domicilio fiscal para el caso de que lo hubieren manifestado ante la propia autoridad y no hubieren notificado esta situación, o bien se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación o cuando habiéndose efectuado la notificación a través de edictos, el notificado no compareciere, las notificaciones que deban efectuarse, aún las de carácter personal, se efectuarán por estrados a través de instructivo que deberá contener el texto íntegro del acto de autoridad que se pretenda notificar y que se fijará durante cinco días en un sitio abierto al público de las oficinas de la autoridad y del cual se dejará constancia en el expediente respectivo y publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales. En estos casos se tendrá como fecha de notificación la del sexto día, contado a partir del siguiente a aquél en que se hubiera fijado y publicado el documento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 138.
 
-Las notificaciones por edictos se harán mediante publicaciones durante dos días consecutivos en el Periódico Oficial del Estado y en uno de los periódicos de mayor circulación en el Estado y contendrá un resumen de los actos que se notifican.
+Las notificaciones por edictos se harán mediante publicaciones durante dos días consecutivos en el Periódico Oficial del Estado, en uno de los periódicos de mayor circulación en el Estado y durante quince días en la página electrónica que al efecto establezca la Secretaría de Finanzas y Tesorería General del Estado o las autoridades fiscales, y contendrá un resumen de los actos que se notifican.
 
 En este caso se tendrá como fecha de notificación la de la última publicación.
 
@@ -2191,11 +2237,11 @@ Las garantías constituidas para asegurar el interés fiscal a que se refieren l
 
 Si la garantía consiste en depósito de dinero en institución nacional de crédito autorizada, una vez que el crédito fiscal quede firme se ordenará su aplicación por la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 142.
 
-No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de treinta días siguientes a la fecha en que surta efectos su notificación. Cuando el contribuyente hubiere interpuesto en tiempo y forma recurso de revocación en contra de un acto, el procedimiento administrativo de ejecución quedará suspendido sin necesidad de garantía alguna, hasta que se notifique la resolución definitiva que hubiere recaído sobre el mismo.
+No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de treinta días siguientes a la fecha en que surta efectos su notificación. Cuando el contribuyente hubiere interpuesto en tiempo y forma recurso de revocación en contra de un acto, el procedimiento administrativo de ejecución quedará suspendido sin necesidad de garantía alguna, hasta que se notifique la resolución definitiva que hubiere recaído sobre el mismo. El contribuyente contará con un plazo de diez días siguientes a aquél en que haya surtido efectos la notificación de la resolución que recaiga al recurso de revocación; para pagar o garantizar los créditos fiscales en términos de lo dispuesto en este Código.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -3272,3 +3318,11 @@ Segundo.- A la entrada en vigor del presente Decreto, se derogan todas las dispo
 Tercero.- La Secretaría de Finanzas y Tesorería General del Estado contará con un plazo de 30 días hábiles a partir de la entrada en vigor del presente Decreto, para emitir las Reglas Generales a que se refieren los artículos 74, primer párrafo y 139, cuarto párrafo, del Código Fiscal del Estado.
 
 Cuarto.- Se prorroga por un año adicional el plazo para emitir las Reglas Generales a que se refiere el artículo Tercero Transitorio del Decreto Número 330, publicado en el Periódico Oficial del Estado el 29 de diciembre de 2017.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO NÚM. 215. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN, TAMBIÉN REFORMA EL CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN; Y SE ADICIONA A LA LEY QUE CREA AL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN, CON UN ARTÍCULO VIGÉSIMO TRANSITORIO”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor el 1° de enero del año 2020.
+
+Artículo Segundo.- A la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
