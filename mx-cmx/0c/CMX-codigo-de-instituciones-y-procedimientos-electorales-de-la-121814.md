@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-instituciones-y-procedimientos-electorales-de-la-1218
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-07"
-last_updated: "2019-04-02"
+last_updated: "2019-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121814&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-06-06"
 
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 2 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 30 DE DICIEMBRE DE 2019.
 
 Código publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de junio de 2017.
 
@@ -7424,9 +7424,11 @@ Quien ostente la Presidencia del Consejo Distrital, una vez cumplido el plazo pa
 
 Recuento de votos.
 
-1. Cuando exista indicio de que la diferencia entre el candidato presunto ganador de la elección en el distrito y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, y al inicio de la sesión exista petición expresa del representante del partido que postuló al segundo de los candidatos antes señalados, el consejo distrital deberá realizar el recuento de votos en la totalidad de las casillas. Para estos efectos se considerará indicio suficiente la presentación ante el Consejo de la sumatoria de resultados por partido consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el distrito.
+1. (DEROGADO, G.O. 30 DE DICIEMBRE DE 2019)
 
-2. Si al término del cómputo se establece que la diferencia entre el candidato presuntamente ganador y el ubicado en segundo lugar es igual o menor a un punto porcentual, y existe la petición expresa a que se refiere el párrafo anterior, el consejo distrital deberá proceder a realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
+
+2. Si al término del cómputo se establece que la diferencia entre el candidato presuntamente ganador y alguno de los otros candidatos es igual o menor a un punto porcentual, y existe petición expresa de alguno de sus representantes, el consejo distrital deberá proceder a realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento.
 
 3. Conforme a lo establecido en los dos párrafos anteriores, para realizar el recuento total de votos respecto de una elección determinada, el consejo distrital dispondrá lo necesario para que sea realizado sin obstaculizar el escrutinio y cómputo de las demás elecciones y concluya antes del domingo siguiente al de la jornada electoral. Para tales efectos, la Presidencia del Consejo dará aviso inmediato a la Secretaría Ejecutiva del Instituto; ordenará la creación de grupos de trabajo integrados por los consejeros electorales, los representantes de los partidos, que los presidirán. Los grupos realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los partidos políticos tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente.
 
@@ -7603,3 +7605,11 @@ G.O. 2 DE ABRIL DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. Para su mayor difusión, publíquese en el Diario Oficial de la Federación.
+
+G.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGA EL NUMERAL 1 Y SE REFORMA EL NUMERAL 2 AMBOS DEL ARTÍCULO 457 DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO”.]
+
+Primero. Túrnese a la Jefatura de Gobierno de la Ciudad de México para su correspondiente promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
