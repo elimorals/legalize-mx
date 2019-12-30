@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2019-11-09"
+last_updated: "2019-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -1141,9 +1141,15 @@ III. Garantizar la seguridad y resguardo de los servidores públicos y del inmue
 
 IV. Proveer servicios médicos a los servidores públicos del Congreso;
 
-V. Informar trimestralmente a la Jucopo sobre el ejercicio presupuestal asignado, adjuntando la documentación que justifique los gastos ejercidos, incluyendo las subvenciones otorgadas a cada Grupo Parlamentario; y,
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
-VI. Las demás que le asigne la Jucopo y el Reglamento.
+V. Informar trimestralmente a la Jucopo sobre la administración del presupuesto asignado y el ejercicio del gasto público, adjuntando la documentación que justifique los gastos ejercidos, incluyendo las subvenciones otorgadas a cada Grupo Parlamentario;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+
+VI. Emitir y modificar las Disposiciones Generales que deberán cumplir las áreas de esta Secretaría que ejerzan el gasto proveniente del Presupuesto Público asignado al Congreso del Estado de Oaxaca y publicarlas en la página electrónica de este y en el Periódico Oficial del Gobierno del Estado de Oaxaca y cumplir con las demás leyes relativas; y
+
+VII. Las demás que le asigne la Jucopo y el Reglamento.
 
 ###### ARTÍCULO 94.
 
@@ -1386,3 +1392,11 @@ SEGUNDO. Todos los asuntos turnados a la actual Comisión Permanente de Zonas Ec
 TERCERO. La integración y estructura de la Comisión Permanente del Corredor Interoceánico y Programas de Desarrollo Regional se mantendrá de la misma manera que la Comisión Permanente de Zonas Económicas Especiales.
 
 CUARTO. Se derogan todas las disposiciones jurídicas de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 870.- MEDIANTE EL CUAL REFORMA Y ADICIONA (SIC) DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO: El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: Una vez entrado en vigor el presente Decreto, la Secretaría de Servicios Administrativos, en un término de sesenta días naturales emitirá las disposiciones generales, mismas que deberán publicarse en la página electrónica de este H. Congreso del Estado y en el Periódico Oficial del Gobierno.
