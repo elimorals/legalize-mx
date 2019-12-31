@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-y-proteccion-a-la-actividad-artesanal-del-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-25"
-last_updated: "2017-10-25"
+last_updated: "2019-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DESARROLLO Y PROTECCIÓN A LA ACTIVIDAD ARTESANAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Segunda Sección al Número 326 del Periódico Oficial del Estado de Chiapas, el miércoles 25 de octubre de 2017.
 
@@ -128,6 +128,10 @@ X. Recursos Naturales: A todos aquellos bienes naturales renovables y no renovab
 XI. Registro Estatal: Al Registro Estatal de Artesanas y Artesanos.
 
 XII. Reglamento: Al Reglamento de (sic) Ley de Desarrollo y Protección a la Actividad Artesanal del Estado de Chiapas.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XIII. Consejos Municipales: A los Consejos Municipales para Garantizar la Protección y Promoción de las Artesanías, los cuales son un conjunto de personas que se encargan de trabajar coordinadamente para encaminar acciones que favorezcan el crecimiento económico de los artesanos del municipio así como la preservación y difusión de sus artesanías.
 
 ###### Artículo 8.
 
@@ -357,6 +361,50 @@ f (sic)) Programas de difusión de las diferentes técnicas artesanales, así co
 
 g) Talleres o centros de capacitación de técnicas artesanales.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+### Capítulo XII. Consejos Municipales para Garantizar la Protección y Promoción de las Artesanías
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 38.
+
+Los Consejos Municipales, tendrán como prioridad trabajar coordinadamente para preservar el arte tradicional y el crecimiento económico de los artesanos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 39.
+
+El Instituto se encargara de tomar protesta a los Consejos Municipales y vigilar su correcto cumplimiento.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 40.
+
+Los Consejos Municipales, tendrán como estructura un Consejero Presidente del Consejo que será presidido por el Presidente Municipal, un Consejero Vicepresidente quien será preferentemente el Regidor Presidente de la Comisión de Industria, Comercio, Turismo y Artesanías, un Consejero Secretario Ejecutivo quien podrá ser un Director de la administración municipal cuya actividad se relacione directamente con la atención a grupos de artesanos.
+
+Los Consejos Municipales, tendrán seis Consejeros Vocales cuyos titulares serán diferentes representantes de artesanos de los diversos grupos y organizaciones del municipio.
+
+Los cargos del Consejo, serán honoríficos y no vincula de ninguna forma una relación laboral con el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 41.
+
+Los Consejos Municipales, sesionarán cada dos meses a partir de su fecha de instalación y se renovarán cada tres años coincidiendo con cambio de Ayuntamiento en los municipios.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 42.
+
+Todos los miembros de los Consejos Municipales, tendrán voz y voto en la toma de decisiones durante cada sesión y deberán ser plasmados en una minuta de trabajo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 43.
+
+Las minutas de trabajo podrán ser consideradas en el Presupuesto de Egresos Municipal previa aprobación del Cabildo del H. Ayuntamiento Municipal de que se trate.
+
 T r a n s i t o r i o s
 
 Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -378,3 +426,13 @@ Dado en el Salón de Sesiones Sergio Armando Valls Hernández, del Honorable Con
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 23 días del mes de Octubre del año Dos Mil Diecisiete.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 154 POR EL QUE SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 7 Y EL CAPÍTULO XII DENOMINADO “CONSEJOS MUNICIPALES PARA GARANTIZAR LA PROTECCIÓN Y PROMOCIÓN DE LAS ARTESANÍAS” EL CUAL CONTIENE LOS ARTÍCULOS 38, 39, 40, 41, 42 Y 43, DE LA LEY DE DESARROLLO Y PROTECCIÓN DE LA ACTIVIDAD ARTESANAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
