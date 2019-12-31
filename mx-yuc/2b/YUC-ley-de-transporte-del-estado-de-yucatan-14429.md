@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-transporte-del-estado-de-yucatan-14429"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-15"
-last_updated: "2019-12-12"
+last_updated: "2019-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE TRANSPORTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Diario Oficial del estado de Yucatán, el sábado 15 de Mayo de 1999.
 
@@ -113,25 +113,29 @@ XII. Tarifa: Es el precio que paga el usuario por la prestación de un servicio 
 
 XIII. Ruta: Trayecto o recorrido en el cual se presta un servicio público de transporte en el territorio del Estado de Yucatán;
 
-> <small>(ADICIONADA, D.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XIV. Plataforma tecnológica: la plataforma o aplicación informática mediante la cual se contrata el servicio de transporte de pasajeros en dispositivos fijos o móviles;
+XIV. Plataforma tecnológica: la aplicación informática que, mediante dispositivos electrónicos fijos o móviles, permite la contratación del servicio de transporte de pasajeros o de carga;
 
-> <small>(ADICIONADA, D.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XV. Empresa de redes de transporte: la persona moral que, basándose en el desarrollo de las tecnologías de los teléfonos inteligentes y los sistemas de posicionamiento global, promueva, administre u opere la plataforma tecnológica en el estado, ya sea directamente o a través de una filial, subsidiaria o empresa relacionada, en virtud de acuerdos comerciales que tenga celebrados y en vigor;
+XV. Empresa de redes de transporte: la persona física o moral que, basándose en el desarrollo de las tecnologías de los teléfonos inteligentes y los sistemas de posicionamiento global, promueva, administre u opere una plataforma tecnológica en el Estado, ya sea directamente o a través de una filial, subsidiaria o empresa relacionada, en virtud de acuerdos comerciales que tenga celebrados y en vigor;
 
-> <small>(REFORMADA, D.O. 12 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XVI. Constancia: el documento, expedido por el Titular del Ejecutivo del Estado, mediante el cual se autoriza a una empresa de redes de transporte para promover, administrar u operar plataformas tecnológicas;
+XVI. Constancia: el documento, expedido por el Titular del Instituto de Movilidad y Desarrollo Urbano Territorial, mediante el cual se autoriza a una empresa de redes de transporte para promover, administrar u operar plataformas tecnológicas;
 
-> <small>(REFORMADA, D.O. 12 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XVII. Certificado vehicular: el documento, expedido por el Instituto de Movilidad y Desarrollo Urbano Territorial, mediante el cual se autoriza a un operador, y su vehículo, para prestar el servicio de transporte de pasajeros contratado a través de plataformas tecnológicas, y
+XVII. Certificado vehicular: el documento, expedido por el Titular del Instituto de Movilidad y Desarrollo Urbano Territorial, mediante el cual se autoriza a un vehículo para prestar el servicio de transporte de pasajeros o de carga contratado a través de plataformas tecnológicas;
 
-> <small>(ADICIONADA, D.O. 12 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XVIII. Usuario: Es la persona física que usa el servicio de transporte prestado por un concesionario, sujeta a los derechos y obligaciones establecidas en esta ley.
+XVIII. Certificado de operador titular: el documento, expedido por el Titular del Instituto de Movilidad y Desarrollo Urbano Territorial, mediante el cual se autoriza como operador del servicio de transporte de pasajeros o de carga contratado a través de plataformas tecnológicas al propietario o legal poseedor del vehículo con el que se pretende prestar dicho servicio, y
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XIX. Certificado de operador adhesivo: el documento, expedido por el Titular del Instituto de Movilidad y Desarrollo Urbano Territorial, mediante el cual se autoriza como operador del servicio de transporte de pasajeros o de carga contratado a través de plataformas tecnológicas a una persona que pretende prestar dicho servicio con un vehículo que le ha sido cedido para su uso, pero cuya propiedad o legal posesión no le corresponde.
 
 ###### ARTÍCULO 7.
 
@@ -173,9 +177,9 @@ III. El Instituto de Movilidad y Desarrollo Urbano Territorial.
 
 Son atribuciones del Titular del Ejecutivo del Estado:
 
-> <small>(REFORMADA, D.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-I. Otorgar, renovar, suspender o revocar las concesiones y permisos de los servicios de transporte público y particular, según sea el caso, así como las constancias necesarias para que una empresa de redes de transporte promueva, administre u opere plataformas tecnológicas;
+I. Otorgar, renovar, suspender o revocar las concesiones y permisos de los servicios de transporte público y particular, según sea el caso;
 
 II. Aumentar o disminuir el número de las concesiones del servicio público de transporte, según las necesidades de dicho servicio;
 
@@ -227,11 +231,19 @@ V. Implementar las medidas necesarias para evitar que se preste el servicio púb
 
 VI. Nombrar a los Inspectores de Transporte;
 
-> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-VII. Determinar y autorizar, conjuntamente con la Secretaría de Seguridad Pública, la ubicación de los sitios o terminales para la prestación del servicio de transporte así como su reubicación; y
+VII. Determinar y autorizar, conjuntamente con la Secretaría de Seguridad Pública, la ubicación de los sitios o terminales para la prestación del servicio de transporte así como su reubicación;
 
-VIII. Las demás que le confieran esta Ley y su reglamento u otras disposiciones legales aplicables así como aquellas que le delegue el Titular del Ejecutivo del Estado.
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VIII. Suspender temporal o definitivamente el otorgamiento de certificados vehiculares o de certificados de operadores relacionados con las empresas de redes de transporte que hubiesen sido sancionadas por causas atribuibles a estas, de conformidad con el Reglamento de esta Ley;
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
+IX. Otorgar, renovar, suspender o revocar las constancias y los certificados necesarios para la prestación del servicio de transporte de pasajeros o de carga contratado a través de plataformas tecnológicas en el estado, y
+
+X. Las demás que le confieran esta Ley y su reglamento u otras disposiciones legales aplicables así como aquellas que le delegue el Titular del Ejecutivo del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
@@ -285,9 +297,9 @@ VI. Vigilar el cumplimiento de las disposiciones de esta Ley y su reglamento y a
 
 VII. Practicar u ordenar la práctica de visitas de inspección a fin de verificar sistemáticamente la operación de las concesiones y permisos;
 
-> <small>(REFORMADA, D.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-VIII. Emitir, con base en las inspecciones efectuadas, solicitudes y recomendaciones a las empresas de redes de transporte, los concesionarios, los permisionarios y los operadores del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas, para el cumplimiento de esta ley y demás disposiciones legales y normativas aplicables;
+VIII. Emitir, con base en las inspecciones efectuadas, solicitudes y recomendaciones a los concesionarios, los permisionarios, las empresas de redes de transporte y los operadores del servicio de transporte de pasajeros o de carga contratado a través de plataformas tecnológicas, para el cumplimiento de esta Ley y demás disposiciones legales y normativas aplicables;
 
 IX. Otorgar los permisos especiales a que hace referencia esta Ley;
 
@@ -297,23 +309,21 @@ X. Diseñar e instrumentar programas de seguridad en materia de transporte;
 
 XI. Vigilar que los prestadores del servicio de transporte, tanto público como particular cumplan con el perfil y demás requisitos que establezca el reglamento de esta Ley;
 
-> <small>(REFORMADA, D.O. 22 DE JUNIO DE 2016)</small>
+XII. (DEROGADA, D.O. 31 DE DICIEMBRE DE 2019)
 
-XII. Expedir, renovar, suspender o cancelar el certificado vehicular;
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADA, D.O. 22 DE JUNIO DE 2016)</small>
-
-XIII. Proponer e implementar políticas, estrategias y acciones para mejorar la organización y el funcionamiento del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas;
+XIII. Proponer e implementar políticas, estrategias y acciones para mejorar la organización y el funcionamiento del servicio de transporte de pasajeros o de carga contratado a través de plataformas tecnológicas;
 
 > <small>(ADICIONADA, D.O. 22 DE JUNIO DE 2016)</small>
 
 XIV. Solicitar fundada y motivadamente la información necesaria para el adecuado ejercicio de sus atribuciones, y proporcionar la que le corresponda, en cumplimiento de las obligaciones de confidencialidad y protección de datos de las partes involucradas;
 
-> <small>(ADICIONADA, D.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XV. Determinar el número de vehículos que podrán prestar el servicio de transporte de pasajeros contratado a través de plataformas tecnológicas, según las necesidades de dicho servicio; y
+XV. Determinar el número de vehículos que podrán prestar el servicio de transporte de pasajeros o de carga contratado a través de plataformas tecnológicas, según las necesidades del servicio y las condiciones viales y de movilidad del estado; y
 
-> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 XVI. Las demás que le señalen esta ley, su reglamento y otros ordenamientos legales aplicables.
 
@@ -341,9 +351,9 @@ I. De pasajeros; y
 
 II. De carga.
 
-> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-El tipo de transporte de pasajeros se subdivide en público, particular y contratado a través de plataformas tecnológicas. El tipo de transporte de carga se subdivide en público y particular.
+El tipo de transporte de pasajeros se subdivide en público, particular y contratado a través de plataformas tecnológicas. El tipo de transporte de carga se subdivide en público, particular y contratado a través de plataformas tecnológicas.
 
 Las clasificaciones específicas de cada tipo de transporte, las características de los servicios y de los vehículos así como las restricciones para cada caso se establecerán en el reglamento de esta Ley.
 
@@ -367,9 +377,9 @@ III. Las concesiones y permisos que amparen el servicio de transporte público o
 
 IV. Las pólizas de seguro a que se hace referencia en esta Ley, y
 
-> <small>(ADICIONADA, D.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-V. Las constancias y los certificados vehiculares necesarios para la prestación del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas.
+V. Las constancias y los certificados relacionados con la prestación del servicio de transporte de pasajeros o de carga contratado a través de plataformas tecnológicas.
 
 ###### ARTÍCULO 19.
 
@@ -395,7 +405,9 @@ El servicio de transporte de pasajeros tendrá por objeto el traslado seguro y o
 
 Los vehículos destinados al servicio de transporte de pasajeros deberán contar con seguros a favor del pasajero y contra daños a terceros, o cualquier otro que garantice la protección de las personas, de conformidad con lo que establezca el reglamento de esta Ley.
 
-En cualquier caso, las empresas de redes de transporte, en el supuesto de que el seguro a que se refiere este artículo no se encuentre vigente, serán consideradas obligados solidarios de los operadores del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas, frente al Estado, los usuarios del servicio y terceros, por la responsabilidad civil que pudiera surgir con motivo de su operación, únicamente hasta por un monto igual a las sumas aseguradas en la póliza de seguro del vehículo que deberán entregar los operadores a estas empresas.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
+En cualquier caso, las empresas de redes de transporte, en el supuesto de que el seguro a que se refiere este artículo no se encontrase vigente, serán consideradas obligados solidarios de los operadores del servicio de transporte de pasajeros o de carga contratado a través de plataformas tecnológicas frente al Estado, los usuarios del servicio y terceros, por la responsabilidad civil que pudiera surgir con motivo de su operación, únicamente hasta por un monto igual a las sumas aseguradas en la póliza de seguro del vehículo que deberán entregar los operadores a estas empresas, para su inscripción.
 
 > <small>(REFORMADO, D.O. 22 DE JUNIO DE 2016)</small>
 
@@ -403,11 +415,11 @@ En cualquier caso, las empresas de redes de transporte, en el supuesto de que el
 
 Los vehículos que presten el servicio de transporte de pasajeros no deberán ser abastecidos de combustible con pasajeros a bordo.
 
-> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 24.
 
-Los Inspectores de Transporte o los elementos policiales de la Secretaria de Seguridad Pública del Estado podrán impedir la circulación, así como retener y remitir a los depósitos correspondientes, cualquier vehículo que preste el servicio de transporte de pasajeros sin contar con concesión, permiso o certificado vehicular o bien, contando con estos, viole de manera flagrante alguna de las infracciones establecidas en el reglamento de esta Ley.
+Los Inspectores de Transporte o los elementos policiales de la Secretaría de Seguridad Pública podrán impedir la circulación así como retener y remitir a los depósitos correspondientes cualquier vehículo que preste el servicio de transporte de pasajeros sin contar con concesión, permiso, certificado vehicular o certificado de operador vigente, o bien, contando con estos, viole de manera flagrante alguna de las infracciones establecidas en esta Ley o su reglamento.
 
 > <small>(REFORMADO, D.O. 22 DE JUNIO DE 2016)</small>
 
@@ -421,15 +433,21 @@ Los vehículos e instalaciones del servicio de transporte de pasajeros deberán 
 
 El transporte de carga tiene por objeto el traslado de mercancías, materiales de construcción, animales y, en general, de objetos, utilizando vehículos abiertos o cerrados que garanticen debidamente la entrega oportuna de los mismos, así como su conservación durante el trayecto.
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 27.
 
-Las maniobras de carga y descarga deben realizarse dentro de predios o negociaciones que cuenten con rampa o acceso adecuado y con espacio interior suficiente. Como excepción, la Secretaría de Seguridad Pública podrá autorizar la realización de dichas maniobras en las vías públicas en los lugares y horarios apropiados, a fin de evitar que se entorpezcan los flujos peatonales y de automotores.
+Las maniobras de carga y descarga deben realizarse dentro de predios o negociaciones que cuenten con rampa o acceso adecuado y con espacio interior suficiente. Como excepción, la Secretaría de Seguridad Pública o el Instituto de Movilidad y Desarrollo Urbano Territorial, en los casos que determine el Reglamento de esta Ley, podrán autorizar la realización de dichas maniobras en las vías públicas, en los lugares y horarios apropiados, a fin de evitar que se entorpezca el tránsito y se dañe la vía pública.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 28.
 
-Se prohibe la circulación de vehículos destinados a la prestación del servicio de transporte de carga, tanto público como particular, cuando ésta no cumpla las condiciones que establezca el reglamento de esta Ley.
+Los vehículos destinados a la prestación del servicio de transporte de carga podrán transitar por las vías del Estado, siempre y cuando no excedan el peso, las medidas y las demás características que determine el Reglamento de esta Ley.
+
+Cuando la capacidad de un vehículo destinado a la prestación del servicio de transporte de carga sea de tres toneladas de peso o más, dicho vehículo, para su tránsito por las vías del Estado y el desarrollo de las maniobras de carga y descarga correspondientes, requerirá de la autorización de la Secretaría de Seguridad Pública o del Instituto de Movilidad y Desarrollo Urbano Territorial, según corresponda, de acuerdo con el Reglamento de esta Ley.
+
+La autorización a que se refiere el párrafo anterior podrá ser otorgada por maniobra o de manera anual, según sea el caso, previo pago del derecho correspondiente, en términos de la Ley General de Hacienda del Estado de Yucatán.
 
 > <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
@@ -437,13 +455,15 @@ Se prohibe la circulación de vehículos destinados a la prestación del servici
 
 Las personas encargadas de la inspección de transporte, y las y los agentes de la Secretaría de Seguridad Pública podrán impedir la circulación de un vehículo destinado al servicio público o particular de carga, cuando este se preste fuera de ruta u horario, con exceso de peso o dimensiones, o cuando se viole de manera flagrante alguna disposición de esta ley o su reglamento.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ### CAPÍTULO I. DE LAS CONCESIONES
 
-## TÍTULO TERCERO. DE LAS CONCESIONES, PERMISOS, CONSTANCIAS Y CERTIFICADOS VEHICULARES
+## TÍTULO TERCERO. DE LAS CONCESIONES, PERMISOS, CONSTANCIAS Y CERTIFICADOS
 
 ### CAPÍTULO II. DE LOS PERMISOS
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 30.
 
@@ -549,53 +569,63 @@ XIV. Respetar los derechos de los usuarios establecidos en esta ley, y
 
 XV. Las demás que señalen esta ley, su reglamento, la concesión y otras disposiciones legales aplicables.
 
-### CAPÍTULO II BIS. DE LA CONSTANCIA
+### CAPÍTULO II BIS. DE LAS CONSTANCIAS
 
-> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-ARTÍCULO 40 BIS. Solo podrán operar en el estado las empresas que cuenten con una constancia, la cual será expedida por el Titular del Ejecutivo del Estado, previo cumplimiento del procedimiento establecido en el reglamento de esta Ley.
+ARTÍCULO 40 BIS. Solo podrán operar en el estado las empresas de redes de transporte que cuenten con una constancia, la cual será expedida por el Titular del Instituto de Movilidad y Desarrollo Urbano Territorial, previo cumplimiento del procedimiento establecido en el Reglamento de esta Ley.
 
-La constancia tendrá una vigencia de diez años y podrá ser renovada siempre que se cumplan los mismos requisitos previstos en esta Ley para su expedición.
+La constancia tendrá una vigencia anual y podrá ser renovada siempre que se cumplan los mismos requisitos previstos en esta Ley para su expedición.
 
-> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ARTÍCULO 40 TER. Para obtener la constancia, se deberán cumplir con los siguientes requisitos:
 
-I. Copia certificada del acta constitutiva de la empresa que acredite que está legalmente constituida e inscrita para operar en el país y que tiene por objeto social, entre otros, desarrollar plataformas tecnológicas o prestar servicios informáticos que permitan la intermediación con particulares para la contratación del servicio de transporte de pasajeros a través de dichas plataformas o servicios de asistencia técnica, consultoría, administración y promoción a sociedades titulares de estas;
+I. En caso de tratarse de una persona moral, copia certificada del acta constitutiva de la empresa que acredite que está legalmente constituida e inscrita para operar en el país y que tiene por objeto social, entre otros, promover o desarrollar plataformas tecnológicas o prestar servicios informáticos que permitan la intermediación con particulares para la contratación del servicio de transporte de pasajeros o de carga a través de dichas plataformas o servicios de asistencia técnica, consultoría, administración y promoción a sociedades titulares de estas; el número y las fechas de las escrituras públicas en las que conste el acta constitutiva y, en su caso, sus reformas o modificaciones; y los datos de inscripción en el Registro Público de la Propiedad y del Comercio;
 
-II. Comprobante de domicilio en el estado para oír y recibir notificaciones;
+II. En caso de tratarse de una persona física, acta de nacimiento, identificación oficial vigente y copia de la última declaración anual del Impuesto sobre la Renta;
 
-III. Claves del registro federal y estatal de contribuyentes;
+III. Comprobante de domicilio en el estado para oír y recibir notificaciones;
 
-IV. Nombre de la plataforma tecnológica, su abreviatura, y la descripción general de su funcionamiento;
+IV. Clave del Registro Federal de Contribuyentes, de conformidad con las disposiciones legales y normativas aplicables en materia fiscal;
 
-V. Nombre, identificación oficial vigente y datos de contacto del representante legal, así como copia certificada del documento que lo acredite como tal, y
+V. Nombre de la plataforma tecnológica, su abreviatura, y la descripción general de su funcionamiento;
 
-VI. Correo electrónico así como, en su caso, la manifestación de voluntad del solicitante de recibir notificaciones por este medio.
+VI. Nombre, identificación oficial vigente y datos de contacto del representante legal, así como copia certificada del documento que lo acredite como tal;
 
-> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2016)</small>
+VII. Correo electrónico así como, en su caso, la manifestación de voluntad del solicitante de recibir notificaciones por este medio;
 
-ARTÍCULO 40 QUATER. Las empresas de redes de transporte tienen las siguientes obligaciones:
+VIII. Copia de la declaración fiscal correspondiente al ejercicio fiscal inmediato anterior. En el caso de empresas de redes de transporte de nueva creación, el documento más actualizado que acredite su capital contable;
+
+IX. Documento que acredite a la persona como propietaria, subsidiaria o licenciataria de plataformas tecnológicas que le permitan promover, administrar u operar redes de transporte, y
+
+X. Comprobante de pago anual del derecho correspondiente, en términos de la Ley General de Hacienda del Estado de Yucatán.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 40 QUATER. Las empresas de redes de transporte que presten el servicio a través de plataformas tecnológicas tienen las siguientes obligaciones:
 
 I. Contar con la constancia vigente;
 
-> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+II. Permitir el uso de sus plataformas tecnológicas únicamente a las personas que cuenten con el certificado vehicular y con el certificado de operador correspondiente, expedidos por el Instituto de Movilidad y Desarrollo Urbano Territorial;
 
-II. Permitir el uso de sus plataformas tecnológicas únicamente a las personas que cuenten con el certificado vehicular expedido por el Instituto de Movilidad y Desarrollo Urbano Territorial;
+III. Proporcionar mensualmente al Instituto de Movilidad y Desarrollo Urbano Territorial la relación de operadores titulares y adhesivos, y de vehículos inscritos en sus bases de datos, así como cualquier otra información disponible que les solicite, principalmente, por motivos de seguridad;
 
-> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+IV. Conservar la información relacionada con sus asociados, operadores, vehículos, usuarios, traslados, transacciones y, en general, con su operación, por lo menos, doce meses anteriores al ejercicio fiscal correspondiente;
 
-III. Proporcionar mensualmente al Instituto de Movilidad y Desarrollo Urbano Territorial el registro de operadores y vehículos inscritos en sus bases de datos, así como cualquier otra información disponible que le solicite por motivos de seguridad o de control fiscal;
+V. Abstenerse de divulgar información personal de alguno de sus usuarios, salvo que la persona otorgase el debido consentimiento o lo solicitase por escrito la autoridad facultada para ello;
 
-IV. Informar oportunamente a la autoridad competente sobre cualquier irregularidad en la prestación del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas o el incumplimiento de esta ley u otras disposiciones legales y normativas aplicables, particularmente, en materia de tránsito y vialidad de la que tengan conocimiento, y
+VI. Informar oportunamente a la autoridad competente sobre cualquier irregularidad en la prestación del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas o el incumplimiento de esta Ley u otras disposiciones legales y normativas aplicables, particularmente, en materia de salud y tránsito y vialidad del que tengan conocimiento;
 
-V. Realizar los cobros por la prestación del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas, exclusivamente, mediante el pago por tarjeta de crédito o débito emitida por institución bancaria autorizada.
+VII. Aportar mensualmente el 1.5% de cada servicio de transporte de pasajeros que presten los operadores inscritos en sus bases de datos y que estará destinado al Fondo Estatal para la Movilidad previsto en esta Ley, y
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 22 DE JUNIO DE 2016)</small>
+VIII. Enviar por correo electrónico al usuario, una vez concluido el servicio prestado, un recibo con la información de dicho servicio, de conformidad con los elementos que disponga el Reglamento de esta Ley.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 36.
 
-Para la prestación del servicio particular de transporte, las personas físicas o morales deberán contar con permiso, el cual será otorgado por el Ejecutivo del Estado previa satisfacción de los requisitos y cubiertas las formalidades que se establecen en esta Ley y su reglamento.
+Para la prestación del servicio particular de transporte, las personas físicas o morales deberán contar con permiso, el cual será otorgado por el Titular del Instituto de Movilidad y Desarrollo Urbano Territorial, previa satisfacción de los requisitos y cubiertas las formalidades que se establecen en esta Ley y su Reglamento.
 
 ###### ARTÍCULO 37.
 
@@ -613,7 +643,9 @@ II. Acreditar que los vehículos destinados al servicio son de su propiedad o di
 
 III. Acreditar la internación y permanencia legal en el país de los vehículos de procedencia extranjera que se pretendan utilizar en la prestación del servicio particular de transporte, con los documentos expedidos por la autoridad correspondiente;
 
-IV. Presentar su cédula de inscripción en el Registro Federal de Contribuyentes; y
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
+IV. Pagar el derecho correspondiente, en términos de la Ley General de Hacienda del Estado de Yucatán;
 
 V. Los demás que señale el reglamento de esta Ley.
 
@@ -621,9 +653,11 @@ Si el solicitante del permiso fuere una persona moral, además de los requisitos
 
 El procedimiento, las formalidades y los plazos aplicables para el otorgamiento de los permisos, se establecerán en el reglamento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 38.
 
-Los permisos se otorgarán por un plazo máximo de dos años.
+Los permisos podrán ser otorgados por evento o traslado, o de manera anual.
 
 Los permisos otorgados podrán ser renovados en una o varias ocasiones, siempre que cada una de dichas renovaciones no exceda el plazo a que se refiere este artículo y que el permisionario:
 
@@ -675,21 +709,41 @@ XI. Proporcionar a las autoridades toda la información que les sea requerida; y
 
 XII. Las demás que señalen esta Ley, su reglamento, el permiso y otras disposiciones legales aplicables.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO II TER. DEL CERTIFICADO VEHICULAR
+### CAPÍTULO II TER. DE LOS CERTIFICADOS VEHICULARES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-ARTÍCULO 40 QUINQUIES. El servicio de transporte de pasajeros contratado a través de plataformas tecnológicas solo podrá ser prestado por quienes cuenten con certificado vehicular, expedido por el Instituto de Movilidad y Desarrollo Urbano Territorial, previo cumplimiento del procedimiento establecido en el reglamento de esta ley.
+ARTÍCULO 40 QUINQUIES. El servicio de transporte de pasajeros o de carga contratado a través de plataformas tecnológicas solo podrá ser prestado en vehículos que cuenten con certificado vehicular, expedido por el Titular del Instituto de Movilidad y Desarrollo Urbano Territorial, previo cumplimiento del procedimiento correspondiente establecido en el Reglamento de esta Ley.
 
-> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2016)</small>
+El servicio de transporte de pasajeros contratado a través de plataformas tecnológicas solo podrá ser prestado en vehículos automotores de cuatro ruedas, los cuales requerirán certificado vehicular para prestar el servicio. Para el caso del servicio de transporte de carga contratado a través de plataformas tecnológicas, requerirán certificado vehicular los vehículos automotores que lo presten.
 
-El certificado vehicular tendrá una vigencia de un año y podrá ser renovado siempre que se cumplan los mismos requisitos previstos en esta Ley para su expedición.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2016)</small>
+ARTÍCULO 40 SEXIES. El certificado vehicular será expedido a favor del propietario o legal poseedor del vehículo con el que se pretenda prestar el servicio de transporte de pasajeros o de carga contratado a través de plataformas tecnológicas, siempre y cuando cumpla con los siguientes requisitos:
 
-ARTÍCULO 40 SEXIES. Para obtener el certificado vehicular, se deberán cumplir los siguientes requisitos:
+I. Acreditar la propiedad o legal posesión del vehículo con el que se pretende prestar el servicio de transporte de pasajeros o de carga contratado a través de plataformas tecnológicas;
+
+II. En el caso de vehículos para la prestación del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas, que el año modelo, de fabricación o ejercicio automotriz del vehículo no sea anterior a siete años; que tenga máximo siete plazas, incluyendo al operador, mínimo dos puertas, cinturones de seguridad en condiciones de uso para todos los pasajeros, bolsas de aire delanteras; y que el vehículo cumpla con los requisitos administrativos para su circulación previstos en la Ley de Tránsito y Vialidad del Estado de Yucatán, y su reglamento;
+
+III. Entregar una copia de la póliza del seguro vehicular a que se refiere el artículo 22 de esta ley, y
+
+IV. Pagar anualmente el derecho correspondiente, en términos de la Ley General de Hacienda del Estado de Yucatán.
+
+El certificado vehicular tendrá una vigencia anual y podrá ser renovado siempre que se cumplan con los requisitos previstos en este artículo para su expedición.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO II QUATER. DE LOS CERTIFICADOS DE OPERADORES
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 40 SEPTIES. El servicio de transporte de pasajeros o de carga contratado a través de plataformas tecnológicas solo podrá ser prestado por quienes cuenten con certificado de operador titular o adhesivo, expedido por el Titular del Instituto de Movilidad y Desarrollo Urbano Territorial, previo cumplimiento del procedimiento correspondiente establecido en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 40 OCTIES. Para obtener el certificado de operador titular o el certificado de operador adhesivo, se deberán cumplir con los siguientes requisitos:
 
 I. Ser mayor de edad;
 
@@ -705,33 +759,37 @@ VI. Contar con licencia de conducir vigente, expedida en el estado, en los térm
 
 VII. Estar registrado ante una empresa de redes de transporte;
 
-VIII. Ser propietario del vehículo mediante el cual se prestará el servicio de transporte de pasajeros contratado a través de plataformas tecnológicas, y
+VIII. Presentar el certificado vehicular correspondiente, en caso de ser operador titular, o la autorización por escrito del propietario o legal poseedor del vehículo con el que se pretende prestar el servicio de transporte de pasajeros o de carga contratado a través de plataformas tecnológicas, en caso de ser operador adhesivo, y
 
-IX. Que el valor del vehículo exceda de dos mil setecientas cincuenta unidades de medida y actualización; que su año modelo o de fabricación o ejercicio automotriz no sea anterior a siete años; que tenga máximo siete plazas, incluyendo al operador, mínimo cuatro puertas, cinturones de seguridad en condiciones de uso para todos los pasajeros, bolsas de aire delanteras, aire acondicionado y equipo de sonido; y que el vehículo cumpla con los requisitos administrativos para su circulación previstos en la Ley de Tránsito y Vialidad del Estado de Yucatán, y su reglamento.
+IX. Pagar anualmente el derecho correspondiente, en términos de la Ley General de Hacienda del Estado de Yucatán.
 
-> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2016)</small>
+La solicitud para obtener el certificado de operador titular o el certificado de operador adhesivo podrá ser presentada por la persona interesada, o bien, por la empresa de transporte en la que dicha persona esté inscrita.
 
-ARTÍCULO 40 SEPTIES. Los operadores del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas tienen las siguientes obligaciones:
+El certificado de operador, ya sea titular o adhesivo, tendrá una vigencia anual y podrá ser renovado siempre que se cumplan con los requisitos previstos en este artículo para su expedición.
 
-I. Contar y portar, durante la prestación del servicio, el certificado vehicular vigente;
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 40 NONIES. Los operadores del servicio de transporte de pasajeros o de carga contratado a través de plataformas tecnológicas tienen las siguientes obligaciones:
+
+I. Contar y portar, durante la prestación del servicio, el certificado vehicular y el certificado de operador vigentes;
 
 II. Abstenerse de prestar el servicio bajo la influencia de alcohol o sustancias psicotrópicas, estupefacientes o que produzcan efectos similares;
 
-III. Prestar el servicio de conformidad con la tarifa, la ruta y demás términos y condiciones del contrato, así como con las disposiciones establecidas en la Ley de Tránsito y Vialidad del Estado de Yucatán, y su reglamento;
-
-> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+III. Prestar el servicio de conformidad con la tarifa, la ruta de traslado y demás términos y condiciones del contrato, así como con las disposiciones establecidas en la Ley de Tránsito y Vialidad del Estado de Yucatán, y su reglamento;
 
 IV. Someterse a las inspecciones que requiera el Instituto de Movilidad y Desarrollo Urbano Territorial para verificar el cumplimiento de esta ley y demás disposiciones legales y normativas aplicables;
 
-V. Informar a la autoridad competente sobre cualquier irregularidad en la prestación del servicio de transporte de pasajeros contratado mediante plataformas tecnológicas o el incumplimiento de esta ley u otras disposiciones legales y normativas aplicables;
+V. Informar a la autoridad competente sobre cualquier irregularidad en la prestación del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas o el incumplimiento de esta ley u otras disposiciones legales y normativas aplicables;
 
-VI. Abstenerse de realizar cobros en dinero en efectivo o cualquier otro medio distinto al pago por tarjeta de crédito o débito emitida por institución bancaria autorizada;
+VI. Abstenerse de realizar, por el servicio que prestan, oferta directa en la vía pública;
 
-VII. Abstenerse de realizar, por el servicio que prestan, oferta directa en la vía pública ni base, sitio o similares;
+VII. Abstenerse de hacer base, sitio o similares, en el caso de los operadores del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas;
 
-VIII. Fijar en un lugar visible el holograma que identifique a los vehículos destinados a la prestación del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas, y
+VIII. Cubrir las contribuciones que le correspondan en términos de las disposiciones legales y normativas aplicables en materia fiscal;
 
-IX. Entregar una copia de la póliza del seguro vehicular a que se refiere el artículo 22 de esta Ley.
+IX. Abstenerse de subarrendar el vehículo o los vehículos registrados, y
+
+X. Contar con el elemento que disponga el Instituto de Movilidad y Desarrollo Urbano Territorial o, en su caso, la Secretaría de Seguridad Pública, para su identificación como operadores del servicio de transporte de pasajeros o de carga contratado a través de plataformas tecnológicas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 22 DE JUNIO DE 2016)</small>
 
@@ -743,7 +801,7 @@ IX. Entregar una copia de la póliza del seguro vehicular a que se refiere el ar
 
 ### CAPÍTULO II. DE LOS PESOS Y MEDIDAS Y DE LAS DEMÁS CARACTERÍSTICAS DE LOS VEHÍCULOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ### CAPÍTULO III. DE LAS MEDIDAS DE SEGURIDAD
 
@@ -752,8 +810,6 @@ IX. Entregar una copia de la póliza del seguro vehicular a que se refiere el ar
 ### CAPÍTULO I. DE LOS USUARIOS DEL SERVICIO DE TRANSPORTE DE PASAJEROS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE DICIEMBRE DE 2019)</small>
-
-### CAPÍTULO II. DE LOS USUARIOS DEL SERVICIO PÚBLICO DE TRANSPORTE DE CARGA
 
 ###### ARTÍCULO 41.
 
@@ -779,11 +835,11 @@ Los vehículos autorizados mediante concesión o permiso para la prestación de 
 
 La expedición y renovación de la placa a que se refiere el párrafo anterior, se sujetará a lo que disponga la legislación aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 43.
 
-Las concesiones, permisos, constancias o certificados vehiculares terminan por:
+Las concesiones, permisos, constancias o certificados terminan por:
 
 I. Expiración del plazo por el que se hubiere otorgado;
 
@@ -815,15 +871,13 @@ I. No iniciar la prestación del servicio dentro del plazo señalado para tal ef
 
 II. Suspender la prestación del servicio público o particular de transporte por causas imputables al titular durante un plazo mayor de treinta días;
 
-> <small>(REFORMADA, D.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-III. Hipotecar o de cualquier manera gravar la concesión, el permiso, la constancia, el certificado vehicular o alguno de los derechos en ellos establecidos, o bienes afectos al servicio de que se trate, sin la previa autorización del Ejecutivo del Estado;
+III. Hipotecar o de cualquier manera gravar la concesión, el permiso, la constancia, el certificado o alguno de los derechos en ellos establecidos, o los bienes afectos al servicio de que se trate, sin la previa autorización del Ejecutivo del Estado;
 
-> <small>(REFORMADA, D.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-IV. Ceder, enajenar o de cualquier manera transferir la constancia o el certificado vehicular o alguno de los derechos establecidos en estos, o los bienes afectos al servicio correspondiente, o bien realizar dichos actos sin notificar previamente al Poder Ejecutivo, cuando se trate de concesiones o permisos. En la notificación se deberá acreditar que el adquirente cumple con los requisitos establecidos en esta Ley, en su Reglamento y en la concesión para operar el servicio de que se trate;
-
-En la notificación se deberá acreditar que el adquirente cumple con los requisitos establecidos en esta Ley, en su Reglamento y en la concesión, para operar el servicio de que se trate.
+IV. Ceder, enajenar o de cualquier manera transferir la constancia o el certificado o alguno de los derechos establecidos en estos, o los bienes afectos al servicio de que se trate, o bien, realizar dichos actos sin notificar previamente al Poder Ejecutivo, cuando se trate de concesiones o permisos;
 
 V. No acatar las disposiciones relativas a modificaciones a la concesión, conforme a esta Ley y su reglamento, para la prestación del servicio de transporte;
 
@@ -835,39 +889,39 @@ VII. No cubrir las indemnizaciones por daños que se originen con motivo de la p
 
 VIII. No cumplir con lo dispuesto en los artículos 34 y 39 de esta Ley;
 
-> <small>(REFORMADA, D.O. 12 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 IX. Prestar un servicio distinto del autorizado;
 
-> <small>(ADICIONADA, D.O. 12 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-X. Violar reiteradamente alguno de los derechos del usuario establecidos en el artículo 77 de esta ley, y
+X. Cometer infracciones graves en más de dos ocasiones a las disposiciones establecidas en esta Ley, su Reglamento y la concesión, que no sean causas específicas de revocación, de conformidad con lo señalado en las fracciones anteriores, y
 
-> <small>(REFORMADA, D.O. 12 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XI. Cometer infracciones graves en más de dos ocasiones a las disposiciones establecidas en esta ley, su reglamento y la concesión, que no sean causas específicas de revocación, de conformidad con las fracciones anteriores.
+XI. No cubrir las aportaciones previstas en esta Ley para integrar el Fondo Estatal para la Movilidad, cuando se trate de constancias.
 
-> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 45.
 
-Las personas que hayan sido sancionadas con la revocación no podrán solicitar de nuevo concesión, permiso, constancia o certificado vehicular para prestar el servicio de transporte, hasta transcurridos tres años a partir de la fecha en que la revocación hubiera quedado firme.
+Las personas que hubiesen sido sancionadas con la revocación no podrán solicitar de nuevo concesión, permiso, constancia o certificado para prestar el servicio de transporte, hasta transcurridos tres años a partir de la fecha en que la revocación hubiese quedado firme.
 
-> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 46.
 
-El Ejecutivo del Estado podrá suspender la concesión, permiso, constancia o certificado vehicular otorgados, por infracciones graves a esta Ley y a su reglamento.
+El Ejecutivo del Estado podrá suspender la concesión, permiso, constancia o certificado otorgados, por infracciones graves a esta Ley y a su Reglamento.
 
-> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 47.
 
-Para los casos en que por causas imputables a su titular, la concesión, permiso, constancia o certificado vehicular no hayan sido renovadas al concluir su vigencia, este no podrá continuar prestando el servicio autorizado.
+Para los casos en que, por causas imputables a su titular, la concesión, permiso, constancia o certificado no hubiese sido renovado al concluir su vigencia, dicho titular no podrá continuar prestando el servicio autorizado.
 
 ## TÍTULO CUARTO. DE LAS CARACTERÍSTICAS DEL TRANSPORTE Y DE LAS MEDIDAS DE SEGURIDAD
 
-### CAPÍTULO III. DE LAS RESPONSABILIDADES
+### CAPÍTULO II. DE LOS USUARIOS DEL SERVICIO PÚBLICO DE TRANSPORTE DE CARGA
 
 ###### ARTÍCULO 48.
 
@@ -887,23 +941,19 @@ Las tarifas que los concesionarios cobren por la prestación del servicio públi
 
 Las tarifas, una vez aprobadas, se publicarán para su cumplimiento en el Diario Oficial del Gobierno del Estado. Asimismo, los concesionarios, una vez publicadas, deberán exhibirlas en lugares visibles en sus terminales y vehículos.
 
-### CAPÍTULO I. DE LA INSPECCIÓN Y VIGILANCIA
-
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+### CAPÍTULO III. DE LAS RESPONSABILIDADES
 
 ###### ARTÍCULO 52.
 
-Cuando se requiera transportar maquinaria pesada u otros objetos cuyas dimensiones o peso excedan de lo autorizado en el reglamento de esta ley, las personas concesionarias o permisionarias deberán obtener un permiso especial que será expedido por el Instituto de Movilidad y Desarrollo Urbano Territorial, el cual tendrá una vigencia limitada y contendrá las especificaciones siguientes:
+Cuando se requiera transitar por las vías del estado para transportar maquinaria pesada u otros objetos cuyas dimensiones o la capacidad de carga del vehículo que los transporta sea de tres toneladas o más, las personas concesionarias o permisionarias deberán obtener, en términos del artículo 28 de esta Ley, un permiso especial, que será expedido por la Secretaría de Seguridad Pública o el Instituto de Movilidad y Desarrollo Urbano Territorial, según corresponda, de acuerdo con el Reglamento de esta Ley, el cual tendrá una vigencia limitada y contendrá las especificaciones siguientes:
 
 a) Tipo de carga a transportar; y
 
 b) Ruta a seguir.
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
-
 ###### ARTÍCULO 53.
 
-Para que transiten en las vías terrestres estatales los vehículos destinados al servicio público o particular de transporte de carga cuya capacidad útil mínima sea de tres mil kilogramos o mayor, quienes sean concesionarios deberán obtener un certificado de pesos, dimensiones y medidas, expedido por la Secretaría de Seguridad Pública.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 2019)
 
 > <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
@@ -913,7 +963,7 @@ Para que las unidades destinadas al servicio público o particular de transporte
 
 ###### ARTÍCULO 55.
 
-Los certificados a que hacen referencia los artículos anteriores deberán ser renovados anualmente.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 2019)
 
 ###### ARTÍCULO 56.
 
@@ -935,9 +985,33 @@ La antigüedad máxima que deben tener los vehículos destinados al servicio pú
 
 Los vehículos destinados a la prestación de los servicios públicos de pasajeros y de carga, no deberán portar o exhibir rótulos o anuncios que atenten contra la moral y las buenas costumbres o que tiendan a fomentar el consumo de productos que puedan causar daños a la salud.
 
-### CAPÍTULO II. DE LAS SANCIONES
+### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 84 BIS. El Fondo Estatal para la Movilidad tiene por objeto contribuir a la viabilidad presupuestal de las acciones encaminadas a mejorar las condiciones de infraestructura, equipamiento, seguridad y cultura viales, para disminuir los costos derivados del transporte y propiciar la movilidad sostenible en Yucatán.
+
+La administración y operación del Fondo Estatal para la Movilidad estará a cargo del Instituto de Movilidad y Desarrollo Urbano Territorial, en términos de las disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 84 TER. El patrimonio del Fondo Estatal para la Movilidad estará integrado por los siguientes recursos:
+
+I. Los recursos que le sean asignados o transferidos conforme al Presupuesto de Egresos del Gobierno del Estado de Yucatán;
+
+II. Los recursos que le asignen o transfieran los Gobiernos federal, estatales o municipales;
+
+III. Los bienes muebles e inmuebles, y derechos que adquiera por cualquier título legal;
+
+IV. Los ingresos que se generen por su operación o por las inversiones de sus recursos;
+
+V. Las utilidades, intereses, dividendos y rendimientos de sus bienes y derechos, y
+
+VI. Los recursos que aporten las empresas de redes de transporte, en términos de la fracción VII del artículo 40 Quater de esta Ley.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 84 QUATER. El Fondo Estatal para la Movilidad operará de acuerdo con las reglas de operación que expida para tal efecto el Instituto de Movilidad y Desarrollo Urbano Territorial y, en el caso de recursos provenientes de fuentes federales, estatales o municipales, en términos de los convenios de (sic) se celebren al respecto.
 
 ###### ARTÍCULO 60.
 
@@ -968,6 +1042,10 @@ I. A los concesionarios y permisionarios;
 II. A los conductores de vehículos del servicio de transporte, tanto público como particular; y
 
 III. A los Inspectores de Transporte.
+
+### CAPÍTULO I. DE LA INSPECCIÓN Y VIGILANCIA
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 65.
 
@@ -1034,6 +1112,10 @@ En ningún caso podrá autorizarse a los operadores la realización de paradas d
 En el caso del servicio de transporte foráneo de pasajeros, sólo se permitirá, dentro de los centros de población, el ascenso y descenso de personas en las terminales o sitios que se hayan habilitado para ello, por lo que por ningún motivo se permitirán las paradas intermedias en las zonas urbanas.
 
 ## TÍTULO QUINTO. DE LOS USUARIOS
+
+### CAPÍTULO II. DE LAS SANCIONES
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 74.
 
@@ -1169,6 +1251,12 @@ IV. Cuando los bienes se transporten, a petición escrita del usuario, en vehíc
 
 V. Cuando sean falsas las declaraciones o instrucciones del usuario, o destinatario de los bienes, respecto del contenido de la carga.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
+## TÍTULO QUINTO BIS. DEL FONDO ESTATAL PARA LA MOVILIDAD
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ## TÍTULO SEXTO. DEL PROCEDIMIENTO EN MATERIA DE TRANSPORTE
 
 ###### ARTÍCULO 85.
@@ -1207,11 +1295,19 @@ Las infracciones a lo dispuesto por esta ley y su reglamento serán sancionadas 
 
 Independientemente de la suspensión o revocación de las concesiones o permisos, en los casos en que tales medidas fueren procedentes, el Instituto de Movilidad y Desarrollo Urbano Territorial, con el auxilio de la Secretaría de Seguridad Pública, estará facultada (sic) para imponer multas de veinticinco a mil unidades de medida y actualización por infracciones a esta ley, de acuerdo con lo que establezca de manera particular su reglamento.
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 92.
 
-En el caso de que los vehículos concesionados o permisionados sean conducidos por personas que carezcan de la licencia de conducir correspondiente a ese tipo de vehículo, se retirarán de inmediato de la circulación y se sancionará a sus propietarios, como responsables solidarios, con multa de veinticinco a cien unidades de medida y actualización.
+En el caso de que los vehículos que cuenten con concesión, premiso o certificado vehicular sean conducidos por personas que carezcan de la licencia de conducir correspondiente a ese tipo de vehículo, se retirarán de inmediato de la circulación y se sancionará a sus propietarios, como responsables solidarios, con multa de veinticinco a cien unidades de medida y actualización.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 92 BIS. En caso de que el Instituto de Movilidad y Desarrollo Urbano Territorial detecte que una empresa de redes de transporte se encuentra operando en el estado sin la constancia vigente respectiva, aplicará a esta una multa de hasta cinco veces el valor de la constancia que la empresa debió cubrir, en su caso, de acuerdo con el número de vehículos que tenga inscritos, en términos de la Ley General de Hacienda del Estado de Yucatán. Lo anterior, con independencia de la obligación que tiene la empresa de redes de transporte de obtener su constancia para operar en el estado.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 92 TER. En caso de que el Instituto de Movilidad y Desarrollo Urbano Territorial detecte que una persona se encuentra prestando el servicio de transporte de pasajeros o de carga sin la autorización correspondiente, en términos de esta Ley, en su caso, con el auxilio de la Secretaría de Seguridad Pública, retirará el vehículo de la circulación y lo remitirá al depósito correspondiente. Además, aplicará una multa de hasta cinco veces el valor de la autorización respectiva, en términos de la Ley General de Hacienda del Estado de Yucatán, a quien se encontrase conduciéndolo así como, en su caso, a su propietario, como responsable solidario.
 
 ###### ARTÍCULO 93.
 
@@ -1316,3 +1412,23 @@ El titular del Poder Ejecutivo Estatal dictará lo correspondiente a efecto de e
 Tercero. Disposiciones complementarias
 
 El Instituto de Movilidad y Desarrollo Urbano Territorial del Gobierno del Estado de Yucatán deberá implementar las medidas necesarias para el cumplimiento de las disposiciones ordenadas en este decreto.
+
+D.O. 31 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 158/2019 POR EL QUE SE MODIFICA LA LEY DE TRANSPORTE DEL ESTADO DE YUCATÁN, EN MATERIA DE RESTRUCTURACIÓN DEL SERVICIO DE TRANSPORTE DE PASAJEROS Y DE CARGA CONTRATADO A TRAVÉS DE PLATAFORMAS TECNOLÓGICAS”.]
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor el primero de enero de 2020, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Obligación normativa
+
+El gobernador deberá adecuar el Reglamento de la Ley de Transporte del Estado de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Artículo Tercero. Vigencia de constancias y certificados vehiculares
+
+Las constancias y los certificados vehiculares que, a la entrada en vigor de este decreto, se encontrasen vigentes, mantendrán su vigencia, de acuerdo con la autorización respectiva. Las empresas de redes de transporte y los operadores del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas únicamente deberán realizar el pago del derecho correspondiente, en términos de la Ley General de Hacienda del Estado de Yucatán. Para ello, contarán con un plazo de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Artículo Cuarto. Plazo para el trámite de constancias y certificados
+
+Los operadores del servicio de transporte de pasajeros o de carga que, a la entrada en vigor de este decreto, no contasen con certificado de operador titular o adhesivo, según sea el caso, contarán con un plazo de noventa días naturales para tramitarlo, contado a partir de la entrada en vigor de este decreto, de conformidad con los requisitos previstos en la Ley de Transporte del Estado de Yucatán y previo pago de los derechos correspondientes, en términos de la Ley General de Hacienda del Estado de Yucatán.
