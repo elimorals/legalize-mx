@@ -4,7 +4,7 @@ identifier: "COA-ley-de-transporte-y-movilidad-sustentable-para-el-estado-de-127
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-10"
-last_updated: "2019-11-22"
+last_updated: "2019-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TRANSPORTE Y MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 10 de noviembre de 2017.
 
@@ -95,7 +95,9 @@ XIV. Empresas de redes de transporte: Aquellas sociedades mercantiles constituid
 
 a. También podrán ser consideradas como Empresas de Redes de Transporte aquellas sociedades que, por virtud de acuerdos comerciales vigentes, promuevan el uso de tecnologías o aplicaciones tecnológicas, propias o de terceros que permitan mediar el acuerdo entre usuarios y conductores prestadores de servicios de transporte entre particulares.
 
-b. Los prestadores del servicio público de transporte de pasajeros podrán hacer uso de plataformas tecnológicas complementarias para contactar con usuarios sin necesidad de obtener el registro a que se refiere el artículo 97 de la presente Ley;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+b. Los concesionarios o permisionarios del servicio público de transporte de pasajeros, podrán hacer uso de plataformas tecnológicas complementarias para contactar con usuarios sin necesidad de obtener el registro a que se refiere el artículo 97 de la presente Ley;
 
 XV. Estacionamiento: Lugar o recinto destinado para el resguardo de vehículos, pudiendo ser público o privado;
 
@@ -156,6 +158,18 @@ XXXIX. Vía pública: Acera, avenida, boulevard, calle, callejón, calzada, cami
 > <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2019)</small>
 
 XL. Niñas, niños y adolescentes. Se entiende por niños, niñas y adolescentes para efectos de esta ley, el concepto que señale la Ley del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XLI. Pasajero: Persona que viaja o se transporta en un vehículo sin conducirlo.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XLII. Servicio público de transporte: es el servicio público cuya prestación corresponde al Gobierno del Estado, a través de la Secretaría y a los Ayuntamientos, conforme a sus respectivas competencias, quienes pueden prestarlo directamente o a través de concesiones o permisos, que se otorguen en términos de esta ley y los reglamentos que deriven de la misma.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XLIII. Servicio público de transporte urbano: es el servicio público cuya prestación corresponde a los Ayuntamientos, el cual comprende el transporte colectivo de cobertura urbana y suburbana, taxis y de carga en sus modalidades liviana y de materiales para la construcción.
 
 ###### ARTÍCULO 4.
 
@@ -233,7 +247,9 @@ Corresponden a la o el titular del Poder Ejecutivo del Estado, las siguientes at
 
 I. Fomentar la participación de los diversos sectores de la población, a fin de presentar propuestas que ayuden a mejorar la calidad y eficiencia del transporte;
 
-II. Celebrar, convenios o acuerdos de coordinación y concertación con otras entidades federativas, así como también, con los sectores privado, académico y social en la materia que regula la presente Ley;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+II. Celebrar, convenios o acuerdos de coordinación y concertación con el gobierno federal, otras entidades federativas y los municipios, así como también, con los sectores privado, académico y social en la materia que regula la presente Ley;
 
 III. Promover y vigilar, a través de la Secretaría, que los servicios de transporte público en la entidad, se efectúen con apego a la presente Ley y demás disposiciones aplicables;
 
@@ -245,11 +261,17 @@ V. Las demás que le confiera esta Ley y otras disposiciones legales aplicables 
 
 Corresponden a la o el titular de la Secretaría, las siguientes atribuciones:
 
-I. Coordinar la elaboración del Programa Especial de Transporte y Movilidad Sustentable y turnarlo a la o el titular del Ejecutivo del Estado, para su aprobación;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-II. Expedir el Programa Especial de Transporte y Movilidad Sustentable;
+I. Coordinar la elaboración del Programa de Transporte y Movilidad Sustentable y turnarlo a la o el titular del Ejecutivo del Estado, para su aprobación;
 
-III. Diseñar, planear, aprobar, regular, conducir, administrar, ejecutar, vigilar y evaluar los instrumentos y acciones implementadas al tenor del Programa Especial de Transporte y Movilidad Sustentable;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+II. Expedir el Programa de Transporte y Movilidad Sustentable;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+III. Diseñar, planear, aprobar, regular, conducir, administrar, ejecutar, vigilar y evaluar los instrumentos y acciones implementadas al tenor del Programa Transporte y Movilidad Sustentable;
 
 IV. Proveer en el ámbito de su competencia que la movilidad, su infraestructura, equipamiento auxiliar, servicios y elementos inherentes o incorporados a ella, se utilicen en forma adecuada conforme a su naturaleza, coordinándose, en su caso, con las dependencias correspondientes para lograr ese objetivo;
 
@@ -257,7 +279,9 @@ V. Celebrar convenios de coordinación con los órdenes de gobierno federal y mu
 
 VI. Impulsar el servicio público de transporte de pasajeros para personas con discapacidad, de la tercera edad y mujeres en periodo de gestación y fomentar la regularización del servicio privado y particular de transporte de este tipo de personas;
 
-VII. En coordinación con la entidad federativa colindante que corresponda, en razón de los convenios de coordinación que se celebren para tal efecto, establecer e implementar un programa metropolitano de movilidad, mismo que deberá ser complementario y bajo las directrices que señale el Programa Especial de Transporte y Movilidad Sustentable;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VII. En coordinación con la entidad federativa colindante que corresponda, en razón de los convenios de coordinación que se celebren para tal efecto, establecer e implementar un programa metropolitano de movilidad, mismo que deberá ser complementario y bajo las directrices que señale el Programa de Transporte y Movilidad Sustentable;
 
 VIII. Instrumentar en coordinación con otras dependencias, programas y campañas permanentes de educación vial y cortesía urbana, encaminados a mejorar las condiciones bajo las cuales se presta el servicio de transporte en el Estado, así como la prevención de accidentes a través de la formación de una conciencia social de los problemas viales y una cultura urbana en la población;
 
@@ -331,51 +355,31 @@ XXII. Las demás que le confieran esta Ley y sus normas reglamentarias.
 
 ### CAPÍTULO III. DE LOS INSTRUMENTOS DE PLANEACIÓN DE TRANSPORTE Y MOVILIDAD SUSTENTABLE
 
-#### SECCIÓN I. DEL PROGRAMA ESPECIAL DE TRANSPORTE Y MOVILIDAD SUSTENTABLE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN I. DEL PROGRAMA DE TRANSPORTE Y MOVILIDAD SUSTENTABLE
 
 ###### ARTÍCULO 13.
 
 La Secretaría planeará el adecuado funcionamiento del servicio público de transporte y promoverá en los términos de la Ley de la materia el uso del transporte no motorizado, colaborando con las autoridades municipales en la planeación y ejecución de acciones en favor de peatones y ciclistas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 14.
 
-El Programa Especial de Transporte y Movilidad Sustentable es el documento por medio del cual, el Poder Ejecutivo establece los objetivos, metas y acciones a seguir en materia de movilidad, mismos que deberán implementarse en un periodo de tiempo no mayor a seis años, con metas programables para cada año.
+El Programa de Transporte y Movilidad Sustentable es el documento por medio del cual, la Secretaría establece los objetivos, metas y acciones a seguir en materia de movilidad, mismos que deberán implementarse en un periodo de tiempo no mayor a seis años, con metas programables para cada año.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 15.
 
-El Programa Especial de Transporte y Movilidad Sustentable será expedido cada seis años por el Ejecutivo del Estado, durante el primer año de cada administración estatal y contendrá:
+El Programa de Transporte y Movilidad Sustentable será expedido cada seis años, y deberá elaborarse en concordancia con lo establecido por la Ley de Planeación para el Desarrollo del Estado de Coahuila de Zaragoza y el Plan Estatal de Desarrollo.
 
-I. Los estudios en materia de transporte y movilidad sustentable que reflejen y documenten de forma precisa las necesidades del rubro;
-
-II. Los subprogramas, líneas programáticas y acciones que especifiquen la forma en que contribuirán a la conducción del desarrollo sustentable; como mínimo debe incluir temas referentes a:
-
-a) Ordenación del tránsito de vehículos;
-
-b) Promoción e integración del transporte público de pasajeros;
-
-c) Fomento del uso de la bicicleta y de los desplazamientos a pie, así como la accesibilidad para el desplazamiento de personas con discapacidad;
-
-d) Mejoramiento y eficiencia del transporte público de pasajeros, con énfasis en la accesibilidad para las personas con discapacidad;
-
-e) Infraestructura para la movilidad;
-
-f) Gestión del estacionamiento;
-
-g) Gestión del transporte metropolitano;
-
-h) Medidas para promover la circulación de personas y vehículos con prudencia y cortesía, así como la promoción de un cambio de hábitos en la forma en que se realizan los desplazamientos diarios que suscite una movilidad sustentable;
-
-III. Los estándares, indicadores, tiempos de ejecución y mecanismos de evaluación anual que sean aplicables;
-
-IV. La vinculación del programa con las directrices del Plan Estatal de Desarrollo y con los demás programas especiales, sectoriales e institucionales de la administración estatal que se encuentren asociados al servicio de transporte y la movilidad de las personas;
-
-V. Las metas, especificando las acciones, obras y proyectos que se implementarán;
-
-VI. La información necesaria para que la ciudadanía pueda identificar con facilidad las acciones y obras que se implementarán en cada región.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 16.
 
-En la conformación del Programa Especial de Transporte y Movilidad Sustentable del Estado deberán considerarse e integrarse las propuestas y recomendaciones que se presenten y se consideren viables conforme a las disposiciones aplicables, de las siguientes instancias:
+En la conformación del Programa de Transporte y Movilidad Sustentable del Estado deberán considerarse e integrarse las propuestas y recomendaciones que se presenten y se consideren viables conforme a las disposiciones aplicables, de las siguientes instancias:
 
 I. Las Secretarías que forman parte del Consejo;
 
@@ -391,9 +395,11 @@ VI. Las recomendaciones y propuestas de la Secretaría de Educación del Estado 
 
 VII. Las organizaciones ciudadanas debidamente constituidas, cuyo objeto primordial sea el transporte público o la movilidad sustentable.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 17.
 
-El Programa Especial de Transporte y Movilidad Sustentable deberá elaborarse en total armonía y concordancia con el Plan Estatal de Desarrollo.
+El Programa de Transporte y Movilidad Sustentable deberá elaborarse en total armonía y concordancia con el Plan Estatal de Desarrollo.
 
 #### SECCIÓN II. DE LOS PROGRAMAS MUNICIPALES DE TRANSPORTE Y MOVILIDAD SUSTENTABLE
 
@@ -434,6 +440,10 @@ I. Servicio de transporte de pasajeros;
 II. Servicio de transporte de carga;
 
 III. Servicio de transporte entre particulares.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Los concesionarios o permisionarios que presten el servicio de transporte a que hace referencia la fracción I del presente artículo, con excepción del transporte masivo y especializado podrán ofrecerlo y proporcionarlo mediante el uso de plataformas tecnológicas, a efecto de permitir al usuario acceder al servicio a través de este medio, así como realizar el pago con tarjetas, para lo cual deberán comunicar por escrito a la Secretaría el nombre de la plataforma tecnológica con la cual prestarán este servicio y los cambios que pudiera sufrir.
 
 ###### ARTÍCULO 21.
 
@@ -543,6 +553,10 @@ XI. Sistema Integrado de Transporte Público Masivo o SIT: Se refiere en su conj
 
 XII. Terminal de Transporte Masivo: Lugar en el que por disposición de la autoridad competente deben concentrarse las unidades de servicio de transporte para efectuar el ascenso y descenso de pasajeros al inicio o cierre del circuito, así como en su caso, el resguardo de las unidades, talleres y estaciones de combustible.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XIII. Rescate: Acto administrativo por virtud del cual, mediante la resolución respectiva y antes del vencimiento de la concesión para la prestación y operación del Servicio Público de Transporte Masivo de Pasajeros, el Estado recupera la prestación del mismo, así como los bienes afectos a dicha prestación, otorgando al particular de que se trate la indemnización respectiva.
+
 ###### ARTÍCULO 26.
 
 Para garantizar que la prestación del servicio de transporte masivo de pasajeros se realice de manera oportuna, segura y eficiente, se prestará preferentemente mediante un sistema integrado de rutas.
@@ -641,9 +655,27 @@ Los concesionarios tendrán derecho a explotar el servicio y a recibir de un ter
 
 Las concesiones para la prestación y operación del Servicio Público de Transporte Masivo de Pasajeros tendrán una vigencia de hasta 30 años, la cual podrá ser prorrogada por la entidad otorgante en los casos previstos en los títulos de Concesión correspondientes.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 36.
 
-Las concesiones para la prestación y operación del Servicio Público de Transporte Masivo de Pasajeros sólo podrán ser otorgadas a personas morales, constituidas bajo las leyes mexicanas mediante solicitud por escrito que presenten al Organismo Regulador o mediante acuerdo que emita esta última.
+Las concesiones para la prestación y operación del Servicio Público de Transporte Masivo de Pasajeros sólo podrán ser otorgadas por parte del Organismo Regulador mediante acuerdo que emita esté último, a personas morales, constituidas bajo las leyes mexicanas, en sociedades mercantiles integradas por mexicanos con cláusula de exclusión de extranjeros, debiendo conservar durante la vigencia de la concesión, el tipo de sociedad, objeto social, personalidad jurídica y razón social con la que obtuvo la concesión.
+
+Las sociedades mercantiles solamente podrán constituirse, una vez que el proyecto de acta constitutiva sea aprobada (sic) por parte de la Secretaría a través del Organismo Regulador, en donde su objeto social se centre en la prestación de los servicios de transporte público de pasajeros.
+
+La concesión otorgada incluirá el número de unidades para que la prestación del servicio concesionado se preste de manera adecuada.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 36 BIS. Las concesiones se otorgarán preferentemente a las personas morales que integren como socios a los concesionarios del servicio de transporte colectivo urbano e intermunicipal que originalmente presten los servicios en la vía pública de los municipios con condiciones a ser afectos a un proyecto de transporte masivo.
+
+Los socios de las personas morales serán titulares del mismo número de acciones o partes sociales en la constitución de las personas morales, conforme al número de concesiones del servicio de transporte colectivo de pasajeros que ostentaba legalmente antes de constituirse la empresa. Para tal efecto las autoridades estatales o municipales, según corresponda, a solicitud de los concesionarios que integren la sociedad mercantil, deberán de extinguir las concesiones otorgadas a éstos y no otorgar nuevas concesiones cuyas rutas e itinerarios incidan en la zona de influencia del SIT.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 36 TER. Las personas morales o sociedades que constituyan los concesionarios conforme a las disposiciones contenidas en la presente sección, serán responsables por el incumplimiento que realicen sus socios, representantes y trabajadores de las disposiciones señaladas en la presente Ley.
+
+El acta constitutiva de la sociedad deberá contener la disposición que señale que en caso de disolución, liquidación o concurso mercantil de la empresa, los derechos derivados de las concesiones se revocarán y cancelarán.
 
 ###### ARTÍCULO 37.
 
@@ -953,9 +985,11 @@ Las rutas del servicio de transporte colectivo intermunicipal de pasajeros podr�
 
 ### CAPÍTULO IV. DEL SERVICIO DE TRANSPORTE DE PASAJEROS EN TAXI
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 64.
 
-El servicio público de transporte de taxi, es aquel destinado al traslado de personas dentro del territorio de un municipio, sin encontrarse sujeto a horario o itinerario fijo, que se presta a través de vehículos con una antigüedad máxima de doce años contados a partir de la fecha de fabricación del mismo, con capacidad de hasta cinco pasajeros, incluido el operador; con tarifas previamente autorizadas según la distancia de recorrido.
+El servicio público de transporte de taxi, es aquel destinado al traslado de personas dentro del territorio de un municipio, sin encontrarse sujeto a horario, ruta o itinerario fijo, que se presta a través de vehículos con una antigüedad máxima de doce años contados a partir de la fecha de fabricación del mismo, con capacidad de hasta cinco pasajeros, incluido el operador; con tarifas previamente autorizadas según la distancia de recorrido.
 
 Las especificaciones del servicio en general, así como del tipo de vehículo autorizado bajo esta modalidad, se establecerán en las normas reglamentarias que de esta Ley se derive.
 
@@ -1115,9 +1149,11 @@ Los usuarios de este servicio no podrán ir de pie y cada uno dispondrá de su p
 
 #### SECCIÓN II. DEL TRANSPORTE DE PERSONAL
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 83.
 
-El servicio de transporte especializado de personal, se presta a empleados de una empresa o institución, ya sea por el mismo patrón o por un tercero contratado para tal efecto, mediante el pago de una remuneración por períodos determinados, consistiendo en el traslado de lugares predeterminados al centro de trabajo y su retorno al lugar de origen, realizándose en vehículos con una antigüedad máxima de quince años, contados a partir de la fecha de fabricación del mismo, con capacidad de cinco a cuarenta y cinco pasajeros, quedando prohibido admitir mayor número de pasajeros que los correspondientes al número de asientos con que cuenta la unidad.
+El servicio de transporte especializado de personal, se presta a empleados de una empresa o institución, ya sea por el mismo patrón o por un tercero contratado para tal efecto, mediante el pago de una remuneración por períodos determinados, consistiendo en el traslado de lugares predeterminados al centro de trabajo y su retorno al lugar de origen, realizándose en vehículos con una antigüedad máxima de quince años, contados a partir de la fecha de fabricación del mismo, con capacidad de doce a cuarenta y cinco pasajeros, quedando prohibido admitir mayor número de pasajeros que los correspondientes al número de asientos con que cuenta la unidad.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
@@ -1153,7 +1189,9 @@ La autorización que se otorgue para esta modalidad de transporte podrá compren
 
 La prestación del servicio de transporte de personal, se sujetará a lo siguiente:
 
-I. Deberá prestarse en unidades con una capacidad mínima de cinco pasajeros sentados, incluyendo al operador;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+I. Deberá prestarse en unidades con una capacidad de doce a cuarenta y cinco pasajeros sentados;
 
 II. Las unidades no tendrán una antigüedad mayor a quince años contados a partir del año de fabricación;
 
@@ -1205,9 +1243,11 @@ El servicio especial de ambulancias, es el destinado al traslado de personas exc
 
 #### SECCIÓN VI. DEL TRANSPORTE EJECUTIVO
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 92.
 
-El servicio de transporte especializado ejecutivo, es aquél que se presta a través de vehículos con capacidad de hasta veinte pasajeros, incluido el operador, que se realiza a través de un contrato de prestación de servicios u orden de compra con una empresa para el traslado de su personal directivo en lugares y horas determinadas, que se presta con vehículos con una antigüedad máxima de diez años contados a partir de la fecha de fabricación del mismo, siempre y cuando cumplan con las características establecidas en la presente Ley, en sus disposiciones reglamentarias.
+El servicio de transporte especializado ejecutivo, es aquél que se presta a través de vehículos con capacidad de cinco hasta siete pasajeros incluido el operador, que se realiza a través de un contrato de prestación de servicios u orden de compra con una empresa para el traslado de su personal en lugares y horas determinadas, que se presta con vehículos con una antigüedad máxima de diez años contados a partir de la fecha de fabricación del mismo, siempre y cuando cumplan con las características establecidas en la presente Ley y en sus disposiciones reglamentarias.
 
 #### SECCIÓN VII. DEL TRANSPORTE MIXTO DE PASAJE Y CARGA
 
@@ -1243,7 +1283,9 @@ El servicio de transporte entre particulares se prestará en vehículos particul
 
 Para obtener el registro a que hace referencia el artículo anterior, las Empresas de Redes de Transporte deberán proporcionar la información siguiente:
 
-I. Acta constitutiva, teléfono, correo electrónico y comprobante de domicilio;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+I. Acta constitutiva, teléfono, correo electrónico y comprobante de domicilio el cual deberá ubicarse dentro del Estado;
 
 II. Documento que acredite la designación del representante legal;
 
@@ -1307,17 +1349,29 @@ VIII. Aportar el 1.5 % por cada viaje realizado, al fondo para el auto de alquil
 
 Son obligaciones de los conductores del servicio de transporte entre particulares las siguientes:
 
-I. Contar con licencia de conducir tipo A;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+I. Contar con licencia de conducir tipo D;
 
 II. Portar en todo momento:
 
 a) Tarjeta de circulación del vehículo;
 
-b) El documento físico o electrónico que acredite su registro ante la Empresa de Redes de Transporte o una empresa relacionada, filial o subsidiaria de la misma;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-c) Copia de la póliza de seguro con cobertura amplia que proteja a los pasajeros, usuarios y/o terceros;
+b) La constancia de alta emitida por la Secretaría que acredite su registro ante la Empresa de Redes de Transporte o una empresa relacionada, filial o subsidiaria de la misma;
 
-d) El comprobante que acredite su capacitación para la prestación del servicio.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+c) Copia de la póliza de seguro con cobertura amplia que proteja a los pasajeros, usuarios y/o terceros de acuerdo a la modalidad del servicio prestado;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+d) El comprobante que le expida la Empresa de Redes de Transporte propietaria de la aplicación o una empresa relacionada, filial o subsidiaria de la misma y que acredite su capacitación para la prestación del servicio;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+e) Tarjetón de identificación del operador del vehículo que presta el servicio de transporte entre particulares.
 
 III. Aprobar los exámenes y controles que aplique la Empresa de Redes de Transporte;
 
@@ -2395,7 +2449,9 @@ XXIII. Presentar los vehículos con que se preste el servicio, a revisión físi
 
 XXIV. Que los vehículos porten las placas y tarjeta de circulación o el permiso vigente expedido por la autoridad competente, además, el engomado de la verificación vehicular;
 
-XXV. Deberán portar en el exterior de manera visible el número económico que se les asigne, el número de concesión, así como un número telefónico para recepción de quejas y en su caso, a la organización a que pertenecen;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXV. Deberán portar en el exterior de manera visible el número económico que se les asigne, el número de concesión o permiso, así como un número telefónico para recepción de quejas y en su caso, a la organización a que pertenecen;
 
 XXVI. Implementar y operar de manera permanente los sistemas de cobro tarifario y de movilidad de pasajeros aprobados y, en su caso, instalar los equipos necesarios, manteniéndolos en óptimas condiciones de funcionamiento;
 
@@ -3001,17 +3057,29 @@ II. Tipo B: Chofer de transporte público, se otorgará a personas que pretendan
 
 III. Tipo C: Motociclista, se otorgará a personas que pretendan conducir cualquier tipo de motocicleta, pero ningún otro tipo de vehículo.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+IV. Tipo D: Conductores de Empresas de Redes de Transporte, se otorgará a las personas que pretendan conducir un vehículo por el cual se presta el servicio de transporte entre particulares.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 241.
 
-Las licencias de conducir que se otorguen a las personas en la modalidad Tipo B chofer de transporte público, autoriza a su portador a conducir cualquier tipo de vehículo del servicio particular, por lo que no será necesario que se le exija otro tipo de licencia para la clase de vehículo que conduzca, con excepción de motocicleta.
+Las licencias de conducir que se otorguen a las personas en la modalidad Tipo B chofer de transporte público y Tipo D chofer de empresas de redes de transporte, autoriza (sic) a su portador a conducir cualquier tipo de vehículo del servicio particular, por lo que no será necesario que se le exija otro tipo de licencia para la clase de vehículo que conduzca, con excepción de motocicleta.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 242.
 
-Las licencias de conducir tendrán una vigencia de dos años y, en su caso, podrán ser renovadas a solicitud del interesado, previa la observancia de los requisitos previstos por esta Ley, reglamentos y demás disposiciones.
+Las licencias de conducir Tipo A, B, C y D tendrán una vigencia de dos y cuatro años; y en su caso, podrán ser renovadas a solicitud del interesado, previa la observancia de los requisitos previstos por esta Ley, reglamentos y demás disposiciones.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 243.
 
 Para obtener licencia de conducir, se requerirá:
+
+A. Por primera vez:
 
 I. Ser mayor de dieciocho años;
 
@@ -3024,6 +3092,26 @@ IV. Sustentar y aprobar examen respecto al conocimiento de las disposiciones reg
 V. Pagar los derechos que se determine conforme a las disposiciones de las Leyes hacendarias correspondientes;
 
 VI. Los extranjeros que realicen trámites para obtener una licencia de conducir en el Estado, deberán cumplir con lo establecido por la Ley General de Población.
+
+VII. Tarjetón de identificación del operador para la obtención de licencias de conducir Tipo B y D.
+
+B. Por renovación por expiración de vigencia:
+
+I. Pagar los derechos que se determine conforme a las disposiciones de las Leyes hacendarias correspondientes;
+
+II. Presentar licencia de conducir cuya vigencia expiró, o en su caso, constancia de no infracción estatal y del municipio de su residencia;
+
+III. Tarjetón de identificación del operador para la obtención de licencias de conducir Tipo B y D.
+
+C. Reposición por robo o extravío:
+
+I. Pagar los derechos que se determine conforme a las disposiciones de las Leyes hacendarias correspondientes;
+
+II. Constancia de no infracción estatal y del municipio de su residencia;
+
+III. Acta levantada ante el Agente del Ministerio Público que justifique su robo o extravío, cuya fecha no sea mayor a cinco días de antelación;
+
+IV. Tarjetón de identificación del operador para la obtención de licencias de conducir Tipo B y D.
 
 ###### ARTÍCULO 244.
 
@@ -3125,17 +3213,23 @@ La base de datos de las licencias se integrará al Registro Estatal, para inclui
 
 La autoridad estatal elaborará y mantendrá actualizado este registro incorporando información por medio de las respectivas unidades administrativas encargadas de la movilidad y vialidad, estatal y municipales. El Estado garantizará la seguridad en el registro y el uso de estos datos limitándolos a los fines que esta Ley dispone, deberá también desarrollar y utilizar las herramientas tecnológicas necesarias para el manejo adecuado de la información.
 
-### CAPÍTULO II. DE LOS TARJETONES DE IDENTIFICACIÓN PARA LOS OPERADORES DEL SERVICIO PÚBLICO DE TRANSPORTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO II. DE LOS TARJETONES DE IDENTIFICACIÓN PARA LOS OPERADORES DEL SERVICIO PÚBLICO DE TRANSPORTE Y DE LOS CONDUCTORES DEL SERVICIO DE TRANSPORTE ENTRE PARTICULARES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 253.
 
-Para que una persona pueda operar y conducir vehículos del servicio público de transporte en el Estado, requiere contar con el tarjetón de operador, que sirve como identificación de los operadores del servicio público otorgado por la autoridad competente.
+Para que una persona pueda operar y conducir vehículos del servicio público de transporte y del servicio de transporte entre particulares en el Estado, requiere contar con el tarjetón, que sirve como identificación de los operadores del servicio público y de los conductores del servicio de transporte entre particulares, otorgado por la autoridad competente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 254.
 
-Quien conduzca vehículos del servicio público de transporte sin contar con el tarjetón respectivo, será sancionado con la inhabilitación hasta por un año para desempeñarse como operador de los mismos, si es por primera vez será amonestado, independientemente de que se le imponga la multa correspondiente; misma que también se impondrá al concesionario, permisionario o al titular de la autorización de que se trate por permitirle conducir el vehículo sin haber contado previamente con dicho documento.
+Quien conduzca vehículos del servicio público de transporte y del servicio de transporte entre particulares sin contar con el tarjetón respectivo, será sancionado con la inhabilitación hasta por un año para desempeñarse como operador de los mismos, si es por primera vez será amonestado, independientemente de que se le imponga la multa correspondiente; misma que también se impondrá al concesionario, permisionario o al titular de la autorización de que se trate por permitirle conducir el vehículo sin haber contado previamente con dicho documento.
 
-Es obligación de los operadores mostrar a la autoridad competente y a sus inspectores tantas veces como se les solicite el tarjetón y, en su caso, la demás documentación que faculte la prestación del servicio.
+Es obligación de los operadores y conductores mostrar a la autoridad competente y a sus inspectores tantas veces como se les solicite el tarjetón y, en su caso, la demás documentación que faculte la prestación del servicio.
 
 ###### ARTÍCULO 255.
 
@@ -3863,15 +3957,19 @@ Cuando una autoridad judicial notifique la nulidad o cancelación de una inscrip
 
 ### CAPÍTULO I. DE LAS MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 329.
 
-En las acciones u omisiones de los concesionarios, permisionarios, operadores del servicio público del transporte o conductores del servicio de trasporte entre particulares, que pongan en riesgo la seguridad de las personas o el interés público, la Secretaría o el municipio en el ámbito de sus respectivas competencias, dictarán las medidas de seguridad de inmediata ejecución, mismas que se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
+En las acciones u omisiones de los concesionarios, permisionarios, operadores del servicio público del transporte y del servicio de trasporte entre particulares, así como los conductores de vehículos particulares, que pongan en riesgo la seguridad de las personas o el interés público, la Secretaría, el municipio o las corporaciones de seguridad pública, tránsito y vialidad estatales o municipales en el ámbito de sus respectivas competencias, dictarán las medidas de seguridad de inmediata ejecución, mismas que se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
 
 ###### ARTÍCULO 330.
 
 Son consideradas como medidas de seguridad las siguientes acciones:
 
-I. La retención de la licencia a los operadores;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+I. La retención de la licencia a los operadores del servicio de transporte público y de los conductores del servicio de transporte entre particulares, así como de los conductores de vehículos particulares;
 
 II. El retiro de los vehículos de la circulación;
 
@@ -3883,11 +3981,15 @@ IV. El aseguramiento de vehículos o instalaciones.
 
 Son causas del retiro de los vehículos de la circulación, para su depósito en aquellas áreas que determine la autoridad competente, las siguientes:
 
-I. No contar con la concesión o el permiso para realizar el servicio público de transporte, según corresponda. En el caso de los conductores de servicio de trasporte entre particulares, el omitir acreditar que se encuentran registrados en una Empresa de Redes de Trasporte ya registrada ante la Secretaría;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+I. No contar con la concesión o el permiso para realizar el servicio público de transporte, según corresponda. En el caso de los conductores de servicio de trasporte entre particulares, el omitir acreditar que cuentan con la constancia de alta y tarjetón de identificación para prestar el servicio en una Empresa de Redes de Trasporte;
 
 II. Continuar ejerciendo los derechos derivados de una concesión o permiso, habiendo sido éstos cancelados;
 
-III. Por falta de una o ambas placas vigentes, excepto que cuenten con el comprobante vigente de reposición o con el acta levantada ante agente del Ministerio Público que justifique su pérdida, cuya fecha no sea mayor a cinco días de antelación;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+III. Por falta de una o ambas placas vigentes o por portar placas que no se encuentren vigentes, excepto que cuenten con el comprobante vigente de reposición o con el acta levantada ante agente del Ministerio Público que justifique su pérdida, cuya fecha no sea mayor a cinco días de antelación;
 
 IV. No haber aprobado la revisión físico mecánica en el término fijado por la autoridad competente;
 
@@ -3901,17 +4003,27 @@ VIII. Cuando el operador no porte la licencia o el tarjetón de identificación,
 
 IX. Alterar en cualquier forma el diseño, estructura y construcción original de los vehículos asignados al servicio, sin autorización expresa y por escrito de la autoridad competente;
 
-X. En caso de que el operador se encuentre bajo los efectos de bebidas alcohólicas, enervantes o cualquier otra sustancia tóxica;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+X. En caso de que el operador del servicio público de transporte o del conductor de transporte entre particulares o el conductor de vehículos particulares se encuentre bajo los efectos de bebidas alcohólicas, enervantes o cualquier otra sustancia tóxica;
 
 XI. Por no cumplir los concesionarios, permisionarios o conductores del servicio de transporte entre particulares, con las disposiciones que en materia de seguridad establezca la Secretaría o los municipios;
 
-XII. Por circular las unidades con las puertas abiertas, o con usuarios en los estribos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XIII. Por abastecer de combustible las unidades con pasaje a bordo;
+XII. Por circular las unidades del servicio público de transporte con las puertas abiertas, o con usuarios en los estribos;
 
-XIV. Por no respetar el cupo máximo de usuarios autorizado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XV. Por no acatar las indicaciones de las autoridades en materia de transporte y movilidad, o bien por agredirlos física o verbalmente durante las diligencias de inspección, sin menoscabo de la responsabilidad penal que, en su caso, resulte;
+XIII. Por abastecer de combustible las unidades del servicio público de transporte con pasaje a bordo;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XIV. Por no respetar el cupo máximo de usuarios autorizado en las unidades del servicio público de transporte;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XV. Por no acatar las indicaciones de las autoridades en materia de transporte y movilidad o de las corporaciones de seguridad, tránsito y vialidad estatal o municipal, o bien por agredirlos física o verbalmente durante las diligencias de inspección, sin menoscabo de la responsabilidad penal que, en su caso, resulte;
 
 XVI. Cuando a juicio de la autoridad durante la prestación del servicio, las acciones u omisiones del operador pongan en riesgo la seguridad de los pasajeros, de otros vehículos o de los transeúntes, peatones, ciclistas o terceros.
 
@@ -4069,9 +4181,11 @@ V. La reincidencia del infractor.
 
 En el caso de los operadores del servicio de transporte público, se ordenará además la reevaluación de sus aptitudes físicas, así como la capacitación específica para el acto u omisión de que se trate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 337.
 
-Cuando la sanción consista en la imposición de una multa, el infractor correspondiente podrá obtener la reducción en un cincuenta por ciento, si el pago de la multa se efectúa dentro de los diez días hábiles siguientes al de la fecha de expedición de la boleta de infracción.
+Cuando la sanción consista en la imposición de una multa, el infractor correspondiente podrá obtener la reducción en un cincuenta por ciento, si el pago de la multa se efectúa dentro de los diez días hábiles siguientes al de la fecha de expedición de la boleta de infracción, salvo el caso de reincidencia
 
 El beneficio concedido en este artículo no podrá aplicarse en favor de aquellos a quienes por la falta cometida les corresponda como sanción la suspensión del servicio, o la revocación de la concesión o permiso, ya sea esto en forma directa o por reincidencia.
 
@@ -4512,3 +4626,19 @@ P.O. 22 DE NOVIEMBRE DE 2019.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 527.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE Y MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las unidades o vehículos que se utilicen para la prestación del servicio especializado escolar, deberán cumplir con la antigüedad que señala la presente Ley en forma gradual. En razón de lo anterior a partir de la entrada en vigor del presente decreto y hasta el 31 de diciembre del año dos mil veintidós la antigüedad de los vehículos que prestan el servicio en esta modalidad será de veinte años.
+
+A partir del primero de enero del año dos mil veintitrés y hasta el 31 de diciembre del año dos mil veinticuatro la antigüedad que deberán cumplir será de dieciocho años y comenzando el primero de enero del año dos mil veinticinco la antigüedad del vehículo deberá ser de quince años.
+
+Este beneficio solo lo podrán obtener aquéllas unidades que derivado de la revisión física mecánica de la misma, se encuentren en condiciones óptimas para su adecuado funcionamiento y garantía de la seguridad de los usuarios que la modalidad del servicio requiere.
+
+TERCERO.- Los conductores que prestan el servicio de transporte entre particulares por medio de una plataforma tecnológica, desde antes de la entrada en vigor del presente decreto, no les será exigible portar la licencia de conducir Tipo D, sino hasta que expire la vigencia de su licencia de conducir.
+
+CUARTO.- Se derogan las disposiciones que se opongan al presente decreto.
