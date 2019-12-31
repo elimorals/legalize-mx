@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-coordinacion-fiscal-del-estado-de-michoacan-de-ocampo-65
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2018-12-31"
+last_updated: "2019-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el miércoles 31 de diciembre de 2008.
 
@@ -47,19 +47,21 @@ LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 1°.
 
-El objeto de esta Ley es regular el Sistema de Coordinación Fiscal del Estado de Michoacán y sus municipios, así como establecer las bases de cálculo, montos y plazos para la distribución de las Participaciones que en Ingresos Federales y Estatales y Fondos de Aportaciones Federales, les corresponden a los municipios del Estado.
+El objeto de esta Ley es regular el Sistema de Coordinación Fiscal del Estado de Michoacán y sus municipios, así como establecer las bases de cálculo, montos y plazos para la distribución de las Participaciones que en Ingresos Federales y Estatales y Fondos de Aportaciones Federales y Estatales, les corresponden a los municipios del Estado.
 
 Así también, establecer las reglas de colaboración administrativa entre el Estado y los municipios, y constituir los órganos del sistema de Coordinación Fiscal, y fijar las bases de colaboración administrativa.
 
 ### CAPÍTULO II. De las Participaciones en Ingresos Federales y Estatales a los Municipios
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 2º.
 
-Los Municipios del Estado de Michoacán de Ocampo, percibirán por conducto del Gobierno del Estado, los ingresos por concepto de Participaciones en los Impuestos Federales y en los Derechos sobre la Extracción de Petróleo y de Minería, de conformidad con lo establecido por los artículos 2º, 2º- A fracción III, 3º- A, 4°, 4- A y 6º de la Ley de Coordinación Fiscal, así como de la recaudación del Impuesto sobre Loterías, Rifas, Sorteos y Concursos, e Impuesto Sobre Tenencia o Uso de Vehículos, conforme a lo dispuesto por los artículos 5 y 17, respectivamente, de la Ley de Hacienda del Estado de Michoacán de Ocampo.
+Los Municipios del Estado de Michoacán de Ocampo, percibirán por conducto del Gobierno del Estado, los ingresos por concepto de Participaciones en los Impuestos Federales y en los Derechos sobre la Extracción de Petróleo y de Minería, de conformidad con lo establecido por los artículos 2º, 2º- A fracción III, 3ºA, 3º-B, 4°, 4º- A y 6º de la Ley de Coordinación Fiscal, así como de la recaudación del Impuesto sobre Loterías, Rifas, Sorteos y Concursos, conforme a lo dispuesto por el artículo 6° tercer párrafo de la Ley de Hacienda del Estado de Michoacán de Ocampo.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2017)</small>
 
@@ -108,6 +110,14 @@ El Fondo de Compensación, se integra con el 18.1818% del total recaudado por ca
 III. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2017)
 
 Con el 5% de lo que le corresponda al Estado, en el Fondo General de Participaciones.
+
+IV. … (sic)
+
+a)… (sic)
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+b) 20% de lo que le corresponda al Estado por concepto de Impuesto sobre la Renta por Enajenación de Bienes Inmuebles, como incentivo por la recaudación que se obtenga en el Estado.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -525,7 +535,9 @@ Las responsabilidades administrativas, civiles y penales en que incurran las aut
 
 ARTÍCULO 35 BIS. Con independencia de lo establecido en el Capítulo II de esta Ley, respecto de los recursos que los Municipios reciben del Fondo Participable y del Fondo de Gasolinas y Diesel, se establece una aportación estatal, como recurso que el Estado transfiere a los Municipios, condicionando su gasto a la consecución y cumplimiento de los objetivos que para dicha aportación establece el presente artículo, para un Fondo de Aportaciones Estatales para la Infraestructura de los Servicios Públicos Municipales, el cual se destinará a las inversiones públicas productivas de los Municipios.
 
-El Fondo de Aportaciones Estatales para la Infraestructura de los Servicios Públicos Municipales se constituirá con un monto equivalente al 5% de lo que corresponde al Estado en el Fondo General de Participaciones, una vez descontado el porcentaje que de dicho Fondo General se aporta al Fondo Participable, a que se refiere la fracción I, inciso a), del artículo 3° de la presente Ley.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+El Fondo de Aportaciones Estatales para la Infraestructura de los Servicios Públicos Municipales, se constituirá con un monto equivalente al 5% de los recursos financieros que corresponde al Estado efectivamente pagado por la Federación en el Fondo General de Participaciones, una vez descontado el porcentaje que de dicho Fondo General se aporta al Fondo Participable, a que se refiere la fracción I, inciso a), del artículo 3° de la presente Ley. A los recursos a que se refiere el presente párrafo se podrá aplicar el beneficio de la ampliación del pago a que se refiere el segundo párrafo del artículo 17 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -834,3 +846,11 @@ P.O. 31 DE DICIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 31 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 313 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 1°, PRIMER PÁRRAFO, 2° Y 35 BIS, SEGUNDO PÁRRAFO; Y, SE ADICIONA AL ARTÍCULO 3, FRACCIÓN IV, EL INCISO B) DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 1º de enero de 2020, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
