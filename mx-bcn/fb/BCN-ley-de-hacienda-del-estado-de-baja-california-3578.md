@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2019-12-06"
+last_updated: "2019-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1059,23 +1059,33 @@ Los intermediarios, promotores o facilitadores a los que hace referencia el art�
 
 ARTICULO 132 BIS.- No causarán este impuesto, los servicios de hospedaje que se reciban en hospitales, clínicas, asilos, conventos, seminarios e internados.
 
-### CAPITULO IX. Impuesto Sobre Venta de Primera Mano de Gasolina y Demás Derivados del Petróleo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+### CAPITULO IX. IMPUESTO SOBRE VENTA DE PRIMERA MANO DE GASOLINA Y DEMAS DERIVADOS DEL PETROLEO POR AFECTACIÓN AL MEDIO AMBIENTE
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 133.
 
-(DEROGADO, P.O. 31 DE ENERO DE 1976)
+Es objeto de este impuesto la percepción de ingresos por operaciones de venta de gasolina, los derivados del petróleo, y derivados del gas licuado del petróleo que se realicen por primera vez, dentro del territorio del Estado. Serán sujetos del impuesto quienes perciban los ingresos a que se refiere el presente artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 134.
 
-(DEROGADO, P.O. 31 DE ENERO DE 1976)
+Es base de este gravamen el monto total de los ingresos objeto del impuesto, que se perciban mensualmente por los causantes de este. Este impuesto se causará, liquidará y pagará, con una tasa del 5% sobre la base gravable de la venta del gas natural y sus derivados, y una tasa del 2.5 % sobre la base gravable de la venta de la gasolina y los derivados del petróleo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 135.
 
-(DEROGADO, P.O. 31 DE ENERO DE 1976)
+El pago de este impuesto se hará dentro de los quince días de cada mes, ante la secretaria, presentándose al efecto una manifestación en las formas aprobadas por la propia secretaria.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 136.
 
-(DEROGADO, P.O. 31 DE ENERO DE 1976)
+La Secretaria podrá celebrar convenios con Petróleos Mexicanos para que la recaudación de este impuesto se realice por conducto de la mencionada institución, en los términos del Reglamento del artículo 21 de la Ley del Impuesto sobre Consumo de Gasolina
 
 ### CAPITULO X. Impuesto Sobre Diversiones y Espectáculos Públicos
 
@@ -2393,6 +2403,56 @@ IV. Registrar la obligación de pago del presente impuesto y los establecimiento
 
 45.- De la recaudación obtenida por concepto de este impuesto, corresponderá el 20% a los Municipios del Estado, distribuyéndose en proporción a la recaudación del mismo obtenida en cada uno de los Municipios en el ejercicio fiscal anterior. En virtud de ello, este impuesto no se considerará para la determinación de las participaciones a que se refiere el artículo 7° de la Ley de Coordinación Fiscal del Estado de Baja California, ni para el fondo compensatorio a que se refiere el artículo 7º BIS de la citada ley.
 
+> <small>(ADICIONADO CON LAS SECCIONES, DENOMINACIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+### CAPITULO XXII
+
+> <small>(ADICIONADA CON LA DENOMINACIÓN Y ARTÍCULO QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+#### SECCION PRIMERA. IMPUESTO A CASAS DE EMPEÑO
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+DE LOS SUJETOS Y EL OBJETO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 156
+
+46.- Están obligadas al pago del impuesto establecido en este capítulo las personas físicas y morales que en el territorio del Estado de Baja California, en forma habitual o profesional, realicen u oferten al público contrataciones u operaciones de mutuo con interés y garantía prendaria no reguladas por leyes y autoridades financieras, respecto de aquellos bienes dados en prenda que no sean recuperados por el deudor prendario y sean posteriormente enajenados. El impuesto se causará en la fecha en la que el bien dado en prenda se enajene al público en general.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+#### SECCION SEGUNDA. DE LA BASE GRAVABLE, TASA Y ÉPOCA DE PAGO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 156
+
+47.- El impuesto se calculará aplicando la tasa del 20% a la diferencia entre el monto del avalúo que sirve de base para el otorgamiento del crédito prendario y el monto de la enajenación del bien otorgado en garantía prendaria que celebren los sujetos de este impuesto con el público en general.
+
+El monto del avalúo es la valoración del bien mueble dado en prenda, que queda consignado en la boleta o billete de empeño, contrato o cualquier otra denominación que se otorgue al documento en el que se formalice el préstamo otorgado, los intereses pactados y cualquier otro gasto por parte del prestamista, así como el plazo para la recuperación del bien dado en prenda.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 156
+
+48.- El pago de este impuesto se efectuará mediante declaración mensual definitiva que presentarán los contribuyentes en las oficinas autorizadas por la Secretaría de Hacienda del Estado, a más tardar el día 17 del mes siguiente a aquél en que se haya producido la enajenación de la prenda de que se trate.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+#### SECCION TERCERA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 156
+
+49.- Son obligaciones de los sujetos del impuesto:
+
+I. Llevar y conservar los registros contables y administrativos de conformidad con las leyes y demás disposiciones aplicables.
+
+II. Mantener en los establecimientos o sucursales en los cuales se realicen las operaciones o contrataciones materia de este impuesto, las boletas o billetes de empeño y contratos, o cualquier otro documento que sustenten tales operaciones o contrataciones y permitan la plena identificación del deudor prendario incluyendo su domicilio y número telefónico, así como exhibirlos cuando las autoridades competentes lo requieran.
+
 ## TITULO III. DERECHOS
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
@@ -3392,3 +3452,27 @@ La Secretaría de Hacienda preverá en el presupuesto de egresos del ejercicio f
 ###### ARTÍCULO QUINTO.
 
 La Secretaría de Hacienda realizará las prevenciones financieras necesarias en el ejercicio fiscal 2020, para contar con una plataforma digital eficiente de cobro de los impuestos previstos en la presente iniciativa de decreto.
+
+P.O. 31 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 39 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 133, 134, 135, 136 Y SE REFORMA EL TÍTULO SEGUNDO Y ADICIONA EL CAPÍTULO XXII, LAS SECCIONES PRIMERA, SEGUNDA, TERCERA Y LOS ARTÍCULOS 156-46, 156-47, 156-48 Y 156-49 DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente iniciativa de decreto deberá de ser publicada en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Hacienda del Estado realizara las acciones administrativas pertinentes para efecto de elaborar los formatos institucionales a través de los cuales los sujetos obligados enteraran los impuestos previstos en la presente iniciativa de decreto.
+
+###### ARTÍCULO TERCERO.
+
+Aprobadas la (sic) presentes reformas se incorporarán en la Ley de Ingresos de (sic) Estado para el ejercicio fiscal 2020, los impuestos previstos por la presente iniciativa de decreto, así como los ingresos proyectados.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Hacienda preverá en el presupuesto de egresos del ejercicio fiscal 2020 una campaña informativa respecto a las nuevas obligaciones fiscales en el estado derivadas de la presente iniciativa de decreto, así como un programa de capacitación al personal responsable en el estado respecto al procedimiento de entero y cobro de los impuestos previsto por la presente iniciativa de decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Hacienda realizará las prevenciones financieras necesarias en el ejercicio fiscal 2020, para contar con una plataforma digital eficiente de cobro del impuesto previsto en la presente iniciativa de Decreto.
