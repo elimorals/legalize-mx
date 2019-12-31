@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-mulege-baja-california-232
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2016-10-31"
+last_updated: "2019-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MULEGÉ, BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -163,7 +163,9 @@ II. Los copropietarios de bienes inmuebles.
 
 III. Los usufructuarios de bienes inmuebles.
 
-IV. Los centros de población ejidal, salvo los casos previstos en la Ley Agraria.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+IV. Los titulares de los derechos agrarios sobre la propiedad ejidal o comunal, perteneciente a un núcleo en común, salvo los casos establecidos en la Ley Agraria, y de conformidad a lo establecido en el artículo 33 de la presente Ley;
 
 V. Los posesionarios de bienes inmuebles.
 
@@ -203,39 +205,33 @@ II. 4.80 al millar, si no están explotados por su dueño.
 
 En ningún caso el Impuesto Predial anual sobre propiedad rústica será inferior a tres veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 21 Bis.
+
+El impuesto sobre la Propiedad Ejidal, se causará sobre el valor catastral de los predios dotados para su aprovechamiento agrícola, ganadero, comercial, industrial o turístico, conforme a las siguientes tarifas:
+
+I. 2 al millar anual si están explotados por el titular de los derechos agrarios;
+
+II. 2.5 al millar anual si no están explotados por el titular de los derechos agrarios, y
+
+III. Los Terrenos Ejidales que hayan sido objeto de parcelamientos y que sean colindantes con la Zona Federal Marítima Terrestre, en el momento en que se realice la enajenación al segundo propietario se aplicarán los valores catastrales del centro de población más cercano y que tengan terrenos con la misma característica de colindancia con la Zona Federal, se les aplicará la tasa del 5 al millar.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 22.
 
 El Impuesto Predial sobre la propiedad urbana se causará:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+I. A razón de 1.5 al millar anual sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación.
 
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+II. A razón de 2 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
 
-I. A razón de 0.85 al millar anual sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación.
+III. A razón de 9 al millar sobre el valor catastral de los predios no edificados o baldíos, incrementándose anualmente en un 0.6 al millar; hasta en tanto no sea construida una edificación. La tasa no excederá de 20 al millar.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+IV. A razón del 2 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta, con reserva de dominio o que sean materia de cualquier otro acto jurídico preparatorio similar o traslativo de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
 
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
-
-II. A razón de 1.3 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
-
-III. A razón de 6 al millar sobre el valor catastral de los predios no edificados o baldíos, incrementándose anualmente en un 0.6 al millar; hasta en tanto no sea construida una edificación. La Tasa no excederá de 12 al millar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
-
-IV. A razón del 1.3 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta, con reserva de dominio o que sean materia de cualquier otro acto jurídico preparatorio similar o traslativo de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
-
-Se considera lote baldío aquél que teniendo construcciones éstas representen menos del 50% del Valor Catastral del terreno.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+Se considerará lote baldío aquél que teniendo construcciones éstas representen menos del 50% del Valor Catastral del terreno.
 
 En ningún caso el Impuesto Predial anual sobre la Propiedad Urbana deberá ser inferior a 3 veces el valor diario de la Unidad de Medida y Actualización.
 
@@ -673,7 +669,7 @@ Sobre el monto de los impuestos y derechos que establece esta Ley, excepto Impue
 
 Los ingresos que por conceptos de derecho que obtenga el Ayuntamiento, procederán de la prestación de los siguientes servicios:
 
-I. Registro Público de la Propiedad y del Comercio
+I. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2019)
 
 II. Servicios Catastrales
 
@@ -683,7 +679,7 @@ IV. Servicios de agua potable, drenaje, alcantarillado, tratamiento y disposici�
 
 V. Cooperación para obras públicas que realice el Ayuntamiento
 
-VI. Servicios del Registro Civil
+VI. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2019)
 
 VII. Legalización de firmas, expedición de certificaciones, constancias y copias certificadas
 
@@ -757,211 +753,33 @@ IV. Las solicitadas de oficio por la autoridad de la Federación, del Estado y l
 
 V. (sic)
 
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ### CAPÍTULO II
 
-REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN I. REGISTRO PÚBLICO DE LA PROPIEDAD
+#### SECCIÓN I
 
 ###### Artículo 68.
 
-Los servicios que preste el Registro Público de la Propiedad causarán el pago de derechos, conforme a la siguiente:
-
-TARIFA:
-
-I. El examen de todo documento público o Privado que se presente para su Inscripción 3 salarios mínimos.
-
-II. Por su inscripción o registro de Documentos públicos o privados, de Resoluciones judiciales, administrativas o De cualquier clase de títulos por virtud de los cuales se adquiera, trasmita, Modifique o se extinga el dominio o la Posesión de bienes inmuebles, además de la cuota fija, las cuotas acumulativas correspondientes a su valor.
-
-a) Cuota fija para toda clase de Inscripciones, inclusive las de valor determinado 5 salarios mínimos.
-
-b) Por el valor de la operación 2.5 al millar.
-
-III. Por la inscripción de la escritura constitutiva o de los aumentos de capital social, de sociedades y asociaciones civiles, sobre el importe del capital social de los aumentos del mismo, en los términos de la fracción anterior.
-
-IV. Por la inscripción de gravámenes sobre bienes inmuebles:
-
-Por contrato resolución judicial, por disposición testamentaria, la de los Títulos por virtud de los cuales se adquieran, transmitan, modifiquen o extingan derechos reales sobre Inmuebles, distinto de dominio del vendedor, a las de embargo, cédulas hipotecarias, servidumbres y fianzas 10 salarios mínimos por inmueble.
-
-V. Las inscripciones de los poderes, sustitución o revocación de los mismos en forma total o parcial por cada poderdante o apoderado 5 salarios mínimos.
-
-VI. La inscripción de créditos hipotecarios, refaccionarios o de habilitación o Avío 1.25 al millar.
-
-En los casos a los que se refiere esta fracción, las cancelaciones causarán pago de derechos.
-
-Por cada cancelación 3 salarios mínimos.
-
-VII. La inscripción de las demandas a las que se refiere el Artículo 63 del Reglamento del Registro Público de la Propiedad 10 salarios mínimos.
-
-VIII. Las inscripciones de la constitución del Patrimonio de familia y las informaciones Adperpetuam, conforme a la Fracción II del presente Artículo.
-
-IX. La inscripción de testamentos, declaraciones de herederos, sentencias, declaraciones de concurso 5 salarios mínimos.
-
-X. Si se trata de bienes muebles Identificables por marcas y números, la inscripción de la condición resolutoria en los casos de venta, de pacto de reserva de dominio de la propiedad del bien mueble y constitución de prenda en general, el 50% de la cuota que señala la Fracción II.
-
-XI. El depósito de testamentos ológrafos:
-
-a). Si se hace en las oficinas del Registro 5 salarios mínimos.
-
-b). Si se hace fuera de las oficinas del Registro en las horas ordinarias 8 salarios mínimos.
-
-c). Si se hace fuera de las oficinas del Registro en horas extraordinarias 10 salarios mínimos.
-
-XII. Por depósito de cualquier otro documento 5 salarios mínimos.
-
-XIII. Las inscripciones de fraccionamientos de terrenos, debidamente autorizados, por cada lote el 50% de las cuotas que señala la Fracción II del presente Artículo.
-
-XIV. Ratificación de documentos privados ante el Registrador en el caso de la Fracción III del Artículo 3011 del Código Civil vigente y constancia del mismo 10 salarios mínimos.
-
-XV. Por la expedición de certificados por cada persona y/o predio:
-
-a). Cuota fija por servicio 5 salarios mínimos.
-
-c) (sic). Por cada hoja 0.25 del salario mínimo
-
-XVI. Por la expedición de constancias, por cada persona:
-
-Cuota fija por servicio 2 salarios mínimos.
-
-XVII. Las certificaciones o constancias que son solicitadas con carácter de urgente, se causarán el doble de las cuotas aplicables, conforme a la Fracción Anterior.
-
-XVIII. Por los informes que rinda por escrito a Solicitud de las autoridades, a petición de la parte interesada, que esté en posibilidad de obtenerlo directamente, las cuotas que correspondan conforme a las dos fracciones anteriores.
-
-XIX. La cancelación de registro de sociedades civiles por extinción de las mismas 5 salarios mínimos.
-
-XX. La cancelación de las inscripciones en los casos a los que se refieren las Fracciones IV y VII, causarán el 20% de las cuotas por su valor que señala la Fracción II, sin que pueda ser menos de 2 salarios mínimos.
-
-XXI. La cancelación de las inscripciones en los casos a los que se refiere la Fracción IX causarán el 10% de las cuotas por valor que establece la Fracción II, sin que pueda ser menos de 3 salarios mínimos.
-
-XXII. Inscripción o registro de los contratos sobre transmisión de derechos de fideicomisario a que se refiere la Fracción III, del Artículo 27 de esta Ley.
-
-a). Cuota fija para toda clase de inscripción 5 salarios mínimos.
-
-b). Por el valor de la operación 2.5 al millar.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2019)
 
 ###### Artículo 69.
 
-Para el cobro de los derechos que establece el artículo que antecede, se observarán las siguientes reglas:
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2019)
 
-I. Se tendrá como valor, para los efectos de la aplicación de las tasas, en los casos de las Fracciones II, III, IV, VII, VIII, X, XIV, XIX, XX y XXI respectivamente, del Artículo anterior.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-a) Si se trata de patrimonio familiar, el de los bienes que lo constituyan.
-
-b) En los arrendamientos de inmuebles por más de seis años con anticipo de rentas por más de tres, el importe de las rentas estipuladas por el término del contrato, o el monto de las rentas anticipadas.
-
-c) Cuando se trate de actos, contratos o resoluciones por los que se transmita el dominio o la posesión de inmuebles o derechos reales, el precio de la transmisión señalado en el título o documento en el que se haga constar.
-
-d) En los contratos de garantía, en los embargos y otros gravámenes, el monto de las obligaciones garantizadas.
-
-e) En los casos de informaciones Adperpetuam y contratos privados, el valor de los inmuebles según avalúo pericial o fiscal de impuestos prediales, ambos actualizados.
-
-II. En las emisiones de cédulas hipotecarias en las que se constituya hipoteca a favor de una institución de crédito, por las comisiones, cuotas, derechos y otro concepto que no pueda determinarse al momento de realizarse la operación, se pagará por la inscripción de dicha hipoteca, independientemente de la que se constituya a favor de los tenedores de las cédulas, las cuotas correspondientes por cantidad indeterminada.
-
-III. En toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en ella queden comprendidos varios bienes, se pagará sobre el valor de cada uno de ellos. Si la transmisión comprende varios bienes y se realiza por una suma alzada, los interesados determinarán el valor que corresponda a cada uno de dichos bienes a efecto de que sirva de base para el cobro de los derechos.
-
-IV. En las operaciones de bienes inmuebles sujetas a condiciones suspensivas, resolutorias, reserva de propiedad o cualquier otra que haya de dar lugar a una inscripción complementaria, se pagará el 75% de lo que correspondería, con arreglo a la Fracción II del Artículo anterior, y al practicarse la inscripción complementaria, se cubrirá el 25% restante.
-
-V. Para la aplicación de las tasas de la Fracción II del Artículo que antecede, la nuda propiedad y el usufructo se valuarán en su caso en el 50% del precio del inmueble respectivamente.
-
-VI. En los casos de servicios que preste el Registro Público de la Propiedad y que no se encuentren expresamente previstos en las disposiciones de este capítulo, los derechos que a ellos correspondan, se causarán por asimilación aplicando las disposiciones relativas a los casos con los que guarden semejanza.
-
-VII. Cuando se trate de contratos, demandas o resoluciones que se refieran a prestaciones periódicas, se tendrá como valor la suma total de éstas, si se puede determinar exactamente su cuantía. En caso contrario, se tomará como base la cantidad que resulte haciendo el cómputo por un año.
-
-VIII. No se causarán los derechos a los que se refiere el Artículo que antecede:
-
-a) Si se trata de inscripciones relativas a bienes inmuebles o derechos reales, pertenecientes a la Nación, al Gobierno del Estado o a los Municipios, cuando dichas entidades las soliciten.
-
-b) Por los informes o certificaciones que soliciten el Gobierno Federal, las autoridades del Estado y las Municipales para fines que no sean fiscales.
-
-c) Por los informes solicitados para asuntos penales o para juicios de amparo.
-
-#### SECCIÓN II. REGISTRO PÚBLICO DE COMERCIO
+#### SECCIÓN II
 
 ###### Artículo 70.
 
-Los servicios que preste el Registro Público de Comercio, causarán derechos de acuerdo con la siguiente
-
-TARIFA:
-
-I. Examen de todo documento público o privado que se presente al Registro para su inscripción 3 salarios mínimos.
-
-II. Inscripción de matrícula:
-
-a). Por cada comerciante individual 3 salarios mínimos.
-
-b). Por cada sociedad mercantil 3 salarios mínimos.
-
-III. Inscripción de la Escritura Constitutiva de Sociedades Mercantiles o en las relativas a aumentos de su capital social o de sus aumentos el 100% de las cuotas que correspondan, conforme a la Fracción II, Inciso A del Artículo 68 de esta ley.
-
-IV. Inscripción de las modificaciones a las escrituras constitutivas de sociedades mercantiles, que no se refieran a aumentos del capital social 10 salarios mínimos.
-
-V. Inscripción de actas de asambleas de socios o de Juntas de Administradores 10 salarios mínimos.
-
-VI. Depósito del programa al que se refiere el Artículo 92 de la Ley General de Sociedades Mercantiles 10 salarios mínimos.
-
-VII. Inscripción del acta de emisión de bonos y obligaciones de sociedades anónimas, el 100% de las cuotas que correspondan, conforme a la Fracción II del Artículo 68.
-
-VIII. Inscripción de la disolución de Sociedades Mercantiles 10 salarios mínimos.
-
-IX. Inscripción de la liquidación de Sociedades Mercantiles 10 salarios mínimos.
-
-X. Inscripción de la disolución y liquidación de Sociedades Mercantiles cuando se lleven a efecto en un solo acto 15 salarios mínimos.
-
-XI. Cancelación de la inscripción del contrato de Sociedades 10 salarios mínimos.
-
-XII. Inscripción de poderes, sustitución y revocación de los mismos en forma total o parcial, por cada poderdante y/o apoderado 5 salarios mínimos.
-
-XIII. Inscripciones relativas a habilitación de edad, licencia o emancipación para ejercer el comercio, licencia marital o el requisito que en derecho necesita la mujer para los mismos fines, la revocación de unos y otros y las escrituras a las que se refieren las Fracciones X y XI del Artículo 21 del Código de Comercio 3 salarios mínimos.
-
-XIV. Inscripción de contratos Mercantiles de cualquier clase, enumerados en el Artículo 75 del Código de Comercio, sobre el valor:
-
-a). Cuota fija para toda clase de inscripciones, inclusive las de valor determinado 5 salarios mínimos.
-
-b). Por el valor de la operación 2.5 al millar.
-
-XV. Inscripción de contratos de corresponsalía de instituciones de crédito:
-
-a). Por inscripción 15 salarios mínimos.
-
-b). Por cancelación 10 salarios mínimos.
-
-XVI. Inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío 2.5 al millar
-
-Su cancelación 3 salarios mínimos.
-
-XVII. Inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial 10 salarios mínimos.
-
-XVIII. Anotaciones marginales relativas a inscripciones principales 1 salario mínimo.
-
-XIX. Depósito y guarda de cualquier documento 1 salario mínimo.
-
-XX. Ratificaciones de documentos y firmas ante el Registrador 5 salarios mínimos.
-
-XXI. Búsqueda de datos y revisión de libros para informes y certificados 3 salarios mínimos.
-
-XXII. Expedición de certificados relativos a constancias de registro.
-
-a). Por cada documento 5 salarios mínimos.
-
-b). Por cada hoja adicional 1 salario mínimo.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2019)
 
 ###### Artículo 71.
 
-Para el cobro de los derechos que establece el artículo anterior, se observarán las siguientes reglas:
-
-I. Cuando el mismo título origine dos o más inscripciones, los derechos se causarán por cada una de ellas;
-
-II. En los casos en los que un título tenga que inscribirse en varias secciones, la cotización se hará separadamente por cada una de ellas;
-
-III. En los contratos mercantiles en los que medie condición suspensiva, resolutoria, reserva de propiedad o cualquier otra modalidad que haya de dar lugar a una inscripción complementaria para su perfeccionamiento, se pagará de acuerdo con el Artículo anterior;
-
-IV. Cuando deban hacerse inscripciones de distintas operaciones que deriven de la constitución o disolución de alguna sociedad mercantil, se cobrarán los derechos exclusivamente por la inscripción que se haga en la sección de comercio;
-
-V. Los contratos en los que se pacten prestaciones periódicas se valuarán en la suma de éstas, si se puede determinar exactamente su cuantía y, en caso contrario, por lo que resulta de hacer el cómputo correspondiente a un año;
-
-VI. En los casos no previstos expresamente en el Artículo anterior, los derechos por servicios que preste el Registro Público de Comercio se causarán por asimilación, de acuerdo con las Fracciones relativas a casos con los que guarden semejanza; y
-
-VII. Se exceptúa del pago de derechos de inscripción en el Registro Público de Comercio a las Sociedades Cooperativas Escolares que se establezcan en las escuelas de la Secretaría de Educación Pública y que estén bajo su vigilancia.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2019)
 
 ### CAPÍTULO III. SERVICIOS CATASTRALES
 
@@ -971,13 +789,13 @@ Los servicios prestados por las oficinas catastrales, causarán un derecho que s
 
 TARIFA:
 
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
 I. Por cada copia de planos incluida
 
-la certificación 3 veces el valor diario de la Unidad de
+la certificación 4 Veces el valor diario de la Unidad de
 
-Medida y Actualización.
+Medida y Actualización
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -1001,19 +819,19 @@ Cuando exceda de $250,000.00
 
 pesos en adelante: 0.5 al millar.
 
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
 III. Certificados, por cada hoja o
 
-fracción 0.3 del valor diario de la Unidad de
+fracción 3 Veces del valor diario de la Unidad de
 
-Medida y Actualización.
+Medida y Actualización
 
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
 IV. Otorgamiento de claves catastrales,
 
-por cada una 1 vez el valor diario de la Unidad de
+por cada una 2 Veces el valor diario de la Unidad de
 
 Medida y Actualización
 
@@ -1477,6 +1295,24 @@ i) Autorización del uso del suelo comercial en el
 
 resto de la mancha urbana. 3
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+j) Supervisión técnica. 10
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+k) Llenado de formato de inicio y
+
+terminación. 1
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+l) Cancelación de subdivisión,
+
+lotificación y relotificación de predios
+
+por unidad. 6
+
 La ejecución de las obras sin la licencia respectiva, se sancionará, independientemente de pagar la licencia que corresponda, conforme a la siguiente:
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
@@ -1707,91 +1543,33 @@ IV. Los derechos para obras de alumbrados públicos serán pagados por propietar
 
 De las aportaciones por concepto de electrificación a solicitud de los beneficiarios, la aportación será del 80% a cargo del Ayuntamiento, cuando exista el apoyo federal del Fondo de Infraestructura Social del Ramo 33 y el 20% a cargo de los beneficiarios.
 
-### CAPÍTULO VII. DEL REGISTRO CIVIL
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO VII
 
 ###### Artículo 85.
 
-Quedarán exentos de pago los actos del Registro Civil, en sus Oficinas y en horas hábiles:
-
-a) Por levantamiento de Nacimiento
-
-b) Por defunción
-
-c) Por reconocimiento
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2019)
 
 ###### Artículo 86.
 
-Los actos del Registro Civil de Matrimonio que se levanten en sus Oficinas en horas hábiles, se cubrirán con uno y medio salarios mínimo.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2019)
 
 ###### Artículo 87.
 
-Los actos de certificación y/o levantamiento del Registro Civil causarán derechos conforme a la siguiente
-
-TARIFA:
-
-I. Registro de nacimientos:
-
-a) En horas inhábiles, en la oficina. 2 salarios mínimos
-
-b) Fuera de las oficinas. 15 salarios mínimos
-
-II. Registro de adopción:
-
-a) En horas hábiles en la oficina. 5 salarios mínimos
-
-III. Matrimonios:
-
-a) En horas inhábiles en la oficina. 5 salarios mínimos
-
-b) Fuera de las oficinas. 15 salarios mínimos
-
-c) Registro de matrimonios contraídos por mexicanos fuera de la República Mexicana. 10 salarios mínimos
-
-d) Registro de matrimonios contraídos por extranjeros en horas hábiles en la oficina. 10 salarios mínimos
-
-e) Registro de matrimonios contraídos por extranjeros en horas inhábiles. 20 salarios mínimos
-
-f) Registro de matrimonios contraídos por extranjero con ciudadano mexicano (a), en horas hábiles. 5 salarios mínimos
-
-g) Registro de matrimonios contraídos por ciudadano extranjero con ciudadano mexicano(a), en horas inhábiles. 20 salarios mínimos
-
-h) Por asiento de resolución judicial de cambio de régimen matrimonial 5 salarios mínimos
-
-IV. Divorcios:
-
-a) Por el trámite de divorcio administrativo contemplado en el Artículo 272 del Código Civil vigente. 15 salarios mínimos
-
-b) Por el registro de divorcio dictado por la Autoridad Judicial. 5 salarios mínimos
-
-V. Actas de supervivencia levantadas a domicilio. 1 salario mínimo
-
-VI. Inscripciones de extranjeros ante el Registro Civil. 20 salarios mínimos
-
-VII. La certificación de inscripción de extranjeros. 5 salarios mínimos
-
-VIII. Autorización de exhumación, inhumación, reinhumación y traslado de cadáver
-
-a) Constancia por cada exhumación o reinhumación 4 salarios mínimos.
-
-c) (sic) Traslado de cadáver o restos áridos dentro del país. 3 salarios mínimos.
-
-d) Traslado de cadáver o restos áridos fuera del País. 8 salarios mínimos
-
-IX. Inhumación o incineración de cadáver o de Miembro amputado: 3 salarios mínimos
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2019)
 
 ###### Artículo 88.
 
-Todos los actos del Registro Civil que no estén contempladas (sic) en el artículo anterior, causarán derechos y se cubrirá el pago de uno a diez días de salarios mínimos.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2019)
 
 ###### Artículo 89.
 
-Los Oficiales del Registro Civil percibirán el 30% de los derechos cobrados cuando se realicen los actos matrimoniales fuera de sus oficinas en horas inhábiles.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2019)
 
 ###### Artículo 90.
 
-Los actos del Registro Civil se efectuarán previo pago de los derechos a los que se refiere el Artículo 86.
-
-Los Oficiales del Registro Civil que actúen sin que hayan sido cubiertos los derechos a que esta Ley se refiere, serán responsables solidarios de su pago, independientemente de las sanciones administrativas o penales que se desprendan por dicha omisión.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2019)
 
 ### CAPÍTULO VIII. LEGALIZACIÓN DE FIRMAS, EXPEDICIÓN DE CERTIFICACIONES, CONSTANCIAS Y COPIAS CERTIFICADAS
 
@@ -1825,27 +1603,49 @@ IV. Búsqueda de documentos del archivo Municipal, cuando no se precisen los dat
 
 Por el otorgamiento de derechos a perpetuidad del terreno que se ocupe en los panteones o cementerios municipales de las cabeceras municipales o delegaciones, causarán las cuotas siguientes:
 
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-I. Fosa de 2 mts. a perpetuidad, 3 veces el valor diario de la Unidad de Medida y Actualización;
+I. Fosa de 2 metros a perpetuidad 3.15 Veces el valor diario de la Unidad de
 
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+Medida y Actualización.
 
-II. Fosa de 1.20 mts. a perpetuidad, 2 veces el valor diario de la Unidad de Medida y Actualización;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+II. Fosa de 1.20 metros a perpetuidad 2.10 Veces el valor diario de la Unidad de
+
+Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
 III. En los servicios adicionales se cobrará de acuerdo a la siguiente tarifa:
 
-a) Construcción de una gaveta, 15 veces el valor diario de la Unidad de Medida y Actualización;
+a) Construcción de una gaveta 21 Veces el valor diario de la Unidad de
 
-b) Construcción de dos gavetas, 30 veces el valor diario de la Unidad de Medida y Actualización;
+Medida y Actualización.
 
-c) Construcción de tres gavetas, 40 veces el valor diario de la Unidad de Medida y Actualización;
+b) Construcción de dos gavetas 42 Veces el valor diario de la Unidad de
 
-d) Construcción de cuatro gavetas, 50 veces el valor diario de la Unidad de Medida y Actualización; y
+Medida y Actualización.
 
-e) Construcción de gaveta para infante, 10 veces el valor diario de la Unidad de Medida y Actualización;
+c) Construcción de tres gavetas 63 Veces el valor diario de la Unidad de
+
+Medida y Actualización.
+
+d) Construcción de cuatro gavetas 84 Veces el valor diario de la Unidad de
+
+Medida y Actualización; y
+
+e) Construcción de gaveta para infante 10.5 Veces el valor diario de la Unidad de
+
+Medida y Actualización.
+
+f) Sellamiento de fosas y reposición. 7.35 Veces el valor de la Unidad de
+
+Medida y Actualización.
+
+g) Venta de losas para sellamiento. 1.05 Veces el valor de la Unidad de
+
+Medida y Actualización c/u
 
 IV. Construcción de cuatro gavetas 50 salarios mínimos
 
@@ -1939,17 +1739,25 @@ El alineamiento de predios sobre vía pública y la expedición de número ofici
 
 TARIFA:
 
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-I. Hasta 20 metros lineales, 2 veces el valor diario de la Unidad de Medida y Actualización;
+I. Hasta 20 metros lineales 3 Veces el valor de la Unidad de Medida y
 
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+Actualización.
 
-II. Por metro lineal adicional, 0.1 del valor diario de la Unidad de Medida y Actualización; y
+Por alineamiento que se realice a solicitud de particulares, fuera de la ciudad de Santa Rosalía, se pagará una cuota adicional de 0.25 del valor de la Unidad de Medida y Actualización por kilómetro recorrido.
 
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-III. Por la expedición del número oficial, 0.5 del valor diario de la Unidad de Medida y Actualización.
+II. Por metro lineal adicional 10% del valor diario de la Unidad de
+
+Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+III. Por la expedición del número oficial 2 Veces el valor diario de la Unidad de
+
+Medida y Actualización.
 
 ###### Artículo 104.
 
@@ -1989,105 +1797,39 @@ II. De morada conyugal 1 vez el valor diario de la Unidad de Medida y Actualizac
 
 ### CAPÍTULO XIV. SERVICIOS DE SEGURIDAD Y TRÁNSITO
 
-#### SECCIÓN I. DERECHOS POR SERVICIOS DE CONTROL VEHICULAR
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN I
+
+SERVICIOS DE TRÁNSITO.
 
 ###### Artículo 108.
 
-Los derechos por servicios de revista vehicular para servicio particular se pagarán anualmente, en los meses de Enero, Febrero, Marzo y Abril, de acuerdo con el Calendario que establezca la Autoridad Municipal correspondiente, y conforme a la siguiente
-
-TARIFA:
-
-I. Camiones y Camionetas 4 salarios mínimos
-
-II. Automóviles 3 salarios mínimos
-
-III. Motocicletas 2 salarios mínimos
-
-IV. Bicicletas 1 salario mínimo
-
-V. Vehículos de tracción manual 0.5 del salario mínimo
-
-VI. Por la expedición de Permisos provisionales para circular sin placas y sin excederse de 30 días.
-
-a) Primer permiso 0.1 del salario mínimo por día
-
-b) Del segundo en adelante adicional por día sobre el costo del primer permiso. 0.05 del salario mínimo
-
-Lo anterior con el objeto de fomentar la regularización de los vehículos que circulan en esas condiciones; cuando sean por causas ajenas al propietario del vehículo se dará en forma gratuita después del primer mes.
-
-VII. Por revisión electromecánica 1 salario mínimo
-
-VIII. Permiso para circular con una sola placa no mayor de 30 días por única vez 0.5 del salario mínimo
-
-IX. Permiso para circular con el parabrisas estrellado sin excederse de 30 días y por única vez 1 salario mínimo por día
-
-X. Baja de placas 1 salario mínimo
-
-XI. Reporte de extravío de placas, no mayor de 30 días con derecho a circulación. 1 salario mínimo
-
-XII. Otro tipo no especificado 1 salario mínimo
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2019)
 
 ###### Artículo 109.
 
-Los contribuyentes al efectuar el pago de las contribuciones a que se refiere el artículo anterior, podrán aportar, como donativo a la Benemérita Cruz Roja Mexicana y Honorable Cuerpo de Bomberos, tres pesos.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2019)
 
 ###### Artículo 110.
 
-Los permisos y renovaciones de otros derechos por servicios de control vehicular de camiones y autos de alquiler o de cualquier tipo de explotación comercial y/o similar, se pagarán por unidad anualmente, conforme a la siguiente:
-
-TARIFA:
-
-I. Permiso o renovación de ruta para camiones que presten servicio turístico de pasajeros 12 salarios mínimos.
-
-II. Permiso o renovación anual del mismo para explotar autos de alquiler (con chofer), camiones de servicios y cualquier explotación semejante 7 salarios mínimos.
-
-III. Las personas físicas y morales que tengan negocios registrados con venta de automóviles, deberán usar para el tránsito de sus vehículos en venta, placas demostradoras de acuerdo con lo establecido en el reglamento de tránsito, las cuales tendrán un valor anual, por juego de placas. 12 salarios mínimos.
-
-No pudiéndose otorgar a estas negociaciones más de 5 juegos de placas.
-
-IV.- Permiso o renovación anual del mismo para explotar vehículos de alquiler sin chofer 22 salarios mínimos.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2019)
 
 ###### Artículo 111.
 
-La reposición de la tarjeta de circulación tendrá un costo de:
-
-a) por extravío de la misma 2 salarios mínimos.
-
-b) por modificaciones en el vehículo 3 salarios mínimos
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2019)
 
 ###### Artículo 112.
 
-La dotación y reposición de placas de identificación del servicio de control vehicular, tendrán un costo de acuerdo a la siguiente
-
-TARIFA:
-
-I.- Camiones, automóviles y remolques 6 salarios mínimos.
-
-II.- Motocicletas, bicicletas y vehículos de tracción manual 2 salarios mínimos.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2019)
 
 ###### Artículo 113.
 
-Para la dotación y reposición de placas de identificación del servicio de control vehicular deberá tener cubierto el pago por concepto de revista vehicular y revisión electromecánica.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2019)
 
 ###### Artículo 114.
 
-No se permitirá conducir vehículos de motor sin obtener previamente su licencia o permiso para conducir cumpliendo los requisitos establecidos y conforme a la siguiente tarifa:
-
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-I. Licencia de chofer (por 3 años) 10 salarios mínimos
-
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-II. Licencia de automovilista (por 3 años) 6 salarios mínimos
-
-III. Licencia de motociclista (por 3 años) 3 salario mínimo
-
-IV. Permisos para conducir a menores:
-
-Jóvenes mayores de 16 y menores 3 salarios mínimos
-
-De 18 años (máximo 90 días), previo curso de manejo.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2019)
 
 > <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -2149,9 +1891,11 @@ Los derechos por el servicio de inspección municipal serán causados por los tr
 
 ### CAPÍTULO XVII. BIENES DE USO COMÚN Y OCUPACIÓN DE LA VÍA PÚBLICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 121.
 
-Por la ocupación de la vía pública, el Ayuntamiento se reservará la facultad de otorgar, refrendar o revocar estacionamientos exclusivos. En caso de la autorización previa, se pagará una renta de acuerdo a la siguiente
+Por la ocupación de la vía pública, el Ayuntamiento se reservará la facultad de otorgar, refrendar o revocar estacionamientos exclusivos. En caso de la autorización previa, las licencias y permisos para el uso de la vía pública, serán pagados mensualmente dentro de los primeros cinco días hábiles del mes, o dentro del siguiente mes a aquél en que inicien operaciones, una vez que el interesado haya acudido a la oficina de Recaudación Municipal de Rentas a solicitar su licencia, y que la autoridad haya determinado el cumplimiento de los requisitos legales y administrativos de acuerdo a las legislaciones correspondientes, para el otorgamiento del mismo. Para este fin habrán (sic) de aplicarse la siguiente:
 
 TARIFA:
 
@@ -2212,6 +1956,46 @@ c) Resto de las ciudades y poblaciones del municipio por día, 0.15 del valor di
 > <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 IX. Por cada carro casa autopropulsado o de tracción de cualquier tipo que ocupe, y que sea estacionado en lugares no autorizados deberá recabar autorización Municipal cubriendo una cuota diaria de 1.5 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+X. Aseadores de calzado en vía pública, 3 Veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XI. Fotógrafos en vía pública, 6 Veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XII. Músicos en vía pública, 6 Veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XIII. Vendedor en vía pública sin vehículo 6 Veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XIV. Vendedor en vía pública con vehículo 12 Veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XV. Puestos semifijos de mercancías en vía pública 12 Veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XVI. Puestos semifijos de alimentos en vía pública 12 Veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XVII. Puestos semifijos en general fuera del primer cuadro en vía pública. 12 Veces el valor diario de la Unidad de Medida y Actualización
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XVIII. Comerciante de Mercados sobre ruedas o Tianguis en vía pública. 15 Veces el valor diario de la Unidad de Medida y Actualización
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XIX. Por postes de madera, metal, concreto o cualquier otro material que soporte líneas conductoras de energía o señales de cualquier tipo. Diario y por cada uno, 0.0296 Veces el Valor Diario de la Unidad de Medida y Actualización.
 
 Los pagos anuales se harán por adelantado en los meses de Enero y Febrero de acuerdo con el calendario que establezca la Autoridad Municipal correspondiente.
 
@@ -2299,7 +2083,9 @@ I. Es objeto de este derecho el otorgamiento de la revalidación anual de licenc
 
 II. Son sujetos de este derecho las personas físicas o morales que soliciten y obtengan la revalidación anual de su licencia de funcionamiento, autorización de horarios extraordinarios o permisos eventuales para el funcionamiento de establecimientos y locales en los términos de la fracción anterior.
 
-III. La base de este derecho es el tipo de giro, licencia, autorización o permiso, que se otorgue en la materia, ya sea en número de días y horas cuando se trate de permisos eventuales o de funcionamiento en horas extraordinarias, en los términos que marquen el Ejecutivo Estatal, la Ley sobre el Control de Licencias y Establecimientos Destinados al Almacenaje, Distribución, Venta y Consumo de Bebidas Alcohólicas del Estado de Baja California Sur, el Bando de Policía y Buen Gobierno, Autoridades de Salud y demás disposiciones legales.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+III. La base de este derecho es el tipo de giro, licencia, autorización o permiso, que se otorgue en la materia, ya sea en número de días y horas cuando se trate de permisos eventuales o de funcionamiento en horas extraordinarias, en los términos que marquen el Ejecutivo Estatal, la Ley que Regula el Almacenaje, Distribución, Venta y Consumo de Bebidas Alcohólicas en el Estado de Baja California Sur, el Bando de Policía y Buen Gobierno, Autoridades de Salud y demás disposiciones legales.
 
 > <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -2429,9 +2215,11 @@ La revalidación anual de los permisos, licencias y registros de los establecimi
 
 Por el otorgamiento de permisos eventuales para el funcionamiento de establecimientos para el almacenaje, distribución, venta y/o consumo de bebidas alcohólicas por día, se causarán derechos conforme a lo que determine esta Ley.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 144.
 
-El Ayuntamiento podrá cancelar la licencia para el funcionamiento de establecimientos que expendan bebidas alcohólicas con base en lo establecido por la Ley sobre el Control de Licencias y Establecimientos Destinados al Almacenaje, Distribución, Venta Consumo de Bebidas Alcohólicas del Estado de Baja California Sur.
+El Ayuntamiento podrá cancelar la licencia para el funcionamiento de establecimientos que expendan bebidas alcohólicas con base en lo establecido por la Ley que Regula el Almacenaje, Distribución, Venta y Consumo de Bebidas Alcohólicas en el Estado de Baja California Sur.
 
 ###### Artículo 145.
 
@@ -2701,25 +2489,29 @@ El plazo para el computo de los recargos no comenzará a correr si el causante n
 
 ### CAPÍTULO IV. MULTAS
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 179.
 
 Se consideran como rezagos los adeudos por concepto de impuestos, derechos y productos que pasen a ejercicios fiscales posteriores, a pesar de que debió hacerse su pago en aquél en el que se causaron. Los rezagos serán cubiertos en las oficinas en las que debieron pagarse los impuestos, derechos y productos de los cuales provengan.
 
 ### CAPÍTULO V. SANCIONES POR DESACATO AL BANDO DE POLICÍA Y BUEN GOBIERNO, REGLAMENTO DE TRÁNSITO Y DEMÁS DISPOSICIONES VIGENTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 180.
 
-Las multas serán cobradas en los términos de las disposiciones legales que las establecen.
+Además de las que señale la presente Ley, las multas o sanciones por infracciones a disposiciones municipales, serán cobradas en los términos y condiciones que establezcan las disposiciones legales que las prevén. El cobro de las multas se hará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, según sea el caso.
 
 ### CAPÍTULO VI. APROVECHAMIENTOS DIVERSOS
 
 ###### Artículo 181.
 
-Las sanciones por desacato al Bando de Policía y Buen Gobierno, Reglamento de Transito, y demás disposiciones vigentes en el Municipio de Mulegé, se impondrán de acuerdo a la siguiente clave, concepto y tarifa:
+Las sanciones por desacato al Bando de Policía y Buen Gobierno, Reglamento de Tránsito, y demás disposiciones vigentes en el Municipio de Mulegé, se impondrán de acuerdo a la siguiente clave, concepto y tarifa:
 
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-Clave Descripción Importe
+Clave Concepto Importe
 
 (veces el valor diario
 
@@ -2727,9 +2519,9 @@ de la Unidad de Medida
 
 y Actualización)
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-1 Manejar sin licencia 10
+1 Manejar sin licencia 15
 
 2 (DEROGADA, B.O. 31 DE DICIEMBRE DE 2012)
 
@@ -2747,15 +2539,15 @@ y Actualización)
 
 7 No obedecer las indicaciones del agente 3
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-8 Recurrir a la fuga 15
+8 Recurrir a la fuga 20
 
 9 Faltas al agente 5
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-10 Prestar servicios públicos sin autorización 50
+10 Prestar Servicios Públicos sin autorización 55
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2777,7 +2569,9 @@ rampas de ascenso y descenso exclusivos para 100
 
 personas con discapacidad
 
-15 Estacionarse en zona prohibida 3
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+15 Estacionarse en zona prohibida 5
 
 16 Transportar pasaje en lugar de carga 10
 
@@ -2797,9 +2591,9 @@ personas con discapacidad
 
 22 Pasarse alto del agente 4
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-23 Pasarse alto del semáforo 10
+23 Pasarse alto del semáforo 20
 
 24 Adelantar vehículo en bocacalle 3
 
@@ -2813,15 +2607,19 @@ deba tenerlas 3
 
 28 Transitar con luz alta en la ciudad 3
 
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
 29 Falta de razón social, en vehículos de
 
-transporte público 3
+transporte Público 5
 
 30 Circular en sentido contrario 5
 
 31 Dar vuelta en "u" en zona prohibida 5
 
-32 Transitar sin placas 15
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+32 Transitar sin placas 20
 
 33 Transitar con placas vencidas 15
 
@@ -2831,7 +2629,9 @@ transporte público 3
 
 36 Uso indebido de placas demostradoras 15
 
-37 Exceso de pasaje 3
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+37 Exceso de pasaje 5
 
 38 Carecer de espacio para personas con
 
@@ -2865,9 +2665,9 @@ al conducir 3
 
 47 No reportar cambio de colores 3
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-48 No reportar cambio de propietario 10
+48 No reportar cambio de propietario 15
 
 49 Estacionarse en sentido contrario 5
 
@@ -2879,9 +2679,9 @@ al conducir 3
 
 53 Falta de luz en las placas 3
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-54 Falta de luz roja al frenar 5
+54 Falta de luz roja al frenar 6
 
 55 Falta de luz direccional 3
 
@@ -2967,7 +2767,7 @@ a personas acompañan (sic) 20
 
 86 Llevar personas o bultos en brazos al conducir 20
 
-> <small>(REFORMADA, B.O. 10 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
 87 Producir ruidos innecesarios o
 
@@ -2979,11 +2779,11 @@ permitidos por la autoridad
 
 municipal, con bocinas,
 
-incluyendo aquellos producidos
+incluyendo aquellos producidos 55
 
 por unidades móviles de
 
-reparto de gas, agua y otros De 10 a 100
+reparto de gas, agua y otros
 
 productos ofrecidos al público,
 
@@ -2991,7 +2791,7 @@ así como cualquier otra fuente
 
 de sonido innecesaria o no
 
-autorizada)
+autorizada).
 
 88 No guardar distancia reglamentaria 3
 
@@ -3093,27 +2893,27 @@ autorización para transportar carga y
 
 materiales para construcción 55
 
-> <small>(ADICIONADA, B.O. 10 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-121 Contaminación por ruido De 50 a 500
+121 Contaminación por ruido 275
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
 122 Producir ruidos por cualquier medio, ya
 
 sean fuentes fijas o fuentes móviles, que
 
-rebasen los límites permitidos conforme
+rebasen los límites permitidos conforme 15.5
 
 a las Normas Oficiales Mexicanas y que
 
 además provoquen molestias o alteren la
 
-tranquilidad de las personas. 11 a 20
+tranquilidad de las personas
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-123 Permitir al propietario o poseedor de un
+123 Permitir el propietario o poseedor de un
 
 animal que éste transite libremente, o
 
@@ -3125,69 +2925,373 @@ características particulares del animal, para
 
 prevenir posibles ataques a otras personas o
 
-animales, así como azuzarlo, o no contenerlo. 11 a 20
+animales, así como azuzarlo, o no contenerlo 15.5
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
 124 Abstenerse de recoger, de vías o lugares
 
 públicos, las heces fecales de un animal de su
 
-propiedad o bajo su custodia. 11 a 20
+propiedad o bajo su custodia 15.5
 
-(REUBICADA, B.O. 31 DE DICIEMBRE DE 2012)
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
 125 Por pintar inmuebles, paredes o transporte
 
-público con graffiti. 10 a 100
+público con graffiti. 100
 
-(REUBICADA, B.O. 31 DE DICIEMBRE DE 2012)
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-126 Por contaminación con residuos peligrosos. 100 a 1000
+126 Por contaminación con residuos peligrosos 505
 
-(REUBICADA, B.O. 31 DE DICIEMBRE DE 2012)
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-127 Por contaminación con humos, olores y
+127 Por contaminación con humos, olores
 
-partículas suspendidas en el aire de
+y partículas suspendidas en el aire
 
-sustancias tóxicas y volátiles. 100 a 1000
+de sustancias tóxicas y volátiles 505
 
-(REUBICADA, B.O. 31 DE DICIEMBRE DE 2012)
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-128 Contaminación por residuos sólidos urbanos
+128 Contaminación por residuos sólidos
 
-en predios y viviendas. 10 a 100
+urbanos en predios y viviendas 50.5
 
-(REUBICADA, B.O. 31 DE DICIEMBRE DE 2012)
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
 129 Realizar actividades que generen
 
-contaminación sin contar con medidas de
+contaminación sin contar con medidas
 
-mitigación adecuadas. 10 a 100
+de mitigación adecuadas 50.5
 
-(REUBICADA, B.O. 31 DE DICIEMBRE DE 2012)
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-130 Mal uso de agua potable, en lavado de patios,
+130 Mal uso de agua potable, en lavado
 
-banquetas y riego de calles por costumbre. 5 a 10
+de patios, banquetas y riego de calles
 
-(REUBICADA, B.O. 31 DE DICIEMBRE DE 2012)
+por costumbre 7.5
 
-131 Por descargas de agua de desecho a la
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-vía pública. 5 a 10
+131 Por descargas de agua de desecho a
 
-(REUBICADA, B.O. 31 DE DICIEMBRE DE 2012)
+la vía pública 7.5
 
-132 Uso de teléfono móvil al conducir. 2
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+132 Uso de teléfono móvil al conducir 20
 
 (REUBICADA, B.O. 31 DE DICIEMBRE DE 2012)
 
 133 Permitir manejar sin licencia. 3
 
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+134 Dejar sin bardear, cercar o conservar
+
+sucios los lotes baldíos 50.25
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+135 Operar los radios, estéreos u otros
+
+aparatos sonoros con margen de
+
+volumen mayor a noventa decibeles
+
+los cuales impiden escuchar los
+
+sonidos emitidos por los vehículos
+
+de emergencia 8
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+136 Apartar o separar lugares de
+
+estacionamiento en la vía pública o
+
+colocar objetos que obstaculicen
+
+al mismo 5
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+137 Rebasar por el carril de circulación
+
+en curvas, lomas, pasos a desnivel,
+
+puentes, intersecciones o cruceros,
+
+en zonas escolares y con línea
+
+central continua en el pavimento 5
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+138 Rebasar a los vehículos que se
+
+encuentran detenidos cediendo
+
+el paso a peatones 5
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+139 Transportar más de dos pasajeros
+
+en el asiento delantero en cualquier
+
+tipo de vehículo, en caso de ser
+
+asiento individual 10
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+140 Manifestar una conducta evidente
+
+de hostigamiento hacia otros
+
+conductores haciendo mal uso del
+
+vehículo que conduce o del claxon
+
+de este 5
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+141 Conducir el vehículo con un aparato
+
+de televisión encendido, ubicado
+
+en el tablero, asiento delantero o
+
+adherido al vehículo, de manera que
+
+el conductor del mismo se distraiga al
+
+observar la pantalla de la televisión 10
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+142 Cubrir el cristal delantero o
+
+parabrisas de cualquier polarizado
+
+que obstruya la visibilidad 5
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+143 Estacionarse en lugar prohibido,
+
+simulando una falla mecánica 5
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+144 Reparación de vehículos en la
+
+vía pública, por talleres o
+
+negociaciones 5
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+145 Ingerir alimentos cuando se esté
+
+conduciendo la unidad de
+
+servicio público 7.5
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+146 Realizar maniobras de ascenso
+
+y/o descenso de personas, así
+
+como de carga o descarga en lugares
+
+inseguros y no destinados para tal
+
+fin, en el caso de prestadores del
+
+servicio de transporte de pasajeros
+
+o de carga 105
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+147 No prestar gratuitamente servicios
+
+de emergencia que se requiera,
+
+en los casos de catástrofes y
+
+calamidades 50
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+148 Transportar solventes, combustibles,
+
+sustancias tóxicas, corrosivas o
+
+explosivas y no cuenten con los
+
+permisos correspondientes 750
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+149 Estacionar en la vía pública las
+
+unidades de transporte de carga
+
+sin autorización 550
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+150 Se realicen servicios de transporte
+
+de pasajeros y de carga diferentes
+
+a la modalidad autorizada 550
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+151 Por fijar sin autorización publicidad
+
+en el interior o exterior de vehículos
+
+de servicio público de transporte 375
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+152 No portar en las unidades concesionadas
+
+de transporte, la póliza de seguro vigente 140 servicio de pasajeros y
+
+50 servicio de carga
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+153 Conducir unidad del servicio público
+
+sin contar con licencia de chofer
+
+vigente 90 unidades de pasajeros
+
+y 70 unidades de carga
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+154 Utilizar la vía pública como lote para
+
+ventas de vehículos 3
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES E INCISOS], B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Sin perjuicio de lo señalado anteriormente, se establecen las siguientes infracciones y sanciones económicas correspondientes, por:
+
+I.- Violaciones al Reglamento de Construcciones para el Estado de Baja California Sur en los siguientes términos:
+
+a).- Por no dar aviso dentro de los primeros 10 días hábiles siguientes a la terminación o suspensión de los trabajos de Construcción en:
+
+Casa Habitación 10 a 11 veces el valor diario de la Unidad de
+
+Medida y Actualización.
+
+Locales Comerciales 20 a 21 veces el valor diario de la Unidad de
+
+Medida y Actualización
+
+Locales Industriales 30 a 31 veces el valor diario de la Unidad de
+
+Medida y Actualización
+
+b).- Por no cumplir con las disposiciones de conservación de edificaciones, 30 a 40 veces el valor diario de la Unidad de Medida y Actualización
+
+c).- Por ocupar una obra terminada sin el permiso necesario en:
+
+Casa Habitación 30 a 31 veces el valor diario de la Unidad de
+
+Medida y Actualización
+
+Locales Comerciales 50 a 51 veces el valor diario de la Unidad de
+
+Medida y Actualización
+
+Locales Industriales 100 a 101 veces el valor diario de la Unidad de
+
+Medida y Actualización
+
+d).- Por incumplimiento a un citatorio o Requerimiento de la Autoridad, de 5 a 6 veces el valor diario de la Unidad de Medida y Actualización.
+
+e).- Por dejar de solicitar la revisión anual de prueba de seguridad en los centros de reunión, salas de espectáculos y hospitales, de 10 a 11 veces el valor diario de la Unidad de Medida y Actualización.
+
+f).- Por carecer de los equipos del sistema hidráulico o tenerlos Incompletos o descompuestos, de 10 a 11 veces el valor diario de la Unidad de Medida y Actualización.
+
+g).- Por ejecutar una obra o parte de ella sin licencia necesaria, de 50 a 51 veces el valor diario de la Unidad de Medida y Actualización.
+
+h).- Por incurrir en falsedad de los datos consignados en la solicitud de la licencia que de otra manera no hubiera sido concedida, según la gravedad del caso, de 50 a 300 veces el valor diario de la Unidad de Medida y Actualización.
+
+i).- Por omitirse en la solicitud de licencia la declaratoria de que el inmueble está sujeto a las disposiciones sobre protección y conservación de monumentos arqueológicos o históricos, de poblaciones típicas y lugares de belleza natural, de 100 a 101 veces el valor diario de la Unidad de Medida y Actualización.
+
+j).- Por ejecutarse una obra modificando el proyecto, las especificaciones y otros procedimientos aprobados, según la gravedad del caso, de 30 a 300 veces el valor diario de la Unidad de Medida y Actualización.
+
+k).- Por ejecutarse una obra sin el responsable requerido, según la gravedad del caso, de 30 a 50 veces el valor diario de la Unidad de Medida y Actualización.
+
+l).- Por carecerse en la obra del libro de registro de inspección, o por omitirse en él, los datos requeridos por el Reglamento de Construcciones para el Estado de Baja California Sur 30 a 50 veces el valor diario de la Unidad de Medida y Actualización
+
+m).- Por no tener la precaución o no hacer las instalaciones necesarias para proteger la vida de las personas o los bienes públicos o privados, de 30 a 31 veces el valor diario de la Unidad de Medida y Actualización.
+
+n).- Por prescindir o no cumplir un requerimiento técnico o administrativo, de 30 a 31 veces el valor diario de la Unidad de Medida y Actualización.
+
+o).- Por impedir u obstaculizar al personal de la autoridad en el cumplimiento de sus funciones; según la gravedad del caso 30 a 250 veces el valor diario de la Unidad de Medida y Actualización.
+
+p).- Por usar una obra u ocupar parte de ella sin haber sido autorizada, según la gravedad del caso, de 30 a 300 veces el valor diario de la Unidad de Medida y Actualización.
+
+q).- Por infracciones al Reglamento de Construcciones para el Estado de Baja California Sur, no comprendidas en las fracciones que anteceden, se sancionará a criterio de la autoridad, según la gravedad del caso y no menor ni mayor de 20 a 100 veces el valor diario de la Unidad de Medida y Actualización.
+
+II.- Por Infracciones relacionadas al funcionamiento de establecimientos que expenden bebidas alcohólicas:
+
+a).- A aquellos establecimientos que ofendan la moral, las buenas costumbres o por así requerirlo el interés social, se le sancionará con 250 a 251 veces el valor diario de la Unidad de Medida y Actualización.
+
+b).- Al no solicitar su revalidación anual en los plazos señalados en el Artículo 143 de esta Ley, con una multa de 65 a 66 veces el valor diario de la Unidad de Medida y Actualización.
+
+c).- Cuando el establecimiento funcione en un lugar distinto o se cambie su giro o razón social, sin la autorización correspondiente se sancionara con 200 a 201 veces el valor diario de la Unidad de Medida y Actualización.
+
+d).- Cuando permita la entrada así como la venta de bebidas alcohólicas a menores de edad, se impondrá una multa de 200 a 201 veces el valor diario de la Unidad de Medida y Actualización.
+
+e).- Cuando no reúnan los requisitos contemplados en la normatividad que aplica la Secretaria de Salubridad y Asistencia, se impondrá una multa de 50 a 51 veces el valor diario de la Unidad de Medida y Actualización.
+
+f).- Cuando funcionen fuera del horario que les ha sido autorizado, se sancionará conforme a lo que dispone la Ley de la Materia.
+
+g).- A los establecimientos que sin la licencia respectiva que les autorice a ello, expendan bebidas en envase abierto para ser consumidas fuera de su local, se impondrá una sanción de 50 a 51 veces el valor diario de la Unidad de Medida y Actualización.
+
+h).- A los establecimientos que expendan bebidas a personas en evidente estado de ebriedad, se impondrá una sanción de 50 a 51 veces el valor diario de la Unidad de Medida y Actualización.
+
+i).- Cuando no se cuente con personal de vigilancia debidamente calificado, en el caso de cantinas, cervecerías, discotecas, cabarets, centros nocturnos, bares y demás similares, se sancionara con una multa de 180 a 181 veces el valor diario de la Unidad de Medida y Actualización.
+
+j).- Cuando, las cantinas cervecerías, discotecas, cabarets o centros nocturnos, bares o demás similares, se encuentren conectados con casas habitación, o tengan entrada común a esta, se sancionara con una multa de 200 a 201 veces el valor diario de la Unidad de Medida y Actualización, con excepción de los restaurantes, cafés, fondas y cenadurías.
+
+k).- Cuando, en los establecimientos en donde la ley al respecto lo requiera, no se coloquen avisos donde se especifique que está prohibida la entrada a menores de edad, se sancionará con una multa de 20 a 21 veces el valor diario de la Unidad de Medida y Actualización.
+
+l).- Cuando en los locales destinados a los almacenamientos de bebidas alcohólicas, vendan al menudeo, se les sancionará con una multa de 100 a 101 veces el valor diario de la Unidad de Medida y Actualización.
+
+m).- Cuando se vendan bebidas alcohólicas fuera del establecimiento se sancionará con una multa de 100 a 101 veces el valor diario de la Unidad de Medida y Actualización.
+
+III.- Sin perjuicio de lo señalado en el artículo 121 de esta Ley, se sancionará además por las siguientes infracciones:
+
+a).- Por utilizar la vía pública con fines comerciales sin la autorización correspondiente, con multa de 50 a 150 veces el valor diario de la Unidad de Medida y Actualización.
+
+b).- Causar molestias a las personas en tránsito con motivo de la actividad comercial en la vía pública, con multa de 50 a 150 veces el valor diario de la Unidad de Medida y Actualización.
+
+c).- Introducirse a propiedad privada con fines comerciales, sin la autorización del propietario del inmueble, con multa de 50 a 150 veces el valor diario de la Unidad de Medida y Actualización.
+
 ### CAPÍTULO ÚNICO. CLASIFICACIÓN
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 182.
 
@@ -3201,63 +3305,67 @@ Los honorarios de notificación de créditos y gastos de ejecución por falta de
 
 La falta de cumplimiento en el pago de los impuestos, derechos, así como las obligaciones previstas en esta Ley y donde no se asignen sanciones específicas, deberá (sic) ser sancionadas con multas de un tanto del impuesto, derecho u obligación de que se trate.
 
-## TÍTULO SEXTO. PARTICIPACIONES
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+## TÍTULO SEXTO
+
+INGRESOS POR VENTA DE BIENES, PRESTACIÓN DE SERVICIOS Y OTROS INGRESOS.
 
 ### CAPÍTULO ÚNICO. CLASIFICACIÓN
 
-## TÍTULO SEXTO (SIC). FONDOS DE APORTACIONES FEDERALES
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 184 Bis.
+
+Son los ingresos propios obtenidos por las entidades de la administración pública paramunicipal, así como otros ingresos por sus actividades diversas no inherentes a su operación, que generen recursos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+## TÍTULO SÉPTIMO
+
+PARTICIPACIONES, APORTACIONES, CONVENIOS, INCENTIVOS DERIVADOS DE LA COLABORACIÓN FISCAL Y FONDOS DISTINTOS DE APORTACIONES.
 
 ### CAPÍTULO ÚNICO. CLASIFICACIÓN
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 185.
 
-Quedan comprendidos dentro de esta clasificación los ingresos que tenga el Municipio por concepto de participaciones federales y estatales, de conformidad a lo dispuesto en las leyes que las concedan y en los convenios que en su caso, se celebren o se hayan celebrado.
+Son los recursos que reciben (sic) el Municipio por concepto de participaciones, aportaciones, convenios, incentivos derivados de la colaboración fiscal y fondos distintos de aportaciones.
 
-## TÍTULO SÉPTIMO. INGRESOS EXTRAORDINARIOS
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO I. PENSIONADOS Y JUBILADOS
+## TÍTULO OCTAVO
+
+TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y SUBVENCIONES.
+
+### CAPÍTULO ÚNICO. CLASIFICACIÓN
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 186.
 
-Las aportaciones federales para fines específicos que a través de los diferentes fondos le corresponden al Municipio de Mulegé, se percibirán en los términos que establezcan el Presupuesto de Egresos de la Federación, la Ley de Coordinación Fiscal y los convenios respectivos.
+Son los ingresos que reciben los entes públicos con el objeto de sufragar gastos; inherentes a sus atribuciones; así como los ingresos destinados para el desarrollo de actividades prioritarias de interés general, que reciben los entes públicos mediante asignación directa de recursos, con el fin de favorecer a los diferentes sectores de la sociedad para: apoyar en sus operaciones, mantener los niveles en los precios, apoyar el consumo, la distribución y comercialización de bienes, motivar la inversión, cubrir impactos financieros, promover la innovación tecnológica, y para el fomento de las actividades agropecuarias, industriales o de servicios.
 
-## TÍTULO OCTAVO. REDUCCIONES PARA PENSIONADOS, JUBILADOS, SENECTUD Y DISCAPACITADOS
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO II. SENECTUD
+## TÍTULO NOVENO. INGRESOS EXTRAORDINARIOS
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO I. PENSIONADOS Y JUBILADOS
 
 ###### Artículo 187.
 
-Son ingresos extraordinarios los que se originen de los organismos descentralizados, desconcentrados, de participación municipal, así como ingresos derivados de los convenios de colaboración administrativa con Entidades Federales.
+Son los ingresos obtenidos por la celebración de empréstitos internos o externos, a corto o largo plazo, aprobados en términos de la legislación correspondiente.
 
-I. Intereses bancarios y/o de financiamientos
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-II. Donativos, herencias y legados a favor del Municipio de Mulegé
+## TÍTULO DÉCIMO
 
-III. Reintegros
+REDUCCIONES PARA PENSIONADOS, JUBILADOS, SENECTUD Y DISCAPACITADOS.
 
-IV. Indemnizaciones a favor del Municipio
-
-V. Subsidios federales y estatales
-
-VI. Aportaciones de los gobiernos federal, estatal, y terceros para obras de beneficio social a cargo del Municipio de Mulegé
-
-VII. Empréstitos y financiamientos diversos
-
-VIII. Depósitos
-
-IX. Gastos de ejecución
-
-X. Intereses por prórroga de pago de créditos fiscales
-
-XI. Ingresos por ZOFEMAT
-
-XII. 10% de inspección y vigilancia ZOFEMAT
-
-XIII. Otros no especificados
-
-## TÍTULO NOVENO. ESTÍMULOS FISCALES DESTINADOS AL FOMENTO DE LA INVERSIÓN PRODUCTIVA Y LA GENERACIÓN DE EMPLEOS
-
-### CAPÍTULO III. DISCAPACITADOS
+### CAPÍTULO II. SENECTUD
 
 ###### Artículo 188.
 
@@ -3297,7 +3405,7 @@ Para aplicar las reducciones a las contribuciones de referencia, dentro de los l
 
 Los Recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito por infracciones a las disposiciones fiscales a cargo de Pensionados o Jubilados, se reducirán conforme a los porcentajes y respecto de las contribuciones que se indican en los artículos 184 y 185 de esta Ley, en la misma proporción con la que se haya beneficiado al Pensionado o Jubilado.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO III. DISCAPACITADOS
 
 ###### Artículo 193.
 
@@ -3322,6 +3430,8 @@ IV. De un 50% de descuento en derechos por servicios de control vehicular, únic
 V. De un 50% de descuento por el servicio de agua potable y alcantarillado para uso doméstico, en el pago de los derechos de las solicitudes de contrato del servicio de agua potable y alcantarillado, así mismo para la solicitud de cambio de propietario, para personas afiliadas al (INSEN).
 
 VI. De un 50% de descuento en la entrada a todo evento deportivo, recreativo, musical, etc., convocado y organizado por el Ayuntamiento y en los permisos para eventos familiares expedidos por la coordinación de espectáculos municipales para personas afiliadas al (INSEN).
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 196.
 
@@ -3349,9 +3459,11 @@ V. De un 50% de descuento por el servicio de agua potable y alcantarillado para 
 
 VI. Un 50% de descuento en la entrada a todo evento deportivo, recreativo, musical, etc., convocado y organizado por el Ayuntamiento y en los permisos para eventos familiares expedidos por la coordinación de espectáculos municipales.
 
-## TÍTULO ÚNICO. ILÍCITOS FISCALES
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-INFRACCIONES Y SANCIONES
+## TÍTULO DÉCIMO PRIMERO
+
+ESTÍMULOS FISCALES DESTINADOS AL FOMENTO DE LA INVERSIÓN PRODUCTIVA Y LA GENERACIÓN DE EMPLEOS.
 
 ###### Artículo 199.
 
@@ -3378,6 +3490,12 @@ VI. El acreditamiento del monto total de la adquisición de predios donde el suj
 ###### Artículo 200.
 
 Para efectos de lo dispuesto en este Capítulo, se considerarán sujetos beneficiarios para recibir estímulos fiscales, todas aquellas personas físicas o morales o unidades económicas que hayan obtenido resolución favorable a la solicitud de otorgamiento de éstos, conforme al procedimiento establecido en la Ley de Fomento Económico del Estado de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+## TÍTULO DÉCIMO SEGUNDO
+
+ILÍCITOS FISCALES INFRACCIONES Y SANCIONES.
 
 ###### Artículo 201.
 
@@ -3447,7 +3565,9 @@ Para efectuar las clausuras que se señalan en las fracciones III, IV y V de est
 
 Tratándose de giros en los que se realicen actividades en forma eventual o que se encuentren en los casos señalados en las fracciones I y II de este artículo, se procederá en forma inmediata a la clausura sin mediar plazo alguno.
 
-Tratándose de los giros que expenden bebidas alcohólicas se procederá con base en lo establecido por la Ley sobre el Control de Licencias y Establecimientos Destinados al Almacenaje, Distribución, Venta y Consumo de Bebidas Alcohólicas del Estado de Baja California Sur.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Tratándose de los giros que expenden bebidas alcohólicas se procederá con base en lo establecido por la Ley que Regula el Almacenaje, Distribución, Venta y Consumo de Bebidas Alcohólicas en el Estado de Baja California Sur.
 
 TRANSITORIOS:
 
@@ -3536,3 +3656,15 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 31 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2659 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL MUNICIOPIO DE MULEGÉ, BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 01 de enero de 2020, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+El H. XVI Ayuntamiento de Mulegé deberá llevar a cabo los ajustes correspondientes a su normatividad municipal en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente decreto.
