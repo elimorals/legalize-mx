@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-139002"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-10-31"
-last_updated: "2019-10-31"
+last_updated: "2019-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el jueves 31 de octubre de 2019.
 
@@ -425,6 +425,8 @@ n) Ejercer las atribuciones derivadas de los Convenios de Colaboración Administ
 
 XXIII. Las demás que determinen las leyes y reglamentos aplicables;
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 28.
 
 La Oficialía Mayor dependerá de la Secretaría de Hacienda, pero contará con autonomía técnica para el ejercicio de sus atribuciones que serán las siguientes:
@@ -447,13 +449,21 @@ VIII. Capacitar y establecer las normas de control y disciplina del personal de 
 
 IX. Orientar las entidades paraestatales acerca de las normas y políticas del Poder Ejecutivo, en materia de administración y desarrollo en personal, adquisición y conservación de bienes;
 
-X. Establecer y presidir el Comité de Adquisiciones, Arrendamiento y Servicios, con atribuciones para conocer de las adquisiciones, arrendamientos y servicios que deban adjudicarse o contratarse en los términos señalados en la Ley de Adquisiciones, Arrendamientos y Servicios para el Estado de Baja California y su reglamento;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XI. Fijar, regular y emitir a través del Comité de Adquisiciones, Arrendamiento y Servicios, los criterios y lineamientos en materia de adquisiciones, arrendamientos, suministro, registro, almacenamiento y mantenimiento de bienes y servicios, materiales logísticos e informáticos necesarios para el cumplimiento de los objetivos de la Administración Pública Estatal;
+X. Establecer y presidir el Comité de Adquisiciones, Arrendamientos y Servicios, con atribuciones para conocer de las adquisiciones, arrendamientos y servicios que deban adjudicarse o contratarse en los términos señalados en la Ley de Adquisiciones, Arrendamientos y Servicios para el Estado de Baja California y su reglamento, siempre que el monto de la adquisición o arrendamiento no sea superior a cinco millones de pesos;
 
-XII. Emitir los dictámenes que requieran las dependencias o entidades de la Administración Pública Estatal relacionados con programas de capacitación, adquisición, arrendamientos y adquisición de servicios proporcionados por terceros en los términos de la Ley de Adquisiciones, Arrendamientos y Servicios para el Estado de Baja California y su Reglamento;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XIII. Normar y controlar los procesos para la proveeduría de los bienes y servicios que requiera la Administración Pública Estatal, para el cumplimiento de sus objetivos bajo un esquema de transparencia y adecuada supervisión;
+XI. En los términos de la fracción anterior, fijar, regular y emitir a través del Comité de Adquisiciones, Arrendamiento y Servicios, los criterios y lineamientos en materia de adquisiciones, arrendamientos, suministro, registro, almacenamiento y mantenimiento de bienes y servicios, materiales logísticos e informáticos necesarios para el cumplimiento de los objetivos de la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XII. Emitir conforme a la fracción X de este artículo, los dictámenes que requieran las dependencias o entidades de la Administración Pública Estatal relacionados con programas de capacitación, adquisición, arrendamientos y adquisición de servicios proporcionados por terceros en los términos de la Ley de Adquisiciones, Arrendamientos y Servicios para el Estado de Baja California y su Reglamento;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XIII. Normar los procesos para la proveeduría de los bienes y servicios que requiera la Administración Pública Estatal, para el cumplimiento de sus objetivos bajo un esquema de transparencia y adecuada supervisión;
 
 XIV. Emitir las bases para fijar precios, tarifas tasas, cuotas y demás ingresos por concepto de servicios, enajenación o arrendamiento de bienes del dominio privado del Estado, en los términos de la normativa correspondiente;
 
@@ -1175,6 +1185,10 @@ Para lograr el control eficaz del régimen patrimonial y financiero de los fidei
 
 ## TÍTULO IV. DE LA SECTORIZACIÓN
 
+### CAPÍTULO ÚNICO. DEL COMITÉ DE HONESTIDAD DE LA PROVEEDURÍA PÚBLICA
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 53.
 
 Sin detrimento de las Leyes, Decretos o Acuerdos Especiales que establezcan la creación de las entidades paraestatales, el Titular del Poder Ejecutivo deberá emitir acuerdo Especial por el que agrupen, identificando sectores en razón de la concurrencia de los fines u objetivos que les crean las atribuciones de las dependencias de la Administración Centralizada, guardando la primacía que tienen éstas como auxiliares directas del Poder Ejecutivo para conducir la Política del Desarrollo Estatal.
@@ -1192,6 +1206,36 @@ Para la interpretación de controversias que surjan entre dependencias y entidad
 Las relaciones entre el Ejecutivo Estatal y las entidades paraestatales, para fines de congruencia global de la administración pública paraestatal con el sistema estatal de planeación y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, se llevarán a cabo en la forma y términos que dispongan las leyes, por conducto de las Secretarías correspondiente (sic), en el ámbito de sus respectivas competencias, sin perjuicio de las atribuciones que competan a la coordinadora del sector correspondiente.
 
 Las Secretarías correspondientes, emitirán los criterios para la clasificación de las entidades paraestatales conforme a sus objetivos y actividades, en aquellas que cumplan una función institucional y las que realicen fines comerciales con el propósito de, en su caso, establecer mecanismos diferenciados que hagan eficiente su organización, funcionamiento, control y evaluación. Dichos mecanismos contemplarán un análisis sobre los beneficios y costos de instrumentar prácticas de gobierno corporativo en las entidades con fines comerciales, a efecto de considerar la conveniencia de su adopción.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+## TÍTULO V. DE LA HONESTIDAD DE LA PROVEEDURÍA PÚBLICA
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 57.
+
+El Comité de Honestidad de la Proveeduría Pública, estará integrado conforme a lo previsto en el párrafo cuarto del artículo 4 de esta Ley, y tendrá las siguientes atribuciones:
+
+I. Conocer de las adquisiciones, arrendamientos y servicios que deban adjudicarse o contratarse en los términos señalados en la Ley de Adquisiciones, Arrendamientos y Servicios para el Estado de Baja California y su reglamento, siempre que el monto de la adquisición o arrendamiento sea superior a cinco millones de pesos;
+
+II. Conocer el programa anual y el presupuesto anual o plurianual de adquisiciones, arrendamientos y servicios, así como sus modificaciones de conformidad con la normatividad presupuestaria;
+
+III. Participar en las licitaciones públicas y en los concursos por invitación restringida, en los actos de junta de aclaraciones, presentación y apertura de propuestas, y fallo;
+
+IV. Emitir dictamen sobre las propuestas presentadas por los licitantes en las licitaciones públicas y en los concursos por invitación restringida;
+
+V. Analizar y emitir opinión, cuando corresponda, en los términos de la Ley y de su Reglamento, respecto a las adquisiciones o arrendamientos de bienes muebles y contratación de servicios de las dependencias;
+
+VI. Dictaminar los casos de excepción a la celebración de licitaciones públicas en los términos de la Ley;
+
+VII. Definir la integración y funcionamiento de los subcomités que se requieran, por materias específicas; y
+
+VIII. Las demás que establezcan su Reglamento y demás ordenamientos legales y administrativos.
+
+El Comité podrá invitar a sus sesiones a representantes de otros entes gubernamentales cuando por la naturaleza de los asuntos que deban tratar, se considere pertinente su participación.
+
+El Comité turnará a la Oficialía Mayor, los dictámenes y resoluciones que emitan, para el seguimiento administrativo correspondiente.
 
 ## TRANSITORIOS
 
@@ -1256,3 +1300,11 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 38 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 28 Y SE ADICIONA EL TÍTULO V, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
