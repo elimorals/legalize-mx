@@ -4,7 +4,7 @@ identifier: "HID-ley-del-centro-de-conciliacion-laboral-del-estado-de-hidalgo-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-16"
-last_updated: "2018-04-16"
+last_updated: "2019-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127898&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 16 de abril de 2018.
 
@@ -89,15 +89,23 @@ En la operación del Centro prevalecerán los principios de certeza, independenc
 
 ### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES DEL CENTRO
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 5.
 
 El Centro tendrá las siguientes atribuciones:
 
-I.- Ofrecer el servicio público de conciliación laboral en conflictos del orden local, de acuerdo con el artículo 123, apartado A, fracción XX de la Constitución Política de los Estados Unidos Mexicanos y 9 Ter de la Constitución Política del Estado de Hidalgo;
+I. Ofrecer el servicio público de conciliación laboral en conflictos del orden local, de acuerdo con el artículo 123, apartado A, fracción XX de la Constitución Política de los Estados Unidos Mexicanos y 9 Ter de la Constitución Política del Estado de Hidalgo;
 
-II.- Expedir copias certificadas de los convenios laborales a los que se arribe en el procedimiento de conciliación y del resto de los documentos que obren en los expedientes que se encuentren en los archivos del Centro; y
+II. Expedir copias certificadas de los convenios laborales a los que se arribe en el procedimiento de conciliación y del resto de los documentos que obren en los expedientes que se encuentren en los archivos del Centro;
 
-III.- Las demás que le confiera la Ley Federal del Trabajo, la Ley de Entidades Paraestatales del Estado de Hidalgo, su Estatuto Orgánico y otras disposiciones legales aplicables.
+III. Expedir las constancias de no Conciliación;
+
+VI. Adoptar un sistema de Servicio Profesional de Carrera y seleccionar mediante concurso abierto en igualdad de condiciones a su personal;
+
+V. Formar, capacitar y evaluar a las y los conciliadores para su profesionalización; y
+
+VI. Las demás que le confiera la Ley Federal del Trabajo, la Ley de Entidades Paraestatales del Estado de Hidalgo, su Estatuto Orgánico y otras disposiciones legales aplicables.
 
 ### CAPÍTULO TERCERO. DE LA ADMINISTRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DEL CENTRO
 
@@ -109,9 +117,11 @@ I.- La Junta de Gobierno; y
 
 II.- La Dirección General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 7.
 
-La Junta de Gobierno se compondrá por 9 integrantes, siendo la persona titular de cada una de las siguientes instancias:
+La Junta de Gobierno se compondrá por 7 integrantes, siendo la persona titular de cada una de las siguientes instancias:
 
 I.- Secretaría del Trabajo y Previsión Social, quien la presidirá;
 
@@ -123,19 +133,23 @@ IV.- Unidad de Planeación y Prospectiva;
 
 V.- Procuraduría de la Defensa del Trabajo;
 
-VI.- Dos representantes de la organización sindical mayoritaria de empleadores a nivel estatal; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-VII.- Dos integrantes de las organizaciones de trabajadores más representativas a nivel estatal, de acuerdo con el número de miembros registrados ante la Secretaría del Trabajo y Previsión Social.
+VI.- Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales, y
 
-Los representantes de las organizaciones de empleadores y trabajadores durarán en su encargo 3 años, con la posibilidad de ser removidos en forma anticipada por la organización que los nombró, quienes los sustituyan lo harán para concluir el periodo correspondiente.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VII.- Centro Estatal de Justicia Alternativa
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 Las personas que integran la Junta, no percibirán retribución o compensación por su participación, ya que ésta es de carácter honorario.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 8.
 
-Las personas integrantes de la Junta, podrán ser suplidas en las sesiones. Quienes suplan a las personas titulares de las Secretarías, deberán tener, por lo menos, nivel de Subsecretaría o de Dirección General y, en el caso de la Procuraduría de la Defensa del Trabajo y de la Unidad de Planeación y Prospectiva, el nivel inmediato inferior.
-
-Las organizaciones de trabajadores y empleadores designarán a sus suplentes.
+Las personas integrantes de la Junta, podrán ser suplidas en las sesiones. Quienes suplan a las personas titulares de las Secretarías, deberán tener, por lo menos, nivel de Subsecretario o de Dirección General y, en el caso de la Procuraduría de la Defensa del Trabajo, de la Unidad de Planeación y Prospectiva, Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales y Centro Estatal de Justicia Alternativa, el nivel inmediato inferior.
 
 ###### Artículo 9.
 
@@ -163,6 +177,10 @@ La Junta tendrá las siguientes atribuciones:
 
 I.- Aprobar el Estatuto Orgánico del Centro, el Manual de Organización, el Manual de Procedimientos, el Manual de Servicios al Público, el Código de Conducta y demás disposiciones administrativas que regulen la operación y el funcionamiento del Centro;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+I BIS.- Aprobar las bases para la organización, funcionamiento y desarrollo del Sistema de Servicio Profesional de Carrera;
+
 II.- Emitir los lineamientos y criterios para la selección de Conciliadores del Centro;
 
 III.- Aprobar el Programa Institucional;
@@ -183,7 +201,9 @@ IX.- Las demás dispuestas por la Ley Federal del Trabajo, la Ley de Entidades P
 
 Para ser Director General se deberá cumplir con lo siguiente:
 
-I.- Ser mexicano por nacimiento y estar en pleno goce de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+I.- Ser mexicano y estar en pleno goce de sus derechos civiles y políticos;
 
 II.- Tener, por lo menos, 35 años de edad cumplidos al día de la designación;
 
@@ -199,7 +219,7 @@ VII.- Gozar de buena reputación y no haber sido condenado por delito doloso;
 
 VIII.- No encontrarse en ningún supuesto de conflicto de intereses;
 
-IX.- No ser fedatario público, salvo que solicite licencia;
+IX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2019)
 
 X.- No haber sido representante popular, por lo menos tres años anteriores a la designación; y
 
@@ -221,6 +241,10 @@ En caso de falta absoluta, la persona sustituta será nombrada mediante el mismo
 
 El Director General sólo podrá ser removido por causa grave y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúe en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+El Director General disfrutará de emolumentos iguales a los de los Magistrados del Tribunal Superior de Justicia.
+
 ###### Artículo 16.
 
 Serán facultades y obligaciones del Director General las siguientes:
@@ -230,6 +254,10 @@ I.- Dirigir técnica y administrativamente las actividades del Centro;
 II.- Administrar y representar legalmente al Centro, así como delegar su representación;
 
 III.- Presentar a la aprobación de la Junta, el proyecto de Estatuto Orgánico, Manual de Organización, Manual de Procedimientos, Manual de Servicios al Público, Código de Conducta y demás disposiciones administrativas que regulen la operación y el funcionamiento del Centro;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+III BIS.- Presentar a la Junta de Gobierno para su aprobación las bases para la organización, funcionamiento y desarrollo del Servicio Profesional de Carrera;
 
 IV.- Presentar a la Junta de Gobierno, durante el primer trimestre de su gestión para su aprobación, el proyecto de Programa Institucional que deberá contener al menos, metas, objetivos, recursos, indicadores de cumplimiento y deberá considerar las prioridades y lineamientos sectoriales;
 
@@ -334,3 +362,15 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 LIC. OMAR FAYAD MENESES
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 31 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. La Junta de Gobierno del Centro de Conciliación Laboral del Estado de Hidalgo, deberá ser instalada en un plazo no mayor a 15 días, a partir de la publicación del presente Decreto.
+
+TERCERO. El Ejecutivo del Estado incluirá en el Proyecto de Presupuesto de Egresos para el ejercicio fiscal 2020, las asignaciones presupuestales necesarias para la operación del Centro de Conciliación Laboral del Estado de Hidalgo.
