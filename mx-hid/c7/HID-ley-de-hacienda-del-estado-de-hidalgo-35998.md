@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2018-12-31"
+last_updated: "2019-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -457,13 +457,13 @@ I.- Inscribirse en el Padrón Estatal de Contribuyentes de la Secretaría de Fin
 
 Para efectos de la inscripción a través de medios electrónicos, el contribuyente deberá contar con su Firma Electrónica, expedida por el Servicio de Administración Tributaria.
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-II.- Las personas físicas o morales, cuya casa matriz y sucursales operen en diferentes lugares dentro del territorio del Estado, deberán presentar las declaraciones correspondientes conforme a lo dispuesto por el Artículo 25 de esta Ley, en el Centro Regional de Atención al Contribuyente que corresponda al domicilio de la matriz, en la que se acumulará a la base gravable, el número de trabajadores y el impuesto a pagar por cada una de sus negociaciones; así como deberán registrar el domicilio de las sucursales que operen dentro del Territorio del Estado;
+II.- Las personas físicas o morales, cuya casa matriz y sucursales operen en diferentes lugares dentro del territorio del Estado, deberán presentar una sola declaración conforme a lo dispuesto por el Artículo 25 de esta Ley, en la que se acumulará a la base gravable, el número de trabajadores y el impuesto a pagar por cada una de sus negociaciones; así como deberán registrar el domicilio de las sucursales que operen dentro del Territorio del Estado;
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-III.- Las personas físicas o morales cuya matriz se encuentre ubicada fuera del territorio del Estado y cuenten con sucursales dentro del mismo, deberán dar aviso al Centro Regional de Atención al Contribuyente correspondiente, respecto de las sucursales que realicen sus operaciones dentro de esta Entidad Federativa, así como del lugar en el que se presentarán las declaraciones conforme a lo dispuesto en el Artículo 25 de esta Ley, en las que acumulará la base gravable del impuesto y el número de trabajadores que tengan en todas las sucursales citadas; así mismo deberán registrar el domicilio de las sucursales que operen dentro del Territorio del Estado, así como el domicilio de la casa matriz ubicado fuera del Territorio del Estado; y
+III.- Las personas físicas o morales cuya matriz se encuentre ubicada fuera del territorio del Estado y cuenten con sucursales dentro del mismo, deberán dar aviso al Centro Regional de Atención al Contribuyente correspondiente, respecto de las sucursales que realicen sus operaciones dentro de esta Entidad Federativa, así como del lugar en el que se presentará la declaración que corresponda conforme a lo dispuesto en el Artículo 25 de esta Ley, en la que acumulará la base gravable del impuesto y el número de trabajadores que tengan en todas las sucursales citadas; así mismo deberán registrar el domicilio de las sucursales que operen dentro del Territorio del Estado, así como el domicilio de la casa matriz ubicado fuera del Territorio del Estado; y
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -545,11 +545,19 @@ i).- Colegios de profesionales y los organismos que los agrupen.
 
 DEL OBJETO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 28.
 
-Es objeto de este impuesto, el pago que realice el usuario por la obtención de servicios de hospedaje, alojamiento o albergue que se proporcione dentro del territorio del Estado, ya sea de forma permanente o temporal, por personas físicas o morales en hoteles, moteles, albergues, villas, bungalós, paraderos de casas rodantes, casas de huéspedes, exhaciendas y otros establecimientos de naturaleza similar o análoga, en los que se incluyen los prestadores de servicios bajo la modalidad de tiempo compartido, independientemente de la designación que se les otorgue.
+Es objeto de este impuesto, el pago que realice el usuario por la obtención de servicios de hospedaje, alojamiento o albergue que se proporcione dentro del territorio del Estado, ya sea de forma permanente o temporal, por personas físicas o morales en hoteles, moteles, hosterías, mesones, posadas, albergues, villas, bungalós, paraderos de casas rodantes, casas de huéspedes, ex haciendas, campamentos, casas o departamentos enteros o por habitaciones privadas o compartidas y otros establecimientos de naturaleza similar o análoga, en los que se incluyen los prestadores de servicios bajo la modalidad de tiempo compartido, independientemente de la designación que se les otorgue.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+También, serán objeto de este impuesto la obtención de los servicios de hospedaje, alojamiento o albergue a que se refiere el párrafo anterior, que se contraten mediante plataformas digitales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Se entiende por plataforma digital, a la aplicación tecnológica mediante la cual una persona física o moral administradora del programa informático, opera en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, para permitir a los usuarios contratar servicios de hospedaje con terceros a través de dispositivos fijos o móviles.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -597,17 +605,21 @@ DEL PAGO
 
 El impuesto a que se refiere el presente Capitulo, se causará en el momento en que se presten los servicios de hospedaje y será retenido por el prestador cuando se reciba el pago de dichos servicios, debiendo enterarlo a la Secretaría de Finanzas Públicas, a más tardar, el día 17 del mes inmediato posterior a que este fue retenido.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-Los prestadores del servicio de hospedaje trasladarán en forma expresa y por separado, el impuesto a las personas que reciban el servicio.
+Cuando el pago de las contraprestaciones por los servicios de hospedaje se efectúe mediante plataformas digitales, la persona física o moral a que se refiere el tercer párrafo del artículo 28 de la presente ley, estará obligada a retener y enterar el impuesto por dichos servicios. En el supuesto que no se efectúe el pago a través de las referidas plataformas digitales, los prestadores de los servicios de hospedaje señalados en este capítulo, deberán retener y enterar el impuesto a la autoridad fiscal.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Quien efectúe la retención conforme al párrafo anterior, trasladará el impuesto en forma expresa y por separado a las personas que reciban el servicio.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 Se entenderá por traslado del impuesto, el cobro a cargo que los contribuyentes realicen a las personas que reciban el servicio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-Los prestadores de los servicios a que se refiere este Capítulo, podrán efectuar el pago en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las cuentas de la Secretaría de Finanzas Públicas aperturadas en las Instituciones autorizadas.
+Los prestadores de los servicios a que se refiere este Capítulo, así como las personas físicas o morales que se refieren en el tercer párrafo del artículo 28 de la presente ley, según corresponda, podrán efectuar el pago en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las cuentas de la Secretaría de Finanzas Públicas aperturadas en las Instituciones autorizadas.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -637,7 +649,13 @@ V.- Llevar un registro contable de los servicios que presten, de las contraprest
 
 VI.- Presentar declaraciones mensuales con carácter de definitivas, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas Públicas y efectuar los pagos que correspondan conforme a lo dispuesto por el artículo 32 de este capítulo;
 
-VII.- En los casos en que las personas físicas o morales, cuya casa matriz y sucursales operen en diferentes lugares dentro del Territorio del Estado, deberán presentar una sola declaración en la que se acumulará la base gravable e impuestos a pagar por cada una de ellas en el Centro Regional de Atención al Contribuyente que corresponda al domicilio de la matriz.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VII.- En los casos en que las personas físicas o morales, cuya casa matriz y sucursales operen en diferentes lugares dentro del Territorio del Estado, deberán presentar una sola declaración en la que se acumulará la base gravable e impuestos a pagar por cada una de ellas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Las personas físicas o morales a que se refiere el tercer párrafo del artículo 28 de la presente ley, también se encontrarán obligadas a cumplir con las obligaciones establecidas en este artículo, en su carácter de gestor, intermediarias, promotoras o facilitadoras, cuando a través de ella se efectúe el pago de las contraprestaciones por servicios de hospedaje.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1718,5 +1736,13 @@ P.O. 31 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 88 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO, LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO Y EL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO".]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día 1º de enero de 2019.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 303 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS Y LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día 1º de enero de 2020.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
