@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2019-12-28"
+last_updated: "2019-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -111,9 +111,13 @@ IX. Consejo Ciudadano: Consejo Ciudadano de Seguridad y Procuración de Justicia
 
 X. Director General del C5: El Director General del Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo;
 
-XI. Cuerpos de seguridad pública del Estado: las corporaciones a que se refiere el artículo 26 de la presente ley;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XII. Elementos operativos: los integrantes de las instituciones de la Fiscalía General del Estado, de la Policía Vial, dependiente de la Secretaría de Movilidad, de seguridad pública municipales, de procuración de justicia y peritos del Instituto Jalisciense de Ciencias Forenses, y a todos a quienes se les atribuya ese carácter mediante nombramiento, instrumento jurídico equivalente expedido por autoridad competente o realicen funciones de operadores o supervisores en los centros de comunicación o cabinas de radio de las instituciones de seguridad pública o lleven a cabo funciones operativas en las áreas previstas por el artículo 5° de esta ley;
+XI. Consejo Ciudadano: Consejo Ciudadano de Seguridad.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XII. Elementos operativos: los integrantes de las instituciones de la Fiscalía Estatal del Estado, de la Policía Vial dependiente de la Secretaría del Transporte, de seguridad pública municipales, de procuración de justicia y peritos del Instituto Jalisciense de Ciencias Forenses, y a todos a quienes se les atribuya ese carácter mediante nombramiento, instrumento jurídico equivalente expedido por autoridad competente o realicen funciones de operadores o supervisores en los centros de comunicación o cabinas de radio de las instituciones de seguridad pública o lleven a cabo funciones operativas en las áreas previstas por el artículo 5° de esta ley;
 
 XIII. "Escudo Urbano·C5": al Organismo Público Descentralizado encargado del Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo del Estado de Jalisco;
 
@@ -299,13 +303,13 @@ II. Los titulares de las siguientes dependencias, entidades y unidades administr
 
 a) Secretaría General de Gobierno;
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-b) Secretaría de Movilidad;
+b) Secretaría de Transporte;
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-c) Fiscalía Estatal;
+c) Fiscalía Estatal
 
 d) (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014);
 
@@ -345,9 +349,9 @@ VIII. El Delegado Estatal del Centro de Investigación y Seguridad Nacional;
 
 IX. El representante de la Policía Federal en el Estado;
 
-> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-X. Dos miembros de la sociedad civil o de la comunidad, de conformidad con el reglamento;
+X. Dos integrantes ciudadanos del Consejo Ciudadano;
 
 > <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
@@ -527,9 +531,9 @@ c) Policía procesal, aquella adscrita a los tribunales de Enjuiciamiento Penal,
 
 II. Los cuerpos operativos de la Fiscalía Estatal, con todas las unidades, divisiones y agrupamientos que prevean la ley orgánica de la institución, su reglamento y demás disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-III. Los cuerpos operativos de la Secretaría de Movilidad de conformidad con su ley y su reglamento;
+III. Los cuerpos operativos de la Secretaría del Transporte de conformidad con su ley y su reglamento;
 
 > <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
@@ -1059,7 +1063,9 @@ XV. Supervisar que los aspirantes e integrantes de las instituciones policiales 
 
 XVI. Las demás que establezcan las disposiciones legales aplicables.
 
-La Procuraduría General de Justicia del Estado y el Instituto Jalisciense de Ciencias Forenses contarán, cada uno de ellos, con un Instituto de Formación Profesional que tendrá las atribuciones conferidas a la academia, por cuanto se refiere al ámbito de aplicación de la institución a la que pertenezcan.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+La Fiscalía Estatal y el Instituto Jalisciense de Ciencias Forenses contarán, cada uno de ellos, con un Instituto de Formación Profesional que tendrá las atribuciones conferidas a la academia por cuanto se refiere al ámbito de aplicación de la institución a la que pertenezcan.
 
 Los ayuntamientos del estado podrán establecer academias municipales, las cuales deberán estar homologadas a los programas rectores de profesionalización.
 
@@ -1143,11 +1149,13 @@ Artículo 68 Undecies. Los municipios podrán celebrar convenios con el Estado p
 
 El desarrollo policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí, de carácter obligatorio y permanente para las instituciones de seguridad pública y sus integrantes, que comprenden la carrera policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los elementos operativos; tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos, elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 70.
 
-La Procuraduría y el Instituto Jalisciense de Ciencias Forenses, respectivamente, establecerán el servicio profesional de carrera para el personal ministerial y peritos, que comprenderá las etapas de ingreso, desarrollo y terminación del servicio, atendiendo lo establecido en la Ley General del Sistema Nacional de Seguridad Pública, en la presente ley, las respectivas leyes orgánicas y demás disposiciones legales aplicables.
+La Fiscalía Estatal y el Instituto Jalisciense de Ciencias Forenses, respectivamente, establecerán el servicio profesional de carrera para el personal ministerial y peritos, que comprenderá las etapas de ingreso, desarrollo y terminación del servicio, atendiendo lo establecido en la Ley General del Sistema Nacional de Seguridad Pública, en la presente ley, las respectivas leyes orgánicas y demás disposiciones legales aplicables.
 
-La Policía Investigadora adscrita a la Procuraduría en materia de carrera policial se sujetará a lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública, en la presente ley y demás disposiciones aplicables.
+La Policía Investigadora adscrita a la Fiscalía Estatal en materia de carrera policial se sujetará a lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública, en la presente ley y demás disposiciones aplicables.
 
 ### Capítulo II. Del servicio profesional de carrera policial en las instituciones de seguridad pública
 
@@ -1237,11 +1245,11 @@ Los titulares de las categorías jerárquicas estarán facultados para ejercer l
 
 ### Capítulo III. Del ingreso y permanencia
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 77.
 
-El ingreso es el procedimiento de integración de los candidatos a la estructura institucional, el cual tendrá verificativo al terminar la etapa de formación inicial o capacitación en las academias, en el Instituto de Formación y Profesionalización de la Fiscalía General o el Instituto Jalisciense de Ciencias Forenses; el periodo de prácticas correspondiente y la acreditación del cumplimiento de los requisitos previstos en la presente ley y demás disposiciones aplicables.
+El ingreso es el procedimiento de integración de los candidatos a la estructura institucional, el cual tendrá verificativo al terminar la etapa de formación inicial o capacitación en las academias, en el Instituto de Formación y Profesionalización de la Fiscalía Estatal o el Instituto Jalisciense de Ciencias Forenses, el periodo de prácticas correspondiente y la acreditación del cumplimiento de los requisitos previstos en la presente ley y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
 
@@ -2235,7 +2243,9 @@ También queda prohibida la colocación de propaganda, mantas, lonas, carteles, 
 
 Las instancias interesadas bajo su operación, resguardo y presupuesto, que podrán solicitar al "Escudo Urbano C5", la instalación de equipos y sistemas tecnológicos para la seguridad pública en los bienes de uso común del Estado de Jalisco son:
 
-I. El titular de la Fiscalía General, a propuesta de de (sic) la dependencia del Ejecutivo del Estado encargada de la Seguridad Pública y los Fiscales.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+I. El titular de la Fiscalía Estatal, a propuesta de la dependencia del Ejecutivo del Estado encargada de la Seguridad Pública y los Fiscales.
 
 II. Las dependencias y entidades de la administración pública del estado que justifiquen la necesidad de su instalación, para prevenir situaciones de emergencia o desastre e incrementar la seguridad pública;
 
@@ -2255,7 +2265,9 @@ II. Las áreas públicas de zonas, colonias, unidades habitacionales y demás lu
 
 III. Las colonias, manzanas, avenidas, calles y demás lugares que registren los delitos de mayor impacto para la sociedad;
 
-IV. Las intersecciones viales más conflictivas clasificadas por la Secretaría de Movilidad o por los municipios;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+IV. Las intersecciones viales más conflictivas clasificadas por la Secretaría del Transporte o por los municipios;
 
 V. Las zonas con mayor índice de percepción de inseguridad;
 
@@ -2337,11 +2349,11 @@ El Director General del C5, a través de sus áreas competentes, verificará el 
 
 Corresponde al "Escudo Urbano C5" proponer, coordinar y ejecutar la implementación de las acciones derivadas de las disposiciones que, en materia de uso de tecnología de la información y comunicación para la seguridad pública, determinen la presente ley, la Ley de Protección de Datos, la Ley de Transparencia y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 178.
 
-Corresponde a las autoridades en materia de seguridad pública, a la Secretaría de Movilidad, Protección Civil y a los municipios proponer y ejecutar las acciones derivadas de las disposiciones que, en materia de uso de tecnologías de la información y comunicación para la seguridad pública, determinen en la presente ley, la Ley de Protección de Datos, la Ley de Transparencia y demás disposiciones aplicables.
+Corresponde a las autoridades en materia de seguridad pública, a la Secretaría del Transporte, Protección Civil y a los municipios proponer y ejecutar las acciones derivadas de las disposiciones que, en materia de uso de tecnologías de la información y comunicación para la seguridad pública, determinen en la presente ley, la Ley de Protección de Datos, la Ley de Transparencia y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
 
@@ -2713,65 +2725,49 @@ La interposición del recurso suspenderá la ejecución de las sanciones pecunia
 
 ### Capítulo I. De la participación ciudadana
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 217.
 
-El Consejo Ciudadano de Seguridad y Procuración de Justicia, es un órgano de análisis, opinión y consulta, constituido como un ente público de participación ciudadana, con autonomía técnica y de gestión, sectorizado administrativamente a la Fiscalía General del Estado.
+El Consejo Ciudadano de Seguridad es un órgano de apoyo y orientación a la comunidad, de análisis, opinión y consulta, constituido como un ente de gobernanza pública, con autonomía técnica y de gestión, sectorizado administrativamente a la Coordinación General Estratégica de Seguridad.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
 En los municipios podrá haber Consejo Consultivo Ciudadano de Seguridad Pública, que apoyen a la autoridad municipal en la materia.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 218.
 
 El Consejo Ciudadano se conformará de la siguiente manera:
 
-I. Un Presidente, que será el Gobernador del Estado o la persona que este designe;
+I. Seis ciudadanos, designados por el Gobernador;
 
-II. El Titular de cada una de las siguientes dependencias estatales o quien este designe;
+II. Cuatro especialistas en la materia, representantes del mismo número de universidades con sede en el Estado, a invitación del Gobernador.
 
-a) Fiscalía General y
+III. Dos representantes de organizaciones de la sociedad civil, a invitación del Gobernador;
 
-b) Secretaría de Movilidad.
+IV. El Gobernador;
 
-III. El Secretario Técnico del Consejo Estatal de Seguridad Pública;
+V. La persona titular de la Secretaría de Planeación y Participación Ciudadana;
 
-IV. El diputado presidente de la comisión legislativa de Seguridad Pública y Protección Civil;
+VI. Un Secretario Ejecutivo con derecho a voz, designado por el Consejo, a propuesta de su Presidente;
 
-V. Cinco representantes de la sociedad civil, a invitación del Consejo en términos de su Reglamento;
-
-VI. Un representante por cada uno de los siguientes organismos en el Estado;
-
-a) Cámara Nacional de Comercio, Servicios y Turismo de Guadalajara, Asociación Civil;
-
-b) Centro Empresarial de Jalisco, Sindicato Patronal;
-
-c) Consejo Mexicano de Comercio Exterior de Occidente, Asociación Civil;
-
-d) Consejo de Cámaras Industriales de Jalisco, Asociación Civil; y
-
-e) Consejo Agropecuario de Jalisco, Asociación Civil.
-
-VII. Cinco representantes especialistas en la materia del mismo número de universidades con sede en el Estado, propuestos por el Consejo y a invitación del Gobernador del Estado;
-
-VIII. Un Secretario Técnico con derecho a voz y designado por el Gobernador del Estado;
-
-IX. Un presidente municipal del área Metropolitana de Guadalajara, el que será electo por los integrantes de la Junta de Coordinación Metropolitana de entre ellos mismos, dicho presidente será invitado por el Gobernador en los términos del Reglamento.
+El Consejo designará a su Presidente, de entre cualquiera de los ciudadanos a que hace referencia la fracción I.
 
 Los titulares del Consejo podrán designar por escrito a un suplente en los términos de su reglamento.
 
-El Consejo podrá invitar a sus sesiones a cualquier institución o persona, pública o privada, que por su trabajo, experiencia o capacidad puedan contribuir con el órgano colegiado. Estos sólo tendrán derecho a voz.
+El Consejo podrá invitar a sus sesiones a cualquier institución o persona, pública o privada, que por su trabajo, experiencia o capacidad puedan contribuir con el órgano colegiado, quienes tendrán derecho a voz.
 
-La selección de los Consejeros a que se refieren las fracciones V y VII de este artículo, se hará de conformidad a lo previsto en el Reglamento Interno del Consejo.
-
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 219.
 
-Los cargos de consejero del Consejo Ciudadano son honoríficos y por lo tanto no remunerados, con excepción del Secretario Técnico y el personal adscrito a la secretaría técnica.
+Los cargos de consejero del Consejo Ciudadano son honoríficos y por lo tanto no remunerados, con excepción del Secretario Ejecutivo y el personal adscrito a la secretaría ejecutiva.
 
-La estructura administrativa del Consejo estará sujeta a sus necesidades y a la disposición presupuestaria de la Fiscalía.
+Los consejeros referidos en las fracciones I, II y III, durarán en su encargo 3 años.
+
+La Coordinación General Estratégica de Seguridad proveerá el presupuesto necesario para las tareas del Consejo Ciudadano.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
@@ -2779,23 +2775,35 @@ La estructura administrativa del Consejo estará sujeta a sus necesidades y a la
 
 El Consejo Ciudadano tendrá las siguientes facultades:
 
-I. Analizar y emitir opinión en materia del sistema de seguridad pública;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+I. Emitir opiniones respecto al sistema de seguridad pública, así como en materia de prevención, investigación y persecución del delito;
 
 II. Realizar los estudios relacionados con la situación estatal y, en su caso, municipal, en el área de la protección ciudadana, así como analizar la problemática en las zonas con mayor índice de delincuencia para proponer los objetivos y políticas para su adecuada solución;
 
-III. Proponer programas de prevención contra la inseguridad;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-IV. Proponer normas y procedimientos que permitan mejorar la atención y seguridad de las personas que señalen abusos de los integrantes del sistema de seguridad pública;
+III. Diseñar y proponer al Consejo Estatal acciones y estrategias de prevención ciudadana contra la inseguridad, así como estrategias de prevención a través del acceso a la educación, salud, cultura, deporte y asistencia social, mismas que serán vinculantes para la autoridad;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+IV. Proponer normas y procedimientos a lasinstituciones (sic) de seguridad y procuración de justicia que permitan mejorar la atención y seguridad de las personas que señalen abusos de los integrantes del sistema de seguridad pública;
 
 V. Otorgar reconocimientos a cualquier institución de seguridad pública o alguno de sus integrantes que sobresalgan a su juicio, en la prestación del servicio, dicho reconocimiento será eficaz para efectos de ascensos en el servicio profesional de carrera, por lo que deberá inscribirse en el expediente correspondiente;
 
-VI. Recibir las quejas o señalamientos en contra de presuntas malas o deficientes actuaciones del personal del sistema de seguridad pública, que tenga conocimiento en ejercicio de sus atribuciones, teniéndolas que remitir dentro de las 48 horas siguientes para su legal conocimiento y sustanciación a la autoridad competente;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VI. Recibir las quejas, reclamos o señalamientos por indebidas o deficientes actuaciones del personal del sistema de seguridad pública, las cuales, en caso de considerarlas procedentes, se deberán remitir a la autoridad competente para su legal conocimiento y sustanciación, dentro de las 48 horas siguientes a partir de que se determine la procedencia. Esta autoridad deberá informar al Consejo Ciudadano sobre las medidas tomadas para atenderlas y resolverlas, en un plazo máximo de treinta días hábiles.
+
+Adicionalmente, el Consejo Ciudadano podrá formular recomendaciones a la autoridad competente, a fin de que se tomen las medidas necesarias para atender o subsanar los motivos de queja y ésta deberá emitir una respuesta dentro de los treinta días hábiles siguientes.
 
 VII. Denunciar ante la Comisión Estatal de Derechos Humanos, o en su caso ante la Comisión Nacional, hechos que pudieran implicar violación a los derechos fundamentales y de los que ha tenido conocimiento en el ejercicio de sus atribuciones;
 
 VIII. Presentar denuncia ante el Ministerio Público, con motivo de hechos presuntamente delictuosos, que conozca en el ejercicio de sus atribuciones;
 
-IX. Instrumentar y operar un programa de denuncia anónima, remitiendo con prontitud, cuando sea el caso, los hechos denunciados a la autoridad competente;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+IX. Instrumentar y operar un programa de denuncia anónima, remitiendo con prontitud, cuando sea el caso, los hechos denunciados a la autoridad competente, quien deberá informar, en un plazo máximo de treinta días hábiles, sobre las medidas tomadas para atenderlos y resolverlos;
 
 X. Fomentar, promover e incentivar la denuncia de los delitos mediante las estrategias que juzgue oportuno dentro de sus atribuciones;
 
@@ -2807,15 +2815,35 @@ XIII. Recibir donativos de entes públicos o privados;
 
 XIV. Administrar los bienes que reciba de conformidad al Reglamento Interior;
 
-XV. Instrumentar y operar un programa de recompensa a los servidores públicos del Sistema de Seguridad Pública en los términos del Reglamento Interno;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XV. Instrumentar y operar un programa de incentivos a los servidores públicos del Sistema de Seguridad Pública en los términos del Reglamento Interno;
 
 XVI. Monitorear la comisión de delitos de alto impacto lo que deberá considerar al momento de emitir sus opiniones sobre medidas preventivas y acciones de gobierno;
 
 XVII. Proponer al Gobernador del Estado el proyecto de Reglamento Interno que rija el funcionamiento del Consejo y la organización de la Secretaría Técnica como instancia coordinadora de los trabajos y ejecutora de las decisiones del Pleno del Consejo; y
 
-XVIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-Las opiniones del Consejo no serán vinculantes para la autoridad, pero ésta deberá dar respuesta por escrito sobre la viabilidad en un plazo no mayor a treinta días hábiles después de recibida la opinión.
+XVIII. Establecer vínculo con organizaciones del sector social, privado y con cualquier persona, que desarrollen actividades relacionadas con las materias de seguridad pública; prevención del delito; procuración y administración de justicia y justicia cívica, a fin de integrar los esfuerzos ciudadanos en el objetivo común de coadyuvar al mejoramiento de la seguridad pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XIX. Analizar y presentar a la ciudadanía la información incorporada a la Plataforma de Seguridad del Estado de Jalisco, mediante el uso de lenguaje claro, sencillo y accesible a los ciudadanos.
+
+La Plataforma de Seguridad del Estado será diseñada y alimentada por un Comité integrado por los miembros que determine el Gobernador.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XX. Promover el derecho de las personas a participar en el diseño, ejecución y evaluación de las políticas de prevención del delito; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXI. Las demás que determinen las disposiciones legales y reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Las opiniones señaladas en la fracción I no serán vinculantes para la autoridad, pero esta deberá dar respuesta por escrito sobre la viabilidad en un plazo no mayor a treinta días hábiles después de recibida la opinión.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
@@ -2855,21 +2883,21 @@ El Centro Integral de Comunicaciones será responsable de identificar y registra
 
 La ciudadanía cuando lo solicite, podrá conocer sobre las personas que detienen las instituciones de seguridad pública, y estas últimas tendrán la obligación, conforme al reglamento, de aportar la información que lo permita.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 225.
 
-En la Fiscalía General y en cada secretaría, dependencia e institución de seguridad pública del Estado y los municipios, existirá un área especializada para investigar las quejas que los ciudadanos presenten en contra de sus elementos operativos, con capacidad para esclarecer los hechos materia de las mismas, turnándolo a la instancia u órgano competente, independientemente de las acciones penales y responsabilidades administrativas que, en su caso, procedan.
+En la Fiscalía Estatal y en cada secretaría, dependencia e institución de seguridad pública del Estado y los municipios, existirá un área especializada para investigar las quejas que los ciudadanos presenten en contra de sus elementos operativos, con capacidad para esclarecer los hechos materia de las mismas, turnándolo a la instancia u órgano competente, independientemente de las acciones penales y responsabilidades administrativas que, en su caso, procedan.
 
-Dicha área no dependerá de ninguna adscripción operativa de las instituciones de seguridad pública; deberá de estar adscrita al despacho del titular de la Fiscalía General o dependencia del Poder Ejecutivo del Estado, o en su caso, al Presidente Municipal o al Síndico del municipio.
+Dicha área no dependerá de ninguna adscripción operativa de las instituciones de seguridad pública; deberá de estar adscrita al despacho del titular de la Fiscalía Estatal o dependencia del Poder Ejecutivo del Estado, o en su caso, al Presidente Municipal o al Síndico del municipio.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 226.
 
-Corresponderá a la Fiscalía General la recepción de las denuncias anónimas que realice la ciudadanía sobre presuntos delitos del orden común o federal a través de vía telefónica, medio electrónico o cualquier otro medio de comunicación que surja o se implemente para este fin, así como dar trámite ante las autoridades competentes y seguimiento oportuno a los casos que se le presenten por este servicio.
+Corresponderá a la Fiscalía Estatal la recepción de las denuncias anónimas que realice la ciudadanía sobre presuntos delitos del orden común o federal a través de vía telefónica, medio electrónico o cualquier otro medio de comunicación que surja o se implemente para este fin, así como dar trámite ante las autoridades competentes y seguimiento oportuno a los casos que se le presenten por este servicio.
 
-La respectiva unidad de la Fiscalía General utilizará los métodos de investigación que garanticen la recopilación técnica y científica de evidencias relacionada (sic) con las denuncias anónimas concernientes a hechos presuntamente delictuosos.
+La respectiva unidad de la Fiscalía Estatal utilizará los métodos de investigación que garanticen la recopilación técnica y científica de evidencias relacionada (sic) con las denuncias anónimas concernientes a hechos presuntamente delictuosos.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
@@ -2937,11 +2965,15 @@ I. Queda estrictamente prohibida la realización de actividades que sean compete
 
 II. No deberán utilizar las denominaciones de "policía", "agentes", o "investigadores" en su publicidad, documentos o bienes, debiendo identificarse como elementos de seguridad privada. También queda prohibido a estos elementos usar el escudo nacional, del Estado o municipios, logotipos, lemas o uso de claves operativas para la comunicación de las instituciones de seguridad pública;
 
-III. Tendrán obligación de informar a la Fiscalía General de los movimientos administrativos de sus elementos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+III. Tendrán obligación de informar a la Fiscalía Estatal de los movimientos administrativos de sus elementos;
 
 IV. Deberán denunciar de inmediato al Ministerio Público cuando tengan conocimiento de la comisión de un delito;
 
-V. Para acreditar ante la Fiscalía General los elementos que integren los servicios de seguridad privada, deberán cumplir los requisitos que se establezcan para el ingreso a las instituciones de seguridad pública; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+V. Para acreditar ante la Fiscalía Estatal los elementos que integren los servicios de seguridad privada, deberán cumplir los requisitos que se establezcan para el ingreso a las instituciones de seguridad pública; y
 
 VI. Los demás que señalen otras disposiciones legales aplicables.
 
@@ -3320,3 +3352,15 @@ P.O. 28 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27737/LXII/19 QUE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 31 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27790/LXII/L9 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. El titular del Poder Ejecutivo contará con el plazo de 45 días para realizar las acciones pertinentes tendientes a conformar al Consejo Ciudadano.
+
+TERCERO. Una vez conformado el nuevo Consejo Ciudadano, este deberá proponer, en un plazo no mayor a 30 días hábiles, los ajustes necesarios al Reglamento Interno, para someterlos a consideración del Gobernador del Estado con el fin de cumplir con lo previsto en el presente decreto.
+
+CUARTO. Para el ejercicio 2020, se autoriza al titular Poder Ejecutivo del Estado para que, por conducto de la Secretaría de la Hacienda Pública, realice las adecuaciones administrativas y presupuestales necesarias de conformidad a la suficiencia presupuestal, con cargo a la Unidad Presupuestal que corresponda. El titular del Poder Ejecutivo deberá informar al Poder Legislativo dentro de los 15 días hábiles posteriores, las adecuaciones llevadas a cabo en los términos del presente decreto.
