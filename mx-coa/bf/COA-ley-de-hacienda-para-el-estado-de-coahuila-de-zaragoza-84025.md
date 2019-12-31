@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-84025"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-25"
-last_updated: "2019-12-13"
+last_updated: "2019-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ NOTA: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRE
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -59,13 +59,15 @@ La Ley de Ingresos regirá en el curso del año para el cual se expida, pero si 
 
 Las cuotas y tarifas de las contribuciones que establece esta ley en cantidades determinadas, se actualizaran a partir del 1º de enero de cada año, con el factor que resulte de dividir el Índice Nacional de Precios al Consumidor del mes de octubre del año inmediato anterior entre el citado índice del mes de octubre del año anterior al señalado.
 
-Para la actualización de las cuotas, en ningún caso podrá aplicarse un factor distinto al señalado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+No obstante lo anterior, podrá llevarse a cabo la actualización de las cuotas y tarifas establecidas en la presente Ley, aplicándose un factor distinto al señalado en el párrafo anterior, considerando los indicadores económicos existentes, a efecto de que el Estado pueda cumplir con los compromisos y gastos públicos a su cargo; En este caso deberá ser autorizado por el H. Congreso del Estado de Coahuila de Zaragoza
 
 Cuando esta ley establezca una forma o período distinto específicamente para la actualización de alguna contribución, se aplicará ésta, en lugar de lo dispuesto en este artículo.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-Las cuotas actualizadas deberán publicarse anualmente, por la Secretaría de Finanzas, en el Periódico Oficial del Gobierno del Estado.
+Las cuotas actualizadas conforme al primer párrafo de este artículo, deberán publicarse anualmente, por la Secretaría de Finanzas, en el Periódico Oficial del Gobierno del Estado.
 
 ## TITULO II. DE LOS IMPUESTOS
 
@@ -73,75 +75,53 @@ Las cuotas actualizadas deberán publicarse anualmente, por la Secretaría de Fi
 
 OBJETO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 4.
 
-Es objeto de este impuesto, los ingresos que se obtengan por la realización o explotación de diversiones y espectáculos públicos, dentro del territorio del Estado.
+Es objeto de este impuesto, el monto total de los ingresos que se obtengan por la realización o explotación de diversiones y espectáculos públicos, dentro del territorio del Estado de Coahuila de Zaragoza, que se celebren accidental o habitualmente, aun cuando no se tenga el propósito de lucro.
 
-Por diversión y espectáculo público debe entenderse toda representación, función, acto, evento o exhibición artística, musical, deportiva, taurina, ecuestre, circense, teatral, cultural, de fiestas o ferias regionales, así como por el uso de juegos mecánicos; que se verifique en salones, teatros, calles, plazas, locales abiertos o cerrados y se pague una suma de dinero por el boleto o derecho de entrada o uso del juego.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Se entiende por diversión y espectáculo público, toda representación, función, acto, evento o exhibición artística, musical, deportiva, taurina, ecuestre, circense, teatral, cultural, de fiestas o ferias regionales, así como por el uso de juegos mecánicos; que se celebren eventual o habitualmente en salones, teatros, calles, plazas, locales abiertos o cerrados y se pague una suma de dinero por el boleto o derecho de entrada o uso del juego.
 
 Para los efectos de este impuesto, no se consideran espectáculos públicos, los prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos, que cuenten con sus licencias respectivas y organicen, por cuenta propia y como parte de su variedad, este tipo de eventos.
 
 SUJETO
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 5.
 
-Son sujetos del Impuesto Sobre Espectáculos y Diversiones Públicas, las personas físicas o morales que promuevan, organicen o exploten esas actividades.
+Son sujetos del Impuesto Sobre Diversiones y Espectáculos Públicos, las personas físicas o morales que promuevan, organicen, presenten o exploten las actividades descritas en el párrafo anterior, que se celebren eventual o habitualmente, aun cuando no tengan el propósito de lucro.
+
+El impuesto no podrá trasladarse o repercutirse al espectador o asistente del espectáculo.
 
 BASE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 6.
 
-Servirá de base para el pago de este impuesto, los ingresos que se generen por el boleto o cuota de entrada a las diversiones o espectáculos públicos.
+Servirá de base para el pago de este impuesto, el monto total de los ingresos que se generen por el boleto, cuota de entrada, donativos, cooperaciones o cualquier concepto al que se condicione el acceso a las diversiones o espectáculos públicos, incluyendo el que se pague por derecho a reservar, apartar o adquirir anticipadamente el boleto de acuerdo al espectáculo público o diversión, así como el monto pagado durante el evento, por la reubicación o el acomodo en localidad distinta a la adquirida.
 
-OBLIGACIONES
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-###### ARTICULO 7.
+Cuando no sea posible precisar este, la base será el monto total que corresponda al boletaje emitido o bien, la capacidad o aforo del inmueble en el que se celebre o presenta el espectáculo público, a juicio de la autoridad fiscal.
 
-Los sujetos de este impuesto están obligados a recabar, cuando menos con tres días de anticipación a la celebración del acto, la autorización de las autoridades fiscales, debiendo presentar solicitud que contendrá, cuando menos, los siguientes requisitos:
-
-I. Nombre y domicilio de quien promueva, organice o explote la diversión o espectáculo público para el cual se solicita autorización;
-
-II. Clase de diversión o espectáculo;
-
-III. Ubicación del inmueble o predio en que se va a efectuar y nombre del propietario o poseedor del mismo;
-
-IV. Hora señalada para que principien las funciones; y
-
-V. Número de localidades de cada clase que haya en el local destinado al espectáculo y su precio al público; así como el número de cortesías, debidamente marcadas como tales, que serán entregadas para cada función.
-
-Cualquier modificación a los datos comprendidos en las fracciones precedentes, deberá comunicarse por escrito a las autoridades fiscales, dentro de los tres días hábiles anteriores a la fecha en que vaya a realizarse la actividad objeto de este impuesto.
-
-No se pagará el impuesto por los boletos de entrada que no tengan precio al público y que se utilicen como cortesías siempre y cuando se presenten para su sellado conforme al artículo 8.
-
-###### ARTICULO 8.
-
-Una vez concedida la autorización, los sujetos de este impuesto tienen las obligaciones siguientes:
-
-I. Presentar a las autoridades fiscales, la emisión total de los boletos de entrada, cuando menos un día antes al de la realización de la actividad autorizada, a fin de que se autoricen con el sello respectivo;
-
-II. Entregar a la misma dependencia, por duplicado y dentro del mismo término, los programas del espectáculo;
-
-III. No variar los programas y precios dados a conocer sin que se dé aviso a las autoridades fiscales y se recabe nueva autorización antes de la realización de la actividad; y
-
-IV. Garantizar el interés fiscal.
-
-###### ARTICULO 9.
-
-Los organizadores, promotores o representantes de las empresas de espectáculos y diversiones públicas, están obligados a permitir que los interventores comisionados por las autoridades fiscales desempeñen adecuadamente sus funciones, así como a proporcionarles libros, documentos y cuantos datos requieran para definir la correcta causación del impuesto a que se refiere este Capítulo.
-
-###### ARTICULO 10.
-
-Las autoridades fiscales del Estado podrán suspender o clausurar cualquier diversión o espectáculo, cuando quienes los organicen o exploten se nieguen a permitir que los interventores vigilen la entrada, liquiden o recauden el impuesto, o cuando no se hayan observado las disposiciones precedentes.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 11], P.O. 31 DE DICIEMBRE DE 2019)
 
 TASA
 
-###### ARTICULO 11.
+###### ARTICULO 7.
 
 El Impuesto Sobre Diversiones y Espectáculos Públicos, se calculará y pagará aplicando a la base gravable las siguientes tasas:
 
 I. Espectáculos:
 
-1. Circos, 4%
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+1. Circos. 4%
 
 2. Carpas, cualquiera que sea el espectáculo que presente. 4%
 
@@ -163,15 +143,133 @@ II. Diversiones:
 
 4. Palenques, 6%
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 12], P.O. 31 DE DICIEMBRE DE 2019)
+
 PAGO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 8.
+
+El impuesto a que se refiere este Capítulo, deberá pagarse en la misma fecha en que se lleve a efecto la diversión o el espectáculo público.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Al efecto, el interventor designado por la autoridad fiscal, se presentará en el lugar donde se lleva a cabo el espectáculo, con el fin de recabar el pago correspondiente al impuesto y expedir un recibo provisional válido con el cual el organizador podrá exigir a contra-entrega del mismo recibo oficial del pago del impuesto en los establecimientos autorizados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+La autoridad fiscal se reserva el derecho de verificar, incluso mediante la intervención en taquilla, la exactitud en el pago del impuesto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+En caso de que no se presentara ningún interventor, el empresario u organizador de la diversión o el espectáculo se deberá presentar al día hábil siguiente, en las oficinas de las autoridades fiscales ubicadas en el lugar en que se lleve a efecto la diversión o el espectáculo público, a efectuar el pago respectivo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Cada boleto deberá ser numerado progresivamente y sellado por la autoridad fiscal, y contener el nombre de la empresa o persona que organice la función, precio de entrada y categoría de la localidad a que de derecho.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+En caso de que los contribuyentes no expidan el boletaje con anterioridad al evento y el organizador del evento utilice medios electrónicos de impresión y/o venta de boletos, se tomará como base para la determinación y liquidación del impuesto el documento que contiene el reporte electrónico de la venta en las diferentes localidades, el costo de cada una de ellas y el acumulado correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Cuando no se expida el boletaje del evento con anterioridad, y no se utilicen los medios electrónicos a que se refiere el párrafo anterior, el aforo o capacidad de ocupación del recinto en el que se celebre el espectáculo público y el precio de entrada al evento, será la base para determinar y liquidar el impuesto, salvo en los casos que los sujetos acrediten la entrada bruta por otros medios aceptados por la autoridad.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Cuando no se realice el pago conforme a lo establecido en el presente artículo, la autoridad fiscal podrá determinar el impuesto y procederá a hacerlo efectivo mediante el Procedimiento Administrativo de Ejecución, o en su caso, aplicar la garantía otorgada por el contribuyente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 9.
+
+Son responsables solidarios en el pago del impuesto:
+
+I. Los propietarios, poseedores o responsables de administrar o concesionar los establecimientos o lugares en los que se realicen las actividades gravadas.
+
+II. Los emisores o vendedores de boletaje electrónico serán solidariamente responsables con los organizadores del evento ante el Estado, de la presentación de toda la documentación necesaria para la determinación y liquidación del impuesto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 10.
+
+La autoridad fiscal competente nombrará interventores de Diversiones y Espectáculos Públicos, quienes determinarán el impuesto correspondiente, acreditándose para tal efecto con la constancia de identificación con firma autógrafa de la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+El interventor designado por la autoridad fiscal se presentará en el lugar donde se lleve a cabo el espectáculo, con el fin de recabar el pago correspondiente al impuesto y expedir un recibo provisional válido con el cual el organizador podrá exigir a contra-entrega del mismo, el recibo oficial del pago del impuesto en los establecimientos autorizados.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Los contribuyentes que utilicen boletaje electrónico para permitir el acceso del público, están obligados a permitir la inspección de las mismas (sic) por parte de los interventores de diversiones y espectáculos públicos designados por la autoridad fiscal.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 7], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+OBLIGACIONES
+
+###### ARTICULO 11.
+
+Los contribuyentes de este impuesto tienen, además, las siguientes obligaciones:
+
+I. Deberá inscribirse en el Registro Estatal de Contribuyentes cumpliendo con los requisitos que para el efecto se determine.
+
+II. Por cada evento, los sujetos de este impuesto están obligados a recabar, cuando menos con quince días de anticipación a la celebración del acto, la autorización de las autoridades fiscales, debiendo presentar solicitud que contendrá, cuando menos, los siguientes requisitos:
+
+a) Nombre y domicilio de quien promueva, organice o explote la diversión o espectáculo público para el cual se solicita autorización;
+
+b) Clase de diversión o espectáculo;
+
+c) Ubicación del inmueble o predio en que se va a efectuar y nombre del propietario o poseedor del mismo, así como el contrato de comodato o arrendamiento del lugar;
+
+d) Hora señalada para que principien las funciones; y
+
+e) Número de localidades de cada clase que haya en el local destinado al espectáculo y su precio al público; así como el número de cortesías, debidamente marcadas como tales, que serán entregadas para cada función.
+
+Cualquier modificación a los datos comprendidos en los incisos precedentes, deberá comunicarse por escrito a las autoridades fiscales, dentro de los tres días hábiles anteriores a la fecha en que vaya a realizarse la actividad objeto de este impuesto.
+
+No se pagará el impuesto por los boletos de entrada que no tengan precio al público y que se utilicen como cortesías siempre y cuando se presenten para su sellado conforme al artículo 10.
+
+Los boletos de cortesía no excederán del 10% del boletaje vendido.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 8], P.O. 31 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 12.
 
-El impuesto a que se refiere este Capítulo se pagará en las Instituciones de Crédito o establecimientos autorizados.
+Una vez concedida la autorización, los sujetos de este impuesto tienen las obligaciones siguientes:
 
-En la fecha en que se realice el evento, el interventor autorizado podrá recabar el pago correspondiente al impuesto y expedir un recibo provisional válido con el cual el organizador podrá exigir a contra-entrega del mismo el recibo oficial del pago del impuesto en los establecimientos autorizados.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-Cuando no se realice el pago conforme a lo establecido en el presente artículo, la autoridad fiscal procederá a hacerlo efectivo mediante el Procedimiento Administrativo de Ejecución, o en su caso, aplicar la garantía otorgada por el contribuyente.
+I. Para efectos de control fiscal, en todas las diversiones o espectáculos públicos en los que se cobre en (sic) ingreso, deberán presentar a las autoridades fiscales, la emisión total de los boletos de entrada, cuando menos un día antes al de la realización de la actividad autorizada, a fin de que se autoricen con el sello respectivo, el cual en ningún caso será mayor al aforo del lugar donde se realice el evento.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+II. En el caso de boletaje electrónico, los organizadores del evento deberán presentar por escrito, la relación de boletos por emitir, incluyendo en la misma, el precio de venta del boleto, así como el contrato que realicen con la empresa encargada de la emisión de dichos boletos electrónicos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+III. Para efectos de la definición de los aforos en los lugares donde se presenten diversiones o espectáculos públicos, se tomará en cuenta el dictamen que para el efecto emitan las autoridades de Protección Civil.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+IV. Entregar a la misma dependencia, por duplicado y dentro del mismo término, los programas del espectáculo;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+V. No variar los programas y precios dados a conocer sin que se dé aviso a las autoridades fiscales y se recabe nueva autorización antes de la realización de la actividad; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VI. Garantizar el interés fiscal, debiendo ser por el equivalente al importe de la emisión del boletaje.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Los organizadores, promotores o representantes de las empresas de espectáculos y diversiones públicas, están obligados a permitir que los interventores comisionados por las autoridades fiscales desempeñen adecuadamente sus funciones, así como a proporcionarles libros, documentos y cuantos datos requieran para definir la correcta causación del impuesto a que se refiere este Capítulo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Las autoridades fiscales del Estado podrán suspender o clausurar cualquier diversión o espectáculo, cuando quienes los organicen o exploten se nieguen a permitir que los interventores vigilen la entrada, liquiden o recauden el impuesto, o cuando no se hayan observado las disposiciones precedentes.
 
 ### CAPITULO SEGUNDO. DEL IMPUESTO SOBRE ENAJENACION DE VEHICULOS DE MOTOR
 
@@ -255,23 +353,9 @@ Quien contrate a las cooperativas, personas físicas, sociedades de cualquier ti
 
 El impuesto sobre nóminas que se retenga en términos de los párrafos anteriores, lo podrán acreditar las cooperativas, personas físicas, sociedades de cualquier tipo o asociaciones a que se refiere esta fracción, contra el impuesto a su cargo en las declaraciones que estén obligadas a presentar. En ningún caso las cantidades retenidas darán lugar a devolución o compensación para el retenedor. En todo caso, el retenedor deberá entregar al prestador la constancia de retención en las formas autorizadas por la Secretaría de Finanzas del Gobierno del Estado.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO DE LA FRACCIÓN III CON SUS NUMERALES, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-Quien tenga la obligación de efectuar la retención prevista en el párrafo anterior tendrá la opción de no efectuarla, cuando la cooperativa, sociedad o asociación de cualquier tipo que le proporcione el personal tenga su domicilio fiscal en el territorio del Estado de Coahuila de Zaragoza y además cumpla con los requisitos siguientes:
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-1.- Presentar aviso ante las autoridades fiscales del Estado en la forma aprobada para tal efecto por la Secretaría de Finanzas, dentro del mes siguiente a la contratación de la cooperativa, sociedad o asociación de cualquier tipo a que se refiere esta fracción.
-
-2.- Que obtenga copia de la constancia de inscripción actualizada de la cooperativa, sociedad de cualquier tipo o asociación a que se refiere esta fracción, ante el registro de contribuyentes del impuesto sobre nóminas que llevan las autoridades fiscales del Estado y lo presente a las autoridades fiscales cuando le sea requerido.
-
-3.- Que presente ante las autoridades fiscales del Estado, en las formas aprobadas para tal efecto, una declaración informativa acerca de los pagos realizados a las cooperativas, sociedades de cualquier tipo o asociaciones a que se refiere esta fracción en las formas oficiales aprobadas por ésta, a más tardar en el mes de marzo de cada año, correspondiente a los pagos que se les hubiera realizado en el año de calendario anterior.
-
-4.- Que mantenga los registros contables y la documentación correspondientes para la correcta identificación de las cooperativas, sociedades de cualquier tipo o asociaciones a que se refiere esta fracción que reciban los pagos y de los importes que les haya pagado.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-Quien debiendo efectuar la retención del impuesto sobre nóminas señalada en este artículo y ejerza la opción de no retener, y no cumpla con alguno de los requisitos u obligaciones señaladas en los incisos que anteceden, será responsable solidario del pago del impuesto y sus accesorios hasta por el importe de la retención que no hubiere efectuado.
+> <small>(DEROGADO QUINTO PÁRRAFO DE LA FRACCIÓN III, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 SUJETO
 
@@ -375,145 +459,15 @@ I. Las erogaciones que se cubran por concepto de:
 
 II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REUBICADO ANTES CAPÍTULO QUINTO], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-### CAPITULO CUARTO. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
+### CAPITULO CUARTO. IMPUESTO POR SERVICIOS DE HOSPEDAJE
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 58], P.O. 31 DE DICIEMBRE DE 2019)
+
+OBJETO
 
 ###### ARTICULO 33.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-###### ARTICULO 34.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-###### ARTICULO 35.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-###### ARTICULO 36.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-###### ARTICULO 37.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2016)</small>
-
-###### ARTICULO 38.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-###### ARTICULO 39.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-###### ARTICULO 40.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-### CAPITULO QUINTO. IMPUESTO POR SERVICIOS DE HOSPEDAJE
-
-OBJETO
-
-###### ARTICULO 41.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2016)</small>
-
-###### ARTICULO 42.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-###### ARTICULO 43.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-###### ARTICULO 44.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-###### ARTICULO 45.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-###### ARTICULO 46.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-###### ARTICULO 47.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-### CAPITULO SEXTO. DEL IMPUESTO POR REMEDIACION AMBIENTAL EN LA EXTRACCION DE MATERIALES PETREOS
-
-OBJETO
-
-###### ARTICULO 48.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-###### ARTICULO 49.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-###### ARTICULO 50.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2016)</small>
-
-###### ARTICULO 51.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-###### ARTICULO 51- A.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-###### ARTICULO 52.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-###### ARTICULO 53.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-### CAPITULO SEPTIMO. DEL IMPUESTO SOBRE INGRESOS POR PREMIOS DERIVADOS DE LOTERIAS, RIFAS, SORTEOS, JUEGOS CON APUESTAS Y CONCURSOS
-
-OBJETO
-
-## TITULO III. DE LOS DERECHOS
-
-### CAPITULO PRIMERO. POR SERVICIOS DE LA SECRETARIA DE GOBIERNO
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-#### SECCIÓN PRIMERA. AUTOMOVILES
-
-###### ARTICULO 54.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-> <small>(DEROGADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE DICIEMBRE DE 2016)</small>
-
-###### ARTICULO 55.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2016)</small>
-
-###### ARTICULO 56.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-###### ARTICULO 57.
-
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
-
-###### ARTICULO 58.
 
 Es objeto de este impuesto, la prestación de servicios de hospedaje, campamentos y de tiempo compartido, en el territorio del Estado. Para los efectos de este impuesto sólo se considerará el albergue, sin incluir los alimentos y demás servicios relacionados con los mismos.
 
@@ -523,21 +477,25 @@ Se consideran servicios de hospedaje, el acto por el cual se concede a una perso
 
 Para los efectos de este artículo, se consideran establecimientos de hospedaje los hoteles, moteles, albergues, habitaciones con sistema de tiempo compartido o de operación hotelera, suites, villas o bungalows, ex-haciendas departamentos y casas, total o parciamente (sic) y construcciones en las que se proporcione el servicio de alojamiento, a cambio de una contraprestación en dinero o en especie, sea cual fuere.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 59], P.O. 31 DE DICIEMBRE DE 2019)
+
 SUJETO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2019)</small>
 
-###### ARTICULO 59.
+###### ARTICULO 34.
 
 Son sujetos de este impuesto las personas físicas y morales, que presten los servicios a que se refiere el artículo anterior, quienes deberán trasladar su importe a las personas que reciban los servicios objeto de este impuesto.
 
 > <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2019)</small>
 
-En los supuestos de hospedaje de departamentos y casas, total o parcialmente, campamentos y paraderos de casas rodantes, previstos en el artículo 58, de esta Ley, cuando la contraprestación por servicios de hospedaje se cubra a través de una persona física o moral en su carácter de intermediaria, promotora o facilitadora, éstas deberán retener y enterar este impuesto.
+En los supuestos de hospedaje de departamentos y casas, total o parcialmente, campamentos y paraderos de casas rodantes, previstos en el artículo 58 (sic), de esta Ley, cuando la contraprestación por servicios de hospedaje se cubra a través de una persona física o moral en su carácter de intermediaria, promotora o facilitadora, éstas deberán retener y enterar este impuesto.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 60], P.O. 31 DE DICIEMBRE DE 2019)
 
 BASE
 
-###### ARTICULO 60.
+###### ARTICULO 35.
 
 Es base de este impuesto el monto total de los ingresos que perciban las personas físicas o morales por los servicios de hospedaje que presten. Para los efectos de este impuesto sólo se considerarán los ingresos que se obtengan por el albergue, sin incluir los obtenidos por alimentos y demás servicios relacionados con los mismos.
 
@@ -545,21 +503,27 @@ Es base de este impuesto el monto total de los ingresos que perciban las persona
 
 Este impuesto se causará en el momento del pago por la prestación del servicio de hospedaje recibido. Este impuesto no se causa por los servicios de albergue o alojamiento prestados por hospitales, clínicas o sanatorios
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 61], P.O. 31 DE DICIEMBRE DE 2019)
+
 TASA
 
-###### ARTICULO 61.
+###### ARTICULO 36.
 
 El impuesto por servicios de hospedaje se causará con la tasa del 3% aplicado sobre la base gravable establecida en el artículo anterior.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 62], P.O. 31 DE DICIEMBRE DE 2019)
+
 PAGO
 
-###### ARTICULO 62.
+###### ARTICULO 37.
 
 Los contribuyentes trasladarán en forma expresa y por separado el impuesto a las personas que reciban los servicios.
 
 Se entenderá por traslado del impuesto el cobro o cargo que los contribuyentes deben hacer a dichas personas por un monto equivalente al impuesto establecido en este Capítulo.
 
-###### ARTICULO 63.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 63], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 38.
 
 El impuesto se calculará por mes de calendario y su pago deberá efectuarse en las instituciones de crédito o establecimientos autorizados, mediante declaración mensual que deberá presentarse dentro de los primeros diecisiete días naturales del mes siguiente a aquél en que se obtengan los ingresos por los servicios gravados por este impuesto, en las formas aprobadas por la Secretaría de Finanzas.
 
@@ -571,11 +535,11 @@ Los contribuyentes que tengan varios establecimientos deberán conservar, en cad
 
 Las personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras retengan este impuesto, deberán enterarlo mediante declaraciones definitivas en términos del primer párrafo de este artículo, proporcionando la información de las personas físicas o morales que prestaron el servicio de hospedaje y de la totalidad de las operaciones en las que hayan intervenido.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2019)</small>
+(REUBICADO [N. DE E. ANTES ARTÍCULO 64], P.O. 31 DE DICIEMBRE DE 2019) (REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2019)
 
-###### ARTICULO 64.
+###### ARTICULO 39.
 
-Los contribuyentes y retenedores que obtengan ingresos por los servicios de hospedaje, además de las obligaciones señaladas en el presente capítulo, tendrán las siguientes:
+Los contribuyentes que obtengan ingresos por los servicios de hospedaje, además de las obligaciones señaladas en el presente capítulo, tendrán las siguientes:
 
 I. Llevar contabilidad de conformidad con el Código Fiscal para el Estado de Coahuila de Zaragoza y efectuar los registros en la misma.
 
@@ -587,37 +551,49 @@ III. Presentar en las oficinas autorizadas las declaraciones mensuales de este i
 
 IV.- Solicitar su inscripción en el Registro Estatal de Contribuyentes, tratándose de personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras retengan este impuesto.
 
-###### ARTICULO 65.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 65], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 40.
 
 Cuando el contribuyente omita registrar ingresos a que se refiere este impuesto, estos podrán ser determinados por la autoridad fiscal.
 
-###### ARTICULO 66.
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REUBICADO ANTES CAPÍTULO SEXTO], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+### CAPITULO QUINTO. DEL IMPUESTO POR REMEDIACION AMBIENTAL EN LA EXTRACCION DE MATERIALES PETREOS
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 66], P.O. 31 DE DICIEMBRE DE 2019)
+
+OBJETO
+
+###### ARTICULO 41.
 
 Es objeto de este impuesto la extracción, explotación o aprovechamiento de materiales pétreos, así como los productos derivados que se precisan en este capítulo, que no sean concesibles por la Federación y que constituyan depósitos de igual naturaleza a los componentes de los terrenos. Para efectos de este artículo la extracción, explotación o aprovechamiento deberá realizarse por medio de trabajos a cielo abierto en el territorio del Estado de Coahuila de Zaragoza
 
 Se consideran materiales pétreos las piedras de construcción y de adorno, mármol, canteras, arenas, granito, gravas, pizarras, arcillas que no requieran trabajos subterráneos, calizas, puzolanas, turbas, arenas silíceas, ónix, travertinos, tezontle, tepetate, piedras dimensionadas o de cualquier otra especie que no sean preciosas, mezclas de minerales no metálicos y las sustancias terrosas, y demás minerales no metálicos.
 
-Para efectos de este artículo se consideran piedras preciosas, los señalados en el artículo 4 de la Ley Minera.
+Para efectos de este artículo se consideran piedras preciosas, los señalados (sic) en el artículo 4 de la Ley Minera.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 67], P.O. 31 DE DICIEMBRE DE 2019)
 
 SUJETO
 
-#### SECCIÓN SEGUNDA. OTROS VEHICULOS
-
-###### ARTICULO 67.
+###### ARTICULO 42.
 
 Son sujetos del pago de este impuesto las personas físicas y morales o unidades económicas que dentro del territorio del Estado extraigan, exploten o aprovechen los materiales pétreos y los derivados a que se refiere el artículo anterior.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 68], P.O. 31 DE DICIEMBRE DE 2019)
+
 BASE
 
-###### ARTICULO 68.
+###### ARTICULO 43.
 
 Es base de este impuesto el volumen de materiales pétreos o de los derivados a que se refiere este capítulo, que se extraigan, exploten o aprovechen en territorio del Estado, y que se determinará conforme al volumen extraído.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 69], P.O. 31 DE DICIEMBRE DE 2019)
+
 TASA
 
-#### SECCIÓN TERCERA. VEHICULOS USADOS DE HASTA NUEVE AÑOS DE ANTIGÜEDAD
-
-###### ARTICULO 69.
+###### ARTICULO 44.
 
 El impuesto a que se refiere este capítulo se causará por cada metro cúbico que se extraiga de los materiales objeto de este impuesto, conforme a lo siguiente:
 
@@ -627,9 +603,11 @@ II. Una tasa de 2.5 veces el salario mínimo general vigente en el Estado por la
 
 III. Una tasa de 5.0 veces el salario mínimo general vigente en el Estado por las piedras de construcción y adorno de granito y ónix.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 70], P.O. 31 DE DICIEMBRE DE 2019)
+
 PAGO
 
-###### ARTICULO 70.
+###### ARTICULO 45.
 
 El pago de este impuesto deberá efectuarse en las instituciones de crédito o establecimientos autorizados de la jurisdicción en que se encuentre el predio, dentro de los primeros diecisiete días del mes siguiente en que ocurran las actividades a que se refiere el Artículo 66 de este Capítulo, mediante declaración que presentarán en las formas autorizadas por las autoridades fiscales.
 
@@ -641,9 +619,11 @@ Cuando los contribuyentes cuenten con sucursales en diversos municipios del Esta
 
 Las personas físicas o morales que tengan su domicilio fiscal en otro Estado, deberán pagar conforme a lo establecido en esta Ley y en el artículo 1 del Código Fiscal para el Estado de Coahuila de Zaragoza, el Impuesto por Remediación Ambiental en la Extracción de Materiales Pétreos que se cause por los actos o actividades realizadas dentro del territorio del Estado de Coahuila de Zaragoza.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 71], P.O. 31 DE DICIEMBRE DE 2019)
+
 OBLIGACIONES
 
-###### ARTICULO 71.
+###### ARTICULO 46.
 
 Son obligaciones de los contribuyentes de este impuesto las siguientes:
 
@@ -653,11 +633,9 @@ II. Inscribirse en el Registro Estatal de Contribuyentes y presentar la autoriza
 
 III. Llevar un libro de registros de extracción en el que se hará constar diariamente la cantidad en metros cúbicos de material que se extraiga del suelo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018) (REUBICADO [N. DE E. ANTES ARTÍCULO 72], P.O. 31 DE DICIEMBRE DE 2019)
 
-#### SECCION CUARTA. OBLIGACIONES
-
-###### ARTICULO 72.
+###### ARTICULO 47.
 
 La Administración Fiscal General podrá establecer procedimientos para:
 
@@ -665,47 +643,67 @@ I. El pago anticipado del impuesto, mediante la presentación de la declaración
 
 II. Los contribuyentes de este impuesto, podrán pagar el mismo mediante una cuota fija mensual, la que será determinada por una estimativa que practiquen las autoridades fiscales. Para ello, dichas autoridades obtendrán el valor estimado mensual de las actividades por el que el contribuyente este obligado al pago de este impuesto, pudiendo considerar el valor estimado de dichas actividades durante un año calendario, en cuyo caso dicho valor se dividirá entre doce para obtener el valor de las actividades mensuales estimadas.
 
-###### ARTICULO 73.
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REUBICADO ANTES CAPÍTULO SÉPTIMO], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-Es objeto de este impuesto, la obtención de premios derivados o relacionados con loterías, rifas, sorteos, juegos con apuestas permitidas y concursos de toda clase, aún cuando por dichos eventos no se cobre cantidad alguna que represente el derecho a participar en los mismos. El pago de la presente contribución no prejuzgara la legitimidad de los juegos o sorteos de los que lo deriven.
+### CAPITULO SEXTO. DEL IMPUESTO SOBRE INGRESOS POR PREMIOS DERIVADOS DE LOTERIAS, RIFAS, SORTEOS, JUEGOS CON APUESTAS Y CONCURSOS
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 73], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+OBJETO
+
+###### ARTICULO 48.
+
+Es objeto de este impuesto, la obtención de premios derivados o relacionados con loterías, rifas, sorteos, juegos con apuestas permitidas y concursos de toda clase, aun cuando por dichos eventos no se cobre cantidad alguna que represente el derecho a participar en los mismos. El pago de la presente contribución no prejuzgara la legitimidad de los juegos o sorteos de los que lo deriven.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 74], P.O. 31 DE DICIEMBRE DE 2019)
 
 SUJETO
 
-### CAPITULO SEGUNDO. POR SERVICIOS DE LA SECRETARIA DE FINANZAS
-
-#### SECCION QUINTA. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS DE MAS DE 10 AÑOS DE FABRICACIÓN
-
-###### ARTICULO 74.
+###### ARTICULO 49.
 
 Son sujetos de este impuesto, las personas físicas o morales que tengan su domicilio en el Estado de Coahuila de Zaragoza, que obtengan premios derivados o relacionados con loterías, rifas, sorteos, juegos con apuestas permitidas y concursos de toda clase.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 75], P.O. 31 DE DICIEMBRE DE 2019)
+
 BASE
 
-###### ARTICULO 75.
+###### ARTICULO 50.
 
 Es base gravable de este impuesto, el valor o avalúo de los premios derivados de loterías, rifas, sorteos, juegos con apuestas permitidas, sean de destreza, habilidades y azar, así como concursos de toda clase.
 
 Cuando los premios sean en especie y no se exprese su valor o cuando el valor expresado sea inferior al que tenga en el mercado el bien que se entrega como premio, éstos serán valuados por perito que será designado por las autoridades fiscales.
 
-El impuesto que resulte a cargo de quienes reciban premios, deberá ser retenido por las personas que realicen el pago de éstos. Esta retención deberá realizarse aún cuando el retenedor resida en otra entidad federativa.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+El impuesto que resulte a cargo de quienes reciban premios, deberá ser retenido por las personas que realicen el pago de éstos. Esta retención deberá realizarse aun cuando el retenedor resida en otra entidad federativa.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 76], P.O. 31 DE DICIEMBRE DE 2019)
 
 TASA
 
-###### ARTICULO 76.
+###### ARTICULO 51.
 
 La tasa correspondiente al impuesto sobre ingresos por premios derivados de loterías, rifas, sorteos, juegos con apuestas y concursos será el 6%, aplicado a la base gravable establecida en el artículo anterior.
 
 Los contribuyentes de este impuesto, podrán pagar el mismo mediante una cuota fija mensual, la que será determinada por una estimativa que practiquen las autoridades fiscales. Para ello, dichas autoridades obtendrán el valor estimado mensual de las actividades por el que el contribuyente este obligado al pago de este impuesto, pudiendo considerar el valor estimado de dichas actividades durante un año calendario, en cuyo caso dicho valor se dividirá entre doce para obtener el valor de las actividades mensuales estimadas.
 
+###### ARTICULO 51- A.
+
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 77], P.O. 31 DE DICIEMBRE DE 2019)
+
 PAGO
 
-###### ARTICULO 77.
+###### ARTICULO 52.
 
 El pago de este impuesto deberá efectuarse por el retenedor en las instituciones de crédito o establecimientos autorizados, dentro de los diecisiete días naturales del mes siguiente a aquél en el cual se haga entrega del premio.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 78], P.O. 31 DE DICIEMBRE DE 2019)
+
 OBLIGACIONES
 
-###### ARTICULO 78.
+###### ARTICULO 53.
 
 Quienes entreguen los premios a que se refiere este Capítulo, además de efectuar las retenciones de este impuesto tendrán las obligaciones siguientes:
 
@@ -713,17 +711,37 @@ I. Proporcionar cuando así lo solicite el interesado constancia de retención d
 
 II. Conservar de conformidad con el Código Fiscal para el Estado de Coahuila de Zaragoza, la documentación relacionada con las constancias de entrega de premios y retenciones del impuesto.
 
-###### ARTICULO 79.
+### CAPITULO PRIMERO. POR SERVICIOS DE LA SECRETARIA DE GOBIERNO
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+## TITULO III. DE LOS DERECHOS
+
+### CAPITULO SEGUNDO. POR SERVICIOS DE LA SECRETARIA DE FINANZAS
+
+#### SECCION PRIMERA. POR SERVICIOS DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE COAHUILA DE ZARAGOZA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+PRIMERA PARTE
+
+DEL REGISTRO DE LA PROPIEDAD
+
+(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016) (REUBICADO [N. DE E. ANTES ARTÍCULO 79], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 54.
 
 Los servicios prestados por el Registro Público, relativos a la propiedad, causarán derechos conforme a la siguiente:
 
 TARIFA
 
-I. El examen de todo documento público o privado que se presente para su inscripción, cuando se rehúse ésta por no ser procedente o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial, $71.00 (SETENTA Y UN PESOS 00/100 M.N.).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+I. El examen de todo documento público o privado que se presente para su inscripción, cuando se rehúse esta por no ser procedente o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial, se pagará $267.00 (DOSCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.).
 
-II. Se pagará una cuota de $13,900.00 (TRECE MIL NOVECIENTOS PESOS 00/100 M.N.), en los siguientes supuestos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+II. Se pagará una cuota de $14,317.00 (CATORCE MIL TRESCIENTOS DIECISIETE PESOS 00/100 M.N.), en los siguientes supuestos:
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -741,13 +759,11 @@ II. Se pagará una cuota de $13,900.00 (TRECE MIL NOVECIENTOS PESOS 00/100 M.N.)
 
 4). La inscripción de gravámenes sobre bienes inmuebles, sea por contrato, por resolución judicial o por disposición testamentaria; la de los títulos por virtud de los cuales se adquieran, transmitan, modifiquen o extingan derechos reales sobre inmuebles, distintos del dominio; los que limiten el dominio del vendedor, del embargo, así como de cédulas hipotecarias, de servidumbres y de fianzas.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+5). (DEROGADO, P.O. 31 DE DICIEMBRE DE 2019)
 
-5). Cuando se solicite la inscripción de embargo sobre bienes inmuebles derivada de juicios de alimentos o laborales.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-6). Las inscripciones que deriven de la inscripción de actos jurídicos por los que se deban pagar los derechos establecidos en el artículo 82 fracción II y 82-A, de la Sección de Comercio.
+6). Las inscripciones que deriven de la inscripción de actos jurídicos por los que se deban pagar los derechos establecidos en el artículo 60 fracción II y 61, de la Sección de Comercio.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -757,81 +773,89 @@ II. Se pagará una cuota de $13,900.00 (TRECE MIL NOVECIENTOS PESOS 00/100 M.N.)
 
 8). La inscripción del título o contrato cuando se aumente el capital o se transfiera algún derecho.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-Además de los servicios por la inscripción de los actos jurídicos que conforme a esta fracción y al Código Civil para el Estado de Coahuila de Zaragoza deban registrarse, se incluyen los costos por su revisión, calificación de procedencia, la publicidad y disposición para su consulta de los asientos registrales, así como la utilización de recursos materiales, humanos y tecnologías de la información para la clasificación y presentación de la información y todo aquello que se requiere para una adecuada conservación y archivo perene de los documentos que se resguardan.
+Además de los servicios por la inscripción de los actos jurídicos que conforme a esta fracción y al Código Civil para el Estado de Coahuila de Zaragoza deban registrarse, se incluyen los costos por su revisión, calificación de procedencia, la publicidad y disposición para su consulta de los asientos registrales digitalizados, así como la utilización de recursos materiales, humanos y tecnologías de la información para la clasificación y presentación de la información y todo aquello que se requiere para una adecuada conservación y archivo perene de los documentos que se resguardan.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 79-A], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-###### ARTICULO 79-A.
+###### ARTICULO 55.
 
-En la inscripción o registro de los documentos que se describen en la fracción II incisos 1), 4) y 8) del artículo anterior, si el valor de la operación que se contenga en el documento excede de $1'309,515.00 (UN MILLÓN TRESCIENTOS NUEVE MIL QUINIENTOS QUINCE PESOS 00/100 M.N.), se pagará adicionalmente por lo que exceda de dicha cantidad el 6 al millar.
+En la inscripción o registro de los documentos que se describen en la fracción II incisos 1), 4) y 8) del artículo anterior, si el valor de la operación que se contenga en el documento excede de $1'348,800.00 (UN MILLÓN TRESCIENTOS CUARENTA Y OCHO MIL OCHOCIENTOS PESOS 00/100 M.N.), se pagará adicionalmente por lo que exceda de dicha cantidad el 6 al millar.
 
-###### ARTICULO 79-B.
+(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016) (REUBICADO [N. DE E. ANTES ARTÍCULO 79-H], P.O. 31 DE DICIEMBRE DE 2019)
 
-(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
-
-###### ARTICULO 79-C.
-
-(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
-
-###### ARTICULO 79-D.
-
-(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
-
-###### ARTICULO 79-E.
-
-(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
-
-###### ARTICULO 79-F.
-
-(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
-
-###### ARTICULO 79-G.
-
-(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-###### ARTICULO 79-H.
+###### ARTICULO 56.
 
 Por otros servicios:
 
 I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
-II. El depósito de cualquier otro documento, $186.00 (CIENTO OCHENTA Y SEIS PESOS 00/100 M.N.).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-III. La expedición de certificados de no antecedentes registrales de inmuebles, $947.00 (NOVECIENTOS CUARENTA Y SIETE PESOS 00/100 M.N.).
+II. El depósito de cualquier otro documento, $267.00 (DOSCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.).
 
-IV. La constancia que extienda el Registro al calce de los documentos privados que se le presenten, expresando que se ha cerciorado de la autenticidad de las firmas y de la voluntad de las partes $75.00 (SETENTA Y CINCO PESOS 00/100 M.N.) por hoja.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-V. La búsqueda de información para la expedición de constancias, certificados o informes, $81.00 (OCHENTA Y UN PESOS 00/100 M.N.).
+III. La expedición de certificados de no antecedentes registrales de inmuebles, $987.00 (NOVECIENTOS OCHENTA Y SIETE PESOS 00/100 M.N.).
+
+IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2019)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+V. La búsqueda y/o constancia de información, solicitados por autoridades de la Federación, Entidades Federativas, Municipios u organismos de estos, por cada inmueble, o persona física o moral $267.00 (DOSCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.).
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+No se generará el cobro de los derechos previstos en esta fracción, cuando la prestación del servicio la requieran el Poder Judicial de la Federación y del Estado, así como el Ministerio Público Federal, local, la Representación Legal del Ejecutivo y el Servicio de Administración Tributaria, en el ejercicio de sus funciones.
+
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 VI. La expedición de certificados o certificaciones relativos a las constancias del Registro:
 
-1. Certificados de existencia o inexistencia de gravámenes, $256.00 (DOSCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.), por cada lote.
+1. Certificados de existencia o inexistencia de gravámenes, $267.00 (DOSCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.), por cada lote.
 
-2. Constancia de existencia o inexistencia de propiedad, $256.00 (DOSCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.).
+2. Constancia de existencia o inexistencia de propiedad, $267.00 (DOSCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.).
 
-3. Constancia de historial registral $498.00 (CUATROCIENTOS NOVENTA Y OCHO PESOS 00/100 M.N.).
+3. Constancia de historial registral $519.00 (QUINIENTOS DIECINUEVE PESOS 00/100 M.N.).
 
-4. Certificado de registro, $256.00 (DOSCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.).
+4. Certificado de registro, $267.00 (DOSCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.).
 
-5. Otros certificados y certificaciones $256.00 (DOSCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.).
+5. Por copia certificada de asientos registrales de un folio o de una partida de los libros $267.00 (DOSCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.). Cuando exceda de 5 hojas, se cobrará por cada hoja adicional $10.00 (DIEZ PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 VII. La cancelación de inscripciones en el Registro causará el 10% de los derechos que se causaron por su inscripción.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 VIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 IX. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
 
-###### ARTICULO 80.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+X. Por inscripción de avisos preventivos por cada lote o inmueble $50.00 (CINCUENTA PESOS 00/100 M.N.). Y de avisos definitivos, por cada escritura $50.00 (CINCUENTA PESOS 00/100 M.N.).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 57.
+
+Por la utilización del Sistema Integral de Informática Registral del Instituto:
+
+1. Por servicio de vinculación remota al módulo de oficina virtual de Notarios del Sistema, se pagará de forma anual $5,000.00 (CINCO MIL PESOS 00/100 M.N.).
+
+2. Por servicio de trámites realizados vía telemática, se pagará una cuota adicional de $40.00 (CUARENTA PESOS 00/100 M.N.).
+
+3. Por búsqueda de antecedentes registrales o consulta en línea, por cada imagen digital a través del Sistema Integral de Informática Registral del Instituto, se pagará una cuota de $40.00 (CUARENTA PESOS 00/100 M.N.).
+
+4. Por suscripción anual al servicio Aviso Electrónico Inmobiliario, $80.00 (OCHENTA PESOS 00/100 M.N.).
+
+5. Por cada ejemplar del Boletín Registral en la fecha de su expedición, $50.00 (CINCUENTA PESOS 00/100 M.N.).
+
+Cuando no se utilice el módulo de oficina virtual del Sistema Integral de Informática Registral del Instituto, la digitalización de documentos presentados físicamente en la oficina registral se pagará una cuota de $267.00 (DOSCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.), por cada trámite presentado.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 80], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 58.
 
 El pago de estos derechos deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, conforme a las tasas y tarifas que establece esta ley, previamente a la prestación del servicio.
 
@@ -839,13 +863,15 @@ El pago de estos derechos deberá efectuarse en las Instituciones de Crédito o 
 
 Los pagos realizados previamente a la prestación del servicio, se considerarán como pagos provisionales. Hasta que dicho servicio sea prestado, se considerará como pagos definitivos.
 
-###### ARTICULO 81.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 81], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 59.
 
 Para la determinación de los derechos que establece la Primera Parte de esta Sección, serán aplicables las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-I. En relación al artículo 79-A de esta Ley, cuando se trate de actos, contratos o resoluciones el valor por los que se transmita el dominio o la posesión de inmuebles o derechos reales, el que resulte más alto entre el valor declarado en el título o documento respectivo, y el determinado por la autoridad catastral estatal;
+I. En relación al artículo 55 de esta Ley, cuando se trate de actos, contratos o resoluciones el valor por los que se transmita el dominio o la posesión de inmuebles o derechos reales, el que resulte más alto entre el valor declarado en el título o documento respectivo, y el determinado por la autoridad catastral estatal;
 
 II. En los contratos de garantía, en los embargos y otros gravámenes, el monto de las obligaciones garantizadas, cuando el monto sea indeterminado, se tomará como base el valor catastral;
 
@@ -853,115 +879,141 @@ III. En los casos de información ad-perpetuam, el valor catastral de los inmueb
 
 IV. En las emisiones de cédulas hipotecarias en que se constituya hipoteca en favor de una institución de crédito, cuyas comisiones, cuotas, derechos u otros conceptos no puedan determinarse al momento de realizarse la operación, se pagará por la inscripción de dicha hipoteca, independientemente de la que se constituye a favor de los tenedores de las cédulas, las cuotas correspondientes por cantidad indeterminada;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-V. En relación al artículo 79-A de esta Ley, toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en ella queden comprendidos varios bienes, se pagará sobre cada uno de ellos. Se determinará por el valor más alto entre el de la operación y el valor catastral.
+V. En relación al artículo 55 de esta Ley, toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en ella queden comprendidos varios bienes, se pagará sobre cada uno de ellos. Se determinará por el valor más alto entre el de la operación y el valor catastral.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 VI. En las operaciones de bienes inmuebles sujetas a condiciones suspensivas, resolutorias, reserva de dominio o cualquier otra que dé lugar a una inscripción complementaria, se pagará el 75% de los derechos que se causen, y al practicarse la inscripción complementaria se cubrirá el 25% restante;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
-
 VII. Para los efectos del cálculo de los derechos la nuda propiedad se valuará con el 75% de los derechos que se causen y el usufructo con el 25% del mismo;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-VIII. En relación al artículo 79-A de esta Ley, cuando se trate de contratos, demandas o resoluciones que se refieren a prestaciones periódicas, se tendrá como valor la suma total de éstas si se puede determinar exactamente su cuantía, en caso contrario, se tomará como base la cantidad que resulte, haciendo el cómputo por un año.
+VIII. En relación al artículo 55 de esta Ley, cuando se trate de contratos, demandas o resoluciones que se refieren a prestaciones periódicas, se tendrá como valor la suma total de éstas si se puede determinar exactamente su cuantía, en caso contrario, se tomará como base la cantidad que resulte, haciendo el cómputo por un año.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 IX. En ningún caso los derechos por los servicios prestados por el Registro Público, relativos a la propiedad, podrán ser superiores a 600 (Seiscientas) veces el valor diario de la Unidad de Medida y Actualización (UMA).
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+X. Para el cobro de los derechos que se establecen en esta Sección, cuando un mismo documento origine dos o más asientos, se causarán derechos por cada uno de estos.
+
 SEGUNDA PARTE
 
 DEL COMERCIO
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
+(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016) (REUBICADO [N. DE E. ANTES ARTÍCULO 82], P.O. 31 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-###### ARTICULO 82.
+###### ARTICULO 60.
 
 Los servicios prestados por el Registro Público, relativos al comercio, causarán derechos conforme a la siguiente:
 
 TARIFA
 
-I. El examen de todo documento público o privado que se presente para su inscripción, cuando se rehúse ésta por no ser procedente y cuando se devuelva sin inscribir a petición del interesado o por resolución judicial, $71.00 (SETENTA Y UN PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+I. El examen de todo documento público o privado que se presente para su inscripción, cuando se rehúse esta por no ser procedente o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial deniegue por causas insubsanables, o cuando no se cumpla con los requisitos exigidos en la suspensión, se pagará $267.00 (DOSCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.).
 
-II. Se pagará una cuota de $13,900.00 (TRECE MIL NOVECIENTOS PESOS 00/100 M.N.), en los siguientes supuestos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+II. Se pagará una cuota de $14,317.00 (CATORCE MIL TRESCIENTOS DIECISIETE PESOS 00/100 M.N.), en los siguientes supuestos:
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 1). La inscripción de la escritura constitutiva de sociedades mercantiles o de las relativas a aumentos de su capital social.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-2). Tratándose de sociedades mercantiles de capital variable, por los aumentos de capital en su parte variable, que se presente para su inscripción y sus modificaciones;
+2). Tratándose de sociedades mercantiles de capital fijo, por los aumentos de capital que se presente para su inscripción y sus modificaciones;
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 3). La inscripción de créditos de cualquier clase, hipotecarios, prendarios, refaccionarios, de habilitación o avío y otros, otorgados por instituciones de crédito, agrupaciones financieras o particulares.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-Además de los servicios por la inscripción de los actos jurídicos que conforme a esta fracción deban registrarse, incluyen los costos por su revisión, calificación de procedencia, la publicidad y disposición de los asientos registrales, así como la utilización de recursos materiales, humanos y tecnologías de la información para la clasificación y presentación de la información y en lo general todo aquello que genere una adecuada conservación y archivo perene de los documentos que se resguardan.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-###### ARTICULO 82-A.
-
-Tratándose de inscripciones relativas a los incisos 1, 2 y 3 de la fracción II del artículo 82 de esta Ley, si el valor excede de $1'767,805.00 (UN MILLÓN SETECIENTOS SESENTA Y SIETE MIL OCHOCIENTOS CINCO PESOS 00/100 M.N.), adicionalmente se pagará por lo que exceda de dicha cantidad, el 6 al millar.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
-
-###### ARTICULO 82-B.
-
-La inscripción de reestructuración de créditos, causará derechos conforme a la fracción II, artículo 82 y al artículo 82-A, únicamente sobre el monto en el que se incremente el crédito ya inscrito.
-
-El mismo procedimiento se aplicará a los contratos celebrados por arrendadoras financieras, públicas o privadas que se refieran a financiamientos.
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-###### ARTICULO 82-C.
-
-Por otros Servicios:
-
-I. La búsqueda de datos para certificados e informes, $105.00 (CIENTO CINCO PESOS 00/100 M.N.);
-
-II. La expedición de certificados o certificaciones relativos a constancias del registro:
-
-1. Certificado de existencia o inexistencia de gravámenes, $256.00 (DOSCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.) por cada lote.
-
-2. Certificado de historial registral, $256.00 (DOSCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.).
-
-3. Certificado de registro, $256.00 (DOSCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.).
-
-4. Otros certificados y certificaciones, $256.00 (DOSCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.).
+Además de los servicios por la inscripción de los actos jurídicos que conforme a esta fracción deban registrarse, incluyen los costos por su revisión, calificación de procedencia, la publicidad y disposición de los asientos registrales digitales, así como la utilización de recursos materiales, humanos y tecnologías de la información para la clasificación y presentación de la información y en lo general todo aquello que genere una adecuada conservación y archivo perene de los documentos que se resguardan.
 
 III. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
 
 IV. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
 
-V. La cancelación de inscripciones relativas al comercio causará el 10% de los derechos que se causaron por su inscripción, sin que pueda ser inferior a $71.00 (SETENTA Y UN PESOS 00/100 M.N.).
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 82-A], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-En caso de que no se conozca el importe de los derechos pagados para su inscripción, se causará el 10% de los que corresponderían por su inscripción.
+###### ARTICULO 61.
 
-###### ARTICULO 83.
+Tratándose de inscripciones relativas a los incisos 1, 2 y 3 de la fracción II del artículo 60 de esta Ley, si el valor excede de $1'820,839.00 (UN MILLÓN OCHOCIENTOS VEINTE MIL OCHOCIENTOS TREINTA Y NUEVE PESOS 00/100 M.N.), adicionalmente se pagará por lo que exceda de dicha cantidad, el 6 al millar.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 82-B], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 62.
+
+La inscripción de reestructuración de créditos, causará derechos conforme a la fracción II, artículo 60 y al artículo 61, únicamente sobre el monto en el que se incremente el crédito ya inscrito.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+El mismo procedimiento se aplicará a los contratos celebrados por arrendadoras financieras, públicas o privadas que se refieran a financiamientos.
+
+(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016) (REUBICADO [N. DE E. ANTES ARTÍCULO 82-C], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 63.
+
+Por otros Servicios:
+
+I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2019)
+
+II. La expedición de certificados o certificaciones relativos a constancias del registro:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+1. Certificado de existencia o inexistencia de gravámenes, $267.00 (DOSCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.) por cada lote.
+
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019
+
+2. Certificado de historial registral, $519.00 (QUINIENTOS DIECINUEVE PESOS 00/100 M.N.).
+
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019
+
+3. Certificado de registro, $267.00 (DOSCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+4. Por copia certificada de asientos registrales de folio o de una partida de los libros $267.00 (DOSCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.), cuando exceda de 5 hojas, se cobrará por cada hoja adicional $10.00 (DIEZ PESOS 00/100 M.N.).
+
+III. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
+
+IV. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+V. La cancelación de inscripciones relativas al comercio causara el 10% de los derechos que se causaron por su inscripción, sin que pueda ser inferior a $267.00 (DOSCIENTOS SESETA Y SIETE PESOS 00/100 M.N.).
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VI. La búsqueda y/o constancia solicitada por autoridades de la Federación, Entidades Federativas, Municipios u organismos de estos por cada inmueble o persona física o moral, $267.00 (DOSCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.).
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+No se generará el cobro de los derechos previstos en esta fracción cuando la prestación del servicio la requieran el Poder Judicial de la federación y del Estado, así como el Ministerio Público Federal y local, la representación Legal del Ejecutivo y el Servicio de Administración Tributaria, en el ejercicio de sus funciones.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 83], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 64.
 
 El pago de estos derechos deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, conforme a las tasas y tarifas que establece esta ley, previamente a la prestación del servicio.
 
-###### ARTICULO 84.
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019) (REUBICADO [N. DE E. ANTES ARTÍCULO 84], P.O. 31 DE DICIEMBRE DE 2019)
 
-La determinación del pago del derecho que establece el artículo 82, se sujetará además a las siguientes reglas:
+###### ARTICULO 65.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+La determinación del pago del derecho que establece el artículo 60, se sujetará además a las siguientes reglas:
 
-I. En relación al artículo 82-A de esta Ley, los contratos en que se pacten prestaciones periódicas se valuarán en la suma de éstas si se puede determinar exactamente su cuantía, y en caso contrario, por lo que resulte de hacer el cómputo correspondiente a un año;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+I. En relación al artículo 61 de esta Ley, los contratos en que se pacten prestaciones periódicas se valuarán en la suma de éstas si se puede determinar exactamente su cuantía, y en caso contrario, por lo que resulte de hacer el cómputo correspondiente a un año;
 
 II. Cuando un mismo título origine dos o más inscripciones, los derechos se causarán por cada una de ellas;
 
@@ -969,13 +1021,17 @@ III. En los casos en que un título tenga que inscribirse en varias secciones, l
 
 IV. Cuando deban hacerse inscripciones de distintas operaciones que deriven de la constitución o disolución de alguna sociedad mercantil, se causarán los derechos por la inscripción en la Sección de Comercio, independientemente de los que causen las otras inscripciones.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-V. En ningún caso los derechos por los servicios prestados por el Registro Público, relativos al comercio, podrán ser superiores (sic) 1,095 (Mil Noventa y Cinco) veces Unidad de Medida y Actualización (UMA)
+V. En ningún caso los derechos por los servicios prestados por el Registro Público, relativos al comercio, podrán ser superiores (sic) 600 (seiscientas) veces Unidad de Medida y Actualización (UMA).
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-VI. Si en una misma escritura se consignaren diversos contratos, se pagará por cada parte lo que corresponda, con arreglo a las fracciones 82, fracción II, 82-A y 82B.
+VI. Si en una misma escritura se consignaren diversos contratos se pagará por cada parte lo que corresponda, con arreglo a las fracciones (sic) 60, fracción II, 61 y 62.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VII. Para el cobro de los derechos que establece esta Sección, cuando un mismo documento origine dos o más asientos, se causarán derechos por cada uno de estos.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -983,247 +1039,347 @@ TERCERA PARTE
 
 DE LOS SERVICIOS CATASTRALES
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018) (REUBICADO [N. DE E. ANTES ARTÍCULO 84-A], P.O. 31 DE DICIEMBRE DE 2019)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-###### ARTICULO 84-A.
+###### ARTICULO 66.
 
 Son objeto de estos Derechos, los Servicios Catastrales que presta el Instituto Registral y Catastral del Estado de Coahuila, por concepto de:
 
-I. Búsquedas a nombre de propietarios, poseedores, usufructuarios, herederos y entidades públicas relacionadas con la información catastral, geográfica y cartográfica, de inexistencia de registro, y en general de datos que formen parte del acervo catastral del Estado de Coahuila $250.00 (DOSCIENTOS CINCUENTA PESOS 00/100 M.N.) por cada predio.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+I. Búsquedas a nombre de propietarios, poseedores, usufructuarios, herederos y entidades públicas relacionadas con la información catastral, geográfica y cartográfica, de inexistencia de registro, y en general de datos que formen parte del acervo catastral del Estado de Coahuila $300.00 (TRESCIENTOS PESOS 00/100 M.N.) por cada predio.
 
 II. Por la realización y emisión del avalúo catastral de predios urbanos y rústicos, el 1.8 al millar del valor concluido. El avalúo tendrá vigencia exclusivamente durante el ejercicio fiscal en el que sea emitido.
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 III. Certificados catastrales
 
-1. Certificación de documentos que obren en el acervo catastral del Estado de Coahuila, previa legitimación de derecho a la información, $71.00 (SETENTA Y UN PESOS 00/100 M.N.).
+1. Certificación de documentos que obren en el acervo catastral del Estado de Coahuila, previa legitimación de derecho a la información, $300.00 (TRESCIENTOS PESOS 00/100 M.N.).
 
-2. Certificación de planos de predios urbanos y rústicos que formen parte de la cartografía catastral $141.00 (CIENTO CUARENTA Y UN PESOS 00/100 M.N.) por cada uno, que deberán sumarse a los servicios de copiado especificados en el numeral IV.
+2. Certificación de planos de predios urbanos y rústicos que formen parte de la cartografía catastral $300.00 (TRESCIENTOS PESOS 00/100 M.N.) por cada uno, que deberán sumarse a los servicios de copiado especificados en el numeral IV.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 IV. Servicios fotogramétricos consistentes en:
 
 1. Copia de la información existente en los archivos digitales
 
-a) Fotografía aérea, copias de contacto de 23 x 23 cms $376.00 (TRESCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.) cada una.
+a) Fotografía aérea, copias de contacto de 23 x 23 cms $476.00 (CUATROCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.) cada una.
 
-b) Coordenadas de puntos de control orientados con el Sistema Global de Posicionamiento $2,036.00 (DOS MIL TREINTA Y SEIS PESOS 00/100 M.N.) cada una.
+b) Coordenadas de puntos de control orientados con el Sistema Global de Posicionamiento $2,128.00 (DOS MIL CIENTO VEINTIOCHO PESOS 00/100 M.N.) cada una.
 
 V. Servicios de copiado
 
 1. Copias xerográficas de planos que obren en los archivos del departamento
 
-a) Hasta 30 x 30 cms $32.00 (TREINTA Y DOS PESOS 00/100 M.N.)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+a) Hasta 30 x 30 cms $33.00 (TREINTA Y TRES PESOS 00/100 M.N.)
 
 b) En tamaños mayores, por cada decímetro cuadrado adicional o fracción $8.00 (OCHO PESOS 00/100 M.N.)
 
-2. Copias fotostáticas de plano o manifiestos que obren en los archivos del departamento, hasta tamaño oficio $23.00 (VEINTITRÉS PESOS 00/100 M.N.) por cada uno
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+2. Copias fotostáticas de plano o manifiestos que obren en los archivos del departamento, hasta tamaño oficio $24.00 (VEINTICUATRO PESOS 00/100 M.N.) por cada uno
 
 3. Copia xerográfica del plano urbano general catastral
 
-a) Escala 1:10000 $705.00 (SETECIENTOS CINCO PESOS 00/100 M.N.)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-b) Escalas mayores a 1:10000 $417.00 (CUATROCIENTOS DIECISIETE PESOS 00/100 M.N.)
+a) Escala 1:10000 $785.00 (SETECIENTOS OCHENTA Y CINCO PESOS 00/100 M.N.)
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+b) Escalas mayores a 1:10000 $517.00 (QUINIENTOS DIECISIETE PESOS 00/100 M.N.)
 
 4. Copia de la cartografía catastral urbana
 
-a) De la lámina catastral escala 1:1000 a $1,331.00 (UN MIL TRESCIENTOS TREINTA Y UN PESOS 00/100 M.N.)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-b) De la manzana catastral escala 1:1000 a $391.00 (TRESCIENTOS NOVENTA Y UN PESOS 00/100 M.N.)
+a) De la lámina catastral escala 1:1000 a $1,391.00 (UN MIL TRESCIENTOS NOVENTA Y UN PESOS 00/100 M.N.)
 
-VI. Por servicios no incluidos en fracciones anteriores de $52.00 (CINCUENTA Y DOS PESOS 00/100 M.N.) a $730.00 (SETECIENTOS TREINTA PESOS 00/100 M.N.)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-VII. Formatos catastrales valorados
+b) De la manzana catastral escala 1:1000 a $491.00 (CUATROCIENTOS NOVENTA Y UN PESOS 00/100 M.N.)
 
-a) Forma de declaración para el pago del Impuesto Sobre Adquisición de Inmuebles, en original y cinco copias así como folio de control $265.00 (DOSCIENTOS SESENTA Y CINCO PESOS 00/100 M.N.), por cada juego.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-###### ARTICULO 85.
+VI. Por servicios no incluidos en fracciones anteriores de $54.00 (CINCUENTA Y CUATRO PESOS 00/100 M.N.) a $730.00 (SETECIENTOS TREINTA PESOS 00/100 M.N.)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VII. Por servicio de validación de la clave catastral y folio real, para su vinculación, $150.00 (CIENTO CINCUENTA PESOS 00/100 M.N.).
+
+> <small>(ADICIONADA [N. DE E. REFORMADA CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VIII. Formatos catastrales valorados.
+
+a) Forma de declaración para el pago del Impuesto Sobre Adquisición de Inmuebles, en original y cinco copias así como folio de control $277.00 (DOSCIENTOS SETENTA Y SIETE PESOS 00/100 M.N.), por cada juego.
+
+b) Exclusivamente para el uso en programas de regularización de tenencia de la tierra a través de CERTTURC, RAN, CEV, programas sociales implementados por los municipios, así como el pago de las reposiciones por errores administrativos que sean cometidos por el personal técnico adscrito a este Instituto, el costo de la forma de declaración para el pago del Impuesto Sobre Adquisición de Inmuebles, en original y cinco copias así como folio de control, será de $12.00 (DOCE PESOS 00/100 M.N.).
+
+#### SECCION SEGUNDA. POR SERVICIOS DEL REGISTRO CIVIL
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 85], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 67.
 
 Los servicios que se presten en relación con el Registro Civil, causarán derechos conforme a la siguiente:
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-I. Registro de nacimientos, $89.00 (OCHENTA Y NUEVE PESOS 00/100 M.N.);
+I. Registro de nacimientos, $108.00 (CIENTO OCHO PESOS 00/100 M.N.);
 
-II. Registro de reconocimientos, $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+II. Registro de reconocimientos, $196.00 (CIENTO NOVENTA Y SEIS PESOS 00/100 M.N.);
 
-III. Inscripción actas de tutela de ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes; o bien, de las resoluciones que rectifiquen o modifiquen una acta del Registro Civil, $468.00 (CUATRCIENTOS (SIC) SESENTA Y OCHO PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+III. Inscripción actas de tutela de ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes; o bien, de las resoluciones que rectifiquen o modifiquen una acta del Registro Civil, $560.00 (QUINIENTOS SESENTA PESOS 00/100 M.N.);
 
-IV. Registro de matrimonios, $610.00 (SEISCIENTOS DIEZ PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+IV. Registro de matrimonios, $730.00 (SETECIENTOS TREINTA PESOS 00/100 M.N.);
 
-V. Registro de divorcios, $610.00 (SEISCIENTOS DIEZ PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+V. Registro de divorcios, $730.00 (SETECIENTOS TREINTA PESOS 00/100 M.N.);
 
-VI. Registro de defunciones, $76.00 (SETENTA Y SEIS PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-VII. Inscripción de actos o hechos registrados en el extranjero, $400.00 (CUATROCIENTOS PESOS 00/100 M.N.);
+VI. Registro de defunciones, $91.00 (NOVENTA Y UN PESOS 00/100 M.N.);
 
-VIII. Registro de Pacto Civil de Solidaridad, $520.00 (QUINIENTOS VEINTE PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-IX. Registro de terminación de Pacto Civil de Solidaridad, $520.00 (QUINIENTOS VEINTE PESOS 00/100 M.N.);
+VII. Inscripción de actos o hechos registrados en el extranjero, $560.00 (QUINIENTOS SESENTA PESOS 00/100 M.N.);
 
-X. Anotaciones en los registros por mandato judicial o a petición de la parte interesada, $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+VIII. Registro de Pacto Civil de Solidaridad, $725.00 (SETECIENTOS VEINTICIENCO (SIC) PESOS 00/100 M.N.);
 
-XI. Expedición de copias certificadas, $99.00 (NOVENTA Y NUEVE PESOS 00/100 M.N.), por hoja;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-Para efectos de esta fracción, los oficiales de Registro Civil pagarán la cantidad de $89.00 (OCHENTA Y NUEVE PESOS 00/100 M.N.) por la expedición del formato correspondiente.
+IX. Registro de terminación de Pacto Civil de Solidaridad, $725.00 (SETECIENTOS VEINTICIENCO (SIC) PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XII. Impresión de copias certificadas de otros Estados, a través de procesos sistematizados o de interconexión de redes informáticas del Registro Civil $163.00 (CIENTO SESENTA Y TRES PESOS 00/100 M.N.)
+X. Anotaciones en los registros por mandato judicial o a petición de la parte interesada, $196.00 (CIENTO NOVENTA Y SEIS PESOS 00/100 M.N.);
 
-XIII. Rectificaciones relativas a actas del Registro Civil, $310.00 (TRESCIENTOS DIEZ PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XIV. Expedición de certificados de inexistencia y cualquier otra clase de constancia relativa al Registro Civil, $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.);
+XI. Expedición de copias certificadas, $118.00 (CIENTO DIECIOCHO PESOS 00/100 M.N.), por hoja;
 
-XV. Búsqueda de actas en el Registro Civil, $70.00 (SETENTA PESOS 00/100 M.N.); y
+Para efectos de esta fracción, los oficiales de (sic) Registro Civil pagarán la cantidad de $108.00 (CIENTO OCHO PESOS 00/100 M.N.) por la expedición del formato correspondiente.
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XVI. Por otros servicios no especificados, $179.00 (CIENTO SETENTA Y NUEVE PESOS 00/100 M.N.).
+XII. Impresión de copias certificadas de otros Estados, a través de procesos sistematizados o de interconexión de redes informáticas del Registro Civil $209.00 (DOSCIENTOS NUEVE PESOS 00/100 M.N.)
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-No causarán derechos, los servicios prestados por concepto de inscripción y registro de actas de adopción, inscripción y registro de actas de tutela, la inscripción y registro de adopción y/o tutela que se realice de forma automatizada, así como la expedición de copias certificadas del registro civil e inscripción solicitadas para el trámite del procedimiento de declaración especial de ausencia o de la resolución correspondiente.
+XIII. Rectificaciones relativas a actas del Registro Civil, $433.00 (CUATROCIENTOS TREINTA Y TRES PESOS 00/100 M.N.);
 
-###### ARTICULO 86.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XIV. Expedición de certificados de inexistencia y cualquier otra clase de constancia relativa al Registro Civil, $196.00 (CIENTO NOVENTA Y SEIS PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XV. Búsqueda de actas en el Registro Civil, $96.00 (NOVENTA Y SEIS PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XVI. Por otros servicios no especificados, $214.00 (DOSCIENTOS CATORCE PESOS 00/100 M.N.).
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XVII. Constancia de Concubinato, $230.00 (DOSCIENTOS TREINTA PESOS 00/100 M.N.).
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XVIII. Reconocimiento de Identidad de Género, $507.00 (QUINIENTOS SIETE PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+No causarán derechos, los servicios prestados por concepto de inscripción y registro de actas de adopción, inscripción y registro de actas de tutela; así como la inscripción y registro de adopción y/o tutela que se realice de forma automatizada.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 86], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 68.
 
 El pago de los derechos por los servicios prestados por la Dirección Estatal y las oficialías del Registro Civil a que se refiere esta Sección, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
-###### ARTICULO 87.
+#### SECCION TERCERA. POR OTROS SERVICIOS
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 87], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 69.
 
 Los otros servicios que presta la Secretaría de Gobierno, causarán derechos conforme a la siguiente:
 
 TARIFA
 
-I. Certificaciones, $40.00 (CUARENTA PESOS 00/100 M.N.), por hoja;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-II. Apostillar documentos, $250.00 (DOSCIENTOS CINCUENTA PESOS 00/100 M.N.);
+I. Certificaciones, $56.00 (CINCUENTA Y SEIS PESOS 00/100 M.N.), por hoja;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-III. Presentación de examen para obtener patente de aspirante a notario, $43,364.00 (CUARENTA Y TRES MIL TRESCIENTOS SESENTA Y CUATRO PESOS 00/100 M.N.);
+II. Apostillar documentos, $313.00 (TRESCIENTOS TRECE PESOS 00/100 M.N.);
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-III. A. Presentación de examen de Notario Adjunto $10,000.00 (DIEZ MIL PESOS 00/100 M.N.).
+III. Presentación de examen para obtener patente de aspirante a notario, $51,900.00 (CINCUENTA Y UN MIL NOVECIENTOS PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-IV. Expedición de patente de aspirante a notario, $57,820.00 (CINCUENTA Y SIETE MIL OCHOCIENTOS VEINTE PESOS 00/100 M.N.);
+III-A. Presentación de examen de Notario Adjunto $10,450.00 (DIEZ MIL CUATROCIENTOS CINCUENTA PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-V. Presentación de examen de selección para obtener la expedición de Fiat Notarial, $72,275.00 (SETENTA Y DOS MIL DOSCIENTOS SETENTA Y CINCO PESOS 00/100 M.N.);
+IV. Expedición de patente de aspirante a notario, $69,200.00 (SESENTA Y NUEVE MIL DOSCIENTOS PESOS 00/100 M.N.);
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-V. A. Designación de Notario Adjunto $25,000.00 (VEINTICINCO MIL PESOS 00/100 M.N.).
+V. Presentación de examen de selección para obtener la expedición de Fiat Notarial, $86,502.00 (OCHENTA Y SEIS MIL QUINIENTOS DOS PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-VI. Expedición de Fiat Notarial, $361,341.00 (TRESCIENTOS SESENTA Y UN MIL TRESCIENTOS CUARENTA Y UN PESOS 00/100 M.N.);
+V-A. Designación de Notario Adjunto $26,125.00 (VEINTISEIS MIL CIENTO VEINTICINCO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-VII. Expedición de constancias que avalen la función notarial, $14,453.00 (CATORCE MIL CUATROCIENTOS CINCUENTA Y TRES PESOS 00/100 M.N.);
+VI. Expedición de Fiat Notarial, $433,511.00 (CUATROCIENTOS TREINTA Y TRES MIL QUINIENTOS ONCE PESOS 00/100 M.N.);
 
-VIII. Expedición de certificados de necesidad, para adquisición de terrenos que hagan las sociedades mercantiles, según lo establecido en el artículo 27, fracción IV de la Constitución Política de los Estados Unidos Mexicanos, $4,960.00 (CUATRO MIL NOVECIENTOS SESENTA PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-IX. Por la revisión de documentos requeridos para la celebración de eventos tradicionales $1,240.00 (MIL DOSCIENTOS CUARENTA PESOS 00/100 M.N.);
+VII. Expedición de constancia de Función Notarial, $700.00 (SETECIENTOS PESOS 00/100 M.N.);
 
-X. Legalización de firmas en cualquier documento, $190.00 (CIENTO NOVENTA PESOS 00/100 M.N.), por firma;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XI. Expedición de copias certificadas de constancias existentes en las Oficinas Públicas: primera hoja $40.00 (CUARENTA PESOS 00/100 M.N.); cada hoja subsecuente $5.00 (CINCO PESOS 00/100 M.N.);
+VIII. Expedición de certificados de necesidad, para adquisición de terrenos que hagan las sociedades mercantiles, según lo establecido en el artículo 27, fracción IV de la Constitución Política de los Estados Unidos Mexicanos, $6,937.00 (SEIS MIL NOVECIENTOS TREINTA Y SIETE PESOS 00/100 M.N.);
 
-XII. Certificaciones de hechos ocurridos en presencia de la autoridad: primera hoja $40.00 (CUARENTA PESOS 00/100 M.N.); cada hoja subsecuente $5.00 (CINCO PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XIII. Legalización de firmas de notarios, de funcionarios estatales y municipales y de documentos del registro civil, $190.00 (CIENTO NOVENTA PESOS 00/100 M.N.) por firma;
+IX. Por la revisión de documentos requeridos para la celebración de eventos tradicionales $1,732.00 (UN MIL SETECIENTOS TREINTA Y DOS PESOS 00/100 M.N.);
 
-XIV. Exhorto y legalización de firmas de éste a otro Estado, $480.00 (CUATROCIENTOS OCHENTA PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XV. Exhorto de otro Estado a éste, $480.00 (CUATROCIENTOS OCHENTA PESOS 00/100 M.N.);
+X. Legalización de firmas en cualquier documento, $266.00 (DOSCIENTOS SESENTA Y SEIS PESOS 00/100 M.N.), por firma;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XVI. Búsqueda de antecedentes notariales por año o por notario y de testamento, $287.00 (DOSCIENTOS OCHENTA Y SIETE PESOS 00/100 M.N.);
+XI. Expedición de copias certificadas de constancias existentes en las Oficinas Públicas: primera hoja $55.00 (CINCUENTA Y CINCO PESOS 00/100 M.N.); cada hoja subsecuente $5.00 (CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XVII. Expedición de testimonios de instrumentos notariales hasta por 10 hojas, $2,167.00 (DOS MIL CIENTO SESENTA Y SIETE PESOS 00/100 M.N.); por hoja adicional de los testimonios $180.00 (CIENTO OCHENTA PESOS 00/100 M.N.);
+XII. Certificaciones de hechos ocurridos en presencia de la autoridad: primera hoja $55.00 (CINCUENTA Y CINCO PESOS 00/100 M.N.); cada hoja subsecuente $5.00 (CINCO PESOS 00/100 M.N.);
 
-XVIII. Expedición de segundos testimonios que obren en la Dirección de Notarías, $320.00 (TRESCIENTOS VEINTE PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+XIII. Legalización de firmas de notarios, de funcionarios estatales y municipales y de documentos del registro civil, $266.00 (DOSCIENTOS SESENTA Y SEIS PESOS 00/100 M.N.) por firma;
 
-XIX. Certificación de existencia o inexistencia de testamento por testador, $722.00 (SETECIENTOS VEINTIDÓS PESOS 00/100 M.N.).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+XIV. Exhorto y legalización de firmas de éste a otro Estado, $671.00 (SEISCIENTOS SETENTA Y UN PESOS 00/100 M.N.);
 
-XX. Expedición de copias certificadas de instrumentos notariales, $187.00 (CIENTO OCHENTA Y SIETE PESOS 00/100 M.N.) por hoja;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+XV. Exhorto de otro Estado a éste, $671.00 (SEISCIENTOS SETENTA Y UN PESOS 00/100 M.N.);
 
-XXI. Expedición de copias simples de instrumentos notariales, $100.00 (CIEN PESOS 00/100 M.N.) por hoja;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+XVI. Búsqueda de antecedentes notariales por año o por notario y de testamento, $344.00 (TRESCIENTOS CUARENTA Y CUATRO PESOS 00/100 M.N.);
 
-XXII. Expedición de copias certificadas de expedientes administrativos o personales de notarios, $216.00 (DOSCIENTOS DIECISÉIS PESOS 00/100 M.N.) por hoja;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+XVII. Expedición de testimonios de instrumentos notariales hasta por 10 hojas, $2,594.00 (DOS MIL QUINIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.); por hoja adicional de los testimonios $215.00 (DOSCIENTOS QUINCE PESOS 00/100 M.N.);
 
-XXIII. Peritajes desahogados en la Dirección de Notarias $2,890.00 (DOS MIL OCHOCIENTOS NOVENTA PESOS 00/100 M.N.).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+XVIII. Expedición de segundos testimonios que obren en la Dirección de Notarías, $447.00 (CUATROCIENTOS CUARENTA Y SIETE PESOS 00/100 M.N.);
 
-XXIV. Autorización para cambio de distrito notarial, $289,072.00 (DOSCIENTOS OCHENTA Y NUEVE MIL SETENTA Y DOS PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XIX. Certificación de existencia o inexistencia de testamento por testador, $350.00 (TRECIENTOS (SIC) CINCUENTA PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XX. Expedición de copias certificadas de instrumentos notariales, $225.00 (DOSCIENTOS VEINTICINCO PESOS 00/100 M.N.) por hoja;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXI. Expedición de copias simples de instrumentos notariales, $119.00 (CIENTO DIECINUEVE PESOS 00/100 M.N.) por hoja;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXII. Expedición de copias certificadas de expedientes administrativos o personales de notarios, $258.00 (DOSCIENTOS CINCUENTA Y OCHO PESOS 00/100 M.N.) por hoja;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXIII. Peritajes desahogados en la Dirección de Notarias $3,460.00 (TRES MIL CUATROCIENTOS SESENTA PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXIV. Autorización para cambio de distrito notarial y/o autorización de cambio de Municipio, dentro del mismo distrito notarial, $345,972.00 (TRESCIENTOS CUARENTA Y CINCO MIL NOVECIENTOS SETENTA Y DOS PESOS 00/100 M.N.);
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
 XXIV-A. Expedición de credenciales:
 
-a) Para Notario $690.00 (SEISCIENTOS NOVENTA PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-b) Para gestor de Notario $414.00 (CUATROCIENTOS CATORCE PESOS 00/100 M.N.).
+a) Para Notario $1,500.00 (UN MIL QUINIENTOS PESOS 00/100 M.N.), por dos años.
 
-c) Reposición de credencial para Notario o Gestor $276.00 (DOSCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+b) Para gestor de Notario $495.00 (CUATROCIENTOS NOVENTA Y CINCO PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+c) Reposición de credencial para Notario o Gestor $330.00 (TRESCIENTOS TREINTA PESOS 00/100 M.N.).
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
 XXIV-B. Expedición a Notarios de folios para la integración de Protocolos y Testimonios $5.00 (CINCO PESOS 00/100 M.N.) por folio.
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XXIV-C. Licencias para suspender el ejercicio de la función notarial, $100,000.00 (CIEN MIL PESOS 00/100 M.N.). Aquellos notarios públicos que requieran suspender el ejercicio de la función notarial para ocupar un cargo de elección popular o un puesto como servidor público en el Estado de Coahuila de Zaragoza y en caso de enfermedad o incapacidad debidamente acreditada, la licencia a que se refiere esta fracción no tendrá costo.
+XXIV-C. Licencias para suspender el ejercicio de la función notarial, $20,000.00 (VEINTE MIL PESOS 00/100 M.N.). Aquellos notarios públicos que requieran suspender el ejercicio de la función notarial para ocupar un cargo de elección popular o un puesto como servidor público en el Estado de Coahuila de Zaragoza y en caso de enfermedad o incapacidad debidamente acreditada, la licencia a que se refiere esta fracción no tendrá costo.
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XXIV-D. Expedición de constancia de actualización de conocimientos para ejercer la función notarial $20,000.00 (VEINTE MIL PESOS 00/100 M.N.).
+XXIV-D. Expedición de constancia de actualización de conocimientos para ejercer la función notarial $23,937.00 (VEINTITRÉS MIL NOVECIENTOS TREINTA Y SIETE PESOS 00/100 M.N.).
 
-XXV. Autorización de exhumación de cadáveres para ser reinhumados en el mismo panteón $250.00 (DOSCIENTOS CINCUENTA PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XXVI. Autorización para la exhumación de cadáveres para ser reinhumados en otro panteón dentro del mismo municipio $330.00 (TRESCIENTOS TREINTA PESOS 00/100 M.N.);
+XXV. Autorización de exhumación de cadáveres para ser reinhumados en el mismo panteón $351.00 (TRESCIENTOS CINCUENTA Y UN PESOS 00/100 M.N.);
 
-XXVII. Autorización para la exhumación de cadáveres para ser reinhumados en otros municipios del Estado $420.00 (CUATROCIENTOS VEINTE PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XXVIII. Autorización para la exhumación de cadáveres para ser reinhumados fuera del Estado $630.00 (SEISCIENTOS TREINTA PESOS 00/100 M.N.);
+XXVI. Autorización para la exhumación de cadáveres para ser reinhumados en otro panteón dentro del mismo municipio $461.00 (CUATROCIENTOS SESENTA Y UN PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXVII. Autorización para la exhumación de cadáveres para ser reinhumados en otros municipios del Estado $587.00 (QUINIENTOS OCHENTA Y SIETE PESOS 00/100 M.N.);
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXVIII. Autorización para la exhumación de cadáveres para ser reinhumados fuera del Estado $879.00 (OCHOCIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.);
 
 Las autorizaciones a que se refieren las fracciones XXV, XXVI, XXVII y XXVIII se expedirán previo cumplimiento de los requisitos exigidos por la Ley Estatal de Salud;
 
-XXIX. Por el trámite de pasaporte ordinario mexicano que se realice en las oficinas de enlace con la Secretaría de Relaciones Exteriores, $1,000.00 (MIL PESOS 00/100 M.N.)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XXX. Por el trámite del permiso a que se refiere el artículo 27 Constitucional que se realice en las oficinas de enlace con la Secretaría de Relaciones Exteriores, $290.00 (DOSCIENTOS NOVENTA PESOS 00/100 M.N.), y
+XXIX. Por el trámite de pasaporte ordinario mexicano que se realice en las oficinas de enlace con la Secretaría de Relaciones Exteriores, $1,358.00 (UN MIL TRESCIENTOS CINCUENTA Y OCHO PESOS 00/100 M.N.)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXX. Por el trámite del permiso a que se refiere el artículo 27 Constitucional que se realice en las oficinas de enlace con la Secretaría de Relaciones Exteriores, $405.00 (CUATROCIENTOS CINCO PESOS 00/100 M.N.), y
 
 XXXI. Por los Derechos que presta la Dirección de Protección Civil:
 
@@ -1231,25 +1387,41 @@ XXXI. Por los Derechos que presta la Dirección de Protección Civil:
 
 2. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-3. Ingreso y revisión de programas de prevención de accidentes, población afectable de 1-10 personas; $300.00 (TRESCIENTOS PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-4. Ingreso y revisión de Programas de Prevención de Accidentes, población afectable 11-50 personas, $1,170.00 (MIL CIENTO SETENTA PESOS 00/100 M.N.);
+3. Ingreso y revisión de programas de prevención de accidentes, población afectable de 1-10 personas; $421.00 (CUATROCIENTOS VEINTIUN PESOS 00/100 M.N.);
 
-5. Ingreso y revisión de programas de prevención de accidentes, población afectable 51-100 personas; $2,920.00 (DOS MIL NOVECIENTOS VEINTE PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-6. Ingreso y revisión de programas de prevención de accidentes, población afectable 101-500 personas; $5,840.00 (CINCO MIL OCHOCIENTOS CUARENTA PESOS 00/100 M.N.);
+4. Ingreso y revisión de Programas de Prevención de Accidentes, población afectable 11-50 personas, $1,638.00 (UN MIL SEISCIENTOS TREINTA Y OCHO PESOS 00/100 M.N.);
 
-7. Ingreso y revisión de programas de prevención de accidentes, población afectable 501 personas en adelante, $14,600.00 (CATORCE MIL SEISCIENTOS PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-8. Inspección solicitada en materia de protección civil, $5,000.00 (CINCO MIL PESOS 00/100 M.N.);
+5. Ingreso y revisión de programas de prevención de accidentes, población afectable 51-100 personas; $4,081.00 (CUATRO MIL OCHENTA Y UN PESOS 00/100 M.N.);
 
-9. Constancia de factibilidad en materia de protección civil de inicio y de construcción $5,000.00 (CINCO MIL PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+6. Ingreso y revisión de programas de prevención de accidentes, población afectable 101-500 personas; $8,169.00 (OCHO MIL CIENTO SESENTA Y NUEVE PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+7. Ingreso y revisión de programas de prevención de accidentes, población afectable 501 personas en adelante, $20,419.00 (VEINTE MIL CUATROCIENTOS VEINTINUEVE PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+8. Inspección solicitada en materia de protección civil, $6,992.00 (SEIS MIL NOVECIENTOS NOVENTA Y DOS PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+9. Constancia de factibilidad en materia de protección civil de inicio y de construcción $7,306.00 (SIETE MIL TRESCIENTOS SEIS PESOS 00/100 M.N.);
 
 10. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 11. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-12. Registro como empresas, consultorías y personas físicas que se dediquen a prestar servicios en materia de protección civil $10,000.00 (DIEZ MIL PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+12. Registro como empresas, consultorías y personas físicas que se dediquen a prestar servicios en materia de protección civil $13,985.00 (TRECE MIL NOVECIENTOS OCHENTA Y CINCO PESOS 00/100 M.N.);
 
 13. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -1263,49 +1435,41 @@ XXXI. Por los Derechos que presta la Dirección de Protección Civil:
 
 18. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-19. Autorizaciones en materia de explosivos, $10,000.00 (DIEZ MIL PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+19. Autorizaciones en materia de explosivos, $13,985.00 (TRECE MIL NOVECIENTOS OCHENTA Y CINCO PESOS 00/100 M.N.);
 
 XXXII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+XXXIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2019)
 
-XXXIII. Por los Derechos que presta la Comisión Estatal de Seguridad:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-1. Certificados de no antecedentes penales $100.00 (CIEN PESOS 00/100 M.N.).
+XXXIV. Por otros servicios no especificados, $341.00 (TRESCIENTOS CUARENTA Y UN PESOS 00/100 M.N.)
 
-2. Por el uso y mantenimiento de un dispositivo de monitoreo electrónico de localización a distancia, para personas que hayan sido sentenciadas dentro de un proceso penal y que se hagan acreedores a dicha medida de seguridad $5,000.00 (CINCO MIL PESOS 00/100 M.N.), mensuales.
-
-3. Por la aplicación de exámenes de control de confianza $6,000.00 (SEIS MIL PESOS 00/100 M.N.).
-
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
-
-XXXIV. Por otros servicios no especificados, $284.00 (DOSCIENTOS OCHENTA Y CUATRO PESOS 00/100 M.N.)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 88], P.O. 31 DE DICIEMBRE DE 2019)
 
 SUJETO
 
-###### ARTICULO 88.
+###### ARTICULO 70.
 
 Son sujetos de este derecho, las personas que soliciten los servicios que se establecen en el artículo que antecede.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 89], P.O. 31 DE DICIEMBRE DE 2019)
+
 PAGO
 
-#### SECCION PRIMERA. POR SERVICIOS DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE COAHUILA DE ZARAGOZA
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-PRIMERA PARTE
-
-DEL REGISTRO DE LA PROPIEDAD
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-###### ARTICULO 89.
+###### ARTICULO 71.
 
 El pago de los derechos a que se refiere esta Sección, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
-###### ARTICULO 90.
+#### SECCION CUARTA. POR SERVICIOS QUE PRESTA LA SECRETARIA DE GOBIERNO A TRAVES DEL ORGANISMO DESCONCENTRADO DENOMINADO "PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO"
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 90], P.O. 31 DE DICIEMBRE DE 2019)
+
+OBJETO
+
+###### ARTICULO 72.
 
 Los servicios prestados por el organismo desconcentrado de la Secretaría de Gobierno, denominado "Periódico Oficial del Gobierno del Estado", causarán derechos conforme a la siguiente:
 
@@ -1315,65 +1479,101 @@ I. Avisos judiciales y administrativos:
 
 1. Por cada palabra en primera o única inserción, $2.00 (DOS PESOS 00/100 M.N.);
 
-2. Por cada palabra en inserciones subsecuentes, $1.20 (UN PESO CON VEINTE CENTAVOS M.N.).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-II. Por publicación de aviso de registro de fierro de herrar, arete o collar o cancelación de los mismos, señal de sangre o venta, $500.00 (QUINIENTOS PESOS 00/100 M.N.);
+2. Por cada palabra en inserciones subsecuentes, $1.50 (UN PESO CON CINCUENTA CENTAVOS M.N.).
 
-III. Publicación de balances o estados financieros, $680.00 (SEISCIENTOS OCHENTA PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+II. Por publicación de aviso de registro de fierro de herrar, arete o collar o cancelación de los mismos, señal de sangre o venta, $699.00 (SEISCIENTOS NOVENTA Y NUEVE PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+III. Publicación de balances o estados financieros, $950.00 (NOVECIENTOS CINCUENTA PESOS 00/100 M.N.);
 
 IV. Suscripciones:
 
-1. Por un año, $1,860.00 (MIL OCHOCIENTOS SESENTA PESOS 00/100 M.N.)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-2. Por seis meses, $930.00 (NOVECIENTOS TREINTA PESOS 00/100 M.N.)
+1. Por un año, $2,601.00 (DOS MIL SEISCIENTOS Y UN PESOS 00/100 M.N.)
 
-3. Por tres meses, $490.00 (CUATROCIENTOS NOVENTA PESOS 00/100 M.N.)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-V. Número del día, $20.00 (VEINTE PESOS 00/100 M.N.);
+2. Por seis meses, $1,301.00 (UN MIL TRESCIENTOS Y UN PESOS 00/100 M.N.)
 
-VI. Números atrasados hasta 6 años, $70.00 (SETENTA PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-VII. Números atrasados de más de 6 años, $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.); y
+3. Por tres meses, $687.00 (SEISCIENTOS OCHENTA Y SIETE PESOS 00/100 M.N.)
 
-VIII. Códigos, leyes, reglamentos, suplementos o ediciones de más de 24 páginas, $250.00 (DOSCIENTOS CINCUENTA PESOS 00/100 M.N.).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-IX. Por costo de tipografía relativa a los fierros de registro, arete o collar por cada figura, $500.00 (QUINIENTOS PESOS 00/100 M.N.);
+V. Número del día, $28.00 (VEINTIOCHO PESOS 00/100 M.N.);
 
-PAGO
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VI. Números atrasados hasta 6 años, $98.00 (NOVENTA Y OCHO PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VII. Números atrasados de más de 6 años, $196.00 (CIENTO NOVENTA Y SEIS PESOS 00/100 M.N.); y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VIII. Códigos, leyes, reglamentos, suplementos o ediciones de más de 24 páginas, $350.00 (TRESCIENTOS CINCUENTA PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+IX. Por costo de tipografía relativa a los fierros de registro, arete o collar por cada figura, $699.00 (SEISCIENTOS NOVENTA Y NUEVE PESOS 00/100 M.N.);
 
 El pago de las cuotas establecidas en la fracción IV, darán derecho a que el contribuyente reciba por la suscripción, todos los ejemplares incluyendo Códigos, Leyes y Reglamentos.
 
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+(REUBICADO [N. DE E. ANTES ARTÍCULO 91], P.O. 31 DE DICIEMBRE DE 2019)
 
-No causarán derechos las publicaciones del Periódico Oficial del Gobierno del Estado, ordenadas dentro del procedimiento de declaración especial de ausencia, de conformidad con la ley de la materia.
+PAGO
 
-###### ARTICULO 91.
+###### ARTICULO 73.
 
 El pago de los derechos por los servicios a que se refiere esta Sección, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
-###### ARTICULO 92.
+### CAPITULO TERCERO. POR SERVICIOS CAUSADOS POR EL USO Y/O APROVECHAMIENTO DE AUTOPISTAS ESTATALES
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 124], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+#### SECCION PRIMERA. POR LICENCIAS PARA ESTABLECIMIENTOS QUE EXPENDAN BEBIDAS ALCOHOLICAS
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 92], P.O. 31 DE DICIEMBRE DE 2019)
+
+OBJETO
+
+###### ARTICULO 74.
 
 Es objeto de este Derecho, los servicios que presta la Secretaría de Finanzas, en coordinación con la Secretaría de Salud del Estado y la Secretaría de Gobierno, en el ámbito de sus respectivas competencias y en aplicación de los ordenamientos de la materia, por la expedición de licencias para el funcionamiento de establecimientos cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas siempre que se efectúe total o parcialmente con el público en general y la revalidación anual de las mismas.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 93], P.O. 31 DE DICIEMBRE DE 2019)
+
 SUJETO
 
-###### ARTICULO 93.
+###### ARTICULO 75.
 
 Son sujetos de este derecho las personas físicas y morales que se dediquen a enajenar bebidas alcohólicas o a la prestación de servicios que incluyan el expendio de dichas bebidas, total o parcialmente con el público en general.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 94], P.O. 31 DE DICIEMBRE DE 2019)
+
 OBLIGACIONES
 
-###### ARTICULO 94.
+###### ARTICULO 76.
 
 Los sujetos de este derecho están obligados a solicitar a la Secretaría de Finanzas, previamente a la iniciación de sus actividades, la expedición de la licencia para el funcionamiento del establecimiento y el refrendo anual correspondiente.
 
 Cuando el titular de la licencia no sea quien enajene o preste los servicios, objeto de este derecho, deberá registrar ante la Secretaría de Finanzas el nombre de la persona que en su lugar explota los derechos que le otorga la licencia mencionada.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-La Secretaria de Finanzas emitirá la autorización para que la persona distinta al titular preste los servicios que autoriza la licencia de referencia.
+La secretaría de Finanzas emitirá la autorización para que la persona distinta al titular preste los servicios que autoriza la licencia de referencia.
 
-###### ARTICULO 95.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 95], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 77.
 
 Los sujetos de este derecho que cuenten con licencia para su funcionamiento, deberán obtener dentro del mes de enero de cada año la revalidación anual de la licencia para el funcionamiento de estos establecimientos.
 
@@ -1381,37 +1581,77 @@ La licencia y el refrendo anual, deberán exhibirse por los contribuyentes en un
 
 La omisión de esta obligación se considerará como infracción en términos de lo dispuesto por el Código Fiscal para el Estado de Coahuila de Zaragoza.
 
-#### SECCION SEGUNDA. POR SERVICIOS DEL REGISTRO CIVIL
+(REUBICADO [N. DE E. ANTES ARTÍCULO 96], P.O. 31 DE DICIEMBRE DE 2019)
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
-
-###### ARTICULO 96.
+###### ARTICULO 78.
 
 Los titulares de una licencia de funcionamiento para los establecimientos señalados, deberán solicitar previamente la autorización de la Secretaría de Finanzas para realizar cualquier cambio de domicilio del establecimiento autorizado o de titular de la licencia.
 
 Las autoridades fiscales, podrán autorizar el cambio de domicilio o de titular que se solicite, siempre y cuando no se dé alguna de las causales establecidas en esta Sección para negar o cancelar la expedición de una licencia de funcionamiento.
 
-###### ARTICULO 97.
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019) (REUBICADO [N. DE E. ANTES ARTÍCULO 97], P.O. 31 DE DICIEMBRE DE 2019)
 
-A la solicitud mencionada en el artículo 94, se acompañará:
+###### ARTICULO 79.
+
+A la solicitud mencionada en el artículo 76, se acompañará:
 
 I. Croquis en el que se indique en forma clara y precisa la ubicación del local en que se pretenda establecer.
 
 II. Copia de la cédula del Registro Federal de Contribuyentes.
 
-III. Copia certificada del testimonio de la escritura pública constitutiva si se trata de una sociedad mercantil o acta de nacimiento tratándose de personas físicas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+III. Copia certificada del testimonio de la escritura pública constitutiva si se trata de una sociedad mercantil o acta de Nacimiento tratándose de personas físicas.
 
 IV. Licencia municipal vigente, expedida a favor del solicitante. Tratándose de solicitantes distintos al titular, se podrá expedir licencia con vigencia anual y el solicitante deberá acompañar escrito de conformidad del titular de la licencia municipal, para el uso o goce de los derechos que le otorga dicha licencia.
 
-###### ARTICULO 98.
+###### ARTICULO 79-A.
 
-Recibida la solicitud y documentación a que se refieren los artículos 94 y 97 de esta ley, la Secretaría de Finanzas del Gobierno del Estado, ordenará a las oficinas recaudadoras de rentas, la práctica de una inspección al local para determinar si reúne los requisitos que exige este Capítulo.
+[N. DE E. ESTE ARTÍCULO PASÓ A SER EL ARTÍCULO 55, P.O. 31 DE DICIEMBRE DE 2019]
 
-###### ARTICULO 99.
+###### ARTICULO 79-B.
+
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017) (REPUBLICADA SU DEROGACIÓN, P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 79-C.
+
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017) (REPUBLICADA SU DEROGACIÓN, P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 79-D.
+
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017) (REPUBLICADA SU DEROGACIÓN, P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 79-E.
+
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017) (REPUBLICADA SU DEROGACIÓN, P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 79-F.
+
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017) (REPUBLICADA SU DEROGACIÓN, P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 79-G.
+
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017) (REPUBLICADA SU DEROGACIÓN, P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 79-H.
+
+[N. DE E. ESTE ARTÍCULO PASÓ A SER EL ARTÍCULO 56, P.O. 31 DE DICIEMBRE DE 2019]
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 98], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 80.
+
+Recibida la solicitud y documentación a que se refieren los artículos 94 y 97 (sic) de esta ley, la Secretaría de Finanzas del Gobierno del Estado, ordenará a las oficinas recaudadoras de rentas, la práctica de una inspección al local para determinar si reúne los requisitos que exige este Capítulo.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 99], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 81.
 
 Las solicitudes de empadronamiento, las manifestaciones y los avisos se formularán haciendo uso de las formas aprobadas por la Secretaría de Finanzas del Gobierno del Estado, debiéndose asentar en ellas los datos que se señalan, anexando los documentos que se requieran.
 
-###### ARTICULO 100.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 100], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 82.
 
 Son causas de cancelación de la licencia para el funcionamiento de establecimientos que expendan bebidas alcohólicas y clausura de los mismos, las siguientes:
 
@@ -1421,21 +1661,49 @@ II. Que el establecimiento funcione en lugar distinto al autorizado en la licenc
 
 III. Cuando habiendo presentado suspensión de actividades, esta dura más de tres años.
 
-IV. Cuando se dé alguna de las otras causales de cancelación de la licencia establecidas en el artículo 102 de esta Ley.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+IV. Cuando se dé alguna de las otras causales de cancelación de la licencia establecidas en el artículo 84 de esta Ley.
 
 Las anteriores causales se harán efectivas independientemente de la sanción que corresponda de seguir realizando la actividad sin licencia para el funcionamiento y revalidación anual.
 
-###### ARTICULO 101.
+###### ARTICULO 82-A.
+
+[N. DE E. EL ESTE ARTÍCULO PASÓ A SER EL ARTÍCULO 61, P.O. 31 DE DICIEMBRE DE 2019]
+
+###### ARTICULO 82-B.
+
+[N. DE E. EL ESTE ARTÍCULO PASÓ A SER EL ARTÍCULO 62, P.O. 31 DE DICIEMBRE DE 2019]
+
+###### ARTICULO 82-C.
+
+[N. DE E. EL PRESENTE ARTÍCULO PASÓ A SER EL ARTÍCULO 63, P.O. 31 DE DICIEMBRE DE 2019]
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 101], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 83.
 
 La Secretaría de Finanzas, en coordinación con la Secretaría de Salud del Estado y la Secretaría de Gobierno del Estado, tendrán a su cargo, en el ámbito de sus respectivas competencias, la inspección y vigilancia de los establecimientos que expendan bebidas alcohólicas, para verificar periódicamente que éstos reúnan las condiciones de salubridad e higiene que establecen las leyes, cumplan con la ubicación y con los horarios autorizados para la enajenación y expendio de bebidas alcohólicas, contenidos en las disposiciones legales aplicables y que su funcionamiento no ofenda la moral y las buenas costumbres.
 
-###### ARTICULO 102.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 102], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 84.
 
 Las autoridades fiscales darán a conocer mediante resolución, la cancelación de las licencias de los establecimientos que expendan bebidas alcohólicas, la cual deberá estar debidamente fundada y motivada. La motivación de la cancelación de las licencias se hará de acuerdo a los procedimientos realizados por las autoridades de salud y seguridad pública en cumplimiento con las visitas correspondientes que conforme a las normas aplicables en la materia deban efectuarse.
 
-Esta resolución podrá ser impugnada conforme a las disposiciones aplicables para el recurso administrativo de revocación establecido en el Código Fiscal para el Estado de Coahuila de Zaragoza, dentro de los quince días siguientes al en que surta efectos la notificación a la que se refiere el párrafo anterior. En el mismo plazo, el contribuyente deberá suspender la enajenación o expendio de bebidas alcohólicas que realizaba al amparo de la licencia cancelada, hasta en tanto no se resuelva en definitiva sobre la inconformidad.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-###### ARTICULO 103.
+Esta resolución podrá ser impugnada conforme a las disposiciones aplicables para el recurso administrativo de revocación establecido en el Código Fiscal para el Estado de Coahuila de Zaragoza, dentro de los quince días siguientes al en que surta efectos la notificación a la que se refiere el párrafo anterior. En el mismo plazo, el contribuyente deberá suspender la enajenación o expendio de bebidas alcohólicas que realizaba al amparo de la licencia cancelada, hasta en tanto no se resuelva en definitiva sobre
+
+(sic) La inconformidad.
+
+###### ARTICULO 84-A.
+
+[N. DE E. EL ESTE ARTÍCULO PASÓ A SER EL ARTÍCULO 66, P.O. 31 DE DICIEMBRE DE 2019]
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 103], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 85.
 
 La Secretaría de Finanzas, podrá autorizar o negar el funcionamiento de establecimientos para enajenar bebidas alcohólicas tomando en cuenta su ubicación, el número de establecimientos existentes en cada municipio, la conveniencia de combatir el alcoholismo y las disposiciones de salubridad aplicables.
 
@@ -1443,65 +1711,59 @@ Las autoridades fiscales negarán la expedición o cancelarán la licencia para 
 
 La Secretaría de Finanzas, cuando lo considere conveniente, podrá autorizar la reubicación de los establecimientos cuya licencia de funcionamiento hubiere sido cancelada en términos del párrafo anterior.
 
-#### SECCION TERCERA. POR OTROS SERVICIOS
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 104], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
+###### ARTICULO 86.
 
-###### ARTICULO 104.
+Las autoridades fiscales clausurarán los establecimientos que expendan bebidas alcohólicas cuando no cuenten con licencia de funcionamiento y el refrendo anual, así como aquellos que no suspendan la enajenación o expendio de bebidas alcohólicas dentro del plazo establecido en el artículo 84 de esta Ley, cuando sea cancelada la licencia de funcionamiento con que operaba.
 
-Las autoridades fiscales clausurarán los establecimientos que expendan bebidas alcohólicas cuando no cuenten con licencia de funcionamiento y el refrendo anual, así como aquellos que no suspendan la enajenación o expendio de bebidas alcohólicas dentro del plazo establecido en el artículo 102 de esta Ley, cuando sea cancelada la licencia de funcionamiento con que operaba.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 105], P.O. 31 DE DICIEMBRE DE 2019)
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
-
-###### ARTICULO 105.
+###### ARTICULO 87.
 
 La expedición de licencia para el funcionamiento de establecimientos que enajenen bebidas alcohólicas o que presten servicios en los que se expendan dichas bebidas, causarán derechos conforme a la siguiente:
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-I. Distribuidor de cerveza o vinos, ladies bar, cabaret, discotec bar, centro de entretenimiento con apuestas, video bar, salón de baile, casa de huéspedes, hoteles de paso y moteles de paso $250,000.00 (DOSCIENTOS CINCUENTA MIL PESOS 00/100 M.N.);
+I. Distribuidor de cerveza o vinos, ladies bar, cabaret, discoteca bar, centro de entretenimiento con apuestas, video bar, salón de baile, casa de huéspedes, hoteles de paso y moteles de paso $299,210.00 (DOSCIENTOS NOVENTA Y NUEVE MIL DOSCIENTOS DIEZ PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-II. Tienda de autoservicio $100,000.00 (CIEN MIL PESOS 00/100 M.N.);
+II. Tienda de autoservicio $119,111.00 (CIENTO DIECINUEVE MIL CIENTO ONCE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-III. Restaurante bar, restaurantes y estadios $80,000.00 (OCHENTA MIL PESOS 00/100 M.N.);
+III. Restaurante bar, restaurantes y estadios $95,747.00 (NOVENTA Y CINCO MIL SETECIENTOS CUARENTA Y SISTE (SIC) PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-IV. Supermercados, agencias y cantina o bar $53,000.00 (CINCUENTA Y TRES MIL PESOS 00/100 M.N.);
+IV. Supermercados, agencias y cantina o bar $65,598.00 (SESENTA Y CINCO MIL QUINIENTOS NOVENTA Y OCHO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-V. Expendio de vinos y licores, tiendas de abarrotes, minisúper, casinos, clubes sociales y deportivos, círculos sociales y semejantes, billares y boliches, hoteles, salón de fiesta y subagencia $41,000.00 (CUARENTA Y UN MIL PESOS 00/100 M.N.);
+V. Expendio de vinos y licores, tiendas de abarrotes, minisúper, casinos, clubes sociales y deportivos, círculos sociales y semejantes, billares y boliches, hoteles, salón de fiesta y subagencia $49,070.00 (CUARENTA Y NUEVE MIL SETENTA PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019))
 
-VI. Cervecerías, depósitos de cerveza y otros establecimientos en los que únicamente se enajene cerveza, $28,000.00 (VEINTIOCHO MIL PESOS 00/100 M.N.);
+VI. Cervecerías, depósitos de cerveza y otros establecimientos en los que únicamente se enajene cerveza, $33,511.00 (TREINTA Y TRES MIL QUINIENTOS ONCE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-VII. Fonda, taquerías y otros de naturaleza análoga $23,000.00 (VEINTITRÉS MIL PESOS 00/100 M.N.);
+VII. Fonda, taquerías y otros de naturaleza análoga $27,526.00 (VEINTISIETE MIL QUINIENTOS VEINTISEIS PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-VIII. Misceláneas $20,000.00 (VEINTE MIL PESOS 00/100 M.N.);
+VIII. Misceláneas $23,240 (VEINTITRÉS MIL DOSCIENTOS CUARENTA PESOS 00/100 M.N.);
 
 La licencia para el giro de miscelánea se expedirá exclusivamente a las personas físicas que tributen bajo el Régimen de Pequeños Contribuyentes, tendrá vigencia anual y no causará los derechos por el refrendo anual.
 
 Se entenderá por giro de miscelánea, la compraventa al público en general, de productos comestibles, no comestibles, de higiene personal y de aseo para el hogar a granel, envasados, empaquetados, etiquetados y con envoltura, sin renta de máquinas de videojuegos; con venta exclusivamente de cerveza en botella cerrada y cuya rotación en inventarios mensual por la compraventa sea menor a la tarifa más baja por licencia establecida en el presente Artículo.
 
-### CAPITULO TERCERO. POR SERVICIOS CAUSADOS POR EL USO Y/O APROVECHAMIENTO DE AUTOPISTAS ESTATALES
+(REUBICADO [N. DE E. ANTES ARTÍCULO 106], P.O. 31 DE DICIEMBRE DE 2019)
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-###### ARTICULO 106.
+###### ARTICULO 88.
 
 Las personas físicas y morales con establecimientos temporales que con motivo de festividades regionales, ferias, verbenas, espectáculos públicos, y eventos recreativos de naturaleza análoga, se dediquen a enajenar bebidas alcohólicas o a la prestación de servicios que incluyan el expendio de dichas bebidas, total o parcialmente con el público en general, deberán obtener el permiso del Estado.
 
@@ -1511,59 +1773,63 @@ El costo del permiso será del doce por ciento de la tarifa normal de la licenci
 
 El permiso únicamente será válido por el tiempo y en el lugar para el cual fue expedido, en ningún caso los permisos a que se refiere este artículo, podrán tener una vigencia superior a un mes, pudiendo la autoridad estatal en el ámbito de su competencia, inspeccionar y vigilar su funcionamiento. Cuando el establecimiento no cumpla con las normas que establecen las leyes, se procederá a la cancelación del permiso otorgado y a la clausura del establecimiento en su caso.
 
-###### ARTICULO 107.
+#### SECCION SEGUNDA. DE LAS REVALIDACIONES DE LICENCIAS PARA ESTABLECIMIENTOS QUE EXPENDEN BEBIDAS ALCOHOLICAS
 
-La expedición de la revalidación anual para el funcionamiento de establecimientos que enajenen bebidas alcohólicas o que presten servicios en los que se expendan dichas bebidas, causarán derechos por la cantidad de $10,000.00 (DIEZ MIL PESOS 00/100 M.N.).
-
-###### ARTICULO 108.
-
-Cuando el establecimiento cuente con licencia y habiendo presentado aviso de suspensión de actividades, la reinicie en el 1o., 2o., 3o. ó 4o., trimestre, pagará por ese año el 100%, 75%, 50% ó 25%, respectivamente, de la tarifa establecida en el artículo 107, sin perjuicio de las reducciones a que se tenga derecho conforme a los artículos 111 y 112 de esta Ley.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
-
-### CAPITULO CUARTO. POR SERVICIOS DE LA SECRETARÍA DE INFRAESTRUCTURA, DESARROLLO URBANO Y MOVILIDAD
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE MARZO DE 2017)</small>
-
-#### SECCION CUARTA. POR SERVICIOS QUE PRESTA LA SECRETARIA DE GOBIERNO A TRAVES DEL ORGANISMO DESCONCENTRADO DENOMINADO "PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO"
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
-
-###### ARTICULO 109.
-
-La autorización de cambio de titular de una licencia causará derechos a razón del 70% de la tarifa establecida en el artículo 105, según el establecimiento de que se trate.
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
-
-Asimismo, la autorización emitida por la Secretaría de Finanzas, para que persona distinta al titular de la licencia preste los servicios que autoriza la licencia de referencia, causará derechos a razón del 10% de la tarifa establecida en el artículo 105, según el establecimiento de que se trate.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
-
-###### ARTICULO 110.
-
-La autorización de cambio de domicilio de una licencia causará derechos a razón del 50% de la tarifa establecida en el artículo 105, según el establecimiento de que se trate.
-
-La autorización de cambio de giro de una licencia causará derechos sobre la diferencia del costo de la tarifa establecida en el artículo 105, según el establecimiento de que se trate. En ningún caso dará lugar a devolución por cambio de giro.
-
-###### ARTICULO 111.
-
-Las tarifas establecidas en los artículos 105, 107, 109 y 110, se reducirán en un 25%, cuando el establecimiento para el que se expida la autorización y licencia anual se encuentre en alguno de los siguientes municipios: Allende, Francisco I. Madero, Matamoros, Múzquiz, Nava, Parras, San Buenaventura, San Juan de Sabinas y San Pedro.
-
-###### ARTICULO 112.
-
-Las tarifas establecidas en los artículos 105, 107, 109 y 110, se reducirán en un 50%, cuando el establecimiento para el que se expida la autorización y licencia anual se encuentre en alguno de los siguientes municipios: Abasolo, Candela, Castaños, Cuatro Ciénegas, Escobedo, General Cepeda, Guerrero, Hidalgo, Jiménez, Juárez, Lamadrid, Morelos, Nadadores, Ocampo, Progreso, Sacramento, Sierra Mojada, Viesca, Villa Unión y Zaragoza.
-
-PAGO
-
-#### SECCION PRIMERA. POR LICENCIAS PARA ESTABLECIMIENTOS QUE EXPENDAN BEBIDAS ALCOHOLICAS
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 107], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 OBJETO
 
-###### ARTICULO 113.
+###### ARTICULO 89.
+
+La expedición de la revalidación anual para el funcionamiento de establecimientos que enajenen bebidas alcohólicas o que presten servicios en los que se expendan dichas bebidas, causarán derechos por la cantidad de $11,968.00 (ONCE MIL NOVECIENTOS SESENTA Y OCHO PESOS 00/100 M.N.).
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 108], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 90.
+
+Cuando el establecimiento cuente con licencia y habiendo presentado aviso de suspensión de actividades, la reinicie en el 1o., 2o., 3o. ó 4o., trimestre, pagará por ese año el 100%, 75%, 50% ó 25%, respectivamente, de la tarifa establecida en el artículo 89, sin perjuicio de las reducciones a que se tenga derecho conforme a los artículos 93 y 94 de esta Ley.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 109], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 91.
+
+La autorización de cambio de titular de una licencia causará derechos a razón del 70% de la tarifa establecida en el artículo 87, según el establecimiento de que se trate.
+
+Asimismo, la autorización emitida por la Secretaría de Finanzas, para que persona distinta al titular de la licencia preste los servicios que autoriza la licencia de referencia, causará derechos a razón del 10% de la tarifa establecida en el artículo 87, según el establecimiento de que se trate.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 110], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 92.
+
+La autorización de cambio de domicilio de una licencia causará derechos a razón del 50% de la tarifa establecida en el artículo 87, según el establecimiento de que se trate.
+
+La autorización de cambio de giro de una licencia causará derechos sobre la diferencia del costo de la tarifa establecida en el artículo 87, según el establecimiento de que se trate. En ningún caso dará lugar a devolución por cambio de giro.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 111], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 93.
+
+Las tarifas establecidas en los artículos 87, 89, 91 y 92, se reducirán en un 25%, cuando el establecimiento para el que se expida la autorización y licencia anual se encuentre en alguno de los siguientes municipios: Allende, Francisco I. Madero, Matamoros, Múzquiz, Nava, Parras, San Buenaventura, San Juan de Sabinas y San Pedro.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 112], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 94.
+
+Las tarifas establecidas en los artículos 87, 89, 91 y 92, se reducirán en un 50%, cuando el establecimiento para el que se expida la autorización y licencia anual se encuentre en alguno de los siguientes municipios: Abasolo, Candela, Castaños, Cuatro Ciénegas, Escobedo, General Cepeda, Guerrero, Hidalgo, Jiménez, Juárez, Lamadrid, Morelos, Nadadores, Ocampo, Progreso, Sacramento, Sierra Mojada, Viesca, Villa Unión y Zaragoza.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 113], P.O. 31 DE DICIEMBRE DE 2019)
+
+PAGO
+
+###### ARTICULO 95.
 
 El pago de este derecho deberá realizarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la expedición de la licencia de funcionamiento y revalidación anual, en su caso.
 
-###### ARTICULO 114.
+#### SECCION TERCERA. POR LOS SERVICIOS DE CONTROL VEHICULAR
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 114], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 96.
 
 Los servicios relativos a control vehicular causarán derechos conforme a la siguiente:
 
@@ -1573,37 +1839,47 @@ TARIFA
 
 I. Expedición de tarjetas de circulación y calcomanía con número identificatorio o refrendo anual:
 
-1. Para automóviles, camiones y camionetas, $1,360.00 (MIL TRECIENTOS (SIC) SESENTA PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-2. Los vehículos de carga de tres o más toneladas, ómnibuses y tractores no agrícolas tipo quinta rueda, además de la cuota que les corresponde conforme al inciso anterior, deberán pagar la cantidad de $773.00 (SETECIENTOS SETENTA Y TRES PESOS 00/100 M.N.) con el refrendo anual, a excepción de los vehículos que presten el servicio público de pasajeros o carga, mediante concesión otorgada por las autoridades estatales o municipales.
+1. Refrendo para automóviles, camiones y camionetas, $1,748.00 (UN MIL SETECIENTOS CUARENTA Y OCHO PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+2. Los vehículos de carga de tres o más toneladas, ómnibuses y tractores no agrícolas tipo quinta rueda, además de la cuota que les corresponde conforme al inciso anterior, deberán pagar la cantidad de $993.00 (NOVECIENTOS NOVENTA Y TRES PESOS 00/100 M.N.) con el refrendo anual, a excepción de los vehículos que presten el servicio público de pasajeros o carga, mediante concesión otorgada por las autoridades estatales o municipales.
 
 Los ingresos que se generen conforme al inciso anterior, deberán destinarse para programas de rehabilitación y mejoramiento de las vías de comunicación.
 
 3. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-4. Reposición por pérdida de la tarjeta de circulación, $100.00 (CIEN PESOS 00/100 M.N.).
+4. Reposición por pérdida de la tarjeta de circulación, $110.00 (CIEN DIEZ PESOS 00/100 M.N.).
 
-II. Expedición de juego de placas para demostración de vehículos $2,070.00 (DOS MIL SETENTA PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+II. Expedición de juego de placas para demostración de vehículos $2,896.00 (DOS MIL OCHOCIENTOS NOVENTA Y SEIS PESOS 00/100 M.N.);
 
-II-A. Refrendo anual de placas para demostración de vehículos $2,154.00 (DOS MIL CIENTO CINCUENTA Y CUATRO PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-III. Expedición de tarjeta de circulación para remolques accionados por vehículos de tracción mecánica; $670.00 (SEISCIENTOS SETENTA PESOS 00/100 M.N.);
+II-A. Refrendo anual de placas para demostración de vehículos $2,578.00 (DOS MIL QUINIENTOS NOVENTA Y OCHO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-IV. Expedición de placa y tarjeta de circulación, o refrendo anual para motocicleta, motocicleta todo terreno de cuatro llantas o vehículo utilitario recreacional, $268.00 (DOSCIENTOS SESENTA Y OCHO PESOS 00/100 M.N.);
+III. Expedición de tarjeta de circulación para remolques accionados por vehículos de tracción mecánica; $936.00 (NOVECIENTOS TREINTA Y SEIS PESOS 00/100 M.N.);
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-V. Tarjetón Estatal de Registro Vehicular $300.00 (TRESCIENTOS PESOS 00/100 M.N).
+IV. Expedición de placa y tarjeta de circulación, o refrendo anual para motocicleta, motocicleta todo terreno de cuatro llantas o vehículo utilitario recreacional, $294.00 (DOSCIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+V. Tarjetón Estatal de Registro Vehicular $358.00 (TRESCIENTOS CINCUENTA Y OCHO PESOS 00/100 M.N).
 
 VI. Dotación de placas metálicas con número identificatorio para los vehículos siguientes:
 
-1. Automóviles, camiones y camionetas, $600.00 (SEISCIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+1. Automóviles, camiones y camionetas, $838.00 (OCHOCIENTOS TREINTA Y OCHO PESOS 00/100 M.N.);
 
 > <small>(REFORMADO [N. DE E. ADICIONADO CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1627,25 +1903,37 @@ h) Las personas físicas que padezcan una incapacidad parcial temporal, podrán 
 
 Para el otorgamiento del tarjetón que se describe en el párrafo que antecede, los interesados deberán presentar constancia médica expedida por institución oficial, con la que se acredite que el tipo y grado de la discapacidad es parcial temporal, además deberán contar con licencia de conducir vigente y estar al corriente de sus obligaciones relativas a control vehicular.
 
-2. Vehículos de servicio público, $680.00 (SEISCIENTOS OCHENTA PESOS 00/100 M.N.); y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-3. Remolques $330.00 (TRESCIENTOS TREINTA PESOS 00/100 M.N.).
+2. Vehículos de servicio público, $945.00 (NOVECIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.); y
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+3. Remolques $462.00 (CUATROCIENTOS SESENTA Y DOS PESOS 00/100 M.N.).
 
 En el caso de que el contribuyente adquiera placas metálicas con número identificatorio, además deberá pagar los derechos por la expedición de la tarjeta de circulación y la calcomanía con número identificatorio.
 
-VII. Por la obtención de un número de placas específico (sujeto a disponibilidad) $2,930.00 (DOS MIL NOVECIENTOS TREINTA PESOS 00/100 M.N.).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-VIII. Expedición de permisos por quince días para circular sin placas, $500.00 (QUINIENTOS PESOS 00/100 M.N.);
+VII. Por la obtención de un número de placas específico (sujeto a disponibilidad) $4,100.00 (CUATRO MIL CIEN PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VIII. Expedición de permiso provisional para circular sin placas, hasta por un plazo que no podrá exceder de treinta, $699.00 (SEISCIENTOS NOVENTA Y NUEVE PESOS 00/100 M.N.), este permiso se expedirá por una sola ocasión;
 
 IX. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
 
-X. Expedición de constancia o certificación de documentos relativos a derechos de control vehicular, $40.00 (CUARENTA PESOS 00/100 M.N.); por la primera hoja y $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XI. La baja de placas del Estado y de otros Estados $10.00. (DIEZ PESOS 00/100 M.N.)
+X. Expedición de constancia o certificación de documentos relativos a derechos de control vehicular, $55.00 (CINCUENTA Y CINCO PESOS 00/100 M.N.); POR LA PRIMERA HOJA); por la primera hoja y $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-Los contribuyentes que realicen la enajenación de los vehículos objeto de los derechos previstos en el presente artículo, así como los propietarios de vehículos que hayan perdido la funcionalidad para seguir circulando en el Estado, están obligados a llevar a cabo ante las autoridades correspondientes la baja del Padrón Vehicular de los vehículos en cuestión, dentro de los quince días hábiles siguientes a que se dé el supuesto correspondiente, en caso omiso serán responsables de las contribuciones que se causen y se sigan causando, entre tanto no tramiten la baja.
+XI. La baja de placas del Estado y de otros Estados $12.00. (DOCE PESOS 00/100 M.N.)
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Los contribuyentes que realicen la enajenación de los vehículos objeto de los derechos previstos en el presente artículo, así como los propietarios de vehículos que hayan perdido la funcionalidad para seguir circulando en el Estado, están obligados a llevar a cabo ante las autoridades correspondientes la baja del Padrón Vehicular de los vehículos en cuestión y la entrega de las placas metálicas, dentro de los quince días hábiles siguientes a que se dé el supuesto correspondiente, en caso omiso serán responsables de las contribuciones que se causen y se sigan causando, entre tanto no tramiten la baja.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1657,23 +1945,37 @@ Son solidariamente responsables del pago de los derechos establecidos en esta Se
 
 3. Las autoridades, que autoricen el registro de vehículos, o altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por estos derechos, correspondientes a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+La tarjeta de circulación es el comprobante de registro de un vehículo, la que deberá acompañarse de las placas vigentes, calcomanías y demás documentos de identificación que por la naturaleza del servicio se requieran.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Las placas metálicas y documentación a que se refiere el párrafo anterior son propiedad del Gobierno del Estado, y los particulares tendrán respecto de estos las obligaciones y deberes de un depositario, conforme a las disposiciones aplicables de la materia.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 115], P.O. 31 DE DICIEMBRE DE 2019)
+
 OBLIGACIONES
 
-###### ARTICULO 115.
+###### ARTICULO 97.
 
 El propietario de un vehículo deberá dar aviso si se llevase a cabo la enajenación de éste o fuese motivo de baja en la circulación.
 
 Los avisos a que se refiere este artículo deberán presentarse dentro de los quince días siguientes al en que se realice la operación.
 
-###### ARTICULO 116.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 116], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 98.
 
 El solicitante del servicio de control vehicular y el adquirente de placas y tarjeta de circulación, deberán dar aviso de cuantos cambios de domicilio lleve a cabo que alteren el registro vehicular.
 
 Los avisos a que se refiere este artículo, deberán presentarse dentro de los quince días siguientes al en que se realice la operación.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 117], P.O. 31 DE DICIEMBRE DE 2019)
+
 PAGO
 
-###### ARTICULO 117.
+###### ARTICULO 99.
 
 El pago de estos derechos deberá hacerse en las Instituciones de Crédito o establecimientos autorizados, conforme a las tarifas que establece esta ley.
 
@@ -1683,27 +1985,27 @@ El refrendo anual correspondiente a las placas metálicas, deberá pagarse dentr
 
 Los demás derechos regulados en esta Sección, se pagarán en el momento en que se soliciten.
 
-###### ARTICULO 118.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 118], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 100.
 
 Los documentos relativos a los servicios de control vehicular serán entregados a los contribuyentes por las autoridades fiscales previo pago de las contribuciones correspondientes.
 
-###### ARTICULO 119.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 119], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 101.
 
 La falta de pago oportuno de los derechos a que se refiere la presente Sección, causarán recargos conforme a la tasa que establezca la Ley de Ingresos del Estado.
 
-###### ARTICULO 120.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 120], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 102.
 
 Los vehículos, cuyos propietarios no cumplan dentro del plazo establecido en este Capítulo con sus obligaciones fiscales de control vehicular, y por consecuencia no cuenten con tarjeta de circulación vigente, amparada con el engomado correspondiente, serán sujetos a los procedimientos económicos coactivos previstos en la legislación aplicable en el Estado.
 
-#### SECCION SEGUNDA. DE LAS REVALIDACIONES DE LICENCIAS PARA ESTABLECIMIENTOS QUE EXPENDEN BEBIDAS ALCOHOLICAS
+(REUBICADO [N. DE E. ANTES ARTÍCULO 121], P.O. 31 DE DICIEMBRE DE 2019)
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
-
-OBJETO
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
-
-###### ARTICULO 121.
+###### ARTICULO 103.
 
 Las autoridades fiscales, en cumplimiento a lo señalado en el artículo que antecede, podrán embargar precautoriamente los vehículos que no cuenten con la tarjeta de circulación actualizada por el engomado correspondiente, cuando se incumplan las obligaciones fiscales de control vehicular en dos ejercicios fiscales consecutivos, siguiendo para ellos los procedimientos legales correspondientes.
 
@@ -1713,71 +2015,91 @@ En los supuestos del párrafo anterior, si es necesario, la autoridad fiscal pod
 
 Si antes de que se agote el procedimiento económico-coactivo, el contribuyente cumple con el pago de los derechos a que se refiere esta Sección y los recargos correspondientes o conviene con las autoridades fiscales el cumplimiento de su adeudo, se levantará el embargo en que se hubiere practicado sobre su vehículo.
 
-###### ARTICULO 122.
+#### SECCION CUARTA. LOS PRESTADOS POR SUS UNIDADES ADMINISTRATIVAS
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 122], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 104.
 
 Los demás servicios que presta la Secretaría de Finanzas a través de sus Unidades Administrativas causarán derechos conforme a la siguiente:
 
 TARIFA
 
-I. Certificaciones, $40.00 (CUARENTA PESOS 00/100 M.N.), por la primera hoja; $5.00 (CINCO PESOS 00/100 M.N.), por hoja adicional;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+I. Certificaciones, $55.00 (CINCUENTA Y CINCO PESOS 00/100 M.N.), por la primera hoja; $5.00 (CINCO PESOS 00/100 M.N.), por hoja adicional;
 
 II. Expedición de copia simple, $5.00 (CINCO PESOS 00/100 M.N.), por hoja;
 
-III. Servicios periciales contables, $100.00 (CIEN PESOS 00/100 M.N.) por hora, por auditor; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-IV. Por constancias del padrón vehicular, $40.00 (CUARENTA PESOS 00/100), por la primera hoja; y $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
+III. Servicios periciales contables, $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.) por hora, por auditor; y
 
-###### ARTICULO 123.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+IV. Por constancias del padrón vehicular, $54.00 (CINCUENRA Y CUATRO PEESOS 00/100), por la primera hoja; y $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 123], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 105.
 
 El pago de los derechos a que se refiere esta Sección deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 17 DE MARZO DE 2017)</small>
+### CAPITULO CUARTO. POR SERVICIOS DE LA SECRETARÍA DE INFRAESTRUCTURA, DESARROLLO URBANO Y MOVILIDAD
 
-#### SECCION TERCERA. POR LOS SERVICIOS DE CONTROL VEHICULAR
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE MARZO DE 2017)</small>
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
-
-###### ARTICULO 124.
+###### ARTICULO 106.
 
 Los servicios prestados por la Administración Fiscal General, por el uso y/o aprovechamiento de la Autopista Allende-Agujita-Estancias, causaran derechos conforme a la siguiente:
 
 TARIFA
 
-I. Automóvil, pick up, panel con o sin remolque y motos $ 90.00 (NOVENTA PESOS 00/100 M.N.)
+I. Automóvil, pick up, panel con o sin remolque y motos $ 125.00 (CIENTO VEINTICINCO PESOS 00/100 M.N.)
 
-II. Autobuses de pasajeros $130.00 (CIENTO TREINTA PESOS 00/100 M.N.)
+II. Autobuses de pasajeros $181.00 (CIENTO OCHENTA Y UN PESOS 00/100 M.N.)
 
-III. Camiones de 2 ejes $130.00 (CIENTO TREINTA PESOS 00/100 M.N.)
+III. Camiones de 2 ejes $181.00 (CIENTO OCHETA Y UNO PESOS 00/100 M.N.)
 
-IV. Camiones de 3 y 4 ejes $130.00 (CIENTO TREINTA PESOS 00/100 M.N.)
+IV. Camiones de 3 y 4 ejes $181.00 (CIENTO OCHETA Y UNO PESOS 00/100 M.N.)
 
-V. Camiones de 5 y 6 ejes $180.00 (CIENTO OCHENTA PESOS 00/100 M.N.)
+V. Camiones de 5 y 6 ejes $251.00 (DOSCIENTOS OCHENTA Y UN PESOS 00/100 M.N.)
 
-VI. De más de 6 ejes $200.00 (DOSCIENTOS PESOS 00/100 M.N.)
+VI. De más de 6 ejes $279.00 (DOSCIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.)
 
 Las tarifas establecidas en este artículo deberán actualizarse trimestralmente, conforme al índice nacional de precios al consumidor, en términos del artículo 15-A del Código Fiscal para el Estado de Coahuila de Zaragoza.
 
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 125], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 SUJETOS
 
-###### ARTICULO 125.
+###### ARTICULO 107.
 
-Son sujetos de este derecho, las personas físicas o morales que utilicen o aprovechen los servicios mencionados en el artículo anterior. (133)
+Son sujetos de este derecho, las personas físicas o morales que utilicen o aprovechen los servicios mencionados en el artículo anterior.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 126], P.O. 31 DE DICIEMBRE DE 2019)
 
 PAGO
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+###### ARTICULO 108.
 
-###### ARTICULO 126.
-
-El pago de estos derechos deberá efectuarse en las casetas de cobro instaladas en la autopista Allende-Agujita-Estancias por Administración Fiscal General.
+El pago de estos derechos deberá efectuarse en las casetas de cobro instaladas en la autopista Allende-Agujita-Estancias por (sic) Administración Fiscal General.
 
 > <small>[N. DE E. DEL ANÁLISIS AL DECRETO 191 PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2018, SE ADVIERTE QUE LOS ANTERIORES CAPÍTULOS CUARTO Y QUINTO QUEDARON COMPRENDIDOS EN EL ACTUAL CAPÍTULO CUARTO]</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-### CAPITULO QUINTO-BIS
+### CAPITULO SEXTO. POR SERVICIOS DE LA SECRETARIA DE EDUCACION
 
-###### ARTÍCULO 127.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 142], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+#### SECCION PRIMERA
+
+POR SERVICIOS DE LA COMISION ESTATAL DE VIVIENDA Y COMISION ESTATAL PARA LA REGULARIZACION DE LA TENENCIA DE LA TIERRA URBANA Y RUSTICA DE COAHUILA.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 127], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 109.
 
 Los servicios que prestan la Comisión Estatal de Vivienda y la Comisión Estatal para la Regularización de la Tendencia (sic) de la Tierra Urbana y Rústica de Coahuila, causarán derechos conforme a la siguiente:
 
@@ -1787,97 +2109,95 @@ I. Por los servicios que otorga la Comisión Estatal de Vivienda y Comisión Est
 
 A. Regularización de la Tenencia de la Tierra:
 
-1. Por la elaboración de escritura privada de predio o lote urbano se pagarán $670.00 (SEISCIENTOS SETENTA PESOS 00/100 M.N.) por escritura;
+1. Por la elaboración de escritura privada de predio o lote urbano se pagarán $779.00 (S ETECIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.) por escritura;
 
-2. Por la verificación de medidas de predios o lotes se pagarán $114.00 (CIENTO CATORCE PESOS 00/100 M.N.) por cada inmueble a verificar;
+2. Por la verificación de medidas de predios o lotes se pagarán $133.00 (CIENTO TREINTA Y TRES PESOS 00/100 M.N.) por cada inmueble a verificar;
 
-3. Por la elaboración de plano manzanero se pagarán $56.00 (CINCUENTA Y SEIS PESOS 00/100 M.N.) por plano que comprenda un lote;
+3. Por la elaboración de plano manzanero se pagarán $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.) por plano que comprenda un lote;
 
-4. Por la validación de cesión de derechos se pagarán $272.00 (DOSCIENTOS SETENTA Y DOS PESOS 00/100 M.N.) por predio o lote que ampare la cesión;
+4. Por la validación de cesión de derechos se pagarán $330.00 (TRESCIENTOS TREINTA PESOS 00/100 M.N.) por predio o lote que ampare la cesión;
 
-5. Por la constancia para trámite de predial se pagarán $56.00 (CINCUENTA Y SEIS PESOS 00/100 M.N.);
+5. Por la constancia para trámite de predial se pagarán $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.);
 
-6. Por la cancelación de escritura en proceso, a petición de parte, se pagarán $670.00 (SEISCIENTOS SETENTA PESOS 00/100 M.N.);
+6. Por la cancelación de escritura en proceso, a petición de parte, se pagarán $779.00 (SETECIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.);
 
 7. Por escrituras privadas del Programa de Predios Rústicos para el Municipio de Saltillo:
 
-a. Predios/lotes de hasta 500 metros pagarán $3,970.00 (TRES MIL NOVECIENTOS SETENTA PESOS 00/100 M.N.);
+a. Predios/lotes de hasta 500 metros pagarán $4,613.00 (CUATRO (SIC) SEISCIENTOS TRECE PESOS 00/100 M.N.);
 
-b. Predios/lotes de más de 501 metros a 10 hectáreas, pagarán $5,672.00 (CINCO MIL SEISCIENTOS SETENTA Y DOS PESOS 00/100 M.N.);
+b. Predios/lotes de más de 501 metros a 10 hectáreas, pagarán $6,591.00 (SEIS MIL QUINENTOS NOVENTA Y UN PESOS 00/100 M.N.);
 
-c. Predios/lotes de 10-00-01 hectáreas a 20 hectáreas, pagarán $7,942.00 (SIETE MIL NOVECIENTOS CUARENTA Y DOS PESOS 00/100 M.N.);
+c. Predios/lotes de 10-00-01 hectáreas a 20 hectáreas, pagarán $9,229.00 (NUEVE MIL DOSCIENTOSVEINTINUEVE PESOS 00/100 M.N.);
 
-d. Predios/lotes de 20-00-01 hectáreas a 30 hectáreas, pagarán $11,345.00 (ONCE MIL TRESCIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.);
+d. Predios/lotes de 20-00-01 hectáreas a 30 hectáreas, pagarán $13,183.00 (TRECE MIL CIENTO OCHENTA Y TRES PESOS 00/100 M.N.);
 
 8. Por escrituras privadas del Programa de Predios Rústicos para el resto del Estado:
 
-a. Predios/lotes con superficie hasta de 300 metros, pagarán $1,702.00 (MIL SETECIENTOS DOS PESOS 00/100 M.N.);
+a. Predios/lotes con superficie hasta de 300 metros, pagarán $1,977.00 (UN MIL NOVECIENTOS SETENTA Y SIETE PESOS 00/100 M.N.);
 
-b. Predios/lotes con superficie de 301 metros hasta 10 hectáreas, pagarán $3,970.00 (TRES MIL NOVECIENTOS SETENTA PESOS 00/100 M.N.);
+b. Predios/lotes con superficie de 301 metros hasta 10 hectáreas, pagarán $4,393.00 (CUATRO MIL NOVECIENTOS SETENTA Y TRES PESOS 00/100 M.N.);
 
-c. Predios/lotes con superficie mayor de 10-00-01 hectáreas hasta 20 hectáreas, pagarán $5,672.00 (CINCO MIL SEISCIENTOS SETENTA Y DOS PESOS 00/100 M.N.);
+c. Predios/lotes con superficie mayor de 10-00-01 hectáreas hasta 20 hectáreas, pagarán $6,591.00 (SEIS MIL QUINIENTOS NOVENTA Y UN PESOS 00/100 M.N.);
 
-d. Predios/lotes con superficie mayor de 20-00-01 hectáreas hasta 40 hectáreas, pagarán $9,076.00 (NUEVE MIL SETENTA Y SEIS PESOS 00/100 M.N.);
+d. Predios/lotes con superficie mayor de 20-00-01 hectáreas hasta 40 hectáreas, pagarán $10,546.00 (DIEZ MIL QUINIENTOS CUARENTA Y SEIS PESOS 00/100 M.N.);
 
 B. En materia inmobiliaria y de vivienda popular.
 
 1. Por la expedición del documento que contiene la información del predio y la constancia de pago del mismo denominada carta de liberación:
 
-a. Que correspondan a las colonias Jardines del Lago, Saltillo 400, Fundadores IV Sector y Asturias de Saltillo, Coahuila de Zaragoza, se pagarán $1,588.00 (MIL QUINIENTOS OCHENTA Y OCHO PESOS 00/100 M.N.);
+a. Que correspondan a las colonias Jardines del Lago, Saltillo 400, Fundadores IV Sector y Asturias de Saltillo, Coahuila de Zaragoza, se pagarán $1,844.00 (UN MIL OCHOCIENTOS CUARENTA Y CUATRO PESOS 00/100 M.N.);
 
-b. Que correspondan a las colonias Fundadores III Sector en Saltillo, colonia Latinoamericano en Torreón y la colonia Elsa Hernández en Monclova, Coahuila de Zaragoza, se pagarán $793.00 (SETECIENTOS NOVENTA Y TRES PESOS 00/100 M.N.);
+b. Que correspondan a las colonias Fundadores III Sector en Saltillo, colonia Latinoamericano en Torreón y la colonia Elsa Hernández en Monclova, Coahuila de Zaragoza, se pagarán $922.00 (NOVECIENTOS VEINTIDÓS PESOS 00/100 M.N.);
 
-c. Que correspondan a fraccionamientos distintos a los señalados en los dos apartados anteriores en todo el territorio del Estado, se pagarán $226.00 (DOSCIENTOS VEINTISÉIS PESOS 00/100 M.N.);
+c. Que correspondan a fraccionamientos distintos a los señalados en los dos apartados anteriores en todo el territorio del Estado, se pagarán $263.00 (DOSCIENTOS SESENTA Y TRES PESOS 00/100 M.N.);
 
-2. Por la expedición de una carta de liberación actualizada que sustituye a la expedida en otra época, se pagarán $226.00 (DOSCIENTOS VEINTISEIS PESOS 00/100 M.N.);
+2. Por la expedición de una carta de liberación actualizada que sustituye a la expedida en otra época, se pagarán $263.00 (DOSCIENTOS SESENTA Y TRES PESOS 00/100 M.N.);
 
-3. Por la expedición del documento en el que se contiene la información del predio y la constancia de pago del mismo, pero que es propiedad de algún Municipio del Estado, se expide la denominada carta de no adeudo, se pagarán $226.00 (DOSCIENTOS VEINTISÉIS PESOS 00/100 M.N.);
+3. Por la expedición del documento en el que se contiene la información del predio y la constancia de pago del mismo, pero que es propiedad de algún Municipio del Estado, se expide la denominada carta de no adeudo, se pagarán $263.00 (DOSCIENTOS SESENTA Y TRES PESOS 00/100 M.N.);
 
-4. Por la expedición del croquis de ubicación de un predio, necesario para el trámite de número oficial ante los Municipios del Estado, se pagarán $114.00 (CIENTO CATORCE PESOS 00/100 M.N.);
+4. Por la expedición del croquis de ubicación de un predio, necesario para el trámite de número oficial ante los Municipios del Estado, se pagarán $133.00 (CIENTO TREINTA Y TRES PESOS 00/100 M.N.);
 
 5. Por la elaboración del documento que contiene la manifestación de voluntad del propietario de un predio de ceder sus derechos como titular a favor de un tercero, documento denominado cesión de derechos:
 
-Cuando se trata de la cesión del primer titular del predio a un tercero, el costo será de $793.00 (SETECIENTOS NOVENTA Y TRES PESOS 00/100 M.N.);
+Cuando se trata de la cesión del primer titular del predio a un tercero, el costo será de $922.00 (NOVECIENTOS VEINTIDÓS PESOS 00/100 M.N.);
 
-Cuando se trata de la cesión del segundo titular en adelante del predio a un tercero, el costo será de $5,672.00 (CINCO MIL SEISCIENTOS SETENTA Y DOS PESOS 00/100 M.N.);
+Cuando se trata de la cesión del segundo titular en adelante del predio a un tercero, el costo será de $6,591.00 (SEIS MIL SEISCIENTOS NOVENTA Y UN PESOS 00/100 M.N.);
 
-6. Por la certificación de la documentación que obra en el expediente de la dependencia, correspondiente a la titularidad de una persona respecto a un predio y de la cual el titular no tiene constancia, denominada regularización de expediente, el costo será de $567.00 (QUINIENTOS SESENTA Y SIETE PESOS 00/100 M.N.).
+6. Por la certificación de la documentación que obra en el expediente de la dependencia, correspondiente a la titularidad de una persona respecto a un predio y de la cual el titular no tiene constancia, denominada regularización de expediente, el costo será de $658.00 (SEICIENTOS (SIC) CINCUENTA Y OCHO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MARZO DE 2017)</small>
+(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 128], P.O. 31 DE DICIEMBRE DE 2019)
 
 SUJETO
 
-###### ARTICULO 128.
+###### ARTICULO 110.
 
 Son sujetos de este derecho, las personas físicas o morales que soliciten los servicios mencionados en el artículo anterior.
 
 Son solidariamente responsables del pago de este derecho los constructores y contratistas que realicen obras relativas al objeto de este derecho.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MARZO DE 2017)</small>
+(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 129], P.O. 31 DE DICIEMBRE DE 2019)
 
 PAGO
 
-###### ARTÍCULO 129.
+###### ARTICULO 111.
 
 El pago de los derechos a que se refiere este Capítulo deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 130], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 EXENCIONES
 
-### CAPITULO SEXTO. POR SERVICIOS DE LA SECRETARIA DE EDUCACION
+###### ARTICULO 112.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-###### ARTÍCULO 130.
-
-Quedan exentos del pago de derechos a que se refiere el artículo 127 de la presente Ley, los predios sujetos a regularización y/o escrituración que por Decreto legislativo así lo determinen.
+Quedan exentos del pago de derechos a que se refiere el artículo 109 de la presente Ley, los predios sujetos a regularización y/o escrituración que por Decreto legislativo así lo determinen.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-###### ARTICULO 131.
+#### SECCION SEGUNDA. POR SERVICIOS DE CONTROL DE TRANSPORTE PUBLICO
+
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018) (REUBICADO [N. DE E. ANTES ARTÍCULO 131], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 113.
 
 Los servicios prestados por la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, relativos al control de transporte público, causarán derechos conforme a la siguiente:
 
@@ -1885,61 +2205,105 @@ TARIFA
 
 I. Expedición de tarjetas de circulación y calcomanía con número identificatorio o refrendo anual:
 
-1. Vehículos de servicio público, $1,080.00 (MIL OCHENTA PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-2. Remolque de servicio público, $620.00 (SEISCIENTOS VEINTE PESOS 00/100 M.N.).
+1. Vehículos de servicio público, $1,511.00 (MIL QUINIENTOS ONCE PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+2. Remolque de servicio público, $868.00 (OCHOCIENTOS SESENTA Y OCHO PESOS 00/100 M.N.).
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 II. Tarjetón de identificación para operadores del servicio público de transporte, $358.00 (TRESCIENTOS CINCUENTA Y OCHO PESOS 00/100 M.N).
 
-III. Expedición de constancia o certificación de documentos relativos a derechos de control vehicular, $160.00 (CIENTO SESENTA PESOS 00/100 M.N.); y
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+II-A. Tarjetón de identificación para choferes de Empresas de Redes de Transporte $393.00 (TRESCIENTOS NOVENTA Y TRES PESOS 00/100 M.N).
 
-IV. Expedición de licencias para conducir vehículos con vigencia de dos años:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-1. Tipo A: Chofer particular $447.00 (CUATROCIENTOS CUARENTA Y SIETE PESOS 00/100 M.N.)
+III. Expedición de constancia o certificación de documentos relativos a derechos de control vehicular, $230.00 (DOSCIENTO TREINTA PESOS 00/100 M.N.); y
 
-2. Tipo B: Chofer de transporte público $424.00 (CUATROCIENTOS VEINTICUATRO PESOS 00/100 M.N.)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-3. Tipo C: Motociclista $122.00 (CIENTO VEINTIDOS PESOS 00/100 M.N.).
+IV. Expedición de licencias para conducir vehículos:
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-V. Examen Pericial de manejo y de conocimientos reglamentarios y fotografía digitalizada en la licencia, $86.00 (OCHENTA Y SEIS PESOS 00/100 M.N.).
+1. Tipo A: Chofer particular:
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+a) Con vigencia de dos años $490.00 (CUATROCIENTOS NOVENTA PESOS 00/100 M.N)
 
-VI. Examen médico para demostrar aptitud física para obtener licencia de conducir $50.00 (CINCUENTA PESOS 00/100 M.N.).
+b) Con vigencia de cuatro años $697.00 (SEISCIENTOS NOVENTA Y SIETE PESOS 00/100 M.N.).
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-VII. Por aplicación de examen psicométrico a operadores del servicio público de transporte $50.00 (CINCUENTA PESOS 00/100 M.N.).
+2. Tipo B: Chofer de transporte público;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+a) Con vigencia de dos años $465.00 (CUATROCIENTOS SESENTA Y CINCO PESOS 00/100 M.N.)
 
-VIII. Certificado médico-toxicológico para operadores del servicio público de transporte, $300.00 (TRESCIENTOS PESOS 00/100 M.N.).
+b) Con vigencia de cuatro años $697.00 (SEISCIENTOS NOVENTA Y SIETE PESOS 00/100 M.N.).
+
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+3. Tipo C: Motociclista;
+
+a) Con vigencia de dos años $134.00 (CIENTO TREINTA Y CUATRO PESOS 00/100 M.N)
+
+b) Con vigencia de cuatro años $190.00 (CIENTO NOVENTA PESOS 00/100 M.N.).
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+4. Tipo D: Chofer de empresas de redes de transporte:
+
+a) Con vigencia de dos años $720.00 (SETECIENTOS VEINTE PESOS 00/100 M.N.)
+
+b) Con vigencia de cuatro años $1,080.00 (UN MIL OCHENTA PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+V. Examen Pericial de manejo y de conocimientos reglamentarios, $55.00 (CINCUENTA Y CINCO PESOS 00/100 M.N.).
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+V-A. Fotografía digitalizada en la licencia de conducir $50.00 (CINCUENTA PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VI. Examen médico para demostrar aptitud física para obtener licencia de conducir $52.00 (CINCUENTA Y DOS PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VII. Por aplicación de examen psicométrico a operadores del servicio público de transporte $52.00 (CINCUENTA Y DOS PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VIII. Certificado médico-toxicológico para operadores del servicio público de transporte, $313.00 (TRESCIENTOS TRECE PESOS 00/100 M.N.).
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 132], P.O. 31 DE DICIEMBRE DE 2019)
 
 OBLIGACIONES
 
-###### ARTICULO 132.
+###### ARTICULO 114.
 
 El propietario de un vehículo deberá dar aviso si se llevase a cabo la enajenación de éste o fuese motivo de baja en la circulación.
 
 Los avisos a que se refiere este artículo deberán presentarse dentro de los quince días siguientes al en que se realice la operación.
 
-### CAPITULO SEXTO BIS. POR SERVICIOS DE LA SECRETARIA DE CULTURA
+(REUBICADO [N. DE E. ANTES ARTÍCULO 133], P.O. 31 DE DICIEMBRE DE 2019)
 
-###### ARTICULO 133.
+###### ARTICULO 115.
 
 El solicitante del servicio de control vehicular y el adquirente de placas y tarjeta de circulación, deberán dar aviso de cuantos cambios de domicilio lleve a cabo que alteren el registro vehicular.
 
 Los avisos a que se refiere este artículo, deberán presentarse dentro de los quince días siguientes al en que se realice la operación.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 134], P.O. 31 DE DICIEMBRE DE 2019)
+
 PAGO
 
-###### ARTICULO 134.
+###### ARTICULO 116.
 
 El pago de estos derechos deberá hacerse en las Instituciones de Crédito o establecimientos autorizados, conforme a las tarifas que establece esta ley.
 
@@ -1949,23 +2313,27 @@ El refrendo anual correspondiente a las placas metálicas, deberá pagarse dentr
 
 Los demás derechos regulados en esta Sección, se pagarán en el momento en que se soliciten.
 
-###### ARTICULO 135.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 135], P.O. 31 DE DICIEMBRE DE 2019)
 
-Los documentos relativos a los servicios de control vehicular serán entregados a los contribuyentes por las autoridades fiscales previo pago de las contribuciones correspondientes.)
+###### ARTICULO 117.
 
-###### ARTICULO 136.
+Los documentos relativos a los servicios de control vehicular serán entregados a los contribuyentes por las autoridades fiscales previo pago de las contribuciones correspondientes.
 
-La falta de pago oportuno de los derechos a que se refiere el artículo 131 de esta ley, causarán recargos conforme a la tasa que establezca la Ley de Ingresos del Estado.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 136], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-### CAPITULO SEPTIMO. POR SERVICIOS DE LA SECRETARIA DE MEDIO AMBIENTE
+###### ARTICULO 118.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
+La falta de pago oportuno de los derechos a que se refiere el artículo 113 de esta ley, causarán recargos conforme a la tasa que establezca la Ley de Ingresos del Estado.
 
-###### ARTICULO 137.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 137], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 119.
 
 Los vehículos, cuyos propietarios no cumplan dentro del plazo establecido en este Capítulo con sus obligaciones fiscales de control vehicular, y por consecuencia no cuenten con tarjeta de circulación vigente, amparada con el engomado correspondiente, serán sujetos a los procedimientos económicos coactivos previstos en la legislación aplicable en el Estado.
 
-###### ARTICULO 138.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 138], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 120.
 
 Las autoridades fiscales, en cumplimiento a lo señalado en el artículo que antecede, podrán embargar precautoriamente los vehículos que no cuenten con la tarjeta de circulación actualizada por el engomado correspondiente, cuando se incumplan las obligaciones fiscales de control vehicular en dos ejercicios fiscales consecutivos, siguiendo para ellos los procedimientos legales correspondientes.
 
@@ -1977,11 +2345,13 @@ Si antes de que se agote el procedimiento económico-coactivo, el contribuyente 
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-###### ARTICULO 138-A.
+#### SECCIÓN TERCERA. POR SERVICIOS DE INFRAESTRUCTURA
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 138-A], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 121.
 
 Los servicios que presta la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, relativos a la infraestructura causarán los derechos siguientes:
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
 I. Por la expedición del permiso para la instalación de anuncios publicitarios y señalamientos informativos dentro o fuera del derecho de vía de las carreteras y caminos locales, se pagarán anualmente los derechos conforme a las cuotas que para cada caso a continuación se señala:
 
@@ -1992,8 +2362,6 @@ I. Por la expedición del permiso para la instalación de anuncios publicitarios
 3. Anuncios publicitarios que tienen una superficie total de más de 50 metros cuadrados: 120 veces el valor diario de la Unidad de Medida y Actualización.
 
 4. Señales informativas: 50 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
 II. Por el otorgamiento de permisos para la construcción de obras dentro del derecho de vía de los caminos y carreteras estatales, se pagarán derechos conforme a las siguientes cuotas:
 
@@ -2021,29 +2389,593 @@ II. Por el otorgamiento de permisos para la construcción de obras dentro del de
 
 12. Por el otorgamiento de permiso para la construcción de puentes vehiculares dentro del derecho de vía: 1% del costo total de la obra.
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
-
 III. Certificaciones, $44.00 (CUARENTA Y CUATRO PESOS 00/100 M.N.), por la primera hoja; $5.00 (CINCO PESOS 00/100 M.N.), por hoja adicional;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
 IV. Expedición de copia simple, $5.00 (CINCO PESOS 00/100 M.N.), por hoja;
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+(REUBICADO [N. DE E. ANTES ARTÍCULO 138-B], P.O. 31 DE DICIEMBRE DE 2019) (REFORMADO, P.O. 17 DE MARZO DE 2017)
 
 SUJETO
 
-###### ARTÍCULO 138-B.
+###### ARTICULO 122.
 
 Son sujeto de este derecho, las personas que soliciten los servicios que se establecen en el artículo que antecede.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+(REUBICADO [N. DE E. ANTES ARTÍCULO 138-C], P.O. 31 DE DICIEMBRE DE 2019) (ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)
 
 PAGO
 
-###### ARTICULO 138-C.
+###### ARTICULO 123.
 
 El pago de los derechos a que se refiere este Capítulo deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+
+ARTICULO 123 BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+#### SECCION CUARTA. POR OTROS SERVICIOS
+
+REUBICADO [N. DE E. ANTES ARTÍCULO 139], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 124.
+
+Los otros servicios prestados por la Secretaria de Infraestructura, Desarrollo Urbano y Movilidad, causarán derechos conforme a la siguiente:
+
+TARIFA
+
+I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2019)
+
+> <small>(REFORMADA CON SUS NUMERALES, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+II. Concesión intermunicipal de transporte de pasajeros, hasta por treinta años:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+1. Expedición, por 30 años derivada de licitación, $40,110.00 (CUARENTA MIL CIENTO ONCE (SIC) PESOS 00/100 M.N.); y
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+2. Renovación de concesión (prórroga de concesión por 30 años) $40,110.00 (CUARENTA MIL CIENTO (SIC) PESOS 00/100 M.N.)
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+3. Refrendo anual, $3,707.00 (TRES MIL SETECIENTOS SIETE PESOS 00/100 M.N.).
+
+> <small>(REFORMADA CON SUS NUMERALES, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+III. Concesión estatal para servicio de transporte de agua:
+
+1. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2019)
+
+2. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2019)
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+3. Refrendo anual de concesión, $2,003.00 (DOS MIL TRES PESOS 00/100 M.N.).
+
+> <small>(REFORMADA CON SUS NUMERALES, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+IV. Permiso con vigencia de cinco años para servicio de transporte especializado escolar:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+1. Expedición, $3,886.00 (TRES MIL OCHOCIENTOS OCHENTA Y SEIS PESOS 00/100 M.N.);
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+2. Refrendo $1,227.00 (UN MIL DOSCIENTOS VEINTISIETE PESOS 00/100 M.N.); y
+
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+V. Permiso con vigencia de cinco años para servicio de transporte especializado de personal.
+
+1. Expedición, $6,686.00 (SEIS MIL SEISCIENTOS OCHENTA Y SEIS PESOS 00/100 M.N.);
+
+2. Refrendo $2,006.00 (DOS MIL SEIS PESOS 00/100 M.N.); y
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+VI. Permiso con vigencia de 5 años para el servicio de transporte de personal propio.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+1.- Expedición, $2,908.00 (DOS MIL NOVECIENTOS OCHO PESOS 00/100 M/N).
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+2.- Refrendo anual $940.00 (NOVECIENTOS CUARENTA PESOS 00/100 M/N).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VII. Permiso anual para transporte de carga especializada de materiales o residuos peligrosos, $2,772.00 (DOS MIL SETECIENTOS SETENTA Y DOS PESOS 00/100 M.N.);
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VIII. Permiso anual para servicio de transporte de carga:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+1. De comestibles, $1,370.00 (UN MIL TRESCIENTOS SETENTA PESOS 00/100 M.N);
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+2. De minerales, $3,468.00 (TRES MIL CUATROCIENTOS SESENTA Y OCHO PESOS 00/100 M.N.);
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+3. Distribuidores de materiales de construcción, $2,761.00 (DOS MIL SETECIENTOS SESENTA Y UN PESOS 00/100 M.N.); y
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+4. Otros productos, $1,370.00 (UN MIL TRESCIENTOS SETENTA PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+IX. Permiso anual para grúas, $3,468.00 (TRES MIL CUATROCIENTOS SESENTA Y OCHO PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+X. Cesión o transmisión de concesiones, $3,468.00 (TRES MIL CUATROCIENTOS SESENTA Y OCHO PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XI. Autorización de nueva ruta $17,342.00 (DIECISIETE MIL TRESCIENTOS CUARENTA Y DOS PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XII. Ampliación de ruta del servicio de transporte de pasajeros, $8,531.00 (OCHO MIL QUINIENTOS TREINTA Y UN PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XIII. Permiso temporal hasta por treinta días naturales para prestar el servicio de transporte público, $879.00 (OCHOCIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XIV. Revisión físico mecánica a vehículos de servicio público, $181.00 (CIENTO OCHENTA Y UNO PESOS 00/100 M.N.);
+
+XV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2019)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XVI. Constancia de extravío de documentos $181.00 (CIENTO OCHENTA Y UNO PESOS 00/100 M.N.); y
+
+XVII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XVIII. Derecho de preferencia por parcela, $730.00 (SETECIENTOS TREINTA PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XIX. Registro de Director responsable de obra y Corresponsable de obra por tres años, $2,097.00 (DOS MIL NOVENTA Y SIETE PESOS 17/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XX. Registro con vigencia de 5 años para el funcionamiento de las empresas de redes de transporte, servicio entre particulares $28,215.00 (VEINTIOCHO MIL DOSCIENTOS QUINCE (SIC) 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXI. Permiso anual para el transporte turístico $5,747.00 (CINCO MIL SETECIENTOS CUARENTA Y SIETE PESOS M/N (SIC))
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXII. Permiso con vigencia de 5 años para el transporte de personas con discapacidad:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+1. Expedición, $3,030.00 (TRES MIL TREINTA PESOS OO/100 (SIC) M.N.)
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+2. Refrendo anual $1,881.00 (UN MIL OCHOCIENTOS OCHENTA Y UN PESOS 00/100 M.N.)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXIII. Permiso anual para ambulancias $1,254.00 (UN MIL DOCIENTOS (SIC) CINCUENTA Y CUATRO PESOS 00/100 M.N.)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXIV. Permiso anual para el transporte ejecutivo $1,881.00 (UN MIL OCHOCIENTOS OCHENTA Y UN PESOS 00/100 M.N.)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXV. Permiso anual para el transporte mixto y de pasaje $1,149.00 (UN MIL CIENTO CUARENTA Y NUEVE PESOS 00/100 M.N.)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXVI. Permiso anual para el transporte de carga de agua potable $1,803.00 (UN MIL OCHOCIENTOS TRES PESOS 00/100 M.N.)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXVII. Registro de los vehículos adheridos a las empresas de redes de transporte para el servicio entre particulares $2,500.00 (DOS MIL QUINIENTOS PESOS 00/100 M.N.), por vehículo, con vigencia de 5 años.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXVIII. Permiso anual o por campaña publicitaria para la colocación de anuncios publicitarios en vehículos del servicio público de transporte de competencia estatal, $3,135.00 (TRES MIL CIENTO TREINTA Y CINCO PESOS 00/100 M.N.).
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 140], P.O. 31 DE DICIEMBRE DE 2019)
+
+SUJETOS
+
+###### ARTICULO 125.
+
+Son sujetos de este derecho, las personas físicas o morales que soliciten los servicios mencionados en el artículo anterior.
+
+Son solidariamente responsables del pago de este derecho los constructores y contratistas que realicen obras relativas al objeto de este derecho.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 141], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 126.
+
+El pago de los derechos a que se refiere esta Sección, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+### CAPITULO SEPTIMO. POR SERVICIOS DE LA SECRETARIA DE MEDIO AMBIENTE
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 145], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 127.
+
+Los servicios que presta la Secretaría de Educación causarán derechos, conforme a la siguiente:
+
+TARIFA
+
+I. Por registro de título y expedición de cédula profesional:
+
+1. De nivel técnico medio $1,049.00 (UN MIL CUARENTA Y NUEVE PESOS 00/100 M.N.)
+
+2. De nivel técnico superior, universitario o profesional asociado $1, 070.00.00 (UN MIL SETENTA PESOS 00/100 M.N.)
+
+3. De nivel licenciatura $1,118.00 (UN MIL CIENTO DIECIOCHO PESOS 00/100 M.N.); y
+
+4. De nivel posgrado $1,608.00 (UN MIL SEISCIENTOS OCHO PESOS 00/100 M.N.);
+
+II. Duplicado de cédula profesional $279.00 (DOSCIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.);
+
+III. Constancia de registro de título y no sanción $315.00 (TRESCIENTOS QUINCE PESOS 00/100 M.N.);
+
+IV. Constancia de registro de título y expedición de cédula profesional en trámite $143.00 (CIENTO CUARENTA Y TRES PESOS 00/100 M.N,);
+
+V. DEROGADA
+
+VI. Registro de institución educativa $8,390.00 (OCHO MIL TRECIENTOS (SIC) NOVENTA PESOS 00/100 M.N.):
+
+VII. Adición de carrera y/o estudios de posgrado $838.00 (OCHOCIENTOS TREINTA Y OCHO PESOS 00/100 M.N.);
+
+VIII. Cambio de nomenclatura de carrera y/o estudios de posgrado, $838.00 (OCHOCIENTOS TREINTA Y OCHO PESOS 00/100 M.N.);
+
+IX. Cambio de nomenclatura de institución educativa $838.00 (OCHOCIENTOS TREINTA Y OCHO PESOS 00/100 M.N.);
+
+X. Registro de título, diploma de especialidad o grado académico que procedan de otro estado $1,608.00 (UN MIL SEISCIENTOS OCHO PESOS 00/100 M.N.);
+
+XI. Legalización de firmas de documentos académicos, $266.00 (DOSCIENTOS SESENTA Y SEIS PESOS 00/100 M.N.) por firma;
+
+XII. Por autorización de incorporación de planteles de educación básica y educación inicial $29,369.00 (VEINTINUEVE MIL TRESCIENTOS SESENTA Y NUEVE PESOS 00/100 M.N.);
+
+XIII. Reconocimiento de validez oficial de estudios a planteles de educación media superior y formación para el trabajo $32,166.00 (TREINTA Y DOS MIL CIENTO SESENTA Y SEIS PESOS 00/100 M.N.);
+
+XIV. Reconocimiento de validez oficial de estudios a planteles de educación superior $34,964.00 (TREINTA Y CUATRO MIL NOVECIENTOS SESENTA Y CUATRO PESOS 00/100 M.N.);
+
+XV. Por trámite de autorización para la incorporación de planteles de educación básica e inicial $3,497.00 (TRES MIL CUATROCIENTOS NOVENTA Y SIETE PESOS 00/100 M.N.);
+
+XVI. Por trámite de reconocimiento de validez oficial de estudios de educación media superior y formación para el trabajo $4,197.00 (CUATRO MIL CIENTO NOVENTA Y SIETE PESOS 00/100 M.N.);
+
+XVII. Por trámite de reconocimiento de validez oficial de estudios de educación superior $4,874.00 (CUATRO MIL OCHOCIENTOS SETENTA Y CUATRO PESOS 00/100 M.N.);
+
+XVIII. DEROGADA
+
+XIX. Por autorización de examen a título de suficiencia de educación media y superior $433.00 (CUATROCIENTOS TREINTA Y TRES PESOS 00/100 M.N.) por alumno por alumno (sic);
+
+XX. Por equivalencia de estudios de nivel medio y superior $1,399.00 (UN MIL TRESCIENTOS NOVENTA Y NUEVE PESOS 00/100 M.N.) por alumno; y
+
+XXI. Por revalidación de estudios cursados en el extranjero:
+
+1. De primaria $2,098.00 (DOS MIL NOVENTA Y OCHO PESOS 00/100 M.N.) por alumno;
+
+2. De secundaria cursada en el extranjero $2,795.00 (DOS MIL SETECIENTOS NOVENTA Y CINCO PESOS 00/100 M.N.) por alumno;
+
+3. De educación media superior y superior cursada en el extranjero $4,197.00 (CUATRO MIL CIENTO NOVENTA Y SIETE PESOS 00/100 M.N.) por alumno;
+
+XXII. Expedición de certificado de terminación de estudios de escuelas particulares incorporadas:
+
+1. De nivel preescolar $28.00 (VEINTIOCHO PESOS 00/100 M.N.) por alumno;
+
+2. De nivel primaria $72.00 (CINCUENTA PESOS 00/100 M.N.) por alumno; y
+
+3. De nivel secundaria $147.00 (CIENTO CUARENTA Y TRES PESOS 00/100 M.N.) por alumno.
+
+XXIII. Expedición de certificado de terminación de estudios de bachillerato general y nivel técnico $577.00 (QUINIENTOS SESENTA Y SIETE PESOS 00/100 M.N.) por alumno.
+
+XXIV. Por registro de Colegios de Profesionistas $7,831.00 (SIETE MIL OCHOCIENTOS TREINTA Y UN PESOS 00/100 M.N.);
+
+XXV. Por encomienda al Registro del Colegio de Profesionistas:
+
+1. Por cambio de nomenclatura del Colegio $899.00 (OCHOCIENTOS NOVENTA Y NUEVE PESOS 00/100 M.N.);
+
+2. Por cambios en nómina de socios $230.00 (DOSCIENTOS TREINTA PESOS 00/100 M.N.);
+
+XXVI. DEROGADA
+
+XXVII. Por tramite de documentos escolares de otros Estados $278.00 (DOSCIENTOS SETENTA Y OCHO PESOS 00/100 M.N.).
+
+XXVIII. Por expedición de nuevo acuerdo por cambio de domicilio, cambio de titular y/o reestructuración de plan y programa de estudios $1,399.00 (UN MIL TRESCIENTOS NOVENTA Y NUEVE PESOS 00/100 M.N.).
+
+XXIX. Por nuevo reconocimiento de validez oficial de estudios a planes y programas de escuelas particulares incorporadas $1,399.00 (UN MIL TRESCIENTOS NOVENTA Y NUEVE PESOS 00/100 M.N.).
+
+XXX. Por duplicado de acuerdo de incorporación $278.00 (DOSCIENTOS SETENTA Y OCHO PESOS 00/100 M.N.)
+
+XXXI. DEROGADA
+
+XXXII. Por constancia de estudio y certificación parcial de estudios $143.00 (CIENTO CUARENTA Y TRES PESOS 00/100 M.N.).
+
+XXXIII. Preparatoria abierta.
+
+1. Inscripción semestral $136.00 (CIENTO TREINTA Y SEIS PESOS 00/100 M.N.).
+
+2. Credencial $104.00 (CIENTO CUATRO PESOS 00/100 M.N.).
+
+3. Evaluación $68.00 (SESENTA Y OCHO PESOS 00/100 M.N.).
+
+4. Certificado $659.00 (SEISCIENTOS CINCUENTA Y NUEVE PESOS 00/100 M.N.).
+
+5. Constancias $167.00 (CIENTO SESENTA Y SIETE PESOS 00/100 M.N.).
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 143], P.O. 31 DE DICIEMBRE DE 2019)
+
+SUJETO
+
+###### ARTICULO 128.
+
+Son sujetos de este derecho, las personas que soliciten los servicios que se establecen en el artículo que antecede.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 144], P.O. 31 DE DICIEMBRE DE 2019)
+
+PAGO
+
+###### ARTICULO 129.
+
+El pago de los derechos a que se refiere este Capítulo, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+
+### CAPITULO OCTAVO. POR SERVICIOS DE LA SECRETARIA DE FISCALIZACION Y RENDICION DE CUENTAS
+
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012) (REUBICADO [N. DE E. ANTES ARTÍCULO 148], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 130.
+
+Los servicios que presta la Secretaría de Medio Ambiente, causarán derechos conforme a la siguiente:
+
+TARIFA
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+I. Por recepción, evaluación y expedición de la autorización del Generador de Residuos de Manejo Especial, $4,725.00 (CUATRO MIL SETECIENTOS VEINTICINCO PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+II. Por la recepción, evaluación y expedición de la autorización bianual como Transportista de Residuos de Manejo Especial $9,000.00 (NUEVE MIL PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+III. Por expedición de la revalidación bianual de la autorización como Transportista de Residuos de Manejo Especial $3,600.00 (TRES MIL SEISCIENTOS PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+IV. Por la recepción, evaluación y expedición de la Licencia de Funcionamiento en Materia de Atmósfera $6,292.00 (SEIS MIL DOSCIENTOS NOVENTA Y DOS PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+V. Por la recepción, evaluación y expedición de la actualización de la Licencia de Funcionamiento en Materia de Atmósfera $3,149.00 (TRES MIL CIENTO CUARENTA Y NUEVE PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VI. Por la evaluación y resolución de la Manifestación de Impacto Ambiental $8,197.00 (OCHO MIL CIENTO NOVENTA Y SIETE PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VII. Por la evaluación y resolución del Informe Preventivo de Impacto Ambiental $5,481.00 (CINCO MIL CUATROCIENTOS OCHENTA Y UN PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VIII. Por inscripción en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de impacto ambiental, $2,796.00 (DOS MIL SETECIENTOS NOVENTA Y SEIS PESOS 00/100 M.N.)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+IX. Por refrendo anual en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de impacto ambiental, $1,399.00 (UN MIL TRESCIENTOS NOVENTA Y NUEVE PESOS 00/100 M.N.)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+X. Por inscripción en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de residuos de manejo especial, $4,000.00 (CUATRO MIL PESOS 00/100 M.N.), con vigencia bianual.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XI. Por refrendo bianual en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de residuos de manejo especial, $2,000.00 (DOS MIL PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XII. Por trámite bianual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de sitio de acopio y/o almacenamiento de residuos de manejo especial, $10,000.00 (DIEZ MIL PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XIII. Por revalidación bianual de la autorización de sitio de acopio y/o almacenamiento de residuos de manejo especial $6,000.00 (SEIS MIL PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XIV. Por trámite bianual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de sitio de tratamiento y/o coprocesamiento de residuos de manejo especial, $6,000.00 (SEIS MIL PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XV. Por trámite bianual de revalidación de la autorización de sitio de tratamiento y/o coprocesamiento de residuos de manejo especial, $4,000.00 (CUATRO MIL PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XVI. Por trámite bianual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de reciclado de residuos de manejo especial $3,000.00 (TRES MIL PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XVII. Por trámite bianual años (sic) de revalidación de la autorización de reciclado de residuos de manejo especial, $2,000.00 (DOS MIL PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XVIII. Por trámite bianual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de sitio de disposición final de residuos de manejo especial, $20,000.00 (VEINTE MIL PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XIX. Por trámite bianual de revalidación de la autorización de sitio de disposición final de residuos de manejo especial, $10,000.00 (DIEZ MIL PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XX. Autorización de quema a cielo abierto en bienes y fuentes de jurisdicción estatal, $698.00 (SEISCIENTOS NOVENTA Y OCHO PESOS 00/100 M.N.)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXI. Recepción, evaluación y otorgamiento de la resolución de autorización del estudio de riesgo, $4,196.00 (CUATRO MIL CIENTO NOVENTA Y SEIS PESOS 00/100 M.N.)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXII. Recepción, evaluación y resolución de la solicitud de permiso de funcionamiento temporal de fuente emisora estacionaria estatal, $6,992.00 (SEIS MIL NOVECIENTOS NOVENTA Y DOS PESOS 00/100 M.N.)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXIII. Recepción, revisión y evaluación de cedulas de operación anual, $400.00 (CUATROCIENTOS PESOS 00/100 M.N.).
+
+XXIV. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
+
+XXV. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXVI. Por los servicios de laboratorio del Banco de Germoplasma, costo por muestra de humedad, $41.00 (CUARENTA Y UN PESOS 00/100 M.N.)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXVII. Por el servicio de una muestra de pureza, $169.00 (CIENTO SESENTA Y NUEVE PESOS 00/100 M.N.)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXVIII. Muestra de viabilidad, $288.00 (DOSCIENTOS OCHENTA Y OCHO PESOS 00/100 M.N.)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXIX. Muestra de germinación, $229.00 (DOSCIENTOS VEITINUEVE (SIC) PESOS 00/100 M.N.)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXX. Por autorización de Depósitos o Corralones para llevar a cabo el manejo de vehículos al final de su vida útil, $8,165.00 (OCHO MIL CIENTO SESENTA Y CINCO PESOS 00/100 M.N.), por dos años.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXXI. Por autorización de Centros Autorizados de Recepción para llevar a cabo el manejo de vehículos al final de su vida útil, $12,247.00 (DOCE MIL DOSCIENTOS CUARENTA Y SIETE PESOS 00/100 M.N), por dos años.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXXII. Por registro de organizaciones vinculadas con la conservación y aprovechamiento sustentable de la vida silvestre, $692.00 (SEISCIENTOS NOVENTA Y DOS PESOS 00/100 M.N.).
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXXIII. Por la elaboración de tasa de aprovechamiento, $1,000.00 (UN MIL PESOS 00/100 M.N.).
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXXIV. Por registro de mascota de vida silvestre $500.00 (QUINIENTOS PESOS 00/100 M.N.), por mascota.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXXV. Por el refrendo bianual de Depósito o Corralones para llevar a cabo el manejo de vehículos al final de su vida útil, $3,500.00 (TRES MIL QUINIENTOS PESOS 00/100 M.N.).
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXXVI. Por el refrendo bianual de Centros Autorizados de Recepción para llevar a cabo el manejo de Vehículos al final de su vida útil $5,500.00 (CINCO MIL QUINIENTOS (SIC) 00/100 M.N.).
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 146], P.O. 31 DE DICIEMBRE DE 2019)
+
+SUJETO
+
+###### ARTICULO 131.
+
+Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios mencionados en el artículo anterior.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 147], P.O. 31 DE DICIEMBRE DE 2019)
+
+PAGO
+
+###### ARTICULO 132.
+
+El pago de los derechos a que se refiere este capítulo deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+### CAPITULO NOVENO. POR SERVICIOS DE LA SECRETARIA DE ECONOMÍA
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 152], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+OBJETO
+
+###### ARTICULO 133.
+
+Por el servicio de verificación, evaluación y supervisión que las leyes de la materia encomiendan a la Secretaría de la Fiscalización y Rendición de Cuentas en la ejecución de obra pública, los contratistas con quienes se celebren contratos de obra pública directa del Estado y de servicios relacionados con la misma, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de obra que presenten o sobre el importe del contrato.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 149], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 134.
+
+Por otros servicios:
+
+I. Por la expedición de certificados de no existencia de registros de inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público $266.00 (DOSCIENTOS SESENTA Y SEIS PESOS 00/100 M.N.);
+
+II. Por la expedición de certificado de aptitud para ser proveedor, contratista o prestador de servicios del Gobierno del Estado, por cada uno de ellos $4,016.00 (CUATRO MIL DIECISÉIS PESOS 00/100 M.N.);
+
+III. Por inscripción en el padrón de proveedores, $4,016.00 (CUATRO MIL DIECISÉIS PESOS 00/100 M.N.) y
+
+IV. Por la expedición de copias certificadas $54.00 (CINCUENTA Y CUATRO PESOS 00/100 M.N.), por la primera hoja; $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 150], P.O. 31 DE DICIEMBRE DE 2019)
+
+SUJETO
+
+###### ARTICULO 135.
+
+Son sujetos de este derecho, las personas que soliciten los servicios que establece este Capítulo.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 151], P.O. 31 DE DICIEMBRE DE 2019)
+
+PAGO
+
+###### ARTICULO 136.
+
+La oficina pagadora de la dependencia correspondiente del Gobierno del Estado, al hacer el pago parcial o total de las obras o servicios, retendrá el importe de los derechos a que se refiere el artículo 148 de esta ley.
+
+El pago de los derechos por los servicios a que se refiere el artículo 149 de esta Ley, deberá efectuarse en las instituciones de crédito o establecimientos autorizados, previamente a la prestación del servicio.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+### CAPITULO DECIMO. POR SERVICIOS DE LA SECRETARÍA DE SEGUIRIDAD (SIC) PÚBLICA
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 137.
+
+El objeto de este derecho es por los procesos de mejora, beneficio, lavado, homogenización, traslado, comercialización, capacitación y asistencia técnica, que se lleven a cabo a los productos mineros a fin de elevar su calidad y tener una mejor oportunidad del mercado, que presta la Secretaría de Economía.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 153], P.O. 31 DE DICIEMBRE DE 2019)
+
+SUJETOS
+
+###### ARTICULO 138.
+
+Son sujetos a este derecho las personas físicas y morales, explotadores tratadores y comercializadores de minerales sólidos, líquidos y/o gaseosos del suelo y subsuelo público y privado del Estado de Coahuila de Zaragoza, que requieran del servicio.
+
+###### ARTICULO 138-A.
+
+[N. DE E. EL ESTE ARTÍCULO PASÓ A SER EL ARTÍCULO 61, P.O. 31 DE DICIEMBRE DE 2019]
+
+###### ARTICULO 138-B.
+
+[N. DE E. EL ESTE ARTÍCULO PASÓ A SER EL ARTÍCULO 62, P.O. 31 DE DICIEMBRE DE 2019]
+
+###### ARTICULO 138-C.
+
+[N. DE E. EL ESTE ARTÍCULO PASÓ A SER EL ARTÍCULO 63, P.O. 31 DE DICIEMBRE DE 2019]
 
 ###### ARTICULO 138-D.
 
@@ -2053,203 +2985,37 @@ El pago de los derechos a que se refiere este Capítulo deberá efectuarse en la
 
 (DEROGADO, P.O. 17 DE MARZO DE 2017)
 
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
+(REUBICADO [N. DE E. ANTES ARTÍCULO 154], P.O. 31 DE DICIEMBRE DE 2019)
 
-#### SECCION CUARTA. POR OTROS SERVICIOS
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+BASE
 
 ###### ARTICULO 139.
 
-Los otros servicios prestados por la (sic) de Infraestructura, Desarrollo Urbano y Movilidad, causarán derechos conforme a la siguiente:
+La base para este derecho será la tonelada o equivalencia de mineral beneficiado.
 
-TARIFA
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-I. Concesiones de ruta para explotar el servicio de transporte de pasajeros en vías públicas del Estado:
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-1. Expedición, por 30 años derivada de licitación, $30,000.00 (TREINTA MIL PESOS 00/100 M.N.); y
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-2. Renovación de concesión (prórroga de concesión por 30 años) $30,000.00 (TREINTA MIL PESOS 00/100 M.N.)
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-3. Refrendo anual, $2,772.00 (DOS MIL SETECIENTOS SETENTA Y DOS PESOS 00/100 M.N.).
-
-> <small>(REFORMADA CON SUS NUMERALES, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-II. Concesión intermunicipal de transporte de pasajeros, hasta por treinta años:
-
-1. Expedición, por 30 años derivada de licitación, $30,000.00 (TREINTA MIL PESOS 00/100 M.N.); y
-
-2. Renovación de concesión (prórroga de concesión por 30 años) $30,000.00 (TREINTA MIL PESOS 00/100 M.N.)
-
-3. Refrendo anual, $2,772.00 (DOS MIL SETECIENTOS SETENTA Y DOS PESOS 00/100 M.N.).
-
-> <small>(REFORMADA CON SUS NUMERALES, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-III. Concesión estatal para servicio de transporte de agua:
-
-1. Expedición, por 30 años, $16,000.00 (DIECISEIS MIL PESOS 00/100 M.N.); y
-
-2. Renovación de concesión (prórroga de concesión por 30 años) $16,000.00 (DIECISEIS MIL PESOS 00/100 M.N.)
-
-3. Refrendo anual de concesión, $1,500.00 (MIL QUINIENTOS PESOS 00/100 M.N.).
-
-> <small>(REFORMADA CON SUS NUMERALES, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-IV. Permiso con vigencia de cinco años para servicio de transporte especializado escolar:
-
-1. Expedición, $2,908.00 (DOS MIL NOVECIENTOS OCHO PESOS 00/100 M.N.);
-
-2. Refrendo $920.00 (NOVECIENTOS VEINTE PESOS 00/100 M.N.); y
-
-> <small>(REFORMADA CON SUS NUMERALES, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-V. Permiso con vigencia de cinco años para servicio de transporte especializado para trabajadores (TRANSPORTE DE PERSONAL)
-
-1. Expedición, $5,000.00 (CINCO MIL PESOS 00/100 M.N.);
-
-2. Refrendo $1,500.00 (MIL QUINIENTOS PESOS 00/100 M.N.); y
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2017)</small>
-
-VI. Permiso con vigencia de 5 años para el servicio de transporte de personal propio.
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
-
-1.- Expedición, $1,800.00 (MIL OCHOCIENTOS PESOS M/N).
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
-
-2.- Refrendo anual $900.00 (NOVECIENTOS PESOS M/N).
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-VII. Permiso anual para transporte de carga especializada de materiales o residuos peligrosos, $2,176.00 (DOS MIL CIENTO SETENTA Y SEIS PESOS 00/100 M.N.);
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-VIII. Permiso anual para servicio de transporte de carga:
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-1. De comestibles, $1,025.00 (MIL VEINTICINCO PESOS 00/100 M.N);
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-2. De minerales, $2,594.00 (DOS MIL QUINIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.);
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-3. Distribuidores de materiales de construcción, $2,642.00 (DOS MIL SEISCIENTOS CUARENTA Y DOS PESOS 00/100 M.N.); y
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-4. Otros productos, $1,025.00 (MIL VEINTICINCO PESOS 00/100 M.N.);
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-IX. Permiso anual para grúas, $2,165.00 (DOS MIL CIENTO SESENTA Y CINCO PESOS 00/100 M.N.);
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-X. Cesión o transmisión de concesiones, $3,164.00 (TRES MIL CIENTO SESENTA Y CUATRO PESOS 00/100 M.N.);
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-XI. Autorización de nueva ruta $12,970.00 (DOCE MIL NOVECIENTOS SETENTA PESOS 00/100 M.N.);
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-XII. Ampliación de ruta del servicio de transporte de pasajeros, $6,381.00 (SEIS MIL TRESCIENTOS OCHENTA Y UN PESOS 00/100 M.N.);
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XIII. Permiso temporal hasta por treinta días naturales para prestar el servicio de transporte público, $802.00 (OCHOCIENTOS DOS PESOS 00/100 M.N.);
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XIV. Revisión físico mecánica a vehículos de servicio público, $165.00 (CIENTO SESENTA Y CINCO PESOS 00/100 M.N.);
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-XV. Verificación de emisiones de contaminantes, $105.00 (CIENTO CINCO PESOS 00/100 M.N.);
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-XVI. Constancia de extravío de documentos $136.00 (CIENTO TREINTA Y SEIS PESOS 00/100 M.N.); y
-
-XVII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
-
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
-
-XVIII. Derecho de preferencia por parcela, $567.39 (QUINIENTOS SESENTA Y SIETE PESOS 39/100 M.N.).
-
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
-
-XIX. Registro de Director responsable de obra y Corresponsable de obra por tres años, $1,702.17 (MIL SETECIENTOS DOS PESOS 17/100 M.N.).
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XX. Registro con vigencia de 5 años para el funcionamiento de las empresas de redes de transporte, servicio entre particulares $27,000.00 (VEINTISIETE MIL 00/100 M.N.).
-
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
-
-XXI. Permiso anual para el transporte turístico $5,500.00 (CINCO MIL QUINIENTOS PESOS M/N)
-
-> <small>(ADICIONADA [N. DE E. CON SUS NUMERALES], P.O. 19 DE DICIEMBRE DE 2017)</small>
-
-XXII. Permiso con vigencia de 5 años para el transporte de personas con discapacidad:
-
-1. Expedición, $2,900.00 (DOS MIL NOVECIENTOS PESOS M/N)
-
-2. Refrendo anual $1,800.00 (MIL OCHOCIENTOS PESOS M/N))
-
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
-
-XXIII. Permiso anual para ambulancias $1,200.00 (MIL DOCIENTOS (SIC) PESOS M/N)
-
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
-
-XXIV. Permiso anual para el transporte ejecutivo $1,800.00 (MIL OCHOCIENTOS PESOS M/N)
-
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
-
-XXV. Permiso anual para el transporte mixto y de pasaje $1,100.00 (MIL CIEN PESOS M/N)
-
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
-
-XXVI. Permiso anual para el transporte de carga de agua potable $1,725.00 (MIL SETECIENTOS VEINTICINCO PESOS M/N)
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XXVII. Registro de los vehículos adheridos a las empresas de redes de transporte para el servicio entre particulares $8,900.00 (OCHO MIL NOVECIENTOS PESOS 00/100 M.N.), por vehículo, con vigencia de 5 años.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XXVIII. Permiso anual o por campaña publicitaria para la colocación de anuncios publicitarios en vehículos del servicio público de transporte de competencia estatal, $3,000.00 (TRES MIL PESOS 00/100 M.N.).
-
-SUJETO
+(REUBICADO [N. DE E. ANTES ARTÍCULO 155], P.O. 31 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 140.
 
-Son sujetos de este derecho, las personas físicas o morales que soliciten los servicios mencionados en el artículo anterior.
+Los derechos a que se refiere este capítulo se causarán conforme a la siguiente:
 
-Son solidariamente responsables del pago de este derecho los constructores y contratistas que realicen obras relativas al objeto de este derecho.
+TARIFA
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+I. $53.00 (CINCUENTA Y TRES PESOS 00/100 M.N.) del precio comercial de la tonelada del mineral beneficiado cuando sea mejorado, lavado, homogenizado, o trasladado.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+II. La Secretaría de Economía, podrá prestar servicios para la capacitación y la comercialización a los productores mineros del Estado y prestarles asistencia técnica. Los derechos por este concepto se determinarán en el convenio que se celebre con los productores.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 156], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+PAGO
 
 ###### ARTICULO 141.
 
-El pago de los derechos a que se refiere esta Sección, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE MARZO DE 2017)</small>
+El pago de los derechos a que se refiere el artículo 140, se realizará en las Instituciones de Crédito o establecimientos autorizados por la Secretaría de Finanzas.
 
 ###### ARTICULO 141-A.
 
@@ -2263,133 +3029,69 @@ El pago de los derechos a que se refiere esta Sección, deberá efectuarse en la
 
 (DEROGADO, P.O. 17 DE MARZO DE 2017)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-### CAPITULO OCTAVO. POR SERVICIOS DE LA SECRETARIA DE FISCALIZACION Y RENDICION DE CUENTAS
+### CAPITULO DECIMO PRIMERO. POR SERVICIOS PRESTADOS POR LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA CENTRALIZADA RELATIVAS AL DERECHO DE ACCESO A LA INFORMACION PUBLICA
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+(REUBICADO [N. DE E. ANTES ARTÍCULO 159], P.O. 31 DE DICIEMBRE DE 2019)
+
+OBJETO
 
 ###### ARTICULO 142.
 
-Los servicios que presta la Secretaría de Educación causarán derechos, conforme a la siguiente:
+Los servicios prestados por la Secretaría de Seguridad Pública, causarán derechos conforme a lo siguiente:
 
-TARIFA
+I. Certificados de no antecedentes penales $119.00 (CIENTO DIECINUEVE PESOS 00/100 M.N.).
 
-I. Por registro de título y expedición de cédula profesional:
+II. Por el uso y mantenimiento de un dispositivo de monitoreo electrónico de localización a distancia, para personas que hayan sido sentenciadas dentro de un proceso penal y que se hagan acreedores a dicha medida de seguridad $5,984.00 (CINCO MIL NOVECIENTOS OCHENYA (SIC) Y CUATRO PESOS 00/100 M.N.), mensuales.
 
-1. De nivel técnico medio $750.00 (SETECIENTOS CINCUENTA PESOS 00/100 M.N.)
+III. Por la aplicación de exámenes de control de confianza $7,180.00 (SIETE MIL CIENTO OCHENTA PESOS 00/100 M.N.).
 
-2. De nivel técnico superior, universitario o profesional asociado $800.00 (OCHOCIENTOS PESOS 00/100 M.N.)
+IV. Servicios prestados por la Dirección General de Registro y Control de Seguridad Privada:
 
-3. De nivel licenciatura $800.00 (OCHOCIENTOS PESOS 00/100 M.N.); y
+a) Autorización para la prestación del servicio de seguridad privada en el Estado, $3,380.00 (TRES MIL TRESCIENTOS OCHENTA PESOS 00/100 M.N.).
 
-4. De nivel posgrado $1,150.00 (MIL CIENTO CINCUENTA PESOS 00/100 M.N.);
+b) Revalidación anual para la prestación del servicio de seguridad privada en el Estado, $2,535.00 (DOS MIL QUINIENTOS TREITA (SIC) Y CINCO PESOS 00/100 M.N.).
 
-II. Duplicado de cédula profesional $200.00 (DOSCIENTOS PESOS 00/100 M.N.);
+c) Estudio de factibilidad, relativo al manejo del expediente y cumplimiento de los requisitos legales, $2,112.00 (DOS MIL CIENTO DOCE PESOS 00/100 M.N.).
 
-III. Constancia de registro de título y no sanción $250.00 (DOSCIENTOS CINCUENTA PESOS 00/100 M.N.);
+d) Se pagará adicionalmente por modalidad a servicios a realizar, conforme a lo siguiente:
 
-IV. Constancia de registro de título y expedición de cédula profesional en trámite $100.00 (CIEN PESOS 00/100 M.N,);
+e) Seguridad privada a personas, $16,898.00 (DIECISÉIS MIL OCHOCIENTOS OCHENTA (SIC) Y OCHO PESOS 00/100 M.N.).
 
-V. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2013)
+f) Seguridad privada intramuros, $12,673.00 (DOCE MIL SEISCIENTOS SETENTA Y TRES PESOS 00/100 M.N.).
 
-VI. Registro de institución educativa $6,000.00 (SEIS MIL PESOS 00/100 M.N.):
+g) Seguridad privada en los bienes, $16,898.00 (DIECISÉIS MIL OCHOCIENTOS OCHENTA (SIC) Y OCHO PESOS 00/100 M.N.).
 
-VII. Adición de carrera y/o estudios de posgrado $600.00 (SEISCIENTOS PESOS 00/100 M.N.);
+h) Seguirdad (sic) privada en el traslado de bienes o valores, $25,347.00 (VEINTICINCO MIL TRESCIENTOS CUARENTA Y SIETE PESOS 00/100 M.N.).
 
-VIII. Cambio de nomenclatura de carrera y/o estudios de posgrado, $600.00 (SEISCIENTOS PESOS 00/100 M.N.);
+i) Seguridad por medio de canes, $8,449.00 (OCHO MIL CUATROCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.).
 
-IX. Cambio de nomenclatura de institución educativa $600.00 (SEISCIENTOS PESOS 00/100 M.N.);
+j) Servicio de alarmas y monitoreo electrónico, $8,449.00 (OCHO MIL CUATROCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.).
 
-X. Registro de título, diploma de especialidad o grado académico que procedan de otro estado $1,150.00 (MIL CIENTO CINCUENTA PESOS 00/100 M.N.);
+k) Servicio de alarmas por medio de aeronaves no tripuladas, $8,449.00 (OCHO MIL CUATROCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.).
 
-XI. Legalización de firmas de documentos académicos, $190.00 (CIENTO NOVENTA PESOS 00/100 M.N.) por firma;
+l) Seguridad de la Información, $12,673.00 (DOCE MIL SEISCIENTOS SETENTA Y TRES PESOS 00/100 M.N.).
 
-XII. Por autorización de incorporación de planteles de educación básica y educación inicial $21,000.00 (VEINTIUN MIL PESOS 00/100 M.N.);
+m) Sistemas de prevención y responsabilidades, $8,449.00 (OCHO MIL CUATROCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.).
 
-XIII. Reconocimiento de validez oficial de estudios a planteles de educación media superior y formación para el trabajo $23,000.00 (VEINTITRES MIL PESOS 00/100 M.N.);
+n) Actividad vinculada con servicios de blindaje y equipo, $25,347.00 (VEINTICINCO MIL TRESCIENTOS CUARENTA Y SIETE PESOS 00/100 M.N.).
 
-XIV. Reconocimiento de validez oficial de estudios a planteles de educación superior $25,000.00 (VEINTICINCO MIL PESOS 00/100 M.N.);
+o) Actividad vinculada con servicios de seguridad privada, $8,449.00 (OCHO MIL CUATROCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.).
 
-XV. Por trámite de autorización para la incorporación de planteles de educación básica e inicial $2,500.00 (DOS MIL QUINIENTOS PESOS 00/100 M.N.);
-
-XVI. Por trámite de reconocimiento de validez oficial de estudios de educación media superior y formación para el trabajo $3,000.00 (TRES MIL PESOS 00/100 M.N.);
-
-XVII. Por trámite de reconocimiento de validez oficial de estudios de educación superior $3,500.00 (TRES MIL QUINIENTOS PESOS 00/100 M.N.);
-
-XVIII. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2013)
-
-XIX. Por autorización de examen a título de suficiencia de educación media y superior $300.00 (TRESCIENTOS PESOS 00/100 M.N.) por alumno;
-
-XX. Por equivalencia de estudios de nivel medio y superior $1,000.00 (MIL PESOS 00/100 M.N.) por alumno; y
-
-XXI. Por revalidación de estudios cursados en el extranjero:
-
-1. De primaria $1,500.00 (MIL QUINIENTOS PESOS 00/100 M.N.) por alumno;
-
-2. De secundaria cursada en el extranjero $2,000.00 (DOS MIL PESOS 00/100 M.N.) por alumno;
-
-3. De educación media superior y superior cursada en el extranjero $3,000.00 (TRES MIL PESOS 00/100 M.N.) por alumno;
-
-XXII. Expedición de certificado de terminación de estudios de escuelas particulares incorporadas:
-
-1. De nivel preescolar $20.00 (VEINTE PESOS 00/100 M.N.) por alumno;
-
-2. De nivel primaria $50.00 (CINCUENTA PESOS 00/100 M.N.) por alumno; y
-
-3. De nivel secundaria $100.00 (CIEN PESOS 00/100 M.N.) por alumno.
-
-XXIII. Expedición de certificado de terminación de estudios de bachillerato general y nivel técnico $400.00 (CUATROCIENTOS PESOS 00/100 M.N.) por alumno.
-
-XXIV. Por registro de Colegios de Profesionistas $5,600.00 (CINCO MIL SEISCIENTOS PESOS 00/100 M.N.);
-
-XXV. Por encomienda al Registro del Colegio de Profesionistas:
-
-1. Por cambio de nomenclatura del Colegio $650.00 (SEISCIENTOS CINCUENTA PESOS 00/100 M.N.);
-
-2. Por cambios en nómina de socios $160.00 (CIENTO SESENTA PESOS 00/100 M.N.);
-
-XXVI. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2013)
-
-XXVII. Por tramite de documentos escolares de otros Estados $200.00 (DOSCIENTOS PESOS 00/100 M.N.).
-
-XXVIII. Por expedición de nuevo acuerdo por cambio de domicilio, cambio de titular y/o reestructuración de plan y programa de estudios $1,000.00 (MIL PESOS 00/100 M.N.).
-
-XXIX. Por nuevo reconocimiento de validez oficial de estudios a planes y programas de escuelas particulares incorporadas $1,000.00 (MIL PESOS 00/100 M.N.).
-
-XXX. Por duplicado de acuerdo de incorporación $200.00 (DOSCIENTOS PESOS 00/100 M.N.)
-
-XXXI. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2016)
-
-XXXII. Por constancia de estudio y certificación parcial de estudios $100.00 (CIEN PESOS 00/100 M.N.).
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XXXIII. Preparatoria abierta.
-
-1. Inscripción $130.00 (CIENTO TREINTA PESOS 00/100 M.N.).
-
-1 (SIC). Credencial $100.00 (CIEN PESOS 00/100 M.N.).
-
-2. Evaluación $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.).
-
-3. Certificado $630.00 (SEISCIENTOS TREINTA PESOS 00/100 M.N.).
-
-4. Constancias $160.00 (CIENTO SESENTA PESOS 00/100 M.N.).
-
-SUJETO
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 143.
 
-Son sujetos de este derecho, las personas que soliciten los servicios que se establecen en el artículo que antecede.
+Son sujetos de los derechos descritos en el presente Capítulo, las personas físicas o las personas morales que soliciten los servicios antes descritos.
 
-PAGO
+> <small>(ADICIONADO [N. DE E. REFORMADO ANTES ARTÍCULO 158], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 144.
 
-El pago de los derechos a que se refiere este Capítulo, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+El pago de estos derechos deberá efectuarse en las instituciones de crédito o establecimientos autorizados, conforme a las tasas y tarifas que se establecen en la presente ley, previamente a la prestación del servicio.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2012)</small>
+Los pagos realizados previamente a la prestación del servicio, se considerarán como pagos provisionales. Hasta que dicho servicio sea autorizado o revalidado, se considerarán como pagos definitivos.
 
 ###### ARTICULO 144-A.
 
@@ -2407,187 +3109,151 @@ El pago de los derechos a que se refiere este Capítulo, deberá efectuarse en l
 
 (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-### CAPITULO NOVENO. POR LOS SERVICIOS DE LA SECRETARIA DE DESARROLLO ECONOMICO
+### CAPITULO DÉCIMO SEGUNDO. POR SERVICIOS DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-OBJETO
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018) (REUBICADO [N. DE E. ANTES ARTÍCULO 164], P.O. 31 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 145.
 
-Los servicios que presta la Secretaría de Medio Ambiente, causarán derechos conforme a la siguiente:
+Es objeto de este derecho, los servicios que prestan las dependencias de la Administración Pública Centralizada a que se refiere el artículo 17 de la Ley Orgánica para la Administración Pública del Estado de Coahuila de Zaragoza, por los documentos físicos o que en medios magnéticos les sean solicitados en materia del derecho de acceso a la información pública.
 
-TARIFA
-
-I. Por recepción, evaluación y expedición de la autorización del Generador de Residuos $3,380.00 (TRES MIL TRESCIENTOS OCHENTA PESOS 00/100 MN.).
-
-II. Por la recepción, evaluación y expedición de la autorización como Transportista de Residuos Especiales $4,500.00 (CUATRO MIL QUINIENTOS PESOS 00/100M.N.).
-
-III. Por expedición de la revalidación anual de la autorización como Transportista de Residuos Especiales $1,800.00 (MIL OCHOCIENTOS PESOS 00/100 M.N.).
-
-IV. Por la recepción, evaluación y expedición de la Licencia de Funcionamiento en Materia de Atmósfera $4,500.00 (CUATRO MIL QUINIENTOS PESOS 00/100 M.N.).
-
-V. Por expedición de la revalidación anual de la Licencia de Funcionamiento en Materia de Atmósfera $2,250.00 (DOS MIL DOSCIENTOS CINCUENTA PESOS 00/100 M.N.)
-
-VI. Por la evaluación de la Manifestación de Impacto Ambiental $5,630.00 (CINCO MIL SEISCIENTOS TREINTA PESOS 00/100 M.N.).
-
-VII. Por la determinación del Informe Preventivo de Impacto Ambiental $3,920.00 (TRES MIL NOVECIENTOS VEINTE PESOS 00/100 M.N.)
-
-VIII. Por inscripción en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de impacto ambiental, $2,000.00 (DOS MIL PESOS 00/100 M.N.)
-
-IX. Por refrendo anual en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de impacto ambiental, $1,000.00 (MIL PESOS 00/100 M.N.)
-
-X. Por inscripción en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de residuos de manejo especial, $2,000.00 (DOS MIL PESOS 00/100 M.N.)
-
-XI. Por refrendo anual en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de residuos de manejo especial, $1,000.00 (MIL PESOS 00/100 M.N.)
-
-XII. Por trámite anual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de sitio de acopio y/o almacenamiento de residuos de manejo especial, $5,000.00 (CINCO MIL PESOS 00/100 M.N.)
-
-XIII. Por revalidación anual de la autorización de sitio de acopio y/o almacenamiento de residuos de manejo especial $3,000.00 (TRES MIL PESOS 00/100 M.N.)
-
-XIV. Por trámite anual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de sitio de tratamiento y/o coprocesamiento de residuos de manejo especial, $3,000.00 (TRES MIL PESOS 00/100 M.N.)
-
-XV. Por trámite anual de revalidación de la autorización de sitio de tratamiento y/o coprocesamiento de residuos de manejo especial, $2,000.00 (DOS MIL PESOS 00/100 M.N.)
-
-XVI. Por trámite cada dos años de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de reciclado de residuos de manejo especial $3,000.00 (TRES MIL PESOS 00/100 M.N.)
-
-XVII. Por trámite cada dos años de revalidación de la autorización de reciclado de residuos de manejo especial, $2,000.00 (DOS MIL PESOS 00/100 M.N.)
-
-XVIII. Por trámite anual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de sitio de disposición final de residuos de manejo especial, $10,000.00 (DIEZ MIL PESOS 00/100 M.N.)
-
-XIX. Por trámite anual de revalidación de la autorización de sitio de disposición final de residuos de manejo especial, $5,000.00 (CINCO MIL PESOS 00/100 M.N.)
-
-XX. Autorización de quema a cielo abierto en bienes y fuentes de jurisdicción estatal, $500.00 (QUINIENTOS PESOS 00/100 M.N.)
-
-XXI. Recepción, evaluación y otorgamiento de la resolución de autorización del estudio de riesgo, $3,000.00 (TRES MIL PESOS 00/100 M.N.)
-
-XXII. Recepción, evaluación y resolución de la solicitud de permiso de funcionamiento temporal de fuente emisora estacionaria estatal, $5,000.00 (CINCO MIL PESOS 00/100 M.N.)
-
-XXIII. Recepción de cedulas de operación anual, $200.00 (DOSCIENTOS PESOS 00/100 M.N.)
-
-XXIV. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
-
-XXV. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-XXVI. Por los servicios de laboratorio del Banco de Germoplasma, costo por muestra de humedad, $30.50 (TREINTA PESOS con CINCUENTA CENTAVOS 00/100 M.N.)
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-XXVII. Por el servicio de una muestra de pureza, $126.00 (CIENTO VEINTISÉIS PESOS 00/100 M.N.)
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-XXVIII. Muestra de viabilidad, $215.00 (DOSCIENTOS QUINCE PESOS 00/100 M.N.)
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-XXIX. Muestra de germinación, $167.00 (CIENTO SESENTA Y SIETE PESOS 00/100 M.N.)
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XXX. Por autorización de Depósitos o Corralones para llevar a cabo el manejo de vehículos al final de su vida útil, $7,813.00 (SIETE MIL OCHOCIENTOS TRECE PESOS 00/100 M.N.), por dos años.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XXXI. Por autorización de Centros Autorizados de Recepción para llevar a cabo el manejo de vehículos al final de su vida útil, $11,720.00 (ONCE MIL SETECIENTOS VEINTE PESOS 00/100 M.N), por dos años.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 160], P.O. 31 DE DICIEMBRE DE 2019)
 
 SUJETO
 
 ###### ARTICULO 146.
 
-Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios mencionados en el artículo anterior.
+Son sujetos de este derecho las personas físicas y morales que soliciten los servicios a que se refiere el artículo anterior.
 
-PAGO
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 161], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 147.
 
-El pago de los derechos a que se refiere este capítulo deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-###### ARTICULO 148.
-
-Por el servicio de verificación, evaluación y supervisión que las leyes de la materia encomiendan a la Secretaría de la Fiscalización y Rendición de Cuentas en la ejecución de obra pública, los contratistas con quienes se celebren contratos de obra pública directa del Estado y de servicios relacionados con la misma, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de obra que presenten o sobre el importe del contrato.
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
-
-###### ARTICULO 149.
-
-Por otros servicios:
-
-I. Por la expedición de certificados de no existencia de registros de inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público $200.00 (DOSCIENTOS PESOS 00/100 M.N.);
-
-II. Por la expedición de certificado de aptitud para ser proveedor, contratista o prestador de servicios del Gobierno del Estado, por cada uno de ellos $3,000.00 (TRES MIL PESOS 00/100 M.N.);
-
-III. Por inscripción en el padrón de proveedores, $3,000.00 (TRES MIL PESOS 00/100 M.N.) y
-
-IV. Por la expedición de copias certificadas $40.00 (CUARENTA PESOS 00/100 M.N.), por la primera hoja; $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
-
-SUJETO
-
-### CAPITULO DECIMO. POR SERVICIOS DE LA FISCALÍA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
-
-OBJETO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2017)</small>
-
-###### ARTICULO 150.
-
-Son sujetos de este derecho, las personas que soliciten los servicios que establece este Capítulo.
-
-PAGO
-
-###### ARTICULO 151.
-
-La oficina pagadora de la dependencia correspondiente del Gobierno del Estado, al hacer el pago parcial o total de las obras o servicios, retendrá el importe de los derechos a que se refiere el artículo 148 de esta ley.
-
-El pago de los derechos por los servicios a que se refiere el artículo 149 de esta Ley, deberá efectuarse en las instituciones de crédito o establecimientos autorizados, previamente a la prestación del servicio.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-###### ARTICULO 152.
-
-El objeto de este derecho es por los procesos de mejora, beneficio, lavado, homogenización, traslado, comercialización, capacitación y asistencia técnica, que se lleven a cabo a los productos mineros a fin de elevar su calidad y tener una mejor oportunidad del mercado, que presta la Secretaría de Desarrollo Económico.
-
-SUJETOS
-
-###### ARTICULO 153.
-
-Son sujetos a este derecho las personas físicas y morales, explotadores tratadores y comercializadores de minerales sólidos, líquidos y/o gaseosos del suelo y subsuelo público y privado del Estado de Coahuila de Zaragoza, que requieran del servicio.
-
-BASE
-
-### CAPITULO DECIMO PRIMERO. POR SERVICIOS PRESTADOS POR LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA CENTRALIZADA RELATIVAS AL DERECHO DE ACCESO A LA INFORMACION PUBLICA
-
-OBJETO
-
-#### SECCION CUARTA. LOS PRESTADOS POR SUS UNIDADES ADMINISTRATIVAS
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
-
-###### ARTICULO 154.
-
-La base para este derecho será la tonelada o equivalencia de mineral beneficiado.
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
-
-###### ARTICULO 155.
-
-Los derechos a que se refiere este capítulo se causarán conforme a la siguiente:
+Los servicios a que se refiere el presente Capítulo, causarán derechos conforme a la siguiente:
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2012)</small>
+I. Por la expedición de copia simple, se pagará $1.00 (UN PESO 00/100 M.N.), por hoja.
 
-I. $38.25 (TREINTA Y OCHO PESOS 25/100 M.N.) del precio comercial de la tonelada del mineral beneficiado cuando sea mejorado, lavado, homogenizado, o trasladado.
+II. Por expedición de copia certificada, se pagarán $55.00 (CINCUENTA Y CINCO PESOS 00/100 M.N.), por hoja.
 
-II. La Secretaría de Fomento Económico, podrá prestar servicios para la capacitación y la comercialización a los productores mineros del Estado y prestarles asistencia técnica. Los derechos por este concepto se determinarán en el convenio que se celebre con los productores.
+III. Por expedición de copia a color, se pagarán $41.00 (CUARENTA Y UN PESOS 00/100 M.N.), por hoja.
+
+IV. Por cada disco flexible de 3.5 pulgadas que contenga la información requerida, se pagarán $5.00 (CINCO PESOS 00/100 M.N.).
+
+V. Por cada disco compacto que contenga la información requerida, se pagarán $28.00 (VEINTISIETE (SIC) PESOS 00/100 M.N.).
+
+VI. Por expedición de copia simple de planos, se pagarán de $99.00 (NOVENTA Y NUEVE PESOS 00/100 M.N.) por metro cuadrado.
+
+VII. Por expedición de copia certificada de planos, se pagarán $53.00 (CINCUENTA Y TRES PESOS 00/100 M.N.) adicionales a la cuota que le corresponde conforme a la fracción VI de éste artículo.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 162], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 148.
+
+Las personas obligadas al pago de los derechos a que se refiere el presente Capítulo, deberán cubrir, en su caso, los gastos de envío que se generen.
+
+El envío de la información solicitada, podrá realizarse por correo simple, correo certificado con acuse de recibo o servicio de paquetería y la determinación de su costo se hará por la Dependencia correspondiente al momento de emitir la liquidación a que se refiere el artículo siguiente.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 163], P.O. 31 DE DICIEMBRE DE 2019)
 
 PAGO
+
+###### ARTICULO 149.
+
+El pago de los servicios y gastos a que se refiere este Capítulo, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio, conforme a la liquidación que expida la Dependencia que preste el servicio.)
+
+La Dependencia, al realizar la liquidación para el pago de los derechos a que se refiere éste capítulo, deberá precisar los servicios prestados, el costo de cada uno y el importe de los gastos de envío.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+### CAPITULO DECIMO TERCERO. POR SERVICIOS DE ORGANISMOS DESCENTRALIZADOS DE GOBIERNO
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES SECCIÓN SEGUNDA], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 150.
+
+Los servicios que se presten por el Poder Judicial del Estado distintos a los materialmente jurisdiccionales, en cualquiera de sus órganos.
+
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018) (REUBICADO [N. DE E. ANTES ARTÍCULO 165], P.O. 31 DE DICIEMBRE DE 2019)
+
+SUJETO
+
+###### ARTICULO 151.
+
+Son sujetos de este derecho las personas físicas y morales que soliciten los servicios a que se refiere el artículo anterior.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 166], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 152.
+
+Los servicios a que se refiere el presente Capítulo, causarán derechos conforme a la siguiente:
+
+TARIFA
+
+I. El Taller de orientación prematrimonial que imparte el Poder Judicial del Estado por conducto del Instituto Estatal de la Defensoría Pública, $209.00 (DOSCIENTOS NUEVE PESOS 00/100 M.N.) por pareja.
+
+II. Bases de licitación pública nacional para obra pública y servicios relacionados con la misma, $2,090.00 (DOS MIL NOVENTA PESOS 00/100 M.N.)
+
+III. Búsqueda de datos en el Archivo General Judicial, $52.00 (CINCUENTA Y DOS PESOS 00/100 M.N.)
+
+IV. Curso de preparación en materia de mediación, por parte del Centro de Medios Alternos de Solución de Controversias, $2,090.00 (DOS MIL NOVENTA PESOS 00/100 M.N.)
+
+V. Certificación de mediadores, $522.00 (QUINIENTOS VEINTIDÓS PESOS 00/100 M.N.)
+
+VI. Validación extemporánea de convenios de mediación privada, ante el Centro de Medios Alternos de Solución de Controversias. $522.00 (QUINIENTOS VEINTIDÓS PESOS 00/100 M.N.)
+
+VII. Certificación como mediador privado capacitado por otras instituciones, $522.00 (QUINIENTOS VEINTIDÓS PESOS 00/100 M.N.)
+
+VIII. Curso de capacitación impartido por el Instituto de Especialización Judicial a personas externas al Poder Judicial, $313.00 (TRESCIENTOS TRECE PESOS 00/100 M.N.)
+
+IX. Copia simple $2.00 (DOS PESOS 50/100 M.N.)
+
+X. Copia certificada $3.00 (TRES PESOS 00/100 M.N.)
+
+XI. Constancia de no registro en el REDAM, $104.00 (CIENTO CUATRO PESOS 00/100 M.N.).
+
+XII. CD/DVD con la grabación de audiencia en materia penal o familiar, $31.00 (TREINTA Y UN PESOS 00/100 M.N)
+
+XIII. Reposición de credencial institucional $157.00 (CIENTO CINCUENTA Y SIETE PESOS 00/100 M.N.)
+
+XIV. Validación de contenidos de capacitación en materia de Mecanismos Alternativos de Controversias $2,612.00 (DOS MIL SEISCIENTOS DOCE PESOS 00/100 M.N.)
+
+XVI (SIC). Renta de instalaciones para la impartición de cursos, talleres, conferencias, encuentros, seminarios, coloquios y demás actividades académicas, por parte de particulares e instituciones privadas. $522.00 (QUINIENTOS VEINTIDÓS PESOS 00/100 M.N.) por hora.
+
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018) (REUBICADO [N. DE E. ANTES ARTÍCULO 167], P.O. 31 DE DICIEMBRE DE 2019)
+
+PAGO
+
+###### ARTICULO 153.
+
+El pago de los servicios a que se refiere este Capítulo, deberán efectuarse en las Instituciones de Crédito o establecimientos o medios autorizados, previamente a la prestación del servicio.
+
+### CAPITULO PRIMERO. CONTRIBUCION POR GASTO
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 176], P.O. 31 DE DICIEMBRE DE 2019)
+
+OBJETO
+
+#### SECCION PRIMERA. POR SERVICIOS PRESTADOS POR EL INSTITUTO ESTATAL DEL DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 172], P.O. 31 DE DICIEMBRE DE 2019)
+
+OBJETO
+
+###### ARTICULO 154.
+
+Es objeto de este derecho, los servicios que presta el organismo público descentralizado denominado Instituto Estatal del Deporte del Estado de Coahuila de Zaragoza.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 173], P.O. 31 DE DICIEMBRE DE 2019)
+
+SUJETO
+
+###### ARTICULO 155.
+
+Son sujetos de este derecho las personas físicas y morales que soliciten los servicios a que se refiere el artículo anterior.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 174], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 #### SECCION QUINTA. DE LOS SERVICIOS CATASTRALES QUE REALIZA EL INSTITUTO COAHUILENSE DEL CATASTRO Y LA INFORMACION TERRITORIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
@@ -2595,37 +3261,93 @@ ARTICULO 123 BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 156.
 
-El pago de los derechos a que se refiere el artículo 155, se realizará en las Instituciones de Crédito o establecimientos autorizados por la Secretaría de Finanzas.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 2017)</small>
-
-###### ARTICULO 157.
-
-Los servicios que presta la Fiscalía General del Estado de Coahuila de Zaragoza, a través de sus unidades administrativas, causarán derechos conforme a la siguiente:
+Los servicios a que se refiere esta Sección, causarán derechos conforme a la siguiente:
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+I. (DEROGADA, P.O. 8 DE MAYO DE 2012)
 
-I. Por la constancia de no robo de vehículo, $200.00 (DOSCIENTOS PESOS 00/100 M.N.).
+II. Inscripción semestral al Centro Acuático Coahuila 2000, $181.00 (CIENTO OCHENTA Y UN PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+III. Curso mensual del Centro Acuático Coahuila 2000, $895.00 (OCHOCIENTOS NOVENTA Y CINCO PESOS 00/100 M.N.).
 
-II. Certificaciones y constancias, $46.00 (CUARENTA Y SEIS PESOS 00/100 M.N.) por la primera hoja, y $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
+IV. Certificado médico semestral del Centro Acuático Coahuila 2000, $172.00 (CIENTO SETENTA Y DOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+V. Mensualidad por uso de piso e instalaciones de la Ciudad Deportiva Francisco I. Madero:
 
-III. Por otros servicios no especificados, $239.00 (DOSCIENTOS TREINTA Y NUEVE PESOS 00/100 M.N.).
+1. Por metro cuadrado $251.00 (DOSCIENTOS CINCUENTA Y UN PESOS 00/100 M.N.);
+
+Al resultado por metro cuadrado se sumará por concepto de consumo de energía eléctrica y mantenimiento de áreas, la siguiente:
+
+CUOTA
+
+Concepto Importe
+
+Sin uso de energía eléctrica $209.00
+
+Menores de 50 kw $231.00
+
+De 51 kw hasta 280 kw $316.00
+
+De 281 kw hasta 400 kw $531.00
+
+De 401 kw hasta 500 kw $589.00
+
+De 501 kw hasta 600 kw $725.00
+
+De 601 kw hasta 1000 kw $1,162.00
+
+2. Con carrito ambulante $628.00 (SEISCIENTOS VEINTIOCHO PESOS 00/100 M.N.);
+
+3. Con canastilla $323.00 (TRESCIENTOS VEINTITRES PESOS 00/100 M.N.); y
+
+4. Otros ambulantes $315.00 (TRESCIENTOS QUINCE PESOS 00/100 M.N.).
+
+VI. Mensualidad por uso de piso e instalaciones del Parque Venustiano Carranza, de la Unidad Deportiva Oscar Flores Tapia, y del Centro Acuático Coahuila 2000:
+
+1. Por metro cuadrado $215.00 (DOSCIENTOS QUINCE PESOS 00/100 M.N.);
+
+Al resultado por metro cuadrado se sumará por concepto de consumo de energía eléctrica y mantenimiento de áreas, la cuota contenida en la fracción IV de este artículo.
+
+2. Con carrito ambulante, $555.00 (QUINIENTOS CINCUENTA Y CINCO PESOS 00/100 M.N.);
+
+3. Con canastilla, $277.00 (DOSCIENTOS SETENTA Y SIETE PESOS 00/100 M.N.); y
+
+4. Otros ambulantes $323.00 (TRESCIENTOS VEINTITRES PESOS 00/100 M.N.).
+
+VII. Mensualidad por uso de piso e instalaciones de otros Parques:
+
+1. Metro cuadrado $202.00 (DOSCIENTOS DOS PESOS 00/100 M.N.);
+
+Al resultado por metro cuadrado se sumará por concepto de consumo de energía eléctrica y mantenimiento de áreas, la cuota contenida en la fracción V de este artículo.
+
+2. Con carrito ambulante, $489.00 (CUATROCIENTOS OCHENTA Y NUEVE PESOS 00/100 M.N.);
+
+3. Con canastilla $251.00 (DOSCIENTOS CINCUENTA Y UN PESOS 00/100 M.N.); y
+
+4. Otros ambulantes $266.00 (DOSCIENTOS SESENTA Y SEIS PESOS 00/100 M.N.).
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 175], P.O. 31 DE DICIEMBRE DE 2019)
 
 PAGO
 
-### CAPITULO DÉCIMO SEGUNDO. POR SERVICIOS DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
+###### ARTICULO 157.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+El pago de los servicios a que se refiere esta Sección, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio, conforme a la liquidación que expida el Instituto Estatal del Deporte en el Estado de Coahuila de Zaragoza.
 
-### CAPITULO DECIMO TERCERO. POR SERVICIOS DE ORGANISMOS DESCENTRALIZADOS DE GOBIERNO
+El Instituto Estatal del Deporte en el Estado de Coahuila de Zaragoza, al realizar la liquidación para el pago de los derechos a que se refiere éste capítulo, deberá precisar los servicios prestados y el costo de cada uno.
 
-#### SECCION PRIMERA. POR SERVICIOS PRESTADOS POR EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSTITUTO COAHUILENSE DE CULTURA
+### CAPITULO SEGUNDO. PARA EL FOMENTO A LA EDUCACION Y DE LA SEGURIDAD PÚBLICA EN EL ESTADO
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 184], P.O. 31 DE DICIEMBRE DE 2019)
+
+OBJETO
+
+### CAPITULO TERCERO. CONTRIBUCION POR OBRA PUBLICA
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 194], P.O. 31 DE DICIEMBRE DE 2019)
+
+OBJETO
 
 #### SECCION PRIMERA
 
@@ -2647,7 +3369,9 @@ POR SERVICIOS DE LA COMISION ESTATAL DE VIVIENDA Y COMISION ESTATAL PARA LA REGU
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-### CAPITULO PRIMERO. CONTRIBUCION POR GASTO
+### CAPITULO QUINTO. CONTRIBUCION POR RESPONSABILIDAD OBJETIVA
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 211], P.O. 31 DE DICIEMBRE DE 2019)
 
 OBJETO
 
@@ -2659,237 +3383,13 @@ OBJETO
 
 ###### ARTICULO 158.
 
-El pago de los servicios a que se refiere este Capítulo deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
-
-###### ARTICULO 159.
-
-Es objeto de este derecho, los servicios que prestan las dependencias de la Administración Pública Centralizada a que se refiere el artículo 17 de la Ley Orgánica para la Administración Pública del Estado de Coahuila de Zaragoza, por los documentos físicos o que en medios magnéticos les sean solicitados en materia del derecho de acceso a la información pública.
-
-SUJETO
-
-###### ARTICULO 160.
-
-Son sujetos de este derecho las personas físicas y morales que soliciten los servicios a que se refiere el artículo anterior.
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
-
-###### ARTICULO 161.
-
-Los servicios a que se refiere el presente Capítulo, causarán derechos conforme a la siguiente:
-
-TARIFA
-
-I. Por la expedición de copia simple, se pagará $1.00 (UN PESO 00/100 M.N.), por hoja.
-
-II. Por expedición de copia certificada, se pagarán $40.00 (CUARENTA PESOS 00/100 M.N.), por hoja.
-
-III. Por expedición de copia a color, se pagarán $30.00 (TREINTA PESOS 00/100 M.N.), por hoja.
-
-IV. Por cada disco flexible de 3.5 pulgadas que contenga la información requerida, se pagarán $5.00 (CINCO PESOS 00/100 M.N.).
-
-V. Por cada disco compacto que contenga la información requerida, se pagarán $20.00 (VEINTE PESOS 00/100 M.N.).
-
-VI. Por expedición de copia simple de planos, se pagarán de $70.00 (SETENTA PESOS 00/100 M.N.) por metro cuadrado.
-
-VII. Por expedición de copia certificada de planos, se pagarán $40.00 (CUARENTA PESOS 00/100 M.N.) adicionales a la cuota que le corresponde conforme a la fracción VI de éste artículo.
-
-###### ARTICULO 162.
-
-Las personas obligadas al pago de los derechos a que se refiere el presente Capítulo, deberán cubrir, en su caso, los gastos de envío que se generen.
-
-El envío de la información solicitada, podrá realizarse por correo simple, correo certificado con acuse de recibo o servicio de paquetería y la determinación de su costo se hará por la Dependencia correspondiente al momento de emitir la liquidación a que se refiere el artículo siguiente.
-
-PAGO
-
-###### ARTICULO 163.
-
-El pago de los servicios y gastos a que se refiere este Capítulo, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio, conforme a la liquidación que expida la Dependencia que preste el servicio.)
-
-La Dependencia, al realizar la liquidación para el pago de los derechos a que se refiere éste capítulo, deberá precisar los servicios prestados, el costo de cada uno y el importe de los gastos de envío.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-###### ARTICULO 164.
-
-Los servicios que se presten por el Poder Judicial del Estado distintos a los materialmente jurisdiccionales, en cualquiera de sus órganos.
-
-SUJETO
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-###### ARTICULO 165.
-
-Son sujetos de este derecho las personas físicas y morales que soliciten los servicios a que se refiere el artículo anterior.
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-### CAPITULO TERCERO. PARA MANTENIMIENTO Y CONSERVACION DEL CENTRO HISTORICO DE LAS CIUDADES DE SALTILLO, RAMOS ARIZPE Y TORREÓN
-
-###### ARTICULO 166.
-
-Los servicios a que se refiere el presente Capítulo, causarán derechos conforme a la siguiente:
-
-TARIFA
-
-I. El Taller de orientación prematrimonial que imparte el Poder Judicial del Estado por conducto del Instituto Estatal de la Defensoría Pública, $200.00 (DOSCIENTOS PESOS 00/100 M.N.) por pareja.
-
-II. Bases de licitación pública nacional para obra pública y servicios relacionados con la misma, $2,000.00 (DOS MIL PESOS 00/100 M.N.)
-
-III. Búsqueda de datos en el Archivo General Judicial, $50.00 (CINCUENTA PESOS 00/100 M.N.)
-
-IV. Curso de preparación en materia de mediación, por parte del Centro de Medios Alternos de Solución de Controversias, $2,000.00 (DOS MIL PESOS 00/100 M.N.)
-
-V. Certificación de mediadores, $500.00 (QUINIENTOS PESOS 00/100 M.N.)
-
-VI. Validación extemporánea de convenios de mediación privada, ante el Centro de Medios Alternos de Solución de Controversias. $500.00 (QUINIENTOS PESOS 00/100 M.N.)
-
-VII. Certificación como mediador privado capacitado por otras instituciones, $500.00 (QUINIENTOS PESOS 00/100 M.N.)
-
-VIII. Curso de capacitación impartido por el Instituto de Especialización Judicial a personas externas al Poder Judicial, $300.00 (TRESCIENTOS PESOS 00/100 M.N.)
-
-IX. Copia simple $1.50 (UN PESO 50/100 M.N.)
-
-X. Copia certificada $3.00 (TRES PESOS 00/100 M.N.)
-
-XI. Constancia de no registro en el REDAM, $100.00 (CIEN PESOS 00/100 M.N.).
-
-XII. CD/DVD con la grabación de audiencia en materia penal o familiar, $30.00 (TREINTA PESOS 00/100 M.N)
-
-XIII. Reposición de credencial institucional $150.00 (CIENTO CINCUENTA PESOS 00/100 M.N.)
-
-XIV. Validación de contenidos de capacitación en materia de Mecanismos Alternativos de Controversias $2,500.00 (DOS MIL QUINIENTOS PESOS 00/100 M.N.)
-
-XVI (SIC). Renta de instalaciones para la impartición de cursos, talleres, conferencias, encuentros, seminarios, coloquios y demás actividades académicas, por parte de particulares e instituciones privadas. $500.00 (QUINIENTOS PESOS 00/100 M.N.) por hora.
-
-PAGO
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-###### ARTICULO 167.
-
-El pago de los servicios a que se refiere este Capítulo, deberán efectuarse en las Instituciones de Crédito o establecimientos o medios autorizados, previamente a la prestación del servicio.
-
-###### ARTICULO 168.
-
-(DEROGADO, P.O. 21 DE DICIEMBRE DE 2012)
-
-###### ARTICULO 169.
-
-(DEROGADO, P.O. 21 DE DICIEMBRE DE 2012)
-
-###### ARTICULO 170.
-
-(DEROGADO, P.O. 21 DE DICIEMBRE DE 2012)
-
-### CAPITULO CUARTO. CONTRIBUCION POR OBRA PUBLICA
-
-OBJETO
-
-###### ARTICULO 171.
-
-(DEROGADO, P.O. 21 DE DICIEMBRE DE 2012)
-
-#### SECCION SEGUNDA. POR SERVICIOS PRESTADOS POR EL INSTITUTO ESTATAL DEL DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
-
-OBJETO
-
-###### ARTICULO 172.
-
-Es objeto de este derecho, los servicios que presta el organismo público descentralizado denominado Instituto Estatal del Deporte del Estado de Coahuila de Zaragoza.
-
-SUJETO
-
-###### ARTICULO 173.
-
-Son sujetos de este derecho las personas físicas y morales que soliciten los servicios a que se refiere el artículo anterior.
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
-
-###### ARTICULO 174.
-
-Los servicios a que se refiere esta Sección, causarán derechos conforme a la siguiente:
-
-TARIFA
-
-I. (DEROGADA, P.O. 8 DE MAYO DE 2012)
-
-II. Inscripción semestral al Centro Acuático Coahuila 2000, $130.00 (CIENTO TREINTA PESOS 00/100 M.N.).
-
-III. Curso mensual del Centro Acuático Coahuila 2000, $640.00 (SEISCIENTOS CUARENTA PESOS 00/100 M.N.).
-
-IV. Certificado médico semestral del Centro Acuático Coahuila 2000, $130.00 (CIENTO TREINTA PESOS 00/100 M.N.).
-
-V. Mensualidad por uso de piso e instalaciones de la Ciudad Deportiva Francisco I. Madero:
-
-1. Por metro cuadrado $180.00 (CIENTO OCHENTA PESOS 00/100 M.N.);
-
-Al resultado por metro cuadrado se sumará por concepto de consumo de energía eléctrica y mantenimiento de áreas, la siguiente:
-
-CUOTA
-
-Concepto Importe
-
-Sin uso de energía eléctrica $150.00
-
-Menores de 50 kw $165.00
-
-De 51 kw hasta 280 kw $225.00
-
-De 281 kw hasta 400 kw $380.00
-
-De 401 kw hasta 500 kw $422.00
-
-De 501 kw hasta 600 kw $519.00
-
-De 601 kw hasta 1000 kw $831.00
-
-2. Con carrito ambulante $450.00 (CUATROCIENTOS CINCUENTA PESOS 00/100 M.N.);
-
-3. Con canastilla $230.00 (DOSCIENTOS TREINTA PESOS 00/100 M.N.); y
-
-4. Otros ambulantes $250.00 (DOSCIENTOS CINCUENTA PESOS 00/100 M.N.).
-
-VI. Mensualidad por uso de piso e instalaciones del Parque Venustiano Carranza, de la Unidad Deportiva Oscar Flores Tapia, y del Centro Acuático Coahuila 2000:
-
-1. Por metro cuadrado $150.00 (CIENTO CINCUENTA PESOS 00/100 M.N.);
-
-Al resultado por metro cuadrado se sumará por concepto de consumo de energía eléctrica y mantenimiento de áreas, la cuota contenida en la fracción IV de este artículo.
-
-2. Con carrito ambulante, $390.00 (TRESCIENTOS NOVENTA PESOS 00/100 M.N.);
-
-3. Con canastilla, $200.00 (DOSCIENTOS PESOS 00/100 M.N.); y
-
-4. Otros ambulantes $230.00 (DOSCIENTOS TREINTA PESOS 00/100 M.N.).
-
-VII. Mensualidad por uso de piso e instalaciones de otros Parques:
-
-1. Metro cuadrado $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.);
-
-Al resultado por metro cuadrado se sumará por concepto de consumo de energía eléctrica y mantenimiento de áreas, la cuota contenida en la fracción V de este artículo.
-
-2. Con carrito ambulante, $350.00 (TRESCIENTOS CINCUENTA PESOS 00/100 M.N.);
-
-3. Con canastilla $180.00 (CIENTO OCHENTA PESOS 00/100 M.N.); y
-
-4. Otros ambulantes $190.00 (CIENTO NOVENTA PESOS 00/100 M.N.).
-
-PAGO
-
-###### ARTICULO 175.
-
-El pago de los servicios a que se refiere esta Sección, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio, conforme a la liquidación que expida el Instituto Estatal del Deporte en el Estado de Coahuila de Zaragoza.
-
-El Instituto Estatal del Deporte en el Estado de Coahuila de Zaragoza, al realizar la liquidación para el pago de los derechos a que se refiere éste capítulo, deberá precisar los servicios prestados y el costo de cada uno.
-
-###### ARTICULO 176.
-
 Es objeto de esta contribución el gasto público específico que se origine por el ejercicio de una determinada actividad de particulares.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 177], P.O. 31 DE DICIEMBRE DE 2019)
+
 SUJETO
 
-###### ARTICULO 177.
+###### ARTICULO 159.
 
 Son sujetos de la contribución a que se refiere este Capítulo:
 
@@ -2903,35 +3403,49 @@ II. Por responsabilidad solidaria:
 
 2. Quienes ejerzan la patria potestad o tutela, por las contribuciones a cargo de su representado.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 178], P.O. 31 DE DICIEMBRE DE 2019)
+
 BASE
 
-###### ARTICULO 178.
+###### ARTICULO 160.
 
 La base de las contribuciones a que se refiere este Capítulo será el importe del gasto público provocado.
 
-###### ARTICULO 179.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 179], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 161.
 
 Las autoridades fiscales estarán facultadas para determinar el importe de las contribuciones, quien deberá tomar en cuenta para su determinación, el costo real del gasto público originado.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 180], P.O. 31 DE DICIEMBRE DE 2019)
+
 PAGO
 
-###### ARTICULO 180.
+###### ARTICULO 162.
 
 Las contribuciones por gasto deberán ser pagadas en las Instituciones de Crédito autorizadas, dentro de los quince días siguientes al en que surta efectos la notificación de la resolución que contenga la determinación de las contribuciones.
 
-###### ARTICULO 181.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 181], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 163.
 
 El monto total de la contribución en cada caso, no podrá exceder del costo del gasto público de que se trate.
 
-###### ARTICULO 182.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 182], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 164.
 
 Las autoridades fiscales, formularán y notificarán la resolución que determine las contribuciones a cargo de los contribuyentes, en la que se expresará la causa y monto del gasto provocado.
 
-###### ARTICULO 183.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 183], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 165.
 
 En lo no previsto en este Capítulo, la aplicación y recaudación de las contribuciones, se hará con apego a las disposiciones del Código Fiscal para el Estado de Coahuila de Zaragoza.
 
-###### ARTICULO 184.
+### CAPITULO TERCERO. PARA MANTENIMIENTO Y CONSERVACION DEL CENTRO HISTORICO DE LAS CIUDADES DE SALTILLO, RAMOS ARIZPE Y TORREÓN
+
+###### ARTICULO 166.
 
 Es objeto de esta contribución la realización de pagos por concepto de impuestos, derechos y cualquier otra contribución que se cause conforme a la presente ley y demás disposiciones fiscales del Estado, así como los accesorios que se paguen.
 
@@ -2941,171 +3455,45 @@ No se considerarán incluidos en el objeto de ésta contribución los pagos corr
 
 El rendimiento de esta contribución será destinado exclusivamente al fomento a la educación y de la seguridad pública en el Estado.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 185], P.O. 31 DE DICIEMBRE DE 2019)
+
 SUJETO
 
-###### ARTICULO 185.
+###### ARTICULO 167.
 
 Son sujetos de esta contribución, las personas físicas, morales o unidades económicas que realicen pagos por concepto de impuestos, derechos y cualquier otra contribución que se cause conforme a la presente ley y demás disposiciones fiscales del Estado, con excepción de los señalados en el artículo anterior.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 186], P.O. 31 DE DICIEMBRE DE 2019)
+
 BASE
 
-###### ARTICULO 186.
+###### ARTICULO 168.
 
 La base de esta contribución, es el importe de los pagos que se realicen por concepto de impuestos, derechos y demás contribuciones incluyendo sus accesorios, excepto los pagos de las contribuciones que se exceptúan en el artículo 184 de esta ley.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 187], P.O. 31 DE DICIEMBRE DE 2019)
+
 TASA
 
-###### ARTICULO 187.
+###### ARTICULO 169.
 
 La tasa correspondiente a esta contribución para el fomento a la educación y de la seguridad pública, será el 22.5% sobre el monto de los pagos por concepto de los impuestos, derechos y cualquier otra contribución y los accesorios de éstos, que se paguen con excepción de los señalados.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 188], P.O. 31 DE DICIEMBRE DE 2019)
+
 PAGO
 
-### CAPITULO QUINTO. CONTRIBUCION POR RESPONSABILIDAD OBJETIVA
-
-OBJETO
-
-###### ARTICULO 211.
-
-Es objeto de esta contribución la realización de actividades que dañen o deterioren instalaciones, infraestructura caminera, hidráulica y de servicios, de uso comunitario y beneficio social, que sean propiedad del Estado, de dominio público o uso común.
-
-SUJETO
-
-###### ARTICULO 212.
-
-Son sujetos de esta contribución las personas físicas y morales que realicen actividades que en forma directa o indirecta ocasionen los daños o deterioro a que se refiere el artículo anterior.
-
-BASE
-
-###### ARTICULO 213.
-
-Servirá de base para el pago de esta contribución la cuantificación de los daños o deterioros causados por el uso de las instalaciones, infraestructura caminera, hidráulica y de servicios, o de uso comunitario y beneficio social, que sean propiedad del Estado, del dominio público o uso común, que se determinarán mediante los estudios técnicos que lleve a cabo la Secretaría de Obras Públicas y Transporte.
-
-###### ARTICULO 214.
-
-La contribución por responsabilidad objetiva se pagará en las Instituciones de Crédito autorizadas, dentro de los quince días siguientes al en que se notifique al contribuyente el resultado de los estudios técnicos que lleve a cabo la Secretaría de Obras Públicas y Transporte.
-
-TASA
-
-###### ARTICULO 215.
-
-El pago de esta contribución deberá comprender el importe total de los daños o deterioros causados a instalaciones, infraestructura caminera, hidráulica y de servicios, de uso comunitario y beneficio social, que sean propiedad del Estado.
-
-###### ARTICULO 188.
+###### ARTICULO 170.
 
 El pago de esta contribución deberá efectuarse en las autoridades fiscales, Instituciones de Crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos objeto de esta contribución.
 
-###### ARTICULO 189.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPÍTULO CUARTO], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
+### CAPITULO CUARTO. CONTRIBUCION POR OBRA PUBLICA
 
-###### ARTICULO 190.
+OBJETO
 
-(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
-
-###### ARTICULO 191.
-
-(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
-
-###### ARTICULO 192.
-
-(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
-
-## TITULO V. PRODUCTOS
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
-
-###### ARTICULO 216.
-
-Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Estado de:
-
-I. Venta de bienes muebles o inmuebles propiedad del Estado;
-
-II. Arrendamiento de bienes muebles o inmuebles propiedad del Estado; inclusive los Teatros que tendrán un costo de arrendamiento como sigue:
-
-1. Teatro de Monclova y Piedras Negras,
-
-a. Empresarios Privados, $50,000.00 (CINCUENTA MIL PESOS 00/100 M.N.);
-
-b. Escuelas y Eventos Gratuitos previa autorización del Ejecutivo del Estado, $25,000.00 (VEINTICINCO MIL PESOS 00/100 M.N.);
-
-c. Eventos de Artistas Locales Independientes, $16,000.00 (DIECISEIS MIL PESOS 00/100 M.N.) por día;
-
-d. Teatro de Cámara de Monclova para Artistas Locales, $5,000.00 (CINCO MIL PESOS 00/100 M.N.) por día;
-
-e. Teatro de Cámara de Monclova para graduaciones, $10,000.00 (DIEZ MIL PESOS 00/100 M.N.) por día;
-
-2. Teatro de Saltillo,
-
-a. Empresarios Privados, $40,000.00 (CUARENTA MIL PESOS 00/100 M.N.);
-
-b. Escuelas y Eventos Gratuitos previa autorización del Ejecutivo del Estado, $22,000.00 (VEINTIDOS MIL PESOS 00/100 M.N.);
-
-c. Eventos de Artistas Locales Independientes, $18,500.00 (DIECIOCHO MIL QUINIENTOS PESOS 00/100 M.N.) por día;
-
-d. Teatro De Cámara del Teatro Fernando Soler y Casa de la Cultura para Artistas Locales, $2,500.00 (DOS MIL QUINIENTOS PESOS 00/100 M.N.) fin de semana;
-
-3. Teatro Salvador Novo de Torreón:
-
-a. Empresarios Privados, $12,000.00 (DOCE MIL PESOS 00/100 M.N.);
-
-b. Escuelas y Eventos Gratuitos previa autorización del Ejecutivo del Estado, $8,000.00 (OCHO MIL PESOS 00/100 M.N.);
-
-c. Eventos de Artistas Locales Independientes, $5,000.00 (CINCO MIL PESOS 00/100 M.N.) por dos días.
-
-III. Explotación o enajenación de cualquier naturaleza, de los bienes propiedad del Estado;
-
-IV. Réditos de capitales y valores del Estado;
-
-V. Bienes de beneficencia;
-
-VI. Establecimientos y Empresas Estatales;
-
-VII. Trabajos gráficos y editoriales;
-
-VIII. Venta de impresos y papel;
-
-IX. Otorgamiento de aval en favor de las entidades a que se refiere la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza;
-
-X. La explotación de las concesiones que en su favor otorgue el Gobierno Federal sobre vías generales de comunicación;
-
-XI. Las comisiones a cargo de las personas físicas, comercios e instituciones, por concepto de retenciones que se realicen a los trabajadores del Gobierno del Estado, de conformidad con los convenios de pagos y aportaciones, las que en todo caso será del dos al millar; y
-
-XII. Otros no especificados.
-
-###### ARTICULO 193.
-
-(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
-
-## TITULO VI. APROVECHAMIENTOS
-
-###### ARTICULO 217.
-
-Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Estado por:
-
-I. Recargos;
-
-II. Gastos de ejecución;
-
-III. Multas;
-
-IV. Subsidios;
-
-V. Reintegros o indemnizaciones;
-
-VI. Cauciones cuyas pérdidas se declaren por resolución firme a favor del Estado;
-
-VII. Bienes y herencias vacantes, tesoros ocultos, herencias, legados, donaciones y otros conceptos en favor del Estado;
-
-VIII. Aportaciones extraordinarias del Gobierno Federal, de Organismos Públicos o de particulares;
-
-IX. Honorarios de notificación; y
-
-X. Recursos provenientes de ahorros presupuestales; así como aquellos recaudados por cualquier otro concepto, que exceda del presupuesto de operación autorizado para los organismos y entidades públicas, incluso los provenientes de financiamientos; y
-
-XI. Otros no especificados.
-
-###### ARTICULO 194.
+###### ARTICULO 171.
 
 Es objeto de la contribución por obra pública, la construcción, reconstrucción y ampliación de las siguientes obras:
 
@@ -3135,15 +3523,11 @@ XII. Obras de embellecimiento y remodelación de poblaciones; y
 
 XIII. Otras obras públicas que generen beneficios en su ejecución a los inmuebles y/o cooperadores.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 195], P.O. 31 DE DICIEMBRE DE 2019)
+
 SUJETO
 
-## TITULO VII. INGRESOS COORDINADOS
-
-###### ARTICULO 218.
-
-Las participaciones, incentivos, subsidios y demás aportaciones que por virtud de la coordinación con la Federación, correspondan al Estado, se recaudarán con arreglo a la Ley de Coordinación Fiscal y a los convenios y acuerdos que tenga celebrados y que celebre el Estado con la Federación.
-
-###### ARTICULO 195.
+###### ARTICULO 172.
 
 Son sujetos de la contribución por obra pública:
 
@@ -3161,19 +3545,17 @@ II. Por responsabilidad solidaria:
 
 2. Las instituciones fiduciarias cuando los predios estén afectados en fideicomiso. Dicha institución cubrirá las contribuciones con cargo a quien quede como propietario del predio beneficiado.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 196], P.O. 31 DE DICIEMBRE DE 2019)
+
 BASE
 
-## TITULO VIII. INGRESOS EXTRAORDINARIOS
-
-###### ARTICULO 219.
-
-Quedan comprendidos dentro de esta clasificación los ingresos cuya percepción se decrete excepcionalmente para proveer el pago de gastos o inversiones accidentales, extraordinarias o especiales del Estado, así como los derivados de créditos o empréstitos contratados para este fin.
-
-###### ARTICULO 196.
+###### ARTICULO 173.
 
 La base de la contribución a que se refiere este Capítulo será el costo total de la obra pública específica.
 
-###### ARTICULO 197.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 197], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 174.
 
 Cuando se trate de obras por cooperación de carácter estatal, la Secretaría de Transporte y Obras Públicas y las autoridades fiscales, serán el conducto del Ejecutivo del Estado para tomar las siguientes determinaciones:
 
@@ -3183,7 +3565,9 @@ II. Área beneficiada con la obra y zona de influencia; y
 
 III. Determinar la cantidad global que deban cubrir los contribuyentes beneficiados.
 
-###### ARTICULO 198.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 198], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 175.
 
 En todo caso, a las autoridades fiscales les corresponderá:
 
@@ -3191,7 +3575,9 @@ I. Determinar la cuota que corresponda pagar a cada contribuyente en particular;
 
 II. Establecer el plazo y forma en que deban efectuarse los pagos.
 
-###### ARTICULO 199.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 199], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 176.
 
 Las contribuciones a que se refiere este Capítulo podrán ser de carácter voluntario, o de carácter obligatorio, de acuerdo con las siguientes normas:
 
@@ -3211,7 +3597,9 @@ II. Son cooperaciones obligatorias las siguientes:
 
 5. Las demás que determine el Congreso del Estado como obligatorias.
 
-###### ARTICULO 200.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 200], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 177.
 
 Para que se cause la contribución por obra pública a que se refiere el artículo anterior, será necesario que los predios se encuentren en las siguientes circunstancias:
 
@@ -3219,29 +3607,41 @@ I. Si son exteriores, tener frente a la calle donde se ejecuten las obras; y
 
 II. Si son interiores, tener acceso mediante servidumbre de paso a la calle en que se ejecuten las obras.
 
-###### ARTICULO 201.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 201], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 178.
 
 Cuando se trate de edificios sujetos al régimen de propiedad en condominio, divididos en pisos, departamentos, viviendas o locales, se considerará que la totalidad del predio se beneficia con la obra. La parte de la contribución por obra pública a cargo de cada propietario se determinará dividiendo el monto que corresponda a todo el inmueble, entre la superficie cubierta de construcción que resulte de sumar la de todos los pisos, exceptuando la que se destine a servicios de uso común y multiplicando ese cociente por el número de metros que corresponda al piso, departamento, vivienda o local de que se trate.
 
-###### ARTICULO 202.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 202], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 179.
 
 Las contribuciones por obra pública se determinarán aplicando el procedimiento que establece la Ley de Cooperación para Obras Públicas del Estado de Coahuila de Zaragoza, en todo caso, el porcentaje a contribuir por los particulares, se dividirá conforme al mencionado procedimiento entre los propietarios de los predios beneficiados.
 
-###### ARTICULO 203.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 203], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 180.
 
 La contribución por obra pública se causará cuando la autoridad competente acuerde realizar la obra, mediante el concurso público o de invitación, que estará sujeto a las reglamentaciones respectivas. Para los efectos de esta contribución cuando se trate de obras de pavimentación o repavimentación, no podrá volver a cobrarse por el mismo concepto en un período mínimo de 10 años y, en consecuencia no se podrá acordar una nueva realización de la misma obra por cooperación antes de ese plazo.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 204], P.O. 31 DE DICIEMBRE DE 2019)
+
 PAGO
 
-###### ARTICULO 204.
+###### ARTICULO 181.
 
 Las contribuciones por obra pública deberán ser pagadas en las instituciones de crédito autorizadas, al inicio de la obra o dentro del plazo que se establezca en los convenios que se celebren con los particulares, en la forma y plazo que ésta determine.
 
-###### ARTICULO 205.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 205], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 182.
 
 Las autoridades fiscales formularán la liquidación de la contribución por obra pública para cada contribuyente en particular.
 
-###### ARTICULO 206.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 206], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 183.
 
 La resolución que determine las contribuciones a pagar por la obra, deberá estar debidamente fundada y motivada y contener además los siguientes datos:
 
@@ -3249,7 +3649,7 @@ I. Descripción genérica de la obra;
 
 II. Costo total estimado;
 
-III. Arrea beneficiada con la obra y zona de influencia;
+III. Arrea (sic) beneficiada con la obra y zona de influencia;
 
 IV. Ubicación del predio;
 
@@ -3261,23 +3661,177 @@ VII. La cantidad a pagar por el contribuyente; y
 
 VIII. Plazo y forma en que deberá hacerse la contribución.
 
-###### ARTICULO 207.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 207], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 184.
 
 Los predios beneficiados por la ejecución de obras públicas por cooperación, estarán afectos en forma preferente al pago del importe de las contribuciones a que se refiere este Capítulo.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 208], P.O. 31 DE DICIEMBRE DE 2019)
+
 TASA
 
-###### ARTICULO 208.
+###### ARTICULO 185.
 
 La tasa correspondiente a la contribución obligatoria para obra pública, será el 50% del costo total de la obra; sin embargo, cuando se trate de contribuciones voluntarias para obra pública, los particulares podrán cooperar con un porcentaje distinto al señalado, el que se establecerá de común acuerdo entre las autoridades estatales y los particulares.
 
-###### ARTICULO 209.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 209], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 186.
 
 Para hacer efectivas estas contribuciones, de ser necesario, se aplicará el procedimiento administrativo de ejecución previsto en el Código Fiscal para el Estado de Coahuila de Zaragoza.
 
-###### ARTICULO 210.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 210], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 187.
 
 Estarán exentos del pago de esta contribución los bienes del dominio público de la federación, del Estado y de los municipios.
+
+### CAPITULO QUINTO. CONTRIBUCION POR RESPONSABILIDAD OBJETIVA
+
+OBJETO
+
+###### ARTICULO 188.
+
+Es objeto de esta contribución la realización de actividades que dañen o deterioren instalaciones, infraestructura caminera, hidráulica y de servicios, de uso comunitario y beneficio social, que sean propiedad del Estado, de dominio público o uso común.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 212], P.O. 31 DE DICIEMBRE DE 2019)
+
+SUJETO
+
+###### ARTICULO 189.
+
+Son sujetos de esta contribución las personas físicas y morales que realicen actividades que en forma directa o indirecta ocasionen los daños o deterioro a que se refiere el artículo anterior.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 213], P.O. 31 DE DICIEMBRE DE 2019)
+
+BASE
+
+###### ARTICULO 190.
+
+Servirá de base para el pago de esta contribución la cuantificación de los daños o deterioros causados por el uso de las instalaciones, infraestructura caminera, hidráulica y de servicios, o de uso comunitario y beneficio social, que sean propiedad del Estado, del dominio público o uso común, que se determinarán mediante los estudios técnicos que lleve a cabo la Secretaría de Obras Públicas y Transporte.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 214], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 191.
+
+La contribución por responsabilidad objetiva se pagará en las Instituciones de Crédito autorizadas, dentro de los quince días siguientes al en que se notifique al contribuyente el resultado de los estudios técnicos que lleve a cabo la Secretaría de Obras Públicas y Transporte.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 215], P.O. 31 DE DICIEMBRE DE 2019)
+
+TASA
+
+###### ARTICULO 192.
+
+El pago de esta contribución deberá comprender el importe total de los daños o deterioros causados a instalaciones, infraestructura caminera, hidráulica y de servicios, de uso comunitario y beneficio social, que sean propiedad del Estado.
+
+## TITULO V. PRODUCTOS
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 216], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 193.
+
+Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Estado de:
+
+I. Venta de bienes muebles o inmuebles propiedad del Estado;
+
+II. Arrendamiento de bienes muebles o inmuebles propiedad del Estado; inclusive los Teatros que tendrán un costo de arrendamiento como sigue:
+
+1. Teatro de Monclova y Piedras Negras,
+
+a. Empresarios Privados, $69,928.00 (SESENTA Y NUEVE MIL NOVECIENTOS VEINTIOCHO PESOS 00/100 M.N.);
+
+b. Escuelas y Eventos Gratuitos previa autorización del Ejecutivo del Estado, $34,964.00 (TREINTA Y CUATRO MIL NOVECIENTOS SESENTA Y CUATRO PESOS 00/100 M.N.);
+
+c. Eventos de Artistas Locales Independientes, $22,376.00 (VEINTIDOS MIL TRESCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.) por día;
+
+d. Teatro de Cámara de Monclova para Artistas Locales, $7,201.00 (SIETE MIL DOSCIENTOS Y UN PESOS 00/100 M.N.) por día;
+
+e. Teatro de Cámara de Monclova para graduaciones, $13,989.00 (TRECE MIL NOVECIENTOS OCHENTA Y NUEVE PESOS 00/100 M.N.) por día;
+
+2. Teatro de Saltillo,
+
+a. Empresarios Privados, $55,943.00 (CINCUENTA Y CINCO MIL NOVECIENTOS CUARENTA Y TRES PESOS 00/100 M.N.);
+
+b. Escuelas y Eventos Gratuitos previa autorización del Ejecutivo del Estado, $30,768.00 (TREINTA MIL SETECIENTOS SESENTA Y OCHO PESOS 00/100 M.N.);
+
+c. Eventos de Artistas Locales Independientes, $25,873.00 (VEINTICINCO MIL OCHOCIENTOS SETENTA Y TRES PESOS 00/100 M.N.) por día;
+
+d. Teatro De Cámara del Teatro Fernando Soler y Casa de la Cultura para Artistas Locales, $3,493.00 (TRES MIL CUATROCIENTOS NOVENTA Y TRES PESOS 00/100 M.N.) fin de semana;
+
+3. Teatro Salvador Novo de Torreón:
+
+a. Empresarios Privados, $16,783.00 (DIECISEIS MIL SETECIENTOS OCHENTA Y TRES PESOS 00/100 M.N.);
+
+b. Escuelas y Eventos Gratuitos previa autorización del Ejecutivo del Estado, $11,188.00 (ONCE MIL CIENTO OCHENTA Y OCHO PESOS 00/100 M.N.);
+
+c. Eventos de Artistas Locales Independientes, $6,727.00 (SEIS MIL SETECIENTOS VEINTISIETE PESOS 00/100 M.N.) por dos días.
+
+III. Explotación o enajenación de cualquier naturaleza, de los bienes propiedad del Estado;
+
+IV. Réditos de capitales y valores del Estado;
+
+V. Bienes de beneficencia;
+
+VI. Establecimientos y Empresas Estatales;
+
+VII. Trabajos gráficos y editoriales;
+
+VIII. Venta de impresos y papel;
+
+IX. Otorgamiento de aval en favor de las entidades a que se refiere la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza;
+
+X. La explotación de las concesiones que en su favor otorgue el Gobierno Federal sobre vías generales de comunicación;
+
+XI. Las comisiones a cargo de las personas físicas, comercios e instituciones, por concepto de retenciones que se realicen a los trabajadores del Gobierno del Estado, de conformidad con los convenios de pagos y aportaciones, las que en todo caso será del dos al millar; y
+
+XII. Otros no especificados.
+
+## TITULO VI. APROVECHAMIENTOS
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 217], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 194.
+
+Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Estado por:
+
+I. Recargos;
+
+II. Gastos de ejecución;
+
+III. Multas;
+
+IV. Subsidios;
+
+V. Reintegros o indemnizaciones;
+
+VI. Cauciones cuyas pérdidas se declaren por resolución firme a favor del Estado;
+
+VII. Bienes y herencias vacantes, tesoros ocultos, herencias, legados, donaciones y otros conceptos en favor del Estado;
+
+VIII. Aportaciones extraordinarias del Gobierno Federal, de Organismos Públicos o de particulares;
+
+IX. Honorarios de notificación; y
+
+X. Recursos provenientes de ahorros presupuestales; así como aquellos recaudados por cualquier otro concepto, que exceda del presupuesto de operación autorizado para los organismos y entidades públicas, incluso los provenientes de financiamientos; y
+
+XI. Otros no especificados.
+
+## TITULO VII. INGRESOS COORDINADOS
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 218], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 195.
+
+Las participaciones, incentivos, subsidios y demás aportaciones que por virtud de la coordinación con la Federación, correspondan al Estado, se recaudarán con arreglo a la Ley de Coordinación Fiscal y a los convenios y acuerdos que tenga celebrados y que celebre el Estado con la Federación.
+
+## TITULO VIII. INGRESOS EXTRAORDINARIOS
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 219], P.O. 31 DE DICIEMBRE DE 2019)
+
+###### ARTICULO 196.
+
+Quedan comprendidos dentro de esta clasificación los ingresos cuya percepción se decrete excepcionalmente para proveer el pago de gastos o inversiones accidentales, extraordinarias o especiales del Estado, así como los derivados de créditos o empréstitos contratados para este fin.
 
 ## TRANSITORIOS
 
@@ -3548,3 +4102,27 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las personas que hayan obtenido una declaración de ausencia conforme a lo dispuesto en la Ley de Declaración de Ausencia de Personas Desaparecidas del Estado de Coahuila de Zaragoza, o una declaración especial de ausencia, conforme a lo previsto en la Ley de Declaración de Ausencia para personas Desaparecidas del Estado de Coahuila de Zaragoza, conservarán la protección de derechos en los términos de la sentencia, en concordancia con lo establecido en el régimen transitorio del Decreto 261, publicado el 28 de mayo de 2019 en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 522.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de dos mil veinte.
+
+###### ARTÍCULO SEGUNDO.
+
+Las tarifas contenidas en el artículo 57 de esta Ley, estarán vigentes solamente en las oficinas registrales en las que se implemente el Sistema Integral de Informática Registral del Instituto Catastral y Registral del Estado de Coahuila de Zaragoza.
+
+Hasta en tanto las oficinas registrales no cuenten con la tecnología necesaria para realizar trámites telemáticos, el usuario deberá presentarlos de manera física.
+
+###### ARTÍCULO TERCERO.
+
+La vigencia de las placas metálicas con número identificatorio para vehículos, a que se refiere la fracción VI del artículo 96, será de cuatro años en el periodo comprendido del 10 de enero de 2019 al 31 de diciembre de 2022.
+
+A partir del ejercicio del 2020 y subsecuentes la vigencia de placas a que se refiere el párrafo anterior tendrán vigencia de 4 años.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
