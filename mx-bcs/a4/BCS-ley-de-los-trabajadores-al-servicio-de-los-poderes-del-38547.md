@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2019-11-10"
+last_updated: "2019-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -479,15 +479,15 @@ I.- Que el trabajador contraiga alguna enfermedad que implique un peligro para l
 
 II.- La prisión preventiva del trabajador, seguida de sentencia absolutoria o el arresto impuesto por autoridad judicial o administrativa, a menos que, tratándose de arresto el Tribunal de Conciliación y Arbitraje, resuelva que debe tener lugar el cese del trabajador. Los trabajadores que tengan encomendados manejo de fondos, valores o bienes, podrán ser suspendidos hasta por sesenta días por el titular de la dependencia respectiva, cuando apareciere alguna irregularidad en su gestión, mientras se practica la investigación y se resuelve sobre el cese.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-###### ARTICULO 47.
+###### ARTÍCULO 47.
 
-Ningún trabajador de base podrá ser cesado sino por justa causa debidamente demostrada. En consecuencia, el nombramiento, designación o relación laboral de los trabajadores sólo dejará de surtir efectos sin responsabilidad para los titulares de los poderes del estado y municipios y sus dependencias por las siguientes causas:
+Ningún trabajador podrá ser cesado sino por justa causa debidamente demostrada. En consecuencia, el nombramiento, designación o relación laboral de los trabajadores sólo dejará de surtir efectos sin responsabilidad para los titulares de los poderes del estado y municipios y sus dependencias por las siguientes causas:
 
-> <small>(REFORMADA, B.O. 1 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-l.- Por renuncia, por abandono de empleo, o por acumular más de tres faltas de asistencia en un periodo de 30 días sin justificar debidamente y sin permiso de quien esté facultado para otorgarlo.
+I.- Por renuncia o por abandono de empleo;
 
 II.- Por conclusión de término o de la obra determinantes de la designación.
 
@@ -501,7 +501,9 @@ V.- Por resolución del Tribunal de Conciliación y Arbitraje, en los casos sigu
 
 a).- Cuando el trabajador incurriere en faltas de probidad y honradez o en actos de violencia, amagos, injurias, o malos tratos contra sus jefes o compañeros o contra los familiares de unos u otros, ya sea dentro o fuera de las horas de servicio, o dentro de las horas de servicio contra los ciudadanos que acudan al centro de trabajo por cualquier causa.
 
-b).- Cuando faltare por más de tres días consecutivos a sus labores sin causa justificada.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+b) Cuando faltare por más de tres días consecutivos a sus labores o por acumular más de tres faltas de asistencia en un periodo de 30 días, sin justificar debidamente y sin permiso de quien esté facultado para otorgarlo.
 
 c).- Por destruir intencionalmente edificios, obras, maquinaria, instrumentos, materias primas, archivo y demás objetos relacionados con el trabajo.
 
@@ -540,6 +542,12 @@ En los casos a que se refiere esta fracción, el trabajador que tiene motivo par
 m).- Las demás que establezcan las leyes y las condiciones generales.
 
 Si el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur, resuelve que fue justificado el cese, el trabajador no tendrá derecho al pago de salarios caídos.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 47 BIS.- Cuando el nombramiento, designación o relación laboral tenga una duración de más de diez años, los titulares de los Poderes del Estado y Municipios y sus dependencias, sólo podrán cesar a los trabajadores por alguna de las causas señaladas en la fracción V del artículo 47, que sea particularmente grave o que haga imposible su continuación, debiendo precisar en su solicitud al Tribunal Burocrático las razones por las que se considera que la falta cometida es particularmente grave o que hace imposible la continuación de la relación de trabajo. Lo anterior no será obstáculo para que se le imponga al trabajador la corrección disciplinaria que corresponda, respetando los derechos que deriven de su antigüedad.
+
+La repetición de la falta o la comisión de otra u otras faltas, que constituyan una causa legal de cese, deja sin efecto la disposición anterior.
 
 ### CAPÍTULO CUARTO. DE LOS TRABAJADORES DEL SISTEMA EDUCATIVO ESTATAL
 
@@ -1526,3 +1534,15 @@ El presente Decreto entrara en vigor el día siguiente al de su publicación en 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+B.O. 31 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2658 SE REFORMAN LA FRACCIÓN I Y EL INCISO B) DE LA FRACCIÓN V DEL ARTÍCULO 47 Y SE ADICIONA EL ARTÍCULO 47 BIS AMBOS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOAS (SIC) PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Derogan todas las disposiciones legales que se opongan al presente Decreto.
