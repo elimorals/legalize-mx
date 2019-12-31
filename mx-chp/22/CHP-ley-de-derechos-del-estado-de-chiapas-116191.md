@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-derechos-del-estado-de-chiapas-116191"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-18"
-last_updated: "2018-12-31"
+last_updated: "2019-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116191&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY DE DERECHOS DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de mayo de 2016.
 
@@ -97,17 +97,21 @@ El pago de los derechos deberá hacerse por el contribuyente, previamente a la p
 
 Los servidores públicos encargados de la prestación de los servicios, serán responsables de la vigilancia del pago y, en su caso, del cobro y entero de los derechos previstos en esta Ley.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 6.
 
 Las dependencias, organismos descentralizados u órganos autónomos que presten servicios por los cuales se paguen derechos, procederán a proporcionarlos, cuando el interesado presente el recibo oficial de pago requisitado, conforme a las disposiciones legales aplicables.
 
-Cuando por cualquier situación no se otorgue la prestación del servicio, habiéndose realizado el pago de derechos, la Secretaría podrá cobrar las diferencias y accesorios correspondientes a la fecha de la prestación del mismo, siempre que se trate del ejercicio fiscal en curso y hasta el inmediato anterior, previa presentación de la constancia de no prestación de servicios emitida por las dependencias, organismos descentralizados u organismos autónomos; quienes serán los responsables del otorgamiento del servicio.
+Cuando por cualquier situación no se otorgue la prestación del servicio, habiéndose realizado el pago de derechos, el contribuyente podrá solicitar a la Secretaría:
+
+I. La devolución del pago, previa presentación de la constancia de no prestación del servicio y no utilización del recibo oficial de pago que emita la dependencia, organismo descentralizado u organismo autónomo que sea responsable del servicio, así como el original del recibo oficial de pago; con independencia de los demás requisitos que solicite la Secretaría conforme el artículo 53 del Código de la Hacienda Pública para el Estado de Chiapas.
+
+II. El cobro de las diferencias y accesorios correspondientes a la fecha de la prestación del mismo, siempre que se trate del ejercicio fiscal en curso y hasta el inmediato anterior, previa orden de autorización de cobro que emita la dependencia, organismo descentralizado u organismo autónomo que sea responsable de la prestación del servicio.
+
+Tratándose de servicios que no hayan sido otorgados en el ejercicio fiscal vigente y hasta el inmediato anterior, será responsabilidad de la dependencia, organismo descentralizado u organismo autónomo prestador del servicio, autorizar y otorgar el servicio solicitado, siempre y cuando no exista cobro de diferencias y accesorios en la tarifa del servicio que conste en el recibo oficial de pago a la fecha de la prestación del mismo.
 
 Tratándose de los derechos por servicio de control vehicular, serán de vigencia anual y deberán ser enterados dentro de los siguientes periodos:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 I. Para el caso de refrendo anual de tarjeta de circulación y calcomanía, el entero deberá realizarse en los tres primeros meses de cada año.
 
@@ -117,9 +121,7 @@ III. En los demás casos, en el momento que la persona solicite la prestación d
 
 IV. Cuando se disponga el nuevo canje total de placas, el periodo de pago será el que para tales efectos determine la Secretaría.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-Tratándose de vehículos del servicio público estatal, el plazo para el pago de los derechos por concepto de refrendo anual de permisos de ruta, zona y revalidación de permiso para la prestación del servicio de transporte especial, así como la expedición de constancia de verificación física, electromecánica y de uniforme de vehículos automotores destinados a la prestación de servicios (sic) público de transporte, en cualquier modalidad (revisión mecánica), previstos por el artículo 37 de esta Ley, será el plazo establecido en las fracciones I, III y IV de este artículo.
+Tratándose de vehículos del servicio público estatal, el plazo para el pago de los derechos por concepto de refrendo anual de permisos de ruta, zona y revalidación de permiso para la prestación del servicio de transporte especial, así como la expedición de constancia de verificación física, electromecánica y de uniforme de vehículos automotores destinados a la prestación de servicios públicos de transporte, en cualquier modalidad (revisión mecánica), previstos por el artículo 37 de esta Ley, será el plazo establecido en las fracciones I, III y IV de este artículo.
 
 ###### Artículo 7.
 
@@ -199,7 +201,9 @@ Los derechos contenidos en esta Ley, se pagarán conforme a las cuotas y tarifas
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-### Capítulo II. Derechos por los Servicios que presta la Secretaría General de Gobierno
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+### Capítulo II. Derechos por los Servicios
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1053,9 +1057,9 @@ documentos Del Archivo de Notarías, hasta 20 hojas. $190.00
 
 Por cada hoja adicional $5.00
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-#### Sección Quinta. Servicios que presta la Dirección de Catastro Urbano y Rural
+#### Sección Quinta. Servicios que presta la Dirección de Catastro del Estado
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1087,13 +1091,15 @@ regularizados por los municipios o las dependencias
 
 facultadas. $150.00
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 21 Octies.
 
-Por los servicios que presta la Dirección de Catastro Urbano y Rural se causarán y pagarán, por cada uno de los conceptos, los siguientes derechos:
+Por los servicios que presta la Dirección de Catastro del Estado se causarán y pagarán, por cada uno de los conceptos, los siguientes derechos:
 
 Servicio Tarifa
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 I. Por la expedición de la Cédula Avalúo Catastral:
 
@@ -1117,11 +1123,15 @@ h) De $1,000,001 hasta $ 5,000,000. $4,400.00
 
 i) De $ 5,000,001 en adelante. $6,000.00
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 II. Expedición de cédula catastral, por predio:
 
 a) Tratándose de predios de interés social. $150.00
 
 b) En los demás casos. $220.00
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 III. Por la verificación de avalúos efectuados por peritos
 
@@ -1145,29 +1155,31 @@ f) De $500,001 hasta $ 600,000. $1,800.00
 
 g) De $600,001 hasta $800,000. $2,400.00
 
-h) De $800,001 hasta $1’000,000. $3,000.00
+h) De $800,001 hasta $1'000,000. $3,000.00
 
-i) De $1’000,001 hasta $1’500,000. $4,400.00
+i) De $1'000,001 hasta $1'500,000. $4,400.00
 
-j) De $1’500,001 hasta $2’000,000. $6,000.00
+j) De $1'500,001 hasta $2'000,000. $6,000.00
 
-k) De $2’000,001 hasta $2’500,000. $7,500.00
+k) De $2'000,001 hasta $2'500,000. $7,500.00
 
-l) De $2’500,001 hasta $3’000,000. $9,000.00
+l) De $2'500,001 hasta $3'000,000. $9,000.00
 
-m) De $3’000,001 hasta $3’500,000. $10,500.00
+m) De $3'000,001 hasta $3'500,000. $10,500.00
 
-n) De $3’500,001 hasta $4’000,000. $12,000.00
+n) De $3'500,001 hasta $4'000,000. $12,000.00
 
-o) De $4’000,001 hasta $5'000,000. $15,000.00
+o) De $4'000,001 hasta $5'000,000. $15,000.00
 
-p) De $5’000,001 hasta $10’000,000. $18,000.00
+p) De $5'000,001 hasta $10'000,000. $18,000.00
 
-q) De $10’000,001 en adelante. $37,000.00
+q) De $10'000,001 en adelante. $37,000.00
 
 El pago de este derecho deberá ser enterado antes de la
 
 presentación del avalúo ante las autoridades catastrales.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 IV. Por la expedición de constancias y reportes catastrales,
 
@@ -1176,6 +1188,8 @@ por predio:
 a) De medidas y colindancias. $370.00
 
 b) De registro de datos catastrales. $220.00
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 V. Por las búsquedas catastrales, por predio:
 
@@ -1186,6 +1200,8 @@ b) Por la búsqueda de documentos, que sean
 competencia de esta Dirección y que obren en
 
 sus archivos $300.00
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 VI. Por la expedición de:
 
@@ -1203,6 +1219,8 @@ está fracción, hasta 20 hojas. $480.00
 
 Por hoja certificada adicional se pagará $5.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 VII. Por la expedición de plano catastral de predio
 
 urbano que figure en el registro gráfico a escala
@@ -1210,6 +1228,8 @@ urbano que figure en el registro gráfico a escala
 solicitada, con medidas y colindancias: En tamaño
 
 carta u oficio. $300.00
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 VIII. Por la expedición de plano catastral, con
 
@@ -1225,6 +1245,8 @@ b) Temáticos cartográficos especiales, impresos con
 
 niveles de información extra. $10.00
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 IX. Por la certificación de planos topográficos
 
 presentados incluyendo verificación de campo:
@@ -1236,6 +1258,8 @@ b) Mayor de cinco hasta diez hectáreas. $1,900.00
 c) Por cada hectárea o fracción adicional, después de
 
 diez. $75.00
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 X. Por el levantamiento con equipo topográfico y
 
@@ -1267,6 +1291,8 @@ ejecuta el trabajo no realiza las labores de limpia de callejones
 
 o linderos.
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XI. Por el deslinde catastral y elaboración de planos
 
 correspondientes:
@@ -1293,17 +1319,23 @@ que ejecuta el trabajo no realiza las labores de limpia de
 
 callejones o linderos.
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XII. Por la información de coordenadas geográficas de
 
 puntos monumentados de la red geodésica estatal por
 
 punto. $150.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XIII. Por el establecimiento de puntos monumentados
 
 GPS, por punto, sin incluir la construcción del
 
 monumento. $1,500.00
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XIV. Por el registro catastral de fusión de predios y
 
@@ -1317,11 +1349,15 @@ a) Urbano:
 
 b) Rústico, por cada predio fusionado. $150.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XV. Por el registro de cada lote resultante de la
 
 subdivisión de un predio y expedición de cédula
 
 catastral. $440.00
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XVI. Por la captura gráfica digital (vectorización) en
 
@@ -1339,6 +1375,8 @@ curvas de nivel y temáticos. $440.00
 
 c) Respaldo magnético en formato gráfico DGN. $1,900.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XVII. Por la captura gráfica digital (vectorización)
 
 en 2d de información no contenida en archivos
@@ -1350,6 +1388,8 @@ respaldo en CD magnético con características
 estandarizadas en niveles de información y en
 
 formato gráfico DGN. $2,800.00
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XVIII. Por impresiones de captura gráfica digital en 2d
 
@@ -1365,11 +1405,15 @@ b) Por la expedición de planos en blanco y negro o
 
 a color estándar, por decímetro cuadrado. $15.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XIX. Por la conversión de formatos gráficos de
 
 lectura cartográfica a específicos por DGN A,
 
 DXF A o DWG A. $330.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XX. Por la impresión de Orthofoto en papel bond, 1
 
@@ -1378,6 +1422,8 @@ XX. Por la impresión de Orthofoto en papel bond, 1
 El tamaño de la hoja de impresión de este servicio,
 
 queda a juicio de la Autoridad Catastral.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XXI. Por la línea base de control GPS modo estático
 
@@ -1398,6 +1444,8 @@ personal mismos que correrán por cuenta del solicitante del
 servicio, el personal no realiza labores de limpia de callejones o
 
 linderos ni la construcción del monumento
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XXII. Por punto de levantamiento Geodésico con receptor
 
@@ -1420,6 +1468,8 @@ del personal mismos que correrán por cuenta del solicitante
 del servicio, el personal no realiza labores de limpia de
 
 callejones o linderos ni la construcción del monumento.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XXIII. Por el replanteo de un punto geodésico con equipos
 
@@ -1455,6 +1505,8 @@ del servicio, el personal no realiza labores de limpia de
 
 callejones o linderos ni la construcción del monumento.
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XXIV. Por la verificación de levantamiento topográfico
 
 (planimétricos) efectuados por peritos topógrafos y/o
@@ -1476,6 +1528,8 @@ e) Mayor de veinte hasta cuarenta hectáreas. $1,125.00
 f) Mayor de cuarenta, se cobrará por hectárea o
 
 fracción adicional. $30.00
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XXV. Por la verificación de levantamientos topográficos
 
@@ -1499,6 +1553,8 @@ f) Mayor de cuarenta, se cobrará por hectárea o
 
 fracción adicional. $15.00
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XXVI. Por la verificación de línea de control azimutal
 
 (LCA), efectuados por peritos topógrafos y/o geomáticos
@@ -1509,11 +1565,15 @@ a) Local. $900.00
 
 b) Foránea. $1,100.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XXVII. Por la verificación del establecimiento de
 
 puntos GPS, efectuados por peritos topógrafos y/o
 
 geomáticos autorizados, se cobrará por punto: $250.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XXVIII. Por la información de la Red Geodésica
 
@@ -1526,6 +1586,8 @@ continua GPS, se cobrará por hora: $50.00
 El solicitante del servicio, deberá proporcionar el medio
 
 magnético en el cual se entregará la información digital.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XXIX. Por curso de capacitación en materia catastral,
 
@@ -1543,41 +1605,85 @@ El curso de capacitación, incluye material digital exclusivo,
 
 así como constancia de participación.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXX. Inspección catastral por cada predio,
+
+de acuerdo a lo siguiente:
+
+a) Inspección Urbano. $220.00
+
+b) Inspección Rústico. $280.00
+
+Los gastos de traslado y estancia del personal corren a cargo del
+
+solicitante de la inspección catastral, el personal que ejecuta el
+
+trabajo no realiza las labores de limpia de callejones o linderos,
+
+por lo que el predio debe estar sin maleza y con libre acceso.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXXI. Expedición de constancia de no prestación de servicios. $220.00
+
+Esta constancia solo aplicará para los servicios catastrales con
+
+tarifas a partir del monto de $1,500.00, cuando no se haya utilizado
+
+la boleta de pago de derechos por razones no imputables a la
+
+Dirección de Catastro del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 21 Nonies.
 
-Por los servicios de autorización y registro de licencias para peritos valuadores que preste la Dirección de Catastro Urbano y Rural, se causarán y pagarán, por cada especialidad, los siguientes derechos:
+Por los servicios de autorización y registro de licencias para peritos valuadores que preste la Dirección de Catastro del Estado, se causarán y pagarán, por cada especialidad, los siguientes derechos:
 
 Servicio Tarifa
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 I. Por el registro definitivo en todas las
 
 especialidades. $4,400.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 II. Por el registro provisional en todas las
 
 especialidades. $2,600.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 III. Por la revalidación anual del registro en todas
 
 las especialidades. $3,700.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 IV. Por la aplicación de examen a aspirantes
 
 a perito valuador. $600.00
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 21 Decies.
 
-Para el registro en el padrón del Catastro Urbano y Rural del Estado, como ingeniero topógrafo en cualquiera de sus especialidades así como ingenieros en geomática, para realizar levantamientos topográficos con fines catastrales, causarán y pagarán los siguientes derechos:
+Para el registro en el padrón del Catastro del Estado, como ingeniero topógrafo en cualquiera de sus especialidades así como ingenieros en geomática, para realizar levantamientos topográficos con fines catastrales, causarán y pagarán los siguientes derechos:
 
 Servicio Tarifa
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 I. Por el registro por 1 (uno) año. $4,400.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 II. Por la revalidación anual del registro. $3,700.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 III. Por la aplicación de examen a aspirantes para
 
@@ -1711,37 +1817,27 @@ VI. Dictamen de validación de red de equipos y
 
 semi fijos contra incendio empresas y/o particulares. $2,000.00
 
-### Capítulo III. Derechos por los Servicios que Presta la Secretaría de Hacienda
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+### Capítulo III. Derechos por los Servicios
 
-#### Sección Primera. Por otros Servicios que presta la Secretaría
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+#### Sección Primera. Servicios que presta la Oficialía Mayor del Estado de Chiapas
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 22.
 
-Por los servicios que presta la Secretaría de Hacienda, se causarán y pagarán, por cada uno, los siguientes derechos:
+Por los servicios que presta la Oficialía Mayor del Estado de Chiapas, se causarán y pagarán, por cada uno, los siguientes derechos:
 
 Servicio Tarifa
 
 I. Por el pago de bases conforme a lo siguiente:
 
-a) Invitación Abierta. $1,250.00
+a) Licitación por Convocatoria Pública Estatal. $1,975.00
 
-b) Licitación Pública Estatal. $1,975.00
-
-c) Licitación Pública Nacional. $2,395.00
-
-II. Por la acreditación en el Registro Voluntario de
-
-Proveedores, tomando en cuenta lo siguiente:
-
-a) Expedición de la credencial para el registro. $1,250.00
-
-b) Expedición de credenciales adicionales
-
-(cada ejemplar) o reposición. $575.00
+b) Licitación por Convocatoria Pública Nacional. $2,395.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1761,13 +1857,13 @@ cobrará: $110.00
 
 #### Sección Tercera. Servicios que Presta la Dirección de Ingresos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 24.
 
 Por los servicios que presta la Dirección de Ingresos, se causarán y pagarán, por cada uno, los siguientes derechos:
 
-Servicios Tarifa
+Servicio Tarifa
 
 I. Por la certificación de pagos de contribuciones realizadas
 
@@ -1777,39 +1873,39 @@ oficial o comprobante de pago. $480.00
 
 II. Por la cancelación de:
 
-a) Recibo oficial de pago por causas imputables al usuario.
+a) Recibo oficial de pago por causas imputables al usuario. $75.00
 
-No se causará el derecho cuando el motivo de la
+No se causará el derecho cuando el motivo de la cancelación
 
-cancelación obedezca a cuestiones ajenas a la voluntad de
+obedezca a cuestiones ajenas a la voluntad de quien efectúa el
 
-quien efectúa el cobro del servicio. En este caso deberá
+cobro del servicio. En este caso deberá constar dicha circunstancia
 
-constar dicha circunstancia en acta de hechos instrumentada por
+en acta de hechos levantada por el área de recaudación con
 
-el área de recaudación con autorización del Titular de la
-
-Delegación de Hacienda. $75.00
+autorización del Titular de la Delegación de Hacienda.
 
 b) Formas Oficiales Valoradas y Formas Oficiales de
 
-Reproducción Restringidas que utilicen las Dependencias y
+Reproducción Restringidas que utilicen las Dependencias
 
-Entidades de la Administración Pública del Estado y el Poder
+y entidades de la Administración Pública del Estado y
 
-Judicial, cuya cancelación sea imputable al prestador del
+el Poder Judicial, cuya cancelación sea imputable al
 
-servicio o contribuyente por falta de pericia, imprudencia,
+prestador del servicio o contribuyente por falta de
 
-descuido o negligencia, por cada efecto valorado. $80.00
+pericia, imprudencia, descuido o negligencia, por
+
+cada efecto valorado. $80.00
 
 III. Por los trámites del permiso para la instalación y
 
 funcionamiento de establecimientos mutuantes:
 
-a) Por el estudio y análisis de la documentación presentada
+a) Por el estudio y análisis de la documentación
 
-para la solicitud del permiso. $1,100.00
+presentada para la solicitud del permiso. $1,100.00
 
 b) Por la práctica de la visita de verificación $1,100.00
 
@@ -1817,57 +1913,83 @@ c) Por la expedición del permiso. $40,500.00
 
 d) Por la revalidación del permiso. $29,500.00
 
-El pago de derechos a que se refiere este inciso, se realizará en dos exhibiciones, la primera a más tardar el 30 de mayo y la segunda a más tardar el 30 de septiembre de cada ejercicio fiscal.
+El pago de derechos a que se refiere este inciso,
+
+se realizará en dos exhibiciones, la primera a más
+
+tardar el 30 de mayo y la segunda a más tardar el
+
+30 de septiembre de cada ejercicio
+
+fiscal.
 
 e) Por la modificación del permiso. $2,200.00
 
-IV. Por los trámites que acrediten la legal estancia de vehículos
+IV. Por la verificación de datos de registros vehiculares:
 
-extranjeros en el país:
+a) Por la verificación en base de datos E-room de
 
-a) Por la verificación en base de datos de documentos. $220.00
+Vehículos de procedencia extranjera. $250.00
 
-b) Por la verificación ante dependencias u organismos
+b) Por la verificación de datos y documentos de
 
-de la Federación y/o Entidades Federativas. $220.00
+vehículos de procedencia extranjera ante
 
-V. Por la expedición o reexpedición de constancias que
+dependencias u organismos de la Federación
 
-acreditan que los documentos de vehículos de procedencia
+y/o Entidades Federativas. $250.00
 
-extranjera, se encuentran en proceso de verificación. $150.00
+c) Por la verificación y consultas en las bases
 
-VI. Por la expedición de la constancia de funcionamiento
+de datos del Servicio de Administración y Enajenación
 
-del establecimiento que tenga como actividad la venta
+de Bienes (SAE), para vehículos nacionales y de
 
-de bebidas alcohólicas en envase abierto, al copeo para
+procedencia extranjera. $250.00
 
-giros eventuales o eventos públicos en una sola ocasión,
+V. Por la expedición o reexpedición de constancias
 
-salones de boxeo y lucha libre, espectáculos taurinos y
+Que acreditan que los documentos de vehículos de
 
-ecuestres, lienzo charro, eventos musicales, palenques de
+Procedencia extranjera, se encuentran en proceso
 
-gallos, espectáculos deportivos y ferias regionales, por los
+de verificación. $150.00
 
-días que dure el evento y para uso exclusivo en el lugar para
+VI. Por la expedición de la constancia de
 
-la cual fue solicitada. $19,000.00
+Funcionamiento del establecimiento que
 
-VII. Por la expedición de la constancia de inscripción del
+tenga como actividad la venta de bebidas
 
-establecimiento que tenga como actividad la venta de
+alcohólicas en envase abierto, al copeo
+
+para giros eventuales o eventos públicos
+
+en una sola ocasión, salones de boxeo y
+
+lucha libre, espectáculos taurinos y ecuestres,
+
+lienzo charro, eventos musicales, palenques
+
+de gallos, espectáculos deportivos y ferias
+
+regionales, por los días que dure el evento y para
+
+uso exclusivo en el lugar para la cual fue solicitada. $19,000.00
+
+VII. Por la expedición de la constancia de inscripción
+
+del establecimiento que tenga como actividad la venta de
 
 bebidas alcohólicas:
 
 a) Envase cerrado en:
 
-1. Agencias de distribución, establecimientos de almacenaje
+1. Agencias de distribución, establecimientos de
 
-y venta de bebidas alcohólicas al mayoreo y fabricante o
+Almacenaje y venta de bebidas alcohólicas al
 
-distribuidor mayoritario. $24,000.00
+mayoreo y fabricante o distribuidor mayoritario $24,000.00
 
 2. Tiendas de abarrotes con venta de cerveza y/o
 
@@ -1883,13 +2005,13 @@ b) Envase abierto o al copeo en:
 
 1. Cantinas, bar diurno, bar nocturno, bar de centro
 
-de apuestas remotas y similares, cervecerías,
+de apuestas remotas y similares, cervecerías, centro
 
-centro botanero. $14,000.00
+botanero. $14,000.00
 
-2. Restaurantes con venta de cervezas, vinos y
+2. Restaurantes con venta de cervezas, vinos y licores,
 
-licores, billares y boleramas. $6,000.00
+billares y boleramas. $6,000.00
 
 3. Cabaret, centros nocturnos y discotecas. $20,500.00
 
@@ -1897,11 +2019,43 @@ licores, billares y boleramas. $6,000.00
 
 5. Estadios. $20,500.00
 
-Las constancias establecidas en la fracción VII de este artículo, tendrán vigencia semestral, el primer periodo comprenderá del primero de enero al treinta de junio y el segundo periodo será del primero de julio al treinta y uno de diciembre. El pago deberá realizarse dentro de los primeros cincuenta y cinco días naturales de cada semestre.
+Las constancias establecidas en la fracción VII de
 
-Para los propietarios de establecimientos que inicien su actividad con venta de bebidas alcohólicas durante la segunda mitad de los periodos a que se refiere el segundo párrafo de este artículo, el derecho causado por dicho semestre se pagará en proporción del 60%.
+este artículo, tendrán vigencia semestral, el primer
 
-Cuando por su denominación algún establecimiento no se encuentre comprendido en la fracción VII de este artículo, se ubicará en aquel que por sus características le sea más semejante. Para la expedición de la constancia de funcionamiento a que se refiere la fracción VI de este artículo y en horario extraordinario, deberán presentar el dictamen de aprobación de la autoridad sanitaria.
+periodo comprenderá del primero de enero al treinta
+
+de junio y el segundo periodo será del primero de julio
+
+al treinta y uno de diciembre. El pago deberá
+
+realizarse dentro de los primeros cincuenta y cinco
+
+días naturales de cada semestre.
+
+Para los propietarios de establecimientos que inicien su
+
+actividad con venta de bebidas alcohólicas durante la
+
+segunda mitad de los periodos a que se refiere el segundo
+
+párrafo de este artículo, el derecho causado por dicho
+
+semestre se pagará en proporción del 60%.
+
+Cuando por su denominación algún establecimiento no se
+
+encuentre comprendido en la fracción VII de este artículo,
+
+se ubicará en aquel que por sus características le sea más
+
+semejante. Para la expedición de la constancia de
+
+funcionamiento a que se refiere la fracción VI de este
+
+artículo y en horario extraordinario, deberán presentar el
+
+dictamen de aprobación de la autoridad sanitaria.
 
 VIII. Por la certificación del último pago de impuesto
 
@@ -1913,267 +2067,279 @@ búsqueda de comprobantes de pagos en materia de
 
 propiedad inmobiliaria. $110.00
 
-IX. Por el certificado de no adeudo predial en municipios
+IX. Por el certificado de no adeudo predial en
 
-que administra el Estado. $190.00
+Municipios que administra el Estado. $190.00
 
-X. Por la certificación de declaraciones fiscales o de
+X. Por la certificación de declaraciones fiscales
 
-documentación oficial, incluyendo la búsqueda, hasta
+o de documentación oficial, incluyendo la búsqueda,
 
-20 hojas. $480.00
+hasta 20 hojas. $480.00
 
 Por hoja adicional se cobrará. $25.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+XI. Por la expedición de licencia de conducir a extranjeros
 
-XI. Por la expedición de licencia de conducir a
+por el tiempo que acrediten su legal estancia en el país, se le
 
-extranjeros por el tiempo que acrediten su legal
+cobrará hasta por un año:
 
-estancia en el país, se le cobrará hasta por un año:
+a) Chofer. $700.00
 
-a) Chofer. $600.00
+b) Automovilista. $600.00
 
-b) Automovilista $500.00
+c) Motociclista. $400.00
 
-c) Motociclista. $300.00
+XII. Por la expedición de licencias de conducir por 2 años,
 
-XII. Por la expedición de licencias de conducir por 2 años, se cobrará de acuerdo a lo siguiente:
+se cobrará de acuerdo a lo siguiente:
 
-a) Chofer para servicio público. $1,100.00
+a) Chofer para servicio público. $1,150.00
 
-b) Chofer. $1,100.00
+b) Chofer. $1,150.00
 
-c) Automovilista. $900.00
+c) Automovilista. $950.00
 
-d) Motociclista. $440.00
+d) Motociclista. $500.00
 
 XIII. Por la expedición de licencias de conducir por 3 años, se cobrará de acuerdo a lo siguiente:
 
-a) Chofer para servicio público. $1,500.00
+a) Chofer para servicio público. $1,550.00
 
-b) Chofer. $1,400.00
+b) Chofer. $1,450.00
 
-c) Automovilista. $950.00
+c) Automovilista. $1,000.00
 
-d) Motociclista. $550.00
+d) Motociclista. $ 600.00
 
 XIV. Por la expedición de licencias de conducir por 4 años, se cobrará de acuerdo a lo siguiente:
 
-a) Chofer para servicio público. $2,000.00
+a) Chofer para servicio público. $2,050.00
 
-b) Chofer. $1,900.00
+b) Chofer. $1,950.00
 
-c) Automovilista. $1,300.00
+c) Automovilista. $1,350.00
 
-d) Motociclista. $600.00
+d) Motociclista. $650.00
 
 XV. Por la expedición de licencias de conducir por 5 años, se cobrará de acuerdo a lo siguiente:
 
-a) Chofer para servicio público. $2,500.00
+a) Chofer para servicio público. $2,550.00
 
-b) Chofer. $2,400.00
+b) Chofer. $2,450.00
 
-c) Automovilista. $1,600.00
+c) Automovilista. $1,650.00
 
-d) Motociclista. $850.00
+d) Motociclista. $900.00
 
 XVI. Por la reexpedición de licencias de conducir por 2 años, se cobrará de acuerdo a lo siguiente:
 
-a) Chofer para servicio público. $850.00
+a) Chofer para servicio público. $900.00
 
-b) Chofer. $850.00
+b) Chofer. $900.00
 
-c) Automovilista. $600.00
+c) Automovilista. $650.00
 
-d) Motociclista. $300.00
+d) Motociclista. $350.00
 
 XVII. Por la reexpedición de licencias de conducir por 3 años, se cobrará de acuerdo a lo siguiente:
 
-a) Chofer para servicio público. $950.00
+a) Chofer para servicio público. $1,000.00
 
-b) Chofer. $950.00
+b) Chofer. $1,000.00
 
-c) Automovilista. $850.00
+c) Automovilista. $900.00
 
-d) Motociclista. $370.00
+d) Motociclista. $450.00
 
 XVIII. Por la reexpedición de licencias de conducir por 4 años, se cobrará de acuerdo a lo siguiente:
 
-a) Chofer para servicio público. $1,200.00
+a) Chofer para servicio público. $1,250.00
 
-b) Chofer. $1,200.00
+b) Chofer. $1,250.00
 
-c) Automovilista. $950.00
-
-d) Motociclista. $550.00
-
-XIX. Por la reexpedición de licencias de conducir por 5 años, se cobrará de acuerdo a lo siguiente:
-
-a) Chofer para servicio público. $1,500.00
-
-b) Chofer. $1,500.00
-
-c) Automovilista. $1,300.00
+c) Automovilista. $1,000.00
 
 d) Motociclista. $600.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+XIX. Por la reexpedición de licencias de conducir por 5 años, se cobrará de acuerdo a lo siguiente:
 
-XX. Por la reposición de licencia de conducir por
+a) Chofer para servicio público. $1,550.00
 
-pérdida o extravío de las contempladas en las
+b) Chofer. $1,550.00
 
-fracciones de la XI a la XIX del presente artículo, se
+c) Automovilista. $1,350.00
 
-cobrará: $250.00
+d) Motociclista. $650.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+XX. Por la reposición de licencia de conducir por pérdida
 
-XXI. Por la expedición de constancias de antigüedad
+o extravío de las contempladas en las fracciones de la XI
 
-de licencia de conducir, incluyendo su búsqueda, se
+a la XIX, del presente artículo, se cobrará: $250.00
 
-cobrará $250.00
+XXI. Por la expedición de constancias de antigüedad de
 
-XXII. Por la expedición de permisos provisionales para
+licencia de conducir, incluyendo su búsqueda, se cobrará $300.00
 
-circular sin placas ni tarjetas de circulación para vehículos
+XXII. Por la expedición de reposición de licencia de conducir permanente, por pérdida o robo, se cobrará de acuerdo a lo siguiente:
 
-por 15 días, se cobrará: $850.00
+a) Chofer para servicio público. $900.00
 
-El permiso provisional solo podrá ser expedido
+b) Chofer. $900.00
 
-hasta por dos ocasiones por vehículos.
+c) Automovilista. $650.00
 
-XXIII. Por la expedición de reposición de licencia de conducir
-
-permanente, por pérdida o robo, se cobrará de acuerdo a
-
-lo siguiente:
-
-a) Chofer para servicio público. $850.00
-
-b) Chofer. $850.00
-
-c) Automovilista. $600.00
-
-d) Motociclista. $400.00
+d) Motociclista. $450.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### Sección Cuarta. Servicios que presta por Control Vehicular
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 25.
 
-Por la expedición de placas y tarjetas de circulación para vehículos, se causarán y pagarán por cada uno, los siguientes derechos:
+Por servicios de control vehicular, se causarán y pagarán por cada uno, los siguientes derechos:
 
-Servicios Tarifa
+Servicio Tarifa
 
 I. Servicio privado:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+a) Por la expedición de placas, calcomanía y
 
-a) Por la expedición de placas, calcomanía y tarjeta
+tarjeta de circulación para automóviles, camiones,
 
-de circulación para automóviles, camiones, omnibuses
-
-y remolques. $1,100.00
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+autobuses, para personas con discapacidad y remolques. $1,150.00
 
 b) Por la expedición de placas y tarjeta de circulación
 
-para motocicletas y vehículos similares con motor. $950.00
+para motocicletas y vehículos similares con motor. $1,000.00
 
-c) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
+c) Por el canje de placas, calcomanía y tarjeta de
 
-d) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
+circulación para automóviles, camiones, autobuses,
+
+para personas con discapacidad y remolques. $1,150.00
+
+d) Por el canje de placas, tarjeta de circulación para
+
+motocicletas y vehículos similares con motor. $1,000.00
 
 II. Servicio Público:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+a) Por la expedición de placas, calcomanía y
 
-a) Por la expedición de placas, calcomanía y tarjeta
+tarjeta de circulación para automóviles, camiones
 
-de circulación para automóviles, camiones y
-
-omnibuses. $2,250.00
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+y autobuses. $2,300.00
 
 b) Por la expedición de placas y tarjeta de circulación
 
-para motocicletas y vehículos similares con motor. $1,250.00
+para motocicletas y vehículos similares con motor. $1,300.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+c) Por la expedición de placa de vehículos similares
 
-c) Vehículos similares sin motor; exceptuándose
+sin motor; exceptuándose las bicicletas. $500.00
 
-las bicicletas. $300.00
+d) Por la expedición de placa de bicicleta de tres
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+o cuatro ruedas. $1,300.00
 
-d) Por la expedición de placa de bicicleta con carro
+e) Por el canje de placas, calcomanía y tarjeta de
 
-anexo. $1,250.00
+circulación para automóviles, camiones y autobuses. $2,300.00
 
-e) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
+f) Por el canje de placas, tarjeta de circulación para
 
-f) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
+motocicletas y vehículos similares con motor. $1,300.00
 
-g) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
+g) Por el canje de placas de vehículos similares sin
 
-h) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
+motor; exceptuándose las bicicletas. $500.00
 
-III. Baja de placas. $150.00
+h) Por el canje de placas de bicicleta de tres o
 
-Tratándose de baja de placas provenientes de otros estados
+cuatro ruedas. $1,300.00
 
-sin que causen alta en forma simultánea en el Registro Estatal
+III. Baja de placas:
 
-de Vehículos, se cobrará: $1,000.00
+a) Por Baja de placas. $200.00
 
-IV. Refrendo anual o reposición de tarjeta de circulación:
+b) Tratándose de baja de placas provenientes de otros
+
+Estados sin que causen alta en forma simultánea en
+
+el Registro Estatal de Vehículos, se cobrará: $1,100.00
+
+IV. Refrendo anual de tarjeta de circulación:
 
 a) Servicio privado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+1. Automóviles. $780.00
 
-1. Para automóviles, camiones, omnibuses y remolques. $730.00
+2. Motocicletas y vehículos similares con motor. $630.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+V. Reposición de tarjeta de circulación:
 
-2. Motocicletas y vehículos similares con motor. $580.00
+a) Servicio privado:
+
+1. Para automóviles, camiones, autobuses, para
+
+personas con discapacidad y remolques. $780.00
+
+2. Motocicletas y vehículos similares con motor. $630.00
 
 b) Servicio público:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+1. Para automóviles, camiones y autobuses. $1,280.00
 
-1. Para automóviles, camiones, omnibuses y remolques. $1,230.00
+2. Motocicletas y vehículos similares con motor. $780.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+c) Otras modalidades:
 
-2. Motocicletas y vehículos similares con motor. $730.00
+1. Para todo tipo de automóviles de Corporación
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+Policíaca, Protección Civil, Heroico Cuerpo de
 
-3. Bicicleta con carro anexo. $205.00
+Bomberos y Ambulancias. $780.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+2. Para motocicletas de Corporación Policíaca. $630.00
 
-V. Por la expedición de placas para vehículos de
+VI. Por la expedición de placas para vehículos de
 
-prueba o demostración. $2,050.00
+prueba o demostración. $2,100.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+VII. Por el canje de placas para vehículos de prueba
 
-VI. Por la revalidación anual de placas para vehículos
+o demostración. $2,350.00
 
-de prueba o demostración $2,300.00
+VIII. Otras Modalidades de Servicio:
+
+a) Por la expedición de placas, calcomanía y tarjeta
+
+de circulación para todo tipo de automóviles de
+
+Corporación Policíaca, Protección Civil, Heroico
+
+Cuerpo de Bomberos y Ambulancias. $1,150.00
+
+b) Por la expedición de placas y tarjeta de circulación
+
+para motocicletas de Corporación Policíaca. $1,000.00
+
+c) Por el canje de placas, calcomanía y tarjeta de
+
+circulación para Automóviles de Corporación
+
+Policíaca, Protección Civil, Heroico Cuerpo de
+
+Bomberos y Ambulancias. $1,150.00
+
+d) Por el canje de placas y tarjeta de circulación de
+
+Motocicletas de Corporación Policíaca. $1,000.00
 
 Para el otorgamiento de las placas de demostración y de placas especiales a vehículos destinados y adaptados a personas con discapacidad, los solicitantes deberán cumplir con los requisitos que mediante Reglas de Carácter General emita la Secretaría de Hacienda.
 
@@ -2211,7 +2377,9 @@ ejecución y no retirados oportunamente en términos del
 
 Código de la Hacienda Pública para el Estado de Chiapas, por día. $30.00
 
-V. Por la expedición de constancia de no adeudos fiscales. $270.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+V. Por la expedición de constancia de No adeudos fiscales. $350.00
 
 #### Sección Sexta. Servicios que presta la Dirección de Auditoría Fiscal
 
@@ -2297,6 +2465,20 @@ Expedientes Laborales, hasta 15 hojas, se cobrará: $480.00
 
 Por hoja adicional se cobrará: $5.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VI. Por los servicios que presta la Dirección Obligaciones
+
+Fiscales y Retenciones del Estado, derivado de convenio
+
+de coordinación y colaboración administrativa, que la
+
+Secretaría celebre con los Municipios del Estado, en materia
+
+De servicios de solución tecnológico-administrativa para
+
+la emisión y timbrado masivo de CFDI, pagarán por timbre. $2.00
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### Capítulo IV. Derechos por los Servicios que presta la Secretaría de Agricultura, Ganadería y Pesca
@@ -2313,7 +2495,25 @@ Por los servicios que presta la Dirección de Regulación Pecuaria, a los Ayunta
 
 Servicio Tarifa
 
-I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+I. Por la expedición de Guías de Transito:
+
+a) Para la movilización de semovientes (equinos, porcinos,
+
+aves, ovinos, caprinos y colmenas) productos y
+
+subproductos de origen animal, por paquete:
+
+1. De 100 folios. $1,000.00
+
+2. De 500 folios. $4,000.00
+
+3. De 1000 folios $6,000.00
+
+b) Para la movilización de ganado bovino en pie por
+
+sistema de registro electrónico, paquete de 500 folios. $5,000.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2367,6 +2567,8 @@ registro de fierros, marcas, tatuajes o aretes. $1,200.00
 
 #### Sección Cuarta. Servicios que presta el Centro Estatal de Control de Confianza Certificado
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ### Capítulo V. Derechos por los Servicios que Presta la Secretaría de Seguridad y Protección Ciudadana
 
 ###### Artículo 30.
@@ -2388,6 +2590,8 @@ derivados de los procedimientos administrativos disciplinarios
 hasta por 20 hojas. $70.00
 
 #### Sección Primera. Servicios que presta la Dirección de Concesiones y Autorizaciones
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 31.
 
@@ -2517,7 +2721,7 @@ de seguridad que no han sido sancionadas o
 
 amonestadas. $110.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 32.
 
@@ -2527,95 +2731,93 @@ Servicios Tarifa
 
 I. Por servicio armado por elemento de 12 horas,
 
-de lunes a sábado, por mes. $14,000.00
+de lunes a sábado, por mes. $14,700.00
 
 Cuando el servicio referido en esta fracción sea menor
 
-de un periodo de 30 días, se cobrarán $520.00 por cada
-
-día proporcionado
-
-II. Por servicio armado por elementos de 12 horas,
-
-de lunes a domingo, por mes. $15,700.00
-
-Cuando el servicio referido en esta fracción sea menor
-
-de un periodo de 30 días, se cobrarán $520.00 por cada
+de un periodo de 30 días, se cobrarán $550.00 por cada
 
 día proporcionado.
 
-III. Por servicio desarmado por elemento de 12 horas,
+II. Por servicio armado por elementos de 12 horas, de
 
-de lunes a sábado por mes. $12,900.00
+lunes a domingo, por mes. $16,500.00
 
 Cuando el servicio referido en esta fracción sea menor
 
-de un periodo de 30 días, se cobrarán $520.00 por cada
+de un periodo de 30 días, se cobrarán $550.00 por cada
 
 día proporcionado.
 
-IV. Por Servicio desarmado por elemento de 12 horas,
+III. Por Servicio desarmado por elemento de 12 horas,
 
-de lunes a domingo, por mes. $14,000.00
+de lunes a sábado por mes. $13,500.00
 
 Cuando el servicio referido en esta fracción sea menor
 
-de un periodo de 30 días, se cobrarán $520.00 por cada
+de un periodo de 30 días, se cobrarán $550.00 por cada
+
+día proporcionado.
+
+IV. Por servicio desarmado por elemento de 12 horas,
+
+de lunes a domingo, por mes. $14,700.00
+
+Cuando el servicio referido en esta fracción sea menor
+
+de un periodo de 30 días, se cobrarán $550.00 por cada
 
 día proporcionado.
 
 V. Por servicio extraordinario por elemento de 12 horas:
 
-a) Armado. $1,700.00
+a) Armado. $1,800.00
 
-b) Desarmado $1,600.00
+b) Desarmado $1,700.00
 
-VI. Por Servicio de 6 rondines en turno de 12 hrs,
+VI. Por Servicio de 6 rondines en turno de 12 horas,
 
-con patrulla. $1,700.00
+con patrulla. $1,800.00
 
 VII. Por Servicio de patrulla establecida, en turno
 
-de 12 hrs. $3,500.00
+de 12 horas. $3,700.00
 
 VIII. Por el servicio de traslado de valores dentro de
 
 la localidad, si el valor a trasladar es por la cantidad
 
-de $0 a $25,000.00, se cobrará. $1,600.00
+de $0 a $25,000.00, se cobrará. $2,100.00
 
-IX. Por el servicio de traslado de valores dentro de la
+IX. Por el servicio de traslado de valores dentro de
 
-localidad, si el valor a trasladar es por la cantidad de
+la localidad, si el valor a trasladar es por la cantidad
 
-$25,001.00 a $50,000.00, se cobrará. $2,700.00
+de $25,001.00 a $50,000.00, se cobrará. $3,200.00
 
 X. Por el servicio de traslado de valores dentro de la
 
 localidad, si el valor a trasladar es por la cantidad de
 
-$50,001.00 a $75,000.00, se cobrará. $3,800.00
+$50,001.00 a $75,000.00, se cobrará. $4,300.00
 
 XI. Por el servicio de traslado de valores dentro de la
 
 localidad, si el valor a trasladar es por la cantidad de
 
-$75,001.00 a $100,000.00, se cobrará. $4,900.00
+$75,001.00 a $100,000.00, se cobrará. $5,400.00
 
-Por cada $25,000.00 adicionales, se pagará. $1,600.00
+Por cada $25,000.00 adicionales, se pagará. $2,100.00
 
-XII. Se cobrará $100.00 por cada cinco kilómetros
+XII. Se cobrará $120.00 por cada cinco kilómetros
 
-recorridos, tratándose de localidades que se
+recorridos, tratándose de localidades que se encuentren
 
-encuentren fuera del lugar en donde se contrate el
-
-servicio.
+fuera del lugar en donde se contrate el servicio.
 
 #### Sección Segunda. Servicios que presta la Dirección del Registro y Control del Transporte
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 33.
 
@@ -2673,9 +2875,23 @@ VIII. Por la expedición de constancias de no
 
 infracción para el servicio público. $300.00
 
-#### Sección Tercera. Servicios que presta la Unidad de Planeación
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+IX. Por la expedición de permisos provisionales
+
+para circular sin placas ni tarjeta de circulación para
+
+vehículos por 15 días, se cobrará: $650.00
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IX, P.O. 31 DE DICIEMBRE DE 2019]</small>
+
+El permiso provisional solo podrá ser expedido hasta
+
+en dos ocasiones por vehículo.
+
+#### Sección Tercera. Servicios que presta la Dirección de Proyectos Estratégicos y Capacitación Integral al Sector
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 34.
 
@@ -2717,31 +2933,33 @@ b) Constancia de Estudios. $75.00
 
 c) Credencial de Estudiante. $40.00
 
-#### Sección Primera. Servicios que presta el Instituto para la Gestión Integral de Riesgos de Desastres del Estado de Chiapas
+#### Sección Cuarta. Servicios que presta la Coordinación de Oficinas de Enlace
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 35.
 
 Por los servicios que presta el Centro Estatal de Control de Confianza Certificado, se causarán y pagarán, por cada uno, los siguientes derechos:
 
-Servicio Tarifa
+Servicios Tarifa
 
-I. Por examen en la especialidad de poligrafía. $3,600.00
+I. Por examen en la especialidad de poligrafía. $1,900.00
 
-II. Por examen en la especialidad de psicología. $950.00
+II. Por examen en la especialidad de investigación
 
-III. Por examen en la especialidad de investigación
+socioeconómica. $500.00
 
-socioeconómica. $900.00
+III. Por examen de control de confianza. $4,000.00
 
-IV. Por examen en la especialidad Médica. $1,300.00
-
-V. Por examen en la especialidad Toxicológico. $850.00
+IV. Por examen de portación de armas. $450.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### Capítulo VI. Derechos por los Servicios que Presta la Secretaría de Movilidad y Transporte
+
+#### Sección Primera. Servicios que presta el Instituto para la Gestión Integral de Riesgos de Desastres del Estado de Chiapas
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 36.
 
@@ -2749,151 +2967,175 @@ Por los servicios de expedición de concesiones o permisos, copias de documentos
 
 Servicios Tarifa
 
-I. Por la expedición de copias simples de documentos que
+I. Por la expedición de copias simples de
 
-obren en archivo, excepto copia de concesiones, permisos o
+documentos que obren en archivo, excepto
 
-autorizaciones, hasta 20 hojas. $190.00
+copia de concesiones, permisos o autorizaciones,
 
-Por hoja adicional se pagará $5.00
+hasta 20 hojas. $250.00
 
-II. Por la expedición de constancias de concesión
+Por hoja adicional se pagará. $10.00
 
-y/o permiso. $260.00
+II. Por la expedición de constancias de
+
+concesión y/o permiso. $500.00
 
 III. Por certificación de documentos excepto de
 
-concesiones o permisos hasta 20 hojas $480.00
+concesiones o permisos hasta 20 hojas. $480.00
 
-Por hoja adicional se pagará $5.00
+Por hoja adicional se pagará. $10.00
 
-IV. Por la expedición de títulos de concesión para el
+IV. Por concesión para el servicio de transporte
 
-servicio de transporte público de vehículos cerrados
+público de vehículos en la modalidad rural mixto
 
-de carga exprés; servicio mixto de carga y pasaje con
+de carga y pasaje, conforme a lo siguiente:
 
-capacidad hasta tres toneladas. $1,300.00
+a) Otorgamiento de concesión, por unidad. $20,000.00
 
-V. Por la expedición de títulos de concesión para el
+b) Por la expedición de título de concesión,
 
-servicio de transporte público en las modalidades
+por unidad. $2,500.00
 
-de carga tipo general bajo tonelaje y de materiales
+c) Por la reposición de título de concesión,
 
-para la construcción a granel tipo volteo. $1,700.00
+por unidad. $2,500.00
 
-VI. Por la expedición de permisos para vehículos en la
+V. Por concesión para el servicio de transporte
 
-modalidad de personal al campo y empresas, y de
+público en las modalidades de carga tipo general
 
-transporte especial, conforme a lo dispuesto en el
+bajo tonelaje y de materiales para la construcción
 
-artículo 38 de la Ley de Transportes del Estado,
+a granel, conforme a lo siguiente:
 
-en las fracciones I excepto grúa, II, IV y VI. $1,700.00
+a) Otorgamiento de concesión, por unidad. $20,000.00
 
-VII. Por la expedición de permiso para vehículos en
+b) Por la expedición de título de concesión,
 
-modalidad de transporte especial, tipo grúa. $7,500.00
+por unidad. $2,500.00
 
-VIII. Por la regularización del título de concesión
+c) Por la reposición de título de concesión,
 
-debido a la reposición, cambio de modalidad,
+por unidad. $2,500.00
 
-estatalización del servicio y cambio de adscripción
+VI. Por permisos para vehículos en las modalidades
 
-en cualquier modalidad. $900.00
+de transporte de personal al campo y empresas, y
 
-IX. Por la expedición de títulos de concesión para el
+de transporte especial, conforme a lo dispuesto en los
 
-servicio de transporte público, en la modalidad de pasaje,
+artículos 38 fracciones I excepto grúa, II, IV,VI, y
 
-tipo urbano, suburbano y foráneo, de alquiler o taxi y
+artículo 41 fracción VI, de la Ley de Transportes del
 
-exclusivo de turismo, con unidades tipo autobús, minibus,
+Estado, conforme a lo siguiente:
 
-combi, vagoneta. $4,400.00
+a) Por expedición de permiso, por unidad. $5,000.00
 
-X. Por la expedición de títulos de concesión para el
+b) Por reposición de permiso. $2,500.00
 
-servicio de transporte público en la modalidad de carga
+c) Por revalidación de permiso, por unidad. $2,500.00
 
-tipo general de alto tonelaje y especializada. $4,100.00
+VII. Por permisos para vehículos en la modalidad
 
-XI. Por la integración de expedientes administrativos de
+de transporte especial tipo grúa, conforme a lo siguiente:
 
-regularización de concesiones en cualquier modalidad y
+a) Por expedición de permiso, por unidad. $20,000.00
 
-tipo de unidad, por cesión de derechos entre particulares,
+b) Por reposición de permiso. $2,500.00
 
-causa hereditaria e invalidez. $370.00
+c) Por revalidación de permiso, por unidad. $10,000.00
 
-XII. Por expedición de concesión de cualquier modalidad
+VIII. Por la regularización del título de concesión,
+
+por cambio de modalidad, estatalización del servicio
+
+o cambio de adscripción en cualquier modalidad. $5,000.00
+
+IX. Por concesión para el servicio de transporte
+
+público, en las modalidades de pasajeros, tipo urbano,
+
+suburbano y foráneo, de alquiler o taxi, conforme a lo siguiente:
+
+a) Otorgamiento de concesión, por unidad. $20,000.00
+
+b) Por la expedición de títulos de concesión, por unidad. $2,500.00
+
+c) Por la reposición de títulos de concesión por unidad. $2,500.00
+
+X. Por concesión para el servicio de transporte público
+
+en la modalidad de carga tipo general de alto tonelaje
+
+y especializada, conforme a lo siguiente:
+
+a) Otorgamiento de concesión, por unidad. $20,000.00
+
+b) Por la expedición de títulos de concesión,
+
+por unidad. $2,500.00
+
+c) Por la reposición de títulos de concesión
+
+por unidad. $2,500.00
+
+XI. Por la integración de expedientes administrativos
+
+de regularización de concesiones en cualquier modalidad
 
 y tipo de unidad, por cesión de derechos entre particulares,
 
-causa hereditaria e invalidez. $7,500.00
+causa hereditaria e invalidez. $500.00
 
-XIII. Por la reposición, cuando proceda, de permiso, en
+XII. Por otorgamiento de concesión de cualquier
 
-cualquiera de sus modalidades y tipos de unidades. $75.00
+modalidad y tipo de unidad, por cesión de derechos,
 
-XIV. Por la integración de expediente para solicitar
+conforme a lo siguiente.
+
+a) Entre particulares, por unidad. $20,000.00
+
+b) Hereditario o invalidez, por unidad. $5,000.00
+
+XIII. Por la integración de expediente para solicitar
 
 una concesión y/o permiso, en cualquiera de sus
 
-modalidades. $440.00
+modalidades. $1,000.00
 
-XV. Por la expedición de permiso para vehículos de
+XIV. Por permisos para vehículos en la modalidad
 
-transporte especial, en la modalidad de ecotaxi y
+de Transporte Especial, siguientes:
 
-transporte turístico. $4,400.00
+a) Turístico hasta 16 pasajeros por unidad, conforme a lo siguiente:
 
-XVI. Por la búsqueda de datos en los libros de registro de
+1. Expedición de permiso. $10,000.00
 
-concesión, cuando proceda. $220.00
+2. Por reposición de permiso. $2,500.00
 
-XVII. Por realizar estudios socio económico, a los
+3. Por la revalidación de permiso. $5,000.00
 
-solicitantes de concesiones y/o permisos, en cualquier
+b) Ecotaxi por unidad, conforme a lo siguiente:
 
-modalidad y tipo de unidad. $220.00
+1. Expedición de permiso. $4,400.00
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+2. Por reposición de permiso. $2,000.00
 
-XVIII. Por la revalidación de permisos para vehículos en la
+3. Por la revalidación de permiso. $2,000.00
 
-modalidad de transporte de personal de campo y empresas, y
+XV. Por la búsqueda de datos en los libros de
 
-de transporte especial, conforme a lo dispuesto en el artículo
+registro de concesión, cuando proceda. $500.00
 
-38 de la Ley de Transportes del Estado, en las fracciones I, II,
+XVI. Por realizar estudio socio económico, a los
 
-IV y VI, por unidad. $1,700.00
+solicitantes de concesiones y/o permisos, en
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-XIX. Por revalidación de permiso para vehículo en la modalidad de
-
-transporte especial, tipo grúa, por unidad. $7,400.00
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-XX. Por la revalidación de permiso para vehículos de transporte
-
-especial, en la modalidad de ecotaxi y transporte turístico, por
-
-unidad. $4,400.00
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-XXI. Por la integración de expediente administrativo de
-
-regularización de concesiones en cualquier modalidad por
-
-disgregación de sociedades. $1,400.00
+cualquier modalidad. $1,000.00
 
 Todos y cada uno de los conceptos y derechos establecidos en la presente Sección, se causarán por cada unidad de manera particular sin efectos genéricos.
 
@@ -2901,179 +3143,175 @@ Todos y cada uno de los conceptos y derechos establecidos en la presente Secció
 
 Por los servicios que presta la Dirección de Registro y Control del Transporte, causarán y pagarán, por cada uno, los siguientes derechos:
 
-Servicio Tarifa
+Servicios Tarifa
 
-I. Por la expedición de constancias de no infracción de
+I. Por la expedición del permiso de ruta o zona
 
-vehículos automotores destinados a la prestación del servicio
+para el servicio público de transporte para las
 
-público de transporte en cualquier modalidad. $400.00
+modalidades de carga, de personal al campo y
 
-II. Por la expedición de permiso de ruta o zona para el servicio
+empresas, rural mixto de carga y pasaje y, especial. $1,500.00
 
-público de transporte en vehículos cerrados de carga exprés,
+II. Por refrendo anual del permiso de ruta o zona para
 
-servicio rural mixto de carga y pasaje con capacidad de hasta
+el servicio público de transporte para las modalidades
 
-tres toneladas. $1,200.00
+de carga, de personal al campo y empresas, rural mixto
 
-III. Por refrendo anual del permiso de ruta o zona para el servicio
+de carga y pasaje y, especial. $1,000.00
 
-público de transporte en vehículos cerrados de carga express,
+III. Por la expedición del permiso de sustitución de
 
-servicio rural mixto de carga y pasaje con capacidad hasta
+vehículos automotores destinados a la prestación
 
-tres toneladas; previa presentación en el módulo de cobro, del
+del servicio público de transporte, en cualquier modalidad
 
-recibo oficial de pago anterior por concepto de expedición de
+por vigencia de 30 días. $1,000.00
 
-permiso de zona. $960.00
+IV. Por la expedición del permiso de ruta o zona para
 
-IV. Por la expedición de permiso de sustitución de Vehículos
+el servicio público de transporte en la modalidad de
 
-automotores destinados a la prestación del servicio público de
+pasajeros. $2,500.00
 
-transporte, en cualquier modalidad por vigencia de 30 días. $720.00
+V. Por refrendo anual del permiso de ruta o zona para el
 
-V. Por la expedición de permiso de zona para el servicio público
+servicio público de transporte en la modalidad de pasajeros. $1,500.00
 
-de transporte en las modalidades de carga tipo general, bajo
+VI. Por la expedición del permiso de paso o penetración
 
-tonelaje, alto tonelaje, de materiales para la construcción a
+para el servicio público de transporte de pasajeros o de carga;
 
-granel tipo volteo y especializada. $1,200.00
+previa presentación del permiso federal vigente. $1,500.00
 
-VI. Por refrendo anual del permiso de zona para el servicio
+VII. Por refrendo anual del permiso de paso o
 
-público de transporte en las modalidades de carga tipo
+penetración para el servicio público de transporte
 
-general, bajo tonelaje, alto tonelaje, de materiales para la
+de pasajeros o de carga; previa presentación del
 
-construcción a granel tipo volteo y especializada, previa
+permiso federal vigente. $1,000.00
 
-presentación en módulo de cobro, del recibo oficial de pago
+VIII. Por la autorización de nueva asignación de
 
-anterior por concepto de expedición de permiso de zona. $960.00
+placas, para la prestación del servicio público de
 
-VII. Por la expedición de permiso de ruta o zona para el servicio
+transporte, por robo o siniestro de vehículo con
 
-público de transporte en las modalidades de pasaje, tipo
+placas, robo o extravío de placas de circulación, a
 
-urbano, suburbano y foráneo, de alquiler o taxi y exclusivo de
+los concesionarios y permisionarios en cualquier
 
-turismo con unidades tipo autobús, minibús, combi, vagoneta. $2,400.00
+modalidad. Previa presentación del documento
 
-VIII. Por refrendo anual del permiso de ruta o zona para el servicio
+expedido por la Fiscalía General del Estado. $2,000.00
 
-público de transporte en las modalidades de pasaje, tipo
+IX. Por la autorización de reposición de tarjeta
 
-urbano, suburbano y foráneo, de alquiler o taxi y exclusivo de
+de circulación para la prestación del servicio público
 
-turismo con unidades tipo autobús, minibús, combi, vagoneta;
+de transporte en cualquier modalidad. $800.00
 
-previa presentación en módulo de cobro, del recibo oficial de
+X. Por la expedición de copias certificadas de
 
-pago anterior por concepto de expedición de permiso de ruta
+documentos originales que obren en los archivos
 
-o zona. $1,200.00
-
-IX. Por la expedición de permiso de paso o penetración para el
-
-servicio público de transporte de pasaje y carga; previa
-
-presentación del permiso federal vigente de pasaje o carga. $1,200.00
-
-X. Por refrendo anual del permiso de paso o penetración para el
-
-servicio público de transporte de pasaje o carga; previa
-
-presentación del permiso federal vigente de pasaje o carga, y
-
-en el módulo de cobro, del recibo oficial de pago anterior por
-
-concepto de expedición de permiso de paso o penetración. $960.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XI. Por la autorización de nueva asignación de placas,
-
-para la prestación del servicio público de transporte,
-
-a los concesionarios y permisionarios en cualquier
-
-modalidad, en el caso de:
-
-a) Robo o siniestro de su vehículo y placas. $3,000.00
-
-b) Robo o extravío de placas. $8,000.00
-
-En cualquiera de los casos señalados, deberá exhibirse
-
-documento idóneo expedido por la Fiscalía de Robo de
-
-Vehículos, de la Fiscalía General del Estado, en el que
-
-conste el hecho.
-
-XII. Por la autorización de reposición de tarjeta de circulación para
-
-la prestación del servicio público de transporte en cualquier
-
-modalidad. $800.00
-
-XIII. Por la expedición de copias certificadas de documentos
-
-originales que obren en los archivos de la Dirección de
-
-Registro y Control del Transporte; se exceptúan órdenes de
-
-pago, permisos de ruta, zona, sustitución, paso o penetración;
+de la Dirección de Registro y Control del Transporte,
 
 hasta por 20 hojas. $480.00
 
-Por hoja adicional se pagará. $5.00
+Por hoja adicional se pagará $10.00
 
-XIV. Por expedición de constancia de verificación física,
+XI. Por expedición de constancia de verificación
 
-electromecánica y de uniforme de vehículos automotores
+física, electromecánica y de uniforme de vehículos
 
-destinados a la prestación del servicio público de transporte,
+automotores destinados a la prestación del servicio
 
-en cualquier modalidad. $400.00
+público de transporte, en cualquier modalidad. $500.00
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
+XII. Por la solicitud de elaboración de estudio técnico
+
+de factibilidad para el servicio público de transporte. $6,000.00
+
+Este pago no garantiza que el resultado del estudio
+
+técnico de factibilidad sea positivo para el solicitante.
+
+XIII. Por la autorización anual del uso de publicidad
+
+por unidad, a los concesionarios y permisionarios de
+
+vehículos que prestan el servicio público de transporte
+
+en cualquier modalidad. $1,500.00
+
+XIV. Por la autorización eventual en los casos que
+
+establece el Reglamento de la Ley de Transportes
+
+del Estado. $1,000.00
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 38.
 
-Por los servicios que presta la Unidad de Planeación, se causarán y pagarán, por cada uno, los siguientes derechos:
+Por los servicios que presta la Dirección de Proyectos Estratégicos y Capacitación Integral al Sector, se causarán y pagarán, por cada uno, los siguientes derechos:
 
 Servicios Tarifa
 
-I. Por la expedición del certificado de aptitud para
+I. Por la expedición del certificado de aptitud
 
-operadores del servicio público de transporte
+para operadores del servicio público de transporte
 
-de nuevo ingreso. $200.00
+de nuevo ingreso. $250.00
 
-II. Por expedición del certificado de aptitud
+II. Por expedición del certificado de aptitud para
 
-para operadores del transporte público:
+operadores del transporte público:
 
-a) A un año $250.00
+a) A un año. $300.00
 
-b) A dos años $350.00
+b) A dos años. $400.00
 
 III. Por reposición del certificado de aptitud de
 
-operadores del servicio de transporte público
+operadores del servicio de transporte público con
 
-con vigencia de origen, robo o extravío. $200.00
+vigencia de origen, robo o extravío. $250.00
 
 IV. Por expedición del certificado de aptitud de
 
-operadores del servicio de transporte público con
+operadores del servicio de transporte público
 
-vigencia de origen, por cambio de municipio. $200.00
+con vigencia de origen, por cambio de municipio. $250.00
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 38 Bis.
+
+Por los servicios que presta la Coordinación de Oficinas de Enlace causarán y pagarán, por cada uno, los siguientes derechos:
+
+Servicios Tarifa
+
+I. Por la expedición de constancias de no
+
+infracción de vehículos automotores
+
+destinados a la prestación del servicio público
+
+de transporte en cualquier modalidad. $500.00
+
+II. Por la expedición de copias certificadas
+
+de documentos originales que obren en los archivos
+
+de la Coordinación de Oficinas de Enlace hasta
+
+por 20 hojas. $480.00
+
+Por hoja adicional se pagará. $10.00
 
 ### Capítulo VII. Derechos por los Servicios que Presta la Secretaría de Educación
 
@@ -3201,17 +3439,21 @@ XII. Por la solicitud de autorización de ampliación de
 
 domicilio de instituciones educativas particulares. $4,100.00
 
-XIII. Por la solicitud de actualización del acuerdo de
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-autorización para impartir estudios y/o reconocimiento
+XIII. Por la solicitud de actualización del
 
-de validez oficial:
+acuerdo de autorización para impartir estudios
 
-a) Capacitación para el trabajo. $4,100.00
+y/o reconocimiento de validez oficial:
 
-b) Tipo básico. $4,100.00
+a) Capacitación para el trabajo $4,100.00
 
-c) Tipo superior. $4,100.00
+b) Tipo básico $4,100.00
+
+c) Tipo medio superior. $4,100.00
+
+d) Tipo superior. $4,100.00
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -3329,9 +3571,11 @@ I. Por la expedición de certificado de estudios tipo básico
 
 y capacitación para el trabajo. $60.00
 
-II. Por la expedición de duplicados de certificados de
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-estudios tipo básico, medio superior, superior y capacitación
+II. Por la expedición de duplicados de certificados
+
+de estudios tipo básico, medio superior y capacitación
 
 para el trabajo. $60.00
 
@@ -3339,7 +3583,11 @@ III. Por la expedición de:
 
 a) Certificados de grado. $380.00
 
-b) Legalización de títulos de grado. $380.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+b) Legalización de firmas en Títulos electrónicos
+
+profesionales o Títulos electrónicos de grado. $600.00
 
 c) Por la expedición de actas de examen
 
@@ -3347,9 +3595,11 @@ profesional medio superior y superior. $380.00
 
 IV. Por los servicios siguientes:
 
-a) Elaboración, expedición y registro de
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-título profesional medio superior y superior particulares. $1,200.00
+a) Expedición y registro de título profesional
+
+electrónico medio superior y superior particulares. $1,200.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -3359,13 +3609,13 @@ c) Por las visitas de supervisión a instalaciones
 
 de centros educativos para el trabajo, por cada ciclo escolar. $1,200.00
 
-V. Por la elaboración, expedición y registro de
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-títulos profesionales nivel superior oficiales;
+V. Expedición y registro de títulos profesionales
 
-certificación de título profesional, nivel medio
+electrónicos nivel superior oficiales, certificación
 
-superior y superior. $220.00
+de título profesional nivel medio superior y superior. $220.00
 
 VI. Por la visita de supervisión a instalaciones
 
@@ -3383,9 +3633,11 @@ VIII. Por la expedición y legalización de certificados
 
 de estudios de licenciatura total o parcial. $380.00
 
-IX. Por la expedición de duplicado de
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-certificados de estudios de licenciatura. $220.00
+IX. Por la expedición de duplicado de certificados
+
+de estudios tipo superior. $220.00
 
 X. Por la validación de constancias de servicio social. $150.00
 
@@ -3407,13 +3659,17 @@ Por los servicios que presta la Dirección de Protección contra Riesgos Sanitar
 
 Servicio Tarifa
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 I. Por la expedición de licencias de funcionamiento
 
-para venta de bebidas alcohólicas. 1,500.00
+para venta de bebidas alcohólicas. $2,000.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 II. Por la revalidación anual de licencias de
 
-funcionamiento para venta de bebidas alcohólicas. $1,500.00
+funcionamiento de bebidas alcohólicas. $2,000.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -3463,9 +3719,13 @@ a) Para construcción de inmuebles de atención médica,
 
 incluyendo tres asesorías. $3,000.00
 
-b) Para panteones. $1,900.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-c) Para crematorios. $1,500.00
+b) Para panteones. $2,000.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+c) Para crematorios. $2,000.00
 
 II. Por las visitas de verificación y/o muestreo de
 
@@ -3571,17 +3831,21 @@ validación de la expedición de la licencia de
 
 funcionamiento de guarderías infantiles. $1,500.00
 
-XV. Por la expedición de licencia sanitaria
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-para vehículos que se utilicen para el traslado de cadáveres
+XV. Por la expedición de licencia sanitaria para
 
-o sus partes. Con vigencia de 2 años. $1,100.00
+vehículos que se utilicen para el traslado de cadáveres
+
+o sus partes. Con vigencia de 2 años. $1,500.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 XVI. Por la revalidación de la licencia sanitaria
 
-para vehículos que se utilicen para
+para vehículos que se utilicen para el traslado de
 
-el traslado de cadáveres o sus partes. $600.00
+cadáveres o sus partes. $1,200.00
 
 XVII. Por la expedición de permiso sanitario de
 
@@ -3617,9 +3881,9 @@ Por los servicios que preste la Secretaría de la Honestidad y Función Pública
 
 Servicios Tarifa
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-I. Por la expedición de constancias de no inhabilitación. $135.00
+I. Por la expedición de constancias de no inhabilitación. $140.00
 
 II. Por la expedición de constancias de inscripción en el
 
@@ -3713,39 +3977,53 @@ VI. Por la evaluación del informe preventivo
 
 modalidad extracción de materiales pétreos. $7,875.00
 
-VII. Por la evaluación del informe preventivo
+VII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2019)
 
-para la continuación del aprovechamiento de
-
-materiales pétreos de proyectos autorizados. $5,145.00
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 VIII. Por la autorización para la extracción y
 
 procesamiento de minerales o sustancias que
 
-constituyen depósitos de naturaleza semejante a los
+constituyen depósitos de naturaleza semejante
 
-componentes de los terrenos por metro cúbico:
+a los componentes de los terrenos por metro cúbico:
 
 a) Materiales aluviales: arena y grava. $6.00
 
-b) Piedra caliza, arcilla, tezontle, pomacita y grava roja. $11.00
+b) Piedra caliza, arcilla, tezontle, pomacita, grava roja,
 
-c) Otros que constituyan depósitos de naturaleza
+entre otros, competencia del Estado. $11.00
 
-semejante a los componentes del suelo. $11.00
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-IX. Por la emisión de la autorización de la licencia
+IX. Emisión de la autorización de licencia de
 
-de funcionamiento de fuentes fijas de emisiones
+funcionamiento de fuentes fijas de emisiones a la atmósfera:
 
-a la atmósfera. $12,000.00
+a) Gran empresa. $13,000.00
 
-X. Por la emisión del refrendo anual de la licencia
+b) Mediana empresa. $12,000.00
 
-de funcionamiento de fuentes fijas de emisiones
+c) Pequeña empresa. $11,000.00
 
-a la atmósfera. $3,700.00
+d) Micro empresa. $10,000.00
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+X. Por la emisión del refrendo anual de la
+
+licencia de funcionamiento de fuentes fijas
+
+de emisiones a la atmósfera:
+
+a) Gran empresa. $4,000.00
+
+b) Mediana empresa. $3,500.00
+
+c) Pequeña empresa $3,000.00
+
+d) Micro empresa. $2,500.00
 
 XI. Por la evaluación del manifiesto para
 
@@ -3761,11 +4039,19 @@ XIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 XIV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
-XV. Por la actualización de la licencia de
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-funcionamiento de fuentes fijas de emisiones
+XV. Actualización de la licencia de funcionamiento
 
-a la atmósfera. $6,000.00
+de fuentes fijas de emisiones a la atmósfera:
+
+a) Gran empresa. $7,000.00
+
+b) Mediana empresa. $6,000.00
+
+c) Pequeña empresa. $5,000.00
+
+d) Micro empresa. $4,000.00
 
 XVI. Por el refrendo anual del registro de generadores
 
@@ -3777,11 +4063,19 @@ b) Grandes generadores. $4,305.00
 
 XVII. Por la expedición de dictámenes técnicos. $8,500.00
 
-XVIII. Por la evaluación de la solicitud de
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-licencia de funcionamiento de fuentes fijas
+XVIII. Evaluación de la solicitud de licencia de
 
-de emisiones a la atmósfera. $7,500.00
+funcionamiento de fuentes fijas de emisiones a la atmósfera:
+
+a) Gran empresa. $8,000.00
+
+b) Mediana empresa. $7,000.00
+
+c) Pequeña empresa. $6,000.00
+
+d) Micro empresa. $5,000.00
 
 XIX. Por los trámites extemporáneos de
 
@@ -3832,6 +4126,26 @@ XXV. Por los servicios de evaluación de los
 manifiestos de impacto ambiental en la
 
 modalidad de rellenos sanitarios. $23,100.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXVI. Por el uso de servicios ambientales
+
+en modalidad por autorización de sistemas
+
+agroforestales. $68,500.00
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XXVII. Por la evaluación del manifiesto
+
+de impacto ambiental de residuos de manejo
+
+especial de centros de acopio, modalidad:
+
+a) pequeños acopiadores. $1,000.00
+
+b) medianos acopiadores. $1,500.00
 
 ### Capítulo XI. Derechos por los servicios que presta la Secretaría de Protección Civil
 
@@ -4061,11 +4375,35 @@ protección civil, dirigida a instituciones, organismos y
 
 asociaciones privadas y del sector social. $1,200.00
 
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-### Capítulo XII. Derechos por los servicios que presta la Oficialía Mayor del Estado de Chiapas
+### Capítulo XII. Derechos por los servicios que presta el Instituto de Ciencia, Tecnología e Innovación del Estado de Chiapas
 
-Artículo 47 A.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 47 Bis.
+
+Por los servicios que presta la Dirección de Infraestructura Tecnológica, se causarán y pagarán, por cada uno, los siguientes derechos:
+
+Servicios Tarifa
+
+I. Para el Uso de Servicios Digitales de
+
+Certificación y Encriptación por documento. $220.00
+
+II. Para el Uso de Infraestructura Tecnológica
+
+y Comunicaciones del Data Center Virtual,
+
+renta mensual Incluye: hasta 5GB del almacenamiento,
+
+hasta 1º servidores virtuales por DCV, tipo de acceso:
+
+Internet/VPN, Vlan 1 pública, 2 privadas, Firewall Virtual
+
+Dedicado: incluido. $6,800.00
+
+El precio de renta mensual no incluye servidores virtuales.
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO XII], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -4244,3 +4582,11 @@ Artículo Segundo.- En un plazo máximo de 180 días contados a partir de la apr
 Los Ayuntamientos deberán signar junto a la Comisión antes referida, que manifiestan por escrito su interés de adherirse al Programa Especial de Apoyo para la Regularización de los Derechos Reales de la Propiedad, sujetándose a los lineamientos que para tal efecto se emitan, así como a las disposiciones legales correspondientes al caso.
 
 Artículo Tercero.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 043 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día primero de enero de dos mil veinte.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
