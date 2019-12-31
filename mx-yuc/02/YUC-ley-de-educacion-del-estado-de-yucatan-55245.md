@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-55245"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-23"
-last_updated: "2019-11-14"
+last_updated: "2019-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 23 de abril de 2007.
 
@@ -135,13 +135,17 @@ VIII.- La educación que imparta el estado promoverá la inclusión, como eje tr
 
 IX.- Fomentar la creación de Comités Escolares para promover la Educación Ambiental.
 
-> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 7.
 
-La educación que el Estado imparta será de calidad y gratuita. Las donaciones o cuotas voluntarias destinadas a dicha educación en ningún caso se entenderán como contraprestaciones del servicio educativo. Las autoridades educativas en el ámbito de su competencia, establecerán los mecanismos para la regulación, destino, aplicación, transparencia y vigilancia de las donaciones o cuotas voluntarias.
+La educación que el Estado imparta será de calidad, gratuita e inclusiva. Las donaciones o cuotas voluntarias destinadas a dicha educación en ningún caso se entenderán como contraprestaciones del servicio educativo. Las autoridades educativas en el ámbito de su competencia, establecerán los mecanismos para la regulación, destino, aplicación, transparencia y vigilancia de las donaciones o cuotas voluntarias.
+
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 Se prohíbe el pago de cualquier contraprestación que impida o condicione la prestación del servicio educativo a los educandos.
+
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 En ningún caso se podrá condicionar la inscripción, el acceso a la escuela, la aplicación de evaluaciones o exámenes, la entrega de documentación a los educandos o afectar en cualquier sentido la igualdad en el trato a los alumnos, al pago de contraprestación alguna.
 
@@ -397,11 +401,11 @@ Las autoridades educativas municipales podrán celebrar convenios entre sí o co
 
 ### CAPÍTULO I. De la Calidad Educativa
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 21.
 
-El Estado está obligado a que la educación que imparta, promueva u ofrezca en la Entidad sea gratuita y de calidad, mediante el empleo de elementos didácticos y pedagógicos de vanguardia, basada en los últimos avances científicos y de contenido humanista que garanticen el máximo logro de aprendizaje en los educandos.
+El Estado está obligado a que la educación que imparta, promueva u ofrezca en la Entidad sea gratuita, inclusiva, equitativa y de calidad, mediante el empleo de elementos didácticos y pedagógicos de vanguardia, basada en los últimos avances científicos y de contenido humanista que garanticen el máximo logro de aprendizaje en los educandos.
 
 El concepto de calidad para el Sistema Educativo Estatal comprende tres premisas: relevancia, entendida como la trascendencia y pertinencia de los planes y programas de estudio y en general del Sistema Educativo Estatal; eficacia, entendida como la capacidad de alcanzar los objetivos y las metas educativas; y eficiencia, entendida como el aprovechamiento adecuado de los recursos asignados a la educación.
 
@@ -793,15 +797,17 @@ Los supervisores y jefes de sector trabajarán coordinadamente, para favorecer l
 
 ### CAPÍTULO II. De los Planes y Programas
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 40.
 
-Sin detrimento de la atribución exclusiva de la autoridad educativa federal de determinar los planes y programas de la educación preescolar, primaria, secundaria y normal, la autoridad educativa estatal promoverá su enriquecimiento con contenidos regionales.
+Sin detrimento de la atribución exclusiva de la autoridad educativa federal de determinar los planes y programas de la educación preescolar, primaria, secundaria, media superior y normal, la autoridad educativa estatal promoverá su enriquecimiento con contenidos regionales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 41.
 
-Al promover el mejoramiento de los planes y programas a que se refiere el artículo inmediato anterior, la autoridad educativa estatal deberá procurar que el trabajo escolar:
+Al promover el mejoramiento de los planes y programas a que se refiere el artículo inmediato anterior, la autoridad estatal favorecerá el desarrollo integral y gradual de los educandos en los niveles preescolar, primaria, secundaria, media superior y normal, considerando la diversidad de habilidades de las personas, a partir de reconocer su ritmo, estilo e intereses de aprendizaje, con un carácter didáctico y curricular diferenciado; así como el uso de lengua de Señas Mexicana, garantizando la educación inclusiva y equitativa de calidad; asimismo se procurará que el trabajo escolar:
 
 I.- Sea un sustento adecuado para el aprendizaje y el desarrollo integral de la personalidad del alumno. Para ello especificarán metas en cada nivel y grado en términos de valores, conocimientos, habilidades y actitudes;
 
@@ -2556,3 +2562,9 @@ D.O. 14 DE NOVIEMBRE DE 2019.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
 
 Segundo.- Las disposiciones establecidas en el presente Decreto serán aplicables a partir del ciclo escolar 2020 – 2021.
+
+D.O. 31 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 160/2019 POR EL QUE SE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, EN MATERIA DE EDUCACIÓN INCLUSIVA”.]
+
+Único.- El presente decreto entrará en vigor el día 1 de enero de 2020, previa publicación en el diario Oficial del Gobierno del Estado de Yucatán.
