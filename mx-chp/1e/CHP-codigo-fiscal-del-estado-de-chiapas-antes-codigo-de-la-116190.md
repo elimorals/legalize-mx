@@ -4,7 +4,7 @@ identifier: "CHP-codigo-fiscal-del-estado-de-chiapas-antes-codigo-de-la-116190"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-05-18"
-last_updated: "2019-09-18"
+last_updated: "2019-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de Mayo del 2016.
 
@@ -263,11 +263,11 @@ IX. El Director de Auditoría Fiscal.
 
 X. Los Delegados de Hacienda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 14.
 
-La recepción de todos los ingresos que tiene derecho a percibir el Estado la realizará la Secretaría a través de la Tesorería Única; la recaudación de las contribuciones y de los créditos fiscales en favor del Estado, podrán realizarse por las áreas de recaudación de ingresos y otras oficinas que autorice la propia Secretaría, pudiendo convenir y/o contratar con los Ayuntamientos Municipales, las instituciones bancarias y empresas privadas, para que se constituyan como auxiliares o centros autorizados en el cobro de las contribuciones, a través de la formalización de los instrumentos jurídicos correspondientes, mismos que serán suscritos por la Autoridad Recaudadora, los cuales no estarán sujetos a lo dispuesto por la Ley de Adquisiciones, Arrendamientos de Bienes Muebles y la Contratación de Servicios para el Estado de Chiapas.
+La recepción de todos los ingresos que tiene derecho a percibir el Estado, por parte de la Federación, la realizará la Secretaría a través de la Tesorería Única; la recaudación de las contribuciones y de los créditos fiscales a favor del Estado, podrán realizarse por las áreas de recaudación de ingresos y otras oficinas que autorice la propia Secretaría, pudiendo convenir y/o contratar con los Ayuntamientos Municipales, las instituciones bancarias y empresas privadas para que se constituyan como auxiliares o centros autorizados en el cobro de las contribuciones, a través de la formalización de los instrumentos jurídicos correspondientes, mismos que serán suscritos por la autoridad hacendaria competente, los cuales no estarán sujetos a lo dispuesto por la Ley de Adquisiciones, Arrendamientos de Bienes Muebles y la Contratación de Servicios para el Estado de Chiapas.
 
 La Secretaría estará facultada para celebrar mandatos, instrucciones o cualquier otro instrumento con instituciones, privadas o públicas, a fin de garantizar la transparencia de los ingresos estatales afectos a los fideicomisos para la instrumentación financiera a que hace referencia el artículo 407 del presente Código. Dichos mandatos, instrucciones e instrumentos serán considerados irrevocables hasta en tanto las obligaciones a cargo del Estado hayan sido cumplidas de conformidad con lo establecido en el fideicomiso para la instrumentación financiera correspondiente.
 
@@ -643,9 +643,13 @@ I. En el cambio de propietario de vehículos, deberá tramitarse la baja de plac
 
 II. Los propietarios de vehículos están obligados a presentar la baja correspondiente dentro del término de 60 sesenta días contados a partir del día siguiente de la determinación por autoridad competente en los siguientes casos:
 
-a) Que como resultado de algún accidente sea declarada la pérdida total del vehículo por la Fiscalía General del Estado de Chiapas; por las autoridades homólogas en otras Entidades o por la Procuraduría General de la República.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-b) Que acredite el robo del vehículo, mediante acta administrativa o documento análogo instrumentado ante la Fiscalía General del Estado de Chiapas; por las autoridades homólogas en otras entidades o por la Procuraduría General de la República.
+a) Que como resultado de algún accidente sea declarada la pérdida total del vehículo por la Fiscalía General del Estado de Chiapas; por las autoridades homólogas en otras Entidades o por la Fiscalía General de la República.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+b) Que acredite el robo del vehículo, mediante acta administrativa o documento análogo instrumentado ante la Fiscalía General del Estado de Chiapas; por las autoridades homólogas en otras entidades o por la Fiscalía General de la República.
 
 c) Que acredite el robo y/o extravío de las placas de circulación mediante acta administrativa o documento análogo instrumentado por el Ministerio Público competente de la Fiscalía General del Estado de Chiapas o por las autoridades homólogas en otras entidades federativas.
 
@@ -663,7 +667,9 @@ Cuando los contribuyentes causen alta en el Registro Estatal de Vehículos y no 
 
 Los concesionarios o permisionarios del servicio público del Estado que se encuentren sujetos a lo establecido en las fracciones I y II de este artículo, adicionalmente deberán dar cumplimiento a las disposiciones establecidas en la legislación del transporte aplicable en la Entidad.
 
-El Titular del Poder Ejecutivo del Estado a través de la Secretaría, podrá mediante acuerdo establecer la entrada en vigencia del programa de canje de placas en el Estado, señalando en el mismo los beneficios que se otorgarán a los contribuyentes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+La entrada en vigencia del programa de canje de placas en el Estado, se podrá establecer en la Ley de Ingresos para el ejercicio que corresponda o mediante acuerdo del Poder Ejecutivo del Estado a través de la Secretaría, señalando en el mismo los beneficios que se otorgarán a los contribuyentes.
 
 #### Sección primera. Del Pago de las Contribuciones y de los Créditos Fiscales
 
@@ -795,9 +801,15 @@ Durante el periodo que el contribuyente se encuentre pagando a plazos en los té
 
 Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones hacendarías, el monto de los mismos se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. El factor de actualización se obtendrá hasta el diezmilésimo, dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período, entre el citado índice correspondiente al mes anterior al más antiguo de dicho período publicado por el Banco de México. Las contribuciones y los aprovechamientos no se actualizarán por fracciones de mes. Este procedimiento se aplicará a las devoluciones que deba realizar la autoridad hacendaría a los contribuyentes.
 
-En los casos en que el índice del mes anterior al más reciente del período no haya sido publicado deberá aplicarse el último índice mensual publicado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período no haya sido publicado deberá aplicarse el último índice mensual publicado.
 
 Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Cuando el resultado de la operación a que se refiere el primer párrafo de este artículo sea menor a 1, el factor de actualización que se aplicará al monto de las contribuciones y aprovechamientos, será 1.
 
 ###### Artículo 44.
 
@@ -1715,9 +1727,21 @@ Tapachula, Tuxtla Chico,
 
 Unión Juárez.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-VIII. Motozintla. Amatenango de la Frontera, Bejucal de Ocampo, Bella Vista, Chicomuselo, El Porvenir, Frontera Comalapa, La Grandeza, Mazapa de Madero, Motozintla, Siltepec, Capitán Luis Ángel Vidal.
+VIII. Motozintla. Amatenango de la Frontera,
+
+Bejucal de Ocampo, Bella Vista,
+
+Chicomuselo, El Porvenir,
+
+Frontera Comalapa, La Grandeza,
+
+Mazapa de Madero, Motozintla,
+
+Siltepec, Capitán Luis Ángel Vidal y
+
+Honduras de la Sierra.
 
 IX. Huixtla. Acacoyagua, Acapetahua, Escuintla,
 
@@ -1857,7 +1881,9 @@ En el caso de notificaciones por correo electrónico, el acuse de recibo consist
 
 II. Por correo ordinario o por telegrama, cuando se trate de actos distintos a los referidos en la fracción anterior.
 
-III. Por estrados, cuando la persona a quien deba notificarse no sea localizable en el domicilio que haya señalado para efectos del Registro Estatal de Contribuyentes, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación, desocupe el local donde tenga su domicilio fiscal sin dar el aviso de cambio de domicilio y en los demás casos que señalen las leyes hacendarías y este Código; misma que se efectuará fijando durante quince días consecutivos el documento que se pretenda notificar, en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación, o publicando el documento durante el mismo plazo en la página electrónica que al efecto establezca la Secretaría, dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado, según corresponda; la autoridad dejará constancia en el expediente respectivo, en estos casos se tendrá como fecha de notificación la del décimo sexto día siguiente a aquel en que se hubiera fijado o publicado el documento.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+III. Por estrados, cuando la persona a quien deba notificarse no sea localizable en el domicilio que haya señalado para efectos del Registro Estatal de Contribuyentes, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación, desocupe el local donde tenga su domicilio fiscal sin dar el aviso de cambio de domicilio y en los demás casos que señalen las leyes hacendarías y este Código; misma que se efectuará fijando durante quince días consecutivos el documento que se pretenda notificar, en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación y publicando además el documento citado durante el mismo plazo en la página electrónica que al efecto establezca la Secretaría, dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado, según corresponda; la autoridad dejará constancia en el expediente respectivo, en estos casos se tendrá como fecha de notificación la del décimo sexto día siguiente a aquel en que se hubiera fijado o publicado el documento.
 
 IV. Por edictos, en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión; se hará mediante publicaciones en cualquiera de los siguientes medios:
 
@@ -1871,9 +1897,9 @@ Las publicaciones a que se refiere esta fracción, contendrán un extracto de lo
 
 En este caso se tendrá como fecha de notificación la de la última publicación.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-V. Por instructivo, tratándose de actos relativos al Procedimiento Administrativo de Ejecución, el citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaran, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino, en caso de que estos últimos se nieguen a recibir la notificación, ésta se hará por medio de cédula que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancia para dar cuenta al jefe del área de recaudación.
+V. Por instructivo tratándose de actos administrativos derivados de las facultades de comprobación y actos relativos al Procedimiento Administrativo de Ejecución, el citatorio será siempre para que espere a una hora fija del día hábil posterior que se señale en el mismo y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino, en caso de que estos últimos se nieguen a recibir la notificación, ésta se hará por medio de cédula que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancia, para continuar con el procedimiento fiscalizador o en su caso dar cuenta al jefe del área de recaudación.
 
 ###### Artículo 108.
 
@@ -3307,9 +3333,11 @@ El retenedor verificará contra el finiquito de obra o prestación de servicio q
 
 El impuesto retenido en los términos de este artículo, será acreditable contra el impuesto que resulte a pagar en la determinación de los pagos bimestrales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 235.
 
-Es base de este impuesto el monto de los pagos señalados en el artículo 229 de este Código, que se efectúen como consecuencia de una relación de trabajo, aún cuando no excedan de $80.00 pesos.
+Es base de este impuesto el monto de los pagos señalados en el artículo 229 de este Código, que se efectúen como consecuencia de una relación de trabajo.
 
 Los contribuyentes del Impuesto Sobre Nóminas determinarán y pagarán el impuesto aplicando la tasa del 2% sobre la base gravable señalada en este artículo.
 
@@ -3317,7 +3345,7 @@ Los contribuyentes del Impuesto Sobre Nóminas determinarán y pagarán el impue
 
 El pago de este impuesto se efectuará mediante declaración bimestral, que tendrá el carácter de definitiva, en el área de recaudación de ingresos correspondiente, dentro de los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre. Se presentará la declaración anual, que tendrá el carácter de informativa, del período del primero de enero al 30 de abril de cada año. Para realizar los pagos referidos se utilizarán las formas autorizadas por la Secretaría.
 
-Se presentará la declaración anual, que tendrá el carácter de informativa del periodo del primero de enero al 30 de abril de cada año. Para efectuar los pagos referidos se realizarán únicamente a través de cheque electrónico.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 237.
 
@@ -3363,29 +3391,43 @@ k) Asociaciones de padres de familias constituidas y registradas en los término
 
 ### Capítulo II. Del Impuesto Sobre Hospedaje
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 239.
 
-Es objeto de este impuesto el importe que se cause por:
+Es objeto de este impuesto el importe que se cause en el territorio del Estado por:
 
-I. El servicio de hospedaje que se reciba en hoteles, moteles, hospederías y otros similares.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+I. El servicio de hospedaje que se reciba en hoteles, moteles, hospederías, villas, cabañas, campamentos y otros similares.
 
 II. El uso de servicios de campo destinados a estacionamiento de casas móviles o autotransportables.
 
 III. Tiempos compartidos.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+IV. Servicio de hospedaje temporal en casas y departamentos, mediante aplicaciones y plataformas digitales.
+
 Se consideran servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación.
 
 No se consideran servicios de hospedaje, el albergue o alojamiento prestado por hospitales, clínicas, asilos, conventos, seminarios e internados, siempre y cuando dichos establecimientos no tengan fines lucrativos.
 
-No se considera parte del importe de los servicios, los de alimentación y demás distintos a los de hospedaje; así como en ningún caso se considerará que el importe del Impuesto al Valor Agregado forma parte de la base.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+No se considera parte del importe de los servicios, los de alimentación, transportación y demás distintos a los de hospedaje; así como en ningún caso se considerará que el importe del Impuesto al Valor Agregado forma parte de la base.
 
 ###### Artículo 240.
 
 Son sujetos de este impuesto quienes reciban los servicios señalados en el artículo anterior.
 
-Los Contribuyentes del Impuesto Sobre Hospedaje pagarán conforme a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-I. Sobre los ingresos que se liquiden por el servicio de hospedaje en hoteles, hospederías y otros similares, así como por el uso de servicios de campo destinados a estacionamiento de casas móviles o autotransportables y tiempos compartidos, la tasa del 2%.
+Los contribuyentes del Impuesto Sobre Hospedaje pagarán conforme a lo siguiente:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+I. Sobre los ingresos que se liquiden por el servicio de hospedaje en hoteles, hospederías y otros similares, así como por el uso de servicios de campo destinados a estacionamiento de casas móviles o autotransportables, tiempos compartidos y aquellos que brinden hospedaje temporal en casas y departamentos mediante aplicaciones y plataformas digitales, la tasa del 2%.
 
 II. Sobre los ingresos que se liquiden por el servicio de hospedaje en moteles, la tasa del 5%.
 
@@ -3396,6 +3438,14 @@ Los contribuyentes de este impuesto deberán enterarlo al momento de liquidar el
 Es obligación de los sujetos de este impuesto expedir comprobante fiscal por las actividades que realicen.
 
 El Pago de este impuesto se efectuará mediante declaración bimestral, que tendrá el carácter de definitiva dentro de los periodos que establece el artículo 236 de este Código.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Artículo 241 A.- Cuando el servicio de hospedaje temporal en casas y departamentos, mediante aplicaciones y plataformas digitales, a que se refiere el artículo 239, fracción IV de este Código, se reciba con motivo de los actos jurídicos que realice el prestador del servicio con personas físicas o morales directamente o a través de intermediarios, con agencias operadoras mayoristas, agencias de viajes minoristas o empresas de sistemas de intercambio de servicios turísticos y de cualquier tipo, incluyendo promotores y facilitadores, con el propósito de dar alojamiento o albergue a terceras personas, se tendrá obligación de enterar el impuesto en el momento en que sean exigibles las contraprestaciones a favor de quien preste los servicios de hospedaje y sobre el monto de los mismos.
+
+En cualquiera de los supuestos previstos en el artículo 239, fracción IV de este Código, cuando intervenga de cualquier manera una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje y en caso de que se cubra a través de ella lo correspondiente al Impuesto Sobre Hospedaje, ésta deberá ser quien entere el pago del impuesto correspondiente.
+
+En este último supuesto donde la persona física o moral en su carácter de intermediario, promotor o facilitador sea quien entere el pago del Impuesto Sobre Hospedaje, se liberará al contribuyente del impuesto correspondiente y a las personas que presten los servicios de hospedaje.
 
 ###### Artículo 242.
 
@@ -3521,7 +3571,7 @@ II. En el caso de la fracción II del artículo 252 de este Código, este impues
 
 ### Capítulo V. Del Impuesto Estatal Sobre Servidumbre de Terreno para Obras y Trabajos de Primera Mano de Materiales Mineros
 
-### Capítulo Único. Otros Impuestos
+### Capítulo Primero. Contribución para la Atención de Salvamentos y Servicio Médicos
 
 ###### Artículo 256.
 
@@ -3541,7 +3591,9 @@ Este impuesto se causará por cada ejercicio fiscal y deberá ser enterado dentr
 
 Cuando la servidumbre legal de paso o de uso minero se otorgue en el transcurso del ejercicio fiscal, el impuesto se calculará en forma proporcional. Para tales efectos, el impuesto se deberá pagar dentro de los treinta días naturales siguientes.
 
-### Capítulo Único. De los Productos
+### Capítulo Segundo. Adicional para el Desarrollo Económico y Social en la Entidad
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 #### Sección I. Del Fondo de Aportaciones para la Infraestructura Social Municipal
 
@@ -3561,6 +3613,8 @@ Presentar los avisos, documentos, datos e informes que le sean solicitados por l
 
 Permitir la práctica de visitas de inspección y auditoria, así como proporcionar a las personas designadas para ello, todos los elementos necesarios para el desempeño de sus funciones.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 #### Sección II. Del Fondo de Aportaciones para el Fortalecimiento de Los Municipios
 
 #### Sección III. De la Vigilancia y Control del Destino de los Fondos
@@ -3569,43 +3623,73 @@ Permitir la práctica de visitas de inspección y auditoria, así como proporcio
 
 #### Sección Única. De la Operatividad Financiera
 
-## Título Tercero
+## Título Tercero. Otros Impuestos
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-### Capítulo Único. De los Aprovechamientos
+### Capítulo Único. De los Productos
 
 ###### Artículo 261.
 
 Es objeto de esta contribución la aportación en dinero, para la coadyuvancia en la atención de salvamentos y servicio médicos prestados por instituciones altruistas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-### Capítulo I. Del Sistema de Coordinación Hacendaria del Estado de Chiapas
+Artículo 261 A.- Son sujetos de esta contribución las personas físicas y morales que estén obligadas al pago de derechos por refrendo anual de tarjeta de circulación en lo relativo al valor señalado en el artículo 25, fracción IV, inciso a), numerales 1 y 2 de la Ley de Derechos del Estado de Chiapas, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Artículo 261 B.- Es base de esta contribución el monto de los pagos referidos en el artículo que antecede.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Artículo 261 C.- El entero de esta contribución se realizará en el momento en que se efectúe el pago del derecho por refrendo anual de tarjeta de circulación en lo relativo al valor señalado en el artículo 25, fracción IV, inciso a), numerales 1 y 2 de la Ley de Derechos del Estado de Chiapas, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Artículo 261 D.- La contribución para la atención de salvamentos y servicios médicos prestados por instituciones altruistas, se pagará a la tasa del 6% sobre la base gravable señalada en los artículos 261 A y 261 B de este Código.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+### Capítulo Único. De los Aprovechamientos
 
 ###### Artículo 262.
 
-Son sujetos de esta contribución las personas físicas y morales que estén obligadas al pago de derechos por renovación anual o reposición de tarjeta de circulación o por expedición de placas en lo relativo al valor señalado en el artículo 25 fracción IV de la Ley de Derechos del Estado de Chiapas, de todo tipo de vehículos automotores y remolques que se destinen al servicio particular, oficial o público local.
+Es objeto de esta contribución la aportación en dinero, para la coadyuvancia en el desarrollo económico y social en la Entidad.
+
+Los ingresos obtenidos por la recaudación de esta contribución se destinarán al cumplimiento de los Ejes contemplados en el Plan Estatal de Desarrollo vigente en el Estado de Chiapas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 263.
 
-Es base de esta contribución el monto de los pagos referidos en el artículo que antecede.
+Son sujetos de esta contribución, las personas físicas y morales que realicen pagos por concepto de los impuestos y derechos que se causen conforme al presente Código y los que se deriven de la Ley de Derechos del Estado de Chiapas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+Cuando deba efectuarse retención de alguna de las contribuciones que constituyen la base gravable señalada en el artículo 264 del presente Código, también de estos, los retenedores deberán efectuar la retención.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 264.
 
-El entero se realizará en el momento en que se efectúe el pago de los derechos por expedición, renovación anual o reposición de tarjeta de circulación o por expedición de placas en lo relativo al valor señalado en el artículo 25 fracción IV de la Ley de Derechos del Estado de Chiapas, de todo tipo de vehículos automotores y remolques que se destinen al servicio particular, oficial o público local.
+La base gravable de esta contribución, será el monto total de los pagos que realicen los contribuyentes por concepto de los impuestos y derechos a que se refiere el artículo anterior.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 265.
 
-La contribución para la atención de salvamentos y servicios médicos prestados por instituciones altruistas, se pagará a la tasa del 6% sobre la base gravable señalada en los artículos 262 y 263 de este Código.
+Esta contribución se causará aplicando a la base gravable la tasa del 6% y se pagará en el mismo momento en que se cubran los pagos de impuestos y derechos a que se refiere el artículo 263 de este Código.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Artículo 265 A.- Quedan exceptuados del pago de esta contribución, quienes sean sujetos a las siguientes contribuciones previstas en el presente Código:
+
+I Contribución para la atención de salvamentos y servicio médicos.
+
+II Impuesto Sobre Juegos Permitidos, Rifas, Sorteos, Loterías y Concursos.
 
 ## Título Cuarto
 
-### Capítulo II. De las Participaciones Federales y Estatales a los Municipios
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+### Capítulo I. Del Sistema de Coordinación Hacendaria del Estado de Chiapas
 
 ###### Artículo 266.
 
@@ -3697,7 +3781,9 @@ Para la percepción de los productos, se estará a lo dispuesto según el caso, 
 
 ## Título Quinto
 
-### Capítulo III. De las Participaciones de Ingresos Estatales a los Municipios
+### Capítulo II. De las Participaciones Federales y Estatales a los Municipios
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 268.
 
@@ -3753,9 +3839,7 @@ La Secretaría, tiene la facultad para cobrar y actualizar los montos de las mul
 
 ## Título Único
 
-### Capítulo IV. De la Colaboración Administrativa
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+### Capítulo III. De las Participaciones de Ingresos Estatales a los Municipios
 
 ###### Artículo 270.
 
@@ -3775,7 +3859,9 @@ VI. Celebrar los convenios que regulen los mecanismos establecidos para el pago 
 
 VII. Establecer los lineamientos y mecanismos para afectar como fuente de pago o garantía de las obligaciones a cargo del Estado o los Municipios, los ingresos y/o los derechos provenientes de las aportaciones federales susceptibles de afectación, de conformidad con la Ley de Coordinación Fiscal.
 
-### Capítulo V. De la Colaboración Administrativa en Materia de Impuesto Predial
+### Capítulo IV. De la Colaboración Administrativa
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 271.
 
@@ -3783,25 +3869,27 @@ En cumplimiento a lo dispuesto por la Ley de Coordinación Fiscal, en el present
 
 De conformidad con lo establecido en el artículo 6º de la Ley de Coordinación Fiscal, así como en los lineamientos para la publicación de la información a que se refiere dicho artículo; la Secretaría publicará la distribución de los montos y coeficientes de los recursos establecidos en el artículo 272 de este ordenamiento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 272.
 
-De las cantidades que perciba el Estado, por concepto de participaciones fiscales federales e incentivos por administración de ingresos federales previstos en la Ley de Coordinación Fiscal y en otras disposiciones de carácter federal que establezcan recursos participables a municipios; así como, de las participaciones derivadas de las contribuciones locales, éstos últimos recibirán:
+De las cantidades que perciba el Estado, por concepto de participaciones fiscales federales e incentivos por administración de ingresos federales previstos en la Ley de Coordinación Fiscal y en otras disposiciones de carácter federal que establezcan recursos participables a Municipios; así como, de las participaciones derivadas de las contribuciones locales, estos últimos recibirán:
 
 I. El 20% de las participaciones que perciba el Estado por concepto del Fondo General de Participaciones.
 
-II. El 20% de lo que corresponda al Estado por concepto del Impuesto sobre Automóviles Nuevos.
+II. El 100% de las participaciones correspondientes al Fondo de Fomento Municipal.
 
-III. El 100% de las participaciones correspondientes al Fondo de Fomento Municipal.
+III. El 20% del Fondo de Fiscalización y Recaudación.
 
-IV. El 20% de las participaciones por el Impuesto Especial Sobre Producción y Servicios.
+IV. El 20% de la participación del Impuesto a la Venta Final de Gasolinas y Diésel.
 
-V. El 20% del Fondo de Fiscalización y Recaudación.
+V. El 20% del Fondo de Compensación.
 
-VI. El 20% de la participación del Impuesto a la Venta Final de Gasolinas y Diesel.
+VI. El 20% del Fondo de Extracción de Hidrocarburos.
 
-VII. El 20% del Fondo de Compensación.
+VII. El 20% de las participaciones por el Impuesto Especial sobre Producción y Servicios
 
-VIII. El 20% del Fondo de Extracción de Hidrocarburos.
+VIII. El 20% de lo que corresponda al Estado por concepto del Impuesto sobre Automóviles Nuevos.
 
 IX. El 20% del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos.
 
@@ -3809,59 +3897,79 @@ X. 20% de la recaudación del Impuesto Sobre Tenencia o Uso de Vehículos (rezag
 
 XI. De otros fondos que determine la Ley de Coordinación Fiscal y otras disposiciones de carácter federal que establezcan recursos participables a municipios, en las proporciones que disponga.
 
-Los recursos que correspondan a los municipios por concepto de participaciones, se calcularán conforme lo dispuesto en el presente ordenamiento.
+Los recursos que correspondan a los Municipios por concepto de participaciones, se calcularán conforme lo dispuesto en el presente ordenamiento.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 273.
 
-El Fondo General Municipal se constituirá con las cantidades de las fracciones I, II, IV, IX y X del artículo 272 de este Código, y se distribuirá a los municipios conforme a la siguiente fórmula:
+El Fondo General de Participaciones se constituirá con las cantidades que resulten de la fracción I del artículo 272 de este Código, y se distribuirá a los Municipios conforme al procedimiento y fórmula siguientes:
 
 > <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2017, PÁGINA 12.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 40 A LA 41; F. DE E. P.O. 2 DE ENERO DE 2019, PÁGINAS DE LA 1 A LA 3; 18 DE SEPTIEMBRE DE 2019, PÁGINAS DE LA 9 A LA 10.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 40 A LA 41; F. DE E. P.O. 2 DE ENERO DE 2019, PÁGINAS DE LA 1 A LA 3; 18 DE SEPTIEMBRE DE 2019, PÁGINAS DE LA 9 A LA 10; P.O. DE 31 DE DICIEMBRE DE 2019, PÁGINAS DE LA 35 A LA 37.]</small>
 
-La fórmula anterior no será aplicable en el mes de cálculo, cuando las participaciones de los fondos que constituyen el Fondo General Municipal sean iguales o menores a la observada en el año 2015. En tales supuestos, la distribución se realizara en función de la cantidad efectivamente recibida por el estado en el año de cálculo, en proporción al monto asignado para cada municipio en el año 2015.
+La fórmula anterior no será aplicable en el mes de cálculo, cuando las participaciones del Fondo General de Participaciones, sean iguales o menores a las observadas en el año 2015. En tales supuestos, la distribución se realizará en función de la cantidad efectivamente recibida por el Estado en el año de cálculo, en proporción al monto asignado para cada Municipio en el año 2015.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 274.
 
-El Fondo de Fomento Municipal se constituirá con las cantidades de la fracción III, del artículo 272 de este Código y se distribuirá a los municipios conforme a la siguiente fórmula:
+El Fondo de Fomento Municipal se constituirá con las cantidades que resulten de la fracción II del artículo 272 de este Código y se distribuirá a los Municipios conforme al procedimiento y fórmula siguientes:
 
-> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2017, PAGINAS 13 Y 14.]</small>
+I Con la cantidad equivalente del Fondo de Fomento Municipal, asignada a los Municipios en el año 2015.
 
-> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 41 A LA 42; 18 DE SEPTIEMBRE DE 2019, PÁGINAS DE LA 10 A LA 11.]</small>
+II El excedente del ejercicio actual con relación al 2015, se distribuirá con base en lo siguiente:
 
-La fórmula del Fondo de Fomento Municipal no será aplicable cuando en el mes de cálculo, las participaciones recibidas por el Estado por concepto de este fondo, sean menores o iguales a las observadas en el año 2015. En tales supuestos, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo, en proporción al monto asignado para cada municipio en el año 2015.
+40% C1: En proporción a la población de cada Municipio, respecto al total de habitantes del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+15% C2: Con base al incremento promedio de tres períodos en la recaudación del impuesto predial, con un máximo de hasta el doble de la recaudación, respecto a la suma total del Estado.
+
+20% C3: En función a la proporción que represente la recaudación del impuesto predial y derechos por suministro de agua, en el último año de la información validada por la SHCP para el cálculo, respecto a la suma total del Estado.
+
+25% C4: Para los Municipios que suscribieron convenio con el Estado, en materia de impuesto predial; en proporción a la recaudación de este impuesto, en el último año de la información validada por la SHCP para el cálculo, respecto a la suma total de los mismos.
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2019, PÁGINAS DE LA 37 A LA 39.]</small>
+
+La fórmula anterior no será aplicable en el mes de cálculo, cuando las participaciones del Fondo de Fomento Municipal, sean iguales o menores a las observadas en el año 2015. En tales supuestos, la distribución se realizará en función de la cantidad efectivamente recibida por el Estado en el año de cálculo, en proporción al monto asignado para cada Municipio en el año 2015.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 275.
 
-El Fondo de Fiscalización y Recaudación, se constituirá con las cantidades de la fracción V del artículo 272 de este Código, y se distribuirá a los municipios conforme a la siguiente fórmula:
+El Fondo de Fiscalización y Recaudación, se constituirá con las cantidades que resulten de la fracción III del artículo 272 de este Código, y se distribuirá a los Municipios conforme a la siguiente fórmula:
 
-> <small>[N. DE E. VÉASE REFORMAS A LAS FORMULAS EN LOS PÁRRAFOS NOVENO, DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO TERCERO, EN EL P.O. DE 31 DE DICIEMBRE DE 2017, PÁGINA 14; 18 DE SEPTIEMBRE DE 2019, PÁGINA 11.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LAS FÓRMULAS EN LOS PÁRRAFOS NOVENO, DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO TERCERO, EN EL P.O. DE 31 DE DICIEMBRE DE 2017, PÁGINA 14; 18 DE SEPTIEMBRE DE 2019, PÁGINA 11.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 276.
 
-La participación del Impuesto a la venta Final de Gasolinas y Diésel, se constituirá con las cantidades de la fracción VI del artículo 272 de este Código, y se distribuirá a los municipios conforme a la siguiente fórmula:
+La participación del Impuesto a la venta Final de Gasolinas y Diésel, y el Fondo de Compensación se constituirán con las cantidades que resulten de las fracciones IV y V del artículo 272 de este Código, y se distribuirá a los Municipios conforme a la siguiente fórmula:
 
-> <small>[N. DE E. VÉASE REFORMAS A LAS FORMULAS EN LOS PÁRRAFOS SÉPTIMO, NOVENO, DÉCIMO Y DÉCIMO TERCERO, EN EL P.O. DE 31 DE DICIEMBRE DE 2017, PÁGINA 15; 18 DE SEPTIEMBRE DE 2019, PÁGINAS DE LA 11 A LA 12.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LAS FÓRMULAS EN LOS PÁRRAFOS SÉPTIMO, NOVENO, DÉCIMO Y DÉCIMO TERCERO, EN EL P.O. DE 31 DE DICIEMBRE DE 2017, PÁGINA 15; 18 DE SEPTIEMBRE DE 2019, PÁGINAS DE LA 11 A LA 12.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 277.
 
-El Fondo de Extracción de Hidrocarburos, se constituirá con las cantidades de la fracción VIII del artículo 272 de este Código, y se distribuirá a los municipios conforme a la siguiente fórmula:
+El Fondo de Extracción de Hidrocarburos, se constituirá con las cantidades que resulten de la fracción VI del artículo 272 de este Código, y se distribuirá a los Municipios conforme a la siguiente formula:
 
 > <small>[N. DE E. VÉASE FÓRMULA EN LA CUARTA SECCIÓN DEL P.O. DE 18 DE MAYO DE 2016, PÁGINAS DE LA 136 A LA 137.]</small>
 
 > <small>[N. DE E. VÉASE REFORMA A LA FÓRMULA EN LA SEGUNDA SECCIÓN DEL P.O. 10 DE MAYO DE 2017, PÁGINA 8; 31 DE DICIEMBRE DE 2018, PÁGINA 42.]</small>
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 278.
 
-El Fondo de Compensación se constituirá con la cantidad de la fracción VII del artículo 272 de este Código, y se distribuirá a los municipios conforme a la siguiente fórmula:
+El Fondo General Municipal se constituirá con las participaciones del Impuesto Especial sobre Producción y Servicios, Impuesto sobre Automóviles Nuevos, Fondo de Compensación del Impuesto sobre Automóviles Nuevos e Impuesto sobre Tenencia o Uso de Vehículos (rezago federal); de las facciones VII, VIII, IX y X del artículo 272 de este Código y se distribuirán a los Municipios conforme a lo siguiente:
 
-> <small>[N. DE E. VÉASE REFORMAS A LAS FORMULAS EN LOS PÁRRAFOS QUINTO, SÉPTIMO Y DÉCIMO TERCERO, EN EL P.O. DE 31 DE DICIEMBRE DE 2017, PÁGINA 15 Y 16; 18 DE SEPTIEMBRE DE 2019, PÁGINAS DE LA 12 A LA 13.]</small>
+I Con la cantidad equivalente de cada uno de los fondos mencionados en este artículo, asignada a los Municipios en el año 2015.
+
+II El excedente del ejercicio actual con relación al 2015, se distribuirá con base al procedimiento establecido en la fracción II del artículo 273 de este Código.
+
+La fórmula anterior no será aplicable en el mes de cálculo, cuando las participaciones establecidas en este artículo, sean iguales o menores a las observadas en el año 2015. En tales supuestos, la distribución se realizará en función de la cantidad efectivamente recibida por el Estado en el año de cálculo, en proporción al monto asignado para cada Municipio en el año 2015.
 
 ###### Artículo 279.
 
@@ -3871,21 +3979,21 @@ El Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos se
 
 El Estado enterará las participaciones en lo que se refiere la fracción I del artículo 272, que correspondan a los municipios de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-I. A más tardar el día 15 de cada mes o el día hábil anterior si éste no lo fuera, se pagará una cantidad equivalente al 40% de las participaciones que le correspondieron al Municipio en el mes inmediato anterior al que corresponda el pago, por concepto de anticipo a sus participaciones, a excepción del mes de diciembre, en el que se pagará una cantidad equivalente al 90%; siempre y cuando la Federación mantenga vigente el mecanismo de anticipos para el Estado.
+I. Dentro de los cinco días siguientes a aquel en que el Estado reciba el anticipo de las participaciones de este fondo, se pagará una cantidad equivalente al 40% de las participaciones que le correspondieron al Municipio en el mes inmediato anterior al que corresponda el pago, por concepto de anticipo a sus participaciones, a excepción del mes de diciembre, en el que se pagará una cantidad equivalente al 90%; siempre y cuando la Federación mantenga vigente el mecanismo de anticipos para el Estado.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-II. A más tardar el día 30 de cada mes o el día hábil anterior si este no lo fuera, se efectuará la compensación entre la participación provisional del mes y el anticipo a que se refiere la fracción primera de este artículo con la finalidad de determinar los saldos correspondientes. El entero a los municipios de saldo a favor se realizará en los términos de esta fracción.
+II. Dentro de los cinco días siguientes a aquel en que el Estado reciba las participaciones de este fondo, se efectuará la compensación entre la participación provisional del mes y el anticipo a que se refiere la fracción primera de este artículo, con la finalidad de determinar los saldos correspondientes. El entero a los Municipios de saldo a favor se realizará en los términos de esta fracción.
 
 III. De los recursos que le corresponda al Gobierno del Estado, por concepto del Fondo General de Participaciones, una vez deducida la parte correspondiente a los municipios, se destinará para atender las acciones de prevención y contingencia provocadas por desastres naturales el equivalente al 1.5% de este monto, mismo que podrá cubrirse o completarse con éste u otras fuentes de financiamiento.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 281.
 
-El entero de las participaciones establecidas en el artículo 272 de este Código se realizará de la siguiente manera: las señaladas en la fracción II a más tardar el día último del mes siguiente de su recaudación o el día hábil siguiente si éste no lo fuera, las previstas en las fracciones de la III a la IX, dentro de los cinco días posteriores a aquel en que el Estado las reciba, y las señaladas en la fracción X a más tardar el 31 de diciembre del año que corresponda.
+El entero de las participaciones establecidas en el artículo 272 de este Código se realizará de la siguiente manera: las señaladas en las fracciones II a la VII y IX, dentro de los cinco días posteriores a aquel en que el Estado las reciba. La fracción VIII, a más tardar el día último del mes siguiente de su recaudación o el día hábil siguiente si éste no lo fuera; y las señaladas en la fracción X, a más tardar el 31 de diciembre del año que corresponda.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -3893,21 +4001,29 @@ El entero de las participaciones establecidas en el artículo 272 de este Códig
 
 Para efectuar el cálculo de los coeficientes de distribución de participaciones, la información sobre las variables será para cada caso las siguientes:
 
-I. El número de habitantes de cada municipio se tomará de la última información que dé a conocer oficialmente el Instituto Nacional de Estadística, Geografía e Informática, derivada de los censos y conteos de población que el mismo realice para el Estado, y que se encuentre disponible en el momento de la determinación de los coeficientes, tomando en consideración lo previsto en la fracción VII del presente artículo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+I. El número de habitantes de cada Municipio se tomará de la última información de población que dé a conocer oficialmente el Instituto Nacional de Estadística, Geografía e Informática, y que se encuentre disponible en el momento de la determinación de los coeficientes, tomando en consideración lo previsto en la fracción VII del presente artículo.
 
 II. El índice de marginación de los municipios se tomara de la última información que dé a conocer oficialmente el Consejo Nacional de Población.
 
-III. La recaudación de los ingresos asignados por impuesto predial y derechos por suministro de agua, se tomará de los informes enviados a la Secretaría, en los formatos establecidos para tal efecto y emitidos por la Secretaría de Hacienda y Crédito Público, de conformidad con lo previsto en las Reglas de Validación para el Cálculo de las Participaciones Fiscales Municipales, aprobadas por la Comisión Permanente de Tesoreros Municipales y Autoridades Hacendarias.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+III. La recaudación de los ingresos asignados por impuesto predial y derechos por suministro de agua de los Municipios de la Entidad, se tomará de la información validada conforme a las disposiciones de la Ley de Coordinación Fiscal y demás normatividad del Sistema Nacional de Coordinación Fiscal, que la Secretaría de Hacienda y Crédito Público de a conocer al Estado.
 
 IV. Los municipios ubicados en la zona petrolera, son los especificados para el Programa de Ordenamiento Ecológico y Territorial de la Zona Petrolera de la Región Norte de Chiapas; según la publicación en el Diario Oficial de la Federación, que se encuentre vigente al momento de la determinación de los coeficientes de participaciones.
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-V. El número de municipios incorporados en la distribución del 20% del Fondo de Fomento Municipal podrá incrementarse en la medida que suscriban Convenio de Colaboración Administrativa para que el Estado cobre y Administre el Impuesto Predial y sus Accesorios, una vez que se publiquen en el Periódico Oficial y sean debidamente notificados a la Unidad de Coordinación con Entidades Federativas de la Secretaría de Hacienda y Crédito Público, y ésta radique el recurso correspondiente.
+V. Los Municipios que suscriban Convenio de Colaboración Administrativa para que el Estado cobre y administre el Impuesto Predial y sus Accesorios, una vez que se publiquen en el Periódico Oficial, serán incorporados en el componente de la fórmula del Fondo de Fomento Municipal, que incentiva la suscripción de dicho convenio.
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2019)</small>
 
 La cancelación del Convenio a que hace referencia el párrafo que antecede, dará lugar a la modificación del coeficiente de distribución de participaciones respectivo, a partir de la fecha en que se le notifique al municipio el inicio del cobro y administración del impuesto predial y sus accesorios.
 
-VI. Para el cálculo de las participaciones previstas en el presente capítulo, deberán ser considerados todos los municipios, sin excepción, que se encuentren señalados en el artículo 2 de la Constitución Política del Estado Libre y Soberano de Chiapas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VI. Para el cálculo de las participaciones previstas en el presente capítulo, deberán ser considerados los Municipios que se encuentren señalados en el artículo 2 de la Constitución Política del Estado Libre y Soberano de Chiapas.
 
 VII. Las fórmulas establecidas en este capítulo, podrán complementarse con lo previsto en el reglamento del presente Código.
 
@@ -3917,6 +4033,10 @@ VII. Las fórmulas establecidas en este capítulo, podrán complementarse con lo
 
 El Estado enterará a los municipios, dentro de los cinco días hábiles siguientes al que reciba de la Federación, los ajustes de participaciones de cada uno de los fondos señalados en este libro, mismos que se distribuirán con los coeficientes determinados para el ejercicio fiscal en curso.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Cuando los ajustes negativos excedan a los montos de participaciones que correspondan a los Municipios en el mes de que se trate, éstos podrán ser compensados mediante las parcialidades subsecuentes que el Estado considere necesarias, para no afectar la operatividad del Municipio.
+
 ###### Artículo 284.
 
 Las participaciones que correspondan a los municipios son inembargables e imprescriptibles.
@@ -3925,7 +4045,7 @@ La compensación entre el derecho del Municipio a recibir participaciones y las 
 
 El Estado deberá realizar pagos por cuenta del Municipio con cargo a sus participaciones derivadas de la imposición Federal, cuando éste último así lo solicite o cuando dichas participaciones hayan sido afectadas en garantía de adeudo en los términos del título tercero del libro cuarto de este Código.
 
-### Capítulo VI. De los Órganos del Sistema de Coordinación Hacendaria del Estado
+### Capítulo V. De la Colaboración Administrativa en Materia de Impuesto Predial
 
 ###### Artículo 285.
 
@@ -3957,7 +4077,7 @@ Las participaciones de este fondo deberán ser administradas y ejercidas por los
 
 Para La vigilancia, control y destino del Fondo de Productos Mineros (FOPROMIN), se estará a lo dispuesto en los Artículos 330, 331 y 332 de este Código.
 
-### Capítulo VII. De los Fondos de Aportaciones Federales que Corresponden a los Municipios
+### Capítulo VI. De los Órganos del Sistema de Coordinación Hacendaria del Estado
 
 ###### Artículo 291.
 
@@ -4009,7 +4129,7 @@ Para efectos de revisión sobre la rendición de la cuenta comprobada, en el cas
 
 Transcurrido este plazo, se concentrará en los archivos generales de la Secretaría para su resguardo y custodia, de conformidad con los lineamientos establecidos en la materia.
 
-### Capítulo VIII. De los Alcances por Violación al Sistema de Coordinación Hacendaria del Estado
+### Capítulo VII. De los Fondos de Aportaciones Federales que Corresponden a los Municipios
 
 ###### Artículo 292.
 
@@ -4023,9 +4143,7 @@ Los municipios deberán suscribir Convenio de Colaboración Administrativa con e
 
 El Estado entregará a los municipios un monto equivalente al porcentaje establecido sobre la recaudación efectivamente obtenida del impuesto predial, conforme al convenio suscrito por las partes.
 
-### Capítulo I. Disposiciones Generales
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+### Capítulo VIII. De los Alcances por Violación al Sistema de Coordinación Hacendaria del Estado
 
 ###### Artículo 295.
 
@@ -4057,9 +4175,11 @@ El Gobernador del Estado podrá ser suplido por el Secretario y los Presidentes 
 
 El Director de la Comisión de Desarrollo Hacendario, fungirá como Secretario Técnico durante las reuniones de la Convención Hacendaria.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 298.
 
-La Convención Hacendaria, se llevará a cabo al menos una vez al año, excepción hecha en el primer año del trienio constitucional, en el que se realizarán al menos dos en el año, una en el primer mes del ejercicio fiscal aludido y otra durante el lapso comprendido en los dos últimos meses del mismo año. La Convención será convocada por escrito por el Gobernador del Estado o por la Comisión Permanente, quienes podrán convocar a las sesiones extraordinarias que se requieran. En la convocatoria se señalarán los asuntos de que deba ocuparse la Convención.
+La Convención Hacendaria, se llevará a cabo al menos una vez al año, debiendo ser convocada por escrito por el Gobernador del Estado o por la Comisión Permanente, quienes podrán convocar a las sesiones extraordinarias que se requieran.
 
 ###### Artículo 299.
 
@@ -4099,7 +4219,9 @@ VII. Las demás que determine la propia Convención.
 
 La Comisión Permanente de Tesoreros Municipales y Autoridades Hacendarias, se integrara y funcionará conforme a lo siguiente:
 
-I. Estará integrada por el Secretario, un representante del Congreso del Estado y por trece Tesoreros Municipales. Será presidida conjuntamente por el Secretario, que podrá ser suplido por la Autoridad Hacendaria que este elija, y por quien haya sido elegido por la Convención Hacendaria como Coordinador de la Comisión Permanente.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+I. Estará integrada por el Secretario, un representante del Congreso del Estado y por catorce Tesoreros Municipales. Será presidida conjuntamente por el Secretario, que podrá ser suplido por la Autoridad Hacendaria que éste designe, y por quien haya sido elegido por la Comisión Permanente de Tesoreros Municipales y Autoridades Hacendarias como Coordinador de la misma.
 
 II. La elección del Coordinador de la Comisión Permanente, deberá recaer siempre en un Tesorero Municipal; en su elección no participará funcionario alguno del Gobierno del Estado.
 
@@ -4135,9 +4257,9 @@ i. Grupo Nueve.- Benemérito de las Américas, Chilón, Marqués de Comillas, Oc
 
 j. Grupo Diez.- Catazajá, La Libertad, Palenque, Sabanilla, Salto de Agua, Tila y Tumbalá.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-k. Grupo Once.- Amatenango de la Frontera, Bejucal de Ocampo, Bella Vista, Capitán Luis Ángel Vidal, La Grandeza, Mazapa de Madero, Motozintla, El Porvenir y Siltepec.
+k) Grupo Once.- Amatenango de la Frontera, Bejucal de Ocampo, Bella Vista, Capitán Luis Ángel Vidal, Honduras de la Sierra, La Grandeza, Mazapa de Madero, Motozintla, El Porvenir y Siltepec.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -4213,7 +4335,9 @@ VII. Las demás que le establezca la Convención Hacendaria.
 
 La Comisión de Desarrollo Hacendario desarrollará el programa que anualmente apruebe la Convención Hacendaría y sufragará sus gastos a prorrata entre los ayuntamientos de la Entidad y el Gobierno del Estado, aportando los primeros el 50% de su presupuesto y el Gobierno Estatal al restante.
 
-### Capítulo II. De los Presupuestos de Egresos
+### Capítulo I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 307.
 
@@ -4421,7 +4545,9 @@ Los municipios deberán publicar dichos informes en los órganos locales oficial
 
 Las responsabilidades administrativas, civiles y penales derivadas de afectaciones a la Hacienda Pública Federal, que en su caso incurran las autoridades estatales o municipales exclusivamente por motivo de la desviación de los recursos recibidos de los fondos señalados, para fines distintos a los previstos en este libro, serán sancionadas en términos de la legislación federal, por las autoridades federales, en tanto los demás casos dichas responsabilidades serán sancionadas y aplicadas por las autoridades locales con base en este Código y las demás leyes estatales y municipales aplicables.
 
-### Capítulo I. De la Administración de los Recursos Públicos
+### Capítulo II. De los Presupuestos de Egresos
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 334.
 
@@ -4431,119 +4557,75 @@ Cuando el Estado o algún Municipio contravenga lo establecido por este libro o 
 
 ## Titulo Primero. Del Presupuesto y el Gasto Público
 
-### Capítulo II. Del Ejercicio y Control Presupuestario
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+### Capítulo I. De la Administración de los Recursos Públicos
 
 ###### Artículo 335.
 
-Las disposiciones del presente libro son de observancia obligatoria para los Organismos Públicos y tienen como objeto regular la responsabilidad hacendaria y financiera, el presupuesto, el gasto, la contabilidad y la deuda pública.
+Las disposiciones del presente Libro son de observancia obligatoria para las Dependencias, Entidades y Órganos Ejecutores que integran los Poderes Ejecutivo, Legislativo y Judicial; y Órganos Autónomos, y tienen como objeto regular la responsabilidad hacendaria y financiera, el presupuesto, el gasto, la contabilidad y la deuda pública.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE JUNIO DE 2018)</small>
-
-Para los efectos de este Código se entenderá por:
-
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+Para los efectos de lo establecido en este Libro, se entenderá por:
 
 I. Asociaciones Público-Privadas: Las previstas en la Ley de Asociaciones Público Privadas para el Estado de Chiapas o cualquier esquema similar de carácter local, independientemente de la denominación que se utilice.
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
-
 II. Balance presupuestario: A la diferencia entre los ingresos totales incluidos en la Ley de Ingresos, y los gastos totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda.
-
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
 III. Balance presupuestario de recursos disponibles: A la diferencia entre los ingresos de libre disposición, incluidos en la Ley de Ingresos, más el financiamiento neto y los gastos no etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+IV. Clasificadores Presupuestarios: A las Clasificaciones: Administrativa, Funcional del Gasto, Programática, Tipo de Gasto, Objeto del Gasto, Fuentes de Financiamientos, entre otros, que establezcan el marco legal aplicable, mediante los cuales se registra y controla el presupuesto y la contabilidad; que facilitan el análisis social, económico y administrativo.
 
-IV. Deuda Contingente: A cualquier Financiamiento sin fuente o garantía de pago definida, que sea asumida de manera solidaria o subsidiaria por el Estado con los Municipios, organismos descentralizados y empresas de participación estatal mayoritaria y fideicomisos, locales o municipales y por los propios Municipios con sus respectivos organismos descentralizados y empresas de participación municipal mayoritaria.
+V. CONAC: Al Consejo de Armonización Contable.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+VI. Dependencias: A las Secretarías que señala el artículo 28 de la Ley Orgánica de la Administración Pública del Estado de Chiapas.
 
-V. Deuda Pública: A cualquier Financiamiento contratado por los Organismos Públicos.
+VII. Deuda Contingente: A cualquier Financiamiento sin fuente o garantía de pago definida, que sea asumida de manera solidaria o subsidiaria por el Estado con los Municipios, organismos descentralizados y empresas de participación estatal mayoritaria y fideicomisos, locales o municipales y por los propios Municipios con sus respectivos organismos descentralizados y empresas de participación municipal mayoritaria.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+VIII. Deuda Pública: A cualquier Financiamiento contratado por las Dependencias, Entidades y Órganos Ejecutores.
 
-VI. Disciplina Financiera: A la observancia de los principios y las disposiciones en materia de responsabilidad hacendaria y financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de Obligaciones por los Organismos Públicos, que aseguren una gestión responsable y sostenible de sus finanzas públicas, generando condiciones favorables para el crecimiento económico y el empleo y la estabilidad del sistema financiero.
+IX. Disciplina Financiera: A la observancia de los principios y las disposiciones en materia de responsabilidad hacendaria y financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de Obligaciones por los Organismos Públicos, que aseguren una gestión responsable y sostenible de sus finanzas públicas, generando condiciones favorables para el crecimiento económico y el empleo y la estabilidad del sistema financiero.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+X. Disponibilidades: A los recursos provenientes de los ingresos que durante los ejercicios fiscales anteriores no fueron pagados ni devengados para algún rubro del gasto presupuestado, excluyendo a las Transferencias federales etiquetadas.
 
-VII. Disponibilidades: A los recursos provenientes de los ingresos que durante los ejercicios fiscales anteriores no fueron pagados ni devengados para algún rubro del gasto presupuestado, excluyendo a las Transferencias federales etiquetadas.
+XI. Entidades: A los Organismos Descentralizados, Organismos Auxiliares, Empresas de Participación Estatal y los Fideicomisos Públicos que de conformidad con la Ley Orgánica de la Administración Pública del Estado de Chiapas sean considerados Entidades Paraestatales.
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+XII. Financiamiento: A toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los Organismos Públicos, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente.
 
-VIII. Financiamiento: A toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los Organismos Públicos, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente.
+XIII. Financiamiento Neto: A la suma de las disposiciones realizadas de un Financiamiento, y las Disponibilidades, menos las amortizaciones efectuadas de la Deuda Pública.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+XIV. Gasto corriente: A las erogaciones que no tienen como contrapartida la creación de un activo, incluyendo, de manera enunciativa, el gasto en servicios personales, materiales y suministros, y los servicios generales, así como las transferencias, asignaciones subsidios, donativos y apoyos.
 
-IX. Financiamiento Neto: A la suma de las disposiciones realizadas de un Financiamiento, y las Disponibilidades, menos las amortizaciones efectuadas de la Deuda Pública.
+XV. Gasto etiquetado: A las erogaciones que realizan las Dependencias, Entidades y Órganos Ejecutores con cargo a las Transferencias federales etiquetadas. En el caso de los Municipios, adicionalmente se incluyen las erogaciones que realizan con recursos del Estado con un destino específico.
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+XVI. Gasto no etiquetado: A las erogaciones que realizan las Dependencias, Entidades y Órganos Ejecutores con cargo a sus Ingresos de libre disposición y Financiamientos. En el caso de los Municipios, se excluye el gasto que realicen con recursos del Estado con un destino específico.
 
-X. Gasto corriente: A las erogaciones que no tienen como contrapartida la creación de un activo, incluyendo, de manera enunciativa, el gasto en servicios personales, materiales y suministros, y los servicios generales, así como las transferencias, asignaciones, subsidios, donativos y apoyos.
+XVII. Gasto total: A la totalidad de las erogaciones aprobadas en el Presupuesto de Egresos, con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las operaciones que darían lugar a la duplicidad en el registro del gasto.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+XVIII. Ingresos de libre disposición: A los Ingresos locales y las participaciones federales, así como los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas, en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico.
 
-XI. Gasto etiquetado: A las erogaciones que realizan los Organismos Públicos con cargo a las Transferencias federales etiquetadas. En el caso de los Municipios, adicionalmente se incluyen las erogaciones que realizan con recursos del Estado con un destino específico.
+XIX. Ingresos excedentes: A los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+XX. Ingresos locales: Aquellos percibidos por el Estado y los Municipios por impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos, incluidos los recibidos por venta de bienes y prestación de servicios y los demás previstos en términos de las disposiciones aplicables.
 
-XII. Gasto no etiquetado: A las erogaciones que realizan los Organismos Públicos con cargo a sus Ingresos de libre disposición y Financiamientos. En el caso de los Municipios, se excluye el gasto que realicen con recursos del Estado con un destino específico.
+XXI. Ingresos totales: A la totalidad de los Ingresos de libre disposición, las Transferencias federales etiquetadas y el Financiamiento Neto.
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+XXII. Inversión pública productiva: A toda erogación por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea: (I) la construcción, mejoramiento, rehabilitación y/o reposición de bienes de dominio público (II) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto del gasto emitido por el Consejo Nacional de Armonización Contable, o (III) la adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto del gasto emitido por el Consejo Nacional de Armonización Contable.
 
-XIII. Gasto total: A la totalidad de las erogaciones aprobadas en el Presupuesto de Egresos, con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las operaciones que darían lugar a la duplicidad en el registro del gasto.
+XXIII. Obligaciones: A los compromisos de pago a cargo de los Organismos Públicos derivados de Financiamientos y de las Asociaciones Público-Privadas.
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+XXIV. Obligaciones a corto plazo: A cualquier Obligación contratada con Instituciones financieras a un plazo menor o igual a un año.
 
-XIV. Ingresos de libre disposición: A los Ingresos locales y las participaciones federales, así como los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas, en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico.
+XV. Organismos Públicos: A las Dependencias, Entidades y Órganos Ejecutores que integran los Poderes Ejecutivo, Legislativo y Judicial; Órganos Autónomos, de conformidad con lo que establezca el marco legal aplicable.
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+XXVI. Organismos Públicos del Ejecutivo: A las Dependencias, Entidades y Órganos Ejecutores del Poder Ejecutivo, de conformidad con lo que establezca el marco legal aplicable.
 
-XV. Ingresos excedentes: A los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos.
+XXVII. Órganos Ejecutores: A las Unidades Administrativas o su equivalente, Órganos Desconcentrados, Unidades Responsables de Apoyo o cualquier otro organismo que integren a los Poderes Ejecutivo, Legislativo y Judicial; y Órganos Autónomos, de conformidad con lo que establezca el marco legal aplicable.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+XXVIII. Percepciones extraordinarias: A los estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de compromisos de resultados sujetos a evaluación; así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de las disposiciones aplicables. Las percepciones extraordinarias no constituyen un ingreso fijo, regular ni permanente, ya que su otorgamiento se encuentra sujeto a requisitos y condiciones variables. Dichos conceptos de pago en ningún caso podrán formar parte integrante de la base de cálculo para efectos de indemnización o liquidación o de prestaciones de seguridad social.
 
-XVI. Ingresos locales: Aquellos percibidos por el Estado y los Municipios por impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos, incluidos los recibidos por venta de bienes y prestación de servicios y los demás previstos en términos de las disposiciones aplicables.
+XXIX. Percepciones ordinarias: A los pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular, como contraprestación por el desempeño de sus labores cotidianas en los Organismos Públicos, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado para el ejercicio fiscal
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+XXX. Presupuesto de Egresos: Al Presupuesto de Egresos del Estado de Chiapas para el Ejercicio Fiscal correspondiente, de conformidad con lo que establezca el marco legal aplicable.
 
-XVII. Ingresos totales: A la totalidad de los Ingresos de libre disposición, las Transferencias federales etiquetadas y el Financiamiento Neto.
-
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
-
-XVIII. Inversión pública productiva: A toda erogación por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea: (I) la construcción, mejoramiento, rehabilitación y/o reposición de bienes de dominio público; (II) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto del gasto emitido por el Consejo Nacional de Armonización Contable, o (III) la adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto del gasto emitido por el Consejo Nacional de Armonización Contable.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XIX. Obligaciones: A los compromisos de pago a cargo de los Organismos Públicos derivados de Financiamientos y de las Asociaciones Público-Privadas.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XX. Obligaciones a corto plazo: A cualquier Obligación contratada con Instituciones financieras a un plazo menor o igual a un año.
-
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
-
-XXI. Organismos Públicos del Ejecutivo: A las Dependencias y sus Órganos Desconcentrados, Entidades y Unidades del Poder Ejecutivo, que tengan o administren un patrimonio o presupuesto formado con recursos o bienes del erario estatal.
-
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
-
-XXII. Organismos Públicos: A los Poderes Legislativo, Ejecutivo y Judicial; Organismos Autónomos y municipios del Estado, que tengan o administren un patrimonio o presupuesto formado con recursos o bienes del erario estatal.
-
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
-
-XXIII. Percepciones extraordinarias: A los estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de compromisos de resultados sujetos a evaluación; así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de las disposiciones aplicables. Las percepciones extraordinarias no constituyen un ingreso fijo, regular ni permanente, ya que su otorgamiento se encuentra sujeto a requisitos y condiciones variables. Dichos conceptos de pago en ningún caso podrán formar parte integrante de la base de cálculo para efectos de indemnización o liquidación o de prestaciones de seguridad social.
-
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
-
-XXIV. Percepciones ordinarias: A los pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular, como contraprestación por el desempeño de sus labores cotidianas en los Organismos Públicos, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado para el ejercicio fiscal.
-
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
-
-XXV. Transferencias federales etiquetadas: A los recursos que reciben de la Federación el Estado y los Municipios, que están destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, la cuota social y la aportación solidaria federal previstas en el Título Tercero Bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recursos con destino específico que se otorguen en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Presupuesto de Egresos de la Federación.
-
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
+XXXI. Transferencias federales etiquetadas: A los recursos que reciben de la Federación el Estado y los Municipios, que están destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, la cuota social y la aportación solidaria federal previstas en el Título Tercero Bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recursos con destino específico que se otorguen en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Presupuesto de Egresos de la Federación.
 
 Cuando se haga mención a Organismos Públicos, se referirá al concepto de Entes Públicos que señala la Ley General de Contabilidad Gubernamental y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
@@ -4557,33 +4639,37 @@ II. El Poder Ejecutivo.
 
 III. El Poder Judicial.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-IV. Los Organismos Autónomos; entendiéndose aquellos que la Constitución Política del Estado Libre y Soberano de Chiapas establezca y los que por su naturaleza no estén sujetos a ningún Poder.
+IV. Los Órganos Autónomos; entendiéndose aquellos que la Constitución Política del Estado Libre y Soberano de Chiapas establezca.
 
 V. Los Municipios: Con recursos transferidos por el Poder Ejecutivo conforme a las Leyes.
 
 Asimismo, son erogaciones que permiten dar cumplimiento a las funciones y atribuciones de cada organismo público, y los objetivos y estrategias del Plan Estatal de Desarrollo y programas sectoriales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-Los Organismos Públicos administrarán sus recursos con base en los principios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, honradez y rendición de cuentas, para satisfacer los objetivos a los que estén destinados.
+Los Organismos Públicos administrarán sus recursos con base en los principios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas, para satisfacer los objetivos a los que estén destinados.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 337.
 
-La planeación, programación, presupuestación, ejercicio, control y evaluación del gasto público estatal, se alineará a los objetivos del Plan Estatal de Desarrollo, a los programas y en su caso a los Objetivos de Desarrollo Sostenible; considerando las políticas y lineamientos que formule el Ejecutivo del Estado, a través de las dependencias normativas correspondientes.
+La planeación, programación, presupuestación, ejercicio, control y evaluación del gasto público estatal, se alineará a los objetivos de los Planes Nacional y Estatal de Desarrollo, a los programas que se deriven de dichos Planes y en su caso, a los Objetivos de Desarrollo Sostenible; considerando las políticas y lineamientos que formule el Ejecutivo del Estado, a través de las dependencias normativas correspondientes.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 338.
 
-Los poderes Legislativo y Judicial, así como los Organismos Autónomos a través de sus áreas correspondientes, serán responsables de la presupuestación, administración, contabilidad, ejercicio y control de los recursos que determine el Decreto de Presupuesto de Egresos de cada ejercicio.
+Los Órganos Ejecutores de los Poderes Legislativo y Judicial, así como los Órganos Autónomos a través de sus áreas correspondientes, son responsables de la planeación, programación, presupuestación, contabilidad, ejercicio, control y rendición de cuentas de los recursos que determine el Decreto de Presupuesto de Egresos de cada ejercicio fiscal.
 
 ###### Artículo 339.
 
 Los Organismos Públicos, son responsables de la planeación, programación, presupuestación, ejercicio, control y rendición de cuentas de sus programas, proyectos y actividades, así como de la administración eficiente y eficaz del ejercicio de los recursos con especial atención a los parámetros de medición y evaluación del desempeño, el grado de cumplimiento de objetivos y metas con base en indicadores que permitan evaluar los resultados obtenidos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-Para efectos de registro presupuestario y contable, los Poderes Ejecutivo, Legislativo, y Judicial; así como los Organismos Autónomos y las Entidades Paraestatales, deben utilizar los sistemas computarizados que provea la Secretaría, a fin de sistematizar, homogenizar y obtener información veraz, confiable y oportuna, que permita transparentar el registro, la rendición de cuentas, y el uso de los recursos públicos.
+Para efectos de registro presupuestario y contable, los Organismos Públicos, deben utilizar los sistemas computarizados que provea la Secretaría, a fin de sistematizar, homogenizar y obtener información veraz, confiable y oportuna, que permita transparentar el registro, la rendición de cuentas, y el uso de los recursos públicos.
 
 La Secretaría efectuará revisión selectiva de los elementos cualitativos e impulsará disposiciones y acciones de reformas en política presupuestaria y contable, así como la modernización de los sistemas para el registro, seguimiento, control e integración del gasto público, sus avances y rendición de cuentas.
 
@@ -4591,7 +4677,9 @@ Los Organismos Públicos en el ejercicio de sus recursos, para el desarrollo de 
 
 En relación a los recursos federales transferidos, los Organismos Públicos observarán las disposiciones jurídicas aplicables y se sujetarán a la presentación de la información financiera que dichas disposiciones establezcan; en los programas en que concurra recursos federales, estatales, y en su caso, municipales, se harán las anotaciones respectivas identificando el monto correspondiente a cada orden de gobierno.
 
-La información del ejercicio y destino del gasto federalizado así como respecto al reintegro de los recursos federales no devengados por los Organismos Públicos, para efectos de los informes trimestrales y la Cuenta Pública deben presentarse en los formatos aprobados por el Consejo Nacional de Armonización Contable, en lo sucesivo CONAC.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+La información del ejercicio y destino del gasto federalizado así como, respecto al reintegro de los recursos federales no devengados por los Organismos Públicos, para efectos de los informes trimestrales y la Cuenta Pública deben presentarse en los formatos aprobados por el CONAC.
 
 Para dar cumplimiento a las disposiciones federales relacionadas con los recursos federalizados, debe de observarse lo siguiente:
 
@@ -4659,35 +4747,39 @@ Los Organismos Públicos en el ejercicio de su presupuesto, deben implementar me
 
 Todos los ingresos a que hacen referencia los artículos 6, 7, 8, 359 y 368 de este Código, sustentan el Presupuesto de Egresos del Estado, de haber excedentes a lo aprobado, se deberán aplicar de conformidad a lo establecido en el artículo 359 del mismo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-Las Entidades Paraestatales deben informar la captación de sus ingresos propios a la Secretaría y los administrarán previa autorización de su Órgano de Gobierno, conforme lo dispone el artículo 13 de la Ley de Entidades Paraestatales del Estado de Chiapas.
+Las Entidades deben informar la captación de sus ingresos propios a la Secretaría y los administrarán previa autorización de su Órgano de Gobierno, conforme lo dispone el artículo 13 de la Ley de Entidades Paraestatales del Estado de Chiapas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-Cuando las Entidades Paraestatales deban suscribir con la Federación a través de sus órganos administrativos competentes, diversos instrumentos jurídicos para la asignación de recursos presupuestarios anuales para su operación, los cuales implique aportación de recursos estatales que no se encuentren contenidos en su totalidad dentro del Presupuesto de Egresos aprobado por el Congreso del Estado del ejercicio correspondiente, podrán concentrar sus ingresos propios en la Tesorería Única para suscribir convenio con la Secretaría para la transferencia de recursos propios con la finalidad de que estos sean aportados para tal fin.
+Cuando las Entidades requieran suscribir con la Federación a través de sus órganos administrativos competentes, diversos instrumentos jurídicos para la asignación de recursos presupuestarios anuales para su operación, los cuales impliquen aportación de recursos estatales que no se encuentren contenidos en su totalidad dentro del Presupuesto de Egresos aprobado por el Congreso del Estado del ejercicio correspondiente, podrán concentrar sus ingresos propios en la Tesorería Única para suscribir convenio con la Secretaría para la transferencia de recursos propios con la finalidad de que estos sean aportados para tal fin.
 
 Para efectos de armonización presupuestaria, financiera y contable, conforme a la Ley General de Contabilidad Gubernamental, Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás ordenamientos en la materia, los Organismos Públicos deben registrar en los sistemas computarizados para este fin, todos los ingresos y gastos de que dispongan para satisfacer los objetivos a los que estén destinados.
 
-### Capítulo III. De la Disciplina Presupuestaria
+### Capítulo II. Del Ejercicio y Control Presupuestario
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 342.
 
-El gasto público estatal se determina con base al presupuesto que se formula con apego a programas y proyectos que señalen objetivos, indicadores, metas, unidades de medida y responsables de su ejecución; alineados al Plan Estatal de Desarrollo y a políticas públicas que beneficien a la población.
+El gasto público estatal se determina con base al presupuesto que se formula con apego a programas y proyectos que señalen objetivos, indicadores, metas, unidades de medida y responsables de su ejecución; alineados a los Planes Nacional y Estatal de Desarrollo y a políticas públicas que beneficien a la población.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 343.
 
-La Secretaría, al integrar el Proyecto de Presupuesto de Egresos de los Organismos Públicos, cuidará que simultáneamente se defina el tipo y fuente de recursos para su financiamiento.
+La Secretaría, al integrar el Proyecto de Presupuesto de Egresos de los Organismos Públicos, cuidará la asignación de las fuentes de financiamientos establecidas en la Iniciativa de la Ley de Ingresos y en apego a los Clasificadores Presupuestarios.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 Lo anterior no será aplicable al Poder Judicial, quien conforme a lo dispuesto en el artículo 73 de la Constitución Política del Estado Libre y Soberano de Chiapas, elaborará su Proyecto de Presupuesto de Egresos y lo enviará a través del Consejo de la Judicatura, al Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 344.
 
-El Presupuesto de Egresos de los Poderes Ejecutivo, Legislativo, así como el de los Organismos Autónomos, se presenta por ejercicio fiscal a iniciativa del Gobernador del Estado. Para el caso del Poder Judicial, el Proyecto de Presupuesto de Egresos será presentado al Congreso del Estado, en términos de lo dispuesto en las fracciones I, II, III, IV y V del artículo 349 de éste Código y demás disposiciones vigentes. En ambos casos, será examinado, discutido y aprobado por el Congreso del Estado, para su aplicación durante el periodo de un año, a partir del primero de enero.
+El Presupuesto de Egresos de los Poderes Ejecutivo, Legislativo, así como el de los Órganos Autónomos, se presenta por ejercicio fiscal a iniciativa del Gobernador del Estado. Para el caso del Poder Judicial, el Proyecto de Presupuesto de Egresos será presentado al Congreso del Estado, en términos de lo dispuesto en las fracciones I, III, IV y V del artículo 349 de este Código y demás disposiciones vigentes. En ambos casos, será examinado, discutido y aprobado por el Congreso del Estado, para su aplicación durante el periodo de un año, a partir del primero de enero.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -4737,21 +4829,21 @@ Si al concluirse un año fiscal, no hubiere sido aprobado el Presupuesto de Egre
 
 De igual forma, si el Presupuesto de Egresos del Poder Judicial no hubiese sido aprobado, seguirán vigentes los montos del ejercicio anterior, hasta en tanto no se apruebe el que corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 348.
 
-El Presupuesto de Egresos comprenderá las previsiones de gasto público que habrán de realizar los Poderes Ejecutivo, Legislativo y Judicial; Organismos Autónomos, Entidades Paraestatales y Municipios, debiendo reflejar el monto global por Organismo Público y, en su caso, por Unidades Responsables, el pago de la Deuda Pública, el monto de las Participaciones y Aportaciones Federales a que se refiere la Ley de Coordinación Fiscal.
+El Presupuesto de Egresos comprenderá las previsiones de gasto público que habrán de realizar los Organismos Públicos, debiendo reflejar el monto global por cada uno de estos y, en su caso, por Unidades Responsables, el pago de la Deuda Pública, el monto de las Participaciones y Aportaciones Federales a que se refiere la Ley de Coordinación Fiscal.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 El Presupuesto de Egresos deberá prever recursos para atender a la población afectada y los daños causados a la infraestructura pública estatal ocasionados por la ocurrencia de desastres naturales, para lo cual deberá observar lo establecido en los artículos nueve y quinto transitorio (sic) de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 349.
 
-El Proyecto de Presupuesto de Egresos del Estado, se deberá elaborar conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental, Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y las normas que para tal efecto emita el CONAC, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el Plan Estatal de Desarrollo y los programas derivados de los mismos, e incluirán cuando menos lo siguiente:
+El Proyecto de Presupuesto de Egresos del Estado, se deberá elaborar conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental, Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y las normas que para tal efecto emita el CONAC, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con los Planes Nacional y Estatal de Desarrollo y los programas derivados de los mismos, e incluirán cuando menos lo siguiente:
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
@@ -4775,9 +4867,9 @@ IV. Los resultados de las finanzas públicas que abarquen un periodo de los cinc
 
 V. Un estudio actuarial de las pensiones de sus trabajadores, el cual como mínimo deberá actualizarse cada tres años. El estudio deberá incluir la población afiliada, la edad promedio, las características de las prestaciones otorgadas por la ley aplicable, el monto de reservas de pensiones, así como el periodo de suficiencia y el balance actuarial en valor presente.
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-VI. Descripción clara de las funciones, subfunciones, programas sectoriales y especiales que sean la base en la que se señalen objetivos, indicadores, metas y resultados de los Organismos Públicos, así como su costo estimado.
+VI. Descripción clara de las funciones, subfunciones, programas sectoriales y en su caso especiales que sean la base en la que se señalen objetivos, indicadores, metas y resultados de los Organismos Públicos, así como su costo estimado.
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
@@ -4807,9 +4899,9 @@ XII. Situación de la deuda pública y estimado de la que se tendrá al final de
 
 XIII. Solicitud de endeudamiento neto para el ejercicio fiscal siguiente y el programa financiero respectivo, en estricto apego a las disposiciones jurídicas y normativas aplicables.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XIV. Las prioridades de gasto, los programas y proyectos, así como la distribución del presupuesto, detallando el gasto en servicios personales, incluyendo el analítico de plazas y desglosando todas las remuneraciones; las contrataciones de servicios por honorarios, y en su caso, previsiones para personal eventual, pensiones, gastos de operación, incluyendo gastos en comunicación social, y gasto de inversión; así como gastos correspondientes a compromisos plurianuales, proyectos de asociaciones público privadas, financiamiento a partidos políticos, seguro popular, subsidios y ayudas sociales, programas de atención a niños, niñas y adolescentes, equidad de género, entre otros.
+XIV. Las prioridades de gasto, los programas y proyectos, así como la distribución del presupuesto, detallando el gasto en servicios personales, incluyendo el analítico de plazas y desglosando todas las remuneraciones; las contrataciones de servicios por honorarios, y en su caso, previsiones para personal eventual, pensiones, gastos de operación, incluyendo gastos en comunicación social, y gasto de inversión; así como gastos correspondientes a compromisos plurianuales, proyectos de asociaciones público privadas, financiamiento a partidos políticos, seguro popular, subsidios y ayudas sociales, programas de atención a niños, niñas y adolescentes, equidad de género, acciones para mitigar el cambio climático, entre otros.
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
@@ -4935,43 +5027,41 @@ Toda Iniciativa que sea sometida a votación del Pleno del Congreso del Estado, 
 
 La aprobación y ejecución de nuevas obligaciones financieras, se realizará en el marco del principio de balance presupuestario sostenible, por lo cual se sujetarán a la capacidad financiera del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 350.
 
-La Secretaría publicará en el Periódico Oficial y en su página de Internet, los anexos de información del ingreso, del gasto y demás información que corresponda, dentro de los 90 días naturales posteriores a la aprobación de la Ley de Ingresos y del Presupuesto de Egresos, en cumplimiento de las disposiciones, normas y formatos emitidos por el CONAC y demás instancias de consulta autorizadas.
+La Secretaría publicará en el Periódico Oficial y en su página de Internet, los anexos de información del ingreso, del gasto y demás información que corresponda, dentro de los 30 días naturales posteriores a la aprobación de la Ley de Ingresos y del Presupuesto de Egresos, en cumplimiento de las disposiciones, normas y formatos emitidos por el CONAC y demás instancias de consulta autorizadas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 351.
 
-La Secretaría emitirá la normatividad y lineamientos específicos, así mismo entregará el sistema computarizado que permitan a los Poderes Ejecutivo, Legislativo y Judicial, así como a los Organismos Autónomos y las Entidades Paraestatales, elaborar su respectivo Anteproyecto de Presupuesto de Egresos para el ejercicio fiscal que corresponda.
+La Secretaría emitirá lineamientos, asimismo entregará el sistema computarizado y los techos de gasto que permitan a los Organismos Públicos, elaborar su respectivo Anteproyecto de Presupuesto de Egresos para el ejercicio fiscal que corresponda.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+El Proyecto de Presupuesto de Egresos debe ser presentado oportunamente por la Secretaría al Gobernador del Estado, para ser enviado al Congreso del Estado en el último cuatrimestre del año inmediato anterior al que corresponda, excepto cuando haya cambio de gobierno sexenal, en cuyo caso, será a más tardar el 26 de diciembre.
 
-El Proyecto de Presupuesto de Egresos, debe ser presentado oportunamente por la Secretaría al Gobernador del Estado, para ser enviado al Congreso del Estado en el último cuatrimestre del año inmediato anterior al que corresponda, excepto cuando haya cambio de gobierno sexenal, en cuyo caso, será a más tardar el 26 de diciembre.
+Los Organismos Públicos, remitirán su Anteproyecto de Presupuesto de Egresos, a la Secretaría, de acuerdo a la normatividad, techo de gasto y plazos establecidos.
 
-Los Organismos Públicos del Ejecutivo, remitirán su Anteproyecto de Presupuesto de Egresos, a la Secretaría, de acuerdo a la normatividad, techo financiero y plazos que el Ejecutivo determine a través de ésta.
+La Secretaría, está facultada para formular el Anteproyecto de Presupuesto de Egresos, cuando los Organismos Públicos no lo presenten en los plazos, términos y techos de gasto señalados; si se excede en este último, podrá no recibir dicho Anteproyecto y en su caso realizar los ajustes que correspondan.
 
-La Secretaría, está facultada para formular el Anteproyecto de Presupuesto de Egresos, de los Organismos Públicos del Ejecutivo, cuando éstos no lo presenten en los plazos, términos y techos financieros señalados; si se excede en este último, podrá no recibir dicho Anteproyecto y en su caso realizar los ajustes que correspondan.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 352.
 
-Las Entidades Paraestatales del Poder Ejecutivo que con recursos estatales estén incluidas en una Secretaría, deberán presentar su Anteproyecto de Presupuesto de Egresos a la Dependencia Coordinadora de Sector para su consolidación y presentación a la Secretaría, de acuerdo con las normas y lineamientos específicos que se establezcan.
+Las Entidades que con recursos estatales estén incluidas en una Secretaría, deberán presentar su Anteproyecto de Presupuesto de Egresos a la Dependencia Coordinadora de Sector para su consolidación y presentación a la Secretaría, de acuerdo a los lineamientos que se establezcan.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 353.
 
-El Poder Legislativo, así como los Organismos Autónomos atendiendo a las previsiones del ingreso y del gasto público total, con base en los lineamientos que emita la Secretaría, formularán sus respectivos Anteproyectos de Presupuesto de Egresos y lo remitirán oportunamente al Gobernador del Estado para que este, previo análisis de sus dependencias normativas ordene su incorporación al Proyecto de Presupuesto de Egresos. Así también dar seguimiento puntual del ejercicio de sus recursos e informar de estos para su consolidación.
+Los Órganos Ejecutores que integran el Poder Legislativo, así como los Órganos Autónomos atendiendo a las previsiones del ingreso y del gasto público total, con base en los lineamientos que emita la Secretaría, elaborarán sus respectivos Anteproyectos de Presupuesto de Egresos y lo enviarán oportunamente a la Secretaría, para que ésta revise que la propuesta sea compatible con los Criterios Generales de Política Económica, a efecto de integrarlo al Proyecto de Presupuesto de Egresos. Así también dar seguimiento puntual del ejercicio de sus recursos e informar de estos para su consolidación.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-Los órganos que integran el Poder Judicial, atendiendo a las previsiones del ingreso y del gasto público del mismo, con base en los lineamientos que emita el Consejo de la Judicatura, formularán sus respectivos Anteproyectos de Presupuesto de Egresos y los remitirán oportunamente a dicho Consejo, para que previo análisis y ajustes necesarios, ordene su incorporación al Proyecto de Presupuesto de Egresos del Poder Judicial, que se presentará al Congreso del Estado en términos de lo dispuesto en el artículo 73 de la Constitución Política del Estado Libre y Soberano de Chiapas.
+Los Órganos Ejecutores que integran el Poder Judicial, atendiendo a las previsiones del ingreso y del gasto público del mismo, con base en los lineamientos que emita el Consejo de la Judicatura, elaborarán sus respectivos Anteproyectos de Presupuesto de Egresos y los remitirán oportunamente a dicho Consejo, para que previo análisis y ajustes necesarios, ordene su incorporación al Proyecto de Presupuesto de Egresos del Poder Judicial, que se presentará al Congreso del Estado en términos de lo dispuesto en el artículo 73 de la Constitución Política del Estado Libre y Soberano de Chiapas.
 
 ## Título Segundo. De la Ejecución y Control Presupuestario del Gasto Público
 
-### Capítulo IV. De los Servicios Personales
+### Capítulo III. De la Disciplina Presupuestaria
 
 ###### Artículo 354.
 
@@ -5021,29 +5111,15 @@ Los Organismos Públicos podrán celebrar contratos de Asociación Público-Priv
 
 En la reasignación de recursos humanos, materiales y financieros a programas y proyectos, es responsabilidad de los Organismos Públicos y/o la Coordinadora de Sector, la definición, soporte y justificación correspondiente; la Secretaría y en su caso el Organismo Público normativo que corresponda, determinará la procedencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 358.
 
-La Secretaría tiene la facultad de llevar el registro presupuestario y contable de las Unidades Responsables de Apoyo (sic) Provisiones Salariales y Económicas, Deuda Pública Obligaciones; así como el registro de las operaciones que corresponden a Organismos Subsidiados y Municipios, éstos serán directamente responsables de administrar, controlar y ejecutar los recursos autorizados, así como también de llevar el registro contable de sus operaciones y resguardar la documentación comprobatoria.
+La Secretaría a través de las áreas correspondientes llevará el registro presupuestario, contable, de operaciones y el resguardo de la documentación comprobatoria de las Unidades Responsables de Apoyo: Provisiones Salariales y Económicas, Deuda Pública, Obligaciones; así como de Organismos Subsidiados y Municipios.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-Tratándose de las Unidades Responsables de Apoyo (sic) Provisiones Salariales y Económicas, se generará de manera automática su registro contable, producto de las operaciones presupuestarias realizadas.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+Tratándose de la Unidad Responsable de Apoyo Provisiones Salariales y Económicas, se generará de manera automática su registro contable, producto de las operaciones presupuestarias realizadas.
 
 Dentro de las Unidades Responsables de Apoyo, podrán crearse subunidades o subclasificaciones que permitan identificar el destino y orientación de los recursos públicos, a fin de dar transparencia al registro.
-
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-La Unidad Responsable de Apoyo 3 1 1 1 001 0 Municipios, generará los registros presupuestarios y contables de los recursos que le correspondan a los municipios y que le son ministrados. La única responsabilidad es la de emitir y consolidar los estados financieros. La responsabilidad de la administración, control y ejercicio de los recursos financieros, así como, la guarda y custodia de la documentación comprobatoria y de la publicación de la información en términos de la ley y convenios con la federación, es responsabilidad directa de los Ayuntamientos municipales.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-La Unidad Responsable de Apoyo 2 1 1 1 170 0 Obligaciones, generará los registros presupuestarios y contables por los montos del Impuesto Sobre Nóminas que el área correspondiente informe y por la ministración que se autorice; el ejercicio de los recursos de esta Unidad, es responsabilidad directa de quienes ejerzan el gasto público, en el marco del Fideicomiso Irrevocable Emisor de Administración y Pago No. 635; por lo tanto, la guarda y custodia de la documentación comprobatoria, es responsabilidad del Fideicomiso.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
 
@@ -5113,7 +5189,7 @@ Los recursos federales solo podrán ser transferidos por las dependencias y enti
 
 Los Organismos Públicos del Ejecutivo podrán solicitar a la Secretaría, la aplicación financiera a través del programa de pagos a proveedores y contratistas por descuento electrónico de cadenas productivas, siempre y cuando cuenten con la autorización presupuestaria con la fuente de financiamiento emitida por la Secretaría y vigilando en todo momento la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-### Capítulo V. Del Ejercicio del Gasto Público
+### Capítulo IV. De los Servicios Personales
 
 ###### Artículo 363.
 
@@ -5130,6 +5206,12 @@ El Ejecutivo Estatal, por conducto de la Secretaría, dispondrá que los fondos 
 Para los efectos de lo anterior, la Secretaría emitirá las normas y lineamientos para implantación y funcionamiento del pago centralizado, así también tomando en cuenta las necesidades específicas de cada caso, establecerá las excepciones procedentes, sin perjuicio de las obligaciones que correspondan a los ejecutores del gasto.
 
 Las Adecuaciones Presupuestarias en la modalidad de traspaso, deben tramitarse a más tardar en el segundo cuatrimestre del ejercicio fiscal que corresponda, las excepciones serán autorizadas por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Artículo 363 A.- Todo recurso financiero que la Tesorería Única deposite a las cuentas bancarias de los Organismos Públicos y que no cuenten con la autorización presupuestal de la Secretaría, estos deberán tramitar de manera inmediata dicha autorización. En caso que el Organismo Público no efectúe este proceso, la Secretaría con el fin de mantener el balance presupuestario sostenible, podrá emitir la autorización del monto total transferido, registrándose en una partida de gasto transitoria.
+
+Una vez concluido dicho proceso, oficialmente se le comunicará a los Organismos Públicos para que soliciten la liberación de su presupuesto, quedando bajo la responsabilidad de estos el ejercicio, erogación y comprobación del gasto.
 
 ###### Artículo 364.
 
@@ -5153,35 +5235,39 @@ VI. No envíen el Anteproyecto de Presupuesto de Egresos del ejercicio fiscal si
 
 VII. No cumplan con las obligaciones adquiridas en los convenios y bases de desempeño a que se refiere el artículo 366 de este Código.
 
-VIII. En general, no ejerzan sus presupuestos de conformidad con las disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VIII. No remitan para validación la nómina para el pago de servicios personales en los plazos que determine la Secretaría.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+IX. En general, no ejerzan sus presupuestos de conformidad con las disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 La radicación de los recursos ministrados estará condicionada a la disponibilidad de los recursos financieros.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-La Secretaría de la Honestidad y la Función Pública, en el ejercicio de sus funciones, podrá solicitar a la Secretaría, la suspensión de las ministraciones de recursos financieros a los Organismos Públicos del Ejecutivo en los términos de este artículo.
+La Secretaría de la Honestidad y Función Pública, en el ejercicio de sus funciones, podrá solicitar a la Secretaría, la suspensión de las ministraciones de recursos financieros a los Organismos Públicos del Ejecutivo en los términos de este artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 365.
 
-La Secretaría podrá autorizar ampliaciones liquidas al presupuesto de los Poderes Ejecutivo, Legislativo; Organismos Autónomos y las Entidades Paraestatales, cuando estos lo requieran, siempre que exista disponibilidad de recursos aplicables, para fortalecer su operación o para el desarrollo de nuevas metas y acciones, no obstante en el ejercicio de su gasto, reflejen economías o recursos pendientes de liberar.
+La Secretaría podrá autorizar ampliaciones líquidas al presupuesto de los Organismos Públicos cuando estos lo requieran, siempre que exista disponibilidad presupuestaria y financiera, para fortalecer su operación o para el desarrollo de nuevas metas y acciones. No obstante, cada Organismo Público deberá generar economías o ahorros para atender sus propias necesidades, debiendo contar con la autorización de la Secretaría.
 
 En el caso del Poder Judicial, será el Consejo de la Judicatura quien realizará lo conducente a efecto de solicitar las ampliaciones líquidas a su presupuesto.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 366.
 
-Los ejecutores de gasto son responsables de la administración de los recursos, de obtener resultados; para ello deberán cumplir con oportunidad y eficiencia las metas y objetivos previstos en sus respectivos programas y proyectos.
+Los Organismos Públicos son responsables de la administración de los recursos, de obtener resultados; para ello deberán cumplir con oportunidad y eficiencia las metas y objetivos previstos en sus respectivos programas y proyectos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+En los casos que la Secretaría determine que existe subejercicio, el Organismo Público responsable debe subsanarlo en un plazo máximo de 30 días naturales. Caso contrario, dichos recursos se reasignarán a los programas o proyectos que la Secretaría determine.
 
-En los casos que la Secretaría determine que existe subejercicio, el Organismo Público ejecutor debe subsanarlo en un plazo máximo de 30 días naturales. Caso contrario, dichos recursos se reasignarán a los programas o proyectos que la Secretaría determine.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-La Secretaría y la Secretaría de la Honestidad y la Función Pública podrán suscribir con los Organismos Públicos, convenios o bases de desempeño, cuya vigencia podrá exceder el ejercicio fiscal correspondiente, a fin de establecer compromisos de resultados y medidas presupuestarias que promuevan un ejercicio más eficiente y eficaz del gasto público, así como una efectiva rendición de cuentas. Los Organismos Públicos que suscriban dichos convenios o bases se sujetarán a los controles presupuestarios establecidos en dichos instrumentos, conforme al marco jurídico aplicable, a sus presupuestos autorizados y a las medidas que determine la Secretaría.
+La Secretaría y la Secretaría de la Honestidad y Función Pública podrán suscribir con los Organismos Públicos, convenios o bases de desempeño, cuya vigencia podrá exceder el ejercicio fiscal correspondiente, a fin de establecer compromisos de resultados y medidas presupuestarias que promuevan un ejercicio más eficiente y eficaz del gasto público, así como una efectiva rendición de cuentas. Los Organismos Públicos que suscriban dichos convenios o bases se sujetarán a los controles presupuestarios establecidos en dichos instrumentos, conforme al marco jurídico aplicable, a sus presupuestos autorizados y a las medidas que determine la Secretaría.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -5201,17 +5287,19 @@ Queda prohibido realizar erogaciones adicionales a las autorizadas, con cargo a 
 
 Los Organismos Públicos respecto de las transferencias, asignaciones, subsidios y ayudas que por cualquier motivo al 31 de diciembre conserven recursos, incluyendo los rendimientos obtenidos, deben reintegrar el importe disponible a la Tesorería Única.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-La Secretaría de la Honestidad y la Función Pública vigilará que los Organismos Públicos reintegren los recursos remanentes.
+La Secretaría de la Honestidad y Función Pública vigilará que los Organismos Públicos reintegren los recursos remanentes.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 Tratándose de ahorros presupuestarios, podrán presentar sus necesidades adicionales, indicando el traspaso presupuestario correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 368.
 
-El Ejecutivo del Estado por conducto de la Secretaría, está facultado para Incrementar el Presupuesto de Egresos y autorizar erogaciones adicionales para aplicarlas a programas y proyectos prioritarios del sector público estatal, así como amortizar deuda pública, conforme a lo siguiente:
+El Ejecutivo del Estado por conducto de la Secretaría, está facultado para Incrementar el Presupuesto de Egresos y autorizar erogaciones adicionales para aplicarlas a programas y proyectos prioritarios del Estado, así como amortizar deuda pública, conforme a lo siguiente:
 
 I. Los excedentes que resulten de los ingresos a que se refiera la Ley de Ingresos del Estado de Chiapas para cada ejercicio fiscal.
 
@@ -5229,7 +5317,9 @@ VI. Los recursos adicionales que reciba el Estado, por ingresos derivados de la 
 
 VII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-Tratándose de reducciones de los recursos a que se refieren las fracciones IV y VI de este artículo, la Secretaría está facultada para efectuar las Adecuaciones Presupuestarias a los programas y proyectos, que correspondan, con la finalidad que con menos recursos se cumplan los objetivos y metas fijadas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+La Secretaría está facultada para efectuar las Adecuaciones Presupuestarias a los programas y proyectos, que correspondan, con la finalidad que con menos recursos se cumplan los objetivos y metas fijadas.
 
 El Gobernador del Estado, al presentar al Congreso del Estado la Cuenta Pública del ejercicio que corresponda, informará de las erogaciones efectuadas.
 
@@ -5249,11 +5339,27 @@ El ejercicio de los recursos por los conceptos antes citados, queda bajo la resp
 
 La contratación deberá efectuarse en los términos que disponen las leyes relativas a la obra pública, a las adquisiciones, y a los de Asociación Público Privada, así como el Decreto de Presupuesto de Egresos para el ejercicio fiscal que corresponda y demás disposiciones legales aplicables.
 
-Los contratos que rebasen un ejercicio fiscal que se autoricen en los términos del artículo 356 de este Código, quedarán sujetos para los fines de su ejecución y pago, a la disponibilidad presupuestaria de los años subsecuentes y se hará mención al presentar el Proyecto de Presupuesto de Egresos al Congreso del Estado, además se deberá observar lo establecido en el artículo 355, tercer párrafo de este Código, con excepción a lo referente a los contratos de Asociación Público-Privada que se rigen por la Ley de Asociaciones Público Privadas para el Estado de Chiapas en cuyo caso, en la formulación de los presupuestos de los ejercicios subsecuentes se dará prioridad a las previsiones para el cumplimiento de las obligaciones contraídas en ejercicios anteriores.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Los contratos que rebasen un ejercicio fiscal que se autoricen en los términos del artículo 356 de este Código, quedarán sujetos para los fines de su ejecución y pago, a la disponibilidad presupuestaria de los años subsecuentes y se hará mención al presentar el Proyecto de Presupuesto de Egresos al Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Los contratos de Asociación Público-Privada que se rigen por la Ley de Asociaciones Público Privadas para el Estado de Chiapas, la formulación de los presupuestos de los ejercicios subsecuentes se dará prioridad a las previsiones para el cumplimiento de las obligaciones contraídas.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 Los compromisos plurianuales derivados de los contratos de Asociación Público Privada, tendrán preferencia respecto a otras previsiones de gasto, quedando sujetos a la disponibilidad presupuestaria anual; además se debe observar lo establecido en el artículo 355 de este Código.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Artículo 370 A.- Los Organismos Públicos podrán efectuar todos los trámites necesarios para realizar contrataciones de adquisiciones, arrendamientos, servicios y obra pública, con el objeto de que los recursos se ejerzan oportunamente a partir del inicio del ejercicio fiscal correspondiente.
+
+La Secretaría, de manera especial a petición del Organismo Público, con base en el Anteproyecto podrá garantizar el presupuesto para convocar, adjudicar, y en su caso, formalizar los contratos, cuya vigencia inicie en el ejercicio fiscal siguiente de aquel en el que se solicite.
+
+Los contratos estarán sujetos a la disponibilidad presupuestaria del año en el que se prevé el inicio de su vigencia, por lo que, sus efectos estarán condicionados a la existencia de los recursos presupuestarios respectivos.
+
+Los Organismos Públicos podrán obtener la autorización a que se refiere el presente artículo, conforme al procedimiento que establezca el Reglamento del Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -5285,11 +5391,13 @@ Los Organismos Públicos deben publicar trimestralmente en sus respectivas pági
 
 La Secretaría será la responsable de llevar un registro del personal de mando superior de los Organismos Públicos del Ejecutivo, que estén facultados para expedir cheques bancarios afectando el gasto público, para tal efecto podrá dictar las normas que considere procedentes.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 375.
 
-Los titulares de los Organismos Públicos son responsables de reducir selectiva y eficientemente los gastos de administración, sin detrimento de la realización oportuna y eficiente de los programas y proyectos a su cargo, la adecuada prestación de los bienes y servicios de su competencia; así como de cubrir con la debida oportunidad sus compromisos reales de pago, con estricto apego a lo dispuesto en este Código y a las disposiciones legales que resulten aplicables a la materia.
+Los titulares de los Organismos Públicos son responsables de reducir selectiva y eficientemente los gastos de operación, sin detrimento de la realización oportuna y eficiente de los programas y proyectos a su cargo, la adecuada prestación de los bienes y servicios de su competencia; así como de cubrir con la debida oportunidad sus compromisos reales de pago, con estricto apego a lo dispuesto en este Código y a las disposiciones legales que resulten aplicables a la materia.
 
-### Capítulo VI. Del Gasto de Inversión
+### Capítulo V. Del Ejercicio del Gasto Público
 
 ###### Artículo 376.
 
@@ -5307,9 +5415,7 @@ IV. Que las contrataciones se realicen, de acuerdo con las disposiciones aplicab
 
 Los recursos asignados a los Organismos Públicos, se destinan para la atención del desarrollo de programas y proyectos prioritarios relacionados con el desarrollo social, económico e institucional, por ello, queda estrictamente prohibido cualquier gasto relacionado con actividades de gobierno, que presupongan compra o consumo de bebidas con contenido alcohólico.
 
-### Capítulo VII. De las Transferencias, Subsidios y Ayudas
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+### Capítulo VI. Del Gasto de Inversión
 
 ###### Artículo 378.
 
@@ -5327,9 +5433,9 @@ Los Organismos Públicos, en el ejercicio de su presupuesto por concepto de serv
 
 I. Cuando descentralicen sus funciones, traspasarán en forma preferente las plazas y recursos asignados en su presupuesto autorizado, entre sus unidades responsables de programas y proyectos, sin que ello implique la creación de nuevas plazas.
 
-II. A los tabuladores de sueldos que emita la Secretaría y a las asignaciones autorizadas por ésta, excepto los organismos autónomos o descentralizados por la Federación.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-En caso de cualquier modificación a los tabuladores de sueldos que generen impacto en el presupuesto de egresos, la Secretaría verificará y determinará su viabilidad en términos de suficiencia presupuestaria.
+II. A los tabuladores de sueldos que emita la Secretaría y las asignaciones autorizadas por ésta, así como los mecanismos de validación y aprobación de categorías y tabuladores de sueldos. Los órganos ejecutores previa autorización de su Titular y de conformidad con las disposiciones jurídicas aplicables se sujetarán a esta disposición.
 
 III. Las remuneraciones adicionales por jornadas u horas extraordinarias, los estímulos por productividad, eficiencia y calidad, así como otras prestaciones, se regulan con base en los lineamientos que emitan las dependencias normativas.
 
@@ -5343,11 +5449,15 @@ Lo anterior, en el entendido de que su autorización se sujetará a las disposic
 
 Ningún servidor público podrá ser contratado para la prestación de servicios profesionales.
 
-V. Abstenerse de llevar a cabo cualquier traspaso de recursos del capítulo de servicios personales del Clasificador por Objeto del Gasto a otros capítulos de gasto y viceversa, salvo que se cuente con la autorización de la Secretaría.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+V. Abstenerse de llevar a cabo cualquier traspaso de recursos del capítulo de servicios personales a otros capítulos de gasto y viceversa, salvo que se cuente con la autorización de la Secretaría.
 
 VI. El pago de las asignaciones de sueldos y gastos periódicos se ejercerá por quincenas vencidas.
 
-VII. Las altas de personal o cualquier movimiento nominal que origine un pago y consecuentemente los nombramientos de los servidores públicos, deben realizarse con fecha 1 ó 16 de cada mes; con respecto a las bajas, éstas se darán en la fecha en que se lleve a cabo la separación del empleo por cualquier causa.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VII. Las altas de personal o cualquier movimiento nominal que origine un pago, deben realizarse con fecha 1 ó 16 de cada mes; con respecto a las bajas, éstas se darán en la fecha en que se lleve a cabo la separación del empleo por cualquier causa.
 
 VIII. Para que proceda el pago de las pensiones, durante los meses de febrero y agosto de cada año, la Secretaría realizará la revisión de supervivencia de los pensionados.
 
@@ -5355,21 +5465,25 @@ Lo anterior no exime la obligación de las autoridades responsables o quienes te
 
 IX. Es incompatible la percepción de una pensión por jubilación, vejez o invalidez, con el desempeño de cualquier cargo, empleo o comisión remunerados por los Organismos Públicos, siempre que tales cargos y empleos impliquen la incorporación al mismo régimen de seguridad social que otorgó la pensión, incluyendo las otorgadas por el Gobierno del Estado; en su caso, el trabajador debe solicitar la suspensión provisional del pago de la pensión durante el tiempo que dure el desempeño del cargo como personal activo.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-X. Abstenerse de contratar trabajadores temporales e interinos, salvo que tales contrataciones se encuentren previstas en el presupuesto de los Organismos Públicos del Ejecutivo. Para el caso de trabajadores temporales deberá contarse con la autorización emitida por la Coordinación General de Recursos Humanos de la Secretaría.
+X. Abstenerse de contratar trabajadores eventuales e interinos, salvo que tales contrataciones se encuentren previstas en el presupuesto de los Organismos Públicos. Para el caso de la contratación de trabajadores eventuales de gasto de inversión, los Organismos Públicos deberán presentar la cédula de validación de acciones emitida por la Subsecretaría de Planeación, para ser autorizados por la Coordinación General de Recursos Humanos de la Secretaría.
 
-XI. Las que emita la Secretaría en el desempeño temporal de comisiones oficiales de los servidores públicos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XI. Las que emita la Secretaría en el desempeño de comisiones oficiales de los servidores públicos.
 
 XII. Abstenerse de traspasar a otras partidas específicas de gasto, los recursos autorizados a programas de capacitación.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XIII. Informar a la Secretaría a través de la Coordinación General de Recursos Humanos, de las erogaciones que realicen por concepto de pago de servicios personales, así como el entero que realicen por concepto del Impuesto Sobre Renta.
+XIII. Informar a la Secretaría a través de la Coordinación General de Recursos Humanos, de las erogaciones que realicen por concepto de pago de servicios personales, para su validación y aprobación, así como el entero que realicen por concepto del Impuesto Sobre la Renta, Impuesto Sobre Nóminas, y cuotas y aportaciones de Seguridad Social.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 380.
 
-La Secretaría con sujeción al presupuesto correspondiente, emitirá los tabuladores de sueldos respectivos.
+La Secretaría con sujeción al presupuesto correspondiente, emitirá los tabuladores de sueldos de los Organismos Públicos del Ejecutivo. Así como el de los Órganos Ejecutores, previa autorización de su Titular y de conformidad con las disposiciones jurídicas aplicables.
 
 ###### Artículo 381.
 
@@ -5385,11 +5499,15 @@ La Secretaría a través de la Coordinación General de Recursos Humanos, será 
 
 La solicitud de dictamen de creación y/o modificación de órganos y plazas, estará sujeta a las disposiciones que emita la Secretaría.
 
-Asimismo determinará en forma expresa, cuando procederá aceptar la compatibilidad para el desempeño de dos o más empleos o comisiones con cargo a los presupuestos de los Organismos Públicos, sin perjuicio del estricto cumplimiento de las tareas, horarios y jornadas de trabajo que correspondan. En todo caso, los interesados pueden optar por el empleo o comisión que más le convenga.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Asimismo, determinará en forma expresa, previo análisis y mecanismos que establezca, cuando procederá aceptar la compatibilidad para el desempeño de dos o más empleos o comisiones con cargo a los presupuestos de los Organismos Públicos, sin perjuicio del estricto cumplimiento de las tareas, horarios y jornadas de trabajo que correspondan. En todo caso, el interesado podrá optar por el empleo o comisión que más le convenga.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 383.
 
-Cuando algún servidor público adscrito a los Organismos Públicos del Ejecutivo, fallezca, los familiares o quienes hayan vivido con él en la fecha de fallecimiento y se hagan cargo de los costos de inhumación, deben tramitar en el término máximo de un año, con documentación correspondiente ante la instancia facultada y/o en el lugar de adscripción, por concepto de pagas de defunción hasta el importe de cuatro meses del sueldo, salario y demás prestaciones que estuviere percibiendo en esa fecha, independientemente de las demás a que tiene derecho.
+Cuando algún servidor público adscrito a los Organismos Públicos del Ejecutivo fallezca, los familiares o quienes hayan vivido con él en la fecha de fallecimiento y se hagan cargo de los costos de inhumación, deben tramitar en el término máximo de un año, con documentación correspondiente ante la instancia facultada y/o en el lugar de adscripción, por concepto de pagas de defunción hasta el importe de cuatro meses del sueldo y demás prestaciones que estuviere percibiendo en esa fecha, independientemente de las demás a que tiene derecho, siempre y cuando la cantidad equivalente no exceda el importe de quinientos salarios mínimos vigentes.
 
 ###### Artículo 384.
 
@@ -5397,13 +5515,15 @@ Los servidores públicos en servicio activo de los Organismos Públicos del Ejec
 
 Cuando por comisión el personal deba trasladarse fuera de su lugar de adscripción, a una distancia que exceda a los 50 Km. y retornar una hora posterior a las 8 horas laborables, se podrán autorizar los recursos necesarios para su alimentación y transporte, por lo consiguiente deberán acreditar documentalmente dichos gastos, mismos que deben aplicarse a las partidas especificas de gasto que correspondan de acuerdo al Clasificador por Objeto del Gasto vigente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-La asignación de viáticos y pasajes debe regirse por lo señalado en la normatividad correspondiente. La Secretaría y la Secretaría de la Honestidad y la Función Pública, están facultadas para solicitar a los Organismos Públicos del Ejecutivo la presentación de información, para los efectos administrativos y legales a que haya lugar.
+La asignación de viáticos y pasajes debe regirse por lo señalado en la normatividad correspondiente. La Secretaría y la Secretaría de la Honestidad y Función Pública, están facultadas para solicitar a los Organismos Públicos del Ejecutivo la presentación de información, para los efectos administrativos y legales a que haya lugar.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 385.
 
-En proyectos institucionales, los Organismos Públicos del Ejecutivo, no podrán traspasar los recursos destinados a servicios personales, publicaciones oficiales y aquellos que específicamente determine la Secretaría, salvo los que previamente autorice ésta; los recursos no erogados quedarán como economías del presupuesto.
+En proyectos institucionales, los Organismos Públicos no podrán traspasar los recursos destinados a servicios personales, publicaciones oficiales y aquellos que específicamente determine la Secretaría, salvo los que previamente autorice ésta; los recursos no erogados quedarán como economías del presupuesto.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -5413,7 +5533,9 @@ Artículo 385 A.- La asignación global de servicios personales aprobada origina
 
 Articulo 385 B.- La Secretaría contará con un sistema de registro y control de las erogaciones de servicios personales.
 
-### Capítulo VIII. Facultades Exclusivas del Titular del Ejecutivo
+### Capítulo VII. De las Transferencias, Subsidios y Ayudas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 386.
 
@@ -5493,13 +5615,13 @@ La información señalada en el párrafo anterior deberá hacerse pública a tra
 
 VII. Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá realizar pagos con base en dicho presupuesto, por los conceptos efectivamente devengados en el año que corresponda y que se hubieren registrado en el informe de cuentas por pagar y que integran el pasivo circulante al cierre del ejercicio. En el caso de las Transferencias federales etiquetadas, se estará a lo dispuesto en el artículo 389 de este Código.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-Artículo 389 B.- Los Organismos Públicos que cuenten con disponibilidades de recursos federales destinados a un fin específico previsto en Ley, en reglas de operación, convenios o instrumentos jurídicos, correspondientes a ejercicios fiscales anteriores al 2018, que no hayan sido devengados conforme a los calendarios respectivos, deberán enterarlos a la Tesorería de la Federación, incluyendo los rendimientos financieros que hubieran generado.
+Artículo 389 B.- Los Organismos Públicos que cuenten con disponibilidades de recursos federales destinados a un fin específico previsto en ley, en reglas de operación, convenios o instrumentos jurídicos, correspondientes a ejercicios fiscales anteriores al 2020, que no hayan sido devengados conforme a los calendarios respectivos, deberán enterarlos a la Tesorería de la Federación, incluyendo los rendimientos financieros que hubieran generado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-### Capítulo IX. De Los Fideicomisos
+### Capítulo VIII. Facultades Exclusivas del Titular del Ejecutivo
 
 ###### Artículo 390.
 
@@ -5579,9 +5701,7 @@ Los recursos no erogados al 31 de diciembre correspondientes a los programas y p
 
 Cuando los recursos autorizados no estén devengados ni comprometidos, a más tardar el último día hábil del mes de noviembre de cada ejercicio fiscal, la Secretaría podrá requerir el reintegro de los mismos.
 
-### Capítulo X. De las Responsabilidades
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+### Capítulo IX. De Los Fideicomisos
 
 ###### Artículo 396.
 
@@ -5661,9 +5781,9 @@ II. No contribuyan a la consecución de objetivos de los programas y proyectos o
 
 La Secretaría podrá emitir las disposiciones que considere necesarias sobre la operación, evaluación y ejercicio del gasto relacionado con el otorgamiento y aplicación de las transferencias, subsidios y ayudas, a fin de dar cumplimiento a lo establecido en este capítulo.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo X. De las Responsabilidades
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 403.
 
@@ -5697,7 +5817,9 @@ El otorgamiento de empréstitos o créditos que el Ejecutivo del Estado acuerde,
 
 El otorgamiento de empréstitos o créditos que se otorguen a Organismos Públicos del Ejecutivo no causará el pago de intereses.
 
-### Capítulo II. De las Facultades y Obligaciones de los Órganos en Materia de Deuda Pública
+### Capítulo I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 406.
 
@@ -5721,19 +5843,17 @@ Las cantidades percibidas por concepto de ingresos estatales que se afecten en g
 
 Los recursos que por cualquier concepto entreguen los fideicomisos para la instrumentación financiera o fideicomisos de garantía y fuente alterna de pago, al Poder Ejecutivo en términos de la Ley de Proyectos de Prestación de Servicios del Estado de Chiapas, deberán ser aplicados de conformidad con lo establecido en el presente artículo y en las demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 408.
 
 La extinción de los fideicomisos públicos estatales, se sujetará a lo siguiente:
 
-I. Los fideicomisos que se constituyan a través del Congreso del Estado, requerirán la autorización expresa del mismo para su respectiva extinción.
+I. Los fideicomisos que se constituyan a través del Congreso del Estado, requerirán la autorización expresa del mismo para su extinción.
 
-II. Los fideicomisos creados mediante acuerdo o decreto del Ejecutivo del Estado, se sujetarán al propio instrumento de creación para su respectiva extinción.
+II. Los fideicomisos creados mediante Acuerdo o Decreto del Ejecutivo del Estado, se sujetarán al propio instrumento de creación para su extinción.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-Una vez autorizada la extinción del fideicomiso público estatal, el proceso de extinción se sujetará a los lineamientos emitidos por la Secretaría.
+Una vez que la extinción de los fideicomisos públicos estatales sea autorizada, se estará al procedimiento establecido en los lineamientos que para tal efecto emita la Secretaría.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -5761,37 +5881,35 @@ V. Los responsables de vigilar el cumplimiento de los fines del fideicomiso.
 
 VI. La información detallada que acredite que no serán duplicadas funciones existentes en la Administración Pública Estatal.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-Asimismo, deberán remitir con su solicitud, los proyectos de decreto de constitución, de contrato de fideicomiso y reglas de operación.
+Asimismo, deberán remitir con su solicitud, los proyectos de Decreto de Creación, el Contrato y Reglas de Operación del Fideicomiso.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-La Secretaría, a través de las áreas correspondientes, será la responsable de analizar la solicitud, así como los proyectos respectivos, y en su caso, realizará las modificaciones que correspondan, poniendo en consideración aquellas circunstancias que permitan un mejor control de los recursos que se afectarán en el fideicomiso.
+La Secretaría a través de las áreas correspondientes, será la responsable de analizar la solicitud, así como los proyectos respectivos, y en su caso, realizará las modificaciones que correspondan, considerando aquellas circunstancias que permitan un mejor control de los recursos que se afectarán en fideicomiso.
 
-Para cualquier modificación posterior a los instrumentos normativos que se establecen en el presente artículo, así como a otras disposiciones de carácter administrativo que se requieran para la operación y funcionamiento de los fideicomisos, se deberán realizar previa autorización de la Secretaría.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Para cualquier modificación a los instrumentos normativos que se establecen en el presente artículo, así como a otras disposiciones de carácter administrativo que se requieran para la operación y funcionamiento de los fideicomisos, se deberán realizar previa autorización de la Secretaría.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 411.
 
-Corresponde a la Secretaría, a través de su titular o de quien éste designe, realizar los trámites correspondientes ante la institución fiduciaria que determine como encargada de la administración del fideicomiso y requerir a la misma, la información que se considere necesaria relacionada con la evaluación, aplicación, control y seguimiento del ejercicio de los recursos públicos que se hubieren transferido para el cumplimiento de sus fines, conforme a lo dispuesto en la normatividad aplicable y en el respectivo contrato de fideicomiso.
+Corresponde a la Secretaría, a través de su titular o de quien éste designe, realizar los trámites para la contratación de la institución fiduciaria como encargada de la administración del fideicomiso, así como de la suscripción del Contrato.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+La Secretaría podrá requerir a la institución fiduciaria, la información que considere necesaria relacionada con la evaluación, aplicación, control y seguimiento del ejercicio de los recursos públicos que se hubieren transferido para el cumplimiento de sus fines, conforme a lo dispuesto en la normatividad aplicable y en el respectivo contrato de fideicomiso.
 
-Así mismo, la Secretaría en los propios contratos de fideicomisos podrá convenir con la institución fiduciaria la norma o los lineamientos específicos de inversión a observarse en esta materia o, en su defecto, la Dependencia Coordinadora de Sector del fideicomiso de que se trate, podrá formularlos y someterlos a la aprobación del Comité Técnico y del Fideicomitente para su entrada en vigor, previa notificación y aceptación por parte de la institución fiduciaria.
+La Secretaría, en los contratos de fideicomiso podrá convenir con la institución fiduciaria la norma o los lineamientos específicos de inversión a observarse en esta materia o en su defecto, la Dependencia Coordinadora de Sector del fideicomiso de que se trate, podrá formularlos y someterlos a la aprobación del Comité Técnico y del Fideicomitente para su entrada en vigor, previa notificación y aceptación por parte de la institución fiduciaria.
 
-El Comité Técnico, será el responsable de la instrucción, manejo y seguimiento de las inversiones de los fideicomisos públicos estatales, y de que en todo momento se respete la norma o los lineamientos específicos de inversión bajo los cuales se deberán invertir los recursos del fideicomiso. Así mismo, deberá informar periódicamente a la Secretaría a través de la Dependencia Coordinadora de Sector, de la situación que presentan las inversiones conforme a lo previsto en la normatividad contable y financiera y a lo dispuesto en el presente ordenamiento. Para cumplir con esta responsabilidad, el Comité Técnico tendrá la obligación de establecer los mecanismos financieros necesarios, así como instrumentar un sistema de administración de riesgos para llevar un adecuado manejo y control de las inversiones realizadas.
+El Comité Técnico, será el responsable de la instrucción, manejo y seguimiento de las inversiones de los fideicomisos públicos estatales, y de que en todo momento se respete la norma o los lineamientos específicos de inversión bajo los cuales se deberán invertir los recursos del fideicomiso. Asimismo, deberá informar periódicamente a la Secretaría a través de la Dependencia Coordinadora de Sector, de la situación que presentan las inversiones conforme a lo previsto en la normatividad contable y financiera y a lo dispuesto en el presente ordenamiento. Para cumplir con esta responsabilidad, el Comité Técnico tendrá la obligación de establecer los mecanismos financieros necesarios, así como instrumentar un sistema de administración de riesgos para llevar un adecuado manejo y control de las inversiones realizadas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+Para tales efectos y previa autorización del Fideicomitente, el Comité Técnico podrá instruir a la institución fiduciaria la contratación de los servicios de empresas o personas físicas especializadas en materia de inversiones, con cargo al patrimonio del fideicomiso. Dichas empresas y/o personas especializadas tendrán la obligación de garantizar en el contrato respectivo, que la asesoría o servicios proporcionados en materia de inversiones, se efectúe observando en todo momento la norma o los lineamientos específicos de inversión bajo los cuales se deberán de invertir los recursos del fideicomiso, y convenir que el pago o contraprestación por dichos servicios profesionales será procedente, siempre y cuando el rendimiento obtenido por la gestión supere al que se hubiere obtenido invirtiendo los recursos en fondeo de valores gubernamentales.
 
-Para tales efectos y previa autorización del Fideicomitente, el Comité Técnico podrá instruir al Fiduciario la contratación de los servicios de empresas o personas físicas especializadas en materia de inversiones, con cargo al patrimonio del fideicomiso. Dichas empresas y/o personas especializadas tendrán la obligación de garantizar en el contrato respectivo, que la asesoría o servicios proporcionados en materia de inversiones, se efectúe observando en todo momento la norma o los lineamientos específicos de inversión bajo los cuales se deberán de invertir los recursos del fideicomiso, y convenir que el pago o contraprestación por dichos servicios profesionales será procedente, siempre y cuando el rendimiento obtenido por la gestión supere al que se hubiere obtenido invirtiendo los recursos en fondeo de valores gubernamentales.
+En los contratos de fideicomisos que la Secretaría, en su carácter de Fideicomitente, celebre con las instituciones fiduciarias, podrá reservarse el derecho de disponer de los rendimientos que por concepto de inversión o reinversión genere el patrimonio de los fideicomisos, estableciendo en dichos contratos el procedimiento para su entrega por parte de la institución fiduciaria, con el objeto de que una vez que se hayan recepcionado dichos recursos, sean registrados conforme a lo dispuesto en la normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-En los contratos de fideicomisos que la Secretaría en su carácter de Fideicomitente celebre con las instituciones fiduciarias, podrá reservarse el derecho de disponer de los rendimientos que por concepto de inversión o reinversión genere el patrimonio de los fideicomisos, estableciendo en dichos contratos el procedimiento para su entrega por parte de la institución fiduciaria, con el objeto de que una vez que se hayan recepcionado dichos recursos, sean registrados conforme a lo dispuesto en la normatividad aplicable.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-Así mismo, en el supuesto de no encontrarse establecido en el marco jurídico del fideicomiso, la disposición de los rendimientos, la Secretaría en su carácter de Fideicomitente, podrá reservarse el derecho de disponer de los rendimientos que por concepto de inversión o reinversión genere el patrimonio de los fideicomisos, e instruirá al Fiduciario la forma de entrega de los rendimientos.
+En el supuesto de no encontrarse establecido en el marco jurídico del fideicomiso, la disposición de los rendimientos, la Secretaría en su carácter de Fideicomitente, podrá reservarse el derecho de disponer de los rendimientos que por concepto de inversión o reinversión genere el patrimonio de los fideicomisos, e instruirá a la institución fiduciaria la forma de entrega de los mismos.
 
 ###### Artículo 412.
 
@@ -5805,11 +5923,13 @@ El Poder Ejecutivo del Estado a través de la Secretaría, podrá participar con
 
 Los Organismos Públicos del Ejecutivo, cuando cuenten con recursos presupuestarios autorizados, podrán intervenir aportando recursos, previa autorización de la Secretaría, en aquellos fideicomisos constituidos por personas físicas o morales, públicas o privadas, regionales o nacionales, cuyos fines sean para el beneficio de los habitantes del Estado, dentro del marco jurídico aplicable en materia presupuestal.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 415.
 
-Los fideicomisos públicos estatales, deberán ser sectorizados a los Organismos Públicos del Ejecutivo del ramo que corresponda, los cuales fungirán como Dependencia Coordinadora de Sector y su Titular, será el Presidente del Comité Técnico de los fideicomisos públicos estatales.
+Los fideicomisos públicos estatales, deberán ser sectorizados a los Organismos Públicos del Ejecutivo del ramo que correspondan, los cuales fungirán como Dependencia Coordinadora de Sector y su Titular, será el Presidente del Comité Técnico de los fideicomisos públicos estatales.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 Las Dependencias Coordinadoras de Sector, tendrán las obligaciones siguientes:
 
@@ -5819,7 +5939,9 @@ II. Ser responsables del funcionamiento operativo del fideicomiso.
 
 III. Presentar para aprobación del Comité Técnico dentro del primer trimestre del año, la programación anual de sus gastos y del ejercicio de los recursos fideicomitidos, evitando reprogramaciones constantes.
 
-IV. Proporcionar al titular de la Secretaría, al órgano administrativo competente o al servidor público que para tales efectos se designe, la información que ésta requiera en materia de control, seguimiento y evaluación de los fideicomisos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+IV. Proporcionar la información en materia de control, seguimiento y evaluación de los fideicomisos al titular de la Secretaría, al órgano administrativo competente o al servidor público que para tales efectos se designe.
 
 V. Realizar los contratos con terceros, previa autorización del Comité Técnico y de conformidad con la normatividad Federal y/o Estatal aplicable.
 
@@ -5843,35 +5965,33 @@ Las Dependencias Coordinadoras de Sector, tendrán bajo su responsabilidad la fo
 
 Cuando la Federación haya celebrado convenios con el Estado, para los cuales se requiera constituir fideicomisos, los Organismos Públicos del Ejecutivo deberán dar cumplimiento a las obligaciones y facultades que a cada instancia corresponda en el convenio de que se trate.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 418.
 
 La autoridad máxima de los fideicomisos públicos estatales, será el Comité Técnico, el cual se integrará con los Organismos Públicos del Ejecutivo afines al sector y podrán ser incluidos dentro de sus integrantes tres miembros de la sociedad civil que no hayan sido sentenciados por delitos patrimoniales y que se desempeñen en actividades relacionadas con el objeto del fideicomiso.
 
-La Secretaría podrá formar parte del Comité Técnico cuando se considere necesario y así lo determine el instrumento respectivo.
+La Secretaría podrá formar parte del Comité Técnico cuando se considere necesario y así lo determine el instrumento respectivo, y participará en las sesiones en su carácter de Fideicomitente, como invitado con derecho a voz, con la facultad para requerir que sus comentarios y sugerencias sean plasmados en el documento que se realice para tales efectos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+La Secretaría de la Honestidad y Función Pública, participará como invitado permanente en las sesiones de Comité Técnico de los fideicomisos públicos estatales, únicamente con derecho a voz.
 
-Con independencia de lo dispuesto en el párrafo anterior, la Secretaría en su carácter de Fideicomitente, deberá participar como invitado en las sesiones de los Comités Técnicos de los fideicomisos públicos estatales, únicamente con derecho a voz, sin embargo tendrá la facultad para requerir que sus comentarios y sugerencias sean plasmados en el documento que se realice para tales efectos.
+Para efectos de poder realizar modificaciones a la integración del Comité Técnico de los fideicomisos públicos estatales, éstas podrán llevarse a cabo en el contrato de los mismos, sin necesidad de efectuar reformas al instrumento jurídico de creación, siempre y cuando sea por causa debidamente justificada, requiriendo para ello la validación de la Secretaría en su carácter de Fideicomitente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+El Fideicomitente podrá reservarse expresamente el derecho de revocar la designación de los integrantes del Comité Técnico, así como el designar a quienes deberán sustituirlos, lo cual será notificado a la institución fiduciaria.
 
-La Secretaría de la Honestidad y la Función Pública, participará como invitado permanente en las sesiones de Comité Técnico de los fideicomisos públicos estatales, únicamente con derecho a voz.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-Así mismo, para efectos de poder realizar modificaciones a la integración del Comité Técnico de los fideicomisos públicos estatales, éstas podrán llevarse a cabo en el contrato de los mismos, sin necesidad de efectuar reformas al instrumento jurídico de creación, siempre y cuando sea por causa debidamente justificada, requiriendo para ello la validación de la Secretaría en su carácter de Fideicomitente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 419.
 
-Para efectos administrativos, la Dependencia Coordinadora de Sector a través del área respectiva, será los responsable que los fideicomisos públicos estatales cumplan con las obligaciones fiscales que se generen por su operación, coadyuvando para tales efectos con la institución fiduciaria.
+Para efectos administrativos, la Dependencia Coordinadora de Sector a través del área operativa, será la responsable que los fideicomisos públicos estatales cumplan con las obligaciones fiscales que se generen por su operación, coadyuvando para tales efectos con la institución fiduciaria.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 420.
 
-Cuando el fideicomiso haya cumplido con sus fines o su operación no sea de notorio beneficio para el desarrollo del Estado, la Secretaría propondrá al Ejecutivo del Estado su modificación o extinción, según proceda. La Secretaría de la Honestidad y la Función Pública vigilará que el proceso de extinción se realice observando las disposiciones legales aplicables.
+Cuando el fideicomiso haya cumplido con sus fines, el cumplimiento de estos se haga imposible o su operación no sea de notorio beneficio para el desarrollo del Estado, la Secretaría propondrá al Ejecutivo del Estado su modificación o extinción, según proceda; el proceso de extinción se sujetará a los lineamientos emitidos por la Secretaría.
 
-El proceso de extinción se sujetará a los lineamientos emitidos por la Secretaría.
+La Secretaría de la Honestidad y Función Pública vigilará que el proceso de extinción se realice observando las disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2018)</small>
 
@@ -5879,29 +5999,21 @@ El proceso de extinción se sujetará a los lineamientos emitidos por la Secreta
 
 Para la constitución, modificación, extinción, vigilancia y operación de los fideicomisos públicos estatales, además de lo dispuesto por las disposiciones federales aplicables, en su caso, se observará lo dispuesto en el presente Código y en las demás disposiciones estatales aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-La Secretaría está facultada para emitir la normatividad y lineamientos de carácter administrativo para el funcionamiento, operación y extinción de los fideicomisos públicos estatales, mismos que deberán ser observados por los titulares de las Dependencias Coordinadoras de Sector, los integrantes de los Comités Técnicos y el personal de las áreas operativas de los propios fideicomisos.
+La Secretaría, está facultada para emitir la normatividad y lineamientos de carácter administrativo para el funcionamiento, operación y extinción de los fideicomisos públicos estatales, mismos que deberán ser observados por los titulares de las Dependencias Coordinadoras de Sector, los integrantes de los Comités Técnicos y de las áreas operativas.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 Cuando sea necesario realizar modificaciones a las disposiciones aplicables que rigen el funcionamiento, operación y extinción de los fideicomisos públicos estatales, se requerirá previamente la opinión y validación de la Secretaría, en su carácter de Fideicomitente, debiendo remitir las Dependencias Coordinadoras de Sector o áreas operativas su solicitud, con los proyectos respectivos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 422.
 
-Los estados financieros de los fideicomisos públicos estatales, podrán ser auditados por auditor externo, el cual será designado por la Secretaría de la Honestidad y la Función Pública, dentro de una terna que para el caso proponga el Comité Técnico.
+Los estados financieros de los fideicomisos públicos estatales, podrán ser auditados por auditor externo, el cual será designado por la Secretaría de la Honestidad y Función Pública, dentro de una terna que para el caso proponga el Comité Técnico.
 
-### Capítulo III. De la Contratación de Deuda Pública y Obligaciones
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-Artículo 444 A.- Los entes públicos a que se refiere el artículo 429 de éste Código, estarán obligados a contratar financiamientos y obligaciones a su cargo bajo las mejores condiciones de mercado. Asimismo, deberán publicar en su página de internet el análisis comparativo del proceso competitivo.
-
-Una vez celebrados los instrumentos jurídicos relativos, a más tardar diez días posteriores a la inscripción en el Registro Público Único, deberán publicar en su página oficial de Internet dichos instrumentos. Asimismo, estarán obligados a presentar en los informes trimestrales a que se refiere la Ley General de Contabilidad Gubernamental y en su respectiva Cuenta Pública, la información detallada de cada financiamiento u obligación contraída, incluyendo como mínimo, el importe, tasa, plazo, comisiones y demás accesorios pactados, así como la tasa efectiva, conforme a los Lineamientos que publique la Secretaría de Hacienda y Crédito Público.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+### Capítulo II. De las Facultades y Obligaciones de los Órganos en Materia de Deuda Pública
 
 ###### Artículo 423.
 
@@ -5915,9 +6027,11 @@ II. Pliegos preventivos que levanten los Organismos Públicos del Ejecutivo con 
 
 III. Pliegos de observaciones que emita el Congreso del Estado, en los términos de su Ley Orgánica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 424.
 
-Los servidores públicos de los Organismos Públicos del Ejecutivo serán responsables de cualquier daño o perjuicio estimable en dinero que sufra el patrimonio del erario estatal por actos u omisiones que les sean imputables, por incumplimiento o inobservancia de obligaciones derivadas de esta Ley, inherentes a su cargo o relacionadas con su función y actuación.
+Los servidores públicos de los Organismos Públicos del Ejecutivo serán responsables de cualquier daño o perjuicio estimable en dinero que sufra el patrimonio del erario estatal por actos u omisiones que les sean imputables, por incumplimiento o inobservancia de obligaciones derivadas de este Código, inherentes a su cargo o relacionadas con su función y actuación.
 
 La responsabilidad administrativa se constituirá, en primer término, a las personas que directamente hayan ejecutado los actos o incurran en las omisiones que las originaron y subsidiariamente a los demás servidores públicos que por la índole de sus funciones, hayan omitido la revisión o autorizado tales actos, implicando en ello dolo, culpa o negligencia. Asimismo, serán corresponsables los particulares en los casos en que hayan participado y originen una responsabilidad.
 
@@ -5939,21 +6053,15 @@ La Secretaría de la Honestidad y la Función Pública, podrá dejar sin efecto 
 
 La Secretaría, podrá cancelar los créditos fiscales derivados de sanciones por responsabilidad administrativa, por incosteabilidad o imposibilidad de cobro, de conformidad a lo que establece el libro primero de este Código.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 427.
 
-La Secretaría de la Honestidad y la Función Pública, podrá imponer las siguientes correcciones disciplinarias a los funcionarios y empleados de los Organismos Públicos del Ejecutivo, cuando en el desempeño de sus labores, incurran en faltas que ameriten fincar responsabilidades.
+La Secretaría de la Honestidad y Función Pública, podrá imponer las correcciones disciplinarias a los Servidores Públicos de los Organismos Públicos del Ejecutivo, cuando en el desempeño de sus funciones, incurran en faltas que ameriten fincar responsabilidades de conformidad en la Ley de Responsabilidades Administrativas para el Estado de Chiapas y demás disposiciones aplicables.
 
-I. Multa de 2 a 20 veces el salario mínimo diario vigente en el Estado; y
+La Secretaría de la Honestidad y Función Pública impondrá a los servidores públicos adscritos a dicha Dependencia, las sanciones correspondientes, cuando no apliquen las disposiciones a que se refiere este capítulo o las reglamentarias que se deriven del mismo.
 
-II. Suspensión temporal de funciones y emolumentos hasta por tres meses.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-Iguales medidas impondrá la Secretaría de la Honestidad y la Función Pública a sus funcionarios y empleados, cuando no apliquen las disposiciones a que se refiere este capítulo o las reglamentarias que se deriven del mismo.
-
-Las correcciones disciplinarias señaladas, se aplicarán independientemente de que se haga efectiva la responsabilidad en que hubiere incurrido.
+Las correcciones disciplinarias, se aplicarán independientemente de que se haga efectiva la responsabilidad en que hubiere incurrido dichos servidores públicos.
 
 ###### Artículo 428.
 
@@ -5961,9 +6069,15 @@ Las responsabilidades a que se refiere este Código se constituirán y exigirán
 
 ## Título Tercero. De la Deuda Pública del Estado
 
-### Capítulo IV. De las Obligaciones derivadas de las Operaciones de Endeudamiento
+### Capítulo III. De la Contratación de Deuda Pública y Obligaciones
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Artículo 444 A.- Los entes públicos a que se refiere el artículo 429 de éste Código, estarán obligados a contratar financiamientos y obligaciones a su cargo bajo las mejores condiciones de mercado. Asimismo, deberán publicar en su página de internet el análisis comparativo del proceso competitivo.
+
+Una vez celebrados los instrumentos jurídicos relativos, a más tardar diez días posteriores a la inscripción en el Registro Público Único, deberán publicar en su página oficial de Internet dichos instrumentos. Asimismo, estarán obligados a presentar en los informes trimestrales a que se refiere la Ley General de Contabilidad Gubernamental y en su respectiva Cuenta Pública, la información detallada de cada financiamiento u obligación contraída, incluyendo como mínimo, el importe, tasa, plazo, comisiones y demás accesorios pactados, así como la tasa efectiva, conforme a los Lineamientos que publique la Secretaría de Hacienda y Crédito Público.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 429.
 
@@ -6021,11 +6135,13 @@ IV. Que el Congreso del Estado, haya aprobado previamente que se contraiga la ob
 
 V. Que se acredite la publicación, en un diario de circulación local, de la información fiscal y financiera que la entidad solicitante considere relevante. Para tal efecto, al momento de entregar la solicitud, deberá presentarse la publicación de la información del año precedente al de la solicitud de inscripción y, de estar disponible, la del primer semestre del año en curso.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-VI. Que la entidad solicitante acredite que se encuentra al corriente en el pago de los empréstitos que tenga contratados con las instituciones crediticias.
+VI. Que la Entidad solicitante acredite que se encuentra al corriente en el pago de los financiamientos y obligaciones que tenga contratados y que estén debidamente registrados en el Registro de Empréstitos y Obligaciones del Estado, y en el Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios, de la Secretaría de Hacienda y Crédito Público.
 
-### Capítulo Único
+### Capítulo IV. De las Obligaciones derivadas de las Operaciones de Endeudamiento
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 434.
 
@@ -6039,17 +6155,27 @@ Al Congreso del Estado corresponde:
 
 I. Solicitar los informes necesarios para analizar y aprobar en su caso, los programas financieros, estatales y municipales que incluyen los de sus organismos descentralizados, empresas de participación estatal y municipal mayoritaria y sus fideicomisos, cuando les suponga alguna obligación contingente.
 
-II. Aprobar por las dos terceras partes de los presentes, los montos de endeudamiento neto anual a que se refieren las Leyes de ingresos y presupuestos de egresos del Estado y de los municipios, así como la autorización de los Financiamientos y Obligaciones por parte de la Legislatura local, la cual deberá especificar por lo menos lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-a) Monto autorizado de la deuda pública u obligación a incurrir.
+II. Aprobar por las dos terceras partes de los presentes, los montos de endeudamiento neto anual a que se refieran la Ley de Ingresos y el Presupuesto de Egresos del Estado de Chiapas y los de los Municipios, del ejercicio que corresponda, así como la autorización de los Financiamientos y Obligaciones, la cual deberá especificiar por lo menos lo siguiente:
 
-b) Plazo máximo autorizado para el pago.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+a) Monto máximo a contratar.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+b) Plazo máximo de amortización.
 
 c) Destino de los recursos.
 
 d) En su caso, la fuente de pago o la contratación de una garantía de pago de la deuda pública u obligación.
 
 e) En caso de autorizaciones específicas, establecer la vigencia de la autorización, en cuyo caso no podrá exceder el ejercicio fiscal siguiente. De no establecer una vigencia, se entenderá que la autorización sólo se podrá ejercer en el ejercicio fiscal en que fue aprobada.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Es requisito indispensable para esta aprobacion, que el Congreso del Estado realice previamente el análisis de la capacidad de pago del Ente Público, del destino del Financiamiento u Obligación y, en su caso, del otorgamiento de recursos como Fuente o Garantía de pago.
 
 Los requisitos antes señalados deberán cumplirse, en lo conducente, para la autorización de la Legislatura local en el otorgamiento de avales o Garantías que pretenda otorgar el Estado o Municipios, de conformidad con el artículo 24 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
@@ -6109,7 +6235,9 @@ VIII. Asesorar a los municipios en la formulación de sus programas financieros 
 
 IX. Consignar en el Presupuesto Anual de Egresos las amortizaciones y el costo financiero de la deuda y obligaciones, a que den lugar los empréstitos a cargo del estado.
 
-X. Estudiar, analizar y otorgar en su caso el aval del Gobierno del Estado a las obligaciones de pasivo que contraigan los municipios y las entidades, que soliciten los entes públicos señalados en el artículo 429 del presente Código, en los lineamientos establecidos por el programa financiero y realizar la inscripción en el registro único de obligaciones y empréstitos a que se refiere este Código, así como publicar en forma periódica su información con respecto a los registros de su deuda.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+X. Analizar y, en su caso, otorgar el aval del Gobierno del Estado a los financiamientos u obligaciones que contraigan los Municipios y sus Entes Públicos que lo soliciten; inscribirlos en el Registro de Empréstitos y Obligaciones del Estado; así como, publicar en forma periódica, la información de Deuda Pública, en términos de la Ley General de Contabilidad Gubernamental y Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 XI. Emitir valores, formalizar y administrar la deuda pública y obligaciones del Gobierno del Estado, conforme a los planes y programas aprobados.
 
@@ -6117,13 +6245,19 @@ XII. Vigilar que se hagan oportunamente los pagos de amortizaciones, intereses y
 
 XIII. Vigilar que los recursos obtenidos por todas las operaciones a las que se refiere este ordenamiento, sean aplicados precisamente a los fines previstos en los programas financieros correspondientes o a las autorizaciones emitidas por el Congreso, en términos de los artículos 435 y 436 de este Código, según corresponda.
 
-XIV. Vigilar que la capacidad de pago de los municipios y las entidades que adquieran financiamientos, sea suficiente para cubrir puntualmente los compromisos que contraigan. Para tal efecto deberá supervisar en forma permanente el desarrollo de los programas de financiamientos aprobados, así como la adecuada estructura financiera de los municipios y entidades acreditadas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XIV. Vigilar que la capacidad de pago de los Municipios y sus Entes Públicos, que contraten financiamientos u obligaciones, sea suficiente para cubrir puntualmente los compromisos que contraigan y estén dentro de los parámetros establecidos en el Reglamento del Sistema de Alertas.
 
 XV. Informar al Congreso del Estado, previa solicitud, acerca de las operaciones relativas a la deuda pública y obligaciones Estatales.
 
-XVI. Llevar el registro de empréstitos y obligaciones del Estado, derivados de la contratación por parte de entes públicos a que se refiere el artículo 429 de este Código, de deuda pública y obligaciones, registrando el monto, características y destino de los recursos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XVII. Efectuar la inscripción de la deuda pública y obligaciones del Estado en el Registro Público Único a cargo de la Secretaría de Hacienda y Crédito Público, de conformidad con el Capítulo VI del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+XVI. Llevar el Registro de Empréstitos y Obligaciones del Estado, por los Financiamientos y Obligaciones contratados por el Estado, los Municipios y sus Entes Públicos, registrando el monto, el destino y las características principales; emitiendo para tal efecto, la Constancia de Inscripción, Modificación o Cancelación del Financiamiento u Obligación, en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y de este Código.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XVII. Efectuar el registro de la Deuda Pública del Estado en el Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios, de la Secretaría de Hacienda y Crédito Público, de conformidad con el Capítulo VI del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 XVIII. Constituir, previa autorización del Congreso del Estado, los mecanismos de fuente de pago, garantía o ambos, de sus obligaciones, tales como fideicomisos, mandatos o cualquier otro medio legal que expresamente autorice el Congreso.
 
@@ -6157,7 +6291,9 @@ I. El Secretario de Hacienda.
 
 II. El Secretario General de Gobierno.
 
-III. El Secretario de Planeación, Gestión Pública y Programa de Gobierno.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+III. El Secretario de la Honestidad y Función Pública.
 
 ###### Artículo 443.
 
@@ -6179,21 +6315,17 @@ IV. Otorgar asesoría a los Municipios y los entes públicos señalados en el ar
 
 V. Recabar y mantener información actualizada sobre la solvencia económica, técnica de contratistas y entidades financieras.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VI. Verificar que el Proceso Competitivo para la contratación de los financiamientos u obligaciones, se realice en estricto apego a la metodología indicada en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y sus Reglamentos.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-### Capítulo I. Disposiciones Generales
+### Capítulo Único
 
 ###### Artículo 445.
 
-El Ejecutivo Estatal concertará y formalizará la deuda pública y obligaciones que constituyan la deuda pública del Estado, por conducto de la Secretaría y conforme al plan de inversión pública, cuyo programa financiero estatal deberá ser aprobado previamente por el Congreso del Estado, salvo lo dispuesto en el artículo 454 de este Código.
-
-El plan de inversión pública estatal contendrá entre otros el programa financiero, el cual contendrá:
-
-I. Los montos de endeudamiento neto que requiere el Estado para el ejercicio fiscal correspondiente.
-
-II. Los montos de los pasivos contingentes contraídos por el Estado, al otorgar avales y otras garantías a los municipios y a las entidades públicas sujetas al presente Código.
-
-III. Todos los elementos de juicio y datos técnicos que justifiquen los extremos señalados por el párrafo segundo del Artículo 117, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos.
+El Ejecutivo Estatal concertará y formalizará los financiamientos y obligaciones que constituyan la deuda pública del Estado, por conducto de la Secretaría y conforme al Plan de Inversión Pública, cuyo Programa Financiero Estatal deberá ser aprobado previamente por el Congreso del Estado, salvo lo dispuesto en el artículo 454 de este Código.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -6207,11 +6339,11 @@ La deuda pública y obligaciones que contraten los entes públicos a que se refi
 
 La contratación de deuda pública y obligaciones, se sujetarán a los montos de endeudamiento neto aprobados por el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 448.
 
-Para evitar el sobreendeudamiento, el Estado y los municipios se sujetarán a Techos de Financiamientos Netos.
+Para evitar el sobreendeudamiento, el Estado, los Municipios y sus Entes Públicos, se sujetarán a los Techos de Financiamientos Netos, establecidos por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y el Reglamento del Sistema de Alertas.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -6257,9 +6389,11 @@ II. Las obligaciones a corto plazo queden totalmente pagadas, a más tardar tres
 
 III. Las obligaciones a corto plazo deberán ser quirografarias.
 
-IV. Ser inscritas en el Registro Público Único.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-El Ente Público deberá implementar un proceso competitivo, con por lo menos dos instituciones financieras y obtener únicamente una oferta irrevocable, de acuerdo a lo establecido en la fracción I del artículo 26 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Asimismo, las Obligaciones a corto plazo que se contraten, quedarán sujetas a los requisitos de información previstos en la Ley antes señalada
+IV. Ser inscritas en el Registro de Empréstitos y Obligaciones del Estado y en el Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios, de la Secretaría de Hacienda y Crédito Público, en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, el Reglamento del Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios y de este Código.
+
+El Ente Público deberá implementar un proceso competitivo, con por lo menos dos instituciones financieras y obtener únicamente una oferta irrevocable, de acuerdo a lo establecido en la fracción I del artículo 26 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Asimismo, las Obligaciones a corto plazo que se contraten, quedarán sujetas a los requisitos de información previstos en la Ley antes señalada.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -6273,15 +6407,19 @@ El Estado y Municipios presentarán en los informes periódicos a que se refiere
 
 Artículo 454 A.- Las obligaciones a corto plazo no podrán ser objeto de refinanciamiento o reestructura a plazos mayores a un año, salvo en el caso de las obligaciones destinadas a Inversión pública productiva y se cumpla con los requisitos previstos en la Ley de Disciplina Financiera de las Entidades Federativas y de los Municipios.
 
-### Capítulo II. De la contabilidad y evaluación
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 455.
 
 Los entes públicos señalados en el artículo 429 de este Código, tendrán las siguientes obligaciones:
 
-I. Solicitar la inscripción de la deuda en el Registro Único de Obligaciones y Empréstitos de Deuda Pública del Estado, que lleva la Secretaría, con fundamento en lo establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-II. Solicitar la inscripción de los Financiamientos del Estado en el Registro Público Único, en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+I. Solicitar el registro de los financiamientos y obligaciones de su deuda pública, ante el Registro de Empréstitos y Obligaciones del Estado, que lleva la Secretaría, en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, de este Código y su Reglamento.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+II. Solicitar el registro de los financiamientos y obligaciones de su deuda pública, ante el Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios, de la Secretaría de Hacienda y Crédito Público, en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 III. Llevar los registros de la deuda pública y obligaciones que contraten, conforme lo que disponga la Secretaría.
 
@@ -6331,9 +6469,7 @@ Lo anterior, en términos de la Ley de Disciplina Financiera de las Entidades Fe
 
 ## Título Cuarto. De las Fianzas a favor de Gobierno del Estado
 
-### Capítulo III. De la Consolidación
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+### Capítulo II. De la contabilidad y evaluación
 
 ###### Artículo 461.
 
@@ -6394,6 +6530,10 @@ En caso de no subsanarse la omisión en el citado plazo, la Procuraduría Fiscal
 ###### Artículo 467.
 
 La Secretaría por conducto de la Procuraduría Fiscal, sustituirá, cancelará, devolverá y hará efectiva, según procedan, las fianzas que se otorguen a favor de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+El Consejo de la Judicatura del Estado, podrá fungir como auxiliar de la Secretaría de Hacienda para sustituir, cancelar y hacer efectivas, según proceda, las fianzas otorgadas a favor de cualquiera de las autoridades que integran el Poder Judicial del Estado.
 
 ###### Artículo 468.
 
@@ -6457,7 +6597,9 @@ De los ingresos que el Estado obtenga, por el cobro de indemnizaciones e interes
 
 ## Título Quinto. De la Contabilidad Gubernamental
 
-### Capítulo IV. De la Transparencia de los Recursos Federalizados
+### Capítulo III. De la Consolidación
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 474.
 
@@ -6480,6 +6622,8 @@ Es responsabilidad de los titulares de los Organismos Públicos, la cancelación
 ###### Artículo 476.
 
 La Secretaría para la armonización, determinará las directrices del sistema contable computarizado que utilizarán los Organismos Públicos para registrar y procesar los eventos contables que permitirán obtener información, toma de decisiones y rendición de cuentas.
+
+### Capítulo IV. De la Transparencia de los Recursos Federalizados
 
 ###### Artículo 477.
 
@@ -6511,7 +6655,9 @@ La Secretaría debe establecer la lista de cuentas que permita a los Organismos 
 
 Los Organismos Públicos, enviarán a la Secretaría, en forma mensual, trimestral o con la periodicidad que lo determine, la información contable, presupuestaria, financiera y de otra índole que ésta requiera.
 
-Los Estados Financieros Contables y Presupuestarios que forman parte del Informe de Avance de Gestión Financiera y Cuenta Pública, deben ser firmados por el titular del Organismo Público y el Jefe de la Unidad de Apoyo Administrativo o su equivalente, pudiendo delegar la facultad de firma, para el caso de los informes mensuales y trimestrales.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+Los Estados Financieros Contables y Presupuestarios que forman parte del Informe de Avance de Gestión Financiera y Cuenta Pública, deben ser firmados por el titular del Organismo Público y el Jefe de la Unidad de Apoyo Administrativo o su equivalente, pudiendo delegar la facultad de firma, para el caso de los informes mensuales y trimestrales, en cumplimiento a las disposiciones aplicables.
 
 ###### Artículo 481.
 
@@ -6523,9 +6669,11 @@ La Secretaría requerirá a los Organismos Públicos, la información contable, 
 
 Asimismo, los Organismos Públicos en sus cuentas públicas deben incluir la relación de los bienes que componen su patrimonio, conforme a los formatos electrónicos que apruebe el CONAC.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 483.
 
-La Secretaría establece la forma y plazos de presentación de la información que generen los Organismos Públicos, en apego a las disposiciones normativas y técnicas que emanen de la Ley General de Contabilidad Gubernamental, dicha información será consolidada mediante los mecanismos y términos emitidos, a fin de cumplir en tiempo y forma ante el Congreso del Estado, y otras instancias que la requieran, conforme a ordenamientos establecidos.
+La Secretaría establece la forma y plazos de presentación de la información que generen los Organismos Públicos, en apego a las disposiciones normativas y técnicas que emanen de la Ley General de Contabilidad Gubernamental y Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, dicha información será consolidada mediante los mecanismos y términos emitidos, a fin de cumplir en tiempo y forma ante el Congreso del Estado, y otras instancias que la requieran, conforme a ordenamientos establecidos.
 
 La integración y consolidación de los estados financieros se efectuará con la información recibida de los Organismos Públicos de acuerdo a la fecha de entrega que establece la Secretaría.
 
@@ -6535,19 +6683,19 @@ La Secretaría podrá en su caso, realizar ajustes para recoger los efectos de l
 
 La no inclusión de la información referida en el párrafo que antecede por presentación extemporánea, será responsabilidad de los Organismos Públicos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-El incumplimiento en la entrega de la información será sancionado de acuerdo a lo establecido en este Código, Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativa (sic) y los Municipios, la Ley de Fiscalización y Rendición de Cuentas del Estado de Chiapas y demás leyes aplicables, responsabilizándose directamente a los Organismos Públicos, de las observaciones y sanciones que determine el Órgano de Fiscalización Superior del Congreso del Estado.
+El incumplimiento en la entrega de la información será sancionado de acuerdo a lo establecido en este Código, Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativa (sic) y los Municipios, la Ley de Fiscalización y Rendición de Cuentas del Estado de Chiapas, Ley de Responsabilidades Administrativas para el Estado de Chiapas y demás leyes aplicables, responsabilizándose directamente a los Organismos Públicos, de las observaciones y sanciones que determine el Órgano de Fiscalización Superior del Congreso del Estado.
 
 ###### Artículo 484.
 
 La Secretaría implementará los criterios de homogeneización y armonización de la información contable, presupuestaria, financiera y funcional, para la consolidación de los estados presupuestarios, financieros y de otra índole que resulten necesarios para la integración del Informe de Avance de Gestión Financiera y Cuenta Pública, los Organismos Públicos, serán responsables directos de la documentación comprobatoria y justificativa que se les requiera posteriormente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 485.
 
-La Secretaría de la Honestidad y la Función Pública y el Órgano de Fiscalización Superior del Congreso del Estado y la Secretaría, en el ejercicio de sus atribuciones, que en materia de inspección, control, vigilancia, revisión y fiscalización le confieren la Ley Orgánica de la Administración Pública del Estado de Chiapas y la Ley de Fiscalización y Rendición de Cuentas del Estado de Chiapas, respectivamente, comprobarán que se cumplan las obligaciones derivadas de este Código.
+La Secretaría de la Honestidad y Función Pública y el Órgano de Fiscalización Superior del Congreso del Estado y la Secretaría, en el ejercicio de sus atribuciones, que en materia de inspección, control, vigilancia, revisión y fiscalización le confieren la Ley Orgánica de la Administración Pública del Estado de Chiapas y la Ley de Fiscalización y Rendición de Cuentas del Estado de Chiapas, respectivamente, comprobarán que se cumplan las obligaciones derivadas de este Código.
 
 ###### Artículo 486.
 
@@ -6740,5 +6888,13 @@ P.O. 18 DE SEPTIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 256 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS".]
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 044 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día 1 de enero de 2020.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
