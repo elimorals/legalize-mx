@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2019-11-18"
+last_updated: "2019-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -1243,9 +1243,13 @@ III.- Desde el día en que se realizó la última conducta tratándose de delito
 
 IV.- Desde la cesación de la consumación en el delito permanente.
 
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-En los delitos previstos en el Título Quinto, que hubiesen sido cometidos en contra de una persona menor de dieciocho años de edad, se observarán las reglas para la prescripción de la acción penal contenidas en este Capítulo, pero el inicio del cómputo de los plazos comenzará a partir del día en que la víctima cumpla la mayoría de edad.
+En los delitos previstos en el Título Quinto, que hubiesen sido cometidos en contra de una persona menor de dieciocho años de edad, no podrá declararse la prescripción en perjuicio de niñas, niños y adolescentes, por el transcurso del tiempo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+En el caso de aquellas personas que no tengan la capacidad de comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, el inicio del cómputo de los plazos para la prescripción de la acción penal, comenzará a partir del día en que exista evidencia de la comisión de esos delitos ante el Ministerio Público.
 
 ###### ARTICULO 122.
 
@@ -1468,6 +1472,10 @@ Si las lesiones a que se refiere este artículo, ponen en peligro la vida, la pu
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2013)</small>
 
 ARTICULO 141 BIS.- Al que dolosamente lesione a una mujer, se aumentará una tercera parte a la punibilidad que le corresponda por la lesión inferida.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 141 TER. Se duplicará la punibilidad que corresponda al delito de lesiones cuando se causen mediante la utilización de cualquier tipo de agente químico o corrosivo que generen destrucción o daño del tejido humano.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -2473,6 +2481,8 @@ Si el daño recae en bienes de valor científico, artístico o de un servicio p�
 
 ### CAPITULO VI. MATRIMONIO ILEGAL
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 224.
 
 Al que después de la consumación de un hecho típico de carácter patrimonial y sin haber participado en éste, reciba, adquiera u oculte el producto de aquél, a sabiendas de su ilegítima procedencia se le impondrán las tres cuartas partes de la punibilidad prevista para tal hecho típico.
@@ -2697,7 +2707,7 @@ Al que contraiga nuevo matrimonio sin que se haya declarado la nulidad o la diso
 
 ###### ARTICULO 241.
 
-Al que fuera del caso de bigamia contraiga matrimonio con conocimiento de la existencia de un impedimento no dispensable, se le impondrá prisión de seis meses a dos años y multa de 10 a 50 días. Las mismas penas se aplicarán al que autorice la celebración del matrimonio si conocía del impedimento.
+Al que fuera del caso de bigamia contraiga matrimonio con conocimiento de la existencia de un impedimento previsto en la Ley para la Familia del Estado de Hidalgo, se le impondrá prisión de seis meses a dos años y multa de 10 a 50 días. Las mismas penas se aplicarán al que autorice la celebración del matrimonio si conocía del impedimento.
 
 ### CAPITULO IV. FACILITACION DELICTIVA
 
@@ -3497,9 +3507,9 @@ Este delito se perseguirá por querella de la institución encargada de brindar 
 
 ## TITULO DECIMO OCTAVO. DELITOS COMETIDOS EN LA PROCURACION Y ADMINISTRACION DE JUSTICIA
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES PUBLICOS, TORTURA Y DESAPARICION FORZADA DE PERSONAS
+### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES PÚBLICOS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2017)</small>
 
@@ -3809,51 +3819,9 @@ XXXIII.- Desvíe u obstaculice la investigación del hecho delictuoso de que se 
 
 Se aplicara el doble de la punibilidad que corresponda, al servidor público que incurra en el supuesto previsto en la fracción VII de este artículo, tratándose de la investigación de los delitos previstos en los Artículos 139 bis y 141 bis; inhabilitándose además al responsable para despeñar cualquier otro cargo o comisión dentro del servicio público por un periodo igual al de la pena de prisión impuesta.
 
-(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 3/2018 Y SU ACUMULADA 5/2018, DECLARÓ LA INVALIDEZ, DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 14 DE DICIEMBRE DE 2017, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+ARTICULO 322 BIS. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE DICIEMBRE DE 2017)</small>
-
-ARTICULO 322 BIS.- AL SERVIDOR PÚBLICO QUE, EN EJERCICIO DE SUS FUNCIONES O ADUCIENDO SU ENCARGO, POR SÍ O A TRAVÉS DE UN TERCERO, ORDENE, INSTIGUE O INDUZCA PARA COACCIONAR A LA VÍCTIMA PARA QUE REALICE O DEJE DE HACER UNA CONDUCTA DETERMINADA, CASTIGARLA POR UN ACTO QUE HAYA COMETIDO O SE SOSPECHE HA COMETIDO, O ANULAR SU PERSONALIDAD O DISMINUIR SU CAPACIDAD FÍSICA O MENTAL, AUNQUE LOS MÉTODOS EMPLEADOS NO CAUSEN DOLOR FÍSICO O ANGUSTIA PSÍQUICA, SE LE IMPONDRÁ PRISIÓN DE TRES A DOCE AÑOS Y MULTA DE 200 A 500 DÍAS, PRIVACIÓN DE SU CARGO E INHABILITACIÓN PARA EL DESEMPEÑO DE CUALQUIER CARGO, EMPLEO O COMISIÓN PÚBLICOS HASTA POR EL MÁXIMO DE LA PUNIBILIDAD SEÑALADA.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2017)</small>
-
-(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 3/2018 Y SU ACUMULADA 5/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE JUNIO DE 2017, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2013)</small>
-
-NO SE CONSIDERARÁ COMO TORTURA, LAS MOLESTIAS O SUFRIMIENTOS QUE SEAN CONSECUENCIA DE SANCIONES LEGALES, INHERENTES O INCIDENTALES A ÉSTAS O DERIVADAS DE UN ACTO LEGÍTIMO DE AUTORIDAD.
-
-(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 3/2018 Y SU ACUMULADA 5/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE JUNIO DE 2017, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2013)</small>
-
-EL SERVIDOR PÚBLICO QUE EN EL EJERCICIO DE SUS FUNCIONES CONOZCA DE UN HECHO DE TORTURA, ESTÁ OBLIGADO A DENUNCIARLO DE INMEDIATO; SI NO LO HICIERE, SE LE IMPONDRÁN HASTA TRES AÑOS DE PRISIÓN Y MULTA DE 15 A 60 DÍAS Y SUSPENSIÓN DEL CARGO HASTA POR EL MÁXIMO DE LA PUNIBILIDAD SEÑALADA. LA MISMA PENA SE IMPONDRÁ AL AGENTE DEL MINISTERIO PUBLICO QUE AL TENER CONOCIMIENTO O RAZONES FUNDADAS PARA CONSIDERAR QUE EXISTIÓ TORTURA, NO INICIE DE OFICIO LA INDAGATORIA CORRESPONDIENTE.
-
-(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 3/2018 Y SU ACUMULADA 5/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE JUNIO DE 2017, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2017)</small>
-
-NO PODRÁ INVOCARSE COMO CAUSA DE JUSTIFICACIÓN EN LA COMISIÓN DEL DELITO DE TORTURA SEÑALADO EN LA LEGISLACIÓN APLICABLE, LA ORDEN DE UN SUPERIOR JERÁRQUICO O DE CUALQUIER OTRA AUTORIDAD, LA EXISTENCIA DE SITUACIONES EXCEPCIONALES COMO PELIGROSIDAD DEL INDICIADO, URGENCIA EN LAS INVESTIGACIONES O CUALQUIER OTRA CIRCUNSTANCIA ANÁLOGA O DE EMERGENCIA PÚBLICA.
-
-(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 3/2018 Y SU ACUMULADA 5/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE JUNIO DE 2017, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2013)</small>
-
-EN EL DELITO PREVISTO POR ESTE ARTÍCULO, LA REPARACIÓN DE LOS DAÑOS Y PERJUICIOS COMPRENDERÁ ADEMÁS, LOS GASTOS DE ATENCIÓN MÉDICA Y/O PSICOLÓGICA, REHABILITACIÓN, ASESORÍA LEGAL, SERVICIO FUNERARIO O DE CUALQUIER OTRA ÍNDOLE, QUE HAYA EROGADO LA VÍCTIMA O SUS FAMILIARES COMO CONSECUENCIA DEL DELITO. ASIMISMO, EL SENTENCIADO ESTARÁ OBLIGADO A REPARAR EL DAÑO Y A INDEMNIZAR POR LOS PERJUICIOS CAUSADOS A LA VÍCTIMA, EN LOS SIGUIENTES CASOS: PÉRDIDA DE LA VIDA, DE ALGÚN ÓRGANO O ALGÚN MIEMBRO DE SU CUERPO, ALTERACIÓN DE LA SALUD FÍSICA O MENTAL, PÉRDIDA DE LA LIBERTAD, PÉRDIDA DE INGRESOS ECONÓMICOS, INCAPACIDAD LABORAL, PÉRDIDA O EL DAÑO EN LA PROPIEDAD Y/O MENOSCABO DE SU REPUTACIÓN.
-
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2013)</small>
-
-ARTICULO 322 TER.- Comete el delito de desaparición forzada de personas, y se le impondrá prisión de veinte a cuarenta años, multa de 200 a 500 días y privación de su cargo e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por el máximo de la punibilidad señalada, al servidor público que actuando con ese carácter o aduciendo su cargo, por sí o a través de un tercero, tenga conocimiento o intervenga de cualquier modo, en la detención legal o privación ilegal de la libertad de una o varias personas, propiciando o manteniendo dolosamente su ocultamiento, al negarse a reconocer la privación de la libertad o a proporcionar información sobre el paradero de la víctima.
-
-Se impondrá la misma punibilidad a quien, aún careciendo de la calidad de servidor público, pero instigado, apoyado o autorizado por éste, explícita o implícitamente, realice o participe en la desaparición forzada de una persona.
-
-El servidor público que en el ejercicio de sus funciones conozca de un hecho de desaparición forzada de personas o el paradero de la víctima, está obligado a denunciarlo de inmediato; si no lo hiciere, se le impondrán de diez a veinte años de prisión, multa de 100 a 300 días y suspensión del cargo hasta por el máximo de la punibilidad señalada.
-
-Las penas previstas en este artículo, podrán ser disminuidas hasta en una tercera parte, en beneficio de aquel que hubiere participado en la comisión del delito, cuando suministre información que permita esclarecer los hechos, y hasta en una mitad, cuando contribuya a lograr la aparición con vida de la víctima.
-
-No podrá invocarse como causa de justificación, en la comisión de la conducta descrita en el párrafo primero de este artículo, la orden de un superior jerárquico o de cualquier otra autoridad.
-
-La oposición o negativa a la autoridad competente para tener libre e inmediato acceso al lugar donde haya motivos para creer que se pueda encontrar a una persona desaparecida, por parte del servidor público responsable del mismo, será sancionada con la destitución de su cargo, comisión o empleo, sin perjuicio de la aplicación de las penas de los demás delitos en que pudiera incurrir con motivo de su conducta.
+ARTICULO 322 TER. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2019)
 
 ### CAPÍTULO III TER. DELITOS EN CONTRA DE LOS ANIMALES
 
@@ -4566,3 +4534,11 @@ P.O. 18 DE NOVIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 307 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de tortura y desaparición forzada se seguirán tramitando conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen.
