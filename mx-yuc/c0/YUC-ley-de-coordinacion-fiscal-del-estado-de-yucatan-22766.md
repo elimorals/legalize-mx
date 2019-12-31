@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-coordinacion-fiscal-del-estado-de-yucatan-22766"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2018-12-31"
+last_updated: "2019-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2001.
 
@@ -125,13 +125,17 @@ También quedan exceptuados de participaciones a los municipios, el impuesto a l
 
 8. 100% del monto que corresponda al estado por la recaudación que se obtenga del impuesto sobre la renta que efectivamente se entere a la Federación, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en las dependencias de los municipios, así como en las entidades paramunicipales, siempre que el salario sea efectivamente pagado con cargo a sus participaciones u otros ingresos locales, en los términos del artículo 3-B de la Ley de Coordinación Fiscal federal;
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-9. 20% del monto que corresponda al estado del total recaudado de las cuotas por enajenación de gasolina o diesel previstas en el artículo 2°-A, fracción II, de la Ley Especial sobre Producción y Servicios, de conformidad con lo dispuesto por el artículo 4o.-A de la Ley de Coordinación Fiscal federal y;
+9. 20% del monto que corresponda al estado del total recaudado de las cuotas por enajenación de gasolina o diesel previstas en el artículo 2°-A, fracción II, de la Ley Especial sobre Producción y Servicios, de conformidad con lo dispuesto por el artículo 4o.-A de la Ley de Coordinación Fiscal federal;
 
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-10. 20% de los ingresos estatales derivados del impuesto a la venta final de bebidas con contenido alcohólico, de conformidad con el artículo 10-C de la Ley de Coordinación Fiscal.
+10. 20% de los ingresos estatales derivados del impuesto a la venta final de bebidas con contenido alcohólico, de conformidad con el artículo 10-C de la Ley de Coordinación Fiscal, y;
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
+11. 20% de la recaudación del Fondo de Compensación del Impuesto sobre Automóviles Nuevos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -500,3 +504,11 @@ Segundo. El Poder Ejecutivo del Estado de Yucatán, a través de la Secretaría 
 Tercero. El impuesto a la venta final de bebidas con contenido alcohólico, no será participable en términos del numeral 6 del artículo 5, siendo solo participable en el porcentaje establecido en la (sic) numeral 10 que se le adiciona al artículo 5 de la Ley de Coordinación Fiscal del Estado de Yucatán en este decreto, hasta en tanto otro decreto disponga lo contrario.
 
 Cuarto. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 31 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 157/2019 POR EL QUE SE MODIFICA LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE YUCATÁN”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día 1 de enero de 2020, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
