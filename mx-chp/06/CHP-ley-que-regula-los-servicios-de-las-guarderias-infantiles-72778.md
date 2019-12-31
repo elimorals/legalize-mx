@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-regula-los-servicios-de-las-guarderias-infantiles-72778
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-30"
-last_updated: "2009-12-30"
+last_updated: "2019-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY QUE REGULA LOS SERVICIOS DE LAS GUARDERIAS INFANTILES EN EL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE REGULA LOS SERVICIOS DE LAS GUARDERIAS INFANTILES EN EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019 (ABROGADO).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 30 de diciembre de 2009.
 
@@ -552,3 +554,27 @@ Dado en el Salón Sesiones del H. Congreso del Estado Libre y Soberano de Chiapa
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintiocho días del mes de diciembre del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 153 DE LA “LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley que Regula los Servicios de las Guarderías Infantiles en el Estado de Chiapas, aprobada mediante Decreto 044 de fecha 24 de diciembre de 2009, publicada en el Periodico Oficial número 207-2ª sección de fecha 30 de diciembre de 2009.
+
+Artículo Tercero.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en esta Ley.
+
+Artículo Cuarto.- Las disposiciones reglamentarias de esta Ley deberán ser expedidas por el Poder Ejecutivo Estatal dentro de los 180 días siguientes a la entrada en vigor de la misma.
+
+Artículo Quinto.- Los prestadores de servicios para la atención, cuidado y desarrollo integral infantil que se encuentren operando con anterioridad a la entrada en vigor a esta Ley, contarán con un plazo de un año a partir de la entrada en vigor del presente decreto para adecuar los Centros de Atención y su normatividad interna con base en lo dispuesto en la presente Ley.
+
+Artículo Sexto.- Las dependencias del Poder Ejecutivo del Estado, contarán con un periodo de 180 días hábiles para adecuar su normatividad.
+
+Artículo Séptimo.- Se faculta a la Secretaría de Protección Civil del Estado, así como de los Municipios, para que emitan dictamen técnico en términos de infraestructura, equipamiento, la tipología y capacidad de los centros de atención.
+
+Artículo Octavo.- Se faculta a los Centros de Atención para que en un periodo de seis meses deberán de capacitar al personal que brinda atención directa a niños y niñas en temas de igualdad, inclusión y discapacidad.
+
+Artículo Noveno.- Se faculta a la dependencia de riesgos sanitarios a establecer los requisitos que deberán cubrir los centros de Atencion para personas con discapacidad.
