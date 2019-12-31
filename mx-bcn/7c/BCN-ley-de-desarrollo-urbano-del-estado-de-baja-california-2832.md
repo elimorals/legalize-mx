@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2019-07-12"
+last_updated: "2019-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -201,19 +201,13 @@ XVI. La coordinación y concertación de la inversión pública y privada con la
 
 XVII. El desarrollo y adecuación en los centros de población de la infraestructura, el equipamiento y los servicios urbanos que garanticen la seguridad y accesibilidad que requieran las personas con discapacidad.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 4.
 
-Los Planes y Programas de Desarrollo Urbano y las declaratorias sobre provisiones, usos, reservas y destinos de áreas, zonas y predios, son de orden público e interés social, por lo que el ejercicio del derecho de propiedad sobre los bienes inmuebles comprendidos en ellos estará sujeto a las normas contenidas en los mismos, de acuerdo con lo previsto en los artículos 27 de la Constitución Política de los Estados Unidos y 821 del Código Civil para el Estado de Baja California.
+Los Planes y Programas de Desarrollo Urbano y las declaratorias sobre provisiones, usos, reservas y destinos de áreas, zonas y predios, son de orden público e interés social, por lo que el ejercicio del derecho de propiedad sobre los bienes inmuebles comprendidos en ellos estará sujeto a las normas contenidas en los mismos, de acuerdo con lo previsto en los artículos 27 de la Constitución Política de los Estados Unidos Mexicanos y 821 del Código Civil para el Estado de Baja California.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2015)</small>
-
-Quedan prohibidos los usos de suelo y de construcción para casinos, casas, centros o cualquier establecimiento que opere juego con apuestas, apuestas remotas, salas de sorteo de números, mesas de juego, máquinas electrónicas de juego, videojuegos electrónicos susceptibles de apuestas, máquinas de videojuegos electrónicos o electromecánicas de habilidad y destreza, juegos de azar y demás similares, salvo en aquellos casos en que el uso de suelo y construcción sea para un establecimiento de dicha naturaleza que ya se encuentre operando en la entidad y solo requiera reubicación dentro del municipio donde se ubique, y forme parte de un proyecto integral que propicie la generación de empleos, el desarrollo económico o turístico de una zona; siempre que su otorgamiento no contravenga la planeación urbana estatal y municipal.
-
-> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
-
-Queda prohibido utilizar como propaganda gubernamental en el equipamiento urbano y en la infraestructura expresiones, emblemas, símbolos, logotipos que impliquen promoción personalizada de cualquier servidor público o partido político, salvo en los casos de señalización conforme a las normas oficiales mexicanas y demás disposiciones que resulten aplicables.
+Queda prohibido utilizar como propaganda gubernamental en el equipamiento urbano y en la infraestructura expresiones, emblemas, símbolos, logotipos que impliquen promoción personalizada de cualquier servidor público o partido político, salvo en los casos de señalizaciones conforme a las normas oficiales mexicanas y demás disposiciones que resulten aplicables.
 
 ###### ARTICULO 5.
 
@@ -2938,3 +2932,15 @@ P.O. 12 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 347 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO 4 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2019.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO NO. 36 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO CUARTO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor el día después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Ayuntamientos del Estado contarán con un plazo de treinta días para dejar sin efecto cualquier normatividad que se haya aprobado para reglamentar la prohibición aquí suprimida.
