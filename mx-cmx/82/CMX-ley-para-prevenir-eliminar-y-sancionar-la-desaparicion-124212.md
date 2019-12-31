@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-prevenir-eliminar-y-sancionar-la-desaparicion-124212"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-07"
-last_updated: "2017-11-07"
+last_updated: "2019-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124212&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,13 @@ issue_date: "2017-10-31"
 ---
 # LEY PARA PREVENIR, ELIMINAR Y SANCIONAR LA DESAPARICION FORZADA DE PERSONAS Y LA DESAPARICION POR PARTICULARES EN LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.
+
+NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO POR EL QUE SE ABROGA LA LEY PARA PREVENIR, ELIMINAR Y SANCIONAR LA DESAPARICIÓN FORZADA DE PERSONAS Y LA DESAPARICIÓN POR PARTICULARES EN LA CIUDAD DE MÉXICO. SE EXPIDE LA LEY DE BÚSQUEDA DE PERSONAS DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 31 DE DICIEMBRE DEL 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
 
 LEY PARA PREVENIR, ELIMINAR Y SANCIONAR LA DESAPARICIÓN FORZADA DE PERSONAS Y LA DESAPARICIÓN POR PARTICULARES EN LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el martes 7 de noviembre de 2017.
 
@@ -311,3 +313,57 @@ CUARTO.- En tanto no entre en vigor la Unidad de Medida y Actualización, se uti
 Recinto de la Asamblea Legislativa del Distrito Federal, al día uno del mes de agosto del año dos mil diecisiete.- POR LA MESA DIRECTIVA.- DIP. MAURICIO ALONSO TOLEDO GUTIÉRREZ, PRESIDENTE.- DIP. REBECA PERALTA LEÓN, SECRETARIA.- DIP. LUCIANO JIMENO HUANOSTA, SECRETARIO.- (Firma)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los treinta y un días del mes de octubre del año dos mil diecisiete.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- SECRETARÍA DE FINANZAS, EDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JOSE RAMÓN AMIEVA GÁLVEZ.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 31 DE DICIEMBRE DE 2019.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO POR EL QUE SE ABROGA LA LEY PARA PREVENIR, ELIMINAR Y SANCIONAR LA DESAPARICIÓN FORZADA DE PERSONAS Y LA DESAPARICIÓN POR PARTICULARES EN LA CIUDAD DE MÉXICO. SE EXPIDE LA LEY DE BÚSQUEDA DE PERSONAS DE LA CIUDAD DE MÉXICO.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga la Ley para Prevenir, Eliminar y Sancionar la Desaparición Forzada de Personas y la Desaparición por Particulares en la Ciudad de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Se expide la Ley de Búsqueda de Personas de la Ciudad de México, para quedar como sigue:
+
+## [N. DE E. TRANSITORIOS DEL “DEL DECRETO POR EL QUE SE ABROGA LA LEY PARA PREVENIR, ELIMINAR Y SANCIONAR LA DESAPARICIÓN FORZADA DE PERSONAS Y LA DESAPARICIÓN POR PARTICULARES EN LA CIUDAD DE MÉXICO. SE EXPIDE LA LEY DE BÚSQUEDA DE PERSONAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese el presente decreto en la Gaceta Oficial de la Ciudad de México y para mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- Las facultades conferidas en esta Ley a la Fiscalía General de Justicia de la Ciudad de México, serán asumidas por la Procuraduría General de Justicia del Distrito Federal, en tanto no se cree dicha dependencia.
+
+CUARTO.- El Consejo Ciudadano deberá estar conformado dentro de los noventa días posteriores a la entrada en vigor del presente Decreto.
+
+En un plazo de treinta días posteriores a su conformación el Consejo Ciudadano deberá emitir sus reglas de funcionamiento.
+
+QUINTO.- El Sistema de Búsqueda deberá quedar instalado dentro de los noventa días posteriores a la publicación del presente Decreto.
+
+En la primera sesión ordinaria del Sistema de Búsqueda, se deberán emitir los lineamientos y modelos a que se refiere el artículo 21, fracciones I y XII de esta Ley.
+
+SEXTO.- El Sistema de Búsqueda tiene un plazo de ciento ochenta días naturales a partir del 30 de enero de 2020 para emitir el Protocolo a que hace referencia el artículo 7° del presente Decreto.
+
+SÉPTIMO.- Dentro de los treinta días siguientes a la emisión de los lineamientos previstos en el artículo transitorio anterior, la Comisión de Búsqueda deberá contar con la infraestructura tecnológica necesaria y comenzar a operar el Registro de Personas Desaparecidas.
+
+OCTAVO.- Dentro de los ciento ochenta días posteriores a la Publicación del Programa Nacional de Búsqueda de Personas, la Comisión de Búsqueda deberá emitir el Programa de Búsqueda.
+
+NOVENO.-Las personas servidoras públicas que integren la Fiscalía Especializada y la Comisión de Búsqueda deberán estar certificadas dentro del año posterior a la entrada en vigor del presente Decreto.
+
+DÉCIMO.- La persona titular de la Jefatura de Gobierno, en un plazo de ciento veinte días a partir de la entrada en vigor del presente Decreto, deberá expedir y armonizar las disposiciones reglamentarias que correspondan conforme a lo dispuesto en el presente Decreto.
+
+DÉCIMO PRIMERO.- La Secretaría de Gobierno y la Secretaría de Administración y Finanzas de la Ciudad de México, realizarán las gestiones necesarias, ante las instancias locales y federales correspondientes, para el inicio de operaciones de la Comisión de Búsqueda durante el ejercicio fiscal de 2019, en tanto que se emiten las erogaciones correspondientes en los presupuestos de egresos de los próximos ejercicios fiscales.
+
+DÉCIMO SEGUNDO.- El Congreso de la Ciudad de México realizará las adecuaciones presupuestarias necesarias en los subsecuentes ejercicios fiscales.
+
+DÉCIMO TERCERO.- Las facultades conferidas al Sistema de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes de la Ciudad de México, serán asumidas por el Sistema de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes del Distrito Federal, en tanto no se den las adecuaciones a la legislación en materia.
+
+DÉCIMO CUARTO.- Los programas de capacitación a que hace referencia el Capítulo Tercero del Título Quinto deben incluir herramientas metodológicas de medición que incluyan metas e indicadores a efecto de evaluar las capacitaciones de los servidores públicos.
+
+DÉCIMO QUINTO.- Se sancionará en los términos de la Ley General de Salud a los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliares de la salud, que no proporcionen a la Comisión de Búsqueda y a la Fiscalía Especializada, la información a la que hacen referencia los artículos 32 y 75 del presente decreto.
+
+DÉCIMO SEXTO.- En tanto no se efectúe la completa integración del Registro Nacional de Detenciones y se lleve a cabo la implementación del mismo de conformidad con lo estipulado por la Ley Nacional del Registro de Detenciones, serán aplicables las disposiciones previstas para tal efecto por la misma ley.
+
+DÉCIMO SÉPTIMO.- Las autoridades que integran el Sistema de Búsqueda, así como toda dependencia de la Ciudad de México que cuente con información relevante relacionada con la materia de Ley General y esta Ley, deberán presentar su diagnóstico al que hace referencia la fracción XI del artículo 97, a más tardar en la Tercera Sesión Ordinaria del mismo.
