@@ -4,7 +4,7 @@ identifier: "COA-codigo-fiscal-para-el-estado-de-coahuila-de-zaragoza-37936"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-01-02"
-last_updated: "2019-12-13"
+last_updated: "2019-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37936&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 2 de enero de 2004.
 
@@ -535,17 +535,33 @@ XI. Las sociedades escindidas, por las contribuciones causadas en relación con 
 
 La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas, los responsables solidarios podrán ser sancionados por actos u omisiones propios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 28.
 
-Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas, deberán solicitar su inscripción en el Registro Estatal de Contribuyentes requisitando debidamente la forma autorizada para ello y presentar cuando proceda los siguientes avisos:
+Los contribuyentes personas morales, así como las personas físicas que deban presentar declaraciones periódicas, deberán solicitar su inscripción en el Registro Estatal de Contribuyentes, dentro del plazo de 30 días naturales siguientes al inicio de sus operaciones, requisitando debidamente la forma autorizada para ello y presentar en el mismo término, cuando proceda los siguientes avisos:
 
 I. Cambio de nombre, denominación o razón social.
 
 II. Cambio de domicilio.
 
-III. Suspensión o baja de obligaciones fiscales.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+III. Aumento o disminución de obligaciones fiscales.
 
 IV. Liquidación, fusión o escisión.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+V. Apertura o liquidación de la sucesión.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VI. Cierre de establecimientos o locales.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VII. Cesación total de operaciones.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -789,6 +805,18 @@ Las autoridades fiscales publicarán mensualmente un extracto de las principales
 
 Los funcionarios fiscales facultados debidamente, podrán dar a conocer a las diversas dependencias el criterio que deberán seguir en cuanto a la aplicación de las disposiciones fiscales, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos cuando se publiquen en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 36-A.
+
+Las resoluciones administrativas de carácter individual favorables a un particular sólo podrán ser modificadas por el Tribunal de lo Contencioso Administrativo del Estado de Coahuila de Zaragoza mediante juicio iniciado por las autoridades fiscales.
+
+Cuando la Secretaría de Finanzas modifique las resoluciones administrativas de carácter general, estas modificaciones no comprenderán los efectos producidos con anterioridad a la nueva resolución.
+
+Las autoridades fiscales podrán, discrecionalmente, revisar las resoluciones administrativas de carácter individual no favorables a un particular emitidas por sus subordinados jerárquicamente y, en el supuesto de que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, podrán, por una sola vez, modificarlas o revocarlas en beneficio del contribuyente, siempre y cuando los contribuyentes no hubieren interpuesto medios de defensa y hubieren transcurrido los plazos para presentarlos, y sin que haya prescrito el crédito fiscal.
+
+Lo señalado en el párrafo anterior no constituirá instancia, y las resoluciones que dicte la Secretaría de Finanzas a través de la Administración Fiscal General al respecto no podrán ser impugnadas por los contribuyentes.
+
 ###### ARTICULO 37.
 
 Las peticiones que se formulen a las autoridades fiscales deberán ser resueltas en un plazo de hasta tres meses; transcurrido dicho plazo sin que se notifique la resolución, el interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa en cualquier tiempo posterior a dicho plazo mientras no se dicte la resolución, o bien, esperar a que ésta se dicte.
@@ -805,29 +833,33 @@ III. Conceder subsidios o estímulos fiscales.
 
 Las resoluciones que conforme a este artículo se dicten, deberán señalar las contribuciones a que se refieren, salvo que se trate de estímulos fiscales, así como, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplirse por los beneficiados.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 39.
 
-Los actos administrativos que se deban notificar deberán tener por lo menos los siguientes requisitos:
+Los actos administrativos que se deban notificar deberán tener, por lo menos, los siguientes requisitos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+I. Constar por escrito en documento impreso o digital.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+Tratándose de actos administrativos que consten en documentos digitales y deban ser notificados personalmente o por medio del buzón tributario, deberán transmitirse codificados a los destinatarios.
 
-I. Constar por escrito en documento impreso, y en su caso, en digital.
+II. Señalar la autoridad que lo emite.
 
-Tratándose de actos administrativos que consten en documentos digitales, las Autoridades Fiscales emitirán reglas de carácter general que faciliten su aplicación;
+III. Señalar lugar y fecha de emisión.
 
-II. Señalar la autoridad que lo emite;
+IV. Estar fundado, motivado y expresar la resolución, objeto o propósito de que se trate.
 
-III. Estar fundado y motivado y expresar la resolución, objeto o propósito de que se trate;
+V. Ostentar la firma del funcionario competente y, en su caso, el nombre o nombres de las personas a las que vaya dirigido. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación. En el caso de resoluciones administrativas que consten en documentos digitales, deberán contener la firma electrónica avanzada del funcionario competente, la que tendrá el mismo valor que la firma autógrafa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+Para la emisión y regulación de la firma electrónica avanzada de los funcionarios pertenecientes a la Administración Fiscal General, serán aplicables las disposiciones previstas en el Capítulo II, del Título I denominado "De los Medios Electrónicos" de este ordenamiento.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+En caso de resoluciones administrativas que consten en documentos impresos, el funcionario competente podrá expresar su voluntad para emitir la resolución plasmando en el documento impreso un sello expresado en caracteres, generado mediante el uso de su firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución.
 
-IV. Ostentar la firma del funcionario competente y, en su caso, el nombre o nombres de las personas a las que se envíe. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación. En el caso de resoluciones administrativas que consten en documentos digitales, las Autoridades Fiscales emitirán reglas de carácter general que faciliten su aplicación.
+Para dichos efectos, la impresión de caracteres consistente en el sello resultado del acto de firmar con la firma electrónica avanzada amparada por un certificado vigente a la fecha de la resolución, que se encuentre contenida en el documento impreso, producirá los mismos efectos que las Leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
 
-Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria se señalará, además, la causa legal de la responsabilidad.
+Asimismo, la integridad y autoría del documento impreso que contenga la impresión del sello resultado de la firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución, será verificable mediante el método de remisión al documento original con la clave pública del autor.
+
+El Servicio de Administración Tributaria establecerá los medios a través de los cuales se podrá comprobar la integridad y autoría del documento señalado en el párrafo anterior.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -1297,21 +1329,83 @@ Las copias, Impresiones o reproducciones que deriven del microfilm, disco óptic
 
 Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro de los quince días siguientes a aquel en que haya surtido efecto la notificación de la resolución que los determine.
 
-###### ARTICULO 60.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-Las autoridades fiscales, a petición de los contribuyentes, podrán discrecionalmente autorizar el pago a plazo, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios, sin que dicho plazo exceda de veinticuatro meses. Durante el plazo concedido se causarán intereses sobre el saldo insoluto, incluyendo los accesorios, conforme a la tasa establecida en la Ley de Ingresos del Estado vigente en los ejercicios de que se trate.
+###### ARTÍCULO 60.
 
-Las autoridades fiscales al autorizar el pago a plazo exigirán se garantice el interés fiscal, a excepción de los casos en los que dichas autoridades discrecionalmente dispensen el otorgamiento de la garantía.
+Las autoridades fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios sin que dicho plazo exceda de doce meses para pago diferido y de treinta y seis meses para pago en parcialidades, siempre y cuando los contribuyentes:
 
-Cesará la autorización para pagar a plazo en forma diferida o en parcialidades, cuando:
+I. Presenten el formato que se establezca para tales efectos, por la Administración Fiscal General.
 
-I. Desaparezca o resulte insuficiente la garantía del interés fiscal, sin que el contribuyente dé nueva garantía o amplíe la que resulte insuficiente.
+La modalidad del pago a plazos elegida por el contribuyente en el formato de la solicitud de autorización de pago a plazos, podrá modificarse para el crédito de que se trate, por una sola ocasión, siempre y cuando el plazo en su conjunto no exceda del plazo máximo establecido en el presente artículo.
 
-II. El contribuyente sea declarado en quiebra, concurso, suspensión o solicite su liquidación judicial.
+II. Paguen el 20% del monto total del crédito fiscal al momento de la solicitud de autorización del pago a plazos. El monto total del adeudo se integrará por la suma de los siguientes conceptos:
 
-III. El contribuyente deje de pagar tres parcialidades.
+a) El monto de las contribuciones omitidas actualizado desde el mes en que se debieron pagar y hasta aquél en que se solicite la autorización.
 
-En los supuestos señalados en los incisos anteriores las autoridades fiscales requerirán y harán exigible el saldo insoluto mediante el procedimiento administrativo de ejecución.
+b) Las multas que correspondan actualizadas desde el mes en que se debieron pagar y hasta aquél en que se solicite la autorización.
+
+c) Los accesorios distintos de las multas que tenga a su cargo el contribuyente a la fecha en que solicite la autorización.
+
+La actualización que corresponda al periodo mencionado se efectuará conforme a lo previsto por el artículo 15-A de este Código.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 60-A.
+
+Para los efectos de la autorización a que se refiere el artículo anterior se estará a lo siguiente:
+
+I. Tratándose de la autorización del pago a plazos en parcialidades, el saldo que se utilizará para el cálculo de las parcialidades será el resultado de disminuir el pago correspondiente al 20% señalado en la fracción II del artículo anterior, del monto total del adeudo a que hace referencia dicha fracción.
+
+El monto de cada una de las parcialidades deberá ser igual, y pagadas en forma mensual y sucesiva, para lo cual se tomará como base el saldo del párrafo anterior, el plazo elegido por el contribuyente en su solicitud de autorización de pago a plazos y la tasa mensual de recargos por prórroga que incluye actualización de acuerdo a la Ley de Ingresos del Estado vigente en la fecha de la solicitud de autorización de pago a plazos en parcialidades.
+
+Cuando no se paguen oportunamente los montos de los pagos en parcialidades autorizados, el contribuyente estará obligado a pagar recargos por los pagos extemporáneos sobre el monto total de las parcialidades no cubiertas actualizadas, de conformidad con los artículos 15-A de este Código y 5 de la Ley de Ingresos para el Estado, por el número de meses o fracción de mes, desde la fecha en que se debió realizar el pago y hasta que éste se efectúe.
+
+II. Tratándose de la autorización del pago a plazos de forma diferida, el monto que se diferirá será el resultado de restar el pago correspondiente al 20% señalado en la fracción II del artículo anterior, del monto total del adeudo a que hace referencia dicha fracción.
+
+El monto a liquidar por el contribuyente, se calculará adicionando al monto referido en el párrafo anterior, la cantidad que resulte de multiplicar la tasa de recargos por prórroga que incluye actualización de acuerdo al artículo 4 de la Ley de Ingresos del Estado, vigente en la fecha de la solicitud de autorización de pago a plazos de forma diferida, por el número de meses o fracción de mes, transcurridos desde la fecha de la solicitud de pago a plazos de forma diferida y hasta la fecha señalada por el contribuyente para liquidar su adeudo y por el monto que se diferirá.
+
+El monto para liquidar el adeudo a que se hace referencia en el párrafo anterior, deberá cubrirse en una sola exhibición a más tardar en la fecha de pago especificada por el contribuyente en su solicitud de autorización de pago a plazos.
+
+III. Una vez recibida la solicitud de autorización de pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios, la autoridad Fiscal exigirá la garantía del interés fiscal en relación al 80% del monto total del adeudo al que se hace referencia en la fracción II del artículo 60 de este Código, más la cantidad que resulte de aplicar la tasa de recargos por prórroga por el plazo solicitado de acuerdo a lo dispuesto en las fracciones I y II de este artículo.
+
+IV. Se revocará la autorización para pagar a plazos en parcialidades o en forma diferida, cuando:
+
+a) No se otorgue, desaparezca o resulte insuficiente la garantía del interés fiscal, en los casos que no se hubiere dispensado, sin que el contribuyente dé nueva garantía o amplíe la que resulte insuficiente.
+
+b) El contribuyente se encuentre sometido a un procedimiento de concurso mercantil o sea declarado en quiebra.
+
+c) Tratándose del pago en parcialidades, el contribuyente no cumpla en tiempo y monto con tres parcialidades o, en su caso, con la última.
+
+d) Tratándose del pago diferido, se venza el plazo para realizar el pago y éste no se efectúe.
+
+En los supuestos señalados en los incisos anteriores, las autoridades fiscales requerirán y harán exigible el saldo mediante el procedimiento administrativo de ejecución.
+
+El saldo no cubierto en el pago a plazos se actualizará y causará recargos, de conformidad con lo establecido en los artículos 15-A de este Código y 5 de la Ley de Ingresos del Estado, desde la fecha en que se haya efectuado el último pago conforme a la autorización respectiva.
+
+V. Los pagos efectuados durante la vigencia de la autorización se deberán aplicar al periodo más antiguo, en el siguiente orden:
+
+a) Recargos por prórroga.
+
+b) Recargos por mora.
+
+c) Accesorios en el siguiente orden:
+
+1. Multas.
+
+2. Gastos extraordinarios.
+
+3. Gastos de ejecución.
+
+4. Recargos.
+
+5. Indemnización a que se refiere el séptimo párrafo del artículo 21 de este Código.
+
+d) Monto de las contribuciones omitidas, a las que hace referencia el inciso a) de la fracción II del artículo 60 de este Código.
+
+La autoridad fiscal podrá determinar y cobrar el saldo de las diferencias que resulten por la presentación de declaraciones, en las cuales, sin tener derecho al pago a plazos, los contribuyentes hagan uso en forma indebida de dicho pago a plazos, cuando no se presente la solicitud de autorización correspondiente ante la Administración Fiscal General, y cuando dicha solicitud no se presente con todos los requisitos a que se refiere el artículo 60 de este Código.
+
+Durante el periodo que el contribuyente se encuentre pagando a plazos en los términos de las fracciones I y II del presente artículo, las cantidades determinadas no serán objeto de actualización, debido a que la tasa de recargos por prórroga la incluye, salvo que el contribuyente se ubique en alguna causal de revocación, o cuando deje de pagar en tiempo y monto alguna de las parcialidades, supuestos en los cuales se causará ésta, de conformidad con lo previsto por el artículo 15-A de este Código, desde la fecha en que debió efectuar el último pago y hasta que éste se realice.
 
 ###### ARTICULO 61.
 
@@ -1617,23 +1711,27 @@ I. Para la señalada en la fracción I:
 
 a) Del 10% al 20% de las contribuciones omitidas, tratándose de declaraciones, por cada una de las obligaciones no declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre la misma se aplicará también la multa a que se refiere este inciso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-b) De 10 a 20 días de salario mínimo vigente en el Estado, por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento.
+b) De 10 a 20 veces el valor diario de la unidad de medida y actualización, por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento.
 
 c) Por el incumplimiento de los requerimientos o por su cumplimiento fuera de los plazos señalados en los mismos, respecto de una misma declaración, solicitud, aviso o constancia, además de las multas a que se refieren los incisos a) y b):
 
-1. De 1 a 5 días de salario mínimo vigente en el Estado, para el primer requerimiento;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-2. De 5 a 10 días de salario mínimo vigente en el Estado para el segundo requerimiento;
+1. De 2 a 7 veces el valor diario de la unidad de medida y actualización, para el primer requerimiento;
 
-3. De 10 a 15 (sic) de salario mínimo vigente en el Estado para el tercer requerimiento.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-> <small>(F. DE E., P.O. 4 DE FEBRERO DE 2014)</small>
+2. De 7 a 12 veces el valor diario de la unidad de medida y actualización para el segundo requerimiento;
 
-d) Tratándose de la presentación de declaraciones, solicitudes, avisos, constancias, manifestaciones o demás documentos incompletos, con errores o en una forma distinta a la señalada en las disposiciones fiscales, de 2 días de salario mínimo vigente en la entidad.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+3. De 12 a 18 veces el valor diario de la unidad de medida y actualización para el tercer requerimiento.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+d) Tratándose de la presentación de declaraciones, solicitudes, avisos, constancias, manifestaciones o demás documentos incompletos, con errores o en una forma distinta a la señalada en las disposiciones fiscales, de 3 veces el valor diario de la unidad de medida y actualización.
 
 II. Tratándose de la señalada en la fracción II, del 10% al 20% de las contribuciones no pagadas.
 
@@ -1645,9 +1743,11 @@ I. Oponerse a que se practique la visita en el domicilio fiscal. No suministrar 
 
 II. No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores les dejen en depósito.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 77.
 
-Se impondrá una multa de 15 a 30 días de salario mínimo vigente en la Entidad a quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo anterior.
+Se impondrá una multa de 20 a 30 veces el valor diario de la unidad de medida y actualización, a quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo anterior.
 
 ###### ARTICULO 78.
 
@@ -1667,15 +1767,25 @@ V. Expedir placas o documentos que autoricen la circulación de vehículos sin q
 
 A quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo anterior se impondrán las siguientes multas:
 
-I. 5 días de salario mínimo vigente en la Entidad o el 20% de las contribuciones no pagadas a la comprendida en la fracción I.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-II. De 5 a 10 días de salario mínimo vigente en la Entidad a la establecida en la fracción II.
+I. 6 veces el valor diario de la unidad de medida y actualización o el 20% de las contribuciones no pagadas a la comprendida en la fracción I.
 
-III. De 15 a 30 días de salario mínimo vigente en la Entidad a la establecida en la fracción III.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-IV. De 5 a 10 días de salario mínimo vigente en la Entidad a la establecida en la fracción IV.
+II. De 7 a 12 veces el valor diario de la unidad de medida y actualización a la establecida en la fracción II.
 
-V. De 10 a 20 días de salario mínimo vigente en la Entidad a la establecida en la fracción V.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+III. De 20 a 30 veces el valor diario de la unidad de medida y actualización a la establecida en la fracción III.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+IV. De 7 a 12 veces el valor diario de la unidad de medida y actualización a la establecida en la fracción IV.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+V. De 12 a 24 veces el valor diario de la unidad de medida y actualización a la establecida en la fracción V.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2914,3 +3024,19 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las personas que hayan obtenido una declaración de ausencia conforme a lo dispuesto en la Ley de Declaración de Ausencia de Personas Desaparecidas del Estado de Coahuila de Zaragoza, o una declaración especial de ausencia, conforme a lo previsto en la Ley de Declaración de Ausencia para personas Desaparecidas del Estado de Coahuila de Zaragoza, conservarán la protección de derechos en los términos de la sentencia, en concordancia con lo establecido en el régimen transitorio del Decreto 261, publicado el 28 de mayo de 2019 en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 526.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de dos mil veinte.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
