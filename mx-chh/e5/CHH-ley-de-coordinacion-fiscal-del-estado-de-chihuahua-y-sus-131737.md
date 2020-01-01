@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-coordinacion-fiscal-del-estado-de-chihuahua-y-sus-131737
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-24"
-last_updated: "2019-12-28"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2020.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 24 de noviembre de 2018.
 
@@ -429,11 +429,13 @@ IV. La reducción de la pobreza extrema.
 
 El Fondo para el Desarrollo Socioeconómico Municipal se determinará anualmente en el Presupuesto de Egresos del Estado y se enterará mensualmente en los doce meses del año por partes iguales a los municipios por conducto de la Secretaría de Hacienda.
 
-> <small>(ADICIONADO, P.O. 01 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### ARTÍCULO 38
 
-1. Se crea el Fondo Estatal de Seguridad Pública Municipal, con cargo a recursos estatales, mismos que serán determinados anualmente en el Presupuesto de Egresos del Estado. La Fiscalía General, a través del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, formulará a la Secretaría de Hacienda del Estado, una propuesta para la asignación de los recursos que lo integren.
+1. Se crea el Fondo Estatal de Seguridad Pública Municipal, con cargo a recursos estatales, mismos que serán determinados anualmente en el Presupuesto de Egresos del Estado. La Secretaría General de Gobierno, por conducto del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, formulará a la Secretaría de Hacienda del Estado, una propuesta para la asignación de los recursos que lo integren.
+
+> <small>(ADICIONADO, P.O. 01 DE DICIEMBRE DE 2018)</small>
 
 En el Presupuesto de Egresos del Estado, de cada ejercicio fiscal, se hará la distribución de los recursos estatales que integren este Fondo, entre los distintos Municipios que no sean beneficiarios de subsidios o recursos federales extraordinarios, destinados exclusivamente a la seguridad pública municipal.
 
@@ -451,7 +453,9 @@ En el Presupuesto de Egresos del Estado, de cada ejercicio fiscal, se hará la d
 
 La información relacionada con las fórmulas y variables utilizadas en el cálculo para la distribución y el resultado de su aplicación por cada Municipio, deberá publicarse en el Periódico Oficial del Estado en los términos del artículo 48 de esta Ley.
 
-La Fiscalía General, a través del Secretariado Ejecutivo, propondrá para su aprobación al Consejo Estatal de Seguridad Pública, las reglas de operación del Fondo Estatal de Seguridad Pública Municipal, debiendo publicarse en el Periódico Oficial del Estado en los términos del artículo 48 de esta Ley.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+
+La Secretaría General de Gobierno, a través del Secretariado Ejecutivo, propondrá para su aprobación al Consejo Estatal de Seguridad Pública, las reglas de operación del Fondo Estatal de Seguridad Pública Municipal, debiendo publicarse en el Periódico Oficial del Estado en los términos del artículo 48 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 01 DE DICIEMBRE DE 2018)</small>
 
@@ -459,15 +463,17 @@ La Fiscalía General, a través del Secretariado Ejecutivo, propondrá para su a
 
 4. A efecto de cumplir con el carácter subsidiario de este Fondo, los Municipios que sean considerados como beneficiarios deberán aportar de sus recursos presupuestarios el 35% (treinta y cinco por ciento) del total de los recursos estatales otorgados por este Fondo.
 
-Los acuerdos celebrados entre la Fiscalía General del Estado, el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y los Municipios, deberán firmarse en un término no mayor a noventa días naturales, contados a partir de la publicación del resultado de la aplicación de las fórmulas y variables mencionadas con anterioridad.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+
+Los acuerdos celebrados entre la Secretaría General de Gobierno, el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y los Municipios, deberán firmarse en un término no mayor a noventa días naturales, contados a partir de la publicación del resultado de la aplicación de las fórmulas y variables mencionadas con anterioridad.
 
 Este Fondo se enterará por la Secretaría de Hacienda a los Municipios, de manera ágil y directa.
 
-> <small>(ADICIONADO, P.O. 01 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### ARTÍCULO 38
 
-5. Los Municipios reportarán trimestralmente a la Secretaría de Hacienda y a la Fiscalía General del Estado, a través del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el ejercicio de los recursos del Fondo y el avance en el cumplimiento de las metas, así como las modificaciones o adecuaciones realizadas a las asignaciones previamente establecidas; en este último caso deberán incluirse la aprobación de las mismas.
+5. Los Municipios reportarán trimestralmente a la Secretaría de Hacienda y a la Secretaría General de Gobierno, a través del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el ejercicio de los recursos del Fondo y el avance en el cumplimiento de las metas, así como las modificaciones o adecuaciones realizadas a las asignaciones previamente establecidas; en este último caso deberá incluirse la aprobación de las mismas.
 
 > <small>(ADICIONADO, P.O. 01 DE DICIEMBRE DE 2018)</small>
 
@@ -628,3 +634,55 @@ P.O. 28 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día primero de enero del año dos mil veinte.
+
+P.O. 1 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/0641/2019 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO, LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA Y LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará (sic) al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las atribuciones y referencias que se hagan a la Fiscalía General del Estado, que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias otorgadas en este Decreto a la Secretaría de Seguridad Pública, se entenderán referidas a esa Secretaría.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Seguridad Pública conforme al mismo, continuarán su despacho por esta Secretaría, conforme a las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO CUARTO.
+
+A la entrada en vigor del presente Decreto, todos los recursos humanos, materiales y financieros que formen parte de la Comisión Estatal de Seguridad, así como de los órganos cuyas atribuciones sean competencia de la Secretaría de Seguridad Pública, se integrarán a la misma.
+
+Las y los servidores públicos adscritos a la Fiscalía General del Estado que pasen a formar parte de la Secretaría de Seguridad Pública en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo Estatal realizará las adecuaciones reglamentarias y administrativas necesarias a efecto de operar la Secretaría de Seguridad Pública, con las áreas previstas para su conformación.
+
+###### ARTÍCULO SEXTO.
+
+El Ejecutivo Estatal realizará las adecuaciones, reasignaciones y transferencias de las partidas presupuestales asignadas a la Fiscalía, a fines de seguridad pública y las correspondientes al desempeño de sus funciones y facultades.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Fiscalía General del Estado, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o moral, serán asumidos por la dependencia que corresponda conforme a las previsiones previstas en el presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las referencias hechas a la Comisión Estatal de Seguridad, se entenderán realizadas a la Secretaría de Seguridad Pública.
+
+###### ARTÍCULO OCTAVO.
+
+La Fiscalía General del Estado, la Secretaría de Seguridad Pública y la Secretaría General de Gobierno realizarán los trámites de entrega recepción que correspondan para transmitir los documentos, archivos u otros bienes relativos a las atribuciones reformadas mediante el presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Las autorizaciones efectuadas a la Fiscalía General del Estado en el Decreto No. LXVI/AUOBF/0397/2019 I P.O. publicado en el Periódico Oficial del Estado el 30 de octubre de 2019, se entenderán efectuadas a la Secretaría de Seguridad Pública a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Los estudios validados por el Instituto Estatal de Seguridad Pública, así como los Acuerdos de Reconocimiento de Validez Oficial de Estudios, continuarán su vigencia hasta en tanto se realicen las modificaciones ante la instancia correspondiente.
+
+###### ARTÍCULO UNDÉCIMO.
+
+En un plazo no mayor a seis meses, contados a partir de la entrada en vigor del presente Decreto, se elaborará la Ley Orgánica de la Secretaría de Seguridad Pública con la participación de la Comisión Primera de Gobernación y Puntos Constitucionales del H. Congreso del Estado y personas especialistas en la materia.
