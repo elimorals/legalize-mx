@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2019-11-09"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2020.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -193,7 +193,7 @@ III. Especializada en Atención a Mujeres Víctimas del Delito por Razones de G�
 
 IV. Especializada en Operaciones Estratégicas.
 
-V. Especializada en Ejecución de Penas y Medidas Judiciales.
+V. (DEROGADA, P.O. 1 DE ENERO DE 2020)
 
 VI. Especializada en Investigación de Violaciones a Derechos Humanos.
 
@@ -351,8 +351,6 @@ En casos extraordinarios o cuando exista duda de la competencia de alguna depend
 
 Cuando alguna dependencia necesite informes, datos o la cooperación técnica de cualquier otra, ésta tendrá la obligación de proporcionarlos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 24.
@@ -360,8 +358,6 @@ Cuando alguna dependencia necesite informes, datos o la cooperación técnica de
 Para el estudio, planeación y despacho de los asuntos del orden administrativo, el Poder Ejecutivo del Estado contará con las siguientes dependencias:
 
 I.- Secretaría General de Gobierno;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -380,8 +376,6 @@ V.- Secretaría de Salud;
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 VI. Secretaría de Educación y Deporte.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -405,8 +399,6 @@ XII. Secretaría de Desarrollo Municipal.
 
 XIII. Secretaría de la Función Pública.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XIV.- Fiscalía General del Estado.
@@ -418,6 +410,10 @@ XV. Coordinación Ejecutiva de Gabinete.
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 XVI. Comisión Estatal para los Pueblos Indígenas.
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
+
+XVII. Secretaría de Seguridad Pública.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -469,7 +465,9 @@ XI.- Tramitar los recursos administrativos que competa conocer y resolver a la p
 
 XII.- Representar a la persona titular del Poder Ejecutivo en cualquier procedimiento administrativo o contencioso, así como en cualquier medio de control constitucional, en que sea señalada como parte o tercero, con facultades amplias y necesarias para ejercer dicha representación, salvo que la misma sea asumida por la Consejería Jurídica.
 
-XIII.- (DEROGADA, P.O. 2 DE OCTUBRE DE 2004)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE ENERO DE 2020)</small>
+
+XIII. Coordinar y organizar al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
 
 XIV.- Tramitar las expropiaciones por causa de utilidad pública;
 
@@ -1313,41 +1311,59 @@ XXIX.- Coordinar la estrategia de digitalización de los trámites y servicios d
 
 XXX.- Las demás que le atribuyan expresamente las leyes, los reglamentos y demás disposiciones normativas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
 
-###### ARTICULO 35.
+###### ARTÍCULO 35.
 
-La Fiscalía General del Estado es la dependencia del Poder Ejecutivo del Estado encargada de las áreas de Seguridad Pública y Prevención del Delito; Investigación y Persecución del Delito; Atención a Víctimas del Delito y de Violaciones a los Derechos Humanos; Ejecución de Penas y Medidas Judiciales; Investigación de Violaciones a Derechos Humanos; Operaciones Estratégicas y Combate a la Corrupción. La Fiscalía se organizará en un sistema de regionalización y especialización de acuerdo a las siguientes atribuciones:
+La Fiscalía General del Estado es la Dependencia del Poder Ejecutivo del Estado encargada de las áreas de Investigación y Persecución del Delito; Atención a Víctimas del Delito y de Violaciones a los Derechos Humanos; Investigación de Violaciones a Derechos Humanos; Operaciones Estratégicas y Combate a la Corrupción; coadyuvante en materia de Seguridad Pública y Prevención.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL P.O. 1 DE ENERO DE 2020, PÁGINA 4]</small>
 
-A.- En materia de Seguridad Pública y Prevención del Delito:
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE ENERO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2013)</small>
+La Fiscalía se organizará en un sistema de regionalización y especialización de acuerdo con las siguientes atribuciones:
 
-I. Desarrollar las políticas de seguridad pública que establezca el titular del Poder Ejecutivo, y proponer la política criminal en el ámbito estatal, que comprende las normas, protocolos, instrumentos y acciones para prevenir, de manera eficaz, la comisión de delitos e infracciones; así como aquellas que tengan por objeto la búsqueda inmediata de mujeres, niñas y niños desaparecidos, utilizando los medios de comunicación a su alcance y, en su caso, estableciendo convenios con los sectores públicos y privados para darle la difusión debida.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE ENERO DE 2020)</small>
 
-II. Establecer un sistema integral de investigación, destinado a obtener, analizar, procesar e interpretar, técnica y científicamente, la información para la prevención de delitos e infracciones;
+A. Coadyuvar en materia de Seguridad Pública y Prevención del Delito:
 
-III. Implementar acciones tendientes a prevenir el comportamiento criminal;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+I. Participar, en el ámbito de su competencia, en el desarrollo de las políticas de seguridad pública que establezca el titular del Poder Ejecutivo y en la política criminal en el ámbito estatal, así como coadyuvar en la expedición de las normas, protocolos, instrumentos y acciones para prevenir de manera eficaz la comisión de delitos, así como aquellas que tengan por objeto la búsqueda inmediata de mujeres, niñas y niños desaparecidos y, en su caso, estableciendo convenios con los sectores públicos y privados para darle la difusión debida.
 
-IV. Formular al Ejecutivo Estatal las propuestas necesarias para la elaboración del Plan Estatal de Seguridad Pública;
+II. (DEROGADA, P.O. 1 DE ENERO DE 2020)
 
-V. Proponer al Ejecutivo del Estado las medidas que garanticen la congruencia de la política pública en materia de seguridad, prevención del delito y reinserción social de delincuentes entre las Direcciones de Seguridad Pública Municipal y/o comandancias de policía, en el ámbito de sus respectivas competencias;
+III. (DEROGADA, P.O. 1 DE ENERO DE 2020)
 
-VI. Representar al titular del Poder Ejecutivo en el Consejo Estatal de Seguridad Pública y en el Sistema Nacional de Seguridad Pública;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
 
-VII. Proponer, en el seno del Consejo Estatal de Seguridad Pública, los medios indispensables para la prevención de la criminalidad y la comisión de delitos e infracciones;
+IV. Coadyuvar, en el ámbito de su competencia, en la formulación de las propuestas necesarias para la elaboración del Plan Estatal de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+
+V. Proponer al Ejecutivo del Estado, en el ámbito de su competencia, las medidas que garanticen la congruencia de la política pública en materia de seguridad y prevención del delito;
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+
+VI. Representar al titular del Poder Ejecutivo, cuando este lo instruya, en el Consejo Estatal de Seguridad Pública y en el Consejo Nacional de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+
+VII. Participar y proponer en el Consejo Estatal de Seguridad Pública, los medios para la prevención e investigación de los delitos;
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
 VIII. Suministrar, intercambiar y sistematizar la información sobre seguridad pública, prevención, investigación y persecución del delito, imputados, procesados, sentenciados y reos a través del Centro Estatal de Información, Análisis y Estadística Criminal, con las demás autoridades estatales y municipales;
 
-IX. Fomentar a nivel estatal la participación ciudadana, en la formulación y desarrollo de programas de prevención;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+
+IX. Fomentar a nivel estatal la participación de la sociedad en la cultura de la denuncia, legalidad, cumplir con la difusión de pesquisas de personas desaparecidas, proponer los casos en los que proceda el otorgamiento de recompensas en la búsqueda o localización de personas;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 X. Elaborar y difundir los estudios e investigaciones criminológicos;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XI. Celebrar convenios de colaboración, en el ámbito de su competencia y en el marco del Sistema Estatal y Nacional de Seguridad Pública, con autoridades federales, estatales y municipales; y
 
@@ -1381,9 +1397,9 @@ VIII. Ejercer el mando sobre la Agencia Estatal de Investigación, en los térmi
 
 IX. Ejercitar las acciones legales en materia de Justicia para Adolescentes Infractores;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
 
-X. Organizar, dirigir y supervisar los Centros de Control, Comando, Comunicaciones y Cómputo, la Dirección de Servicios Periciales y Ciencias Forenses, el Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal y las demás Unidades Técnicas y Administrativas que establezcan las leyes y sus reglamentos;
+X. Organizar, dirigir y supervisar la Dirección de Servicios Periciales y Ciencias Forenses, el Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal y las demás Unidades Técnicas y Administrativas que establezcan las leyes y sus reglamentos;
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
@@ -1411,37 +1427,7 @@ III. (DEROGADA, P.O. 7 DE JUNIO DE 2017)
 
 IV. (DEROGADA, P.O. 7 DE JUNIO DE 2017)
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-D.- En materia de Ejecución de Penas y Medidas Judiciales:
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-I. Diseñar la política penitenciaria en los delitos del orden local;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-II. Desarrollar el procedimiento de ejecución de sanciones penales, así como organizar y dirigir los programas a liberados, sentenciados o procesados;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-III. Diseñar, coordinar, supervisar, organizar y administrar los programas de atención integral y de seguimiento requeridos para la ejecución de medidas de adolescentes infractores, en los términos de la legislación de la materia;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-IV. Vigilar el adecuado funcionamiento de las cárceles y establecimientos penitenciarios, así como el de los centros especializados de internamiento para adolescentes y demás instituciones similares;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-V. Participar, conforme a los convenios respectivos, en el traslado de los internos de los Centros de Reinserción Social en el Estado;
-
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-VI. Diseñar la política criminal para la aplicación de las medidas de seguridad a los imputables adultos que están sometidos a procedimiento especial, y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2017)</small>
-
-VII. Las demás que le atribuyan expresamente las leyes o reglamentos.
+D. (DEROGADO, P.O. 1 DE ENERO DE 2020)
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -1483,7 +1469,7 @@ I. Ejercer las atribuciones previstas en el apartado B de este artículo cuando 
 
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2018)</small>
 
-Se entenderán como hechos de corrupción aquellas conductas comprendidas en los tipos penales establecidos por el Código Penal del Estado, dentro del Título Décimo Séptimo denominado “Delitos contra el Servicio Público cometidos por Servidores Públicos”, y del Título Décimo Noveno llamado “Delitos en contra del Adecuado Desarrollo de la Justicia cometidos por Servidores Públicos”; así como cualquier otro delito conexo de competencia estatal, en cuya comisión hubiese intervenido como autor o partícipe alguna de las personas señaladas en el artículo 250 del Código Penal del Estado, siempre y cuando hubiera actuado en ejercicio o con motivo de su empleo, cargo o comisión;
+Se entenderán como hechos de corrupción aquellas conductas comprendidas en los tipos penales establecidos por el Código Penal del Estado, dentro del Título Décimo Séptimo denominado "Delitos contra el Servicio Público cometidos por Servidores Públicos", y del Título Décimo Noveno llamado "Delitos en contra del Adecuado Desarrollo de la Justicia cometidos por Servidores Públicos"; así como cualquier otro delito conexo de competencia estatal, en cuya comisión hubiese intervenido como autor o partícipe alguna de las personas señaladas en el artículo 250 del Código Penal del Estado, siempre y cuando hubiera actuado en ejercicio o con motivo de su empleo, cargo o comisión;
 
 II. Recibir denuncias anónimas y realizar las actuaciones necesarias para verificar la veracidad o no de hechos y evidencias para la detección de actos u omisiones que sean constitutivos de un delito relacionado con hechos de corrupción;
 
@@ -1596,6 +1582,70 @@ XVII. Apoyar los procesos de reconstitución del tejido social de los pueblos in
 XVIII. Publicar un informe anual sobre el desempeño de sus funciones, los avances e impacto de los programas y proyectos de las dependencias y entidades paraestatales de la administración pública estatal.
 
 XIX. Las demás que establezcan las leyes.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2020)</small>
+
+ARTICULO 35 QUINQUIES. La Secretaría de Seguridad Pública se integrará por las instituciones policiales conforme a la Ley del Sistema Estatal de Seguridad Pública, excepto las expresamente adscritas a autoridad distinta; la Comisión Estatal de Seguridad; los Centros de Control, Comando, Comunicaciones y Cómputo; la Fiscalía en Ejecución de Penas y Medidas Judiciales; y, el Centro Estatal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana. Lo anterior, además de las asignadas por la legislación aplicable.
+
+A la Secretaría de Seguridad Pública le corresponde el despacho de los siguientes asuntos:
+
+I. Atender los asuntos en materia de Seguridad Pública y Prevención del Delito.
+
+II. Desarrollar las políticas de seguridad pública que establezca la persona titular del Poder Ejecutivo.
+
+III. Encabezar la realización de operativos conjuntos de carácter preventivo, entre las dependencias encargadas de la seguridad pública municipal.
+
+IV. Proponer la política criminal en el ámbito Estatal, que comprende las normas, protocolos, instrumentos y acciones para prevenir, de manera eficaz, la comisión de delitos e infracciones.
+
+V. Realizar aquellas acciones que tengan por objeto la búsqueda inmediata de mujeres, niñas y niños desaparecidos, utilizando los medios de comunicación a su alcance y, en su caso, estableciendo convenios con los sectores públicos y privados para darle la difusión debida.
+
+VI. Establecer un sistema integral de investigación, destinado a obtener, analizar, procesar e interpretar, técnica y científicamente, la información para la prevención de delitos e infracciones; y compartirla de manera sistemática con las autoridades competentes para la debida coordinación y defensa de la seguridad pública en el Estado.
+
+VII. Organizar, dirigir y supervisar los Centros de Control, Comando, Comunicaciones y Cómputo.
+
+VIII. Implementar acciones tendientes a prevenir el comportamiento criminal.
+
+IX. Formular al Ejecutivo Estatal las propuestas necesarias para la elaboración del Plan Estatal de Seguridad Pública.
+
+X. Proponer al Ejecutivo del Estado las medidas que garanticen la congruencia de la política pública en materia de seguridad, prevención del delito y reinserción social de delincuentes entre las direcciones de seguridad pública municipal y/o comandancias de policía, en el ámbito de sus respectivas competencias.
+
+XI. Representar a la persona titular del Poder Ejecutivo en el Consejo Estatal de Seguridad Pública y en el Sistema Nacional de Seguridad Pública.
+
+XII. Proponer, en el seno del Consejo Estatal de Seguridad Pública, los medios indispensables para la prevención de la criminalidad y la comisión de delitos e infracciones.
+
+XIII. Suministrar, intercambiar y sistematizar la información sobre seguridad pública y prevención, procesados, sentenciados y reos, en conjunto con la Fiscalía General del Estado y demás autoridades estatales y municipales en la materia, conforme a los lineamientos que al efecto se expidan.
+
+XIV. Fomentar a nivel Estatal la participación ciudadana, en la formulación y desarrollo de programas de prevención.
+
+XV. Elaborar y difundir los estudios e investigaciones criminológicos.
+
+XVI. Celebrar convenios de colaboración, en el ámbito de su competencia y en el marco del Sistema Estatal y Nacional de Seguridad Pública, con autoridades federales, estatales y municipales.
+
+XVII. Prestar, de forma excepcional, servicios regidos por el Derecho Privado para proporcionar, en el ámbito de su competencia, la prestación de servicios de estudios y análisis de evaluación de riesgos; de protección, custodia y vigilancia de personas, bienes y valores; seguridad en inmuebles; a dependencias, entidades y órganos públicos así como a personas físicas y morales que por alguna circunstancia lo requieran de manera temporal, o que produzcan bienes y servicios que contribuyan a la generación de empleos y recursos económicos para el Estado, sin afectar el estado de fuerza requerido para la seguridad pública.
+
+XVIII. Diseñar la política penitenciaria en los delitos del orden local.
+
+XIX. Desarrollar el procedimiento de ejecución de sanciones penales, así como organizar y dirigir los programas a liberados, sentenciados o procesados.
+
+XX. Diseñar, coordinar, supervisar, organizar y administrar los programas de atención integral y de seguimiento requeridos para la ejecución de medidas de adolescentes infractores, en los términos de la legislación de la materia.
+
+XXI. Vigilar el adecuado funcionamiento de los establecimientos penitenciarios, así como el de los centros especializados de internamiento para adolescentes y demás instituciones similares.
+
+XXII. Participar, conforme a los convenios respectivos, en el traslado de las personas internas de los Centros de Reinserción Social en el Estado.
+
+XXIII. Diseñar la política criminal para la aplicación de las medidas de seguridad a las personas imputables adultas que están sometidas a procedimiento especial.
+
+XXIV. Dirigir y vigilar el cumplimiento de las leyes y reglamentos en materia del tránsito de vehículos y personas peatonas en el uso de las vías públicas.
+
+XXV. Regular, controlar y supervisar la prestación de los servicios de seguridad privada, de conformidad con la ley de la materia.
+
+XXVI. Dar seguimiento a las personas sentenciadas que gozan de libertad condicionada.
+
+XXVII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales, de que tenga conocimiento con motivo de sus funciones; así como atender las solicitudes de apoyo y auxilio que realicen las áreas competentes, en el ejercicio de sus facultades.
+
+XXVIII. Generar los insumos tangibles e intangibles necesarios para la profesionalización de los cuerpos de seguridad pública.
+
+XXIX. Las demás que le atribuyan expresamente las leyes o reglamentos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
@@ -2952,3 +3002,55 @@ TERCERO.- Las Dependencias cuyas funciones se modifican en virtud del presente D
 CUARTO.- Las menciones contenidas en otras disposiciones legales, respecto de las Dependencias cuyas funciones, atribuciones, derechos u obligaciones se reforman en virtud del presente Decreto, se entenderán referidas a aquellas que reciben según las transferencias respectivas.
 
 QUINTO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por la Dependencia que resulte competente en virtud de este, hasta que se den las transferencias necesarias.
+
+P.O. 1 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/RFLEY/0641/2019 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO, LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA Y LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará (sic) al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las atribuciones y referencias que se hagan a la Fiscalía General del Estado, que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias otorgadas en este Decreto a la Secretaría de Seguridad Pública, se entenderán referidas a esa Secretaría.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Seguridad Pública conforme al mismo, continuarán su despacho por esta Secretaría, conforme a las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO CUARTO.
+
+A la entrada en vigor del presente Decreto, todos los recursos humanos, materiales y financieros que formen parte de la Comisión Estatal de Seguridad, así como de los órganos cuyas atribuciones sean competencia de la Secretaría de Seguridad Pública, se integrarán a la misma.
+
+Las y los servidores públicos adscritos a la Fiscalía General del Estado que pasen a formar parte de la Secretaría de Seguridad Pública en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo Estatal realizará las adecuaciones reglamentarias y administrativas necesarias a efecto de operar la Secretaría de Seguridad Pública, con las áreas previstas para su conformación.
+
+###### ARTÍCULO SEXTO.
+
+El Ejecutivo Estatal realizará las adecuaciones, reasignaciones y transferencias de las partidas presupuestales asignadas a la Fiscalía, a fines de seguridad pública y las correspondientes al desempeño de sus funciones y facultades.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Fiscalía General del Estado, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o moral, serán asumidos por la dependencia que corresponda conforme a las previsiones previstas en el presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las referencias hechas a la Comisión Estatal de Seguridad, se entenderán realizadas a la Secretaría de Seguridad Pública.
+
+###### ARTÍCULO OCTAVO.
+
+La Fiscalía General del Estado, la Secretaría de Seguridad Pública y la Secretaría General de Gobierno realizarán los trámites de entrega recepción que correspondan para transmitir los documentos, archivos u otros bienes relativos a las atribuciones reformadas mediante el presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Las autorizaciones efectuadas a la Fiscalía General del Estado en el Decreto No. LXVI/AUOBF/0397/2019 I P.O. publicado en el Periódico Oficial del Estado el 30 de octubre de 2019, se entenderán efectuadas a la Secretaría de Seguridad Pública a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Los estudios validados por el Instituto Estatal de Seguridad Pública, así como los Acuerdos de Reconocimiento de Validez Oficial de Estudios, continuarán su vigencia hasta en tanto se realicen las modificaciones ante la instancia correspondiente.
+
+###### ARTÍCULO UNDÉCIMO.
+
+En un plazo no mayor a seis meses, contados a partir de la entrada en vigor del presente Decreto, se elaborará la Ley Orgánica de la Secretaría de Seguridad Pública con la participación de la Comisión Primera de Gobernación y Puntos Constitucionales del H. Congreso del Estado y personas especialistas en la materia.
