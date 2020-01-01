@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2019-06-26"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2020.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -47,47 +47,23 @@ Se expide la Ley Orgánica de la Fiscalía General del Estado de Chihuahua, para
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### Artículo 1.
 
-La Fiscalía General del Estado es la Dependencia del Poder Ejecutivo del Estado encargada de las áreas: Seguridad Pública y Prevención del Delito; Investigación y Persecución del Delito; Atención a Víctimas del Delito y de Violaciones a los Derechos Humanos; de Ejecución de Penas y Medidas Judiciales; Investigación de Violaciones a Derechos Humanos; Operaciones Estratégicas; Combate a la Corrupción, y Desaparición Forzada de Personas.
+La Fiscalía General del Estado es la dependencia del Poder Ejecutivo del Estado encargada de las áreas de: Investigación y Persecución del Delito, incluyendo la Agencia Estatal de Investigación; Atención a Víctimas del Delito y de Violaciones a los Derechos Humanos; Investigación de Violaciones a Derechos Humanos; Operaciones Estratégicas; Combate a la Corrupción, y Desaparición Forzada de Personas; coadyuvante en materia de Seguridad Pública y Prevención.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL ANEXO DEL P.O. DE 1 DE ENERO DE 2020, PÁGINA 31.]</small>
+
+La Fiscalía se organizará en un sistema de regionalización y especialización.
 
 ###### Artículo 2.
 
 La Fiscalía General del Estado tiene las siguientes atribuciones:
 
-A.- En materia de Seguridad Pública y Prevención del Delito:
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2013)</small>
-
-I. Desarrollar las políticas de seguridad pública que establezca el titular del Poder Ejecutivo, y proponer la política criminal en el ámbito estatal, que comprende las normas, protocolos, instrumentos y acciones para prevenir, de manera eficaz, la comisión de delitos e infracciones; así como aquellas que tengan por objeto la búsqueda inmediata de mujeres, niñas y niños desaparecidos, utilizando los medios de comunicación a su alcance y, en su caso, estableciendo convenios con los sectores públicos y privados para darle la difusión debida.
-
-II. Establecer un sistema integral de investigación, destinado a obtener, analizar, procesar e interpretar, técnica y científicamente, la información para la prevención de delitos e infracciones;
-
-III. Implementar acciones tendientes a prevenir el comportamiento criminal;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-IV. Formular al Ejecutivo Estatal las propuestas necesarias para la elaboración del Plan Estatal de Seguridad Pública;
-
-V. Proponer al Ejecutivo del Estado las medidas que garanticen la congruencia de la política pública en materia de seguridad, prevención del delito y reinserción social de los delincuentes entre las Direcciones de Seguridad Pública Municipal y/o comandancias de policía, en el ámbito de sus respectivas competencias;
-
-VI. Representar al titular del Poder Ejecutivo en el Consejo Estatal de Seguridad Pública y en el Sistema Nacional de Seguridad Pública;
-
-VII. Proponer, en el seno del Consejo Estatal de Seguridad Pública, los medios indispensables para la prevención de la criminalidad y la comisión de delitos e infracciones;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-VIII. Suministrar, intercambiar y sistematizar la información sobre seguridad pública, prevención, investigación y persecución del delito, imputados, procesados, sentenciados y reos a través del Centro Estatal de Información, Análisis y Estadística Criminal, con las demás autoridades estatales y municipales;
-
-IX. Fomentar a nivel estatal la participación ciudadana, en la formulación y desarrollo de programas de prevención;
-
-X. Elaborar y difundir los estudios e investigaciones criminológicos;
-
-XI. Celebrar convenios de colaboración, en el ámbito de su competencia y en el marco del Sistema Estatal y Nacional de Seguridad Pública, con autoridades federales, estatales y municipales, y
-
-XII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2017)
+A. Coadyuvar en materia de Seguridad Pública y Prevención del Delito, con las atribuciones previstas en el apartado A del artículo 35 de la Ley Orgánica del Poder Ejecutivo del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -119,9 +95,9 @@ VIII. Ejercer el mando sobre la Agencia Estatal de Investigación, en los térmi
 
 IX. Ejercitar las acciones legales en materia de Justicia para Adolescentes Infractores;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
 
-X. Organizar, dirigir y supervisar los Centros de Control, Comando, Comunicaciones y Cómputo, la Dirección de Servicios Periciales y Ciencias Forenses, el Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal y las demás Unidades Técnicas y Administrativas que establezcan las leyes y sus reglamentos;
+X. Organizar, dirigir y supervisar la Dirección de Servicios Periciales y Ciencias Forenses, el Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal y las demás Unidades Técnicas y Administrativas que establezcan las leyes y sus reglamentos;
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
@@ -145,35 +121,7 @@ III. (DEROGADA, P.O. 27 DE FEBRERO DE 2016)
 
 IV. (DEROGADA, P.O. 27 DE FEBRERO DE 2016)
 
-D.- En materia de Ejecución de Penas y Medidas Judiciales:
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-I. Diseñar la política penitenciaria en los delitos del orden local;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-II. Desarrollar el procedimiento de ejecución de sanciones penales, así como organizar y dirigir los programas a liberados, sentenciados o procesados;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-III. Diseñar, coordinar, supervisar, organizar y administrar los programas de atención integral y de seguimiento requeridos para la ejecución de medidas de adolescentes infractores, en los términos de la legislación de la materia;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-IV. Vigilar el adecuado funcionamiento de las cárceles y establecimientos penitenciarios, así como el de los centros especializados de internamiento para adolescentes y demás instituciones similares;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-V. Participar, conforme a los convenios respectivos, en el traslado de los internos de los Centros de Reinserción Social en el Estado;
-
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-VI. Diseñar la política criminal para la aplicación de las medidas de seguridad a los imputables adultos que están sometidos a procedimiento especial, y
-
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-VII. Las demás que le atribuyan expresamente las leyes o reglamentos.
+D. (DEROGADO, P.O. 1 DE ENERO DE 2020)
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -261,9 +209,7 @@ III. La Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por 
 
 IV. La Fiscalía Especializada en Operaciones Estratégicas;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-V. La Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales;
+V. (DEROGADA, P.O. 1 DE ENERO DE 2020)
 
 > <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
 
@@ -281,9 +227,9 @@ VIII. Los Agentes del Ministerio Público, y
 
 IX. La Agencia Estatal de Investigación.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
-El Fiscal General del Estado y los Fiscales Especializados en Atención a Mujeres Víctimas del Delito por Razones de Género; en Control, Análisis y Evaluación; en Ejecución de Penas y Medidas Judiciales; en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada; en Operaciones Estratégicas; y en Combate a la Corrupción, así como los Fiscales de Distrito por Zonas, intervendrán como representantes del Ministerio Público, de acuerdo con las facultades otorgadas por la ley y las expresamente conferidas por el Fiscal General del Estado.
+El Fiscal General del Estado y los Fiscales Especializados en Atención a Mujeres Víctimas del Delito por Razones de Género; en Control, Análisis y Evaluación; en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada; en Operaciones Estratégicas; y en Combate a la Corrupción, así como los Fiscales de Distrito por Zonas, intervendrán como representantes del Ministerio Público, de acuerdo con las facultades otorgadas por la ley y las expresamente conferidas por autoridad competente.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -297,7 +243,7 @@ II. El Centro Estatal de Información, Análisis y Estadística Criminal;
 
 III. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2017)
 
-IV. La Dirección del Centro Estatal de Prevención Social de la Violencia y la Delincuencia, con Participación Ciudadana; y
+IV. (DEROGADA, P.O. 1 DE ENERO DE 2020)
 
 V. Las demás unidades orgánicas y administrativas que establezcan las leyes y reglamentos.
 
@@ -337,9 +283,9 @@ Las anteriores unidades ejercerán sus atribuciones y desarrollarán sus activid
 
 La Fiscalía General del Estado contará con los siguientes órganos administrativos desconcentrados:
 
-I. La Comisión Estatal de Seguridad;
+I. (DEROGADA, P.O. 1 DE ENERO DE 2020)
 
-II. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+II. (DEROGADA, P.O. 1 DE ENERO DE 2020)
 
 III. La Comisión Ejecutiva de Atención a Víctimas; y
 
@@ -371,11 +317,13 @@ IV. Zona Occidente, con sede en ciudad Cuauhtémoc, y comprende los Distritos Ju
 
 V. Zona Noroeste, con sede en la ciudad de Nuevo Casas Grandes, y comprende el Distrito Judicial Galeana y los Municipios de Madera y Gómez Farías.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### Artículo 5 Bis.
 
-En la investigación de los delitos o en el ejercicio de la acción penal, son auxiliares del Ministerio Público las corporaciones de seguridad pública de los municipios, así como las corporaciones de seguridad privada.
+En la investigación de los delitos o en el ejercicio de la acción penal, son auxiliares del Ministerio Público las corporaciones de seguridad pública del Estado y de los municipios, así como las corporaciones de seguridad privada.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 Todas las autoridades del Estado y de los Municipios, están obligadas a prestar colaboración inmediata y a proporcionar los datos que les requieran los representantes del Ministerio Público, en ejercicio de sus funciones. Si no se trata de información confidencial, en los términos de la Ley, les facilitarán acceso a libros, documentos y registros, y si les solicitan informes por escrito, deberán atender la petición en un término no mayor de setenta y dos horas.
 
@@ -407,7 +355,9 @@ I. Ejercer por sí, o por conducto de las Fiscalías Especializadas, Fiscalías 
 
 II. Proponer al Ejecutivo del Estado los proyectos de reglamentos, decretos, acuerdos, convenios, protocolos, instrumentos y acciones relativas a los asuntos de la competencia de la Fiscalía General;
 
-III. Proponer al Ejecutivo anteproyectos de leyes relacionados con la Seguridad Pública, la prevención, investigación y persecución del delito, y la reinserción social de los delincuentes;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+
+III. Proponer al Ejecutivo anteproyectos de leyes relacionados con la prevención, investigación y persecución del delito.
 
 IV. Ejercer la disciplina y la administración de todo el personal de la Fiscalía General;
 
@@ -455,11 +405,11 @@ I. Vigilar el manejo eficiente y eficaz de los recursos humanos y materiales, as
 
 II. Organizar, dirigir y supervisar el Instituto Estatal de Seguridad Pública, el Centro Estatal de Evaluación y Control de Confianza y el Centro de Atención Integral de la Salud;
 
-III. Aplicar, por conducto de los Órganos e instancias correspondientes, los mecanismos legales para el Ingreso, Promoción, Permanencia, Responsabilidades y Estímulos de los Integrantes de las Instituciones de Seguridad Pública del Estado.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+III. Aplicar, por conducto de los Órganos e instancias correspondientes, los mecanismos legales para el Ingreso, Promoción, Permanencia, Responsabilidades y Estímulos de los Ministerios Públicos, Analistas, Agentes Investigadores y Peritos.
 
-IV. Dar seguimiento a las personas sentenciadas que gozan de libertad condicionada y las demás que le confieran las disposiciones legales aplicables. Para el mejor cumplimiento de lo anterior, el Instituto de Servicios Previos al Juicio dependiente del Tribunal Superior de Justicia del Estado, deberá compartir la información que tenga sobre las personas que gozaban de una medida cautelar distinta a la prisión preventiva y que se encuentran en el supuesto de personas sentenciadas que obtienen libertad condicionada.
+IV. (DEROGADA, P.O. 1 DE ENERO DE 2020)
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -483,7 +433,9 @@ Las unidades orgánicas anteriores desarrollarán sus atribuciones de conformida
 
 Adicionalmente, la Fiscalía Especializada en Control, Análisis y Evaluación, tendrá las siguientes atribuciones:
 
-I. Participar en los procesos para el Ingreso, Promoción, Permanencia, Responsabilidades, Ascensos, así como Estímulos de los Integrantes de las Instituciones de Seguridad Pública del Estado, en los términos de las disposiciones legales y demás normatividad aplicables;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+
+I. Participar en los procesos para el Ingreso, Promoción, Permanencia, Responsabilidades, Ascensos, así como Estímulos de los Ministerios Públicos, Analistas, Peritos y Agentes Investigadores, en los términos de las disposiciones legales y demás normatividad aplicables;
 
 II. Ejercer una vigilancia en el manejo eficiente y eficaz de los recursos humanos y materiales, así como para la mejora continua de la Fiscalía General;
 
@@ -555,17 +507,9 @@ La Comisión Ejecutiva de Atención a Víctimas desarrollará las funciones desc
 
 La Comisión Ejecutiva de Atención a Víctimas podrá contar con establecimientos de albergues, refugios y casas de medio camino especializados para las víctimas, ofendidos y testigos, en los términos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, donde se garantice un alojamiento digno por el tiempo necesario, asistencia material, médica, psiquiátrica, psicológica, social, alimentación y cuidados, atendiendo a sus necesidades y a su evolución.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
-
 ###### Artículo 10.
 
-La Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales ejercerá las atribuciones contenidas en el apartado D del artículo 2 de esta Ley y demás disposiciones aplicables, estará a cargo de un Fiscal Especializado, quien se auxiliará de las siguientes unidades:
-
-I. Dirección de Ejecución de Penas y Medidas Judiciales.
-
-II. Dirección de los Centros de Reinserción Social.
-
-III. Dirección de Reinserción Social.
+(DEROGADO, P.O. 1 DE ENERO DE 2020)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2018)</small>
 
@@ -773,7 +717,9 @@ II. Cinco Coordinaciones Regionales en los términos del artículo 5 de esta Ley
 
 III. Un Coordinador para todas las Fiscalías Especializadas que tengan funciones de Investigación y Persecución del delito, distintas a las de Zona;
 
-IV. Un Coordinador de Seguridad, Custodia Penitenciaria y uno de Vigilancia de Audiencias Judiciales;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+
+IV. Un Coordinador de Vigilancia de Audiencias Judiciales.
 
 V. Subcoordinadores Regionales de conformidad a la disponibilidad presupuestal;
 
@@ -783,39 +729,17 @@ VII. Los agentes de investigación adscritos a las unidades de investigación.
 
 En el ejercicio de sus funciones recibirá las órdenes de investigación de los delitos directamente de los Fiscales Especializados o de los Fiscales de Distrito por Zonas, Coordinadores de las Unidades de Investigación y los agentes del Ministerio Público de que se trate, de conformidad con la legislación procesal penal, la Ley del Sistema Estatal de Seguridad Pública y demás disposiciones aplicables.
 
-El Coordinador de Seguridad, Custodia Penitenciaria y el de Vigilancia de Audiencias Judiciales y las unidades orgánicas que dependan de él, estarán para el debido cumplimiento de las atribuciones que señalen las disposiciones correspondientes, bajo las órdenes del Titular de la Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+
+El Coordinador de Vigilancia de Audiencias Judiciales y las unidades orgánicas que dependan de él, estarán para el debido cumplimiento de las atribuciones que señalen las disposiciones correspondientes.
 
 El mando previsto en la fracción I tendrá la jerarquía de Comisario Jefe, los descritos en las fracciones de la II a la IV tendrán la Jerarquía de Comisario, el descrito en la fracción V asumirá la Jerarquía de Inspector Jefe, los de la fracción VI obtendrán la Jerarquía de Inspector, los de la fracción VII que tengan el nombramiento como agentes "A", tendrán la Jerarquía de Oficial y los agentes "B" de Suboficial de conformidad con lo dispuesto en los artículos 152, 153 y 157, todos ellos de la Ley del Sistema Estatal de Seguridad Pública.
 
 Las Jerarquías de las fracciones I, II y III, V y VI serán de libre designación por parte del Fiscal General del Estado y su asignación solo podrá recaer en elementos de seguridad pública que tengan el nombramiento de Oficial conforme al párrafo anterior, por lo que al término de su gestión o encargo, volverán al grado de Oficial. Las jerarquías de Oficial y Suboficial forman parte del Servicio Profesional de Carrera. Para la designación de la jerarquía descrita en la fracción IV se atenderán las disposiciones señaladas en el artículo 157 de la Ley del Sistema Estatal de Seguridad Púbica (sic).
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2018)</small>
-
 ###### Artículo 15.
 
-La Comisión Estatal de Seguridad es el órgano administrativo desconcentrado de la Fiscalía General del Estado que estará a cargo de un Comisionado Estatal, propuesto por el Fiscal General y nombrado por el Gobernador del Estado, dotado de autonomía técnica y de gestión, encargada de:
-
-A. Ejercer la función de seguridad pública, auxiliándose para tales efectos de las siguientes unidades:
-
-I. División de Fuerzas Estatales.
-
-II. División de Operaciones Especiales.
-
-III. División de Inteligencia.
-
-IV. División de Policía Vial.
-
-V. División de Operaciones Rurales.
-
-VI. División de Seguridad Bancaria, Comercial e Industrial.
-
-VII. Las demás que determinen las leyes y reglamentos.
-
-B. Ejercer, de forma excepcional, funciones de derecho privado, a través de la División de Seguridad Bancaria, Comercial e Industrial, como órgano encargado de proporcionar, en el ámbito de su competencia, la prestación de servicios de estudios y análisis de evaluación de riesgos; de protección, custodia y vigilancia de personas; seguridad en el interior y exterior de inmuebles; custodia de bienes y valores fijos y en tránsito; a dependencias, entidades y órganos de los Poderes Ejecutivo, Legislativo y Judicial, locales y federales, órganos autónomos federales y locales, así como a personas físicas y morales que produzcan bienes y servicios que contribuyan a la generación de empleos y recursos económicos para el Estado.
-
-La organización, funcionamiento, atribuciones y demás acciones inherentes a esta División se establecerán en el reglamento respectivo.
-
-La Comisión Estatal de Seguridad contará con un Director General Operativo que asumirá la jerarquía de Comisario General, y en cada División de las señaladas en este artículo habrá un Director que tendrá la jerarquía de Comisario Jefe; todos los Directores serán designados por el Fiscal General y nombrados por el Gobernador del Estado.
+(DEROGADO, P.O. 1 DE ENERO DE 2020)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2019)</small>
 
@@ -827,11 +751,9 @@ La Dirección de Servicios Periciales y Ciencias Forenses es la unidad técnica 
 
 La prestación de servicios por parte de la Dirección de Servicios Periciales y Ciencias Forenses solicitados por funcionarios u órganos del Estado distintos del Ministerio Público, así como por personas físicas o morales de derecho privado, se sujetará a la tarifa para el cobro de derechos contenida en la Ley de Ingresos para el ejercicio fiscal correspondiente.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
-
 ###### Artículo 15 Ter.
 
-La Dirección del Centro Estatal de Prevención Social de la Violencia y la Delincuencia, con Participación Ciudadana, es la unidad sustantiva de la Fiscalía General del Estado que tiene a su cargo el área de Prevención del Delito, con las atribuciones señaladas en el apartado A del artículo 2 de la presente Ley y las descritas en otros dispositivos legales, para lo cual se apoyará de las Unidades Orgánicas que señalen las disposiciones aplicables.
+(DEROGADO, P.O. 1 DE ENERO DE 2020)
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -845,15 +767,13 @@ II. La Dirección de Integración y Evaluación de Información Delictiva.
 
 III. La Dirección de Análisis de Evidencia Digital e Informática Forense.
 
-IV. La Dirección de la Coordinación del Centro de Control, Comando, Comunicaciones y Cómputo.
+IV. (DEROGADA, P.O. 1 DE ENERO DE 2020)
 
 La información generada por el Sistema Estatal de Seguridad Pública es confidencial y reservada, por lo que solo será suministrada a las Instituciones de Seguridad Pública en los términos de las disposiciones aplicables.
 
 Artículo 15 Quintus. (DEROGADO, P.O. 30 DE DICIEMBRE DE 2017)
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
-
-Artículo 15 Sextus. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública es un órgano administrativo desconcentrado de la Fiscalía General del Estado, dotado de autonomía técnica y de gestión, con las atribuciones descritas en la Ley del Sistema Estatal de Seguridad Pública y demás disposiciones aplicables, para cuyos efectos contará con la Dirección de Planeación, Control de Recursos y Programas Federales.
+Artículo 15 Sextus. (DEROGADO, P.O. 1 DE ENERO DE 2020)
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 18 DE JUNIO DE 2016)</small>
 
@@ -973,31 +893,31 @@ III. Las de los agentes del Ministerio Público, por quien designe el Fiscal Esp
 
 IV. Los Coordinadores de la Agencia Estatal de Investigación, los Directores Generales y de los titulares de los órganos administrativos desconcentrados, por quien designe el Fiscal General.
 
-V. Las del Titular de la Comisión Estatal de Seguridad, por su Director General Operativo.
+V. (DEROGADA, P.O. 1 DE ENERO DE 2020)
 
 VI. Las de los jefes de departamento y oficina, por quien designe su superior jerárquico.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### Artículo 23.
 
-Los integrantes de las Instituciones de Seguridad Pública del Estado, se regirán por lo dispuesto en la presente Ley, en lo previsto en la Ley del Sistema Estatal de Seguridad Pública y por los Reglamentos respectivos.
+Los integrantes de la Fiscalía General del Estado se regirán por lo dispuesto en la presente Ley, en lo previsto en la Ley del Sistema Estatal de Seguridad Pública y por los Reglamentos respectivos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE OCTUBRE DE 2013)</small>
 
 ### CAPÍTULO VI. De los procedimientos
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### Artículo 24.
 
-Los estímulos, promoción y ascensos de los Integrantes de las Instituciones de Seguridad Pública se otorgarán por las instancias y conforme a los procedimientos, requisitos y formalidades previstos en la Ley del Sistema Estatal de Seguridad Pública.
+Los estímulos, promoción y ascensos de las y los Ministerios Públicos, Analistas, Peritos y Agentes Investigadores, se otorgarán por las instancias y conforme a los procedimientos, requisitos y formalidades previstos en la Ley del Sistema Estatal de Seguridad Pública.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### Artículo 25.
 
-Las faltas, sanciones y en general todo lo relativo al régimen disciplinario de los Integrantes de las Instituciones de Seguridad Pública, se determinará de acuerdo a las disposiciones, por los órganos y conforme al procedimiento administrativo previstos en la Ley del Sistema Estatal de Seguridad Pública.
+Las faltas, sanciones y en general todo lo relativo al régimen disciplinario de las y los Ministerios Públicos, Analistas, Peritos y Agentes Investigadores, se determinará de acuerdo a las disposiciones en la materia, por los órganos y conforme al procedimiento administrativo previstos en la Ley del Sistema Estatal de Seguridad Pública.
 
 ###### Artículo 26.
 
@@ -1098,8 +1018,6 @@ El Fondo Auxiliar para la Procuración de Justicia y Seguridad Pública, depende
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
 
 El Fiscal General del Estado deberá informar semestralmente a la Auditoría Superior del Estado sobre las actividades desarrolladas con cargo al Fondo Auxiliar.
-
-(ADICIONADO, P.O. 18 DE JUNIO DE 2016) (REPUBLICADO, P.O. 26 DE JUNIO DE 2019)
 
 ###### Artículo 38.
 
@@ -1780,3 +1698,55 @@ Si las atribuciones de seguridad pública y prevención del delito dejan de ser 
 Los recursos seguirán siendo captados, pero su administración estará a cargo de la entidad que asuma las atribuciones de seguridad pública y prevención del delito, debiendo informar semestralmente a la Auditoría Superior del Estado sobre las actividades desarrolladas con cargo al recurso, hasta en tanto se emita el decreto que disponga lo conducente.
 
 Estos recursos se destinarán para los fines establecidos en el artículo 38 de la referida Ley, pero en materia de Seguridad Pública.
+
+P.O. 1 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/RFLEY/0641/2019 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO, LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA Y LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará (sic) al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las atribuciones y referencias que se hagan a la Fiscalía General del Estado, que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias otorgadas en este Decreto a la Secretaría de Seguridad Pública, se entenderán referidas a esa Secretaría.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Seguridad Pública conforme al mismo, continuarán su despacho por esta Secretaría, conforme a las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO CUARTO.
+
+A la entrada en vigor del presente Decreto, todos los recursos humanos, materiales y financieros que formen parte de la Comisión Estatal de Seguridad, así como de los órganos cuyas atribuciones sean competencia de la Secretaría de Seguridad Pública, se integrarán a la misma.
+
+Las y los servidores públicos adscritos a la Fiscalía General del Estado que pasen a formar parte de la Secretaría de Seguridad Pública en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo Estatal realizará las adecuaciones reglamentarias y administrativas necesarias a efecto de operar la Secretaría de Seguridad Pública, con las áreas previstas para su conformación.
+
+###### ARTÍCULO SEXTO.
+
+El Ejecutivo Estatal realizará las adecuaciones, reasignaciones y transferencias de las partidas presupuestales asignadas a la Fiscalía, a fines de seguridad pública y las correspondientes al desempeño de sus funciones y facultades.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Fiscalía General del Estado, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o moral, serán asumidos por la dependencia que corresponda conforme a las previsiones previstas en el presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las referencias hechas a la Comisión Estatal de Seguridad, se entenderán realizadas a la Secretaría de Seguridad Pública.
+
+###### ARTÍCULO OCTAVO.
+
+La Fiscalía General del Estado, la Secretaría de Seguridad Pública y la Secretaría General de Gobierno realizarán los trámites de entrega recepción que correspondan para transmitir los documentos, archivos u otros bienes relativos a las atribuciones reformadas mediante el presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Las autorizaciones efectuadas a la Fiscalía General del Estado en el Decreto No. LXVI/AUOBF/0397/2019 I P.O. publicado en el Periódico Oficial del Estado el 30 de octubre de 2019, se entenderán efectuadas a la Secretaría de Seguridad Pública a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Los estudios validados por el Instituto Estatal de Seguridad Pública, así como los Acuerdos de Reconocimiento de Validez Oficial de Estudios, continuarán su vigencia hasta en tanto se realicen las modificaciones ante la instancia correspondiente.
+
+###### ARTÍCULO UNDÉCIMO.
+
+En un plazo no mayor a seis meses, contados a partir de la entrada en vigor del presente Decreto, se elaborará la Ley Orgánica de la Secretaría de Seguridad Pública con la participación de la Comisión Primera de Gobernación y Puntos Constitucionales del H. Congreso del Estado y personas especialistas en la materia.
