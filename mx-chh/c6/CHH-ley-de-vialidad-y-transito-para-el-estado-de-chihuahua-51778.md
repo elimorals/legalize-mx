@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2018-10-20"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2020.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -67,9 +67,9 @@ II. Vehículos: Todo aquel objeto capaz de desplazarse por las vías públicas c
 
 III. Peatón: Toda persona que transite por las vías públicas utilizando sus propios medios de locomoción naturales o auxiliares por aparatos o dispositivos para discapacitados.
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
 
-IV. La Fiscalía: La Fiscalía General del Estado.
+IV. La Secretaría: La Secretaría de Seguridad Pública.
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -101,11 +101,11 @@ Cuando a juicio del ayuntamiento para prestar el servicio de tránsito por razon
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES DE TRÁNSITO
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### Artículo 6.
 
-El Gobernador del Estado, por conducto de la Fiscalía, vigilará el cumplimiento de las leyes, reglamentos y disposiciones del tránsito de vehículos y peatones en el uso de las vías públicas, garantizando la seguridad de las mismas, de conformidad con las facultades que le confiere expresamente esta Ley y las demás normas jurídicas aplicables.
+El Gobernador del Estado, por conducto de la Secretaría, vigilará el cumplimiento de las leyes, reglamentos y disposiciones del tránsito de vehículos y peatones en el uso de las vías públicas, garantizando la seguridad de las mismas, de conformidad con las facultades que le confiere expresamente esta Ley y las demás normas jurídicas aplicables.
 
 ###### Artículo 7.
 
@@ -121,13 +121,13 @@ Son autoridades de vialidad y/o tránsito, para los efectos de la presente Ley y
 
 I. El Gobernador del Estado; dentro del ámbito de su competencia, en los términos del convenio de coordinación que celebre con los ayuntamientos;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
 
-II. El Fiscal General del Estado;
+II. La persona titular de la Secretaría.
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
 
-III. El Director de la Policía Estatal Única;
+III. La Dirección.
 
 IV. Los Presidentes Municipales;
 
@@ -163,19 +163,19 @@ I. Dictar las medidas necesarias para el cumplimiento efectivo de la presente Le
 
 II. Las demás que le confieran la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y otras normas de carácter general, convenios y acuerdos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### Artículo 12.
 
-El Fiscal General del Estado se encuentra investido de las siguientes atribuciones dentro de su ámbito de competencia:
+La persona titular de la Secretaría se encuentra investida de las siguientes atribuciones dentro de su ámbito de competencia:
 
 I. Ejecutar las medidas dictadas por el Gobernador del Estado en todo lo que se refiere al tránsito de vehículos y de personas, de conformidad a la presente Ley y sus reglamentos;
 
 II. Planear, aprobar, coordinar y evaluar las políticas y programas en materia de tránsito, dentro de las disposiciones legales y previo acuerdo con el Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
 
-III. Autorizar el uso de vehículos de paso preferencial o de emergencia cuando éstos cumplen funciones de Seguridad o de Asistencia Social de conformidad a lo que establezca el Reglamento de la Fiscalía;
+III. Autorizar el uso de vehículos de paso preferencial o de emergencia cuando estos cumplen funciones de Seguridad o de Asistencia Social de conformidad a lo que establezca el Reglamento respectivo.
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -291,7 +291,9 @@ II. Tener un modo honesto de vivir.
 
 III. No tener antecedentes penales por delito doloso.
 
-IV. Tener título con grado de licenciatura registrado ante la Oficina Estatal de Profesiones y contar con los conocimientos necesarios para desempeñar adecuadamente tal función.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+
+IV. Tener título con grado de licenciatura registrado ante la Dirección Estatal de Profesiones y contar con los conocimientos necesarios para desempeñar adecuadamente tal función.
 
 Los oficiales calificadores serán nombrados y removidos libremente por el Director de Vialidad o el Presidente Municipal, según se trate del nivel de gobierno que preste la función pública de tránsito.
 
@@ -559,13 +561,13 @@ Tratándose de vehículos de barrido mecanizado de limpieza, deberá efectuar su
 
 ### CAPÍTULO TERCERO. DE LAS PLACAS DE LOS VEHICULOS
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### Artículo 42.
 
-Ningún vehículo podrá desplazarse por las vías públicas sin llevar colocadas las placas correspondientes al tipo de uso o servicio que se le otorgue o, en su caso, permiso provisional otorgado por la Fiscalía, en tanto concluyan los trámites necesarios para su obtención.
+Ningún vehículo podrá desplazarse por las vías públicas sin llevar colocadas las placas correspondientes al tipo de uso o servicio que se le otorgue o, en su caso, permiso provisional otorgado por la Secretaría, en tanto concluyan los trámites necesarios para su obtención.
 
-Los ayuntamientos podrán celebrar convenios con la Fiscalía, para la expedición de permisos provisionales, debiendo remitir a la misma una relación mensual de las autorizaciones que hayan otorgado.
+Los ayuntamientos podrán celebrar convenios con la Secretaría, para la expedición de permisos provisionales, debiendo remitir a la misma una relación mensual de las autorizaciones que hayan otorgado.
 
 ###### Artículo 43.
 
@@ -1387,7 +1389,7 @@ Invariablemente, el oficial de vialidad y/o tránsito que realice el acto de mol
 
 ### CAPÍTULO TERCERO. DE LOS RECURSOS
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### Artículo 102.
 
@@ -1409,7 +1411,7 @@ IV. Para fijar la duración de los términos, los meses se regularán por el nú
 
 ###### Artículo 104.
 
-Contra las resoluciones de las autoridades señaladas en las fracciones III, V y VI del artículo 9 de la presente Ley, procederá el recurso de revisión, el cual deberá interponerse dentro del término de cinco días hábiles en la Dirección de Servicios de Asesoría Jurídica de la Fiscalía, quien substanciará el procedimiento correspondiente, debiendo remitirlo para resolución al Fiscal General del Estado.
+Contra las resoluciones de las autoridades señaladas en las fracciones III, V y VI del artículo 9 de la presente Ley, procederá el recurso de revisión, el cual deberá interponerse dentro del término de cinco días hábiles en el área competente de la Secretaría, quien substanciará el procedimiento correspondiente, debiendo remitirlo para resolución a la persona titular de la Secretaría.
 
 ###### Artículo 105.
 
@@ -1429,9 +1431,9 @@ La suspensión podrá ser solicitada en cualquier tiempo ante la autoridad ejecu
 
 La autoridad ejecutora suspenderá provisionalmente el procedimiento y concederá un plazo de cinco días para el otorgamiento de la garantía. Constituida ésta se suspenderá de plano la ejecución, hasta que se resuelva en definitiva el recurso.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
-Contra las resoluciones del Fiscal General del Estado que resulten de un recurso, no cabrá otro posterior.
+Contra las resoluciones de la persona titular de la Secretaría que resulten de un recurso, no cabrá otro posterior.
 
 ###### Artículo 106.
 
@@ -1439,19 +1441,19 @@ La tramitación del recurso se sujetará al procedimiento siguiente:
 
 I. Se interpondrá por sí o por representante legalmente investido y por escrito expresando: El nombre del recurrente, domicilio para ser notificado en la ciudad de Chihuahua; señalamiento del acto impugnado; los agravios que el mismo le cause y el ofrecimiento de las pruebas que pretenda reunir.
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
 
-II. Interpuesto el recurso, la Fiscalía recabará de oficio los informes y constancias necesarias para determinar la existencia del acto impugnado, las razones que lo justifiquen y la fecha de su notificación; en vista de lo anterior, acordará si es de admitirse o desecharse el recurso.
+II. Interpuesto el recurso, la Secretaría recabará de oficio los informes y constancias necesarias para determinar la existencia del acto impugnado, las razones que lo justifiquen y la fecha de su notificación; en vista de lo anterior, acordará si es de admitirse o desecharse el recurso.
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
 
-III. El Fiscal General del Estado proveerá la recepción y desahogo de las pruebas ofrecidas, dentro del término de quince días hábiles, desechando aquellas en las que se considere que el interesado tuvo oportunidad razonable de rendirlas ante la autoridad que emitió la resolución, así como la confesional de la propia autoridad emisora del acto.
+III. La persona titular de la Secretaría proveerá la recepción y desahogo de las pruebas ofrecidas, dentro del término de quince días hábiles, desechando aquellas en las que se considere que el interesado tuvo oportunidad razonable de rendirlas ante la autoridad que emitió la resolución, así como la confesional de la propia autoridad emisora del acto.
 
 IV. Desahogadas las pruebas, se abrirá un período de alegatos por tres días.
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
 
-V. Formulados los alegatos o transcurrido el término que para el efecto se concedió, el Fiscal General del Estado dictará su resolución.
+V. Formulados los alegatos o transcurrido el término que para el efecto se concedió, la persona titular de la Secretaría dictará su resolución.
 
 ###### Artículo 107.
 
@@ -1838,3 +1840,55 @@ P.O. 20 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFLEY/0855/2018 XVI P.E., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 53, PÁRRAFO SEGUNDO, DE LA LEY DE VIALIDAD Y TRÁNSITO, Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 7 DE LA LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS, AMBAS DEL ESTADO DE CHIHUAHUA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVI/RFLEY/0641/2019 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO, LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA Y LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará (sic) al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las atribuciones y referencias que se hagan a la Fiscalía General del Estado, que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias otorgadas en este Decreto a la Secretaría de Seguridad Pública, se entenderán referidas a esa Secretaría.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Seguridad Pública conforme al mismo, continuarán su despacho por esta Secretaría, conforme a las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO CUARTO.
+
+A la entrada en vigor del presente Decreto, todos los recursos humanos, materiales y financieros que formen parte de la Comisión Estatal de Seguridad, así como de los órganos cuyas atribuciones sean competencia de la Secretaría de Seguridad Pública, se integrarán a la misma.
+
+Las y los servidores públicos adscritos a la Fiscalía General del Estado que pasen a formar parte de la Secretaría de Seguridad Pública en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo Estatal realizará las adecuaciones reglamentarias y administrativas necesarias a efecto de operar la Secretaría de Seguridad Pública, con las áreas previstas para su conformación.
+
+###### ARTÍCULO SEXTO.
+
+El Ejecutivo Estatal realizará las adecuaciones, reasignaciones y transferencias de las partidas presupuestales asignadas a la Fiscalía, a fines de seguridad pública y las correspondientes al desempeño de sus funciones y facultades.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Fiscalía General del Estado, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o moral, serán asumidos por la dependencia que corresponda conforme a las previsiones previstas en el presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las referencias hechas a la Comisión Estatal de Seguridad, se entenderán realizadas a la Secretaría de Seguridad Pública.
+
+###### ARTÍCULO OCTAVO.
+
+La Fiscalía General del Estado, la Secretaría de Seguridad Pública y la Secretaría General de Gobierno realizarán los trámites de entrega recepción que correspondan para transmitir los documentos, archivos u otros bienes relativos a las atribuciones reformadas mediante el presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Las autorizaciones efectuadas a la Fiscalía General del Estado en el Decreto No. LXVI/AUOBF/0397/2019 I P.O. publicado en el Periódico Oficial del Estado el 30 de octubre de 2019, se entenderán efectuadas a la Secretaría de Seguridad Pública a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Los estudios validados por el Instituto Estatal de Seguridad Pública, así como los Acuerdos de Reconocimiento de Validez Oficial de Estudios, continuarán su vigencia hasta en tanto se realicen las modificaciones ante la instancia correspondiente.
+
+###### ARTÍCULO UNDÉCIMO.
+
+En un plazo no mayor a seis meses, contados a partir de la entrada en vigor del presente Decreto, se elaborará la Ley Orgánica de la Secretaría de Seguridad Pública con la participación de la Comisión Primera de Gobernación y Puntos Constitucionales del H. Congreso del Estado y personas especialistas en la materia.
