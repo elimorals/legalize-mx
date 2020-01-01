@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-9628
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2019-07-06"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2020.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de octubre de 2013.
 
@@ -63,13 +63,19 @@ El Estado combatirá las causas que generan la comisión de delitos y conductas 
 
 El Estado garantizará la seguridad pública a través del diseño transversal de políticas de prevención y su implementación efectiva, que permita identificar los factores de riesgo que originan la delincuencia, para erradicarlos, así como establecer los mecanismos necesarios para la reinserción social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
+
 ###### Artículo 3.
 
-La función de seguridad pública se realizará por conducto de las Instituciones Policiales del Estado y los municipios; del Ministerio Público y peritos; de las instancias encargadas de aplicar las infracciones administrativas; de los responsables de la prisión preventiva y ejecución de penas; de las autoridades competentes en materia de justicia para adolescentes, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
+La función de seguridad pública se realizará por conducto de las Instituciones Policiales del Estado y los municipios; las Instituciones de Procuración de Justicia; de las instancias encargadas de aplicar las infracciones administrativas; de los responsables de la prisión preventiva y ejecución de penas; de las autoridades competentes en materia de justicia para adolescentes, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
 
-Asimismo, observará y regulará necesariamente, conforme a las bases establecidas en la Ley General del Sistema Nacional de Seguridad Pública:
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
-I. La coordinación del Estado y los municipios entre sí y de ambos con la Federación, mediante las instancias, instrumentos, programas, mecanismos, políticas públicas, servicios y acciones tendientes a cumplir los objetivos y fines de la seguridad pública, en los términos de esta Ley.
+Asimismo, se deberá observar y regular, conforme a las bases establecidas en la Ley General del Sistema Nacional de Seguridad Pública:
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+
+I. La coordinación del Estado, los municipios y con la Federación, mediante las instancias, instrumentos, programas, mecanismos, políticas públicas, servicios y acciones tendientes a cumplir los objetivos y fines de la seguridad pública, en los términos de esta Ley.
 
 II. El Servicio Profesional de Carrera Ministerial y Pericial, así como el Servicio Profesional de Carrera Policial.
 
@@ -115,21 +121,23 @@ XIV. Constitución: La Constitución Política de los Estados Unidos Mexicanos.
 
 XV. Constitución local: La Constitución Política del Estado Libre y Soberano de Chihuahua.
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
 
-XVI. Instituto: El Instituto Estatal de Seguridad Pública dependiente de la Fiscalía General, encargado de la formación y actualización especializada de aspirantes e integrantes del Desarrollo Profesional Ministerial, Pericial y Policial.
+XVI. Instituto: El Instituto Estatal de Seguridad Pública dependiente de la Fiscalía General del Estado, encargado de la formación y actualización especializada de aspirantes e integrantes del Desarrollo Profesional Ministerial, Pericial y, respecto a la formación policial, en concordancia con las atribuciones de la Secretaría de Seguridad Pública.
 
 XVII. Fiscalía Especializada en Control: La Fiscalía Especializada en Control, Análisis y Evaluación de la Fiscalía General del Estado.
 
-XVIII. Fiscalía General: La Fiscalía General del Estado, que integra al Ministerio Público, los Servicios Periciales, las Instituciones Policiales del Estado y demás auxiliares de aquél.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+
+XVIII. Fiscalía General: La Fiscalía General del Estado, con los órganos y las áreas que la integren, conforme a la legislación vigente.
 
 XIX. Hoja de Servicios: El documento que resume la trayectoria de cada integrante de las Instituciones de Seguridad Pública, de conformidad con las disposiciones aplicables.
 
 XX. Instituciones de Seguridad Pública: La Institución del Ministerio Público, los servicios periciales, las Instituciones Policiales y dependencias encargadas de la Seguridad Pública del Estado y de los municipios.
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
 
-XXI. Instituciones Policiales: La Comisión Estatal de Seguridad Pública, la Agencia Estatal de Investigación y los agentes de seguridad, custodia y traslado, tanto de los centros de reinserción social como de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales, dependientes de la Fiscalía General, así como las corporaciones policiales de los municipios, comprendiendo vialidad y tránsito.
+XXI. Instituciones Policiales: La Secretaría de Seguridad Pública, la Agencia Estatal de Investigación; y las y los agentes de seguridad, custodia y traslado, tanto de los centros de reinserción social como de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales, dependientes de dicha Secretaría, así como las corporaciones policiales de los municipios, comprendiendo vialidad y tránsito.
 
 XXII. Integrantes: Los Integrantes de las Instituciones de Seguridad Pública.
 
@@ -137,11 +145,13 @@ XXIII. Ley: La presente Ley del Sistema Estatal de Seguridad Pública.
 
 XXIV. Ley General: La Ley General del Sistema Nacional de Seguridad Pública.
 
-XXV. Órgano de Asuntos Internos: La Fiscalía Especializada en Control, Análisis y Evaluación de la Fiscalía General del Estado o el órgano interno de control, o instancia equivalente, de los municipios.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+XXV. Órgano de Asuntos Internos: La Fiscalía Especializada en Control, Análisis y Evaluación de la Fiscalía General del Estado, o el órgano interno de control, o instancia equivalente, de la Secretaría de Seguridad Pública y de los municipios.
 
-XXVI. Policía: Las Divisiones de Fuerzas Estatales, de Operaciones Especiales, de Inteligencia, de Policía Vial, de Operaciones Rurales y de Seguridad Bancaria, Comercial e Industrial de la Comisión Estatal de Seguridad, la Policía de Investigación y la Policía de Seguridad, Custodia y Traslado y de Vigilancia de Audiencias Judiciales, así como la Policía Preventiva municipal, conforme a los artículos 21 y 115, fracción III, inciso h), de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+
+XXVI. Policía: Las Divisiones de Fuerzas Estatales, de Operaciones Especiales, de Inteligencia, de Policía Vial, de Operaciones Rurales y de Seguridad Bancaria, Comercial e Industrial de la Secretaría de Seguridad Pública, la Policía de Investigación y la Policía de Seguridad, Custodia y Traslado y de Vigilancia de Audiencias Judiciales, así como la Policía Preventiva municipal, conforme a los artículos 21 y 115, fracción III, inciso h), de la Constitución Política de los Estados Unidos Mexicanos.
 
 XXVII. Procedimiento: El instaurado a los Integrantes de las Instituciones de Seguridad Pública ante las Comisiones del Servicio Profesional de Carrera, Honor y Justicia, por incumplimiento a los requisitos de permanencia o infracción al régimen disciplinario, respectivamente.
 
@@ -164,6 +174,10 @@ XXXV. Secretario Ejecutivo: El Titular del Secretariado Ejecutivo del Sistema Es
 XXXVI. Sistema Estatal: El Sistema Estatal de Seguridad Pública.
 
 XXXVII. Sistema Nacional: El Sistema Nacional de Seguridad Pública.
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
+
+XXXVIII. Secretaría: Secretaría de Seguridad Pública.
 
 ###### Artículo 5.
 
@@ -249,11 +263,11 @@ Asimismo, para el adecuado funcionamiento del Sistema Estatal, el Ejecutivo dest
 
 Las Instituciones de Seguridad Pública del Estado y de los municipios deberán proporcionar al Secretariado Ejecutivo del Sistema Nacional o del Sistema Estatal, según corresponda, los informes que los mismos les soliciten respecto al ejercicio de los recursos a que se refiere el primer párrafo del artículo anterior y al avance en el cumplimiento de los programas o proyectos en que fueron aplicados, así como a la ejecución del Programa de Seguridad Pública del Estado derivado del Programa Nacional de Seguridad Pública y demás acciones relacionadas con el control, vigilancia, transparencia y supervisión del manejo de dichos recursos.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### Artículo 13.
 
-Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos estatales o municipales por el manejo o aplicación indebidos de los recursos derivados de los fondos de aportaciones federales, estatales y demás fondos de ayuda federal para la seguridad pública de los Estados y de los Municipios, que establece la Ley de Coordinación Fiscal y la Ley de Coordinación Fiscal del Estado de Chihuahua y sus Municipios, serán determinadas y sancionadas por las autoridades federales o locales, según corresponda, de conformidad con lo previsto en dicha ley.
+Las responsabilidades administrativas, civiles y penales en que incurran las y los servidores públicos estatales o municipales por el manejo o aplicación indebidos de los recursos derivados de los fondos de aportaciones federales, estatales y demás fondos de ayuda federal para la seguridad pública de los Estados y de los Municipios, que establece la Ley de Coordinación Fiscal y la Ley de Coordinación Fiscal del Estado de Chihuahua y sus Municipios, serán determinadas y sancionadas por las autoridades federales o locales, según corresponda, de conformidad con lo previsto en la legislación aplicable.
 
 ## TÍTULO SEGUNDO. DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -303,9 +317,9 @@ VI.- Seis representantes de la sociedad civil; de los cuales, uno de ellos será
 
 VII. El Secretario Adjunto, solo con derecho a voz.
 
-> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
 
-VIII.- La persona que ocupa la titularidad de la Comisión Estatal de Seguridad Pública.
+VIII. La persona titular de la Secretaría.
 
 Los seis representantes de la sociedad civil y el Secretario Adjunto conformarán la parte ciudadana del Consejo.
 
@@ -399,9 +413,13 @@ IV. Ser de reconocida capacidad y probidad y contar con, por lo menos, cinco añ
 
 V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+
 ###### Artículo 28.
 
-El personal de confianza de las unidades administrativas del Secretariado Ejecutivo, incluso sus titulares, se considerará personal de seguridad pública y será de libre designación y remoción; asimismo, se sujetará a los procesos de evaluación de control de confianza y de certificación.
+El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública es un órgano administrativo desconcentrado de la Secretaría General de Gobierno, dotado de autonomía técnica y de gestión, con las atribuciones descritas en la presente Ley y demás disposiciones aplicables.
+
+El personal de confianza de las unidades administrativas del Secretariado Ejecutivo, incluso sus titulares y de las dependencias que presten asesoría en materia operativa, técnica y jurídica a los integrantes del Consejo, se considerará personal de seguridad pública y será de libre designación y remoción; asimismo, se sujetará a los procesos de evaluación de control de confianza y de certificación.
 
 ###### Artículo 29.
 
@@ -791,9 +809,9 @@ a) Para agentes del Ministerio Público, contar con título de licenciatura en d
 
 b) Para peritos, deberán contar con licenciatura. Para ejercer la ciencia o especialidad en alguna profesión regulada por la Ley de Profesiones para el Estado de Chihuahua, deberán contar con el título respectivo, a excepción de los peritos técnicos, quienes deberán acreditar los estudios correspondientes a la enseñanza media superior o equivalente, así como los conocimientos correspondientes a la disciplina sobre la que deba dictaminar cuando de acuerdo con las normas aplicables no necesite título o cédula profesional para su ejercicio.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
-c) Para Integrantes de la Agencia Estatal de Investigación y de la División de Inteligencia de la Comisión Estatal de Seguridad, nivel licenciatura.
+c) Para Integrantes de la Agencia Estatal de Investigación y de la División de Inteligencia de la Secretaría de Seguridad Pública, nivel educativo de licenciatura, con excepción de los integrantes de la Policía de Seguridad, Custodia y Traslado y de Vigilancia de Audiencias Judiciales, quienes deberán acreditar el nivel de educación media superior.
 
 > <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
 
@@ -1453,7 +1471,9 @@ La Institución de Seguridad Pública analizará la solicitud a fin de determina
 
 El Centro Estatal es la unidad de la Fiscalía General responsable de dirigir, coordinar, operar y calificar los procesos de evaluación de los aspirantes e Integrantes de las Instituciones de Seguridad Pública, así como comprobar el cumplimiento de los perfiles físicos, médicos, éticos, socioeconómicos, de personalidad y demás que establezcan las disposiciones legales aplicables emitiendo, en su caso, los Certificados correspondientes.
 
-Asimismo, la Fiscalía General podrá celebrar convenios con las empresas de seguridad privada para hacerse cargo de los procesos de evaluación y control de confianza de su personal operativo.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+
+Asimismo, la Fiscalía General y la Secretaría podrán celebrar convenios con las empresas de seguridad privada para hacerse cargo de los procesos de evaluación y control de confianza de su personal operativo.
 
 ###### Artículo 121.
 
@@ -1819,11 +1839,13 @@ III. Oficiales.
 
 IV. Escala Básica.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### Artículo 151.
 
-La Comisión Estatal de Seguridad Pública se organizará de la siguiente manera:
+La Secretaría contará con la estructura necesaria para su operación, incluirá a la Comisión Estatal de Seguridad Pública, que se organizará de la siguiente manera:
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 21 DE JULIO DE 2018)</small>
 
 A. Para ejercer la función de seguridad pública, se auxiliará de las siguientes unidades:
 
@@ -1841,13 +1863,15 @@ VI. División de Seguridad Bancaria, Comercial e Industrial.
 
 VII. Las demás que determinen las leyes y reglamentos.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2018)</small>
+
 B. Para ejercer, de forma excepcional, funciones de derecho privado, a través de la División de Seguridad Bancaria, Comercial e Industrial, como órgano encargado de proporcionar, en el ámbito de su competencia, la prestación de servicios de estudios y análisis de evaluación de riesgos; de protección, custodia y vigilancia de personas; seguridad en el interior y exterior de inmuebles; así como custodia de bienes y valores fijos y en tránsito; a dependencias, entidades y órganos de los Poderes Ejecutivo, Legislativo y Judicial, locales y federales, órganos autónomos federales y locales, así como a personas físicas y morales que produzcan bienes y servicios que contribuyan a la generación de empleos y recursos económicos para el Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### Artículo 152.
 
-La Comisión Estatal de Seguridad estará presidida por un Comisionado Estatal, y cubrirá al menos, las siguientes categorías y jerarquías:
+La Secretaría estará presidida por un Secretario o Secretaria, y cubrirá al menos, las siguientes categorías y jerarquías:
 
 I. Comisarios:
 
@@ -1889,13 +1913,13 @@ c) (DEROGADO, P.O. 7 DE JUNIO DE 2017)
 
 d) (DEROGADO, P.O. 7 DE JUNIO DE 2017)
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
-Las categorías de Comisarios, Inspectores y Oficiales, esta última únicamente en su jerarquía de Subinspector, señaladas en las fracciones I, II y III, inciso a) de este artículo, serán de libre designación por parte del Fiscal General del Estado y las categorías de Oficiales en su jerarquía de Oficial y Suboficial y la de Escala Básica en su jerarquía de Policía, descritas en la (sic) fracciones III, incisos b) y c), y IV, inciso a) de este numeral, formarán parte del Servicio Profesional de Carrera.
+Las categorías de Comisarios, Inspectores y Oficiales, esta última únicamente en su jerarquía de Subinspector, señaladas en las fracciones I, II y III, inciso a) de este artículo, serán de libre designación por parte de la persona titular de la Secretaría; mientras que las categorías de Oficiales en su jerarquía de Oficial y Suboficial y la de Escala Básica en su jerarquía de Policía, descritas en la fracciones III, incisos b) y c), y IV, inciso a) de este numeral, formarán parte del Servicio Profesional de Carrera.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
-Los integrantes de la Comisión Estatal de Seguridad tendrán nombramiento según sea el caso, en la categoría de Escala Básica o en la Escala de Oficiales, en esta última en la jerarquía de Oficial o Suboficial. Para poder ser designados como Subinspector, Inspectores o Comisarios en sus diversas jerarquías, deberán tener el nombramiento de Oficial o Suboficial, por lo que al concluir el encargo o comisión como Comisario, Inspector o Subinspector, regresarán a ocupar su jerarquía correspondiente.
+Los integrantes de la Secretaría tendrán nombramiento según sea el caso, en la categoría de Escala Básica o en la Escala de Oficiales, en esta última en la jerarquía de Oficial o Suboficial. Para poder ser designados como Subinspector, Inspectores o Comisarios en sus diversas jerarquías, deberán tener el nombramiento de Oficial o Suboficial, por lo que al concluir el encargo o comisión como Comisario, Inspector o Subinspector, regresarán a ocupar su jerarquía correspondiente.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -1929,9 +1953,11 @@ Las Instituciones Policiales del Estado y los municipios se organizarán bajo un
 
 Los titulares de las categorías jerárquicas estarán facultados para ejercer la autoridad y mando policial en los diversos cargos o comisiones.
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+
 ###### Artículo 156.
 
-En los Manuales de Uniformes e Insignias que al efecto se expidan por la Fiscalía General o los municipios para sus respectivas Instituciones Policiales, se establecerá el diseño y demás características de las insignias correspondientes a cada jerarquía.
+En los Manuales de Uniformes e Insignias que al efecto se expidan por la Secretaría o los municipios para sus respectivas Instituciones Policiales, se establecerá el diseño y demás características de las insignias correspondientes a cada jerarquía.
 
 ###### Artículo 157.
 
@@ -1967,9 +1993,9 @@ IV. Escala Básica
 
 a) Policía
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
-Las categorías de Comisarios, Inspectores y Oficiales, esta última únicamente en su jerarquía de Subinspector, señaladas en las fracciones I, II y III, inciso a) de este artículo, serán de libre designación por parte del Fiscal General del Estado y las categorías de Oficiales en su jerarquía de Oficial y Suboficial y la de Escala Básica, descritas en la (sic) fracciones III, incisos b), c) y IV, inciso a) de este numeral, formarán parte del Servicio Profesional de Carrera.
+Las categorías de Comisarios, Inspectores y Oficiales, esta última únicamente en su jerarquía de Subinspector, señaladas en las fracciones I, II y III, inciso a) de este artículo, serán de libre designación por parte de la persona titular de la Secretaría y las categorías de Oficiales en su jerarquía de Oficial y Suboficial y la de Escala Básica, descritas en las fracciones III, incisos b) y c) y IV, inciso a) de este numeral, formarán parte del Servicio Profesional de Carrera.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -1999,15 +2025,17 @@ V. Mandos Subordinados.
 
 El Gobernador del Estado, de conformidad con lo dispuesto en el artículo 93 de la Constitución local, ejercerá el mando supremo de las fuerzas de seguridad pública del Estado.
 
-El Fiscal General del Estado ejercerá el alto mando de las Instituciones Policiales del Estado.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+
+La persona titular de la Secretaría ejercerá el alto mando de las Instituciones Policiales del Estado, con excepción de la policía investigadora y de la Agencia Estatal de Investigación, de estas últimas dos la persona titular de la Fiscalía General del Estado ejercerá el mando en su carácter de Ministerio Público.
 
 Los presidentes municipales ejercerán el alto mando sobre la policía preventiva de sus respectivos municipios, en los términos de la Constitución, la Constitución local y disposiciones legales y reglamentarias aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### Artículo 161.
 
-Corresponderá al Titular de la Comisión Estatal de Seguridad el ejercicio del mando superior de la misma y por tanto será el responsable de su organización, disciplina y operación.
+Corresponderá al Titular de la Secretaría el ejercicio del mando superior de la misma y por tanto será el responsable de su organización, disciplina y operación.
 
 Los Directores de Seguridad Pública de los municipios u órgano equivalente ejercerán el mando superior de la policía preventiva municipal y les corresponderá su organización, disciplina y operación.
 
@@ -2017,11 +2045,11 @@ Los Directores de Seguridad Pública de los municipios u órgano equivalente eje
 
 El mando superior de la Agencia Estatal de Investigación será ejercido por su Coordinador General de conformidad con las disposiciones legales y reglamentarias correspondientes y será por ello, el responsable de su organización, disciplina y operación.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### Artículo 162.
 
-Los Directores de División de la Comisión Estatal de Seguridad Pública o unidades equivalentes en los municipios, ejercerán el mando operativo sobre los Integrantes de las mismas. Los titulares de las restantes unidades se consideran mandos subordinados.
+Los Directores de División de la Secretaría o unidades equivalentes en los municipios, ejercerán el mando operativo sobre los Integrantes de las mismas. Los titulares de las restantes unidades se consideran mandos subordinados.
 
 ###### Artículo 163.
 
@@ -2351,9 +2379,11 @@ Cuando no exista inconformidad en el término señalado o si la resolución conf
 
 Se establecen las Comisiones como la instancia colegiada encargada de conocer y resolver los procedimientos por incumplimiento a los requisitos de ingreso y permanencia, así como los asuntos y controversias relacionados con el servicio profesional y la profesionalización y por violación a las obligaciones y deberes relativos al régimen disciplinario, en los términos de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
+
 ###### Artículo 192.
 
-La Comisión del Servicio Profesional de Carrera, Honor y Justicia para agentes del Ministerio Público y peritos, se integrará de la siguiente manera:
+La Comisión del Servicio Profesional de Carrera, Honor y Justicia para Agentes del Ministerio Público, Analistas, Peritos y Agentes de la Policía Investigadora y Procesal, se integrará de la siguiente manera:
 
 I. Un Presidente, que será el Fiscal General del Estado, con voz y voto;
 
@@ -2371,33 +2401,47 @@ VI. Un Vocal, que será un representante de la Dirección General Jurídica de l
 
 VII. Un Vocal, que será un perito representante de la Dirección de Servicios Periciales y Ciencias Forenses, con voz y voto.
 
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
+
+VIII. Una Vocalía, que será una o un elemento de la Policía Investigadora de la Agencia Estatal de Investigación, con voz y voto.
+
 El Vocal a que se refiere la fracción III será designado por el Fiscal General; los demás Vocales serán designados por el titular de la unidad administrativa a que pertenezcan. Todos ellos deberán ser de probada experiencia, reconocida solvencia moral o destacados en su función.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### Artículo 193.
 
-La Comisión del Servicio Profesional de Carrera, Honor y Justicia para los Integrantes de las Instituciones Policiales del Estado, se integrará de la siguiente manera:
+La Comisión del Servicio Profesional de Carrera, Honor y Justicia para los Integrantes de las Instituciones Policiales del Estado, con excepción de las y los miembros de la Agencia Estatal de Investigación, se integrará de la siguiente manera:
 
-I. Un Presidente, que será el Fiscal General, con voz y voto;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+
+I. Una Presidencia, que será la persona titular de la Secretaría, con voz y voto.
 
 II. Un Secretario Técnico, designado por el Presidente, sólo con voz;
 
-III. Un Vocal, que será un representante de la Dirección General Jurídica de la Fiscalía General, con voz y voto;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
 
-IV. Un Vocal, que será un representante de la Dirección General de Administración y Sistemas de la Fiscalía General, con voz y voto;
+III. Un Vocal, que será un representante de la unidad jurídica correspondiente de la Secretaría, con voz y voto.
 
-V. Un Vocal, que será un representante de la Fiscalía Especializada en Control, sólo con voz;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+IV. Un Vocal, que será un representante de la unidad encargada de la administración de la Secretaría, con voz y voto.
 
-VI. Un Vocal de la Comisión Estatal de Seguridad, con voz y voto, para asuntos relacionados con elementos pertenecientes a todas las Divisiones de dicha Comisión.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+
+V. Un Vocal, que será un representante de la unidad encargada del control, análisis y evaluación de la Secretaría, solo con voz.
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+
+VI. Un Vocal de la División correspondiente, con voz y voto, para asuntos relacionados con elementos pertenecientes a la misma.
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
 VII. Un Vocal de la Agencia Estatal de Investigación, con voz y voto, para el caso de asuntos relacionados con sus Integrantes.
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
 
-VIII. Un Vocal que será un representante de los agentes de seguridad, custodia y traslado de los centros de reinserción social, de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales de la Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales, con voz y voto, para el caso de asuntos relacionados con dichos agentes.
+VIII. Un Vocal que será un representante de los agentes de seguridad, custodia y traslado de los centros de reinserción social, de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales de la unidad correspondiente encargada de la ejecución de penas y medidas judiciales de la Secretaría, con voz y voto, para el caso de asuntos relacionados con dichos agentes.
 
 IX. (DEROGADA, P.O. 7 DE JUNIO DE 2017)
 
@@ -2511,15 +2555,23 @@ El Consejo de Desarrollo Policial es la instancia colegiada encargada de opinar 
 
 El Consejo de Desarrollo Policial se integrará de la siguiente manera:
 
-I. Un Presidente, que será el Secretario Ejecutivo del Sistema Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+
+I. Una Presidencia, que será la persona titular de la Secretaría.
 
 II. Un Secretario Técnico, designado por el Presidente, quien sólo tendrá voz;
 
-III. Un representante de la Fiscalía Especializada en Control;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
 
-IV. Un representante de la Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales;
+III. Un representante de la unidad correspondiente encargada del control, de la Secretaría.
 
-V. Un representante de la Dirección General Jurídica de la Fiscalía General;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+
+IV. Un representante de la unidad correspondiente encargada de la ejecución de penas y medidas judiciales de la Secretaría.
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+
+V. Un representante de la unidad jurídica correspondiente de la Secretaría.
 
 VI. Los Directores de Seguridad Pública Municipal u órgano equivalente de los municipios de Cuauhtémoc, Chihuahua, Delicias, Hidalgo del Parral, Juárez y Nuevo Casas Grandes, como consejeros permanentes;
 
@@ -2617,7 +2669,9 @@ IV. La entrega al superior jerárquico de las armas de fuego que le hubiesen sid
 
 V. La suspensión temporal en el desempeño del servicio, cargo o comisión, por el tiempo necesario para la conclusión del procedimiento, misma que en ningún caso será superior a un año contado a partir de que se haga efectiva dicha suspensión.
 
-Durante el tiempo que dure la suspensión únicamente percibirá una remuneración, la cual no podrá ser inferior al salario tabular más bajo que se cubra en la Fiscalía General del Estado y, consecuentemente, se le seguirá prestando el servicio médico.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+
+Durante el tiempo que dure la suspensión únicamente percibirá una remuneración, la cual no podrá ser inferior al salario tabular más bajo que se cubra en la dependencia en la que presta sus servicios y, consecuentemente, se le seguirá prestando el servicio médico.
 
 Lo anterior sin perjuicio de que el mismo Órgano de Asuntos Internos solicite a la Comisión del Servicio Profesional de Carrera, Honor y Justicia respectiva, imponga alguna de las medidas cautelares de las que se refiere el presente artículo.
 
@@ -2781,9 +2835,11 @@ II. Personal de seguridad pública, incluyendo la información relativa a los el
 
 III. Armamento y equipo, que comprende los equipos de comunicación y las frecuencias autorizadas para su uso, así como los colores oficiales de la Institución Policial en los uniformes que utilicen sus Integrantes.
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+
 ###### Artículo 221.
 
-Todas las unidades administrativas de la Fiscalía General deberán ingresar de manera inmediata y permanente a las bases de datos y Registros que integran el Sistema de Información Estatal de Seguridad Pública, la información en materia de seguridad pública y procuración de justicia para los efectos a que se refiere el artículo anterior y demás disposiciones aplicables, sin perjuicio de las obligaciones previstas en la Ley General.
+Todas las unidades administrativas de la Fiscalía General y de la Secretaría deberán ingresar y actualizar de manera inmediata y permanente a las bases de datos y Registros que integran el Sistema de Información Estatal de Seguridad Pública, la información en materia de seguridad pública y procuración de justicia para los efectos a que se refiere el artículo anterior y demás disposiciones aplicables, sin perjuicio de las obligaciones previstas en la Ley General.
 
 ###### Artículo 222.
 
@@ -2815,9 +2871,11 @@ El Estado y los municipios deberán suministrar, intercambiar, sistematizar, con
 
 La información sobre administración e impartición de justicia podrá ser integrada al Sistema de Información Estatal, mediante la celebración de acuerdos o convenios con el Poder Judicial del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
+
 ###### Artículo 225.
 
-La Fiscalía General integrará la información de seguridad pública que reciba de la Federación y de otras entidades federativas, misma que formará parte del Sistema de Información Estatal.
+La Fiscalía General y la Secretaría integrarán al Sistema de Información Estatal la información a la que se encuentren obligados, cada una de acuerdo al ámbito de su competencia, adicionalmente la información de seguridad pública que se requiera y reciba de la Federación y de otras entidades federativas.
 
 (NOTA: EL 30 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 73/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -2835,11 +2893,11 @@ La información que se obtenga a través de la instalación y operación de vide
 
 #### SECCIÓN PRIMERA. DEL REGISTRO ESTATAL DE DETENIDOS
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### Artículo 228.
 
-El Registro de Detenidos tiene por objeto establecer el control administrativo de las detenciones en sus distintas modalidades de orden de aprehensión, flagrancia, ministerial por caso urgente, arraigo, cateo y provisional con fines de extradición, de personas que sean entregadas a un elemento de la Agencia Estatal de Investigación, de la Comisión Estatal de Seguridad o Policías Municipales, o detenidas por estos, o bien puestas a disposición del Ministerio Público del Estado.
+El Registro de Detenidos tiene por objeto establecer el control administrativo de las detenciones en sus distintas modalidades de orden de aprehensión, flagrancia, ministerial por caso urgente, arraigo, cateo y provisional con fines de extradición, de personas que sean entregadas a un elemento de la Agencia Estatal de Investigación, de la Secretaría o Policías Municipales, o detenidas por estos, o bien puestas a disposición del Ministerio Público del Estado.
 
 ###### Artículo 229.
 
@@ -2867,13 +2925,13 @@ VIII. Las demás que le establezcan otras disposiciones legales o el Fiscal Gene
 
 La Fiscalía General realizará las actividades y dictará los acuerdos, criterios y lineamientos necesarios para el desarrollo, administración, ingreso, suministro y consulta de información del Registro de Detenidos; asimismo, se coordinará con el Registro Administrativo de Detenciones del Centro Nacional de Información del Sistema Nacional, para el intercambio de datos, asistencia técnica y demás aspectos relacionados con dichos Registros.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### Artículo 231.
 
-El Integrante de la Agencia Estatal de Investigación o de la Comisión Estatal de Seguridad o de las Policías Municipales, que realice una detención o reciba a su disposición un detenido, procederá a dar aviso al Registro de Detenidos a través del Informe Policial Homologado, sin perjuicio de la obligación prevista en el artículo 112 de la Ley General. Los agentes del Ministerio Público actualizarán la información relativa a las detenciones tanto del Registro Administrativo de Detenciones como del Registro de Detenidos en términos de las disposiciones legales aplicables.
+El Integrante de la Agencia Estatal de Investigación o de la Secretaría o de las Policías Municipales, que realice una detención o reciba a su disposición un detenido, procederá a dar aviso al Registro de Detenidos a través del Informe Policial Homologado, sin perjuicio de la obligación prevista en el artículo 112 de la Ley General. Los agentes del Ministerio Público actualizarán la información relativa a las detenciones tanto del Registro Administrativo de Detenciones como del Registro de Detenidos en términos de las disposiciones legales aplicables.
 
-En todos los casos en que los integrantes de la Agencia Estatal de Investigación o de la Comisión Estatal de Seguridad o de las Policías Municipales, realicen una detención o reciban a su disposición un detenido, lo pondrán de inmediato a disposición del Ministerio Público.
+En todos los casos en que los integrantes de la Agencia Estatal de Investigación o de la Secretaría o de las Policías Municipales, realicen una detención o reciban a su disposición un detenido, lo pondrán de inmediato a disposición del Ministerio Público.
 
 ###### Artículo 232.
 
@@ -2967,9 +3025,11 @@ El Registro de Información Penitenciaria es la base de datos que contiene, admi
 
 La base de datos del Registro de Información Penitenciaria deberá contener, cuando menos, el reporte de la ficha de identificación personal de cada interno, con fotografía, huellas decadactilares, registro de ADN, estudios técnicos interdisciplinarios, datos de procesos penales y demás información necesaria para la integración del Registro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
+
 ###### Artículo 240.
 
-El Registro de Información Penitenciaria será administrado por la Fiscalía General y desarrollará las siguientes funciones:
+El Registro de Información Penitenciaria será administrado por la Secretaría y desarrollará las siguientes funciones:
 
 I. Almacenar, concentrar, conservar y mantener actualizada la información relativa a procesados y sentenciados a que se refiere el artículo anterior, incluyendo características criminales, medios de identificación, recursos y modos de operación.
 
@@ -2977,11 +3037,15 @@ II. Enviar de manera permanente al Sistema Único de Información Criminal, la i
 
 III. Diseñar e instrumentar la estadística penitenciaria relativa a los procesados y sentenciados, por razón del fuero, género, ingresos y egresos, delito, origen étnico, lugar de nacimiento, municipio y estado a que pertenezcan, lugar en que sucedieron los hechos por los que fue procesado o sentenciado y niveles de escolaridad, entre otros.
 
-IV. Las demás que le establezcan otras disposiciones legales o el Fiscal General del Estado.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+
+IV. Las demás que le establezcan otras disposiciones legales o la persona titular de la Secretaría.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### Artículo 241.
 
-La Fiscalía General dictará los acuerdos, criterios y lineamientos necesarios para el desarrollo, administración, ingreso, suministro y consulta de información del Registro de Información Penitenciaria.
+La Secretaría dictará los acuerdos, criterios y lineamientos necesarios para el desarrollo, administración, ingreso, suministro y consulta de información del Registro de Información Penitenciaria.
 
 ###### Artículo 242.
 
@@ -3133,9 +3197,11 @@ Durante el tiempo que estuvieren en servicio, los Integrantes de las Institucion
 
 #### SECCIÓN SEXTA. DE LA ESTADÍSTICA DE SEGURIDAD PÚBLICA
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+
 ###### Artículo 264.
 
-La Fiscalía General establecerá los instrumentos de acopio de datos que permitan analizar la incidencia criminológica y, en general, la problemática de seguridad pública en el Estado, para la planeación e implementación de programas y acciones, así como para la evaluación de sus resultados.
+La Fiscalía General y la Secretaría establecerán los instrumentos de acopio de datos que permitan analizar la incidencia criminológica y, en general, la problemática de seguridad pública en el Estado, para la planeación e implementación de programas y acciones, así como para la evaluación de sus resultados.
 
 ###### Artículo 265.
 
@@ -3329,9 +3395,11 @@ El servicio tendrá comunicación directa con las Instituciones de Seguridad Pú
 
 Para mejorar el servicio de Seguridad Pública, los órganos del Sistema Estatal promoverán la participación de la comunidad en la evaluación de las políticas y de las Instituciones de Seguridad Pública, así como en la formulación de propuestas de medidas específicas y acciones concretas.
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+
 ###### Artículo 295.
 
-Sin menoscabo de lo previsto por el artículo 20 constitucional y leyes aplicables, el Estado, por conducto de la Fiscalía General, establecerá programas y acciones de fomento a la cultura de la denuncia.
+Sin menoscabo de lo previsto por el artículo 20 constitucional y lo previsto por las leyes aplicables, el Estado, por conducto de la Fiscalía General y de la Secretaría, establecerá programas y acciones de fomento a la cultura de la denuncia.
 
 ## TÍTULO OCTAVO. DE LOS SERVICIOS DE SEGURIDAD PRIVADA
 
@@ -3355,7 +3423,7 @@ Los particulares autorizados para prestar servicios de seguridad privada, así c
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### Artículo 298.
 
@@ -3365,9 +3433,11 @@ Para efectos de esta Ley, se consideran instalaciones estratégicas a los espaci
 
 El Estado y los municipios coadyuvarán con las instancias federales competentes en la protección y vigilancia de las instalaciones estratégicas, así como para garantizar su integridad y operación.
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+
 ###### Artículo 300.
 
-La Fiscalía General se coordinará con la Federación para el ejercicio de la función a que se refiere el artículo anterior, así como para garantizar la seguridad perimetral y el apoyo operativo en caso necesario.
+La Fiscalía General y la Secretaría se coordinarán con la Federación para el ejercicio de la función a que se refiere el artículo anterior, así como para garantizar la seguridad perimetral y el apoyo operativo en caso necesario.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2016)</small>
 
@@ -3379,7 +3449,9 @@ La Fiscalía General se coordinará con la Federación para el ejercicio de la f
 
 ###### Artículo 301.
 
-El registro para acreditar a las personas que se dediquen a cuidar o vigilar los vehículos automotores estacionados en las vías públicas, estará a cargo de la Fiscalía General del Estado.
+El registro para acreditar a las personas que se dediquen a cuidar o vigilar los vehículos automotores estacionados en las vías públicas, estará a cargo de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2016)</small>
 
 Para tales efectos, se deberá extender gratuitamente una identificación que contendrá el número de registro que lo acredite como persona debidamente inscrita, así como la zona asignada por la autoridad; debiendo ser renovada cada año.
 
@@ -3391,7 +3463,9 @@ Las personas durante el desarrollo de la actividad para cuidar o vigilar los veh
 
 I. Portar la identificación con fotografía de forma visible y permanente.
 
-II. Utilizar el chaleco de seguridad con las especificaciones que para tales efectos expida la Fiscalía, que invariablemente deberá contener como mínimo un número telefónico para reportar alguna irregularidad.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+
+II. Utilizar el chaleco de seguridad con las especificaciones que para tales efectos expida la Secretaría, que invariablemente deberá contener como mínimo un número telefónico para reportar alguna irregularidad.
 
 III. Ejercer la actividad en el lugar o lugares indicados por la autoridad.
 
@@ -3856,3 +3930,55 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los ayuntamientos tendrán un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, para elaborar la reglamentación que sustente el procedimiento de designación de las vocalías referidas en el último párrafo del artículo 194 de la Ley del Sistema Estatal de Seguridad Pública.
+
+P.O. 1 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/0641/2019 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO, LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA Y LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará (sic) al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las atribuciones y referencias que se hagan a la Fiscalía General del Estado, que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias otorgadas en este Decreto a la Secretaría de Seguridad Pública, se entenderán referidas a esa Secretaría.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Seguridad Pública conforme al mismo, continuarán su despacho por esta Secretaría, conforme a las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO CUARTO.
+
+A la entrada en vigor del presente Decreto, todos los recursos humanos, materiales y financieros que formen parte de la Comisión Estatal de Seguridad, así como de los órganos cuyas atribuciones sean competencia de la Secretaría de Seguridad Pública, se integrarán a la misma.
+
+Las y los servidores públicos adscritos a la Fiscalía General del Estado que pasen a formar parte de la Secretaría de Seguridad Pública en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo Estatal realizará las adecuaciones reglamentarias y administrativas necesarias a efecto de operar la Secretaría de Seguridad Pública, con las áreas previstas para su conformación.
+
+###### ARTÍCULO SEXTO.
+
+El Ejecutivo Estatal realizará las adecuaciones, reasignaciones y transferencias de las partidas presupuestales asignadas a la Fiscalía, a fines de seguridad pública y las correspondientes al desempeño de sus funciones y facultades.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Fiscalía General del Estado, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o moral, serán asumidos por la dependencia que corresponda conforme a las previsiones previstas en el presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las referencias hechas a la Comisión Estatal de Seguridad, se entenderán realizadas a la Secretaría de Seguridad Pública.
+
+###### ARTÍCULO OCTAVO.
+
+La Fiscalía General del Estado, la Secretaría de Seguridad Pública y la Secretaría General de Gobierno realizarán los trámites de entrega recepción que correspondan para transmitir los documentos, archivos u otros bienes relativos a las atribuciones reformadas mediante el presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Las autorizaciones efectuadas a la Fiscalía General del Estado en el Decreto No. LXVI/AUOBF/0397/2019 I P.O. publicado en el Periódico Oficial del Estado el 30 de octubre de 2019, se entenderán efectuadas a la Secretaría de Seguridad Pública a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Los estudios validados por el Instituto Estatal de Seguridad Pública, así como los Acuerdos de Reconocimiento de Validez Oficial de Estudios, continuarán su vigencia hasta en tanto se realicen las modificaciones ante la instancia correspondiente.
+
+###### ARTÍCULO UNDÉCIMO.
+
+En un plazo no mayor a seis meses, contados a partir de la entrada en vigor del presente Decreto, se elaborará la Ley Orgánica de la Secretaría de Seguridad Pública con la participación de la Comisión Primera de Gobernación y Puntos Constitucionales del H. Congreso del Estado y personas especialistas en la materia.
