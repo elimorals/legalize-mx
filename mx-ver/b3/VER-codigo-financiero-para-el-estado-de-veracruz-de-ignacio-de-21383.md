@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2019-07-02"
+last_updated: "2020-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE ENERO DE 2020.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -2065,9 +2065,9 @@ Cuando en los supuestos anteriores el premio ofrecido se encuentre contenido de 
 
 Tratándose de igual manera de los supuestos referidos anteriormente en los que los participantes obtengan dicha calidad, incluso a título gratuito, por el hecho de adquirir un bien o contratar un servicio, recibiendo para ello un comprobante, se considerará como valor el monto total nominal por el que se entregue cada comprobante que otorgue el derecho a participar, conforme a las condiciones establecidas en el permiso otorgado por la autoridad competente. Cuando además de adquirir un bien o contratar un servicio, se pague una cantidad adicional para participar en la actividad de que se trate, el impuesto además de calcularse en los términos ya señalados también se calculará sobre dicha cantidad;
 
-> <small>(REFORMADA, G.O. 2 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
 
-II. Para los sujetos señalados en la fracción II del artículo 119, el impuesto se determinará aplicando la tasa del 6% a la base correspondiente, y
+II. Para los sujetos señalados en la fracción II del artículo 119, el impuesto se determinará aplicando la tasa del 6% a la base correspondiente, en este supuesto no se aplicará el Impuesto Adicional para el Fomento de la Educación, y
 
 > <small>(ADICIONADA [N. DE E. CON TRES PÁRRAFOS], G.O. 2 DE JULIO DE 2019)</small>
 
@@ -5842,3 +5842,9 @@ Primero. El presente Decreto entrará en vigor al siguiente día de su publicaci
 Segundo. La Secretaría de Educación deberá emitir los lineamientos a que se refiere este Decreto dentro de los treinta días hábiles siguientes al inicio de su vigencia.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 2 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 528 QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 121 DEL CÓDIGO FINANCIERO PARA EL ESTADO DE VERACRUZ”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
