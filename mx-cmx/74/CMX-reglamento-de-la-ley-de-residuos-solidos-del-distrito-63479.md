@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-residuos-solidos-del-distrito-63479"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-07"
-last_updated: "2008-12-23"
+last_updated: "2020-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63479&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-09-29"
 
 REGLAMENTO DE LA LEY DE RESIDUOS SOLIDOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE ENERO DE 2020.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 7 de octubre de 2008.
 
@@ -44,7 +44,9 @@ El presente ordenamiento es de orden público e interés general y tiene por obj
 
 Para efectos de este Reglamento se considerarán las definiciones contenidas en la Ley de Residuos Sólidos del Distrito Federal y las siguientes:
 
-I. Áreas públicas: Los espacios físicos, destinados al uso general de los habitantes del Distrito Federal, tales como vialidades, corredores comerciales, ejes viales, avenidas, áreas verdes, áreas deportivas y recreativas, puentes peatonales y vehiculares;
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+I. Áreas públicas: Los espacios físicos, destinados al uso general de los habitantes de la Ciudad de México, tales como vialidades, corredores comerciales, ejes viales, avenidas, áreas verdes, áreas deportivas y recreativas, puentes peatonales, bajo puentes y puentes vehiculares;
 
 II. Áreas comunes: Son aquéllas que pertenecen en forma pro indiviso a los condóminos y cuyo uso está regulado por la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal, su Reglamento, así como la escritura constitutiva del condominio;
 
@@ -54,11 +56,17 @@ IV. Camellón: Espacio público que divide una calle o avenida longitudinalmente
 
 V. Caracterización: Determinación cualitativa y cuantitativa de los residuos sustentada en sus propiedades físicas, químicas y biológicas, que sirve para establecer los posibles efectos adversos a la salud y al ambiente;
 
+> <small>(ADICIONADA, G.O. 2 DE ENERO DE 2020)</small>
+
+V Bis. Certificación: procedimiento por el cual se asegura que un producto, proceso, sistema o servicio se ajusta a las normas o lineamientos o recomendaciones de organismos nacionales o internacionales dedicados a la normalización;
+
 VI. Comisión: Comisión para la Gestión Integral de Residuos Sólidos de la Ciudad de México;
 
 VII. Contaminación de suelo: La acumulación en el suelo de residuos sólidos que, por sus características, impliquen riesgo de daños a la salud humana y al ambiente;
 
-VIII. Contenedor diferenciado: Recipiente destinado al depósito temporal de los residuos orgánicos o inorgánicos;
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+VIII. Contenedor: Recipiente destinado al depósito temporal de los residuos de manera diferenciada;
 
 IX. Embalaje: Cubierta o envoltura que protege los objetos o productos que se van a transportar, almacenar y/o comercializar;
 
@@ -74,6 +82,10 @@ XIV. Establecimiento mercantil: Local ubicado en un inmueble donde una persona f
 
 XV. Establecimientos de servicios: Son aquéllos donde se desarrollan actividades que no sean consideradas por la ley como de enajenación o goce temporal de bienes;
 
+> <small>(ADICIONADA, G.O. 2 DE ENERO DE 2020)</small>
+
+XV Bis. Fuente Fija: los establecimientos industriales, mercantiles y de servicios, y los espectáculos públicos, ubicados o realizados, según corresponda, en la Ciudad de México, que emitan residuos o contaminantes al ambiente;
+
 XVI. Generador: Persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo;
 
 XVII. Generación eventual: Residuos sólidos o de manejo especial producidos por un evento o contingencia;
@@ -82,21 +94,65 @@ XVIII. Humus: Conjunto de materias orgánicas descompuestas o en proceso de tran
 
 XIX. Ley: La Ley de Residuos Sólidos del Distrito Federal;
 
+> <small>(ADICIONADA, G.O. 2 DE ENERO DE 2020)</small>
+
+XIX Bis. Lineamientos del RAMIR: Instrumento jurídico emitido por la Secretaría que regula los mecanismos y procedimientos aplicables al RAMIR;
+
 XX. Mobiliario urbano: Elementos urbanos complementarios que sirven de apoyo a la infraestructura y al equipamiento, reforzando la imagen de la ciudad, tales como fuentes, bancas, botes de basura, macetas, señalamientos, nomenclatura, entre otros. Por su función pueden ser fijos, permanentes y móviles o temporales;
 
-XXI. Nutrientes: Elementos químicos necesarios para el crecimiento y desarrollo de las plantas, animales y seres humanos;
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
 
-XXII. Papelera: Recipiente para depositar residuos sólidos, colocados en la vía y áreas públicas;
+XXI. Nutrientes: Elementos químicos necesarios para mantener la calidad y salud del suelo, el crecimiento y desarrollo de las plantas, animales y seres humanos;
+
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+XXII. Plástico Compostable: Plástico susceptible a degradarse biológicamente produciendo dióxido de carbono, agua, compuestos inorgánicos y biomasa a la misma velocidad que el resto de materia orgánica que se está compostando con éste, sin dejar residuos tóxicos visibles o distinguibles.
+
+> <small>(ADICIONADA, G.O. 2 DE ENERO DE 2020)</small>
+
+XXII Bis. Plásticos reutilizables: Son los concebidos o diseñados para lograr ser utilizados múltiples veces, dentro de su vida útil con el mismo u otro propósito con que fueron diseñados;
+
+> <small>(ADICIONADA, G.O. 2 DE ENERO DE 2020)</small>
+
+XXII Ter. Prestadores de Servicios para el manejo de residuos: Personas físicas o morales que cuentan con el respectivo permiso, licencia o autorización otorgado por la Secretaría, para cualquiera de las siguientes actividades: recolectar, transportar, acopiar, almacenar, tratar y/o reciclar residuos sólidos;
 
 XXIII. Procuraduría: Procuraduría Ambiental y del Ordenamiento Territorial;
 
-XXIV. Residuos de la construcción: Materiales, productos o subproductos generados durante las actividades de demolición, ampliación, remodelación, modificación o construcción tanto pública como privada; así como el producto proveniente de la excavación cuando este se haya alterado en sus condiciones físicas, químicas y biológicas originales;
+> <small>(ADICIONADA, G.O. 2 DE ENERO DE 2020)</small>
 
-XXV. Responsiva: Declaración de responsabilidad de generación y traslado de los residuos sólidos urbanos o residuos sólidos no peligrosos de manejo especial que deberá entregarse por cada lote de residuos en el relleno sanitario autorizado para su disposición final, que establezca la cadena de custodia de los mismos, describiendo el o los tipos de residuos, proceso que los generó cantidad en peso o volumen y los datos y firmas del generador y del transportista;
+XXIII Bis. Punto limpio: Es un área itinerante, previamente seleccionada y destinada para la recepción de residuos sólidos urbanos y de manejo especial que se generan en los domicilios, para que éstos no sean depositados en otros contenedores que se encuentran situados en las calles;
 
-XXVI. Secretaría: Secretaría del Medio Ambiente del Gobierno del Distrito Federal;
+> <small>(ADICIONADA, G.O. 2 DE ENERO DE 2020)</small>
 
-XXVII. Secretaría de Obras: Secretaría de Obras y Servicios; y
+XXIII Ter. RAMIR: Registro y autorización para el manejo integral de los residuos, que emite la Secretaría a los establecimientos mercantiles, de servicios y/o unidades de transporte de residuos sólidos urbanos y/o de manejo especial que operen y transiten en la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+XXIV. Residuos de la construcción y demolición: Materiales, productos o subproductos generados durante las actividades de demolición, ampliación, remodelación, modificación o construcción tanto pública como privada; así como el producto proveniente de la excavación cuando este se haya alterado en sus condiciones físicas, químicas y biológicas originales;
+
+> <small>(ADICIONADA, G.O. 2 DE ENERO DE 2020)</small>
+
+XXIV Bis. Residuo plástico de bajo potencial de aprovechamiento: Es el residuo de material plástico que no es susceptible de ser incorporado en un sistema de reúso, reciclaje y/o valorización;
+
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+XXV. Responsiva: Declaración de responsabilidad de generación y traslado de los residuos sólidos urbanos o residuos sólidos no peligrosos de manejo especial que deberá entregarse por cada lote de residuos en el sitio autorizado para su manejo y disposición final, que establezca la cadena de custodia de éstos, describiendo el o los tipos de residuos, proceso que los generó, cantidad en peso o volumen, y los datos y firmas del generador y del transportista;
+
+> <small>(ADICIONADA, G.O. 2 DE ENERO DE 2020)</small>
+
+XXV Bis. Reutilizable: es la característica que permite volver a utilizar los bienes o productos, darles un uso igual o diferente a aquel para el que fueron concebidos.
+
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+XXVI. Secretaría: Secretaría del Medio Ambiente del Gobierno de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+XXVII. Secretaría de Obras: Secretaría de Obras y Servicios del Gobierno de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 2 DE ENERO DE 2020)</small>
+
+XXVII Bis. Sistema de reúso: Es el conjunto de actividades organizacionales, técnicas, o financieras, que aseguren la posibilidad de reúso, en un circuito cerrado, abierto o híbrido; y
 
 XXVIII. Vía pública: Todo espacio terrestre de uso común delimitado por los perímetros de las propiedades y que esté destinado al tránsito de peatones y vehículos, así como a la prestación de servicios públicos y colocación de mobiliario urbano.
 
@@ -114,33 +170,51 @@ II. Organizar la gestión integral de los residuos sólidos y la disminución de
 
 III. Establecer los mecanismos adecuados para garantizar la incorporación de los costos ambientales producidos desde la generación de los residuos sólidos hasta su disposición final, incluyendo el resto de las etapas de su manejo;
 
-IV. Valorizar los residuos sólidos para su reutilización o reciclaje;
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
 
-V. Involucrar a todos los actores en la minimización y mejor manejo de los residuos sólidos;
+IV. Valorizar los residuos sólidos para su aprovechamiento.
+
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+V. Involucrar a todos los actores en la minimización, en el aprovechamiento y manejo integral de los residuos sólidos;
 
 VI. Asegurar la corresponsabilidad de toda persona o ente público respecto de las afectaciones al medio ambiente o salud pública derivadas de la generación y manejo de los residuos sólidos;
 
-VII. Establecer mecanismos de difusión a la ciudadanía respecto de los procesos de generación y manejo de residuos sólidos tendientes a prevenir y disminuir los efectos negativos en el medio ambiente y la salud pública; y
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+VII. Establecer mecanismos de difusión a la ciudadanía respecto de los procesos de generación, separación adecuada y manejo de residuos sólidos tendientes a prevenir y disminuir los efectos negativos en el medio ambiente y la salud pública; y
 
 VIII. Realizar diagnósticos ambientales y urbanos de carácter estratégico en proyectos públicos y privados de alto impacto ambiental y del ordenamiento territorial en materia de manejo y gestión integral de residuos sólidos.
 
 ### CAPÍTULO II. DE LOS PROGRAMAS
 
-###### Artículo 4º.
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
-Para la elaboración del Programa de Gestión Integral de los Residuos Sólidos, la Secretaría en coordinación con la Secretaría de Obras elaborará un documento base en el ámbito de sus respectivas competencias, mismo que someterá a consideración de las Delegaciones y de la Comisión, quienes tendrán un plazo de quince días naturales para remitir por escrito su opinión a la Secretaría. De no emitir la opinión correspondiente, se entenderá que no tienen observaciones al respecto.
+###### Artículo 4°.
 
-En ningún caso, las opiniones o recomendaciones propuestas por las Delegaciones o las Dependencias y Entidades que integran la Comisión tendrán carácter vinculatorio respecto del contenido final del Programa.
+Para la elaboración del Programa de Gestión Integral de los Residuos Sólidos, la Secretaría en coordinación con la Secretaría de Obras elaborará un documento base en el ámbito de sus respectivas competencias, mismo que someterá a consideración de las Alcaldías y de la Comisión, quienes tendrán un plazo de quince días naturales para remitir por escrito su opinión a la Secretaría. De no emitir la opinión correspondiente, se entenderá que no tienen observaciones al respecto.
 
-###### Artículo 5º.
+En ningún caso, las opiniones o recomendaciones propuestas por las Alcaldías o las Dependencias y Entidades que integran la Comisión tendrán carácter vinculatorio respecto del contenido final del Programa.
 
-El Programa de Gestión Integral de los Residuos Sólidos será revisado y actualizado en su totalidad cada cinco años, y podrá ser modificado cuando lo considere conveniente la Secretaría o la Secretaría de Obras; o bien, cuando se trate de variaciones en la instrumentación de alguno de los subprogramas existentes o la inclusión de un nuevo subprograma que coadyuve al manejo integral de los residuos, siguiendo el mismo procedimiento establecido en el artículo 4º del presente ordenamiento.
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
+###### Artículo 5°.
+
+El Programa de Gestión Integral de los Residuos Sólidos será revisado y actualizado cada cinco años, y podrá ser modificado cuando lo considere conveniente la Secretaría o la Secretaría de Obras; o bien, cuando se trate de variaciones en la instrumentación de alguno de los subprogramas existentes o la inclusión de un nuevo subprograma, normas o lineamientos que coadyuven al manejo integral de los residuos, siguiendo el mismo procedimiento establecido en el artículo 4° del presente ordenamiento.
+
+> <small>(ADICIONADO, G.O. 2 DE ENERO DE 2020)</small>
+
+###### Artículo 5° Bis.
+
+El Programa de Gestión Integral de los residuos sólidos deberá considerar los indicadores de reciclaje y/o valorización, así como la infraestructura contemplada e instalada para tales propósitos.
 
 ###### Artículo 6º.
 
 El Programa para la Prestación del Servicio Público de Limpia de la competencia de la Secretaría de Obras, será elaborado con base en los lineamientos contenidos en el Programa de Gestión Integral de los Residuos Sólidos y contendrá, entre otros aspectos:
 
-I. El listado de las vialidades y áreas públicas en las que se prestará el servicio de barrido manual y mecánico, así como el retiro de residuos sólidos de la vía pública;
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+I. El listado de las vialidades y áreas públicas en las que se prestará el servicio de barrido manual y mecánico, así como el retiro de residuos sólidos de la vía pública debidamente georreferenciados;
 
 II. Los programas de recepción de residuos en estaciones de transferencia, plantas de selección y aprovechamiento, plantas de tratamiento y sitios de disposición final, especificando los horarios, días y tipos de residuos a recibir;
 
@@ -152,15 +226,23 @@ V. Programas de capacitación y adiestramiento del personal de la Secretaría de
 
 VI. Las especificaciones técnicas para la adquisición de infraestructura y equipamiento requerido para la prestación del servicio público de limpia.
 
-###### Artículo 7º.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ENERO DE 2020)</small>
 
-Los Programas delegacionales para la prestación del servicio público de limpia serán elaborados con base en los lineamientos contenidos en el Programa de Gestión Integral de los Residuos Sólidos y contendrán, entre otros aspectos:
+###### Artículo 7°.
 
-I. El listado de las vialidades y áreas públicas en las que se prestará el servicio de barrido manual y mecánico, así como el retiro de residuos sólidos;
+Los Programas de las Alcaldías para la prestación del servicio público de limpia serán elaborados con base en los lineamientos contenidos en el Programa de Gestión Integral de los Residuos Sólidos y contendrán, entre otros aspectos:
 
-II. Los programas de instalación y mantenimiento de contenedores y papeleras en la vía y áreas públicas;
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
 
-III. La relación de las rutas establecidas para la recolección domiciliaria de residuos sólidos describiendo y, en su caso, georreferenciando: los tramos de las vialidades atendidas y su localización en los planos o imágenes aéreas delegacionales, señalando las modalidades de la recolección separada, incluyendo frecuencias, paradas, horarios, equipos y la descripción necesaria para que la ciudadanía pueda depositar sus residuos sólidos en los vehículos recolectores;
+I. El listado de las vialidades y áreas públicas en las que se prestará el servicio de barrido manual y mecánico, así como el retiro de residuos sólidos debidamente georreferenciadas; (sic)
+
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+II. Los programas de instalación y mantenimiento de contenedores en la vía y áreas públicas;
+
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+III. La relación de las rutas establecidas para la recolección domiciliaria de residuos sólidos describiendo y, georreferenciando: los tramos de las vialidades atendidas y su localización en los planos o imágenes aéreas de las alcaldías, señalando las modalidades de la recolección separada, incluyendo frecuencias, paradas, horarios, equipos y la descripción necesaria para que la ciudadanía pueda depositar sus residuos sólidos en los vehículos recolectores;
 
 IV. La infraestructura de destino, estaciones de transferencia, plantas de selección y aprovechamiento, plantas de tratamiento o sitios de disposición final, de cada ruta o vehículo en la que se le autoriza depositar los residuos sólidos en común acuerdo con la Secretaría de Obras;
 
@@ -176,19 +258,29 @@ IX. El Programa de capacitación y adiestramiento de los responsables de los est
 
 X. El Programa de capacitación y adiestramiento de los generadores de los residuos sólidos de las colonias, fraccionamientos y unidades habitacionales establecidas en sus demarcaciones territoriales para la clasificación y separación de los residuos sólidos desde la fuente de origen; y
 
-XI. Difusión del programa de separación de residuos en las colonias, fraccionamientos y unidades habitacionales establecidas en sus demarcaciones territoriales.
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
 
-###### Artículo 8º.
+XI. Difusión continua o emergente del programa de separación de residuos en las colonias, fraccionamientos y unidades habitacionales establecidas en sus demarcaciones territoriales.
 
-El Programa para la prestación del servicio público de limpia de la Secretaría de Obras y los programas delegacionales respectivos serán revisados y, en su caso, modificados cuando menos cada cinco años, debiendo ser publicados en la Gaceta Oficial del Distrito Federal.
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
+###### Artículo 8°.
+
+El Programa para la prestación del servicio público de limpia de la Secretaría de Obras y los programas de las alcaldías respectivos serán revisados y, en su caso, modificados y publicados en la Gaceta Oficial de la Ciudad México al año posterior a la entrada en vigencia del Programa de Gestión Integral de los Residuos Sólidos.
 
 ### CAPÍTULO III. DE LAS NORMAS AMBIENTALES PARA EL DISTRITO FEDERAL
 
-###### Artículo 9º.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ENERO DE 2020)</small>
 
-La elaboración, aprobación y expedición de las normas ambientales en materia de gestión integral de residuos atenderá a lo establecido en la Ley Ambiental del Distrito Federal, en la Ley, en el presente ordenamiento, así como en las demás disposiciones jurídicas aplicables y deberán atender por lo menos a los siguientes aspectos:
+###### Artículo 9°.
+
+La elaboración, aprobación y expedición de las normas ambientales en materia de gestión integral de residuos atenderá a lo establecido en la Ley Ambiental de Protección a la Tierra en el Distrito Federal, en la Ley, en el presente ordenamiento, así como en las demás disposiciones jurídicas aplicables y deberán atender por lo menos a los siguientes aspectos:
 
 I. Generación;
+
+> <small>(ADICIONADA, G.O. 2 DE ENERO DE 2020)</small>
+
+I Bis. Separación;
 
 II. Operación;
 
@@ -214,11 +306,19 @@ XII. Minimización;
 
 XIII. Reutilización;
 
-XIV. Condiciones de seguridad, requisitos y limitaciones en el manejo de residuos sólidos que presenten riesgo para el ser humano, el equilibrio ecológico y el medio ambiente; y
+> <small>(ADICIONADA, G.O. 2 DE ENERO DE 2020)</small>
+
+XIII Bis. Compostaje;
+
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+XIV. Condiciones de seguridad, criterios y lineamientos de producción y consumo sustentable, requisitos y limitaciones en el manejo de residuos sólidos que presenten riesgo para el ser humano, el equilibrio ecológico y el medio ambiente; y
 
 XV. Las demás que se relacionen con la gestión y manejo integral de residuos sólidos.
 
-La Secretaría podrá solicitar opinión de las dependencias y/o entidades que considere necesarias para la integración de las normas ambientales a que se refiere el presente artículo, de conformidad con lo previsto en el Título III, Capítulo V, de la Ley Ambiental del Distrito Federal y demás disposiciones aplicables en materia de normalización.
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
+La Secretaría podrá solicitar opinión de las dependencias y/o entidades que considere necesarias para la integración de las normas ambientales a que se refiere el presente artículo, de conformidad con lo previsto en el Título III, Capítulo V, de la Ley Ambiental de Protección a la Tierra en el del Distrito Federal y demás disposiciones aplicables en materia de normalización.
 
 ### CAPÍTULO IV. DE LA CULTURA, INVESTIGACIÓN Y EDUCACIÓN AMBIENTAL
 
@@ -226,11 +326,17 @@ La Secretaría podrá solicitar opinión de las dependencias y/o entidades que c
 
 Las autoridades ambientales, en materia de gestión integral de residuos sólidos, en el ámbito de su competencia promoverán:
 
-I. Que las instituciones de educación en todos sus niveles incorporen en sus programas de enseñanza temas relacionados con la gestión integral de residuos sólidos;
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
 
-II. El fortalecimiento de una cultura ambiental en materia de gestión integral de residuos sólidos con participación corresponsable;
+I. Que las instituciones de educación en todos sus niveles incorporen en sus programas de enseñanza temas relacionados con la gestión integral de residuos sólidos, fomentando el cuidado del ambiente y la prevención en la generación de los residuos a través del consumo responsable, así como la separación en la fuente para su valorización;
 
-III. Programas de capacitación en materia de gestión integral de residuos sólidos;
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+II. El fortalecimiento de una cultura ambiental corresponsable en materia de consumo sustentable y gestión integral de residuos sólidos;
+
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+III. Programas de capacitación en materia de gestión integral de residuos sólidos fomentando el cuidado del ambiente y el consumo responsable, separación en fuente de los residuos para su valorización;
 
 IV. La incorporación de contenidos en materia de gestión integral de residuos sólidos en los programas de las comisiones mixtas de seguridad e higiene en coordinación con las autoridades ambientales competentes;
 
@@ -240,21 +346,29 @@ VI. Orientar y asesorar a la población, Dependencias, Entidades y Órganos Desc
 
 VII. Concertar con organismos nacionales e internacionales, así como con instituciones educativas y centros de investigación, la realización de acciones vinculadas con la gestión integral de residuos.
 
+> <small>(ADICIONADA, G.O. 2 DE ENERO DE 2020)</small>
+
+VIII. Concertar con el sector privado acciones conjuntas de difusión y cultura ambiental para la gestión integral de residuos.
+
 ## TÍTULO TERCERO. DE LA PREVENCIÓN Y MINIMIZACIÓN DE LA GENERACIÓN DE LOS RESIDUOS SÓLIDOS
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 11.
 
-La propiedad y responsabilidad del manejo de los residuos sólidos corresponde al generador, la cual sólo se transfiere a la Secretaría de Obras, a la Delegación o a las personas físicas o morales autorizadas, según corresponda, al momento de depositarlos en los contenedores o papeleras dispuestas para el efecto o en los sitios autorizados por la autoridad competente, o bien, al entregarlos al servicio de limpia y recolección, siempre que ello se ajuste a los lineamientos señalados en los Programas de Prestación del Servicio Público de Limpia de competencia de la Secretaría de Obras y de las Delegaciones y se trate de residuos sólidos separados.
+La propiedad y responsabilidad del manejo de los residuos sólidos corresponde al generador, la cual sólo se transfiere a la Secretaría de Obras, a la Alcaldía o a los prestadores de servicios para el manejo de residuos, según corresponda, al momento de depositarlos en los contenedores dispuestos para el efecto o en los sitios autorizados por la autoridad competente, o bien, al entregarlos al servicio de limpia y recolección o a los prestadores de servicios para el manejo de residuos, siempre que ello se ajuste a lo señalado en la Ley, en el presente reglamento y en los Programas de Prestación del Servicio Público de Limpia de competencia de la Secretaría de Obras y de las Alcaldías y se trate de residuos sólidos separados.
 
 Quedan exceptuados de la anterior disposición los residuos considerados como peligrosos por la normatividad aplicable en la materia.
 
 ### CAPÍTULO II. PLANES DE MANEJO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 12.
 
-Los establecimientos industriales, mercantiles y de servicios que estén obligados a presentar planes de manejo, de acuerdo a los artículos 22, 23, 32, 55 y 59 de la Ley, se clasificarán con base en las siguientes categorías:
+Las fuentes fijas, que estén obligadas a presentar planes de manejo, de acuerdo a los artículos 22, 23, 32, 55 y 59 de la Ley, se clasificarán con base en las siguientes categorías:
 
 Categoría Volumen y tipo de generación
 
@@ -272,91 +386,181 @@ ERR Empresa que se dedica a reutilizar o
 
 reciclar residuos sólidos.
 
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 13.
 
-Los generadores de residuos obligados a presentar planes de manejo, realizarán el trámite a través de la Secretaría, quien los revisará, evaluará y emitirá, en su caso, la autorización correspondiente.
+Las fuentes fijas generadoras de residuos, así como los prestadores de servicios para el manejo de residuos obligados a presentar planes de manejo, realizarán el trámite a través de los formatos establecidos por la Secretaría, quien los revisará, evaluará y en su caso, emitirá la autorización correspondiente en un plazo de treinta días hábiles una vez recibida la solicitud de autorización o actualización.
+
+Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que la resolución se ha emitido en sentido negativo.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 14.
 
-La Secretaría establecerá y difundirá los formatos de solicitud de autorización de los planes de manejo conforme al tipo de residuo de que se trate y los instructivos para su llenado.
+La Secretaría establecerá y difundirá los formatos de solicitud para la autorización o actualización de los planes de manejo conforme al tipo de residuo de que se trate, así como los instructivos para su llenado.
 
-De acuerdo con la autorización respectiva, el interesado deberá realizar el pago de derechos que establezca el Código Financiero del Distrito Federal por la prestación del servicio de manejo de residuos sólidos en cualquiera de sus etapas.
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 15.
 
-Una vez presentada la solicitud de autorización de los planes de manejo, la Secretaría emitirá la respuesta correspondiente en un plazo no mayor de treinta días hábiles siguientes.
+Las fuentes fijas, sujetas a cumplir con sus obligaciones ambientales a través de la Licencia Ambiental Única y que estén obligadas a presentar planes de manejo, obtendrán la autorización o actualización de este mediante el otorgamiento de la citada licencia o su actualización anual.
 
-Las autorizaciones otorgadas por la Secretaría serán difundidas en términos de lo previsto en la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 16.
 
-Las personas obligadas a presentar planes de manejo deben actualizar anualmente los mismos, haciendo uso de los formatos establecidos, presentando la actualización a través de la Secretaría. El procedimiento debe seguirse conforme a lo establecido en el artículo 13 de este Reglamento.
+Una vez obtenida la autorización del Plan de manejo por parte de la Secretaría, deberá actualizarse anualmente, haciendo uso de los formatos establecidos por la Secretaría, de conformidad con sus obligaciones ambientales, incluyendo las metas alcanzadas en la minimización y valorización de los residuos generados.
 
-Los planes de manejo presentados por generadores de residuos de construcción y aquellos donde las actividades que generen los residuos sean menores a un año, no serán objeto de la actualización.
+El procedimiento debe seguirse conforme a la normatividad aplicable, así como a los procedimientos que se sustancien para la obtención de las licencias, autorizaciones o permisos que se otorguen para los planes de manejo.
+
+Los planes de manejo presentados por generadores de residuos de la construcción y demolición, así como aquellos donde las actividades que generen los residuos se realicen en un tiempo menor a un año, no serán objeto de actualización, a menos que la Secretaría lo considere necesario.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 17.
 
-Los establecimientos industriales, mercantiles y de servicios que tengan por alguna actividad excepcional, una generación eventual de residuos sólidos o de manejo especial en alto volumen deberán presentar su plan de manejo específico en el formato que la Secretaría determine.
+Las fuentes fijas que tengan por alguna actividad excepcional, una generación eventual de residuos sólidos o de manejo especial en alto volumen deberán presentar su plan de manejo específico en el formato que la Secretaría determine.
+
+> <small>(ADICIONADO, G.O. 2 DE ENERO DE 2020)</small>
+
+###### Artículo 17 Bis.
+
+Los planes de manejo autorizados por la Secretaría y que sean reportados en los plazos establecidos en las autorizaciones, licencias, actualizaciones y permisos expedidos a particulares, deberán ser evaluados de conformidad con la normatividad aplicable por órganos certificadores, que para el efecto la Secretaría autorice, con el objeto de garantizar su cumplimiento.
+
+> <small>(ADICIONADO, G.O. 2 DE ENERO DE 2020)</small>
+
+###### Artículo 17 Ter.
+
+Los responsables de aquellos puntos limpios que tengan un alto volumen de residuos sólidos o de manejo especial por alguna actividad excepcional, deberán presentar su plan de manejo específico en el formato que la Secretaría determine.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 18.
 
-En el caso de centros o plazas comerciales y establecimientos mercantiles y de servicios que compartan un mismo inmueble y que manejen en conjunto sus residuos sólidos, podrán presentar un solo plan de manejo, debiendo especificar los establecimientos que intervienen en él.
+Las autoridades, fuentes fijas, así como aquellos que operen en centros o plazas comerciales o que compartan un mismo inmueble, o que operen sobre la base de franquicias o sucursales, podrán presentar un solo plan de manejo, especificando los establecimientos que intervienen en él, mismo que deberá ajustarse a lo establecido en el artículo 19 del presente Reglamento.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 19.
 
-Los establecimientos mercantiles y de servicios que operen sobre la base de franquicias o sucursales, podrán presentar un solo plan de manejo, debiendo indicar quienes intervienen en él y el sitio de destino final de los residuos para cada uno de ellos.
+Los planes de manejo para residuos se podrán establecer en una o más de las siguientes modalidades:
+
+I. Atendiendo a los sujetos que intervienen en ellos, podrán ser:
+
+a) Privados, personas físicas o morales obligados conforme a la Ley a la elaboración, formulación e implementación de un plan de manejo de residuos, o
+
+b) Público, cuando interviene en la elaboración y aplicación las diferentes dependencias de la Administración Pública.
+
+II. Atendiendo al número de los sujetos obligados a su formulación y ejecución, podrán ser:
+
+a) Individuales, cuando interviene en la elaboración y aplicación sólo un sujeto obligado; o
+
+b) Colectivos, cuando intervienen en la elaboración y aplicación varios sujetos obligados.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 20.
 
-La Secretaría podrá verificar en cualquier (sic) la veracidad de la información manifestada en el plan de manejo, mediante la práctica de visitas domiciliarias y/o actos de inspección previstos en la Ley Ambiental del Distrito Federal.
+La Secretaría podrá verificar en cualquier momento la veracidad de la información manifestada en el plan de manejo, mediante la práctica de visitas domiciliarias y/o actos de inspección previstos en la Ley y la Ley Ambiental de Protección a la Tierra en el Distrito Federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 21.
 
-Los planes de manejo de categoría A, B y C deberán contener:
+Los planes de manejo de categoría A, B y C deben contener, además de lo establecido en los formatos que la autoridad determine, los siguientes requisitos:
 
 I. Datos generales del generador, tipo y caracterización de residuos, cantidad generada y proceso que los generó, así como destino(s) y cantidad aprovechada;
 
-II. Datos generales de las empresas o Delegación a las que se les entregan los residuos, especificando: nombre y dirección de cada empresa; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE ENERO DE 2020)</small>
 
-III. Estrategia y calendario de minimización.
+II. Modalidad del plan de manejo;
+
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+III. Datos generales de las empresas prestadoras de servicios o Alcaldía a las que se les entregan los residuos, especificando: nombre y dirección de cada interesado, las cuales deberán contar con autorización de esta Secretaría; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 2 DE ENERO DE 2020)</small>
+
+IV. Estrategia y calendario de minimización, valorización, tratamiento o reciclaje de los residuos manifestados;
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 22.
 
-Los planes de manejo de categoría D deberán contener:
-
-I. Datos generales del generador, tipo y caracterización de residuos, cantidad generada y proceso que los generó, así como destino(s) y cantidad aprovechada; y
-
-II. Datos generales de las empresas o Delegación a las que se les entregan los residuos, especificando: nombre y dirección de cada empresa;
-
-###### Artículo 23.
-
-Los planes de manejo de categoría RE deberán contener:
+Los planes de manejo de categoría D deben contener, además de lo establecido en los formatos que la autoridad determine, los siguientes requisitos:
 
 I. Datos generales del generador, tipo y caracterización de residuos, cantidad generada y proceso que los generó, así como destino(s) y cantidad aprovechada;
 
-II. Datos generales de las empresas a las que se les entregan los residuos, especificando: nombre, destino y dirección de cada empresa;
+II. Modalidad del plan de manejo; y
 
-III. Estrategia y calendario de minimización;
+III. Datos generales de las empresas o Alcaldía a las que se les entregan los residuos, especificando: nombre y dirección de cada empresa las cuales deberán contar con autorización de esta Secretaría.
 
-IV. Diagnóstico y programa de actividades; y
+> <small>(ADICIONADO, G.O. 2 DE ENERO DE 2020)</small>
 
-V. Participantes del plan de manejo.
+###### Artículo 22 Bis.
+
+Los establecimientos generadores pertenecientes a las categorías señaladas en los artículos 21 y 22 del presente Reglamento, que dispongan de sus residuos a través del Servicio Público de Limpia deberán exhibir a la Secretaría el pago por el manejo de los excedentes de los residuos, de conformidad con lo señalado en los artículos 38 de la Ley y 243 del Código Fiscal de la Ciudad de México.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ENERO DE 2020)</small>
+
+###### Artículo 23.
+
+Los planes de manejo de categoría RE deberán contener, además de lo establecido en los formatos que la autoridad determine, los siguientes requisitos:
+
+I. Datos generales del generador, tipo y caracterización de residuos, cantidad generada y proceso que los generó, así como destino(s) y cantidad aprovechada;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE ENERO DE 2020)</small>
+
+II. Modalidad del plan de manejo;
+
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+III. Datos generales de las empresas a las que se les entregan los residuos, especificando: nombre, destino y dirección de cada empresa las cuales deberán contar con autorización de esta Secretaría;
+
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+IV. Estrategia y calendario de minimización, valorización, tratamiento o reciclaje de los residuos manifestados;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 2 DE ENERO DE 2020)</small>
+
+V. Diagnóstico y programa de actividades; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 2 DE ENERO DE 2020)</small>
+
+VI. Participantes del plan de manejo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 24.
 
-Los planes de manejo de categoría ERR deberán contener:
+Los planes de manejo de categoría ERR deberán contener, además de lo establecido en los formatos que la autoridad determine, los siguientes requisitos:
 
 I. Datos generales del generador, tipo de residuos, cantidad generada y proceso que los generó, así como destinos y cantidad aprovechada;
 
-II. Datos de la empresa a la que se entregan los residuos, especificando: nombre, y dirección de la empresa;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE ENERO DE 2020)</small>
 
-III. Tipos y cantidad de residuos (insumos) que reutiliza o recicla;
+II. Modalidad del plan de manejo;
 
-IV. Producto generado del reciclaje;
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
 
-V. Formas de almacenamiento de los residuos (insumo); y
+III. Datos de la empresa a la que se entregan los residuos, especificando: nombre, y dirección de la empresa, la cual deberá contar con autorización de esta Secretaría;
 
-VI. La autorización expedida por la Secretaría de Obras con el número de registro y las condicionantes determinadas.
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 2 DE ENERO DE 2020)</small>
+
+IV. Tipos y cantidad de residuos (insumos) que reutiliza o recicla;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 2 DE ENERO DE 2020)</small>
+
+V. Producto generado del reciclaje;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 2 DE ENERO DE 2020)</small>
+
+VI. Formas de almacenamiento de los residuos (insumo); y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 2 DE ENERO DE 2020)</small>
+
+VII. La autorización expedida por la Secretaría con las condicionantes determinadas, si es el caso.
 
 ###### Artículo 25.
 
@@ -376,7 +580,9 @@ II. El tipo de fuente generadora de residuos sólidos;
 
 III. Generación total;
 
-IV. Tipo de recolección;
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+IV. Tipo de recolección conforme a la normatividad ambiental vigente;
 
 V. Destino de los residuos;
 
@@ -386,19 +592,29 @@ VII. Porcentaje de residuos tratados.
 
 En el caso de los residuos de manejo especial el inventario contendrá su caracterización.
 
-La Secretaría de Obras y las Delegaciones, emitirán la información necesaria para la integración del inventario de residuos sólidos y fuentes generadoras, en el ámbito de sus respectivas competencias.
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
+La Secretaría, la Secretaría de Obras y las Alcaldías, así como las autoridades competentes en la materia, emitirán la información necesaria para la integración del inventario de residuos sólidos y fuentes generadoras, en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 27.
 
-El inventario de residuos sólidos será difundido a través de los medios de difusión que determine la Secretaría, conforme con lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
+El inventario de residuos sólidos será difundido a través de los medios de difusión que determine la Secretaría, conforme con lo dispuesto en la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
 
 ### CAPÍTULO IV. DE LA CLASIFICACIÓN DE LOS RESIDUOS SÓLIDOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 28.
 
-Los bienes a los que se refiere el artículo 23 de la Ley son:
+Los bienes a los que se refiere el artículo 23 de la Ley, sujetos a planes de manejo son:
 
 I. Envases y embalajes de materiales plásticos como tereftalato de polietileno (PET), polietileno de baja y alta densidad (PEBD y PEAD), polipropileno (PP), policloruro de vinilo (PVC), policarbonato (PC) y poliestireno (PS);
+
+> <small>(ADICIONADA, G.O. 2 DE ENERO DE 2020)</small>
+
+I Bis. Los residuos de los productos plásticos de un solo uso susceptibles de ser reciclados, que al terminar su vida útil se conviertan en residuos de manejo especial.
 
 II. Envases multicapas, vidrio y metálicos;
 
@@ -410,7 +626,13 @@ V. Llantas y/o neumáticos;
 
 VI. Grasas y aceites de origen animal y/o vegetal;
 
-VII. Los demás que establezcan en forma conjunta la Secretaría y la Secretaría de Obras y que se publiquen en la Gaceta Oficial del Distrito Federal.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE ENERO DE 2020)</small>
+
+VII. Equipos eléctricos y electrónicos;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 2 DE ENERO DE 2020)</small>
+
+VIII. Los demás que establezcan en forma conjunta la Secretaría y la Secretaría de Obras y que se publiquen en la Gaceta Oficial de la Ciudad de México.
 
 ###### Artículo 29.
 
@@ -442,15 +664,21 @@ II. Los restos de animales que no fueron inoculados con agentes enteropatógenos
 
 III. Los residuos que ya tratados provengan del proceso de tratamiento de residuos peligrosos biológico-infecciosos; y
 
-IV. Los demás que considere la Secretaría y que se publiquen en la Gaceta Oficial del Distrito Federal.
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+IV. Los demás que considere la Secretaría y que se publiquen en la Gaceta Oficial de la Ciudad de México.
 
 ### CAPÍTULO V. DE LA SEPARACIÓN DE LOS RESIDUOS SÓLIDOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 32.
 
-Los residuos sólidos urbanos deberán separarse en orgánicos e inorgánicos.
+Los residuos sólidos urbanos deberán separarse y clasificarse conforme a la normatividad aplicable vigente.
 
-La subclasificación de los residuos orgánicos podrá efectuarse conforme a lo siguiente:
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
+Previendo siempre lo dispuesto en la normatividad aplicable, la subclasificación de los residuos orgánicos podrá efectuarse conforme a lo siguiente:
 
 I. Residuos de jardinería y los provenientes de poda de árboles y áreas verdes;
 
@@ -458,9 +686,17 @@ II. Residuos provenientes de la preparación y consumo de alimentos;
 
 III. Residuos susceptibles de ser utilizados como insumo en la producción de composta;
 
-IV. Los demás que establezcan en forma conjunta la Secretaría y la Secretaría de Obras.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE ENERO DE 2020)</small>
 
-Los residuos inorgánicos se subclasifican en:
+IV. Residuos plásticos que por sus características sean considerados compostables.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 2 DE ENERO DE 2020)</small>
+
+V. Los demás que establezcan en forma conjunta la Secretaría y la Secretaría de Obras.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE ENERO DE 2020)</small>
+
+Previendo siempre lo dispuesto en la normatividad aplicable, los residuos inorgánicos podrán subclasificarse en:
 
 I. Vidrio;
 
@@ -474,7 +710,7 @@ V. Cerámicas;
 
 VI. Artículos de oficina y utensilios de cocina;
 
-VII. Equipos eléctricos y electrónicos;
+VII. (DEROGADA, G.O. 2 DE ENERO DE 2020)
 
 VIII. Ropa y textiles;
 
@@ -484,17 +720,89 @@ X. Otros no considerados como de manejo especial; y
 
 XI. Los demás que establezcan en forma conjunta la Secretaría y la Secretaría de Obras.
 
+> <small>(ADICIONADO, G.O. 2 DE ENERO DE 2020)</small>
+
+###### Artículo 32 Bis.
+
+Los generadores de residuos deberán disponer los residuos sólidos orgánicos en bolsas compostables, evitando en todo momento su mezcla con los residuos inorgánicos.
+
+En aquellos casos que los residuos orgánicos, sean entregados por los generadores en bolsas de plástico no compostables, deberán ser separadas de los residuos orgánicos y ser dispuestas con los residuos inorgánicos.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 33.
 
-Los generadores de residuos sólidos deberán disponer de contenedores diferenciados y aptos para el almacenamiento temporal de los residuos sólidos orgánicos e inorgánicos; así como tomar las prevenciones necesarias para evitar la mezcla de los mismos en la fuente de generación, su almacenamiento temporal o la entrega al servicio de limpia.
+Los generadores de residuos sólidos deberán disponer de contenedores diferenciados y aptos para el almacenamiento temporal de los residuos sólidos conforme a la normatividad vigente; así como tomar las prevenciones necesarias para evitar la mezcla de los mismos en la fuente de generación, su almacenamiento temporal o la entrega al servicio de limpia y/o prestadores de servicios para el manejo de residuos.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 34.
 
-Las Delegaciones deberán separar los residuos orgánicos provenientes de poda y del mantenimiento de parques y jardines y entregarlos separados, libres de residuos inorgánicos, en las estaciones de transferencia, en los horarios que establezca la Secretaría de Obras.
+Las Alcaldías deberán separar los residuos orgánicos provenientes de poda y del mantenimiento de parques y jardines y entregarlos separados de los residuos orgánicos domiciliarios y libres de residuos inorgánicos, en las estaciones de transferencia, en los horarios que establezca la Secretaría de Obras.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 35.
 
-Las Delegaciones y los particulares deberán entregar los residuos separados de acuerdo a lo señalado en el artículo 32 de este Reglamento, para lo cual, la Secretaría de Obras colocará cajas o contenedores específicos para cada tipo de residuo en las estaciones de transferencia.
+Las Alcaldías y los particulares deberán entregar los residuos separados de acuerdo a lo señalado en el artículo 32 de este Reglamento, para lo cual, la Secretaría de Obras colocará cajas o contenedores específicos para cada tipo de residuo en las estaciones de transferencia.
+
+Además, la Secretaría de Obras deberá contar con la infraestructura necesaria para la recepción de residuos de manejo especial conforme a lo establecido en la normatividad vigente.
+
+> <small>(ADICIONADO, G.O. 2 DE ENERO DE 2020)</small>
+
+###### Artículo 35 Bis.
+
+Se considerarán plásticos de un solo uso los señalados explícitamente en el artículo 25, fracción XI Bis de la Ley, además de los que determine la Secretaría a través de la norma ambiental correspondiente
+
+> <small>(ADICIONADO, G.O. 2 DE ENERO DE 2020)</small>
+
+###### Artículo 35 Ter.
+
+De conformidad con el artículo 25 fracción XI Bis de la Ley, queda prohibida la comercialización, distribución y entrega de bolsas de plástico al consumidor, excepto las compostables, siempre y cuando cumplan con las especificaciones de compostabilidad establecidas a través de las normas ambientales que para el efecto se emitan.
+
+Las bolsas compostables deberán integrarse en un plan de manejo que garantice su adecuada gestión y composteo.
+
+Se excluyen de la prohibición referida en el artículo 25 fracción XI Bis de la Ley, las bolsas de plástico necesarias por las siguientes razones:
+
+I. Por higiene para el manejo de residuos, siempre y cuando contengan por lo menos un 50% de material reciclado post-consumo y garanticen ser reciclables en un 100%.
+
+Estas bolsas deberán identificarse, según el tipo de residuos, con los siguientes colores:
+
+a) Verde: Residuos orgánicos
+
+b) Gris: residuos inorgánicos reciclables
+
+c) Naranja: residuos inorgánicos no reciclables
+
+II. Por motivos de inocuidad, salud, salubridad, sanidad, que prevengan el desperdicio de alimentos, uso médico y seguridad de otros productos; siempre y cuando, no tengan una alternativa tecnológicamente viable.
+
+> <small>(ADICIONADO, G.O. 2 DE ENERO DE 2020)</small>
+
+###### Artículo 35 Quáter.
+
+La comercialización, distribución y entregar, bolsas para transportar mercancías: de tela, yute, rafia (tipo costal), plástico tejido o malla, y otras que la Secretaría determine; siempre y cuando sean durables y puedan reutilizarse en múltiples ocasiones, con un contenido mínimo de 50% de material reciclado post-consumo y 100% reciclables.
+
+Estas bolsas deberán estar integradas a un plan de manejo que garantice su retorno a los procesos productivos para su reciclaje.
+
+> <small>(ADICIONADO, G.O. 2 DE ENERO DE 2020)</small>
+
+###### Artículo 35 Quinquies.
+
+Estarán exentos de las prohibiciones señaladas en el artículo 25, fracción XI Bis, párrafos segundo y quinto, de la Ley de Residuos Sólidos del Distrito Federal los productos plásticos siguientes:
+
+I. Los compostables que se integren en un plan de manejo que garantice su adecuada gestión y composteo.
+
+II. Los que se encuentren integrados de origen al producto para brindar higiene en el consumo del mismo.
+
+II. (SIC) Aquellos que, por motivos de inocuidad, salud, salubridad, sanidad, uso médico y seguridad de otros productos, hasta en tanto no exista una alternativa tecnológicamente viable.
+
+III. Aquellos que sean reutilizables, con contenido de material reciclado post-consumo y que sean reciclables, además de los compostables, que se encuentren integrados en un plan de manejo que promueva la reducción de residuos y que fomente su aprovechamiento.
+
+IV. Los demás que se establezcan en la normatividad aplicable.
+
+> <small>(ADICIONADO, G.O. 2 DE ENERO DE 2020)</small>
+
+Artículo 35 Sexties. Los planes de manejo que los productores, comercializadores, distribuidores y generadores instrumenten para el aprovechamiento de los residuos de las bolsas y de los productos plásticos, deberán considerar los mecanismos necesarios y establecer precios de garantía que fomenten e impulsen la recolección y aprovechamiento de estos residuos.
 
 ## TÍTULO CUARTO. DEL SERVICIO PÚBLICO DE LIMPIA
 
@@ -504,19 +812,25 @@ Las Delegaciones y los particulares deberán entregar los residuos separados de 
 
 De acuerdo con lo establecido en el artículo 37 de la Ley, la Administración Pública Central deberá cumplir en la prestación del servicio público de limpia, con las disposiciones de la Ley, su Reglamento, los Programas correspondientes y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 37.
 
-La Secretaría de Obras y las Delegaciones, en el ámbito de sus respectivas competencias, cuidarán que en la prestación del servicio público de limpia a su cargo, no se mezclen los distintos tipos de residuos sólidos separados previamente en la fuente de origen durante su recolección, transferencia o tratamiento.
+La Secretaría de Obras y las Alcaldías, en el ámbito de sus respectivas competencias, cuidarán que, en la prestación del servicio público de limpia a su cargo, no se mezclen los distintos tipos de residuos sólidos separados previamente en la fuente de origen conforme a la normatividad aplicable durante su recolección, transferencia o tratamiento.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 38.
 
-La Secretaría de Obras podrá otorgar concesiones para la prestación del servicio público de limpia a particulares, de conformidad con lo establecido en la Ley, en la Ley del Régimen Patrimonial y del Servicio Público y demás disposiciones aplicables.
+La Secretaría de Obras podrá otorgar concesiones para la prestación del servicio público de limpia a particulares en las vialidades primarias, de conformidad con lo establecido en la Ley, en la Ley del Régimen Patrimonial y del Servicio Público y demás disposiciones aplicables.
 
 ### CAPÍTULO II. DEL BARRIDO Y RECOLECCIÓN DE RESIDUOS SÓLIDOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 39.
 
-Es responsabilidad de las personas físicas y morales mantener limpio de residuos sólidos el (los) frente(s) de sus viviendas, establecimientos industriales, mercantiles o de servicios, en los siguientes casos:
+Es responsabilidad de las personas físicas y morales mantener limpio de residuos sólidos el frente de sus viviendas, establecimientos industriales, comerciales o de servicios, fuentes fijas, en los siguientes casos:
 
 I. En el caso de inmuebles cuya banqueta o frente, incluyendo el límite de ésta, colinde con la vialidad o espacio destinado para el paso de vehículos, la responsabilidad abarca la totalidad de la banqueta o frente;
 
@@ -524,45 +838,55 @@ II. En el caso de inmuebles cuyo frente colinde con andadores peatonales, la res
 
 III. En el caso de inmuebles cuyo frente colinde con áreas públicas o comunes y cuya banqueta no esté claramente identificada, la responsabilidad abarca desde el límite de la propiedad hasta una distancia de diez metros de las áreas públicas o comunes.
 
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 40.
 
-Las papeleras colocadas por la Secretaría de Obras o por las Delegaciones en la vía pública, están reservadas para recibir residuos sólidos generados en la misma vía pública por los transeúntes. Queda prohibido depositar en ellas residuos sólidos generados dentro de inmuebles, producto de actividades domésticas, industriales, comerciales o de servicios de la zona.
+Los contenedores colocados por la Secretaría de Obras o por las Alcaldías en la vía pública, están reservados para recibir residuos sólidos urbanos generados en la misma vía pública por los transeúntes, con excepción de aquellos colocados exclusivamente para la recepción de residuos de manejo especial.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 41.
 
-Las papeleras deberán diferenciarse según el tipo de residuos para los que estén destinados a recibir, identificándose con la leyenda “residuos orgánicos” y “residuos inorgánicos”, preferentemente diferenciados en color verde y color gris, respectivamente. En su diseño y tamaño se tomará en cuenta el volumen de residuo de que se trate.
+Los contenedores deberán diferenciarse según el tipo de residuos para los que estén destinados a recibir, identificándose con la leyenda "residuos orgánicos", "residuos inorgánicos reciclables" y "residuos inorgánicos no reciclables", diferenciados en color verde, color gris y color naranja respectivamente. En su diseño y tamaño se tomará en cuenta el volumen de residuo de que se trate.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 42.
 
-Sin perjuicio de lo previsto en las Normas Ambientales aplicables, para el transporte y depósito de residuos de la construcción, se procederá de la manera siguiente:
+Sin perjuicio de lo previsto en las Normas Ambientales aplicables, para el transporte y depósito de residuos de la construcción y demolición, se procederá de la manera siguiente:
 
-I. La Secretaría de Obras determinará los sitios de recepción de residuos de la construcción;
+I. La Secretaría en coordinación con la Secretaría de Obras determinará los sitios de recepción de residuos de la construcción;
 
-II. Los sitios autorizados expedirán al transportista o a la persona física o moral que deposite residuos de la construcción en su predio, un sello o comprobante del depósito de residuos realizado, mismo que servirá para demostrar el cumplimiento de la obligación señalada en el artículo 26 de la Ley;
+II. Los sitios autorizados expedirán a los prestadores de servicios para el manejo de residuos que depositen residuos de la construcción en su predio, un sello o comprobante del depósito de residuos realizado, mismo que servirá para demostrar el cumplimiento de la obligación señalada en el artículo 26 de la Ley;
 
-III. Los sitios autorizados deberán recibir exclusivamente residuos de la construcción limpios que no contengan residuos sólidos urbanos, otros residuos de manejo especial o peligrosos;
+III. Los sitios autorizados deberán recibir residuos de la construcción y demolición limpios que no contengan residuos sólidos urbanos, otros residuos de manejo especial o peligrosos, considerando las excepciones que determine la autoridad competente;
 
-IV. Las personas físicas o morales que generen o transporten más de 7m3 de residuos al día, deberán solicitar previamente su recepción en las instalaciones o sitios autorizados, especificando en su solicitud los vehículos en que se llevará a cabo el traslado de los residuos y cumpliendo en su caso con el pago de derechos previsto en el Código Financiero del Distrito Federal;
+IV. Las personas físicas o morales que generen y transporten entre 3 y 7 m3 de residuos al día, deberán solicitar previamente su recepción en las instalaciones o sitios autorizados, especificando en su solicitud los vehículos en que se llevará a cabo el traslado de los residuos y cumplir en su caso con el pago de derechos previsto en el Código Fiscal de la Ciudad de México;
 
-V. Los transportistas o la persona física o moral que pretenda depositar residuos de la construcción en el sitio de recepción determinado por la Secretaría de Obras, al momento de acudir al sitio y previo al depósito, deberá entregar al responsable del sitio la carta responsiva correspondiente; y
+V. Los prestadores de servicios para el manejo de residuos que pretendan depositar residuos de la construcción en un sitio autorizado, deberán solicitar previamente su recepción, especificando los vehículos en que se trasladarán los residuos y cumplir, en su caso, con el pago de derechos previsto en el Código Fiscal de la Ciudad de México. Asimismo, deberá entregar al responsable del sitio la carta responsiva correspondiente; y
 
-VI. Las personas físicas o morales que generen o transporten hasta 7m3 de residuos al día, podrán depositar los residuos en los sitios o instalaciones autorizadas, sin previo aviso; tratándose de instalaciones o sitios pertenecientes al Gobierno del Distrito Federal, se deberá realizar el pago de derechos correspondientes, de conformidad con el Código Financiero del Distrito Federal.
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 43.
 
-El pago de las tarifas que deberán cubrir los establecimientos industriales, mercantiles o de servicios por el servicio de recolección, transferencia y disposición final de residuos sólidos, se realizará de conformidad con lo señalado en el artículo 38 de la Ley.
+El pago de las tarifas que deberán cubrir las fuentes fijas por el servicio de recolección, transferencia y disposición final de residuos sólidos generados en alto volumen, se realizará de conformidad con lo señalado en el artículo 38 de la Ley y 243 del Código Fiscal de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 44.
 
-Los vehículos del servicio público de limpia, deberán transportar solamente un tipo de residuos sólidos, de acuerdo a lo establecido en el artículo 32 de este Reglamento y del Programa de recolección selectiva previamente diseñado por la Delegación; o bien, tratarse de vehículos con doble compartimento para evitar que los mismos se mezclen.
+Los vehículos del servicio público de limpia, deberán transportar solamente un tipo de residuos sólidos, de acuerdo a lo establecido en el artículo 32 de este Reglamento y del Programa de recolección selectiva previamente diseñado por la Alcaldía en coordinación con la Secretaría de Obras; o bien, en vehículos con doble compartimento para evitar que los mismos se mezclen.
 
-Al momento de la recolección, los trabajadores de limpia verificarán la separación de los residuos orgánicos de los inorgánicos, con el fin de depositarlos separados en el compartimento correspondiente; o en el caso de recolectar un solo tipo, no recibirlos mezclados.
+Al momento de la recolección, los trabajadores de limpia verificarán la separación con base en la normatividad aplicable vigente, con el fin de depositarlos separados en el compartimento correspondiente; o en el caso de recolectar un solo tipo, no recibirlos mezclados.
 
-La (sic) Delegaciones tendrán a su cargo la recolección de los residuos sólidos en los mercados públicos, paraderos y tianguis de su demarcación, de conformidad con lo previsto en su Programa de Manejo.
+Las Alcaldías tendrán a su cargo la recolección de los residuos sólidos en los mercados públicos, paraderos, tianguis y concentraciones de su demarcación, de conformidad con lo previsto en su Plan de Manejo y su Programa de Limpia.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 45.
 
-En lugares de difícil acceso para los vehículos recolectores del servicio público de limpia, se podrán instalar contenedores en función de la cantidad de residuos que se estime recibir, en la vía o áreas públicas determinadas por las Delegaciones, con compartimentos separados o en su totalidad destinados a recibir cada uno de los tipos de residuos sólidos señalados en el artículo 32 del presente Reglamento.
+En lugares de difícil acceso para los vehículos recolectores del servicio público de limpia, se podrán instalar contenedores en función de la cantidad de residuos que se estime recibir, en la vía o áreas públicas determinadas por las Alcaldías, garantizando su correcta operación con compartimentos separados o en su totalidad destinados a recibir cada uno de los tipos de residuos sólidos señalados en el artículo 32 del presente Reglamento, así como los señalados en la normatividad aplicable vigente.
 
 ###### Artículo 46.
 
@@ -570,167 +894,223 @@ Los usuarios del servicio público de limpia avecindados en la cercanía de los 
 
 Los contenedores instalados en vía pública para la recepción de residuos sólidos deberán contar con las siguientes especificaciones:
 
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
 Tipo Leyenda Color
 
-I.- Orgánica Residuos Orgánicos Verde
+Orgánica Residuos Orgánicos Verde
 
-II.- Inorgánica Residuos Inorgánicos Gris
+Residuos Inorgánicos Residuos Inorgánicos Reciclables Gris
+
+Residuos Inorgánicos Residuos Inorgánicos no Reciclables Naranja
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 47.
 
-La Secretaría de Obras determinará las condiciones para la recepción de residuos en cada una de las instalaciones que conforman el sistema de transferencia, plantas de selección y aprovechamiento y sitios de disposición final, de conformidad con lo señalado en el Programa para la Prestación del Servicio Público de Limpia de su competencia.
+La Secretaría de Obras determinará las condiciones para la recepción de residuos en cada una de las instalaciones que conforman el sistema de transferencia, plantas de selección y aprovechamiento, plantas de composta y sitios de disposición final a su cargo, de conformidad con lo señalado en el Programa para la Prestación del Servicio Público de Limpia de su competencia.
 
 ### CAPÍTULO III. DE LA TRANSFERENCIA Y TRATAMIENTO DE RESIDUOS SÓLIDOS
 
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 48.
 
-El ingreso de vehículos privados y que depositen residuos sólidos en las estaciones de transferencia, plantas de selección y tratamiento y sitios de disposición final, sólo podrán realizarlo mediante autorización expresa de la Secretaría de Obras y la exhibición del comprobante de pago de los derechos correspondientes a la unidad administrativa o a la autoridad competente designada para el efecto por la Secretaría de Obras, la carta responsiva con las características mencionadas en la fracción XXII del artículo 2° de este Reglamento, así como el cumplimiento de las indicaciones internas de estos centros o instalaciones.
+El ingreso de vehículos privados que depositen residuos sólidos en las estaciones de transferencia, plantas de selección y tratamiento, plantas de composta y sitios de disposición final a su cargo, sólo podrán realizarlo mediante autorización expresa de la Secretaría de Obras y la exhibición del comprobante de pago de los derechos correspondientes a la unidad administrativa o a la autoridad competente designada para el efecto por la Secretaría de Obras, la carta responsiva con las características mencionadas en la fracción XXV del artículo 2° de este Reglamento, así como el cumplimiento de las indicaciones internas de estos centros o instalaciones.
 
 ###### Artículo 49.
 
 El tiempo de permanencia máximo de los residuos sólidos en las estaciones de transferencia será de 24 horas.
 
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 50.
 
-El sistema de transferencia asignará cajas para el transporte separado de los residuos sólidos, previo acuerdo de la Secretaría de Obras con las Delegaciones y de conformidad con el sistema de recolección selectiva. Las cajas estarán identificadas por tipo de residuo.
+El sistema de transferencia presta un servicio regional, por lo que asignará cajas para el transporte separado de los residuos sólidos, previo acuerdo de la Secretaría de Obras con las Alcaldías y de conformidad con el sistema de recolección selectiva. Las cajas estarán identificadas por tipo de residuo, a fin de evitar su mezcla.
+
+En todo momento se debe cuidar su separación para su aprovechamiento y valorización.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 51.
 
-Las plantas de selección y tratamiento de residuos sólidos construidas y por construir por la Secretaría de Obras, podrán ser operadas y/o concesionadas a particulares, cumpliendo previamente los procedimientos señalados en la legislación aplicable.
+Las plantas de selección y tratamiento de residuos sólidos construidas y plantas de composta por construir por la Secretaría de Obras, podrán ser operadas y/o concesionadas a particulares, cumpliendo previamente los procedimientos señalados en la legislación aplicable.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 52.
 
-La Secretaría de Obras autorizará y registrará a los establecimientos mercantiles y de servicios, relacionados con la recolección, manejo, tratamiento, reutilización, reciclaje y disposición final de los residuos sólidos, quienes de acuerdo con su naturaleza jurídica, además de observar previamente los procedimientos señalados en la legislación aplicable, deberán presentar la solicitud de registro en términos del procedimiento establecido por la Secretaría de Obras, acompañándola de los siguientes datos y documentos:
+La Secretaría autorizará y registrará a los establecimientos mercantiles y de servicios, relacionados con la recolección, manejo, tratamiento, reutilización, reciclaje y disposición final de los residuos sólidos, quienes de acuerdo con su naturaleza jurídica, además de observar previamente los procedimientos señalados en la legislación aplicable, deberán presentar la solicitud de registro en términos del procedimiento establecido y los lineamientos generales y mecanismos aplicables al procedimiento de registro y autorización que establezca la Secretaría, además de contemplar de los requisitos que se establezcan en los Lineamientos del RAMIR, lo siguiente:
 
-I. En caso de personas morales:
+I. En caso de personas morales, públicas o privadas:
 
-a) Nombre, razón o denominación social;
+a) Nombre, denominación social o razón;
 
-b) Escritura constitutiva y modificaciones si las hay, con los datos registrales correspondientes;
+b) Acta Constitutiva, inscrita ante el Registro Público de la Propiedad y de Comercio. En el caso de federaciones o confederaciones, estatutos registrados ante la Secretaría del Trabajo y Previsión Social;
 
-c) Nombre del representante legal y el documento que acredite su personalidad;
+c) Identificación oficial vigente del representante o apoderado legal;
 
-d) Alta ante la Secretaría de Hacienda y Crédito Público y su Cédula de Identificación Fiscal; y
+d) Instrumento notarial que acredite las facultades del representante legal o apoderado legal para realizar el trámite. En el caso de federaciones o confederaciones, resolución administrativa otorgada por la Secretaría del Trabajo y Previsión Social.
 
-e) Relación de todos los trabajos; así como, currículum de la empresa, indicando los trabajos en proceso de ejecución en el momento del registro; hasta por un período de dos años anteriores.
+e) Cédula de identificación fiscal emitida por el Servicio de Administración Tributaria, y;
+
+f) Comprobante de domicilio para oír y recibir notificaciones.
 
 II. En caso de personas físicas:
 
-a) Nombre y en su caso denominación del negocio;
+a) Identificación oficial vigente;
 
-b) Acta de nacimiento;
+b) Cédula de identificación fiscal emitida por el Servicio de Administración Tributaria, y
 
-c) Cédula de Identificación Fiscal, expedida por la Secretaría de Hacienda y Crédito Público; y
+c) Comprobante de domicilio en la Ciudad de México para oír y recibir notificaciones (recibo de servicio telefónico, recibo del servicio de suministro de agua o boleta de Impuesto Predial) no mayor a tres meses de antigüedad; y
 
-d) Relación de todos sus trabajos relacionados con el manejo de residuos sólidos y/o los subproductos susceptibles de reuso o reciclaje; así como su currículum hasta por un período de dos años anteriores.
+III. En ambos casos u otros, deberá informar a la Secretaría sobre:
 
-III. En ambos casos u otros:
+a) La relación de las actividades efectuadas con motivo del manejo de residuos sólidos y/o los subproductos susceptibles de reúso o reciclaje. Lo anterior lo hará de manera semestral.
 
-a) Recibo sellado por caja autorizada del pago de derechos en Tesorería de Registro y Autorización, conforme a lo indicado en el Código Financiero del Distrito Federal; utilizando el formato universal de la Tesorería, con la clave de pago de derechos número 94 “Derechos Varios”;
+b) Presentar el recibo sellado por caja autorizada del pago de derechos en Tesorería de Registro y Autorización, conforme a lo indicado en el Código Fiscal de la Ciudad de México; utilizando el formato universal de la Tesorería, con la clave de pago de derechos número 94 "Derechos Varios";
 
-b) Domicilio fiscal y teléfonos para su localización;
+c) Domicilio y teléfonos para oír y recibir notificaciones;
 
-c) Relación y tipo de transporte que utiliza; y en su caso, la ubicación de los centros de acopio filiales;
+d) Tipo de servicio que presta;
 
-d) Tipo de servicio;
+e) Relación y tipo de transporte que utiliza, cuando resulte aplicable;
 
-e) Descripción de la actividad;
+f) Descripción de la actividad;
 
-f) Presentación de la autorización de operación expedida(s) por la ó las autoridades correspondientes;
+g) Inventario con las características físicas de los residuos o subproductos que manejan;
 
-g) Que la ubicación de los patios de operación se encuentren en un lugar que reúna los criterios que establezca la normatividad aplicable;
+h) Presentar copia simple de las licencias, permisos y autorizaciones necesarias para el desempeño de sus actividades y que se le hayan otorgado en materia ambiental y urbana;
 
-h) Que las personas que estén obligadas a presentar el Plan de Manejo de Residuos Sólidos, señalado en la Ley, presenten la autorización expedida por la Secretaría y el plan de manejo de que se trate;
+i) Que las personas que estén obligadas a presentar el Plan de Manejo de Residuos Sólidos, señalado en la Ley, presenten la autorización o actualización expedida por la Secretaría y el plan de manejo de que se trate;
 
-i) Las personas obligadas a tramitar la Licencia Ambiental Única para el Distrito Federal, deberán exhibir la autorización y actualización que en términos de la Ley Ambiental del Distrito Federal corresponda, con sus anexos;
+j) Las personas obligadas a tramitar la Licencia Ambiental Única para la Ciudad de México, deberán exhibir la autorización y actualización que en términos de la Ley Ambiental de Protección a la Tierra en el Distrito Federal corresponda, con sus anexos;
 
-j) Que las personas cuenten con programas para prevenir y responder a contingencias o emergencias ambientales o accidentes;
+k) Que las personas cuenten con programas para prevenir y responder a contingencias o emergencias ambientales o accidentes;
 
-k) Contar con personal operativo (cargadores, ayudantes, operadores) capacitado en el manejo de residuos sólidos y continuamente actualizado; acreditar al personal con los cursos impartidos por las empresas autorizadas por la Secretaría o por la Secretaría de Obras, para tal efecto;
+l) Contar con personal operativo (cargadores, ayudantes, operadores) capacitado en el manejo de residuos sólidos y continuamente actualizado; acreditar al personal con los cursos impartidos por las empresas autorizadas por la Secretaría o por la Secretaría de Obras, para tal efecto; y
 
-l) Contar con una fianza para garantizar que al cierre de las operaciones en sus instalaciones, estas queden libres de residuos y no presente niveles de contaminación que puedan representar un riesgo para la salud humana y el ambiente. El monto de la fianza será de mil días de salario mínimo general vigente en el Distrito Federal por cada vehículo de transporte o recolección y dos mil días de salario mínimo general vigente en el Distrito Federal, por cada establecimiento de manejo;
+m) Al cierre de las operaciones en sus instalaciones, deben cumplir con las obligaciones que en materia de impacto ambiental se establezcan para asegurar que éstas queden libres de residuos y no presente niveles de contaminación que puedan representar un riesgo para la salud humana y el ambiente.
 
-m) Que al momento de realizar la solicitud de registro presenten un inventario con las características físicas de los residuos o subproductos que manejan; y
-
-n) Presentar copias de las licencias, permisos y autorizaciones necesarias para el desempeño de sus actividades y que se le hayan otorgado en materia ambiental y urbana.
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 53.
 
-Una vez registrado, se procederá a emitir la autorización que deberá contener el número de registro ambiental derivado de la Licencia Ambiental Única para el Distrito Federal, la vigencia, los bienes muebles e inmuebles registrados, la obligatoriedad de presentar en el relleno sanitario autorizado la responsiva por cada lote de residuos trasladado y las obligaciones que surtirán efectos a partir de la vigencia de la autorización.
+Una vez registrado, se procederá a emitir la autorización que deberá contener el número de registro, la vigencia, el inmueble registrado, la obligatoriedad de presentar la responsiva por cada lote de residuos trasladado y las obligaciones que surtirán efectos a partir de la vigencia de la autorización o Revocación (Revalidación) respectiva.
 
-Las autorizaciones serán refrendadas anualmente previo cumplimiento de las obligaciones indicadas en las autorizaciones que se expidan para tal efecto.
+Las autorizaciones deberán ser refrendadas anualmente previo cumplimiento de las obligaciones indicadas en las autorizaciones que se expidan para tal efecto.
+
+Son causales de suspensión temporal de la Autorización o Renovación (Revalidación) en los siguientes casos:
+
+a) Se realicen modificaciones que afecten las condiciones en las que se les otorgó la Autorización o Renovación (Revalidación), sin el consentimiento de la Secretaría a través de la Dirección General de Evaluación de Impacto y Regulación Ambiental, tales como: aumento en el tipo de residuo, cambios en el parque vehicular, cambio de placa de vehículos, aumento en la superficie ocupada del predio, cambios en el proceso en caso de fuentes fijas (centros de acopio, almacenamiento, reciclaje, reutilización, tratamiento y/o valorización);
+
+b) En caso de omisión en la presentación de la relación de todos sus trabajos relacionados con el manejo de residuos sólidos y/o los subproductos susceptibles de reúso o reciclaje;
+
+c) Se incumpla con las obligaciones ambientales establecidas en términos de lo dispuesto en la Ley Ambiental de Protección a la Tierra en el Distrito Federal, la Ley de Residuos Sólidos del Distrito Federal y su Reglamento, las Normas Ambientales para el Distrito Federal, los Programas, los Planes, los Lineamientos y la Autorización o Renovación otorgada.
 
 Son causales de revocación o nulidad de la autorización, el incumplimiento reiterado de las obligaciones contenidas en la Ley, el Reglamento o de las autorizaciones expedidas, o cuando se presente uno o más de los siguientes casos:
 
-I. Que exista falsedad en la información proporcionada a la Secretaría de Obras;
+a) Presentar información falsa;
 
-II. No renovar las garantías otorgadas; y
+b) Alterar la Resolución Administrativa o algún Tarjetón;
 
-III. No realizar la reparación del daño ambiental que se cause con motivo de las actividades realizadas.
+c) Transmitir por cualquier título los derechos y obligaciones inherentes a la Autorización otorgada; y
+
+d) Si en un plazo de 10 (diez) días naturales contados a partir del día siguiente al en que surta efectos la notificación de la suspensión temporal no es subsanada la falta motivo de la suspensión, se procederá a la revocación de la autorización correspondiente.
 
 ## TÍTULO QUINTO. DE LA VALORIZACIÓN Y COMPOSTA DE LOS RESIDUOS SÓLIDOS
 
 ### CAPÍTULO I. DEL RECICLAJE
 
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 54.
 
-El aprovechamiento, la reutilización y el reciclaje serán los procesos preferibles para la reducción de los residuos sólidos.
+El aprovechamiento, la reutilización, el reciclaje, el compostaje y compostaje industrial serán los procesos preferibles para la reducción de los residuos sólidos enviados a disposición final.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 55.
 
-Los Sistemas de Manejo Ambiental de los Residuos Sólidos señalados en el artículo 57 de la Ley, deberán ser formulados por las correspondientes áreas de administración y ser registrados ante la Secretaría, considerando al menos los siguientes elementos:
+Los Sistemas señalados en el artículo 57 de la Ley, deberán ser formulados por las correspondientes áreas de administración y ser registrados ante la Secretaría mediante el Sistema de Administración Ambiental, considerando al menos los siguientes elementos:
 
-I. La cuantificación de los residuos sólidos generados;
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+I. La cuantificación diaria de los residuos sólidos generados;
 
 II. Las medidas tendientes a minimizar la generación de residuos sólidos;
 
-III. Las medidas para separar los residuos sólidos, generados de acuerdo con el artículo 32 de este Reglamento;
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
 
-IV. Tipo de contratación de recolección, especificando si se entrega al servicio público de limpia o se contrata empresa privada debidamente registrada y autorizada por la Secretaría de Obras;
+III. Las medidas para separar los residuos sólidos, generados de acuerdo con el artículo 32 de este Reglamento, así como aquellas que fomenten el reciclaje y aprovechamiento de los residuos generados;
+
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+IV. Tipo de contratación de recolección, especificando si se entrega al servicio público de limpia o por medio del prestador de servicios que cuente con registro y autorización por la Secretaría;
 
 V. Programa de capacitación y evaluación de los servidores públicos que desarrollen actividades dentro de dichas instalaciones para la aplicación del sistema; y
 
 VI. Descripción de la estructura, las responsabilidades, las prácticas, los procedimientos y los recursos de la institución para desarrollar, implantar, lograr, revisar y mantener su política ambiental.
 
+> <small>(ADICIONADA, G.O. 2 DE ENERO DE 2020)</small>
+
+VII. Los avances logrados mediante la implementación de estos sistemas deberán ser reportados a la Secretaría.
+
 ###### Artículo 56.
 
-Los establecimientos mercantiles, y de servicios a que se refiere la fracción V del articulo 7º y el artículo 59 de la Ley, deberán entregar informes de las actividades realizadas a la Secretaría de Obras cuando ésta los solicite y cumplir con las condicionantes que en su caso, expida la propia Secretaría de Obras.
+(DEROGADO, G.O. 2 DE ENERO DE 2020)
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 57.
 
-Las actividades de reuso o reciclaje realizadas por los establecimientos serán reportadas a través de los planes de manejo, de conformidad con lo dispuesto en el artículo 14 de este Reglamento.
+Las actividades de reutilización o reciclaje realizadas por los establecimientos serán reportadas a través de los planes de manejo, de conformidad con lo dispuesto en el artículo 14 de este Reglamento.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 58.
 
-La Secretaría conjuntamente con Secretaría de Obras y la Secretaría de Desarrollo Económico, identificarán el tipo de residuos que son susceptibles de ser reciclados y que en la actualidad no tienen un mercado, promoviendo la apertura de estos con el Sector Industrial.
+La Secretaría conjuntamente con la Secretaría de Obras y la Secretaría de Desarrollo Económico, identificarán el tipo de residuos que son susceptibles de ser reciclados y que en la actualidad no tienen un mercado, promoviendo la apertura de estos con el Sector Industrial.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 59.
 
-La Secretaría, la Secretaría de Obras y las Delegaciones, dentro del ámbito de su competencia, promoverán la instalación de centros de acopio de residuos reusables o reciclables en el territorio del Distrito Federal.
+La Secretaría, la Secretaría de Obras y las Alcaldías, así como los productores, y distribuidores, dentro del ámbito de su competencia, promoverán la instalación de centros de acopio de residuos reutilizables o reciclables en el territorio de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 60.
 
-La Secretaría, la Secretaría de Obras y las Delegaciones, en el ámbito de su competencia, promoverán el establecimiento de reconocimientos a los esfuerzos más destacados de las empresas que cumplan con criterios de eficiencia ambiental y tecnológica.
+La Secretaría, la Secretaría de Obras y las Alcaldías, en el ámbito de su competencia, promoverán el establecimiento de reconocimientos a los esfuerzos más destacados de las empresas que cumplan con criterios de eficiencia ambiental y tecnológica.
 
 ### CAPÍTULO II. DE LA COMPOSTA
 
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 61.
 
-La Secretaría, la Secretaría de Obras y las Delegaciones, en el ámbito de su competencia, promoverán la instalación de centros de composteo de los residuos orgánicos, en los centros de generación de alto volumen.
+La Secretaría, la Secretaría de Obras y las Alcaldías, en el ámbito de su competencia, promoverán la instalación de centros de composteo de los residuos orgánicos, en los centros de generación de alto volumen.
 
-Los centros de composteo o de procesamiento de residuos orgánicos, de las Delegaciones, empresas u organizaciones estarán sujetos a la autorización de la Secretaría de Obras, previo cumplimiento de los requisitos señalados en el artículo 52 de este Reglamento y los requerimientos que establezcan la Ley, el Reglamento de Construcciones para el Distrito Federal y demás disposiciones aplicables y así como la presentación de los proyectos y/o programas de manejo que establezcan.
+Los centros de composteo o de procesamiento de residuos orgánicos, de las Alcaldías, empresas u organizaciones estarán sujetos a la autorización de la Secretaría y darán cumplimiento a los requisitos señalados en el artículo 52 de este Reglamento y los requerimientos que establezcan la Ley, el Reglamento de Construcciones para el Distrito Federal y demás disposiciones aplicables y así como la presentación de los proyectos y/o programas de manejo que establezcan.
+
+La composta producida en la Ciudad de México deberá cumplir con la normatividad aplicable vigente para garantizar las especificaciones mínimas de calidad de la composta.
 
 ###### Artículo 62.
 
 Los residuos orgánicos generados por las actividades de poda o mantenimiento de camellones, parques y jardines deberán ser procesados en centros de composteo.
 
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 63.
 
-Durante las actividades de poda o mantenimiento de parques y jardines se deberán considerar la reducción del volumen y la optimización del transporte mediante la trituración en sitio de los residuos, como parte de las actividades realizadas.
+Durante las actividades de poda o mantenimiento de parques y jardines se deberán considerar la reducción del volumen y la optimización del transporte mediante el troceo o la trituración en sitio de los residuos, como parte de las actividades realizadas.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 64.
 
-La Administración Pública del Distrito Federal, a través de sus dependencias, realizará estudios y campañas de difusión tendientes a fomentar la utilización de la composta como mejorador de suelos y como producto sustituto del humus o tierra vegetal para las áreas verdes de la ciudad, zonas de suelo de conservación y áreas naturales protegidas.
+La Administración Pública de la Ciudad de México, a través de sus dependencias, realizará estudios y campañas de difusión tendientes a fomentar la utilización de la composta como mejorador de suelos y como producto sustituto del humus o tierra vegetal para las áreas verdes de la ciudad, zonas de suelo de conservación y áreas naturales protegidas.
 
 ###### Artículo 65.
 
@@ -742,31 +1122,49 @@ II. Los generados por la poda de árboles, arbustos o plantas de áreas verdes p
 
 III. Los residuos sólidos producto de corte de pasto o labores de mantenimiento de áreas verdes públicas o privadas;
 
-IV. El estiércol producido por animales domésticos, en exhibición, en cautiverio o los utilizados en exhibiciones, espectáculos o en la prestación de servicios; y
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
 
-V. Los biosólidos de plantas de tratamiento de aguas que no sean peligrosos y cumplan con la normatividad ambiental vigente.
+IV. El estiércol producido por animales domésticos, en exhibición, en cautiverio o los utilizados en exhibiciones, espectáculos o en la prestación de servicios;
+
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+V. Los biosólidos de plantas de tratamiento de aguas que no sean peligrosos y cumplan con la normatividad ambiental vigente; y
+
+> <small>(ADICIONADA, G.O. 2 DE ENERO DE 2020)</small>
+
+VI. Los provenientes de los residuos de productos plásticos compostables que cumplan con lo establecido en la normatividad aplicable.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 66.
 
-Los centros de composteo para residuos orgánicos deberán reportar a la Secretaría de Obras anualmente la producción y los destinos de la composta.
+Los centros de composteo para residuos orgánicos deberán reportar a la Secretaría y a la Secretaría de Obras anualmente la producción y los destinos de la composta.
 
 ### CAPÍTULO III. DE LA DISPOSICIÓN FINAL
 
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 67.
 
-Serán enviados al sitio de disposición final los residuos orgánicos separados en la fuente de origen que se consideren no aptos para ser procesados en los centros de composteo, los que excedan la capacidad de procesamiento en dichos centros, así como el material procesado que no reúna características para ser utilizados en las áreas verdes.
+Serán enviados al sitio de disposición final que cumplan (sic) con la normatividad aplicable o plantas para su tratamiento o aprovechamiento, los residuos orgánicos separados en la fuente de origen que se consideren no aptos para ser procesados en los centros de composteo, los que excedan la capacidad de procesamiento en dichos centros, así como el material procesado que no reúna características para ser utilizados en las áreas verdes, considerando esta medida como la última opción de destino.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 68.
 
-Serán enviados al sitio de disposición final los residuos sólidos potencialmente reciclables que no puedan ser separados del resto de los residuos sólidos, tanto en la fuente de origen como en las plantas de selección, así como aquellos que una vez separados no puedan ser reincorporados a los procesos productivos.
+Serán enviados al sitio de disposición final o plantas para su tratamiento o aprovechamiento, los residuos sólidos potencialmente reciclables que no puedan ser separados del resto de los residuos sólidos, tanto en la fuente de origen como en las plantas de selección, así como aquellos que una vez separados no puedan ser reincorporados a los procesos productivos, considerando la disposición final como último recurso.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 69.
 
-En la planeación, diseño, construcción, operación y clausura de los sitios destinados a la disposición final, debe preverse las medidas para reducir al mínimo la generación de lixiviados y emisiones atmosféricas y los riesgos a la salud humana y al medio ambiente.
+En la planeación, diseño, construcción, operación y clausura de los sitios destinados a la disposición final, deberá preverse el cumplimiento de la normatividad aplicable vigente, así como las medidas para reducir al mínimo la generación de lixiviados y emisiones atmosféricas y los riesgos a la salud humana y al medio ambiente.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 70.
 
-Las empresas mercantiles, industriales y de servicios que trasladen residuos sólidos urbanos o residuos sólidos no peligrosos de manejo especial para su disposición final en sitios autorizados, de cada lote trasladado entregarán a la residencia del sitio para su control, la responsiva, en el formato que determine la Secretaría de Obras.
+Los establecimientos, industriales, comerciales y de servicios que trasladen residuos sólidos urbanos o residuos sólidos no peligrosos de manejo especial para su disposición final en sitios autorizados, de cada lote trasladado entregarán a la residencia del sitio para su control, la responsiva, en el formato que determine la Secretaría y presentarlos como comprobantes a través de sus planes de manejo.
 
 ## TÍTULO SEXTO. DE LAS DISPOSICIONES COMPLEMENTARIAS DE RESTAURACIÓN, PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO
 
@@ -806,23 +1204,29 @@ III. Solicitar que se realicen las visitas de verificación y de inspección por
 
 La Procuraduría podrá llevar a cabo investigaciones de oficio, cuando a su juicio, existan actos, hechos u omisiones que puedan constituir incumplimiento o falta de aplicación de las disposiciones contenidas en la Ley, en el presente Reglamento y en los demás ordenamientos en materia de residuos sólidos.
 
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 75.
 
-El trámite y sustanciación de la denuncia y de las investigaciones iniciadas de oficio se realizará en los términos establecidos en la Ley Orgánica de la Procuraduría y su Reglamento.
+El trámite y sustanciación de la denuncia y de las investigaciones iniciadas de oficio se realizará en los términos establecidos en la Ley Orgánica de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México y su Reglamento.
 
 ## TÍTULO OCTAVO. DE LAS MEDIDAS DE SEGURIDAD, INSPECCIÓN, VIGILANCIA Y VERIFICACIÓN
 
 ### CAPÍTULO I. DE LAS MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 76.
 
-La Secretaría, la Secretaría de Obras y las Delegaciones, en el ámbito de sus atribuciones establecerán las medidas de seguridad previstas en el artículo 66 de la Ley; atendiendo a lo dispuesto por la Ley de Procedimiento Administrativo del Distrito Federal y la Ley Ambiental del Distrito Federal.
+La Secretaría, la Secretaría de Obras y las Alcaldías, en el ámbito de sus atribuciones establecerán las medidas de seguridad previstas en el artículo 66 de la Ley; atendiendo a lo dispuesto por la Ley de Procedimiento Administrativo de la Ciudad de México y la Ley Ambiental de Protección a la Tierra en el Distrito Federal.
 
 ### CAPÍTULO II. DE LA INSPECCIÓN, VIGILANCIA Y VERIFICACIÓN
 
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 77.
 
-Las autoridades a que refiere la Ley podrán, de conformidad con la distribución de sus competencias, realizar actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en la Ley Ambiental del Distrito Federal, en la Ley, en el presente Reglamento y en los demás ordenamientos aplicables en la materia.
+Las autoridades a que refiere la Ley podrán, de conformidad con la distribución de sus competencias, realizar actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en la Ley Ambiental de Protección a la Tierra en el Distrito Federal, en la Ley, en el presente Reglamento y en los demás ordenamientos aplicables en la materia.
 
 ###### Artículo 78.
 
@@ -834,7 +1238,13 @@ II. El cumplimiento de las disposiciones relativas a los Planes de Manejo que es
 
 III. El cumplimiento a lo dispuesto en los artículos 24 y 25 de la Ley en el ámbito de su competencia; y
 
-IV. El cumplimiento de las disposiciones relativas a prevenir, restaurar y controlar la contaminación del suelo generada por el manejo de residuos sólidos a que se refiere la Ley y el presente Reglamento.
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+IV. El cumplimiento de las disposiciones relativas a prevenir, restaurar y controlar la contaminación del suelo generada por el manejo de residuos sólidos a que se refiere la Ley y el presente Reglamento; y
+
+> <small>(ADICIONADA, G.O. 2 DE ENERO DE 2020)</small>
+
+V. El cumplimiento de las disposiciones de la Ley y del presente Reglamento por parte de las fuentes fijas relacionadas con la recolección, manejo, tratamiento, reutilización, valorización, reciclaje y disposición final de los residuos sólidos y su funcionamiento, en el ámbito de su competencia.
 
 ###### Artículo 79.
 
@@ -842,19 +1252,25 @@ Corresponde a la Secretaría de Obras inspeccionar y vigilar:
 
 I. El cumplimiento a lo dispuesto en los artículos 24 y 25 de la Ley en el ámbito de su competencia;
 
-II. El cumplimiento de las disposiciones de la Ley y del presente Reglamento por parte de los establecimientos industriales, mercantiles y de servicios relacionados con la recolección, manejo, tratamiento, reutilización, reciclaje y disposición final de los residuos sólidos y su funcionamiento, en el ámbito de su competencia; y
+II. (DEROGADA, G.O. 2 DE ENERO DE 2020)
 
-III. El traslado de los residuos sólidos desde o hacia otras entidades federativas que se haga en términos de los convenios que al efecto se formalicen, respetando lo establecido en este reglamento.
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
+
+III. El traslado de los residuos sólidos desde o hacia otras entidades federativas que se haga en términos de los convenios que al efecto se formalicen, respetando lo establecido en este Reglamento.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 80.
 
-Corresponde a las Delegaciones inspeccionar y vigilar el cumplimiento a lo dispuesto en los artículos 24 y 25 de la Ley en el ámbito de su competencia.
+Corresponde a las Alcaldías, así como a las autoridades competentes, inspeccionar y vigilar el cumplimiento a lo dispuesto en los artículos 24 y 25 de la Ley en el ámbito de su competencia.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 81.
 
-Las visitas de inspección y verificación de los establecimientos industriales, mercantiles y de servicios deberán realizarse de acuerdo a lo establecido en el Reglamento de Verificación Administrativa para el Distrito Federal.
+Las visitas de inspección y verificación de las fuentes fijas deberán realizarse de acuerdo a lo establecido en el Reglamento de Verificación Administrativa para el Distrito Federal.
 
-Las órdenes de visita domiciliaria, los actos de inspección y vigilancia y el procedimiento que lleve a cabo la Secretaría, se sujetarán a lo dispuesto por la Ley Ambiental del Distrito Federal y supletoriamente a la Ley de Procedimiento Administrativo del Distrito Federal.
+Las órdenes de visita domiciliaria, los actos de inspección y vigilancia y el procedimiento que lleve a cabo la Secretaría, se sujetarán a lo dispuesto por la Ley Ambiental de Protección a la Tierra en el Distrito Federal y supletoriamente a la Ley de Procedimiento Administrativo de la Ciudad de México.
 
 ###### Artículo 82.
 
@@ -862,11 +1278,13 @@ Para verificar el cumplimiento de las disposiciones de la Ley, de este Reglament
 
 Al realizar el procedimiento de verificación administrativa, dicho personal deberá contar con el documento oficial que lo acredite o autorice a practicar la actuación correspondiente, así como con la orden escrita debidamente fundada y motivada expedida por la autoridad competente.
 
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 83.
 
-Las autoridades competentes están facultadas para requerir de los obligados o de otras autoridades, la información relacionada con el cumplimiento de las disposiciones jurídicas a que se refiere la Ley, este Reglamento y demás ordenamientos emitidos al efecto.
+Las autoridades competentes están facultadas para requerir de los obligados o de otras autoridades, la información relacionada con el cumplimiento de las disposiciones jurídicas a que se refiere la Ley, este Reglamento y demás ordenamientos emitidos al efecto, conforme a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
 
-Las visitas de verificación se llevarán a cabo por denuncia ciudadana o de oficio.
+Las visitas de verificación podrán realizarse por denuncia ciudadana o de oficio.
 
 ###### Artículo 84.
 
@@ -884,9 +1302,11 @@ En caso de que la persona con quien se entienda la diligencia se niegue a design
 
 Cuando en el domicilio, lugar o zona donde se practique la diligencia de verificación, no existan personas que puedan fungir como testigos de asistencia, se podrá llevar a cabo la visita correspondiente siempre que la persona con la que se entienda la misma manifieste su consentimiento para ello, situación que se hará constar en el acta que se levante al efecto, lo cual no afectará la validez de la actuación.
 
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 86.
 
-La persona con quien se entienda una visita de verificación, estará obligada a permitir al personal autorizado el acceso al lugar o lugares donde se deba practicar la diligencia, en los términos previstos en la orden escrita correspondiente, así como a proporcionar al personal que ejecute la visita, toda clase de información y documentación que conduzca a cumplir con el objeto de la orden respectiva, con excepción de lo relativo a derechos de propiedad industrial que sean confidenciales conforme a las disposiciones jurídicas aplicables, debiendo la autoridad mantenerlos en absoluta reserva sí así lo solicita el interesado, salvo que la información sea pública en los términos de la Ley de Acceso a la Información Pública del Distrito Federal o de cualquier otro ordenamiento jurídico aplicable.
+La persona con quien se entienda una visita de verificación, estará obligada a permitir al personal autorizado el acceso al lugar o lugares donde se deba practicar la diligencia, en los términos previstos en la orden escrita correspondiente, así como a proporcionar al personal que ejecute la visita, toda clase de información y documentación que conduzca a cumplir con el objeto de la orden respectiva, con excepción de lo relativo a derechos de propiedad industrial que sean confidenciales conforme a las disposiciones jurídicas aplicables, debiendo la autoridad mantenerlos en absoluta reserva sí así lo solicita el interesado, salvo que la información sea pública en los términos de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México o de cualquier otro ordenamiento jurídico aplicable.
 
 ###### Artículo 87.
 
@@ -904,9 +1324,11 @@ Para la práctica de verificación extraordinaria, la autoridad competente orden
 
 La verificación podrá iniciarse en días y horas hábiles, y concluir en días y horas inhábiles; y viceversa, lo cual no afectará la validez de la diligencia.
 
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 89.
 
-De toda visita de verificación administrativa, se levantará acta, en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia, así como la información referida en el artículo 103 de la Ley de Procedimiento Administrativo del Distrito Federal.
+De toda visita de verificación administrativa, se levantará acta, en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia, así como la información referida en el artículo 103 de la Ley de Procedimiento Administrativo de la Ciudad de México.
 
 ###### Artículo 90.
 
@@ -926,7 +1348,9 @@ Cuando la persona con la que se entienda la diligencia o los testigos de asisten
 
 Llevada a cabo la visita de verificación, el visitado, dentro del plazo de cinco días hábiles, podrá manifestar lo que a su derecho estime conveniente respecto de los hechos u omisiones que constituyan presuntas violaciones o incumplimiento de las disposiciones referidas en la ley, en el presente Reglamento y demás ordenamientos emitidos al efecto y en su caso, aportará las pruebas que considere procedentes en relación con las probables infracciones, daños o afectaciones que se le imputen.
 
-En este escrito, el probable infractor, deberá señalar domicilio dentro del Distrito Federal para oír y recibir todo tipo de notificaciones, y para el caso de que no señale domicilio expresamente, se tendrá como su domicilio el lugar de la verificación.
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
+En este escrito, el probable infractor, deberá señalar domicilio dentro de la Ciudad de México para oír y recibir todo tipo de notificaciones, y para el caso de que no señale domicilio expresamente, se tendrá como su domicilio el lugar de la verificación.
 
 Asimismo, la autoridad competente podrá ordenar en el acta la ejecución de medidas correctivas o preventivas de urgente aplicación necesarias para subsanar las irregularidades, daños o afectaciones detectadas en la verificación administrativa, en cuyo caso se señalará el plazo y demás especificidades que deberán ser observadas por los responsables.
 
@@ -952,9 +1376,11 @@ La resolución administrativa referida en el párrafo que antecede se notificar�
 
 En dicha resolución administrativa se indicarán las medidas correctivas o preventivas que correspondan, así como las sanciones que procedan.
 
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 94.
 
-Si durante la tramitación de un procedimiento de verificación se allegaran al expediente respectivo, elementos de prueba que acrediten la existencia de hechos diversos a los que dieron origen a tal actuación, que puedan constituir presuntas infracciones o violaciones de la ley, del presente reglamento, ó demás ordenamientos emitidos al efecto, la autoridad competente que tramita el expediente podrá iniciar un nuevo procedimiento e integrar otro expediente por tales hechos, con un desglose de copias certificadas de las constancias que para ello se requieran.
+Si durante la tramitación de un procedimiento de verificación se allegaran al expediente respectivo, elementos de prueba que acrediten la existencia de hechos diversos a los que dieron origen a tal actuación, que puedan constituir presuntas infracciones o violaciones de la Ley, del presente Reglamento, o demás ordenamientos emitidos al efecto, la autoridad competente que tramita el expediente podrá iniciar un nuevo procedimiento e integrar otro expediente por tales hechos, con un desglose de copias certificadas de las constancias que para ello se requieran.
 
 ###### Artículo 95.
 
@@ -966,97 +1392,149 @@ En todo caso las autoridades competentes deberán cuidar que se garantice debida
 
 Dentro de los cinco días hábiles siguientes al vencimiento del plazo otorgado al infractor para subsanar las deficiencias e irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la autoridad ordenadora competente, haber dado cumplimiento a las medidas ordenadas en los términos del requerimiento o resolución respectiva.
 
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 97.
 
-La inspección y vigilancia que realicen las Delegaciones en la prestación del servicio público de limpia se realizará a partir de la entrega de los residuos urbanos por parte de los generadores.
+La inspección y vigilancia que realicen las Alcaldías en la prestación del servicio público de limpia se realizará a partir de la entrega de los residuos urbanos por parte de los generadores.
 
 ## TÍTULO NOVENO. DE LA COORDINACIÓN INTERINSTITUCIONAL, SANCIONES Y RECURSOS
 
 ### CAPÍTULO I. DE LA COORDINACIÓN INTERINSTITUCIONAL
 
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 98.
 
-La coordinación interinstitucional, monitoreo, seguimiento evaluación y, en su caso, operación, de las políticas, acciones y programas instrumentados por la Administración Pública del Distrito Federal en materia de generación, minimización, manejo, tratamiento, aprovechamiento y disposición final de residuos sólidos, estarán a cargo de la Comisión, sin perjuicio de las atribuciones que le corresponden a cada Dependencia, Entidad o Delegación en el marco de la Ley, el presente Reglamento y demás disposiciones aplicables en la materia.
+La coordinación interinstitucional, monitoreo, seguimiento evaluación y, en su caso, operación, de las políticas, acciones y programas instrumentados por la Administración Pública de la Ciudad de México en materia de generación, minimización, manejo, tratamiento, aprovechamiento y disposición final de residuos sólidos, estarán a cargo de la Comisión, sin perjuicio de las atribuciones que le corresponden a cada Dependencia, Entidad o Alcaldía en el marco de la Ley, el presente Reglamento y demás disposiciones aplicables en la materia.
 
 ###### Artículo 99.
 
 Para el cumplimiento eficaz de la Ley y el presente Reglamento, la Comisión podrá celebrar los convenios e instrumentos jurídicos que garanticen y propicien una atención eficiente y oportuna de los problemas y retos inherentes a la gestión de residuos sólidos, desde su generación hasta su disposición final.
 
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 100.
 
-La Secretaría, la Secretaría de Obras, la Consejería Jurídica y de Servicios Legales, la Procuraduría Ambiental y del Ordenamiento Territorial, así como las Delegaciones, diseñarán e instrumentarán de manera coordinada, acciones y programas tendientes a prevenir, verificar y dar seguimiento a las denuncias y procedimientos iniciados con motivo de la generación, tratamiento y depósito habitual de residuos sólidos en sitios no autorizados, a efecto de que la autoridad que resulte competente cuente con mayores elementos para imponer las sanciones aplicables, conforme a lo dispuesto en la Ley, la Ley de Cultura Cívica del Distrito Federal, el presente Reglamento y las demás disposiciones aplicables.
+La Secretaría, la Secretaría de Obras, la Consejería Jurídica y de Servicios Legales, la Procuraduría Ambiental y del Ordenamiento Territorial, así como las Alcaldías, diseñarán e instrumentarán de manera coordinada, acciones y programas tendientes a prevenir, verificar y dar seguimiento a las denuncias y procedimientos iniciados con motivo de la generación, tratamiento y depósito habitual de residuos sólidos en sitios no autorizados, a efecto de que la autoridad que resulte competente cuente con mayores elementos para imponer las sanciones aplicables, conforme a lo dispuesto en la Ley, la Ley de Cultura Cívica de la Ciudad de México, el presente Reglamento y las demás disposiciones aplicables.
 
 ### CAPÍTULO II. DE LAS SANCIONES
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 101.
+
+Cada una de las infracciones al presente Reglamento, las normas ambientales de la Ciudad de México y demás disposiciones que de éstos emanen, serán sancionadas administrativamente por la autoridad, con una o más de las siguientes sanciones:
+
+I. Amonestación con apercibimiento;
+
+II. Multa por el equivalente desde veinte hasta cien mil veces la Unidad de Medida y Actualización de la Ciudad de México vigente;
+
+III. Clausura temporal o definitiva, parcial o total de las fuentes contaminantes, de las obras y actividades, así como de las instalaciones en que se desarrollen los hechos que den lugar a la imposición de la sanción;
+
+IV. Arresto administrativo hasta por treinta y seis horas;
+
+V. Reparación del daño ambiental;
+
+VI. Decomiso de los materiales, sustancias o residuos contaminantes; así como de vehículos, utensilios, instrumentos, equipo, herramientas, contenedores, pipas o autotanques de gas y cualquier bien directamente relacionado con la conducta que da lugar a la imposición de la sanción;
+
+VII. Demolición de las obras e instalaciones relacionadas con la conducta que da lugar a la imposición de la sanción;
+
+VIII. Suspensión temporal, anulación o revocación de permisos, licencias, certificaciones, registros, concesiones y/o autorizaciones;
+
+IX. Compensación del daño ambiental en función del dictamen del daño ambiental que la Secretaría emita, y
+
+X. Realización de programas, obras o actividades ambientales bajo la supervisión de la Secretaría, encaminados al rescate y protección de áreas ambientalmente impactadas. En todo caso, las sanciones se aplicarán en los términos que disponga el Reglamento correspondiente a la materia.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
+###### Artículo 102.
 
 Las sanciones establecidas en los artículos 68 y 69 de la Ley serán aplicadas, previo el procedimiento administrativo correspondiente, de conformidad con lo siguiente:
 
 I. A la Secretaría le compete:
 
-a) Sancionar con multa de 10 a 150 días de salario mínimo vigente en el Distrito Federal a quien arroje o abandone residuos sólidos de cualquier especie en la vía pública, áreas comunes, parques y barrancas, de conformidad con lo previsto en los artículos 25, fracción I, y 69, fracción II, de la Ley;
+a) Sancionar con multa de 20 a 200 Unidades de Medida y Actualización vigentes en la Ciudad de México a quien por segunda ocasión arroje o abandone residuos sólidos de cualquier especie en la vía pública, áreas comunes, parques y barrancas, de conformidad con lo previsto en los artículos 25, fracción I, y 69, fracción II, de la Ley;
 
-b) Sancionar con multa de 150 a mil días de salario mínimo vigente en el Distrito Federal a quien arroje o abandone residuos sólidos de cualquier especie en lotes baldíos, a cielo abierto o en cuerpos de aguas superficiales o subterráneas, sistemas de drenaje, alcantarillado o en fuentes públicas, de conformidad con lo previsto en los artículos 25, fracción IV, y 69, fracción III, de la Ley;
+b) Sancionar con multa de 150 a 1,000 Unidades de Medida y Actualización vigentes en la Ciudad de México a quien arroje o abandone residuos sólidos de cualquier especie en lotes baldíos, a cielo abierto o en cuerpos de aguas superficiales o subterráneas, sistemas de drenaje, alcantarillado o en fuentes públicas, de conformidad con lo previsto en los artículos 25, fracción IV, y 69, fracción III, de la Ley;
 
-c) Sancionar con multa de 150 a mil días de salario mínimo vigente en el Distrito Federal a quien fomente o creé basureros clandestinos, de conformidad con lo previsto en los artículos 25, fracción VIII, y 69, fracción III, de la Ley;
+c) Sancionar con multa de 150 a 1,000 Unidades de Medida y Actualización vigentes en la Ciudad de México a quien fomente o creé basureros clandestinos, de conformidad con lo previsto en los artículos 25, fracción VIII, y 69, fracción III, de la Ley;
 
-d) Sancionar con multa de 150 a mil días de salario mínimo vigente en el Distrito Federal a empresas, fábricas, concentraciones comerciales, industrias y similares, así como dependencias y entidades federales, que generen residuos sólidos en alto volumen, cuando no paguen las tarifas establecidas en el Código Financiero del Distrito Federal para los servicios de recolección y recepción de residuos sólidos, de conformidad con lo previsto en los artículos 38, párrafo tercero, y 69, fracción III, de la Ley;
+d) Sancionar con multa de 150 a 1,000 Unidades de Medida y Actualización vigentes en la Ciudad de México a empresas, fábricas, concentraciones comerciales, industrias y similares, así como dependencias y entidades federales, que generen residuos sólidos en alto volumen, cuando no paguen las tarifas establecidas en el Código Fiscal de la Ciudad de México para los servicios de recolección y recepción de residuos sólidos, de conformidad con lo previsto en los artículos 38, párrafo tercero, y 69, fracción III, de la Ley;
 
-e) Sancionar con multa de 150 a mil días de salario mínimo vigente en el Distrito Federal a los productores y comercializadores cuyos productos y servicios generen residuos sólidos susceptibles de valorización mediante procesos de reuso o reciclaje, cuando incumplan con las acciones previstas en su plan de manejo para minimizar la generación de sus residuos sólidos, realicen un manejo irresponsable de los mismos, u omitan orientar a los consumidores sobre las oportunidades y beneficios de estos procesos, de conformidad con lo previsto en los artículos 55 y 69, fracción III, de la Ley;
+e) Sancionar con multa de 150 a 1,000 Unidades de Medida y Actualización vigentes en la Ciudad de México a los productores y comercializadores cuyos productos y servicios generen residuos sólidos susceptibles de valorización mediante procesos de reuso o reciclaje, cuando incumplan con las acciones previstas en su plan de manejo para minimizar la generación de sus residuos sólidos, realicen un manejo irresponsable de los mismos, u omitan orientar a los consumidores sobre las oportunidades y beneficios de estos procesos, de conformidad con lo previsto en los artículos 55 y 69, fracción III, de la Ley;
 
-f) Sancionar con multa de 150 a mil días de salario mínimo vigente en el Distrito Federal a los establecimientos mercantiles, industriales y de servicios que se dediquen a la reutilización o reciclaje de residuos sólidos, cuando incumplan con alguna de las obligaciones impuestas en el artículo 59 de la Ley; y
+f) Sancionar con multa de 150 a 1,000 Unidades de Medida y Actualización vigentes en la Ciudad de México a los establecimientos mercantiles, industriales y de servicios que se dediquen a la reutilización o reciclaje de residuos sólidos, cuando incumplan con alguna de las obligaciones impuestas en el artículo 59 de la Ley;
 
-g) Sancionar con multa de mil a veinte mil días de salario mínimo vigente en el Distrito Federal o con arresto de hasta 36 horas a quien viole lo dispuesto en el artículo 25, fracciones IX a la XIII, de la Ley.
+g) Sancionar con multa de 1,000 a 20,000 Unidades de Medida y Actualización vigentes en la Ciudad de México o con arresto de hasta 36 horas a quien viole lo dispuesto en el artículo 25, fracciones IX, X, XI, XII y XIII de la Ley;
 
-II. A la Secretaría de Obras le compete
+h) Sancionar con multa de 500 a 2,000 Unidades de Medida y Actualización vigentes en la Ciudad de México a quien viole lo dispuesto en el artículo 25 fracción XI Bis de la Ley;
+
+i) Sancionar con multa de 150 a 1,000 Unidades de Medida y Actualización vigentes en la Ciudad de México a quien realice la quema (sic) cielo abierto o en lugares no autorizados de cualquier tipo de los residuos sólidos, de conformidad con lo previsto en los artículos 25 fracción III y 69 fracción III de la Ley;
+
+j) Sancionar con multa de 1,000 a 20,000 Unidades de Medida y Actualización vigentes en la Ciudad de México a quien, bajo cualquier figura, agrupación, organización, razón social o a título individual y que no estén debidamente registrados y autorizados ante la Secretaría que presten, ofrezcan y ejecuten cualquier acción o actividad relacionada con el servicio público de limpia de conformidad con lo previsto en los artículos 36 Bis y 69, fracción IV, de la Ley; y
+
+k) Sancionar con multa de 1,000 a 20,000 Unidades de Medida y Actualización vigentes en la Ciudad de México a los grandes generadores de residuos sólidos urbanos que cometan infracciones a lo dispuesto por el artículo 36 Quater de la Ley, de conformidad con el artículo 69 fracción IV, de la Ley.
+
+II. A la Secretaría de Obras le compete:
 
 a) Amonestar a quien pepene residuos sólidos de los recipientes instalados dentro de los sitios de disposición final, de conformidad con lo previsto en los artículos 25, fracción V, y 69, fracción I, de la Ley; y
 
-b) Sancionar con multa de 10 a 150 días de salario mínimo vigente en el Distrito Federal a quien por segunda ocasión realice la conducta descrita en el inciso anterior, de conformidad con lo previsto en el artículo 69, fracción II, de la Ley;
+b) Sancionar con multa de 20 a 200 Unidades de Medida y Actualización vigentes en la Ciudad de México a quien por segunda ocasión realice la conducta descrita en el inciso anterior, de conformidad con lo previsto en el artículo 69 fracción II, de la Ley;
 
-III. A las Delegaciones les compete:
+III. A las Alcaldías les compete:
 
-a) Amonestar a quien pepene residuos sólidos de los recipientes instalados en la vía pública, de conformidad con lo previsto en los artículos 25, fracción V, y 69, fracción I, de la Ley;
+a) Amonestar a quien pepene residuos sólidos de los recipientes instalados en la vía pública, de conformidad con lo previsto en el artículo 68, fracción I de la Ley.
 
-b) Amonestar al generador de residuos sólidos que no realice la separación en orgánicos e inorgánicos, al interior de sus domicilios, empresas, establecimientos mercantiles, industriales y de servicios, instituciones públicas y privadas, centros educativos, dependencias gubernamentales y similares, de conformidad con lo previsto en los artículos 33, párrafo primero y 69, fracción I, de la Ley;
+b) Amonestar al generador de residuos sólidos que no realice la separación acorde a la normatividad vigente, al interior de sus domicilios, empresas, establecimientos mercantiles, industriales y de servicios, instituciones públicas y privadas, centros educativos, dependencias gubernamentales y similares, de conformidad con lo previsto en el artículo 33, de la Ley;
 
-c) Amonestar a quien deposite residuos sólidos en los contenedores destinados a su recolección por el servicio de limpia, sin haber efectuado la separación correspondiente, de conformidad con lo previsto en los artículos 33, párrafo segundo, y 69, fracción I, de la Ley;
+c) Amonestar a quien deposite residuos sólidos en los contenedores destinados a su recolección por el servicio de limpia, sin haber efectuado la separación correspondiente, de conformidad con lo previsto en el artículo 33, de la Ley;
 
-d) Sancionar con multa de 10 a 150 días de salario mínimo vigente en el Distrito Federal a quien por segunda ocasión realice alguna de las conductas descritas en los incisos a), b) y c) de esta fracción, de conformidad con lo previsto en el artículo 69, fracción II, de la Ley;
+d) Sancionar con multa de 20 a 200 Unidades de Medida y Actualización vigentes en la Ciudad de México a quien por segunda ocasión realice alguna de las conductas descritas en los incisos a), b) y c) de esta fracción, de conformidad con lo previsto en el artículo 69, fracción II, de la Ley;
 
-e) Sancionar con multa de 10 a 150 días de salario mínimo vigente en el Distrito Federal a quien deposite en los contenedores instalados en la vía pública para el arrojo temporal de residuos sólidos de los transeúntes, animales muertos, residuos sólidos que despidan olores desagradables o aquéllos provenientes de la construcción provenientes de la construcción (sic), de conformidad con lo previsto en los artículos 25, fracción II, y 69, fracción II, de la Ley;
+e) Sancionar con multa de 20 a 200 Unidades de Medida y Actualización vigentes en la Ciudad de México a quien deposite en los contenedores instalados en la vía pública para el arrojo temporal de residuos sólidos de los transeúntes, animales muertos, residuos sólidos que despidan olores desagradables o aquéllos provenientes de la construcción provenientes de la construcción (sic), de conformidad con lo previsto en los artículos 25, fracción II, y 69, fracción II, de la Ley;
 
-f) Sancionar con multa de 10 a 150 días de salario mínimo vigente en el Distrito Federal a quien instale contenedores de residuos sólidos en lugares no autorizados, de conformidad con lo previsto en el artículo 25, fracción VI, y 69, fracción II, de la Ley;
+f) Sancionar con multa de 20 a 200 Unidades de Medida y Actualización vigentes en la Ciudad de México a quien instalé contenedores de residuos sólidos en lugares no autorizados, de conformidad con lo previsto en el artículo 25, fracción VI, y 69, fracción II, de la Ley;
 
-g) Sancionar con multa de 10 a 150 días de salario mínimo vigente en el Distrito Federal a quien almacene escombros y materiales en la vía pública, de conformidad con lo previsto en los artículos 26, párrafo segundo, y 69, fracción II, de la Ley;
+g) Sancionar con multa de 20 a 200 Unidades de Medida y Actualización vigentes en la Ciudad de México a quien almacene escombros y materiales en la vía pública, de conformidad con lo previsto en los artículos 26, párrafo segundo, y 69, fracción II, de la Ley;
 
-h) Sancionar con multa de 10 a 150 días de salario mínimo vigente en el Distrito Federal a los responsables de las construcciones o demoliciones, cuando transporten escombros en vehículos que por sus características propicien la dispersión de los mismos durante su traslado, de conformidad con lo previsto en los artículos 26, párrafo tercero, y 69, fracción II, de la Ley;
+h) Sancionar con multa de 20 a 200 Unidades de Medida y Actualización vigentes en la Ciudad de México a los responsables de las construcciones o demoliciones, cuando transporten escombros en vehículos que por sus características propicien la dispersión de los mismos durante su traslado, de conformidad con lo previsto en los artículos 26, párrafo tercero, y 69, fracción II, de la Ley;
 
-i) Sancionar con multa de 10 a 150 días de salario mínimo vigente en el Distrito Federal a quien disponga de los residuos sólidos depositados en los contenedores colocados por la Delegación para su recolección, de conformidad con lo previsto en los artículos 40, párrafo segundo, y 69, fracción II, de la Ley;
+i) Sancionar con multa de 20 a 200 Unidades de Medida y Actualización vigentes en la Ciudad de México a quien disponga de los residuos sólidos depositados en los contenedores colocados por la Alcaldía para su recolección, de conformidad con lo previsto en los artículos 40, párrafo segundo, y 69, fracción II, de la Ley;
 
-j) Sancionar con multa de 10 a 150 días de salario mínimo vigente en el Distrito Federal a quien no traslade sus residuos sólidos hasta el sitio determinado por la Delegación para la recolección de los mismos, de conformidad con lo previsto en los artículos 40, párrafo tercero, y 69, fracción II, de la Ley;
+j) Sancionar con multa de 20 a 200 Unidades de Medida y Actualización vigentes en la Ciudad de México a quien no traslade sus residuos sólidos hasta el sitio determinado por la Alcaldía para la recolección de los mismos, de conformidad con lo previsto en los artículos 40, párrafo tercero, y 69, fracción II, de la Ley;
 
-k) Sancionar con multa de 10 a 150 días de salario mínimo vigente en el Distrito Federal a quien coloque sus contenedores de residuos urbanos en la vía pública fuera del día y hora señalados por el servicio público de limpia para su recolección, de conformidad con lo previsto en los artículos 42 y 69, fracción II, de la Ley;
+k) Sancionar con multa de 20 a 200 Unidades de Medida y Actualización vigentes en la Ciudad de México a quien coloque sus contenedores de residuos urbanos en la vía pública fuera del día y hora señalados por el servicio público de limpia para su recolección, de conformidad con lo previsto en los artículos 42 y 69, fracción II, de la Ley;
 
-l) Sancionar con multa de 150 a mil días de salario mínimo vigente en el Distrito Federal a quien fije publicidad comercial o propaganda política en el equipamiento urbano destinado a la recolección de los residuos sólidos, así como a quien fije en los recipientes u otro mobiliario urbano destinado al depósito y recolección colores alusivos a algún partido político, de conformidad con lo previsto en los artículos 25, fracción VII, y 69, fracción III, de la Ley; y
+l) Sancionar con multa de 150 a 1,000 Unidades de Medida y Actualización vigentes en la Ciudad de México a quien fije publicidad comercial o propaganda política en el equipamiento urbano destinado a la recolección de los residuos sólidos, así como a quien fije en los recipientes u otro mobiliario urbano destinado al depósito y recolección colores alusivos a algún partido político, de conformidad con lo previsto en los artículos 25, fracción VII, y 69, fracción III, de la Ley;
 
-m) Sancionar con multa de 150 a mil días de salario mínimo vigente en el Distrito Federal a los establecimientos mercantiles y de servicios que no sean considerados como contribuyentes de ingresos menores, tianguis, mercados sobre ruedas autorizados, mercados públicos, centros de abasto, que generen residuos sólidos en alto volumen, cuando no paguen las tarifas establecidas en el Código Financiero del Distrito Federal para los servicios de recolección y recepción de residuos sólidos, de conformidad con lo previsto en los artículos 38, párrafo tercero, y 69, fracción III, de la Ley.
+m) Sancionar con multa de 150 a 1,000 Unidades de Medida y Actualización vigentes en la Ciudad de México a los establecimientos mercantiles y de servicios que no sean considerados como contribuyentes de ingresos menores, tianguis, mercados sobre ruedas autorizados, mercados públicos, centros de abasto, que generen residuos sólidos en alto volumen, cuando no paguen las tarifas establecidas en el Código Fiscal de la Ciudad de México para los servicios de recolección y recepción de residuos sólidos, de conformidad con lo previsto en los artículos 38, párrafo tercero, y 69, fracción III, de la Ley.
 
-Las sanciones previstas en este Capítulo se aplicarán sin perjuicio de lo establecido en la Ley de Cultura Cívica del Distrito Federal.
+Las sanciones previstas en este Capítulo se aplicarán sin perjuicio de lo establecido en la Ley de Cultura Cívica de la Ciudad de México.
 
-El cobro de las multas mencionadas en este artículo será realizado por la Tesorería del Distrito Federal.
-
-###### Artículo 102.
-
-Las autoridades facultadas para imponer las sanciones a que se refiere este Capítulo, podrán solicitar el apoyo de la Secretaría de Seguridad Pública, en términos de lo dispuesto en la Ley Orgánica de la Secretaría de Seguridad Pública del Distrito Federal, la Ley que Regula el Uso de la Fuerza de los Cuerpos de Seguridad Pública, y demás disposiciones aplicables.
-
-Cuando estas autoridades tengan conocimiento de actos violatorios o contrarios a la Ley, el presente Reglamento y demás disposiciones aplicables en materia de residuos sólidos y afectación al entorno urbano, que no estén dentro del ámbito de su competencia, deberán comunicarlo en forma inmediata a la autoridad competente.
+Los recursos generados por el pago de las multas mencionadas en este artículo, deberán ser destinadas al Fondo Ambiental Público del Distrito Federal, de conformidad con los artículos 69 y 70 de la Ley Ambiental de Protección a la Tierra en el Distrito Federal.
 
 ### CAPÍTULO III. DEL RECURSO DE INCONFORMIDAD Y JUICIO DE NULIDAD
 
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
 ###### Artículo 103.
 
-Los interesados, afectados por los actos y resoluciones de las autoridades administrativas podrán, a su elección, interponer el recurso de inconformidad previsto en la Ley o promover el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Distrito Federal.
+La Secretaría podrá condicionar la realización de obras o actividades, a la aportación económica al Fondo Ambiental Público para realizar acciones de compensación de los efectos negativos sobre el ambiente y los recursos naturales, cuando las medidas de mitigación sean de ejecución difícil o incosteable en el predio, o cuya implantación sea de mayor efectividad al realizarla conjuntamente con otros proyectos.
+
+> <small>(ADICIONADO, G.O. 2 DE ENERO DE 2020)</small>
+
+###### Artículo 104.
+
+Las autoridades facultadas para imponer las sanciones a que se refiere este Capítulo, podrán solicitar el apoyo de la Secretaría de Seguridad Ciudadana, en términos de lo dispuesto en la Ley Orgánica de la Secretaría de Seguridad Ciudadana de la Ciudad de México, la Ley que Regula el Uso de la Fuerza de los Cuerpos de Seguridad Pública, y demás disposiciones aplicables.
+
+Cuando estas autoridades tengan conocimiento de actos violatorios o contrarios a la Ley, el presente Reglamento y demás disposiciones aplicables en materia de residuos sólidos y afectación al entorno urbano, que no estén dentro del ámbito de su competencia, deberán comunicarlo en forma inmediata a la autoridad competente.
+
+> <small>(ADICIONADO, G.O. 2 DE ENERO DE 2020)</small>
+
+###### Artículo 105.
+
+Los interesados, afectados por los actos y resoluciones de las autoridades administrativas podrán, a su elección, interponer el recurso de inconformidad previsto en la Ley o promover el juicio de nulidad ante el Tribunal de Justicia Administrativa de la Ciudad de México.
 
 T R A N S I T O R I O S
 
@@ -1074,7 +1552,9 @@ Sexto.- Con el objeto de llevar acabo las acciones y programas gubernamentales q
 
 Las Dependencias, Entidades y Delegaciones responsables de aplicar la Ley y el presente Reglamento, deberán ajustar sus acciones y programas a la infraestructura y recursos disponibles a la entrada en vigor del presente Reglamento, procurando obtener en el corto y mediano plazos las metas y objetivos planteados en el Programa General de Desarrollo 2007-20012 (sic), el Programa de Gestión Integral de los Residuos Sólidos y el Programa de Acción Climática de la Ciudad de México 2008-2012.
 
-Séptimo.- Hasta en tanto la Secretaría del Medio Ambiente cuente con la infraestructura y los recursos necesarios para hacer efectivo el arresto previsto en el artículo 101, fracción I, inciso g), del presente Reglamento, la ejecución de esta sanción se realizará en el Centro de Sanciones Administrativas y de Integración Social adscrito a la Subsecretaría del Sistema Penitenciario del Distrito Federal.
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+
+Séptimo.- Hasta en tanto la Secretaría del Medio Ambiente cuente con la infraestructura y los recursos necesarios para hacer efectivo el arresto previsto en el artículo 102, fracción I, inciso g), del presente Reglamento, la ejecución de esta sanción se realizará en el Centro de Sanciones Administrativas y de Integración Social adscrito a la Subsecretaría del Sistema Penitenciario.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -1082,13 +1562,11 @@ Séptimo.- Hasta en tanto la Secretaría del Medio Ambiente cuente con la infrae
 
 Octavo.- El Programa de Gestión Integral de los Residuos Sólidos que substituya al vigente deberá publicarse dentro de los 150 días hábiles siguientes a la entrada en vigor del Reglamento de la Ley de Residuos Sólidos del Distrito Federal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
-> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2008)</small>
+Noveno.- Las fracciones I inciso a) por lo que se refiere a la vía pública; II inciso b); y III incisos d), j) y k), del artículo 102 del Reglamento de la Ley de Residuos Sólidos del Distrito Federal, entrarán en vigor de forma simultánea a la expedición del Programa de Gestión Integral de los Residuos Sólidos, en cuanto a las infracciones impuestas por la Secretaría del Medio Ambiente; del Programa para la Prestación del Servicio Público de Limpia, respecto de las sanciones impuestas por la Secretaría de Obras y Servicios y de los Programas para la Prestación del Servicio Público de Limpia, por lo que concierne a las sanciones aplicadas por las autoridades de las Alcaldías.
 
-Noveno.- Las fracciones I inciso a) por lo que se refiere a la vía pública; II inciso b); y III incisos d), j) y k), del artículo 101 del Reglamento de la Ley de Residuos Sólidos, entrarán en vigor de forma simultánea a la expedición del Programa de Gestión Integral de los Residuos Sólido en cuanto a las infracciones sancionadas por la Secretaría del Medio Ambiente; del Programa para la Prestación del Servicio Público de Limpia respecto de las sanciones impuestas por la Secretaría de Obras y Servicios; y de los Programas Delegacionales para la Prestación del Servicio Público de Limpia por lo que concierne a las sanciones aplicadas por las autoridades delegacionales.
-
-La Administración Pública Centralizada y los Órganos Político-Administrativos de cada demarcación, de acuerdo con sus respectivos ámbitos de competencia, deberán realizar una campaña de difusión y concientización sobre los procedimientos de separación, recolección, limpia, reciclaje y manejo sustentable de los residuos sólidos, por lo menos 30 días antes de la publicación de estos Programas.
+La Administración Pública Centralizada y las Alcaldías de cada demarcación territorial, de acuerdo con sus respectivos ámbitos de competencia, deberán realizar una campaña de difusión y concientización sobre los procedimientos de separación, recolección, limpia, reciclaje y manejo sustentable de los residuos sólidos, por lo menos 30 días antes de la publicación de estos Programas.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -1103,3 +1581,11 @@ Dado en la Residencia Oficial del Jefe del Gobierno del Distrito Federal, en la 
 G.O. 23 DE DICIEMBRE DE 2008.
 
 Único.- El presente Decreto entrará en vigor el 2 de enero de 2009.
+
+G.O. 2 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DEL REGLAMENTO DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación
