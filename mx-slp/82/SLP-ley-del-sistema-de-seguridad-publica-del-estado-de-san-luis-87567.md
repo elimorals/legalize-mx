@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2019-12-27"
+last_updated: "2020-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -467,9 +467,9 @@ V. Aprehender a los infractores de la ley en los casos de flagrante delito, poni
 
 VI. Vigilar el tránsito de vehículos y peatones en las calles, caminos, carreteras, puentes y áreas de jurisdicción estatal, e imponer las sanciones que correspondan;
 
-> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2020)</small>
 
-VII. Ejecutar los programas y acciones diseñados para garantizar la seguridad pública y prevenir los delitos; observándose en los protocolos de sus programas y acciones, que se haya dado cumplimiento a los operativos de vigilancia y monitoreo en rutas de transporte público, así como patrullaje continuo en los sectores urbanos con mayor incidencia delictiva. Los que serán evaluados de manera permanente para verificar su grado de efectividad;
+VII. Ejecutar los programas, protocolos y acciones diseñados para garantizar la seguridad pública y prevenir los delitos. Particularmente ejecutar los operativos de vigilancia, monitoreo, patrullaje y atención a usuarios en rutas de transporte público así como en zonas de servicios bancarios, atribuciones operativas que serán evaluadas por el Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, e informar el grado de efectividad al Consejo Estatal de acuerdo a la fracción VII del artículo 46 de esta Ley para que, a su vez, el Consejo lo haga del conocimiento del Ejecutivo del Estado y sea parte del informe anual que éste rinda;
 
 > <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
 
@@ -719,7 +719,9 @@ VI. Proponer al Gobernador la celebración de convenios de coordinación, colabo
 
 VII. Verificar el cumplimiento de las disposiciones de esta Ley, los convenios generales y específicos en la materia, así como las demás disposiciones aplicables, e informar lo conducente al Consejo Estatal e instancias gubernamentales que por ley y procedimientos así lo requieran;
 
-VIII. Proponer al Consejo Estatal las políticas, lineamientos, protocolos y acciones para el buen desempeño de las instituciones de seguridad pública;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2020)</small>
+
+VIII. Proponer al Consejo Estatal las políticas, lineamientos, protocolos y acciones para el buen desempeño de las instituciones de seguridad pública, entre ellos, los específicos para proteger a las mujeres usuarias del transporte público, así como a los adultos mayores al ser usuarios de los servicios bancarios;
 
 IX. Verificar que los programas, estrategias, acciones, políticas y servicios que se adopten por el Sistema Nacional de Seguridad Pública, se coordinen entre sí, y que cumplan con los lineamientos y acuerdos generales que al efecto dicte el Consejo;
 
@@ -2786,3 +2788,13 @@ P.O. 27 DE DICIEMBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se oponen al presente Decreto.
+
+P.O. 3 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0573 BIS.- SE REFORMA (SIC) LOS ARTÍCULOS 27 EN SU FRACCIÓN VII Y 46 EN SU FRACCIÓN VIII, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado, dentro de los treinta días naturales siguientes a partir de la vigencia de este Decreto, deberá emitir los lineamientos, protocolos y acciones específicas a que alude la fracción VIII del artículo 46, del ordenamiento que se reforma.
