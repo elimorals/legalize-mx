@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2019-03-22"
+last_updated: "2020-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -160,6 +160,10 @@ Todo varón y mujer serán sujetos de iguales derechos y obligaciones ante la Le
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 Toda familia tiene derecho a disfrutar de vivienda digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo, en concordancia y coordinación con las leyes federales sobre la materia. Toda persona tiene derecho a la protección de la salud. La Ley definirá las bases y modalidades para el acceso a los servicios de salud. En materia de salubridad general se estará a las disposiciones que dicte la Federación de conformidad al contenido de la fracción XVI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2020)</small>
+
+Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes de la materia.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
@@ -1511,13 +1515,17 @@ LI.- Ratificar al Titular de la Secretaría encargada del Control Interno del Po
 
 LII.- Autorizar la celebración de los convenios del Estado o sus Municipios, en caso de adherirse al mecanismo de contratación de Deuda Estatal Garantizada de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ENERO DE 2020)</small>
 
-LIII.- Expedir las leyes que señale el Título Octavo de esta Constitución, y
+LIII.- Legislar en materia de cultura física y deporte en la entidad, con el objeto de cumplir lo previsto en el artículo 4 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 13 de esta Constitución.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE ENERO DE 2020)</small>
 
-LIV.- Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.
+LIV.- Expedir las leyes que señale el Título Octavo de esta Constitución, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE ENERO DE 2020)</small>
+
+LV.- Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MARZO DE 2019)</small>
 
@@ -5420,3 +5428,9 @@ TERCERO.- El mapa oficial del Estado de Quintana a que se refiere el artículo t
 CUARTO.- Una vez publicados el presente Decreto, así como el mapa oficial del Estado de Quintana Roo, en el Periódico Oficial del Estado, deberán ser remitidos por el Ejecutivo del Estado al Instituto Nacional de Estadística y Geografía, para los fines geoestadísticos estatales y municipales que correspondan.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 009 POR EL QUE SE REFORMAN LAS FRACCIONES LIII Y LIV, Y SE ADICIONA UNA FRACCIÓN LV DEL ARTÍCULO 75, ASÍ COMO UN PÁRRAFO SEXTO AL ARTÍCULO 13 RECORRIÉNDOSE LOS SUBSECUENTES, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
