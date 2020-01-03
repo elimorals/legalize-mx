@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-13678
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-06-14"
-last_updated: "2019-08-12"
+last_updated: "2020-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2020.
 
 Ley publicada en el Número 11 del Periódico Oficial del Estado de Quintana Roo, el viernes 14 de junio de 2019.
 
@@ -1805,6 +1805,18 @@ II. Al término de las intervenciones se someterá a votación si se admite o no
 
 A propuesta de cualquier diputado y solo en los casos de urgencia y obvia resolución por mayoría simple de votos, podrá la Legislatura dar curso a las proposiciones o dictámenes en tiempo distinto del señalado y someterlos a debate inmediatamente después de su lectura.
 
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2020)</small>
+
+###### Artículo 148 Bis.
+
+Se entenderá que las iniciativas y proposiciones legislativas son de urgente y obvia resolución, cuando la naturaleza, cualidad, condición, plazo o circunstancia del tema, no implique la necesidad del estudio, análisis y dictamen de las comisiones ordinarias, y requiera de su atención y tratamiento prioritario e inmediato, dada la importancia y trascendencia que representa su desahogo ante el Pleno de la Legislatura.
+
+Para que el Pleno pueda calificar la petición de urgente y obvia resolución tanto de iniciativas como de proposiciones, quien suscriba el documento deberá exponer de manera verbal o por escrito, las razones, motivos o justificaciones por las cuales se propone su tratamiento con tal carácter.
+
+Si las iniciativas no fueran calificadas para su trámite de urgente y obvia resolución, se turnarán de inmediato a la Comisión o Comisiones competentes para su estudio, análisis y dictamen correspondiente.
+
+Si las proposiciones, no fueran calificadas para su trámite de urgente y obvia resolución, se procederá al trámite previsto en el artículo 148 fracción II de esta ley.
+
 ### CAPÍTULO CUARTO. De la votación
 
 ###### Artículo 149.
@@ -2274,3 +2286,11 @@ P.O. 12 DE AGOSTO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 018 POR EL QUE SE ADICIONA EL ARTÍCULO 148 BIS A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO Y SE REFORMA EL ARTÍCULO 100 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
