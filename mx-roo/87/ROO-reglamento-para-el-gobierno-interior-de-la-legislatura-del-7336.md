@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-para-el-gobierno-interior-de-la-legislatura-del-7336
 country: "mx"
 rank: "reglamento"
 publication_date: "1975-04-15"
-last_updated: "2017-09-26"
+last_updated: "2020-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2020.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de abril de 1975.
 
@@ -735,13 +735,19 @@ Las votaciones para elegir personas, se hará de manera nominal, en la que el Di
 
 Todas las votaciones se verificarán por mayoria absoluta, a no ser en aquellos casos en que la Constitución y este reglamento exigen votación calificada.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2020)</small>
 
 ###### Artículo 100.
 
-Para calificar los casos en que los asuntos son de urgente y obvia resolución, se requiere la votación de la mayoría simple de los diputados presentes.
+Para calificar los casos en que los asuntos son de urgente y obvia resolución, se requiere la votación de la mayoría simple de las diputadas y los diputados presentes.
 
-Se considerará un asunto de urgente y obvia resolución, cuando se requiera dar trámite ágil y expedito a un asunto legislativo, sin que éste tenga que ser remitido por la Mesa Directiva a la Comisión correspondiente, para que siga su proceso legislativo correspondiente. En este caso, cualquier diputado puede solicitar al Presidente de la Mesa Directiva, que el asunto se desahogue en el momento mismo de su presentación dada su relevancia y urgencia, circunstancia que deberá ser valorada y aprobada en su caso por el Pleno.
+Se entenderá que las iniciativas y proposiciones legislativas son de urgente y obvia resolución, cuando la naturaleza, cualidad, condición, plazo o circunstancia del tema, no implique la necesidad del estudio, análisis y dictamen de las comisiones ordinarias, y requiera de su atención y tratamiento prioritario e inmediato, dada la importancia y trascendencia que representa su desahogo ante el Pleno de la Legislatura.
+
+Para que el Pleno pueda calificar la petición de urgente y obvia resolución tanto de iniciativas como de proposiciones, quien suscriba el documento deberá exponer de manera verbal o por escrito, las razones, motivos o justificaciones por las cuales se propone su tratamiento con tal carácter.
+
+Si las iniciativas no fueran calificadas para su trámite de urgente y obvia resolución, se turnarán de inmediato a la Comisión o Comisiones competentes para su estudio, análisis y dictamen correspondiente.
+
+Si las proposiciones, no fueran calificadas para su trámite de urgente y obvia resolución, se procederá al trámite previsto en el artículo 148 fracción II de la Ley Orgánica del Poder Legislativo del Estado de Quintana Roo.
 
 ###### Artículo 101.
 
@@ -1006,3 +1012,11 @@ P.O. 26 DE SEPTIEMBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor previa su publicación en el Periódico Oficial del Estado de Quintana Roo, el mismo día de la entrada en vigor del decreto por el que se reforma el artículo 72 y se derogan la fracción XVII del artículo 75, la fracción VII del artículo 160, el artículo 162 y el artículo 163, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 018 POR EL QUE SE ADICIONA EL ARTÍCULO 148 BIS A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO Y SE REFORMA EL ARTÍCULO 100 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA DEL ESTADO DE QUINTANA ROO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
