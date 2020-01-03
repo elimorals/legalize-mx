@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-instituciones-y-procedimientos-electorales-para-el-12342
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2018-10-11"
+last_updated: "2020-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 21 de septiembre de 2017.
 
@@ -5655,6 +5655,14 @@ I. El Proceso Electoral dará inicio con la primera sesión que el Consejo Gener
 
 II. El Instituto Electoral de Quintana Roo podrá ajustar las fechas para la realización de los actos preparatorios de la elección observando invariablemente las etapas y plazos establecidos en la ley.
 
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2020)</small>
+
+DÉCIMO. La elección ordinaria local concurrente a celebrarse el primer domingo de junio del año 2021 para la renovación de los Ayuntamientos del Estado de Quintana Roo, se sujetará a lo siguiente:
+
+I. El Proceso Electoral dará inicio con la primera sesión que el Consejo General del Instituto Electoral de Quintana Roo celebre en la primera semana del mes de enero del año 2021, y
+
+II. El Instituto Electoral de Quintana Roo podrá ajustar las fechas para la realización de los actos preparatorios de la elección observando invariablemente las etapas y plazos establecidos en la Ley.
+
 SALÓN DE SESIONES DEL HONORABLE PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS QUINCE DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL DIECISIETE.
 
 DIPUTADO PRESIDENTE:
@@ -5698,3 +5706,9 @@ P.O. 11 DE OCTUBRE DE 2018.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones jurídicas que se contrapongan al presente Decreto.
+
+P.O. 3 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 019 POR EL QUE SE ADICIONA EL ARTÍCULO DÉCIMO TRANSITORIO AL DECRETO NÚMERO 097 DENOMINADO "POR EL QUE SE EXPIDE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO", PUBLICADO EL DÍA VEINTIUNO DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL DIECISIETE EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
