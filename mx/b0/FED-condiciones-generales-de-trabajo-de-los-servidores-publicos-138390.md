@@ -4,7 +4,7 @@ identifier: "FED-condiciones-generales-de-trabajo-de-los-servidores-publicos-138
 country: "mx"
 rank: "otro"
 publication_date: "2019-08-28"
-last_updated: "2019-08-28"
+last_updated: "2020-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138390&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2019-08-28"
 ---
 # CONDICIONES GENERALES DE TRABAJO DE LOS SERVIDORES PUBLICOS A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 2020 EN EL S.J.F.YG., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CONDICIONES GENERALES DE TRABAJO DE LOS SERVIDORES PÚBLICOS A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN Y SU GACETA DEL 3 DE ENERO DE 2020.]
 
 Condiciones publicadas en la Gaceta del Semanario Judicial de la Federación, Décima Época, Libro 69, Tomo V, Agosto de 2019, de la página 4738 a la 4764.
 
@@ -355,9 +355,11 @@ Al servidor público que se encuentre en situación de retiro con motivo de su j
 
 Se otorgará al servidor público que se encuentre en situación de retiro, una licencia con goce de sueldo por el término de dos meses, con motivo de su jubilación; o de su pensión por retiro, por edad y tiempo de servicios; por cesantía en edad avanzada; o de su seguro de retiro de cesantía en edad avanzada o de vejez, como reconocimiento a las labores prestadas.
 
+> <small>(F. DE E., S.J.F.YG. 3 DE ENERO DE 2020)</small>
+
 ###### Artículo 39.
 
-Con la finalidad de proporcionar una seguridad económica y preservar el ingreso de los servidores públicos ante la eventualidad de su separación del servicio público por cualquier causa, en tanto se reincorporan, en su caso, al mercado laboral, se establece un Seguro de Separación Individualizado a favor de los servidores públicos de mando medio, quienes voluntariamente manifiesten su decisión de incorporarse a dicho beneficio.
+Con la finalidad de proporcionar una seguridad económica y preservar el ingreso de los servidores públicos ante la eventualidad de su separación del servicio público por cualquier causa, en tanto se reincorporan, en su caso, al mercado laboral, se establece un Seguro de Separación Individualizado a favor de los servidores públicos de mando y homólogos, quienes voluntariamente manifiesten su decisión de incorporarse a dicho beneficio.
 
 El Consejo aportará por cuenta y a nombre del servidor público un monto neto igual al que aporte éste, que podrá ser 2%, 4%, 5% o 10% del sueldo básico.
 
