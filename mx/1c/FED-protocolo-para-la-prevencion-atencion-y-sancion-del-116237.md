@@ -4,7 +4,7 @@ identifier: "FED-protocolo-para-la-prevencion-atencion-y-sancion-del-116237"
 country: "mx"
 rank: "otro"
 publication_date: "2016-08-31"
-last_updated: "2016-08-31"
+last_updated: "2020-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116237&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ PROTOCOLO PARA LA PREVENCIÓN, ATENCIÓN Y SANCIÓN DEL HOSTIGAMIENTO SEXUAL Y A
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, ENTRARÁ EN VIGOR A LOS TREINTA DÍAS HÁBILES CONTADOS A PARTIR DEL DÍA SIGUIENTE DE SU PUBLICACIÓN.]</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ENERO DE 2020 (ABROGADO).
 
 Protocolo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de agosto de 2016.
 
@@ -354,3 +354,25 @@ c) Desarrollar y difundir las capacidades profesionales y las competencias que d
 SEXTO.- La Secretaría deberá modificar el Acuerdo en términos del presente Protocolo, previo a su entrada en vigor, publicándolo en el Diario Oficial de la Federación.
 
 Dado en la Ciudad de México, a 30 de agosto de dos mil dieciséis.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.- El Subsecretario de Responsabilidades Administrativas y Contrataciones Públicas, en ausencia del Secretario de la Función Pública, en términos de lo dispuesto por los artículos 7, fracción XII, y 86 del Reglamento Interior de la Secretaría de la Función Pública, Javier Vargas Zempoaltecatl.- Rúbrica.- La Presidenta del Instituto Nacional de las Mujeres, Lorena Cruz Sánchez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 3 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “PROTOCOLO PARA LA PREVENCIÓN, ATENCIÓN Y SANCIÓN DEL HOSTIGAMIENTO SEXUAL Y ACOSO SEXUAL”.]
+
+PRIMERO. El Protocolo para la prevención, atención y sanción del hostigamiento sexual y acoso sexual, entrará en vigor a los treinta días hábiles contados a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La aplicación y observancia del Protocolo deberá hacerse con los recursos humanos, materiales y presupuestarios asignados a las Dependencias y Entidades, por lo que no implicará erogaciones adicionales.
+
+TERCERO. Se abroga el “Protocolo para la prevención, atención y sanción del hostigamiento sexual y acoso sexual,” publicado en el Diario Oficial de la Federación el 31 de agosto de 2016.
+
+CUARTO. Las Dependencias y Entidades informarán al Instituto, dentro del plazo de treinta días hábiles contados a partir de la entrada en vigor del presente Protocolo, sobre las acciones siguientes:
+
+a) Emisión del pronunciamiento de "Cero Tolerancia" a que se refiere el numeral 12 del presente Protocolo.
+
+b) Formulación de la convocatoria abierta al personal de las Dependencias o Entidades para proponer o invitar a las personas que consideren pueden desempeñarse como Personas consejeras;
+
+c) Difusión del Protocolo a través de los medios o canales de comunicación institucional que determinen, y
+
+d) De las demás actividades necesarias para iniciar acciones de sensibilización, comunicación interna y capacitación en materia de hostigamiento sexual y acoso sexual.
