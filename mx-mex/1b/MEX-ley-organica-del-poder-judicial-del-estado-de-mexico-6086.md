@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2019-12-16"
+last_updated: "2020-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE ENERO DE 2020.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -523,13 +523,11 @@ Para ser secretario general de acuerdos, se necesitan los mismos requisitos que 
 
 Del Presidente del Tribunal Superior de Justicia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 3 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.G. 3 DE ENERO DE 2020)</small>
 
 ###### Artículo 40.
 
-El Presidente del Tribunal Superior de Justicia será electo por mayoría de votos en forma abierta o secreta, por los magistrados que integren el Poder Judicial, según lo determine el pleno del propio Tribunal, en la primer sesión que se celebre durante el mes de enero del año que corresponda, y durará en su cargo cinco años, al concluir éste, deberá reintegrarse a la función jurisdiccional que le corresponda.
+El Presidente del Tribunal Superior de Justicia será electo por mayoría de votos en forma secreta, por los magistrados que integren el Poder Judicial, en la primer sesión que se celebre durante el mes de enero del año que corresponda, y durará en su cargo cinco años, al concluir éste, deberá reintegrarse a la función jurisdiccional que le corresponda.
 
 ###### Artículo 41.
 
@@ -3400,3 +3398,13 @@ e) Poder Legislativo del Estado de México.
 Décimo Séptimo. La Legislatura del Estado proveerá de los recursos necesarios para la implementación de la reforma del sistema de justicia laboral del Estado de México y para dar cumplimiento a lo dispuesto en el presente Decreto.
 
 Décimo Octavo. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 3 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 126.- POR EL QUE SE REFORMA EL ARTÍCULO 40 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La presente reforma será aplicable al proceso de renovación del Presidente del Tribunal Superior de Justicia del Estado de México, para el periodo correspondiente 2020-2025 y subsecuentes.
