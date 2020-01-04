@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-prevencion-social-de-la-violencia-y-la-127167"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-14"
-last_updated: "2018-03-14"
+last_updated: "2020-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2020.
 
 Ley publicada en el Suplemento 3 al Número 21 del Periódico Oficial del Estado de Zacatecas, el miércoles 14 de marzo de 2018.
 
@@ -95,9 +95,11 @@ Para efectos de la presente Ley se entenderá por:
 
 I. Ejecutivo Estatal: Poder Ejecutivo del Estado de Zacatecas;
 
-II. Centro Estatal: Centro Estatal de Prevención del Delito y Participación Ciudadana, unidad administrativa del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+II. (DEROGADA, P.O. 4 DE ENERO DE 2020)
 
-III. Consejo Ciudadano: Consejo Ciudadano de Seguridad Pública Municipal, agrupaciones de ciudadanos con intereses compartidos en la prevención de la violencia y la delincuencia en una zona o lugar especifico, sean estos intereses por proximidad geográfica, vecindad, forman parte de un colectivo gremial, empresarial o investigadores científicos nacionales interesados en fenómenos focalizados;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2020)</small>
+
+III. Consejos Regionales: Son los Consejos Regionales de Consulta y Participación Ciudadana, como agrupaciones de ciudadanos con intereses compartidos en la prevención de la violencia y la delincuencia en una región específica, en términos de las Regiones del Estado establecidas por el Consejo Local, sean estos intereses por proximidad geográfica, vecindad, forman parte de un colectivo gremial, empresarial o de investigadores científicos nacionales interesados en fenómenos focalizados;
 
 IV. Consejo Estatal: Consejo Estatal de Seguridad Pública del Sistema Estatal de Seguridad Pública;
 
@@ -111,9 +113,23 @@ VIII. Programa Estatal: Programa Estatal de Prevención Social de la Violencia y
 
 IX. Secretariado Ejecutivo: El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
 
-X. Secretario Ejecutivo: El Titular del Secretariado Ejecutivo, y
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2020)</small>
+
+X. Secretario Ejecutivo: El Titular del Secretariado Ejecutivo;
 
 XI. Sistema: Sistema Estatal de Seguridad Pública.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2020)</small>
+
+XII. Consejo Local: Consejo Local de Consulta y Participación Ciudadana, agrupación de ciudadanos con intereses compartidos en materia de seguridad pública y en la prevención social de la violencia y la delincuencia en el Estado;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2020)</small>
+
+XIII. Consejos de Consulta: Consejo Estatal de Consulta y Participación Ciudadana y Consejos Regionales de Consulta y Participación Ciudadana, y
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2020)</small>
+
+XIV. Secretaría General: Secretaría General de Gobierno del Estado de Zacatecas.
 
 ###### Artículo 7.
 
@@ -205,7 +221,9 @@ El Consejo Estatal será la máxima instancia para la coordinación y definició
 
 El Consejo Estatal, conforme lo establece el artículo 23, fracción XIII de la Ley del Sistema Estatal de Seguridad Pública de Zacatecas, será responsable de establecer las directrices de las políticas públicas en prevención del delito con participación ciudadana en el Estado, así como de dar seguimiento y cumplimiento a los acuerdos, lineamientos y políticas emitidas por el Consejo Nacional y sus organismos.
 
-El Consejo Estatal contará con el Secretariado Ejecutivo del Sistema para coordinar e implementar la política de Prevención del Delito y Participación Ciudadana en el Estado, dicho Secretariado se apoyará en el Centro Estatal y en todas las autoridades competentes, especialmente en las de la Secretaría de Seguridad Pública del Estado de Zacatecas.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
+
+El Consejo Local contará con el apoyo de la Secretaría General, a través de las unidades administrativas competentes, para coordinar e implementar la política de Prevención del Delito y Participación Ciudadana en el Estado.
 
 ###### Artículo 15.
 
@@ -249,87 +267,77 @@ XV. Informar a la sociedad sobre sus actividades, e indicar los ámbitos de acci
 
 XVI. Las demás que establezcan las disposiciones legales en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2020)</small>
+
 ###### Artículo 16.
 
-El Secretariado Ejecutivo del Sistema, en materia de prevención social de la violencia y la delincuencia, tendrá las siguientes atribuciones:
+La Secretaría General, a través de las unidades administrativas que resulten competentes, en materia de prevención social de la violencia y delincuencia, tendrá las siguientes atribuciones:
 
-I. Elaborar, en coordinación con las demás instancias del Sistema, las propuestas de contenido del Programa Estatal y todos aquellos vinculados con esta materia;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2020)</small>
 
-II. Proponer al Consejo Estatal, políticas públicas, programas y acciones en materia de prevención social de la violencia y la delincuencia;
+I. Elaborar el Programa Estatal;
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2020)</small>
+
+II. Proponer al Consejo Estatal, lineamientos de prevención social del delito, a través del diseño transversal de políticas de prevención, cuyas acciones tendrán el carácter de permanentes y estratégicas;
 
 III. Ejecutar y dar seguimiento a los acuerdos y resoluciones del propio Consejo Estatal sobre la materia;
 
 IV. La promoción de la participación ciudadana en la prevención social de la violencia y la delincuencia;
 
-V. Difundir la información estadística en materia de incidencia delictiva y de prevención social de la violencia y la delincuencia, y
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2020)</small>
 
-VI. Las demás que le encomiende esta Ley, el Consejo Estatal.
+V. Difundir la información estadística en materia de incidencia delictiva y de prevención social de la violencia y de la delincuencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ENERO DE 2020)</small>
+
+VI. Promover la cultura de la paz, la legalidad, el respeto a los derechos humanos, la participación ciudadana y una vida libre de violencia;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2020)</small>
+
+VII. Garantizar el libre acceso de la población a la información estadística en materia de delito y de prevención social de la violencia y la delincuencia;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2020)</small>
+
+VIII. Emitir opiniones y recomendaciones, dar seguimiento y evaluar las acciones implementadas por las Instituciones de Seguridad Pública, estatales y municipales en materia de prevención social de la violencia y la delincuencia;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2020)</small>
+
+IX. Generar mecanismos de participación ciudadana y comunitaria así como de los organismos públicos de derechos humanos y de las instituciones de educación superior, a fin de mejorar el diagnóstico y evaluación de las políticas públicas en materia de prevención;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2020)</small>
+
+X. Planear la ejecución de programas de prevención y las formas de evaluación (sic) Consejo Local;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2020)</small>
+
+XI. Promover entre las autoridades del Estado y los Municipios, la participación ciudadana y comunitaria en las tareas de prevención social de la violencia y la delincuencia;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2020)</small>
+
+XII. Expedir los lineamientos y crear los mecanismos que sean necesarios para que las inquietudes, requerimientos y propuestas de los ciudadanos sean presentadas ante el Consejo Local;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2020)</small>
+
+XIII. Brindar asesoría a las autoridades municipales, así como a la sociedad civil organizada, cuando éstas lo soliciten;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2020)</small>
+
+XIV. Promover la inclusión de contenidos relativos a la prevención del delito en los programas educativos, de salud, de desarrollo social y, en general, en los diversos programas de las instituciones de la administración pública estatal, así como colaborar con los municipios en esta materia, participando activamente en los subprogramas de prevención del delito, derivados del Programa, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE ENERO DE 2020)</small>
+
+XV. Las demás que le otorguen los ordenamientos legales y reglamentarios aplicables.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
 
 ###### Artículo 17.
 
-El Secretario Ejecutivo, para el cumplimiento de sus funciones, se auxiliará del Centro Estatal y otras instancias relativas a la prevención social del delito y participación ciudadana y las demás áreas competentes de la Secretaria de Seguridad Pública del Estado, siempre en coordinación con el titular de dicha Secretaría.
+La Secretaría General, para el cumplimiento de sus funciones, se articulará de manera transversal con otras dependencias y entidades de la Administración Pública Estatal, así como con organismos públicos autónomos, municipios y demás instancias relacionadas con la prevención social del delito y participación ciudadana.
 
 ###### Artículo 18.
 
-El Centro Estatal tendrá, además de las que le confiere la Ley del Sistema Estatal de Seguridad Pública de Zacatecas y demás disposiciones aplicables, las siguientes atribuciones:
-
-I. Elaborar el Programa Estatal;
-
-II. Elaborar su programa anual de trabajo y someterlo a la aprobación del Consejo Estatal;
-
-III. Recabar información sobre los delitos y sus tendencias, los grupos de mayor victimización y proyectos enfocados en la prevención y sus resultados;
-
-IV. Realizar diagnósticos participativos en materia de prevención social de la violencia y la delincuencia;
-
-V. Generar mecanismos de participación ciudadana y comunitaria, de los organismos públicos de Derechos Humanos y de las instituciones de educación superior para el diagnóstico y evaluación de las políticas públicas en materia de prevención;
-
-VI. Planear la ejecución de programas de prevención y las formas de evaluación, previa aprobación del Consejo Estatal;
-
-VII. Colaborar en el diseño científico de políticas criminológicas;
-
-VIII. Realizar, en coordinación con otras instituciones, encuestas de victimización en hogares con la periodicidad que se estime conveniente;
-
-IX. Identificar temas prioritarios o emergentes que pongan en riesgo o que afecten directamente la seguridad pública desde la perspectiva ciudadana;
-
-X. Proponer recomendaciones al Consejo Estatal, sobre la implementación de medidas de prevención de la victimización;
-
-XI. Efectuar estudios comparativos de las estadísticas oficiales de criminalidad;
-
-XII. Promover entre las autoridades del Estado y los Municipios, la participación ciudadana y comunitaria en las tareas de prevención social de la violencia y la delincuencia;
-
-XIII. Garantizar el libre acceso de la población a la información estadística en materia de delito y de prevención social de la violencia y la delincuencia;
-
-XIV. Realizar y difundir estudios sobre las causas y factores que confluyen en el fenómeno de la violencia y la delincuencia;
-
-XV. Expedir los lineamientos y crear los mecanismos que sean necesarios para que las inquietudes, requerimientos y propuestas de los ciudadanos sean presentadas ante el Consejo Estatal;
-
-XVI. Generar y recabar información sobre:
-
-a) Las causas estructurales del delito;
-
-b) La distribución geodelictiva;
-
-c) Estadísticas de conductas ilícitas no denunciadas;
-
-d) Diagnósticos socio demográficos;
-
-e) Prevención del delito y la violencia infantil y juvenil;
-
-f) Erradicación de la violencia entre grupos vulnerables;
-
-g) Tendencias históricas y patrones de comportamiento,
-
-h) Encuestas de inseguridad y de victimización.
-
-XVII. Organizar y difundir los resultados, conclusiones de conferencias, seminarios, reuniones y demás acciones destinadas a profundizar en aspectos técnicos de experiencias locales, nacional o internacionales sobre la prevención social de la violencia y la delincuencia;
-
-XVIII. Brindar asesoría a las autoridades municipales, así como a la sociedad civil organizada o cuando éstas lo soliciten;
-
-XIX. Proponer al Secretario de Seguridad Pública la celebración de convenios para la formación, capacitación, especialización y actualización de servidores públicos, cuyas funciones incidan en la prevención social de la violencia y la delincuencia;
-
-XX. Analizar las inquietudes, requerimientos y propuestas de los ciudadanos a través de las instancias creadas al efecto, a partir de las directrices y mecanismos establecidos en la presente Ley, y
-
-XXI. Las demás que establezca esta Ley y otras disposiciones.
+(DEROGADO, P.O. 4 DE ENERO DE 2020)
 
 ### Capítulo IV. Coordinación de Programas
 
@@ -413,33 +421,45 @@ III. Derechos Humanos: Los cuales se entienden como el conjunto de prerrogativas
 
 IV. Erradicación de los factores de riesgo: los que pudieran ser, entre otros la ausencia del sentido de pertenencia, la fractura del tejido social, la falta de cohesión social, la exclusión y la violencia en la convivencia.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
+
 ###### Artículo 26.
 
-El Consejo Estatal evaluará semestralmente los resultados del Programa Estatal, a fin de contar con un mecanismo de actualización permanente de las políticas, estrategias y líneas de acción referidas a la prevención social de la violencia y la delincuencia.
+El Consejo Local evaluará semestralmente los resultados del Programa Estatal, a fin de contar con un mecanismo de actualización permanente de las políticas, estrategias y líneas de acción referidas a la prevención social de la violencia y la delincuencia.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
 
 ###### Artículo 27.
 
-En las sesiones semestrales del Consejo Estatal, el Secretario Ejecutivo rendirá un informe pormenorizado de los logros y avances de los programas institucionales en materia de prevención social de la violencia y la delincuencia quien lo hará público en los términos que establezcan las disposiciones aplicables.
+En las sesiones semestrales del Consejo Local, la persona titular de la Secretaría General, rendirá un informe pormenorizado de los logros y avances de los programas institucionales en materia de prevención social de la violencia y la delincuencia quien lo hará público en los términos que establezcan las disposiciones aplicables.
 
-Para la evaluación de las acciones referidas en los programas, se convocará a la Comisión Estatal de Derechos Humanos, instituciones académicas y organizaciones de la sociedad civil. Los resultados de las evaluaciones determinarán la continuidad de los programas.
+Para la evaluación de las acciones referidas en los programas, se convocará a la Comisión de Derechos Humanos del Estado de Zacatecas, instituciones académicas y organizaciones de la sociedad civil. Los resultados de las evaluaciones determinarán la continuidad de los programas.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
 
 ###### Artículo 28.
 
-El Centro Estatal dará respuesta debida a los planteamientos que le formule la ciudadanía en materia de prevención de la violencia y la delincuencia, para lo que establecerá en su página digital, un apartado a través del cual la ciudadanía formule por escrito sus propuestas e inquietudes que fomenten una cultura de prevención, mismas que podrán ser consideradas en la elaboración del Programa Estatal.
+La Secretaría General dará respuesta debida a los planteamientos que le formule la ciudadanía en materia de prevención de la violencia y la delincuencia, para lo que establecerá en su página digital oficial, un apartado a través del cual la ciudadanía formule por escrito sus propuestas e inquietudes que fomenten una cultura de prevención, mismas que podrán ser consideradas en la elaboración del Programa Estatal.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
 
 ###### Artículo 29.
 
-El Centro Estatal estimulará la organización y participación de la ciudadanía para asegurar la intervención activa de la comunidad en las diferentes tareas que implica la implementación de las políticas de prevención social del delito y la violencia, así como reforzar la cultura de la legalidad. Para ello, se incentivará el conocimiento y cumplimiento de la normatividad vigente en el Estado, que se relacione con el tema, así como la presente Ley.
+La Secretaría General promoverá la organización y participación de la ciudadanía para asegurar la intervención activa de la comunidad en las diferentes tareas que implica la implementación de las políticas de prevención social del delito y la violencia, así como reforzar la cultura de la legalidad. Para ello, se incentivará el conocimiento y cumplimiento de la normatividad vigente en el Estado, que se relacione con el tema, así como la presente Ley.
 
 ### Capítulo VI. Financiamiento
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
+
 ###### Artículo 30.
 
-Los integrantes del Consejo Estatal, así como las dependencias involucradas en la materia del presente ordenamiento preverán en sus presupuestos los recursos necesarios para el diagnóstico, diseño, ejecución y evaluación de programas y acciones de prevención social de la violencia y la delincuencia.
+Los integrantes del Consejo Local, así como las dependencias involucradas en la materia del presente ordenamiento preverán en sus presupuestos los recursos necesarios para el diagnóstico, diseño, ejecución y evaluación de programas y acciones de prevención social de la violencia y la delincuencia.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
 
 ###### Artículo 31.
 
-El Secretario Ejecutivo propondrá al Consejo Estatal el desarrollo de mecanismos de financiamiento para proyectos de la sociedad civil que tengan incidencia directa en temas prioritarios de prevención social de la violencia y la delincuencia, con base en las convocatorias que emita para tales efectos el Centro Estatal, asegurando la coordinación de acciones para evitar la duplicidad en el ejercicio de los recursos.
+La Secretaría General propondrá al Consejo Local, el desarrollo de mecanismos de financiamiento para proyectos de la sociedad civil que tengan incidencia directa en temas prioritarios de prevención social de la violencia y la delincuencia, asegurando la coordinación de acciones para evitar la duplicidad en el ejercicio de los recursos.
 
 ### Capítulo VII. Participación Social
 
@@ -451,61 +471,123 @@ La participación ciudadana y comunitaria tiene como finalidad la colaboración 
 
 Para ello, se fomentará la organización de los ciudadanos y de los órganos de representación ciudadana para que participen en la planeación, diseño, evaluación, ejecución y seguimiento de las políticas públicas vinculadas con la prevención social de la violencia y la delincuencia, la cultura de la legalidad y la solución de conflictos a través de la comunicación y la tolerancia, asimismo realizar actividades que se vinculen con la seguridad pública y la procuración de justicia, con la finalidad de que se coordinen los esfuerzos para mantener el orden público y se fortalezca el tejido social.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
+
 ###### Artículo 33.
 
-La participación ciudadana y comunitaria se hace efectiva a través de la actuación de las personas en las comunidades, en las redes vecinales, las organizaciones para la prevención social de la violencia y la delincuencia, en el Centro Estatal o por medio de cualquier otro mecanismo creado en virtud de sus necesidades.
+La participación ciudadana y comunitaria se hace efectiva a través de la actuación de las personas en las comunidades, en las redes vecinales, las organizaciones para la prevención social de la violencia y la delincuencia, en la Secretaría General o por medio de cualquier otro mecanismo creado en virtud de sus necesidades.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
 
 ###### Artículo 34.
 
-La coordinación entre los diferentes mecanismos y espacios de participación ciudadana y comunitaria, será un objetivo fundamental del Centro Estatal, para lo cual desarrollará lineamientos claros de participación y consulta.
+La coordinación entre los diferentes mecanismos y espacios de participación ciudadana y comunitaria, será un objetivo fundamental de la Secretaría General, para lo cual desarrollará lineamientos claros de participación y consulta.
 
 ###### Artículo 35.
 
 La participación ciudadana y comunitaria podrá validarse a través de convenios que suscriban con instituciones públicas, organizaciones no gubernamentales y con la sociedad civil en general, con el propósito de generar el apoyo ciudadano y el compromiso tendente a mejorar las condiciones de seguridad de las comunidades y de los ciudadanos.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
+
 ###### Artículo 36.
 
-El Secretario Ejecutivo, a través del Centro Estatal, coordinará y fomentará las políticas que impulsen la organización de los ciudadanos y de la comunidad para que participen en la planeación, diseño, evaluación, ejecución y seguimiento de los mecanismos de prevención social de la violencia y la delincuencia aprobados por el Consejo Estatal, para asegurar la participación de la ciudadanía en todos los procesos señalados en esta Ley.
+La Secretaría General, a través de la unidad administrativa que corresponda, coordinará y fomentará las políticas que impulsen la organización de los ciudadanos y de la comunidad para que participen en la planeación, diseño, evaluación, ejecución y seguimiento de los mecanismos de prevención social de la violencia y la delincuencia, para asegurar la participación de la ciudadanía en todos los procesos señalados en esta Ley.
 
-#### Sección Segunda. Consejos Ciudadanos de Seguridad Pública Municipal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ENERO DE 2020)</small>
+
+#### Sección Segunda. Consejos de Seguridad Pública
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
 
 ###### Artículo 37.
 
-Además de lo dispuesto en la Ley del Sistema Estatal de Seguridad Pública de Zacatecas, los Consejos Ciudadanos coadyuvarán en la promoción, fomento, difusión, discusión, análisis y evaluación de las políticas públicas referentes a la prevención del delito y la violencia la cultura de la legalidad, la solución de conflictos a través del diálogo, la mediación, protección o autoprotección del delito, la denuncia ciudadana y, en general, cualquier actividad que se relacione con la seguridad pública.
+Los Consejos de Consulta participarán en la promoción, fomento, difusión, discusión, análisis y evaluación de las políticas públicas referentes a la prevención social del delito y la violencia, la cultura de la legalidad, la solución de conflictos a través del diálogo, la mediación, protección o autoprotección del delito, la denuncia ciudadana y, en general, cualquier actividad que se relacione con la seguridad pública.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
 
 ###### Artículo 38.
 
-Las experiencias, evidencias y demás información generada a partir de las actividades de los Consejos Ciudadanos serán recopiladas por el Centro Estatal, la Secretaría General de Gobierno, la Secretaría de Seguridad Pública y por los Ayuntamientos.
+Las experiencias, evidencias y demás información generada a partir de las actividades de los Consejos de Consulta serán recopiladas por la Secretaría General, la Secretaría de Seguridad Pública y por los Ayuntamientos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2020)</small>
 
 ###### Artículo 39.
 
-La conformación de los Consejos Ciudadanos les corresponde a los Presidentes Municipales, con la colaboración del Centro Estatal, por medio de convocatoria pública.
+La conformación de los Consejos de Consulta se realizará de la siguiente forma:
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 4 DE ENERO DE 2020)</small>
+
+A. Consejo Local:
+
+I. Por un Presidente, que será designado anualmente de entre los consejeros consultivos electos de conformidad con el Reglamento del Consejo Local de Consulta y Participación Ciudadana;
+
+II. Por un secretario técnico, que fungirá con tal carácter la o el servidor público que designe la persona titular de la Secretaría General, mismo que tendrá rango, por lo menos, de Subsecretario, y
+
+III. Por consejeros de consulta, designados por el Gobernador, de entre los propuestos por los diferentes sectores de la sociedad civil. Para la elección se considerará la reputación, participación e interés mostrado en materia de seguridad pública por los ciudadanos propuestos.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 4 DE ENERO DE 2020)</small>
+
+B. Consejos Regionales:
+
+I. Por un Presidente, que será designado anualmente de entre los consejeros consultivos electos de conformidad con el Reglamento de los Consejos Regionales de Consulta y Participación Ciudadana;
+
+II. Por un secretario técnico, que fungirá con tal carácter el servidor público que para tal efecto designe la persona titular de la Secretaría General, mismo que tendrá, por lo menos, rango de Director;
+
+III. Por consejeros de consulta, designados por el Presidente de cada una de las regiones que correspondan, de entre los propuestos por los diferentes sectores de la sociedad civil. Para la elección se considerará la reputación, participación e interés mostrado en materia de seguridad pública por los ciudadanos propuestos, y
+
+IV. Por un representante de la Legislatura del Estado de Zacatecas.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2020)</small>
+
+###### Artículo 39 Bis.
+
+Las propuestas para la designación de los consejeros de consulta, derivarán de la convocatoria que realicen, para tal efecto, el Gobernador o el Presidente Municipal de la región que corresponda.
+
+Los Consejos de Consulta se integrarán mayoritariamente por consejeros ciudadanos, en términos del Reglamento del Consejo Local y de los Reglamentos de los Consejos Regionales.
 
 ###### Artículo 40.
 
-Los ciudadanos interesados en conformar los Consejos Ciudadanos podrán solicitar su incorporación de manera voluntaria ante las autoridades municipales correspondientes, además, deberán cumplir con los requisitos exigidos en el reglamento de esta Ley, y lo establecido en la Ley del Sistema Estatal de Seguridad Pública de Zacatecas.
+(DEROGADO, P.O. 4 DE ENERO DE 2020)
 
-Los registros extraordinarios deberán ser resueltos por la Secretaría de Seguridad Pública con irrestricto apego a las leyes federales, estatales y los reglamentos que se expidan para tal efecto.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
 
 ###### Artículo 41.
 
-Los municipios deberán informar puntualmente a la Secretaría de Seguridad Pública y al Secretariado Ejecutivo la constitución de los Consejos Ciudadanos con el fin de coordinar y evitar duplicar actividades; cuando sea el caso en que la Secretaría de Seguridad Pública reciba solicitudes para la conformación de Consejos Ciudadanos deberá informar a la autoridad municipal en donde resida el ciudadano para los mismos efectos.
+Los Presidentes Municipales de la región que corresponda deberán informar a la Secretaría General, la constitución de los Consejos Regionales con el fin de coordinarlos y evitar duplicar actividades; cuando sea el caso en que la Secretaría General reciba solicitudes para la conformación de los Consejos de Consulta deberán informar a los Presidentes Municipales de la región correspondiente para los mismos efectos.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
 
 ###### Artículo 42.
 
-Los integrantes de los Consejos Ciudadanos serán cargos honoríficos sin remuneración económica.
+Los integrantes de los Consejos de Consulta serán cargos honoríficos sin remuneración económica.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2020)</small>
+
+###### Artículo 42 Bis.
+
+La duración del encargo de los integrantes de los Consejos de Consulta será la siguiente:
+
+I. Para los servidores públicos, el plazo que permanezcan en el encargo, y
+
+II. Para los Consejeros Ciudadanos dos años, pudiendo ser ratificados para otro periodo igual.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
 
 ###### Artículo 43.
 
-Los Consejos Ciudadanos se integrarán conforme a lo establecido en la Ley del Sistema Estatal de Seguridad Pública de Zacatecas y el Reglamento correspondiente.
+Los Consejos de Consulta además de lo establecido en esta Ley, se regirán conforme a las disposiciones del Reglamento de la misma y sus reglamentos interiores.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
 
 ###### Artículo 44.
 
-Las autoridades municipales, en colaboración con el Secretariado Ejecutivo, promoverán la constitución de los Consejos Ciudadanos en sus respectivas demarcaciones.
+Las autoridades municipales, en coordinación con la Secretaría General, promoverán la constitución de los Consejos Regionales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2020)</small>
 
 ###### Artículo 45.
 
-Los Consejos Ciudadanos, además de las que les confieren la Ley del Sistema Estatal de Seguridad Pública de Zacatecas y demás disposiciones aplicables, tendrán las siguientes funciones:
+Los Consejos de Consulta tendrán las siguientes funciones:
 
 I. Participar en los procesos de planeación, evaluación y supervisión de las políticas públicas referentes a la prevención de la violencia y la delincuencia;
 
@@ -513,7 +595,9 @@ II. Realizar libremente el diagnóstico participativo de su perímetro, en donde
 
 III. Ejecutar su propio plan de acción;
 
-IV. Informarse de los comunicados que realicen las autoridades a los Consejos Ciudadanos;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2020)</small>
+
+IV. Informarse de los comunicados que realicen las autoridades a los Consejos de Consulta;
 
 V. Conocer, opinar y colaborar en los planes, programas y políticas en materia de prevención de la delincuencia y violencia;
 
@@ -531,37 +615,89 @@ XI. Vigilar, mediante mecanismos de control social ciudadano, que las autoridade
 
 XII. Denunciar irregularidades, actos de corrupción o negligencia de los integrantes de las instituciones de seguridad pública;
 
-XII. Las que se deriven de los acuerdos o convenios de colaboración con las autoridades de seguridad pública.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2020)</small>
 
-Los Consejos Ciudadanos podrán designar un vocal para coordinar las actividades aquí previstas;
+XIII. Las que se deriven de los acuerdos o convenios de colaboración con las autoridades de seguridad pública y prevención social de la violencia y la delincuencia.
 
-XIV. Promover espacios digitales mediante la conectividad de herramientas electrónicas para la interacción continua entre gobierno y gobernados, y
+Los Consejos de Consulta podrán designar un vocal para coordinar las actividades aquí previstas;
 
-XV. Las demás que otorgue el Consejo Estatal, la Ley y Reglamentos aplicables.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2020)</small>
+
+XIV. Promover espacios digitales mediante la conectividad de herramientas electrónicas para la interacción continua entre gobierno y gobernados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ENERO DE 2020)</small>
+
+XV. En periodos no mayores de seis meses, emitir conclusiones sobre la apreciación objetiva y técnica del nivel de profesionalización y operación de las Instituciones Policiales. Las conclusiones deberán hacerse llegar a los ayuntamientos correspondientes, cuando la institución policial sea municipal, y a la autoridad superior de la que dependa directamente la institución policial del ámbito estatal, cuando éste sea el caso;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2020)</small>
+
+XVI. Mediante el análisis objetivo y técnico de la información de seguridad pública, disponible por los canales oficiales, así como con el conocimiento directo por visitas de campo en las áreas de seguridad, emitir conclusiones sobre el cumplimiento de esta Ley;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2020)</small>
+
+XVII. Proponer lineamientos de seguridad preventiva, turnándolas (sic) a la autoridad correspondiente para garantizar su difusión en el Estado, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE ENERO DE 2020)</small>
+
+XVIII. Las demás que le otorguen las leyes y reglamentos aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2020)</small>
+
+###### Artículo 45 Bis.
+
+Los Consejos de Consulta sesionarán de manera ordinaria, por lo menos, una vez cada tres meses y, extraordinariamente, cuando sean convocados por el Presidente de los mismos.
+
+El desarrollo de las sesiones y lo relativo a las convocatorias será establecido en los Reglamentos de los Consejos de Consulta.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2020)</small>
+
+###### Artículo 45 Ter.
+
+Cada Consejo de Consulta contará con un Secretario Técnico, que tendrá las funciones siguientes:
+
+I. Levantar y certificar los acuerdos que se tomen y llevar el control de los mismos;
+
+II. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo;
+
+III. Informar periódicamente al Consejo de sus actividades, de conformidad con (sic) establecido en el reglamento correspondiente;
+
+IV. Coordinar la realización de estudios especializados sobre seguridad pública, y
+
+V. Las demás que determine el Consejo y le señale el Reglamento correspondiente.
 
 #### Sección Tercera. Diagnóstico Participativo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2020)</small>
+
 ###### Artículo 46.
 
-Los diagnósticos participativos son documentos elaborados por los Consejos Ciudadanos, en los que deben enumerarse los factores de riesgo y factores de protección identificados en un determinado polígono geográfico, así como las probables causas de la violencia o actividades delictivas identificadas.
+Los diagnósticos participativos son documentos elaborados por la Secretaría General, en los que deben enumerarse los factores de riesgo y factores de protección identificados en un determinado polígono geográfico, así como las probables causas de la violencia o actividades delictivas identificadas.
 
-Los Consejos Ciudadanos deben elaborar sus diagnósticos participativos atendiendo a los cuatro ámbitos de intervención establecidos en el artículo 8 de la presente Ley.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE ENERO DE 2020)</small>
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
 
 ###### Artículo 47.
 
-Para la elaboración de los diagnósticos participativos se requerirá la precisión de cada uno de los problemas identificados, la cual podrá ejecutarse por los ciudadanos que integran el Consejo, así como por personal de la Secretaría de Seguridad Pública, del Centro Estatal y la autoridad municipal competente, y de otros habitantes de la zona que, de forma voluntaria, deseen hacerlo.
+Para la elaboración de los diagnósticos participativos se requerirá la precisión de cada uno de los problemas identificados, la (sic) cual podrá ejecutarse por personal de la Secretaría de Seguridad Pública, la Secretaría General y la autoridad municipal competente, y de otros habitantes de la zona que, de forma voluntaria, deseen hacerlo.
 
 ###### Artículo 48.
 
-Los diagnósticos participativos deben asentarse por escrito en un acta firmada por los miembros de cada Consejo Ciudadano y los testigos que así deseen hacerlo.
+(DEROGADO, P.O. 4 DE ENERO DE 2020)
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
 
 ###### Artículo 49.
 
-En caso de considerarlo necesario, los miembros de los Consejos Ciudadanos pueden solicitar asistencia e intervención de las fuerzas de seguridad ante la autoridad municipal o la Secretaría de Seguridad Pública, quienes deberán velar por la seguridad de aquéllos en el desempeño de sus actividades.
+En caso de considerarlo necesario, la Secretaría General puede solicitar asistencia e intervención de las fuerzas de seguridad ante la autoridad municipal o la Secretaría de Seguridad Pública, en sus divisiones de proximidad social, quienes deberán velar por la seguridad de aquéllos en el desempeño de sus actividades.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
 
 ###### Artículo 50.
 
-Una vez elaborado el diagnóstico participativo, el Presidente del Consejo Ciudadano informará a la autoridad municipal competente, quien a su vez informará al Secretariado Ejecutivo para su incorporación a los planes, programas y acciones públicas aplicables en la zona diagnosticada.
+Una vez elaborado el diagnóstico participativo, la Secretaría General informará a la autoridad municipal competente para su incorporación a los planes, programas y acciones públicas aplicables en la zona diagnosticada.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
 
 ###### Artículo 51.
 
@@ -569,17 +705,17 @@ Todas las autoridades, en el ámbito de sus respectivas competencias y programas
 
 Conforme a ello, la autoridad a la que le corresponda la atención de la problemática, de acuerdo con su ámbito de competencia, deberá establecer los mecanismos de solución en un plazo no mayor a quince días naturales, contados a partir de la recepción del diagnóstico participativo por medio electrónico o por escrito.
 
-Cuando la problemática no esté contemplada en el catálogo o base de datos de los planes, programas y acciones de los miembros del Consejo Estatal y no se cuenten con escenarios que la previeran, el Centro Estatal coadyuvará en el diseño de acciones específicas a la autoridad competente ante situaciones emergentes para su aplicación expedita. En estos casos, el Centro Estatal generará diagnósticos especializados a fin de obrar en la memoria institucional y ser considerados en la elaboración de los nuevos planes, programas y acciones. El Centro Estatal mantendrá informados a los Consejos interesados.
+Cuando la problemática no esté contemplada en el catálogo o base de datos de los planes, programas y acciones de los Entes Públicos, la Secretaría General coadyuvará en el diseño de acciones específicas a la autoridad competente ante situaciones emergentes para su aplicación expedita. En estos casos, la Secretaría General generará diagnósticos especializados a fin de obrar en la memoria institucional y ser considerados en la elaboración de los nuevos planes, programas y acciones.
 
-De todas las acciones anteriores se debe informar a los miembros del Consejo Ciudadano que corresponda.
+De todas las acciones anteriores se debe informar a los miembros del Consejo de Consulta que corresponda.
 
 ###### Artículo 52.
 
-Todos los miembros de los Consejos Ciudadanos deben mantener un diálogo respetuoso entre sí y podrán hacer propuestas u observaciones cuando sesionen para la elaboración de sus respectivos diagnósticos participativos.
+(DEROGADO, P.O. 4 DE ENERO DE 2020)
 
 ###### Artículo 53.
 
-Los factores de riesgo y factores de prevención de la violencia y delincuencia que sean identificados con las actividades de los Consejos Ciudadanos deberán ser incorporados por sus miembros al acta del diagnóstico participativo de manera anónima.
+(DEROGADO, P.O. 4 DE ENERO DE 2020)
 
 ### Capítulo VIII. Sanciones
 
@@ -587,11 +723,17 @@ Los factores de riesgo y factores de prevención de la violencia y delincuencia 
 
 El incumplimiento por parte de los servidores públicos a las obligaciones que derivan de esta Ley será sancionado de conformidad con la legislación en materia de responsabilidad administrativa de los servidores públicos.
 
-El Consejo Estatal dictará el acuerdo que así lo determine e instruirá al Secretario Ejecutivo para que remita el expediente respectivo al superior jerárquico del infractor a fin de que se inicie el procedimiento que corresponda.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE ENERO DE 2020)</small>
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2020)</small>
+
+El Órgano Interno de Control del Ente Público que corresponda, investigará, sustanciará y resolverá, si fuere el caso, o bien, remitirá al Tribunal de Justicia Administrativa del Estado, el expediente que corresponda, en términos de la Ley General de Responsabilidades Administrativas y demás legislación aplicable.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
 
 ###### Artículo 55.
 
-La dependencia o entidad del Ejecutivo Estatal o los Municipios que hayan impuesto alguna sanción a sus subordinados por incumplimiento a las disposiciones de esta Ley, deberá comunicarlo al Consejo Estatal por conducto del Secretario Ejecutivo, quien a su vez dará cuenta al Consejo Estatal sobre las sanciones que se impongan, en la siguiente sesión que sea convocada.
+El Órgano Interno de Control que haya conocido del asunto, deberá comunicarlo a la Secretaría General quien, a su vez dará cuenta al Consejo Local sobre las sanciones que se impongan.
 
 ## Transitorios
 
@@ -608,3 +750,23 @@ DADO en la Sala de Sesiones de la Honorable Legislatura del Estado, a los treint
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 Dado en el despacho del Poder Ejecutivo del Estado, a los veintidós días del mes de febrero del año dos mil dieciocho. GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. SECRETARIA GENERAL DE GOBIERNO.- FABIOLA GILDA TORRES RODRÍGUEZ. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 298.- REFORMAS Y ADICIONES A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Artículo Segundo. Dentro del plazo de 180 días posteriores al inicio de la vigencia de este Decreto, deberá quedar constituido el Consejo Local.
+
+Artículo Tercero. Dentro del plazo de 180 días posteriores a la constitución del Consejo Local, deberán constituirse los Consejos Regionales.
+
+Artículo Cuarto. El Ejecutivo del Estado transferirá los recursos humanos, financieros y materiales con los que cuenta actualmente el Centro Estatal de Prevención del Delito y Participación Ciudadana del Secretariado Ejecutivo a la unidad administrativa que corresponda dentro de la Secretaría General de Gobierno.
+
+Asimismo, transferirá los recursos humanos, financieros y materiales con los que cuenta actualmente el Instituto de Formación Profesional de la Secretaría General de Gobierno, a la Secretaría de Seguridad Pública del Gobierno del Estado.
+
+El proceso de entrega-recepción se llevará a cabo de acuerdo con la Ley de Entrega-Recepción del Estado y Municipios de Zacatecas, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios y demás disposiciones aplicables.
+
+Artículo Quinto. Dentro de los ciento veinte días siguientes a la vigencia del presente Decreto, el titular del Poder Ejecutivo del Estado y los Presidentes Municipales, emitirán las convocatorias respectivas, respecto del proceso de designación de los consejeros de consulta, para dar cumplimiento a lo previsto en el artículo 39 bis de la Ley para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana para el Estado de Zacatecas.
