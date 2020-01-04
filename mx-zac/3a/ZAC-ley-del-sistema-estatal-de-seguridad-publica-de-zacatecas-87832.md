@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-sistema-estatal-de-seguridad-publica-de-zacatecas-87832
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-05"
-last_updated: "2017-09-16"
+last_updated: "2020-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de mayo de 2012.
 
@@ -105,7 +105,9 @@ V. Instituto: Al Instituto de Formación Profesional;
 
 VI. Instituciones de Seguridad Pública: A las instituciones policiales, de procuración de justicia, del sistema penitenciario y dependencias encargadas directa o indirectamente de la seguridad pública a nivel estatal y municipal;
 
-VII. Instituciones de Procuración de Justicia: Al Ministerio Público, los servicios periciales y las demás áreas de la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2020)</small>
+
+VII. Instituciones de Procuración de Justicia: Al Ministerio Público, los servicios periciales y las demás áreas de la Fiscalía General de Justicia del Estado;
 
 VIII. Instituciones Policiales: A los cuerpos de policía, de vigilancia y custodia de los centros estatal y regionales de reinserción social y de los establecimientos penitenciarios; de detención preventiva, o de centros de arraigos; y en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal, que realicen funciones similares;
 
@@ -113,9 +115,13 @@ IX. Ley: A la Ley del Sistema Estatal de Seguridad Pública de Zacatecas;
 
 X. Ley General: A la Ley General del Sistema Nacional de Seguridad Pública;
 
-XI. Procurador: Al Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2020)</small>
 
-XII. Procuraduría: A la Procuraduría General de Justicia del Estado;
+XI. Fiscal General: Al Fiscal General de Justicia del Estado;
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2020)</small>
+
+XII. Fiscalía General: A la Fiscalía General de Justicia del Estado;
 
 XIII. Programa: Al Programa Estatal de Seguridad Pública;
 
@@ -207,7 +213,9 @@ II. El Secretario General de Gobierno;
 
 III. El Secretario;
 
-IV. El Procurador, y
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2020)</small>
+
+IV. El Fiscal General, y
 
 V. Las demás que determine la Ley General, esta Ley y otras disposiciones aplicables.
 
@@ -233,13 +241,23 @@ Las Instituciones Policiales del Estado son:
 
 I. La Policía Estatal Preventiva;
 
-II. La Policía Ministerial del Estado;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2020)</small>
+
+II. La Policía de Investigación del Estado;
 
 III. Las Policías Preventivas Municipales;
 
-IV. El Cuerpo de Vigilancia y Custodia del Sistema Penitenciario y del Sistema de Justicia para Adolescentes, y
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2020)</small>
 
-V. El personal operativo de la Dirección de Transporte, Tránsito y Vialidad del Estado.
+IV. El Cuerpo de Vigilancia y Custodia del Sistema Penitenciario y del Sistema de Justicia para Adolescentes;
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2020)</small>
+
+V. El personal operativo de la Policía de Seguridad Vial en el Estado, y
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2020)</small>
+
+VI. Aquellas policías que deriven de convenios de coordinación entre el Estado y los municipios.
 
 Organismos auxiliares en materia de seguridad pública
 
@@ -273,7 +291,9 @@ V. Autorizar por conducto de la Secretaría, los servicios de seguridad privada;
 
 VI. Difundir los lineamientos de Seguridad Pública en el Estado, a través de las entidades y dependencias correspondientes;
 
-VII. Coordinarse, por sí o por conducto del Secretariado Ejecutivo, con el Centro Nacional de Prevención del Delito y Participación Ciudadana en la implementación de programas preventivos;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2020)</small>
+
+VII. Coordinarse, por sí o por conducto de la Secretaría General de Gobierno del Estado, con el Centro Nacional de Prevención del Delito y Participación Ciudadana en la implementación de programas preventivos;
 
 VIII. Establecer un órgano de inteligencia que apoye en los procesos de acopio, sistematización, procesamiento, utilización e intercambio de información táctica y estratégica, para la actividad objetiva de las fuerzas de seguridad pública de la Federación, Estado y Municipios;
 
@@ -307,7 +327,9 @@ VII. Acordar con los presidentes municipales, en el marco del respeto y colabora
 
 VIII. Administrar la licencia oficial colectiva, que autorice la posesión y portación de armamento al personal de las Instituciones Policiales y del Instituto, a excepción de la Policía Ministerial;
 
-IX. Ejercer el mando de la Policía Estatal Preventiva; de la Dirección General de Prevención y Reinserción Social con su Cuerpo de Vigilancia y Custodia; y de la Dirección de Transporte, Tránsito y Vialidad, en el ámbito de la Seguridad Pública;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2020)</small>
+
+IX. Ejercer el mando de la Policía Estatal Preventiva; de la Dirección General de Prevención y Reinserción Social con su Cuerpo de Vigilancia y Custodia; y del personal operativo de la Policía de Seguridad Vial, en el ámbito de la Seguridad Pública;
 
 X. Organizar las instituciones policiales bajo sus órdenes, en unidades que cumplan las funciones de investigación, prevención y reacción, en términos de esta Ley;
 
@@ -413,7 +435,9 @@ III. El Secretario General de Gobierno;
 
 IV. El Secretario;
 
-V. El Procurador;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2020)</small>
+
+V. El Fiscal General;
 
 VI. El Secretario de Finanzas;
 
@@ -423,13 +447,31 @@ a) Secretaría de Gobernación;
 
 b) Secretaría de la Defensa Nacional;
 
-c) Procuraduría General de la República, y
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2020)</small>
+
+c) Fiscalía General de la República, y
 
 d) Policía Federal;
 
 VIII. Los Presidentes de los siete municipios del Estado con mayor población, y
 
 IX. El Secretario Ejecutivo.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2020)</small>
+
+X. El Presidente del Tribunal Superior de Justicia del Estado;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2020)</small>
+
+XI. El Representante de la Guardia Nacional;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2020)</small>
+
+XII. El Representante del Centro Nacional de Inteligencia;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2020)</small>
+
+XIII. El Presidente o Presidenta de la Comisión de Derechos Humanos del Estado de Zacatecas.
 
 El Presidente del Consejo será suplido en sus ausencias por el Secretario General de Gobierno; los demás integrantes del Consejo Estatal deberán asistir personalmente.
 
@@ -575,7 +617,7 @@ El Secretariado Ejecutivo es un órgano desconcentrado de la Secretaría General
 
 Para el cumplimiento de sus fines, contará con los Centros Estatales siguientes:
 
-I. De Prevención del Delito y Participación Ciudadana;
+I. (DEROGADA, P.O. 4 DE ENERO DE 2020)
 
 II. De Evaluación y Control de Confianza, y
 
@@ -597,7 +639,7 @@ I. Fungir como vínculo entre los integrantes del Sistema;
 
 II. Dictar las medidas necesarias para garantizar el adecuado funcionamiento del Sistema;
 
-III. Proponer al Consejo Estatal los lineamientos, políticas y acciones en materia de prevención del delito;
+III. (DEROGADA, P.O. 4 DE ENERO DE 2020)
 
 IV. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal y de su Presidente;
 
@@ -641,37 +683,17 @@ XXIII. Coordinar la homologación de la Carrera Policial, la Profesionalización
 
 XXIV. Las demás que le otorga esta Ley y demás disposiciones jurídicas aplicables, así como las que le encomiende el Consejo Estatal o su Presidente.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
+
 Centros a cargo del Secretariado Ejecutivo
 
 ###### Artículo 36.
 
-El Secretariado Ejecutivo, tendrá a su cargo los siguientes Centros: Centro Estatal de Prevención del Delito y Participación Ciudadana, Centro Estatal de Evaluación y Control de Confianza y Centro Estatal de Información.
-
-Atribuciones del Centro Estatal de Prevención del Delito y Participación Ciudadana
+El Secretariado Ejecutivo, tendrá a su cargo el Centro Estatal de Evaluación y Control de Confianza y el Centro Estatal de Información.
 
 ###### Artículo 37.
 
-El Centro Estatal de Prevención del Delito y Participación Ciudadana, es el órgano de apoyo del Secretariado Ejecutivo, que establecerá mecanismos eficaces para que la sociedad participe en el seguimiento, evaluación y supervisión del Sistema, en los términos de esta Ley y tendrá las siguientes atribuciones:
-
-I. Proponer al Consejo Estatal lineamientos de prevención social del delito, a través del diseño transversal de políticas de prevención, cuyas acciones tendrán el carácter de permanentes y estratégicas;
-
-II. Promover la cultura de la paz, la legalidad, el respeto a los derechos humanos, la participación ciudadana y una vida libre de violencia;
-
-III. Emitir opiniones y recomendaciones, dar seguimiento y evaluar las acciones implementadas por las Instituciones de Seguridad Pública, estatales y municipales;
-
-IV. Promover la inclusión de contenidos relativos a la Prevención del Delito en los programas educativos, de salud, de desarrollo social y en general en los diversos programas de las instituciones de la administración pública estatal, así como colaborar con los municipios en esta materia, participando activamente en los subprogramas de Prevención del Delito, derivados del Programa, y
-
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
-
-V. Celebrar convenios de colaboración con la Secretaría de Educación, la Universidad Autónoma de Zacatecas y demás instituciones de educación superior en el Estado, para que por medio de ellas se dé orientación a niñas, niños y jóvenes, de acuerdo con su nivel educativo, en materia de prevención de infracciones y delitos;
-
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
-
-VI. Informar al Congreso del Estado de Zacatecas de los programas, estrategias, acciones y políticas que se adopten para la prevención del delito, lo anterior dentro de los primeros cinco días de iniciado el primer periodo ordinario de sesiones de cada año, y
-
-VII. Las demás que le establezca la Ley General, esta Ley, su Reglamento y el Centro Nacional de Prevención del Delito y Participación Ciudadana.
-
-La organización y funciones del Centro Estatal de Prevención del Delito y Participación Ciudadana se establecerán en esta Ley y su Reglamento.
+(DEROGADO, P.O. 4 DE ENERO DE 2020)
 
 Del Centro Estatal de Evaluación y Control de Confianza
 
@@ -745,9 +767,11 @@ El servicio de llamadas de emergencia y el servicio de denuncia anónima, operar
 
 Suministro de Información al Sistema Estatal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2020)</small>
+
 ###### Artículo 44.
 
-Las Instituciones Policiales del Estado y de los municipios, así como la Procuraduría General de Justicia y las instancias de ejecución de justicia penal para adultos y de justicia para adolescentes, deberán suministrar la información que generen a efecto de integrar y organizar el Sistema Estatal de Información.
+Las Instituciones Policiales del Estado y de los municipios, así como la Fiscalía General de Justicia y las instancias de ejecución de justicia penal para adultos y de justicia para adolescentes, deberán suministrar la información que generen a efecto de integrar y organizar el Sistema Estatal de Información.
 
 Además se integrará la información proporcionada por otras entidades y dependencias que se estime necesaria para la elaboración del diagnóstico que guarda la seguridad pública en el Estado y para la formulación de estrategias en la materia.
 
@@ -777,11 +801,13 @@ El acceso a los registros y a la información generada por el Sistema Estatal de
 
 La información generada estará disponible sólo para las autoridades e instituciones de Seguridad Pública y de generación de inteligencia de seguridad pública, en el ejercicio de sus funciones, siguiendo los procedimientos que se establezcan en la reglamentación respectiva. La información se proporcionará atendiendo al ámbito de competencia de la autoridad solicitante.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
+
 De la responsabilidad en el manejo de la información
 
 ###### Artículo 49.
 
-Los servidores públicos responsables de la operación del Sistema Estatal de Información, incurrirán en responsabilidad conforme a esta Ley, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas, y las demás aplicables, sin perjuicio de la responsabilidad penal, cuando hagan mal uso o proporcionen de manera indebida la información contenida en las bases de datos mencionadas.
+Los servidores públicos responsables de la operación del Sistema Estatal de Información, incurrirán en responsabilidad conforme a esta Ley, la Ley General de Responsabilidades Administrativas y las demás aplicables, sin perjuicio de la responsabilidad penal, cuando hagan mal uso o proporcionen de manera indebida la información contenida en las bases de datos mencionadas.
 
 ### CAPÍTULO IX. DE LOS DERECHOS Y OBLIGACIONES DE LOS INTEGRANTES DE LAS INSTITUCIONES POLICIALES
 
@@ -973,9 +999,11 @@ Las Instituciones de Seguridad Pública, realizarán y someterán a las autorida
 
 Naturaleza jurídica del Instituto de Formación Profesional
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2020)</small>
+
 ###### Artículo 57.
 
-El Instituto es un órgano desconcentrado de la Secretaría General de Gobierno, con autonomía técnica y de gestión.
+El Instituto es un órgano desconcentrado de la Secretaría, con autonomía técnica y de gestión.
 
 Su estructura y funcionamiento serán reguladas en el Reglamento que para tal efecto se expida.
 
@@ -1107,7 +1135,9 @@ De las unidades de policía de investigación científica
 
 Las unidades de policía encargadas de la investigación científica de los delitos se ubicarán en la estructura orgánica de las instituciones de procuración de justicia.
 
-La Policía Ministerial se sujetará a lo dispuesto en la Ley Orgánica del Ministerio Público, quedando a cargo de la Procuraduría General de Justicia la aplicación de las normas, supervisión y operación de los procedimientos relativos a su desarrollo policial.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
+
+La Policía de Investigación se sujetará a lo dispuesto en la Ley Orgánica de la Fiscalía General de Justicia del Estado de Zacatecas, quedando a cargo de la Fiscalía General la aplicación de las normas, supervisión y operación de los procedimientos relativos a su desarrollo policial.
 
 De la Carrera Policial
 
@@ -1285,13 +1315,15 @@ La profesionalización es el proceso permanente y progresivo de formación que s
 
 Los planes de estudio para la profesionalización se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza-aprendizaje, acorde con el Programa Rector.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
+
 Del servicio profesional de carrera
 
 ###### Artículo 85.
 
-El Servicio Profesional de Carrera del personal ministerial y pericial así como el Desarrollo Policial en la Institución de Procuración de Justicia, se sujetará a lo previsto en la Ley General, la Ley Orgánica del Ministerio Público, en su Reglamento del Servicio de Carrera y Desarrollo Policial y demás disposiciones aplicables.
+El Servicio Profesional de Carrera del personal ministerial y pericial así como el Desarrollo Policial en la Institución de Procuración de Justicia, se sujetará a lo previsto en la Ley General, la Ley Orgánica de la Fiscalía General de Justicia del Estado de Zacatecas, en su Reglamento del Servicio de Carrera y Desarrollo Policial y demás disposiciones aplicables.
 
-Los procedimientos en materia del Servicio Profesional de Carrera y Desarrollo Policial, serán aplicados, operados y supervisados por la Procuraduría General de Justicia del Estado.
+Los procedimientos en materia del Servicio Profesional de Carrera y Desarrollo Policial, serán aplicados, operados y supervisados por la Fiscalía General.
 
 ### CAPÍTULO XIII. DEL CONSEJO DE HONOR Y JUSTICIA
 
@@ -1363,9 +1395,13 @@ b) El Instituto de Formación Profesional;
 
 c) La Policía Estatal Preventiva;
 
-d) La Policía Ministerial;
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
 
-e) El área operativa de Transporte, Tránsito y Vialidad;
+d) La Policía de Investigación;
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
+
+e) El área operativa de seguridad vial;
 
 f) El Cuerpo de Seguridad y Custodia, y
 
@@ -1409,103 +1445,61 @@ V. Un representante del personal operativo de la institución policial correspon
 
 VI. El Secretario Técnico del Consejo de Honor y Justicia correspondiente.
 
-### CAPÍTULO XV. PARTICIPACIÓN CIUDADANA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ENERO DE 2020)</small>
+
+### CAPÍTULO XV. PREVENCIÓN DEL DELITO Y PARTICIPACIÓN CIUDADANA
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
 
 Consejos Estatal y Municipales Ciudadanos de Seguridad Pública
 
 ###### Artículo 94.
 
-El Centro Estatal de Prevención del Delito y Participación Ciudadana, constituirá un Consejo Estatal Ciudadano de Seguridad Pública y cada municipio conformará los consejos municipales respectivos. Dichos Consejos tendrán como finalidad fomentar la participación de la sociedad, en la planeación, elaboración, evaluación y supervisión de las actividades en materia de Seguridad Pública, en los términos de esta Ley y del Reglamento del Centro.
-
-Del servicio de localización de personas y bienes y observatorios ciudadanos
+La Secretaría General constituirá un Consejo Estatal Ciudadano de Seguridad Pública y cada municipio conformará los consejos municipales respectivos. Dichos Consejos tendrán como finalidad fomentar la participación de la sociedad, en la planeación, elaboración, evaluación y supervisión de las actividades en materia de Seguridad Pública, en los términos de esta Ley y del Reglamento del Centro.
 
 ###### Artículo 95.
 
-El Consejo Estatal Ciudadano de Seguridad Pública, en coordinación con el Centro Estatal de Prevención del Delito y Participación Ciudadana y los municipios del Estado, impulsará las acciones necesarias para establecer un servicio para la localización de personas y bienes, impulsará además, la creación de Observatorios Ciudadanos, cuya estructura y funcionamiento se precisarán en el Reglamento del Centro Estatal de Prevención del Delito y Participación Ciudadana.
-
-Integración de los Consejos Estatal y Municipales Ciudadanos en Seguridad Pública.
+(DEROGADO, P.O. 4 DE ENERO DE 2020)
 
 ###### Artículo 96.
 
-Los Consejos Ciudadanos de Seguridad Pública, Estatal y municipales a que se refiere el artículo anterior, se integrarán al menos de la siguiente forma:
-
-I. Por un Presidente, que será elegido anualmente de entre los consejeros ciudadanos electos de conformidad con el Reglamento del Centro Estatal de Prevención del Delito y Participación Ciudadana;
-
-II. Por un secretario técnico, fungiendo con tal carácter el titular del Centro Estatal de Prevención del Delito y Participación Ciudadana en el ámbito estatal y su similar en el ámbito municipal, y
-
-III. Por consejeros ciudadanos, designados por el Gobernador o por la mayoría de los integrantes de los ayuntamientos, según corresponda, de entre los propuestos por los diferentes sectores de la sociedad civil. Para la elección se considerará la reputación, participación e interés mostrado en materia de seguridad pública por los ciudadanos propuestos.
-
-Las propuestas para la designación de consejeros ciudadanos, derivarán de la convocatoria que realicen para tal efecto, el Gobernador o el Presidente Municipal respectivo.
-
-Los consejos ciudadanos de seguridad pública, del Estado y municipios, se integrarán mayoritariamente por consejeros ciudadanos, en términos del Reglamento del Centro Estatal de Prevención del Delito y Participación Ciudadana.
-
-Facultades adicionales del Consejo Estatal de Consulta y Participación Ciudadana
+(DEROGADO, P.O. 4 DE ENERO DE 2020)
 
 ###### Artículo 97.
 
-El Consejo Estatal de Consulta y Participación Ciudadana, tendrá, además, las siguientes funciones:
-
-I. En periodos no mayores de seis meses, emitir conclusiones sobre la apreciación objetiva y técnica, del nivel de profesionalización y operación de las Instituciones Policiales. Las conclusiones deberán hacerse llegar a los ayuntamientos correspondientes, cuando la institución policial sea municipal, y a la autoridad superior de la que dependa directamente la institución policial del ámbito estatal, cuando éste sea el caso;
-
-II. Mediante el análisis objetivo y técnico de la información de seguridad pública, disponible por los canales oficiales, así como con el conocimiento directo por visitas de campo en las áreas de seguridad, emitir conclusiones sobre el cumplimiento de esta Ley.
-
-III. Establecer los lineamientos de seguridad preventiva, turnándolas a la autoridad correspondiente para garantizar su difusión en el Estado.
-
-Funciones del Secretario Técnico del Consejo Estatal de Consulta y Participación Ciudadana
+(DEROGADO, P.O. 4 DE ENERO DE 2020)
 
 ###### Artículo 98.
 
-Son funciones del Secretario Técnico del Consejo Estatal de Consulta y Participación Ciudadana:
-
-I. Levantar y certificar los acuerdos que se tomen en este Consejo y llevar el control de los mismos;
-
-II. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo;
-
-III. Informar periódicamente al Consejo de sus actividades, de conformidad con lo (sic) establezca el Reglamento correspondiente;
-
-IV. Coordinar la realización de estudios especializados sobre seguridad pública, y
-
-V. Las demás que determine el Consejo y le señalen los demás ordenamientos jurídicos de la materia.
-
-Periodicidad de las sesiones de los Consejos Estatal y Municipales de Consulta y Participación Ciudadana
+(DEROGADO, P.O. 4 DE ENERO DE 2020)
 
 ###### Artículo 99.
 
-Los Consejos Estatal y Municipales de Consulta y Participación Ciudadana sesionarán de manera ordinaria por lo menos una vez cada tres meses y, extraordinariamente, cuando sean convocados por el Presidente de los mismos.
-
-Actividades de difusión del Consejo Estatal de Consulta y Participación Ciudadana
+(DEROGADO, P.O. 4 DE ENERO DE 2020)
 
 ###### Artículo 100.
 
-El Consejo Estatal de Consulta y Participación Ciudadana difundirá a través de la dependencia correspondiente, las medidas preventivas que juzgue convenientes, recomendando su observancia a los gobernados. Estas medidas fomentarán la participación de la población en las actividades de prevención que permitan preservar la seguridad de las personas, sus familias y sus bienes.
-
-Vigencia en las funciones de los miembros de los Consejos Estatal y Municipales Ciudadanos de Seguridad Pública
+(DEROGADO, P.O. 4 DE ENERO DE 2020)
 
 ###### Artículo 101.
 
-La duración del encargo de los integrantes de los Consejos Ciudadanos será la siguiente:
-
-I. Para los servidores públicos, el tiempo que permanezcan en el cargo, y
-
-II. Para los Consejeros Ciudadanos dos años pudiendo ser ratificados para otro periodo igual.
-
-De las acciones de los Consejos Ciudadanos
+(DEROGADO, P.O. 4 DE ENERO DE 2020)
 
 ###### Artículo 102.
 
-Los miembros de los Consejos Ciudadanos, desarrollarán las acciones que señalen esta Ley y su Reglamento.
-
-De la participación ciudadana en los Consejos de Seguridad
+(DEROGADO, P.O. 4 DE ENERO DE 2020)
 
 ###### Artículo 103.
 
-Los Consejos Ciudadanos de Seguridad Pública, Estatal y municipales promoverán que las Instituciones de Seguridad Pública en su área de competencia, cuenten con una instancia de consulta y participación de la comunidad, para alcanzar los propósitos del artículo anterior.
+(DEROGADO, P.O. 4 DE ENERO DE 2020)
 
 Promoción de la participación ciudadana a través de los consejos ciudadanos de seguridad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2020)</small>
+
 ###### Artículo 104.
 
-Para mejorar el servicio de Seguridad Pública, el Centro Estatal de Prevención del Delito y Participación Ciudadana, promoverá la participación de la comunidad por conducto del Consejo Ciudadano de Seguridad Pública, a través de las siguientes acciones:
+Para mejorar el servicio de Seguridad Pública, la Secretaría General de Gobierno, promoverá la participación de la comunidad a través de las siguientes acciones:
 
 I. Promover la participación organizada de la sociedad, en actividades relacionadas con la seguridad pública;
 
@@ -1539,9 +1533,11 @@ XV. Ejercer las demás atribuciones que sean necesarias para cumplir los objetiv
 
 De la evaluación de políticas en materia de seguridad pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2020)</small>
+
 ###### Artículo 105.
 
-La participación ciudadana en materia de evaluación de políticas y de instituciones, se sujetará a los indicadores previamente establecidos con el Centro Estatal de Prevención del Delito y Participación Ciudadana, sobre los siguientes temas:
+La participación ciudadana en materia de evaluación de políticas y de instituciones, se sujetará a los indicadores previamente establecidos por la Secretaría General de Gobierno, en coordinación con los Órganos de Participación Ciudadana, sobre los siguientes temas:
 
 I. El desempeño de sus integrantes;
 
@@ -1549,19 +1545,23 @@ II. El servicio prestado, y
 
 III. El impacto de las políticas públicas en la prevención del delito.
 
-Los resultados de los estudios deberán ser entregados al Consejos Estatal, por conducto del Secretariado Ejecutivo. Estos estudios servirán para la formulación de políticas públicas en la materia.
+> <small>(DEROGADO, P.O. 4 DE ENERO DE 2020)</small>
 
 De la información en materia de participación ciudadana
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2020)</small>
+
 ###### Artículo 106.
 
-El Centro Estatal de Información deberá proporcionar por conducto del Secretario Técnico del Consejo Ciudadano de Seguridad Pública, la información necesaria y conducente para el desarrollo de las actividades en materia de participación ciudadana. No se podrá proporcionar la información que ponga en riesgo la seguridad pública o personal o que sea clasificada en términos de la legislación aplicable.
+El Centro Estatal de Información deberá proporcionar, por conducto de la Secretaría General de Gobierno, la información necesaria y conducente para el desarrollo de las actividades en materia de participación ciudadana. No se podrá proporcionar la información que ponga en riesgo la seguridad pública o personal o que sea clasificada en términos de la legislación aplicable.
 
 De las políticas públicas en materia de atención a las víctimas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2020)</small>
+
 ###### Artículo 107.
 
-La Ley Orgánica del Ministerio Público, establecerá políticas públicas de atención a la víctima, que deberán prever, al menos los siguientes rubros:
+La Ley Orgánica de la Fiscalía General de Justicia del Estado de Zacatecas, establecerá políticas públicas de atención a la víctima, que deberán prever, al menos los siguientes rubros:
 
 I. Atención de la denuncia en forma pronta y expedita;
 
@@ -1607,7 +1607,9 @@ II. Apercibimiento público;
 
 III. Suspensión en el desempeño del empleo, cargo o comisión;
 
-IV. Multa de 10 a 1000 cuotas de salario mínimo diario general vigente en el Estado;
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
+
+IV. Multa de 10 a 1000 Unidades de Medida y Actualización diaria, establecidas por el Instituto Nacional de Estadística y Geografía;
 
 V. Sanción económica, cuando por el incumplimiento de las obligaciones establecidas en la presente Ley, se produzcan beneficios o lucro, o se causen de daños o perjuicios, los cuales podrán ser de hasta tres tantos de los beneficios o lucro obtenidos o de los daños o perjuicios causados;
 
@@ -1729,21 +1731,25 @@ X. Los acuerdos dictados durante el procedimiento, serán firmados por el Presid
 
 XI. Para lo no previsto en el presente Capítulo se aplicará de manera supletoria el Código de Procedimientos Civiles para el Estado de Zacatecas.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
+
 Del procedimiento y medios de defensa en la imposición de sanciones
 
 ###### Artículo 115.
 
-El procedimiento para la imposición de las sanciones será competencia del Consejo de Honor y Justicia, se regulará en su Reglamento, en concordancia con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas, los reglamentos del Servicio Profesional de Carrera Policial y de Procuración de Justicia y demás ordenamientos legales aplicables.
+El procedimiento para la imposición de las sanciones será competencia del Consejo de Honor y Justicia, se regulará en su Reglamento, en concordancia con lo establecido en la Ley General de Responsabilidades Administrativas, los reglamentos del Servicio Profesional de Carrera Policial y de Procuración de Justicia y demás ordenamientos legales aplicables.
 
-Contra las resoluciones definitivas que emitan los Consejos de Honor y Justicia, procederá el Juicio de Nulidad ante el Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas.
+Contra las resoluciones definitivas que emitan los Consejos de Honor y Justicia, procederá el Juicio de Nulidad ante el Tribunal de Justicia Administrativa del Estado de Zacatecas.
 
 ### CAPÍTULO XVII. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
 De las responsabilidades administrativas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2020)</small>
+
 ###### Artículo 116.
 
-El incumplimiento de lo dispuesto por esta Ley a cargo de los servidores públicos que desempeñen labores estrictamente administrativas, serán sancionados conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y sus Municipios, sin perjuicio de la responsabilidad civil o penal en que puedan incurrir.
+El incumplimiento de lo dispuesto por esta Ley a cargo de los servidores públicos que desempeñen labores estrictamente administrativas, serán sancionados conforme a lo dispuesto por la Ley General de Responsabilidades Administrativas, sin perjuicio de la responsabilidad civil o penal en que puedan incurrir.
 
 Lo dispuesto en el párrafo anterior, no es aplicable a quienes ocupen un cargo de elección popular ni a los integrantes de las Instituciones Policiales.
 
@@ -1896,3 +1902,21 @@ P.O. 16 DE SEPTIEMBRE DE 2017.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 4 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 298.- REFORMAS Y ADICIONES A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Artículo Segundo. Dentro del plazo de 180 días posteriores al inicio de la vigencia de este Decreto, deberá quedar constituido el Consejo Local.
+
+Artículo Tercero. Dentro del plazo de 180 días posteriores a la constitución del Consejo Local, deberán constituirse los Consejos Regionales.
+
+Artículo Cuarto. El Ejecutivo del Estado transferirá los recursos humanos, financieros y materiales con los que cuenta actualmente el Centro Estatal de Prevención del Delito y Participación Ciudadana del Secretariado Ejecutivo a la unidad administrativa que corresponda dentro de la Secretaría General de Gobierno.
+
+Asimismo, transferirá los recursos humanos, financieros y materiales con los que cuenta actualmente el Instituto de Formación Profesional de la Secretaría General de Gobierno, a la Secretaría de Seguridad Pública del Gobierno del Estado.
+
+El proceso de entrega-recepción se llevará a cabo de acuerdo con la Ley de Entrega-Recepción del Estado y Municipios de Zacatecas, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios y demás disposiciones aplicables.
+
+Artículo Quinto. Dentro de los ciento veinte días siguientes a la vigencia del presente Decreto, el titular del Poder Ejecutivo del Estado y los Presidentes Municipales, emitirán las convocatorias respectivas, respecto del proceso de designación de los consejeros de consulta, para dar cumplimiento a lo previsto en el artículo 39 bis de la Ley para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana para el Estado de Zacatecas.
