@@ -4,7 +4,7 @@ identifier: "LGAHOTDU"
 country: "mx"
 rank: "ley_general"
 publication_date: "2016-11-28"
-last_updated: "2019-05-14"
+last_updated: "2020-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117395&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGAHOTDU"
 
 LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ENERO DE 2020.
 
 Ley publicada en la Primera Sección al Número 21 del Diario Oficial de la Federación, el lunes 28 de noviembre de 2016.
 
@@ -133,6 +133,10 @@ XXVII. Patrimonio Natural y Cultural: sitios, lugares o edificaciones con valor 
 XXVIII. Provisiones: las áreas que serán utilizadas para la Fundación de un centro de población;
 
 XXIX. Reducción de Riesgos de desastres: los esfuerzos sistemáticos dirigidos al análisis y a la gestión de los factores causales de los desastres, lo que incluye la reducción del grado de exposición a las amenazas, la disminución de la vulnerabilidad de la población y la propiedad, y una gestión sensata de los suelos y del medio ambiente;
+
+> <small>(ADICIONADA, D.O.F. 6 DE ENERO DE 2020)</small>
+
+XXIX Bis. Riesgo: Daños o perdidas probables sobre un agente afectable, resultado de la interacción entre su vulnerabilidad y la presencia de un agente perturbador;
 
 XXX. Reservas: las áreas de un centro de población que serán utilizadas para su Crecimiento;
 
@@ -1747,3 +1751,9 @@ D.O.F. 14 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 41 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL Y LA FRACCIÓN IX DEL ARTÍCULO 8 DE LA LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXIX BIS AL ARTÍCULO 3 DE LA LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
