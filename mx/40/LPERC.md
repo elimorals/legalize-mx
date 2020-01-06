@@ -4,7 +4,7 @@ identifier: "LPERC"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "2015-12-17"
+last_updated: "2020-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPERC"
 
 LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ENERO DE 2020.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 1975.
 
@@ -570,6 +570,8 @@ El premio consistirá en una de las preseas a que hace mención el artículo 7o.
 
 Este premio será entregado en ceremonia pública y solemne por el Presidente de la República o la persona que él designe.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO, PUBLICADO EN EL D.O.F. 6 DE ENERO DE 2020, LOS ARTÍCULOS 59; 60; 61; 62; 63 Y 63 BIS PASAN A FORMAR PARTE DEL CAPÍTULO IX "PREMIO NACIONAL DE DEPORTES" TODA VEZ QUE HAN SIDO DEROGADOS LOS CAPÍTULOS IX BIS Y IX TER.]</small>
+
 ### CAPITULO IX. Premio Nacional de Deportes
 
 > <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
@@ -584,51 +586,53 @@ b) En el deporte profesional;
 
 c) En el deporte paralímpico;
 
-d) Al entrenador; y
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 2020)</small>
 
-e) Al juez-árbitro.
+d) Al entrenador;
 
-Las modalidades previstas en los incisos a), c), d) y e) podrán hacerse acompañar de numerario cuyo monto será determinado por la Comisión Nacional de Cultura Física y Deporte. Para la modalidad prevista en el inciso b) no se acompañará numerario alguno.
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 2020)</small>
+
+e) Al juez-arbitro;
+
+> <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 2020)</small>
+
+f) Por trayectoria destacada en el deporte mexicano, y
+
+> <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 2020)</small>
+
+g) Por el fomento, la protección o el impulso de la práctica de los deportes.
+
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 2020)</small>
+
+Las modalidades previstas en los incisos a), c), d), e) y f) podrán hacerse acompañar de numerario cuyo monto será determinado por la Comisión Nacional de Cultura Física y Deporte. Para las modalidades previstas en los incisos b) y g) no se acompañará numerario alguno.
 
 El otorgamiento del Premio Nacional de Deportes obtenido en grupo no será impedimento para ser premiado de manera individual, pero cuando se otorgue por segunda o más ocasiones a la misma persona, no se acompañará de numerario.
 
-> <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 2020)</small>
+
+El Premio Nacional de Deportes a que se refiere el inciso g), se otorgará a un solo aspirante de entre las asociaciones y sociedades deportivas, así como entes de promoción deportiva a que se refiere la Ley General de Cultura Física y Deporte.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 6 DE ENERO DE 2020)</small>
 
 ### CAPITULO IX BIS. Premio Nacional de Mérito Deportivo
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
-
 ###### ARTICULO 57.
 
-El Premio Nacional de Mérito Deportivo se concederá en las siguientes categorías:
-
-I. Por actuación y trayectoria destacada en el deporte mexicano, y
-
-II. Por el fomento, la protección o el impulso de la práctica de los deportes.
-
-La categoría prevista en la fracción I podrá hacerse acompañar de numerario cuyo monto será determinado por la Comisión Nacional de Cultura Física y Deporte. Para la categoría prevista en la fracción II no se acompañará numerario alguno.
-
-Cuando el premio se otorgue por segunda o más ocasiones a la misma persona, no se acompañará de numerario.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, D.O.F. 6 DE ENERO DE 2020)
 
 ###### ARTICULO 58.
 
-El Premio Nacional de Mérito Deportivo, a que se refiere la fracción II del artículo anterior, se otorgará a un solo aspirante de entre las asociaciones y sociedades deportivas, así como entes de promoción deportiva a que se refiere la Ley General de Cultura Física y Deporte.
+(DEROGADO, D.O.F. 6 DE ENERO DE 2020)
 
-> <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+> <small>(DEROGADO, D.O.F. 6 DE ENERO DE 2020)</small>
 
 ### CAPITULO IX TER. Disposiciones Comunes para los Premios Nacionales de Deportes y de Mérito Deportivo
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 2020)</small>
 
 ###### ARTICULO 59.
 
-El mismo Consejo de Premiación designado para el Premio Nacional de Deportes funcionará para el Premio Nacional de Mérito Deportivo.
-
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
-
-Este se integrará por el Secretario de Educación Pública, quien lo presidirá, y por los titulares de las Comisiones de Deporte de la Cámara de Diputados y de Juventud y Deporte de la Cámara de Senadores, de la Comisión Nacional de Cultura Física y Deporte, del Comité Olímpico Mexicano, A.C., y del Comité Paralímpico Mexicano, A.C.
+El Consejo de Premiación se integrará por. el Secretario de Educación Pública, quien lo presidirá, y por los titulares de las Comisiones de Deporte de la Cámara de Diputados y de Juventud y Deporte de la Cámara de Senadores, de la Comisión Nacional de Cultura Física y Deporte, del Comité Olímpico Mexicano, A.C., y del Comité Paralímpico Mexicano, A.C.
 
 Cualquier controversia será resuelta por el Consejo.
 
@@ -654,13 +658,15 @@ N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL D.O.F. 26 DE DICIE
 
 Estos premios se concederán exclusivamente a candidatos propuestos por asociaciones deportivas nacionales y asociaciones deportivas registradas y reconocidas por la Comisión Nacional de Cultura Física y Deporte o por los responsables de la información deportiva difundida por prensa escrita, radio o televisión, quienes lo podrán proponer a través de las asociaciones deportivas nacionales o asociaciones deportivas registradas.
 
-Las candidaturas se propondrán al Consejo de Premiación dentro del periodo comprendido del 15 de septiembre al 20 de octubre de cada año. El Consejo integrará los expedientes que procedan dentro de los diez días naturales siguientes y a continuación los pondrá a consideración del Jurado, el cual entregará su dictamen debidamente fundado, motivado y por escrito al Consejo, a más tardar el 10 de noviembre.
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 2020)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+Las candidaturas se propondrán al Consejo de Premiación dentro del periodo comprendido del 1 de septiembre y a más tardar el 15 de octubre de cada año. El Consejo integrará los expedientes que procedan dentro de los diez días siguientes y a continuación los pondrá a consideración del Jurado, el cuál entregará su dictamen debidamente fundado, motivado y por escrito al Consejo, a más tardar el 10 de noviembre.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE ENERO DE 2020)</small>
 
 ###### ARTICULO 63.
 
-Habrá un solo jurado para los dos premios, que se integrará por: un representante de la Comisión Nacional de Cultura Física y Deporte, uno del Comité Olímpico Mexicano, A.C., y uno del Comité Paralímpico Mexicano, A.C., quienes serán designados por los titulares de dichos organismos, respectivamente. Asimismo, por un ex galardonado del Premio Nacional de Deportes, un ex galardonado del Premio Nacional de Mérito Deportivo, un medallista olímpico, un medallista paralímpico, un representante de la prensa escrita, un representante de la televisión y un representante de la radio.
+El Jurado se integrará por: un representante de la Comisión Nacional de Cultura Física y Deporte, uno del Comité Olímpico Mexicano, A.C., y uno del Comité Paralímpico Mexicano, A.C., quienes serán designados por los titulares de dichos organismos, respectivamente. Asimismo, por un ex galardonado del Premio Nacional de Deportes, un ex galardonado del Premio Nacional de Mérito Deportivo, un medallista olímpico, un medallista paralímpico, un representante de la prensa escrita, un representante de la televisión y un representante de la radio.
 
 > <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
 
@@ -670,9 +676,9 @@ Los miembros del jurado deberán conducirse con imparcialidad, legalidad y equid
 
 Además de las disposiciones previstas en esta ley, el jurado podrá proponer la entrega de premios adicionales en una misma modalidad y categoría.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 2020)</small>
 
-ARTICULO 63 BIS.- Los premios se entregarán en el mes de diciembre de cada año.
+ARTICULO 63 BIS.- Los premios se entregarán el 20 de noviembre de cada año, en el marco de los festejos conmemorativos del aniversario de la Revolución Mexicana.
 
 ### CAPITULO X. Premio Nacional de Mérito Cívico
 
@@ -1431,3 +1437,9 @@ OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educaci�
 NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
 
 DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+D.O.F. 6 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
