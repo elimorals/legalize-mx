@@ -4,7 +4,7 @@ identifier: "LAN"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-01"
-last_updated: "2016-03-24"
+last_updated: "2020-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAN"
 
 LEY DE AGUAS NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ENERO DE 2020.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 1 de diciembre de 1992.
 
@@ -2670,6 +2670,10 @@ V. Hacer del conocimiento de "la Autoridad del Agua" los contaminantes presentes
 
 VI. Informar a "la Autoridad del Agua" de cualquier cambio en sus procesos, cuando con ello se ocasionen modificaciones en las características o en los volúmenes de las aguas residuales contenidas en el permiso de descarga correspondiente;
 
+> <small>(ADICIONADA, D.O.F. 6 DE ENERO DE 2020)</small>
+
+VI Bis. Adoptar dentro de sus procesos, la utilización de materiales biodegradables, siempre y cuando técnicamente sean viables, atendiendo a las disposiciones reglamentarias en la materia;
+
 VII. Operar y mantener por sí o por terceros las obras e instalaciones necesarias para el manejo y, en su caso, el tratamiento de las aguas residuales, así como para asegurar el control de la calidad de dichas aguas antes de su descarga a cuerpos receptores;
 
 VIII. Conservar al menos por cinco años el registro de la información sobre el monitoreo que realicen;
@@ -3258,27 +3262,33 @@ XXIII. Explotar, usar o aprovechar bienes nacionales determinados en los Artícu
 
 XXIV. Explotar, usar o aprovechar bienes nacionales determinados en los Artículos 113 y 113 BIS de la presente Ley, en cantidad superior o en forma distinta a lo establecido en el respectivo título de concesión.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE ENERO DE 2020)</small>
 
 ###### ARTICULO 120.
 
-Las faltas a que se refiere el Artículo anterior serán sancionadas administrativamente por "la Autoridad del Agua" con multas que serán equivalentes a los siguientes días del salario mínimo general vigente en el Distrito Federal en el momento en que se cometa la infracción, independientemente de las sanciones estipuladas en la Ley General de Equilibrio Ecológico y la Protección al Ambiente, Ley de Bienes Nacionales y Ley Federal de Metrología y Normalización y sus reglamentos, las Normas Oficiales Mexicanas, el Código Penal Federal y demás disposiciones aplicables en la materia:
+Las faltas a que se refiere el Artículo anterior serán sancionadas administrativamente por "la Autoridad del Agua" con multas que serán equivalentes al valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometa la infracción, y en las cantidades que a continuación se expresan; lo anterior, independientemente de las sanciones estipuladas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley de Bienes Nacionales y Ley Federal de Metrología y Normalización y sus reglamentos, las Normas Oficiales Mexicanas, el Código Penal Federal y demás disposiciones aplicables en la materia:
 
-> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 6 DE ENERO DE 2020)</small>
 
-I. 200 a 1,500, en el caso de violación a las fracciones X, XI, XVI, XXI y XXII;
+I. 260 a 1,950 Unidades de Medida y Actualización, en el caso de violación a las fracciones X, XI, XVI, XXI y XXII;
 
-> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 6 DE ENERO DE 2020)</small>
 
-II. 1,200 a 5,000, en el caso de violaciones a las fracciones I, VI, XII, XVIII y XIX, y
+II. 1,560 a 6,500 Unidades de Medida y Actualización, en el caso de violaciones a las fracciones I, VI, XII, XVIII y XIX, y
 
-> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 6 DE ENERO DE 2020)</small>
 
-III. 1,500 a 20,000, en el caso de violación a las fracciones II, III, IV, V, VII, VIII, IX, XIII, XIV, XV, XVII, XX, XXIII y XXIV.
+III. 1,950 a 26,000 Unidades de Medida y Actualización, en el caso de violación a las fracciones II, III, IV, V, VII, VIII, IX, XIII, XIV, XV, XVII, XX, XXIII y XXIV.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 En los casos previstos en la fracción IX del Artículo anterior, los infractores perderán en favor de la Nación las obras de alumbramiento y aprovechamiento de aguas y se retendrá o conservará en depósito o custodia la maquinaria y equipo de perforación, hasta que se reparen los daños ocasionados en los términos de Ley, sin menoscabo de otras sanciones administrativas y penales aplicables.
 
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
+
 Las multas que imponga "la Autoridad del Agua" se deberán cubrir dentro de los plazos que dispone la Ley Federal de Procedimiento Administrativo.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 Cuando las multas no se paguen en la fecha establecida, el monto de las mismas se actualizará mensualmente desde el momento en que debió hacerse el pago y hasta que el mismo se efectúe, conforme al Índice Nacional de Precios al Consumidor.
 
@@ -3523,3 +3533,11 @@ D.O.F. 24 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS NACIONALES”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 120 Y SE ADICIONA UNA FRACCIÓN VI BIS AL ARTÍCULO 88 BIS, DE LA LEY DE AGUAS NACIONALES”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
