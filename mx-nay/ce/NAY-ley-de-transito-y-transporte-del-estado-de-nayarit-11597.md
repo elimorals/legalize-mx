@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transito-y-transporte-del-estado-de-nayarit-11597"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-17"
-last_updated: "2018-03-24"
+last_updated: "2020-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 7 DE ENERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2020 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 17 de diciembre de 1997.
 
@@ -2370,3 +2372,87 @@ Segundo. Dentro del plazo de ciento veinte días naturales contados a partir de 
 Tercero. El Titular del Poder Ejecutivo, dentro de un plazo de noventa días naturales contados a partir de la publicación del presente Decreto, deberá realizar las adecuaciones reglamentarias correspondientes.
 
 Cuarto. La Comisión Técnica del Transporte, dentro de un plazo de treinta días naturales contados a partir de la publicación del Decreto, deberá emitir los dictámenes a los que hace referencia la fracción VIII del artículo 22 del presente, los cuales, en su caso se actualizarán de manera anual.
+
+P.O. 7 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE MOVILIDAD DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. La Ley de Movilidad para el Estado de Nayarit, deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado del Nayarit.
+
+TERCERO. Se abroga la Ley de Tránsito y Transporte del Estado de Nayarit, con numero de decreto 8066 publicada en el Periódico Oficial, Órgano del Gobierno del Estado del Nayarit con fecha 17 de diciembre de 1997.
+
+CUARTO. Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
+
+QUINTO. El Ejecutivo del Estado deberá expedir el Reglamento de la Ley de Movilidad para el Estado de Nayarit, dentro de los 180 días contados a la entrada en vigor de la presente Ley.
+
+SEXTO. Los ayuntamientos deberán expedir o adecuar los reglamentos municipales que deriven de esta Ley, dentro de los noventa días posteriores a la entrada en vigor de la presente Ley y su reglamento, permaneciendo entre tanto vigentes los reglamentos municipales existentes, en todo aquello que no se oponga al contenido de la presente Ley.
+
+SÉPTIMO. El Reglamento Interior de la Secretaría de Movilidad del Estado de Nayarit y las reformas al Reglamento Interior de la Secretaría General de Gobierno deberán expedirse en un término de noventa días contado a partir de la publicación de la presente Ley.
+
+OCTAVO. Las obligaciones y compromisos adquiridos por la Dirección General de Tránsito y Transporte del Gobierno del Estado de Nayarit, para la realización de sus funciones sustantivas, serán asumidas por la Secretaría y corresponderá a este continuar su cumplimiento.
+
+NOVENO. Cualquier referencia en leyes, decretos, contratos, convenios y demás instrumentos normativos, que se haga a la Dirección General de Tránsito y Transporte del Gobierno del Estado de Nayarit, se entenderá hecha a la Secretaría de Movilidad.
+
+DÉCIMO. La Secretaría General de Gobierno se coordinará con la Secretaría de Administración Finanzas del Gobierno del Estado, para realizar las acciones conducentes a efecto de que la Secretaría entre en funciones, como órgano centralizado del Gobierno del Estado de Nayarit en los términos señalados en el Artículo Primero.
+
+DÉCIMO PRIMERO. Las Secretarías de Administración Finanzas y de Contraloría General, acompañarán en el proceso de modificación de la estructura de la Dirección General de Tránsito y Transporte del Gobierno del Estado de Nayarit.
+
+DÉCIMO SEGUNDO. Las concesiones, permisos y autorizaciones, otorgadas con apego a la Ley que se abroga, conservarán su vigencia, debiendo regirse en lo sucesivo y sin perjuicio de los derechos adquiridos, por las disposiciones de la presente Ley y su reglamentación.
+
+DÉCIMO TERCERO. Los trámites y procedimientos administrativos, los de aplicación de sanciones y la substanciación de los recursos iniciados o interpuestos antes de la entrada en vigor de la presente Ley, serán concluidos y resueltos por las autoridades correspondientes, de conformidad con las disposiciones legales vigentes al momento de su inicio o aplicación respectivos.
+
+DÉCIMO CUARTO. A efecto de actualizar el Registro Estatal de Concesiones y Permisos, para contar con un control adecuado de las concesiones del servicio público de transporte y brindar certeza jurídica a quienes de manera continua y permanente lo han venido prestando sin contar formalmente con el acto administrativo de concesionamiento o con el título de concesión correspondiente, la Secretaría de Movilidad, instrumentará un programa de regularización, el que se publicará en el Periódico Oficial Órgano del Gobierno del Estado para quienes se encuentren en alguno de los supuestos siguientes:
+
+I. Se ostenten como concesionarios y se encuentran prestando el servicio público en virtud de un número económico otorgado a su nombre por la dirección general de tránsito y transporte sin que se hubiere concluido el procedimiento de otorgamiento de concesión correspondiente;
+
+II. Se ostenten como concesionarios y se encuentran prestando el servicio público en virtud de un número económico otorgado a su nombre por la Dirección General de Tránsito y Transporte sin que hubieren realizado o concluido cesión de derechos alguna;
+
+III. A la fecha de implementación del programa de regularización tengan entablados procesos administrativos en contra del Gobierno del Estado en los que se demande el reconocimiento del derecho a explotar una concesión del servicio público de transporte de competencia estatal;
+
+IV. Le hubieren transmitido los derechos de una concesión y el titular de la concesión se negare a formalizarla o materialmente sea imposible efectuar la misma;
+
+V. Cuenten con original o copia certificada de la resolución definitiva de otorgamiento de concesión emitida a su nombre por autoridad competente y que no han venido prestando el servicio, por causas imputables a esta; y
+
+VI. Cuenten con un título concesión para prestar el servicio mixto de personas y cosas o acrediten fehacientemente haber prestado el servicio en dicha modalidad, y no hayan realizado el trámite para el cambio de modalidad al de taxi.
+
+El programa deberá iniciarse a más tardar dentro de los ciento veinte días siguientes a la entrada en vigor del presente decreto.
+
+La Comisión Técnica de Movilidad, dentro del programa de regularización, deberá emitir las resoluciones correspondientes y, en caso de ser procedente, remitirá al Titular del Poder Ejecutivo para que este en caso de ser procedente suscriba los títulos de concesiones correspondientes.
+
+Los derechos por otorgamiento de concesión, por la transmisión de derechos de la concesión y por el trámite de transmisión de derechos de la concesión que se causen con motivo del programa quedarán exentos de pago.
+
+La Comisión Técnica de Movilidad determinará la cancelación administrativa previa justificación de los registros de expedientes de concesiones respecto de los cuales no se tenga certeza en cuanto a su otorgamiento, titularidad o prestación del servicio.
+
+DÉCIMO QUINTO. A partir de la publicación de la presente Ley, se deberá incluir en la Ley de Ingresos para el Estado de Nayarit para el Ejercicio Fiscal 2020, los conceptos de cobro el relativo al permiso para prestar el servicio privado de pasajeros a través de aplicaciones móviles.
+
+DÉCIMO SEXTO. En un término de trecientos sesenta y cinco días contados días a partir de la entrada en vigor de la Ley deberá realizarse el Programa Integral de Movilidad Sustentable del Estado en alineación al Gran Plan Estatal y al Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano.
+
+DÉCIMO SÉPTIMO. Posterior a la culminación del Programa Integral de Movilidad Sustentable del Estado, los ayuntamientos deberán realizar sus Programas integrales de Movilidad Sustentable Municipales.
+
+DÉCIMO OCTAVO. Dentro de los primeros cinco años contados a partir de la entrada en vigor de la presente Ley, se utilizará la aportación económica recaudada del servicio privado de pasajeros a través de aplicaciones móviles destinada hacia el Fondo para la Movilidad Sustentable, exclusivamente a la actualización y mejoramiento del parque vehicular y la prestación del servicio de taxi.
+
+DÉCIMO NOVENO. La Secretaría y los concesionarios del servicio crearán un fideicomiso, que se encargue de administrar el Sistema de Recaudo y la distribución de los ingresos provenientes de la tarifa y de la administración del sistema del servició público de transporte colectivo, así como de recursos aportados por otras instancias para infraestructura, en los términos que para tal efecto establezcan en las reglas de operación del fideicomiso.
+
+Este fidecomiso entrara en funciones una vez que se homologue el sistema de cobro y el modelo de trasporte público en esquema empresarial.
+
+La entidad fiduciaria será aquella encargada de administrar los recursos producto de los ingresos del Sistema de Recaudo y distribuir en la cuantía establecida por el organismo, los recursos a que tiene derecho cada uno de los agentes del Sistema de Transporte Público por la operación del mismo.
+
+VIGÉSIMO. La Comisión Técnica de Movilidad, podrá realizar el análisis respectivo de actualización de tarifa hasta el año 2022.
+
+VIGÉSIMO PRIMERO. La Secretaria de Movilidad dentro de los 180 días contados a la entrada en vigor de la presente Ley, creara el Registro Público de Movilidad.
+
+VIGÉSIMO SEGUNDO. A efecto de realizar la regularización del transporte de carga dentro del transporte público y realizar el otorgamiento de concesiones a las personas físicas o morales que en la actualidad se encuentran realizando esta actividad y a fin regularizar su estatus jurídico e incorporar los datos correspondientes a el Registro Público de Movilidad, para contar con un control adecuado de las concesiones del servicio público de transporte y brindar certeza jurídica a quienes de manera continua y permanente lo han venido prestando sin contar formalmente con el acto administrativo de concesionamiento o con el título de concesión correspondiente, la Secretaría de Movilidad, instrumentará un programa de regularización, para que quienes se ostenten como permisionarios o acrediten que se encuentran prestando el servicio, contando con vehículos con las especificaciones técnicas requeridas en la presente Ley.
+
+El programa deberá iniciarse a más tardar dentro de los ciento veinte días siguientes a la entrada en vigor del presente decreto.
+
+Para realizar la regularización del transporte de carga las personas físicas o morales interesadas deberán de cubrir las contribuciones de verificación vehicular y estar al corriente de sus contribuciones de placas, refrendos y tenencias.
+
+El titular del Poder Ejecutivo del Estado, dentro del programa de regularización, deberá emitir las resoluciones correspondientes y, en caso de ser procedente, emitirá y suscribirá los títulos de concesiones correspondientes.
+
+La Comisión Técnica de Movilidad determinará la cancelación administrativa previa justificación de los registros de expedientes de concesiones respecto de los cuales no se tenga certeza en cuanto a su otorgamiento, titularidad o prestación del servicio.
+
+VIGÉSIMO TERCERO. El Titular del Poder Ejecutivo del Estado, dentro de los 180 días contados a partir de la entrada en vigor de la presente Ley nombrara a los integrantes de la Comisión Técnica de Movilidad. En tanto el Titular del Poder Ejecutivo del Estado no designe a los integrantes de la Comisión Técnica de Movilidad los integrantes de la Comisión Técnica de Transporte asumirán sus funciones.
+
+VIGÉSIMO CUARTO. El Registro Público de Movilidad, dentro de los 180 días contados a partir de que entre en funciones, instrumentará un programa de inscripción de los conductores del transporte público asentando la antigüedad que tienen en ejercicio de su función, para lo cual, el Registro Público de Movilidad, tomará en consideración la documentación que presenten los conductores del transporte público, misma que deberá dar certeza de su antigüedad y permanencia en la conducción de unidades del transporte público.
