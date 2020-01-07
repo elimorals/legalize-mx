@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-de-los-servidores-publicos-de-la-140256"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-07-04"
-last_updated: "2019-07-04"
+last_updated: "2020-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC, ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO POR EL QUE SE ARMONIZA EL CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC, PARA PROPICIAR SU INTEGRIDAD A TRAVÉS DEL COMITÉ DE ÉTICA, PUBLICADO EN LA G.G. DE 7 DE ENERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE ENERO DE 2020 (DEROGADO).
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 4 de julio de 2019.
 
@@ -900,3 +902,17 @@ LIC. OSCAR JAVIER GODÍNEZ SÁNCHEZ
 VOCAL TITULAR REPRESENTANTE DEL PERSONAL DOCENTE
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 7 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE ARMONIZA EL CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC, PARA PROPICIAR SU INTEGRIDAD A TRAVÉS DEL COMITÉ DE ÉTICA”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno" y el portal electrónico de la Universidad Estatal del Valle de Ecatepec y difúndase para su conocimiento y observancia a la comunidad por medios de comunicación internos.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Para interpretación, consulta y asesoría respecto al presente documento, se podrá acudir a la oficina del Abogado General o con los miembros del Comité de Ética de la Universidad Estatal del Valle de Ecatepec.
+
+CUARTO. Se deroga el Acuerdo por el que se expide el Código de Conducta de los Servidores Públicos de la Universidad Estatal del Valle de Ecatepec, autorizado por el Comité de Ética el 27 de junio de 2019 y publicado en el Periódico Oficial "Gaceta del Gobierno" el 04 de julio de 2019; así como las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
