@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2019-11-20"
+last_updated: "2020-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,9 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE AGOSTO DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 20 DE NOVIEMBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE ENERO DE 2020.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1252,6 +1250,8 @@ III. Dos sentencias, dictadas en procesos distintos, se hará la declaratoria de
 
 ### CAPÍTULO II. LESIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE ENERO DE 2020)</small>
+
 ###### ARTÍCULO 123.
 
 Al que prive de la vida a otro, se le impondrá de ocho a veinte años de prisión.
@@ -1292,11 +1292,9 @@ Al que prive de la vida a otro en riña se le impondrá de cuatro a doce años d
 
 ### CAPÍTULO III. REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
-
 ###### ARTÍCULO 130.
 
-Al que cause a otro un daño o alteración en su salud, se le impondrán:
+A quien cause a otra persona un daño o alteración en su salud, se le impondrán:
 
 I. (DEROGADA, G.O. 16 DE FEBRERO DE 2011)
 
@@ -1308,17 +1306,31 @@ IV. De dos a cinco años de prisión, cuando dejen cicatriz permanentemente nota
 
 V. De tres a cinco años de prisión, cuando disminuyan alguna facultad o el normal funcionamiento de un órgano o de un miembro;
 
-VI. De tres a ocho años de prisión, si producen la pérdida de cualquier función orgánica, de un miembro, de un órgano o de una facultad, o causen una enfermedad incurable o una deformidad incorregible; y
+> <small>(REFORMADA, G.O. 8 DE ENERO DE 2020)</small>
 
-VII. De tres a ocho años de prisión, cuando pongan en peligro la vida.
+VI. De seis a ocho años de prisión, si producen la pérdida de cualquier función orgánica, de un miembro, de un órgano o de una facultad, o causen una enfermedad incurable o una deformidad;
+
+> <small>(REFORMADA, G.O. 8 DE ENERO DE 2020)</small>
+
+VII. De seis a ocho años de prisión, cuando pongan en peligro la vida.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 16 DE FEBRERO DE 2011)</small>
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.O. 8 DE ENERO DE 2020)</small>
 
 ###### ARTÍCULO 131.
 
-A quien cause lesiones a un ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, persona con la que mantenga o haya mantenido una relación de hecho, adoptante o adoptado o persona integrante de una sociedad de convivencia, se le aumentara en una mitad la pena que corresponda según las lesiones inferidas.
+Las penas previstas en el artículo anterior, se incrementarán en una mitad del supuesto que corresponda, cuando:
+
+I. Las lesiones las cause una persona ascendiente o descendiente consanguínea en línea recta, hermana o hermano, persona adoptante o adoptada;
+
+II. Cuando exista o haya existido entre el activo y la víctima una relación de matrimonio, concubinato, sociedad de convivencia, noviazgo o cualquier otra relación sentimental o de hecho, de confianza, docente, laboral, subordinación o superioridad;
+
+III. Cuando existan antecedentes o datos que establezcan que el sujeto activo ha cometido amenazas, acoso o cualquier otro tipo de violencia en el ámbito familiar, laboral o escolar de la víctima;
+
+IV. Cuando a la víctima se le haya infringido lesiones infamantes ó degradantes, y
+
+V. Cuando se empleen ácidos, sustancias corrosivas o inflamables.
 
 > <small>(REFORMADO, G.O. 6 DE JULIO DE 2012)</small>
 
@@ -1354,9 +1366,7 @@ III. (DEROGADA, G.O. 13 DE SEPTIEMBRE DE 2004)
 
 ###### ARTÍCULO 136.
 
-A quien en estado de emoción violenta cometa homicidio o lesiones, se le impondrá una tercera parte de las penas que correspondan por su comisión.
-
-Existe emoción violenta cuando el sujeto activo del delito vive una intensa conmoción del ánimo que provoca un desorden del comportamiento, la pérdida del dominio de su capacidad reflexiva y la disminución de sus frenos inhibitorios, que desencadenaron el delito.
+(DEROGADO, G.O. 8 DE ENERO DE 2020)
 
 ###### ARTÍCULO 137.
 
@@ -5931,3 +5941,11 @@ G.O. 1 DE AGOSTO DE 2019.
 PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO: Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 8 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 130 Y 131 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL. SE DEROGA EL ARTÍCULO 136 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+Primero: El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. Remítase a la Jefa de Gobierno para efectos de su publicación en la Gaceta Oficial de la Ciudad de México.
