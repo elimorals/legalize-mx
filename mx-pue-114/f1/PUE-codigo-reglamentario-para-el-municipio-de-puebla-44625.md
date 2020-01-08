@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2019-12-30"
+last_updated: "2020-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -21471,8 +21471,6 @@ X. Sujetar las actividades relacionadas con la generación y manejo integral de 
 
 XI. Las prohibiciones e infracciones en materia de aseo, limpia y manejo de los desechos.
 
-N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 28 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE XXXVI FRACCIONES.
-
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 1351.
@@ -21493,15 +21491,25 @@ VI. Biogás: Mezcla de gases resultantes de la descomposición de la materia org
 
 VII. Biodegradable: Es el compuesto químico que se degrada por una acción biológica;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE ENERO DE 2020)</small>
+
 VIII. Caracterización de Sitios Contaminados: Es la determinación cualitativa y cuantitativa de los contaminantes químicos o biológicos presentes, provenientes de materiales o residuos peligrosos, para estimar la magnitud y tipo de riesgos que conlleva dicha contaminación;
 
-IX. Centros de Acopio: Son los sitios donde se depositan, limpian, clasifican y comercializan los residuos sólidos con características reciclables o reusables;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
+
+IX. Centros de Acopio: Son los sitios donde se depositan, limpian, clasifican y comercializan los residuos sólidos con características reciclables o reusables.
 
 X. Colonia: División territorial del Municipio en este Capítulo se entenderá por colonia también a los barrios y fraccionamientos;
 
 XI. Composta: Material que se obtiene de la biodegradación de los residuos sólidos orgánicos por varios métodos o sistemas y que es rico en nutrientes, pudiéndose utilizar como regenerador de suelos agrícolas;
 
-XII. Concesionario: Personas jurídicas o físicas autorizadas por el Ayuntamiento que prestan el servicio público de limpia, recolección, traslado, tratamiento y disposición final directamente coordinadas por el Organismo;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
+
+XII. Concesionario: Persona jurídica o física autorizada por el Ayuntamiento para prestar el servicio público de limpia, recolección, traslado, tratamiento y disposición final de residuos sólidos urbanos generados en el Municipio de Puebla.
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2020)</small>
+
+XII Bis. Contenedor Clasificado: Espacio cerrado en el interior de un predio para el manejo interno de los residuos sólidos con al menos 4 contenedores a nivel, accesibles para su recolección por camiones compactadores de residuos diferenciados. Las características deberán ser determinadas por el Organismo.
 
 XIII. Co-procesamiento: Integración ambientalmente segura de los residuos generados por una industria o fuente conocida, como insumo a otro proceso productivo;
 
@@ -21523,7 +21531,7 @@ XXI. Generador: Persona física o moral que produce residuos, a través del desa
 
 XXII. Gestión Integral de Residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo integral de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
 
-XXIII. Gestor: Persona física o moral autorizada en los términos de este ordenamiento, para realizar la prestación de los servicios de una o más de las actividades de manejo integral de residuos;
+XXIII. Gestor: Persona física o moral autorizada en los términos de este ordenamiento, para realizar la prestación de los servicios de una o más de las actividades de manejo integral de residuos.
 
 XXIV. Gran Generador: Persona física o moral que genere una cantidad igual o superior a 10 toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
 
@@ -21543,6 +21551,8 @@ XXXI. Microgenerador: Establecimiento industrial, comercial o de servicios que g
 
 XXXII. Minimización: Conjunto de políticas, programas y medidas adoptadas por las personas físicas o jurídicas, tendientes a evitar o reducir la generación de residuos y aprovechando, tanto como sea posible, el valor agregado de aquéllos;
 
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
+
 XXXIII. Montonera: Apilamiento de residuos sólidos urbanos en la vía pública, terrenos baldíos, barrancas y en general sitios no autorizados por el Organismo, producida por la irresponsabilidad de algunos ciudadanos;
 
 XXXIV. Organismo: El Organismo Operador del Servicio de Limpia del Municipio de Puebla;
@@ -21553,6 +21563,10 @@ XXXVI. Pequeño Generador: Persona física o moral que genere una cantidad igual
 
 XXXVII. Plan de Manejo: Instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de residuos sólidos urbanos, residuos de manejo especial y residuos peligrosos específicos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el diagnóstico básico para la gestión integral de residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres niveles de gobierno;
 
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2020)</small>
+
+XXXVII Bis. Plataforma soterrada. Mobiliario urbano que consta de 4 buzones con entrada selectiva de acuerdo al tipo de residuo y 4 contenedores instalados bajo tierra de acuerdo a las especificaciones que el Organismo establezca;
+
 XXXVIII. Proceso Productivo: Conjunto de actividades relacionadas con la extracción, beneficio, transformación, procesamiento y/o utilización de materiales para producir bienes y servicios;
 
 XXXIX. Producción Limpia: Proceso productivo en el cual se adoptan métodos, técnicas y prácticas, o incorporan mejoras, tendientes a incrementar la eficiencia ambiental de los mismos en términos de aprovechamiento de la energía e insumos y de prevención o reducción de la generación de residuos;
@@ -21561,9 +21575,15 @@ XL. Producto: Bien que generan los procesos productivos a partir de la utilizaci
 
 XLI. Programas: Serie ordenada de actividades y operaciones necesarias para alcanzar los objetivos de la Ley;
 
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2020)</small>
+
+XLI Bis. Punto Verde: Estructura para el depósito y almacenamiento diferenciado de residuos sólidos para reciclaje o valorización; con el objetivo de convertirlos en materia prima para las industrias; así como para la protección del medio ambiente y fomentar la corresponsabilidad con la población para consolidar un modelo de gestión integral sostenible.
+
 XLII. Reciclado: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos;
 
-XLIII. Recolector de Reciclables: Persona física que se dedica al manejo y comercialización de los subproductos reciclables.
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
+
+XLIII. Recolector de Reciclables: persona física o moral que se dedica al manejo y comercialización de los subproductos reciclables.
 
 XLIV. Recolección: Toda operación consistente en recoger, clasificar o agrupar los residuos para su transporte;
 
@@ -21587,7 +21607,9 @@ LIII. Residuos Sólidos Biodegradables: Son aquéllos susceptibles de ser disgre
 
 LIV. Residuos Sólidos No Biodegradables: Son aquéllos formados por materia inorgánica, cuyo cambio de composición se realiza mediante procesos físico químicos;
 
-LV. Residuos Sólidos Infectocontagiosos: Son aquéllos provenientes de hospitales, clínicas, laboratorios de análisis clínicos, laboratorios anátomo patológicos y en general los que provengan de fuentes donde se traten enfermedades de alto riesgo de contagio para seres humanos y/o animales;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
+
+LV. Residuos Peligrosos Biológico Infecciosos: Son todos aquellos provenientes de hospitales, clínicas, laboratorios de análisis clínicos, establecimientos de investigación y centros de salud generados por el desarrollo de actividades vinculadas a la salud y estética de los seres humanos o de los animales:
 
 LVI. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por la Ley como residuos de otra índole;
 
@@ -21617,13 +21639,11 @@ LXVIII. Valorización: Principio y conjunto de acciones asociadas cuyo objetivo 
 
 LXIX. Vulnerabilidad: Conjunto de condiciones que limitan la capacidad de defensa o de amortiguamiento ante una situación de amenaza y confieren a las poblaciones humanas, ecosistemas y bienes, un alto grado de susceptibilidad a los efectos adversos que puede ocasionar el manejo de los materiales o residuos, que por sus volúmenes y características intrínsecas, sean capaces de provocar daños al ambiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2020)</small>
 
 ###### Artículo 1352.
 
-El Presidente Municipal y a quien él designe como Titular del Organismo, serán los encargados de la aplicación del presente Capítulo, de conformidad con los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos; 104 de la Constitución Política para el Estado Libre y Soberano de Puebla; 199 de la Ley Orgánica Municipal, y el Decreto que crea el Organismo Operador del Servicio de Limpia para el Municipio de Puebla, y su Reglamento Interior.
-
-El Organismo, será el encargado de vigilar el exacto cumplimiento y aplicación del presente Capítulo, así como de la supervisión de las concesiones otorgadas.
+El Presidente Municipal y el Titular del Organismo, serán los encargados de la aplicación del presente capítulo, de conformidad con los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos, 104 de la Constitución para el Estado Libre y Soberano de Puebla, 199 de la Ley Orgánica Municipal; el Decreto del Honorable Congreso del Estado que crea el Organismo Operador del servicio de Limpia del Municipio de Puebla y sus modificaciones, así como su Reglamento Interior.
 
 ###### Artículo 1353.
 
@@ -21653,29 +21673,65 @@ La prestación de los anteriores conceptos, podrán ser concesionados en forma c
 
 El presente Capítulo, no excluye la aplicación de las disposiciones que sobre la materia, contengan las diversas Leyes y Reglamentos de Orden Federal, Estatal y Municipal.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2020)</small>
 
 ###### Artículo 1356.
 
-Los residuos sólidos generados en el Municipio de Puebla, son responsabilidad de los generadores, hasta y en tanto no sean depositados en la vía pública en los días y horarios de recolección, en los contenedores o en las unidades recolectoras autorizadas por el Organismo, los que a partir de ese momento pasarán a ser responsabilidad y propiedad del mismo.
+Los residuos sólidos generados en el Municipio de Puebla, son responsabilidad de los generadores, hasta y en tanto no sean depositados en la vía pública en los días y horarios de recolección, así como en los Puntos Verdes, contenedores o en las unidades recolectoras autorizadas por el Organismo, los que a partir de ese momento pasarán a ser responsabilidad y propiedad del mismo.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2020)</small>
 
 ###### Artículo 1357.
 
-En el Municipio de Puebla queda estrictamente prohibida la actividad de pepena. El OOSLMP será el encargado de regular a aquellas personas que pretendan la realización de recolección de residuos sólidos urbanos de manera voluntaria.
+El Organismo será el encargado de autorizar y regular a aquellas personas físicas o morales que pretendan o realicen, según sea el caso, la pepena de residuos sólidos urbanos de manera voluntaria. Queda prohibida la actividad de pepena sin autorización.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE ENERO DE 2020)</small>
+
+CLASIFICACIÓN DE LOS RESIDUOS
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+###### Artículo 1357 Bis.
+
+Para garantizar la adecuada prevención, manejo y gestión integral de los residuos que se generan en el ámbito territorial del Municipio de Puebla, se clasifican en:
+
+I.- Residuos Peligrosos:
+
+II.- Residuos de Manejo Especial; y
+
+III.- Residuos Sólidos Urbanos.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+###### Artículo 1357 Ter.
+
+Los residuos sólidos urbanos deberán ser manejados, trasladados, tratados y depositados por el Organismo.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+###### Artículo 1357 Quáter.
+
+Los residuos peligrosos y de manejo especial, generados por industrias y comercios, deberán ser manejados de acuerdo a las Leyes y Normas Oficiales Mexicanas vigentes.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+###### Artículo 1357 Quinquies.
+
+Los residuos peligrosos y de manejo especial generados en casas habitación deberán ser manejados, trasladados, tratados y depositados de acuerdo a las recomendaciones y lineamientos que al efecto indique el Organismo, agregado a las leyes y Normas Oficiales mexicanas vigentes.
 
 DE LAS FACULTADES DEL ORGANISMO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2020)</small>
+
 ###### Artículo 1358.
 
-El Organismo y los concesionarios, deberán realizar campañas de concientización y sensibilización entre los ciudadanos, a fin de conservar limpia la ciudad; implementarán programas que promuevan la separación de los residuos sólidos para su revalorización, entre los generadores de los mismos, y fomentar el pago oportuno del servicio de limpia, ya sea directamente ante el Organismo, o con el Concesionario según sea el caso.
+El Organismo y los concesionarios deberán realizar campañas permanentes de concientización y sensibilización entre los ciudadanos, para conservar limpio el Municipio de Puebla; motivo por el cual implementarán programas que promuevan la separación de los residuos sólidos urbanos para su revalorización entre los generadores de los mismos, además fomentarán el pago oportuno entre los generadores del servicio de limpia, ya sea a la Tesorería Municipal, directamente ante el Organismo o con el concesionario según sea el caso.
 
 Las instituciones públicas o empresas privadas, que realicen labores de desazolve de drenaje, alcantarillas y similares, así como cualquier otro tipo de obra que origine residuos sólidos en la vía publica, están obligadas a informar al Organismo con la finalidad de que sean supervisadas las obras en su ejecución y limpieza y sean contratadas, ya sea con éste o con algunos de los concesionarios el transporte de los residuos sólidos generados en dichas obras. En caso contrario, el Organismo sancionará al o a los infractores conforme a lo dispuesto por el artículo 1388 del presente Código Reglamentario.
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2020)</small>
 
-Así mismo, todas las demás acciones orientadas a cumplir los objetivos del Decreto de creación del Organismo, su Reglamento Interior y demás normas aplicables sin perjuicio de lo reservado a los gobiernos federal y estatal.
+Así mismo, todas las demás acciones orientadas a cumplir los objetivos del Decreto de Creación del Organismo y sus reformas, su Reglamento Interior y demás normas aplicables sin perjuicio de lo reservado a los gobiernos federal y estatal.
 
 ###### Artículo 1359.
 
@@ -21693,7 +21749,9 @@ IV. Promover tipos de bolsas y empaques para el mejor manejo de la recolección 
 
 V. Promover, orientar y apoyar las acciones en materia de aseo, limpia, con la sujeción a las políticas a nivel nacional, estatal y municipal,
 
-VI. Vigilar y hacer cumplir, en las (sic) esfera de su competencia, este Capítulo y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
+
+VI. Vigilar y hacer cumplir, en la esfera de su competencia, este capítulo y demás disposiciones aplicables;
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
@@ -21719,7 +21777,9 @@ XIII. Establecer un sistema de quejas y reclamaciones que presenten los usuarios
 
 XIV. Organizar administrativamente el servicio público de limpia y formular el programa anual del mismo;
 
-XV. Promover la instalación de contenedores de residuos sólidos, en los lugares que previamente se hayan seleccionado, en base a estudios, supervisándose periódicamente el buen funcionamiento de los mismos;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
+
+XV. Promover la instalación, operación y mantenimiento de Puntos Verdes, contenedores de residuos sólidos, botes papeleros o similares, en los lugares que previamente se hayan seleccionado, en base a estudios, supervisándose periódicamente el buen funcionamiento de los mismos;
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
@@ -21731,7 +21791,9 @@ XVII. Establecer rutas, horarios y frecuencia en que debe prestarse el servicio 
 
 XVIII. Elaborar un programa de actividades de limpieza para lugares públicos, así como de lotes baldíos;
 
-XIX. Determinar la colocación estratégica de los depósitos de basura necesarios, en la cantidad y capacidad requeridas;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
+
+XIX. Determinar la colocación estratégica de los depósitos de residuos sólidos urbanos necesarios, en la cantidad y capacidad requeridas;
 
 XX. Disponer lo necesario para el mantenimiento del equipo de aseo y limpia;
 
@@ -21743,21 +21805,43 @@ XXIII. Dirigir y supervisar el trabajo de los empleados a su cargo;
 
 XXIV. Ejecutar los convenios que celebre la autoridad municipal con autoridades estatales e instituciones públicas o privadas, en materia de aseo y limpia;
 
-XXV. Realizar visita de inspección para verificar el acatamiento de este Capítulo;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
 
-XXVI. Auxiliar a las Unidades Administrativas mediante los supervisores, para efectos de la aplicación del presente Capítulo, en el entendido de que todo acto de contaminación o falta de pago por servicios prestados por el Organismo, implicará de inmediato la competencia del Titular del Organismo Operador del Servicio de Limpia del Municipio de Puebla;
+XXV. Realizar visitas de inspección para verificar el acatamiento de este capítulo;
 
-XXVII. Ordenar a quienes coloquen, distribuyan o repriman propaganda sin autorización municipal que la retiren en un plazo que no excederá de veinticuatro horas contando a partir de que se le notifique dicha orden y en caso de incumplimiento, además de imponerse la sanción que corresponda de acuerdo con este Capítulo y los demás que resulten aplicables, el Organismo Operador del Servicio de Limpia realizará el retiro y la desimpresión con costo a los referidos infractores; y
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
 
-XXVIII. Las demás que se deriven de este Capítulo y de las leyes y demás disposiciones jurídicas en la materia.
+XXVI. Auxiliar a las unidades administrativas mediante los inspectores del Organismo, para efectos de la aplicación del presente capítulo, en el entendido de que todo acto de contaminación o falta de pago por servicios prestados por el propio Organismo, implicará de inmediato la competencia de su Titular;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
 
-DE LOS DERECHOS POR SERVICIOS DE RECOLECCIÓN, TRASLADO Y DISPOSICIÓN FINAL DE RESIDUOS QUE PRESTE EL ORGANISMO OPERADOR DEL SERVICIO DE LIMPIA DEL MUNICIPIO
+XXVII. Ordenar a quienes coloquen, distribuyan o reimpriman propaganda sin autorización municipal, que sea retirada en un plazo que no excederá de veinticuatro horas, contando a partir de que se le notifique dicha orden y en caso de incumplimiento, además de imponerse la sanción que corresponda de acuerdo con este capítulo y los demás que resulten aplicables, el Organismo realizará el retiro y la des impresión (sic) con costo a los referidos infractores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ENERO DE 2020)</small>
+
+XXVIII. Sustanciar las audiencias de conciliación a petición del concesionario o del usuario del servicio;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2020)</small>
+
+XXIX. Determinar, en coordinación con las autoridades competentes, las especificaciones de los Puntos Verdes, según el volumen de residuos sólidos que en cada caso se pudiere generar, así como su establecimiento, instalación y operación; y
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2020)</small>
+
+XXX. Supervisar el funcionamiento de los Puntos Verdes para prevenir y en su caso sancionar si no son utilizados para el fin especificado y/o que no correspondan con la clasificación señalada en los mismos; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE ENERO DE 2020)</small>
+
+XXXI. Las demás que se deriven de este capítulo, así como de las leyes y disposiciones jurídicas en la materia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ENERO DE 2020)</small>
+
+DEL PAGO DE LOS DERECHOS POR SERVICIOS DE RECOLECCIÓN, TRASLADO Y DISPOSICIÓN FINAL DE RESIDUOS QUE PRESTE EL ORGANISMO OPERADOR DEL SERVICIO DE LIMPIA DEL MUNICIPIO DE PUEBLA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2020)</small>
 
 ###### Artículo 1360.
 
-Son objeto de estos derechos:
+Son objeto del pago de estos derechos:
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
@@ -21767,9 +21851,11 @@ I. Los servicios de recolección, transporte, tratamiento y disposición final d
 
 II. Los servicios especiales que el Organismo efectúe en predios, por sí o a través de sus concesionarios, a solicitud o en rebeldía de los propietarios poseedores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2020)</small>
+
 ###### Artículo 1361.
 
-Son sujetos de estos derechos, las personas físicas o morales que sean propietarias o poseedoras de los predios en que se presten los servicios referidos.
+Son sujetos de (sic) pago de estos derechos, las personas físicas o morales, así como las dependencias y entidades de la administración pública municipal, estatal y federal que sean propietarias o poseedoras de los predios en que se presten los servicios referidos.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
 
@@ -21803,9 +21889,9 @@ En caso de que no sea (sic) agados en tiempo y forma las cuotas y tarifas por la
 
 Para el caso de establecimientos comerciales, industriales, prestadores de servicios, empresas de diversión y espectáculos públicos, hospitales y clínicas que no cumplan con el pago de las tarifas que hayan pactado con el concesionario en el contrato suscrito por ambas partes, el concesionario lo hará saber al Organismo, dentro de los cinco días hábiles siguientes en que incurra en mora el usuario del servicio, debiendo acompañar la documentación correspondiente para que el Organismo proceda al requerimiento, debiendo el usuario del servicio acudir a la audiencia de conciliación, misma que se llevará a cabo ante el Organismo, autoridad ante la que ambas partes se comprometerán a cumplir las obligaciones y derechos que del contrato por la prestación del servicio se deriven, y en caso de que el usuario no cumpla con el pago, el Organismo remitirá a la Tesorería Municipal, para que a través de la unidad administrativa competente, se inicie el procedimiento administrativo de ejecución en contra del usuario del servicio por incumplimiento al pago del servicio prestado.
 
-OBLIGACIONES Y FACULTADES DE LOS CIUDADANOS EN RELACIÓN A LOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ENERO DE 2020)</small>
 
-RESIDUOS SÓLIDOS
+OBLIGACIONES Y FACULTADES DE LOS CIUDADANOS EN RELACIÓN A LOS RESIDUOS SÓLIDOS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2013)</small>
 
@@ -21817,9 +21903,9 @@ Son obligaciones de los generadores, propietarios o poseedores de bienes inmuebl
 
 I. Barrer y mantener limpios la banqueta y hasta la mitad del arroyo vehicular de la calle del frente de sus casas, comercios y terrenos baldíos que colinden con vía pública. En condominios y unidades habitacionales, la limpieza exterior se hará conforme al Reglamento de Condominios correspondiente. Esta actividad debe realizarse antes de las nueve horas con treinta minutos en zonas habitacionales y a más tardar a las diez horas en las zonas comerciales;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
 
-II. Separar los residuos sólidos urbanos en reciclables y no reciclables y entregarlos en los horarios, días y modalidades establecidos por el Organismo;
+II. Entregar los residuos sólidos urbanos no reciclables en horarios, días y modalidades establecidos por el Organismo. En el caso de los residuos sólidos urbanos reciclables deberán depositarse en los puntos verdes establecidos por el Organismo;
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
@@ -21897,11 +21983,51 @@ c) Colocar recipientes necesarios y adecuados para el depósito de residuos (bas
 
 d) Contratar con los concesionarios, o en su caso, con el prestador de servicio que cuente con la autorización de la autoridad competente, el servicio de recolección y transporte y si es necesario la asignación de contenedores, según su propia generación de residuos sólidos no peligrosos.
 
-N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 28 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE CUATRO INCISOS.
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+e) Contar con contenedores clasificados, de acuerdo a la siguiente clasificación: orgánicos, inorgánico, plástico y PET, cartón, papel, metales, vidrio y demás residuos;
 
-XIX. Las demás que señalen este Capítulo, así como los ordenamientos jurídicos en la materia.
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+f) Mantener actualizado el contrato con los concesionarios o en su caso con el prestador de servicio que cuente con la autorización de la autoridad competente para el servicio de recolección y transporte;
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+g) Mantener aseado el frente de su negocio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ENERO DE 2020)</small>
+
+XIX. Cumplir con la separación de los residuos sólidos urbanos de sus hogares y/o establecimientos, en residuos orgánicos, inorgánicos y valorizables; los dos primeros serán recolectados de acuerdo a lo establecido por el Organismo y los residuos valorizables deberán ser llevados por los generadores a los Puntos Verdes autorizados y depositarlos conforme a la señalética marcada o en su caso de acuerdo al sistema de recolección establecido por el Organismo;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2020)</small>
+
+XX. Mantenerse informado de los días, horarios, rutas y lugares que determine el Organismo para la recolección diferenciada de los residuos sólidos urbanos, este servicio se realizará en las zonas donde no existan Puntos Verdes, las cuales serán determinadas previamente por el mismo;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2020)</small>
+
+XXI. Todo asentamiento humano a través del desarrollo de conjuntos habitacionales a partir de 4 unidades de viviendas, estará obligado a mantener sus residuos sólidos separados a través de Puntos Verdes en la fuente generadora, en la modalidad que establece la fracción XXV de este artículo; tomando en consideración la información y lineamientos emitidos para la gestión integral de residuos por parte del Organismo;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2020)</small>
+
+XXII. Todo comercio o industria que genera más de 10 toneladas de residuos al año, se obliga a instalar Puntos Verdes exclusivos para material valorizable, en la forma establecida en la fracción XXV de este artículo;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2020)</small>
+
+XXIII. Todo comercio, industria, espacios públicos o privados, que de forma permanente o por evento, que por sus características implique un alto flujo de personas en el uso del espacio, estará obligado a contar con contenedores de separación adecuados en el origen e instalar los Puntos Verdes necesarios;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2020)</small>
+
+XXIV. Toda obra de construcción con las características establecidas en las fracciones XXI y XXII, está obligada a contar con Puntos Verdes, además de los criterios de clasificación que determine el Organismo en relación a las características de producción de sus residuos sólidos. Los Puntos Verdes deberán contar con 4 de las siguientes clasificaciones: papel, cartón y tetra pack; plásticos; metal y aluminio; y vidrio.
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2020)</small>
+
+XXV. Los Puntos Verdes deberán ser contenedores clasificados o plataformas soterradas, según dictamine para cada caso el Organismo.
+
+En casos especiales donde no sea posible ubicar alguno de los tipos de Puntos Verdes señalados, el Organismo dictaminará las características procedentes; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE ENERO DE 2020)</small>
+
+XXVI. Las demás que señalen este capítulo, así como los ordenamientos jurídicos en la materia.
 
 ###### Artículo 1364.
 
@@ -21917,9 +22043,9 @@ III. Proporcionar los recipientes necesarios y adecuados para almacenar los resi
 
 Los taxis, combis, microbuses, autobuses y en general los vehículos destinados al transporte público de personas, deben tener recipientes instalados en sus interiores, de tal forma que permitan depositar en ellos los desperdicios generados por los propios pasajeros.
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2020)</small>
 
-Dichos desperdicios se depositarán en los contenedores y recipientes que para el efecto se instalen en las bases, paraderos y terminales respectivas.
+Dichos residuos sólidos, al concluir el derrotero, ruta o similar, se depositarán de manera separada en los contenedores y recipientes que para el efecto se instalen en las bases, paraderos y terminales respectivas.
 
 ###### Artículo 1365.
 
@@ -21927,15 +22053,17 @@ Los vendedores y prestadores de servicios semifijos y temporales como los organi
 
 I. Mantener limpia un área mínima de dos metros a la redonda cuando el permiso se haya otorgado para vendedores en lo individual y lo ocupen para sus actividades y en área general cuando se hubiera autorizado a un organizador en conjunto, comprendiendo también el área que excediere de la autorizada independientemente a las sanciones por ese hecho;
 
-II. Colocar depósitos para almacenar sus desechos y el de sus clientes;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+II. Colocar contenedores de separación adecuados en el origen, para almacenar sus desechos y el de sus clientes;
 
-III. Entregar los residuos sólidos urbanos que generen, a los camiones recolectores, pagando la cuota correspondiente; y
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+III. Entregar separados los residuos sólidos urbanos que generen, a los camiones recolectores, previo pago al Organismo del permiso de instalación ante la unidad administrativa correspondiente; y
 
-IV. La Unidad Administrativa que otorgue el permiso correspondiente, emitirá copia al Organismo para que, en caso de incumplimiento, sancione al solicitante del mismo. En los casos de espectáculos cuyo organizador no tenga domicilio en esta Ciudad deberá dejar depósito equivalente al valor diario de 200 unidades de medida y actualización, el cual se devolverá cuando se compruebe que ha dejado limpio el sitio donde realizó sus actividades.
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
+
+IV. La unidad administrativa que otorgue el permiso correspondiente, remitirá copia al Organismo para que, en caso de incumplimiento, sancione al solicitante del mismo. En los casos de espectáculos cuyo organizador no tenga domicilio en esta ciudad deberá dejar depósito equivalente al valor diario de 200 unidades de medida y actualización, el cual se devolverá cuando se compruebe que ha dejado limpio el sitio donde realizó sus actividades.
 
 ###### Artículo 1366.
 
@@ -21957,9 +22085,9 @@ III. En los proyectos de mercados a construir, se separarán la ubicación de la
 
 IV. En los mercados propiedad del municipio, el Organismo fijará las normas para el uso de las áreas o depósito de desechos y el servicio de recolección se hará con la frecuencia y el horario que al efecto el mismo determine; y
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
 
-V. Separar los residuos sólidos en reciclables y no reciclables.
+V. Separar los residuos sólidos en orgánicos e inorgánicos.
 
 ###### Artículo 1368.
 
@@ -21969,9 +22097,11 @@ Los representantes reconocidos de los comerciantes de cualquier giro, agrupados 
 
 El incumplimiento a lo señalado dará lugar a la multa que establezca el Titular del Organismo y/o Unidad de Normatividad y Regulación Comercial, independientemente que el Departamento de Licencias y Padrón de Contribuyentes de la Tesorería Municipal revoque la autorización correspondiente. Igualmente se obligan a sufragar los costos de recolección, transportación y confinamiento de los residuos sólidos que generen.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2020)</small>
+
 ###### Artículo 1369.
 
-Es obligación de los hospitales, clínicas, laboratorios de análisis clínicos, laboratorios de análisis anátomo patológicos, sanatorios y establecimientos donde se generen desechos de los llamados hospitalarios o infecto-contagiosos, así como reactivos, tratar o incinerar los mismos, mediante dispositivos que cumplan con las disposiciones establecidas por la Norma Oficial Mexicana y la Autoridad Federal correspondiente. Dichos establecimientos deberán contratar los servicios de disposición final con los concesionarios autorizados por la Autoridad Federal correspondiente, en caso de que por ellos mismos no puedan tratarlos de acuerdo a las Normas Oficiales Mexicanas en vigor.
+Los hospitales, clínicas, laboratorios de análisis clínicos, laboratorios de análisis anátomo patológicos, sanatorios y establecimientos donde se generen desechos de los llamados residuos peligrosos biológico - infecciosos, así como reactivos, están obligados a tratar o incinerar los mismos, mediante dispositivos que cumplan con las disposiciones establecidas por la Norma Oficial Mexicana y la autoridad federal correspondiente. Dichos establecimientos deberán contratar los servicios de disposición final con los concesionarios autorizados por la autoridad federal correspondiente, en caso de que por ellos mismos no puedan tratarlos de acuerdo a las Normas Oficiales Mexicanas en vigor, independientemente de la obligación de celebrar el contrato de traslado y recolección de residuos sólidos urbanos con el concesionario o prestador de servicios autorizado por la generación de los mismos.
 
 ###### Artículo 1370.
 
@@ -22021,27 +22151,31 @@ DE LOS CENTROS DE ACOPIO
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
-DE LAS PROHIBICIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ENERO DE 2020)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2013)</small>
+DE LAS PROHIBICIONES Y FALTAS ADMINISTRATIVAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2020)</small>
 
 ###### Artículo 1376.
 
-Queda prohibido en el Municipio de Puebla:
+Queda prohibido en el Municipio de Puebla y se consideran faltas administrativas:
 
 I. Arrojar o depositar residuos sólidos en las calles, mercados, parques, plazas, jardines y demás áreas públicas, predios baldíos, así como la formación de montoneras en la vía pública;
 
 II. Arrojar escombro de construcción y residuos producidos por las podas en las calles, mercados, parques, plazas, jardines y demás áreas públicas, así como en predios baldíos y contenedores especiales;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
 
-III. A comercios e industrias, depositar en bolsas de basura, residuos corrosivos, reactivos, explosivos, tóxicos, inflamables, punzo cortantes sin protección e infectocontagiosos y enviarlos junto con los residuos sólidos urbanos al Relleno Sanitario;
+III. Depositar en bolsas de basura, residuos peligrosos y de manejo especial y enviarlos junto con los residuos sólidos urbanos al Relleno Sanitario, por parte de los comercios e industrias;
 
 IV. Sustraer o pepenar los residuos sólidos reciclables de la vía pública, del Relleno Sanitario o de los contenedores;
 
 V. Depositar basura en los contenedores instalados en los mercados, comercios o industrias por parte de personas ajenas a los mismos;
 
-VI. Tirar cadáveres de animales en la vía pública, en predios baldíos o en los contenedores;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
+
+VI. Tirar cadáveres de animales en los espacios públicos, barrancas, ríos, lagunas, predios baldíos o contenedores;
 
 VII. Depositar residuos sólidos en los lugares distintos a los sitios de disposición final autorizados por el Organismo y las autoridades estatales y federales competentes;
 
@@ -22059,39 +22193,79 @@ XII. Sacudir alfombras o cualquier tipo de objetos en la vía pública;
 
 XIII. Todo acto u omisión que contribuya al desaseo de las vías públicas, áreas de uso e interés común o cualquier otro que impida la prestación del servicio público de limpia; y
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
 
-XIV. Prestar el servicio de transporte de residuos sólidos urbanos sin la autorización por escrito de la autoridad competente.
+XIV. Prestar el servicio de transporte de residuos sólidos urbanos, peligrosos y de manejo especial sin la autorización por escrito de la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2020)</small>
+
+XV. Operar los comercios, industrias y prestadores de servicios, sin el contrato de prestación del servicio de recolección, transporte y disposición final de residuos sólidos municipales generados por sus actividades con el concesionario autorizado por la autoridad competente; o no contar con el contrato vigente;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2020)</small>
+
+XVI. Depositar residuos peligrosos en espacios públicos, barrancas, ríos, lagos, reservas ecológicas o unidades de transporte de los concesionarios y contenedores, así como mezclarlos con los residuos sólidos urbanos en el Relleno Sanitario o en general a sitios diferentes a los autorizados;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2020)</small>
+
+XVII. Arrojar todo tipo de residuos sólidos y líquidos, en barrancas, ríos, lagos, reservas ecológicas o cualquier otro lugar no autorizado, así declaradas por la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2020)</small>
+
+XVIII. Sustraer, dañar o destruir los recipientes para depósito de residuos que coloque o mande a colocar el Organismo, así como los que hayan sido instalados por particulares;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2020)</small>
+
+XIX. No realizar la separación de los residuos sólidos por los comercios e industrias, de acuerdo a la siguiente clasificación: orgánicos, plástico y PET, cartón, papel, metales, vidrio y demás residuos, según su propia generación de residuos sólidos no peligrosos; y
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2020)</small>
+
+XX. Disponer en los espacios públicos y al exterior de los domicilios, los residuos sólidos urbanos, fuera del día y horario de recolección establecidos por el Organismo.
 
 Aquel Ciudadano o persona jurídica que viole las anteriores disposiciones, se hará acreedor a las sanciones señaladas en el presente Capítulo.
 
-DE LOS SUPERVISORES DEL ORGANISMO Y DE LAS AUTORIDADES COMPETENTES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ENERO DE 2020)</small>
+
+DE LOS INSPECTORES DEL ORGANISMO Y DE LAS AUTORIDADES COMPETENTES
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2020)</small>
 
 ###### Artículo 1377.
 
-El Organismo realizará actos de supervisión y vigilancia, para la verificación del debido cumplimiento del presente Capítulo, por conducto de su grupo de Supervisores, los cuales se atendrán a las facultades y prohibiciones que se contemplan en los artículos siguientes.
+El Organismo realizará actos de supervisión, inspección y vigilancia, para la verificación del debido cumplimiento del presente capítulo, por conducto de su grupo de inspectores, los cuales tendrán las facultades y prohibiciones que se contemplan en los artículos siguientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2020)</small>
 
 ###### Artículo 1378.
 
-Corresponde a los Supervisores del Organismo y a las Autoridades Municipales Competentes:
+Corresponde a los inspectores del Organismo:
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
 I. La aplicación del presente Capítulo y demás disposiciones aplicables de limpia, recolección y disposición final de residuos del presente Código Reglamentario;
 
-II. Prevenir la comisión de infracciones del presente Capítulo;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
 
-III. Apercibir y notificar a los presuntos infractores de este Capítulo;
+II. Prevenir la comisión de infracciones del presente capítulo;
 
-IV. Levantar infracciones por violaciones al presente Capítulo;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
+
+III. Apercibir y notificar a los presuntos infractores de este capítulo;
+
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
+
+IV. Elaborar infracciones por violaciones al presente capítulo;
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
 V. Remitir en coordinación con los elementos de la Secretaría de Seguridad Pública y Tránsito Municipal, en caso de falta flagrante, a los infractores de este Capítulo, respetando sus garantías individuales y poniéndolos inmediatamente a disposición del Juez Calificador de la Delegación que corresponda. Dicho Juez aplicará el Capítulo de Policía y Gobierno del presente Código Reglamentario, apegándose a las sanciones descritas en el Capítulo correspondiente y aportará la información necesaria al Organismo Operador para que imponga las sanciones que en su caso pudieran resultar de la infracción al presente Capítulo;
 
-VI. Verificar el cumplimiento de pago del servicio por parte de los usuarios a la Tesorería Municipal y en caso de Comercios e Industrias, a los concesionarios autorizados;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
 
-VII. Investigar sobre la propiedad y origen de los residuos depositados en la vía pública, barrancas, terrenos baldíos, con objeto de aplicar las sanciones correspondientes;
+VI. Verificar el cumplimiento de pago por parte de los usuarios del servicio, tanto de casa habitación como de comercios e industrias;
+
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
+
+VII. Investigar sobre la propiedad y origen de los residuos depositados en los espacios públicos, barrancas, terrenos baldíos, con objeto de aplicar las sanciones correspondientes; recabando la evidencia necesaria para la imposición de la sanción que corresponda;
 
 VIII. Realizar visitas de inspección, sin perjuicio de otras medidas previstas en las leyes y que puedan llevar a cabo para verificar el cumplimiento de este ordenamiento; y
 
@@ -22099,9 +22273,11 @@ IX. Revisar en forma permanente el cumplimiento de rutas, micro-rutas y horarios
 
 Dicho personal en el ejercicio de las facultades anteriormente descritas de manera enunciativa y no limitativa, deberá estar provisto de la identificación oficial que lo acredite como tal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2020)</small>
+
 ###### Artículo 1379.
 
-Queda prohibido a los supervisores y empleados del Organismo, así como a las Autoridades Competentes:
+Queda prohibido a los inspectores y empleados del Organismo, así como a las autoridades competentes:
 
 I. Recibir o solicitar regalos o dádivas de cualquier especie en relación a su servicio y en ejercicio de sus funciones;
 
@@ -22131,7 +22307,9 @@ Los residuos sólidos peligrosos generados por industrias y comercios, deberán 
 
 Los residuos sólidos peligrosos generados en casas habitación deberán ser manejados y depositados de acuerdo a las recomendaciones que al efecto indique el Organismo.
 
-DE LOS CONCESIONARIOS DE LA RECOLECCIÓN Y TRANSPORTE DE LOS RESIDUOS SÓLIDOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ENERO DE 2020)</small>
+
+DE LOS CONCESIONARIOS DE LA RECOLECCIÓN, TRANSPORTE, TRATAMIENTO Y DISPOSICIÓN FINAL DE LOS RESIDUOS SÓLIDOS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2013)</small>
 
@@ -22141,9 +22319,9 @@ Son obligaciones de los concesionarios de recolección, traslado y disposición 
 
 I. Obtener en términos de la legislación aplicable, la concesión del servicio;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
 
-II. Cumplir con los requisitos técnicos, financieros y de imagen solicitados por el Organismo, para la prestación del servicio de recolección y traslado de los residuos sólidos urbanos;
+II. Cumplir con los requisitos técnicos, financieros y de imagen solicitados por el Organismo para la prestación del servicio concesionado;
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
@@ -22153,17 +22331,25 @@ IV. Recolectar los residuos sólidos en los sectores donde sea concesionario y c
 
 V. Atender eficientemente a los usuarios del servicio concesionado;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
 
-VI. Cumplir con las rutas, horarios, frecuencias y procedimientos de recolección, traslado y disposición final de los residuos sólidos autorizados por el Organismo, haciéndolos del conocimiento de los habitantes de la colonia;
+VI. Cumplir con las rutas, horarios, frecuencias y procedimientos de recolección y traslado de los residuos sólidos autorizados por el Organismo, haciéndolo del conocimiento de los usuarios del servicio;
 
-VII. Dar aviso por escrito al Organismo de cualquier cambio en el procedimiento del servicio y una vez autorizado, comunicárselo a los habitantes de la colonia, por medio de escrito domiciliario;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+VII. Solicitar por escrito al Organismo de cualquier cambio en el procedimiento del servicio y una vez autorizado, notificarlo domiciliariamente y por escrito a los usuarios del servicio;
 
-VIII. Depositar los residuos sólidos urbanos solamente en los sitios autorizados por el Organismo; y
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
 
-IX. El pago oportuno del mismo de acuerdo a la tarifa y condiciones establecidas por el Organismo.
+VIII. Depositar los residuos sólidos urbanos solamente en los sitios autorizados por el Organismo;
+
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
+
+IX. El pago oportuno del mismo de acuerdo a la tarifa y condiciones establecidas por el Organismo; y
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2020)</small>
+
+X. Dar cumplimiento a los requerimientos que por escrito le formule (sic) Organismo para la mejor prestación del servicio concesionado o a petición favorable de los usuarios.
 
 ###### Artículo 1384.
 
@@ -22183,15 +22369,15 @@ V. Subcontratar total o parcialmente los servicios concesionados;
 
 VI. Recoger y transportar residuos sólidos peligrosos dictados en la Norma Oficial Mexicana en vigor; y
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
 
-VII. Recibir regalos, propinas o dádivas de cualquier especie por parte de la ciudadanía en relación de su servicio y en ejercicio de sus funciones.
+VII. Solicitar regalos, propinas o dádivas de cualquier especie en relación al servicio y en ejercicio de sus funciones.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2020)</small>
 
 ###### Artículo 1385.
 
-Los concesionarios deberán prestar el servicio de la recolección ininterrumpidamente a la ciudadanía, obligándose a dar información al Organismo Operador del Servicio de Limpia, sobre los prestadores de servicios, comercios e industrias que incumplan con el pago, entregando la relación completa de los mismos para la debida aplicación de las disposiciones de este Capítulo y las demás que resulten aplicables.
+Los concesionarios deberán prestar el servicio de la recolección concesionado ininterrumpidamente, obligándose a dar información al Organismo sobre los prestadores de servicios, comercios e industrias que incumplan con el pago, entregando la relación completa de los mismos para la debida aplicación de las disposiciones de este capítulo y las demás que resulten aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2013)</small>
 
@@ -22211,9 +22397,7 @@ III. Cumplir con las Normas Oficiales Mexicanas vigentes que establecen los requ
 
 IV. Llevar un control exacto de la cantidad de residuos sólidos urbanos que ingresen al sitio de disposición final en forma individual por concesionario y en forma general para determinar volúmenes, estadísticas, calidad de servicio y para los fines que el Organismo considere convenientes;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
-
-V. Contratar con los concesionarios de la recolección y traslado de los residuos sólidos del Municipio, la disposición final de los mismos, de acuerdo a las tarifas y condiciones aprobadas por el Organismo;
+V. (DEROGADA, P.O. 8 DE ENERO DE 2020)
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
@@ -22259,11 +22443,13 @@ IV. Subcontratar total o parcialmente el servicio concesionado, sin la autorizac
 
 V. Recibir residuos sólidos peligrosos de los listados en la Norma Oficial Mexicana en vigor, en caso de Rellenos Sanitarios o residuos diferentes a los indicados en el Manifiesto del Impacto Ambiental, en tratándose de otros sitios de disposición final, tales como instalaciones de valorización;
 
-VI. No recibir camiones de los concesionarios de la recolección y transporte, cualquiera que sea el motivo;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
+
+VI. No recibir camiones de los concesionarios de la recolección y transporte de residuos sólidos urbanos, cualquiera que sea el motivo, salvo autorización expresa y por escrito del Organismo;
 
 VII. Recibir vehículos no autorizados por el Organismo con residuos sólidos;
 
-VIII. Cobrar a los usuarios del servicio, tarifas más elevadas no autorizadas por el Organismo;
+VIII. (DEROGADA, P.O. 8 DE ENERO DE 2020)
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
@@ -22303,19 +22489,63 @@ h) Equivalente al valor diario de 50 a 1,500 unidades de medida y actualización
 
 i) Equivalente al valor diario de 50 a 2,000 unidades de medida y actualización, a quienes sean sorprendidos o se les detecte depositando residuos sólidos peligrosos en la vía pública, barrancas, ríos, lagos, reservas ecológicas y además en el caso de industrias y comercios, en las unidades de transporte de los concesionarios, sus contenedores, Relleno Sanitario y en general sitios diferentes a los autorizados por el Organismo. Asimismo será impuesta a aquellos recolectores de basura no autorizados.
 
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+j) Equivalente al valor diario de 1 a 10 unidades de medida y actualización a quien incurra en el supuesto establecido en la fracción XVIII del artículo 1376 del presente ordenamiento, con independencia de las responsabilidades y/o sanciones que se deriven por la conducta realizada;
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+k) Equivalente al valor diario de 10 a 1,000 unidades de medida y actualización a quien incurra en el supuesto establecido en la fracción XIX del artículo 1376 del presente ordenamiento;
+
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
 III.- Multa al concesionario de la recolección y transporte que incumpla, con alguna de las disposiciones del presente Capítulo en base al valor diario de la unidad de medida y actualización a la fecha de violación del mismo y bajo los siguientes criterios:
 
-a) Equivalente al valor diario de 100 a 150 unidades de medida y actualización, por cambio de rutas y horarios u omisión del servicio en sectores de la colonia sin autorización del Organismo y por incumplimiento en la entrega al Organismo de los reportes, fianzas y estados financieros auditados indicados en el contrato concesión.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2020)</small>
 
-b) Equivalente al valor diario de 1,500 a 2,000 unidades de medida y actualización, por modificar el método de recolección de los desechos sólidos en alguna de las colonias de su responsabilidad sin autorización previa del Organismo.
+a) Equivalente al valor diario de 100 a 150 unidades de medida y actualización, por atraso en el inicio de ruta o frecuencia, por cambio de rutas y horarios u omisión del servicio en calles o sectores de la colonia sin autorización del Organismo y por incumplimiento en la entrega al Organismo de los reportes, fianzas y estados financieros auditados indicados en el contrato concesión;
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2020)</small>
+
+b) Equivalente al valor diario de 1,500 a 2,000 unidades de medida y actualización, por modificar el método de recolección de los residuos sólidos en alguna de las colonias de su responsabilidad sin autorización previa del Organismo;
 
 c) Equivalente al valor diario de 2,500 a 3,000 unidades de medida y actualización, el omitir el servicio de recolección y transporte de los residuos sólidos municipales en alguna colonia que esté bajo su responsabilidad, excepto cuando por causa justificada haya sido aprobada por el Organismo.
 
 d) Equivalente al valor diario de 4,000 a 4,100 unidades de medida y actualización, el aumentar unilateralmente las tarifas autorizadas y/o convenidas con los usuarios del servicio, ya sea por colonia, industria o comercio y sin autorización por escrito del Organismo.
 
 e) Equivalente al valor diario de 5,000 a 5,100 unidades de medida y actualización, cuando el concesionario transporte y/o deposite en el Relleno Sanitario residuos sólidos peligrosos, procedentes de industrias y comercios sin especificación del análisis CRETIB, o en el caso de instalaciones de valoración, que procesen materiales diferentes a los listados en el Manifiesto de Impacto Ambiental aprobado. El Organismo deslindará responsabilidades entre el concesionario y el generador, y presentará reporte a la Procuraduría Federal de Protección al Medio Ambiente.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+f) Equivalente al valor diario de 400 a 500 unidades de medida y actualización, por efectuar separación de los residuos sólidos o conservarlos sin autorización por escrito del Organismo;
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+g) Equivalente al valor diario de 4,000 a 5,000 unidades de medida y actualización, por vender residuos sólidos sin autorización por escrito del Organismo;
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+h) Equivalente al valor diario de 150 a 200 unidades de medida y actualización, por ocasionar molestias innecesarias a los usuarios del servicio y a la ciudadanía en general;
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+i) Equivalente al valor diario de 2,000 a 2,500 unidades de medida y actualización, por depositar los residuos sólidos urbanos recolectados en lugares distintos a los sitios de disposición autorizados, sin autorización por escrito del Organismo;
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+j) Equivalente al valor diario de 4,000 a 4,500 unidades de medida y actualización, por subcontratar total o parcialmente los servicios concesionados;
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+k) Equivalente al valor diario de 200 a 300 unidades de medida y actualización, por solicitar regalos, propinas o dádivas de cualquier especie por parte de la ciudadanía en relación de su servicio y en ejercicio de sus funciones;
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+l) Equivalente al valor diario de 1,000 a 1,500 unidades de medida y actualización por el incumplimiento a los requerimientos o recomendaciones realizadas por escrito por parte del Organismo, así como el incumplimiento a las obligaciones o especificaciones contenidas en el contrato concesión y convenios modificatorios;
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+Lo anterior, con independencia de las sancioens a las que pudieran ser acreedores conforme al contrato concesión y sus convenios modificatorios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -22333,19 +22563,61 @@ b) Equivalente al valor diario de 1,000 a 1,100 unidades de medida y actualizaci
 
 c) Equivalente al valor diario de 2,000 a 2,500 unidades de medida y actualización en caso de Relleno Sanitario, por permitir el escurrimiento de lixiviados fuera de las celdas y los cárcamos de rebombeo y por incumplimiento de los parámetros de medición de gases a la atmósfera, en caso de incineradores.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2020)</small>
 
-d) Equivalente al valor diario de 4,000 a 4,500 unidades de medida y actualización, por permitir la disposición de los residuos sólidos en vehículos que no sean propiedad de los concesionarios autorizados por el Organismo, o del mismo Organismo, o que estén al servicio de éste o por vehículos no autorizados por la autoridad competente para el transporte de residuos sólidos peligrosos en caso de instalaciones de valorización.
+d) Equivalente al valor diario de 4,000 a 4,500 unidades de medida y actualización, por permitir la disposición de los residuos sólidos en vehículos que no sean propiedad de los usuarios autorizados por el Organismo, o del mismo Organismo, o que estén al servicio de éste o por vehículos que transporten residuos sólidos peligrosos.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
 e) Equivalente al valor diario de 5,000 a 5,500 unidades de medida y actualización, por no cumplir con los requisitos solicitados en el Manifiesto de Impacto Ambiental aprobado por la autoridad competente, en todos los casos o por permitir la disposición final de residuos sólidos peligrosos en caso de Relleno Sanitario.
 
-El listado anterior es enunciativo más no limitativo. Las infracciones al presente Capítulo, serán sancionadas de manera análoga a las anteriormente señaladas, tomando en consideración lo dispuesto por el artículo 1389 del presente Capítulo.
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+f) Equivalente al valor diario de 400 a 500 unidades de medida y actualización por efectuar separación de los residuos sólidos o conservarlos sin autorización por escrito del Organismo;
 
-El pago de cualquier multa de las enumeradas en las fracciones anteriores, no libera al infractor de las sanciones que además, por infracciones y/o delitos de orden Municipal, Estatal y/o Federal incurra. Si el concesionario no cubre la multa a la que se hizo acreedor ante el Organismo, dentro del término de cinco días naturales a partir de su notificación, ésta se le hará efectiva mediante el procedimiento administrativo de ejecución que llevará a cabo la Tesorería Municipal a través del Departamento de Ejecución u Oficina Ejecutora de la Dirección de Ingresos.
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+g) Equivalente al valor diario de 4,000 a 5,000 unidades de medida y actualización por vender los residuos sólidos sin autorización por escrito del Organismo;
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+h) Equivalente al valor diario de 150 a 200 unidades de medida y actualización, por ocasionar molestias innecesarias a los usuarios del servicio y a la ciudadanía en general;
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+i) Equivalente al valor diario de 300 a 500 unidades de medida y actualización, por permitir depositar los residuos sólidos urbanos en celdas no especificadas por el proyecto;
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+j) Equivalente al valor diario de 4,000 a 4,500 unidades de medida y actualización, por subcontratar total o parcialmente los servicios concesionados, independientemente de las sanciones establecidas en el contrato concesión y sus convenios modificatorios;
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+k) Equivalente al valor diario de 200 a 300 unidades de medida y actualización, por no recibir camiones de los usuarios autorizados de la recolección y transporte, cualquiera que sea el motivo;
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+l) Equivalente al valor diario de 100 a 150 unidades de medida y actualización, por recibir visitantes sin autorización del Organismo;
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+m) Equivalente al valor diario de 200 a 300 unidades de medida y actualización, por realizar actividades en las celdas, que involucren fuego, tales como fumar o hacer fogatas, lámparas de gas o de petróleo y soldadura eléctrica;
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+n) Equivalente al valor diario de 600 a 800 unidades de medida y actualización por el incumplimiento a los requerimientos o recomendaciones realizadas por escrito por parte del Organismo, así como el incumplimiento a las obligaciones o especificaciones contenidas en el contrato concesión y convenios modificatorios.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2020)</small>
+
+El listado anterior es enunciativo más no limitativo. Las infracciones al presente capítulo, serán sancionadas de manera análoga a las anteriormente señaladas, tomando en consideración lo dispuesto por el artículo 1389 del presente capítulo.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2020)</small>
+
+El pago de cualquier multa de las enumeradas en las fracciones anteriores, no libera al infractor de las sanciones que (sic) por los delitos que pudiera cometer. Si el concesionario no paga la multa a la que se hizo acreedor ante el Organismo, dentro del término de cinco días naturales a partir de su notificación, ésta se le hará efectiva mediante el procedimiento administrativo de ejecución que llevará a cabo la Tesorería Municipal a través del Departamento de Ejecución u Oficina Ejecutora de la Dirección de Ingresos.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+Lo anterior, con independencia de las sanciones a las que pudieran ser acreedores conforme al contrato concesión y sus convenios modificatorios.
 
 V. (DEROGADA, P.O. 28 DE OCTUBRE DE 2013)
 
@@ -22387,27 +22659,71 @@ Si una vez vencido el plazo concedido a los infractores por el Organismo, para s
 
 En caso de que las infracciones y tarifas no sean pagadas en tiempo y forma, éstas se harán efectivas a través del procedimiento administrativo de ejecución.
 
-DE LA SUPERVISIÓN Y VIGILANCIA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE ENERO DE 2020)</small>
+
+DE LA EDUCACIÓN EN LA GESTIÓN DE LOS RESIDUOS
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+###### Artículo 1390 Bis.
+
+El Organismo tendrá la atribución de estructurar e implementar los programas de concientización, capacitación y difusión e (sic) materia de educación en la gestión de los residuos, de acuerdo con las características y necesidades que se presenten en el Municipio, tomando en consideración los avances que se tengan en el tema por los diversos sectores públicos, privados o académicos que se hayan desarrollado.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+###### Artículo 1390 Ter.
+
+Los programas de difusión, en materia de gestión de los residuos, incluirán campañas, talleres y seminarios para fomentar la minimización de la generación, el rechazo, la separación, la recuperación y la reutilización de los residuos, inclusive dentro de las dependencias municipales y sus unidades administrativas.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
+
+###### Artículo 1390 Quáter.
+
+El Organismo, en el ámbito de su competencia podrá promover la participación de todos los sectores de la sociedad mediante:
+
+I. El apoyo a la conformación, consolidación y operación de grupos intersectoriales para el diseño e instrumentación de los programas en materia de la gestión de los residuos;
+
+II. La difusión de información y promoción de educación y capacitación en la gestión integral de los residuos;
+
+III. El desarrollo de proyectos demostrativos destinados a generar elementos de información para sustentar programas en materia de los residuos; y
+
+IV. Las demás acciones que determine este Código.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ENERO DE 2020)</small>
+
+DE LA SUPERVISIÓN, INSPECCIÓN Y VIGILANCIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2020)</small>
 
 ###### Artículo 1391.
 
-Para la Supervisión y Vigilancia, el personal podrá solicitar el auxilio de la fuerza pública. Para efectos del presente Capítulo comprende:
+Para la supervisión, inspección y vigilancia, el personal podrá solicitar el auxilio de la fuerza pública. Para efectos del presente capítulo comprende:
 
 a) Las visitas a los establecimientos públicos y privados; y
 
 b) La vigilancia en la vía pública y centros comunes para la convivencia y recreación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2020)</small>
+
 ###### Artículo 1392.
 
-La supervisión que practique la autoridad municipal en los establecimientos comprendidos en el inciso a) del artículo anterior, se sujetará al procedimiento siguiente:
+La supervisión e inspección que practique el Organismo en los establecimientos comprendidos en el inciso a) del artículo anterior, se sujetará al procedimiento siguiente:
 
-1. El Organismo Operador del Servicio de Limpia, expedirá por escrito la orden de visita, misma que contendrá la fecha, ubicación del lugar a visitar, el objeto de la visita, el nombre del visitado, fundamentación y motivación, así como el nombre y firma de la autoridad que expida la orden;
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2020)</small>
 
-2. Al practicar la visita, el supervisor deberá identificarse con el visitado o con quién se encuentre en el lugar con credencial vigente con fotografía expedida por el Organismo Operador del Servicio de Limpia, entregará al visitado copia legible de la orden de inspección y le informará de su obligación de permitirle acceso al lugar de que se trate y otorgarle las facilidades necesarias para la práctica de la diligencia;
+1. Expedirá por escrito la orden de visita fundada y motivada, misma que contendrá la fecha, ubicación del lugar a visitar, el objeto de la visita, el nombre del visitado, así como el nombre y firma del servidor público que la expida;
 
-3. El supervisor deberá requerir al visitado para que nombre a dos personas que funjan como testigos en la inspección, advirtiéndole que en caso de rebeldía estos serán propuestos y designados por el propio supervisor;
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2020)</small>
 
-4. Las supervisiones se harán constar en actas circunstanciadas que se levantarán en el lugar visitado, por triplicado, en formas numeradas en las que se expresará lugar, fecha, nombre de las personas con quienes se entienda la diligencia, resultado de la inspección, nombre del supervisor y las firmas de quienes participaron en la inspección.
+2. Al practicar la visita, el inspector deberá identificarse con el visitado o con quién se encuentre en él lugar, con credencial vigente con fotografía expedida por el Organismo, acto seguido entregará al visitado copia legible de la orden de inspección y le informará de su obligación de permitirle acceso al lugar de que se trate documentos, así como a revisar y otorgarle las facilidades necesarias para la práctica de la diligencia;
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2020)</small>
+
+3. El inspector deberá requerir al visitado para que nombre a dos personas que funjan como testigos en la inspección, advirtiéndole que (sic) caso de rebeldía éstos serán propuestos y designados por el propio inspector.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2020)</small>
+
+4. Las supervisiones e inspecciones se harán constar en actas circunstanciadas por triplicado, que se elaborarán en el lugar visitado, en formatos preimpresos y numerados en los que se expresará lugar, fecha, hora y nombre de las personas con quienes se entienda la diligencia, resultado de la inspección, nombre del supervisor y las firmas de quienes intervengan.
 
 En todo caso se dejará al visitado copia del acta levantada.
 
@@ -22417,11 +22733,17 @@ En todo caso se dejará al visitado copia del acta levantada.
 
 La vigilancia a que se refiere el inciso b) del artículo 1391 de este Reglamento, se realizará en territorio del Municipio, respecto de peatones y conductores de vehículos y sus acompañantes, en la forma siguiente:
 
-1. Al observar el supervisor a un peatón o conductor de vehículo o a sus acompañantes que arrojen residuos sólidos en la vía pública o en los centros comunes para la convivencia y recreación, se identificará ante él o ellos con credencial vigente con fotografía expedida por el Organismo Operador del Servicio de Limpia, les requerirá para que hagan lo propio, en el caso de conductores o viajantes en vehículos, deberá tomar los datos de estos, informándoles de la infracción cometida, preferentemente mediante, la lectura directa del precepto violado;
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2020)</small>
 
-2. Acto continuo, el inspector procederá a levantar la boleta de infracción, anotando el nombre y domicilio del infractor, la conducta infractora y el precepto legal infringido, así como el nombre y firma del supervisor;
+1. Al observar el inspector a un peatón o conductor de vehículo o a sus acompañantes que arrojen residuos sólidos en los espacios públicos, se identificará ante él o ellos con credencial vigente con fotografía expedida por el Organismo, les requerirá para que a su vez se identifiquen; deberá tomar los datos de éstos, informándoles de la infracción cometida, preferentemente mediante la lectura directa del precepto violado;
 
-3. Finalmente, el supervisor entregará al infractor el original de la boleta levantada y le indicará que debe presentarse al Organismo Operador del Servicio de Limpia a efecto de que conozca la sanción a que se haga acreedor y para el cumplimiento de ésta.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2020)</small>
+
+2. Acto continuo, el inspector procederá a elaborar la boleta de infracción, anotando el nombre y domicilio del infractor, la conducta infractora y el precepto legal infringido, así como el nombre y firma del inspector;
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2020)</small>
+
+3. Finalmente, el inspector entregará al infractor el original de la boleta elaborada y le indicará que debe presentarse al Organismo a efecto de que conozca la sanción a que se haga acreedor y para el cumplimiento de ésta.
 
 DENUNCIA POPULAR
 
@@ -38460,3 +38782,13 @@ P.O. 30 DE DICIEMBRE DE 2019.
 PRIMERO. La presente reforma y adición de diversas disposiciones al Capítulo 10 del Código Reglamentario para el Municipio de Puebla, son de orden general y entrarán en vigor un día después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 8 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 13 DE SEPTIEMBRE DE 2019, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CAPÍTULO 19 "LIMPIA, RECOLECCIÓN, TRASLADO, TRATAMIENTO Y DISPOSICIÓN FINAL DE RESIDUOS SÓLIDOS", DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
+
+PRIMERO. La presente reforma, adición y derogación de diversas disposiciones del Capítulo 19 "LIMPIA, RECOLECCIÓN, TRASLADO, TRATAMIENTO Y DISPOSICIÓN FINAL DE RESIDUOS SÓLIDOS" del Código Reglamentario para el Municipio de Puebla, son de orden general y entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se fija un plazo de tres meses para que el Organismo Operador del Servicio de Limpia del Municipio de Puebla realice las propuestas de modificación y actualización que sean procedentes al Reglamento Interior y Manuales de Procedimientos y los presente ante el Honorable Ayuntamiento para su aprobación.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Dictamen.
