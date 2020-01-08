@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-consejo-economico-social-y-ambiental-de-la-137
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-07-25"
-last_updated: "2019-07-25"
+last_updated: "2020-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-06-19"
 
 LEY ORGÁNICA DEL CONSEJO, ECONÓMICO, SOCIAL Y AMBIENTAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE ENERO DE 2020.
 
 Ley publicada en el Número 142 Bis de la Gaceta Oficial de la Ciudad de México, el jueves 25 de julio de 2019.
 
@@ -184,27 +184,27 @@ VI. La persona Titular de cada Alcaldía de la Ciudad de México.
 
 Se procurará en su integración la paridad de género. Contarán con derecho a voz y voto en las sesiones de la Asamblea General del Consejo
 
-B. Personas Invitadas Permanentes.
+> <small>(REFORMADO, G. O. 8 DE ENERO DE 2020)</small>
+
+B. Personas Invitadas Permanentes
 
 I. La persona Titular de la Jefatura de Gobierno, quien fungirá como Presidente Honorario del Consejo;
 
-II. Tres Diputadas o Diputados del Congreso de la Ciudad de México, a propuesta de (sic)
+II. Las Diputadas y los Diputados integrantes de la Comisión de Desarrollo Económico del Congreso de la Ciudad de México;
 
-III. La Comisión de Desarrollo Económico y ratificados por el Pleno;
+III. La persona titular de la Secretaría de Administración y Finanzas;
 
-IV. La persona titular de la Secretaría de Administración y Finanzas;
+IV. La persona titular de la Secretaría de Inclusión y Bienestar Social;
 
-V. La persona titular de la Secretaría de Inclusión y Bienestar Social;
+V. La persona titular de la Secretaría de Desarrollo Económico;
 
-VI. La persona titular de la Secretaría de Desarrollo Económico;
+VI. La persona titular de la Secretaría de Turismo;
 
-VII. La persona titular de la Secretaría de Turismo;
+VII. La persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación;
 
-VIII. La persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación;
+VIII. La persona titular de la Secretaría de Trabajo y Fomento al Empleo; y
 
-IX. La persona titular de la Secretaría de Trabajo y Fomento al Empleo; y
-
-X. La persona titular de la Secretaría de Medio Ambiente.
+IX. La persona titular de la Secretaria de Medio Ambiente
 
 Las personas invitadas permanentes, contarán con derecho a voz y voto en las sesiones de la Asamblea General del Consejo y pudiendo nombrar a un representante con un cargo al menos de dirección de área.
 
@@ -743,3 +743,17 @@ DÉCIMO TERCERO.- El Congreso de la Ciudad, deberá asignar de manera anual en e
 Palacio Legislativo del Congreso de la Ciudad de México, a los treinta y un días del mes de mayo del año dos mil diecinueve.- POR LA MESA DIRECTIVA.- DIPUTADO JOSÉ DE JESÚS MARTÍN DEL CAMPO CASTAÑEDA, PRESIDENTE.- DIPUTADA ISABELA ROSALES HERRERA, SECRETARIA.- DIPUTADA ANA PATRICIA BAEZ GUERRERO, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2, 3, fracciones XVII y XVIII, 7, 10 fracción II, 12 y 21 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los diecinueve días del mes de junio del año dos mil diecinueve.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, JOSÉ LUIS BEATO GONZÁLEZ.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUÍZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, HAYDEÉ SOLEDAD ARAGÓN MARTÍNEZ.- FIRMA.- EL SECRETARIO DE TURISMO, CARLOS MACKINLAY GROHMANN.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G. O. 8 DE ENERO DE 2020.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 6 DE LA LEY ORGÁNICA DEL CONSEJO, ECONÓMICO, SOCIAL Y AMBIENTAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Las personas diputadas integrantes de la Comisión de Desarrollo Económico del Congreso de la Ciudad de México entrarán en funciones de su calidad de invitados permanentes al Consejo Económico, Social y Ambiental de la Ciudad de México sin más trámite, en la primera sesión de dicho Consejo.
+
+TERCERO. Notifíquese al Consejo Económico, Social y Ambiental de la Ciudad de México.
+
+CUARTO. La Consejería Jurídica y de Servicios Legales de la Ciudad de México, realizará la fe de erratas respecto al proemio de la Ley Orgánica del Consejo Económico, Social y Ambiental de la Ciudad de México que indica que fue publicada el "25 de julio de 2017" en vez de "25 de julio de 2019".
