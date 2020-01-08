@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-agencia-para-la-racionalizacion-y-modernizacion-35828
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2010-12-24"
+last_updated: "2020-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE LA AGENCIA PARA LA RACIONALIZACION Y MODERNIZACION DEL SISTEMA DE TRANSPORTE PUBLICO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 8 DE ENERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LA AGENCIA PARA LA RACIONALIZACION Y MODERNIZACION DEL SISTEMA DE TRANSPORTE PUBLICO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -392,3 +394,43 @@ P.O. 3 DE DICIEMBRE DE 2010.
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 260. SE EXPIDE LA LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado, con las salvedades establecidas en estos artículos transitorios.
+
+Segundo.- Con la entrada en vigor del presente Decreto abrogan la Ley de Transporte para la Movilidad Sustentable del Estado de Nuevo León, la Ley de la Agencia para la Racionalización y Modernización del Sistema de Transporte Público de Nuevo León y se derogan todas las disposiciones legales y reglamentarias que se opongan a las disposiciones contenidas en la presente Ley.
+
+Tercero.- El actual Director de la Agencia para la racionalización y Modernización del Sistema de Transporte Público de Nuevo León, continuará en su encargo hasta en tanto el Titular del Ejecutivo no indique nuevo nombramiento. Periodo durante el cual contará y ejercerá las facultades y obligaciones del Director del Instituto.
+
+Cuarto.- A los cuarenta y cinco días hábiles de la publicación de éste decreto se deberán expedir los nombramientos del Director Técnico y los demás nombramientos administrativos.
+
+Quinto.- A partir de la entrada en vigor de esta Ley el patrimonio, derechos, obligaciones y el personal administrativo u operativo de la Agencia para la Racionalización y Modernización del Sistema de Transporte Público de Nuevo León, así como del Consejo Estatal del Transporte, pasaran a formar parte del Instituto, sin perjuicio de sus derechos laborales, una vez que esté completamente formalizado ante el Servicio de Administración Tributaria, y se creen las cuentas bancarias mediante las cuales se realicen las transferencias por parte de la Secretaría de Finanzas y Tesorería General del Estado conforme al presupuesto.
+
+Sexto.- La Junta de Gobierno deberá Constituirse dentro de los treinta días hábiles siguientes a la entrada en vigor del presente decreto.
+
+Séptimo.- El Reglamento de la presente Ley deberá ser publicado a los noventa días hábiles de la entrada en vigor del presente decreto.
+
+Octavo.- Los Municipios contarán con noventa días hábiles a partir de la entrada en vigor del presente decreto para la expedición y publicación de las modificaciones que deban hacer a sus Reglamentos Municipales.
+
+Noveno.- Los procedimientos y recursos que se encuentran en trámite a la entrada en vigor de esta Ley, se substanciarán con arreglo a la Ley que se abroga.
+
+Décimo.- Los permisionarios que actualmente cuenten con permiso vigente, para poder participar en las concesiones, deberán renunciar al permiso que tienen.
+
+Décimo Primero.- El rediseño de rutas e itinerarios, así como la implementación de plataformas digitales deberá iniciarse con la entrada en vigor del presente decreto y llevarse a efecto según un programa de implementación que establezca el Instituto el cual deberá establecer el rediseño en un máximo de un año de duración, solo durante ese periodo, las rutas e itinerarios podrán continuar su operación conforme a la Ley Abrogada, el Reglamento y las disposiciones de la Agencia para la Racionalización y Modernización del Sistema de Transporte Público para el Estado de Nuevo León y las concesiones o permisos otorgados.
+
+Décimo Segundo.- El Consejo Consultivo de Movilidad y Accesibilidad deberá constituirse a los noventa días hábiles de la entrada en vigor del presente decreto.
+
+Décimo Tercero.- La Agencia para Racionalización y Modernización expedirá permisos provisionales hasta la entrada plena en vigor de ésta Ley a los conductores de Empresas de Redes de Transporte con fundamento en éste artículo y los demás relativos de ésta Ley.
+
+Décimo Cuarto.- Se concede un término de tres meses a partir de la entrada en vigor de ésta Ley para que los conductores del SETIAP entreguen los requisitos establecidos en el artículo 99 de esta Ley a las Empresas de Redes de Transporte.
+
+Décimo Quinto.- Se concede un término de seis meses a partir de la entrada en vigor de ésta Ley para que las Empresas de Redes de Transporte se pongan al corriente con la entrega de información ante el Instituto con fundamento en éste artículo y los demás relativos de ésta Ley.
+
+Décimo Sexto.- Se concede un término de cinco años a partir de la entrada en vigor de ésta Ley para que todos los vehículos del SETRA, SETME, SETIAP y Transporte de Carga sean cambiados por vehículos que utilicen energías limpias y adaptadas para personas con discapacidad.
+
+Décimo Séptimo.- La gradualidad para la instalación del Sistema de Localización Vía Satelital, Sistema de Video Vigilancia, deberá preverse en el Reglamento de la presente Ley y comprenderá las disposiciones jurídicas que especifiquen detalladamente su objeto, funcionamiento y operación.
+
+Décimo Octavo.- Las estrategias de movilidad en bicicleta, señaladas en el artículo 119 se deberán de implementar máximo en un año contado a partir de la entrada en vigor del presente decreto.
