@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2019-04-22"
+last_updated: "2020-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE ENERO DE 2020.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -1363,6 +1363,28 @@ El Concejo Municipal tendrá las mismas atribuciones, facultades, funciones y ob
 
 Las autoridades auxiliares son aquellas que colaboran con el Ayuntamiento, conforme a esta Ley y los reglamentos gubernativos, con el fin de atender las funciones y la prestación de los servicios públicos. De igual modo, coadyuvarán para garantizar la tranquilidad, la seguridad y el orden público en el Municipio.
 
+> <small>(ADICIONADO, D.O. 9 DE ENERO DE 2020)</small>
+
+###### Artículo 68 Bis.
+
+Las autoridades auxiliares tendrán las siguientes funciones:
+
+I.- Representar a la comunidad ante las diferentes autoridades;
+
+II.- Gestionar e informar al ayuntamiento de las necesidades y deficiencias de los servicios públicos municipales;
+
+III.- Supervisar los trabajos del personal de imagen y limpieza municipal en la comunidad;
+
+IV.- Participar y coadyuvar en la integración y funcionamiento del Plan de Desarrollo Municipal;
+
+V.- Vigilar que el personal a su cargo que sea designado por el cabildo, preste exclusivamente los servicios que sean materia de su competencia;
+
+VI.- Resguardar, cuidar y hacer buen uso de los bienes muebles e inmuebles municipales que le sean entregados con esta finalidad, y
+
+VII.- Proponer al ayuntamiento a sus colaboradores principales, de acuerdo a la disponibilidad financiera municipal.
+
+Quienes ocupen un cargo en las comisarías municipales, tendrán derecho a una percepción económica a cargo del ayuntamiento, que en ningún caso podrá ser inferior al salario mínimo vigente.
+
 ###### Artículo 69.
 
 Son autoridades auxiliares:
@@ -1377,11 +1399,15 @@ IV.- Las demás que el Cabildo acuerde, según las características del Municipi
 
 #### SECCIÓN SEGUNDA. DE LA ELECCIÓN Y LOS REQUISITOS DE ELEGIBILIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE ENERO DE 2020)</small>
+
 ###### Artículo 70.
 
-Todas las autoridades auxiliares serán electas por el voto universal, libre, directo y secreto, mediante el procedimiento que al efecto organice el Cabildo, durarán en su cargo tres años, no pudiendo ser ratificados para el período inmediato.
+Todas las autoridades auxiliares serán electas por el voto universal, libre, directo y secreto de los vecinos de la comisaria que se trate, mediante el procedimiento que al efecto organice el cabildo y concluirán con cada administración municipal, pudiendo ser reelectos, por una sola vez, para el período inmediato.
 
-Dichas autoridades podrán ser removidas por el Cabildo, por causa justificada y conforme al reglamento que se expida.
+> <small>(REFORMADO, D.O. 9 DE ENERO DE 2020)</small>
+
+Dichas autoridades únicamente podrán ser removidas por el cabildo, debido a causas graves y conforme al reglamento que se expida.
 
 > <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
 
@@ -1389,7 +1415,13 @@ El procedimiento de elección deberá ajustarse a los siguientes lineamientos:
 
 I.- Se realizará dentro de los noventa días posteriores al de la instalación del Ayuntamiento;
 
-II.- La convocatoria deberá expedirse diez días naturales antes del de la elección, y hacerse del conocimiento de los residentes de la localidad, a través de medios que garanticen su adecuada difusión, así como en lugares de acceso público;
+> <small>(ADICIONADA, D.O. 9 DE ENERO DE 2020)</small>
+
+I bis.- En caso de que venza el término establecido en el artículo anterior de esta ley, se sancionará al presidente municipal, que no lo haya realizado conforme a la Ley de Responsabilidades de los Servidores Públicos del estado de Yucatán;
+
+> <small>(REFORMADA, D.O. 9 DE ENERO DE 2020)</small>
+
+II.- La convocatoria deberá aprobarse en sesión de cabildo convocada para ese efecto, expedirse y hacerse del conocimiento de los vecinos de la comisaría de que se trate, dentro de los quince días naturales antes de la elección, a través de la gaceta municipal, sitios electrónicos, páginas oficiales del ayuntamiento, y por cédula de notificación que se fijará en los bajos de las comisarías municipales de que se trate, lugares de acceso público; así como en medios que garanticen su adecuada difusión y máxima publicidad;
 
 III.- Los aspirantes a ser electos deberán cumplir con todos y cada uno de los requisitos establecidos en esta ley;
 
@@ -1397,7 +1429,9 @@ IV.- Los votantes acreditarán su residencia con el documento oficial emitido po
 
 V.- El día de la elección, cada aspirante podrá contar con un representante en la mesa de cómputo, y
 
-VI.- El ayuntamiento podrá solicitar a las autoridades electorales federales o estatales, auxilio o asesoría que requiera para la celebración de la elección.
+> <small>(REFORMADA, D.O. 9 DE ENERO DE 2020)</small>
+
+VI.- El ayuntamiento podrá solicitar por escrito, a las autoridades electorales federales o estatales, el auxilio o asesoría que requiera para la celebración de la elección.
 
 > <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
 
@@ -1415,11 +1449,29 @@ I.- Ser mayor de edad;
 
 II.- Saber leer y escribir;
 
-III.- Ser vecino del Municipio;
+> <small>(REFORMADA, D.O. 9 DE ENERO DE 2020)</small>
 
-IV.- No ser propietario de expendio de bebidas alcohólicas, ni tener intereses en esa clase de negocios, y
+III.- Ser vecino de la comisaría o manzana del municipio;
 
-V.- No contar con antecedentes penales.
+> <small>(REFORMADA, D.O. 9 DE ENERO DE 2020)</small>
+
+IV.- No ser propietario de expendio de bebidas alcohólicas, ni tener intereses en esa clase de negocios;
+
+(NOTA: EL 19 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ABRIL DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, D.O. 9 DE ENERO DE 2020)</small>
+
+V.- NO HABER SIDO SENTENCIADO POR LA COMISIÓN DE DELITOS CALIFICADOS COMO GRAVES;
+
+(NOTA: EL 19 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ABRIL DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, D.O. 9 DE ENERO DE 2020)</small>
+
+VI.- NO HABER SIDO SANCIONADO POR ACTOS DE CORRUPCIÓN O INHABILITADO PARA OCUPAR CARGOS PÚBLICOS, Y
+
+> <small>(ADICIONADA, D.O. 9 DE ENERO DE 2020)</small>
+
+VII.- No desempeñar actividades comerciales o laborales que impidan el correcto desempeño del encargo.
 
 ###### Artículo 71.
 
@@ -3588,3 +3640,11 @@ Por lo que se refiere a los Ayuntamientos del Estado, en el supuesto de que no c
 Tercero. Derogación Expresa.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
+
+D.O. 9 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 165/2020 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EN MATERIA DE AUTORIDADES AUXILIARES".]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
