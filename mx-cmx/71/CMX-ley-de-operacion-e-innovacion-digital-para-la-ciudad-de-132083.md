@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-operacion-e-innovacion-digital-para-la-ciudad-de-132083"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2019-02-25"
+last_updated: "2020-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132083&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2018-12-28"
 
 LEY DE OPERACIÓN E INNOVACIÓN DIGITAL PARA LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 25 DE FEBRERO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2020.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el 31 de diciembre de 2018.
 
@@ -792,27 +790,7 @@ XVI. Las demás que le otorguen otros ordenamientos jurídicos.
 
 ###### Artículo 33.
 
-Para la implementación de la Política de Gobernanza Tecnológica, la Ciudad establecerá un Consejo de Gobernanza Tecnológica que estará presidido por la persona Titular de la Jefatura de Gobierno e integrado por al menos:
-
-I. La persona Titular de la Agencia Digital de Innovación Pública;
-
-II. La persona responsable de la Gobernanza Tecnológica al interior de la Agencia, que fungirá como Secretario técnico del Consejo de Gobernanza Tecnológica;
-
-III. Un representante por cada una de las dependencias, órganos desconcentrados y entidades paraestatales de la Administración Pública de la Ciudad de México. Los representantes deberán ser titulares del área de tecnologías de la información, sistemas, informática o modernización;
-
-IV. Tres representantes de sociedad civil;
-
-V. Tres representantes de la industria de las telecomunicaciones;
-
-VI. Tres representantes del sector académico; y
-
-VII. Un representante de las Alcaldías de la Ciudad.
-
-El Consejo podrá invitar a quien considere necesario en sus sesiones de trabajo y podrá ampliar al número de integrantes que considere pertinente de conformidad con las Reglas de Operación Interna que apruebe el propio Consejo.
-
-El nombramiento de los representantes de la industria de las telecomunicaciones, de la sociedad civil y del sector académico y su duración, se estará a lo mandatado por el Reglamento de la Ley. Asimismo la elección de la persona representante de las Alcaldías. Estos representantes sólo podrán ser reemplazados en caso de renuncia o fuerza mayor.
-
-El cargo a desempeñar será honorífico y sin emolumento alguno.
+(DEROGADO, G.O. 9 DE ENERO DE 2020)
 
 ### CAPÍTULO VII. DE LA GOBERNANZA DE LA CONECTIVIDAD Y LA GESTIÓN DE LA INFRAESTRUCTURA DE TELECOMUNICACIONES
 
@@ -1097,3 +1075,49 @@ SEXTO. La Agencia tendrá un plazo de 180 días para la expedición de la polít
 Palacio Legislativo del Congreso de la Ciudad de México, a los veintiocho días del mes de diciembre del año dos mil dieciocho.- POR LA MESA DIRECTIVA.- DIPUTADO JOSÉ DE JESÚS MARTÍN DEL CAMPO CASTAÑEDA, PRESIDENTE.- DIPUTADA ISABELA ROSALES HERRERA, SECRETARIA.- DIPUTADA ANA PATRICIA BAEZ GUERRERO, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2° fracciones XVII y XVIII, 6°, 9° fracción I, 18 y 20 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los veintiocho días del mes de diciembre del año dos mil dieciocho.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE PROTECCIÓN CIVIL Y DE LA GESTIÓN INTEGRAL DE RIESGOS, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, HAYDEÉ SOLEDAD ARAGÓN MARTÍNEZ.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, ROSAURA RUÍZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, LARISA ORTÍZ QUINTERO.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, ILEANA AUGUSTA VILLALOBOS ESTRADA.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, JOSÉ LUIS BEATO GONZÁLEZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.-FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.- EL SECRETARIO DE TURISMO, CARLOS MACKINLAY GROHMANN.- FIRMA.- EL SECRETARIO DE CULTURA, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, JESÚS ORTA MARTÍNEZ.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 9 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGAN LA LEY DE FIRMA ELECTRÓNICA DEL DISTRITO FEDERAL, PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 04 DE NOVIEMBRE DE 2009 Y LA LEY DE GOBIERNO ELECTRÓNICO DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 07 DE OCTUBRE DE 2015; SE DEROGA EL ARTÍCULO 33 DE LA LEY DE OPERACIÓN E INNOVACIÓN DIGITAL PARA LA CIUDAD DE MÉXICO. SE REFORMA EL ARTÍCULO 1803 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL. SE EXPIDE LA LEY DE CIUDADANÍA DIGITAL DE LA CIUDAD DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente decreto en la Gaceta Oficial de la Ciudad de México y para mayor difusión en el Diario Oficial de la Federación.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Firma Electrónica del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 04 de noviembre de 2009.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga la Ley de Gobierno Electrónico de la Ciudad de México, publicada en la Gaceta Oficial del Distrito Federal el 07 de octubre de 2015
+
+###### ARTÍCULO QUINTO.
+
+Se deroga el artículo 33 de la Ley de Operación e Innovación Digital para la Ciudad de México
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Persona Titular de la Jefatura de Gobierno de la Ciudad de México expedirá el Reglamento de esta Ley dentro de los 180 días naturales siguientes a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+###### ARTÍCULO OCTAVO.
+
+La Administración Pública y las Alcaldías deberán adecuar las disposiciones administrativas aplicables al interior de los mismos, conforme a las disposiciones contenidas en la presente Ley, en un plazo que no exceda 180 días naturales a partir de la publicación del reglamento de esta Ley que emita la persona titular de la Jefatura de Gobierno.
+
+###### ARTÍCULO NOVENO.
+
+Las facultades conferidas en esta Ley a la Fiscalía General de Justicia de la Ciudad de México serán asumidas por la Procuraduría General de Justicia del Distrito Federal, hasta en tanto aquella no entre en funciones de conformidad con el Transitorio Décimo Séptimo de la Constitución Política de la Ciudad de México y la Ley de Transición de la Procuraduría General de Justicia a la Fiscalía General de Justicia de la Ciudad de México.
+
+###### ARTÍCULO DÉCIMO.
+
+Todas las referencias realizadas en otras disposiciones normativas al Identificador Digital Único se entenderán por el Autenticador Digital Único.
