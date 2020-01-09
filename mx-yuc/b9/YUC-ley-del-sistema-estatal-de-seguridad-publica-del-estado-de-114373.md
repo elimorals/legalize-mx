@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-1143
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-02"
-last_updated: "2018-08-27"
+last_updated: "2020-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE ENERO DE 2020.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 2 de mayo de 2016.
 
@@ -1445,11 +1445,21 @@ Responsabilidades
 
 Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos del estado y los municipios por el incumplimiento de la ley general y esta ley, serán determinadas y sancionadas por las autoridades competentes, en términos de las disposiciones legales y normativas aplicables.
 
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 9 DE ENERO DE 2020)</small>
+
 ###### Artículo 113.
 
-Sanciones
+Responsabilidades penales
 
 Los delitos contra el sistema estatal se sancionarán en los términos del capítulo VI del título segundo del libro segundo del Código Penal del Estado de Yucatán.
+
+> <small>(ADICIONADO, D.O. 9 DE ENERO DE 2020)</small>
+
+###### Artículo 114.
+
+Sanción administrativa
+
+El usuario de una línea telefónica o instrumentos tecnológicos que permita o realice llamadas a los sistemas de emergencia, para dar un aviso falso de alerta, solicitud de auxilio, ayuda a un particular o cualquier otra situación que genere movilización o presencia del cuerpo de bomberos, personal de emergencias médicas, personal de protección civil o elementos de seguridad pública será sancionado con multa de cincuenta a cien unidades de medida y actualización o con arresto de 24 a 36 horas.
 
 Artículos transitorios:
 
@@ -1606,3 +1616,11 @@ Los acuerdos y convenios así como los asuntos, expedientes y demás actos jurí
 Tercero. Transferencia de recursos
 
 A partir de la entrada en vigor de este decreto, el patrimonio, el presupuesto del ejercicio fiscal en curso, las economías, recursos en cuentas, bienes muebles e inmuebles del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, del Centro Estatal de Información sobre Seguridad Pública y del Centro Estatal de Evaluación y Control de Confianza, pasarán al dominio y uso de la Secretaría de Seguridad Pública.
+
+D.O. 9 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 166/2020 POR EL QUE SE MODIFICA LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, EN MATERIA DEL USO INDEBIDO DE LOS SISTEMAS DE EMERGENCIA TELEFÓNICOS A TRAVÉS DE LLAMADAS FALSAS O INOPERANTES”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
