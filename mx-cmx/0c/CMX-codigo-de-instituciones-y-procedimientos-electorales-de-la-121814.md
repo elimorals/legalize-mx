@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-instituciones-y-procedimientos-electorales-de-la-1218
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-07"
-last_updated: "2019-12-30"
+last_updated: "2020-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121814&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-06-06"
 
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 30 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 9 DE ENERO DE 2020.
 
 Código publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de junio de 2017.
 
@@ -142,7 +142,7 @@ I. Alcaldesas o Alcaldes. Titulares de los órganos político-administrativos de
 
 II. Autoridades Electorales. El Instituto Nacional Electoral, el Instituto Electoral y el Tribunal Electoral ambos de la Ciudad de México;
 
-III. Candidato a Diputada o Diputado migrante. La persona residente en el extranjero con calidad de originaria de la Ciudad de México, que cumple con los requisitos dispuestos por la Constitución Federal y su Ley Reglamentaria en materia de nacionalidad y ciudadanía para ocupar el cargo de Diputada o Diputado por el principio de mayoría relativa;
+III. (DEROGADA, G.O. 9 DE ENERO DE 2020)
 
 IV. Candidato sin partido. La ciudadana o el ciudadano que obtenga por parte de la autoridad electoral el acuerdo de registro, habiendo cumplido los requisitos que para tal efecto establece el presente Código;
 
@@ -244,7 +244,9 @@ Para los efectos de lo dispuesto por el párrafo octavo del artículo 134 de la 
 
 En la Ciudad de México, son derechos de las ciudadanas y de los ciudadanos:
 
-I. Votar y participar en las elecciones federales, locales, consultas populares y demás mecanismos e instrumentos de participación ciudadana conforme lo dispuesto por este Código y demás disposiciones aplicables. Las ciudadanas y ciudadanos de la Ciudad de México residentes en el extranjero, tendrán derecho a emitir su voto en la elección para la Jefatura de Gobierno y para la de Diputadas y Diputados Locales exclusivamente para el caso de Candidato a Diputada o Diputado Migrante, en los términos que determinen la Constitución Federal, las Leyes Generales y este Código;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2020)</small>
+
+I. Votar y participar en las elecciones federales, locales, consultas populares y demás mecanismos e instrumentos de participación ciudadana conforme lo dispuesto por este Código y demás disposiciones aplicables. Las ciudadanas y ciudadanos de la Ciudad de México residentes en el extranjero, tendrán derecho a emitir su voto en la elección para la Jefatura de Gobierno, en los términos que determinen la Constitución Federal, las Leyes Generales y este Código;
 
 II. Asociarse libre, individual y voluntariamente a una Asociación Política para participar en forma pacífica en los asuntos políticos de la Ciudad de México;
 
@@ -378,13 +380,15 @@ El Congreso Local se regirá por los principios de parlamento abierto. Las Diput
 
 Las Diputadas y los Diputados del Congreso Local son inviolables por las opiniones que manifiesten en el desempeño de su encargo. No podrán ser reconvenidos ni procesados por éstas. La Presidencia del Congreso Local velará por el respeto a la inviolabilidad del recinto donde se reúnan a sesionar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2020)</small>
+
 ###### Artículo 13.
 
-Las ciudadanas y los ciudadanos originarios que se encuentren en el extranjero podrán ejercer su derecho al sufragio en la fórmula de Candidatos a Diputadas o Diputados migrantes, de conformidad con lo que dispone el Código y los lineamientos que al efecto emita el propio Instituto Electoral, quien tendrá bajo su responsabilidad el registro de las Candidaturas a Diputadas o Diputados migrantes y la organización de esos comicios; para ello podrá emitir acuerdos y suscribir convenios con el Instituto Nacional, dependencias de competencia federal y local, así como con instituciones de carácter social y privado, debiendo su Consejo General determinar las modalidades que se habrán de emplear para la recepción de esos sufragios, apoyándose para ello en un Comité especial y en un área técnica prevista en el reglamento interno del Instituto Electoral, que le auxilien a valorar los diversos mecanismos empleados para ese efecto por otros organismos electorales y/o proponer elementos innovadores para su instrumentación.
+Las ciudadanas y los ciudadanos originarios que se encuentren en el extranjero podrán ejercer su derecho al sufragio en la elección de jefatura de gobierno.
 
 Para ejercer el derecho al voto, las ciudadanas y los ciudadanos originarios residentes en el extranjero deberán contar con credencial para votar con fotografía expedida por el organismo electoral federal cuyo registro corresponda a la Ciudad de México, lo que permitirá acreditar la residencia en esta entidad federativa, aún sin radicar en ella.
 
-Los partidos políticos podrán postular candidatos comunes en esos comicios.
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 9 DE ENERO DE 2020)</small>
 
 (NOTA: EL 21 DE SEPTIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2017 Y SUS ACUMULADAS 65/2017, 66/2017, 67/2017, 68/2017, 70/2017, 71/2017, 72/2017, 74/2017 Y 75/2017, DECLARÓ FUNDADA LA OMISIÓN LEGISLATIVA PLANTEADA EN LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2017, ATRIBUIDA A ESTE ARTÍCULO, RELATIVA A ESTABLECER EN ESTE CÓDIGO MECANISMOS POLÍTICO-ELECTORALES ESPECÍFICOS RELACIONADOS CON EL ACCESO A CARGOS DE ELECCIÓN POPULAR DE LAS PERSONAS INTEGRANTES DE LOS PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES EN LA CIUDAD DE MÉXICO; EN LA INTELIGENCIA DE QUE LA ASAMBLEA LEGISLATIVA DE LA CIUDAD DE MÉXICO DEBERÁ EMITIR, PREVIA CONSULTA A LOS PUEBLOS Y COMUNIDADES INDÍGENAS DE LA CIUDAD DE MÉXICO, EL ACTO LEGISLATIVO QUE SUBSANE ESA OMISIÓN, EL CUAL DEBERÁ ENTRAR EN VIGOR ANTES DEL PROCESO ELECTORAL SIGUIENTE AL QUE INICIE EN ESA LOCALIDAD EN EL MES DE OCTUBRE DE DOS MIL DIECISIETE, LA CUAL SURTIÓ EFECTOS EL 5 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -1546,9 +1550,11 @@ Se integrará por las y los Consejeros Electorales que formen parte de las Comis
 
 El Consejo General declarará, mediante acuerdo, el inicio formal de los trabajos del Comité Especial y designará al Consejero Electoral que lo presidirá.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2020)</small>
+
 ###### Artículo 76.
 
-En los procesos electorales en que tenga verificativo la elección de Jefa o Jefe de Gobierno, y de Diputado Migrante, se conformará un Comité encargado de coordinar las actividades tendientes a recabar el voto de las y los ciudadanos de la Ciudad de México residentes en el extranjero, únicamente en cuanto a esa elección.
+En los procesos electorales en que tenga verificativo la elección de Jefa o Jefe de Gobierno, se conformará un Comité encargado de coordinar las actividades tendientes a recabar el voto de las y los ciudadanos de la Ciudad de México residentes en el extranjero, únicamente en cuanto a esa elección.
 
 En los procesos electorales en que tenga verificativo la elección de Jefe de Gobierno se conformará un Comité encargado de coordinar las actividades tendientes a recabar el voto de los ciudadanos de la Ciudad de México residentes en el extranjero, únicamente en cuanto a estas figuras.
 
@@ -1566,13 +1572,15 @@ III. Proponer al Consejo General la propuesta de mecanismos para promover y reca
 
 IV. Presentar al Consejo General la estadística, respecto de la participación de los ciudadanos de la Ciudad de México residentes en el extranjero; y
 
-V. Proponer al Consejo General para el escrutinio y cómputo de Jefe de Gobierno y de Diputado Migrante el sistema electrónico que se habilite para hacer constar los resultados en las actas y aplicando, en lo que resulte conducente, las disposiciones de la Ley General;
+V. (DEROGADA, G.O. 9 DE ENERO DE 2020)
 
 VI. Presentar al Consejo General el proyecto del costo de los servicios postales derivado de los envíos que por correo realice el Instituto a los ciudadanos residentes en el extranjero, así como el costo derivado de los servicios digitales, tecnológicos, operativos y de promoción, para su inclusión en el presupuesto institucional;
 
 VII. Presentar al Consejo General la estadística, respecto de la participación de las ciudadanas o los ciudadanos de la Ciudad de México residentes en el extranjero, y
 
-VII (SIC). Las demás que le confiere este Código.
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2020)</small>
+
+VIII. Las demás que le confiere este Código.
 
 En el ejercicio de sus atribuciones, el Consejo General observará los lineamientos que al efecto emita el Instituto Nacional, cuando esto sea aplicable.
 
@@ -7568,7 +7576,7 @@ VIGÉSIMO TERCERO.- Para efectos de la designación del Contralor Interno del In
 
 VIGÉSIMO CUARTO.- Las disposiciones contenidas en él Título Quinto, Capítulo VII de la Constitución Política de la Ciudad de México, serán expedidas por el Congreso de la Ciudad de México a través de la Ley respectiva, lo anterior de conformidad con el artículo 59 apartado (sic) de la Constitución Local.
 
-VIGÉSIMO QUINTO.- Las disposiciones referidas en el presente Decreto, a la regulación del Candidato a Diputado Migrante serán aplicables hasta el proceso electoral 2021.
+VIGÉSIMO QUINTO.- (DEROGADO, G.O. 9 DE ENERO DE 2020)
 
 VIGÉSIMO SEXTO.- Todas las referencias hechas al Congreso de la Ciudad de México, se entenderán como facultades concedidas a la Asamblea Legislativa del Distrito Federal.
 
@@ -7613,3 +7621,11 @@ G.O. 30 DE DICIEMBRE DE 2019.
 Primero. Túrnese a la Jefatura de Gobierno de la Ciudad de México para su correspondiente promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 9 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE REFORMAN EL ARTÍCULO 6, FRACCIÓN I, ARTÍCULO 13, PÁRRAFO PRIMERO, ARTÍCULO 76, FRACCIÓN VII; Y SE DEROGAN EL ARTÍCULO 4, APARTADO B, FRACCIÓN III, ARTÍCULO 13, PÁRRAFO TERCERO, ARTÍCULO 76, FRACCIÓN V, Y ARTÍCULO VIGÉSIMO QUINTO TRANSITORIO, DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO”.]
+
+Primero.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida difusión.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
