@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-junta-local-de-conciliacion-y-96062"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-01"
-last_updated: "2019-03-04"
+last_updated: "2020-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96062&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2013-09-19"
 
 REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 9 DE ENERO DE 2020.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 1 de octubre de 2013.
 
@@ -506,11 +506,11 @@ La Presidencia de la Junta acordará regularmente con las y los titulares de la 
 
 La o el Secretario General de Asuntos Individuales, suplirá a la Presidencia de la Junta en su ausencia temporal, de igual forma en falta definitiva, en tanto se designe un nuevo nombramiento.
 
-> <small>(REFORMADO, G.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2020)</small>
 
 ###### Artículo 35.
 
-A la Presidencia de la Junta se le adscriben directamente, la Secretaría Particular, la Coordinación de Asuntos Jurídicos e Información, la Unidad de Transparencia, la Unidad Jurídica de Peritos, la Secretaría Auxiliar del Servicio Público de Conciliación, Secretaría Auxiliar de Huelgas y Conflictos Colectivos, Secretaría Auxiliar de Contratos Colectivos y Secretaría Auxiliar de Registro y Actualización Sindical.
+A la Presidencia de la Junta se le adscriben directamente, la secretaria particular, la coordinación de asuntos jurídicos e información, la unidad de transparencia, la unidad jurídica de peritos, la secretaría auxiliar del servicio público de conciliación, la secretaría auxiliar de huelgas y conflictos colectivos, la secretaría auxiliar de contratos colectivos, la secretaría auxiliar de registro y actualización sindical y la oficialía de partes común.
 
 > <small>(REFORMADO, G.O. 4 DE MARZO DE 2019)</small>
 
@@ -1054,11 +1054,11 @@ XVII. Vigilar que en el trámite de registro y actualización de las organizacio
 
 DE LA SECRETARÍA GENERAL DE ASUNTOS INDIVIDUALES.
 
-> <small>(REFORMADO, G.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2020)</small>
 
 ###### Artículo 61.
 
-A la Secretaría General de Asuntos Individuales se le adscriben, las Juntas especiales, la Secretaría Auxiliar de Amparos, la Unidad Jurídica de Convenios Fuera de Juicio, Exhortos y Paraprocesales y la Oficialía de Partes Común.
+A la Secretaría General de Asuntos Individuales se le adscriben, las juntas especiales, la secretaría auxiliar de amparos y la unidad jurídica de convenios fuera de juicio, exhortos y paraprocesales.
 
 > <small>(REFORMADO, G.O. 4 DE MARZO DE 2019)</small>
 
@@ -1282,43 +1282,75 @@ La Oficialía de Partes Común, coordina el registro y turno de las demandas y d
 
 La Oficialía de Partes Común, queda a cargo de la persona, nombrada y removida libremente por la Presidencia de la Junta. Se le asigna el personal jurídico y administrativo, bajo su supervisión y dirección para el desempeño de las funciones de su unidad.
 
-> <small>(REFORMADO, G.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. PRIMER PÁRRAFO], G.O. 9 DE ENERO DE 2020)</small>
 
 ###### Artículo 72.
 
-La Oficialía de Partes común tiene las siguientes facultades y obligaciones:
+La oficialía de partes común tiene las siguientes facultades y obligaciones:
+
+> <small>(REFORMADA G.O. 4 DE MARZO DE 2019)</small>
 
 I. Coordinar la recepción y registro de la correspondencia de entrada, dirigida a la Junta;
 
+> <small>(REFORMADA G.O. 4 DE MARZO DE 2019)</small>
+
 II. Llevar el registro y control de la correspondencia que se reciba en libros de registro o sistema electrónico y verificar que se anote la fecha de recibo de la correspondencia, el número progresivo de entrada o salida, el nombre de quien los suscribe, la autoridad o dependencia a que se dirige, el concepto del asunto y en su caso describir los anexos, indicando el número de expediente administrativo de la Junta especial o secretaría auxiliar a que se refiere;
+
+> <small>(REFORMADA G.O. 4 DE MARZO DE 2019)</small>
 
 III. Supervisar la entrega, a la persona que deposita los documentos, de una copia de sus escritos debidamente sellados y foliados, con el señalamiento de número de anexos que se acompañan;
 
+> <small>(REFORMADA G.O. 4 DE MARZO DE 2019)</small>
+
 IV. Llevar el registro de los expedientes que se formen con motivo de los escritos presentados y los que remitan otras autoridades, turnándolos al área correspondiente;
+
+> <small>(REFORMADA G.O. 4 DE MARZO DE 2019)</small>
 
 V. Llevar catálogos alfabéticos y numéricos a su cargo, así como el control y registro de los expedientes que se turnen a cada área;
 
+> <small>(REFORMADA G.O. 4 DE MARZO DE 2019)</small>
+
 VI. Recibir todos los documentos dirigidos a la Junta, en los horarios establecidos en el presente Reglamento;
+
+> <small>(REFORMADA G.O. 4 DE MARZO DE 2019)</small>
 
 VII. Mantener abiertas las ventanillas de recepción de escritos del público, en los horarios oficiales determinados por la Presidencia de la Junta que se publicarán en el Boletín Laboral;
 
 VIII. Remitir de inmediato a la Secretaría General de Asuntos Individuales y/o a la Secretaría de Huelgas y Conflictos Colectivos los valores que les sean presentados;
 
+> <small>(REFORMADA G.O. 4 DE MARZO DE 2019)</small>
+
 IX. Supervisar y controlar, bajo su más estricta responsabilidad, los sellos de recibo y despacho, e impedir que se haga mal uso de ellos;
+
+> <small>(REFORMADA G.O. 4 DE MARZO DE 2019)</small>
 
 X. Informar mensualmente a la Presidencia de la Junta, de manera detallada la naturaleza, cantidad y destino de toda la correspondencia recibida o despachada;
 
+> <small>(REFORMADA G.O. 4 DE MARZO DE 2019)</small>
+
 XI. Supervisar tanto el desempeño laboral como el orden y la disciplina de su personal, y en su caso hacer uso de las medidas requeridas para garantizar el buen desarrollo del área;
+
+> <small>(REFORMADA G.O. 4 DE MARZO DE 2019)</small>
 
 XII. Recibir la devolución de los exhortos que remitan las Juntas Locales del interior del país y remitirlos a la Junta especial o secretaría auxiliar que corresponda;
 
+> <small>(REFORMADA G.O. 4 DE MARZO DE 2019)</small>
+
 XIII. Verificar que se digitalicen los escritos iniciales de demanda individual y turnarlos al área correspondiente para que se emitan los autos de radicación;
 
-XIV. Llevar a cabo, en auxilio de las Juntas especiales, las primeras notificaciones y emplazamientos que procedan;
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2020)</small>
+
+XIV. Llevar a cabo, en auxilio de las juntas especiales: los emplazamientos, las notificaciones y diligencias que procedan, así como: dirigir, distribuir, supervisar y controlar el trabajo de las y los actuarios adscritos al central de diligencias actuariales;
+
+> <small>(REFORMADA G.O. 4 DE MARZO DE 2019)</small>
 
 XV. Verificar que se digitalicen los autos de radicación, notificaciones personales y emplazamientos, antes de enviarse el expediente a la Junta especial que corresponda según su competencia;
 
+> <small>(REFORMADA G.O. 4 DE MARZO DE 2019)</small>
+
 XVI. Autorizar la entrega de expedientes que le requiera la Presidencia de la Junta especial, cuando obren en su poder.
+
+> <small>(REFORMADA G.O. 4 DE MARZO DE 2019)</small>
 
 XVII. En materia de huelgas el personal de la oficialía procederá a revisar la documentación presentada y capturar en la base de datos respectiva:
 
@@ -1340,6 +1372,8 @@ h) Descripción de anexos; y
 
 i) Nombre y firma de la persona funcionaria que recibe.
 
+> <small>(REFORMADA G.O. 4 DE MARZO DE 2019)</small>
+
 XVIII. En el acuse para las personas promoventes se indicará:
 
 a) El tipo de emplazamiento;
@@ -1356,7 +1390,11 @@ f) Nombre o denominación de la o el patrón y su domicilio; y
 
 g) Descripción de anexos (certificación de inscripción de la directiva del sindicato, estatutos, actas de asamblea, afiliaciones, etc.).
 
+> <small>(REFORMADA G.O. 4 DE MARZO DE 2019)</small>
+
 XIX. Una vez ingresada la documentación relativa a un emplazamiento a huelga la o el titular de la Oficialía de Partes Común vigilará que sea entregada inmediatamente a la Secretaría Auxiliar de Huelgas y Conflictos Colectivos de Trabajo para los efectos de lo dispuesto por el artículo 921 de la Ley;
+
+> <small>(REFORMADA G.O. 4 DE MARZO DE 2019)</small>
 
 XX. En materia de conflictos colectivos de trabajo, al recibir la documentación relativa, el personal de la Oficialía, previa revisión de la misma, capturará en la base de datos respectiva:
 
@@ -1374,7 +1412,51 @@ f) Nombre de la persona funcionaria que lo recibió; y
 
 Debiendo asentar los mismos datos en el acuse respectivo y turnar a más tardar al día siguiente de su recepción, la documentación respectiva a la Secretaría Auxiliar correspondiente.
 
+> <small>(REFORMADA G.O. 4 DE MARZO DE 2019)</small>
+
 XXI. En general, realizar todas aquellas funciones inherentes a su esfera de responsabilidad.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 9 DE ENERO DE 2020)</small>
+
+DE LA CENTRAL DE DILIGENCIAS ACTUARIALES
+
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2020)</small>
+
+Artículo 72 Segundo.- La central de diligencias actuariales será la encargada de realizar todo tipo de notificaciones y diligencias que requieran las distintas juntas especiales.
+
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2020)</small>
+
+Artículo 72 Tercero.- El titular de la oficialía de partes, lo será también de la central de diligencias actuariales y tendrá, además, las atribuciones siguientes:
+
+I. Dirigir, distribuir y supervisar el trabajo de las y los actuarios, mediante la dotación de cuestionarios de notificación precargados en el aplicativo móvil;
+
+II. Recibir de las juntas especiales las instrucciones, acuerdos y demás documentos que deban ser objeto de notificación;
+
+III. Recibir, revisar y supervisar, en los términos establecidos por el presente Reglamento, las actuaciones que practiquen las y los actuarios;
+
+IV. Remitir a las juntas especiales, las razones, cédulas y demás documentación de las diligencias y notificaciones elaboradas por las y los actuarios;
+
+V. Recabar diariamente los informes de labores de las y los actuarios;
+
+VI. Estar en comunicación permanente con las y los titulares de las juntas especiales, a fin de retroalimentar y mejorar la calidad del trabajo de las y los actuarios;
+
+VII. Verificar que se efectúe la entrega oportuna de las actas donde consten las actuaciones que levanten las y los actuarios;
+
+VIII. Mensualmente informar al Presidente titular de la junta de las actividades realizadas; y,
+
+IX. Distribuir y asignar geográficamente en cualquiera de las 16 alcaldías de la Ciudad de México, a las y los actuarios de forma aleatoria para la realización de las notificaciones encomendadas.
+
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2020)</small>
+
+Artículo 72 Cuarto.- Para el cumplimiento de las atribuciones establecidas a la central de diligencias actuariales, quedarán adscritos todos los actuarios encargados de las diligencias y notificaciones en materia individual de la Junta Local, quienes estarán a cargo del titular de la oficialía de partes Común.
+
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2020)</small>
+
+Artículo 72 Quinto.- Las y los actuarios contarán con sistemas informáticos, aplicativo móvil y con la información completa para la realización de las diligencias y notificaciones que les sean asignadas, con la finalidad de agilizar la diligencia o notificación, el razonamiento o el acta y la entrega oportuna del expediente.
+
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2020)</small>
+
+Artículo 72 Sexto.- Las y los actuarios llevaran a cabo las notificaciones y diligencias de forma aleatoria de los procedimientos tramitados ante las juntas especiales y de conformidad con los artículos 742, 743 y demás relativos de la Ley Federal del Trabajo.
 
 > <small>(REFORMADO, G.O. 4 DE MARZO DE 2019)</small>
 
@@ -2589,3 +2671,11 @@ Artículo primero.- Se reforma el Reglamento Interior de la Junta Local de Conci
 Artículo segundo.- Lo no previsto en el presente Reglamento, será resuelto conforme a las disposiciones de la Ley Federal del Trabajo y de la Ley Federal de los Trabajadores al Servicio del Estado.
 
 Artículo tercero.- Las reformas del presente Reglamento entran en vigor inmediatamente después de ser aprobadas por el Pleno de la Junta Local de Conciliación y Arbitraje de la Ciudad de México, celebrado en fecha 30 de enero del 2019, aviso publicado en el Boletín Laboral del día 12 de febrero del 2019.
+
+G.O. 9 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL QUE SE DAN A CONOCER LAS REFORMAS Y ADICIONES AL REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DE LA CIUDAD DE MÉXICO".]
+
+Artículo Primero.- Se reforman el Reglamento Interior de la Junta Local de Conciliación y Arbitraje de la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México el 4 de marzo de 2019.
+
+Artículo Segundo.- Las reformas al presente Reglamento entran en vigor inmediatamente después de ser aprobadas por el Pleno de la Junta Local de Conciliación y Arbitraje de la Ciudad de México, celebrado el 6 de noviembre de 2019, según aviso publicado en el Boletín Laboral el día 4 de noviembre de 2019.
