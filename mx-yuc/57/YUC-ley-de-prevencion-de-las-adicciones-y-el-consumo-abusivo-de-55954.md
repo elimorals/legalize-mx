@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-prevencion-de-las-adicciones-y-el-consumo-abusivo-de-559
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-08"
-last_updated: "2017-11-24"
+last_updated: "2020-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DE PREVENCION DE LAS ADICCIONES Y EL CONSUMO ABUSIVO DE BEBIDAS ALCOHOLICAS Y TABACO DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PREVENCIÓN Y ATENCIÓN INTEGRAL DE LAS ADICCIONES DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 9 DE ENERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PREVENCIÓN DE LAS ADICCIONES Y EL CONSUMO ABUSIVO DE BEBIDAS ALCOHÓLICAS Y TABACO DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE ENERO DE 2020 (ABROGADO) .
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 8 de junio de 2007.
 
@@ -1388,3 +1390,21 @@ El gobernador deberá regular a la comisión intersecretarial para la reinserci�
 Décimo. Previsiones presupuestales
 
 El Gobierno del estado deberá realizar las previsiones y adecuaciones presupuestales necesarias para el adecuado cumplimiento de las disposiciones de la Ley Nacional de Ejecución Penal y de las establecidas en los artículos quinto y sexto de este decreto al momento de su entrada en vigor.
+
+D.O. 9 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 168/2020 POR EL QUE SE EMITE LA LEY DE PREVENCIÓN Y ATENCIÓN INTEGRAL DE LAS ADICCIONES DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Abrogación
+
+Se abroga el Decreto 766/2007 por el que se expide la Ley de Prevención de la (sic) Adicciones y el Consumo Abusivo de Bebidas Alcohólicas y Tabaco del Estado, publicado en el Diario Oficial del Gobierno del Estado el 08 de junio de 2007.
+
+Se abroga el Decreto 85/2008 por el que se expide el Reglamento Interior del Consejo Estatal de Prevención de Adicciones, publicado en el Diario Oficial del Estado el 26 de mayo de 2008.
+
+Tercero. Reglamento Interno
+
+El Consejo Estatal de Prevención de Adicciones y atención integral de las adicciones, deberá aprobar su reglamento interno en un plazo de noventa días, contado a partir de la entrada en vigor de este decreto.
