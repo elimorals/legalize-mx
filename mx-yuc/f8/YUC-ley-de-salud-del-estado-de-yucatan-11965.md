@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-salud-del-estado-de-yucatan-11965"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-16"
-last_updated: "2017-12-22"
+last_updated: "2020-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE SALUD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE ENERO DE 2020.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 16 de marzo de 1992.
 
@@ -887,11 +887,21 @@ La prestación de servicios de salud a los escolares se efectuará de conformida
 
 ### CAPITULO VII. PLANIFICACION FAMILIAR
 
+> <small>(REFORMADO, D.O. 9 DE ENERO DE 2020)</small>
+
 ### CAPITULO VIII. ATENCION DE SALUD MENTAL
 
 ###### ARTICULO 68.
 
-La planificación familiar tiene carácter prioritario. En sus actividades debe incluir la información y orientación para los adolescentes y jovenes. Aasimismo (sic) para disminuir el riesgo reproductivo se debe informar a la mujer y al hombre sobre la inconveniencia del embarazo antes de los 20 años o bien después de los 35, así como la conveniencia de espaciar los embarazos y reducir su número, todo ello, mediante una correcta información anticonceptiva, la cual debe ser oportuna, eficaz y completa a la pareja. Los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos con pleno respeto a su dignidad. Quiénes practiquen esterilización sin la voluntad del paciente o ejerzan presión para que éste la admita serán sancionados conforme a las disposiciones de esta Ley, independientemente de la responsabilidad penal en que incurran.
+La planificación familiar tiene carácter prioritario. Las personas pueden tener el número de hijos que deseen y determinar el intervalo entre embarazos. La promoción de la planificación familiar resulta esencial para lograr el bienestar y la autonomía de las mujeres, así como, apoyar la salud y el desarrollo de las comunidades. En las actividades de difusión se debe incluir la información y orientación, priorizando a las escuelas secundarias, bachilleratos, y en general, a todos los adolescentes y jóvenes del Estado. Asimismo, para disminuir el riesgo reproductivo se debe indicar a la mujer y al hombre sobre la inconveniencia del embarazo antes de los 18 años o bien después de los 35, así como la conveniencia de espaciar los embarazos y reducir su número, todo ello, mediante una correcta información y acceso a métodos anticonceptivos, la cual debe ser oportuna, eficaz y completa a la pareja.
+
+Los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos con pleno respeto a su dignidad.
+
+Quiénes practiquen esterilización sin la voluntad del paciente o ejerzan presión para que éste la admita serán sancionados conforme a las disposiciones de esta ley, independientemente de la responsabilidad penal en la que incurran.
+
+(NOTA: EL 18 DE ENERO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE ENERO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+LAS ACCIONES DE INFORMACIÓN Y ORIENTACIÓN EDUCATIVA QUE SE OTORGUE EN LAS COMUNIDADES INDÍGENAS DEBERÁN PROPORCIONARSE EN ESPAÑOL Y EN LENGUA MAYA.
 
 ###### ARTICULO 69.
 
@@ -3426,3 +3436,15 @@ c) Negar o cobrar la prestación del servicio de transporte a personas con disca
 Tercero. Derogación tácita.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
+
+D.O. 9 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 167/2020 POR EL QUE SE MODIFICA LA LEY DE SALUD DEL ESTADO DE YUCATÁN".]
+
+Artículo primero. Entrada en vigor.
+
+Este decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derogación tácita.
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se opongan a este decreto.
