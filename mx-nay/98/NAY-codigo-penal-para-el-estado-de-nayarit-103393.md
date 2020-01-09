@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2019-11-22"
+last_updated: "2020-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2020.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -2767,6 +2767,10 @@ Al que con fines sexuales acose reiteradamente a persona de cualquier sexo, vali
 
 Si el sujeto pasivo fuere menor de edad o incapaz, la pena será de tres a ocho años de prisión y multa de doscientos a cuatrocientos días.
 
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2020)</small>
+
+Si el hostigador fuese servidor público y utilizare los medios o circunstancias que el encargo le proporcione, además de las penas señaladas, se le destituirá del cargo y se le inhabilitará para ocupar cualquier otro cargo público de uno a tres años.
+
 Las penas previstas en este artículo son independientes de cualquier otro delito que resulte cometido con motivo del acoso.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
@@ -2774,6 +2778,14 @@ Las penas previstas en este artículo son independientes de cualquier otro delit
 ###### ARTÍCULO 297.
 
 Al que con fines lascivos, sexuales o de lujuria, asedie reiteradamente a una persona de cualquier sexo, aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente para la víctima, se le impondrán de uno a tres años de prisión y multa de cien a trescientos días.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2020)</small>
+
+A quien cometa el delito de acoso sexual en vehículos destinados al transporte público de pasajeros, se aumentará hasta una tercera parte más respecto de la que imponga el juzgador a la sanción privativa de libertad.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2020)</small>
+
+Si el acosador fuese servidor público y utilizare los medios o circunstancias que el encargo le proporcione, además de las penas señaladas, se le destituirá del cargo y se le inhabilitará para ocupar cualquier otro cargo público de uno a tres años.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
@@ -3457,9 +3469,11 @@ Si entre el activo y la víctima existió una relación de parentesco por consan
 
 Tratándose de una relación de parentesco, se impondrá además de la prisión, la pérdida de derechos con respecto a la víctima u ofendidos, incluidos los de carácter sucesorio.
 
-(ADICIONADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2016) (F. DE E., P.O. 1 DE FEBRERO DE 2017)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2020)</small>
 
-ARTÍCULO 361 BIS.- Se impondrá de treinta a cincuenta años de prisión y multa de quinientos a mil días, a quien cometa el delito de feminicidio.
+###### ARTÍCULO 361 Bis.
+
+Se impondrán de cuarenta a sesenta años de prisión y multa de quinientos a mil días, a quien cometa el delito de feminicidio.
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3485,19 +3499,29 @@ VIII. Que se cometa por odio, aversión obsesiva, discriminación o dominio haci
 
 En caso que no se acredite el feminicidio se aplicarán las reglas del homicidio.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+###### ARTÍCULO 361 Ter.
 
-ARTÍCULO 361 TER.- Se impondrá de treinta y cinco a sesenta años de prisión y multa de seiscientos a mil doscientos días, cuando entre el responsable y la víctima de feminicidio, se actualice alguno de los supuestos siguientes:
+Se aumentará hasta en una cuarta parte más la pena de prisión señalada en el artículo anterior y multa de seiscientos a mil doscientos días, cuando entre el responsable y la víctima de feminicidio, se actualice alguno de los supuestos siguientes:
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 I. Que exista o haya existido una relación de parentesco por consanguinidad, matrimonio o concubinato;
 
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
 II. Que exista una relación de noviazgo, amistad o cualquier otra relación sentimental de hecho, laboral, docente, vecinal o cualquier otra que implique confianza, subordinación, superioridad o ventaja;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 III. Que el sujeto activo sea padrastro, hijastro o hermanastro de la víctima, o
 
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
 IV. Que la víctima se encuentre en estado de gravidez.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 Tratándose de una relación de parentesco, se impondrá además de la prisión, la pérdida de derechos con respecto a la víctima u ofendidos, incluidos los de carácter sucesorio.
 
@@ -4035,6 +4059,10 @@ Se impondrá de uno a siete años de prisión y multa hasta el equivalente de cu
 
 Las sanciones a que se refiere este artículo son independientes de las que correspondan por otros delitos.
 
+### CAPITULO ÚNICO. DE LA VIOLENCIA POLÍTICA CONTRA LA MUJER
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2020)</small>
+
 ###### ARTÍCULO 412.
 
 Se le impondrá una pena de dos a seis años de prisión y multa de trescientos a mil días, al que de manera dolosa y sin derecho alguno, ni autorización de quien pueda otorgarlo conforme a la Ley, utilice o tenga acceso a una base de datos, sistemas o red de computadoras o a cualquier parte de la misma, con el firme propósito de diseñar, ejecutar o alterar un esquema o artificio, con el fin de defraudar, obtener dinero, bienes o información en perjuicio de otro.
@@ -4202,6 +4230,16 @@ Cuando las lesiones o la muerte del animal se cause con la finalidad de evitar u
 ###### ARTÍCULO 424.
 
 No se considerarán para efectos del presente capitulo, como actos de crueldad o maltrato, los espectáculos de Tauromaquia, Charrería y Peleas de Gallos, siempre y cuando se realicen conforme a los Reglamentos y autorizaciones que al efecto emitan las autoridades competentes.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 9 DE ENERO DE 2020)</small>
+
+## TITULO VIGÉSIMO TERCERO
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 425.
+
+Comete el delito de violencia política contra las mujeres, aquella persona que por medio de acciones u omisiones y basado en elementos de género y realizadas en el marco del ejercicio de derechos político-electorales, tengan por objeto o resultado menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público, se le impondrá de dos a seis años de prisión y de cincuenta a trescientos días multa.
 
 TRANSITORIOS:
 
@@ -4400,5 +4438,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 22 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 9 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
