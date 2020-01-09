@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-firma-electronica-de-la-ciudad-de-mexico-antes-ley-70690
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-04"
-last_updated: "2019-12-09"
+last_updated: "2020-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70690&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2009-10-30"
 ---
 # LEY DE FIRMA ELECTRONICA DE LA CIUDAD DE MEXICO -- ANTES LEY DE FIRMA ELECTRONICA DEL DISTRITO FEDERAL --
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO Y ARTÍCULO CUARTO TRANSITORIO DEL DECRETO POR EL QUE SE ABROGAN LA LEY DE FIRMA ELECTRÓNICA DEL DISTRITO FEDERAL, PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 04 DE NOVIEMBRE DE 2009 Y LA LEY DE GOBIERNO ELECTRÓNICO DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 07 DE OCTUBRE DE 2015; SE DEROGA EL ARTÍCULO 33 DE LA LEY DE OPERACIÓN E INNOVACIÓN DIGITAL PARA LA CIUDAD DE MÉXICO. SE REFORMA EL ARTÍCULO 1803 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL. SE EXPIDE LA LEY DE CIUDADANÍA DIGITAL DE LA CIUDAD DE MÉXICO; PUBLICADO EN LA G.O. DE 9 DE ENERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FIRMA ELECTRÓNICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 9 DE ENERO DE 2020 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 4 de noviembre de 2009.
 
@@ -543,3 +545,51 @@ PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diari
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- A partir de la entrada en vigor del presente decreto, en todos los ordenamientos legales en que haga referencia a la Ley de Firma Electrónica del Distrito Federal, deberá entenderse como la Ley de Firma Electrónica de la Ciudad de México.
+
+G.O. 9 DE ENERO DE 2020.
+
+> <small>[N. DE E. ARTÍCULO SEGUNDO DEL “DECRETO POR EL QUE SE ABROGAN LA LEY DE FIRMA ELECTRÓNICA DEL DISTRITO FEDERAL, PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL, EL 04 DE NOVIEMBRE DE 2009 Y LA LEY DE GOBIERNO ELECTRÓNICO DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL, EL 07 DE OCTUBRE DE 2015; SE DEROGA EL ARTÍCULO 33 DE LA LEY DE OPERACIÓN E INNOVACIÓN DIGITAL PARA LA CIUDAD DE MÉXICO. SE REFORMA EL ARTÍCULO 1803 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL. SE EXPIDE LA LEY DE CIUDADANÍA DIGITAL DE LA CIUDAD DE MÉXICO”]</small>
+
+SEGUNDO. SE ABROGA LA LEY DE GOBIERNO ELECTRÓNICO DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 07 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGAN LA LEY DE FIRMA ELECTRÓNICA DEL DISTRITO FEDERAL, PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL, EL 04 DE NOVIEMBRE DE 2009 Y LA LEY DE GOBIERNO ELECTRÓNICO DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL, EL 07 DE OCTUBRE DE 2015; SE DEROGA EL ARTÍCULO 33 DE LA LEY DE OPERACIÓN E INNOVACIÓN DIGITAL PARA LA CIUDAD DE MÉXICO. SE REFORMA EL ARTÍCULO 1803 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL. SE EXPIDE LA LEY DE CIUDADANÍA DIGITAL DE LA CIUDAD DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente decreto en la Gaceta Oficial de la Ciudad de México y para mayor difusión en el Diario Oficial de la Federación.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Firma Electrónica del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 04 de noviembre de 2009.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga la Ley de Gobierno Electrónico de la Ciudad de México, publicada en la Gaceta Oficial del Distrito Federal el 07 de octubre de 2015
+
+###### ARTÍCULO QUINTO.
+
+Se deroga el artículo 33 de la Ley de Operación e Innovación Digital para la Ciudad de México
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Persona Titular de la Jefatura de Gobierno de la Ciudad de México expedirá el Reglamento de esta Ley dentro de los 180 días naturales siguientes a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+###### ARTÍCULO OCTAVO.
+
+La Administración Pública y las Alcaldías deberán adecuar las disposiciones administrativas aplicables al interior de los mismos, conforme a las disposiciones contenidas en la presente Ley, en un plazo que no exceda 180 días naturales a partir de la publicación del reglamento de esta Ley que emita la persona titular de la Jefatura de Gobierno.
+
+###### ARTÍCULO NOVENO.
+
+Las facultades conferidas en esta Ley a la Fiscalía General de Justicia de la Ciudad de México serán asumidas por la Procuraduría General de Justicia del Distrito Federal, hasta en tanto aquella no entre en funciones de conformidad con el Transitorio Décimo Séptimo de la Constitución Política de la Ciudad de México y la Ley de Transición de la Procuraduría General de Justicia a la Fiscalía General de Justicia de la Ciudad de México.
+
+###### ARTÍCULO DÉCIMO.
+
+Todas las referencias realizadas en otras disposiciones normativas al Identificador Digital Único se entenderán por el Autenticador Digital Único.
