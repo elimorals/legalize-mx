@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-familia-de-coahuila-de-zaragoza-110810"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2019-10-18"
+last_updated: "2020-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -1505,9 +1505,11 @@ III. Las hechas al inocente por el cónyuge que obró de mala fe quedarán subsi
 
 IV. Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan hecho quedarán en favor de sus hijas o hijos. Si no los tienen, no podrán hacer los donantes reclamación alguna con motivo de la liberalidad.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2020)</small>
+
 ###### Artículo 231.
 
-Si al declararse la nulidad del matrimonio la mujer estuviere encinta, se tomarán las precauciones a que se refiere el Capítulo Primero del Título Quinto del Libro Tercero del Código Civil para el Estado de Coahuila de Zaragoza.
+Si al declararse la nulidad del matrimonio la mujer estuviere embarazada, se tomarán las precauciones a que se refiere el Capítulo Primero del Título Quinto del Libro Tercero del Código Civil para el Estado de Coahuila de Zaragoza.
 
 ### CAPÍTULO NOVENO
 
@@ -1549,7 +1551,9 @@ I. La designación de la persona que tendrá la guarda y custodia de las hijas o
 
 II. Las modalidades bajo las cuales el padre o madre, que no tenga la guarda y custodia, ejercerá el derecho de convivencia.
 
-III. El modo de subvenir las necesidades de las hijas o hijos y, en su caso, del cónyuge a quien deba darse alimentos, tanto durante el procedimiento como después de decretarse el divorcio, así como las medidas correspondientes en caso de que la mujer se encuentre encinta. Deberá precisarse la forma, lugar y fecha del pago de la obligación alimentaria, así como la garantía para asegurar su cumplimiento.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
+
+III. El modo de subvenir las necesidades de las hijas o hijos y, en su caso, del cónyuge a quien deba darse alimentos, tanto durante el procedimiento como después de decretarse el divorcio, así como las medidas correspondientes en caso de que la mujer se encuentre embarazada. Deberá precisarse la forma, lugar y fecha del pago de la obligación alimentaria, así como la garantía para asegurar su cumplimiento.
 
 IV. La designación de la persona a quien corresponderá la posesión y disfrute del domicilio conyugal o común, y en su caso, del menaje de la casa; además deberá señalarse el tiempo que durará ese derecho.
 
@@ -1637,7 +1641,9 @@ I. Todo lo relativo a los derechos inherentes a la guarda y custodia, así como 
 
 II. Todas las medidas necesarias para protegerlos de actos de violencia familiar o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico y pleno de su personalidad.
 
-III. La determinación y aseguramiento de los alimentos que los ex cónyuges tienen obligación de contribuir, en proporción a sus bienes o ingresos, a favor de las hijas o hijos, incluyendo el caso de que la mujer se encuentre encinta.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
+
+III. La determinación y aseguramiento de los alimentos que los ex cónyuges tienen obligación de contribuir, en proporción a sus bienes o ingresos, a favor de las hijas o hijos, incluyendo el caso de que la mujer se encuentre embarazada.
 
 IV. Para el caso de las hijas o hijos mayores de edad cuya tutela sea desempeñada por alguno de los ex cónyuges, las medidas a que se refiere este artículo para su protección.
 
@@ -4548,3 +4554,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Poder Judicial del Estado de Coahuila de Zaragoza, a través del Instituto de Especialización Judicial, llevará a cabo programas de capacitación para los integrantes del poder judicial que estarán involucrados con la aplicación de la Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Coahuila de Zaragoza y conversatorios con los familiares de personas desaparecidas.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 10 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 435.- SE REFORMA EL ARTÍCULO 231, LA FRACCIÓN III DEL ARTÍCULO 235, Y EL ÚLTIMO PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 244 DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
