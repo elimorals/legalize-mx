@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-tribunal-de-justicia-administrativa-de-122991"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-08-11"
-last_updated: "2017-08-11"
+last_updated: "2020-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 11 de agosto de 2017.
 
@@ -165,7 +165,9 @@ XI. Ser o haber sido tutor o curador de alguno de los interesados o administrado
 
 XII. Ser heredero, legatario, donatario o fiador de alguno de los interesados, si el servidor público ha aceptado la herencia o el legado o ha hecho alguna manifestación en este sentido;
 
-XIII. Haber sido juez o magistrado en el mismo asunto, en otra instancia, o
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
+
+XIII. Haber sido juez o magistrado en el mismo asunto, en otra instancia distinta al Tribunal, o
 
 XIV. Haber sido agente del Ministerio Público, jurado, perito, testigo, apoderado, patrono o defensor en el asunto de que se trata, o haber gestionado o recomendado anteriormente el asunto en favor o en contra de alguno de los interesados.
 
@@ -850,3 +852,11 @@ EL SECRETARIO DE GOBIERNO
 VÍCTOR MANUEL ZAMORA RODRÍGUEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 397.- SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 5 DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
