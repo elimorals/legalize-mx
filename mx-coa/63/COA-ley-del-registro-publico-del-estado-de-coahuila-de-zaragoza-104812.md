@@ -4,7 +4,7 @@ identifier: "COA-ley-del-registro-publico-del-estado-de-coahuila-de-zaragoza-104
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2019-06-25"
+last_updated: "2020-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -151,7 +151,9 @@ XVIII. Inscripción: A todo asiento o anotación realizado en el folio correspon
 
 XIX. Oficina Registral: Unidades desconcentradas de la Dirección General del Instituto, que tienen como objetivo realizar la función registral sobre los bienes en los municipios que comprendan la circunscripción de su competencia;
 
-XX. Registrador: A la persona titular de cada una de las oficinas registrales ubicadas en el estado de Coahuila de Zaragoza de acuerdo a lo establecido en el artículo 7 de la presente ley;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
+
+XX. Director Registrador: A la persona titular de cada una de las oficinas registrales ubicadas en el estado de Coahuila de Zaragoza de acuerdo a lo establecido en el artículo 7 de la presente ley;
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -209,7 +211,9 @@ Para su funcionamiento el Instituto contará con la siguiente estructura organiz
 
 I. Dirección General, integrada a su vez por la Dirección Jurídica, Dirección de Seguimiento, Dirección de Administración y Control Interno, la Dirección de Archivo, Coordinación de Informática, Coordinación de Calidad; y
 
-II. Oficinas Registrales, integradas a su vez por la Dirección de la Oficina Registral, Coordinación Jurídica; además de las áreas de Recepción y Entrega, Inscripción, Certificación, Archivo y Unidad de Informática.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
+
+II. Oficinas Registrales, integradas a su vez por la Dirección de la Oficina Registral, Coordinación Jurídica, Registradores; además de las áreas de Recepción y Entrega, Inscripción, Certificación, Archivo y Unidad de Informática.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -303,7 +307,13 @@ XXI. Delegar facultades y obligaciones cuando las necesidades del servicio lo re
 
 XXII. Designar a la persona que suplirá sus ausencias temporales cuando éstas no excedan de un término mayor a quince días naturales.
 
-XXIII. Las que le sean encomendadas por esta ley y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 2020)</small>
+
+XXIII.- Nombrar los registradores que se requieran en cada oficina, previo acuerdo con el Secretario de Gobierno; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE ENERO DE 2020)</small>
+
+XXIV. Las que le sean encomendadas por esta ley y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -317,19 +327,31 @@ Las direcciones Jurídica, de Seguimiento, de Administración y Control Interno 
 
 Las oficinas registrales estarán integradas por:
 
-I. Registrador;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
+
+I. Director Registrador;
 
 II. Coordinador Jurídico; y
 
-III. Demás personal técnico – operativo que sea necesario.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
+
+III. Registradores; y
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2020)</small>
+
+IV. Demás personal técnico-operativo que sea necesario.
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
 
 ###### Artículo 14.
 
-El Registrador será el encargado de garantizar la buena función registral de la Oficina que corresponda, respecto de todos aquellos documentos y servicios que le sean presentados.
+El Director registrador y registradores autorizarán con su firma los asientos en que se materialice la función registral y tendrán a su cargo todas aquellas funciones que determine el Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2020)</small>
 
 ###### Artículo 15.
 
-La persona que ocupe el cargo de Registrador será designada por el Ejecutivo, a propuesta del Director General, para tal efecto se requiere:
+La persona que ocupe el cargo de Director Registrador será designada por el Ejecutivo, a propuesta del Director General, para tal efecto se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
@@ -339,9 +361,11 @@ III. No encontrarse inhabilitado para ejercer el cargo; y
 
 IV. No haber sido condenado por delito patrimonial intencional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2020)</small>
+
 ###### Artículo 16.
 
-La persona que ocupe el cargo de Registrador tendrá las facultades y obligaciones siguientes:
+La persona que ocupe el cargo de Director Registrador tendrá las facultades y obligaciones siguientes:
 
 I. Ser depositaria de la fe pública registral en la oficina a la cual se encuentre adscrita;
 
@@ -1065,11 +1089,13 @@ VI. Lugar y fecha de la ejecución del acto, y
 
 VII. Firma del o los interesados o de su representante legal, a menos que no sepa o no pueda firmar, caso en el cual se estampará su huella dactilar.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2020)</small>
+
 ###### Artículo 101.
 
-El Registrador ante quien se haya presentado el Recurso de Inconformidad, deberá informar por escrito o medio electrónico oficial a la Dirección General dentro de las veinticuatro horas siguientes a su presentación, remitiendo a ésta en un plazo no mayor a setenta y dos horas el informe sobre su actuación, acompañando en su caso las documentales que estime necesarias.
+El Director Registrador ante quien se haya presentado el Recurso de Inconformidad, deberá informar por escrito o medio electrónico oficial a la Dirección General dentro de las veinticuatro horas siguientes a su presentación, remitiendo a esta en un plazo no mayor a setenta y dos horas, el informe sobre su actuación, acompañando en su caso las documentales que estime necesarias.
 
-En caso de que el Registrador omitiere rendir el informe mencionado en el párrafo que antecede dentro del plazo establecido, se le impondrá una sanción equivalente a 100 días de salario mínimo vigente en el Estado.
+En caso de que el Director Registrador omitiere rendir el informe mencionado en el párrafo que antecede dentro del plazo establecido, se le impondrá la sanción que corresponda, conforme a la Ley General de Responsabilidades Administrativas.
 
 ###### Artículo 102.
 
@@ -1308,3 +1334,13 @@ P.O. 25 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 269.- SE MODIFICA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS Y OFENDIDOS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 494.- SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 5, LA FRACCIÓN II DEL ARTÍCULO 8, LA FRACCIÓN XXIII DEL ARTÍCULO 11, LAS FRACCIONES I Y III DEL ARTÍCULO 13, EL ARTÍCULO 14, EL PRIMER PÁRRAFO DEL ARTÍCULO 15, EL PRIMER PÁRRAFO DEL ARTÍCULO 16 Y EL ARTÍCULO 101; SE ADICIONA LA FRACCIÓN XXIV AL ARTÍCULO 11 Y LA FRACCIÓN IV DEL ARTÍCULO 13, DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+SEGUNDO. El Ejecutivo del Estado, en un plazo máximo de 120 días a partir de la entrada en vigor del presente decreto, deberá llevar a cabo las adecuaciones necesarias al Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
+
+TERCERO. Se derogan las disposiciones de las leyes y reglamentos que sean contrarias a las normas establecidas en el presente Decreto.
