@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-inversion-y-al-empleo-para-el-estado-de-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2019-06-07"
+last_updated: "2020-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,23 +21,19 @@ state: "NLE"
 ---
 # LEY DE FOMENTO A LA INVERSION Y AL EMPLEO PARA EL ESTADO DE NUEVO LEON
 
-LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
+LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
 
-Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 16 de junio de 2009.
+Ley publicada en la Sección Cuarta Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
-EUGENIO HERNANDEZ FLORES, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+JAIME HELIODORO RODRÍGUEZ CALDERÓN, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, A TODOS SUS HABITANTES HAGO SABER: Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
 
-Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
+DECRETO
 
-Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+NÚM…… 301
 
-LA SEXAGESIMA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL; Y EL ARTICULO 119 DE LA LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
-
-D E C R E T O No. LX-710
-
-MEDIANTE EL CUAL SE EXPIDE LA LEY DE COORDINACION DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE TAMAULIPAS.
+Artículo Único. Se expide la Ley de Fomento a la Inversión y al Empleo para el Estado de Nuevo León, en los términos siguientes:
 
 ###### ARTICULO UNICO.
 
@@ -47,1023 +43,487 @@ LEY DE COORDINACION DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE TAMAULIPAS.
 
 ## TITULO PRIMERO. DE LA SEGURIDAD PUBLICA
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-###### ARTICULO 1.
+###### Artículo 1.
 
-La presente ley es de orden público, e interés social y de observancia general en el territorio de Tamaulipas, y tiene por objeto regular la coordinación entre las autoridades del Estado, de sus municipios y, en lo conducente, de la Federación que actúan en la entidad, mediante la integración, la organización, y el funcionamiento del Sistema Estatal de Seguridad Pública, en el ámbito de la distribución de competencias establecidas en la Constitución Política de los Estados Unidos Mexicanos y la Ley General del Sistema Nacional de Seguridad Pública.
+Las disposiciones de la presente Ley son de orden público, interés social y observancia general en el territorio del Estado de Nuevo León y tienen por objeto promover la competitividad, atraer inversiones nacionales y extranjeras, así como fomentar la creación de empleos con remuneraciones adecuadas, en términos del desarrollo económico del Estado.
 
-###### ARTICULO 2.
+###### Artículo 2.
 
-La seguridad pública es la función a cargo del Estado y de los municipios, que tiene como fines salvaguardar la integridad y los derechos de las personas, así como preservar las libertades, el orden y la paz públicos.
+La aplicación de la presente Ley corresponde al Poder Ejecutivo del Estado, por conducto de la Secretaría de Economía y Trabajo, y de las demás dependencias y entidades de la Administración Pública Estatal y Municipal, de conformidad con su respectivo ámbito de atribuciones.
 
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+###### Artículo 3.
 
-Los fines de la seguridad pública se deberán alcanzar mediante la prevención integral, la investigación, la persecución, la evaluación y seguimiento de las medidas cautelares, la sanción de las infracciones y de los delitos, así como mediante la reinserción social del sentenciado y la reintegración social y familiar del adolescente.
+A falta de disposición expresa en esta Ley, se aplicarán supletoriamente la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, el Código Fiscal del Estado de Nuevo León, la Ley para la Mejora Regulatoria y la Simplificación Administrativa del Estado de Nuevo León, la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León y el Código de Procedimientos Civiles del Estado de Nuevo León.
 
-###### ARTICULO 3.
+###### Artículo 4.
 
-La función de seguridad pública se realizará por conducto de las instituciones policiales, y de procuración de justicia, de los tribunales administrativos y los judiciales, de las instancias responsables de la prisión preventiva, la ejecución de penas y de la justicia para adolescentes, y de todos aquellos entes públicos que cuenten con atribuciones para contribuir directa o indirectamente a consolidar los fines de la seguridad pública.
+Para los efectos de la presente Ley se entenderá por:
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. LXIV-95, PUBLICADO EN EL P.O. DE 14 DE ABRIL DE 2020, PÁGINAS 15 Y 16.]</small>
+I. Agrupamiento Empresarial Estratégico (CLUSTERS): Al grupo de empresas pertenecientes a un mismo sector de la actividad económica, en una zona geográfica definida, constituidas como asociaciones civiles y reconocidas por la Secretaría, mediante un convenio de colaboración entre dicho grupo y la Secretaría;
 
-###### ARTICULO 4.
+II. Cadenas Productivas: Sistemas productivos que integran conjuntos de empresas que añaden valor agregado a productos o servicios a través de las fases del proceso económico
 
-Para efectos de esta ley se entenderá por:
+III. Competitividad: Conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y la generación de empleo digno y bien remunerado;
 
-I. Consejo: El Consejo Estatal de Seguridad Pública;
+IV. Consejo: Consejo de Desarrollo Económico;
 
-II. Consejo Nacional: El Consejo Nacional de Seguridad Pública;
+V. Derrama Económica: La entrada y esparcimiento de inversión de uno o varios sectores económicos en el Estado de Nuevo León que beneficie y favorezca a las personas que lo componen, de conformidad con el artículo 30 de la presente Ley;
 
-> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+VI. Desarrollo Económico: Crecimiento que armoniza el desarrollo económico, social y ambiental en una economía incluyente, productiva y competitiva, que favorezca el empleo de calidad, la igualdad y equidad de oportunidades y la cohesión social, y que garantice el respeto al medio ambiente, y el uso racional de los recursos naturales, de forma que permita satisfacer las necesidades de las generaciones presentes, sin comprometer las posibilidades de las generaciones futuras para atender sus propias necesidades;
 
-III. Consejo de Participación Ciudadana: El órgano de consulta independiente y externa de rendición de cuentas y evaluación política de seguridad en el Estado;
+VII. Empresa: La persona física o moral legalmente constituida, cuyo objeto sea el de llevar a cabo actividades económicas para la producción o el intercambio de bienes o servicios para el mercado, con la cual se celebran los convenios en los términos de la presente Ley;
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+VIII. Fideicomiso: Fideicomiso Económico de Incentivos para la Inversión;
 
-IV. Fiscal General: El Fiscal General de Justicia del Estado;
+IX. Incentivo: Es el estímulo directo o indirecto que otorgan las autoridades competentes a un inversionista, con el objeto de facilitar la realización de una inversión directa a fin de fomentar la creación del empleo en el Estado de Nuevo León. Los incentivos pueden ser fiscales, económicos o no económicos, de conformidad con la presente Ley;
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+X. Incentivo económico: Estímulo que consiste en transferencias de recursos financieros y/o pecuniarios;
 
-V. Fiscalía General: La Fiscalía General de Justicia del Estado;
+XI. Incentivo fiscal: Estímulo que consiste en subsidios parciales o totales del pago de impuestos, derechos y demás contribuciones de carácter fiscal, de conformidad con lo dispuesto por el Código Fiscal del Estado de Nuevo León y esta Ley;
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+XII. Incentivo no económico: Estímulo que consiste en apoyo de material y/o capacitación a los empleados del inversionista, o gestiones ante autoridades diversas;
 
-VI. Haber: La cantidad base de dinero con que se retribuye a los Integrantes, los servicios prestados;
+XIII. Inversión directa: Recursos financieros de una empresa o empresas, invertidos con el fin de promover sus objetivos de negocio, considerando la adquisición de bienes o activos fijos, siendo enunciativo más no limitativo, tales como: plantas de fabricación, manufactura, almacenaje, distribución y/o maquinaria de procedencia nacional o extranjera, que se espera sea productiva a largo plazo, para la creación de una nueva empresa o bien, la expansión de una ya existente;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
+XIV. Inversionista: Cualquier persona física o moral, fideicomisos o entidades similares que puedan ser consideradas como unidades económicas y que realicen inversión directa en el Estado de Nuevo León;
 
-VII. Instituciones policiales: Las corporaciones que cumplen funciones de prevención, de investigación, de reacción, de inspección, de vigilancia, de custodia, tránsito y de vialidad; los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y en general, todas las dependencias encargadas de la seguridad pública a nivel federal, local o municipal, que realicen funciones similares;
+XV. Ley: La Ley de Fomento a la Inversión y Empleo para el Estado de Nuevo León;
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN IV], P.O. 14 DE ABRIL DE 2020)
+XVI. Proyecto de Inversión: La Inversión destinada para la instalación de una nueva Empresa nacional o extranjera, imprescindible para la consolidación de una cadena productiva, investigación e implementación de proyectos de innovación y desarrollo tecnológico que generen valor agregado a productos, procesos, materiales y/o servicios;
 
-VIII. Instituciones de Procuración de Justicia: El Ministerio Público, los servicios periciales y demás auxiliares de aquél;
+XVII. Región Centro: La integrada por los municipios de Apodaca, García, San Pedro Garza García, Gral. Escobedo, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza y Santa Catarina, Cadereyta Jiménez, Salinas Victoria y Santiago;
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN V], P.O. 14 DE ABRIL DE 2020)
+XVIII. Región Citrícola: La integrada por los municipios de Allende, Gral. Terán, Hualahuises, Linares, Montemorelos y Rayones;
 
-IX. Instituciones de seguridad pública: Las instituciones policiales y de procuración de justicia, así como los tribunales e instancias responsables de la reinserción social del sentenciado, al igual que la reintegración social y familiar del adolescente, estatales y municipales;
+XIX. Región Norte: La integrada por los municipios de Anáhuac, Agualeguas, Bustamante, Cerralvo, China, Dr. Coss, Dr. González, Gral. Bravo, Gral. Treviño, Los Herreras, Lampazos de Naranjo, Los Ramones, Los Aldama, Melchor Ocampo, Mina, Parás, Sabinas Hidalgo, Vallecillo y Villaldama;
 
-> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VI], P.O. 14 DE ABRIL DE 2020)</small>
+XX. Región Periférica: La integrada por los municipios de Abasolo, Carmen, Ciénega de Flores, Gral. Zuazua, Hidalgo, Higueras, Marín y Pesquería;
 
-X. Ley: La Ley de Coordinación del Sistema de Seguridad Pública para el Estado de Tamaulipas;
+XXI. Región Sur: La integrada por los municipios de Aramberri, Dr. Arroyo, Gral. Zaragoza, Galeana, Iturbide y Mier y Noriega;
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN VII], P.O. 14 DE ABRIL DE 2020)
+XXII. Secretaría: Secretaría de Economía y Trabajo;
 
-XI. Ley General: La Ley General del Sistema Nacional de Seguridad Pública;
+XXIII. Sectores Estratégicos: Aquellos que por su naturaleza y ubicación, el Consejo determine que son focos de inversión para el fomento de creación de empleo en el Estado de Nuevo León;
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN X], P.O. 14 DE ABRIL DE 2020)
+XXIV. UMA: La Unidad de Medida y Actualización para la referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos en la presente Ley.
 
-XII. Programa: El Programa del Sistema Estatal de Seguridad Pública;
+###### Artículo 5.
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN XI], P.O. 14 DE ABRIL DE 2020)
+La presente Ley tiene por objeto:
 
-XIII. Programa Integral: El Programa Integral de Prevención del Delito del Estado;
+I. Fomentar la promoción, atracción y facilitación de la inversión directa en el Estado, a través de incentivos claros y transparentes que otorguen seguridad institucional a los inversionistas, fortaleciendo la competitividad de las actuales empresas instaladas y facilitando el establecimiento de nuevas fuentes de trabajo que generen empleos estables en la entidad, mejor remunerados y de un alto valor agregado;
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN XII], P.O. 14 DE ABRIL DE 2020)
+II. Establecer las medidas que propicien la competitividad de las empresas en el Estado;
 
-XIV. Secretaría: La Secretaría de Seguridad Pública;
+III. Promover el desarrollo económico del Estado, a fin de impulsar su crecimiento equilibrado sobre bases de desarrollo sustentable y del desarrollo del capital humano;
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN XIII] P.O. 14 DE ABRIL DE 2020)
+IV. Fomentar la generación de nuevas fuentes de empleo y consolidar las existentes; sobre todo de aquellos sectores que propicien en mayor medida el desarrollo de capital humano, la innovación, investigación, el desarrollo y la transferencia del conocimiento y las tecnologías; así como los de mayor impacto en la modernización y competitividad logística en el Estado;
 
-XV. Secretario: El Secretario de Seguridad Pública;
+V. Incentivar la agrupación y colaboración de empresas, centros de investigación e innovación tecnológica, en los sectores estratégicos, con el objetivo de consolidar el desarrollo de la economía del conocimiento;
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN XIV], P.O. 14 DE ABRIL DE 2020)
+VI. Estimular el desarrollo de la cadena empresarial de proveedores en el Estado;
 
-XVI. Secretario Ejecutivo: El titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+VII. Fomentar un crecimiento industrial ordenado y descentralizado, a través del establecimiento y consolidación de parques y zonas industriales en los distintos municipios del Estado;
 
-> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XV], P.O. 14 DE ABRIL DE 2020)</small>
+VIII. Coadyuvar en el fortalecimiento de la infraestructura logística, comercial, industrial y de servicios existente en el Estado;
 
-XVII. Sistema: El Sistema Estatal de Seguridad Pública; y
+IX. Integrar un banco de datos que permita contar con información suficiente y oportuna como apoyo para las labores de planeación y promoción económica del Estado;
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN XVI], P.O. 14 DE ABRIL DE 2020)
+X. Promover, establecer y consolidar mecanismos financieros que permitan contar con mayores recursos para el fomento a la inversión y el empleo en el Estado; y
 
-XVIII. Sistema Nacional: El Sistema Nacional de Seguridad Pública.
+XI. Estimular el comercio exterior con especial énfasis en el desarrollo de programas estratégicos que impulsen el desarrollo y promoción de la oferta exportable, así como el fortalecimiento de cadenas productivas, el desarrollo de proveedores y la captación de divisas.
 
-###### ARTICULO 5.
+###### Artículo 6.
 
-El Sistema se integrará con las autoridades, conferencia, los instrumentos, políticas, estrategias, acciones y servicios previstos en la presente Ley, dirigidos a cumplir los fines de la seguridad pública.
+El Poder Ejecutivo del Estado podrá celebrar acuerdos y formalizar convenios de coordinación y/o colaboración con autoridades federales, estatales y municipales, así como con el sector privado y social, fideicomisos y/o organizaciones no gubernamentales para contribuir al logro del objetivo y fines de la presente Ley.
 
-###### ARTICULO 6.
+### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES DE LAS AUTORIDADES Y DEL CONSEJO DE DESARROLLO ECONÓMICO
 
-El Sistema tendrá como base la coordinación y los objetivos siguientes, que observarán las autoridades e instancias correspondientes:
+###### Artículo 7.
 
-I. Integrar el Sistema y los subsistemas de:
+Se crea el Consejo de Desarrollo Económico como un órgano interinstitucional de la Administración Pública Estatal con funciones de asesoría, consulta, opinión y decisión, en materia de fomento a la inversión y al empleo.
 
-a. Prevención integral;
+###### Artículo 8.
 
-b. Investigación y persecución de infracciones y delitos;
+El Consejo estará conformado de la siguiente manera:
 
-c. Administración de justicia;
+I. Por un Presidente, que será el Titular del Poder Ejecutivo del Estado;
 
-d. Reinserción social;
+II. Por un Secretario Técnico, que será el Secretario de Economía y Trabajo;
 
-e. Los demás que sean necesarios para cumplir los fines de la seguridad pública;
+III. Por el Secretario de Finanzas y Tesorero General del Estado;
 
-II. Establecer las bases de colaboración entre las autoridades del Estado y los municipios y, en su caso, con la Federación;
+IV. Por el Secretario de Desarrollo Sustentable;
 
-III. Promover la vigencia de las garantías individuales y sociales, y el respeto de los derechos humanos;
+V. Por el Subsecretario de Inversión y Fomento Industrial de la Secretaria de Economía Trabajo;
 
-IV. Definir políticas y programas, y propulsar su ejecución, seguimiento y evaluación;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
 
-V. Desarrollar lineamientos, mecanismos e instrumentos para fortalecer la operatividad de las instituciones de seguridad pública;
+VI. Por un vocal invitado que tendrá nivel de Subsecretario para temas relacionados con la Secretaría, en los términos del reglamento de la presente Ley;
 
-VI. Regular los procedimientos de ingreso, certificación, profesionalización y evaluación de los integrantes de las instituciones de seguridad pública estatales y las municipales;
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2020)</small>
 
-VII. Instituir bases de datos y metodología para el suministro, el intercambio y la explotación de todo tipo de información sobre el personal, así como aquella de naturaleza administrativa y criminológica relativa a la seguridad pública;
+VII. Por un representante del Congreso del Estado;
 
-VIII. Determinar criterios para la organización, administración, operación y modernización del equipamiento y la infraestructura física y tecnológica de las instituciones de seguridad pública;
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2020)</small>
 
-IX. Promover operativos tácticos y acciones conjuntas entre las instituciones policiales estatales, municipales y, en lo procedente, las federales;
+VIII. Por cuatro representantes de las cámaras empresariales de la entidad, las cuales tendrán una participación permanente en el Consejo;
 
-X. Propulsar medidas para optimizar e incrementar el aprovechamiento de los recursos financieros para la seguridad pública;
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2020)</small>
 
-XI. Construir procedimientos eficaces de vigilancia y rendición de cuentas, sustentados en indicadores de medición del desempeño;
+IX. Por tres representantes de las principales universidades del estado, las cuales tendrán una participación permanente en el Consejo; y
 
-XII. Fomentar la participación de la sociedad en la prevención y denuncia de infracciones y delitos, así como en la planeación, la ejecución, el seguimiento y la evaluación de programas y acciones;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
 
-XIII. Impulsar la prevención integral de conductas antisociales;
+X. Considerando la opinión del Consejo, el Presidente invitará a sus sesiones con voz pero sin voto a representantes de organizaciones no gubernamentales, asociaciones civiles y/o cualquier otra agrupación que se estime conveniente que puedan realizar aportaciones valiosas a las sesiones del Consejo. Las decisiones del Consejo se tomarán por mayoría simple de votos, en caso de empate, el Presidente del Consejo tendrá voto de calidad.
 
-XIV. Fomentar en el individuo, la familia y la sociedad valores cívicos, éticos y culturales, que promuevan la vigencia del Estado de Derecho e induzcan el respeto a la legalidad;
+###### Artículo 9.
 
-XV. Diseñar estrategias tácticas y operativas en las instituciones policiales bajo su mando, a partir del análisis de información delictiva;
+Por cada miembro titular del Consejo se deberá nombrar un suplente, mediante oficio dirigido al Consejo y será la única persona facultada para representarlo cuando el titular no acuda a las sesiones que se celebren. A los integrantes del Consejo sólo podrán sustituirlos servidores públicos con el nivel de Subsecretarios o equivalente.
 
-XVI. Proponer la incorporación de acciones en los programas de desarrollo social que se instrumenten en el Estado, susceptibles de fortalecer la prevención integral;
+###### Artículo 10.
 
-XVII. Analizar el marco jurídico en materia de seguridad pública y, en su caso, proponer su actualización;
+En caso de ausencia del Presidente, será suplido por el Secretario Técnico y en esos casos, el suplente de éste, asumirá sus funciones.
 
-XVIII. Los demás que acuerden las instancias respectivas tendientes a superar la cobertura y capacidad de respuesta institucional y realizar los fines de la seguridad pública.
+###### Artículo 11.
 
-### CAPITULO II. DE LAS AUTORIDADES DE SEGURIDAD PUBLICA
+El Consejo de Desarrollo Económico tendrá las siguientes atribuciones:
 
-###### ARTICULO 7.
+I. Aprobar, modificar o rechazar la propuesta del programa anual de incentivos a la inversión y el empleo, elaborada por la Secretaría, para que, en su caso, sea sometida a consideración del Titular del Poder Ejecutivo, para su aprobación. En dicho programa se contemplarán las políticas públicas necesarias para elevar la competitividad en el Estado, sobre todo en aquellos sectores que el Consejo considere estratégicos;
 
-En la definición de políticas, programas, estrategias, objetivos y acciones, las autoridades e instancias de coordinación ceñirán sus acciones con base en las disposiciones de los siguientes ordenamientos legales y administrativos:
+II. Promover la participación de los sectores en la propuesta y diseño de políticas públicas en materia de desarrollo económico, y en específico la participación del sector privado en el desarrollo de infraestructura que fortalezca la economía y competitividad en el Estado;
 
-I. Constitución Política de los Estados Unidos Mexicanos;
+III. Apoyar la instalación y expansión de nuevas empresas y para fortalecer las existentes en el Estado;
 
-II. Constitución Política del Estado de Tamaulipas;
+IV. Dar seguimiento al cumplimiento de compromisos y proyectos de inversión autorizados a las empresas que reciban incentivos y apoyos de conformidad con esta Ley;
 
-III. Ley General del Sistema Nacional de Seguridad Pública;
+V. Aprobar las solicitudes de incentivos y apoyos otorgados, propuestos por la Secretaría, previo análisis que de las solicitudes se realicen;
 
-IV. Código Municipal para el Estado de Tamaulipas;
+VI. Celebrar convenios con los inversionistas para salvaguardar la confidencialidad de la información de los proyectos de inversión que serán vigentes hasta la formalización de el o los convenios a que se refiere el artículo 23 de esta Ley;
 
-V. Convenios suscritos entre la Federación, los estados y municipios;
+VII. Aprobar la modificación, suspensión o cancelación de incentivos y apoyos otorgados, cuando el caso lo justifique;
 
-VI. Acuerdos del Consejo Nacional;
+VIII. Realizar recomendaciones a los municipios del Estado, respecto al otorgamiento de incentivos, estas de ninguna manera serán con carácter de vinculativos;
 
-VII. Acuerdos del Consejo y de los consejos municipales y regionales de seguridad pública;
+IX. Proponer a la Comisión Estatal de Mejora Regulatoria acciones encaminadas a agilizar procedimientos administrativos y de gestión gubernamental para las empresas, conforme a lo dispuesto en la Ley para la Mejora Regulatoria y la Simplificación Administrativa en el Estado de Nuevo León;
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+X. Contribuir y opinar en el desarrollo y aplicación de los programas y estrategias que el gobierno federal instrumente en el Estado para promover su crecimiento económico y promover la coordinación entre los tres órdenes de gobierno;
 
-VIII. Ley de Seguridad Pública para el Estado de Tamaulipas;
+XI. Aprobar el reglamento interior del Consejo;
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+XII. Emitir opinión del proyecto de reglamento de la Ley, presentado por la Secretaría, a fin de someterlo a consideración y en su caso, aprobación, del Titular del Poder Ejecutivo;
 
-IX. Ley Orgánica de la Fiscalía General de Justicia del Estado de Tamaulipas;
+XIII. Aplicar el presupuesto que se asigne anualmente al Fideicomiso;
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+XIV. Participar con propuestas y emitir opinión en la elaboración de iniciativas de leyes y reglamentos que sean relacionadas a esta Ley; y
 
-X. Ley Orgánica de la Administración Pública del Estado de Tamaulipas;
+XV. Las demás que se deriven de esta Ley o sean expresas en el reglamento de la Ley, en cumplimiento de cualquier artículo de la misma.
 
-XI. Ley Federal de Armas de Fuego y Explosivos;
+###### Artículo 12.
 
-XII. Ley para regular los Servicios Privados de Seguridad en el Estado de Tamaulipas;
+El Consejo se reunirá cada tres meses de manera ordinaria y extraordinariamente las veces que resulte necesario, previa convocatoria del Presidente o Secretario Técnico, por instrucciones de aquél, que deberá circularse con al menos quince días naturales de anticipación, en el caso de las ordinarias y cuando menos 48 horas antes en el caso de las extraordinarias.
 
-XIII. Ley del Registro Público Vehicular;
+###### Artículo 13.
 
-XIV. Ley de Seguridad Escolar para el Estado de Tamaulipas;
+Las convocatorias deberán de hacerse mediante aviso por escrito dirigido a cada uno de los miembros del Consejo o en su defecto mediante su publicación en el Periódico Oficial del Estado de Nuevo León y deberán ser firmadas por el Presidente del Consejo o el Secretario Técnico, por instrucciones de aquél.
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+###### Artículo 14.
 
-XV. Ley de Tránsito;
+Para que el Consejo pueda sesionar se requiere que estén la mayoría de sus integrantes o sus respectivos suplentes.
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+Salvo disposición expresa que implique una mayoría distinta, los acuerdos del Consejo deberán tomarse por mayoría simple de votos de los presentes, en caso de empate el Presidente o su suplente tendrá voto de calidad.
 
-XVI. Ley de Atención a Víctimas para el Estado de Tamaulipas;
+###### Artículo 15.
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+El Consejo, a propuesta del Presidente, deberá invitar a sus sesiones, con voz pero sin voto, con el objeto de proponer recomendaciones o propuestas encaminadas al beneficio de los objetivos de esta Ley a:
 
-XVII. Ley de Protección Civil para el Estado de Tamaulipas;
+I. Ciudadanos que residan en el Estado, que por su trayectoria profesional y/o académica puedan apoyar y asesorar al logro de los fines de la Ley; y
 
-XVIII. Ley de Mediación para el Estado de Tamaulipas;
+II. Autoridades municipales, estatales y federales que puedan tener cualquier interés, se vean afectados y/o beneficiados y/o involucrados por el otorgamiento de incentivos marcados por esta Ley.
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+###### Artículo 16.
 
-XIX. Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes;
+En las sesiones deberán tratarse cuando menos los temas siguientes:
 
-XX. Ley Orgánica del Poder Judicial del Estado;
+I. Empleos generados en la entidad, en virtud de los incentivos otorgados;
 
-XXI. Bandos de Policía y Buen Gobierno;
+II. Seguimiento y evaluación de los programas de atracción a la Inversión;
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+III. El balance del Fideicomiso y su aplicación;
 
-XXII. Ley de la Defensoría Pública para el Estado de Tamaulipas;
+IV. Seguimiento y evaluación a los incentivos fiscales, económicos y/o no económicos otorgados y su efectividad empleada; y
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+V. Propuestas para atracción de nueva inversión, así como aquéllas que pretendan fortalecer a la inversión ya establecida en el Estado.
 
-XXIII. Ley Nacional de Ejecución Penal;
+###### Artículo 17.
 
-XXIV. Ley de Coordinación Fiscal del Estado de Tamaulipas;
+A las sesiones podrá invitarse a los solicitantes de estímulos para el efecto de ampliar la información, que en su caso, requiera el Consejo para la toma de decisiones
 
-XXV. Presupuesto de Egresos de la Federación;
+###### Artículo 18.
 
-XXVI. Presupuesto de Egresos del Estado;
+El Secretario Técnico realizará las gestiones necesarias para que se publiquen las actas de las sesiones del Consejo en el sitio oficial de internet del Poder Ejecutivo del Estado, en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado.
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+###### Artículo 19.
 
-XXVII. Ley de Transporte del Estado de Tamaulipas;
+Además de las establecidas en la Ley Orgánica de la Administración Pública Para el Estado de Nuevo León y demás disposiciones aplicables, la Secretaría tendrá las siguientes atribuciones:
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+I. Recibir, analizar y someter a la aprobación del Consejo, las solicitudes para el otorgamiento de incentivos que presenten los inversionistas, en un periodo no mayor de cuarenta y cinco días hábiles;
 
-XXVIII. Código Nacional de Procedimientos Penales;
+II. Proponer el tipo, monto, plazos, términos y condiciones del otorgamiento de incentivos, dependiendo de la inversión que se realizará en el Estado, para someterlo a la aprobación del Consejo;
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+III. Convocar a las sesiones del Consejo por instrucciones del Presidente del Consejo;
 
-XXIX. Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+IV. Realizar visitas de verificación sobre la correcta aplicación de los incentivos y ponerlo en conocimiento del Consejo;
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+V. Analizar el cumplimiento de los inversionistas en las obligaciones que hayan contraído bajo el marco jurídico de la presente Ley;
 
-XXX. Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+VI. Realizar observaciones y sugerencias al destino de los recursos del Fideicomiso;
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+VII. Proponer al Consejo un programa anual de incentivos a la inversión y al empleo, en donde se contemplen las políticas públicas necesarias para elevar la competitividad del Estado, sobre todo en aquellos sectores que el Consejo considere como estratégicos;
 
-XXXI. Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
+VIII. Promover la participación de los sectores en la propuesta y diseño de políticas públicas en materia de desarrollo económico, y en específico la participación del sector privado en el desarrollo de infraestructura que fortalezca la economía y competitividad del Estado;
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+IX. Elaborar los informes necesarios, a fin de atender lo dispuesto en el artículo 16 de la presente Ley;
 
-XXXII. Ley para Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Tamaulipas;
+X. Opinar sobre el desarrollo y aplicación de los programas y estrategias que el Gobierno Federal instrumente en el Estado para promover su crecimiento económico y promover la coordinación entre los tres órdenes de gobierno;
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+XI. Someter a opinión del Consejo el proyecto de reglamento de la presente Ley;
 
-XXXIII. Ley Nacional del Registro de Detenciones;
+XII. Participar con propuestas y emitir opinión en la elaboración de leyes y reglamentos que sean relacionadas a esta Ley; y
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+XIII. Las demás que establezca la presente Ley y otros ordenamientos legales aplicables.
 
-XXXIV. Ley Nacional sobre el Uso de la Fuerza; y
+###### Artículo 20.
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN XXVII], P.O. 14 DE ABRIL DE 2020)
+El Consejo Consultivo Ciudadano de la Secretaría que se establezca en los términos de la Ley de Participación Ciudadana para el Estado de Nuevo León y su reglamento, podrá fungir como órgano consultor para los efectos de esta Ley.
 
-XXXV. Las demás que determinen otros ordenamientos aplicables.
+### CAPÍTULO TERCERO. DE LOS INCENTIVOS
 
-###### ARTICULO 8.
+###### Artículo 21.
 
-La aplicación de la presente ley corresponde a las autoridades estatales y municipales, en el ámbito de sus respectivas atribuciones constitucionales y legales.
+Adicionalmente a lo dispuesto por los tratados internacionales, ley de inversión extranjera, leyes fiscales estatales y municipales, así como en el Plan Estatal de Desarrollo, el Consejo en los términos de la presente Ley, podrá aprobar el otorgamiento de incentivos a la inversión nacional y extranjera, para la creación de nuevas empresas y fomentar el empleo para fortalecer e incrementar la capacidad de operación de las empresas ya existentes en el Estado, con el fin de seguir creando nuevas fuentes de empleo.
 
-###### ARTICULO 9.
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2019)</small>
 
-Las autoridades en materia de seguridad pública serán las siguientes:
+###### Artículo 21 Bis.
 
-I. El Gobernador del Estado;
+Para el otorgamiento de los incentivos contemplados en el Artículo 27, fracción I, inciso a) de la presente Ley, el Consejo deberá dar preferencia a aquellas empresas de nueva creación denominadas "empresa emergente" o "Startups", y aquellas empresas que contraten trabajadores de primer empleo.
 
-II. (DEROGADA, P.O. 27 DE MARZO DE 2012)
+###### Artículo 22.
 
-III. (DEROGADA, P.O. 27 DE MARZO DE 2012)
+Corresponderá al Consejo resolver sobre el tipo, monto, plazos, términos y condiciones del otorgamiento de incentivos, previo análisis de la Secretaría.
 
-IV. Los Presidentes Municipales;
-
-V. El Secretario General de Gobierno;
-
-VI. El Secretario, y los titulares de las instituciones policiales bajo su mando;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
-
-VII. El Fiscal General, Vicefiscales Generales, Fiscales Especializados, Fiscales Especiales, los agentes del Ministerio Público y el Titular de la Policía Ministerial;
-
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
-
-VIII.- El Subsecretario de Reinserción Social y los directores de los centros de prisión preventiva y los de ejecución de sanciones;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
-
-IX. El Director de Ejecución de Medidas para Adolescentes y los titulares de los Centros Regionales de Ejecución de Medidas para Adolescentes;
-
-X. (DEROGADA, P.O. 27 DE MARZO DE 2012)
-
-XI. (DEROGADA, P.O. 27 DE MARZO DE 2012)
-
-XII. Los síndicos en funciones de Ministerio Público;
-
-XIII. Los titulares de las policías preventivas y de tránsito de los municipios;
-
-XIV. Los jueces calificadores o similares que las disposiciones jurídicas establezcan como instancias de justicia administrativa municipal;
-
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
-
-XV. El Subsecretario de Operación de la Guardia Estatal;
-
-XVI. El Secretario Ejecutivo; y
-
-XVII. Los demás que señalen otras disposiciones legales.
-
-###### ARTICULO 10.
-
-Las autoridades de seguridad pública regirán su actuación con fundamento en las atribuciones que les confieran la Constitución Política del Estado, la legislación secundaria correspondiente y, para efectos del funcionamiento del Sistema, las disposiciones establecidas en la presente ley.
-
-Las autoridades de seguridad pública proveerán en todo tiempo el cumplimiento de los fines de la seguridad pública, la coordinación y funcionalidad del Sistema, así como la instrumentación de los acuerdos y resoluciones de las instancias respectivas.
-
-Así mismo, serán responsables en los términos de lo dispuesto por el Título Décimo de este ordenamiento, en el caso de incumplimiento de las obligaciones que les competan en su calidad de integrantes del Sistema.
-
-###### ARTICULO 11.
-
-Las instituciones policiales serán las siguientes:
-
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
-
-I. La Guardia Estatal que cumpla funciones de prevención o reacción;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
-
-II. La Policía de Investigación;
-
-III. Las policías preventivas y las de tránsito municipales;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
-
-IV. Los cuerpos de vigilancia, custodia y seguridad de los Centros de Ejecución de Sanciones y los Guías Técnicos de los Centros Regionales de Ejecución de Medidas para Adolescentes;
-
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
-
-V. La Policía Procesal;
-
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2024)</small>
-
-VI. La Guardia de Tránsito Estatal; y
-
-VII. Las demás que se constituyan con apego a la Ley.
-
-###### ARTICULO 12.
-
-Las empresas que presten servicios privados de seguridad en el Estado, se ajustarán a las previsiones del artículo 45 de la ley que regula dichos servicios.
-
-Los prestadores de servicios privados de seguridad tienen la obligación de coadyuvar con las autoridades e instituciones competentes en situaciones de urgencia, desastre o cuando sean requeridos por alguna dependencia estatal o municipal, prestando inmediatamente la ayuda que se les solicite, la que se dará de manera gratuita.
-
-###### ARTICULO 13.
-
-El Gobernador es el Jefe Supremo de las instituciones policiales estatales y del municipio en que resida habitual o transitoriamente. Asumirá temporalmente la dirección y el mando de las municipales, en todo o parte del territorio de la entidad, en los casos que juzgue de fuerza mayor o de alteración grave del orden público.
-
-###### ARTICULO 14.
-
-El Gobernador ejercerá el mando de las instituciones policiales estatales en forma directa y, en los términos de Ley, a través del Secretario.
-
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
-
-La Policía de Investigación estará bajo la autoridad y el mando inmediato del Ministerio Público, sin demérito de lo previsto en el artículo anterior.
-
-###### ARTICULO 15.
-
-Los integrantes de las instituciones de seguridad pública serán los individuos que, mediante nombramiento expedido por autoridad competente, desempeñen funciones relativas a las instituciones policiales, de ministerio público y servicios periciales y de administración de justicia, para alcanzar los fines de esta Ley.
-
-Las previsiones que el presente ordenamiento establece para los integrantes no serán aplicables a los servidores públicos responsables de la administración de justicia. En todo caso, se estará a lo dispuesto por los acuerdos del Consejo y de la Conferencia Estatal de Procuración y Administración de Justicia, así como a los convenios específicos celebrados en el marco del Sistema.
-
-###### ARTICULO 16.
-
-Las personas que desempeñen funciones estrictamente administrativas no tendrán el carácter de integrantes, aún cuando orgánicamente presten sus servicios en las instituciones de seguridad pública. A dichos servidores se les considerará como personal de confianza, su designación y remoción será libre, y no estarán sujetos al servicio civil de carrera. No obstante, en los casos que determinen las autoridades competentes, se sujetarán a las evaluaciones de control de confianza y certificación.
-
-###### ARTICULO 17.
-
-Los derechos de los integrantes de las instituciones seguridad pública serán:
-
-I. Recibir un trato digno y decoroso por parte de sus superiores jerárquicos, iguales y subordinados;
-
-II. Contar permanentemente con oportunidades de formación y desarrollo para hacer un servicio civil de carrera, y reunir los atributos necesarios para cumplir en su actuación los principios constitucionales de legalidad, objetividad, eficacia, profesionalismo, honradez y respeto a los derechos humanos;
-
-III. (DEROGADA, P.O. 9 DE NOVIEMBRE DE 2021)
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
-
-IV. Percibir una remuneración digna acorde con las características del servicio que desempeñen, así como gozar de un régimen de seguridad social especial que tome en cuenta la naturaleza y los riesgos propios de sus funciones;
-
-V. Disponer, sin costo alguno, del equipamiento necesario para el cumplimiento de la función; y
-
-VI. Ser sujetos de condecoraciones, estímulos, recompensas y reconocimientos cuando su conducta y desempeño sea meritorio.
-
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
-
-Los integrantes de las instituciones de seguridad pública recibirán capacitación permanente a fin de que cuenten con los atributos necesarios para cumplir con los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y por los Tratados Internacionales de los que nuestro país sea parte.
-
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2020)</small>
-
-ARTICULO 17 BIS. En los casos que se prevean en los presupuestos autorizados, se podrá otorgar a los Integrantes percepciones extraordinarias por riesgo, por estímulos al desempeño destacado o reconocimientos, así como por incentivos similares conforme a las disposiciones que emita el Poder Ejecutivo estatal.
-
-###### ARTICULO 18.
-
-Son obligaciones de los integrantes de las instituciones de seguridad pública:
-
-I. Conducirse con dedicación y disciplina, así como con apego al orden jurídico y respeto a las garantías individuales y derechos humanos reconocidos en la Constitución;
-
-II. Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones aplicables;
-
-III. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas u ofendidos de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;
-
-IV. Cumplir sus funciones con absoluta imparcialidad y sin discriminación alguna;
-
-V. Abstenerse de infligir o tolerar actos de tortura, aún cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad pública, urgencia de las investigaciones o cualquier otra; al conocimiento de ello, lo denunciará inmediatamente ante la autoridad competente;
-
-VI. Observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;
-
-VII. Desempeñar su misión sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente. En particular se opondrán a cualquier acto de corrupción y, en caso de tener conocimiento de alguno, deberán denunciarlo;
-
-VIII. Abstenerse de ordenar o realizar la detención de persona alguna sin ajustarse a las previsiones constitucionales y legales aplicables;
-
-IX. Velar por la vida e integridad física de las personas detenidas;
-
-X. Actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de evidencias;
-
-XI. Utilizar los protocolos de investigación y de cadena de custodia adoptados por las instituciones de seguridad pública;
-
-XII. Participar en operativos y mecanismos de coordinación con otras instituciones de seguridad pública, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
-
-XIII. Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
-
-XIV. Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros;
-
-XV. Someterse a evaluaciones periódicas para acreditar el cumplimiento de sus requisitos de permanencia, así como obtener y mantener vigente la certificación respectiva;
-
-XVI. Informar al superior jerárquico, de manera inmediata, las omisiones, actos indebidos o constitutivos de delito, de sus subordinados o iguales en categoría jerárquica;
-
-XVII. Cumplir y hacer cumplir con diligencia las órdenes que reciba con motivo del desempeño de sus funciones, evitando todo acto u omisión que produzca deficiencia en su cumplimiento;
-
-XVIII. Fomentar la disciplina, responsabilidad, decisión, integridad, espíritu de cuerpo y profesionalismo, en sí mismo y en el personal bajo su mando;
-
-XIX. Inscribir las detenciones en el Registro Administrativo de Detenciones conforme a las disposiciones aplicables;
-
-XX. Abstenerse de sustraer, ocultar, alterar o dañar información o bienes en perjuicio de las instituciones;
-
-XXI. Abstenerse, conforme a las disposiciones aplicables, de dar a conocer por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada o confidencial de la que tenga conocimiento en ejercicio y con motivo de su empleo, cargo o comisión;
-
-XXII. Atender con diligencia la solicitud de informe, queja o auxilio de la ciudadanía, o de sus propios subordinados, excepto cuando la petición rebase su competencia, en cuyo caso deberá turnarlo al área que corresponda;
-
-XXIII. Abstenerse de introducir a las instalaciones de sus instituciones, bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente;
-
-XXIV. Abstenerse de consumir, dentro o fuera del servicio, bebidas alcohólicas, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalado por los servicios médicos de las instituciones;
-
-XXV. Abstenerse de realizar conductas que desacrediten su persona o la imagen de las instituciones, dentro o fuera del servicio;
-
-XXVI. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio;
-
-XXVII. Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realice;
-
-XXVIII. Remitir a la instancia que corresponda la información recopilada, en el cumplimiento de sus misiones o en el desempeño de sus actividades, para su análisis y registro. Asimismo, entregar la información que le sea solicitada por otras instituciones de seguridad pública, en los términos de las leyes correspondientes;
-
-XXIX. Apoyar a las autoridades que así se lo soliciten en la investigación y persecución de delitos, así como en situaciones de grave riesgo, catástrofe o desastre;
-
-XXX. Ejecutar los mandamientos judiciales y ministeriales;
-
-XXXI. Obtener y mantener actualizado su Certificado Unico Policial;
-
-XXXII. Obedecer las órdenes de los superiores jerárquicos o de quienes ejerzan sobre él funciones de mando y cumplir con todas sus obligaciones, realizándolas conforme a derecho;
-
-XXXIII. Responder, sobre la ejecución de las órdenes directas que reciba, a un sólo superior jerárquico, por regla general, respetando preponderantemente la línea de mando;
-
-XXXIV. Participar en operativos de coordinación con otras corporaciones policiales, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
-
-XXXV. Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso racional de ellos sólo en el desempeño del servicio;
-
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2021)</small>
-
-XXXVI. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en caso de flagrancia;
-
-> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2021)</small>
-
-XXXVII. Participar en concursos de promoción y procesos de evaluación curricular para ascender a la jerarquía inmediata superior; y
-
-XXXVIII. Las demás que establezcan las disposiciones legales aplicables.
-
-###### ARTICULO 19.
-
-Las facultades y obligaciones del Gobernador son las siguientes:
-
-I. Salvaguardar la integridad y los derechos de las personas;
-
-II. Mantener el orden público y preservar las libertades, la paz y la estabilidad del Estado;
-
-III. Promover la funcionalidad del Sistema como una política de Estado;
-
-IV. Presidir y convocar al Consejo por conducto del Secretario Ejecutivo;
-
-V. Proveer el cumplimiento en la entidad de los acuerdos y resoluciones del Consejo Nacional;
-
-VI. Instruir la vinculación y coordinación entre las dependencias estatales para la elaboración de los subprogramas de prevención integral, de procuración de justicia, y de reinserción social y tratamiento de adolescentes, y podrá proponer, al Poder Judicial la integración del relativo a la administración de justicia;
-
-VII. Nombrar a los titulares de las instituciones estatales;
-
-VIII. Celebrar convenios con los poderes del Estado, la Federación, otros estados y municipios, así como instituciones públicas, privadas o sociales, para el cumplimiento de los fines de la seguridad pública;
-
-IX. Promover la participación de la sociedad en el diseño, la ejecución, el seguimiento y la evaluación de los programas, estrategias y acciones procedentes en los diversos ámbitos de la seguridad pública;
-
-X. Expedir los reglamentos y acuerdos que sean necesarios, y
-
-XI. Las demás que le confieran otras disposiciones legales.
-
-###### ARTICULO 20.
-
-Las facultades y obligaciones de los presidentes municipales son las siguientes:
-
-I. Mantener el orden y la tranquilidad públicos en su municipio, prevenir la comisión de infracciones y delitos, y proteger la integridad, los bienes y derechos de la población;
-
-II. Presidir el Consejo Municipal de Seguridad Pública y, en su caso, el Regional que corresponda;
-
-III. Proveer la operación del Sistema en el municipio y cumplir los acuerdos del Consejo que impliquen acciones en su jurisdicción, particularmente las de prevención integral de conductas antisociales;
-
-IV. Instrumentar en las instituciones policiales bajo su mando, el modelo de desarrollo y gestión policial que apruebe el Consejo;
-
-V. Dictar las medidas que le competan para la observancia y el cumplimiento de las disposiciones legales en materia de seguridad pública y del Bando de Policía y Buen Gobierno;
-
-VI. Establecer políticas, estrategias y acciones para la ejecución del programa estatal o regional de seguridad pública;
-
-VII. Proponer al Consejo Municipal el respectivo Programa Municipal de Seguridad Pública, que estará alineado con los instrumentos señalados en la fracción anterior;
-
-VIII. Presentar el Programa Municipal de Seguridad Pública al Consejo Estatal, en un plazo no mayor a ciento veinte días contados a partir del inicio de su gestión;
-
-IX. Presentar al Consejo cada seis meses un informe de los avances del Programa Municipal;
-
-X. Promover la incorporación de la sociedad y sus organizaciones en los procesos de planeación, ejecución, seguimiento y evaluación de programas y acciones específicos;
-
-XI. Celebrar convenios con los poderes del Estado y municipios, así como instituciones públicas, sociales o privadas, para el cumplimiento de los fines de la seguridad pública;
-
-XII. Otorgar todo tipo de facilidades administrativas al Secretario Ejecutivo a efecto de que vigile y supervise la ejecución de los acuerdos del Consejo;
-
-XIII. Proponer un sistema de seguimiento y evaluación, con indicadores de medición, a efecto de analizar el avance en el cumplimiento de estrategias y acciones de carácter municipal;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE ABRIL DE 2020)</small>
-
-XIV. Instrumentar el modelo de desarrollo policial conforme a los lineamientos establecidos por el Consejo; y
-
-XV. Las demás que les confieran otras disposiciones legales.
-
-Los Presidentes Municipales que habrán de participar en la Conferencia Nacional de Seguridad Pública Municipal, por conducto del Secretario, propondrán al Consejo la adopción de los programas, estrategias y acciones que acuerde aquél cuerpo colegiado.
-
-### CAPITULO III. DE LAS INSTITUCIONES POLICIALES
-
-###### ARTICULO 21.
-
-Las facultades y obligaciones del Secretario son las siguientes:
-
-I. Promover, impulsar y apoyar, con respeto a los principios de distribución de competencias y de coordinación, la funcionalidad del Sistema, de los subsistemas que se desprendan del mismo y la participación organizada de la sociedad;
-
-II. Representar al Gobernador ante el Secretariado Ejecutivo del Sistema Nacional;
-
-III. Coordinar los procedimientos de consulta e integración del Programa;
-
-IV. Presidir la Conferencia Estatal de instituciones policiales;
-
-V. Diseñar el subprograma relativo a las materias de prevención integral y de reinserción social, y reintegración social y familiar del adolescente;
-
-VI. Dar seguimiento a la ejecución del Subprograma e informar el avance y resultados al Consejo;
-
-VII. Coadyuvar con las instituciones correspondientes para instrumentar en la entidad, los acuerdos del Consejo Nacional, de las conferencias nacionales de Secretarios de Seguridad Pública, de Procuración de Justicia, del Sistema Penitenciario, de Seguridad Pública Municipal;
-
-VIII. Ampliar, en su caso, el Programa Rector de Profesionalización aprobado por la Conferencia Nacional de Secretarios de Seguridad Pública en razón de las necesidades de las instituciones policiales estatales y municipales, y someterlo a la aprobación de Consejo;
-
-IX. Proponer al Consejo el modelo de desarrollo y gestión policial y vigilar su instrumentación;
-
-X. Promover la incorporación de la sociedad y sus organizaciones en los procesos de planeación, ejecución, seguimiento y evaluación de programas, estrategias y acciones específicas;
-
-XI. Disponer la integración, la actualización y el uso adecuado de los registros de información sobre seguridad pública;
-
-XII. Promover la realización y contratación de asesorías, estudios multidisciplinarios, análisis y encuestas para investigar las causas, características y los costos sociales de la incidencia delictiva, así como para formular acciones pertinentes para combatir la delincuencia;
-
-XIII. Intercambiar experiencias con otras instituciones de seguridad pública nacionales e internacionales;
-
-XIV. Efectuar, con la colaboración de las instancias procedentes, estudios acerca de infracciones y hechos delictivos denunciados y no denunciados, a fin de considerar estas variables en la definición de políticas en la materia;
-
-XV. Tramitar ante las autoridades federales competentes la obtención y renovación de la licencia oficial colectiva para la portación de armas de fuego de cada institución policial;
-
-XVI. Proponer y diseñar políticas, estrategias, acciones y operativos, a fin de cumplir con la prevención integral de conductas antisociales y combatir las causas que las generan;
-
-XVII. Sugerir la adopción de políticas transversales de prevención integral;
-
-XVIII. Impulsar los programas de profesionalización y de evaluación y control de confianza;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
-
-XIX. Administrar el sistema penitenciario del Estado, evaluar y supervisar el cumplimiento de las medidas cautelares y la suspensión condicional del proceso, impuestas por las autoridades judiciales competentes, por conducto de la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso; y realizar los actos inherentes a la ejecución de sanciones;
-
-XX. Desarrollar, en la entidad, los acuerdos de la Conferencia Nacional del Sistema Penitenciario;
-
-XXI. Promover una eficaz participación de la sociedad en la planeación, ejecución, seguimiento y evaluación de las políticas de seguridad pública; y
-
-XXII. Proponer al Consejo a los Presidentes Municipales que deban participar en la Conferencia Nacional de Seguridad Pública Municipal;
-
-XXIII. Procurar que en las instituciones policiales se aplique de manera homogénea y permanente, el protocolo de certificación aprobado por el Centro Nacional de Certificación y Acreditación; y
-
-XXIV. Las demás que le confieran otras disposiciones legales.
-
-Con el propósito de instrumentar en la entidad los programas, políticas, protocolos, criterios, lineamientos y demás acciones procedentes que acuerde el Consejo Nacional, el Secretario y sus unidades administrativas se coordinarán técnicamente con los centros nacionales de Acreditación y Certificación, de Información, y de Prevención del Delito y Participación Ciudadana previstos en la Ley General.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2020)</small>
-
-###### ARTICULO 22.
-
-Las atribuciones del Fiscal General son las siguientes:
-
-I. Desarrollar, en lo procedente, los acuerdos de la Conferencia Nacional de Procuración de Justicia;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
-
-II. Participar en la Conferencia Estatal de instituciones policiales, para definir y vincular el modelo de desarrollo y gestión de la Policía de Investigación con el de las demás instituciones policiales;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
-
-III. Instrumentar el Servicio de Carrera Ministerial, Policial, Pericial y de Justicia Alternativa Penal, en los términos de su propia Ley Orgánica;
-
-IV. Ampliar, en su caso, el Programa Rector de Profesionalización aprobado por la Conferencia Nacional de Procuración de Justicia, y someterlo a la consideración del Consejo;
-
-V. Supervisar la actualización permanente y el uso adecuado de las bases de datos del subsistema de información, en particular las relativas a los registros de personal, detenciones, indiciados, procesados, sentenciados, huellas dactilares, vehículos robados y recuperados, órdenes de aprehensión, armamento y equipo, y demás que se instituyan por el Sistema Nacional;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
-
-VI. Participar en el diseño del Programa Estatal de Política Criminal y en el Plan de Persecución Penal, en los términos de la legislación aplicable;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
-
-VII. Dar seguimiento a la ejecución del Programa Estatal de Política Criminal y Plan de Persecución Penal e informar al Consejo del avance y resultados de los mismos;
-
-VIII. Promover la incorporación de la sociedad y sus organizaciones en los procesos de planeación, ejecución, seguimiento y evaluación de programas y acciones específicos de procuración de justicia;
-
-IX. Fomentar la cultura del respeto a los derechos humanos tanto de la víctima o del ofendido, como de la persona imputada;
-
-X. Promover la denuncia ciudadana y anónima de los delitos;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
-
-XI. Vigilar el óptimo desempeño de las funciones ministeriales y promover la cultura de la legalidad y de rechazo a toda forma de corrupción entre los integrantes de la Fiscalía General;
-
-XII. Proponer al Consejo la realización de estudios técnicos como encuestas sociales y de victimización, para conocer la cifra real del delito y las características de la incidencia criminal;
-
-XIII. Proponer un sistema de seguimiento y evaluación, con indicadores de medición de la actuación de las instituciones, a efecto de analizar periódicamente el avance en el cumplimiento de estrategias y acciones de procuración de justicia;
-
-XIV. Elaborar propuestas de reformas jurídicas en materia penal;
-
-XV. Las demás que le confieran otras disposiciones legales.
+El Consejo podrá crear nuevos incentivos no económicos en favor de la inversión, con la aprobación unánime de los miembros del Consejo.
 
 ## TITULO SEGUNDO. DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
-###### ARTICULO 23.
+###### Artículo 23.
 
-El Sistema se integrará por las siguientes instancias:
+Los inversionistas que decidan invertir en el Estado, deberán celebrar convenios con las empresas correspondientes en donde se especifiquen los términos y condiciones de los incentivos otorgados en los términos de esta Ley y su reglamento.
 
-I. El Consejo Estatal, de Seguridad pública;
+###### Artículo 24.
 
-II. El Secretariado Ejecutivo del Sistema;
+Por cada solicitud de incentivos que reciba, la Secretaría asignará un folio consecutivo, a fin de llevar un control de los mismos. El reglamento de la Ley establecerá los requisitos que deberán contener la solicitud y la operación del registro de las mismas.
 
-III. Los consejos municipales de seguridad pública;
+###### Artículo 25.
 
-IV. Los consejos regionales de seguridad pública;
+A las dependencias y entidades de la Administración Pública Estatal competentes, les corresponderá la aplicación y ejecución de los incentivos conforme a su naturaleza, cuyo otorgamiento haya sido aprobado por el Consejo.
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+###### Artículo 26.
 
-V. La Conferencia Estatal de las instituciones policiales;
+Sin perjuicio de lo dispuesto en las leyes fiscales aplicables del Estado, los municipios podrán otorgar incentivos a la inversión nacional y extranjera para la instalación o asentamiento de nuevas empresas o la expansión de las existentes que generen nuevos empleos en la entidad. Estos incentivos consistirán en aquellos beneficios fiscales y de otro tipo que correspondan, de acuerdo al ámbito de competencia del municipio.
 
-> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+###### Artículo 27.
 
-VI. El Consejo de Participación Ciudadana; y
+Los incentivos que se podrán otorgar consistirán en:
 
-VII. El Presidente del Consejo tiene la facultad y obligación de promover en todo tiempo, con la asistencia del Secretario, la coordinación y el funcionamiento efectivo del Sistema y de las instancias que lo integran.
+I. Incentivos fiscales, los cuales consistirán en:
 
-El Secretario Ejecutivo se coordinará con los presidentes de los órganos colegiados referidos para impeler que la colaboración sea efectiva y se formulen y ejecuten políticas, programas, objetivos, estrategias y acciones eficaces, así como para su seguimiento y evaluación.
+a) Subsidio del pago del Impuesto sobre Nóminas en el porcentaje que determine el Consejo, siempre y cuando sean empleos directos generados en la entidad; y
 
-###### ARTICULO 24.
+b) Subsidio del pago de derechos estatales en el porcentaje que determine el Consejo.
 
-El Consejo será la instancia superior de coordinación, planeación de políticas públicas y evaluación del Sistema, y estará integrado por:
+Cualquiera de los incentivos fiscales de los incisos anteriores, no estarán sujetos a disponibilidad presupuestal, lo cuales sólo se podrán otorgar por un período máximo de cinco años sin poderse ampliar o renovar dicho plazo, que autorice el Consejo.
 
-I. El Gobernador, quien lo presidirá;
+La empresa que se encuentre gozando del subsidio del pago del Impuesto sobre Nóminas, no podrá invocar ningún otro decreto para extender el mismo beneficio.
 
-II. (DEROGADA, P.O. 27 DE MARZO DE 2012)
+II. Incentivos económicos, los cuales consistirán en el reembolso de transferencia de recursos monetarios por la ejecución de actos, actividades u obras:
 
-III. (DEROGADA, P.O. 27 DE MARZO DE 2012)
+a) Para la capacitación y adiestramiento de los trabajadores;
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+b) Para la realización total o parcial de obras de infraestructura que propicien la instalación o expansión de la empresa;
 
-IV. Los presidentes municipales;
+c) Para la introducción o conexión de servicios públicos básicos como agua, drenaje, gas o energía;
 
-V. El Secretario General de Gobierno;
+d) Para la realización de estudios o investigaciones;
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+e) Para la compra, arrendamiento y/o permuta de bienes inmuebles propiedad del Estado, para que en ellos se establezca la nueva inversión. Cumpliendo con las demás formalidades previstas en las legislaciones aplicables, se requerirá la aprobación de la mayoría de votos del Consejo;
 
-VI. El Secretario;
+f) Para la donación y/o comodato de bienes inmuebles propiedad del Estado. A parte de las demás formalidades previstas en las legislaciones aplicables, se requerirá la aprobación de la mayoría de votos del Consejo y se pueda justificar que la inversión que se realizará creará 500 o más empleos permanentes en un lapso menor a 2 años; y
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+g) Aportaciones económicas hasta el 100% para contratar en arrendamiento y/o compraventa de bienes inmuebles, por un período de hasta 10 años, previo avalúo realizado por instituciones o peritos especializados.
 
-VII. El Fiscal General;
+La forma de reembolso de los incentivos económicos mencionados, se realizará conforme al procedimiento que determine la Secretaría de Finanzas y Tesorería General del Estado, en base a disponibilidad presupuestal.
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+III. Incentivos no económicos, los cuales consistirán en:
 
-VIII. Los delegados o representantes en el Estado de la Fiscalía General de la República; de las secretarías de la Defensa Nacional, de Marina, y de Seguridad y Protección Ciudadana, de la Guardia Nacional, del Centro Nacional de Inteligencia, así como del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública; y
+a) Asesoría para la instalación, puesta en marcha y operación de la inversión, su fortalecimiento o expansión;
 
-IX. El Secretario Ejecutivo.
+b) Gestión de trámites ante autoridades federales, estatales o municipales;
 
-Los funcionarios citados referidos en la fracción VIII, serán convocados en razón de los asuntos a tratar en la sesión respectiva y a juicio del Presidente del Consejo.
+c) Apoyo en la gestión de financiamiento público o privado;
 
-Asimismo para cada sesión el Presidente podrá invitar a dos representantes de la sociedad civil. Su participación será de carácter honorífico.
+d) Vinculación de los inversionistas con autoridades, universidades, sindicatos, proveedores, empresas y en general con personas o instituciones de interés para la empresa;
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+e) Capacitación y adiestramiento a los trabajadores de la empresa;
 
-Los integrantes del Consejo podrán designar un suplente, mismo que deberá tener un rango jerárquico inmediato inferior o, en su caso, ser homólogo, y tendrá los mismos derechos y obligaciones que el titular.
+f) Asesoría para la internacionalización de las empresas;
 
-El Presidente podrá ser suplido por el Secretario General de Gobierno en quien, de ser el caso, delegará el ejercicio de sus atribuciones relativas al Sistema.
+g) Asesoría para el desarrollo de proveedores;
 
-###### ARTICULO 25.
+h) Gestión de descuentos en el pago de peaje en el Puente Internacional Colombia, conforme a la legislación correspondiente; y
 
-Los integrantes del Consejo podrán establecer comisiones de trabajo especializadas a efecto de planear, instrumentar y evaluar los acuerdos, cumplir con las materias de coordinación y realizar los análisis y estudios que sean necesarios.
+i) Cualquier otro que establezca el Consejo.
 
-###### ARTICULO 26.
+###### Artículo 28.
 
-El Presidente del Consejo podrá invitar a las sesiones del pleno o de las comisiones, a representantes de organizaciones productivas y sociales y de instituciones educativas y civiles, cuyo objeto sea promover el bienestar y desarrollo de la comunidad, así como a otros servidores públicos de los tres órdenes de gobierno, y a profesionales y académicos que puedan aportar a los fines de la seguridad pública, quienes tendrán derecho de voz pero no de voto.
+Los incentivos enunciados en el artículo anterior se sujetarán al límite de disponibilidad presupuestal del Fideicomiso.
 
-###### ARTICULO 27.
+###### Artículo 29.
 
-El Consejo tendrá las siguientes atribuciones:
+Los incentivos contemplados en la presente Ley no serán aplicables para personas físicas y/o morales que simulen inversión para gozar de los beneficios de los incentivos.
 
-I. Decretar acuerdos generales y resoluciones que serán de observancia obligatoria para las autoridades estatales y municipales y, su cumplimiento, objeto de fiscalización por parte de los órganos conducentes;
+###### Artículo 30.
 
-II. Coordinar la organización y el funcionamiento del Sistema y las instancias que lo integran;
+El inversionista que haya recibido incentivos en virtud de la presente Ley, podrá solicitar nuevos incentivos una vez que haya concluido el proyecto de inversión sobre el cual recibió los incentivos. Todas las personas físicas y morales, fideicomisos y entes similares que sean afiliadas y/o subsidiarias y/o del mismo grupo empresarial al inversionista que recibió incentivos, no podrán solicitar incentivos hasta que se demuestre que éste concluyó con su proyecto de inversión.
 
-III. Establecer políticas de seguridad pública en concordancia con las que acuerde el Consejo Nacional;
+###### Artículo 31.
 
-IV. Aprobar el Programa del Sistema;
+Para el otorgamiento de incentivos conforme a la presente Ley, se tomará en consideración la derrama económica de cada proyecto, así como los siguientes criterios de evaluación:
 
-V. Determinar medidas para vincular al Sistema con el Sistema Nacional y con otros regionales, locales e internacionales;
+I. El impacto económico, entendiéndose por éste un análisis del gasto de la empresa en pago de nóminas, en proveeduría en el Estado, impuestos, adquisición de bienes inmuebles y/o arrendamiento;
 
-VI. Emitir lineamientos para coordinar la colaboración entre los tres poderes públicos de la entidad para fortalecer el Estado de derecho y la cultura de la legalidad;
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2020)</small>
 
-VII. Expedir bases y reglas para la realización de operativos conjuntos entre instituciones policiales de los tres órdenes de gobierno;
+II. La generación de empleos para los habitantes del estado de Nuevo León, entendiéndose esta como la cifra absoluta de población del Estado ocupada que desempeña una actividad formal y remunerada con base en la legislación aplicable;
 
-VIII. Analizar la evolución de las infracciones, incidencia delictiva y actuación de las instituciones, con base en estadísticas e indicadores de cobertura, de gestión y de otros instrumentos de que se disponga;
+III. La ubicación geográfica del proyecto, entendiéndose por esta la Región Centro, Región Citrícola, Región Norte, Región Periférica y Sur;
 
-IX. Resolver acerca de propuestas de políticas, programas, objetivos, estrategias, acciones, proyectos y estudios que, por conducto del Secretario Ejecutivo, presenten las conferencias estatales, los integrantes del Consejo, y las organizaciones de la sociedad civil;
+IV. El impacto en innovación y tecnología, entendiéndose por éste la generación de propiedad intelectual en el Estado, instalación de centros de diseño e investigación o similares, así como la instalación de tecnologías para el cuidado del medio ambiente;
 
-X. Aprobar lineamientos para el desarrollo policial y los modelos de gestión;
+V. El impacto ambiental, entendiéndose por el uso de tecnologías más limpias que permitan la protección y el mejoramiento del medio ambiente; y
 
-XI. Definir políticas integrales de prevención del delito, de participación de la comunidad y de atención a las víctimas;
+VI. Los demás que se establezcan en el reglamento de la Ley.
 
-XII. Instruir la realización de encuestas de percepción de la sociedad y de los integrantes de las instituciones;
-
-XIII. Proponer iniciativas de reformas a las leyes y normas relacionadas con las materias de la seguridad pública;
-
-XIV. Fijar políticas, lineamientos y acciones para el eficaz funcionamiento de las instituciones;
-
-XV. Determinar indicadores para vigilar y controlar, de conformidad con el marco legal aplicable, el ejercicio de los recursos financieros destinados para instrumentar las acciones programáticas, provenientes tanto del Presupuesto de Egresos de la Federación, cuanto del Estatal;
-
-XVI. Conocer y aprobar informes de los responsables de las instituciones de seguridad pública y del Secretario Ejecutivo, respecto del cumplimiento de las acciones que correspondan a cada una de las autoridades del Sistema;
-
-XVII. Evaluar el desempeño de los titulares de las instituciones de seguridad pública y emitir las recomendaciones relativas;
-
-XVIII. Aprobar un sistema de seguimiento y evaluación con indicadores de medición de la actuación de las instituciones de seguridad pública, a efecto de que periódicamente se analice el avance en el cumplimiento de los programas y acciones conducentes;
-
-XIX. Facilitar la incorporación de la sociedad en los procedimientos de control y evaluación de las políticas en la materia;
-
-XX. Expedir reglas y lineamientos que se deriven del presente ordenamiento para garantizar la operación eficaz del Sistema, y
-
-XXI. Designar con base en la propuesta del Secretario a los dos Presidentes municipales que formarán parte de la Conferencia Nacional de Seguridad Pública; y
-
-XXII. Las demás que sean necesarias para cumplir los objetivos de la coordinación establecidos en el artículo 6° de esta ley, y alcanzar los fines de la seguridad pública.
-
-###### ARTICULO 28.
-
-El Consejo se reunirá de manera ordinaria cada tres meses, mediante convocatoria del Secretario Ejecutivo quien, por acuerdo del Presidente, integrará la agenda de los asuntos a tratar. Extraordinariamente sesionará cuantas veces sea necesario o cuando algún asunto urgente lo amerite.
-
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
-
-El quórum para las reuniones del Consejo se integrará con los titulares o sus suplentes de los integrantes previstos en las fracciones I, II, III, V, VI, VII, VIII y IX del artículo 24 de esta ley, y cuando menos tres presidentes municipales.
-
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
-
-Tratándose de los presidentes municipales del Estado, bastará con la presencia de al menos tres de éstos. El Presidente del Consejo determinará a cuáles deberá convocarse en cada sesión.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2022)</small>
-
-###### ARTICULO 29.
-
-El Gobernador designará y removerá libremente al Secretario Ejecutivo, quien deberá cumplir los siguientes requisitos:
-
-I. Ser ciudadano mexicano en pleno goce de sus derechos;
-
-II. Tener más de treinta años de edad;
-
-III. Contar con título profesional de nivel licenciatura debidamente registrado;
-
-IV. Ser de reconocida capacidad y probidad, y acreditar experiencia profesional, preferentemente académica, en alguna de las materias relativas a la seguridad pública;
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
-
-V. No haber ocupado un cargo de dirigencia partidista en el año anterior a su designación, ni haber sido condenado por delito doloso; y
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
-
-VI. No haber sido inhabilitado como servidor público.
-
-###### ARTICULO 30.
-
-Son facultades y obligaciones del Secretario Ejecutivo las siguientes:
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
-
-I. Elaborar el Reglamento de la presente ley y someterlo a la aprobación del Gobernador;
-
-II. Reunir las propuestas de contenido del Programa y presentarlas como un documento integral a la consideración del Consejo;
-
-III. Asistir y coadyuvar con el Secretario en el seguimiento y la evaluación del Programa, así como conducir los procedimientos relativos de los programas del Sistema Nacional que se instrumenten en el Estado;
-
-IV. Registrar y certificar los acuerdos que se tomen en el Consejo, llevar el archivo de éstos y de los instrumentos jurídicos que se deriven de aquéllos;
-
-V. Ejecutar, en su caso, y dar seguimiento permanente a los acuerdos y resoluciones del Consejo, notificando formalmente a las instituciones sobre las obligaciones que les resulten en función de las sesiones respectivas;
-
-VI. Proponer al Consejo las políticas, lineamientos, protocolos y acciones para el mejor desempeño de las instituciones de seguridad pública;
-
-VII. Elaborar y publicar informes de actividades del Consejo;
-
-VIII. Informar al Consejo, en cada sesión ordinaria, de sus actividades;
-
-IX. Representar al Sistema en las reuniones de concertación con el Secretariado Ejecutivo del Sistema Nacional;
-
-X. Apoyar a las conferencia estatal, comisiones y a la de instituciones policiales en el desarrollo de las acciones que acuerden, verificando que éstas se enmarquen en las resoluciones del Consejo;
-
-XI. Administrar y, en su caso, operar los sistemas e instrumentos de información desarrollados en el marco del Sistema Nacional de Información sobre Seguridad Pública;
-
-XII. Proponer al Consejo los dos presidentes municipales que habrán de participar en la Conferencia Nacional de Seguridad Pública Municipal;
-
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
-
-XIII. Administrar y operar la Red Estatal de Telecomunicaciones, a través del Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia;
-
-XIV. Proponer y, en lo procedente, operar la integración de sistemas y bases de datos, a fin de aprovechar la información sustantiva contenida en los partes policiales, denuncias, investigaciones y todo tipo de actuaciones oficiales, que permitan ubicar geográficamente el fenómeno delictivo y las causas del mismo;
-
-XV. Impulsar, investigar y proponer acciones para el fortalecimiento y modernización del equipamiento y la infraestructura física y tecnológica de las instituciones de seguridad pública;
-
-XVI. Coadyuvar en los procedimientos de programación y presupuestación anuales de las instituciones, así como en la gestión, administración y control de los recursos provenientes del Fondo de Aportaciones para la Seguridad Pública del Presupuesto de Egresos de la Federación y, en lo conducente, del subsidio federal a los municipios;
-
-XVII. Asistir a las autoridades municipales, en coadyuvancia con el Secretario para hacer efectiva su participación en el Sistema, y coordinar su incorporación a los programas correspondientes y, al financiamiento de los mismos, mediante los convenios respectivos;
-
-XVIII. Promover la realización de acciones conjuntas conforme a las bases y lineamientos que emita el Consejo;
-
-XIX. Verificar permanentemente el cumplimiento de las disposiciones de esta ley, de los acuerdos del Consejo, resoluciones, convenios generales y específicos y demás instrumentos normativos;
-
-XX. Emitir a las instituciones, recomendaciones fundadas y motivadas, e informar al Consejo respecto de los avances de su cumplimiento, observando las autoridades o instancias que, en función de las evaluaciones respectivas, no alcancen las metas bajo su responsabilidad;
-
-XXI. Supervisar la correcta aplicación de los recursos destinados a soportar las acciones del Programa, así como los provenientes de la Federación tanto para las instituciones estatales, como las municipales;
-
-XXII. Proponer un sistema de seguimiento y evaluación, con indicadores de medición de la actuación de las instituciones, a efecto de analizar periódicamente el avance en el cumplimiento de estrategias, programas y acciones;
-
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
-
-XXIII. Dictar las medidas necesarias y celebrar convenios y contratos, en acuerdo con el Secretario, para hacer efectiva la coordinación y preservar la seguridad pública;
-
-XXIV. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2022)
-
-(REFORMADA, P.O. 1 DE JULIO DE 2022) (F. DE E., P.O. 19 DE JULIO DE 2022)
-
-XXV. Las demás que prevean necesarias para cumplir los acuerdos del Consejo
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
-
-###### ARTICULO 31.
-
-El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública será un órgano desconcentrado de la Secretaría General (sic) Gobierno, dotado de autonomía técnica y operativa, integrado por la estructura y las funciones que establezca el Reglamento Interior y los manuales de organización y de procedimientos correspondientes, y su objeto será soportar el cumplimiento de las atribuciones que le competen al Secretario Ejecutivo.
+En el reglamento de la Ley se establecerán los criterios de ponderación de las fracciones descritas en el presente artículo.
 
 #### SECCION SEGUNDA. DE LOS CONSEJOS MUNICIPALES DE SEGURIDAD PUBLICA
 
-###### ARTICULO 32.
+###### Artículo 32.
 
-Los consejos municipales son las instancias encargadas de la coordinación, planeación e instrumentación del Sistema, a efecto de alcanzar los fines de la seguridad pública en su municipio.
+En todos los casos el Consejo deberá emitir una resolución fundada y motivada de por qué se otorga un incentivo, conforme a los lineamientos y criterios establecidos en el artículo anterior.
 
-###### ARTICULO 33.
+###### Artículo 33.
 
-Los consejos municipales estarán integrados por:
+Para el otorgamiento de incentivos, el Poder Ejecutivo del Estado podrá constituir un Fideicomiso de administración y pago, conforme a las reglas que determine la Secretaría de Finanzas y Tesorería General del Estado.
 
-I. El Presidente Municipal, quien lo presidirá;
+Este Fideicomiso se podrá complementar con aportaciones adicionales provenientes del gobierno federal, estatal, municipal, organismos descentralizados, de la iniciativa privada y/o cualquier otro recurso que sea lícito.
 
-II. Los regidores responsables de las comisiones del Ayuntamiento relacionados con las materias de seguridad pública;
+### CAPÍTULO CUARTO. DE OBLIGACIONES DE LOS INVERSIONISTAS
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+### CAPÍTULO QUINTO. DE LAS VISITAS DE VERIFICACIÓN Y SANCIONES
 
-III. Un representante de la Fiscalía General;
+### CAPÍTULO SEXTO. DE LOS MEDIOS DE DEFENSA
 
-IV. Un representante de la Secretaría;
+###### Artículo 34.
 
-V. El juez calificador; y
+Los inversionistas que reciban incentivos tendrán las siguientes obligaciones:
 
-VI. El titular de la policía preventiva y el de tránsito del municipio.
+I. Reportar a la Secretaría, de manera anual, sobre la aplicación de los incentivos que le fueron proporcionados.
 
-Asimismo para cada sesión el Presidente invitará a cada representante de la sociedad civil. Su participación será de carácter honorífico.
+II. Avisar en un plazo no mayor a quince días hábiles a la Secretaría de lo siguiente:
 
-El Presidente del Consejo Municipal invitará a las sesiones, al menos a dos representantes de la sociedad civil o de la comunidad, de conformidad con los temas a tratar. Su participación será de carácter honorífico.
+a) Cambio de su actividad económica y/o representante legal;
 
-El Secretario del Ayuntamiento fungirá como Secretario Técnico del Consejo Municipal.
+b) Reubicación de sus instalaciones;
 
-El Consejo Municipal se reunirá de manera ordinaria cada tres meses a convocatoria de su Presidente, y sus integrantes contarán con derecho de voz y voto.
+c) Modificación del monto de la inversión;
 
-El quórum para las reuniones del Consejo Municipal se integrará con la mitad más uno de los integrantes.
+d) Modificación del número o remuneración de empleos generados en el Estado;
 
-### CAPITULO IV. DE LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PUBLICA
+e) Cambio de actividad o giro inicialmente planeados;
 
-### CAPITULO V. DE LAS ATRIBUCIONES
+f) Escisión o fusión con otras empresas;
 
-### CAPITULO I. DE LA INTEGRACION
+g) Que existan motivos que lo obliguen a incumplir en cualquier medida, los términos y condiciones que lo hicieron merecedor de cualquier incentivo;
 
-###### ARTICULO 34.
+III. Facilitar a la Secretaría la realización de las visitas de inspección que se ordenen con el fin de verificar el cumplimiento de los términos y condiciones contraídos por los incentivos; y
 
-El Presidente del Consejo Municipal podrá invitar a las sesiones a servidores públicos de los tres órdenes de gobierno, a representantes de organizaciones productivas y sociales y de instituciones educativas y civiles, profesionales, académicos que puedan aportar a los fines de la seguridad pública, quienes tendrán derecho de voz pero no de voto.
+IV. Las demás obligaciones que se establezcan en el reglamento de la Ley o que puedan derivar de las reglas emitidas por el Consejo y/o de los convenios que contraigan con las demás autoridades del ámbito federal, estatal y/o municipal bajo el marco jurídico de la presente Ley.
 
-###### ARTICULO 35.
+Los incentivos contemplados en la presente Ley no serán aplicables a aquellas empresas ya establecidas, que mediante un acto de simulación aparezca como nueva empresa para gozar de dichos beneficios o cualquier otro.
 
-Los consejos municipales se organizarán, en lo conducente, de manera semejante al Consejo y tendrán las funciones relativas para hacer posible los objetivos de la coordinación.
+###### Artículo 35.
+
+Los avisos mencionados en el artículo anterior deberán ser acompañados de todos los elementos que sean necesarios para explicar y/o justificar los cambios en el proyecto de inversión. Estos cambios podrán motivar la cancelación, modificación y, en su caso, devolución de los incentivos otorgados.
+
+La omisión de los avisos a que se refiere el artículo anterior, podrán traer como consecuencia, a juicio de la autoridad que concedió los incentivos, la cancelación de manera definitiva de los mismos que se le hubieran otorgado al inversionista y/o en su caso, el inicio del proceso legal correspondiente para obtener su devolución, incluyendo costos financieros y fiscales.
 
 #### SECCION TERCERA. DE LAS INSTANCIAS REGIONALES DE COORDINACION
 
-###### ARTICULO 36.
+###### Artículo 36.
 
-Cuando sea necesaria la participación de dos o más municipios, para que se cumplan las funciones de seguridad pública, se establecerán instancias regionales de coordinación, con carácter temporal o permanente, en las que participarán los presidentes municipales, y las instituciones de seguridad pública que determine el Consejo.
+La Secretaría deberá llevar un registro de las empresas beneficiadas con los incentivos, el monto y/o concepto y la descripción de los mismos, dicho registro deberá mantenerse actualizado y estar disponible para consulta en sitio oficial del portal del Poder Ejecutivo del Estado.
 
-### CAPITULO II. DE LAS INSTANCIAS DE COORDINACION
+### CAPÍTULO SÉPTIMO. DE LOS AGRUPAMIENTOS EMPRESARIALES ESTRATÉGICOS (CLUSTERS)
 
 #### SECCION PRIMERA. DEL CONSEJO ESTATAL DE SEGURIDAD PUBLICA
 
-###### ARTICULO 37.
+###### Artículo 37.
 
-Las instancias regionales se integrarán por acuerdo del Consejo y mediante los lineamientos que al efecto expidan el Secretario y el Secretario Ejecutivo, en los cuales se definirán los integrantes de este cuerpo colegiado.
+La Secretaría podrá llevar a cabo visitas de inspección a los inversionistas que hayan recibido incentivos determinados por esta Ley con el fin de verificar el cumplimiento de los requisitos que dieron lugar al otorgamiento de los mismos.
 
-Las instancias regionales se reunirán de manera ordinaria cada tres meses a convocatoria de su Presidente, y sus integrantes contarán con derecho de voz y voto.
+###### Artículo 38.
 
-###### ARTICULO 38.
-
-Las instancias regionales se organizarán, en lo conducente, de manera semejante al Consejo y tendrán las funciones relativas para hacer posible los objetivos de la coordinación.
-
-La Presidencia y el Secretariado Ejecutivo serán designados por la instancia regional correspondiente.
+Los beneficiarios de los incentivos, deberán proporcionar a la Secretaría la información que se les requiera en el formato y los plazos que para tal efecto se señalen, debiendo dar las facilidades necesarias al personal de la Secretaría para realizar tales actos de verificación. En caso de incumplimiento por parte del inversionista o de que este niegue al acceso a la Secretaría para el desarrollo de visitas de verificación, la Secretaría podrá suspender o cancelar en definitiva los incentivos otorgados.
 
 #### SECCION CUARTA. DE LA CONFERENCIA ESTATAL DE INSTITUCIONES POLICIALES
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. LXIV-95, PUBLICADO EN EL P.O. DE 14 DE ABRIL DE 2020, PÁGINAS 15, 16 Y 18.]</small>
 
-###### ARTICULO 39.
+###### Artículo 39.
 
-La Conferencia Estatal de instituciones policiales será presidida por el Secretario y estará integrada por:
+La dependencia competente podrá sancionar a los beneficiarios de los incentivos cuando incurran en cualquiera de los siguientes supuestos:
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+I. Aportar información falsa para la obtención de incentivos y/o apoyos. En este caso, la dependencia competente hará del conocimiento del caso al Ministerio Público para que inicie las averiguaciones conforme a la legislación penal;
 
-I. El Fiscal General de Justicia;
+II. Incumplir con los compromisos de inversión en los tiempos y formas convenidos;
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+III. Destinar los apoyos e incentivos otorgados a un uso distinto del autorizado. En este caso, la dependencia competente hará del conocimiento del caso al Ministerio Público para que inicie las averiguaciones conforme a la legislación penal;
 
-II. Los titulares de las instituciones policiales estatales y municipales;
+IV. Ceder o transferir los beneficios otorgados en los términos de esta Ley, sin contar previamente con la autorización del Consejo;
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+V. Omitir el cumplimiento a cualquier obligación contenida en la presente Ley; y
 
-III. El titular de la Policía de Investigación; y
+VI. Por ser reincidentes en el incumplimiento de cualquier obligación contenida en la presente Ley.
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+###### Artículo 40.
 
-IV. La persona titular de la Subsecretaría de Ejecución de Sanciones y Reinserción Social.
+Los supuestos señalados en el artículo anterior, podrán ser infraccionados con una o más de las siguientes las sanciones estipuladas:
 
-###### ARTICULO 40.
+I. De 1 a 50,000 UMA dependiendo de la gravedad de los incumplimientos;
 
-La Conferencia Estatal de instituciones policiales tendrá las siguientes funciones:
+II. Suspensión de los programas de incentivos; y
 
-I. Impulsar la coordinación de las instancias responsables de las funciones policiales de prevención, investigación y reacción;
+III. Devolución inmediata de los incentivos recibidos; y en caso que sean incentivos que no puedan reembolsarse, deberán ser cuantificados y devueltos en su equivalente en moneda nacional.
 
-II. Promover la capacitación, actualización y especialización conforme al Programa Rector;
+Los incentivos que no puedan ser devueltos por su misma naturaleza, deberán ser cuantificados por un peritaje colegiado conformado por tres miembros.
 
-III. Armonizar los bandos de policía y buen gobierno de los municipios;
+En caso de suspensión de los incentivos, la Secretaría deberá emitir una resolución en los diez días hábiles siguientes y/o reanudar en caso que se subsanen los incumplimientos encontrados.
 
-IV. Definir criterios uniformes para integrar el modelo homólogo de desarrollo y gestión policial para aplicarlo en el Estado y los municipios;
-
-V. Intercambiar experiencias y apoyo técnico;
-
-VI. Emitir bases y reglas generales para la realización de operativos conjuntos;
-
-VII. Proponer mecanismos de colaboración a través del protocolo respectivo;
-
-VIII. Formular propuestas para la integración y uso adecuado de los registros y bases de datos de seguridad pública;
-
-IX. Promover el cumplimiento del Informe Policial Homologado, en los términos de los artículos 43, 112 y 113 de la Ley General;
-
-X. Sugerir acciones para mejorar la atención respecto de los reportes de emergencias, faltas y delitos hechos por la ciudadanía;
-
-XI. Proponer procedimientos de seguridad para los centros penitenciarios e instalaciones estratégicas de la entidad;
-
-XII. Promover la coordinación de acciones con las policías federales para el resguardo de las instalaciones estratégicas;
-
-XIII. Desarrollar un esquema para la administración y control de armas de fuego y municiones, con el objeto de rendir oportunamente los informes correspondientes y facilitar la inspección de las autoridades competentes;
-
-XIV. Plantear mecanismos de vinculación con la sociedad;
-
-XV. Promover un modelo de prevención integral para su incorporación al Programa;
-
-XVI. Plantear estrategias, objetivos y líneas de acción en materia de prevención, investigación y reacción para su incorporación al Programa;
-
-XVII. Promover la certificación de los integrantes de las instituciones policiales en el Centro Estatal de Evaluación y Control de Confianza;
-
-XVIII. Las demás que sean necesarias para fortalecer la capacidad de respuesta de las instituciones policiales.
-
-El Secretario podrá invitar a las reuniones a los mandos de las Fuerzas Armadas y de las policías federales adscritas en el Estado, a los titulares de las áreas de prevención del delito y de vinculación social estatales y municipales, así como a otros funcionarios públicos, profesionales y académicos que puedan aportar a los fines de la Conferencia.
-
-La Conferencia se reunirá ordinariamente cada seis meses y extraordinariamente cuando sea necesario.
-
-El Secretario Ejecutivo será el secretario técnico de la Conferencia, convocará a las reuniones, para efectos de información y aprobación y elevará a la consideración del Consejo las resoluciones de la misma.
-
-El quórum para las reuniones de la Conferencia Estatal se integrará con la mitad más uno de los integrantes.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+En caso de que se determine la devolución de los incentivos otorgados, el inversionista tendrá un plazo de treinta días hábiles para realizar la devolución de los mismos mediante el depósito de las cantidades correspondientes ante el Fideicomiso. En caso de incumplimiento en la entrega del monto correspondiente, dicha cantidad se convertirá en un crédito fiscal en contra del inversionista, el cual podrá ser ejecutado conforme a lo establecido en el Código Fiscal del Estado.
 
 #### SECCION QUINTA. DEL CONSEJO DE PARTICIPACION CUIDADANA
 
@@ -1105,85 +565,123 @@ V. Opinar y formular propuestas con relación a las recomendaciones e informes n
 
 VI. Las demás que acuerde el Consejo o que se establezcan en los lineamientos internos del mismo.
 
-###### ARTICULO 41.
+###### Artículo 41.
 
-El Programa será el instrumento rector de la política de Estado en la materia, contendrá los objetivos, políticas, estrategias y líneas de acción que de manera ordenada, racional y coordinada deberán ejecutar las instituciones de seguridad pública con la participación organizada de la sociedad, en el corto, mediano y largo plazos, a efecto de alcanzar los fines de la seguridad pública.
+Para sancionar las faltas a que se refiere esta sección, se tomará en consideración:
 
-###### ARTICULO 42.
+I. La gravedad de la falta.
 
-Corresponde al Gobernador y a los presidentes municipales, en sus respectivos ámbitos de competencia, impulsar, promover y proveer la elaboración, ejecución, seguimiento, evaluación y difusión del Programa.
+II. Las condiciones económicas y de mercado que impidieron a la empresa cumplir con sus programas de inversión.
 
-###### ARTICULO 43.
+III. Las condiciones económicas de la empresa infractora, así como su tamaño.
 
-El Programa se elaborará observándose los siguientes aspectos:
+IV. La reincidencia, en cuyo caso el monto de la multa podrá ser hasta por dos veces el monto originalmente impuesto.
 
-I. Será producto de un proceso de consulta, dirigido por el Secretario, quien será asistido por el Secretario Ejecutivo;
+Las empresas que sean sancionadas por reincidencia, no podrán ser objeto de los beneficios futuros de las que se contemplan en la presente Ley.
 
-II. Partirá de un diagnóstico de la situación objetiva de la seguridad pública en el Estado, sus municipios y regiones, en particular de la cifra real de la incidencia delictiva y de la capacidad de respuesta de las instituciones en función de parámetros objetivos y de los resultados de su operación;
+###### Artículo 42.
 
-III. Considerará la percepción de la población y de los integrantes de las instituciones;
+En caso de cancelación de los incentivos, la Secretaría, podrá notificar a las distintas autoridades municipales, estatales y/o federales en donde solicite la suspensión o cancelación de los incentivos y apoyos que estuviera recibiendo el inversionista de conformidad con lo estipulado por esta Ley.
 
-IV. Estará alineado con los programas nacionales y las políticas que se acuerden por el Consejo Nacional;
+###### Artículo 43.
 
-V. Tendrá el carácter de prioritario y guardará congruencia con el Plan Estatal de Desarrollo, por lo que el Secretario Ejecutivo presentará las propuestas de contenido al Consejo, en un plazo no mayor de tres meses posteriores a la publicación de aquél;
+Las visitas de verificación deberán llevarse a cabo conforme a lo que establezca el reglamento de la presente Ley.
 
-VI. Comprenderá los subprogramas relativos a la prevención integral, la procuración de justicia, la reinserción social, y los demás que se consideren necesarios, a fin de garantizar la integralidad y coordinación en su desarrollo y ejecución, y la plena vigencia y operatividad del Sistema y los subsistemas del mismo;
-
-VII. Definirá las instituciones y unidades administrativas responsables de su cumplimiento;
-
-VIII. Establecerá los espacios y mecanismos de participación de los sectores sociales, así como la definición de acciones transversales de prevención de conductas antisociales;
-
-IX. Incorporará objetivos, indicadores de gestión, unidades de medida, términos de referencia y metas específicas y cuantificables, a efecto de soportar el proceso de seguimiento y evaluación permanente que realizará el Consejo y la Sociedad organizada;
-
-X. Considerará un periodo de ejecución de cinco años, pero podrá hacer previsiones para etapas posteriores;
-
-XI. Concentrará una presupuestación estimada para el periodo, misma que será revisada anualmente; y
-
-XII. Incorporará todas aquellas prioridades, estrategias y líneas de acción, ordenadas racional y sistemáticamente, que se requieran para cumplir los objetivos de la coordinación y los fines de seguridad pública.
+En las visitas de verificación la Secretaría podrá solicitar asistencia de terceros para llevar a cabo en conjunto las visitas de verificación.
 
 ### CAPITULO III. DEL PROGRAMA DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
-###### ARTICULO 44.
+###### Artículo 44.
 
-El Consejo aprobará, en su caso, el Programa y el Gobernador ordenará su publicación en el Periódico Oficial.
-
-Las instituciones de seguridad pública sustentarán en los contenidos del Programa sus respectivos programas operativos anuales.
+Cualesquiera que se considere afectado en su interés jurídico por los actos que emita el Consejo, podrá impugnarlos a través de los medios de defensa que establece el Código Fiscal del Estado y la Ley de Justicia Administrativa del Estado.
 
 ### CAPITULO I. DISPOSICIONES PRELIMINARES
 
-###### ARTICULO 45.
+###### Artículo 45.
 
-En concordancia con el Programa y atendiendo a las situaciones específicas de su ámbito territorial, los ayuntamientos elaborarán sus respectivos programas municipales de seguridad pública, que serán aprobados por el Consejo Municipal.
+El Poder Ejecutivo, a través de la Secretaría, promoverá la creación y fortalecimiento de agrupamientos empresariales estratégicos (CLUSTERS). El Consejo a través de los lineamientos que ellos expidan determinará cuáles son los agrupamientos empresariales estratégicos (CLUSTERS) que el Estado requiere para atracción de mayor inversión y/o explotación en el mismo.
 
 ## TITULO TERCERO. DEL DESARROLLO POLICIAL
 
-###### ARTICULO 46.
+###### Artículo 46.
 
-El desarrollo policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí que comprenden la carrera policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los integrantes de las instituciones policiales.
+El Consejo podrá valerse de la opinión de la iniciativa privada, social y académica para determinar los agrupamientos empresariales estratégicos (CLUSTERS) de micro, pequeñas, medianas y grandes empresas en el Estado.
 
-###### ARTICULO 47.
+###### Artículo 47.
 
-Son sujetos al régimen de desarrollo policial los integrantes de las instituciones policiales señaladas en el artículo 11 de la presente Ley.
+Cuando el Consejo no considere a un agrupamiento empresarial como estratégico, éstos tendrán la oportunidad de elaborar una solicitud en escrito libre en donde puedan solicitarle al Consejo para que sean tomados como Agrupamiento Empresarial Estratégico dentro del Estado y el Consejo por mayoría de votos resolverá en consecuencia.
 
-###### ARTICULO 48.
+###### Artículo 48.
 
-La carrera policial será un servicio civil, obligatorio y permanente en sus diferentes niveles, y comprenderá los requisitos y procedimientos de reclutamiento, selección, capacitación básica, certificación inicial, registro, formación continua y especializada, actualización, evaluación para la permanencia y del desempeño, promoción y reconocimiento; así como la separación o baja del servicio de los integrantes de las instituciones policiales.
+El Consejo, mediante mayoría de votos, podrá nombrar consejos ciudadanos asesores para el desarrollo de Agrupamientos Empresariales Estratégicos (CLUSTERS) que funcionarán como órganos auxiliares de participación ciudadana, consultivos, asesores, promotores, y representativos de los sectores empresariales, sindicales, educativos y gubernamentales, para el impulso y desarrollo de industrias y sectores económicos estratégicos para el crecimiento económico en el Estado, en los términos del reglamento de la Ley.
 
-###### ARTICULO 49.
+###### Artículo 49.
 
-Los fines de la Carrera Policial son:
+Son objetivos de los Agrupamientos Empresariales Estratégicos (CLUSTERS), los siguientes:
 
-I. Garantizar el desarrollo institucional y asegurar la estabilidad en el empleo, con base en un esquema proporcional y equitativo de remuneraciones y prestaciones para los integrantes de las instituciones policiales;
+I. Fungir como plataforma de diálogo entre el sector público y el privado para diseñar e implementar estrategias que favorezcan el desarrollo de la industria o sector;
 
-II. Promover la responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización de los recursos de las instituciones;
+II. Establecer comités especiales, cuya finalidad sea analizar la situación concreta de la industria o sector que corresponda para proponer programas y proyectos que impulsen su crecimiento económico;
 
-III. Fomentar la vocación de servicio y el sentido de pertenencia mediante la motivación y el establecimiento de un adecuado sistema de promociones que permita satisfacer las expectativas de desarrollo profesional y reconocimiento de los integrantes de las instituciones policiales;
+III. Proponer políticas, estrategias, acciones y programas para fomentar la investigación, innovación y el desarrollo tecnológico en su industria o sector;
 
-IV. Instrumentar e impulsar la capacitación y profesionalización permanente de los Integrantes de las instituciones policiales, para asegurar la lealtad institucional en la prestación de los servicios; y
+IV. Realizar estudios sobre planeación estratégica y de necesidades de recursos humanos dentro de su industria o sector;
 
-V. Los demás que establezcan las disposiciones que deriven de esta ley.
+V. Promover la formación de capital humano especializado para el fortalecimiento de la industria o sector;
 
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+VI. Fomentar y diseñar programas de apoyo y fortalecimiento a la red de proveedores de bienes y servicios, especialmente apoyando la integración de las micro, pequeñas y medianas empresas con las grandes empresas;
+
+VII. Difundir los casos de éxito de la industria o sector para aprovecharlos en la competencia con otras regiones económicas; y
+
+VIII. Promover, en coordinación con el Consejo a nivel nacional e internacional la difusión de sus proyectos, programas, iniciativas y resultados.
+
+T R A N S I T O R I O S
+
+Primero.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Se abroga la Ley de Fomento a la Inversión y al Empleo en el Estado de Nuevo León, publicada en el Periódico Oficial del Estado de fecha 20 de julio de 2007.
+
+Tercero.- El Reglamento de la Ley deberá expedirse en un periodo de 90 días hábiles, posteriores a la entrada en vigor de la Ley.
+
+Cuarto.- El Consejo deberá instalarse dentro de los 45 días hábiles posteriores a la entrada en vigor de la presente Ley.
+
+Quinto.- En caso de autorizarse el Fideicomiso deberá constituirse a los 60 días hábiles posteriores a la instalación del Consejo.
+
+Sexto.- Los incentivos otorgados antes de la entrada en vigor de la presente Ley y las solicitudes de incentivos que se encuentren en proceso antes de la entrada en vigor de la presente Ley, se sujetarán a la normatividad vigente al momento de su otorgamiento o de haber presentado la solicitud.
+
+Séptimo.- Para efectos de la aprobación del Fideicomiso Económico de Incentivos para la Inversión de la presente Ley, se dispondrá a lo conducente conforme a la disponibilidad presupuestal de la Secretaría de Finanzas y Tesorería General del Estado.
+
+Por lo tanto, envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
+
+Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital a los dieciséis días del mes de octubre de dos mil diecisiete.
+
+PRESIDENTA: DIP. KARINA MARLEN BARRÓN PERALES; PRIMERA SECRETARIA: DIP. LAURA PAULA LÓPEZ SÁNCHEZ; SEGUNDA SECRETARIA: DIP. EVA PATRICIA SALAZAR MARROQUÍN.- RÚBRICAS.-
+
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder ejecutivo del Estado de Nuevo león, en Monterrey, su Capital, al día 19 de octubre de 2017.
+
+EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NUEVO LEÓN
+
+JAIME HELIDORO RODRÍGUEZ CALDERÓN
+
+EL C. SECRETARIO GENERAL DE GOBIERNO
+
+MANUEL FLORENTINO GONZÁLEZ FLORES
+
+EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
+
+CARLOS ALBERTO GARZA IBARRA
+
+EL C. SECRETARIO DE ECONOMÍA Y TRABAJO
+
+FERNANDO TURNER DÁVILA
+
+EL C. SECRETARIO DE DESARROLLO SUSTENTABLE
+
+ROBERTO RUSSILDI MONTELLANO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE JUNIO DE 2019.
 
 ###### ARTICULO 50.
 
@@ -2213,7 +1711,11 @@ SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
 
 P.O. 29 DE DICIEMBRE DE 2010.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-187 MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 141, DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 132. SE ADICIONA UN ARTÍCULO 21 BIS A LA LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 2020.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -2221,7 +1723,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 15 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-342 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 116 FRACCIÓN I Y 118 PÁRRAFO PRIMERO DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 166 SE REFORMA LA LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- El actual Consejo de Desarrollo Económico deberá establecer los criterios a tomar en cuenta para elegir qué cámaras empresariales y universidades de la entidad podrán participar activa y permanentemente en el Consejo.
 
 ###### ARTÍCULO PRIMERO.
 
