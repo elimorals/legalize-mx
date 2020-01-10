@@ -4,7 +4,7 @@ identifier: "COA-codigo-fiscal-para-el-estado-de-coahuila-de-zaragoza-37936"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-01-02"
-last_updated: "2019-12-31"
+last_updated: "2020-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37936&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 2 de enero de 2004.
 
@@ -833,6 +833,10 @@ III. Conceder subsidios o estímulos fiscales.
 
 Las resoluciones que conforme a este artículo se dicten, deberán señalar las contribuciones a que se refieren, salvo que se trate de estímulos fiscales, así como, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplirse por los beneficiados.
 
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+ARTICULO 38 BIS. La Secretaría de Finanzas por conducto de la Administración Fiscal General podrá condonar total o parcialmente accesorios de los créditos fiscales impugnados ante el Tribunal de Justicia Administrativa del Estado de Coahuila de Zaragoza mediante el juicio contencioso administrativo sumario, en los términos de la Ley de Procedimiento Contencioso Administrativo para el Estado de Coahuila de Zaragoza. Esta condonación quedará condicionada al cumplimiento de la propuesta de conciliación de conformidad con la misma ley.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 39.
@@ -1563,7 +1567,9 @@ Las autoridades fiscales podrán condonar las multas por infracción a las dispo
 
 La solicitud de condonación de multas en los términos de este artículo no constituirá instancia y las resoluciones que dicten las autoridades fiscales competentes al respecto no podrán ser impugnadas por los medios de defensa que establece este Código.
 
-Sólo procederá la condonación de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2020)</small>
+
+Sólo procederá la condonación de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación, salvo cuando se impugne el crédito fiscal ante el Tribunal de Justicia Administrativa del Estado de Coahuila de Zaragoza, mediante el juicio contencioso administrativo sumario en los términos de la Ley de Procedimiento Contencioso Administrativo para el Estado de Coahuila de Zaragoza, en cuyo caso quedará la condonación condicionada al cumplimiento de la propuesta de conciliación.
 
 ###### ARTICULO 68.
 
@@ -3040,3 +3046,27 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 400.- SE REFORMAN LAS FRACCIONES II Y X DEL 46, Y LA DENOMINACIÓN DEL CAPÍTULO V; SE ADICIONAN LOS ARTÍCULOS 1 BIS, UN SEGUNDO PÁRRAFO AL ARTÍCULO 4, EL CAPÍTULO XIV CON LOS ARTÍCULOS 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114 Y 115; EL CAPÍTULO XV CON LOS ARTÍCULOS 116, 117, 118, 119 Y 120; EL CAPÍTULO XVI CON LOS ARTÍCULOS 121, 122, 123, 124, 125, 126, Y 127, DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICA EL PÁRRAFO TERCERO DEL ARTÍCULO 67 Y SE ADICIONA EL ARTÍCULO 38 BIS, DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XIII DEL ARTÍCULO 129, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 383 Y SE ADICIONA UN ARTÍCULO 413 BIS, DEL CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- La regulación referente al trámite del Juicio Contencioso Administrativo Sumario en Línea, entrará en vigor sesenta días después de la fecha en que el Pleno de la Sala Superior del Tribunal de Justicia Administrativa de Coahuila de Zaragoza emita los Acuerdos Generales respectivos.
+
+CUARTO.- Las Autoridades Estatales y Municipales emisoras de actos impugnables ante el Tribunal de Justicia Administrativa de Coahuila de Zaragoza, dentro del plazo de 60 días hábiles, contados a partir de la entrada en vigor del presente decreto, deberán adecuar su normatividad para celebrar convenios conciliatorios que pongan fin al procedimiento, conforme a lo previsto en este mismo decreto.
+
+QUINTO.- Las Autoridades Estatales y Municipales que, dentro de sus atribuciones puedan emitir actos impugnables de competencia para el conocimiento del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, deberán de registrar las firmas electrónicas de los Servidores Públicos en su calidad de representantes y autorizados, señalando el alcance y límites de su intervención en los trámites jurisdiccionales ante dicho Tribunal y señalar el tipo de usuarios para acceder a los expedientes electrónicos, en un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del mismo.
+
+SEXTO.- El funcionamiento del sistema de juicio en línea iniciará para las entidades municipales de la siguiente manera:
+
+a) 60 días posteriores a la emisión de los Acuerdos Generales a que a que (sic) se refiere el Tercero Transitorio por lo que hace a las autoridades municipales de Saltillo, Torreón, Monclova y Piedras Negras.
+
+b) 120 días posteriores a la emisión de los Acuerdos Generales a que a que (sic) se refiere el Tercero Transitorio por lo que hace a las autoridades municipales de Acuña, Ramos Arizpe, Parras, Sabinas, San Juan de Sabinas, Castaños y Frontera.
+
+c) 180 días posteriores a la emisión de los Acuerdos Generales a que a que (sic) se refiere el Tercero Transitorio por lo que hace a las autoridades municipales del resto de los municipios del Estado.
+
+SÉPTIMO.- Se derogan todas las disposiciones que se opongan a este decreto.
