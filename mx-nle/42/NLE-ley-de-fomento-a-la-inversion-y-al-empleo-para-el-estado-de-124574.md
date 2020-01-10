@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-inversion-y-al-empleo-para-el-estado-de-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2019-06-07"
+last_updated: "2020-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
 
 Ley publicada en la Sección Cuarta Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -151,9 +151,25 @@ IV. Por el Secretario de Desarrollo Sustentable;
 
 V. Por el Subsecretario de Inversión y Fomento Industrial de la Secretaria de Economía Trabajo;
 
-VI. Por un vocal invitado que tendrá nivel de Subsecretario para temas relacionados con la Secretaría, en los términos del reglamento de la presente Ley; y
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
 
-VII. Considerando la opinión del Consejo, el Presidente invitara a sus sesiones con voz pero sin voto a Representantes de organizaciones no gubernamentales, cámaras empresariales y/o de comercio, asociaciones civiles y/o cualquier otra agrupación que se estime conveniente para el desarrollo de las sesiones del Consejo.
+VI. Por un vocal invitado que tendrá nivel de Subsecretario para temas relacionados con la Secretaría, en los términos del reglamento de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2020)</small>
+
+VII. Por un representante del Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2020)</small>
+
+VIII. Por cuatro representantes de las cámaras empresariales de la entidad, las cuales tendrán una participación permanente en el Consejo;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2020)</small>
+
+IX. Por tres representantes de las principales universidades del estado, las cuales tendrán una participación permanente en el Consejo; y
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
+
+X. Considerando la opinión del Consejo, el Presidente invitará a sus sesiones con voz pero sin voto a representantes de organizaciones no gubernamentales, asociaciones civiles y/o cualquier otra agrupación que se estime conveniente que puedan realizar aportaciones valiosas a las sesiones del Consejo. Las decisiones del Consejo se tomarán por mayoría simple de votos, en caso de empate, el Presidente del Consejo tendrá voto de calidad.
 
 ###### Artículo 9.
 
@@ -379,13 +395,17 @@ Para el otorgamiento de incentivos conforme a la presente Ley, se tomará en con
 
 I. El impacto económico, entendiéndose por éste un análisis del gasto de la empresa en pago de nóminas, en proveeduría en el Estado, impuestos, adquisición de bienes inmuebles y/o arrendamiento;
 
-II. La ubicación geográfica del proyecto, entendiéndose por esta la Región Centro, Región Citrícola, Región Norte, Región Periférica y Sur;
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2020)</small>
 
-III. El impacto en innovación y tecnología, entendiéndose por éste la generación de propiedad intelectual en el Estado, instalación de centros de diseño e investigación o similares, así como la instalación de tecnologías para el cuidado del medio ambiente;
+II. La generación de empleos para los habitantes del estado de Nuevo León, entendiéndose esta como la cifra absoluta de población del Estado ocupada que desempeña una actividad formal y remunerada con base en la legislación aplicable;
 
-IV. El impacto ambiental, entendiéndose por el uso de tecnologías más limpias que permitan la protección y el mejoramiento del medio ambiente; y
+III. La ubicación geográfica del proyecto, entendiéndose por esta la Región Centro, Región Citrícola, Región Norte, Región Periférica y Sur;
 
-V. Los demás que se establezcan en el reglamento de la Ley.
+IV. El impacto en innovación y tecnología, entendiéndose por éste la generación de propiedad intelectual en el Estado, instalación de centros de diseño e investigación o similares, así como la instalación de tecnologías para el cuidado del medio ambiente;
+
+V. El impacto ambiental, entendiéndose por el uso de tecnologías más limpias que permitan la protección y el mejoramiento del medio ambiente; y
+
+VI. Los demás que se establezcan en el reglamento de la Ley.
 
 En el reglamento de la Ley se establecerán los criterios de ponderación de las fracciones descritas en el presente artículo.
 
@@ -600,3 +620,11 @@ P.O. 7 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 132. SE ADICIONA UN ARTÍCULO 21 BIS A LA LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 166 SE REFORMA LA LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- El actual Consejo de Desarrollo Económico deberá establecer los criterios a tomar en cuenta para elegir qué cámaras empresariales y universidades de la entidad podrán participar activa y permanentemente en el Consejo.
