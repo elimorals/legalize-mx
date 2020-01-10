@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2019-07-12"
+last_updated: "2020-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -113,7 +113,17 @@ XI. Ley. La presente Ley de los Derechos de las Personas Adultas Mayores del Est
 
 XII. Municipios. Los del Estado de Coahuila de Zaragoza.
 
-XIII. Personas adultas mayores. Toda persona que cuente con sesenta años o más de edad y que, por cualquier motivo, se encuentre domiciliada o en tránsito en el territorio del Estado, sea cual fuere su condición física o mental.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
+
+XIII. Personas adultas mayores. Toda persona que cuente con sesenta años o más de edad y que, por cualquier motivo, se encuentre domiciliada o en tránsito en el territorio del Estado, sea cual fuere su condición física o mental, pudiéndose encontrar en las siguientes condiciones:
+
+a) Independientes: cuando sean totalmente aptas para desarrollar actividades físicas, mentales o ambas sin ayuda permanente.
+
+b) Semi dependiente: cuando sus condiciones físicas y mentales aún les permitan valerse por sí mismas, aunque requieran ayuda permanente parcial o representación de terceros.
+
+c) Dependientes absolutos: cuando sufran de una enfermedad crónica o degenerativa por la que les imposibilite valerse por sí mismos y además requieran ayuda permanente total o la canalización a alguna institución de asistencia.
+
+e) (sic) En situación de riesgo o desamparo: cuando por problemas de salud, abandono, carencia de apoyos económicos, familiares, contingencias ambientales o desastres naturales, requieran de asistencia y protección de las autoridades estatales, municipales y/o de la sociedad civil organizada.
 
 XIV. Perspectiva de Género. Las políticas, programas y acciones cuyo propósito es la promoción y generación de condiciones de igualdad y equidad de oportunidades entre las personas.
 
@@ -122,6 +132,54 @@ XV. Tanatología. Los estudios encaminados a procurar una muerte digna con cuida
 > <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2018)</small>
 
 XVI. Abandono. La falta de acción deliberada o no para atender de manera integral las necesidades de una persona mayor que ponga en peligro su vida o su integridad física, psíquica o moral.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2020)</small>
+
+XVII. Convivencia Familiar: ambiente paz, respeto, comprensión y cooperación que nace entre los familiares de la persona adulto (sic) mayor, con el fin único de que la persona adulta mayor ejerza su derecho de vivir en familia.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2020)</small>
+
+XVIII. Familia: Los parientes de las personas adultas mayores por afinidad o consanguinidad, atendiendo a lo dispuesto por las reglas de parentesco estipuladas en las leyes familiares y civiles vigentes en el Estado, así como el matrimonio, pacto civil de solidaridad, concubinato, sociedad de convivencia, o cualquier otra similar.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2020)</small>
+
+XIX. Destitución familiar: Tratamiento de indiferencia o franca hostilidad como expresión de molestia hacia las personas mayores
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2020)</small>
+
+XX. Desarraigo familiar: Es la negativa de cuidar a la persona mayor y que deriva en su rotación por los diferentes domicilios de hijas e hijos o la institucionalización forzosa;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2020)</small>
+
+XXI. Violencia contra las Personas Adultas Mayores: Cualquier acción u omisión que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+Art. 5 bis. Los tipos de violencia contra las Personas Adultas Mayores son:
+
+I. La violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, destitución familiar, desarraigo familiar, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+II. La violencia física. Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas;
+
+III. La violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima; hecha excepción de que medie acto de autoridad fundado o motivado. Incluye también la manipulación o abuso de su condición física o necesidades afectivas para apropiarse de sus bienes.
+
+IV. La violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+V. La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder.
+
+VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertas (sic) de las personas adultas mayores.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+Articulo 5 ter. Las modalidades de la violencia contra las personas adultas mayores son:
+
+I. Violencia en el ámbito familiar: Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir a la persona adulta mayor, mediante la realización de uno o varios tipos de violencia, dentro o fuera del domicilio familiar, cuando la persona agresora tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación afectiva o de hecho;
+
+II. Violencia en el ámbito institucional: Son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno, que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las personas adultas mayores, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia. Incluye la negación a recibir tratamientos médicos, créditos, trabajo o educación por razones de edad.
+
+III. Violencia en la comunidad: Son los actos individuales o colectivos que transgreden o menoscaban los derechos fundamentales de las personas adultas mayores, propiciando su denigración, discriminación, marginación o exclusión en cualquier ámbito;
+
+IV. Violencia en instituciones de cuidado prolongado o larga estadía: Son los actos u omisiones de las personas que laboral (sic) en centros o establecimientos, públicos o privados, que brindan atención y cuidado prologado (sic) a las personas adultas mayores que residen en ellos, que impliquen cualquier clase de violencia, abuso, negligencia o discriminación dirigida hacia la persona adulta mayores, así como el empleo de métodos de coerción o restricción que atenten contra su intimidad, dignidad y autonomía en la toma de decisiones.
 
 ###### Artículo 6.
 
@@ -145,7 +203,9 @@ VI. Generar nuevas formas de relación intergeneracional en la que el respeto, l
 
 VII. Impulsar las políticas asistenciales y culturales dirigidas hacia las personas adultas mayores.
 
-VIII. Fomentar patrones socioculturales que, en el marco del respeto y dignificación de las personas adultas mayores, eviten la discriminación.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
+
+VIII. Fomentar patrones socioculturales que, en el marco del respeto y dignificación de las personas adultas mayores, eviten la discriminación y a su vez aporten constantemente para la integración y la adaptación a una sociedad moderna.
 
 IX. Promover la asignación de recursos por parte del Estado y de los Municipios para la implementación e instrumentación de programas.
 
@@ -186,6 +246,14 @@ IV. La corresponsabilidad. La concurrencia y responsabilidad compartida entre lo
 V. La atención preferente. A la que todas las instituciones del Estado y de los Municipios de la entidad y los sectores social y privado están obligados a proporcionar e implementar dentro de los programas que elaboren acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores.
 
 VI. La dignificación y el respeto. Que habrán de orientar y dirigir los planes y programas gubernamentales, así como las acciones que emprendan a favor de las personas adultas mayores las organizaciones sociales y privadas.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2020)</small>
+
+VIII (SIC). Dignidad Humana. Es un valor supremo que reconoce la calidad única y excepcional a todo ser humano por el simple hecho de serlo, del cual se desprenden todos los derechos necesarios para que las personas adultas mayores desarrollen integralmente su personalidad.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2020)</small>
+
+IX. La progresividad. Es la obligación positiva del Estado de promover los derechos de las personas de la tercera edad de manera progresiva y gradual, de forma tal que se garantice el incremento en el grado de tutela, respeto y protección de los derechos.
 
 #### SECCIÓN SEGUNDA. LOS DERECHOS Y OBLIGACIONES DE LAS PERSONAS ADULTAS MAYORES
 
@@ -537,9 +605,9 @@ IX. Llevar un registro de las visitas que le hagan los familiares a la persona a
 
 En todo momento las instituciones públicas, privadas y sociales deberán garantizar y observar el total e irrestricto respeto a los derechos de las personas adultas mayores que esta Ley les consagra y deberán contar con personal que posea vocación, capacidad y conocimientos orientados a la atención de éstas.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2020)</small>
 
-Así mismo, y con el propósito de brindar una mejor atención a la persona adulta mayor, el Instituto podrá establecer los mecanismos necesarios para brindar una vigilancia periódica a las instituciones anteriormente aludidas.
+Así mismo, y con el propósito de brindar una mejor atención a la persona adulta mayor, el Instituto deberá realizar visitas de inspección y vigilancia a instituciones públicas y privadas, casas hogar, albergues, residencias de día o cualquier centro de atención a las personas adultas mayores para verificar las condiciones de funcionamiento, capacitación de su personal, modelo de atención y condiciones de calidad de vida, debiendo a la vez hacer del conocimiento de las autoridades competentes las anomalías que en su caso se detecten durante las visitas realizadas; podrá también hacer del conocimiento público dichas anomalías.
 
 #### SECCIÓN SEGUNDA. LOS DEBERES DE LA FAMILIA
 
@@ -1534,3 +1602,11 @@ P.O. 12 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 318.- SE REFORMAN LOS ARTÍCULOS 8 BIS Y 10 FRACCIÓN III NUMERAL 7 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 432.- SE REFORMAN LOS ARTÍCULOS 5, 6, 9 Y 26 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
