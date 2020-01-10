@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2019-12-20"
+last_updated: "2020-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -1584,6 +1584,10 @@ XI. Hacer conjuntamente con el Síndico, las gestiones oportunas en los asuntos 
 XII. Intervenir en las operaciones de crédito público municipal y en los actos y contratos de los que resulten derechos y obligaciones de carácter económico para el municipio.
 
 XIII. Intervenir en los juicios de carácter fiscal o en cualquier otro procedimiento que se ventile ante los tribunales, cuando tenga interés la Hacienda Pública Municipal.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+Realizar propuestas de conciliación y celebrar convenios dentro del juicio contencioso administrativo sumario en los términos de la Ley de Procedimiento Contencioso Administrativo para el Estado de Coahuila de Zaragoza.
 
 XIV. Resolver los recursos administrativos que sean promovidos en contra de las resoluciones que determinen créditos fiscales, o bien que impongan una sanción por incumplimiento a una disposición reglamentaria en materia de su competencia.
 
@@ -4868,3 +4872,27 @@ P.O. 20 DE DICIEMBRE DE 2019.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; y
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 10 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 400.- SE REFORMAN LAS FRACCIONES II Y X DEL 46, Y LA DENOMINACIÓN DEL CAPÍTULO V; SE ADICIONAN LOS ARTÍCULOS 1 BIS, UN SEGUNDO PÁRRAFO AL ARTÍCULO 4, EL CAPÍTULO XIV CON LOS ARTÍCULOS 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114 Y 115; EL CAPÍTULO XV CON LOS ARTÍCULOS 116, 117, 118, 119 Y 120; EL CAPÍTULO XVI CON LOS ARTÍCULOS 121, 122, 123, 124, 125, 126, Y 127, DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICA EL PÁRRAFO TERCERO DEL ARTÍCULO 67 Y SE ADICIONA EL ARTÍCULO 38 BIS, DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XIII DEL ARTÍCULO 129, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y SE REFORMAN (SIC) EL PRIMER PÁRRAFO DEL ARTÍCULO 383 Y SE ADICIONA UN ARTÍCULO 413 BIS, DEL CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- La regulación referente al trámite del Juicio Contencioso Administrativo Sumario en Línea, entrará en vigor sesenta días después de la fecha en que el Pleno de la Sala Superior del Tribunal de Justicia Administrativa de Coahuila de Zaragoza emita los Acuerdos Generales respectivos.
+
+CUARTO.- Las Autoridades Estatales y Municipales emisoras de actos impugnables ante el Tribunal de Justicia Administrativa de Coahuila de Zaragoza, dentro del plazo de 60 días hábiles, contados a partir de la entrada en vigor del presente decreto, deberán adecuar su normatividad para celebrar convenios conciliatorios que pongan fin al procedimiento, conforme a lo previsto en este mismo decreto.
+
+QUINTO.- Las Autoridades Estatales y Municipales que, dentro de sus atribuciones puedan emitir actos impugnables de competencia para el conocimiento del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, deberán de registrar las firmas electrónicas de los Servidores Públicos en su calidad de representantes y autorizados, señalando el alcance y límites de su intervención en los trámites jurisdiccionales ante dicho Tribunal y señalar el tipo de usuarios para acceder a los expedientes electrónicos, en un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del mismo.
+
+SEXTO.- El funcionamiento del sistema de juicio en línea iniciará para las entidades municipales de la siguiente manera:
+
+a) 60 días posteriores a la emisión de los Acuerdos Generales a que a que (sic) se refiere el Tercero Transitorio por lo que hace a las autoridades municipales de Saltillo, Torreón, Monclova y Piedras Negras.
+
+b) 120 días posteriores a la emisión de los Acuerdos Generales a que a que (sic) se refiere el Tercero Transitorio por lo que hace a las autoridades municipales de Acuña, Ramos Arizpe, Parras, Sabinas, San Juan de Sabinas, Castaños y Frontera.
+
+c) 180 días posteriores a la emisión de los Acuerdos Generales a que a que (sic) se refiere el Tercero Transitorio por lo que hace a las autoridades municipales del resto de los municipios del Estado.
+
+SÉPTIMO.- Se derogan todas las disposiciones que se opongan a este decreto.
