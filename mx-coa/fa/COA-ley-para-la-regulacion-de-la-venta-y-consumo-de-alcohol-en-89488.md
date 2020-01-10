@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-regulacion-de-la-venta-y-consumo-de-alcohol-en-8948
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-18"
-last_updated: "2019-07-05"
+last_updated: "2020-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Coahuila, el martes 18 de septiembre de 2012.
 
@@ -52,6 +52,14 @@ I. Prevenir y combatir el abuso en el consumo de bebidas alcohólicas;
 II. Regular la venta, consumo y almacenaje de bebidas alcohólicas en el Estado de Coahuila de Zaragoza realizadas por personas físicas o morales, mediante el establecimiento de horarios y el otorgamiento, refrendo y revocación de las licencias o permisos correspondientes, y
 
 III. Promover campañas de difusión encaminadas a prevenir y combatir el abuso en el consumo de bebidas alcohólicas.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2020)</small>
+
+IV. Impulsar acciones para prevenir accidentes viales por causa de consumo de bebidas alcohólicas.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2020)</small>
+
+V. Estimular la participación de la ciudadanía mediante la práctica de conductor designado.
 
 Ámbito de aplicación
 
@@ -83,7 +91,7 @@ IV. Cabaret: Establecimientos en donde se expenden bebidas alcohólicas en envas
 
 V. Círculo social, club social, deportivo y semejantes: Establecimiento de acceso exclusivo para socios e invitados en los que se expenden y se sirven bebidas alcohólicas para su consumo dentro del mismo;
 
-VI. Casino: casa o centro de apuestas o lugares donde se practican juegos de azar, cualquiera que sea su denominación, con excepción de los palenques;
+VI. (DEROGADA, P.O. 10 DE ENERO DE 2020)
 
 VII. Centros de espectáculos deportivos o recreativos: Establecimientos que ofrecen al público eventos deportivos, musicales y otros, tales como estadios, lienzos charros, plazas de toros, arenas de box y lucha libre, balnearios y otros, en los cuales pueden vender cerveza en recipientes que no sean de vidrio;
 
@@ -91,63 +99,67 @@ VIII. Certificación: Licencia que emiten los municipios conforme a lo estableci
 
 IX. Cervecería: Establecimientos en el (sic) que de manera exclusiva se vende cerveza, tanto envasada como de barril para su consumo inmediato dentro del local;
 
-X. Consumo: La ingestión de bebidas alcohólicas en los establecimientos y lugares autorizados o no, en los términos de la presente ley;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 2020)</small>
 
-XI. Depósito de cerveza: Expendios de cerveza que se dedican a la venta de este producto en bote o botella debidamente cerrado para su consumo fuera de dichos establecimientos;
+X. Conductor designado: Persona libre de alcohol, designada para conducir un vehículo con el propósito de transportar a una u otras personas que hayan consumido bebidas alcohólicas.
 
-XII. Discoteca bar: Establecimientos exclusivos para baile, con venta de bebidas al copeo o en botella para ser consumidas dentro de los mismos;
+XI. Consumo: La ingestión de bebidas alcohólicas en los establecimientos y lugares autorizados o no, en los términos de la presente ley;
 
-XIII. Distribuidor de cerveza: Agencias que se dedican a la distribución de cerveza en bote o botella cerrada, ya sea de origen nacional o importada;
+XII. Depósito de cerveza: Expendios de cerveza que se dedican a la venta de este producto en bote o botella debidamente cerrado para su consumo fuera de dichos establecimientos;
 
-XIV. Estado: El Estado de Coahuila de Zaragoza;
+XIII. Discoteca bar: Establecimientos exclusivos para baile, con venta de bebidas al copeo o en botella para ser consumidas dentro de los mismos;
 
-XV. Expendio de vinos y licores: Establecimientos en donde se venden de manera preponderante vinos, licores y cerveza en cualquier presentación, en recipientes debidamente cerrados para su consumo fuera de los mismos;
+XIV. Distribuidor de cerveza: Agencias que se dedican a la distribución de cerveza en bote o botella cerrada, ya sea de origen nacional o importada;
 
-XVI. Giro: Característica comercial del local o establecimiento para el que se expida la licencia;
+XV. Estado: El Estado de Coahuila de Zaragoza;
 
-XVII. Hotel y motel: Establecimiento que ofrece al público renta de habitaciones y en sus instalaciones pueden destinar áreas para restaurante, bar, cafetería o salones de eventos, en los cuales se expenden bebidas alcohólicas en envase abierto o al copeo para su consumo en el interior. En sus habitaciones pueden tener servicio de servi-bar;
+XVI. Expendio de vinos y licores: Establecimientos en donde se venden de manera preponderante vinos, licores y cerveza en cualquier presentación, en recipientes debidamente cerrados para su consumo fuera de los mismos;
+
+XVII. Giro: Característica comercial del local o establecimiento para el que se expida la licencia;
+
+XVIII. Hotel y motel: Establecimiento que ofrece al público renta de habitaciones y en sus instalaciones pueden destinar áreas para restaurante, bar, cafetería o salones de eventos, en los cuales se expenden bebidas alcohólicas en envase abierto o al copeo para su consumo en el interior. En sus habitaciones pueden tener servicio de servi-bar;
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XVIII. Ladies bar: Establecimiento donde se expenden bebidas alcohólicas para su consumo inmediato, pudiendo contar con espacio destinado para bailar y servicio completo de restaurant;
+XIX. Ladies bar: Establecimiento donde se expenden bebidas alcohólicas para su consumo inmediato, pudiendo contar con espacio destinado para bailar y servicio completo de restaurant;
 
-XIX. Ley: La Ley para la Regulación de Venta y Consumo de Alcohol en el Estado de Coahuila de Zaragoza;
+XX. Ley: La Ley para la Regulación de Venta y Consumo de Alcohol en el Estado de Coahuila de Zaragoza;
 
-XX. Licencia: Autorización que emite la Secretaría de Finanzas del Estado de Coahuila de Zaragoza para la operación de aquellos establecimientos en que se vendan o consuman bebidas alcohólicas de conformidad con los requisitos y procedimientos establecidos en la presente ley;
+XXI. Licencia: Autorización que emite la Secretaría de Finanzas del Estado de Coahuila de Zaragoza para la operación de aquellos establecimientos en que se vendan o consuman bebidas alcohólicas de conformidad con los requisitos y procedimientos establecidos en la presente ley;
 
-XXI. Miscelánea y tienda de abarrotes: Establecimiento donde se venden productos comestibles, no comestibles, de higiene personal y de aseo para el hogar a granel, envasados, empaquetados, etiquetados y con envoltura, sin renta de máquinas de videojuegos; con venta exclusivamente de cerveza y únicamente en botella cerrada;
+XXII. Miscelánea y tienda de abarrotes: Establecimiento donde se venden productos comestibles, no comestibles, de higiene personal y de aseo para el hogar a granel, envasados, empaquetados, etiquetados y con envoltura, sin renta de máquinas de videojuegos; con venta exclusivamente de cerveza y únicamente en botella cerrada;
 
-XXII. Permiso especial: Documento expedido por la Secretaría de Finanzas del Estado de Coahuila de Zaragoza, con carácter provisional, hasta por treinta días naturales improrrogables, a personas físicas o morales, para llevar a cabo la venta al menudeo de bebidas alcohólicas en envase abierto y al copeo, en lugar determinado, el cual puede ser revocado por violaciones a esta ley o a otros ordenamientos aplicables o porque así lo requiera el interés público;
+XXIII. Permiso especial: Documento expedido por la Secretaría de Finanzas del Estado de Coahuila de Zaragoza, con carácter provisional, hasta por treinta días naturales improrrogables, a personas físicas o morales, para llevar a cabo la venta al menudeo de bebidas alcohólicas en envase abierto y al copeo, en lugar determinado, el cual puede ser revocado por violaciones a esta ley o a otros ordenamientos aplicables o porque así lo requiera el interés público;
 
 > <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2018)</small>
 
-XXIII. Fiscalía General: La Fiscalía General del Estado de Coahuila de Zaragoza;
+XXIV. Fiscalía General: La Fiscalía General del Estado de Coahuila de Zaragoza;
 
-XXIV. Refrendo: Acto administrativo emitido por la Secretaría de Finanzas del Estado de Coahuila de Zaragoza, mediante el cual se prorroga la vigencia de las licencias expedidas, por el término de un año;
+XXV. Refrendo: Acto administrativo emitido por la Secretaría de Finanzas del Estado de Coahuila de Zaragoza, mediante el cual se prorroga la vigencia de las licencias expedidas, por el término de un año;
 
-XXV. Reglamento: El reglamento de la Ley para la Regulación de Venta y Consumo de Alcohol en el Estado de Coahuila de Zaragoza;
+XXVI. Reglamento: El reglamento de la Ley para la Regulación de Venta y Consumo de Alcohol en el Estado de Coahuila de Zaragoza;
 
-XXVI. Reglamento municipal: El que expidan los municipios del estado de Coahuila de Zaragoza, para proveer la aplicación y observancia de la presente ley en la circunscripción territorial que les corresponda;
+XXVII. Reglamento municipal: El que expidan los municipios del estado de Coahuila de Zaragoza, para proveer la aplicación y observancia de la presente ley en la circunscripción territorial que les corresponda;
 
-XXVII. Regularización de licencia: Modificaciones efectuadas por la Secretaría de Finanzas del Estado de Coahuila de Zaragoza a las licencias otorgadas, previa solicitud del interesado, una vez cubiertos los requisitos procedentes que señale la presente ley y demás disposiciones aplicables;
+XXVIII. Regularización de licencia: Modificaciones efectuadas por la Secretaría de Finanzas del Estado de Coahuila de Zaragoza a las licencias otorgadas, previa solicitud del interesado, una vez cubiertos los requisitos procedentes que señale la presente ley y demás disposiciones aplicables;
 
-XXVIII. Restaurant bar: Establecimientos que comercializan bebidas alcohólicas al copeo o en botella acompañadas de alimentos o sin ellos para ser consumidas dentro de los mismos;
+XXIX. Restaurant bar: Establecimientos que comercializan bebidas alcohólicas al copeo o en botella acompañadas de alimentos o sin ellos para ser consumidas dentro de los mismos;
 
-XXIX. Restaurantes: Establecimientos dedicados preponderantemente a la venta de alimentos en donde se ofrezcan bebidas alcohólicas al copeo o en botella para su consumo inmediato dentro de los mismos y únicamente acompañados de alimentos;
+XXX. Restaurantes: Establecimientos dedicados preponderantemente a la venta de alimentos en donde se ofrezcan bebidas alcohólicas al copeo o en botella para su consumo inmediato dentro de los mismos y únicamente acompañados de alimentos;
 
-XXX. Revocación: Acto administrativo público, debidamente fundado y motivado de manera suficiente, clara y precisa, que declara extinguidos los derechos que se desprenden de las licencias, cuando así lo exija el interés público o cuando se contravenga la presente ley;
+XXXI. Revocación: Acto administrativo público, debidamente fundado y motivado de manera suficiente, clara y precisa, que declara extinguidos los derechos que se desprenden de las licencias, cuando así lo exija el interés público o cuando se contravenga la presente ley;
 
-XXXI. Secretaría de Educación: La Secretaria de Educación del Estado de Coahuila de Zaragoza;
+XXXII. Secretaría de Educación: La Secretaria de Educación del Estado de Coahuila de Zaragoza;
 
-XXXII. Secretaría de Salud: La Secretaría de Salud del Estado de Coahuila de Zaragoza;
+XXXIII. Secretaría de Salud: La Secretaría de Salud del Estado de Coahuila de Zaragoza;
 
-XXXIII. Secretaría de Finanzas: La Secretaría de Finanzas del Estado de Coahuila de Zaragoza;
+XXXIV. Secretaría de Finanzas: La Secretaría de Finanzas del Estado de Coahuila de Zaragoza;
 
-XXXIV. Secretaría de Gobierno: La Secretaría de Gobierno del Estado de Coahuila de Zaragoza;
+XXXV. Secretaría de Gobierno: La Secretaría de Gobierno del Estado de Coahuila de Zaragoza;
 
-XXXV. Supermercados: Establecimientos cuya actividad comercial es la venta de comestibles, alimentos perecederos e imperecederos, embutidos, lácteos o marinos, artículos de consumo básico de uso doméstico y otra clase de mercancías, dentro de las cuales se incluyen, de manera complementaria, la venta de vinos, licores y cerveza en cualquier presentación, en recipientes debidamente cerrados para su consumo fuera de los mismos; y
+XXXVI. Supermercados: Establecimientos cuya actividad comercial es la venta de comestibles, alimentos perecederos e imperecederos, embutidos, lácteos o marinos, artículos de consumo básico de uso doméstico y otra clase de mercancías, dentro de las cuales se incluyen, de manera complementaria, la venta de vinos, licores y cerveza en cualquier presentación, en recipientes debidamente cerrados para su consumo fuera de los mismos; y
 
-XXXVI. Venta: Comercialización de bebidas alcohólicas.
+XXXVII. Venta: Comercialización de bebidas alcohólicas.
 
 Comercialización
 
@@ -170,6 +182,18 @@ Autorización
 ###### ARTÍCULO 6.
 
 Únicamente podrán realizar actividades de venta o expendio de bebidas alcohólicas, aquellas personas o establecimientos que cuenten con la debida licencia o permiso especial expedido por la Secretaría de Finanzas, previo cumplimiento de los requisitos previstos en esta ley, su reglamento y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+Los propietarios de establecimientos donde se expenden bebidas alcohólicas para su consumo inmediato, impulsarán la práctica del conductor designado, ofreciéndole en la medida de sus posibilidades beneficios para quien permanezca en el establecimiento como el consumo libre de bebidas no alcohólicas.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+En dichos establecimientos, difundirán y exhortarán a los consumidores a no manejar bajo el influjo de bebidas alcohólicas; además deberán contar con un alcoholímetro y en el caso en el que observe a personas notoriamente alcoholizados (sic), deberá ofrecerle llamar un servicio de transporte particular o un familiar, invitándolo a no conducir en ese estado.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+A quienes decidan sujetarse a la figura del conductor designado, al ingresar a aquellos establecimientos donde se expendan bebidas alcohólicas, se les podrá colocar una cinta de plástico inviolable con la finalidad de que se le identifique y poder gozar, en su caso, de aquellos beneficios que sean previamente autorizados por el establecimiento.
 
 ### CAPÍTULO SEGUNDO. AUTORIDADES COMPETENTES
 
@@ -1063,7 +1087,7 @@ XVI. Las demás que establezca esta ley, su reglamento y otras disposiciones leg
 
 En los establecimientos o lugares que se vendan o consuman bebidas alcohólicas queda estrictamente prohibida la presentación de espectáculos con personas desnudas o semidesnudas o en los que la vestimenta de los participantes permita al espectador ver en todo o en parte los órganos reproductores externos o la región genital y además, en el caso de las mujeres los senos.
 
-En los establecimientos conocidos como casinos, centros o casas de apuestas o de juegos de azar, cualquiera que sea su denominación, queda estrictamente prohibida la venta y consumo, aún a título gratuito, de bebidas alcohólicas.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 10 DE ENERO DE 2020)</small>
 
 Observancia de la ley
 
@@ -1448,3 +1472,11 @@ P.O. 5 DE JULIO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 414.- SE REFORMAN LA FRACCIÓN X DEL ARTÍCULO 4 RECORRIÉNDOSE LAS ULTERIORES; SE ADICIONAN LAS FRACCIONES IV Y V AL ARTÍCULO 1, LA FRACCIÓN X, UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO (SIC); Y SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 4 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 65 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Primero.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+Segundo.- Se derogan (sic) cualquier disposición contraria al presente Decreto.
