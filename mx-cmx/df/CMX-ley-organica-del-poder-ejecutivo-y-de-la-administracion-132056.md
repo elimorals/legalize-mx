@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-poder-ejecutivo-y-de-la-administracion-132056"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-13"
-last_updated: "2018-12-13"
+last_updated: "2020-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132056&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-13"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE ENERO DE 2020.
 
 Ley publicada en el Número 471 Bis en la Gaceta Oficial de la Ciudad de México, el jueves 13 de diciembre de 2018.
 
@@ -602,11 +602,17 @@ XLI. Administrar los bienes muebles e inmuebles propiedad o en resguardo de la C
 
 XLII. Administrar los recursos provenientes de las enajenaciones, permisos administrativos temporales revocables, así como de los provenientes del pago sustituto por la transmisión a título gratuito por la constitución de un conjunto habitacional, de oficinas y comercio, o de cualquier otro uso en una superficie de terreno mayor a 5,000 metros cuadrados en suelo urbano, con la finalidad de adquirir reserva territorial, para lo cual creará un fondo específico;
 
-XLIII. Emitir de manera conjunta con la o las Alcaldías de que se trate, la o las declaratorias de protección del patrimonio de la Ciudad;
+> <small>(REFORMADA, G.O. 10 DE ENERO DE 2020)</small>
 
-XLIV. En coordinación con las Alcaldías y el Gobierno Federal, establecer un registro y catalogación del patrimonio histórico, cultural, inmaterial y material, natural, rural y urbano territorial, conforme lo establecido en la normatividad de la materia;
+XLIII. Proteger de manera conjunta con las Dependencias, Órganos Desconcentrados, Entidades y la o las Alcaldías de que se trate, el patrimonio inmobiliario propiedad de la Ciudad;
 
-XLV. Promover y apoyar la participación de organismos, organizaciones sociales, vecinales, instituciones educativas, culturales y de especialistas, en la preservación, protección, conservación, revalorización, restauración, gestión, uso sustentable, disfrute y demás actividades relativas al patrimonio;
+> <small>(REFORMADA, G.O. 10 DE ENERO DE 2020)</small>
+
+XLIV. En coordinación con las Alcaldías y el Gobierno Federal, establecer un registro del patrimonio inmobiliario propiedad de la Ciudad;
+
+> <small>(REFORMADA, G.O. 10 DE ENERO DE 2020)</small>
+
+XLV. Promover y apoyar la participación de organismos, organizaciones sociales, vecinales, instituciones educativas, culturales y de especialistas, en la preservación, protección, conservación, revalorización, restauración, gestión, uso sustentable, disfrute y demás actividades relativas al patrimonio inmobiliario;
 
 XLVI. Dirigir y coordinar el Sistema de Valuación de Bienes del Gobierno de la Ciudad;
 
@@ -768,7 +774,23 @@ XVI. Estimular la participación de la ciudadanía en la promoción y divulgaci�
 
 XVII. Operar un sistema de información, y sistematización, efectivo y actualizado con el fin de promover de manera oportuna en medios digitales e impresos la oferta y demanda culturales en la Ciudad al público en general; y
 
-XVIII. Las demás que le confieran las leyes y otros ordenamientos jurídicos.
+> <small>(ADICIONADA, G.O. 10 DE ENERO DE 2020)</small>
+
+XVIII. Emitir de manera conjunta con la o las Alcaldías de que se trate, la o las declaratorias de protección del patrimonio cultural;
+
+> <small>(ADICIONADA, G.O. 10 DE ENERO DE 2020)</small>
+
+XIX. En coordinación con las Alcaldías, Dependencias de la Administración Pública del Gobierno de la Ciudad y el Gobierno Federal, establecer un registro y catalogación del patrimonio cultural y natural, conforme lo establecido en la normatividad de la materia;
+
+> <small>(ADICIONADA, G.O. 10 DE ENERO DE 2020)</small>
+
+XX. Promover y apoyar la participación de organismos, organizaciones sociales, vecinales, instituciones educativas, culturales y de especialistas, en la preservación, protección, conservación, revalorización, restauración, gestión, uso sustentable, disfrute y demás actividades relativas al patrimonio cultural;
+
+> <small>(ADICIONADA, G.O. 10 DE ENERO DE 2020)</small>
+
+XXI. Ejecutar, de manera conjunta con las autoridades federales competentes y la Secretaría de Medio Ambiente, la legislación correspondiente para conservar y promover los Sitios, Zonas y Manifestaciones Patrimonio de la Humanidad, de conformidad con el orden jurídico mexicano; y
+
+XXII. Las demás que le confieran las leyes y otros ordenamientos jurídicos.
 
 ###### Artículo 30.
 
@@ -888,7 +910,11 @@ XXV. Elaborar y operar un registro de los instrumentos de planeación del desarr
 
 XXVI. Conducir, normar y ejecutar la política de espacio público en la Ciudad; y
 
-XXVII. Las demás que le atribuyan las leyes y otros ordenamientos.
+> <small>(ADICIONADA, G.O. 10 DE ENERO DE 2020)</small>
+
+XXVII. Proveer a la autoridad competente la información y datos sobre el patrimonio cultural y natural de la ciudad, para su registro; y
+
+XXVIII. Las demás que le atribuyan las leyes y otros ordenamientos.
 
 ###### Artículo 32.
 
@@ -1264,9 +1290,13 @@ XXXI. Establecer, evaluar y determinar, en coordinación con las autoridades com
 
 XXXII. Dictar en coordinación con las Secretarías de Administración y Finanzas; Desarrollo Económico; Trabajo y Fomento al Empleo y demás autoridades competentes, las políticas y lineamientos en materia de sustentabilidad, a efecto de generar las condiciones necesarias para fomentar y, en su caso implementar horarios escalonados de entrada y salida, así como una jornada laboral en el domicilio de los trabajadores en la Ciudad;
 
-XXXIII. Establecer y ejecutar la normatividad correspondiente para conservar y promover las Zonas Patrimonio Mundial de la Humanidad;
+> <small>(REFORMADA, G.O. 10 DE ENERO DE 2020)</small>
 
-XXXIV. Generar, en coordinación con las dependencias competentes, los Servicios de Información del Patrimonio Ambiental y Urbano de la Ciudad;
+XXXIII. Ejecutar, de manera conjunta con las autoridades federales competentes y la Secretaría de Cultura, la legislación correspondiente para conservar y promover los Sitios, Zonas y Manifestaciones Patrimonio de la Humanidad, de conformidad con el orden jurídico mexicano; y
+
+> <small>(REFORMADA, G.O. 10 DE ENERO DE 2020)</small>
+
+XXXIV. Generar, en coordinación con las dependencias competentes, los Servicios de Información Ambiental y Urbana de la Ciudad;
 
 XXXV. Promover, orientar, apoyar y coordinar el desarrollo rural sustentable, en lo relacionado a la productividad rural, y con base en la normatividad aplicable;
 
@@ -1290,7 +1320,15 @@ XLIV. Intervenir en la operación de los fondos que se establezcan para el desar
 
 XLV. Regular y ejercer la política pública ambiental local para el ordenamiento territorial; y
 
-XLVI. Las demás que le atribuyan las leyes y otros ordenamientos jurídicos.
+> <small>(ADICIONADA, G.O. 10 DE ENERO DE 2020)</small>
+
+XLVI. Proveer a la autoridad competente la información y datos sobre el patrimonio natural de la ciudad, para su registro;
+
+> <small>(ADICIONADA, G.O. 10 DE ENERO DE 2020)</small>
+
+XLVII. Promover y apoyar la participación de organismos, organizaciones sociales, vecinales, instituciones educativas, culturales y de especialistas, en la preservación, protección, conservación, revalorización, restauración, gestión, uso sustentable, disfrute y demás actividades relativas al patrimonio natural; y
+
+XLVIII. Las demás que le atribuyan las leyes y otros ordenamientos jurídicos.
 
 ###### Artículo 36.
 
@@ -1480,7 +1518,11 @@ XXII. Impulsar la medicina tradicional y su incorporación al sistema de salud p
 
 XXIII. Establecer en coordinación con los pueblos y barrios originarios y comunidades indígenas residentes los términos de su participación en el órgano consultivo de esta Secretaría; y
 
-XXIV. Las demás que le atribuyan las leyes y otros ordenamientos jurídicos.
+> <small>(ADICIONADA, G.O. 10 DE ENERO DE 2020)</small>
+
+XXIV. Proveer a la autoridad competente la información y datos sobre el patrimonio cultural, natural y biocultural de los pueblos y barrios originarios y comunidades indígenas residentes de la Ciudad de México, para su promoción y registro;
+
+XXV. Las demás que le atribuyan las leyes y otros ordenamientos jurídicos.
 
 ###### Artículo 40.
 
@@ -1620,7 +1662,9 @@ Específicamente cuenta con las siguientes atribuciones:
 
 I. Establecer los programas generales y proyectos en materia de desarrollo económico de la actividad turística, generación de empleo, promoción, fomento turístico, equipamiento urbano turístico, recreación, turismo social, cultural y medio ambiental;
 
-II. Representar, diseñar y promover a través de los programas de promoción y otros instrumentos, la imagen turística, el patrimonio turístico natural y cultural, tangible e intangible; a través de la elaboración y difusión de campañas de publicidad, nacionales e internacionales;
+> <small>(REFORMADA, G.O. 10 DE ENERO DE 2020)</small>
+
+II. Representar, diseñar y promover a través de los programas de promoción y otros instrumentos, la imagen turística, el patrimonio cultural y natural; a través de la elaboración y difusión de campañas de publicidad, locales nacionales e internacionales;
 
 III. Formular y ejecutar los programas de educación, investigación, profesionalización, competencias laborales, formación, capacitación y tutoría, así como actualización de recursos humanos en materia turística;
 
@@ -2269,3 +2313,15 @@ SE EXPIDEN EN LA CIUDAD DE MÉXICO, CON FECHA QUINCE DÍAS DEL MES DE MARZO DEL 
 DIRECTORA DE ESTUDIOS LEGISLATIVOS Y TRÁMITES INMOBILIARIOS
 
 MTRA. IRERI VILLAMAR NAVA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 10 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN: LAS FRACCIONES XLIII, XLIV, XLV DEL ARTÍCULO 27; LAS FRACCIONES XXXIII Y XXXIV DEL ARTÍCULO 35; LA FRACCIÓN II DEL ARTÍCULO 42, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO, SE ADICIONAN: LAS FRACCIONES XVIII, XIX, XX Y XXI DEL ARTÍCULO 29, RECORRIÉNDOSE LA SUBSECUENTE; LA FRACCIÓN XXVII AL ARTÍCULO 31, RECORRIÉNDOSE LA SUBSECUENTE; LAS FRACCIONES XLVI Y XLVII AL ARTÍCULO 35, RECORRIÉNDOSE LA SUBSECUENTE Y LA FRACCIÓN XXIV AL ARTÍCULO 39, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO, RECORRIÉNDOSE LA SUBSECUENTE".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación;
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial.
+
+TERCERO. Para la entrega de la información referida en los artículos 31, fracción XXVII; 35, fracción XLVI y 39, fracción XXIV, se estará a lo previsto en la ley de la materia.
