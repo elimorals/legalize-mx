@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-justicia-alternativa-para-el-estado-de-baja-57613"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-19"
-last_updated: "2015-10-23"
+last_updated: "2020-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO REFORMADO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EN LAS FECHAS Y CONFORME AL ORDEN QUE SE ESTABLECE EN EL MISMO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -553,15 +551,21 @@ IX. Vigilar que los especialistas del Centro, cumplan con sus funciones y, en su
 
 X. Recibir las quejas que se presenten en contra de los especialistas del Centro y aquellos privados, turnándolas al Consejo de la Judicatura para los efectos correspondientes;
 
-XI. Colaborar con los gobiernos municipales en el diseño e implementación de programas de mediación de conflictos vecinales, y
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2015)</small>
+XI. Colaborar con los gobiernos municipales en el diseño e implementación de programas de mediación de conflictos vecinales;
 
-XII. Cuando las necesidades y la carga de trabajo así lo demanden, podrá autorizar al Subdirector o a los Coordinadores de sede u oficina regional, para recibir los convenios que las partes celebren como resultado de los medios alternativos, revisarlos para verificar que reúnen los requisitos legales, hacer saber a las partes los alcances de los mismos y, en su caso, hacer constar su ratificación autorizarlos y elevarlos a categoría de cosa juzgada, cuando se ajusten a los requisitos que establece la ley, y
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2015)</small>
+XII. Cuando las necesidades y la carga de trabajo así lo demanden, podrá autorizar al Subdirector o a los Coordinadores de sede u oficina regional, para recibir los convenios que las partes celebren como resultado de los medios alternativos, revisarlos para verificar que reúnen los requisitos legales, hacer saber a las partes los alcances de los mismos y, en su caso, hacer constar su ratificación, autorizarlos y elevarlos a categoría de cosa juzgada, cuando se ajusten a los requisitos que establece la ley;
 
-XIII. Las demás que señale la Ley y el Reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 2020)</small>
+
+XIII. Certificar la documentación que obre en el archivo de la Dirección Estatal a su cargo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE ENERO DE 2020)</small>
+
+XIV. Las demás que señale la Ley y el Reglamento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -966,3 +970,9 @@ EL DECRETO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELA
 P.O. 23 DE OCTUBRE DE 2015.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 24 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LAS FRACCIONES XI, XII, XIII, ASÍ COMO LA ADICIÓN DE UNA FRACCIÓN XIV AL ARTÍCULO 26 DE LA LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California
