@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-defensoria-publica-para-el-estado-de-nuevo-leon-66949"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-06"
-last_updated: "2016-11-14"
+last_updated: "2020-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DEFENSORÍA PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 6 de febrero de 2009.
 
@@ -191,7 +191,13 @@ El Instituto podrá celebrar convenios de colaboración tanto con personas físi
 
 En particular podrá concertar acuerdos con Instituciones de Educación Superior, por lo que respecta a la prestación de servicios periciales y sociales y particularmente en las diversas especialidades del derecho, criminología, trabajo social y otras disciplinas en los términos y condiciones que establezca el Reglamento de esta Ley. Los peritos de Instituciones Públicas, no cobrarán por los servicios periciales que presten al Instituto en las materias penal, civil, familiar, mercantil y justicia administrativa.
 
-Igualmente, promoverá la concertación de convenios con Colegios y Asociaciones de Abogados, Facultades y Escuelas de Derecho para su colaboración gratuita en la atención de los asuntos propios de su competencia.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2020)</small>
+
+Igualmente, promoverá la concertación de convenios con Colegios y Asociaciones de Abogados, Facultades y Escuelas de Derecho públicas y privadas para su colaboración gratuita en la atención de los asuntos propios de su competencia. Así como para promover la participación de estudiantes de la licenciatura en Derecho o en Ciencias Jurídicas en los servicios de Defensoría Pública a fin de prestar su servicio social.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+Los servicios que se realicen por prestadores de servicio social en todo momento estarán supervisados por un defensor público.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
 
@@ -810,3 +816,9 @@ P.O. 14 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 166. SE REFORMA POR MODIFICACIÓN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 11 DE LA LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 213. SE REFORMA EL PÁRRAFO TERCERO Y SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 11 DE LA LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el periódico Oficial del Estado de Nuevo León.
