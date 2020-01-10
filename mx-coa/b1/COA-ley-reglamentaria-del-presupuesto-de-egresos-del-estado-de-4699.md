@@ -4,7 +4,7 @@ identifier: "COA-ley-reglamentaria-del-presupuesto-de-egresos-del-estado-de-4699
 country: "mx"
 rank: "ley"
 publication_date: "1975-07-02"
-last_updated: "2016-10-21"
+last_updated: "2020-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY REGLAMENTARIA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 2 de julio de 1975.
 
@@ -57,9 +57,9 @@ El Presupuesto de Egresos del Estado se deberá elaborar conforme a lo estableci
 
 Se entiende por Presupuesto de Egresos del Estado, la ley expedida por la Legislatura Local, a iniciativa del Ejecutivo, en la que se contienen las previsiones financieras para sufragar el gasto público a cargo del Gobierno del Estado, durante el año fiscal que corresponda.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2020)</small>
 
-El gasto público se administrará conforme a los principios y criterios de legalidad, honestidad, austeridad, eficiencia, eficacia, economía, racionalidad, resultados, transparencia, control, equilibrio presupuestal y rendición de cuentas, con una perspectiva de derechos humanos, de igualdad de género y de no discriminación.
+El gasto público se administrará conforme a los principios y criterios de legalidad, honestidad, imparcialidad, austeridad, eficiencia, eficacia, economía, racionalidad, resultados, transparencia, control, equilibrio presupuestal, interés público y social y rendición de cuentas, con una perspectiva de derechos humanos, de igualdad de género y de no discriminación.
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -776,3 +776,11 @@ El porcentaje a que hace referencia el artículo 39-A de la Ley Reglamentaria de
 ###### ARTÍCULO OCTAVO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 415.- SE REFORMA EL CONTENIDO DEL PÁRRAFO CUARTO DEL ARTÍCULO 1° DE LA LEY REGLAMENTARIA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE COAHUILA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
