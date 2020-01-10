@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2019-01-18"
+last_updated: "2020-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -447,15 +447,27 @@ De la División Territorial del Estado.- El territorio del Estado de Baja Califo
 
 Las controversias que se susciten respecto de los límites territoriales, entre dos o más Municipios, serán resueltas por el Congreso del Estado, de conformidad a lo previsto en la Constitución Política del Estado de Baja California, modificando en su caso, el Estatuto Territorial de los Municipios del Estado de Baja California.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2020)</small>
+
 ###### ARTÍCULO 27.
 
-De la Creación o Supresión de Municipios.- Para la creación o supresión de un Municipio, el Congreso del Estado procederá de la siguiente forma:
+De la creación o Supresión de Municipios.- Para la creación o supresión de un Municipio, el Congreso del Estado procederá de la siguiente forma:
 
-I.- El procedimiento se iniciará mediante solicitud expresa de los ciudadanos vecinos de la demarcación territorial que se proponga para conformar o suprimir un Municipio, suscrita en el porcentaje requerido por la Ley de la materia para la procedencia del plebiscito;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
 
-II.- El Congreso del Estado conformará una comisión de Diputados encargada de revisar la autenticidad y los contenidos de la documentación presentada, solicitar los dictámenes de viabilidad correspondientes y aprobar o desechar la solicitud planteada, debiendo en todo caso fundar y motivar su resolución;
+I.- El procedimiento se iniciará mediante solicitud expresa de los ciudadanos vecinos de la demarcación territorial que se proponga para conformar o suprimir un Municipio, o bien por los Diputados, el Gobernador o los Ayuntamientos.
 
-III.- De resultar procedente la petición, se procederá a realizar el plebiscito correspondiente, conforme a la Ley de la materia;
+En caso de que la solicitud provenga de los ciudadanos, ésta deberá cubrir el porcentaje requerido por la Ley de la materia para la procedencia del plebiscito.
+
+Cuando la solicitud para conformar o suprimir un Municipio sea realizada por los Diputados, el Gobernador o los Ayuntamientos, se procederá conforme lo previsto en la fracción II del presente artículo;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
+
+II.- En todos los casos, el Congreso del Estado conformará una comisión de Diputados encargada de revisar la autenticidad y los contenidos de la documentación presentada, solicitará los dictámenes de viabilidad correspondientes y con base en los mismos, aprobará o desechará la solicitud planteada, debiendo en todo caso fundar y motivar su resolución;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
+
+III.- De resultar procedente la petición, se procederá a realizar el plebiscito correspondiente dentro de la demarcación territorial que se proponga para conformar o suprimir un Municipio, conforme a la Ley de la materia;
 
 IV.- Una vez obtenidos los resultados del plebiscito, si éste resulta aprobatorio, se deberá solicitar la opinión fundada de los Ayuntamientos afectados, respecto de la conveniencia de la creación o supresión que se propone, la cual deberán remitir dentro de los treinta días hábiles siguientes a la fecha en que se les comunique la solicitud. De no hacerlo, se entenderá como opinión favorable;
 
@@ -1066,3 +1078,11 @@ P.O. 18 DE ENERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 289 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 7 Y 18 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 10 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 17 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 27 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Publíquese el contenido de la Presente reforma en (sic) Periódico Oficial del Estado.
+
+SEGUNDO.- La presente reforma entrará en vigor hasta en tanto sea publicada la modificación a la fracción II del artículo 76 de la Constitución Política del Estado Libre y Soberano de Baja California.
