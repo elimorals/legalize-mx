@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2019-12-06"
+last_updated: "2020-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -82,9 +82,9 @@ En el régimen interior del estado, los organismos públicos autónomos son inst
 
 En el Estado la forma de gobierno es republicana, representativa y popular; teniendo como base de su división territorial y de su organización política y administrativa, el municipio libre, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2020)</small>
 
-Los Poderes Públicos del Estado, en el ámbito de sus atribuciones, garantizarán la competencia exclusiva de los Municipios y la solidaridad entre todos ellos bajo los principios de fidelidad federal y fidelidad municipal.
+Los Poderes Públicos del Estado, en el ámbito de sus atribuciones, garantizarán la competencia exclusiva de los Municipios y la solidaridad entre todos ellos bajo los principios que establece ésta Constitución y la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -295,6 +295,10 @@ El acceso a la información pública garantiza el derecho a la participación de
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
 
 Toda persona tiene derecho a la libertad de expresión. Este derecho comprende las libertades de opinión y de investigar, recibir o comunicar informaciones o ideas sin censura y a través de cualquier medio, sin más límites que los que establece la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+En el Estado de Coahuila de Zaragoza se protegerá y garantizará el ejercicio del periodismo. Las personas profesionales de la información, gozarán de todos los derechos y salvaguardas establecidos en los tratados internacionales, en la Constitución Política de los Estados Unidos Mexicanos y en las leyes aplicables conforme a los principios de universalidad, interdependencia, indivisibilidad y progresividad.
 
 > <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
 
@@ -5351,3 +5355,15 @@ P.O. 6 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 387.- SE ADICIONA UN NUEVO PÁRRAFO CUARTO AL ARTÍCULO 173, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 412.- SE ADICIONA UN PÁRRAFO OCTAVO RECORRIÉNDOSE EL ULTERIOR, DEL ARTÍCULO 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 2020.
+
+[N. DE. E. TRANSITORIO DEL “DECRETO 413.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 4, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado; y (sic)
