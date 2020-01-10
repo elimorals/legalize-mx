@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-participacion-ciudadana-del-estado-de-baja-california-20
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-16"
-last_updated: "2018-03-09"
+last_updated: "2020-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 16 de febrero de 2001.
 
@@ -213,9 +213,9 @@ II.- El Gobernador;
 
 III.- Los Ayuntamientos, y
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
 
-IV.- Los ciudadanos vecinos en el Estado que representen cuando menos el 0.5% de los electores de la Lista Nominal, o en su caso, la correspondiente al municipio respectivo, cuando los efectos del acto se circunscriban sólo a uno de estos.
+IV.- Los ciudadanos vecinos en el Estado que representen cuando menos el 0.5% de los electores de la Lista Nominal; la correspondiente al municipio respectivo, cuando los efectos del acto se circunscriban sólo a uno de estos, o en su caso la correspondiente dentro de la demarcación territorial que se proponga para conformar o suprimir un Municipio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
@@ -1060,3 +1060,11 @@ P.O. 9 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 165 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UNA FRACCIÓN V AL ARTÍCULO 2, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 81 DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 10 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 17 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 27 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Publíquese el contenido de la Presente reforma en (sic) Periódico Oficial del Estado.
+
+SEGUNDO.- La presente reforma entrará en vigor hasta en tanto sea publicada la modificación a la fracción II del artículo 76 de la Constitución Política del Estado Libre y Soberano de Baja California.
