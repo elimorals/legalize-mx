@@ -4,7 +4,7 @@ identifier: "COA-ley-del-procedimiento-contencioso-administrativo-para-el-122992
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-11"
-last_updated: "2017-08-11"
+last_updated: "2020-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122992&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 11 de agosto de 2017.
 
@@ -46,6 +46,40 @@ LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE COAHUILA DE Z
 ###### Artículo 1.
 
 Los juicios que se promuevan ante el Tribunal de Justicia Administrativa de Coahuila de Zaragoza se substanciarán y resolverán conforme a la presente Ley. A falta de disposición expresa, y en cuanto no se oponga a lo prescrito por la misma, se estará a lo que dispongan el Código Procesal Civil para el Estado de Coahuila de Zaragoza y el Código Fiscal para el Estado de Coahuila de Zaragoza, en lo que resulte aplicable, y siempre que sus disposiciones, no contravengan a las que regulan el procedimiento contencioso administrativo estatal que establece esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 1 Bis.
+
+Para los efectos de esta ley se entenderá:
+
+I. Contraseña: Conjunto único de caracteres alfanuméricos, clave elegida por el interesado en el proceso de su registro, con la que, en combinación con el usuario, tendrá acceso a la información establecida y autorizada en el Sistema de Juicio en Línea;
+
+II. Convenio Conciliatorio: Es el acuerdo celebrado entre la Autoridad Demandada y el Demandante, conformado por la propuesta de conciliación hecha por la autoridad demandada y la aceptación por parte del demandante, en el Procedimiento de Conciliación del Juicio Contencioso Administrativo Sumario;
+
+III. Expediente Electrónico: Conjunto de información contenida en archivos electrónicos o documentos digitales que conforman un Juicio Contencioso Administrativo Sumario seguido en línea ante el Tribunal, independientemente de que sea texto, imagen, audio o video, identificado por un número específico;
+
+IV. Juicio Contencioso Administrativo: es el procedimiento jurisdiccional, establecido en la Ley para resolver las controversias de competencia del Tribunal de conformidad con esta ley (sic) demás disposiciones aplicables;
+
+V. Juicio Contencioso Administrativo Sumario: Proceso seguido ante el Tribunal bajo los supuestos establecidos en esta ley, tramitado con términos procesales en forma simplificada y abreviada;
+
+VI. Juicio en Línea: Es la vía de Substanciación procesal, a través del Sistema de Juicio en Línea;
+
+VII. Nombre Usuario: Es una clave elegida por el interesado en el proceso de su registro para acceder e interactuar en el Sistema de Juicio en Línea, que será la identificación del interesado en el sistema;
+
+VIII. Procedimiento de conciliación: Es el procedimiento de conciliación establecido en esta ley dentro del Juicio Contenciosos (sic) Administrativo Sumario;
+
+IX. Propuesta de conciliación: Es el acto mediante el cual el servidor público facultado propone la emisión de un nuevo acto condicionado a su cumplimiento;
+
+X. Sistema de Juicio en Línea: Sistema informático establecido por el Tribunal, para el efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento que se substancie ante el propio Tribunal;
+
+XI. Tecnologías digitales: Es el conjunto de procedimientos y estudios que son necesarios para poder realizar avances científicos que son expresados en números y que también permite aumentar y revitalizar de forma constante lo que se denomina calidad estándar de los elementos;
+
+XII. Tribunal: Tribunal de Justicia Administrativa de Coahuila (sic) Zaragoza, y
+
+XIII. UMA: La Unidad de Medida y Actualización.
+
+En lo relativo al uso de medios electrónicos y tecnologías digitales señalados en esta ley, se aplicará (sic) las disposiciones contenidas en la Ley de Gobierno Electrónico y Fomento al Uso de Tecnologías Digitales de Información del Estado de Coahuila de Zaragoza.
 
 ###### Artículo 2.
 
@@ -74,6 +108,10 @@ III. El tercero que tenga un derecho incompatible con la pretensión del demanda
 ###### Artículo 4.
 
 Toda promoción deberá contener la firma autógrafa de quien la formule y sin este requisito se tendrá por no presentada. Cuando el promovente no sepa o no pueda firmar, estampará en el documento su huella digital y otra persona firmará a su ruego.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+En el Juicio en Línea todas las promociones deberán de contener la firma electrónica de quien la formule, la que surtirá los efectos de la firma autógrafa. Sin este requisito no serán válidas, salvo los casos en que esta ley y los Acuerdos Generales que dicte el Tribunal, así lo señalen.
 
 ###### Artículo 5.
 
@@ -371,7 +409,9 @@ Si el Pleno considera fundada la recusación, el recusado será sustituido en lo
 
 Si se declarare infundada la recusación interpuesta, el Pleno decidirá de acuerdo con su prudente arbitrio si existió mala fe por parte de quien la haya hecho valer, y en tal caso, le impondrá una sanción consistente en multa por el importe de diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente en la fecha de interposición de la recusación.
 
-### CAPÍTULO V. DEMANDA Y CONTESTACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ENERO DE 2020)</small>
+
+### CAPÍTULO V. DEL JUICIO CONTENCIOSO ADMINISTRATIVO
 
 ###### Artículo 46.
 
@@ -379,7 +419,9 @@ La demanda se interpondrá mediante escrito ante la Sala competente del Tribunal
 
 I. Nombre del demandante o en su caso, de quien promueva en su nombre;
 
-II. Señalar domicilio para recibir notificaciones dentro del lugar de la sede del Tribunal;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
+
+II. Señalar domicilio para recibir notificaciones en la ciudad de Saltillo Coahuila de Zaragoza, en la que tiene su sede el Tribunal;
 
 III. Señalar los actos administrativos que se impugnan;
 
@@ -395,7 +437,11 @@ VIII. La descripción de los hechos;
 
 IX. Los conceptos de anulación;
 
-X. La firma del actor, si éste no supiere o no pudiere firmar, lo hará un tercero a su ruego, estampando el primero su huella digital, y
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
+
+X. La firma autógrafa del demandante, si éste no supiere o no pudiere firmar, lo hará un tercero a su ruego, estampando el primero su huella digital, y
+
+En el caso de Juicio Contencioso Administrativo Sumario en Línea, la firma electrónica del demandante.
 
 XI. Las pruebas que se ofrezcan.
 
@@ -907,6 +953,270 @@ El Pleno del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, podrá
 
 Las Salas Unitarias están obligadas a aplicar la jurisprudencia del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, salvo que esta contravenga la jurisprudencia del Poder Judicial de la Federación.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE ENERO DE 2020)</small>
+
+### CAPÍTULO XIV. DEL JUICIO CONTENCIOSO ADMINISTRATIVO SUMARIO
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 104.
+
+El Juicio Contencioso Administrativo Sumario se substanciará ante la Sala competente del Tribunal bajo los supuestos establecidos en la ley, con términos procesales simplificados y abreviados.
+
+En lo no previsto, se aplicarán las disposiciones del juicio Contencioso Administrativo contenidas en esta ley y demás disposiciones aplicables.
+
+El Juicio Contencioso Administrativo Sumario procederá en el supuesto de la fracción II del artículo 3 de la Ley Orgánica del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, así como contra las resoluciones derivadas de los recursos administrativos que los resuelvan, siempre que su importe no exceda de cinco veces el valor anual de la UMA.
+
+Para determinar la cuantía sólo se considerará el crédito principal, sin considerar accesorios, tales como recargos, actualizaciones y gastos de ejecución.
+
+Cuando en un mismo acto se contenga más de una resolución o crédito fiscal, la suma de éstos no deberá de exceder la cuantía señalada en este artículo, para efectos de determinar la procedencia del Juicio Contencioso Administrativo Sumario.
+
+La demanda deberá reunir los requisitos y adjuntar los documentos, previstos en los artículos 46 y 47 de esta ley, respectivamente.
+
+El demandante en el escrito de demanda, deberá manifestar su aceptación o rechazo de someterse a Procedimiento de Conciliación.
+
+El silencio del demandante con relación al procedimiento conciliatorio, se entenderá como una negativa de aceptación.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 105.
+
+Una vez admitida la demanda, se correrá traslado al demandado para que conteste la demanda y al tercero interesado, si lo hubiere, para que desahogue la vista, en ambos casos el término será de diez días.
+
+Si la parte demandada no contestara dentro del término señalado en el párrafo anterior, se declarará la preclusión correspondiente considerando confesados los hechos salvo prueba en contrario.
+
+En el mismo auto que admita la demanda, se fijará día y hora para la audiencia de desahogo de pruebas. Dicha fecha no excederá de los veinte días hábiles siguientes al de emisión de ese auto.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 106.
+
+Se podrá ampliar la demanda en los casos previstos en esta ley, dentro de los cinco días siguientes a aquél en que surta efectos la notificación de la contestación de la demanda, ordenándose correr traslado de la ampliación y sus anexos a las partes para los efectos de su contestación.
+
+En el escrito de ampliación de demanda se deberá señalar el nombre del demandante y el juicio en que se actúa, adjuntar las copias necesarias para el traslado, las pruebas y documentos, que en su caso se presenten.
+
+Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, será aplicable en lo conducente lo dispuesto en el penúltimo párrafo del artículo 47 de esta Ley.
+
+Si no se adjuntan las copias a que se refiere este artículo, se requerirá al promovente para que las presente dentro del plazo de cinco días. Si no las presenta dentro de dicho término, se tendrá por no presentada la ampliación de la demanda. Si se trata de las pruebas documentales o de los cuestionarios dirigidos a peritos y testigos, a que se refieren las fracciones IV, V y VI del artículo 47 de esta Ley, las mismas se tendrán por no ofrecidas.
+
+Se concederá un término de cinco días para contestar la ampliación de la demanda, a la autoridad demandada y al tercero interesado, si lo hubiere, para que desahogue la vista, contados a partir del día siguiente al que surta efectos la notificación del auto que la admita.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 107.
+
+El incidente de acumulación, no será procedente en el Juicio Contencioso Administrativo Sumario.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 108.
+
+El Magistrado que conozca del Juicio Contencioso Administrativo Sumario, podrá prescindir de la audiencia, en los siguientes casos:
+
+I. Cuando las cuestiones controvertidas fueren puramente de derecho;
+
+II. Cuando las partes ofrezcan solamente pruebas documentales, y
+
+III. Cuando las partes, ofrezcan pruebas que por su naturaleza no requieran un especial desahogo.
+
+Si se prescinde de la audiencia de desahogo de pruebas, se dictará un auto que certifique esta circunstancia, y otorgará el plazo para la formulación de alegatos.
+
+Para la admisión de la prueba testimonial, será requisito que el oferente de la prueba se comprometa a la presentación del testigo en la fecha y hora que se señale para su desahogo.
+
+Si al momento del desahogo de la prueba testimonial no comparece el testigo, la prueba se declarará desierta.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 109.
+
+La prueba pericial, se sujetará a las reglas contenidas en los artículos 55 y 75 de esta Ley, con la salvedad de que todos los plazos serán de cinco días hábiles, a excepción del caso de rendir dictamen donde se concederá un plazo máximo de diez días.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 110.
+
+Desahogadas las pruebas en su caso, y sin que existan cuestiones pendientes de determinar, se declarará concluida la audiencia y se concederá a las partes un plazo de cinco días, contados a partir del día siguiente al de la conclusión de la audiencia, para que formulen alegatos, los que deberán ser tomados en cuenta en la sentencia definitiva.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 111.
+
+Transcurrido el término mencionado en el artículo anterior, se dictará un auto que certifique que no hay cuestiones pendientes por desahogar y que se formularon o no alegatos, mismo que tendrá efectos de citación para sentencia.
+
+Se pronunciará sentencia dentro de los diez días hábiles siguientes.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 112.
+
+En contra de las sentencias, autos y resoluciones que se dicten en juicios seguidos en el Juicio Contencioso Administrativo Sumario, no procederá recurso alguno.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 113.
+
+Es causa de terminación anticipada del Juicio Contencioso Administrativo Sumario, la declaración de legalidad y validez que emita el Magistrado Instructor respecto del convenio conciliatorio celebrado entre la parte demandante y la autoridad demandada.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 114.
+
+Cuando la ley no señale plazo expreso para la práctica de alguna actuación en la vía sumaria, éste será de cinco días hábiles.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 115.
+
+Se reconducirá del Juicio Contencioso Administrativo Sumario al Juicio Contencioso Administrativo, en los siguientes supuestos:
+
+I. Cuando no se localice al tercero interesado, en el domicilio proporcionado, por no ser el domicilio, o encontrarse deshabitado, previa constancia actuarial de tal circunstancia;
+
+II. Cuando el demandante manifieste desconocer el domicilio del tercero interesado;
+
+III. Cuando se advierta que no se actualizan las causas de procedencia del Juicio Contencioso Administrativo Sumario, hasta antes de la celebración de audiencia, y
+
+IV. Cuando el demandante no se obligue en forma expresa a presentar testigos y peritos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE ENERO DE 2020)</small>
+
+### CAPÍTULO XV
+
+DEL PROCEDIMIENTO DE CONCILIACIÓN DEL JUICIO CONTENCIOSO ADMINISTRATIVO SUMARIO.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 116.
+
+El Procedimiento de Conciliación, procederá únicamente dentro del Juicio Contencioso Administrativo Sumario, bajo los términos y condiciones previstos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 117.
+
+El demandante en el escrito de demanda, deberá manifestar su aceptación o rechazo de someterse al Procedimiento de Conciliación, y, en caso de aceptación, anexará una copia más del escrito de demanda para la sustanciación del procedimiento de conciliación en cuadernillo por separado, el que se tramitará sin suspensión del procedimiento del juicio principal.
+
+El silencio del demandante con relación al procedimiento conciliatorio, se entenderá como una negativa de aceptación.
+
+En el caso del párrafo anterior, se dará por concluido el procedimiento de conciliación en caso de la negativa de alguna de las partes, al sometimiento del procedimiento de conciliación, o a la propuesta de conciliación en caso de haberse realizado.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 118.
+
+En el auto de admisión, además se informará a la autoridad demandada de la manifestación de aceptación o rechazo del demandante para someterse a Procedimiento de Conciliación, a efecto de que en caso de estimarlo procedente y que sus facultades lo permitan, formule de manera conjunta con la contestación, propuesta de conciliación.
+
+El silencio de la autoridad demandada con relación al procedimiento conciliatorio, se entenderá como una negativa de aceptación a someterse al mismo.
+
+La propuesta de conciliación de las autoridades, deberá ser realizada en los términos que las leyes, reglamentos y/o disposiciones generales aplicables a la materia del acto lo permitan, y suscrita por servidor público competente y facultado para ello, lo que se deberá acreditar.
+
+Recibida la propuesta de la autoridad demandada, se dará vista a la parte demandante por el término de tres días, para que el demandante de manera directa en caso de personas físicas y en caso de personas morales por medio de representante con facultades legales suficientes, manifieste su aceptación o rechazo a la propuesta de conciliación. La aceptación de la propuesta de conciliación implica el consentimiento del acto impugnado, consentimiento que solo surtirá sus efectos en caso de que el magistrado instructor declare legal y válido el convenio conciliatorio. En caso de que el convenio conciliatorio no sea declarado legal y válido, el consentimiento realizado como requisito de la aceptación de la propuesta de conciliación no surtirá ningún efecto.
+
+El demandante deberá garantizar el interés fiscal del acto originalmente impugnado, dentro de los cinco días siguientes al que le fuera notificada la vista a que se refiere el párrafo anterior. Es obligación garantizar el interés fiscal en toda propuesta de acuerdo conciliatorio en que se otorguen plazos para el cumplimiento del convenio conciliatorio, sin este requisito no será válido.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 119.
+
+Realizada la aceptación de la propuesta, y, en su caso, garantizado el interés fiscal, el Magistrado instructor resolverá dentro del plazo de 3 días hábiles, sobre la legalidad y validez del convenio conciliatorio o, en caso contrario, dará por concluido el procedimiento conciliatorio.
+
+La declaratoria de legalidad y validez del convenio conciliatorio por el Magistrado Instructor, ante la aceptación de la propuesta de conciliación y del consentimiento de las partes sobre el acto impugnado originalmente, dará por terminado anticipadamente el Juicio Contencioso Administrativo Sumario, en cuyo caso el cuadernillo del procedimiento de la declaratoria de legalidad y validez del convenio conciliatorio, se agregará al expediente principal para debida constancia.
+
+El cumplimiento del convenio conciliatorio declarado legal y valido, extingue el acto originalmente impugnado.
+
+En caso de que el Juicio Contencioso Administrativo Sumario concluya por la declaratoria de legalidad y validez del convenio conciliatorio, el acto que dio origen al juicio no podrá ser impugnado nuevamente al tratarse de un acto consentido.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 120.
+
+El incumplimiento del convenio conciliatorio declarado legal y válido, deja en posibilidad a la autoridad demandada, de iniciar o continuar el procedimiento administrativo de ejecución por el acto originalmente impugnado, conjuntamente con actualizaciones, recargos y demás accesorios originalmente controvertidos, y las cantidades que se hubieren pagado con motivo del convenio conciliatorio incumplido, se abonarán en primer término a las actualizaciones y recargos.
+
+En caso de incumplimiento del convenio conciliatorio declarado legal y valido por la autoridad vinculada a su cumplimiento, el demandante podrá por una sola vez, acudir en queja ante el Magistrado que haya conocido del asunto, en términos del Capítulo XI de esta ley, que será aplicable al incumplimiento del convenio conciliatorio declarado legal y valido.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE ENERO DE 2020)</small>
+
+### CAPÍTULO XVI. DEL TRÁMITE DEL JUICIO EN LÍNEA
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 121.
+
+Es optativo para el promovente tramitar el Juicio Contencioso Administrativo Sumario, en forma escrita impresa en papel o través del Sistema de Juicio en Línea implementado por el Tribunal.
+
+Los servidores públicos que intervengan en la actividad jurisdiccional, en los trámites de Juicio en Línea, utilizarán la firma electrónica para la emisión de actos y resoluciones en las que intervengan.
+
+Los documentos electrónicos se presentarán mediante el empleo de las tecnologías de la información, utilizando la Firma Electrónica conforme la regulación que para tal efecto emita el Tribunal, mediante Acuerdos Generales.
+
+Cuando las partes promuevan en forma impresa o electrónica, los órganos jurisdiccionales están obligados a que el expediente electrónico e impreso coincidan íntegramente para la consulta de las partes, en los términos de esta ley.
+
+El Tribunal, mediante Acuerdos Generales, determinará el funcionamiento del Sistema del Juicio en Línea, publicando los acuerdos respectivos tanto en el Periódico Oficial del Estado como en su página de intenet.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 122.
+
+La presentación de las demandas o las promociones de término en forma electrónica a través del Sistema de Juicio en Línea, podrán enviarse hasta las veinticuatro horas del día de su vencimiento, conforme al huso horario señalado en acuse de envío.
+
+Las demandas o promociones enviadas en día inhábil se tendrán por presentadas al día hábil siguiente de su envío.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 123.
+
+El usuario enviará promociones y demandas ingresando a la página web del Tribunal, una vez cumplidos los requerimientos para el acceso al Sistema de Juicio en Línea, que emita el Tribunal mediante Acuerdos Generales para el procedimiento de registro de usuarios.
+
+Enviada la promoción o demanda, el Sistema de Juicio en línea emitirá acuse electrónico, que especificará la fecha y hora de envío y remitirá la demanda o promoción a la sala que corresponda.
+
+Todas las actuaciones en el Juicio Contencioso Administrativo Sumario en Línea, se firmarán de manera electrónica por los servidores jurisdiccionales que en él intervengan.
+
+Toda actuación electrónica se tendrá por practicada con el acuse que genera el Sistema de Juicio en Línea.
+
+El actuario deberá realizar las actuaciones electrónicas que se ordenen en los expedientes electrónicos, dentro de las veinticuatro horas siguientes. Si la notificación no se efectúa dentro de los términos establecidos en el presente artículo, ello no será motiva (sic) de anulación de la misma
+
+Las notificaciones vía electrónica surtirán sus efectos cuando se genere el acuse electrónico respectivo.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 124.
+
+Las partes podrán autorizar en términos del artículo 13 de esta ley, a las personas previamente registradas como usuarios del Sistema de Juicio en Línea, señalando el nombre de usuario y los alcances de su autorización.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 125.
+
+Cuando el demandante opte por presentar su demanda a través del Sistema de Juicio en Línea, las autoridades demandadas tendrán la obligación de comparecer y dar seguimiento al trámite del juicio en la misma vía.
+
+La autoridad demandada previo a comparecer al Juicio Contencioso Administrativo Sumario en Línea, deberá estar inscrita ante el Sistema de Juicio en Línea, como emisor de actos administrativos.
+
+En el caso de que las autoridades demandadas no cumplan con esta obligación de registro, se le notificará por oficio en los términos del artículo 29 de esta ley, emplazándola y corriéndole traslado previa impresión de los documentos digitales y certificación por el Secretario de Acuerdos de la Sala correspondiente que conozca del juicio contencioso administrativo sumario en línea, apercibiéndole que en caso de no cumplir con su obligación de registro en el término de tres días, se le aplicarán las medidas de apremio que autoriza la ley.
+
+Si la autoridad demandada al contestar la demanda la realiza por escrito, se mandará digitalizar la contestación y sus anexos correspondientes, ordenándose que las notificaciones se realicen por lista de acuerdos; y se le aplicarán las medidas de apremio que autoriza la ley hasta su cumplimiento, dando vista al Órgano Interno de Control de la autoridad demandada y al Ministerio Publico para los efectos que resulten procedentes.
+
+El tercero interesado al contestar la demanda podrá elegir la opción de continuar el trámite de juicio en línea o bien elegir la forma escrita mediante el expediente físico impreso en papel.
+
+En caso de no aceptar la substanciación del Juicio Contencioso Administrativo Sumario en Línea, en el acuerdo respectivo, se ordenará, que las promociones y anexos presentados, se digitalicen, así como las subsecuentes, debiendo imprimir y mantener actualizado un expediente físico para consulta del tercero interesado.
+
+El expediente físico a que se refiere el párrafo anterior deberá coincidir, con el expediente electrónico, certificado por el Secretario de Acuerdos.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 126.
+
+Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el funcionamiento del Sistema de Juicio en Línea haciendo imposible el envío y la recepción de promociones dentro de los plazos establecidos en la ley, cualquiera de las partes deberá dar aviso de inmediato, por los medios autorizados por el tribunal mediante los Acuerdos Generales que al respecto se emitan.
+
+Una vez que se haya restablecido el sistema, la unidad administrativa encargada de operar el sistema enviará un reporte a los órganos jurisdiccionales correspondientes en el que deberá señalar la causa y el tiempo de la interrupción del sistema, indicando la fecha y hora de inicio y término de la misma, para efectos del conteo del cómputo del plazo suspendido.
+
+Para efectos del párrafo anterior, una vez restablecido el Sistema del Juicio en Línea, en los vencimientos de término, los días en que ocurra la interrupción del sistema del juicio en línea, se considerarán inhábiles para efectos del cómputo de los términos y plazos.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
+
+###### Artículo 127.
+
+Los documentos que las partes ofrezcan como prueba, incluyendo expedientes administrativos, deberán exhibirlos en forma legible a través de los formatos autorizados mediante Acuerdos Generales emitidos por el Tribunal, se deberá manifestar la naturaleza de los mismos, especificando si la reproducción digital corresponde a una copia simple, una copia certificada o al original y tratándose de esta última, si tiene o no firma autógrafa. Los particulares deberán hacer esta manifestación bajo protesta de decir verdad, la omisión de la manifestación presume en perjuicio sólo del promovente, que el documento digitalizado corresponde a una copia simple.
+
+Las pruebas documentales que ofrezcan y exhiban las partes tendrán el mismo valor probatorio que su constancia física, siempre y cuando se observen las disposiciones de la presente Ley y de los acuerdos normativos que emitan los órganos del Tribunal para asegurar la autenticidad de la información, así como de su transmisión, recepción, validación y notificación.
+
 T R A N S I T O R I O S
 
 PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
@@ -948,3 +1258,29 @@ EL SECRETARIO DE GOBIERNO
 VÍCTOR MANUEL ZAMORA RODRÍGUEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 400.- SE REFORMAN LAS FRACCIONES II Y X DEL 46, Y LA DENOMINACIÓN DEL CAPÍTULO V; SE ADICIONAN LOS ARTÍCULOS 1 BIS, UN SEGUNDO PÁRRAFO AL ARTÍCULO 4, EL CAPÍTULO XIV CON LOS ARTÍCULOS 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114 Y 115; EL CAPÍTULO XV CON LOS ARTÍCULOS 116, 117, 118, 119 Y 120; EL CAPÍTULO XVI CON LOS ARTÍCULOS 121, 122, 123, 124, 125, 126, Y 127, DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICA EL PÁRRAFO TERCERO DEL ARTÍCULO 67 Y SE ADICIONA EL ARTÍCULO 38 BIS, DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XIII DEL ARTÍCULO 129, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 383 Y SE ADICIONA UN ARTÍCULO 413 BIS, DEL CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- La regulación referente al trámite del Juicio Contencioso Administrativo Sumario en Línea, entrará en vigor sesenta días después de la fecha en que el Pleno de la Sala Superior del Tribunal de Justicia Administrativa de Coahuila de Zaragoza emita los Acuerdos Generales respectivos.
+
+CUARTO.-Las Autoridades Estatales y Municipales emisoras de actos impugnables ante el Tribunal de Justicia Administrativa de Coahuila de Zaragoza, dentro del plazo de 60 días hábiles, contados a partir de la entrada en vigor del presente decreto, deberán adecuar su normatividad para celebrar convenios conciliatorios que pongan fin al procedimiento, conforme a lo previsto en este mismo decreto.
+
+QUINTO.- Las Autoridades Estatales y Municipales que, dentro de sus atribuciones puedan emitir actos impugnables de competencia para el conocimiento del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, deberán de registrar las firmas electrónicas de los Servidores Públicos en su calidad de representantes y autorizados, señalando el alcance y límites de su intervención en los trámites jurisdiccionales ante dicho Tribunal y señalar el tipo de usuarios para acceder a los expedientes electrónicos, en un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del mismo.
+
+SEXTO.- El funcionamiento del sistema de juicio en línea iniciará para las entidades municipales de la siguiente manera:
+
+a) 60 días posteriores a la emisión de los Acuerdos Generales a que a que (sic) se refiere el Tercero Transitorio por lo que hace a las autoridades municipales de Saltillo, Torreón, Monclova y Piedras Negras.
+
+b) 120 días posteriores a la emisión de los Acuerdos Generales a que a que (sic) se refiere el Tercero Transitorio por lo que hace a las autoridades municipales de Acuña, Ramos Arizpe, Parras, Sabinas, San Juan de Sabinas, Castaños y Frontera.
+
+c) 180 días posteriores a la emisión de los Acuerdos Generales a que a que (sic) se refiere el Tercero Transitorio por lo que hace a las autoridades municipales del resto de los municipios del Estado.
+
+SÉPTIMO.- Se derogan todas las disposiciones que se opongan a este decreto.
