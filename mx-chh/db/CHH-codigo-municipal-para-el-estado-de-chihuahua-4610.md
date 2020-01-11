@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2019-03-16"
+last_updated: "2020-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2020.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -887,9 +887,7 @@ Los establecimientos dedicados a las actividades relacionadas con productos met�
 
 XLIV.- Fomentar la lactancia materna, procurando adecuar un espacio para que las madres que laboran en los Ayuntamientos, la proporcionen a sus hijos.
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2016)</small>
-
-XLV.- Optar por la creación de la Gaceta Municipal, en los términos del Título Cuarto del Capítulo II de este Código.
+XLV.- (DEROGADA, P.O. 11 DE ENERO DE 2020)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
@@ -915,9 +913,17 @@ L.- Elaborar programas de sensibilización y proyectos culturales que promuevan 
 
 LI.- Promover la participación de organismos públicos, privados y de la sociedad civil en acciones para la igualdad sustantiva y no discriminación, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ENERO DE 2020)</small>
 
-LII.- Las demás que le confieren las leyes y sus reglamentos.
+LII.- Promover entre la ciudadanía la solución pacífica de los conflictos derivados del orden municipal, mediante la concientización y sensibilización de acciones tendientes a la construcción de paz, como parte de la política de prevención del delito y justicia cívica.
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2020)</small>
+
+LIII.- Generar personal capacitado en materia de mecanismos alternativos para la solución de conflictos, suscitados entre quienes integran la comunidad, con motivo de las faltas cometidas a los respectivos Bandos de Policía y Gobierno, así como la capacitación de los cuerpos de seguridad pública municipal con enfoque de proximidad y la aplicación de herramientas pacificadoras.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE ENERO DE 2020)</small>
+
+LIV.- Las demás que le confieren las leyes y sus reglamentos.
 
 ### CAPITULO IV. ATRIBUCIONES DE LOS PRESIDENTES MUNICIPALES
 
@@ -5580,3 +5586,13 @@ P.O. 16 DE MARZO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+P.O. 11 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO LXVI/RFCOD/0434/2019 I P.O., POR MEDIO DEL CUAL SE REFORMA LA FRACCIÓN LII, SE ADICIONAN LAS FRACCIONES LIII Y LIV Y SE DEROGA LA FRACCIÓN XLV DEL ARTÍCULO 28 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Ayuntamientos dentro de un plazo no mayor a doscientos cuarenta días, contados a partir de la entrada en vigor del presente Decreto, deberán realizar las adecuaciones a sus respectivos Reglamentos o demás instrumentos a que hubiere lugar, a fin de generar los esquemas de capacitación relativos a la atención de conflictos de la comunidad, mediante mecanismos alternativos de solución de controversias, atendiendo a las faltas administrativas que establezcan en función de sus realidades locales; así mismo, y para tales efectos, promoverán en igual término, las gestiones o convenios con las instancias que resulten pertinentes.
+
+TERCERO.- Envíese copia del presente Decreto a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado, para su conocimiento y los efectos consecuentes.
