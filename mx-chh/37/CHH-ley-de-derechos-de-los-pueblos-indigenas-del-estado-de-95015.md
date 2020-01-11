@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-derechos-de-los-pueblos-indigenas-del-estado-de-95015"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-29"
-last_updated: "2019-12-07"
+last_updated: "2020-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DERECHOS DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2020.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de junio de 2013.
 
@@ -171,9 +171,9 @@ VI. Rescatar, revitalizar, utilizar, fomentar y transmitir a las generaciones fu
 
 VII. Atribuir nombres a sus comunidades, lugares y personas, así como a mantenerlos, pudiendo ser en su idioma, en español o conforme a sus costumbres y tradiciones.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2020)</small>
 
-La Secretaría de Cultura, en coordinación y la Coordinación Estatal para los Pueblos Indígenas, con base a la autonomía y el derecho al consentimiento de los pueblos y las comunidades Indígenas, diseñará, ejecutará, instrumentará y dará seguimiento a programas y proyectos tendientes a auxiliar a los pueblos y las comunidades indígenas a ejercer este derecho.
+La Secretaría de Cultura, en coordinación con la Comisión Estatal para los Pueblos Indígenas, con base en la autonomía y el derecho al consentimiento de los pueblos y las comunidades Indígenas, diseñará, ejecutará, instrumentará y dará seguimiento a programas y proyectos tendientes a auxiliar a los pueblos y las comunidades indígenas a ejercer este derecho.
 
 ###### Artículo 14.
 
@@ -277,7 +277,9 @@ VI. Los Planes y Programas de la administración pública central y descentraliz
 
 Las instituciones privadas y sociales deberán cumplir con el derecho al consentimiento libre, previo e informado al momento de desarrollar programas, proyectos y acciones dentro de las tierras y territorios de los pueblos y las comunidades indígenas.
 
-Para ello podrán solicitar el auxilio del Poder Ejecutivo del Estado, a través de la Coordinación Estatal de la Tarahumara.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2020)</small>
+
+Para ello podrán solicitar el auxilio del Poder Ejecutivo del Estado, a través de la Comisión Estatal para los Pueblos Indígenas.
 
 ###### Artículo 26.
 
@@ -327,7 +329,9 @@ Al Poder Ejecutivo del Estado, de común acuerdo con los pueblos y las comunidad
 
 I. Vigilar y proteger el ejercicio del derecho a la autonomía de los pueblos y las comunidades indígenas.
 
-II. Auxiliar a través de la Coordinación Estatal de la Tarahumara, a los Poderes del Estado, así como a los Gobiernos Federal y Municipales en la realización de consultas para el consentimiento libre, previo e informado, cuando así lo soliciten.
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2020)</small>
+
+II. Auxiliar, a través de la Comisión Estatal para los Pueblos Indígenas, a los Poderes del Estado, así como a los Gobiernos Federal y Municipales, en la realización de consultas para el consentimiento libre, previo e informado, cuando así lo soliciten.
 
 III. Promover, a través del Sistema Estatal de Desarrollo Social y Humano, el desarrollo de los pueblos y las comunidades indígenas, de conformidad con lo establecido en la presente Ley y demás ordenamientos aplicables.
 
@@ -341,13 +345,17 @@ V. Promover, a través de la Secretaría de Educación y Deporte, en conjunto co
 
 VI. Supervisar, a través de la Secretaría de Educación y Deporte, en conjunto con la Secretaría de Cultura, que en las instituciones educativas de los sectores público y privado se fomente o implemente la interculturalidad, el multilingüismo y el respeto a la diversidad lingüística, así como garantizar que el personal docente que imparta la educación básica bilingüe en las comunidades indígenas hablen y escriban la lengua del lugar y conozcan la cultura del pueblo indígena de que se trate.
 
-VII. Contribuir, a través del Instituto Chihuahuense de la Cultura, en la preservación, estudio y desarrollo de los idiomas indígenas y su literatura.
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2020)</small>
+
+VII. Contribuir, a través de la Secretaría de Cultura, en la preservación, estudio y desarrollo de los idiomas indígenas y su literatura.
 
 VIII. Difundir en los idiomas indígenas de los sujetos de derecho de los programas, acciones y proyectos estatales de desarrollo, el contenido de los programas, obras y servicios dirigidos a las comunidades indígenas.
 
 IX. Difundir, a través de los medios de comunicación, los idiomas indígenas del Estado para promover su uso y desarrollo.
 
-X. Apoyar, a través de la Coordinación Estatal de la Tarahumara y el Instituto Chihuahuense de la Cultura, en coordinación con las Universidades Públicas del Estado, la formación y acreditación profesional de personas intérpretes y traductoras en idiomas indígenas y lengua española.
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2020)</small>
+
+X. Apoyar, a través de la Comisión Estatal para los Pueblos Indígenas y de la Secretaría de Cultura, en coordinación con las Universidades Públicas del Estado, la formación y acreditación profesional de personas intérpretes y traductoras en idiomas indígenas y lengua española.
 
 XI. Apoyar y establecer los mecanismos financieros y de concertación para el diseño e implementación de programas y proyectos emanados de los pueblos y comunidades indígenas.
 
@@ -361,11 +369,11 @@ XIII. Apoyar la nutrición de los integrantes de los pueblos originarios mediant
 
 XIV. Las demás que se establezcan en la presente Ley y otros ordenamientos aplicables.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO DÉCIMO DEL DECRETO NO. LXV/RFLEY/0003/2016 I P.O., PUBLICADO EN EL P.O. 3 DE OCTUBRE DE 2016, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO A LA COORDINACIÓN ESTATAL DE LA TARAHUMARA, SE ENTENDERÁN REFERIDAS A LA COMISIÓN ESTATAL PARA LOS PUEBLOS INDÍGENAS".]</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2020)</small>
 
 ###### Artículo 30.
 
-El Poder Ejecutivo del Estado, a través de la Secretaría General de Gobierno, en colaboración con la Coordinación Estatal de la Tarahumara y las autoridades municipales del Estado, tomando en cuenta los criterios establecidos en los Artículos 4 y 5 de la presente Ley, realizará y mantendrá un Registro Estatal de Pueblos y de Comunidades Indígenas en el Estado, de conformidad con lo establecido en el Reglamento de la presente Ley.
+El Poder Ejecutivo del Estado, a través de la Secretaría General de Gobierno, en colaboración con la Comisión Estatal para los Pueblos Indígenas y las autoridades municipales del Estado, tomando en cuenta los criterios establecidos en los artículos 4 y 5 de la presente Ley, realizará y mantendrá un Registro Estatal de Pueblos y de Comunidades Indígenas en el Estado, de conformidad con lo establecido en el Reglamento de la presente Ley.
 
 La ausencia en este registro no menoscabará o condicionará los derechos reconocidos por la ley.
 
@@ -578,3 +586,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Congreso del Estado y el Poder Ejecutivo realizarán la traducción del presente Decreto a las lenguas indígenas del Estado y se le dará una amplia difusión.
+
+P.O. 11 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVI/RFLEY/0440/2019 I P.O., POR MEDIO DEL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
