@@ -4,7 +4,7 @@ identifier: "COL-ley-de-seguridad-integral-escolar-para-el-estado-de-colima-1012
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-31"
-last_updated: "2014-05-31"
+last_updated: "2020-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2020.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 31 de mayo de 2014.
 
@@ -87,7 +87,9 @@ Los programas y acciones que se deriven de esta Ley en materia de seguridad inte
 
 Para los efectos y la aplicación de esta Ley, se entenderá por:
 
-I. Acoso escolar: Al uso intenso o repetido por uno o más estudiantes de conductas, expresiones escritas, verbales o visuales, realizadas por cualquier medio, o un acto físico, gesto, o cualquier combinación de ellos, dirigidos en contra de otro estudiante, con el propósito de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2020)</small>
+
+I. Acoso Escolar: Es el comportamiento u omisión intencional, intenso o repetitivo que llevan a cabo uno o más estudiantes contra otro estudiante de conductas, expresiones escritas, verbales o visuales, realizadas por cualquier medio o un acto físico, gesto o cualquier combinación de ellos, con el propósito de:
 
 a) Causarle daño físico o emocional, o daños a su propiedad;
 
@@ -99,9 +101,19 @@ d) Perjudicarle en su disposición de participar o aprovechar los programas o ac
 
 e) Violarle sus derechos en la escuela;
 
-f) Alterar el proceso educativo de enseñanza aprendizaje, así como el funcionamiento pacífico y ordenado de una escuela; y
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2020)</small>
+
+f) Alterar el proceso educativo de enseñanza aprendizaje, así como el funcionamiento pacífico y ordenado de una escuela;
 
 g) Provocarle mediante el empleo de cualquier conducta nociva un daño con efectos perjudiciales en su persona;
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2020)</small>
+
+h) Maltratar, discriminar, denigrar, intimidar, hostigar, humillar y cualquier otro daño similar; y
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2020)</small>
+
+i) Hacerle sentir a la víctima un temor razonable a sufrir alguna agresión o daño físico, psicoemocional, patrimonial o sexual;
 
 II. Agentes afectables: Personas, bienes, infraestructura, servicios, planta productiva, así como el medio ambiente, que son propensos a ser afectados o dañados por un agente perturbador;
 
@@ -1528,3 +1540,11 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 28 veintiocho del mes de mayo del año dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. ROGELIO HUMBERTO RUEDA SÁNCHEZ. Rúbrica. EL SECRETARIO DE EDUCACIÓN, MTRO. JOSÉ GUILLERMO RANGEL LOZANO. Rúbrica. EL SECRETARIO DE SEGURIDAD PÚBLICA, GRAL. DE DIV. D.E.M. RET. RAÚL PINEDO DÁVILA. Rúbrica. EL SECRETARIO DE SALUD Y BIENESTAR SOCIAL, DR. AGUSTÍN LARA ESQUEDA. Rúbrica. EL SECRETARIO DE DESARROLLO SOCIAL, LIC. RIGOBERTO SALAZAR VELASCO. Rúbrica. EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO, LIC. MARCOS SANTANA MONTES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 194 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
