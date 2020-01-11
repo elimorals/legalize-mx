@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-atencion-de-personas-con-trastornos-del-121813"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2017-06-03"
+last_updated: "2020-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA ATENCIÓN DE PERSONAS CON TRASTORNOS DEL ESPECTRO AUTISTA PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Gobierno Constitucional del Estado de Colima, el sábado 3 de junio de 2017.
 
@@ -197,9 +197,11 @@ El Gobierno Estatal se podrá coordinar con el Gobierno Federal, mediante la cel
 
 ### CAPÍTULO III. DEL COMITÉ ESTATAL INTERINSTITUCIONAL PARA LA ATENCIÓN Y SEGUIMIENTO DE LOS TRASTORNOS DEL ESPECTRO AUTISTA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2020)</small>
+
 ###### Artículo 10.
 
-Se creará el Comité Estatal Interinstitucional para la atención y seguimiento de los trastornos del Espectro Autista, mediante acta constitutiva y la elaboración de minuta en cada reunión, compuesto por representantes de las Secretarías de Educación, Salud y Bienestar Social, Trabajo y Previsión Social, Desarrollo Social, Juventud, Planeación y Finanzas, el DIF Estatal, DIF municipales y representantes de la sociedad civil, legalmente constituidas en el Estado, con la finalidad de crear una comisión de Evaluación y Diagnostico multidisciplinarios y generar información de base para el registro de niños y adultos con Trastorno del Espectro Autista en el Estado, integrado de la siguiente manera:
+Se creará el Comité Estatal Interinstitucional para la atención y seguimiento de los trastornos del Espectro Autista, mediante acta constitutiva y la elaboración de minuta en cada reunión, compuesto por representantes de las Secretarías de Educación, Salud y Bienestar Social, Trabajo y Previsión Social, Desarrollo Social, Juventud, Planeación y Finanzas, la Comisión Niñez, Juventud, Adultos Mayores y Discapacidad del H. Congreso del Estado, por conducto de su Presidencia, el DIF Estatal, DIF municipales y representantes de la sociedad civil, legalmente constituidas en el Estado, con la finalidad de crear una comisión de Evaluación y Diagnóstico multidisciplinarios y generar información de base para el registro de niños y adultos con Trastorno del Espectro Autista en el Estado, integrado de la siguiente manera:
 
 I. Presidente: Gobernador del Estado;
 
@@ -215,15 +217,21 @@ VI. Vocal: Secretario de la Juventud;
 
 VII. Vocal: Secretario del Trabajo y Previsión Social;
 
-VIII. Vocal: Un representante del Instituto Colimense del Deporte;
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2020)</small>
 
-IX. Vocal: Un representante del Servicio Estatal de Empleo;
+VIII. Vocal: La Comisión Niñez, Juventud, Adultos Mayores y Discapacidad del H. Congreso del Estado, por conducto de su Presidencia;
 
-X. Vocal: Un representante del DIF Estatal;
+IX. Vocal: Un representante del Instituto Colimense del Deporte;
 
-XI. Vocal: Un representante por cada DIF Municipal; y
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2020)</small>
 
-XII. Vocal: Un representante de la Sociedad Civil.
+X. Vocal: Un representante del servicio Estatal de Empleo;
+
+XI. Vocal: Un representante del DIF Estatal;
+
+XII. Vocal: Un representante por cada DIF Municipal; y
+
+XIII. Vocal: Un representante de la Sociedad Civil.
 
 ###### Artículo 11.
 
@@ -430,3 +438,11 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 04 cuatro del mes de Abril del año 2017 dos mil diecisiete.
 
 Atentamente. “SUFRAGIO EFECTIVO. NO REELECCIÓN”. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, JOSÉ IGNACIO PERALTA SÁNCHEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, ARNOLDO OCHOA GONZÁLEZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 195 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA ATENCIÓN DE PERSONAS CON TRASTORNOS DEL ESPECTRO AUTISTA DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
