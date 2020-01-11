@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2019-12-28"
+last_updated: "2020-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "COL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE ENERO DE 2020 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 11 DE ENERO DE 2020.]</small>
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -447,11 +447,29 @@ Si durante el desarrollo de una sesión, el Presidente hubiere de abandonarla po
 
 Los Secretarios y Suplentes designados no podrán ser electos para los cargos de Presidente o Vicepresidente durante el tiempo de su ejercicio.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+(REFORMADO, P.O. 20 DE OCTUBRE DE 2018) (F. DE E., P.O. 11 DE ENERO DE 2020)
 
 ###### Artículo 34.
 
-El Presidente del Congreso puesto de pie, al igual que los demás Diputados y el público asistente, pronunciará las siguientes palabras: "SE DECLARA LEGITIMA Y SOLEMNEMENTE INSTALADA LA (su número ordinal) LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA".
+Además de las facultades y atribuciones que el artículo 42 de la Ley le confiere al Presidente, tendrá las siguientes:
+
+I.- Someter a discusión y votación los dictámenes que presenten las Comisiones y una vez tomadas las votaciones, declarará lo conducente;
+
+II.- Firmar con los Secretarios, las resoluciones del Congreso, así como las actas de las sesiones después de su aprobación;
+
+III.- Erigir al Congreso en Órgano de Acusación en los términos de la Constitución y de la Ley de Juicio Político del Estado de Colima;
+
+IV.- Firmar con los Secretarios el documento de remisión al Gobernador del Estado, del proyecto de presupuesto anual de egresos del Poder Legislativo, para los efectos previstos por la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Colima;
+
+V.- Exhortar a las Comisiones para que presenten sus dictámenes en los tiempos reglamentarios y de ser necesario, proponer a la Asamblea que pasen a otra Comisión, o en su caso, se integre una especial para dictaminar algún asunto en particular;
+
+VI.- Rendir los informes previo y justificado, en los Juicios de Amparo, en los que el Congreso sea señalado como autoridad responsable;
+
+VII.- Ordenar a la Secretaría, que dé aviso a los Titulares de los Poderes Ejecutivo y Judicial y a los Ayuntamientos, en su caso, de manera oportuna y por escrito, del día en que se someterá a discusión de la Asamblea, algún asunto o iniciativa de su interés, para los efectos legales conducentes;
+
+VIII.- Poner a la consideración de los Diputados el acta de la sesión anterior y en su oportunidad someterla a su aprobación. Cuando el acta y la síntesis de comunicaciones hayan sido distribuidas previamente a los Diputados, podrá solicitarse a la Asamblea en votación económica la dispensa (sic) la lectura de ambos documentos; y
+
+IX.- Las demás que determine este Reglamento o los acuerdos que internamente emita la Asamblea.
 
 ###### Artículo 35.
 
