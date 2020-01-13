@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2020-01-03"
+last_updated: "2020-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -575,17 +575,13 @@ Estas deberán llevar en el reverso la firma del titular de los respectivos cuer
 
 Los servidores públicos a que se refiere este artículo incurrirán en responsabilidad, cuando expidan credenciales a personas que no pertenezcan a las instituciones de seguridad pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2020)</small>
 
 ###### ARTICULO 35.
 
-Las autoridades de seguridad pública del Estado dictarán las medidas conducentes, para brindar la protección necesaria a los siguientes servidores públicos estatales: Gobernador del Estado; Secretario General de Gobierno; Fiscal General; Fiscal Especializado en Delitos Relacionados con Hechos de Corrupción; Secretario de Seguridad Pública; Director General de Seguridad Pública del Estado; Director General de Prevención y Reinserción Social; Coordinador Especializado en Justicia Penal para Adolescentes; y el Director General de la Policía Investigadora del Estado. Asimismo, brindarán servicio de protección a aquéllas personas que la autoridad electoral determine conforme a la ley.
+Las autoridades de seguridad pública del Estado dictarán las medidas conducentes, para brindar la protección necesaria a los siguientes servidores públicos estatales: Gobernador del Estado; Fiscal General; Secretario General de Gobierno; Secretario de Seguridad Pública; Director General de Seguridad Pública del Estado; Director General de Prevención y Reinserción Social; y Director General de la Policía Investigadora del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2017)</small>
-
-Esta protección se orientará a salvaguardar la integridad física y la de sus familias de las personas a que se refiere el párrafo anterior, durante el ejercicio de su cargo. Por excepción y cuando las circunstancias del caso en particular así lo ameriten, podrá prorrogarse esta protección hasta por un año más al término del ejercicio de su cargo, a solicitud expresa y fundada del servidor público, que será calificada por el Gobernador del Estado.
-
-Con relación a la protección de los servidores públicos a que se refiere este artículo, se estará a lo dispuesto en el Reglamento de esta Ley.
+Asimismo, brindarán servicio de protección a aquéllas personas que la autoridad electoral determine conforme a la ley. Esta protección se orientará a salvaguardar la integridad física y la de sus familias de las personas a que se refiere el párrafo anterior, durante el ejercicio de su cargo; queda prohibido comisionar, o desviar del servicio, a personal operativo, bienes muebles y armamento de seguridad pública, para ejecutar actos de escolta a servidores públicos, o a particulares, distintos a los señalados en este artículo, salvo disposición expresa por mandato judicial; o a petición fundada de alguno de los poderes del Estado, y acatará las disposiciones de las autoridades competentes para brindar protección, a las víctimas u ofendidos por el delito, así como a sus familiares o personas relacionadas con el hecho, y a los testigos del mismo.
 
 ###### ARTICULO 36.
 
@@ -2798,3 +2794,11 @@ PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Ejecutivo del Estado, dentro de los treinta días naturales siguientes a partir de la vigencia de este Decreto, deberá emitir los lineamientos, protocolos y acciones específicas a que alude la fracción VIII del artículo 46, del ordenamiento que se reforma.
+
+P.O. 13 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0573 TER.- SE REFORMA EL ARTÍCULO 35, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
