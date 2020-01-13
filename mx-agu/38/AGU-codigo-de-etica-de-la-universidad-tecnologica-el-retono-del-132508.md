@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-de-la-universidad-tecnologica-el-retono-del-132
 country: "mx"
 rank: "codigo"
 publication_date: "2018-12-17"
-last_updated: "2018-12-17"
+last_updated: "2020-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE ETICA DE LA UNIVERSIDAD TECNOLOGICA EL RETOÑO DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DE LA UNIVERSIDAD TECNOLÓGICA EL RETOÑO, PUBLICADO EN EL P.O. 13 DE ENERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LA UNIVERSIDAD TECNOLÓGICA EL RETOÑO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2020 (ABROGADO).
 
 Código publicado en la Primera Sección al Número 51 del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de diciembre de 2018.
 
@@ -204,3 +206,21 @@ Jefe de Departamento de los Organismos Públicos Descentralizados del Instituto 
 MTRO. JOSÉ ANTONIO LUGO MEDINA
 
 Asesor de la Dirección de Educación Superior del Instituto de Educación del Estado de Aguascalientes.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA DE LA UNIVERSIDAD TECNOLÓGICA EL RETOÑO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con fundamento en el Artículo Segundo Transitorio del "Acuerdo por el que se dan a conocer los Lineamientos para la Emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas", publicado el 12 de octubre de 2018 en el Diario Oficial de la Federación, y con la entrada en vigor del presente Acuerdo, se abroga el Código de Ética de la Universidad Tecnológica El Retoño, publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, Tomo LXXXI, Número 51, de fecha lunes 17 de diciembre de 2018.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efectos aquellas disposiciones que se opongan (sic) lo previsto en el presente Acuerdo.
