@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2019-11-11"
+last_updated: "2020-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -587,7 +587,9 @@ El Congreso del Estado, concluirá la revisión de la Cuenta Pública en los té
 
 Asimismo, los Poderes del Estado, los Municipios y los entes públicos estatales y municipales, rendirán al Congreso del Estado, a más tardar el día 20 de los meses de abril, julio y octubre del año en que se ejerza el presupuesto respectivo, Informe de Avance de Gestión Financiera como parte integrante de las Cuentas Públicas, sobre los resultados físicos y financieros de los programas a su cargo, por los períodos correspondientes al primer, segundo y tercer trimestre del año. Lo anterior, a fin de que el Órgano Superior de Fiscalización del Estado fiscalice el trámite y la conclusión de los procesos correspondientes, los ingresos y egresos; el manejo, la custodia y la aplicación de sus fondos y recursos; y en su caso, emita las recomendaciones en cuanto al cumplimiento de los objetivos contenidos en los programas respectivos.
 
-VI.- Autorizar al Ejecutivo para ejercer actos de dominio sobre los bienes inmuebles pertenecientes al Estado.
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2020)</small>
+
+VI.- Autorizar al Ejecutivo para ejercer actos de dominio sobre los bienes inmuebles pertenecientes al Estado, en los términos de la ley en la materia.
 
 VII.- Conocer de los convenios que el Gobernador celebre con los Estados vecinos respecto a las cuestiones de límites, y en caso de aprobarlos, someterlos a la aprobación del Congreso de la Unión.
 
@@ -1039,7 +1041,9 @@ d).- En general, con las personas de derecho privado.
 
 VIII.- Concertar empréstitos en los términos de la fracción IV del Artículo 27 de esta Constitución.
 
-IX.- Ejercer actos de dominio sobre los bienes de la propiedad del Estado, con autorización del Congreso, tratándose de inmuebles.
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2020)</small>
+
+IX.- Ejercer actos de dominio sobre los bienes de la propiedad del Estado, con autorización del Congreso, en los términos de la ley en la materia.
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2015)</small>
 
@@ -1715,9 +1719,9 @@ Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y as
 
 Asimismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Gobierno del Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
 
-> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2020)</small>
 
-Los Municipios tienen la obligación de ejercer una administración pública transparente, de rendición de cuentas y de carácter receptivo, eficaz y eficiente, que garantice a toda persona el derecho a recibir los servicios públicos de conformidad con los principios de generalidad, uniformidad, regularidad, continuidad y calidad. Las Autoridades conformarán un sistema de índices de calidad de los servicios públicos, basado en criterios técnicos y acorde a dichos principios.
+Los Municipios se regirán por el principio de Gobierno Abierto, por lo cual tienen la obligación de ejercer una administración pública transparente, favorecer la participación ciudadana y vecinal y la rendición de cuentas con carácter receptivo, eficaz y eficiente, de tal manera que garantice a toda persona el derecho a recibir los servicios públicos de conformidad con los principios de generalidad, uniformidad, regularidad, continuidad y calidad. Las Autoridades conformarán un sistema de índices de calidad de los servicios públicos, basado en criterios técnicos y acorde a dichos principios.
 
 > <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
 
@@ -3292,3 +3296,19 @@ El Ejecutivo Estatal, en un plazo no mayor a un año calendario contado a partir
 ###### ARTÍCULO TERCERO.
 
 Para dar cumplimiento al Artículo Segundo Transitorio del presente Decreto, el Ejecutivo Estatal, en un plazo de 30 días a partir de su entrada en vigor, deberá llevar a cabo la conformación de un Órgano Colegiado Estratégico, cuyos miembros tendrán un encargo honorifico, no debiendo generar gasto operativo alguno, y que tenga por objeto realizar el estudio, análisis, definición y demás acciones necesarias para su implementación, mismo que deberá desaparecer una vez cumplidos sus fines, sin mayor necesidad de declaración administrativa o legislativa.
+
+P.O. 13 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 230.- ARTÍCULO ÚNICO.- SE REFORMAN LA FRACCIÓN VI DEL ARTÍCULO 27 Y LA FRACCIÓN IX DEL ARTÍCULO 46, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO)”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 231.- ARTÍCULO PRIMERO.- SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 69 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO)”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
