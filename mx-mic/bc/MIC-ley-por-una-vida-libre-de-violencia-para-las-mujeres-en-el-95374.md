@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2019-08-28"
+last_updated: "2020-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2020.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -193,13 +193,17 @@ V. Violencia económica: Cualquier acción limitativa y de control de los ingres
 
 VI. Violencia política: Todo acto u omisión en contra de las mujeres por medio del cual se cause un daño moral, físico o psicológico a través de la presión, persecución, hostigamiento, acoso, coacción, amenaza y/o privación de la vida por cuestión de género, cometidos por una persona o un grupo de personas, directamente o a través de terceros, con el fin de menoscabar, limitar, condicionar, excluir, impedir o anular el ejercicio de sus derechos político-electorales, así como el inducirla u obligarla a tomar decisiones de tipo político-electoral en contra de su voluntad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2020)</small>
 
-VII. Violencia simbólica y/o mediática: La que, a través de patrones estereotipados, mensajes, valores, íconos o signos transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad; y,
+VII. Violencia simbólica y/o mediática: La que, a través de patrones estereotipados, mensajes, valores, iconos o signos transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE ENERO DE 2020)</small>
 
-VIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+VIII. Violencia Digital. Es cualquier acto que se presenta a través de las tecnologías de la información y la comunicación, plataformas de internet, redes sociales o correo electrónico, o cualquier otro espacio digitalizado que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño o sufrimiento psicológico, físico, económico o sexual tanto en el ámbito privado como en el público; así como daño moral a ellas y a su familia. Se manifiesta mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE ENERO DE 2020)</small>
+
+IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ###### ARTÍCULO 10.
 
@@ -1078,3 +1082,11 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- "ARTÍCULO TRIGÉSIMO TERCERO.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 20 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 36 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 13 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 310.- PRIMERO.- SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 194, SE REFORMA EL ARTÍCULO 195, SE ADICIONA UN ARTÍCULO 195 BIS Y SE DEROGA EL ARTÍCULO 198 BIS, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN.- SEGUNDO.- SE REFORMAN LAS FRACCIONES VII Y VIII Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 9 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
