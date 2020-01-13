@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2019-08-28"
+last_updated: "2020-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2020.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -2127,15 +2127,39 @@ Comete el delito de ataques a la intimidad el que publique, divulgue, circule, i
 
 Para los efectos de este capítulo se entiende por vida privada aquella que no esté dedicada a una vida pública donde los terceros no deben tener acceso alguno; esto es, lo relativo a su persona, familia, pensamiento, sentimientos, domicilio, papeles o posesiones, correspondencia y comunicaciones personales, circunstancias de la vida como enfermedades, embarazos, nacimientos, ceremonias religiosas, preferencias o prácticas sexuales.
 
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2020)</small>
+
+A quien cometa el delito de ataques a la intimidad, se aplicarán de tres a cinco años de prisión y multa de trescientas a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2020)</small>
+
 ###### Artículo 195.
 
-Punibilidad del delito de ataques a la intimidad
+Violencia digital a la intimidad sexual
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+Al que capture la intimidad sexual o genital de una persona en imagen, audio o video, sin el consentimiento de ésta, se le impondrá pena de 4 a 8 años de prisión, multa de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización y desde mil hasta dos mil veces el valor diario de la Unidad de Medida y Actualización por concepto de reparación del daño. La misma pena se impondrá a quien solicite dichas imágenes, audios o videos. Cuando el sujeto activo comparta a un tercero, publique o amenace con compartir o publicar dichas imágenes, audios o videos, la pena se aumentará hasta una mitad.
 
-A quien cometa el delito de ataques a la intimidad, se aplicarán de tres a cinco años de prisión y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+A quien obtenga imágenes, audios o videos, con o sin el consentimiento de la persona cuya intimidad sexual o genital sea expuesta, y sin la autorización correspondiente los publique, comparta con un tercero o amenace con compartirlos o publicarlos, se le impondrá una pena de 4 a 8 años de prisión, de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización, y desde mil hasta dos mil veces el valor diario de la Unidad de Medida y Actualización por concepto de reparación del daño.
 
-Este delito se perseguirá por querella.
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2020)</small>
+
+Artículo 195 bis. Los delitos previstos en este Capítulo serán perseguidos por querella, pero se procederá de oficio en el delito de violencia digital a la intimidad sexual cuando concurra violencia física, psicológica o verbal por cualquier medio de comunicación, cuando las víctimas sean personas menores de edad o no tengan capacidad para comprender el significado del hecho o para resistirlo.
+
+Las penas para los delitos previstos en este Capítulo se aumentarán hasta en una mitad de la máxima considerada cuando:
+
+I. El delito sea cometido por una persona con la que la víctima tenga o haya tenido alguna relación de afectividad, amistad o convivencia en el ámbito familiar;
+
+II. Exista una relación de convivencia en el ámbito laboral, educativo o institucional, entre el sujeto activo y la víctima;
+
+III. Se cometa en contra de una persona menor de edad, o que no tenga capacidad para comprender el significado del hecho o para resistirlo, o que se encuentre en situación de vulnerabilidad por su condición social, cultural, económica o étnica;
+
+IV. Cuando las imágenes, audios, videos o datos se hayan obtenido a través de robo, acceso no autorizado o intervención de comunicaciones o de archivos privados;
+
+V. Cuando el sujeto activo aproveche su empleo, cargo o comisión para cometer el delito; o,
+
+VI. Cuando medie amenaza para capturar u obtener las imágenes, audios, videos o datos.
+
+En todo caso, la autoridad investigadora o jurisdiccional, en el ámbito de su competencia, solicitará u ordenará el retiro y eliminación inmediata de la publicación de las imágenes, audios, videos o datos no autorizados a la empresa de comunicación, de prestación de servicios digitales o informáticos, servidores de internet, redes sociales, administrador o titular de la plataforma digital de que se trate.
 
 ### CAPÍTULO VI. EXTORSIÓN
 
@@ -2169,9 +2193,7 @@ III. La información gráfica sobre un suceso o acontecimiento público cuando l
 
 Este delito se perseguirá por querella.
 
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
-
-Artículo 198 bis. Se le impondrá de seis meses a siete años de prisión al que coaccione, hostigue, o exija material de contenido erótico sexual como alguna imagen, audio o video de la víctima bajo la amenaza de difundir, revelar, publicar, compartir, entregar, transmitir, exhibir o ceder material de la misma naturaleza que previamente la víctima le haya compartido para uso privado o Intimo a otra persona, afectando la confianza, la tranquilidad, el desarrollo personal y el honor de la víctima.
+Artículo 198 bis. (DEROGADO, P.O. 13 DE ENERO DE 2020)
 
 ## TÍTULO DÉCIMO CUARTO. DELITOS CONTRA EL PATRIMONIO
 
@@ -4096,3 +4118,11 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 146.- ARTÍCULO ÚNICO.- SE REFORMA EL ARTÍCULO 31 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 13 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 310.- PRIMERO.- SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 194, SE REFORMA EL ARTÍCULO 195, SE ADICIONA UN ARTÍCULO 195 BIS Y SE DEROGA EL ARTÍCULO 198 BIS, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN. SEGUNDO.- SE REFORMAN LAS FRACCIONES VII Y VIII Y SE ADICIONA LA FRACCIÓN IX AL 9 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
