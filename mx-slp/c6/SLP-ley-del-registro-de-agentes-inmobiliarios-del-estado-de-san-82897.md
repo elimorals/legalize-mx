@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-de-agentes-inmobiliarios-del-estado-de-san-828
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-06"
-last_updated: "2019-10-03"
+last_updated: "2020-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL REGISTRO DE AGENTES INMOBILIARIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de agosto de 2011.
 
@@ -47,11 +47,13 @@ LEY DEL REGISTRO DE AGENTES INMOBILIARIOS DEL ESTADO DE SAN LUIS POTOSI
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2020)</small>
 
 ###### ARTICULO 1°.
 
-Las disposiciones de esta Ley son de orden público y de interés social y su observancia es obligatoria para todas las personas que obtengan la licencia para ejercer operaciones inmobiliarias; tiene por objeto regular las función (sic) de los agentes y asesores inmobiliarios dentro del Estado de San Luis Potosí, así como la creación y establecimiento de las normas y principios del Registro Estatal de Agentes Inmobiliarios.
+Las disposiciones de esta Ley son de orden público y de interés social; y su observancia es obligatoria para todas las personas que se dediquen a la comercialización inmobiliaria como agentes o como asesores inmobiliarios, que cuenten con la licencia para ejercer operaciones inmobiliarias; así como a todas aquellas personas cuya fuente principal de ingresos sea alguna de las operaciones inmobiliarias contempladas en esta Ley, haciendo de éstas su ocupación ordinaria y preponderante; este ordenamiento tiene por objeto regular la función de los agentes y asesores inmobiliarios dentro del Estado de San Luis Potosí, así como la creación y establecimiento de las normas y principios del Registro Estatal de agentes Inmobiliarios.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 Las personas físicas que realicen operaciones inmobiliarias en bienes que sean de su propiedad, no estarán obligadas en los términos de la presente Ley. Esta exención aplica también a las personas morales cuya actividad comercial preponderante no sean operaciones inmobiliarias.
 
@@ -61,25 +63,69 @@ Para los efectos de esta Ley se entiende por:
 
 I. Agentes Inmobiliarios: las personas físicas que realicen actividades de intermediación o corretaje de operaciones inmobiliarias, con licencia expedida por la Secretaría; así como las personas morales que lleven a cabo dichas actividades y que se encuentren inscritas en el Registro;
 
-> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2020)</small>
 
-II. Asesor Inmobiliario: la persona física autorizada por una organización, empresa, asociación, sociedad mercantil o análoga debidamente constituida, y cuyo objeto social estipule la ejecución de operaciones de índole inmobiliaria y que ésta a su vez se encuentre inscrita en el apartado correspondiente a personas morales del Registro Estatal de Agentes Inmobiliarios;
+II. Asesor Inmobiliario: persona física autorizada por un agente inmobiliario, debiendo, en cada caso, formalizar las condiciones de remuneración o contraprestación que se pacten entre ambos;
 
-III. Licencia: la autorización otorgada por la Secretaría a las personas físicas para realizar operaciones inmobiliarias en el Estado;
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2020)</small>
 
-IV. Operaciones inmobiliarias: las relacionadas con la compraventa, arrendamiento, fideicomiso o cualquier otro contrato traslativo de dominio, o de uso o usufructo de bienes inmuebles, así como la administración, comercialización y consultoría sobre los mismos;
+III. Bienes inmuebles: el suelo y las construcciones adheridas a éste;
 
-V. Registro: el Registro Estatal de Agentes Inmobiliarios, y
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2020)</small>
+
+IV. Constancia de autorización: documento en formato de identificación con fotografía, que las personas morales registradas que se dediquen a operaciones de índole mobiliaria, otorgan a los asesores inmobiliarios autorizados; debe incluir número de registro de persona moral, denominación de la misma, firma de autorización del titular, número de folio de expedición, así como nombre y fotografía del asesor.
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2020)</small>
+
+V. Contrato: acuerdo de voluntades que crea o transmite derechos y obligaciones a las partes que lo suscriben, y
+
+VI. Licencia: la autorización otorgada por la Secretaría a las personas físicas para realizar operaciones inmobiliarias en el Estado;
+
+VII. Operaciones inmobiliarias: las relacionadas con la compraventa, arrendamiento, fideicomiso o cualquier otro contrato traslativo de dominio, o de uso o usufructo de bienes inmuebles, así como la administración, comercialización y consultoría sobre los mismos;
+
+VIII. Registro: el Registro Estatal de Agentes Inmobiliarios, y
 
 > <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-VI. Secretaría: la Secretaría de Desarrollo Económico de Gobierno del Estado.
+IX. Secretaría: la Secretaría de Desarrollo Económico de Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2020)</small>
+
+ARTICULO 2° BIS. Para efectos de esta Ley las actividades que componen las operaciones inmobiliarias, se definen de la siguiente forma:
+
+I. Administración: las acciones y procesos relacionados con la gerencia de un inmueble, en renta o condominio;
+
+II. Arrendamiento de inmueble: contrato por el cual las dos partes contratantes se obligan recíprocamente, una, a conceder el uso o goce temporal de una cosa; y la otra, a pagar por ese uso o goce un precio cierto;
+
+III. Comercialización: las acciones y procesos relacionados con la intermediación para la compra, venta o arrendamiento de un inmueble;
+
+IV. Compra venta: Contrato bilateral en donde uno de los contratantes se obliga a transferir la propiedad de una cosa o de un derecho; y el otro a su vez se obliga a pagar por ellos un precio cierto y en dinero;
+
+V. Consultoría: las actividades de asesoría especializadas que sirven de apoyo al resto de las operaciones inmobiliarias;
+
+VI. Fideicomiso: acto jurídico por el cual una persona denominada fideicomitente destina uno o varios bienes a un fin lícito determinado, en beneficio de otra persona llamada fideicomisario, encomendando su realización a una institución bancaria llamada fiduciaria;
+
+VII. Intermediación inmobiliaria: servicio prestado por profesionales de las operaciones inmobiliarias, para gestionar compraventa de inmuebles propiedad del contratante del servicio;
+
+VIII. Promoción: las actividades relacionadas a la publicidad y propaganda para la venta o arrendamiento de inmuebles o sus servicios;
+
+IX. Subarrendamiento: arrendamiento de un bien inmueble que, a su vez, se tiene arrendada a otra persona física o moral;
+
+X. Traslado de dominio: transmisión de propiedad de un bien inmueble que origina pago de impuestos, por parte de la persona física o moral que los adquiere;
+
+XI. Usufructo: derecho real y temporal de disfrutar de los bienes ajenos, y
+
+XII. Valuación: las acciones y procesos relacionados con la valuación de los bienes inmuebles.
 
 ###### ARTICULO 3°.
 
 Se establece el Registro Estatal de Agentes Inmobiliarios, con el objeto de generar y mantener el acreditamiento e inscripción ante la Secretaría de los agentes inmobiliarios; el cual deberá estar disponible para su consulta por internet.
 
 Para garantizar que el Registro Estatal de Agentes Inmobiliarios funcione de manera correcta, la Secretaría se auxiliará por un Comité de Vigilancia, mismo que será integrado por un Presidente, un Secretario, y tres vocales; en la forma y términos que establezca el Reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2020)</small>
+
+El Comité de Vigilancia podrá invitar a participar en sus sesiones, con voz, pero sin voto, para la consulta y asesoría sobre asuntos específicos, a representantes de Colegios de: Ingenieros; Arquitectos; y Edificadores, así como a los representantes de Colegio o Asociación de Peritos valuadores de bienes inmuebles en la entidad, y/o representantes del Colegio de Notarios del Estado de San Luis Potosí.
 
 ## TITULO SEGUNDO. DE LAS ATRIBUCIONES; INSCRIPCION DEL REGISTRO; LICENCIA Y OBLIGACIONES
 
@@ -129,9 +175,13 @@ c) Aceptar, expresamente, cumplir con los programas de capacitación y actualiza
 
 d) Copia de la cédula de inscripción en el Registro Federal de Contribuyentes.
 
-> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2020)</small>
 
-e) Copia del comprobante de pago de los derechos correspondientes, y
+e) Copia del comprobante de pago de los derechos correspondientes,
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2020)</small>
+
+f) Relación actualizada de los asesores inmobiliarios autorizados por dicha persona moral, que será integrada al Registro Estatal, y
 
 II. Tratándose de personas físicas:
 
@@ -187,9 +237,19 @@ VI. Conducirse con honestidad, respeto y ética profesional, así como proteger 
 
 VII. Omitir conducirse de manera que pongan a sus clientes en situaciones de inseguridad legal o financiera, en las operaciones inmobiliarias en las que los apoyen;
 
-VIII. Excusarse de recibir pagos anticipados o depósitos en dinero por la prestación de sus servicios, o por los trámites propios de las operaciones inmobiliarias, cuando no puedan extender a cambio factura, recibo fiscal u otro documento legal que ampare el mismo, salvo tratándose de los pagos establecidos en el contrato de adhesión registrado, y
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2020)</small>
 
-IX. Las demás que establezca esta Ley y su Reglamento.
+VIII. Excusarse de recibir pagos anticipados o depósitos en dinero por la prestación de sus servicios, o por los trámites propios de las operaciones inmobiliarias, cuando no puedan extender a cambio factura, recibo fiscal u otro documento legal que ampare el mismo, salvo tratándose de los pagos establecidos en el contrato de adhesión registrado;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2020)</small>
+
+IX. En el caso de las personas morales cuyo objeto social estipule la ejecución de operaciones de índole inmobiliaria, expedir el documento de constancia de autorización para sus asesores inmobiliarios autorizados;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2020)</small>
+
+X. En el caso de los asesores inmobiliarios autorizados por persona moral registrada, contar con el documento de constancia de autorización, y
+
+XI. Las demás que establezca esta Ley y su Reglamento.
 
 ## TITULO TERCERO. DE LAS VISITAS DE INSPECCION, DE LAS INFRACCIONES Y SANCIONES, Y DE LOS RECURSOS
 
@@ -261,11 +321,13 @@ IV. Suspensión de la licencia respectiva, e inscripción en el Registro, en su 
 
 V. Cancelación de la licencia respectiva, y de la inscripción en el Registro.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2020)</small>
 
-###### ARTICULO 14.
+###### ARTÍCULO 14.
 
-A las personas físicas que se ostenten como agentes inmobiliarios sin contar con registro y, en su caso, licencia a que se refiere la presente Ley; así como a los agentes inmobiliarios que realicen operaciones inmobiliarias sin tener vigente su registro y, en su caso, licencia en los términos de lo dispuesto por el artículo 8° de esta Ley, se les podrá aplicar la sanción consistente en multa de hasta tres mil veces la unidad de medida y actualización.
+A las personas físicas o morales que se ostenten como agentes o asesores inmobiliarios, o que cuya fuente principal de ingresos sea alguna de las operaciones inmobiliarias contempladas en esta Ley, haciendo de éstas su ocupación ordinaria y preponderante sin contar con registro, licencia o autorización de persona moral registrada, vigentes en los términos del artículo 8° de la presente Ley, se les aplicará sanción consistente en multa desde mil hasta tres mil veces la unidad de medida y actualización.
+
+En el caso de las personas morales que autoricen a personas físicas para ostentarse como asesores inmobiliarios, sin contar con registro vigente en los términos del artículo 8° de esta Ley, se les aplicará sanción consistente en multa desde mil quinientos hasta cuatro mil veces la unidad de medida y actualización.
 
 ###### ARTICULO 15.
 
@@ -360,3 +422,11 @@ P.O. 3 DE OCTUBRE DE 2019.
 PRIMERO. Este Decreto iniciará su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0574.- SE REFORMAN LOS ARTÍCULOS 1°, 2°, 6°, 8° Y 14; Y ADICIONA A LOS ARTÍCULOS 2°, 3°, 6° Y 8°, DE LA LEY DEL REGISTRO DE AGENTES INMOBILIARIOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones anteriores sobre la materia, en lo que se opongan a lo establecido por el presente Decreto.
