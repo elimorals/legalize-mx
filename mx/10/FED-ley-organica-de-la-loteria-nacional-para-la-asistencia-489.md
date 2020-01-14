@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-loteria-nacional-para-la-asistencia-489"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-01-14"
-last_updated: "2012-04-09"
+last_updated: "2020-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=489&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1984-11-22"
 ---
 # LEY ORGANICA DE LA LOTERIA NACIONAL PARA LA ASISTENCIA PUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO PUBLICADO EN EL D.O.F. DE 14 DE ENERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA LOTERÍA NACIONAL PARA LA ASISTENCIA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ENERO DE 2020 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -198,3 +200,31 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 14 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY ORGÁNICA DE LA LOTERÍA NACIONAL PARA LA ASISTENCIA PÚBLICA, PUBLICADA EL 14 DE ENERO DE 1985”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se ordena la desincorporación por fusión de la Lotería Nacional para la Asistencia Pública con el organismo público descentralizado denominado Pronósticos para la Asistencia Pública, conforme a lo establecido en la Ley Federal de Entidades Paraestatales y su Reglamento. Los costos de la fusión se cubrirán con cargo al presupuesto autorizado de cada entidad en el ejercicio fiscal que corresponda, por lo que no se aumentarán sus presupuestos ni se autorizarán asignaciones extraordinarias a ese efecto.
+
+Tercero. El organismo público descentralizado denominado Pronósticos para la Asistencia Pública asumirá la organización y celebración ininterrumpida de todos los sorteos, y concursos que hasta antes de la entrada en vigor del presente Decreto realizaba la Lotería Nacional para la Asistencia Pública.
+
+Cuarto. La Lotería Nacional para la Asistencia Pública conservará su personalidad jurídica exclusivamente para efectos del proceso de desincorporación por fusión, en términos de las disposiciones administrativas y presupuestables aplicables.
+
+Quinto. La Secretaría de Hacienda y Crédito Público, en su carácter de dependencia coordinadora sectorial publicará, dentro de los treinta días siguientes al reconocimiento de la desincorporación por fusión de la Lotería Nacional para la Asistencia Pública con el organismo público descentralizado denominado Pronósticos para la Asistencia Pública, las bases conforme a las cuales se desarrollará el proceso de fusión, atendiendo lo dispuesto en la normativa aplicable.
+
+Sexto. Los juicios o procedimientos seguidos en forma de juicio y demás asuntos jurídicos y administrativos de la Lotería Nacional para la Asistencia Pública que se encuentren en trámite y que se hayan iniciado conforme a las disposiciones jurídicas y administrativas vigentes, antes de la entrada en vigor de este Decreto, se seguirán rigiendo por las mismas hasta su conclusión por el organismo público descentralizado denominado Pronósticos para la Asistencia Pública.
+
+Los derechos y obligaciones que haya contraído la Lotería Nacional para la Asistencia Pública y se encuentren vigentes a la entrada en vigor del presente Decreto, incluyendo a los expendedores que se encuentren al corriente de sus obligaciones fiscales y con la institución, y a los vendedores de billetes que reciban una comisión, serán ejercidos y, en su caso, asumidos por Pronósticos para la Asistencia Pública, en términos de la normativa aplicable y de las bases para la liquidación que se emitan para tal efecto.
+
+Séptimo. La Secretaría de Hacienda y Crédito Público realizará, en el ámbito de su competencia, las gestiones que resulten necesarias para desincorporar a la Lotería Nacional para la Asistencia Pública, e intervenir en el proceso de fusión con el organismo público descentralizado denominado Pronósticos para la Asistencia Pública, en términos de la normativa aplicable.
+
+Octavo. Los derechos de los trabajadores de la Lotería Nacional para la Asistencia Pública serán respetados conforme a la legislación y normativa aplicables. La Secretaría de Hacienda y Crédito Público, en coordinación con la Secretaría de la Función Pública realizarán las acciones necesarias para que los recursos humanos de la Lotería Nacional para la Asistencia Pública sean transferidos a Pronósticos para la Asistencia Pública.
+
+Noveno. El Ejecutivo Federal contará con un plazo de 180 días, contados a partir de la entrada en vigor del presente Decreto, para publicar en el Diario Oficial de la Federación las modificaciones pertinentes al Decreto por el que se crea un organismo público descentralizado, con personalidad jurídica y patrimonio propio, que se denominará Pronósticos Deportivos para la Asistencia Pública, a efecto de otorgar a dicho organismo las atribuciones que le permitan desempeñar las actividades que hasta la entrada en vigor del presente Decreto desempeñaba la Lotería Nacional para la Asistencia Pública.
+
+Sin perjuicio a lo dispuesto en el artículo cuarto transitorio de este Decreto, el Ejecutivo Federal realizará las modificaciones pertinentes para realizar la transferencia de funciones, y cambiar la denominación del organismo público descentralizado denominado Pronósticos para la Asistencia Pública, para quedar como Lotería Nacional.
+
+Décimo. Se derogan todas aquellas disposiciones legales, administrativas y reglamentarias que sean contrarias a lo establecido en el presente Decreto.
