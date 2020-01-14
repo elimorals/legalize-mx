@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-planeacion-para-el-desarrollo-del-estado-de-puebla-11495
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "2019-03-28"
+last_updated: "2020-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 14 DE ENERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Puebla, el sábado 31 de diciembre de 1983.
 
@@ -828,3 +830,21 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Secretaría de Finanzas y Administración del Gobierno del Estado, implementará las acciones y previsiones presupuestarias para la correcta aplicación y ejecución de la presente reforma.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE EXPIDE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se abroga la Ley de Planeación para el Desarrollo del Estado de Puebla, publicada en el Periódico Oficial del Estado el treinta y uno de diciembre de mil novecientos ochenta y tres.
+
+TERCERO. Se abroga el Decreto mediante el cual se crea el Comité de Planeación para el Desarrollo del Estado de Puebla (COPLADEP), publicado en el Periódico Oficial del Estado el veinte de febrero de mil novecientos ochenta y uno.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto dentro del presente Decreto.
+
+QUINTO. Lo establecido en el artículo 29 del presente Decreto, entrará en vigor el día catorce de diciembre de dos mil veinticuatro.
+
+SEXTO. El COPLADEP realizará las adecuaciones reglamentarias correspondientes en términos del presente Decreto, dentro de los noventa días hábiles a la entrada en vigor del mismo.
+
+SÉPTIMO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal y material, que, a la entrada en vigor de la presente ley, se refiera al COPLADEP, se entenderá atribuido al organismo a que se refiere el artículo 13 de este ordenamiento, por lo que los trámites o procedimientos iniciados previamente o que se encuentren en proceso de resolución, de conformación con dichas disposiciones, podrán continuar tramitándose con sujeción a las mismas, en todo lo que se oponga a las disposiciones de la presente ley, en tanto no se modifiquen o dejen sin efectos o el organismo acuerde a lo contrario.
