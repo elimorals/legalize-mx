@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2019-12-26"
+last_updated: "2020-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,407 +21,513 @@ state: "MEX"
 ---
 # CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2022
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-TEXTO ORIGINAL.
+[NOTA 2: PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019 Y CONTIENE LA REFERENCIA A LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 14 DE ENERO DE 2020.]
 
-Presupuesto publicado en la Edición Vespertina del Diario Oficial de la Federación, el lunes 29 de noviembre de 2021.
+CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE DICIEMBRE DE 2019.
 
-ANDRÉS MANUEL LÓPEZ OBRADOR, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
+Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
-Que la Cámara de Diputados del Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
+CESAR CAMACHO QUIROZ, Gobernador del Estado Libre y Soberano de México, a sus habitantes, sabed:
 
-DECRETO
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
 
-"LA CÁMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNIÓN, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN IV DEL ARTÍCULO 74 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
+DECRETO NUMERO 111
 
-PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2022
+La H. "LIII" LEGISLATURA DEL ESTADO DE MEXICO
 
-## TÍTULO PRIMERO. DE LAS ASIGNACIONES DEL PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN
+DECRETA:
+
+CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
+
+## TITULO PRIMERO. DE LAS DISPOSICIONES PRELIMINARES
 
 ###### Artículo 1.
 
-El ejercicio, el control y la evaluación del gasto público federal para el ejercicio fiscal de 2022, así como la contabilidad y la presentación de la información financiera correspondiente, se realizarán conforme a lo establecido en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley Federal de Austeridad Republicana, la Ley Federal de Remuneraciones de los Servidores Públicos, la Ley General de Contabilidad Gubernamental y en las disposiciones que, en el marco de dichas leyes, estén establecidas en otros ordenamientos y en este Presupuesto de Egresos.
+Las disposiciones de este Código son de orden público e interés general y tienen por objeto regular la actividad financiera del Estado de México y municipios, en el ámbito de sus respectivas competencias.
 
-La interpretación del presente Presupuesto de Egresos, para efectos administrativos y exclusivamente en el ámbito de competencia del Ejecutivo Federal, corresponde a la Secretaría y a la Función Pública, en el ámbito de sus atribuciones, conforme a las disposiciones y definiciones que establece la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-La información que, en términos del presente Decreto, deba remitirse a la Cámara de Diputados será enviada a la Mesa Directiva de la misma, la cual turnará dicha información a las comisiones competentes, preferentemente en formato electrónico de texto modificable o de base de datos según corresponda, con el nivel de desagregación que establece la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables, y será publicada en las páginas de Internet que correspondan.
+La actividad financiera comprende la obtención, administración y aplicación de los ingresos públicos, así como lo conducente a la transparencia y difusión de la información financiera relativa a la presupuestación, ejercicio, evaluación y rendición de cuentas, en apego a las disposiciones legales aplicables en la materia.
 
-En caso de que la fecha límite para presentar la información sea un día inhábil, la misma se recorrerá al día hábil siguiente.
+> <small>(ADICIONADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-En el ámbito de sus atribuciones, la Secretaría presentará la información presupuestaria comparable respecto del ejercicio fiscal anterior y de los diversos documentos presupuestarios.
+Para cuantificar el pago de las obligaciones y demás supuestos susceptibles de liquidarse, previstos en el presente ordenamiento se deberá tomar como base la Unidad de Medida y Actualización diaria, mensual o anual según sea el caso, vigente al momento de generarse la obligación de pago, determinada y publicada por el Instituto Nacional de Estadística y Geografía (INEGI).
 
-La Secretaría reportará en los Informes Trimestrales la evolución de las erogaciones correspondientes a los anexos transversales a que se refiere el artículo 41, fracción II, incisos j), o), p), q), r), s), t), u) y v), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y las correspondientes al Anexo Transversal Anticorrupción; así como las principales causas de variación del gasto neto total al trimestre que corresponda, respecto del presupuesto aprobado, por ramo y entidad.
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 2.
 
-El gasto neto total previsto en el presente Presupuesto de Egresos importa la cantidad de $7,088,250,300,000, y corresponde al total de los ingresos aprobados en la Ley de Ingresos.
+Los actos, procedimientos y resoluciones que dicten o ejecuten las autoridades, así como las inconformidades que se susciten por la aplicación de este ordenamiento, se tramitarán y resolverán conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México, salvo que se trate de actos y procedimientos regulados expresamente en este Código.
 
-En términos del artículo 17 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, para el presente ejercicio fiscal se prevé un déficit presupuestario de $875,570,500,000.
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 3.
 
-El gasto neto total se distribuye conforme a lo establecido en los Anexos de este Decreto y Tomos de este Presupuesto de Egresos, de acuerdo con lo siguiente:
+Para efectos de este Código, Ley de Ingresos del Estado y del Presupuesto de Egresos se entenderá por:
 
-I. Las erogaciones de los ramos autónomos, administrativos y generales, así como los capítulos específicos que incorporan los flujos de efectivo de las Entidades, se distribuyen conforme a lo previsto en el Anexo 1 del presente Decreto y los Tomos II a IX, de este Presupuesto de Egresos. En el Tomo I se incluye la información establecida en el artículo 41, fracción II, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. El gasto corriente estructural se incluye en el Anexo 2 de este Decreto;
+I. Unidad de Medida y Actualización: Unidad de cuenta, índice, medida o referencia diaria, mensual o anual según sea el caso vigente al momento de generarse la obligación de pago, que servirá de base para cuantificar el pago de obligaciones y supuestos previstos en este ordenamiento.
 
-III. El capítulo específico que incorpora las erogaciones correspondientes a los gastos obligatorios, se incluye en el Anexo 3 de este Decreto;
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-IV. El capítulo específico que incorpora los proyectos de inversión en infraestructura que cuentan con aprobación para realizar erogaciones plurianuales en términos del artículo 74, fracción IV, párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, se incluye en el Anexo 4 de este Decreto, en términos de lo que se señala en el artículo 25 del mismo;
+II. Ampliación de Recursos Presupuestarios. A la adecuación presupuestaria que implique un aumento líquido o compensado a la asignación de una clave presupuestaria.
 
-V. El capítulo específico que incorpora las erogaciones correspondientes a los compromisos plurianuales sujetos a la disponibilidad presupuestaria de los años subsecuentes, se incluye en el Anexo 5 de este Decreto;
+III. Asociación en Participación. Es un contrato por el cual una persona concede a otras que le aporten bienes o servicios, una participación en las utilidades y en las perdidas de una negociación mercantil o de una o varias operaciones de comercio.
 
-VI. El capítulo específico que incorpora el monto máximo anual de gasto programable para atender los compromisos de pago requeridos para los nuevos proyectos de asociación público-privada y para aquellos autorizados en ejercicios fiscales anteriores, así como la información de cada uno de ellos, en términos del artículo 24 de la Ley de Asociaciones Público Privadas, se incluye en el Anexo 5.A de este Decreto y en el Tomo VIII de este Presupuesto de Egresos;
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-VII. El capítulo específico que incorpora las erogaciones correspondientes a los compromisos derivados de proyectos de infraestructura productiva de largo plazo se incluye en el Anexo 6 de este Decreto y en el Tomo VII de este Presupuesto de Egresos;
+Para efectos fiscales, las asociaciones en participación se consideran personas jurídicas colectivas.
 
-VIII. El capítulo específico que incorpora las previsiones salariales y económicas, se incluye en los Anexos 7 y 24 de este Decreto y en los Tomos III a VI de este Presupuesto de Egresos.
+IV. Ayuntamiento. A los Ayuntamientos del Estado de México.
 
-Los montos y términos aprobados en este capítulo específico en dichos Anexos y Tomos del Presupuesto de Egresos, incluyendo las previsiones para contingencias y sus ampliaciones derivadas de adecuaciones presupuestarias y ahorros necesarios durante el ejercicio fiscal para cumplir, en su caso, con las disposiciones laborales aplicables, forman parte de la asignación global a que se refiere el artículo 33 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-IX. La suma de recursos destinados a cubrir el costo financiero de la deuda pública del Gobierno Federal; aquél correspondiente a la deuda de las empresas productivas del Estado incluidas en el Anexo 1, Apartado E, de este Decreto; las erogaciones derivadas de operaciones y programas de saneamiento financiero, así como aquéllas para programas de apoyo a ahorradores y deudores de la banca, se distribuyen conforme a lo establecido en el Anexo 8 de este Decreto;
+V. Cancelación de Recursos Presupuestarios. A la adecuación presupuestaria que reduce el presupuesto autorizado a las unidades ejecutoras.
 
-X. Para los efectos de los artículos 42 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y 43 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, los montos máximos de adjudicación directa y los de adjudicación mediante invitación a cuando menos tres personas, de las adquisiciones, arrendamientos, prestación de servicios, obras públicas y servicios relacionados con éstas, serán los señalados en el Anexo 9 de este Decreto. Los montos establecidos deberán considerarse sin incluir el importe del Impuesto al Valor Agregado;
+> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
 
-XI. Los recursos para el desarrollo integral de los pueblos y comunidades indígenas se señalan en el Anexo 10 de este Decreto, en los términos del artículo 2o., Apartado B, de la Constitución Política de los Estados Unidos Mexicanos y conforme al artículo 41, fracción II, inciso j), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; se presentan desglosados por ramo y programa presupuestario;
+VI. Catálogo General de Puestos. Instrumento administrativo en el que se reúne, clasifica y sistematiza la información de los empleos públicos y que define la naturaleza, objetivos, tipos, especificaciones, categorías y requisitos para ocuparlos. Así mismo, incluirá por puesto, las políticas genéricas para la asignación de prestaciones y estímulos o beneficios adicionales al salario;
 
-XII. Los recursos para el Programa Especial Concurrente para el Desarrollo Rural Sustentable se señalan en el Anexo 11 de este Decreto, en los términos de los artículos 16 y 69 de la Ley de Desarrollo Rural Sustentable y conforme al artículo 41, fracción II, inciso q), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
+VII. Código. Al Código Financiero del Estado de México y Municipios.
 
-XIII. El monto total de los recursos previstos para el programa de ciencia, tecnología e innovación, previsto en el artículo 22 de la Ley de Ciencia y Tecnología, y conforme al artículo 41, fracción II, inciso r), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, se señala en el Anexo 12 de este Decreto;
+VIII. Conjuntos Urbanos:
 
-XIV. Las erogaciones de los programas para la Igualdad entre Mujeres y Hombres, se señalan en el Anexo 13 de este Decreto, conforme al artículo 41, fracción II, inciso o), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
+A). Habitacional.
 
-XV. El presupuesto consolidado de la Estrategia de Transición para Promover el Uso de Tecnologías y Combustibles más Limpios, conforme al artículo 24 de la Ley de Transición Energética, se señala en el Anexo 15 de este Decreto;
+B). Industrial.
 
-XVI. Las erogaciones para el Ramo General 23 Provisiones Salariales y Económicas se distribuyen conforme a lo previsto en el Anexo 20 de este Decreto;
+C). Agroindustrial.
 
-XVII. Las erogaciones para el Ramo General 25 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos se distribuyen conforme a lo previsto en el Anexo 21 de este Decreto.
+D). Abasto, comercio y servicios.
 
-Las previsiones para servicios personales del Ramo General referido en el párrafo anterior, que se destinen para sufragar las medidas salariales y económicas, deberán ser ejercidas conforme a lo que establece el segundo párrafo de la fracción VIII anterior y el artículo 12 de este Decreto y serán entregadas a las entidades federativas a través del Ramo General 33 Aportaciones Federales para Entidades Federativas y Municipios y, solo en el caso de la Ciudad de México se ejercerán por medio del Ramo General 25 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos;
+E). Mixto.
 
-XVIII. Las erogaciones para el Ramo General 33 Aportaciones Federales para Entidades Federativas y Municipios se distribuyen conforme a lo previsto en el Anexo 22 de este Decreto.
+IX. Contraloría. A la Secretaría de la Contraloría.
 
-En términos de lo establecido en el artículo 38 de la Ley de Coordinación Fiscal, la Secretaría continuará distribuyendo los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal (FORTAMUN) a que se refiere el inciso a) del artículo 36 de esa Ley, en proporción directa al número de habitantes con que cuenta cada entidad federativa, de acuerdo con la información estadística más reciente que al efecto emita el Instituto Nacional de Estadística y Geografía. Por lo anterior, para el cálculo de la distribución deberá considerar la última información trimestral de población por entidad federativa dada a conocer por el Instituto referido, en la Encuesta Nacional de Ocupación y Empleo.
+X. Dependencias. A las Secretarías que se señalan en la Ley Orgánica de la Administración Pública del Estado de México, incluyendo a sus unidades administrativas y órganos administrativos desconcentrados.
 
-En términos de lo establecido en el artículo 46 de la Ley de Coordinación Fiscal, la Secretaría continuará distribuyendo a las entidades federativas los recursos del Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas, con base en la fórmula señalada en ese artículo, sujetándose a lo siguiente:
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-a) Para determinar la variable PIBpci, definida como la última información oficial del Producto Interno Bruto per cápita que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía para la entidad i, en caso de no estar disponible esa información, se deberá tomar en cuenta la última información del Producto Interno Bruto por entidad federativa anual que dé a conocer el Instituto referido, misma que se dividirá entre la información de la última publicación de proyección de la población a mitad de año con información anual, que dé a conocer el Consejo Nacional de Población. Cabe señalar, que ambas variables deberán corresponder al mismo año para cada entidad federativa, y
+XI. Economías Presupuestarias. A la diferencia que resulte entre los recursos del presupuesto autorizado y el presupuesto que ejerza la dependencia u organismo auxiliar en el ejercicio de que se trate, sin afectar el cumplimiento de las metas de los programas, en los términos de las disposiciones aplicables. En este rubro se encuentran comprendidas las medidas previstas en las disposiciones generales en materia de ahorro y las vacantes en materia de servicios personales.
 
-b) Con respecto a la variable ni, definida como la última información oficial de población que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía para la entidad i, se deberá considerar la última información trimestral de población por entidad federativa, que dé a conocer el Instituto referido, en la Encuesta Nacional de Ocupación y Empleo.
+XII. Ejercicio Fiscal. Al que comprende del primero de enero al treinta y uno de diciembre.
 
-La Secretaría, en relación al Fondo de Aportaciones para la Infraestructura Social y al Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas, continuará transfiriendo a las entidades federativas que así lo soliciten a la Federación hasta el 100 por ciento de las aportaciones con cargo a cada fondo, en el fideicomiso o vehículo financiero que determinen procedente, siempre y cuando se encuentre previsto en su legislación local; y cuya administración y ejercicio de dichos recursos serán responsabilidad de los gobiernos de las entidades federativas, los cuales deberán destinarse exclusivamente para los objetivos y fines expresamente previstos en la Ley de Coordinación Fiscal y cumplir íntegramente con lo establecido en la misma y demás disposiciones aplicables.
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 2016)</small>
 
-Asimismo, las entidades federativas en el fideicomiso o vehículo financiero que instrumenten conforme a su legislación local, podrán continuar afectando las aportaciones federales del Fondo de Aportaciones para la Infraestructura Social y del Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas, en garantía o fuente de pago hasta por el 25 por ciento de los recursos que anualmente les correspondan por concepto de dichos fondos, dando cumplimiento a lo dispuesto en el artículo 50 de la Ley de Coordinación Fiscal;
+XIII. Organismos Autónomos. Aquellas Entidades que cuentan con personalidad jurídica y patrimonio propio, autonomía de gestión e independencia de los Poderes Legislativo, Ejecutivo y Judicial.
 
-XIX. Los límites de las remuneraciones de los servidores públicos de la Federación se señalan en el Anexo 23 de este Decreto y en el Tomo IX de este Presupuesto de Egresos;
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-XX. Las previsiones para sufragar las erogaciones correspondientes a las medidas salariales y económicas para los Ramos Generales 25 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos, y 33 Aportaciones Federales para Entidades Federativas y Municipios, se distribuyen conforme a lo establecido en el Anexo 24 de este Decreto;
+XIV. Entidades Públicas. A tribunales administrativos y organismos públicos descentralizados, empresas de participación estatal o municipal y fideicomisos públicos, todos del Estado de México.
 
-XXI. Los programas sujetos a reglas de operación se señalan en el Anexo 25 de este Decreto;
+XV. Estado. Al Estado Libre y Soberano de México.
 
-XXII. Los principales programas previstos en este Presupuesto de Egresos se detallan en el Anexo 26 de este Decreto, y
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-XXIII. Los recursos para el Anexo Transversal Anticorrupción se señalan en el Anexo 31 de este Decreto.
+XVI. Estructura Programática. Al conjunto de categorías y elementos programáticos que sirven para dar orden y dirección al gasto público y para conocer el rendimiento esperado de la utilización de los fondos públicos y para vincular los propósitos de las políticas públicas derivadas del Plan de Desarrollo del Estado de México, de los planes de desarrollo de los municipios y de los planes que de ellos emanen, con la misión de las dependencias y entidades públicas.
 
-Los Anexos 14, 16 al 19 y 28 al 30 de este Decreto, comprenden los recursos para la atención de grupos vulnerables; la adaptación y mitigación de los efectos del cambio climático; el desarrollo de los jóvenes; la atención de niñas, niños y adolescentes; la prevención del delito, combate a las adicciones, rescate de espacios públicos y promoción de proyectos productivos; la conservación y mantenimiento carretero; subsidios para organismos descentralizados estatales, y la distribución del programa hidráulico: subsidios para acciones en materia de agua.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-Asimismo, en el Anexo 27 de este Decreto se consideran los recursos para el Programa Nacional de Reconstrucción, que tendrá por objeto atender a la población afectada por los sismos de septiembre de 2017 y febrero de 2018, con un enfoque de derechos humanos, de conformidad con las declaratorias correspondientes conforme a lo previsto en la Ley General de Protección Civil. La aplicación y erogación de los recursos que se otorgarán a través de este Programa, así como su seguimiento, control, rendición de cuentas y transparencia, se sujetarán a las reglas de operación que emita la Secretaría de Desarrollo Agrario, Territorial y Urbano.
+XVII. Fideicomiso. Contrato por medio del cual una persona denominada fideicomitente transmite a una institución fiduciaria la titularidad de uno o varios bienes o derechos, para ser destinados a un fin lícito determinado, encomendando la realización de dichos fines a la institución fiduciaria.
 
-Para el ejercicio de los recursos aprobados en el presente Presupuesto, las Dependencias y Entidades se sujetarán a las políticas y disposiciones rectoras en materia de control presupuestario que determine la Secretaría, de conformidad con las atribuciones conferidas en los artículos 6, primer párrafo, y 45, quinto párrafo, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+> <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+Los fideicomisos en los que un Ente Público sea parte, a través de sus unidades administrativas, dependencias u organismos auxiliares, según sea el caso, serán públicos y deberán estar inscritos en el Registro de Fideicomisos del Estado de México, pudiendo tener el carácter de simples o asimilados, atendiendo a los recursos con que sean constituidos y la estructura que adopten para su operación.
+
+> <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+Los fideicomisos públicos asimilados son aquellos que cuentan con estructura orgánica y serán considerados organismos auxiliares, quedando su régimen de actuación sujeto a lo previsto en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México, su Reglamento y a las disposiciones administrativas que al efecto emita la Secretaría.
+
+> <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+Los fideicomisos públicos simples son aquellos constituidos por los Entes Públicos, a través de sus unidades administrativas, dependencias u organismos auxiliares, con aportación de recursos públicos, previo dictamen de viabilidad o autorización emitido por la Secretaría, según sea el caso; los cuales no cuentan con estructura orgánica y por lo tanto, no se considerarán organismos auxiliares; no obstante, deberán ser registrados, supervisados y evaluados por la Secretaría y sujetarán su operación, control y régimen financiero a lo estipulado en el decreto o acto jurídico de creación por el cual se autoricen, a lo pactado en el contrato por el que se constituyan y a las demás disposiciones normativas que al efecto emita la Secretaría.
+
+> <small>(DEROGADO QUINTO PÁRRAFO, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+> <small>(DEROGADO SEXTO PÁRRAFO, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XVIII. Gasto Corriente. A las erogaciones realizadas por los entes públicos, que no tienen como contrapartida la creación de un activo, incluyendo el pago de servicios personales, materiales y suministros, servicios generales, así como a las transferencias, asignaciones, subsidios, donativos y apoyos.
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+XIX. Gasto de Inversión en Obras y Acciones. A las erogaciones realizadas por los Poderes del Estado, municipios y organismos autónomos, destinados al pago de obras públicas, adquisición de bienes muebles e inmuebles y ejecución de proyectos productivos de carácter social con cargo a los capítulos de gasto 5000, 6000, 7000 y 9000.
+
+XX. Gasto irreductible. Son las erogaciones mínimas indispensables para que pueda ejercer sus funciones una dependencia o entidad, principalmente asociados a las remuneraciones salariales, retenciones de seguridad social y fiscales, así como los bienes y servicios básicos.
+
+XXI. Gobernador. Al Gobernador del Estado de México.
+
+XXII. Hacienda Pública. A la obtención, administración y aplicación de los ingresos públicos del gobierno, en el ámbito de su competencia, que se conforma por las contribuciones, productos, aprovechamientos, bienes, propiedades y derechos que al gobierno, estatal o municipal le pertenecen y forman parte de su patrimonio.
+
+XXIII. IGECEM. Al Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México.
+
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+XXIII-A. Ingresos Ordinarios. Proporción de los ingresos gubernamentales que de manera permanente y previsible obtiene el Estado o Municipios, que constituyen la fuente normal y periódica de recursos fiscales para financiar sus actividades. Se integran por los impuestos, derechos, aprovechamientos y los ingresos derivados del Sistema Nacional de Coordinación Fiscal y de otros apoyos federales, siempre y cuando que por su naturaleza no se encuentren destinados a un fin específico.
+
+Para el cálculo de las transferencias que se le autoricen a los Organismos Autónomos y Entidades Públicas se exceptuará además de lo mencionado en el párrafo anterior los recursos provenientes del Ramo General 28 destinados a los Municipios y del Ramo 33, así como de otros ingresos de origen federal por estar destinados a un fin específico. De igual forma los ingresos propios de las Entidades Públicas por el cobro de Derechos, Cuotas y Aportaciones de Seguridad Social, Productos, Aprovechamientos e Ingresos por Venta de Bienes y Servicios.
+
+XXIV. Inversión financiera. Al importe de las erogaciones que se realizan para la adquisición de acciones, bonos y otros títulos de crédito. Incluye el otorgamiento de créditos para el fomento de actividades productivas y las que tienen por objeto las prestaciones y apoyos distintos a las laborales de los servidores públicos y de los subsidios para la población.
+
+XXV. Legislatura. A la Legislatura del Estado Libre y Soberano de México.
+
+> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
+
+XXVI. LIGECEM. Al Libro Décimo Cuarto del Código Administrativo del Estado de México, denominado "De la Información e Investigación Geográfica, Estadística y Catastral del Estado de México".
+
+XXVII. Ley de Ingresos. A la Ley de Ingresos del Estado de México y a la Ley de Ingresos de los Municipios del Estado de México.
+
+> <small>(ADICIONADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
+
+XXVIII. Manual Catastral. Al Manual Catastral del Estado de México.
+
+> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+XXVIII-A. Marco de Referencia para las Finanzas Públicas Estatales. Al documento emitido por el Ejecutivo Estatal por conducto de la Secretaría de Finanzas, que contendrá los principales objetivos y parámetros en materia de ingresos y egresos para el ejercicio fiscal siguiente.
+
+XXIX. Municipios. A los municipios que señala la Ley Orgánica Municipal del Estado de México.
+
+XXX. Periódico Oficial. A la "Gaceta del Gobierno" del Estado de México y a la Gaceta Municipal, en el caso de los municipios.
+
+XXXI. (DEROGADA, G.G. 15 DE DICIEMBRE DE 2017)
+
+> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
+
+XXXII. Remuneración: A los pagos hechos por concepto de sueldo, compensaciones, gratificaciones, habitación, primas, comisiones, prestaciones en especie y cualquier otra percepción o prestación que se entregue al servidor público por su trabajo. Esta definición no será aplicable para los efectos del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal;
+
+> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
+
+XXXIII. Secretaría. A la Secretaría de Finanzas.
+
+XXXIV. Sector. A la agrupación de objetivos, proyectos y acciones que responden a un segmento de los fenómenos económicos y sociales que atienden de manera agregada a las previsiones del Plan de Desarrollo del Estado de México.
+
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+XXXV. Servicio de Deuda Pública. Al importe de las erogaciones destinadas a cubrir los intereses generados por los créditos y empréstitos concertados.
+
+XXXVI. Tesorería. A la tesorería municipal.
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+XXXVII. Transferencia. Asignaciones previstas en el presupuesto de egresos, que reciben los organismos auxiliares y fideicomisos públicos para sufragar su operación, inversión patrimonial y actividades inherentes.
+
+> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
+
+XXXVIII. Traspaso Presupuestario Externo. Serán aquellos que se realicen entre programas o capítulos de gasto.
+
+> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
+
+XXXIX. Traspaso Presupuestario Interno. A las modificaciones de los recursos asignados que se realicen dentro de un mismo programa y capítulo de gasto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+XL. Vivienda. Es la prevista en la fracción I del artículo 5.37 del Código Administrativo del Estado de México y que se refiere a los tipos siguientes:
+
+> <small>(REFORMADO EN SU TARIFA, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+A). Social progresiva. Aquella cuyo valor al término de la construcción o adquisición no exceda de 391,506 pesos.
+
+> <small>(REFORMADO EN SU TARIFA, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+B). Interés social. La que tenga al término de la construcción o adquisición un valor mayor a 391,506 pesos y menor o igual a 508,960 pesos.
+
+> <small>(REFORMADO EN SU TARIFA, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+C). Popular. La que tenga al término de la construcción o adquisición un valor mayor a 508,960 pesos y menor o igual a 743,863 pesos.
+
+> <small>(REFORMADO EN SU TARIFA, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+D). Media. La que tenga al término de la construcción o adquisición un valor mayor a 743,863 pesos y menor o igual a 2,107,015 pesos.
+
+> <small>(REFORMADO EN SU TARIFA, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+E). Residencial. La que tenga al término de la construcción o adquisición un valor mayor a 2,107,015 pesos y menor o igual a 3,502,201 pesos.
+
+> <small>(REFORMADO EN SU TARIFA, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+F). Residencial alto y campestre. La que tenga al término de la construcción o adquisición un valor que exceda de la cantidad de 3,502,201 pesos.
+
+En el caso que las leyes federales incrementen o disminuyan los montos estimados, se deberá estar a lo dispuesto en esas disposiciones legales.
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XLI. Establecimiento principal. El lugar en el que se realicen actividades de administración, económicas, comerciales o de dirección, que generen obligaciones fiscales.
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XLII. Sucursal. Otros establecimientos distintos del principal, con actividades similares, que generen obligaciones fiscales.
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2018)</small>
+
+XLIII. Documento Digital. Al mensaje de datos o documento electrónico en los términos de la Ley de Gobierno Digital del Estado de México y Municipios.
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2018)</small>
+
+XLIV. Firma Electrónica. A la firma electrónica avanzada en los términos de la Ley de Gobierno Digital del Estado de México y Municipios.
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2018)</small>
+
+XLV. Ley de Gobierno Digital. A la Ley de Gobierno Digital del Estado de México y Municipios.
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2018)</small>
+
+XLVI. Sello Digital. Al sello electrónico en los términos de la Ley de Gobierno Digital del Estado de México y Municipios.
+
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2018)</small>
+
+XLVII. SEITS. Al Sistema Electrónico de Información, Trámites y Servicios, en los términos de la Ley de Gobierno Digital del Estado de México y Municipios.
+
+> <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2011)</small>
+
+XLVIII. Dictaminador. Tratándose del dictamen de la determinación y pago del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal, al Contador Público autorizado por la Dirección General de Fiscalización, dependiente de la Subsecretaría de Ingresos de la Secretaría de Finanzas del Gobierno del Estado de México. Tratándose del dictamen de la determinación de la base del Impuesto Predial, al especialista en valuación inmobiliaria registrado por el IGECEM, así como al propio IGECEM cuando se trate de inmuebles propiedad del Gobierno del Estado que deban dictaminarse por dicho Instituto.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XLIX. Entes Públicos. A los poderes Ejecutivo, Legislativo y Judicial, los organismos autónomos del Estado; los municipios; los organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos, así como cualquier otro ente sobre el que el Estado y los municipios tengan control sobre sus decisiones o acciones.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+L. Ley de Disciplina Financiera. A la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LI. Balance Presupuestario. A la diferencia entre los ingresos totales incluidos en la Ley de Ingresos, y los gastos totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LII. Balance Presupuestario de Recursos Disponibles. A la diferencia entre los ingresos de libre disposición, incluidos en la Ley de Ingresos, más el financiamiento neto y los gastos no etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LIII. Deuda Estatal Garantizada. Al financiamiento del Estado y municipios con garantía del Gobierno Federal.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LIV. Disciplina Financiera. A los principios y las disposiciones en materia de responsabilidad hacendaria y financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de obligaciones por los entes públicos, que aseguren una gestión responsable y sostenible de sus finanzas públicas, generando condiciones favorables para el crecimiento económico, el empleo y la estabilidad del sistema financiero.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LV. Fuente de Pago. Los recursos utilizados por los entes públicos para el pago de cualquier financiamiento u obligación.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LVI. Garantía de Pago. Mecanismo que respalda el pago de un financiamiento u obligación contratada.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LVII. Gasto Etiquetado. A las erogaciones que se realicen con cargo a las transferencias federales o estatales etiquetadas o con un destino específico.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LVIII. Gasto no Etiquetado. A las erogaciones que se realicen con cargo a los ingresos propios de libre disposición y financiamiento.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LIX. Gasto Total. A la totalidad de las erogaciones aprobadas en el Presupuesto de Egresos, con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las operaciones que darían lugar a la duplicidad en el registro del gasto.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LX. Ingresos de Libre Disposición. A los ingresos propios y las participaciones federales y estatales, así como los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LXI. Ingresos Excedentes. A los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LXII. Ingresos Totales. A la totalidad de los ingresos de libre disposición, las transferencias federales y estatales etiquetadas y el financiamiento neto.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LXIII. Instituciones Financieras. A las instituciones de crédito, sociedades financieras de objeto múltiple, casas de bolsa, almacenes generales de depósito, uniones de crédito, instituciones de seguros, sociedades mutualistas de seguros, sociedades cooperativas de ahorro y préstamo, sociedades financieras populares y sociedades financieras comunitarias y cualquiera otra sociedad autorizada por la Secretaría de Hacienda y Crédito Público o por cualesquiera de las Comisiones Nacionales para organizarse y operar como tales, siempre y cuando la normatividad que les resulte aplicable no les prohíba el otorgamiento de créditos.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LXIV. Instrumentos Derivados. Los valores, contratos o cualquier otro acto jurídico cuya valuación esté referida a uno o más activos, valores, tasas o índices subyacentes.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LXV. Inversión Pública Productiva. Toda erogación por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea: (i) la construcción, mejoramiento, rehabilitación y/o reposición de bienes de dominio público; (ii) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de seguridad, y maquinaria, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable, o (iii) la adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LXVI. Obligaciones. A los compromisos de pago a cargo de los entes públicos, derivados de los financiamientos y de las Asociaciones Público-Privadas.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LXVII. Obligaciones a Corto Plazo. Cualquier obligación derivada de un financiamiento a un plazo menor o igual a un año.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LXVIII. Percepciones Extraordinarias. A los estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de compromisos de resultados sujetos a evaluación; así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de las disposiciones aplicables. Las percepciones extraordinarias no constituyen un ingreso fijo, regular ni permanente, ya que su otorgamiento se encuentra sujeto a requisitos y condiciones variables. Dichos conceptos de pago en ningún caso podrán formar parte integrante de la base de cálculo para efectos de indemnización o liquidación o de prestaciones de seguridad social.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LXIX. Percepciones Ordinarias. A los pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular como contraprestación por el desempeño de sus labores cotidianas en los entes públicos, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado para el ejercicio fiscal.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LXX. Registro Público Único. Al registro para la inscripción de obligaciones financieras que contraten los entes públicos.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LXXI. Sistema de Alertas. A la publicación hecha por la Secretaría de Hacienda y Crédito Público sobre los indicadores de endeudamiento de los entes públicos.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LXXII. Transferencias Federales Etiquetadas. Los recursos que reciben de la Federación el Estado y los municipios, que están destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, la cuota social y la aportación solidaria federal previstas en el Título Tercero Bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recursos con destino específico que se otorguen en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Presupuesto de Egresos de la Federación.
+
+> <small>(ADICIONADA, G.G. 15 DE DICIEMBRE DE 2017)</small>
+
+LXXIII. Disponibilidades. Los recursos provenientes de los ingresos que durante los ejercicios fiscales anteriores no fueron pagados ni devengados para algún rubro del gasto presupuestado, excluyendo a las transferencias federales etiquetadas.
+
+> <small>(ADICIONADA, G.G. 15 DE DICIEMBRE DE 2017)</small>
+
+LXXIV. Financiamiento Neto. La suma de las disposiciones realizadas de un financiamiento y las disponibilidades, menos las amortizaciones efectuadas de la deuda pública.
+
+> <small>(ADICIONADA, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+LXXV. Instituto Hacendario. Al Instituto Hacendario del Estado de México.
+
+> <small>(ADICIONADA, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+LXXVI. Asociaciones Público-Privadas. A las previstas en la Ley de Asociaciones Público Privadas o en la Ley de Asociaciones Público Privadas del Estado de México y Municipios, incluyendo los proyectos de prestación de servicios o cualquier esquema similar de carácter local, independientemente de la denominación que se utilice.
+
+Cuando en este ordenamiento se señale al Estado y municipios o sus dependencias y entidades públicas, se entenderá que cada una actúa de acuerdo con su competencia.
 
 ###### Artículo 4.
 
-Para el ejercicio fiscal 2022 se aprueba para Petróleos Mexicanos una meta de balance financiero de -$62,750,000,000 y un techo de gasto de servicios personales de $99,147,908,914. Asimismo, se aprueba para la Comisión Federal de Electricidad una meta de balance financiero de $0, y un techo de gasto de servicios personales de $65,458,102,954.
+La Secretaría y los ayuntamientos, interpretarán para efectos administrativos las disposiciones de este Código, sin que por ningún motivo se puedan variar los elementos propios de las contribuciones.
 
 ###### Artículo 5.
 
-Conforme al artículo 272 de la Ley del Seguro Social, el gasto programable del Instituto Mexicano del Seguro Social será de $1,010,840,765,109.00. El Gobierno Federal aportará al Instituto la cantidad de $115,222,071,339.00, como aportaciones para los seguros; dispondrá de la cantidad de $474,317,230,665.00, para cubrir las pensiones en curso de pago derivadas del artículo Duodécimo Transitorio de la Ley del Seguro Social publicada en el Diario Oficial de la Federación el 21 de diciembre de 1995; aportará la cantidad de $6,406,636,713.00, para atender lo dispuesto en los artículos 141, 172 y 172A de dicha Ley, y aportará la cantidad de $16,711,442.00, para atender lo dispuesto en el artículo segundo transitorio del “Decreto por el que se adicionan diversas disposiciones de la Ley del Seguro Social, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y de la Ley Federal del Trabajo”, publicado en el Diario Oficial de la Federación el 4 de junio de 2019.
-
-Durante el ejercicio fiscal 2022, el Instituto Mexicano del Seguro Social deberá destinar a las Reservas Financieras y Actuariales de los seguros y a la Reserva General Financiera y Actuarial, así como al Fondo para el Cumplimiento de Obligaciones Laborales de Carácter Legal o Contractual, a que se refieren los artículos 280, fracciones III y IV, y 286 K, respectivamente, de la Ley del Seguro Social, la cantidad de $19,002,213,168.00, a fin de garantizar el debido y oportuno cumplimiento de las obligaciones que contraiga, derivadas del pago de beneficios y la prestación de servicios relativos a los seguros que se establecen en dicha Ley; así como para hacer frente a las obligaciones laborales que contraiga, ya sea por disposición legal o contractual con sus trabajadores.
-
-Para los efectos del artículo 277 G de la Ley del Seguro Social, el Instituto Mexicano del Seguro Social deberá sujetarse a las normas de austeridad y disciplina presupuestaria contenidas en este Decreto, en los términos propuestos por el Consejo Técnico de dicho Instituto las cuales se aplicarán sin afectar el servicio público que está obligado a prestar a sus derechohabientes; asimismo, conforme al mismo artículo 277 G, dichas normas no deberán afectar las metas de constitución o incremento de reservas establecidas en este Decreto.
-
-El uso de reservas de cualquier naturaleza y tipo deberá ser registrado invariablemente como gasto programable. Asimismo, las reservas del Seguro de Invalidez y Vida y de Riesgos de Trabajo, únicamente podrán destinarse para las prestaciones monetarias de esos seguros; y no para financiar gasto corriente del Instituto, salvo en los casos que así lo prevea la Ley del Seguro Social.
-
-El titular y los servidores públicos competentes del Instituto Mexicano del Seguro Social serán responsables de que el ejercicio del gasto de dicho Instituto se sujete a los montos autorizados para cubrir su gasto programable, para las reservas y el fondo a que se refiere este artículo.
+Las leyes, reglamentos y demás disposiciones financieras de observancia general, obligan y surten sus efectos al día siguiente de su publicación en el Periódico Oficial, salvo que en las mismas se señale una fecha diferente.
 
 ###### Artículo 6.
 
-El ejercicio de los recursos federales aprobados en este Presupuesto de Egresos para ser transferidos a las entidades federativas y, por conducto de éstas, a los municipios y a las demarcaciones territoriales de la Ciudad de México, así como el de los recursos federales que se ejerzan de manera concurrente con recursos de dichos órdenes de gobierno, se sujetará a las disposiciones legales aplicables, al principio de anualidad y a lo siguiente:
+(DEROGADO, G.G. 29 DE DICIEMBRE DE 2000)
 
-I. El resultado de la distribución entre las entidades federativas de los recursos que integran los fondos del Ramo General 33 Aportaciones Federales para Entidades Federativas y Municipios, se presenta en el Tomo IV de este Presupuesto de Egresos, con excepción del Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal (FASP), cuya distribución se realizará conforme a lo dispuesto en el artículo 44 de la Ley de Coordinación Fiscal;
+## TITULO SEGUNDO. DE LOS PRINCIPIOS DE CARACTER FISCAL
 
-II. Los recursos federales a que se refiere este artículo, distintos a los previstos en la Ley de Coordinación Fiscal, serán ministrados siempre y cuando las entidades federativas y, en su caso, los municipios y demarcaciones territoriales de la Ciudad de México, cumplan con lo previsto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley General de Contabilidad Gubernamental, este Presupuesto de Egresos y las demás disposiciones jurídicas aplicables, así como, en su caso, los convenios correspondientes;
+### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-III. Los proyectos de infraestructura que realicen las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, con cargo a los recursos de los fondos del Ramo General 23 Provisiones Salariales y Económicas, deberán incluir la leyenda siguiente: “Esta obra fue realizada con recursos públicos federales”, sin perjuicio de las demás que establezca el presente Decreto.
-
-La Secretaría deberá publicar de forma trimestral, en el portal electrónico de transparencia en materia presupuestaria, la información relativa a los proyectos de infraestructura aprobados en el Ramo General 23 Provisiones Salariales y Económicas, incluyendo el monto aprobado y pagado, su ubicación geográfica, y los lineamientos aplicables a dichos recursos. Asimismo, deberá informar en dicho medio el avance financiero de los proyectos con base en los reportes que, de conformidad con la normatividad aplicable, realicen las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México. La información anterior, deberá estar disponible, a su vez, en formato de datos abiertos;
-
-IV. Los programas que prevean la aportación de recursos por parte de las entidades federativas y, en su caso, municipios o demarcaciones territoriales de la Ciudad de México, para ser ejercidos de manera concurrente con recursos federales, se sujetarán a lo siguiente:
-
-a) El porcentaje o monto que corresponda aportar a las entidades federativas y, en su caso, a los municipios o demarcaciones territoriales de la Ciudad de México, será establecido por las Dependencias a cargo de los respectivos programas;
-
-b) Dichos órdenes de gobierno deberán realizar las aportaciones de recursos que les correspondan en las cuentas bancarias productivas específicas respectivas, en un periodo que no deberá exceder de 20 días hábiles contados a partir de la recepción de los recursos federales. Los recursos federales deberán ser ministrados de acuerdo con el calendario establecido en los convenios y de ninguna manera podrá iniciar ministraciones después del mes de marzo.
-
-Antes del vencimiento del plazo a que se refiere el párrafo anterior, las entidades federativas y, en su caso, municipios o demarcaciones territoriales de la Ciudad de México, en casos debidamente justificados, podrán solicitar a la dependencia o entidad correspondiente una prórroga para realizar la aportación correspondiente de recursos locales, hasta por el mismo plazo a que se refiere el párrafo anterior;
-
-c) La entidad federativa, municipio o demarcación territorial que se vea afectado por situaciones que obliguen al Ejecutivo Federal a emitir declaratorias de emergencia o de desastre natural, en los términos de la Ley General de Protección Civil, contará con una prórroga de 20 días hábiles adicionales para efectuar el depósito de las aportaciones que le correspondan, una vez publicada la declaratoria;
-
-d) Las entidades federativas podrán cubrir hasta en dos exhibiciones durante el ejercicio fiscal su aportación a los programas concurrentes en materia educativa para todos los niveles, y
-
-e) Las ministraciones de recursos federales podrán ser suspendidas cuando las entidades federativas y, en su caso, los municipios y demarcaciones territoriales de la Ciudad de México no aporten en los plazos previstos los recursos que les corresponden en las cuentas específicas;
-
-V. La Secretaría de Educación Pública comunicará a las entidades federativas a más tardar el último día hábil del mes de marzo, el presupuesto para el subsidio para organismos descentralizados estatales que la Federación otorga, así como para los programas financiados con fondos concurrentes;
-
-VI. En caso de que, en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, deban realizarse ajustes o adecuaciones al Presupuesto de Egresos durante el ejercicio fiscal, una vez que se realicen las compensaciones previstas en la misma y, en su caso, una vez utilizados los recursos de las reservas que correspondan en términos de dicha ley, los ajustes que fueran necesarios realizar a los recursos federales distintos a los contenidos en la Ley de Coordinación Fiscal destinados a las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, deberán efectuarse de manera proporcional a los demás ajustes al Presupuesto de Egresos, informando de tales ajustes o adecuaciones a la Cámara de Diputados;
-
-VII. Los recursos federales vinculados con ingresos excedentes que, en los términos de los artículos 19, fracción IV, inciso d), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y 12, sexto párrafo, de su Reglamento, tengan como destino la realización de programas y proyectos de inversión en infraestructura y equipamiento de las entidades federativas, se sujetarán a las disposiciones aplicables del Fideicomiso para la Infraestructura en los Estados (FIES). Dichos recursos se considerarán devengados al momento de su aportación al patrimonio de este Fideicomiso, y el ejercicio de los mismos por parte de las entidades federativas se realizará conforme a los calendarios de ejecución registrados por éstas ante la Secretaría para los proyectos de inversión en infraestructura y equipamiento. En el caso de los subsidios que tengan el mismo destino, la Secretaría deberá entregar los recursos a las entidades federativas de acuerdo con un calendario establecido y podrá emitir las disposiciones correspondientes para la comprobación de los mismos en términos de los artículos 34 y 79 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
-
-VIII. Las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México deberán enviar a la Secretaría, a través del sistema al que hace referencia el artículo 85 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria la información de las evaluaciones que lleven a cabo sobre recursos federales transferidos, en los términos de las disposiciones aplicables. La Secretaría deberá reportar dicha información en los Informes Trimestrales;
-
-IX. El Consejo Nacional de Seguridad Pública aprobará a más tardar en el mes de enero, los criterios de distribución de los recursos de los fondos de ayuda federal para la seguridad pública a que se refiere el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, en términos de lo establecido en el artículo 142 de la Ley General del Sistema Nacional de Seguridad Pública.
-
-Para efectos del párrafo anterior, se promoverá que, por lo menos, el 20 por ciento de los recursos previstos en el Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal (FORTAMUN), se destinen a la atención de necesidades directamente vinculadas con la seguridad pública.
-
-El Consejo Nacional de Seguridad Pública, al aprobar los criterios para la distribución de los recursos de los fondos de ayuda federal que se otorguen a las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México para la seguridad pública, promoverá y vigilará que su aplicación se oriente al cumplimiento de los ejes estratégicos y programas con prioridad nacional definidos por dicho Consejo, así como que su erogación se realice en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
-
-Para tales efectos, los convenios relativos a estos fondos establecerán mecanismos que contribuyan a agilizar la recepción y el ejercicio de los recursos que reciban las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México.
-
-Dicho Consejo promoverá que, por lo menos, el 20 por ciento de los recursos del Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal (FASP) se distribuya entre los municipios y las demarcaciones territoriales de la Ciudad de México, conforme a criterios que integren el número de habitantes y el avance en la aplicación del Programa Estatal de Seguridad Pública en materia de profesionalización, equipamiento, modernización tecnológica e infraestructura.
-
-Las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en el ejercicio de los recursos que les sean transferidos para seguridad pública, a través del Ramo General 33 Aportaciones Federales para Entidades Federativas y Municipios deberán alinear, en su caso, la aplicación de los recursos para implementar y operar el modelo de desarrollo y operación policial previsto en la ley de la materia, conforme a los ejes estratégicos aprobados por el Consejo Nacional de Seguridad Pública, y
-
-X. Durante los primeros 10 días naturales del mes de febrero, las entidades federativas deberán enviar a la Secretaría, en forma impresa y en formato electrónico de base de datos, el calendario de distribución y montos que de los fondos a los que se refieren los artículos 35 y 36 de la Ley de Coordinación Fiscal correspondan para el ejercicio fiscal 2022 a sus municipios o demarcaciones territoriales, según corresponda.
-
-## TÍTULO SEGUNDO. DEL FEDERALISMO
-
-### CAPÍTULO I. Disposiciones Generales
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 7.
 
-Las entidades federativas y, en su caso, municipios y demarcaciones territoriales de la Ciudad de México, que realicen proyectos de infraestructura con recursos del Ramo General 23 deberán reportar a la Secretaría, en los términos que ésta determine y a través del sistema al que hace referencia el artículo 85 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la información del contrato bajo el cual se realicen dichos proyectos, su ubicación geográfica, informes sobre sus avances y, en su caso, evidencias de conclusión. Las entidades federativas serán responsables de la veracidad de la información reportada.
+Para cubrir el gasto público y demás obligaciones a su cargo, el Estado y los Municipios percibirán en cada ejercicio fiscal los impuestos, derechos, aportaciones de mejoras, productos, aprovechamientos, ingresos derivados de la coordinación hacendaria, e ingresos provenientes de financiamientos, establecidos en la Ley de Ingresos. Tratándose del Estado, también percibirá las aportaciones y cuotas de seguridad social.
+
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2017)</small>
+
+La Ley de Ingresos del Estado se elaborará con base en el Marco de Referencia para las Finanzas Públicas Estatales y/o en los criterios generales de política económica emitidos por el Gobierno Federal y, en su caso, con la última información económica publicada por el Banco de México y la Secretaría de Hacienda y Crédito Público, y deberá ser congruente con el Plan de Desarrollo del Estado y los programas que de él deriven; tratándose de estimaciones de participaciones y transferencias federales etiquetadas, no deberán exceder a las previstas en la Ley de Ingresos de la Federación y en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente.
 
 ###### Artículo 8.
 
-Los recursos correspondientes a los subejercicios que no sean subsanados en el plazo que establece el artículo 23, último párrafo, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como el importe de los ahorros que se obtengan como resultado de la instrumentación de las medidas de austeridad y disciplina presupuestaria, serán reasignados a los programas sociales y de inversión en infraestructura previstos en este Presupuesto de Egresos, así como en los términos de lo dispuesto en el artículo 61 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones jurídicas aplicables, según corresponda. Al efecto, la Secretaría informará trimestralmente a la Cámara de Diputados, a partir del 1o. de abril, sobre dichos subejercicios. En el caso de las economías generadas durante el ejercicio fiscal, éstas deberán canalizarse a los programas y Tomos aprobados en este Presupuesto de Egresos.
+Ninguna contribución podrá recaudarse si no está prevista en la Ley de Ingresos correspondiente. Sólo podrá destinarse un ingreso a un fin específico, cuando así lo disponga expresamente este Código, la Ley de Ingresos o el Presupuesto de Egresos.
 
-La determinación de los subejercicios se realizará conforme a los calendarios autorizados, en los términos del artículo 23 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 9.
 
-Las Dependencias y Entidades se sujetarán a las disposiciones de austeridad y disciplina presupuestaria que se establezcan en los términos del Título Tercero, Capítulo IV, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en la Ley Federal de Austeridad Republicana y en las disposiciones de austeridad republicana emitidas por el Ejecutivo Federal, así como por la Secretaría y la Función Pública en el ámbito de sus atribuciones. Sin perjuicio de lo anterior, las Dependencias y Entidades observarán las disposiciones siguientes:
+Las contribuciones se clasifican en impuestos, derechos, contribuciones o aportaciones de mejoras, y aportaciones y cuotas de seguridad social, las que se definen de la manera siguiente:
 
-I. No crear plazas, salvo que se cuente con la previsión presupuestaria aprobada para tal fin en este Presupuesto de Egresos, o que sean resultado del cumplimiento de reformas jurídicas; por determinación de la Secretaría en los supuestos en que las mismas generen los ingresos para cubrir su gasto respectivo, o bien, que tengan como finalidad atender situaciones de carácter emergente o contingente. Asimismo, la Secretaría podrá autorizar modificaciones al presupuesto para la creación de plazas para atender la estrategia de fortalecimiento del sector salud;
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-II. Los incrementos que, en su caso, se otorguen a los servidores públicos, se sujetarán a los recursos aprobados en los Anexos 7 y 24 de este Decreto y tendrán como objetivo exclusivamente mantener el poder adquisitivo respecto del año 2021;
+I. Impuestos. Son los establecidos en este Código que deben pagar las personas físicas y jurídicas colectivas, que se encuentren en la situación jurídica o de hecho prevista por el mismo, y que sean distintas a las señaladas en las fracciones II y III de este artículo.
 
-III. Las Dependencias y Entidades no podrán crear estructuras orgánicas y ocupacionales excesivas, y se sujetarán a lo que establezca la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias;
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
-IV. El Instituto de Administración y Avalúos de Bienes Nacionales continuará las acciones para el mejor uso y aprovechamiento inmobiliario que considere, entre otras, la puesta a disposición de inmuebles desaprovechados, mismos que podrán ser utilizados para resolver necesidades de otras instituciones públicas o, en su defecto, para su desincorporación y enajenación. Para tal efecto, dicho Instituto actualizará el programa de aprovechamiento inmobiliario federal mismo que deberá publicarse en su página de Internet, así como podrá realizar verificaciones a los inmuebles que así considere, previo aviso a la institución pública de que se trate. Las acciones derivadas del programa deberán sujetarse al presupuesto aprobado para las Dependencias y Entidades;
+II. Derechos. Son las contraprestaciones establecidas en este Código, que deben pagar las personas físicas y jurídicas colectivas, por el uso o aprovechamiento de los bienes del dominio público de la Entidad, así como por recibir servicios que presten el Estado, sus organismos y Municipios en funciones de derecho público, excepto cuando se presten por organismos descentralizados u órganos desconcentrados cuando, en este último caso, se trate de contraprestaciones que no se encuentren previstas en este Código. También son derechos las contribuciones que perciban los organismos públicos descentralizados por prestar servicios exclusivos del Estado.
 
-V. Las contrataciones públicas se llevarán a cabo preferentemente de manera consolidada, siempre y cuando se asegure la obtención de ahorros y de las mejores condiciones para el Estado en cuanto a calidad, precio y oportunidad disponibles; para tal efecto, las Dependencias y Entidades podrán realizar las transferencias de recursos conforme a las disposiciones aplicables.
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-Adicionalmente, se utilizará la modalidad de ofertas subsecuentes de descuentos en las licitaciones públicas que se realicen cuando los bienes a adquirir o servicios por contratar satisfagan los requisitos y condiciones que establece la normatividad en la materia y se asegure con ello la obtención de las mejores condiciones para el Estado;
+III. Contribuciones o Aportaciones de Mejoras. Son las establecidas en este Código, a cargo de las personas físicas y jurídicas colectivas, que con independencia de la utilidad general, obtengan un beneficio diferencial particular derivado de la realización de obras públicas o de acciones de beneficio social; las que efectúen las personas a favor del Estado para la realización de obras de impacto vial regional, que directa o indirectamente las beneficien, así como las derivadas de Servicios Ambientales o de Movilidad Sustentable.
 
-VI. Las Dependencias y Entidades que tengan contratadas pólizas de seguros sobre personas y bienes deberán llevar a cabo las acciones necesarias para incorporarse a las pólizas institucionales coordinadas por la Secretaría, siempre y cuando dicha incorporación represente una reducción en el gasto global y que se mantengan o mejoren las condiciones contratadas en la póliza, y
+> <small>(ADICIONADA, G.G. 29 DE MAYO DE 2007)</small>
 
-VII. La Secretaría podrá establecer mecanismos financieros de cobertura de riesgos para atender obligaciones contingentes relacionadas con bienes culturales de las Dependencias y Entidades, considerando las asignaciones con las que cuenten para tal fin, así como de aquellas obras de arte que ingresen al territorio nacional para su exhibición al público en general.
-
-Las Dependencias y Entidades proporcionarán a la Secretaría, en los términos que ésta determine, la información relacionada con los contratos que impliquen la erogación de recursos públicos, la cual será pública, en formato de datos abiertos. Para ello, se integrará la información que al respecto contenga el sistema CompraNet o, en su caso, el que determine la Secretaría, en términos de las disposiciones jurídicas aplicables.
-
-La Secretaría, desde el ámbito del control presupuestario, podrá autorizar en casos excepcionales modalidades específicas de aplicación de las medidas de austeridad y disciplina presupuestaria referidas en las fracciones anteriores, o bien en los supuestos que las Dependencias y Entidades que sean objeto de reformas jurídicas, de nueva creación o cuando se realicen modificaciones a su estructura programática.
-
-Las Dependencias y Entidades que reciban ampliaciones líquidas del Ramo General 23 Provisiones Salariales y Económicas, distintos de los ingresos excedentes que tengan un destino específico, únicamente deberán destinarlos a los fines autorizados por la Secretaría.
-
-Los Poderes Legislativo y Judicial, así como los entes autónomos, deberán implantar medidas equivalentes a las aplicables en las Dependencias y Entidades, respecto de la reducción del gasto destinado a las actividades administrativas, de apoyo y del presupuesto regularizable de servicios personales, para lo cual publicarán en el Diario Oficial de la Federación y en sus respectivas páginas de Internet, a más tardar el último día hábil del mes de febrero, sus respectivos lineamientos y el monto correspondiente a la meta de ahorro. Asimismo, reportarán en los Informes Trimestrales las medidas que hayan adoptado y los montos de ahorros obtenidos. Dichos reportes serán considerados por la Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados en el proceso de análisis y aprobación de las erogaciones correspondientes al Presupuesto de Egresos para el siguiente ejercicio fiscal.
-
-La Secretaría reportará en los Informes Trimestrales las variaciones en el gasto corriente estructural.
+IV. Aportaciones y cuotas de Seguridad Social. Son las contribuciones que las instituciones públicas y sus servidores públicos, respectivamente, están obligados a cubrir en los términos de la ley en materia de seguridad social en el Estado.
 
 ###### Artículo 10.
 
-En materia de comunicación social, los Poderes Legislativo y Judicial, los entes autónomos, así como las Dependencias y Entidades, se sujetarán a la Ley General de Comunicación Social y a las demás disposiciones jurídicas aplicables. En el caso de las Dependencias y Entidades, adicionalmente, se sujetarán a la política de comunicación social del Gobierno Federal que formule la Oficina de la Presidencia de la República, con la intervención que corresponda a la Secretaría de Gobernación. Asimismo, los ejecutores de gasto deberán observar lo siguiente:
+Son productos, las contraprestaciones por los servicios que presten el Estado y los municipios en sus actividades de derecho privado, así como por el uso, aprovechamiento y enajenación de sus bienes de dominio privado, que estén previstos en la Ley de Ingresos.
 
-I. Podrán destinar recursos presupuestarios para la difusión de campañas de comunicación social, a través de la radio y la televisión, siempre y cuando hayan solicitado los tiempos oficiales, y dichos tiempos no estuvieran disponibles en los espacios y tiempos solicitados.
-
-No podrán realizarse erogaciones en comunicación social en las entidades federativas en donde se lleven a cabo elecciones, durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la jornada comicial. Solo podrán realizarse erogaciones en los tiempos a que se refiere el párrafo anterior, en los casos de excepción previstos en la Constitución Política de los Estados Unidos Mexicanos y en la legislación de la materia;
-
-II. Las Dependencias y Entidades registrarán la información a la que se refiere el artículo 33 de la Ley General de Comunicación Social, en el sistema respectivo, de conformidad con las disposiciones generales que para tal efecto publique la Secretaría de Gobernación, en el Diario Oficial de la Federación, de conformidad con la Ley señalada;
-
-III. Las erogaciones que conforme a este artículo realicen las Entidades deberán ser autorizadas por el órgano de gobierno respectivo o su equivalente;
-
-IV. Durante el ejercicio fiscal no podrán realizarse ampliaciones y/o traspasos de recursos de otros capítulos o conceptos de gasto, al concepto de gasto correspondiente a servicios de comunicación social y publicidad de los respectivos presupuestos, ni podrán incrementarse dichos conceptos de gasto, salvo que dichos recursos se destinen a mensajes para atender situaciones de carácter preventivo o contingente; que tengan como propósito mantener la prestación de servicios a la población que no se puedan atender de manera presencial derivado de situaciones emergentes; que se requieran para la promoción comercial de las Entidades para que generen mayores ingresos; que tengan como propósito promover a México como destino turístico en el extranjero, o que se realicen con cargo a los ingresos excedentes que obtenga el Instituto Nacional de Migración para mejorar los servicios migratorios. En dichos supuestos, los ejecutores de gasto deberán obtener de la Secretaría de Gobernación la autorización del programa de comunicación social o bien de la modificación respectiva, para lo cual señalarán el costo y su fuente de financiamiento y, posteriormente, deberán realizar el trámite de adecuación presupuestaria ante la Secretaría;
-
-V. Una vez que las Dependencias y Entidades cuenten con los recursos autorizados conforme a la fracción anterior, el Ejecutivo Federal, por conducto de la Secretaría de Gobernación, presentará a la Cámara de Diputados a través de la Comisión competente, un informe con las razones que justifican la ampliación o traspaso correspondiente, así como su cuantía y modalidades de ejercicio.
-
-Lo anterior, sin perjuicio de las obligaciones que, conforme a la Ley General de Comunicación Social, deban cumplir las Dependencias y Entidades;
-
-VI. Las erogaciones realizadas en materia de comunicación social se acreditarán únicamente con órdenes de transmisión para medios electrónicos, con órdenes de inserción para medios impresos y con órdenes de servicio para medios complementarios. En todos los casos se deberá especificar la tarifa convenida, concepto, descripción del mensaje, destinatarios, cobertura geográfica, circulación certificada y pautas de difusión en relación con el medio de comunicación que corresponda;
-
-VII. Los Poderes Legislativo y Judicial, los entes autónomos, así como las Dependencias y Entidades, previo a la contratación de servicios de producción, espacios en radio y televisión comerciales, deberán atender la información de los medios sobre cobertura geográfica, audiencias, programación y métodos para medición de audiencias, así como su capacidad técnica para la producción, postproducción y copiado. La Secretaría de Gobernación dará seguimiento a la inclusión de los medios públicos en los programas y campañas de comunicación social y publicidad de las Dependencias y Entidades;
-
-VIII. La Función Pública, en términos de lo dispuesto en la Ley General de Comunicación Social, a través del sistema respectivo dará seguimiento al registro que realicen las Dependencias y Entidades sobre las erogaciones en materia de comunicación social;
-
-IX. El gasto en comunicación social aprobado en este Presupuesto de Egresos deberá destinarse, al menos, en un 5 por ciento a la contratación en medios impresos, conforme a las disposiciones aplicables, y
-
-X. Los Poderes Legislativo y Judicial, los entes autónomos, así como las Dependencias y Entidades, que cuenten con recursos en este Presupuesto de Egresos para comunicación social, deben elaborar sus respectivos Programas Anuales de Comunicación Social, de conformidad y en los términos de la legislación aplicable.
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 11.
 
-Para lograr una mayor transparencia en materia de contrataciones públicas, promover la reactivación económica y fortalecer las cadenas productivas, las Dependencias y Entidades que realicen adquisiciones de bienes y contratación de servicios o de obra pública, se sujetarán al Programa de Cadenas Productivas de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, a fin de dar de alta en el mismo las cuentas por pagar a sus proveedores o contratistas, apegándose a las disposiciones generales aplicables a dicho Programa, las cuales serán emitidas por la Secretaría e interpretadas por la unidad administrativa de la misma que ejerza las facultades de coordinación con las instituciones de banca de desarrollo.
+Son aprovechamientos los ingresos que percibe el Estado y los Municipios por funciones de derecho público y por el uso o explotación de bienes del dominio público, distintos de los impuestos, derechos, aportaciones de mejoras e ingresos derivados de la coordinación hacendaria, y de los que obtengan los organismos auxiliares del Estado y de los Municipios.
 
-Con el propósito de fomentar la transparencia, tratándose de las empresas productivas del Estado, éstas podrán incorporarse al Programa de Cadenas Productivas, con el objeto de que sus proveedores y contratistas sean beneficiados con este programa.
-
-El registro de las cuentas por pagar deberá realizarse de acuerdo con los plazos definidos en dichas disposiciones, con el propósito de dar mayor certidumbre, transparencia y eficiencia en los pagos.
-
-Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, con el apoyo de dichas Dependencias y Entidades y, en su caso, las empresas productivas del Estado, promoverá la utilización del Programa de Cadenas Productivas con los proveedores y contratistas del sector público y reportará los avances que se presenten en los Informes Trimestrales.
+> <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 12.
 
-Los recursos previstos en los presupuestos de las Dependencias y Entidades en materia de servicios personales y, en su caso, en los ramos generales, incorporan la totalidad de las previsiones para sufragar las erogaciones correspondientes a las medidas salariales y económicas, y se sujetarán a lo siguiente:
+Son accesorios de las contribuciones y de los aprovechamientos, los recargos, las multas, los gastos de ejecución y la indemnización por la devolución de cheques, y participan de la naturaleza de la suerte principal, cuando se encuentren vinculados directamente a la misma.
 
-I. Los incrementos a las percepciones se determinarán, conforme a:
-
-a) La estructura ocupacional autorizada;
-
-b) Las plazas registradas en el sistema de administración de nómina y demás elementos previstos en el caso del artículo 27-A de la Ley de Coordinación Fiscal y del Ramo General 25 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos, para el caso del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo;
-
-c) La plantilla de personal, tratándose del Fondo de Aportaciones para los Servicios de Salud (FASSA), y
-
-d) Las plantillas de personal, tratándose del Fondo de Aportaciones para la Educación Tecnológica y de Adultos (FAETA); y, en el caso de los servicios de educación para adultos, en los términos de la Ley de Coordinación Fiscal.
-
-Las previsiones para el incremento a las percepciones, a que se refieren los Anexos 7 y 24 de este Decreto, incluyen la totalidad de los recursos para categorías y personal de confianza y sindicalizado, por lo que no deberá utilizarse la asignación prevista a un grupo para favorecer a otro;
-
-II. En el presente ejercicio fiscal en las Dependencias y Entidades no se crearán plazas en nivel alguno con excepción de los casos previstos en el artículo 9, fracción I, de este Decreto;
-
-III. Las previsiones a que se refiere el Anexo 24 de este Decreto incluyen los recursos para la educación tecnológica y de adultos correspondientes a aquellas entidades federativas que no han celebrado los convenios establecidos en el artículo 42 de la Ley de Coordinación Fiscal. Una vez que dichas entidades celebren los convenios respectivos, dichos recursos serán entregados a éstas a través del Ramo General 33 Aportaciones Federales para Entidades Federativas y Municipios;
-
-IV. Los recursos del Ramo General 25 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos, incluyen las previsiones para cubrir:
-
-a) Las medidas salariales y económicas correspondientes al fondo previsto en los artículos 26, 26-A, 27 y 27-A de la Ley de Coordinación Fiscal y al Fondo para la Educación Tecnológica y de Adultos (FAETA), que serán cubiertas a través del Ramo General 33 Aportaciones Federales para Entidades Federativas y Municipios;
-
-b) Las medidas económicas que se requieran para la cobertura y el mejoramiento de la calidad del sistema educativo. Asimismo, las previsiones para incrementos a las percepciones incluyen las correspondientes a los sistemas de desarrollo profesional que, en su caso, correspondan en los términos de la ley de la materia, y
-
-c) Las plazas que sean creadas con cargo a los recursos establecidos en el rubro de previsiones salariales y económicas del Ramo General 25 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos, para su aplicación a través del Ramo General 33 Aportaciones Federales para Entidades Federativas y Municipios, de acuerdo con la normatividad aplicable, y
-
-V. Las previsiones incluidas en el Fondo de Aportaciones para los Servicios de Salud (FASSA), incluyen los recursos para cubrir aquellas medidas económicas que se requieran para la cobertura y el mejoramiento de la calidad del sistema de salud.
-
-Las Dependencias y Entidades reportarán en los Informes Trimestrales el impacto de los incrementos salariales en el presupuesto regularizable.
+> <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 13.
 
-Las remuneraciones autorizadas a los servidores públicos de la Federación se integran en términos de las percepciones previstas en el presente Decreto, en su Anexo 23 y en el Tomo IX de este Presupuesto de Egresos, conforme a lo dispuesto en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal de Remuneraciones de los Servidores Públicos:
+Son ingresos derivados del Sistema Nacional de Coordinación Fiscal los que perciban el Estado y los municipios como consecuencia de la adhesión del Estado a este Sistema y se regularán además, por lo que en su caso disponga la Ley de Coordinación Fiscal.
 
-I. Las remuneraciones se integran, conforme a lo dispuesto en la referida disposición constitucional; los artículos 7 de la Ley Federal de Remuneraciones de los Servidores Públicos, y 2, fracciones XXXIII, XXXIV y XLVI, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, con la suma de la totalidad de percepciones ordinarias y extraordinarias que perciben los servidores públicos de la Federación.
+Son otros apoyos federales los que deriven de los convenios, acuerdos o declaratorias, que en materia administrativa al efecto se celebren o realicen.
 
-Las percepciones ordinarias incluyen la totalidad de los elementos fijos de la remuneración. Las percepciones extraordinarias consideran los elementos variables de dicha remuneración, la cual solo podrá cubrirse conforme a los requisitos y la periodicidad establecidos en las disposiciones aplicables.
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
-La Secretaría podrá autorizar, en términos de las disposiciones específicas que emita, el otorgamiento de compensaciones económicas para el personal que integra la Guardia Nacional como parte de su sistema de remuneraciones, así como de los sistemas complementarios de seguridad social, sin que lo anterior comprometa recursos de largo plazo mayores a los autorizados en los términos de este Decreto.
-
-Las contribuciones a cargo de los servidores públicos que se causen por las percepciones señaladas en la presente fracción, forman parte de su remuneración;
-
-II. La remuneración total anual autorizada al Presidente de la República y los límites de remuneración mensual para la Administración Pública Federal se integran en términos de los artículos 7, 12, inciso b), y transitorio Quinto de la Ley Federal de Remuneraciones de los Servidores Públicos y de las percepciones previstas en el presente Decreto y, conforme a lo siguiente:
-
-a) Los límites mínimos y máximos de percepciones ordinarias brutas y netas mensuales para los servidores públicos de la Administración Pública Federal, las cuales incluyen la suma de la totalidad de pagos fijos, en efectivo y en especie, se presentan en el Anexo 23.1.1. de este Decreto y comprenden los conceptos que a continuación se señalan con sus respectivos montos:
-
-i. Los montos correspondientes a sueldos y salarios, y
-
-ii. Los montos correspondientes a las prestaciones.
-
-Los montos de las percepciones ordinarias presentadas en el Anexo 23.1. no consideran los incrementos salariales que, en su caso, se autoricen para el presente ejercicio fiscal, las repercusiones que se deriven de la aplicación de las disposiciones de carácter fiscal, ni las adecuaciones a la curva salarial del tabulador;
-
-b) La remuneración ordinaria total líquida mensual neta autorizada al Presidente de la República para el ejercicio fiscal de 2022 se incluye en el Anexo 23.1.2. de este Decreto;
-
-c) La remuneración total anual de percepciones ordinarias autorizada al Presidente de la República para el ejercicio fiscal de 2022 se incluye en el Anexo 23.1.3. de este Decreto, y
-
-d) En el presente Presupuesto de Egresos se consideran recursos para el pago de percepciones extraordinarias que, en su caso, percibirán los servidores públicos que, conforme a las disposiciones aplicables, tengan derecho a recibirlas. Las percepciones extraordinarias que se paguen a los servidores públicos se informarán a la Secretaría, en términos del último párrafo del artículo 14 de este Decreto;
-
-III. La remuneración total anual autorizada a los titulares de los ejecutores de gasto que a continuación se indican y los límites correspondientes a las percepciones ordinarias y extraordinarias de los servidores públicos de dichos ejecutores de gasto, conforme a lo dispuesto en la fracción I, primer párrafo, de este artículo, se presentan en los Anexos siguientes de este Decreto:
-
-a) Anexo 23.2. Ramo 01: Cámara de Senadores;
-
-b) Anexo 23.3. Ramo 01: Cámara de Diputados;
-
-c) Anexo 23.4. Ramo 01: Auditoría Superior de la Federación;
-
-d) Anexo 23.5. Ramo 03: Suprema Corte de Justicia de la Nación;
-
-e) Anexo 23.6. Ramo 03: Consejo de la Judicatura Federal;
-
-f) Anexo 23.7. Ramo 03: Tribunal Electoral del Poder Judicial de la Federación;
-
-g) Anexo 23.8. Ramo 22: Instituto Nacional Electoral;
-
-h) Anexo 23.9. Ramo 35: Comisión Nacional de los Derechos Humanos;
-
-i) Anexo 23.10. Ramo 41: Comisión Federal de Competencia Económica;
-
-j) Anexo 23.11. Ramo 43: Instituto Federal de Telecomunicaciones;
-
-k) Anexo 23.12. Ramo 44: Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
-
-l) Anexo 23.13. Ramo 49: Fiscalía General de la República;
-
-m) Anexo 23.14. Ramo 40: Instituto Nacional de Estadística y Geografía, y
-
-n) Anexo 23.15. Ramo 32: Tribunal Federal de Justicia Administrativa, y
-
-IV. El desglose de las percepciones por ejecutor de gasto, se presenta en el Tomo IX de este Presupuesto de Egresos.
-
-Las Dependencias y Entidades podrán modificar las percepciones ordinarias de los puestos conforme a las disposiciones aplicables, sujetándose a los límites máximos establecidos en el Anexo 23.1. del presente Decreto, previa autorización y registro presupuestario en los términos de las disposiciones aplicables. Asimismo, podrán efectuarse ajustes en la composición de las percepciones ordinarias por concepto de sueldos y salarios, siempre y cuando no se incremente el monto mensual previsto en dicho Anexo para el puesto correspondiente, y no se aumente su presupuesto regularizable de servicios personales.
-
-Las Entidades que cuenten con planes de compensación acordes con el cumplimiento de las expectativas de aumento en el valor agregado, podrán determinar las percepciones aplicables, sin generar costos adicionales y siempre que dichos planes sean autorizados por la Secretaría en lo que se refiere a que el presupuesto total de la entidad no se incremente y no se afecten negativamente los objetivos y metas de sus programas, y por lo que se refiere a la Función Pública en cuanto a la congruencia del plan de compensación con la política de planeación y administración de personal de la Administración Pública Federal.
-
-Ningún servidor público podrá recibir emolumentos extraordinarios, sueldos, compensaciones o gratificaciones por participar en consejos, órganos de gobierno o equivalentes en las Dependencias y Entidades o comités técnicos de fideicomisos públicos o análogos a éstos.
-
-Los ejecutores de gasto público federal publicarán en sus respectivas páginas de Internet, de manera permanente, y reportarán en la Cuenta Pública, los tabuladores y las remuneraciones que se cubren a los servidores públicos a su cargo y, en los casos correspondientes, al personal militar; personal de enlace; así como personal operativo de base y confianza, y categorías, especificando los elementos fijos y variables, tanto en efectivo como en especie. Las Dependencias y Entidades deberán reportar a la Secretaría, a través del sistema que para tales efectos esta determine, la información relativa a las plazas ocupadas de su plantilla autorizada, para efectos del control presupuestario de los servicios personales, en términos de las disposiciones específicas que emita la Secretaría.
-
-Los Poderes Legislativo y Judicial, las Dependencias y Entidades, así como los entes autónomos, deberán abstenerse de cubrir cualquier tipo de estímulo, pago o compensación especial a los servidores públicos a su servicio, con motivo del término de su encargo, o bien por el término de la administración correspondiente.
-
-No se autoriza a los ejecutores de gasto el pago de Seguros de Separación Individualizada que no den cumplimiento estricto a las condiciones dispuestas en la fracción IV del párrafo segundo del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+Son ingresos derivados del Sistema de Coordinación Hacendaria del Estado de México, los que perciban los Municipios de conformidad con las disposiciones de este Código, de convenios, acuerdos o declaratorias, que al efecto se celebren o realicen.
 
 ###### Artículo 14.
 
-Los servidores públicos de mando y personal de enlace de las Dependencias y Entidades solo podrán percibir las prestaciones establecidas en el manual a que se refieren los artículos 66 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y 24 de la Ley Federal de Remuneraciones de los Servidores Públicos. Asimismo, las Dependencias y Entidades no podrán destinar recursos para cubrir prestaciones en adición a aquéllos previstos en el gasto de servicios personales aprobado en este Presupuesto de Egresos.
+Son ingresos provenientes de financiamientos, los derivados de la contratación de créditos, en términos de lo establecido en este Código y demás disposiciones legales.
 
-En los procesos de revisión de las condiciones generales de trabajo y de los contratos colectivos de trabajo que realicen las Dependencias y Entidades se deberán sujetar a su presupuesto autorizado.
-
-Los titulares de las Entidades informarán a la Cámara de Diputados, así como a la Secretaría y a la Función Pública, sobre los resultados obtenidos en los procesos de revisión de las condiciones generales de trabajo, de los contratos colectivos de trabajo y de las revisiones de salario que, en su caso, realicen en el presente ejercicio fiscal. Dichos informes, incluyendo el reporte sobre el cumplimiento de lo dispuesto en el artículo 65, fracción XII, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, serán presentados, a más tardar a los 10 días hábiles posteriores a la conclusión de dichas negociaciones.
-
-Las Dependencias y Entidades enviarán informes a la Secretaría con el detalle de todas las prestaciones y percepciones extraordinarias que perciben los servidores públicos a su cargo, así como el gasto total destinado al pago de las mismas en el periodo correspondiente, a fin de que se incluyan en los Informes Trimestrales.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 15.
 
-Las Dependencias y Entidades observarán las siguientes disposiciones en materia de servicios personales:
+Son créditos fiscales los que tengan derecho a percibir el Estado, los municipios o sus organismos que deriven de contribuciones, aprovechamientos, accesorios, y de responsabilidades administrativas, así como aquellos a los que las leyes les den ese carácter.
 
-I. Solicitarán autorización presupuestaria de la Secretaría, respecto de sus tabuladores, para dar cumplimiento a lo dispuesto en la Base V del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(ADICIONADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
-II. El pago de remuneraciones por ocupación de plazas, cuando procedan, solo podrá comprender hasta un periodo de 45 días naturales anteriores a la fecha de autorización, siempre y cuando se acredite fehacientemente la asistencia y desempeño del servicio durante dicho periodo en la plaza respectiva;
+Para tales efectos, las autoridades que remitan créditos fiscales a la autoridad fiscal recaudadora para su cobro, deberán cumplir con los requisitos que mediante Reglas de Carácter General establezca la Secretaría.
 
-III. Podrán traspasarse las plazas necesarias de las Dependencias y Entidades, que con motivo de una reestructura en la Administración Pública Federal, derivada de una reforma legal o a ordenamientos de carácter administrativo, asuman funciones de aquéllas que se transformen, compacten, eliminen o sean creadas, para lo cual se deberá contar con la autorización presupuestaria de la Secretaría, conforme al mecanismo presupuestario que establezca para dichos fines;
-
-IV. Las Dependencias y Entidades deberán instrumentar las acciones necesarias y en caso de ser necesario realizar las gestiones en materia presupuestaria ante la Secretaría para dar cumplimiento a la restricción de la subcontratación de personal establecida en las disposiciones del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Ley del Impuesto sobre la Renta; de la Ley del Impuesto al Valor Agregado; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral”, publicado en el Diario Oficial de la Federación el 23 de abril de 2021, así como su Decreto de reforma publicado en el mismo órgano de difusión oficial el 31 de julio de 2021, y
-
-V. En los Anexos Informativos previstos en el artículo 41, fracción III, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria se presenta la información correspondiente a las jubilaciones, pensiones, compensaciones, haberes y demás prestaciones por retiro, a que se refiere el artículo 27 de la Ley Federal de Remuneraciones de los Servidores Públicos.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 16.
 
-La Secretaría, en el ámbito de su competencia, podrá establecer un mecanismo para cubrir una compensación económica a los servidores públicos por la terminación de la relación laboral como consecuencia de reestructuraciones a la Administración Pública Federal; la desincorporación de Entidades; la cancelación de plazas, o la eliminación de unidades administrativas de las Dependencias o Entidades, en los términos de las disposiciones específicas que, al efecto, emita la propia Secretaría.
+Son autoridades fiscales, el Gobernador, los ayuntamientos, los presidentes, síndicos y tesoreros municipales, así como los servidores públicos de las dependencias o unidades administrativas, y de los organismos públicos descentralizados, que en términos de las disposiciones legales y reglamentarias tengan atribuciones de esta naturaleza.
 
-Dichas disposiciones específicas establecerán, entre otros aspectos, los montos de la compensación económica, los cuales se podrán cubrir con recursos del Ramo General 23 Provisiones Salariales y Económicas o conforme al mecanismo presupuestario y de pago que se determine; los tipos de personal que podrán acogerse al mismo, considerando no afectar la prestación de servicios públicos; así como el procedimiento que deberán seguir las Dependencias y Entidades correspondientes para su aplicación.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 15 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 17.
 
-En aquellos puestos de personal militar y, en su caso, en los que se establezcan en las disposiciones específicas que emita la Secretaría y la Función Pública, respecto de las Dependencias cuyo desempeño ponga en riesgo la seguridad o la salud del servidor público de mando, podrá otorgarse la potenciación del seguro de vida institucional, y una prima personal de riesgo hasta por el 30 por ciento sobre la percepción ordinaria mensual, por concepto de sueldos y salarios.
+El Estado, los Municipios, las Entidades Públicas y los Organismos Autónomos podrán celebrar convenios para la administración y recaudación de contribuciones, aprovechamientos e ingresos propios; y en este caso se considerarán autoridades fiscales, quienes asuman la función en los términos de los convenios que suscriban.
 
-La Función Pública evaluará la gravedad del riesgo y determinará el porcentaje de la prima personal en función del riesgo y, en su caso, autorizará el pago, previo dictamen favorable de la Secretaría en el ámbito presupuestario.
+> <small>(ADICIONADO, G.G. 7 DE AGOSTO DE 2003)</small>
+
+El Gobernador, por conducto del titular de la Secretaría, podrá celebrar convenios de colaboración administrativa con otros Estados y el Distrito Federal, en las materias de verificación, determinación y recaudación de las contribuciones, así como para la notificación de créditos fiscales y aplicación del procedimiento administrativo de ejecución.
+
+> <small>(ADICIONADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+La Secretaría podrá celebrar con autoridades federales, estatales, municipales o con personas físicas o jurídicas colectivas de nacionalidad mexicana, convenios, acuerdos, así como cualquier instrumento jurídico o administrativo que considere necesarios para la recaudación, fiscalización y administración de ingresos federales, estatales o municipales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 18.
 
-Petróleos Mexicanos y la Comisión Federal de Electricidad deberán remitir a la Secretaría los tabuladores y la estructura ocupacional autorizados en términos de las disposiciones jurídicas aplicables y conforme a su presupuesto de servicios personales aprobado.
+Las disposiciones fiscales que establezcan cargas a las personas, incluidas las asociaciones en participación, las que señalen excepciones a las mismas, así como las que fijen las infracciones y sanciones, son de aplicación estricta. Se considera que establecen cargas a las personas, incluidas las asociaciones en participación las normas que se refieren al sujeto, objeto, base, tasa o tarifa de las contribuciones.
+
+(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)(F. DE E., G.G. 12 DE MARZO DE 2001)
+
+Las demás disposiciones fiscales se deberán aplicar mediante cualquier método de interpretación jurídica. A falta de norma fiscal expresa, se aplicarán las disposiciones del derecho común vigente en el Estado, siempre y cuando su aplicación no sea contraria a la naturaleza jurídica del derecho fiscal.
+
+> <small>(ADICIONADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 18 Bis.
 
@@ -435,15 +541,27 @@ Las autoridades fiscales, podrán tener por acreditada la representación de las
 
 ###### Artículo 19.
 
-Las instituciones de banca de desarrollo deberán remitir a la Secretaría para el registro correspondiente los tabuladores y la estructura ocupacional autorizados en términos de las disposiciones jurídicas aplicables.
+Las personas físicas y jurídicas colectivas, incluidas las asociaciones en participación, están obligadas al pago de las contribuciones y aprovechamientos, conforme a las disposiciones de este Código.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 20.
 
-Los Poderes Legislativo y Judicial y los entes autónomos deberán publicar en el Diario Oficial de la Federación, a más tardar el último día hábil del mes de febrero, el manual que regule las remuneraciones para los servidores públicos a su servicio, incluyendo a los Diputados y Senadores del Congreso de la Unión; Ministros de la Suprema Corte de Justicia de la Nación; Magistrados y Jueces del Poder Judicial y Consejeros de la Judicatura Federal; Presidentes y miembros de los órganos de gobierno de los entes autónomos; así como a los demás servidores públicos; en el que se proporcione la información completa y detallada relativa a las remuneraciones que se cubran para cada uno de los niveles jerárquicos que los conforman.
+Los contribuyentes que tengan la obligación de presentar declaraciones para el pago de contribuciones, cuando así lo señale este Código, lo harán a través de los medios autorizados y las formas y formatos electrónicos aprobados por la autoridad fiscal, debiendo proporcionar los datos, informes y documentos que en dichas formas y formatos electrónicos se requieran y en su caso, pagar mediante transferencia electrónica de fondos a favor del Gobierno del Estado de México o del Ayuntamiento que corresponda, siendo responsabilidad del contribuyente el uso del servicio electrónico empleado para tal efecto y de las restricciones particulares del mismo con las instituciones del sistema financiero mexicano de las que sea cuentahabiente.
 
-Adicionalmente, deberán publicar en el Diario Oficial de la Federación, en la fecha antes señalada, la estructura ocupacional que contenga la integración de los recursos aprobados en el capítulo de servicios personales, con la desagregación de su plantilla total, incluidas las plazas a que se refiere el párrafo anterior, junto con las del personal operativo, eventual y el contratado bajo el régimen de honorarios, en el que se identifiquen todos los conceptos de pago y aportaciones de seguridad social que se otorguen con base en disposiciones emitidas por sus órganos competentes, así como la totalidad de las plazas vacantes con que cuenten a dicha fecha.
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-En tanto no se publiquen en el Diario Oficial de la Federación las disposiciones y la estructura ocupacional a que se refieren los párrafos anteriores de este artículo, no procederá el pago de estímulos, incentivos, reconocimientos o gastos equivalentes a los mismos.
+Quienes realicen las operaciones de pago de conformidad con el presente artículo, obtendrán el acuse de recibo correspondiente, que consistirá en el documento digital, número de referencia, sello digital o folio de la operación que trasmita el destinatario a recibir la declaración de que se trate, para el costo del pago mediante transferencia electrónica de fondos, el acuse de recibo, consistirá en el documento o folio de la operación que emita la institución financiera de que se trate.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+Las formas oficiales deberán publicarse en el Periódico Oficial, salvo que se trate de avisos o declaraciones electrónicas que serán dadas a conocer a través del portal electrónico del Gobierno del Estado de México, los cuales estarán apegados a las disposiciones fiscales aplicables.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2018)</small>
+
+La autoridad fiscal recibirá las declaraciones, avisos, solicitudes y demás documentos tal y como se presenten, sin hacer observaciones ni objeciones y entregará el acuse de recibo correspondiente. Únicamente podrán rechazar la presentación cuando no contengan el nombre, denominación o razón social del contribuyente, su domicilio fiscal, o no aparezcan debidamente firmados, no se acompañen los anexos o tratándose de declaraciones, estas contengan errores aritméticos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 15 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 20 Bis.
 
@@ -519,49 +637,73 @@ Cuando los contribuyentes remitan un documento digital a las autoridades fiscale
 
 ###### Artículo 21.
 
-En cumplimiento a la Ley General para la Igualdad entre Mujeres y Hombres, y a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, el Ejecutivo Federal impulsará, de manera transversal, la igualdad sustantiva entre mujeres y hombres a través de la incorporación de la perspectiva de género en el diseño, elaboración, aplicación, seguimiento y evaluación de resultados de los programas de la Administración Pública Federal. Para tal efecto, las Dependencias y Entidades deberán considerar lo siguiente:
+Las declaraciones que presenten los contribuyentes, podrán ser modificadas por el propio contribuyente hasta en tres ocasiones mediante declaraciones complementarias, para corregir los datos asentados en la declaración original, siempre y cuando no se haya iniciado el procedimiento de comprobación.
 
-I. Incorporar los principios de igualdad entre mujeres y hombres y reflejarla en el instrumento de seguimiento del desempeño de los programas bajo su responsabilidad;
+> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-II. Identificar y registrar la población objetivo y la atendida por dichos programas, diferenciada por sexo, grupo de edad, discapacidad, en su caso, región del país, entidad federativa, municipio o demarcación territorial de la Ciudad de México, y población indígena en los sistemas que disponga la Secretaría y en los padrones de beneficiarios que correspondan;
+En caso de que se haya iniciado éste, el contribuyente podrá presentar hasta en tres ocasiones declaración complementaria adicional, cuando sólo incremente la base de determinación de contribuciones, reduzca las cantidades aplicadas contra las contribuciones a su cargo o cuando resulten diferencias a consecuencia del dictamen sobre la determinación, pago o entero de contribuciones formulado por contador público autorizado.
 
-III. Fomentar la igualdad entre mujeres y hombres en el diseño y la ejecución de programas en los que, aun cuando no estén dirigidos a mitigar o solventar desigualdades de género, se puedan identificar de forma diferenciada los beneficios específicos para mujeres y hombres;
+> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
-IV. Establecer o consolidar en los programas bajo su responsabilidad, las metodologías de evaluación y seguimiento que generen información relacionada con indicadores para resultados con perspectiva de género;
+Si como consecuencia de la presentación de la declaración complementaria, se determina que el pago efectuado fue menor al que correspondía, se cobrarán recargos sobre la diferencia por pago extemporáneo, contados a partir de la fecha en que debió hacerse el mismo.
 
-V. Incorporar la perspectiva de género en las evaluaciones de los programas, con los criterios que emitan el Instituto Nacional de las Mujeres, la Secretaría y el Consejo Nacional de Evaluación de la Política de Desarrollo Social, y
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2018)</small>
 
-VI. Fortalecer todos los programas con perspectiva de género.
+Los sujetos que tengan obligación de presentar declaraciones periódicas de conformidad con las disposiciones de este Código y no tengan contribuciones a cargo, presentarán la declaración en ceros y solo estarán obligados a presentar nuevamente las declaraciones hasta que exista cantidad a pagar o bien se trate de un nuevo ejercicio fiscal, teniendo que presentar en su caso la declaración del primer periodo en ceros.
 
-Las acciones contenidas en las fracciones anteriores serán obligatorias en lo relativo a los programas y acciones incorporadas en el Anexo 13 del presente Decreto y para los demás programas federales que correspondan.
-
-Las Dependencias y Entidades que tengan a su cargo programas dirigidos a mujeres y atribuciones para lograr la igualdad de género entre mujeres y hombres, así como las entidades federativas y municipios que reciban recursos etiquetados incluidos en el Anexo 13 de este Decreto, deberán suscribir los convenios respectivos durante el primer trimestre, así como informar sobre los resultados de los mismos, los publicarán y difundirán para darlos a conocer a la población e informarle, en las lenguas nacionales reconocidas por la Ley General de Derechos Lingüísticos de los Pueblos Indígenas existentes en la entidad federativa, sobre los beneficios y requisitos para acceder a ellos, en los términos de la normativa aplicable.
-
-Para el seguimiento de los recursos destinados a la igualdad de género entre mujeres y hombres, todo programa federal que contenga padrones de beneficiarios, además de reflejar dicho enfoque en su instrumento de seguimiento del desempeño, generará información de manera desagregada, al menos por sexo y entidad federativa, debiendo observar las disposiciones aplicables en materia de protección de datos personales.
-
-Las Dependencias y Entidades con presupuesto asignado dentro del Anexo 13, que realicen estudios y generen bases de datos o levantamientos de encuestas, deberán hacer públicos sus resultados en sus páginas de Internet con el propósito de poder realizar evaluaciones y análisis posteriores. Las Dependencias y Entidades responsables de la coordinación de los programas contenidos en el Anexo 13 del presente Decreto informarán trimestralmente a través del sistema de información desarrollado por la Secretaría, y en el Sistema de Evaluación de Desempeño en los términos y plazos establecidos en las disposiciones respectivas, sobre los aspectos presupuestarios de los programas y los resultados alcanzados en la materia a la que se refiere el presente capítulo, medidos a través de los indicadores y sus metas contenidos en el instrumento de seguimiento respectivo. Asimismo, se detallarán los aspectos por cada programa presupuestario, contenido en el Anexo mencionado, la población objetivo y atendida, los indicadores utilizados, la programación y el avance en el ejercicio de los recursos.
-
-La Secretaría presentará en los Informes Trimestrales los avances financieros y programáticos que le envíe el Instituto Nacional de las Mujeres con base en la información que a éste le proporcionen las Dependencias y Entidades responsables de los programas a través del sistema indicado en el párrafo anterior.
-
-El Instituto Nacional de las Mujeres remitirá el informe mencionado anteriormente a la Cámara de Diputados, a más tardar a los 30 días naturales de concluido el trimestre que corresponda. Asimismo, deberá poner dicho informe a disposición del público en general a través de su página de Internet, en la misma fecha en que se publiquen los Informes Trimestrales.
-
-La información que se publique trimestralmente servirá para las evaluaciones que se realicen en el marco de las disposiciones aplicables.
-
-Los ejecutores del gasto público federal promoverán programas y acciones para cumplir con el Programa y las acciones derivadas del Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres y del Sistema Nacional para la Igualdad entre Mujeres y Hombres, en los términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y de la Ley General para la Igualdad entre Mujeres y Hombres, respectivamente.
-
-Los resultados de los montos autorizados en los programas y actividades contenidas en el Anexo 13 de este Decreto se detallarán en un anexo específico dentro de la Cuenta Pública del ejercicio fiscal 2022.
-
-La Comisión Nacional de Mejora Regulatoria en conjunción con el Instituto Nacional de las Mujeres revisará las reglas de operación de los programas del Anexo 13 a fin de garantizar el cumplimiento de los objetivos de la Política Nacional para la Igualdad entre Mujeres y Hombres, en los términos de las disposiciones aplicables.
-
-Las menciones realizadas en el presente Decreto con respecto a beneficiarios, así como a titulares y servidores públicos de los ejecutores de gasto, se entenderán referidas a las mujeres y los hombres que integren el grupo de personas correspondiente.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 22.
 
-Las Dependencias y Entidades, en coordinación con la Secretaría de Bienestar, revisarán sus respectivos programas, con el objeto de incluir en aquellos que corresponda, acciones que promuevan la inclusión de las personas con discapacidad.
+Se considera domicilio fiscal de las personas físicas y jurídicas colectivas:
 
-A más tardar el último día hábil de octubre, las Dependencias y Entidades entregarán un reporte a la Secretaría de Bienestar, en relación con las acciones señaladas en este artículo.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-El reporte al que se refiere el párrafo anterior, deberá ser enviado a las Cámaras del Congreso de la Unión para su turno a las Comisiones competentes.
+I. El lugar o establecimiento donde se realicen actividades que generen obligaciones fiscales.
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+II. El lugar o establecimiento en que se realice el hecho generador de la obligación fiscal, cuando las actividades no se realicen en forma habitual.
+
+> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+III. El inmueble en el que residan en el territorio del Estado de México, cuando realicen sus actividades en la vía pública, en puestos fijos y semifijos;
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+IV. La residencia que identifique la autoridad fiscal, cuando exista certeza de que es el único lugar posible de localización del contribuyente.
+
+> <small>(ADICIONADA, G.G. 15 DE DICIEMBRE DE 2017)</small>
+
+V. Aquel que señalen a las entidades financieras o sociedades cooperativas de ahorro y préstamo, cuando sean usuarios de los servicios que presten estas, siempre que los contribuyentes no hayan manifestado alguno de los domicilios citados en las fracciones anteriores o no hayan sido localizados en los mismos.
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Para efecto de cumplir obligaciones municipales se deberá señalar un domicilio fiscal dentro del territorio del municipio, y en el caso de obligaciones de carácter estatal, un domicilio fiscal dentro del territorio del Estado.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+Se entenderá que se señala como domicilio para oír y recibir notificaciones los estrados de las oficinas de la dependencia pública correspondiente cuando:
+
+A). El contribuyente así lo señale de manera expresa.
+
+B). Se señale domicilio fuera del territorio del Estado o Municipio.
+
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+C). La persona a quien deba notificarse desaparezca antes o después de iniciadas las facultades de comprobación.
+
+D). Exista oposición a la diligencia de notificación.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+E). El contribuyente desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio ante la autoridad fiscal estatal o municipal correspondiente, después de la notificación de la orden de visita o del requerimiento de información, o bien después de que se le hubiere notificado un crédito fiscal y no se pueda iniciar el procedimiento administrativo de ejecución.
+
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+F). Cuando no se señale domicilio, o sea inexistente o falso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 22 Bis.
 
@@ -635,135 +777,75 @@ Las personas físicas y jurídicas colectivas que tengan asignado un buzón trib
 
 ###### Artículo 23.
 
-El ejercicio de las erogaciones para el desarrollo integral de los pueblos y comunidades indígenas a que se refiere el Anexo 10 del presente Decreto, se dirigirá al cumplimiento de las obligaciones que señala el artículo 2o., Apartado B, fracciones I a IX, y apartado C de la Constitución Política de los Estados Unidos Mexicanos.
+Están exentos del pago de impuestos, derechos y aportaciones de mejoras, el Estado, los Municipios, los Organismos Autónomos, las Entidades Públicas y las entidades federativas en caso de reciprocidad, cuando su actividad corresponda a funciones de derecho público, así como las personas físicas y jurídicas colectivas que señale este Código o en casos particulares de la Ley de Ingresos.
 
-Para tal efecto, de conformidad con los artículos 42, fracción VII, y 77 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, las Dependencias y Entidades, al ejecutar dichas erogaciones y emitir reglas de operación, se ajustarán a lo siguiente:
+> <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
-I. Las disposiciones para la operación de los programas que la Administración Pública Federal desarrolle en la materia considerarán la participación que, en su caso, tenga el Instituto Nacional de los Pueblos Indígenas, contando con la intervención que corresponda al Consejo Nacional de Pueblos Indígenas, y la Comisión para el Diálogo con los Pueblos Indígenas de México, para facilitar el acceso de los pueblos y comunidades indígenas a sus beneficios;
+Lo dispuesto en el párrafo anterior no resulta aplicable para los artículos 56 y 216-I, así como a lo previsto en la Sección Segunda, del Capítulo Primero del Título Tercero y en la Sección Primera, del Capítulo Segundo del Título Cuarto de este Código.
 
-II. En la ejecución de los programas se considerará la participación de los pueblos y comunidades indígenas, con base en su cultura y formas de organización tradicionales;
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-III. El Ejecutivo Federal, por sí o a través de sus Dependencias y Entidades, podrá celebrar convenios de coordinación con los gobiernos de las entidades federativas, así como formalizar convenios de concertación de acciones con las comunidades indígenas, para proveer la mejor observancia de las previsiones del presente artículo. Cuando corresponda, los recursos a los que se refiere este artículo podrán ser transferidos directamente a los pueblos, municipios y comunidades indígenas, de conformidad con los convenios que para tal efecto se celebren en términos de las disposiciones aplicables.
+Para efectos de la declaración de la exención a que se refiere la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, la calidad de bien del dominio público, deberá acreditarse fehacientemente.
 
-La entidad federativa correspondiente participará en el ámbito de sus atribuciones en los convenios antes señalados, exclusivamente para que los recursos que se transfieran conforme a lo establecido en el presente párrafo, sean registrados por la entidad federativa en su Cuenta Pública;
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-IV. Las reglas de operación de los programas operados por las Dependencias y Entidades que atiendan a la población indígena, deberán contener disposiciones que faciliten su acceso a los programas y procurarán reducir los trámites y requisitos existentes; las Comisiones de Presupuesto y Cuenta Pública, de Pueblos Indígenas y Afromexicanos y la Comisión de Hacienda y Crédito Público de la Cámara de Diputados podrán integrar un grupo de trabajo encargado de analizar y darle seguimiento al ejercicio del presupuesto comprendido en el Anexo 10 Erogaciones para el Desarrollo Integral de los Pueblos y Comunidades Indígenas del presente Decreto;
+La exención se solicitará por escrito a la autoridad fiscal competente, debiéndose acompañar u ofrecer las pruebas que demuestren su procedencia.
 
-V. Se dará preferencia en los programas de infraestructura a la conclusión de obras iniciadas en ejercicios anteriores, así como a las obras de mantenimiento y reconstrucción;
+No quedan comprendidos entre los bienes del dominio público los inmuebles que los organismos descentralizados utilicen para oficinas administrativas o en general para propósitos distintos a los del cumplimiento de su objeto.
 
-VI. Se buscará la inclusión financiera de las comunidades indígenas mediante programas de la banca de desarrollo y, en su caso, Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, y
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
-VII. El Instituto Nacional de los Pueblos Indígenas podrá emitir opinión sobre los Programas previstos en el Anexo 10 Erogaciones para el Desarrollo Integral de los Pueblos y Comunidades Indígenas, para que la ejecución de los recursos sea debidamente focalizada, cuente con perspectiva de género, derechos indígenas y con pertinencia cultural.
+Quienes de acuerdo con este Código, no estén obligadas a pagar contribuciones, únicamente tendrán las obligaciones de carácter administrativo que en el mismo se establezcan.
 
-### CAPÍTULO II. De las erogaciones
+### CAPITULO SEGUNDO. DEL NACIMIENTO, DETERMINACION, GARANTIA Y EXTINCION DE CREDITOS FISCALES
 
 ###### Artículo 24.
 
-En el presente ejercicio fiscal se podrán comprometer nuevos proyectos de infraestructura productiva de largo plazo de inversión directa y de inversión condicionada, a que se refieren los artículos 32 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y 18 de la Ley Federal de Deuda Pública, por la cantidad señalada en el Anexo 6.A, de este Decreto, correspondientes a la Comisión Federal de Electricidad.
+La obligación fiscal nace cuando se realizan las situaciones jurídicas o de hecho previstas en este Código, la que se determinará y liquidará conforme a las disposiciones vigentes en el momento de su causación, pero le serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
 
-El monto autorizado a los proyectos de infraestructura productiva de largo plazo de inversión directa y condicionada, aprobados en ejercicios fiscales anteriores, asciende a la cantidad señalada en el Anexo 6.B, de este Decreto. Las variaciones en los compromisos de cada uno de dichos proyectos se detallan en el Tomo VII de este Presupuesto de Egresos.
+> <small>(ADICIONADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
-La suma de los montos autorizados de proyectos aprobados en ejercicios fiscales anteriores y los montos para nuevos proyectos se presentan en el Anexo 6.C, de este Decreto.
+Cualquier estipulación privada, relativa al pago de un crédito fiscal que se oponga a lo dispuesto por las leyes fiscales se tendrá como inexistente jurídicamente y, por lo tanto, no surtirá efecto legal alguno.
 
-Los compromisos correspondientes a proyectos de infraestructura productiva de largo plazo de inversión directa autorizados en ejercicios fiscales anteriores, se detallan en el Anexo 6.D, de este Decreto y comprenden exclusivamente los costos asociados a la adquisición de los activos, excluyendo los relativos al financiamiento en el periodo de operación de dichos proyectos.
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-Por lo que se refiere a los proyectos de infraestructura productiva de largo plazo de inversión condicionada, en caso de que conforme a lo dispuesto en el artículo 32 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en el presente ejercicio fiscal surja la obligación de adquirir los bienes en los términos del contrato respectivo, el monto máximo de compromiso de inversión será aquél establecido en el Anexo 6.E, de este Decreto.
+El cumplimiento o exigibilidad de la obligación fiscal, no legitimará hechos o circunstancias no apegadas a la ley.
 
-Las previsiones necesarias para cubrir las obligaciones de inversión física por concepto de amortizaciones y costo financiero de los proyectos de infraestructura productiva de largo plazo de inversión directa, que tienen efectos en el gasto del presente ejercicio en los términos de las disposiciones aplicables, se incluyen en el Anexo 6.F, de este Decreto. Dichas previsiones se especifican a nivel de flujo en el Tomo VII de este Presupuesto de Egresos y reflejan los montos presupuestarios autorizados, así como un desglose por proyecto.
-
-Los montos de cada uno de los proyectos a que se refiere este artículo se detallan en el Tomo VII de este Presupuesto de Egresos.
-
-En el último Informe Trimestral del ejercicio, adicionalmente se deberá incluir la información sobre los ingresos generados por cada uno de los proyectos de infraestructura productiva de largo plazo en operación; los proyectos que están en construcción, su monto ejercido y comprometido; el monto pendiente de pago de los proyectos concluidos, y la fecha de entrega y de entrada en operación de los proyectos. Esta información se deberá publicar en la página de Internet de la Comisión Federal de Electricidad.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 25.
 
-En el presente ejercicio fiscal no se comprometerán nuevos proyectos de inversión en infraestructura a los que se refiere el artículo 74, fracción IV, párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, tal como se observa en el Anexo 4 de este Decreto.
+La determinación de los créditos fiscales corresponde a los contribuyentes, salvo disposición expresa en contrario. En caso de que la autoridad fiscal deba realizar esta determinación, los contribuyentes, proporcionarán la información necesaria dentro de los quince días siguientes contados a partir de que surta efecto la notificación del requerimiento de la autoridad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 26.
 
-La evaluación de los programas presupuestarios a cargo de las Dependencias y Entidades, derivados del sistema de planeación democrática del desarrollo nacional, se sujetará a lo establecido en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, a los lineamientos emitidos por la Secretaría y el Consejo Nacional de Evaluación de la Política de Desarrollo Social, y a las demás disposiciones aplicables, y se llevará a cabo en los términos del Programa Anual de Evaluación, que emitan, de manera conjunta, dichas instituciones.
+Los créditos fiscales se pagarán en efectivo, cheque de caja o certificado, cheques personales, transferencias de fondos a través de medios bancarios, de medios electrónicos por conducto del SEITS en los términos de la Ley de Gobierno Digital del Estado de México y Municipios y su Reglamento y con cargo a tarjetas de crédito o débito de instituciones bancarias autorizadas.
 
-Las Dependencias y Entidades responsables de los programas, deberán observar lo siguiente:
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2017)</small>
 
-I. Todos los programas presupuestarios deberán contar con un instrumento de seguimiento del desempeño actualizado, priorizando la inclusión de indicadores estratégicos.
+El pago con cheques personales, las transferencias de fondos a través de medios bancarios o electrónicos, así como con tarjetas de crédito o débito, únicamente se aceptarán cuando así lo apruebe la autoridad fiscal. Las transferencias de fondos a través de medios electrónicos, deberán ser autorizadas previamente por la autoridad fiscal.
 
-Los referidos instrumentos consistirán en una Matriz de Indicadores para Resultados, o bien, en el caso de los programas que por virtud de su naturaleza o diseño no sean susceptibles de contar con dicha Matriz, la Secretaría o, en su caso, el Consejo Nacional de Evaluación de la Política de Desarrollo Social, podrán determinar que cuenten con Fichas de Indicadores del Desempeño, en las cuales estarán contenidos los objetivos, indicadores y metas de los mismos.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-Para la actualización de los instrumentos de seguimiento del desempeño, se deberá considerar, al menos lo siguiente:
+El pago con cheque se recibirá salvo buen cobro. Previa autorización de la autoridad fiscal, se aceptarán también cheques sin certificar distintos de la cuenta personal del contribuyente para el pago de créditos fiscales.
 
-a) Los avances y resultados obtenidos del seguimiento que se haga respecto del cumplimiento de las metas de los programas presupuestarios;
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-b) Las evaluaciones y otros ejercicios de análisis realizados conforme al Programa Anual de Evaluación;
+El cheque recibido por la autoridad fiscal por concepto de pago de un crédito fiscal, deberá ser presentado al librado dentro de los quince días siguientes al de su fecha y en caso de que no sea pagado dará lugar a que la autoridad recaudadora proceda conjuntamente al cobro del monto del cheque; al de una indemnización que será del 20% del valor de éste, a la actualización y demás accesorios causados por el falso pago.
 
-c) Las disposiciones emitidas en las reglas o lineamientos de operación de los programas presupuestarios, según sea el caso;
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-d) Los criterios y recomendaciones que, en su caso, emitan la Secretaría y el Consejo Nacional de Evaluación de la Política de Desarrollo Social, en los términos de las disposiciones aplicables, y
+En caso de que el contribuyente realice el pago antes del cobro que practique la autoridad fiscal competente, éste se aplicará conforme al orden señalado en el artículo 34 de este Código, sin que dicho acto lo libere del pago de la indemnización correspondiente, la actualización y demás accesorios que se hubieren causado.
 
-e) Los elementos contenidos en el diagnóstico a que refiere el numeral Vigésimo Primero de los Lineamientos generales para la evaluación de los programas federales de la Administración Pública Federal.
+> <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
-Los instrumentos de seguimiento del desempeño deberán considerar, en el caso de los programas que así lo requieran y sea factible, los enfoques transversales con perspectiva de género, juventud, discapacidad y etnicidad.
+Quien pague créditos fiscales recibirá de la oficina recaudadora, el recibo oficial o la forma prellenada, en los que conste la impresión original de la máquina registradora y cuando se carezca de ella, deberá constar el sello de la oficina recaudadora y el nombre y firma del cajero o del servidor público autorizado. Tratándose de los pagos efectuados en las oficinas de las instituciones del sistema financiero mexicano o en los establecimientos autorizados para tal efecto, recibirá de estos, un comprobante de pago que deberá contener, entre otros elementos, la fecha en que se realizó, el importe que ampara y los datos de la línea de captura, la cual deberá ser consistente con los datos que se plasmen en la declaración o formato respectivo.
 
-Las Dependencias y Entidades deberán hacer públicos sus instrumentos de seguimiento al desempeño en su página de Internet.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-La Secretaría reportará en los Informes Trimestrales el avance en las metas de los indicadores registrados en los instrumentos de seguimiento del desempeño de los programas presupuestarios que conforman el gasto programable previsto en los ramos administrativos y generales y en las Entidades sujetas a control presupuestario directo, considerando la periodicidad de medición de dichos indicadores;
-
-II. El seguimiento a los avances en las metas de los indicadores se reportará en los sistemas que disponga la Secretaría, y se utilizará en las evaluaciones que se realicen;
-
-III. La evaluación se realizará de acuerdo con lo establecido en el Programa Anual de Evaluación y presentará los resultados de las evaluaciones de acuerdo con los plazos previstos en dicho programa, a la Cámara de Diputados, a la Auditoría, a la Secretaría y al Consejo Nacional de Evaluación de la Política de Desarrollo Social, de conformidad con las disposiciones aplicables.
-
-Las Dependencias y Entidades deberán entregar los resultados de las evaluaciones de tipo complementarias a las que haga referencia el Programa Anual de Evaluación y los Lineamientos generales para la evaluación de los programas federales de la Administración Pública Federal, a más tardar 30 días posteriores a su realización, a la Cámara de Diputados, a la Auditoría, a la Secretaría y al Consejo Nacional de Evaluación de la Política de Desarrollo Social, de conformidad con las disposiciones aplicables.
-
-Las Dependencias y Entidades deberán continuar y, en su caso, concluir con lo establecido en los programas anuales de evaluación de años anteriores, así como ejecutar lo relacionado con las evaluaciones para 2022;
-
-IV. Elaborar un programa de trabajo para dar seguimiento a los principales hallazgos y resultados de las evaluaciones conforme al Mecanismo para el seguimiento de aspectos susceptibles de mejora vigente, definido por la Secretaría y el Consejo Nacional de Evaluación de la Política de Desarrollo Social.
-
-Los compromisos se formalizarán mediante instrumentos específicos, se reportarán los avances y resultados que se alcancen mediante el Sistema de Evaluación del Desempeño y se publicarán en los términos de las disposiciones aplicables.
-
-La información que se haya obtenido del seguimiento a los compromisos de mejora y de las evaluaciones, correspondiente al ejercicio fiscal 2021 y, en su caso, a ejercicios fiscales anteriores, se tomará en cuenta como parte de un proceso gradual y progresivo, durante 2022 y para los procesos presupuestarios subsecuentes;
-
-V. Efectuar las evaluaciones de los programas presupuestarios en los siguientes términos:
-
-a) Por sí mismas, o
-
-b) A través de personas físicas y morales especializadas y con experiencia probada en la materia que corresponda evaluar, instituciones académicas y de investigación, u organismos especializados, de carácter nacional o internacional, que cuenten con reconocimiento y experiencia en las respectivas materias de los programas.
-
-La ejecución de la evaluación, así como la supervisión de la misma, se deberá realizar por una unidad administrativa ajena a la operación del programa a evaluar y al ejercicio de los recursos presupuestarios, en los términos de las disposiciones aplicables.
-
-En el supuesto a que se refiere el inciso b) de la presente fracción, las Dependencias y Entidades, además de realizar la contratación a través de una unidad administrativa ajena a la operación del programa a evaluar y al ejercicio de los recursos presupuestarios, deberán cubrir el costo de las evaluaciones con cargo a su presupuesto y conforme al mecanismo de pago que se determine. Asimismo, podrán realizar contrataciones para que las evaluaciones a que se refiere este párrafo abarquen varios ejercicios fiscales, en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
-
-El total de las erogaciones que, en su caso, se efectúen para realizar las diferentes etapas de las evaluaciones se deberá registrar de manera específica para su plena transparencia y rendición de cuentas;
-
-VI. Publicar y dar transparencia a las evaluaciones, en los términos de las disposiciones aplicables.
-
-Las Dependencias y Entidades deberán reportar el avance en el cumplimiento de las metas de los programas, los resultados de las evaluaciones y el grado de cumplimiento de los aspectos que sean susceptibles de mejora derivados de las mismas, en los Informes Trimestrales que corresponda, de conformidad con las disposiciones de la Secretaría y del Consejo Nacional de Evaluación de la Política de Desarrollo Social.
-
-Dicha información será publicada en las respectivas páginas de Internet de las Dependencias y Entidades.
-
-Por su parte, la Secretaría integrará la información relativa al avance de cumplimiento de metas de los indicadores, a los resultados de las evaluaciones y al seguimiento a los aspectos que sean susceptibles de mejora. Asimismo, las Dependencias y Entidades publicarán dicha información en su página de Internet y la integrarán a los informes correspondientes en términos de las disposiciones aplicables.
-
-La Secretaría deberá publicar trimestralmente en su página de Internet los avances en el cumplimiento de los aspectos que sean susceptibles de mejora que se deriven de las evaluaciones contempladas en los programas anuales de evaluación.
-
-Para tal efecto, el Consejo Nacional para la Evaluación de la Política de Desarrollo Social remitirá a la Secretaría la información derivada de las evaluaciones que haya coordinado, dentro de los 10 días hábiles siguientes al término del trimestre que se informa, en la forma que para tal efecto determine la Secretaría.
-
-La Secretaría y el Consejo Nacional de Evaluación de la Política de Desarrollo Social, establecerán los modelos de términos de referencia y demás elementos particulares que se requieran para las evaluaciones y coordinarán el proceso correspondiente, de conformidad con las disposiciones aplicables y sus competencias respectivas;
-
-VII. La Cámara de Diputados, a través de las comisiones, la Auditoría y los centros de estudios correspondientes que lo soliciten, en los términos previstos en las disposiciones aplicables, tendrán acceso a la información relativa a los instrumentos de seguimiento del desempeño de los programas, al seguimiento del avance de cumplimiento de las metas de los indicadores de los programas, y a las evaluaciones realizadas, misma que será pública y estará disponible en las respectivas páginas de Internet de las Dependencias o Entidades correspondientes.
-
-La Secretaría definirá los criterios específicos a seguir al respecto y proporcionará capacitación y asistencia técnica para que las instancias de la Cámara de Diputados que lo soliciten puedan llevar a cabo directamente las consultas y la generación de los reportes que requieran, con base en la información disponible en el sistema correspondiente;
-
-VIII. La Secretaría podrá apoyar a las entidades federativas y, por conducto de éstas, a los municipios y demarcaciones territoriales de la Ciudad de México, en materia de planeación, programación, presupuesto, contabilidad y sistemas, así como para instrumentar la evaluación del desempeño, de conformidad con los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos, 85 y 110 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, 49 de la Ley de Coordinación Fiscal y 80 de la Ley General de Contabilidad Gubernamental;
-
-IX. Implantar mecanismos para innovar y modernizar el funcionamiento organizacional y el proceso de presupuesto y gasto público, con el objeto de que la información obtenida del seguimiento del cumplimiento de las metas de los indicadores de los programas, de las evaluaciones realizadas a los programas, y del seguimiento a los resultados de éstas, se utilice gradualmente en las decisiones presupuestarias y en la gestión de los programas. Lo anterior será coordinado por la Secretaría;
-
-X. Capacitar y coadyuvar a la especialización de los servidores públicos involucrados en las funciones de planeación, evaluación, coordinación de las políticas y programas, así como de programación y presupuesto, para impulsar una mayor calidad del gasto público con base en el presupuesto basado en resultados y la evaluación del desempeño;
-
-XI. Publicar en las páginas de Internet de cada dependencia o entidad, para dar transparencia, todas las evaluaciones, estudios y encuestas, que con cargo a recursos fiscales hagan las Dependencias y Entidades, aun cuando no sean parte del Programa Anual de Evaluación, y
-
-XII. Las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, a más tardar a los 20 días naturales posteriores al término del segundo trimestre de 2022, deberán enviar, en los términos que establezca la Secretaría y mediante el sistema al que hace referencia el artículo 85 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, informes definitivos sobre el ejercicio, destino, resultados y, en su caso, reintegros, de los recursos federales que les fueron transferidos durante 2021. Lo anterior, sin perjuicio de la información que deben reportar al finalizar cada trimestre de 2022.
-
-La Secretaría deberá incluir en el segundo Informe Trimestral la información definitiva anual a que hace referencia el párrafo anterior.
-
-Las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México serán responsables de la información de su competencia que se entregue a la Secretaría, incluyendo su veracidad y calidad.
+En el pago de créditos fiscales a través de transferencia de fondos, se considerará como recibo oficial del pago, el documento impreso por el contribuyente, emitido por el sistema de cobranza automatizado reconocido por la autoridad fiscal, en el que conste el número de referencia que se asigne a la operación autorizada.
 
 ###### Artículo 26-A.
 
@@ -771,233 +853,325 @@ Las entidades federativas, municipios y demarcaciones territoriales de la Ciudad
 
 ###### Artículo 27.
 
-Los programas que deberán sujetarse a reglas de operación son aquéllos señalados en el Anexo 25 de este Decreto. El Ejecutivo Federal por conducto de la Secretaría, podrá incluir otros programas que, por razones de su impacto social, deban sujetarse a reglas de operación. Para tal efecto, se deberá observar lo siguiente:
+Para determinar las contribuciones, aprovechamientos y sus accesorios se considerarán, inclusive, las fracciones del peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de uno hasta cincuenta centavos se ajusten a la unidad inmediata anterior y las que contengan cantidades de cincuenta y uno a noventa y nueve centavos, se ajusten a la unidad inmediata superior.
 
-I. Las reglas de operación de los programas federales deberán sujetarse a los siguientes criterios generales:
-
-a) Deberán ser simples, precisas y de fácil acceso para los beneficiarios;
-
-b) Se procurará que la ejecución de las acciones correspondientes a los programas federales que por su naturaleza así lo permitan, sea desarrollada por los órdenes de gobierno más cercanos a la población, debiendo reducir al mínimo indispensable los gastos administrativos y de operación del programa respectivo; los gobiernos municipales deberán llevar un registro de beneficiarios y realizar el seguimiento para verificar la efectividad y coadyuvar en la evaluación de las acciones;
-
-c) Se deberán tomar en cuenta las características de las diferentes regiones socioeconómicas del país;
-
-d) Se deberán considerar las características sociales, económicas y culturales de la población objetivo;
-
-e) Preverán que las aportaciones acordadas se realicen oportunamente y sean ejercidas de inmediato;
-
-f) Se promoverá una calendarización eficiente para el ejercicio de los recursos federales respectivos;
-
-g) Se asegurará la transparencia en la distribución, aplicación y comprobación de recursos;
-
-h) Se promoverán los principios de igualdad, no discriminación, interés superior de la niñez, integridad, integración familiar, igualdad de género, inclusión social de las personas con discapacidad, libre determinación de las comunidades indígenas, protección al medio ambiente, protección a la vida, salud e integridad de las personas, incluyendo el fomento a las condiciones necesarias para que la libertad e igualdad de las personas sean reales y efectivas, según corresponda;
-
-i) Darán prioridad en la asignación presupuestaria a las acciones para la atención de niñas, niños y adolescentes, personas con discapacidad permanente y a los pueblos indígenas;
-
-j) Se promoverán mecanismos para facilitar a los mexicanos repatriados, el acceso a los beneficios de los programas y garantizar su atención y protección de manera prioritaria;
-
-k) Deberán promover la eliminación de aquellos obstáculos que limiten el ejercicio de los derechos e impidan el pleno desarrollo de las personas, así como su efectiva participación en la vida política, económica, cultural y social del país y promoverán la participación de las autoridades de los demás órdenes de Gobierno y de los particulares en la eliminación de dichos obstáculos;
-
-l) En ningún caso se podrá etiquetar o predeterminar de manera específica recursos a determinadas personas físicas o morales u otorgarles preferencias o ventajas sobre el resto de la población objetivo;
-
-m) Se promoverá la transparencia y acceso a la información pública, así como la eficiencia y eficacia de los recursos públicos, y
-
-n) Se promoverá el establecimiento de una estructura informática que permita homologar la información proveniente de los datos de los beneficiarios de los Programas;
-
-II. Las Dependencias y Entidades que tengan a su cargo dichos programas deberán observar las siguientes disposiciones para fomentar la transparencia de los mismos:
-
-a) La papelería y documentación oficial para los programas deberán incluir la siguiente leyenda: “Este programa es público, ajeno a cualquier partido político. Queda prohibido el uso para fines distintos a los establecidos en el programa”.
-
-Todo el gasto en comunicación social relacionado con la publicidad que se adquiera para estos programas, por parte de las Dependencias y Entidades, así como aquél relacionado con los recursos presupuestarios federales que se transfieran a las entidades federativas, municipios y las demarcaciones territoriales de la Ciudad de México, que se aplique a través de anuncios en medios electrónicos, impresos, complementarios o de cualquier otra índole, deberá señalar que se realiza con los recursos federales aprobados en este Presupuesto de Egresos y restringirse a lo establecido en el artículo 10 de este Decreto;
-
-b) Publicar en sus respectivas páginas de Internet el padrón de beneficiarios para los programas sujetos a reglas de operación, que deberá incluir nombre o razón social del beneficiario, municipio, entidad federativa y monto del apoyo otorgado o bien entregado;
-
-c) Poner a disposición del público en general un medio de contacto directo, en el cual se proporcione asesoría sobre el llenado de los formatos y sobre el cumplimiento de los requisitos y trámite que deben observarse para obtener los recursos o los beneficios de los programas, y
-
-d) Las reglas de operación, los formatos, las solicitudes y demás requisitos que se establezcan para obtener los recursos o los beneficios de los programas; los indicadores de desempeño de los programas, y los medios de contacto de las unidades responsables de los mismos deberán estar disponibles en las páginas de Internet de las Dependencias y Entidades.
-
-La Secretaría publicará en el portal electrónico de transparencia en materia presupuestaria la información que permita identificar las características de cada programa federal con base en sus reglas de operación. Para efecto de lo anterior, las Dependencias y Entidades remitirán a la Secretaría la información relacionada con las reglas de operación de los programas federales a su cargo, así como las modificaciones a las mismas, en los términos que la Secretaría determine.
-
-Queda estrictamente prohibida la utilización de los programas de apoyo para promover o inducir la afiliación de la población objetivo a determinadas asociaciones o personas morales.
-
-Para la entrega de los apoyos a la población objetivo de los programas de subsidios en numerario, las Dependencias y Entidades deberán promover la inclusión financiera mediante el uso de cuentas bancarias personales, preferentemente a través del Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, cuando éste cuente con la cobertura bancaria necesaria para la entrega de los apoyos, de conformidad con lo previsto en el artículo 67 de la Ley General de Contabilidad Gubernamental.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 28.
 
-Las Dependencias y Entidades que tengan a su cargo programas sujetos a reglas de operación deberán observar las siguientes disposiciones para asegurar la aplicación eficiente, eficaz, oportuna y equitativa de los recursos públicos asignados a los mismos:
+Para el cumplimiento de obligaciones y pago de contribuciones, si el último día del plazo o en la fecha determinada, las oficinas recaudadoras permanecen cerradas durante el horario normal de labores, se trate de un día inhábil, o no exista el mismo día en el mes de calendario correspondiente se prorrogará el plazo hasta el siguiente día hábil. Lo dispuesto en este artículo es aplicable, inclusive cuando se autorice a las instituciones de crédito para recibir declaraciones. También se prorrogará el plazo hasta el siguiente día hábil cuando sea viernes el último día del plazo en que se deban presentar declaraciones.
 
-I. Publicar en sus páginas de Internet los plazos de respuesta a las solicitudes que reciban. Los rechazos deberán estar fundados y motivados;
-
-II. Tratándose de facultades concurrentes, cuando el Ejecutivo Federal por conducto de la dependencia competente y las entidades federativas decidan suscribir convenios de coordinación en términos de la Ley de Planeación, éstos deberán celebrarse en condiciones de oportunidad y certeza para beneficio de la población objetivo. Dichos convenios especificarán como mínimo: los programas a que se refieren, las zonas dentro de la respectiva entidad federativa a que se destinarán los recursos, las aportaciones monetarias de cada parte y su calendarización.
-
-El Gobierno Federal y los gobiernos estatales, previa opinión de los Comités de Planeación para el Desarrollo o su equivalente, y dentro del marco del Convenio de Coordinación respectivo, decidirán a qué orden de gobierno corresponde la ejecución de los programas de acuerdo con la naturaleza de cada uno de ellos y a las características de las zonas donde se van a aplicar los programas, para lograr el mejor desarrollo e impacto social de los mismos, y
-
-III. Brindar asesoría a los municipios y demarcaciones territoriales de la Ciudad de México para la integración de los expedientes técnicos que, en su caso, requiera el programa, especialmente a los que se encuentran en condiciones de muy alta y alta marginación.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 29.
 
-Las Dependencias y Entidades que tengan a su cargo programas presupuestarios considerados por el Consejo Nacional de Evaluación de la Política de Desarrollo Social como programas o acciones federales de desarrollo social deberán enviar a la Secretaría, en los términos y plazos que esta disponga, información sobre su población potencial, población objetivo y población atendida, misma que hará pública en el portal electrónico de transparencia en materia presupuestaria.
+Los créditos fiscales se pagarán en la fecha o dentro del plazo señalado en las disposiciones respectivas. A falta de disposición expresa, el pago deberá hacerse dentro de los siguientes diez días a aquél en que se produzca el hecho generador.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+Los retenedores de contribuciones o las personas a quienes las leyes impongan la obligación de retenerlos periódicamente, los enterarán a más tardar el día diez del mes de calendario inmediato posterior al de la terminación del periodo de la retención o causación.
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+El pago de derechos, se sujetará a cualquiera de los siguientes supuestos:
+
+I. Su entero deberá ser previo a la prestación de los servicios.
+
+II. En el plazo que expresamente se señale en este Código.
+
+III. A más tardar el 31 de enero de cada año, para aquellos de causación cuya periodicidad de pago sea anual, cuando no se exprese época de pago.
+
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+
+Tratándose de los créditos fiscales determinados por las autoridades en el ejercicio de sus facultades de comprobación, determinación o sancionadoras, deberán pagarse junto con sus accesorios o garantizarse cuando se interponga algún medio de impugnación dentro de los diez días siguientes a aquél en que surta efectos su notificación. Si se solicita autorización para su pago a plazos, ya sea en parcialidades o diferido, se estará a lo dispuesto en el artículo 32 de este ordenamiento.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+El Fisco Estatal y Municipal tendrán preferencia para recibir el pago de créditos provenientes de ingresos que debió percibir, con excepciones de los siguientes casos:
+
+A). De los saldos garantizados con embargo o hipoteca que hayan sido inscritos en el Registro Público de la Propiedad con anterioridad a la fecha de notificación del crédito fiscal originario, o del reconocimiento expreso del contribuyente mediante declaración en la que haya reconocido el adeudo.
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+B). Del monto determinado provisionalmente o en sentencia firme de pensiones alimenticias.
+
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2019)</small>
+
+C). De los adeudos por el pago de sueldos, salarios o indemnizaciones a los trabajadores, devengados en el último año, siempre y cuando exista laudo o sentencia condenatoria firme.
+
+D). De los créditos fiscales federales notificados con anterioridad a los estatales o municipales.
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+La vigencia de los adeudos antes citados se deberá acreditar mediante certificado de gravamen expedido por el Instituto de la Función Registral, dentro de los tres meses anteriores a la fecha de la solicitud de declaratoria y con la constancia del monto total de lo adeudado; con la resolución judicial que determine la obligación de pagar alimentos, ya sean provisionales o definitivos y con la constancia de cumplimiento de dicha obligación; o bien, por el auto en que se ordene dar trámite al incidente que señalan los artículos 979 al 981 de la Ley Federal del Trabajo, según corresponda a cada caso.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+Cuando en el procedimiento administrativo de ejecución concurran contra un mismo deudor el fisco federal con el fisco estatal o municipal fungiendo como autoridades federales de conformidad con los convenios de coordinación fiscal, la Secretaría de Hacienda y Crédito Público tramitará el procedimiento administrativo de ejecución y del producto obtenido, una vez cubiertos los gastos de ejecución, deberá cubrir los accesorios y contribuciones que correspondan al fisco estatal o municipal, en estricto cumplimiento del artículo 148 del Código Fiscal de la Federación.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 30.
 
-Los programas de subsidios del Ramo Administrativo 20 Bienestar se destinarán, en las entidades federativas, en los términos de las disposiciones aplicables, exclusivamente a la población en condiciones de pobreza, de vulnerabilidad, de adultos mayores, de rezago y de marginación, de acuerdo con los criterios que defina el Consejo Nacional de Población y a las evaluaciones del Consejo Nacional de Evaluación de la Política de Desarrollo Social, en los programas que resulte aplicable y la Declaratoria de las Zonas de Atención Prioritaria formulada por la Cámara de Diputados, mediante acciones que promuevan la superación de la pobreza a través de la educación, la salud, la alimentación, la generación de empleo e ingreso, autoempleo y capacitación; protección social y programas asistenciales; y el fomento del sector social de la economía; conforme lo establece el artículo 14 de la Ley General de Desarrollo Social, y tomando en consideración los criterios que propongan las entidades federativas.
+La falta de pago de un crédito fiscal en la fecha o dentro del plazo fijado por este Código, dará lugar a que sea exigible mediante el procedimiento administrativo de ejecución.
 
-Para estos fines, el Ramo Administrativo 20 Bienestar considera los programas establecidos en el Anexo 25 para dicho ramo.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-En los términos de los convenios de coordinación suscritos entre el Ejecutivo Federal, a través de la Secretaría de Bienestar, y los gobiernos de las entidades federativas se impulsará el trabajo corresponsable en materia de superación de pobreza, vulnerabilidad, rezago y marginación y se promoverá el desarrollo humano, familiar, comunitario y productivo.
+Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará por el transcurso del tiempo y con motivo de los cambios de precios aplicando la tasa que resulte de sumar el porcentaje mensual de actualización que fije la correspondiente Ley de Ingresos, por cada mes o fracción que transcurra desde el día siguiente al vencimiento del plazo para pagar la contribución o aprovechamiento, hasta que el mismo se efectúe.
 
-Estos instrumentos promoverán que las acciones y recursos dirigidos a la población en situación de pobreza se efectúen en un marco de coordinación de esfuerzos, manteniendo en todo momento el respeto a los órdenes de gobierno, así como el fortalecimiento del respectivo Comité de Planeación para el Desarrollo Estatal.
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-Derivado de estos instrumentos se suscribirán acuerdos y convenios específicos y anexos de ejecución en los que se establecerán: la distribución de los recursos de cada programa o región de acuerdo con sus condiciones de rezago, marginación y pobreza, indicando en lo posible la asignación correspondiente a cada municipio; las atribuciones y responsabilidades de la Federación, las entidades federativas y municipios, y las asignaciones presupuestarias de los órdenes de gobierno en que concurran en sujeción a los programas concertados.
+Además deberán pagarse recargos en concepto de indemnización al fisco por la falta de pago oportuno. Dichos recargos se calcularán aplicando a la contribución o aprovechamiento actualizado, la tasa que resulte de sumar la tasa mensual que fije la correspondiente Ley de Ingresos para cada uno de los meses en cada uno de los años que transcurran en el periodo referido en el presente artículo, excluyendo los propios recargos, la indemnización a que se refiere el cuarto párrafo del artículo 26 de este Código, los gastos de ejecución y las multas por infracciones a las disposiciones fiscales.
 
-Los convenios a que se refiere este artículo, deberán ser publicados en el Diario Oficial de la Federación y en el correspondiente medio oficial de difusión de la entidad federativa que corresponda, dentro de los 15 días hábiles siguientes a la fecha en que queden íntegramente suscritos.
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-A efecto de fortalecer la formulación, ejecución e instrumentación de programas, acciones e inversiones en materia de desarrollo social, se promoverá la celebración de convenios, acuerdos o bases de coordinación interinstitucional entre las Dependencias y Entidades.
+La causación de la actualización y los recargos inicia a partir del día siguiente al del vencimiento del plazo para realizar el pago de la contribución o aprovechamiento de que se trate.
 
-Las faltas de comprobación, desviaciones, incumplimiento a los convenios o acuerdos, o incumplimiento en la entrega oportuna de la información relativa a avances y metas alcanzadas, deberán ser informadas a la Función Pública o a la Secretaría de Bienestar en el ámbito de sus respectivas competencias. Esta última dependencia, después de escuchar la opinión del gobierno de la entidad federativa, podrá suspender la radicación de los recursos federales e inclusive solicitar su reintegro, sin perjuicio de lo establecido en las disposiciones aplicables.
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2018)</small>
 
-Para el control de los recursos que se asignen a las entidades federativas, el Ejecutivo Federal convendrá con los gobiernos respectivos, los programas o las actividades que permitan garantizar el cumplimiento de las disposiciones aplicables.
+No se causarán recargos y actualizaciones, cuando la autoridad fiscal se vea imposibilitada para recibir el pago de créditos fiscales, por causas de fuerza mayor, caso fortuito o se haya producido una falla o problema en la plataforma electrónica receptora de pagos o se presente cualquier otra situación que genere un incumplimiento no imputable al contribuyente, únicamente durante el lapso en el que subsista el evento, siempre y cuando dichas circunstancias se encuentren debidamente documentadas, conforme a las reglas de carácter general que al efecto emita la Secretaría o las autoridades fiscales competentes en el ámbito municipal.
 
-Los ejecutores de los programas deberán informar trimestralmente a las entidades federativas y a la Secretaría de Bienestar los avances de ejecución físicos y financieros.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Los recargos se causarán hasta por cinco años por cada mes o fracción que transcurra a partir del día siguiente a la fecha del vencimiento del periodo de pago del plazo para pagar y hasta que el mismo se efectúe, salvo en los casos a que se refiere el artículo 53 de este Código; supuestos en los cuales los recargos se causarán hasta en tanto no se extingan las facultades de la autoridad para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, y se calcularán sobre el total del crédito fiscal.
+
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+Cuando el contribuyente pague en forma espontánea las contribuciones o aprovechamientos omitidos, dichos recargos no excederán del 50% del monto de las contribuciones o aprovechamientos omitidos actualizados. Cuando se hayan ejercido las facultades de revisión o comprobación fiscal que se establecen en este Código o se instrumente el procedimiento administrativo de ejecución, los recargos no podrán exceder del 100% del monto de las contribuciones o aprovechamientos omitidos actualizados.
+
+El monto actualizado de la contribución o el aprovechamiento conserva la naturaleza jurídica que tenía antes de su actualización.
+
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+No causarán recargos las multas impuestas por autoridades no fiscales, ni las responsabilidades administrativas.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+Las responsabilidades administrativas y las multas impuestas por autoridades no fiscales en su caso, se actualizarán de acuerdo con las disposiciones de este Código.
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 31.
 
-El Programa Especial Concurrente para el Desarrollo Rural Sustentable se sujetará a los siguientes lineamientos para la distribución del gasto aprobado en este Presupuesto de Egresos:
+El Gobernador o el ayuntamiento, mediante resoluciones de carácter general que publiquen en el Periódico Oficial, podrán:
 
-I. Deberá abarcar políticas públicas orientadas a incrementar la producción, la productividad y la competitividad agroalimentaria y pesquera del país, a la generación del empleo rural y para las actividades pesqueras y acuícolas, a promover en la población campesina y de la pesca el bienestar, así como su incorporación al desarrollo nacional, dando prioridad a las zonas de alta y muy alta marginación y a poblaciones indígenas.
+I. Condonar o eximir total o parcialmente el pago de contribuciones, aprovechamientos y sus accesorios, cuando se haya afectado o trate de impedir que se afecte la situación económica de algún lugar o región de un municipio o del Estado, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en casos de desastres sufridos por fenómenos meteorológicos, plagas o epidemias o aquellos de origen antropogénico.
 
-El presupuesto para el campo procurará fomentar el abasto de alimentos y productos básicos y estratégicos a la población, promoviendo su acceso a los grupos sociales menos favorecidos y dando prioridad a la producción nacional, a que se refiere el artículo 178 de la Ley de Desarrollo Rural Sustentable.
+Sin que las facultades otorgadas en esta fracción puedan entenderse referidas a los casos en que la afectación o posible afectación a una determinada rama de la industria obedezca a lo dispuesto en una Ley Tributaria Federal o Tratado Internacional.
 
-El presupuesto dirigido al campo deberá tener las siguientes características:
+II. Conceder subsidios y estímulos fiscales.
 
-a) Mejorar e incrementar la productividad, cerrando las brechas existentes;
+III. Condonar el pago de accesorios, en campañas para la regularización fiscal de los contribuyentes.
 
-b) Potenciar la contribución de la agricultura al desarrollo de los territorios rurales y al bienestar de las personas que los habitan;
+Las resoluciones que conforme a este artículo se dicten, deberán señalar las contribuciones a que se refieren, salvo que se trate de estímulos fiscales, así como, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplirse por los beneficiados.
 
-c) Mejorar la capacidad de la agricultura para adaptarse al cambio climático, mitigar la emisión de gases de efecto invernadero y mejorar la utilización y preservación de los recursos naturales y la biodiversidad;
-
-d) Incrementar la contribución de la agricultura nacional a la seguridad alimentaria de todas las personas;
-
-e) Que permita la complementariedad de acciones con las demás Dependencias y Entidades;
-
-f) Que permita el desarrollo de proyectos productivos por etapas;
-
-g) Que se oriente prioritariamente hacia las pequeñas unidades de producción y al apoyo de los pequeños productores;
-
-h) Una agricultura más incluyente, pero con políticas diferenciadas para cada una de las regiones del país, al tiempo que se oriente prioritariamente hacia las pequeñas unidades de producción y al apoyo de los pequeños productores, e
-
-i) Que procuren la progresividad en el otorgamiento de los incentivos;
-
-II. Los ramos administrativos que participan en el Programa Especial Concurrente para el Desarrollo Rural Sustentable continuarán con el sistema de rendición de cuentas sobre el destino de los recursos fiscales de los programas concurrentes, el cual incorpora los siguientes elementos: región geográfica, entidad federativa, municipio y localidad, actividad productiva, eslabón de la cadena de valor, concepto de apoyo, monto fiscal y fecha de otorgamiento, y la estratificación correspondiente;
-
-III. Establecer como prioridades, entre otras, las siguientes:
-
-a) Incrementar la productividad, la inocuidad y el ingreso de los productores, apoyar en el combate a la pobreza, contribuyendo con la agricultura de autoconsumo a las familias pobres que habitan principalmente en las zonas rurales, en un marco de sustentabilidad, generación de oportunidades y que contribuya a la seguridad alimentaria;
-
-b) Se procurará que los recursos destinados a competitividad, se orienten principalmente a las pequeñas unidades de producción, que se dedican a los productos básicos y estratégicos a que se refiere el artículo 179 de la Ley de Desarrollo Rural Sustentable y otros productos básicos y estratégicos.
-
-Dichos recursos se direccionarán una vez que se cuente con la estratificación de zonas y regiones productivas del país dando prioridad a las pequeñas unidades de producción;
-
-c) Apoyar a los productores para que apliquen las innovaciones y desarrollos tecnológicos disponibles y fortalezcan su vinculación con los centros de investigación, así como la transferencia de tecnología del país, mediante servicios de extensionismo que aseguren la incorporación del pequeño productor a las innovaciones tecnológicas que redunden en la mejora de la productividad;
-
-d) Ampliar la oferta de bienes y servicios públicos, particularmente en materia de infraestructura, investigación y desarrollo, capacitación, extensionismo rural e información;
-
-e) Contribuir a adaptar las actividades agropecuarias, acuícolas y pesqueras mediante acciones para prevenir, mitigar y atender los impactos del fenómeno del cambio climático, así como la oportuna prevención, administración y atención a riesgos climáticos, sanitarios y de mercado, considerando los potenciales productivos de cada región;
-
-f) Contribuir a la sustentabilidad de las actividades agropecuarias, pesqueras y acuícolas en lo referente al aprovechamiento responsable del agua y la tierra, y
-
-g) Contribuir a la sustentabilidad de las actividades agropecuarias, pesqueras y acuícolas en lo referente a los recursos genéticos;
-
-IV. Propiciar la competitividad de los productos básicos y estratégicos, a que se refiere el artículo 179 de la Ley de Desarrollo Rural Sustentable, así como estrategias especiales para otros sistemas producto de alto impacto social;
-
-V. Coadyuvar al impulso de la producción primaria, de los productos básicos y estratégicos señalados en la Ley de Desarrollo Rural Sustentable, entre otros, para el aprovisionamiento de insumos básicos y apoyo a paquetes tecnológicos;
-
-VI. Impulsar la producción y productividad en el sector mediante el fomento de proyectos integrales que consideren la tecnificación del riego y el uso de insumos (semillas, fertilizantes, biofertilizantes y prácticas agrícolas sustentables, entre otros);
-
-VII. Los recursos destinados a fortalecer el medio ambiente buscarán que se beneficie prioritariamente a los territorios ejidales, comunales y privados de los pequeños productores;
-
-VIII. Se fortalecerán las obras de tecnificación de riego para aumentar la producción y productividad, dando prioridad a las pequeñas unidades de producción, y
-
-IX. Las autoridades fiscales pondrán a disposición de las Dependencias y Entidades encargadas del otorgamiento de subsidios y estímulos, herramientas tecnológicas que permitan la consulta sobre el cumplimiento de la obligación contenida dentro del artículo 32-D del Código Fiscal de la Federación. En las reglas de operación de los Programas Federales del Ramo 08 de la Secretaría de Agricultura y Desarrollo Rural, se deberá establecer que la consulta referida la hará directamente ésta última dependencia y no el beneficiario.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 32.
 
-La ejecución y operación de la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados para las personas sin seguridad social, deberá sujetarse a lo establecido por la Ley General de Salud, a las disposiciones reglamentarias de dicha Ley, así como a las disposiciones de carácter general o lineamientos que emitan la Secretaría de Salud o, en su caso, las Entidades de su sector coordinado.
+La autoridad fiscal competente podrá autorizar el pago a plazos, ya sea diferido o en parcialidades, para cubrir las contribuciones omitidas y sus accesorios, sin que dicho plazo exceda de veinticuatro meses tratándose del pago en parcialidades y de doce meses para el pago diferido, autorización que podrá otorgarse siempre y cuando el contribuyente:
+
+I. Pague el 20% del monto total del crédito fiscal; cuyo importe se integrará de las contribuciones omitidas actualizadas y los accesorios causados hasta la fecha del entero.
+
+II. Solicite la autorización dentro de los quince días siguientes a aquel en que se efectúe el pago del 20%, debiendo anexar el comprobante de pago correspondiente.
+
+III. Otorgue garantía al momento de presentar su solicitud de autorización de pago a plazos. La autoridad fiscal mediante reglas de carácter general podrá establecer los supuestos de dispensa de la garantía del interés fiscal.
+
+> <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+La autoridad fiscal podrá determinar y cobrar el saldo de las diferencias que resulten por el uso indebido del pago a plazos, entendiéndose como uso indebido, cuando la solicitud de autorización correspondiente, no se presente dentro del plazo a que refiere la fracción II de este artículo; cuando se pretenda pagar contribuciones retenidas, trasladadas o recaudadas, así como las sanciones económicas e indemnizaciones resarcitorias derivadas de una responsabilidad administrativa o cuando la solicitud de autorización no se presente con todos los requisitos a que se refiere este artículo.
+
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2017)</small>
+
+La resolución a la solicitud de autorización de pago a plazos, ya sea diferido o en parcialidades, deberá emitirse por la autoridad fiscal a más tardar dentro de los veinte días siguientes contados a la fecha de su presentación, excepto cuando se dispense la garantía del interés fiscal conforme a las reglas de carácter general que al efecto emita la Secretaría, caso en el cual la resolución deberá emitirse dentro de los cinco días; en caso contrario, se considerará autorizada la solicitud correspondiente; con las salvedades del uso indebido previstas en el párrafo anterior; en este supuesto, el contribuyente deberá realizar los pagos mensuales subsecuentes, de acuerdo al número de parcialidades solicitadas, a más tardar el mismo día de calendario del mes siguiente que corresponda al día en que fue efectuado el pago anticipado del 20%; en el caso del pago diferido, a más tardar en la fecha propuesta para el pago; en ambos casos deberán incluirse los recargos por prórroga correspondientes.
+
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+Durante el transcurso de la prórroga se causarán los recargos sobre saldos insolutos, de acuerdo a la tasa de recargos por prórroga que incluye actualización que para este efecto establezca la correspondiente Ley de Ingresos vigente.
+
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+El saldo que se utilizará para el cálculo de las parcialidades, será el que resulte de restar el 20% del pago inicial al total del adeudo, y a dicho saldo se le aplicarán los recargos por prórroga sobre saldos insolutos, de conformidad a las tasas que se establezcan en la correspondiente Ley de Ingresos. La primera y subsecuentes parcialidades se cubrirán en montos iguales y en forma mensual y sucesiva, debiéndose enterar la primera de ellas el mismo día del mes siguiente a aquél en que se entere el 20% como pago inicial y las posteriores el mismo día de los meses subsecuentes, siendo aplicable el contenido del artículo 28 de este ordenamiento.
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Cuando no se pague alguna parcialidad en la fecha establecida, el contribuyente estará obligado a pagar el monto de la parcialidad actualizada y sobre dicho monto actualizado pagará recargos por extemporaneidad. El cálculo de la actualización y los recargos por extemporaneidad se realizará en los términos del artículo 30 de este Código por el número de meses o fracción de mes que transcurra a partir del día siguiente a la fecha en que se debió realizar el pago y hasta que éste se efectúe.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+Tratándose del pago diferido, el monto a diferir será el resultado de restar el pago correspondiente al 20% señalado en el primer párrafo de este artículo al total del monto adeudado, dicho monto se cubrirá en una sola exhibición a más tardar en la fecha de pago especificada por el propio deudor, incluyendo los recargos por prórroga antes citados.
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+
+Los recargos por prórroga que refiere el párrafo anterior, se calculará adicionando al monto a diferir, la cantidad que resulte de multiplicar la tasa de recargos por prórroga establecida en la Ley de Ingresos correspondiente, por el número de meses, o fracción de mes que transcurra desde el mes siguiente a aquél en que se realizó el pago anticipado del 20 % y hasta la fecha autorizada para realizar el pago en forma diferida.
+
+> <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+No procederá la autorización del pago ya sea diferido o en parcialidades, cuando el crédito determinado a cargo de los contribuyentes derive de contribuciones retenidas, trasladadas o recaudadas, así como las sanciones económicas e indemnizaciones resarcitorias derivadas de una responsabilidad administrativa.
+
+> <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+Las cuotas y aportaciones que deban enterarse al Instituto de Seguridad Social para los Servidores Públicos del Estado de México y Municipios en términos de las disposiciones jurídicas aplicables, y que hayan sido omitidas, así como sus accesorios, deberán cubrirse, en un plazo que no exceda de veinticuatro meses tratándose del pago en parcialidades, ni de doce meses en caso de pago diferido, y en ningún caso podrá rebasar el término del periodo constitucional correspondiente.
 
 ###### Artículo 33.
 
-La Secretaría de Educación Pública será responsable de emitir las reglas de operación de sus programas sujetos a las mismas, de acuerdo con lo dispuesto en el artículo 77 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, las cuales contendrán, entre otras reglas, las siguientes:
+Cesará la autorización para pagar en forma diferida o en parcialidades, y será inmediatamente exigible el crédito fiscal, cuando:
 
-I. Los recursos destinados a programas educativos deberán ser ejercidos exclusivamente por las autoridades educativas, tanto federales como estatales;
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
-II. Las instituciones educativas contarán con un listado exhaustivo que contenga el personal comisionado a actividades sindicales. La Secretaría de Educación Pública enviará dichos listados a la Cámara de Diputados, y
+I. El contribuyente no otorgue garantía del interés fiscal estando obligado a ello, o ésta desaparezca sin que otorgue una nueva.
 
-III. En ningún caso podrán existir nóminas o partidas confidenciales. Los recursos públicos otorgados a las instituciones educativas que sean usados para el pago de nóminas deberán ejercerse en el marco de la transparencia y rendición de cuentas, por lo que los beneficiarios de dichos programas deberán reportar a la Secretaría de Educación Pública los montos pagados a cada trabajador.
+II. El contribuyente sea declarado en suspensión de pagos, concurso, quiebra o solicite su liquidación judicial.
 
-La Secretaría de Educación Pública, antes del 31 de enero, emitirá las convocatorias para el concurso de los diversos fondos aprobados, respecto de los programas a que se refiere este artículo, con la excepción de los que estén sujetos a los calendarios escolares específicos.
+> <small>(REFORMADA, G.G. 15 DE DICIEMBRE DE 2017)</small>
+
+III. El contribuyente no pague en tiempo o monto, dos parcialidades dentro del plazo otorgado; omita el pago de la última; o bien, de las contribuciones o sus accesorios corrientes. Tratándose del pago diferido, el contribuyente no cubra el monto total en la fecha especificada en la autorización.
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+IV. El deudor cambie de domicilio sin dar aviso a la autoridad fiscal que otorgó dicha autorización, o habiéndose presentado éste, el domicilio resulte inexistente o falso.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+Cuando cese la autorización de acuerdo a lo previsto en el presente artículo, el saldo no cubierto se actualizará y causará recargos por pago extemporáneo desde la fecha en que se haya cubierto la última parcialidad o en que debió cubrir el monto diferido autorizado y hasta la fecha en que el pago total se realice, conforme a lo dispuesto en el artículo 30 del presente ordenamiento.
 
 ###### Artículo 34.
 
-Los programas destinados a educación media superior y superior, deberán contener las siguientes disposiciones:
+Los pagos que haga el deudor se aplicarán, antes que al crédito principal actualizado, a cubrir los accesorios en el siguiente orden:
 
-I. La Secretaría de Educación Pública al diseñar los programas deberá enviar a la Cámara de Diputados un informe sobre cómo dichos programas disminuirán los rezagos de cobertura y absorción en educación media superior y superior en las diversas regiones del país;
+I. Los gastos de ejecución.
 
-II. Las entidades federativas deberán enviar, de manera trimestral, informes tanto a la Cámara de Diputados, como a la Secretaría de Educación Pública, sobre la aplicación de fondos para la operación de los subsistemas de educación media superior y superior;
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
-III. Las instituciones públicas de educación superior estarán obligadas a la práctica de auditoría externa de su matrícula, debiendo enviar los resultados de ésta, así como un informe semestral específico sobre la ampliación de la misma, tanto a la Cámara de Diputados como a la Secretaría de Educación Pública, y
+II. Los recargos.
 
-IV. Las instituciones públicas federales y estatales de educación media superior y superior pondrán a disposición de la sociedad la información sobre la aplicación y uso de los recursos recibidos a través de este Presupuesto de Egresos. En el marco de la legislación en materia de transparencia y acceso a la información pública y, en su caso, la ley local respectiva, las instituciones incorporarán en su página de Internet la información relacionada con los proyectos y los montos autorizados. En particular, el registro, la asignación, los avances técnicos, académicos o ambos, y el seguimiento del ejercicio de recursos, manteniendo la información actualizada con periodicidad trimestral.
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
-La información a que se refiere este artículo deberá estar disponible de manera permanente y actualizada en la página de Internet de la Secretaría de Educación Pública, la cual deberá enviar dicha información a la Secretaría de manera trimestral.
+III. Las multas.
 
-De conformidad con los Lineamientos Operativos que sean emitidos por la Secretaría de Educación Pública, el otorgamiento de subsidios para organismos descentralizados estatales, conforme al programa presupuestario correspondiente, estará condicionado a que las entidades federativas aporten la parte que les corresponda con cargo a sus presupuestos autorizados.
+IV. La indemnización en el caso de devolución de cheques.
+
+Cuando se trate de contribuciones que se causen periódicamente y se adeuden los correspondientes a diversos períodos, si los pagos relativos a esas contribuciones no cubren la totalidad del adeudo, se aplicarán a cuenta de los adeudos que corresponden a los períodos más antiguos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 35.
 
-Con el objeto de impulsar la cultura del pago por suministro de agua en bloque en los Distritos de Riego y mejorar la infraestructura de riego, el Ejecutivo Federal, a través de la Comisión Nacional del Agua, devolverá a los Distritos de Riego que estén al corriente en sus pagos, un importe de recursos equivalente a las cuotas que se generen en el presente ejercicio fiscal, los cuales se destinarán en un 65 por ciento a la conservación y mantenimiento de los canales y drenes menores; 25 por ciento a la conservación de la red mayor, canales y drenes principales; 8 por ciento al mantenimiento de las obras de cabeza, y 2 por ciento a la supervisión y gasto de operación.
+Los créditos fiscales podrán garantizarse en alguna o varias de las formas siguientes:
+
+I. Depósito de dinero.
+
+II. Prenda o hipoteca.
+
+III. Fianza otorgada por compañía autorizada, la que no gozará de los beneficios de orden y excusión.
+
+IV. Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia.
+
+V. Embargo en la vía administrativa.
+
+VI. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2006)
+
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+La garantía deberá comprender, además del crédito principal debidamente actualizado a la fecha de su otorgamiento, los accesorios causados, así como los que se causen en los doce meses siguientes a dicha fecha. Al terminar este periodo y en tanto no se cubra el crédito, deberá ampliarse la garantía para que cubra el crédito actualizado y el importe de los accesorios causados, incluso los recargos correspondientes a los doce meses siguientes; dicha ampliación deberá otorgarse dentro de los 10 días siguientes al en que haya vencido el plazo señalado. Si la garantía consiste en depósito de dinero no procederá la actualización, ni se causarán recargos, a partir de la fecha en que éste se realice. Tratándose del pago a plazos, la garantía deberá otorgarse respecto del 80% del total del adeudo más los accesorios que se causen en el plazo elegido.
+
+> <small>(ADICIONADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+
+En los casos en que los contribuyentes, dentro del plazo referido en el párrafo anterior, no lleven a cabo la ampliación de la garantía, la autoridad fiscal procederá al embargo de bienes suficientes, para garantizar el interés fiscal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 36.
 
-Los programas de la Secretaría de Educación Pública, destinados a fomentar la expansión de la oferta educativa Primera Infancia, Media Superior y Superior, establecerán mecanismos que permitan disminuir el rezago en el índice de cobertura en aquellas entidades federativas que estén por debajo del promedio nacional.
+La garantía del interés fiscal se otorgará a favor del Gobierno del Estado de México, del Ayuntamiento o del organismo auxiliar, según corresponda en los siguientes términos:
 
-La Secretaría de Educación Pública deberá informar a la Cámara de Diputados, sobre la estructura de los programas destinados a fomentar la expansión de la oferta educativa a los que hace referencia el párrafo anterior, su distribución y metas de mediano y largo plazo, a más tardar el 31 de marzo.
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
-Los recursos federales que reciban las universidades e instituciones públicas de educación media superior y superior, incluyendo subsidios, estarán sujetos a la fiscalización que realice la Auditoría en términos de lo establecido en la Ley de Fiscalización y Rendición de Cuentas de la Federación, y se rendirá cuenta sobre el ejercicio de los mismos en los términos de las disposiciones aplicables, detallando la información siguiente:
+I. El depósito de dinero, podrá otorgarse mediante billete o certificado expedido por las instituciones de crédito legalmente autorizadas, o en efectivo mediante el recibo oficial expedido por la autoridad fiscal, cuyo original se entregará al interesado.
 
-I. Los programas a los que se destinen los recursos y el cumplimiento de las metas correspondientes;
+II. Tratándose de prenda o hipoteca se constituirá sobre los siguientes bienes:
 
-II. El costo de nómina del personal docente, no docente, administrativo y manual, identificando las distintas categorías y los tabuladores de remuneraciones por puesto, responsabilidad laboral y su lugar de ubicación;
+A). Bienes muebles, por el 75% de su valor de avalúo.
 
-III. Desglose del gasto corriente destinado a su operación;
+No serán admisibles como garantía, los bienes que ya se encuentren embargados por autoridades fiscales, judiciales o en el dominio de los acreedores. Los de procedencia extranjera, sólo se admitirán cuando se compruebe su legal estancia en el país.
 
-IV. Los estados de situación financiera, analítico, así como el de origen y aplicación de recursos públicos federales, y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 15 DE DICIEMBRE DE 2017)</small>
 
-V. La información sobre matrícula de inicio y fin de cada ciclo escolar.
+B). Bienes inmuebles, por el 75% del valor de avalúo o catastral. Para estos efectos se deberá acompañar a la solicitud respectiva, el certificado del Instituto de la Función Registral o en su caso el emitido por el Registro Agrario Nacional, en el que se acredite que está libre de gravamen y que no tiene afectación urbanística o agraria, documento que será aceptado siempre y cuando a la fecha de presentación el mismo no tenga más de tres meses de que fue expedido. En el supuesto de que el inmueble reporte gravámenes, la suma del monto total de éstos y el interés fiscal a garantizar no podrá exceder del 75% del valor de avalúo.
 
-De conformidad con la Ley General de Contabilidad Gubernamental, así como con los lineamientos que emita en la materia el Consejo Nacional de Armonización Contable, las universidades e instituciones públicas de educación media superior y superior llevarán el registro y la vigilancia de los activos, pasivos corrientes y contingentes, ingresos, gastos y patrimonio.
+En la hipoteca, el otorgamiento de la garantía se hará en escritura pública que deberá inscribirse en el Registro Público de la Propiedad y contener los datos relacionados con el crédito fiscal. El otorgante podrá garantizar con la misma hipoteca los recargos futuros o ampliar la garantía cada año.
 
-Las universidades e instituciones públicas de educación media superior y superior a que se refiere este artículo entregarán a la Secretaría de Educación Pública la información señalada en el mismo, a más tardar a los 15 días naturales posteriores a la conclusión del trimestre que corresponda. Dicha Secretaría entregará esta información a la Cámara de Diputados y la publicará en su página de Internet, a más tardar a los 30 días naturales posteriores al periodo correspondiente.
+III. En caso de que se garantice mediante fianza, ésta deberá quedar en poder y guarda de la autoridad fiscal, para que solicite su cobro en caso de que así proceda.
 
-Las autoridades correspondientes para aplicar dichos recursos verificarán que el personal de cada una de las universidades e instituciones de educación media superior y superior públicas, cumplan con sus obligaciones en términos de los contratos laborales correspondientes realizándose, en su caso, la compulsa entre las nóminas y los registros de asistencia.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-La Secretaría de Educación Pública enviará la información a que se refiere este artículo a la Secretaría dentro de los 10 días hábiles posteriores a que aquélla la reciba.
+IV. Tratándose del embargo en la vía administrativa, se sujetará a lo previsto en el Título Décimo Tercero de este Código y a las siguientes reglas:
+
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2017)</small>
+
+A). Se practicará a solicitud del contribuyente, mediante escrito libre cumpliendo con los requisitos establecidos en los artículos 116 y 118 del Código de Procedimientos Administrativos del Estado de México y se realizará siguiendo los lineamientos que señala el Título Décimo Tercero de este Código.
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+B). El contribuyente señalará los bienes en que deba trabarse el embargo, debiendo ser suficientes para garantizar el interés fiscal, los cuales se aceptarán bajo las siguientes condiciones:
+
+1. Bienes muebles, por el 75% de su valor de avalúo.
+
+No serán admisibles como garantía, los bienes que ya se encuentren embargados por autoridades fiscales, judiciales o en el dominio de los acreedores. Los de procedencia extranjera, sólo se admitirán cuando se compruebe su legal estancia en el país.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 15 DE DICIEMBRE DE 2017)</small>
+
+2. Bienes inmuebles y negociaciones, por el 75% del valor del avalúo pericial, según corresponda. Para estos efectos se deberá acompañar a la solicitud respectiva, el certificado del Instituto de la Función Registral o en su caso el emitido por el Registro Agrario Nacional, en el que se acredite que está libre de gravamen y que no tiene afectación urbanística o agraria; documento que será aceptado siempre y cuando a la fecha de presentación no tenga más de tres meses de que fue expedido. En el supuesto de que el inmueble o la negociación reporte gravámenes, la suma del monto total de éstos y el interés fiscal a garantizar no podrá exceder del 75% del valor de avalúo.
+
+No serán susceptibles de embargo los bienes que se encuentran en los supuestos a que se refieren los incisos A) y C) del artículo 385 de este Código.
+
+C). Tratándose de personas físicas el depositario de los bienes será el propietario y en el caso de personas jurídico colectivas el representante legal, quien podrá ser removido libremente de su cargo por la autoridad recaudadora.
+
+D). Deberán cubrirse, con anticipación a la práctica de la diligencia de embargo en la vía administrativa, los gastos de ejecución señalados en el artículo 377 de este Código. El pago así efectuado tendrá el carácter de definitivo y en ningún caso procederá su devolución una vez practicada la diligencia.
+
+V. Para que un tercero asuma la obligación de garantizar el interés fiscal, deberá sujetarse a lo siguiente:
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+A). Manifestará su aceptación mediante escrito firmado ante la autoridad recaudadora que tenga encomendado el cobro del crédito fiscal, identificándose a satisfacción de la misma, ante la presencia de dos testigos, señalando el tipo de garantía que otorga como responsable solidario.
+
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+B). Cuando sea persona jurídica colectiva la que garantice el interés fiscal, el monto de la garantía deberá ser menor al 10% de su capital social mínimo fijo.
+
+> <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+
+C). Demostrar tener domicilio legal en el territorio del Estado.
+
+Para formalizar el otorgamiento de la garantía, el titular de la oficina recaudadora que corresponda, deberá levantar acta de la que entregará copia a los interesados y solicitará su inscripción, cuando proceda, en el Registro Público de la Propiedad.
 
 ###### Artículo 37.
 
-Las sanciones económicas que, en su caso, aplique el Instituto Nacional Electoral derivado del régimen disciplinario de los partidos políticos durante 2022, serán concentradas a la Tesorería de la Federación dentro de los 30 días naturales siguientes a la fecha en que se realice el pago o se haga efectivo el descuento. Los recursos obtenidos por este concepto serán destinados en los términos de las disposiciones aplicables al Ramo 38 para el Consejo Nacional de Ciencia y Tecnología y deberán destinarse a actividades sustantivas; dichos recursos no podrán ejercerse en servicios personales y su ejercicio y destino deberá reportarse en los Informes Trimestrales.
+La garantía del interés fiscal se ofrecerá por el interesado ante la autoridad recaudadora que corresponda, para que en un plazo de diez días hábiles la califique, acepte si procede y le dé el trámite correspondiente. El ofrecimiento deberá acompañarse de los documentos relativos al crédito fiscal por garantizar y se expresará la causa por la que se ofrece la garantía.
+
+La autoridad al calificar la garantía, deberá verificar que se cumplan los requisitos que se establecen en este Código, de no ser así, requerirá al interesado, a fin de que en un plazo de diez días hábiles contados a partir del día siguiente a aquél en que se le notifique dicho requerimiento, cumpla con los requisitos omitidos; en caso contrario, no se aceptará la garantía.
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+
+La garantía constituida podrá comprender uno o varios créditos fiscales a cargo del mismo contribuyente, siempre y cuando el valor de la misma cubra todos los conceptos por los cuales se deba garantizar el interés fiscal previstos en el segundo párrafo del artículo 35 de este Código.
 
 ###### Artículo 38.
 
-El Ejecutivo Federal, por conducto de la Secretaría, con la participación que corresponda al Consejo Nacional de Armonización Contable, establecerá los términos y condiciones para la distribución del fondo previsto en este Presupuesto de Egresos, para el otorgamiento de subsidios a las entidades federativas y a los municipios para la capacitación y profesionalización de las unidades administrativas competentes en materia de contabilidad gubernamental, así como para la modernización de tecnologías de la información y comunicaciones que permitan el cumplimiento de la armonización contable de los tres órdenes de gobierno conforme a lo dispuesto en la Ley General de Contabilidad Gubernamental.
+Procede garantizar el interés fiscal, cuando:
 
-Las disposiciones a que se refiere el párrafo anterior deberán ser publicadas en el Diario Oficial de la Federación, a más tardar dentro del primer trimestre del año.
+(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003) (REPUBLICADA, G.G. 16 DE DICIEMBRE DE 2011)
 
-El Consejo Nacional de Armonización Contable, a más tardar el último día hábil de diciembre, deberá publicar en su página de Internet un reporte especial sobre la aplicación de los recursos del fondo a que hace referencia el presente artículo, así como:
+I. Se solicite la suspensión del procedimiento administrativo de ejecución, debiendo acreditar que se interpuso una impugnación en tiempo.
 
-I. El monto de los subsidios otorgados a cada una de las entidades federativas y municipios;
+II. Se solicite prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades, si dichas facilidades se conceden individualmente.
 
-II. El tipo y alcances de los subsidios federales otorgados, y
+III. En los demás casos que señale este ordenamiento y demás disposiciones legales aplicables.
 
-III. Los avances y resultados reportados por las entidades federativas y municipios.
+Se podrá dispensar la garantía del interés fiscal cuando, en relación con el monto del crédito respectivo, sea notoria la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieran embargado bienes suficientes para garantizar el interés fiscal o cuando el contribuyente declare bajo protesta de decir verdad que son los únicos que posee. En el caso de que la autoridad compruebe por cualquier medio que esta declaración es falsa podrá exigir garantía adicional, sin perjuicio de las sanciones que correspondan.
 
 ###### Artículo 39.
 
@@ -1315,7 +1489,7 @@ La prohibición establecida en este artículo, no será aplicable a las personas
 
 Para estos efectos, en el convenio mencionado, se establecerá que los Entes Públicos retengan un porcentaje de la contraprestación para ser enterada al Estado o Municipio para el pago de los adeudos correspondientes, en los términos previstos en las Reglas de Carácter General que emita la Secretaría.
 
-### CAPÍTULO ÚNICO. De los recursos federales transferidos a las entidades federativas, a los municipios y a las demarcaciones territoriales de la Ciudad de México
+### CAPITULO TERCERO. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES
 
 ###### Artículo 46.
 
@@ -2009,7 +2183,7 @@ No se considerará revisión de dictamen, la visita domiciliaria o el requerimie
 
 La autoridad fiscal competente podrá ejercer las facultades de comprobación a que se refiere este artículo, conjunta, indistinta o sucesivamente a las establecidas en el artículo 48 de éste Código y en las demás disposiciones legales, entendiéndose que se inician con el primer acto que se notifique (sic) contribuyente.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPITULO CUARTO. DE LAS FACULTADES DE LAS AUTORIDADES FISCALES
 
 ###### Artículo 48.
 
@@ -2543,9 +2717,9 @@ Dicha confidencialidad tampoco comprenderá la información relativa a los créd
 
 El uso, manejo y transmisión de datos personales a que se refieren los párrafos anteriores se sujetará a las disposiciones que para tal efecto señale la ley de la materia.
 
-## TÍTULO TERCERO. DE LOS LINEAMIENTOS GENERALES PARA EL EJERCICIO FISCAL
+## TITULO TERCERO. DE LOS INGRESOS DEL ESTADO
 
-### CAPÍTULO II. De las disposiciones de austeridad y disciplina presupuestaria
+### CAPITULO PRIMERO. DE LOS IMPUESTOS
 
 #### SECCION PRIMERA. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
 
@@ -3165,7 +3339,7 @@ Cuando los vehículos con las condiciones físico mecánicas señaladas en el p�
 
 Dicha tasa aplicará siempre y cuando no se modifiquen las características originales del motor.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINA 3.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 197.]</small>
 
 (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2014)
 
@@ -3607,33 +3781,35 @@ III. Expedir comprobantes que reúnan los requisitos establecidos en este Códig
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2017, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 21 DE DICIEMBRE DE 2016, PÁGINA 3.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 197.]</small>
 
 (REFORMADO, G.G. 2 DE DICIEMBRE DE 2013) (REPUBLICADO, G.G. 22 DE DICIEMBRE DE 2015)
 
 #### SECCION SEGUNDA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE SEGURIDAD
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINA 4.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 198.]</small>
 
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 #### SECCIÓN SEGUNDA BIS. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA GENERAL DE GOBIERNO
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINAS DE LA 4 A LA 6.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINAS DE LA 198 A LA 200.]</small>
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 15 DE DICIEMBRE DE 2017)</small>
 
 #### SECCION TERCERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE FINANZAS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINA 6.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 200.]</small>
 
 > <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO III. De los servicios personales
+### CAPITULO SEGUNDO. DE LOS DERECHOS
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 #### SECCION CUARTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE EDUCACION
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINAS DE LA 8 A LA 10.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA DE LA 203 A LA 205.]</small>
 
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -3709,7 +3885,7 @@ Con relación a aquellos derechos que se calculen con base en límites mínimos 
 
 La actualización que en su caso se realice conforme a lo previsto en el presente artículo se llevará a cabo únicamente por el monto o en la proporción que excede de la actualización realizada en el mismo periodo de los montos de los derechos correspondientes que resulte conforme a lo previsto en el artículo 70 de este Código.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2017, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 21 DE DICIEMBRE DE 2016, PÁGINA 4.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 197.]</small>
 
 (ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013) (REPUBLICADO, G.G. 22 DE DICIEMBRE DE 2015)
 
@@ -3725,6 +3901,8 @@ Con relación a aquellos derechos que se calculen con base en límites mínimos 
 
 La actualización que en su caso se realice conforme a lo previsto en el presente artículo se llevará a cabo únicamente por el monto o en la proporción que excede de la actualización realizada en el mismo periodo de los montos de los derechos correspondientes que resulte conforme a lo previsto en el artículo 70 de éste Código.
 
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 197.]</small>
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 15 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 72.
@@ -3733,7 +3911,7 @@ Por los servicios prestados por los entes públicos relativos a la supervisión 
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 15 DE DICIEMBRE DE 2017)</small>
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINA 4.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINAS DE LA 197 A LA 198.]</small>
 
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -3773,7 +3951,7 @@ Para los supuestos establecidos en las fracciones IV y V, el solicitante podrá,
 
 #### SECCION QUINTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE DESARROLLO URBANO Y METROPOLITANO
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINA 11.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINAS DE LA 205 A LA 206.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
@@ -3805,7 +3983,7 @@ VIII. Por inscripción de licencia colectiva de portación de arma de fuego por 
 
 #### SECCION SEXTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE OBRA PÚBLICA
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINA 12.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINAS DE LA 206 A LA 207.]</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -3983,7 +4161,7 @@ El derecho establecido en el inciso B) se pagará anualmente, mediante la forma 
 
 No pagarán estos derechos las empresas registradas en el Padrón Nacional de la Microindustria.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINAS DE LA 6 A LA 8.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINAS DE LA 200 A LA 202.]</small>
 
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -4139,13 +4317,13 @@ La vigencia de las placas de circulación será de cinco años contados a partir
 
 Tratándose de los servicios previstos en las fracciones I, II, III, IV, V, VII y XI de este artículo, el pago tendrá una reducción del 50% cuando se trate de vehículos habilitados para personas con discapacidad y vehículos eléctricos.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINA 8.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 202.]</small>
 
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 #### SECCION SEPTIMA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE LA CONTRALORIA
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINA 14.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 209.]</small>
 
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -4188,6 +4366,8 @@ IV. Acta informativa por extravío, robo o pérdida de identificación o gafete 
 SUBSECCION PRIMERA
 
 DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA JUNTA DE CAMINOS
+
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 209 A LA 211.]</small>
 
 > <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
@@ -4365,7 +4545,7 @@ XXII. (DEROGADA, G.G. 23 DE DICIEMBRE DE 2019)
 
 XXIII. Por solicitud, estudio, revisión y resolución del trámite de aprobación del reglamento académico o de titulación, o de la actualización del mismo, a planteles particulares de tipo superior. $1,058
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINAS DE LA 10 A LA 11.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 205.]</small>
 
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -4423,7 +4603,7 @@ C). Educación Superior. $1,068
 
 #### SECCION NOVENA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE MOVILIDAD
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINAS DE LA 17 A LA 23.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINAS DE LA 213 A LA 219.]</small>
 
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -4487,7 +4667,7 @@ IX. Por la aprobación del respectivo proyecto de lotificación del conjunto urb
 
 X. Por las constancias de aprovechamiento inmobiliario, se pagarán $ 3,857
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINAS DE LA 11 A LA 12.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 206.]</small>
 
 > <small>(ADICIONADO, G.G. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -4539,11 +4719,13 @@ II. Por el refrendo, el 50% de la tarifa establecida.
 
 III. Por la reposición de la credencial, el 50% de la tarifa establecida.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINAS DE LA 12 A LA14]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINAS DE LA 207 A LA 208.]</small>
 
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 #### SECCION DECIMA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DEL MEDIO AMBIENTE
+
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 219.]</small>
 
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -4675,7 +4857,7 @@ SUBSECCION PRIMERA
 
 DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION DE LEGALIZACION Y DEL PERIODICO OFICIAL "GACETA DEL GOBIERNO"
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINAS DE LA 24 A LA 25.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 220.]</small>
 
 > <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -4889,7 +5071,7 @@ SUBSECCION SEGUNDA
 
 DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL SISTEMA DE AUTOPISTAS, AEROPUERTOS, SERVICIOS CONEXOS Y AUXILIARES
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINAS DE LA 16 A LA 17.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINAS DE LA 211 A LA 213.]</small>
 
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -5505,6 +5687,8 @@ El Ejecutivo, a través de la Secretaría del Medio Ambiente, emitirá semestral
 
 (DEROGADO, G.G. 28 DE NOVIEMBRE DE 2016)
 
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 219.]</small>
+
 > <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 90.
@@ -5939,6 +6123,8 @@ y actos del estado civil. $5
 
 X. Por el servicio de encuadernación o rehabilitación de los libros de Oficialía de las diversas actas de los actos y hechos del estado civil, por libro. $258
 
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 219.]</small>
+
 > <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 91.
@@ -6159,7 +6345,7 @@ III. Expedición de duplicado de gafete de identificación institucional del ISS
 
 IV. Acta informativa por extravío, robo o pérdida de identificación o gafete de identificación institucional del ISSEMYM. $50
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINA 24.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 219 A LA 220.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
@@ -6187,7 +6373,7 @@ III. Permiso de Combustión a Cielo Abierto. $1,323
 
 Los recursos recaudados del cobro de los derechos previstos en las fracciones I y III del presente artículo, se destinarán al Fondo Estatal de Cambio Climático.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINA 24.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 220.]</small>
 
 > <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -6195,7 +6381,7 @@ Los recursos recaudados del cobro de los derechos previstos en las fracciones I 
 
 Por la renovación anual de acreditación en el Programa Integral de Reducción de Emisiones Contaminantes, se cobrarán por concepto de derechos a cada taller autorizado $5,218.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINA 24.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 220.]</small>
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
@@ -6207,7 +6393,7 @@ a) Impacto. $4,300
 
 b) Riesgo $4,300
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINA 24.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 220.]</small>
 
 > <small>(ADICIONADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
@@ -6267,7 +6453,7 @@ SUBSECCION SEGUNDA
 
 DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL INSTITUTO DE LA FUNCION REGISTRAL DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINAS DE LA 25 A LA 27.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINAS DE LA 220 A LA 223 Y SU ERRATA AL ARTÍCULO 95 FRACCIÓN DEL NUMERAL TERCERO, Y AL CUADRO DEL NUMERAL CUARTO PUBLICADA EN LA GG DE 14 DE ENERO DE 2020, PAGINAS DE LA 22 A LA 25.]</small>
 
 > <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -6477,7 +6663,7 @@ I. Por la expedición del permiso de distribución de agua a través de pipa a c
 
 II. Por la renovación del permiso de distribución de agua a través de pipa a consumidores, por un año de vigencia y por camión cisterna, treinta y cinco salarios mínimos vigentes en el área geográfica que corresponda.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINA 27.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 223.]</small>
 
 > <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -6511,7 +6697,7 @@ CONCEPTO
 
 IV. Por cancelación de cualquiera de los actos contenidos en este artículo. $1,521
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINAS DE LA 27 A LA 28.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINAS DE LA 223 A LA 224.]</small>
 
 > <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -7347,7 +7533,7 @@ autotransporte colectivo de pasajeros, en rutas fijas dentro
 
 del territorio del Estado. $458
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINAS DE LA 28 A LA 29.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 224.]</small>
 
 > <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -7409,7 +7595,7 @@ El Ejecutivo, a través de la Secretaría del Medio Ambiente emitirá semestralm
 
 Por la cancelación de la inscripción de los registros o matrículas a que se refiere la fracción VI del presente artículo, se pagarán $692
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINA 29.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 224.]</small>
 
 > <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -7433,7 +7619,7 @@ IV. Otras resoluciones. $1,524
 
 (DEROGADO, G.G. 30 DE JUNIO DE 2006)
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINA 29.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINAS DE LA 224 A LA 225.]</small>
 
 > <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -7483,7 +7669,7 @@ En el caso de los certificados a que hace referencia la fracción I y tratándos
 
 Cuando los servicios a que aluden las fracciones I, incisos A), B), C) y D), IV y V de este artículo no se expidan, porque la solicitud contenga errores u omisiones y los derechos hayan sido cubiertos previamente, una vez subsanados los errores u omisiones, se extenderá la certificación solicitada, haciendo válido el pago efectuado. Esto aún y cuando se haya dado salida al documento, en los casos de cambio de anualidad y para efectos de continuar su trámite deberá pagar las diferencias correspondientes.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINAS DE LA 29 A LA 30.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 225.]</small>
 
 > <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -7503,7 +7689,7 @@ Por inscripción o anotación de modificaciones o rectificaciones relativas a in
 
 Tratándose de instituciones y organizaciones de crédito y seguros, las inscripciones que deban hacerse pagarán los mismos derechos.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINA 30.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINAS DE LA 225 A LA 226.]</small>
 
 > <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -7569,6 +7755,8 @@ Taller autorizado en el Programa Integral de Reducción
 
 de Emisiones Contaminantes (PIREC). $4,979
 
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 226.]</small>
+
 > <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 103.
@@ -7581,7 +7769,7 @@ SUBSECCION TERCERA
 
 DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DEL REGISTRO CIVIL
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2019, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN QUINTA DE LA G.G. DE 8 DE ENERO DE 2019, PÁGINAS DE LA 30 A LA 31.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 226.]</small>
 
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -7675,9 +7863,9 @@ DE LOS DERECHOS POR SERVICIOS CORRESPONDIENTES AL DICTAMEN ÚNICO DE FACTIBILIDA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-## TÍTULO CUARTO. DE LA OPERACIÓN DE LOS PROGRAMAS
+## TITULO CUARTO. DE LOS INGRESOS DE LOS MUNICIPIOS
 
-### CAPÍTULO IV. De la Igualdad entre Mujeres y Hombres
+### CAPITULO PRIMERO. DE LOS IMPUESTOS
 
 #### SECCION SEXTA. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
 
@@ -8329,7 +8517,9 @@ Artículo 128 Bis A.- (DEROGADO, G.G. 2 DE DICIEMBRE DE 2013)
 
 Artículo 128 Bis B.- (DEROGADO, G.G. 2 DE DICIEMBRE DE 2013)
 
-### CAPÍTULO V. De la inclusión de las personas con discapacidad
+### CAPITULO SEGUNDO. DE LOS DERECHOS
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 #### SECCION SEXTA. DE LOS DERECHOS POR CORRAL DE CONCEJO, E IDENTIFICACION DE SEÑALES DE SANGRE, TATUAJES, ELEMENTOS ELECTROMAGNETICOS Y FIERROS PARA MARCAR GANADO Y MAGUEYES
 
@@ -10893,9 +11083,11 @@ inferior superior
 
 El importe de los derechos a pagar, será el resultado de sumar a la cuota fija que corresponda de la tarifa, el resultado de multiplicar el factor aplicable a cada rango por la diferencia que exista entre la superficie de terreno del inmueble de que se trate y la superficie indicada en el límite inferior del rango relativo.
 
-## TÍTULO QUINTO. OTRAS DISPOSICIONES PARA EL EJERCICIO FISCAL
+## TITULO QUINTO. DEL CATASTRO
 
-### CAPÍTULO VI. Del desarrollo integral de los pueblos y comunidades indígenas
+### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 167.
 
@@ -10915,7 +11107,9 @@ El padrón catastral es el inventario analítico que contiene los datos técnico
 
 La actividad catastral es el conjunto de acciones de identificación, inscripción, control y valuación, que permiten integrar, conservar y mantener actualizado el inventario analítico con las características cualitativas y cuantitativas de los inmuebles inscritos en el padrón catastral del Estado, realizadas con apego al LIGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables en la materia.
 
-### CAPÍTULO VII. De la inversión pública
+### CAPITULO SEGUNDO. DE LAS AUTORIDADES CATASTRALES
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 169.
 
@@ -11133,7 +11327,9 @@ La autoridad catastral municipal, enviará al IGECEM la información actualizada
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO VIII. De la evaluación del desempeño
+### CAPÍTULO TERCERO. DE LA INSCRIPCIÓN Y ACTUALIZACIÓN DE INMUEBLES
+
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 175.
 
@@ -11289,7 +11485,9 @@ Cuando no se inscriba un inmueble, no se manifieste su valor o las modificacione
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPITULO CUARTO. DE LAS TABLAS DE VALOR
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 #### SECCION TERCERA. DE LA ORGANIZACION DE LOS BENEFICIARIOS
 
@@ -11941,7 +12139,9 @@ El IGECEM registrará y autorizará a los especialistas en valuación inmobiliar
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
-### CAPÍTULO II. De los criterios específicos para la operación de los programas
+### CAPITULO PRIMERO. DE LAS APORTACIONES PARA OBRA PUBLICA Y ACCIONES DE BENEFICIO SOCIAL
+
+> <small>(ADICIONADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 #### SECCION SEGUNDA. DEL REGISTRO CONTABLE Y PRESUPUESTAL
 
@@ -12147,7 +12347,9 @@ Las aportaciones notificadas a cargo de los beneficiarios, tendrán el carácter
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO ÚNICO
+### CAPITULO SEGUNDO. DE LAS APORTACIONES ESTATALES PARA OBRAS DE IMPACTO VIAL
+
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 216-A.
 
@@ -16927,107 +17129,7 @@ I. Por la interposición del recurso administrativo o la presentación de la dem
 
 II. Por consulta entre autoridades, si de dicha consulta depende la entrega de los bienes a los interesados.
 
-## Transitorios
-
-Primero. El presente Decreto entrará en vigor el primero de enero del año 2022.
-
-Segundo. Las disposiciones administrativas emitidas con base en lo dispuesto en los Decretos de Presupuesto de Egresos de la Federación de ejercicios fiscales anteriores, que se encuentren vigentes hasta antes de la entrada en vigor del presente Decreto, continuarán aplicándose en lo que no se opongan a éste, hasta en tanto no se emitan nuevas disposiciones administrativas que las reformen o abroguen.
-
-Tercero. Se faculta al Ejecutivo Federal, a través de la Secretaría, para que emita las autorizaciones que correspondan, a efecto de que los ejecutores de gasto realicen las adecuaciones o los traspasos de recursos humanos, financieros y materiales, incluyendo bienes muebles e inmuebles, que sean necesarios como consecuencia de reformas jurídicas que tengan por objeto la creación o modificación de la estructura administrativa de cualquier dependencia, entidad o ente autónomo, o cambio de sector en los casos que corresponda, reportando las mismas en los Informes Trimestrales.
-
-Con la finalidad de garantizar y dar continuidad a las acciones de gobierno, las Dependencias, Entidades y unidades administrativas que se encuentren en proceso de readscripción o modificación de sus programas, podrán continuar su operación en la estructura organizacional y presupuestaria en la que se encuentren a la entrada en vigor del presente Decreto, hasta en tanto no se realice la transferencia de recursos humanos, financieros y materiales o se modifiquen sus programas.
-
-Los ejecutores de gasto deberán realizar las adecuaciones que sean necesarias para transferir los recursos fiscales y las estructuras orgánicas y ocupacionales respecto de las unidades responsables que cambiaron de adscripción o se encuentren en proceso de readscripción como consecuencia de reformas jurídicas.
-
-Cuarto. Los recursos del Fondo de Aportaciones para la Educación Tecnológica y de Adultos correspondientes a las entidades federativas que no hayan suscrito los convenios a los que hace referencia el artículo 42 de la Ley de Coordinación Fiscal deberán ser transferidos del Ramo General 33 Aportaciones Federales para Entidades Federativas y Municipios al Ramo 11 Educación, a fin de que a través de éste se transfieran para esos mismos fines a dichas entidades federativas. Lo anterior, hasta en tanto sean suscritos los convenios de coordinación respectivos.
-
-Quinto. Las entidades federativas deberán notificar y realizar la entrega de los recursos federales que correspondan a los municipios o demarcaciones territoriales de la Ciudad de México, en los plazos y términos que establecen las leyes federales aplicables, el Presupuesto de Egresos, y en el caso de programas de subsidios o gasto reasignado, conforme a lo previsto en los convenios que celebren con las Dependencias y Entidades que les transfieran recursos federales.
-
-Las entidades federativas no podrán establecer requisitos adicionales ni realizar acciones u omisiones que impidan el ejercicio eficiente, eficaz y oportuno de los recursos públicos que por su conducto se transfieran a los municipios y, en su caso, a las demarcaciones territoriales de la Ciudad de México.
-
-Las entidades federativas, por conducto de sus secretarías de finanzas o sus equivalentes, deberán hacer pública la información relativa a la fecha y el monto de las transferencias de recursos federales que deriven de los proyectos aprobados en el Presupuesto de Egresos, realizadas a sus municipios o demarcaciones territoriales de la Ciudad de México, a través de sus respectivas páginas oficiales de Internet, dentro de los diez días naturales siguientes a la fecha en que los recursos correspondientes hayan sido efectivamente depositados en las cuentas bancarias específicas de los municipios o demarcaciones, incluyendo el número de identificación de la transferencia.
-
-El incumplimiento a lo previsto en el presente artículo, incluyendo el destino de los recursos correspondientes, será sancionado por las autoridades competentes en los términos de la legislación aplicable, sin perjuicio de las responsabilidades de carácter civil, administrativo o penal que, en su caso, se determinen.
-
-Los municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México serán responsables de la correcta integración de la información técnica, así como del destino, ejercicio, registro y comprobación de los recursos que les transfieran las entidades federativas respectivas, conforme a lo señalado en este artículo.
-
-Sexto. Para el ejercicio 2022, en cumplimiento a lo establecido en las disposiciones jurídicas aplicables, la Secretaría de Bienestar publicará los Lineamientos del Fondo de Aportaciones para la Infraestructura Social, a más tardar el último día del mes de febrero de 2022, los cuales podrán determinar que hasta un 60 por ciento de los recursos que de dicho Fondo correspondan a las entidades federativas y los municipios o demarcaciones territoriales de la Ciudad de México, se destinen a la realización de acciones de carácter complementario en materia de obras de urbanización, pavimentación, caminos rurales, puentes, obras de reconstrucción y carreteras, conforme a los criterios que se establezcan en los referidos lineamientos.
-
-Séptimo. Los ejecutores de gasto deberán cubrir con cargo a sus presupuestos autorizados los compromisos u obligaciones que deriven de las determinaciones o las resoluciones emitidas por autoridad jurisdiccional competente. Para efectos de lo anterior, los ejecutores de gasto deberán ajustar sus presupuestos para el cumplimiento de sus obligaciones, sin que ello implique ampliaciones a los mismos.
-
-Octavo. Las Dependencias y Entidades llevarán a cabo las acciones que correspondan para que la entrega de los subsidios y apoyos a los beneficiarios de los programas se realice de manera directa a través de la Tesorería de la Federación, en forma electrónica mediante transferencia de recursos para su depósito en las cuentas bancarias de los mismos, salvo que se esté en alguno de los supuestos de excepción regulados en la Ley de Tesorería de la Federación, su Reglamento y demás disposiciones aplicables, o bien, que la Secretaría autorice que se efectúe de manera distinta.
-
-Noveno. Las Dependencias y Entidades que reciban recursos para la atención de los desastres naturales, continuarán siendo las responsables de destinar y ejercer los mismos para los fines para los cuales fueron autorizados; dar el seguimiento a la ejecución de las obras y acciones que estas contraten y al cumplimiento del calendario de ejecución en los términos y plazos establecidos, y contar con la documentación justificativa y comprobatoria de las erogaciones. Asimismo, en la contratación de las obras de reconstrucción, los ejecutores de gasto deberán prever el establecimiento de medidas de mitigación que reduzcan su vulnerabilidad ante futuras amenazas.
-
-Décimo. Los aprovechamientos derivados de los enteros de recursos que concentren las universidades e instituciones públicas de educación superior en la Tesorería de la Federación con fecha posterior a la establecida en el artículo 54 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, respecto de recursos federales no ejercidos en ejercicios fiscales anteriores al 2022, se podrán destinar por la Secretaría a programas y proyectos de inversión en infraestructura educativa.
-
-Décimo Primero. La Secretaría Ejecutiva del Sistema Nacional Anticorrupción realizará las definiciones técnicas y metodológicas pertinentes para procurar la continuidad del Anexo Transversal Anticorrupción para el ejercicio fiscal 2023 tomando como referencia la Ley General del Sistema Nacional Anticorrupción y la Política Nacional Anticorrupción derivada de dicha ley.
-
-Décimo Segundo. La Secretaría Ejecutiva del Sistema Nacional Anticorrupción, en su carácter de instancia técnica del Sistema Nacional Anticorrupción, dará seguimiento al Anexo Transversal Anticorrupción para el presente ciclo presupuestario, para lo cual deberá elaborar un informe anual de ejecución y seguimiento del mismo con base en la metodología presentada para el ciclo presupuestario 2022. Dicho informe deberá presentarse a la Cámara de Diputados.
-
-Décimo Tercero. El Ramo 11 Educación Pública comprende los recursos para la constitución del fondo a que se refiere el artículo 64 de la Ley General de Educación Superior, los cuales se podrán ejercer a través de un fideicomiso público que para tales efectos se constituya para esos fines por la Secretaría en coordinación con la Secretaría de Educación Pública.
-
-La constitución y operación del fideicomiso antes referido, así como del fideicomiso público que, en su caso, se constituya para efectos del fondo señalado en el Décimo Séptimo transitorio de la Ley General de Educación se sujetarán a los mecanismos específicos de control presupuestario que emita la Secretaría.
-
-Décimo Cuarto. La Secretaría, en el ámbito de sus atribuciones, continuará durante el ejercicio fiscal 2022 con la revisión del “Procedimiento para fortalecer la estimación de los recursos asignados a los programas presupuestarios del Anexo 18 del Presupuesto de Egresos, Recursos para la Atención de Niñas, Niños y Adolescentes”. En su caso, la Secretaría podrá consultar al Consejo Nacional de Evaluación de la Política Social, en el ámbito de sus atribuciones, sobre su eventual apoyo técnico para contribuir a dicho propósito. Lo anterior a fin de mejorar la estimación de las asignaciones que se vinculan a dicho anexo transversal en el Proyecto de Presupuesto de Egresos de la Federación para el ejercicio fiscal siguiente.
-
-Décimo Quinto. El Consejo Nacional para Prevenir la Discriminación, con cargo a su presupuesto aprobado, llevará a cabo acciones para contar con la información necesaria, incluyendo aspectos técnicos y metodológicos, que permitan analizar la incidencia que en materia de discriminación sufrida por el grupo de personas que expresan diversidad en la orientación sexual, identidad y expresión de género, ha realizado el Ejecutivo Federal, en el Anexo 14 Recursos para la Atención de Grupos Vulnerables.
-
-Décimo Sexto. La Secretaría, dentro de los plazos establecidos para la integración del presente Presupuesto, deberá llevar a cabo la distribución de los montos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, del Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas y de las Participaciones Federales aprobados en el presente Presupuesto de Egresos de la Federación para el ejercicio fiscal 2022, considerando lo siguiente: se aplicará como total de población, la suma de las poblaciones por entidad federativa, conforme a la Encuesta Nacional de Ocupación y Empleo (ENOE) y la medida cautelar dictada en la Controversia Constitucional 78/2021, o bien, la resolución definitiva de la Suprema Corte de Justicia de la Nación, en el caso de que se haya emitido la misma, y se aplicarán las formulas establecidas en la Ley de Coordinación Fiscal.
-
-Para el supuesto de que con fecha posterior a la integración del presente Presupuesto, la Suprema Corte de Justicia de la Nación emita la resolución definitiva en la Controversia Constitucional 78/2021, la Secretaría deberá llevar a cabo los ajustes presupuestales a la distribución del monto anual del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, y del Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas para el ejercicio fiscal 2022, así como a los calendarios respectivos, considerando la población total conforme a las sumas de las poblaciones de cada entidad federativa y en los términos de la resolución antes referida. Los ajustes a la distribución de los montos y a su calendarización se deberán publicar en el Diario Oficial de la Federación.
-
-Décimo Séptimo. La Secretaría, con la participación de la Secretaría de Medio Ambiente y Recursos Naturales, realizará las acciones necesarias para que en el Proyecto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2023 se implemente la metodología para la conformación del anexo transversal referente a los recursos para la adaptación y mitigación de los efectos del cambio climático, desarrollada en el marco de lo previsto en el Décimo Cuarto transitorio del Decreto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2020, para lo cual se deberán señalar los cambios en los programas presupuestarios, factores, variables y fórmulas con el fin de determinar si las previsiones de gasto resultan comparables respecto a las consideradas para el mismo anexo transversal de ejercicios fiscales anteriores.
-
-Décimo Octavo. El ejercicio de los recursos que se obtengan de los aprovechamientos enterados por las entidades federativas y los municipios, conforme a lo establecido en el Décimo Octavo transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2022, se sujetará a los términos establecidos en el Séptimo transitorio de esa Ley.
-
-Décimo Noveno. Para efectos de la ejecución de los acuerdos de coordinación a que se refiere el Décimo Sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2022, se podrá constituir un fideicomiso público conforme al mecanismo específico de control presupuestario que emita la Secretaría.
-
-Vigésimo. Los ejecutores de gasto, en los casos que correspondan, deberán realizar las acciones conducentes y, en su caso, emitir las disposiciones específicas que correspondan para que las percepciones y prestaciones se sujeten, a partir del 1o. de enero de 2022, a los límites máximos de percepciones y de prestaciones previstos en el Anexo 23 del presente Decreto.
-
-Vigésimo Primero. La dependencia responsable de los programas La Escuela es Nuestra y Expansión de la Educación Inicial, que se incorporan al Anexo 25 de este Decreto, deberá publicar en el Diario Oficial de la Federación las respectivas reglas de operación a más tardar el último día hábil de febrero.
-
-Para tal efecto, deberá remitir los proyectos de reglas de operación a la Secretaría a más tardar el último día hábil de enero. Las autorizaciones que emita dicha dependencia y la Comisión Nacional de Mejora Regulatoria, se realizarán en los mismos plazos y términos previstos en el artículo 77 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; lo anterior, sin perjuicio de que dichos programas puedan ejecutarse en tanto se emiten las referidas reglas.
-
-SALÓN DE SESIONES DE LA CÁMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNIÓN.- Ciudad de México, a 10 de noviembre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Rúbricas."
-
-En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de noviembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
-
-> <small>[N. DE E. VÉASE ANEXOS DEL PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2022, EN LA EDICIÓN VESPERTINA DEL D.O.F. DE 29 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 30 A LA 91.]</small>
-
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTOS ANEXOS SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
-
-ANEXO 1. GASTO NETO TOTAL (pesos)
-
-A: RAMOS AUTÓNOMOS 131,319,606,644
-
-Gasto Programable
-
-[…]
-
-(NOTA: EL 1 DE JUNIO DE 2022, LA PRIMERA SALA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX Y X, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 209/2021, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE EXPIDE EL PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2022, EN LO CONCERNIENTE AL PRESUPUESTO ASIGNADO AL INSTITUTO NACIONAL ELECTORAL, EN EL RAMO 22 DE ESTE ANEXO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-22 INSTITUTO NACIONAL ELECTORAL 19,736,593,972
-
-[…]
-
-ANEXO 32. ADECUACIONES APROBADAS POR LA H. CÁMARA DE DIPUTADOS (pesos)
-
-PROYECTO REDUC- AMPLIA- REASIGNA- PEF
-
-PEF CIONES CIONES CIONES APROBADO
-
-[…]
-
-(NOTA: EL 1 DE JUNIO DE 2022, LA PRIMERA SALA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX Y X, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 209/2021, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE EXPIDE EL PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2022, EN LO CONCERNIENTE AL PRESUPUESTO ASIGNADO AL INSTITUTO NACIONAL ELECTORAL, EN EL RAMO 22 DE ESTE ANEXO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-22 INSTITUTO 24,649,593,972 4,913,000,000 0 -4,913,000,000 19,736,593,972
-
-NACIONAL
-
-ELECTORAL
-
-[…]
+## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
 
@@ -18368,3 +18470,19 @@ CADA RANGO
 SÉPTIMO.- Las Instituciones que presenten adeudos por concepto de cuotas y aportaciones ante el Instituto de Seguridad Social del Estado de México y Municipios, podrán regularizarlos mediante convenio de pago en parcialidades hasta por ochenta y cuatro meses exceptuando lo previsto en el artículo 32 del Código Financiero del Estado de México y Municipios, y se les podrá condonar hasta el 100% de los recargos y multas que, en su caso, hubiesen generado, para tal efecto deberán suscribir el convenio respectivo dentro de los dos meses siguientes a la entrada en vigor del presente Decreto.
 
 OCTAVO.- Las Reglas Generales y Lineamientos Generales a que se refiere el presente Decreto, deberán emitirse dentro de los primeros 90 días a partir de la entrada en vigor de este Decreto.
+
+G.G. 26 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL FACTOR DE ACTUALIZACIÓN ANUAL DE DERECHOS Y LAS CUOTAS Y TARIFAS PREVISTAS EN EL ARTÍCULO 60 G DEL CAPÍTULO PRIMERO, “DE LOS IMPUESTOS”, ASÍ COMO LAS ESTABLECIDAS EN LOS ARTÍCULOS 73 AL 104 DEL CAPÍTULO SEGUNDO, “DE LOS DERECHOS” PARA EL EJERCICIO FISCAL DE 2020, AMBOS DEL TÍTULO TERCERO “DE LOS INGRESOS DEL ESTADO” DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+Primero.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+Segundo.- A partir de la fecha en que entre en vigor este Acuerdo, se dejan sin efecto las disposiciones de igual o menor jerarquía que contravengan o se opongan al mismo.
+
+Tercero.- Hágase del conocimiento de las Dependencias de la Administración Pública del Gobierno del Estado de México, y de las Unidades Administrativas de la Subsecretaría de Ingresos.
+
+G.G. 14 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DE LA “FE DE ERRATAS DEL ACUERDO POR EL QUE SE DA A CONOCER EL FACTOR DE ACTUALIZACIÓN ANUAL DE DERECHOS Y LAS CUOTAS Y TARIFAS PREVISTAS EN EL ARTÍCULO 60 G DEL CAPÍTULO PRIMERO, "DE LOS IMPUESTOS" ASÍ COMO LAS ESTABLECIDAS EN LOS ARTÍCULOS 73 AL 104 DEL CAPÍTULO SEGUNDO, "DE LOS DERECHOS" PARA EL EJERCICIO FISCAL DE 2020, AMBOS DEL TÍTULO TERCERO "DE LOS INGRESOS DEL ESTADO" DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS", PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" EL 26 DE DICIEMBRE DE 2019, QUE LA PARTE CORRESPONDIENTE AL ARTÍCULO 95 FRACCIÓN II DEL NUMERAL TERCERO, Y AL CUADRO DEL NUMERAL CUARTO, REFERENTE AL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO”.]
+
+Único. Publíquese la presente Fe de Erratas en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
