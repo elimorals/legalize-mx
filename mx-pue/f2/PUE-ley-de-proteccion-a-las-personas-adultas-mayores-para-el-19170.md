@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-las-personas-adultas-mayores-para-el-19170"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2019-07-24"
+last_updated: "2020-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 29 de diciembre de 2000.
 
@@ -75,6 +75,20 @@ La presente Ley es de orden público e interés social; y tiene por objeto estab
 
 Para los efectos de la presente Ley, se entenderá por "personas adultas mayores", a las personas a partir de los sesenta años de edad.
 
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2020)</small>
+
+ARTÍCULO 2 BIS.- Son principios rectores en la observación y aplicación de esta Ley, los siguientes:
+
+I.- Autonomía y autorrealización: Consiste en todas las acciones que se realicen en beneficio de las personas adultas mayores orientadas a fortalecer su independencia, su capacidad de decisión y su desarrollo personal y comunitario;
+
+II.- Participación: Consiste en la inserción de las personas adultas mayores en todos los órdenes de la vida pública. En los ámbitos de su interés, serán consultados y tomados en cuenta; asimismo se promoverá su presencia e intervención;
+
+III.- Equidad: Consiste en el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios, para el bienestar de las personas adultas mayores, sin distinción por sexo, situación económica, identidad étnica, fenotipo, credo, religión o cualquier otra circunstancia;
+
+IV.- Corresponsabilidad: Consiste en la concurrencia y responsabilidad compartida de los sectores público y social, en especial de las comunidades y familias, para la consecución del objeto de esta Ley; y
+
+V.- Atención preferente: Consiste en obligar a las instituciones estatales y municipales de gobierno, así como a los sectores social y privado a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores.
+
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 3.
@@ -119,7 +133,9 @@ VI.- Procurar que vivan en sus hogares y cerca de sus familiares hasta el últim
 
 VII.- Llevar a cabo las acciones procedentes para su afiliación al Instituto Nacional de las Personas Adultas Mayores, para recibir orientación, ayuda, protección, asesoría jurídica y capacitación gerontológica de todo tipo, así como beneficiarse de servicios que presten, independientemente de sus condiciones sociales o de salud;
 
-VIII.- Informar a la Procuraduría General de Justicia del Estado, de la probable comisión de delitos en su contra, de los cuales se tenga conocimiento;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2020)</small>
+
+VIII.- Informar a la Fiscalía General del Estado de Puebla, de la probable comisión de delitos en su contra, de los cuales se tenga conocimiento;
 
 IX.- Implementar programas de concientización para que las personas adultas mayores reciban la protección de su familia, de la sociedad en general, fomentando una cultura de respeto y dignificación hacia ellas;
 
@@ -602,3 +618,11 @@ PRIMERO. El Poder Ejecutivo Estatal, en el ámbito de su competencia, realizará
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO; POR EL QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 3 BIS, Y ADICIONA EL ARTÍCULO 2 BIS A LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
