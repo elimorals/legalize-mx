@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2020-01-11"
+last_updated: "2020-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2020.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -265,9 +265,9 @@ XXVI.- GUADALUPE, con cabecera en el pueblo del mismo nombre y las (sic) secció
 
 XXVII.- GUADALUPE Y CALVO, con cabecera en el pueblo del mismo nombre y las Secciones Municipales de Baborigame, Calabacillas, Dolores, Mesa de San Rafael, San Julián, San Juan Nepomuceno, San Simón, Tohayana, Atascaderos, Turuachi, Barbechitos y Rancho de Enmedio.
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2020)</small>
 
-XXVIII.- GUACHOCHI, con cabecera en el pueblo del mismo nombre y las secciones municipales de Tónachi, Rocheachi, Norogachi, Basiguare, La Ciénega y Samachique;
+XXVIII.- GUACHOCHI, con cabecera en la Ciudad del mismo nombre y las secciones municipales de Tónachi, Rocheachi, Norogachi, Basiguare, La Ciénega y Samachique;
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2015)</small>
 
@@ -5596,3 +5596,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los Ayuntamientos dentro de un plazo no mayor a doscientos cuarenta días, contados a partir de la entrada en vigor del presente Decreto, deberán realizar las adecuaciones a sus respectivos Reglamentos o demás instrumentos a que hubiere lugar, a fin de generar los esquemas de capacitación relativos a la atención de conflictos de la comunidad, mediante mecanismos alternativos de solución de controversias, atendiendo a las faltas administrativas que establezcan en función de sus realidades locales; así mismo, y para tales efectos, promoverán en igual término, las gestiones o convenios con las instancias que resulten pertinentes.
 
 TERCERO.- Envíese copia del presente Decreto a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado, para su conocimiento y los efectos consecuentes.
+
+P.O. 15 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFCOD/0433/2019 I P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 11, FRACCIÓN XXVIII, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
