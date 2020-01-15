@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2019-11-27"
+last_updated: "2020-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE NOVIEMBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -497,7 +495,9 @@ IX. Asegurar el respeto, la difusión y promoción de los derechos de las mujere
 
 X. Vigilar que los usos y costumbres de toda la sociedad no atenten contra los derechos humanos de las mujeres;
 
-XI. Impulsar la creación de refugios para las víctimas de conformidad con la presente Ley y al modelo de atención diseñado por el Sistema Nacional y el Sistema;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2020)</small>
+
+XI. Impulsar y apoyar la creación, operación y fortalecimiento de refugios para las víctimas de conformidad con la presente Ley y al modelo de atención diseñado por el Sistema Nacional y el Sistema;
 
 XII. Promover programas de información a la población en la materia;
 
@@ -927,7 +927,9 @@ VII. Apoyar la creación de programas de reeducación integral para los agresore
 
 VIII. Promover programas educativos para eliminar la violencia contra las mujeres;
 
-IX. Fortalecer los refugios existentes y apoyar la creación de refugios que se consideren necesarios para víctimas;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2020)</small>
+
+IX. Apoyar la creación, operación y el fortalecimiento de refugios para las víctimas, y sus familiares, niñas, niños y adolescentes o incapaces que habiten en el mismo domicilio
 
 X. Participar y coadyuvar en la prevención, atención y erradicación de la violencia contra las mujeres;
 
@@ -1232,3 +1234,11 @@ P.O. 23 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 175. SE REFORMAN LAS FRACCIONES XIV Y XV DEL ARTÍCULO 5° Y LAS FRACCIONES VI A LA VII DEL ARTÍCULO 6 Y SE ADICIONAN LAS FRACCIONES XVI AL ARTÍCULO 5O (SIC) Y LAS VIII Y IX AL ARTÍCULO 6, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 207. SE REFORMAN LAS FRACCIONES XI, DEL ARTÍCULO 31 Y IX, DEL ARTÍCULO 43, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+Primero.- El presente Decreto que entrará en vigor el 1 de enero de 2020.
+
+Segundo.- El Ejecutivo del Estado y los Municipios deberán hacer los ajustes presupuestarios necesarios a partir de la entrada en vigor del presente Decreto.
