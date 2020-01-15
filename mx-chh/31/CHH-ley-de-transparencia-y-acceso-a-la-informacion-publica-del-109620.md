@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1096
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-29"
-last_updated: "2019-11-30"
+last_updated: "2020-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2020.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de agosto de 2015.
 
@@ -503,15 +503,27 @@ El Organismo Garante, dada la naturaleza y trascendencia del asunto, podrá pres
 
 Para ser Comisionado (a) del Organismo Garante se requiere:
 
-a) Ser ciudadano (a) mexicano (a) con residencia efectiva de un año en el Estado de Chihuahua.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2020)</small>
 
-b) No haber sido condenado (a) por la comisión de algún delito doloso.
+a) Ciudadanía mexicana.
 
-c) Tener al menos treinta años de edad al día de su designación.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2020)</small>
 
-d) Contar con grado de licenciatura.
+b) No haber recibido condena por la comisión de algún delito doloso.
 
-e) No haber ocupado algún puesto de elección popular, no haber sido dirigente de un partido o agrupación política, o ministro de culto religioso.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2020)</small>
+
+c) Contar con grado de licenciatura.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2020)</small>
+
+d) Contar con experiencia mínima de un año en materia de transparencia, acceso a la información pública y protección de datos personales.
+
+Dicha experiencia deberá ser comprobable mediante documentos expedidos por autoridades, organismos públicos u organizaciones en la materia.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2020)</small>
+
+e) No haber ocupado algún puesto de elección popular, la dirigencia de un partido o agrupación política, ministro de culto religioso, o la titularidad de la Fiscalía General del Estado, de alguna Secretaría de Estado, de organismos descentralizados y autónomos, o sus equivalentes en el orden federal, estatal o municipal, durante los dos años anteriores a su designación.
 
 Durante el tiempo que los (las) Comisionados (as) duren en su encargo no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes o de beneficencia.
 
@@ -2576,3 +2588,11 @@ El personal de las Direcciones y áreas administrativas del Organismo Garante, d
 ###### ARTÍCULO TERCERO.
 
 El procedimiento previsto en el artículo 17, numeral 1) de la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua, en lo relativo a la convocatoria que debe emitirse por los tres Poderes del Estado para designar a quienes habrán de relevar a las comisionadas que concluyen su cargo el 31 de diciembre de 2019, no deberá llevarse a cabo, toda vez que la integración del Consejo General queda conformada con tres personas, tal como lo prevé la reforma contenida en el presente Decreto.
+
+P.O. 15 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0411/2019 I P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 22, PRIMER PÁRRAFO, EN SUS INCISOS A) AL E) DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
