@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2020-01-01"
+last_updated: "2020-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2020.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -269,15 +269,21 @@ V. Proporcionar a los turistas toda clase de facilidades e informes inherentes a
 
 VI. Observar estricta disciplina en el desempeño de sus funciones;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2020)</small>
 
-VII. Solicitar la entrega de documentos inherentes a la conducción y tránsito de vehículos, retirar los vehículos de circulación; así como ordenar la detención de conductores en los casos en que así lo disponga esta Ley y sus reglamentos;
+VII. Solicitar la exhibición de documentos inherentes a la conducción y tránsito de vehículos, retirar los vehículos de circulación; así como ordenar la detención de conductores en los casos en que así lo disponga esta Ley y sus reglamentos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MAYO DE 2018)</small>
 
 VIII. Realizar su actividad a través de un patrullaje preventivo en el área de adscripción asignada, evitando a toda costa la molestia innecesaria al conductor, por lo que deberá, al realizarlo, permanecer en todo momento en lugares visibles con las torretas encendidas; y
 
-IX. Las demás que les impongan la presente Ley o los reglamentos respectivos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE ENERO DE 2020)</small>
+
+IX. Portar durante toda su jornada, adherida a su uniforme, la videocámara portátil que le sea asignada.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE ENERO DE 2020)</small>
+
+X. Las demás que les impongan la presente Ley o los reglamentos respectivos.
 
 ###### Artículo 16.
 
@@ -338,6 +344,10 @@ III.- Documentación y Sello Oficial;
 IV.- Material para la práctica de exámenes toxicológicos no invasivos; y
 
 V.- Alcoholímetro.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+Todo instrumental del Servicio Médico Oficial deberá ser verificado con regularidad mensual por la institución competente, la falta de la verificación excluye a dicho instrumental del uso del Servicio Médico Oficial.
 
 ###### Artículo 20.
 
@@ -670,6 +680,10 @@ c) Segundo Grado de Intoxicación Alcohólica: De .140 a .229 % BAC (Miligramos 
 d) Tercer Grado de Intoxicación Alcohólica: A partir de .230 % BAC (Miligramos por litro de concentración de alcohol en sangre).
 
 Cuando el conductor que se oponga o por sus condiciones físicas, no se pueda diagnosticar el grado de ebriedad en aire expirado por medio del alcoholímetro, el médico examinante quedará facultado para practicar el examen clínico.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+Las y los conductores tendrán derecho a que se les practique un segundo examen con instrumental distinto al utilizado en la primera revisión.
 
 ###### Artículo 50.
 
@@ -1289,7 +1303,9 @@ Si los hechos no se consideran delictuosos, se procederá conforme a lo siguient
 
 a) Se hará saber al infractor que tiene derecho a comunicarse con persona que lo asista y defienda y se le darán todas las facilidades para que lo haga.
 
-b) El procedimiento se substanciará en una sola audiencia en la que el Oficial Calificador, recibirá los elementos de prueba disponibles y escuchará al infractor, por sí o por conducto de su defensor, para finalmente fundar y motivar su resolución conforme a las disposiciones de este y otros ordenamientos, la que notificará personalmente al infractor.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2020)</small>
+
+b) El procedimiento se substanciará en una sola audiencia en la que el Oficial Calificador, recibirá los elementos de prueba y escuchará al infractor, por sí o por conducto de su defensor, para finalmente fundar y motivar su resolución conforme a las disposiciones de este y otros ordenamientos, la que notificará personalmente al infractor. Las audiencias serán videograbadas, y se podrá solicitar copia del audio y video a costa de la parte interesada.
 
 Los oficiales calificadores estarán impedidos para resolver las infracciones a esta Ley y sus reglamentos, cuando se trate de causa propia, de cónyuge, concubina o concubino, ascendiente o descendiente sin limitación de grado, pariente colateral o por afinidad hasta el segundo grado, en cuyo caso deberán remitir el asunto a otro oficial calificador o a la autoridad superior.
 
@@ -1347,9 +1363,11 @@ V. La información de si se retuvo algún documento, y en su caso indicar cuál.
 
 (DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2016)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2020)</small>
+
 ###### Artículo 100.
 
-En caso de la infracción, el oficial de tránsito que tomó el conocimiento de ella, solicitará y, en su caso, retendrá alguno de los documentos, en el orden siguiente:
+En caso de la infracción, el oficial de tránsito que tomó el conocimiento de ella, únicamente solicitará la exhibición de los documentos, en el orden siguiente:
 
 a) La licencia de conducir;
 
@@ -1378,6 +1396,10 @@ V. Por orden judicial;
 > <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2008)</small>
 
 VI. Por conducir, maniobrar o manejar en estado de intoxicación por alcohol, drogas u otras sustancias igualmente tóxicas, que alteren su capacidad para conducir, maniobrar o manejar. En este caso la retención del vehículo será por un plazo máximo de doce horas en la delegación de tránsito y/o vialidad, tiempo en el cual el vehículo queda bajo el resguardo de la delegación, y en la cual el infractor a través de un familiar o conocido podrá recoger el vehículo. Si transcurrido el plazo anterior el vehículo no es recuperado, éste será remitido al corralón que determine la delegación; y
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+Cuando la persona infractora venga acompañada de alguien que se encuentre en condiciones de conducir el vehículo, no se realizará la retención a que alude el párrafo anterior.
 
 > <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2008)</small>
 
@@ -1892,3 +1914,11 @@ Los estudios validados por el Instituto Estatal de Seguridad Pública, así como
 ###### ARTÍCULO UNDÉCIMO.
 
 En un plazo no mayor a seis meses, contados a partir de la entrada en vigor del presente Decreto, se elaborará la Ley Orgánica de la Secretaría de Seguridad Pública con la participación de la Comisión Primera de Gobernación y Puntos Constitucionales del H. Congreso del Estado y personas especialistas en la materia.
+
+P.O. 15 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0617/2019 I P.O., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 15, FRACCIONES VII Y IX; 93, PÁRRAFO CUARTO, INCISO B); 100, PÁRRAFO PRIMERO; SE ADICIONAN A LOS ARTÍCULOS 15, LA FRACCIÓN X; 19, UN SEGUNDO PÁRRAFO; 49, UN CUARTO PÁRRAFO ; 101, FRACCIÓN VI, UN SEGUNDO PÁRRAFO, TODOS DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
