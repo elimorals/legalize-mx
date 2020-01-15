@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-derechos-cultura-y-desarrollo-de-los-pueblos-y-79100"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-24"
-last_updated: "2019-11-26"
+last_updated: "2020-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE PUEBLA
 
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE ADICIONA EL CUARTO PÁRRAFO DEL ARTÍCULO 2, ASÍ COMO EL CAPÍTULO XII, SECCIÓN I Y LOS ARTÍCULOS DEL 81 AL 104 DE LA LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL QUINCE DE ENERO DE DOS MIL VEINTE, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2020.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el lunes 24 de enero de 2011.
 
@@ -37,7 +39,9 @@ Que por la Secretaria del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO SÉPTIMO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 57 fracción I, 63 fracción II, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracciones I y XI, 69 fracción II, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21, 22 y 24 fracciones I y XI del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente:
 
@@ -60,6 +64,12 @@ El Estado de Puebla tiene una composición pluricultural y multilingüística, s
 La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas, mismas que establecerán las medidas y procedimientos que permitan hacer valer y respetar los derechos sociales de los Pueblos y Comunidades Indígenas.
 
 Los indígenas nacidos en otras Entidades Federativas que residan temporal o permanentemente en el territorio del Estado, tendrán en todo tiempo el derecho de hacer valer frente a cualquier autoridad, las prerrogativas que otorgan a los integrantes de los Pueblos y Comunidades Indígenas la Constitución Política del Estado y este ordenamiento legal.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA EL CUARTO PÁRRAFO DE ESTE ARTÍCULO, INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+SE RECONOCE A LOS PUEBLOS Y COMUNIDADES AFROMEXICANOS, CUALQUIERA QUE SEA SU AUTODENOMINACIÓN, COMO PARTE DE LA COMPOSICIÓN PLURICULTURAL DEL ESTADO. TENDRÁN EN LO CONDUCENTE LOS DERECHOS SEÑALADOS EN LOS APARTADOS ANTERIORES DE ESTA LEY, A FIN DE GARANTIZAR SU LIBRE DETERMINACIÓN, AUTONOMÍA, DESARROLLO E INCLUSIÓN SOCIAL.
 
 ###### ARTÍCULO 3.
 
@@ -537,6 +547,486 @@ Las faenas, los trabajos comunitarios y el tequio encaminados a la realización 
 
 El Gobierno del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, para cumplir con las disposiciones señaladas en esta Ley, establecerán las partidas específicas en su Ley y Presupuestos de Egresos para los Ejercicios Fiscales correspondientes, respectivamente; así como las formas y procedimientos para que los Pueblos y Comunidades Indígenas participen en el ejercicio y vigilancia.
 
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE CAPÍTULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE ENERO DE 2020)</small>
+
+### CAPÍTULO XII. DEL INSTITUTO POBLANO DE LOS PUEBLOS INDÍGENAS
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTA SECCIÓN, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE ENERO DE 2020)</small>
+
+#### SECCIÓN I. DE LA NATURALEZA, OBJETO Y FUNCIONES DEL INSTITUTO POBLANO DE LOS PUEBLOS INDÍGENAS
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 81.
+
+El Instituto Poblano de los Pueblos Indígenas, en lo sucesivo el Instituto, es un organismo público descentralizado, con personalidad jurídica, patrimonio propios y autonomía operativa, técnica, presupuestal y administrativa, con sede en la Ciudad de Puebla.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 82.
+
+El Instituto es la autoridad del Poder Ejecutivo del Estado en los asuntos relacionados con los pueblos indígenas y afromexicanos, que tiene como objeto definir, normar, diseñar, establecer, ejecutar, orientar, coordinar, promover, dar seguimiento y evaluar las políticas, programas, proyectos, estrategias y acciones públicas, para garantizar el ejercicio y la implementación de los derechos de los pueblos indígenas y afromexicanos, así como su desarrollo integral y sostenible y el fortalecimiento de sus culturas e identidades, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, los instrumentos jurídicos internacionales de los que el país es parte, así como la Constitución Política del Estado Libre y Soberano de Puebla.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 83.
+
+Para cumplir los fines y objetivos del Instituto, se reconocen a los pueblos y comunidades indígenas y afromexicanas como sujetos de derecho público; en los términos reconocidos por el artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos y los instrumentos internacionales en la materia, así como el artículo 13 de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+Los pueblos indígenas y afromexicanos, en ejercicio de su libre determinación tendrán el derecho de autoidentificarse bajo el concepto que mejor se adapte a su historial, identidad y cosmovisión.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 84.
+
+El Instituto en el marco del desarrollo de sus atribuciones, se regirá por los siguientes principios:
+
+I. Respetar, observar, y promover el carácter multiétnico, pluricultural y multilingüe del Estado, así como su diversidad cultural, social, política y económica;
+
+II. Garantizar el reconocimiento y respeto del derecho de libre determinación de los pueblos indígenas y, como una expresión de ésta, la autonomía, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, los instrumentos jurídicos internacionales de los que el país es parte y la Constitución Política del Estado Libre y Soberano de Puebla;
+
+III. Promover una relación justa y simétrica de los diversos pueblos que componen al Estado de Puebla, así como la no discriminación o exclusión social y la construcción de una sociedad incluyente, plural, intercultural, tolerante y respetuosa de la diversidad de pueblos y culturas que conforman el Estado;
+
+IV. Garantizar y promover la integralidad, transversalidad e interculturalidad de las políticas, programas y acciones de la Administración Estatal para el reconocimiento, respeto e implementación de los derechos y el desarrollo de los pueblos indígenas y afromexicanos;
+
+V. Fomentar el desarrollo sostenible para el uso racional de los recursos naturales de las regiones y territorios indígenas, con pleno respeto a sus derechos, sin arriesgar o dañar el patrimonio de las generaciones futuras;
+
+VI. Incluir el enfoque de igualdad de género en las políticas, programas y acciones de la Administración Estatal para la promoción y ejercicio de los derechos y la participación de las mujeres indígenas y afromexicanas;
+
+VII. Garantizar el derecho a la consulta y al consentimiento libre, previo e informado a pueblos y comunidades indígenas y afromexicanas, cada vez que el ejecutivo del Estado promueva reformas jurídicas y actos administrativos, susceptibles de afectarles, y
+
+VIII. Garantizar y promover el pluralismo jurídico que obliga a analizar la situación de los pueblos indígenas desde sus propios sistemas normativos que parten y tienen diferentes concepciones sobre el ejercicio del gobierno comunitario, en un marco de coordinación y respeto con el sistema jurídico estatal.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO, TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, CON LA SALVEDAD DE LA FRACCIÓN XLI, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 85.
+
+Para el cumplimiento de su objeto, el Instituto tendrá las siguientes atribuciones y funciones:
+
+I. Definir los lineamientos normativos que permitan conducir y orientar las políticas públicas relativas a los pueblos indígenas y afromexicanos en el marco de la Administración Pública Estatal;
+
+II. Aprobar y participar, en coordinación con las instancias competentes, en la formulación, ejecución y evaluación de los planes, programas y proyectos que realicen las dependencias y entidades de la Administración Pública Estatal con relación a los pueblos indígenas y afromexicanos, garantizando la transversalidad institucional, la interculturalidad y la pertinencia económica, social, cultural, política, lingüística y de género;
+
+III. Promover, respetar, proteger y garantizar el reconocimiento pleno y el ejercicio de los derechos de los pueblos indígenas y afromexicanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y los instrumentos jurídicos internacionales de los que el país sea parte y la Constitución Política del Estado Libre y Soberano de Puebla.
+
+Para este efecto, se deberá establecer un diálogo sostenido e incluyente con los pueblos indígenas y afromexicanos, como sujetos de derecho público y mediante una relación de respeto e igualdad, para la coordinación y ejecución de acciones conjuntas basadas en la buena fe;
+
+IV. Promover, fortalecer y coadyuvar el ejercicio de la libre determinación y autonomía de los pueblos y comunidades indígenas y afromexicanas. Asimismo, impulsar y fortalecer las instituciones políticas, jurídicas, económicas, sociales y culturales de dichos pueblos;
+
+V. Realizar acciones para el diseño y la implementación de las políticas, planes, programas y proyectos relacionados con los pueblos indígenas y afromexicanos:
+
+a) De colaboración y coordinación con las dependencias y entidades de la Administración Pública Estatal;
+
+b) De coordinación con los Ayuntamientos y comunidades;
+
+c) De diálogo, coordinación y participación con los pueblos y comunidades indígenas y afromexicanos, y
+
+d) De concertación con los sectores social y privado, así como con organismos internacionales.
+
+VI. Proponer, promover e implementar las medidas que se requieran para garantizar el cumplimiento de los derechos de los pueblos indígenas y afromexicanos;
+
+VII. Elaborar, proponer y promover las propuestas de reformas constitucionales, legales e institucionales, que se requieran para dar pleno reconocimiento a los derechos de los pueblos indígenas y afromexicanos;
+
+VIII. Formular y ejecutar, en coordinación con los pueblos indígenas y afromexicanos, los programas para la investigación, capacitación, defensa y promoción de los derechos de dichos pueblos;
+
+IX. Garantizar, promover e instrumentar las medidas y acciones para el reconocimiento, respeto y ejercicio de los derechos y el desarrollo integral de las mujeres indígenas y afromexicanas, así como fortalecer su participación en todos los ámbitos, reconociendo sus aportes e incorporando sus propias visiones y propuestas;
+
+X. Promover el reconocimiento, respeto y protección de las niñas, niños y jóvenes indígenas y afromexicanos, personas mayores, personas con discapacidad, personas con diversas identidades y preferencias sexuales y de género, así como cualquier otro sector en situación de vulnerabilidad o víctima de violencia y discriminación de dichos pueblos;
+
+XI. Promover las medidas necesarias para el reconocimiento y respeto de los derechos de la población indígena y afromexicana migrante, tanto a nivel nacional como en el extranjero, con especial énfasis de la población jornalera agrícola;
+
+XII. Promover el reconocimiento, respeto y ejercicio de los derechos de los pueblos afromexicanos y establecer las políticas, programas y acciones para su desarrollo integral y sostenible;
+
+XIII. Apoyar y coadyuvar, en coordinación con las instancias competentes, al acceso efectivo de los pueblos indígenas y sus integrantes a la jurisdicción del Estado, y que en todos los juicios y procedimientos en que sean parte se tomen en cuenta sus sistemas normativos y especificidades culturales, en particular sus lenguas, en el marco del pluralismo jurídico;
+
+XIV. Promover e impulsar, en coordinación con las instancias competentes, la participación y representación política de los pueblos indígenas y afromexicanos en las diversas instancias del Estado, así como el ejercicio efectivo de su derecho a elegir a sus autoridades o representantes, de acuerdo con sus sistemas normativos, procedimientos y prácticas tradicionales;
+
+XV. Apoyar los procesos de reconocimiento, protección, defensa y conservación de las tierras, territorios, bienes y recursos naturales de los pueblos indígenas y afromexicanos, de conformidad con la normatividad aplicable;
+
+XVI. Promover e instrumentar las medidas pertinentes, en coordinación con las instancias competentes, los pueblos indígenas y afromexicanos, para la conservación y protección de la integridad de la biodiversidad y el medio ambiente de dichos pueblos, a fin de generar y mantener modos de vida sostenibles y hacer frente a las consecuencias adversas del cambio climático;
+
+XVII. Coadyuvar, mediar y orientar, en coordinación con las instancias competentes, en la atención y resolución de los conflictos territoriales, agrarios, sociales, políticos y de otra índole, en las regiones indígenas y afromexicanas del Estado;
+
+XVIII. Evaluar las políticas públicas y la aplicación de los planes, programas, proyectos y acciones gubernamentales, en coordinación con las instancias competentes, y hacer recomendaciones para garantizar el reconocimiento, protección e implementación de los derechos, así como para el desarrollo integral, intercultural y sostenible de dichos pueblos;
+
+XIX. Realizar, publicar, difundir y promover las investigaciones y estudios relativos a los pueblos indígenas y afromexicanos, así como conservar los acervos del patrimonio cultural e intelectual de dichos pueblos, con las instancias competentes que correspondan;
+
+XX. Apoyar y fortalecer los procesos de reconstitución y desarrollo con cultura e identidad de los referidos pueblos;
+
+XXI. Instrumentar, gestionar, instalar, promover y ejecutar, en coordinación con las instancias competentes, las medidas necesarias para brindar mantenimiento, mejoramiento y ampliación de la infraestructura comunitaria, tales como vías de comunicación, escuelas, vivienda, puentes, electrificación, agua potable, drenaje, saneamiento y en general todo tipo de infraestructura, que permitan la integración y reconstitución territorial de los pueblos indígenas y afromexicanos, así como el fortalecimiento de su gobernanza, organización regional y capacidad económica productiva;
+
+XXII. Apoyar, capacitar y asesorar a las autoridades y representantes de los pueblos y comunidades indígenas y afromexicanas, y a sus integrantes, en la atención de los asuntos relacionados con el ejercicio de sus derechos individuales y colectivos;
+
+XXIII. Ser el órgano técnico en los procesos de consulta previa, libre e informada, cada vez que se prevean medidas legislativas y administrativas en el ámbito estatal, susceptibles de afectar los derechos de los pueblos;
+
+XXIV. Asesorar y apoyar en los asuntos relativos a los pueblos indígenas y afromexicanos, a las instituciones Estatales, así como a los municipios y a las organizaciones de los sectores social y privado que lo soliciten;
+
+XXV. Instrumentar, operar, ejecutar y evaluar planes, programas, proyectos y acciones para el desarrollo integral, intercultural y sostenible de los pueblos indígenas y afromexicanos;
+
+XXVI. Elaborar, gestionar, impulsar, dar seguimiento y evaluar, de manera conjunta y coordinada con los pueblos interesados, los Planes Integrales de Desarrollo Regional de los Pueblos Indígenas;
+
+XXVII. Apoyar, impulsar y fortalecer las economías locales y las actividades productivas de los pueblos y comunidades indígenas y afromexicanas, mediante acciones que permitan lograr la suficiencia de ingresos económicos, la creación de empleos, la incorporación de tecnologías para incrementar su capacidad productiva, así como asegurar el acceso justo y equitativo a los sistemas de abasto, comercialización y financiamiento;
+
+XXVIII. Apoyar e impulsar, en coordinación con las dependencias y entidades de la Administración Pública Estatal competentes, los sistemas agrícolas tradicionales y los cultivos básicos, en especial, el sistema de la milpa, para lograr la seguridad, autosuficiencia y soberanía alimentaria;
+
+XXIX. Participar, representar y formar parte de organismos, foros e instancias internacionales relacionados con el objeto del Instituto, en coordinación con las instancias competentes;
+
+XXX. Desarrollar programas de formación y capacitación en todos los asuntos relativos a los pueblos indígenas y afromexicanos, destinados a las dependencias y entidades de la Administración Pública Estatal, así como para los municipios, con el fin de proporcionar una atención pertinente y de calidad a dichos pueblos;
+
+XXXI. Establecer acuerdos y convenios de coordinación con los otros poderes del Estado, los organismos constitucionales autónomos, los gobiernos municipales, las organizaciones de la sociedad civil, así como las instancias internacionales, para llevar a cabo programas, proyectos y acciones conjuntas en favor de los pueblos indígenas y afromexicanos;
+
+XXXII. Concertar acciones con los sectores social y privado, en coordinación con los pueblos indígenas y afromexicano (sic), para que coadyuven en la realización de acciones en beneficio de dichos pueblos;
+
+XXXIII. Establecer las bases para integrar y operar un Sistema de Información y Estadística sobre los Pueblos y Comunidades Indígenas y afromexicanas, que contenga entre otros, un catálogo con los elementos y características fundamentales de sus instituciones políticas, jurídicas, económicas, sociales y culturales, sus tierras, territorios y recursos, en tanto sujetos de derecho público;
+
+XXXIV. Participar, de conformidad con los lineamientos emitidos por la Secretaría de Planeación y Finanzas, en la formulación del proyecto de presupuesto de egresos que se destinará a los pueblos indígenas y afromexicanos; mismos que el Ejecutivo enviará al Congreso del Estado para su aprobación;
+
+XXXV. Gestionar, ejecutar, dar seguimiento y evaluar los recursos presupuestales para promover y garantizar el reconocimiento e implementación de los derechos y el desarrollo integral, intercultural y sostenible de los pueblos indígenas y afromexicanos, bajo criterios justos y compensatorios;
+
+XXXVI. Emitir recomendaciones y propuestas para el debido ejercicio y rendición de cuentas del presupuesto destinado a la atención de los pueblos indígenas y afromexicanos;
+
+XXXVII. Llevar a cabo las transferencias de recursos a los pueblos, comunidades y municipios indígenas, a través de sus autoridades o instituciones representativas para la implementación de sus derechos y su desarrollo integral, intercultural y sostenible;
+
+XXXVIII. Crear Centros Coordinadores de Pueblos Indígenas en las regiones indígenas, para promover y ejecutar las medidas pertinentes y necesarias para la defensa e implementación de los derechos, así como el desarrollo integral y sostenible de los pueblos indígenas y afromexicano (sic). Dichas regiones serán de atención especial y prioritaria para la Administración Pública Estatal;
+
+XXXIX. Promover y adoptar las medidas, en conjunto con los pueblos indígenas y afromexicano (sic), para la preservación, protección, revitalización y transmisión a las futuras generaciones de su patrimonio cultural, material e inmaterial; sus conocimientos tradicionales y sus expresiones culturales tradicionales, así como, todos los elementos que constituyan la cultura e identidad de dichos pueblos;
+
+XL. Promover, adoptar y garantizar las medidas correspondientes para mantener, proteger y desarrollar la propiedad intelectual, colectiva e individual, con relación a dicho patrimonio cultural, conocimientos tradicionales y expresiones culturales tradicionales;
+
+XLI. Emprender programas, proyectos y acciones para el rescate, conservación, fortalecimiento y revitalización de las lenguas indígenas del estado, en coordinación con las instancias competentes; y promover las acciones afirmativas necesarias para que éstas garanticen los servicios de traducción e interpretación que permita a la población indígena el ejercicio efectivo de sus derechos;
+
+XLII. Coordinar con las instancias correspondientes, el reconocimiento y la implementación de la educación indígena en todos sus tipos y niveles, así como participar en la elaboración de los planes y programas de estudio, y materiales didácticos específicos dirigidos a los pueblos indígenas, con la finalidad de fortalecer las culturas, historias, identidades, instituciones y formas de organización de dichos pueblos;
+
+XLIII. Crear los espacios necesarios y dignos para la atención integral e intercultural de los niños, niñas y jóvenes indígenas y afromexicanos, tanto en sus regiones como fuera de ellas;
+
+XLIV. Promover el mantenimiento, fortalecimiento y ejercicio de la medicina tradicional de los pueblos indígenas, a través de sus instituciones, saberes y prácticas de salud, incluida la conservación de plantas medicinales, animales, minerales, aguas, tierras y espacios sagrados de interés vital;
+
+XLV. Promover e impulsar, en coordinación con la Secretaría de Salud del Estado de Puebla y los Servicios de Salud del Estado de Puebla, el acceso de los pueblos indígenas y afromexicanos, así como de sus integrantes a los servicios de salud con pertinencia cultural, lingüística y de género, sin discriminación alguna;
+
+XLVI. Apoyar y coadyuvar para el reconocimiento institucional de quienes ejercen la medicina tradicional en sus diferentes modalidades, así como la formación del personal médico en la materia, con perspectiva intercultural;
+
+XLVII. Coadyuvar con los pueblos indígenas para que estos puedan adquirir, establecer, operar y administrar sus propios medios de comunicación, telecomunicación e información haciendo uso de sus culturas e idiomas; así como, para acceder a los medios de información y comunicación no indígenas, públicos y privados, en condiciones de equidad e interculturalidad y sin discriminación alguna, de conformidad con lo dispuesto por las leyes en materia de telecomunicaciones y radiodifusión;
+
+XLVIII. Coadyuvar con la Secretaría de Igualdad Sustantiva, de acuerdo con lo establecido en la Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla, para promover la participación de las mujeres indígenas en las acciones de las autoridades estatales, y municipales para la prevención, protección, sanción y erradicación de todas las formas de discriminación y violencia cometidas contra las mujeres y niñas indígenas y afromexicanas;
+
+XLIX. Coadyuvar con las autoridades competentes, en la procuración y el respeto de los derechos sociales y culturales de los pueblos y comunidades indígenas y afromexicanas; considerando los principios consagrados en la Constitución Política de los Estados Unidos Mexicanos, criterios etnolingüísticos y de asentamiento físico;
+
+L. Instruir la gestión de intérpretes, para apoyar a las y los integrantes de comunidades y pueblos indígenas que así lo soliciten, respecto de la defensa de sus derechos o cualquier otro asunto ante autoridades federales, estatales y municipales;
+
+LI. Emitir criterios para la utilización de marcas registradas que deriven de los programas a su cargo y de los productos que se generen por parte de los beneficiarios;
+
+LII. Coadyuvar en la atención y respuesta a las solicitudes de información, quejas y recomendaciones, respecto de los asuntos de su competencia, que emitan tanto la Comisión Nacional de los Derechos Humanos como la Comisión de Derechos Humanos del Estado de Puebla y demás autoridades en la materia;
+
+LIII. Apoyar la formación y acreditación profesional de intérpretes y traductores en lenguas indígenas nacionales y en español, contempladas en la Constitución Política del Estado Libre y Soberano de Puebla;
+
+LIV. Coadyuvar para garantizar que en todos los actos públicos de los Ayuntamientos considerados con población Indígena, haya un traductor de lenguas indígenas, y
+
+LV. Las demás que establezcan las disposiciones legales aplicables.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 86.
+
+Para dar cumplimiento a la fracción XXXIII del artículo 85 de esta Ley, el Instituto diseñará y operará un sistema de consulta y participación indígenas, en el que se establecerán las bases y los procedimientos metodológicos para promover los derechos y la participación de las autoridades, representantes e instituciones de los pueblos y comunidades indígenas y afromexicanas en la formulación, ejecución y evaluación del Plan Estatal de Desarrollo y demás planes y programas de desarrollo, así como para el reconocimiento e implementación de sus derechos.
+
+De igual forma, podrá llevar a cabo los estudios técnicos necesarios para la efectiva realización de los procesos de consulta.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 87.
+
+En el ejercicio de sus atribuciones y facultades, el Instituto respetará las instituciones, órganos, normas, procedimientos y formas de organización con que cada pueblo y comunidad cuente para la toma de decisiones, en el marco del pluralismo jurídico.
+
+Para estos efectos, se reconoce a las asambleas municipales y comunitarias de cada Pueblo y Comunidad Indígena y afromexicanas, así como a las autoridades e instituciones representativas de dichos pueblos y comunidades; elegidas y nombradas de conformidad con sus sistemas normativos, como la máxima autoridad en la toma de decisiones.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 88.
+
+En su relación con los órganos y autoridades representativas de los pueblos y comunidades indígenas y afromexicanas, el Instituto reconocerá y respetará las formalidades propias establecidas por los sistemas normativos de dichos pueblos y comunidades, debiendo surtir los efectos legales correspondientes.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 89.
+
+Esta Ley se interpretará de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los instrumentos internacionales en la materia y la Constitución del Estado Libre y Soberano de Puebla, favoreciendo en todo tiempo la protección más amplia de los derechos colectivos e individuales de los pueblos y comunidades indígenas y afromexicanas.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 90.
+
+Será aplicable con respecto al funcionamiento y operación del Instituto, la Ley de Entidades Paraestatales del Estado de Puebla, en lo que no se oponga a esta Ley.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTA SECCIÓN, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE ENERO DE 2020)</small>
+
+#### SECCIÓN II. DE LOS ÓRGANOS Y FUNCIONAMIENTO DEL INSTITUTO POBLANO DE LOS PUEBLOS INDÍGENAS
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 91.
+
+El Instituto contará con los Órganos siguientes:
+
+I. Una Junta de Gobierno, como órgano de gobierno;
+
+II. Una Dirección General, como órgano de administración;
+
+III. Un Consejo Estatal de Pueblos Indígenas, como órgano de participación, consulta y vinculación con los pueblos indígenas y afromexicanos, y
+
+IV. Las Oficinas de Representación del Instituto, como órganos de atención en las regiones o municipios, en las que así se requiera.
+
+El Instituto tendrá las áreas administrativas necesarias para garantizar la atención transversal en cada una de las dependencias y entidades de la Administración Pública Estatal, los Poderes Estatales y los órganos constitucionales autónomos, así como para el ejercicio de los derechos de los pueblos indígenas y afromexicanos, en particular la libre determinación y autonomía.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 92.
+
+La Junta de Gobierno estará integrada por:
+
+I. Una o un Presidente que será la o el Gobernador del Estado;
+
+II. Una o un Presidente Ejecutivo designado por la o el Gobernador del Estado;
+
+III. Con el carácter de vocales, las o los Titulares de cada una de las siguientes Dependencias:
+
+a) Secretaría de Gobernación;
+
+b) Secretaría de Planeación y Finanzas;
+
+c) Secretaría de Desarrollo Rural;
+
+d) Secretaría de Salud;
+
+e) Secretaría de Educación;
+
+f) Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial;
+
+g) Secretaría de Bienestar;
+
+h) Secretaría de Igualdad Sustantiva;
+
+i) Secretaría de Turismo;
+
+j) Secretaría de Economía;
+
+k) Secretaria de Infraestructura, y
+
+l) Secretaría del Trabajo.
+
+IV. Un representante del Consejo Estatal de Pueblos Indígenas de conformidad con la fracción I del artículo 98 de este ordenamiento.
+
+La persona que presida la Comisión de Pueblos Indígenas del Congreso del Estado, participará como invitado permanente con derecho a voz, sin voto.
+
+En los casos a los que se refieren las fracciones I y II, cada miembro propietario contará con un suplente. Los suplentes tendrán derecho a voz y voto en ausencia de su titular.
+
+La Junta de Gobierno designará a un Secretario Técnico.
+
+La o el Presidente Ejecutivo, a propuesta de la o el Director General, podrán invitar a las sesiones de la Junta de Gobierno a representantes de instituciones públicas federales, estatales o municipales, así como organizaciones y asociaciones privadas que guarden relación con el objeto del Organismo, quienes tendrán derecho de voz.
+
+Las sesiones deberán convocarse por conducto del Secretario Técnico, con cuando menos cinco días de anticipación en el caso de las ordinarias, y veinticuatro horas de anticipación en el caso de las extraordinarias, debiendo acompañar el orden de día propuesto.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 93.
+
+La Junta de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces al año y las extraordinarias que proponga su Presidente, o en su caso, aquellas que convoquen cuando menos tres de sus miembros.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 94.
+
+La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus integrantes. Las resoluciones se tomarán por mayoría de votos de las y los integrantes presentes, teniendo su Presidente voto de calidad en caso de empate.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 95.
+
+La Junta de Gobierno, además de las atribuciones que le confiere el artículo 52 de la Ley de Entidades Paraestatales del Estado de Puebla, tendrá las siguientes:
+
+I. Aprobar el proyecto de presupuesto anual del Instituto y su programa operativo anual, a propuesta de su Director o Directora General;
+
+II. Definir los criterios, prioridades y metas del Instituto;
+
+III. Realizar observaciones y propuestas a los programas, proyectos, estrategias y acciones que las instancias de gobierno integrantes de la misma, realicen con relación a los pueblos indígenas y afromexicanos, así como el seguimiento y evaluación que corresponda;
+
+IV. Definir los lineamientos y criterios para la celebración de convenios y acuerdos de colaboración, coordinación y concertación con las dependencias y entidades de la Administración Pública Estatal, con los otros poderes del Estado, los organismos constitucionales autónomos, los gobiernos municipales y con las organizaciones de los sectores social y privado, así como con organismos internacionales, que incluyan la participación de los pueblos indígenas y afromexicanos;
+
+V. Aprobar, sin que se requiera autorización de la Secretaría de Planeación y Finanzas, las adecuaciones presupuestales a los programas del Instituto que no impliquen la afectación de su monto total autorizado, recursos de inversión, proyectos financiados con crédito externo ni el cumplimiento de los objetivos y metas comprometidos;
+
+VI. Decidir el uso y destino de los recursos autorizados y la aplicación de ingresos excedentes;
+
+VII. Autorizar los criterios de distribución, a propuesta del Director o Directora General, del total de los recursos adicionales que se aprueben, en su caso, en la Ley de Egresos del Estado para el reconocimiento e implementación de los derechos, así como el desarrollo de los pueblos y comunidades indígenas y afromexicanas;
+
+VIII. Aprobar, a propuesta del Director o Directora General del Instituto, la administración desconcentrada de funciones, programas y recursos;
+
+IX. Aprobar las disposiciones y criterios para racionalizar el gasto administrativo y autorizar las erogaciones identificadas como gasto sujeto a criterios de racionalidad, y
+
+X. Las demás previstas en las disposiciones aplicables.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 96.
+
+El Director o Directora General del Instituto será designado por la Junta de Gobierno a propuesta del Gobernador del Estado, debiendo reunir los requisitos previstos en el artículo 16 de la Ley de Entidades Paraestatales del Estado de Puebla.
+
+Además de los requisitos señalados, el Director o Directora General deberá pertenecer a un pueblo indígena o afromexicanos (sic) y preferentemente hablar una lengua indígena. Asimismo, deberá tener la experiencia y los conocimientos relacionados con el objeto del Instituto, que le permitan desarrollar sus actividades con solvencia profesional y técnica.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 97.
+
+El Director o Directora General del Instituto, además de las facultades y obligaciones que le confiere el artículo 17 de la Ley de Entidades Paraestatales del Estado de Puebla, tendrá las siguientes:
+
+I. Planear, programar, organizar, dirigir, controlar y evaluar el buen funcionamiento del Instituto, dando cumplimiento a los fines, atribuciones y funciones establecidas en esta Ley;
+
+II. Construir y mantener una relación de respeto, coordinación y colaboración con los pueblos indígenas y afromexicanos del país, mediante la implementación del diálogo intercultural y la generación de acuerdos constructivos;
+
+III. Celebrar y otorgar toda clase de actos y documentos respecto del objeto del Instituto;
+
+IV. Ejercer facultades de dominio, administración, pleitos y cobranzas, aun aquellas que requieran cláusula especial. Tratándose de cualquier acto de dominio, se requerirá la autorización previa de la Junta de Gobierno;
+
+V. Otorgar, sustituir y revocar poderes generales y especiales con las facultades que le competan, incluso las que requieran autorización o cláusula especial;
+
+VI. Formular denuncias y querellas cuando a su juicio proceda, así como, comparecer por oficio, al igual que los inferiores jerárquicos inmediatos, a absolver posiciones en términos de la ley procesal que corresponda;
+
+VII. Ejercitar y desistirse de acciones judiciales, inclusive en materia de amparo;
+
+VIII. Celebrar transacciones en materia judicial y comprometer asuntos en arbitraje;
+
+IX. Propondrá, respecto de los asuntos de su competencia, los proyectos de reforma constitucional, leyes, reglamentos, decretos, acuerdos y órdenes del Titular del Ejecutivo del Estado;
+
+X. Ejecutar los acuerdos de la Junta de Gobierno;
+
+XI. Dar a conocer a la Junta de Gobierno las propuestas del Consejo Estatal de Pueblos Indígenas;
+
+XII. Ejercer el presupuesto del Instituto con sujeción a las disposiciones legales, reglamentarias y administrativas aplicables, así como elaborar el anteproyecto de presupuesto que corresponda;
+
+XIII. Elaborar y presentar el Reglamento Interior, para aprobación de la Junta de Gobierno; aprobar las Reglas de Operación y la reglamentación interna de los programas sustantivos, así como sus modificaciones; y expedir los manuales de organización, de procedimientos y de servicios del Instituto, y
+
+XIV. Las que le confieren los ordenamientos aplicables y las demás que, con fundamento en esta Ley, le delegue la Junta de Gobierno.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 98.
+
+El Instituto contará con un Consejo Estatal de Pueblos Indígenas, integrado por:
+
+I. Once representantes de los pueblos indígenas y afromexicanos, de conformidad con las disposiciones legales aplicables derivadas del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos y 13 de la Constitución Política del Estado Libre y Soberano de Puebla. Para garantizar la participación de estos pueblos se atenderá a los criterios de autoadscripción acreditada, representatividad y reconocimiento comunitario, etnolingüísticos, distribución geográfica y demográfica. Asimismo, se promoverá la participación igualitaria de las mujeres indígenas;
+
+II. Dos representantes de instituciones académicas y de investigación, especialistas en materia indígena;
+
+III. Dos representantes de organizaciones indígenas que trabajen sobre derechos y desarrollo de los pueblos indígenas y afromexicanos, y
+
+IV. Quién presida la Comisión de Pueblos Indígenas del Congreso del Estado.
+
+Los integrantes a que se refieren (sic) la fracción I serán nombrados de conformidad con la reglamentación que expida la Junta de Gobierno, debiendo garantizarse su legítima representatividad.
+
+Los integrantes de las fracciones II y III serán nombrados de conformidad con la reglamentación que expida la Junta de Gobierno, preferentemente mediante convocatoria.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 99.
+
+El Consejo Estatal de Pueblos Indígenas del Instituto analizará, opinará y hará propuestas a la Junta de Gobierno y al Director o Directora General sobre las políticas, programas y acciones públicas para garantizar el reconocimiento e implementación de los derechos y el desarrollo de los pueblos indígenas. El Consejo Estatal sesionará de manera trimestral y será presidido por un representante indígena, elegido democráticamente en sesión plenaria del Consejo.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 100.
+
+El Instituto contará con Oficinas de Representación, cómo órganos de atención en las Regiones que se determinen conforme a la Ley de Planeación para el Desarrollo del Estado de Puebla, para la atención integral e intercultural de los pueblos indígenas y afromexicanos.
+
+Cada Oficina de Representación contará con un Consejo Regional de Pueblos y comunidades Indígenas, que analizará, opinará y hará propuestas sobre las políticas, programas y acciones públicas para el reconocimiento e implementación de los derechos y su desarrollo.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 101.
+
+El patrimonio del Instituto se integrará con:
+
+I. Las aportaciones, participaciones, subsidios, transferencias y apoyos que le otorguen los Gobiernos Federal, Estatal y Municipal;
+
+II. Las aportaciones y donaciones que bajo cualquier título, le realicen personas físicas o jurídicas, de derecho público o privado, nacionales o extranjeras, así como las que reciba a través de fideicomisos en los que se le señale como fideicomisario;
+
+III. Los bienes muebles e inmuebles que adquiera por cualquier título legal para el cumplimiento de su objeto;
+
+IV. Las utilidades, intereses, dividendos, rendimientos, contraprestaciones y en general, los bienes, derechos y demás ingresos que adquiera por cualquier título legal, y
+
+V. Los ingresos derivados de la prestación de los servicios a su cargo y en cumplimiento de su objeto, que se regirán conforme a las disposiciones legales aplicables.
+
+Los bienes que formen parte del patrimonio del Organismo, se equipararán a los del dominio público y, por lo tanto, serán inembargables, inalienables e imprescriptibles.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 102.
+
+El Instituto administrará y dispondrá libremente de su patrimonio para el cumplimiento de su objeto, sin perjuicio de las disposiciones legales aplicables a los organismos descentralizados.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 103.
+
+Las relaciones laborales entre el Organismo y sus trabajadores, se regirán por la normatividad que resulte aplicable.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2020)</small>
+
+###### ARTÍCULO 104.
+
+La vigilancia del Instituto estará a cargo de un Órgano Interno de Control, designado por la Secretaría de la Función Pública, quien tendrá las facultades que le otorgan la Ley de Entidades Paraestatales del Estado de Puebla y las demás disposiciones aplicables.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -610,3 +1100,27 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Estado.
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+(NOTA: EL 6 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2020, DECLARÓ LA INVALIDEZ DEL DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE ADICIONA EL CUARTO PÁRRAFO DEL ARTÍCULO 2, ASÍ COMO EL CAPÍTULO XII, SECCIÓN I Y LOS ARTÍCULOS DEL 81 AL 104 DE LA LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL QUINCE DE ENERO DE DOS MIL VEINTE, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+P.O. 15 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL CUARTO PÁRRAFO DEL ARTÍCULO 2, ASÍ COMO EL CAPÍTULO XII, SECCIÓN I Y LOS ARTÍCULOS DEL 81 AL 104 DE LA LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Se instruye a las Secretarías de Planeación y Finanzas y de Administración, tomen las previsiones presupuestales necesarias para el cumplimiento del presente Decreto.
+
+CUARTO. Los recursos humanos, materiales y financieros que a la entrada en vigor haya tenido a su cargo la Dirección del Instituto Poblano de los Pueblos Indígenas, para el cumplimiento del objeto del Organismo deberán ser transferidos a éste.
+
+QUINTO. Los derechos y obligaciones contractuales, contraídos por la Secretaría de Igualdad Sustantiva en relación con la Dirección del Instituto Poblano de los Pueblos Indígenas creada mediante Decreto publicado en el Periódico Oficial del Estado el veintinueve de agosto de dos mil diecinueve, serán atribuidos al Organismo que se crea con motivo de este Decreto, previa suscripción en su caso de los actos jurídicos necesarios.
+
+SEXTO. El Instituto Poblano de los Pueblos Indígenas, en cumplimiento a las medidas de racionalidad y eficiencia para el ejercicio del gasto, seguirá utilizando las formas oficiales, formatos y demás papelería existente en los que conste la denominación de la entonces Dirección del Instituto Poblano de los Pueblos Indígenas de la Secretaría de Igualdad Sustantiva.
+
+SÉPTIMO. Los integrantes de la Junta de Gobierno del Instituto, celebrarán sesión de instalación dentro de los quince días hábiles siguientes a la entrada en vigor del presente Decreto. En esta sesión se aprobará la propuesta que realice el Ejecutivo Estatal respecto de la designación de la persona Titular de la Dirección General del Instituto, el calendario de las sesiones ordinarias del año y se evaluarán los asuntos que se presenten para su consideración.
+
+OCTAVO. De conformidad con lo dispuesto por el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos, cuando esta ley haga referencia a los Pueblos y Comunidades Indígenas, también se entenderán comprendidos los Pueblos y Comunidades afromexicanas.
+
+NOVENO. El Titular del Poder Ejecutivo expedirá el Reglamento Interior del Instituto Poblano de los Pueblos Indígenas aprobado por la Junta de Gobierno del Instituto, en un plazo no mayor a sesenta días hábiles contados a partir de la publicación del presente decreto.
