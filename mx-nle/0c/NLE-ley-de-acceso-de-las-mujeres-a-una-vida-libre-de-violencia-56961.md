@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2019-11-27"
+last_updated: "2020-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,871 +21,831 @@ state: "NLE"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, ESTADO DE NUEVO LEON
 
-LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
+ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2019.
+TEXTO ORIGINAL.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE NOVIEMBRE DE 2019.]</small>
+Estatuto publicado en el Extraordinario Número 18 del Periódico Oficial del Estado de Tamaulipas, el viernes 4 de agosto de 2023.
 
-Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
+AMÉRICO VILLARREAL ANAYA, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, en ejercicio de las facultades que al Ejecutivo a mi cargo confieren los artículos 77, 91 fracciones V, XI, XXVII y XLVIII, 93 párrafo primero y 95 de la Constitución Política del Estado de Tamaulipas; artículo 1 numerales 1 y 3, 3, 4 numeral 1, 10, 11 numeral 1, 16 y 43 de la Ley Orgánica de la Administración Pública del Estado de Tamaulipas; artículos 1, 2, 4 y 11 numeral 1, de la Ley de Entidades Paraestatales del Estado de Tamaulipas; y
 
-EL C. JOSÉ NATIVIDAD GONZÁLEZ PARÁS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, A TODOS SUS HABITANTES HAGO SABER:
+C O N S I D E R A N D O
 
-Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
+[...]
 
-D E C R E T O
+En virtud de la fundamentación y motivación expuesta, se ha tenido a bien expedir el siguiente:
 
-Núm. 136
+ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS
 
-Artículo Único.- Se expide la Ley de Acceso de las Mujeres a una Vida Libre de Violencia, en los siguientes términos:
-
-LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
-
-## TITULO UNICO. DIVISION TERRITORIAL DEL MUNICIPIO DE JESUS MARIA
+## TÍTULO PRIMERO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### Artículo 1.
+###### ARTÍCULO 1.
 
-La presente Ley tiene por objeto establecer la coordinación entre el Estado, los Municipios, y los sectores privado y social para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como establecer los principios y modalidades para garantizar su acceso a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación.
+El presente Estatuto Orgánico tiene por objeto definir las unidades administrativas, así como determinar las atribuciones específicas del organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia de Tamaulipas.
 
-Las disposiciones de esta Ley son de orden público, interés social y de observancia general en el Estado de Nuevo León.
+###### ARTÍCULO 2.
 
-###### Artículo 2.
+Para los efectos del presente Estatuto Orgánico, se entenderá por:
 
-El Estado y los Municipios que lo integran, expedirán o modificarán en su caso las normas legales y reglamentarias correspondientes en el ámbito de sus respectivas competencias, asimismo se tomarán las medidas presupuestales y administrativas pertinentes para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales vigentes en el país en materia de derechos humanos de las mujeres, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Constitución Política del Estado Libre y Soberano de Nuevo León y esta Ley.
+I. CAIC: Centro de Atención Infantil Comunitario;
 
-###### Artículo 3.
+II. CATAM: Centro de Autismo Tamaulipas;
 
-Todas las medidas que se deriven de la presente Ley garantizarán la prevención, atención, sanción y erradicación de todos los tipos de violencia contra las mujeres, para promover su desarrollo integral y su plena participación en todas las esferas de la vida.
+III. CEDIF: Centro de Desarrollo Integral de la Familia;
 
-###### Artículo 4.
+IV. CREE: Centro de Rehabilitación y Educación Especial;
 
-Tomando en cuenta los aspectos de no discriminación y libertad de las mujeres, los principios rectores para el acceso de todas las mujeres a una vida libre de violencia, que deberán ser observados en la elaboración y ejecución de las políticas públicas en el Estado y los Municipios, son:
+V. CRI: Centro de Rehabilitación Integral;
 
-I. La promoción para el desarrollo integral de las mujeres.
+VI. Decreto: El Decreto número 280 de la Cuadragésima Novena Legislatura del Estado de Tamaulipas, mediante el cual se crea el organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia de Tamaulipas, expedido el día 4 de marzo de 1977 y publicado en el Periódico Oficial del Estado de Tamaulipas Número 21 de fecha 12 del mismo mes y año;
 
-II. La igualdad jurídica entre los hombres y las mujeres; y
+VII. Dirección General: La Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas;
 
-III. El respeto a la dignidad humana de las mujeres.
+VIII. Estado: El Estado Libre y Soberano de Tamaulipas;
 
-###### Artículo 5.
+IX. Estatuto Orgánico: El Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia de Tamaulipas;
 
-Para los efectos de la presente Ley de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderá por:
+X. Grupos de Atención Prioritaria: Grupos de la población que están en alguna situación de desigualdad estructural, que sistemáticamente han sido discriminados, excluidos y violentados, y que aún hoy enfrentan grandes obstáculos para disfrutar de sus derechos y libertades;
 
-I. Ley: Se entiende Ley de Acceso de las Mujeres a una Vida Libre de Violencia;
+XI. Junta de Gobierno: La Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia de Tamaulipas;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+XII. Ley: La Ley sobre el Sistema Estatal de Asistencia Social;
 
-II. Violencia contra la mujer: cualquier acción u omisión, basada fundamentalmente en su género, como la discriminación o la discriminación múltiple o agravada, y cualquier otra que atente contra su dignidad humana, que le cause daño o sufrimiento psicológico, físico, sexual, patrimonial, económico o la muerte, tanto en el ámbito privado como en el público;
+XIII. NNA: Niñas, niños y adolescentes;
 
-III. Programa: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+XIV. Organismo: El Sistema para el Desarrollo Integral de la Familia de Tamaulipas;
 
-IV. Agresor: la persona que inflige cualquier tipo de violencia contra las mujeres;
+XV. Órgano Interno de Control: La persona titular de la Comisaría de la Contraloría Gubernamental, asignada al Sistema para el Desarrollo Integral de la Familia de Tamaulipas;
 
-V. Sistema: El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
+XVI. PANNARTI: Programa de Atención a Niñas, Niños y Adolescentes en Riesgo de Trabajo Infantil;
 
-VI. Perspectiva de género: es una visión científica, analítica y política sobre las mujeres y los hombres, propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas y promueve la igualdad entre los géneros a través de la equidad y bienestar de las mujeres;
+XVII. Poder Ejecutivo: La persona titular del Poder Ejecutivo del Estado de Tamaulipas;
 
-VII. Desarrollo Integral de las Mujeres: proceso mediante el cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, autodeterminación y autonomía que les permite alcanzar el goce pleno de sus derechos y libertades;
+XVIII. Presidencia: Presidencia del Patronato del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas;
 
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+XIX. SAT: Sistema de Administración Tributaria;
 
-VIII. Refugios: Centros de alta seguridad con atención y protección multidisciplinaria para mujeres, niñas, niños y adolescentes e incapaces víctimas de violencia.
+XX. SET: Secretaría de Educación de Tamaulipas;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+XXI. Sistemas DIF Municipales: Los Sistemas para el Desarrollo Integral de la Familia de los Municipios del Estado de Tamaulipas;
 
-IX. Derechos Humanos de las Mujeres: los derechos que son parte inalienable de la persona, integrante e indivisible de los derechos humanos universales contenidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nuevo León, y los instrumentos nacionales e internacionales en la materia, vigentes en el País;
+XXII. Sistema DIF Nacional: El Sistema Nacional para el Desarrollo Integral de la Familia;
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+XXIII. Sistema DIF Tamaulipas: El Sistema para el Desarrollo Integral de la Familia de Tamaulipas;
 
-X. Discriminación a la mujer: Tipo de violencia contra la mujer motivada por su origen étnico o nacional, su género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra su dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades;
+XXIV. TEA: Trastorno del Espectro Autista;
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+XXV. UBR: Unidad Básica de Rehabilitación; y
 
-XI. Discriminación Múltiple o Agravada: Tipo de violencia contra la mujer causada por cualquier preferencia, distinción, exclusión o restricción a sus derechos, de forma concaminante, en dos o más motivos de discriminación, que tenga por objetivo o efecto anular o limitar, el reconocimiento, goce o ejercicio, en condiciones de igualdad, de uno o más derechos humanos y libertades fundamentales reconocidos, en cualquier ámbito de la vida pública o privada;
+XXVI. Unidades Administrativas: Las Procuradurías, Direcciones de Área, Subdirecciones, Departamentos, Jefaturas de Unidad y Centros Asistenciales que conforman el Sistema para el Desarrollo Integral de la Familia de Tamaulipas.2
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
+###### ARTÍCULO 3.
 
-XII. Víctima: la mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
+El Sistema para el Desarrollo Integral de la Familia de Tamaulipas es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, organismo rector de la asistencia social en el estado y tiene a su cargo el ejercicio de las atribuciones y el despacho de los asuntos que le confieren la Ley sobre el Sistema Estatal de Asistencia Social, su Decreto de creación, este Estatuto Orgánico y las disposiciones legales aplicables.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
+###### ARTÍCULO 4.
 
-XIII. Transversalidad: acción de gobierno para el ejercicio e implementación de políticas públicas con perspectiva de género en las distintas dependencias y entidades de la Administración Pública Estatal o Municipal según sea el caso para la ejecución de programas y acciones coordinadas o conjuntas y en las realizadas por los sectores privado y social;
+El Sistema para el Desarrollo Integral de la Familia de Tamaulipas tiene como objetivo la promoción de la asistencia social, la prestación de servicios en ese campo, la promoción de la interrelación sistemática de acciones que en materia lleven a cabo las instituciones públicas o privadas, así como la realización de las demás acciones que establece la Ley y las disposiciones legales aplicables.
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
+###### ARTÍCULO 5.
 
-XIV. Banco Estatal de Datos e información sobre Casos y Delitos de Violencia Contra las Mujeres: Al sistema digital en el que se concentra el registro con los datos generales y sociodemográficos de las víctimas de violencia de género, las personas agresoras y las órdenes de protección dictadas en favor de las mujeres. Concentra la información proporcionada por las dependencias del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, que son las encargadas de crear, procesar y actualizar los expedientes electrónicos únicos para cada caso de violencia contra la mujer y las órdenes de protección,
+El Sistema para el Desarrollo Integral de la Familia de Tamaulipas ejercerá las atribuciones consignadas en el artículo 13 de la Ley sobre el Sistema Estatal de Asistencia Social y demás ordenamientos aplicables, a través de los órganos y estructura administrativa que lo integran, en los términos dispuestos en el presente Estatuto Orgánico.
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
+Para tal efecto, las atribuciones del Sistema para el Desarrollo Integral de la Familia de Tamaulipas son las siguientes:
 
-XV. Misoginia: Son conductas de odio hacia las mujeres y se manifiesta en actos violentos y crueles contra ellas por el hecho de ser mujeres; y
+I. Supervisar la aplicación de las normas técnicas que rijan la prestación de los servicios de salud en materia de asistencia social, así como la difusión y adecuación de las mismas entre los integrantes del Sistema Estatal de salud;
 
-> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2019)</small>
+II. Vigilar el estricto cumplimiento de esta Ley, así como las disposiciones que se dicten con base en ella, sin perjuicio de las facultades que en la materia competen a las dependencias y entidades de la Administración Pública Federal;
 
-XVI. Parto humanizado: Modelo de atención en el que se facilita un ajuste de la asistencia médica a la cultura, creencias, valores y expectativas de la mujer, respetando la dignidad humana, así como sus derechos y los de la persona recién nacida, erradicando todo tipo de violencia física, psicológica e institucional, respetando los tiempos biológico y psicológico, evitando prácticas invasivas y suministro de medicación que no estén justificados médicamente;
+III. Evaluar el impacto social de los servicios asistenciales que se presten conforme a las mismas;
 
-### CAPÍTULO II. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES Y DE LOS ÁMBITOS EN QUE SE PRESENTAN
+IV. Apoyar la coordinación entre las instituciones que presten servicios de asistencia social y las educativas para formar y capacitar recursos humanos en la materia;
 
-###### Artículo 6.
+V. Promover la investigación científica y tecnológica que tienda a desarrollar y mejorar la prestación de los servicios asistenciales en materia de salubridad general;
 
-Los tipos de violencia contra las mujeres son:
+VI. Coordinar un sistema estatal de información en materia de asistencia social;
 
-I. Psicológica: el proveniente del acto u omisión que trascienda a la integridad emocional o la estabilidad psicológica de la mujer, que causen a la víctima depresión, aislamiento, devaluación de su autoestima e incluso, el suicidio, en base al dictamen emitido por los peritos en la materia;
+VII. Coordinar a través de los acuerdos respectivos con los municipios, la prestación y promoción de los servicios de salud en materia de asistencia social;
 
-II. Física: El acto que causa daño corporal no accidental a la mujer, usando la fuerza física o algún otro medio que pueda provocar o no lesiones ya sean internas, externas o ambas, en base al dictamen emitido por los especialistas en la materia;
+VIII. Concertar acciones con los sectores social y privado, mediante convenios y contratos en los que se regulen la prestación y promoción de los servicios de salud en materia de asistencia social, con la participación que corresponda a las dependencias o entidades del Gobierno Federal, del Estado y de los Municipios;
 
-III. Sexual: El acto que degrada o daña la sexualidad de la víctima; atentando contra su libertad, dignidad e integridad física configurando una expresión de abuso de poder que presupone la supremacía del agresor sobre la mujer, denigrándola y considerándola como de menor valía o como objeto; en base al dictamen emitido por los especialistas en la materia;
+IX. Coordinar, evaluar y dar seguimiento a los servicios de salud que en materia de asistencia social presten las instituciones de seguridad social Federales o del Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+X. Realizar estudios y diagnósticos sobre las causas y efectos de los problemas prioritarios de asistencia social; y
 
-IV. Patrimonial: La acción u omisión que dañe intencionalmente el patrimonio de la mujer o afecte la supervivencia de la víctima; puede consistir en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes, valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar daños a bienes individuales y comunes;
+XI. Las demás que le otorgan las leyes aplicables.
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+### CAPÍTULO II. DE LAS ATRIBUCIONES DEL SISTEMA DIF TAMAULIPAS
 
-V. Violencia Económica: Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima, a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, o la percepción de un salario menor por igual trabajo en un mismo centro laboral;
+###### ARTÍCULO 6.
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
+El patrimonio del Sistema para el Desarrollo Integral de la Familia de Tamaulipas se constituirá como lo establece el artículo 22 de la Ley sobre el Sistema Estatal de Asistencia Social.
 
-VI. Violencia Política: Es el conjunto de acciones u omisiones cometidas por una o varias personas o a través de terceros, basadas en elementos de género que causen daño a una mujer y que tengan por objeto menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos o prerrogativas inherentes a un cargo público;
+###### ARTÍCULO 7.
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
+El patrimonio del organismo se integrará con:
 
-VII. Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden culminar en homicidio y otras formas de muerte violenta de mujeres;
+I. Los derechos y bienes muebles e inmuebles que sean de su dominio;
 
-(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE SEPTIEMBRE DE 2019) (F. DE E., P.O. 27 DE NOVIEMBRE DE 2019)
+II. Los subsidios, subvenciones, aportaciones, bienes y demás ingresos que las dependencias y entidades del Gobierno Federal, Estatal y Municipal le otorguen;
 
-VIII. Violencia Digital: Son aquellos actos de violencia de género cometidos en parte o totalmente, cuando se utilicen las tecnologías de la información y la comunicación, plataformas de redes sociales, correo electrónico, mensajes de texto o llamadas vía teléfono celular, que causen daño psicológico o emocional, refuercen los prejuicios, dañen la reputación, causen pérdidas económicas, planteen barreras a la participación en la vida pública o privada de la víctima o puedan conducir a formas de violencia sexual o física;
+III. Las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas o morales;
 
-(ADICIONADA [N. DE E. CON LOS INCISOS QUE LA INTEGRAN], P.O. 23 DE OCTUBRE DE 2019) (F. DE E., P.O. 27 DE NOVIEMBRE DE 2019)
+IV. Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le generen sus inversiones, bienes y operaciones;
 
-VIII Bis. Violencia Obstétrica: Es toda conducta u omisión por parte del personal de servicios de salud que tenga como consecuencia la pérdida de la autonomía y capacidad de la mujer para decidir libremente sobre su parto y sexualidad y que por negligencia y/o una deshumanizada atención médica durante el embarazo, parto o puerperio dañe, lastime o denigre a las mujeres de cualquier edad, que le genere una afectación física, psicológica o moral, que incluso llegue a provocar la pérdida de la vida de la mujer o, en su caso, del producto de la gestación o del recién nacido, derivado de la prestación de servicios médicos, mediante:
+V. Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a las disposiciones vigentes; y
 
-a) No atender oportuna y eficazmente las emergencias obstétricas;
+VI. En general los demás bienes, derechos e ingresos que obtenga por cualquier título.
 
-b) No otorgar información suficiente sobre los riesgos de la cesárea de conformidad con la evidencia científica y las recomendaciones de la Organización Mundial de la Salud;
+## TÍTULO SEGUNDO
 
-c) Revisiones y prácticas de salud que consideren personal adicional no necesario;
+###### ARTÍCULO 8.
 
-d) La imposición de métodos anticonceptivos o de esterilización sin que medie el consentimiento voluntario, expreso e informado de la mujer; en caso de ser menor de edad o que sufran alguna discapacidad mental, de sus padres o tutor;
+Para el estudio, programación, ejecución y seguimiento de los asuntos que le competen, el Sistema DIF Tamaulipas, contará con los siguientes órganos superiores:
 
-e) La práctica del parto vía cesárea existiendo posibilidad para efectuar parto natural y sin haber obtenido la renuncia voluntaria expresa e informada a la mujer de esta posibilidad;
+I. Patronato;
 
-f) Alterar el proceso natural del parto de bajo riesgo, mediante el uso de técnicas de aceleración, sin obtener el consentimiento voluntario, expreso e informado de la mujer;
+II. Junta de Gobierno; y
 
-g) Obstaculizar el apego precoz del niño o niña con su madre sin causa médica justificada, negándole la posibilidad de cargarlo o amamantarlo inmediatamente al nacer;
+III. Dirección General.
 
-h) Promover fórmulas lácteas en sustitución de la leche materna;
+La vigilancia de la operación del organismo estará a cargo de la persona titular de la Comisaría de la Contraloría Gubernamental.
 
-i) No realizar las gestiones necesarias para que las mujeres que hubieren sufrido un aborto involuntario, reciban la debida atención médica y psicológica; y
+###### ARTÍCULO 9.
 
-j) Todas aquellas previstas por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+El Patronato estará integrado por nueve miembros designados y removidos por el Gobernador del Estado. La persona titular de la Secretaría de Salud y de la Secretaría de Bienestar Social, representarán a la Junta de Gobierno ante el Patronato, cuyos miembros no percibirán retribución, emolumento o compensación alguna y se seleccionarán de entre los sectores público, social y privado.
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 23 DE OCTUBRE DE 2019)</small>
+La persona titular de la Dirección General del organismo acudirá con voz a las reuniones del Patronato, pero no formará parte del mismo.
 
-IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+###### ARTÍCULO 10.
 
-###### Artículo 7.
+El Patronato tendrá las siguientes facultades, conforme a lo dispuesto por el artículo 25 de la Ley:
 
-Es motivo de la presente Ley, promover acciones encaminadas a erradicar la violencia contra las mujeres que se presenta en los siguientes ámbitos:
+I. Emitir opinión y recomendaciones sobre los planes de labores, presupuestos, informes y estados financieros anuales del organismo;
 
-I. En el familiar;
+II. Apoyar las actividades del organismo y formular sugerencias tendientes a su mejor desempeño;
 
-II. En el laboral y docente;
+III. Contribuir a la obtención de recursos que permitan el incremento del patrimonio del organismo y el cumplimiento de sus objetivos;
 
-III. En el de la comunidad; y
+IV. Designar a la persona titular de la Presidencia y a la persona titular de la Secretaría de Sesiones;
 
-IV. En el de las instituciones públicas y privadas.
+V. Ser el conducto o vía para obtener la colaboración de organismos públicos y privados de asistencia social, cuando así lo solicite la Junta de Gobierno; y;
 
-## TITULO PRIMERO. DE LAS AUTORIDADES DEL AYUNTAMIENTO
+VI. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
-###### Artículo 8.
+###### ARTÍCULO 11.
 
-Para los efectos de esta Ley y en correlación con las leyes aplicables, la violencia familiar, es el acto abusivo de poder u omisión intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, sexual, patrimonial o económica a las mujeres, dentro o fuera del domicilio familiar, cuando el individuo que la ejerce, tiene o ha tenido relación de parentesco por consanguinidad, afinidad o civil.
+La persona titular de la Presidencia del Patronato, rendirá un informe anual de las actividades realizadas por el Organismo.
 
-###### Artículo 9.
+###### ARTÍCULO 12.
 
-La violencia laboral y docente, es la que se ejerce por las personas que tienen un vínculo laboral, docente o similar a éstos con la víctima, independientemente de la relación jerárquica, y consiste en un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad o seguridad de la víctima, impide su desarrollo y atenta contra su derecho a la igualdad. Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño; también incluye el acoso o el hostigamiento sexual.
+El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias que se requieran de conformidad con el Reglamento respectivo.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2019)</small>
+###### ARTÍCULO 13.
 
-###### Artículo 10.
+La Junta de Gobierno estará integrada por:
 
-Constituye violencia laboral: la negativa ilegal a contratar a la Victima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, las conductas referidas en la Ley Federal del Trabajo, la explotación, el impedimento u omisión a las mujeres de ejercer el período de lactancia de dos reposos extraordinarios por día, de media hora cada uno y hasta por seis meses previsto en la Ley y todo tipo de discriminación por su género.
+I. La persona titular de la Secretaría de Salud, quien la presidirá;
 
-###### Artículo 11.
+II. La persona titular de la Secretaría General de Gobierno;
 
-Constituyen violencia docente, las conductas que dañen la autoestima de las alumnas con actos u omisiones de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, que les infligen maestras o maestros, educadoras o educadores, durante o con motivo de la relación de enseñanza-aprendizaje, así como al personal administrativo o de intendencia.
+III. La persona titular de la Secretaría de Finanzas;
 
-###### Artículo 12.
+IV. La persona titular de la Secretaría de Desarrollo Rural, Pesca y Acuacultura;
 
-La violencia en la comunidad son los actos individuales o colectivos que transgreden los derechos humanos de las mujeres, y propician su denigración, discriminación, marginación o exclusión en el ámbito público o privado.
+V. La persona titular de la Secretaría de Bienestar Social;
 
-###### Artículo 13.
+VI. La persona titular de la Secretaría de Educación; y
 
-La violencia institucional son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de las políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+VII. La persona titular de la Contraloría Gubernamental.
 
-###### Artículo 14.
+La persona titular de la Dirección General del Sistema DIF Tamaulipas y de la Comisaría, asistirán a las sesiones de la Junta de Gobierno y en ellas sólo tendrán derecho a voz.
 
-El hostigamiento sexual es el ejercicio abusivo del poder en la relación de subordinación real de la víctima frente al agresor, en los ámbitos laboral, escolar o cualquier otro; se manifiesta en conductas verbales o físicas o ambas, relacionadas con la sexualidad, de connotación lasciva.
+###### ARTÍCULO 14.
 
-El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva de hecho a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
+Quien preside la Junta de Gobierno, de acuerdo con el tema que se trate, podrá invitar a los representantes de dependencias y entidades estatales, instituciones públicas federales, estatales o municipales, así como de organizaciones de los sectores social o privado, quienes tendrán derecho de voz.
 
-### CAPÍTULO III. DE LOS MODELOS DE PREVENCIÓN, ATENCIÓN Y SANCIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO III. DEL PATRIMONIO
 
-### CAPÍTULO IV. DE LAS ÓRDENES DE PROTECCIÓN
+### CAPÍTULO I. DE LOS ÓRGANOS SUPERIORES
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+###### ARTÍCULO 15.
 
-###### Artículo 15.
+Las personas integrantes de la Junta de Gobierno nombrarán a su respectivo suplente, quien deberá desempeñar una función del nivel administrativo de Subsecretario.
 
-Los modelos de prevención, atención y sanción que establezcan el Estado y los Municipios, son el conjunto de medidas y acciones para proteger a las víctimas de violencia, como una obligación del Estado y de los Municipios de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos; para ello, al formularse, deberán tener como objetivo:
+###### ARTÍCULO 16.
 
-I. Reivindicar la dignidad de las mujeres en todos los ámbitos de la vida y lograr que la sociedad perciba ya sea como conductas antisociales, violación a los derechos humanos, de salud o de seguridad pública, todo tipo de violencia contra ellas por motivos de género;
+La Junta de Gobierno contará con una Secretaría Técnica, cuya designación será a propuesta de la persona titular de la Dirección General.
 
-II. Proporcionar atención médica, asesoría y asistencia jurídica y tratamiento psicológico especializado y gratuito a las víctimas, que favorezcan su desarrollo integral y reparen el daño causado por dicha violencia, en los términos de las leyes aplicables;
+###### ARTÍCULO 17.
 
-III. Brindar servicios reeducativos integrales, especializados y gratuitos al agresor, para erradicar las conductas violentas a través de una educación que elimine las causas que las generaron;
+Conforme al artículo 28 de la Ley, la Junta de Gobierno tendrá las siguientes facultades:
 
-IV. Evitar que la atención que reciban la víctima y el agresor sea proporcionada por la misma persona y en el mismo lugar. En ningún caso podrán brindar atención aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
+I. Representar al organismo con las facultades que establezcan las leyes para actos de dominio, de administración y para pleitos y cobranzas;
 
-V. Evitar procedimientos de mediación o conciliación salvo que la Ley lo determine, por ser inviables en una relación de sometimiento entre el agresor y la víctima;
+II. Aprobar los planes de labores, presupuestos, informes de actividades y estados financieros anuales;
 
-VI. Favorecer la separación y alejamiento del agresor con respecto a la víctima, en los términos de las leyes respectivas; y
+III. Aprobar el Reglamento Interior, la organización general del organismo y los manuales de procedimientos y de servicios al público;
 
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+IV. Designar y remover, a propuesta de la persona titular de la Dirección General del Organismo, a los servidores públicos superiores;
 
-VII. Favorecer la instalación y el mantenimiento de refugios para las víctimas y familiares de niñas, niños y adolescentes o incapaces que habiten en el mismo domicilio; la información sobre su ubicación será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos.
+V. Conocer los informes, dictámenes y recomendaciones de la persona titular de la Comisaría y del Auditor Externo;
 
-###### Artículo 16.
+VI. Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades;
 
-Para efectos de la violencia laboral y docente, el Estado y los Municipios en función de sus atribuciones, tomarán en consideración:
+VII. Estudiar y aprobar los proyectos de inversión;
 
-I. Establecer políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales y de docencia;
+VIII. Conocer y aprobar los Convenios de Coordinación que hayan de celebrarse con dependencias y entidades públicas y privadas;
 
-II. Establecer mecanismos que favorezcan su erradicación en escuelas y centros laborales privados o públicos, mediante acuerdos y convenios con instituciones escolares, empresas y sindicatos;
+IX. Determinar la integración de Comités Técnicos y grupos de trabajo temporales;
 
-III. Crear procedimientos administrativos claros y precisos, en las escuelas y centros laborales, para sancionar la materialización de cualquiera de los tipos de violencia e inhibir su comisión;
+X. Aprobar los programas de mediano plazo a que quedarán sujetos los servicios de salud en materia de asistencia social que preste el organismo, en base a los programas sectoriales y prioridades presupuestales a que esté sujeto; y
 
-IV. En ningún caso se hará público el nombre de la víctima para evitar nuevas agresiones o que sea boletinada o presionada para abandonar la institución educativa o de trabajo;
+XI. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
-V. Para los efectos de la fracción anterior, deberán sumarse las quejas anteriores que sean sobre el mismo agresor, guardando públicamente el anonimato de la o las quejosas; e
+### CAPÍTULO II. DEL PATRONATO
 
-VI. Implementar sanciones administrativas para los superiores jerárquicos del agresor, cuando sean omisos en recibir o dar curso a una queja, denuncia o reporte.
+### CAPÍTULO III. DE LA JUNTA DE GOBIERNO
 
-###### Artículo 17.
+###### ARTÍCULO 18.
 
-El Estado diseñará y establecerá un Banco Estatal de Datos e Información que permita el monitoreo tanto de las tendencias socio-jurídicas de la violencia contra las mujeres, como de la aplicación y cumplimiento de esta Ley.
+La Junta de Gobierno podrá integrar los Comité Técnicos necesarios para el estudio y propuesta de mecanismo que aseguren la coordinación interinstitucional en la atención de las tareas asistenciales y para elevar las propuestas que estimen necesarias a la Junta. Estos comités estarán formados por los representantes que al efecto designen las dependencias y entidades competentes.
 
-Las dependencias y entidades del Estado y los Municipios, deberán modificar sus sistemas estadísticos para incorporar los indicadores de conformidad con los lineamientos que para tales efectos establezca el propio sistema.
+###### ARTÍCULO 19.
 
-### CAPÍTULO V. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+La Junta de Gobierno celebrará por lo menos cuatro sesiones ordinarias al año, y las extraordinarias que se requieran, de, conformidad con el Reglamento de la Ley de Entidades Paraestatales del Estado de Tamaulipas.
 
-### CAPÍTULO VI. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+###### ARTÍCULO 20.
 
-###### Artículo 18.
+La persona titular de la Dirección General será de ciudadanía mexicana, con mayoría de edad y experiencia en materia administrativa y de asistencia social. El Gobernador del Estado designará y removerá libremente a la persona titular de la Dirección General.
 
-Las órdenes de protección serán de oficio tratándose de niñas, niños y adolescentes o incapaces y de urgente aplicación en función del interés superior de la víctima y de naturaleza precautorias y cautelares, en los términos de la Ley de la materia.
+###### ARTÍCULO 21.
 
-###### Artículo 19.
+La persona titular de la Dirección General tendrá las siguientes facultades:
 
-Las órdenes de protección que consagra la presente Ley son personalísimas e intransferibles, serán emitidas por las autoridades competentes y podrán ser:
+I. Ejecutar los acuerdos y disposiciones de la Junta de Gobierno;
 
-I. De emergencia;
+II. Presentar a la Junta de Gobierno los informes y estados financieros trimestrales, acompañados de los comentarios que estime pertinentes a los reportes, informes y de recomendaciones que al efecto formulen el Comisario y el Auditor Externo;
 
-II. Preventivas; y
+III. Presentar al conocimiento y aprobación de la Junta de Gobierno los planes de labores, presupuestos, informes de actividades y estados financieros anuales del organismo;
 
-III. De naturaleza civil.
+IV. Proponer a la Junta de Gobierno la designación y remoción de los servidores públicos de confianza a que se refiere el Artículo 39, de las fracciones II a la VI, así como designar y remover libremente a los demás servidores públicos del organismo;
 
-Las órdenes de protección de emergencia y preventivas tendrán una temporalidad no mayor de 72 horas y deberán expedirse dentro de las 24 horas siguientes al conocimiento de los hechos que las generan.
+V. Expedir o autorizar la expedición de nombramientos del personal y llevar las relaciones laborales de acuerdo con las disposiciones legales;
 
-###### Artículo 20.
+VI. Planear, dirigir y controlar el funcionamiento del organismo con sujeción a las instrucciones de la Junta de Gobierno;
 
-Son órdenes de protección de emergencia las siguientes:
+VII. Celebrar los convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del organismo;
 
-I. Desocupación, por el probable responsable, del domicilio conyugal o del que habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
+VIII. Ejercer la representación legal del Organismo y fungir como apoderado para pleitos y cobranzas, actos de administración y dominio, con todas las facultades generales y las especiales que requieran cláusula especial, conforme a la legislación vigente en el Estado y las correlativas de las demás entidades de la República, por lo que enunciativa más no limitativamente estará facultado para otorgar o revocar poderes, interponer recursos, formular querellas, articular y absolver posiciones, ejercer y desistirse de acciones judiciales, administrativas, laborales, inclusive del juicio de amparo, así como otorgar y suscribir títulos de crédito;
 
-II. Prohibición al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
+IX. Establecer Centros de Mediación previo acuerdo de la Junta de Gobierno, en los términos de la ley de la materia; y
 
-III. Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad; y
+X. Las demás que sean necesarias para el ejercicio de las anteriores.
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2019)</small>
+###### ARTÍCULO 22.
 
-IV. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su núcleo familiar, incluidos la vía telefónica, cualquier otro medio electrónico de comunicación o tecnologías de la información y comunicación, así como cualquier otra manifestación o expresión de cualquier naturaleza que atente contra la víctima, realizada por el agresor a través de terceras personas.
+La persona titular de la Comisaría será designada y removida libremente por el Gobernador del Estado y estará adscrita jerárquica, técnica y funcionalmente a la Contraloría Gubernamental.
 
-###### Artículo 21.
+###### ARTÍCULO 23.
 
-Son órdenes de protección preventivas las siguientes:
+Conforme al artículo 42 de la Ley Orgánica de la Administración Pública del Estado de Tamaulipas, la persona titular de la Comisaría, tendrá las siguientes funciones:
 
-I. Retención y guarda de armas de fuego en posesión del agresor. Es aplicable lo anterior a las armas punzocortantes y cortocontundentes que, independientemente de su uso, hayan sido empleadas para amenazar o lesionar a la víctima;
+I. Vigilar el cumplimiento de las disposiciones y lineamientos del control interno de las Dependencias o Entidades a la que se encuentren adscritos;
 
-II. Inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
+II. Inspeccionar y vigilar que las Dependencias y Entidades de la Administración Pública Estatal, cumplan con las normas y disposiciones en materia de planeación, programación, presupuestación, sistema y registro de contabilidad, ingresos, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación, baja de bienes y demás activos y recursos materiales, y su congruencia con el presupuesto autorizado, emitiendo las observaciones y recomendaciones que en su caso procedan;
 
-III. Uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio a la víctima;
+III. Vigilar que la distribución y aplicación de los recursos federales y estatales destinados a programas, prestación de servicios, adquisiciones y obra pública que se deriven de acuerdos, convenios o contratos celebrados por las Dependencias o Entidades de la Administración Pública Estatal, se ejerzan de acuerdo a la normatividad aplicable;
 
-IV. Acceso al domicilio en común, de autoridades policíacas o de personas que auxilien a la víctima a tomar sus pertenencias personales y familiares que vivan en el domicilio;
+IV. Intervenir para efectos de verificación, en los actos de entrega-recepción de las unidades administrativas de las Dependencias y Entidades de la Administración Pública Estatal, a fin de dar cumplimiento a la ley de la materia;
 
-V. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y familiares que vivan en el domicilio;
+V. Formular en el mes de noviembre su plan anual de trabajo;
 
-VI. Auxilio policiaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre la víctima en el momento de solicitar el auxilio; y
+VI. Informar anualmente a más tardar el 30 de mayo del año siguiente al que corresponda, al titular de la Contraloría Gubernamental, sobre hallazgos en la gestión y recomendaciones en relación con las acciones correctivas, preventivas y oportunidades de mejora respecto de la calidad y eficiencia de los distintos procesos internos a fin de que tanto las Dependencias y Entidades, así como la Contraloría Gubernamental implementen las acciones pertinentes para la mejora de la gestión; y
 
-VII. Brindar al agresor servicios reeducativos integrales, especializados, gratuitos y con perspectiva de género, en instituciones debidamente acreditadas.
+VII. Observar y aplicar la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
-###### Artículo 22.
+## TÍTULO TERCERO
 
-Son órdenes de protección de naturaleza civil, las siguientes:
+###### ARTÍCULO 24.
 
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+Para el cumplimiento de su objetivo y el ejercicio de sus atribuciones, el Sistema DIF Tamaulipas está integrado por las unidades administrativas siguientes:
 
-I. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes o con quien tenga la patria potestad, la tutela o custodia de las niñas, niños y adolescentes;
+1. Presidencia del Patronato del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas.
 
-II. Prohibición al agresor de enajenar, prendar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal y, en cualquier caso, cuando se trate de bienes de sociedad conyugal, bajo el esquema del aseguramiento de bienes dando vista al Registro Público de la Propiedad y del Comercio en cada caso;
+1.0.1. Secretaría Particular de la Presidencia del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas.
 
-III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio, por el tiempo que la autoridad competente determine;
+1.0.1.1. Departamento de Seguimiento de Acuerdos.
 
-IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad y del Comercio, a efecto de garantizar las obligaciones alimenticias; y
+1.0.1.2. Departamento de Archivo y Correspondencia.
 
-V. Orden de pago de la obligación alimenticia, en forma provisional e inmediata, a cargo del agresor.
+1.0.2. Dirección de Giras.
 
-###### Artículo 23.
+1.0.2.1. Departamento de Logística y Planeación de Giras.
 
-Corresponde a las autoridades jurisdiccionales competentes valorar las órdenes y la determinación de medidas de emergencia, preventivas y de naturaleza civil en sus resoluciones o sentencias. Lo anterior con motivo de los juicios o procesos que en materia civil, familiar o penal se estén ventilando en los tribunales competentes.
+1.0.3. Subdirección de Enlace Voluntariado.
 
-## TITULO SEGUNDO. DE LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA MUNICIPAL
+1.0.3.1. Departamento de Enlace Voluntariado.
 
-###### Artículo 24.
+2. Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas.
 
-Las personas mayores de doce años de edad, podrán solicitar, a las autoridades competentes que los representen en sus peticiones y acciones, a efecto de que las autoridades correspondientes puedan de oficio dar el otorgamiento de las órdenes; quienes sean menores de doce años sólo podrán solicitar las órdenes a través de sus representantes legales.
+2.0.1. Secretaría Particular de la Dirección General.
 
-### CAPÍTULO VII. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
+2.0.1.1. Departamento de la Secretaría Particular.
 
-###### Artículo 25.
+2.0.2. Secretaría Técnica.
 
-El Estado y los Municipios se coordinarán para la integración y funcionamiento del Sistema, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+2.0.2.1. Departamento de Planeación y Proyectos.
 
-Todas las medidas que lleven a cabo las autoridades estatales y municipales deberán ser realizadas sin discriminación alguna, para que todas las personas puedan acceder a las políticas públicas en la materia.
+2.0.2.2. Departamento de Evaluación y Seguimiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2018)</small>
+2.0.2.3. Subdirección de Informática.
 
-###### Artículo 26.
+2.0.2.3.1. Departamento de Programación.
 
-El Sistema Estatal se conformará por las o los titulares y representantes de las siguientes instancias:
+2.0.2.3.2. Departamento de Procesamiento de Información.
 
-I. Secretaría General de Gobierno, quien lo presidirá;
+2.0.3. Dirección de Administración y Finanzas.
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+2.0.3.1. Departamento de Servicios Generales.
 
-I Bis. Un representante del Congreso del Estado quien será el Presidente de la Comisión para la Igualdad de Género;
+2.0.3.2. Departamento de Compras.
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+2.0.3.3. Departamento de Finanzas.
 
-I Bis 1. Un representante del Tribunal Superior de Justicia;
+2.0.3.4. Departamento de Recursos Materiales.
 
-II. Instituto Estatal de las Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema;
+2.0.3.5. Departamento de Recursos Humanos.
 
-III. Comisión Estatal de Derechos Humanos;
+2.0.4. Dirección Jurídica y Transparencia.
 
-IV. Secretaría de Seguridad Pública;
+2.0.4.1. Departamento Jurídico.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
+2.0.4.2. Departamento de Transparencia y Rendición de Cuentas.
 
-V. Fiscalía General de Justicia del Estado;
+2.0.5. Dirección de Relaciones Públicas y Eventos.
 
-VI. Secretaría de Educación;
+2.0.5.1. Departamento de Relaciones Públicas.
 
-VII. Secretaría de Salud;
+2.0.6. Dirección de Comunicación Social.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+2.0.6.1. Departamento de Imagen y Comunicación Digital.
 
-VIII. Secretaría de Desarrollo Social;
+2.0.6.2. Departamento de Prensa.
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+2.1. Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
-IX. Secretaría de Economía y Trabajo;
+2.1.1. Departamento de Representación Jurídica y Restitución de Derechos.
 
-X. El Sistema para el Desarrollo Integral de la Familia;
+2.1.2. Departamento de Atención Psicológica.
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+2.1.3. Departamento de Trabajo Social.
 
-XI. El Instituto Estatal de la Juventud;
+2.1.4. Departamento de Mediación y Prevención de la Violencia.
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+2.1.5. Departamento de Adopciones y Acogimiento Familiar.
 
-XI Bis. Consejo para la Cultura y las Artes de Nuevo León;
+2.1.6. Departamento de Supervisión a Centros Asistenciales.
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+2.1.7. Departamento de Atención a Migrantes.
 
-XII. La Dependencia, Organismo Descentralizado o Unidad Administrativa cuyo objetivo sea la promoción del desarrollo integral de las mujeres por cada uno de los Municipios del Estado, que cuenten con éstos; y
+2.2. Procuraduría de la Defensa del Adulto Mayor
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+2.2.1. Departamento Jurídico.
 
-XIII. Dos representantes de la sociedad civil con experiencia en la materia regulada por la presente ley, designados por el Ejecutivo a propuesta del Instituto.
+2.2.2. Departamento de Psicología y Trabajo Social.
 
-Los integrantes del Sistema tendrán voz y voto y podrán ser representados en sus ausencias por un suplente que designen para este efecto.
+2.3. Dirección de Centros Asistenciales.
 
-Podrán participar en las sesiones del Sistema con voz, pero sin voto, a invitación expresa del Presidente del mismo, aquellas personas que en razón de su labor o profesión puedan hacer aportaciones o propuestas importantes sobre la materia.
+2.3.1. Departamento Administrativo de Villas Vida Plena.
 
-El Sistema sesionará de manera ordinaria cada cuatro meses y de manera extraordinaria cuando sea necesario para el cumplimiento de sus funciones.
+2.3.2. Departamento Administrativo de Casa San Antonio.
 
-Para sesionar se requiere de la asistencia de la mayoría de los integrantes. Los acuerdos se tomarán por mayoría de votos de los miembros presentes; en caso de empate el Presidente tendrá voto de calidad.
+2.3.3. Departamento Administrativo de Camino de Luz.
 
-###### Artículo 27.
+2.3.4. Departamento Administrativo de Casa Hogar del Adulto Mayor.
 
-La Secretaría Ejecutiva del Sistema elaborará el proyecto de Reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
+2.3.5. Departamento Administrativo del Velatorio y Crematorio “San José”.
 
-### CAPÍTULO VIII. DE LA ATENCIÓN A LAS VÍCTIMAS
+2.3.6. Departamento Administrativo del Centro Inclusivo de la Familia Migrante.
 
-###### Artículo 28.
+2.3.7. Departamento Administrativo de Casa Hogar del Niño.
 
-El Programa contendrá acciones con perspectiva de género para:
+2.4. Dirección de Atención a Población Prioritaria.
 
-I. Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de las mujeres;
+2.4.1. Departamento de Procuración de Fondos.
 
-II. Transformar los modelos socioculturales de conducta de mujeres y hombres, a través de la formulación de programas y acciones de educación formales y no formales, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran la violencia contra las mujeres;
+2.4.2. Departamento de Consulta Odontológica.
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2019)</small>
+2.4.3. Departamento de Medicina Familiar.
 
-III. Educar y capacitar en materia de derechos humanos de las mujeres, al personal encargado de la procuración e impartición de justicia, policías y demás servidores públicos encargados de las políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+2.4.4. Departamento de Brigadas.
 
-> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2019)</small>
+2.4.5. Departamento de Salud Integral de la Mujer.
 
-IV. Fomentar la eliminación de la discriminación y violencia contra las mujeres por razón de sus preferencias sexuales;
+2.4.6. Subdirección de Atención Ciudadana.
 
-V. Brindar servicios especializados y gratuitos para la atención y protección a las víctimas de delitos, por medio de las autoridades y las instituciones públicas, privadas o sociales;
+2.4.6.1. Departamento de Seguimiento y Trabajo Social.
 
-VI. Fomentar y apoyar programas de educación pública y privada, destinados a concienciar a la sociedad sobre las causas y consecuencias de la violencia contra las mujeres;
+2.5. Dirección de Programas Alimentarios.
 
-VII. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida;
+2.5.1. Departamento de Desayunos Escolares y Comedores Comunitarios.
 
-VIII. Promover en los medios de comunicación la erradicación de todos los tipos de violencia contra la mujer y fortalecer el respeto a los derechos humanos, su dignidad e integridad.
+2.5.2. Departamento de Asistencia Social Alimentaria.
 
-XI (SIC). Propiciar la investigación y la elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
+2.6. Dirección de Fortalecimiento Familiar.
 
-X. Publicar trimestralmente la información general y estadística sobre los casos de violencia contra las mujeres, para integrar el Banco Estatal y Nacional de Datos e Información sobre Casos Y Delitos de violencia contra las Mujeres;
+2.6.1. Departamento de Supervisión y Seguimiento.
 
-XI. Promover la inclusión prioritaria en el Plan Estatal de Desarrollo de las medidas y las políticas de gobierno para erradicar la violencia contra las mujeres;
+2.6.2. Departamento de Atención a la Infancia.
 
-XII. Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones, para garantizar su seguridad y su integridad; y
+2.6.3. Departamento de Atención a Jóvenes.
 
-XIII. Diseñar un modelo integral de atención a los derechos humanos y ciudadanos de las mujeres, mismo que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas.
+2.6.4. Departamento de Atención al Adulto Mayor.
 
-###### Artículo 29.
+2.6.5. Departamento de Atención a la Familia.
 
-El Ejecutivo del Estado y los Municipios asignarán una partida presupuestaria para el cumplimiento de los objetivos y programas implementados por la presente Ley.
+2.7. Dirección del Centro de Rehabilitación y Educación Especial.
 
-### CAPÍTULO IX. DE LOS REFUGIOS PARA VÍCTIMAS DE VIOLENCIA
+2.7.1. Departamento de Enseñanza.
 
-###### Artículo 30.
+2.7.2. Departamento Administrativo.
 
-El Estado y los Municipios coadyuvarán para el cumplimiento de los objetivos de esta Ley, de conformidad con el siguiente enunciado de facultades y obligaciones, sin menoscabo de lo dispuesto en los demás instrumentos legales aplicables.
+2.7.3. Departamento de Valoración y Tratamiento.
 
-###### Artículo 31.
+2.7.4. Departamento de Psicología y Autismo.
 
-Son facultades y obligaciones del Estado:
+2.7.5. Departamento de Conservación y Mantenimiento.
 
-I. Garantizar el ejercicio pleno del derecho de las mujeres a una vida libre de violencia;
+2.7.6. Departamento de Atención a Personas con Discapacidad.
 
-II. Vigilar el cabal cumplimiento de la presente Ley, y de los instrumentos internacionales aplicables;
+2.8. Dirección de Vinculación.
 
-III. Formular, instrumentar y articular la política estatal integral desde la perspectiva de género para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, en concordancia con la política nacional;
+2.8.1. Departamento de Vinculación Victoria.
 
-IV. Coadyuvar en la adopción y consolidación del Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+2.8.2. Departamento de Vinculación Reynosa.
 
-V. Participar en la elaboración del Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+2.8.3. Departamento de Vinculación Nuevo Laredo.
 
-VI. Integrar el Sistema e incorporar su contenido al Sistema Nacional;
+2.8.4. Departamento de Vinculación Matamoros.
 
-VII. Elaborar, coordinar y aplicar el Programa, auxiliándose de las demás autoridades encargadas de implementar el presente ordenamiento legal;
+2.8.5. Departamento de Vinculación San Fernando.
 
-VIII. Asegurar la difusión y promoción de los derechos de las mujeres indígenas con base en el reconocimiento de la composición pluricultural del Estado;
+2.8.6. Departamento de Vinculación Jaumave.
 
-IX. Asegurar el respeto, la difusión y promoción de los derechos de las mujeres con discapacidad;
+2.8.7. Departamento de Vinculación El Mante.
 
-X. Vigilar que los usos y costumbres de toda la sociedad no atenten contra los derechos humanos de las mujeres;
+2.8.8. Departamento de Vinculación Altamira.
 
-XI. Impulsar la creación de refugios para las víctimas de conformidad con la presente Ley y al modelo de atención diseñado por el Sistema Nacional y el Sistema;
+2.8.9. Departamento de Vinculación Tampico.
 
-XII. Promover programas de información a la población en la materia;
+2.9. Dirección de Desarrollo Comunitario.
 
-XIII. Difundir por todos los medios de comunicación el contenido de esta Ley;
+2.9.1. Departamento de Seguimiento a Proyectos.
 
-XIV. Coordinar la creación de Programas de reeducación y reinserción social con perspectiva de género para el agresor;
+2.9.2. Departamento de Desarrollo Comunitario.
 
-XV. Dirigir una adecuada coordinación entre el Estado y los Municipios que lo integran con la finalidad de erradicar la violencia contra las mujeres;
+2.9.3. Departamento de Recuperación de Espacios Públicos.
 
-XVI. Coadyuvar con las instituciones públicas o privadas dedicadas a la atención de víctimas;
+### CAPÍTULO IV. DE LA DIRECCIÓN GENERAL
 
-XVII. Ejecutar medidas específicas, que sirvan de herramientas de acción para la prevención, atención, sanción y erradicación de la violencia contra las mujeres en todos los ámbitos, en un marco integral y de promoción de los derechos humanos;
+###### ARTÍCULO 25.
 
-XVIII. Promover y realizar investigaciones con perspectiva de género sobre las causas y las consecuencias de la violencia contra las mujeres;
+Además de lo previsto en el presente Estatuto Orgánico, las unidades administrativas podrán contar con manuales de organización, de servicios y de procedimientos, a fin de definir de manera más específica el cumplimiento de sus atribuciones.
 
-XIX. Evaluar y considerar la eficacia de las acciones y las políticas públicas del Programa, con base en los resultados de las investigaciones previstas en la fracción anterior;
+###### ARTÍCULO 26.
 
-XX. Rendir un informe anual a través del Titular del Poder Ejecutivo sobre los avances del Programa a la comunidad, conforme a los lineamientos del Reglamento del Sistema;
+Las unidades administrativas del Sistema DIF Tamaulipas estarán integradas por el personal directivo, técnico, administrativo y de apoyo que las necesidades del servicio requieran, de acuerdo a la normatividad vigente y la suficiencia presupuestal.
 
-XXI. Impulsar la participación de las organizaciones de la sociedad civil dedicadas a la promoción y defensa de los derechos humanos de las mujeres, en la ejecución del Programa;
+###### ARTÍCULO 27.
 
-XXII. Recibir y evaluar de las organizaciones de la sociedad civil, las propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra las mujeres, a fin de mejorar los mecanismos para su erradicación;
+La Presidencia del Patronato del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, tendrá las atribuciones siguientes:
 
-XXIII. Proporcionar a las instancias encargadas de realizar estadísticas, la información necesaria para la elaboración de éstas;
+I. Establecer las directrices y estrategias en materia de asistencia social, interrelacionándolas con aquellas que lleven a cabo otras instituciones públicas y privadas;
 
-XXIV. Impulsar reformas, medidas legislativas y programas para el cumplimiento de la presente Ley;
+II. Vigilar la realización de las demás acciones que establecen las leyes y disposiciones legales aplicables;
 
-XXV. Desarrollar conforme a la disponibilidad presupuestaria los programas específicos para el cumplimiento de la presente Ley;
+III. Realizar la gestión de recursos en beneficio de los programas sustantivos que realizan el Sistema DIF Tamaulipas y los Sistemas DIF Municipales;
 
-XXVI. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+IV. Acordar con la persona titular de la Presidencia de los Sistemas DIF Municipales, la coordinación de esfuerzos en materia de los programas sustantivos propios de la institución;
 
-XXVII. Las demás aplicables a la materia, que le concedan las leyes u otros ordenamientos jurídicos.
+V. Realizar giras de trabajo a las distintas comunidades y municipios del Estado, llevando a cabo la entrega de recursos y alentando a los más necesitados;
 
-###### Artículo 32.
+VI. Recibir las peticiones de la población más vulnerable del Estado, atendiendo aquellas del rubro de asistencia social y gestionando el resto ante las diferentes instancias en absoluto respeto a su normatividad; y
 
-Le corresponde a la Secretaría General de Gobierno, las siguientes:
+VII. Las demás que en el ámbito de su competencia le delegue el Poder Ejecutivo.
 
-I. Presidir el Sistema;
+### CAPÍTULO V. DE LA COMISARÍA
 
-II. Diseñar la política estatal integral con perspectiva de género para promover la cultura de respeto a los derechos humanos de las mujeres;
+###### ARTÍCULO 28.
 
-III. Proponer el Programa;
+El organismo contará con la figura de la Presidencia del Patronato del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, la cual tendrá carácter honorifica, por lo que no percibirá retribución, emolumento o compensación alguna, siendo la persona titular portavoz de los derechos y necesidades de los grupos vulnerables del Estado.
 
-IV. Formular las bases para la coordinación entre las autoridades estatales y municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+###### ARTÍCULO 29.
 
-V. Coordinar y dar seguimiento a las acciones de los gobiernos estatal y municipales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+La Secretaría Particular de Presidencia del Patronato del Sistema para el Desarrollo Integral de la Familia de Estado de Tamaulipas, tendrá las atribuciones siguientes:
 
-VI. Coordinar y dar seguimiento a los trabajos de promoción y defensa de los derechos humanos de las mujeres, que lleven a cabo las dependencias y entidades de la Administración Pública Estatal;
+I. Organizar las reuniones y giras de trabajo de la persona titular de la Presidencia del Patronato del Sistema DIF Tamaulipas, así como brindar la atención y asistencia a las personas participantes de las mismas;
 
-VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminadas al mejoramiento del Sistema y del Programa;
+II. Organizar, analizar, y turnar oportunamente la correspondencia y comunicados oficiales de la Presidencia, conforme a la línea de acción establecida, con la finalidad de atender y dar respuesta a cada caso, así como agendar los asuntos pendientes y mantener actualizados los archivos del área;
 
-VIII. Ejecutar y dar seguimiento a las acciones del Programa, con la finalidad de evaluar su eficacia y rediseñar las acciones y medidas para avanzar en la eliminación de la violencia contra las mujeres;
+III. Desarrollar y ejecutar acciones que fomenten las actividades administrativas encaminadas a mejorar la funcionalidad en apoyo a la Presidencia;
 
-IX. Realizar un diagnóstico estatal y otros estudios complementarios, de manera periódica y con perspectiva de género, sobre todas las formas de violencia contra las mujeres y las niñas, en todos los ámbitos, que proporcione información objetiva para la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+IV. Mantener estrecha comunicación con la Dirección General del Sistema DIF Tamaulipas, para cruzar información de la agenda de trabajo;
 
-X. Difundir a través de los diversos medios, los resultados del Sistema y del Programa a los que se refiere esta Ley;
+V. Apoyar, atender y participar en las audiencias de la persona titular de la Presidencia y acompañarla en sus giras de trabajo y visitas a centros asistenciales, para dar respuesta oportuna a los compromisos contraídos ante las demás áreas, organismos y público en general, así como otorgar los apoyos requeridos;
 
-XI. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+VI. Atender y dar seguimiento a los casos especiales de atención por parte de la Presidencia, como apoyos a personas, organizaciones e instituciones con la finalidad de agilizar los trámites necesarios;
 
-XII. Las demás previstas para el cumplimento de la presente Ley.
+VII. Atender, canalizar y dar seguimiento a las instrucciones giradas por la Presidencia a las unidades administrativas del Sistema DIF Tamaulipas, en las sesiones del Patronato y reuniones con la Dirección General, informando permanentemente los resultados de las actividades para agilizar la toma de decisiones;
 
-###### Artículo 33.
+VIII. Las demás que en el ámbito de su competencia le delegue la superioridad.
 
-Corresponde al Instituto Estatal de las Mujeres:
+### CAPÍTULO I. DE LA ESTRUCTURA ADMINISTRATIVA
 
-I. Fungir como Secretaría Ejecutiva del Sistema;
+###### ARTÍCULO 30.
 
-II. Integrar las investigaciones promovidas por las dependencias y entidades de la Administración Pública Estatal sobre las causas, características y consecuencias de la violencia en contra de las mujeres;
+El Departamento de Seguimiento de Acuerdos, tendrá las atribuciones siguientes:
 
-III. La evaluación de las medidas de prevención, atención y erradicación y de la información derivada de cada una de las instituciones encargadas de promover los derechos humanos de las mujeres en la administración pública estatal o municipal;
+I. Brindar asistencia en la organización, dirección y control de las acciones y programas que den atención a las instrucciones, agenda, audiencias y visitas especiales de la persona titular de la Presidencia;
 
-IV. Dar a conocer públicamente, los resultados de dichas actividades, para tomar las medidas pertinentes hacia la erradicación de la violencia;
+II. Dar seguimiento a las acciones derivadas de las instrucciones, audiencias y visitas especiales de la persona titular de la Presidencia;
 
-V. Proponer a las autoridades encargadas de la aplicación de la presente ley, programas específicos, las medidas y las acciones que considere pertinentes, con la finalidad de erradicar la violencia contra las mujeres;
+III. Participar en la organización y seguimiento de la agenda de trabajo de la persona titular de la Presidencia;
 
-VI. Formular, impulsar y ejecutar programas estatales para el adelanto y desarrollo integral de las mujeres y mejorar su calidad de vida;
+IV. Apoyar en la logística de las reuniones de trabajo de la persona titular de la Presidencia, así como en las sesiones del Patronato;
 
-VII. Colaborar con las instituciones del Sistema en el diseño y evaluación del modelo de atención a víctimas en los refugios;
+V. Orientar y asesorar al público en general que solicite algún servicio del Sistema DIF Tamaulipas;
 
-VIII. Promover, en coordinación con la Federación, los Municipios y los organismos de la sociedad civil y del sector social, programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de las mujeres y de la no violencia;
+VI. Previo a los acuerdos autorizados por la persona titular de la Presidencia, confirmar su participación en los eventos y compromisos oficiales a cumplir; y
 
-IX. Impulsar la creación de centros o unidades de atención y protección a las víctimas de violencia;
+VII. Las demás que en el ámbito de su competencia le delegue la superioridad.
 
-X. Canalizar a las víctimas a tratamientos psicológicos especializados que les permitan participar activamente en la vida pública, privada y social;
+###### ARTÍCULO 31.
 
-XI. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno estatal y municipal, así como organizaciones de la sociedad civil y del sector social, de manera que sirvan de cauce para lograr la atención integral de las víctimas;
+El Departamento de Archivo y Correspondencia, tendrá las atribuciones siguientes:
 
-XII. Promover y vigilar que la atención ofrecida a las víctimas en las diversas instituciones públicas o privadas, sea proporcionada por especialistas en la materia con perspectiva de género;
+I. Controlar el registro de la documentación, información y requerimientos administrativos para hacer más eficientes sus actividades;
 
-XIII. Difundir la cultura de respeto a los derechos humanos de las mujeres y promover que las instancias competentes protejan la integridad física de quienes denuncian;
+II. Otorgar la información pública necesaria para dar contestación a las solicitudes que demande la ciudadanía relativa a su área;
 
-XIV. Diseñar y distribuir instrumentos educativos que promuevan la prevención y atención de la violencia contra las mujeres;
+III. Coordinar y llevar un control actualizado de los directorios que requiera la persona titular de la Presidencia, para el ejercicio de sus funciones;
 
-XV. Diseñar planes y programas de estudios para la especialización de servidoras y servidores públicos responsables de la prevención y atención de las mujeres víctimas de violencia de género;
+IV. Informar permanentemente al área superior inmediata de las actividades programadas, en proceso y concluidas, con la finalidad de unificar criterios para el cumplimiento de los objetivos del Sistema DIF Tamaulipas;
 
-XVI. Diseñar e impulsar la realización de proyectos de investigación en temas relacionados con la violencia contra las mujeres;
+V. Las demás que en el ámbito de su competencia le delegue la superioridad.
 
-XVII. Diseñar los protocolos para la detección de la violencia contra las mujeres;
+###### ARTÍCULO 32.
 
-XVIII. Diseñar las campañas de prevención de la violencia contra las mujeres;
+La Dirección de Giras, tendrá las atribuciones siguientes:
 
-XIX. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+I. Planear, programar, dirigir, coordinar y supervisar las giras a realizar por la persona titular de la Presidencia del Patronato del Sistema para el Desarrollo Integral de la Familia de Tamaulipas, así como de la persona titular de la Dirección General y las Unidades Administrativas que la conforman, desarrollando estrategias previas a los eventos;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
+II. Implementar un plan de trabajo coordinado con la Presidencia, la Dirección General y las unidades administrativas del Sistema DIF Tamaulipas participantes, para definir el protocolo del evento en coordinación con las demás instituciones que intervienen en el evento para concluir con éxito las actividades y cumplir los objetivos;
 
-XX. Administrar y operar el Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia contra las Mujeres; y
+III. Acordar con la Secretaría Particular de la Presidencia del Sistema DIF Tamaulipas y con la persona titular de la Dirección General, la agenda de giras y/o eventos;
 
-XXI. Las demás previstas para el cumplimiento de la presente Ley.
+IV. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección;
 
-###### Artículo 34.
+V. Diseñar el programa de capacitación anual conforme a las necesidades de la Subdirección; y
 
-Corresponde a la Comisión Estatal de Derechos Humanos:
+VI. Las demás que en el ámbito de su competencia le delegue la superioridad.
 
-I. Promover los Derechos Humanos de la Mujeres;
+###### ARTÍCULO 33.
 
-II. Llevar a cabo los programas y acciones en apoyo a los Derechos Humanos de las Mujeres;
+El Departamento de Logística y Planeación de Giras, tendrá las atribuciones siguientes:
 
-III. Atender las quejas relacionadas con presuntas violaciones a los Derechos Humanos de las Mujeres cuando éstas fueren imputadas únicamente a servidores públicos;
+I. Coadyuvar en el diseño, organización y coordinación del montaje de los elementos logísticos para el desarrollo de los eventos, así como en la planeación del sitio para su desarrollo;
 
-IV. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+II. Realizar las pre giras para identificar y definir las necesidades logísticas requeridas para cada evento;
 
-V. Participar en el Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+III. Apoyar en la distribución de los espacios de prensa y sistemas de información, para óptimo desempeño de las actividades programadas y el logro de los objetivos;
 
-VI. Coadyuvar con los objetivos de esta Ley; y
+IV. Hacer los requerimientos necesarios con las distintas instancias del orden estatal, federal y municipal, con el fin de contribuir en los alcances de cada gira o evento;
 
-VII. Las demás previstas para el cumplimiento de la presente Ley.
+V. Observar y desarrollar los protocolos de los eventos de carácter cívico, establecidos por la Secretaría de Gobernación y la Secretaría General de Gobierno, con especial cuidado hacia los símbolos patrios; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+VI. Las demás que en el ámbito de su competencia le delegue la superioridad.
 
-###### Artículo 35.
+###### ARTÍCULO 34.
 
-Corresponde a la Secretaría de Seguridad Pública:
+La Subdirección de Enlace Voluntariado, tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2019)</small>
+I. Formular el anteproyecto de programa y presupuesto anual de la Subdirección;
 
-I. Capacitar al personal de las diferentes instancias policiales en materia de derechos humanos de las mujeres, tipos de violencia contra las mujeres, delitos que se cometen por razones de género, protocolos de actuación y atención a mujeres víctimas de violencia, perfiles y patrones de conducta de víctimas y victimarios, así como de lineamientos para la recopilación adecuada de pruebas en casos de hechos que puedan constituirse como delitos.
+II. Diseñar e instrumentar el Programa de Voluntariado del Sistema para el Desarrollo Integral de la Familia de Tamaulipas;
 
-II. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente Ley;
+III. Promover y coordinar la implementación del Programa de Voluntariado en los 43 municipios del estado, a través de los Sistemas DIF Municipales;
 
-III. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social del agresor;
+IV. Establecer vínculos de cooperación con organizaciones de la sociedad civil que tengan por objeto, brindar servicios de asistencia social a personas en condición vulnerable;
 
-IV. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
+V. Canalizar donativos que reciba el Sistema DIF Tamaulipas, hacia los centros de asistencia social, albergues y/o personas de los grupos de atención prioritaria;
 
-V. Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres;
+VI. Implementar estrategias de apoyo para los centros de ayuda a migrantes;
 
-VI. Participar en el diseño, con una visión transversal, de la política estatal integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
+VII. Coadyuvar con instituciones que realizan acciones de ayuda comunitaria mediante colectas de recursos o bienes destinados para ayudar a personas en condición de vulnerabilidad;
 
-VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
+VIII. Promover la participación de instituciones públicas, privadas y sociales, en acciones que impulsa el Sistema DIF Tamaulipas, para beneficio de las personas pertenecientes a grupos de atención prioritaria; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+IX. Las demás que en el ámbito de su competencia le delegue la superioridad.
 
-VIII. Integrar y proporcionar de manera periódica la información completa y oportuna para el Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia contra las Mujeres;
+###### ARTÍCULO 35.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+El Departamento de Enlace Voluntariado, tendrá las atribuciones siguientes:
 
-IX. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+I. Fungir como enlace de la Subdirección de Enlace Voluntariado con los Sistemas DIF Municipales, para la implementación y seguimiento del programa de voluntariado municipal;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+II. Dar seguimiento a las acciones programadas por los grupos de voluntariado estatal;
 
-X. Las demás previstas para el cumplimiento de la presente Ley.
+III. Organizar la participación de grupos de voluntariado en actividades de ayuda comunitaria como colectas, bazares y otros que realice el Sistema DIF Tamaulipas para beneficio de la población de grupos de atención prioritaria;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+IV. Diseñar y mantener actualizado el padrón de beneficiarios de los programas de voluntariado estatal y municipales; y
 
-###### Artículo 36.
+V. Las demás que en el ámbito de su competencia le delegue la superioridad.
 
-Corresponde a la Fiscalía General de Justicia del Estado:
+###### ARTÍCULO 36.
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2019)</small>
+La Dirección General, tendrá las atribuciones siguientes:
 
-I. Capacitar al personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres, tipos de violencia contra las mujeres, delitos que se cometen por razones de género, protocolos de actuación y atención a mujeres víctimas de violencia, perfiles y patrones de conducta de víctimas y victimarios, así como de lineamientos para la integración adecuada de carpetas de investigación;
+I. Prever, planear, organizar, dirigir y controlar acciones vinculadas con los objetivos del Sistema DIF Tamaulipas, con fundamento en la Ley y las disposiciones legales aplicables; diseñando, ejecutando y supervisando estrategias y herramientas de asistencia social y de acción comunitaria que conlleven al desarrollo integral de la población objetivo;
 
-II. Promover la especialización de los agentes del Ministerio Público en materia de derechos humanos de las mujeres;
+II. Elaborar los planes de trabajo, presupuestos, informe de actividades y estados financieros del Sistema DIF Tamaulipas;
 
-III. Proporcionar a las víctimas orientación, asesoría y asistencia jurídica y psicológica para su eficaz atención y protección;
+III. Celebrar los convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Sistema DIF Tamaulipas;
 
-IV. Dictar las medidas necesarias para que la víctima reciba atención médica de emergencia;
+IV. Establecer la coordinación necesaria con organizaciones internacionales, nacionales y estatales para la realización de acciones de asistencia social;
 
-V. Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de víctimas atendidas y demás datos que se requieran en virtud de lo establecido en la presente Ley;
+V. Emitir los nombramientos del personal y llevar las relaciones laborales, de acuerdo con las disposiciones legales aplicables;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+VI. Representar al Sistema DIF Tamaulipas con facultades generales para actos de administración, pleitos y cobranzas, así como en aquellos que requieran cláusulas especiales conforme a las leyes, y delegar dichas facultades a terceros mediante poderes especiales;
 
-VI. Proporcionar de manera periódica la información completa y oportuna para el Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia contra las Mujeres;
+VII. Vigilar se otorgue prioridad a la población vulnerable del Estado, con acciones de asistencia social;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+VIII. Determinar los mecanismos para el funcionamiento administrativo del Sistema DIF Tamaulipas;
 
-VII. Brindar a las víctimas la información integral sobre las instituciones públicas o privadas encargadas de su atención;
+IX. Atender las necesidades detectadas de la población vulnerable en los recorridos de la persona titular de Presidencia del Sistema DIF Tamaulipas; y
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+X. Las demás que le asigne la Junta de Gobierno y, en su caso, las leyes, reglamentos, decretos y acuerdos correspondientes.
 
-VIII. Proporcionar a las mujeres información objetiva que les permita tener plena conciencia de su situación de víctima;
+###### ARTÍCULO 37.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+La Secretaría Particular de la Dirección General, tendrá las atribuciones siguientes:
 
-IX. Promover la cultura de respeto a los derechos humanos de las mujeres y garantizar la seguridad de quienes denuncian;
+I. Coordinar la agenda de la persona titular de la Dirección General, conciliando y organizando las audiencias, reuniones y giras de trabajo que ésta dirija y en las que deba participar, para cuyo efecto atenderá los procedimientos, la logística y el protocolo de las instancias que las organicen;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+II. Organizar y planificar acciones administrativas que asistan las necesidades de la Dirección General;
 
-X. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+III. Atender a las personas que requieran audiencia con la persona titular de la Dirección General, analizando los asuntos a tratar para canalizarlos sin demora, en su caso, a las áreas correspondientes, dando seguimiento a la resolución oportuna de dichos asuntos;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+IV. Solicitar la calendarización mensual de actividades, eventos o reuniones de las unidades administrativas del Sistema DIF Tamaulipas a fin de enterar al titular de la Dirección General;
 
-XI. Las demás previstas para el cumplimiento de la presente Ley,
+V. Programar, concertar y organizar las reuniones de trabajo y los acuerdos que disponga la persona titular de la Dirección General para el mejor funcionamiento del Sistema DIF Tamaulipas, proporcionando la asistencia necesaria;
 
-###### Artículo 37.
+VI. Coordinar y llevar un control actualizado de los directorios que requiera el Sistema DIF Tamaulipas para el ejercicio de sus funciones; y
 
-Corresponde a la Secretaría de Educación:
+VII. Solicitar y coordinar la entrega de avances y resultados de las unidades administrativas del Sistema DIF Tamaulipas a fin de enterar al titular de la Dirección General; y
 
-I. Definir en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos humanos;
+VIII. Las demás que en el ámbito de su competencia le delegue la superioridad.
 
-II. Desarrollar programas educativos, en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las mujeres, así como el respeto a su dignidad; en todo caso, estos programas estarán dirigidos a:
+###### ARTÍCULO 38.
 
-a) Desarrollar en niñas y niños del nivel educativo preescolar el aprendizaje en la resolución pacífica de conflictos;
+El Departamento de la Secretaría Particular, tendrá las atribuciones siguientes:
 
-b) Desarrollar en el alumnado de educación primaria y secundaria la capacidad de adquirir habilidades para la resolución pacífica de conflictos, y para comprender y respetar la igualdad entre los hombres y las mujeres; y
+I. Coordinar la agenda de la persona titular de la Dirección General, para cuyo efecto atenderá los procedimientos, la logística y el protocolo de las instancias que las organicen;
 
-c) Desarrollar en el alumnado del nivel medio superior y superior la capacidad de consolidar su madurez personal, social y ética, que le permita contribuir a la eliminación de la discriminación hacia las mujeres;
+II. Llevar un control actualizado de la calendarización de actividades, eventos o reuniones de las unidades administrativas del Sistema DIF Tamaulipas a fin de enterar al titular de la Dirección General;
 
-III. Promover acciones y mecanismos que favorezcan el adelanto de las mujeres en todas las etapas del proceso educativo;
+III. Asistir las reuniones de trabajo de la persona titular de la Dirección General, proporcionando la asistencia técnica necesaria para su correcta ejecución;
 
-IV. Promover el derecho de las niñas y mujeres a la educación, acceso, permanencia y terminación de estudios en todos los niveles, a través de la obtención de becas y otras subvenciones;
+IV. Capturar los acuerdos que disponga la persona titular de la Dirección General para el mejor funcionamiento del Sistema DIF Tamaulipas;
 
-V. Desarrollar investigación multidisciplinaria encaminada a crear modelos de detección de la violencia contra las niñas y las mujeres en los centros educativos;
+V. Llevar un control actualizado de los indicadores de las unidades administrativas del Sistema DIF Tamaulipas a fin de enterar al titular de la Dirección General; y
 
-VI. Capacitar al personal docente en derechos humanos de las mujeres y las niñas;
+VI. Las demás que en el ámbito de su competencia le delegue la superioridad.
 
-VII. Incorporar en los programas educativos, en todos los niveles de la instrucción, el conocimiento y respeto a los derechos humanos de las mujeres, así como contenidos educativos tendientes a modificar los modelos de conducta sociales y culturales que impliquen prejuicios y que estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y a los hombres;
+###### ARTÍCULO 39.
 
-VIII. Formular y aplicar programas que permitan la detección temprana de los problemas de violencia contra las mujeres en los centros educativos, para que se dé una primera respuesta urgente a las alumnas, maestras o educadoras, así como al personal administrativo o de intendencia, que sufren algún tipo de violencia;
+La Secretaría Técnica, tendrá las atribuciones siguientes:
 
-IX. Diseñar y difundir materiales educativos que promuevan la prevención y atención de la violencia contra las mujeres;
+I. Promover las actividades conducentes a la formulación, instrumentación, control y evaluación de los planes y programas a que se refiere la Ley Estatal de Planeación;
 
-X. Proporcionar acciones formativas a todo el personal de los centros educativos, en materia de derechos humanos de las niñas y las mujeres y políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+II. Establecer, coordinar y supervisar la operación de los procesos de planeación, incubación de proyectos, programación, organización, seguimiento y evaluación del Sistema DIF Tamaulipas, considerando la aplicación de las políticas, normas y lineamientos emitidos por el Sistema DIF Nacional y las demás disposiciones legales aplicables;
 
-XI. Eliminar de los programas educativos los materiales que hagan apología de la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres;
+III. Llevar a cabo actividades de seguimiento, investigación, análisis, estudios estadísticos y diagnósticos acerca del impacto social de programas sustantivos del Sistema DIF Tamaulipas;
 
-XII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
+IV. Coadyuvar y coordinar a las unidades administrativas del Sistema DIF Tamaulipas para la formulación o modificación de las normas, lineamientos, políticas, objetivos y otras normativas para el desarrollo eficiente y eficaz del organismo;
 
-XIII. Participar en el diseño, con una visión transversal, de la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
+V. Integrar, analizar y supervisar el programa operativo anual del Sistema DIF Tamaulipas, en congruencia con el Plan Estatal de Desarrollo, los programas institucionales y sectoriales, conforme a las disposiciones legales aplicables;
 
-XIV. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+VI. Coadyuvar con la Dirección General en la coordinación de los trabajos de las unidades administrativas del Sistema DIF Tamaulipas, para la unificación de criterios y la aplicación de la metodología de planeación e incorporación de los contenidos técnicos y tecnológicos en los programas correspondientes;
 
-XV. Las demás previstas para el cumplimiento de la presente Ley.
+VII. Realizar análisis y evaluación sistemática y periódica de la estructura organizacional del organismo, así como del estado y avances de los programas y los resultados de su ejecución, de su congruencia con los objetivos y prioridades establecidas en materia de salud y asistencia social, además de promover y gestionar acciones para el mejoramiento de los procesos y estructura del Sistema DIF Tamaulipas;
 
-###### Artículo 38.
+VIII. Compilar y sistematizar la información generada en las diferentes unidades administrativas del Sistema DIF Tamaulipas relativas a los procesos de planeación y evaluación;
 
-Corresponde a la Secretaría de Salud:
+IX. Definir y proponer indicadores de las áreas del Sistema DIF Tamaulipas que son requeridos por el Sistema DIF Nacional y/o las dependencias del Estado, cuya normativa así lo indique;
 
-I. En el marco de la política de salud integral de las mujeres, diseñar con perspectiva de género, la política de prevención, atención y erradicación de la violencia en su contra;
+X. Coordinar la integración del informe de la Presidenta del Patronato del Sistema DIF Tamaulipas y fungir como enlace para la integración de los Informes del Gobernador;
 
-II. Brindar por medio de las instituciones del sector salud de manera integral e interdisciplinaria atención médica y psicológica con perspectiva de género a las víctimas;
+XI. Coordinar el desarrollo de propuestas y modificaciones de diseño y modelos nuevos de infraestructura de las unidades administrativas y centros asistenciales del Sistema DIF Tamaulipas, con la Secretaría de Obras Públicas y la Secretaría de Finanzas;
 
-III. Crear programas de capacitación para el personal del sector salud, respecto de la violencia contra las mujeres y se garanticen la atención a las víctimas y la aplicación de las normas oficiales mexicanas aplicables;
+XII. Registrar y dar seguimiento ante la Secretaría de Finanzas a los programas y proyectos que mediante el Sistema de Registro de Cartera de Inversión, SIRECI, solicite la Dirección General;
 
-IV. Establecer programas y servicios profesionales y eficaces, con horario de veinticuatro horas, en las dependencias públicas relacionadas con la atención de la violencia contra las mujeres;
+XIII. Verificar periódicamente la relación que guarden los programas y presupuestos que operan las unidades administrativas del Sistema DIF Tamaulipas, así como los resultados de su ejecución, a fin de adoptar las medidas necesarias que corrijan las desviaciones detectadas;
 
-V. Difundir en las instituciones del sector salud, material referente a la prevención y atención de la violencia contra las mujeres;
+XIV. Convocar a las unidades administrativas del Sistema DIF Tamaulipas para la elaboración del presupuesto del siguiente ejercicio fiscal;
 
-VI. Canalizar a las víctimas y a los agresor (sic) a las instituciones que prestan atención y protección a las mujeres;
+XV. Apoyar en la publicación de las actas y demás documentos que se autoricen en las sesiones de Junta de Gobierno, en el Registro Estatal de Organismos Descentralizados, REODE o en el Periódico Oficial del Estado de Tamaulipas, según corresponda;
 
-VII. Mejorar la calidad de la atención, que se preste a las víctimas;
+XVI. Fungir como enlace de Control Interno, de Mejora Regulatoria, del Registro de Trámites y Servicios y del Registro Estatal de Organismos Descentralizados, con base en la normatividad aplicable;
 
-VIII. Participar activamente, en la ejecución del Programa, en el diseño de nuevos modelos de prevención, atención y erradicación de la violencia contra las mujeres, en colaboración con las demás autoridades encargadas de la aplicación de la presente Ley;
+XVII. Desarrollar e implementar sistemas tecnológicos que generen información veraz y oportuna; así como promover el uso adecuado y funcionamiento permanente de la infraestructura tecnológica del Sistema DIF Tamaulipas;
 
-IX. Asegurar que en la prestación de los servicios del sector salud sean respetados los derechos humanos de las mujeres;
+XVIII. Diseñar el programa de capacitación anual de acuerdo a las necesidades de la Dirección;
 
-X. Capacitar al personal del sector salud, con la finalidad de que detecten la violencia contra las mujeres;
+XIX. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente, así como coadyuvar con las Direcciones que integran el Sistema DIF Tamaulipas para la elaboración de la proyección presupuestal de cada Dirección; y
 
-XI. Apoyar a las autoridades encargadas de efectuar investigaciones en materia de violencia contra las mujeres, proporcionando la siguiente información:
+XX. Las demás que en el ámbito de su competencia le delegue la superioridad.
 
-a) La relativa al número de víctimas que se atiendan en los centros y servicios hospitalarios;
+###### ARTÍCULO 40.
 
-b) La referente a las situaciones de violencia que sufren las mujeres;
+El Departamento de Planeación y Proyectos, tendrá las atribuciones siguientes:
 
-c) El tipo de violencia por la cual se atendió a la víctima;
+I. Desarrollar estudios de investigación documental y en campo, para la elaboración de diagnósticos que permitan conocer la problemática, así como sus causales y efectos en la población objetivo del Sistema DIF Tamaulipas;
 
-d) Los efectos causados por la violencia en las mujeres, y
+II. Generar acuerdos con instituciones y asociaciones de índole social que permitan acelerar o mejorar el impacto de las acciones de asistencia social llevadas a cabo por el Sistema DIF Tamaulipas;
 
-e) Los recursos erogados en la atención de las víctimas;
+III. Asesorar al personal de las unidades administrativas del Sistema DIF Tamaulipas, en la aplicación de la Metodología del Marco Lógico, MML, y del Presupuesto basado en Resultados, PbR, para el diseño, ejecución y seguimiento de los programas presupuestales a su cargo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+IV. Generar, gestionar y obtener estudios académicos sobre la realidad social y económica de la población objetivo del Sistema DIF Tamaulipas;
 
-XII. Proporcionar de manera periódica la información completa y oportuna para el Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia contra las Mujeres;
+V. Aplicar censos, encuestas, estudios y cualquier otro medio para la obtención de información relevante para la aplicación, obtención de resultados o modificación de los programas del Sistema DIF Tamaulipas;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+VI. Apoyar en la integración del Plan Estatal de Desarrollo, Plan Institucional y demás documentos de planeación, aportando los elementos correspondientes para sustentar las estrategias de Asistencia Social;
 
-XIII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+VII. Integrar, dar seguimiento y participar en la elaboración de los programas operativos anuales del Sistema DIF Tamaulipas y contribuir en la programación presupuestal de las unidades administrativas;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+VIII. Apoyar en el diseño de los programas presupuestales y proyectos estratégicos de nueva creación, así como en las gestiones para su autorización y publicación, ante las instancias y conforme a la normatividad correspondientes, para su entrada en vigor;
 
-XIV. Las demás previstas para el cumplimiento de la presente Ley.
+IX. Proponer nuevos proyectos, fijando objetivos, metas, alcances, coberturas y prioridades; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+X. Las demás que en el ámbito de su competencia le delegue la superioridad.
 
-###### Artículo 39.
+###### ARTÍCULO 41.
 
-Corresponde a la Secretaría de Desarrollo Social:
+El Departamento de Evaluación y Seguimiento, tendrá las atribuciones siguientes:
 
-I. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
+I. Llevar a cabo actividades de seguimiento y evaluación del desempeño de los programas del Sistema DIF Tamaulipas, para medir su impacto y facilitar la toma de decisiones, para el logro de las metas programadas;
 
-II. Coadyuvar en la promoción de los Derechos Humanos de las Mujeres;
+II. Coordinar las actividades de análisis y actualización del manual de organización, manual de procedimientos y demás normatividad que regula el funcionamiento de las unidades administrativas del Sistema DIF Tamaulipas;
 
-III. Formular la política de desarrollo social del Estado considerando el adelanto de las mujeres y su plena participación en todos los ámbitos de la vida;
+III. Facilitar el acceso de las unidades administrativas del Sistema DIF Tamaulipas, a la normatividad vigente, para su correcta aplicación en el desempeño de sus funciones;
 
-IV. Realizar acciones tendientes a mejorar las condiciones de las mujeres y sus familias que se encuentren en situación de exclusión y de pobreza;
+IV. Analizar y evaluar periódicamente la estructura organizacional y los procesos de las unidades administrativas del Sistema DIF Tamaulipas, conforme a los objetivos y metas establecidas en materia de asistencia social;
 
-V. Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, para lograr el adelanto de las mujeres para su desarrollo integral y la eliminación de las desventajas de género;
+V. Diseñar y aplicar metodologías que permitan evaluar pertinentemente el avance de los programas del Sistema DIF Tamaulipas;
 
-VI. Promover políticas de prevención y atención de la violencia contra las mujeres;
+VI. Establecer mecanismos de monitoreo y evaluación del desempeño mediante indicadores estratégicos, de gestión, calidad y productividad, en las áreas del Sistema DIF Tamaulipas que así lo requieran;
 
-VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
+VII. Integrar y poner a disposición de la persona titular de la Secretaría Técnica, la información estadística histórica sobre el desarrollo de los programas, que permita comparar los resultados actuales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+VIII. Diseñar e implementar un esquema de reporte de información, avances y resultados obtenidos por las unidades administrativas del Sistema DIF Tamaulipas, para la integración de reportes e informes ejecutivos;
 
-VIII. Proporcionar de manera periódica la información completa y oportuna para el Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia contra las Mujeres;
+IX. Generar y mantener actualizado un banco de datos confiable sobre el desarrollo y los resultados de los programas que inciden en el desarrollo social en general;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+X. Apoyar a la persona titular de la Secretaría Técnica, en los requerimientos de la Contraloría Gubernamental, respecto a las disposiciones aplicables en materia de control interno y mejora regulatoria, así como de la información requerida para el Registro Estatal de Trámites y Servicios, RETyS y del Registro Estatal de Organismos Descentralizados, REODE; y
 
-IX. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+XI. Las demás que en el ámbito de su competencia le delegue la superioridad.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+###### ARTÍCULO 42.
 
-X. Las demás previstas para el cumplimiento de la presente Ley.
+La Subdirección de Informática, tendrá las atribuciones siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+I. Administrar la infraestructura de cómputo y de comunicaciones de Sistema DIF Tamaulipas;
 
-###### Artículo 40.
+II. Capacitar y dar seguimiento al personal del Sistema DIF Tamaulipas, en materia del uso adecuado y óptimo de los recursos informáticos a su disposición;
 
-Corresponde a la Secretaría de Economía y Trabajo:
+III. Realizar diagnósticos periódicos a la infraestructura de cómputo y de comunicaciones del Sistema DIF Tamaulipas, para detectar áreas de oportunidad y establecer mecanismos de mejora;
 
-I. Implementar los programas necesarios para promover el empleo de mujeres víctimas de violencia para favorecer la construcción de un nuevo proyecto para sus vidas;
+IV. Realizar mantenimiento preventivo y/o correctivo a los equipos de cómputo del Sistema DIF Tamaulipas para que sean usados en sus mejores condiciones;
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2016)</small>
+V. Elaborar y ejecutar plan de mantenimiento preventivo anual para toda la infraestructura de cómputo del Sistema DIF Tamaulipas;
 
-II. Implementar acciones de difusión y capacitación permanentes con el personal de los centros laborales, privilegiando una formación integral de desarrollo laboral y productivo, que elimine toda práctica de acoso laboral, con mecanismos de denuncia que incluyan asesoría legal y psicológica, así como también mecanismos para la investigación y sanción del acoso laboral, que permita el respeto a los derechos humanos y la privacidad;
+VI. Apoyar a las Unidades Administrativas del Sistema DIF Tamaulipas en la proyección de material audiovisual para sus conferencias presenciales y/o virtuales, cuando así lo soliciten a esta Subdirección;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+VII. Capacitar al personal a las Unidades Administrativas del Sistema DIF Tamaulipas, en el uso y manejo de los recursos informáticos relacionados a las actividades derivadas de sus atribuciones en diferentes actividades;
 
-III. Proporcionar de manera periódica la información completa y oportuna para el Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia contra las Mujeres;
+VIII. Promover en las Unidades Administrativas del Sistema DIF Tamaulipas y en los DIF Municipales la aplicación de tecnología informática y el desarrollo de sistemas de información para la automatización de sus procesos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+IX. Diseñar el programa de capacitación anual de acuerdo a las necesidades de la Subdirección;
 
-IV. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+X. Apoyar a la Unidad Administrativa de Recursos Humanos del Sistema DIF Tamaulipas para la elaboración de credenciales oficiales de identificación del personal;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+XI. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Subdirección; y
 
-V. Las demás previstas para el cumplimiento de la presente Ley.
-
-###### Artículo 41.
-
-Corresponde al Sistema para el Desarrollo Integral de la Familia del Estado:
-
-I. Participar en la elaboración y ejecución del Programa;
-
-II. Fomentar la participación de los sectores privado, social y académico en las acciones de asistencia a las mujeres víctimas de violencia, de sus hijas e hijos, auxiliándose de los patronatos, asociaciones o fundaciones y de los particulares;
-
-III. Brindar asistencia social a las víctimas de violencia, en todas sus unidades de atención;
-
-IV. Ejecutar campañas públicas de prevención de la violencia contra las mujeres;
-
-V. Impulsar la formación de promotoras y promotores comunitarios para la ejecución de programas preventivos de la violencia contra las mujeres;
-
-VI. Celebrar convenios de cooperación, coordinación y concertación en la materia,
-
-VII. Impulsar procesos de capacitación sobre la violencia contra las mujeres para sus servidoras y servidores públicos; y
-
-VIII. Las demás previstas para el cumplimiento de la presente Ley.
-
-###### Artículo 42.
-
-Corresponde al Instituto Estatal de la Juventud;
-
-I. Ejecutar las acciones necesarias para la prevención, atención y erradicación de la violencia en contra de las mujeres;
-
-II. Celebrar convenios de cooperación, coordinación y concertación en la materia;
-
-III. Participar en el Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
-
-IV. Coadyuvar con los objetivos de esta Ley; y
-
-V. Las demás previstas para el cumplimiento de la presente Ley.
-
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2018)</small>
+XII. Las demás que en el ámbito de su competencia le delegue la superioridad.
 
 ###### Artículo 42 Bis.
 
@@ -913,1205 +873,1801 @@ X. Promover un sentido crítico en actividades culturales que tengan referencias
 
 XI. Las demás previstas para el cumplimiento de la presente Ley.
 
-###### Artículo 43.
+###### ARTÍCULO 43.
 
-Corresponde a los Municipios, de conformidad con esta Ley y acorde con la perspectiva de género y al principio de transversalidad, las siguientes atribuciones:
+El Departamento de Programación, tendrá las atribuciones siguientes:
 
-I. Implementar organismos públicos descentralizados o unidades administrativas especializadas dedicadas a la promoción del desarrollo integral de las mujeres y la atención de su problemática;
+I. Proveer a las unidades administrativas del Sistema DIF Tamaulipas de soluciones informáticas, mediante el desarrollo, programación, implantación, formación y mantenimiento de software, programas, aplicaciones, sistemas, máquinas y/o herramientas que permitan la automatización de sus procesos;
 
-II. Expedir Reglamentos Municipales encaminados a lograr la participación conjunta y coordinada de la Administración Pública Municipal para garantizar el Derecho de las Mujeres a una Vida Libre de Violencia en su ámbito territorial;
+II. Elaborar planes de trabajo para el desarrollo e implantación de nuevos sistemas de información para las unidades administrativas del Sistema DIF Tamaulipas;
 
-III. Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal orientada a erradicar la violencia contra las mujeres;
+III. Diseñar e implementar aplicativos de software que permitan el análisis y procesamiento de la información generada por los sistemas de información de las unidades administrativas del Sistema DIF Tamaulipas, que permitan una visualización concreta de los datos para la mejor toma de decisiones;
 
-IV. Coadyuvar con la Federación y el Estado, en la adopción y consolidación del Sistema Nacional y el Sistema Estatal para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
+IV. Dar mantenimiento a los servidores de aplicaciones y de bases de datos de los sistemas de información para asegurar la fiabilidad y alta disposición de la información;
 
-V. Promover, en coordinación con las dependencias y entidades competentes de la Administración Pública Estatal, cursos de capacitación a las personas que atienden a víctimas;
+V. Realizar actualizaciones a los sistemas de información que integren mejoras en las funcionalidades, operación, experiencia de usuario y/o disponibilidad de información a través de reportes;
 
-VI. Ejecutar las acciones necesarias para el cumplimiento del Programa Integral y el Programa dentro su municipio;
+VI. Capacitar al personal a las unidades administrativas del Sistema DIF Tamaulipas, en el uso y manejo de los sistemas de información desarrollados para su propósito; y
 
-VII. Apoyar la creación de programas de reeducación integral para los agresores;
+VII. Las demás que en el ámbito de su competencia le delegue la superioridad.
 
-VIII. Promover programas educativos para eliminar la violencia contra las mujeres;
+### CAPÍTULO II. DE LAS ATRIBUCIONES DE LA PRESIDENCIA DEL PATRONATO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TAMAULIPAS
 
-IX. Fortalecer los refugios existentes y apoyar la creación de refugios que se consideren necesarios para víctimas;
+###### ARTÍCULO 44.
 
-X. Participar y coadyuvar en la prevención, atención y erradicación de la violencia contra las mujeres;
+El Departamento de Procesamiento de Información, tendrá las atribuciones siguientes:
 
-XI. Llevar a cabo, de acuerdo con el Sistema Nacional y el Sistema, programas de información a la población respecto de la violencia contra las mujeres;
+I. Realizar análisis descriptivo y cualitativo de la información generada por los sistemas de información implantados en las unidades administrativas del Sistema DIF Tamaulipas para la generación de indicadores que apoyen la toma de decisiones;
 
-XII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+II. Elaborar reportes sobre las solicitudes de información hechas por las unidades administrativas del Sistema DIF Tamaulipas sobre la información generada por sus respectivos sistemas de información;
 
-XIII. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta Ley u otros ordenamientos jurídicos.
+III. Apoyar en la actualización de datos en los sistemas de información de las unidades administrativas del Sistema DIF Tamaulipas;
 
-### CAPITULO SEXTO. De las Comisiones del Ayuntamiento
+IV. Elaborar informes de tendencias de datos y/o indicadores que tengan comportamientos atípicos en el proceso operativo de las unidades administrativas del Sistema DIF Tamaulipas; y
 
-###### Artículo 44.
+V. Las demás que en el ámbito de su competencia le delegue la superioridad.
 
-Las autoridades Estatales y Municipales, en el ámbito de sus respectivas competencias, deberán prestar servicios de atención a las víctimas, consistentes en:
+###### ARTÍCULO 45.
 
-I. Aplicar la Ley de Atención y Apoyo a las Víctimas y a los Ofendidos de Delitos en el Estado de Nuevo León en lo conducente;
+La Dirección de Administración y Finanzas, tendrá las atribuciones siguientes:
 
-II. Fomentar la adopción y aplicación de acciones y programas, por medio de los cuales se les brinde protección;
+I. Planear y programar las actividades administrativas en apego a las leyes y reglamentos, así como a las normas correspondientes;
 
-III. Promover la atención a víctimas por parte de las diversas instituciones del sector salud, así como de atención y de servicio, tanto públicas como privadas o sociales;
+II. Administrar el uso adecuado y eficaz del presupuesto destinado a los recursos humanos, materiales y financieros asignados al Sistema DIF Tamaulipas;
 
-IV. Proporcionar a las víctimas la atención médica, psicológica y jurídica que requieran, de manera integral, gratuita y expedita;
+III. Dar apoyo a las diferentes unidades administrativas que integran el Sistema DIF Tamaulipas en materia de servicios generales;
 
-V. Proporcionar un refugio a las víctimas, y
+IV. Establecer los lineamientos y políticas generales sobre administración, conservación, mantenimiento y optimización de los recursos humanos, materiales y la prestación de servicios generales;
 
-VI. Informar a la autoridad competente de los casos de violencia que ocurran en los centros educativos.
+V. Coordinar y llevar a cabo la ejecución del ejercicio del presupuesto anual de egresos del Sistema DIF Tamaulipas, a través de la correcta aplicación de las partidas asignadas al mismo;
 
-###### Artículo 45.
+VI. Vigilar el cumplimiento de las políticas y normas que en materia de presupuesto y contabilidad establezcan la Secretaría de Finanzas y la Secretaría de Administración, del Gobierno del Estado;
 
-Las víctimas de cualquier tipo de violencia tendrán los derechos siguientes:
+VII. Llevar el registro, control y actualización permanente de los inventarios y resguardos del Sistema DIF Tamaulipas;
 
-I. Ser tratada con respeto a su integridad y al ejercicio pleno de sus derechos;
+VIII. Verificar que se presten con oportunidad y eficiencia los servicios de correspondencia, mensajería, vigilancia, transporte y demás relativos a la prestación de servicios generales;
 
-II. Contar con protección inmediata y efectiva por parte de las autoridades;
+IX. Establecer, en coordinación permanente con las demás unidades administrativas del Sistema DIF Tamaulipas, los mecanismos que satisfagan los requerimientos de personal y de bienes materiales, así como la ejecución de los mismos;
 
-III. Recibir información veraz y suficiente que les permita decidir sobre las opciones de atención;
+X. Coadyuvar en la integración de la información requerida para elaborar el informe de la Presidencia del Sistema DIF Tamaulipas en cuanto a los estados financieros y el proyecto de cuenta pública;
 
-IV. Contar con asesoría jurídica gratuita y expedita;
+XI. Establecer los mecanismos y administrar las actividades de selección, capacitación, motivación y desarrollo del personal, incluyendo el servicio social, así como la contratación del personal;
 
-V. Recibir atención médica y psicológica;
+XII. Realizar los trámites necesarios para la adquisición de bienes muebles, inmuebles e intangibles y contratación de servicios necesarios para el funcionamiento de las Direcciones y programas, de conformidad con lo establecido en las normas respectivas, como parte integrante del Comité Técnico de Adquisiciones;
 
-VI. Contar con un refugio, mientras lo necesite;
+XIII. Determinar las necesidades de capacitación de las distintas unidades administrativas del Sistema DIF Tamaulipas y diseñar el programa de capacitación anual, de acuerdo a las necesidades de las mismas;
 
-VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o discriminación;
+XIV. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección, así como las de gasto corriente de todo el Sistema DIF Tamaulipas; y
 
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+XV. Las demás que en el ámbito de su competencia le delegue la superioridad.
 
-VIII. En los casos de violencia familiar, acudir a los refugios con sus familiares, niñas, niños y adolescentes o incapaces que habiten en el mismo domicilio; y
+###### ARTÍCULO 46.
 
-IX. Los demás señalados en esta Ley y otras disposiciones legales.
+El Departamento de Servicios Generales, tendrá las atribuciones siguientes:
 
-###### Artículo 46.
+I. Mantener las instalaciones, mobiliario y equipo, en óptimas condiciones para lograr la rentabilidad de los bienes muebles e inmuebles del organismo;
 
-El agresor deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente.
+II. Suministrar el apoyo logístico y de personal en materia de servicios generales durante y después de la realización de eventos del organismo;
 
-### CAPITULO SEPTIMO. De las Relaciones del Ayuntamiento con la Administración Pública Municipal
+III. Organizar adecuadamente al personal adscrito al departamento, mediante la asignación precisa de responsabilidades, con el propósito de cubrir íntegramente todas las áreas del organismo;
 
-###### Artículo 47.
+IV. Acondicionar los espacios necesarios para la realización de los eventos especiales organizados por el organismo;
 
-En los casos en que persista algún riesgo para la integridad física de las víctimas y ofendidos de violencia, la autoridad u organismo competente deberá canalizar a las víctimas y ofendidos de violencia, a los refugios en los términos de esta Ley.
+V. Vigilar el uso adecuado de las instalaciones y equipo, realizando inspecciones periódicas en edificios, para detectar anomalías que requieran su intervención, en coordinación con el responsable del área, elaborando la bitácora correspondiente;
 
-###### Artículo 48.
+VI. Proporcionar los servicios de limpieza general y mantenimiento de inmuebles y jardines del organismo;
 
-El Estado y los Municipios se coordinarán con los sectores social y privado para impulsar la creación de refugios para la atención a las víctimas de violencia.
+VII. Verificar y supervisar el estado que guarda el parque vehicular y el uso que le dan sus resguardantes, mediante la revisión periódica de las unidades, con el propósito de optimizar su rendimiento y maximizar su vida útil;
 
-###### Artículo 49.
+VIII. Coordinar y supervisar el mantenimiento preventivo y correctivo del parque vehicular asignado al organismo para tener capacidad de respuesta en la prestación del servicio;
 
-Las personas que laboren en los refugios deberán contar en su caso, con cédula profesional correspondiente a la especialidad en que desarrollen su trabajo y en ningún caso podrán haber sido sancionados por ejercer algún tipo de violencia.
+IX. Proporcionar los vehículos oficiales y choferes necesarios para la operatividad, siempre que los recursos con los que cuente el área solicitante sean insuficientes;
 
-Estos refugios deberán ser registrados y supervisados por la Secretaría de Salud. El Sistema deberá emitir el Reglamento para el funcionamiento de los refugios.
+X. Tramitar ante la Dirección de Patrimonio Estatal y /o Sistema DIF Nacional la baja, los resguardos, placas y tarjetas de circulación del parque vehicular del Sistema DIF Tamaulipas;
 
-###### Artículo 50.
+XI. Tramitar el seguro automotriz del parque vehicular del Sistema DIF Estatal;
 
-Corresponde a los refugios, desde la perspectiva de género:
+XII. Supervisar físicamente las unidades entregadas en comodato a los DIF Municipales, así como la elaboración de los comodatos respectivos; y
 
-I. Aplicar el Programa;
+XIII. Las demás que en el ámbito de su competencia le delegue la superioridad
 
-II. Velar por la seguridad de las mujeres que se encuentren en ellos;
+### CAPÍTULO III
 
-III. Proporcionar a las mujeres la atención necesaria para su recuperación física y psicológica, que les permita participar plenamente en la vida pública, social y privada;
+DE LAS ATRIBUCIONES DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS A LA PRESIDENCIA DEL PATRONATO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TAMAULIPAS
 
-IV. Dar información a las víctimas sobre las instituciones encargadas de prestar asesoría y asistencia jurídica gratuita;
+###### ARTÍCULO 47.
 
-V. Brindar a las víctimas la información necesaria que les permita decidir sobre las opciones de atención;
+El Departamento de Compras, tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+I. Llevar a cabo los procedimientos de adquisiciones correspondientes, apegados a lo establecido a la Ley de Adquisiciones para la Administración Pública del Estado de Tamaulipas (sic) sus Municipios;
 
-VI. Permitir la permanencia de las víctimas con las niñas, niños y adolescentes o incapaces que habiten en el mismo domicilio.
+II. Difundir a las unidades administrativas que integran el Sistema DIF Tamaulipas, las políticas y bases para la adquisición, suministro de recursos y prestaciones de los servicios de su competencia;
 
-VII. Contar preferentemente con personal debidamente capacitado y especializado en la materia; y
+III. Conducir los procesos licitatorios del Sistema DIF Tamaulipas para la adquisición de bienes o contratación de servicios, arrendamientos, obras de mantenimiento y conservación menor de inmuebles y servicios relacionados con las mismas, conforme a lo dispuesto por la Ley de Adquisiciones para la Administración Pública del Estado de Tamaulipas y la demás normatividad aplicable;
 
-VIII. Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
+IV. Realizar, en coordinación con la Dirección Jurídica y Transparencia del Sistema DIF Tamaulipas, la elaboración de los contratos para la adquisición de bienes o contratación de servicios, arrendamientos, obras de mantenimiento y conservación menor de inmueble, así como los servicios relacionados con las mismas;
 
-###### Artículo 51.
+V. Resguardar las garantías de cumplimiento que se presentan en el desarrollo de los procesos licitatorios;
 
-Los refugios deberán ser lugares seguros para las víctimas, por lo que no se podrá proporcionar su ubicación a personas no autorizadas para acudir a ellos.
+VI. Gestionar las cotizaciones correspondientes para la adquisición de bienes o contratación de servicios; y
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2018)</small>
+VII. Las demás que en el ámbito de su competencia le delegue la superioridad.
 
-###### Artículo 52.
+###### ARTÍCULO 48.
 
-Los refugios deberán prestar a las víctimas y, en su caso, a las niñas, niños y adolescentes o incapaces que habiten en el mismo domicilio, los siguientes servicios especializados y gratuitos:
+El Departamento de Finanzas, tendrá las atribuciones siguientes:
 
-I. Hospedaje;
+I. Controlar y analizar los registros contables realizados por el Sistema DIF Tamaulipas, de acuerdo a la normatividad contable;
 
-II. Alimentación;
+II. Orientar la planeación, operación, registro y control de los ingresos y egresos del Sistema DIF Tamaulipas, así como los relativos a depósitos bancarios e inversiones;
 
-III. Vestido y calzado;
+III. Analizar y elaborar conciliaciones bancarias;
 
-IV. Servicio médico;
+IV. Elaborar el cálculo de las depreciaciones y amortizaciones contables del activo fijo para ser reflejado en los estados financieros;
 
-V. Asesoría y asistencia jurídica;
+V. Elaborar los informes de estados financieros, la cuenta pública, así como los informes extraordinarios a los que se esté obligado presentar a las autoridades fiscalizadoras internas y externas;
 
-VI. Apoyo psicológico especializado;
+VI. Realizar la entrega oportuna de la información contable para transparentar el origen y aplicación de los recursos públicos;
 
-VII. Programas reeducativos integrales a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada;
+VII. Dar seguimiento y respuesta en lo correspondiente al Departamento de Finanzas, a las auditorias que se realicen al Sistema DIF Tamaulipas y a las observaciones realizadas en las mismas;
 
-VIII. Capacitación, para que puedan adquirir conocimientos para el desempeño de una actividad laboral; y
+VIII. Realizar el entero de impuestos federales que sean inherentes a las actividades que se realicen, así como en su carácter de retenedor de impuestos, para su oportuna presentación, pago y timbrado de la nómina dentro de los plazos establecidos por el SAT;
 
-IX. Bolsa de trabajo, con la finalidad de que puedan tener una actividad laboral remunerada en caso de que lo soliciten.
+IX. Realizar transferencias y consultas de los saldos de las diversas cuentas que se manejan;
 
-###### Artículo 53.
+X. Tramitar el pago oportuno de viáticos a los servidores públicos comisionados para desempeñar sus funciones fuera del lugar de adscripción;
 
-La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses, a menos de que persista su inestabilidad física o psicológica o su situación de riesgo.
+XI. Gestionar la apertura de cuentas ante las instituciones bancarias;
 
-###### Artículo 54.
+XII. Revisar y desarrollar arqueos de caja, así como establecer los controles necesarios para el óptimo funcionamiento;
 
-Para efectos del artículo anterior, el personal médico, psicológico y jurídico del refugio evaluará la condición de las víctimas.
+XIII. Revisar trámites correspondientes a pagos directos a proveedores y de servicios básicos, así como las cajas chicas de las distintas áreas del Sistema DIF Tamaulipas, para posteriormente realizar el pago correspondiente;
 
-###### Artículo 55.
+XIV. Recepción y revisión de los trámites para pago de apoyos a personas, de gastos a comprobar y gastos de representación, para su pago en cheques;
 
-En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
+XV. Control de los diversos subsidios por la Secretaría de Finanzas;
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2019)</small>
+XVI. Apoyo a la Dirección de Administración y Finanzas en la integración de los informes programáticos-presupuestales que el Sistema DIF Tamaulipas deba presentar;
 
-###### Artículo 56.
+XVII. Coordinar la ejecución del ejercicio del presupuesto anual de egresos del Sistema DIF Tamaulipas, a través de la correcta aplicación de las partidas asignadas al mismo;
 
-En los casos previstos en esta Ley, serán aplicables supletoriamente a esta Ley el Código Civil para el Estado de Nuevo León, el Código de Procedimientos Civiles para el Estado de Nuevo León, el Código Penal para el Estado de Nuevo León, el Código Nacional de Procedimientos Penales, la Ley de Prevención y Atención Integral de la Violencia Familiar en el Estado de Nuevo León, la Ley para la Igualdad entre Mujeres y Hombres del Estado de Nuevo León, la Ley del Instituto Estatal de las Mujeres y la Ley que Crea la Comisión Estatal de Derechos Humanos y las demás leyes relativas a la materia.
+XVIII. Cumplir con las políticas y normas que en materia de presupuesto y contabilidad que (sic) establezcan la Secretaría de Finanzas y Secretaría de Administración;
+
+XIX. Gestión de los trámites ante la Secretaría de Finanzas;
+
+XX. Colaborar en la elaboración del Presupuesto Anual de Egresos;
+
+XXI. Administración del presupuesto de los proyectos aprobados del Sistema DIF Tamaulipas del ejercicio fiscal en curso;
+
+XXII. Apoyo a la Dirección de Administración y Finanzas en la gestión de ingresos recaudados por subsidios estatales y federales; y
+
+XXIII. Las demás que en el ámbito de su competencia le deleguen (sic) la superioridad.
+
+###### ARTÍCULO 49.
+
+El Departamento de Recursos Materiales, tendrá las atribuciones siguientes:
+
+I. Elaborar el programa operativo anual de trabajo, informando periódicamente del cumplimiento del mismo;
+
+II. Verificar semestralmente los bienes muebles propiedad del Sistema DIF Tamaulipas, con la finalidad de mantener actualizado el inventario; lo anterior conforme a las normas y procedimientos establecidos;
+
+III. Recepcionar y resguardar los bienes muebles en desuso de las distintas áreas del Sistema DIF Tamaulipas para tramitar su baja;
+
+IV. Mantener actualizado el inventario de bienes inmuebles, patrimonio del Sistema DIF Tamaulipas, coordinándose con diversas áreas para mantenerlos al corriente de sus impuestos, manifiestos y propiedad legal;
+
+V. Coordinar y controlar la operatividad de las bodegas y almacenes del Sistema DIF Tamaulipas;
+
+VI. Verificar y autorizar las facturas requisitadas de los bienes adquiridos por el Sistema DIF Tamaulipas;
+
+VII. Analizar y autorizar los requerimientos de artículos diversos para su adquisición a través del Departamento de Compras;
+
+VIII. Atender la recepción de donaciones diversas, supervisando cantidad y calidad de cada uno de los bienes, en coordinación con la Dirección de Atención a Población Prioritaria;
+
+IX. Controlar la entrada y salida de material según sea la necesidad de las áreas del Sistema DIF Tamaulipas;
+
+X. Dotar a las diversas áreas del sistema de material de oficina, mobiliario y equipo que requieran para el mejor desempeño de sus funciones;
+
+XI. Realizar trimestralmente, el inventario de las existencias de papelería y útiles de escritorio;
+
+XII. Recibir, revisar y autorizar las requisiciones al almacén, efectuadas por diversas áreas del Sistema DIF Tamaulipas;
+
+XIII. Coordinación con las diversas áreas del Sistema DIF Tamaulipas para la verificación, implementación y aprobación del Programa Interno de Protección Civil; y
+
+XIV. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 50.
+
+El Departamento de Recursos Humanos, tendrá las atribuciones siguientes:
+
+I. Establecer las acciones necesarias para la operación, evaluación y control del proceso de elaboración de la nómina y el pago de remuneraciones al personal, del control de plazas, así como realizar el pago a terceros, de conformidad con las disposiciones aplicables, dando seguimiento y vigilancia a los movimientos de altas, bajas e incidencias del personal;
+
+II. Integrar, administrar y mantener actualizada la plantilla de personal del Sistema DIF Tamaulipas;
+
+III. Instrumentar los procesos para el reclutamiento, selección, capacitación, motivación y desarrollo del personal, incluyendo servicio social del Sistema DIF Tamaulipas;
+
+IV. Elaborar y ejecutar el plan anual de capacitaciones en coordinación con las distintas unidades administrativas del Sistema DIF Tamaulipas, de acuerdo con las necesidades de las mismas;
+
+V. Aplicar al personal las sanciones correspondientes conforme a las condiciones generales de trabajo;
+
+VI. Formular el anteproyecto de presupuesto anual de las partidas de gasto del capítulo 1000 del clasificador por objeto del gasto vigente, gestionar sus modificaciones y ejecutar su pago;
+
+VII. Expedir el documento que acredite los nombramientos y constancias laborales del personal del Sistema DIF Tamaulipas;
+
+VIII. Colaborar con la Dirección General y la Secretaría Técnica, en la planeación estratégica de la organización que implique la modificación y/o cambios de la estructura orgánica;
+
+IX. Brindar dictamen técnico sobre la viabilidad presupuestaria de los movimientos organizacionales, ocupacionales y salariales requeridos por las unidades administrativas;
+
+X. Instrumentar las acciones de revisión, actualización y aprobación de las condiciones generales de trabajo;
+
+XI. Controlar la asistencia, incapacidades, permisos y vacaciones del personal del organismo de acuerdo con las disposiciones dictadas por la Dirección General;
+
+XII. Actualizar y resguardar la información de los expedientes del personal del Sistema DIF Tamaulipas;
+
+XIII. Supervisar la elaboración de contratos individuales de trabajo y de personal asimilables a salarios; y
+
+XIV. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 51.
+
+La Dirección Jurídica y Transparencia, tendrá las atribuciones siguientes:
+
+I. Elaborar y/o revisar los proyectos de convenios, concesiones, donaciones, contratos, permisos y otros de carácter legal que le competan, que solicite la persona titular de la Dirección General, así como brindar asesoría para la rescisión, caducidad y nulidad de los mismos;
+
+II. Elaborar la propuesta de leyes, reglamentos, decretos, acuerdos, contratos, convenios y demás disposiciones legales que se requieran para el mejor desempeño de las atribuciones que competen al Sistema DIF Tamaulipas, presentando los proyectos a la persona titular de la Dirección General, así como llevar el registro de los mismos;
+
+III. Proporcionar asesoría y apoyo técnico a las diferentes unidades administrativas del Sistema DIF Tamaulipas y a los Sistemas DIF Municipales, en materia de su competencia;
+
+IV. Representar al Sistema DIF Tamaulipas en los juicios, controversias y otros procesos jurídicos que le afecten, o sean de su interés, ante toda clase de autoridades jurisdiccionales o administrativas;
+
+V. Presentar las denuncias y querellas que se elaboren, con motivo de hechos que pudiesen ser constitutivos de delitos y que afecten el patrimonio del Sistema DIF Tamaulipas;
+
+VI. Elaborar los proyectos de los informes previos y justificados que en materia de amparo deba rendir la persona titular de la Dirección General; promover y desistirse, en su caso, de los juicios de amparo, cuando el titular del organismo tenga el carácter de quejoso o de tercero perjudicado y formular, en general, todas las promociones que a dichos juicios se refieran;
+
+VII. Validar o certificar cuando se le solicite, la documentación legal que requiera el Sistema DIF Tamaulipas en ejercicio de sus atribuciones, tales como actas administrativas, constancias, minutas y oficios, o gestionar la validación y/o certificación ante la Dirección General de los demás documentos;
+
+VIII. Elaborar y presentar a la Dirección General los proyectos de leyes, reglamentos, decretos, acuerdos y demás disposiciones legales que se requieran para el mejor desempeño de las atribuciones que competen al Sistema DIF Tamaulipas;
+
+IX. Promover y garantizar la transparencia, rendición de cuentas, el acceso a la información y la protección de los datos personales en todos los ámbitos mediante la Unidad de Transparencia del Sistema DIF Tamaulipas, apegando sus funciones en lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Tamaulipas;
+
+X. Diseñar el programa de capacitación anual de acuerdo a las necesidades de la Dirección;
+
+XI. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+XII. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 52.
+
+El Departamento Jurídico, tendrá las atribuciones siguientes:
+
+I. Elaborar y/o revisar los proyectos de convenios, concesiones, donaciones, contratos, permisos y otros de carácter legal que le competan, que solicite la persona titular de la Dirección Jurídica y Transparencia, así como brindar asesoría para la rescisión, caducidad y nulidad de los mismos;
+
+II. Coadyuvar en la formulación de leyes, reglamentos, decretos, acuerdos, contratos, convenios y demás disposiciones legales que fueran requeridos por la Dirección Jurídica y Transparencia.
+
+III. Representar de manera integral al Sistema DIF Tamaulipas en los juicios, controversias y otros procesos jurídicos que le afecten, o sean de su interés, ante toda clase de autoridades jurisdiccionales o administrativas que le sean otorgadas por poder.
+
+IV. Presentar las denuncias y querellas que se elaboren, con motivo de hechos que pudiesen ser constitutivos de delitos y que afecten el patrimonio del Sistema DIF Tamaulipas;
+
+V. Coadyuvar en el diseño del programa de capacitación anual de acuerdo a las necesidades de la Dirección Jurídica y Transparencia;
+
+VI. Colaborar en la elaboración de la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección Jurídica y Transparencia; y
+
+VII. Las demás que en el ámbito de su competencia le delegue la Dirección Jurídica y Transparencia.
+
+###### ARTÍCULO 53.
+
+El Departamento de Transparencia y Rendición de Cuentas, tendrá las atribuciones siguientes:
+
+I. Promover y garantizar la transparencia, rendición de cuentas, el acceso a la información y la protección de los datos personales en todos los ámbitos mediante la Unidad de Transparencia del Sistema DIF Tamaulipas, apegando sus funciones en lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Tamaulipas;
+
+II. Fomentar la transparencia y accesibilidad al interior del Sistema DIF Tamaulipas;
+
+III. Recibir las solicitudes de acceso a la información necesaria para dar trámite interno para la atención de las solicitudes de acceso a la información;
+
+IV. Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información;
+
+V. Proporcionar capacitación continua, en materia de transparencia, a los integrantes del Comité y enlaces de Transparencia, así como coordinar y asesorar a los enlaces de Transparencia de las diferentes áreas para el cumplimiento de las obligaciones en materia de Transparencia;
+
+VI. Asesorar al Comité de Transparencia, cuando éste lo solicite, sobre los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la normatividad aplicable;
+
+VII. Recibir las resoluciones que dicte el Instituto de Transparencia y Acceso a la Información de Tamaulipas, y dar el trámite interno para atender los requerimientos, observaciones, recomendaciones y criterios que éste dicte;
+
+VIII. Promover la generación y documentación de la información del Sistema DIF Tamaulipas y realizar su publicación en formatos abiertos y accesibles que se presenten así como de manera trimestral;
+
+IX. Presentar un informe trimestral ante el Instituto de Transparencia y Acceso a la Información de Tamaulipas, el cual deberá contener el total de solicitudes de información y derechos de Acceso, Rectificación, Cancelación y Oposición (ARCO) presentadas ante dicha Unidad, la información o trámite objeto de las mismas, así como las respuestas entregadas, los costos de su atención y el tiempo de respuesta empleado;
+
+X. Las demás que en el ámbito de su competencia le delegue la Dirección Jurídica y Transparencia.
+
+###### ARTÍCULO 54.
+
+La Dirección de Relaciones Públicas y Eventos, tendrá las atribuciones siguientes:
+
+I. Diseñar, organizar, dirigir y dar seguimiento a acciones en apego a la política de integración familiar, que promuevan espacios de sana convivencia, reflexión, análisis y de desarrollo de oportunidades para los grupos vulnerables;
+
+II. Administrar adecuadamente los recursos asignados por la Dirección General, con el objetivo de planear, programar, dirigir, coordinar y supervisar las acciones encaminadas a estrechar lazos entre la sociedad civil, servidoras y servidores públicos y ciudadanía en general con la Presidencia del Patronato del Sistema DIF Tamaulipas;
+
+III. Establecer contacto con los programas sociales, acciones y proyectos para la organización de las actividades y ejecutar acciones que salvaguarden la integración de la familia como base del desarrollo humano y comunitario;
+
+IV. Asesorar y coordinar los eventos de otras direcciones del Sistema DIF Tamaulipas;
+
+V. Salvaguardar la integridad de los asistentes a eventos en coordinación con las áreas involucradas;
+
+VI. Elaborar y mantener actualizado el directorio de los Sistemas DIF Municipales, organismos públicos, privados y ciudadanía relacionada con los programas y objetivos del Sistema DIF Tamaulipas;
+
+VII. Diseñar el programa de capacitación anual de acuerdo a las necesidades de la Dirección;
+
+VIII. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+IX. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 55.
+
+El Departamento de Relaciones Públicas, tendrá las atribuciones siguientes:
+
+I. Mantener actualizado el Directorio de los Sistemas DIF Municipales, organismos públicos, privados y ciudadanía relacionada con los programas y objetivos del Sistema DIF Tamaulipas;
+
+II. Elaborar la decoración del escenario en los eventos correspondientes a la Dirección de Relaciones Públicas y Eventos;
+
+III. Asesorar a otras unidades administrativas del Sistema DIF Tamaulipas, según requieran en el diseño de decoración de sus eventos o festejos especiales;
+
+IV. Colaborar activamente en las tareas que lleven al buen desarrollo de los eventos que competan a la Dirección de Relaciones Públicas y Eventos;
+
+V. Las demás que en ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 56.
+
+La Dirección de Comunicación Social, tendrá las atribuciones siguientes:
+
+I. Difundir las actividades del Sistema DIF Tamaulipas a través de estrategias y recursos de la comunicación, proyectando ante la sociedad la función y objetivos de la asistencia social;
+
+II. Establecer la coordinación con los medios masivos de comunicación, a efecto de dar a conocer los programas, proyectos, trabajos y resultados que se realizan en el Sistema DIF Tamaulipas;
+
+III. Emitir boletines de prensa, así como administrar y actualizar sus plataformas digitales oficiales;
+
+IV. Contribuir a la elaboración de publicaciones y materiales promocionales e informativos que se requieran, para la difusión de las tareas a cargo de las diferentes direcciones y programas del Sistema DIF Tamaulipas;
+
+V. Asignar funciones determinadas y responsabilidades específicas a sus subordinados para el mejor desempeño de sus actividades;
+
+VI. Diseñar el programa de capacitación anual de la Dirección de acuerdo a sus necesidades específicas;
+
+VII. Mantener una comunicación con los enlaces o encargados de la comunicación social de los Sistemas DIF Municipales;
+
+VIII. Elaboración de manual para el manejo de crisis en medios de comunicación;
+
+IX. Informar periódicamente sobre los avances de los asuntos encomendados;
+
+X. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+XI. Las demás que en ámbito de su competencia le delegue la superioridad.
+
+### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TAMAULIPAS
+
+###### ARTÍCULO 57.
+
+El Departamento de Imagen y Comunicación Digital, tendrá las atribuciones siguientes:
+
+I. Realizar el diseño gráfico y diseño editorial de instrumentos de comunicación impresos y electrónicos con la finalidad de resaltar y proyectar los programas y actividades de las diferentes direcciones del Sistema DIF Tamaulipas;
+
+II. Supervisar el diseño de logotipos de los programas con el objetivo de que sean adecuados a la imagen institucional conforme al manual de identidad vigente;
+
+III. Diseñar productos promocionales para los diferentes programas del Sistema DIF Tamaulipas;
+
+IV. Supervisar la correcta aplicación de la imagen institucional de los Sistemas DIF Municipales, de acuerdo al manual de identidad del Sistema DIF Tamaulipas;
+
+V. Ordenar, clasificar y resguardar el archivo fotográfico de la Presidenta del Patronato del Sistema DIF Tamaulipas y las diferentes unidades administrativas del Sistema DIF Tamaulipas, para la masificación del mismo en redes sociales;
+
+VI. Asegurar el material gráfico para la realización de videos, cortometrajes y animaciones, para las diferentes redes sociales;
+
+VII. Posicionar los programas del Sistema DIF Tamaulipas dentro de las redes sociales para que el usuario conozca el trabajo que se está llevando a cabo;
+
+VIII. Formular diversos informes de comportamiento y tendencias en los medios de comunicación respecto al trabajo que se realiza en el Sistema DIF Tamaulipas; y
+
+IX. Las demás que en ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 58.
+
+El Departamento de Prensa, tendrá las atribuciones siguientes:
+
+I. Elaborar y difundir boletines informativos de las diversas actividades de la Presidenta del Patronato del Sistema DIF Tamaulipas, así como de las diferentes unidades administrativas del Sistema DIF Tamaulipas, con el apoyo de los medios de comunicación;
+
+II. Establecer comunicación permanente con las diferentes unidades administrativas del Sistema DIF Tamaulipas para la cobertura de actividades;
+
+III. Integrar y actualizar permanentemente un directorio de reporteros que cubren la fuente, con el objetivo de informar oportunamente las actividades del Sistema DIF Tamaulipas;
+
+IV. Definir mecanismos necesarios para atender la cobertura de alguna de las unidades administrativas del Sistema DIF Tamaulipas, sobre las actividades de la Presidenta del Patronato del Sistema DIF Tamaulipas;
+
+V. Colaborar de manera estrecha con el Departamento de Imagen y Comunicación Digital, con la organización y almacenamiento del banco de imágenes de la cobertura de actividades de la Presidenta del Patronato del Sistema DIF Tamaulipas y las diferentes unidades administrativas; y
+
+VI. Las demás que en ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 59.
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes, tendrá las atribuciones siguientes:
+
+I. Coordinar los departamentos y programas presupuestarios a su cargo, en favor de la protección, defensa y atención de las niñas, niños y adolescentes, para garantizar su derecho a la justicia, la reparación integral y la no repetición;
+
+II. Proporcionar servicios de asistencia jurídica y social a la población objetivo, procurando la protección integral de niñas, niños y adolescentes, conforme a las disposiciones aplicables;
+
+III. Prestar asesoría legal a las unidades administrativas que integran el Sistema DIF Tamaulipas, con el propósito de ayudarlos en el cumplimiento de sus atribuciones, en lo relativo a la procuración de derechos de las niñas, niños y adolescentes;
+
+IV. Vigilar que se respeten los derechos de las niñas, niños y adolescentes originarios del Estado de Tamaulipas, que se encuentren viviendo o de tránsito en territorio estatal, y defender sus intereses legítimos ante las autoridades administrativas o judiciales;
+
+V. Representar a las niñas, niños y adolescentes, así como proporcionar asesoría en los casos que la Ley lo previene, ante las autoridades administrativas y judiciales del Estado;
+
+VI. Adoptar medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten sus derechos;
+
+VII. Coordinar los servicios de asesoría y representación jurídica a la familia y personas sujetas a la asistencia social, dentro del ámbito que la Ley le confiere;
+
+VIII. Brindar atención en procedimiento de mediación o conciliación en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables;
+
+IX. Elaboración de los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que resulten idóneas para a la adopción, considerando los requisitos señalados para el acogimiento pre-adoptivo, así como para emitir los certificados de idoneidad, conforme a la homologación que señale el Sistema DIF Nacional;
+
+X. Proporcionar asistencia psicológica y atención preventiva integrada a la salud, así como asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad;
+
+XI. Proponer reformas y modificaciones a la normativa vigente en materia de niñas, niños y adolescentes;
+
+XII. Promover, vigilar y coordinarse con las diferentes instituciones públicas o privadas, cuyos objetivos sean el bienestar de la familia, para la elaboración y desarrollo de programas y campañas encaminadas a sensibilizar y concientizar a la población, a fin de prevenir conductas que afecten el desarrollo físico, emocional y cognoscitivo de niñas, niños y adolescentes, así como promover el respeto de sus derechos fundamentales;
+
+XIII. Representar al Sistema DIF Tamaulipas en los juicios, controversias y otros procesos jurídicos que afecten, o sean de su interés en lo concerniente a niñas, niños y adolescentes;
+
+XIV. Supervisar los centros asistenciales destinados a brindar asistencia a las niñas, niños y adolescentes en el Estado, y en su caso, ejercer las acciones legales que correspondan por el incumplimiento de los requisitos que establece la Ley General de los Derechos de Niñas, Niños y Adolescentes, Ley de los Derechos de Niñas, Niños y Adolescentes en el Estado de Tamaulipas, y demás disposiciones aplicables;
+
+XV. Diseñar el programa de capacitación anual de acuerdo a las necesidades de la Procuraduría;
+
+XVI. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Procuraduría; y
+
+XVII. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 60.
+
+El Departamento de Representación Jurídica y Restitución de Derechos, tendrá las atribuciones siguientes:
+
+I. Proteger y garantizar el respeto de los derechos de las niñas, niños y adolescentes que participen en procedimientos jurisdiccionales y administrativos;
+
+II. Representar a las niñas, niños y adolescentes, así como proporcionar asesoría en los casos que la ley lo previene, ante las autoridades administrativas y judiciales del estado;
+
+III. Intervenir oficiosamente, con representación coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes;
+
+IV. Brinda asesoría jurídica a las niñas, niños y adolescentes y sus familiares durante el procedimiento jurisdiccional o administrativo;
+
+V. Realizar acciones de derivación de casos de niñas, niños y adolescentes donde se observe una presunta vulneración o restricción de sus derechos;
+
+VI. Denunciar ante el Ministerio Público aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes en condiciones de vulnerabilidad, ejerciendo la representación en suplencia;
+
+VII. Brindar acompañamiento en casos de conciliación y mediación, conforme a las disposiciones aplicables;
+
+VIII. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Procuraduría; y
+
+IX. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 61.
+
+El Departamento de Atención Psicológica, tendrá las atribuciones siguientes:
+
+I. Proporcionar servicios de intervención en crisis para personas que experimentan situaciones críticas, como abuso, violencia doméstica, intentos de suicidio, trauma, etc.;
+
+II. Brindar la asesoría necesaria para enfrentar problemas emocionales, estrés, ansiedad, depresión u otros problemas psicológicos que los usuarios requieran, asegurando su confidencialidad y privacidad;
+
+III. Ofrecer servicios de evaluación psicológica y/o psicométrica para diferentes fines en apoyo a los procesos individuales, personales y/o legales que los usuarios requieran;
+
+IV. Ofrecer servicios de psicología clínica en terapia individual, terapia de grupo, terapia familiar y terapia de pareja;
+
+V. Generar un tratamiento personalizado y adaptado a cada caso al evaluar las necesidades y preocupaciones individuales y únicas;
+
+VI. Identificar patrones de comportamiento dañinos y desarrollar estrategias para manejar el trauma emocional;
+
+VII. Colaborar de manera multidisciplinaria y permanente con el departamento jurídico y el de trabajo social, para ofrecer servicios integrales que aborden las necesidades de las personas en condiciones vulnerables;
+
+VIII. Orientar a las personas y canalizarlas adecuadamente a los departamentos o instituciones según lo requiera la situación que presentan;
+
+IX. Colaborar con juzgados y fiscalías en el acompañamiento emocional a menores en denuncias o audiencias; así como con la rendición de sus informes y/o peritajes psicológicos, siempre que dichas instituciones no cuenten con el personal adecuado para desarrollar dichas funciones;
+
+X. Ofrecer programas de prevención o corrección a los usuarios, que se centren en la promoción de la salud mental, desarrollo de habilidades intrapersonales e interpersonales, manejo de dinámica familiar y social;
+
+XI. Capacitar y actualizar al personal del departamento de psicología para brindar siempre una atención especializada y de calidad;
+
+XII. Ofrecer capacitación al personal de la institución con programas de educación y prevención para promover la salud mental en el lugar de trabajo;
+
+XIII. Llevar a cabo investigaciones para atender mejor las necesidades y preocupaciones de la población atendida, identificando problemáticas con mayor incidencia y zonas de mayor riesgo;
+
+XIV. Colaborar en el desarrollo de políticas y programas de salud mental que promuevan el bienestar emocional y psicológico de la población atendida;
+
+XV. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Procuraduría; y
+
+XVI. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 62.
+
+El Departamento de Trabajo Social, tendrá las atribuciones siguientes:
+
+I. Planificar y coordinar las actividades de intervención social y administrativas del Departamento;
+
+II. Asignar a personal de trabajo social reportes sociales para la realización de investigaciones que contribuyan a identificar e interpretar las causas de los reportes que se presentan en cualquier contexto para el planteamiento de alternativas de solución;
+
+III. Coordinar las investigaciones de maltrato, canalizaciones, estudios socioeconómicos, seguimientos de caso, reintegraciones de derechos, para constatar la atención específica a cada caso, con la finalidad de sensibilizar a las familias en cuanto al trato con los menores y su integración familiar;
+
+IV. Constatar a través de investigaciones de campo, visitas de supervisión y estudios socioeconómicos, el desarrollo de convivencias y estatus que guardan los menores y su situación de vulnerabilidad al respecto;
+
+V. Dar seguimiento a las investigaciones sociales que se realizan, para identificar e interpretar las causas de los reportes sociales que se presentan en cualquier contexto y el planteamiento de alternativas de solución a las mismas;
+
+VI. Participar en la gestión, formulación, ejecución, evaluación de planes, programas y proyectos sociales, dirigidos a mejorar las condiciones de vida de la comunidad tanto con instituciones públicas como privadas;
+
+VII. Participar en el diseño de administración de programas de personal, bienestar laboral, seguridad social y salud ocupacional;
+
+VIII. Participar cuando así se requiera, en proyectos de desarrollo social con organismos gubernamentales y no gubernamentales;
+
+IX. Llevar a cabo actividades de investigación social y en el desarrollo de la política social, con base en las necesidades de la población;
+
+X. Capacitar al personal encargado de atender a víctimas y perpetradores de violencia intrafamiliar;
+
+XI. Evaluar la estructura de expedientes de Trabajo Social y al personal, para implementar mejoras en la calidad de los procesos y servicios;
+
+XII. Verificar que se lleve a cabo el seguimiento de los casos que se presentan durante las guardias de equipos multidisciplinarios y casos asignados;
+
+XIII. Dar al cumplimiento de metas e indicadores de desempeño;
+
+XIV. Evaluar al personal de Trabajo Social, para implementar mejoras en los procesos de la calidad de los servicios;
+
+XV. Dar a conocer las funciones al personal de trabajo social de acuerdo al manual de operaciones y lineamientos específicos de cada programa;
+
+XVI. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 63.
+
+El Departamento de Mediación y Prevención de la Violencia, tendrá las atribuciones siguientes:
+
+I. Promover la mediación familiar como mecanismo alternativo en la solución de conflictos;
+
+II. Proporcionar los servicios de mediación para la solución de conflictos de carácter familiar, a las personas que así lo soliciten;
+
+III. Estructurar documento o convenio que contenga los acuerdos establecidos por las partes que intervienen en el procedimiento de mediación;
+
+IV. Implementar planes de atención para la prevención de la violencia familiar, dirigido a instituciones educativas;
+
+V. Brindar psicoterapia grupal a las personas que requieran asistencia para efecto de lograr su reinserción social, en atención a canalización que declina la Secretaría de Seguridad Pública y Juzgados encargados de la gestión y administración de ejecución penal;
+
+VI. Impartir pláticas en temas psicoeducativos enfocados en fomentar el bienestar emocional de las niñas, niños y adolescentes y familias, con enfoque a prevenir la violencia;
+
+VII. Brindar seguimiento a los casos atendidos por parte del departamento de mediación;
+
+VIII. Recibir actualizaciones para el debido funcionamiento del departamento;
+
+IX. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Procuraduría; y
+
+X. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+### CAPÍTULO V
+
+DE LAS ATRIBUCIONES DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS A LA DIRECCIÓN GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TAMAULIPAS
+
+###### ARTÍCULO 64.
+
+El Departamento de Adopciones y Acogimiento Familiar, tendrá las atribuciones siguientes:
+
+I. Realizar investigaciones y estudios de los casos de niñas y niños susceptibles de adopción;
+
+II. Atender y orientar a interesados en llevar a cabo un proceso de adopción;
+
+III. Integrar los expedientes de solicitud de adopción, con los documentos establecidos como requisitos para el proceso;
+
+IV. Efectuar la evaluación médica y psicológica a los solicitantes de adopción;
+
+V. Realizar la visita domiciliaria pertinente a los solicitantes de adopción, para elaborar su estudio socioeconómico;
+
+VI. Elaborar el dictamen técnico de idoneidad para la adopción;
+
+VII. Expedir por parte del Consejo Técnico de Adopciones el certificado de idoneidad;
+
+VIII. Tramitar los juicios de pérdida de patria potestad para niñas, niños y adolescentes acogidos por instituciones de asistencia social; así como los juicios de adopción en todos aquellos casos que lo requieran;
+
+IX. Realizar la valoración médica y psicológica a las niñas, niños y adolescentes en condición de adoptabilidad, para conocer su condición física y mental;
+
+X. En coordinación con el Departamento Administrativo de Casa Hogar del Niño, efectuar el proceso de preparación psicológica a las niñas, niños y adolescentes que serán adoptados;
+
+XI. Diseñar e impartir los cursos de inducción para personas interesadas en el proceso de adopción y post-adoptivo a personas que ya ejercen una paternidad adoptiva;
+
+XII. Llevar a cabo la asesoría y preparación psicológica a los futuros padres adoptivos;
+
+XIII. Registrar, capacitar, evaluar y certificar a las familias que resulten idóneas para fungir como familias de acogida, considerando los requisitos señalados para el acogimiento familiar;
+
+XIV. Llevar a cabo el seguimiento a las niñas, niños y adolescentes otorgados en acogida familiar y adopción;
+
+XV. Diseñar y proponer el programa de capacitación y actualización anual para el personal adscrito al Departamento, con el propósito de dotarles de herramientas que coadyuven a la mejora continua de los servicios proporcionados;
+
+XVI. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Procuraduría; y
+
+XVII. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 65.
+
+El Departamento de Supervisión a Centros Asistenciales, tendrá las atribuciones siguientes:
+
+I. Integrar debidamente el expediente de ingreso de niñas, niños y adolescentes, así como los archivos de los centros de asistencia social registrados en el estado y asegurar su resguardo;
+
+II. Dar continuidad al Sistema de Registro y Monitoreo Estatal, con la finalidad de tener una base de datos actualizada, de niñas, niños y adolescentes institucionalizados;
+
+III. Informar a la autoridad competente cuando tenga conocimiento que peligra la integridad física de alguna niña, niño o adolescente, estando bajo resguardo en algún Centro de Asistencia Social, a fin de iniciar protección oportuna e identificar la mejor solución;
+
+IV. Monitorear el seguimiento a los procesos de las niñas, niños y adolescentes que ingresen a un Centro de Asistencia Social bajo alguna medida de protección emitida por la autoridad correspondiente, manteniendo comunicación constante con el área jurídica de la Procuraduría de Protección de Niñas, Niños y Adolescentes;
+
+V. Mantener actualizado y dar seguimiento al Registro Nacional de Centros de Atención Infantil, así como el Registro Nacional de Centros de Asistencia Social;
+
+VI. Garantizar y fortalecer los servicios que proporciona el Departamento, proporcionando una atención integral a los usuarios;
+
+VII. Diseñar el programa de capacitación anual para la mejora continua de la operatividad del Departamento;
+
+VIII. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Procuraduría; y
+
+IX. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 66.
+
+El Departamento de Atención a Migrantes, tendrá las atribuciones siguientes:
+
+I. Ejecutar acciones tendientes a la atención integral de las niñas, niños y adolescentes connacionales y extranjeros en situación de movilidad, acompañados y no acompañados;
+
+II. Vigilar que los centros asistenciales de atención integral de niñas, niños y adolescentes connacionales y extranjeros en situación de movilidad acompañados y no acompañados, ejecuten el nuevo modelo de atención integral para la niñez y adolescencia en situación de movilidad;
+
+III. Establecer a través de todos los medios posibles el interés superior de las niñas, niños y adolescentes migrantes acompañados o no acompañados;
+
+IV. Fungir como enlace con el Sistema DIF Nacional, en cuanto a la aplicación de los recursos asignados a los proyectos de fortalecimiento a los centros de atención a niñas, niños y adolescentes migrantes en Tamaulipas;
+
+V. Entablar una estrecha vinculación con las organizaciones no gubernamentales y asociaciones civiles en atención y beneficio de niñas, niños y adolescentes connacionales y extranjeros en situación de movilidad acompañados y no acompañados;
+
+VI. Recibir a las niñas, niños y adolescentes migrantes no acompañados que le sean permitidos por la estación migratoria;
+
+VII. Recibir a las familias migrantes puestas a disposición por la estación migratoria, donde se tiene la obligación de resguardar temporal (sic) tanto a migrantes menores de edad, como a sus familiares adultos acompañantes;
+
+VIII. Velar por que la estancia de las niñas, niños y adolescentes que se encuentren en los centros de atención, sea de calidad y por el menor tiempo posible;
+
+IX. Entablar estrecha comunicación con las autoridades migratorias;
+
+X. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Procuraduría; y
+
+XI. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 67.
+
+La Procuraduría de la Defensa del Adulto Mayor, tendrá las atribuciones siguientes:
+
+I. Establecer la normatividad y coordinar las acciones, programas y proyectos de la Procuraduría;
+
+II. Proporcionar servicios gratuitos de asistencia jurídica, social y psicológica a personas adultas mayores en situación de desamparo o vulnerabilidad, así como a sus familiares o personas cuidadoras de quienes dependan;
+
+III. Representar legalmente ante los órganos jurisdiccionales a las personas mayores que lo soliciten, realizando las acciones jurídicas conducentes para proteger sus derechos, cuando se encuentren en situación de riesgo o desamparo.
+
+IV. Prestar asesoría legal a las áreas administrativas que integran el Sistema DIF Tamaulipas, con el propósito de apoyarles en el cumplimiento de sus atribuciones relacionadas con la atención a personas adultas mayores;
+
+V. Brindar orientación jurídica, técnica y operativa a las Procuradurías o unidades administrativas de los Sistemas DIF Municipales, a través de capacitaciones y manuales que mejoren sus servicios sobre la materia;
+
+VI. Proponer reformas y modificaciones a la normativa legal vigente en materia de derechos de personas adultas mayores;
+
+VII. Supervisar los centros asistenciales destinados a la atención y cuidado de personas adultas mayores en el Estado;
+
+VIII. Promover y coordinar acciones con las dependencias y entidades del Gobierno del Estado y los Municipios, así como instituciones de iniciativa privada y sociedad civil, para impulsar el reconocimiento y la promoción de los derechos humanos de las personas adultas mayores;
+
+IX. Realizar estudios e investigaciones sobre la materia;
+
+X. Diseñar el programa de capacitación anual de acuerdo a las necesidades de la Procuraduría;
+
+XI. Elaborar la proyección presupuestal de los programas y proyectos a operar en el ejercicio fiscal siguiente por la Procuraduría; y
+
+XII. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 68.
+
+El Departamento Jurídico, tendrá las atribuciones siguientes:
+
+I. Asistir a la Procuraduría en los servicios de asesoría y orientación jurídica;
+
+II. Representar legalmente ante las autoridades jurisdiccionales, a las personas adultas mayores, que por falta de medios económicos, apoyo familiar o discapacidad requieran la asistencia;
+
+III. Brindar acompañamiento y asistencia legal a las personas adultas mayores en trámites administrativos para la protección de sus derechos civiles y patrimoniales;
+
+IV. Ofrecer servicios de métodos alternos para la solución de conflictos, dirigidos a resolver la problemática familiar sobre cuidados y atención de personas adultas mayores;
+
+V. Apoyar a la Procuraduría en el diseño de propuestas de normatividad legal sobre la materia; y
+
+VI. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 69.
+
+El Departamento de Psicología y Trabajo Social, tendrá las atribuciones siguientes:
+
+I. Otorgar los servicios de orientación, asistencia y terapias psicológicas a las personas adultas mayores en situación de riesgo o desamparo;
+
+II. Coadyuvar con otras autoridades administrativas o jurisdiccionales, cuando requieran el apoyo de valoraciones o diagnósticos en materia psicológica en beneficio de personas mayores;
+
+III. Proponer a la Procuraduría, acciones de sensibilización y capacitación para las familias y otras instituciones, tendientes a prevenir la violencia o abusos en contra de personas adultas mayores;
+
+IV. Diseñar cursos y talleres dirigidos a brindar herramientas psicoemocionales a las personas cuidadoras de personas adultas mayores.
+
+V. Realizar diagnósticos e investigaciones sobre la materia; y
+
+VI. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 70.
+
+La Dirección de Centros Asistenciales, tendrá las atribuciones siguientes:
+
+I. Promover, normar y autorizar el registro de los centros de asistencia pública y privada en el Estado;
+
+II. Asesorar y supervisar el desempeño de los centros asistenciales conforme a las disposiciones establecidas en la Ley de Instituciones de Asistencia Social para el Estado de Tamaulipas y demás normatividad aplicable;
+
+III. Vigilar que se proporcione asistencia médica, psicológica y asistencial a la población de los centros asistenciales bajo su jurisdicción;
+
+IV. Prestar servicios funerarios especialmente a los sujetos mencionados en el artículo 5 de la Ley de (sic) sobre el Sistema Estatal de Asistencia Social;
+
+V. Presentar propuestas de los reglamentos de centros asistenciales a la Dirección Jurídica y Transparencia;
+
+VI. Vigilar que las actividades de los centros asistenciales del Sistema DIF Tamaulipas e instituciones de asistencia privada registrados por la Dirección de Centros Asistenciales, se realicen conforme a su objetivo social y a lo dispuesto por la normatividad vigente;
+
+VII. Llevar un control y registro de centros asistenciales del Sistema DIF Tamaulipas e instituciones de asistencia privada y practicar visitas periódicas de supervisión y vigilancia, y en su caso, designar un interventor cuando así resulte conveniente;
+
+VIII. Investigar las quejas que se presenten en contra de algún centro asistencial del Sistema DIF Tamaulipas o institución de asistencia privada registrada en la Dirección de Centros Asistenciales, de sus representantes o administradores, directores o empleados, respecto a su funcionamiento, tratamiento de internos o cualquier otro que afecte los objetivos propuestos;
+
+IX. Llevar un estricto control de niñas, niños, adolescentes, adultos jóvenes, mujeres y hombres adultos mayores inscritos en el padrón de beneficiarios de cada Centro Asistencial del Sistema DIF Tamaulipas o institución de asistencia privada registrada en la Dirección de Centros Asistenciales;
+
+X. Emitir observaciones derivadas de las supervisiones y ordenar su cumplimiento conforme a la normatividad vigente;
+
+XI. Revisar los lineamientos bajo los cuales se estructura la organización y funcionamiento de los centros asistenciales del Sistema DIF Tamaulipas e instituciones de asistencia privada registrados en la Dirección de Centros Asistenciales, así como sus estatutos y codificaciones, con el objeto de apoyar su funcionalidad y eficiencia, a través de la asesoría técnica en aspectos operativos y administrativos;
+
+XII. Evaluar con los administradores de los Centros Asistenciales del Sistema DIF Tamaulipas, el ingreso y egreso de beneficiarios acorde a perfil del centro y espacios en los mismos, así como verificando la situación legal y la conveniencia social que justifique la permanencia de los mismos en los centros asistenciales;
+
+XIII. Diseñar el programa de capacitación anual de acuerdo a las necesidades de la Dirección;
+
+XIV. Elaborar la proyección presupuestal de los programas y proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+XV. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 71.
+
+El Departamento Administrativo de Villas Vida Plena, tendrá las atribuciones siguientes:
+
+I. Prestar el servicio de vivienda a personas adultos mayores de 60 años, que de manera voluntaria podrán solicitar en forma individual o en pareja una vivienda semi amueblada;
+
+II. Proporcionar a las y los residentes comida de medio día los 7 días de la semana, así como atención psicológica, de enfermería y actividades recreativas, para las y los residentes que así lo deseen;
+
+III. Coordinar con la participación de las áreas de psicología, trabajo social, médico y cultural, los indicadores de evaluación de desempeño en los que se contengan datos de las personas adultas mayores beneficiarias del programa, así como los que se requieran por parte de la Dirección de Centros Asistenciales;
+
+IV. Administrar los recursos humanos, materiales y financieros asignados y/o donados a la unidad habitacional Villas Vida Plena, en apego a los lineamientos y disposiciones legales vigentes;
+
+V. Procurar dar solución dentro de sus atribuciones a las problemáticas de la unidad habitacional y de los adultos mayores;
+
+VI. Supervisar las diferentes áreas de la unidad habitacional y las áreas de uso común, verificando su funcionamiento, así como el mantenimiento del mobiliario necesario para el funcionamiento del programa;
+
+VII. Elaborar la proyección presupuestal de los programas y proyectos a operar en el ejercicio fiscal siguiente por el Departamento y enviar a la Dirección de Centros Asistenciales para su revisión y envío al área correspondiente; y
+
+VIII. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 72.
+
+El Departamento Administrativo de Casa San Antonio, tendrá las atribuciones siguientes:
+
+I. Brindar asistencia social a niñas, niños, adolescentes y jóvenes con problemas neurológicos de moderados a severos, en completo estado de abandono y orfandad;
+
+II. Organizar la prestación de los servicios de asistencia social para los residentes del centro asistencial a través de las áreas médica, enfermería, psicología y rehabilitación, así como la de control de recursos;
+
+III. Administrar los recursos humanos, materiales y financieros asignados y/o donados al centro asistencial en apego a los lineamientos y disposiciones legales vigentes;
+
+IV. Dirigir, supervisar, planear y coordinar las actividades de atención a los residentes, programar y organizar las actividades del personal a su cargo;
+
+V. Coordinar, vigilar y supervisar que las personas residentes obtengan los servicios necesarios con relación a su estado de bienestar físico-psicológico, cognitivo y neurológico para el mejoramiento de su calidad de vida;
+
+VI. Implementar programas que ayuden al desarrollo físico, psicológico y pedagógico de los residentes, en coordinación con el personal de las áreas de psicopedagogía y rehabilitación;
+
+VII. Proporcionar a su personal de apoyo la información y asesoramiento sobre el manejo de conductas y problemas de los residentes y en la asignación de actividades dirigidas de acuerdo a la condición de cada residente;
+
+VIII. Supervisar la realización de las compras necesarias para los medicamentos y alimentación de los residentes, según sus necesidades, así como de proveer el material necesario para la higiene de los residentes;
+
+IX. Coordinar con la participación de las áreas de trabajo social, médico, psicopedagogía y rehabilitación, los indicadores de evaluación de desempeño en los que se contengan datos de niñas, niños, adolescentes y jóvenes que ingresan, egresa (sic), de estancia temporal, estancia larga o permanente, así como los que se requieran por parte del (sic) Dirección de Centros Asistenciales;
+
+X. Supervisar las diferentes áreas del centro asistencial, verificando su funcionamiento;
+
+XI. En los casos que la o el residente presente alteraciones de salud física y/o psíquica se canalizara a la Institución adecuada para su atención;
+
+XII. Elaborar la proyección presupuestal de los programas y proyectos a operar en el ejercicio fiscal siguiente por el Departamento y enviar a la Dirección de Centros Asistenciales para su revisión y envío al área correspondiente; y
+
+XIII. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 73.
+
+El Departamento Administrativo de Camino de Luz, tendrá las atribuciones siguientes:
+
+I. Brindar atención a personas con discapacidad visual a través de rehabilitación y capacitación mediante los servicios que se proporcionan;
+
+II. Planear los contenidos y coordinar los cursos, talleres y actividades que imparte Camino de Luz;
+
+III. Programar y supervisar la realización de la adquisición de los insumos necesarios para el funcionamiento y prestación de los servicios que ofrece Camino de Luz;
+
+IV. Supervisar las actividades diarias de las clases que se imparten y en su caso programar las acciones que sean procedentes para cumplir con las mismas;
+
+V. Vigilar y supervisar que se realice la trasportación diaria de los usuarios;
+
+VI. Supervisar que se proporcione el servicio de alimentos en buen estado;
+
+VII. Contar con padrón de usuarios actualizado;
+
+VIII. Fomentar en los padres de familia de los usuarios la integración de sus hijos a escuelas regulares;
+
+IX. Asesorar a los usuarios en las actividades que puedan desarrollar en el ambiente laboral;
+
+X. Elaborar la proyección presupuestal de los programas y proyectos a operar en el ejercicio fiscal siguiente por el Departamento y enviar a la Dirección de Centros Asistenciales para su revisión y envío al área correspondiente; y
+
+XI. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 74.
+
+El Departamento Administrativo de Casa Hogar del Adulto Mayor, tendrá las atribuciones siguientes:
+
+I. Brindar asistencia social a personas mayores de 60 años, estado de abandono, desamparo discapacidad, marginados y sujetos a maltrato;
+
+II. Organizar la prestación de los servicios de asistencia social para los residentes del centro asistencial a través de las áreas: médica, enfermería, psicología, trabajo social y educativo, así como la de control de recursos;
+
+III. Administrar los recursos humanos, materiales y financieros asignados y/o donados al centro asistencial en apego a los lineamientos y disposiciones legales vigentes;
+
+IV. Dirigir, supervisar, planear y coordinar las actividades de atención a las personas residentes, así como programar y organizar las actividades del personal a su cargo;
+
+V. Coordinar, vigilar y supervisar que las personas residentes obtengan los servicios necesarios con relación a su estado de bienestar físico-psicológico, recibiendo las dietas alimenticias balanceadas, que aporten los nutrientes necesarios a su estado de salud;
+
+VI. Implementar programas que ayuden al desarrollo físico, psicológico y social de las personas residentes, en coordinación con el personal de las áreas médica, enfermería, psicología y de trabajo social;
+
+VII. Elaborar programas para mantener la salud mental y fisca de las personas residentes con tareas adecuadas a sus habilidades y preferencias en otras cosas, las que destacan de carácter cívicas, sociales, culturales y deportivas;
+
+VIII. Proporcionar al personal de apoyo la información y asesoramiento sobre el manejo de conductas y problemas de las personas residentes y en la asignación de actividades dirigidas de acuerdo a la condición de cada persona residente;
+
+IX. Supervisar la realización de las compras necesarias para los medicamentos y alimentación de las personas residentes, según sus necesidades, así como de proveer el material necesario para la higiene de los mismos;
+
+X. Coordinar con la participación de las áreas de psicología, trabajo social, médico y enfermería, educativa y rehabilitación, los indicadores de evaluación de desempeño que se requieran por parte de la Dirección de Centros Asistenciales;
+
+XI. Supervisar las diferentes áreas del centro asistencial, verificando su funcionamiento, así como el mantenimiento del mobiliario, equipo médico y de transporte, cumplan con su función;
+
+XII. Procurar que en las instalaciones del centro asistencial se cuente con los espacios adicionales o modificaciones a los existentes de acuerdo a las necesidades de las personas residentes;
+
+XIII. Elaborar la proyección presupuestal de los programas y proyectos a operar en el ejercicio fiscal siguiente por el Departamento y enviar a la Dirección de Centros Asistenciales para su revisión y envío al área correspondiente; y
+
+XIV. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 75.
+
+El Departamento Administrativo del Velatorio y Crematorio “San José”, tendrá las atribuciones siguientes:
+
+I. Administrar los servicios funerarios, que oferta el Sistema DIF Tamaulipas a la sociedad en general;
+
+II. Cumplir con las Normas Oficiales Mexicanas aplicables a la prestación de servicios funerarios y crematorio;
+
+III. Administrar los recursos humanos, materiales y financieros asignados y/o donados al Velatorio y Crematorio “San José”, en apego a los lineamientos y disposiciones legales vigentes;
+
+IV. Contar con un registro de beneficiarios con nombre y domicilio;
+
+V. Coordinar con las áreas, los indicadores de evaluación de desempeño en los que se contengan datos de los finados y de los beneficiarios, así como los que se requieran por parte de la Dirección de Centros Asistenciales;
+
+VI. Coordinar, vigilar y supervisar que se cumplan con las actividades del mantenimiento general de velatorio y crematorio, así como de los vehículos asignados;
+
+VII. Programar y supervisar la realización de la adquisición de los insumos necesarios para el funcionamiento y prestación de los servicios que ofrece el velatorio y crematorio “San José”;
+
+VIII. Supervisar la operatividad, higiene y funcionamiento del inmueble;
+
+IX. Coordinar con la Dirección de Centros Asistenciales y la Dirección de Comunicación Social la difusión de los servicios que proporciona el Velatorio y Crematorio “San José”;
+
+X. Elaborar la proyección presupuestal de los programas y proyectos a operar en el ejercicio fiscal siguiente por el Departamento y enviar a la Dirección de Centros Asistenciales para su revisión y envío al área correspondiente; y
+
+XI. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 76.
+
+El Departamento Administrativo del Centro Inclusivo de la Familia Migrante, tendrá las atribuciones siguientes:
+
+I. Proporcionar asistencia social otorgando alojamiento temporal, alimentación, atención psicológica y de trabajo social, además de apoyo académico y primeros auxilios, a las niñas, niños y adolescentes solos o acompañados de su familia en contexto de movilidad;
+
+II. Fomentar en el personal que reciba a las niñas, niños y adolescentes, así como al familiar que los acompañe, que deberá ser amable y concreto en su forma de dirigirse, teniendo una actitud de escucha activa, explicando en lenguaje sencillo el funcionamiento del centro asistencial, actividades y servicios que se ofrecen;
+
+III. Llevar un control y registro de ingresos y egresos de niñas, niños, adolescentes en contexto de movilidad, con nombre, edad, nacionalidad, acompañados o solos, en caso de acompañados datos del familiar que ingresa y egresa con ellos, nombre, edad, domicilio, nacionalidad y parentesco;
+
+IV. Llevar un expediente único de cada niña, niño adolescente y del familiar que lo acompañe, conforme a las disposiciones contenidas en el nuevo Modelo de Atención Integral para la Niñez y Adolescencia en Situación de Movilidad;
+
+V. En los casos que la o el residente presente alteraciones de salud física, psicológica y/o psíquica se canalizara a la institución adecuada para su atención;
+
+VI. Organizar la prestación de los servicios de asistencia social para los beneficiarios del centro asistencial a través de las unidades de psicología, trabajo social y control de recursos;
+
+VII. Administrar los recursos humanos, materiales y financieros asignados y/o donados al centro asistencial, en apego a los lineamientos y disposiciones legales vigentes;
+
+VIII. Dirigir, supervisar, planear y coordinar las actividades de atención a los beneficiarios, así como programar y organizar las actividades del personal a su cargo;
+
+IX. Coordinar y supervisar que a todas las personas beneficiarias, se les proporcionen los servicios que ofrece el centro asistencial;
+
+X. Supervisar la realización de las compras necesarias para la alimentación de los beneficiarios, así como de proveer el material necesario para la higiene de los mismos;
+
+XI. Coordinar con la participación de las diferentes áreas del centro asistencial y con el Departamento de Atención a Migrantes de la Procuraduría de Protección de Niñas, Niños, Adolescentes del Sistema DIF Tamaulipas, los indicadores de evaluación de desempeño que se requieran por parte del (sic) Dirección de Centros Asistenciales o demás instituciones involucradas con niñas, niños y adolescentes solos o acompañados de su familia en contexto de movilidad;
+
+XII. Supervisar las diferentes áreas del centro asistencial, verificando su funcionamiento;
+
+XIII. Elaborar la proyección presupuestal de los programas y proyectos a operar en el ejercicio fiscal siguiente por el Departamento y enviar a la Dirección de Centros Asistenciales para su revisión y envío al área correspondiente; y
+
+XIV. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 77.
+
+El Departamento Administrativo de Casa Hogar del Niño, tendrá las atribuciones siguientes:
+
+I. Proporcionar protección integral a las niñas, niños y adolescentes sujetos de asistencia social que sean ingresados al centro asistencial, en un clima de confianza, seguridad y respeto;
+
+II. Fomentar en el personal que reciba a las niñas, niños y adolescentes que deberá ser amable y concreto en su forma de dirigirse, teniendo una actitud de escucha activa, explicando en lenguaje sencillo el funcionamiento del centro asistencial, así como las actividades y servicios que se ofrecen;
+
+III. Organizar la prestación de los servicios de asistencia social para los NNA residentes del centro asistencial, a través de las unidades de psicología, psicopedagogía, trabajo social, medicina, jurídico y control de recursos;
+
+IV. Administrar los recursos humanos, materiales y financieros asignados y/o donados al centro asistencial en apego a los lineamientos y disposiciones legales vigentes;
+
+V. Dirigir, supervisar, planear y coordinar las actividades de atención a los NNA residentes, así como programar y organizar las actividades del personal a su cargo;
+
+VI. Coordinar y supervisar que a todos los NNA residentes, se les proporcionen los servicios de acuerdo a sus necesidades, llevando un seguimiento individual a todo lo que se refiere a su aspecto, nutricional, educativo, psicológico, familiar, médico, jurídico, de capacitación, vestido y esparcimiento;
+
+VII. Proporcionar atención pedagógica a todos los NNA residentes, para favorecer la superación de los problemas de aprendizaje y su desarrollo académico;
+
+VIII. Proporcionar atención psicológica para favorecer el desarrollo de una personalidad sana;
+
+IX. Proporcionar la capacitación para el trabajo a través de la adquisición de conocimientos y desarrollo de habilidades;
+
+X. Procurar las oportunidades en el ámbito educativo, capacitación, deporte, cultura, recreación y aquellos que se requieran para un desarrollo integral;
+
+XI. Supervisar la realización de las compras necesarias para la alimentación de los NNA residentes, según sus necesidades, así como de proveer el material necesario para su higiene;
+
+XII. Coordinar con la participación de las áreas jurídica, de trabajo social, médico y psicopedagogía, los indicadores de evaluación de desempeño que se requieran por parte del Dirección de Centros Asistenciales;
+
+XIII. Supervisar las diferentes áreas del centro asistencial, verificando su funcionamiento;
+
+XIV. En los casos que la o el residente presente alteraciones de salud física, psicológica y/o psíquica se canalizara a la institución adecuada para su atención;
+
+XV. Elaborar la proyección presupuestal de los programas y proyectos a operar en el ejercicio fiscal siguiente por el Departamento y enviar a la Dirección de Centros Asistenciales para su revisión y envío al área correspondiente; y
+
+XVI. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 78.
+
+La Dirección de Atención a Población Prioritaria, tendrá las atribuciones siguientes:
+
+I. Organizar, coordinar y ejecutar los programas que opere la Dirección;
+
+II. Captar recursos económicos y en especie de manera solidaria y subsidiaria, con el fin de apoyar los programas del Sistema DIF Tamaulipas que atienden a la población de mayor vulnerabilidad, promoviendo una cultura de corresponsabilidad, con los Sistemas DIF Municipales, la sociedad y las empresas socialmente responsables;
+
+III. Detectar áreas de oportunidad para el acopio de recursos monetarios y en especie, a través de la vinculación permanente con organismos públicos, con la finalidad de coadyuvar en las actividades para la asistencia social dirigidas a la población vulnerable y el registro, manejo y control de donaciones;
+
+IV. Gestionar ante los organismos e instituciones de los sectores público y privado, su colaboración económica y en especie, para otorgar apoyos de asistencia social, trabajando en forma organizada y eficiente para alcanzar una meta económica definida en un periodo de tiempo determinado;
+
+V. Mantener vinculación permanente con los organismos públicos y privados, empresas y organismos de la sociedad civil con la finalidad de obtener donativos y recursos económicos que apoyen las acciones del Sistema DIF Tamaulipas;
+
+VI. Planear, coordinar y ejecutar las brigadas y campañas para brindar asistencia social a los grupos vulnerables, a fin de otorgar servicios médicos y de asistencia social a los grupos identificados como vulnerables en el Estado;
+
+VII. Establecer la coordinación necesaria con la Secretaría de Salud del Estado, los Sistemas DIF Municipales, las instituciones de educación y la sociedad civil, con la finalidad de reforzar las acciones y programas de asistencia social y atención médica a los grupos vulnerables del Estado;
+
+VIII. Brindar servicios médicos, a través de consultorios fijos y móviles, en coordinación con la Secretaría de Salud del Estado, a fin de proporcionar estos servicios a las personas de escasos recursos;
+
+IX. Fomentar la prestación de servicios de manera coordinada, de las diversas dependencias de la administración pública estatal, a los grupos más vulnerables y marginados del Estado, mediante brigadas que contemplen los servicios de las dependencias participantes;
+
+X. Planear, ejecutar y dar seguimiento a los programas y acciones para la atención a población en condiciones de emergencia;
+
+XI. Diseñar el programa de capacitación anual de acuerdo a las necesidades de la Dirección;
+
+XII. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+XIII. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 79.
+
+El Departamento de Procuración de Fondos, tendrá las atribuciones siguientes:
+
+I. Ampliar las acciones de asistencia social mediante la recaudación de fondos con actividades que motiven a la población a realizar donaciones;
+
+II. Gestionar ante personas físicas y morales nacionales e internacionales, la obtención de recursos para incrementar la cantidad de apoyos a los programas institucionales;
+
+III. Fortalecer a las organizaciones de la sociedad civil para que resuelvan las demandas y problemáticas sociales identificadas por ellas mismas;
+
+IV. Brindar apoyo con prótesis externas de mama a mujeres que hayan pasado por proceso de mastectomía por cáncer;
+
+V. Establecer coordinación con fundaciones, instituciones médicas nacionales o locales para brindar cirugías de reconstrucción de mama;
+
+VI. Apoyar la demanda oftalmológica mediante valoraciones de la vista a través de especialistas, para la realización de cirugías de cataratas, pterigiones o facovitrectomías en coordinación con Patrimonio de la Beneficencia Pública;
+
+VII. Mejorar las condiciones de la vista principalmente a menores de edad y prematuros, mediante cirugías con diagnóstico de catarata congénita, micro oftalmia, retinopatía, estrabismo entre otras en coordinación con fundaciones;
+
+VIII. Apoyar las necesidades de las organizaciones de la sociedad civil, a través de la gestión de proyectos, peticiones, constancias de acreditación entre otras;
+
+IX. Brindar apoyos requeridos y dar atención a peticiones de índole asistencial y de atención específica;
+
+X. Coordinar y ejecutar la construcción total o parcial de vivienda a población rural y/o urbana con alto índice de marginación;
+
+XI. Realizar informes mensuales, trimestrales y anuales de las actividades realizadas por el Departamento;
+
+XII. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por el Departamento; y
+
+XIII. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 80.
+
+El Departamento de Consulta Odontológica, tendrá las atribuciones siguientes:
+
+I. Realizar la consulta médica bucal, brindando diferentes procedimientos y medicamento básico, a través de los consultorios fijos y/o unidades médicas móviles;
+
+II. Realizar campañas odontológicas en coordinación con los Sistemas DIF Municipales, beneficiando a población vulnerable del municipio;
+
+III. Llevar a cabo brigadas de salud bucal en planteles escolares;
+
+IV. Proporcionar atención dental en las Brigadas Transformando Familias, organizadas por la Dirección de Atención a Población Prioritaria;
+
+V. Atender las solicitudes de instituciones en general, para proporcionar atención dental mediante las unidades móviles dentales;
+
+VI. Solicitar el mantenimiento de las unidades móviles dentales para su operación en óptimas condiciones;
+
+VII. Planear la adquisición de medicamento e instrumental médico necesario para la operatividad;
+
+VIII. Realizar informes mensuales, trimestrales y anuales;
+
+IX. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por el Departamento; y
+
+X. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 81.
+
+El Departamento Medicina Familiar, tendrá las atribuciones siguientes:
+
+I. Participar en las actividades del Sistema DIF Tamaulipas, que correspondan a las funciones del Departamento;
+
+II. Participar en las Campañas Nacionales de Salud;
+
+III. Establecer relación con las instituciones de salud para dar continuidad y atención de calidad;
+
+IV. Brindar consulta médica de primer nivel de atención con dotación del cuadro básico de medicamento;
+
+V. Detectar y atender enfermedades crónico degenerativas;
+
+VI. Priorizar la atención médica a menores de 5 años y mayores de 60 años;
+
+VII. Enfatizar la atención en enfermedades infectocontagiosas;
+
+VIII. Atender al paciente migrante;
+
+IX. Valorar a matrimonios en programa de adopciones;
+
+X. Visitas domiciliarias con el programa de Procuraduría de la Defensa del Adulto Mayor;
+
+XI. Expedir certificados médicos de salud;
+
+XII. Canalizar al servicio de estudios de laboratorio básico;
+
+XIII. Planear la adquisición de medicamento e instrumental médico necesario para la operatividad;
+
+XIV. Realizar informes mensuales, trimestrales y anuales;
+
+XV. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por el Departamento; y
+
+XVI. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 82.
+
+El Departamento de Brigadas, tendrá las atribuciones siguientes:
+
+I. Promover la coordinación interinstitucional para facilitar el acceso de la población a programas sociales y de asistencia social del Sistema DIF Tamaulipas y del Gobierno del Estado;
+
+II. Participar con los programas institucionales de manera integral y periódica para atender las principales necesidades de la población que acuda a la brigada;
+
+III. Establecer un calendario de brigadas a realizar en los municipios;
+
+IV. Realizar reuniones previas a las brigadas con los enlaces de las diferentes dependencias, para dar a conocer las fechas de las brigadas y reunir información sobre los servicios que se prestaran durante la actividad;
+
+V. Realizar la logística previa a la realización de la brigada;
+
+VI. Informar a la superioridad sobre los resultados de las brigadas;
+
+VII. Solicitar el mantenimiento de los vehículos asignados al área para sus óptimas condiciones;
+
+VIII. Organizar las campañas médicas (oftalmológica de lentes graduados, estrabismo, cataratas, auditivos);
+
+IX. Difundir las campañas médicas a la población;
+
+X. Registrar a las personas interesadas en la campaña;
+
+XI. Establecer programación para cirugía a los pacientes registrados previa valoración médica;
+
+XII. Establecer un control de información de las peticiones y cirugías otorgadas en cada campaña realizada (lugar-fecha-municipio);
+
+XIII. Realizar la logística previa de cada campaña;
+
+XIV. Realizar informe al finalizar las campañas médicas;
+
+XV. Realizar informes mensuales, trimestrales y anuales;
+
+XVI. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por el Departamento; y
+
+XVII. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 83.
+
+El Departamento de Salud Integral de la Mujer, tendrá las atribuciones siguientes:
+
+I. Brindar consulta médica, acciones y servicios médicos de primer nivel de atención, a través de los consultorios fijos y/o unidades médicas móviles, haciendo énfasis en la prevención y detección del cáncer ginecológico;
+
+II. Canalizar los casos detectados de cáncer ginecológico y darle el seguimiento correspondiente;
+
+III. Participar en las actividades médicas que realice el Sistema DIF Tamaulipas (brigadas, campañas médicas, cursos, talleres, pláticas), concernientes a la salud integral de la mujer;
+
+IV. Organizar las campañas gratuitas de mastografía y papanicolaou, que se llevan a cabo en los meses de mayo y octubre;
+
+V. Llevar un registro de las beneficiarias en campañas para su seguimiento;
+
+VI. Realizar informe al término de cada campaña;
+
+VII. Planear la adquisición de medicamento e instrumental médico necesario para la operatividad;
+
+VIII. Solicitar el mantenimiento de las unidades móviles para sus óptimas condiciones;
+
+IX. Realizar informes mensuales, trimestrales y anuales;
+
+X. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por el Departamento; y
+
+XI. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 84.
+
+La Subdirección de Atención Ciudadana, tendrá las atribuciones siguientes:
+
+I. Otorgar atención a las diversas solicitudes de demanda ciudadana requeridas a la persona titular de la Presidencia del Patronato del Sistema DIF Tamaulipas y el Poder Ejecutivo, en giras, audiencias de trabajo y aquellas que ingresan directamente a la institución, mediante la clasificación y canalización al área competente, seguimiento y finalización de los asuntos planteados;
+
+II. Satisfacer las necesidades manifestadas por la población solicitante en tiempo y forma, de acuerdo a los lineamientos establecidos;
+
+III. Ser responsable de la atención al público para su orientación e información de los programas sociales, así como de la recepción, control y procesamiento de la correspondencia de la población dirigida al Sistema DIF Tamaulipas, asegurándose que se le dé el tratamiento y respuesta correspondiente por el área responsable;
+
+IV. Atender de manera personalizada a la ciudadanía que requiera ser asistida y que por su condición se encuentren en un estado vulnerable, identificándolos y canalizándolos inmediatamente al área correspondiente, para su seguimiento hasta su conclusión;
+
+V. Autorizar los apoyos de asistencia social dependiendo del monto establecido para la Subdirección y proporcionar un análisis y las alternativas correspondientes para la solución de cada caso en específico;
+
+VI. Efectuar acciones y actividades de investigación documental y de campo que conlleven a la determinación de alternativas de solución, para disminuir la problemática que viven la población de escasos recursos y que requieren de un seguimiento especial;
+
+VII. Diseñar el programa de capacitación anual de acuerdo a las necesidades de la Subdirección;
+
+VIII. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Subdirección; y
+
+IX. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 85.
+
+El Departamento de Seguimiento y Trabajo Social, tendrá las atribuciones siguientes:
+
+I. Atender de manera personalizada a la ciudadanía que requiera ser asistida y que por su condición se encuentren en un estado vulnerable, identificándolos y canalizándolos inmediatamente al área correspondiente, para su seguimiento hasta su conclusión;
+
+II. Efectuar acciones y actividades de investigación documental y de campo que conlleven a la determinación de alternativas de solución, para disminuir la problemática que viven la población de escasos recursos y que requieren de un seguimiento especial
+
+III. Autorizar los apoyos de asistencia social dependiendo del monto establecido para la Subdirección y proporcionar un análisis y las alternativas correspondientes para la solución de cada caso en específico;
+
+IV. Realizar informes mensuales, trimestrales y anuales;
+
+V. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por el Departamento; y
+
+VI. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 86.
+
+La Dirección de Programas Alimentarios, tendrá las atribuciones siguientes:
+
+I. Favorecer un estado nutricional adecuado de los grupos de atención prioritaria complementando su dieta mediante la entrega de alimentos nutritivos e inocuos;
+
+II. Planear, ejecutar y dar seguimiento a los programas correspondientes a los recursos federales y estatales asignados a la operación de los programas alimentarios;
+
+III. Administrar adecuadamente los recursos asignados por la Dirección General, con el objetivo de atender a los grupos prioritarios en su necesidad elemental de alimentación a través de los programas, proyectos y acciones;
+
+IV. Gestionar recursos financieros, materiales y humanos para el adecuado funcionamiento de los programas alimentarios;
+
+V. Elaborar, ejecutar y dar seguimiento al cumplimiento de la normativa aplicable para cada programa alimentario operado por la Dirección;
+
+VI. Establecer la coordinación necesaria con diferentes secretarías, entidades y organismos gubernamentales estatales y federales, con la finalidad de reforzar las acciones de los programas alimentarios;
+
+VII. Mantener constante coordinación con los Sistemas DIF Municipales para la ejecución, control y seguimiento de los programas alimentarios;
+
+VIII. Mantener coordinación con los proveedores para que exista eficiencia y calidad en la distribución de los insumos alimentarios;
+
+IX. Brindar asesoría a los Sistemas DIF Municipales, a los comités establecidos y a las personas titulares de derecho de los programas alimentarios en materia de orientación y educación alimentaria, así como de aseguramiento de la calidad;
+
+X. Coordinar la supervisión de los programas alimentarios, a fin de lograr la detección oportuna de deficiencias que les impidan su buen desempeño;
+
+XI. Apoyar el mejoramiento de las condiciones de la infraestructura, equipamiento y mobiliario de los diferentes espacios en que operan los distintos programas alimentarios;
+
+XII. Vigilar que se emitan los avances de los programas operativos en los sistemas de información correspondientes a cada área;
+
+XIII. Diseñar el programa de capacitación anual de acuerdo a las necesidades de la Dirección;
+
+XIV. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+XV. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 87.
+
+El Departamento de Desayunos Escolares y Comedores Comunitarios, tendrá las atribuciones siguientes:
+
+I. Apoyar a la Dirección de Programas Alimentarios, coordinando la operación de programas alimentarios en los municipios del Estado, para favorecer un estado nutricional adecuado de los grupos de atención prioritaria complementando su dieta mediante la entrega de alimentos nutritivos e inocuos;
+
+II. Coadyuvar en la elaboración de planes de trabajo, programas, proyectos e informes para la operación de recursos federales y estatales;
+
+III. Contribuir en la elaboración, ejecución y seguimiento al cumplimiento de la normativa aplicable para los programas alimentarios a cargo del Departamento;
+
+IV. Coadyuvar en la administración adecuada de los recursos asignados a los programas, proyectos y acciones;
+
+V. Establecer coordinación interinstitucional con diferentes secretarías, entidades y organismos gubernamentales, estatales y federales, con la finalidad de reforzar las acciones de los programas alimentarios;
+
+VI. Coordinar el trabajo interinstitucional con Sistemas DIF Municipales, para la ejecución, control y seguimiento de los programas alimentarios;
+
+VII. Contribuir con la coordinación de proveedores para que exista eficiencia y calidad en la distribución de los insumos alimentarios;
+
+VIII. Apoyar el mejoramiento de las condiciones de la infraestructura, equipamiento y mobiliario de los diferentes espacios en que operan los distintos programas alimentarios;
+
+IX. Coordinar, programar y supervisar el avance de captura de información en los sistemas de información designados para cada programa;
+
+X. Informar permanentemente al área superior inmediata de las acciones programadas, en proceso y concluidas, con la finalidad de unificar criterios para el cumplimiento de los objetivos;
+
+XI. Contribuir en el diseño del programa de capacitación anual de acuerdo a las necesidades del Departamento;
+
+XII. Coadyuvar en la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente;
+
+XIII. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 88.
+
+El Departamento de Asistencia Social Alimentaria, tendrá las atribuciones siguientes:
+
+I. Apoyar a la Dirección de Programas Alimentarios, coordinando la operación de programas alimentarios en los municipios del Estado, para favorecer un estado nutricional adecuado de los grupos de atención prioritaria complementando su dieta mediante la entrega de alimentos nutritivos e inocuos;
+
+II. Coadyuvar en la elaboración de planes de trabajo, programas, proyectos e informes para la operación de recursos federales y estatales.; (sic)
+
+III. Contribuir en la elaboración, ejecución y seguimiento al cumplimiento de la normativa aplicable para los programas alimentarios a cargo del Departamento;
+
+IV. Coadyuvar en la administración adecuada de los recursos asignados a los programas, proyectos y acciones;
+
+V. Establecer coordinación interinstitucional con diferentes secretarías, entidades y organismos gubernamentales, estatales y federales, con la finalidad de reforzar las acciones de los programas alimentarios;
+
+VI. Coordinar el trabajo interinstitucional con Sistemas DIF Municipales, para la ejecución, control y seguimiento de los programas alimentarios;
+
+VII. Contribuir con la coordinación de proveedores para que exista eficiencia y calidad en la distribución de los insumos alimentarios;
+
+VIII. Apoyar el mejoramiento de las condiciones de la infraestructura, equipamiento y mobiliario de los diferentes espacios en que operan los distintos programas alimentarios;
+
+IX. Coordinar, programar y supervisar el avance de captura de información en los sistemas de información designados para cada programa;
+
+X. Informar permanentemente al área superior inmediata de las acciones programadas, en proceso y concluidas, con la finalidad de unificar criterios para el cumplimiento de los objetivos;
+
+XI. Contribuir en el diseño del programa de capacitación anual de acuerdo a las necesidades del Departamento;
+
+XII. Coadyuvar en la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente;
+
+XIII. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 89.
+
+La Dirección de Fortalecimiento Familiar, tendrá las atribuciones siguientes:
+
+I. Coadyuvar a diseñar y/o modificar la normatividad y coordinar los programas y proyectos integrales de prevención y atención de grupos vulnerables como la familia y los adultos mayores, para que favorezcan su reincorporación familiar, educativa, laboral y social;
+
+II. Vigilar y cumplir con las disposiciones técnico–administrativas relativas a la familia que emita la Dirección General;
+
+III. Elaborar, revisar y supervisar que los proyectos productivos sean otorgados de acuerdo a la norma establecida vigente;
+
+IV. Planear, coordinar, dirigir y controlar las actividades de los programas, obteniendo el máximo aprovechamiento de los recursos humanos, materiales y financieros;
+
+V. Verificar que los proyectos derivados de sus funciones sean proporcionados a los grupos sujetos de asistencia social;
+
+VI. Establecer la coordinación necesaria con las dependencias federales o estatales y el sector privado, en las acciones relacionadas al desarrollo de la familia y los adultos mayores;
+
+VII. Diseñar el programa de capacitación anual de acuerdo a las necesidades de la Dirección;
+
+VIII. Sostener reuniones con encargados de los departamentos y personal, para planear y dirigir actividades propias de cada área;
+
+IX. Supervisión de los centros dependientes de esta Dirección y los de los Sistemas DIF Municipales, para el buen funcionamiento de los mismos;
+
+X. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+XI. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 90.
+
+El Departamento de Supervisión y Seguimiento, tendrá las atribuciones siguientes:
+
+I. Supervisión de los centros dependientes de la Dirección de Fortalecimiento Familiar y los de los Sistemas DIF Municipales, para su buen funcionamiento;
+
+II. Apoyar en las acciones, eventos y actividades de los programas que opera la Dirección de Fortalecimiento Familiar;
+
+III. Apoyar en la entrega de apoyos a los municipios;
+
+IV. Realizar acuerdos con servicios generales para apoyos de mantenimiento de los centros;
+
+V. Supervisión de parque vehicular asignado a la Dirección y su mantenimiento;
+
+VI. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+VII. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 91.
+
+El Departamento de Atención a la Infancia, tendrá las atribuciones siguientes:
+
+I. Coordinar y vigilar que las niñas y niños que se atienden en los Centros de Atención Infantil del Sistema DIF Tamaulipas y de los Sistemas DIF Municipales, reciban la atención adecuada;
+
+II. Verificar que los centros cumplan con las disposiciones federales y estatales, apoyando la integración del bienestar familiar, la formación educativa y fomentar el sano crecimiento físico y mental de la niñez;
+
+III. Reportar la cobertura de los CAIC del Estado al Sistema Nacional DIF, a fin de integrar una base de datos nacional;
+
+IV. Capacitar y orientar a las y los responsables del programa, en los Sistemas DIF Municipales;
+
+V. Programar presupuesto anual, para realizar las actividades propias del programa;
+
+VI. Realizar supervisiones de las acciones de los responsables municipales;
+
+VII. Monitorear vía electrónica el Sistema Integral de Información Educativa, SIIE, en sus módulos de estructuras educativas, de control escolar, de estadística educativa y de educación saludable;
+
+VIII. Gestionar ante la SET, las notificaciones de movimientos en los centros de trabajo, así como los movimientos de apertura, incremento de capacidad y eliminación de los CAIC y las guarderías;
+
+IX. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por el Departamento; y
+
+X. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 92.
+
+El Departamento de Atención a Jóvenes, tendrá las atribuciones siguientes:
+
+I. Desarrollar acciones tendientes al mejoramiento físico, intelectual y emocional de los jóvenes, mediante capacitaciones en materia de prevención de adicciones, promoviendo la participación social, orientada a crear conciencia y responsabilidad para fortalecer la unidad y la integración familiar;
+
+II. Reportar las coberturas de prevención de embarazo en niñas, niños y adolescentes, prevención de adicciones y acoso escolar, del estado al Sistema Nacional DIF;
+
+III. Promover y organizar eventos culturales, deportivos y recreativos, dirigidos a los jóvenes sobre las temáticas de prevención de embarazo adolescentes, adicciones y acoso escolar;
+
+IV. Capacitar a las y los responsables del programa en los Sistemas DIF Municipales;
+
+V. Fortalecer la coordinación interinstitucional, llevando a cabo programas y acciones coordinadas con instituciones u organizaciones que brinden servicios o apoyos que complementen la labor con el DIF Tamaulipas;
+
+VI. Realizar supervisiones de las acciones de los responsables municipales, con el objetivo de conocer el impacto de las actividades que se hayan desarrollado, e identificar aquellas áreas que requieran reforzarse e incorporar elementos que contribuyan a la solución de diversos problemas;
+
+VII. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+VIII. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 93.
+
+El Departamento de Atención al Adulto Mayor, tendrá las atribuciones siguientes:
+
+I. Fortalecer e incrementar la atención de los adultos mayores a través de programas específicos y acciones coordinadas con otras instituciones públicas y privadas y la sociedad civil, para mejorar sus condiciones de vida y promover su desarrollo integral;
+
+II. Implementar acciones innovadoras en beneficio de los adultos mayores, gestionando los recursos económicos y recursos humanos para poder llevarlas a cabo, respetando los lineamientos;
+
+III. Supervisar y dar seguimiento a la operatividad del programa, así como la coordinación con los Sistemas DIF Municipales, con el propósito de prevenir y corregir fallas e implementar mejoras;
+
+IV. Capacitar a las y los responsables del programa en los Sistemas DIF Municipales;
+
+V. Organizar reuniones con enlaces municipales, para conocer sus necesidades y puedan brindar un mejor servicio;
+
+VI. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+VII. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 94.
+
+El Departamento de Atención a la Familia, tendrá las atribuciones siguientes:
+
+I. Coordinar, realizar y supervisar acciones y proyectos que fomenten los valores y fortalezcan la integración familiar, estableciendo una coordinación efectiva con los organismos públicos y privados para el apoyo y operatividad de los proyectos especiales;
+
+II. Reportar las coberturas (sic) trabajo infantil, participación infantil y promoción y difusión de los derechos de niñas, niños y adolescentes, del estado al Sistema Nacional DIF, a fin de integrar una base de datos nacional;
+
+III. Capacitar a las y los responsables del programa en los Sistemas DIF Municipales;
+
+IV. Organizar reuniones con enlaces municipales, para conocer sus necesidades y puedan brindar un mejor servicio a la población tamaulipeca;
+
+V. Programar visitas de supervisión a los municipios para evaluar el trabajo del programa en la población, así como supervisar y asesorar el desarrollo de los CEDIF municipales, con la finalidad de detectar las necesidades que requieran implementar, acciones adicionales o emergentes;
+
+VI. Dirigir y coordinar las actividades del Programa de Atención a la Familia y del Programa PANNARTI;
+
+VII. Coordinar los CEDIF en el estado, que incluyen tanto la capacitación en oficios, como pláticas informativas de desarrollo humano, supervisando las actividades previamente planificadas, para incorporar a la población vulnerable a una vida digna y de oportunidades;
+
+VIII. Promover a través de los coordinadores municipales, la creación de talleres de capacitación en las zonas donde existan las necesidades más apremiantes de desarrollo económico y cultural de las familias;
+
+IX. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+X. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 95.
+
+La Dirección del Centro de Rehabilitación y Educación Especial, tendrá las atribuciones siguientes:
+
+I. Administrar adecuadamente los recursos asignados por la Dirección General, para dirigir las funciones administrativas, médicas y paramédicas requeridas por la normatividad que rige la Dirección del Centro de Rehabilitación y Educación Especial, coordinando y apoyando sus áreas técnicas y administrativas, con el objeto de brindar con calidad, calidez y de la mejor manera la atención y servicio que las y los pacientes merecen; así como la coordinación de las áreas y programas correspondientes a su cargo;
+
+II. Ejecutar acciones tendentes a la integración y al desarrollo de las personas con discapacidad, para su reinserción dentro de la sociedad;
+
+III. Ejecutar acciones tendentes a incorporar a la población beneficiaria a tener una mejor calidad de vida;
+
+IV. Vigilar que se proporcione asistencia médica, psicológica y asistencial a su población objeto, siempre y cuando sean de escasos recursos;
+
+V. Realizar acciones para promover la igualdad entre las personas con discapacidad y las demás personas integrantes de la sociedad;
+
+VI. Supervisar y evaluar los programas de prevención de discapacidad, de formación y desarrollo de personal en materia de discapacidad y rehabilitación para vigilar la aplicación y cumplimiento de los mismos;
+
+VII. Coordinar y supervisar los servicios de vigilancia, jardinería, lavandería e intendencia y otros servicios de terceros, así como la elaboración de reportes de evaluación para su envío;
+
+VIII. Elaborar y supervisar la ejecución y cumplimiento de los programas de valoración y tratamiento a pacientes en el Centro de Rehabilitación a través del otorgamiento de los servicios específicos del área, con el fin de contribuir a su rehabilitación integral;
+
+IX. Coordinar y supervisar la estructuración y actualización del Programa de Detección Temprana de Procesos Discapacitantes, dirigido a madres, padres, maestras, maestros, alumnas y alumnos de las escuelas del área de influencia del Centro de Rehabilitación, para verificar su ejecución y cumplimiento;
+
+X. Coordinar y supervisar la estructuración de los programas de las licenciaturas en terapia física y ocupacional, contemplando los recursos humanos y materiales requeridos para su desarrollo, así como la programación de los horarios por semestre;
+
+XI. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+XII. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 96.
+
+El Departamento de Enseñanza, tendrá las atribuciones siguientes:
+
+I. Coordinar las actividades de enseñanza de los programas: formación de licenciados en terapia física, educación continua y capacitación, campo clínico a instituciones educativas y de salud afines a la rehabilitación, para que los profesionales en formación realicen sus prácticas profesionales y/o servicio social;
+
+II. Coordinar el programa de formación a licenciados en terapia física para formar recursos humanos que proporcionen técnicas de terapia física en el tratamiento de rehabilitación integral;
+
+III. Programar actividades de educación continua con la finalidad de actualizar al personal del CREE sobre los tratamientos profesionales e innovaciones tecnológicas para las personas con discapacidad que requieren el servicio de la institución y mejorar la atención de rehabilitación;
+
+IV. Capacitar al personal adscrito y de apoyo en conocimiento técnico y humanista, para fortalecer las estrategias de atención al paciente;
+
+V. Supervisar las actividades asignadas a los prestatarios de servicio social dentro y fuera del CREE, de acuerdo a su campo clínico o especialidad;
+
+VI. Elaborar el proyecto de presupuesto requerido para el funcionamiento del Departamento de Enseñanza;
+
+VII. Enviar al Sistema Nacional DIF los reportes y actividades realizadas por el Departamento de Enseñanza;
+
+VIII. Revisar el plan de estudios de la Licenciatura en Terapia Física y Ocupacional y programar los horarios semestrales;
+
+IX. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+X. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 97.
+
+El Departamento Administrativo, tendrá las atribuciones siguientes:
+
+I. Participar en la elaboración de los proyectos de presupuesto ante el Sistema DIF Tamaulipas;
+
+II. Ejecutar las funciones administrativas de acuerdo a las actividades y necesidades de cada área de trabajo, coadyuvando al efectivo cumplimiento de los objetivos establecidos;
+
+III. Reportar periódicamente a la Dirección General del Sistema DIF Tamaulipas, las cuotas de recuperación ingresadas al Centro de Rehabilitación y Educación Especial;
+
+IV. Enviar diariamente a la Dirección de Administración y Finanzas del Sistema DIF Tamaulipas, el ingreso de cuotas de recuperación del Centro de Rehabilitación y Educación Especial para el registro correspondiente;
+
+V. Mantener actualizado el control de inventarios del Centro de Rehabilitación y Educación Especial mediante el levantamiento de resguardos de los bienes muebles;
+
+VI. Analizar y supervisar que los trámites que se efectúen sean transparentes y confiables;
+
+VII. Coordinar el apoyo a las áreas en la realización de eventos según se requieran;
+
+VIII. Validar los movimientos de altas, bajas, cambios de adscripción e incidencias del personal administrativo y operativo, ante el Sistema DIF Tamaulipas y el Sistema Nacional DIF;
+
+IX. Autorizar y suministrar en forma óptima, los recursos necesarios para el buen funcionamiento del Centro de Rehabilitación y Educación Especial;
+
+X. Tramitar el cobro de servicios subrogados a las instituciones de salud por medio de facturas cotejadas con los reportes de los servicios otorgados al paciente, para recuperar el ingreso por los servicios prestados en Centro de Rehabilitación y Educación Especial;
+
+XI. Informar oportunamente a la Dirección del CREE, las actividades realizadas con el objeto de retroalimentar y fortalecer el trabajo desempeñado;
+
+XII. Elaborar el programa anual de la comisión mixta de seguridad, higiene y medio ambiente en el trabajo;
+
+XIII. Enviar al Sistema Nacional DIF los informes correspondientes de las actividades realizadas por el Centro de Rehabilitación y Educación Especial;
+
+XIV. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+XV. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 98.
+
+El Departamento de Valoración y Tratamiento, tendrá las atribuciones siguientes:
+
+I. Supervisar la atención a usuarios en la preconsulta de primera vez, consulta médica especializada y subsecuente;
+
+II. Supervisar el tratamiento proporcionado a usuarios en las áreas de terapia;
+
+III. Coordinar la elaboración y reparación de órtesis y prótesis;
+
+IV. Detectar oportunamente padecimientos discapacitantes en el Centro de Rehabilitación y Educación Especial;
+
+V. Supervisar la atención a usuarios en el programa de estimulación múltiple temprana;
+
+VI. Supervisar la atención a usuarios en el programa de escuela para familias con hijos con discapacidad;
+
+VII. Supervisar la atención a usuarios en el programa de inclusión educativa de menores con discapacidad al ámbito escolar;
+
+VIII. Supervisar la atención a usuarios en el programa de rehabilitación e inclusión laboral para las personas con discapacidad;
+
+IX. Supervisar la atención a usuarios en el programa de prevención de discapacidad en enfermedades crónico degenerativas;
+
+X. Supervisar el registro mensual de información enviada al Sistema DIF Tamaulipas y al Sistema Nacional DIF sobre los servicios prestados por el Centro de Rehabilitación y Educación Especial;
+
+XI. Supervisar las UBR y CRI en el Estado;
+
+XII. Supervisar la atención a usuarios en el programa de atención al adulto mayor en el CREE;
+
+XIII. Elaborar e integrar la programación anual de metas del programa de prevención, rehabilitación e inclusión social de las personas con discapacidad y sus familias;
+
+XIV. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+XV. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 99.
+
+El Departamento de Psicología y Autismo, tendrá las atribuciones siguientes:
+
+I. Dirigir, coordinar y evaluar el desempeño asertivo de los recursos humanos y la optimización de los recursos materiales necesarios para garantizar ambientes educativos terapéuticos que permitan a las niñas y niños con TEA un desarrollo integral;
+
+II. Corroborar que el CATAM este apegado a las políticas y normas institucionales del Sistema DIF Tamaulipas;
+
+III. Dirigir, organizar y coordinar las actividades del Departamento de Psicología y Autismo hacia la consecución de brindar atención terapéutica-escolarizada de calidad a las niñas y niños con TEA;
+
+IV. Guiar los procesos de valoración, intervención e inclusión de los niños con TEA, adscritos al centro;
+
+V. Impulsar relaciones interpersonales y trabajo colaborativo asertivo;
+
+VI. Impulsar procesos de evaluación interna y procesos de mejora con enfoque de innovación y calidad;
+
+VII. Convocar y presidir reuniones de profesionales y de padres de familia;
+
+VIII. Promover y gestionar la formación continua para el equipo profesional del Departamento de Psicología y Autismo;
+
+IX. Aprobar los programas y/o proyectos de carácter administrativo, terapéutico, formación profesional y de difusión e impacto a la sociedad;
+
+X. Elaborar el proyecto de presupuesto requerido para el funcionamiento del Departamento de Psicología y Autismo;
+
+XI. Administrar los recursos materiales y financieros bajo su responsabilidad;
+
+XII. Gestionar los recursos humanos, inmuebles y materiales necesarios para el adecuado funcionamiento del Departamento de Psicología y Autismo;
+
+XIII. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+XIV. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 100.
+
+El Departamento de Conservación y Mantenimiento, tendrá las atribuciones siguientes:
+
+I. Mantener en óptimas condiciones los bienes muebles e inmuebles asignados al Centro de Rehabilitación y Educación Especial, a fin de contar con instalaciones que fortalezcan el ambiente de trabajo y permita a nuestros usuarios servicio de excelencia;
+
+II. Elaborar el programa operativo anual de trabajo del área, informando periódicamente del cumplimiento del mismo;
+
+III. Elaborar el programa de servicio de mantenimiento preventivo de los equipos médicos, electromédicos y diagnóstico de este Centro de Rehabilitación y Educación Especial;
+
+IV. Coordinar conforme a la normatividad vigente, la difusión y el cumplimiento de las políticas, normas y lineamientos para la conservación y mantenimiento de las instalaciones, equipo, maquinaria y mobiliario;
+
+V. Elaborar el proyecto de presupuesto requerido para el funcionamiento del Centro de Rehabilitación y Educación Especial;
+
+VI. Elaborar, coordinar y controlar el plan de supervisión del personal bajo responsabilidad del área;
+
+VII. Coordinar al personal subordinado para la realización de tareas de conservación y mantenimiento a fin de brindar un mejor servicio a las distintas áreas del Centro de Rehabilitación y Educación Especial;
+
+VIII. Realizar acciones de supervisión en todas las áreas del Centro de Rehabilitación y Educación Especial, con la finalidad de corroborar la realización de las actividades programadas;
+
+IX. Implementar y coordinar permanentemente un programa de ahorro de energía del Centro de Rehabilitación y Educación Especial;
+
+X. Integrar y operar la unidad interna de protección civil;
+
+XI. Elaborar el programa anual de protección civil;
+
+XII. Atender las recomendaciones de la comisión mixta de seguridad, higiene y medio ambiente en el trabajo;
+
+XIII. Informar permanentemente al área superior inmediata de las actividades programadas, en proceso y concluidas, con la finalidad de unificar criterios para el cumplimiento de los objetivos;
+
+XIV. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+XV. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 101.
+
+El Departamento de Atención a Personas con Discapacidad, tendrá las atribuciones siguientes:
+
+I. Planear, diseñar y realizar acciones y servicios en beneficio de la población con discapacidad en el estado de Tamaulipas;
+
+II. Elaborar el programa operativo anual de trabajo;
+
+III. Establecer la estrategia de capacitación e información constante y permanente con los coordinadores del programa en los 43 municipios del estado;
+
+IV. Elaborar el presupuesto anual del programa de atención a personas con discapacidad;
+
+V. Mantener comunicación permanente con los directores y coordinadores en los 43 municipios, para la entrega de servicios del programa Lazos de Esperanza y realización de acciones a favor de la población con discapacidad en sus municipios;
+
+VI. Coordinar la entrega de la dotación de insumos nutricionales e higiénicos, a municipios sedes y a los beneficiarios del programa;
+
+VII. Coordinar la entrega de servicios del programa Lazos de Esperanza;
+
+VIII. Diseñar y proyectar en los 43 municipios, eventos en los que se promueva la integración social de las personas con discapacidad en Tamaulipas;
+
+IX. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+X. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 102.
+
+La Dirección de Vinculación, tendrá las atribuciones siguientes:
+
+I. Apoyar a las unidades administrativas que conforman el Sistema DIF Tamaulipas, en las acciones programadas, dirigidas a la población vulnerable en los 43 municipios del estado;
+
+II. Promover, organizar y participar en las actividades de difusión y capacitación que contribuyan a la mejor ejecución de los programas, proyectos y acciones del Sistema DIF Tamaulipas, en los 43 municipios de la entidad;
+
+III. Brindar asesoría y apoyo técnico a los titulares de las jefaturas de departamento y de unidad que conforman la Dirección, respecto de los servicios, estrategias y acciones programadas de manera conjunta con los Sistemas DIF Municipales y demás instituciones o dependencias de los tres órdenes de gobierno;
+
+IV. Promover la investigación y el intercambio de experiencias entre los organismos e instituciones municipales, incluyendo organizaciones de la sociedad civil y la academia, en favor de la atención de las necesidades de los grupos vulnerables en materia de asistencia social, prevención de la violencia y desarrollo comunitario;
+
+V. Informar permanentemente a la Dirección General, el estado que guardan las acciones, programas y proyectos en materia de Asistencia Social, llevadas a cabo por las unidades administrativas del Poder Ejecutivo y de los municipios;
+
+VI. Establecer mecanismos de coordinación y apoyo con autoridades municipales, para la canalización de población vulnerable que requiere alguna atención especializada;
+
+VII. Brindar el seguimiento a la atención de las diversas solicitudes de la ciudadanía requeridas a la persona titular de la Presidencia del Sistema DIF Tamaulipas y al Poder Ejecutivo;
+
+VIII. Diseñar el programa de capacitación anual de acuerdo a las necesidades de la Dirección;
+
+IX. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+X. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 103.
+
+De acuerdo a su ubicación geográfica, corresponderá a los Departamentos de Vinculación, la atención de los asuntos en materia de asistencia social, prevención de la violencia y desarrollo comunitario y los municipios colindantes, conforme a la siguiente distribución:
+
+I. Departamento de Vinculación Victoria: Abasolo, Casas, Güémez, Hidalgo, Jiménez, Llera, Mainero, Padilla, San Carlos, San Nicolás, Soto La Marina, Victoria y Villagrán.
+
+II. Departamento de Vinculación Reynosa: Gustavo Díaz Ordaz, Reynosa y Río Bravo.
+
+III. Departamento de Vinculación Nuevo Laredo: Camargo, Guerrero, Mier, Miguel Alemán y Nuevo Laredo.
+
+IV. Departamento de Vinculación Matamoros: Matamoros y Valle Hermoso.
+
+V. Departamento de Vinculación San Fernando: Burgos, Cruillas, Méndez y San Fernando.
+
+VI. Departamento de Vinculación Jaumave: Bustamante, Jaumave, Miquihuana, Palmillas y Tula.
+
+VII. Departamento de Vinculación El Mante: Antiguo Morelos, El Mante, Gómez Farías, Nuevo Morelos, Ocampo y Xicoténcatl.
+
+VIII. Departamento de Vinculación Altamira: Aldama, Altamira y González.
+
+IX. Departamento de Vinculación Tampico: Ciudad Madero y Tampico.
+
+###### ARTÍCULO 104.
+
+Los Departamentos de Vinculación de los municipios de Victoria, Reynosa, Nuevo Laredo, Matamoros, San Fernando, Jaumave, El Mante, Altamira y Tampico, tendrá las atribuciones comunes siguientes:
+
+I. Brindar asesoría y apoyo técnico a los titulares de las jefaturas de unidad en los municipios que le corresponden conforme al artículo anterior, respecto de los servicios, estrategias y acciones programadas de manera conjunta con los Sistemas DIF Municipales y demás instituciones o dependencias de los tres órdenes de gobierno y sociedad civil;
+
+II. Coadyuvar y participar en la ejecución de las acciones programadas por las Dirección (sic) de Vinculación, y las unidades administrativas que conforman el Sistema DIF Tamaulipas, dirigidas a la población vulnerable de los municipios que le corresponden;
+
+III. Participar en la promoción y organización de las actividades de difusión y capacitación sobre los programas, proyectos y actividades del Sistema DIF Tamaulipas, para su mejor ejecución en los municipios que le correspondan;
+
+IV. Informar permanentemente a la Dirección de Vinculación del seguimiento a las acciones, programas y proyectos en materia de Asistencia Social, se llevan a cabo en los municipios que le corresponden;
+
+V. Mantener una coordinación estrecha con autoridades municipales, para la canalización de población vulnerable que requiere alguna atención especializada;
+
+VI. Dar seguimiento a la atención de las diversas solicitudes de la ciudadanía requeridas a la persona titular de la Presidencia del Sistema DIF Tamaulipas y al Poder Ejecutivo; y
+
+VII. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 105.
+
+La Dirección de Desarrollo Comunitario, tendrá las atribuciones siguientes:
+
+I. Elaborar el anteproyecto de programas a operar por la Dirección y someterlo a consideración de la persona titular de la Dirección General;
+
+II. Diseñar e instrumentar programas de capacitación y proyectos comunitarios transversales, sociales y con enfoque de economía social solidaria;
+
+III. Realizar acciones culturales, recreativas y sociales que promuevan el cuidado del medio ambiente;
+
+IV. Promover la cultura de autoconsumo mediante el otorgamiento de apoyos y capacitación para la instalación de huertos familiares, escolares y comunitarios;
+
+V. Ejecutar la operación de programas que impulse la Federación, a través del Sistema Nacional DIF, en materia de desarrollo y bienestar comunitario;
+
+VI. Coordinar acciones con instancias gubernamentales, asociaciones civiles y sector privado, para la recuperación de espacios públicos en comunidades rurales;
+
+VII. Diseñar (sic) programa de capacitación anual de acuerdo a las necesidades de la Dirección;
+
+VIII. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+IX. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 106.
+
+El Departamento de Seguimiento a Proyectos, tendrá las atribuciones siguientes:
+
+I. Elaborar el programa operativo anual de trabajo del área a su cargo e informar periódicamente el cumplimiento del mismo a la persona titular de la Dirección de Desarrollo Comunitario;
+
+II. Supervisar la aplicación de recursos a través de la implementación de proyectos de desarrollo comunitario;
+
+III. Brindar asesoría técnica para la integración de expedientes que deriven de proyectos operados con recurso federal o estatal;
+
+IV. Monitorear el progreso de los proyectos de desarrollo comunitario implementados y evaluar los resultados obtenidos;
+
+V. Garantizar el cumplimiento de los objetivos establecidos en los proyectos de desarrollo comunitario instrumentados;
+
+VI. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+VII. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 107.
+
+El Departamento de Desarrollo Comunitario, tendrá las atribuciones siguientes:
+
+I. Elaborar el programa operativo anual de trabajo del área a su cargo e informar periódicamente el cumplimiento del mismo a la persona titular de la Dirección de Desarrollo Comunitario;
+
+II. Gestionar recurso federal, estatal o municipal para la implementación de proyectos comunitarios que atiendan las problemáticas que enfrentan las comunidades con alta y muy alta marginación;
+
+III. Impulsar la construcción de huertos familiares, escolares y comunitarios, como un medio que favorezca la economía familiar y promueva el autoconsumo;
+
+IV. Coordinar la operación y mantenimiento del Vivero DIF Tamaulipas;
+
+V. Diseñar programas de capacitación y talleres de desarrollo comunitario que brinden herramientas para mejorar las condiciones de vida de las comunidades marginadas;
+
+VI. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+VII. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+###### ARTÍCULO 108.
+
+El Departamento de Recuperación de Espacios Públicos, tendrá las atribuciones siguientes:
+
+I. Elaborar el programa operativo anual de trabajo del área a su cargo e informar periódicamente el cumplimiento del mismo a la persona titular de la Dirección de Desarrollo Comunitario;
+
+II. Gestionar recursos ante instancias gubernamentales, sector privado y asociaciones civiles, para la recuperación de espacios públicos en comunidades rurales;
+
+III. Identificar espacios públicos que se constituyen en puntos de reunión comunitaria para la implementación de proyectos de recuperación;
+
+IV. Impulsar la organización y participación comunitaria para la ejecución de los proyectos de recuperación de espacios públicos;
+
+V. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Dirección; y
+
+VI. Las demás que en el ámbito de su competencia le delegue la superioridad.
+
+## TÍTULO CUARTO
+
+### CAPÍTULO ÚNICO. DE LAS SUPLENCIAS
+
+###### ARTÍCULO 109.
+
+En las ausencias que no excedan de diez días, la persona titular de la Dirección General será suplida por la persona titular de la unidad administrativa que designe mediante oficio, y si la ausencia fuere mayor, la Junta de Gobierno del Sistema DIF Tamaulipas nombrará a quien se encargue del despacho.
+
+###### ARTÍCULO 110.
+
+Las ausencias de las personas titulares de las unidades administrativas, siempre que no sean mayores de diez días, podrán ser cubiertas por las y los servidores públicos de jerarquía inferior inmediata que sean designadas por la persona titular de la Dirección General, mediante el oficio que al efecto expida.
+
+## TÍTULO QUINTO
+
+### CAPÍTULO ÚNICO. DE LAS REFORMAS Y ADICIONES AL ESTATUTO
+
+###### ARTÍCULO 111.
+
+El presente ordenamiento podrá ser reformado o adicionado por la Junta de Gobierno, en la sesión ordinaria o extraordinaria correspondiente.
 
 T R A N S I T O R I O S
 
-Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO PRIMERO.
 
-Artículo Segundo.- El Ejecutivo Estatal emitirá el Reglamento de la presente Ley dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto.
+El presente Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia de Tamaulipas entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
 
-Artículo Tercero.- El Sistema Estatal a que se refiere esta Ley, se integrará dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto.
+###### ARTÍCULO SEGUNDO.
 
-Artículo Cuarto.- El Reglamento del Sistema deberá expedirse dentro de los sesenta días hábiles siguientes a la instalación del Sistema.
+Se abroga el Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, publicado en (sic) Periódico Oficial del Estado de Tamaulipas Número 99 de fecha 18 de agosto de 2022.
 
-Artículo Quinto.- El diagnóstico estatal a que se refiere la fracción IX del artículo 32 de la presente Ley, deberá realizarse dentro de los 365 días siguientes a la integración del Sistema.
+###### ARTÍCULO TERCERO.
 
-Artículo Sexto.- El Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres, a que se refiere la fracción XX del artículo 33 de esta Ley, deberá integrarse dentro de los 365 días siguientes a la instalación del Sistema.
+Se derogan las disposiciones administrativas que se opongan al presente Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia de Tamaulipas.
 
-Artículo Séptimo.- Los recursos para llevar a cabo los programas y la implementación de las acciones que se deriven de la presente Ley, se cubrirán con cargo al presupuesto autorizado a las dependencias y entidades del Ejecutivo Estatal, Poderes Legislativo y Judicial del Estado y Municipios, para el actual ejercicio fiscal y los subsecuentes.
+###### ARTÍCULO CUARTO.
 
-Para el presente ejercicio fiscal las funciones que para su desempeño requieran necesariamente de recursos económicos, dependerán para su inicio de la suficiencia presupuestal de los tres Poderes del Estado de Nuevo León y de sus Municipios.
+Las funciones de las personas titulares de las unidades administrativas que conforman el Sistema para el Desarrollo Integral de la Familia de Tamaulipas, estarán previstas en el Manual de Organización, que será publicado a los 90 días posteriores a la publicación del presente estatuto.
 
-Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO QUINTO.
 
-Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su capital, a los veintiún días del mes de agosto de 2007.
+Los reglamentos y demás disposiciones normativas del Sistema para el Desarrollo Integral de la Familia de Tamaulipas, deberán de emitirse conforme al presente Estatuto Orgánico.
 
-PRESIDENTE: DIP. FERNANDO ALEJANDRO LARRAZABAL BRETÓN; DIP. SECRETARIA: JUANA AURORA CAVAZOS CAVAZOS; DIP. SECRETARIO: JAVIER PONCE FLORES.- Rúbricas.-
+###### ARTÍCULO SEXTO.
 
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los 23 días del mes de agosto del año 2007.
+Los asuntos cuyo trámite corresponda a las unidades administrativas contempladas en los reglamentos, acuerdos o cualquier otra disposición orgánica que por virtud de la entrada en vigor del presente Estatuto Orgánico queden abrogados, pasarán al conocimiento de las Unidades Administrativas que asuman sus atribuciones, previa suscripción de la respectiva acta de entrega-recepción.
 
-EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NUEVO LEÓN
+###### ARTÍCULO SÉPTIMO.
 
-JOSÉ NATIVIDAD GONZÁLEZ PARÁS
+El presente Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia de Tamaulipas, deberá inscribirse en el Registro Estatal de Organismos Descentralizados.
 
-EL C. SECRETARIO GENERAL DE GOBIERNO
+Dado en Ciudad Victoria, Capital del estado de Tamaulipas, a 6 de julio de 2023.
 
-RODRIGO MEDINA DE LA CRUZ
-
-EL C. SECRETARIO DE SEGURIDAD PÚBLICA
-
-ANTONIO GARZA GARCÍA
-
-EL C. PROCURADOR GENERAL DE JUSTICIA
-
-LUIS CARLOS TREVIÑO BERCHELMANN
-
-EL C. SECRETARIO DE EDUCACION
-
-REYES S. TAMEZ GUERRA
-
-EL C. SECRETARIO DE SALUD
-
-GILBERTO MONTIEL AMOROSO
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 7 DE MAYO DE 2010.
-
-Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 24 DE DICIEMBRE DE 2010.
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 26 DE JUNIO DE 2013.
-
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
-
-Segundo.- La Procuraduría General de Justicia deberá emitir el protocolo de actuación para la investigación del delito de feminicidio, atendiendo a lo señalado en el presente Decreto.
-
-P.O. 1 DE ABRIL DE 2016.
-
-### CAPITULO PRIMERO. De las Dependencias
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE MARZO DE 2018)</small>
-
-###### ARTICULO 57.
-
-Sólo el Presidente de la República y el Gobernador del Estado podrán recurrir a las sesiones del Ayuntamiento con el carácter de autoridades, en atención a su investidura.
-
-###### ARTICULO 58.
-
-A las sesiones del Ayuntamiento deberá asistir siempre el Secretario del mismo, quien únicamente tendrá voz informativa.
-
-###### ARTICULO 59.
-
-El Tesorero del Municipio y los demás funcionarios que se estime conveniente podrán, previo acuerdo del Ayuntamiento, concurrir a las sesiones para informar de algún asunto que les requiera el propio Ayuntamiento, pero en ningún caso podrán participar en las discusiones o votaciones que sobre los mismos recaigan.
-
-###### ARTICULO 60.
-
-El Ayuntamiento integrará comisiones permanentes y las asignará a los Regidores y Síndico, a los que turnará los asuntos que sean de su competencia.
-
-Las comisiones anteriores serán asignadas a propuesta del Presidente Municipal a más tardar en la segunda sesión ordinaria del Ayuntamiento y durarán todo el Período Constitucional.
-
-###### ARTICULO 61.
-
-Los acuerdos del Ayuntamiento se tomarán por mayoría de votos, salvo el caso en que por disposición reglamentaria, se exija votación calificada. El Presidente Municipal o quien haga las veces, tendrá voto de calidad. Cuando no asista el número de miembros necesarios para celebrar la sesión, se citará a una nueva sesión y ésta se llevará a cabo con la presencia del Presidente Municipal y demás asistentes, salvo los asuntos en que reglamentariamente se establezca que se requiere una votación calificada.
-
-###### ARTICULO 62.
-
-De cada sesión del Ayuntamiento se levantará por duplicado un acta circunstanciada en la que se anotará una relación de los asuntos tratados y de los acuerdos del Ayuntamiento.
-
-El acta deberá ser firmada por quienes participaron en la sesión y por el Secretario del Ayuntamiento.
-
-El original del acta lo conservará el propio Ayuntamiento y el duplicado se enviará anualmente al Archivo General del Estado, para acrecentar el acervo histórico de la Entidad.
-
-Las actas originales se foliarán y se encuadernarán trimestralmente, adjuntándose en cada volumen un índice de acuerdos.
-
-Las actas de cabildo serán leídas por el secretario del Ayuntamiento en la siguiente sesión de cabildo, seguido lo cual serán aprobadas por el Ayuntamiento mediante acuerdo económico.
-
-Las observaciones que se formulen al acta serán asentadas por el Secretario del Ayuntamiento previamente a su transcripción al libro de actas.
-
-###### ARTICULO 63.
-
-Podrá dispensarse la lectura del acta si el Secretario remite el proyecto a los integrantes del cabildo cuando menos con cuarenta y ocho horas de anticipación a la sesión en que deba dársele lectura.
-
-En la sesión correspondiente, el Secretario informará de la remisión anticipada y solicitará la dispensa de lectura, tras lo cual se procederá a su aprobación en los términos del artículo anterior.
-
-### CAPITULO SEGUNDO. De las Funciones y Atribuciones de los Servidores Públicos Municipales
-
-APARTADO PRIMERO
-
-DE LA SECRETARIA PARTICULAR
-
-###### ARTICULO 64.
-
-Cualquier persona podrá solicitar una constancia oficial de los acuerdos del Ayuntamiento, pero en todo caso, para proceder a su expedición, se deberá acreditar el legítimo interés del solicitante.
-
-###### ARTICULO 65.
-
-El Presidente Municipal o quien lo sustituya deberá presidir las sesiones del Ayuntamiento y conducir la discusión de las mismas, informando al Ayuntamiento lo que se estime pertinente.
-
-###### ARTICULO 66.
-
-La presentación, discusión y votación de los acuerdos del Ayuntamiento, se deberán sujetar al orden del día presentado por el Presidente Municipal y en la apertura de la sesión se aprobará por el Ayuntamiento, el orden en que serán tratados los asuntos.
-
-###### ARTICULO 67.
-
-En la discusión de los asuntos que se planteen, participarán los miembros del Ayuntamiento que deseen hacerlo. El Presidente Municipal o quien lo sustituya concederá el uso de la palabra, pero en todo caso, observará el orden de solicitud de la misma.
-
-Las participaciones referidas se ajustarán en todo caso al orden del día previamente aprobado y deberán realizarse en términos atentos y respetuosos hacia la asamblea.
-
-###### ARTICULO 68.
-
-En la presentación y discusión de los asuntos del orden del día, cualquier miembro del Ayuntamiento podrá solicitar autorización para utilizar equipo de sonido, fotográfico o electrónico o de ayuda audiovisual para ilustrar a la asamblea.
-
-###### ARTICULO 69.
-
-El Presidente Municipal o quien lo sustituya, al dirigir los debates, podrá tomar parte en la discusión y dar los informes que se le pidieren o que él creyere necesarios para el esclarecimiento de los hechos.
-
-###### ARTICULO 70.
-
-En el caso de la discusión de algún proyecto de reforma o cualquier otra disposición administrativa, la discusión podrá hacerse primero en lo general y enseguida en lo particular, a fin de facilitar la misma.
-
-###### ARTICULO 71.
-
-No podrá suspenderse la discusión de algún asunto a menos que por cualquier causa se levante la sesión, o que, quien lo haya presentado pida estudiarlo con mayor detenimiento en cuyo caso el Presidente Municipal podrá fijar fecha para la nueva discusión.
-
-###### ARTICULO 72.
-
-El Presidente Municipal, al estimarlo procedente, podrá preguntar a la asamblea si considera suficientemente discutido un asunto, en cuyo caso, declarará cerrada la discusión y procederá a levantar la votación de la misma.
-
-###### ARTICULO 73.
-
-Las votaciones del Ayuntamiento serán de tres clases:
-
-a) Votación Económica, que consistirá en levantar la mano los que voten por la aprobatoria. No hacerlo, significa votación en sentido contrario.
-
-b) Votación Nominal, que consistirá en preguntar a cada miembro del Ayuntamiento, comenzando por el lado derecho si aprueba o no el dictamen o asunto en discusión en cuyo caso deberá decir sí o no.
-
-c) Votación Secreta, que se realizará por cédula, en aquellos asuntos en que así lo estime conveniente el propio Ayuntamiento.
-
-###### ARTICULO 74.
-
-El Presidente Municipal, tendrá en todo caso voto de calidad, en caso de empate.
-
-###### ARTICULO 75.
-
-La adopción o revocación de los acuerdos del Ayuntamiento será tomada por mayoría simple, a excepción hecha, de los siguientes casos, en los cuales se requerirá la aprobación de dos terceras partes de los miembros presentes:
-
-a) Cuando se proceda a enajenar bienes del dominio público del Municipio;
-
-b) Cuando se trate de la aprobación y expedición de ordenamientos de carácter municipal;
-
-c) Cuando se pretenda decretar la municipalización de algún servicio público; y
-
-d) Cuando se vaya a decidir sobre la modificación de la categoría política de los centros de población o se altere la división dentro del Municipio.
-
-###### ARTICULO 76.
-
-Se abstendrá de votar y aún de discutir, el que tuviere interés personal en el asunto y el que fuera apoderado de la persona interesada o pariente de la misma, dentro del tercer grado de consanguinidad o segundo de afinidad.
-
-###### ARTICULO 77.
-
-Si el Presidente Municipal estuviere en el caso del artículo anterior, no podrá votar en caso de empate y si hubiere éste, se resolverá el asunto para discutirse y volverse a votar en otra sesión, y si aún en esa hubiera empate, se tendrá como calidad de voto al segundo Regidor, y en su falta, al que le siguiere en la nominación.
-
-###### ARTICULO 78.
-
-El miembro del Ayuntamiento que desee abstenerse de votar, tendrá que manifestarlo expresamente.
-
-###### ARTICULO 79.
-
-Para la revocación de los acuerdos del Ayuntamiento, se requiere el voto de la mayoría simple de los miembros del mismo.
-
-###### ARTICULO 80.
-
-Las cuestiones relativas a la discusión y votación de los acuerdos del Ayuntamiento no previstas en el presente ordenamiento, serán resueltas por el propio Ayuntamiento.
-
-###### ARTICULO 81.
-
-A más tardar en la segunda sesión ordinaria posterior a la de la instalación del Ayuntamiento, éste, a propuesta del Presidente Municipal procederá a establecer las comisiones que para el mejor desempeño de sus funciones, sea necesario; estas comisiones serán permanentes hasta que termine el periodo constitucional del Ayuntamiento; en base a lo establecido en la ley Orgánica Municipal y al presente Código.
-
-###### ARTICULO 82.
-
-Las comisiones del Ayuntamiento tendrán por objeto el estudio, dictamen y propuestas de solución al Ayuntamiento en pleno, de los problemas de los distintos servicios de la administración municipal. Las comisiones establecidas podrán ser modificadas en su número y composición, en cualquier momento, por acuerdo de la mayoría de los miembros del Ayuntamiento.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
-
-###### ARTICULO 83.
-
-El Ayuntamiento de Jesús María, para el eficaz desempeño de sus funciones y el cabal cumplimiento de sus obligaciones, contará con las siguientes comisiones:
-
-1- Gobernación y Licencias
-
-2.- Hacienda
-
-3.- Seguridad Pública, Tránsito y Protección Civil
-
-4.- Asuntos Metropolitanos
-
-5.- Desarrollo Urbano y Territorial
-
-6.- Desarrollo Agrario y Rural
-
-7.- Obras Públicas
-
-8.- Servicios Públicos
-
-9.- Desarrollo Social y Deporte
-
-10.- Educación y Acción Cívica
-
-11.- Desarrollo Económico e Innovación Tecnológica y Calidad Regulatoria
-
-12.- Salud
-
-13.- Agua Potable y Alcantarillado
-
-14.- Asuntos Internacionales y Hermanamientos
-
-15.- Transparencia y Rendición de Cuentas
-
-16.- Patrimonio Municipal
-
-17.- Ecología y Sustentabilidad
-
-18.- Derechos Humanos, Igualdad de Género y Juventud
-
-19.- Desarrollo Integral de la Familia
-
-20.- Cultura, Turismo y Ferias
-
-###### ARTICULO 84.
-
-El Presidente Municipal asumirá en todo caso la presidencia de la comisión de Gobierno Municipal.
-
-###### ARTICULO 85.
-
-Al Síndico municipal le corresponderá ejercer la presidencia de la comisión de hacienda municipal, patrimonio y cuenta pública.
-
-###### ARTICULO 86.
-
-Las comisiones del Ayuntamiento podrán estar integradas hasta por tres regidores en cada una de ellas. Sin embargo, por decisión del propio Ayuntamiento podrán ser ocupadas solamente por uno de ellos como presidente de la misma.
-
-###### ARTICULO 87.
-
-Las comisiones del Ayuntamiento estarán obligadas a presentar en cualquier momento en que sean requeridas por el Ayuntamiento, un informe detallado sobre el estado que guardan sus respectivos ramos y las medidas que a su juicio deban adoptarse para mejorar el funcionamiento de los ramos a su cargo.
-
-###### ARTICULO 88.
-
-Las comisiones del Ayuntamiento podrán solicitar, a través del Secretario del Ayuntamiento, informes a las dependencias administrativas del municipio, para el mejor desempeño de sus funciones; pero en ningún caso podrán atribuirse funciones ejecutivas respecto a los ramos bajo su responsabilidad.
-
-###### ARTICULO 89.
-
-Las comisiones deberán funcionar por separado, pero podrán, previa aprobación del Ayuntamiento, funcionar unidas dos o más de ellas para estudiar, dictaminar y someter a discusión y aprobación del propio Ayuntamiento, algún asunto que requiera de la participación conjunta de algunas de ellas.
-
-###### ARTICULO 90.
-
-La integración y presidencia de las comisiones del Ayuntamiento, permanecerán durante todo el período legal del Ayuntamiento; a menos que por el voto de la mayoría simple de sus miembros, decida el cambio de las mismas. En todo caso, en la discusión deberán participar los miembros de las comisiones que resulten afectadas.
-
-###### ARTICULO 91.
-
-El Presidente Municipal tendrá en todo tiempo la facultad de solicitar a las comisiones la realización de algunas tareas específicas en beneficio del municipio. Dicha solicitud deberá en todo caso hacerla por escrito, el cual les será otorgado a través del Secretario del Ayuntamiento.
-
-###### ARTICULO 92.
-
-Las relaciones del Ayuntamiento con las dependencias de la administración pública municipal se darán en forma directa y exclusiva a través del Presidente Municipal, quien es el superior jerárquico de los empleados municipales y como tal, responsable directo de la función ejecutiva del Municipio.
-
-###### ARTICULO 93.
-
-El Ayuntamiento, a propuesta del Presidente Municipal, podrá remover al Secretario y al Tesorero del mismo, cuando a juicio del cabildo dichos funcionarios incurran en faltas que afecten el eficaz funcionamiento de la administración municipal en algunos de sus ramos.
-
-En todo caso la propuesta deberá estar debidamente fundada y motivada y contener elementos de juicio que justifiquen esta petición. El acuerdo de cabildo deberá ser aprobado por mayoría calificada.
-
-###### ARTICULO 94.
-
-El Síndico y Regidores municipales podrán solicitar al Presidente Municipal la remoción de algún funcionario o empleado de confianza que incurra en las faltas señaladas en el artículo anterior. En tal caso, la solicitud respectiva y la votación del cabildo deberán cumplir los requisitos mencionados en el artículo que precede.
-
-###### ARTICULO 95.
-
-El Presidente Municipal analizará los elementos de juicio aportados y, en un término de quince días naturales, decidirá lo que a su juicio proceda. Contra la resolución que recaiga a dicha solicitud, no procederá recurso alguno.
-
-En el caso de que se decida la remoción de un funcionario o empleado municipal, éste conservará en todo caso, el derecho de acudir ante las autoridades competentes en defensa de sus intereses.
-
-###### ARTICULO 96.
-
-Para el adecuado ejercicio de las atribuciones y responsabilidades ejecutivas que le corresponden, el Ayuntamiento de Jesús María, contará con el apoyo de las siguientes dependencias administrativas, subordinadas y supervisadas por el Presidente Municipal, así como de los organismos públicos descentralizados que al efecto se propongan y constituyan en términos de la presente normatividad:
-
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2017)</small>
-
-I. Corporación Municipal
-
-> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE MARZO DE 2018)</small>
-
-II. Presidencia Municipal
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
-
-Secretaría Privada
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
-
-Coordinación de Relaciones Públicas
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
-
-Departamento de Giras y Eventos
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
-
-Dirección de Comunicación y Difusión:
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
-
-Departamento de Información
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
-
-Departamento de Difusión Institucional
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
-
-Departamento de Medios Digitales
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
-
-Instancia de la Mujer
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
-
-Instancia de la Juventud
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
-
-Instancia del Deporte
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
-
-Instancia de la Cultura
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
-
-Departamento de Turismo
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
-
-Instancia de Salud Pública
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
-
-Departamento de Servicios Médicos y Regulación Sanitaria
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
-
-Departamento de Medicina Alternativa
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE MARZO DE 2018)</small>
-
-Instancia de la Feria de los Chicahuales y Eventos Especiales
-
-> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
-
-III. Jefe de Gabinete
-
-Dirección de Políticas y Programas Federales
-
-Dirección de Proyectos Especiales y del SIPINNA
-
-Coordinación de Mejores Prácticas de Gobierno y Calidad Regulatoria
-
-Centro de Información y Atención Ciudadana
-
-> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
-
-IV. Secretario Particular:
-
-Departamento de Acción Cívica
-
-Departamento de Gestión Social
-
-> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
-
-V. Secretaría del H. Ayuntamiento y Dirección General de Gobierno
-
-Departamento de Protección Civil
-
-Departamento de Reglamentos
-
-Departamento de Áreas Comerciales y Mercados
-
-Dirección de Asuntos Jurídicos
-
-Departamento de Asuntos Administrativos, Contratos y Convenios
-
-Departamento de Asuntos Contenciosos
-
-Dirección de Asuntos Internacionales
-
-Departamento de Hermanamientos y Atención al Migrante
-
-Coordinación de Asesores
-
-Coordinación de Delegados Municipales
-
-Coordinación de Jueces Calificadores
-
-> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
-
-VI. Secretaría de Finanzas
-
-Departamento Jurídico
-
-Dirección de Asuntos Financieros
-
-Departamento de Ingresos
-
-Departamento de Egresos
-
-Departamento de Contabilidad
-
-Dirección de Compras y Licitaciones
-
-> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
-
-VII. Secretaría de Seguridad Pública y Vialidad
-
-Departamento de Policía Vial e Ingeniería de Tránsito
-
-Departamento de Policía Preventiva
-
-Departamento de Asuntos Internos
-
-Dirección Administrativa
-
-> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
-
-VIII. Secretaría de Administración
-
-Coordinación Jurídica
-
-Dirección de Control Administrativo
-
-Oficialía de Partes
-
-Departamento de Recursos Humanos
-
-Departamento de Servicios Generales
-
-Departamento de Enlaces Administrativos
-
-Coordinación de Innovación Tecnológica
-
-Dirección de Control Patrimonial
-
-> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
-
-IX. Secretaría de Servicios Públicos
-
-Departamento Jurídico
-
-Dirección Operativa de Servicios
-
-Departamento de Limpia y Aseo Público
-
-Departamento de Panteones
-
-Departamento de Rastro
-
-Departamento de Jardines
-
-Departamento de Mantenimiento de Áreas Públicas
-
-Departamento de Alumbrado Público
-
-Departamento de Almacén y Enlace Administrativo
-
-Dirección de Estación de Transferencia
-
-> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
-
-X. Secretaría de Desarrollo Social
-
-Departamento del Derecho a la Educación
-
-Departamento de Programa de Acción Municipal (PAM)
-
-Dirección de Programas Sociales
-
-Departamento de Centros de Desarrollo Comunitarios (CEDECOS)
-
-Departamento de Concertación Social
-
-> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
-
-XI. Secretaría de Desarrollo Agrario, Territorial y Urbano Municipal
-
-Departamento de Desarrollo Agrario y Rural
-
-Dirección de Administración y Control Urbano
-
-Departamento de Administración y Control Urbano
-
-Departamento de Planeación Urbana
-
-Departamento de Estadística, Información y Geografía Municipal
-
-Departamento de Fraccionamientos y Condominios
-
-Dirección Jurídica
-
-> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
-
-XII. Secretaría de Medio Ambiente y Sustentabilidad
-
-Departamento de Gestión Ambiental, Recursos Naturales y Biodiversidad
-
-Departamento de Educación Ambiental
-
-> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
-
-XIII. Secretaría de Obras Públicas
-
-Dirección Operativa de Obras Públicas
-
-Departamento de Licitaciones
-
-Departamento de Enlace Gubernamental
-
-Departamento de Costos y Presupuestos
-
-Departamento de Supervisión
-
-Departamento de Proyectos de Edificación
-
-Departamento de Proyectos de Vialidades
-
-Departamento de Instalaciones
-
-Departamento de Expedientes Técnicos y Auditorías
-
-> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
-
-XIV. Secretaría de Auditoría Financiera y Fiscalización
-
-Departamento de Auditoría Financiera y Gubernamental
-
-Departamento Jurídico
-
-Departamento de Auditoria de Obras Públicas
-
-Departamento de Transparencia
-
-> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
-
-XV. Sistema para el Desarrollo Integral de la Familia
-
-Dirección del Desarrollo Integral de la Familia
-
-Departamento del Voluntariado
-
-Departamento de Fortalecimiento Familiar
-
-Departamento de Trabajo Social
-
-Departamento Jurídico
-
-Departamento de Programas de Alimentos
-
-Departamento Administrativo
-
-Departamento de INAPAM
-
-> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
-
-XVI. Secretaría de Desarrollo Económico
-
-Dirección de Fomento Económico
-
-Departamento de Promoción y Desarrollo Empresarial
-
-Departamento de la Unidad Regional de Empleo
-
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2003)</small>
-
-###### ARTICULO 97.
-
-Las dependencias citadas en el artículo anterior conducirán sus actividades en forma programada, con base en las políticas y objetivos previstos en el plan de Gobierno Municipal.
-
-###### ARTICULO 98.
-
-Corresponde a la Secretaría Particular, lo siguiente:
-
-1. Recibir a los funcionarios, comisionados, representantes de grupos y demás personas que soliciten entrevista directa con el Presidente Municipal;
-
-2. Programar y supervisar las giras del Presidente Municipal;
-
-3. Encargarse de la política de relaciones públicas de la Presidencia Municipal;
-
-4. Coordinar la audiencia, la consulta popular y la agenda del Presidente Municipal;
-
-5. Organizar y llevar el archivo, la correspondencia y la documentación de la presidencia municipal;
-
-6. Coordinar y supervisar las dependencias a su cargo; y
-
-7. Los demás asuntos que le sean encargados por el Presidente Municipal.
-
-APARTADO SEGUNDO
-
-DEL COMITE MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA Y VOLUNTARIADO
-
-###### ARTICULO 99.
-
-El Comité Municipal para el Desarrollo Integral de la Familia y Voluntariado, promoverá el bienestar social para lograr el desarrollo integral de la familia y otorgará asistencia social, con las atribuciones que establece el Artículo 49 de la Ley Orgánica Municipal del Estado de Aguascalientes.
-
-APARTADO TERCERO
-
-DE LAS DELEGACIONES MUNICIPALES
-
-###### ARTICULO 100.
-
-Corresponde a las Delegaciones por conducto de sus titulares:
-
-I. Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden;
-
-II. Cuando sea requerido rendir un informe pormenorizado al Presidente Municipal o al Ayuntamiento del estado que guarda la administración de la Delegación;
-
-III. Vigilar que se cumpla estrictamente y se apegue a derecho en todos los asuntos asignados;
-
-IV. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento en sus respectivas áreas, con las autoridades y unidades administrativas correspondientes;
-
-V. Proporcionar información y cooperación técnicas necesarias a las dependencias de la administración pública municipal;
-
-VI. Formular y proponer al Presidente los proyectos de Planes y Programas que correspondan; y
-
-VII. Las demás que le confiera el Ayuntamiento y el Presidente Municipal.
-
-APARTADO CUARTO
-
-SECRETARIA DEL AYUNTAMIENTO Y DIRECCION GENERAL DE GOBIERNO
-
-###### ARTICULO 101.
-
-La Secretaría del Ayuntamiento y Dirección General de Gobierno estará a cargo de un Secretario, quien tendrá además de las facultades y obligaciones que le señalan la Ley Orgánica Municipal del Estado de Aguascalientes y las disposiciones jurídicas aplicables, las siguientes:
-
-I. Auxiliar al Presidente Municipal en todo lo relativo a la administración interna del Municipio;
-
-II. Someter a la consideración del Presidente Municipal los programas y acciones de sus dependencias;
-
-III. Suscribir, junto con el Presidente Municipal, los nombramientos, licencias y remociones de los servidores públicos acordados por el Ayuntamiento;
-
-IV. Atender la audiencia del Presidente Municipal por delegación de éste;
-
-V. Registrar y certificar las firmas de los titulares de las dependencias municipales, así como de las autoridades auxiliares del Ayuntamiento;
-
-VI. Vigilar la adecuada y oportuna publicación de las disposiciones jurídicas administrativas acordadas por el cabildo;
-
-VII. Certificar todos los documentos oficiales expedidos por el Ayuntamiento, sin cuyo requisito no serán válidos;
-
-VIII. Dar a conocer a todas las dependencias del Ayuntamiento los acuerdos tomados por el cabildo y las decisiones del Presidente Municipal;
-
-IX. Auxiliar al Presidente Municipal en las relaciones con los Poderes del Estado y con las otras Autoridades Municipales, Federales y Estatales;
-
-X. Compilar las disposiciones jurídicas que tengan vigencia en el Municipio y vigilar su correcta aplicación;
-
-XI. Auxiliar al Presidente Municipal en el ejercicio de las acciones que en materia electoral le señalen las leyes o los convenios que para el efecto se celebren;
-
-XII. Vigilar a través de los inspectores del ramo, que todos los comercios funcionen de acuerdo a las normas establecidas y que exploten el giro que les fue autorizado, e informar al Ayuntamiento de todos aquellos que infrinjan cualquier disposición administrativa de carácter municipal;
-
-XIII. Intervenir en el trámite de la expedición de los correspondientes títulos de propiedad a efecto de regularizar la tenencia de la tierra en el Municipio;
-
-XIV. Tramitar ante los órganos competentes los asuntos que resulten necesarios para asegurar legalmente el patrimonio municipal;
-
-XV. Coordinar y atender las relaciones con las juntas, comisarías y delegaciones municipales;
-
-XVI. Coordinar y vigilar el ejercicio de las funciones y de la junta municipal de reclutamiento;
-
-XVII. Coordinar y vigilar el correo del Ayuntamiento y el archivo municipal;
-
-XVIII. Coordinar y vigilar, por encargo del Presidente Municipal, las delegaciones de sector que existan en la ciudad;
-
-XIX. Imponer sanciones por violación a los ordenamientos municipales en los términos de los mismos y si está facultado para ello;
-
-XX. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este Código y otras disposiciones legales y reglamentarias.
-
-###### ARTICULO 102.
-
-Todas las disposiciones o comunicaciones oficiales que por escrito dicte el Presidente Municipal deberán estar firmadas por el Secretario del Ayuntamiento.
-
-APARTADO QUINTO
-
-DE LA DIRECCION DE FINANZAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
-
-###### ARTICULO 103.
-
-La Dirección de Finanzas es la dependencia encargada de recaudar, distribuir, administrar y controlar las finanzas públicas municipales, contando con las facultades y obligaciones que le imponen la Ley Municipal del Estado de Aguascalientes, la legislación fiscal federal, estatal y otras leyes y disposiciones de carácter municipal, entre las que se encuentran las siguientes atribuciones:
-
-I. Proponer al Ayuntamiento cuantas medidas sean conducentes al buen orden y mejora de los cobros municipales, haciendo las observaciones que estime convenientes;
-
-II. Proponer al Presidente Municipal el reglamento interior de la oficina, detallando en él los deberes y facultades de los empleados de ella, sujetándolo a la aprobación del Ayuntamiento;
-
-III. Recaudar los impuestos, derechos, productos y aprovechamientos o cualquier contribución que correspondan al municipio de conformidad con la Constitución Estatal, la legislación fiscal local o la Ley de Ingresos Municipal, así como las participaciones que por ley o convenio le correspondan al municipio en el rendimiento de impuestos federales y estatales.
-
-IV. Controlar el Catastro Municipal en base a lo señalado en las disposiciones jurídicas respectivas;
-
-V. Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones fiscales aplicables.
-
-VI. Recaudar los ingresos por servicios prestados en el rastro según lo contempla la Ley de Ingresos del Municipio de Jesús María.
-
-VII. Llevar cuidadosamente la contabilidad de la oficina, sujetándose a los reglamentos respectivos y a los acuerdos especiales del Ayuntamiento abriendo los libros necesarios cuyas hojas primera y última irán certificadas por el Secretario del Ayuntamiento, así como selladas las intermedias;
-
-VIII. Cuidar de la puntualidad de los cobros, de la exactitud de las liquidaciones, de la prontitud en el despacho de los asuntos de su competencia, del buen orden y debida comprobación de las cuentas de ingresos y egresos;
-
-IX. Tener al día los libros de caja, diario, cuentas corrientes y los auxiliares y de registro que sean necesarios para la debida comprobación de los ingresos y egresos;
-
-X. Vigilar la conducta de los empleados fiscales de la dependencia dando cuenta de las faltas u omisiones que observen;
-
-XI. Llevar por sí mismo la caja de la tesorería cuyos valores estarán siempre bajo su inmediato cuidado y exclusiva responsabilidad;
-
-XII. Cuidar que las multas impuestas por las autoridades municipales, ingresen a la tesorería.
-
-XIII. Suspender el cumplimiento de las órdenes de pago que no estén comprendidas en el presupuesto vigente o en acuerdo especial dirigiendo al Ayuntamiento, por escrito y de una manera respetuosa, las observaciones que crea conveniente. Si a pesar de éstas se reiterase la orden de pago se cumplirá bajo la exclusiva responsabilidad de las autoridades que la dictaren o autorizaren;
-
-XIV. Pedir a quien corresponda, se hagan a la tesorería visitas de inspección o de residencia;
-
-XV. Formar por triplicado, el último día de cada mes, un corte de caja del movimiento de caudales habidos en el curso del mes con excepción de las causas y activos de los ingresos, de la existencia que resulte y de las aclaraciones y explicaciones conducentes, uno de los ejemplares se enviará al Congreso del Estado, otro más al Presidente Municipal y el último se depositará en el archivo de la misma;
-
-XVI. Hacer junto con el Síndico las gestiones oportunas en los asuntos en que tenga interés el erario municipal;
-
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
-
-XVII. Formar cada año, en los tiempos que señale la Ley Municipal, el proyecto de Ley de ingresos y egresos correspondientes al año siguiente, remitiéndolo al Ayuntamiento para su estudio. Esta actividad se realizará con honestidad, claridad y transparencia, además de observar el criterio de austeridad, disciplina, racionalidad y equidad de género al elaborar el proyecto de Ley de ingresos y de egresos.
-
-XVIII. Cuidar que el despacho de la oficina se haga en los días y horas fijados por las disposiciones administrativas o por el Ayuntamiento;
-
-XIX. Revisar las cuentas que el Ayuntamiento remita para su estudio haciéndoles las observaciones que crean convenientes;
-
-XX. Cuidar bajo su responsabilidad, del arreglo y conservación del archivo, mobiliario y equipo de la oficina;
-
-XXI. Informar oportunamente al ayuntamiento sobre las partidas que estén próximas a agotarse, para los efectos que proceda;
-
-XXII. Formar la estadística fiscal del Municipio sujetándose a las instrucciones del Ayuntamiento y a los reglamentos respectivos;
-
-XXIII. Concurrir personalmente en unión del Síndico o apoderados al otorgamiento de las escrituras de imposición o reconocimiento de los capitales pertenecientes al Ayuntamiento y a las de cancelación de ellas, cuidando en este último caso, de declarar que el capital ha sido regresado a la caja, y de que se exhiba y protocolice el respectivo certificado de entrega;
-
-XXIV. Cuidar que se fomenten los padrones de los causantes con la debida puntualidad y con arreglo a las prevenciones legales y practicarles revisiones y auditorías;
-
-XXV. Ejercer la facultad económica-coactiva conforme a las leyes y reglamentos vigentes; y
-
-XXVI. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este Código y otras disposiciones legales reglamentarias.
-
-APARTADO SEXTO
-
-DE LA DIRECCION DE ADMINISTRACION
-
-###### ARTICULO 104.
-
-A la Dirección de Administración corresponden las siguientes atribuciones:
-
-I. Colaborar en la formulación del anteproyecto del presupuesto anual del Gobierno Municipal;
-
-II. Controlar conjuntamente con la Secretaría de Finanzas las erogaciones respecto al gasto corriente, conforme al presupuesto de egresos aprobado por el Ayuntamiento;
-
-III. Formular y estudiar los anteproyectos de manuales que específicamente se relacionan con la administración y desarrollo del personal; del patrimonio y los servicios generales;
-
-IV. Proponer, coordinar y controlar las medidas técnicas y administrativas que permitan el buen funcionamiento de la administración pública municipal;
-
-V. Establecer, con la aprobación del Presidente Municipal o del Ayuntamiento, las políticas, normas, criterios, sistemas y procedimientos para la administración de los recursos humanos y materiales del Ayuntamiento;
-
-VI. Detectar, planear y evaluar las necesidades que en materia de recursos humanos requiera la administración para proveer a las dependencias del personal necesario para el desarrollo de sus funciones, por lo que tendrá a su cargo la selección, contratación y capacitación del mismo;
-
-VII. Expedir y tramitar por acuerdo del Ayuntamiento los nombramientos, remociones, renuncias, licencias y jubilaciones de los servidores municipales;
-
-VIII. Establecer las normas, políticas y lineamientos de administración, remuneración, capacitación y desarrollo del personal;
-
-IX. Mantener actualizado el escalafón de los trabajadores municipales, llevar al corriente el archivo de los expedientes personales de los servidores públicos y establecer y aplicar coordinadamente con las unidades administrativas los procedimientos de evaluación y control de los recursos humanos;
-
-X. Vigilar el cumplimiento de las disposiciones legales y estatutarias que rigen las relaciones laborales entre el Gobierno Municipal y los servidores públicos municipales;
-
-XI. Expedir identificaciones al personal adscrito al municipio;
-
-XII. Adquirir y suministrar oportunamente los bienes materiales (mobiliarios y equipos) y servicios (intendencia, transporte) que requieran las distintas dependencias de la administración municipal, así como lo que se requiera para su mantenimiento conforme a las disposiciones legales que regulan su operación;
-
-XIII. Elaborar y mantener el padrón de proveedores de la administración pública municipal;
-
-XIV. Presidir el Comité Municipal de Adquisiciones;
-
-XV. Controlar y vigilar los almacenes mediante la implantación de sistemas y procedimientos que optimicen las operaciones de recepción, guarda, registro y despacho de mercancía, bienes muebles y materiales en general;
-
-XVI. Elaborar, controlar y mantener actualizado el inventario general de los bienes propiedad del Ayuntamiento;
-
-XVII. Efectuar la contratación de los seguros necesarios para la protección de los bienes de la administración pública municipal;
-
-XVIII. Hacerse cargo de la recepción, distribución y despacho de la correspondencia oficial;
-
-XIX. Formular y divulgar el calendario oficial; y
-
-XX. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este Código y otras disposiciones reglamentarias.
-
-###### ARTICULO 105.
-
-El objetivo de éste ordenamiento es organizar, regir y controlar, continua y sistemáticamente, el uso y usufructo de todos los bienes muebles propiedad o al servicio municipal, en apego a políticas normas, lineamientos, reglamentos y leyes en la materia, con el fin de salvaguardarlos a favor del Municipio, buscando en todo momento cuidar los intereses municipales y por ende del bien común.
-
-###### ARTICULO 106.
-
-El presente ordenamiento es de observancia obligatoria para todos los servidores públicos adscritos al Gobierno Municipal de Jesús María, que tengan bajo resguardo o sean usuarios de uno o más bienes muebles propiedad y/o al servicio municipal.
-
-La aplicación de este ordenamiento corresponde a la Subdirección de Recursos Materiales a través del área de control patrimonial y a la Comisión de Seguimiento.
-
-###### ARTICULO 107.
-
-Quedan sujetos al presente ordenamiento todos y cada uno de los bienes muebles propiedad y/o al servicio municipal en cuanto a su entrega, uso, registro, transferencia, reasignaciones, altas, bajas, custodia, resguardo, mantenimiento, daños, robos totales o parciales, valuación, reposición, adquisición y enajenación.
-
-###### ARTICULO 108.
-
-Se entiende por:
-
-I.- Uso y Usufructo: derecho de uso de un bien de otro - Utilidad, fruto o provecho que se obtiene de alguna cosa.
-
-II.- Bien Mueble Municipal: Todo artículo propiedad y/o al servicio municipal, que pueda ser inventariado y registrado por el área de control patrimonial.
-
-III.- Resguardante: Persona física o moral, responsable y custodio de un bien mueble propiedad y/o al servicio municipal, y cuyo compromiso ha quedado registrado en el resguardo patrimonial correspondiente.
-
-IV.- Área de control patrimonial: Dependencia adscrita a la subdirección de recursos materiales, cuya misión es organizar, regir, implementar y controlar continua y sistemáticamente, el uso y usufructo de todos los bienes muebles propiedad y/o al servicio municipal.
-
-V.- Presidencia: Gobierno municipal de Jesús María.
-
-VI.- Área de compras.- Dependencia adscrita a la subdirección de recursos materiales, cuya misión es administrar y suministrar los bienes y servicios requeridos en todas las dependencias municipales, en función de la justificación, los recursos disponibles y lineamientos en la materia.
-
-VII.- Auditor.- Persona física adscrita al área de control patrimonial cuya función es levantar los inventarios físicos y dar seguimiento a los faltantes que resulten de los mismos.
-
-VIII.- Usuario.- Persona física o moral que hace uso del bien mueble propiedad y/o al servicio municipal. El uso podrá ser permanente o eventual y siempre de acuerdo a la función que se desempeñe.
-
-IX.- Bien de Desecho.- Bien mueble que por su naturaleza ha terminado su vida útil, el cual fue utilizado normalmente, ejemplo:
-
-Calculadora de bolsillo, marcadores, reglas plásticas, cojín para sello, bolígrafos, quita grapas, etc.
-
-X.- Bienes Muebles e Inmuebles de Uso Común y Públicos.- Son aquellos que no poseen un resguardo específico, ubicados en áreas públicas municipales y de utilidad general.
-
-## TITULO UNICO. DE LOS BIENES MUEBLES
-
-### CAPITULO PRIMERO. Sobre el uso y Usufructo de Bienes Muebles Propiedad y/o al Servicio Municipal
-
-###### ARTICULO 109.
-
-Todos los bienes muebles propiedad y/o al servicio municipal deberán de usarse por personal adscrito a la presidencia, y su uso será exclusivamente para desempeñar actividades propias de sus funciones, salvo algunas excepciones que determine el subdirector de recursos materiales.
-
-En caso de comprobarse que infrinjan la presente disposición, serán acreedores a las sanciones establecidas en el libro de sanciones del presente ordenamiento, y demás disposiciones aplicables, así como las que determine la comisión.
-
-APARTADO PRIMERO
-
-DEL REGISTRO
-
-###### ARTICULO 110.
-
-Por cada bien mueble propiedad y/o al servicio municipal, deberá existir el resguardo correspondiente, excepción hecha de los bienes muebles de uso común o público, es obligación de cada usuario de un bien mueble municipal, firmar el resguardo correspondiente. El resguardo será elaborado por el auditor adscrito al área de control patrimonial.
-
-## TITULO UNICO. INTEGRACION, ORGANIZACION Y FUNCIONAMIENTO
-
-### CAPITULO PRIMERO. De las Bebidas Alcohólicas
-
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
-
-###### ARTICULO 111.
-
-Todo resguardo de bienes muebles deberá contener la siguiente información:
-
-1. - Fecha
-
-2. - Clave de adscripción
-
-3. - Descripción del bien
-
-4. - Nombre del resguardante
-
-5. - Nombre del director correspondiente
-
-6. - Fecha de adquisición
-
-7. - Valor histórico de adquisición
-
-8. - Estado del bien.
-
-###### ARTICULO PRIMERO.
-
-El presente ordenamiento abroga y deroga las disposiciones administrativas en materia municipal publicadas anteriormente al presente Código.
-
-###### ARTICULO SEGUNDO.
-
-El presente ordenamiento entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado. Los procedimientos y actos realizados por particulares y personas morales se tendrán que adecuar a lo establecido en los libros correspondientes.
-
-###### ARTICULO TERCERO.
-
-Las controversias, interpretación y así como lo no establecido en el presente Código, serán resultas por mayoría de las dos terceras partes de los miembros del Ayuntamiento.
-
-ATENTAMENTE.
-
-SUFRAGIO EFECTIVO. NO REELECCION.
-
-EL PRESIDENTE MUNICIPAL,
-
-Dr. José Luis Mares Medina.
-
-MIEMBROS DEL AYUNTAMIENTO:
-
-L.A.E. Francisco Javier Lomelí Hernández.
-
-Martín Suárez Ibarra.
-
-Susana Martínez Gallardo.
-
-José Medina Hernández.
-
-Rafael Muñoz Delgadillo.
-
-Salvador Delgado Pedroza.
-
-Ma. Guadalupe Delgado Contreras.
-
-SINDICO MUNICIPAL,
-
-L.A.E. Rodolfo Esquivel Cañedo.
-
-EL SECRETARIO DEL AYUNTAMIENTO,
-
-Leobardo Valdez Alba
-
-COLABORADOR Y REALIZADOR,
-
-Lic. Carlos Alberto Vila Maciel.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 20 DE MAYO DE 2002.
-
-PRIMERO.-El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- Para la adecuación de las demás disposiciones legales, relativas a la fusión de las Dependencias mencionadas, se nombra una comisión legislativa, para que dentro del término de 90 días a partir de esta fecha, efectúe los trabajos mencionados.
-
-TERCERO.- Las disposiciones que no contraríen el sentido de la fusión, seguirán observándose.
-
-P.O. 17 DE MARZO DE 2003.
-
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- Los asuntos que se hayan iniciado ante la Comisión de Seguimiento con fecha anterior a la de entrada en vigor del presente decreto, se sujetarán a las disposiciones legales del Código Municipal publicado en fecha 24 de diciembre de 2001 no actualizado, hasta su total conclusión.
-
-P.O. 5 DE JULIO DE 2004.
-
-UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 7 DE FEBRERO DE 2005.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MOFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
-
-P.O. 9 DE ENERO DE 2006.
-
-UNICO.- La presente reforma al Artículo 96 del Código Municipal de Jesús María, Ags., entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes".
-
-P.O. 27 DE AGOSTO DE 2007.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 19 DE NOVIEMBRE DE 2007.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 25 DE FEBRERO DE 2008.
-
-.
-
-SEGUNDO.- Las reformas aprobadas, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 21 DE JULIO DE 2008.
-
-...
-
-SEGUNDO.- Las reformas aprobadas, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 5 DE ENERO DE 2009.
-
-....
-
-SEGUNDO.- Las reformas aprobadas, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 16 DE MARZO DE 2009.
-
-SE REFORMAN Y DEROGAN DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE JESÚS MARÍA, AGUASCALIENTES.
-
-...
-
-TERCERO.- Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-CUARTO.- La autoridad municipal cuenta con un término de 120 días, contados a partir de la entrada en vigencia de las presentes reformas, para que proceda a la regularización de la totalidad de las licencias expedidas para la autorización de la venta y consumo de bebidas alcohólicas, rindiendo al H. Cabildo, informe pormenorizado del resultado de aquella, para emitir los acuerdos e instrucciones a que haya lugar.
-
-QUINTO.- El H. Cabildo, y una vez que se tenga el resultado del procedimiento de regularización ordenado en el punto anterior, procederá a instalar, en un término no mayor de 30 días, el Consejo Municipal de Giros Restringidos sobre Venta y Consumo de Bebidas Alcohólicas, previsto en la Ley que regula la Venta y consumo de Bebidas Alcohólicas en el Estado de Aguascalientes, para que asuma las funciones previstas en tal norma.
-
-P.O. 16 DE MARZO DE 2009.
-
-SE REFORMA EL ARTÍCULO 96 DEL CÓDIGO MUNICIPAL JESÚS MARÍA, AGUASCALIENTES.
-
-...
-
-SEGUNDO.- Las reformas aprobadas, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 15 DE JUNIO DE 2009.
-
-...
-
-CUARTO.- Las reformas al Código Municipal y el Reglamento para el Rastro del Municipio de Jesús María, Ags., entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 6 DE SEPTIEMBRE DE 2010.
+ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- AMÉRICO VILLARREAL ANAYA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HÉCTOR JOEL VILLEGAS GONZÁLEZ.- Rúbrica.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 083. SE ADICIONA UNA FRACCIÓN II AL ARTÍCULO 40 DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NUEVO LEÓN”.]
 
