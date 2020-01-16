@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2019-09-13"
+last_updated: "2020-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2020.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -2703,11 +2703,17 @@ III.- Desde el día en que llegue al conocimiento del representante legal del in
 
 El nombre de las personas físicas o naturales se forma con el nombre propio y los apellidos.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2020)</small>
+
 ###### Artículo 538.
 
-El nombre propio será puesto libremente por quien registre el nacimiento de un niño y los apellidos serán los paternos de los progenitores, sean tales apellidos simples o compuestos.
+El nombre de las personas físicas se conforma con el nombre propio y los apellidos que de común acuerdo determinen los progenitores, ya sean simples o compuestos. Cada progenitor podrá elegir otorgar su primer o segundo apellido.
 
-Si no se sabe quiénes son los padres, el nombre y apellidos serán puestos por quien presente al niño para su registro.
+El orden de los apellidos acordado entre los progenitores, será el mismo que se asentará para todos los hijos o las hijas de la misma filiación.
+
+En caso de no existir acuerdo entre los progenitores, se registrarán los apellidos de los progenitores en el orden en el que determine el progenitor que presente al niño.
+
+Si no se sabe quiénes son los padres, el nombre propio y apellidos serán puestos por quien presente al niño para su registro en términos de la legislación aplicable.
 
 ###### Artículo 539.
 
@@ -2754,6 +2760,10 @@ Procede la enmienda del nombre por rectificación del acta, cuando en ésta se h
 ###### Artículo 548.
 
 Las sentencias ejecutoriadas que desconozcan o establezcan la paternidad o la maternidad producirán respectivamente el efecto de privar u otorgar a la persona de cuya filiación se trate, el derecho al uso del apellido correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2020)</small>
+
+La sentencia que declare la paternidad o maternidad, deberá ordenar al oficial del Registro Civil la inscripción del nombre del menor, privilegiando el orden de los apellidos que haya sido propuesto por la parte actora desde la demanda o en su caso, el que haya sido determinado de común acuerdo por las partes durante el transcurso del juicio.
 
 ###### Artículo 549.
 
@@ -17570,3 +17580,9 @@ P.O. 13 DE SEPTIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 199 POR EL QUE SE REFORMA EL ARTÍCULO 538 Y SE ADICIONA EL SEGUNDO PÁRRAFO AL ARTÍCULO 548. TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+Único. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
