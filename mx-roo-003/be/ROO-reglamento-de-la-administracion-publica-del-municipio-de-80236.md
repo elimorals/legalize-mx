@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-la-administracion-publica-del-municipio-de-80236"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-23"
-last_updated: "2019-01-15"
+last_updated: "2020-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE ISLA MUJERES, QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2020.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 23 de febrero de 2011.
 
@@ -409,7 +409,7 @@ III. Vigilar que el personal adscrito a las Oficialías cumplan (sic) cabalmente
 
 IV. Elaborar la programación y presupuestación de sus recursos, para el eficiente desempeño de sus funciones;
 
-V. Rendir al Secretario General, independientemente de las veces que este así se lo requiera, un, informe mensual de las actividades desarrolladas y del grado de avance de los programas de trabajo, así como al Presidente Municipal cuando éste así se lo requiera;
+V. Rendir al Secretario General, independientemente de las veces que este así se lo requiera, un informe mensual de las actividades desarrolladas y del grado de avance de los programas de trabajo, así como al Presidente Municipal cuando éste así se lo requiera;
 
 VI. Llevar a cabo la elaboración de planes y programas anuales para el mejor desempeño de sus funciones; y
 
@@ -929,11 +929,11 @@ XIX. Imponer sanciones a los servidores públicos que incumplan las instruccione
 
 XX. Las demás que le confiera ésta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2020)</small>
 
 ###### Artículo 37.
 
-Para el despacho de los asuntos que competen a la Contraloría Municipal, se auxiliará en la Unidades (sic) de Auditoría Financiera y la Unidad de Normatividad, Control y valuación, así como en las demás Unidades Administrativas que requiera para su desempeño.
+Para el despacho de los asuntos que competen a la Contraloría Municipal, se auxiliará en la Unidades (sic) de Auditoría Financiera, la Unidad de Normatividad, Control y valuación, la Unidad de Investigación en Materia de Responsabilidades Administrativas y la Unidad de Substanciación, así como en las demás Unidades Administrativas que requiera para su desempeño.
 
 ### CAPITULO IV. DIRECCIÓN GENERAL DE SEGURIDAD PÚBLICA Y TRÁNSITO
 
@@ -965,11 +965,11 @@ XI. Auxiliar a las Dependencias de la Administración Pública Municipal en el e
 
 XII. Las demás que le señalen las leyes, reglamentos, el Bando de Policía y Buen Gobierno y disposiciones y/o acuerdos del propio Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2020)</small>
 
 ###### Artículo 39.
 
-Para el despacho de los asuntos que competen a la Dirección General de Seguridad Pública y Tránsito, se auxiliará en la Dirección de Seguridad Pública, en la Dirección de Tránsito Municipal, en la Dirección Administrativa, Director de la Cárcel y Centro de Retención Municipal así como de la Coordinación General en la Zona Continental y en las demás Unidades Administrativas que requiera para su desempeño.
+Para el despacho de los asuntos que competen a la Dirección General de Seguridad Pública y Tránsito, se auxiliará en la Dirección de Seguridad Pública, en la Dirección de Tránsito Municipal, en la Dirección de Prevención del Delito, en la Dirección Administrativa, Director de la Cárcel y Centro de Retención Municipal así como de la Coordinación General en la Zona Continental y en las demás Unidades Administrativas que requiera para su desempeño.
 
 #### Sección Primera. De la Dirección de Seguridad Pública
 
@@ -1077,7 +1077,71 @@ XXVI. Conceder permisos y licencias en los términos del Reglamento de Tránsito
 
 XXVII. Las demás que se deriven de otras disposiciones legales aplicables.
 
-#### Sección Primera. De la Dirección de Recursos Humanos
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE ENERO DE 2020)</small>
+
+#### Sección Tercera. De la Dirección de Prevención del delito
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2020)</small>
+
+Artículo 41 BIS.- Compete a la Dirección de Prevención del Delito entre otras funciones previstas en las Leyes y Reglamentos Aplicables, las siguientes:
+
+I. Efectuar análisis sobre las causas estructurales del delito, la incidencia en la distribución territorial de éste, las estadísticas de conductas ilícitas, las constancias cronológicas y patrones de las causas que generan el comportamiento delincuencial, que permitan actualizar y perfeccionar la política de seguridad pública en el Municipio.
+
+II. Recabar, procesar e interpretar la información delictiva por medio del análisis de los factores que generan conductas antisociales e identificar las zonas, sectores y grupos de alto riesgo y sus correlativos factores de protección.
+
+III. Emitir esquemas de análisis de las causas generadoras del delito, a fin de proponer programas acordes para desactivar sus efectos y atacar sus factores estructurales.
+
+IV. Difundir y supervisar el programa de orientación normativo a la población para el mejor ejercicio y protección de sus derechos humanos, así como los mecanismos necesarios para su canalización a las autoridades competentes en coordinación con la Unidad Jurídica.
+
+V. Instrumentar y ampliar las políticas, programas, proyectos y supervisar la ejecución de acciones de la Secretaría en materia de prevención del delito, derechos humanos, atención a las víctimas del delito y participación ciudadana.
+
+VI. Proponer la relación institucional con autoridades de los tres órdenes de gobierno, a través del Centro Nacional de Prevención del Delito y Participación Ciudadana en el marco de lo contemplado por la Ley General del Sistema Nacional de Seguridad Pública.
+
+VII. Instrumentar programas de fomento a la protección de los derechos humanos, así como la atención a las víctimas del delito, promoviendo la participación activa de la ciudadanía y de instituciones nacionales e internacionales en la materia.
+
+VIII. Estructurar las bases y criterios para la instrumentación de políticas en el ámbito de la prevención del delito y atención a las víctimas del mismo, la conformación de comités ciudadanos de seguridad pública y/o enlaces seguridad y comunidad ciudadana, para la prevención de los delitos, el fomento de la difusión de la cultura de derechos humanos, acorde con los lineamientos aplicables.
+
+IX. Mantener relaciones de colaboración con instituciones públicas, privadas y organizaciones sociales para la ejecución de acciones conjuntas encaminadas a prevenir la comisión de delitos y garantizar el pleno ejercicio de la libertad y el fortalecimiento del estado de derecho.
+
+X. Fijar y mantener actualizada la información estadística de la Dirección.
+
+XI. Instrumentar las políticas y criterios para la elaboración de estudios encaminados a la detección y clasificación territorial delictiva del Municipio, mediante la formulación de diagnósticos de seguridad pública, así como planear las acciones prioritarias en las zonas de riesgo, en coordinación con las áreas de estadísticas, de control y comando.
+
+XII. Coordinar y consolidar la información que la Dirección General de Seguridad pública y Tránsito deba aportar en materia de prevención del delito y atención a las víctimas del delito, para la conformación del Plan Municipal y Estatal de Desarrollo.
+
+XIII. Instrumentar las políticas, programas, proyectos y la ejecución de acciones de la Dirección General en materia de prevención del delito, derechos humanos, participación ciudadana y atención a las víctimas del delito.
+
+XIV. Efectuar cursos, coloquios, mesas redondas, foros o cualquier otra actividad de carácter cultural o académico en materia de prevención del delito, derechos humanos, participación ciudadana y atención a las víctimas del delito, en coordinación con las instancias correspondientes de la Secretaría y las organizaciones ciudadanas o académicas competentes.
+
+XV. Llevar a cabo acciones encaminadas a fomentar y conservar la cultura de la legalidad y responsabilidad ciudadana.
+
+XVI. Promover la realización de campañas de exhorto a los ciudadanos para denunciar hechos ilícitos, situaciones de riesgo o personas dedicadas a actividades ilícitas, procurando el anonimato de la denuncia.
+
+XVII. Organizar la participación de la ciudadanía en la supervisión y evaluación de las actividades que desarrolle el personal de la Secretaría y sus órganos administrativos, a fin de transparentar la gestión institucional.
+
+XVIII. Hacer viable la conformación de grupos observadores ciudadanos que colaboren con las autoridades en materia de seguridad públicas (sic) para la identificación y desactivación de zona de alto riesgo delictivo.
+
+XIX. Instrumentar campañas de participación activa de la sociedad civil organizada en campañas de prevención para desarrollar labores conjuntas de combate a la delincuencia.
+
+XX. Fomentar el establecimiento e integración de los consejos de prevención del delito, derechos humanos, participación ciudadana y atención a las víctimas del delito.
+
+XXI. Propiciar el intercambio de experiencias con diversos municipios, entidades federativas e instituciones nacionales e internacionales de carácter público o privado respecto de la participación ciudadana, la cooperación y el fortalecimiento de acciones en materia de prevención del delito, derechos humanos y atención a las víctimas del delito, para mejorar los servicios de la Dirección General de Seguridad Pública y Tránsito.
+
+XXII. Ratificar un sistema permanente de comunicación abierta al público, para recibir quejas, denuncias y opiniones de la población en materia de seguridad pública.
+
+XXIII. Estructurar mecanismos que permitan a la ciudadanía proporcionar información respecto a la seguridad pública para canalizarla a las instancias correspondientes y ubicar puntos conflictivos de incidencia delictiva.
+
+XXIV. Implementar programas para asegurar entre el personal de la DGSPYT el conocimiento y respeto pleno de la legislación nacional e internacional en materia de Derechos Humanos, en coordinación con la Unidad Jurídica.
+
+XXV. Encaminar las relaciones de la Secretaria con la Comisión Nacional y Estatal de Derechos Humanos y los organismos no gubernamentales en la materia, en coordinación con la Unidad Jurídica.
+
+XXVI. Estructurar programas de fomento y protección de los derechos humanos y atención a las víctimas del delito, para promover la participación activa de la ciudadanía, en coordinación con instituciones nacionales e internacionales en la materia.
+
+XXVII. Canalizar la atención a las víctimas de delito y de violaciones de derechos humanos, en coordinación con la Unidad Jurídica y áreas operativas.
+
+XXVIII. Las demás funciones inherentes a su puesto o las que en su caso asigne el Director General de Seguridad Pública y Tránsito de Isla Mujeres.
+
+... (SIC)
 
 ### CAPÍTULO V. OFICIALÍA MAYOR
 
@@ -1129,7 +1193,7 @@ XIX. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, est
 
 Para el despacho de los asuntos que competen a la Oficialía Mayor, se auxiliará en la Dirección de Recursos Humanos, en la Dirección de Recursos Materiales, en la Dirección de Sistemas de la Información y Comunicación, Dirección de Servicios Generales, Dirección de Patrimonio, así como en las demás Unidades Administrativas que requiera para su desempeño.
 
-#### Sección Segunda. De la Dirección de Recursos Materiales
+#### Sección Primera. De la Dirección de Recursos Humanos
 
 ###### Artículo 44.
 
@@ -1163,9 +1227,7 @@ XIII. Llevar a cabo las altas, bajas, cambios de beneficiarios e incapacidades d
 
 XIV. Las demás que le confieran las disposiciones legales aplicables y las que le asigne el Oficial Mayor;
 
-#### Sección Tercera. De la Dirección de Sistemas de la Información y Comunicación
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+#### Sección Segunda. De la Dirección de Recursos Materiales
 
 ###### Artículo 45.
 
@@ -1190,6 +1252,50 @@ VIII. Llevar a cabo la elaboración de planes y programas anuales para el mejor 
 IX. Las demás que le confieran las disposiciones legales aplicables y las que le otorgue el Oficial Mayor.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+#### Sección Tercera. De la Dirección de Sistemas de la Información y Comunicación
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 46.
+
+Compete a la Dirección de Sistemas de la Información y Comunicación
+
+I. Coordinar y asesorar las funciones de informática que desarrollen las Dependencias y Entidades de la Administración Pública Municipal;
+
+II. Elaborar y difundir el Plan Operativo Anual de Informática, el cual será el documento rector en el manejo de la información propiedad del Patrimonio Municipal;
+
+III. Coordinar, organizar y planear el desarrollo o adquisición de los sistemas informáticos de la Administración Pública Municipal;
+
+IV. Ser la responsable de la implantación, configuración y administración de la Red Municipal;
+
+V. Mantener la compatibilidad de los programas y equipos con que cuenta la Administración Pública Municipal;
+
+VI. Preservar el acervo informático propiedad del Patrimonio Municipal;
+
+VII. Previo estudio de las necesidades reales, asignas o requerir a cada Dependencia o Entidad los equipos de cómputo y periféricos que necesiten para desarrollar sus funciones;
+
+VIII. Dar mantenimiento preventivo y correctivo a los equipos de cómputo propiedad del patrimonio municipal;
+
+IX. Emitir el dictamen especializado ante el Comité de Adquisiciones para la adquisición, renta, ampliación e instalación de sistemas de información, así como de los demás servicios que se requieran en la materia;
+
+X. Autorizar la introducción y salida de equipos de cómputo ajenos a las instalaciones públicas municipales;
+
+XI. Capacitar y adiestrar al personal del Ayuntamiento en materia de informática;
+
+XII. Gestionar, administrar y controlar los recursos humanos, materiales y financieros asignados para el desempeño de sus funciones;
+
+XIII. Vigilar que el personal adscrito a la Dirección cumpla cabalmente con lo establecido en las leyes, reglamentos, acuerdos y demás disposiciones que tengan relación con el objeto de su cargo, así como también cumplan con los planes y programas fijados;
+
+XIV. Elaborar la programación y presupuestación de sus recursos, para el eficiente desempeño de sus de sus (sic) funciones;
+
+XV. Rendir al Oficial Mayor, independientemente de las veces que este así se lo requiera, los informes de actividades y del grado de avance de los programas de trabajo, así como al Presidente Municipal cuando éste así se lo requiera;
+
+XVI. Llevar a cabo la elaboración de planes y programas anuales para el mejor desempeño de sus funciones;
+
+XVII. Las demás que le confieran las disposiciones legales aplicables y las que le atribuya la Oficialía Mayor.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 #### Sección Cuarta. De la Dirección de Patrimonio Municipal
 
@@ -1241,50 +1347,6 @@ XXI. Llevar el control del Catálogo Patrimonial, los Resguardos, el control de 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-###### Artículo 46.
-
-Compete a la Dirección de Sistemas de la Información y Comunicación
-
-I. Coordinar y asesorar las funciones de informática que desarrollen las Dependencias y Entidades de la Administración Pública Municipal;
-
-II. Elaborar y difundir el Plan Operativo Anual de Informática, el cual será el documento rector en el manejo de la información propiedad del Patrimonio Municipal;
-
-III. Coordinar, organizar y planear el desarrollo o adquisición de los sistemas informáticos de la Administración Pública Municipal;
-
-IV. Ser la responsable de la implantación, configuración y administración de la Red Municipal;
-
-V. Mantener la compatibilidad de los programas y equipos con que cuenta la Administración Pública Municipal;
-
-VI. Preservar el acervo informático propiedad del Patrimonio Municipal;
-
-VII. Previo estudio de las necesidades reales, asignas o requerir a cada Dependencia o Entidad los equipos de cómputo y periféricos que necesiten para desarrollar sus funciones;
-
-VIII. Dar mantenimiento preventivo y correctivo a los equipos de cómputo propiedad del patrimonio municipal;
-
-IX. Emitir el dictamen especializado ante el Comité de Adquisiciones para la adquisición, renta, ampliación e instalación de sistemas de información, así como de los demás servicios que se requieran en la materia;
-
-X. Autorizar la introducción y salida de equipos de cómputo ajenos a las instalaciones públicas municipales;
-
-XI. Capacitar y adiestrar al personal del Ayuntamiento en materia de informática;
-
-XII. Gestionar, administrar y controlar los recursos humanos, materiales y financieros asignados para el desempeño de sus funciones;
-
-XIII. Vigilar que el personal adscrito a la Dirección cumpla cabalmente con lo establecido en las leyes, reglamentos, acuerdos y demás disposiciones que tengan relación con el objeto de su cargo, así como también cumplan con los planes y programas fijados;
-
-XIV. Elaborar la programación y presupuestación de sus recursos, para el eficiente desempeño de sus de sus (sic) funciones;
-
-XV. Rendir al Oficial Mayor, independientemente de las veces que este así se lo requiera, los informes de actividades y del grado de avance de los programas de trabajo, así como al Presidente Municipal cuando éste así se lo requiera;
-
-XVI. Llevar a cabo la elaboración de planes y programas anuales para el mejor desempeño de sus funciones;
-
-XVII. Las demás que le confieran las disposiciones legales aplicables y las que le atribuya la Oficialía Mayor.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-#### Sección Primera. Dirección de Control y Gestión de la Inversión
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
 ### CAPÍTULO VI. LA DIRECCIÓN GENERAL DE PLANEACIÓN
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
@@ -1331,7 +1393,7 @@ Para el despacho de los asuntos que competen a la Dirección General de Planeaci
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-#### Sección Segunda. Dirección de Seguimiento de Programas Interinstitucionales
+#### Sección Primera. Dirección de Control y Gestión de la Inversión
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -1389,7 +1451,9 @@ XXIV. Las demás que resulten compatibles al ejercicio de cargo y que le confier
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-#### Sección Tercera. Dirección de Servicios Públicos
+#### Sección Segunda. Dirección de Seguimiento de Programas Interinstitucionales
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 50.
 
@@ -1405,35 +1469,7 @@ IV. Mantener y Actualizar el catálogo De programas Interinstitucionales.
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-#### Sección Primera. Dirección de Alumbrado Público
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-Artículo 51 QUATER.- Corresponde a la Dirección de Alumbrado Público lo siguiente:
-
-I. Establecer, promover y desarrollar programas de capacitación del personal adscrito, a fin de incrementar y evaluar la productividad y profesionalización en los servicios y atención del alumbrado público;
-
-II. Coordinarse con las dependencias de entidades relacionadas con la preservación y ampliación del equipamiento y la infraestructura urbana, así como con las competentes en mantenimiento y limpieza;
-
-III. Asignar al personal adscrito los frentes de trabajo de acuerdo a los roles y programas establecidos para la atención del mantenimiento y rehabilitación del alumbrado público del Municipio;
-
-IV. Establecer programas de ahorro de energía eléctrica;
-
-V. Concentrar y evaluar los informes de los avances de los programas a cargo de las distintas unidades y cuadrillas para informar oportunamente el desarrollo de las mismas;
-
-VI. Establecer el control y seguimiento en el llenado y recepción oportuna de toda la información diaria de las acciones operativas, plasmadas en la bitácora de servicio para el procedimiento correspondiente;
-
-VII. Elaborar de manera calendarizada el programa de rehabilitación y mantenimiento del sistema de alumbrado público en parques, avenidas, calles, camellones, y unidades deportivas en todo el Municipio de Isla Mujeres;
-
-VIII. Atender, solucionar, informar y dar seguimiento, a las observaciones que emitan las direcciones que integran el gobierno municipal en cuanto a las deficiencias y problemas que afecten el servicio de alumbrado público municipal;
-
-IX. Elaborar la programación y presupuestación de los recursos, obras y bienes necesarios para el eficiente servicio y funcionamiento del alumbrado público;
-
-X. Supervisar a los particulares que, en su caso, presten el servicio de alumbrado público mediante el régimen de concesión;
-
-XI. Administrar, operar, mantener, mejorar, reparar y supervisar la prestación del alumbrado público en parques, camellones, calles, jardines, plazas, glorietas, campos deportivos y áreas públicas ubicadas en todo el Municipio, privilegiando su calidad, eficiencia y oportunidad;
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+#### Sección Tercera. Dirección de Servicios Públicos
 
 ###### Artículo 51.
 
@@ -1525,6 +1561,36 @@ Para el despacho de los asuntos que competen a la Dirección General de Servicio
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
+#### Sección Primera. Dirección de Alumbrado Público
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Artículo 51 QUATER.- Corresponde a la Dirección de Alumbrado Público lo siguiente:
+
+I. Establecer, promover y desarrollar programas de capacitación del personal adscrito, a fin de incrementar y evaluar la productividad y profesionalización en los servicios y atención del alumbrado público;
+
+II. Coordinarse con las dependencias de entidades relacionadas con la preservación y ampliación del equipamiento y la infraestructura urbana, así como con las competentes en mantenimiento y limpieza;
+
+III. Asignar al personal adscrito los frentes de trabajo de acuerdo a los roles y programas establecidos para la atención del mantenimiento y rehabilitación del alumbrado público del Municipio;
+
+IV. Establecer programas de ahorro de energía eléctrica;
+
+V. Concentrar y evaluar los informes de los avances de los programas a cargo de las distintas unidades y cuadrillas para informar oportunamente el desarrollo de las mismas;
+
+VI. Establecer el control y seguimiento en el llenado y recepción oportuna de toda la información diaria de las acciones operativas, plasmadas en la bitácora de servicio para el procedimiento correspondiente;
+
+VII. Elaborar de manera calendarizada el programa de rehabilitación y mantenimiento del sistema de alumbrado público en parques, avenidas, calles, camellones, y unidades deportivas en todo el Municipio de Isla Mujeres;
+
+VIII. Atender, solucionar, informar y dar seguimiento, a las observaciones que emitan las direcciones que integran el gobierno municipal en cuanto a las deficiencias y problemas que afecten el servicio de alumbrado público municipal;
+
+IX. Elaborar la programación y presupuestación de los recursos, obras y bienes necesarios para el eficiente servicio y funcionamiento del alumbrado público;
+
+X. Supervisar a los particulares que, en su caso, presten el servicio de alumbrado público mediante el régimen de concesión;
+
+XI. Administrar, operar, mantener, mejorar, reparar y supervisar la prestación del alumbrado público en parques, camellones, calles, jardines, plazas, glorietas, campos deportivos y áreas públicas ubicadas en todo el Municipio, privilegiando su calidad, eficiencia y oportunidad;
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 #### Sección Segunda. Dirección de Recolección y Transferencia de Residuos Solidos
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
@@ -1597,8 +1663,6 @@ X. Apoyar a las áreas de mantenimiento y limpieza urbana cuando éstas así lo 
 
 XI. Dar seguimiento y solución a las quejas que se interpongan en relación con los servicios que le corresponden.
 
-#### Sección Primera. Dirección de Desarrollo Urbano
-
 ### CAPÍTULO VII. LA DIRECCIÓN GENERAL DE DESARROLLO URBANO Y MEDIO AMBIENTE
 
 ###### Artículo 52.
@@ -1635,13 +1699,13 @@ XIV. Elaborar estudios para la creación, desarrollo, reforma y mejoramiento de 
 
 XV. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este Reglamento y otras disposiciones legales y reglamentarias.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2020)</small>
 
 ###### Artículo 53.
 
-Para el despacho de los asuntos que competen a la Dirección General de Desarrollo Urbano y Medio Ambiente, se auxiliará en la Dirección de Desarrollo Urbano, en la Dirección de Medio Ambiente y Ecología, así como en las demás Unidades Administrativas que requiera para su desempeño.
+Para el despacho de los asuntos que competen a la Dirección General de Desarrollo Urbano y Medio Ambiente, se auxiliará en la Dirección de Desarrollo Urbano, en la Dirección de Medio Ambiente y Ecología, en la Dirección de Transporte Municipal, así como en las demás Unidades Administrativas que requiera para su desempeño.
 
-#### Sección Segunda. De la Dirección de Medio Ambiente y Ecología
+#### Sección Primera. Dirección de Desarrollo Urbano
 
 ###### Artículo 54.
 
@@ -1681,9 +1745,7 @@ XVI. Elaborar los programas que sean necesarios para la supervisión y verificac
 
 XVII. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este Reglamento y otras disposiciones legales y reglamentarias.
 
-#### Sección Primera. Dirección de Promoción Pesquera
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+#### Sección Segunda. De la Dirección de Medio Ambiente y Ecología
 
 ###### Artículo 55.
 
@@ -1771,7 +1833,7 @@ Para el despacho de los asuntos que competen a la Dirección General de Desarrol
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-#### Sección Segunda. Dirección de Desarrollo Empresarial y Productividad
+#### Sección Primera. Dirección de Promoción Pesquera
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -1793,9 +1855,9 @@ VI. Las demás que le asigne el Presidente Municipal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-#### Sección Tercera. De la Coordinación Administrativa Del Centro De Desarrollo Comunitario
+#### Sección Segunda. Dirección de Desarrollo Empresarial y Productividad
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 59.
 
@@ -1819,7 +1881,9 @@ VIII. Las demás que le asigne el Presidente Municipal.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE ENERO DE 2019)</small>
 
-#### Sección Cuarta. La Dirección de Turismo
+#### Sección Tercera. De la Coordinación Administrativa Del Centro De Desarrollo Comunitario
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ENERO DE 2019)</small>
 
 ###### Artículo 60.
 
@@ -1837,29 +1901,7 @@ V. Las demás encomiendas que el Director General de Desarrollo Económico le co
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-#### Sección Primera. Dirección de Salud
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-Artículo 61 QUATER.- A La Dirección de Salud le corresponden las siguientes funciones y obligaciones:
-
-I. Trabajar en forma coordinada con los Organismos Públicos de Salud de los diferentes niveles de Gobierno para garantizar la salud a los habitantes del municipio.
-
-II. Implementar programas, en coordinación con las Direcciones municipales que corresponda para la limpieza de predios baldíos.
-
-III. Coordinar con las Direcciones y organismos correspondientes el cuidado de la Salud Reproductiva.
-
-IV. Participar y coordinar las alertas epidemiológicas que se presenten en el municipio.
-
-V. Crear un plan permanente de capacitación y atención en salud a los reos de la Cárcel Municipal.
-
-VI. Organizar, realizar y supervisar brigadas para efectos de llevar a cabo campañas de educación, de prevención y de diagnóstico dentro de la esfera de su competencia.
-
-VII. Coadyuvar en la elaboración de políticas públicas municipales en materia de Salud.
-
-VIII. Las demás que le señalen como de su competencia el Presidente Municipal, los acuerdos de Ayuntamiento, las leyes y los reglamentos vigentes.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+#### Sección Cuarta. La Dirección de Turismo
 
 ###### Artículo 61.
 
@@ -1927,6 +1969,30 @@ Artículo 61 TER.- Para el despacho de los asuntos que competen a la Dirección 
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
+#### Sección Primera. Dirección de Salud
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Artículo 61 QUATER.- A La Dirección de Salud le corresponden las siguientes funciones y obligaciones:
+
+I. Trabajar en forma coordinada con los Organismos Públicos de Salud de los diferentes niveles de Gobierno para garantizar la salud a los habitantes del municipio.
+
+II. Implementar programas, en coordinación con las Direcciones municipales que corresponda para la limpieza de predios baldíos.
+
+III. Coordinar con las Direcciones y organismos correspondientes el cuidado de la Salud Reproductiva.
+
+IV. Participar y coordinar las alertas epidemiológicas que se presenten en el municipio.
+
+V. Crear un plan permanente de capacitación y atención en salud a los reos de la Cárcel Municipal.
+
+VI. Organizar, realizar y supervisar brigadas para efectos de llevar a cabo campañas de educación, de prevención y de diagnóstico dentro de la esfera de su competencia.
+
+VII. Coadyuvar en la elaboración de políticas públicas municipales en materia de Salud.
+
+VIII. Las demás que le señalen como de su competencia el Presidente Municipal, los acuerdos de Ayuntamiento, las leyes y los reglamentos vigentes.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 #### Sección Segunda. Dirección de Educación
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
@@ -1977,35 +2043,17 @@ V. Crear los órganos de participación y colaboración ciudadana, así como los
 
 VI. Las demás facultades que le asigne el Director General.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2020)</small>
 
-#### Sección Primera. Dirección de Arte y Cultura
+### Capítulo VIII TER. La Dirección General De Juventud, Cultura y Deporte
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2020)</small>
 
-Artículo 61 NOVIES.- La Dirección de Arte y Cultura tendrá los siguientes objetivos:
-
-I.- Promover, preservar, difundir e investigar las manifestaciones culturales y artísticas y en especial las étnicas;
-
-II.- Promover la creación de talleres o grupos en atención a las distintas manifestaciones culturales y artísticas;
-
-III.- Fomentar la entrega de reconocimientos y estímulos, a favor de las personas que se hayan distinguido en el campo de la Cultura y las Artes por impulsar los valores y tradiciones del Estado; y,
-
-IV.- Editar libros, revistas, folletos y cualquier otro documento que promueva y fomente
-
-V.- Las demás que prevea la normatividad de la materia y aquellas que le asigne el Presidente Municipal;
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE ENERO DE 2019)</small>
-
-### Capítulo VIII TER. La Dirección General De Desarrollo Humano
-
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
-
-Artículo 61 SEPTIES.- Son facultades y obligaciones del titular de la Dirección General de Desarrollo Humano las siguientes:
+Artículo 61 SEPTIES.- Son facultades y obligaciones del titular de la Dirección General de Juventud, Cultura y Deporte las siguientes:
 
 I. Formular, conducir y evaluar la política general de desarrollo humano en el Municipio, a través de mecanismos para el mejoramiento de las condiciones de vida de la población mediante la incorporación plena de los individuos, grupos y sectores de la sociedad, comunidades y regiones al desenvolvimiento integral y sustentable de sus capacidades productivas y su calidad de vida, así como la creación de oportunidades sociales, la erradicación de la desigualdad, la exclusión e inequidad social entre los individuos y grupos;
 
-II. Coordinar los servicios de desarrollo humano, tales como los culturales, los artísticos, los deportivos, los recreativos y los de atención a la juventud a cargo del Municipio;
+II. Coordinar los servicios culturales, los artísticos, los deportivos, los recreativos y los de atención a la juventud a cargo del Municipio;
 
 III. Proyectar y coordinar, con la participación que corresponda a la ciudadanía y organismos competentes, la planeación del desarrollo humano en concordancia con los planes y programas de la entidad y la Federación;
 
@@ -2015,7 +2063,7 @@ V. Fomentar y apoyar la participación de la ciudadanía organizada en el desarr
 
 VI. Informar a la sociedad sobre las acciones en torno al (sic) humano, por conducto de las instancias o medios que determine el Presidente Municipal o se prevean en las disposiciones legales respectivas;
 
-VII. Proponer al Presidente Municipal normas en materia de desarrollo humano al (sic) tomando en cuenta las particularidades del Municipio y las disposiciones de la legislación federal y estatal en la materia;
+VII. Proponer al Presidente Municipal normas en materia de Juventud, Cultura y Deportes, tomando en cuenta las particularidades del Municipio y las disposiciones de la legislación federal y estatal en la materia;
 
 VIII. Promover la celebración de convenios o acuerdos de coordinación con las dependencias o entidades de la Federación o del Estado, así como con organizaciones civiles y privadas, para la instrumentación de los programas relacionados con el desarrollo social;
 
@@ -2037,7 +2085,7 @@ XVI. Administrar y operar las casas de la cultura, museos, teatros;
 
 XVII. Ejercer las funciones que en materia deportiva, cultural le correspondan al Ayuntamiento, las cuales estarán determinadas por los convenios que se celebren con la Federación, el Gobierno del Estado y por lo que dispongan los ordenamientos en la materia;
 
-XVIII. Colaborar con las autoridades estatales y federales en la definición y ejecución de programas artísiticos y culturales en el Municipio;
+XVIII. Colaborar con las autoridades estatales y federales en la definición y ejecución de programas artísticos y culturales en el Municipio;
 
 XIX. Proponer al Presidente Municipal, a los ciudadanos y vecinos del Municipio que puedan ser considerados para formar el Consejo Consultivo previsto en la Ley de los Municipios;
 
@@ -2045,9 +2093,27 @@ XX. Brindar apoyo a grupos culturales y artísticos así como los deportivos y d
 
 XXI. Las demás que prevea la normatividad de la materia y aquellas que le asigne el Presidente Municipal
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2020)</small>
+
+Artículo 61 OCTIES.- Para el despacho de los asuntos que competen a la Dirección General de Juventud, Cultura y Deporte, se auxiliará en la Dirección de Arte y Cultura, la Dirección de Deporte y Cultura Física, y la Dirección de Atención a la Juventud, así como en las demás unidades Administrativas que requiera para su desempeño
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE ENERO DE 2019)</small>
+
+#### Sección Primera. Dirección de Arte y Cultura
+
 > <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
 
-Artículo 61 OCTIES.- Para el despacho de los asuntos que competen a la Dirección General de Desarrollo Humano, se auxiliará en la Dirección de Arte y Cultura, la Dirección de Deporte y Cultura Física, y la Dirección de Atención a la Juventud, así como en las demás unidades Administrativas que requiera para su desempeño.
+Artículo 61 NOVIES.- La Dirección de Arte y Cultura tendrá los siguientes objetivos:
+
+I.- Promover, preservar, difundir e investigar las manifestaciones culturales y artísticas y en especial las étnicas;
+
+II.- Promover la creación de talleres o grupos en atención a las distintas manifestaciones culturales y artísticas;
+
+III.- Fomentar la entrega de reconocimientos y estímulos, a favor de las personas que se hayan distinguido en el campo de la Cultura y las Artes por impulsar los valores y tradiciones del Estado; y,
+
+IV.- Editar libros, revistas, folletos y cualquier otro documento que promueva y fomente
+
+V.- Las demás que prevea la normatividad de la materia y aquellas que le asigne el Presidente Municipal;
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE ENERO DE 2019)</small>
 
@@ -2118,28 +2184,6 @@ IX.- Coordinar los trabajos de las convocatorias que emita el Ayuntamiento, el E
 X.- Proponer programas de capacitación y formación en materia de desarrollo integral de la juventud y;
 
 XI.- Las demás que prevea la normatividad de la materia y aquellas que le asigne el Presidente Municipal.
-
-#### Sección Primera. De la Dirección Consultiva
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-Artículo 66 BIS.- Son atribuciones de la Dirección Consultiva las siguientes:
-
-I. Asesorar a las dependencias que soliciten su intervención en materia de consulta;
-
-II. Asesorar en el estudio, formulación y modificación de los convenios y contratos en los que el Ayuntamiento sea parte, así como en los concursos de obra pública;
-
-III. Intervenir en el estudio y formulación de las concesiones administrativas de los servicios públicos que corresponda otorgar al Ayuntamiento, así como en los procedimientos administrativos de revocación o cancelación de las mismas;
-
-IV. Formular las declaraciones administrativas de rescisión de los contratos y conocer de las reclamaciones que se formulen de conformidad con la ley aplicable;
-
-V. Apoyar a la Unidad Técnica Jurídica en la elaboración de los proyectos para acuerdo de Cabildo;
-
-VI. Revisar las escrituras públicas en donde intervenga el Ayuntamiento; y
-
-VII. Las demás facultades que le confiera el Director General.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ### CAPÍTULO IX. DE LA DIRECCION DE GOBIERNO DEL AYUNTAMIENTO
 
@@ -2322,6 +2366,28 @@ XV. Certificar los documentos que hayan sido emitidos por la Dirección General 
 XVI. Las demás facultades que le confiera el Presidente Municipal.
 
 Para el despacho de los asuntos que competen a la Dirección General de Asuntos Jurídicos, se auxiliará de la Dirección Consultiva y la Dirección de Asuntos Contenciosos.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+#### Sección Primera. De la Dirección Consultiva
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Artículo 66 BIS.- Son atribuciones de la Dirección Consultiva las siguientes:
+
+I. Asesorar a las dependencias que soliciten su intervención en materia de consulta;
+
+II. Asesorar en el estudio, formulación y modificación de los convenios y contratos en los que el Ayuntamiento sea parte, así como en los concursos de obra pública;
+
+III. Intervenir en el estudio y formulación de las concesiones administrativas de los servicios públicos que corresponda otorgar al Ayuntamiento, así como en los procedimientos administrativos de revocación o cancelación de las mismas;
+
+IV. Formular las declaraciones administrativas de rescisión de los contratos y conocer de las reclamaciones que se formulen de conformidad con la ley aplicable;
+
+V. Apoyar a la Unidad Técnica Jurídica en la elaboración de los proyectos para acuerdo de Cabildo;
+
+VI. Revisar las escrituras públicas en donde intervenga el Ayuntamiento; y
+
+VII. Las demás facultades que le confiera el Director General.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -2564,3 +2630,15 @@ P.O. 15 DE ENERO DE 2019.
 Primero: Las presentes, reformas y adiciones entraran en vigor al día siguiente de su publicación, con excepción de las descritas en el siguiente punto
 
 Segundo: la reforma y adiciones (sic) Artículo 4 en su Fracción I: incisos i), j), k), l), m), o) p) y q), la derogación en su Fracción II, b) y c), las siguientes adiciones al Título II el Capítulo VIII TER, y los artículos 61 SEPTIES, 61 OCTIES, 61 NOVIES, 61 DECIES Y 61 UNDECIES, previa su publicación en el periódico oficial del estado de Quintana Roo, entraran en vigor a partir del 1° de Enero del 2019.
+
+P.O. 16 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO MEDIANTE EL CUAL SE REFORMA EL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE ISLA MUJERES, QUINTANA ROO APROBADO EN LA TRIGÉSIMA SEGUNDA SESIÓN ORDINARIA, CELEBRADA EL DÍA 12 DE NOVIEMBRE DEL 2019”.]
+
+Único La presente, reforma al artículo 39 (sic), entrará en vigor al día siguiente de su publicación.
+
+P.O. 16 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE ISLA MUJERES, QUINTANA ROO, APROBADO EN LA VIGÉSIMA NOVENA SESIÓN ORDINARIA, CELEBRADA EL DÍA 23 DE OCTUBRE DEL 2019.]
+
+Único. Las presentes, reformas y adiciones, artículo 39, se adiciona al Título II la Sección Tercera del Capítulo IV, se adiciona el artículo 41 BIS, se reforma el artículo 53, se reforma el Capítulo VIII TER del Título II, se reforma el artículo 61 SEPTIES, se reforma el artículo 61 OCTIES, entraran en vigor al día siguiente de su publicación.
