@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-desarrollo-social-del-estado-de-queretaro-107069"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-27"
-last_updated: "2016-10-28"
+last_updated: "2020-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de marzo de 2015.
 
@@ -245,13 +245,23 @@ Los beneficiarios de los programas de desarrollo social tienen los siguientes de
 
 I. Recibir oportunamente las prestaciones derivadas de los programas de desarrollo social, bajo las reglas y formas de operación que éstos señalen; salvo que les sean suspendidos por resolución administrativa o judicial, debidamente fundada y motivada;
 
-II. Ser tratados con respeto y dignidad, así como ser atendidos con eficacia y calidad;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+II. Ser tratados con respeto y dignidad;
 
 III. Acceder a la información necesaria de dichos programas, sus reglas de operación, requisitos de acceso, recursos y cobertura;
 
 IV. Tener la reserva y privacidad de la información personal; y
 
 V. Presentar denuncias y quejas ante las instancias correspondientes por el incumplimiento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2020)</small>
+
+Los beneficiarios de los programas de desarrollo social que señala esta Ley, deberán ser atendidos con eficacia y calidad; además, en todas las dependencias y entidades de la administración pública estatal y municipal, deberán ser atendidos de forma prioritaria, siempre y cuando acrediten su calidad de beneficiarios, de conformidad con la presente Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2020)</small>
+
+La omisión a la obligación que refiere el párrafo anterior, por parte de cualquier servidor público, será sancionada de conformidad con las disposiciones normativas referentes a las responsabilidades de los servidores públicos. Dichas omisiones podrán hacerse de conocimiento directamente en las oficinas de atención ciudadana o bien, se harán a través de buzones de quejas o por los medios de denuncia ciudadana que estén disponibles.
 
 ### Capítulo II. Obligaciones
 
@@ -976,3 +986,11 @@ P.O. 28 DE OCTUBRE DE 2016.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente ley.
+
+P.O. 17 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA EL ARTÍCULO 11 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE QUERÉTARO Y ADICIONA EL ARTÍCULO 6 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones normativas que se opongan a lo previsto en la presente Ley.
