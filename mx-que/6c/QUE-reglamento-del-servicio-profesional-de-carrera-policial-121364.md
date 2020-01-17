@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-servicio-profesional-de-carrera-policial-121364"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-05-12"
-last_updated: "2019-05-14"
+last_updated: "2020-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL, PROFESIONALIZACIÓN Y RÉGIMEN DISCIPLINARIO DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 12 de mayo de 2017.
 
@@ -55,21 +55,37 @@ II. Alumno: la persona que cursa la formación inicial única;; (sic)
 
 III. Carrera Policial: el Servicio Profesional de Carrera Policial;
 
-IV. Centro de Evaluación: el Centro de Evaluación y Control de Confianza del Estado de Querétaro;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE ENERO DE 2020)</small>
 
-V. Comisión: la Comisión de Carrera Policial;
+IV. Centro: Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro;
 
-VI. Consejo: el Consejo de Honor y Justicia;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2020)</small>
 
-VII. Coordinación: la Coordinación del Servicio Profesional de Carrera Policial;
+V. Centro de Evaluación: el Centro de Evaluación y Control de Confianza del Estado de Querétaro;
 
-VIII. Corporación: la Policía Estatal;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2020)</small>
 
-IX. Denunciante: la persona física o moral, cualquier autoridad o servidor público que hace del conocimiento de la Unidad de Asuntos Internos actos u omisiones que puedan constituir faltas policiales;
+VI. Comisión: la Comisión de Carrera Policial;
 
-X. Director: el Director de Operación Policial;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2020)</small>
 
-XI. Instituto: el Instituto de Formación Policial;
+VII. Consejo: el Consejo de Honor y Justicia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2020)</small>
+
+VIII. Coordinación: la Coordinación del Servicio Profesional de Carrera Policial;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2020)</small>
+
+IX. Corporación: la Policía Estatal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2020)</small>
+
+X. Denunciante: la persona física o moral, cualquier autoridad o servidor público que hace del conocimiento de la Unidad de Asuntos Internos actos u omisiones que puedan constituir faltas policiales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2020)</small>
+
+XI. Director: el Director de Operación Policial;
 
 XII. Jerarquía o grado: escalafón que ocupa un policía dentro de la organización jerárquica que establece la Ley General del Sistema Nacional de Seguridad Pública;
 
@@ -275,7 +291,9 @@ II. Cinco Vocales, que serán los siguientes:
 
 a) El Titular del Órgano Interno.
 
-b) Tres vocales ciudadanos, propuestos por el Observatorio Ciudadano de Seguridad del Estado de Querétaro, los cuales deberán contar con título de Licenciatura en Derecho y experiencia mínima de tres años como abogado postulante. Éstos durarán en su cargo hasta dos años, pudiendo ser refrendada la propuesta del Observatorio Ciudadano de Seguridad del Estado de Querétaro para que continúen en el cargo por otro periodo igual.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
+
+b) Tres vocales ciudadanos, propuestos por el Centro Estatal de Participación Ciudadana de Querétaro, los cuales deberán contar con título de Licenciatura en Derecho y experiencia mínima de tres años como abogado postulante. Éstos durarán en su cargo hasta dos años, pudiendo ser refrendada la propuesta del Centro Estatal de Participación Ciudadana de Querétaro para que continúen en el cargo por otro periodo igual.
 
 c) Un vocal policía, que será elegido por el personal operativo de la Corporación, quien no podrá contar en su expediente personal con sanciones disciplinarias. Éste vocal durará en el cargo hasta dos años, pudiendo ser reelegido en una ocasión por otro periodo igual.
 
@@ -641,9 +659,11 @@ La planeación de los procedimientos que comprenden la Carrera Policial, tiene c
 
 #### Sección Segunda. Del Plan Individual de Carrera
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
+
 ###### Artículo 37.
 
-El plan individual de carrera, es el registro que integra los procesos homologados e interrelacionados a los que se sujetará el personal de Carrera Policial, desde que ingresa como alumno al Instituto, hasta la conclusión de su servicio.
+El plan individual de carrera, es el registro que integra los procesos homologados e interrelacionados a los que se sujetará el personal de Carrera Policial, desde que ingresa como alumno al Centro, hasta la conclusión de su servicio.
 
 ###### Artículo 38.
 
@@ -757,9 +777,11 @@ Acreditar la evaluación de control de confianza, que será aplicada por el Cent
 
 #### Sección Sexta. De la Formación Inicial Única
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
+
 ###### Artículo 46.
 
-La formación inicial única es el proceso mediante el cual, el Instituto capacita a los aspirantes en los conocimientos y prácticas necesarias para incorporarse a la Carrera Policial, con el objeto de que puedan realizar las actividades propias de la función policial de manera profesional y en estricto apego a los principios constitucionales.
+La Formación Inicial Única es el proceso de preparación teórico-práctico basado en conocimientos sociales, jurídicos y técnicos para capacitar al personal de nuevo ingreso, a fin de que desarrollen y adquieran los conocimientos, habilidades y actitudes necesarias para cumplir con las tareas a desempeñar de acuerdo a las funciones y responsabilidades del área operativa a la que aspiran incorporarse en estricto apego a los principios constitucionales.
 
 ###### Artículo 47.
 
@@ -769,9 +791,11 @@ Los alumnos podrán recibir una beca de acuerdo a la suficiencia presupuestal de
 
 El alumno que haya concluido satisfactoriamente las actividades académicas de formación inicial única, tendrá derecho a obtener la certificación, título, constancia, diploma o reconocimiento que corresponda.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
+
 ###### Artículo 49.
 
-Los alumnos se sujetarán a las normas y lineamientos que el reglamento del Instituto establezca.
+Los alumnos se sujetarán a las normas y lineamientos que el reglamento del Centro establezca.
 
 #### Sección Séptima. Del Ingreso y Nombramiento
 
@@ -803,11 +827,19 @@ En ningún caso, un policía podrá ostentar un cargo o grado que no le correspo
 
 #### Sección Octava. De la Certificación
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
+
 ###### Artículo 54.
 
-El Certificado Único Policial es el documento emitido por el Centro de Evaluación, que acredita que los aspirantes y policías son aptos para ingresar y permanecer en las Instituciones de Seguridad.
+La certificación es el proceso mediante el cual, el personal operativo se somete a las evaluaciones periódicas establecidas por el Centro de Evaluación, para aprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
+
+Únicamente se contratará al personal que cuente con el requisito de certificación expedido por el Centro de Evaluación.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
 
 ###### Artículo 55.
+
+El Certificado Único Policial es el documento que acredita que los aspirantes y policías son aptos para ingresar y permanecer en la Corporación, además de que cuentan con los conocimientos, el perfil, las habilidades y las aptitudes necesarias para el desarrollo de su cargo.
 
 La emisión del Certificado Único Policial y su renovación, se sujetará a los lineamientos que para tal efecto emita el Centro Nacional de Certificación y Acreditación.
 
@@ -847,19 +879,23 @@ XIV. Los demás que establezcan otras disposiciones legales aplicables.
 
 #### Sección Décima. De la Formación Continua
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
+
 ###### Artículo 57.
 
-La formación continua, a cargo del Instituto, integra las actividades académicas encaminadas a lograr la actualización y perfeccionamiento de los conocimientos, habilidades, destrezas, competencias, aptitudes y actitudes del personal operativo, para el óptimo desempeño de sus funciones.
+La formación continua es el proceso para desarrollar al máximo las competencias del personal operativo de la Secretaría.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
 
 ###### Artículo 58.
 
-La formación continua, se clasifica en:
+La formación continua comprende las etapas de:
 
-I. Actualización: programas enfocados a la actualización del conocimiento relativo a la función policial;
+I. Actualización. Proceso permanente que permite al personal asegurar, mantener y perfeccionar el dominio de conocimientos y habilidades para sus funciones y responsabilidades. Posibilita su desarrollo en el Servicio Profesional de Carrera, al permitirle ascender en los niveles jerárquicos de acuerdo al área operativa en la que presta sus servicios.
 
-II. Especialización: programas de capacitación en una determinada rama del conocimiento policial y de seguridad pública, y
+II. Especialización. Proceso de aprendizaje en campos de conocimiento particulares, que sean requeridos conforme al área de responsabilidad, destrezas y habilidades precisas o específicas del personal operativo.
 
-III. Alta Dirección: programas educativos orientados al desarrollo de competencias, capacidades y habilidades de dirección.
+III. Alta dirección. Conjunto de programas educativos de alto nivel teórico, metodológico y técnico, orientado a la preparación y desarrollo de competencias, capacidades y habilidades para la planeación, dirección, ejecución, administración y evaluación de los recursos y medios que sustentan las funciones y actividades de las instituciones de seguridad pública.
 
 ###### Artículo 59.
 
@@ -887,15 +923,19 @@ El personal operativo, que haya concluido satisfactoriamente las actividades aca
 
 #### Sección Décimo Primera. De las Evaluaciones
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
+
 ###### Artículo 62.
 
-La Evaluación del desempeño, es el procedimiento que permite valorar el cumplimiento de las obligaciones y disciplina, así como el grado de eficacia, eficiencia y calidad del desempeño del personal operativo, con base en los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+La evaluación del desempeño es el proceso de verificación periódica de las obligaciones del servicio profesional del personal operativo, que permite medir el apego cualitativo y cuantitativo a los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, así como a la disciplina que rige la actuación y su contribución a los objetivos institucionales.
 
-La Evaluación del desempeño tiene como finalidad el identificar las áreas de oportunidad, así como las fortalezas y capacidades del personal operativo, para su permanencia, promoción y en su caso sanción.
+La evaluación del desempeño permite identificar las áreas de oportunidad de los integrantes para su promoción, así como contribuir al diseño e implementación de las directrices de crecimiento y desarrollo profesional de los mismos.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
 
 ###### Artículo 63.
 
-La evaluación de competencias tiene como objetivo identificar las habilidades, destrezas y conocimientos correspondientes a la función policial.
+La evaluación de competencias es el proceso de verificación del conjunto de habilidades, destrezas y conocimientos que permiten al personal operativo desempeñar de manera eficiente una determinada función, con base en criterios establecidos en perfiles de puesto y referentes normativos.
 
 ###### Artículo 64.
 
@@ -1247,9 +1287,17 @@ c) Los actos que se deban realizar de forma inmediata, o
 
 d) La comisión de un delito en flagrancia.
 
-II. Prevención, que será la encargada de llevar a cabo acciones tendientes a prevenir la comisión de delitos e infracciones administrativas, a través de acciones de investigación, inspección, vigilancia y vialidad en su circunscripción, y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-III. Reacción, que será la encargada de garantizar, mantener y restablecer el orden y la paz públicos.
+II. Prevención, que será la encargada de llevar a cabo acciones tendientes a prevenir la comisión de delitos e infracciones administrativas, a través de acciones de investigación, inspección, vigilancia y vialidad en su circunscripción;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+III. Reacción, que será la encargada de garantizar, mantener y restablecer el orden y la paz públicos, y
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+IV. Proximidad social, como una actividad auxiliar a las funciones de prevención, a través de la proactividad y la colaboración con otros actores sociales, bajo una política de colaboración interna e interinstitucional que fortalezca la gobernabilidad local.
 
 ### Capítulo Segundo. De los Derechos de los Integrantes de la Policía Estatal
 
@@ -1336,6 +1384,10 @@ Para cubrir las funciones del personal operativo que obtenga licencia, el Direct
 ###### Artículo 107.
 
 Se entenderá por comisión el cumplimiento de funciones específicas para un servicio, por tiempo determinado, en el mismo o diferente lugar de adscripción, incluyendo un área administrativa, de acuerdo con las necesidades del servicio. Únicamente el Director podrá otorgar comisión de servicio al policía derivado de las necesidades que justifiquen y motiven dicha comisión en particular y por tiempo definido para el ejercicio específico de una actividad vinculada a la función policial.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2020)</small>
+
+Artículo 107 bis. El permiso es la autorización por escrito del superior jerárquico, con el visto bueno de la Dirección de Operación Policial de la Secretaría para ausentarse de sus funciones con goce de sueldo, siempre y cuando exista causa justificada, contemplando un periodo máximo de hasta tres días en tres ocasiones distintas, dentro de cada año natural, separadas cuando menos de un mes.
 
 ### Capítulo Cuarto. De las Obligaciones de los Integrantes de la Policía Estatal
 
@@ -2390,3 +2442,11 @@ P.O. 14 DE MAYO DE 2019.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, “La Sombra de Arteaga”.
 
 Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a esta reforma.
+
+P.O. 17 DE ENERO DE 2020.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL, PROFESIONALIZACIÓN Y RÉGIMEN DISCIPLINARIO DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO”.]
+
+Primero. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente instrumento.
