@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2019-01-31"
+last_updated: "2020-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -2539,9 +2539,9 @@ Los particulares no podrán realizar una actividad distinta a la autorizada en l
 
 El ejercicio del comercio se regirá fundamentalmente en las leyes y reglamentos de la materia y bajo las siguientes condiciones:
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-I. Todos los establecimientos comerciales en el municipio tendrán derecho a abrir al público de lunes a domingo de las 08:00 a las 22:00 horas en forma ininterrumpida salvo las excepciones que contempla el presente apartado;
+I. Todos los establecimientos comerciales en el municipio tendrán derecho a abrir al público de lunes a domingo de las 05:00 a las 23:00 horas en forma ininterrumpida, salvo las excepciones que contempla el presente Apartado;
 
 > <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2016)</small>
 
@@ -2557,81 +2557,49 @@ IV. Cuando en algún establecimiento vendan artículos comprendidos en diversos 
 
 V. La autoridad municipal tendrá la facultad de fijar el horario a los establecimientos no señalados en este apartado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
 
 ###### ARTICULO 253.
 
-Quedan exceptuados del horario indicado en la fracción I del artículo anterior, los establecimientos siguientes, los que se sujetarán al horario que se les señala:
+Quedan exceptuados del horario indicado en la fracción I del artículo anterior y se sujetarán al horario que se indica, los establecimientos siguientes:
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+I. Las 24 horas del día, de lunes a domingo: agencias de inhumaciones, farmacias, expendios de gasolina, gas LP para vehículos automotores, así como estacionamientos, autolavados, gimnasios, industrias, paqueterías y mensajerías, hoteles, sanatorios, consultorios médicos, clínicas médicas, hospitales y tiendas de autoservicio, sin venta de bebidas alcohólicas. Los establecimientos con actividad de autolavado y gimnasio que deseen funcionar en horario de 24 horas, deberán contar con visto bueno de la Delegación Municipal correspondiente para obtener la Licencia Municipal de Funcionamiento;
 
-I. Las 24 horas del día, de lunes a domingo: agencias de inhumaciones, farmacias, expendios de gasolina, gas LP para vehículos automotores, así como estacionamientos, industrias, hoteles, sanatorios, hospitales y tiendas de autoservicio; sujetos a lo que se disponga de conformidad con el artículo 179 de la Ley Orgánica Municipal del Estado de Querétaro;
+II. Las boticas, farmacias y droguerías elaborarán un rol de guardias nocturnas que deberán cumplir, así como para los días festivos, de acuerdo con la Dirección de Salud del Estado de Querétaro y el Municipio de Querétaro, a través de la Secretaría de Desarrollo Sostenible;
 
-II. Las boticas, farmacias y droguerías, de acuerdo con la Dirección de Salud en el Estado y la presidencia municipal, elaborarán un rol de guardias nocturnas que deberán cumplirse, así como el de los días festivos y de cierre obligatorio;
+III. Tiendas de conveniencia, de las 05:00 a las 24:00 horas, de lunes a domingo;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+IV. Molinos de nixtamal, de las 05:00 a las 19:00 horas, de lunes a domingo;
 
-III. De las 7:00 a las 24:00 horas, de lunes a domingo: las tiendas de conveniencia. Para efecto de esta fracción, se entienda por tienda de conveniencia, aquella negociación mercantil que se establece en un local comercial, con una construcción de 170 m2 a 390 m2, con un área de ventas de 100 m2 a 240 m2 y que expende productos que son hasta un máximo de 15% en bebidas alcohólicas del área de ventas; y con un mínimo de 85% de abarrotes, perecederos y artículos del hogar, sujetos a las restricciones que señala el presente apartado.
+V. Máquinas de videojuegos, que operan en lugares destinados exclusivamente para tal efecto, de las 10:00 a las 21:00 horas, de lunes a domingo;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+VI. Pastelerías con servicio de mesa, cenadurías, torterías, loncherías, taquerías, fondas, pizzerías, restaurantes; de las 06:00 a las 03:00 horas del día siguiente, de lunes a domingo;
 
-IV. De las 05:00 a las 17:00 horas de lunes a domingo: molinos de nixtamal;
+VII. Mercados municipales y balnearios, de las 06:00 a las 20:00 horas, de lunes a domingo;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+VIII. Centrales de abasto, de las 04:00 a las 20:00 horas, de lunes a domingo;
 
-V. De las 06:00 a las 23:00 horas de lunes a domingo: expendios de pan, huevo, lecherías, baños públicos, gimnasios, escuelas deportivas, canchas de futbol rápido y clubes;
+IX. Boliches, teatros y cines, de las 09:00 a las 02:00 horas del día siguiente, de lunes a domingo;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+X. Salones de fiesta y banquetes, de las 08:00 a las 03:00 horas del día siguiente, de lunes a domingo;
 
-VI. De las 10:00 a las 20:00 horas: máquinas de videojuegos;
+XI. Salones de fiestas infantiles, de las 08:00 a las 21:00 horas, de lunes a domingo;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+XII. Centros nocturnos, discotecas, café cantante y peñas, de las 18:00 a las 03:00 horas del día siguiente, de lunes a sábado. Los días domingo de 12:00 a 22:00 horas;
 
-VII. De las 06:00 a las 03:00 horas del día siguiente, de lunes a domingo: pastelerías con servicio de mesa, cenadurías, torterías, loncherías, taquerías, fondas y pizzerías, restaurantes y restaurant-bar;
+XIII. Bares y billares, de las 12:00 a las 03:00 horas del día siguiente, de lunes a sábado. Los días domingo de 12:00 a 22:00 horas;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+XIV. Misceláneas, de las 05:00 a las 24:00 horas de lunes a domingo. Se restringe la venta de bebidas alcohólicas a partir de las 22:00 horas;
 
-VIII. De las 06:00 a las 20:00 horas de lunes a sábado: los mercados municipales y balnearios; y de 06:00 a las 18:00 horas los domingos;
+XV. Los giros de talleres automotrices y de servicios, talleres mecánicos y eléctricos, vulcanizadoras, talleres de hojalatería y pintura, herrería, carpintería, pailerías, talleres de torno, taller de mofles, establecimientos dedicados a la venta e instalación de equipos de carburación a gas LP y similares, de las 08:00 a las 20:00 horas de lunes a viernes, los sábados de las 08:00 a las 17:00 horas y los domingos de las 11:00 a las 17:00 horas;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+XVI. Se exceptúa de lo que dispone la fracción anterior, los talleres mecánicos y eléctricos, vulcanizadoras y establecimientos que brindan el servicio público auxiliar de salvamento y arrastre vehicular que sean colindantes a las carreteras y los que estén ubicados dentro de los parques industriales, así como los establecimientos comerciales que sean anexos a gasolineras, colindantes a carreteras o ubicados en parques industriales. Estos establecimientos podrán funcionar las 24 horas de lunes a domingo, previa autorización de la Secretaría de Desarrollo Sostenible;
 
-IX. De las 04:00 a las 18:00 horas de lunes a domingo; centrales de abasto;
+Al término del horario autorizado, todos los establecimientos comerciales deben estar cerrados y sin público en el interior.
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+Los giros con venta de bebidas alcohólicas en envase cerrado, independientemente de la denominación y localización, sólo podrán vender al público dichos productos de las 08:00 a las 22:00 horas, por lo que deberán anunciar en sus establecimientos esta medida.
 
-X. De las 09:00 a las 01:00 hora del día siguiente, de lunes a domingo: boliches, teatros y cines;
-
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
-
-XI. De las 08:00 a las 03:00 horas del día siguiente, de lunes a domingo: salones de fiesta y banquetes; y de 08:00 a las 21:00 horas: salones de fiestas infantiles;
-
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
-
-XII. De las 18:00 horas a las 03:00 horas del día siguiente, de lunes a sábado: centros nocturnos, discotecas, café cantante, peñas y los bares de las 12:00 horas a las 03:00 horas del día siguiente;
-
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
-
-XIII. De las 06:00 horas a las 22:00 horas de lunes a domingo: misceláneas;
-
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
-
-XIV. De las 08:00 a las 20:00 horas de lunes a viernes, y sábados de 08:00 a 15:00 horas: todos los giros de talleres automotrices y de servicios, talleres mecánicos y eléctricos, vulcanizadoras, talleres de hojalatería y pintura, ferretería y plomerías, herrería, carpintería, pailerías, talleres de torno, taller de mofles, establecimientos dedicados a la venta e instalación de equipos de carburación a gas LP y similares;
-
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2016)</small>
-
-XV.- Se exceptúa de lo que dispone la fracción anterior, los talleres mecánicos, vulcanizadoras, talleres eléctricos y grúas que sean colindantes a las carreteras y los que estén ubicados dentro de los parques industriales, los que podrán permanecer abiertos las 24:00 horas de lunes a domingo, previa autorización de la Secretaría de Desarrollo Económico, Planeación Urbana y Ecología; así como los establecimientos comerciales que sean anexos a gasolineras colindantes a carreteras o parques industriales.
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
-
-Los establecimiento (sic) comerciales, de acuerdo con el horario que les corresponda, estarán cerrados y sin público en su interior, al término del horario autorizado.
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
-
-Los giros con venta de bebidas alcohólicas en envase cerrado, independientemente de la denominación y localización, sólo podrán vender al público los productos señalados hasta las 22:00 horas, por lo que deberán anunciar en sus establecimientos tal medida.
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
-
-Los giros con venta de inhalantes nocivos para la salud, como son: cemento, pegamentos y thinner, entre otros, podrán venderlos al público hasta las 20.00 horas, por lo que los establecimientos comerciales, independientemente del giro, deberán anunciar en sus establecimientos la medida que dispone este artículo.
+Los giros con venta de inhalantes nocivos para la salud como el cemento, pegamentos y diluyentes entre otros, podrán vender dichos productos hasta las 20 horas, por lo que los establecimientos comerciales, independientemente del giro, deberán anunciar en sus establecimientos esta medida.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
@@ -7922,3 +7890,23 @@ Se derogan aquellas disposiciones de igual o menor jerarquía que se opongan al 
 ###### ARTÍCULO CUARTO.
 
 Se instruye a la Secretaría del Ayuntamiento para que notifique el presente acuerdo a la Secretaría de Administración.
+
+P.O. 17 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO QUE REFORMA LOS ARTÍCULOS 252 Y 253 DEL CÓDIGO MUNICIPAL DE QUERÉTARO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Acuerdo en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente acuerdo entrará en vigor al día siguiente de su publicación en cualquiera de los medios precisados en el artículo transitorio anterior.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan aquellas disposiciones de igual o menor jerarquía que se opongan al presente, excepto las del Programa Municipal “Diversión Responsable”, el cual fue aprobado por el Ayuntamiento de Querétaro en Sesión Ordinaria de Cabildo de fecha 14 de mayo de 2019 y sus lineamientos.
+
+###### ARTÍCULO CUARTO.
+
+Se instruye a la Secretaría del Ayuntamiento para que notifique el presente acuerdo a la Secretaría de Desarrollo Sostenible y a la Secretaría de Finanzas.
