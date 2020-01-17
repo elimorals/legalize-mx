@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-72781"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-30"
-last_updated: "2019-10-18"
+last_updated: "2020-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE SALUD DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
 
@@ -133,13 +133,21 @@ XIX. Tratamiento contra la fármacodependencia: el conjunto de acciones que tien
 
 XX. Investigación en materia de farmacodependencia: tiene por objeto determinar las características y tendencias del problema, así como su magnitud e impacto en lo individual, familiar y colectivo; construyendo las bases científicas para la construcción de políticas públicas y los trámites adecuados para los diversos tipos y niveles de adicción, respetando los derechos humanos y su integridad;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-XXI. Suspensión de la farmacodependencia: proceso mediante el cual el farmacodependiente participa en la superación de su dependencia, con el apoyo del entorno comunitario en la identificación y solución de problemas comunes que la provocaron; y
+XXI. Suspensión de la farmacodependencia: proceso mediante el cual el farmacodependiente participa en la superación de su dependencia, con el apoyo del entorno comunitario en la identificación y solución de problemas comunes que la provocaron;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-XXII. Medicina tradicional: conjunto de conocimientos, aptitudes y prácticas basados en teorías, creencias y experiencias indígenas de las diferentes culturas, usados para el mantenimiento de la salud, así como para la prevención, el diagnóstico, la mejora o el tratamiento de enfermedades físicas o mentales.
+XXII. Medicina tradicional: conjunto de conocimientos, aptitudes y prácticas basados en teorías, creencias y experiencias indígenas de las diferentes culturas, usados para el mantenimiento de la salud, así como para la prevención, el diagnóstico, la mejora o el tratamiento de enfermedades físicas o mentales;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXIII. Embarazo múltiple: a la presencia de dos o más fetos dentro del útero; y
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXIV. Nacimiento múltiple: al alumbramiento de dos o más bebés producto de un embarazo múltiple.
 
 ###### Artículo 3.
 
@@ -693,9 +701,17 @@ Será responsabilidad de la Secretaría de Salud del Estado, en esta materia:
 
 I. Vigilar que en los establecimientos que expendan bebidas alcohólicas, éstas ostenten las etiquetas correspondientes que garanticen la calidad sanitaria;
 
-II. Constatar que el contenido de las bebidas alcohólicas se ajuste a lo especificado en la etiqueta correspondiente; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-III. Realizar muestreos, cuando el contenido de las bebidas alcohólicas no se ajuste a lo especificado en las etiquetas, para, en caso de encontrar irregularidades, hacer la remisión a la autoridad competente.
+II. Constatar que el contenido de las bebidas alcohólicas se ajuste a lo especificado en la etiqueta correspondiente;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+III. Realizar muestreos, cuando el contenido de las bebidas alcohólicas no se ajuste a lo especificado en las etiquetas, para, en caso de encontrar irregularidades, hacer la remisión a la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+IV. Vigilar que en los establecimientos comerciales que señala el presente artículo se proporcione, de manera obligatoria y gratuita, agua natural purificada no embotellada a los clientes que así lo soliciten dentro del consumo, y conforme a los lineamientos expedidos por esta autoridad.
 
 ###### Artículo 35.
 
@@ -923,15 +939,17 @@ Los ayuntamientos y los comisariados ejidales y comunales, con sujeción a la le
 
 La atención materno infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-I. La atención de la mujer durante el embarazo, el parto y el puerperio;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2017)</small>
+I. La atención de la mujer durante el embarazo, el parto y el puerperio y los cuidados especiales que exija el embarazo múltiple;
 
-II. La atención de la Preeclampsia y la Eclampsia, de forma preventiva, periódica, sistemática y primordialmente clínica, mediante la aplicación de la prueba de microalbuminuria;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+II. La atención de la Preeclampsia y la Eclampsia, de forma preventiva, periódica, sistemática y primordialmente clínica, mediante la aplicación de la prueba de microalbuminuria e invariablemente cuando se trate de embarazos múltiples;
 
-III. La atención del niño, previo y durante su nacimiento, así como la vigilancia de su crecimiento, nutrición adecuada y desarrollo integral, incluyendo la promoción de la vacunación oportuna;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+III. La atención del niño, previo y durante su nacimiento, así como la vigilancia de su crecimiento, nutrición adecuada y desarrollo integral, incluyendo la promoción de la vacunación oportuna. En el caso de nacimientos múltiples se tomarán las medidas necesarias para atender los requerimientos especiales que presenten los niños nacidos de manera prematura, derivado de esta condición;
 
 IV. La protección de la integración y del bienestar familiar;
 
@@ -947,15 +965,23 @@ VI. El diagnóstico oportuno para resolver los problemas de salud visual y audit
 
 VII. Atención directa de profesionales de la salud física y mental a los menores que cursen la educación básica, para prevenir, detectar y atender fenómenos de violencia física o emocional.
 
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2020)</small>
+
+Las instituciones públicas y privadas de salud del Estado llevarán un registro de los embarazos y nacimientos múltiples que sean atendidos en sus establecimientos, con el fin de llevar el seguimiento específico que requieren estos casos.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
+
 ###### Artículo 64.
 
-En los servicios de salud se promoverá la organización institucional de comités de prevención de la mortalidad materna e infantil, a efecto de conocer y evaluar el problema y adoptar las medidas conducentes.
+En los servicios de salud se promoverá la organización institucional de comités de prevención de la mortalidad materna e infantil, a efecto de conocer y evaluar el problema y adoptar las medidas conducentes. Se pondrá especial atención en aquellos casos de embarazo múltiple.
 
 ###### Artículo 65.
 
 La protección de la salud física y mental de los menores, es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad sobre ellos, con las autoridades competentes y la sociedad en general.
 
-Para tutelar la protección de la salud mental de los menores, las instituciones públicas y las personas físicas o morales que presten servicios de salud a personas con embarazos de alto riesgo o a menores que presenten daños neurológicos, deberán notificar de estos casos, desde el momento de su detección, a los centros oficiales de rehabilitación, para que puedan proporcionar a los padres o tutores la información necesaria para su oportuna atención.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
+
+Para tutelar la protección de la salud mental de los menores, las instituciones públicas y las personas físicas o morales que presten servicios de salud a personas con embarazos de alto riesgo, embarazos y nacimientos múltiples o a menores que presenten daños neurológicos, deberán notificar de estos casos, desde el momento de su detección, a los centros oficiales de rehabilitación, para que puedan proporcionar a los padres o tutores la información necesaria para su oportuna atención.
 
 ###### Artículo 66.
 
@@ -975,13 +1001,15 @@ III. Acciones de prevención y control de enfermedades ocasionadas por procesos 
 
 Las autoridades sanitarias, educativas y laborales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
 
-I. Los programas para padres destinados a promover la atención materno infantil;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+I. Los programas para padres destinados a promover la atención materno infantil, debiendo considerar a los embarazos y nacimientos múltiples;
 
 II. Las actividades recreativas, de esparcimiento y culturales, destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
+III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas, especialmente cuando se trate de embarazos y nacimientos múltiples;
 
 > <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
 
@@ -1017,9 +1045,9 @@ La salud reproductiva tiene carácter prioritario. Los servicios que se presten 
 
 Los servicios de salud reproductiva comprenden:
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-I. La promoción y difusión de programas en materia de servicios de planificación familiar, salud reproductiva, educación sexual y de prevención de enfermedades de transmisión sexual, con base en los contenidos y estrategias que establezca el Consejo Nacional de Población;
+I. La promoción y difusión de programas en materia de servicios de planificación familiar, salud reproductiva que deberá incluir información suficiente respecto de embarazos y nacimientos múltiples; educación sexual y de prevención de enfermedades de transmisión sexual, con base en los contenidos y estrategias que establezca el Consejo Nacional de Población;
 
 II. La atención de los solicitantes de servicios de salud reproductiva;
 
@@ -1031,9 +1059,11 @@ V. La participación en el establecimiento de mecanismos idóneos para la determ
 
 VI. La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
+
 ###### Artículo 71.
 
-Los comités de salud a que se refiere esta Ley, promoverán que en las poblaciones y comunidades semiurbanas y rurales se impartan pláticas de orientación en materia de planificación familiar. Las instituciones de salud y educativas, brindarán al efecto el apoyo necesario.
+Los comités de salud a que se refiere esta Ley, promoverán que en las poblaciones y comunidades semiurbanas y rurales se impartan pláticas de orientación en materia de planificación familiar. Las instituciones de salud y educativas, brindarán al efecto el apoyo necesario. Tratándose de los apoyos que se brinden en esta materia se considerarán los embarazos y nacimientos múltiples.
 
 ###### Artículo 72.
 
@@ -1477,7 +1507,9 @@ VII. La promoción de la participación consciente y organizada de la población
 
 VIII. El apoyo a la educación y capacitación para el trabajo de personas con carencias socioeconómicas;
 
-IX. El apoyo médico a mujeres en periodo de gestación o lactancia, especialmente a las que carecen de recursos económicos y a adolescentes en situación de vulnerabilidad; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+IX. El apoyo médico a mujeres en periodo de gestación o lactancia, especialmente a las que carecen de recursos económicos, a adolescentes en situación de vulnerabilidad y a mujeres que presenten embarazo y nacimiento múltiple; y
 
 X. La prestación de servicios funerarios.
 
@@ -1491,9 +1523,11 @@ Asimismo, procurará destinar los apoyos necesarios a los programas de asistenci
 
 Los menores en estado de desprotección social, tienen derecho a recibir los servicios asistenciales que necesiten, en cualquier establecimiento público dependiente del Estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
+
 ###### Artículo 118.
 
-Para la prestación de servicios de asistencia social para la atención a mujeres en periodo de gestación, se brindará preferentemente a mujeres y adolescentes que por alguna enfermedad se ponga en riesgo el desarrollo del embarazo así como aquellos casos en que se encuentren es (sic) situación extrema de vulnerabilidad o carezcan de recursos económicos.
+Para la prestación de servicios de asistencia social para la atención a mujeres en periodo de gestación, se brindará preferentemente a mujeres y adolescentes que por alguna enfermedad se ponga en riesgo el desarrollo del embarazo, así como aquellos casos en que se encuentren es (sic) situación extrema de vulnerabilidad, carezcan de recursos económicos o se trate de embarazos múltiples.
 
 > <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
@@ -1823,7 +1857,9 @@ Los centros penitenciarios estarán sujetos al control sanitario del Poder Ejecu
 
 Los centros penitenciarios deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas oficiales mexicanas correspondientes, con un departamento de baños de regadera, de enfermería y servicio médico, para la atención de aquellos casos de enfermedad en la que no se requiera traslado a un hospital.
 
-En los centros de reclusión para mujeres, se deberá contar con las instalaciones necesarias para la atención del embarazo y el puerperio, así como para la atención de recién nacidos y establecer las medidas de protección tanto para la madre como para su hijo. El parto deberá ser atendido en un hospital.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
+
+En los centros de reclusión para mujeres, se deberá contar con las instalaciones necesarias para la atención del embarazo y el puerperio, así como para la atención de recién nacidos y establecer las medidas de protección tanto para la madre como para su hijo. El parto deberá ser atendido en un hospital. En este supuesto se tomarán las medidas previstas en esta Ley cuando se trate de embarazo y nacimiento múltiple.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 2012)</small>
 
@@ -2266,3 +2302,21 @@ P.O. 18 DE OCTUBRE DE 2019.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a la presente Ley.
+
+P.O. 17 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO, DE LA LEY DEL SISTEMA DE ASISTENCIA SOCIAL DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 17 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY POR LA QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE BEBIDAS ALCOHÓLICAS DEL ESTADO DE QUERÉTARO Y ADICIONA LA FRACCIÓN IV AL ARTÍCULO 34 DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. La Secretaría de Salud contará con un plazo de 6 meses, contados a partir de la entrada en vigor de la presente Ley, para emitir la normatividad y lineamientos que correspondan según lo dispuesto por los artículos 100 y 136 de la Ley de Salud del Estado de Querétaro, para el cumplimiento de la obligación por parte de los establecimientos previstos en el artículo 12, fracción III, Tipo I y Tipo II, de la Ley sobre Bebidas Alcohólicas del Estado de Querétaro.
