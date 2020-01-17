@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-instituto-de-la-mujer-para-el-estado-de-morelos-91665"
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-23"
-last_updated: "2019-04-10"
+last_updated: "2020-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91665&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 17 DE ENERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el miércoles 23 de enero de 2013.
 
@@ -702,3 +704,27 @@ SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deb
 SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
 
 OCTAVO. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 17 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. A partir de la entrada en vigor de la presente Ley, se Abroga la Ley del Instituto de la Mujer para el Estado de Morelos publicada en el periódico oficial “Tierra y Libertad”, bajo el número de edición 5061 de fecha veintitrés de enero de dos mil trece.
+
+CUARTA. El Instituto de la Mujer para el Estado de Morelos, deberá expedir su Reglamento Interior, dentro de los 45 días naturales siguientes a la entrada en vigor del presente ordenamiento.
+
+QUINTA. Por cuanto a la designación de la Titular del Organismo Público Autónomo, denominado Instituto de la Mujer para el Estado de Morelos, deberá estarse a lo previsto en el artículo 23-D de la Constitución Política del Estado Libre y Soberano de Morelos, conservando los efectos de Ley, que se le confirieron mediante el Decreto Número Tres Mil Cuatrocientos Cuarenta y Cinco, publicado en el Periódico Oficial “Tierra y Libertad”, número 5629, de fecha 31 de agosto del año dos mil dieciocho, por el que fue designada, en observancia a lo determinado en el diverso Decreto número treinta y nueve, publicado en el Periódico Oficial “Tierra y Libertad”, número 5671, de fecha 30 de enero del año dos mil diecinueve.
+
+SEXTA. Los recursos materiales y financieros que integraban el Instituto de la Mujer para el estado de Morelos como Organismo Descentralizado, así como los asuntos jurídicos fueron transferidos al mismo al cambiar su naturaleza a Organismo Autónomo Constitucional, por lo que se mantendrán a disposición del mismo.
+
+SÉPTIMA. La obligación del pago de pensiones y jubilaciones de sus trabajadores quedará a cargo del Instituto de la Mujer para el Estado de Morelos a partir del 16 de agosto de 2018, atendiendo a la autonomía financiera que ya posee como Órgano Autónomo.
+
+OCTAVA. Los servidores públicos e integrantes del Consejo Consultivo que hace referencia la presente Ley, que no hayan sido designados al momento de la entrada en vigor de la presente Ley, serán nombrados de acuerdo con lo dispuesto por la presente Ley y la normativa aplicable, dentro de los 60 días naturales siguientes a la entrada en vigor del presente ordenamiento.
+
+NOVENA. Dentro de un plazo improrrogable de 90 días naturales a partir de la entrada en vigor de la presente Ley, el Congreso del Estado de Morelos deberá de realizar las modificaciones a los ordenamientos que resulte necesario para armonizarlos con la presente Ley, en especial la Ley de Acceso a las Mujeres a una Vida Libre de Violencia para el Estado de Morelos y la Ley de Igualdad de Derechos y Oportunidades entre Hombres y Mujeres en el Estado de Morelos.
+
+DÉCIMA. Quedan derogadas todas las disposiciones legales y reglamentarias que se opongan a lo previsto en la presente Ley.
