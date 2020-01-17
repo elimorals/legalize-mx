@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-turismo-del-estado-de-queretaro-69508"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2019-06-14"
+last_updated: "2020-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE TURISMO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -292,6 +292,10 @@ La Secretaría colaborará con las dependencias y entidades que tengan a su carg
 ###### Artículo 17.
 
 Para la promoción y fomento de los atractivos turísticos de la Entidad, la Secretaría estimulará la organización de espectáculos, congresos, excursiones, ferias, exposiciones y actividades de interés general, susceptibles de atraer visitantes y paseantes al Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2020)</small>
+
+En coordinación con la Casa Queretana de las Artesanías, se promoverá la generación de programas para el desarrollo de rutas o corredores artesanales, en los que deberá incluirse a los artesanos de los pueblos y comunidades indígenas, en los principales destinos turísticos del Estado, que permitan dar a conocer y propiciar la visita de los turistas a los espacios dedicados a la producción o comercialización de las artesanías de la región o de la localidad de que se trate. De igual forma, se generarán las condiciones necesarias para posicionar las artesanías indígenas en la promoción, difusión e intercambio cultural en el turismo internacional, en concordancia con lo establecido en la Ley de Fomento de la Actividad Artesanal del Estado de Querétaro.
 
 ###### Artículo 18.
 
@@ -890,3 +894,11 @@ P.O. 14 DE JUNIO DE 2019.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 17 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE ADICIONA LA LEY DE TURISMO DEL ESTADO DE QUERÉTARO Y LA LEY DE FOMENTO A LA ACTIVIDAD ARTESANAL EN EL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
