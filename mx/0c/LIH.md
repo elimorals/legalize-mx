@@ -4,7 +4,7 @@ identifier: "LIH"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-08-11"
-last_updated: "2019-12-09"
+last_updated: "2020-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101925&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,7 @@ abbreviation: "LIH"
 ---
 # LEY DE INGRESOS SOBRE HIDROCARBUROS
 
-NOTA 1: PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "MODIFICACIÓN AL ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018", PUBLICADA EN LA PRIMERA SECCIÓN DEL D.O.F. DE 24 DE DICIEMBRE DE 2018.
-
-NOTA2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE EL "ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021", PUBLICADO EN EL D.O.F. DE 11 DE ENERO DE 2021.]</small>
 
 LEY DE INGRESOS SOBRE HIDROCARBUROS
 
@@ -796,7 +794,7 @@ Para la determinación de las tasas para el cálculo del derecho a que se refier
 
 ### CAPÍTULO III. DEL DERECHO DE EXPLORACIÓN DE HIDROCARBUROS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "MODIFICACIÓN AL ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018", PUBLICADA EN LA PRIMERA SECCIÓN DEL D.O.F. DE 24 DE DICIEMBRE DE 2018.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE EL "ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020", PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 17 DE ENERO DE 2020.]</small>
 
 ###### Artículo 45.
 
@@ -940,7 +938,7 @@ Para los efectos del presente Título, el Asignatario, para evaluar proyectos de
 
 Están obligados al pago del impuesto por la actividad de exploración y extracción de hidrocarburos, los Contratistas y Asignatarios por el Área Contractual y Área de Asignación, respectivamente, definida en el Contrato o Asignación que corresponda.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "MODIFICACIÓN AL ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018", PUBLICADA EN LA PRIMERA SECCIÓN DEL D.O.F. DE 24 DE DICIEMBRE DE 2018.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE EL "ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020", PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 17 DE ENERO DE 2020.]</small>
 
 ###### Artículo 55.
 
@@ -1191,3 +1189,7 @@ D.O.F. 9 DE DICIEMBRE DE 2019.
 Primero. El presente Decreto entrará en vigor el 1 de enero de 2020.
 
 Segundo. Para los efectos de lo previsto en los artículos 39 y 42 de la Ley de Ingresos sobre Hidrocarburos, durante el ejercicio fiscal de 2020, los Asignatarios aplicarán la tasa de 58% en sustitución de la prevista en el citado artículo 39.
+
+RESOLUCIÓN MISCELÁNEA FISCAL DEL D.O.F. 17 DE ENERO DE 2020.
+
+> <small>[N. DE E. VÉASE ANEXO 27 PUBLICADO EN EL D.O.F. DE 17 DE ENERO DE 2020, SEGUNDA SECCIÓN, PÁGINA 201, EN “ANEXOS 23, 25, 25-BIS Y 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, PUBLICADA EL 28 DE DICIEMBRE DE 2019”.]</small>
