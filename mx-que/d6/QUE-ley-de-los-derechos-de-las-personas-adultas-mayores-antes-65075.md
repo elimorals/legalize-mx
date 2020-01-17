@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-65075
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-17"
-last_updated: "2019-01-21"
+last_updated: "2020-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65075&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -172,6 +172,12 @@ b) A recibir la atención adecuada que les proporcione una mejor calidad de vida
 VII. De la denuncia popular:
 
 a) A que toda persona, grupo social, organización no gubernamental, asociación o sociedad, pueda denunciar ante los órganos competentes, todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos y garantías de las personas adultas mayores.
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+VIII. Del acceso a los servicios:
+
+a) A tener una atención preferencial en los establecimientos públicos y privados que prestan servicios al público, para lo cual deberán contar con los recursos materiales y humanos necesarios para la debida atención a las personas adultas mayores, implementando medidas eficaces como filas, asientos, ventanillas y en su caso, cajas de cobro preferenciales, las cuales deberán estar debidamente señalizadas en lugares visibles, debiendo además dar una atención prioritaria a las personas adultas mayores que cuenten con alguna discapacidad.
 
 ## Título Segundo. Aplicación de la Ley
 
@@ -670,3 +676,11 @@ P.O. 21 DE ENERO DE 2019.
 Artículo Primero. La presente Ley entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 17 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA EL ARTÍCULO 11 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE QUERÉTARO Y ADICIONA EL ARTÍCULO 6 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones normativas que se opongan a lo previsto en la presente Ley.
