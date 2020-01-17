@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-trabajadores-del-estado-de-queretaro-67957"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2018-06-18"
+last_updated: "2020-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -247,13 +247,17 @@ Para las guardias se utilizarán, de preferencia, los servicios de quienes no tu
 
 Los trabajadores además de su salario ordinario, tendrán derecho al pago de una prima vacacional en cada período, de cuando menos el veinticinco por ciento sobre el salario de una quincena, agregándose además los días a que tengan derecho de acuerdo a su antigüedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2020)</small>
+
 ###### Artículo 33.
 
-Las trabajadoras disfrutarán de noventa días de descanso con goce de sueldo, con motivo del nacimiento de sus hijos, los cuales podrá disfrutar antes de la fecha que médicamente se fije para el parto o después de éste, a su elección. Cuando se disfruten días de descanso antes del parto, se deberá exhibir a la dependencia en que labore la autorización médica que les permita laborar hasta antes del mismo, por los mismos días.
+Las trabajadoras disfrutarán de noventa días de descanso con goce de sueldo, con motivo del nacimiento de sus hijos, los cuales podrá disfrutar antes de la fecha que médicamente se fije para el parto o después de éste, a su elección. Cuando se disfruten días de descanso antes del parto, se deberá exhibir, a la dependencia en que labore, la autorización médica que les permita laborar hasta antes del mismo, por los mismos días. Tratándose de un embarazo múltiple, las trabajadoras deberán tener un periodo de 42 días de descanso obligatorio previo a la fecha de parto programada por el médico responsable y gozarán de 90 días posteriores al mismo. La trabajadora que presente embarazo múltiple deberá informarlo a su superior jerárquico en cuanto tenga conocimiento de ello.
 
 Durante el embarazo, las trabajadoras no realizarán trabajos que exijan esfuerzos considerables y signifiquen un peligro para su salud en relación con la gestación, tales como levantar, tirar o empujar grandes pesos, que produzcan trepidación, estar de pie durante largo tiempo o que actúen o que puedan alterar su estado psíquico y nervioso a ellas o al producto.
 
-Durante la lactancia y hasta por un período de seis meses, contados a partir de la fecha de su reincorporación al trabajo, al concluirle período de noventa días antes mencionado, tendrán dentro de la jornada de trabajo dos descansos extraordinarios por día, de media hora cada uno para amamantar a sus hijos o hijas; dichos descansos a elección de la trabajadora, podrán ser acumulados para tomarse al inicio o conclusión de la jornada diaria y serán computados como tiempo efectivamente laborado.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
+
+Durante la lactancia y hasta por un período de seis meses, contados a partir de la fecha de su reincorporación al trabajo, al concluirle período de noventa días antes mencionado, tendrán dentro de la jornada de trabajo dos descansos extraordinarios por día, de media hora cada uno para amamantar a sus hijos o hijas. Tratándose (sic) trabajadoras que hayan tenido un embarazo y nacimiento múltiple, la duración regular del descanso se multiplicará por el número de hijos vivos que deban ser amamantados y atendidos por la trabajadora. Dichos descansos a elección de la trabajadora, podrán ser acumulados para tomarse al inicio o conclusión de la jornada diaria y serán computados como tiempo efectivamente laborado.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 2012)</small>
 
@@ -261,7 +265,9 @@ Durante la lactancia y hasta por un período de seis meses, contados a partir de
 
 Las trabajadoras disfrutarán de quince días naturales de descanso con goce de sueldo, cuando obtengan en adopción a un menor o incapaz, contados a partir del día de su entrega.
 
-Asimismo, los trabajadores disfrutarán de cinco días hábiles, con goce de sueldo, por el nacimiento de su hijo o hijos, o bien, cuando obtengan en adopción a un menor o incapaz, contados a partir de su entrega.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
+
+Asimismo, los trabajadores disfrutarán de cinco días hábiles, con goce de sueldo, por el nacimiento de un hijo; tratándose de un nacimiento múltiple, los trabajadores tendrán cinco días hábiles adicionales por cada hijo nacido vivo. Los trabajadores disfrutarán de este periodo de descanso cuando obtengan en adopción a un menor o incapaz, contados a partir de su entrega.
 
 ### Capítulo Tercero. De los salarios
 
@@ -1990,3 +1996,11 @@ P.O. 18 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DE LA “LEY QUE REFORMA EL ARTÍCULO 139 Y ADICIONA EL ARTÍCULO 141 DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO”.]
 
 Artículo Único. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 17 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO, DE LA LEY DEL SISTEMA DE ASISTENCIA SOCIAL DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
