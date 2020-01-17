@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-prevencion-y-gestion-integral-de-residuos-del-estado-374
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-20"
-last_updated: "2019-10-18"
+last_updated: "2020-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro "La Sombra de Arteaga", el 20 de febrero de 2004.
 
@@ -189,9 +189,9 @@ XIV. Registrar y, en su caso autorizar, las obras y actividades relacionadas con
 
 XV. Establecer convenios con las autoridades estatales y federales competentes, para llevar a cabo el control de los residuos peligrosos generados a nivel domiciliario y por los establecimientos micro-generadores de este tipo de residuos;
 
-(REUBICADA, P.O. 18 DE OCTUBRE DE 2019)
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-XVI. Realizar las actividades de inspección para verificar el cumplimiento de los ordenamientos jurídicos en la materia de su competencia y, en su caso, imponer las sanciones que corresponda; y
+XVI. Realizar las actividades de inspección para verificar el cumplimiento de los ordenamientos jurídicos en la materia de su competencia, actuando como órgano receptor y substanciador de quejas y denuncias y, en su caso, imponer las sanciones que corresponda (sic); y
 
 (REUBICADA, P.O. 18 DE OCTUBRE DE 2019)
 
@@ -675,49 +675,57 @@ Queda prohibido por cualquier motivo:
 
 I. Arrojar o abandonar en la vía pública, áreas comunes, parques, barrancas, y en general en sitios no autorizados, residuos de cualquier especie;
 
-II. Arrojar a la vía pública o depositar en los recipientes de almacenamiento de uso público o privado, animales muertos, parte de ellos o residuos que contengan sustancias tóxicas o peligrosas para la salud pública o aquellos que despidan olores desagradables;
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
 
-III. Quemar a cielo abierto o en lugares no autorizados, cualquier tipo de residuos;
+II. Arrojar o abandonar en la vía pública, áreas comunes, parques, barrancas, y en general en sitios no autorizados, colillas de cigarro y residuos de productos de tabaco en general;
 
-IV. Arrojar o abandonar en lotes baldíos, a cielo abierto o en cuerpos de aguas superficiales o subterráneas, sistemas de drenaje, alcantarillado o en fuentes públicas, residuos sólidos de cualquier especie;
+III. Arrojar a la vía pública o depositar en los recipientes de almacenamiento de uso público o privado, animales muertos, parte de ellos o residuos que contengan sustancias tóxicas o peligrosas para la salud pública o aquellos que despidan olores desagradables;
 
-V. Extraer de los botes colectores, depósitos o contenedores instalados en la vía pública, los residuos sólidos urbanos que contengan, con el fin de arrojarlos al ambiente, o cuando estén sujetos a programas de aprovechamiento por parte de las autoridades competentes, y éstas lo hayan hecho del conocimiento público;
+IV. Quemar a cielo abierto o en lugares no autorizados, cualquier tipo de residuos;
 
-VI. Establecer depósitos de residuos sólidos urbanos o de manejo especial en lugares no autorizados o aprobados por las autoridades competentes;
+V. Arrojar o abandonar en lotes baldíos, a cielo abierto o en cuerpos de aguas superficiales o subterráneas, sistemas de drenaje, alcantarillado o en fuentes públicas, residuos sólidos de cualquier especie;
 
-VII. Colocar propaganda comercial o política en el equipamiento urbano destinado a la recolección de residuos sólidos urbanos o de manejo especial;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-VIII. Extraer y clasificar cualquier residuo sólido urbano o de manejo especial de cualquier sitio de disposición final, así como realizar labores de pepena fuera y dentro de dichos sitios; cuando estas actividades no hayan sido autorizadas por las autoridades competentes y la medida se haya hecho del conocimiento público;
+VI. Extraer de los botes colectores, depósitos o contenedores instalados en la vía pública, los residuos sólidos urbanos que contengan, con el fin de arrojarlos al ambiente, o cuando estén sujetos a programas de aprovechamiento por parte de las autoridades competentes, y estas lo hayan hecho del conocimiento público;
 
-IX. El fomento o creación de basureros clandestinos;
+VII. Establecer depósitos de residuos sólidos urbanos o de manejo especial en lugares no autorizados o aprobados por las autoridades competentes;
 
-X. El depósito o confinamiento de residuos fuera de los sitios destinados para dicho fin, en parques, áreas verdes, áreas de valor ambiental, áreas naturales protegidas, zonas rurales o áreas de conservación ecológica y otros lugares no autorizados;
+VIII. Colocar propaganda comercial o política en el equipamiento urbano destinado a la recolección de residuos sólidos urbanos o de manejo especial;
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-XI. La incineración de residuos sólidos urbanos y de residuos de manejo especial en el Estado de Querétaro, con excepción de la pirólisis, gasificación por plasma y plasma, siempre y cuando sean sometidos a combustión en un ambiente mínimo de oxígeno a fin de que no generen dioxinas o furanos;
+IX. Extraer y clasificar cualquier residuo solido urbano o de manejo especial de cualquier sitio de disposición final, así como realizar labores de pepena fuera y dentro de dichos sitios; cuando estas actividades no hayan sido autorizadas por las autoridades competentes y la medida se haya hecho del conocimiento público;
 
-XII. La dilución o mezcla de residuos sólidos urbanos o de manejo especial con líquidos para su vertimiento al sistema de alcantarillado, a cualquier cuerpo de agua o sobre suelos con o sin cubierta vegetal;
+X. El fomento o creación de basureros clandestinos;
 
-XIII. La mezcla de residuos sólidos urbanos y de manejo especial con residuos peligrosos, contraviniendo lo dispuesto en la Ley General, esta Ley y demás ordenamientos que de ellas deriven;
+XI. El depósito o confinamiento de residuos fuera de los sitios destinados para dicho fin, en parques, áreas verdes, áreas de valor ambiental, áreas naturales protegidas, zonas rurales o áreas de conservación ecológica y otros lugares no autorizados;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XII. La incineración de residuos sólidos urbanos y de residuos de manejo especial en el Estado de Querétaro, con excepción de la pirolisis, gasificación por plasma y plasma, siempre y cuando sean sometidos a combustión en un ambiente mínimo de oxígeno a fin de que no generen dioxinas o furanos;
+
+XIII. La dilución o mezcla de residuos sólidos urbanos o de manejo especial con líquidos para su vertimiento al sistema de alcantarillado, a cualquier cuerpo de agua o sobre suelos con o sin cubierta vegetal;
+
+XIV. La mezcla de residuos sólidos urbanos y de manejo especial con residuos peligrosos, contraviniendo lo dispuesto en la Ley General, esta Ley y demás ordenamientos que de ellas deriven;
 
 > <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2019)</small>
 
-XIV. La venta, facilitación y obsequio de bolsas de plástico desechable para acarreo, así como de popotes, en los establecimientos de servicios de comidas, bebidas y demás similares;
+XV. La venta, facilitación y obsequio de bolsas de plástico desechable para acarreo, así como de popotes, en los establecimientos de servicios de comidas, bebidas y demás similares;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XVI. El confinamiento o deposito final de residuos en estado líquido o con contenidos líquidos o de materia orgánica que excedan los máximos permitidos por las normas oficiales mexicanas; y
 
 (REUBICADA, P.O. 18 DE OCTUBRE DE 2019)
 
-XV. El confinamiento o depósito final de residuos en estado líquido o con contenidos líquidos o de materia orgánica que excedan los máximos permitidos por las normas oficiales mexicanas; y
-
-(REUBICADA, P.O. 18 DE OCTUBRE DE 2019)
-
-XVI. Todo acto u omisión que contribuya a la contaminación de las vías públicas y áreas comunes, o que interfiera con la prestación del servicio de limpia.
+XVII. Todo acto u omisión que contribuya a la contaminación de las vías públicas y áreas comunes, o que interfiera con la prestación del servicio de limpia.
 
 Las violaciones a lo establecido en este artículo serán objeto de sanción, de conformidad con las disposiciones establecidas en la presente Ley, sin perjuicio de lo dispuesto en los demás ordenamientos jurídicos aplicables.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2019)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE ENERO DE 2020)</small>
 
-Queda excluida la prohibición de la fracción XIV, de este artículo, en aquellos que se empleen dichos materiales por razones de salud e higiene en términos de la Norma Oficial Mexicana.
+Queda excluida la prohibición de la fracción XV, de este artículo, en aquellos que se empleen dichos materiales por razones de salud e higiene en términos de la Norma Oficial Mexicana.
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES PARTICULARES
 
@@ -1211,27 +1219,35 @@ IV. Clausura temporal o permanente, parcial o total de las instalaciones; y
 
 V. Las demás que señalen las leyes o reglamentos aplicables.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
 
 ###### Artículo 101.
 
-Para aquellos casos en los que por primera vez se incumplan (sic) con las disposiciones contenidas en la fracción III, del artículo 43, las fracciones V y XIV, del artículo 44 y el artículo 52 de esta Ley, procederá la amonestación.
+Para aquellos casos en los que por primera vez se incumplan con las disposiciones contenidas en la fracción III del artículo 43, las fracciones VI y XV del artículo 44 y el artículo 52 de esta Ley, procederá la amonestación.
 
 ###### Artículo 102.
 
 Las sanciones por la violación de las disposiciones de la presente Ley, se aplicarán conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-I. Multa de 10 a 150 veces el valor diario de la UMA, contra quien por segunda ocasión realice alguna de las conductas descritas en el artículo anterior de la presente Ley;
+I. De 10 a 30 horas de servicios en favor de la comunidad para la preservación del medio ambiente;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-II. Multa de 150 veces el valor diario de la UMA; y
+II. Multa de 10 a 150 veces el valor diario de la Unidad de Medida y Actualización, contra quien por segunda ocasión, realice alguna de las conductas descritas en el artículo anterior de la presente Ley;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-III. Arresto administrativo hasta por 36 horas o multa de mil a dos mil 500 veces el valor diario de la UMA.
+III. Multa de 150 a 1000 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+IV. Multa de 35 a 350 veces el valor diario de la Unidad de Medida y Actualización contra quien por segunda y consiguientes ocasiones, realice la conducta prevista en el artículo 44, fracción II; y
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+V. Arresto administrativo hasta por 36 horas o multa de 1000 a 2500 veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 103.
 
@@ -1390,3 +1406,13 @@ Se entiende como unidad económica a aquella entidad productora de bienes y/o se
 Se exceptúan de lo anterior, únicamente en cuanto ve a la implementación de la gradualidad, a todos aquellos Municipios que ya contemplen y apliquen la prohibición de proporcionar a los consumidores cualquier tipo bolsa de plástico desechable para acarreo o cualquier otra medida similar, sin dejar de lado todas las consideraciones de la presente Ley.
 
 Artículo Quinto. La Secretaría de Desarrollo Sustentable contará con un periodo de 365 días naturales a partir de la entrada en vigor de la presente Ley para integrar e instrumentar los Lineamientos para la sustitución y abatimiento de plásticos y unicel en el Programa para la Prevención y Gestión Integral de Residuos Sólidos Urbanos y de Manejo Especial del Estado de Querétaro.
+
+P.O. 17 DE ENERO DE 2020.
+
+> <small>[N. DE E. TRANSITORIOS LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE QUERÉTARO".]</small>
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Dentro de los 180 días naturales siguientes a la entrada en vigor de la presente Ley, los Municipios del Estado, dentro del ámbito de sus respectivas competencias, deberán realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en la presente.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga (sic) a la presente Ley.
