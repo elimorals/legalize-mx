@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-instituto-queretano-de-las-mujeres-89335"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-30"
-last_updated: "2019-05-14"
+last_updated: "2020-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,15 +23,17 @@ state: "QUE"
 
 LEY DEL INSTITUTO QUERETANO DE LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
 
-Ley publicada en el Periódico Oficial del Gobierno del Estado de Querétaro, el jueves 30 de agosto de 2012.
+Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 30 de agosto de 2012.
 
 LIC. JOSÉ EDUARDO CALZADA ROVIROSA, Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, sabed que:
 
 LA QUINCUAGÉSIMA SEXTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, la Quincuagésima Sexta Legislatura del Estado de Querétaro, expide la siguiente:
 
@@ -181,17 +183,17 @@ XV. Promover la elaboración de metodologías, indicadores y estudios de género
 
 XVI. Integrar, administrar y actualizar permanentemente una biblioteca pública que contenga material con perspectiva de género, así como difundir su existencia y promover su consulta;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-XVII. Brindar atención psicológica y orientación legal a mujeres que manifiesten ser receptoras de violencia de género;
+XVII. Proporcionar atención psicológica y orientación jurídica gratuita a mujeres que manifiesten ser receptoras de violencia de género, así como representación legal gratuita a mujeres que manifiesten ser receptoras de violencia familiar, que se encuentren en situación de riesgo, vulnerabilidad económica y no cuenten con la posibilidad de pagar por estos servicios profesionales del ejercicio privado, debiendo auxiliarles en la tramitación de medidas de protección en términos de la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia;
 
 > <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
 
 XVIII. Establecer vinculación permanente con las autoridades de procuración, administración e impartición de justicia y seguridad pública en el Estado, para proponer, incentivar y apoyar las medidas de prevención contra cualquier forma de discriminación y violencia contra las mujeres;
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-XIX. Operar y coordinar el Refugio para Mujeres Víctimas de Violencia y brindar tanto a las víctimas como a sus hijas o hijos menores de edad, los apoyos gratuitos de alojamiento, alimentación, vestido, calzado, asesoría legal, atención psicológica y acceso a servicios médicos y hospitalarios, prestados por instituciones e instancias de salud públicas;
+XIX. Operar y coordinar el Refugio para Mujeres Víctimas de Violencia y brindar tanto a las víctimas como a sus hijas o hijos menores de edad, los apoyos gratuitos de alojamiento, alimentación, vestido, calzado, asesoría jurídica, representación legal, atención psicológica y acceso a servicios médicos y hospitalarios, prestados por instituciones e instancias de salud públicas;
 
 XX. Promover que las menores continúen con sus estudios y que las mujeres obtengan capacitación, profesionalización y acceso a fuentes de empleo;
 
@@ -548,3 +550,13 @@ P.O. 14 DE MAYO DE 2019.
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga (sic) a la presente Ley.
+
+P.O. 17 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 7 DE LA LEY DEL INSTITUTO QUERETANO DE LAS MUJERES”.]
+
+Artículo Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones normativas que se opongan a lo previsto en el presente Decreto.
+
+Artículo Tercero. Lo previsto en la presente Ley se aplicará atendiendo a la suficiencia presupuestal con que se cuente.
