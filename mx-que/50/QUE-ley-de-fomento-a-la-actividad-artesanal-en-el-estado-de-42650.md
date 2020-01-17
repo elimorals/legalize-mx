@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-fomento-a-la-actividad-artesanal-en-el-estado-de-42650"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-17"
-last_updated: "2004-12-17"
+last_updated: "2020-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE FOMENTO A LA ACTIVIDAD ARTESANAL EN EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado "La Sombra de Arteaga", el 17 de diciembre de 2004.
 
@@ -467,6 +467,10 @@ El Titular del Poder Ejecutivo, a través de la Casa, realizará las gestiones n
 
 La Casa, conjuntamente con la Secretaría de Turismo, procurará que en cada evento de promoción turística, se realicen actividades para la promoción de las artesanías del Estado y, en su caso, se apoye a la comercialización de los productos.
 
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2020)</small>
+
+De igual forma, se promoverá la generación de programas para el desarrollo de rutas o corredores artesanales, en los que deberá incluirse a los artesanos de los pueblos y comunidades indígenas, que permitan dar a conocer y propiciar los espacios dedicados a la producción o comercialización de las artesanías de la región, así como también se realicen actividades para la promoción, comercialización, difusión e intercambio cultural de las artesanías dentro del Estado y en el ámbito nacional e internacional.
+
 ###### Artículo 48.
 
 El Titular del Poder Ejecutivo del Estado, por conducto del Consejo Estatal para la Cultura y las Artes, promoverá que en los planes y programas de éste, se apoyen y rescaten las actividades artesanales mediante las siguientes acciones:
@@ -542,3 +546,13 @@ LIC. JOSÉ ALFREDO BOTELLO MONTES
 SECRETARIO DE GOBIERNO
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA LA LEY DE TURISMO DEL ESTADO DE QUERÉTARO Y LA LEY DE FOMENTO A LA ACTIVIDAD ARTESANAL EN EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
