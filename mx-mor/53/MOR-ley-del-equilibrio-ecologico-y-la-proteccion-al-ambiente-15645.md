@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-15645"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-22"
-last_updated: "2017-03-16"
+last_updated: "2020-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial Sección Segunda, el miércoles 22 de diciembre de 1999.
 
@@ -337,19 +337,55 @@ XXIV. La atención coordinada con la Federación de los asuntos que afecten el e
 
 XXV. La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda ésta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación.
 
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXVI. Establecer las estrategias para que la sociedad morelense implemente los mecanismos a seguir para afrontar los efectos del cambio climático;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXVII. Impulsar la investigación y la tecnología, a fin de migrar de la producción, venta, uso y entrega de plásticos de un solo uso, popotes y recipientes de unicel, a productos biodegradables o compostables, o que no sean plásticos de un solo uso, proporcionando a la ciudadanía la asesoría necesaria;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXVIII. Generar las condiciones para sustituir gradualmente la producción, venta, uso y entrega de plásticos de un solo uso, popotes y recipientes de unicel.
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXIX. Proporcionar los lineamientos a seguir, estableciendo un Programa Técnico Ambiental, para que las empresas que se dediquen a la producción, venta, uso y entrega de plásticos de un solo uso, popotes y recipientes de unicel, conozcan los requisitos técnicos para elaborar, vender, usar y entregar productos biodegradables, compostables o que no sean plásticos de un solo uso;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXX. Llevar a cabo campañas de información, difusión y concientización dirigidas a la población, respecto de la importancia en ejecutar medidas alternas de producción, venta, uso y entrega de plásticos de un solo uso, popotes y recipientes de unicel;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXXI. Certificar mediante la figura de la Auditoría Ambiental a las empresas que cumplan con la normatividad y práctica ambiental, estableciendo en el Reglamento de Auditoría Ambiental los lineamientos aplicables;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXXII. Realizar un padrón de las empresas que cumplen con la legislación ambiental, y que dentro de su desarrollo y actividades establezcan un sistema de gestión ambiental.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2020)</small>
+
 ###### ARTÍCULO 7°.
 
-Las atribuciones que ésta Ley otorga al Ejecutivo del Estado de Morelos, serán ejercidas a través de la Secretaría creada para tal fin, salvo las que directamente correspondan al Gobernador del Estado por disposición expresa de la ley.
+Las atribuciones que ésta Ley otorga al Ejecutivo del Estado de Morelos, serán ejercidas a través de la Secretaría creada para tal fin, salvo las que directamente correspondan al Gobernador del Estado por disposición expresa de la Ley.
 
 Por razón de la materia y de conformidad con la Ley Orgánica de la Administración Pública Estatal u otras disposiciones legales aplicables, se requiera de la intervención de otras dependencias, la Secretaría ejercerá sus atribuciones en coordinación con las mismas.
 
 La Administración Pública Estatal ejercerá las atribuciones que le confieren otros ordenamientos y ajustará su ejercicio a los criterios para preservar el equilibrio ecológico, aprovechar sustentablemente los recursos naturales y proteger al ambiente en ella incluidos, así como a las disposiciones de los reglamentos, Normas Oficiales Mexicanas, programas de ordenamiento ecológico y demás normatividad que de la misma se deriven.
 
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2020)</small>
+
+La Secretaría tendrá la atribución de ejecutar las actividades de la transición de la producción, venta, uso y entrega de plásticos de un solo uso, popotes y recipientes de unicel, a productos biodegradables o compostables, o que no sean plásticos de un solo uso, quien establecerá los programas de apoyo para su cumplimiento en el estado de Morelos.
+
 ### CAPÍTULO II. Atribuciones de los Municipios
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2020)</small>
 
 ###### ARTÍCULO 8°.
 
-Corresponden a los Gobiernos Municipales del Estado de Morelos, con el concurso, según el caso, del Gobierno del Estado, dentro de sus respectivas jurisdicciones, las siguientes facultades:
+Corresponde a los Gobiernos Municipales del Estado de Morelos, con el concurso, según el caso, del Gobierno del Estado, dentro de sus respectivas jurisdicciones, las siguientes facultades:
 
 I. La formulación, conducción y evaluación de la política ambiental municipal en congruencia con las disposiciones jurídicas federales y estatales sobre la materia;
 
@@ -406,6 +442,40 @@ XXIV. La concertación de acciones con los sectores social y privado en materia 
 XXV. El establecimiento de las medidas necesarias para imponer las sanciones correspondientes por infracciones a la presente Ley o a los reglamentos o bandos de policía y buen gobierno; y
 
 XXVI. La atención de los demás asuntos que en materia de aprovechamiento sustentable de recursos naturales, preservación del equilibrio ecológico y protección al ambiente les conceda la Ley General del Equilibrio Ecológico y la Protección al Ambiente, ésta Ley u otros ordenamientos en concordancia con ellas y que no estén otorgados expresamente a la Federación o a los Estados.
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXVII. En colaboración con la Secretaría, podrán celebrar Convenio de Colaboración para la formulación, ejecución y evaluación de las estrategias municipales a seguir para combatir el cambio climático;
+
+XVIII. ... (SIC)
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXIX. Reglamentar en materia de transición y sustitución respecto de la producción, venta, uso y entrega de plásticos de un solo uso, popotes y recipientes de unicel;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXX. Establecer el tiempo gradual en el que los consumidores y productores de plásticos de un solo uso, popotes y recipientes de unicel, deberán cumplir dejando de producir, vender, usar y entregar plásticos de un solo uso, popotes y recipientes de unicel;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXXI. Establecer las sanciones a que se harán acreedores los infractores a las disposiciones en materia de cambio climático, respecto de la no producción, venta, uso y entrega de plásticos de un solo uso, popotes y recipientes de unicel;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXXII. Realizar campañas en el ámbito de sus competencias respecto del cambio climático y el calentamiento global, a fin de concientizar a la población la importancia en migrar de la producción, venta, uso y entrega de plásticos de un solo uso, popotes y recipientes de unicel hacia productos biodegradables, compostables o plásticos que no sean de un solo uso;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXXIII. Efectuar las visitas de inspección a efecto de vigilar el cumplimiento de las disposiciones por cuanto a la no producción, venta, uso y entrega de plásticos de un solo uso, popotes y recipientes de unicel;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXXIV. Reglamentar dentro de sus disposiciones normativas que las actividades de producción, venta, uso y entrega de plásticos de un solo uso, popotes y recipientes de unicel deberán sujetarse al Programa Técnico Ambiental, señalado por la Secretaría, a fin de tener concordancia y congruencia respecto de los lineamientos técnicos a seguir y homologar los criterios en todos los Municipios del estado de Morelos, y
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXXV. Las demás disposiciones que le confieran la normatividad en materia ambiental y de cambio climático.
 
 ### CAPÍTULO III. Coordinación de la Federación con el Estado de Morelos y sus Municipios
 
@@ -2968,3 +3038,23 @@ TERCERO. A partir de la entrada en vigor del presente, se derogan todas y cada u
 CUARTO. Dentro de un plazo no mayor a 90 días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, se deberán realizar, las adecuaciones a las disposiciones reglamentarias correspondientes.
 
 QUINTA (SIC). Dentro de un plazo no mayor a 150 días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, los Ayuntamientos municipales del Estado de Morelos, deberán realizar en su caso, las adecuaciones necesarias a sus reglamentos de construcciones, así como al de ecología y protección al ambiente, según corresponda.
+
+P.O. 17 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS CINCUENTA Y UNO, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE RESIDUOS SÓLIDOS PARA EL ESTADO DE MORELOS Y DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS”.]
+
+PRIMERO.- El presente Decreto de reforma, entrará en vigor al día siguiente de publicación en el Periódico Oficial del Estado de Morelos “Tierra y Libertad”.
+
+SEGUNDO.- Para la transición paulatina de sustitución de plástico de un solo uso para fines de envoltura, transportación, carga o traslado de alimentos o bebidas, al uso de materiales reutilizables, se atenderá a la gradualidad siguiente:
+
+I.- Los establecimientos mercantiles de mayoreo, supermercados, tiendas departamentales, de autoservicio, de conveniencia, restaurantes y farmacias que por su actividad otorguen plástico de un solo uso, para el acarreo o empacado de productos, ya sea de manera gratuita o a la venta para ese propósito, deberán cumplir con el presente Decreto a más tardar en 12 meses, contados a partir de la entrada en vigor del mismo.
+
+II.- Los pequeños y medianos comercios, tiendas, abarrotes, fruterías, verdulerías, fondas de comida, loncherías, cafeterías, cocinas económicas y taquerías, así como el comercio ambulante y en general todo el comercio de menudeo que por su actividad otorguen plástico de un solo uso, para el acarreo o empacado de productos, ya sea de manera gratuita o a la venta para ese propósito, deberán cumplir con el presente Decreto a más tardar en 24 meses, contados a partir de la entrada en vigor del mismo.
+
+TERCERO.- El Ejecutivo Estatal y cada uno de los Ayuntamientos del Estado de Morelos, dentro de los 90 días siguientes a la publicación del presente Decreto, deberán llevar a cabo las adecuaciones en los Reglamentos para la implementación del mismo.
+
+CUARTO.- La Secretaría de Desarrollo Sustentable del Gobierno del estado de Morelos, dentro de los 60 días siguientes a la entrada en vigor del presente Decreto, convocarán a la comunidad académica, científica, las cámaras de industriales y de comercio, asociaciones civiles y sociedad organizada, a colaborar y elaborar el Programa Técnico Ambiental, respecto de los medios alternativos para la transición de plásticos de un solo uso, popotes y recipientes de unicel, como el reciclaje, el reúso y la reducción de productos altamente contaminantes.
+
+QUNTO.- La Secretaría y los Municipios, a partir de la entrada en vigor del presente Decreto, deberán establecer campañas permanentes de difusión, a fin de que toda la población conozca de la importancia en la migración de hábitos y costumbres para combatir el cambio climático.
+
+SEXTO.- A partir de que sean aplicables las prohibiciones establecidas en el presente Decreto, los Municipios deberán inspeccionar y vigilar el cumplimiento de las disposiciones normativas para combatir el cambio climático, pudiendo imponer las sanciones administrativas y pecuniarias a quienes no cumplan con la reglamentación en la materia.
