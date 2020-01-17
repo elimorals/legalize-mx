@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-micro-pequena-y-mediana-empresa-para-el-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2019-10-09"
+last_updated: "2020-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -59,7 +59,9 @@ II. Actividades de Fomento: Acciones económicas, jurídicas, sociales, comercia
 
 III. Agrupamiento Empresarial Estratégico (CLUSTER): Al grupo de empresas pertenecientes a un mismo sector de la actividad económica, en una zona geográfica definida, constituidas como asociaciones civiles y reconocidas por la Secretaría, mediante un convenio de colaboración entre dicho grupo y la Secretaría;
 
-IV. Cadenas Productivas: Sistemas productivos que integran conjuntos de empresas que añaden valor agregado a productos o servicios a través de las fases del proceso económico;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+IV. Cadenas Globales de Valor: Consiste en el rango completo de actividades que son requeridas para llevar un producto o servicio desde su concepción, a través de sus diferentes fases de producción, el envío al consumidor y la disposición finales (sic) después de su uso;
 
 V. Capacitación: Servicio que consiste en la impartición de cursos, talleres y metodologías, con la finalidad de mejorar las capacidades y habilidades de los recursos humanos de las empresas que reciben la atención;
 
@@ -113,9 +115,13 @@ I. Proteger, velar y defender al sector de las micro, pequeñas y medianas empre
 
 II. Establecer una política integral de apoyo a las MIPYMES, con visión de corto, mediano y largo plazo, asignando los recursos humanos y económicos suficientes para su implementación;
 
-III. Apoyar a las MIPYMES para sumarse a las cadenas productivas a través de la exportación de sus productos e importación de materias primas y tecnologías;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-IV. Promover y/o crear los mecanismos mediante los cuales la Secretaría elabore las políticas de corto, mediano y largo plazo, para elevar la productividad y competitividad de las MIPYMES, se podrán tomar en consideración la opinión de las organizaciones empresariales;
+III. Apoyar a las MIPYMES para sumarse a las cadenas globales de valor a través de la exportación de sus productos e importación de materias primas y tecnologías;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+IV. Crear los mecanismos mediante los cuales la Secretaría elabore las políticas de corto, mediano y largo plazo, para elevar la productividad y competitividad de las MIPYMES, considerando la opinión de las organizaciones empresariales;
 
 V. Facilitar el acceso al financiamiento a través de créditos directos e indirectos, el fomento a alternativas de créditos bancario (sic) y la creación de políticas que atiendan la problemática de oferta y demanda de recursos con el objetivo de apoyar el crecimiento y consolidación de las MIPYMES;
 
@@ -123,15 +129,27 @@ VI. Promover la cultura emprendedora a través de los programas educativos, adem
 
 VII. Fomentar entre las MIPYMES los procedimientos, prácticas y normas que contribuyan al avance de la calidad en los procesos de producción, distribución, mercadeo y servicio al cliente;
 
-VIII. Facilitar a las MIPYMES el acceso para abastecer de bienes y servicios al sector público estatal y municipal, en el marco de la normativa aplicable;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-IX. Promover y garantizar las condiciones para la creación, consolidación e integración de las MIPYMES en las cadenas productivas, mediante políticas de apoyo y promoción de sus productos, en el marco de la normativa ecológica, y que estas contribuyan al desarrollo sustentable y equilibrado de largo plazo.;
+VIII. Facilitar a las MIPYMES el acceso para abastecer de bienes y servicios al sector público estatal y municipal, en el marco de la normativa aplicable, mediante preferencia hacia este segmento en las licitaciones y en capacitación para aplicar en los procesos de compra;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+IX. Promover y garantizar las condiciones para la creación, consolidación e integración de las MIPYMES en las cadenas globales de valor, mediante políticas de apoyo y promoción de sus productos, en el marco de la normativa ecológica, y que estas contribuyan al desarrollo sustentable y equilibrado de largo plazo;
 
 X. Estimular la cooperación y asociación de las MIPYMES, a través de sus Organizaciones Empresariales en el ámbito estatal, regional y municipal;
 
-XI. Promover esquemas para la modernización, transferencia de tecnología innovación, uso de herramientas informáticas, acceso a centros de investigación y desarrollo tecnológico en las MIPYMES; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-XII. Fortalecer la articulación del ecosistema de innovación y emprendedor a nivel estatal.
+XI. Promover esquemas para la modernización, transferencia de tecnología (sic) innovación, uso de herramientas informáticas, acceso a centros de investigación y desarrollo tecnológico en las MIPYMES;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XII. Fortalecer la articulación del ecosistema de innovación y emprendedor a nivel estatal; y
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XIII. Crear un esquema integral y de fácil acceso a las MIPYMES, donde se presente el conjunto de apoyos, actividades de fomento y estímulos dedicados a este segmento.
 
 ### CAPÍTULO SEGUNDO. DEL DESARROLLO DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
@@ -143,7 +161,9 @@ La Secretaría será la autoridad responsable de elaborar la política integral 
 
 La planeación y ejecución de las políticas y acciones de fomento para la competitividad de las MIPYMES debe atender, los siguientes criterios:
 
-I. Propiciar la participación y toma de decisiones del sector público, en un marco de coordinación;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+I. Propiciar la participación y toma de decisiones del sector público, previa opinión de las cámaras empresariales, en un marco de coordinación;
 
 II. Gestionar esquemas de apoyo a las MIPYMES a través de la concurrencia de recursos de federación, estados y de los municipios.
 
@@ -151,9 +171,17 @@ III. Incluir propuestas de mejora y simplificación normativa en materia de desa
 
 IV. Orientar estrategias y proyectos de modernización, innovación y desarrollo tecnológico para las MIPYMES;
 
-V. Contar con mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las MIPYMES, que permitan corregirlas o mejorarlas; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-VI. Promover que las dependencias y entidades de la Administración Pública Estatal, en la planeación de sus adquisiciones de bienes, contratación de servicios y realización de obra pública consideren a las MIPYMES, hasta alcanzar un mínimo del 30%, conforme a la presente Ley y a la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Nuevo León y a la Ley de Obras Públicas del Estado de Nuevo León.
+V. Contar con mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las MIPYMES, que permitan corregirlas o mejorarlas;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+VI. Fomentar que las dependencias y entidades de la Administración Pública Estatal, en la planeación de sus adquisiciones de bienes, contratación de servicios y realización de obra pública consideren a las MIPYMES, hasta alcanzar un mínimo del 30%, conforme a la presente Ley y a la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Nuevo León y a la Ley de Obras Públicas del Estado de Nuevo León; y
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+VII. Considerar las diferencias técnicas y operativas entre las empresas por su tamaño, su sector de actividad y etapa de maduración.
 
 ###### Artículo 7.
 
@@ -165,13 +193,17 @@ I. Capacitación y formación empresarial, así como de asesoría y consultoría
 
 II. Fortalecer y fomentar la formación de emprendedores, así como la constitución de incubadoras de empresas;
 
-III. Promover la integración y apoyo a las cadenas productivas, Organismos Empresariales y vocaciones productivas locales;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+III. Promover la integración y apoyo a las cadenas globales de valor, Organismos Empresariales y vocaciones productivas locales;
 
 IV. Promover una cultura tecnológica en las MIPYMES; así como la modernización, innovación y desarrollo tecnológico;
 
 V. Fomentar el desarrollo de proveedores y distribuidores con las MIPYMES;
 
-VI. Apoyar la integración de Cadenas Productivas y Agrupamientos Empresariales (CLUSTERS) en base a las ventajas competitivas locales;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+VI. Apoyar la integración de Cadenas Globales de Valor y Agrupamientos Empresariales (CLUSTERS) en base a las ventajas competitivas locales;
 
 VII. Difundir el Sistema de Apertura Rápida de Empresas entre las MIPYMES del Estado;
 
@@ -227,7 +259,9 @@ II. Facilitar el financiamiento a las MIPYMES a través de esquemas de créditos
 
 III. Orientación sobre canales de distribución adecuados y mejoras en los sistemas de administración;
 
-IV. La integración y fortalecimiento de las cadenas productivas y Agrupamientos Empresariales (CLUSTERS);
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+IV. La integración y fortalecimiento de las Cadenas Globales de Valor y Agrupamientos Empresariales (CLUSTERS);
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2019)</small>
 
@@ -365,7 +399,9 @@ g) Desarrollo tecnológico
 
 V. Impulsar la vinculación de las MIPYMES con el sector público y la gran empresa;
 
-VI. Estimular la integración y eficiencia de las Cadenas Productivas y Agrupamientos Empresariales (CLUSTERS) de MIPYMES;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+VI. Estimular la integración y eficiencia de las Cadenas Globales de Valor y Agrupamientos Empresariales (CLUSTERS) de MIPYMES;
 
 VII. Recomendar mecanismos y esquemas que faciliten el acceso al financiamiento de las MIPYMES;
 
@@ -375,13 +411,25 @@ VIII. Proponer a la Comisión Estatal de Mejora Regulatoria acciones que fortale
 
 IX. Promover que el Premio Estatal de Competitividad de las MIPYMES reconozca de manera natural a las empresas que se hayan destacado en los términos que el mismo Consejo determine;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-X. Discutir y analizar las propuestas que realicen los Municipios y el sector privado para el desarrollo y cumplimiento de los objetivos de la presente Ley; y
+X. Discutir y analizar las propuestas que realicen los Municipios y el sector privado para el desarrollo y cumplimiento de los objetivos de la presente Ley;
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-XI. Emitir la convocatoria y nombrar al jurado para la entrega del Premio Estatal del Emprendedor.
+XI. Emitir la convocatoria y nombrar al jurado para la entrega del Premio Estatal del Emprendedor;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XII. Emitir opinión vinculante respecto a la propuesta de política integral de apoyo a las MIPYMES que elabore la Secretaría, para ser ejecutadas por el Ejecutivo;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XIII. Dar seguimiento a los resultados de los programas y acciones de fomento establecidos por la Secretaría y la política integral de apoyo a las MIPYMES; y
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XIV. Formar grupos de trabajo, en coordinación con el Secretario Técnico, con el personal operativo de la Secretaría, Dependencias Gubernamentales y otros interesados para el seguimiento a (sic) acuerdos de las sesiones del Consejo.
 
 ###### Artículo 22.
 
@@ -487,6 +535,30 @@ Una vez entregado el premio de carácter económico, así como el reconocimiento
 
 El Premio Estatal del Emprendedor se financiará del presupuesto destinado a la Secretaría de Economía y Trabajo, en el ejercicio fiscal correspondiente.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE ENERO DE 2020)</small>
+
+### CAPÍTULO TERCERO BIS I. DEL FINANCIAMIENTO PARA MIPYMES
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2020)</small>
+
+Artículo 27 BIS 6. La Secretaría, con la aprobación del Consejo, generará una serie de estímulos y programas, en el marco de la política integral de apoyo a las MIPYMES que facilite el financiamiento a este segmento de empresas.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2020)</small>
+
+Artículo 27 BIS 7. La Secretaría podrá fomentar esquemas de crédito directo a empresas o indirecto mediante intermediarios financieros.
+
+También podrá establecer alianzas con empresas e inversionistas del estado para promover esquemas de financiamiento no bancario exclusivo para MIPYMES y emprendedores.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2020)</small>
+
+Artículo 27 BIS 8. Dichos esquemas de crédito directo o indirecto mediante intermediarios financieros y alianzas con empresas e inversionistas del estado, deberán de seguir los principios de equidad, proporcionalidad, sustentabilidad, revolvencia y transparencia.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2020)</small>
+
+Artículo 27 BIS 9. La política integral y apoyo a las MIPYMES contará con esquemas de capacitación sobre cultura financiera para las empresas.
+
+En coordinación con el sector bancario, la Secretaría implementará una plataforma que conjuntará la oferta de financiamiento para la micro, pequeña y mediana empresas, bajo un esquema de búsqueda y selección acorde a las características de las empresas.
+
 ### CAPÍTULO CUARTO. DE LAS INCONFORMIDADES
 
 ### CAPÍTULO QUINTO. DE LAS SANCIONES
@@ -562,3 +634,11 @@ P.O. 9 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 167. LA LXXV LEGISLATURA AL CONGRESO DEL ESTADO DE NUEVO LEÓN, TIENE POR RECIBIDAS EN TIEMPO Y FORMA, LAS OBSERVACIONES AL DECRETO 134, POR EL CUAL SE REFORMA LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor el día 1° de Enero del año 2020.
+
+P.O. 17 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 164. SE REFORMA LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Para dar cumplimiento a las obligaciones emanadas de dicha reforma, estas se realizarán acorde a las capacidades financieras de la Secretaría de Economía y Trabajo y se tomarán en cuenta en el Presupuesto destinado a la misma en el ejercicio fiscal correspondiente.
