@@ -4,7 +4,7 @@ identifier: "QUE-ley-sobre-bebidas-alcoholicas-del-estado-de-queretaro-65032"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-13"
-last_updated: "2018-08-17"
+last_updated: "2020-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY SOBRE BEBIDAS ALCOHÓLICAS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 13 de diciembre de 2008.
 
@@ -181,7 +181,9 @@ Es competencia y obligación de las autoridades sanitarias estatales:
 
 I. Ejercer el control y regulación sanitaria de los establecimientos que produzcan, expendan o suministren bebidas alcohólicas en el Estado;
 
-II. Vigilar que en los establecimientos que expendan bebidas alcohólicas, éstas ostenten las etiquetas correspondientes que garanticen la calidad sanitaria;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+II. Vigilar que en los establecimientos que expendan bebidas alcohólicas, éstas ostenten las etiquetas correspondientes que garanticen la calidad sanitaria; así como que el agua natural purificada no embotellada que otorguen de forma gratuita en caso de ser establecimientos TIPO I y II, sea de calidad sanitaria apta para el consumo humano;
 
 III. Coordinar con las autoridades sanitarias federales, la programación y ejecución de programas contra el alcoholismo; y
 
@@ -305,9 +307,17 @@ I. Tratándose de establecimientos del Tipo III, proporcionar a la Secretaría d
 
 II. Tratándose de establecimientos del Tipo I, ofertar y promocionar el consumo de alimentos preparados al interior de los mismos, debiendo para ello incluir alimentos de precio igual o menor al de las bebidas alcohólicas ofertadas al precio más bajo. Para los efectos de ésta ley, no se consideran alimentos los siguientes: frituras, frutos secos y similares en cualquier presentación, aunque estos sean preparados dentro del mismo establecimiento;
 
-III. Abstenerse de proporcionar a sus clientes recipientes de cualquier clase o material que les facilite a éstos la transportación de bebidas alcohólicas hacía el exterior de dichos establecimientos; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-IV. Tratándose de establecimientos del Tipo III no exceder el porcentaje máximo señalado de la inversión en bebidas alcohólicas en relación a la mercancía que oferta el establecimiento.
+III. Abstenerse de proporcionar a sus clientes recipientes de cualquier clase o material que les facilite a éstos la transportación de bebidas alcohólicas hacía el exterior de dichos establecimientos;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+IV. Tratándose de establecimientos del Tipo III no exceder el porcentaje máximo señalado de la inversión en bebidas alcohólicas en relación a la mercancía que oferta el establecimiento; y
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+V. Tratándose de establecimientos del Tipo I y II, proporcionar de manera obligatoria y gratuita, agua natural purificada no embotellada para su consumo individual, a los clientes que así lo soliciten dentro de su consumo, la cual será una sola vez y hasta por una cantidad máxima de 400 mililitros, conforme a los lineamientos expedidos por la autoridad sanitaria correspondiente.
 
 ### Capítulo Cuarto. Del funcionamiento
 
@@ -371,9 +381,11 @@ Igualmente, quedan prohibidos los concursos que induzcan al consumo de bebidas a
 
 Está prohibida la venta, el consumo y anunciar bebidas alcohólicas en cualquier lugar o espacio exterior, en un radio de cien metros respecto de una escuela o institución educativa de cualquier índole, centros o unidades deportivas.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
+
 ###### Artículo 21.
 
-La Secretaría de Gobierno, conjuntamente con los municipios del Estado, las cámaras y organizaciones de comerciantes, los propietarios de los establecimientos que regula esta Ley, ciudadanos interesados y demás autoridades competentes, promoverán la implementación de programas de prevención de consumo de bebidas alcohólicas, de comisión de delitos y de accidentes automovilísticos que puedan ocasionarse por este motivo.
+La Secretaría de Gobierno, conjuntamente con los municipios del Estado, las cámaras y organizaciones de comerciantes, los propietarios de los establecimientos que regula esta Ley, ciudadanos interesados y demás autoridades competentes, promoverán la implementación de programas de prevención de consumo de bebidas alcohólicas, de comisión de delitos y de accidentes automovilísticos que puedan ocasionarse por este motivo; así como de programas que fomenten el consumo de agua natural purificada no embotellada dentro de los establecimientos.
 
 ### Capítulo Quinto. Licencias, Permisos y Preautorizaciones
 
@@ -753,9 +765,17 @@ XXVII. Anunciar bebidas alcohólicas en cualquier lugar o espacio exterior, dent
 
 XXVIII. Dejar de proporcionar, el propietario, su representante o encargado de bodega o almacén de cerveza, vinos y licores, a la autoridad competente, copia de la declaración de clientes y proveedores que presenten a la Secretaría de Hacienda y Crédito Público;
 
-XXIX. Abstenerse de ofertar y promover el consumo de alimentos preparados al interior de los establecimientos, con precio igual o menor al que presente la bebida alcohólica ofertada al precio más bajo; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-XXX. Portear bebidas alcohólicas sin cumplir con las obligaciones previstas en esta Ley.
+XXIX. Abstenerse de ofertar y promover el consumo de alimentos preparados al interior de los establecimientos, con precio igual o menor al que presente la bebida alcohólica ofertada al precio más bajo;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXX. Portear bebidas alcohólicas sin cumplir con las obligaciones previstas en esta Ley; y
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXXI. Negarse a proporcionar de manera gratuita agua natural purificada, como lo establece la fracción V, del artículo 13 de este ordenamiento.
 
 ###### Artículo 47.
 
@@ -777,13 +797,17 @@ Se aplicará multa de:
 
 I. 100 a 200 VSMGZ, por incurrir en cualquiera de las prohibiciones previstas en los artículos 18, 19 y 20 de esta Ley.
 
-II. 100 a 250 VSMGZ, por infringir cualquiera de las disposiciones señaladas en las fracciones IV, VIII, XIII, XXII, XXVI, XXVII, XXVIII, XXIX y XXX del artículo 46.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+II. 100 a 250 VSMGZ, por infringir cualquiera de las disposiciones señaladas en las fracciones IV, VIII, XIII, XXII, XXVI, XXVII, XXVIII, XXIX, XXX y XXXI del artículo 46.
 
 III. 251 a 300 VSMGZ, por cada infracción a lo dispuesto en las fracciones II, V, XII, XV y XVII del artículo 46.
 
 IV. 301 a 350 VSMGZ, por cada infracción a lo dispuesto en las fracciones I, III, VI, VII, IX, X, XI, XIV, XVI, XVIII, XIX, XX, XXI, XXIII, XXIV y XXV del artículo 46.
 
-Las multas que impongan las autoridades competentes, serán determinadas conforme a lo dispuesto en esta Ley; su cobro lo efectuará la autoridad fiscal que corresponda en los términos del Código Fiscal del Estado de Querétaro.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
+
+Las multas que impongan las autoridades competentes, serán determinadas conforme a lo dispuesto en esta Ley; su cobro lo efectuará la autoridad fiscal que corresponda calculadas bajo la Unidad de Medida y Actualización (UMA) en los términos del Código Fiscal del Estado de Querétaro.
 
 Se impondrán al infractor tantas sanciones como infracciones haya cometido.
 
@@ -1220,3 +1244,13 @@ P.O. 17 DE AGOSTO DE 2018.
 Artículo Primero. La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 17 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY POR LA QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE BEBIDAS ALCOHÓLICAS DEL ESTADO DE QUERÉTARO Y ADICIONA LA FRACCIÓN IV AL ARTÍCULO 34 DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. La Secretaría de Salud contará con un plazo de 6 meses, contados a partir de la entrada en vigor de la presente Ley, para emitir la normatividad y lineamientos que correspondan según lo dispuesto por los artículos 100 y 136 de la Ley de Salud del Estado de Querétaro, para el cumplimiento de la obligación por parte de los establecimientos previstos en el artículo 12, fracción III, Tipo I y Tipo II, de la Ley sobre Bebidas Alcohólicas del Estado de Querétaro.
