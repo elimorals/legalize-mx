@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-residuos-solidos-y-de-economia-circular-antes-ley-de-572
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-17"
-last_updated: "2017-03-01"
+last_updated: "2020-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE RESIDUOS SÓLIDOS PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 17 de octubre de 2007.
 
@@ -47,11 +47,11 @@ LEY DE RESIDUOS SÓLIDOS PARA EL ESTADO DE MORELOS.
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
 
 ###### ARTÍCULO 1.
 
-La presente Ley es de observancia general en el Estado de Morelos, sus disposiciones son de orden público e interés social y tiene por objeto garantizar el derecho de toda persona a un ambiente sano mediante la regulación, la generación, aprovechamiento y gestión integral de los residuos sólidos urbanos y de manejo especial, los peligrosos de conformidad con lo que establece la Ley General para la Prevención y Gestión Integral de los Residuos; así como la prevención de la contaminación y la remediación de suelos contaminados con Residuos Sólidos urbanos y de manejo especial; a fin de propiciar el desarrollo sustentable en la Entidad.
+La presente Ley es de observancia general en el Estado de Morelos, sus disposiciones son de orden público e interés social y tiene por objeto garantizar el derecho de toda persona a un ambiente sano mediante la regulación, la prevención de la generación, aprovechamiento y gestión integral de los residuos sólidos urbanos y de manejo especial, los peligrosos de conformidad con lo que establece la Ley General para la Prevención y Gestión Integral de los Residuos; así como la prevención de la contaminación y la remediación de suelos contaminados con residuos sólidos urbanos y de manejo especial; a fin de propiciar la economía circular y el desarrollo sustentable en la Entidad.
 
 ###### ARTÍCULO 2.
 
@@ -75,9 +75,15 @@ VIII. Establecer indicadores de desempeño para evaluar la adecuada aplicación 
 
 IX. Las medidas de seguridad, sanciones, reparación del daño y recursos de inconformidad.
 
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+X. La transición paulatina al uso de materiales reutilizables, y con esto prohibir gradualmente el uso y distribución gratuita u onerosa de los plásticos de un solo uso, en cualquier establecimiento mercantil para prestar sus servicios ubicado en territorio del estado de Morelos;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2020)</small>
+
 ###### ARTÍCULO 3.
 
-En la formulación y conducción de la política en materia de prevención, valorización y gestión integral de los residuos a que se refiere esta Ley, la expedición de disposiciones jurídicas y la emisión de actos que de ella deriven, así como en la generación y manejo integral de residuos, según corresponda, se observarán los principios que establecen la ley general para la Prevención y Gestión Integral de los Residuos, así como los siguientes:
+En la formulación y conducción de la política en materia de prevención, valorización y gestión integral de los residuos a que se refiere esta Ley, la expedición de disposiciones jurídicas y la emisión de actos que de ella deriven, así como en la generación y manejo integral de residuos, según corresponda, se observarán los principios que establecen la Ley General para la Prevención y Gestión Integral de los Residuos, así como los siguientes:
 
 I. Reincorporar al ciclo productivo de materiales o sustancias reutilizables así como desarrollar las acciones de educación y capacitación para una gestión de los residuos sólidos eficiente y eficazmente sostenible;
 
@@ -95,7 +101,9 @@ VII. Desarrollar acciones de educación y capacitación para una gestión de los
 
 VIII. Adoptar medidas de minimización de residuos sólidos, a través de la máxima reducción de sus volúmenes de generación y características de peligrosidad;
 
-IX. Establecer un sistema de responsabilidad compartida y de manejo de los residuos sólidos, desde la generación hasta su disposición final, a fin de evitar situaciones de riesgo e impactos negativos a la salud humana y el ambiente, sin perjuicio de las medidas técnicamente necesarias para el mejor manejo de los residuos sólidos;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+IX. Establecer un sistema de responsabilidad extendida al productor y de manejo de los residuos sólidos, desde la generación hasta su disposición final, a fin de evitar situaciones de riesgo e impactos negativos a la salud humana y el ambiente, sin perjuicio de las medidas técnicamente necesarias para el mejor manejo de los residuos sólidos;
 
 X. Adoptar medidas para que la contabilidad de las entidades que generan o manejan residuos sólidos refleje adecuadamente el costo real total de la prevención, control, fiscalización, recuperación y compensación que se derive del manejo de residuos sólidos;
 
@@ -153,6 +161,16 @@ Para los efectos de la presente Ley, son aplicables las definiciones contenidas 
 
 I. Almacenamiento: El depósito temporal de residuos, con carácter previo a su valorización o eliminación, por tiempo inferior a dos años o a seis meses si se trata de residuos peligrosos, a menos que reglamentariamente se establezcan plazos menores;
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 17 DE ENERO DE 2020)</small>
+
+I Bis.- Bolsa
+
+a) Bolsa de empaque o producto: Tipo de empaque que no cuenta con un mango y que, por cuestiones de asepsia, deba ser utilizado para contener alimentos o insumos húmedos elaborados o pre elaborados;
+
+b) Bolsa de plástico desechable: Tipo de empaque fabricado con derivados del petróleo, distribuido por tiendas departamentales, de autoservicio, de conveniencia, restaurantes, farmacias y comercios en general para el acarreo de productos de los consumidores, cubierta de platos para el consumo de alimentos y que es desechado una vez que fue utilizado para tal fin.
+
+c) Bolsa reutilizable: Tipo de empaque que por el material de que está fabricado, tiene como fin ser usado indefinidamente, puede ser de fibra natural o sintética;
+
 II. Remediación: Conjunto de medidas a las que se someten los sitios contaminados para eliminar o reducir los contaminantes hasta un nivel seguro para la salud y el ambiente o prevenir su dispersión en el ambiente sin modificarlos, de conformidad con lo que se establece en esta Ley;
 
 > <small>(REFORMADA, P.O. 25 DE JUNIO DE 2014)</small>
@@ -162,6 +180,10 @@ III. Secretaría: la Secretaría de Desarrollo Sustentable;
 IV. Compostaje: Tratamiento mediante biodegradación que permite el aprovechamiento de los residuos sólidos orgánicos como mejoradores de suelos o fertilizantes;
 
 V. Disposición Final: Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población y a los ecosistemas y sus elementos;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+V. Bis. Economía circular: Modelo de economía que supone la intersección de los aspectos ambientales y económicos donde los productos deben poder extender su vida útil con facilidades de ser reutilizados o reciclados.
 
 VI. Generador: Persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo;
 
@@ -176,6 +198,10 @@ X. Manejo Integral: Las actividades de reducción en la fuente, separación, reu
 XI. Material: Sustancia, compuesto o mezcla de ellos, que se usa como insumo y es un componente de productos de consumo, de envases, empaques, embalajes y de los residuos que éstos generan;
 
 XII. Plan de Manejo: Instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de residuos sólidos urbanos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el Diagnóstico Básico para la Gestión Integral de Residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres niveles de gobierno;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XII bis. Plásticos de un solo uso: aquellos plásticos que se emplean por una única ocasión y que son problemáticos debido a su presencia fácilmente observable en el ambiente y perjudiciales para el mismo, tales como bolsas plásticas desechables, plásticos para cubrir y envolver alimentos, popotes, recipientes unicel, de plástico o de otro derivado del petróleo, cuando no sea factible su aprovechamiento, incluido cualquier otro cuyo reciclaje carezca de mercado.
 
 XIII. Proceso Productivo: Conjunto de actividades relacionadas con la extracción, beneficio, transformación, procesamiento y/o utilización de materiales para producir bienes y servicios;
 
@@ -194,6 +220,10 @@ XIX. Residuos Peligrosos: Son aquellos que posean alguna de las características
 XX. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
 
 XXI. Responsabilidad Compartida: Principio mediante el cual se reconoce que los residuos sólidos son generados a partir de la realización de actividades que satisfacen necesidades de la sociedad, mediante cadenas de valor tipo producción, proceso, envasado, distribución, consumo de productos, y que, en consecuencia, su manejo integral es una corresponsabilidad social y requiere la participación conjunta, coordinada y diferenciada de productores, distribuidores, consumidores, usuarios de subproductos, y de los tres órdenes de gobierno según corresponda, bajo un esquema de factibilidad de mercado y eficiencia ambiental, tecnológica, económica y social;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXI Bis. Responsabilidad extendida: La Responsabilidad Extendida del Productor (REP) se trata de un principio para promover mejoras ambientales para ciclos de vida completos de los sistemas de los productos ya que su objetivo es extender las responsabilidades de los fabricantes del producto a varias fases del ciclo total de su vida útil, y especialmente a su recuperación, reciclaje y disposición final.
 
 XXII. Reutilización: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
 
@@ -263,13 +293,25 @@ XXIII. Organizar y promover de acuerdo a su competencia, actividades de comunica
 
 XXIV. Promover de acuerdo a su competencia la integración, operación y funcionamiento de organismos consultivos en los que participen representantes de los sectores industrial, comercial y de servicios, académico, de investigación y desarrollo tecnológico, asociaciones de profesionistas y de consumidores, y organizaciones no gubernamentales relacionadas con el tema, para que tomen parte en los procesos destinados a clasificar los residuos, evaluar las tecnologías para su prevención, valorización y tratamiento, planificar el desarrollo de la infraestructura para su manejo y desarrollar las propuestas técnicas de instrumentos normativos y de otra índole que ayuden a lograr los objetivos en la materia.
 
-> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-XXV. Elaborar, difundir y aplicar programas mediante los cuales se dé a conocer a la población del Estado, sobre los efectos que genera la utilización de plásticos no biodegradables, con el fin de reducir el consumo de bolsas, envases, embalajes o empaques no biodegradables;
+XXV. Elaborar, difundir y aplicar programas mediante los cuales se informe de a conocer a la población del Estado, sobre los efectos que genera la utilización de plásticos no biodegradables que sean compostables, con el fin de eliminar el consumo de plásticos de un solo uso o empaques desechables no biodegradables compostables;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-XXVI. Vigilar que la producción y el consumo de productos plásticos se sujeten a los criterios de sustentabilidad, que establezca para tal efecto la Secretaría.
+XXVI. Establecer y publicar criterios de sustentabilidad para el consumo de productos plásticos, los que se elaborarán con la participación de la academia;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXVII. Promover que los establecimientos mercantiles y unidades económicas que otorguen de manera gratuita u onerosa plásticos de un solo uso cumplan con las disposiciones establecidas en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXVIII. Establecer y fomentar estrategias administrativas y de gestión para la transición paulatina al uso de materiales reutilizables, así como para la prohibición gradual de materiales reutilizables, así como para la prohibición gradual del uso de plásticos de un solo uso en cualquier establecimiento mercantil para prestar sus servicios ubicado en territorio del estado de Morelos; y
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XXIX. Promover la investigación y el desarrollo de tecnologías y acciones que permitan prevenir, controlar y reducir la contaminación por la utilización de bolsas de plásticos de uso único, que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, para transportación, carga o traslado al consumidor final.
 
 ###### ARTÍCULO 9.
 
@@ -431,13 +473,31 @@ IV. Celebrarán convenios con medios de comunicación para la promoción de las 
 
 V. Promoverán el reconocimiento a los esfuerzos más destacados de la sociedad en materia de prevención y gestión integral de los residuos.
 
-> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-VI. Se prohíbe a los establecimientos mercantiles, así como a los comerciantes ambulantes, otorgar bolsas de plástico que no estén sujetas a las bases de producción y consumo sustentable.
+VI. Se prohíbe a los establecimientos mercantiles, así como a los comerciantes ambulantes, proporcionar de manera gratuita u onerosa plásticos de un solo uso.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
 
-Sólo se podrán utilizar bolsas de plástico que reúnan los estándares tecnológicos para su degradación, que para tal efecto establezca la Secretaría.
+Sólo se podrán utilizar bolsas reutilizables elaborada (sic) de materiales no derivados del petróleo, que para tal efecto establezca la Secretaría.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 451, PUBLICADO EN EL P.O. DE 17 DE ENERO DE 2020, PÁGINA 15.]</small>
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+VII. Los establecimientos mercantiles, tiendas departamentales, centros comerciales y comercios ambulantes, deberán presentar a la autoridad competente, según el tipo de generador, un plan de sustitución de los plásticos de un solo uso.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2020)</small>
+
+Esto incluye, a los plásticos de un solo uso para el acarreo de los productos comercializados o artículos que hayan recibido un servicio suministrado dentro de dicha unidad.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2020)</small>
+
+Esta disposición no es aplicable en el uso de bolsas de empaque o producto, de conformidad con lo establecido en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2020)</small>
+
+No se sancionará a aquellas unidades económicas que proporcionen para el acarreo de los productos, bolsas reutilizables, en los términos de lo descrito por la presente Ley.
 
 ###### ARTÍCULO 23.
 
@@ -497,6 +557,24 @@ XIX. Los demás que establezca el Reglamento de esta Ley y el Programa de Preven
 
 En la planeación de la política de Residuos sólidos y la realización de las acciones correspondientes, se observarán los lineamientos que se establezcan en el Plan Estatal de desarrollo, así como los Planes de Desarrollo Municipales.
 
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2020)</small>
+
+ARTÍCULO 25 bis. Los responsables de la elaboración y distribución de productos o empaques que eventualmente constituyan residuos están obligados a:
+
+I. Procurar el rediseño de productos, así como su remanufactura y la utilización de insumos no contaminantes en sus procesos productivos;
+
+II. Integrar tecnologías que permitan el uso de materiales que puedan ser reutilizados, reciclados o biodegradados cuando el producto o su empaque sean considerados como residuos;
+
+III. Informar a los consumidores por medio de etiquetas en sus envases o empaques, o algún otro medio viable, sobre las posibilidades en materia de reutilización, reciclado o biodegradación de materiales incluidos en el producto o su empaque, así como a la clasificación que corresponda y que eventualmente serán residuos;
+
+IV. Participar en el diseño e instrumentación de programas para reducir la generación de residuos, aprovechar su valor y darles un manejo ambientalmente adecuado, así como incentivar a los clientes a reciclar sus productos mediante el canje de artículos promocionales;
+
+V. Coadyuvar en las actividades de reutilización, reciclado y biodegradación de materiales incluidos en el producto o su empaque;
+
+VI. Participar en eventos educativos sobre residuos de conformidad con el Capítulo V, Sección IV del presente Título; y
+
+VII. Cumplir con lo establecido en la normatividad federal, estatal y municipales en materia de residuos.
+
 #### SECCIÓN II. DE LOS PROGRAMAS SOBRE RESIDUOS SÓLIDOS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
@@ -516,6 +594,24 @@ Las autoridades competentes promoverán la participación de la sociedad y los d
 ###### ARTÍCULO 27.
 
 El Ejecutivo Estatal, a través de la Secretaría en coordinación con los Ayuntamientos y respetando el ámbito de su competencia, promoverá la elaboración de Planes de manejo correspondientes a los generadores obligados.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2020)</small>
+
+ARTÍCULO 27 bis. Además de las atribuciones establecidas en el artículo 8, la Secretaría tendrá a su cargo la implementación de un programa adecuado de sustitución y alternativas viables para reemplazar las bolsas de plástico desechables por bolsas reutilizables, biodegradables o de bioplástico; popotes, vasos y platos de unicel bajo el siguiente esquema de seguimiento:
+
+I. Informar al público de manera adecuada, así como llevar a cabo campañas de asistencia gratuita para capacitar a los compradores en general, sobre las posibles alternativas con las que podrán sustituir los plásticos de un solo uso.
+
+II. Realizar campañas de difusión y concientización hacia la población sobre las ventajas que tendrá para su salud y el medio ambiente en general, el uso racional de material degradable o biodegradable, para el envase, contención y movilización de los productos que adquieran en los diferentes establecimientos;
+
+III. Promover campañas de concientización entre los propietarios de establecimientos y empresas relacionadas con la comercialización de los productos, de tal manera que sus intereses sean compatibles con los intereses colectivos de protección ambiental y desarrollo sustentable; y
+
+IV. Promover el otorgamiento de estímulos e incentivos a quienes realicen acciones tendientes a la sustitución y aportación de alternativas viables para reemplazar los plásticos de un solo uso por materiales degradables o biodegradables que sean compostables con el fin de procurar la protección, aprovechamiento sustentable, preservación y restauración del equilibrio ecológico.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2020)</small>
+
+ARTÍCULO 27 bis 2. Las Dependencias y Entidades de los tres poderes del Estado, así como los Organismos Autónomos del Estado, tienen prohibido adquirir, usar o distribuir, recipientes plásticos de un solo uso. La misma prohibición se establece para los Gobiernos Municipales y sus Órganos Descentralizados.
+
+Se exceptúa a lo anterior, cuando la adquisición y distribución de los mismos sea destinada con fines médicos o de atención humanitaria.
 
 ###### ARTÍCULO 28.
 
@@ -689,9 +785,11 @@ a. Orgánicos
 
 b. Inorgánicos
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
+
 ###### ARTÍCULO 46.
 
-El propietario o generador de los Residuos sólidos tiene la obligación de entregarlos a los servicios de recolección encargados de su disposición final.
+El propietario o generador de los Residuos Sólidos, tiene la obligación de entregarlos a los servicios de recolección encargados de su manejo integral.
 
 ###### ARTÍCULO 47.
 
@@ -706,6 +804,10 @@ III. Propiciar la reutilización y recuperación de Residuos sólidos;
 IV. Almacenar los Residuos sólidos con sujeción a las normas sanitarias y ambientales para el Estado de Morelos para evitar daño a terceros y facilitar su recolección; y
 
 V. Poner en conocimiento de las autoridades competentes las infracciones que se estimen se hubieran cometido contra la normatividad de residuos sólidos.
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+VI. Utilizar para el acarreo de los productos, bolsas reutilizables en los términos de lo descrito por la presente Ley.
 
 ###### ARTÍCULO 48.
 
@@ -1065,9 +1167,11 @@ La imposición de cualquier sanción prevista por la presente Ley no excluye la 
 
 III. Cuando el poseedor o el gestor de los residuos los entregue a persona física o morales distinta de las señaladas en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2020)</small>
+
 ###### ARTÍCULO 97.
 
-A efectos de la presente ley constituyen infracciones, las siguientes actividades:
+A efectos de la presente Ley constituyen infracciones, las siguientes actividades:
 
 I. Arrojar o abandonar Residuos sólidos, en la vía pública, predios baldíos, barrancas, cañadas, ductos de drenaje alcantarillado, cableado eléctrico o telefónico, áreas comunes, parques, y en general en sitios no autorizados;
 
@@ -1107,29 +1211,35 @@ XVI. Los propietarios o encargados de establos, caballerizas o cualquier otro lo
 
 XVII. Aquellos propietarios de animales domésticos que omita (sic) la recolección y limpia de las heces fecales de sus animales, en las vías públicas y áreas comunes y depositarlos en los recipientes o contenedores específicos;
 
-> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
-XVIII. Aquellos establecimientos mercantiles, así como los comerciantes ambulantes, que otorguen bolsas de plástico que no estén sujetas a las bases de producción y consumo sustentable.
+XVIII. Los pequeños y medianos comercios, tiendas, abarrotes, fruterías, verdulerías, fondas de comida, loncherías, cafeterías, cocinas económicas y taquerías, así como el comercio ambulante y en general todo el comercio de menudeo que por su actividad otorguen plástico de un solo uso, para el acarreo o empacado de productos, ya sea de manera gratuita o a la venta para ese propósito.
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XIX. Los establecimientos mercantiles de mayoreo, supermercados, tiendas departamentales, de autoservicio, de conveniencia, restaurantes y farmacias que por su actividad otorguen plástico de un solo uso, para el acarreo o empacado de productos, ya sea de manera gratuita o a la venta para ese propósito.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2020)</small>
 
 ###### ARTÍCULO 98.
 
-Las sanciones por la comisión de las infracciones señaladas en el Artículo anterior serán las siguientes:
+Las sanciones por la comisión de las infracciones señaladas en el artículo anterior serán las siguientes:
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
 
 I. Multa que se determinará en los casos y montos siguientes:
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
 
-a) Con el equivalente de 5 a 99 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: I, II, XI, XV, XVII;
+a) Con el equivalente de 5 a 99 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: I, II, XI, XV, XVII y XVIII;
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
 b) Con el equivalente de 100 A 1000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: III, VI, VII, IX, XII, XIII, XIV;
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
 
-c) Con el equivalente de 5,000 a 25,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en el supuesto previsto en la fracciones IV, V, VIII, X, XVI, XVIII;
+c) Con el equivalente de 5,000 a 25,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en el supuesto previsto en las fracciones IV, V, VIII, X, XVI y XIX;
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
@@ -1468,3 +1578,27 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 17 DE ENERO DE 2020.
+
+[N. DE. E TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS CINCUENTA Y UNO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE RESIDUOS SÓLIDOS PARA EL ESTADO DE MORELOS Y DE LA LEY DE EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión de Gobierno del Estado.
+
+SEGUNDO. Para la transición paulatina de sustitución de plástico de un solo uso para fines de envoltura, transportación, carga o traslado de alimentos o bebidas, al uso de materiales reutilizables, se atenderá a la gradualidad siguiente:
+
+I.- Los establecimientos mercantiles de mayoreo, supermercados, tiendas departamentales, de autoservicio, de conveniencia, restaurantes y farmacias que por su actividad otorguen plástico de un solo uso, para el acarreo o empacado de productos, ya sea de manera gratuita o a la venta para ese propósito, deberán cumplir con el presente Decreto a más tardar en 12 meses, contados a partir de la entrada en vigor del mismo.
+
+II.- Los pequeños y medianos comercios, tiendas, abarrotes, fruterías, verdulerías, fondas de comida, loncherías, cafeterías, cocinas económicas y taquerías, así como el comercio ambulante y en general todo el comercio de menudeo que por su actividad otorguen plástico de un solo uso, para el acarreo o empacado de productos, ya sea de manera gratuita o a la venta para ese propósito, deberán cumplir con el presente Decreto a más tardar en 24 meses, contados a partir de la entrada en vigor del mismo.
+
+TERCERO. Las disposiciones relativas a la elaboración, difusión y aplicación del programa mediante los cuales se dé a conocer a la población del Estado, sobre los efectos que genera la utilización de plásticos, con el fin de evitar el consumo de bolsas, unicel, popotes, envases, embalajes o empaques de ese tipo de plástico, señaladas en el artículo 8, fracción XXV, deberán implementarse a más tardar en los 120 días naturales posteriores a la entrada en vigor de este Decreto.
+
+CUARTO. Las disposiciones relativas a la publicación de los criterios de sustentabilidad que establezca la Secretaría respecto al consumo de productos plásticos, señaladas en el artículo 8, fracción XXVI, deberán implementarse a más tardar en los 120 días naturales posteriores de la entrada en vigor de este Decreto.
+
+QUINTO. El Ejecutivo Estatal y los Municipios tendrán un plazo de 90 días hábiles para expedir las reformas reglamentarias respectivas que se derivan del mismo, con el fin de que vigilen el cumplimiento de las disposiciones para la regulación del uso y distribución de los plásticos de un solo uso en las unidades económicas y sancionar en caso de incumplimiento de acuerdo con lo establecido en el artículo 9, fracción XXVII.
+
+SEXTO. Los establecimientos mercantiles, tiendas departamentales, centros comerciales y comercios ambulantes, contarán con el plazo de un año para terminar inventario de bolsas plásticas desechables, popotes plásticos y deberán presentar a la autoridad competente según el tipo de generador, el plan de sustitución de los mismos, conforme a lo establecido en el artículo 22, fracción VII.
+
+SÉPTIMO. Las Dependencias y Entidades de los tres poderes del Estado, así como los Organismos Autónomos del Estado, los Gobiernos Municipales y sus Órganos Descentralizados en relación (sic) artículo 27 bis 2, deberán cumplir inmediatamente con dicha disposición.
+
+OCTAVO. Se derogan todas las disposiciones de igual o menos rango que se opongan a la presente Reforma.
