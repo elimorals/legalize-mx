@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-sistema-de-asistencia-social-del-estado-de-queretaro-65
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-17"
-last_updated: "2010-11-26"
+last_updated: "2020-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DEL SISTEMA DE ASISTENCIA SOCIAL DEL ESTADO DE QUERETARO
 
-LEY DEL SISTEMA DE ASISTENCIA SOCIAL DEL ESTADO DE QUERETARO
+LEY DEL SISTEMA DE ASISTENCIA SOCIAL DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -33,7 +33,9 @@ Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, 
 
 LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 17 FRACCIONES II Y XVIII DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, la Quincuagésima Legislatura del Estado de Querétaro, expide la siguiente:
 
@@ -61,7 +63,9 @@ II. Los menores de doce años de edad, a quienes se atribuya la realización de 
 
 III. Los alcohólicos y fármaco dependientes;
 
-IV. Las mujeres en estado de abandono, en período de gestación o lactancia;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+IV. Las mujeres en estado de abandono, en período de gestación o lactancia y aquéllas que presenten embarazos y nacimientos múltiples;
 
 V. Los adultos mayores en estado de abandono, con incapacidad legal, marginación o sujetos a maltrato;
 
@@ -131,7 +135,9 @@ XIV. La colaboración y auxilio a las autoridades laborales competentes, en la v
 
 XV. El fomento de acciones de paternidad responsable que propicien la preservación de los derechos de los menores;
 
-XVI. El apoyo médico a mujeres en periodo de gestación o lactancia, con especial atención a las que carecen de recursos económicos y adolescentes en situación de vulnerabilidad;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+
+XVI. El apoyo médico a mujeres en periodo de gestación o lactancia, con especial atención a las que carecen de recursos económicos y adolescentes en situación de vulnerabilidad, así como aquellas que presenten embarazos múltiples;
 
 XVII. Los análogos y conexos a los anteriores, que tiendan a modificar y mejorar las circunstancias de carácter social que impiden al individuo su desarrollo integral;
 
@@ -351,7 +357,7 @@ Secretario de Gobierno
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 26 DE NOVIEMBRE DE 2010.
 
@@ -362,3 +368,11 @@ Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jera
 Artículo Tercero. Para efecto de lo dispuesto en el artículo 100 fracción VIII de la Ley de Salud del Estado de Querétaro, la Secretaría de Salud contará con el plazo de noventa días naturales, a partir de la entrada en vigor de la presente Ley, para emitir la normatividad que corresponda.
 
 Hasta en tanto es emitida dicha normatividad, deberán atenderse los criterios técnicos correspondientes a la Etapa I de Implementación del "Acuerdo mediante el cual se establecen los Lineamientos Generales para el expendio o distribución de alimentos y bebidas en los establecimientos de consumo escolar de los planteles de educación básica", contenidos en el Cuadro 3 denominado "Criterios nutrimentales de aplicación obligatoria en alimentos y gradualidad de implementación durante tres ciclos escolares a partir del Ciclo Escolar 2010-2011" del Anexo Único del Acuerdo en cita, publicado en el Diario Oficial de la Federación el 23 de Agosto de 2010.
+
+P.O. 17 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO, DE LA LEY DEL SISTEMA DE ASISTENCIA SOCIAL DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
