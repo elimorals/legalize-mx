@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ciencia-tecnologia-e-innovacion-para-el-estado-de-61073"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-12"
-last_updated: "2019-08-17"
+last_updated: "2020-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de abril de 2008.
 
@@ -835,7 +835,9 @@ El proceso de vinculación deberá ser interinstitucional e interdisciplinario. 
 
 Para la creación y operación de los instrumentos de fomento a que se refiere esta Ley, se concederá prioridad a los programas y proyectos cuyos propósitos sean el desarrollo y la innovación tecnológica, vinculados con empresas o entidades usuarias de la tecnología.
 
-De igual forma, serán prioritarios los proyectos que se propongan lograr un uso racional, más eficiente y ecológicamente sustentable de los recursos naturales, así como las asociaciones cuyo propósito sea la creación y funcionamiento de redes científicas y tecnológicas.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2020)</small>
+
+De igual forma, serán prioritarios los proyectos que se propongan lograr un uso racional, más eficiente y ecológicamente sustentable de los recursos naturales, los que tengan como propósito la mitigación y adaptación a los efectos del cambio climático, y aquellos cuyo objetivo sea generar y aplicar energías renovables en los sectores económicos del estado y en la vida cotidiana de la población, así como las asociaciones cuyo propósito sea la creación y funcionamiento de redes científicas y tecnológicas.
 
 > <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
 
@@ -932,3 +934,11 @@ P.O. 17 DE AGOSTO DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan y contravengan el presente Decreto.
+
+P.O. 18 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 844.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 55 DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
