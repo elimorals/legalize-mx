@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-combate-a-la-corrupcion-del-121961"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-20"
-last_updated: "2018-01-16"
+last_updated: "2020-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SISTEMA ESTATAL DE COMBATE A LA CORRUPCIÓN DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2020.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de mayo de 2017.
 
@@ -638,6 +638,10 @@ VIII. Proponer al Comité Coordinador, a través de su participación en la Comi
 IX. Llevar un registro voluntario de las organizaciones de la sociedad civil que deseen colaborar de manera coordinada con el Comité de Participación Ciudadana para establecer una red de participación ciudadana, conforme a sus normas de carácter interno;
 
 X. Proponer, a través de su participación en la Comisión Ejecutiva, indicadores y metodologías para la medición y seguimiento del fenómeno de la corrupción, así como para la evaluación del cumplimiento de los objetivos y metas de la política estatal, las políticas integrales y los programas y acciones que implementen las autoridades que conforman el Sistema Estatal;
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2020)</small>
+
+Para tal efecto, el Comité de Participación Ciudadana, integrará, actualizará y operará el instrumento de medición de la corrupción denominado Corruptómetro, previamente aprobado por el Comité Coordinador. Dicho instrumento será establecido en todas las dependencias de los poderes Ejecutivo, Legislativo y Judicial del Estado; así como en los órganos autónomos del Estado, para su aplicación.
 
 XI. Proponer mecanismos de articulación entre organizaciones de la sociedad civil, la academia y grupos ciudadanos;
 
@@ -2318,3 +2322,11 @@ P.O. 16 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 800.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE COMBATE A LA CORRUPCIÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM 874.- MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN X DEL ARTÍCULO 21 DE LA LEY DE SISTEMA ESTATAL DE COMBATE A LA CORRUPCIÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El Comité de Participación Ciudadana del Sistema Estatal de Combate a la Corrupción, deberá proponer al Comité Coordinador, el corruptómetro establecido en éste Decreto, dentro del plazo de noventa días hábiles posteriores a la publicación de éste Decreto, de conformidad con la disposición presupuestal, que tienen asignada.
