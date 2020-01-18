@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2019-12-30"
+last_updated: "2020-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2020.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -716,6 +716,14 @@ Mediante la participación de los diversos sectores sociales recogerá las aspir
 La Ley facultará al Ejecutivo para que establezca los procedimientos de participación democrática y los criterios para la formulación, instrumentación, control y evaluación del Plan y los programas de desarrollo. Asimismo, determinará los órganos responsables del proceso de planeación y las bases para que el Ejecutivo coordine, mediante convenios con los municipios e induzca y concerte con los particulares, las acciones a realizar para su elaboración y ejecución.
 
 En el Sistema de Planeación Democrática, el Congreso tendrá la intervención que señale la Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2020)</small>
+
+Con el objeto de cumplir cabalmente con la protección de los Derechos Humanos que deben ser el eje rector en las políticas del estado, y así poder hacer efectivo el respeto a los derechos fundamentales de todo ciudadano, se elaborara un diagnóstico con el fin de determinar la situación de Derechos Humanos en la entidad, para con ello crear un Programa Estatal en dicha materia, los cuales se regularán en la ley que el (sic) efecto se expida.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2020)</small>
+
+El respeto a los Derechos Humanos consagrados en las Constituciones Local y Federal, así como las Leyes y Tratados Internacionales serán la guía permanente en la acción del Gobierno Estatal. Para lograr lo anterior es necesario que los programas y acciones tengan como hilo conductor el respeto a los Derechos Básicos consagrados en las Constituciones Local y Federal, así como las Leyes y Tratados Internacionales. En este sentido el Plan Estatal de Desarrollo contendrá un apartado especial en el que se contendrá el Programa Estatal de Derechos Humanos, que tendrá el carácter de obligatorio y se regulará por una ley, toda vez que la convivencia en el Estado de Oaxaca se sustentará en un sólido Estado de Derecho. Para cumplir con lo anterior, se integrará un Comité Coordinador para la elaboración del Diagnóstico y Programa de Derechos Humanos del Estado de Oaxaca.
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
@@ -5520,3 +5528,11 @@ P.O. 30 DE DICIEMBRE DE 2019.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 848.- MEDIANTE EL CUAL SE ADICIONAN LOS PÁRRAFOS DÉCIMO NOVENO Y VIGÉSIMO AL ARTÍCULO 20 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El Ejecutivo del Estado contará con el término de 90 días para remitir al Congreso del Estado el proyecto de ley en coordinación con la Defensoría de los Derechos Humanos del Pueblo de Oaxaca a que se refiere el anterior precepto.
