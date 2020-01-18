@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco-105591
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-23"
-last_updated: "2018-11-10"
+last_updated: "2020-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 23 de enero de 2015.
 
@@ -99,7 +99,7 @@ XIX. Productos de Tabaco: Abarca los productos preparados totalmente o en parte 
 
 XX. Programa contra el Tabaquismo: Acciones tendientes a prevenir, tratar, e informar sobre los daños que producen a la salud el consumo de tabaco y la exposición a su humo;
 
-XXI. Salario Mínimo: Salario mínimo diario general vigente en la zona;
+XXI. (DEROGADA, P.O. 18 DE ENERO DE 2020)
 
 XXII. Secretaría: A la Secretaría de Salud del Estado de Oaxaca;
 
@@ -111,7 +111,13 @@ XXV. Tabaco: La planta "Nicotina Tabacum" y sus sucedáneos, en su forma natural
 
 XXVI. Transporte Público: Vehículo individual o colectivo concesionado por la autoridad competente, utilizado para transportar personas, generalmente con fines comerciales, laborales, escolares u otros, así como para obtener alguna remuneración, incluye terminales, estaciones, paradas y otras instalaciones de mobiliario urbano conexo; y
 
-XXVII. Verificador Sanitario: La persona facultada por la autoridad competente para realizar las funciones de vigilancia y los actos tendientes a lograr el cumplimiento de esta Ley y demás disposiciones.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ENERO DE 2020)</small>
+
+XXVII. Unidad de Medida y Actualización.- El valor diario de la Unidad de Medida y Actualización que calcule y dé a conocer a través de su publicación en el Diario Oficial de la Federación, el Instituto Nacional de Estadística y Geografía, en términos de lo dispuesto por los artículos 26 apartado B último párrafo de la Constitución Política de los Estados Unidos Mexicanos y 23 fracción XX Bis del Reglamento Interior del Instituto Nacional de Estadística y Geografía.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE ENERO DE 2020)</small>
+
+XXVIII. Verificador Sanitario: La persona facultada por la autoridad competente para realizar las funciones de vigilancia y los actos tendientes a lograr el cumplimiento de esta Ley y demás disposiciones.
 
 ## TÍTULO SEGUNDO. DE LA PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO
 
@@ -121,17 +127,29 @@ XXVII. Verificador Sanitario: La persona facultada por la autoridad competente p
 
 Los objetivos específicos de esta Ley son:
 
-I. Proporcionar protección eficaz contra la exposición al humo de tabaco a través de medidas basadas en la evidencia científica, para promover y proteger el derecho a la vida, salud, integridad física, seguridad y ambientes de trabajo saludables de toda la población, así como de otros derechos lesionados por la exposición al humo de tabaco;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2020)</small>
 
-II. Proteger la salud de la población de los efectos nocivos del consumo de tabaco; a través de la absoluta prohibición de fumar en lugares de trabajo interiores, lugares públicos cerrados, medios de transporte públicos y en los lugares abiertos incluidos en esta Ley;
+I. Proporcionar protección eficaz contra la exposición al humo de tabaco o dispositivos que realicen funciones similares a los mismos a través de medidas basadas en la evidencia científica, para promover y proteger el derecho a la vida, salud, integridad física, seguridad y ambientes de trabajo saludables de toda la población, así como de otros derechos lesionados por la exposición al humo de tabaco;
 
-III. Prevenir, concienciar y difundir los daños a la salud que ocasiona el consumo de tabaco, a través de las campañas que, al efecto, realicen las autoridades competentes entre la población en general, principalmente entre los menores de edad y las mujeres embarazadas;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2020)</small>
 
-IV. Desalentar el inicio en el consumo del tabaco, promover la cesación y reducir el consumo de tabaco a través de cambios en el comportamiento propiciados por los entornos libres de humo de tabaco, así mismo a través de otras medidas indicadas en esta Ley;
+II. Proteger la salud de la población de los efectos nocivos del consumo de tabaco, así como la utilización (sic) dispositivos que realicen funciones similares a los mismos; a través de la absoluta prohibición de fumar en lugares de trabajo interiores, lugares públicos cerrados, medios de transporte públicos y en los lugares abiertos incluidos en esta Ley;
 
-V. Determinar las atribuciones de las autoridades, para vigilar el cumplimiento de la normativa relacionada con el consumo de tabaco;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2020)</small>
 
-VI. Reducir los costos económicos causados por la exposición al humo de tabaco y al consumo de tabaco;
+III. Prevenir, concienciar y difundir los daños a la salud que ocasiona el consumo de tabaco, así como la utilización de dispositivos que realicen funciones similares a los mismos, a través de las campañas que, al efecto, realicen las autoridades competentes entre la población en general, principalmente entre los menores de edad y las mujeres embarazadas;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2020)</small>
+
+IV. Desalentar el inicio en el consumo del tabaco, así como la utilización de dispositivos que realicen funciones similares a los mismos, promover la cesación y reducir el consumo de tabaco a través de cambios en el comportamiento propiciados por los entornos libres de humo de tabaco, así mismo a través de otras medidas indicadas en esta Ley;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2020)</small>
+
+V. Determinar las atribuciones de las autoridades, para vigilar el cumplimiento de la normativa relacionada con el consumo de tabaco o la utilización de dispositivos que realicen funciones similares a los mismos;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2020)</small>
+
+VI. Reducir los costos económicos causados por la exposición al humo de tabaco y al consumo de tabaco o a la utilización de dispositivos que realicen funciones similares a los mismos;
 
 VII. Establecer las sanciones aplicables para quienes incumplan con lo previsto en este ordenamiento;
 
@@ -141,9 +159,11 @@ IX. Las demás que permitan el cumplimiento de su objeto.
 
 ### CAPÍTULO SEGUNDO. ESPACIOS CIEN POR CIENTO LIBRES DE HUMO DE TABACO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2020)</small>
+
 ###### Artículo 4.
 
-Por cuestiones de orden público e interés social, de manera enunciativa más no limitativa, queda prohibido a cualquier persona consumir o tener encendido cualquier producto de tabaco en los lugares públicos cerrados, lugares de trabajo interiores, medios de transporte público y en espacios cien por ciento libres de humo de tabaco tales como:
+Por cuestiones de orden público e interés social, de manera enunciativa más no limitativa, queda prohibido a cualquier persona consumir o tener encendido cualquier producto de tabaco, así como utilizar dispositivos que realicen funciones similares a los mismos en los lugares públicos cerrados, lugares de trabajo interiores, medios de transporte público y en espacios cien por ciento libres de humo de tabaco tales como:
 
 I. Los edificios o instalaciones de acceso público o que constituyan lugares de trabajo interiores en los inmuebles en que desarrollan sus funciones las Dependencias ó Entidades de la Administración Pública Centralizada ó Descentralizada Estatal ó Municipal; de los Poderes Ejecutivo, Legislativo y Judicial del Estado; Organismos Autónomos, así como las de la Federación que residen en el Estado.
 
@@ -447,17 +467,23 @@ V. El beneficio obtenido por el infractor como resultado de la infracción.
 
 ### CAPÍTULO SEGUNDO. MONTO DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2020)</small>
+
 ###### Artículo 39.
 
-Se sancionará con multa equivalente de diez hasta cien veces el salario mínimo diario general vigente en el Estado, el incumplimiento de lo dispuesto en los artículos 14, 15 y 17 de esta ley, la multa será impuesta por el Juez Calificador correspondiente, y será puesto a disposición de éste, por cualquier policía del Estado de Oaxaca o bien de sus Municipios.
+Se sancionará con multa equivalente de diez hasta cien Unidades de Medida y Actualización, el incumplimiento de lo dispuesto en los artículos 14, 15 y 17 de esta ley, la multa será impuesta por el Juez Calificador correspondiente, y será puesto a disposición de éste, por cualquier policía del Estado de Oaxaca o bien de sus Municipios.
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2020)</small>
 
 ###### Artículo 40.
 
-Se sancionará con multa de diez hasta cien veces el salario mínimo diario general vigente en el Estado, el incumplimiento de las disposiciones contenidas en el artículo 4 de esta Ley.
+Se sancionará con multa de diez hasta cien Unidades de Medida y Actualización el incumplimiento de las disposiciones contenidas en el artículo 4 de esta Ley.
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2020)</small>
 
 ###### Artículo 41.
 
-Las infracciones no previstas en este capítulo serán sancionadas con multa de diez hasta cien veces el salario mínimo general vigente en el Estado, atendiendo las reglas de calificación que se establecen en el artículo 38 de esta Ley.
+Las infracciones no previstas en este capítulo serán sancionadas con multa de diez hasta cien Unidades de Medida y Actualización, atendiendo las reglas de calificación que se establecen en el artículo 38 de esta Ley.
 
 ###### Artículo 42.
 
@@ -624,3 +650,11 @@ P.O. 10 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1639.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE OAXACA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 871.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXVII DEL ARTÍCULO 2, LAS FRACCIONES I, II, III , IV, V, VI DEL ARTÍCULO 3, EL PRIMER PÁRRAFO DEL ARTÍCULO 4, LOS ARTÍCULOS 39, 40 Y 41; SE ADICIONA LA FRACCIÓN XXVIII DEL ARTÍCULO 2; Y SE DEROGA LA ACTUAL FRACCIÓN XXI DEL ARTÍCULO 2 DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE OAXACA".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
