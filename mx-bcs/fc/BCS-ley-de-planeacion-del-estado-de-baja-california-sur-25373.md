@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-planeacion-del-estado-de-baja-california-sur-25373"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "2017-11-30"
+last_updated: "2020-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE PLANEACIÓN DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ENERO DE 2020 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 20 de febrero de 1984.
 
@@ -548,3 +548,21 @@ OCTAVO.- Cuando en otras leyes se otorgue denominación distinta a alguna depend
 NOVENO.- El Gobernador del Estado, a través de la Secretaría de Finanzas y Administración, definirá los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a las dependencias y entidades auxiliares que se creen, con el fin de mejorar la operatividad de cambio enfocada a la calidad de los servicios del gobierno.
 
 DÉCIMO.- El Gobernador del Estado, de conformidad con las atribuciones asignadas a cada una de las secretarías y organismos descentralizados, expedirá los reglamentos necesarios en un término que no exceda de ciento veinte días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
+
+B.O. 20 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2683 SE EXPIDE LEY DE PLANEACIÓN DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se abroga la Ley de Planeación del Estado de Baja California Sur publicada mediante Decreto 452, en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 20 de febrero de 1984, con sus consecuentes adiciones y reformas, con excepción de su artículo 23 para los efectos previstos en el Artículo Transitorio Sexto del presente Decreto.
+
+TERCERO. Se derogan las disposiciones normativas que se opongan a lo establecido en el presente Decreto, con excepción del artículo 23 de la Ley de Planeación del Estado de Baja California Sur publicada mediante Decreto 452, en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 20 de febrero de 1984, hasta en tanto se cumplan las disposiciones establecidas en el Artículo Transitorio Sexto del presente Decreto.
+
+CUARTO. El Ejecutivo estatal expedirá el Reglamento Interior para regular la organización y funcionamiento del Comité de Planeación Democrática para el Desarrollo del Estado de Baja California Sur y del Consejo Estatal de Participación Social, con apego a las bases previstas por el presente ordenamiento, en un plazo no mayor de ciento ochenta días naturales, contados a partir del día siguiente en que entre en vigor la Ley aprobada en este Decreto.
+
+QUINTO. Los Ayuntamientos expedirán el Reglamento Interior para regular en lo que corresponda la organización y funcionamiento de los comités de planeación democrática para el desarrollo de los municipios y de los consejos municipales de participación social, con apego a las bases previstas por el presente ordenamiento, en un plazo no mayor de ciento ochenta días naturales, contados a partir del día siguiente en que entre en vigor la Ley aprobada en este Decreto.
+
+Que, en virtud de las consideraciones precedentes y con fundamento en las disposiciones constitucionales y legales citadas, someto a consideración de esa Honorable Legislatura la presente iniciativa con proyecto de Decreto que crea la Ley de Planeación del Estado de Baja California Sur, para que se inicie el procedimiento legislativo correspondiente y de considerarlo pertinente se dictamine en sus términos y se expida el Decreto respectivo.
+
+SEXTO. El Plan Estatal de Desarrollo 2015-2021, continuara vigente hasta en tanto concluya la presente Administración Pública del Estado de Baja California Sur, en términos de lo dispuesto por el artículo 23 de la Ley de Planeación del Estado de Baja California Sur publicada mediante Decreto 452, en el Boletín Oficial del Gobierno del Estado de Baja California Sur en fecha 20 de febrero de 1984.
