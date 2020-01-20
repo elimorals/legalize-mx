@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2019-12-16"
+last_updated: "2020-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -625,31 +625,31 @@ IX. Declaratoria de clausura.
 
 Las Sesiones del Cabildo serán: Ordinarias, Ordinarias Abiertas, Extraordinarias, Solemnes y Secretas conforme a la Ley que en materia municipal expida el Poder Legislativo del Estado; todas tendrán el carácter de públicas excepto las que señale el presente Código como Secretas y serán transmitidas en vivo vía internet por parte de la Secretaría de Comunicación Social y deberán permanecer publicadas en la página oficial o a través de los medios electrónicos con los que cuenta el Municipio de Aguascalientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### ARTÍCULO 26.
 
-Las Sesiones Ordinarias se celebrarán dentro de los primeros diez días naturales de cada mes, los Regidores y Síndicos deberán ser citados al menos con tres días naturales de anticipación, a excepción de las extraordinarias que podrán citarse en cualquier tiempo en razón de la anticipación que el asunto o asuntos a tratar requieran por su importancia o urgencia.
+Las Sesiones Ordinarias se celebrarán dentro de los primeros diez días hábiles de cada mes, los Regidores y Síndicos deberán ser citados al menos con tres días naturales de anticipación, a excepción de las extraordinarias que podrán citarse en cualquier tiempo en razón de la anticipación que el asunto o asuntos a tratar requieran por su importancia o urgencia.
 
-Las citaciones a los Regidores y Síndicos a fin de que concurran a cualquier tipo de Sesión serán realizadas por el Presidente Municipal, a través del Secretario del H. Ayuntamiento.
+Las citaciones a los Regidores y Síndicos a fin de que concurran a cualquier tipo de Sesión serán realizadas por el Presidente Municipal, a través del Secretario del Honorable Ayuntamiento y Director General de Gobierno.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2017)</small>
+En todos los casos, a fin de estar en la posibilidad de que en la sesión se traten los asuntos correspondientes, deberán ser enviados por correo electrónico el citatorio, el proyecto de orden del día, los dictámenes, acuerdos o proposiciones que se pretendan desahogar, así como sus respectivos documentos base o soporte.
 
-En todos los casos, a fin de estar en la posibilidad de que en la sesión se traten todos y cada uno de los asuntos correspondientes, deberán ser entregados en medio digital y vía electrónica: el citatorio, el orden del día y una relación pormenorizada de los dictámenes y proyectos de reglamentos, así como sus respectivos documentos base o soporte, que se presentarán para su discusión y en su caso aprobación.
+Dicha documentación, se remitirá a las direcciones de correo electrónico que debe autorizar cada miembro del Cabildo, mediante escrito dirigido al Secretario del Honorable Ayuntamiento y Director General de Gobierno, misma disposición será aplicable para remitir las cuentas públicas municipales digitalmente a los integrantes del H. Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2017)</small>
+La notificación de la celebración de la sesión, así como de la documentación respectiva, se tendrá por realizada el día y hora que obre en la cuenta de correo electrónico remitente, que para el efecto haya autorizado el Secretario del Honorable Ayuntamiento y Director General de Gobierno.
 
-Los Regidores y Síndicos deberán ser citados mediante escrito en la oficina que ocupan dentro del Palacio Municipal y a través del correo electrónico que hayan proporcionado para tal efecto. A excepción de que por la urgencia de la sesión podrán ser citados en el domicilio legal que hayan proporcionado.
+A los miembros del Cabildo que incumplan su obligación de señalar dirección de correo electrónico en términos del párrafo segundo de este artículo, la documentación correspondiente les será enviada al correo electrónico institucional creado por la Dirección de Tecnologías de la información y comunicación del Municipio de Aguascalientes al personal que labora en el Municipio, así mismo les será entregada en la oficina que ocupen en el Palacio Municipal, a más tardar el día hábil siguiente al envío del correo y antes de que inicie la sesión respectiva, situación que no invalidará la notificación, la cual se tendrá por realizada en términos del párrafo anterior. En estos casos, la documentación podrá ser recibida por el personal adscrito a la oficina del Regidor o Síndico de que se trate.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2017)</small>
+El Secretario del Honorable Ayuntamiento y Director General de Gobierno, atendiendo a la cantidad de la documentación, podrá determinar otros mecanismos para realizar la notificación respectiva, por medios digitales o impresos.
 
-La persona encargada de entregar el citatorio deberá contar con una copia simple del mismo a manera de acuse de recibo en la cual hará constar la fecha y hora en que se entregó, así como el nombre y firma autógrafa de la persona que recibió el citatorio ó constancia del envió del correo electrónico respectivo.
+En todo caso, la documentación a tratar en la sesión quedará a disposición para consulta de los miembros del Cabildo, en días y horas hábiles, en la Secretaría del Honorable Ayuntamiento y Dirección General de Gobierno.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2017)</small>
+Para que exista quórum legal se requiere la presencia de la mayoría de los miembros del Ayuntamiento, salvo en las Sesiones Solemnes que se llevarán a cabo con los Regidores y Síndicos que asistan.
 
-Si fuere el caso, el Secretario certificará, pasados treinta minutos de la hora señalada para la Sesión, que no existe el quórum legal para los efectos de suspensión de la misma.
+Si a la hora señalada para el inicio de la sesión no existe quórum legal, se esperará a los ausentes hasta por treinta minutos, transcurrido dicho tiempo sin que se logre el quórum, se podrá esperar el tiempo que acuerde la mayoría de los presentes, y transcurrido éste, la sesión podrá diferirse pudiéndose señalar en ese momento el día y hora para su desahogo, en cuyo caso los presentes se tendrán por notificados y a los ausentes se les comunicará mediante correo electrónico ajustándose al procedimiento de citación previsto en este artículo.
 
-Para que exista quórum legal se requiere la presencia de al menos el cincuenta por ciento más uno de los miembros del H. Ayuntamiento, hecha excepción de las Sesiones Solemnes que se llevarán a cabo con los Regidores y Síndicos que asistan.
+Los casos suscitados durante las sesiones y que no estén previstos en el presente Código, serán resueltos por quien presida, y con la aprobación de la mayoría simple del Cabildo.
 
 ###### ARTÍCULO 27.
 
@@ -24758,3 +24758,9 @@ PRIMERO.- Las presentes reformas y adiciones al Código Municipal de Aguascalien
 SEGUNDO.- Las personas titulares de las licencias o permisos referidos en el Libro Séptimo del Código Municipal de Aguascalientes y respecto de las modificaciones al Reglamento de Estacionamientos del Municipio de Aguascalientes tendrán 90 días naturales, a partir de la entrada en vigor de las presentes disposiciones reglamentarias, para dar cumplimiento a las mismas.
 
 TERCERO.- La Secretaría del H. Ayuntamiento y Dirección General de Gobierno, por conducto de la Dirección de Mercados, Estacionamientos y Áreas Comerciales, al término del plazo señalado en el artículo transitorio anterior, procederá a verificar el cumplimiento de las presentes disposiciones reglamentarias en todos los establecimientos mercantiles domiciliados en el Municipio de Aguascalientes, imponiendo las sanciones y/o multas respectivas en caso de contravención a las mismas por parte de las personas titulares de las licencias.
+
+P.O. 20 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DE LA "REFORMA AL ARTÍCULO 26 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+ÚNICO: La presente reforma al artículo 26 del Código Municipal de Aguascalientes, iniciará su vigencia a los 90 días hábiles después de su publicación en el Periódico Oficial del Estado de Aguascalientes; así mismo se instruye a la Coordinación General de Gobierno Digital del Municipio de Aguascalientes para que capacite al personal de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno del Municipio de Aguascalientes y se tomen las medidas necesarias para ejecutar la presente reforma.
