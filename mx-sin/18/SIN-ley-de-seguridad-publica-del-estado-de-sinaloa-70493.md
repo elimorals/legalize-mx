@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-70493"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-14"
-last_updated: "2019-09-04"
+last_updated: "2020-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2009.
 
@@ -797,6 +797,10 @@ La remuneración de los integrantes de las Instituciones Policiales será acorde
 
 Los integrantes de las corporaciones policiales estatales y municipales de seguridad pública o sus beneficiarios en su caso, tendrán derecho al otorgamiento de pensiones por retiro, retiro anticipado, invalidez, vejez, orfandad y muerte.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+La cuantía de las pensiones otorgadas se actualizará anualmente al mismo tiempo y en la proporción que corresponda, al Índice Nacional de Precios al Consumidor, considerando para tal efecto el correspondiente al mes de enero de cada año, más el uno por ciento.
+
 De igual forma, a los elementos de las corporaciones policiales estatales y municipales de seguridad pública se les garantizará un sistema de retiro digno y se establecerá en su beneficio un sistema de seguros para sus familiares, aplicables en caso de su fallecimiento o la incapacidad total permanente, acaecidas, según el caso, en el cumplimiento de sus funciones o como consecuencia de su condición laboral.
 
 ###### Artículo 36.
@@ -819,7 +823,7 @@ Tienen derecho a la pensión por retiro, quienes tengan veinticinco o más años
 
 La pensión por retiro dará derecho al pago de una cantidad equivalente al cien por ciento del salario que estén devengando.
 
-El pensionado por retiro recibirá los incrementos salariales y prestaciones económicas en los mismos términos que los reciban los servidores públicos en activo, de acuerdo con su plaza y categoría.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 39.
 
@@ -909,11 +913,15 @@ Las corporaciones policiales estatales y municipales de seguridad pública conce
 
 Si al vencimiento de cualesquiera de las licencias referidas no ha obtenido su pensión, pese a haber realizado las gestiones pertinentes, la licencia se prorrogará con el mismo sueldo hasta el día que le sea otorgada la pensión.
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 44 Bis.
 
-El Gobierno del Estado y los Municipios podrán reconocer la antigüedad laboral de los elementos de los cuerpos policiales, que hayan laborado en uno u otro orden de gobierno, previa celebración de convenios que establezcan aportaciones solidarias entre ambas partes.
+El Gobierno del Estado y los Municipios reconocerán la suma de los años laborados en las instituciones de seguridad pública de los elementos que hayan prestado su servicio en cualquiera de los dos órdenes de gobierno, estatal o municipal, para efecto de otorgar la pensión por retiro o jubilación que por ley corresponda.
+
+Mediante la celebración de convenio establecerán los porcentajes de aportaciones solidarias entre ambas partes, de acuerdo al tiempo que los elementos hayan laborado en cada institución, de conformidad con lo establecido en esta Ley.
+
+La institución de seguridad pública estatal o municipal estará obligada a reconocer la antigüedad y otorgar la pensión o jubilación por los años de servicio prestados, a los elementos que cumplan con el tiempo laboral, establecidos en esta Ley.
 
 ###### Artículo 45.
 
@@ -931,9 +939,17 @@ El pago de las pensiones de retiro, retiro anticipado, vejez e invalidez se susp
 
 La defunción de los integrantes de las corporaciones policiales en servicio activo, dará derecho a sus beneficiarios al pago de la pensión por muerte de conformidad con lo previsto en los artículos 35, 36 y 37 de la presente Ley.
 
-En el caso del fallecimiento de un pensionado, sus beneficiarios tendrán derecho a una pensión por muerte cuyo importe consistirá en el salario mínimo general vigente en el Estado, al ocurrir el deceso.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-Para ambos casos el pago de dichas pensiones será exigible a partir del día siguiente del fallecimiento del integrante de la corporación policial en activo o pensionado.
+En el caso del fallecimiento de un pensionado, sus beneficiarios tendrán derecho a una pensión por muerte cuyo importe consistirá en el equivalente al cien por ciento de la pensión que estén devengando al ocurrir el deceso.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+Para los casos a que se refieren los párrafos anteriores, el pago de dichas pensiones será exigible a partir del día siguiente del fallecimiento del integrante de la corporación policial en activo o pensionado.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+Una vez acreditado el vínculo con el fallecido, el Gobierno del Estado y en su caso, los Municipios deberán otorgar la pensión que corresponda, en un plazo no mayor a tres meses, tiempo en el cual el beneficiario continuara recibiendo el sueldo íntegro o en su caso la pensión que estuviera disfrutando el pensionado a la fecha del deceso.
 
 ###### Artículo 47.
 
@@ -949,13 +965,19 @@ IV. A falta de cónyuge, hijos, concubina o concubino, la pensión se entregará
 
 Cuando fueren dos o más las personas que conforme a este artículo tengan derecho a la pensión, ésta se dividirá por partes iguales; si alguna perdiere el derecho, la parte que le corresponda será repartida proporcionalmente entre las restantes.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 48.
 
-Si el hijo pensionado llegare a cumplir dieciocho años y no pudiera mantenerse con su propia actividad debido a una enfermedad duradera, deficiencia física o enfermedad psíquica, el pago de la pensión por orfandad se prorrogará por el tiempo que subsista su inhabilitación o cuando se demuestre fehacientemente que esté realizando sus estudios profesionales a nivel licenciatura y que no ha contraído matrimonio, lo cual no excederá de los 25 años de edad.
+Si la hija o el hijo pensionado llegare a cumplir dieciocho años y no pudiera mantenerse con su propia actividad debido a una enfermedad duradera, deficiencia física o enfermedad psíquica, el pago de la pensión por orfandad se prorrogará por el tiempo que subsista su inhabilitación o cuando se demuestre fehacientemente que esté realizando sus estudios profesionales a nivel licenciatura o técnico, y que no ha contraído matrimonio, lo cual no excederá de los 25 años de edad.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 En tal caso, el pensionado deberá someterse a los reconocimientos y tratamientos que la institución de seguridad social prescriba y proporcione, así como a las investigaciones que en cualquier tiempo se ordenen para efectos de determinar su estado de invalidez, su estado civil y su grado de estudios. De incumplirse estas obligaciones, se suspenderá la pensión.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+Conservarán el derecho a percibir la pensión por muerte aquellas hijas e hijos solteros que, habiendo cumplido la mayoría de edad y no tengan más de 25 años, se encuentren realizando estudios en grado inferior con relación a su edad biológica, cuando sea producto o consecuencia de la afectación psicológica, física, emocional o por amenazas a ellos o a su familia, derivadas por circunstancias propias de la labor al interior de la corporación que provocó la pérdida de la vida de su ascendiente, siempre y cuándo acrediten con dictamen pericial correspondiente.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -4062,3 +4084,15 @@ P.O. 4 DE SEPTIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 297 QUE DEROGA LA FRACCIÓN V DEL ARTÍCULO 244, DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 20 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 367 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. En el caso de que los integrantes de las corporaciones policiales estatales y municipales de seguridad pública fallezcan por causas de muerte natural o que no tengan relación con el cumplimiento de su deber serán tratadas conforme a la tabla establecida en el artículo 42 de esta Ley, y quienes fallezcan por riesgo de trabajo tendrán derecho a una pensión que consistirá en el equivalente al cien por ciento del salario que estén devengando al momento de ocurrir el deceso.
+
+CUARTO. Por única ocasión los pensionados de las corporaciones policiales estatales y municipales de seguridad pública o, en su caso los beneficiarios que se encuentren recibiendo una pensión de homologación a los activos al momento de la entrada en vigor de la presente reforma, tienen el derecho a elegir entre la actualización anual correspondiente al Índice Nacional de Precios al Consumidor, considerando para tal efecto el correspondiente al mes de enero de cada año, más el uno por ciento; o bien recibir los incrementos salariales y prestaciones económicas en los mismos términos en que los reciban los agentes en activo de acuerdo con la plaza y categoría, lo cual deberán manifestarlo por escrito ante la autoridad competente en un plazo no mayor a ciento ochenta días contados a partir del día siguiente en que entre en vigor el presente Decreto.
