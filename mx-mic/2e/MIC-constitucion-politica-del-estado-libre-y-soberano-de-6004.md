@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2019-03-22"
+last_updated: "2020-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -59,9 +59,9 @@ Las normas relativas a los derechos humanos se interpretarán de conformidad con
 
 Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+La mujer y el hombre son iguales ante la ley. Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
@@ -119,7 +119,9 @@ II. A la libre asociación y coordinación de sus acciones y aspiraciones como c
 
 III. A participar en la integración plural en los órganos y entidades de gobierno estatal y municipal;
 
-IV. A elegir, en los municipios con población indígena, representantes ante los ayuntamientos;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+
+IV. A elegir, en los municipios con población indígena, representantes ante los ayuntamientos, observando el principio de paridad de género conforme a las normas aplicables;
 
 V. A la consulta y a los mecanismos de participación ciudadana previstos en esta Constitución, cuando se prevean ejecutar acciones y medidas administrativas o legislativas que los afecten;
 
@@ -193,6 +195,10 @@ I.- Los que conceda la Constitución Federal a los mexicanos, y
 
 II.- Ser preferidos para los empleos, cargos o comisiones de nombramiento de las autoridades y en las concesiones que otorgue el Estado.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+La ley determinará las formas y modalidades que correspondan, para garantizar el principio de paridad de género en los nombramientos de las personas titulares de las secretarías de despacho del Poder Ejecutivo Estatal y sus equivalentes en las administraciones municipales. En la integración de los organismos autónomos se observará el mismo principio.
+
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ### CAPITULO IV. De los Ciudadanos
@@ -203,13 +209,17 @@ II.- Ser preferidos para los empleos, cargos o comisiones de nombramiento de las
 
 Son ciudadanos los que reúnan los requisitos que señala el artículo 34 de la Constitución Federal.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 8°.
 
-Son derechos de los ciudadanos votar y ser votados en las elecciones populares; intervenir y participar, individual o colectivamente, en las decisiones públicas, en la formulación, ejecución y evaluación de las políticas, programas y actos de gobierno a través de los mecanismos de participación ciudadana previstos por la ley de la materia; desempeñar cualquier empleo, cargo o función del Estado o de los ayuntamientos, cuando se reúnan las condiciones que la ley exija para cada caso; y los demás que señala el artículo 35 de la Constitución Federal. Las dependencias y entidades de la Administración Pública, Estatal y municipales, así como, los órganos constitucionales autónomos que se determinen en la ley, en el ámbito de sus respectivas atribuciones, en concordancia con esta Constitución y las normas que las regulan, están obligadas a establecer los mecanismos de participación ciudadana y garantizar el derecho de los ciudadanos a utilizarlos siempre que lo soliciten en los términos que establezcan las normas que al efecto se emitan.
+Son derechos de los ciudadanos votar y ser votados en las elecciones populares en condiciones de paridad de género; intervenir y participar, individual o colectivamente, en las decisiones públicas, en la formulación, ejecución y evaluación de las políticas, programas y actos de gobierno a través de los mecanismos de participación ciudadana previstos por la ley de la materia; desempeñar cualquier empleo, cargo o función del Estado o de los ayuntamientos, atendiendo el principio de paridad de género conforme a las normas aplicables y cuando se reúnan las condiciones que la ley exija para cada caso; y los demás que señala el artículo 35 de la Constitución Federal. Las dependencias y entidades de la Administración Pública, Estatal y municipales, así como, los órganos constitucionales autónomos que se determinen en la ley, en el ámbito de sus respectivas atribuciones, en concordancia con esta Constitución y las normas que las regulan, están obligadas a establecer los mecanismos de participación ciudadana y garantizar el derecho de los ciudadanos a utilizarlos en los términos que establezcan las normas que al efecto se emitan.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 Toda persona tendrá derecho a expresar sus ideas, las cuales no serán objeto de ninguna inquisición judicial o administrativa, de conformidad a lo previsto en la Constitución Federal. El derecho de réplica será ejercido en los términos dispuestos por la Ley.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO CON SUS FRACCIONES], P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 Toda persona tendrá derecho al libre acceso a información plural y oportuna, así como a buscar, recibir y difundir información e ideas de toda índole por cualquier medio de expresión, el que se regirá por los siguientes principios y bases:
 
@@ -226,6 +236,8 @@ V. Los sujetos obligados deberán preservar sus documentos en archivos administr
 VI. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales; y,
 
 VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 Este derecho a la información deberá ser garantizado por el Estado. La ley establecerá aquella información que se considere reservada o confidencial
 
@@ -271,13 +283,13 @@ El Estado adopta para su régimen interior, la forma de gobierno republicano, de
 
 Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, observando las reglas para garantizar la paridad entre los géneros en candidaturas a los cargos de elección popular, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible, con la salvedad de las candidaturas independientes.
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, fomentar el principio de paridad de género, contribuir a la integración de la representación estatal y municipal y como organizaciones de ciudadanos, hacer posible el acceso de estos al ejercicio del poder público, observando las reglas para garantizar la paridad entre los géneros en candidaturas a los cargos de elección popular, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible, con la salvedad de las candidaturas independientes, así como garantizando las condiciones de seguridad e igualdad a las mujeres en el ejercicio de sus derechos-político electorales, evitando en todo momento que se discrimine y/o violente políticamente a las mujeres por razones de género, promoviendo la contienda equitativa, segura y respetuosa, tanto dentro como fuera de sus institutos políticos.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-Los partidos políticos tienen derecho a participar en las elecciones estatales, distritales y municipales, teniendo el derecho de solicitar el registro de candidatos a cargos de elección popular por ambos principios. Los ciudadanos tendrán derecho de solicitar su registro como candidatos independientes a cargos de elección popular únicamente por el principio de mayoría relativa. Los partidos políticos locales que no alcancen el 3 por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo, le será cancelado su registro.
+Los partidos políticos tienen derecho a participar en las elecciones estatales, distritales y municipales, teniendo el derecho de solicitar el registro de candidatas y candidatos a cargos de elección popular por ambos principios. Los ciudadanos tendrán derecho de solicitar su registro como candidatos independientes a cargos de elección popular únicamente por el principio de mayoría relativa. Los partidos políticos locales que no alcancen el 3 por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo, le será cancelado su registro.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
@@ -291,9 +303,9 @@ La Ley fijará los criterios para determinar los límites a las erogaciones de l
 
 Las campañas electorales no excederán de sesenta días para la elección de Gobernador, ni de cuarenta y cinco días para la elección de diputados locales y ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales. La Ley fijará las reglas para las precampañas y las campañas electorales de los partidos políticos y de los ciudadanos registrados que participen de manera independiente, así como las sanciones para quienes las infrinjan.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-La propaganda política o electoral, deberá abstenerse de expresiones que denigren a las instituciones, a los propios partidos o a los ciudadanos registrados como candidatos, o que calumnien a las personas.
+La propaganda política o electoral, deberá abstenerse de expresiones que denigren a las instituciones, a los propios partidos o a los ciudadanos registrados como candidatos, o que calumnien a las personas, así como todas aquellas que violenten políticamente a las mujeres por medio de cualquier expresión que las denigre, con el objeto o resultado de menoscabar su imagen pública y/o limitar o anular sus derechos políticos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
 
@@ -403,15 +415,15 @@ El Congreso del Estado se integra con representantes del pueblo, electos en su t
 
 Por cada diputado propietario, se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-El Congreso del Estado estará integrado por veinticuatro diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales y dieciséis diputados que serán electos según el principio de representación proporcional, mediante el sistema de lista de candidatos votados en una circunscripción plurinominal.
+El Congreso del Estado estará integrado por veinticuatro diputadas y diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales y dieciséis diputadas y diputados que serán electos según el principio de representación proporcional, mediante el sistema de lista de candidatos votados en una circunscripción plurinominal.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 21.
 
-Para la elección de los diputados de mayoría relativa, el Estado se dividirá en veinticuatro distritos electorales, cuya denominación y demarcación territorial señalará la ley.
+Para la elección de las diputadas y diputados de mayoría relativa, el Estado se dividirá en veinticuatro distritos electorales, cuya denominación y demarcación territorial señalaraì (sic) la ley.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
@@ -756,6 +768,10 @@ e) Las disposiciones aplicables en aquellos municipios que no cuenten con los ba
 > <small>(ADICIONADA, P.O. 3 DE JULIO DE 2001)</small>
 
 X-B.- Emitir las normas que establezcan los procedimientos para resolver los conflictos que se presenten entre los municipios y el Gobierno del Estado, o entre aquéllos, con motivo de los actos derivados de los incisos c) y d) de la fracción anterior;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2020)</small>
+
+X-B bis.- Resolver los conflictos por límites territoriales entre los municipios del Estado;
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -1135,9 +1151,9 @@ La policía preventiva municipal, acatará las órdenes que el Gobernador del Es
 
 XIII.- Disponer de las fuerzas de seguridad y de la Guardia Nacional, y ordenar que pase ésta a otros Estados, en los términos que establezca la Constitución Federal;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
 
-XIV.- Nombrar y remover libremente a los funcionarios y empleados de la administración pública estatal cuyo nombramiento y remoción no estén determinados de otro modo en esta Constitución o en las leyes;
+XIV.- Nombrar y remover a los funcionarios y empleados de la administración pública estatal cuyo nombramiento y remoción no estén determinados de otro modo en esta Constitución o en las leyes, observando el principio de paridad de género.
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
@@ -1212,6 +1228,10 @@ VIII.- Autorizar la ocupación de la propiedad de persona alguna, ni privarla de
 ###### Artículo 62.
 
 Para el despacho de los negocios del orden político-administrativo, el Ejecutivo del Estado contará con las dependencias básicas y organismos que determinen esta Constitución, la Ley Orgánica del Poder Ejecutivo del Estado y demás leyes.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+El Titular del Poder Ejecutivo del Estado, observará y garantizará el principio de paridad de género en los nombramientos de las personas titulares de las secretarías de estado, así como en la integración de los organismos autónomos, descentralizados se observará el mismo principio.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1301,7 +1321,9 @@ La independencia de los magistrados y jueces en el ejercicio de sus funciones es
 
 La elección de los magistrados y jueces integrantes del Poder Judicial, será hecha preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en el Poder Judicial del Estado o que lo merezcan por su honorabilidad, competencia y antecedentes en la profesión jurídica.
 
-La Ley Orgánica establecerá los criterios y procedimientos mediante los cuales el Consejo del Poder Judicial realizará la evaluación de los aspirantes, bajo el criterio de igualdad de oportunidades.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+La Ley Orgánica establecerá los criterios y procedimientos mediante los cuales el Consejo del Poder Judicial realizará la evaluación de los aspirantes, bajo el criterio de igualdad de oportunidades, cumpliendo el principio de paridad de género.
 
 Los magistrados y jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
@@ -1365,17 +1387,17 @@ XII. Los demás a quienes las leyes les confieran este carácter.
 
 Los auxiliares estarán obligados a desempeñar las funciones que les encomienden los órganos de la administración de justicia, y sus superiores tendrán el deber de facilitarles el ejercicio de las mismas.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 73.
 
-El Supremo Tribunal de Justicia estará integrado por un número no menor de diecinueve magistrados y funcionará en Pleno o en Salas, en los términos que disponga la Ley Orgánica. Los magistrados Presidente y Consejero no integrarán sala.
+El Supremo Tribunal de Justicia estará integrado por un número no menor de diecinueve magistradas y magistrados, funcionará en Pleno o en Salas, en los términos que disponga la Ley Orgánica. Los magistrados presidente y consejero no integrarán sala.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 74.
 
-La Ley Orgánica fijará el número de magistrados y distribuirá las competencias señalando las atribuciones que correspondan al Pleno, al Presidente y a las Salas, y, determinará la integración y regionalización de éstas en caso de ser necesaria.
+La Ley Orgánica fijará el número de magistrados y distribuirá las competencias señalando las atribuciones que correspondan al Pleno, al Presidente y a las Salas, y, determinará la integración y regionalización de éstas en caso de ser necesaria, observando el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
@@ -1695,7 +1717,9 @@ Tendrá competencia para dirimir y resolver, las controversias que se susciten p
 
 Asimismo, será el órgano competente para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como graves y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al patrimonio de los entes públicos; así como imponer sanciones a servidores públicos y particulares que incumplan gravemente en resoluciones del organismo garante en materia de acceso a la información y protección de datos personales.
 
-Para ser Magistrado del Tribunal de Justicia Administrativa, se deberán satisfacer los mismos requisitos que señala esta Constitución para ser designado Magistrado del Supremo Tribunal de Justicia del Estado. El Poder Legislativo elegirá a los magistrados por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado de Michoacán de Ocampo, mediante convocatoria pública. Los magistrados tendrán un periodo constitucional de cinco años en el ejercicio del cargo y podrán ser reelectos hasta en dos ocasiones. Al término de su periodo cesaran en sus funciones.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+Para ser Magistrado del Tribunal de Justicia Administrativa, se deberán satisfacer los mismos requisitos que señala esta Constitución para ser designado Magistrado del Supremo Tribunal de Justicia del Estado. El Poder Legislativo elegirá a los magistrados por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, mediante convocatoria pública y observando el principio de paridad de género. Los magistrados tendrán un periodo constitucional de cinco años en el ejercicio del cargo y podrán ser reelectos hasta en dos ocasiones. Al término de su periodo cesaran en sus funciones.
 
 El Congreso del Estado conocerá de las quejas en contra de los magistrados, podrá privarlos de su encargo, por las mismas causas que señala el artículo 77 de esta Constitución y determinará su retiro forzoso de conformidad con el artículo 78 de esta Constitución.
 
@@ -1715,7 +1739,9 @@ Formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante 
 
 Este organismo no será competente tratándose de asuntos electorales o jurisdiccionales.
 
-La Comisión Estatal de los Derechos Humanos tendrá un Presidente, que será elegido por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado. La Ley determinará los procedimientos para la presentación de las propuestas por el propio Congreso. Durará en su encargo cuatro años, podrá ser reelecto por una vez y sólo podrá ser removido de sus funciones en los términos del Título Cuarto de esta Constitución.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+La Comisión Estatal de los Derechos Humanos tendrá una presidenta o presidente, que será elegido por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, La Ley determinará los procedimientos para la presentación de las propuestas por el propio Congreso. Durará en su encargo cuatro años, podrá ser reelecto por una sola vez y sólo podrá ser removido de sus funciones en los términos del Título Cuarto de esta Constitución.
 
 La elección del Presidente de la Comisión Estatal de los Derechos Humanos, se ajustará a un procedimiento de consulta pública, que deberá cumplir con el principio de máxima transparencia, en los términos y condiciones que determine la Ley.
 
@@ -1731,7 +1757,9 @@ El Presidente de la Comisión Estatal de los Derechos Humanos, presentará anual
 
 El Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales es un organismo autónomo, especializado, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el cumplimiento del derecho de acceso a la información pública y a la protección de datos personales en posesión de los sujetos obligados en los términos que establezca la ley; se regirá por la ley en materia de transparencia y acceso a la información pública y por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad. Tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales de cualquier autoridad, entidad, órgano u organismo que forme parte de alguno de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicatos que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal.
 
-El Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales se integra por tres comisionados de los cuales uno será su Presidente, mismos que serán electos por el Congreso del Estado, con el voto de las dos terceras partes de los miembros presentes. Para la elección de los comisionados, el Congreso del Estado emitirá convocatoria pública dirigida a las instituciones académicas, culturales, civiles, colegios de profesionistas, organizaciones gremiales y a la sociedad en general, a efecto de recibir propuestas de aspirantes a ocupar este cargo.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+El Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales se integra por tres comisionados de los cuales uno será su presidenta o presidente, mismos que serán electos por el Congreso del Estado, con el voto de las dos terceras partes de los miembros presentes, garantizando el principio de paridad de género. Para la elección de los comisionados, el Congreso del Estado emitirá convocatoria pública dirigida a las instituciones académicas, culturales, civiles, colegios de profesionistas, organizaciones gremiales y a la sociedad en general, a efecto de recibir propuestas de aspirantes a ocupar este cargo.
 
 Las comisiones de dictamen designadas propondrán al Pleno una terna por cada vacante de Comisionados a elegir. Una vez electos, en su caso, el Pleno procederá a la designación del Comisionado Presidente. Los comisionados durarán en su encargo tres años y deberán cumplir con los requisitos previstos en las fracciones I, II, IV, V y VI del artículo 76 de esta Constitución, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, y podrán ser removidos de su cargo en los términos del Título Cuarto de esta Constitución. En la conformación del organismo garante se procurará la equidad de género.
 
@@ -2035,11 +2063,11 @@ Cada Municipio será gobernado por un Ayuntamiento de elección popular directa,
 
 El Ayuntamiento tendrá personalidad jurídica para todos los efectos legales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 114.
 
-Cada Ayuntamiento estará integrado por un Presidente Municipal y el número de síndicos y regidores que la Ley determine.
+Cada Ayuntamiento estará integrado por una Presidenta o Presidente Municipal y el número de síndicos y regidores que la Ley determine, de conformidad con el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2001)</small>
 
@@ -2131,11 +2159,11 @@ Los ayuntamientos no pueden impedir la entrada o salida de mercancías o product
 
 La Ley establecerá los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período constitucional del Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 122.
 
-Todo Ayuntamiento tendrá un Secretario y un Tesorero, que serán nombrados por sus miembros por mayoría absoluta de votos a propuesta del Presidente Municipal, y contará con la estructura administrativa que determine su Bando de Gobierno Municipal.
+Todo Ayuntamiento tendrá un Secretario y un Tesorero, que serán nombrados por sus miembros por mayoría absoluta de votos a propuesta del Presidente Municipal, y contará con la estructura administrativa que determine su Bando de Gobierno Municipal, garantizando el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
@@ -2577,13 +2605,9 @@ c).- Contribuirá a la mejor convivencia humana, tanto por los elementos que apo
 
 d).- Será intercultural, indígena, multilingüe y multicultural en todos los niveles en las regiones con presencia de pueblos y comunidades indígenas, garantizando la incorporación de los conocimientos indígenas, bajo modelos y programas apropiados de contenido regional, que reconozcan la historia e identidades indígenas; y fomentará la conciencia de la composición multicultural y pluriétnica. El Estado garantizará también la promoción y reconocimiento de la educación tradicional no oficializada a favor de los pueblos y comunidades indígenas.
 
-(NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, LA CUAL SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249). CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
-
-Además de impartir la educación preescolar, primaria y secundaria, el Estado promoverá y atenderá todos los tipos y modalidades educativas incluyendo la educación media superior y superior necesarios para el desarrollo del Estado, apoyará la investigación e innovación científica y tecnológica, y alentará el fortalecimiento y difusión de la diversidad cultural en el Estado.
+Además de impartir la educación preescolar, primaria y secundaria, el Estado promoverá y atenderá todos los tipos y modalidades educativas incluyendo la educación media superior y superior necesarios para el desarrollo del Estado, apoyará la investigación e innovación científica y tecnológica, y alentará el fortalecimiento y difusión de la diversidad cultural en el Estado, así como los contenidos de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1994)</small>
 
@@ -3900,3 +3924,41 @@ Remítase el presente Decreto a los ayuntamientos del Estado, así como al Conce
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 20 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 148.- SE ADICIONA LA FRACCIÓN X-B BIS AL ARTÍCULO 44 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al dia siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 20 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 149.- SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 139 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 20 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 193.- PRIMERO.- SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 1°; LA FRACCIÓN IV DEL ARTÍCULO 3°; EL ARTÍCULO 8º; LOS PÁRRAFOS TERCERO, CUARTO Y OCTAVO DEL ARTÍCULO 13; EL PÁRRAFO TERCERO DEL ARTÍCULO 20; EL ARTÍCULO 21; LA FRACCIÓN XIV DEL ARTÍCULO 60; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 69; LOS ARTÍCULOS 73 Y 74; EL PÁRRAFO CUARTO DEL ARTÍCULO 95; EL PÁRRAFO QUINTO DEL ARTÍCULO 96; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 97; EL PÁRRAFO PRIMERO DEL ARTÍCULO 114; Y EL ARTÍCULO 122; Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 6° Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 62 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.- SEGUNDO.- SE REFORMAN LAS FRACCIONES XI, XII Y XIII DEL ARTÍCULO 3, LOS ARTÍCULOS 4 Y 71; Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 3; Y UN PÁRRAFO SEGUNDO AL INCISO M) DEL ARTÍCULO 230 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- TERCERO.- SE REFORMA EL ARTÍCULO 13 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO.- CUARTO.- SE REFORMAN LOS ARTÍCULOS 49; 92 Y 93 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emita el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. El Congreso del Estado deberá, en un plazo improrrogable de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes a efecto de observar el principio de paridad de género establecido en esta Constitución.
+
+CUARTO. La observancia del principio de paridad de género a que se refiere el presente Decreto, será aplicable a quienes tomen posesión de su cargo, a partir del proceso electoral local siguiente a la entrada en vigor del presente Decreto, según corresponda.
+
+Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva y escalonada a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
