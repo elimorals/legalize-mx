@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-el-ejercicio-profesional-del-estado-de-michoacan-11008
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-29"
-last_updated: "2016-12-29"
+last_updated: "2020-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY PARA EL EJERCICIO PROFESIONAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE PROFESIONES DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 20 DE ENERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA EL EJERCICIO PROFESIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2020 (ABROGADA).
 
 Ley publicada en la Décima Tercera Sección del Periódico Oficial del Estado de Michoacán, el martes 29 de septiembre de 2015.
 
@@ -790,3 +792,17 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 20 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 240 POR EL QUE "SE EXPIDE LA LEY DE PROFESIONES DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto abroga la Ley para el Ejercicio Profesional del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el martes 29 de septiembre de 2015, mediante Decreto del Congreso del Estado número 559, en la XIII Sección, Tomo CLXIII, número 4.
+
+TERCERO. El Ejecutivo del Estado contará con un plazo de sesenta días a partir de la entrada en vigor de la presente Ley, publicara las reglamentaciones correspondientes.
+
+CUARTO. Los colegios ya establecidos con anterioridad a la presente Ley continuarán en funciones.
+
+QUINTO. Las instituciones educativas de nivel superior públicas y privadas, deberán remitir a la Dirección en un término de noventa días, la información contenida en sus bancos de datos históricos, relativas a los profesionistas egresados desde su creación hasta la entrada en vigor del presente decreto.
