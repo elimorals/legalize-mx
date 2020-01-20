@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2019-12-23"
+last_updated: "2020-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -89,21 +89,29 @@ IX. Ley General: Ley General de Instituciones y Procedimientos Electorales;
 
 X. Ley de Partidos: Ley General de Partidos Políticos;
 
-XI. Partidos políticos: a partidos políticos con registro nacional o estatal, indistintamente;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
 
-XII. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo; y,
+XI. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
 
-XIII. Tribunal: Tribunal Electoral del Estado de Michoacán.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+XII. Tribunal: Tribunal Electoral del Estado de Michoacán;
 
-XIV. UMA: Unidad de Medida y Actualización.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+
+XIII. UMA: Unidad de Medida y Actualización; y,
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE ENERO DE 2020)</small>
+
+XIV. Violencia Política Por Razones de Género: todo acto u omisión en contra de las mujeres por medio del cual se cause daño moral, físico o psicológico a través de la presión, persecución, hostigamiento, acoso, coacción, amenaza y/o privación de la vida por cuestión de género, cometidos por una persona o grupo de personas, directamente o a través de terceros, con el fin de menoscabar, limitar, condicionar, excluir, impedir o anular el ejercicio de sus derechos político-electorales, así como el inducirla u obligarla a tomar decisiones de tipo político-electoral en contra de su voluntad.
 
 ### CAPÍTULO SEGUNDO. DERECHOS Y OBLIGACIONES DE LOS CIUDADANOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)</small>
+
 ###### ARTÍCULO 4.
 
-Votar en las elecciones constituye un derecho y una obligación que se ejerce para integrar órganos del Estado de elección popular. También es derecho de los Ciudadanos y obligación para los partidos políticos la igualdad de oportunidades y la paridad entre hombres y mujeres para tener acceso a cargos de elección popular.
+Votar en las elecciones constituye un derecho y una obligación que se ejerce para integrar órganos del Estado de elección popular. También es derecho de los Ciudadanos y obligación para los partidos políticos la igualdad de oportunidades y la paridad entre hombres y mujeres para tener acceso a cargos de elección popular; así como brindar a las mujeres las condiciones propicias para ejercer libremente sus derechos político-electorales y sin ser víctimas de violencia política por razones de género.
 
 El voto es universal, libre, secreto, directo, personal e intransferible. Quedan prohibidos los actos que generen presión o coacción a los electores.
 
@@ -1831,7 +1839,9 @@ II. Organizaciones con objeto social diferente a la creación de partidos; y,
 
 III. Cualquier forma de afiliación corporativa.
 
-Los partidos políticos promoverán los valores cívicos y la cultura democrática en personas menores de edad y buscarán la participación efectiva de ambos géneros en la integración de sus órganos, así como en la postulación de candidatos.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+Los partidos políticos promoverán los valores cívicos y la cultura democrática en personas menores de edad y buscarán la participación efectiva de ambos géneros en condiciones de igualdad, seguridad y evitando que existan actos u omisiones que constituyan violencia política por razones de género, en la integración de sus órganos, así como en la postulación de candidatos.
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
@@ -4021,6 +4031,10 @@ l) La omisión o el incumplimiento de la obligación de proporcionar en tiempo y
 
 m) La comisión de violencia política. Para tales efectos, se entenderá por Violencia Política, a todo acto u omisión en contra de cualquier persona por medio del cual se cause un daño moral, físico, psicológico o económico, a través de la presión, discriminación, persecución, hostigamiento, acoso, coacción, amenaza y/o privación de la vida, cometidos por una persona o un grupo de personas, directamente o a través de terceros, con el fin de menoscabar, limitar, condicionar, excluir, impedir o anular el ejercicio de sus derechos político-electorales, así como el inducirle u obligarle a tomar decisiones de tipo político-electoral en contra de su voluntad; y,
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+Además de lo establecido en párrafo anterior, se considerarán como faltas graves, cuando concurran actos que impliquen violencia política por razones de género.
+
 n) La comisión de cualquier otra falta de las previstas.
 
 II. Constituyen infracciones de las agrupaciones políticas estatales al presente Código:
@@ -5646,3 +5660,17 @@ TERCERO. La designación del titular de la Defensoría, deberá realizarse en un
 CUARTO. Una vez nombrado el titular de la Defensoría, tendrá un plazo no mayor a 40 días naturales para presentar al pleno del Tribunal, el Reglamento Interior de la Defensoría, para su eventual aprobación.
 
 QUINTO. Notifíquese al Presidente del Tribunal Electoral del Estado para que sea publicado en los estrados y página de Internet del Tribunal Electoral del Estado de Michoacán.
+
+P.O. 20 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 193 POR EL QUE "SE REFORMAN LAS FRACCIONES XI, XII Y XIII DEL ARTÍCULO 3, LOS ARTÍCULOS 4 Y 71; Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 3; Y UN PÁRRAFO SEGUNDO AL INCISO M) DEL ARTÍCULO 230 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emita el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. El Congreso del Estado deberá, en un plazo improrrogable de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes a efecto de observar el principio de paridad de género establecido en esta Constitución.
+
+CUARTO. La observancia del principio de paridad de género a que se refiere el presente Decreto, será aplicable a quienes tomen posesión de su cargo, a partir del proceso electoral local siguiente a la entrada en vigor del presente Decreto, según corresponda.
+
+Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva y escalonada a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
