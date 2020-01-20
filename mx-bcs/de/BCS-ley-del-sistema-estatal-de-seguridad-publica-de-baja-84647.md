@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-sistema-estatal-de-seguridad-publica-de-baja-84647"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-31"
-last_updated: "2019-04-30"
+last_updated: "2020-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCS"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2018.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL B.O. EL 30 DE ABRIL DE 2019 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 2580 PUBLICADO EN EL B.O. DE 31 DE DICIEMBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ENERO DE 2020.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de diciembre de 2011.
 
@@ -93,6 +91,12 @@ XI. Coordinar acciones con los diferentes ámbitos de Gobierno para asegurar el 
 
 XII. Prestar apoyo a las Autoridades Federales, Estatales y Municipales, en el cumplimiento de sus atribuciones en materia de seguridad pública.
 
+> <small>[N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR A LA DE LA FRACCIÓN XXVII DEL ARTÍCULO 3 DE ESTE ORDENAMIENTO, P.O. 20 DE ENERO DE 2020]</small>
+
+> <small>(REFORMADA, B.O. 20 DE ENERO DE 2020)</small>
+
+XXVII (SIC). Registros: El Registro de las Instituciones de Seguridad Pública, Registro de Instituciones de Servicios de Seguridad Privada, Registro de Identificación de Personas, Registro de Detenciones, Registro de Mandamientos Judiciales y Procedimientos Jurisdiccionales, Registro de Sentenciados, Registro de Personal de Seguridad Pública y Organismos Auxiliares, Registro de Huellas Dactilares, Registro de Armamento y Equipo, Registro de Personas Desaparecidas o Secuestradas, Registro de Vehículos Robados y Recuperados, Registro Público Vehicular; Registro Estatal de Videovigilancia, así como cualquier otro registro que se cree con el objeto del cumplimiento de la presente Ley;
+
 ###### Artículo 3.
 
 Para los efectos de esta Ley se entenderá por:
@@ -154,6 +158,8 @@ XXIV. Policía Estatal: La Policía Estatal Preventiva y Policía Procesal:
 XXV. Agencia Estatal de Investigación Criminal: Policía de Investigación Criminal de la Procuraduría General de Justicia;
 
 XXVI. Policía Municipal.- Policia Preventiva Municipal;
+
+> <small>[N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR A LA DE LA FRACCIÓN XXVII (SIC) DEL ARTÍCULO 2 DE ESTE ORDENAMIENTO, P.O. 20 DE ENERO DE 2020]</small>
 
 XXVII. Registros: El Registro de las Instituciones de Seguridad Pública, Registro de Instituciones de Servicios de Seguridad Privada, Registro de Identificación de Personas, Registro de Detenciones, Registro de Mandamientos Judiciales y Procedimientos Jurisdiccionales, Registro de Sentenciados, Registro de Personal de Seguridad Pública y Organismos Auxiliares, Registro de Huellas Dactilares, Registro de Armamento y Equipo, Registro de Personas Desaparecidas o Secuestradas, Registro de Vehículos Robados y Recuperados, Registro Publico Vehicular; así como cualquier otro registro que se cree co (sic) el objeto del cumplimiento de la presente Ley;
 
@@ -550,6 +556,10 @@ XXXVI. Fortalecer los sistemas de seguridad social de los servidores públicos, 
 (REUBICADA, B.O. 30 DE NOVIEMBRE DE 2014)
 
 XXXVII. Las demás que establezcan la Constitución Estatal, esta Ley y demás ordenamientos de la materia.
+
+> <small>(ADICIONADA, B.O. 20 DE ENERO DE 2020)</small>
+
+XXXVIII. Llevar el control del Sistema Estatal de Videovigilancia, generando estadísticas sobre su desempeño.
 
 #### SECCIÓN QUINTA. DEL PROCURADOR GENERAL DE JUSTICIA
 
@@ -1843,6 +1853,10 @@ XVII. La que se determine en los acuerdos o convenios de colaboración; y
 
 XVIII. Las demás que señale esta Ley y su Reglamento.
 
+> <small>(ADICIONADA, B.O. 20 DE ENERO DE 2020)</small>
+
+XIX. Registro Estatal de Videovigilancia, con información prevista en la ley respectiva.
+
 Las Instituciones de Seguridad Pública están obligadas a alimentar y a mantener actualizados los registros enunciados en el presente Artículo conforme a su ámbito de competencia.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 16 DE DICIEMBRE DE 2017)</small>
@@ -1911,11 +1925,15 @@ V. El desarrollo e implementación de herramientas tecnológicas aplicadas a la 
 
 VI. Los registros que en los términos de ésta y otras leyes resguarda la Secretaría.
 
-> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 102.
 
-La Subsecretaría adoptará las medidas pertinentes para el efecto de instalar, actualizar y mantener una infraestructura tecnológica moderna y funcional que permita la sistematización y el intercambio ágil de la información a que se refiere este ordenamiento.
+La Secretaría adoptará las medidas pertinentes para el efecto de instalar, actualizar y mantener una infraestructura tecnológica moderna y funcional que permita la sistematización y el intercambio ágil de la información a que se refiere este ordenamiento.
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
+Para los fines anteriores, las instituciones de seguridad pública podrán instalar y operar sistemas de videovigilancia en vehículos oficiales debidamente identificados, aeronaves pilotadas a distancia o denominadas comúnmente drones, así como en espacios públicos, y privados con uso público, con el propósitos (sic) de incrementar la seguridad ciudadana, la prevención y persecución de hechos delictivos y la utilización pacífica de las vías y espacios públicos, documentar faltas e infracciones relacionadas con la seguridad pública y los hechos de tránsito, así como la reacción oportuna ante emergencias o desastres de origen natural o humano.
 
 ## TÍTULO DÉCIMO. DEL SISTEMA PARA LA PREVENCIÓN DEL DELITO
 
@@ -2330,3 +2348,51 @@ El presente decreto, entrará en vigor el día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
+
+B.O. 20 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2688 SE EXPIDE LA LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE BAJA CALIFORNIA SUR Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga el Decreto 2174, mediante el cual se expidió la Ley de Video Vigilancia del Estado de Baja California Sur, Publicada en el Boletín Oficial del Gobierno del Estado de fecha 31 de julio del año 2014.
+
+TERCERO.- En un plazo de 90 días, contado a partir de la entrada en vigencia del presente decreto, el Poder Ejecutivo del Estado deberá:
+
+1.- Emitir el reglamento de la Ley de Videovigilancia para (sic) Estado de Baja California Sur.
+
+2.- Actualizar los reglamentos de la Ley del Sistema Estatal de Seguridad Pública, Ley de Desarrollo Urbano para el Estado de Baja California Sur y la Ley Sobre el Régimen de Propiedad de Condominio del Estado de Baja California Sur, para armonizarlo con las disposiciones establecidas en la presente ley.
+
+CUARTO.- Las autoridades, prestadoras de servicios de seguridad privada y los establecimientos mercantiles que actualmente realicen actividades de videovigilancia, deberán ser notificadas por la Secretaría de Seguridad Pública del Estado para efecto de que en formato libre, en un plazo no mayor de treinta días naturales, contados a partir de la notificación correspondiente, informen:
+
+El número de cámaras de video vigilancia que tiene instaladas;
+
+El número de cámaras fijas de video vigilancia que tiene instaladas;
+
+El número de cámaras móviles de video vigilancia que tiene instaladas;
+
+El número de componentes físicos o electrónicos que permiten la protección, visualización, transmisión, registro y almacenamiento de la información captada o grabada mediante las cámaras de videovigilancia;
+
+Los lugares, con especificaciones, en que tiene colocadas las cámaras de video vigilancia;
+
+El uso y utilización que se haga de las videocámaras fijas o móviles con que cuente;
+
+El uso y destino del material grabado, particularmente del lugar donde se resguarda;
+
+Dicha información será para la integración del registro estatal de videovigilancia.
+
+Asimismo le serán notificadas las sanciones e infracciones que deriven de la presente ley y las demás obligaciones y principios rectores que deriven de la presente.
+
+QUINTO.- En un plazo de 120 días, contado a partir de la entrada en vigencia del presente decreto, los cinco Ayuntamientos del Estado deberán:
+
+1.- Actualizar sus reglamentos, bandos y disposiciones en materia de seguridad pública y demás relativos y aplicables, para armonizarlos con la Ley de Video vigilancia para (sic) Estado de Baja California Sur y la reforma a la Ley del Sistema Estatal de Seguridad Publica de Baja California Sur.
+
+2.- Actualizar sus reglamentos de desarrollo urbano, de fraccionamientos, condominios y conjuntos urbanos y demás relativos y aplicables, para armonizarlos con la Ley de Videovigilancia para (sic) Estado de Baja California Sur.
+
+3.- Actualizar sus reglamentos y disposiciones en materia de licencias para establecimientos mercantiles y demás relativos y aplicables, para armonizarlos con la Ley de Videovigilancia para (sic) Estado de Baja California Sur.
+
+SEXTO.- Las disposiciones contenidas en los artículos 22, 23 y 24, no serán aplicables para los establecimientos mercantiles, fraccionamientos y condominios existentes, antes de la expedición del presente decreto. Sin embargo, la Secretaria de Seguridad Pública del Estado podrá suscribir convenios de colaboración con ellos, para orientarlos en caso de que sea su deseo cumplir con las disposiciones ahí contenidas.
+
+SEPTIMO.- Por única ocasión, la Comisión Técnica de Video Vigilancia deberá quedar integrada en un término que no excederá de 60 días siguientes a la entrada en vigor del presente decreto.
+
+OCTAVO.- Se derogan todas las disposiciones que se opongan al presente decreto.
