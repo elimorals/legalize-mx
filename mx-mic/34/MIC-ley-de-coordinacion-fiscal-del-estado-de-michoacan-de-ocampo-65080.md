@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-coordinacion-fiscal-del-estado-de-michoacan-de-ocampo-65
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2019-12-31"
+last_updated: "2020-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el miércoles 31 de diciembre de 2008.
 
@@ -54,6 +54,10 @@ LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 El objeto de esta Ley es regular el Sistema de Coordinación Fiscal del Estado de Michoacán y sus municipios, así como establecer las bases de cálculo, montos y plazos para la distribución de las Participaciones que en Ingresos Federales y Estatales y Fondos de Aportaciones Federales y Estatales, les corresponden a los municipios del Estado.
 
 Así también, establecer las reglas de colaboración administrativa entre el Estado y los municipios, y constituir los órganos del sistema de Coordinación Fiscal, y fijar las bases de colaboración administrativa.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+De igual forma, establecer el procedimiento y los montos correspondientes del Impuesto sobre la Renta a los municipios del Estado de Michoacán de Ocampo.
 
 ### CAPÍTULO II. De las Participaciones en Ingresos Federales y Estatales a los Municipios
 
@@ -111,9 +115,13 @@ III. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2017)
 
 Con el 5% de lo que le corresponda al Estado, en el Fondo General de Participaciones.
 
-IV. … (sic)
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2020)</small>
 
-a)… (sic)
+IV. Porcentaje participable a los municipios.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+a) El 100% del Impuesto sobre la Renta participable correspondiente a los municipios, de conformidad con lo establecido en el artículo 3-B de la Ley de Coordinación Fiscal.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -304,6 +312,16 @@ Si como resultado de las liquidaciones que la Federación realice para el Estado
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
 Para efectos de lo dispuesto en el párrafo anterior, el monto a cargo de cada Municipio se determinará con los mismos coeficientes con los que se les hayan efectuado los pagos provisionales.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+ARTÍCULO 15 BIS. El Gobierno del Estado de Michoacán de Ocampo, a través de (sic) a Secretaría de Finanzas y Administración, participará el 100% de la recaudación del Impuesto Sobre la Renta a que se refiere el artículo 3°, fracción IV, de la presente Ley, dentro de los cinco días hábiles siguientes a su recepción, correspondiente a los municipios que lo hayan enterado a la Secretaría de Hacienda y Crédito Público, por salarios pagados con recursos propios o participaciones federales, de conformidad con lo dispuesto por el artículo 3-B de la Ley de Coordinación Fiscal.
+
+Para los efectos del párrafo anterior, se considerará la recaudación que se obtenga por el Impuesto Sobre la Renta relativo, una vez descontadas las devoluciones por dicho concepto. Además, la participación correspondiente se realizará de conformidad con la información de montos que proporcione la Unidad de Coordinación con Entidades Federativas de la Secretaría de Hacienda y Crédito Público, por lo que en caso de ajustes derivados de diferencias en el entero de dicho impuesto respecto de algún municipio o municipios, la Secretaría realizará los descuentos con cargo a la ministración correspondiente a las ministraciones subsecuentes, informando a dichos municipios de la instrucción recibida por la Unidad de Coordinación señalada.
+
+El Gobierno del Estado, por conducto de la Secretaría de Finanzas y Administración, deberá publicar anualmente en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, los montos pagados a los municipios que correspondan al Impuesto Sobre la Renta participable, de acuerdo a lo establecido en el artículo 3-B de la Ley de Coordinación Fiscal.
+
+Los recursos a que se refiere el artículo 3°, fracción IV de esta Ley, en ningún caso podrán ser utilizados para el pago correspondiente al salario del personal o su equivalente que preste o desempeñe un servicio personal subordinado en los municipios.
 
 > <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
@@ -854,3 +872,11 @@ P.O. 31 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 1º de enero de 2020, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 20 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 252 POR EL QUE "SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 1°, LA FRACCIÓN IV Y EL INCISO A) AL ARTÍCULO 3°; Y, EL ARTÍCULO 15 BIS, TODOS DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
