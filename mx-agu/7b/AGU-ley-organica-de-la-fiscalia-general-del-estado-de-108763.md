@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-fiscalia-general-del-estado-de-108763"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-06-22"
-last_updated: "2019-06-03"
+last_updated: "2020-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "AGU"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 20 DE ENERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2020 (ABROGADO).
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2015.
 
@@ -1904,3 +1906,43 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Una vez que entre en vigencia el presente Decreto, y que a su vez cese en sus funciones el actual Director de Visitaduría de la Fiscalía General del Estado de Aguascalientes, el Congreso del Estado deberá realizar todos los actos tendientes al nombramiento de un nuevo Titular de la Dirección de Visitaduría de dicho órgano constitucional autónomo.
+
+P.O. 20 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 300.- ARTICULO UNICO.- SE EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Fiscalía General del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes el lunes 22 de junio de 2015, mediante el Decreto Número 203 de la LXII Legislatura, así como todas aquellas disposiciones normativas y reglamentarias que se contrapongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Fiscal General deberá expedir el reglamento de la presente Ley y el reglamento del Servicio Profesional de Carrera, en un término no mayor a ciento veinte días naturales, contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+
+Hasta en tanto no sean expedidas las disposiciones reglamentarias a las que refiere el párrafo anterior, serán aplicables las que se encuentren vigentes al momento de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+La persona que al momento de la entrada en vigor del presente decreto ocupe el cargo de Visitador General se mantendrá en el ejercicio de las funciones que le son propias, hasta en tanto no sea designada la persona titular del Órgano por parte del Congreso del Estado, en términos de lo dispuesto por la fracción XXXVIII del artículo 27 de la Constitución Local y la Ley del Poder Legislativo, por lo que seguirá gozando y ejerciendo las atribuciones, facultades, prerrogativas, derechos, deberes y obligaciones que le corresponden en razón de su cargo.
+
+Asimismo, la persona que al momento de la entrada en vigor del presente Decreto ocupe el cargo de Visitador General, podrá participar en el proceso de designación referido en el párrafo anterior, en igualdad de condiciones que el resto de las personas que concurran a él, por lo que deberá tomar parte en la convocatoria correspondiente por cuenta propia.
+
+###### ARTÍCULO QUINTO.
+
+La Fiscalía General deberá realizar las modificaciones administrativas y reglamentarias que se requieran para cumplir con lo ordenado por el presente Decreto y por la Ley que a través de él se expide.
+
+###### ARTÍCULO SEXTO.
+
+Las referencias que otras disposiciones normativas hagan a cualquiera de los elementos y factores que integran la estructura orgánica de la Fiscalía General, se entenderán hechas a aquellas cuyas atribuciones correspondan a las establecidas en la Ley que se expide mediante el presente Decreto. Asimismo, las referencias que otras disposiciones normativas hagan al Procurador General de Justicia del Estado y a los Subprocuradores, se entenderán realizadas al Fiscal General, a los Vicefiscales y a los servidores públicos que la presente Ley otorga el mismo nivel jerárquico que a éstos últimos.
+
+###### ARTÍCULO SÉPTIMO.
+
+Hasta en tanto no se actualice alguna de las causales de Terminación prescritas por el artículo 166 de la Ley que se expide a través del presente Decreto, los nombramientos de los servidores públicos de la Fiscalía General del Estado de Aguascalientes que se encuentren vigentes a su entrada en vigor, seguirán surtiendo efectos plenos. Por lo tanto, seguirán percibiendo sus salarios, continuarán gozando de las prestaciones económicas relativas al cargo que ocupen y conservarán todos los derechos que les corresponden.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto y en la Ley expedida por medio de él.
