@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111244"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2019-06-30"
+last_updated: "2020-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ENERO DE 2020.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de diciembre de 2015.
 
@@ -121,79 +121,83 @@ IV. Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecuadas
 
 V. Centros de Asistencia Social: El establecimiento, lugar o espacio físico de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
 
-> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, B.O. 20 DE ENERO DE 2020)</small>
 
-VI. Certificado de Idoneidad: Es (sic) documento expedido por la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes avalado por el Consejo Estatal de Adopciones o en caso de adopciones internacionales, por la autoridad central del país de origen de los adoptantes, en virtud del cual se determina que los solicitantes de adopción son aptos e idóneos para adoptar, soportado por un expediente técnico para ello;
+VI. Certificado de Idoneidad: Documento expedido por la Procuraduría de Protección avalado por el CESADYFA o en caso de adopciones internacionales, por la autoridad central del país de origen de los adoptantes, en virtud del cual se determina que las y los solicitantes de adopción son aptos e idóneos para adoptar, soportado por un expediente técnico para ello; los cuales serán válidos para iniciar el proceso de adopción en cualquier entidad federativa.
 
-VII. Diseño Universal: El diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesiten;
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 20 DE ENERO DE 2020)</small>
 
-> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
+VII. CESADYFA: El Consejo Estatal de Adopciones y Familias de Acogimiento, será el órgano que definirá las políticas y acciones en materia de adopciones y familias de acogimiento con y sin fines de adopción.
 
-VIII. Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados, ignorados o menoscabados sus derechos;
-
-IX. Familia de Origen: Aquélla compuesta por titulares de la patria potestad o tutela respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
-
-X. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
+VIII. Diseño Universal: El diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesiten;
 
 > <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
-XI. Familia de Acogida: Aquélla que cuente con la certificación expedida por el Sistema Estatal DIF a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
+IX. Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados, ignorados o menoscabados sus derechos;
 
-XII. Familia de Acogimiento pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
+X. Familia de Origen: Aquélla compuesta por titulares de la patria potestad o tutela respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
 
-> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
-
-XIII. Igualdad Sustantiva: El derecho al mismo trato y acceso de oportunidades para el reconocimiento, goce y ejercicio de los derechos humanos y las libertades fundamentales;
+XI. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
 
 > <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
-XIV. Informe de Adoptabilidad: El documento expedido por el Sistema Estatal DIF a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
+XII. Familia de Acogida: Aquélla que cuente con la certificación expedida por el Sistema Estatal DIF a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
 
-XV. Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos.
+XIII. Familia de Acogimiento pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
 
-XVI. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
-XVII. Ley: Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Baja California Sur;
+XIV. Igualdad Sustantiva: El derecho al mismo trato y acceso de oportunidades para el reconocimiento, goce y ejercicio de los derechos humanos y las libertades fundamentales;
 
-XVIII. Constitución Política del Estado: La Constitución Política del Estado Libre y Soberano de Baja California Sur;
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
-XIX. Código Civil del Estado: El Código Civil para el Estado Libre y Soberano de Baja California Sur;
+XV. Informe de Adoptabilidad: El documento expedido por el Sistema Estatal DIF a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
 
-XX. Órgano Jurisdiccional: Los Juzgados o Tribunales del Estado de Baja California Sur;
+XVI. Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos.
 
-XXI. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado;
+XVII. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
 
-XXII. Programa Estatal: El Programa de Protección de Niñas, Niños y Adolescentes del Estado de Baja California Sur;
+XVIII. Ley: Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Baja California Sur;
 
-XXIII. Programa Municipal: El Programa de Protección de Niñas, Niños y Adolescentes expedido por cada Municipio;
+XIX. Constitución Política del Estado: La Constitución Política del Estado Libre y Soberano de Baja California Sur;
+
+XX. Código Civil del Estado: El Código Civil para el Estado Libre y Soberano de Baja California Sur;
+
+XXI. Órgano Jurisdiccional: Los Juzgados o Tribunales del Estado de Baja California Sur;
+
+XXII. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado;
+
+XXIII. Programa Estatal: El Programa de Protección de Niñas, Niños y Adolescentes del Estado de Baja California Sur;
+
+XXIV. Programa Municipal: El Programa de Protección de Niñas, Niños y Adolescentes expedido por cada Municipio;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], B.O. 15 DE AGOSTO DE 2018)</small>
 
-XXIV. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los tratados internacionales de los que el Estado mexicano forma parte;
+XXV. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los tratados internacionales de los que el Estado mexicano forma parte;
 
 > <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
-XXV. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo del Sistema Estatal DIF, a través (sic) Procuraduría de Protección de Niñas, Niños y Adolescentes conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXVI. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo del Sistema Estatal DIF, a través (sic) Procuraduría de Protección de Niñas, Niños y Adolescentes conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
 > <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
-XXVI. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad, tutela, o custodia legal de conformidad con lo dispuesto en esta Ley y el Código Civil para el Estado;
+XXVII. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad, tutela, o custodia legal de conformidad con lo dispuesto en esta Ley y el Código Civil para el Estado;
 
-XXVII. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXVIII. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXVIII. Sistema Estatal DIF: El Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur;
+XXIX. Sistema Estatal DIF: El Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur;
 
-XXIX. Sistema Estatal de Protección Integral: Sistema de Protección de Niñas, Niños y Adolescentes del Estado (sic) Baja California Sur;
+XXX. Sistema Estatal de Protección Integral: Sistema de Protección de Niñas, Niños y Adolescentes del Estado (sic) Baja California Sur;
 
-XXX. Sistemas Municipales DIF: Los Sistemas para el Desarrollo Integral de la Familia de cada uno de los Municipios;
+XXXI. Sistemas Municipales DIF: Los Sistemas para el Desarrollo Integral de la Familia de cada uno de los Municipios;
 
-XXXI. Sistemas Municipales de Protección Integral: Sistemas de Protección de Niñas, Niños y Adolescentes de cada uno de los Municipios;
+XXXII. Sistemas Municipales de Protección Integral: Sistemas de Protección de Niñas, Niños y Adolescentes de cada uno de los Municipios;
 
-XXXII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
+XXXIII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
 
-XXXIII. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
+XXXIV. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
 
-XXXIV. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos humanos de los que el Estado Mexicano sea parte.
+XXXV. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos humanos de los que el Estado Mexicano sea parte.
 
 ###### Artículo 8o.
 
@@ -395,7 +399,9 @@ La falta de recursos no podrá considerarse motivo suficiente para separarlos de
 
 No serán considerados como supuestos de exposición o estado de abandono los casos en que las personas que ejerzan la patria potestad, por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, tengan dificultades para atender a niñas, niños y adolescentes de manera permanente, siempre y cuando los mantengan al cuidado de otras personas, libres de violencia y provean su subsistencia.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a instaurar políticas de fortalecimiento familiar con la finalidad de evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad y en su caso, la tutela.
+> <small>(REFORMADO, B.O. 20 DE ENERO DE 2020)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, establecerán políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de su entorno familiar y para que, en su caso, sean atendidos a través de las medidas especiales de protección que dispone el artículo 24.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE AGOSTO DE 2018)</small>
 
@@ -429,45 +435,87 @@ Cuando una niña, niño o adolescente sea trasladado o retenido ilícitamente en
 
 Cuando las autoridades del Estado y sus Municipios tengan conocimientos de casos de niñas, niños y adolescentes de nacionalidad mexicana trasladados o retenidos de manera ilícita en el extranjero, se coordinarán con las autoridades federales competentes para su localización y restitución, conforme a las disposiciones legales correspondientes.
 
-> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 24.
 
-El Sistema Estatal DIF y/o los Sistemas DIF Municipales, deberán otorgar medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial.
+La Procuraduría de Protección y sus similares municipales, deberán otorgar medidas especiales de protección de niñas, niños y adolescentes que se encuentren en desamparo familiar.
 
-Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar. En estos casos, el Sistema Estatal DIF a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes y/o los Sistemas DIF Municipales a través de las Procuradurías de la Defensa del Menor y la Familia, de conformidad con la legislación civil aplicable, el Sistema Nacional DIF o los Sistemas de las Entidades, según sea el caso, se asegurarán de que niñas, niños y adolescentes:
+> <small>(REFORMADO, B.O. 20 DE ENERO DE 2020)</small>
 
-I. Sean ubicados con su familia extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior;
+Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar. En estos casos, la Procuraduría de Protección y sus similares en los Municipios, así como las autoridades involucradas, según sea el caso, se asegurarán de que niñas, niños y adolescentes:
+
+> <small>(REFORMADA, B.O. 20 DE ENERO DE 2020)</small>
+
+I. Sean ubicados con su familia de origen, extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior. Dentro de este proceso de integración familiar deberá darse certeza jurídica a las niñas, niños y adolescentes y sus familias, a fin de evitar situaciones de riesgo.
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
+Las autoridades de procuración e impartición de justicia coadyuvaran desde el ámbito de sus respectivas competencias para agilizar los procesos en los que se (sic) la reintegración familiar sea procedente.
+
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
 II. Sean recibidos por una familia de acogida como medida de protección, de carácter temporal, en los casos en los cuales ni los progenitores, ni la familia extensa de niñas, niños y adolescentes pudieran hacerse cargo;
 
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
 III. Sean sujetos del acogimiento pre-adoptivo como una fase dentro del procedimiento de adopción, que supone la vinculación de niñas, niños y adolescentes, respecto del cual ya se ha declarado la condición de adoptabilidad, con su nuevo entorno y determinar la idoneidad de la familia para convertirse en familia adoptiva;
+
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
 IV. En el Sistema Estatal DIF, así como los Sistemas DIF Municipales, en el ámbito de sus respectivas competencias, deberán registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, o
 
+> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
+
 V. Sean colocados, dadas las características específicas de cada caso, en acogimiento residencial brindado por centros de asistencia social el menor tiempo posible.
+
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
 
 Esta medida especial de protección tendrá carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar.
 
-La autoridad competente deberá tener en consideración el interés superior de la niñez para determinar la opción que sea más adecuada y, de ser el caso, restituirle su derecho a vivir en familia.
+> <small>(REFORMADO, B.O. 20 DE ENERO DE 2020)</small>
 
-El Sistema Estatal DIF y los Sistemas DIF municipales en todo momento serán responsables del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el acogimiento.
+La Procuraduría de Protección y sus similares municipales, deberán mantener estrecha comunicación entre sí, intercambiando información, a fin de que pueda contarse con un sistema de registros sobre los casos de restricción, protección y restitución de derechos.
 
-> <small>(REFORMADO, B.O. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, B.O. 20 DE ENERO DE 2020)</small>
+
+A fin de garantizar una debida protección y restitución de derechos de niñas, niños y/o adolescentes susceptibles de adopción, así como procesos transparentes y oportunos, se instalará y sesionará el CESADYFA, en los términos de su reglamento.
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
+La Procuraduría de Protección y sus similares municipales sin excepciones, serán responsables del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el acogimiento y, en su caso, la adopción.
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
+Entre las medidas de seguimiento deberán estar los reportes realizados por los profesionales de trabajo social donde se aprecie la convivencia familiar y el desarrollo cotidiano de niñas, niños y adolescentes, en su entorno, con una periodicidad de seis meses durante dos años contados a partir de que la sentencia judicial de adopción quede firme, pudiendo ampliar el plazo excepcionalmente en caso de ser necesario, con base en el interés superior de la niñez. La intervención que represente el seguimiento será lo menos invasiva posible a efecto de no afectar el entorno familiar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 25.
 
-Las personas interesadas en acoger o adoptar niñas, niños y adolescentes que se encuentren bajo la tutela de la Procuraduría de Protección o de las Procuradurías de la Defensa del Menor y la Familia, deberán presentar ante la Procuraduría de Protección la solicitud correspondiente.
+Las personas interesadas en acoger o adoptar niñas, niños y adolescentes que se encuentren bajo la tutela de la Procuraduría de Protección o sus similares municipales, deberán presentar ante la Procuraduría de Protección la solicitud correspondiente.
+
+> <small>(REFORMADO, B.O. 13 DE JULIO DE 2018)</small>
 
 La Procuraduría de Protección, en el ámbito de su competencia, realizará la valoración psicológica, médica, socioeconómica y solicitará todas aquéllas que sean necesarias para determinar la idoneidad de quienes soliciten la adopción, en los términos de lo dispuesto por las leyes y reglamentos aplicables. Precisando que el nivel económico no será un factor que imposibilite el trámite. Los centros de salud del sector público que formen parte del sistema estatal de salud, quedan obligados a auxiliar a dicha Procuraduría con la práctica de las pruebas médicas que establezca el reglamento respectivo.
 
-La asignación de niñas, niños o adolescentes sólo podrá otorgarse a los solicitantes que cuenten con certificado de idoneidad expedido por la Procuraduría de Protección, avalado por el Consejo Estatal de Adopciones. Para tal efecto se observará lo siguiente:
+> <small>(REFORMADO, B.O. 20 DE ENERO DE 2020)</small>
+
+La asignación de niñas, niños o adolescentes sólo podrá otorgarse a las y los solicitantes que cuenten con certificado de idoneidad expedido por la Procuraduría de Protección, avalado por el CESADYFA. Para tal efecto se observará lo siguiente:
+
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2018)</small>
 
 I. Niñas, niños y adolescentes, siempre que sea posible de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y madurez, serán escuchados y su opinión será fundamental para la determinación que adopte el órgano jurisdiccional competente; y en caso de que se estime pertinente, tomando en cuenta la particularidad del caso.
 
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2018)</small>
+
 II. Se tomará en cuenta que las condiciones en la familia de acogimiento pre-adoptiva sean adecuadas para el desarrollo integral de niñas, niños y adolescentes, de conformidad con el principio de interés superior de la niñez;
 
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2018)</small>
+
 III. Se tomará en consideración el grado de parentesco, siempre y cuando exista apego e interés durante el procedimiento; la relación de afinidad y de afectividad; el origen, la comunidad y las condiciones culturales en que se desarrollen niñas, niños y adolescentes, y
+
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2018)</small>
 
 IV. Se procurará no separar a hermanas y hermanos, pero si hubiere necesidad de ello, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente.
 
@@ -475,35 +523,45 @@ IV. Se procurará no separar a hermanas y hermanos, pero si hubiere necesidad de
 
 Una vez autorizada la asignación de niñas, niños o adolescentes a una familia de acogida pre-adoptiva, la Procuraduría de Protección, deberá dar seguimiento a la convivencia entre ellos y al proceso de adaptación conforme a su nueva situación, con la finalidad de prevenir o superar las dificultades que se puedan presentar.
 
-> <small>(REFORMADO, B.O. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, B.O. 20 DE ENERO DE 2020)</small>
 
-Si no se lograran consolidar las condiciones de adaptación de niñas, niños y adolescentes con la familia de acogida pre-adoptiva, la Procuraduría de Protección iniciará el procedimiento correspondiente para reincorporarlos al Sistema DIF que corresponda y de ser necesario, realizar una nueva asignación con el aval del Consejo Estatal de Adopciones y debiendo informar al órgano jurisdiccional que conozca del asunto para su formalización.
+Si no se lograran consolidar las condiciones de adaptación de niñas, niños y adolescentes con la familia de acogida pre-adoptiva, la Procuraduría de Protección iniciará el procedimiento correspondiente para reincorporarlos al Sistema DIF que corresponda y de ser necesario, realizar una nueva asignación con el aval del CESADYFA y debiendo informar al órgano jurisdiccional que conozca del asunto para su formalización.
 
-> <small>(REFORMADO, B.O. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, B.O. 20 DE ENERO DE 2020)</small>
 
-Corresponde al Consejo Estatal de Adopciones revocar la asignación y ejercer las facultades que le otorgan la presente ley y demás disposiciones aplicables, cuando se violenten los derechos de niñas, niños y adolescentes que hayan sido asignados, debiendo informar inmediatamente al órgano jurisdiccional al que se haya solicitado la medida correspondiente.
+Corresponde al CESADYFA revocar la asignación y ejercer las facultades que le otorgan la presente ley y demás disposiciones aplicables, cuando se violenten los derechos de niñas, niños y adolescentes que hayan sido asignados, debiendo informar inmediatamente al órgano jurisdiccional al que se haya solicitado la medida correspondiente.
 
-> <small>(REFORMADO, B.O. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 27.
 
-Corresponde al Sistema Estatal DIF a través de la Procuraduría de protección, así como a los Sistemas Municipales DIF, a través de sus Procuradurías, en el ámbito de sus respectivas competencias:
+Corresponde a la Procuraduría de Protección, así como a las Procuradurías Municipales, en el ámbito de sus respectivas competencias:
+
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2018)</small>
 
 I. Prestar servicios de asesoría y asistencia jurídica a las personas que deseen asumir el carácter de familia de acogimiento pre-adoptivo de niñas, niños o adolescentes, así como su capacitación;
 
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2018)</small>
+
 II. Realizar evaluaciones sobre la idoneidad de las condiciones de quienes pretendan adoptar, y emitir los dictámenes correspondientes, así como formular las recomendaciones pertinentes al órgano jurisdiccional, y
 
-III. Contar con un sistema de información que permita registrar a las niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, así como el listado de las personas solicitantes de adopción, adopciones concluidas e informar de manera trimestral a la Procuraduría de Protección Estatal o Federal, según sea el caso.
+> <small>(REFORMADA, B.O. 20 DE ENERO DE 2020)</small>
+
+III. Contar con un sistema de información y registro, permanentemente y actualizado, que incluya niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, solicitantes de adopción y aquellos que cuenten con certificado de idoneidad, adopciones concluidas desagregadas en nacionales e internacionales, así como niñas, niños y adolescentes adoptados, informando de cada actualización a la Procuraduría de Protección Estatal. También se llevará un registro de las familias de acogida y de las niñas, niños y adolescentes susceptibles o incorporados a una familia de acogimiento y su modalidad si fue con fines o no de adopción.
 
 ###### Artículo 28.
 
 (DEROGADO, B.O. 13 DE JULIO DE 2018)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE ENERO DE 2020)</small>
+
 ###### Artículo 29.
 
-En materia de adopción, las leyes de la entidad deberán contener disposiciones mínimas que abarquen lo siguiente:
+En materia de adopción, las leyes de la entidad deberán contener disposiciones mínimas que abarquen lo siguiente, así mismo todas autoridades deberán observar lo siguiente:
 
-I. Prever que niñas, niños y adolescentes sean adoptados en pleno respeto de sus derechos, de conformidad con el principio de interés superior de la niñez;
+> <small>(REFORMADA, B.O. 20 DE ENERO DE 2020)</small>
+
+I. Garantizar que niñas, niños y adolescentes sean adoptados con pleno respeto de sus derechos, de conformidad con el principio de interés superior de la niñez, y no mediando intereses particulares o colectivos que se contrapongan al mismo;
 
 II. Asegurar que se escuche y tome en cuenta la opinión de niñas, niños y adolescentes de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y madurez, en términos de la presente Ley;
 
@@ -511,11 +569,153 @@ III. Garantizar que se asesore jurídicamente, tanto a quienes consientan la ado
 
 IV. Disponer las acciones necesarias para verificar que la adopción no sea motivada por beneficios económicos para quienes participen en ella, y
 
-V. Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, velarán porque en los procesos de adopción se respeten las normas que los rijan.
+> <small>(REFORMADA, B.O. 20 DE ENERO DE 2020)</small>
 
-> <small>(ADICIONADA, B.O. 13 DE JULIO DE 2018)</small>
+V. Garantizar que en los procesos de adopción se respeten las normas que los rijan de conformidad con lo dispuesto en esta ley;
 
-VI. Garantizar la no discriminación en niños, niñas y adolescentes en procedimientos de adopción en razón de su color, sexo, o cualquier otra característica física.
+> <small>(REFORMADA, B.O. 20 DE ENERO DE 2020)</small>
+
+VI. Garantizar la no discriminación en niños, niñas y adolescentes en procedimientos de adopción en razón de su color, sexo, o cualquier otra característica,
+
+> <small>(ADICIONADA, B.O. 20 DE ENERO DE 2020)</small>
+
+VII. Establecer medidas de protección a fin de evitar presiones indebidas y coacción a las familias de origen para renunciar a la niña, el niño o el adolescente; y
+
+> <small>(ADICIONADA, B.O. 20 DE ENERO DE 2020)</small>
+
+VIII. Garantizar que los procedimientos de adopción se lleven de conformidad con esta ley.
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 29 Bis.
+
+Toda persona que encontrare una niña, niño o adolescente en estado de indefensión o que hubiere sido puesto en situación de desamparo familiar, deberá presentarlo ante el agente del ministerio público; con las prendas, valores o cualesquiera otros objetos encontrados en su persona, y declarará el día, lugar y circunstancias en que lo hubiere hallado, dentro de la carpeta de investigación que aperture por la posible comisión del delito que origino la situación de expósito o abandono de la niña, niño o adolescente.
+
+El ministerio público, deberá dar aviso inmediato a la Procuraduría de Protección o sus similares en los municipios, para que lleven a cabo el proceso de restitución de derechos y pueda establecerse la calidad de expósito o abandonado.
+
+A fin de garantizar el debido proceso, la representación social, deberá informar a la Procuraduría de Protección del Estado o las Procuradurías municipales, según sea el caso, en un plazo no mayor a treinta días naturales, de los hallazgos encontrados que deriven de la búsqueda y localización de alertas, denuncias o cualquier reporte relacionado con la niña, niño y/o adolescente a fin de restablecer su identidad.
+
+La Procuraduría de Protección en su calidad de representante en suplencia, y a falta de quienes ejercen la patria potestad o guarda y custodia, solicitará de inmediato el registro de nacimiento de niñas, niños y adolescentes al Oficial de Registro Civil con la documentación que posea e informando por escrito de las condiciones en las que se actúa, quien a su vez estar (sic) obligado a realizarlo en aras de proteger y restituir los derechos de la niñez.
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 29 Bis 1.
+
+Los Centros de Asistencia Social que reciban niñas, niños y/o adolescentes en situación de indefensión o desamparo familiar sólo podrán recibir niñas, niños y/o adolescentes por disposición de la Procuraduría de Protección o sus similares en los municipios por orden del ministerio público u órgano jurisdiccional competente. El incumplimiento de lo anterior, será considerado como un acto ilegal.
+
+Las niñas, niños y/o adolescentes acogidos en Centros de Asistencia Social, serán considerados expósitos o abandonados una vez que hayan transcurrido sesenta días naturales sin que se reclamen derechos sobre ellos o se tenga información que permita conocer su origen salvo que la Procuraduría de Protección correspondiente no cuente con los elementos suficientes que den certeza sobre la situación de expósito o abandonado de los menores de edad. En este caso, se podrá extender el plazo hasta por sesenta días naturales más.
+
+El lapso inicial a que hace referencia el párrafo anterior, correrá a partir de la fecha en que la niña, niño o adolescente haya sido acogido en un Centro de Asistencia Social y concluirá cuando la Procuraduría de Protección o sus similares en los municipios, según corresponda, levanten la certificación de haber realizado todas las investigaciones necesarias para conocer su origen, la cual deberá publicarse en los estrados de la dependencia y en los medios públicos con que se cuente.
+
+Se considera expósito al menor de edad que es colocado en una situación de desamparo por quienes conforme a la ley estén obligados a su custodia, protección y cuidado y no pueda determinarse su origen. Cuando la situación de desamparo se refiera a un menor de edad cuyo origen se conoce, se considerará abandonado.
+
+Durante el término referido se investigará el origen de niñas, niños y adolescentes y se realizarán las acciones conducentes que les permitan reintegrarse al núcleo de su familia de origen o extensa, siempre que dicha reintegración no represente un riesgo al interés superior de la niñez. Estas acciones deberán abarcar fundamentalmente; la investigación de la Procuraduría de Justicia del Estado que podrá buscar el mecanismo de coordinación con otras fiscalías, para descartar que existan reportes en otros Entidades, respecto del caso que se investigue.
+
+Una vez transcurrido dicho término sin obtener información respecto del origen de niñas, niños o adolescentes, serán susceptibles de adopción.
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 29 Bis 2.
+
+Para los fines de esta ley se prohíbe:
+
+I. La promesa de adopción durante el proceso de gestación;
+
+II. La adopción privada, entendida como el acto mediante el cual quienes ejercen la patria potestad, tutela o guarda y custodia, o sus representantes legales, pacten dar en adopción de manera directa a niñas, niños o adolescentes, sin que intervengan las autoridades competentes de conformidad con esta ley;
+
+III. Que la adopción se realice para fines de venta, sustracción, retención u ocultación ilícita, tráfico, trata de personas, explotación, trabajo infantil o cualquier ilícito. Si se presentare cualquiera de los supuestos referidos una vez concluida judicialmente la adopción, la Procuraduría de Protección competente presentará denuncia ante el Ministerio Público y tomará las medidas necesarias para asegurar el bienestar integral de niñas, niños y adolescentes;
+
+IV. El contacto de los padres biológicos que entregaron en adopción a una niña, un niño o un adolescente, con el adoptante, el adoptado o con cualquier persona involucrada en la adopción; con excepción de los casos en que los adoptantes sean familiares biológicos, de la familia extensa o cuando el adoptado desee conocer sus antecedentes familiares y sea mayor de edad. Niñas, niños y adolescentes que deseen conocer sus antecedentes familiares deberán contar con el consentimiento de quienes lo adoptaron, y siempre que ello atienda al interés superior de la niñez;
+
+V. La inducción a través de cualquier forma de compensación o pago para influenciar o favorecer la decisión de otorgar a la niña, el niño o el adolescente en adopción;
+
+VI. La obtención directa o indirecta de beneficios indebidos, materiales o de cualquier índole, por la familia de origen o extensa de la persona adoptada, o por cualquier persona, así como por funcionarios o trabajadores de instituciones públicas o privadas y autoridades involucradas en el proceso de adopción;
+
+VII. La obtención de lucro o beneficio personal ilícito como resultado de la adopción;
+
+VIII. El matrimonio entre la persona adoptante y adoptada o sus descendientes, así como el matrimonio entre la persona adoptada con los familiares del adoptante o sus descendientes;
+
+IX. Ser adoptada o adoptado por más de una persona, salvo en caso de que quienes adoptan sean cónyuges o concubinos, en cuyo caso se requerirá el consentimiento de ambos;
+
+X. La adopción por discriminación, entendida como aquella donde se considera al niño como valor supletorio o reivindicatorio, y
+
+XI. Toda adopción contraria a las disposiciones constitucionales, tratados internacionales ratificados por el Estado mexicano o al interés superior de la niñez y su adecuado desarrollo evolutivo.
+
+Las autoridades vigilarán el desarrollo del proceso de adaptación a través del seguimiento que realice la Procuraduría de Protección y sus similares en los Municipios, mediante los reportes subsecuentes, respetando el derecho de la familia a vivir conforme a sus estándares, costumbres y valores.
+
+Las autoridades podrán suspender el proceso de adopción cuando tengan razones para creer que la adopción se realiza en contravención de lo establecido por la presente ley. En caso de que el proceso de adopción haya concluido judicialmente, la Procuraduría de Protección o sus similares en los Municipios correspondientes, tomarán las medidas necesarias para asegurar el bienestar integral de niñas, niños y adolescentes en los términos que disponga la ley para las y los hijos consanguíneos.
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 29 Bis 3.
+
+Pueden ser sujetos de adopción niñas, niños y adolescentes que:
+
+I. No tengan quien ejerza sobre ellas o ellos la patria potestad;
+
+II. Sean expósitos o se encuentren en situación de abandono;
+
+III. Se encuentren en alguno de los supuestos anteriores y en protección en un Centro de Asistencia Social o bajo la tutela del Sistema Estatal o Municipal DIF, o de la Procuraduría de Protección o sus similares en los Municipios.
+
+IV. Estando bajo patria potestad o tutela, quien la ejerce manifieste por escrito su consentimiento ante la Procuraduría de Protección o sus similares en los Municipios. Siempre que sea ratificado ante el órgano jurisdiccional de acuerdo a lo establecido en el Código Civil del Estado de Baja California Sur.
+
+En todo caso se deberá contar con el informe de adoptabilidad.
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 29 Bis 4.
+
+Quienes lo soliciten, deberán acudir a la Procuraduría de Protección o sus similares en los Municipios, para realizar sus trámites de adopción, atendiendo a lo previsto en la reglamentación correspondiente.
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 29 Bis 5.
+
+Una vez reunidos los requisitos de conformidad con esta ley y su reglamento e integrado el expediente, la autoridad competente emitirá su opinión respecto a la expedición del certificado de idoneidad en un término que no excederá de cuarenta y cinco días naturales, salvo que no tenga certeza respecto de la documentación que integra el expediente o que no cuente con suficientes elementos, caso en el que se podrá ampliar el plazo hasta por treinta días naturales más.
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 29 Bis 8.
+
+(sic) Los Centros de Asistencia Social públicos y privados que tengan bajo su custodia adolescentes que cumplan la mayoría de edad, deberán garantizarles los servicios de atención que les permitan una óptima inclusión al entorno social.
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 29 Bis 10.
+
+La Procuraduría de Protección en coordinación con sus similares municipales, en el ámbito de sus respectivas competencias, crearán los mecanismos necesarios para que quienes deseen adoptar cuenten con un procedimiento único, que permita que el trámite de adopción sea rápido, eficaz y transparente.
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 29 Bis 11.
+
+En su ámbito de competencia, la Procuraduría Protección y sus similares municipales en coordinación con el Tribunal Superior de Justicia del Estado, dispondrán lo necesario a efecto de homologar los requisitos y procedimientos administrativos de adopción en el Estado.
+
+En ningún caso se solicitará certificado médico de infertilidad como requisito para adoptar.
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 29 Bis 12.
+
+A fin de acompañar la adaptación de niñas, niños y adolescentes a su nueva familia y entorno, así como conocer la evolución de su desarrollo, la Procuraduría de Protección y sus similares municipales, realizarán el seguimiento correspondiente al menos cada seis meses durante el primer año de la adopción.
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 29 Bis 13.
+
+En caso de que quien adopte sea extranjero con residencia permanente en el Estado o en el territorio nacional, las autoridades competentes incluirán, como requisito del certificado de idoneidad, la comprobación de la situación migratoria regular en el territorio nacional.
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 29 Bis 14.
+
+La adopción en todo caso será plena e irrevocable.
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 29 Bis 15.
+
+El Sistema Estatal DIF y la Procuraduría de Protección y sus similares municipales celebrarán los convenios de colaboración que se consideren necesarios para garantizar el derecho a vivir en familia con sus pares locales o con las autoridades que se requiera.
 
 > <small>(REFORMADO, B.O. 13 DE JULIO DE 2018)</small>
 
@@ -1331,13 +1531,17 @@ V. Brindar, de manera permanente, capacitación y formación especializada a su 
 
 VI. Supervisar y evaluar de manera periódica a su personal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE ENERO DE 2020)</small>
+
 ###### Artículo 93.
 
-Son obligaciones de los titulares o responsables legales de los Centros de Asistencia Social:
+Son obligaciones de quienes tengan la titularidad o responsabilidad legales de los Centros de Asistencia Social:
 
 I. Garantizar el cumplimiento de los requisitos establecidos por esta Ley y demás disposiciones aplicables para formar parte del Registro Nacional de Centros de Asistencia Social del Sistema Nacional para el Desarrollo Integral de la Familia;
 
-II. Llevar un registro de niñas, niños y adolescentes bajo su custodia con la información de la situación jurídica en la que se encuentren, y remitirlo semestralmente a la Procuraduría de Protección;
+> <small>(REFORMADA, B.O. 20 DE ENERO DE 2020)</small>
+
+II. Llevar un registro de niñas, niños y adolescentes bajo su custodia con la información de la situación en la que se encuentre, así como de la atención y seguimiento que le dé al caso dentro del proceso de restitución de derechos, el cual actualizarán de manera permanente e informarán de inmediato a la Procuraduría Municipal, que a su vez remitirá dicha información a la Procuraduría de Protección;
 
 III. Asegurar que las instalaciones tengan en lugar visible la constancia de registro de incorporación al Registro Nacional de Centros de Asistencia Social del Sistema Nacional para el Desarrollo Integral de la Familia;
 
@@ -2098,3 +2302,9 @@ B.O. 30 DE JUNIO DE 2019.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Segundo.- Las dependencias y entidades del Poder Ejecutivo del Estado que corresponda deberán realizar las modificaciones a sus reglamentos respectivos para ajustarlos al presente Decreto, en un término de 180 días hábiles a partir de su entrada en vigor.
+
+B.O. 20 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2675 SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
