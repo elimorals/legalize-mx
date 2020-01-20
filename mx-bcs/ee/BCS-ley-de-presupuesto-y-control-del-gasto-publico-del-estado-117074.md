@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-presupuesto-y-control-del-gasto-publico-del-estado-11707
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-31"
-last_updated: "2019-04-20"
+last_updated: "2020-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE PRESUPUESTO Y CONTROL DEL GASTO PUBLICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 20 DE ENERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PRESUPUESTO Y CONTROL DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ENERO DE 2020 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de Octubre de 2016.
 
@@ -534,3 +536,13 @@ B.O. 20 DE ABRIL DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2667 SE EXPIDE LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga la Ley de Presupuesto y Control del Gasto Público del Estado de Baja California Sur, publicada mediante Decreto 2380, en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 44, de fecha 31 de octubre de 2016.
+
+TERCERO.- Los Poderes del Estado de Baja California Sur, las Dependencias y Entidades del Poder Ejecutivo y los Organismos Autónomos deberán efectuar los ajustes correspondientes en sus Reglamentos Internos o equivalentes.
