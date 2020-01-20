@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-110090"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-29"
-last_updated: "2019-08-28"
+last_updated: "2020-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2020.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Michoacán, el martes 29 de septiembre de 2015.
 
@@ -155,11 +155,11 @@ XII. Expedir los manuales de organización, de procedimientos y de servicios al 
 
 XIII. Las demás que expresamente se señalen en esta Ley, en las leyes del Estado y en los ordenamientos reglamentarios respectivos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 13.
 
-El Gobernador del Estado, nombrará y removerá libremente a los titulares de las dependencias y entidades, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo o en las leyes, procurando observar el principio de igualdad de género, en el primer nivel de mando de la estructura orgánica.
+El Gobernador del Estado, nombrará y removerá libremente a los servidores públicos del Poder Ejecutivo, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo o en las leyes; garantizando el principio de paridad de género.
 
 Los titulares de las dependencias de la Administración Pública Estatal, designarán a los servidores públicos dentro de las dependencias a que se refiere la presente ley, previo acuerdo con el Gobernador del Estado.
 
@@ -1736,3 +1736,17 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO VIGÉSIMO CUARTO. SE REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 21 Y LA FRACCIÓN V DEL ARTÍCULO 31 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 20 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 193.- PRIMERO.- SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 1°; LA FRACCIÓN IV DEL ARTÍCULO 3°; EL ARTÍCULO 8°; LOS PÁRRAFOS TERCERO, CUARTO Y OCTAVO DEL ARTÍCULO 13; EL PÁRRAFO TERCERO DEL ARTÍCULO 20; EL ARTÍCULO 21; LA FRACCIÓN XIV DEL ARTÍCULO 60; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 69; LOS ARTÍCULOS 73 Y 74; EL PÁRRAFO CUARTO DEL ARTÍCULO 95; EL PÁRRAFO QUINTO DEL ARTÍCULO 96; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 97; EL PÁRRAFO PRIMERO DEL ARTÍCULO 114; Y EL ARTÍCULO 122; Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 6° Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 62 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.- SEGUNDO.- SE REFORMAN LAS FRACCIONES XI, XII Y XIII DEL ARTÍCULO 3, LOS ARTÍCULOS 4 Y 71; Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 3; Y UN PÁRRAFO SEGUNDO AL INCISO M) DEL ARTÍCULO 230 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO.-TERCERO.- SE REFORMA EL ARTÍCULO 13 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO.- CUARTO.- SE REFORMAN LOS ARTÍCULOS 49; 92 Y 93 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emita el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. El Congreso del Estado deberá, en un plazo improrrogable de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes a efecto de observar el principio de paridad de género establecido en esta Constitución.
+
+CUARTO. La observancia del principio de paridad de género a que se refiere el presente Decreto, será aplicable a quienes tomen posesión de su cargo, a partir del proceso electoral local siguiente a la entrada en vigor del presente Decreto, según corresponda.
+
+Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva y escalonada a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
