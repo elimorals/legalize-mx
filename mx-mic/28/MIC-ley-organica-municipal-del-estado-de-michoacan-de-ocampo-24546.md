@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2019-08-22"
+last_updated: "2020-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2020.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -1303,11 +1303,11 @@ Los regidores están obligados a aceptar las comisiones que les sean conferidas 
 
 ### Capítulo I. De las Atribuciones del Presidente Municipal
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 49.
 
-El Presidente Municipal tendrá a su cargo la representación del Ayuntamiento y la ejecución de las resoluciones del mismo, así como las siguientes atribuciones:
+La Presidenta o Presidente Municipal tendrá a su cargo la representación del Ayuntamiento y la ejecución de las resoluciones del mismo, así como las siguientes atribuciones:
 
 I. Planear, programar, presupuestar, coordinar, controlar y evaluar el desempeño de las dependencias, entidades y unidades administrativas del Gobierno Municipal;
 
@@ -1327,7 +1327,9 @@ VII. Ejercer el mando de la policía preventiva municipal en los términos de la
 
 VIII. Proponer al Ayuntamiento las comisiones que deban integrarse y sus miembros;
 
-IX. Presentar a consideración del Ayuntamiento para su aprobación, en su caso, las propuestas de nombramientos y remociones del Secretario y Tesorero Municipales;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+
+IX. Presentar a consideración del Ayuntamiento para su aprobación, en su caso, las propuestas de nombramientos y remociones del Secretario y Tesorero Municipales; garantizando el principio de paridad de género;
 
 X. Conducir la elaboración del Plan Municipal de Desarrollo y de sus programas operativos, así como vigilar el cumplimiento de las acciones que le correspondan a cada una de las dependencias, entidades y unidades administrativas municipales;
 
@@ -1341,9 +1343,9 @@ XIV. Presidir el Comité de Planeación para el Desarrollo Municipal;
 
 XV. Vigilar la correcta administración del patrimonio municipal;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
 
-XVI. Nombrar y remover libremente a los funcionarios municipales que le corresponda, procurando observar el principio de igualdad de género en el primer nivel de mando de la estructura orgánica; y,
+XVI. Nombrar y remover libremente a los funcionarios municipales que le corresponda, garantizando el principio de paridad de género en el primer nivel de mando de la estructura orgánica; y,
 
 XVII. Las demás que le señale la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes que de estas emanen, esta Ley, sus reglamentos y otras disposiciones del orden municipal.
 
@@ -1971,19 +1973,17 @@ En los planes de desarrollo municipal se establecerán los programas, proyectos 
 
 ### Capítulo XI. De las Dependencias, Entidades y Unidades Administrativas
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 92.
 
-Para el ejercicio de sus atribuciones, el Ayuntamiento se auxiliará de las dependencias, entidades y unidades administrativas necesarias, que estarán bajo las órdenes del Presidente Municipal, en las cuales se procurará observar el principio de igualdad de género en los nombramientos de los titulares.
+Para el ejercicio de sus atribuciones, el Ayuntamiento se auxiliará de las dependencias, entidades y unidades administrativas necesarias, que estarán bajo las órdenes de la Presidenta o Presidente Municipal; garantizando el principio de paridad de género en los nombramientos de los titulares.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 93.
 
-El Presidente Municipal, previo acuerdo del Ayuntamiento, podrá crear dependencias, entidades y unidades administrativas que le estén subordinadas directamente, así como fusionar, modificar o suprimir las existentes, de acuerdo con las necesidades y la capacidad financiera del Ayuntamiento.
-
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
-
-El Presidente Municipal procurará observar el principio de igualdad de género en los nombramientos de los titulares.
+La Presidenta o Presidente Municipal, previo acuerdo del Ayuntamiento, podrá crear dependencias, entidades y unidades administrativas que le estén subordinadas directamente, así como fusionar, modificar o suprimir las existentes, de acuerdo con las necesidades y la capacidad financiera del Ayuntamiento, los nombramientos que realice de los titulares garantizará (sic) el principio de paridad de género.
 
 ###### Artículo 94.
 
@@ -3280,3 +3280,17 @@ P.O. 22 DE AGOSTO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Las autoridades, entidades, órganos y organismos de los poderes Legislativo, Ejecutivo y Judicial o de los municipios, órganos autónomos, partidos políticos y demás autoridades, contempladas en el presente Decreto, tendrán un plazo de ciento ochenta días hábiles para publicar las remuneraciones brutas y netas, por medios impresos y electrónicos, donde de (sic) entre otros desgloses, se adicione un apartado por sexo y cargo desempeñado, ateniendo al principio de igualdad y no discriminación.
+
+P.O. 20 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 193.- PRIMERO.- SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 1°; LA FRACCIÓN IV DEL ARTÍCULO 3°; EL ARTÍCULO 8°; LOS PÁRRAFOS TERCERO, CUARTO Y OCTAVO DEL ARTÍCULO 13; EL PÁRRAFO TERCERO DEL ARTÍCULO 20; EL ARTÍCULO 21; LA FRACCIÓN XIV DEL ARTÍCULO 60; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 69; LOS ARTÍCULOS 73 Y 74; EL PÁRRAFO CUARTO DEL ARTÍCULO 95; EL PÁRRAFO QUINTO DEL ARTÍCULO 96; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 97; EL PÁRRAFO PRIMERO DEL ARTÍCULO 114; Y EL ARTÍCULO 122; Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 6° Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 62 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.- SEGUNDO.- SE REFORMAN LAS FRACCIONES XI, XII Y XIII DEL ARTÍCULO 3, LOS ARTÍCULOS 4 Y 71; Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 3; Y UN PÁRRAFO SEGUNDO AL INCISO M) DEL ARTÍCULO 230 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- TERCERO.-SE REFORMA EL ARTÍCULO 13 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO.- CUARTO.- SE REFORMAN LOS ARTÍCULOS 49; 92 Y 93 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emita el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. El Congreso del Estado deberá, en un plazo improrrogable de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes a efecto de observar el principio de paridad de género establecido en esta Constitución.
+
+CUARTO. La observancia del principio de paridad de género a que se refiere el presente Decreto, será aplicable a quienes tomen posesión de su cargo, a partir del proceso electoral local siguiente a la entrada en vigor del presente Decreto, según corresponda.
+
+Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva y escalonada a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
