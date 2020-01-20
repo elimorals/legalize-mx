@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2019-12-16"
+last_updated: "2020-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ENERO DE 2020.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -4131,7 +4131,7 @@ Maltrato de animal doméstico equiparado. Se impondrá de uno a tres años de pr
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 10 DE ABRIL DE 2019)</small>
 
-### CAPÍTULO ÚNICO. ESPIONAJE CONTRA LAS INSTITUCIONES POLICIALES, DE SEGURIDAD PÚBLICA Y PROCURACIÓN DE JUSTICIA
+### CAPÍTULO I. ESPIONAJE CONTRA LAS INSTITUCIONES POLICIALES, DE SEGURIDAD PÚBLICA Y PROCURACIÓN DE JUSTICIA
 
 > <small>(ADICIONADO, B.O. 20 DE JUNIO DE 2019)</small>
 
@@ -4177,6 +4177,10 @@ En caso que no se acredite que existieron razones de género al privar de la vid
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 10 DE ABRIL DE 2019)</small>
 
+### CAPÍTULO II. ACCESO ILÍCITO A SISTEMAS DE VIDEOVIGILANCIA
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
 ###### Artículo 390.
 
 Violencia política de género. A quien por cualquier medio realice por si o a través de terceros la acción u omisión que, en el marco del ejercicio de los derechos político-electorales, o bien, en el ejercicio de un cargo público, tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político-electorales de una mujer o mujeres, así como el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o su función del poder público, se le impondrá de seis meses a dos años de prisión y de cincuenta a trescientos días multa. El delito de violencia política de género se perseguirá a petición de parte ofendida.
@@ -4199,9 +4203,17 @@ Las sanciones a que se refieren en el primer párrafo de este artículo se aumen
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE DICIEMBRE DE 2019)</small>
 
+### CAPÍTULO III. USO INDEBIDO DE SISTEMAS DE VIDEOVIGILANCIA
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
+### CAPÍTULO IV. DAÑO FÍSICO A LOS SISTEMAS DE VIDEOVIGILANCIA Y COMUNICACIONES
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
 ## TÍTULO VIGÉSIMO SÉPTIMO. DELITOS CONTRA LA SEGURIDAD PÚBLICA
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 20 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 391.
 
@@ -4250,6 +4262,58 @@ I. Halconeo: La acción de acechar, vigilar o cualquier acto encaminado a obtene
 II. Espionaje: Intervenir comunicaciones privadas u oficiales, utilizando cualquier medio tecnológico, con la finalidad de obtener y comunicar información a una agrupación delictiva sobre la ubicación de las actividades, operativos o en general las labores de seguridad pública, de persecución o sanción del delito o ejecución de penas que desplieguen las instituciones policiales, de seguridad pública, procuración de justicia y fuerza armada permanente.
 
 III. Instituciones policiales, de seguridad pública, procuración de justicia y fuerza armada permanente: Las previstas en el artículo 3 fracciones XV, XVI y XVII de la Ley del Sistema Estatal de Seguridad Pública para el Estado de Baja California Sur; y la prevista en el artículo 89 fracción VI y demás relativos de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 394.
+
+Acceso ilícito a sistemas de videovigilancia. Al que sin autorización modifique, destruya o provoque pérdida de información contenida en sistemas de videovigilancia o componentes físicos o electrónicos que permiten la protección, visualización, transmisión, registro y almacenamiento de la información captada o grabada mediante las cámaras de videovigilancia de un particular, protegidos por algún mecanismo de seguridad, se le impondrán de seis meses a dos años de prisión y multa de cien a trescientas veces del valor diario de la Unidad de Medida y Actualización.
+
+Al que sin autorización conozca o copie información contenida en sistemas de videovigilancia o componentes físicos o electrónicos que permiten la protección, visualización, transmisión, registro y almacenamiento de la información captada o grabada mediante las cámaras de videovigilancia protegidos por algún mecanismo de seguridad, se le impondrán de tres meses a un año de prisión y multa de cincuenta a ciento cincuenta veces del valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 395.
+
+Al que sin autorización modifique, destruya o provoque pérdida de información contenida en sistemas de videovigilancia o componentes físicos o electrónicos que permiten la protección, visualización, transmisión, registro y almacenamiento de la información captada o grabada mediante las cámaras de videovigilancia del Estado, protegidos por algún mecanismo de seguridad, se le impondrán de uno a cuatro años de prisión y multa de doscientas a seiscientas veces del valor diario de la Unidad de Medida y Actualización.
+
+Al que sin autorización conozca o copie información contenida en sistemas de videovigilancia o componentes físicos o electrónicos que permiten la protección, visualización, transmisión, registro y almacenamiento de la información captada o grabada mediante las cámaras de videovigilancia del Estado, protegidos por algún mecanismo de seguridad, se le impondrán de seis meses a dos años de prisión y multa de cien a trescientas veces del valor diario de la Unidad de Medida y Actualización.
+
+A quien sin autorización conozca, obtenga, copie o utilice información contenida en cualquier sistema, sistemas de videovigilancia o componentes físicos o electrónicos que permiten la protección, visualización, transmisión, registro y almacenamiento de la información captada o grabada mediante las cámaras de videovigilancia de seguridad pública, protegido por algún medio de seguridad, se le impondrá pena de cuatro a diez años de prisión y multa de quinientas a mil veces del valor diario de la Unidad de Medida y Actualización.
+
+Si el responsable es o hubiera sido servidor público en una institución de seguridad pública, se impondrá además, destitución e inhabilitación de cuatro a diez años para desempeñarse en otro empleo, puesto, cargo o comisión pública.
+
+Las sanciones anteriores se duplicarán cuando la conducta obstruya, entorpezca, obstaculice, limite o imposibilite la procuración o impartición de justicia, o recaiga sobre los registros relacionados con un procedimiento penal resguardados por las autoridades competentes.
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 396.
+
+Al que estando autorizado para acceder a sistemas de videovigilancia o componentes físicos o electrónicos que permiten la protección, visualización, transmisión, registro y almacenamiento de la información captada o grabada mediante las cámaras de videovigilancia del Estado, indebidamente modifique, destruya o provoque pérdida de información que contengan, se le impondrán de dos a ocho años de prisión y multa de trescientas a novecientas veces del valor diario de la Unidad de Medida y Actualización.
+
+Al que estando autorizado para acceder a sistemas de videovigilancia o componentes físicos o electrónicos que permiten la protección, visualización, transmisión, registro y almacenamiento de la información captada o grabada mediante las cámaras de videovigilancia del Estado, indebidamente copie información que contengan, se le impondrán de uno a cuatro años de prisión y de ciento cincuenta a cuatrocientas veces del valor diario de la Unidad de Medida y Actualización.
+
+A quien estando autorizado para acceder a sistemas de videovigilancia o componentes físicos o electrónicos que permiten la protección, visualización, transmisión, registro y almacenamiento de la información captada o grabada mediante las cámaras de videovigilancia en materia de seguridad pública, indebidamente obtenga, copie o utilice información que contengan, se le impondrá pena de cuatro a diez años de prisión y multa de quinientos a mil veces del valor diario de la Unidad de Medida y Actualización.
+
+Si el responsable es o hubiera sido servidor público en una institución de seguridad pública, se impondrá además, hasta una mitad más de la pena impuesta, destitución e inhabilitación por un plazo igual al de la pena resultante para desempeñarse en otro empleo, puesto, cargo o comisión pública.
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 397.
+
+Las penas previstas en este capítulo se aumentarán hasta en una mitad cuando la información obtenida se utilice en provecho propio o ajeno.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 398.
+
+Uso indebido de sistemas de videovigilancia. Al que ubique, instale, utilice y opere videocámaras y sistemas de videovigilancia para grabar o captar imágenes con o sin sonido en lugares, equipamiento, mobiliario, vía o cualquier espacio público, sin la autorización, o aviso respectivo a las autoridades competentes, con apariencia tal que se asemejen a los utilizados por las instituciones de seguridad pública del Estado, sin estar legalmente facultado para ello, simulando la existencia de un sistema de videovigilancia oficial, se le impondrá pena de cuatro a diez años de prisión y multa de mil veces del valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 399.
+
+Daño físico a los sistemas de videovigilancia y comunicaciones. Al que ataque, destruya, robe o sabotee físicamente y de manera intencional cualquier equipo de videovigilancia y su estructura como poste, cámara, enlace, gabinete o cableado que pertenezca a instituciones policiales, de seguridad pública y procuración de justicia, se le impondrá prisión de dos a seis años y multa de hasta cien días. Además de condenarse a la reparación de los daños ocasionados.
 
 T R A N S I T O R I O S:
 
@@ -4484,3 +4548,51 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto y que se encuentren en trámite o pendientes de resolución, por las disposiciones previstas en los artículos 88, 93, 138, 166, 178, 179, 180, 200, 223, 224, 225, 226, 227 y 228 del Código Penal para el Estado Libre y Soberano de Baja California Sur que se reforman, derogan y adicionan respectivamente, se seguirán substanciando hasta su conclusión con esa disposición vigente y demás relativas y aplicables al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
 
 Tercero.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 20 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2688 SE EXPIDE LA LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE BAJA CALIFORNIA SUR Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno de Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga el Decreto 2174, mediante el cual se expidió la Ley de Video Vigilancia del Estado de Baja California Sur, Publicada en el Boletín Oficial del Gobierno del Estado de fecha 31 de julio del año 2014.
+
+TERCERO.- En un plazo de 90 días, contado a partir de la entrada en vigencia del presente decreto, el Poder Ejecutivo del Estado deberá:
+
+1.- Emitir el reglamento de la Ley de Videovigilancia para Estado de Baja California Sur.
+
+2.- Actualizar los reglamentos de la Ley del Sistema Estatal de Seguridad Pública, Ley de Desarrollo Urbano para el Estado de Baja California Sur y la Ley Sobre el Régimen de Propiedad de Condominio del Estado de Baja California Sur, para armonizarlo con las disposiciones establecidas en la presente ley.
+
+CUARTO.- Las autoridades, prestadoras de servicios de seguridad privada y los establecimientos mercantiles que actualmente realicen actividades de videovigilancia, deberán ser notificadas por la Secretaría de Seguridad Pública del Estado para efecto de que en formato libre, en un plazo no mayor de treinta días naturales, contados a partir de la notificación correspondiente, informen:
+
+El número de cámaras de video vigilancia que tiene instaladas;
+
+El número de cámaras fijas de video vigilancia que tiene instaladas;
+
+El número de cámaras móviles de video vigilancia que tiene instaladas;
+
+El número de componentes físicos o electrónicos que permiten la protección, visualización, transmisión, registro y almacenamiento de la información captada o grabada mediante las cámaras de videovigilancia;
+
+Los lugares, con especificaciones, en que tiene colocadas las cámaras de video vigilancia;
+
+El uso y utilización que se haga de las videocámaras fijas o móviles con que cuente;
+
+El uso y destino del material grabado, particularmente del lugar donde se resguarda;
+
+Dicha información será para la integración del registro estatal de videovigilancia.
+
+Asimismo le serán notificadas las sanciones e infracciones que deriven de la presente ley y las demás obligaciones y principios rectores que deriven de la presente.
+
+QUINTO.- En un plazo de 120 días, contado a partir de la entrada en vigencia del presente decreto, los cinco Ayuntamientos del Estado deberán:
+
+1.- Actualizar sus reglamentos, bandos y disposiciones en materia de seguridad pública y demás relativos y aplicables, para armonizarlos con la Ley de Videovigilancia para Estado de Baja California Sur y la reforma a la Ley del Sistema Estatal de Seguridad Publica de Baja California Sur.
+
+2.- Actualizar sus reglamentos de desarrollo urbano, de fraccionamientos, condominios y conjuntos urbanos y demás relativos y aplicables, para armonizarlos con la Ley de Videovigilancia para Estado de Baja California Sur.
+
+3.- Actualizar sus reglamentos y disposiciones en materia de licencias para establecimientos mercantiles y demás relativos y aplicables, para armonizarlos con la Ley de Videovigilancia para Estado de Baja California Sur.
+
+SEXTO.- Las disposiciones contenidas en los artículos 22, 23 y 24, no serán aplicables para los establecimientos mercantiles, fraccionamientos y condominios existentes, antes de la expedición del presente decreto. Sin embargo, la Secretaria de Seguridad Pública del Estado podrá suscribir convenios de colaboración con ellos, para orientarlos en caso de que sea su deseo cumplir con las disposiciones ahí contenidas.
+
+SEPTIMO.- Por única ocasión, la Comisión Técnica de Video Vigilancia deberá quedar integrada en un término que no excederá de 60 días siguientes a la entrada en vigor del presente decreto.
+
+OCTAVO.- Se derogan todas las disposiciones que se opongan al presente decreto.
