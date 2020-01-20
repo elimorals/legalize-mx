@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2018-12-31"
+last_updated: "2020-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -109,21 +109,27 @@ El Informe será analizado por el Congreso del Estado en sesiones subsecuentes, 
 
 El Congreso sesionará con la concurrencia de más de la mitad de sus integrantes.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
 ###### Artículo 10.
 
-Los. Diputados gozarán del fuero que confiere la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Nuevo León.
+Los Diputados gozan de una libertad absoluta para hablar, en consecuencia, son inviolables por sus opiniones manifestadas en el desempeño de su cargo, sobre las cuales en ningún tiempo pueden ser reconvenidos o juzgados por autoridad alguna. Dicha libertad incluye las expresiones verbales, escritas o en cualquier otra forma que sean manifestadas en el ejercicio del encargo, las que realicen en actos legislativos o en cualquiera de las actuaciones como legisladores y en proclamaciones.
 
-Gozarán de libertad absoluta para manifestarse y en consecuencia son inatacables por las opiniones que manifiesten en el desempeño de su encargo y no podrán ser reconvenidos o juzgados por ellas por autoridad alguna.
+Tendrán la obligación de asistir a las sesiones, integrarse a las Comisiones, Comités y demás actividades legislativas que les encomiende el Pleno del Congreso; así como acatar las disposiciones del Código de Ética para Diputados, que para tal efecto se emita.
 
-Tendrán la obligación de asistir a las sesiones, integrarse a las Comisiones, Comités y demás actividades legislativas que les encomiende el Pleno del Congreso.
-
-Los Diputados son responsables por los delitos que cometan durante el tiempo de su encargo y por las faltas u omisiones en que incurran en el tiempo de su ejercicio, pero no podrán ser aprehendidos ni detenidos ni ejercitarse acción penal en su contra hasta concluído el procedimiento constitucional que decida su desafuero, la separación de su cargo y la sujeción a la acción de los Tribunales Comunes.
+Los Diputados son responsables por los delitos que cometan durante el tiempo de su encargo y por las faltas administrativas en que incurran en el tiempo de su ejercicio en los términos de la legislación aplicable.
 
 ###### Artículo 11.
 
 El Recinto del Congreso es inviolable. Toda fuerza pública está impedida de tener acceso al mismo, salvo en las circunstancias en que el Presidente del Congreso lo determine, en cuyo caso la fuerza pública estará bajo su mando.
 
-El Presidente del Congreso podrá solicitar el apoyo de la fuerza pública o solicitar el cumplimiento de la Ley para salvaguardar el fuero constitucional de los Diputados y la inviolabilidad del Recinto Legislativo.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+El Presidente del Congreso podrá solicitar el apoyo de la fuerza pública o solicitar el cumplimiento de la Ley para salvaguardar la integridad física de los Diputados, personal y los asistentes a las sesiones, así como la inviolabilidad del Recinto Legislativo y las instalaciones del Congreso.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+Se entiende por recinto legislativo el espacio en donde los Diputados llevan a cabo las sesiones del pleno y por instalaciones las áreas en donde se ubican las oficinas y espacios para cumplir con su función legislativa.
 
 ###### Artículo 12.
 
@@ -375,15 +381,13 @@ Los Diputados que integran un Grupo Legislativo tomarán asiento en las curules 
 
 Los Grupos Legislativos dispondrán de locales adecuados en las instalaciones del Congreso, así como Asesores, Personal y elementos materiales necesarios para el cumplimiento de sus funciones de acuerdo con las posibilidades financieras del Congreso.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 49.
 
 Del presupuesto aprobado para la función legislativa se destinarán partidas de gastos para ser dispuestas por cada Grupo Legislativo proporcionalmente al número de Diputados que los integran y de acuerdo a la legislación y reglamentación aplicable y a los lineamientos que emita el Comité de Administración.
 
 Los Grupos Legislativos tendrán el derecho para administrar por sí mismos los recursos financieros que les sean asignados para el cumplimiento de la función legislativa.
-
-El Congreso del Estado abrirá una cuenta bancaria para cada Grupo Legislativo.
 
 La aplicación de los recursos financieros deberá justificarse cumpliendo siempre con las disposiciones administrativas internas de control del gasto que dicte la Tesorería del Congreso.
 
@@ -423,7 +427,9 @@ a) Oficialía Mayor;
 
 b) Tesorería;
 
-c) (DEROGADO, P.O. 25 DE JUNIO DE 2014)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ENERO DE 2020)</small>
+
+c) Contraloría Interna;
 
 d) Centro de Estudios Legislativos;
 
@@ -462,6 +468,14 @@ La Directiva se renovará en la primera sesión de cada año de ejercicio consti
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 Para cubrir las ausencias del Presidente del Congreso se atenderá lo dispuesto en el Artículo 21 del Reglamento para el Gobierno Interior del Congreso. En los casos de los demás integrantes de este órgano de dirección se procederá en base a lo dispuesto en los Artículos 27 y 29 del mismo Reglamento.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+El cargo de Presidente del Congreso es institucional y representa al conjunto de la Legislatura, por lo que podrá optar por no formar parte de las Comisiones de Dictamen Legislativo, Comités o Comisión de Vigilancia previstos por la presente Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+Si la presidencia hubiese recaído en los primeros dos años de la legislatura en diputados del mismo género, el tercer año de la legislatura deberá recaer en un género distinto.
 
 ###### Artículo 53.
 
@@ -515,9 +529,11 @@ Al llegar al término de su cargo los integrantes de la Directiva rendirán al P
 
 Cuando se celebre Período Extraordinario de Sesiones, la Directiva en funciones será la que haya sido electa en términos del artículo 52 de esta Ley para el año que corresponda.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
 ###### Artículo 58.
 
-La Directiva a través del Presidente, hará respetar el fuero constitucional de los miembros integrantes del Congreso, en los términos que señala la Constitución, y velará también por la inviolabilidad del recinto legislativo.
+La Directiva a través del Presidente, hará respetar en todo momento, la integridad física de los Diputados, la inviolabilidad del recinto legislativo y de las instalaciones del Congreso, para ello tendrá el mando de la fuerza pública en el recinto e instalaciones del Congreso.
 
 ###### Artículo 59.
 
@@ -533,7 +549,9 @@ I.- Del Presidente:
 
 a) Ser el Presidente del Congreso durante el período para el que haya sido electo;
 
-b) Hacer respetar el fuero constitucional de los Diputados y velar por la inviolabilidad del Recinto Legislativo;
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+b) Hacer respetar la integridad física de los Diputados, la inviolabilidad del recinto legislativo y las instalaciones del Congreso;
 
 c) Representar al Poder Legislativo en los asuntos de carácter legal y protocolario, pudiendo delegar dicha representación de acuerdo a lo dispuesto en el Reglamento para el Gobierno Interior del Congreso del Estado;
 
@@ -553,7 +571,13 @@ j) Ordenar lo conducente para cumplimentar lo dispuesto en el artículo 63 de la
 
 k) Hacer del conocimiento del Pleno del Congreso, en sesión pública y al final de cada Período de Sesiones, la asistencia e inasistencia de cada uno de los integrantes de la Legislatura a las sesiones del Pleno, de las Comisiones y de los Comités de que formen parte; y
 
-l) Las demás que deriven de esta Ley y del Reglamento para el Gobierno Interior del Congreso.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ENERO DE 2020)</small>
+
+l) Recibir a nombre del Congreso las solicitudes de audiencia pública, para lo cual tendrá un plazo para dar respuesta de hasta 15 días hábiles; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 20 DE ENERO DE 2020)</small>
+
+m) Las demás que deriven de esta Ley y del Reglamento para el Gobierno Interior del Congreso.
 
 II.- De los Vicepresidentes:
 
@@ -857,9 +881,9 @@ III. Puntos Constitucionales;
 
 IV. Justicia y Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
 
-V. Desarrollo Social y Derechos Humanos;
+V.- Desarrollo Social, Derechos Humanos y Asuntos Indígenas;
 
 > <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
@@ -867,9 +891,9 @@ VI. Para la Igualdad de Género;
 
 VII. Educación, Cultura y Deporte;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
 
-VIII. Medio Ambiente;
+VIII.- Medio Ambiente y Desarrollo Sustentable;
 
 > <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
@@ -887,9 +911,9 @@ XI. Comisión de Economía, Emprendimiento y Turismo
 
 XII. Fomento al Campo, Energía y Desarrollo Rural;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
 
-XIII. Desarrollo Sustentable;
+XIII.- Ciencia, Tecnología e Innovación;
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
@@ -959,25 +983,25 @@ Las Comisiones Jurisdiccionales se integrarán en proporción al número de Dipu
 
 Las Comisiones Especiales se integrarán pluralmente por nueve diputados, tomando en consideración la proporcionalidad que cada Grupo Legislativo tiene en el Congreso del Estado, para atender un asunto específico; tendrán un carácter transitorio y al rendir el informe correspondiente se disolverán.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 75.
 
-Las Sesiones de las Comisiones serán públicas, salvo determinación en contrario de la mayoría de sus integrantes. Podrán participar en reuniones de información y audiencia, a invitación de su Presidente, los ciudadanos promoventes de las iniciativas, representantes de grupos de interés, peritos u otras personas que puedan informar sobre el asunto, por acuerdo tomado por la mayoría de sus integrantes. Asimismo, las comisiones podrán a través de la Directiva, convocar a foros u otros eventos de consulta popular.
+Las Sesiones de las Comisiones señaladas en los Capítulos I y II de este Título, serán públicas, documentadas, grabadas y archivadas. Esta información deberá ser pública, para lo cual se hará uso de las tecnologías de la información.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+Podrán participar en reuniones de información y audiencia, a invitación de su Presidente, los ciudadanos promoventes de las iniciativas, representantes de grupos de interés, peritos u otras personas que puedan informar sobre el asunto, por acuerdo tomado por la mayoría de sus integrantes. Asimismo, las comisiones podrán a través de la Directiva, convocar a foros u otros eventos de consulta popular.
 
-En las reuniones de Comisión, podrán participar con derecho a voz y previa autorización de la Comisión de que se trate, los titulares de los Órganos de Soporte Técnico y de Apoyo del Congreso o quienes éstos designen para el caso, cuando el asunto a tratar sea de su competencia.
-
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2003)</small>
+En las reuniones de comisión, podrán participar con derecho a voz y previa autorización de la comisión de que se trate, los titulares de los órganos de soporte técnico y de apoyo del congreso o quienes éstos designen para el caso, cuando el asunto a tratar sea de su competencia.
 
 El Presidente del órgano de trabajo correspondiente, durante el desarrollo de las reuniones del mismo, tendrá las mismas atribuciones que la Ley y el Reglamento otorgan al Presidente del Congreso, relativas a la salvaguarda del orden y respeto al Congreso y a sus integrantes.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 76.
 
-Las sesiones de las Comisiones serán convocadas por su Presidente con por lo menos veinticuatro horas de anticipación, salvo que se trate de asuntos turnados que requieran pronta resolución, en cuyo caso el Presidente deberá justificar esta situación a la Comisión de que se trate. Los integrantes de la Comisión asistirán a ellas con derecho de voz y voto; los Diputados que no formen parte de una Comisión podrán asistir a sus sesiones con derecho de voz, pero sin voto. El Presidente de cada Comisión podrá autorizar la presencia de asesores y personal de apoyo para el desarrollo de los trabajos.
+Las sesiones de las Comisiones serán convocadas por su Presidente con por lo menos cuarenta y ocho horas de anticipación, salvo que se trate de asuntos turnados que requieran pronta resolución, en cuyo caso el Presidente deberá justificar esta situación a la Comisión de que se trate.
+
+Los integrantes de la Comisión asistirán a ellas con derecho de voz y voto; los Diputados que no formen parte de una Comisión podrán asistir a sus sesiones con derecho de voz, pero sin voto. El Presidente de cada Comisión podrá autorizar la presencia de asesores y personal de apoyo para el desarrollo de los trabajos.
 
 ### CAPITULO II. DE LOS COMITES
 
@@ -1029,9 +1053,9 @@ VII.- Recibir del Tesorero, el Informe de la Cuenta Pública del Congreso del Es
 
 VIII.- Conocer de los informes de los Órganos de Soporte Técnico y de Apoyo y en su caso, hacer las recomendaciones correspondientes para la mejora continua de los servicios administrativos;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
 
-IX.- Recomendar a la Tesorería, cuando así lo considere conveniente, la realización de auditorías a los Órganos de Soporte Técnico y de Apoyo;
+IX. Recomendar a la Contraloría Interna, cuando así lo considere conveniente, la realización de auditorías a los Órganos de Soporte Técnico y de Apoyo;
 
 X.- Ordenar la realización de auditorías trimestrales externas a la Tesorería, sobre la administración financiera y contable de los recursos del Congreso;
 
@@ -1131,9 +1155,9 @@ II.- El Tesorero: Informes trimestrales y el Informe de la Cuenta Pública Anual
 
 III.- Los titulares del Centro de Estudios Legislativos y de los Órganos de Apoyo: Informes de actividades que deberán rendirse dentro de los quince días siguientes al inicio y al término de cada período ordinario de sesiones, y los cuales se presentarán ante la Comisión de Coordinación y Régimen Interno y el Comité de Administración. Las Comisiones de Dictamen Legislativo recibirán copia de los informes que rinda el titular del Centro de Estudios Legislativos.
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
 
-IV.- El Titular de la Contraloría: Informe sobre los procedimientos de responsabilidad que haya iniciado o sustanciado derivado de las violaciones a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, así como dar seguimiento a las declaraciones patrimoniales, fiscal y de interés que obliga la Ley.
+IV. El Titular de la Contraloría: Informe sobre los procedimientos de responsabilidad que haya iniciado o sustanciado derivado de las violaciones a la legislación respectiva, por parte de servidores públicos del Congreso, así como dar seguimiento a las declaraciones patrimoniales, fiscal y de interés que obliga la Ley.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
@@ -1161,21 +1185,33 @@ VIII. En ningún caso podrán reunirse en los mismos servidores públicos las fa
 
 Artículo 80 BIS I.- La Contraloría Interna del Poder Legislativo, deberá incluir en sus resoluciones la opinión de un órgano ciudadano, que será nombrado bajo el procedimiento que la Comisión de Coordinación y Régimen Interno determine.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 81.
 
-Para ser titular de la Oficialía Mayor, de la Tesorería o del Centro de Estudios Legislativos del Congreso, se requiere:
+Para ser titular de la Oficialía Mayor, Tesorería, Contraloría Interna o Centro de Estudios Legislativos del Congreso, se requiere:
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
 I.- Tener cuando menos 30 años cumplidos al día de su designación;
 
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
 II.- Contar con título de educación superior y tener experiencia profesional. En el caso del titular del Centro de Estudios Legislativos también será requisito tener estudios de posgrado o experiencia en la investigación de asuntos en materia pública o social;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
 III.- No haber sido condenado mediante sentencia que haya causado ejecutoria, ni estar sujeto a proceso penal, por algún delito doloso; y
 
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
 IV.- Ser designado por el Pleno del Congreso, a propuesta de la Comisión de Coordinación y Régimen Interno.
 
-En el caso del titular de la Oficialía Mayor, se requerirá además, ser ciudadano mexicano por nacimiento y no adquirir otra nacionalidad.
+(NOTA: EL 22 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE MAYO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+En los casos del Titular de la Oficialía Mayor y de la Contraloría Interna, se requerirá además, ser ciudadano mexicano POR NACIMIENTO Y NO ADQUIRIR OTRA NACIONALIDAD.
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1219,11 +1255,11 @@ Por el orden de su designación se ocuparán los cargos de Presidente, Vicepresi
 
 Los cargos señalados serán para todo el Período de Receso.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 85.
 
-La Diputación Permanente tendrá Sesiones Ordinarias los viernes de cada semana a las once horas, salvo acuerdo previo de la misma o que se trate de día feriado, en este último caso la sesión será el día hábil siguiente. Podrá celebrar Sesiones Extraordinarias cualquier día de la semana, previa Convocatoria por escrito signada por el Presidente, o a falta de éste por cinco miembros de la Permanente.
+La Diputación Permanente tendrá Sesiones Ordinarias los miércoles de cada semana a las once horas, salvo acuerdo previo de la misma o que se trate de día feriado, en este último caso la sesión será el día hábil siguiente. Podrá celebrar Sesiones Extraordinarias cualquier día de la semana, previa Convocatoria por escrito signada por el Presidente, o a falta de éste por cinco de sus integrantes propietarios.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2015)</small>
 
@@ -1282,6 +1318,50 @@ El Congreso del Estado contará con tableros de avisos, en los que se registrar�
 I.- La información relativa a la programación de las sesiones de las Comisiones y de los Comités, incluyendo el orden del día, fecha y hora de las sesiones; y
 
 II.- El reporte mensual de la asistencia de los Diputados a las sesiones de los Órganos Legislativos del Congreso señalados en el artículo 50 de esta Ley.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2020)</small>
+
+## TITULO OCTAVO. ORGANO DE DIFUSION
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2020)</small>
+
+### CAPITULO UNICO. DE LA GACETA LEGISLATIVA
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 93.
+
+La Gaceta Legislativa es el instrumento de publicidad del Congreso del Estado, su edición estará a cargo de la Oficialía Mayor.
+
+El contenido de la gaceta tendrá solo efectos informativos, sin que lo publicado se considere con validez legal y efecto vinculatorio, y su publicación será de lunes a viernes.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 94.
+
+La Gaceta Legislativa se publicará en la página de internet del Congreso del Estado y deberá contener:
+
+I. Las iniciativas de Ley presentadas por los sujetos legitimados para ello por la Constitución Política del Estado Libre y Soberano de Nuevo León;
+
+II. Los proyectos de dictamen aprobados por el Pleno del Congreso;
+
+III. Las Convocatorias a reuniones de las Comisiones de Dictamen Legislativo, Comisiones Especiales y Comités;
+
+IV. Los Acuerdos que emita el Pleno;
+
+V. El Orden del Día de las Sesiones del Pleno en periodos ordinarios y extraordinarios y los de la Diputación Permanente;
+
+VI. Las Actas de las Sesiones;
+
+VII. El registro de asistencia de los Diputados;
+
+VIII. Las Convocatorias a mesas de Trabajo;
+
+IX. Los informes de los Diputados que acuden como representantes del Congreso a eventos de carácter legislativo;
+
+X. Las observaciones del Gobernador del Estado a los Decretos aprobados por el Pleno, y
+
+XI. Los demás documentos oficiales que en su momento el Pleno del Congresos (sic) determine su difusión.
 
 ## TRANSITORIOS
 
@@ -1550,3 +1630,17 @@ P.O. 31 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 048. SE REFORMA POR MODIFICACIÓN A LA FRACCIÓN XI DEL ARTÍCULO 70 A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 219. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN; Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN ".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Lo asuntos pendientes que se encuentren en estudio en las Comisiones de Dictamen Legislativo de Medio Ambiente y Desarrollo Sustentable a partir de la entrada en vigor del presente Decreto se entenderá que su dictaminación corresponde a la Comisión aprobada mediante el presente Decreto.
+
+TERCERO.- Dentro de los 6 meses siguientes a la entrada en vigor del presente Decreto, el H. Congreso del Estado deberá emitir el Código de Ética previsto en el artículo 10 del numeral primero de este Decreto.
+
+CUARTO.- El Sistema de Información Legislativa previsto en el artículo 159 BIS 2 y la Plataforma Digital Legislativa contemplada en el artículo 65 ambos del Reglamento para el Gobierno Interior del Congreso del Estado, entrarán en funciones durante los 180 días posteriores a la entrada en vigor al presente Decreto y el Sistema de Información Legislativa contendrá cuando menos toda la información relativa a la LXXV Legislatura, pudiendo de manera posterior adicionar información respecto a Legislaturas anteriores.
+
+QUINTO.- La Gaceta Legislativa empezará a publicarse en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto.
