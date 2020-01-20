@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2019-10-10"
+last_updated: "2020-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ENERO DE 2020.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 4 de mayo de 2016.
 
@@ -1321,25 +1321,31 @@ VIII. Informe anual de actividades;
 
 IX. La calendarización de las sesiones o reuniones públicas de comisiones y las correspondientes minutas o actas de dichas sesiones;
 
-X. La versión estenográfica de las sesiones del Pleno y el registro de asistencia de cada diputado a dichas sesiones, y de las comisiones;
+> <small>(REFORMADA, B.O. 20 DE ENERO DE 2020)</small>
 
-XI. Las resoluciones definitivas sobre juicio político, declaración de procedencia y de sanciones administrativas, una vez que hayan causado ejecutoria;
+X. La información en documento electrónico o digitalizado de las sesiones del Pleno y el registro de asistencia de cada diputado a las sesiones.
 
-XII. Los documentos, convocatorias, eventos, direcciones electrónicas, requisitos de acceso al sistema de cómputo, acervos bibliográficos o hemerográficos y requisitos para su consulta, y demás información que sea considerada relevante o de utilidad, respecto al funcionamiento del Congreso;
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 20 DE ENERO DE 2020)</small>
 
-XIII. Los boletines de prensa emitidos por la Dirección de Comunicación Social y Relaciones Públicas;
+XI. Los documentos generados de las reuniones de trabajo de las Comisiones permanentes en documento electrónico o digitalizado.
 
-XIV. Estadísticas del trabajo parlamentario desarrollado por las comisiones permanentes, así como de los juicios y procedimientos administrativos instaurados por el Congreso del Estado;
+XII. Las resoluciones definitivas sobre juicio político, declaración de procedencia y de sanciones administrativas, una vez que hayan causado ejecutoria;
 
-XV. Las controversias constitucionales entre poderes públicos de la entidad, acciones de inconstitucionalidad y los juicios de amparo en donde se determine la inconstitucionalidad de leyes locales; y
+XIII. Los documentos, convocatorias, eventos, direcciones electrónicas, requisitos de acceso al sistema de cómputo, acervos bibliográficos o hemerográficos y requisitos para su consulta, y demás información que sea considerada relevante o de utilidad, respecto al funcionamiento del Congreso;
+
+XIV. Los boletines de prensa emitidos por la Dirección de Comunicación Social y Relaciones Públicas;
+
+XV. Estadísticas del trabajo parlamentario desarrollado por las comisiones permanentes, así como de los juicios y procedimientos administrativos instaurados por el Congreso del Estado;
+
+XVI. Las controversias constitucionales entre poderes públicos de la entidad, acciones de inconstitucionalidad y los juicios de amparo en donde se determine la inconstitucionalidad de leyes locales; y
 
 > <small>(REFORMADA, B.O. 26 DE MAYO DE 2016)</small>
 
-XVI. Las contrataciones de servicios personales señalando el nombre del prestador del servicio, objeto, monto y vigencia del contrato de los órganos de Gobierno, Comisiones, Comités, Fracciones Parlamentarias y centros de estudio y órganos de investigación;
+XVII. Las contrataciones de servicios personales señalando el nombre del prestador del servicio, objeto, monto y vigencia del contrato de los órganos de Gobierno, Comisiones, Comités, Fracciones Parlamentarias y centros de estudio y órganos de investigación;
 
-> <small>(ADICIONADA, B.O. 26 DE MAYO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 20 DE ENERO DE 2020)</small>
 
-XVII. Cualquiera otra información que sea de utilidad para el ejercicio del derecho a la información pública o la que conforme a la ley tenga que hacerse pública.
+XVIII. Cualquiera otra información que sea de utilidad para el ejercicio del derecho a la información pública o la que conforme a la ley tenga que hacerse pública
 
 ###### Artículo 78.
 
@@ -1373,7 +1379,9 @@ I. Las versiones públicas de las sentencias que sean de interés público;
 
 II. Los programas anuales para la adquisición de bienes, arrendamientos y servicios;
 
-III. Las versiones estenográficas de las sesiones públicas;
+> <small>(REFORMADA, B.O. 20 DE ENERO DE 2020)</small>
+
+III. Las versiones en documento electrónico o digitalizado de las sesiones públicas.
 
 IV. La relacionada con los procesos por medio de los cuales fueron designados los actuarios, secretarios, jueces y magistrados;
 
@@ -1431,7 +1439,9 @@ e) Toda la información con que cuente, relacionada con hechos constitutivos de 
 
 f) La información relacionada con las acciones y resultados de defensa, promoción y protección de los derechos humanos;
 
-g) Las actas y versiones estenográficas de las sesiones del Consejo Consultivo, así como las opiniones que emite;
+> <small>(REFORMADO, B.O. 20 DE ENERO DE 2020)</small>
+
+g) Las actas de las sesiones del Consejo Consultivo, así como las opiniones que emite en documento electrónico o digitalizado;
 
 h) Los resultados de los estudios, publicaciones o investigaciones que realicen;
 
@@ -1471,7 +1481,9 @@ b) La relación de observaciones y resoluciones emitidas y el seguimiento a cada
 
 c) Los criterios orientadores que deriven de sus resoluciones;
 
-d) Las actas de las sesiones del Pleno y las versiones estenográficas;
+> <small>(REFORMADO, B.O. 20 DE ENERO DE 2020)</small>
+
+d) La versión publica de las actas de las sesiones del Pleno en documento electrónico o digitalizado;
 
 e) Los resultados de la evaluación al cumplimiento de la presente Ley por parte de los sujetos obligados;
 
@@ -1487,7 +1499,9 @@ a) Las versiones públicas de las sentencias;
 
 b) Los programas anuales para la adquisición de bienes, arrendamientos y servicios;
 
-c) Las versiones estenográficas de las sesiones públicas;
+> <small>(REFORMADO, B.O. 20 DE ENERO DE 2020)</small>
+
+c) Las actas de las sesiones públicas en documento electrónico o digitalizado;
 
 d) La relacionada con los procesos por medio de los cuales fueron designados los actuarios, secretarios y magistrados;
 
@@ -1496,6 +1510,26 @@ e) La información estadística semestral, que contendrá el número total de as
 f) La información estadística semestral, que contendrá el número desglosado del total de sentencias elaboradas, y
 
 g) El total de sesiones del Pleno del Tribunal celebradas.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], B.O. 20 DE ENERO DE 2020)</small>
+
+VI. El Tribunal de Justicia Administrativa:
+
+a) Las versiones públicas en documento electrónico o digitalizado de las resoluciones y sentencias, que sean de interés público;
+
+b) Criterios y Precedentes;
+
+c) La relacionada con los procesos por medio de los cuales fueron designados los actuarios y secretarios y como fueron elegidos los magistrados que lo integran;
+
+d) La lista de acuerdos que diariamente se publiquen y la lista de acuerdo del pleno;
+
+e) La información estadística semestral, que contendrá el número total de asuntos iniciados por sala, los que fueron resueltos, incluyendo el porcentaje de los pendientes de resolución;
+
+f) La información estadística semestral, de las sentencias en las que se concedió el amparo y protección de la justicia federal, diferenciando aquéllas que implicaron modificaciones de forma y cuáles de fondo así como la concesión lisa y llana, de plano, para efectos y sobreseídos;
+
+g) El total de sesiones del Pleno del Tribunal celebradas mensual y/o semestralmente, tanto ordinarias como extraordinarias, y
+
+h) Los programas anuales para la adquisición de bienes, arrendamientos y servicios.
 
 ###### Artículo 81.
 
@@ -2858,3 +2892,19 @@ B.O. 10 DE OCTUBRE DE 2019.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 20 DE ENERO DE 2020.
+
+> <small>[N. DE E. TRANSITORIOS “DECRETO 2695 SE ADICIONA UNA FRACCIÓN VI Y RESPECTIVOS INCISOS DE LA A) A LA H) AL ARTÍCULO 80 A (SIC) LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR”.]</small>
+
+Artículo Primero.- Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- El presente Decreto entrara en vigor el 15 de enero de 2020, lo anterior para que el Tribunal de Justicia Administrativa del Estado de Baja California Sur, tome la (sic) previsiones administrativas necesarias para su cumplimiento.
+
+Artículo Tercero.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+B.O. 20 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2694 SE REFORMAN LAS FRACCIONES X, XI Y SE RECORREN LAS SUBSECUENTES, ADICIONÁNDOSE LA FRACCIÓN XVIII AL ARTÍCULO 77, Y SE REFORMAN LA FRACCIÓN III DEL ARTÍCULO 79, ASÍ COMO EL INCISO G) DE LA FRACCIÓN II, INCISO D) DE LA FRACCIÓN IV E INCISO C) DE LA FRACCIÓN V, AL ARTÍCULO 80, TODOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+UNICO.- Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el cual entrara en vigor al día siguiente al de su publicación.
