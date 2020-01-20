@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2018-12-31"
+last_updated: "2020-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE FEBRERO DE 2020 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2020.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -111,11 +113,11 @@ Esta declaración será materia de un Decreto que sin más trámite se expedirá
 
 ### CAPITULO III. DE LOS DIPUTADOS
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 13.
 
-Los Diputados asistirán a las reuniones de las Comisiones, de los Comités y a las sesiones del Pleno con puntualidad y permanecerán en ellas hasta su conclusión y guardarán el decoro propio de los representantes de un Estado Libre y Soberano.
+Los Diputados asistirán de manera obligatoria a las reuniones de las Comisiones, de los Comités y a las sesiones del Pleno con puntualidad y permanecerán en ellas hasta su conclusión y guardarán el decoro propio de los representantes de un Estado Libre y Soberano.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
 
@@ -171,7 +173,9 @@ Para los efectos de ésta fracción los Presidentes, de los órganos mencionados
 
 II. Por enfermedad, justificada mediante la constancia médica respectiva;
 
-III. Por gestación y maternidad; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+
+III. Por gestación y maternidad, paternidad o adopción; y
 
 IV. Por el fallecimiento de algún miembro de la familia, hasta en cuarto grado.
 
@@ -255,9 +259,7 @@ Los recursos que se obtengan por este concepto serán destinados al objeto que d
 
 ###### Artículo 19.
 
-Todos los Diputados gozan del fuero que les confiere la Constitución Políticas del Estado de Nuevo León y éste solo se perderá por acuerdo expreso del Congreso para lo cual se realizará una Sesión Secreta en la que se dará vista del expediente formado, se emitirá un dictamen por una Comisión Jurisdiccional y se acordará por mayoría absoluta, si ha o no lugar al desafuero.
-
-En caso de desafuero se acordará la separación del cargo y se llamará al Suplente.
+(DEROGADO, P.O. 20 DE ENERO DE 2020)
 
 ## TITULO SEGUNDO. ORGANOS DE DIRECCION
 
@@ -301,9 +303,9 @@ I.- Abrir y cerrar la sesión;
 
 II.- Cuidar que tanto los Diputados como las personas asistentes a las sesiones, guarden compostura en ellas;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
 
-III.- Dar curso legal y dictar los acuerdos que deban recaer sobre los asuntos que son competencia del Congreso, turnando a Comisiones los que estuvieren debidamente integrados y si no lo estuvieren, apercibir al promovente a fin de que la omisión sea subsanada;
+III.- Dar curso legal y dictar los acuerdos que deban recaer sobre los asuntos que son competencia del Congreso, turnando a Comisiones los que estuvieren debidamente integrados y si no lo estuvieren, apercibir al promovente a fin de que la omisión sea subsanada. Para el turno del asunto se podrá tomar en cuenta la solicitud del promovente;
 
 IV.- Determinar el orden de discusión de los asuntos que deban tratarse en cada sesión, dando preferencia a los que considere de interés general, a no ser que la Asamblea, a moción de alguno de los Diputados, determine un orden distinto;
 
@@ -325,7 +327,7 @@ IX.- Firmar conjuntamente con los Secretarios, el acta de cada sesión inmediata
 
 X.- Cuando sea oportuno, dará aviso a los Poderes Ejecutivo y Judicial, directamente o por conducto de la Secretaría, de la fecha de discusión de algún proyecto de Ley, y serán oídos en su caso los servidores públicos a que se refiere el Artículo 62 de la Constitución Política Local, con arreglo al mismo;
 
-XI.- Citar a sesión secreta en los casos que así corresponda;
+XI.- (DEROGADA, P.O. 20 DE ENERO DE 2020)
 
 XII.- Declarar que no hay quórum para celebrar sesión, ordenando a la Secretaría expida excitativa a los faltantes para que concurran con regularidad;
 
@@ -391,9 +393,9 @@ II.- En forma conjunta e independientemente de su orden:
 
 a) Cuidar escrupulosamente que todos los documentos de los que se de cuenta a la Asamblea estén debidamente firmados, en el acto mismo de su aprobación;
 
-b) Formar expedientes de cada uno de los diferentes asuntos que se ventilen en el Congreso, asentando los trámites que se den a las resoluciones que sobre los mismos se tomen, con expresión de la fecha de cada uno, y cuidar que no se alteren en forma alguna las proposiciones o proyectos de ley, una vez que haya comenzado el conocimiento de los mismos por la Asamblea. En caso de que el ponente desee hacer alguna modificación, debe cuidarse por la Secretaría que la misma sea conocida oportunamente por la Comisión dictaminadora y en su caso, por todos los demás Diputados;
+b) (DEROGADO, P.O. 20 DE ENERO DE 2020)
 
-c) Además de los expedientes a que se refiere el inciso anterior, la Secretaría llevará un libro en que se asiente, por orden cronológico razón de las leyes, decretos y acuerdos que expida el Congreso, auxiliándose a tal efecto de la Oficialía Mayor;
+c) (DEROGADO, P.O. 20 DE ENERO DE 2020)
 
 d) Vigilar el trabajo que lleve a cabo el Oficial Mayor del Congreso y previo acuerdo con el Presidente, ordenar lo que proceda; y
 
@@ -481,7 +483,9 @@ I.- Comisión de Gobernación y Organización Interna de los Poderes:
 
 a) Los relacionados con la extensión territorial y límites municipales;
 
-b) Las controversias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia, así como los conflictos entre autoridades del Estado;
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+b) Mediar en caso de controversia política que se suscite entre el Ejecutivo y el Poder Judicial, entre el Ejecutivo y un Organismo constitucional autónomo o entre el Ejecutivo y un Municipio; entre dos o más Municipios o entre un Municipio y un organismo constitucional autónomo. Cualquier ente público involucrado podrá solicitar la intervención del Congreso en caso de controversia.
 
 c) Las renuncias y licencias del Titular del Poder Ejecutivo y de los Diputados;
 
@@ -503,11 +507,15 @@ j) La elevación de villas a categoría de ciudades;
 
 k) La designación de Concejos Municipales;
 
-l) La declaratoria para proveer la vacante de los miembros del Ayuntamiento y la designación de Presidente Municipal Sustituto;
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+l) La designación de Presidente Municipal Sustituto en el Municipio que corresponda;
 
 m) Lo relativo a la creación de empleos y oficinas que requiera la Administración Pública del Estado, así como la supresión de éstos cuando cese su necesidad;
 
-n) Las iniciativas relacionadas con la organización y estructura de los Poderes Ejecutivo y Judicial;
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+n) Las iniciativas relacionadas con la organización y estructura de la Administración Pública del Estado;
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
 
@@ -535,7 +543,9 @@ e) Las reformas a la Ley de Gobierno Municipal y a las bases generales a las que
 
 f) Las reformas relativas a la Ley Orgánica del Poder Legislativo y su Reglamento;
 
-g) La expedición y reforma a la legislación civil, en su aspecto sustantivo y adjetivo;
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+g) La expedición y reforma a la legislación civil;
 
 h) Los relativos a la vigilancia del cumplimiento de la Constitución Política del Estado y de las leyes emanadas de la misma;
 
@@ -563,25 +573,29 @@ d) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 i) (sic) Las leyes que establezcan y regulen los temas integrales en materia de tratamiento penal, así como el funcionamiento de los cuerpos de seguridad pública, privada, de protección civil y bomberos;
 
-> <small>[N. DE E. REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016]</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ENERO DE 2020)</small>
 
-IV.- Comisión de Justicia y Seguridad Pública:
+VI (SIC).- Comisión de Justicia y Seguridad Pública:
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-a) La expedición y reforma de la legislación penal, en su aspecto sustantivo y adjetivo;
+a) La expedición y reforma de la legislación penal;
 
-b) La expedición y reforma de las leyes relativas al Poder Judicial y a la Procuraduría General de Justicia;
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2002)</small>
+b) La expedición y reforma a las leyes relativas al Poder Judicial, a la Fiscalía General de Justicia del Estado y a la Fiscalía Especializa (sic) en Combate a la Corrupción;
 
-c) Los nombramientos, licencias y renuncias de los Magistrados del Tribunal Superior de Justicia y de los Consejeros de la Judicatura del Estado; además de la aprobación para la designación del Presidente de la Comisión Estatal de Derechos Humanos, y su renuncia;
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-(REFORMADO, P.O. 25 DE JUNIO DE 2014) (F. DE E., 19 DE AGOSTO DE 2015)
+c) Los nombramientos, licencias y renuncias de los Magistrados del Tribunal Superior de justicia y de los Consejeros de la Judicatura del Estado;
 
-d) La aprobación para la designación de los Magistrados del Tribunal de Justicia Administrativa para el Estado y Municipios;
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-e) La aprobación para la designación del Procurador General de Justicia del Estado;
+d) La aprobación para la designación de los Magistrados del Tribunal de Justicia Administrativa del Estado,
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+e) La designación, renuncia y en su caso remoción del Fiscal General de Justicia del Estado, del Fiscal Especializado en Combate a la Corrupción y del Fiscal Especializado en Delitos Electorales;
 
 f) Los casos relativos a la concesión de amnistía por delitos políticos;
 
@@ -589,15 +603,15 @@ g) (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2015)
 
 h) Las iniciativas relativas al orden público, la seguridad y la tranquilidad de las personas;
 
-i) Las leyes que establezcan y regulen los temas integrales en materia de tratamiento penal, así como el funcionamiento de los cuerpos de seguridad pública, privada y de protección civil; y
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE DICIEMBRE DE 2007)</small>
+i) Las Leyes en materia de seguridad pública, seguridad privada y de protección civil y bomberos;
 
-j) La expedición y reforma de la legislación en materia de justicia para adolescentes; y
+j) (DEROGADO, P.O. 20 DE ENERO DE 2020)
 
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-k) Por medio de su Presidente, participar en los trabajos de implementación sobre el sistema de justicia, que sean organizados por las diversas autoridades de gobierno, instituciones, o cualquier otro organismo, y
+k) Por medio de su Presidente, participar en los trabajos de consolidación sobre el sistema de justicia, que sean organizados por las diversas autoridades de gobierno, instituciones, o cualquier otro organismo;
 
 > <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2014)</small>
 
@@ -605,9 +619,9 @@ l) La expedición y reforma de las leyes en materia de responsabilidades de los 
 
 m) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-(REFORMADA, P.O. 1 DE OCTUBRE DE 2003) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ENERO DE 2020)</small>
 
-V.- Desarrollo Social y Derechos Humanos:
+V.- Comisión de Desarrollo Social, Derechos Humanos y Asuntos Indígenas:
 
 a) Las iniciativas relativas a la protección, defensa y conservación de los derechos humanos;
 
@@ -621,7 +635,9 @@ e) Las iniciativas relativas al establecimiento de acciones o programas tendient
 
 f) Las iniciativas encaminadas a establecer programas educativos dirigidos a los habitantes de zonas marginadas y por vías no formales;
 
-g) Representar al Congreso ante los organismos e instancias de Derechos Humanos estatales, nacionales e internacionales;
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+g) La designación y renuncia del Presidente de la Comisión Estatal de Derechos Humanos, así como representar al Congreso ante los organismos e instancias de Derechos Humanos estatales, nacionales e internacionales
 
 h) Coordinarse con otra u otras comisiones para tratar temas comunes o relacionados con sus atribuciones;
 
@@ -633,9 +649,7 @@ i) Dar cauce y contestación a las peticiones de personas que soliciten la inter
 
 j) Las iniciativas y asuntos relativos a los derechos y al mejoramiento de la calidad de vida de los indígenas del Estado;
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
-
-k) Las iniciativas y asuntos relativos a los derechos y al mejoramiento de la calidad de vida de los indígenas del Estado;
+k) (DEROGADO, P.O. 20 DE ENERO DE 2020)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
@@ -685,13 +699,9 @@ d) Lo concerniente a la dispensa de honores a la memoria de los Nuevoleoneses qu
 
 e) Las iniciativas relativas al fortalecimiento de actividades deportivas;
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE DICIEMBRE DE 2007)</small>
+f). (DEROGADO, P.O. 20 DE ENERO DE 2020)
 
-f) Las iniciativas en materia de ciencia y tecnología del Estado;
-
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2011)</small>
-
-g) Lo relativo al desarrollo y fomento de la investigación científica y tecnológica en el Estado;
+g). (DEROGADO, P.O. 20 DE ENERO DE 2020)
 
 > <small>(ADICIONADO, P.O. 20 DE MAYO DE 2011)</small>
 
@@ -701,9 +711,9 @@ h) Organizar y llevar a cabo anualmente el Parlamento Infantil del Estado de Nue
 
 i) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ENERO DE 2020)</small>
 
-VIII.- Comisión de Medio Ambiente:
+VIII.- Comisión de Medio Ambiente y Desarrollo Sustentable.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
@@ -717,9 +727,9 @@ b) La legislación relativa al agua potable, saneamiento y tratamiento del agua,
 
 c) La legislación relativa a la protección de los animales;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-d) Lo referente al cumplimiento a la Ley de Desarrollo Urbano y demás leyes, en lo concerniente al aspecto ambiental;
+d) Lo referente al cumplimiento de la legislación en materia de desarrollo urbano y demás leyes, en lo concerniente al aspecto ambiental;
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
@@ -729,19 +739,47 @@ e) Representar al Congreso ante las autoridades ambientales en los temas materia
 
 f) Coordinarse con otra u otras comisiones para tratar temas comunes o relacionados con sus atribuciones; y
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-g) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+g) Las iniciativas referentes a la legislación en materia de cambio climático;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ENERO DE 2020)</small>
+
+h) Las iniciativas sobre la promoción y fomento del desarrollo sustentable de los sectores social y productivo en el Estado;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ENERO DE 2020)</small>
+
+i) Lo concerniente al derecho a vivir en un medio ambiente adecuado para el desarrollo de la persona, así como del deber de conservarlo;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ENERO DE 2020)</small>
+
+j) Los asuntos referentes a la sustentabilidad del desarrollo económico, social, cultural, energético, ambiental y científico;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ENERO DE 2020)</small>
+
+k) Los temas relacionados con los bienes y servicios ambientales para el mantenimiento de los ecosistemas, la diversidad biológica y las cuencas hidrológicas;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ENERO DE 2020)</small>
+
+l) Los asuntos relacionados con la promoción del desarrollo sustentable, tales como la educación ambiental, ecoeficiencia, salud ocupacional, ecoturismo, transporte alternativo, vivienda ecológica, y todas aquellas que persigan objetivos en este sentido; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ENERO DE 2020)</small>
+
+m) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 (REFORMADA, P.O. 2 DE NOVIEMBRE DE 2006) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
 
 IX.- Comisión de Desarrollo Urbano:
 
-a) La legislación relativa a asentamientos humanos, ordenamiento territorial y vivienda en el Estado;
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+a) La legislación relativa a asentamientos humanos, ordenamiento territorial, desarrollo urbano y vivienda en el Estado;
 
 b) Lo relativo al examen y aprobación de obras de pública utilidad del Estado;
 
-c) Las desafectaciones y autorizaciones para enajenar o gravar los bienes inmuebles del Estado;
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+c) Las desafectaciones y autorizaciones para enajenar o gravar los bienes inmuebles del Estado, y/o las concesiones de los bienes inmuebles de los Municipios, en los términos de la normatividad en la materia;
 
 d) Lo concerniente al desarrollo y planificación de centros de población alternos al área metropolitana de Monterrey para reordenar el desarrollo regional;
 
@@ -845,27 +883,33 @@ k) Incentivar en coordinación con los órdenes de gobierno la atracción de inv
 
 l) Los demás asuntos e iniciativas que el Pleno le encomiende.
 
-(ADICIONADA, P.O. 1 DE OCTUBRE DE 2003) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 20 DE ENERO DE 2020)</small>
 
-XIII.- Comisión de Desarrollo Sustentable:
+XIII.- Comisión de Ciencia, Tecnología e Innovación:
 
-a) Las iniciativas sobre la promoción y fomento del desarrollo sustentable de los sectores social y productivo en el Estado;
+a) Lo referente a la creación, organización, y funcionamiento de instituciones científicas y tecnológicas, así como el fomento y promoción de la ciencia y tecnología e innovación;
 
-b) Lo concerniente al derecho a vivir en un medio ambiente adecuado para el desarrollo de la persona, así como del deber de conservarlo;
+b) Las iniciativas y reformas a las leyes en materia de ciencia y tecnología;
 
-c) Los asuntos referentes a la sustentabilidad del desarrollo económico, social, cultural, energético, ambiental y científico;
+c) Proponer al Titular del Ejecutivo Estatal, las reformas legales o administrativas para estímulos fiscales, y para reducir o eliminar las barreras regulatorias, presupuestales, administrativas y financieras que obstaculicen el desarrollo científico, tecnológico y de innovación en el Estado;
 
-d) Los temas relacionados con los bienes y servicios ambientales para el mantenimiento de los ecosistemas, la diversidad biológica y las cuencas hidrológicas;
+> <small>[N. DE E. EL CONTENIDO DEL PRESENTE INCISO ES IDÉNTICO AL CONTENIDO DEL INCISO C), VÉASE PUBLICACIÓN OFICIAL DE FECHA 20 DE ENERO DE 2020.]</small>
 
-e) Los asuntos relacionados con la promoción del desarrollo sustentable, tales como la educación ambiental, ecoeficiencia, salud ocupacional, ecoturismo, transporte alternativo, vivienda ecológica, y todas aquellas que persigan objetivos en este sentido;
+d) Proponer al Titular del Ejecutivo Estatal, las reformas legales o administrativas para estímulos fiscales, y para reducir o eliminar las barreras regulatorias, presupuestales, administrativas y financieras que obstaculicen el desarrollo científico, tecnológico y de innovación en el Estado;
 
-f) Dar cauce y contestación a las peticiones ciudadanas, así como hacer del conocimiento de las autoridades competentes los asuntos que le sean turnados;
+e) Las iniciativas y reformas que tengan como fin el Impulsar el desarrollo científico, tecnológico y de innovación a través del fortalecimiento de los sectores sociales, económicos y ambientales del Estado;
 
-g) Representar al Congreso ante los organismos gubernamentales, del sector productivo, ambiental y de la sociedad civil;
+f) Las iniciativas y reformas encaminadas a cambiar y mejorar los paradigmas y prácticas en materia de sostenibilidad por medio de la innovación, ciencia y la tecnología;
 
-h) Coordinarse con otra u otras comisiones para tratar temas comunes o relacionados con sus atribuciones; y
+g) Las iniciativas y reformas encaminadas a identificar, organizar y crear o modificar las normas de ejecución de los estudios científicos públicos y privados que existen en el Estado;
 
-i) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+h) Conocer los planes estatales de desarrollo en materia de ciencia, tecnología y de innovación se apliquen en el Estado de Nuevo León;
+
+i) Fomentar la celebración de foros de consulta, exposiciones y exhibiciones de ciencia, tecnología y de innovaciones, con la finalidad de fomentar la cultura científica y tecnológica en el Estado;
+
+j) Divulgar las normas en materia de ciencia, tecnología e innovación en las Universidades e Instituciones Públicas o Privadas, en asuntos que sean competencia el Estado, y
+
+k) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 (ADICIONADA, P.O. 1 DE OCTUBRE DE 2003) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
 
@@ -895,7 +939,7 @@ i) Los demás asuntos e iniciativas que el Congreso le encomiende.
 
 (REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2006) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
 
-XV. Comisión de Salud y Atención a Grupos Vulnerables:
+XV.- Comisión de Salud y Atención a Grupos Vulnerables:
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
@@ -945,83 +989,129 @@ l) Los demás asuntos e iniciativas que el Pleno del Congreso le encomienden.
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-XVI. Comisión de Hacienda del Estado:
+XVI.- Comisión de Hacienda del Estado:
 
-a) Lo relativo a la revisión y en su caso aprobación de las Cuentas Públicas del Gobierno Central, entidades paraestatales, Poder Legislativo, Poder Judicial del Estado y los diversos organismos autónomos;
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+a) Lo relativo a la revisión y en su caso aprobación o rechazo de las cuentas públicas del Gobierno Central, Organismos Descentralizados y Fideicomisos Públicos del Poder Ejecutivo, Poder Legislativo, Poder Judicial, Organismos Autónomos e Instituciones Públicas de Educación Superior del Estado;
 
 b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-(REFORMADA, P.O. 9 DE ABRIL DE 1999) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 20 DE ENERO DE 2020)</small>
 
 XVII.- Comisión Primera de Hacienda y Desarrollo Municipal:
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+Lo relativo a los siguientes asuntos de los Municipios de Arramberri, Doctor Arroyo, Galeana, General Zaragoza, Guadalupe, Iturbide, Mier y Noriega y Monterrey, Nuevo León:
 
-a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de los Municipios de Aramberri, Doctor Arroyo, Galeana, General Zaragoza, Guadalupe, Iturbide, Mier y Noriega, y Monterrey, Nuevo León, y la aprobación o rechazo de las propuestas de los valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria que presenten tales Ayuntamientos; y
+a) La revisión y en su caso aprobación o rechazo de sus Cuentas Publicas;
 
-b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+b) La aprobación o rechazo de sus propuestas de valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
-(REFORMADA, P.O. 9 DE ABRIL DE 1999) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
+c) Lo concerniente a la expedición de sus presupuestos de ingresos;
+
+d) La aprobación o rechazo de su solicitud de financiamientos u obligaciones financieras con los mismos; y
+
+e) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 20 DE ENERO DE 2020)</small>
 
 XVIII.- Comisión Segunda de Hacienda y Desarrollo Municipal:
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+Lo relativo a los siguientes asuntos de los Municipios de Allende, Apodaca, Cadereyta Jiménez, general Terán, Hualahuises, Linares, Montemorelos, Rayones y Santiago, Nuevo León:
 
-a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de los Municipios de Allende, Apodaca, Cadereyta Jiménez, General Terán, Hualahuises, Linares, Montemorelos, Rayones y Santiago, Nuevo León, y la aprobación o rechazo de las propuestas de los valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria que presenten tales Ayuntamientos; y
+a) La revisión y en su caso aprobación o rechazo de sus Cuentas Publicas;
 
-b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+b) La aprobación o rechazo de sus propuestas de valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
-(REFORMADA, P.O. 9 DE ABRIL DE 1999) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
+c) Lo concerniente a la expedición de sus presupuestos de ingresos;
+
+d) La aprobación o rechazo de su solicitud de financiamientos u obligaciones financieras con los mismos; y
+
+e) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 20 DE ENERO DE 2020)</small>
 
 XIX.- Comisión Tercera de Hacienda y Desarrollo Municipal:
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+Lo relativo a los siguientes asuntos de los Municipios de Anáhuac, Bustamante, General Escobedo, Lampazos de naranjo, Sabinas Hidalgo, San Nicolás de los Garza, Vallecillo y Villaldama, Nuevo León:
 
-a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de los Municipios de Anáhuac, Bustamante, General Escobedo, Lampazos de Naranjo, Sabinas Hidalgo, San Nicolás de los Garza, Vallecillo y Villaldama, Nuevo León, y la aprobación o rechazo de las propuestas de los valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria que presenten tales Ayuntamientos; y
+a) La revisión y en su caso aprobación o rechazo de sus Cuentas Publicas;
 
-b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+b) La aprobación o rechazo de sus propuestas de valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
-(ADICIONADA, P.O. 8 DE OCTUBRE DE 2001) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
+c) Lo concerniente a la expedición de sus presupuestos de ingresos;
+
+d) La aprobación o rechazo de su solicitud de financiamientos u obligaciones financieras con los mismos; y
+
+e) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 20 DE ENERO DE 2020)</small>
 
 XX.- Comisión Cuarta de Hacienda y Desarrollo Municipal:
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+Lo relativo a los siguientes asuntos de los Municipios de Agualeguas, Cerralvo, China, Doctor Coss, Doctor González, General Bravo, General Treviño, Juárez, Los Aldamas, Los Herreras, Los Ramones, Marín, Melchor Ocampo, Paras y Pesquería, Nuevo León:
 
-a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de los Municipios de Agualeguas, Cerralvo, China; Doctor Coss; Doctor González, General Bravo, General Treviño, Juárez, Los Aldamas, Los Herreras, Los Ramones, Marín, Melchor Ocampo, Parás y Pesquería, Nuevo León, y la aprobación o rechazo de las propuestas de los valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria que presenten tales Ayuntamientos; y
+a) La revisión y en su caso aprobación o rechazo de sus Cuentas Publicas;
 
-b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+b) La aprobación o rechazo de sus propuestas de valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
-(ADICIONADA, P.O. 8 DE OCTUBRE DE 2001) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
+c) Lo concerniente a la expedición de sus presupuestos de ingresos;
+
+d) La aprobación o rechazo de su solicitud de financiamientos u obligaciones financieras con los mismos; y
+
+e) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 20 DE ENERO DE 2020)</small>
 
 XXI.- Comisión Quinta de Hacienda y Desarrollo Municipal:
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+Lo relativo a los siguientes asuntos de los Municipios de Abasolo, El Carmen, Ciénega de Flores, García, General Zuazua, Hidalgo, Higueras, Mina, Salinas Victoria, San Pedro Garza García y Santa Catarina, Nuevo León:
 
-a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de los Municipios de Abasolo, El Carmen, Ciénega de Flores, García, General Zuazua, Hidalgo, Higueras, Mina, Salinas Victoria, San Pedro Garza García y Santa Catarina, Nuevo León, y la aprobación o rechazo de las propuestas de los valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria que presenten tales Ayuntamientos; y
+a) La revisión y en su caso aprobación o rechazo de sus Cuentas Publicas;
 
-b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+b) La aprobación o rechazo de sus propuestas de valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
-(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
+c) Lo concerniente a la expedición de sus presupuestos de ingresos;
+
+d) La aprobación o rechazo de su solicitud de financiamientos u obligaciones financieras con los mismos; y
+
+e) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 20 DE ENERO DE 2020)</small>
 
 XXII.- Comisión Anticorrupción:
 
-a) Dictaminar los asuntos en matéria de Juicio Político o Declaración de Procedencia, cuando no se nombre una Comisión Jurisdiccional; y
+a) Dictaminar los Asuntos en materia de Juicio Político cuando no se nombre una comisión jurisdiccional;
 
-b) Los demás asuntos e iniciativas que el Pleno del Congreso encomiende.
+b) La legislación y asuntos relacionados con el Sistema Estatal Anticorrupción;
 
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+c) Los asuntos relacionados con hechos de corrupción; y
 
-XXIII.- Comisión de Presupuesto.
+d) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-a) Lo concerniente a la expedición de la Ley de Ingresos y del Presupuesto de Egresos del Estado;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ENERO DE 2020)</small>
 
-b) Lo relativo a la asignación y supresión de los sueldos de la Administración Pública del Estado;
+XXIII.- Comisión de Presupuesto
 
-c) La expedición y reforma de la Ley de Hacienda del Estado y cualquier otra que genere un gravamen o carga fiscal;
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-d) La autorización en su caso, para contratar empréstitos, cuando en garantía se afecten los bienes inmuebles del Estado;
+a) Lo concerniente a la expedición de las Leyes en materia de Ingresos y Egresos del Estado;
 
-e) La propuesta que haga el Ejecutivo para el nombramiento del Secretario de Finanzas y Tesorero General del Estado; y
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 20 DE ENERO DE 2020)</small>
+
+b) La expedición y reforma de la Ley de Hacienda del Estado y cualquier otra que genere un gravamen o carga fiscal;
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+c) La expedición y reforma de las leyes en materia de Ingresos y Hacienda de los Municipios;
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+d) La autorización en su caso, para contratar financiamientos u obligaciones financieras por parte del Gobierno Central, organismos descentralizados o fideicomisos públicos del Estado;
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+e) La propuesta que presente el Ejecutivo para el nombramiento del Secretario de Finanzas y Tesorero General del Estado; y
 
 f) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
@@ -1061,9 +1151,11 @@ La Comisión de Vigilancia tiene el carácter de Permanente, se integrará en lo
 
 Las Comisiones Jurisdiccionales serán temporales, se integrarán por once Diputados que serán designados por el Pleno en el momento en que un asunto de su competencia lo amerite.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
 ###### Artículo 42.
 
-Las Comisiones Jurisdiccionales a que se refiere el Artículo 72 de la Ley Orgánica del Poder Legislativo conocerán y dictaminarán de los asuntos sobre Responsabilidad de los Servidores Públicos como lo establece el Título Séptimo de la Constitución Política Local y los Artículos 5, 6 y 7 de la Ley de Responsabilidades de los Servidores Públicos para el Estado de Nuevo León sobre juicios políticos, así mismo de las solicitudes para el desafuero de los miembros de la Legislatura.
+Las Comisiones Jurisdiccionales a que se refiere el Artículo 72 de la Ley Orgánica del Poder Legislativo conocerán y dictaminarán de los asuntos sobre juicio político que establece el artículo 110 de la Constitución Política del Estado y la legislación de la materia.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -1079,27 +1171,19 @@ La Comisión de Educación, Cultura y Deporte será la encargada de emitir las b
 
 Las Comisiones Especiales serán designadas por la Asamblea conforme lo establece el Artículo 74 de la Ley Orgánica del Poder Legislativo, y se integrarán por un Presidente, un Vice-Presidente, un Secretario y seis Vocales, y se encargarán exclusivamente de atender el asunto para el cual fueron nombradas.
 
-> <small>N. DE E. SE TRANSCRIBE POR SU IMPORTANCIA EL ARTÍCULO ÚNICO DEL DECRETO No. 36, PUBLICADO EN EL P.O. 31 DE ENERO DE 2001:</small>
-
-EL TERMINO "INTERES" A QUE SE REFIERE EL PRESENTE, COMO CAUSA PARA QUE UN DIPUTADO SE EXCUSE DE INTERVENIR EN LOS ASUNTOS COMPETENCIA DE LAS COMISIONES Y DEL PLENO, DEBE ENTENDERSE SOLO EN LOS CASOS EN QUE REPRESENTE O PUEDA REPRESENTAR UN BENEFICIO PERSONAL, INDIVIDUAL O DIRECTO, PARA SI MISMO O PARA ALGUN GRUPO DE PERSONAS CONSIDERADAS INDIVIDUALMENTE.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 45.
 
-Cuando algún miembro de cualquiera de las Comisiones tuviere interés en el asunto que les haya sido turnado para su estudio, se excusará y la Asamblea designará a la persona que deba sustituirlo para ese asunto, excepción hecha en aquellos casos en que la comisión conozca de un proyecto o iniciativa suscrito mediante Acuerdo Legislativo por unanimidad.
+Cuando algún miembro de cualquiera de las Comisiones tuviere interés en el asunto que les haya sido turnado para su estudio, se excusará de la discusión y votación del mismo, lo cual quedará registrado y la Asamblea designará a la persona que deba sustituirlo para ese asunto, excepción hecha en aquellos casos en que la comisión conozca de un proyecto o iniciativa suscrito mediante Acuerdo Legislativo por unanimidad.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 46.
 
-El Presidente de cada Comisión es responsable de los expedientes turnados a ella para su estudio y a este efecto, deberá firmar el recibo de ellos en el libro de turno que llevará la Oficialía Mayor, cesando aquélla responsabilidad cuando los mismos sean devueltos a este órgano de soporte técnico.
+Los expedientes que tengan el carácter de iniciativas de Ley o Decreto, que no hayan sido dictaminados en el lapso de un año a partir de haber sido turnados a comisiones, serán dados de baja por caducidad del listado de asuntos pendientes, sin más trámite, por la Oficialía Mayor.
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2018)</small>
-
-Los expedientes que tengan el carácter de iniciativas de Ley, Decretos, exhortos, puntos de acuerdo, denuncias o solicitudes al Congreso, que no tengan carácter de declaración de procedencia o juicio político; que no hayan sido dictaminados en el lapso de seis meses a partir de haber sido turnados a comisiones, serán dados de baja por caducidad del listado de asuntos pendientes, sin más trámite, por la Oficialía Mayor.
-
-> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2018)</small>
-
-No será aplicable la caducidad prevista en el párrafo anterior a las iniciativas de ley promovidas por ciudadanos y a las que se encuentran en trámite de consultas, foros, mesas de trabajo o investigación de cualquier naturaleza; pero en ningún caso el termino deberá exceder de un año.
+Los exhortos, puntos de acuerdo y las denuncias de cualquier naturaleza, excepto las denuncias de juicio político y las solicitudes al Congreso que no constituyan actos jurídicos del Estado o los Municipios, que no hayan sido dictaminados en el lapso de seis meses a partir de haber sido turnados a comisiones, serán dados de baja por caducidad del listado de asuntos pendientes, sin más trámite, por la Oficialía Mayor.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
@@ -1119,13 +1203,13 @@ d) La parte resolutiva que contendrá la propuesta concreta para ser sometida a 
 
 e) La Mayoría de las firmas de los miembros de la Comisión o Comité.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 48.
 
-Ningún proyecto de dictamen podrá ser discutido si no fue circulado a los integrantes de la Comisión respectiva con por lo menos veinticuatro horas de anticipación a la celebración de la sesión de trabajo en que se vaya a discutir el asunto, exceptuando aquellos que sean tunados por el Pleno con el carácter de urgentes.
+Ningún proyecto de dictamen podrá ser discutido si no fue circulado a los integrantes de la Comisión respectiva con por lo menos cuarenta y ocho horas de anticipación a la celebración de la sesión de trabajo en que se vaya a discutir el asunto, exceptuando aquellos que sean tunados por el Pleno con el carácter de urgentes, en cuyo caso, deberá darse lectura íntegra al proyecto del dictamen.
 
-Cuando una Comisión considere que un asunto que le ha sido turnado no es de su competencia, deberá solicitar al Presidente del Congreso el turno a otra Comisión, explicando los fundamentos de dicha solicitud.
+Cuando una Comisión considere que un asunto que le ha sido turnado no es de su competencia, deberá solicitar al Presidente del Congreso el turno a otra Comisión, explicando los fundamentos de dicha solicitud. Asimismo cuando la Comisión considere que un asunto es de su competencia, deberá solicitar al Presidente del Congreso el returno respectivo, explicando los fundamentos de dicha solicitud.
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 2006)</small>
 
@@ -1163,33 +1247,47 @@ b) Solicitar por escrito a los Presidentes de las Comisiones de trabajo legislat
 
 c) Solicitar a los titulares de los Órganos de Soporte Técnico y de Apoyo del Congreso, que presenten por escrito las opiniones sobre los asuntos de su competencia que requieran para el desempeño de sus funciones.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 51.
 
 Para el despacho de los asuntos que les hayan sido turnados por el Pleno del Congreso, las Comisiones sesionarán a convocatoria de su Presidente, quien informará de ello a la Oficialía Mayor para la programación y apoyo de las sesiones. Los Presidentes de las Comisiones deberán convocar a sesión cuando así lo soliciten al menos, la mitad más uno de sus integrantes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
-
 La convocatoria deberá incluir el orden del día a tratar, lugar, fecha y hora de la sesión; en su entrega se levantará acuse de recibo. Podrá enviarse a los Diputados integrantes de la Comisión que corresponda, previa su autorización, en archivo electrónico a través del sistema interno de transmisión y comunicación del Congreso denominado intranet, y deberá contener la totalidad de la información relativa al asunto o asuntos para los que se haya convocado, tales como expediente y sus anexos, así como el proyecto de dictamen, en cuyo caso, deberá quedar registro de su recepción por los Diputados.
+
+Cuando la convocatoria contenga un asunto promovido por un Diputado, el Presidente deberá notificarle que su asunto será discutido.
 
 Las sesiones de las Comisiones iniciarán sus trabajos en la hora señalada en la convocatoria respectiva, si se encuentran presentes al menos, la mitad más uno de sus integrantes; si no se cumple con este quórum en un plazo máximo de treinta minutos, contados a partir de la hora señalada en la convocatoria, la sesión no se llevará a cabo, debiéndose citar a una sesión subsecuente.
 
-De cada sesión de las Comisiones, se levantará un acta que contendrá los datos fundamentales de la reunión y consignará los acuerdos a los cuales se llegue.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
-
 La Comisión podrá por mayoría de votos de sus integrantes presentes, constituirse en Permanente para tratar los asuntos que motivaron la reunión hasta su total desahogo. Se podrán acordar uno o varios recesos durante dicha reunión de trabajo. Los Diputados deberán estar atentos a la convocatoria del Presidente para reanudar la reunión.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
 Cuando la Comisión esté constituida en permanente no podrá darse cuenta de ningún otro asunto que no esté comprendido en el acuerdo.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
-
 Una vez resuelto el asunto, motivo de la reunión, se dará por terminada.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 51 Bis.
+
+De cada sesión de las Comisiones, se levantará un acta que contendrá los datos fundamentales de la reunión y consignará los acuerdos a los cuales se llegue.
+
+El secretario técnico de la Comisión, elaborará el acta de la sesión de trabajo, la cual tendrá mínimamente lo siguiente:
+
+I. Datos generales de la Reunión;
+
+II. Nombre del Presidente de la Comisión;
+
+III. Quórum inicial y final;
+
+IV. Hora de inicio y de término;
+
+V. Relación breve de asuntos tratados y de quienes intervinieron en cada uno de ellos, enunciando claramente sus propuestas;
+
+VI. Listado de los Diputados asistentes, y
+
+VII. Resumen de dictámenes, propuestas, acuerdos, resoluciones, así como el sentido del voto de cada Diputado.
+
+Una vez elaborada el acta, se pondrá a consideración de los integrantes de la Comisión en la reunión próxima siguiente, el documento aprobado será firmado por el Presidente y el Secretario, y deberá enviarse a la brevedad a la Oficialía Mayor para que sea publicada en la página oficial del Congreso.
 
 ###### Artículo 52.
 
@@ -1287,7 +1385,9 @@ VII.- Proporcionar la información que les solicite la Tesorería para la elabor
 
 VIII.- Conservar en buen estado los bienes, instalaciones, mobiliario, equipo y materiales, que se le asignen para el desempeño de sus funciones;
 
-IX.- Cumplir y hacer del conocimiento del personal a su cargo, las disposiciones establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León y demás relativas a la función pública; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+
+IX.- Cumplir y hacer del conocimiento del personal a su cargo, sus obligaciones establecidas en la legislación en materia de responsabilidades administrativas y demás relativas a la función pública; y
 
 X.- Las demás que le encomienden los titulares de los Órganos Legislativos para el mejor desarrollo de la función legislativa.
 
@@ -1333,7 +1433,9 @@ XIII.- Certificar, a través de su titular, copias de los documentos que obren e
 
 XIV.- Elaborar anualmente y mantener actualizado, el Calendario de Actividades del Congreso;
 
-XV.- Realizar, a través de su titular y por instrucciones del Presidente de la Directiva o de las Comisiones, las notificaciones que deban llevarse a cabo, pudiendo delegar dicha facultad en personal de su adscripción mediante oficio. Siempre que se lleve a cabo una notificación personal, quien notifique deberá levantar acta circunstanciada de dicha diligencia;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+
+XV.- Realizar a través de su titular y por instrucciones del Presidente de la Directiva o de las Comisiones, las notificaciones que deberán llevarse a cabo, pudiendo delegar dicha facultad en persona de su adscripción; quien notifique deberá levantar acta circunstanciada de dicha diligencia. Tratándose de notificación electrónica bastará que exista constancia del acuse de recibo correspondiente;
 
 XVI.- Estar a cargo del Tablero de Avisos del Congreso;
 
@@ -1355,9 +1457,17 @@ XXIII.- Mantener actualizada en formato electrónico, la legislación estatal vi
 
 XXIV.- Coordinar el Curso de Inducción a la Función Legislativa que se ofrezca como optativo a los Diputados electos y sus suplentes, el cual se realizará en el transcurso del mes anterior al inicio del ejercicio constitucional de cada Legislatura. En la implementación de este curso, podrán participar Diputados en funciones, personal del Congreso, académicos de instituciones de educación superior, así como profesionistas y servidores públicos destacados en la temática de interés para la función legislativa;
 
-XXV.- Organizar y dar el trámite respectivo a la correspondencia del Congreso; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
 
-XXVI.- Vigilar la conservación física del Recinto Oficial del Congreso.
+XXV.- Organizar y dar trámite respectivo a la correspondencia del Congreso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ENERO DE 2020)</small>
+
+XXVI.- Operar la Plataforma Digital Legislativa como un sistema de comunicación electrónica de carácter oficial del Congreso con los Poderes Ejecutivo y Judicial, los Municipios, Organismos Constitucionalmente Autónomos y demás entes públicos del Estado. Para el acceso y uso de la misma, se deberán expedir los lineamientos de operación correspondiente; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE ENERO DE 2020)</small>
+
+XXVII.- Vigilar la conservación física del recinto Oficial del Congreso.
 
 El Calendario de Actividades del Congreso señalará las fechas en que la legislación establece la obligación para que los Órganos del Congreso realicen alguna actividad específica importante de carácter legislativo, solemne, administrativo o laboral. Dicho Calendario se presentará para su aprobación a la Comisión de Coordinación y Régimen Interno en la sesión ordinaria del mes de enero de cada año.
 
@@ -1379,13 +1489,15 @@ III.- Realizar los pagos que correspondan para cubrir las necesidades del Congre
 
 IV.- Aplicar los recursos presupuestales de acuerdo con los programas y partidas autorizadas;
 
-V.- Autorizar las adquisiciones de bienes y contratación de servicios, cuyo monto sea superior a 30 y no exceda de 630 veces el salario mínimo vigente en el Área Metropolitana de Monterrey, de acuerdo al presupuesto autorizado y a los Lineamientos Generales para el Ejercicio del Gasto. Cada trimestre informará a la Comisión de Coordinación y Régimen Interno sobre el ejercicio de esta función. En el caso de adquisiciones superiores a lo señalado en la presente fracción, se requerirá la autorización de la Comisión de Coordinación y Régimen Interno;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+
+V.- Autorizar las adquisiciones de bienes y contratación de servicios, cuyo monto sea superior a 60 y no exceda de 630 veces el valor diario de la Unidad de Medida y Actualización, de acuerdo al presupuesto autorizado y a los Lineamientos Generales para el Ejercicio del Gasto. Cada trimestre informará a la Comisión de Coordinación y Régimen Interno sobre el ejercicio de esta función. En el caso de adquisiciones superiores a lo señalado en la presente fracción, se requerirá la autorización de la Comisión de Coordinación y Régimen Interno;
 
 VI.- Elaborar la nómina del Congreso y efectuar los pagos al personal del mismo;
 
 VII.- Controlar el ejercicio presupuestario mediante el registro contable de egresos e ingresos;
 
-VIII.- Efectuar auditorías a los demás Órganos de Soporte Técnico y de Apoyo dependientes de la Comisión de Coordinación y Régimen Interno;
+VIII.- (DEROGADA, P.O. 20 DE ENERO DE 2020)
 
 IX.- Colaborar en la elaboración del Calendario de Actividades del Congreso en la parte relativa a las actividades de carácter administrativo y laboral;
 
@@ -1409,9 +1521,11 @@ I.- Realizar los estudios, análisis y proyectos de iniciativas contenidos en su
 
 II.- Participar en la elaboración de la Agenda Legislativa, de acuerdo a las instrucciones que reciba de la Comisión de Coordinación y Régimen Interno;
 
-III.- Diseñar, organizar y mantener actualizado el Sistema de Información de Estadística Social, Política, Económica y de la Función Pública, a partir de la información generada por instituciones públicas y privadas. La información relativa al Estado y a los Municipios de Nuevo León será prioridad en este sistema de información;
+III.- (DEROGADA, P.O. 20 DE ENERO DE 2020)
 
-IV.- La elaboración mensual de reportes analíticos, estadísticos y de recomendaciones técnicas derivados de los programas de investigación;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+
+IV.- La elaboración de reportes analíticos, estadísticos y de recomendaciones técnicas derivados de los programas de investigación;
 
 V.- Previa solicitud, asesorar a las Comisiones de Dictamen Legislativo proporcionándoles el apoyo necesario en el análisis y estudio técnico de asuntos de la función legislativa que les hayan sido turnados;
 
@@ -1423,13 +1537,17 @@ VII.- Proponer a la Comisión de Coordinación y Régimen Interno, a través de 
 
 VIII.- Proponer, cuando las necesidades así lo determinen, la contratación de servicios externos de consultoría, considerando entre otros, a las instituciones de educación superior e investigación locales, nacionales e internacionales;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
 
-IX.- Colaborar con la Oficialía Mayor el diseño, organización e implementación del Curso de Inducción a la Función Legislativa; y
+IX.- Colaborar con la Oficialía Mayor el diseño, organización e implementación del Curso de Inducción a la Función Legislativa;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
 
-X.- Coordinar la elaboración de proyectos de dictámenes que le soliciten las Comisiones, en el sentido que se haya acordado con el Presidente de la misma. Para la elaboración de los proyectos de dictamen contará con el número de Secretarios Técnicos que resulte necesario para desahogar los asuntos turnados a las mismas; cada Secretario Técnico auxiliará el número de Comisiones o Comités, considerando la cantidad de asuntos turnados a éstas.
+X.- Coordinar la elaboración de proyectos de dictámenes que le soliciten las Comisiones, en el sentido que se haya acordado con el Presidente de la misma. Para la elaboración de los proyectos de dictamen contará con el número de Secretarios Técnicos que resulte necesario para desahogar los asuntos turnados a las mismas; cada Secretario Técnico auxiliará el número de Comisiones o Comités, considerando la cantidad de asuntos turnados a éstas; y,
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2020)</small>
+
+XI.- La elaboración de un reporte que se entregará a la Comisión de Coordinación y Régimen Interno en los términos del artículo 80, fracción III de la Ley Orgánica del Poder Legislativo del Estado de Nuevo León, mediante el cual se informe sobre la implementación de mecanismos de participación ciudadana, que se llevaron a cabo previo a la dictaminación de los expedientes legislativos.
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1459,9 +1577,15 @@ d) Crónica informativa sintética de las sesiones del Congreso llevadas a cabo 
 
 e) Legislación estatal conforme a su publicación en el Periódico Oficial del Estado.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+Información que de acuerdo a los criterios de Datos Abiertos deberán publicarse bajo la opción del formato conocido como txt.
+
 V.- Promover las publicaciones que sean de interés para los integrantes de la Legislatura, de los Grupos Legislativos o para la información de la población;
 
-VI.- Apoyar el desarrollo de las sesiones del Pleno del Congreso con la grabación de audio y video de las mismas; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+
+VI.- Apoyar el desarrollo de las sesiones de Comisiones y del Pleno del Congreso con la grabación de audio y video de las mismas; y
 
 VII.- Apoyar a los Órganos Legislativos en lo relativo a las relaciones públicas del Poder Legislativo.
 
@@ -1501,9 +1625,17 @@ IX.- Coordinar la prestación del servicio de mantenimiento y la atención de lo
 
 X.- Mantener actualizada, en formato electrónico, en coordinación con la Oficialía Mayor, la legislación estatal;
 
-XI.- Asesorar a las autoridades competentes del Congreso del Estado en lo relativo a la celebración de convenios institucionales de intercambio de información legislativa en formato electrónico; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
 
-XII.- Proponer al área correspondiente, contenidos temáticos de informática para que sean incluidos en los cursos de capacitación del personal del Congreso.
+XI.- Asesorar a las autoridades competentes del Congreso del Estado en lo relativo a la celebración de convenios institucionales de intercambio de información legislativa en formato electrónico;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ENERO DE 2020)</small>
+
+XII.- Dar soporte técnico a la operación de la Plataforma Digital Legislativa; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE ENERO DE 2020)</small>
+
+XIII.- Proponer al área correspondiente, contenidos temáticos de informativa para que sean incluidos en los cursos de capacitación del personal del Congreso.
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1543,9 +1675,13 @@ I.- Dar trámite a los requerimientos de adquisiciones y contratación de servic
 
 II.- Elaborar y mantener actualizado el Padrón de Proveedores;
 
-III.- Autorizar y realizar las adquisiciones de bienes y contratación de servicios, cuyo monto no exceda de 30 veces el salario mínimo vigente en el Área Metropolitana de Monterrey, de acuerdo al presupuesto autorizado y a los Lineamientos Generales para el Ejercicio del Gasto. Sobre el ejercicio de esta función informará mensualmente al Tesorero y trimestralmente a la Comisión de Coordinación y Régimen Interno;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
 
-IV.- Realizar, previa la autorización correspondiente, las adquisiciones de bienes y contratación de servicios, cuyo monto exceda al equivalente a 30 veces el salario mínimo vigente en el Área Metropolitana de Monterrey, de acuerdo al presupuesto autorizado y a los Lineamientos Generales para el Ejercicio del Gasto;
+III.- Autorizar y realizar las adquisiciones de bienes y contratación de servicios, cuyo monto no exceda de 60 veces el valor diario de la Unidad de Medida y Actualización, de acuerdo al presupuesto autorizado y a los Lineamientos Generales para el Ejercicio del Gasto. Sobre el ejercicio de esta función informará mensualmente al Tesorero y trimestralmente a la Comisión de Coordinación y Régimen Interno;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+
+IV.- Realizar, previa la autorización correspondiente, las adquisiciones de bienes y contratación de servicios, cuyo monto exceda al equivalente a 60 veces el valor diario de la Unidad de Medida y Actualización, de acuerdo al presupuesto autorizado y a los Lineamientos Generales para el Ejercicio del Gasto;
 
 V.- Coordinarse con el área responsable del almacén del Congreso para que en éste se disponga de una existencia mínima de los materiales y productos de mayor consumo por las diferentes áreas del Congreso;
 
@@ -1553,7 +1689,9 @@ VI.- Hacer recomendaciones para el óptimo uso de materiales, equipo y servicios
 
 VII.- Llevar el control del vencimiento de obligaciones por parte del Congreso del Estado para su debido cumplimiento;
 
-VIII.- Obtener las mejores cotizaciones posibles, considerando precio y calidad, para las adquisiciones de bienes y contratación de servicios que se realicen en el Congreso. En los casos en que los precios de las adquisiciones de bienes y servicios excedan, al equivalente a 50 veces el salario mínimo vigente en el Área Metropolitana de Monterrey, el titular de la Unidad de Adquisiciones deberá obtener al menos tres cotizaciones;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+
+VIII.- Obtener las mejores cotizaciones posibles, considerando precio y calidad, para las adquisiciones de bienes y contratación de servicios que se realicen en el Congreso. En los casos en que los precios de las adquisiciones de bienes y servicios excedan, al equivalente a 100 veces el valor diario de la Unidad de Medida y Actualización, el titular de la Unidad de Adquisiciones deberá obtener al menos tres cotizaciones;
 
 IX.- Aplicar las herramientas del control estadístico de calidad en los procesos de la Unidad, particularmente en lo relativo a servicios, precios, prestigio de proveedores en el mercado y control de garantías;
 
@@ -1563,7 +1701,7 @@ XI.- Coordinar sus actividades con los demás órganos del Congreso para proveer
 
 ### CAPITULO I. DE LAS SESIONES
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 72.
 
@@ -1595,7 +1733,7 @@ XI.- Coordinar sus actividades con los demás órganos del Congreso para proveer
 
 ###### Artículo 78.
 
-Las sesiones del Congreso por su carácter serán Ordinarias y Extraordinarias y podrán tener las modalidades de Públicas, Secretas y Solemnes, y por acuerdo del Pleno cualquiera de ellas podrá constituirse en Permanente.
+Las sesiones del Congreso por su carácter serán Ordinarias y Extraordinarias y podrán tener la modalidad de Solemnes, y por acuerdo del Pleno cualquiera de ellas podrá constituirse en Permanente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
@@ -1605,9 +1743,9 @@ Serán Sesiones Ordinarias las que se celebren durante los períodos a que se re
 
 Serán Sesiones Extraordinarias las que se celebren en día distinto a los señalados en el párrafo anterior y deberán ser convocadas por el Presidente de la Directiva y a falta de este por quien deba sustituirlo de acuerdo al Artículo 21 del presente Reglamento.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-Las sesiones del Pleno del Congreso serán públicas, excepción hecha de lo dispuesto por los artículos 81 y 82 del presente Reglamento.
+Las sesiones del Pleno del Congreso serán públicas.
 
 ###### Artículo 80.
 
@@ -1615,19 +1753,11 @@ Las sesiones del Pleno del Congreso serán públicas, excepción hecha de lo dis
 
 ###### Artículo 81.
 
-En Sesión Secreta se tratarán los asuntos previstos en el Artículo 63 Fracción XXVIII y 106 de la Constitución Política Local y además:
-
-I.- Las acusaciones que se hagan contra los miembros de la Legislatura, del Gobernador del Estado, de los Magistrados del Tribunal Superior de Justicia y en general contra los servidores públicos del Estado que gocen fuero constitucional; y
-
-II.- (DEROGADA, P.O. 16 DE AGOSTO DE 2000)
+(DEROGADO, P.O. 20 DE ENERO DE 2020)
 
 ###### Artículo 82.
 
-Cuando en una Sesión Secreta se trate un asunto que exija estricta reserva, el Presidente de la Directiva consultará a la Asamblea si se debe guardar sigilio (sic), y siendo afirmativa la respuesta, los presentes deben estar obligados a guardarlo.
-
-En las Sesiones Secretas solo estarán presentes los integrantes de la Legislatura, el Oficial Mayor y el personal que éste designe para apoyar la sesión.
-
-El Acta de una Sesión Secreta deberá ser aprobada en sesión de igual carácter y modalidad.
+(DEROGADO, P.O. 20 DE ENERO DE 2020)
 
 ###### Artículo 83.
 
@@ -1657,11 +1787,13 @@ Durante la Sesión Permanente no podrá darse cuenta a ningún otro asunto que n
 
 Resuelto el asunto de la Sesión Permanente se dará por terminada la sesión cuando así lo acordase la Legislatura.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 87.
 
-Las sesiones de la Diputación Permanente serán también Ordinarias y Extraordinarias, las primeras se efectuarán los viernes de cada semana, salvo lo dispuesto en el artículo 85 de la Ley Orgánica del Poder Legislativo; las segundas, cuando el asunto lo requiera y serán convocadas por el Presidente de la Diputación Permanente.
+Las sesiones de la Diputación Permanente serán también Ordinarias y Extraordinarias, las primeras se efectuarán los miércoles de cada semana, salvo lo dispuesto en el artículo 85 de la Ley Orgánica del Poder Legislativo; las segundas, cuando el asunto lo requiera y serán convocadas por el Presidente de la Diputación Permanente.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 Todas las sesiones serán públicas. Cuando así lo acuerde el Pleno de la Diputación Permanente, ésta podrá declararse en sesión Permanente, por así requerirlo el asunto en cuestión.
 
@@ -1707,9 +1839,9 @@ Se otorgará el uso de la palabra a los Diputados que inicien un tema, hasta por
 
 Para llevar a cabo el orden de discusiones, se atenderá en lo conducente lo dispuesto por los artículos 99 Bis, 126, 127, párrafos segundo y tercero, y 129 de este Reglamento.
 
-> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-Durante los apartados de la sesión que se designen para la presentación de iniciativas y asuntos generales, los diputados podrán suscribir las propuestas presentadas en Tribuna por el diputado promovente.
+Durante los apartados de la sesión que se designen para la presentación de iniciativas y asuntos generales, los diputados podrán suscribir las propuestas presentadas en Tribuna por el diputado promovente mediante formato proporcionado por la Oficialía Mayor.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
@@ -1795,6 +1927,10 @@ Para la Apertura o Clausura de los Períodos Ordinarios el Presidente instalará
 
 La iniciativa de Ley, en los términos de los Artículos 68 y 69 de la Constitución Política Local, corresponde a todo Diputado, Autoridad Pública en el Estado o cualquier ciudadano nuevoleonés.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+El derecho de iniciativa comprende también el derecho del o los promoventes a retirarla desde el momento de su admisión y hasta antes de que sea votado por el Pleno del Congreso.
+
 ###### Artículo 103.
 
 Las iniciativas a que se refiere el artículo anterior, deberán presentarse por escrito y firmadas, incluyendo una parte con la exposición de los motivos que la fundamenten y concluirán sugiriendo la forma en que se solicite sean aprobadas por el Congreso.
@@ -1811,9 +1947,11 @@ Las iniciativas que presenten los Diputados o cualquier autoridad pública en el
 
 Las iniciativas formuladas por los ciudadanos mexicanos residentes en el Estado, los Poderes Ejecutivo y Judicial o por cualquier Diputado de la Legislatura y las que dirigiere algún Ayuntamiento sobre asuntos privados de su municipalidad, pasarán desde luego a la comisión respectiva. Todas las demás se considerarán en forma debida por la Asamblea y podrán ser desechadas desde que se dé cuenta de ellas, si fuese evidente su improcedencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)</small>
+
 ###### Artículo 105.
 
-El Congreso recibirá para su resolución las propuestas o denuncias de la Ciudadanía, suscritas por él o los promoventes, acompañarse (sic) de las pruebas de que se disponga e invocando el fundamento legal que demuestre la procedencia y competencia del Congreso del Estado, debiendo ser ratificada dentro de los siguientes tres días hábiles.
+El Congreso recibirá para su resolución las propuestas o denuncias de la Ciudadanía, suscritas por él o los promoventes, con las pruebas de que dispongan e invocando el fundamento legal que demuestre la procedencia y competencia del Congreso del Estado.
 
 De no cumplir con los requisitos antes señalados será desechada de plano y será archivada por la Oficialía Mayor.
 
@@ -1955,11 +2093,11 @@ Bajo la denominación de Acuerdo, el Congreso dictará resolución sobre cualqui
 
 Los Acuerdos Administrativos son las resoluciones del Pleno o de la Comisión de Coordinación y Régimen Interno sobre asuntos concretos específicos que solo se comunicarán a los interesados.
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 124.
 
-Los Decretos, Leyes y Acuerdos, invariablemente se enviarán al Periódico Oficial del Estado para su publicación y efectos a que haya lugar. Los Acuerdos Administrativos se comunicarán solamente por oficio a los interesados, con copia del dictamen respectivo, pero si la Asamblea lo juzga pertinente, el Presidente ordenará que también se publiquen en dicho órgano.
+Los Decretos, Leyes y Acuerdos, invariablemente se enviarán al Periódico Oficial del Estado para su publicación y efectos a que haya lugar. Los Acuerdos Administrativos se comunicarán solamente por oficio o vía correo electrónico a los interesados, con copia del dictamen respectivo, pero si la Asamblea lo juzga pertinente, el Presidente ordenará que también se publiquen en dicho órgano.
 
 ###### Artículo 125.
 
@@ -2279,13 +2417,17 @@ En ningún caso podrán establecerse diálogos entre Diputados, ni entre éstos 
 
 A las sesiones solemnes, los Diputados concurrirán con traje oscuro.
 
-### CAPITULO UNICO. DE LA DIPUTACION PERMANENTE
+### CAPÍTULO VIII. DE LOS INSTRUMENTOS DE DIFUSIÓN
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 155.
 
 En el Salón de Sesiones habrá un lugar destinado al público que concurra a presenciar las sesiones; se abrirá antes de comenzar cada una de ellas y no se cerrará sino cuando la sesión se levante, a no ser que haya necesidad por algún desorden o por cualquier otro motivo de deliberar sin presencia del público, en cuyo caso permanecerá cerrada.
 
-Se designará también un lugar conveniente para que las taquígrafas de la Legislatura tomen los puntos necesarios para levantar el acta de las sesiones. Así mismo se designará un lugar para los representantes de la prensa.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+Se designará también un lugar conveniente para que el personal de la Oficialía Mayor asiente los puntos necesarios para elaborar el acta de las sesiones. Así mismo se designará un lugar para los representantes de la prensa.
 
 ###### Artículo 156.
 
@@ -2311,11 +2453,53 @@ Lo mismo se verificará cuando los medios de prudencia no sean suficientes para 
 
 El Presidente de la Directiva tendrá bajo sus órdenes al personal de guardia para la seguridad en las instalaciones del Congreso.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+### CAPITULO UNICO. DE LA DIPUTACION PERMANENTE
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 159 Bis.
+
+Las sesiones del Pleno, de las Comisiones de Dictamen Legislativo y de los Comités deberán ser transmitidas y difundidas a través del portal de internet del Congreso del Estado en la medida que el equipamiento tecnológico y las plataformas informáticas lo permitan.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 159 Bis 1.
+
+Los órganos de soporte técnico y apoyo se coordinarán para poner a disposición de la ciudadanía en el portal de internet del Congreso del Estado, sin requerir registro previo, un Sistema de Información Legislativa dentro del cual se encontrará recopilada la información relativa al proceso legislativo y el cual contará con por lo menos la siguiente información:
+
+I. La información referida en las fracciones VI, VII, VIII, IX del artículo 98 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León;
+
+II. Autor o promovente;
+
+III. Estado del proceso legislativo del documento en referencia;
+
+IV. Número de Acuerdo o Decreto del proceso correspondiente;
+
+V. Acta de la Comisión;
+
+VI. Dictamen correspondiente;
+
+VII. La votación obtenida en los dictámenes y acuerdo sometidos al Pleno y demás órganos de trabajo, con expresión de aquellos a favor, en contra y en abstención, referida con el nombre de quien lo haya emitido;
+
+VIII. Fechas que den cuenta de su trámite en Comisiones y Pleno, así como de su publicación en el Periódico Oficial del Estado;
+
+IX. Búsqueda por fecha, por número de Sesión o Legislatura, y
+
+X. Cualquier otra información que facilite el seguimiento al proceso legislativo.
+
+El Sistema de Información Legislativa permitirá buscar y desagregar la información referida en este artículo bajo distintos criterios de búsqueda.
+
 ## TITULO SEXTO
+
+### CAPÍTULO UNICO. CONVOCATORIAS Y PROCESOS DE SELECCIÓN Y DESIGNACIONACIONES PÚBLICAS
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 160.
 
-La Diputación Permanente entrará en funciones inmediatamente después de clausurados los trabajos de un Período Ordinario y su primera sesión será el siguiente viernes.
+La Diputación Permanente entrará en funciones inmediatamente después de clausurados los trabajos del Período de Sesiones que corresponda.
 
 ###### Artículo 161.
 
@@ -2342,6 +2526,36 @@ Lo anterior con excepción del informe a que hace referencia el segundo párrafo
 ###### Artículo 164.
 
 La Diputación Permanente cesará en sus funciones al momento de elegir a la Directiva del Período Ordinario de Sesiones, con excepción del día 31 de agosto del año de la elección.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2020)</small>
+
+## TÍTULO SÉPTIMO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 165.
+
+Todas las convocatorias emitidas por el Congreso deberán ser publicadas en el Periódico Oficial del Estado y en al menos un periódico de mayor circulación en el Estado, así como en los portales oficiales del Congreso.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 166.
+
+Además de los requisitos establecidos en las leyes de la materia, la Comisión a que corresponda el desahogo del procedimiento, deberá solicitar en las Convocatorias que emita la versión publica de los curriculum vitae de los aspirantes a registrarse, entendiéndose por esta aquella que establece el artículo 3 de la Ley de Transparencia y Acceso a la información Pública del Estado de Nuevo León.
+
+Una vez que la fecha de inscripción de las Convocatorias se cierre, la Comisión correspondiente por conducto de su Presidencia deberá instruir para que en un término no mayor a 24 horas se lleve a cabo la publicación en el Portal de internet del listado de Nombres y las versiones públicas que hayan acompañado los Aspirantes al cargo por el que participan, en términos de la legislación aplicable a la materia.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 167.
+
+Los aspirantes que participen en los procesos de selección y designaciones públicas deberán firmar una carta por la que aceptan que la información que proporcionen con motivo de dicho proceso será publicada en versión pública.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 168.
+
+Todos los Diputados integrantes del Poder Legislativo tendrán acceso a la información y documentación presentada con motivo de los procesos de selección y designación por conducto de la Oficialía Mayor, debiendo respetarse lo establecido en las leyes en materia de transparencia y protección de datos personales en posesión de los sujetos obligados.
 
 TRANSITORIOS:
 
@@ -2704,3 +2918,17 @@ P.O. 31 DE DICIEMBRE DE 2018.
 [´N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 048. SE REFORMA POR MODIFICACIÓN A LA FRACCIÓN XI DEL ARTÍCULO 70 A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 219. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN; Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Lo (sic) asuntos pendientes que se encuentren en estudio en las Comisiones de Dictamen Legislativo de Medio Ambiente y Desarrollo Sustentable a partir de la entrada en vigor del presente Decreto se entenderá que su dictaminación corresponde a la Comisión aprobada mediante el presente Decreto.
+
+TERCERO.- Dentro de los 6 meses siguientes a la entrada en vigor del presente Decreto, el H. Congreso del Estado deberá emitir el Código de Ética previsto en el artículo 10 del numeral primero de este Decreto.
+
+CUARTO.- El Sistema de Información Legislativa previsto en el artículo 159 BIS 2 y la Plataforma Digital Legislativa contemplada en el artículo 65 ambos del Reglamento para el Gobierno Interior del Congreso del Estado, entrarán en funciones durante los 180 días posteriores a la entrada en vigor al presente Decreto y el Sistema de Información Legislativa contendrá cuando menos toda la información relativa a la LXXV Legislatura, pudiendo de manera posterior adicionar información respecto a Legislaturas anteriores.
+
+QUINTO.- La Gaceta Legislativa empezará a publicarse en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto.
