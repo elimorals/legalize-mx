@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-y-trato-digno-a-los-seres-sintientes-para-967
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-29"
-last_updated: "2017-12-26"
+last_updated: "2020-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 29 de noviembre de 2013.
 
@@ -41,9 +41,15 @@ LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZA
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2020)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público e interés general y de observancia obligatoria; tiene por objeto la protección de los animales que se encuentren en el Estado de Coahuila de Zaragoza.
+La presente ley es de orden público e interés general y de observancia obligatoria en todo el territorio del Estado y tiene por objeto establecer las bases que permitan brindar la debida protección y trato digno a los animales que se encuentren en el Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2020)</small>
+
+En lo no previsto en la presente ley, se aplicará de manera supletoria y en lo conducente, la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Coahuila de Zaragoza, la Ley de Vida Silvestre para el Estado de Coahuila y demás disposiciones aplicables.
 
 ###### Artículo 2.
 
@@ -73,13 +79,19 @@ Son objeto de tutela y protección de esta Ley todos los animales, domésticos, 
 
 Para los efectos de esta Ley, las siguientes expresiones se entenderán en la forma y términos que se indican:
 
-I.- Animal: Todo ser vivo, no humano, que siente y reacciona ante el dolor y se mueve voluntariamente;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2020)</small>
 
-II.- Animal abandonado: Los animales que deambulen libremente por la vía pública sin placa de identificación, así como aquellos que se encuentren sin el control y cuidados adecuados de sus propietarios;
+I.- Animal: Todo ser vivo, no humano, que posee movilidad propia, que siente y reacciona ante el dolor y a los estímulos del medio ambiente;
+
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2020)</small>
+
+II.- Animal abandonado: Los animales que deambulen libremente por la vía pública sin placa de identificación u otra forma de identificación, así como aquellos que se encuentren sin el control y cuidados adecuados de sus propietarios;
 
 III.- Animal de trabajo: Aquellos animales que se utilizan para beneficio del ser humano realizando trabajo físico, tales como, los utilizados para actividades de carga, tiro, monta, labranza, tracción; o aquellos que han sido adiestrados para obedecer instrucciones o estar condicionados a lograr fines específicos, ya sea de forma independiente o en conjunto con su tutor, como guía para personas con discapacidad, zooterapia, operativos, búsqueda de sustancias y detección de explosivos, enfermedades neoplásicas y/o de apoyo para disuasión y persecución, de guardia, de defensa, de rescate y para uso policiaco;
 
-IV.- Animales domésticos: Cualquiera que por sus características evolutivas y de comportamiento puedan convivir con un ser humano en un ambiente doméstico;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2020)</small>
+
+IV.- Animales domésticos: Aquellos animales criados bajo la compañía y cuidado del ser humano, que por sus características evolutivas y de comportamiento puedan convivir con un ser humano en un ambiente doméstico y que no requiera de los cuidados propios y permisos necesarios para los animales silvestres en cautiverio;
 
 V.- Animal de compañía: animal que por sus características físicas y de comportamiento puede convivir en proximidad con el ser humano, sin poner en peligro la seguridad o la vida de las personas o de otros animales; esta definición incluye solo a los perros y gatos;
 
@@ -87,7 +99,9 @@ VI.- Adopción: contrato verbal o escrito entre un tutor y una organización de 
 
 VII.- Animales exóticos: Aquellos que se encuentran fuera de su ámbito de habitad natural, lo que incluye a los híbridos y modificados;
 
-VIII.- Animales ferales: Aquellos pertenecientes a especies domesticas que al quedar fuera del control del hombre, se establecen en el hábitat natural de la vida silvestre;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2020)</small>
+
+VIII.- Animales ferales: Aquellos animales domésticos que, al quedar fuera del control del ser humano, se establecen en el hábitat natural de la vida silvestre, así como sus descendientes nacidos en este hábitat;
 
 IX.- Animal guía: Los animales que son adiestrados con el fin de apoyar a las personas con discapacidad;
 
@@ -123,7 +137,9 @@ XXIV.- Cara: Centros de atención y rehabilitación animal;
 
 XXV.- Centros de Control Animal: Los lugares públicos destinados para la captura, esterilización, vacunación, desparasitación, atención médica veterinaria y albergue;
 
-XXVI.- Crueldad: acto de ensañamiento y/o de maltrato sistemático; cualquier acto u omisión directa o indirecta que provoque a un animal dolor y/o sufrimiento, provoque o no muerte al animal;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2020)</small>
+
+XXVI.- Crueldad: Todo acto de ensañamiento y/o de maltrato sistemático; cualquier acto u omisión directa o indirecta que, por cualquier medio, se provoque a un animal dolor innecesario y/o sufrimiento prolongado, ya sea que provoque o no muerte al animal;
 
 XXVII.- Enriquecimiento ambiental: es la adecuación del ambiente físico y social de un animal, como una parte importante para mejorar el comportamiento de estos, y debe ser considerado cuando los medios para la interacción social no están disponibles o cuando el ambiente físico de los animales se encuentra restringido;
 
@@ -143,11 +159,7 @@ XXXIV.- Ley: La Ley de Protección y Trato Digno a los Animales para el Estado d
 
 XXXV.- Maltrato: Todo hecho, acto u omisión, negligencia o descuido del ser humano, consciente o inconsciente, intencional o no, que pueda ocasionar dolor, sufrimiento, poner en riesgo la vida de un animal, su integridad o viabilidad de alguno de sus órganos o que afecten gravemente su salud;
 
-> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA ACTUAL FRACCIÓN XLV.]</small>
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-XXXVI.- Secretaría: Secretaría de Medio Ambiente y Desarrollo Urbano;
+XXXVI.- (DEROGADA, P.O. 21 DE ENERO DE 2020)
 
 XXXVII.- Mutilación estética: aquella con la que no se pretende curar una enfermedad o aliviar un padecimiento, se consideran mutilaciones estéticas la caudectomía, otectomía, cordectomía, desungulación, siempre y cuando no existe (sic) una patología, problema clínico o traumático que lo amerite, según informe de Médico Veterinario con cédula profesional vigente;
 
@@ -267,13 +279,15 @@ I.- Aplicar las disposiciones jurídicas relativas a la protección y trato dign
 
 II.- Establecer y regular los centros de control animal;
 
-III.- Formular, expedir y ejecutar campañas de esterilización y vacunación conjuntamente con las autoridades en materia de salud y medio ambiente, así como con las asociaciones protectoras de animales;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2020)</small>
+
+III.- Formular, expedir y ejecutar campañas de esterilización, vacunación y adopción de animales de compañía, conjuntamente con las autoridades en materia de salud y medio ambiente, así como con las asociaciones protectoras de animales;
 
 IV.- La promoción y difusión que genere una cultura cívica de protección, responsabilidad y trato digno a los animales;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2020)</small>
 
-V.- Celebrar convenios con la Secretaría de Salud y la Secretaría del Medio Ambiente y Desarrollo Urbano, para llevar a cabo las acciones necesarias para la protección a los animales.
+V.- Celebrar convenios con la Secretaría de Salud y la Secretaría, para llevar a cabo las acciones necesarias para la protección a los animales.
 
 VI.- Establecer y aplicar las medidas correctivas e imponer sanciones correspondientes por infracciones a la presente ley, sus reglamentos y demás disposiciones en el ámbito de sus respectivas competencias; y
 
@@ -479,9 +493,9 @@ XI.- Conservar la cartilla o los certificados de tratamiento y vacunación firma
 
 XII.- Establecer las medidas necesarias para que el animal de compañía no escape o ponga en riesgo la seguridad y la integridad física del ser humano, de él mismo y de otros animales;
 
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2020)</small>
 
-XIII.- Levantar sus heces; y
+XIII.- Levantar sus heces y depositarlas en contenedores de basura; y
 
 > <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
@@ -1257,9 +1271,9 @@ QUINTO.- Los Comités Regionales deberán constituirse por la Comisión Estatal 
 
 SEXTO.- Los establecimientos mercantiles cuyo giro sea el de la exhibición de animales para su compraventa, deberán vender a los animales que aún tengan en exhibición debidamente esterilizados y no contar con animales dentro de sus instalaciones de conformidad con la presente Ley.
 
-26 DE DICIEMBRE DE 2017.
+P.O. 26 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NO. 1177. POR EL QUE "SE REFORMAN LA FRACCIÓN XXXVI DEL ARTÍCULO 4, EL ARTÍCULO 9, Y LA FRACCIÓN V DEL ARTÍCULO 14, DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 1177. POR EL QUE "SE REFORMAN LA FRACCIÓN XXXVI DEL ARTÍCULO 4, EL ARTÍCULO 9, Y LA FRACCIÓN V DEL ARTÍCULO 14, DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
 
@@ -1304,3 +1318,11 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 21 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 460.- SE REFORMAN LOS ARTÍCULOS 1, LAS FRACCIONES I, II, IV, VIII, Y XXVI DEL ARTÍCULO 4, LAS FRACCIONES III Y V DEL ARTÍCULO 14, LA FRACCIÓN XIII DEL ARTÍCULO 22; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 1; Y SE DEROGA LA FRACCIÓN XXXVI AL ARTÍCULO 4, TODOS DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
