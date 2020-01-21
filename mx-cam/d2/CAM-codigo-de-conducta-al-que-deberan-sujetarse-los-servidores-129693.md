@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-conducta-al-que-deberan-sujetarse-los-servidores-1296
 country: "mx"
 rank: "codigo"
 publication_date: "2018-06-28"
-last_updated: "2018-06-28"
+last_updated: "2020-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129693&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE CONDUCTA AL QUE DEBERAN SUJETARSE LOS SERVIDORES PUBLICOS DE LA FISCALIA GENERAL DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO NUMERO A/006/2019 DEL FISCAL GENERAL DEL ESTADO DE CAMPECHE POR EL QUE EMITE EL CÓDIGO DE CONDUCTA AL QUE DEBERAN SUJETARSE LAS Y LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2020 (ABROGADO).
 
 Código publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el jueves 28 de junio de 2018.
 
@@ -684,3 +686,19 @@ TERCERO.- Se deberá difundir el presente Código de Conducta al interior de la 
 CUARTO.- Se instruye a todos los servidores públicos de la Fiscalía General del Estado de Campeche, a efecto de que pongan en práctica las medidas necesarias y pertinentes para dar debido cumplimiento a lo establecido en el presente Acuerdo.
 
 El Código de Conducta de la Fiscalía General del Estado de Campeche, fue aprobado por el Comité de Ética y de Prevención de Conflictos de Interés de la Fiscalía General del Estado de Campeche, en la Primera Sesión Ordinaria celebrada a las 19:00 horas del día 29 de mayo de 2018, en el salón de Procuradores de la Fiscalía General del Estado, firmando todos los miembros que en ella intervinieron al margen y calce. Rúbricas.- Dr. Juan Manuel Herrera Campos, Fiscal General del Estado y Presidente del Comité de Ética y de Prevención de Conflictos de Interés; Mtra. Nallely Echeverría Caballero, Vice Fiscal General de Derechos Humanos y Secretaria Ejecutiva del Comité de Ética y de Prevención de Conflictos de Interés; Lic. Manuel Jiménez Villarino, Director del Centro de Justicia Alternativa Penal y Miembro propietario temporal de nivel jerárquico de Director de Área; Mtro. Manuel Román Delgado Arroyo, Director de Derechos Humanos y Control Interno y Suplente del Miembro propietario temporal de Enlace de Control Interno y Mtro. Carlos Alberto Borges Martínez, Subdirector de la Fiscalía Especializada en Investigación del Delito de Robo y Miembro propietario temporal de Jefe de Departament (sic)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO NUMERO A/006/2019 DEL FISCAL GENERAL DEL ESTADO DE CAMPECHE POR EL QUE EMITE EL CÓDIGO DE CONDUCTA AL QUE DEBERAN SUJETARSE LAS Y LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente Acuerdo por el que se emite el Código de Conducta al que deben sujetarse las y los servidores públicos de la Fiscalía General del Estado de Campeche, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Código de Conducta al que deben sujetarse los servidores públicos de la Fiscalía General del Estado de Campeche, aprobado por el Comité de Ética, en Sesión Ordinaria celebrada el día 29 de mayo de 2018, el cual finalmente fue emitido por el Fiscal General y publicado en el Periódico Oficial del Estado con fecha 28 de junio de 2018.
+
+TERCERO.- Se deberá difundir el presente Código de Conducta al interior de la Fiscalía General del Estado para que el personal tenga conocimiento del mismo, enfatizando la obligatoriedad de su cumplimiento.
+
+CUARTO.- Deberán implementarse las medidas administrativas, de capacitación y todas aquellas que faciliten el conocimiento y sensibilización en los principios, valores y reglas de integridad que rigen el ejercicio del servicio público.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente Acuerdo.
