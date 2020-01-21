@@ -4,7 +4,7 @@ identifier: "COA-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-13277"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "2019-12-27"
+last_updated: "2020-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
@@ -2309,9 +2309,11 @@ Para la localización, instalación y funcionamiento de sistemas de manejo de re
 
 ARTICULO 148 BIS.- Las autoridades estatales y los municipios deberán promover en base a las leyes de la materia, la utilización de empaques y envases para todo tipo de productos, cuyos materiales permitan reducir la generación de residuos sólidos y la clasificación de los mismos de acuerdo a las normas técnicas ecológicas correspondientes.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2020)</small>
+
 ###### ARTICULO 149.
 
-Las autoridades municipales competentes adoptarán las medidas necesarias a fin de racionalizar la generación de residuos sólidos municipales e industriales no peligrosos e incorporarán técnicas y procedimientos para su clasificación, reuso y reciclaje. En tratándose de materiales o residuos peligrosos, se sujetarán a lo dispuesto en la LGEEPA, sobre la materia.
+Las autoridades municipales competentes adoptarán las medidas necesarias a fin de racionalizar la generación de residuos sólidos municipales e industriales no peligrosos e incorporarán técnicas y procedimientos para su clasificación, reúso y reciclaje, procurando para ello, de conformidad con la disponibilidad presupuestal, destinar un día a la semana para la recolección de aquellos residuos urbanos con características reciclables, de acuerdo a las disposiciones aplicables en la materia. En tratándose de materiales o residuos peligrosos, se sujetarán a lo dispuesto en la LGEEPA, sobre la materia.
 
 ###### ARTICULO 150.
 
@@ -2927,7 +2929,7 @@ IV.- Las pruebas que en su caso ofrezca el denunciante.
 
 Así mismo, podrá formularse la denuncia por vía telefónica, en cuyo supuesto el servidor público que la reciba, levantará acta circunstanciada, y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que la Procuraduría o las autoridades municipales correspondientes investiguen de oficio los hechos constitutivos de la denuncia.
 
-> <small>[N. DE E. VÉASE LAS PUBLICACIONES OFICIALES DE LA HISTORIA LEGISLATIVA DE ESTE ARTÍCULO]</small>
+> <small>[N. DE E. VÉASE LAS PUBLICACIONES OFICIALES DE LA HIST0RIA LEGISLATIVA DE ESTE ARTÍCULO]</small>
 
 No se admitirán denuncias notoriamente improcedentes o infundadas, o aquéllas en las que se advierta mala fe, carencia de fundamento o inexistencia de petición, lo cual se notificará al denunciante.
 
@@ -3282,3 +3284,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 21 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 463.- SE REFORMA EL ARTÍCULO 149 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
