@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-agua-potable-drenaje-y-alcantarillado-de-597
 country: "mx"
 rank: "ley"
 publication_date: "1977-12-08"
-last_updated: "2019-08-29"
+last_updated: "2020-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DEL SISTEMA DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO DE PUERTO VALLARTA, JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO 27799/LXII/20 QUE ABROGA LA LEY DEL SISTEMA DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO DE PUERTO VALLARTA, JALISCO; ESTABLECE LAS BASES PARA LA EXTINCIÓN DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE LOS SERVICIOS DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO DE PUERTO VALLARTA, JALISCO, Y PARA LA TRANSFERENCIA DEL SERVICIO AL ORGANISMO QUE CREE EL AYUNTAMIENTO DE PUERTO VALLARTA, JALISCO, PUBLICADO EN LA SECCIÓN III AL NÚMERO 1 DEL P.O. DE 21 DE ENERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL SISTEMA DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO DE PUERTO VALLARTA, JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 8 de diciembre de 1977.
 
@@ -362,3 +364,49 @@ P.O. 29 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27326/LXII/19 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 13 DE LA LEY DEL SISTEMA DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO DE PUERTO VALLARTA, JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE ENERO DE 2020.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO 27799/LXII/20.]</small>
+
+Artículo Primero. Se abroga la Ley del Sistema de Agua Potable, Drenaje y Alcantarillado de Puerto Vallarta, Jalisco.
+
+Artículo Segundo. Se extingue el organismo público descentralizado denominado Sistema de los Servicios de Agua Potable, Drenaje y Alcantarillado de Puerto Vallarta (Seapal).
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27799/LXII/20 QUE ABROGA LA LEY DEL SISTEMA DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO DE PUERTO VALLARTA, JALISCO; ESTABLECE LAS BASES PARA LA EXTINCIÓN DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE LOS SERVICIOS DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO DE PUERTO VALLARTA, JALISCO Y PARA LA TRANSFERENCIA DEL SERVICIO AL ORGANISMO QUE CREE EL AYUNTAMIENTO DE PUERTO VALLARTA, JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Ayuntamiento de Puerto Vallarta deberá adecuar o emitir las disposiciones reglamentarias necesarias para prestar el servicio público de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, en los términos que se venían prestando, y que entre otras comprende la creación de un organismo de carácter municipal, idóneo y pertinente en el plazo de treinta días naturales, contados a partir de la publicación del presente decreto.
+
+El organismo público municipal citado deberá estar plenamente constituido para efecto de recibir los servicios objeto del presente decreto.
+
+TERCERO. La entrega recepción de los bienes, derechos y obligaciones del Sistema de los Servicios de Agua Potable, Drenaje y Alcantarillado de Puerto Vallarta (Seapal) al Ayuntamiento de Puerto Vallarta, a través del organismo público municipal que para tal efecto se constituya, se realizará en términos del presente decreto y del programa de transferencia, aplicando en lo conducente, lo dispuesto por la Ley de Entrega-Recepción del Estado de Jalisco y sus Municipios.
+
+El Ayuntamiento de Puerto Vallarta, a través del organismo público municipal creado para tal efecto, recibirá todos los bienes, derechos y obligaciones del Sistema de los Servicios de Agua Potable, Drenaje y Alcantarillado de Puerto Vallarta, en el estado en que se encuentren.
+
+La transferencia de los servicios deberá realizarse a más tardar el día 15 de marzo del año 2020.
+
+La Contraloria del Estado deberá participar en la entrega recepción y publicará el acta respectiva en el periódico oficial "El Estado de Jalisco"; el Ayuntamiento de Puerto Vallarta, a su vez, la publicará en la Gaceta del Municipio. Ambas publicaciones deberán hacerse a más tardar 10 dias naturales después de concluida la misma.
+
+CUARTO. Una vez efectuada la entrega recepción, las funciones del Sistema de los Servicios de Agua Potable, Drenaje y Alcantarillado de Puerto Vallarta (Seapal), serán asumidas por el Ayuntamiento de Puerto Vallarta, a través del organismo público municipal que se cree para tales efectos, quien desde ese momento será el responsable de la prestación de los servicios públicos municipales de Agua Potable, Drenaje, Alcantarillado, Tratamiento y Disposición de Aguas Residuales, en términos de lo dispuesto por los artículos 115 fracción III, inciso a), de la Constitución Política de los Estados Unidos Mexicanos y 79 de la Constitución Política del Estado de Jalisco y conforme a la resolución de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 98/2016.
+
+En caso de que no se haya levantado y publicado el acta de entrega recepción en el plazo otorgado por la Suprema Corte de Justicia de la Nación, la transferencia del servicio se concretará en los términos que determine el Máximo Tribunal del país.
+
+QUINTO. Los recursos económicos y materiales, así como los derechos, valores, fondos y obligaciones del organismo público descentralizado que se extingue, pasarán a formar parte del patrimonio del organismo público municipal del Ayuntamiento de Puerto Vallarta, Jalisco.
+
+Por lo tanto, el Ayuntamiento de Puerto Vallarta, a través del organismo que se constituya, se subroga en los derechos y obligaciones laborales, civiles, mercantiles, administrativas, fiscales, de seguridad social y de otra naturaleza que subsistan una vez extinto el Sistema de los Servicios de Agua Potable, Drenaje y Alcantarillado de Puerto Vallarta (Seapal).
+
+Los asuntos en trámite, así como los procedimientos y/o juicios pendientes de resolver del Sistema de los Servicios de Agua Potable, Drenaje y Alcantarillado de Puerto Vallarta que se extingue, pasarán al organismo público municipal del Ayuntamiento de Puerto Vallarta, Jalisco, y serán atendidos y resueltos de conformidad con el presente Decreto, el programa de transferencia y a las disposiciones reglamentarias a que se refiere el artículo segundo transitorio que antecede.
+
+Para tal efecto, se autoriza y faculta al Sistema de los Servicios de Agua Potable, Drenaje y Alcantarillado de Puerto Vallarta (Seapal), a través de su Director General, para que determine y realice todos los actos de dominio, incluyendo la donación, así como los actos de administración, pleitos y cobranzas y especiales necesarios para transferir los bienes, derechos y obligaciones al organismo público municipal del Ayuntamiento de Puerto Vallarta, Jalisco, en términos del presente decreto, en el entendido que la transmisión de dominio no comprenderá el pago de contraprestación alguna.
+
+El organismo público municipal que para tal efecto se constituya por el Ayuntamiento de Puerto Vallarta deberá cubrir los gastos, honorarios o contribuciones que pudieren originarse con motivo de los actos jurídicos necesarios para la transferencia de dominio de los bienes y de las obligaciones.
+
+SEXTO. Para la transferencia de los recursos humanos se actualizará la figura de la sustitución patronal, por lo que los derechos laborales del personal del Sistema de los Servicios de Agua Potable, Drenaje y Alcantarillado de Puerto Vallarta (Seapal) que se extingue, serán asumidos y respetados por el organismo público municipal del Ayuntamiento de Puerto Vallarta, en términos de lo dispuesto en la legislación aplicable.
+
+SÉPTIMO. Al día siguiente de la publicación del acta de entrega recepción en el periódico oficial "El Estado de Jalisco", se abrogará la Ley del Sistema de Agua Potable, Drenaje y Alcantarillado de Puerto Vallarta, Jalisco, así como todas aquellas disposiciones que contravengan el presente decreto, y se extinguirá el organismo público descentralizado denominado Sistema de los Servicios de Agua Potable, Drenaje y Alcantarillado de Puerto Vallarta (Seapal).
+
+OCTAVO. Se autoriza al Poder Ejecutivo del Estado, por conducto de la Secretaría de Administración, para que, en caso de que existieran actos jurídicos por llevar a cabo después de realizada la entrega recepción y extinto el organismo público descentralizado denominado Sistema de los Servicios de Agua Potable, Drenaje y Alcantarillado de Puerto Vallarta (Seapal), se concluya la transferencia del patrimonio del ente referido, conforme al programa de transferencia, y se le faculta para desempeñar actos de administración, dominio y pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas facultades que, en cualquier materia, requieran poder o cláusula especial, y para realizar cualquier acción que coadyuve a la conclusión del proceso de transferencia del citado organismo.
+
+NOVENO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de la Hacienda Pública, realice las adecuaciones financieras y presupuestales requeridas para el cumplimiento de este decreto.
