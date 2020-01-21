@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2019-12-20"
+last_updated: "2020-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -221,7 +221,15 @@ XVII. Gasolinerías;
 
 XVIII. Prevención y control de la rabia en animales y seres humanos, y
 
-XIX. Las demás materias que determine esta Ley y las disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ENERO DE 2020)</small>
+
+XIX. Los establecimientos dedicados a la colocación de tatuajes, micropigmentaciones y perforaciones en personas; y
+
+XX. (SIC)
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE ENERO DE 2020)</small>
+
+XXI. Las demás materias que determine esta Ley y disposiciones legales aplicables.
 
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
@@ -725,9 +733,9 @@ La atención materno-infantil tiene carácter prioritario y comprende las siguie
 
 I. La atención de la mujer durante el embarazo, informando del derecho al acompañamiento de una persona de su confianza en el proceso de parto, incluida la cesárea y el puerperio;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2020)</small>
 
-II. La atención a menores y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna y su salud visual;
+II. La atención a menores de 18 años y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna y su salud visual;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
 
@@ -740,6 +748,10 @@ IV. La detección temprana de la sordera y su tratamiento, en todos sus grados, 
 > <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2010)</small>
 
 V. Acciones para diagnosticar y ayudar a resolver el problema de salud visual y auditiva de menores en las escuelas públicas y privadas.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2020)</small>
+
+El derecho a la salud de los niños y las niñas en su primera infancia es una prioridad estatal, por lo tanto, los padres, madres, tutores o quienes ejerzan la patria potestad o guardia y custodia de los mismos, deberán acudir a las instituciones de salud pública o privada para que los menores de edad reciban todas sus vacunas.
 
 ###### Artículo 57.
 
@@ -2791,6 +2803,8 @@ III. Casa Hogar: Establecimiento destinado a proporcionar asistencia a menores o
 
 Artículo 242 bis 1. El funcionamiento y personal de los establecimientos señalados en el presente capítulo, deberán apegarse a lo establecido en esta Ley, a las normas técnicas correspondientes y otras disposiciones legales aplicables.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ENERO DE 2020)</small>
+
 ###### Artículo 237.
 
 Para los efectos de esta Ley, se entiende por gasolinería el establecimiento destinado al expendio o suministro de gasolinas, aceites y demás productos derivados del petróleo que sean usados en vehículos automotores.
@@ -2799,7 +2813,27 @@ Para los efectos de esta Ley, se entiende por gasolinería el establecimiento de
 
 Las gasolinerías deberán contar con las instalaciones de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas oficiales mexicanas correspondientes.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XX. DE LOS ESTABLECIMIENTOS DEDICADOS A LA COLOCACIÓN DE TATUAJES, MICROPIGMENTACIONES Y PERFORACIONES EN PERSONAS
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2020)</small>
+
+Artículo 242 ter. Para efectos de esta Ley, se entenderá por:
+
+I. Tatuaje: Procedimiento por el cual se graban dibujos, figuras o marcas en la piel humana, introduciendo colorantes bajo la epidermis con agujas, punzones u otro instrumento por las punzadas previamente dispuestas;
+
+II. Micropigmentación: Procedimiento por el cual se depositan pigmentos en áreas específicas de la piel humana, bajo la epidermis, en la capa capilar de la dermis con agujas accionadas mediante un instrumento manual o electromecánico, y
+
+III. Perforación: Procedimiento por el cual se introduce algún objeto decorativo de material de implantación hipoalergénico en la piel o mucosa con un instrumento punzo cortante.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2020)</small>
+
+Artículo 242 quater. Los establecimientos dedicados a realizar tatuajes, micropigmentaciones y perforaciones deberán contar con personal debidamente capacitado y especializado para la realización de sus actividades, que deberán acreditar conocimientos en primeros auxilios y dominio en técnicas de higiene y asepsia.
+
+Se prohíbe realizar tatuajes, micropigmentaciones y perforaciones en puestos semifijos, módulos móviles o ambulantes, así como en locales o establecimientos que no cuenten con las autorizaciones y/o certificaciones municipales o estatales en materia de salubridad y de funcionamiento comercial.
+
+Queda prohibido realizar tatuajes, micropigmentaciones y perforaciones a personas menores de dieciocho años de edad, así como aquellas que no se encuentren en pleno goce de sus facultades mentales. En el caso de las acciones antes mencionadas, sólo podrá exceptuarse lo anterior cuando los menores de dieciocho años estén acompañados de uno de sus padres o tutor previa acreditación de tal carácter, o cuenten con la autorización por escrito.
+
+Los establecimientos deberán mostrar al cliente todo el material debidamente cerrado, nuevo y esterilizado, mismo que será utilizado en cualquiera de sus procedimientos. Asimismo, deberán realizar una inspección general de toda persona que se atienda.
 
 ###### Artículo 239.
 
@@ -2835,13 +2869,13 @@ Las autoridades sanitarias, mantendrán campañas permanentes de orientación a 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 2010)</small>
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
 
 ###### Artículo 243.
 
@@ -2887,7 +2921,7 @@ Los establecimientos que prestan servicios de asistencia social, no requerirán 
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### Artículo 248.
 
@@ -2947,7 +2981,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efecto, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### Artículo 256.
 
@@ -3023,7 +3057,7 @@ Sin perjuicio de lo dispuesto en el párrafo anterior, para el traslado o inhuma
 
 ## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 261.
 
@@ -3127,7 +3161,7 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPITULO IV. RECURSOS DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### Artículo 273.
 
@@ -3237,7 +3271,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSOS DE INCONFORMIDAD
 
 ###### Artículo 286.
 
@@ -3350,6 +3384,8 @@ Artículo 297 bis 1. Las infracciones a las disposiciones de esta Ley, constitut
 > <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 Artículo 297 bis 2. Las autoridades de seguridad pública, procuración e impartición de justicia en el Estado podrán conocer y resolver los delitos que la Ley General de Salud establezca de su competencia.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### Artículo 298.
 
@@ -3894,6 +3930,20 @@ P.O. 29 DE OCTUBRE DE 2019.
 P.O. 20 DE DICIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 408.- SE MODIFICA LA FRACCIÓN X, DEL ARTÍCULO 7 DE LA LEY PARA COMBATIR EL RUIDO EN EL ESTADO DE COAHUILA DE ZARAGOZA; Y SE MODIFICA LA FRACCIÓN V DEL ARTÍCULO 122 Y SE ADICIONAN LAS FRACCIONES VI Y VII AL ARTÍCULO 122 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 21 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 461.- SE REFORMA LA FRACCIÓN XIX DEL APARTADO B DEL ARTÍCULO 4; Y SE ADICIONA LA FRACCIÓN XX AL APARTADO B DEL ARTÍCULO 4, EL CAPÍTULO XX AL TÍTULO DÉCIMO SEGUNDO QUE CONTEMPLA LOS ARTÍCULOS 242 TER, 242 QUATER, DE LA LEY ESTATAL DE SALUD”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 462.- SE REFORMA LA FRACCIÓN II Y SE ADICIONA UN PÁRRAFO FINAL AL ARTÍCULO 56 DE LA LEY ESTATAL DE SALUD”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
