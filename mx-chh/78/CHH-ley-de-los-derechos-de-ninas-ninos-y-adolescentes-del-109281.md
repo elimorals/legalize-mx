@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2018-04-14"
+last_updated: "2020-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2020.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -1467,6 +1467,10 @@ XXIV. Desarrollar todos los mecanismos necesarios para el cumplimiento de la pre
 
 XXV. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene.
 
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2020)</small>
+
+XXVI. Implementar dentro del ámbito de sus competencias, de así estimarlo conveniente, la creación, diseño y operatividad de un Fondo Municipal de Apoyo para la Niñez, el cual podrá ser incluido en los proyectos de Presupuesto de Egresos de cada ejercicio fiscal, cuyos recursos habrán de destinarse para otorgar mayores apoyos educativos, médicos y asistenciales a sus beneficiarios, a fin de contribuir a que mejoren la calidad de vida en su entorno familiar y social.
+
 ###### Artículo 124.
 
 Las autoridades estatales y municipales celebrarán acuerdos de colaboración con las instancias del orden federal, que permitan garantizar que el ingreso, permanencia y salida de niñas, niños y adolescentes del territorio nacional, sea conforme a las disposiciones legales cuando tales situaciones tengan impacto en el territorio de la Entidad.
@@ -2362,3 +2366,11 @@ P.O. 14 DE ABRIL DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+P.O. 22 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0442/2019 I P.O., POR MEDIO DEL CUAL SE ADICIONA AL ARTÍCULO 123 LA FRACCIÓN XXVI DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
