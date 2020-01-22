@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2019-03-08"
+last_updated: "2020-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE ENERO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -313,6 +313,10 @@ q) Impedir o restringir su incorporación, de toma de protesta o acceso al cargo
 r) Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos en razón de género; y
 
 s) Cualquier otro que tenga por objeto o resultado coartar los derechos político-electorales, incluyendo los motivados en razón de sexo o género.
+
+> <small>(ADICIONADA, G.O. 22 DE ENERO DE 2020)</small>
+
+X. Violencia digital.- Es cualquier acto realizado mediante el uso de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales, plataformas de internet, correo electrónico, o cualquier medio tecnológico, por el que se obtenga, exponga, distribuya, difunda, exhiba, reproduzca, transmita, comercialice, oferte, intercambie y comparta imágenes, audios o videos reales o simulados de contenido sexual íntimo de una persona, sin su consentimiento; que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño psicológico, económico o sexual tanto en el ámbito privado como en el público, además de daño moral, tanto a ellas como a sus familias.
 
 ## TITULO TERCERO. DE LA DECLARATORIA DE ALERTA Y MEDIDAS POR VIOLENCIA CONTRA LAS MUJERES
 
@@ -1248,6 +1252,10 @@ XIII. Implementar medidas para evitar que se capten y/o se transmitan por cualqu
 
 XIV. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, vida, libertad y seguridad de la mujer y las víctimas indirectas en situación de violencia.
 
+> <small>(ADICIONADA, G.O. 22 DE ENERO DE 2020)</small>
+
+XV. La interrupción, bloqueo, destrucción o eliminación de imágenes, audios, videos de contenido sexual íntimo de una persona, sin su consentimiento; de medios impresos, redes sociales, plataforma digital o cualquier dispositivo o medio tecnológico.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 64.
@@ -1333,6 +1341,14 @@ El juez tendrá veinticuatro horas para dictar resolución donde confirme, modif
 ###### Artículo 72 Bis.
 
 Las medidas de protección deberán ser registradas en el banco nacional de datos e información sobre casos y delitos de violencia cometida en contra de mujeres
+
+> <small>(ADICIONADO, G.O. 22 DE ENERO DE 2020)</small>
+
+Art 72 TER.- Tratándose de violencia digital, la o el Ministerio Público, la Jueza o Juez, procederá de acuerdo al siguiente procedimiento:
+
+I. La querella podrá presentarse vía electrónica o mediante escrito de manera personal; y
+
+II.- El Ministerio Público ordenará de manera inmediata, las medidas de protección necesarias, ordenando vía electrónica o mediante escrito a las empresas de plataformas digitales, redes sociales o páginas electrónicas, personas físicas o morales, la interrupción, bloqueo, destrucción, o eliminación de imágenes, audios, o videos relacionados con la querella.
 
 ### CAPÍTULO VIII. DE LA REPARACIÓN DEL DAÑO A LAS MUJERES VÍCTIMAS DE VIOLENCIA EN EL DISTRITO FEDERAL
 
@@ -1507,3 +1523,11 @@ PRIMERO.- A efecto de dar cumplimiento a lo dispuesto en el presente decreto, la
 SEGUNDO.- Con motivo de la entrada en vigor de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México, las referencias hechas al Instituto de las Mujeres en el Distrito Federal, deberán entenderse hechas a la Secretaría de las Mujeres.
 
 TERCERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 22 DE ENERO DE 2020.
+
+[N. DE. E TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL CÓDIGO PENAL PARA EL DISTRITO FEDERAL Y LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Remítase a la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México para los efectos legales a que haya lugar.
