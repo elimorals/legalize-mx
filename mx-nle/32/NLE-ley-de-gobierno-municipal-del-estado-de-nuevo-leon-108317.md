@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-gobierno-municipal-del-estado-de-nuevo-leon-108317"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-27"
-last_updated: "2019-11-27"
+last_updated: "2020-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 27 DE NOVIEMBRE DE 2019 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 169 PUBLICADO EN EL P.O. DE 4 DE OCTUBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de mayo de 2015.
 
@@ -1137,13 +1137,17 @@ II. La Tesorería Municipal;
 
 III. La Contraloría Municipal, en los Municipios con población superior a veinte mil habitantes;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2020)</small>
 
-IV. Un área encargada de Seguridad Pública Municipal; y
+IV. Un área encargada de Seguridad Pública Municipal;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2020)</small>
 
-V. Un área encargada de la Protección al Medio Ambiente.
+V. Un área encargada de la Protección al Medio Ambiente; y
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2020)</small>
+
+VI. Un área encargada de la Protección al Adulto Mayor.
 
 ###### ARTÍCULO 93.
 
@@ -1435,11 +1439,51 @@ ARTÍCULO 110 Bis I.- Son facultades y obligaciones del área encargada de la Pr
 
 ARTÍCULO 110 Bis II.-·Cuando las competencias del Estado y los Municipios sean concurrentes, la autoridad que hubiere dado cumplimiento a la atribución, deberá informarlo de inmediato a la otra autoridad también considerada como competente, debiendo tener un registro físico o electrónico de ello, evitando la duplicidad de acciones.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE ENERO DE 2020)</small>
+
+#### SECCIÓN VI. DE LA PROTECCIÓN AL ADULTO MAYOR
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2020)</small>
+
+ARTÍCULO 110 BIS III. El área encargada de la Atención al Adulto Mayor es la dependencia que tendrá como objeto coordinar, promover, apoyar, fomentar, vigilar y evaluar las acciones en materia de atención al Adulto Mayor.
+
+En los Municipios con más de veinte mil habitantes, el área respectiva tendrá el nivel de Dirección. En los demás Municipios dicha área tendrá el nivel de acuerdo a su posibilidad presupuestal.
+
+Los Municipios que así lo estimen podrán constituir dicha área como un organismo descentralizado.
+
+El titular del área será designado por el Ayuntamiento a propuesta del Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2020)</small>
+
+ARTÍCULO 110 BIS IV.- Son facultades del área de la Atención al Adulto Mayor:
+
+I. Determinar las políticas, directrices, estrategias, programas, proyectos y acciones hacia las personas adultas mayores, así como ejecutar, dar seguimiento y evaluar sus programas y acciones, de acuerdo con lo previsto en las leyes de la materia;
+
+II. Desarrollar los lineamientos, mecanismos e instrumentos para la vigilancia de las instituciones de atención a las personas adultas mayores, en términos de lo señalado en las leyes federales y locales;
+
+III. Promover la creación de centros de atención geriátrica y gerontológica.
+
+IV. Reconocer los derechos de las personas adultas mayores y los medios para su ejercicio;
+
+V. Promover acciones de salud, recreación y participación socioeconómica, con el fin de lograr una mejor calidad de vida en los adultos mayores;
+
+VI. Propiciar en la sociedad en general, una cultura de conocimiento, respeto y aprecio por las personas Adultas Mayores;
+
+VII. Propiciar la igualdad de oportunidades frente al resto de la sociedad;
+
+VIII. Celebrar convenios con asilos a fin de brindar atención a personas de la tercera edad, que así lo requieran por carecer de recursos económicos;
+
+IX. Llevar a cabo cursos, capacitaciones, programas para el cuidado de las personas adultas mayores; dirigidos principalmente al personal que trabaje en asilos y los servidores públicos municipales;
+
+X. Realizar programas de prevención y protección para aquellos que se encuentren en situación de riesgo o desamparo, para incorporarlos al núcleo familiar o albergarlos en instituciones de buena calidad para su debida atención, procurando que la prestación de los servicios asistenciales respondan a parámetros que aseguren una operación integral más eficaz, que contribuya a brindar una atención digna a personas adultas mayores en situación de riesgo y vulnerabilidad;
+
+XI. Coordinarse con las dependencias estatales o federales para celebrar conjuntamente programas de prevención y protección, en materia de defensa o atención al Adulto Mayor.
+
 #### SECCIÓN I. DE LOS ORGANISMOS DESCENTRALIZADOS
 
 (NOTA: EL 19 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 168/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 #### SECCIÓN II. DE LOS FIDEICOMISOS PÚBLICOS MUNICIPALES
 
@@ -2624,3 +2668,11 @@ P.O. 4 DE OCTUBRE DE 2019.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Los ayuntamientos dispondrán de un plazo de hasta de noventa días naturales posteriores a la entrada en vigor del presente decreto para homologar sus respectivos Reglamentos.
+
+P.O. 22 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 264. SE REFORMA (SIC) LAS FRACCIONES IV Y V DEL ARTÍCULO 92; SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 92, Y UNA SECCIÓN VI DEL CAPÍTULO II DEL TÍTULO CUARTO, QUE SE DENOMINADA (SIC) “DE LA PROTECCIÓN AL ADULTO MAYOR” CON LOS ARTÍCULOS 110 BIS III Y 110 BIS IV, DE LA LEY DE GOBIERNO MUNICIPAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente decreto entrará en vigor a los treinta días naturales contados a partir de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los Ayuntamientos de los Municipios tendrán un plazo de noventa días naturales contados a partir del día de la vigencia del presente Decreto para adecuar sus reglamentos a lo establecido en el mismo.
