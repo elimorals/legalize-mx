@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-servicio-de-la-defensoria-publica-del-estado-de-86569"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-16"
-last_updated: "2014-11-27"
+last_updated: "2020-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86569&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SERVICIO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2020.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 16 de diciembre de 2011.
 
@@ -109,13 +109,17 @@ II. En materia familiar, a cualquier persona y de manera preferente a quienes ca
 
 III. En materia civil y administrativa, a cualquier persona y de manera preferente, a quienes acrediten que por razones económicas, no están en condiciones de cubrir los honorarios a un abogado particular;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2020)</small>
 
-IV. En materia mercantil, a cualquier persona física y de manera preferente a aquella que tenga el carácter de deudor y que acredite la falta de recursos económicos para contratar a un abogado particular, y
+IV. En materia mercantil, a cualquier persona física y de manera preferente a aquella que tenga el carácter de deudor y que acredite la falta de recursos económicos para contratar a un abogado particular;
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2020)</small>
 
-V. En materia de adolescentes, a cualquier persona y de manera preferente a quienes acrediten que por razones económicas, no están en condiciones de cubrir los honorarios a un abogado particular.
+V. En materia de adolescentes, a cualquier persona y de manera preferente a quienes acrediten que, por razones económicas, no están en condiciones de cubrir los honorarios a un abogado particular; y
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2020)</small>
+
+VI. En materia laboral, a cualquier persona y de manera preferente a quienes tengan la calidad de trabajador o sus beneficiarios que acrediten que, por razones económicas, no están en condiciones de cubrir los honorarios a un abogado particular.
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
@@ -567,7 +571,7 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintiocho días del mes de noviembre de dos mil once.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 25 DE NOVIEMBRE DE 2013.
 
@@ -582,3 +586,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Para los efectos de este ordenamiento se tomarán en cuenta los artículos Segundo Transitorio del Decreto publicado el día viernes diecisiete de junio de dos mil once en el Periódico Oficial del Estado de Puebla, por virtud del cual se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica del Poder Judicial del Estado y el artículo Único Transitorio del Decreto publicado el trece de septiembre de dos mil trece en el Periódico Oficial del Estado de Puebla, por virtud del cual se reforman las fracciones II y III del mismo ordenamiento.
+
+P.O. 22 DE ENERO DE 2020.
+
+> <small>[N. DE E. TANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES IV Y V DEL ARTÍCULO 6; Y ADICIONA LA FRACCIÓN VI AL 6, DE LA LEY DEL SERVICIO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE PUEBLA”.]</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
