@@ -4,7 +4,7 @@ identifier: "LFAEBSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2002-12-19"
-last_updated: "2019-08-09"
+last_updated: "2020-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26816&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFAEBSP"
 
 LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE ENERO DE 2020.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 19 de diciembre de 2002.
 
@@ -48,7 +48,81 @@ Se expide la siguiente:
 
 ## TÍTULO PRIMERO. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE ENERO DE 2020)</small>
+
+###### Artículo 1o.
+
+La presente Ley es de orden e interés público, de observancia general en toda la República y tiene por objeto regular la administración y destino, por parte del Instituto para Devolver al Pueblo lo Robado, de los Bienes, activos y empresas siguientes:
+
+I.- Los asegurados y decomisados en los procedimientos penales federales;
+
+II.- Los recibidos en dación en pago para cubrir toda clase de créditos a favor del Gobierno Federal, de sus entidades o dependencias, incluyendo los puestos a disposición de la Tesorería de la Federación o de sus auxiliares legalmente facultados para ello;
+
+III.- Los que habiendo sido embargados por autoridades federales, hayan sido adjudicados a las entidades transferentes conforme a las leyes aplicables;
+
+IV.- Los que sean abandonados a favor del Gobierno Federal;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+V.- Los que estando sujetos a uno de los procedimientos establecidos en la legislación aduanera, en la legislación fiscal federal o en otros ordenamientos jurídicos aplicables a las Entidades Transferentes, deban ser vendidos, destruidos, donados o asignados, en virtud de ser inflamables, fungibles, perecederos, de fácil descomposición o deterioro, de mantenimiento o conservación de alta especialización, se trate de animales vivos y vehículos, o bien, cuya administración resulte incosteable para la Federación. En estos casos, se estará a la disponibilidad de recursos para su administración;
+
+VI.- Los que pasen a ser propiedad del Fisco Federal;
+
+VII.- Los títulos, valores, activos y demás derechos que sean susceptibles de enajenación, cuando así se disponga por las autoridades competentes;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+VIII.- Los Bienes desincorporados del régimen de dominio público de la Federación y los que constituyan el patrimonio de las entidades paraestatales;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+IX.- Cualquier bien que, sin ser propiedad de la Federación, en términos de la legislación aplicable, el Gobierno Federal, sus entidades o dependencias puedan disponer de él;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+X.- Los Bienes, activos o empresas sobre los cuales se haya declarado la extinción de dominio, mediante sentencia firme, o bien, sobre los cuales se hayan decretado medidas cautelares;
+
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2020)</small>
+
+XI.- Las empresas que hayan sido transferidas al Instituto para Devolver al Pueblo lo Robado, y éste haya aceptado el cargo de liquidador o responsable del proceso de desincorporación, liquidación o extinción y reciba recursos para la consecución de su encargo;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+XII.- Cualquier bien que reciban las personas servidoras públicas de manera gratuita, de un particular, con motivo del ejercicio de sus funciones, y
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+XIII.- Los demás que determinen la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública dentro del ámbito de sus atribuciones y conforme a las disposiciones legales aplicables; así como aquellos que reciba en encargo por parte de la Federación, estados y municipios.
+
+> <small>(REFORMADO, D.O.F. 22 DE ENERO DE 2020)</small>
+
+Los Bienes, activos o empresas a que se refiere este artículo, deberán ser transferidos al Instituto para Devolver al Pueblo lo Robado, cuando así lo determinen las leyes o cuando así lo ordenen las autoridades judiciales. En los demás casos, las Entidades Transferentes determinarán, de conformidad con las disposiciones aplicables para tal efecto, la conveniencia de transferir los Bienes al Instituto para Devolver al Pueblo lo Robado, o bien, de llevar a cabo por sí mismas la administración, destrucción o enajenación correspondientes, en cuyo caso aplicarán la normativa que corresponda de acuerdo a los Bienes de que se trate.
+
+> <small>(REFORMADO, D.O.F. 22 DE ENERO DE 2020)</small>
+
+El Instituto para Devolver al Pueblo lo Robado, podrá administrar, enajenar, usar, usufructuar, monetizar, dar destino o destruir directamente los Bienes, activos o empresas que le sean transferidos o nombrar depositarios, liquidadores, interventores o administradores de los mismos, así como encomendar a terceros la enajenación y destrucción de éstos.
+
+Los depositarios, liquidadores, interventores o administradores, así como los terceros a que hace referencia el párrafo anterior, serán preferentemente las dependencias o entidades de la Administración Pública Federal, o las autoridades estatales y municipales, previa solicitud o acuerdo correspondiente, sin perjuicio de que puedan ser designadas otras personas profesionalmente idóneas.
+
+> <small>(REFORMADO, D.O.F. 22 DE ENERO DE 2020)</small>
+
+Hasta que se realice la Transferencia de los Bienes al Instituto para Devolver al Pueblo lo Robado, éstos se regirán por las disposiciones aplicables de acuerdo a su naturaleza.
+
+> <small>(REFORMADO, D.O.F. 22 DE ENERO DE 2020)</small>
+
+Los Bienes provenientes de las entidades en desincorporación, liquidación o extinción a cargo del Instituto para Devolver al Pueblo lo Robado, se entenderán transferidos a partir de la designación del cargo correspondiente.
+
+> <small>(REFORMADO, D.O.F. 22 DE ENERO DE 2020)</small>
+
+La presente Ley será aplicable a los Bienes, activos o empresas desde que éstos sean formal y materialmente transferidos al Instituto para Devolver al Pueblo lo Robado y hasta que éste determine su destino, realice la destrucción, enajenación, Monetización o termine su administración, inclusive tratándose de Bienes de Entidades Transferentes cuyo marco legal aplicable establezca requisitos o procedimientos de administración, enajenación y control especiales o particulares, en las materias que regula esta Ley. Habiéndose presentado cualquiera de estos supuestos, se estará a las disposiciones aplicables para el entero, destino y determinación de la naturaleza de los ingresos correspondientes.
+
+> <small>(REFORMADO, D.O.F. 22 DE ENERO DE 2020)</small>
+
+Los bienes inmuebles del Gobierno Federal que se transfieran al Instituto para Devolver al Pueblo lo Robado, continuarán sujetos al régimen jurídico que establece la Ley General de Bienes Nacionales; con excepción de los que correspondan a empresas en proceso de desincorporación, los cuales se entenderán desincorporados desde el momento en que se publique el acuerdo por el que se autorice la desincorporación del ente correspondiente, los que se regirán por lo dispuesto en el propio acuerdo, las disposiciones de esta Ley y demás normativa aplicable.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+La interpretación de los preceptos de esta Ley, para efectos administrativos, corresponderá a la Secretaría de Hacienda y Crédito Público y a la Secretaría de la Función Pública, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 1.
 
@@ -142,23 +216,25 @@ III.- Bienes incosteables: Aquellos cuyo valor sea menor al equivalente a seis m
 
 IV.- Empresa: A las entidades paraestatales, las sociedades mercantiles, sociedades o asociaciones civiles, fideicomisos públicos y aquellos fideicomisos públicos que sean análogos a entidad paraestatal, fideicomisos privados que cuenten con estructura propia en proceso de desincorporación, liquidación o extinción, según sea el caso, que hayan sido transferidos al Instituto, salvo aquellas sujetas a un procedimiento penal federal;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE ENERO DE 2020)</small>
 
-V.- Entidades Transferentes: Las Autoridades Aduaneras; la Tesorería de la Federación; la Fiscalía General de la República, o bien las fiscalías generales de las entidades federativas; las dependencias y entidades de las administraciones públicas Federal, del Gobierno de la Ciudad de México, Estatales y Municipales; las unidades administrativas de la Presidencia de la República; los órganos reguladores coordinados en materia energética; las empresas productivas del Estado y sus empresas productivas subsidiarias y empresas filiales; la Cámara de Diputados y la Cámara de Senadores del Poder Legislativo; los órganos del Poder Judicial de la Federación, de la Ciudad de México y de los Estados; las instituciones de carácter federal o local con autonomía otorgada por la Constitución Política de los Estados Unidos Mexicanos o por las Constituciones de los Estados; los fideicomisos en los que alguna de las anteriores instituciones sea fideicomitente o fideicomisaria; y cualquier otra institución que llegase a tener el carácter de pública en términos de disposición constitucional o legal; que en términos de las disposiciones aplicables transfieran para su administración, enajenación o destrucción los Bienes a que se refiere el artículo 1o. de esta Ley al Instituto de Administración de Bienes y Activos.
+V.- Entidades Transferentes: Las Autoridades Aduaneras; la Tesorería de la Federación; la Fiscalía General de la República, o bien las fiscalías generales de las entidades federativas; las dependencias y entidades de las administraciones públicas Federal, del Gobierno de la Ciudad de México, Estatales y Municipales; las unidades administrativas de la Presidencia de la República; los órganos reguladores coordinados en materia energética; las empresas productivas del Estado y sus empresas productivas subsidiarias y empresas filiales; la Cámara de Diputados y la Cámara de Senadores del Poder Legislativo; los órganos del Poder Judicial de la Federación, de la Ciudad de México y de los Estados; las instituciones de carácter federal o local con autonomía otorgada por la Constitución Política de los Estados Unidos Mexicanos o por las Constituciones de los Estados; los fideicomisos en los que alguna de las anteriores instituciones sea fideicomitente o fideicomisaria; y cualquier otra institución que llegase a tener el carácter de pública en términos de disposición constitucional o legal; que en términos de las disposiciones aplicables transfieran para su administración, enajenación o destrucción los Bienes a que se refiere el artículo 1o. de esta Ley al Instituto para Devolver al Pueblo lo Robado.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 Tratándose de inmuebles cuya administración competa a la Secretaría de la Función Pública, se entenderá como Entidad Transferente, exclusivamente a esa dependencia;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2020)</small>
 
-VI.- Instituto: Al organismo descentralizado de la Administración Pública Federal, denominado Instituto de Administración de Bienes y Activos, previsto en el Título Sexto de la presente Ley;
+VI.- Instituto: Al organismo descentralizado de la Administración Pública Federal, denominado Instituto para Devolver al Pueblo lo Robado, previsto en el Título Sexto de la presente Ley;
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 VII.- Interesado: La persona que acredite ser titular de un derecho subjetivo o de un interés legítimo sobre los Bienes, activos o empresas a que se refiere el artículo 1o. de esta Ley;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2020)</small>
 
-VIII.- Junta de Gobierno: La Junta de Gobierno del Instituto de Administración de Bienes y Activos;
+VIII.- Junta de Gobierno: La Junta de Gobierno del Instituto para Devolver al Pueblo lo Robado;
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
@@ -1562,7 +1638,7 @@ Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin e
 
 D.O.F. 9 DE AGOSTO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO, Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO, DE LA LEY DE CONCURSOS MERCANTILES Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO, Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO, DE LA LEY DE CONCURSOS MERCANTILES Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL".]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -1580,7 +1656,9 @@ Los recursos destinados o pendientes de destinarse al Fondo a que se refiere el 
 
 Sexto. El presente Decreto será aplicable para los procedimientos de preparación de la acción de extinción de dominio que se inicien a partir de su entrada en vigor, con independencia de que los supuestos para su procedencia hayan sucedido con anterioridad, siempre y cuando no se haya ejercido la acción de extinción de dominio.
 
-Séptimo. Todas las referencias que hagan mención al Servicio de Administración y Enajenación de Bienes en la normatividad vigente, se entenderán realizadas al Instituto de Administración de Bienes y Activos, por lo que las obligaciones a cargo de dicho organismo que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado para el ejercicio fiscal en curso, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto del organismo descentralizado, y en caso de que se realice alguna modificación a su estructura orgánica, ésta deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, los cuales serán cubiertos por el Instituto de Administración de Bienes y Activos a costo compensado, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
+> <small>(REFORMADO, D.O.F. 22 DE ENERO DE 2020)</small>
+
+Séptimo. Todas las referencias que hagan mención al Servicio de Administración y Enajenación de Bienes en la normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado, por lo que las obligaciones a cargo de dicho organismo que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado para el ejercicio fiscal en curso, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto del organismo descentralizado, y en caso de que se realice alguna modificación a su estructura orgánica, ésta deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, los cuales serán cubiertos por el Instituto para Devolver al Pueblo lo Robado a costo compensado, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
 
 Octavo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
 
@@ -1591,3 +1669,11 @@ Décimo. El titular del Ejecutivo Federal, dentro de un plazo que no excederá l
 Décimo Primero. El Gabinete Social de la Presidencia de la República, por conducto de su Secretaría Técnica expedirá en los noventa días naturales posteriores a la entrada en vigor del presente Decreto, su reglamento interior.
 
 Décimo Segundo. Dentro del año siguiente a la entrada en vigor de la Ley Nacional de Extinción de Dominio, la persona titular de la Fiscalía General de la República, realizará una convocatoria pública para la revisión del marco constitucional y jurídico en materia de extinción de dominio. Dicha convocatoria tendrá como objetivo la identificación, discusión y formulación de las reformas constitucionales y de la Ley Nacional de Extinción de Dominio para su óptimo funcionamiento. Los resultados obtenidos serán públicos y se comunicarán al Congreso de la Unión con el fin de que éste realice las adecuaciones al marco jurídico que considere sean necesarias y pertinentes.
+
+D.O.F. 22 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO Y, EL ARTÍCULO SÉPTIMO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO, Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO, DE LA LEY DE CONCURSOS MERCANTILES Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, PUBLICADO EL 9 DE AGOSTO DE 2019".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Todas las referencias que hagan mención al Instituto de Administración de Bienes y Activos en las leyes y demás normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado.
