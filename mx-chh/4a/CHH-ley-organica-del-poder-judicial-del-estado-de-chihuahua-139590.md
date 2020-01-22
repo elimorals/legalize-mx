@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-139590"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-12-28"
-last_updated: "2019-12-28"
+last_updated: "2020-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE ENERO DE 2020 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE ENERO DE 2020]</small>
 
 Ley publicada en Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 28 de diciembre de 2019.
 
@@ -597,7 +597,9 @@ I. No integrará Sala.
 
 II. Durará en su encargo tres años, con posibilidad de reelección por una ocasión para el periodo inmediato siguiente.
 
-III. Su elección se hará el cuatro de octubre del año que corresponda, de entre las Magistradas y los Magistrados, por el voto de al menos las dos terceras partes de las personas presentes que integren el Pleno del Tribunal, privilegiando la alternancia de género. En caso de que ninguna Magistrada o Magistrado alcance al menos las dos terceras partes de los votos, se realizará una votación en una segunda ronda entre las dos personas candidatas que, en su caso, hayan obtenido más votos, resultando ganadora, quien obtenga la mayoría. En dicho proceso se deberá garantizar la alternancia de género.
+> <small>(F. DE E., P.O. 22 DE ENERO DE 2020)</small>
+
+II (sic). Su elección se hará el cuatro de octubre del año que corresponda, de entre las Magistradas y los Magistrados, por el voto de al menos las dos terceras partes de las personas presentes que integren el Pleno del Tribunal, privilegiando la alternancia de género. En caso de que ninguna Magistrada o Magistrado alcance al menos las dos terceras partes de los votos, se realizará una votación en una segunda ronda entre las dos personas candidatas que, en su caso, hayan obtenido más votos, resultando ganadora, quien obtenga la mayoría. En dicho proceso se deberá privilegiar la alternancia de género.
 
 Para ocupar la titularidad de la Presidencia se requiere haber desempeñado el cargo de Magistrada o Magistrado durante un periodo mínimo de cinco años ininterrumpidos, cuyo cómputo se hará a partir de que la persona titular de la Magistratura haya sido nombrada de manera definitiva por el Congreso del Estado. Para los efectos de este cálculo la reelección no implica un nuevo nombramiento sino la prolongación del nombramiento definitivo.
 
