@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-sistema-estatal-de-proteccion-civil-96256"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-20"
-last_updated: "2017-12-29"
+last_updated: "2020-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2020.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Puebla, el miércoles 20 de marzo de 2013.
 
@@ -115,7 +115,9 @@ XXV. Grupos Voluntarios: Las personas físicas o jurídicas, que se han acredita
 
 XXVI. Identificación de Riesgos: Reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad;
 
-XXVII. Infraestructura Estratégica: Aquélla que es indispensable para la provisión de bienes y servicios públicos, y cuya destrucción o inhabilitación es una amenaza en contra de la seguridad nacional;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2020)</small>
+
+XXVII. Infraestructura Estratégica: Aquélla que es indispensable para la provisión de bienes y servicios públicos, y cuya destrucción o inhabilitación es una amenaza en contra de la seguridad nacional y ocasionaría una afectación a la población, sus bienes o entorno. La unidad mínima de dicha infraestructura estratégica es la instalación vital;
 
 XXVIII. Instrumentos Financieros de Gestión de Riesgos: Son aquellos programas y mecanismos de financiamiento y cofinanciamiento con el que el gobierno federal apoya al Estado, en la ejecución de proyectos y acciones derivadas de la gestión integral de riesgos, para la prevención y atención de situaciones de emergencia y/o desastre de origen natural;
 
@@ -1788,3 +1790,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 22 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXVII DEL ARTÍCULO 2 DE LA LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
