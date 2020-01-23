@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-austeridad-transparencia-en-remuneraciones-132087"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2019-12-24"
+last_updated: "2020-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132087&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-28"
 
 LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE ENERO DE 2020.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 31 de diciembre de 2018.
 
@@ -590,11 +590,15 @@ Las o los Alcaldes determinarán su Programa de Inversión con base en las dispo
 
 Los programas sociales que implementen las Alcaldías deberán coordinarse con el Sector Central con el fin de unificar padrones de beneficiarios para evitar su duplicidad con el propósito de maximizar el impacto económico y social de los mismos. Para materializar lo anterior, las Alcaldías deberán observar lo dispuesto en esta Ley.
 
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+
 ###### Artículo 35.
 
 En caso de que el Congreso apruebe recursos adicionales para las Unidades Responsables del Gasto, a los propuestos por la Secretaría, se contendrán en un Anexo específico dentro del Presupuesto de Egresos donde se detallen los proyectos o acciones a realizar para el ejercicio fiscal que corresponda.
 
 La Secretaría elaborará un formato de seguimiento del ejercicio de los recursos a los que se refiere el párrafo anterior, a efecto de que las Unidades Responsables del Gasto informen sobre los avances de su ejercicio. La información se incorporará en un capítulo especial del Informe de Avance Trimestral que envía la Secretaría al Congreso.
+
+Asimismo, la Secretaría elaborará un formato de seguimiento del ejercicio de los recursos asignados a las Alcaldías del Fondo Adicional de Financiamiento de las Alcaldías, a efecto de que éstas informen sobre el destino y los avances de su ejercicio. La información se incorporará en un Capítulo especial del Informe de Avance Trimestral que envía la Secretaría al Congreso.
 
 ### CAPÍTULO II. De los Aspectos Generales de los Programas
 
@@ -692,6 +696,8 @@ La Iniciativa de Ley de Ingresos deberá contener, invariablemente, la estimaci�
 
 La Secretaría podrá solicitar a las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades la información que considere pertinente para la elaboración del Proyecto de la Ley de Ingresos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 23 DE ENERO DE 2020)</small>
+
 ###### Artículo 47.
 
 El proyecto de Presupuesto de Egresos se integrará con los siguientes elementos:
@@ -704,7 +710,9 @@ III. Descripción clara de las funciones y subfunciones que sean base del proyec
 
 IV. Descripción del presupuesto con enfoque de equidad de género, derechos humanos,atención (sic) de niñas, niños y adolescentes y sustentabilidad; este último se contendrá en un Anexo específico de las actividades institucionales del Resultado correspondiente que realicen las Unidades Responsables del Gasto;
 
-V. La identificación expresa de las actividades institucionales que se llevarán a cabo para el cumplimiento de los resultados contenidos en el presupuesto de las Unidades Responsables del Gasto, precisando los recursos involucrados para su obtención;
+> <small>(REFORMADA, G.O. 23 DE ENERO DE 2020)</small>
+
+V. Descripción y explicación del presupuesto que se asignará a las Alcaldías para la preservación, protección, conservación, revalorización, restauración, investigación y difusión del patrimonio histórico, cultural, inmaterial y material, natural, rural, urbano, territorial y otros bienes declarados como monumentos, zonas, paisajes y rutas culturales y conjuntos arqueológicos, artísticos, históricos y paleontológicos en sus demarcaciones;
 
 VI. Explicación y comentarios de las funciones consideradas como prioritarias, así como las obras y adquisiciones cuya ejecución abarque dos o más ejercicios fiscales;
 
@@ -720,7 +728,9 @@ XI. Los montos de los recursos públicos que correspondan a los Órganos de Gobi
 
 XII. Analítico de Claves Presupuestales;
 
-XIII. Analítico de plazas;
+> <small>(REFORMADA, G.O. 23 DE ENERO DE 2020)</small>
+
+XIII. La propuesta de monto para el Fondo Adicional de Financiamiento de las Alcaldías mandatado en la Constitución Local, así como su propuesta de distribución entre las Alcaldías, conforme a los criterios de población, marginación, infraestructura y equipamiento urbano;
 
 XIV. Catálogo de Unidades Responsables, y
 
@@ -968,6 +978,8 @@ De no cumplir con los requisitos antes señalados, dichos compromisos se pagará
 
 Para el caso de que las estimaciones de ingresos no se cumplan, la Secretaría determinará el registro presupuestal que corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 23 DE ENERO DE 2020)</small>
+
 ###### Artículo 80.
 
 Los recursos remanentes de los ejercicios anteriores serán considerados ingresos para todos los efectos y deberán destinarse a mejorar el balance fiscal, y el cumplimiento a obligaciones constitucionales, excepto los remanentes federales ya que tienen un fin específico.
@@ -978,13 +990,25 @@ No es aplicable lo dispuesto en este artículo, tratándose de recursos presupue
 
 Las unidades responsables del gasto que por cualquier motivo al término del ejercicio fiscal que corresponda conserve fondos presupuestales o recursos que no hayan sido devengados y, en su caso, los rendimientos obtenidos, los enterarán a la Secretaría dentro de los 15 días naturales siguientes al cierre del ejercicio. Las Unidades responsables del gasto que hayan recibido recursos federales, así como sus rendimientos financieros y que al día 31 de diciembre no hayan sido devengados, en el caso en que proceda su devolución, los enterarán a la Secretaría dentro de los 10 días naturales siguientes al cierre del ejercicio, salvo que las disposiciones federales establezcan otra fecha.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 23 DE ENERO DE 2020)</small>
+
 De los remanentes a los que se refieren los párrafos anteriores, se destinará como mínimo una cantidad equivalente al 30% del total, a un fondo para estabilizar los recursos presupuestales de las Dependencias, Entidades, Órganos Desconcentrados y Alcaldías, el cual será destinado a la atención de contingencias y emergencias epidemiológicas y de desastres naturales; así como a mejorar el balance fiscal, de conformidad con las reglas que para tal efecto emita la Secretaría. Una vez que el fondo alcance el valor equivalente al 0.50% del PIB de la Ciudad de México del año inmediato anterior, los excedentes del fondo podrán ser destinados conforme a lo siguiente:
 
-a) Proyectos de infraestructura, hasta por un treinta y cinco por ciento.
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
 
-b) Proyectos ambientales, hasta por un quince por ciento.
+a) Proyectos de infraestructura, hasta por un cincuenta por ciento.
 
-c) Fondos establecidos en la Constitución Política de la Ciudad de México, hasta por un cincuenta por ciento.
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+
+b) Proyectos ambientales, hasta por un treinta por ciento.
+
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+
+c) Proyectos de infraestructura peatonal y ciclista en las Alcaldías, hasta por un veinte por ciento. Los proyectos deberán ser presentados para la aprobación de la Secretaría y se ejecutarán bajo un esquema de coinversión por medio del cual las Alcaldías aportarán un peso por cada uno que se obtenga del Fondo. La ejecución del proyecto estará a cargo de la Alcaldía correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 23 DE ENERO DE 2020)</small>
+
+La Secretaría deberá emitir las Reglas de Operación del Fondo para estabilizar los recursos presupuestales de las Dependencias, Entidades, Órganos Desconcentrados y Alcaldías dentro de los primeros quince días del mes de enero del respectivo ejercicio fiscal.
 
 Los Órganos de Gobierno deberán informar al Congreso dentro de los primeros 5 días de enero de cada año, los fondos presupuestales o recursos provenientes del Gobierno de la Ciudad de México y, en su caso, los rendimientos obtenidos, que al término del ejercicio anterior conserven. Asimismo, deberán informar al Congreso los recursos remanentes del ejercicio fiscal anterior, así como proponerle su aplicación y destino a más tardar el 5 de marzo siguiente.
 
@@ -1664,9 +1688,15 @@ Las Entidades, así como los Órganos de Gobierno y Autónomos, serán responsab
 
 Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, suministrarán a la Secretaría con la periodicidad que ésta lo determine, la información presupuestal, programática, contable y financiera que requiera.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ENERO DE 2020)</small>
+
 ###### Artículo 153.
 
-La información financiera, presupuestal, programática y contable que emane consolidadamente del sistema y de los registros auxiliares de las Dependencias, Órganos Desconcentrados, Alcaldías y en el caso de las Entidades de sus estados financieros, será la que sirva de base para que la Secretaría elabore los informes trimestrales así como de formular la Cuenta Pública de la Ciudad de México y someterlos a la consideración de la o el Jefe de Gobierno para su presentación en los términos de la Constitución Política de los Estados Unidos Mexicanos.
+La información financiera, presupuestal, programática y contable que emane consolidadamente del sistema y de los registros auxiliares de las Dependencias, Órganos Desconcentrados, Alcaldías y en el caso de las Entidades de sus estados financieros, será la que sirva de base para que la Secretaria elabore los informes trimestrales así como de formular la Cuenta Pública de la Ciudad de México y someterlos a la consideración de la persona Titular de la Jefatura de Gobierno para su presentación en los términos de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 23 DE ENERO DE 2020)</small>
+
+Los informes trimestrales deberán ser remitidos por la persona Titular de la Jefatura de Gobierno al Congreso por conducto de la Secretaría, dentro de los treinta días naturales posteriores a la fecha de corte del periodo respectivo.
 
 La información contable financiera de aquellas Entidades que operen con el Registro Federal de Contribuyentes del Gobierno de la Ciudad de México, será consolidada por la Secretaría.
 
@@ -2035,3 +2065,11 @@ G.O. 24 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 95 DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 35, 47, 80 Y 153 DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Las reformas a las disposiciones relativas a los elementos que deben integrar el proyecto de Presupuesto de Egresos, establecidas en el artículo 47, fracciones V y XIII, serán aplicables a partir del Proyecto de Presupuesto de Egresos de la Ciudad de México para el ejercicio 2021.
