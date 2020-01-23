@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-de-educacion-media-superior-440
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-03-23"
-last_updated: "2011-01-28"
+last_updated: "2020-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44032&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,13 @@ issue_date: "2005-03-18"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE EDUCACION MEDIA SUPERIOR DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO PRIMERO DEL AVISO, PUBLICADO EN LA G.O. DE 23 DE ENERO DE 2020, SE MODIFICAN TODAS LAS REFERENCIAS QUE SE HAGAN AL DISTRITO FEDERAL, EN EL ESTATUTO ORGÁNICO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DEL DISTRITO FEDERAL, POR LA DE CIUDAD DE MÉXICO.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE JULIO DE 2020 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 ESTATUTO ORGANICO DEL INSTITUTO DE EDUCACION MEDIA SUPERIOR DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE ENERO DE 2020.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el miércoles 23 de marzo de 2005.
 
@@ -38,15 +42,21 @@ ESTATUTO ORGÁNICO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DEL DISTRITO FEDER
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.O. 5 DE OCTUBRE DE 2007)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
 
 ###### Artículo 1.
 
-El Instituto de Educación Media Superior del Distrito Federal es un Organismo Público Descentralizado de la Administración Pública del Distrito Federal, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de educación del Distrito Federal.
+El Instituto de Educación Media Superior de la Ciudad de México es un organismo público descentralizado de la Administración Pública de la Ciudad de México, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México, de conformidad con lo establecido en el Artículo Primero de su Decreto de Creación.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ENERO DE 2020)</small>
 
 ###### Artículo 2.
 
-El Instituto tiene por objeto impartir e impulsar la educación de nivel medio superior en el Distrito Federal, especialmente en aquellas zonas en las que la atención de la demanda educativa sea insuficiente, o así lo requiera el interés colectivo. La educación que imparta el Instituto será gratuita, democrática, promoverá el libre examen y discusión de las ideas y estará orientada a satisfacer las necesidades de la población de la Ciudad de México.
+El Instituto tiene por objeto impartir e impulsar la educación de nivel medio superior en la Ciudad de México, a través de las modalidades: escolarizada, no escolarizada (línea y distancia) y mixta (semiescolarizada), especialmente en aquellas zonas en las que la atención de la demanda educativa sea insuficiente, o así lo requiera el interés colectivo. La educación que imparta el Instituto será gratuita, democrática, promoverá el libre examen y discusión de las ideas y estará orientada a satisfacer las necesidades de la población de la Ciudad de México.
 
 Para el cumplimiento de su objeto, el Instituto establece el Sistema de Bachillerato del Gobierno del Distrito Federal, el cual se encuentra conformado por:
 
@@ -64,35 +74,37 @@ La Comunidad del Instituto estará integrada por sus autoridades, académicos, e
 
 El presente ordenamiento tiene por objeto establecer la estructura y organización internas del Instituto de Educación Media Superior del Distrito Federal, determinar el ámbito de atribuciones de sus órganos de gobierno, consultivos y de las unidades administrativas que lo constituyen. Asimismo, este ordenamiento se propone fijar los criterios básicos que orientarán el desarrollo académico del Instituto y la forma como se impartirán los servicios educativos que preste en sus planteles y en los planteles que se incorporen a su Sistema.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+
 ###### Artículo 4.
 
 Para efectos de este Estatuto Orgánico, se entenderá por:
 
-I. Ley: La Ley Orgánica de la Administración Pública del Distrito Federal;
+I. Ley: La Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México;
 
-II. Reglamento: El Reglamento Interior de la Administración Pública del Distrito Federal;
+II. Reglamento: El Reglamento Interior del Poder Ejecutivo y de la Administración Pública de la Ciudad de México;
 
-III. Estatuto de Gobierno: El Estatuto de Gobierno del Distrito Federal;
+III. Constitución: La Constitución Política de la Ciudad de México;
 
-IV. Jefe de Gobierno: El Jefe de Gobierno del Distrito Federal;
+IV. Jefe de Gobierno: El Jefe de Gobierno de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 5 DE OCTUBRE DE 2007)</small>
+V. Secretaría: La Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México;
 
-V. Secretaría: La Secretaría de Educación del Distrito Federal;
+VI. Sistema: El Sistema de Bachillerato del Gobierno de la Ciudad de México;
 
-VI. Sistema: El Sistema de Bachillerato del Gobierno del Distrito Federal;
+VII. Instituto: El Instituto de Educación Media Superior de la Ciudad de México.
 
-VII. Instituto: El Instituto de Educación Media Superior del Distrito Federal;
+VIII. Consejo de Gobierno: El Consejo de Gobierno del Instituto de Educación Media Superior de la Ciudad de México;
 
-VIII. Consejo de Gobierno: El Consejo de Gobierno del Instituto de Educación Media Superior del Distrito Federal;
+IX. Director General: El Director General del Instituto de Educación Media Superior de la Ciudad de México;
 
-IX. Director General: El Director General del Instituto de Educación Media Superior del Distrito Federal;
+X. Planteles: Los planteles de educación media superior que conforman el Sistema de Bachillerato del Gobierno de la Ciudad de México, establecido y administrado por el Instituto de Educación Media Superior de la Ciudad de México;
 
-X. Planteles: Los planteles de educación media superior que conforman el Sistema de Bachillerato del Gobierno del Distrito Federal, establecido y administrado por el Instituto de Educación Media Superior del Distrito Federal;
+XI. Modelo Educativo: El modelo pedagógico de bachillerato desarrollado por el Instituto de Educación Media Superior de la Ciudad de México;
 
-XI. Modelo Educativo: El modelo pedagógico de bachillerato desarrollado por el Instituto de Educación Media Superior del Distrito Federal;
-
-XII. Estatuto Orgánico: El presente Estatuto Orgánico del Instituto de Educación Media Superior del Distrito Federal.
+XII. Estatuto Orgánico: El presente Estatuto Orgánico del Instituto de Educación Media Superior de la Ciudad de México.
 
 ### CAPÍTULO SEGUNDO. DEL ÓRGANO DE GOBIERNO
 
@@ -100,43 +112,35 @@ XII. Estatuto Orgánico: El presente Estatuto Orgánico del Instituto de Educaci
 
 El Gobierno y la Administración del Instituto estarán a cargo de un Consejo de Gobierno y de una Dirección General respectivamente, quienes para su desempeño tendrán las facultades y funciones que les confiere su Decreto de Creación y el presente Estatuto.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+
 ###### Artículo 6.
 
 El Consejo de Gobierno estará integrado por los siguientes miembros propietarios:
 
-I. El Titular de la Secretaría de Desarrollo Social, quien será el Presidente;
+I. El Titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación, quien será el Presidente;
 
 II. El Titular de la Secretaría de Gobierno;
 
-III. El Titular de la Secretaría de Desarrollo Económico;
+III. El Titular de la Secretaría de Inclusión y Bienestar Social;
 
-IV. El Titular de la Secretaría de Finanzas;
+IV. El Titular de la Secretaría de Desarrollo Económico;
 
-V. El Titular de la Secretaría de Cultura;
+V. El Titular de la Secretaría de Administración y Finanzas;
 
-> <small>(REFORMADA, G.O. 5 DE OCTUBRE DE 2007)</small>
+VI. El Titular de la Secretaría de Cultura;
 
-VI. El Titular de la Secretaría de Desarrollo Social;
+VII. El Titular de la Secretaría de las Mujeres;
 
-> <small>(REFORMADA, G.O. 5 DE OCTUBRE DE 2007)</small>
+VIII. El Titular de la Secretaría de Seguridad Ciudadana;
 
-VII. El Titular de la Oficialía Mayor;
-
-> <small>(REFORMADA, G.O. 5 DE OCTUBRE DE 2007)</small>
-
-VIII. El Rector de la Universidad Autónoma de la Ciudad de México;
-
-> <small>(REFORMADA, G.O. 5 DE OCTUBRE DE 2007)</small>
-
-IX. El Titular del Instituto de ciencia y Tecnología del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 5 DE OCTUBRE DE 2007)</small>
+IX. La Persona que ocupe la Rectoría de la Universidad Autónoma de la Ciudad de México;
 
 X. Dos académicos emanados del Consejo Académico del Instituto; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 5 DE OCTUBRE DE 2007)</small>
-
-XI. Dos ciudadanos designados por el Jefe de Gobierno del Distrito Federal.
+XI. Dos ciudadanos designados por el Jefe de Gobierno de la Ciudad de México.
 
 El cargo de miembro del Consejo será personal y no podrá desempeñarse por medio de representante. No obstante, cada titular podrá designar a su suplente, excepto en el caso del Presidente.
 
@@ -148,11 +152,9 @@ A propuesta del Presidente se nombrará entre personas ajenas al Instituto, a un
 
 El Director General del Instituto asistirá a las reuniones del Consejo de Gobierno con voz pero sin voto, y podrá también asistir a las sesiones de los Comités y Subcomités Técnicos Especializados.
 
-> <small>(ADICIONADO, G.O. 28 DE ENERO DE 2011)</small>
+El Secretario Técnico podrá convocar a las sesiones de (sic) Consejo, tanto ordinarias como extraordinarias, por instrucciones del titular de la Presidencia.
 
-El Secretario Técnico podrá convocar a las sesiones de Consejo, tanto ordinarias como extraordinarias, por instrucciones del titular de la Presidencia.
-
-El Consejo de Gobierno, cuando lo estime conveniente, podrá invitar a participar en sus sesiones, con voz pero sin voto, a representantes de otras dependencias, unidades administrativas, entidades de la Administración Pública Federal o del Distrito Federal, así como a miembros del Consejo General Interno y del Consejo Académico del Instituto o a especialistas en el tema cuando se traten asuntos que así lo requieran.
+El Consejo de Gobierno, cuando lo estime conveniente, podrá invitar a participar en sus sesiones, con voz pero sin voto, a representantes de otras dependencias, unidades administrativas, entidades de la Administración Pública Federal o de la Ciudad de México, así como a miembros del Consejo General Interno y del Consejo Académico del Instituto o a especialistas en el tema cuando se traten asuntos que así lo requieran.
 
 ###### Artículo 7.
 
@@ -168,7 +170,11 @@ Las resoluciones del Consejo se tomarán por mayoría de votos, teniendo el Pres
 
 Para la celebración de las sesiones del Consejo de Gobierno se formulará un orden del día al que se adjuntará la documentación pertinente de los asuntos a tratar, información que deberá ser recibida por sus miembros y por los comisarios, con una anticipación no menor de cinco días hábiles en el caso de las ordinarias y de tres días en el caso de las extraordinarias.
 
-La falta de asistencia injustificada de los Servidores Públicos a las sesiones que sean convocados, dará lugar a la aplicación de las acciones previstas en la Ley Federal de Responsabilidades de los Servidores Públicos.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+
+La falta de asistencia injustificada de los Servidores Públicos a las sesiones que sean convocados, dará lugar a la aplicación de las acciones previstas en la Ley de Responsabilidades Administrativas de la Ciudad de México;
 
 ###### Artículo 8.
 
@@ -194,7 +200,11 @@ IX. Aprobar de acuerdo con las disposiciones aplicables las políticas, bases y 
 
 X. Aprobar las normas conforme a las cuales el Instituto podrá celebrar convenios de coordinación con los titulares de los órganos político-administrativos de las demarcaciones del Distrito Federal;
 
-XI. Autorizar al Director General del Instituto llevar a cabo los trámites necesarios ante la Secretaría de Finanzas para la solicitud de créditos internos y externos que el financiamiento del Instituto requiera, observando las leyes, reglamentos y lineamientos que dicten las autoridades competentes en la materia;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+
+> <small>(REFORMADA, G.O. 23 DE ENERO DE 2020)</small>
+
+XI. Autorizar al Director General del Instituto llevar a cabo los trámites necesarios ante la Secretaría de Administración y Finanzas para la solicitud de créditos internos y externos que el financiamiento del Instituto requiera, observando las leyes, reglamentos y lineamientos que dicten las autoridades competentes en la materia;
 
 XII. Expedir las normas o bases generales sobre las que el Director General pueda disponer de los activos fijos del Instituto, las que deberán apegarse a las leyes aplicables;
 
@@ -332,11 +342,19 @@ Sus acciones tendrán por objeto apoyar la función directiva desde el punto de 
 
 El Órgano de Vigilancia estará integrado por un Comisario propietario y un suplente, designados por la Contraloría General del Distrito Federal, quienes apoyarán y evaluarán el desempeño general del Instituto.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+
 ###### Artículo 15.
 
-El Comisario tendrá las atribuciones que le definan la Ley Orgánica y el Reglamento Interior de la Administración Pública del Distrito Federal.
+El Comisario tendrá las atribuciones que le definan la Ley Orgánica y el Reglamento Interior del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
 
 ### CAPÍTULO SÉPTIMO. DE LA ESTRUCTURA Y FUNCIONES DE LAS UNIDADES ADMINISTRATIVAS DEL INSTITUTO
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
 
 ###### Artículo 16.
 
@@ -348,13 +366,19 @@ II. Contraloría Interna
 
 III. Unidades Administrativas:
 
-a) Dirección Académica
+a) Dirección de Asuntos Académicos
 
-b) Dirección Técnica
+b) Dirección de Asuntos Estudiantiles
 
-c) Dirección Administrativa
+c) Dirección de Innovación y Desarrollo de Gestión
 
-d) Subdirección de Coordinación de Planteles
+d) Dirección de Administración y Finanzas
+
+e) Dirección Jurídica y Normativa
+
+f) Subdirección de Tecnologías de la Información y Comunicaciones
+
+g) Coordinaciones de Plantel
 
 IV.- Órganos Consultivos:
 
@@ -370,43 +394,95 @@ d) Consejo de Participación Social de los Planteles.
 
 El Director General podrá delegar sus facultades en los servidores públicos de las Unidades Administrativas del Instituto, con excepción de aquéllas que por disposición legal expresa o determinación del Consejo de Gobierno le correspondan exclusivamente.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+
 ###### Artículo 18.
 
 A la Contraloría Interna le corresponde:
 
-I. Observar en toda su operación las disposiciones legales específicas aplicables, así como las normas generales que establezca la Contraloría General del Distrito Federal;
+I. Elaborar y presentar el proyecto de programas anuales de Auditoría y de Control Interno atendiendo a las disposiciones jurídicas y administrativas aplicables;
 
-II. Formular propuestas de mejoras regulatorias y administrativas tendientes a hacer más eficiente la operación y prevención de cualquier posible desviación en la operación del Instituto;
+II. Solicitar la incorporación de auditorías extraordinarias y la modificación o cancelación de auditorías internas al programa anual, agregando la justificación conducente;
 
-III. Vigilar que los instrumentos de control se apliquen de manera eficiente en las áreas que integran el Instituto;
+III. Presentar las propuestas de intervenciones a desarrollar en el año y en su caso, presentar las solicitudes de modificaciones, cancelaciones o adiciones de intervenciones una vez autorizadas, para ser incorporadas al correspondiente programa anual;
 
-IV. Emitir opinión sobre el contenido de los convenios, contratos, bases de licitación para concursos y en aquellos actos significativos que representen ingresos, egresos, así como proyectos de disposiciones, políticas, normas y lineamientos en materia de control;
+IV. Atender las acciones de coordinación, supervisión y evaluación que ejecuten o soliciten las Direcciones de Coordinación de órganos internos de control que correspondan, incluyendo el desahogo de aclaraciones conducentes, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-V. Verificar los mecanismos que permitan la correcta aplicación de los recursos en los convenios en los que participe el Instituto;
+V. Atender o dar seguimiento a las recomendaciones u observaciones según sea el caso, determinadas por órganos de fiscalización interna o externa de la Ciudad de México o de la Federación;
 
-VI. Apoyar las revisiones programadas, así como las extraordinarias o adicionales a éstas, de conformidad con los lineamientos que para tal fin emita la Contraloría General, a efecto de vigilar el cumplimiento de las disposiciones legales reglamentarias y administrativas en materia de información, estadística, organización, procedimientos, sistemas de registro y contabilidad, contratación y remuneraciones al personal, contratación de adquisiciones, arrendamientos, servicios, obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes, activos y demás que correspondan en términos de las disposiciones jurídicas y administrativas aplicables;
+VI. Vigilar periódicamente el cumplimiento a las disposiciones emitidas para el manejo de los recursos locales y federales por parte de los entes de la Administración Pública correspondientes;
 
-VII. Verificar, a través del sistema de seguimiento que para tal efecto se establezca, que el Instituto atienda, hasta su conclusión, las observaciones y recomendaciones que formule la Contaduría Mayor de Hacienda de la Asamblea Legislativa, así como las de la Auditoría Superior de la Federación;
+VII. Requerir la información y documentación a los entes de la Administración Pública, autoridades locales o federales, así como a proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualquier otra persona particular que intervengan las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenaciones y en general cualquier procedimiento de la administración pública, para el ejercicio de sus atribuciones;
 
-VIII. Establecer el seguimiento de las observaciones y recomendaciones resultantes de las auditorías y revisiones practicadas a las áreas del Instituto;
+VIII. Registrar e incorporar en los sistemas y plataformas digitales correspondientes, la información que se genere o se posea con motivo del ejercicio de sus atribuciones atendiendo a los plazos, formatos y condiciones que establezcan las instrucciones, instrumentos y disposiciones jurídicas y administrativas aplicables;
 
-IX. Proporcionar a la Contraloría General del Distrito Federal la información y elementos que requiera para el ejercicio de sus funciones;
+IX. Investigar actos u omisiones de personas servidoras públicas de la Administración Pública, o particulares vinculados, que pudieran constituir faltas administrativas así como substanciar y resolver procedimientos de responsabilidad administrativa, procediendo a la ejecución de las resoluciones respectivas en los términos de la normatividad aplicable, de manera directa o a través del personal que tenga adscrito y se encuentre facultado;
 
-X. Supervisar el cumplimiento de las obligaciones fiscales por parte del Instituto;
+X. Imponer medidas cautelares y medidas de apremio como parte del procedimiento de responsabilidad administrativa de manera directa o a través del personal que tenga adscrito y que se encuentre facultado;
 
-XI. Asistir a las sesiones del Consejo de Gobierno, Comités y Subcomités del Instituto y dar seguimiento a los acuerdos que de allí emanen;
+XI. Calificar la falta administrativa como grave o no grave y emitir el Informe de Presunta Responsabilidad Administrativa; o en su caso, emitir el Acuerdo de Conclusión y Archivo del expediente de conformidad con las disposiciones jurídicas y administrativas en materia de Responsabilidades Administrativas, de manera directa o a través del personal adscrito que se encuentre facultado;
 
-XII. Dar contestación a las opiniones y propuestas de los Contralores Ciudadanos;
+XII. Substanciar y resolver los procedimientos de Responsabilidad Administrativa que sean de su competencia, atendiendo a las disposiciones en materia de Responsabilidades Administrativas de manera directa o a través del personal adscrito que se encuentre facultado;
 
-XIII. Participar en las actas administrativas que se levanten con motivo de la sustitución de servidores públicos de mandos medios y superiores;
+XIII. Investigar, conocer, substanciar, resolver cuando proceda, procedimientos disciplinarios o sobre actos u omisiones de personas servidoras públicas, para determinar e imponer, en su caso, las sanciones que correspondan en los términos de las disposiciones jurídicas en materia de responsabilidades, aplicables en el momento de los actos;
 
-XIV. Conocer, investigar, desahogar y resolver procedimientos disciplinarios sobre actos u omisiones de servidores públicos del Instituto, y
+XIV. Acordar la suspensión temporal de las personas servidoras públicas de sus empleos, cargos o comisiones cuando a su juicio resulte conveniente para la conducción o continuación de las (sic) investigación, substanciación o resolución de un procedimiento disciplinario o de Responsabilidad Administrativa, o a petición de otras autoridades investigadoras, en los casos que proceda y de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-XV. Las demás que sean análogas o necesarias a las fracciones anteriores para la ejecución de sus atribuciones con apego a las disposiciones legales, o bien, que sean encomienda de la Contraloría General del Distrito Federal.
+XV. Substanciar y resolver los recursos de revocación que se interpongan en contra de resoluciones que impongan sanciones administrativas a las personas servidoras públicas en términos de las disposiciones jurídicas aplicables;
+
+XVI. Ejercer cuando corresponda todas las atribuciones de las autoridades o unidades de Investigación, Substanciación o Resolución, que señale la legislación y demás disposiciones jurídicas y administrativas en materia de Responsabilidades Administrativas
+
+XVII. Ejecutar las auditorías e intervenciones y control interno, programadas y las participaciones en los procesos administrativos que los entes de la Administración Pública efectúen en materia de: adquisiciones, servicios y arrendamientos; capital humano, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales, federales, presupuesto participativo, programas sociales y procesos electorales de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XVIII. Realizar intervenciones a las instalaciones de los proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos y demás procedimientos previstos en el marco jurídico de la Ciudad de México, que efectúen los entes de la Administración Pública correspondiente, para vigilar que cumplan con lo establecido en las bases, los contratos, convenios, títulos concesión, acuerdos, permisos, y en general todo instrumento jurídico, así como en las normas y disposiciones jurídicas y administrativas aplicables;
+
+XIX. Determinar la emisión de suspensiones temporal o definitiva, la nulidad y reposición, en su caso, de los procedimientos de adjudicación de contratos, o cualquier otro procedimiento previsto en la normatividad en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública y servicios relacionados con la misma, bienes muebles e inmuebles, almacenes e inventarios, y demás relativos al gasto público o al patrimonio de la Ciudad, incluyendo todas las consecuencias administrativas o legales que de éstos resulten;
+
+XX. Instruir a los entes de la Administración Pública que correspondan, suspender temporal o definitivamente, revocar, rescindir o terminar anticipadamente los contratos, convenios, pagos, y demás instrumentos jurídicos y administrativos, en materia de: adquisiciones, arrendamientos, prestación de servicios, obra pública y servicios relacionados con la misma, concesiones, permisos, bienes muebles e inmuebles, así como todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten;
+
+XXI. Ejecutar auditorías ordinarias y extraordinarias, así como intervenciones y control interno a los entes de la Administración Pública correspondientes, conforme a los programas establecidos y autorizados, o por determinación de la persona titular de la Secretaría de la Contraloría General; a fin de promover la eficiencia en sus operaciones y verificar el cumplimiento de sus objetivos y de las disposiciones jurídicas y administrativas aplicables en materia de adquisiciones, servicios y arrendamientos; capital humano, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales y federales, y demás similares;
+
+XXII. Formular observaciones que se deriven de las auditorías, intervenciones y control interno, emitir las acciones preventivas y correctivas correspondientes, dar seguimiento sistemático a las mismas, determinar su solventación; de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XXIII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la Secretaría de la Contraloría General otorgará el apoyo necesario, a través de las Unidades Administrativas competentes;
+
+XXIV. Asistir y participar en términos de la normatividad, en los órganos de gobierno, comités, subcomités, consejos directivos y demás cuerpos colegiados, así como, cuando lo estime conveniente en licitaciones públicas e invitaciones restringidas, de las Dependencias y Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública, según corresponda por competencia, en los términos que determinen las disposiciones jurídicas aplicables, por sí, o a través de las personas de las Unidades Administrativas de Apoyo Técnico Operativo adscritas, o cuando no se cuente con Órgano Interno de Control;
+
+XXV. Intervenir en todas las actas de entrega-recepción que realicen las personas servidoras públicas y demás personal obligado, incluyendo el personal de las unidades de Administración y del Órgano de Control Interno en cada Dependencia, Órgano Desconcentrado, Alcaldía, Entidad de la Administración Pública de la Ciudad de México, y cuando resulte necesario, proceder a la investigación y procedimiento de Responsabilidad Administrativa correspondiente;
+
+XXVI. Conocer, desahogar y resolver los procedimientos de aclaración de los actos y los procedimientos de conciliación, en términos de la Ley de Obras Públicas del Distrito Federal;
+
+XXVII. Recibir, analizar, tramitar y resolver las solicitudes de afirmativa ficta, debiendo requerir o consultar directamente el expediente correspondiente y en su caso imponiendo las medidas de apremio en términos de la Ley de Procedimiento Administrativo de la Ciudad de México;
+
+XXVIII. Evaluar a solicitud de las Unidades Administrativas competentes de la Secretaría, la gestión pública en las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública;
+
+XXIX. Vigilar que las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, observen las disposiciones jurídicas y administrativas que se implementen para evitar la generación de daños en los bienes o derechos de los particulares por actividad administrativa irregular de la Administración Pública de la Ciudad de México;
+
+XXX. Vigilar en el ámbito de su respectiva competencia, el cumplimiento por parte de los auditores externos de los instrumentos y disposiciones jurídicas y administrativas aplicables;
+
+XXXI. Solicitar a la Dirección General de Normatividad y Apoyo Técnico y a la Dirección General de Innovación y Mejora Gubernamental de la Secretaría de la Contraloría General cuando se estime necesario, su opinión o participación en auditorías o intervenciones o control interno, para sustentar investigaciones, observaciones, hallazgos, recomendaciones preventivas y correctivas, así como para la investigación de posibles faltas administrativas o la substanciación y resolución de procedimientos de responsabilidades administrativas;
+
+XXXII. Participar en la planeación de actividades de control interno que realicen las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública, en términos de las disposiciones jurídicas y administrativas aplicables;
+
+XXXIII. Expedir, copias certificadas de los documentos que obren en sus archivos, así como de los documentos a los que tenga acceso con motivo del ejercicio de sus facultades, previo cotejo;
+
+XXXIV. Cumplir con las disposiciones jurídicas y administrativas aplicables en materias de Transparencia y Acceso a la Información Pública, Protección de Datos Personales, Archivos y de Derechos Humanos;
+
+XXXV. Ejercer las atribuciones a que se refiere el presente artículo y todas las que correspondan a los órganos internos de control en términos de las disposiciones jurídicas aplicables, respecto de las unidades encargadas de la Administración en el ente público al que corresponda, así como de las personas servidoras públicas que le están adscritas, con independencia de la adscripción de dichas unidades encargadas de la Administración;
+
+XXXVI. Las atribuciones a que se refiere el presente artículo y todas las que correspondan a los órganos internos de control en términos de las disposiciones jurídicas aplicables, serán ejercidas por el órgano interno de control de la Dependencia respecto de sus Órganos Desconcentrados y órganos de apoyo cuando éstos no cuenten con Órgano Interno de Control;
+
+XXXVII. Las demás que le instruya la persona titular de la Secretaría de la Contraloría General y las personas titulares de las direcciones generales de Coordinación de Órganos Internos de Control, las que correspondan a las Unidades Administrativas de Apoyo Técnico Operativo adscritas; así como las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
 
 ###### Artículo 19.
 
-A la Dirección Académica le corresponde:
+A la Dirección de Asuntos Académicos le corresponde:
 
 I. Elaborar, coordinar y evaluar los programas que autorice la Dirección General;
 
@@ -418,7 +494,7 @@ IV. Coordinar y supervisar el desarrollo, aplicación y seguimiento de las Tutor
 
 V. Diseñar, coordinar y supervisar la aplicación de las Reglas de Certificación y Reglas de Funcionamiento de las Academias establecidas en el Instituto;
 
-VI. Coordinar y supervisar la elaboración y el diseño de estrategias para la actualización del Modelo Tutorial, Modelo de Evaluación y Reglas de Certificación establecidos en el Sistema de Bachillerato del Gobierno del Distrito Federal y someterlos a la aprobación del Consejo de Gobierno;
+VI. Coordinar y supervisar la elaboración y el diseño de estrategias para la actualización del Modelo Tutorial, Modelo de Evaluación y Reglas de Certificación establecidos en el Sistema de Bachillerato del Gobierno de la Ciudad de México y someterlos a la aprobación del Consejo de Gobierno;
 
 VII. Asesorar y coordinar a las academias de los planteles, a través del personal de apoyo disciplinar y el personal de apoyo a la docencia en metodología educativa, en la elaboración de programas académicos y proyectos especiales, considerando los requerimientos educativos y el contexto económico social donde se implantarán;
 
@@ -442,55 +518,109 @@ XVI. Coordinar los trabajos para establecer las necesidades de recursos humanos,
 
 XVII. Las demás que le asigne la Dirección General, confiera el Estatuto y la normatividad interna del Instituto.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+
 ###### Artículo 20.
 
-A la Dirección Técnica le corresponde:
+A la Dirección de Asuntos Estudiantiles le corresponde:
 
-I. Coordinar, proponer la normatividad y evaluar los servicios escolares, de cómputo, biblioteca y laboratorios;
+I. Coordinar la elaboración de la propuesta de actualización a la normatividad que regula las actividades de administración escolar y actividades extracurriculares no académicas, de cultura de seguridad escolar, de promoción a la salud, de orientación educativa, recreativas y de cultura de protección civil, para los estudiantes en los planteles del Instituto;
 
-II. Diseñar, coordinar y supervisar un sistema de información institucional que genere una base de datos única que constituya la estadística básica que sirva de insumo a la evaluación institucional;
+II. Vigilar que las actividades que se desarrollen en materia de extracurriculares no académicas, de cultura de seguridad escolar, de promoción de la salud, de orientación educativa, de cultura de protección civil, recreativas, culturales, deportivas, de ciencias y artes, se realicen con apego a la normatividad establecida para asegurar con ello su correcta implementación, de manera efectiva de acuerdo a las necesidades de los estudiantes del Instituto y con el fin de incidir en el aumento del porcentaje de alumnos regulares y fortalecer su avance académico;
 
-III. Coordinar la formulación de políticas del Subsistema de Administración Escolar, Informática, Biblioteca y Laboratorio;
+III. Supervisar la generación de estrategias que permitan identificar, analizar y proponer acciones enfocadas a mitigar los factores de riesgo relacionados con la salud física, mental y emocional, así como de primeros auxilios para los estudiantes y que afectan su desempeño académico y permanencia en el Instituto;
 
-IV. Definir, en coordinación con los usuarios del Sistema de información institucional, sus requerimientos de información para el diseño de estrategias que faciliten su consulta, análisis y aprovechamiento integral;
+IV. Coordinar la elaboración de la propuesta del calendario escolar para tener el control y certeza jurídica de las actividades que se realicen, para someterla a consideración de la Dirección General y aprobación del Consejo de Gobierno del Instituto;
 
-V. Elaborar estudios técnicos destinados a identificar zonas prioritarias del Distrito Federal, donde exista alto índice de población con necesidades educativas de nivel medio superior;
+V. Supervisar la elaboración y emisión de la convocatoria de ingreso para el ciclo escolar que corresponda, de conformidad con la normatividad establecida en el Instituto, para aprobación de la Dirección General y conocimiento al Consejo de Gobierno del Instituto;
 
-VI. Elaborar estudios prospectivos sobre el comportamiento de la demanda y oferta educativa a nivel medio superior en el Distrito Federal;
+VI. Coordinar la emisión del listado de colonias de acuerdo con la información presentada por los coordinadores de los planteles del instituto para facilitar su ubicación, para aprobación de la Dirección General y conocimiento al Consejo de Gobierno del Instituto;
 
-VII. Diseñar, coordinar y supervisar los controles estadísticos que permitan evaluar el aprovechamiento de los estudiantes y la calidad en los servicios que se prestan en las bibliotecas, salas de cómputo y laboratorios de los planteles;
+VII. Establecer la propuesta de actualización de la normatividad para la integración, registro, ingreso, permanencia, egreso y/o control del expediente de los estudiantes, ya sea documental y/o electrónico;
 
-VIII. Detectar las necesidades de material bibliográfico, de laboratorio y de equipo de cómputo en los planteles;
+VIII. Establecer los instrumentos de control que garanticen la debida aplicación de la normatividad para el registro, ingreso, permanencia y egreso de los estudiantes en los planteles del Instituto;
 
-IX. Desarrollar nuevos servicios encaminados a apoyar el proceso de enseñanza- aprendizaje de los estudiantes;
+IX. Supervisar la elaboración de las reglas de operación del Programa de Becas y la emisión de las convocatorias para el otorgamiento de Becas y pago oportuno de los Becarios, con el objetivo de incentivar el desempeño académico de los estudiantes;
 
-X. Coordinar y mantener la vinculación con las distintas instancias de la Administración Pública Federal y del Distrito Federal, para la atención de los asuntos que le competan a la Dirección Técnica;
+X. Asegurar la implementación de los instrumentos de control que garanticen la debida aplicación de la normatividad emitida por el Gobierno Federal para la incorporación o baja de los estudiantes de los planteles del instituto en el servicio médico otorgado por el Instituto Mexicano del Seguro Social;
 
-XI. Emitir, controlar y custodiar los certificados de estudio;
+XI. Proponer el diseño, las medidas de seguridad, reformas y adecuaciones a las preformas de certificados de acuerdo a la normatividad aplicable para tal efecto;
 
-XII. Coordinar y supervisar el proceso de registro, selección e inscripción de estudiantes;
+XII. Coordinar las gestiones necesarias para registrar ante las instancias correspondientes de la Secretaría de Educación Pública los formatos de los certificados, así como las firmas autorizadas de la Dirección General y de esta Dirección;
 
-XIII. Elaborar y proponer para autorización de la Dirección General, el calendario escolar del Sistema de Bachillerato del Gobierno del Distrito Federal;
+XIII. Establecer los mecanismos de control, resguardo, elaboración y emisión de los certificados de estudios, de conformidad con la normatividad aplicable establecida;
 
-XIV. Establecer, apoyar y coordinar el Programa de Protección Civil del Instituto;
+XIV. Autorizar la emisión de las constancias y certificados de estudios, de conformidad con la normatividad aplicable establecida para dar certeza jurídica y validación de los mismos;
 
-XV. Coordinar los trabajos para establecer las necesidades de recursos humanos, financieros y materiales del área a su cargo, a fin de ser considerados por el área competente en la elaboración de los programas y presupuestos anuales del Instituto, de conformidad con las disposiciones normativas aplicables, y
+XV. Validar la información de las conciliaciones semestrales de los planteles del Instituto para verificar que la información proporcionada, sea congruente con lo que obre en archivos y sistemas informáticos;
 
-XVI. Las demás que le asigne la Dirección General, le confiera el Estatuto y la normatividad interna del Instituto.
+XVI. Autorizar las solicitudes de corrección y/o modificaciones requeridas por las Coordinaciones de Plantel, en los Registros del Sistema de Información Institucional (SIIE), respecto a la situación académica o administrativa de los estudiantes de los planteles del Instituto;
+
+XVII. Autorizar los informes estadísticos de las modalidades escolarizada, no escolarizada (línea y distancia) y mixta (semiescolarizada), a través de las Coordinaciones de Plantel de acuerdo con la periodicidad y la normatividad establecida por el Instituto;
+
+XVIII. Coordinar los programas de trabajo y elaboración del anteproyecto anual de presupuesto del ejercicio que corresponda de la Dirección de Asuntos Estudiantiles, de conformidad con las disposiciones normativas aplicables;
+
+XIX. Las demás que le asigne la Dirección General y le confiera la normatividad del Instituto.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
 
 ###### Artículo 21.
 
-A la Dirección Administrativa le corresponde:
+A la Dirección de Innovación y Desarrollo de Gestión le corresponde:
 
-I. Coordinar, instrumentar y supervisar la administración de recursos humanos, financieros, materiales y servicios generales del Instituto, de conformidad con las normas y lineamientos establecidos por la Oficialía Mayor, Consejo de Gobierno, Dirección General y demás autoridades competentes;
+I. Estructurar todas las prácticas de gestión institucional innovadoras en los ámbitos académico y académico-administrativo para la atención de los estudiantes, académicos y personal directivo del Instituto, mediante el diseño de proyectos, planes y programas de innovación.
 
-II. Coordinar y supervisar la elaboración y actualización del Manual Administrativo del Instituto, de conformidad con los lineamientos establecidos por la Oficialía Mayor;
+II. Asegurar el desarrollo permanentemente de materiales digitales para su incorporación en la renovación de prácticas educativas novedosas, para mejorar y hacer eficiente los programas estratégicos del Instituto.
+
+III. Promover en colaboración con las distintas áreas de la Dirección General y las Coordinaciones de los planteles, nuevos proyectos que agilicen y optimicen los procesos de gestión institucional, para incrementar la calidad de la educación media superior impartida por el Instituto, y la efectividad del trabajo académico, además nuevos proyectos que favorezcan el enriquecimiento de las acciones y resultados académico-administrativos del Instituto.
+
+IV. Definir proyectos y programas de innovación para el mejoramiento y la optimización de las actividades sustantivas de los DTI.
+
+V. Determinar y coordinar espacios y mecanismos innovadores de trabajo colegiado de la planta académica que fomenten una creciente participación e interacción de los docentes del Instituto, para la evaluación y actualización de los programas de estudio, y mejorar las actividades de docencia, tutoría e investigación.
+
+VI. Regular las orientaciones de los proyectos de investigación y producción, para fomentar el aumento paulatino de la calidad y pertinencia de los mismos, en el marco de las líneas institucionales prioritarias.
+
+VII. Definir los mecanismos para organizar de manera ágil la planeación y la información sobre las actividades en el cumplimiento de los objetivos establecidos por los Docentes en sus Proyectos Académicos Personales que se ajusten a los criterios de innovación autorizados.
+
+VIII. Promover las actividades de elaboración en investigación sobre materiales educativos innovadores en apoyo a los procesos de evaluación, docencia y tutoría, para que la comunidad del Instituto cuente con elementos útiles para mejorar la práctica educativa.
+
+IX. Determinar las actividades de verificación de los Proyectos Académicos Personales en relación al desempeño docente, para recabar las necesidades de capacitación de los DTI del Instituto.
+
+X. Dirigir las actividades de formación, actualización y desarrollo en las prácticas docentes y tutorales ofrecidas en el Instituto, a través de entidades académicas y así incrementar las competencias pedagógicas que aseguren e impacten favorablemente el desempeño de los DTI del Instituto.
+
+XI. Planear el diseño, desarrollo y operación de estrategias alternativas de los diversos recursos digitales, para la producción de materiales académicos del Instituto.
+
+XII. Establecer acciones de vinculación con organizaciones nacionales e internacionales dedicadas a la formación docente y la innovación educativa, para la firma de convenios de colaboración en materia de evaluación, acompañamiento, seguimiento, formación y actualización docente.
+
+XIII. Difundir la generación de plataformas tecnológicas digitales e innovadoras que permitan la producción académica y el trabajo colegiado a distancia.
+
+XIV. Autorizar la elaboración de materiales de la planta académica, así como los que se deriven de los distintos proyectos y programas impulsados por ésta u otras instancias de la Dirección General, aprovechando los recursos digitales del Instituto, para un óptimo proceso de enseñanza-aprendizaje.
+
+XV. Determinar y planear el diseño y producción de materiales elaborados por la planta docente del Instituto, con base a los contenidos y estrategias establecidas por las diferentes instancias de la Dirección General para apoyar las modalidades escolar y semiescolar.
+
+XVI. Diseñar y establecer las estrategias y mecanismos eficaces para la correcta difusión de los productos académicos y académico-administrativos de nueva creación desarrollados por la Dirección de Innovación.
+
+XVII. Coordinar las actividades de operación y administración de los servicios y recursos digitales que ofrecen el Portal Académico y el Portal de Estudiantes a los docentes y estudiantes del Instituto, para garantizar la continuidad, actualización y calidad de su funcionamiento.
+
+XVIII. Las demás que le asigne la Dirección General y le confiera la normatividad del Instituto.
+
+###### Artículo 22.
+
+A la Dirección de Administración y Finanzas le corresponde:
+
+I. Coordinar, instrumentar y supervisar la administración de recursos humanos, financieros, materiales y servicios generales del Instituto, de conformidad con las normas y lineamientos establecidos por la Secretaría de Administración y Finanzas de la Ciudad de México, Consejo de Gobierno, Dirección General y demás autoridades competentes;
+
+II. Coordinar y supervisar la elaboración y actualización del Manual Administrativo del Instituto, de conformidad con los lineamientos establecidos por la Secretaría de Administración y Finanzas de la Ciudad de México;
 
 III. Diseñar, instrumentar y establecer los programas de inducción, formación, actualización y capacitación para el personal técnico y administrativo del Instituto;
 
 IV. Coordinar y supervisar la elaboración y actualización del Reglamento Interno de Trabajo;
 
-V. Coordinar las relaciones laborales con el personal técnico y administrativo del Instituto, de conformidad con el Artículo 123 Constitucional, apartado A, su Ley Reglamentaria, el Reglamento Interno de Trabajo y demás ordenamientos jurídicos aplicables en la materia;
+V. Coordinar las relaciones laborales con el personal técnico y administrativo del Instituto, de conformidad con el Artículo 123 Constitucional, apartado A, su Ley Reglamentaria, el Reglamento Interno de Trabajo y demás ordenamientos jurídicos aplicables en la materia:
 
 VI. Difundir entre el personal técnico y administrativo del Instituto sus derechos y obligaciones, contenidos en el Reglamento Interno de Trabajo;
 
@@ -516,45 +646,103 @@ XVI. Conservar en condiciones de funcionalidad los inmuebles e instalaciones en 
 
 XVII. Las demás que le asigne la Dirección General, confiera el Estatuto y la normatividad interna del Instituto.
 
-###### Artículo 22.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
 
-Además de las Unidades Administrativas referidas en el capítulo séptimo de este Estatuto, el Instituto contará con los siguientes órganos consultivos de carácter general:
-
-I. Consejo General Interno, y
-
-II. Consejo Académico.
-
-La participación de sus integrantes será honorífica.
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
 
 ###### Artículo 23.
 
-El Consejo General Interno del Instituto se integrará por:
+A la Dirección Jurídica y Normativa le corresponde:
 
-I. El Director General del Instituto de Educación Media Superior, quien lo presidirá;
+I. Dirigir la representación legal del Instituto ante toda clase de instituciones y particulares con las facultades que le delegue la Dirección General con el propósito de proteger los intereses del Instituto.
 
-II. El Director Académico;
+II. Determinar los criterios para la interpretación de la normatividad aplicable al Instituto, con el propósito de establecer los lineamientos a seguir.
 
-III. Los Subdirectores de Coordinación de Planteles del Instituto;
+III. Intervenir como Órgano de consulta jurídica y de apoyo en el estudio, planeación, conducción, coordinación de los asuntos que sean competencia del Instituto y de la Dirección General, con el propósito de brindar certeza jurídica a los actos que sea parte.
 
-IV. Un representante del personal académico por cada plantel, mismo que deberá formar parte del Consejo Interno del plantel, y
+IV. Coordinar la compilación de leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídico - administrativas aplicables al Instituto, a efecto de conocer las disposiciones vigentes en el ámbito de su competencia.
 
-V. Un representante de los alumnos por cada plantel, mismo que deberá formar parte del Consejo Interno del plantel.
+V. Coordinar la revisión, elaboración y actualización de las condiciones generales y específicas de trabajo, contrato colectivo de trabajo, contratos individuales de trabajo, reglamentos, acuerdos y convenios laborales que el Instituto lleve a cabo.
 
-A propuesta del presidente se nombrará entre persona ajena a este Consejo, un Secretario Técnico del mismo, quien tendrá voz pero no voto y el cual se encargará de formular el orden del día de las sesiones del Consejo, mismo que se integrará con la documentación soporte de los asuntos a tratar, para ser remitidos a todos sus miembros tres días antes de la celebración de sus sesiones. Asimismo, tendrá a su cargo la elaboración y resguardo de las actas de asamblea que celebre el Órgano Colegiado.
+VI. Coordinar la estrategia jurídica para llevar a cabo los procedimientos administrativos, de la comunidad del Instituto, así como su resolución.
+
+VII. Coordinar que el procedimiento de recuperación de fianzas se realice en términos de la normatividad aplicable para salvaguardar los intereses del Instituto.
+
+VIII. Coordinar el procedimiento jurídico-administrativo con la finalidad de cumplir con el pago de laudos, aplicando la normatividad vigente.
+
+IX. Coordinar la información que el Instituto deba publicar en la página de Internet, para dar cumplir con lo dispuesto en la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
+
+X. Coordinar la integración de la información que se proporcione a los particulares, instituciones públicas o privadas que lo soliciten, en términos de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
+
+XI. Coordinar la realización de cursos para capacitar y actualizar a los servidores públicos del Instituto conforme a la Ley de Transparencia, acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
+
+XII. Coordinar la elaboración, actualización y difusión de la normatividad interna del Instituto con el propósito de contar con los fundamentos necesarios para el ejercicio del servicio público.
+
+XIII. Coordinar la estrategia y representar al Instituto en los informes previos, justificados dentro de los amparos en donde el instituto sea autoridad responsable a efecto de dar cumplimiento con los requerimientos de las autoridades judiciales.
+
+XIV. Coordinar la celebración de convenios y contratos con instituciones con la finalidad de lograr los objetivos y metas para los cuales se circunscriben los mismos.
+
+XV. Coordinar la formulación de los diferentes tipos de amparos que el Instituto pueda necesitar para proteger los intereses del mismo.
+
+XVI. Coordinar los servicios de asesoría y estrategias que se proporcionen a las áreas que integran el Instituto, cuando éstas así lo soliciten con la finalidad de aportar elementos en materia jurídica y poder fundar y motivar los actos que se celebren.
+
+XVII. Coordinar los trámites para la publicación de la normatividad interna del Instituto en la Gaceta Oficial de la Ciudad de México a efecto de hacer públicos los actos cuya naturaleza indiquen la necesidad de ser publicados.
+
+XVIII. Coordinar la estrategia para dar respuesta y seguimiento a los requerimiento (sic) solicitados por la Comisión de Derechos Humanos del Distrito Federal de las quejas y/o Recomendaciones en donde el Instituto sea parte.
+
+XIX. Coordinar la integración de la información y documentación que se (sic) deba presentarse de manera clara, oportuna y veraz para llevar a cabo sesiones del Consejo de Gobierno del Instituto, con el propósito de allegar los elementos necesarios a los miembros del Consejo a efecto de hacer de su conocimiento y/o aprobación de los acuerdos.
+
+XX. Coordinar el seguimiento de los acuerdos emanados en el pleno del Consejo de Gobierno del Instituto, así como la difusión de los mismos a las diferentes áreas.
+
+XXI. Las demás que le asigne la Dirección General y le confiera la normatividad del Instituto.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
 
 ###### Artículo 24.
 
-El Consejo General Interno sesionará por lo menos una vez al año en las fechas que proponga el Director General del Instituto, siendo sus funciones principales las de:
+A la Subdirección de Tecnologías de la Información y Comunicaciones le corresponde:
 
-I. Opinar sobre las políticas y lineamientos académicos a los que deberán sujetarse los planteles del Instituto, en su modalidad escolar y extraescolar;
+I. Verificar el desarrollo e implementación de sistemas de información para automatizar los procesos solicitados por las diferentes áreas del Instituto.
 
-II. Emitir recomendaciones sobre las Reglas Internas de los Planteles y sobre sus propias Reglas de Operación, mismas que serán tomadas en cuenta por la instancia responsable de su elaboración, de conformidad con lo establecido en el presente Estatuto;
+II. Supervisar la elaboración de los informes y cambios de datos en los sistemas de información que sean solicitados por las diferentes áreas del Instituto.
 
-III. Emitir recomendaciones para la elaboración de los programas académicos, así como de los proyectos especiales implantados en los planteles de bachillerato; y
+III. Verificar la operación de los sistemas en el servidor de página web.
 
-IV. Las demás que le confiera el Estatuto Orgánico y el Consejo de Gobierno.
+IV. Verificar la administración de bases de datos a través de la implementación de nuevas tecnologías.
+
+V. Dirigir la administración, custodia, resguardo y confidencialidad de las bases de datos en los servidores a cargo de la Subdirección de Tecnologías de la Información y Comunicaciones, para asegurar la disponibilidad de la información.
+
+VI. Supervisar la actualización de las bases de datos de acuerdo a las necesidades de operación de las áreas responsables de la información en materia de administración escolar, tanto en oficinas centrales como en los planteles del Instituto.
+
+VII. Verificar la atención de las solicitudes efectuadas por las áreas autorizadas para la modificación de los datos contenidos en las bases de datos y sistemas de información.
+
+VIII. Dirigir la operación de la red institucional y telecomunicaciones a través de las áreas internas y de los proveedores de servicios de Internet, correo electrónico, sitio web y telefonía.. (sic)
+
+IX. Dirigir la instalación, operación y mantenimiento de los servicios de telecomunicaciones y telefonía, vigilando la correcta operación de los mismos que coadyuven con las actividades del Instituto.
+
+X. Establecer los criterios para vigilar la correcta utilización de los servicios y equipos de comunicación para proveer un servicio de red estable para los fines y actividades propias del Instituto.
+
+XI. Vigilar el cumplimiento de los servicios contratados con prestadores de servicios externos, con la finalidad de mantener, ininterrumpidamente, la operatividad de las áreas del Instituto.
+
+XII. Autorizar los programas de mantenimiento a la red de datos y servicio de telefonía, así como el soporte técnico a la infraestructura de interconexión entre los planteles y oficinas centrales del Instituto
+
+XIII. Supervisar las acciones de soporte técnico a los bienes informáticos así como la distribución de consumibles y materiales informáticos en oficinas centrales y planteles.
+
+XIV. Coordinar de las actividades de soporte técnico y de los programas de mantenimiento preventivo y correctivo a bienes informáticos del Instituto.
+
+XV. Emitir las solicitudes de refacciones, consumibles y materiales informáticos.
+
+XVI. Autorizar la distribución, redistribución, movimientos y préstamos de equipos y suministros informáticos, para que sean instalados en las condiciones y reglas de seguridad acordes con las políticas de asignación establecidas, resguardados por el personal del Instituto.
+
+XVII. Las demás que le asigne la Dirección General, confiera el Estatuto y la normatividad interna del Instituto.
 
 ### CAPÍTULO OCTAVO. DE LA ESTRUCTURA Y FUNCIONES DE LOS ÓRGANOS CONSULTIVOS DEL INSTITUTO
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
 
 ###### Artículo 25.
 
@@ -572,15 +760,23 @@ Los investigadores o académicos que formen parte del Consejo Académico serán 
 
 A propuesta del presidente se nombrará entre persona ajena a este Consejo, un Secretario Técnico del mismo, quien tendrá voz pero no voto y el cual se encargará de formular el orden del día de las sesiones del Consejo, mismo que se integrará con la documentación soporte de los asuntos a tratar, para ser remitidos a todos sus miembros tres días antes de la celebración de sus sesiones. Asimismo, tendrá a su cargo la elaboración y resguardo de las actas de asamblea que celebre el Órgano Colegiado.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ENERO DE 2020)</small>
+
 ###### Artículo 26.
 
-El Consejo Académico sesionará por lo menos dos veces al año en las fechas que proponga el Director General del Instituto, siendo sus funciones principales las de:
+El Consejo General Interno del Instituto se integrará por:
 
 I. Evaluar a petición de la Dirección General, los planes de estudio, con el fin de que éstos, respondan a las exigencias educativas vigentes;
 
-II. Contribuir al desarrollo teórico de las investigaciones que se generen al interior del Instituto, dirigidas a fortalecer el modelo educativo;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
 
-III. Emitir recomendaciones que favorezcan la optimización de los procesos académico – administrativos;
+> <small>(REFORMADA, G.O. 23 DE ENERO DE 2020)</small>
+
+II. El Director de Asuntos Académicos;
+
+III. Emitir recomendaciones que favorezcan la optimización de los procesos académico - administrativos;
 
 IV. Formular propuestas para el perfeccionamiento de la evaluación del aprendizaje;
 
@@ -590,9 +786,23 @@ VI. Vincular y promover el desarrollo teórico de Modelo Educativo del Sistema d
 
 VII. Las demás que le confiera este Estatuto y el Consejo de Gobierno.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ENERO DE 2020)</small>
+
 ###### Artículo 27.
 
-Los Órganos Consultivos se regirán por el reglamento para la Integración y Funcionamiento de los Órganos Consultivos del Instituto de Educación Media Superior que apruebe el Consejo de Gobierno.
+El Consejo General Interno sesionará por lo menos una vez al año en las fechas que proponga el Director General del Instituto, siendo sus funciones principales las de:
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+
+> <small>(REFORMADA, G.O. 23 DE ENERO DE 2020)</small>
+
+I. Opinar sobre las políticas y lineamientos académicos a los que deberán sujetarse los planteles del Instituto, a través de las modalidades: escolarizada, no escolarizada (línea y a distancia) y mixta (semiescolarizada);
+
+...
+
+(SIC)
 
 ###### Artículo 28.
 
@@ -664,13 +874,47 @@ La estructura interna de los planteles estará integrada por las unidades admini
 
 Cada plantel dispondrá del personal docente suficiente, para cubrir de acuerdo con el modelo educativo, todas y cada una de las asignaturas contempladas en los planes y programas de estudio establecidos por el Instituto.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+
 ###### Artículo 33.
 
-Cada plantel de Educación Media Superior contará con los siguientes órganos consultivos:
+A las Coordinaciones de Plantel les corresponde:
 
-I. Consejo Interno, y
+I. Impartir educación media superior en las modalidades: escolarizada, no escolarizada (línea y distancia) y mixta (semiescolarizada), de acuerdo con las políticas, planes y programas del Instituto;
 
-II. Consejo de Participación Social.
+II. Coordinar y supervisar la operación del modelo educativo desarrollado por el Instituto, en el plantel a su cargo;
+
+III. Coordinar los servicios de tutoría educativa, de conformidad con lo establecido en las normas aplicables;
+
+IV. Promover las actividades que determine la Dirección General para el enriquecimiento de los programas y proyectos del plantel;
+
+V. Respetar y aplicar las Reglas Internas del Plantel;
+
+VI. Convocar y presidir los Consejos Interno del plantel y de Participación Social, de conformidad con lo establecido en sus Reglas de Operación internas;
+
+VII. Ejecutar los programas aprobados por el Consejo de Gobierno;
+
+VIII. Realizar actividades de vinculación con instituciones educativas, culturales y sociales que beneficien la marcha académica del plantel, haciéndolo del conocimiento de la Dirección de Asuntos Académicos del Instituto;
+
+IX. Gestionar ante las autoridades de su demarcación territorial, la prestación de servicios públicos que requiera el plantel, haciéndolo del conocimiento de la Dirección de Asuntos Estudiantiles del Instituto;
+
+X. Coordinar los servicios de biblioteca y laboratorios del plantel, así como otros servicios de apoyo académico;
+
+XI. Coordinar la prestación de servicios en materia de administración escolar y seguimiento académico de alumnos y ex-alumnos, de conformidad con las normas aprobadas por el Consejo de Gobierno;
+
+XII. Administrar y coordinar el capital humano, los servicios generales, el almacén y los inventarios del plantel de conformidad con la normatividad aplicable, haciéndolo del conocimiento de la Dirección de Administración y Finanzas;
+
+XIII. Formular y someter a consideración de la Dirección General del Instituto, los anteproyectos de programas y presupuestos del plantel;
+
+XIV. Presentar a la Dirección General del Instituto y al Consejo Interno, un informe semestral sobre el desempeño de las actividades del plantel, de conformidad con la normatividad aplicable;
+
+XV. Coordinar y supervisar las actividades académicas que desarrollen los docentes en el plantel a su cargo, así como solicitarles los informes respectivos;
+
+XVI. Coordinar y supervisar las actividades administrativas del plantel a su cargo; y
+
+XVII. Las demás que le asigne la Dirección General, confiera el Estatuto y la normatividad interna del Instituto.
 
 ###### Artículo 34.
 
@@ -795,3 +1039,35 @@ G.O. 28 DE ENERO DE 2011.
 PRIMERO.- Publíquese las presentes reformas y adiciones en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 23 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LAS MODIFICACIONES AL ESTATUTO ORGANICO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DEL DISTRITO FEDERAL.]
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente aviso entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL "AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO ORGANICO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL EN FECHA 23 DE MARZO DE 2005".]</small>
+
+AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO ORGANICO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL EN FECHA 23 DE MARZO DE 2005.
+
+https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf
+
+En caso de no poder acceder a la liga arriba señalada, comunicarse con:
+
+Alfredo Vázquez Cabrera.
+
+Subdirección de Tecnologías de Información y Comunicaciones
+
+Dirección: Av. División del Norte No. 906 Piso: 4 Col. Narvarte Poniente.
+
+Número telefónico: 5636-2500 Ext. 450
+
+Correo electrónico: subdireccion_informatica@iems.edu.mx
+
+## TRANSITORIO
+
+Único.- Publíquese el presente aviso en la Gaceta Oficial de la Ciudad de México.
