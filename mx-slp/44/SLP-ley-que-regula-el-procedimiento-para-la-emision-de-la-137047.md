@@ -4,7 +4,7 @@ identifier: "SLP-ley-que-regula-el-procedimiento-para-la-emision-de-la-137047"
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-11"
-last_updated: "2019-06-11"
+last_updated: "2020-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY QUE REGULA EL PROCEDIMIENTO PARA LA EMISIÓN DE LA DECLARATORIA DE AUSENCIA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2020.
 
 Ley publicada en el Número Extraordinario al Periódico Oficial del Estado de San Luis Potosí, el martes 11 de junio de 2019.
 
@@ -319,9 +319,11 @@ El órgano jurisdiccional deberá garantizar que la venta judicial se lleve a ca
 
 Cuando la solicitud de Declaración Especial de Ausencia sea sobre una persona que tenga la calidad de ejidatario o comunero, el órgano jurisdiccional lo deberá de tomar en cuenta en su resolución, a fin de que sus derechos ejidales o comuneros sean ejercidos por sus familiares, en términos de la normativa agraria aplicable en el Estado.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2020)</small>
+
 ###### ARTÍCULO 29.
 
-Si la persona desaparecida de la cual se emitió una Declaración Especial de Ausencia fuera localizada con vida, o se prueba que sigue con vida, en caso de existir indicios de que la persona hizo creer su desaparición deliberada para evadir responsabilidades, sin perjuicio de las acciones legales conducentes, recobrará sus bienes en el estado en el que se hallen y no podrá reclamar de éstos, frutos ni rentas y, en su caso, también recobrará los derechos y obligaciones que tenía al momento de su desaparición.
+Si la persona desaparecida de la cual se emitió una Declaración Especial de Ausencia fuera localizada con vida, o se prueba que sigue con vida, en caso de existir pruebas que acrediten fehacientemente que la persona hizo creer su desaparición deliberada para evadir responsabilidades, sin perjuicio de las acciones legales conducentes, recobrará sus bienes en el estado en el que se hallen y no podrá reclamar de éstos, frutos ni rentas y, en su caso, también recobrará los derechos y obligaciones que tenía al momento de su desaparición.
 
 ###### ARTÍCULO 30.
 
@@ -364,3 +366,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0577.- SE REFORMA EL ARTÍCULO 29 DE LA LEY QUE REGULA EL PROCEDIMIENTO PARA LA EMISIÓN DE LA DECLARATORIA DE AUSENCIA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
