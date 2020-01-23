@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2019-11-02"
+last_updated: "2020-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2020.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -58,6 +58,10 @@ El Estado es parte integrante de los Estados Unidos Mexicanos; es libre y sobera
 ###### ARTÍCULO 3o.
 
 El Estado de San Luis Potosí adopta para su régimen interior la forma de gobierno republicano, representativo, democrático, laico, y popular, y lo ejerce por medio de los poderes, Legislativo; Ejecutivo; y Judicial. En ningún momento podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo. Los Poderes del Estado no tendrán más atribuciones que las que les confieren la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, y las leyes que de ellas emanen.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2020)</small>
+
+Las leyes respectivas determinarán las formas y modalidades que correspondan, para observar el principio de paridad de género en los nombramientos de las personas titulares de las secretarías de despacho y gabinete ampliado del Poder Ejecutivo del Estado, y sus equivalentes en los ayuntamientos. En la integración de los organismos autónomos se observará el mismo principio.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -115,7 +119,9 @@ Todas las autoridades, en el ámbito de sus competencias, tienen la obligación 
 
 En el Estado de San Luis Potosí todas las personas son libres e iguales en dignidad y derechos.
 
-El varón y la mujer son iguales ante la ley. El Estado promoverá la igualdad de oportunidades de los varones y las mujeres potosinos en la vida pública, económica, social y cultural.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2020)</small>
+
+La mujer y el hombre son iguales ante la ley. El Estado promoverá la igualdad de oportunidades de las mujeres y los hombres en la vida pública, económica, social y cultural.
 
 > <small>(ADICIONADO, P.O. 20 DE MAYO DE 2014)</small>
 
@@ -149,7 +155,9 @@ IX.- Las comunidades indígenas, dentro del ámbito municipal podrán coordinars
 
 X.- En los términos que establece la Constitución federal y las demás leyes de la materia, y dentro de los ámbitos de competencia del Estado y municipios, los pueblos y comunidades indígenas tendrán derecho a la preservación de la naturaleza, y de los recursos que se encuentran ubicados en sus tierras o en la totalidad del hábitat que ocupan o disfrutan, así como preferencia en el uso y disfrute de los mismos;
 
-XI.- La jurisdicción indígena y sus competencias se corresponden con la organización social y el espacio geográfico o territorios donde se asientan las comunidades. Las comunidades indígenas elegirán y designarán a sus representantes y órganos de autoridad internos, y ante los ayuntamientos, en correspondencia con sus sistemas normativos y formas de organización comunitaria. La ley reglamentaria establecerá las bases al respecto, garantizando la participación de las mujeres en condiciones de equidad;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2020)</small>
+
+XI.- La jurisdicción indígena y sus competencias se corresponden con la organización social y el espacio geográfico o territorios donde se asientan las comunidades. Las comunidades indígenas elegirán y designarán a sus representantes y órganos de autoridad internos, y ante los ayuntamientos, en correspondencia con sus sistemas normativos y formas de organización comunitaria. La ley reglamentaria establecerá las bases al respecto, observando el principio de paridad de género conforme a las normas aplicables;
 
 XII.- Mediante acciones coordinadas entre los distintos órdenes de gobierno, las autoridades municipales determinarán equitativamente las asignaciones presupuestales que las comunidades indígenas administrarán directamente para fines específicos;
 
@@ -473,23 +481,27 @@ III.- Desempeñar las funciones electorales que les sean asignadas por la autori
 
 IV.- Votar en las elecciones populares en los términos que señale la ley.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2020)</small>
 
 ###### ARTÍCULO 26.
 
-Son prerrogativas de los ciudadanos potosinos:
+Son prerrogativas de la ciudadanía potosina:
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
 I.- Votar en las elecciones populares y consultas ciudadanas que lleven a cabo las autoridades competentes;
 
-II.- Poder ser votados para todos los cargos de elección popular y nombrados para ocupar cualquier empleo o comisión, teniendo las calidades que esta Constitución y las leyes establezcan;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
+II.- Poder ser votados en condiciones de paridad para todos los cargos de elección popular y nombrados para ocupar cualquier empleo o comisión, teniendo las calidades que esta Constitución y las leyes establezcan;
 
-El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
+El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación. En la postulación de las candidaturas se observará el principio de paridad de género;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 III.- Ejercer individual y libremente el derecho de asociarse y reunirse para tomar parte en forma pacífica en los asuntos políticos del Estado y los Municipios; y
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 IV.- Las demás que les confieren la presente Constitución y las leyes que de ella emanen.
 
@@ -631,19 +643,29 @@ Los organismos electorales competentes, con la participación de los partidos po
 
 ### CAPÍTULO II. De los Partidos Políticos
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2020)</small>
 
 ###### ARTÍCULO 36.
 
-Los partidos políticos son entidades de interés público que tienen como fin promover la participación de los ciudadanos en la vida democrática, y hacer posible el acceso de sus candidatos, mediante el sufragio universal, libre, secreto y directo de los electores, al ejercicio del poder público, de acuerdo con los programas, principios, ideas y postulados; así como las reglas para garantizar la paridad entre los géneros, de conformidad con los procedimientos que establezcan sus estatutos para la postulación de candidatos.
+Los partidos políticos son entidades de interés público que tienen como fin promover la participación de los ciudadanos en la vida democrática, la paridad de género, así como el hacer posible el acceso de sus candidatos, mediante el sufragio universal, libre, secreto y directo de los electores, al ejercicio del poder público, de acuerdo con los programas, principios, ideas y postulados; así como las reglas para garantizar la igualdad entre mujeres y hombres, de conformidad con los procedimientos que establezcan sus estatutos para la postulación de candidatos.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 Los partidos políticos que participen en los procesos electorales locales para integración del Congreso del Estado, deberán garantizar la paridad entre los géneros en la totalidad de sus candidaturas, por ambos principios, debiendo sus fórmulas estar compuestas por candidatos del mismo género.
 
-En los procesos electorales municipales que se rigen por el principio de mayoría relativa, los partidos políticos promoverán la postulación de una proporción paritaria de candidatos de ambos géneros.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2020)</small>
 
-En el caso de las candidaturas a los Ayuntamientos postulados por cada partido político se regirá por el principio de paridad horizontal.
+En los procesos electorales municipales que se rigen por el principio de mayoría relativa, los partidos políticos promoverán la postulación de una proporción paritaria de mujeres y hombres en las candidaturas.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2020)</small>
+
+En el caso de las candidaturas a los Ayuntamientos postulados por cada partido político se regirá por el principio de paridad horizontal y vertical.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 Las planillas deberán integrarse por candidatos propietarios y suplentes del mismo género.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 Las listas de representación proporcional en cargos de elección municipal, se conformarán y asignarán bajo el principio de paridad de género en propietarios y suplentes.
 
@@ -729,11 +751,13 @@ El Presidente del Congreso o de la Diputación Permanente, en su caso, velará p
 
 ### CAPÍTULO II. De la Elección e Instalación del Congreso
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2020)</small>
 
 ###### ARTÍCULO 42.
 
-El Congreso del Estado se integra con quince Diputados electos por mayoría relativa y hasta doce Diputados electos según el principio de representación proporcional. Por cada Diputado propietario se elegirá un suplente.
+El Congreso del Estado se integra con quince diputaciones electas por mayoría relativa y hasta doce diputaciones electas según el principio de representación proporcional. Por cada Diputado propietario se elegirá un suplente.
+
+Para la integración del Congreso del Estado se observará el principio de paridad de género, la ley establecerá las reglas y fórmulas para estos efectos.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -867,11 +891,9 @@ Incurrirán en responsabilidad y se harán acreedores a las sanciones que la ley
 
 ### CAPÍTULO III. De las Sesiones y Recesos del Congreso
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2006)</small>
-
 ###### ARTÍCULO 51.
 
-El diputado que no concurra a tres sesiones consecutivas sin previa licencia del Congreso, o sin causa justificada calificada por la Directiva del mismo, cesará en el desempeño de su cargo. En este caso será llamado, desde luego, su suplente, quien tendrá derecho a percibir las dietas correspondientes.
+(DEROGADO, P.O. 23 DE ENERO DE 2020)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2014)</small>
 
@@ -1543,6 +1565,10 @@ Se deposita el ejercicio del Poder Judicial del Estado, en un Supremo Tribunal d
 
 El Poder Judicial contará con el apoyo de Jueces Auxiliares cuando así lo requiera, de conformidad con lo previsto por la ley de la materia.
 
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2020)</small>
+
+En la integración del Poder Judicial su ley establecerá la forma y procedimientos mediante la cual se observará el principio de paridad de género.
+
 > <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
 El Supremo Tribunal de Justicia funcionará en Pleno o en Salas. Las sesiones del Pleno en las que se discutan y decidan los asuntos jurisdiccionales serán públicas, excepto aquellas que por su naturaleza se considere que deban ser reservadas.
@@ -1555,9 +1581,9 @@ La administración, vigilancia y disciplina del Poder Judicial del Estado, así 
 
 El Consejo de la Judicatura Estatal es un órgano del Poder Judicial del Estado, con independencia técnica, de gestión y para emitir sus resoluciones; funcionará en Pleno o en comisiones, y tendrá las atribuciones que determine la ley.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2020)</small>
 
-El Consejo se integrará con cuatro miembros, de los cuales uno será el Presidente del Supremo Tribunal de Justicia, quien también lo será del Consejo; uno designado por el Congreso del Estado; otro por el Supremo Tribunal de Justicia; y uno más, por el Titular del Ejecutivo. Los designados por éstos dos últimos, serán ratificados por el Congreso del Estado.
+El Consejo se integrará con cuatro miembros, de los cuales uno será el Presidente del Supremo Tribunal de Justicia, quien también lo será del Consejo; uno designado por el Congreso del Estado; otro por el Supremo Tribunal de Justicia; y uno más, por el titular del Ejecutivo. Los designados por éstos dos últimos, serán ratificados por el Congreso del Estado. Para su integración se observará el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
@@ -1595,7 +1621,7 @@ El Consejo de la Judicatura determinará el número y especialización por mater
 
 ### CAPÍTULO II. Del Supremo Tribunal de Justicia
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2020)</small>
 
 ###### ARTÍCULO 91.
 
@@ -1639,11 +1665,11 @@ El presupuesto será formulado por el Consejo de la Judicatura, con la aprobaci�
 
 El Consejo de la Judicatura será responsable de rendir al Congreso un informe trimestral del estado financiero y anualmente la Cuenta Pública del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2020)</small>
 
 ###### ARTÍCULO 93.
 
-Los nombramientos de los funcionarios judiciales serán hechos, preferentemente, de entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la impartición de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, de conformidad con la Ley Orgánica del Poder Judicial.
+Los nombramientos del funcionariado judicial serán hechos, preferentemente, de entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la impartición de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, de conformidad con la Ley Orgánica del Poder Judicial, y observando el principio de paridad de género.
 
 > <small>(ADICIONADO, P.O. 26 DE JULIO DE 2005)</small>
 
@@ -1663,13 +1689,21 @@ El Supremo Tribunal de Justicia y el Consejo de la Judicatura, deberán rendir e
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-###### ARTÍCULO 96.
+###### ARTICULO 96.
 
-El Supremo Tribunal de Justicia se integra con dieciséis magistrados numerarios, electos por el voto de cuando menos las dos terceras partes de los diputados presentes del Congreso; además, por quince magistrados supernumerarios. Para su elección, el Gobernador propondrá al Congreso, al triple de personas respecto del número de cargos por cubrir, dentro de los cuales la Legislatura hará la elección respectiva en el término de treinta días. Si vencido ese plazo no se hubiera hecho la elección, el titular del Ejecutivo procederá a hacer el nombramiento de entre las propuestas.
+El Supremo Tribunal de Justicia se integra con dieciséis magistraturas numerarias, electas por el voto de cuando menos las dos terceras partes de los diputados presentes del Congreso; además, por quince magistraturas supernumerarias. Para su elección, el Gobernador propondrá al Congreso, al triple de personas respecto del número de cargos por cubrir, dentro de los cuales la Legislatura hará la elección respectiva en el término de treinta días. Si vencido ese plazo no se hubiera hecho la elección, el titular del Ejecutivo procederá a hacer el nombramiento de entre las propuestas.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
 En caso de que el Congreso rechace la propuesta, el Gobernador del Estado presentará una nueva en los términos del párrafo anterior; si esta segunda propuesta fuera rechazada, ocupará el cargo la persona que, dentro de la misma, designe el Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+
 Cuando cese o concluya el ejercicio de una magistratura por cualquier causa, el Ejecutivo presentará al Congreso las respectivas propuestas.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2020)</small>
+
+Para la integración de las dieciséis magistraturas se observará el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
@@ -1737,11 +1771,11 @@ El cargo de Magistrado no es renunciable, sino por causa justificada calificada 
 
 En cada Distrito o Región Judicial, que comprenderán los municipios que establezca la Ley Orgánica del Poder Judicial, habrá los jueces y tribunales que determine el Consejo de la Judicatura, los que conocerán de los negocios judiciales que les competan. La ley establecerá la forma de cubrir sus faltas temporales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2020)</small>
 
 ###### ARTÍCULO 102.
 
-Los jueces serán nombrados, removidos, ratificados y adscritos por el Consejo de la Judicatura, con base en criterios objetivos y de acuerdo a los requisitos que establezca la ley para la carrera judicial. Durarán cinco años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca la ley.
+Las y los jueces serán nombrados, removidos, ratificados y adscritos por el Consejo de la Judicatura, con base en criterios objetivos y de acuerdo a los requisitos que establezca la ley para la carrera judicial, observando el principio de paridad de género. Durarán cinco años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2015)</small>
 
@@ -1779,11 +1813,11 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que haya am
 
 En el Estado habrá juzgados menores. El Consejo de la Judicatura determinará su número conforme a las necesidades del servicio. Sus facultades, obligaciones y competencia por materia y cuantía, serán establecidas por la ley, y la territorial corresponderá fijarla al Consejo de la Judicatura.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2020)</small>
 
 ###### ARTÍCULO 105.
 
-Los jueces menores serán nombrados por el Consejo de la Judicatura, mediante examen de oposición, conforme preceptúe la ley secundaria. El Consejo de la Judicatura podrá separarlos de su cargo o cambiarlos de adscripción.
+Los jueces menores serán nombrados por el Consejo de la Judicatura, mediante examen de oposición, conforme preceptúe la ley secundaria, y observando el principio de paridad de género. El Consejo de la Judicatura podrá separarlos de su cargo o cambiarlos de adscripción.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1893,9 +1927,11 @@ No se hará pago alguno que no esté previsto en la Ley del Presupuesto de Egres
 
 El Municipio Libre constituye la base de la división territorial y de la organización política y administrativa del Estado y tendrá a su cargo la administración y gobierno de los intereses municipales, conforme a las bases siguientes:
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 23 DE ENERO DE 2020)</small>
 
-I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa. La competencia del gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado. Los ayuntamientos se compondrán por un presidente municipal y el número de regidores y síndicos que la ley determine, electos popularmente por votación directa, quienes podrán reelegirse por un período adicional por el mismo cargo. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Cuando se trate de Presidentes Municipales y los integrantes de la planilla electos como candidatos independientes, sólo podrán ser reelectos con esta misma calidad. Las personas que, por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen la función propia de sus cargos, cualquiera que sea la denominación que se les dé, podrán ser reelectas para el período inmediato siguiente.
+I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa. La competencia del gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado. Los ayuntamientos se compondrán por un presidente municipal y el número de regidores y síndicos que la ley determine, de conformidad con el principio de paridad de género electos popularmente por votación directa, quienes podrán reelegirse por un período adicional por el mismo cargo. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Cuando se trate de presidentes municipales y los integrantes de la planilla electos como candidatos independientes, sólo podrán ser reelectos con esta misma calidad. Las personas que, por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen la función propia de sus cargos, cualquiera que sea la denominación que se les dé, podrán ser reelectas para el período inmediato siguiente.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 En el caso de los funcionarios suplentes podrán ser electos para el período inmediato siguiente sin ser considerado como reelección, siempre que no hayan ejercido funciones u ostentado el carácter de propietarios en el Ayuntamiento respectivo. Para poder ser candidatos al mismo cargo, los integrantes de los ayuntamientos deberán separarse de su cargo noventa días antes de la elección solicitando licencia respectiva, pudiendo reincorporarse el día posterior de la elección;
 
@@ -3354,3 +3390,21 @@ P.O. 2 DE NOVIEMBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0578.- SE REFORMAN LOS ARTÍCULOS 8°, 9º, 26, 36, 42, 93, 96, 102, 105 Y 114; Y ADICIONA A LOS ARTÍCULOS 3°, 90 Y 93 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los poderes, y las demás autoridades cuentan con un plazo de ciento ochenta días a partir de la aprobación del texto Constitucional, para reformar su reglamentación interna.
+
+P.O. 23 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0579.- SE DEROGA EL ARTÍCULO 51 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis.
+
+SEGUNDO. Se derogan todas las disposiciones que opongan al presente Decreto.
