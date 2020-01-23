@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-instituto-de-las-mujeres-del-estado-de-san-luis-25507"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-14"
-last_updated: "2017-06-17"
+last_updated: "2020-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DEL INSTITUTO DE LAS MUJERES DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL INSTITUTO DE LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 23 DE ENERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL INSTITUTO DE LAS MUJERES, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2020 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de marzo de 2002.
 
@@ -35,7 +37,7 @@ DECRETO 283
 
 LA QUINCUAGESIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
 
-...
+[...]
 
 LEY DEL INSTITUTO DE LAS MUJERES, DEL ESTADO DE SAN LUIS POTOSI
 
@@ -636,3 +638,15 @@ P.O. 17 DE JUNIO DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0575.- LEY DEL INSTITUTO DE LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. La Ley que se expide mediante este Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor del presente Decreto se abroga la Ley del Instituto de las Mujeres del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado con fecha 14 de marzo del año 2002; y se derogan todas las disposiciones legales y reglamentarias que se opongan al mismo.
+
+TERCERO. El Instituto deberá adecuar su Reglamento Interior, dentro de los noventa días siguientes al de la entrada en vigor de este Decreto.
+
+CUARTO. El Instituto deberá implementar el Banco Estatal de Indicadores de Género dentro de los sesenta días siguientes a la entrada en vigor de la presente Ley, y emitir los lineamientos a que se refiere el artículo 37 de la misma, dentro de los treinta días siguientes a la conclusión de dicho término.
