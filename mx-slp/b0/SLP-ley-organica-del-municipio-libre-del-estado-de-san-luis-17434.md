@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2019-11-26"
+last_updated: "2020-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -553,9 +553,9 @@ VII. Los ayuntamientos podrán solicitar al Congreso del Estado las modificacion
 
 VIII. Remitir anualmente al Congreso del Estado, a más tardar el quince de marzo de cada año, la actualización al Catálogo General de Inmuebles Municipales, así como el inventario de bienes muebles de su propiedad para efectos del control y registro de los mismos;
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE ENERO DE 2020.
 
-IX. Aprobar el presupuesto anual de egresos, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, sujetándose a las bases previstas en el artículo 133 de la Constitución Política del Estado; así como la cuenta pública municipal anual que le presente el Tesorero del Ayuntamiento, remitiéndola al Congreso del Estado para su revisión y fiscalización, a más tardar el día quince de marzo del año siguiente al del ejercicio.
+IX. Aprobar a más tardar el treinta de diciembre de cada año, el presupuesto anual de egresos que regirá el ejercicio fiscal inmediato posterior, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, sujetándose a las bases previstas en el artículo 133 de la Constitución Política del Estado; así como la cuenta pública municipal anual que presente el tesorero del ayuntamiento, remitiéndola al Congreso del Estado para su revisión y fiscalización, a más tardar el día quince de marzo del año siguiente al del ejercicio.
 
 > <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2007)</small>
 
@@ -3182,6 +3182,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 26 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0322.- SE REFORMA (SIC) LOS ARTÍCULOS 13, 70, 80 Y 83; Y ADICIONA AL ARTÍCULO 80 LA FRACCIÓN III, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que (sic) opongan al presente Decreto.
+
+P.O. 23 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0576.- SE REFORMA EL ARTÍCULO 31, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
