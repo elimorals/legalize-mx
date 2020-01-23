@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-movilidad-de-la-ciudad-de-mexico-antes-ley-de-101763"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-14"
-last_updated: "2019-11-19"
+last_updated: "2020-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101763&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2014-07-08"
 
 LEY DE MOVILIDAD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 19 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE ENERO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 14 de julio de 2014.
 
@@ -2106,6 +2106,10 @@ IV. Electoral y/o Política: Cuando se trate de dar a conocer al electorado los 
 
 La Secretaría vigilará que las frases, palabras, objetos e imágenes que se utilicen en la publicidad de los vehículos de transporte público, no atente contra los derechos humanos, la dignidad humana, ni se estime como inscripciones discriminatorias u ofensivas; y que no obstruya o desvirtúe las características y cromática que identifica a las unidades.
 
+> <small>(ADICIONADO, G.O. 23 DE ENERO DE 2020)</small>
+
+Toda publicidad deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente.
+
 ###### Artículo 158.
 
 La solicitud para la portación de la publicidad deberá acompañarse de la siguiente documentación:
@@ -3073,6 +3077,14 @@ Cuarto. La Administración Pública de la Ciudad de México y los terceros autor
 G.O. 19 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+Segundo.- Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 23 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 157 DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL”.]
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación.
 
