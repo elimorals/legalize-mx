@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-personas-jovenes-en-la-ciudad-de-109
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-13"
-last_updated: "2019-12-17"
+last_updated: "2020-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109366&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE ENERO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de agosto de 2015.
 
@@ -348,13 +348,17 @@ El Gobierno desarrollará políticas públicas para el fomento e impulso a la in
 
 El Gobierno, en el ámbito de su competencia, impulsará y apoyará el adecuado desarrollo del sistema educativo.
 
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+
 ###### Artículo 23.
 
-En los programas educativos que sean competencia del Distrito Federal se deberá enfatizar la información y prevención, por parte de personal especializado que corresponda, referente al medio ambiente, la participación ciudadana, las adicciones, la educación integral en sexualidad, la prevención del embarazo no planeado, el VIH-SIDA entre otras infecciones de transmisión sexual, los problemas psico-sociales, el sedentarismo, el sobrepeso, la violencia escolar, la obesidad y los trastornos de conducta alimentaria como la bulimia o la anorexia, así como en materia de violencia y perspectiva de género.
+En los programas educativos que sean competencia del Distrito Federal se deberá enfatizar la información y prevención, por parte de personal especializado que corresponda, referente al medio ambiente, la participación ciudadana, las adicciones, la educación integral en sexualidad, la prevención del embarazo no planeado, el VIH-SIDA entre otras infecciones de transmisión sexual, los problemas psico-sociales, prevención del suicidio y la autolesión, el sedentarismo, el sobrepeso, la violencia escolar, la obesidad y los trastornos de conducta alimentaria como la bulimia o la anorexia, así como en materia de violencia y perspectiva de género.
 
 ###### Artículo 24.
 
 El Gobierno fomentará el aprendizaje e impulso a la investigación de conocimientos científicos y tecnológicos para motivar a las personas jóvenes a generar proyectos para un mejor desarrollo de su persona y de la Ciudad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 23 DE ENERO DE 2020)</small>
 
 ###### Artículo 25.
 
@@ -372,7 +376,9 @@ V. Garantizar la libre asociación y funcionamiento de las organizaciones estudi
 
 VI. Promover la investigación, formación y las creaciones científicas, tecnológicas, artísticas y culturales; y
 
-VII. Prevenir mediante la formación educativa las causas y consecuencias que trae consigo la práctica de conductas que atentan contra el sano desarrollo de las personas jóvenes, tales como: el sedentarismo y la adopción de hábitos alimentarios inadecuados; los desórdenes y trastornos de la conducta alimentaria, el consumo de cualquier droga o sustancia psicoactiva, el embarazo no deseado, entre otros.
+> <small>(REFORMADA, G.O. 23 DE ENERO DE 2020)</small>
+
+VII. Prevenir mediante la formación educativa las causas y consecuencias que trae consigo la práctica de conductas que atentan contra el sano desarrollo de las personas jóvenes, tales como: el sedentarismo y la adopción de hábitos alimentarios inadecuados; los desórdenes y trastornos de la conducta alimentaria, el consumo de cualquier droga o sustancia psicoactiva, el embarazo no deseado, prevención del suicidio y la autolesión entre otros.
 
 ###### Artículo 26.
 
@@ -394,19 +400,23 @@ Las personas jóvenes tienen derecho a la protección de la salud en los términ
 
 Las personas jóvenes tienen el derecho a vivir y desarrollarse en un ambiente sano y libre de drogas.
 
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+
 ###### Artículo 29.
 
 Las personas jóvenes tienen derecho en términos de la legislación aplicable al más alto nivel de salud integral posible, el Gobierno dentro del ámbito de su competencia, deberá proporcionarla de forma gratuita y de calidad, independientemente del género, orientación sexual, identidad étnica, discapacidad, condición económica, social o cualquier otra distinción.
 
-Este derecho incluye la atención primaria, la educación preventiva, la nutrición, la atención y cuidado especializado de la salud (sic) personas jóvenes, la promoción de la salud sexual y reproductiva, prevención de embarazos no planeados, el acceso a la información y la provisión de métodos de anticoncepción, la investigación de los problemas de salud que se presentan en este sector de la población, así como la información y prevención del sobrepeso, la obesidad, los patrones alimenticios dañinos, el alcoholismo, el tabaquismo, el uso problemático de drogas, la confidencialidad del estado de salud física y mental, el respeto del personal de los servicios de salud, en particular a lo relativo a su salud sexual y reproductiva, y que los tratamientos le sean prescritos conforme con la legislación aplicable, respetando en todo momento la confidencialidad del estado de salud física y mental de la persona joven.
+Este derecho incluye la atención primaria, la educación preventiva, la nutrición, la atención y cuidado especializado de la salud (sic) personas jóvenes, la promoción de la salud sexual y reproductiva, planeados, el acceso a la información y la provisión de métodos de anticoncepción, la investigación de los problemas de salud que se presentan en este sector de la población, así como la información y prevención del sobrepeso, la obesidad, los patrones alimenticios dañinos, el alcoholismo, el tabaquismo, el uso problemático de drogas, la confidencialidad del estado de salud física y mental, el respeto del personal de los servicios de salud, en particular a lo relativo a su salud sexual y reproductiva, prevención del suicidio y la autolesión, prevención de embarazos no (sic) y que los tratamientos le sean prescritos conforme con la legislación aplicable, respetando en todo momento la confidencialidad del estado de salud física y mental de la persona joven.
 
-Las personas jóvenes con uso de estupefacientes, substancias psicotrópicas y otras susceptibles de producir dependencia tienen derecho a recibir servicios de atención para la prevención, educación, reducción de daños, el tratamiento, rehabilitación y reinserción social. En ningún caso las personas rehabilitadas podrán ser privadas, por esta causa, del acceso a las instituciones educativas y laborales.
+(sic) producir dependencia tienen derecho a recibir servicios de atención para la prevención, educación, reducción de daños, el tratamiento, rehabilitación y reinserción social. En ningún caso las personas rehabilitadas podrán ser privadas, por esta causa, del acceso a las instituciones educativas y laborales.
 
 Para la calidad integral de estos servicios, el Gobierno desarrollará, simultáneamente, los aspectos técnicos y humanos del tratamiento médico sanitario, en los marcos establecidos en la ley, garantizando en la proporción que sea posible de acuerdo al monto de presupuesto asignado para estas actividades, el abasto de insumos y medicamentos, y el mantenimiento y renovación del equipo. Para la prestación de los servicios se incluye la actualización continua del personal, acorde a los avances científico-técnicos, de investigación; de las áreas de promoción y fomento a la salud, la prevención, la terapéutica, el diagnóstico, las actividades de vigilancia sanitaria y epidemiológica y las acciones preventivas con la participación de comunidades y grupos organizados.
 
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+
 ###### Artículo 30.
 
-El Gobierno establecerá políticas y programas de salud integral, específicamente orientados a la prevención de enfermedades, promoción de la salud y estilos de vida saludables entre las personas jóvenes.
+El Gobierno establecerá políticas y programas de salud integral, específicamente orientados a la prevención de enfermedades, prevención del suicidio y la autolesión, promoción de la salud y estilos de vida saludables entre las personas jóvenes.
 
 ###### Artículo 31.
 
@@ -1973,6 +1983,14 @@ CUARTO: El presente Decreto entrará en vigor al día siguiente de su publicaci�
 G.O. 17 DE DICIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1, 3 Y 15 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 23, 25, 29 Y 30 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO".]
 
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
 
