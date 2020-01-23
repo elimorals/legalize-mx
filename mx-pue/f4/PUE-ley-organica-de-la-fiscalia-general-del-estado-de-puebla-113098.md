@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-fiscalia-general-del-estado-de-puebla-113098
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-02-20"
-last_updated: "2019-12-06"
+last_updated: "2020-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2020.
 
 Ley publicada en la Tercera Edición Extraordinaria del Periódico Oficial del Estado de Puebla, el sábado 20 de febrero de 2016.
 
@@ -797,9 +797,11 @@ La Fiscalía General promoverá la firma de convenios de coordinación para la c
 
 El Fiscal General emitirá las normas que regulen la capacitación y formación ética y profesional así como los programas de superación y actualización del personal de la Fiscalía General.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2020)</small>
+
 ###### ARTÍCULO 30.
 
-La legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos serán principios rectores en la capacitación, formación, superación, actualización y desempeño del personal de la Fiscalía General.
+La accesibilidad, debida diligencia, eficiencia, honradez, imparcialidad, interculturalidad, legalidad, objetividad, perspectiva de género, perspectiva de niñez, adolescencia y juventud, profesionalismo y respeto a los derechos humanos, serán principios rectores en la capacitación, formación, superación, actualización y desempeño del personal de la Fiscalía General.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -1534,3 +1536,11 @@ SEXTO. Todo instrumento legal, jurídico o administrativo y norma en sentido for
 SÉPTIMO. Los derechos y obligaciones contractuales, contraídos por el Servicio Médico Forense, serán atribuidos al Instituto de Ciencias Forenses de la Fiscalía General del Estado.
 
 OCTAVO. Los derechos laborales del personal que en virtud del proceso de transferencia derivado del presente Decreto, pasen del Poder Judicial del Estado de Puebla a la Fiscalía General del Estado de Puebla, se respetarán en términos de la Ley de los Trabajadores al Servicio del Estado.
+
+P.O. 23 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 30 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
