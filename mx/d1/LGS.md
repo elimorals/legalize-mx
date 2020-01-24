@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2019-11-29"
+last_updated: "2020-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2020.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 24 DE DICIEMBRE DE 2018.
 
@@ -2286,11 +2286,11 @@ III.- Las disposiciones de esta Ley y demás normas jurídicas aplicables, y
 
 IV.- Las leyes que expidan los estados, con fundamento en los artículos 5o. y 121, fracción V, de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2020)</small>
 
-###### ARTICULO 79.
+###### Artículo 79.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, terapia física, trabajo social, química, psicología, optometría, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades profesionales en el campo de la medicina, farmacia, odontología, veterinaria, biología, bacteriología, enfermería, terapia física, trabajo social, química, psicología, optometría, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
 > <small>(REFORMADO, D.O.F. 17 DE MARZO DE 2015)</small>
 
@@ -5972,7 +5972,9 @@ III. Componentes, a los órganos, los tejidos, las células y sustancias que for
 
 IV. Componentes sanguíneos, a los elementos de la sangre y demás sustancias que la conforman;
 
-V. Destino final, a la conservación permanente, inhumación, incineración, desintegración e inactivación de órganos, tejidos, células y derivados, productos y cadáveres de seres humanos, incluyendo los de embriones y fetos, en condiciones sanitarias permitidas por esta Ley y demás disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2020)</small>
+
+V. Destino final, a la conservación permanente, inhumación, incineración, cremación, desintegración e inactivación de órganos, tejidos, células y derivados, productos y cadáveres de seres humanos, incluyendo los de embriones y fetos, mediante prácticas reconocidas y en condiciones sanitarias reguladas y autorizadas por la autoridad sanitaria;
 
 > <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2009)</small>
 
@@ -6704,17 +6706,29 @@ II. De personas desconocidas.
 
 Los cadáveres no reclamados dentro de las setenta y dos horas posteriores a la pérdida de la vida y aquellos de los que se ignore su identidad serán considerados como de personas desconocidas.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2020)</small>
 
 ###### ARTICULO 348.
 
-La inhumación o incineración de cadáveres sólo podrá realizarse con la autorización del oficial del Registro Civil que corresponda, quien exigirá la presentación del certificado de defunción.
+La inhumación, cremación o desintegración de cadáveres sólo podrá realizarse con la autorización del oficial del Registro Civil que corresponda, quien exigirá la presentación del certificado de defunción.
 
-> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 2017)</small>
+Los cadáveres deberán inhumarse, cremarse, desintegrarse, embalsamarse y/o conservarse dentro de las cuarenta y ocho horas siguientes a la muerte, salvo autorización específica de la autoridad sanitaria competente o por disposición del Ministerio Público, o de la autoridad judicial. Para el caso de cadáveres de personas no identificadas se estará a lo dispuesto en la Ley General en materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
 
-Los cadáveres deberán inhumarse, incinerarse o embalsamarse dentro de las cuarenta y ocho horas siguientes a la muerte, salvo autorización específica de la autoridad sanitaria competente o por disposición del Ministerio Público, o de la autoridad judicial. Para el caso de cadáveres de personas no identificadas se estará a lo dispuesto en la Ley General en materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+La inhumación, cremación, embalsamamiento o la aplicación de cualquier otro proceso, sea químico o biológico, para la conservación o disposición final de cadáveres sólo podrá realizarse en lugares permitidos por las autoridades sanitarias competentes.
 
-La inhumación e incineración de cadáveres sólo podrá realizarse en lugares permitidos por las autoridades sanitarias competentes.
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2020)</small>
+
+ARTICULO 348 BIS.- Los prestadores de servicios funerarios deberán disponer de recipientes o contendedores (sic) de material biodegradable adecuados, que impidan el derrame de líquidos o el esparcimiento de olores, que se colocarán dentro de los ataúdes, en los casos previstos por las autoridades sanitarias.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2020)</small>
+
+ARTICULO 348 BIS 1.- Corresponde a la Secretaría de Salud emitir disposiciones que prevengan los riesgos sanitarios por la reutilización y destino final de los ataúdes y féretros.
+
+Toda reutilización o donación de ataúdes o féretros provenientes de servicios de cremación o desintegración de cadáveres, se hará previo procedimiento de desinfección y aviso a la autoridad sanitaria competente. El establecimiento será responsable de la utilización de productos biodegradables para llevar a cabo dicho procedimiento.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2020)</small>
+
+ARTICULO 348 BIS 2.- Las autoridades sanitarias locales estarán facultadas para llevar a cabo verificaciones a los establecimientos para constatar el cumplimiento de lo previsto en el artículo anterior. Asimismo, deberán prever programas y mecanismos destinados a la destrucción o reutilización de ataúdes y féretros en condiciones ambientales responsables.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -7570,11 +7584,11 @@ IV.- La calidad de reincidente del infractor;
 
 V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2020)</small>
 
 ###### ARTICULO 419.
 
-Se sancionará con multa hasta dos mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 55, 56, 83, 103, 107, 137, 138, 139, 161, 200 bis, 202, 263, 268 bis 1, 282 bis 1, 346, 350 bis 6, 391 y 392 de esta Ley.
+Se sancionará con multa de hasta dos mil veces la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los artículos 55, 56, 83, 103, 107, 137, 138, 139, 161, 200 Bis, 202, 263, 268 Bis 1, 282 Bis 1, 346, 348, 348 Bis, 348 Bis 1, 350 Bis 6, 391 y 392 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2017)</small>
 
@@ -9277,3 +9291,19 @@ Décimo Segundo. Hasta en tanto se dé cumplimiento en su totalidad a las obliga
 El Instituto de Salud para el Bienestar deberá actualizar, como parte del análisis técnico a que se refiere el cuarto párrafo del artículo 77 bis 16 A de la Ley General de Salud, la plantilla ocupada de los trabajadores que participan en la prestación de los servicios, a que se refiere la fracción XI del artículo 77 bis 35 de la misma Ley.
 
 Décimo Tercero. En un periodo de tres años contados a partir de la entrada en vigor del presente Decreto el Instituto de Salud para el Bienestar deberá presentar al Congreso de la Unión un informe del cumplimiento de cobertura de la prestación gratuita de servicios de salud, medicamentos y demás insumos, especificando la cobertura de atención a los grupos vulnerables y (sic) marginación social.
+
+D.O.F. 24 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 79 DE LA LEY GENERAL DE SALUD”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 314, 348 Y 419; Y SE ADICIONAN LOS ARTÍCULOS 348 BIS, 348 BIS 1 Y 348 BIS 2 DE LA LEY GENERAL DE SALUD”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los prestadores de servicios funerarios contarán con ciento ochenta días contados a partir de la entrada en vigor del presente Decreto para dar cumplimiento a lo establecido en el artículo 348 Bis de la Ley General de Salud.
+
+Tercero. En un plazo que no excederá de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Salud y las autoridades sanitarias locales, en el ámbito de su respectiva competencia, emitirán las disposiciones reglamentarias para dar cumplimiento a lo establecido en los artículos 348 Bis, 348 Bis 1 y 348 Bis 2 de la Ley General de Salud.
