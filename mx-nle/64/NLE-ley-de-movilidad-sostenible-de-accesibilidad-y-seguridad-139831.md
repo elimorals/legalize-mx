@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-movilidad-sostenible-de-accesibilidad-y-seguridad-139831
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-08"
-last_updated: "2020-01-08"
+last_updated: "2020-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY DE MOVILIDAD SOSTENIBLE, DE ACCESIBILIDAD Y SEGURIDAD VIAL PARA EL ESTADO DE NUEVO LEON -- ANTES LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEON --
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2020 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE ENERO DE 2020.]
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 8 de enero de 2020.
 
@@ -263,7 +263,9 @@ XLVIII. Ramal: Recorrido o trayecto determinado que realizan las unidades de tra
 
 XLIX. REA: El Organismo Público Descentralizado denominado Red Estatal de Autopistas de Nuevo León;
 
-L. Reglamento: El Reglamento de la Ley de Movilidad del Estado de Nuevo León;
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
+
+L. Reglamento: El Reglamento de la Ley de Movilidad Sostenible y Accesibilidad para el Estado de Nuevo León
 
 LI. Reglamento Interior: Reglamento Interior del Instituto de Movilidad y Accesibilidad;
 
@@ -489,6 +491,8 @@ La construcción, mejoramiento y adaptación de las vías, aceras, pasos peatona
 
 ### CAPÍTULO SEGUNDO. DIRECCIÓN GENERAL
 
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
+
 ###### Artículo 21.
 
 Se crea el Organismo Público Descentralizado de la Administración Pública del Estado de Nuevo León, denominado Instituto de Movilidad y Accesibilidad de Nuevo León, dotado de personalidad jurídica y patrimonio propio, autonomía técnica, administrativa y económica, siendo la autoridad operativa y rectora en materia de movilidad cuya estructura orgánica y funcionamiento lo determinará esta normativa y su reglamento. El cual contará con domicilio en el Municipio de Monterrey, Nuevo León, sin perjuicio de las oficinas con las que pueda contar en otros municipios del Estado.
@@ -581,11 +585,21 @@ XXXI. Celebrar convenios con los municipios para ejercer la facultad concurrente
 
 XXXII. Establecer en coordinación con el Instituto Estatal de las Mujeres e implementar protocolos para la prevención y combate a la violencia de género, particularmente el acoso sexual, para los concesionarios, permisionarios y en general, cualquier prestador de servicio de transporte (sic) pasajeros;
 
-XXXIII. Las demás que determine esta Ley, su Reglamento, el Reglamento Interior del Institutito (sic) de Movilidad y Accesibilidad y otros ordenamientos aplicables;
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
 
-XXXIV. Recaudar, fiscalizar y administrar las contribuciones, productos y aprovechamientos que se generen por la prestación de los servicios que formen parte de su objeto, así como celebrar con toda clase de autoridades y terceros los convenios que estime necesarios para la realización de estas tareas; y
+XXXIII. Establecer, instrumentar e implementar las políticas, normas y acciones que regulen la instalación de publicidad en los vehículos que se utilicen para la prestación de cualquiera de las modalidades de transporte que regula esta Ley, tomando en consideración los estudios, análisis, dictámenes y recomendaciones que realice el Comité Técnico; así como vigilar y sancionar su cumplimiento conforme lo establezca el Reglamento;
 
-XXXV. Celebrar convenios con los municipios a efecto de destinar recursos para el mantenimiento y reparación de pavimentos, banquetas, cruces peatonales, semáforos y demás infraestructura para la movilidad.
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
+
+XXXIV. Recaudar, fiscalizar y administrar las contribuciones, productos y aprovechamientos que se generen por la prestación de los servicios que formen parte de su objeto, así como celebrar con toda clase de autoridades y terceros los convenios que estime necesarios para la realización de estas tareas;
+
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
+
+XXXV. Celebrar convenios con los municipios a efecto de destinar recursos para el mantenimiento y reparación de pavimentos, banquetas, cruces peatonales, semáforos y demás infraestructura para la movilidad; y
+
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
+
+XXXVI. Las demás que determine esta Ley, su Reglamento, el Reglamento Interior del Instituto de Movilidad y Accesibilidad y otros ordenamientos aplicables. Estado previa opinión de la Junta de Gobierno.
 
 En la prestación de servicios y trámites que sean de la competencia del Instituto, deberá privilegiarse el uso de la tecnología y trámites digitales.
 
@@ -593,7 +607,7 @@ En la prestación de servicios y trámites que sean de la competencia del Instit
 
 ###### Artículo 24.
 
-El Director General será designado por el Titular del Poder Ejecutivo del Estado previa opinión del (sic) Junta de Gobierno y ratificado por dos terceras partes de los integrantes del Congreso del Estado.
+El Director General será designado por el Titular del Poder Ejecutivo del Estado previa opinión de la Junta de Gobierno.
 
 La Junta de Gobierno podrá solicitar al Gobernador del Estado, la destitución del Director del Instituto en caso de resolución de procedimiento de responsabilidad administrativa de conformidad a la Ley de Responsabilidades Administrativas del Estado.
 
@@ -1265,9 +1279,11 @@ VII. Indicadores de evaluación; y
 
 VIII. Mecanismos de participación, transparencia y rendición de cuentas.
 
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
+
 ###### Artículo 68.
 
-Las autoridades en el ámbito de su competencia, llevarán a cabo los operativos de alcoholimetría, aplicando los límites de alcohol en sangre y aire aspirado, establecidos en los lineamientos que emita la Secretaria de Salud. En el caso de que algún conductor dé positivo a una prueba de alcoholimetría durante la conducción de un vehículo motorizado, independientemente de las sanciones administrativas correspondientes, le será suspendida por un periodo de un año la licencia de conducir. La autoridad correspondiente deberá remitir al Instituto los datos de referencia para incluirlos en el historial del conductor. Cuando un conductor en estado de ebriedad o bajo el influjo de drogas o enervantes provoque un accidente vial, en un vehículo de transporte de materiales peligrosos, transporte escolar, vehículos de emergencia y transporte de pasajeros será acreedor a la cancelación definitiva de su licencia.
+Las autoridades en el ámbito de su competencia, llevarán a cabo los operativos de alcoholimetría, aplicando los límites de alcohol en sangre y aire aspirado, establecidos en los lineamientos que emita la Secretaria de Salud. En el caso de que algún conductor dé positivo a una prueba de alcoholimetría durante la conducción de un vehículo motorizado, independientemente de las sanciones administrativas correspondientes, le será suspendida por un período de tres meses la licencia de conducir y en caso de reincidencia le será suspendida por un año. La autoridad correspondiente deberá remitir al Instituto los datos de referencia para incluirlos en el historial del conductor. Cuando un conductor en estado de ebriedad o bajo el influjo de drogas o enervantes provoque un accidente vial, en un vehículo de transporte de materiales peligrosos, transporte escolar, vehículos de emergencia y transporte de pasajeros será acreedor a la cancelación definitiva de su licencia.
 
 ## TÍTULO QUINTO
 
@@ -1437,7 +1453,9 @@ II. Acreditar de inicio y cada dos años, exámenes toxicológicos, los resultad
 
 III. Carta de No antecedentes Penales, para lo que, deberán entregar y enviar al Instituto, copias simples del acta de nacimiento, de la clave única de registro de población y de una identificación oficial vigente, para gestionar la carta de no antecedentes penales correspondiente, ante la autoridad competente, misma que será gratuita para el conductor;
 
-IV. Capacitarse anualmente vía internet conforme a la convocatoria del Instituto. En caso de no aprobar la evaluación de dicha capacitación se deberá llevar la misma de manera presencial; y
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
+
+IV. Capacitarse vía internet conforme a la convocatoria del Instituto. En caso de no aprobar la evaluación de dicha capacitación se deberá llevar la misma de manera presencial; y
 
 V. Capacitarse en talleres informativos en materia de acoso sexual, violencia de género, trata de personas y seguridad vial, mismos que serán impartidos por el Instituto.
 
@@ -1625,7 +1643,9 @@ I. Contar como mínimo con licencia de conducir vigente tipo chofer, expedida po
 
 II. Acreditar de inicio y cada dos años, exámenes toxicológicos realizados en algún laboratorio especializado en la materia en el Estado de Nuevo León, los resultados de laboratorio tendrán validez para acreditación, por diez días hábiles, contados a partir de la fecha en la cual fueron expedidos;
 
-III. Capacitarse anualmente vía internet conforme a la convocatoria de las Empresas de Redes (sic) Transporte.. (sic) En caso de no aprobar la evaluación de dicha capacitación se deberá llevar la misma de manera presencial;
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
+
+III. Capacitarse vía internet conforme a la convocatoria de las Empresas de Redes de Transporte. En caso de no aprobar la evaluación de dicha capacitación se deberá llevar la misma de manera presencial;
 
 IV. Entregar copia simple de acta de nacimiento;
 
@@ -1807,9 +1827,11 @@ IV. Estrategia de financiamiento; y
 
 V. Estrategia de monitoreo y evaluación.
 
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
+
 ###### Artículo 120.
 
-Los reglamentos de tránsito municipales establecerán los lineamientos y requerimientos para brindar la seguridad de los peatones y a los medios no motorizados.
+Los reglamentos de tránsito municipales establecerán los lineamientos y requerimientos para brindar la seguridad de los peatones y a los medios no motorizados, los cuales deberán de ser acordes a la jerarquía establecida en el Artículo 5 de esta Ley.
 
 En la implementación de mecanismos para traslados óptimos, se debe contemplar la articulación de los traslados en bicicleta con el transporte público, los cuales favorezcan a los viajes intermodales.
 
@@ -2315,11 +2337,15 @@ IX. Las demás que establezca esta Ley y su reglamento.
 
 Además de la revocación a la que hace referencia este artículo, el Instituto, con la aprobación de la Junta de Gobierno, podrá solicitar la inhabilitación por causa de revocación por un periodo de entre cinco y veinticinco años según la gravedad de la infracción cometida.
 
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
+
+De igual manera, se ordenará la inscripción de la resolución de la revocación en el Sistema de Información y Registro de Transporte.
+
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
+
 ###### Artículo 169.
 
 Para la terminación anticipada de las concesiones, se sujetará a las causales establecidas en ésta Ley y se ajustara al procedimiento que se señale en el Reglamento, respetando las formalidades esenciales de los procedimientos.
-
-De igual manera, se ordenará la inscripción de la resolución de la revocación en el sistema de Información y Registro de transporte.
 
 ###### Artículo 170.
 
@@ -2359,9 +2385,11 @@ Todo permiso que no establezca una fecha de vigencia o se plasme como indefinida
 
 La vigencia de los permisos para el STDE será por un plazo no mayor de cinco años, aquel que se proporcione a grupos mayores a cinco personas, que cuente con un destino específico.
 
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
+
 ###### Artículo 174.
 
-La vigencia de los permisos de emergencia del SETRA o SETME será no mayor a un año, mismo plazo en que el Comité Técnico y la Junta de Gobierno podrán preparar el otorgamiento de la concesión respectiva en caso de ser necesario.
+La vigencia de los permisos de emergencia del SETRA o SETME será no mayor a un año, mismo plazo en que el Comité Técnico y la Junta de Gobierno podrán preparar el otorgamiento de la concesión respectiva en caso de ser necesario. Dichos permisos no serán renovables.
 
 Los permisos determinarán las condiciones a las que habrá de sujetarse la operación y funcionamiento de cada una de las modalidades de servicio o infraestructuras, y contendrán al menos la siguiente información:
 
@@ -2781,6 +2809,8 @@ El o los responsables de cualquiera de los delitos contemplados en este capítul
 
 ## TÍTULO DÉCIMO QUINTO. TRANSPARENCIA Y RENDICIÓN DE CUENTAS
 
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
+
 ### CAPÍTULO SEGUNDO. RECURSO DE INCONFORMIDAD
 
 ###### Artículo 222.
@@ -2827,7 +2857,7 @@ En contra de los actos o resoluciones que dicte la Autoridad en aplicación a es
 
 ###### Artículo 232.
 
-La información derivada de la totalidad del Sistema de Transporte Público y Privado, exceptuando el transporte de carga, así como la Rendición de Cuentas derivada del manejo de los recursos públicos pertenecientes a esta materia, serán de carácter público, por lo que cualquier persona podrá obtener la información y copias certificadas que solicite, previo el pago de los derechos correspondientes. Salvo las excepciones que señala la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
+La información derivada de la totalidad del Sistema de Transporte Público y Privado, así como la Rendición de Cuentas derivada del manejo de los recursos públicos pertenecientes a esta materia, serán de carácter público, por lo que cualquier persona podrá obtener la información y copias certificadas que solicite, previo el pago de los derechos correspondientes. Salvo las excepciones que señala la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
 Las autoridades estatales y municipales, así como los concesionarios, permisionarios, quienes operen mediante contrato administrativo, y/o conductores, están obligados a proporcionar la información necesaria para integrar y mantener actualizado el Sistema de Información y Registro de Transporte.
 
