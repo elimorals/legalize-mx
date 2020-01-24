@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-telecomunicaciones-y-radiodifusion-101766"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2014-07-14"
-last_updated: "2018-06-15"
+last_updated: "2020-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101766&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-07-14"
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2020.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 14 de julio de 2014.
 
@@ -2649,6 +2649,14 @@ XII. Realizar bajo la coordinación del Instituto los estudios e investigaciones
 
 Las comunicaciones privadas son inviolables. Exclusivamente la autoridad judicial federal, a petición de la autoridad federal que faculte la ley o del titular del Ministerio Público de la entidad federativa correspondiente, podrá autorizar la intervención de cualquier comunicación privada.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2020)</small>
+
+###### Artículo 190 Bis.
+
+Queda prohibida la fabricación, comercialización, adquisición, así como la instalación, portación, uso y operación de equipos que bloqueen, cancelen o anulen las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen.
+
+Con excepción de lo dispuesto en el párrafo anterior, se podrá instruir la fabricación, comercialización, adquisición, instalación, portación para el uso y operación por parte de las autoridades encargadas de los centros de reinserción social, establecimientos penitenciarios o centro de internamiento para menores, para efectos de lo dispuesto por la fracción VIII del artículo 190 de esta Ley, así como para el uso y operación de los mismos por parte de las instancias de seguridad pública federales y de seguridad nacional en cumplimiento de sus atribuciones.
+
 ## TÍTULO NOVENO. De los usuarios
 
 ### Capítulo II. De los Derechos de los Usuarios con Discapacidad
@@ -4538,3 +4546,17 @@ D.O.F. 15 DE JUNIO DE 2018.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Lo dispuesto en el tercer párrafo del Artículo Séptimo Transitorio del “Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de julio de 2014, que se adiciona, será aplicable únicamente a las solicitudes de prórroga presentadas con anterioridad a la entrada en vigor del presente Decreto.
+
+D.O.F. 24 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN UN ARTÍCULO 190 BIS A LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y UN ARTÍCULO 168 TER AL CÓDIGO PENAL FEDERAL”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los particulares que posean aparatos o equipos que sirvan para bloquear, cancelar o anular las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen, deberán de entregar los mismos a la Secretaría de Seguridad y Protección Ciudadana, destruir o en su caso excluir del país, en un plazo de 30 días a partir de la entrada en vigor del presente Decreto.
+
+Tercero. La Secretaría de Seguridad y Protección Ciudadana, coordinará y supervisará la entrega-recepción por parte de particulares de todos los aparatos que tengan como finalidad bloquear, cancelar o anular las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen y procederá a su inutilización bajo los métodos que considere convenientes.
+
+Cuarto. Las autoridades correspondientes contarán con un término no mayor a 180 días naturales, para realizar las modificaciones a la Norma Oficial Mexicana 220-SCFI-2017, a fin de armonizarla a los contenidos del presente Decreto.
+
+Quinto. La Secretaría de Seguridad y Protección Ciudadana, informará anualmente del cumplimiento de las disposiciones expresas en este Decreto, a las Comisiones de Seguridad Pública del Senado de la República y de la Cámara de Diputados federales.
