@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2019-11-08"
+last_updated: "2020-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -27,7 +27,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2020.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -2436,6 +2436,14 @@ ARTICULO 168 bis.- Se impondrán de seis meses a dos años de prisión y de tres
 I. Descifre o decodifique señales de telecomunicaciones distintas a las de satélite portadoras de programas, o
 
 II. Transmita la propiedad, uso o goce de aparatos, instrumentos o información que permitan descifrar o decodificar señales de telecomunicaciones distintas a las de satélite portadoras de programas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2020)</small>
+
+ARTICULO 168 ter.- Se sancionará con pena de doce a quince años de prisión, a quien fabrique, comercialice, adquiera, instale, porte, use u opere equipos que bloqueen, cancelen o anulen las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen con excepción de lo establecido en el segundo párrafo del artículo 190 Bis de la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+Los equipos a que hace referencia el primer párrafo del artículo 190 Bis de la Ley Federal de Telecomunicaciones y Radiodifusión, serán asegurados en términos de lo que establece el Código Nacional de Procedimientos Penales y posteriormente deberán ser destruidos en su totalidad.
+
+Si el delito al que se refiere el primer párrafo de este artículo, fuera cometido por servidores públicos, y sin autorización expresa escrita debidamente acreditada por su superior inmediato, se le impondrá la pena de quince a dieciocho años de prisión.
 
 ###### ARTICULO 169.
 
@@ -8262,3 +8270,17 @@ D.O.F. 8 DE NOVIEMBRE DE 2019.
 Primero. El presente Decreto entrará en vigor el día 1o. de enero de 2020.
 
 Segundo. Al momento de la entrada en vigor del presente Decreto, quedan sin efectos todas las disposiciones contrarias al mismo, no obstante lo anterior, las conductas cometidas antes de la entrada en vigor del presente Decreto que actualicen cualquiera de los delitos previstos en los artículos 113, fracción III y 113 Bis del Código Fiscal de la Federación, así como el artículo 400 Bis del Código Penal Federal, continuarán siendo investigadas, juzgadas y sentenciadas, mediante la aplicación de dichos preceptos.
+
+D.O.F. 24 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN UN ARTÍCULO 190 BIS A LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y UN ARTÍCULO 168 TER AL CÓDIGO PENAL FEDERAL".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los particulares que posean aparatos o equipos que sirvan para bloquear, cancelar o anular las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen, deberán de entregar los mismos a la Secretaría de Seguridad y Protección Ciudadana, destruir o en su caso excluir del país, en un plazo de 30 días a partir de la entrada en vigor del presente Decreto.
+
+Tercero. La Secretaría de Seguridad y Protección Ciudadana, coordinará y supervisará la entrega-recepción por parte de particulares de todos los aparatos que tengan como finalidad bloquear, cancelar o anular las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen y procederá a su inutilización bajo los métodos que considere convenientes.
+
+Cuarto. Las autoridades correspondientes contarán con un término no mayor a 180 días naturales, para realizar las modificaciones a la Norma Oficial Mexicana 220-SCFI-2017, a fin de armonizarla a los contenidos del presente Decreto.
+
+Quinto. La Secretaría de Seguridad y Protección Ciudadana, informará anualmente del cumplimiento de las disposiciones expresas en este Decreto, a las Comisiones de Seguridad Pública del Senado de la República y de la Cámara de Diputados federales.
