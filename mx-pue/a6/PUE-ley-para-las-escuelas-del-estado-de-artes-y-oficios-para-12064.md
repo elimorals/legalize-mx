@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-las-escuelas-del-estado-de-artes-y-oficios-para-12064"
 country: "mx"
 rank: "ley"
 publication_date: "1940-10-25"
-last_updated: "1940-10-25"
+last_updated: "2020-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY PARA LAS ESCUELAS DEL ESTADO DE ARTES Y OFICIOS PARA MUJERES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ABROGA LA LEY PARA LAS ESCUELAS DEL ESTADO DE ARTES Y OFICIOS PARA MUJERES DEL ESTADO DE PUEBLA, PUBLICADO EN LA TERCERA SECCIÓN DEL P.O. DE 24 DE ENERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LAS ESCUELAS DE ARTES Y OFICIOS PARA MUJERES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2020 (ABROGADA).
 
 Ley publicada en el Suplemento Número 2 del Periódico Oficial del Estado de Puebla, el viernes 25 de octubre de 1940.
 
@@ -444,3 +446,19 @@ La presente ley entrará en vigor desde la fecha de su publicación en el Perió
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo, en Puebla de Zaragoza, a los nueve días del mes de octubre de mil novecientos cuarenta.- El Gobernador Constitucional del Estado, Gral. de Brigada Maximino Avila Camacho.- El Secretario General de Gobierno, Lic. Alfonso Meneses González.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE ENERO DE 2020.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ABROGA LA LEY PARA LAS ESCUELAS DEL ESTADO DE ARTES Y OFICIOS PARA MUJERES.]</small>
+
+DECRETO
+
+ÚNICO. Se ABROGA la Ley para las Escuelas del Estado de Artes y Oficios para Mujeres.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ABROGA LA LEY PARA LAS ESCUELAS DEL ESTADO DE ARTES Y OFICIOS PARA MUJERES".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
