@@ -4,7 +4,7 @@ identifier: "LDPAM"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-25"
-last_updated: "2018-07-12"
+last_updated: "2020-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25062&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDPAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2020.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 25 de junio de 2002.
 
@@ -244,9 +244,11 @@ c. A contar con asientos preferentes en los establecimientos que prestan servici
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2020)</small>
+
 ###### Artículo 6o.
 
-El Estado garantizará las condiciones óptimas de salud, educación, nutrición, vivienda, desarrollo integral y seguridad social a las personas adultas mayores. Asimismo, deberá establecer programas para asegurar a todos los trabajadores una preparación adecuada para su retiro. Igualmente proporcionará:
+El Estado garantizará las condiciones óptimas de salud, educación, nutrición, vivienda, desarrollo integral y seguridad social a las personas adultas mayores con el fin de lograr plena calidad de vida para su vejez. Asimismo, deberá establecer programas para asegurar a todos los trabajadores una preparación adecuada para su retiro. Igualmente proporcionará:
 
 > <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
 
@@ -268,15 +270,25 @@ El Estado promoverá la publicación y difusión de esta Ley para que la socieda
 
 Ninguna persona adulta mayor podrá ser socialmente marginada o discriminada en ningún espacio público o privado por razón de su origen étnico o nacional, el género, la edad, las discapacidades, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2020)</small>
+
 ###### Artículo 9o.
 
-La familia de la persona adulta mayor deberá cumplir su función social; por tanto, de manera constante y permanente deberá velar por cada una de las personas adultas mayores que formen parte de ella, siendo responsable de proporcionar los satisfactores necesarios para su atención y desarrollo integral y tendrá las siguientes obligaciones para con ellos:
+La familia de la persona adulta mayor deberá cumplir su función social; por tanto, de manera constante y permanente deberá velar por cada una de las personas adultas mayores que formen parte de ella, siendo responsable de mantener y preservar su calidad de vida, así como proporcionar los satisfactores necesarios para su cuidado, atención y desarrollo integral y tendrá las siguientes obligaciones para con ellos:
 
 I. Otorgar alimentos de conformidad con lo establecido en el Código Civil;
 
-II. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor participe activamente, y promover al mismo tiempo los valores que incidan en sus necesidades afectivas, de protección y de apoyo, y
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2020)</small>
 
-III. Evitar que alguno de sus integrantes cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia y actos jurídicos que pongan en riesgo su persona, bienes y derechos.
+II. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor participe activamente, y promover al mismo tiempo los valores que incidan en sus necesidades afectivas, de protección y de apoyo;
+
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2020)</small>
+
+III. Evitar que alguno de sus integrantes cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia y actos jurídicos que pongan en riesgo su persona, bienes y derechos, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2020)</small>
+
+IV. Atender sus necesidades psicoemocionales cuando el adulto mayor se encuentre en alguna institución pública o privada, casa hogar, albergue, residencia de día o cualquier otro centro de atención a las personas adultas mayores a efecto de mantener los lazos familiares.
 
 ## TÍTULO CUARTO. DE LA POLÍTICA PÚBLICA NACIONAL DE LAS PERSONAS ADULTAS MAYORES
 
@@ -288,7 +300,9 @@ III. Evitar que alguno de sus integrantes cometa cualquier acto de discriminaci�
 
 Son objetivos de la Política Nacional sobre personas adultas mayores los siguientes:
 
-I. Propiciar las condiciones para un mayor bienestar físico y mental a fin de que puedan ejercer plenamente sus capacidades en el seno de la familia y de la sociedad, incrementando su autoestima y preservando su dignidad como ser humano;
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2020)</small>
+
+I. Propiciar las condiciones para alcanzar y mantener los altos niveles de calidad de vida física y mental a fin de que puedan ejercer plenamente sus capacidades en el seno de la familia y de la sociedad, incrementando su autoestima y preservando su dignidad como ser humano;
 
 II. Garantizar a las personas adultas mayores el pleno ejercicio de sus derechos, sean residentes o estén de paso en el territorio nacional;
 
@@ -328,13 +342,17 @@ XVIII. Promover la difusión de los derechos y valores en beneficio de las perso
 
 XIX. Llevar a cabo programas compensatorios orientados a beneficiar a las personas adultas mayores en situación de rezago y poner a su alcance los servicios sociales y asistenciales así como la información sobre los mismos;
 
-> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2020)</small>
 
-XX. Fomentar la creación de espacios de expresión para las personas adultas mayores, y
+XX. Fomentar la creación de espacios de expresión para las personas adultas mayores;
 
-> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2020)</small>
 
-XXI. Fomentar e impulsar la creación de centros de atención geriátrica y gerontológica.
+XXI. Fomentar e impulsar la creación de centros de atención geriátrica y gerontológica, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2020)</small>
+
+XXII. Promover programas especiales para ampliar la cobertura de espacios de asistencia integral para las personas adultas mayores.
 
 ### CAPÍTULO II. DE LA CONCURRENCIA ENTRE LA FEDERACIÓN, LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS
 
@@ -969,3 +987,9 @@ D.O.F. 12 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 5o., Y SE ADICIONA EL INCISO D AL ARTÍCULO 5o. A LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
