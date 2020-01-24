@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2018-10-29"
+last_updated: "2020-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -649,9 +649,13 @@ XVI. Establecer acciones afirmativas que garanticen el acceso y permanencia de n
 
 XVII. Realizar lo necesario para fomentar la inclusión social y establecer el diseño universal de accesibilidad a los servicios educativos de niñas, niños y adolescentes con discapacidad y con la condición del espectro autista, en términos de la legislación aplicable, y
 
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2020)</small>
 
-XVIII. Establecer mecanismos para que las autoridades educativas, escolares y los particulares con autorización o reconocimiento de validez oficial de estudios, notifiquen a la Procuraduría de Protección, los casos de asistencia irregular, abandono o deserción escolar que se identifiquen respecto de los alumnos que cursen educación básica y media superior en los centros educativos.
+XVIII. Garantizar la reparación y mantenimiento de los planteles educativos del Estado, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE ENERO DE 2020)</small>
+
+XIX. Establecer mecanismos para que las autoridades educativas, escolares y los particulares con autorización o reconocimiento de validez oficial de estudios, notifiquen a la Procuraduría de Protección, los casos de asistencia irregular, abandono o deserción escolar que se identifiquen respecto de los alumnos que cursen educación básica y media superior en los centros educativos.
 
 En este supuesto será aplicable el procedimiento establecido en el artículo 117 de la presente Ley, y en su caso, la activación de las instancias jurisdiccionales necesarias a fin de garantizar los derechos de las niñas, niños y adolescentes.
 
@@ -759,15 +763,29 @@ Niñas, niños y adolescentes tienen derecho al acceso al mismo trato y oportuni
 
 Las autoridades estatales y municipales, para garantizar la igualdad sustantiva deberán:
 
-I. Diseñar, implementar y evaluar políticas públicas a través de acciones afirmativas tendentes a eliminar los obstáculos que impiden la igualdad de acceso y de oportunidades a la alimentación, a la educación y a la atención médica entre niñas, niños y adolescentes;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2020)</small>
 
-II. Implementar acciones específicas para alcanzar la eliminación de costumbres, tradiciones, prejuicios, roles y estereotipos sexistas o de cualquier otra índole que estén basadas en la idea de inferioridad;
+I. Transversalizar la perspectiva de género en todas sus actuaciones y procurar la utilización de un lenguaje no sexista en el desempeño del servicio público, señalética y documentos oficiales;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE ENERO DE 2020)</small>
 
-III. Establecer medidas dirigidas de manera preferente a niñas, niños y adolescentes que pertenezcan a grupos, pueblos o comunidades indígenas, con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja para el ejercicio de los derechos contenidos en esta Ley, y
+II. Diseñar, implementar y evaluar políticas públicas a través de acciones afirmativas tendentes a eliminar los obstáculos que impiden la igualdad de acceso y de oportunidades a la alimentación, a la educación y a la atención médica entre niñas, niños y adolescentes;
 
-IV. Desarrollar campañas permanentes de sensibilización de los derechos de niñas, niños y adolescentes.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE ENERO DE 2020)</small>
+
+III. Implementar acciones específicas para alcanzar la eliminación de costumbres, tradiciones, prejuicios, roles y estereotipos sexistas o de cualquier otra índole que estén basadas en la idea de inferioridad;
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2020)</small>
+
+IV. Establecer medidas dirigidas de manera preferente a niñas, niños y adolescentes que pertenezcan a grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja para el ejercicio de los derechos contenidos en esta Ley;
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2020)</small>
+
+V. Establecer los mecanismos institucionales que orienten al cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo el empoderamiento de las niñas y adolescentes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE ENERO DE 2020)</small>
+
+VI. Desarrollar campañas permanentes de sensibilización de los derechos de niñas, niños y adolescentes.
 
 ### CAPÍTULO XIII. DEL DERECHO DE ACCESO A UNA VIDA LIBRE DE VIOLENCIA Y A LA INTEGRIDAD PERSONAL
 
@@ -1936,3 +1954,13 @@ P.O. 29 DE OCTUBRE DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 48, LAS FRACCIONES I A IV DEL 60 Y ADICIONA LA FRACCIÓN XIX AL ARTÍCULO 48 Y LAS FRACCIONES V Y VI AL 60, TODOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Secretaría de Planeación y Finanzas del Gobierno del Estado de Puebla, deberá prever la suficiencia presupuestaria para el cumplimiento del presente Decreto, en su caso.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
