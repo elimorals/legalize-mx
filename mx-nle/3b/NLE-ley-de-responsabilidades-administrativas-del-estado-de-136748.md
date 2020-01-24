@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidades-administrativas-del-estado-de-136748"
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-07"
-last_updated: "2019-06-07"
+last_updated: "2020-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2020.
 
 Ley Publicada en la Sección Tercera al Número 70 del Periódico Oficial del Estado de Nuevo León, el viernes 7 de junio de 2019.
 
@@ -71,9 +71,11 @@ VI. Determinar los mecanismos para la prevención, corrección e investigación 
 
 VII. Crear las bases para que todo Ente público establezca políticas eficaces de ética pública y responsabilidad en el servicio público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2020)</small>
+
 ###### Artículo 3.
 
-Para efectos de esta Ley se entenderá por:
+Para efectos de esta Ley se entenderá por.
 
 I. Auditoría Superior: El órgano a que hace referencia el artículo 136 de la Constitución Política del Estado Libre y Soberano de Nuevo León;
 
@@ -101,7 +103,9 @@ VIII. Contraloría: La dependencia a que se refiere el artículo 85, fracción V
 
 IX. Declarante: El Servidor Público O PARTICULARES SEÑALADOS EN EL ARTÍCULO 32 DEL PRESENTE ORDENAMIENTO, que estáN obligados a presentar declaración de situación patrimonial, de intereses y fiscal, en los términos de esta Ley;
 
-X. Denunciante: La persona física o moral, o el Servidor Público que denuncia actos u omisiones que pudieran constituir o vincularse con faltas administrativas, en términos de los artículos 91 y 93 de esta Ley;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2020)</small>
+
+X. Denunciante: La persona física o moral, el Servidor Público o Ente Público que denuncia actos u omisiones que pudieran constituir o vincularse con faltas administrativas, en términos de los artículos 91 y 93 de esta Ley;
 
 XI. Ente público: Los Poderes Legislativo, Ejecutivo y Judicial, los organismos constitucionales autónomos, las dependencias, y entidades del Ejecutivo, los Ayuntamientos, sus dependencias y entidades centralizadas o paramunicipales; los órganos jurisdiccionales que no formen parte del Poder Judicial del Estado, así como cualquier otro órgano o dependencia con cargo al erario público;
 
@@ -669,9 +673,13 @@ Cometerá tráfico de influencias el servidor público que utilice la posición 
 
 Será responsable de encubrimiento el servidor público que cuando en el ejercicio de sus funciones llegare a advertir actos u omisiones que pudieren constituir faltas administrativas O HECHOS DE CORRUPCIÓN, realice deliberadamente alguna conducta para su ocultamiento.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2020)</small>
+
 ###### Artículo 63.
 
-Cometerá desacato el servidor público que, tratándose de requerimientos o resoluciones de autoridades fiscalizadoras, de control interno, judiciales, electorales o en materia de defensa de los derechos humanos o cualquier otra competente, proporcione información falsa, así como no dé respuesta alguna, retrase deliberadamente y sin justificación la entrega de la información, a pesar de que le hayan sido impuestas medidas de apremio conforme a las disposiciones aplicables.
+Cometerá desacato el servidor público que, tratándose de requerimientos o resoluciones de autoridades fiscalizadoras, de control interno, judiciales, del Congreso del Estado, electorales o en materia de defensa de los derechos humanos o cualquier otra competente, proporcione información falsa, así como no dé respuesta alguna, retrase deliberadamente y sin justificación la entrega de la información, a pesar de que le hayan sido impuestas medidas de apremio conforme a las disposiciones aplicables.
+
+Para los casos en los que el desacato consista en incumplir con el requerimiento de comparecencia del Congreso del Estado en tiempo y forma, por parte de los servidores públicos obligados a comparecer conforme al artículo 62 de la Constitución Local, salvo caso fortuito o fuerza mayor o bien, en rendirle información falsa o faltare a la verdad, el Congreso podrá denunciar a través de un Acuerdo del Pleno ese hecho ante la autoridad competente en los términos del artículo 93 de esta Ley.
 
 ###### Artículo 64.
 
@@ -2108,3 +2116,11 @@ CARLOS ALBERTO GARZA IBARRA
 EL C. ENCARGADO DEL DESPACHO DE LA CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL
 
 JESUS HERNÁNDEZ MARTÍNEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 263. SE REFORMAN LOS ARTÍCULOS 3 FRACCIÓN X Y 63; DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
