@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2019-12-20"
+last_updated: "2020-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2020.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -1009,7 +1009,9 @@ Cuando se produce una lesión al ejercer un deporte que el Estado permite, obser
 
 Artículo 57 (Defensa legítima privilegiada)
 
-Se considerará que obra en defensa legítima privilegiada, quien cause cualquier daño a un extraño, siempre y cuando éste sin motivo lícito realice una conducta, o emplee un medio físico o porte un arma, que involucren un peligro para la vida o la integridad corporal para quien causa el daño o para otra u otras personas del lugar donde el extraño penetra o intente penetrar, sin causa lícita, y en el lugar habite de forma temporal o permanente el que se defiende, su familia o cualquier otra persona respecto de la que el agente tenga la obligación de defender, a sus dependencias, o al sitio donde se encuentren bienes propios, o ajenos respecto de los que tenga la obligación de resguardar.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2020)</small>
+
+Se considerará que obra en defensa legítima privilegiada, quien cause cualquier daño, lesión o prive de la vida a un extraño, siempre y cuando éste sin motivo lícito realice una conducta, o emplee un medio físico o porte un arma, que involucren un peligro para la vida o la integridad corporal para quien causa el daño o para otra u otras personas del lugar donde el extraño penetra o intente penetrar, sin causa lícita, y en el lugar habite de forma temporal o permanente el que se defiende, su familia o cualquier otra persona respecto de la que el agente tenga la obligación de defender, a sus dependencias, o al sitio donde se encuentren bienes propios, o ajenos respecto de los que tenga la obligación de resguardar.
 
 Lo previsto en el párrafo precedente también será aplicable a favor de quien sorprenda a un extraño o éste lo sorprenda dentro de uno de los lugares mencionados en dicho párrafo, siempre y cuando no haya causa lícita por la que el extraño se encuentre en esos lugares, y la conducta que realice el extraño o el instrumento o arma que porte, involucren un peligro para la vida o la integridad corporal para quien sorprende o es sorprendido, o para cualquiera de las personas señaladas en el párrafo anterior, que se hallen en el lugar.
 
@@ -7852,3 +7854,11 @@ P.O. 20 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 434.- SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 57 DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL, EL 27 DE OCTUBRE DE 2017”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
