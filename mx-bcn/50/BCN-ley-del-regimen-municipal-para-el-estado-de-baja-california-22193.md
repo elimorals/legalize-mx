@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2020-01-10"
+last_updated: "2020-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -498,6 +498,16 @@ I.- El establecimiento del domicilio de las personas, conforme lo dispone el Có
 II.- La residencia efectiva y comprobable, por más de seis meses; y
 
 III.- En caso de extranjeros, deberán acreditar su legal estancia en el país, con residencia en el territorio municipal.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2020)</small>
+
+ARTÍCULO 31 BIS.- Para obtener la certificación de residencia que expiden las autoridades municipales, se deberán cumplir los requisitos que para tal efecto se determine en el reglamento correspondiente.
+
+Dicha certificación, deberá enunciar los documentos o datos idóneos que tomó en consideración la autoridad para otorgar y dar certeza a dicha constancia.
+
+Los documentos o datos a los que se refiere el párrafo anterior, son los existentes en los expedientes o registros de la autoridad municipal que obren previamente a la solicitud del interesado, o bien, aquellos que sean aportados por la persona interesada además de los requeridos en la reglamentación respectiva para dicho trámite.
+
+En los casos que no existan en los expedientes de la autoridad, documentos o datos idóneos de un solicitante, este hecho deberá establecerse en la certificación respectiva.
 
 ###### ARTÍCULO 32.
 
@@ -1086,3 +1096,11 @@ P.O. 10 DE ENERO DE 2020.
 PRIMERO.- Publíquese el contenido de la Presente reforma en (sic) Periódico Oficial del Estado.
 
 SEGUNDO.- La presente reforma entrará en vigor hasta en tanto sea publicada la modificación a la fracción II del artículo 76 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+P.O. 24 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 25 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN ARTÍCULO 31 BIS A LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente Reforma entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Ayuntamientos del Estado, deberán adecuar su reglamentación dentro de un periodo de 90 días, contados a partir del inicio de la vigencia de la presente reforma.
