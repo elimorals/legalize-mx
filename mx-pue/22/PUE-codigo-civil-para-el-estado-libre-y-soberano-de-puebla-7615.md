@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2019-12-06"
+last_updated: "2020-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2020.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el día 30 de abril de 1985.
 
@@ -1683,7 +1683,13 @@ A través de las instituciones correspondientes, el Estado deberá auxiliar y pr
 
 I.- Se declara de interés público la protección de cada integrante de la familia, contra toda forma de prejuicio, abuso, maltrato físico o mental, descuido, atención negligente o explotación;
 
-II.- Todo individuo tiene derecho a desarrollarse y ser educado dentro de su propio ámbito familiar, bajo la custodia y cuidado conjunto de sus progenitores;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE ENERO DE 2020)</small>
+
+II.- Todo individuo tiene derecho a desarrollarse y ser educado dentro de su propio ámbito familiar, bajo la custodia y cuidado conjunto de sus progenitores.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2020)</small>
+
+Cada progenitor debe procurar el respeto y el acercamiento constante de las y los menores con el otro ascendiente, por lo que cada uno de los ascendientes deberá evitar, en todo momento, cualquier acto de manipulación, aleccionamiento o alienación parental, entendiéndose esta última como la inducción que un progenitor realiza hacia sus hijas o hijos, mediante la desaprobación, la manipulación psicológica, distintas estrategias o critica tendiente a obtener la denigración exagerada y/o injustificada del otro progenitor, para obstaculizar o destruir sus vínculos y producir en la o el menor, rechazo, rencor, antipatía, desagrado, odio, desprecio o temor hacia éste.
 
 III.- Los integrantes de la familia tienen derecho a que los demás miembros respeten su integridad física y psíquica, de manera que no se afecten su sano desarrollo individual ni su plena incorporación al núcleo social;
 
@@ -20598,3 +20604,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Instituto Poblano de las Mujeres seguirá ejerciendo las facultades que le correspondían antes de la presente reforma y hasta su extinción, conforme a las disposiciones aplicables de la Ley Orgánica de la Administración Pública del Estado de Puebla, y al traslado de sus atribuciones a las unidades administrativas correspondientes de la Secretaría de Igualdad Sustantiva.
 
 TERCERO. El Titular del Poder Ejecutivo del Estado realizará las modificaciones reglamentarias necesarias en términos del presente Decreto, en un plazo no mayor a 40 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+P.O. 24 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 291 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
