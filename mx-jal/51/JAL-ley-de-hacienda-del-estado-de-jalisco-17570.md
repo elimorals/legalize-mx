@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-del-estado-de-jalisco-17570"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-23"
-last_updated: "2019-04-09"
+last_updated: "2020-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE HACIENDA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 23 de septiembre de 2000.
 
@@ -967,9 +967,9 @@ Los derechos por la prestación de servicios públicos a cargo de las diversas d
 
 A falta de disposición expresa, el importe de los derechos que resulten de acuerdo con las tasas o cuotas que señalen la Ley de Ingresos del Estado deberá ser cubierto en las Oficinas de Recaudación Fiscal de la jurisdicción donde se presta el servicio, o en el lugar que al efecto señale la Secretaria de Planeación, Administración y Finanzas. No causarán pago de derechos los contratos de crédito que otorguen las instituciones de seguridad social para la adquisición de vivienda de interés social, que señale la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
 
-Tampoco causarán pago de derechos la expedición de constancias certificadas de inexistencia de registros de nacimientos, ni las certificaciones de las copias del acta del registro de nacimiento que se soliciten para trámites exclusivamente escolares del nivel preescolar, básico y medio superior.
+Tampoco causarán pago de derechos la expedición de constancias de inexistencia para el registro extemporáneo de nacimiento, ni las certificaciones de las copias del acta del registro de nacimiento que se soliciten para trámites exclusivamente escolares de nivel preescolar, básico y medio superior.
 
 ###### Artículo 70.
 
@@ -1314,3 +1314,11 @@ SEXTO. Las infracciones y medidas de seguridad que establecen los artículos 169
 SÉPTIMO. Para que la Secretaría de Medio Ambiente y Desarrollo Territorial pueda ejercer la atribución conferida en el artículo 72, fracción VII, inciso d), de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente antes precisada en el presente Decreto, se deberá agotar el procedimiento de Licitación Pública Internacional a través de la Secretaria de Administración, a fin de seleccionar el proveedor al que le será otorgada la contratación a que hace referencia el numeral antes citado. Dicho procedimiento deberá llevarse a cabo de conformidad con los lineamientos establecidos en la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y su Reglamento.
 
 OCTAVO. Antes de que concluya el presente ejercicio presupuestal, la Secretaría de la Hacienda Pública del Ejecutivo del Estado en el ámbito de su competencia deberá realizar las adecuaciones administrativas necesarias a fin de dar cumplimiento con lo dispuesto en el presente decreto.
+
+P.O. 25 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27525/LXII/19 QUE REFORMA EL ARTÍCULO 57 DE LA LEY DEL REGISTRO CIVIL, ARTÍCULO 69 DE LA LEY DE HACIENDA, Y EL ARTÍCULO 170 BIS DE LA LEY DE HACIENDA MUNICIPAL, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Los municipios del Estado de Jalisco, deberán adecuar sus Reglamentos y Leyes de Ingresos, para establecer el no cobro de las constancias o certificados de inexistencia para el registro extemporáneo de nacimiento, a partir del ejercicio fiscal 2020.
