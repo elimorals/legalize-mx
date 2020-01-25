@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2019-06-22"
+last_updated: "2020-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -597,6 +597,16 @@ Durante las horas de la jornada legal los trabajadores al servicio del Estado te
 
 Los pagos deberán efectuarse en el lugar en que los trabajadores presten sus servicios y precisamente en moneda del curso legal o en cheques fácilmente cobrables, salvo los casos en que por razones que lo justifiquen, el trabajador solicite que le sean radicados sus pagos fuera del lugar, a juicio del Tribunal de Arbitraje.
 
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2020)</small>
+
+ARTICULO 97 BIS.- Los plazos para el pago del salario nunca podrán ser mayores de quince días para las personas funcionarias, empleadas y trabajadoras al servicio del Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2020)</small>
+
+ARTICULO 97 TER.- Se fincará responsabilidad a las servidoras y servidores públicos que con motivo de su función retrasaren el pago del salario que corresponda a las personas funcionarias, empleadas y trabajadoras al servicio del Estado, de acuerdo a los plazos señalados en este Código.
+
+El procedimiento de sanción a las servidoras y servidores públicos se hará de conformidad a lo que establece la Ley General de Responsabilidades Administrativas.
+
 ###### ARTICULO 98.
 
 Los salarios, honorarios o asignaciones de los trabajadores al servicio del Estado no son susceptibles de embargo, descuentos, deducciones, ni retenciones, salvo los casos siguientes:
@@ -666,6 +676,10 @@ VII.- Proporcionar, dentro de sus posibilidades económicas, campos deportivos p
 VIII.- Conceder licencias con goce de sueldo a los trabajadores que ocupen el cargo de Secretario General del Sindicato y dos miembros más de la Directiva que la misma señale, para el desempeño de las comisiones sindicales que se les confieran;
 
 IX.- Hacer las deducciones que solicite el Sindicato, siempre que se ajusten a los términos de este Código y a los estatutos del Sindicato.
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2020)</small>
+
+X.- Realizar de manera puntual el pago de salario, prestaciones y aguinaldo a sus trabajadoras y trabajadores.
 
 ###### ARTICULO 106.
 
@@ -11158,3 +11172,11 @@ P.O. 22 DE JUNIO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFCOD/0620/2019 I P.O., POR MEDIO DEL CUAL SE ADICIONAN LOS ARTÍCULOS 97 BIS, 97 TER ASÍ COMO AL ARTÍCULO 105, LA FRACCIÓN X, TODOS DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de (sic) publicación en el Periódico Oficial del Estado de Chihuahua.
