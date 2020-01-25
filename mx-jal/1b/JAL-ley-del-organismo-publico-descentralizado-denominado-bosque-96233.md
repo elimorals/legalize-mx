@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-organismo-publico-descentralizado-denominado-bosque-962
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2019-05-11"
+last_updated: "2020-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "BOSQUE LA PRIMAVERA" DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 12 de octubre de 2013.
 
@@ -153,17 +153,21 @@ I. Un Presidente, que será el Gobernador del Estado de Jalisco o la persona que
 
 II. Los vocales, que serán:
 
-a. El Secretario de Planeación Administración y Finanzas;
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
+
+a. El Secretario de Hacienda Pública;
 
 b. El Secretario de Medio Ambiente y Desarrollo Territorial;
 
-c. El Secretario de Desarrollo Rural;
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
+
+c. El Secretario de Agricultura y Desarrollo Rural;
 
 d. El Secretario de Infraestructura y Obra Pública;
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
 
-e. El Presidente de la Comisión Legislativa Medio Ambiente, Sostenibilidad, Protección Civil y Resiliencia del H. Congreso del Estado de Jalisco;
+e. El Presidente de la Comisión Legislativa de Desarrollo Productivo Regional del H. Congreso del Estado de Jalisco;
 
 f. El Presidente Municipal de Tala;
 
@@ -175,7 +179,9 @@ i. El Presidente Municipal de Tlajomulco de Zúñiga;
 
 j. El Presidente Municipal de Guadalajara;
 
-k. El Presidente Municipal de Tlaquepaque;
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
+
+k. El Presidente Municipal de San Pedro Tlaquepaque;
 
 l. El Presidente Municipal de Tonalá;
 
@@ -527,9 +533,11 @@ II. Las aportaciones que se reciban por cualquier Entidad distinta a las señala
 
 Los inmuebles que formen parte del patrimonio del Organismo y que estén destinados a su servicio, serán inalienables e imprescriptibles y en ningún caso podrán constituirse gravámenes sobre ellos mientras estén sujetos al servicio del Organismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2020)</small>
+
 ###### Artículo 28.
 
-Los titulares de la Secretaría de Planeación, Administración y Finanzas, de la Secretaría de Medio Ambiente y Desarrollo Territorial, la Secretaría de Desarrollo Rural, el Delegado en el Estado de Jalisco de la Secretaría de Medio Ambiente y Recursos Naturales así como el Director General, actuando en forma colegiada e independiente de su función como integrantes de la Junta de Gobierno, fungirán como Comité Técnico del Fideicomiso.
+Los titulares de la Secretaría de Hacienda Pública, de la Secretaría de Medio Ambiente y Desarrollo Territorial, la Secretaría de Agricultura y Desarrollo Rural, el Delegado en el Estado de Jalisco de la Secretaría de Medio Ambiente y Recursos Naturales, así como el Director General, actuando en forma colegiada e independiente de su función como integrantes de la Junta de Gobierno, fungirán como Comité Técnico del Fideicomiso.
 
 Todo gasto que se realice por parte del fideicomiso debe ser solicitado y validado por el citado Comité Técnico.
 
@@ -642,3 +650,9 @@ P.O. 11 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27266/LXII/19, QUE REFORMA EL ARTÍCULO 8° DE LA LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO “BOSQUE LA PRIMAVERA”; EL ARTÍCULO 26 FRACCIÓN IV DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; EL ARTÍCULO 5° FRACCIÓN IV DE LA LEY ORGÁNICA DE LA AGENCIA DE ENERGÍA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 25 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27526/LXII/19 QUE REFORMA LOS ARTÍCULOS 8 Y 28 DE LA LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "BOSQUE DE LA PRIMAVERA".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
