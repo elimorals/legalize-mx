@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-139717"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-27"
-last_updated: "2019-12-27"
+last_updated: "2020-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "JAL"
 ---
 # LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2020
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE FEBRERO DE 2020 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2020
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
 
-Ley publicada en el Número 40 Ter del Periódico Oficial del Estado de Jalisco, el viernes 27 de diciembre de 2019.
+Ley publicada en el Número 40 Ter de la Edición Especial del Periódico Oficial del Estado de Jalisco, el viernes 27 de diciembre de 2019.
 
 Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.
 
@@ -999,7 +1001,9 @@ e) Vehículos con dimensiones excedentes: $127.00
 
 f) De maquinaria: $172.00
 
-g) De 3,000 (tres mil) kilogramos o más, con excepción de los previstos en el inciso “r”, y circulen en zonas u horarios prohibidos: $127.00
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
+
+g) De 3,000 (tres mil) Kilogramos o más que circulen en zonas prohibidas: $127.00
 
 h) Con huella de choque hasta por 10 (diez) días, por día: $29.00
 
@@ -1009,7 +1013,7 @@ j) Con vidrios polarizados, por año: $115.00
 
 k) Para traslado de vehículos contaminantes con origen y destino, por dos días: $62.00
 
-i) Para traslado de mercancías, menaje, semovientes y ganado con origen y destino, por dos días: $33.00
+l) Para traslado de mercancías, menaje, semovientes y ganado con origen y destino, por dos días: $33.00
 
 m) Para circular sin placas por robo o extravió, por día: $33.00
 
@@ -1021,11 +1025,7 @@ p) Para circular sin una placa de taxi, por día: $29.00
 
 q) Para circular sin placas de taxi, por día: $33.00
 
-r) En términos de lo previsto por el artículo 71, fracción IX de la Ley de Movilidad y Transporte del Estado de Jalisco, para la circulación de camiones unitarios, camiones remolque y tractocamiones, de manera anual:
-
-1. Por anualidad de 365 días: $6,000.00
-
-2. Por evento hasta por 72 horas: $1,000.00
+r) (DEROGADO, P.O. 25 DE ENERO DE 2020)
 
 V. Por la emisión de dictámenes sobre:
 
@@ -1253,7 +1253,7 @@ mensualidades.
 
 Si se opta por pagar una anualidad, se aplicará un descuento del 10%, al cobro establecido en esta fracción, siempre y cuando el pago se realice durante los meses de enero, febrero y marzo.
 
-XXII. Por los servicios que preste el Instituto Metropolitano de Planeación del Área metropolitana de Guadalajara, cuando se trate del Área metropolitana de Guadalajara, y la Secretaría de Medio Ambiente y Desarrollo Territorial, cuando se trate del interior del Estado:
+XXIII. Por los servicios que preste el Instituto Metropolitano de Planeación del Área metropolitana de Guadalajara, cuando se trate del Área metropolitana de Guadalajara, y la Secretaría de Medio Ambiente y Desarrollo Territorial, cuando se trate del interior del Estado:
 
 a) Estudio de ruta nueva, por estudio: $3,436.00
 
@@ -1291,7 +1291,7 @@ XXIX. Por la autorización y registro para operar como empresas de redes de tran
 
 XXX. Por la cancelación del otorgamiento de la autorización para prestar servicios de transporte de pasajeros bajo demanda mediante aplicaciones móviles: $571.00
 
-XXXI Por la renovación de la autorización para operar como empresas de redes de transporte: $41,349.00
+XXXI. Por la renovación de la autorización para operar como empresas de redes de transporte: $41,349.00
 
 XXXII. Por la cancelación de la renovación de la autorización para operar como empresas de redes de transporte: $592.00
 
@@ -2277,13 +2277,7 @@ III. Tratándose de operaciones de intercambio de tasa de interés (swaps), simi
 
 Los organismos públicos descentralizados y/o Municipios que cuenten con el aval o respaldo financiero del Estado en operaciones de deuda pública podrán así mismo realizar la contratación de estos instrumentos derivados siempre que el proceso de adquisición sea conducido o coordinado por la Secretaría de la Hacienda Pública y tenga por objeto la cobertura de operaciones de crédito público contraídas con una autorización previa del Congreso del Estado.
 
-DÉCIMO CUARTO. Con relación al permiso previsto en el artículo 23, fracción IV, inciso “r” puntos “1” y “2”, se les concede a los propietarios, legítimos poseedores o conductores de vehículos de carga pesada el mes de enero del 2020 para efectos de que acudan a la Secretaría de Transporte a realizar el trámite correspondiente.
-
-Si pagan el permiso correspondiente durante el mes de enero del 2020,
-
-se les aplicará un 10% de descuento.
-
-En consecuencia, durante dicho lapso no les será aplicada la multa por la infracción prevista en la fracción VI del artículo 183 de la Ley de Movilidad y Transporte del Estado de Jalisco.
+DÉCIMO CUARTO. (DEROGADO, P.O. 25 DE ENERO DE 2020)
 
 > <small>[N. DE E. VÉASE ANEXO A EN EL NÚMERO 40 TER DEL P.O. DE 27 DE DICIEMBRE DE 2019, PÁGINAS DE LA 91 A LA 97.]</small>
 
@@ -2336,3 +2330,15 @@ MTRO. JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27802/LXII/20 QUE REFORMA LOS ARTÍCULOS 71, 71 TER Y 183 DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO, EL ARTÍCULO 23 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2020 Y DEROGA EL ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL DECRETO 27774/LXII/19 PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE JALISCO" EL DÍA 27 DE DICIEMBRE DEL 2019, MEDIANTE EL CUAL SE APROBÓ LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2020”.]
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El titular del Poder Ejecutivo deberá realizar las modificaciones necesarias al Reglamento de la Ley de Movilidad y Transporte del Estado de Jalisco en un plazo no mayor a sesenta días hábiles a partir de la entrada en vigor del presente decreto.
+
+TERCERO. Las dependencias del Poder Ejecutivo deberán realizar las adecuaciones o modificaciones que resulten necesarias para la aplicación del presente decreto.
