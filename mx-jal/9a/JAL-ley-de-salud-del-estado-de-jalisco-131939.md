@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2019-12-28"
+last_updated: "2020-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
 
 Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -1307,7 +1307,9 @@ II. La atención del niño, la vigilancia de su crecimiento y desarrollo, incluy
 
 III. La promoción de la integración y el bienestar familiar;
 
-IV. La información a la mujer sobre la infección por el Virus de la Inmunodeficiencia Humana (VIH) haciendo de su conocimiento las ventajas de una detección oportuna, para lo cual se informará a la mujer embarazada que puede practicarse gratuitamente examen de VIH en las instituciones del Sector Salud, a fin de prevenir la salud de los infantes desde su gestación, siendo el resultado del examen confidencial;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2020)</small>
+
+IV. Las instituciones del Sector de Salud, tendrán la obligación de informar a la mujer sobre las ventajas de la detección oportuna de la infección del Virus de la Inmunodeficiencia Humana (VIH) y deberá practicarles, previo consentimiento, el examen de detección oportuna en el control prenatal, siendo el resultado del examen confidencial;
 
 V. El diagnóstico oportuno de condiciones de salud del neonato y detección de enfermedades hereditarias y congénitas, incluyendo la aplicación de la prueba del tamiz ampliado y su salud visual;
 
@@ -1495,7 +1497,9 @@ II. Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 III. Proporcionar a la población información sobre los riesgos del uso de medicamentos fuera de lo prescrito y sus efectos en el abuso de los mismos;
 
-IV. Orientar y capacitar a la población, preferentemente, en materia de nutrición y combate a la obesidad, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, alcoholismo, inhalantes y otras substancias tóxicas, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención, habilitación y rehabilitación de la discapacidad y detección oportuna de enfermedades, enfermedades raras y, catastróficas.; y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2020)</small>
+
+IV. Orientar y capacitar a la población, preferentemente, en materia de nutrición y combate a la obesidad, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, riesgos del consumo de alcohol durante el embarazo, alcoholismo, inhalantes y otras substancias tóxicas, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención, habilitación y rehabilitación de la discapacidad y detección oportuna de enfermedades, enfermedades raras y, catastróficas.; y
 
 V. Fomentar en la población la cultura de la donación de sangre, órganos y tejidos.
 
@@ -2109,9 +2113,9 @@ j) Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud;
 
 k) Comisión Estatal de Derechos Humanos
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
 
-l) Los presidentes de las Comisiones de Derechos Humanos y pueblos originarios, de Higiene, Salud Pública y Prevención de las Adicciones, y de Asistencia social, Familia y Niñez, del Congreso del Estado;
+l) Los presidentes de las Comisiones de Derechos Humanos y Pueblos Originarios, de Higiene, Salud Pública y Prevención de las Adicciones, Asistencia Social, Familia y Niñez del Congreso del Estado;
 
 m) Comisión para la Protección contra Riesgos Sanitarios de Jalisco; y
 
@@ -4564,3 +4568,17 @@ P.O. 28 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27784/LXII/19 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XVI Y XVII; Y SE ADICIONA UNA FRACCIÓN XVIII AL ARTÍCULO 18, LA SECCIÓN SEGUNDA AL CAPÍTULO II DEL TÍTULO QUINTO, ASÍ COMO EL ARTÍCULO 163 BIS DE LA LEY DE SALUD DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 25 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27517/LXII/19 QUE REFORMA LOS ARTÍCULOS 100 Y 113 DE LA LEY DE SALUD DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial “El Estado de Jalisco.”
+
+P.O. 25 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27519/LXII/19 QUE REFORMA EL INCISO L) DE LA FRACCIÓN II, ARTÍCULO 165 DE LA LEY DE SALUD DEL ESTADO DE JALISCO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
