@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2019-11-19"
+last_updated: "2020-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "JAL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE FEBRERO DE 2020 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -1545,9 +1547,9 @@ VII. Los conductores otorgarán la prelación de paso a los vehículos de seguri
 
 VIII. Los vehículos automotores utilizarán sistemas de retención infantil o asientos de seguridad, en el caso de que alguno de sus ocupantes sea un menor de doce años de edad o que por su constitución física lo requiera, el cual deberá estar situado en el asiento trasero y será acorde a la talla y peso del menor, salvo que el vehículo no cuente con asientos traseros;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2020)</small>
 
-IX. Los vehículos de carga, para la entrada, salida y circulación intraurbana dentro de los límites territoriales establecidos en el Mapa Funcional y en los lineamientos que para tal efecto emita el Instituto cuando se trate del Área Metropolitana de Guadalajara, deberán obtener el permiso correspondiente por parte de la Secretaría. Queda prohibida la circulación de los tractocamiones doblemente articulados, dentro de la delimitación territorial establecida por el Mapa Funcional, en los horarios que los lineamientos establezcan; y
+IX. Queda prohibida, en los horarios y para los vehículos de transporte de carga que se establezcan en los Lineamientos, la entrada, salida, o circulación intraurbana, en los términos establecidos en el Mapa Funcional, que para tal efecto emita el Instituto cuando se trate del Área Metropolitana de Guadalajara; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
@@ -1563,13 +1565,13 @@ El Reglamento de esta Ley establecerá los procedimientos que permitan asegurar 
 
 Los lineamientos y el mapa funcional señalados en el artículo 71, fracción IX establecerán, por lo menos, la clasificación vehicular del transporte de carga y sus modalidades con base en la norma oficial que determine su peso y dimensiones máximas, los límites territoriales, así como la regulación de tránsito y horarios para su ingreso, salida y circulación intraurbana dentro de la delimitación territorial establecida.
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
 
 ###### Artículo 71 Ter.
 
-Respecto de las restricciones de circulación a los vehículos de carga establecidas en los lineamientos, la Secretaría, a petición del interesado, podrá otorgar autorización especial para ello, siempre y cuando cumplan con los requisitos señalados y que se encuentren previstos dentro de los casos de excepción que se establezcan en los lineamientos y el Mapa Funcional. De manera enunciativa, mas no limitativa, en el caso de servicios postales, paquetería y mensajería en los términos del reglamento federal de la materia, servicios públicos de emergencia o fuerza mayor, en materia de salud pública o privada, entre otros, obtendrán dicha autorización con el cumplimiento de los requisitos que establezcan los lineamientos.
+Los casos de excepción, respecto de las restricciones de circulación a los vehículos de transporte de carga establecidas en el artículo 71 fracción IX, se establecerán en los Lineamientos.
 
-Los procedimientos, plazos y condiciones específicas para la expedición del permiso establecido en el Artículo 71 fracción IX o la autorización señalada en el primer párrafo del presente, se establecerán en el Reglamento de esta Ley.
+Los procedimientos, plazos y condiciones específicas aplicables al párrafo anterior, se establecerán en el Reglamento de esta Ley.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
@@ -3547,9 +3549,9 @@ Los vehículos de transporte público colectivo y masivo, y los de transporte es
 
 V. A la persona que conduzca un vehículo de motor en ciclovías, zonas peatonales, jardines, plazas y pistas para uso exclusivo de peatones, a no ser que cuente con la autorización respectiva de la autoridad competente para circular por dichas zonas;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2020)</small>
 
-VI. Los conductores de vehículos de carga pesada que circulen por carriles centrales o de alta velocidad, por circular en zona prohibida o sin el permiso o autorización para circular conforme a los lineamientos y el Mapa Funcional respecto de los supuestos señalados en los artículos 71 fracción IX y 71 Ter.
+VI. Los conductores de vehículos de carga pesada que circulen por carriles centrales o de alta velocidad, por circular en zona prohibida, o por contravenir con lo establecido en el artículo 71 fracción IX, de la presente Ley.
 
 VII. Los conductores que circulen o se estacionen sin causa justificada por el carril de acotamiento.
 
@@ -4498,3 +4500,13 @@ CUARTO. El Titular del Poder Ejecutivo del Estado, contará con un plazo de 60 d
 QUINTO. Se exhorta al Titular del Poder Ejecutivo del Estado, para que los ingresos que se recauden por concepto de las sanciones a las infracciones establecidas en el Artículo 183 fracción VI, se integren al Fideicomiso de Inversión y Administración para la Mejora de la Seguridad Vial, Fideicomiso 2003993-1, para lo cual se le solicita que en el ejercicio de sus facultades, en un plazo no mayor a 60 días naturales, realice las adecuaciones conducentes a dicho Fideicomiso.
 
 SEXTO. La Secretaría instalará una Mesa de Evaluación y Análisis de los Lineamientos y el Mapa Funcional que emita el Instituto, integrada por el Presidente de la Comisión de Movilidad y Transporte del Congreso del Estado de Jalisco, el Comité Estatal de Seguridad Vial y representantes del sector de transporte de carga.
+
+P.O. 25 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27802/LXII/20 QUE REFORMA LOS ARTÍCULOS 71, 71 TER Y 183 DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO, EL ARTÍCULO 23 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2020 Y DEROGA EL ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL DECRETO 27774/LXII/19 PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE JALISCO" EL DÍA 27 DE DICIEMBRE DEL 2019, MEDIANTE EL CUAL SE APROBÓ LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2020".]
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El titular del Poder Ejecutivo deberá realizar las modificaciones necesarias al Reglamento de la Ley de Movilidad y Transporte del Estado de Jalisco en un plazo no mayor a sesenta días hábiles a partir de la entrada en vigor del presente decreto.
+
+TERCERO. Las dependencias del Poder Ejecutivo deberán realizar las adecuaciones o modificaciones que resulten necesarias para la aplicación del presente decreto.
