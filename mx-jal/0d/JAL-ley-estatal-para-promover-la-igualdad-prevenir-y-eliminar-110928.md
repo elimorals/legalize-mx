@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-promover-la-igualdad-prevenir-y-eliminar-11092
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2019-12-19"
+last_updated: "2020-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
 
 Ley publicada en la Sección LXIV del Periódico Oficial del Estado de Jalisco, el jueves 17 de diciembre de 2015.
 
@@ -621,7 +621,9 @@ V. Participar en la elaboración de los informes anuales, así como los especial
 
 VI. Las demás que establezca el reglamento interno.
 
-En el cumplimiento de sus obligaciones, el Secretario Técnico contará con el personal y recursos materiales que el titular de su secretaría y la Secretaría de Planeación, Administración y Finanzas disponga para tal efecto, de acuerdo con los recursos materiales disponibles.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
+
+En cumplimiento de sus obligaciones, el Secretario Técnico contará con el personal y recursos materiales que el titular de su secretaria y la Secretaria de la Hacienda Pública y la Secretaría de Administración disponga (sic) para tal efecto, de acuerdo con los recursos materiales disponibles.
 
 ### CAPITULO IV. DEL PROGRAMA ESTATAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
 
@@ -838,5 +840,11 @@ P.O. 11 DE OCTUBRE DE 2016.
 P.O. 19 DE DICIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27594/LXII/19, QUE REFORMA LOS ARTÍCULOS 3, 47, 52 Y 57 DE LA LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 25 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27521/LXII/19 QUE REFORMA EL ARTÍCULO 39 DE LA LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
