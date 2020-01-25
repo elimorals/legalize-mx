@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2019-11-23"
+last_updated: "2020-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1920,6 +1920,10 @@ Los Oficiales del Registro Civil están obligados, en todos los casos, a consign
 Estarán exentos de derechos a que se refiere éste capítulo el registro de nacimientos, que se realicen en las oficinas del Registro Civil y dentro del horario de labores que establezca el Ayuntamiento, o bien, fuera de las oficinas o del horario, cuando exista causa justificada.
 
 Así mismo, estará exento del pago del derecho correspondiente, la expedición de la primera copia certificada del acta del registro de nacimiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE ENERO DE 2020)</small>
+
+Las constancias de inexistencia expedidas por el Oficial del municipio en donde ocurrió el nacimiento y del Archivo General del Registro Civil del Estado, no tendrán costo alguno cuando tengan por objeto el registro extemporáneo.
 
 ### CAPITULO IX. Certificaciones
 
@@ -3957,8 +3961,10 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO VEINTITRÉS, QUE ADICIONA LA FRACCIÓN IV AL ORDINAL 56, DEROGA DIVERSAS DISPOSICIONES DEL ARÁBIGO 57 Y ADICIONA EL DISPOSITIVO 59 BIS, TODOS DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO”.]
+P.O. 25 DE ENERO DE 2020.
 
-PRIMERO.- El presente decreto entrara en vigor, al día siguiente al de su publicación, tanto en el Periódico Oficial del Estado de Hidalgo, así como en la Gaceta Oficial del Municipio de Pachuca de Soto, Hidalgo.
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27525/LXII/19 QUE REFORMA EL ARTÍCULO 57 DE LA LEY DEL REGISTRO CIVIL, ARTÍCULO 69 DE LA LEY DE HACIENDA, Y EL ARTÍCULO 170 BIS DE LA LEY DE HACIENDA MUNICIPAL, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO".]
 
-SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto y autorizado en el presente decreto.
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los municipios del Estado de Jalisco, deberán adecuar sus Reglamentos y Leyes de Ingresos, para establecer el no cobro de las constancias o certificados de inexistencia para el registro extemporáneo de nacimiento, a partir del ejercicio fiscal 2020.
