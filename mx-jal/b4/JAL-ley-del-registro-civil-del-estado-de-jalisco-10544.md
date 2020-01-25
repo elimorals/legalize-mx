@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2019-11-28"
+last_updated: "2020-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE NOVIEMBRE DE 2019.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -325,11 +323,11 @@ El registro de cualquier acto del estado civil, se regirá en cuanto a sus cobro
 
 Si se perdiese o destruyese alguno de los ejemplares de las actas del registro civil, los oficiales o el titular del Archivo General según sea el caso, darán aviso del hecho a la Dirección General del Registro Civil así como al ministerio público.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
 
 ###### Artículo 26.
 
-La Dirección General del Registro Civil o las oficialías municipales, según el caso, en la pérdida o destrucción de documentos, tendrán la responsabilidad de disponer su reposición, sacándose copia de cualquiera de los ejemplares que existan, quedando como responsables únicos de la reposición, el oficial o el titular del archivo, según las disposiciones establecidas por la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, quienes en caso de omisión, se harán acreedores a las sanciones que la misma establece.
+La Dirección General del Registro Civil o las oficialías municipales, según el caso, en la pérdida o destrucción de documentos, tendrán la responsabilidad de disponer su reposición, sacándose copia de cualquiera de los ejemplares que existan, quedando como responsables únicos de la reposición, el oficial o el titular del archivo, según las disposiciones establecidas por la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, quienes en caso de omisión se harán acreedores a las sanciones que la misma establece.
 
 ###### Artículo 27.
 
@@ -533,7 +531,7 @@ PODRÁ EFECTUAR EL REGISTRO DE SU HIJO, EL PADRE QUE EN COMPAÑÍA DE LOS ABUELO
 
 EN CASO DE FALLECIMIENTO DEL PADRE, LA MADRE PODRÁ EFECTUAR EL REGISTRO DE SU HIJO EN COMPAÑÍA DE LOS ABUELOS PATERNOS O FAMILIARES HASTA EL CUARTO GRADO QUE DECLAREN LA RELACIÓN DE CONCUBINATO QUE EXISTIÓ ENTRE AMBOS PROGENITORES. LA CONCUBINA DEBERÁ EXHIBIR LAS CONSTANCIAS QUE ACREDITEN EL CONCUBINATO DE CONFORMIDAD CON EL ARTÍCULO AL ARTÍCULO (SIC) 778 PÁRRAFOS SEGUNDO Y TERCERO DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO.
 
-(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2019) (F. DE E., P.O. 28 DE NOVIEMBRE DE 2019)
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 43 Bis.
 
@@ -619,7 +617,9 @@ Con las excepciones de ley, será registro extemporáneo de nacimiento, el efect
 
 Las solicitudes de registros extemporáneos se tramitarán y resolverán de conformidad a lo establecido en el reglamento respectivo, por el Oficial Jefe del Registro Civil de cada municipio, quien se cerciorará de la identidad de los interesados, de la vecindad de los mismos y del cumplimiento de los demás requisitos que para el nacimiento se exigen, anotando en la propia acta la razón de su certeza.
 
-La expedición de la primera acta de nacimiento se hará sin costo alguno, no obstante sea extemporáneo el registro.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
+
+Tratándose de la Constancia de inexistencia para el registro extemporáneo de nacimiento, deberá observarse lo estipulado en las leyes de Hacienda respectivas.
 
 ###### Artículo 58.
 
@@ -1774,3 +1774,17 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27570/LXII/19 QUE REFORMA LOS ARTÍCULOS 268, 381 Y 391 DEL CÓDIGO CIVIL Y EL ARTÍCULO 82 DE LA LEY DEL REGISTRO CIVIL, AMBOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. Esta ley entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 25 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27525/LXII/19 QUE REFORMA EL ARTÍCULO 57 DE LA LEY DEL REGISTRO CIVIL, ARTÍCULO 69 DE LA LEY DE HACIENDA, Y EL ARTÍCULO 170 BIS DE LA LEY DE HACIENDA MUNICIPAL, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los municipios del Estado de Jalisco, deberán adecuar sus Reglamentos y Leyes de Ingresos, para establecer el no cobro de las constancias o certificados de inexistencia para el registro extemporáneo de nacimiento, a partir del ejercicio fiscal 2020.
+
+P.O. 25 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27528/LXII/19 QUE REFORMA EL ARTÍCULO 26 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
