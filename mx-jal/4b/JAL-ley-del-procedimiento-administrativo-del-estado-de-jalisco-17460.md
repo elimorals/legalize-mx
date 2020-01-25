@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-procedimiento-administrativo-del-estado-de-jalisco-1746
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-15"
-last_updated: "2019-07-20"
+last_updated: "2020-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 15 de julio del 2000.
 
@@ -259,11 +259,11 @@ En todo procedimiento que sea substanciado ante las autoridades administrativas 
 
 Una vez transcurrido el plazo, si la autoridad administrativa no ha emitido la resolución correspondiente opera la afirmativa o la negativa ficta, de conformidad con lo que establece el presente título.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
 
 ###### Artículo 22.
 
-La autoridad que de acuerdo con la presente ley conozca de la operación de la afirmativa o negativa ficta, así como cualquier servidor público o administrativo que tenga conocimiento de esta situación, deberán notificar de oficio a la autoridad competente o al superior jerárquico del servidor público que dio origen al silencio administrativo para que, en su caso, se incoen los procedimientos de responsabilidades establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco o en la Ley de Responsabilidad Patrimonial del Estado de Jalisco y sus municipios, según corresponda.
+La autoridad que de acuerdo con la presente ley conozca de la operación de la afirmativa o negativa ficta, así como cualquier servidor público o administrativo que tenga conocimiento de esta situación, deberán notificar de oficio a la autoridad competente o al superior jerárquico del servidor público que dio origen al silencio administrativo para que, en su caso, se incoen los procedimientos de responsabilidades establecidos en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco o en la Ley de Responsabilidad Patrimonial del Estado de Jalisco y sus Municipios, según corresponda.
 
 ### Capítulo Segundo. De la Negativa Ficta
 
@@ -401,9 +401,11 @@ V. Concluya el término de la administración pública a la que pertenezca la au
 
 En el caso establecido en la fracción I de este artículo, el administrado contará con un plazo de cinco días hábiles para entregar la documentación o cumplir con los requisitos que hubiera omitido. Transcurrido este plazo, si los requisitos no hubieren sido satisfechos o los documentos no hubieren sido entregados, la autoridad desechará de plano la solicitud de que se trate.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
+
 ###### Artículo 38.
 
-La negativa, por parte de servidor público competente, de recibir las promociones de los particulares, será sancionada en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+La negativa, por parte de servidor público competente, de recibir las promociones de los particulares, será sancionada en los términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 ###### Artículo 39.
 
@@ -1474,3 +1476,9 @@ DÉCIMO PRIMERO. El Titular del Poder Ejecutivo del Estado deberá de hacer las 
 DÉCIMO SEGUNDO. Los Ayuntamientos deberán instalar los Consejos Municipales dentro de un plazo que no exceda de 180 días a partir de la entrada en vigor del presente decreto.
 
 DÉCIMO TERCERO. Los poderes Legislativo y Judicial y los Órganos Constitucionales Autónomos deberán realizar las adecuaciones reglamentarias necesarias para la implementación de las disposiciones que en materia de mejora regulatoria les correspondan.
+
+P.O. 25 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DE "DECRETO 27529/LXII/L9 QUE REFORMA LOS ARTÍCULOS 22 Y 38 DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
