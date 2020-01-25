@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-la-universidad-tecnologica-de-ciudad-juarez-14762"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-12"
-last_updated: "2016-10-03"
+last_updated: "2020-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE LA UNIVERSIDAD TECNOLÓGICA DE CIUDAD JUÁREZ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 12 de junio de 1999.
 
@@ -51,9 +51,11 @@ Artículo 1° Se crea la Universidad Tecnológica de Ciudad Juárez, como Organi
 
 Artículo 2° La Universidad Tecnológica de Ciudad Juárez se adhiere al Sistema Nacional de Universidades Tecnológicas, y por tanto, adopta como modelo pedagógico el establecido para ellas.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
 
-Artículo 3° La Universidad Tecnológica de Ciudad Juárez, tendrá por objeto principal impartir Educación Técnica Superior, para formar profesionistas a los que se les denominará Técnico Superior Universitario, así como Profesional Asociado, en programas de continuidad de estudios para sus egresados y para los de otras instituciones de educación superior que impartan el mismo tipo educativo, que permitan a los estudiantes alcanzar el nivel académico de Licenciatura, con aptitudes y conocimientos científicos y tecnológicos que coadyuven en la solución creativa de problemas, con un sentido de innovación y la aplicación de avances científicos y tecnológicos.
+###### Artículo 3°.
+
+La Universidad Tecnológica de Ciudad Juárez, tendrá por objeto principal impartir Educación Técnica Superior, para formar profesionistas a los que se les denominará Técnico Superior Universitario, así como Profesional Asociado, en programas de continuidad de estudios para sus egresados y para los de otras instituciones de educación superior que impartan el mismo tipo educativo, que permitan a los estudiantes alcanzar el nivel académico de Licenciatura y Posgrado, con aptitudes y conocimientos científicos y tecnológicos que coadyuven en la solución creativa de problemas, con un sentido de innovación y la aplicación de avances científicos y tecnológicos.
 
 Artículo 4° Para el cumplimiento de su objeto la Universidad Tecnológica de Ciudad Juárez tendrá las siguientes atribuciones:
 
@@ -402,3 +404,15 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 25 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/RFLEY/0438/2019 I P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 3 DE LA LEY DE LA UNIVERSIDAD TECNOLÓGICA DE CIUDAD JUÁREZ”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Universidad Tecnológica de Ciudad Juárez hará las gestiones, trámites y autorizaciones pertinentes, ante las autoridades competentes, así como la suscripción o modificación de instrumentos que fueran necesarios, para la impartición del nivel académico de "posgrado" previsto en el presente Decreto.
