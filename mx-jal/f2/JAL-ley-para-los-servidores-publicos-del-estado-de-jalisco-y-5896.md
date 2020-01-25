@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2019-08-10"
+last_updated: "2020-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -731,9 +731,9 @@ Las mujeres durante el embarazo, no realizarán trabajos que exijan un esfuerzo 
 
 Durante los primeros cinco meses a partir de la fecha de reanudación de labores, las madres tendrán derecho a un descanso extraordinario por cada tres horas de trabajo, en la inteligencia de que aquellas, con jornadas de seis horas y media o menos, disfrutarán de un solo descanso de media hora, para alimentar a sus hijos, así como gozar del derecho al uso de un espacio adecuado donde pueden extraer su leche materna.
 
-> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
 
-En caso de nacimiento de su hijo o hija, el trabajador gozará de una licencia por paternidad remunerada de cinco días hábiles. Esta licencia será otorgada ya sea antes de la fecha de nacimiento, o bien, posterior a ésta.
+En caso de nacimiento de su hijo o hija, el trabajador gozará de una licencia por paternidad remunerada de quince días hábiles. Esta licencia será otorgada desde la fecha de nacimiento, o bien, hasta antes de los tres meces (sic) de nacido.
 
 > <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
@@ -758,6 +758,34 @@ Los cómputos deberán hacerse por servicios continuos o cuando, de existir una 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
 Las licencias podrán dividirse o fragmentarse durante el lapso de un año, de acuerdo a las necesidades médicas del servidor público.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2020)</small>
+
+Art. 44 bis. Se otorgará licencia a los servidores públicos que tengan hijos menores de edad que sufran enfermedades que requieran hospitalización en instituciones públicas o privadas, previa comprobación en cada caso. El goce de la licencia se sujetará conforme lo siguiente:
+
+I. A los servidores públicos que tengan más de seis meses de servicio, pero menos de cinco años, hasta diez días con goce de sueldo íntegro; hasta veinte días más, con medio sueldo, y hasta treinta días más, sin sueldo;
+
+II. A los servidores públicos que tengan de cinco a diez años de servicio, hasta veinte días con goce de sueldo íntegro; hasta treinta días más, con medio sueldo, y hasta sesenta días más, sin sueldo; y
+
+III. A los servidores públicos que tengan más de diez años de servicio, hasta treinta días con goce de sueldo íntegro; hasta cuarenta días más, con medio sueldo, y hasta noventa días más, sin sueldo.
+
+Las licencias podrán dividirse o fragmentarse durante el lapso de un año, de acuerdo a las necesidades médicas requeridas.
+
+La licencia únicamente podrá otorgarse a petición de parte, ya sea al padre o madre que tenga a su cargo el ejercicio de la patria potestad, la guardia o custodia del menor.
+
+Lo anterior, dejando a salvo todos los derechos de los trabajadores.
+
+El Órgano de Control Disciplinario de la entidad pública del servidor público será el encargado de verificar la comprobación de cada caso ante la institución de salud que corresponda, y en caso de que se detecte alguna anomalía o falsedad iniciará los procedimientos que correspondan, de conformidad con lo establecido por la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2020)</small>
+
+Art. 44 ter. Las licencias otorgadas en el artículo inmediato anterior cesarán:
+
+I. Cuando el menor deje de requerir hospitalización;
+
+II. Por el fallecimiento del menor; y
+
+III. Cuando el paciente cumpla la mayoría de edad.
 
 ### CAPITULO IV. De los sueldos
 
@@ -2952,3 +2980,15 @@ P.O. 10 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27302/LXII/19 QUE REFORMA EL ARTÍCULO 189 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 25 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27582/LXII/19 QUE REFORMA EL ARTÍCULO 43 Y SE ADICIONAN LOS ARTÍCULOS 44 BIS Y 44 TER DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres facilitará al personal encargado de capacitar al personal de Dependencias o Entidades Públicas el material y cursos necesarios, a efecto de prepararles para que puedan impartir a sus trabajadores las sesiones de sensibilización y formación sobre el ejercicio de la paternidad responsable y corresponsabilidad en el cuidado y crianza de las hijas e hijos.
+
+TERCERO. Se instruye a la Secretaría de Trabajo y Previsión Social para emitir los lineamientos para el otorgamiento de licencias de paternidad responsable, para lo cual, gozará de un término de 180 días a partir de la publicación del presente Decreto.
+
+CUARTO. Se instruye a la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres para emitir y publicar en los portales electrónicos los lineamientos de sensibilización y formación sobre el ejercicio de la paternidad responsable y corresponsabilidad en el cuidado y crianza de las hijas e hijos.
