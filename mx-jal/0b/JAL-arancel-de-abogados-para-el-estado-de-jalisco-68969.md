@@ -4,7 +4,7 @@ identifier: "JAL-arancel-de-abogados-para-el-estado-de-jalisco-68969"
 country: "mx"
 rank: "otro"
 publication_date: "2007-10-04"
-last_updated: "2007-10-04"
+last_updated: "2020-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 ARANCEL DE ABOGADOS PARA EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
 
 Arancel publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 4 de octubre de 2007.
 
@@ -59,11 +59,13 @@ En ningún juicio podrá condenarse al pago de honorarios conforme a este arance
 
 Los abogados están obligados a prestar el servicio social en los casos que conforme a las leyes o a las circunstancias personales del interesado, éste sea indispensable.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
+
 ###### Artículo 6.
 
-Las tarifas reguladas por el presente arancel se establecen en días de salario mínimo general vigente (S.M.G.V.) en el municipio en que se preste el servicio profesional, y deberán convertirse a pesos en el momento en que sea necesario cuantificar los honorarios correspondientes o cuando sea exigible la obligación.
+Las tarifas reguladas por el presente arancel se establecen al valor diario de Unidad de Medida y Actualización en el municipio en que se preste el servicio profesional, y deberán convertirse a pesos en el momento en que sea necesario cuantificar los honorarios correspondientes o cuando sea exigible la obligación.
 
-Si la obligación o suerte principal está cuantificada en moneda extranjera, el pago de los honorarios podrá válidamente pactarse o liquidarse en esa moneda o en moneda nacional al tipo de cambio que rija en la fecha del pago.
+Si la obligación o suerte principal está cuantificada en moneda extranjera, el pago de los honorarios podrá válidamente pactarse o liquidarse en esa moneda o en moneda nacional al tipo de cambio que rija en la fecha de pago.
 
 ###### Artículo 7.
 
@@ -83,17 +85,21 @@ Los abogados fijarán en el interior de su bufete, en un lugar perfectamente vis
 
 ### CAPÍTULO II. DE LAS TARIFAS
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
+
 ###### Artículo 11.
 
-Por todo juicio contencioso, civil, laboral, administrativo, de amparo u otros semejantes, por cantidad determinada, desde su principio hasta su conclusión, por pago, convenio o sentencia definitiva, incluyéndose consultas, conferencias, juntas, vistas de autos y documentos, escritos, informes y cuanto trabajo se relacione con el asunto, cobrarán un 25% del valor del negocio, si no pasa de 300 días de salario mínimo general vigente en la entidad (S.M.G.V.); un 20% de lo que exceda hasta la cantidad de 1,200 días de S.M.G.V.; un 15% de lo que exceda de la anterior cantidad hasta 6,000 días de S.M.G.V. y un 10% de lo que rebase esta cifra, sea cual fuere la cantidad.1
+Por todo juicio contencioso, civil, laboral, administrativo, de amparo u otros semejantes, por cantidad determinada, desde su principio hasta su conclusión, por pago, convenio o sentencia definitiva, incluyéndole consultas,, (sic) conferencias, juntas, vistas de autos y documentos, escritos, informes y cuanto trabajo se relacione con el asunto, cobrarán un 25% del valor del negocio, si no pasa de 300 veces el valor diario de Unidad de Medida y Actualización; un 20% de lo que exceda hasta la cantidad de 1,200 veces al valor diario de Unidad de Medida y Actualización, un 15% de lo que exceda de la anterior cantidad hasta 6,000 días de Unidad de Medida y un 10% de lo que rebase esta cifra, se (sic) cual fuere la cantidad.
 
 ###### Artículo 12.
 
 Cuando el abogado se encargue de un negocio ya comenzado, o no concluya el que haya principiado, cobrará la parte proporcional, considerando para tal efecto que: a la primera instancia corresponden dos terceras partes, de las cuales a la demanda o contestación con las que se plantea la litis, le corresponde la mitad de dichos honorarios; a las actuaciones siguientes hasta antes de presentar alegatos un 40% de los mismos; y 10% para el escrito de alegatos. La otra tercera parte se causará por la segunda instancia. En caso de que sea más reducida la intervención del abogado, se estará a lo dispuesto por el artículo 20 de este arancel.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
+
 ###### Artículo 13.
 
-En los juicios civiles, penales, laborales, administrativos, de amparo u otros semejantes que no tengan valor pecuniario o que no se pueda determinar, se regularán los honorarios con la estimación de 150 a 4,000 días de S.M.G.V. según la importancia del derecho y el asunto que se ventile, los trabajos que se presenten, el éxito que se obtenga, las circunstancias personales del cliente y todo aquello que sirva para hacer una justa regulación de los honorarios.
+En los juicios civiles, penales, laborales, administrativos, de amparo u otros semejantes que no tengan valor pecuniario o que no se pueda determinar, se regularán los honorarios con la estimación de 150 a 4,000 veces al valor diario de Unidad de Medida y Actualización según la importancia del derecho y el asunto que se ventile, los trabajos que se presenten, el éxito que se obtenga, las circunstancias personales del cliente y todo aquello que sirva para hacer una justa regulación de los honorarios.
 
 ###### Artículo 14.
 
@@ -121,27 +127,45 @@ En los amparos directos cobrarán una cantidad equivalente al 25% de los honorar
 
 En los amparos indirectos cobrarán una cantidad equivalente al 15% de los honorarios correspondientes al juicio en que se dictó la sentencia materia del amparo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADA], P.O. 25 DE ENERO DE 2020)</small>
+
 ###### Artículo 20.
 
 A falta de otra disposición de este arancel, los abogados cobrarán:
 
-I. Por vista, lectura de documentos, papeles o expedientes de cualquier clase, siempre que no pasen de 25 hojas, cobrarán de 20 a 60 días de S.M.G.V.;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2020)</small>
 
-II. Si excediere de 25 hojas, por cada una de exceso cobrarán 2 días de S.M.G.V.;
+I. Por vista, lectura de documentos, papeles o expedientes de cualquier clase, siempre que no se pasen de 25 hojas, cobrarán de 20 a 60 veces al valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2020)</small>
+
+II. Si excediere de 25 hojas, por cada una de exceso se cobrarán 2 veces al valor diario de Unidad de Medida y Actualización;
 
 III. Si la vista de documentos tiene lugar fuera del despacho del abogado, se duplicarán las cuotas anteriores;
 
-IV. Por cada consulta verbal en su despacho, cada hora o fracción se cobrará de 10 a 20 días de S.M.G.V.;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2020)</small>
 
-V. Por cada consulta por escrito, de 10 a 30 días de S.M.G.V.;
+IV. Por cada consulta verbal en su despacho, cada hora o fracción se cobrará de 10 a 20 veces al valor diario de Unidad de Medida y Actualización;
 
-VI. Por cada asistencia a las audiencias, juntas o cualquiera otra diligencia judicial o administrativa o ante cualquier funcionario o autoridad, por cada hora o fracción, de 10 a 30 días de S.M.G.V.;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2020)</small>
 
-VII. Por cada promoción que hagan por escrito o por comparecencia, de 10 a 20 días de S.M.G.V;
+V. Por cada consulta por escrito, de cada (sic) 10 a 30 veces al valor diario de Unidad de Medida y Actualización;
 
-VIII. Por cada notificación o vista de autos, 10 días de S.M.G.V.; y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2020)</small>
 
-IX. Cuando un abogado saliere del lugar de su residencia devengará, además de los honorarios que le correspondan conforme a las disposiciones del arancel, de 10 a 30 días de S.M.G.V., desde el día de su salida hasta el de su regreso. Los gastos de transporte y estancia del abogado serán por cuenta del cliente.
+VI. Por cada asistencia a las audiencias, juntas o cualquiera otra diligencia judicial o administrativa o ante cualquier funcionario o autoridad, por cada hora o fracción, de 10 a 30 veces al valor diario de Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2020)</small>
+
+VII. Por cada promoción que hagan por escrito o por comparecencia, de 10 a 20 veces al valor diario de Unidad de Medida de Unidad de Valor (sic) y Actualización;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2020)</small>
+
+VIII. Por cada notificación o vista de autos, 10 veces al valor diario de Unidad de Medida de Actualización; y
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2020)</small>
+
+IX. Cuando un abogado saliere del lugar de su residencia devengará, además de los honorarios que correspondan conforme a las disposiciones de arancel, de 10 a 30 veces al valor diario de Unidad de Medida y Actualización, desde el día de su salida hasta el de su regreso. Los gastos de transporte y estancia del abogado serán por cuenta del cliente.
 
 ###### Artículo 21.
 
@@ -151,39 +175,49 @@ El abogado que litigue en causa propia tiene derecho a cobrar costas como abogad
 
 En los juicios mercantiles ejecutivos u ordinarios cobrarán los honorarios que fija el artículo 11, si se llega hasta sentencia definitiva; en caso contrario, si la intervención del abogado es más reducida, se aplicará el artículo 12 de este arancel.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
+
 ###### Artículo 23.
 
-Los abogados que intervengan como defensores o por parte del ofendido o querellantes, en las causas penales, tendrán derecho a cobrar los honorarios del artículo 13 y además los siguientes:
+Los abogados que intervenga (sic) como defensores o por parte del ofendido o querellantes, en las causas penales, tendrán derecho a cobrar los honorarios del artículo 13 y además los siguientes:
 
-I. Por solicitar y obtener la libertad bajo caución, de 10 a 60 días de S.M.G.V., si la pena corporal que corresponda al delito por el que se encuentra detenido el inculpado no excede de un año. En caso contrario, por cada año de exceso tendrán derecho a cobrar 10 días de S.M.G.V. adicionales;
+I. Por solicitar y obtener la libertad bajo caución, de 10 a 60 veces al valor diario de Unidad de Medida y Actualización, si la pena corporal que corresponda al delito por el que se encuentra detenido el inculpado no excede un año. En caso de (sic) contrario, por cada año de exceso tendrán derecho a cobrar 10 veces al valor diario de Unidad de Medida y Actualización adicionales;
 
-II. Por solicitar y obtener la libertad por desvanecimiento de datos y bajo protesta, tendrán derecho a cobrar las cuotas de la fracción anterior, si la pena corporal señalada al delito no excede de un año. En caso contrario, tendrán derecho a percibir 10 días de S.M.G.V. por cada año adicional;
+II. Por solicitar y obtener la libertad del desvanecimiento de datos y bajo protesta, tendrán derecho a cobrar las cuotas de la fracción anterior, si la pena corporal señalada al delito no excede de un año. En caso contrario, tendrán derecho a percibir 10 veces al valor diario de Unidad de Medida y Actualización por cada año adicional;
 
-III. Por solicitar y obtener la libertad preparatoria o indulto necesario o por gracia, cobrarán de 100 a 200 días de S.M.G.V.;
+III. Por solicitar y obtener la libertad preparatoria o indulto necesario o por gracia, cobrarán de 100 a 200 veces al valor diario de Unidad de Medida y Actualización;
 
-IV. Por la defensa ante el Jurado Popular, 200 días de S.M.G.V. si la pena que corresponda al delito no excede de tres años de prisión. En caso contrario, por cada año de exceso se cobrarán 20 días de S.M.G.V.;
+IV. Por la defensa ante jurado popular, 200 veces al valor diario de Unidad de Medida y Actualización si la pena que corresponda al delito no excede de tres años de prisión. En caso contrario, por cada año de exceso, se cobrará 20 veces al valor diario de Unidad de Medida y Actualización;
 
-V. Por la defensa ante los jueces menores y de paz, de 20 a 100 días de S.M.G.V. si se celebra en una sola audiencia. En caso contrario, de 10 a 20 días de S.M.G.V. por cada nueva audiencia en que se participe; y
+V. Por la defensa ante los jueces menores y de paz, de 20 a 100 veces al valor diario de Unidad de Medida y Actualización si se celebra en una sola audiencia. En caso contrario, de 10 a 20 veces al valor diario de Unidad de Medida y Actualización por cada nueva audiencia en que se participe; y
 
-VI. Por formular o contestar el pliego de conclusiones, de 10 a 80 días de S.M.G.V. si la pena corporal no excede de tres años. En caso contrario si excede a 3 años, de 20 a 100 días de S.M.G.V.
+VI. Por formular o contestar el pliego de conclusiones, de 10 a 80 veces el valor diario de Unidad de Medida y Actualización si la pena corporal no excede de tres años. En caso contrario si excede a 3 años, de 20 a 100 veces al valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
 
 ###### Artículo 24.
 
-Por la defensa del procesado en la segunda instancia en lo principal, hasta 200 días de S.M.G.V. si la pena correspondiente al delito no excede de un año; y por cada año de exceso, hasta 20 días de S.M.G.V. más, tomando como base el término medio aritmético de la pena correspondiente a los delitos objeto de la alzada, independientemente de la pena impuesta en el fallo de primera instancia.
+Por la defensa del procesado en la segunda instancia en la (sic) principal, hasta 200 veces al valor diario de Unidad de Medida y Actualización si la pena correspondiente al delito no excede de un año; y por cada año de exceso, hasta 20 veces al valor diario de Unidad de Medida y Actualización más, tomando como base el termino medio aritmético de la pena correspondiente a los delitos objeto de la alzada, independientemente de la pena impuesta en el fallo de primera instancia.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
 
 ###### Artículo 25.
 
-Por la redacción de cualquier contrato o convenio que por voluntad de las partes o disposición de la ley haya de celebrarse, el abogado cobrará el 5% del valor del negocio, si su cuantía no pasa de 2,000 días de S.M.G.V.; el 2%, por la cantidad que excediere hasta 10,000 días de S.M.G.V.; y el 1% por el exceso, sea cual fuere la cantidad.
+Por la redacción de cualquier contrato o convenio que por voluntad de las partes o disposición de la ley haya de celebrarse, el abogado cobrará el 5% del valor del negocio, si su cuantía no pasa de 2,000 veces al valor diario de Unidad de Medida y Actualización; el 2% por la cantidad que excediere hasta 10,000 veces al valor diario de Unidad de Medida y Actualización; y el 1% por el exceso, sea cual fuere la cantidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2020)</small>
 
 ###### Artículo 26.
 
-En las informaciones de dominio, el abogado cobrará las tasas previstas en el artículo 11, tomando como cuantía el valor fiscal del inmueble o, en su defecto, el valor de peritos.
+En las informaciones de dominio, el abogado cobrará las tasas previstas en el artículo 11, tomando como cuantía el valor fiscal del inmueble o, en su defecto, el valor (sic) peritos.
 
 Cuando se trate de obtener autorización judicial para enajenar bienes de menores, incapacitados o ausentes, se cobrarán las cuotas señaladas por el artículo 13.
 
 Tratándose de la autorización judicial para gravar bienes de menores, incapacitados o ausentes, se aplicará el artículo 13 sobre la cuantía del gravamen.
 
-En los demás casos de jurisdicción voluntaria y en los divorcios por mutuo consentimiento, se cobrarán de 200 a 4,000 días de S.M.G.V., tomando en consideración las circunstancias a que se alude en el artículo 13 de este arancel.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
+
+En los demás casos de jurisdicción voluntaria y en los divorcios por mutuo consentimiento, se cobrarán de 200 a 4,000 veces al valor diario de Unidad de Medida y Actualización, tomando en consideración las circunstancias a que se alude en el artículo 13 de este arancel.
 
 ###### Artículo 27.
 
@@ -242,3 +276,11 @@ El Secretario General de Gobierno
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27527/LXII/19 QUE REFORMA LOS ARTÍCULOS 6, 11, 13, 20, 23, 24, 25 Y 26 DEL ARANCEL DE ABOGADOS PARA EL ESTADO DE JALISCO”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
