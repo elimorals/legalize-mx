@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-las-personas-con-trastorno-del-espectro-del-131613"
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-17"
-last_updated: "2018-11-17"
+last_updated: "2020-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LAS PERSONAS CON TRASTORNO DEL ESPECTRO DEL AUTISMO EN EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 17 de noviembre de 2018.
 
@@ -125,7 +125,9 @@ III. Todos aquéllos que determine la presente Ley o cualquier otro ordenamiento
 
 ###### Artículo 11.
 
-1. La Comisión estará integrada por los Titulares de las siguientes dependencias de la Administración Pública Estatal quienes tendrán voz y voto:
+> <small>(REFORMADO PRIMER PÁRAFO, P.O. 25 DE ENERO DE 2020)</small>
+
+1. La Comisión estará integrada por los titulares de las siguientes dependencias de la Administración Pública Estatal quienes tendrán voz y voto:
 
 I. La Secretaría de Salud, quien presidirá la Comisión;
 
@@ -133,7 +135,9 @@ II. La Secretaría de Educación;
 
 III. La Secretaría del Trabajo y Previsión Social; y
 
-IV. La Secretaría de Desarrollo e Integración Social.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2020)</small>
+
+IV. La Secretaría del Sistema de Asistencia Social.
 
 2. El quórum legal para sesionar será la mitad más uno de los miembros señalados anteriormente.
 
@@ -220,3 +224,13 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE ENERO DE 2020.
+
+> <small>[N. DE E. TRANSITORIO “DECRETO 27518/LXII/19 QUE REFORMA EL ARTÍCULO 11 DE LA LEY PARA LAS PERSONAS CON TRASTORNOS DEL ESPECTRO DEL AUTISMO EN EL ESTADO DE JALISCO”.]</small>
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
