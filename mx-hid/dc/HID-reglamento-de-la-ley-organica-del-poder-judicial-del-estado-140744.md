@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-ley-organica-del-poder-judicial-del-estado-140
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-12-16"
-last_updated: "2019-12-16"
+last_updated: "2020-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ENERO DE 2020 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE ENERO DE 2020.]</small>
 
 Reglamento publicado en el Alcance del Número 50 del Periódico Oficial del Estado de Hidalgo, el lunes 16 de diciembre de 2019.
 
@@ -477,7 +477,9 @@ VII. Conceder audiencias a los interesados en los asuntos que conozcan, siempre 
 
 VIII. Las demás que señalen las disposiciones aplicables.
 
-### Capítulo IV (SIC). De las Salas
+> <small>(F. DE E., P.O. 27 DE ENERO DE 2020)</small>
+
+### Capítulo V. De las Salas
 
 ###### Artículo 66.
 
@@ -629,7 +631,9 @@ VI. Hacer uso eficiente de los recursos materiales asignados, y
 
 VII. Las demás que señalen las disposiciones aplicables.
 
-### Capítulo V. De la Secretaria o Secretario General
+> <small>(F. DE E., P.O. 27 DE ENERO DE 2020)</small>
+
+### Capítulo VI. De la Secretaria o Secretario General
 
 ###### Artículo 72.
 
@@ -743,7 +747,9 @@ Para el desempeño de sus funciones, la Secretaria o Secretario General, podrá 
 
 La secretaria o secretario auxiliar de la Secretaría General del Tribunal Superior de Justicia podrá firmar los documentos oficiales en ausencia de la secretaria o secretario general, previa autorización por escrito de éste, en el que se indicarán los días que quedará facultada para firmar.
 
-### Capítulo VI. De los Juzgados del Fuero Común
+> <small>(F. DE E., P.O. 27 DE ENERO DE 2020)</small>
+
+### Capítulo VII. De los Juzgados del Fuero Común
 
 ###### Artículo 75.
 
@@ -771,7 +777,9 @@ Los libros de gobierno son confidenciales, razón por la cual, solo tendrá acce
 
 El libro que contenga el índice, podrá ser consultado por el público en general.
 
-### Capítulo VII. De las Juezas y Jueces del Fuero Común
+> <small>(F. DE E., P.O. 27 DE ENERO DE 2020)</small>
+
+### Capítulo VIII. De las Juezas y Jueces del Fuero Común
 
 ###### Artículo 80.
 
@@ -905,7 +913,9 @@ Las Juezas y Jueces de Control, de Juicio Oral y de Ejecución de la materia Esp
 
 Las adscripciones de las Juezas y Jueces se harán por el Consejo de la Judicatura, cuyos integrantes en sesión plenaria expondrán las razones en favor o en contra del proyecto de adscripciones, aportando en su caso las pruebas conducentes, siendo la Presidenta o el Presidente del Consejo de la Judicatura quien tenga la decisión final en caso de desacuerdos.
 
-### Capítulo VIII. De las Secretarias, Secretarios, Actuarias, Actuarios y demás personal de los Juzgados
+> <small>(F. DE E., P.O. 27 DE ENERO DE 2020)</small>
+
+### Capítulo IX. De las Secretarias, Secretarios, Actuarias, Actuarios y demás personal de los Juzgados
 
 ###### Artículo 91.
 
