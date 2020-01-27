@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-11063
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-27"
-last_updated: "2019-12-20"
+last_updated: "2020-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 27 de noviembre de 2015.
 
@@ -1699,9 +1699,9 @@ III. Promover la libre manifestación de ideas de niñas, niños y adolescentes 
 
 IV. Ser enlace entre la administración pública municipal y niñas, niños y adolescentes que deseen manifestar inquietudes;
 
-V. Recibir quejas y denuncias por violaciones a los derechos contenidos en la presente Ley y demás disposiciones aplicables, así como canalizarlas de forma inmediata a la Procuraduría de Protección que corresponda, sin perjuicio que ésta pueda recibirla directamente;
+V. (DEROGADA, P.O. 27 DE ENERO DE 2020)
 
-VI. Auxiliar a la Procuraduría de Protección competente en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones;
+VI. (DEROGADA, P.O. 27 DE ENERO DE 2020)
 
 VII. Promover la celebración de convenios de coordinación con las autoridades competentes, así como con otras instancias públicas o privadas, para la atención y protección de niñas, niños y adolescentes;
 
@@ -1719,9 +1719,7 @@ XIII. Impulsar la participación de las organizaciones privadas dedicadas a la p
 
 XIV. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el Sistema Estatal DIF.
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2019)</small>
-
-Para el cumplimiento de las atribuciones enumeradas en las fracciones anteriores, en especial las correspondientes a las Defensorías Municipales, adicionando las que se confieren en el artículo 168 bis 2, el Ejecutivo del Estado creará un fondo de apoyo municipal para la niñez, mismo que deberá incluir en la Ley de egresos que cada ejercicio fiscal envíe para su aprobación al Congreso Local, siendo distribuido conforme a las Reglas de Operación que emita para tal efecto.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE ENERO DE 2020)</small>
 
 ###### Artículo 137.
 
@@ -2397,15 +2395,23 @@ XX. Formular su Reglamento Interno; y
 
 XXI. Las demás que le otorguen otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2020)</small>
+
 ###### Artículo 168.
 
 El Municipio deberá contar con una Defensoría Municipal, la cual contará con un área de servidores públicos que fungirán como autoridad de primer contacto con niñas, niños o adolescentes y que serán el enlace con las instancias estatales y federales competentes.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 19 DE JUNIO DE 2017)</small>
+La Defensoría Municipal, coordinará a los servidores públicos municipales, cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de vulneración a los derechos contenidos en la presente Ley, debiendo dar vista a la Procuraduría de Protección en los términos de este artículo.
 
-La Defensoría Municipal, coordinará a los servidores públicos municipales, cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos contenidos en la presente Ley, se deberá dar vista a la Procuraduría de Protección competente en los términos del Reglamento.
+En su ejercicio las Defensorías Municipales recibirán las quejas y denuncias por la vulneración a los derechos contenidos en la presente Ley y demás disposiciones aplicables llevando a cabo el procedimiento descrito en el presente artículo, sin perjuicio que la Procuraduría de Protección pueda recibirlos directamente.
 
-Asimismo, deberá ejercer, sin perjuicio de otras que dispongan las leyes del Estado de Nuevo León, las atribuciones previstas en el artículo 136 de esta Ley.
+Bajo el ámbito de las atribuciones municipales que le correspondan auxiliarán a la Procuraduría de Protección.
+
+Para el cumplimiento de las atribuciones citadas en este artículo, el Ejecutivo del Estado creará un fondo de apoyo municipal para la niñez, el cual será aplicado exclusivamente para el fortalecimiento de las defensorías municipales, debiéndose priorizar en el recurso humano, para la conformación de los equipos multidisciplinarios y especializados mencionados en el artículo 168, mismos que deberán dar atención las 24 horas. Adicionalmente podrá ser utilizado para su capacitación y certificación en la materia y posteriormente invertirse en la infraestructura y equipos necesarios para la óptima operación de las defensorías municipales correspondientes.
+
+En lo referente a los equipos multidisciplinarios, citados en el párrafo anterior deberá crearse un equipo por cada 40 mil niñas, niños y adolescentes.
+
+El fondo referido en este artículo, será incluido en la Ley de Egresos que cada ejercicio fiscal envíe el Ejecutivo para su aprobación al Congreso Local, siendo distribuido conforme a las Reglas de Operación que emita el sistema DIF a través de la Procuraduría de Protección para tal efecto. La ejecución pormenorizada del gasto deberá ser informada en la cuenta pública del ejercicio fiscal correspondiente.
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2017)</small>
 
@@ -2435,31 +2441,53 @@ III. Un trabajador social;
 
 IV. Un médico, que podrá ser de otra área del municipio; y
 
-V. Personal técnico y operativo necesario para el cumplimiento de las atribuciones que le confiere esta ley. Dicho personal puede ser integrante de la misma Defensoría o de otras áreas de atención del Municipio.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2020)</small>
+
+V. Personal técnico y operativo necesario para el cumplimiento de las atribuciones que le confiere esta ley. El equipo técnico de la defensoría municipal no podrá ser personal de otras áreas de atención del Municipio, con excepción del médico.
 
 En la inteligencia de que deberán contar con título y cédula profesional para el ejercicio de su profesión debidamente registrado y experiencia en la materia, así como no encontrarse inhabilitado como servidor público o no haber sido sentenciado por delito doloso.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2020)</small>
 
 ###### Artículo 168 Bis 2.
 
-Además de las mencionadas en los artículos 136 fracciones V, VI, VIII y XI, así como en el 168, la Defensoría Municipal ejercerá las siguientes atribuciones:
+Además de las mencionadas en los artículos 136 fracciones VIII y XI, así como en el 168, la Defensoría Municipal ejercerá las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2017)</small>
 
 I. Articular esfuerzos de las autoridades municipales para restituir los derechos vulnerados, que estén dentro de sus competencia (sic), según las leyes y reglamentos aplicables;
 
-II. Recibir quejas y denuncias por violaciones a los derechos contenidos en la presente Ley y demás disposiciones aplicables, así como canalizarlas de forma inmediata a la Procuraduría de Protección que corresponda, sin perjuicio de que ésta pueda recibirlas y atenderlas directamente, conforme a lo establecido en el Reglamento de esta Ley;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2020)</small>
+
+II. Auxiliar a la Procuraduría de Protección en las medidas que ésta determine en el ámbito de sus atribuciones municipales y coordinarán las acciones que correspondan;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2017)</small>
 
 III. Elaborar un diagnóstico para verificar la situación de violación de derechos de niñas, niños y adolescentes que hayan sido denunciados, así como una propuesta de plan de restitución de derechos, bajo el principio del interés superior de la niñez;
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2017)</small>
+
 IV. Solicitar a la Procuraduría de Protección la revisión de la medida a la que hace referencia el artículo 118 de la presente Ley, cuando del seguimiento de los casos se desprenda que existen elementos para modificarla;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2017)</small>
 
 V. Establecer mecanismos de comunicación accesibles para que niñas, niños y adolescentes puedan tener contacto con las autoridades municipales y de reportar la violación de alguno de sus derechos sin la necesidad de la intervención de un adulto;
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2017)</small>
+
 VI. Girar citatorios, realizar pesquisas, ordenar las evaluaciones del equipo técnico, así como las gestiones necesarias para el cumplimiento de sus funciones;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2017)</small>
 
 VII. Rendir informe de los casos que la Procuraduría de Protección le solicite seguimiento y atención municipal; y
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2017)</small>
+
 VIII. Las demás que le otorguen las leyes federales, estatales o reglamentos municipales aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2020)</small>
+
+Las defensorías municipales deberán, de acuerdo, a la población de niñas, niños y adolescentes de su demarcación, contar con atención permanente para las quejas y denuncias sobre vulneraciones a los derechos contenidos en esta ley.
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2017)</small>
 
@@ -2750,3 +2778,35 @@ P.O. 20 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 197. SE MODIFICA (SIC) LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 75 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 218. SE REFORMAN EL ARTÍCULO 168; LA FRACCIÓN V DEL ARTÍCULO 168 BIS I; EL PÁRRAFO PRIMERO Y SU FRACCIÓN SEGUNDA DEL ARTÍCULO 168 BIS 2; SE ADICIONA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 168 BIS 2; Y SE DEROGAN LAS FRACCIONES V Y VI DEL PÁRRAFO PRIMERO Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 136, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- A partir de la entrada en vigor del presente Decreto se derogan todas aquellas disposiciones que contravengan la presente Ley.
+
+Tercero.- Los recursos del fondo a que se refiere el artículo 168 de este Decreto, se destinarán a las Defensorías Municipales para la atención inmediata y oportuna de las quejas y denuncias que se reciban por vulneración de derechos de niñas, niños y adolescentes para su debida restitución, así como al seguimiento solicitado por la Procuraduría de Protección en cumplimiento de las resoluciones dictadas en el ámbito de su competencia, contando para ello con los recursos humanos capacitados y suficientes en proporción de la población total menor de edad de cada municipio.
+
+Cuarto.- Las reglas de operación a la que se hace referencia en el artículo 168 deberán publicarse antes del 1 de febrero del 2020.
+
+Quinto.- Las reglas de operación que para tal efecto emita el Sistema DIF a través de la Procuraduría de Protección, se ejercerá de manera anual de conformidad con las siguientes bases:
+
+A. El recurso deberá ser entregado durante los primeros 3-tres meses del año;
+
+B. La distribución será partiendo de un piso igual para todos los municipios de $450,000.00 (cuatrocientos cincuenta mil pesos), para cada uno de ellos; y
+
+C. Una vez distribuidos los recursos conforme a la Base B a los 51 municipios, el resto de los recursos se distribuirá de acuerdo a lo siguiente:
+
+1) Se tomará como base la información más reciente publicada por el INEGI a fin de determinar el total de personas menores de 18 años que habitan en el Estado, respecto al total de la población;
+
+2) Se determinará el porcentaje de la población de personas menores de 18 años que habitan en cada municipio, respecto al total de personas que pertenezcan a ese grupo en el Estado.
+
+3) Se aplicará este porcentaje al monto total del resto de los recursos a repartir correspondientes a esta BASE, para determinar la cantidad de ese fondo que corresponda a cada municipio, de acuerdo con lo siguiente:
+
+Recursos correspondientes a Municipio=% de menores de 18 años en el municipio respecto al total en el estado por el total de (sic) resto de recursos a repartir en el ejercicio fiscal de que se trate.
+
+Sexto.- El ejercicio del monto asignado a las Defensorías Municipales, podrá ser ejercido durante doce meses siguientes a partir de la fecha en que sea radicado a la autoridad municipal.
+
+Séptimo.- Para el cumplimiento de las disposiciones de este Decreto, deberá de preverse la partida presupuestal correspondiente en la Ley de Egresos del Estado de Nuevo León.
