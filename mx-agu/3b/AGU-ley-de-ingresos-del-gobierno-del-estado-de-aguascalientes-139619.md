@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-gobierno-del-estado-de-aguascalientes-13961
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-27"
-last_updated: "2019-12-27"
+last_updated: "2020-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY DE INGRESOS DEL GOBIERNO DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2020
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ENERO DE 2020 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2020.
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 27 DE ENERO DE 2020]</small>
 
 Ley publicada en la Primera Sección al Número 37 del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de diciembre de 2019.
 
@@ -119,7 +119,7 @@ Por los servicios prestados por las Autoridades de la Secretaría de Gestión Ur
 
 Por los servicios que prestan las oficinas del Registro Público de la Propiedad y del Comercio, se causarán y pagarán los derechos establecidos en el presente Capítulo, aplicando las siguientes tarifas:
 
-> <small>[N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 27 DE DICIEMBRE DE 2019, PÁGINAS DE LA 18 A LA 20.]</small>
+> <small>[N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 27 DE DICIEMBRE DE 2019, PÁGINAS DE LA 18 A LA 20; F. DE E., P.O. 27 DE ENERO DE 2020, PÁGINAS DE LA 5 A LA 6.]</small>
 
 ### CAPÍTULO VII. Del Instituto Catastral
 
@@ -597,7 +597,7 @@ T R A N S I T O R I O S
 
 El Presente Decreto entrará en vigencia al día 1º de enero de 2020.
 
-Dado en el Salón de Sesiones “Soberana Convención Revolucionaria de Aguascalientes”, a los cinco días del mes de diciembre del año dos mil diecinueve.
+Dado en el Salón de Sesiones "Soberana Convención Revolucionaria de Aguascalientes", a los cinco días del mes de diciembre del año dos mil diecinueve.
 
 Por lo tanto, el Congreso ordena se imprima, publique y se le dé el debido cumplimiento.
 
@@ -621,4 +621,12 @@ DIPUTADA SEGUNDA SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 23 de diciembre de 2019.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Ricardo Enrique Morán Faz.- Rúbrica.
 
-> <small>[N. DE E. VÉASE ANEXO DE INGRESOS POR FUENTE DE FINANCIAMIENTO, CONFORME EL ARTÍCULO 41 DE LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, EN LA PRIMERA SECCIÓN DEL P.O. DE 27 DE DICIEMBRE DE 2019, PÁGINA 211.]</small>
+> <small>[N. DE E. VÉASE ANEXO DE INGRESOS POR FUENTE DE FINANCIAMIENTO, CONFORME EL ARTÍCULO 41 DE LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, EN LA PRIMERA SECCIÓN DEL P.O. DE 27 DE DICIEMBRE DE 2019, PÁGINA 211; F. DE E., P.O. 27 DE ENERO DE 2020, PÁGINA 7.]</small>
+
+> <small>(F. DE E., P.O. 27 DE ENERO DE 2020)</small>
+
+> <small>[N. DE E. VÉASE ANEXO DE PROYECCIONES DE LAS FINANZAS PÚBLICAS, CONFORME EL ARTÍCULO 5° DE LA LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS, EN LA PRIMERA SECCIÓN DEL P.O. DE 27 DE ENERO DE 2020, PÁGINA 8.]</small>
+
+> <small>(F. DE E., P.O. 27 DE ENERO DE 2020, PÁGINA 7)</small>
+
+> <small>[N. DE E. VÉASE ANEXO DE RESULTADOS DE LAS FINANZAS PÚBLICAS, CONFORME EL ARTÍCULO 5° DE LA LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS, EN LA PRIMERA SECCIÓN DEL P.O. DE 27 DE ENERO DE 2020, PÁGINA 9.]</small>
