@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-presupuesto-y-50856"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-28"
-last_updated: "2016-03-30"
+last_updated: "2020-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50856&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-06-27"
 
 REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2020.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el miércoles 28 de junio de 2006.
 
@@ -3237,9 +3237,13 @@ Cuando la entidad no ejerza con oportunidad los recursos comprometidos, o no cum
 
 #### SECCIÓN IV. Del financiamiento con crédito multilateral
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2020)</small>
+
 ###### Artículo 162.
 
-Las dependencias, con base en su presupuesto aprobado o modificado autorizado, a través del agente financiero, podrán utilizar el sistema de desembolsos establecido con los organismos financieros internacionales conforme a lo que determine la Secretaría.
+La Secretaría designará a un agente financiero para que intervenga en los créditos externos sólo cuando se contraten para financiar total o parcialmente programas o proyectos de inversión de las dependencias, y dichos créditos hayan sido sometidos a consideración del Comité de Crédito Externo, de conformidad con lo dispuesto en el artículo 36 de la Ley.
+
+Las dependencias, con base en su presupuesto aprobado o modificado autorizado, a través del agente financiero designado por la Secretaría, podrán utilizar el sistema de desembolsos establecido con los organismos financieros internacionales, conforme a lo que determine la propia Secretaría.
 
 Las dependencias deberán emitir cuentas por liquidar certificadas que no impliquen salida de recursos para registrar presupuestariamente las erogaciones realizadas con base en la documentación comprobatoria de respaldo para la continuación de los programas y proyectos.
 
@@ -3249,15 +3253,19 @@ La dependencia registrará en el sistema de administración financiera federal l
 
 En caso de que las diferencias en el tipo de cambio rebasen las previsiones del presupuesto aprobado o modificado autorizado no se autorizarán ampliaciones para su pago, por lo que se cubrirán con cargo al presupuesto disponible de la dependencia, para lo que deberán realizar las adecuaciones presupuestarias correspondientes en los términos de los artículos 93 al 97 de este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2020)</small>
+
 ###### Artículo 164.
 
-Las dependencias solicitarán a los agentes financieros tramitar los desembolsos del crédito externo con la información comprobatoria de los pagos realizados, a fin de que éstos verifiquen que el desembolso solicitado corresponde a componentes elegibles de financiamiento y que las contrataciones de bienes, obras y servicios cumplen con los requisitos exigidos por los organismos financieros internacionales para considerarlos elegibles de desembolso del crédito externo.
+Las dependencias solicitarán a los agentes financieros designados por la Secretaría, tramitar los desembolsos del crédito externo con la información comprobatoria de los pagos realizados, a fin de que éstos verifiquen que el desembolso solicitado corresponde a componentes elegibles de financiamiento y que las contrataciones de bienes, obras y servicios cumplen con los requisitos exigidos por los organismos financieros internacionales para considerarlos elegibles de desembolso del crédito externo.
 
-Los agentes financieros, una vez que cuenten con la información comprobatoria de los pagos realizados que presenten las dependencias, deberán preparar las solicitudes y efectuarán los desembolsos de los créditos externos conforme a los procedimientos convenidos con los organismos financieros internacionales.
+Los agentes financieros designados por la Secretaría, una vez que cuenten con la información comprobatoria de los pagos realizados que presenten las dependencias, deberán preparar las solicitudes y efectuarán los desembolsos de los créditos externos conforme a los procedimientos convenidos con los organismos financieros internacionales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2020)</small>
 
 ###### Artículo 165.
 
-Los agentes financieros remitirán trimestralmente a la Secretaría un reporte que refleje el ejercicio de los recursos de los programas y proyectos financiados total o parcialmente con crédito externo, incluidos los montos desembolsados por programa o proyecto, categoría de inversión y ejecutor.
+Los agentes financieros designados por la Secretaría, remitirán a ésta un reporte trimestral que refleje el ejercicio de los recursos de los programas y proyectos financiados total o parcialmente con crédito externo, incluidos los montos desembolsados por programa o proyecto, categoría de inversión y ejecutor.
 
 Las dependencias deberán informar a la Secretaría, dentro de los 15 primeros días naturales de los meses de marzo y julio, el ejercicio de los recursos de los programas y proyectos financiados total o parcialmente con crédito externo conforme a las claves presupuestarias y estructura programática aprobadas.
 
@@ -3273,9 +3281,11 @@ Las dependencias solicitarán a por lo menos dos instituciones de la banca de de
 
 El oficio de liberación de inversión deberá señalar que la operación comercial será pagada total o parcialmente a través de crédito externo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2020)</small>
+
 ###### Artículo 167.
 
-Para la designación de agente financiero, las dependencias solicitarán la autorización de la Secretaría, la cual autorizará, en su caso, los términos y condiciones financieras definitivas que aplicarán al crédito bilateral a utilizarse.
+Las dependencias solicitarán de la Secretaría la autorización de los términos y condiciones financieras definitivas que aplicarán al crédito bilateral a utilizarse.
 
 Las dependencias deberán incluir e indicar en las bases de licitación y en los contratos comerciales que las adquisiciones serán pagadas al proveedor con recursos provenientes de crédito externo.
 
@@ -3285,9 +3295,11 @@ La Tesorería, al recibir por el sistema de administración financiera federal l
 
 El costo financiero por el uso del crédito bilateral se cubrirá con cargo al ramo general correspondiente a deuda pública, siempre y cuando se cuente con la autorización previa de la Secretaría; de lo contrario, los gastos adicionales derivados de los servicios bancarios se cubrirán con cargo al presupuesto de la dependencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2020)</small>
+
 ###### Artículo 169.
 
-Cuando el crédito bilateral no se ejerza, las dependencias solicitarán a la Tesorería la cancelación de los recursos consignados en la cuenta por liquidar certificada mediante la emisión del aviso de reintegro, anexando a éste el oficio de cancelación expedido por el agente financiero y el formulario múltiple de pagos referido en el artículo anterior, a efecto de que se reintegren los recursos a las líneas globales por los importes no ejercidos.
+Cuando el crédito bilateral no se ejerza, las dependencias solicitarán a la Tesorería la cancelación de los recursos consignados en la cuenta por liquidar certificada mediante la emisión del aviso de reintegro, anexando a éste el oficio de cancelación y el formulario múltiple de pagos referido en el artículo anterior, a efecto de que se reintegren los recursos a las líneas globales por los importes no ejercidos.
 
 En caso de que el reintegro exceda las fechas de cierre presupuestario, las dependencias deberán efectuar las rectificaciones que correspondan, conforme a las disposiciones generales que emita la Secretaría.
 
@@ -5024,3 +5036,9 @@ D.O.F. 30 DE MARZO DE 2016.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+D.O.F. 27 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
