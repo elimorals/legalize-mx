@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-administracion-publica-municipal-9639
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-21"
-last_updated: "2019-12-09"
+last_updated: "2020-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2020.
 
 Reglamento publicado en el Número 42 del Periódico Oficial del Estado de Hidalgo, el lunes 21 de octubre de 2013.
 
@@ -2599,9 +2599,9 @@ XVI. Promover la simplificación de normas y trámites que inhiban el desarrollo
 
 XVII. Operar, organizar y actualizar el Sistema Municipal de Información Económica y de Registro Estadístico Empresarial, así como el Sistema de Apertura Rápida de Empresas;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2020)</small>
 
-XVIII. Autorizar las Licencias de funcionamiento para los establecimientos mercantiles de mediano riesgo y someter a la consideración del Secretario de Desarrollo Económico los expedientes y proyectos de Licencia para giros de alto riesgo;
+XVIII. Autorizar las Licencias de funcionamiento para los establecimientos mercantiles que operen giros especiales;
 
 > <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -3558,3 +3558,13 @@ SÉPTIMA. Los trámites iniciados antes de la vigencia de estas reformas se reso
 OCTAVA. Los establecimientos que al inicio de la vigencia de las presentes reformas estén funcionando sin la Licencia respectiva deberán presentar su Solicitud a más tardar dentro del primer trimestre del ejercicio fiscal 2020, con el objeto de obtener la Licencia respectiva.
 
 En caso de que el Giro Principal no pueda ser autorizado en la ubicación donde esté operando el establecimiento, el Titular podrá optar por cambiar la actividad económica a alguna de ellas que estén permitidas o sean condicionadas en atención al uso de suelo aplicable, tramitando la Solicitud respectiva.
+
+P.O. 28 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO TREINTA Y SEIS DECRETO POR EL QUE SE REFORMA EL DECRETO DE CREACIÓN DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS; SE REFORMA EL REGLAMENTO PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES Y ESPECTÁCULOS PÚBLICOS; SE REFORMA EL REGLAMENTO DE MEJORA REGULATORIA; SE REFORMA EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; SE REFORMA EL REGLAMENTO DE PROTECCIÓN CIVIL; Y SE REFORMA EL REGLAMENTO DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE, TODOS DE PACHUCA DE SOTO, HIDALGO”.]
+
+PRIMERA. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDA. Se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERA. Los giros considerados como de mediano y alto riesgo en el Catálogo Municipal de Actividades Económicas se considerarán especiales y el resto ordinarios.
