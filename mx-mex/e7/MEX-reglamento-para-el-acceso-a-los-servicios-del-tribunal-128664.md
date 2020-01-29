@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-el-acceso-a-los-servicios-del-tribunal-128664"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-04-11"
-last_updated: "2019-06-03"
+last_updated: "2020-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO PARA EL ACCESO A LOS SERVICIOS DEL TRIBUNAL ELECTRÓNICO DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE ENERO DE 2020.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el miércoles 11 de abril de 2018.
 
@@ -249,9 +249,11 @@ Cuando por fallas técnicas, propias del sistema del Tribunal Electrónico, no s
 
 Solicitud de Notificación Electrónica
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE ENERO DE 2020)</small>
+
 ###### Artículo 23.
 
-Una vez presentada la solicitud de notificación electrónica la autoridad jurisdiccional que conoce del asunto, procederá a realizar las notificaciones en términos de los artículos 1.93, 1.174, 1.174.1, 1.185 del Código de Procedimientos Civiles, 17, 51, 86 y 87 del Código Nacional de Procedimientos Penales.
+Una vez presentada la solicitud de notificación electrónica la Unidad Jurisdiccional que conoce del asunto, procederá a realizar las notificaciones en términos de los artículos 1.93, 1.174, 1.174.1, 1.185 del Código de Procedimientos Civiles, 17, 51, 86 y 87 del Código Nacional de Procedimientos Penales y del artículo 739 al 752, de las Notificaciones y 753 al 760 de los Exhortos y Despachos de la Ley Federal del Trabajo, vigente, y demás relativos y aplicables a la materia.
 
 En caso de resolver procedente la solicitud de notificación electrónica el módulo respectivo estará habilitado hasta que concluya el expediente o hasta que el usuario presente una promoción solicitando la cancelación del mismo.
 
@@ -368,3 +370,15 @@ CUARTO. Cualquier situación no prevista en el presente será resuelta por el Co
 QUINTO. El presente acuerdo entrará en vigor a partir del cuatro de junio de dos mil diecinueve.
 
 SEXTO. Por tratarse el presente de un Acuerdo de interés general, se determina su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado, en el Boletín Judicial y en la página de internet oficial del Poder Judicial del Estado de México.
+
+G.G. 29 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LOS LINEAMIENTOS PARA EL USO DEL TRIBUNAL ELECTRÓNICO EN MATERIA LABORAL, INTEGRACIÓN DEL EXPEDIENTE LABORAL ELECTRÓNICO Y NOTIFICACIÓN ELECTRÓNICA LABORAL DEL PODER JUDICIAL DEL ESTADO DE MÉXICO CONTENIDOS EN LA “CIRCULAR No. 07/2020” QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]
+
+PRIMERO. Publíquense los presentes Lineamientos en la Gaceta del Gobierno del Estado de México, en el Boletín Judicial y en la página de internet de esta Institución.
+
+SEGUNDO. El presente Acuerdo y los Lineamientos aprobados, entrarán en vigor, al día siguiente de su publicación en el Boletín Judicial.
+
+TERCERO. Se instruye a la Dirección de Tecnologías de Información, a los Tribunales Laborales, y áreas involucradas del Poder Judicial del Estado de México, adopten las medidas necesarias para el debido cumplimiento de los presentes Lineamientos.
+
+CUARTO. Publíquese el presente acuerdo y los Lineamientos aprobados, en el Boletín Judicial, así como en el portal IPOMEX del Poder Judicial del Estado de México.
