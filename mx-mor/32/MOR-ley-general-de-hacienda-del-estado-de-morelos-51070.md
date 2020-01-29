@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2019-03-27"
+last_updated: "2020-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE MARZO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -2699,9 +2697,7 @@ el holograma tipo E: 2.3757
 
 verificación con independencia del tipo: 2.3757
 
-1.3. Por el trámite de la Certificación
-
-de la Verificación Vehicular: 2.3757
+1.3. (DEROGADO, P.O. 29 DE ENERO DE 2020)
 
 2. Por otorgamiento de autorización por
 
@@ -2895,7 +2891,7 @@ impacto ambiental: 180.00
 
 III. En materia de mejoramiento ecosistémico:
 
-A) Venta de planta forestal de edad menor
+A) Venta de planta forestal y frutal de edad menor
 
 a un año, por unidad:
 
@@ -2913,7 +2909,7 @@ de 0.5 litros y hasta 1.36 litros
 
 (tamaño de 15x25): 0.10
 
-B) Venta de planta forestal de edad mayor
+B) Venta de planta forestal y frutal de edad mayor
 
 a un año, por unidad:
 
@@ -2929,35 +2925,9 @@ hasta 5.68 litros (tamaño 25x35): 0.30
 
 (tamaño 25x35) 1.00
 
-C) Venta de planta frutal para
+C) (DEROGADO, P.O. 29 DE ENERO DE 2020)
 
-beneficiarios del programa de
-
-concurrencia con entidades
-
-federativas (por unidad):
-
-1. Aguacate (Hass y selección Méndez): 0.50
-
-2. Limón persa: 0.50
-
-3. Naranja valencia: 0.50
-
-4. Higo Mission: 0.50
-
-5. Durazno (Diamante y Robin): 0.50
-
-D) Venta de planta frutal a público
-
-en general (por unidad):
-
-1. Aguacate (criollo): 0.25
-
-2. Limón persa: 0.50
-
-3. Naranja valencia: 1.00
-
-4. Higo Mission: 0.20
+D) (DEROGADO, P.O. 29 DE ENERO DE 2020)
 
 IV En materia de gestión integral de residuos:
 
@@ -2973,9 +2943,21 @@ función de su capacidad de transporte:
 
 1.1. Hasta 3.5 toneladas: 12.50
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+1.1.1. Por prórroga de la autorización 12.50
+
 1.2. De más de 3.5 y hasta 8 toneladas: 25.00
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+1.2.1. Por prórroga de la autorización 12.50
+
 1.3. De más de 8 toneladas: 50.00
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+1.3.1. Por prórroga de la autorización 25
 
 2. De tratamiento de residuos orgánicos,
 
@@ -2983,9 +2965,21 @@ por capacidad de almacenamiento:
 
 2.1. Hasta 30 toneladas: 12.50
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+2.1.1. Por prórroga de la autorización 6.25
+
 2.2. De más de 30 y hasta 60 toneladas: 25.00
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+2.2.1. Por prórroga de la autorización 12.05
+
 2.3. De más de 60 toneladas: 50.00
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+2.3.1. Por prórroga de la autorización 25.00
 
 3. De capacidad de almacenamiento
 
@@ -2995,9 +2989,21 @@ sólidos urbanos y de manejo especial:
 
 3.1. Hasta 30 toneladas: 12.50
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+3.1.1. Por prórroga de la autorización 12.50
+
 3.2. De más de 30 y hasta 60 toneladas: 25.00
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+3.2.1. Por prórroga de la autorización 12.50
+
 3.3. De más de 60 toneladas: 50.00
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+3.3.1. Por prórroga de la autorización 25
 
 4. De capacidad de tratamientos térmicos,
 
@@ -3007,9 +3013,21 @@ sólidos urbanos y de manejo especial:
 
 4.1. Hasta 30 toneladas: 27.50
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+4.1.1. Por prórroga de la autorización 13.75
+
 4.2. De más de 30 y hasta 60 toneladas: 33.00
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+4.2.1. Por prórroga de la autorización 16.50
+
 4.3. De más de 60 toneladas: 65.50
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+4.3.1. Por prórroga de la autorización 32.75
 
 5. De operación de un centro de transferencia
 
@@ -3019,17 +3037,33 @@ o disposición final de residuos sólidos:
 
 10 toneladas: 54.50
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+5.1.1. Por prórroga de la autorización 27.25
+
 5.2. Cantidad de residuos que ingresan de
 
 más de 10 y hasta 50 toneladas: 87.50
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+5.2.1. Por prórroga de la autorización 43.75
 
 5.3. Cantidad de residuos que ingresan de
 
 más de 50 y hasta 100 toneladas: 131.00
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+5.3.1. Por prórroga de la autorización 65.50
+
 5.4. Cantidad de residuos que ingresan más
 
 de 100 toneladas: 218.00
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+5.4.1. Por prórroga de la autorización 109
 
 6. De remediación de suelos contaminados
 
@@ -3051,9 +3085,11 @@ urbanos y de manejo especial:
 
 sólidos urbanos y de manejo especial: 20.00
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+
 7.2. Actualización cada tercer año posterior al
 
-registro: 9.00
+registro: 10
 
 7.3. Por cada metro cuadrado a constituir
 
@@ -3281,7 +3317,9 @@ C) Copia simple de documentos:
 
 1. Copia tamaño carta:
 
-1.1. Por la primer página: 0.0662
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+
+1.1. Por la primera página: 0.0662
 
 1.2. De la página 2 a la página 50,
 
@@ -3293,7 +3331,9 @@ por página: 0.0066
 
 2. Copia tamaño oficio:
 
-2.1. Por la primer página: 0.927
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+
+2.1. Por la primera página: 0.0927
 
 2.2. De la página 2 a la página 50,
 
@@ -3403,9 +3443,11 @@ arquitectónicos) sobre un predio,
 
 parcela o polígono: 7.9481
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+
 6. Sobre el potencial de
 
-redensificación (poblacional
+densificación (poblacional
 
 o de vivienda) sobre un predio,
 
@@ -3451,7 +3493,7 @@ así como para los centros de
 
 población que carezcan de ésta: 105.9743
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE MARZO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. CON SUS SUBNUMERALES], P.O. 29 DE ENERO DE 2020)</small>
 
 2. Autorización de fraccionamientos,
 
@@ -3467,65 +3509,65 @@ proyectos iguales o superiores a cien viviendas;
 
 de acuerdo con los siguientes criterios:
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 2.1. Densificación máxima
 
 permitida que se encuentre en el
 
-rango de 100 a 200 viviendas: 112.5977
+rango de 0 a 99 viviendas: 213.043
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 2.2. Densificación máxima
 
 permitida que se encuentre en
 
-el rango de 201 a 300 viviendas: 132.4679
+el rango de 100 a 200 viviendas: 112.5977
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 2.3. Densificación máxima
 
 permitida que se encuentre en
 
-el rango de 301 a 500 viviendas: 198.7018
+el rango de 201 a 300 viviendas: 132.4679
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 2.4. Densificación máxima
 
 permitida que se encuentre en
 
-el rango de 501 a 1000 viviendas: 331.1697
+el rango de 301 a 500 viviendas: 198.7018
 
-2.5. Redensificación máxima
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
-permitida que se encuentre en
-
-el rango de 1,001 a 2,500
-
-viviendas: 397.4036
-
-2.6. Redensificación máxima
+2.5. Densificación máxima
 
 permitida que se encuentre en
 
-el rango de 2,501 viviendas en
+el rango de 501 a 1000
 
-adelante: 529.8715
+viviendas: 331.1697
 
-2.7. Autorización de
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
-fraccionamientos, condominios
+2.6. Densificación máxima
 
-y conjuntos urbanos en áreas
+permitida que se encuentre en
 
-aptas para el desarrollo urbano,
+el rango de 1,001 a 2,500 viviendas: 397.4036
 
-para los proyectos que se encuentren
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
-en el rango de 100 a 500 viviendas: 165.5848
+2.7. Densificación máxima
+
+permitida que se encuentre en
+
+el rango de 2,501 viviendas en adelante: 529.8715
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 2.8. Autorización de
 
@@ -3539,7 +3581,9 @@ para los proyectos que se
 
 encuentren en el rango de
 
-501 a 1000 viviendas: 238.4422
+100 a 500 viviendas: 165.5848
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 2.9. Autorización de
 
@@ -3549,9 +3593,13 @@ y conjuntos urbanos en áreas
 
 aptas para el desarrollo urbano,
 
-que se encuentre en el rango de
+para los proyectos que se
 
-1,001 a 2,500 viviendas: 331.1697
+encuentren en el rango de
+
+501 a 1000 viviendas: 238.4422
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 2.10. Autorización de
 
@@ -3561,9 +3609,27 @@ y conjuntos urbanos en áreas
 
 aptas para el desarrollo urbano,
 
-que se encuentre en el rango de
+para los proyectos que se
 
-2,501 viviendas en adelante: 397.4036
+encuentre en el rango de
+
+1,001 a 2,500 viviendas: 331.1697
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+2.11. Autorización de
+
+fraccionamientos, condominios
+
+y conjuntos urbanos en áreas
+
+aptas para el desarrollo urbano,
+
+para los proyectos que se
+
+encuentre en el rango de
+
+2,501 viviendas: en adelante 397.4036
 
 3. Proyectos de ampliación de
 
@@ -3575,9 +3641,11 @@ y el incremento rebase los 5,000
 
 metros cuadrados de construcción: 172.2082
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+
 3.2. Cuando ya se tenga una
 
-evaluación de impacto, y se
+evaluación de impacto urbano, y se
 
 incrementen más de 2,500
 
@@ -3803,7 +3871,9 @@ estatal urbano barranca de
 
 Chapultepec:
 
-1. Admisión general 0.1241
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+
+1. Admisión general La cantidad en UMA equivalente a $10.00
 
 2. Adultos mayores y personas
 
@@ -3815,21 +3885,25 @@ por escuelas públicas de educación
 
 básica (sólo estudiantes) EXENTAS
 
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 29 DE ENERO DE 2020)</small>
+
 B) Atracciones concesionadas del
 
 parque estatal urbano barranca de
 
 Chapultepec:
 
-1. Herpetario: 0.1241
+1. Herpetario: La cantidad en UMA equivalente a $10.00
 
-2. Granjita paraíso: 0.1241
+2. Granjita paraíso: La cantidad en UMA equivalente a $10.00
 
-3. Eco lanchas: 0. 1241
+3. Eco lanchas: La cantidad en UMA equivalente a $10.00
 
-4. Tirolesa: 0.3723
+4. Tirolesa: La cantidad en UMA equivalente a $10.00
 
-5. Muro de escalar: 0.3723
+5. Muro de escalar: La cantidad en UMA equivalente a $10.00
+
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 29 DE ENERO DE 2020)</small>
 
 C) Atracciones propias del
 
@@ -3837,15 +3911,15 @@ parque estatal urbano barranca
 
 de Chapultepec:
 
-1. Tren: 0.1241
+1. Tren: La cantidad en UMA equivalente a $10.00
 
-2. Cabaña: 0.1241
+2. Cabaña: La cantidad en UMA equivalente a $10.00
 
-3. Planetario: 0.1241
+3. Planetario: La cantidad en UMA equivalente a $10.00
 
-4. Eurobongie: 0.3723
+4. Eurobongie: La cantidad en UMA equivalente a $10.00
 
-5. Telaraña 0.1241
+5. Telaraña La cantidad en UMA equivalente a $10.00
 
 D) Otros servicios del parque
 
@@ -3853,15 +3927,19 @@ estatal urbano barranca de
 
 Chapultepec:
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+
 1. Acceso a trotapista de
 
-6:00 a 9:00 (corredores) 0.0249
+6:00 a 9:00 (corredores) La cantidad en UMA equivalente a $2.00
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 2. Acceso a trotapista de
 
 6:00 a 9:00 horas paquete
 
-de 30 días (corredores): 0.6204
+de 30 días (corredores): La cantidad en UMA equivalente a $50.00
 
 3. Renta de local comercial
 
@@ -4779,8 +4857,6 @@ la fracción anterior: 2.00
 
 DE LOS SERVICIOS DE EXPEDICIÓN DE CONSTANCIAS POR (SIC) TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS PARA CONTRATACIÓN DE SERVIDORES PÚBLICOS Y CELEBRACIÓN DE CONTRATOS CON PARTICULARES.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
-
 ###### Artículo 106.
 
 (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
@@ -4835,17 +4911,7 @@ II. 69.00 UMA por semestre por espacio.
 
 ###### Artículo 108 Bis
 
-1. Por los servicios en materia del registro de antecedentes penales, expedición de Constancias de no antecedentes penales y de identificación vehicular, así como por la expedición de actas especiales, copias y certificaciones por parte de asesores jurídicos o Agentes del Ministerio Público se causarán y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
-
-Tarifa en UMA
-
-I. Constancias de no antecedentes penales: 2.00
-
-II. Baja en el registro de antecedentes penales: 2.00
-
-III. Constancia de identificación vehicular: 5.20
-
-IV. Actas especiales: 1.00
+1. (DEROGADO, P.O. 29 DE ENERO DE 2020)
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE MARZO DE 2019)</small>
 
@@ -4947,61 +5013,91 @@ Las copias certificadas que soliciten entre sí las diversas autoridades del Gob
 
 ### CAPITULO VIGÉSIMO SEGUNDO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE ADMINISTRACIÓN
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
-Artículo 114 Quintus. Los derechos por los servicios en materia de expedición de hojas de servicio y constancias de sueldo, derivado de la guarda y custodia de expedientes del personal, se causarán y se pagarán previamente por los servidores públicos activos e inactivos y a los beneficiarios de éstos, que hagan uso del servicio, en razón de una cantidad equivalente a 1.50 UMA, excepto cuando se trate de la primera expedición en el ejercicio fiscal que corresponda o que la solicitud corresponda a periodos por quinquenios.
+Artículo 114 Quintus. Los derechos por los servicios en materia de expedición de hojas de servicio y constancias de sueldo, derivado de la guarda y custodia de expedientes del personal, así como por la expedición de credencial de identificación, se causarán y pagarán previamente, en razón de una cantidad equivalente a 1.5 UMA, excepto cuando se trate de la primera expedición que corresponda en el periodo de su vigencia.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
-Artículo 114 Quintus-1. Los derechos causados por el avalúo de bienes inmuebles realizados por la comisión de avalúos de bienes estatales se causarán y se pagarán previamente por los interesados conforme a esta Ley:
+Artículo 114 Quintus-1. Los derechos causados por el avalúo de bienes inmuebles y muebles, aprobados por la Comisión de Avalúos de Bienes Estatales, se causarán y se pagarán previamente por los interesados conforme a esta Ley:
 
-I. Por emisión de dictámenes valuatorios individuales de terrenos urbanos, con base en superficie valuada:
+I. Por los dictámenes valuatorios individuales de terrenos urbanos, con base en superficie valuada:
 
-SUPERFICIE Tarifa en UMA
-
-DE: A:
-
-1M2 1000M2 57.00
-
-MONTO POR EXCEDENTE: 0.25 UMA POR CADA METRO CUADRADO
-
-II. Por emisión de dictámenes valuatorios por justipreciación de rentas de terrenos o terrenos con construcción propias se pagará un derecho por la cantidad equivalente a 43.00 UMA.
-
-III. Por emisión de dictámenes valuatorios por justipreciación de rentas de terrenos o terrenos con construcción de locales, oficinas etc. para uso propio, se pagará un derecho por la cantidad equivalente a 43.00 UMA, y
-
-IV. Por emisión de dictámenes valuatorios de terrenos o terrenos con construcción con valor comercial para adquisición o enajenación:
-
-SUPERFICIE Tarifa en UMA
+SUPERFICIE Tarifa en UMA´s
 
 DE: A:
 
-1M2 500M2 82.00
+1 M2 2000 M2 15.00
 
-MONTO POR EXCEDENTE: 0.3 UMA POR CADA METRO CUADRADO
+2001 M2 4000 M2 20.00
 
-V. Por emisión de dictámenes valuatorios de terrenos o terrenos con construcción con valor para indemnización por expropiación:
+4001 M2 6000 M2 25.00
 
-SUPERFICIE Tarifa en UMA
+DE 6001 M2 EN ADELANTE: 30.00
 
-DE: A:
+II. Por los dictámenes valuatorios por justipreciación de rentas de terrenos o terrenos con construcción propias se pagará un derecho por la cantidad equivalente a 20.00 UMA’s;
 
-1M2 500M2 57.00
+III. Por los dictámenes valuatorios por justipreciación de rentas de terrenos o terrenos con construcción de locales, oficinas o cualquier otro, para uso propio, se pagará un derecho por la cantidad equivalente a 20.00 UMA’s;
 
-MONTO POR EXCEDENTE: 0.15 UMA POR CADA METRO CUADRADO
+IV. Por los dictámenes valuatorios de terrenos o terrenos con construcción con valor comercial para adquisición o enajenación:
 
-VI. Por emisión de dictámenes valuatorios de terrenos o terrenos con construcción con estimación de valor en propiedad social:
-
-SUPERFICIE Tarifa en UMA
+SUPERFICIE Tarifa en UMA´s
 
 DE: A:
 
-1M2 500M2 57.00
+1 M2 3000 M2 35.00
 
-MONTO POR EXCEDENTE: 0.15 UMA POR CADA METRO CUADRADO
+3001 M2 6000 M2 40.00
 
-VII. Por emisión de actualización de dictámenes valuatorios de terrenos o terrenos con construcción de cualquier índole se pagará un derecho por la cantidad equivalente a 43.00 UMA.
+6001 M2 9000 M2 45.00
 
-VIII. Por emisión de ratificaciones de dictámenes valuatorios de bienes inmuebles se pagará un derecho por la cantidad equivalente a 21.00 UMA.
+DE 9001 M2 EN ADELANTE: 50.00
+
+V. Por los dictámenes valuatorios de terrenos o terrenos con construcción con valor para indemnización por expropiación:
+
+SUPERFICIE Tarifa en UMA´s
+
+DE: A:
+
+1 M2 3000 M2 15.00
+
+3001 M2 6000 M2 20.00
+
+6001 M2 9000 M2 25.00
+
+DE 9001 M2 EN ADELANTE: 30.00
+
+VI. Por la actualización de dictámenes valuatorios de terrenos o terrenos con construcción de cualquier índole, se pagará un derecho por la cantidad equivalente a 20.00 UMA’s;
+
+VII. Por la ratificación de dictámenes valuatorios de bienes inmuebles se pagará un derecho por la cantidad equivalente a 10.00 UMA’s;
+
+VIII. Por los dictámenes valuatorios de bienes muebles para conocer su valor comercial, de enajenación o de arrendamiento:
+
+UNIDADES O PIEZAS Tarifa en UMA´s
+
+DE: A:
+
+1 1000 15.00
+
+1001 2000 17.00
+
+2001 3000 19.00
+
+DE 3001 UNIDADES O PIEZAS EN ADELANTE: 21.00
+
+IX. Por los dictámenes valuatorios para baja o desecho de bienes muebles:
+
+UNIDADES O PIEZAS Tarifa en UMA´s
+
+DE: A:
+
+1 2000 10.00
+
+2001 4000 12.00
+
+4001 6000 14.00
+
+DE 6001 UNIDADES O PIEZAS EN ADELANTE: 16.00
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
@@ -5049,19 +5145,61 @@ Los solicitantes que proporcionen el material señalado en los incisos a) y b) d
 
 Artículo 114 Sextus. Los derechos por los servicios en materia de reservas territoriales, se causarán y se pagarán previamente por los interesados conforme a esta ley, con base en los términos siguientes:
 
-TARIFA EN UMA
+Tarifa en UMA´s
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 29 DE ENERO DE 2020)</small>
 
 I. POR LA MEDICIÓN DE SUPERFICIES EN CAMPO:
 
-A) PERIMETRAL POR METRO CUADRADO 0.01
+A) PERIMETRAL POR METRO CUADRADO
 
-B) CURVAS DE NIVEL POR METRO CUADRADO 0.01
+1 DE 0.00 A 2 000.00 M2 0.05
+
+2 DE 2 001.00 A 10 000.00 M2 0.04
+
+3 DE 10 001.00 M2 EN ADELANTE 0.02
+
+B) CURVAS DE NIVEL POR METRO CUADRADO
+
+1 DE 0.00 A 2 000.00 M2 0.05
+
+2 DE 2 001.00 A 10 000.00 M2 0.04
+
+3 DE 10 001.00 M2 EN ADELANTE 0.02
 
 C) BARRANCA POR METRO LINEAL 1.00
 
-D) LOTIFICACIONES POR LOTE 3.00
+D) LOTIFICACIONES POR LOTE
 
-E) REPLANTEO POR METRO CUADRADO 0.05
+1 URBANOS
+
+1.1 POR LOTE DE HASTA 200.00 M2 3.00
+
+1.2 POR LOTE DE HASTA 300.00 M2 5.00
+
+1.3 POR LOTE DE HASTA 600.00 M2 9.00
+
+1.4 POR LOTE DE 601.00 M2 EN ADELANTE 25.00
+
+2 RURALES
+
+2.1 POR LOTE DE HASTA 1.00 HA. 25.00
+
+2.2 POR LOTE DE HASTA 3.00 HA 33.00
+
+2.3 POR LOTE DE HASTA 5.00 HA 50.00
+
+2.4 POR LOTE DE HASTA 10.00 HA 66.00
+
+2.5 POR LOTE DE 10.00 HA EN ADELANTE 85.00
+
+E) REPLANTEO POR METRO CUADRADO
+
+1 DE 0.00 A 2 000.00 M2 0.05
+
+2 DE 2 001.00 A 10 000.00 M2 0.03
+
+3 DE 10 001.00 M2 EN ADELANTE 0.02
 
 II. VERIFICACIÓN DE SUPERFICIE EN CAMPO
 
@@ -5465,7 +5603,9 @@ DE $1,030.00 POR PLANA: 0.05
 
 2.2. POR CADA PLANA: 14.50
 
-Quedarán exentas del pago para la publicación a que se refieren las fracciones I inciso B) y II inciso B), numeral 1 de este artículo, cuando se trate de actos administrativos de carácter general, no individual, tales como Leyes, Decretos, Declaratorias, Reglamentos, Estatutos, Bandos, Planes y Programas, Acuerdos, Circulares, Formatos para uso de particulares, así como los Lineamientos, Criterios, Instructivos, Reglas, Manuales y disposiciones que expidan los Poderes Legislativo, Ejecutivo o Judicial, los ayuntamientos del Estado y otras autoridades federales o locales que tengan por objeto establecer derechos u obligaciones a los particulares; así como aquellos que por tener naturaleza análoga a los actos anteriores autorice la Secretaría, la que tendrá en todo caso la facultad de resolver sobre la interpretación de la presente disposición.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+
+Quedarán exentas del pago para la publicación a que se refieren las fracciones I, inciso B), y II, inciso B), numeral 1, de este artículo, cuando se trate de actos administrativos de carácter general, no individual, tales como Leyes, Decretos, Declaratorias, Reglamentos, Estatutos, Bandos, Planes y Programas, Acuerdos, Circulares, Formatos para uso de particulares; Lineamientos, Criterios, Instructivos, Reglas, Manuales y disposiciones que expidan los Poderes Legislativo, Ejecutivo o Judicial, los Ayuntamientos del Estado y otras autoridades federales o locales que tengan por objeto establecer derechos u obligaciones a los particulares y aquellos que por tener naturaleza análoga a los actos previstos anteriormente, autorice la Secretaría. La Secretaría tendrá la facultad de resolver sobre la exención a que alude este artículo.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -6018,3 +6158,13 @@ El presente Decreto entrará en vigor a partir del día siguiente a su publicaci
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 29 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS CINCUENTA Y NUEVE.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE MORELOS, DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS Y DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del 01 de enero de 2020, previa publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
