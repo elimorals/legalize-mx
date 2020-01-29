@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2018-03-21"
+last_updated: "2020-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -913,59 +913,39 @@ Por la promesa de enajenación de bienes que establecen las Fracciones II y XIII
 
 (DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, P.O. 5 DE JULIO DE 2006)
 
-### CAPITULO TERCERO. DEL IMPUESTO ADICIONAL
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2020)</small>
+
+### CAPITULO TERCERO
+
+DEL IMPUESTO ADICIONAL.
 
 ###### ARTICULO 119.
 
-Es objeto del impuesto adicional la realización de pagos por concepto de impuestos y derechos municipales previstos en la Ley de Ingresos del Municipio.
+(DEROGADO, P.O. 29 DE ENERO DE 2020)
 
 ###### ARTICULO 120.
 
-Son sujetos del impuesto adicional quienes tengan a su cargo, directa o solidariamente, los pagos a que se refiere el Artículo anterior.
+(DEROGADO, P.O. 29 DE ENERO DE 2020)
 
 ###### ARTICULO 121.
 
-Es base del impuesto los pagos por concepto de impuestos y derechos previstos en la Ley de Ingresos del Municipio.
+(DEROGADO, P.O. 29 DE ENERO DE 2020)
 
 ###### ARTICULO 122.
 
-La tasa general del impuesto será del 25% sobre la base que señala el Artículo 121 y su aplicación se hará según lo dispone el Artículo 123 de esta Ley.
-
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2016)</small>
+(DEROGADO, P.O. 29 DE ENERO DE 2020)
 
 ###### ARTICULO 123.
 
-El Impuesto adicional referido a:
-
-> <small>(F. DE E., P.O. 24 DE FEBRERO DE 2016)</small>
-
-a).- Impuesto de traslado de dominio, así como de los derechos sobre fraccionamientos se aplicará como sigue:
-
-I. El 15% se asigna para apoyo a educación;
-
-II. El 5% se asigna Pro-Universidad;
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
-
-III. El 2.5% se asigna al equipamiento y desarrollo de los Cuerpos de Bomberos Municipales, y
-
-IV. El 2.5% se asigna al FAEDE.
-
-Lo anterior se sumaría al 1.5% de los ingresos propios, participaciones federales e ingresos coordinados con que ya cuenta dicho fondo.
-
-> <small>(F. DE E., P.O. 24 DE FEBRERO DE 2016)</small>
-
-b).- Los demás impuestos y derechos.
-
-25% General para el Municipio.
+(DEROGADO, P.O. 29 DE ENERO DE 2020)
 
 ###### ARTICULO 124.
 
-El entero del impuesto se hará en el momento en que se realicen los pagos objeto del gravamen.
+(DEROGADO, P.O. 29 DE ENERO DE 2020)
 
 ###### ARTICULO 125.
 
-Este impuesto no será objeto de reducción, su aplicación se hará sobre la base del crédito principal.
+(DEROGADO, P.O. 29 DE ENERO DE 2020)
 
 ## TITULO TERCERO. DE LAS CONTRIBUCIONES ESPECIALES
 
@@ -3678,3 +3658,13 @@ P.O. 21 DE MARZO DE 2018.
 ###### ARTÍCULO PRIMERO.
 
 Remítase el presente Decreto al Titular del Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad", Órgano Oficial de Difusión del Gobierno del Estado de Morelos, de conformidad con lo dispuesto por los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 29 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO SEISCIENTOS SESENTA POR EL QUE SE DEROGAN LOS NUMERALES 119 AL 125 DE LA LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor rango que (sic) lo establecido en el presente Decreto.
