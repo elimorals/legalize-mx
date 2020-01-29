@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2019-11-12"
+last_updated: "2020-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -75,33 +75,37 @@ I. Asistencia Social: Al conjunto de acciones tendientes a modificar y mejorar l
 
 II. Atención Médica: El conjunto de servicios integrales para la prevención, tratamiento, curación y rehabilitación que se proporcionan a las Personas Adultas Mayores en todos los niveles, con el fin de proteger, promover y restaurar su salud;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2020)</small>
 
-III. Familia: Los parientes de las Personas Adultas Mayores, atendiendo a lo dispuesto por las reglas del parentesco estipuladas en el Código Civil del Estado de Nuevo León, así como el matrimonio y concubinato;
+III. Convivencia familiar: Es el ambiente de respeto, comprensión y cooperación que se da entre los familiares de la persona adulto mayor, con el único objetivo de que la persona adulta mayor ejerza su derecho de vivir en familia;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
-IV. Geriatría: A la especialidad médica dedicada al estudio, prevención, diagnóstico, tratamiento y rehabilitación de las enfermedades propias de las personas adultas mayores;
+IV. Familia: Los parientes de tas (sic) Personas Adultas Mayores, atendiendo a lo dispuesto por las reglas del parentesco estipuladas en el Código Civil del Estado de Nuevo León, así como el matrimonio y concubinato;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE ENERO DE 2020)</small>
 
-V. Gerontología: Al estudio integral del envejecimiento y de la vejez, sus causas, efectos y consecuencias en el ser humano;
+V. Geriatría: A la especialidad médica dedicada al estudio, prevención, diagnóstico, tratamiento y rehabilitación de las enfermedades propias de las personas adultas mayores;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE ENERO DE 2020)</small>
 
-VI. Instituto: Instituto Estatal de las Personas Adultas Mayores;
+VI. Gerontología: Al estudio integral del envejecimiento y de la vejez, sus causas, efectos y consecuencias en el ser humano;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE ENERO DE 2020)</small>
 
-VII. Integración social: Al resultado del conjunto de acciones que realizan las dependencias y entidades estatales o municipales o, en su caso, la sociedad civil organizada, encaminadas a modificar y superar las circunstancias que impidan a las personas adultas mayores su desarrollo integral;
+VII. Instituto: Instituto Estatal de las Personas Adultas Mayores;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE ENERO DE 2020)</small>
 
-VIII. Ley: A la Ley de los Derechos de las Personas Adultas Mayores del Estado de Nuevo León;
+VIII. Integración social: Al resultado del conjunto de acciones que realizan las dependencias y entidades estatales o municipales o, en su caso, la sociedad civil organizada, encaminadas a modificar y superar las circunstancias que impidan a las personas adultas mayores su desarrollo integral;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE ENERO DE 2020)</small>
 
-IX. Personas Adultas Mayores: Aquellas que tienen sesenta años o más de edad y que se encuentren domiciliadas o de paso en el Estado de Nuevo León; mismas que podrán estar en las siguientes condiciones:
+IX. Ley: A la Ley de los Derechos de las Personas Adultas Mayores del Estado de Nuevo León;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE ENERO DE 2020)</small>
+
+X. Personas Adultas Mayores: Aquellas que tienen sesenta años o más de edad y que se encuentren domiciliadas o de paso en el Estado de Nuevo León; mismas que podrán estar en las siguientes condiciones:
 
 a) Independientes: cuando sean aptas para desarrollar actividades físicas, mentales o ambas sin ayuda permanente.
 
@@ -113,9 +117,9 @@ d) En situación de riesgo o desamparo: cuando por problemas de salud, abandono,
 
 e) Pensionados: cuando en virtud de un sistema de seguridad social, tengan otorgada pensión.
 
-> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE ENERO DE 2020)</small>
 
-X.- Violencia contra las Personas Adultas Mayores: Cualquier acción u omisión que le cause daño o sufrimiento, psicológico, físico, sexual, patrimonial o económico.
+XI. Violencia contra las Personas Adultas Mayores: Cualquier acción u omisión que le cause daño o sufrimiento, psicológico, físico, sexual, patrimonial o económico.
 
 > <small>(ADICIONADO, P.O. 3 DE MAYO DE 2019)</small>
 
@@ -549,9 +553,17 @@ X. Convocar a las dependencias y entidades de las administraciones públicas est
 
 XI. Impulsar la creación de institutos municipales de atención a las personas adultas mayores;
 
-XII. Celebrar convenios, contratos, acuerdos y todo tipo de actos jurídicos que sean necesarios para el cumplimiento de su objeto; y
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
-XIII. Las demás que establezca esta ley o que sean necesarias para el cumplimiento del objeto del Instituto, y las que establezcan otros ordenamientos jurídicos.
+XII. Celebrar convenios, contratos, acuerdos y todo tipo de actos jurídicos que sean necesarios para el cumplimiento de su objeto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2020)</small>
+
+XIII. Analizar, planear, diseñar e ¡implementar (sic) políticas públicas orientadas al uso de nuevas tecnologías; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ENERO DE 2020)</small>
+
+XIV. Las demás que establezca esta Ley o que sean necesarias para el cumplimiento del objeto del Instituto, y las que establezcan otros ordenamientos jurídicos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE ENERO DE 2018)</small>
 
@@ -929,6 +941,14 @@ XII. Emplear, para hacer cumplir sus determinaciones cualesquiera de los medios 
 
 XIII. Las demás que le determine el Titular del Poder Ejecutivo del Estado, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, O.P.D., el Reglamento Interior y otras disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+###### Artículo 51 Bis.
+
+La Procuraduría de la Defensa del Adulto Mayor actuará como supervisor de convivencia familiar cuando la persona adulta mayor por razones de aislamiento social involuntario se encuentre limitado de convivir con su familia o círculo de amistades.
+
+Para atender lo ordenado en el párrafo anterior, bastará con la acreditación por parte de un familiar directo de que la persona adulta mayor se encuentra aislada de manera involuntaria. La convivencia deberá llevarse a cabo en el lugar donde la persona adulta mayor le resulte seguro y práctico para su desenvolvimiento personal y familiar.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2005)</small>
 
 ### CAPÍTULO II. DE LA ESTRUCTURA ORGÁNICA Y FUNCIONAL DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR
@@ -1130,3 +1150,13 @@ P.O. 12 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 189. SE ADICIONA UNA ÚLTIMA FRACCIÓN AL ARTÍCULO 3° BIS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 29 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 258. SE REFORMAN LAS FRACCIONES DE LA III A LA XI EL ARTÍCULO 3°; LAS FRACCIONES XII Y XIII DEL ARTÍCULO 24; Y POR ADICIÓN LA FRACCIÓN XI DEL ARTÍCULO 3°; LA FRACCIÓN XIV DEL ARTÍCULO 24 Y EL ARTÍCULO 51 BIS, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrara en vigor el día 1° de enero de 2020.
+
+Segundo.- El Instituto Estatal de las Personas Adultas Mayores, tendrá 90 días a partir de haber entrado en vigor el presente Decreto para analizar, planear, diseñar e implementar las políticas públicas orientadas al uso de nuevas tecnologías para las personas adultas mayores.
+
+Tercero.- Las acciones que realicen las dependencias de la Administración Pública del Estado que correspondan para dar cumplimiento al presente Decreto, se ajustarán en todo momento a lo señalado en los artículos 10 y 13 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
