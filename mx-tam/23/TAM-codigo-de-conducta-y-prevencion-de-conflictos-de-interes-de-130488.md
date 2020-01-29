@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-130
 country: "mx"
 rank: "codigo"
 publication_date: "2018-08-16"
-last_updated: "2018-08-16"
+last_updated: "2020-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2019.
 
 Código publicado en el Número 99 del Periódico Oficial del Estado de Tamaulipas, el jueves 16 de agosto de 2018.
 
@@ -253,7 +253,9 @@ ATENTAMENTE.- EL SECRETARIO DE SEGURIDAD PÚBLICA.- CONTRALMIRANTE AUGUSTO CRUZ 
 
 CARTA COMPROMISO
 
-He recibido el Código de Conducta y Prevención de Conflictos de Interés de la Secretaría de Seguridad Pública del Estado de Tamaulipas y conozco el contenido de las Reglas de Integridad para el Ejercicio de la Función Pública que deberán ser observadas por las y los servidores públicos de todas las Dependencias y Entidades del Poder Ejecutivo del Estado de Tamaulipas y del Código de Ética de las y los Servidores Públicos del Poder Ejecutivo del Estado de Tamaulipas, publicados en los periódicos oficiales del Estado de fechas 30 de mayo y 19 de diciembre de 2017, respectivamente, comprometiéndome a cumplir y vigilar su plena observancia, para ser cada vez mejor y enaltecer a mi institución como el mejor lugar para trabajar.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2019)</small>
+
+Quedo enterado que el Código de Conducta y Prevención de Conflictos de Interés de la Secretaría de Seguridad Pública del Estado de Tamaulipas, así como las Reglas de Integridad para el Ejercicio de la Función Pública que deben ser observadas por las y los servidores públicos de todas las Dependencias y Entidades del Poder Ejecutivo del Estado de Tamaulipas y el Código de Ética de las y los Servidores Públicos del Poder Ejecutivo del Estado de Tamaulipas, están disponibles para consulta en el hipervínculo https://www.tamaulipas.gob.mx/seguridadpublica/2018/08/comitedeetica/ y publicados en los periódicos oficiales del Estado de fechas 30 de mayo y 19 de diciembre de 2017, respectivamente, comprometiéndome a cumplir y vigilar su plena observancia, para ser cada vez mejor y enaltecer a mi Institución como el mejor lugar para trabajar.
 
 Fecha: ________________________
 
@@ -262,3 +264,17 @@ Nombre completo: ______________
 Unidad administrativa: ___________
 
 Firma: _________________________
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE MODIFICA EL FORMATO DE CARTA COMPROMISO A EFECTO DE SEÑALAR EL HIPERVÍNCULO DONDE PUEDEN SER LOCALIZADOS EL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS, LAS REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA Y EL CÓDIGO DE ÉTICA DE LAS Y LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deja sin efecto la Carta Compromiso inserta en el Código de Conducta y Prevención de Conflictos de Interés de la Secretaría de Seguridad Pública publicado en el Periódico Oficial del Estado No. 99 de fecha 16 de agosto de 2018, solo para los efectos de no seguirse recabando en ese formato, en el entendido que las cartas compromiso ya signadas seguirán surtiendo sus efectos legales y administrativos a que haya lugar.
