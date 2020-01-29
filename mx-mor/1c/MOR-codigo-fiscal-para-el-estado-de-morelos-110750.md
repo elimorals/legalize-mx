@@ -4,7 +4,7 @@ identifier: "MOR-codigo-fiscal-para-el-estado-de-morelos-110750"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-12-09"
-last_updated: "2019-03-27"
+last_updated: "2020-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 CÓDIGO FISCAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE MARZO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 9 de diciembre de 2015.
 
@@ -221,6 +219,10 @@ Para ello, y con la finalidad de evitar la afectación indebida de las participa
 
 El crédito fiscal es la obligación determinada en cantidad líquida que tiene derecho a percibir el Estado, los municipios o sus Entidades Paraestatales, Paramunicipales o Intermunicipales, que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven de responsabilidades que el Estado o el municipio tengan derecho a exigir de sus servidores públicos o de los particulares, así como de aquellos a los que las leyes les den ese carácter y tengan derecho a percibir por cuenta ajena.
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+Para efectos del párrafo anterior, las autoridades administrativas o judiciales que remitan a la Secretaría créditos por concepto de aprovechamientos consistentes en sanciones económicas o multas para su cobro, deberán cumplir con los requisitos de procedencia de los actos administrativos que se establecen en el presente ordenamiento. En el ámbito municipal corresponderá a la Tesorería Municipal llevar a cabo los procedimientos de cobro en los términos del presente ordenamiento.
+
 ###### Artículo 14.
 
 Las disposiciones fiscales que establezcan cargas a los particulares, las que señalen excepciones a las mismas, las que establezcan infracciones y las respectivas sanciones, serán de aplicación estricta. Se considera que establecen cargas a los particulares las normas que se refieren al sujeto, objeto, base, tasa y cuota o tarifa.
@@ -328,6 +330,10 @@ Son productos las contraprestaciones por los servicios que presten el Estado y l
 Son aprovechamientos los ingresos que percibe el Estado y los municipios por funciones de derecho público, distintos de las contribuciones y de los que obtengan los organismos descentralizados y las empresas de participación estatal.
 
 Los recargos, las sanciones, los gastos de ejecución, los honorarios de notificación y la indemnización a que se refiere el sexto párrafo del artículo 47 de este Código, que se apliquen en relación con aprovechamientos son accesorios de los mismos y participan de su naturaleza.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+Los aprovechamientos por concepto de multas impuestas por infracciones a las disposiciones legales o reglamentarias que no sean de carácter fiscal serán destinados a cubrir los gastos de la autoridad fiscal por concepto de operación, administración, control, ejercicio y cobro coactivo, en un porcentaje que no será menor al 30 por ciento del importe de cada multa.
 
 ###### Artículo 23.
 
@@ -683,7 +689,11 @@ Los recargos se causarán por cada mes o fracción que transcurra a partir de la
 
 Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente. La falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal por parte de la institución a cuyo cargo se hubiere librado, dará derecho a la Secretaría a exigir del librador el pago del importe del mismo, los recargos y una indemnización que será el 20% del valor del cheque, sin perjuicio de que se tenga por no cumplida la obligación y se cobren los créditos, recargos y sanciones que sean procedentes. Esta indemnización y los demás créditos se harán efectivos mediante el procedimiento administrativo de ejecución.
 
-En caso de aprovechamientos, los recargos se calcularán de conformidad con lo dispuesto en el segundo párrafo de este artículo.
+> <small>[N. DE E. DE CONFORMIDAD CON EL PROCESO LEGISLATIVO DEL DECRETO NÚMERO SEISCIENTOS CINCUENTA Y NUEVE PUBLICADO EN EL P.O. DE 29 DE ENERO DE 2020, LA MODIFICACIÓN CORRESPONDE AL PRESENTE PÁRRAFO]</small>
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+
+En caso de aprovechamientos, los recargos se calcularán de conformidad con lo dispuesto en el segundo párrafo de este artículo. Para el caso de las multas impuestas por infracciones a las disposiciones legales o reglamentarias que no sean de carácter fiscal, no se causarán recargos.
 
 ### CAPÍTULO II. DE LAS DEVOLUCIONES, COMPENSACIONES Y DEL ACREDITAMIENTO
 
@@ -789,7 +799,9 @@ La prescripción del crédito fiscal extingue simultáneamente los accesorios de
 
 Los sujetos pasivos del crédito fiscal podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
 
-La autoridad podrá declarar la prescripción del crédito únicamente en los casos que medie solicitud expresa por escrito del contribuyente, misma que deberá cumplir con los requisitos previstos en el artículo 40 de este Código, debiendo además proporcionar los datos de identificación del crédito fiscal y los documentos en que conste el mismo.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+
+La declaratoria de prescripción de los créditos fiscales, podrá realizarse de oficio por la autoridad o a petición del contribuyente. La autoridad que declare la prescripción, solicitará la información necesaria para el ejercicio de esta atribución. Una vez declarada la prescripción, se deberá dar vista al Órgano Interno de Control, para los efectos legales y administrativos correspondientes.
 
 ## TÍTULO TERCERO. DE LOS SUJETOS PASIVOS
 
@@ -1321,9 +1333,11 @@ Las instancias, solicitudes o promociones, así como las peticiones que se formu
 
 Cuando la autoridad requiera al promovente para que cumpla los requisitos que hubiere omitido en su promoción, o proporcione los elementos necesarios para resolver, éste contará con un término de diez días para cumplir dicho requerimiento. En este caso, el plazo para que las autoridades fiscales resuelvan, comenzará a correr desde que el requerimiento haya sido cumplido. En caso que no se dé cumplimiento al requerimiento en el plazo señalado se tendrá por no presentada la promoción o instancia respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2020)</small>
+
 ###### Artículo 95.
 
-Los actos administrativos emitidos por las autoridades fiscales en que se determine la existencia de una obligación fiscal, se establezcan las bases para su liquidación o se fije en cantidad líquida un crédito fiscal, así como todos aquellos que sean recurribles o que se deben notificar deberán tener, por lo menos, los siguientes requisitos:
+Los actos administrativos emitidos por las autoridades fiscales en que se determine la existencia de una obligación fiscal, se establezcan las bases para su liquidación o se fije en cantidad líquida un crédito fiscal, así como todos aquellos que sean recurribles o que se deban notificar en el domicilio del deudor o en el lugar en que se encuentre, deberán contener, por lo menos, los siguientes requisitos:
 
 I. Constar por escrito, en documento impreso o digital.
 
@@ -2450,6 +2464,32 @@ El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 Si la exigibilidad se origina por cese de la prórroga, o de la autorización para pagar en parcialidades o pago diferido, por error aritmético en las declaraciones o por situaciones previstas en la fracción I del artículo 102 de este Código, el deudor podrá efectuar el pago dentro de los quince días siguientes a la fecha en que surta sus efectos la notificación del requerimiento
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+Artículo 170 BIS. Las autoridades administrativas o jurisdiccionales que soliciten el auxilio de las autoridades fiscales para hacer efectivo el cobro de sanciones económicas o multas que no sean de carácter fiscal, deberán establecer relaciones de colaboración, mediante la suscripción de los Convenios respectivos, en los que se establecerán los lineamientos para el ejercicio del procedimiento económico coactivo; y, en su caso, los porcentajes que correspondan a la autoridad fiscal por la administración, control, ejercicio y cobro coactivo de las mismas, no será menor al 30 por ciento del importe de cada multa o sanción; asimismo, las autoridades al solicitar el cobro, deberán indicar como mínimo en la solicitud los datos siguientes:
+
+I. Nombre completo del infractor;
+
+II. Domicilio del infractor;
+
+III. Autoridad sancionadora;
+
+IV. Fundamento legal aplicable a la sanción económica o multa impuesta;
+
+V. Monto de la sanción económica o multa impuesta;
+
+VI. Motivo de la sanción;
+
+VII. Número de expediente del cual se origina la sanción económica o multa impuesta;
+
+VIII. Fecha de la determinación o acuerdo con resolución del cual se origina la sanción económica o multa impuesta; y,
+
+IX. Fecha de notificación al infrantor de la sanción económica o multa impuesta.
+
+En caso de que la autoridad solicitante omita el señalamiento de los datos requeridos para el inicio del procedimiento administrativo de ejecución, se requerirá a ésta los datos para que, en el plazo de cinco días hábiles contados a partir de la fecha de su solicitud, sean enviados; si transcurrido dicho plazo no son proporcionados, la autoridad exactora emitirá un acuerdo de certificación y se procederá a la devolución de los documentos dentro de las cuarenta y ocho horas siguientes, haciéndolo del conocimiento al superior jerárquico de la autoridad solicitante. La autoridad solicitante podrá presentar de nueva cuenta la solicitud para reiniciar el cobro coactivo de la sanción económica o la multa impuesta.
+
+La autoridad solicitante deberá anexar copia certificada de la determinación, acuerdo o resolución por la cual se impone la sanción económica o multa al infractor, así como de la notificación de la misma al infractor.
 
 ###### Artículo 171.
 
@@ -3650,3 +3690,13 @@ El presente Decreto entrará en vigor a partir del día siguiente a su publicaci
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 29 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS CINCUENTA Y NUEVE POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE MORELOS, DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS Y DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del 01 de enero de 2020, previa publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
