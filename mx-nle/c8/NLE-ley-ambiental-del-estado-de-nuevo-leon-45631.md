@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2019-10-09"
+last_updated: "2020-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -3031,6 +3031,28 @@ Los programas de contingencia ambiental establecerán las condiciones bajo las c
 
 Los responsables de fuentes de contaminación estarán obligados a cumplir con las medidas de prevención y control establecidas en los programas de contingencia correspondientes, en situación de contingencia ambiental.
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+Artículo 194 BIS.- Los programas de contingencia ambiental deberán contener al menos:
+
+I. Casos y supuestos específicos en los cuales deberá emitirse la declaratoria de contingencia ambiental de conformidad con las normas oficiales.
+
+II. La duración de la contingencia, así como la vigencia de las medidas establecidas en la misma.
+
+III. Descripción de partículas contaminantes, fases, y niveles de aplicación.
+
+IV. Cuando así corresponda, medidas preventivas, restrictivas y en su caso suspensivas que deberá acatar la población para evitar daños a la salud.
+
+V. Cuando así corresponda, medidas preventivas, restrictivas y en su caso suspensivas, en su ámbito de competencia de:
+
+a) Prestación de servicios públicos y privados que causen daños a la atmósfera.
+
+b) La actividad industrial, inmobiliaria y comercial de agentes considerados como fuentes fijas de contaminación.
+
+c) Tendientes a reducir la circulación de todo tipo de vehículos que utilicen combustibles fósiles.
+
+VI. Las sanciones contempladas en la Ley a personas físicas y morales que hagan caso omiso de las medidas de contingencia ambiental.
+
 ### CAPÍTULO I. PARTICIPACIÓN SOCIAL
 
 ###### Artículo 195.
@@ -3513,9 +3535,17 @@ XVII. Realizar obras o actividades que signifiquen riesgos al ambiente, que pong
 
 XVIII. Desatender la solicitud de información a personas físicas o morales que formulen, en el ejercicio de sus atribuciones, la Secretaría o el Municipio, sin causa justificada y motivada;
 
-XIX. Impedir al personal autorizado el acceso al lugar o lugares sujetos a inspección ambiental, en los términos previstos en la presente Ley y su Reglamento; y
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
-XX. Las demás conductas contrarias a las disposiciones de esta Ley.
+XIX. Impedir al personal autorizado el acceso al lugar o lugares sujetos a inspección ambiental, en los términos previstos en la presente Ley y su Reglamento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2020)</small>
+
+XX. El incumplimiento a las disposiciones establecidas en los programas y declaratorias de contingencia ambiental; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE ENERO DE 2020)</small>
+
+XXI. Las demás conductas contrarias a las disposiciones de esta Ley.
 
 ###### Artículo 237.
 
@@ -4024,3 +4054,9 @@ Tercero.- Para dar cumplimiento al presente Decreto, el Titular del Ejecutivo de
 Cuarto.- Para dar cumplimiento al presente Decreto, los Municipios del Estado dispondrán de un lapso de noventa días posteriores a la publicación del presente, para la modificación de sus disposiciones normativas.
 
 Quinto.- Se derogan las disposiciones normativas que contravengan el presente Decreto.
+
+P.O. 29 DE ENERO DE 2020.
+
+[N. DE. E. TRANSITORIO DEL “DECRETO NÚM. 251. SE REFORMAN LAS FRACCIONES XIX Y XX DEL ARTÍCULO 236, Y POR ADICIÓN DEL ARTÍCULO 194 BIS Y LA FRACCIÓN XXI AL ARTÍCULO 236 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
