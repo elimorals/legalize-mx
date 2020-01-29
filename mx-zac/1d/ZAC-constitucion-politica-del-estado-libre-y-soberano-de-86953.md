@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2019-11-23"
+last_updated: "2020-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2020.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -1217,11 +1217,11 @@ La Legislatura sólo podrá convocar a elecciones para Diputados propietarios, c
 
 #### SECCIÓN PRIMERA. DE LA INSTALACIÓN DE LA LEGISLATURA Y PERIODOS ORDINARIOS DE SESIONES
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 ###### Artículo 57.
 
-La Legislatura del Estado se instalará el siete de septiembre del año de su elección y tendrá durante cada año de ejercicio dos Períodos Ordinarios de Sesiones. El primero iniciará el primero de agosto, con excepción del año de su instalación el cual iniciará el ocho de septiembre, y concluirá el quince de diciembre, pudiéndose prorrogar hasta el treinta de diciembre del mismo año; el segundo comenzará el primero de febrero y terminará el treinta de junio.
+La Legislatura del Estado se instalará el siete de septiembre del año de su elección y tendrá durante cada año de ejercicio dos Períodos Ordinarios de Sesiones. El primero iniciará el ocho de septiembre y concluirá el quince de diciembre, pudiéndose prorrogar hasta el día treinta de diciembre del mismo año; el segundo comenzará el primero de marzo y terminará el treinta de junio.
 
 ###### Artículo 58.
 
@@ -1335,9 +1335,9 @@ IV. Expedir su Ley Orgánica y su Reglamento Interior, ordenar la publicación y
 
 La Legislatura no podrá presupuestar de sus recursos ayudas sociales.
 
-> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
-IV-A. Presentar el quince de septiembre de cada año un informe sobre el cumplimiento de sus obligaciones constitucionales y legales, en los términos que disponga la ley;
+IV-A. Presentar en el mes de septiembre de cada año un informe sobre el cumplimiento de sus obligaciones constitucionales y legales, en los términos que disponga la Ley;
 
 > <small>(ADICIONADA, P.O. 7 DE JULIO DE 2018)</small>
 
@@ -3820,3 +3820,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Dentro de los ciento ochenta días siguientes a la entrada en vigor de este Decreto, se reformará la legislación en la materia para armonizarla a lo previsto en este instrumento legal.
 
 TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 376.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. La Legislatura del Estado, en un plazo que no excederá de noventa días, contados a partir de la publicación del presente Decreto, deberá adecuar su Ley Orgánica y Reglamento General a las disposiciones que integran este instrumento legislativo.
+
+Artículo tercero. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
