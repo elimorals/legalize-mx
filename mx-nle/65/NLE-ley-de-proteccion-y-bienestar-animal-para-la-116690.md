@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-y-bienestar-animal-para-la-116690"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-28"
-last_updated: "2018-05-16"
+last_updated: "2020-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 28 de septiembre de 2016.
 
@@ -43,27 +43,63 @@ LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEV
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene como objetivo garantizar el bienestar y la protección integral y efectiva de los animales que se encuentren dentro del territorio del Estado.
+La presente Ley es de observancia general en el Estado de Nuevo León; sus disposiciones son de orden público e interés social, tienen por objeto proteger a los animales, brindarles alojamiento, desarrollo natural, salud y evitarles el maltrato, la crueldad, el sufrimiento y la zoofilia.
+
+El Gobierno del Estado, la Secretaría, las Secretarías de Salud y Educación, así como los Municipios, deberán implementar anualmente programas específicos para difundir la cultura y las conductas de trato adecuado y respetuoso a los animales.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 ###### Artículo 2.
 
 Es competencia de esta Ley:
 
-I. Regular la conducta de los seres humanos hacia las formas de vida de los animales, a fin de permitir su reproducción y desarrollo bajo condiciones de bienestar;
+I. Regular la conducta de las personas que habiten en Nuevo León o transiten por el Estado, independientemente de su lugar de origen, hacia las formas de vida de los animales y sus ecosistemas, con el fin de permitir su desarrollo, protección, bienestar integral y sostenible;
 
-II. Promover y regular el adecuado manejo, transporte, trato y sacrificio de los animales de acuerdo a las Normas Oficiales Mexicanas y demás disposiciones legales que resulten aplicables;
+II. Fomentar las acciones de protección, conservación y respeto a la biodiversidad, de los animales y sus hábitats;
 
-III. Fomentar la protección, conservación y respeto a la biodiversidad de los animales;
+III. Prohibir actos de maltrato o de crueldad contra los animales y sancionar a los sujetos responsables de cometer activa o pasivamente acciones u omisiones que conlleven a violencia contra los mismos;
 
-IV. Establecer la participación de las asociaciones públicas o privadas y demás organizaciones de la sociedad civil para realizar acciones en favor del bienestar animal;
+IV. Fomentar la participación de las asociaciones públicas o privadas, colectivos, redes y demás organizaciones de la sociedad civil, así como de la ciudadanía en general, para realizar acciones en favor del bienestar animal y tenencia responsable de animales, así como fortalecer la cultura de la prevención y de la denuncia pública ciudadana;
 
-V. Diseñar, implementar y evaluar campañas de educación ambiental relacionadas con la protección y tenencia responsable de los animales, así como los cuidados básicos y esterilización de los animales domésticos de compañía;
+V. Procurar justicia para los animales y salvaguardar los derechos de los denunciantes del maltrato o crueldad contra los animales en el acceso a la justicia, en la transparencia de los procedimientos administrativos y penales y en el conocimiento de las resoluciones, acuerdos y recomendaciones que dicten al respecto las autoridades;
 
-VI. Establecer las obligaciones y responsabilidades de los propietarios, poseedores y encargados de los animales para garantizar su protección integral; y
+VI. Establecer las obligaciones de los propietarios, poseedores y encargados de animales para garantizar su protección efectiva e integral, así como definir el marco de actuación de las organizaciones de la sociedad civil, de la ciudadanía y de los profesionistas en la materia y las atribuciones de las autoridades competentes de aplicar esta Ley;
 
-VII. Regular la reproducción, cría, enajenación, albergue, hospedaje y adiestramiento de los animales domésticos de compañía para que estas actividades se realicen en condiciones de bienestar.
+VII. Diseñar, implementar y evaluar campañas de educación sobre la protección, tenencia y custodia responsable de los animales, sea cual sea su especie, así como sobre los cuidados básicos y esterilización de los animales domésticos;
+
+VIII. Regular las condiciones de desarrollo, protección y bienestar integral y sostenible de los animales en las siguientes actividades:
+
+a) Reproducción, cría, tenencia y enajenación de animales;
+
+b) Refugio, albergue, estancia, hospedaje, cuidado y otros servicios relacionados con animales;
+
+c) Adiestramiento, entrenamiento, exhibición y competencia de animales;
+
+d) Atención veterinaria en clínicas fijas y móviles, hospitales, consultorios, estéticas y cualquier otro establecimiento similar;
+
+e) Transporte y movilización de animales de acuerdo a las Normas Oficiales Mexicanas y demás disposiciones legales que resulten aplicables;
+
+f) Atención de animales en unidades o centros de control animal;
+
+g) Operación de crematorios y otros espacios de sacrificio de animales; y
+
+h) Centros de control animal en los municipios, y cualquier lugar destinado a decomisos o resguardo de animales en el Estado, por autoridades federales, estatales o municipales.
+
+VIII (SIC). Prohibir el manejo de los animales de trabajo en actividades de carga y tiro en las áreas urbanas;
+
+IX. Regular la experimentación y las prácticas profesionales en instituciones educativas y centros médicos y de investigación;
+
+X. Observar la creación y funcionamiento de los centros de control animal, con apego a los reglamentos municipales y normas oficiales, así como de unidades de prevención de zoonosis en las jurisdicciones sanitarias estatales y cualquier otra unidad de acopio;
+
+XI. Establecer las bases para la creación y operación del Consejo Ciudadano de Protección y Bienestar Animal del Estado de Nuevo León y su marco de acción para asesorar, evaluar y colaborar con la ciudadanía, las instituciones académicas, los colegios médicos, las organizaciones de la sociedad civil y las autoridades en la aplicación de la presente Ley y en el proceso de generación de políticas públicas en el Estado que permitan la adecuada aplicación de esta Ley y su Reglamento;
+
+XII. Impulsar la creación de programas de inversión, fondos financieros y fideicomisos públicos, privados y mixtos, la gestión de presupuestos de índole federal, estatal y municipal, así como ejercer los recursos recaudados por la aplicación de esta Ley para el efectivo desarrollo, protección y bienestar animal integral y sostenible; y
+
+XIV (SIC). Fijar los procedimientos administrativos, medidas de seguridad, sanciones administrativas, recursos de defensa e inconformidad y acceso a los denunciantes a los procedimientos administrativos que se entablen para lograr su transparencia y desahogo pronto y expedito.
 
 ###### Artículo 3.
 
@@ -81,9 +117,17 @@ Para efectos de esta Ley, los adoptantes tendrán el tratamiento y la calidad de
 
 V. Animal. Ser vivo pluricelular, sensible, consciente, constituido por diferentes tejidos, con un sistema nervioso especializado que le permite moverse y reaccionar de manera coordinada ante estímulos.
 
-VI. Animales Abandonados. Los que se encuentran o deambulan por la vía pública o en otras áreas sin el control, supervisión y el cuidado de una persona, o aquellos que no tienen un propietario aparente.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
-VII. Animales de Asistencia. Son los que se utilizan para desarrollar actividades de guía y apoyo a las personas con algún tipo de discapacidad o por prescripción médica.
+VI. Animal abandonado o en situación de abandono: El que queda sin el cuidado o protección de sus propietarios o poseedores, poniendo en riesgo su integridad física o vida, así como los que deambulen libremente por la vía pública sin placa de identidad u otra forma de identificación, y sus descendencias;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+VI Bis. Animal Adiestrado: Los animales que son entrenados por personas debidamente autorizadas por autoridad competente, mediante programas cuyo fin es modificar su comportamiento con el objeto (sic) que estos realicen funciones de vigilancia, protección, guardia detección de estupefacientes, armas y explosivos, acciones de búsqueda y rescate de personas, terapia, asistencia, entretenimiento y demás acciones análogas;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+VII. Animales de Asistencia: Son los animales que se utilizan para desarrollar actividades de guía y apoyo a las personas con una o varias discapacidades o que cuenten con una prescripción médica;
 
 VIII. Animales de Compañía. Son aquellos convencionales y no convencionales que se encuentran bajo el dominio del hombre, cohabitando en casa habitación y teniendo una relación afectiva con él.
 
@@ -93,7 +137,9 @@ X. Animal de Compañía No Convencional. Todo aquel animal que se encuentre bajo
 
 XI. Animal de Producción. Animal domesticado que se reproduce o se cría por el hombre interviniendo en materia de sanidad animal, junto con tecnologías mejoradas y adaptadas relacionadas con una zootecnia adecuada, para lograr el objetivo de producir carne, fibras, lana, piel, leche y huevo, para el consumo de los seres humanos.
 
-XII. Animales Domésticos. Animales de especies que han sido sometidos al dominio del ser humano o a un proceso de selección artificial o domesticación, dirigido a favorecer o acentuar ciertas características físicas, fisiológicas o de comportamiento, en respuesta a determinados intereses o necesidades del ser humano.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XII. Animal Doméstico: El animal que ha sido reproducido y criado bajo el control del ser humano, que convive con él y requiere de este para su subsistencia y que no se trate de animales silvestres;
 
 XIII. Animales Potencialmente Peligrosos. Cualquier tipo de animal susceptible de causar daño o perjuicio, físico, psicológico o material en el ser humano.
 
@@ -157,37 +203,65 @@ XLII. Vehículos de Tracción Animal. Carros, carretas, instrumentos de labranza
 
 XLIII. Crueldad Animal. La conducta de maltrato animal o violencia ejercida en contra de los animales que implique la mutilación que ponga en peligro la vida, tortura, envenenamiento, tormentos, privación habitual o continua del sustento necesario para el animal, tal como el agua, alimento, atención médica o refugio, dar muerte por métodos no previstos en esta Ley, que los cause o promueva que se trate de esta manera a cualquier animal.
 
-XLIV. Maltrato Animal. El acto de ejercer violencia hacia los animales, la omisión de proporcionar la atención de sus necesidades fisiológicas o de resguardo requeridas en razón de su especie, someterlos a carga excesiva, ya sea sobre el propio animal o en vehículos tirados por los mismos, someterlos a sobre trabajo, así como cualquier otra conducta que ocasione lesiones, enfermedades, deterioro a la salud, afectaciones psicológicas, o que ponga en peligro su vida.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XLIV. Maltrato Animal: Todo hecho, acto u omisión del ser humano, que puede ocasionar dolor o sufrimiento afectando el bienestar animal, poner en peligro la vida del animal o afectar gravemente su salud, así como la sobreexplotación de su trabajo, someterlos a carga excesiva, ya sea sobre el propio animal o en vehículos tirados por los mismos, así como cualquier otra conducta que ocasione lesiones, enfermedades, deterioro a la salud, afectaciones psicológicas, o que ponga en peligro su vida;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XLV. Actitud de Respeto para los Animales: Que incluye todas y cada una de las disposiciones, contenidas en esta Ley y en otros ordenamientos análogos, con disposiciones normativas, para evitar el dolor, la angustia o el desamparo, durante su propiedad, posesión, captura, desarrollo, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento y sacrificio;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XLVI. Sacrificio Humanitario: Acto que provoca la muerte sin sufrimiento de cualquier animal, en razón de estar comprometido su bienestar por el sufrimiento que le cause un accidente, enfermedad, incapacidad física o trastornos seniles, atendiendo a las Normas Oficiales Mexicanas y las Normas Ambientales Estatales expedidas para tal efecto;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XLVII. Registro de Animales: Registro de Animales del Estado de Nuevo León, en el cual se deben inscribir los animales de compañía convencionales, animales de compañía no convencionales, animales de asistencia, animales silvestres en cautiverio y animales de carga, tiro y monta, cuya coordinación, operación y actualización estará a cargo de la Secretaría; y
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XLVIII. Consejo Ciudadano: Consejo Ciudadano de Protección y Bienestar Animal, regulado en el Capítulo XVIII de esta Ley.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 ###### Artículo 4.
 
-En todo lo no previsto en la presente Ley, se aplicarán de manera supletoria las disposiciones contenidas en la Ley General de Vida Silvestre, la Ley Ambiental del Estado de Nuevo León, la Ley Estatal de Salud, y demás Leyes, Reglamentos, Normas Oficiales y ordenamientos jurídicos relacionados con esta materia que no se opongan a la misma, quedando exceptuadas de esta Ley, los animales de producción, las peleas de gallos, las corridas de toros, novillos o becerros y las charreadas, siempre y cuando se sujeten a las disposiciones legales que expida la autoridad municipal.
+En todo lo no previsto en la presente Ley, se aplicarán de manera supletoria las disposiciones contenidas en la Ley General de Vida Silvestre, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley Ambiental del Estado de Nuevo León, la Ley Estatal de Salud, la Ley para la Protección de los Derechos de las Personas con Discapacidad y demás Leyes, Reglamentos, Normas Oficiales y ordenamientos jurídicos relacionados con esta materia que no se opongan a la misma, quedando exceptuadas de esta Ley, los animales de producción, las peleas de gallos, las corridas de toros, novillos o becerros y las charreadas, siempre y cuando se sujeten a las disposiciones legales que expida la autoridad municipal.
 
 ###### Artículo 5.
 
 La Secretaría, las autoridades de salud municipal o quien haga las funciones de ésta, podrán suscribir los convenios de colaboración que sean necesarios para establecer mecanismos para que los particulares, las organizaciones de la sociedad civil e instituciones educativas presten su apoyo para alcanzar los fines que persigue esta Ley.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+
 ###### Artículo 6.
 
-Para los efectos de esta Ley, los animales abandonados que detecten las autoridades, cuyo dueño se ignore, se reportarán ante la autoridad competente bajo la calidad de sin dueño aparente para todos los efectos legales.
+En el caso de los animales que se reporten y detecten como abandonados y cuyo dueño se ignore, la autoridad competente procederá al aseguramiento temporal precautorio de los mismos, debiendo ser retenidos y custodiados en lugares adecuados para garantizar su cuidado y bienestar. En caso de así estimarlo conveniente, se podrán entregar en custodia a organizaciones de la sociedad civil.
 
-Las autoridades competentes deberán asegurar los animales abandonados bajo el procedimiento que corresponda para garantizar su cuidado y bienestar a fin de ser retenidos y custodiados en lugares adecuados. En caso de así estimarlo, se podrá entregar en custodia a las organizaciones de la sociedad civil.
+Para recuperar un animal asegurado, el propietario, poseedor o encargado del mismo deberá acudir ante la autoridad competente, debiendo presentar por lo menos un documento que acredite su legal posesión o cualquier constancia que así lo acredite, además de cumplir con la sanción administrativa a que hubiere lugar y cubrir todos los gastos generados durante el período de aseguramiento.
 
-La persona que desee recuperar el animal asegurado deberá acudir ante la autoridad que estime tiene conocimiento de la ubicación física del animal, debiendo presentar el documento que acredite su legal posesión o constancia que lo acredite; así como cumplir con la sanción a que hubiere lugar y cubrir los gastos generados durante el período de aseguramiento.
+En caso de que el animal no sea reclamado en un plazo máximo de 10 días hábiles por su propietario, poseedor o encargado, la Secretaría ó la autoridad competente deberán promover su adopción a través de su entrega a organizaciones de la sociedad civil o a cualquier persona interesada en custodiar al animal para brindarle cuidado y garantizar su bienestar. La autoridad no podrá sacrificar al animal que no sea reclamado en ese plazo, salvo que se trate de un sacrificio humanitario, en términos del artículo 3, fracciones XLV y XLVI, de esta Ley.
 
-En caso de que el animal no sea reclamado en un plazo de 15 días hábiles, la Secretaría definirá su destino final, privilegiando su adopción.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 ###### Artículo 7.
 
-Todo propietario, poseedor o encargado de un animal queda sujeto a las disposiciones de la presente Ley y su Reglamento, así como a los ordenamientos aplicables vigentes según su definición.
+Todo propietario, poseedor o encargado de un animal, así como todo aquél que habite o transite por el Estado, queda sujeto a las disposiciones de esta Ley y su Reglamento, así como de los ordenamientos aplicables.
 
-Cuando el animal se constituya en peligro o molestia para los vecinos, su propietario, poseedor o encargado estará obligado a tomar las medidas necesarias para evitarlo sin contravenir las disposiciones de esta Ley y su Reglamento.
+Cuando el animal se constituya en peligro o molestia para los vecinos, su propietario, poseedor o encargado está obligado a colocar avisos de alerta de riesgo y adoptar las demás medidas preventivas necesarias, sin contravenir lo dispuesto por esta Ley y su Reglamento y bajo ninguna circunstancia tomando medidas que infrinjan un daño o que impliquen poner en riesgo la vida, la integridad y la salud del animal.
 
-Cuando dicho animal cause un daño a terceros, su propietario, poseedor o encargado será responsable de la reparación de los daños y perjuicios que ocasione. Las indemnizaciones correspondientes serán exigidas conforme al Código Civil para el Estado de Nuevo León y demás Leyes aplicables, sin perjuicio de la sanción administrativa que corresponda en los términos de esta Ley.
+Cuando dicho animal cause un daño a terceros el propietario o poseedor será responsable de la reparación de los daños y perjuicios que el animal ocasione. Las indemnizaciones que correspondan serán exigidas con base en el Código Civil y demás leyes aplicables, sin perjuicio de la sanción administrativa que corresponda en los términos de esta Ley.
+
+Quien posea un animal considerado potencialmente peligroso deberá solicitar autorización a la autoridad competente y colocar avisos de alerta de peligro en el recinto o área de confinamiento. El incumplimiento de estas disposiciones será sujeta de sanción administrativa y aplicación de medidas de seguridad.
+
+Los propietarios de animales potencialmente peligrosos, deberán de contar con un seguro de responsabilidad civil para cubrir los daños que en su caso pudiera ocasionar. El incumplimiento de esta disposición será sujeta de sanción administrativa de acuerdo a la presente Ley.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 ###### Artículo 8.
 
-No podrá negarse el acceso de los animales de asistencia a personas con alguna discapacidad, autorizadas para tal fin y que sean exclusivamente de apoyo, a las dependencias de gobiernos Ejecutivo, Legislativo y Judicial. La salvedad será que se ponga en riesgo la salud o integridad física del animal, de su propietario o de ambos, o en el caso de que se trate de áreas de restricción sanitaria.
+Todas las dependencias de Gobierno ubicadas en el Estado, sean estas federales, estatales, municipales o de organismos constitucionalmente autónomos, así como las personas físicas y morales de carácter privado que no sean de uso particular como casa habitación, están obligadas a dar acceso irrestricto a sus instalaciones, oficinas, comercios y negocios a los animales identificados como animales de asistencia cuando los mismos vayan en compañía de sus propietarios, poseedores o encargados, debiendo brindarles en todo momento las facilidades necesarias a estos animales y a sus propietarios, poseedores o encargados. La salvedad será que se ponga en riesgo la salud o integridad física del animal, de su propietario o de ambos, o en el caso de que se trate de áreas de restricción sanitaria.
 
 ###### Artículo 9.
 
@@ -247,17 +321,225 @@ III. Formular, aprobar y aplicar un Reglamento que garantice la protección y bi
 
 IV. Las demás atribuciones que le otorgue esta Ley, su Reglamento y las normas jurídicas aplicables.
 
-### CAPÍTULO III. DE LAS OBLIGACIONES DE LOS PROPIETARIOS Y POSEEDORES DE LOS ANIMALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE ENERO DE 2020)</small>
+
+### CAPÍTULO III. DEL REGISTRO DE ANIMALES Y DE LAS OBLIGACIONES DE LOS PROPIETARIOS Y POSEEDORES DE ANIMALES
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 ###### Artículo 15.
 
-Todo propietario, poseedor o encargado de un animal está obligado a que éste porte una identificación permanente de cualquier tipo y que pueda ser identificable por las autoridades, mismas que regularán los tipos de identificación dependiendo del animal que se trate.
+Todo propietario, poseedor o encargado de animales, deberá inscribirlo en el Registro de Animales dentro de los primeros 60-sesenta días naturales de tutela. Para tal efecto, el Registro será coordinado, operado y actualizado por la Secretaría, en conjunto con los municipios y con el Consejo Ciudadano de Protección y Bienestar Animal, bajo reserva a lo que disponga la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León, en relación a los datos personales.
+
+El registro de animales de compañía se realizará vía electrónica, el Estado podrá proveer el chip electrónico para dicho registro, con costo para el Propietario o poseedor, cuando así lo solicite.
+
+Para animales de compañía convencionales:
+
+I. Para animales de compañía.
+
+a) Animales:
+
+1. Especie;
+
+2. Sexo y condición reproductiva;
+
+3. Raza (de ser posible establecerla; si no lo es, establecer tal condición);
+
+4. Fecha de nacimiento (exacta o aproximada, especificando en caso de que sea aproximada);
+
+5. Color o colores;
+
+6. Características particulares o tatuajes;
+
+7. Tamaño (chico, mediano, grande y gigante);
+
+8. Chip de identificación (en caso de que lo tenga);
+
+9. Nombre del animal; y
+
+10. Función zootécnica.
+
+b) Propietarios:
+
+1. Nombre completo del propietario, poseedor o encargado del animal;
+
+2. Tipo de propietario o poseedor;
+
+3. Domicilio en donde se ubica el animal; y
+
+4. Datos de contacto del propietario o poseedor Clave Única de Registro de Población, Registro Federal de Contribuyentes, clave de elector, número de Pasaporte Oficial Mexicano, o cualquier otro dato de identificación oficial del propietario, poseedor o encargado del animal.
+
+c) Origen:
+
+1. Datos del origen del animal (factura, nota de compra o certificado de adopción, número de registro, madre o criador o cualquier otro dato al respecto); y
+
+2. Número de registro asignado por la Secretaría.
+
+II. Para animales no convencionales.
+
+a) Animales:
+
+1. Clase;
+
+2. Orden;
+
+3. Especie (nombre científico o común);
+
+4. Tipo;
+
+5. Características del animal;
+
+6. Fecha de nacimiento (exacta o aproximada, especificando en caso de que sea aproximada);
+
+7. Marcaje de identificación;
+
+8. Nombre del animal;
+
+9. Función zootecnia;
+
+10. Grado de seguridad; y
+
+11. Una fotografía del animal que permita identificarlo.
+
+b) Propietario:
+
+1. Nombre completo de propietario o poseedor o encargado del animal;
+
+2. Tipo de propietario o poseedor;
+
+3. Domicilio donde se ubica el animal;
+
+4. Datos de contacto del propietario o poseedor; y
+
+5. Clave Única de Registro de Población, Registro Federal de Contribuyentes, clave de elector, número de Pasaporte Oficial Mexicano, o cualquier otro dato de identificación oficial del propietario, poseedor o encargado del animal.
+
+c) Origen:
+
+1. Datos del origen del animal (compra o adopción, número de registro, madre o criador o cualquier otro dato al respecto);
+
+2. Número de registro asignado por la Secretaría; y
+
+3. Permisos correspondientes, en caso de aplicar.
+
+III. Para animales silvestres en cautiverio.
+
+a) Animales:
+
+1. Clase;
+
+2. Orden;
+
+3. Especie (nombre científico o común);
+
+4. Características del animal;
+
+5. Sexo y condición reproductiva;
+
+6. Fecha de nacimiento (exacta o aproximada, especificando en caso de que sea aproximada);
+
+7. Marcaje de identificación;
+
+8. Nombre del animal;
+
+9. Función zootécnica;
+
+10. Grado de Seguridad;
+
+11. Potencialmente peligroso SÍ_ NO_;
+
+12. Número de póliza de seguro de responsabilidad civil, vigencia y aseguradora; y
+
+13. Una fotografía del animal que permita identificarlo.
+
+b) Propietario:
+
+1. Nombre completo de propietario o poseedor o encargado del animal;
+
+2. Tipo de propietario o poseedor;
+
+3. Domicilio donde se ubica el animal;
+
+4. Descripción de las medidas de seguridad para el cautiverio del animal y para alertar a terceros de su peligrosidad;
+
+5. Datos de contacto del propietario o poseedor; y
+
+6. Clave Única de Registro de Población, Registro Federal de Contribuyentes, clave de elector, número de Pasaporte Oficial Mexicano, o cualquier otro dato de identificación oficial del propietario, poseedor o encargado del animal.
+
+c) Origen:
+
+1. Datos del origen del animal (compra o adopción, número de registro, madre o criador o cualquier otro dato al respecto);
+
+2. Número de registro asignado por la Secretaría; y
+
+3. Permisos correspondientes en caso de aplicar.
+
+IV. Para animales de carga, tiro y monta.
+
+a) Animales:
+
+1. Clase;
+
+2. Orden;
+
+3. Especie (nombre científico o común);
+
+4. Características del animal;
+
+5. Sexo y condición reproductiva;
+
+6. Fecha de nacimiento (exacta o aproximada, especificando en caso de que sea aproximada):
+
+7. Marcaje de identificación;
+
+8. Nombre del animal;
+
+9. Función zootécnica;
+
+10. Certificado de salud y condición nutricional emitido por un Médico Veterinario Zootecnista; y
+
+11. Cuatro fotografías del animal (vista lateral derecha, vista lateral izquierda, vista frontal de la cabeza y vista frontal del hocico, donde se aprecie el labio superior e inferior).
+
+b) Propietario:
+
+1. Nombre completo de propietario o poseedor o encargado del animal;
+
+2. Tipo de propietario o poseedor;
+
+3. Domicilio donde se ubica el animal;
+
+4. Datos de contacto del propietario o poseedor; y
+
+5. Clave Única de Registro de Población, Registro Federal de Contribuyentes, clave de elector, número de Pasaporte Oficial Mexicano, o cualquier otro dato de identificación oficial del propietario, poseedor o encargado del animal.
+
+c) Origen:
+
+1. Datos del origen del animal (compra o adopción, número de registro, madre o criador o cualquier otro dato al respecto;
+
+2. Número de registro asignado por la Secretaría; y
+
+3. Permisos correspondientes en caso de aplicar.
+
+En casos de fallecimiento, robo o extravío, cambio de domicilio o cualquier otra variación en el registro del animal, el propietario o poseedor deberá dar aviso a la Secretaría, en un plazo no mayor de 60-sesenta días naturales.
+
+La clasificación del grado de seguridad de los animales de compañía se determinará por la Secretaría en los términos del Reglamento de esta Ley.
+
+En caso de animales silvestres en cautiverio, el propietario, poseedor o encargado estará obligado a asistir a los cursos de manejo de vida silvestre que imparta la Secretaría y otras dependencias competentes.
+
+La Secretaría establecerá los mecanismos para el funcionamiento del Registro de Animales y la manera en cómo se administrará, para efecto de quienes participen en el mismo.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+###### Artículo 15 Bis.
+
+Todo propietario, poseedor o encargado de un animal está obligado a que éste porte una identificación permanente de cualquier tipo y que pueda ser identificable por la (sic) autoridades, mismas que regularán los tipos de identificación dependiendo del animal de que se trate.
 
 ###### Artículo 16.
 
 El propietario, poseedor o encargado de un animal tendrá las siguientes obligaciones:
 
-I. Suministrar al animal la alimentación y agua en recipientes adecuados y separados en las cantidades necesarias, atendiendo a la especie, hábitos naturales, raza y edad, que le permita la ingestión y satisfaga las necesidades instintivas, metabólicas y fisiológicas de su cuerpo;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+I. Proteger a los animales, garantizar su bienestar, brindarles atención, asistencia, auxilio, buen trato, velar por su desarrollo natural, salud y evitarles el maltrato, la crueldad, el sufrimiento y la zoofilia;
 
 II. Garantizar su atención veterinaria, al menos una vez al año o cuando lo indique un Médico Veterinario Zootecnista;
 
@@ -275,31 +557,59 @@ VIII. En caso de que impere la necesidad de llevar a cabo el sacrificio del anim
 
 IX. Cuando tenga conocimiento de un maltrato animal, dar aviso a las autoridades competentes; y
 
-X. Cumplir con las disposiciones de esta Ley, su Reglamento y las normas jurídicas que le corresponda.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+X. Denunciar, ante las autoridades correspondientes, cualquier irregularidad o violación a la presente Ley, en las que incurran los particulares, profesionistas, asociaciones protectoras u (sic) autoridades;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XI. Promover en todas las instancias públicas y privadas la cultura y la protección, atención y buen trato de los animales;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XIII (SIC). Promover la cultura, protección, atención y buen trato a los animales a través de los comités ciudadanos y en las instancias de carácter social y vecinal, que cuiden, asistan y protejan a los animales; y
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XIII. Las demás que establezca la normatividad aplicable.
 
 ### CAPÍTULO IV. DE LOS ESPECTÁCULOS QUE UTILICEN ANIMALES
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 ### CAPÍTULO V. DE LA PARTICIPACIÓN CIUDADANA Y LAS ORGANIZACIONES EN MATERIA DE PROTECCIÓN ANIMAL
 
 ###### Artículo 17.
 
-Queda prohibido el uso de ejemplares de vida silvestre en circos, tanto fijos como itinerantes en el Estado de Nuevo León, en los términos del artículo 78 de la Ley General de Vida Silvestre.
+Se prohíbe el uso de animales en cualquier tipo de eventos o espectáculos públicos o privados, en instalaciones fijas, móviles o itinerantes, así como de recreación en instituciones educativas, ferias y kermeses en donde los animales sufran miedo, se les involucre en actos de violencia, maltrato o sufrimiento, así como cualquier acto que infrinja un daño o represente un peligro para su vida, integridad física o mental o salud del animal.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 ###### Artículo 18.
 
+Se recomienda que en todos los lugares que involucren recreación, exhibición, venta y cautiverio de animales, tales como tiendas, mercados, ferias, zoológicos, bio-parques, colecciones privadas de animales y otros similares, tengan áreas de enriquecimiento ambiental para los animales y su operación deberá sujetarse al cumplimiento de esta Ley y de su Reglamento, de las normas oficiales y de las disposiciones legales y reglamentarias aplicables.
+
+Se considera área de enriquecimiento ambiental un lugar apto que vaya conforme a la naturaleza dimensiones y demás condiciones que propicien su bienestar.
+
 Las instalaciones fijas donde se realicen espectáculos o competencias donde participen animales deberán estar debidamente registradas ante la Secretaría.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 ###### Artículo 19.
 
-Está prohibido utilizar, en cualquier tipo de espectáculo, práctica o competencia deportiva, animales con enfermedades que pongan en riesgo su bienestar.
+Queda estrictamente prohibido el uso de animales silvestres en los circos tanto fijos como itinerantes, en los términos de lo dispuesto por el artículo 78 de la Ley General de Vida Silvestre.
+
+Los predios e instalaciones que manejen vida silvestre en forma confinada, como zoológicos, bioparques, espectáculos públicos y privados y colecciones privadas, sólo podrán operar si cuentan con planes de manejo previamente autorizados por la Secretaría de Medio Ambiente y Recursos Naturales, y además deberán registrarse y actualizar sus datos anualmente ante la autoridad correspondiente, en el padrón que para tal efecto se lleve, de conformidad con lo establecido en el reglamento de la Ley General de Vida Silvestre, en los términos de lo dispuesto por el artículo 78 de dicho ordenamiento.
 
 ###### Artículo 20.
 
 Quién realice o lleve a cabo espectáculos, eventos o competencias en donde se utilicen animales, deberá contar con un Médico Veterinario responsable.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+
 ###### Artículo 21.
 
-Queda prohibido privar de alimento, agua, aire, luz o espacio suficiente a animales utilizados en espectáculos, eventos o competencias, antes del inicio y una vez concluidos los mismos. A excepción de que tales privaciones se consideren condiciones de bienestar que justifiquen dicho manejo.
+Queda estrictamente prohibido el privar de alimento, agua, aire, luz o espacio adecuado y suficiente a animales utilizados en espectáculos, eventos o competencias públicas o privadas antes de su inicio y una vez concluidos, salvo por prescripción expedida por escrito por parte de un Médico Veterinario Zootecnista, misma que deberá estar debidamente justificada.
 
 ### CAPÍTULO VI. DEL MALTRATO Y CRUELDAD CONTRA LOS ANIMALES
 
@@ -337,39 +647,97 @@ Todo animal rescatado por las autoridades de la calle o que se encuentre en cond
 
 Será sujeto de sanción cualquier acto de maltrato o crueldad contra los animales, cuando afecten su salud, altere su comportamiento natural o le causen la muerte.
 
-Para los efectos de esta Ley, se entenderán por actos de maltrato o crueldad contra los animales, sin perjuicio de lo que dispongan otras normas jurídicas aplicables al respecto, los siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE ENERO DE 2020)</small>
+
+Sin perjuicio de lo que dispongan otras leyes, reglamentos y normas aplicables, se consideran como actos de maltrato o crueldad contra los animales los siguientes:
 
 I. Los actos u omisiones carentes de un motivo legítimo y que sean susceptibles de causar dolor o sufrimiento considerables, o bien, que afecten gravemente su salud, cuando no se traten del ejercicio de legítima defensa;
 
-II. El torturar o golpear a un animal;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
-III. Limitar su movilidad sin causa justificada;
+II. Lesionar, herir, torturar o golpear, así como azuzar o hacer pelear a los animales;
 
-IV. Los actos de perversión sexual y conductas anormales efectuados por un ser humano a un animal;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
-V. Dar muerte a un animal utilizando un medio que no sea los establecidos por esta Ley, las Normas Oficiales, el Reglamento o las normas jurídicas aplicables;
+III. Encadenar, enjaular, sujetar o limitar la movilidad de los animales, sin que medie alguna de las excepciones previstas en esta Ley;
 
-VI. Mutilar cualquier parte del cuerpo de un animal, salvo que el acto tenga fines de control poblacional, salud, identificación, marcaje o higiene de la respectiva especie animal o se realice por motivos de piedad;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
-VII. El abandono deliberado o negligente de animales en las calles, carreteras, terrenos baldíos, viviendas y edificaciones deshabitadas, patios, pasillos, pasarelas, terrazas, azoteas, balcones y cualesquiera otros lugares de naturaleza similar;
+IV. Cometer actos depravados, anormales o sexuales a un animal;
 
-VIII. Permitir que los animales deambulen sin supervisión y control del propietario, poseedor o encargado en la vía pública;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
-IX. La destrucción intencional de nidos, madrigueras o refugios de animales, a excepción de cuando se realice como un método de control de población de la especie cuando se torne perjudicial;
+V. Mutilar cualquier parte del cuerpo de un animal, salvo que sea por cuestiones de salud, control natal, identificación o marcaje de la especie de que se trate o sea por motivos de piedad, lo cual deberá acreditarse;
 
-X. La destrucción intencional o extracción de huevos fértiles de aves, a excepción de aquellos permitidos para su consumo;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
-XI. El abandono por parte del propietario, poseedor o encargado de un animal en veterinarias, estéticas caninas, pensiones, hoteles, guarderías, escuelas de entrenamiento o afines;
+VI. Abandonar o desamparar, sea negligente o deliberadamente, animales en las calles, carreteras, viviendas, edificios, patios, pasillos, balcones, terrazas, azoteas, sótanos, balcones, terrenos baldíos y cualesquiera otros lugares de naturaleza similar, independientemente si se trata de un lugar deshabitado o no;
 
-XII. Suministrar a los animales, de forma intencional o negligente sustancias u objetos que causen o puedan causarles daños o la muerte, con excepción de los medicamentos suministrados por Médico Veterinario Zootecnista para un fin legítimo;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
-XIII. Realizar actividades de adiestramiento utilizando técnicas crueles o instrumentos y artefactos que ocasionen sufrimiento, lesiones o que afecten la salud e integridad física del animal; y
+VII. Permitir que los animales deambulen en la vía pública o en lugares de alto riesgo y peligro para ellos, sean estos lugares públicos o privados, sin la supervisión o control del propietario, poseedor o encargado de los mismos;
 
-XIV. Las demás que determine la presente Ley, su Reglamento o las normas jurídicas aplicables.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+VIII. Destruir nidos, madrigueras o refugios de animales, excepto cuando se realice como un método de control natal de la especie, cuando la misma se torne perjudicial y siempre y cuando dichos nidos, madrigueras o refugios se encuentren vacíos, sin huevos o crías;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+IX. Destruir o extraer huevos fértiles de aves, a excepción de aquellos permitidos para consumo humano;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+X. Olvidar o abandonar animales en veterinarias, estéticas, pensiones, hoteles, guarderías, escuelas de entrenamiento, centros de investigación o centros de control canino y felino donde se vayan a realizar procedimientos veterinarios específicos a los animales u otros lugares afines;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XI. Envenenar, intoxicar o suministrar a los animales sustancias u objetos que causen o puedan causarles alguna enfermedad, daño o la muerte, con excepción del suministro de medicamentos o tratamientos prescritos por un Médico Veterinario Zootecnista para un fin legítimo;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XII. Adiestrar o entrenar animales utilizando técnicas crueles o instrumentos y artefactos que ocasionen sufrimiento o lesiones o que de algún modo afecten su salud e integridad física y emocional;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XIII. Privar a los animales u omitir el sustento habitual o continuo de alimento, agua, aire y luz a los mismos, de espacio suficiente y adecuado, de higiene necesaria para el cuerpo y en las áreas de estancia donde se encuentren, así como su atención médica veterinaria, tanto preventiva como curativa;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XIV. Sobrecargar a los animales en labores de tiro, carga y monta, o bien, por utilizarlos cuando sus condiciones fisiológicas no son aptas y afecten su salud e integridad física; uncirlos con maltrato o no uncirlos, así como utilizar a hembras para trabajo en el período próximo al parto, entendiendo por éste el último tercio de gestación, o en el período de postparto, entendiendo por éste los tres meses posteriores al parto;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XV. Privar a los animales de aquellos elementos adicionales que les impida desarrollar sus funciones vitales, o bien, que limiten su interacción con otros animales de su propio género o especie, de acuerdo con sus instintos naturales y hábitos conductuales, o realizar cualquier otra actividad intencional que deteriore o modifique negativamente sus instintos;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XVI. Confinar animales en lugares inadecuados, así como dejarlos sin iluminación o ventilación apropiada, o bien, mantenerlos en lugares sin protección en contra de las inclemencias del tiempo;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XVII. Dejar animales faltos de alimentación, hidratación, seguridad, limpieza regular o cualquier otra acción u omisión del propietario, poseedor o encargado de los mismos prevista en esta Ley y su Reglamento;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XVIII. Extraer ilegalmente especímenes, huevos o crías de animales silvestres para su tenencia o comercio; y
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XIX. Los demás que determine esta Ley, su Reglamento, las Normas Oficiales y los lineamientos y protocolos que al efecto emita la Secretaría.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+Toda persona que ejecute conductas de maltrato o crueldad contra de un animal está obligada a la reparación del daño en los términos establecidos en el Código Civil y Código Penal, ambos para el Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+Dicha reparación del daño, de ser el caso, incluirá la atención médica veterinaria, medicamentos, tratamientos o intervención quirúrgica.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 ###### Artículo 28.
 
-Queda prohibido el uso de animales vivos para prácticas de entrenamiento de animales de guardia o ataque, o para verificar su agresividad, y el uso de animales vivos para prácticas y competencias de tiro al blanco.
+Adicionalmente a las prohibiciones establecidas en el artículo 19, y demás aplicables de esta Ley y de otros ordenamientos jurídicos, queda prohibido el uso de animales vivos para realizar prácticas o competencias de tiro al blanco, para verificar su agresividad o para entrenar animales de guardia, protección o de ataque.
 
 También quedará prohibido azuzar animales para que se acometan entre ellos y hacer de las peleas así provocadas, un espectáculo público o privado, y facilitar inmuebles aún a título gratuito, para que tengan lugar dichas peleas.
 
@@ -437,21 +805,37 @@ Queda prohibido la tenencia temporal o definitiva de animales silvestres, salvaj
 
 Los predios e instalaciones que manejen ejemplares de vida silvestre en el Estado, como zoológicos, bioparques y colecciones privadas deberán contar con los planes de manejo correspondientes y la autorización federal respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2020)</small>
+
 ###### Artículo 34.
 
-Queda prohibida la enajenación o transmisión de dominio de animales de compañía, en los siguientes casos:
+Queda prohibida la enajenación o transmisión de dominio de animales por cualquier medio, sea onerosa o gratuita, en los siguientes casos:
 
 I. Cuando se realice a menores de edad, si no son acompañados por un adulto que se haga responsable de la tenencia, atención adecuada y buen trato al animal;
 
-II. La que se realice en la vía pública salvo que cuenten con permiso de la autoridad competente que razonablemente contenga requisitos para la protección de los mismos, garantizando su bienestar animal;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
-III. Cuando dicha acción se realice en un área de uso habitacional, salvo que la actividad onerosa, aun y con anuncio público de por medio sea excepcional y temporal;
+II. En la vía pública, salvo que cuenten con permiso vigente de la autoridad competente, mismo que para su otorgamiento, el solicitante deberá acreditar que cumple con todas las condiciones necesarias para garantizar la protección y el bienestar integral de los animales;
 
-IV. Cuando se trate de cachorros de animales de compañía convencionales con edad menor a dos meses;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
-V. Cuando se trate de polluelos de animales de compañía no convencionales antes de la emancipación de la madre; y
+III. En áreas de uso habitacional, cuando no se cuente con permiso vigente, ni se cumpla con los requisitos estipulados en los artículos 29, 30 y demás aplicables de esta Ley; lo anterior, salvo que se trate de una actividad gratuita y realizada de forma excepcional;
 
-VI. Cuando no se entreguen al adquirente la guía informativa para el manejo del animal, el Certificado de Salud, el Certificado de Procedencia y la garantía respectiva.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+IV. Cuando se trate de cachorros de animales de compañía convencionales con edad menor a dos meses, o de cualquier edad siempre que dependa de su madre para subsistir;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+V. Cuando se trate de polluelos de animales de compañía no convencionales antes de la emancipación de la madre;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+VI. Cuando no se entreguen al adquirente la guía informativa para el manejo del animal, el Certificado de Salud, el Certificado de Procedencia y la garantía respectiva; y
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+VII. En los demás casos que prevea esta Ley u otras normas aplicables.
 
 ###### Artículo 35.
 
@@ -519,45 +903,119 @@ Las personas físicas o morales cuya actividad involucre el manejo de animales e
 
 Son animales domésticos de carga, tiro y monta los animales pertenecientes al género Equs, como caballos y asnos, así como los bovinos que son utilizados para realizar el servicio de carga estibada en el lomo, tiro de carretones, carretas, arados e implementos agrícolas y monta de jinetes.
 
-La vida laboral de los animales de carga y tiro no será mayor a 15 años, considerando en dicho cómputo su edad fisiológica, siempre y cuando gocen de buena salud para el desempeño de dichas actividades.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE ENERO DE 2020)</small>
+
+Se prohíbe el uso laboral de los animales de carga y tiro en las áreas urbanas del Estado.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE ENERO DE 2020)</small>
+
+La vida laboral de los animales de carga, tiro y monta no será mayor de 15 años a partir de su fecha de nacimiento. Para determinar la fecha de nacimiento del animal, se deberá contar con un dictamen con firma y cédula profesional de un Médico Veterinario Zootecnista que deberá avalar la fecha de nacimiento del animal de la forma más precisa que médicamente sea posible, debiendo contener dicho dictamen una justificación debida.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+La vida laboral de los animales de carga, tiro y monta podrá ser menor a 15 años a partir de su fecha de nacimiento, siempre que se determine que el animal en cuestión no se encuentra en condiciones de salud óptimas para continuar sus labores, debiendo considerar para tal efecto la edad fisiológica, la salud y la integridad física y emocional del animal, para lo cual se deberá contar con un dictamen con firma y cédula profesional de un Médico Veterinario Zootecnista, mismo que deberá contener una justificación debida.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2020)</small>
 
 ###### Artículo 49.
 
-Toda persona que sea propietaria, encargada o posea un animal de carga, tiro o monta, debe procurarle alimentación, cuidado y resguardo apropiados, así como los tratamientos veterinarios profesionales, en los términos previstos en la presente Ley y en las normas jurídicas aplicables.
+Toda persona que sea propietaria, encargada o posea un animal de carga, tiro o monta, debe procurarle alimentación, cuidado y resguardo apropiados, así como los tratamientos veterinarios profesionales, preventivos y curativos, en los términos previstos en la presente Ley y en las normas jurídicas aplicables.
 
 Deberán observar lo siguiente:
 
-I. Otorgar agua o alimento al animal previo o durante sus periodos de trabajo, las cuales deberán ser en cantidad y calidad adecuadas según su actividad, evitando riesgos de salud;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
-II. Queda prohibido que los animales de carga y tiro sean manejados, con métodos de sujeción, es decir, atarlos de una o varias extremidades para evitar o limitar su desplazamiento; y
+I. Otorgar agua y alimento al animal previo o durante sus periodos de trabajo, las cuales deberán ser en cantidad y calidad adecuadas según su actividad, evitando riesgos a la salud y jornadas excesivas de trabajo sin periodos de descanso;
 
-III. Proporcionar al equino la atención y el paseo necesarios para ejercitarse según su función zootécnica.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+II. Queda prohibido que los animales de carga y tiro sean manejados, con métodos de sujeción, es decir, atarlos de una o varias extremidades para evitar o limitar su desplazamiento;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+III. Proporcionar al equino la atención y paseo necesario para ejercitarse, según su función zootécnica, así como proporcionarle un lugar de resguardo que lo proteja de las inclemencias del tiempo y le brinde seguridad, además de tener comederos y bebederos adecuados y apropiados a su altura; y
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+IV. Proporcionar los servicios médicos veterinarios necesarios según su especie, tanto preventivos como curativos, mismos que no deberán ser espaciados por más de un año natural.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2020)</small>
 
 ###### Artículo 50.
 
-Los vehículos de tracción animal no podrán ser cargados con peso excesivo o desproporcionado, y se deberá tomar en cuenta las condiciones de los animales que se empleen.
+Los vehículos de tracción animal quedaran prohibidos para su uso en todo el estado salvo que sean utilizados en labores propias del campo.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+Por ningún motivo se podrá utilizar a un animal de tiro para transportar basura o desechos en ninguna zona urbana.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+Los animales de carga no podrán ser cargados en ningún caso con un peso superior a la tercera parte del suyo; incluyendo el peso de la persona o personas que los conduzcan. La carga se distribuirá proporcionalmente sobre el lomo del animal y cuidando que no le cause contusiones, laceraciones o heridas.
 
 ###### Artículo 51.
 
 Los animales, en condiciones fisiológicas no aptas como los desnutridos, enfermos, con lesiones en la columna vertebral o extremidades, contusiones, heridas o laceraciones que les produzcan sufrimiento, no podrán ser utilizados para tiro, carga o monta.
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+Para las labores de tiro, carga o monta permitidas en los artículos 48 y 50, queda prohibido, salvo por caso fortuito o de fuerza mayor acreditable, el uso de potrillos de edad menor a cuatro meses o de hembras en el período próximo al parto, entendiendo por éste el último tercio de la gestación, y en el periodo de postparto, entendiendo por éste los tres meses posteriores al parto.
+
 ###### Artículo 52.
 
 Los arreos, sillas, y demás implementos utilizados en los animales de carga, tiro y monta, deberán ser uncidos sin maltrato y adecuados en tamaño y condiciones, evitando que provoquen lesiones al animal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2020)</small>
+
 ###### Artículo 53.
 
-Los animales utilizados para carga, tiro o monta que se utilicen en las zonas conurbadas o recreativas con calles empedradas o asfaltadas, deberán ser necesariamente herrados con el tipo de herraduras y accesorios adecuados que no implique que el animal se resbale o se le dificulte el movimiento para su traslado y tiro del carro, carretón o carreta.
+Los animales utilizados para monta en zonas conurbadas o recreativas, con calles empedradas o asfaltadas, deberán de ser herrados con el tipo de herraduras y accesorios que no impliquen que el animal se resbale o se le dificulte el movimiento para su traslado.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+Será obligatorio también el mantenimiento de dicho herraje con la frecuencia que en cada caso sea requerida para garantizar la salud y el bienestar del animal.
 
 ###### Artículo 54.
 
 Ningún animal destinado a la carga, monta y tiro, durante el desempeño del trabajo o fuera de él, podrá ser maltratado.
 
-Al final de las jornadas se deberán dar los cuidados propios de su especie.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+
+Si durante el desempeño del trabajo el animal cae al suelo, deberá ser descargado y desuncido sin violencia; asimismo, deberá revisarse que el animal se encuentre en condiciones físicas y fisiológicas aceptables para reiniciar las labores. En caso de que el animal se encuentre enfermo, herido, lesionado, con contusiones, fracturas o luxaciones, deberá ser solicitada la asistencia de un Médico Veterinario Zootecnista para garantizar el bienestar del animal y para determinar si éste se podrá reincorporar al trabajo.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+Al final de la jornada de trabajo, se deberán dar los cuidados propios de la especie, tales como el enfriamiento, baño, limpia y/o cepillado de los animales, para el retiro de los restos de tierra, lodo, sudor o cualquier suciedad que pueda ocasionar molestia o lastime al animal.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+En el caso de los equinos, está prohibido tusar las crines y colas, a menos que se trate de una indicación médico veterinaria que justifique este procedimiento, para lo cual se deberá contar con un dictamen con firma y cédula profesional de un Médico Veterinario Zootecnista, mismo que deberá contener una justificación debida.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 ###### Artículo 55.
 
-Los lugares donde se alojen los animales deberán estar cubiertos del sol y la lluvia, así como distribuidos de forma conveniente, observando las disposiciones de esta Ley y de las normas jurídicas aplicables.
+Los lugares donde se alojen los animales, así como aquellos de donde beban agua o se alimenten, deberán estar cubiertos del sol y la lluvia, así como distribuidos en el alojamiento de forma conveniente, observando las disposiciones de esta Ley, su Reglamento y de las demás normas jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+###### Artículo 55 Bis.
+
+Es obligación del propietario o poseedor del animal de carga, tiro o monta inscribirlo en el Registro Animal conforme a lo dispuesto en artículo 15 de esta Ley, con el fin de que la Secretaría expida carnet de registro y para que cada semestre sea acreditado su buen estado de salud y capacidad de trabajo, estado nutricional, desparasitación semestral, condición de aplomos y control de vacunación por un Médico Veterinario Zootecnista.
+
+Durante las jornadas de trabajo será obligatorio para el propietario, poseedor o encargado del animal, llevar siempre consigo dicho carnet de registro, así como mostrarlo a los inspectores de los Municipios o de la Secretaría en caso de ser requerido.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+###### Artículo 55 Bis 1.
+
+Las organizaciones civiles legalmente constituidas y las instituciones educativas podrán celebrar convenios con la Secretaría para que los animales de carga, tiro y monta que sean asegurados y decomisados pasen a su custodia o puedan allegarse, a través de terceros, de lugares y recursos adecuados para su estancia y mantenimiento.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+###### Artículo 55 Bis 2.
+
+La Secretaría, los Municipios y el Consejo Ciudadano de Protección y Bienestar Animal diseñarán y llevarán a cabo un programa de sustitución o reemplazo progresivo de animales de carga y tiro por vehículos automotores, de tracción humana u otras alternativas disponibles, considerando programas que incluyan en la medida de posibilidad de cada municipio el beneficio social de las personas y sus familias que utilizan a estos animales como parte de su trabajo y sustento.
 
 ### CAPÍTULO XII. DE LOS RASTROS Y DEL SACRIFICIO DE ANIMALES
 
@@ -641,15 +1099,17 @@ El Médico Veterinario Zootecnista responsable del Centro de Control Canino y Fe
 
 El Centro de Control Canino y Felino deberá dar parte de inmediato a la Secretaría sobre las capturas de animales y de sus particularidades, con el fin de que la Secretaría evalúe e imponga las sanciones administrativas correspondientes a los propietarios, poseedores o encargados de los animales capturados en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+
 ###### Artículo 74.
 
-Los animales sin reporte de extravío serán alojados en el Centro de Control Canino y Felino por un plazo de tres días hasta 15 días naturales.
+Los animales sin reporte de extravío serán alojados en el Centro de Control Canino y Felino por un plazo de hasta 10 días naturales, en términos de lo dispuesto por el tercer párrafo del artículo 6 de esta Ley.
 
-En el caso de los animales reportados cómo extraviados a la Secretaría, el lapso máximo de estancia dentro del Centro de Control Canino y Felino será de cinco hasta 15 días naturales a partir de la fecha de su ingreso al Centro para que su propietario, poseedor o encargado pase a recogerlos.
+En el caso de los animales reportados como extraviados a la Secretaría, el lapso máximo de estancia dentro del Centro de Control Canino y Felino será de 20 días naturales a partir de la fecha de su ingreso al Centro para que su propietario, poseedor o encargado pase a recogerlos.
 
-Todos los animales capturados deberán ser ingresados al Centro dentro de las 8 horas posteriores a su captura. Durante el periodo de estancia del animal en el Centro, el mismo deberá recibir diariamente alimento y agua limpia suficientes.
+Todos los animales capturados deberán ser ingresados al Centro dentro de las 4 horas posteriores a su captura. Durante el periodo de estancia del animal en el Centro, el mismo deberá recibir diariamente alimento y agua limpia suficientes; asimismo, deberá recibir atención médica-veterinaria preventiva por lo menos una vez al ingresar al Centro y atención médica-veterinaria curativa siempre que lo necesite el animal.
 
-Al cumplir el lapso establecido, la disposición de estos animales se realizará conforme lo establecido en esta Ley y el marco jurídico aplicable.
+Al cumplir el lapso establecido, la disposición de estos animales se realizará conforme lo establecido en esta Ley y el marco jurídico aplicable, pero bajo ninguna circunstancia podrá sacrificarse al animal, salvo que se trate del caso estipulado en la fracción XLVI del artículo 3 de esta Ley.
 
 ###### Artículo 75.
 
@@ -728,6 +1188,48 @@ El Centro de Control Canino y Felino deberá contar con los expedientes actualiz
 ###### Artículo 86.
 
 Los Centros de Control Canino y Felino deberán contar con la separación física de las áreas, y de mantenerlas limpias, desinfectadas y libres de olores que puedan causar molestia a los vecinos.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+###### Artículo 86 Bis.
+
+En el Centro de Control Canino y Felino deberán de considerarse las siguientes medidas de buen trato y seguridad para los animales:
+
+I. Contar con un buen sistema de asideros, que los aseguren y no los maltraten en la piel o sujetándolos fuertemente;
+
+II. Hacer la separación entre madres gestantes, madres con cachorros, animales de diferentes especies, de diferentes tamaños, animales agresivos, animales en agonía, entre otras separaciones que deban hacerse para garantizar la integridad física de los animales durante sus días de estancia;
+
+III. Asegurarse que jaulas y drenajes cuenten con las puertas y rejillas y registros de drenaje en buen estado, de tal forma que no vayan a caerse o a salirse los animales pequeños de su lugar de confinamiento o que no vayan a lastimarse los animales en general;
+
+IV. Se debe tener iluminación y ventilación suficiente, así como sistemas de limpieza y desinfección diaria y fumigación periódica;
+
+V. Las camionetas de recolección deben estar en buen estado y deben tener las separaciones correspondientes para que los animales viajen en forma segura y ninguno corra peligro;
+
+VI. Todos los animales deberán recibir agua y comida diariamente en comederos a su alcance, y sin que la diferencia de tamaños deje a animales pequeños, débiles o de mayor edad sin acceso al alimento;
+
+VII. El sacrificio deberá realizarse respetando los días de estancia para que sus dueños vayan a recogerlos, y cumpliendo con la normativa correspondiente del uso de sedantes para la insensibilización previa, y barbitúricos, siempre dejando el tiempo necesario para que haga efecto el sedante, y asegurando su muerte con estetoscopio o con algún método que garantice su muerte antes de proceder con el envío de cadáveres.
+
+Está prohibido todo sacrificio que no sea sacrificio humanitario, en los términos de la fracción XLV del artículo 3 de esta Ley;
+
+VIII. Los animales que lleguen en dolor o en agonía y estén en sufrimiento, deberán ser sujetos a valoración médico veterinaria y en su caso realizar el sacrificio humanitario lo antes posible, siempre que éste tenga por fin salvaguardar el bienestar animal;
+
+IX. Las placas y medidas de identificación, tales como tatuajes, chips de identificación u otros métodos, deberán ser revisados de todos los animales que ingresen para la notificación a sus propietarios, y que cumplan con la responsabilidad respectiva que haya decidido el Municipio; y
+
+X. Se debe privilegiar la adopción de los animales, para lo cual se trabajará en colaboración con las organizaciones civiles y la ciudadanía.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+###### Artículo 86 Bis 1.
+
+En relación con los empleados que trabajan en los Centros de Control Canino y Felino:
+
+I. Deben recibir el sistema de vacunación e inmunidad que aplique de acuerdo al riesgo que corren;
+
+II. Deben ser capacitados en el manejo seguro y humano de animales, para evitar el maltrato animal;
+
+III. Deben contar con la asignación de ropa de trabajo adecuada para realizar sus labores: botas, traje de trabajo, guantes de seguridad, entre otras herramientas, con el propósito de evitar y contener las enfermedades infecciosas u otros riesgos a los que se exponen; y
+
+IV. Deben ser revisados periódicamente por un profesional médico y por un profesional de psicología, mínimo una vez al año, y en caso de requerirlo recibir la terapia que en su caso se requiera.
 
 ### CAPÍTULO XIV. DE LOS SERVICIOS Y CENTROS DE ATENCIÓN VETERINARIA
 
@@ -835,9 +1337,11 @@ Cualquier persona física o moral, organización no gubernamental y asociación 
 
 La autoridad competente exhortará de manera permanente a la sociedad en general a denunciar hechos u omisiones que produzcan o puedan producir maltrato a los animales o alterar su bienestar en violación a la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2020)</small>
+
 ###### Artículo 101.
 
-La denuncia se realizará por escrito, y deberá contener la siguiente información:
+La denuncia se realizará mediante escrito libre o por vía telefónica o electrónica, utilizando preferentemente los formatos que para tal efecto estipule la Secretaría, y deberá contener la siguiente información:
 
 I. El nombre o razón social, domicilio, teléfono y correo electrónico si lo tiene, del denunciante y, en su caso, de su representante legal:
 
@@ -847,9 +1351,15 @@ III. Los datos que permitan identificar al presunto infractor y el lugar donde s
 
 IV. Las pruebas que en su caso ofrezca el denunciante.
 
-La denuncia deberá ser ratificada dentro de los tres días siguientes a su presentación.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+
+La denuncia deberá ser ratificada de manera presencial, por escrito, vía telefónica o vía electrónica dentro de los tres días siguientes a su presentación, proporcionando el denunciante todos los datos necesarios a la autoridad competente para dar certeza del hecho y de la identidad del denunciante.
 
 Si el denunciante solicita a la autoridad guardar secreto respecto de su identidad, por razones de seguridad o interés particular, aquella quedará obligada a reservar la información personal del denunciante.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+En caso de que la denuncia no cumpla con los requisitos establecidos en este artículo, será desechada.
 
 ###### Artículo 102.
 
@@ -879,9 +1389,25 @@ Si del resultado de las investigaciones realizadas por la autoridad competente s
 
 Una vez admitida la denuncia, la autoridad competente llevará a cabo la identificación del denunciante y hará del conocimiento la denuncia a la persona o personas, o a las autoridades a quienes se imputen los hechos denunciados o a quienes pueda afectar el resultado de la acción emprendida, a fin de que presenten los documentos y pruebas, que a su derecho convenga, en un plazo máximo de 5 días hábiles a partir de la notificación respectiva.
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+La Secretaría está obligada a mantener oportunamente informado al denunciante sobre la evolución del proceso administrativo que se entable con motivo de su denuncia, incluyendo la información sobre cuáles fueron los resultados de dicho procedimiento y las sanciones que en su caso se hayan impuesto al infractor de la presente Ley y de su Reglamento.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+La autoridad deberá llevar un registro de todas las denuncias recibidas y asignar un número de denuncia para identificar cada expediente.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+La autoridad estará obligada, cuando así proceda el caso, de dar parte a otras autoridades estatales, federales o municipales que sean competentes de conocer de las infracciones cometidas en términos de esta Ley u otras aplicables a la infracción y/o al delito cometido.
+
 ###### Artículo 107.
 
 La formulación de la denuncia, así como los acuerdos, resoluciones y recomendaciones que emita la autoridad competente, no afectarán el ejercicio de otros derechos o medios de defensa que pudieran corresponder a los afectados, conforme a las disposiciones jurídicas aplicables, y tampoco suspenderán ni interrumpirán sus plazos preclusivos, de prescripción o de caducidad.
+
+### CAPÍTULO XIX. DEL CONSEJO CIUDADANO DE PROTECCIÓN Y BIENESTAR ANIMAL
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
 
 ###### Artículo 108.
 
@@ -1015,31 +1541,95 @@ La Secretaría es la autoridad competente para imponer las sanciones administrat
 
 Para efectos de esta Ley se consideran infracciones administrativas:
 
-I. Abandonar voluntariamente a un animal o animales por el propietario, poseedor o encargado en lugares de alto riesgo y peligro para su supervivencia como calles, carreteras, vía pública, lotes baldíos, despoblados, casas deshabitadas, entre otros;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
-II. Permitir que deambule solo o sin control del propietario o poseedor, que cause daños a terceros o a otros animales, o que defeque en la vía pública sin que sus heces sean recogidas por el propietario, poseedor o encargado;
+I. Todo acto de maltrato y crueldad hacia los animales según se define en esta Ley y su Reglamento;
 
-III. No estar inscrito como persona física o moral para realizar cualquiera de las actividades que bajo la presente Ley requieren contar con la inscripción al Registro que lleve la Secretaría en los términos de la presente Ley o no cumplir con las disposiciones que el procedimiento de inscripción establezca;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
-IV. Exhibir animales en circos, dentro del territorio del Estado de Nuevo León en contravención a esta Ley y las leyes federales aplicables; así como utilizarlos o transportarlos en las vías públicas para promover sus espectáculos;
+II. Permitir que los animales defequen en la vía pública sin que sus heces sean recogidas por el propietario, poseedor o encargado;
 
-V. Comprar o vender un animal que de conformidad con la presente Ley no puede ser comercializado en el Estado;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
-VI. No insensibilizar a los animales de compañía previo a su sacrificio, infringirles dolor, sufrimiento innecesarios en el proceso;
+III. Realizar cualquier actividad que requiera contar con la inscripción al Registro que lleve la Secretaría, en los términos de la presente Ley y su Reglamento, así como no cumplir con las disposiciones que el procedimiento de inscripción establezca;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+IV. Exhibir animales en circos, dentro del territorio estatal, así como utilizarlos, transportarlos o exhibirlos en vías públicas para promover sus espectáculos, en contravención a esta Ley y las leyes federales aplicables;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+V. Comprar, vender o transmitir el dominio de un animal que no pueden ser comercializado en el territorio estatal, conforme a la presente Ley y su Reglamento;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+VI. No insensibilizar a los animales de compañía previamente a su sacrificio, o bien, infringirles dolor o sufrimientos innecesarios en el proceso;
 
 VII. No insensibilizar previamente a los animales que serán usados en las prácticas académicas universitarias, o no sacrificarlos al término de la operación, o bien realizar alguna de estas acciones sin la supervisión directa y presencial de un Médico Veterinario Zootecnista en los términos de la presente Ley;
 
-VIII. Vender animales en la vía pública; así como no cumplir con la entrega de garantías, guías de cuidado o manuales para el adecuado cuidado del animal enajenado; y
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
-IX. Llevar a cabo la venta de animales a menores de edad o incapaces sin la supervisión y consentimiento de un adulto que se haga responsable del animal.
+VIII. Enajenar o transmitir de dominio animales de acuerdo con el artículo 34 de la presente Ley; así como no cumplir con la entrega de garantías, guías de cuidado o manuales para el adecuado cuidado del animal enajenado cuando dicha transmisión haya sido onerosa;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+IX. Confinar a algún animal en viviendas deshabitadas o bien en cualesquier otra edificación, inmuebles, patios, pasillos, azoteas, balcones, terrazas o cualquier otro lugar similar, sin la adecuada supervisión, alimento, agua, cuidados veterinarios, protección contra las inclemencias del clima y compañía, en términos de esta Ley y su Reglamento;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+X. Dejar sin supervisión a algún animal en vehículos, cuartos o cobertizos u otros sitios similares que representen, por la temperatura extrema o por otras causas análogas, un riesgo para su salud, integridad física o vida del animal;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XI. No proporcionar en los lugares de recreación, exhibición y cautiverio, las áreas adecuadas que permitan la libertad de movimiento del animal en todas las direcciones y las condiciones de seguridad adecuadas, tanto para el animal como para las personas, así como no proporcionar higiene y las condiciones de hábitat que emulen a las naturales, según su especie;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XII. Omitir la adopción de medidas de seguridad necesarias por parte del propietario, poseedor o encargado para evitar que los animales causen riesgos rutinarios a los vecinos o a su entorno;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XIII. Usurpar funciones de Médico Veterinario Zootecnista o de personal calificado, en los términos de esta Ley y su Reglamento, sin perjuicio de las responsabilidades administrativas, civiles y penales establecidas en los demás ordenamientos jurídicos. Asimismo, serán sujetos a sanción los Médicos Veterinarios Zootecnistas que emitan certificados de salud, así como carnets para los animales de carga, tiro y monta que no reflejen verazmente las condiciones de salud y edad biológica para trabajar, en perjuicio de dichos animales;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XIV. No contar con seguro de responsabilidad civil vigente, cuando la Ley así lo exija;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XV. Llevar a cabo la venta de animales a menores de edad o incapaces sin la supervisión y consentimiento de quien ejerza la patria potestad o la tutela sobre los mismos, quien deberá hacerse responsable del animal, o bien, llevar a cabo dicha enajenación bajo cualquier título legal sin cumplir con los requisitos que establece la presente Ley;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XVI. En el caso de quien labore en establecimientos dedicados al sacrificio de animales de compañía, será sujeto de sanción no insensibilizar a un animal previo a su sacrificio, en los términos que dicta la fracción XXXII del artículo 3 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XVII. En el caso del propietario, poseedor o encargado, abandonar a un animal en lugares de riesgo y peligro para su salud, integridad física o mental o vida, tales como calles, carreteras, cualquier otro lugar de la vía pública, lotes baldíos, lugares despoblados, casas deshabitadas, entre otros;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XVIII. Emplear animales de carga, tiro y monta para actividades laborales prohibidas en los artículos 48 y 50 de la presente Ley, así como no cumplir con la regulación establecida en la presente Ley para dicha actividad;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XIX. Se prohíbe todo acto de zoofilia sobre cualquier animal; e
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
+XX. Incumplir con cualquier otra disposición de la presente Ley y su Reglamento.
 
 ###### Artículo 128.
 
 A quienes infrinjan la presente Ley, se aplicarán las sanciones siguientes:
 
-I. Apercibimiento o amonestación pública o privada;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
-II. Multa de 10 a 10,000 cuotas a la fecha en que se cometa la infracción, por cuota se debe de entender la unidad de medida;
+I. Amonestación pública o privada;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+II. Multa de 50 a 10,000 veces la unidad de medida y actualización, a la fecha en que se cometa la infracción;
 
 III. Lo establecido conforme al Delito de Maltrato Animal o Crueldad contra los Animales domésticos, en los términos del Código Penal para el Estado de Nuevo León;
 
@@ -1051,9 +1641,9 @@ VI. Pago de todos los gastos erogados por el depositario de los ejemplares decom
 
 VII. Además de las sanciones aplicables al caso concreto, se podrá imponer como sanción la realización del trabajo comunitario que determine la autoridad competente.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
-Independientemente de la sanción aplicable en los términos de esta ley, en los casos de maltrato o crueldad contra los animales domésticos en los términos del Código Penal de (sic) Estado de Nuevo León, la autoridad que tenga conocimiento, dará aviso al Ministerio Público.
+Independientemente de las sanciones aplicables en esta Ley, en los casos de maltrato o crueldad contra los animales en los términos del Código Penal de Estado de Nuevo León, la autoridad que tenga conocimiento, dará aviso al Ministerio Público.
 
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2018)</small>
 
@@ -1064,6 +1654,10 @@ Para imponer las sanciones señaladas la autoridad competente considerará la gr
 Cuando se compruebe que el daño causado fue realizado en forma imprudencial, o bien, que se derive de la suma ignorancia, notoria inexperiencia o extrema miseria del infractor, la autoridad administrativa que conozca del caso, y por una sola ocasión, podrá reducir la sanción administrativa hasta un cincuenta por ciento.
 
 La Secretaría en caso de reincidencia en cualquiera de las infracciones establecidas en este capítulo, podrá aumentar la multa hasta por el doble de la sanción pecuniaria correspondiente.
+
+### CAPÍTULO XX. FIDEICOMISO MIXTO DE PROTECCIÓN Y BIENESTAR ANIMAL
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
 
 ###### Artículo 130.
 
@@ -1080,6 +1674,206 @@ La Secretaría radicará el recurso en un plazo de 5 días hábiles y fijará fe
 ###### Artículo 133.
 
 Transcurrido el plazo para el desahogo de las pruebas y presentación de alegatos, la Secretaría deberá resolver el recurso de inconformidad en un plazo de 15 días hábiles.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2020)</small>
+
+###### Artículo 134.
+
+La Secretaría integrará un órgano de consulta denominado Consejo Ciudadano de Protección y Bienestar Animal, en el que participarán representantes de la ciudadanía en general, de organizaciones de la sociedad civil, instituciones académicas, colegios de médicos veterinarios zootecnistas y de biólogos, asociaciones públicas y privadas, órganos empresariales y autoridades competentes en la materia.
+
+Dicho órgano ciudadano tendrá funciones de asesoría, evaluación, seguimiento y colaboración en las políticas de protección y bienestar animal integral y sostenible y podrá emitir opiniones, observaciones y recomendaciones que estime pertinentes y oportunas. Su organización y funcionamiento se sujetará a lo dispuesto por esta Ley, su Reglamento y el Reglamento Interno que emita el propio Consejo Ciudadano.
+
+Cuando la Secretaría deba resolver un asunto sobre el cual el Consejo Ciudadano hubiese emitido una opinión, observación o recomendación, deberá exponer de manera fundada y motivada las causas de aceptación o rechazo de la misma.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+###### Artículo 135.
+
+El Consejo Ciudadano de Protección y Bienestar Animal será integrado de manera plural e incluyente por los siguientes 16 miembros, con derecho a voz y voto:
+
+I. Cuatro representantes de la ciudadanía en general, dos mujeres y dos hombres, con probada experiencia e interés en materia de protección y bienestar animal;
+
+II. Cuatro representantes de las organizaciones de la sociedad civil sin fines de lucro, dos mujeres y dos hombres, con más de dos años dedicados a la protección y bienestar animal;
+
+III. Cuatro representantes, dos mujeres y dos hombres, de las instituciones académicas directamente vinculadas o relacionadas con el estudio y abordaje profesional de los animales; y
+
+IV. Cuatro representantes de los colegios de médicos veterinarios zootecnistas y de biólogos, dos mujeres y dos hombres.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+###### Artículo 136.
+
+Para la elección de los integrantes del Consejo Ciudadano, el Congreso del Estado deberá publicar una convocatoria dirigida a las personas mencionadas en el artículo anterior, mismas que deberán cumplir con los siguientes requisitos:
+
+I. Ser ciudadano neoleonés con residencia mínima de seis meses anteriores a la fecha de publicación oficial de la convocatoria, o ser residente en Nuevo León con residencia mínima de 2 años anteriores a la fecha de publicación oficial de la convocatoria;
+
+II. Allegar su currículum vitae;
+
+III. Allegar las pruebas documentales, testimoniales o cualquier otra que sirva para probar que se encuentran en los supuestos que mandata el artículo anterior; y
+
+IV. Presentar un escrito libre, en el que justifiquen su intención de formar parte del Consejo Ciudadano.
+
+La convocatoria establecerá el método de selección que establezca el Congreso del Estado, el cual en un primer término se revisará en la Comisión de Medio Ambiente.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+###### Artículo 137.
+
+Los integrantes del Consejo Ciudadano durarán en su encargo 3-tres años, con posibilidad de reelección hasta por un periodo igual. Su designación y el término de su encargo serán de forma escalonada, con el objetivo de que no se pierda la experiencia acumulada en dicho Consejo.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+###### Artículo 138.
+
+Por cada Consejero designado, se designará un suplente, quien fungirá en el Consejo en casos de ausencia definitiva del Consejero propietario.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+###### Artículo 139.
+
+Cada integrante Propietario deberá acudir por lo menos, a dos terceras partes de las sesiones ordinarias y extraordinarias que celebre el Consejo Ciudadano.
+
+Si se transgrede la disposición anterior, el integrante Propietario será destituido y el Congreso del Estado procederá designar al Suplente, quien durará el cargo por el periodo que reste a quien sustituye.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+###### Artículo 140.
+
+Serán invitados permanentes del Consejo Ciudadano un representante por cada una (sic) de los siguientes entes públicos, quienes tendrán únicamente derecho a voz:
+
+I. Dirección de Parques y Vida Silvestre de la Secretaría de Desarrollo Sustentable del Estado;
+
+II. Subsecretaría de Regulación y Fomento Sanitario de la Secretaría de Salud del Estado;
+
+III. Subsecretaría de Prevención y Participación Ciudadana de la Secretaría de Seguridad Pública del Estado;
+
+IV. Comisión de Medio Ambiente, Comisión de Desarrollo Sustentable, Comisión de Justicia, Comisión de Educación y Comisión de Salud del Congreso del Estado de Nuevo León;
+
+V. Dirección de Salud y/o de Protección Civil de los Municipios del Área Metropolitana de Monterrey; y
+
+VI. Dirección de Salud y/o de Protección Civil de un Municipio de la Región Noroeste, de un Municipio de la Región Noreste, de un Municipio de la Región Sur, de un Municipio de la Región Valle del Pilón y de un Municipio de la Región Centro Periférica; lo anterior, de conformidad con el criterio del Instituto Nacional para el Federalismo y el Desarrollo Municipal.
+
+Los invitados permanentes mencionados en este artículo podrán participar en las sesiones del Consejo Ciudadano, con derecho a voz, pero sin voto, así como podrán presentar propuestas y opiniones al mismo en cualquier tiempo, mismas que deberán ser discutidas a más tardar en la segunda reunión del Consejo posterior a la presentación de la propuesta u opinión.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+###### Artículo 141.
+
+El Presidente del Consejo Ciudadano deberá ser una persona con amplia trayectoria en el campo de la protección y el bienestar animal, así como de reconocida calidad moral. El cargo de Presidente será honorífico y tendrá una duración de 3-tres años, pudiéndose prorrogar hasta por un periodo igual.
+
+El cargo de Presidente del Consejo Ciudadano tendrá como principal misión el representar los intereses de la protección y bienestar animal, así como vigilar el cumplimiento de esta Ley, su Reglamento y demás normas aplicables y que las decisiones de las autoridades competentes se apliquen con estricto apego a derecho.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+###### Artículo 142.
+
+El Consejo Ciudadano de Protección y Bienestar Animal sesionará ordinariamente cada tres meses y extraordinariamente cuando sea convocado por acuerdo y propuesta de la tercera parte más uno de sus miembros o por el Presidente.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+###### Artículo 143.
+
+Todas las sesiones del Consejo Ciudadano deberán ser públicas, salvo que medie una orden judicial en contrario. Para garantizar el principio de publicidad y máxima transparencia, todas las sesiones deberán transmitirse en vivo por Internet y estar disponibles para su posterior consulta por cualquier persona; asimismo, deberá publicarse en Internet el orden del día de la sesión con por lo menos 24 horas naturales de anticipación, salvo que se trate de una sesión convocada en forma urgente, en cuyo caso deberá publicarse el orden del día de la sesión antes de la hora de inicio de la sesión, sin mediar plazo mínimo.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+###### Artículo 144.
+
+El Consejo Ciudadano de Protección y Bienestar Animal tendrá las siguientes atribuciones:
+
+I. Fungir como órgano de asesoría y de consulta de la Secretaría, respecto a los planes, programas y estrategias en materia de protección y bienestar animal;
+
+II. Impulsar y favorecer la participación ciudadana y de todos los sectores interesados en las acciones competencia de esta Ley y de su Reglamento;
+
+III. Gestionar con las autoridades competentes para que atiendan y resuelvan las denuncias y reportes de la ciudadanía sobre actos u omisiones violatorias a las disposiciones de esta Ley y de su Reglamento, así como darles seguimiento ante las instancias correspondientes;
+
+IV. Proponer y realizar vínculos de coordinación con los responsables de las diferentes instancias de gobierno, así como con las organizaciones de la sociedad civil;
+
+V. Verificar de manera periódica el funcionamiento de los Centros de Control Canino y Felino, para asegurar el cabal cumplimiento de esta Ley y su Reglamento;
+
+VI. Observar el funcionamiento de espectáculos con animales en establecimientos fijos, móviles e itinerantes en los términos de esta Ley y su Reglamento y, en su caso, emitir recomendaciones no vinculantes a la Secretaría cuando ésta vaya a autorizar su operación en territorio estatal;
+
+VII. Emitir protocolos con relación a la salud pública derivada por riesgos sanitarios a causa de animales;
+
+VIII. Proponer y dar seguimiento al debido cumplimiento a las políticas, programas, proyectos y estrategias que se emprendan en beneficio de la protección y bienestar animal integral y sostenible;
+
+IX. Emitir opiniones, observaciones y recomendaciones no vinculantes a la Secretaría y a los titulares de los Poderes Ejecutivo, Legislativo y Judicial del Estado y de los Municipios;
+
+X. Medir y evaluar periódicamente resultados de las políticas, programas, proyectos y estrategias específicas en materia de protección y bienestar animal integral y sostenible, a partir de los informes de las autoridades competentes o de los estudios efectuados por el propio Consejo Ciudadano o por las universidades;
+
+XI. Informar periódicamente a la sociedad en general sobre los avances en materia de políticas de protección y bienestar animal integral y sostenible, así como los resultados de las evaluaciones;
+
+XII. Coordinarse con organismos nacionales e internacionales homólogos, con el fin de intercambiar información y experiencias mutuas;
+
+XIII. Integrar comisiones o comités de trabajo para la atención de asuntos específicos, de acuerdo con lo dispuesto por su Reglamento Interno;
+
+XIV. Verificar el funcionamiento del uso y racionalidad de los recursos que administre el Fideicomiso que refiere el Capítulo XX de esta Ley;
+
+XV. Establecer y promover estrategias interinstitucionales e interdisciplinarias entre la sociedad civil, instituciones educativas, sector productivo y autoridades con grupos defensores, voluntarios y rescatistas sobre la situación de maltrato y crueldad contra los animales;
+
+XVI. Expedir su Reglamento Interior y su Manual de Organización, así como mandarlos a su publicación oficial; y
+
+XVII. Las demás previstas en esta Ley, su Reglamento y el Reglamento Interior del Consejo Ciudadano de Protección y Bienestar Animal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2020)</small>
+
+###### Artículo 145.
+
+El Gobierno del Estado de Nuevo León, a través de la Secretaría, de la Secretaría de Salud y de la Secretaría de Finanzas y Tesorería General del Estado, así como de los Gobiernos Municipales, de organizaciones de la sociedad civil y de asociaciones protectoras de animales, constituirá un Fidecomiso Mixto con las siguientes aportaciones:
+
+I. Aportación de fondos estatales y municipales para realizar campañas de vacunación, desparasitación, esterilización y sacrificio humanitario de animales, entre otras tareas;
+
+II. Aportación del 100 (cien por ciento) por ciento de multas, derechos, productos, aprovechamientos y otras sanciones administrativas que se recauden por parte del Estado en cumplimiento de esta Ley y su Reglamento; y
+
+III. Las aportaciones diversas, tanto en efectivo como en especie, por parte de los sectores productivos y de la sociedad civil en su conjunto, con el fin de fomentar actividades que promuevan la protección y el bienestar animal, así como la educación y la tenencia responsables de animales.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+###### Artículo 146.
+
+Las cláusulas del Fideicomiso Mixto deberán contemplar una serie de disposiciones que garanticen a las partes contratantes el efectivo y adecuado uso del patrimonio, así como la administración transparente y la constante supervisión sobre la aplicación racional de los recursos para lograr los objetivos.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+###### Artículo 147.
+
+Los objetivos del Fideicomiso Mixto serán el financiamiento a mediano y largo plazo de las actividades educativas en materia de bienestar animal, tenencia responsable, campañas de vacunación y esterilización de animales de compañía, sacrificio humanitario de animales, programa de reemplazo de animales de carga y tiro por vehículos automotores y demás programas tendientes a lograr una mayor y más efectiva protección y bienestar animal integral y sostenible.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+
+###### Artículo 148.
+
+El Fideicomiso Mixto deberá contar con un Comité Técnico integrado por:
+
+I. Los siguientes representantes del Gobierno del Estado:
+
+a) Un representante de la Secretaría;
+
+b) Un representante de la Secretaría de Salud;
+
+c) Un representante de la Secretaría de Finanzas y Tesorería General del Estado; y
+
+d) Un representante adicional del Gobierno del Estado.
+
+II. Los siguientes representantes de los Gobiernos Municipales:
+
+a) Un representante de los Gobiernos Municipales Metropolitanos;
+
+b) Un representante de los Gobiernos Municipales de la Región Noroeste;
+
+c) Un representante de los Gobiernos Municipales de la Región Sur;
+
+d) Un representante de los Gobiernos Municipales de la Región Valle del Pilón; y
+
+e) Un representante de los Gobiernos Municipales de la Región- Centro Periférica.
+
+Lo anterior, de conformidad con el criterio del Instituto Nacional para el Federalismo y el Desarrollo Municipal.
+
+III. Representantes de las organizaciones de la sociedad civil; y
+
+IV. Representantes de los sectores productivos.
+
+Lo anterior, con la finalidad de garantizar la total transparencia en el manejo y uso de los recursos que se administren por la fiduciaria para la protección y el bienestar animal integral y sostenible.
 
 ## TRANSITORIOS
 
@@ -1134,3 +1928,31 @@ Primero.- El presente Decreto entrara en vigor al día siguiente al de su public
 Segundo.- La Secretaría promoverá en un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente Decreto, las modificaciones requeridas para la aplicación de las disposiciones modificadas de esta Ley.
 
 Tercero.- Las autoridades municipales promoverán, en un plazo no mayor a seis meses a partir de la entrada en vigor del presente Decreto, las reformas necesarias para ajustar los reglamentos municipales a las disposiciones modificadas de esta Ley.
+
+P.O. 29 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 176. SE REFORMA LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA (SIC) SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor el 01 de enero de 2020.
+
+Segundo.- El Titular del Poder Ejecutivo, a través de la Secretaría de Finanzas y Tesorería General del Estado, se coordinará con el Poder Legislativo para proponer y fijar las partidas del presupuesto necesario en la Ley de Egresos del Estado de cada ejercicio fiscal, con el fin de dar cumplimiento a lo previsto en el presente Decreto.
+
+Tercero.- En un plazo no mayor a 60-sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Desarrollo Sustentable del Estado de Nuevo León expedirá el Reglamento de esta Ley, conforme a las reformas aprobadas.
+
+Cuarto.- En un plazo no mayor a 90-noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, las Autoridades Municipales procederán a realizar los ajustes o adecuaciones necesarias a sus reglamentos municipales en la materia, conforme a las reformas aprobadas, o bien, a emitir el reglamento municipal respectivo.
+
+Quinto.- En un plazo no mayor de 90-noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, los Gobiernos Municipales y el Gobierno del Estado, a través de la Secretaría, deberán celebrar un convenio de coordinación y colaboración en materia de protección y bienestar animal.
+
+Sexto.- El Consejo Ciudadano de Protección y Bienestar Animal del Estado de Nuevo León, deberá de estar instalado a los 90 días naturales de la entrada en vigor del presente Decreto.
+
+Séptimo.- En un plazo no mayor a 30-treinta días hábiles posteriores a la instalación del Consejo Ciudadano de Protección y Bienestar Animal del Estado de Nuevo León, la Secretaría deberá poner a consideración del Consejo el manual para captura y atención de animales en la vía pública, mismo que deberá ajustarse a los principios de protección y bienestar animal integral y sostenible que dicta la presente Ley.
+
+Octavo.- A partir de los 30-treinta días hábiles a partir de su instalación, el Consejo Ciudadano de Protección y Bienestar Animal deberá coadyuvar con la Secretaría para la verificación de los espectáculos fijos, móviles e itinerantes que utilicen animales, conforme a las estipulaciones del Capítulo IV de esta Ley.
+
+Noveno.- Los Municipios que no cuenten con un Centro de Control Canino y Felino a la puesta en vigor del presente Decreto, en un plazo no mayor a 180-ciento ochenta días hábiles, deberán de celebrar el convenio de colaboración respectivo con la Secretaría y con sus Municipios circunvecinos, para que los procedimientos de captura, traslado, custodia, estancia y sacrificio humanitario de animales se realice en los términos de esta Ley.
+
+Décimo.- La Secretaría tendrá un plazo no mayor de 90-noventa días hábiles, contado a partir de la entrada en vigor del presente Decreto, para habilitar el Registro de Animales, conforme al artículo 15 de la presente Ley, así como el Registro de establecimientos, personas físicas y morales, dedicados a la crianza y venta de animales de compañía, quienes tendrán un término no mayor de 30-treinta días hábiles contados a partir de la habilitación del Registro para solicitar su inscripción y completar el Registro.
+
+Décimo Primero.- Los propietarios, poseedores o encargados de animales contarán con un plazo de 180-ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, para inscribirlos en el Registro de Animales, conforme al artículo 15 de esta Ley.
+
+Décimo Segundo.- La Secretaría y los Municipios tendrán un plazo no mayor de 2- dos años, contados a partir de la entrada en vigor del presente Decreto, para llevar a cabo la sustitución o reemplazo progresivo de animales de carga y tiro por vehículos automotores, con la aplicación de recursos del Fideicomiso Mixto.
