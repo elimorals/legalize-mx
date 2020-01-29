@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-hacendaria-del-estado-de-morelos-38748"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2019-02-18"
+last_updated: "2020-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 7 de abril de 2004.
 
@@ -107,7 +107,9 @@ En materia de ingresos, el Gobierno del Estado y los Ayuntamientos, podrán conv
 
 En los convenios a que se refiere el presente capítulo, se establecerán las partes que intervienen en la celebración del convenio, la materia o materias afectadas a la colaboración de las partes, así como su fundamento, las obligaciones y facultades que se ejercerán por cada una de las partes, así como a las estipulaciones para su terminación y las sanciones por su incumplimiento, se fijarán los beneficios o incentivos que obtendrán las partes por la celebración de dichos convenios y las demás reglas que sean necesarias para la realización de estos mismos.
 
-Los convenios no podrán rebasar el período de la Administración que los suscribe y deberán publicarse en el Periódico Oficial "Tierra y Libertad".
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+
+Los Convenios no podrán rebasar el período de la Administración que los suscribe, con excepción de aquellos que deban celebrarse en términos de la legislación fiscal federal; en todo caso, deberán publicarse en el Periódico Oficial “Tierra y Libertad”. Para el caso de la Administración que inicie su gestión, ésta podrá evaluar la conveniencia respecto de dicho Convenio, a efecto de determinar su continuidad o, en su caso, solicitar su terminación con un plazo de anticipación de dos meses por lo menos.
 
 En los proyectos de convenios a que se refiere este artículo, las partes podrán solicitar a través del Instituto de Desarrollo y Fortalecimiento Municipal, se elaboren los mismos y se registrarán una vez suscritos y publicados en el Registro Único de Convenios Hacendarios del Gobierno del Estado de Morelos, que será responsabilidad del mismo instituto conforme a lo dispuesto por el capítulo VII de la presente ley.
 
@@ -117,29 +119,27 @@ Las autoridades hacendarias municipales, en el ejercicio de las facultades y fun
 
 ### CAPÍTULO III. De las Participaciones
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 ###### Artículo 6.
 
-A los municipios de la entidad les corresponde y percibirán ingresos por concepto de las Participaciones Federales que reciba el Gobierno del Estado, en la proporción que para cada fondo se establece a continuación:
+A los Municipios de la Entidad les corresponde y percibirán ingresos por concepto de las Participaciones Federales que reciba el Gobierno del Estado, en la proporción que para cada fondo se establece a continuación:
 
 I.- Del Fondo General de Participaciones, el 20% del total;
 
 II.- Del Fondo de Fomento Municipal, el 100%;
 
-III.- De la recuperación del Impuesto sobre Tenencia o Uso de Vehículos, el 20% del total;
+III.- Del Impuesto Especial sobre Producción y Servicios, el 20% del total;
 
-IV.- Del impuesto especial sobre producción y servicios, el 20% del total;
+IV.- Del Impuesto Sobre Automóviles Nuevos, el 20% del total;
 
-V.- Del Impuesto Sobre Automóviles Nuevos, el 20% del total;
+V.- De la recaudación que se obtenga del Impuesto Sobre la Renta efectivamente enterado a la Federación, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en las Dependencias del Municipio, así como en sus respectivos Organismos Autónomos y Entidades Paramunicipales, siempre que el salario sea efectivamente pagado por los entes mencionados con cargo a sus participaciones y otros ingresos locales, el 100%.
 
-VI.- De la reserva de contingencia que reciba el Gobierno del Estado, se distribuirá como mínimo una cantidad equivalente a la proporción que represente el conjunto de participaciones a sus municipios del total de participaciones de la entidad.
+Para efectos del párrafo anterior, se considera la recaudación que se obtenga por el Impuesto Sobre la Renta, una vez descontadas las devoluciones por dicho concepto.
 
-La cantidad a distribuir se hará de la siguiente forma: Se iniciará con el municipio que tenga el coeficiente de participación efectiva menor y continuará hacia la que tenga el mayor, hasta agotarse.
+Para que resulte aplicable lo dispuesto en el primer párrafo de esta fracción, los Municipios deberán enterar a la Federación el 100% de la retención que deben efectuar del Impuesto sobre la Renta correspondiente a los ingresos por salarios que paguen con cargo a los recursos federales.
 
-El coeficiente de participación efectiva a que se refiere el párrafo anterior, será el que resulte de dividir del total de las participaciones efectivamente recibidas por cada municipio, entre el total de las participaciones pagadas a todos los municipios en el ejercicio fiscal inmediato anterior;
-
-VII.- De los ingresos extraordinarios que por concepto de participaciones en ingresos federales le distribuya la Federación al Gobierno del Estado, por cualquier otro concepto que no establezca la forma de repartirlo, se distribuirá a los municipios el 20% en forma proporcional al coeficiente que resulte de dividir el total de las participaciones efectivamente recibidas por cada municipio, entre el total de las participaciones pagadas a todos los municipios en el ejercicio fiscal inmediato anterior.
+VI.- De los ingresos que por concepto de participaciones en ingresos federales le distribuya la Federación al Gobierno del Estado, por cualquier otro concepto que no establezca la forma de repartirlo, se distribuirá a los Municipios el 20% en forma proporcional al coeficiente que resulte de dividir el total de las participaciones efectivamente recibidas por cada Municipio, entre el total de las participaciones pagadas a todos los Municipios en el ejercicio fiscal inmediato anterior.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2019)</small>
 
@@ -153,9 +153,13 @@ II.- El 20% en relación directa al grado de mayor marginalidad que registre cad
 
 Los índices de marginación de los municipios se convierten a número positivos, sumándole a todos ellos el entero inmediato superior al índice del municipio que tengan mayor marginación, una vez que se tienen número positivos, el resultado de cada uno se divide entre la suma del total de estos indicadores, el nuevo resultado se multiplica por el monto a distribuir por este concepto.
 
-III.- El 9% del Fondo se distribuirá en forma proporcional directa a la recaudación de ingresos propios, con relación a la recaudación total de todos los Municipios considerando el total de Ingresos Propios, del ejercicio inmediato anterior revisado, al año por el que se efectúe el cálculo, información que deberá proporcionar el Órgano de Fiscalización Superior del Congreso del Estado, a más tardar el día hábil siguiente al 20 de octubre de cada año.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+
+III.- El 9% del Fondo se distribuirá en forma proporcional directa a la recaudación de ingresos propios, con relación a la recaudación total de todos los Municipios considerando el total de Ingresos Propios, del último ejercicio fiscal revisado; información que deberá proporcionar el Órgano de Fiscalización Superior del Congreso del Estado, a más tardar el día hábil siguiente al 20 de octubre de cada año.
 
 Para determinar el monto a distribuir por Municipio, se obtiene un factor dividiendo el monto de ingresos propios por cada Municipio, entre la suma total de la recaudación de todos ellos, el factor obtenido se multiplica por la cantidad a distribuir por este concepto.
+
+Son ingresos propios de los Municipios aquellos integrados por impuestos, derechos, productos, aprovechamientos y contribuciones de mejoras.
 
 IV.- El 11%, se distribuirá de modo Inverso Proporcional, a la suma de los montos que obtenga cada municipio por las tres fracciones anteriores, comparado con los demás; conforme a lo siguiente:
 
@@ -774,3 +778,13 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su p
 SEGUNDA. El presente Decreto, entrará en vigor a partir de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones legales de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 29 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS CINCUENTA Y NUEVE POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE MORELOS, DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS Y DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del 01 de enero de 2020, previa publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
