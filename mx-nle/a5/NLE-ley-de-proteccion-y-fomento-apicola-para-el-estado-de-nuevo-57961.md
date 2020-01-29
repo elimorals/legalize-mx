@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-y-fomento-apicola-para-el-estado-de-nuevo-579
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-07"
-last_updated: "2008-11-14"
+last_updated: "2020-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE PROTECCION Y FOMENTO APICOLA PARA EL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCIÓN Y FOMENTO APÍCOLA DEL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 29 DE ENERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCION Y FOMENTO APICOLA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de diciembre de 2007.
 
@@ -840,3 +842,13 @@ ALEJANDRO ALBERTO CARLOS PÁEZ Y ARAGÓN
 P.O. 14 DE NOVIEMBRE DE 2008.
 
 Único: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 250. SE EXPIDE LA LEY DE PROTECCIÓN Y FOMENTO APÍCOLA DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley de Protección y Fomento Apícola para el Estado de Nuevo León, publicada en el Periódico Oficial del Estado de fecha 7 de diciembre de 2007 y sus reformas.
+
+Tercero.- El Ejecutivo del Estado tendrá hasta 120 días para expedir el Reglamento respectivo de dicha Ley.
