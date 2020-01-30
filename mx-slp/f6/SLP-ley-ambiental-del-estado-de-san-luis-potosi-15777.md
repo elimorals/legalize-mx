@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2019-12-12"
+last_updated: "2020-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -123,6 +123,10 @@ VI. Aprovechamiento Sustentable: la utilización de los elementos naturales y de
 
 VII. Banco de Materiales para la Construcción: el manto, yacimiento o depósito de materiales terrosos y pétreos, susceptibles de ser extraídos de su estado natural, para ser aprovechados en la industria de la construcción;
 
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2020)</small>
+
+VII Bis. Biodegradable: aquél material que se degrada por acción biológica especialmente por actividad enzimática, causando un cambio significativo en la estructura química del material;
+
 VIII. Biodiversidad: el número de especies existentes y su frecuencia relativa en determinados espacios y tiempos;
 
 IX. Cambio Climático: variación del clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial, y que se suma a la variabilidad natural del clima observada durante periodos de tiempo comparables;
@@ -133,6 +137,10 @@ X. Centro de Población: las áreas que se hayan establecido para la fundación 
 
 X Bis. Compensación Ambiental: inversión o acciones para generar una mejora ambiental, que el responsable lleve a cabo, en sustitución de la reparación total o parcial del daño ocasionado al ambiente, equivalente a los efectos adversos ocasionados por el daño;
 
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2020)</small>
+
+X Ter. Compostable: aquél material que se degrada biológicamente, produciendo dióxido de carbono, agua, compuestos orgánicos o biomasa, a la misma velocidad que el resto de materia orgánica que se esté compostando con éste sin dejar residuos tóxicos;
+
 XI. Condiciones Particulares de Descarga: los parámetros máximos permisibles físicos, químicos y biológicos que se establecen con el propósito de controlar las descargas de aguas residuales, que de manera general deberán cumplir quienes descargan éstas a los cuerpos receptores, entre otros, a los sistemas de drenaje y alcantarillado de los centros de población;
 
 XII. Conservación: el conjunto de políticas, métodos, estrategias y medidas para mantener dinámicamente las condiciones que propicien la evolución y continuidad de los ambientes naturales e inducidos;
@@ -140,6 +148,10 @@ XII. Conservación: el conjunto de políticas, métodos, estrategias y medidas p
 XIII. Contaminación: la presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause deterioro ambiental que bien puede ser natural, o bien causado por el hombre, en este último caso como resultado de la pérdida de control o por la ineficiencia de procesos inducidos;
 
 XIV. Contaminante: toda materia o energía en cualesquiera de sus estados y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural o inducido, altere o modifique su composición y condición natural;
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2020)</small>
+
+XIV Bis. Contenedor: objeto de un solo uso que se otorga en los establecimientos comerciales o mercantiles, para el acarreo o traslado de mercancía;
 
 XV. Contingencia Ambiental: la situación de riesgo derivada de actividades humanas o fenómenos naturales, que pueden poner en peligro la integridad de uno o varios ecosistemas;
 
@@ -219,11 +231,19 @@ XLIV. Ordenamiento Ecológico: el instrumento de política ambiental de aplicaci
 
 XLV. Plantas de Selección y Tratamiento: la instalación donde se lleva a cabo cualquier proceso de selección y tratamiento de los residuos sólidos urbanos para su valorización o, en su caso, disposición final;
 
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2020)</small>
+
+XLV Bis. Post-consumo: se considera toda aquella materia prima generada de la recolección y procesamiento de desechos sólidos para convertirlo en un nuevo producto;
+
 XLVI. Prevención Ambiental: el conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
 XLVII. Procesos Ambientales: la relación de interdependencia entre los elementos naturales y antrópicos que conforman el ambiente, que hace posible la existencia, transformación y desarrollo de lo (sic) seres vivos;
 
 XLVIII. Protección Ambiental: el conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2020)</small>
+
+XLVIII Bis. Reciclado: transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos;
 
 XLIX. Recursos Naturales: los componentes naturales como los minerales, nutrientes del suelo, las capas más profundas de la corteza terrestre y el agua, asimismo, los animales, los vegetales y otros productos de procedencia natural, susceptibles de incorporación a procesos de diversa índole;
 
@@ -1743,9 +1763,23 @@ a) La incineración de residuos sólidos urbanos por parte de particulares.
 
 b) El arrojo o depósito de residuos por parte de particulares en la vía pública, en terrenos baldíos, y en áreas verdes.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2020)</small>
 
-c) La prohibición a los establecimientos comerciales y mercantiles de proporcionar a sus clientes bolsas de plástico desechable para el traslado de mercancías, ya sea de manera gratuita o a la venta para ese propósito. Se incluyen las bolsas plásticas desechables para el acarreo de los productos comercializados, o artículos que hayan recibido un servicio suministrado dentro del establecimiento comercial y mercantil.
+c) Que los establecimientos comerciales o mercantiles proporcionen a sus clientes de forma gratuita contendedores (sic), para el acarreo o traslado de mercancía, cuya composición sea mayor al ochenta por ciento de biodegradabilidad o compostabilidad y/o, en su caso, esté elaborado con material cien por ciento reciclado post-consumo. Dichos contenedores deberán llevar impreso el número de registro otorgado por la SEGAM, así como el desglose de composición del mismo.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2020)</small>
+
+ARTICULO 104 BIS. Los productores y/o distribuidores de contenedores y popotes biodegradables, compostables o reciclados, presentarán ante la SEGAM para su registro y previa comercialización, la validación de composición, porcentaje y tiempo de degradación en los términos de lo descrito en la fracción IX del artículo 107 de esta ley; dicho estudio deberá ser emitido por alguna institución o laboratorio de carácter público con la capacidad científica y tecnológica para realizar dichos ensayos.
+
+La SEGAM podrá autorizar o negar el registro respectivo, dictaminando en un plazo no mayor a veinte días hábiles.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2020)</small>
+
+ARTICULO 104 TER. La SEGAM publicará mensualmente un padrón de productores y/o distribuidores de contenedores y popotes en los términos de lo descrito en la fracción IX del artículo 107 de este Ordenamiento, el cual deberá estar disponible en la página de internet de la SEGAM.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2020)</small>
+
+ARTICULO 104 QUATER. Los productores y/o distribuidores de contenedores y popotes biodegradables, compostables o cien por ciento reciclados, están obligados a indicar en sus empaques el número de registro otorgado por la SEGAM, así como la composición, porcentaje de biodegradabilidad y/o compostabilidad en los términos de lo descrito en la fracción IX del artículo 107 de la presente Ley.
 
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 2009)</small>
 
@@ -1795,17 +1829,15 @@ VIII. La incineración de residuos sólidos urbanos y de residuos de manejo espe
 
 IX. El uso de popotes plásticos para el consumo de bebidas en establecimientos comerciales y mercantiles.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2020)</small>
 
-Las disposiciones establecidas en los artículos, 104 fracción V inciso c), y 107 fracción IX, de esta Ley, no son aplicables en el uso de bolsas de empaque o productos de origen, para conservación de alimentos, para uso médico, y cien por ciento biodegradables o compostables.
+Las disposiciones establecidas en los artículos, 104 fracción V inciso c), y 107 fracción IX, de esta Ley, no son aplicables en el uso de contenedores de empaque o almacenamiento para la conservación o venta de alimentos a granel, ni empaquetados de origen.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2020)</small>
 
-No se sancionará a aquellos establecimientos comerciales y mercantiles que proporcionen para el acarreo de los productos, bolsas reutilizables o desechables cuando éstas sean cien por ciento compostables o biodegradables, en los términos de lo descrito en la fracción VI del artículo 47 de la presente Ley.
+Tampoco son aplicables para contendores (sic) y popotes cuya biodegradabilidad o compostabilidad sea mayor al ochenta por ciento de su composición, sea cual fuere el material usado para su elaboración.
 
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2019)</small>
-
-Para los efectos de esta Ley, biodegradable es lo que se descompone con elementos químicos naturales por acción de agentes biológicos, como el sol, el agua, las bacterias, las plantas o los animales. En tanto que lo compostable implica que el material se degrada biológicamente, produciendo bióxido de carbono, agua, compuestos orgánicos o biomasa, a la misma velocidad que el resto de materia orgánica que se está compostando con éste, sin dejar residuos tóxicos.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE ENERO DE 2020)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2009)</small>
 
@@ -2711,6 +2743,24 @@ b). Cuando habiéndose decretado como medida de seguridad una suspensión tempor
 
 La autoridad ordenadora podrá conmutar el arresto impuesto por multa, siempre y cuando se garantice a juicio de la dependencia respectiva el cumplimiento de las medidas correctivas que se hubiesen decretado.
 
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2020)</small>
+
+ARTICULO 159 BIS. En relación a las disposiciones en materia de contenedores y popotes, los ayuntamientos serán los responsables de realizar los actos de inspección y vigilancia, para verificar el cumplimiento de las disposiciones contenidas en la presente Ley, e impondrán al infractor, la o las sanciones en el siguiente orden progresivo:
+
+I. Decomiso;
+
+II. Amonestación con apercibimiento por escrito;
+
+III. Multa conforme a los siguientes criterios:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 30 DE ENERO DE 2020, PÁGINA 6.]</small>
+
+Los metros cuadrados de espacio o construcción serán determinados por la autoridad municipal que aplique la sanción, tomando en cuenta exclusivamente el área de comercialización de los productos de que se trate.
+
+Además, en caso de reincidencia, se podrá llevar a cabo la clausura temporal o parcial de los establecimientos comerciales y mercantiles.
+
+Los ayuntamientos deberán de destinar los cobros de las multas, a promover campañas de educación ambiental y/o a mejorar la gestión integral de los residuos.
+
 ###### ARTICULO 160.
 
 Para la aplicación de las sanciones se deberán observar las normas siguientes:
@@ -2874,6 +2924,10 @@ El término para demandar la responsabilidad ambiental será el previsto en las 
 ###### ARTICULO 174.
 
 Las conductas constitutivas de delitos en materia ambiental, se sancionaran de conformidad con lo que establece el Código Penal del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2020)</small>
+
+Se impondrá de uno a cuatro años de prisión, y sanción pecuniaria de cien a cuatrocientos días del valor de la Unidad de Medida y Actualización, a quien se ostente, sin serlo, como representante de cualquier autoridad, con el objeto de verificar cualquier dato relacionado a lo dispuesto en el artículo 104 fracción V inciso c), de esta Ley.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
 
@@ -3483,8 +3537,18 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 12 DE DICIEMBRE DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0325.- SE ADICIONA AL ARTÍCULO 3° LA FRACCIÓN XXIV BIS DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0325.- SE ADICIONA AL ARTÍCULO 3° LA FRACCIÓN XXIV BIS DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0582.- SE REFORMAN LOS ARTÍCULOS 104 Y 107; ADICIONA A Y (SIC) LOS ARTÍCULOS 3°, 104 BIS, 104 TER, 104 QUÁTER, 159 BIS, Y 174; Y DEROGA DEL ARTÍCULO 107 EL AHORA PÁRRAFO ÚLTIMO DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+SEGUNDO. Durante el año 2020 no se aplicará la sanción establecida en la fracción III del artículo 159 Bis que se adiciona con el presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones que contravengan este Decreto.
