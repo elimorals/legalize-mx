@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-procuraduria-federal-del-consumidor-509
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-07-10"
-last_updated: "2015-10-21"
+last_updated: "2020-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50989&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2006-06-27"
 ---
 # ESTATUTO ORGANICO DE LA PROCURADURIA FEDERAL DEL CONSUMIDOR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE LA PROCURADURÍA FEDERAL DEL CONSUMIDOR, PUBLICADO EN EL D.O.F. DE 30 DE ENERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA PROCURADURÍA FEDERAL DEL CONSUMIDOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ENERO DE 2020 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 10 de julio de 2006.
 
@@ -1424,3 +1426,27 @@ TERCERO.- La Procuraduría Federal del Consumidor realizará las actualizaciones
 D.O.F. 21 DE OCTUBRE DE 2015.
 
 ÚNICO.- La presente modificación entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE LA PROCURADURÍA FEDERAL DEL CONSUMIDOR”.]
+
+PRIMERO.- El presente Estatuto entrará en vigor el día siguiente hábil al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico de la Procuraduría Federal del Consumidor, publicado en el Diario Oficial de la Federación el 10 de julio de 2006.
+
+La normatividad administrativa expedida por la Procuraduría Federal del Consumidor, con fundamento en el Estatuto que se abroga continuará vigente y aplicándose, en lo que no se opongan al presente Estatuto.
+
+TERCERO.- A partir de la entrada en vigor de este Estatuto, cesarán las operaciones de todas las Delegaciones y Subdelegaciones de la Procuraduría Federal del Consumidor, concluyendo igualmente el ejercicio de las funciones que en ellas se venían realizando, y quedando sin efectos las disposiciones normativas que por virtud de las mismas hayan sido creadas.
+
+CUARTO.- Se crean las Oficinas de Defensa del Consumidor, como unidades administrativas de la Procuraduría Federal del Consumidor, para el efectivo ejercicio de sus atribuciones y para facilitar la operatividad y atención oportuna de los consumidores, en las zonas de mayor concentración de operaciones comerciales, turísticas, o de servicios, en el territorio nacional.
+
+QUINTO.- Los procedimientos, recursos y demás asuntos iniciados conforme al Estatuto que se abroga, continuarán su sustanciación conforme a la normatividad vigente al momento de su inicio, hasta su total conclusión.
+
+SEXTO.- La Dirección General de Oficinas de Defensa del Consumidor, en coordinación con las Oficinas de Defensa del Consumidor competentes, implementará las acciones necesarias para la adecuada y oportuna atención de los procedimientos administrativos y demás asuntos que se encuentren en trámite, al momento de la entrada en vigor de este Estatuto.
+
+Asimismo, coordinará el debido resguardo de los expedientes vinculados y vigilará que éstos sean turnados a las Oficinas de Defensa del Consumidor correspondientes, en caso de que sobrevenga el cambio de adscripción de los asuntos
+
+SÉPTIMO.- Para el establecimiento e inicio de operaciones de las Oficinas de Defensa del Consumidor, de la Dirección General de Oficinas de Defensa del Consumidor y de las demás unidades administrativas que se crean, la Procuraduría se sujetará a su presupuesto asignado.
+
+OCTAVO.- La Procuraduría Federal del Consumidor realizará las actualizaciones correspondientes para ajustar los Manuales de Organización y de Procedimientos dentro de los 365 días posteriores a la entrada en vigor del presente instrumento.
