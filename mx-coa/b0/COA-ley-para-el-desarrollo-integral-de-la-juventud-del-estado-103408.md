@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-integral-de-la-juventud-del-estado-10340
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-28"
-last_updated: "2019-06-25"
+last_updated: "2020-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 28 de octubre de 2014.
 
@@ -72,6 +72,10 @@ VI. Acceder al conocimiento y a la tecnología;
 VII. Disfrutar de un medio ambiente sano y equilibrado, con conciencia, responsabilidad sobre el uso de los recursos naturales;
 
 VIII. Las y los jóvenes tienen derecho a un empleo digno con un salario justo de acuerdo a sus capacidades, con igualdad de oportunidades y de trato para mujeres y hombres; a que se les facilite el acceso a su primer empleo; a generar e innovar mecanismos para auto emplearse;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE ENERO DE 2020)</small>
+
+Podrán administrar sus finanzas y sus recursos económicos cuando sean titulares de cuentas bancarias derivadas de su labor o de apoyos sociales y de conformidad a lo que dispongan las leyes en la materia;
 
 IX. A la libre expresión y manifestación artística y cultural de acuerdo a su identidad personal o social;
 
@@ -141,6 +145,10 @@ Vocal: Titular de Secretaría de Gobierno.
 
 Vocal: Titular de la Secretaría de las Mujeres.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE ENERO DE 2020)</small>
+
+Vocal: Titular de la Secretaría del Trabajo.
+
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
 
 Vocal: Fiscal General del Estado.
@@ -173,15 +181,81 @@ Estas actividades podrán realizarse en el entorno del centro educativo correspo
 
 Las jornadas de participación social, que realicen los alumnos del sistema educativo estatal, deberán efectuarse fuera de su horario de clases, ó en un día inhábil, sin necesidad de ser dirigido por sus maestros.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2020)</small>
+
+## TÍTULO SEGUNDO BIS.
+
+DE LAS OBLIGACIONES DE LOS JÓVENES.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+Artículo 12 bis.- Las y los jóvenes coahuilenses tendrán las siguientes obligaciones:
+
+I.- Asumir el proceso de su propia formación, aprovechando en forma óptima las oportunidades educativas y de capacitación que brindan las instituciones para superarse en forma continua;
+
+II.- Preservar su salud a través del auto cuidado, prácticas de vida sana, ejecución de buenos hábitos y deporte como medios de bienestar físico y mental. La o el joven comunicará a su familia cualquier tipo de problema o alteración que presente en materia de salud física o mental;
+
+III.- Procurar el aprendizaje y practicar los valores más altos del ser humano, que contribuyan a darle su verdadera dimensión ética y moral como persona individual y como parte de una sociedad;
+
+IV.- Informarse debidamente en materia de sexualidad, considerando no sólo el plano físico sino el afectivo; los riesgos de las enfermedades de transmisión sexual, la salud reproductiva y la planificación familiar;
+
+V.- Informarse debidamente acerca de los efectos y daños irreversibles a la salud que producen el alcohol, el tabaco y las drogas, y sobre qué hacer para evitar su consumo.
+
+VI.- A cumplir con las disposiciones normativas y reglamentarias de los programas de desarrollo social, cuando sean beneficiarios de éstos, y
+
+VII.- Los demás que le impongan otras leyes, reglamentos o disposiciones normativas.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+Artículo 12 bis 1.- En relación con su familia, las y los jóvenes tendrán las siguientes responsabilidades:
+
+I.- Convenir con sus padres y miembros de la familia normas de convivencia en el hogar en un marco de respeto y tolerancia;
+
+II.- Contribuir a la economía familiar, cuando las necesidades así lo demanden como lo establece la legislación aplicable;
+
+III.- Contribuir en el cuidado, educación y enseñanza de otros miembros de la familia que lo requieran;
+
+IV.- Brindar protección y apoyo en la medida de sus posibilidades físicas a todos los miembros de su familia, especialmente si son niñas o niños, personas con discapacidad y adultos mayores;
+
+V.- Evitar dentro de sus hogares, cualquier acto de discriminación, abuso, aislamiento, prepotencia o violencia familiar, contra cualquier miembro de la familia;
+
+VI.- No inducir ni forzar a ningún miembro de la familia a realizar actos de mendicidad, a efectuar trabajos o actividades contra su voluntad que atenten contra su dignidad o que impliquen un esfuerzo tal, que vaya en perjuicio de su salud física o mental; y
+
+VII.- Atender las recomendaciones de sus padres cuando éstas sean para su beneficio y no atenten contra su dignidad e integridad personal.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+Artículo 12 bis 2.- En relación con la sociedad, las y los jóvenes tienen las siguientes responsabilidades:
+
+I.- Actuar con criterio de solidaridad social, contribuyendo a la realización de acciones para el desarrollo comunitario;
+
+II.- Participar activamente en la vida cívica, política, económica, cultural y social de su comunidad y del Estado;
+
+III.- Retribuir a la sociedad en su oportunidad el esfuerzo realizado para su formación, tanto en la prestación de un servicio social efectivo, como en el desarrollo de su ejercicio profesional;
+
+IV.- Contribuir a la conservación y mejoramiento del medio ambiente, evitando la contaminación y desempeñando un papel activo en aquello que esté a su alcance;
+
+V.- Promover la convivencia pacífica y la unidad entre las y los jóvenes;
+
+VI.- Respetar los derechos de terceros; y
+
+VII.- Participar en forma solidaria en las actividades que emprendan las instituciones en las que realizan sus estudios, que tengan como finalidad el mejoramiento y desarrollo.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+Artículo 12 bis 3.- En relación con el Estado, las y los jóvenes tendrán los siguientes deberes:
+
+I.- Respetar y cumplir con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución local del Estado, las leyes que de ellas deriven y los reglamentos de las mismas, en concordancia con el respeto de los derechos de los demás grupos y segmentos de la sociedad, todo ello a través de la convivencia pacífica, la tolerancia, la democracia, el compromiso y la participación social;
+
+II.- Guardar el debido respeto a las autoridades legalmente constituidas, así como a los símbolos patrios que forman parte de la identidad nacional;
+
+III.- Contribuir al avance de la vida democrática del Estado participando en los procesos que tengan lugar para la elección de las distintas autoridades y cargos de elección popular; y
+
+IV.- Mantener dentro y fuera del territorio del Estado actitudes que dignifiquen el nombre de Coahuila de Zaragoza.
+
 ## TÍTULO TERCERO.
 
 DE LA PROMOCIÓN INSTITUCIONAL A LAS INICIATIVAS Y ACTIVIDADES DE LOS JÓVENES.
-
-## TÍTULO CUARTO.
-
-DE LAS ACTIVIDADES FORMATIVAS Y DEL ESPARCIMIENTO.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 13.
 
@@ -229,7 +303,9 @@ La Secretaría de Educación podrá tener en este ámbito actividades como las s
 
 I.- Brigadas para el mantenimiento en buen estado de la infraestructura educativa.
 
-II.- Acciones de apoyo a las actividades cívicas, culturales y deportivas que realicen las escuelas del nivel básico.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2020)</small>
+
+II.- Acciones de apoyo a las actividades cívicas, económicas, laborales, sociales, culturales y deportivas que realicen las escuelas del nivel básico
 
 III.- Programas de apoyo a alumnos y familias cuya situación represente vulnerabilidad al abandono de sus estudios en cualquier nivel escolar.
 
@@ -259,7 +335,9 @@ III.- Desarrollar estrategias orientadas a motivar el espíritu emprendedor entr
 
 IV.- Todo tipo de acciones, de asesoría, orientación e impulso de la cultura emprendedora, para que los y las jóvenes coahuilenses, sean sujetos promotores y receptores de todos los apoyos necesarios para innovar y promover y participar en el campo económico empresarial.
 
-V.- Promover mediante convenios con las empresas, que las y los jóvenes coahuilenses tengan todas las facilidades para desarrollar su servicio social, en las empresas de la entidad.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2020)</small>
+
+V.- Promover mediante convenios con las empresas, que las y los jóvenes coahuilenses tengan todas las facilidades para desarrollar su servicio social en las empresas de la entidad, así como realizar las gestiones conducentes a efecto de posibilitar que los menores de dieciocho años que se encuentren prestando su servicio o laborando, puedan recibir su salario o remuneración a través de algún producto bancario de nómina de depósito o ahorro.
 
 ###### Artículo 21.
 
@@ -333,6 +411,22 @@ II.- Participación de las y los jóvenes coahuilenses en la promoción de los i
 
 III.- Diseño de estrategias que fomenten entre la juventud el turismo educativo, deportivo y cultural a nuestro estado.
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+Artículo 26 bis.- La Secretaría de Trabajo de acuerdo con sus atribuciones y competencia, le corresponderá realizar las siguientes acciones:
+
+I.- Promover oportunidades de trabajo dirigidas a la población juvenil, considerando siempre las particularidades de los distintos grupos poblacionales;
+
+II.- Fomentar el desarrollo de la capacitación remunerada, vinculada a la formación profesional;
+
+III.- Promover el otorgamiento de créditos para que las y los jóvenes puedan desarrollar sus proyectos productivos individuales o colectivos;
+
+IV.- Procurar que el trabajo no interrumpa su educación;
+
+V.- Asegurar la no discriminación en el empleo y las mejores condiciones laborales a las jóvenes gestantes, madres lactantes y jóvenes con discapacidad; y,
+
+VI.- Promover el respeto y cumplimiento de todos los derechos laborales de seguridad social e industrial. El trabajo juvenil, en ningún caso podrá ser de aquellos que impidan una educación que les permita desarrollar al máximo sus potencialidades.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2019)</small>
 
 ###### Artículo 27.
@@ -375,7 +469,13 @@ V.- Apoyar, en conjunto con las instancias correspondientes, a las y los jóvene
 
 VI.- Realizar una actividad permanente en coordinación con otras instancias, que sensibilice a los jóvenes sobre los riesgos y daños para la salud debidos al consumo de alcohol, tabaco y otras sustancias nocivas.
 
-VII.- Gestionar ante instituciones públicas y privadas, beneficios y descuentos en servicios e insumos básicos, tarifas y cobros diversos, a favor de las y los jóvenes coahuilenses, a fin de dar sustentabilidad a su economía.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2020)</small>
+
+VII.- Gestionar ante instituciones públicas y privadas, beneficios y descuentos en servicios e insumos básicos, tarifas y cobros diversos, a favor de las y los jóvenes coahuilenses, a fin de dar sustentabilidad a su economía; de igual manera apoyar y gestionar el acceso de los jóvenes a programas de crédito público o privado de conformidad a lo que dispongan las leyes en la materia.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VII, P.O. 31 DE ENERO DE 2020]</small>
+
+Para esto deberán impulsarse mecanismos y vínculos a favor de las y los jóvenes con miras de impartir una educación financiera, con la finalidad de propiciar la inclusión activa, sana y responsable de la juventud al sector económico de nuestro Estado.
 
 VIII.- Diseñar y ejercer programas de asistencia y apoyo a favor de los jóvenes en situación de vulnerabilidad por su condición socioeconómica o de salud.
 
@@ -391,9 +491,9 @@ XIII.- Promover alternativas de turismo para las y los jóvenes coahuilenses que
 
 XIV.- Las demás que en beneficio de la juventud puedan realizarse.
 
-## TÍTULO QUINTO.
+## TÍTULO CUARTO.
 
-DE LA COORDINACIÓN INSTITUCIONAL.
+DE LAS ACTIVIDADES FORMATIVAS Y DEL ESPARCIMIENTO.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
@@ -428,6 +528,12 @@ La sociedad coahuilense y las autoridades de todos los órdenes de gobierno debe
 ###### Artículo 37.
 
 La Juventud Coahuilense deberá contar siempre con todas las facilidades para cultivarse físicamente, y para desarrollar sus habilidades deportivas, buscando que siempre la disciplina y la competitividad se conjunten con un espíritu de respeto, altura, solidaridad y fraternidad para con los competidores y los compañeros en colectivos.
+
+## TÍTULO QUINTO.
+
+DE LA COORDINACIÓN INSTITUCIONAL.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 38.
 
@@ -538,3 +644,11 @@ P.O. 25 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 269.- SE MODIFICA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS Y OFENDIDOS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 492.- SE REFORMAN LOS ARTÍCULOS 3 FRACCIÓN VIII, 9, 19 FRACCIÓN II, 20 FRACCIÓN V, Y 29 FRACCIÓN VI; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes modificaciones a la Ley para el Desarrollo Integral de la Juventud del Estado de Coahuila de Zaragoza, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
