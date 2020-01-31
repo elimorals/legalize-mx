@@ -4,7 +4,7 @@ identifier: "COA-ley-apicola-para-el-estado-de-coahuila-de-zaragoza-3461"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-31"
-last_updated: "2009-05-12"
+last_updated: "2020-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY APICOLA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY APICOLA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+LEY APÍCOLA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2020.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Coahuila, el martes 31 de agosto de 1993.
 
@@ -69,13 +69,19 @@ B).- Colmena Rústica: Es el alojamiento para las abejas construído por el homb
 
 C).- Colmena Técnica: Se caracteriza porque sus panales están en sus bastidores o cuadros y pueden ser manejados libremente para su explotación racional.
 
-ABEJA: Insecto himenóptero de la familia de los Apidos, que produce cera y miel.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2020)</small>
+
+ABEJA: Insecto himenóptero, de unos 15 milímetros de largo, de color pardo negruzco y vello rojizo, perteneciente a la familia de los ápidos (Apidae), que produce cera, miel, propóleo, jalea real, etcétera. Por su nombre científico "Anthophila" ("antófilos"), esta criatura también constituye un vector biótico de polinización de plantas en flor, proceso fundamental para preservar la vida sobre la tierra, con lo que contribuye de manera determinante en la reproducción de semillas y frutos, incluso de las 87 especies de cultivos que alimentan al mundo.
 
 A).- Abeja Europea: Es la abeja originaria del Continente Europeo.
 
 B).- Abeja Africana: Es la abeja originaria del Continente Africano, cuyas características y hábitos de defensa y migración son diferentes a las razas europeas.
 
 C).- Abeja Africanizada: Es el resultado del cruzamiento de abejas de origen europeo con las abejas africanas.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+D).- Abeja Reina: Siendo la única hembra fértil de la colmena, morfológicamente diferente a las otras dos castas melíferas que la habitan: obreras y zánganos, se encarga de la reproducción de la especie, constituyendo así el elemento fundamental para la vida de cada colonia de abejas.
 
 ENJAMBRE: Es el conjunto de abejas, zánganos y reina en vuelo o conglomerado, en tránsito sin ubicación, resguardado en alojamiento sin cubierta alguna y por lo mismo sin dueño específico.
 
@@ -174,6 +180,10 @@ En caso de que se localicen colmenas o material apícola que muestren señales d
 ###### ARTICULO 14.
 
 Con el objeto de proteger a las colonias de abejas de la acción tóxica de productos químicos, agropecuarios y forestales, se establece la obligación de los agricultores, ganaderos y silvicultores avisar por escrito cuando menos con 72 horas de anticipación a las Asociaciones de Apicultores o directamente a los apicultores que tengan colmenas o apiarios ubicados a una distancia menor de 3 kilómetros del predio donde se emplearán dichos productos, a fin de que el interesado tome las medidas que estime pertinentes para evitar la intoxicación de sus abejas.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+Para la protección efectiva de la abeja y otros insectos polinizadores, queda prohibido el uso de insecticidas, plaguicidas y/o pesticidas de cualquier fórmula química dañina para las abejas.
 
 ###### ARTICULO 15.
 
@@ -371,7 +381,9 @@ I.- Faltar a la obligación de solicitar el correspondiente registro de la marca
 
 II.- Usar marcas de identificación ajenas;
 
-III.- No dar los avisos que ordena el Artículo 14 de esta Ley, o hacerlo fuera del plazo establecido.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2020)</small>
+
+III.- Hacer caso omiso a la prohibición del uso de insecticidas, plaguicidas y/o pesticidas de cualquier fórmula química dañina para las abejas, así como no dar los avisos como lo ordena el artículo 14 de esta Ley, o hacerlo fuera del plazo establecido.
 
 IV.- Faltar a la obligación de ubicar los apiarios, conforme al Artículo 16 de la presente Ley;
 
@@ -518,3 +530,15 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 485.- SE AGREGA UN SEGUNDO PÁRRAFO AL ARTÍCULO 14, MODIFICANDO TAMBIÉN EL CONTENIDO DE LA FRACCIÓN III, DEL ARTÍCULO 43, DE LA LEY APÍCOLA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 486.- SE MODIFICA EL CONTENIDO DEL INCISO C) REFERENTE AL CONCEPTO DE ABEJA, DEL ARTÍCULO 3 DEL CAPÍTULO I, Y SE ADICIONA EL INCISO D) A DICHO APARTADO DE LA LEY APÍCOLA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
