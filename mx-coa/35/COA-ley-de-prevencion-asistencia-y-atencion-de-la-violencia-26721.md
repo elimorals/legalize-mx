@@ -4,7 +4,7 @@ identifier: "COA-ley-de-prevencion-asistencia-y-atencion-de-la-violencia-26721"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2018-07-06"
+last_updated: "2020-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,907 +21,1197 @@ state: "COA"
 ---
 # LEY DE PREVENCION, ASISTENCIA Y ATENCION DE LA VIOLENCIA FAMILIAR
 
-LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA FAMILIAR
+LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2023.
 
-Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de octubre de 2002.
+Ley publicada en la Novena Sección del Número 2 del Periódico Oficial del Estado de Puebla, el miércoles 3 de noviembre de 2021.
 
-EL C. ENRIQUE MARTINEZ Y MARTINEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
+DECRETO del Honorable Congreso del Estado, por el que expide la LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE PUEBLA.
 
-QUE EL CONGRESO DEL ESTADO, INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA;
+Al margen el Escudo del Estado de Puebla, con una leyenda que dice: Unidos en el Tiempo, en el Esfuerzo, en la Justicia y en la Esperanza. Estado Libre y Soberano de Puebla. H. Congreso del Estado de Puebla. LX Legislatura.
 
-DECRETA:
+LUIS MIGUEL GERÓNIMO BARBOSA HUERTA, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a sus habitantes sabed:
 
-NUMERO 253.-
+Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
-LEY DE PREVENCION, ASISTENCIA Y ATENCION DE LA VIOLENCIA FAMILIAR
+EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-## TITULO PRIMERO. NORMAS PRELIMINARES
+CONSIDERANDO
 
-### CAPITULO I. DISPOSICIONES GENERALES
+[…]
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+Por lo anteriormente expuesto y con fundamento en los artículos 56, 57 fracción I, 64, 67 y 84 párrafo segundo de la Constitución Política del Estado Libre y Soberano de Puebla; 22, 134, 135, 136 y 163 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 93 fracción VII y 120 fracciones II y VII del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se emite la siguiente Minuta de:
 
-###### Artículo 1.
+DECRETO
 
-Las disposiciones contenidas en la presente ley son de orden público e interés social y tienen por objeto establecer las bases y procedimientos para prevenir la violencia en las familias; asistir y atender integralmente a las personas receptoras de la violencia familiar y, en su caso, promover los tratamientos y las sanciones de las personas generadoras de la misma, de conformidad con las disposiciones jurídicas correspondientes, con el fin de erradicar la violencia familiar en el estado.
+ÚNICO. Se expide la Ley de Educación Superior del Estado de Puebla en los siguientes términos:
 
-Se reconoce la diversidad de los tipos de familias, por lo que se deberán considerar sus circunstancias particulares en la elaboración e implementación de las políticas públicas que se emprendan para la prevención, asistencia y atención de la violencia familiar, a efecto de proteger a todas y todos sus integrantes.
+LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE PUEBLA
 
-La unidad familiar, la igualdad de género, la igualdad de derechos y deberes de los cónyuges o de la pareja, de las hijas y de los hijos; así como la protección de las niñas, niños y adolescentes, de las mujeres, de las personas con discapacidad y de las personas adultas mayores, constituyen principios fundamentales para la aplicación e interpretación de esta ley.
+## TÍTULO PRIMERO. DEL DERECHO A LA EDUCACIÓN SUPERIOR
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### Artículo 2.
+###### ARTÍCULO 1.
 
-Las autoridades de la administración pública estatal y de los municipios del estado de Coahuila de Zaragoza, en el ámbito de sus respectivas competencias, deberán instrumentar políticas públicas coordinadas, bajo un enfoque de derechos humanos, para la prevención, asistencia y atención de la violencia familiar, como elemento indispensable para el desarrollo de las niñas, niños y adolescentes, de las mujeres, de las personas con discapacidad y de las personas adultas mayores.
+La presente Ley es de observancia general para todo el Estado Libre y Soberano de Puebla en materia de educación superior, y sus disposiciones son de orden público e interés social.
 
-Los bienes jurídicos tutelados por la presente ley son: la integridad, la preservación y el desarrollo integral de todas las personas integrantes de las familias.
+###### ARTÍCULO 2.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+Esta Ley tiene por objeto:
 
-###### Artículo 3.
+I. Establecer las bases para dar cumplimiento a la obligación del Estado de Puebla, de garantizar el ejercicio del derecho a la educación superior y sus cuatro dimensiones en términos de la Ley de Educación del Estado de Puebla;
 
-Ninguna forma de maltrato se encuentra justificada con motivo de la educación o formación de alguna de las y los integrantes de la familia.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
 
-###### Artículo 4.
+II. Contribuir al desarrollo sostenible, ético, social, cultural, científico, tecnológico, humanístico, productivo y económico del país y del estado de Puebla, a través de la formación de personas con capacidad creativa, innovadora y emprendedora que pongan sus conocimientos y habilidades al servicio de la Nación, del estado de Puebla y de la sociedad en general; que incidan como profesionistas técnicamente competentes y socialmente responsables;
 
-El Estado está obligado a coadyuvar en la estabilidad de la familia y a promover su unidad.
+III. Distribuir la función social educativa del tipo de educación superior entre el estado de Puebla y sus municipios;
 
-La participación jurídica del Estado en la familia tendrá por propósito garantizar los derechos de sus integrantes a efecto de que no sean restringidos de una manera arbitraria, ni se lesione su esencia por la coexistencia con otros derechos y deberes, salvo que se trate del interés superior de alguno de sus miembros.
+IV. Establecer la coordinación, promoción, vinculación, participación social, evaluación y mejora continua de la educación superior en el estado de Puebla;
 
-###### Artículo 5.
+V. Orientar los criterios para el desarrollo de las políticas públicas en materia de educación superior con visión de Estado;
 
-La atención especializada que se proporcione en materia de violencia familiar por cualquier institución, ya sea pública o privada, no contará entre sus criterios con patrones estereotipados de comportamiento, ni prácticas sociales y culturales basadas en conceptos discriminatorios o de subordinación.
+VI. Establecer criterios para el financiamiento correspondiente al servicio público de educación superior, y
 
-###### Artículo 6.
+VII. Regular la participación de los sectores público, social y privado en la educación superior.
 
-La aplicación de esta Ley en el ámbito de sus respectivas competencias:
+###### ARTÍCULO 3.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2009)</small>
+A las instituciones de educación superior a las que la ley les ha otorgado autonomía se regularán por las leyes u ordenamientos que las rijan, en términos de lo que dispone la Ley General.
 
-I. Al Poder Ejecutivo a través de:
+###### ARTÍCULO 4.
 
-a) La Secretaría de Gobierno.
+La aplicación y vigilancia del cumplimiento de la presente Ley corresponde a la autoridad educativa del estado de Puebla y a la de sus municipios, así como a las autoridades de las instituciones de educación superior, en los términos y ámbitos de competencia que esta Ley establece.
 
-b) La Secretaría de Educación.
+###### ARTÍCULO 5.
 
-c) La Secretaría de Salud.
+Para efectos de la presente Ley, se entenderá por:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+I. Ajustes razonables, a las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 
-d) La Secretaría de Inclusión y Desarrollo Social.
+II. Autoridad educativa federal, a la Secretaría de Educación Pública de la Administración Pública Federal;
 
-e) (DEROGADO, P.O. 12 DE MAYO DE 2009)
+III. Autoridad educativa estatal o Secretaría, a la Secretaría de Educación de la Administración Pública del Estado de Puebla;
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+IV. Autoridad educativa municipal, al Ayuntamiento de cada Municipio del estado de Puebla, así como a las instancias que, en su caso, establezca para el ejercicio de la función social educativa;
 
-f) La Fiscalía General del Estado.
+V. Autorización, al acuerdo previo y expreso de la autoridad educativa estatal que permite a las instituciones particulares impartir estudios de educación normal y demás para la formación docente de educación básica;
 
-g) El Sistema para el Desarrollo Integral de la Familia.
+VI. COEPES, a la Comisión Estatal para la Planeación de la Educación Superior de Puebla;
 
-h) La Procuraduría de la Familia.
+VII. Educación superior, el servicio que se imparte en sus distintos niveles, después del tipo medio superior. Está compuesto por los niveles de técnico superior universitario o profesional asociado u otros equivalentes, licenciatura, especialidad, maestría y doctorado, así como por opciones terminales previas a la conclusión de la licenciatura. También comprende la educación normal e instituciones formadoras de docentes;
 
-i) El Instituto Coahuilense de las Mujeres.
+VIII. Estado, a la Federación, el estado de Puebla y sus municipios;
 
-II. Al Congreso del Estado a través de la Comisión de Equidad y Género.
+IX. Gratuidad, a las acciones que promueva el Estado para eliminar progresivamente, en función de la suficiencia presupuestal, los cobros de las instituciones públicas de educación superior a estudiantes por conceptos de inscripción, reinscripción y cuotas escolares ordinarias, en los programas educativos de técnico superior universitario, licenciatura y posgrado, así como para fortalecer la situación financiera de las mismas, ante la disminución de ingresos que se observe derivado de la implementación de la gratuidad;
 
-III. Al Poder Judicial a través de:
+X. Instituciones de educación superior particulares, aquéllas a cargo de particulares que imparten el servicio de educación superior con autorización o reconocimiento de validez oficial de estudios vigente otorgado en términos de la Ley General y de esta Ley;
 
-a) El Pleno.
+XI. Instituciones de educación superior públicas, a las instituciones del Estado que imparten el servicio de educación superior en forma directa o desconcentrada, los organismos descentralizados no autónomos, las universidades, así como otras instituciones financiadas mayoritariamente por el Estado;
 
-b) La Sala Civil y de lo Familiar.
+XII. Instituciones de educación superior públicas con autonomía constitucional y legal, a las universidades y demás instituciones de educación superior autónomas que cuenten con la facultad de autogobierno, derivada de la Constitución Política de los Estados Unidos Mexicanos o de la Constitución Política del Estado;
 
-c) Los Tribunales Unitarios.
+XIII. Ley, a la Ley de Educación Superior del Estado de Puebla;
 
-d) Los Jueces de Primera Instancia en Materia Familiar.
+XIV. Ley General, a la Ley General de Educación Superior;
 
-IV. A los Ayuntamientos.
+XV. Obligatoriedad, a las acciones que promueva el Estado para apoyar el incremento de la cobertura de educación superior, mejorar la distribución territorial y la diversidad de la oferta educativa;
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+XVI. Particular, a la persona física o moral de derecho privado, que solicite o cuente con autorización o reconocimiento de validez oficial de estudios vigente.
 
-###### Artículo 7.
+XVII. Reconocimiento de validez oficial de estudios, a la resolución emitida en términos de la legislación aplicable, por las autoridades educativas federal y estatal, en virtud de la cual se incorporan los estudios de educación superior impartidos por un particular al Sistema Educativo Nacional y al Sistema Educativo Estatal;
 
-Para los efectos de esta ley, la Procuraduría de la Familia, las Delegaciones de la misma y las Unidades de Atención, podrán actuar con el carácter de autoridades para decretar custodias de emergencia; separaciones provisionales o preventivas del seno familiar; medidas de apremio; prohibición para ir a lugar determinado o residir en él; imponer sanciones administrativas y en los demás casos en que la ley les autorice.
+XVIII. Servicio social, a la actividad eminentemente formativa y temporal que será obligatoria de acuerdo con las disposiciones constitucionales y legales en la materia, y que desarrolla en las y los estudiantes de educación superior una conciencia de solidaridad y de responsabilidad social, y
 
-###### Artículo 8.
+XIX. Sistema Estatal de Educación Superior, al Sistema Estatal de Educación Superior del estado de Puebla.
 
-Las personas particulares, las autoridades administrativas y judiciales y en especial las corporaciones policíacas, cualquiera que sea su denominación o categoría, deberán prestar su cooperación para el cumplimiento de las disposiciones de esta ley.
+###### ARTÍCULO 6.
 
-### CAPITULO II. DEFINICIONES Y PRINCIPIOS BASICOS
+La educación superior es un derecho que coadyuva al bienestar y desarrollo integral de las personas. Se imparte después del tipo educativo medio superior y está compuesto por los niveles de técnico superior universitario profesional asociado u otros equivalentes, licenciatura, especialidad, maestría y doctorado. Incluye la educación universitaria, tecnológica, normal y formadora de docentes.
 
-###### Artículo 9.
+La obligatoriedad de la educación superior corresponde al Estado conforme a lo previsto en la fracción X del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que el Estado Mexicano sea parte, la Ley General y las disposiciones de la presente Ley.
 
-Para los efectos de esta ley, por cuanto a los órganos encargados de su aplicación, se entiende por:
+###### ARTÍCULO 7.
 
-I. "Administración Pública": La administración pública del Estado y la de los Municipios.
+De acuerdo con lo dispuesto en la fracción X del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y al principio constitucional de igualdad y no discriminación, el Estado instrumentará políticas para garantizar el acceso a la educación superior a toda persona que acredite, con el certificado de bachillerato o equivalente, la terminación de los estudios correspondientes al tipo medio superior y que cumpla con los requisitos que establezcan las instituciones de educación superior.
 
-II. "Consejo Estatal": El Consejo Estatal para la Prevención, Asistencia y Atención de la Violencia Familiar en el Estado.
+Para contribuir a garantizar el acceso al derecho a la educación y promover la permanencia y continuidad de toda persona que decida cursar educación superior en instituciones de educación superior públicas, en los términos establecidos en esta Ley, el Estado otorgará apoyos académicos a estudiantes, bajo criterios de equidad e inclusión.
 
-III. "Junta Directiva": La Junta Directiva para la Prevención, Asistencia y Atención de la Violencia Familiar en el Estado.
+###### ARTÍCULO 8.
 
-IV. "Consejos Regionales": Los órganos político administrativos establecidos en las diferentes regiones del Estado, para la prevención, asistencia y atención de la violencia familiar.
+La Secretaría, la autoridad educativa municipal y las instituciones de educación superior observarán las medidas que la autoridad educativa federal proponga adoptar para que participen en el cumplimiento del Acuerdo Educativo Nacional, en términos de lo dispuesto por la Ley General y la Ley General de Educación, para lograr una cobertura universal en educación con equidad y excelencia.
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+### CAPÍTULO II. DE LOS CRITERIOS, FINES Y POLÍTICAS
 
-V. “Unidades de Atención”: Las instancias, de la administración pública establecidas en las cabeceras municipales, encargadas de prevenir la violencia, asistir y atender a las personas receptoras y generadoras de violencia familiar, en los términos que establezca el programa general.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
 
-Tendrán a su cargo la dirección de los procedimientos de mediación y conciliación, así como la ejecución, en su caso, de las medidas requeridas para hacer cesar y erradicar la violencia familiar.
+###### ARTÍCULO 9.
 
-VI. "DIF": El Sistema para el Desarrollo Integral de la Familia.
+La educación superior fomentará el desarrollo humano integral y sostenible de las y los estudiantes en la construcción de saberes basado en lo siguiente:
 
-VII. "Procuraduría": La Procuraduría de la Familia.
+I. La formación del pensamiento crítico a partir de la libertad, el análisis, la reflexión, la comprensión, el diálogo, la argumentación, la conciencia histórica, el conocimiento de las ciencias y humanidades, los resultados del progreso científico y tecnológico, el desarrollo de una perspectiva diversa y global, la lucha contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios para transformar la sociedad y contribuir al mejoramiento de los ámbitos social, educativo, cultural, ambiental, económico y político;
 
-VIII. "Organizaciones sociales": Las Instituciones legalmente constituidas, que se ocupen de la materia de esta ley y que se hayan distinguido por su labor.
+II. La consolidación de la identidad, el sentido de pertenencia y el respeto desde la interculturalidad que promueva la convivencia armónica entre personas y comunidades para el reconocimiento de sus diferencias y derechos, en un marco de inclusión y del cuidado ético y social de la vida;
 
-###### Artículo 10.
+III. La generación y desarrollo de capacidades y habilidades profesionales para la resolución de problemas; así como el diálogo continuo entre las humanidades, las artes, la ciencia, la tecnología, la investigación y la innovación como factores de la libertad, del bienestar y de la transformación social;
 
-En orden a los sujetos y supuestos de aplicación de esta ley, se entiende por:
+IV. El fortalecimiento del tejido social y la responsabilidad ciudadana para prevenir y erradicar la corrupción, a través del fomento de los valores como la honestidad, la integridad, la justicia, la igualdad, la solidaridad, la reciprocidad, la lealtad, la libertad, la gratitud y la participación democrática, entre otros, así como favorecer la generación de capacidades productivas e innovadoras y fomentar una justa distribución del ingreso;
 
-I. "Persona Receptora de la violencia familiar": La persona o grupo de personas que sufren el maltrato físico, verbal, psicoemocional, sexual o económico en su esfera biopsicosexual o patrimonial.
+V. La construcción de relaciones sociales, económicas y culturales basadas en igualdad y equidad entre los géneros y el respeto de los derechos humanos;
 
-II. "Persona Generadora de la violencia familiar": Quienes realizan actos de maltrato físico, verbal, psicoemocional, sexual, por negligencia o económico, hacia las personas con las que tengan o hayan tenido algún vínculo familiar; se hallen bajo su guarda o custodia o mantengan relaciones de hecho similares a las que se originan con motivo del matrimonio o en el seno familiar.
+VI. La instrumentación de acciones de gestión con los distintos actores sociales a fin de incentivar las capacidades locales y vocaciones productivas desde el ámbito local que a su vez promuevan el desarrollo socio cultural y económico de las regiones del estado.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2017)</small>
+VII. El combate a todo tipo y modalidad de discriminación y violencia, con especial énfasis en la que se ejerce contra las niñas y las mujeres, las personas con discapacidad o en situación de vulnerabilidad social, y la promoción del cambio cultural para construir una sociedad que fomente la igualdad sustantiva entre mujeres y hombres;
 
-III. "Violencia familiar": Aquel acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, por negligencia, económica ó sexualmente a cualquier miembro de la familia, que tenga relación de parentesco por consanguinidad, tenga o lo haya tenido por afinidad o civil, o se halle en unión libre, de hecho o concubinato o en una relación de noviazgo; realizado dentro o fuera del domicilio familiar, y que tenga por efecto causar daño, en cualquiera de las siguientes modalidades:
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
 
-a) "Maltrato físico": Todo acto de agresión intencional, en el que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad de la otra persona, encaminado hacia su sometimiento y control, provocándole cualquier alteración en su salud física o mental.
+VIII. El respeto y cuidado del medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación de la naturaleza con los temas sociales y económicos, para garantizar su preservación y promover estilos de vida sostenibles y solidarios.
 
-b) "Maltrato psicoemocional": Todo acto u omisión, consistente en cualquier clase de prohibiciones, condicionamientos, coacciones, intimidaciones, amenazas, actitudes devaluatorias o de abandono, que provoquen en quien las recibe, deterioro, disminución de la autoestima o devaluación del autoconcepto.
+Para el efecto y cuando las condiciones físicas de los planteles lo permitan, la autoridad educativa podrá promover prácticas que favorezcan el desarrollo sostenible, mediante la valoración de la diversidad cultural y de los recursos naturales a través de la instalación y funcionamiento de huertos y/o viveros escolares, el destino de una superficie de suelo en las instalaciones educativas para compostas de residuos orgánicos, además de la participación voluntaria de los estudiantes, personal académico y laboral en campañas de reforestación y manejo racional del agua y de residuos, u otras similares o relacionadas;
 
-El acto que se compruebe que ha sido realizado con la intención de causar daño a una menor o a un menor de edad, será considerado maltrato emocional en los términos de este artículo, aunque se argumente como justificación su educación o formación.
+IX. La formación en habilidades digitales y el uso responsable de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en el proceso de construcción de saberes como mecanismo que contribuya a mejorar el desempeño y los resultados académicos, y
 
-c) "Maltrato sexual": Todo acto y omisión que provoque burla y humillación de la sexualidad; niegue las necesidades sexoafectivas; induzca coactivamente a la realización de actos o prácticas sexuales no deseadas o que generen dolor; o se practique la celotipia como medio de control, manipulación o dominio de la persona, generando un daño; así como los delitos contra la libertad y el normal desarrollo psicosexual a que se refiere el Código Penal del Estado, respecto a los cuales la presente ley solo surte efectos en el ámbito de la prevención, de la atención y de la asistencia.
+X. El desarrollo de habilidades socioemocionales que permitan adquirir y generar conocimientos, fortalecer la capacidad para aprender a pensar, sentir, actuar y desarrollarse como persona integrante de una comunidad.
 
-d) "Maltrato verbal": Toda expresión, concreta, intencional y reiterada, que indique el propósito de ofender o manifestar desprecio al otro y que haga imposible la vida en familia.
+###### ARTÍCULO 10.
 
-e) "Maltrato por negligencia": Toda conducta omisiva consistente en faltar gravemente a los deberes de proveer adecuadamente al sustento, al vestido, a la vivienda, a la educación o a la atención de la salud a los que tienen derecho quienes integran una familia, que por su edad, capacidad o particular condición, se encuentren en situación de dependencia.
+La educación superior se orientará conforme a los criterios siguientes:
 
-f) "Afectación económica o patrimonial": Todo acto u omisión que genere daño, destrucción, deterioro, sustracción o retención de bienes muebles o inmuebles, propiedad de la víctima o destinados a la satisfacción de necesidades familiares.
+I. El interés superior del estudiante en el ejercicio de su derecho a la educación;
 
-###### Artículo 11.
+II. El reconocimiento del derecho de las personas a la educación y a gozar de los beneficios del desarrollo de la ciencia y la innovación tecnológica;
 
-Para los efectos de esta ley, respecto a las medidas, instancias y procedimientos, se entiende por:
+III. El respeto irrestricto a la dignidad de las personas;
 
-I. "Prevención": Las medidas tendientes a evitar que se produzca la violencia en cualquiera de sus modalidades, entre las personas que tengan algún vínculo o parentesco familiar.
+IV. La igualdad sustantiva para contribuir a la construcción de una sociedad libre, justa e incluyente;
 
-II. "Asistencia": Los servicios de apoyo y protección adecuados, proporcionados a quienes son sujetos de violencia familiar.
+V. La inclusión para que todos los grupos sociales de la población, de manera particular los vulnerables, participen activamente en el desarrollo del estado de Puebla y del país;
 
-III. "Atención": Los servicios médicos, pedagógicos, psicológicos y jurídicos que se brindan con el fin de promover, proteger y restaurar la salud física y mental de las y los receptores de la violencia familiar, así como de quienes la generan.
+VI. La igualdad de oportunidades que garanticen a las personas acceder a la educación superior sin discriminación;
 
-IV. "Promoción de la equidad y la igualdad entre los géneros": Todas aquellas acciones encaminadas a eliminar cualquier forma de discriminación contra las mujeres, así como a fortalecer relaciones equitativas entre los hombres y las mujeres.
+VII. El reconocimiento de la diversidad;
 
-V. "Sujeto de informe": Las dependencias o personas obligadas a informar de todos aquellos casos donde exista, se sospeche que exista una situación de violencia familiar.
+VIII. La interculturalidad en el desarrollo de las funciones de las instituciones de educación superior y el respeto a la pluralidad lingüística de la Nación y del estado de Puebla, y a los derechos lingüísticos y culturales de los pueblos y comunidades indígenas y afromexicanas;
 
-VI. "Custodia de emergencia": La que se ejerce en situaciones excepcionales, determinadas por la gravedad del suceso, dentro de un hospital u otra instalación médica o lugar previamente designado para esta custodia por el Ministerio Público, o por alguna dependencia de la Procuraduría de la Familia, sujeta a posterior revisión por un Juez Familiar o por un Consejo Tutelar.
+IX. La excelencia educativa que coloque al estudiante al centro del proceso educativo, además de su mejoramiento integral constante que promueva el máximo logro de aprendizaje para el desarrollo de su pensamiento crítico y el fortalecimiento de los lazos entre escuela y comunidad;
 
-VII. "Custodia legal": La que tiene el padre y la madre en virtud del ejercicio de la patria potestad, los ascendientes de uno u otra, o la otorgada por un tribunal competente.
+X. La cultura de la paz y la resolución pacífica de los conflictos, así como la promoción del valor de la igualdad, la justicia, la solidaridad, la cultura de la legalidad y el respeto a los derechos humanos;
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2018)</small>
+XI. La accesibilidad a los ámbitos de la cultura, el arte, el deporte, la ciencia, la tecnología, la innovación y el conocimiento humanístico y social en lo local, nacional y universal;
 
-VIII. "Separación provisional o preventiva del seno familiar": La decretada por el Procurador de la Familia o por sus Delegados, tratándose de mujeres, niñas, niños y adolescentes, personas con discapacidad y adultas mayores, que sufran maltrato físico, mental, psicoemocional, verbal, por negligencia económico (sic), incluyendo el abuso sexual en los términos de esta ley.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
 
-IX. "Esfuerzos razonables": Los dirigidos a evitar la remoción de las personas receptoras de la violencia de su hogar, siempre que ello sea posible en orden a su seguridad, dignidad, y respeto a sus derechos.
+XII. El respeto, cuidado, preservación y restauración ambiental;
 
-X. "Mejor interés del receptor de violencia familiar": Toda determinación dirigida a garantizar la seguridad, salud y el bienestar físico, mental, emocional y educacional de la víctima, así como proveerle de un ambiente seguro y estable.
+XIII. La transparencia, el acceso a la información, la protección de los datos personales y la rendición de cuentas, a través del ejercicio disciplinado, honesto y responsable de los recursos financieros, humanos y materiales, de conformidad con la normatividad aplicable;
 
-XI. "Servicios de protección": Los servicios sociales, públicos o privados, de consejería, albergue, asistencia legal y atención psicoterapéutica y médica.
+XIV. El respeto a la autonomía que la ley otorga a las universidades e instituciones de educación superior, así como a su régimen jurídico, autogobierno, libertad de cátedra e investigación, estructura administrativa, patrimonio, características y modelos educativos;
 
-XII. "Mediación": Procedimiento no adversarial, informal, voluntario, confidencial, que se sigue ante un tercero neutral, en el cual las partes adoptan sus propias decisiones sobre la solución de sus conflictos familiares, en atención a sus propuestas e intereses, mediante la suscripción de los acuerdos adoptados.
+XV. El respeto a las instituciones de educación superior a las que la ley otorga la capacidad de adoptar su organización administrativa y académica, las cuales se regirán por su normatividad interna y, en lo conducente, por las disposiciones de la presente Ley;
 
-XIII. "Conciliación": El arreglo amistoso de un conflicto familiar por las partes, a su propia iniciativa, mediante la conducción de un conciliador que limitará su intervención a la propuesta de alternativas de solución y a la formulación, en su caso, del convenio que le ponga fin al conflicto.
+XVI. El respeto a la libertad académica, de cátedra e investigación, entendida como la libertad de enseñar y debatir sin verse limitado por doctrinas instituidas, la libertad de llevar a cabo investigaciones y difundir y publicar los resultados de las mismas, la libertad de expresar su opinión sobre la institución o el sistema en que trabaja, la libertad ante la censura institucional y la libertad de participar en órganos profesionales u organizaciones académicas representativas, conforme a la normatividad de cada institución, sin sufrir discriminación alguna y sin temor a represión por parte del Estado o de cualquier otra instancia;
 
-XIV. (DEROGADA, P.O. 18 DE MARZO DE 2014)
+XVII. El respeto a la libertad de examen y libre discusión de ideas, entendidas como el derecho que corresponde a estudiantes y personal académico para aprender, enseñar, investigar y divulgar el pensamiento, el arte, las ciencias, las tecnologías, las humanidades y el conocimiento, sin sufrir presiones o represalias de ningún tipo;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+XVIII. La responsabilidad ética en la generación, transferencia y difusión del conocimiento, las prácticas académicas, la investigación y la cultura; así como una orientación que propicie el desarrollo del país y del estado de Puebla, el bienestar de las personas, y la conformación de una sociedad justa e incluyente;
 
-XV. "Procedimientos en casos de violencia familiar": Los de mediación y conciliación, que se instruyen por las Unidades de Atención.
+XIX. La participación de la comunidad universitaria, conforme a las disposiciones aplicables, en el diseño, implementación y evaluación de planes y políticas de educación superior;
 
-XVI. (DEROGADA, P.O. 18 DE MARZO DE 2014)
+XX. La preeminencia de criterios académicos, perspectiva de género, experiencia, reconocimiento en gestión educativa y conocimiento en el subsistema respectivo, cuando así corresponda, para el nombramiento de autoridades de las instituciones públicas de educación superior, conforme a la normatividad de cada institución;
 
-XVII. (DEROGADA, P.O. 18 DE MARZO DE 2014)
+XXI. La pertinencia en la formación de las personas que cursen educación superior conforme a las necesidades actuales y futuras para el desarrollo nacional;
 
-XVIII. (DEROGADA, P.O. 18 DE MARZO DE 2014)
+XXII. La territorialización de la educación superior, concebida como el conjunto de políticas y acciones cuyo propósito consiste en considerar los contextos regionales y locales de la prestación del servicio de educación superior, para contribuir al desarrollo comunitario mediante la vinculación de los procesos educativos con las necesidades y realidades sociales, económicas y culturales de las diversas regiones del estado de Puebla;
 
-XIX. (DEROGADA, P.O. 18 DE MARZO DE 2014)
+XXIII. La internacionalización solidaria de la educación superior, entendida como la cooperación y el apoyo educativo, con pleno respeto a la soberanía de cada país, a fin de establecer procesos multilaterales de formación, vinculación, intercambio, movilidad e investigación, a partir de una perspectiva diversa y global;
 
-## TITULO SEGUNDO. DE LA COORDINACION DE LAS ACCIONES PUBLICAS Y PRIVADAS
+XXIV. El reconocimiento de habilidades y conocimientos adquiridos en la práctica como parte de un plan y programa de estudios que impartan las instituciones educativas para obtención de títulos y grados académicos, y
 
-### CAPITULO I. DE LA COORDINACION INTERINSTITUCIONAL
+XXV. El respeto a los derechos laborales de las y los trabajadores, a partir de la naturaleza jurídica y normas que rigen a las instituciones públicas de educación superior.
 
-###### Artículo 12.
+###### ARTÍCULO 11.
 
-Se crea el Consejo para la Prevención, Asistencia y Atención de la Violencia Familiar en el Estado, como órgano honorario de planeación, apoyo y evaluación.
+Los fines de la educación superior serán:
 
-El Consejo estará integrado por:
+I. Contribuir a garantizar el derecho a la educación establecido en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y al aprendizaje integral del estudiante;
 
-I. Una Presidencia colegiada, conformada por los representantes de los Poderes Ejecutivo, Legislativo y Judicial.
+II. Formar profesionales con visión científica, tecnológica, innovadora, humanista e internacional, con una sólida preparación en sus campos de estudio, responsables y comprometidos con la sociedad y el desarrollo del país, con conciencia ética y solidaria, pensamiento crítico y creativo, así como su capacidad innovadora, productiva y emprendedora;
 
-II. Una Vicepresidencia, con cargo a la persona que se desempeñe en la Presidencia de los Patronatos del Sistema para el Desarrollo Integral de la Familia y Voluntariado de Coahuila.
+III. Promover la actualización y el aprendizaje a lo largo de la vida con el fin de mejorar el ejercicio profesional y el desarrollo personal y social;
 
-III. Seis vocalías a cargo de las y los titulares de las siguientes dependencias del Ejecutivo:
+IV. Fomentar los conocimientos y habilidades digitales a fin de coadyuvar a la eliminación de la brecha digital en la enseñanza;
 
-a) Secretaría de Gobierno.
+V. Coadyuvar, a través de la generación, transmisión, aplicación y difusión del conocimiento, a la solución de los problemas locales, regionales, nacionales e internacionales, al cuidado y sustentabilidad del medio ambiente, así como al desarrollo sostenible del país y a la conformación de una sociedad más justa e incluyente;
 
-b) Secretaría de Educación.
+VI. Contribuir a la preservación, enriquecimiento y difusión de los bienes y valores de las diversas culturas;
 
-c) Secretaría de Salud.
+VII. Ampliar las oportunidades de inclusión social y educativa para coadyuvar al bienestar de la población;
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+VIII. Desarrollar las habilidades de las personas que cursen educación superior para facilitar su incorporación a los sectores social, productivo y laboral;
 
-d) Secretaría de Inclusión y Desarrollo Social.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
 
-e) (DEROGADO, P.O. 12 DE MAYO DE 2009)
+IX. Impulsar el desarrollo sostenible, la investigación científica y humanística, el desarrollo tecnológico, el arte, la cultura, el deporte y el fomento de estilos de vida saludable, en los ámbitos internacional, nacional, regional, estatal, municipal y comunitario, y
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+X. Fortalecer la investigación científico-educativa, a través de las instituciones de educación superior, incidiendo en la realidad social poblana y en la consolidación del conocimiento científico, respondiendo a los propósitos que demanda la región y su contexto; lo que repercutirá en la construcción social del conocimiento, la innovación como estilo de vida y la mejora de la gestión científico educativa.
 
-f) Fiscalía General del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
 
-IV. Dos vocalías del Poder Legislativo cubiertas por integrantes de la Comisión de Equidad y Género.
+## TÍTULO SEGUNDO. DEL TIPO DE EDUCACIÓN SUPERIOR
 
-V. Un vocalía a cargo de la Directora del Instituto Coahuilense de las Mujeres.
+### CAPÍTULO ÚNICO. DE LOS NIVELES, MODALIDADES Y OPCIONES
 
-VI. Un vocalía, a cargo de quien presida la Comisión de Derechos Humanos en el Estado.
+###### ARTÍCULO 12.
 
-VII. Cuatro vocalías que serán cubiertas por Presidentes Municipales, representantes de los Republicanos Ayuntamientos del Estado, invitados anualmente por el Gobernador del Estado.
+Los criterios para la elaboración de políticas en materia de educación superior privilegiarán la educación sostenible y se basarán en lo siguiente:
 
-VIII. Tres vocalías, a cargo de representantes de los organismos sociales que se hayan destacado por su trabajo y estudio en la materia de violencia familiar, invitados anualmente mediante convocatoria del Ejecutivo del Estado.
+I. La mejora continua de la educación superior para su excelencia, pertinencia y vanguardia;
 
-El Consejo deberá celebrar por lo menos dos sesiones semestrales en el año, de preferencia, en las fechas más próximas a su inicio y conclusión, y será convocado por el Titular del Poder Ejecutivo, por conducto de la Secretaría de Gobierno.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
 
-###### Artículo 13.
+II. El incremento de las oportunidades y posibilidades de acceso a la misma para contribuir a la conformación de una sociedad que valora y promueve el conocimiento científico, humanístico y tecnológico; la cultura, el arte, el deporte, la información, así como la protección y restauración ambiental;
 
-Se crea la Junta Directiva para la Prevención, Asistencia y Atención de la Violencia Familiar en el Estado, como órgano honorario, de apoyo y operativo.
+III. La impartición de la educación superior con un enfoque de inclusión social que garantice la equidad en el acceso a este derecho humano;
 
-La Junta Directiva estará integrada por:
+IV. La vinculación entre las autoridades educativas y las instituciones de educación superior con diversos sectores sociales y con el ámbito laboral, para que al egresar los futuros profesionistas se incorporen a las actividades productivas del país y del estado de Puebla y contribuyan a su desarrollo social y económico;
 
-I. Una Presidencia colegiada, conformada por quien funja como titular de la Dirección del Sistema para el Desarrollo Integral de la Familia; por la persona que presida la Comisión de Equidad y Género y por quien presida la Sala Civil y Familiar del Tribunal Superior de Justicia del Estado.
+V. La promoción de acuerdos y programas entre las autoridades educativas, las instituciones de educación superior y otros actores sociales, para que, con una visión social y de Estado, impulsen el desarrollo y consolidación de la educación superior;
 
-II. Seis vocalías, de las dependencias del Ejecutivo del Estado, nombrados por los titulares que se mencionan en la fracción III del artículo anterior, de entre quienes tengan un nivel jerárquico inmediato inferior a ellos.
+VI. El fomento de la integridad académica y la honestidad de toda la comunidad de las instituciones de educación superior;
 
-III. Tres vocalías, una del Instituto Coahuilense de las Mujeres por designación de su Directora y dos de las organizaciones sociales a que alude la fracción VIII del artículo anterior, seleccionados por ellas, de entre sus miembros.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
 
-IV. Una Secretaría Ejecutiva, ejercida por quien tenga la titularidad de la Procuraduría de la Familia.
+VII. La promoción y consolidación de redes universitarias para la cooperación y el desarrollo de las funciones de las instituciones de educación superior; así como de aquéllas para la activación física, la práctica del deporte, la protección y restauración ambiental y el fomento de estilos de vida saludables;
 
-La Junta Directiva deberá reunirse mensualmente y cuantas veces sea indispensable, para atender los asuntos que se programen en el orden del día. La convocatoria será remitida por conducto de la Procuraduría de la Familia.
+VIII. El diseño y aplicación de procedimientos de acceso y apoyo al tipo de educación superior para personas con alto rendimiento escolar;
 
-###### Artículo 14.
+IX. El establecimiento de procesos de planeación participativa de la educación superior con visión de mediano y largo plazo;
 
-Se crean cinco Consejos Regionales para la Prevención, Asistencia y Atención de la Violencia Familiar:
+X. La articulación de las estrategias y los programas de los distintos subsistemas de educación superior, con un enfoque de compromiso de las instituciones de educación superior que contribuya a la búsqueda de soluciones a los problemas nacionales, regionales y locales;
 
-I. Uno con residencia en la ciudad de Saltillo, que comprenderá los Distritos Judiciales de Saltillo y Parras.
+XI. La promoción permanente de procesos de diagnóstico y evaluación que permitan prevenir y atender la deserción escolar, particularmente la de sectores en vulnerabilidad social;
 
-II. Uno con residencia en la ciudad de Torreón, que abarcará los Distritos Judiciales de Viesca y San Pedro.
+XII. La evaluación de la educación superior como un proceso integral, sistemático y participativo para su mejora continua.;
 
-III. Uno con residencia en Monclova, que comprenderá el Distrito Judicial de Monclova.
+XIII. El impulso de la excelencia educativa, la innovación permanente, la interculturalidad y la internacionalización solidaria en la formación profesional y en las actividades de generación, transmisión, aplicación y difusión del conocimiento;
 
-IV. Uno con residencia en Sabinas, que ejercerá sus funciones en el Distrito Judicial de Sabinas.
+XIV. El incremento en la incorporación de docentes académicas a plazas de tiempo completo con funciones de docencia e investigación en las áreas de ciencias, humanidades, ingenierías y tecnologías, cuando así corresponda, para lograr la paridad de género, conforme a la normatividad de cada institución;
 
-V. Uno con residencia en Piedras Negras, que incluirá los Distritos Judiciales de Río Grande y Acuña.
+XV. El fortalecimiento de la carrera del personal académico y administrativo de las instituciones públicas de educación superior, considerando la diversidad de sus entornos, a través de su formación, capacitación, actualización, profesionalización y superación, que permitan mejorar las condiciones bajo las cuales prestan sus servicios;
 
-Estos Consejos Regionales tendrán las mismas características del Consejo Estatal; estarán presididos por las y los Delegados de la Procuraduría de la Familia e integrados por representantes de las dependencias del Poder Ejecutivo que se mencionan en el artículo 12 de esta Ley, designados por sus titulares, de entre quienes presten servicios en las regiones correspondientes; por el Síndico del Ayuntamiento en el que tiene su residencia el Consejo; a invitación, por dos Síndicos de los Ayuntamientos de los Municipios de la región respectiva, según se ubiquen geográficamente los temas que se aborden; así como tres representantes del sector no gubernamental, seleccionados de entre las organizaciones que atiendan en la región situaciones que se relacionen con la materia de esta Ley.
+XVI. El fortalecimiento del personal académico, administrativo y directivo, así como de la excelencia educativa, mediante la búsqueda de condiciones laborales adecuadas y estabilidad en el empleo;
 
-Los Consejos Regionales, previa convocatoria de las Delegaciones de la Procuraduría de la Familia, se reunirán una vez al mes para atender los asuntos de su competencia.
+XVII. La incorporación de la transversalidad de la perspectiva de género en las funciones académicas de enseñanza, investigación, extensión y difusión cultural, así como en las actividades administrativas y directivas con el propósito de contribuir a la igualdad y la equidad en el ámbito de la educación superior e impulsarla en la sociedad;
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+XVIII. La promoción de medidas que eliminen los estereotipos de género para cursar los planes y programas de estudio que impartan las instituciones de educación superior;
 
-###### Artículo 15.
+XIX. La promoción y respeto de la igualdad y equidad entre géneros, fomentando alternativas para erradicar todo tipo de violencia y discriminación, en las instituciones de educación superior;
 
-La Procuraduría con la asistencia de la Junta Directiva, creará en cada cabecera municipal una o más Unidades de Atención, según sea necesario, para la Prevención, Atención y Asistencia de la Violencia Familiar, las que deberán contar con los recursos necesarios para el cumplimiento de sus funciones.
+XX. La creación, implementación y evaluación de programas y estrategias que garanticen la seguridad de las personas en las instalaciones de las instituciones de educación superior, así como la creación de programas y protocolos enfocados a la prevención y actuación en condiciones de riesgos y emergencias, en términos de lo dispuesto por la Ley General de Protección Civil, la Ley del Sistema Estatal de Protección Civil y demás normatividad aplicable;
 
-Estas Unidades estarán presididas por la persona designada para ese efecto y contará con un grupo técnico de expertas y expertos en las áreas: psicoterapéutica, jurídica, clínico-médica y de trabajo social, especialistas en la atención de la violencia familiar.
+XXI. La vinculación de las instituciones de educación superior con el entorno social, así como la promoción de su articulación y participación con los sectores productivos y de servicios;
 
-###### Artículo 16.
+XXII. El establecimiento de acciones afirmativas que coadyuven a garantizar el acceso, permanencia, continuidad y egreso oportuno de estudiantes con discapacidad en los programas de educación superior;
 
-El Consejo Estatal para la Prevención, Asistencia y Atención de la Violencia Familiar, tendrá las siguientes atribuciones:
+XXIII. El impulso a las actividades de extensión y difusión cultural que articulen y evalúen los resultados del trabajo académico con las comunidades en que se encuentran insertas las instituciones de educación superior;
 
-I. Aprobar el Programa General para la Prevención, Asistencia y Atención de la Violencia Familiar en el Estado; así como el presupuesto necesario para su implementación, presentado por la Junta Directiva.
+XXIV. La articulación y la complementariedad con los demás tipos educativos, especialmente con el nivel medio superior, para el fortalecimiento del perfil de ingreso con un enfoque nacional, regional y local;
 
-Este programa será revisado anualmente en atención a las propuestas formuladas por quienes integran dicho Consejo.
+XXV. La mejora continua e integral de las tareas administrativas y de gestión de las instituciones de educación superior;
 
-II. Fomentar y fortalecer la coordinación, colaboración e información entre las Instituciones Públicas y Privadas que se ocupan de esta materia.
+XXVI. La promoción del fortalecimiento institucional, el dinamismo y la diversidad de modalidades y opciones educativas en las instituciones de educación superior;
 
-III. Establecer un sistema de comunicación y enlace interdisciplinario que permita a las y los servidores públicos de todos los niveles, mantener comunicación y trabajar en estrecha colaboración para mejorar los servicios de detección, atención, prevención, información y evaluación de la violencia familiar y enfrentarla de manera integral desde cualquier ámbito.
+XXVII. El impulso de la investigación científica, humanística, tecnológica y la innovación tecnológica, así como la diseminación y la difusión de la información en acceso abierto que se derive para impulsar el conocimiento y desarrollo de la educación superior;
 
-IV. Analizar y aprobar los lineamientos administrativos y técnicos que permitan afrontar eficazmente la violencia familiar en el Estado, así como los modelos de atención psicoterapéuticos y de salud más adecuados.
+XXVIII. La promoción del acceso y la utilización responsable de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en los procesos de la vida cotidiana y en todas las modalidades de la oferta del tipo de educación superior;
 
-V. Solicitar, por conducto del Presidente del Tribunal Superior de Justicia, que los órganos del Poder Judicial competentes analicen las prácticas jurídicas e interpretaciones legales que impidan que se imparta justicia a las personas receptoras de violencia familiar y se resuelvan los problemas que les ocasiona.
+XXIX. La generación y aplicación de métodos innovadores que faciliten la obtención de conocimientos, como función sustantiva de las instituciones de educación superior.
 
-VI. Contar con sistemas de información estadística completos sobre la violencia familiar que incluyan causas, consecuencias, incidencias, etc., que permitan evaluar la eficacia de las medidas y reorientarlas en caso de que fuera necesario.
+XXX. La implementación de mecanismos para promover la incorporación de los pueblos y comunidades indígenas y afromexicanas a la educación superior, y
 
-VII. Aprobar modelos de comunicación social masivos o por medios electrónicos, que lleven a la exclusión de la violencia como forma de resolver los conflictos familiares.
+XXXI. La implementación de programas y estrategias que garanticen la seguridad y privacidad del alumnado, personal docente y administrativo en materia de seguridad informática y protección de datos personales en términos de la legislación aplicable.
 
-VIII. Contribuir a la difusión de la legislación en la que se establecen medidas para evitar la violencia familiar.
+###### ARTÍCULO 13.
 
-IX. Aprobar indicadores elaborados por las Unidades de Atención que permitan evaluar semestralmente los logros y avances del Programa General.
+Los estudios correspondientes a los niveles del tipo de educación superior atenderán a lo siguiente:
 
-###### Artículo 17.
+I. De técnico superior universitario o profesional asociado: se cursan después de los del tipo medio superior y están orientados a desarrollar competencias profesionales basadas en habilidades y destrezas prácticas específicas en funciones y procesos de los sectores productivos de bienes y servicios, preparando a las y los estudiantes para el mercado laboral. La conclusión de los créditos de estos estudios se reconocerá mediante el título de técnico superior universitario, o profesional asociado. Esta formación puede ser considerada como parte del plan de estudios de una licenciatura;
 
-La Junta Directiva, tendrá las siguientes atribuciones:
+II. De licenciatura: se cursan después de los del tipo medio superior y están orientados a la formación integral en una profesión, disciplina o campo académico, que faciliten la incorporación al sector social, productivo y laboral. A su conclusión, se obtendrá el título profesional correspondiente;
 
-I. Ejecutar los acuerdos del Consejo Estatal para la Prevención, Asistencia y Atención de la Violencia Familiar en el Estado.
+III. De posgrado: se realizan después de la conclusión de los estudios de licenciatura, y comprende los siguientes niveles:
 
-II. Contar con un diagnóstico permanente sobre los problemas de violencia familiar en el Estado, que sustente la política, los programas las acciones y el presupuesto aprobado por el Consejo Estatal.
+a) De especialidad: se cursan después de la licenciatura y tienen como objetivo profundizar en el estudio y tratamiento de problemas o actividades específicas de un área particular de una profesión. El documento que se expide a la conclusión de dichos estudios es un diploma de especialidad y, en los casos respectivos, se otorga el grado correspondiente;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+b) De maestría: se cursan después de la licenciatura o especialidad y proporcionan una formación amplia y sólida en un campo de conocimiento y tienen como objetivos alguno de los siguientes:
 
-III. Llevar cuenta de la información estadística sobre los diferentes aspectos de la violencia familiar, sus causas, consecuencias e incidencias que le proporcione el Fiscal General, para formular el diagnóstico que sirva de base para la formulación del Programa General.
+1. La iniciación en la investigación, innovación o transferencia del conocimiento;
 
-IV. Diseñar y poner en marcha una base de datos común a todas las instituciones, que atienda a indicadores de detección uniforme.
+2. La formación para la docencia, o
 
-V. (DEROGADA, P.O. 18 DE MARZO DE 2014)
+3. El desarrollo de una alta capacidad para el ejercicio profesional.
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2018)</small>
+Al finalizar estos estudios, se otorga el grado correspondiente, y
 
-VI. Coordinar las acciones de concertación, defensa, protección, prevención y atención de la violencia, en particular la que afecta a las mujeres, niñas, niños y adolescentes, a las personas con discapacidad y a las personas adultas mayores.
+c) De doctorado: se cursan después de la licenciatura o la maestría de conformidad con lo establecido en los respectivos planes de estudio y tienen como objetivo proporcionar una formación sólida para desarrollar la actividad profesional de investigación en ciencias, humanidades o artes que produzca nuevo conocimiento científico, tecnológico y humanístico, aplicación innovadora o desarrollo tecnológico original. A la conclusión de este nivel educativo, se otorga el grado correspondiente.
 
-VII. Promover programas permanentes de capacitación, con perspectiva de género, para servidoras y servidores públicos encargados de la política de prevención de la violencia familiar, y de la asistencia y atención de las víctimas de esa violencia.
+###### ARTÍCULO 14.
 
-En particular, impulsar la capacitación y sensibilizar, con perspectiva de género, a servidoras y servidores públicos de los sectores de salud, educación, desarrollo y asistencia social, para que puedan detectar o percibir problemas de violencia familiar en las personas usuarias de los servicios, e identificar las autoridades a quienes deben canalizarlas, para su atención integral.
+Las modalidades que comprende la educación superior para cualquiera de sus niveles, son las siguientes:
 
-VIII. Dar seguimiento a los programas de combate a la violencia familiar.
+I. Escolarizada: es el conjunto de servicios educativos que se imparten en las instituciones de educación superior, caracterizada por la existencia de coincidencias espaciales y temporales entre quienes participan en un programa académico y la institución que lo ofrece para recibir formación académica de manera sistemática como parte de un plan de estudios;
 
-IX. Impulsar programas y modelos de atención que favorezcan el tratamiento integral, remedial, a favor de las personas receptoras de violencia familiar.
+II. No escolarizada: es el proceso de construcción de saberes autónomo, flexible o rígido, según un plan de estudios, caracterizado por la coincidencia temporal entre quienes participan en un programa académico y la institución que lo ofrece, que puede llevarse a cabo a través de una plataforma tecnológica educativa, medios electrónicos u otros recursos didácticos para la formación a distancia;
 
-X. Fomentar y apoyar programas educativos para crear conciencia sobre las consecuencias de la violencia familiar, los problemas derivados de ella, los recursos legales con que cuentan las personas receptoras y el resarcimiento de daños y perjuicios que les corresponden.
+III. Mixta: es una combinación de las modalidades escolarizada y no escolarizada, para cursar las asignaturas o módulos que integran un plan de estudios;
 
-XI. Aprobar los indicadores en orden a la propuesta que le proporcione el Procurador de la Familia sobre violencia familiar que hagan posible el seguimiento, la evaluación y la reorientación de programas.
+IV. Dual: es el proceso de construcción de saberes dirigido por una institución de educación superior para la vinculación de la teoría y la práctica, integrando al estudiantado en estancias laborales para desarrollar sus habilidades, y
 
-XII. Formular catálogos de medidas protectoras de carácter urgente, que posibiliten la interrupción de los ciclos de violencia familiar y ponerlos a consideración del Consejo Estatal, para que en su caso, de ser necesario, se efectúen las reformas o adiciones a algún texto legal, mediante la propuesta correspondiente.
+V. Las que determinen las autoridades educativas federal y estatal de educación superior y las instituciones de educación superior, de conformidad con la normatividad aplicable.
 
-XIII. Alentar a los medios de difusión para que contribuyan en el esfuerzo por erradicar la violencia familiar en el Estado.
+###### ARTÍCULO 15.
 
-XIV. Las demás que le sean conferidas por el Consejo Estatal para la Prevención, Asistencia y Atención de la Violencia Familiar en el Estado, conforme a la ley.
+Las opciones que comprende la educación superior serán, de manera enunciativa y no limitativa:
 
-###### Artículo 18.
+I. Presencial;
 
-Los Consejos Regionales, tendrán las atribuciones siguientes:
+II. En línea o virtual;
 
-I. Dar seguimiento a los acuerdos y disposiciones del Consejo Estatal y de la Junta Directiva para la Prevención, Asistencia y Atención de la Violencia Familiar.
+III. Abierta y a distancia;
 
-II. Fomentar la vinculación y la colaboración entre los órganos del sector público y social de la región.
+IV. Certificación por examen, y
 
-III. Inventariar los apoyos que puedan brindarse a las personas receptoras de la violencia, y difundirlos para conocimiento.
+V. Las demás que se determinen por las autoridades educativas e instituciones de educación superior, a través de las disposiciones que se deriven de la Ley.
 
-IV. Mantener estrecha relación con las Unidades de Atención en apoyo a su desempeño en el ámbito de su competencia.
+###### ARTÍCULO 16.
 
-V. Apoyar al Consejo Estatal en las funciones de su competencia en el ámbito regional.
+Las instituciones de educación superior podrán otorgar título profesional, diploma o grado académico a la persona que haya concluido estudios de tipo superior y cumplido los requisitos académicos establecidos en los planes de estudio y ordenamientos aplicables.
 
-VI. Propiciar la formación de una conciencia social regional, acerca de la problemática de la violencia familiar.
+Para este propósito, las instituciones de educación superior determinarán los requisitos y modalidades en que sus egresados podrán obtener el título profesional, diploma o grado académico correspondiente.
 
-VII. Las demás que les sean confiadas por el Consejo Estatal y por la Junta Directiva para la Prevención, Asistencia y Atención de la Violencia Familiar.
+Los certificados, diplomas, títulos profesionales y grados académicos que expidan los particulares respecto de estudios autorizados o reconocidos requerirán de autenticación por parte de la autoridad o institución pública que haya concedido la autorización o el reconocimiento de validez oficial de estudios. Para tal efecto, se utilizarán preferentemente medios digitales y procesos electrónicos.
 
-###### Artículo 19.
+Todos los certificados, diplomas, títulos profesionales y grados académicos señalados en este artículo tendrán validez en todo el territorio nacional, en términos de lo dispuesto por la Ley General.
 
-Los órganos a que se refiere este capítulo, normarán su actuación en base a las siguientes premisas:
+###### ARTÍCULO 17.
 
-I. Procurarán que los abusos cometidos dentro de la familia, no queden impunes.
+A efecto de obtener el título profesional correspondiente al nivel de licenciatura, será obligatoria la prestación del servicio social, para lo cual las instituciones de educación superior deberán sujetarse a las disposiciones constitucionales y legales en la materia.
 
-II. Tomarán en cuenta el interés superior de las personas receptoras de violencia y les otorgarán protección total.
+La Secretaría promoverá con las instituciones de educación superior que, como una opción del servicio social, se realice el reforzamiento del conocimiento, a través de tutorías a educandos en el tipo educativo básico y de media superior en las áreas de matemáticas, lenguaje, comunicación y se proporcione acompañamiento en servicios de psicología, trabajo social, orientación educativa, entre otras, para contribuir a su máximo aprendizaje, desarrollo integral y equidad en educación.
 
-### CAPITULO II. DE LAS ACCIONES PUBLICAS
+Las autoridades educativas, en coordinación con las instituciones de educación superior, promoverán que el servicio social sea reconocido como parte de su experiencia para el desempeño de sus labores profesionales.
 
-#### SECCION PRIMERA. DISPOSICIONES COMUNES
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+Sin perjuicio de lo dispuesto en los párrafos anteriores y en términos de la legislación aplicable, la Secretaría y las instituciones de educación superior promoverán como opción del servicio social, además, la participación en campañas de reforestación y manejo racional del agua y de residuos, u otras similares o relacionadas, para lo cual se atenderán las disposiciones emitidas por las autoridades competentes.
 
-###### Artículo 20.
+###### ARTÍCULO 18.
 
-Es deber del Estado y sus autoridades resguardar a la familia como un espacio de afecto, seguridad y desarrollo, a cuyo efecto deberá implementar todas las medidas indispensables para impedir que en su seno se produzca cualquier forma de maltrato que afecte a sus miembros, así mismo brindará particular atención a las niñas, niños y adolescentes, a las mujeres, a las personas con discapacidad o de las personas adultas mayores, evitando que sean víctimas de la violencia familiar.
+En la educación superior, las equivalencias y revalidaciones de estudio se realizarán considerando la equiparación de asignaturas, la similitud o afinidad de los planes y programas de estudio, el número de créditos correspondientes al plan de estudios, cualquier otra unidad de aprendizaje, ciclo escolar o nivel educativo.
 
-###### Artículo 21.
+###### ARTÍCULO 19.
 
-Las autoridades involucradas en esta problemática, a las que alude este capítulo, además de las funciones que les son propias, llevarán a cabo las que esta ley les atribuye; a cuyo efecto deberán presentar sus programas y evaluaciones para su aprobación ante el Consejo Estatal para la Prevención, Asistencia y Atención de la Violencia Familiar en el Estado.
+Las autoridades educativas e instituciones de educación superior facultadas para otorgar revalidaciones o equivalencias de estudios, lo harán sujetándose a las normas y criterios generales que determine la autoridad educativa federal, y promoverán la simplificación de dichos procedimientos, atendiendo a los principios de celeridad, imparcialidad, flexibilidad y asequibilidad. Además, promoverán la utilización de medios electrónicos de verificación de autenticidad de documentos académicos, a fin de facilitar y garantizar la incorporación y permanencia al tipo de educación superior a todas las personas, incluidas las que hayan sido repatriadas a nuestro país, regresen voluntariamente o enfrenten situaciones de desplazamiento o migración interna, conforme a las disposiciones de la materia.
 
-#### SECCION SEGUNDA. DE LA PREVENCION
+Las Instituciones públicas de educación superior con autonomía constitucional y legal se regirán por sus propias normas y en materia de revalidación y movilidad estarán a lo que decidan sus autoridades escolares.
 
-###### Artículo 22.
+### CAPÍTULO I. DEL SISTEMA ESTATAL DE EDUCACIÓN SUPERIOR
 
-Corresponde a la Secretaría de Educación:
+#### SECCIÓN PRIMERA. DEL SUBSISTEMA UNIVERSITARIO
 
-I. Desarrollar programas educativos, para la prevención de la violencia familiar con las instancias competentes y promoverlos en cada una de las instituciones públicas y privadas.
+###### ARTÍCULO 20.
 
-II. Organizar cursos y talleres de capacitación, con perspectiva de género, para el personal de los diferentes niveles educativos.
+Los certificados, diplomas, títulos profesionales, grados académicos, revalidaciones o equivalencias de estudios y demás comprobantes académicos que expidan las instituciones de educación superior, con sujeción a los ordenamientos y leyes aplicables, deberán registrarse, en los términos que establezca la autoridad educativa federal, en el Sistema de Información y Gestión Educativa, y tendrán validez en toda la República.
 
-III. Promover campañas para difundir los derechos humanos y eliminar en los contenidos educativos modelos discriminatorios de género.
+###### ARTÍCULO 21.
 
-IV. Generar políticas educativas que modifiquen los patrones socioculturales de conducta de hombres y de mujeres, mediante la educación formal y no formal, a fin de contrarrestar prejuicios y costumbres basados en la premisa de la inferioridad femenina o en estereotipos derivados de las identidades de género, que constituyen causas y exacerban la violencia familiar.
+La movilidad dentro del Sistema Estatal de Educación Superior se regirá en términos del marco nacional de cualificaciones y del sistema nacional de asignación, acumulación y transferencia de créditos académicos, observándose lo dispuesto por la Ley General.
 
-V. Fomentar y apoyar programas de educación para crear conciencia sobre las consecuencias de la violencia familiar, los problemas derivados de ella, los medios de prevenirla y evitarla.
+Las Instituciones públicas de educación superior con autonomía constitucional y legal se regirán por sus propias normas y en materia de revalidación y movilidad estarán a lo que decidan sus autoridades escolares.
 
-VI. Establecer formas de capacitación y sensibilización, con perspectiva de género, del personal educativo, a fin de que detecte y de una primera respuesta urgente a los casos de educandos que sufran violencia familiar.
+#### SECCIÓN SEGUNDA. DEL SUBSISTEMA TECNOLÓGICO
 
-VII. Diseñar y poner en marcha planes pilotos para identificar casos de violencia familiar, con información reservada proveniente de los educandos.
+###### ARTÍCULO 22.
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2018)</small>
+La educación superior forma parte del Sistema Educativo Estatal para el cumplimiento de los principios, fines y criterios previstos en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos.
 
-VIII. A través de programas como el de Escuela para Padres y el diseño de materiales educativos dirigidos a los miembros de las familias; impulsar estrategias para evitar la violencia familiar, poniendo especial atención a la que se ejerce contra las niñas, niños y adolescentes.
+El Sistema Estatal de Educación Superior es el conjunto orgánico y articulado de actores, instituciones y procesos para la prestación del servicio público de educación superior que imparta el estado de Puebla, sus órganos desconcentrados y organismos descentralizados, así como los particulares con autorización o reconocimiento de validez oficial de estudios y todos aquellos elementos que contribuyen al cumplimiento de los fines de la educación superior.
 
-IX. Establecer cursos de especialización sobre violencia familiar.
+###### ARTÍCULO 23.
 
-X. Promover en las universidades públicas y privadas que cuenten con la Carrera de Derecho, con Centros de Investigaciones Jurídicas o Centros de Estudios de Género, así como entre las organizaciones no gubernamentales académicas relacionadas con la materia de la presente Ley, el establecimiento de programas de divulgación de los derechos de las personas afectadas por la violencia familiar, así como de las vías y los recursos con que cuentan para su defensa.
+La Secretaría y las instituciones de educación superior deberán coordinarse con la autoridad educativa federal, a fin de promover la interrelación entre este tipo educativo, el de básica y de media superior; mediante la formulación de estrategias comunes que ofrezcan una formación integral al estudiante para que cuente con una preparación académica que le permita continuidad en su trayecto escolar y un egreso oportuno en educación superior; así como una vocación científica y ética que le permita contribuir al desarrollo social, económico, científico y tecnológico del país.
 
-XI. Desarrollar programas educativos que incorporen en el proceso de enseñanza aprendizaje, desde la infancia, orientaciones y valores de equidad entre los géneros y de respeto a los derechos humanos.
+Las autoridades educativas y las instituciones de educación superior, en el ámbito de sus respectivas competencias y en ejercicio de las atribuciones que le confieren los ordenamientos jurídicos aplicables, coadyuvarán al cumplimiento de la programación estratégica que determine el Sistema Educativo Nacional y Estatal; además sus acciones responderán a la diversidad lingüística, regional y sociocultural del país, las desigualdades de género, el respeto al medio ambiente, la cultura de la salud y la participación ciudadana; así como la consideración de la población rural dispersa y grupos migratorios, además de las características y necesidades específicas de sectores de la población donde se imparta la educación superior.
 
-XII. Eliminar de los contenidos educativos, modelos discriminatorios de género.
+###### ARTÍCULO 24.
 
-XIII. Impartir talleres sobre la aplicación en México de las convenciones internacionales en materia de violencia familiar o contra la mujer.
+En el Sistema Estatal de Educación Superior participarán con sentido de responsabilidad social los actores, instituciones y procesos que lo componen y estará integrado por:
 
-XIV. Llevar registro de los casos de violencia familiar que tengan lugar en los centros educativos de su dependencia y del tratamiento de que fueron objeto.
+I. Las y los estudiantes de las instituciones de educación superior;
 
-XV. Las demás que establezcan las leyes.
+II. El personal académico de las instituciones de educación superior;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+III. El personal administrativo de las instituciones de educación superior;
 
-###### Artículo 23.
+IV. Las autoridades educativas estatales y municipales;
 
-Corresponde a la Secretaría de Inclusión y Desarrollo Social:
+V. Las autoridades de las instituciones de educación superior;
 
-I. Contribuir a que las familias participen activa y concientemente (sic) en los programas que tiendan a satisfacer sus necesidades básicas y desarrollar sus capacidades.
+VI. Las instituciones de educación superior públicas con autonomía constitucional y legal;
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+VII. Las instituciones de educación superior públicas;
 
-II. Promover talleres de capacitación, con perspectiva de género, que permitan a las mujeres, a las personas con discapacidad y a las de la tercera edad, acceder a un empleo o a un autoempleo.
+VIII. Las instituciones de educación superior particulares;
 
-III. Promover programas de intervención temprana en comunidades de escasos recursos para prevenir, desde dónde se genera, violencia familiar, incorporando a la población en las operaciones de dichos programas.
+IX. Los programas educativos;
 
-IV. Orientar para el acceso a un empleo digno o para recibir asistencia y atención, a personas receptoras de violencia familiar.
+X. Los instrumentos legales, administrativos y económicos de apoyo a la educación superior;
 
-V. Promover programas que garanticen el registro de títulos de propiedad de la tierra y vivienda a las mujeres que soliciten la regularización de su tenencia.
+XI. Las políticas en materia de educación superior;
 
-VI. Establecer proyectos productivos, sin estereotipos de género, a favor de mujeres que enfrentan problemas de violencia familiar.
+XII. Las instancias colegiadas de vinculación, participación y consulta derivadas de esta Ley;
 
-VII. Las demás que establezcan las leyes.
+XIII. La COEPES, y
 
-###### Artículo 24.
+XIV. Todos los demás actores que participen en la prestación del servicio público de educación superior.
 
-Corresponde al Sistema para el Desarrollo Integral de la Familia.
+###### ARTÍCULO 25.
 
-I. Establecer un sistema general de prevención de la violencia familiar mediante el cual se logre que deje de ser patrón de las relaciones familiares, sustituyéndolo por otros patrones basados, tanto en el respeto de la individualidad, como en las diferencias de género.
+El Sistema Estatal de Educación Superior tendrá los propósitos siguientes:
 
-II. Crear modelos de detección de violencia familiar.
+I. Contribuir a la consolidación de estructuras, sistemas y procesos orientados a la mejora continua e innovadora de las instituciones y programas de educación superior;
 
-III. Promover la creación de espacios que sirvan de albergues temporales, para las personas receptoras de violencia familiar en situación de emergencia.
+II. Ampliar la distribución territorial y la oferta de educación superior, a fin de atender las problemáticas locales y comunitarias con énfasis en el bienestar de la población;
 
-IV. Establecer los mecanismos necesarios para que todas las instituciones del sector público o privado canalicen los casos de violencia familiar a las autoridades competentes, particularmente a las Unidades de Atención.
+III. Fortalecer las capacidades educativas locales y la coordinación con la Federación;
 
-V. Editar y distribuir, de la forma más amplia posible, material impreso: Trípticos, carteles y cartillas informativas, para sensibilizar a la población en orden a la violencia familiar.
+IV. Sentar las bases, desde el ámbito local, de procesos eficientes y eficaces de planeación, coordinación, participación y vinculación social conforme a lo establecido en esta Ley;
 
-VI. Organizar campañas masivas de comunicación social, incluidos los medios electrónicos, para prevenir la violencia familiar.
+V. Consolidar los procesos de evaluación, acreditación de programas educativos y certificación de los procesos de gestión, de las instituciones de educación superior;
 
-VII. Promover foros de discusión sobre todos los aspectos de la violencia familiar.
+VI. Fortalecer y articular la concurrencia financiera y la distribución de recursos públicos en el ámbito territorial correspondiente;
 
-VIII. Establecer los vínculos necesarios con instituciones de asistencia social o privadas, para obtener los apoyos institucionales en materia de violencia familiar.
+VII. Coadyuvar a la integración y articulación de espacios de desarrollo local a través de proyectos educativos regionales que fomenten la ciencia, la tecnología, la innovación y el desarrollo económico de manera ética y solidaria a través de una integración horizontal de los distintos actores, conforme a las vocaciones productivas existentes;
 
-IX. Y las demás que le confieran las leyes.
+VIII. Estrechar la vinculación de las instituciones de educación superior con las comunidades locales, el entorno social, así como con los sectores sociales y productivos, y
 
-###### Artículo 25.
+IX. Los demás que se determinen en las leyes correspondientes.
 
-Corresponde al Instituto Coahuilense de las Mujeres:
+#### SECCIÓN TERCERA. DEL SUBSISTEMA DE ESCUELAS NORMALES E INSTITUCIONES DE FORMACIÓN DOCENTE
 
-I. Coadyuvar en la erradicación de la violencia de género en las personas de las niñas y las mujeres.
+###### ARTÍCULO 26.
 
-II. Diseñar campañas para la promoción de imágenes plurales, no estereotipadas de género, que garanticen el respeto entre los hombres y mujeres y permitan erradicar la violencia.
+El Sistema Estatal de Educación Superior y el Sistema Estatal de Ciencia, Tecnología e Innovación deberán operar de manera articulada y convergente. Las disposiciones legales y las políticas de educación superior y las destinadas a ciencia, humanidades, tecnología e innovación establecerán los procedimientos para la coordinación y complementariedad de programas, proyectos y recursos económicos.
 
-III. Coadyuvar en la difusión de los derechos de las mujeres.
+Para lograr ese propósito, las autoridades educativas y las instituciones de educación superior, además de lo establecido en la ley en la materia, atenderán lo siguiente:
 
-IV. Canalizar para su atención, los casos de violencia familiar que sean de su conocimiento.
+I. El fomento de la vocación científica, tecnológica, ética, humanística e innovadora;
 
-V. Impartir en todo el Estado talleres sobre la aplicación de las Convenciones Internacionales para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer, para la eliminación de todas las formas de discriminación contra las mujeres y demás signadas por México.
+II. La consolidación de los procesos de enseñanza y aprendizaje de la investigación e innovación científica, humanística y tecnológica;
 
-VI. Y las demás que les confieran las leyes.
+III. La formación de investigadoras e investigadores, en los casos que corresponda;
 
-#### SECCION TERCERA. DE LA ASISTENCIA Y ATENCION
+IV. El fomento a la creación de infraestructura para el desarrollo de la ciencia y la innovación tecnológica;
 
-###### Artículo 26.
+V. El apoyo para la realización de investigación e innovación científica, humanística y tecnológica;
 
-La atención especializada que se proporcione en materia de violencia familiar, por las Unidades de Atención o por cualquier institución de la administración pública o del sector privado, tendrá por objeto la protección de la integridad física y mental y de las personas receptoras de la violencia, así como la reeducación, respecto a quien la provoca en la familia.
+VI. El diseño y operación de proyectos de investigación aplicada que favorezcan la cogestión, la innovación y la transferencia de tecnología en las regiones en las que se encuentran las instituciones de educación superior, fortaleciendo así los lazos con las comunidades de su entorno e impulsando su desarrollo económico regional y social de manera sustentable y solidaria, y
 
-Del mismo modo, estará libre de prejuicios de género, raza, condición socioeconómica, religión o credo, nacionalidad o de cualquier otro tipo, y no contará entre sus criterios con patrones estereotipados de comportamiento o prácticas sociales y culturales basadas en conceptos de inferioridad o de subordinación.
+VII. La democratización de la información científica, tecnológica, humanística y de innovación, en los términos que establezca la ley de la materia.
 
-###### Artículo 27.
+###### ARTÍCULO 27.
 
-La atención a quienes incurran en actos de violencia familiar, se basará en modelos psicoterapéuticos reeducativos, tendientes a disminuir y, en su caso, erradicar las conductas violentas que hayan sido empleadas y evaluadas con anterioridad a su aplicación.
+La Secretaría y la autoridad educativa municipal, en su caso, promoverán, ante las instancias competentes y conforme a los procedimientos establecidos en las disposiciones aplicables, que las instituciones de educación superior accedan a los recursos destinados al fortalecimiento y expansión de la investigación científica, humanística, el desarrollo de la tecnología y la innovación, y el arte en todas las regiones del estado de Puebla.
 
-Dicha atención tendrá lugar en las Unidades de Atención establecidas para el efecto.
+Los recursos a los que se refiere este artículo se destinarán para apoyar la investigación básica y aplicada, la generación de prototipos científicos y tecnológicos, el diseño de proyectos para la mejora continua de la educación, la difusión y divulgación de la ciencia, la innovación tecnológica y, en general, todas aquellas acciones que contribuyan al desarrollo del país y del estado de Puebla.
 
-En estas Unidades, podrá hacerse extensiva la atención a quienes cuenten con sentencia ejecutoria relacionada con eventos de violencia familiar a solicitud de la autoridad jurisdiccional, de acuerdo con las facultades que tiene conferidas el Juez Penal o Familiar, o bien, a solicitud del propio interesado.
+###### ARTÍCULO 28.
 
-###### Artículo 28.
+La Secretaría y la autoridad educativa municipal, en su caso, fomentarán la creación de programas de posgrado enfocados en la investigación e innovación científica, humanística y tecnológica.
 
-El personal de las instituciones a que se refieren los dos artículos anteriores, deberá ser profesional y acreditado por las instituciones educativas públicas o privadas, debiendo contar con la inscripción y registro correspondiente ante la Secretaría de Educación y la Secretaría de Salud.
+Para contribuir a la formación de especialistas en las disciplinas científicas, humanísticas y tecnológicas e incrementar la matrícula de esos programas de posgrado, las autoridades educativas y las instituciones de educación superior, de acuerdo con la disponibilidad presupuestaria, fomentarán el otorgamiento de becas para el estudio de los programas a los que se refiere este artículo.
 
-Dicho personal deberá participar en los procesos de selección, capacitación y sensibilización, que en su oportunidad se implementen, a fin de que cuenten con el perfil adecuado.
+###### ARTÍCULO 29.
 
-###### Artículo 29.
+Las instituciones públicas de educación superior podrán realizar investigación e innovación científica, humanística y tecnológica en asociación con otras instituciones, centros públicos de investigación, sectores social y privado, de acuerdo con su normatividad interna. Asimismo, podrán constituir repositorios por disciplinas científicas, humanísticas, tecnológicas y de innovación, de acuerdo con los criterios que se deriven de las disposiciones legales en la materia.
 
-(DEROGADO, P.O. 18 DE MARZO DE 2014)
+Con la finalidad de extender hacia todos los sectores de la sociedad los beneficios de la investigación y desarrollo a las que se refiere este artículo, las autoridades educativas y las instituciones de educación superior impulsarán, de manera permanente, acciones de divulgación del conocimiento, dando prioridad a la población escolar en todos los tipos y niveles educativos.
 
-###### Artículo 30.
+###### ARTÍCULO 30.
 
-(DEROGADO, P.O. 18 DE MARZO DE 2014)
+A fin de garantizar una oferta educativa con capacidad de atender las necesidades estatales, además de las prioridades específicas de formación de profesionistas, investigadoras e investigadores para el desarrollo sostenible del estado de Puebla, el Sistema Estatal de Educación Superior se integra por los subsistemas siguientes:
 
-###### Artículo 31.
+I. Universitario;
 
-Corresponde a la Secretaría de Gobierno:
+II. Tecnológico; y
 
-I. Coadyuvar a través del Registro Civil a la difusión del contenido y alcance de la presente ley.
+III. Escuelas Normales e Instituciones de Formación Docente.
 
-II. Instrumentar a través de la Dirección General de dicho Registro, una sección especial en la que se inscriban todas las personas que hayan sido condenadas por sentencia ejecutoriada, por tribunales civiles y penales, como autores de actos de violencia familiar, a cuyo efecto, éstos deberán remitirle copia certificada de estas resoluciones.
+Las acciones que se realicen para el cumplimiento de los objetivos de los subsistemas a los que se refiere este Capítulo contribuirán al fortalecimiento del Sistema Educativo Estatal y al logro de los principios, fines y criterios de la educación establecidos en la Constitución Política de los Estados Unidos Mexicanos. Además, estarán orientadas al desarrollo humano integral del estudiante conforme a lo dispuesto en la Ley.
 
-Los datos que obren en esta sección serán confidenciales y solo podrán ser proporcionados a las autoridades administrativas o jurisdiccionales especializadas en la materia.
+###### ARTÍCULO 31.
 
-III. Llevar un registro de instituciones gubernamentales y no gubernamentales, que por razón de sus funciones y fines, puedan prestar apoyos y servicios en los casos de violencia familiar.
+La educación superior universitaria tiene por objeto la formación integral de las personas para el desarrollo armónico de todas sus facultades, la construcción de saberes, la generación, aplicación, intercambio y transmisión del conocimiento, así como la difusión de la cultura y la extensión académica en los ámbitos nacional, regional y local, que faciliten la incorporación de las personas egresadas a los sectores social, productivo y laboral.
 
-IV. Promover la capacitación y sensibilización, con perspectiva de género, de las y los defensores y personal profesional auxiliar, que presten sus servicios en la Defensoría de Oficio en materia Familiar y Penal, a efecto de mejorar la atención de las personas receptoras de la violencia que requieran la intervención de dicha Defensoría.
+El subsistema universitario se encuentra integrado por las universidades e instituciones de educación superior que realizan los objetivos establecidos en el párrafo anterior y se clasifican de la siguiente forma en razón de su naturaleza jurídica:
 
-V. Vigilar y garantizar el cumplimiento de esta ley, de conformidad con las atribuciones que establece la Ley Orgánica de la Administración Pública del Estado.
+I. En el ámbito federal: aquellas instituciones de educación superior federales, en términos de lo que disponga la normatividad aplicable.
 
-VI. Las demás que establecen las leyes.
+II. En el ámbito estatal:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2009)</small>
+a) Universidades e instituciones de educación superior públicas con autonomía constitucional y legal;
 
-###### Artículo 32.
+b) Universidades e instituciones de educación superior públicas constituidas. Quedan comprendidas en este rubro las universidades interculturales, las universidades públicas estatales con apoyo solidario, y descentralizadas o equivalentes;
 
-Corresponde a la Fiscalía General del Estado:
+c) Universidades e instituciones de educación superior constituidas como órganos desconcentrados de una dependencia de alguno de los poderes del estado de Puebla, y
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+d) Aquellas a través de las cuales una dependencia de alguno de los poderes del estado de Puebla imparte el servicio de educación superior en forma directa.
 
-I. Coordinarse con la Procuraduría de la Familia para diseñar y llevar a cabo acciones de prevención, atención y asistencia de la violencia familiar.
+III. instituciones de educación superior establecidas por los municipios;
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2018)</small>
+IV. Universidades e instituciones públicas comunitarias de educación superior, que son aquellas que se organizan a partir de acuerdos establecidos entre las autoridades federales, del estado de Puebla o los municipios, con comunidades organizadas;
 
-II. Crear un cuerpo especializado, con enfoque de género, que preste auxilio y colabore con las autoridades y organismos públicos del Estado en los casos de violencia familiar.
+V. Universidades e instituciones de educación superior particulares. Quedan comprendidas en este apartado, aquellas instituciones particulares de educación superior de sostenimiento social y comunitario;
 
-El personal que conforme dicho cuerpo, deberá recibir capacitación especial y sensibilización en procedimientos de manejo de conducta de niñas, niños y adolescentes, mujeres, personas con discapacidad y personas adultas mayores.
+VI. instituciones de educación superior reconocidas en México mediante convenios o tratados internacionales, y
 
-III. Hacer cumplir las normas y disposiciones que expidan las autoridades competentes en materia de violencia familiar.
+VII. Centros Públicos de Investigación, que son aquellas entidades paraestatales de la Administración Pública Federal o del estado de Puebla, que de acuerdo con su instrumento de creación tienen como objeto predominante realizar actividades de investigación científica, tecnológica y humanística, cuentan con programas de formación en el tipo superior y realizan actividades de vinculación con los sectores social y productivo, extensión y difusión académica.
 
-IV. Brindar apoyo a las víctimas de violencia familiar, procurando en todo momento el respeto a su dignidad, discreción y privacidad.
+###### ARTÍCULO 32.
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+Para que una institución use la denominación Universidad, deberá acreditar que oferta al menos cinco programas educativos de licenciatura o posgrado, en tres áreas distintas del conocimiento, una de las cuales deberá ser del área de ciencias y humanidades, y que además realicen funciones sustantivas de docencia, investigación, vinculación y difusión de la cultura, las que deberán mantener una relación armónica y complementaria.
 
-V. Vigilar que los elementos de los cuerpos de policía den cuenta inmediata a la autoridad competente de los casos de violencia familiar que sean de su conocimiento, con motivo del ejercicio de sus funciones.
+La Institución que no cumpla con los requisitos para utilizar la denominación de Universidad, deberá abstenerse de utilizar este término y solo se considerará como Institución de Educación Superior.
 
-VI. Hacer llegar por los conductos que estime necesarios, los diversos citatorios que emitan las autoridades competentes, a presuntas personas generadores de la violencia familiar.
+###### ARTÍCULO 33.
 
-VII. A través de sus elementos, llevar a cabo las presentaciones para hacer efectivos los arrestos administrativos que se impongan con motivo de la ley.
+La educación superior tecnológica tiene por objeto la formación integral de las personas con énfasis en la enseñanza, la aplicación y la vinculación de las ciencias, las ingenierías y la tecnología con los sectores productivos de bienes y servicios, así como la investigación científica y tecnológica.
 
-VIII. Incluir en sus programas de formación policíaca, cursos sobre violencia familiar.
+El subsistema tecnológico se encuentra integrado por las instituciones de educación superior que realizan los objetivos que se prevén en el párrafo anterior con el énfasis mencionado y se clasifican de la siguiente forma en razón de su naturaleza jurídica:
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+I. En el ámbito federal: aquellas instituciones de educación superior federales, en términos de lo que disponga la normatividad aplicable.
 
-IX. Instalar en las cabeceras distritales del Estado, Agencias Especializadas del Ministerio Público en la atención de víctima de violencia familiar y delitos sexuales, o bien procurar que en las agencias ya existentes, se integren grupos de agentes, de preferencia mujeres, que atiendan a esas víctimas.
+II. En el ámbito de estatal:
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2009)</small>
+a) instituciones de educación superior públicas con autonomía constitucional y legal;
 
-X. Organizar un modelo interdisciplinario de investigación criminal especializada en la violencia familiar y los delitos sexuales, que permita integrar los elementos del tipo y preservar las evidencias, para procurar una mejor impartición de justicia.
+b) instituciones de educación superior públicas constituidas. Quedan comprendidas en este rubro las universidades tecnológicas, las universidades politécnicas, los institutos tecnológicos descentralizados o equivalentes;
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2009)</small>
+c) instituciones de educación superior constituidas como órganos desconcentrados de una dependencia de alguno de los poderes del estado de Puebla;
 
-XI. Organizar métodos de trato a las víctimas, para procurar disminuir su angustia y el estado postraumático en el que se encuentre a raíz de la violencia sufrida.
+d) Instituciones municipales de educación superior, y
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2009)</small>
+e) Aquellas a través de las cuales una dependencia de alguno de los poderes del estado de Puebla imparte el servicio de educación superior en forma directa.
 
-XII. Capacitar y sensibilizar al personal del Ministerio Público, particularmente al especializado, con perspectiva de género, en orden a la práctica de las investigaciones y trato a las víctimas de la violencia familiar.
+III. Instituciones de educación superior particulares.
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2009)</small>
+###### ARTÍCULO 34.
 
-XIII. Crear talleres dirigidos a Agentes y Policías del Estado, Médicos Legistas y servidores públicos encargados de atender quejas, a fin de darles herramientas útiles para que atiendan situaciones de emergencia y den las respuestas necesarias para la protección de las personas receptoras de violencia familiar.
+Las instituciones que conforman el Subsistema Tecnológico se integrarán en un espacio común de la educación superior tecnológica, con el propósito de desarrollar y consolidar actividades académicas, administrativas y de cooperación en áreas de interés común, que permitan configurar un modelo flexible y de calidad.
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2009)</small>
+### CAPÍTULO II. DEL FORTALECIMIENTO A LA CIENCIA, TECNOLOGÍA E INNOVACIÓN EN LAS INSTITUCIONES DE EDUCACIÓN SUPERIOR
 
-XIV. Establecer una línea telefónica de emergencia que proporcione información y asistencia a las personas receptoras de violencia familiar que lo soliciten, o a terceras personas que tengan conocimiento de dicha violencia.
+###### ARTÍCULO 35.
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2009)</small>
+La educación para la formación docente es sector estratégico del Sistema Educativo Estatal.
 
-XV. Encauzar a las autoridades competentes, los casos de violencia familiar que no sean objeto de enjuiciamiento penal, y hacer de su conocimiento estos últimos para los efectos legales consiguientes.
+###### ARTÍCULO 36.
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2009)</small>
+La educación normal y de formación docente tiene por objeto:
 
-XVI. Llevar una información estadística por separado sobre los casos de violencia familiar de su conocimiento y el curso que se les ha dado.
+I. Formar de manera integral profesionales de la educación básica y media superior, en los niveles de licenciatura, especialidad, maestría y doctorado, comprometidos con su comunidad y con responsabilidad social para contribuir a la construcción y desarrollo de una sociedad justa, inclusiva y democrática;
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2009)</small>
+II. Contribuir al fortalecimiento y la mejora continua de la educación básica y media superior para lograr la inclusión, equidad y excelencia educativa;
 
-XVII. Las demás que le confieran las leyes.
+III. Desarrollar actividades de investigación, de extensión y de capacitación en las áreas propias de su especialidad, estableciendo procedimientos de coordinación y vinculación con otras instituciones u organismos nacionales e internacionales que contribuyan a la formación y profesionalización de los docentes y al mejoramiento de sus prácticas Educativas, y
 
-###### Artículo 33.
+IV. Fortalecer sus aprendizajes de una segunda lengua y de tecnologías como respuesta a la globalización del mundo actual. Sin olvidar la importancia de la interculturalidad que existe en el estado de Puebla.
 
-(DEROGADO, P.O. 12 DE MAYO DE 2009)
+El subsistema de escuelas normales e instituciones de formación docente está integrado por las escuelas normales públicas y privadas en el estado de Puebla y las instituciones formadoras de docentes.
 
-###### Artículo 34.
+###### ARTÍCULO 37.
 
-Corresponde a la Secretaría de Salud:
+La Secretaría tomando en cuenta las particularidades regionales del estado de Puebla, coadyuvará coordinadamente con la autoridad educativa federal en la rectoría de la educación normal y de formación docente, en términos de lo dispuesto por la Ley General.
 
-I. Poner en práctica Programas de Asistencia y Prevención de la Violencia Familiar.
+La formación docente permitirá contar con maestras y maestros que resignifiquen la educación de las niñas, los niños, adolescentes y jóvenes con un enfoque integral, a partir de una vocación de docencia que promueva modelos de educación pertinentes y aprendizajes relevantes, que fortalezca la identidad nacional, democrática, equitativa, inclusiva e intercultural, además de considerar el carácter local, contextual y situacional de los procesos de construcción de saberes.
 
-II. Crear modelos de respuesta al fenómeno de la violencia familiar como problema de salud pública y establecer formas de prevención y solución a sus consecuencias, tanto psicológicas como fisiológicas, en la salud de las personas receptoras de la violencia.
+###### ARTÍCULO 38.
 
-III. Fomentar, en coordinación con instituciones públicas, privadas y sociales, la realización de investigaciones sobre el fenómeno de la violencia familiar, para diseñar nuevos modelos de prevención y atención.
+El Estado es el responsable del fortalecimiento de las instituciones públicas de formación docente y escuelas normales, lo que implica promover mejores condiciones para el desempeño y profesionalización de los formadores, desarrollar sus programas curriculares, de investigación y de extensión, robustecer sus procesos de administración y la planeación de sus modelos de ingreso e instrumentar metodologías pedagógicas innovadoras para contar con una sólida formación inicial y formación continua.
 
-IV. Concurrir, con fines preventivos o de seguimiento, a los sitios donde exista violencia familiar, mediante trabajadoras sociales y personal médico, con el propósito de desalentarla.
+La Secretaría y la autoridad educativa municipal, así como la comunidad de las instituciones formadoras de docentes y escuelas normales participarán activamente para cumplir con lo dispuesto en el párrafo anterior.
 
-V. Organizar cursos y talleres de capacitación y sensibilización para el personal de las diferentes áreas de salud a quienes corresponda la prevención y atención de la violencia familiar, con el propósito de procurar la adecuada atención de quienes requieren de sus servicios.
+###### ARTÍCULO 39.
 
-VI. Llevar a cabo programas de concientización y de formación y capacitación, sobre formas de prevenir la violencia familiar respecto a las personas usuarias de salas de consulta externa de los hospitales generales, materno infantiles y pediátricos; así como del personal médico dependiente de las instituciones hospitalarias.
+La persona responsable de la educación normal en el estado de Puebla formará parte en la integración del Consejo Nacional de Autoridades de Educación Normal, en términos de los lineamientos emitidos por la autoridad educativa federal.
 
-Del mismo modo, deberá celebrar convenios con instituciones de salud privadas, a efecto de que en las mismas se lleven a cabo los programas antes mencionados.
+## TÍTULO TERCERO. DE LA EDUCACIÓN SUPERIOR EN EL SISTEMA EDUCATIVO ESTATAL
 
-VII. Elaborar formatos médicos para recabar los datos que permitan determinar la existencia de casos de violencia familiar.
+### CAPÍTULO III. DE LOS SUBSISTEMAS DE EDUCACIÓN SUPERIOR
 
-VIII. Llevar a cabo campañas encaminadas a sensibilizar y concientizar a la población en general, sobre las formas de expresión de la violencia familiar y sus efectos; así como las formas de prevenirla, combatirla y erradicarla.
+###### ARTÍCULO 40.
 
-IX. Difundir y promover la aplicación de las normas de la Secretaría de Salud del Gobierno Federal relativas a la prestación de servicios de salud y criterios para la atención de la violencia familiar.
+La comunidad normalista del estado de Puebla, así como de otras instituciones formadoras de docentes y de profesionalización de las maestras y maestros en servicio, serán tomadas en cuenta para la elaboración y definición de los criterios para el desarrollo institucional, regional y local, así como para la actualización de planes y programas de estudio de las escuelas normales, a cargo de la autoridad educativa federal, en términos de lo previsto por la Ley General.
 
-X. Llevar un registro puntual de los casos de violencia familiar que se atienden en las diversas instituciones hospitalarias públicas y privadas, que permita conocer si la víctima ha sido objeto de agresiones anteriores, los organismos que han intervenido y el resultado de las acciones llevadas a cabo.
+###### ARTÍCULO 41.
 
-XI. Las demás que establezcan las leyes.
+La Secretaría y la autoridad educativa municipal concurrirán y se coordinarán, en el ámbito de sus competencias, para garantizar la prestación del servicio de educación superior en todo el territorio estatal en los términos de esta Ley.
 
-### CAPITULO III. DE LAS ACCIONES PRIVADAS
+Las acciones que realicen se basarán en el enfoque de derechos humanos y de igualdad sustantiva, respetando el principio de inclusión. Tendrán una perspectiva de juventudes, de género, así como de interculturalidad con especial atención a los pueblos y comunidades indígenas, a las personas afromexicanas, a las personas con discapacidad y a los grupos en situación de vulnerabilidad. Tomarán en cuenta medidas para proporcionar atención a estudiantes con aptitudes sobresalientes y a personas adultas que cursen algún nivel del tipo de educación superior.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
 
-###### Artículo 35.
+###### ARTÍCULO 42.
 
-El Estado incentivará todas las iniciativas del sector privado y social, con miras a la creación de centros o establecimientos de asistencia, habilitación y rehabilitación para niñas, niños y adolescentes, mujeres, personas con discapacidad y de personas adultas mayores, que sufran violencia familiar.
+La Secretaría, la autoridad educativa municipal y las instituciones de educación superior, en ejercicio de sus atribuciones, promoverán de manera coordinada el desarrollo y educación sostenible, a través de lo siguiente:
 
-###### Artículo 36.
+I. Programas basados en el principio de equidad entre las personas a fin de disminuir las brechas de cobertura y excelencia educativa entre las regiones de la entidad, atendiendo a la demanda educativa enfocada a los contextos regionales y locales para la prestación del servicio de educación superior;
 
-Los centros o establecimientos a que se refiere el artículo anterior, deberán coordinarse en sus acciones con el Sistema para el Desarrollo Integral de la Familia y el Voluntariado de Coahuila.
+II. Modelos y programas educativos, así como acciones afirmativas que eliminen las desigualdades y la discriminación por razones económicas, de origen étnico, lingüísticas, de género, de discapacidad o cualquier otra, que garanticen el acceso, permanencia, continuidad y egreso oportuno equilibrado entre mujeres y hombres en los programas de educación superior;
 
-Corresponderá a los entes rectores establecer los requisitos para la creación de dichos centros y expedir la licencia respectiva para su funcionamiento.
+III. La formación de equipos multidisciplinarios para la atención de las personas con discapacidad, identificación de necesidades específicas de la población con discapacidad, barreras para el aprendizaje y la participación, vinculación intra e interinstitucional, interlocución con la comunidad estudiantil y las diversas instancias o autoridades educativas, investigación y demás acciones encaminadas a la inclusión de las personas con discapacidad en todos los tipos, niveles y modalidades educativas. Lo anterior, en términos de las disposiciones jurídicas aplicables;
 
-Estos centros o establecimientos tienen la obligación de enviar semestralmente el informe estadístico relativo a las atenciones que brinden.
+IV. La aplicación de acciones afirmativas para apoyar a mujeres en el acceso, permanencia, continuidad y egreso oportuno de los estudios que cursen en educación superior;
 
-###### Artículo 37.
+V. Condiciones de movilidad y de estancia para personas que, por sus condiciones geográficas de residencia o de salud requieran apoyos para realizar sus estudios en las sedes de las instituciones de educación superior;
 
-El personal que atienda y dirija los centros o establecimientos, deberá reunir las condiciones de idoneidad y moralidad suficientes, según la clase de servicios que presta.
+VI. La promoción de la ampliación y el mejoramiento permanente de la infraestructura física y tecnológica de las instituciones públicas de educación superior, con base en el principio de educación inclusiva;
 
-Corresponderá al ente regulador, asegurar la orientación y capacitación del personal y la supervisión y certificación de los citados centros y establecimientos.
+VII. El desarrollo y mejoramiento de la capacidad física, humana y tecnológica de las instituciones públicas de educación superior para garantizar la cobertura en este tipo de educación;
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+VIII. La enseñanza de las diversas lenguas indígenas de la entidad y de las lenguas extranjeras;
 
-###### Artículo 38.
+IX. El acceso de la comunidad de las instituciones de educación superior al acervo bibliográfico y audiovisual, así como la creación, ampliación y actualización en formatos asequibles y de acceso abierto de los servicios informativos y de los repositorios con la utilización de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital;
 
-El ingreso de las niñas, niños y adolescentes, mujeres, personas con discapacidad y de personas adultas mayores a los centros o establecimientos, deberá ser objeto de un estudio socio-psicológico previo, del que deberá llevarse un seguimiento. En la atención y tratamiento se procurará mantener permanentemente la relación con los familiares del ingresado.
+X. La incorporación de áreas verdes y deportivas en la infraestructura de las instituciones de educación superior;
 
-###### Artículo 39.
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2023)</small>
 
-Las organizaciones sociales y filantrópicas que organicen centros o establecimientos de asistencia, tendrán derecho de participar en los patronatos, directivas o consejos, a fin de vigilar el correcto manejo y destino de los fondos afectados, así como el cumplimiento eficiente de sus objetivos.
+X BIS. La participación de la comunidad escolar bajo esquemas voluntarios o de servicio social en campañas de reforestación y manejo racional del agua y de residuos, u otras similares o relacionadas;
 
-## TITULO TERCERO. DE LOS PROCESOS Y PROCEDIMIENTOS EN MATERIA DE VIOLENCIA FAMILIAR
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2023)</small>
 
-### CAPITULO I. DEFINICIONES Y PRINCIPIOS BASICOS
+X TER. La instalación y funcionamiento, cuando las condiciones lo permitan, de huertos y/o viveros escolares, de manera coordinada con las autoridades y sectores correspondientes;
 
-###### Artículo 40.
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2023)</small>
 
-Los procesos y procedimientos en materia de violencia familiar están constituidas por las gestiones o actuaciones, ya sea a petición de parte interesada o de oficio, en todos los asuntos que requieran la intervención o decisión de los órganos previstos en esta ley, para hacer efectivos los preceptos que en ella se contienen.
+X. QUÁTER. El destino de una superficie de suelo, en las instalaciones educativas, para compostas de residuos orgánicos.
 
-###### Artículo 41.
+XI. Una cultura de prevención y resiliencia para la protección civil, a fin de arraigar en la comunidad de las instituciones de educación superior los elementos básicos de prevención, autoprotección y mitigación frente a circunstancias de riesgo y desastres;
 
-Los procesos y procedimientos en materia de violencia familiar serán reservados y confidenciales; pero tendrán acceso a ellos las partes, sus representantes legales o voluntarios, los familiares y las personas que demuestren tener interés legítimo en la causa.
+XII. Prácticas rigurosas y adecuadas de evaluación y acreditación de programas, procesos e instituciones de educación superior;
 
-###### Artículo 42.
+XIII. La erradicación de cualquier circunstancia social, educativa, económica, de salud, trabajo, culturales o políticas; disposiciones legales, figuras o instituciones jurídicas, acciones, omisiones, barreras o prácticas que tengan por objeto o produzcan el efecto de negar, excluir, distinguir, menoscabar, impedir o restringir el derecho a la educación superior de las personas, grupos o pueblos, especialmente de aquellos que se encuentren en situación de desventaja social o vulnerabilidad, y
 
-Quienes tengan a su cargo un proceso o procedimiento en materia de violencia familiar, procurarán adoptar determinaciones o resoluciones justas y eficaces y, a tal efecto, pondrán especial empeño en emplear fórmulas expeditas y sencillas, para dejar claramente resuelto el asunto bajo su conocimiento, en el menor tiempo posible.
+XIV. Todas aquellas que contribuyan al logro de los criterios, fines y políticas de la educación superior.
 
-En los procesos y procedimientos se atenderá siempre al mejor interés de la persona receptora de la violencia familiar.
+###### ARTÍCULO 43.
 
-###### Artículo 43.
+La Secretaría, la autoridad educativa municipal y las instituciones de educación superior, en coordinación con la autoridad educativa federal, establecerán el Registro Nacional de Opciones para Educación Superior, el cual tendrá por objeto dar a conocer a la población los espacios disponibles en las instituciones de educación superior, así como los requisitos para su ingreso.
 
-El impulso y dirección de los procesos o procedimientos corresponde a quienes deben instruirlos, para cuyo efecto cuidarán de su rápida tramitación, sin perjuicio de la garantía de audiencia que corresponda a las personas interesadas. En todos los casos se evitará las dilaciones innecesarias o su paralización.
+La Secretaría dispondrá las medidas para que las instituciones de educación superior del estado de Puebla proporcionen la información necesaria para incorporarse al Registro Nacional de Opciones para Educación Superior.
 
-###### Artículo 44.
+La Secretaría y las instituciones de educación superior, de manera coordinada, proporcionarán asesoría y facilitarán los medios a las personas para su acceso a los lugares disponibles.
 
-Los órganos del Poder Judicial, del Ministerio Público, Registros y demás autoridades y funcionarios del Estado, prestarán gratuitamente los oficios legales de su cargo a los instructores de los procesos o procedimientos, en cualquier acto o diligencia en que sea necesario contar con constancias o copias certificadas.
+Las instituciones de educación superior, en coordinación con la Secretaría y en el ámbito de sus competencias, proporcionarán orientación vocacional a quien así lo requiera, con el fin de dotar de los elementos necesarios a los aspirantes a cursar estudios del tipo superior, para que realicen una elección informada.
 
-###### Artículo 45.
+Las personas tendrán el derecho a elegir libremente la institución y el programa académico de su preferencia, previo cumplimiento de los requisitos que establezcan las instituciones de educación superior
 
-En todo lo que no se oponga a las normas especiales de esa ley, son aplicables las disposiciones del Código Civil y del Código Procesal Civil del Estado.
+###### ARTÍCULO 44.
 
-### CAPITULO II. DEL CONOCIMIENTO DE LOS CONFLICTOS EN MATERIA DE VIOLENCIA FAMILIAR
+Se promoverá que el establecimiento y extensión de las instituciones de educación superior o la creación de programas educativos, tomen en cuenta el Programa Sectorial de Educación, los Programas Nacional y Estatal de Educación, así como los planes de las instituciones de educación superior y las demandas de la sociedad en la materia, bajo criterios de pertinencia, excelencia, equidad, inclusión, interculturalidad y cuidado del medio ambiente, además del entorno mundial y las necesidades nacionales, regionales, estatales y locales.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+###### ARTÍCULO 45.
 
-###### Artículo 46.
+La Secretaría, la autoridad educativa municipal y las instituciones de educación superior, de conformidad con su normatividad aplicable, establecerán de manera progresiva y permanente esquemas de formación, capacitación, superación y profesionalización del personal académico del tipo de educación superior, con la finalidad de contribuir a una mejora en los métodos pedagógicos, el proceso de construcción de saberes y en el aprovechamiento académico de las y los estudiantes.
 
-Para el conocimiento de los conflictos en materia de violencia familiar en las vías de mediación y conciliación, podrán ser competentes las Unidades de Atención.
+### CAPÍTULO I. DE LAS ACCIONES PARA EL EJERCICIO DEL DERECHO A LA EDUCACIÓN SUPERIOR
 
-En estos casos el procedimiento lo instruirá la persona titular de la Unidad, quien podrá delegar su atención, tratándose del de mediación o el de conciliación, a los integrantes de la Unidad, preferentemente a quienes cuenten con especializaciones en psicología o psiquiatría.
+###### ARTÍCULO 46.
 
-Quien medie o concilie, podrá asociar a quienes conforman el equipo técnico interdisciplinario de la Unidad, o solo a aquellos cuya opinión estime necesaria.
+La Secretaría, la autoridad educativa municipal y las instituciones de educación superior, en el ámbito de su competencia, promoverán programas de apoyo para la titulación de las personas en los programas a su cargo y que hayan cumplido con los requisitos académicos y administrativos establecidos por las instituciones de educación superior.
 
-En los lugares en que no fuese posible contar con una persona especialista dentro del equipo, la evaluación podrá ser encomendada a las instituciones o profesionales del lugar.
+###### ARTÍCULO 47.
 
-###### Artículo 47.
+Las instituciones de educación superior, con el apoyo de las autoridades respectivas, en sus ámbitos de competencia, promoverán las medidas necesarias para la prevención y atención de todos los tipos y modalidades de violencia, en específico la de género, así como para la protección del bienestar físico, mental y social de sus estudiantes y del personal que labore en ellas. Dichas medidas se basarán en diagnósticos y estudios de las actividades académicas, escolares y administrativas para lograr una detección y atención oportuna de los factores de riesgo, violencia y discriminación, estableciendo protocolos de atención y proporcionando, en su caso, servicios de orientación y apoyo de trabajo social, médico y psicológico.
 
-En los conflictos en materia de violencia familiar, será competente por razón del territorio, la Unidad de Atención en que resida la persona receptora de la violencia.
+Las acciones derivadas para el cumplimiento de este artículo respetarán la protección de datos personales y la privacidad de estudiantes y del personal que reciba los servicios.
 
-###### Artículo 48.
+###### ARTÍCULO 48.
 
-Cuando la controversia en materia de violencia familiar amerite la intervención del órgano jurisdiccional; será competente para conocer de ella los Jueces de Primera Instancia en Materia Familiar en los términos previstos por la Ley Orgánica del Poder Judicial y el Código Procesal Civil para el Estado.
+El Estado reconoce la importancia y coadyuvará a garantizar que las instituciones de educación superior se constituyan como espacios libres de todo tipo y modalidad de violencia, en específico la de género, y de discriminación hacia las mujeres, para garantizar el acceso pleno al derecho a la educación superior.
 
-### CAPITULO III. REGLAS COMUNES APLICABLES A LOS PROCESOS Y PROCEDIMIENTOS DE VIOLENCIA FAMILIAR
+En el ámbito de su competencia, conforme a sus procedimientos normativos y de acuerdo con sus características, las instituciones de educación superior promoverán, entre otras, la adopción de las siguientes medidas:
 
-###### Artículo 49.
+I. En el ámbito institucional:
 
-En la tramitación y resolución de los procesos y procedimientos de violencia familiar, rigen los principios de oficio, de gratuidad, de reserva, de confidencialidad, de mejor interés de la persona receptora de violencia familiar, de inmediación, de breve trámite y de oralidad.
+a) Emisión de diagnósticos, programas y protocolos para la prevención, detección, atención, sanción y erradicación de todos los tipos y modalidades de violencia; en el caso de la violencia contra las mujeres, se excluirán las medidas de conciliación o equivalentes como medio de solución de controversias;
 
-###### Artículo 50.
+b) Creación de instancias con personal capacitado para la operación y seguimiento de protocolos para la prevención, detección, atención, sanción y erradicación de todos los tipos y modalidades de violencia, en específico la que se ejerce contra las mujeres;
 
-Los órganos encargados del conocimiento de los asuntos de violencia familiar, dictarán las medidas que estimen convenientes con prevalencia del interés superior de la víctima. Así mismo, están obligados a investigar la verdad de los conflictos que se les plantean, mediante la práctica de las diligencias probatorias que consideren necesarias.
+c) Adopción de medidas para considerar la violencia que se ejerce contra las mujeres como causa especialmente grave de responsabilidad;
 
-Además de los medios de prueba establecidos por el Código Procesal Civil del Estado, podrán utilizarse cualquiera otro medio probatorio no prohibido por la ley. Las pruebas serán apreciadas conforme a las reglas de la sana crítica.
+d) Aplicación de programas que permitan la detección temprana de los problemas de los tipos y modalidades de la violencia contra las mujeres en las instituciones de educación superior, para proporcionar una primera respuesta urgente a las mujeres que la sufren;
 
-###### Artículo 51.
+e) Realización de acciones formativas y de capacitación a toda la comunidad de las instituciones de educación superior en materia de derechos humanos, así como de la importancia de la transversalización de la perspectiva de género;
 
-En cualquier fase del conflicto, las autoridades del conocimiento podrán ordenar las diligencias que consideren convenientes para mejor proveer.
+f) Promoción de la cultura de la denuncia de la violencia de género en la comunidad de las instituciones de educación superior, y
 
-###### Artículo 52.
+g) Creación de una instancia para la igualdad y equidad de género cuya función sea la incorporación de la perspectiva de género en todas las acciones que lleve a cabo la institución.
 
-Si para la práctica de una prueba fuere necesaria la colaboración material o personal de quien generó la violencia y éste se negare; su negativa podrá ser apreciada en forma desfavorable al dictarse la determinación o resolución correspondiente, salvo las garantías que la Constitución otorga.
+II. En el ámbito académico:
 
-###### Artículo 53.
+a) Incorporación de contenidos educativos con perspectiva de género que fomenten la igualdad sustantiva y contribuyan a la eliminación de todos los tipos y modalidades de violencia, en específico la que se ejerce contra las mujeres, así como los estereotipos de género y que están basados en la idea de la superioridad o inferioridad de uno de los sexos, y
 
-Las diligencias sobre notificaciones y citatorios podrán practicarse según las circunstancias, por correo, por telégrafo, por conducto del personal autorizado de las Unidades de Atención o por la policía preventiva estatal o municipal, y deberá dejarse constancia razonada del medio empleado.
+b) Desarrollo de investigación multidisciplinaria encaminada a crear modelos para la prevención, detección atención y erradicación de la violencia contra las mujeres en las instituciones de educación superior.
 
-### CAPITULO IV. DEL IMPULSO INICIAL DE LOS PROCESOS Y PROCEDIMIENTOS
+III. En el entorno de la prestación del servicio:
 
-###### Artículo 54.
+a) Fomento de senderos seguros dentro de las instalaciones de las instituciones de educación superior y colaboración con las autoridades competentes en esta labor al exterior de las instalaciones de las instituciones;
 
-Toda persona que sufra violencia familiar, cuando ésta no revista carácter judicial, podrá requerir los servicios de las Unidades de Atención.
+b) Promoción del mejoramiento del entorno urbano de las instituciones de educación superior, así como de su infraestructura para la generación de condiciones de seguridad de las mujeres;
 
-Si la violencia familiar amerita la intervención de un órgano jurisdiccional, la petición se formulará en los términos previstos por el Código Procesal Civil para la tramitación de los procesos en caso de violencia familiar.
+c) Dignificación de las instalaciones sanitarias con la implementación de medidas que respeten los derechos y la dignidad de las mujeres y se constituyan como espacios libres de violencia;
 
-###### Artículo 55.
+d) Fomento de campañas de seguridad y autocuidado en el transporte público entre sus comunidades educativas, especialmente alumnas, académicas y trabajadoras de las instituciones y colaboración con las autoridades competentes y los prestadores del servicio de transporte público para ofrecer mayor seguridad, y
 
-Están obligados a informar, en un término no mayor de 24 horas, desde que tienen conocimiento de la existencia de una situación de violencia familiar, las siguientes personas o instituciones:
+e) Promoción de transporte escolar exclusivo para mujeres.
 
-I. Las personas profesionales o funcionarios públicos, y las entidades públicas o privadas, que en el desempeño de sus actividades o funciones, tuvieren conocimiento o sospecha de la existencia de una situación de violencia familiar.
+Las medidas establecidas en la fracción III de este artículo serán complementarias y coadyuvantes a las que realicen las autoridades respectivas en el ámbito de su competencia.
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2018)</small>
+La instancia para la igualdad de género dentro de la estructura de las instituciones de educación superior será la encargada de realizar el seguimiento de las acciones a las que se refiere este artículo.
 
-II. Los profesionales de la salud, educación y los directores de las instituciones hospitalarias y educativas; así como las personas dedicadas a labores de dirección, en instituciones o centros de atención y cuidado de niñas, niños y adolescentes, mujeres, personas con discapacidad y de personas adultas mayores.
+### CAPÍTULO II. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+###### ARTÍCULO 49.
 
-III. Agentes del Ministerio Público, Elementos de la Policía del Estado o Municipales y trabajadores sociales que por razón de su actividad se involucren en esta problemática.
+Las instituciones de educación superior utilizarán el avance de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, con la finalidad de fortalecer los modelos pedagógicos y la innovación educativa; así como para favorecer y facilitar el acceso de la comunidad educativa al uso de medios tecnológicos y plataformas digitales. Asimismo, promoverán la integración en sus planes y programas de estudio, los contenidos necesarios para que las y los estudiantes adquieran los conocimientos, técnicas y destrezas sobre tecnología y plataformas digitales con información de acceso abierto.
 
-IV. En general, cualquier persona que tuviera conocimiento o sospecha de un caso de violencia familiar.
+###### ARTÍCULO 50.
 
-###### Artículo 56.
+Para fomentar el aprendizaje, el conocimiento, las competencias formativas y las habilidades digitales, las instituciones de educación superior, en el ámbito de sus respectivas competencias, desarrollarán estrategias transversales y promoverán las siguientes acciones:
 
-La información suministrada será mantenida en estricta confidencialidad, así como el nombre de la persona informante, mientras no sea legalmente necesario revelar su identidad.
+I. Priorizar la conversión a las tecnologías de la información, comunicación, conocimiento y aprendizaje digital;
 
-La omisión de información injustificada o el hecho de impedir que otra persona actuando en forma razonable lo haga; se considerará como complicidad en la comisión de la violencia familiar de que se trate.
+II. Implementar las opciones educativas con la utilización de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital;
 
-###### Artículo 57.
+III. Contar con tecnología accesible para la realización de las funciones de docencia, y
 
-Cualquier persona, funcionario o institución obligados a suministrar información sobre violencia familiar, tendrán causa de justificación legal contra cualquier acción civil o penal que pudiera ser promovida a consecuencia de dicho acto.
+IV. Aplicar la Agenda Digital Educativa emitida en términos de la Ley General.
 
-###### Artículo 58.
+###### ARTÍCULO 51.
 
-Las informaciones falsas proporcionadas por particulares, darán lugar a la imposición de una multa equivalente a la mínima prevista en esta ley.
+La Secretaría, conforme a la disponibilidad presupuestaria, promoverá un programa de equipamiento en las instituciones públicas de educación superior para que su comunidad adquiera los conocimientos, técnicas y destrezas sobre tecnología y plataformas digitales en acceso abierto. De igual forma, fomentará la instalación de repositorios institucionales, así como laboratorios de investigación y experimentación sobre el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+###### ARTÍCULO 52.
 
-###### Artículo 59.
+Corresponden de manera exclusiva a la Secretaría las atribuciones siguientes:
 
-Las dependencias de la Fiscalía General del Estado y de la Procuraduría de la Familia, particularmente encargadas de los asuntos de violencia familiar, contarán con un sistema especial de comunicación telefónica denominado "Línea Directa para Situaciones de Violencia Familiar", a través del cual todas las personas e instituciones podrán informar sobre los casos de que tengan conocimiento, a cualquier hora del día o de la noche y cualquier día de la semana.
+I. Coordinar el Sistema Estatal de Educación Superior, de acuerdo con la normativa del Estado en materia educativa y las disposiciones de la Ley, con respeto a la autonomía universitaria y a la diversidad de las instituciones de educación superior;
 
-### CAPITULO V. MEDIDAS DE EMERGENCIA Y PROVIDENCIAS CAUTELARES
+II. Vincular la planeación de la educación superior con los objetivos, lineamientos y prioridades del Plan Nacional de Desarrollo, del Plan Estatal de Desarrollo, del Programa Sectorial de Educación, del Programa Nacional de Educación Superior y del Programa Estatal de Educación Superior;
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+III. Establecer mecanismos de colaboración entre los subsistemas e instituciones de educación superior del Estado;
 
-###### Artículo 60.
+IV. Establecer la COEPES;
 
-Toda autoridad administrativa, director o administrador de un hospital u otra institución de salud pública o privada, director de escuela o maestro, podrá asumir la protección de niñas, niños y adolescentes, mujeres, personas con discapacidad o de personas adultas mayores, cuando tenga motivo razonable para creer que ha sido víctima de violencia familiar. Esta protección no podrá exceder de 36 horas, excepción hecha de que por cualquier medio se produzca la intervención de un Juez de lo Familiar, en cuyos casos se estará a lo que éste disponga.
+V. Trabajar de manera conjunta con la autoridad educativa federal, a través del Consejo Nacional para la Coordinación de la Educación
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+Superior, para la planeación, evaluación y mejora continua de la educación superior;
 
-###### Artículo 61.
+VI. Proponer a la autoridad educativa federal contenidos regionales para que, en su caso, sean incluidos en los planes y programas de estudio de las escuelas normales;
 
-Los Juzgados de lo Familiar o la Procuraduría de la Familia a través de su titular, o por conducto de sus Delegados o titulares de las Unidades de Atención, en caso de urgencia, informados de una situación de violencia familiar o requeridos al efecto, adoptarán las medidas que estimen convenientes, según la gravedad del caso, incluyendo la hospitalización y el tratamiento médico de la persona receptora de la violencia.
+VII. Elaborar el anteproyecto de presupuesto de egresos del estado de Puebla correspondiente a la educación superior para el cumplimiento de las disposiciones de esta Ley y la normatividad correspondiente;
 
-Así mismo, estarán obligados a prevenir la repetición de los hechos, para lo cual dispondrán, a través de los organismos competentes, una adecuada atención psicoterapéutica y rehabilitación de las personas receptoras de la violencia, independientemente de que se imponga alguna medida de protección que se estime efectiva.
+VIII. Ministrar, en su caso, los recursos provenientes de la Federación para la educación superior;
 
-###### Artículo 62.
+IX. Promover en las instituciones de educación superior del Estado la celebración y aplicación de convenios para el desarrollo armónico de la educación superior, el fortalecimiento de la investigación científica y tecnológica, y para el desarrollo del Sistema Estatal de educación superior;
 
-Cualquier persona de las obligadas a suministrar información en los casos de violencia familiar, puede tomar o hacer que se tomen fotografías de las áreas de trauma de la víctima y de ser médicamente indicado le practicará, o hará que se le practique exámenes radiológicos y dentales, pruebas de laboratorio o cualquier otro examen médico que sea necesario.
+X. Ejecutar acciones para fomentar la cultura de la evaluación y acreditación entre las instituciones de educación superior del Estado;
 
-Estas evidencias se recogerán de manera que no afecten al receptor de la violencia, ni atenten contra su dignidad y se remitirán a la autoridad que tome a su cargo el conocimiento del caso de violencia familiar.
+XI. Establecer los lineamientos para la expedición de títulos profesionales por parte de la Secretaría correspondientes, y
 
-Estas evidencias también estarán disponibles para iniciar, en su caso, procesos civiles o penales por violencia familiar.
+XII. Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
 
-###### Artículo 63.
+###### ARTÍCULO 53.
 
-Quienes tienen a su cargo la investigación o el conocimiento de casos de violencia familiar, podrán entrevistar directamente, sin mayores requisitos, en el lugar en que se encuentre, a la persona de la que tengan conocimiento o sospechen que ha sido víctima de violencia familiar.
+Adicionalmente a las atribuciones exclusivas a las que se refiere el artículo 52 de esta Ley, corresponden a la Secretaría y a la autoridad educativa federal en términos de la Ley General, de manera concurrente, las siguientes atribuciones:
 
-La entrevista podrá practicarse en la escuela, pública o privada, en los hospitales o centros de salud, o en cualquier otro lugar donde la víctima de la violencia se halle, siempre y cuando esté garantizada su seguridad.
+I. Garantizar el servicio público de educación superior, atendiendo a las necesidades y características de ese tipo de educación, conforme a los principios, fines y criterios establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la Ley General, esta Ley y las demás disposiciones aplicables;
 
-###### Artículo 64.
+II. Establecer mecanismos de coordinación entre los subsistemas de educación superior, así como con el Sistema Estatal de Ciencia, Tecnología e Innovación;
 
-Quien tiene a su cargo la sustanciación de un proceso o procedimiento de violencia familiar, cuando considere necesaria la protección de los derechos de la persona receptora de la violencia, antes o durante la tramitación de aquellos, podrá decretar de oficio o a petición de parte, las medidas cautelares o tutelares que estime convenientes, las cuales se ordenarán sin más trámite y sin necesidad de prestar caución, cuando tenga justo motivo.
+III. Propiciar la interrelación entre el Sistema Educativo Estatal de Educación Superior y el Sistema Estatal de Ciencia, Tecnología e Innovación;
 
-###### Artículo 65.
+IV. Diseñar e instrumentar programas para el desarrollo de la educación superior en los ámbitos nacional y estatal, articulados con los instrumentos de planeación del desarrollo, procurando la más amplia participación social;
 
-Las medidas cautelares o tutelares a que se refiere el artículo anterior, podrán ser las siguientes:
+V. Promover, fomentar y coordinar acciones programáticas que vinculen la planeación institucional e interinstitucional de la educación superior con los objetivos y prioridades que demande el desarrollo comunitario, municipal, estatal y nacional;
 
-I. Ordenar la exclusión de la persona generadora de la violencia, de la vivienda donde habita el grupo familiar.
+VI. Impulsar y apoyar la celebración de convenios y acuerdos para el fomento y desarrollo armónico de la educación superior y evaluar su impacto en los sectores sociales y productivos;
 
-II. Prohibir el acceso de la persona generadora de la violencia, al domicilio de la persona afectada, así como a los lugares donde trabaja o estudia.
+VII. Promover la investigación y el desarrollo de la ciencia, la tecnología y la innovación, fomentar su enseñanza, su expansión y divulgación en acceso abierto, en los términos de la Ley General, la Ley y de las demás disposiciones aplicables;
 
-III. Depositar a la persona receptora de la violencia en un domicilio que garantice su seguridad.
+VIII. Promover la mejora continua y la excelencia académica de las funciones, programas y servicios de educación superior con la participación de los componentes que integran el Sistema Nacional de Educación Superior;
 
-IV. Ordenar el reintegro al domicilio a petición de quien debió salir del mismo por razones de seguridad personal y disponer la exclusión de la persona generadora de la violencia.
+IX. Diseñar e implementar, de manera coordinada, programas de expansión y diversificación de la oferta educativa de tipo superior, garantizando su validez oficial, los recursos materiales y la infraestructura necesarios para la prestación de nuevos servicios educativos con criterios de excelencia educativa, equidad, inclusión, interculturalidad y pertinencia;
 
-En todos estos casos deberá establecerse la duración de la medida, en vista a la determinación definitiva que habrá de adoptarse.
+X. Realizar la planeación de la educación superior, con la participación de las comunidades académicas de las instituciones de este tipo de educación;
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+XI. Impulsar opciones educativas innovadoras que contribuyan a la educación de excelencia, el incremento de la cobertura y diversificación de la oferta educativa;
 
-###### Artículo 66.
+XII. Promover, en coordinación con las instituciones de educación superior y los sectores público, social y productivo, bolsas de trabajo y otras opciones para facilitar el empleo de las personas egresadas de educación superior;
 
-La Procuraduría de la Familia proveerá de servicios de protección, directamente o mediante contratos o acuerdos con organismos e instituciones que los presten, a las niñas, niños y adolescentes, mujeres, personas con discapacidad o de las personas adultas mayores, que estén en riesgo sustancial de ser víctimas de la violencia familiar y no tengan domicilio o persona que se haga cargo de su cuidado.
+XIII. Fomentar políticas de financiamiento para el desarrollo de la educación superior y la realización de proyectos entre las instituciones de educación superior, así como verificar su cumplimiento y promover, en términos de las disposiciones jurídicas aplicables, la asignación de recursos a las instituciones públicas de educación superior;
 
-### CAPITULO VI. DE LOS PROCEDIMIENTOS DE MEDIACION, CONCILIACION Y AMIGABLE COMPOSICION
+XIV. Establecer, en forma coordinada, los criterios académicos que deberán considerarse para la designación del personal directivo de las instituciones públicas de educación superior que reciban subsidio federal y no cuenten con autonomía;
 
-###### Artículo 67.
+XV. Promover e instrumentar acciones tendientes a alcanzar la paridad de género en los órganos colegiados de gobierno, consultivos y académicos, así como el acceso de mujeres a los cargos directivos unipersonales de las instituciones de educación superior;
 
-(DEROGADO, P.O. 18 DE MARZO DE 2014)
+XVI. Fomentar la igualdad y equidad de género y las condiciones de equidad entre el personal académico a cargo de las tareas de docencia, investigación, extensión y difusión de la cultura;
 
-###### Artículo 68.
+XVII. Establecer, en forma coordinada, las acciones y procesos para fortalecer la gestión, organización y administración de las escuelas normales y de las demás instituciones públicas de educación superior que no cuenten con autonomía;
 
-(DEROGADO, P.O. 18 DE MARZO DE 2014)
+XVIII. Establecer los lineamientos de la educación superior impartida por particulares conforme a las disposiciones de la Ley General, esta Ley, las que emita la autoridad pública federal y la Secretaría, así como ejercer las facultades de vigilancia respecto a esos servicios de educación superior;
 
-###### Artículo 69.
+XIX. Coordinar las acciones necesarias para integrar, ordenar y actualizar el sistema de información del Sistema Nacional de Educación Superior;
 
-(DEROGADO, P.O. 18 DE MARZO DE 2014)
+XX. Elaborar de manera coordinada un informe anual sobre el estado que guarda la educación superior en el estado de Puebla, el cual deberá incluir un enfoque de mejora continua, la definición de áreas estratégicas y programas prioritarios, así como la información contable, presupuestaria y programática del sector. El informe será remitido al Honorable Congreso de la Unión, al Honorable Congreso del Estado Libre y Soberano de Puebla y al Consejo Nacional para la Coordinación de la Educación Superior;
 
-###### Artículo 70.
+XXI. Promover la internacionalización del Sistema Nacional de Educación Superior y del Sistema Estatal de Educación Superior, a través de convenios de movilidad y de otras formas de cooperación académica;
 
-(DEROGADO, P.O. 18 DE MARZO DE 2014)
+XXII. Dar seguimiento a las medidas para generar las condiciones educativas, del entorno urbano y de prestación de servicios públicos necesarios que coadyuven al cumplimiento, por parte de las instituciones de educación superior, de los criterios, fines y políticas previstos en la Ley General, así como en la Ley;
 
-###### Artículo 71.
+XXIII. Orientar sus prácticas administrativas, a través de procesos de simplificación, para facilitar la operación de las instituciones de educación superior en el cumplimiento de sus fines educativos;
 
-(DEROGADO, P.O. 18 DE MARZO DE 2014)
+XXIV. Coordinar las acciones para la implementación del sistema de evaluación y acreditación en programas, procesos e instituciones de educación superior;
 
-###### Artículo 72.
+XXV. Dar aviso a las autoridades competentes a efecto de ordenar la suspensión de actos o prácticas que constituyan una probable conducta prohibida por la ley o una posible violación a los derechos humanos reconocidos por esta norma e imponer las sanciones que procedan, y
 
-(DEROGADO, P.O. 18 DE MARZO DE 2014)
+XXVI. Las demás previstas en la Ley General, en la Ley y en los ordenamientos aplicables.
 
-###### Artículo 73.
+### CAPÍTULO I. DE LA COORDINACIÓN Y PLANEACIÓN DE LA EDUCACIÓN SUPERIOR
 
-(DEROGADO, P.O. 18 DE MARZO DE 2014)
+###### ARTÍCULO 54.
 
-###### Artículo 74.
+Los municipios que impartan el servicio de educación superior se coordinarán con la autoridad educativa federal, o con la Secretaría, a efecto de cumplir adecuadamente con los criterios, fines y políticas de este tipo de educación.
 
-(DEROGADO, P.O. 18 DE MARZO DE 2014)
+Los municipios del estado de Puebla coadyuvarán en la promoción, apoyo, desarrollo y prestación del servicio de educación superior en el ámbito de su competencia.
 
-###### Artículo 75.
+## TÍTULO QUINTO. DE LA COORDINACIÓN, PLANEACIÓN Y EVALUACIÓN DE LA EDUCACIÓN SUPERIOR
 
-(DEROGADO, P.O. 18 DE MARZO DE 2014)
+###### ARTÍCULO 55.
 
-### CAPITULO VII. DE LOS PROCESOS JUDICIALES POR HECHOS QUE IMPORTEN VIOLENCIA FAMILIAR
+El desarrollo de la educación superior en el estado de Puebla se realizará mediante la coordinación y programación estratégica, participativa, interinstitucional y colaborativa entre la Secretaría y la autoridad educativa municipal, con la participación activa de las autoridades y comunidades académicas de las instituciones de educación superior, en los términos y conforme a las instancias y disposiciones que se establecen en esta Ley.
 
-###### Artículo 76.
+###### ARTÍCULO 56.
 
-Quien sufra violencia familiar en cualquiera de las modalidades previstas por el artículo 10, fracción III de esta ley, podrá denunciar el hecho en forma verbal o escrita, ante el Juez en materia Familiar que sea competente en razón del territorio.
+La COEPES es un órgano colegiado de alta participación, de consulta, imparcial, eficiente y eficaz, para la formulación de opiniones y propuestas que orienten la función de la Secretaría y de la autoridad educativa municipal en materia de planeación de la educación superior.
 
-En los lugares donde no resida Juez en materia Familiar, los Jueces de Primera Instancia en materia Civil, asumirán plenamente la competencia de aquellos para la recepción de la denuncia, el conocimiento de los hechos y la resolución del conflicto.
+La COEPES estará integrada por los siguientes miembros, los cuales tendrán derecho a voz y voto:
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+I. La persona titular de la Secretaría, quien la presidirá;
 
-###### Artículo 77.
+II. La persona titular de la Subsecretaría de Educación Superior de la Secretaría, quien fungirá como vicepresidente;
 
-Cuando la persona afectada fuere niña, niño o adolescente, persona con discapacidad o adulta mayor, los hechos deberán ser denunciados por sus representantes legales, por el Ministerio Público, por el Procurador de la Familia, por sus Delegados o por quienes presidan las Unidades de Atención.
+III. La persona titular del área de planeación de la Secretaría quien fungirá como Secretario Técnico, y
 
-###### Artículo 78.
+IV. Vocales, que serán:
 
-Los procesos en los casos de violencia familiar se tramitarán en la forma y términos previstos por el Código Procesal Civil del Estado.
+a) Una persona representante de la autoridad educativa federal;
 
-### CAPITULO VIII. MEDIOS DE IMPUGNACION
+b) Al menos a una persona representante de las instituciones de educación superior públicas de cada uno de los tres subsistemas de la Entidad;
+
+c) Al menos una persona representante de las instituciones de educación superior particulares del estado de Puebla;
+
+d) Al menos una persona representante de la instancia estatal de vinculación, consulta y participación social;
+
+e) Al menos una persona representante del Sistema Estatal de Ciencia y Tecnología, y
+
+f) Al menos una persona representante de las Secretarías del Gobierno del Estado que tengan relación directa con las funciones de la COEPES.
+
+A sus sesiones se podrá invitar a personas representantes de los sectores social y productivo; además atenderán el principio de máxima publicidad.
+
+En la designación de las personas referidas se buscará la representación paritaria entre los géneros y se contemplará la representación de las instituciones públicas y particulares de educación superior.
+
+Las personas que integren la COEPES deberán preferentemente gozar de reconocimiento en el ámbito académico de la educación superior.
+
+La forma de integración de la COEPES será determinada por la Secretaría, en consulta con las instituciones de educación superior.
+
+###### ARTÍCULO 57.
+
+La COEPES, tendrá las siguientes funciones:
+
+I. Planear y propiciar el desarrollo de la educación superior en el Estado de manera concertada y participativa entre la Secretaría y las instituciones de educación superior;
+
+II. Colaborar con la Secretaría en la elaboración del programa estatal de educación superior;
+
+III. Diseñar y promover la implementación de programas, proyectos, estrategias, políticas y acciones que apoyen el desarrollo y la mejora continua de la educación superior en la entidad;
+
+IV. Fomentar la colaboración entre las instituciones de educación superior de la entidad que permita un desarrollo coordinado de este tipo de educación, la movilidad de las y los estudiantes y del personal académico, así como su vinculación con los sectores público, social y productivo;
+
+V. Proponer y diseñar estrategias para hacer efectiva la obligatoriedad de la educación superior en la entidad, así como la reorientación de la oferta educativa, conforme a las necesidades del desarrollo estatal y regional, bajo criterios de inclusión y equidad;
+
+VI. Proponer criterios generales para la creación de nuevas instituciones públicas y programas educativos apegándose a las políticas de educación superior;
+
+VII. Realizar y solicitar estudios de factibilidad y de pertinencia de la apertura de nuevas instituciones públicas, planes y programas de estudios, así como nuevas modalidades y opciones educativas;
+
+VIII. Realizar los estudios necesarios que permitan identificar las necesidades de docencia, investigación, extensión y difusión de la cultura en la entidad;
+
+IX. Proponer estrategias para el fortalecimiento del financiamiento de las instituciones públicas de educación superior de la entidad, así como para la transparencia y la rendición de cuentas;
+
+X. Participar, con el Consejo Nacional para la Coordinación de la Educación Superior, en el diseño de las directrices, estrategias y programas para el desarrollo de la educación superior en los términos de las disposiciones aplicables;
+
+XI. Impulsar los procesos de evaluación de las instituciones de educación superior de la entidad y formular recomendaciones para la mejora continua;
+
+XII. Proponer estrategias para el fortalecimiento de la planta académica y administrativa de las instituciones de educación superior de la entidad;
+
+XIII. Aprobar su reglamento interno de funcionamiento; y
+
+XIV. Las demás previstas en la Ley y en otras disposiciones aplicables.
+
+###### ARTÍCULO 58.
+
+La COEPES, convocará a instancias de vinculación, consulta y participación social a nivel estatal por especialidad, por subsistema o en la modalidad que corresponda. Cada instancia tendrá sus reglas de funcionamiento.
+
+###### ARTÍCULO 59.
+
+Para orientar el desarrollo de la educación superior, la Secretaría elaborará un Programa Educativo Estatal de educación superior, que incluya objetivos, políticas, estrategias, líneas de acción y metas globales para cada uno de los subsistemas educativos, además de reconocer el diferente nivel de desarrollo de las instituciones que integran cada subsistema.
+
+En su elaboración se observará lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, esta Ley, la Ley de Educación del Estado de Puebla y demás disposiciones aplicables; además recibirá las propuestas que se formulen en el seno de la COEPES y las instancias de vinculación, consulta y participación social.
+
+Dicho Programa deberá revisarse con un año de anticipación a la actualización que se realice del Programa Nacional de Educación Superior, con el objetivo de que sus resultados e indicadores sirvan de base para la visión prospectiva y de largo plazo del mismo.
+
+### CAPÍTULO II. DE LA MEJORA CONTINUA, LA EVALUACIÓN Y LA INFORMACIÓN DE LA EDUCACIÓN SUPERIOR
+
+###### ARTÍCULO 60.
+
+Las instituciones de educación superior deberán desarrollar procesos sistemáticos e integrales de planeación y evaluación de carácter interno y externo de los procesos y resultados de sus funciones sustantivas y de gestión, incluidas las condiciones de operación de sus programas académicos, para la mejora continua de la educación y el máximo logro de aprendizaje de las y los estudiantes. Para tal efecto, podrán apoyarse en las mejores prácticas instrumentadas por otras instituciones de educación superior, así como de las organizaciones e instancias nacionales e internacionales, dedicadas a la evaluación y acreditación de programas académicos y de gestión institucional.
+
+Los resultados de procesos de evaluación y acreditación a que se refiere el párrafo anterior deberán estar disponibles a consulta. Serán con fines diagnósticos para contribuir al proceso de mejora continua de la educación y no tendrán carácter punitivo.
+
+## TÍTULO SEXTO. DEL FINANCIAMIENTO DE LA EDUCACIÓN SUPERIOR
+
+###### ARTÍCULO 61.
+
+El gobierno del estado de Puebla en concurrencia con la Federación dará cumplimiento progresivo, de conformidad con la disponibilidad presupuestaria, del mandato de obligatoriedad de la educación superior y al principio de gratuidad en la educación en términos de lo establecido en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos.
+
+Para el financiamiento de las instituciones de educación superior públicas se considerarán las necesidades regionales y locales de la prestación del servicio de educación superior y se sujetará a las disposiciones de ingreso, gasto público, transparencia, rendición de cuentas y fiscalización que resulten aplicables.
+
+El monto anual que el gobierno del estado de Puebla destine a la educación pública del tipo superior será en términos de lo establecido en el artículo 119 de la Ley General de Educación y dicho monto no podrá ser inferior a lo aprobado en el ejercicio inmediato anterior, en términos de las disposiciones aplicables.
+
+###### ARTÍCULO 62.
+
+En la integración del Presupuesto de Egresos, de conformidad con la disponibilidad presupuestaria, en su caso, se contemplarán los recursos financieros, humanos, materiales y la infraestructura necesarios para el crecimiento gradual, desarrollo y cumplimiento de las funciones de las instituciones públicas de educación superior, bajo los mandatos constitucionales de obligatoriedad y gratuidad, además de los criterios de equidad, inclusión y excelencia.
+
+Los municipios que impartan educación superior observarán lo establecido en este artículo.
+
+###### ARTÍCULO 63.
+
+La asignación de recursos financieros a las universidades e instituciones de educación superior públicas se realizará con una visión de largo plazo; para tal efecto, deben considerarse:
+
+I. El Plan Nacional de Desarrollo, el Programa Sectorial de Educación, el Programa Nacional de Educación Superior, el Plan Estatal de Desarrollo y el Programa Estatal de Educación Superior;
+
+II. Los planes de desarrollo de las instituciones de educación superior y la disponibilidad presupuestaria para cubrir las necesidades financieras del ejercicio fiscal correspondiente, así como el conjunto de operación previstos;
+
+III. Los planes y programas de la Secretaría relacionados con la educación superior;
+
+IV. La cobertura educativa del Estado y las necesidades financieras derivadas de la ampliación de la población escolar atendida, de la oferta educativa y la desconcentración geográfica;
+
+V. Las necesidades para garantizar el fortalecimiento académico y el cumplimiento de las funciones de docencia, investigación, extensión, difusión del conocimiento, la cultura y gestión institucional, y
+
+VI. El ejercicio responsable y transparente de los recursos públicos, de conformidad con la legislación aplicable.
+
+La Secretaría, en coordinación con su homóloga federal y de las demás entidades federativas establecerán procedimientos para asegurar una participación equitativa en el financiamiento de la educación superior, a efecto de alcanzar de manera gradual las aportaciones paritarias estatales respecto a los recursos federales que se destinen a las instituciones de educación superior de las entidades federativas.
+
+###### ARTÍCULO 64.
+
+La transición gradual hacia la gratuidad, en ningún caso afectará el cumplimiento de los fines previstos en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, ni las finanzas de las instituciones públicas de educación superior. Para tal efecto, el Honorable Congreso del Estado Libre y Soberano de Puebla destinará los recursos en la Ley de Egresos de cada ejercicio fiscal.
+
+Las universidades e instituciones de educación superior a las que la ley otorgue autonomía en el Estado, a partir de la disponibilidad presupuestaria derivada del financiamiento previsto en la Ley General y en esta Ley, con el apoyo de las autoridades educativas federal y del Estado, propondrán mecanismos para la transición gradual hacia la gratuidad de los servicios educativos, sin que en ningún caso se afecte el cumplimiento de sus fines ni las finanzas institucionales.
+
+###### ARTÍCULO 65.
+
+En el ejercicio de los recursos para el financiamiento de la educación superior en el estado de Puebla, se debe observar, lo previsto en el artículo 67 de la Ley General.
+
+## TÍTULO SÉPTIMO. DE LOS PARTICULARES QUE IMPARTAN EDUCACIÓN SUPERIOR
+
+###### ARTÍCULO 66.
+
+El Estado reconoce la contribución que realizan las instituciones particulares de educación superior del estado de Puebla que cuentan con autorización o reconocimiento de validez oficial de estudios para el logro de los principios, fines y criterios de la educación establecidos en la Constitución Política de los Estados Unidos Mexicanos, por tanto, gozarán de todas las garantías para impartir este tipo de educación, asimismo estarán obligadas a cumplir las disposiciones constitucionales y legales aplicables.
+
+A las instituciones particulares de educación superior se les reconoce la libertad para definir su modelo educativo, así como su organización interna y administrativa; fijar las disposiciones de admisión, permanencia y egreso de sus estudiantes, con pleno respeto a los derechos humanos y en apego a las disposiciones legales; participar en programas que promuevan la ciencia, la tecnología y la innovación; promover la investigación, la vinculación y la extensión dentro de los lineamientos de su modelo educativo y desarrollo institucional; realizar convenios con universidades, centros de investigación y otras organizaciones nacionales o extranjeras para la prestación de sus servicios educativos, y las demás necesarias para prestar el servicio público de educación superior en cumplimiento con las disposiciones de la Ley General y la Ley.
+
+### CAPÍTULO I. DE LOS ASPECTOS GENERALES PARA IMPARTIR EL SERVICIO EDUCATIVO
+
+###### ARTÍCULO 67.
+
+Los particulares podrán impartir educación del tipo superior considerada como servicio público en términos de la Ley, en todos sus niveles, modalidades y opciones, con la autorización o reconocimiento de validez oficial de estudios, en los términos dispuestos por el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General, las Leyes General y Local de Educación y esta Ley en lo que corresponda y demás disposiciones jurídicas aplicables.
+
+Por lo que concierne a la educación normal y demás para la formación docente de educación básica, deberán obtener previamente, en cada caso, la autorización expresa del Estado, la cual surtirá efectos a partir de su otorgamiento por parte de la Secretaría y se otorgará conforme a las disposiciones de la Ley General, la Ley de Educación del Estado de Puebla y los lineamientos que expida la Secretaría de Educación Pública de la Federación para tal efecto.
+
+Tratándose de estudios distintos a los del párrafo anterior, se estará a lo dispuesto en el Capítulo II del presente Título y, en lo que corresponda, a la Ley General, y las leyes General y Local de Educación.
+
+Los particulares que impartan estudios de tipo superior que obtengan autorización o reconocimiento de validez oficial de estudios en términos de Ley, deberán registrarse en un término no mayor a ciento ochenta días naturales posteriores a la obtención de la autorización o reconocimiento ante la autoridad en materia de profesiones, de conformidad con la normatividad aplicable.
+
+Las autorizaciones o los reconocimientos de validez oficial de estudios se refrendarán por la Secretaría con la periodicidad que determina la Ley General.
+
+###### ARTÍCULO 68.
+
+Para contribuir a la equidad en educación, las instituciones particulares de educación superior del estado de Puebla otorgarán becas que cubran la impartición del servicio educativo, cuya suma del número que otorguen no podrá ser inferior al cinco por ciento del total de su matrícula inscrita para todos los planes y programas de estudios con autorización o reconocimiento de validez oficial de estudios distribuidas de manera proporcional, de acuerdo con el número de estudiantes de cada uno de ellos en términos de lo establecido en la Ley General.
+
+###### ARTÍCULO 69.
+
+En el reconocimiento de validez oficial de estudios se atenderán las siguientes disposiciones:
+
+I. La resolución emitida en términos de Ley por la Secretaría, reconoce la validez oficial de estudios del tipo superior impartidos por un particular.
+
+Corresponde a la Secretaría otorgar, negar o retirar este tipo de reconocimiento en los plazos y de conformidad a lo establecido en Ley General y la Ley General de Educación, así como de las disposiciones que deriven de ellas;
+
+II. Para la obtención del reconocimiento de validez oficial de estudios de los programas de educación superior que sean impartidos en las modalidades no escolarizada o mixta, en las opciones virtual o en línea, además de lo establecido en la Ley General, deberán cumplir con los requerimientos de orden técnico que en su caso establezca la Secretaría;
+
+III. Con la resolución emitida por la Secretaría que reconoce la validez oficial de estudios del tipo superior, el particular podrá impartir educación en el Estado;
+
+IV. El reconocimiento de validez oficial de estudios, por lo que hace a la educación superior, surtirá efectos a partir de su otorgamiento;
+
+V. Corresponde a la Secretaría, vigilar que las denominaciones de las instituciones de educación superior particulares correspondan a su naturaleza, de acuerdo con las disposiciones aplicables; y
+
+VI. Los estudios realizados con anterioridad al otorgamiento del reconocimiento de validez oficial de estudios no tendrán validez oficial.
+
+###### ARTÍCULO 70.
+
+Para la obtención del reconocimiento a la gestión institucional y excelencia educativa se estará a lo dispuesto en la Ley General.
+
+###### ARTÍCULO 71.
+
+Los particulares que impartan estudios de tipo superior que obtengan autorización o reconocimiento de validez oficial de estudios deben entregar a la Secretaría la información siguiente:
+
+I. Sus planes y programas de estudio;
+
+II. Las certificaciones vigentes, académicas y administrativas; y
+
+III. Su planta docente, especificando: Grado académico obtenido, experiencia relevante y la cantidad de horas clase, o en su caso, si es tiempo completo, así como otras actividades realizadas en la institución.
+
+###### ARTÍCULO 72.
+
+Los particulares que impartan estudios de tipo superior que obtengan autorización o reconocimiento de validez oficial de estudio están obligadas (sic) a notificar por escrito a la Secretaria sobre cualquier cambio en dicha información.
+
+La Secretaría creará un Padrón de Instituciones de Educación Superior y un Padrón de Docentes de Educación Superior, con la información recibida de los particulares.
+
+Además, solicitará la misma información a las demás instituciones de educación superior ubicadas en el estado de Puebla, a fin de incluirlas en dichos padrones.
+
+La Secretaría publicará, de forma gratuita y digital, el Padrón de Instituciones de Educación Superior y el Padrón de Docentes de Educación Superior, mismos que serán actualizados según se disponga por las Autoridades Educativas competentes.
+
+La COEPES supervisará, y en su caso, propondrá modificaciones a los padrones mencionados.
+
+###### ARTÍCULO 73.
+
+La Secretaría publicará, en el mes de junio de cada año en el Periódico Oficial del Estado, el padrón de particulares que impartan estudios de tipo superior que obtengan autorización o reconocimiento de validez oficial de estudio con los programas educativos que cuenten.
+
+###### ARTÍCULO 74.
+
+La Secretaría es directamente responsable de llevar a cabo las acciones de vigilancia de los servicios educativos respecto a los cuales se concedió dicha autorización o reconocimiento.
+
+Las facultades de vigilancia respecto de los estudios a los que se haya otorgado autorización o reconocimiento de validez oficial de estudios se ejercerán de conformidad con lo dispuesto en el Capítulo II del Título Décimo Primero de la Ley General de Educación.
+
+La Secretaría auxiliará a la Secretaría de Educación Pública Federal para el ejercicio de las facultades de vigilancia cuando así se le solicite.
+
+###### ARTÍCULO 75.
+
+La Secretaría, a través de la unidad administrativa correspondiente, en el ámbito de las atribuciones establecidas en la Ley General y la Ley General de Educación, podrá aplicar las siguientes medidas precautorias y correctivas:
+
+I. Suspensión temporal o definitiva del servicio educativo del plan o programa de estudios respectivo;
+
+II. Suspensión de información o publicidad del plan o programa de estudios respectivo que no cumpla con lo previsto en esta Ley;
+
+III. Colocación de sellos e información de advertencia en el plantel educativo sobre el plan o programa de estudios respectivo, y
+
+IV. Aquellas necesarias para salvaguardar los derechos educativos de las y los estudiantes.
+
+En caso de aplicarse las medidas establecidas en las fracciones I y II de este artículo, la Secretaría establecerá los procedimientos necesarios para salvaguardar los estudios de las personas inscritas en el plan o programa de estudios respectivo.
+
+### CAPÍTULO II. DEL RECONOCIMIENTO DE VALIDEZ OFICIAL DE ESTUDIOS
+
+###### ARTÍCULO 76.
+
+Son infracciones de quienes prestan servicios educativos de educación superior aquellas establecidas en la Ley General de Educación, la Ley General y las siguientes:
+
+I. Incumplir con lo dispuesto en el artículo 67 penúltimo párrafo de esta Ley;
+
+II. Incumplir con lo dispuesto en el artículo 67 último párrafo de esta Ley; y
+
+III. Incumplir con lo dispuesto en el artículo 71 de esta Ley.
+
+###### ARTÍCULO 77.
+
+Las infracciones establecidas en la Ley General de Educación y la Ley General, serán sancionadas en los términos que en ellas se establece.
+
+Las infracciones establecidas en las fracciones del artículo anterior serán sancionadas de la siguiente forma:
+
+I. Imposición de multa, para lo cual se estará a los siguientes criterios:
+
+a) Multa por el equivalente a un monto mínimo de cien y hasta máximo de siete mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en la fracción I, y
+
+b) Multa por el equivalente a un monto mínimo de mil y un (sic), y hasta máximo de siete mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en las fracciones III.
+
+Las multas impuestas podrán duplicarse en caso de reincidencia.
+
+II. Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente; respecto a lo señalado en las fracciones I y II.
+
+En la aplicación de las sanciones establecidas en la fracción II de este artículo, la Secretaría establecerá los procedimientos necesarios para salvaguardar los estudios de las personas inscritas en el plan o programa respectivo.
+
+###### ARTÍCULO 78.
+
+En contra de las resoluciones emitidas por las autoridades educativas en materia de autorización y reconocimiento de validez oficial de estudios y los trámites y procedimientos relacionados con los mismos, con fundamento en las disposiciones de la Ley de Educación del estado de Puebla y las normas que de ella deriven, el afectado podrá optar entre interponer el recurso de revisión dentro de los quince días hábiles siguientes a la fecha en que surta efectos su notificación o acudir a la autoridad jurisdiccional que corresponda.
+
+Transcurrido el plazo a que se refiere el párrafo anterior sin que el interesado interponga el recurso, la resolución tendrá el carácter de definitiva.
+
+También podrá interponerse el recurso cuando la autoridad no dé respuesta en un plazo de sesenta días hábiles siguientes a la presentación de las solicitudes de autorización o de reconocimiento de validez oficial de estudios.
+
+La tramitación y la resolución del juicio contencioso administrativo, se llevará a cabo conforme a lo dispuesto por la Ley del Procedimiento Contencioso Administrativo del Estado de Puebla.
+
+## TRANSITORIOS
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Educación Superior del Estado de Puebla publicada en el Periódico Oficial del Estado el 29 de agosto de 2012, se deroga cualquier disposición que se oponga al presente Decreto, y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a este Decreto, salvo lo dispuesto por los transitorios Cuarto y Quinto.
+
+TERCERO. El Congreso del Estado de Puebla realizará en un plazo no mayor a quince meses siguientes a la entrada en vigor del presente Decreto, consultas de buena fe y de manera libre e informada, de acuerdo con las disposiciones legales nacionales e internacionales en la materia, en pueblos y comunidades indígenas y afromexicanas, así como una consulta con las mismas características a las personas con discapacidad sobre la totalidad de la presente Ley; hasta en tanto no se realicen las consultas, la aplicación e interpretación de las normas en su favor se hará en lo que más les favorezca.
+
+CUARTO. La Secretaría deberá emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en esta Ley, en un plazo no mayor a ciento ochenta días naturales siguientes contados a partir de su entrada en vigor. Hasta su emisión, seguirán aplicándose para la operación y funcionamiento de los servicios que se presten y se deriven de aquellos en lo que no contravengan a la presente Ley.
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de esta Ley continuarán, hasta su conclusión, regidos con los reglamentos, acuerdos y demás disposiciones de carácter general en los cuales se fundamentaron.
+
+QUINTO. Salvo por las instituciones que gocen de Autonomía, la expedición de títulos profesionales corresponde a la Secretaría hasta en tanto se emita la normativa específica que garantice certeza y seguridad jurídica para la autenticación de títulos que otorguen las Instituciones de Educación Superior, periodo que no deberá ser superior a dieciocho meses posteriores a la entrada en vigor del presente Decreto.
+
+SEXTO. Con objeto de dar cumplimiento a las disposiciones establecidas en el presente Decreto, se estará a lo siguiente:
+
+I. Los mecanismos para dar cumplimiento progresivo a la obligatoriedad del Estado de ofrecer oportunidades de acceso a la Educación Superior a toda persona que cuente con el certificado de bachillerato o equivalente, se implementarán en función de la disponibilidad presupuestaria a partir del ciclo escolar 2023-2024, sin menoscabo de las acciones que se realicen con la entrada en vigor del presente Decreto;
+
+II. La gratuidad de la educación superior se implementará de manera progresiva en función de la suficiencia presupuestal a partir del ciclo escolar 2023-2024, sin menoscabo de las acciones que se realicen con la entrada en vigor del presente Decreto, y
+
+III. Los recursos para dar cumplimiento a lo establecido en los artículos 61 y 62 de esta Ley, se deberán prever en la Ley de Egresos del Estado de Puebla para el Ejercicio Fiscal 2023 y subsecuentes, los cuales deberán incrementarse cuando se presente una variación positiva de la estimación de los ingresos previstos en la iniciativa de Ley de Ingresos del Estado de Puebla.
+
+SÉPTIMO. El Padrón de Instituciones de Educación Superior al que se refiere el artículo 71 de esta Ley, deberá operar en términos de lo establecido por el artículo Noveno Transitorio del Decreto por el que se expide la Ley General de Educación Superior.
+
+OCTAVO. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera gradual con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+
+NOVENO. Las acciones a las que se refiere el artículo 48 del presente Decreto, referentes a la importancia para que las instituciones de educación superior se constituyan como espacios libres de violencia de género y de discriminación hacia las mujeres deberán realizarse y reforzarse de manera progresiva y de acuerdo con la disponibilidad presupuestal de cada institución a partir de los ciento veinte días naturales siguientes a su entrada en vigor.
+
+DÉCIMO. El Gobierno del Estado de Puebla elaborará y publicará el Programa Estatal de Educación Superior a que se refiere la Ley General y esta Ley en un plazo no mayor a ciento ochenta días naturales posteriores a la publicación del presente Decreto.
+
+DÉCIMO PRIMERO. Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, la Secretaría determinará la naturaleza jurídica de las Unidades de la Universidad Pedagógica Nacional en el Estado de Puebla.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los treinta días del mes de junio de dos mil veintiuno. Diputada Presidenta. MARÍA DEL CARMEN CABRERA CAMACHO. Rúbrica. Diputado Vicepresidente. JUAN PABLO KURI CARBALLO. Rúbrica. Diputada Vicepresidenta. ALEJANDRA GUADALUPE ESQUITÍN LASTIRI. Rúbrica. Diputada Secretaria. MARÍA DEL ROCÍO GARCÍA OLMEDO. Rúbrica. Diputado Secretario. RAÚL ESPINOSA MARTÍNEZ. Rúbrica.
+
+Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de agosto de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica. El Secretario de Educación. CIUDADANO MELITÓN LOZANO PÉREZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MARZO DE 2023.
+
+### CAPÍTULO III. DEL PADRÓN DE INSTITUCIONES DE EDUCACIÓN SUPERIOR
 
 ###### Artículo 79.
 
@@ -951,9 +1241,9 @@ El Delegado de la Procuraduría de la Familia calificará la procedencia del rec
 
 En los casos de las resoluciones dictadas por los Jueces de Primera Instancia en materia Familiar, los recursos procedentes serán los que establece el Código Procesal Civil del Estado y de ellos conocerán las autoridades judiciales en los términos de la Ley Orgánica del Poder Judicial del Estado.
 
-## TITULO CUARTO. MEDIDAS ALTERNAS E INFRACCIONES Y SANCIONES EN LOS CASOS DE VIOLENCIA FAMILIAR
+## TÍTULO CUARTO. DE LAS ACCIONES, CONCURRENCIA Y COMPETENCIAS DEL ESTADO DE PUEBLA
 
-### CAPITULO I. MEDIDAS ALTERNAS
+### CAPÍTULO IV. DE LAS OBLIGACIONES DE LOS PARTICULARES
 
 ###### Artículo 85.
 
@@ -975,7 +1265,7 @@ Las personas receptoras de violencia familiar, podrán recibir los tratamientos 
 
 Las autoridades competentes se encargarán de canalizarlas a las instituciones especializadas en esos tratamientos.
 
-### CAPITULO II. INFRACCIONES Y SANCIONES
+### CAPÍTULO V. DEL RECURSO ADMINISTRATIVO
 
 ###### Artículo 88.
 
@@ -1129,13 +1419,11 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 
 P.O. 9 DE AGOSTO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 485.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 359, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN INICIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA, Y DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE PUEBLA”.]
 
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
-
-P.O. 6 DE OCTUBRE DE 2017.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 957.- SE REFORMA LA FRACCIÓN III DEL ARTICULO 10 DE LA LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
