@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-impulso-emprendedor-del-estado-de-coahuila-de-10481
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2017-12-26"
+last_updated: "2020-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL IMPULSO EMPRENDEDOR DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, al martes 30 de diciembre de 2014.
 
@@ -72,6 +72,10 @@ XI. Establecer mecanismos y apoyos encaminados a reducir la mortandad de las emp
 XII. Estimular la integración de emprendedores con inventores e investigadores para la creación de empresas basadas en el conocimiento, nuevas tecnologías e innovación tecnológica, complementando así las habilidades, conocimientos y competencias necesarias para el crecimiento acelerado de los nuevos negocios de manera sostenible; y
 
 XIII. Crear un sistema integral de información que otorgue transparencia en el uso, la prioridad de asignación, y la justificación de los recursos económicos y financieros destinados a las actividades contempladas en esta Ley y el Programa Estratégico, que permita la evaluación del desempeño y los resultados obtenidos por las entidades que reciban recursos económicos y financieros para realizar actividades en el marco de la presente Ley y del Programa Estratégico.
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2020)</small>
+
+XIV. Coordinar esfuerzos con las comisiones de cabildo de los Ayuntamientos relacionadas con Educación, Ciencia y Tecnología; Desarrollo Económico y demás competentes a la presente Ley.
 
 ###### Artículo 3.
 
@@ -229,6 +233,10 @@ k) Instituto Tecnológico de Estudios Superiores de Monterrey.
 
 l) Universidad Iberoamericana.
 
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2020)</small>
+
+VI. Con voz pero sin voto, el Coordinador de la Comisión de Desarrollo Económico, Competitividad y Turismo del Congreso del Estado de Coahuila.
+
 En el caso de la modificación o supresión de algunas de las dependencias, entidades u organizaciones empresariales y sociales se sustituirán por sus equivalentes.
 
 Todos los miembros del Consejo deberán nombrar un suplente al momento de su nombramiento.
@@ -269,9 +277,11 @@ XIII. Proponer acciones para impulsar la adecuada protección y explotación de 
 
 XIV. Las demás que se establezcan en otras disposiciones jurídicas y en las Reglas de Organización y Funcionamiento que expida el propio Consejo General Ciudadano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2020)</small>
+
 ###### Artículo 11.
 
-El Consejo General Ciudadano sesionará dos veces al año en forma ordinaria y en forma extraordinaria cuando su Presidente lo estime conveniente o las dos terceras partes de los miembros del Consejo a propuesta y por conducto del Secretario Ejecutivo. El Consejo General Ciudadano sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros.
+El Consejo General Ciudadano sesionará cuatro veces al año en forma (sic)
 
 Las resoluciones del Consejo General Ciudadano se tomarán por mayoría de los miembros presentes teniendo el Presidente voto de calidad para el caso de empate.
 
@@ -710,3 +720,9 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 31 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 489.- SE AGREGA LA FRACCIÓN XIV AL ARTÍCULO 2, SE AGREGA LA FRACCIÓN VI AL ARTÍCULO 8 Y SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 11 DE LA LEY PARA EL IMPULSO EMPRENDEDOR DE (SIC) ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
