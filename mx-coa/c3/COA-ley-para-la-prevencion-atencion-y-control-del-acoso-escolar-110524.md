@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-prevencion-atencion-y-control-del-acoso-escolar-110
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-13"
-last_updated: "2019-12-06"
+last_updated: "2020-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,29 +21,51 @@ state: "COA"
 ---
 # LEY PARA LA PREVENCION, ATENCION Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+LEY DEL BANCO DE MEXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2010.
 
-Ley publicada en la Primera Sección del Periódico Oficial del Estado Coahuila, el viernes 13 de noviembre de 2015.
+Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el jueves 23 de diciembre de 1993.
 
-EL C. RUBÉN IGNACIO MOREIRA VALDEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA;
+CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes sabed:
 
-DECRETA
+Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente
 
-NÚMERO 182.-
+DECRETO
 
-ÚNICO.- Se crea la Ley para la Prevención, Atención y Control del Acoso Escolar para el Estado de Coahuila de Zaragoza, para quedar como sigue:
+"EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
 
-LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+LEY DEL BANCO DE MEXICO
 
 ## TÍTULO PRIMERO. Disposiciones Generales
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPITULO I. De la Naturaleza, las Finalidades y las Funciones
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+###### ARTICULO 1o.
+
+El banco central será persona de derecho público con carácter autónomo y se denominará Banco de México. En el ejercicio de sus funciones y en su administración se regirá por las disposiciones de esta Ley, reglamentaria de los párrafos sexto y séptimo del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### ARTICULO 2o.
+
+El Banco de México tendrá por finalidad proveer a la economía del país de moneda nacional. En la consecución de esta finalidad tendrá como objetivo prioritario procurar la estabilidad del poder adquisitivo de dicha moneda. Serán también finalidades del Banco promover el sano desarrollo del sistema financiero y propiciar el buen funcionamiento de los sistemas de pagos.
+
+###### ARTICULO 3o.
+
+El Banco desempeñará las funciones siguientes:
+
+I. Regular la emisión y circulación de la moneda, los cambios, la intermediación y los servicios financieros, así como los sistemas de pagos;
+
+II. Operar con las instituciones de crédito como banco de reserva y acreditante de última instancia;
+
+III. Prestar servicios de tesorería al Gobierno Federal y actuar como agente financiero del mismo;
+
+IV. Fungir como asesor del Gobierno Federal en materia económica y, particularmente, financiera;
+
+V. Participar en el Fondo Monetario Internacional y en otros organismos de cooperación financiera internacional o que agrupen a bancos centrales, y
+
+VI. Operar con los organismos a que se refiere la fracción V anterior, con bancos centrales y con otras personas morales extranjeras que ejerzan funciones de autoridad en materia financiera.
 
 ###### Artículo 1.
 
@@ -115,7 +137,27 @@ XII. Registro Estatal para el Control del Acoso Escolar: La compilación detalla
 
 XIII. Secretaría: La Secretaría de Educación del Gobierno del Estado de Coahuila de Zaragoza.
 
-### CAPÍTULO II. De las Autoridades, Distribución de Competencias y Coordinación
+### CAPITULO II. De la Emisión y la Circulación Monetaria
+
+###### ARTICULO 4o.
+
+Corresponderá privativamente al Banco de México emitir billetes y ordenar la acuñación de moneda metálica, así como poner ambos signos en circulación a través de las operaciones que esta Ley le autoriza realizar.
+
+###### ARTICULO 5o.
+
+Los billetes que emita el Banco de México deberán contener: la denominación con número y letra; la serie y número; la fecha del acuerdo de emisión; las firmas en facsímile de un miembro de la Junta de Gobierno y del Cajero Principal; la leyenda "Banco de México", y las demás características que señale el propio Banco.
+
+El Banco podrá fabricar sus billetes o encargar la fabricación de éstos a terceros.
+
+###### ARTICULO 6o.
+
+El Banco, directamente o a través de sus corresponsales, deberá cambiar a la vista los billetes y las monedas metálicas que ponga en circulación, por otros de la misma o de distinta denominación, sin limitación alguna y a voluntad del tenedor.
+
+Si el Banco o sus corresponsales no dispusieren de billetes o monedas metálicas de las denominaciones solicitadas, la obligación de canje podrá cumplirse entregando billetes o monedas metálicas de las denominaciones de que dispongan, más próximas a las demandadas.
+
+Se exceptúan de lo dispuesto en este artículo las monedas metálicas a que se refiere la fracción II del artículo 62.
+
+En el cumplimiento de su obligación de canje con las instituciones de crédito, el Banco podrá entregarles billetes y monedas metálicas de las denominaciones cuya mayor circulación considere conveniente para facilitar los pagos.
 
 ###### Artículo 5.
 
@@ -201,7 +243,53 @@ XVII. Preparar y presentar a la Secretaría un informe anual sobre acoso escolar
 
 ## TÍTULO SEGUNDO. De la Política Estatal Contra el Acoso Escolar
 
-### CAPÍTULO I. De la Prohibición del Acoso Escolar
+### CAPITULO III. De las Operaciones
+
+###### ARTICULO 7o.
+
+El Banco de México podrá llevar a cabo los actos siguientes:
+
+I. Operar con valores;
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 1999)</small>
+
+II. Otorgar crédito al Gobierno Federal, a las instituciones de crédito, así como al organismo descentralizado denominado Instituto para la Protección al Ahorro Bancario;
+
+III. Otorgar crédito a las personas a que se refiere la fracción VI del artículo 3o.;
+
+IV. Constituir depósitos en instituciones de crédito o depositarias de valores, del país o del extranjero;
+
+V. Adquirir valores emitidos por organismos financieros internacionales o personas morales domiciliadas en el exterior, de los previstos en la fracción II del artículo 20;
+
+VI. Emitir bonos de regulación monetaria;
+
+VII. Recibir depósitos bancarios de dinero del Gobierno Federal, de entidades financieras del país y del exterior, de fideicomisos públicos de fomento económico y de los referidos en la fracción XI siguiente, de instituciones para el depósito de valores, así como de entidades de la administración pública federal cuando las leyes así lo dispongan;
+
+VIII. Recibir depósitos bancarios de dinero de las personas a que se refiere la fracción VI del artículo 3o.;
+
+IX. Obtener créditos de las personas a que se refiere la fracción VI del artículo 3o. y de entidades financieras del exterior, exclusivamente con propósitos de regulación cambiaria;
+
+X. Efectuar operaciones con divisas, oro y plata, incluyendo reportos;
+
+XI. Actuar como fiduciario cuando por ley se le asigne esa encomienda, o bien tratándose de fideicomisos cuyos fines coadyuven al desempeño de sus funciones o de los que el propio Banco constituya para cumplir obligaciones laborales a su cargo, y
+
+XII. Recibir depósitos de títulos o valores, en custodia o en administración, de las personas señaladas en las fracciones VII y VIII anteriores. También podrá recibir depósitos de otros efectos del Gobierno Federal.
+
+El Banco no podrá realizar sino los actos expresamente previstos en las disposiciones de esta Ley o los conexos a ellos.
+
+###### ARTICULO 8o.
+
+Las operaciones a que se refiere el artículo 7o. deberán contratarse en términos que guarden congruencia con las condiciones de mercado al tiempo de su celebración, exceptuando aquéllas que por su naturaleza no tengan cotización en el mercado.
+
+Además, las operaciones con valores que realice el Banco Central, salvo las señaladas en las fracciones IV, V y XII del artículo 7o. y en la fracción I del artículo 9o., se harán exclusivamente mediante subasta, cuyo objeto sean títulos a cargo del Gobierno Federal, de instituciones de crédito o del propio Banco.
+
+###### ARTICULO 9o.
+
+El Banco de México no deberá prestar valores al Gobierno Federal ni adquirirlos de éste, excepto cuando se trate de adquisiciones de valores a cargo del propio Gobierno y se cumpla una de las dos condiciones siguientes:
+
+I. Las adquisiciones queden correspondidas con depósitos en efectivo no retirables antes del vencimiento, que dicho Gobierno constituya en el Banco con el producto de la colocación de los valores referidos, cuyos montos, plazos y rendimientos sean iguales a los de los valores objeto de la operación respectiva; o bien,
+
+II. Las adquisiciones correspondan a posturas presentadas por el Banco en las subastas primarias de dichos valores. Estas adquisiciones en ningún caso deberán ser por monto mayor al de los títulos a cargo del propio Gobierno propiedad del Banco que venzan el día de colocación de los valores objeto de la subasta.
 
 ###### Artículo 9.
 
@@ -209,205 +297,633 @@ Se prohíbe el acoso escolar en las escuelas públicas y privadas del Estado dur
 
 Se prohíben también las represalias en contra de quien reporte casos de acoso escolar, en contra de quien proporcione información durante una investigación, o de quien sea testigo o poseedor de información fiable en algún caso de acoso escolar.
 
-### CAPÍTULO II. De las Modalidades del Acoso Escolar
+### CAPITULO IV. De la Reserva Internacional y el Régimen Cambiario
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-El acoso escolar puede presentarse en las modalidades siguientes:
+La función de agente del Gobierno Federal para la emisión, colocación, compra y venta, de valores representativos de la deuda interna del citado Gobierno y, en general, para el servicio de dicha deuda, será privativa del Banco Central.
 
-I. Físico: Cuando hay una agresión o daño físico a un estudiante o a su propiedad;
+### CAPITULO V. De la Expedición de Normas y las Sanciones
 
-II. Verbal: Cuando hay un daño emocional a un estudiante mediante insultos, desprecios y burlas en público o privado;
+###### ARTICULO 11.
 
-III. Psicológico: Cuando existe intimidación, hostigamiento, chantaje, manipulación o amenaza contra un estudiante;
+El Banco de México sólo podrá dar crédito al Gobierno Federal mediante el ejercicio de la cuenta corriente que lleve a la Tesorería de la Federación y con sujeción a lo que se dispone en el artículo 12. Para efectos de la presente Ley, no se consideran crédito al Gobierno Federal los valores a cargo de éste propiedad del Banco Central.
 
-IV. Cibernético: El que se realiza mediante el uso de cualquier medio electrónico como internet, páginas web, redes sociales, blogs, correos electrónicos, mensajes, imágenes o videos por teléfono celular, computadoras u otras tecnologías digitales.
+###### ARTICULO 12.
 
-V. Sexual: Toda aquella discriminación y violencia contra otro alumno relacionada con su sexualidad, así como el envío de mensajes, imágenes o videos con contenidos eróticos o pornográficos por medio de tecnologías digitales; y
+El Banco llevará una cuenta corriente a la Tesorería de la Federación que se ajustará a lo que convengan las partes, pero en todo caso a lo siguiente:
 
-VI. Exclusión social: Cuando el estudiante víctima es excluido y aislado, o amenazado con serlo, de la convivencia escolar por razones de discriminación de cualquier tipo.
+I. Sólo podrán hacerse cargos o abonos a esta cuenta mediante instrucción directa del Tesorero de la Federación al Banco, que este último reciba con una antelación de por lo menos un día hábil bancario a la fecha en que deba efectuarse el respectivo cargo o abono;
 
-### CAPÍTULO III. Del Plan de Prevención del Acoso Escolar
+II. El Banco de México podrá, sin autorización del Tesorero de la Federación, cargar la cuenta para atender el servicio de la deuda interna del Gobierno Federal;
 
-###### Artículo 11.
+III. Con cargo a esta cuenta no podrán librarse cheques u otros documentos a favor de terceros, y
 
-La Secretaría elaborará el Plan de Prevención del Acoso Escolar. Dicho Plan deberá elaborarse con una amplia consulta con autoridades, personal escolar directivo, personal especializado, padres de familia o tutores y educandos, en la que se establezca un período para recibir comentarios públicos.
+IV. El saldo que, en su caso, obre a cargo del Gobierno Federal no deberá exceder de un límite equivalente al 1.5 por ciento de las erogaciones del propio Gobierno previstas en el Presupuesto de Egresos de la Federación para el ejercicio de que se trate, sin considerar las señaladas para la amortización de la deuda de dicho Gobierno; salvo que, por circunstancias extraordinarias, aumenten considerablemente las diferencias temporales entre los ingresos y los gastos públicos.
 
-###### Artículo 12.
+En el evento de que el saldo deudor de la cuenta exceda del límite referido, el Banco deberá proceder a la colocación de valores a cargo del Gobierno Federal, por cuenta de éste y por el importe del excedente. De ser necesario o conveniente, el Banco, también por cuenta del Gobierno Federal, emitirá valores a cargo de éste para realizar la colocación respectiva. Al determinar las características de la colocación y, en su caso, emisión, el Banco procurará las mejores condiciones para el Gobierno dentro de lo que el mercado permita.
 
-El Plan de Prevención del Acoso Escolar para las escuelas, será de cumplimiento obligatorio y se revisará, evaluará y actualizará cada dos años.
+El Banco deberá efectuar la colocación de los valores mencionados en un plazo no mayor de quince días hábiles, contado a partir de la fecha en que se exceda el límite señalado, liquidando el excedente de crédito con el producto de la colocación correspondiente. Excepcionalmente, la Junta de Gobierno del Banco podrá ampliar este plazo una o más veces por un plazo conjunto no mayor de tres meses, si ello resulta conveniente para evitar trastornos en el mercado financiero.
 
-###### Artículo 13.
+###### ARTICULO 13.
 
-Son objetivos del Plan de Prevención del Acoso Escolar, los siguientes:
+Cuando las leyes establezcan que el Banco de México deba efectuar aportaciones a organismos financieros internacionales, el Gobierno Federal, salvo por lo que enseguida se señala, proveerá oportunamente al propio Banco de los recursos respectivos. El pago de las cuotas al Fondo Monetario Internacional, se efectuará con recursos del Banco de México.
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+###### ARTICULO 14.
 
-I. Evitar, prevenir y erradicar el acoso escolar en las escuelas públicas y privadas del Estado implementando y fomentando la Cultura de Paz;
+Las operaciones que el Banco de México realice con las instituciones de crédito se efectuarán mediante subasta o de conformidad con disposiciones de carácter general que expida el propio Banco.
 
-II. Integrar a todo el alumnado mejorando las relaciones de convivencia entre todos los miembros de la comunidad educativa, en un ambiente libre de violencia;
+Los financiamientos que el Banco Central conceda a las instituciones de crédito, sea mediante el otorgamiento de crédito o a través de la adquisición de valores, sólo podrán tener por finalidad la regulación monetaria.
 
-III. Implementar la política estatal contra el acoso escolar;
+###### ARTICULO 15.
 
-IV. Fomentar la participación de estudiantes, personal escolar y autoridades, así como de padres y tutores, en la prevención del acoso escolar;
+Lo previsto en los artículos 8o., segundo párrafo y 14, no será aplicable a los financiamientos que el Banco Central conceda a las instituciones de crédito para evitar trastornos en los sistemas de pagos, ni a las operaciones que el Banco realice como acreditante de última instancia.
 
-V. Informar a la sociedad sobre las formas de prevención del acoso escolar, sus consecuencias y procedimientos de intervención; y
+### CAPITULO VI. Del Gobierno y la Vigilancia
 
-VI. Fomentar el registro estadístico de los incidentes de acoso escolar y garantizar el acceso a la información.
+###### ARTICULO 38.
 
-###### Artículo 14.
+El ejercicio de las funciones y la administración del Banco de México estarán encomendados, en el ámbito de sus respectivas competencias, a una Junta de Gobierno y a un Gobernador.
 
-El Plan de Prevención del Acoso Escolar deberá, como mínimo:
+La Junta de Gobierno estará integrada por cinco miembros, designados conforme a lo previsto en el párrafo séptimo del artículo 28 constitucional. De entre éstos, el Ejecutivo Federal nombrará al Gobernador del Banco, quien presidirá a la Junta de Gobierno; los demás miembros se denominarán Subgobernadores.
 
-I. Incorporar temas de información, educación y prevención sobre acoso escolar en los planes y programas de estudio;
+> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2010)</small>
 
-II. Generar actividades y cursos para los educandos que faciliten información y fomenten actividades sobre prevención del acoso escolar en las escuelas, de acuerdo con sus edades;
+Podrán ser sujetos de juicio político conforme a lo establecido en los artículos 108 y 110 de la Constitución Política de los Estados Unidos Mexicanos, los servidores públicos que incumplan con las disposiciones contenidas en esta Ley.
 
-III. Difundir los derechos y deberes de los estudiantes;
+###### ARTICULO 39.
 
-IV. Servir de apoyo a la reglamentación interna en la materia de convivencia en las escuelas;
+La designación de miembro de la Junta de Gobierno deberá recaer en persona que reúna los requisitos siguientes:
 
-V. Fomentar la convivencia pacífica en las escuelas y el derecho al ambiente libre de violencia de los educandos;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
 
-VI. Proporcionar información sobre solución de controversias;
+I.- Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad, estar en pleno goce de sus derechos civiles y políticos y no tener más de sesenta y cinco años cumplidos en la fecha de inicio del periodo durante el cual desempeñará su cargo.
 
-VII. Promover la comunicación entre estudiantes, personal escolar, padres de familia y tutores, para prevenir y denunciar el acoso escolar;
+II. Gozar de reconocida competencia en materia monetaria, así como haber ocupado, por lo menos durante cinco años, cargos de alto nivel en el sistema financiero mexicano o en las dependencias, organismos o instituciones que ejerzan funciones de autoridad en materia financiera.
 
-VIII. Establecer la capacitación del personal escolar sobre la prevención de este tipo de acoso;
+Para la designación de dos de los cinco miembros no será necesario satisfacer los requisitos previstos en el párrafo anterior; pero en todo caso, deberá tratarse de profesionales distinguidos en materia económica, financiera o jurídica. Ninguno de estos dos miembros podrá ser nombrado Gobernador antes de haber cumplido tres años en su cargo, y
 
-IX. Prohibir el acoso escolar y las represalias;
+III. No haber sido sentenciada por delitos intencionales; inhabilitada para ejercer el comercio o para desempeñar un empleo, cargo o comisión, en el servicio público o en el sistema financiero mexicano; ni removida con anterioridad del cargo de miembro de la Junta de Gobierno, salvo que esto último hubiere sido resultado de incapacidad física ya superada.
 
-X. Definir con claridad las conductas que puedan constituir acoso escolar en cualquiera de sus modalidades; y
+###### ARTICULO 40.
 
-XI. Definir puntualmente el procedimiento que los directores escolares deberán seguir ante la presencia de conductas que puedan constituir acoso escolar.
+El cargo de Gobernador durará seis años y el de Subgobernador será de ocho años. El periodo del Gobernador comenzará el primero de enero del cuarto año calendario del periodo correspondiente al Presidente de la República. Los periodos de los Subgobernadores serán escalonados, sucediéndose cada dos años e iniciándose el primero de enero del primer, tercer y quinto año del periodo del Ejecutivo Federal. Las personas que ocupen esos cargos podrán ser designadas miembros de la Junta de Gobierno más de una vez.
 
-###### Artículo 15.
+###### ARTICULO 41.
 
-La capacitación anual del personal escolar, de conformidad con el Plan de Prevención del Acoso Escolar, puede ser gestionada para el sistema educativo coahuilense.
+La vacante que se produzca en un puesto de Subgobernador será cubierta por el nuevo miembro que se designe para integrar la Junta de Gobierno. En caso de vacante en el puesto de Gobernador, el Ejecutivo Federal podrá nombrar para ocupar tal cargo a un Subgobernador en funciones, o bien, designar a un nuevo miembro de la Junta de Gobierno y, ya integrada ésta, nombrar de entre sus cinco miembros al Gobernador. En tanto se hace el nombramiento de Gobernador, el Subgobernador con mayor antigüedad en el cargo será Gobernador Interino del Banco y presidirá la Junta de Gobierno. En caso de que hubieren dos o más Subgobernadores con igual antigüedad, la Junta de Gobierno elegirá entre ellos al Gobernador Interino.
 
-### CAPÍTULO IV. Del Plan de Intervención en Casos de Acoso Escolar
+Los miembros que cubran vacantes que se produzcan antes de la terminación del periodo respectivo, durarán en su cargo sólo por el tiempo que faltare desempeñar al sustituido. Si al término del periodo que corresponde al Gobernador, se nombra a un Subgobernador en funciones para ocupar tal puesto, el nombramiento referido será por seis años independientemente del tiempo que hubiere sido Subgobernador.
 
-###### Artículo 16.
+###### ARTICULO 42.
 
-La Secretaría elaborará, a través de un proceso amplio de consulta, el Plan de Intervención en Casos de Acoso Escolar. El Plan de Intervención será armónico con el Plan de Prevención del Acoso Escolar y deberá consultarse con autoridades, personal escolar directivo, personal especializadoy (sic) educandos, durante un período para recibir comentarios públicos.
+El Gobernador y los Subgobernadores deberán abstenerse de participar con la representación del Banco en actos políticos partidistas.
 
-###### Artículo 17.
+###### ARTICULO 43.
 
-El Plan de Intervención en Casos de Acoso Escolar será de cumplimiento obligatorio y se revisará, evaluará y actualizará cada dos años.
+Son causas de remoción de un miembro de la Junta de Gobierno:
 
-###### Artículo 18.
+I. La incapacidad mental, así como la incapacidad física que impida el correcto ejercicio de sus funciones durante más de seis meses;
 
-El Plan de Intervención en Casos de Acoso Escolar deberá, como mínimo:
+II. El desempeño de algún empleo, cargo o comisión, distinto de los previstos en el párrafo séptimo del artículo 28 constitucional;
 
-I. Servir como instrumento de respuesta inmediata ante casos de acoso escolar;
+III. Dejar de ser ciudadano mexicano o de reunir alguno de los requisitos señalados en la fracción III del artículo 39;
 
-II. Proteger la integridad física y psicológica de los educandos, propiciando un ambiente libre de violencia;
+IV. No cumplir los acuerdos de la Junta de Gobierno o actuar deliberadamente en exceso o defecto de sus atribuciones;
 
-III. Establecer procedimientos claros para que estudiantes, personal escolar, padres, tutores y otras personas puedan denunciar el acoso escolar o represalias;
+V. Utilizar, en beneficio propio o de terceros, la información confidencial de que disponga en razón de su cargo, así como divulgar la mencionada información sin la autorización de la Junta de Gobierno;
 
-IV. Incluir una disposición para que en las denuncias se garantice el anonimato del denunciante;
+VI. Someter a sabiendas, a la consideración de la Junta de Gobierno, información falsa, y
 
-V. Establecer procedimientos claros para investigar con prontitud las denuncias de acoso escolar o represalias;
+VII. Ausentarse de sus labores sin autorización de la Junta de Gobierno o sin mediar causa de fuerza mayor o motivo justificado. La Junta de Gobierno no podrá autorizar ausencias por más de seis meses.
 
-VI. Establecer procedimientos claros para restaurar el sentido de seguridad para la víctima y evaluar las necesidades de los estudiantes para su protección;
+El Gobernador podrá ser removido también por no cumplir con los acuerdos de la Comisión de Cambios.
 
-VII. Señalar medidas de protección contra represalias a quien reporte casos de acoso escolar o que proporcione información durante una investigación, o bien, que sea testigo o poseedor de información fiable en algún caso de acoso escolar;
+###### ARTICULO 44.
 
-VIII. Fijar procedimientos para la pronta notificación a los padres o tutores de la víctima y el autor;
+Compete a la Junta de Gobierno dictaminar sobre la existencia de las causas de remoción señaladas en el artículo inmediato anterior, debiendo hacerlo a solicitud del Presidente de la República o de cuando menos dos de sus miembros. El dictamen se formulará según resolución de la mayoría de los miembros de la Junta de Gobierno, después de conceder el derecho de audiencia al afectado y sin que éste participe en la votación.
 
-IX. Implantar los formatos de reporte del acoso escolar a la Secretaría;
+El dictamen, con la documentación que lo sustente, incluida la argumentación por escrito que, en su caso, el afectado hubiere presentado, será enviado al Ejecutivo Federal. Este último deberá remitirlo, acompañado con la citada documentación y con su razonamiento de procedencia o improcedencia de remoción, a la Cámara de Senadores o, en su caso, a la Comisión Permanente, para resolución definitiva.
 
-X. Establecer el formato anual de incidencia;
+###### ARTICULO 45.
 
-XI. Contar con personal capacitado para tratar a las víctimas y autores de acoso escolar, así como sus represalias; y
+El Gobernador o cuando menos dos de los Subgobernadores podrán convocar a reunión de la Junta de Gobierno, cuyas sesiones deberán celebrarse con la asistencia de por lo menos tres de sus miembros. Si no concurriere el Gobernador, la sesión será presidida por quien aquél designe o, en su defecto, por el Subgobernador a quien corresponda según el procedimiento previsto en el párrafo primero del artículo 41.
 
-XII. Señalar procedimientos de actuación para el personal capacitado de orientación y tratamiento para los autores, las víctimas y los familiares que se encuentren ante casos de acoso escolar.
+Las resoluciones requerirán para su validez del voto aprobatorio de la mayoría de los presentes, salvo el caso previsto en el párrafo primero del artículo 44. Quien presida la sesión tendrá voto de calidad en caso de empate.
 
-###### Artículo 19.
+El Secretario y el Subsecretario de Hacienda y Crédito Público, podrán asistir con voz, pero sin voto, a las sesiones de la Junta de Gobierno, para lo cual serán previamente convocados, dándoles a conocer el orden del día correspondiente. Dichos funcionarios podrán convocar a reunión de la Junta de Gobierno y proponer asuntos a ser tratados en ella.
 
-La capacitación permanente y de manera anual del personal escolar de conformidad el Plan de Intervención en Casos de Acoso Escolar, se gestionará en los términos de esta Ley.
+La Junta podrá acordar la asistencia de funcionarios de la Institución a sus sesiones para que le rindan directamente la información que les solicite.
 
-###### Artículo 20.
+Quienes asistan a las sesiones deberán guardar confidencialidad respecto de los asuntos que se traten en ellas, salvo autorización expresa de la Junta de Gobierno para hacer alguna comunicación.
 
-Cada Director escolar será responsable de la ejecución y supervisión del Plan de Intervención en Casos de Acoso Escolar.
+###### ARTICULO 46.
 
-###### Artículo 21.
+La Junta de Gobierno tendrá las facultades siguientes:
 
-Cualquier miembro del personal escolar deberá informar inmediatamente al Director de la escuela de cualquier caso de acoso escolar o represalia, del cual haya sido testigo o tenga noticia.
+I. Determinar las características de los billetes, con sujeción a lo establecido en el artículo 5o., y proponer a la Secretaría de Hacienda y Crédito Público, las composiciones metálicas de las monedas conforme a lo dispuesto por la Ley Monetaria de los Estados Unidos Mexicanos;
 
-Tras la recepción de dicho informe, el Director de la escuela investigará sin demora y lo registrará en la bitácora escolar. Si el Director de la escuela, o su designado, determina que el acoso escolar o represalias han ocurrido, deberá:
+II. Autorizar las órdenes de acuñación de moneda y de fabricación de billetes;
 
-I. Notificar del hecho a la Secretaría en caso de que requieran una atención especializada;
+III. Resolver sobre la desmonetización de billetes y los procedimientos para la inutilización y destrucción de moneda;
 
-II. Notificar a las autoridades competentes si el Director de la escuela o su designado estiman que la gravedad del acoso pueda requerir su intervención;
+IV. Resolver sobre el otorgamiento de crédito del Banco al Gobierno Federal;
 
-III. Tomar las medidas y aplicar las disciplinarias apropiadas, de conformidad con esta Ley y los reglamentos internos de cada escuela previstos en el Reglamento General de Escuelas;
+V. Fijar las políticas y criterios conforme a los cuales el Banco realice sus operaciones, pudiendo determinar las características de éstas y las que por su importancia deban someterse en cada caso a su previa aprobación;
 
-IV. Informar a los padres o tutores del autor y cómplices; y
+VI. Autorizar las emisiones de bonos de regulación monetaria y fijar las características de éstos;
 
-V. Comunicar a los padres o tutores de la víctima, las medidas adoptadas para prevenir o brindar atención especializada de cualquier acto de acoso escolar o represalia.
+VII. Determinar las características de los valores a cargo del Gobierno Federal que el Banco emita conforme al párrafo segundo, fracción IV, del artículo 12, así como las condiciones en que se coloquen esos títulos y los demás valores señalados en dicho párrafo;
 
-###### Artículo 22.
+VIII. Establecer las políticas y criterios conforme a los cuales se expidan las normas previstas en el capítulo V, sin perjuicio de las facultades que corresponden a la Comisión de Cambios conforme al artículo 22;
 
-Los padres de familia podrán reportar supletoriamente ante la Secretaría actos de acoso escolar cuando, a su juicio, los directivos de la escuela hayan sido omisos en atender la denuncia.
+IX. Aprobar las exposiciones e informes del Banco y de los miembros de la Junta de Gobierno sobre las políticas y actividades de aquél;
 
-###### Artículo 23.
+X. Aprobar los estados financieros correspondientes a cada ejercicio, así como los estados de cuenta consolidados mensuales;
 
-Si un incidente de acoso escolar o represalia involucra a los estudiantes de más de un sector escolar, el Director de la escuela que informó por primera vez de los mismos, notificará inmediatamente a la autoridad competente del otro sector o escuela, de forma que ambos puedan tomar las medidas adecuadas.
+XI. Expedir las normas y criterios generales a los que deberá sujetarse la elaboración y ejercicio del presupuesto de gasto corriente e inversión física del Banco, así como aprobar dicho presupuesto y las modificaciones que corresponda efectuarle durante el ejercicio. La Junta de Gobierno deberá hacer lo anterior, de conformidad con el criterio de que la evolución del citado presupuesto guarde congruencia con la del Presupuesto de Egresos de la Federación;
 
-###### Artículo 24.
+XII. Expedir, con sujeción a los criterios de carácter general señalados en el artículo 134 constitucional, las normas conforme a las cuales el Banco deba contratar las adquisiciones y enajenaciones de bienes muebles, los arrendamientos de todo tipo de bienes, la realización de obra inmobiliaria, así como los servicios de cualquier naturaleza;
 
-Las instituciones educativas podrán utilizar recursos tecnológicos para la vigilancia e investigación de casos de acoso escolar.
+XIII. Resolver sobre la adquisición y enajenación de acciones o partes sociales por el Banco, de empresas que le presten servicios;
 
-###### Artículo 25.
+XIV. Autorizar la adquisición y enajenación de inmuebles;
 
-Todas las estrategias y procedimientos de intervención deberán ser con pleno respeto los derechos humanos de los educandos.
+XV. Resolver sobre la constitución de las reservas a que se refiere el artículo 53;
 
-###### Artículo 26.
+XVI. Aprobar el Reglamento Interior del Banco, el cual deberá ser publicado en el Diario Oficial de la Federación;
 
-Quedará prohibido el uso de la fuerza física contra cualquier alumno.
+XVII. Aprobar las Condiciones Generales de Trabajo que deban observarse en las relaciones entre el Banco y su personal, así como los tabuladores de sueldos, en el concepto de que las remuneraciones de los funcionarios y empleados del Banco no deberán exceder de las que perciban los miembros de la Junta de Gobierno, excepto en los casos en que dadas las condiciones del mercado de trabajo de alguna especialidad, se requiera de mayor remuneración;
 
-### CAPÍTULO V. Del Personal Capacitado
+XVIII. Nombrar y remover al secretario de la Junta de Gobierno, así como a su suplente, quienes deberán ser funcionarios del Banco;
 
-###### Artículo 27.
+XIX. Nombrar y remover a los funcionarios que ocupen los tres primeros niveles jerárquicos del personal de la Institución;
 
-Los planteles educativos deberán contar con un área que participe en la implementación de los Planes de Prevención e Intervención; estará conformada por uno o varios integrantes de la plantilla académica o administrativa ypodrá (sic) gestionar ante la Secretaría la capacitación correspondiente.
+XX. Aprobar las políticas para cancelar, total o parcialmente, adeudos a cargo de terceros y a favor del Banco, cuando fuere notoria la imposibilidad práctica de su cobro, o éste fuere económicamente inconveniente para la Institución, y
 
-###### Artículo 28.
+XXI. Resolver sobre otros asuntos que el Gobernador someta a su consideración.
 
-El área de Prevención e Intervención ejercerá una acción de tutela que se encargue de:
+###### ARTICULO 47.
 
-I. Orientar a los educandos conforme a los Planes de Prevención e Intervención;
+Corresponderá al Gobernador del Banco de México:
 
-II. La formación en los valores y principios protegidos en esta Ley;
+I. Tener a su cargo la administración del Banco, la representación legal de éste y el ejercicio de sus funciones, sin perjuicio de las atribuciones que esta Ley confiere a la Junta de Gobierno;
 
-III. La enseñanza sobre la solución de controversias sin violencia;
+II. Ejecutar los acuerdos de la Junta de Gobierno y de la Comisión de Cambios;
 
-IV. El aprendizaje de habilidades sociales para una mejor convivencia;
+III. Someter a la consideración y, en su caso, aprobación de la Junta de Gobierno las exposiciones e informes del Banco señalados en la fracción IX del artículo 46, así como los documentos a que se refieren las fracciones X, XI, XII, XVI y XVII del referido artículo 46;
 
-V. Concientizar a los educandos sobre la problemática en torno al acoso escolar; y,
+IV. Actuar con el carácter de apoderado y delegado fiduciario;
 
-VI. Promover la resolución pacífica de conflictos para una sana convivencia escolar.
+V. Ser el enlace entre el Banco y la Administración Pública Federal;
+
+VI. Ser el vocero del Banco, pudiendo delegar esta facultad en los Subgobernadores;
+
+VII. Constituir consejos regionales;
+
+VIII. Acordar el establecimiento, cambio y clausura de sucursales;
+
+IX. Designar a los Subgobernadores que deban desempeñar cargos o comisiones en representación del Banco;
+
+X. Designar y remover a los apoderados y delegados fiduciarios;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2010)</small>
+
+XI. Nombrar y remover al personal del Banco, excepto el referido en la fracción XIX del artículo 46;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2010)</small>
+
+XII. Fijar, conforme a los tabuladores aprobados por la Junta de Gobierno, los sueldos del personal y aprobar los programas que deban aplicarse para su capacitación y adiestramiento; y
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2010)</small>
+
+XIII. Comparecer ante comisiones del Senado de la República cada año, durante el segundo periodo ordinario de sesiones, a rendir un informe del cumplimiento del mandato.
+
+###### ARTICULO 48.
+
+Los consejos regionales previstos en la fracción VII del artículo 47, tendrán únicamente funciones de consulta, así como de obtención y difusión de información de carácter general en materia económica y, particularmente, financiera.
+
+###### ARTICULO 49.
+
+La remuneración del Gobernador del Banco, así como la de los Subgobernadores, las determinará un comité integrado por el Presidente de la Comisión Nacional Bancaria y por dos personas nombradas por el Secretario de Hacienda y Crédito Público, cuya designación no produzca conflicto de intereses y que sean de reconocida experiencia en el mercado laboral en el que participan las instituciones de crédito públicas y privadas, así como las autoridades reguladoras de éstas.
+
+El comité sesionará por lo menos una vez al año, y tomará sus resoluciones por el voto favorable de la mayoría de sus miembros, los cuales no tendrán suplentes. Para adoptar sus resoluciones, el comité deberá considerar las remuneraciones existentes en el Banco y la evolución de las remuneraciones en el sistema financiero del país, teniendo como criterio rector que, dadas las condiciones del referido mercado laboral, la Junta de Gobierno cuente con miembros idóneos y el Banco pueda contratar y conservar personal debidamente calificado.
+
+###### ARTICULO 50.
+
+El Secretario de Hacienda y Crédito Público solicitará a un colegio o instituto de contadores ampliamente representativo de la profesión, le proponga una terna de firmas de reconocido prestigio, entre las cuales designará al auditor externo del Banco con la aprobación de la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, y contratará sus servicios por cuenta del Banco. La contratación del auditor externo no podrá hacerse por periodos mayores de cinco años.
+
+El auditor tendrá las más amplias facultades para examinar y dictaminar los estados financieros del Banco, así como para revisar la contabilidad y demás documentación relacionada con ésta, debiendo enviar al Ejecutivo Federal y al Congreso de la Unión copia de los dictámenes que presente a la Junta de Gobierno, y un informe sobre el ejercicio del presupuesto de gasto corriente e inversión física.
+
+###### ARTICULO 16.
+
+Los financiamientos que el Banco de México conceda a las instituciones de crédito, estarán garantizados por los depósitos de dinero y de valores que dichas instituciones tengan en el propio Banco. Al vencer los mencionados financiamientos, el Banco estará facultado para cargar su importe a las cuentas en que se registren dichos depósitos de dinero.
+
+###### ARTICULO 17.
+
+Los bonos de regulación monetaria que emita el Banco de México, serán títulos de crédito nominativos o al portador y tendrán las demás características que el Banco fije, debiendo mantenerse depositados en administración en el propio Banco, cuando éste así lo determine.
+
+###### ARTICULO 18.
+
+El Banco de México contará con una reserva de activos internacionales, que tendrá por objeto coadyuvar a la estabilidad del poder adquisitivo de la moneda nacional mediante la compensación de desequilibrios entre los ingresos y egresos de divisas del país.
+
+###### ARTICULO 19.
+
+La reserva a que se refiere el artículo inmediato anterior se constituirá con:
+
+I. Las divisas y el oro, propiedad del Banco Central, que se hallen libres de todo gravamen y cuya disponibilidad no esté sujeta a restricción alguna;
+
+II. La diferencia entre la participación de México en el Fondo Monetario Internacional y el saldo del pasivo a cargo del Banco por el mencionado concepto, cuando dicho saldo sea inferior a la citada participación, y
+
+III. Las divisas provenientes de financiamientos obtenidos con propósitos de regulación cambiaria, de las personas señaladas en la fracción VI del artículo 3o.
+
+Para determinar el monto de la reserva, no se considerarán las divisas pendientes de recibir por operaciones de compraventa contra moneda nacional, y se restarán los pasivos de la Institución en divisas y oro, excepto los que sean a plazo mayor de seis meses y los correspondientes a los financiamientos mencionados en la fracción III de este artículo.
+
+###### ARTICULO 20.
+
+Para efectos de esta Ley, el término divisas comprende: billetes y monedas metálicas extranjeros, depósitos bancarios, títulos de crédito y toda clase de documentos de crédito, sobre el exterior y denominados en moneda extranjera, así como, en general, los medios internacionales de pago.
+
+Las divisas susceptibles de formar parte de la reserva son únicamente:
+
+I. Los billetes y monedas metálicas extranjeros;
+
+II. Los depósitos, títulos, valores y demás obligaciones pagaderos fuera del territorio nacional, considerados de primer orden en los mercados internacionales, denominados en moneda extranjera y a cargo de gobiernos de países distintos de México, de organismos financieros internacionales o de entidades del exterior, siempre que sean exigibles a plazo no mayor de seis meses o de amplia liquidez;
+
+III. Los créditos a cargo de bancos centrales, exigibles a plazo no mayor de seis meses, cuyo servicio esté al corriente, y
+
+IV. Los derechos especiales de giro del Fondo Monetario Internacional.
+
+###### ARTICULO 21.
+
+El Banco de México deberá actuar en materia cambiaria de acuerdo con las directrices que determine una Comisión de Cambios, que estará integrada por el Secretario y el Subsecretario de Hacienda y Crédito Público, otro subsecretario de dicha Dependencia que designe el Titular de ésta, el Gobernador del Banco y dos miembros de la Junta de Gobierno, que el propio Gobernador designe. Los integrantes de la Comisión no tendrán suplentes.
+
+Las sesiones de la Comisión serán presididas por el Secretario de Hacienda y Crédito Público, en su ausencia, por el Gobernador y, en ausencia de ambos, por el subsecretario que designe el Titular de la citada Secretaría. Quien presida la sesión tendrá voto de calidad en caso de empate.
+
+La Comisión podrá reunirse en todo tiempo a solicitud del Secretario de Hacienda y Crédito Público o del Gobernador; sus sesiones deberán celebrarse con la asistencia de por lo menos tres de sus miembros, siempre que tanto dicha Secretaría como el Banco de México se encuentren representados. Las resoluciones de la Comisión se tomarán por mayoría de votos, siendo necesario en todo caso el voto favorable de por lo menos uno de los representantes de la citada Secretaría.
+
+El Gobernador informará a la Junta de Gobierno sobre dichas resoluciones.
+
+El secretario de la Junta de Gobierno y su suplente lo serán también de la Comisión de Cambios.
+
+###### ARTICULO 22.
+
+La Comisión estará facultada para:
+
+I. Autorizar la obtención de los créditos a que se refiere la fracción IX del artículo 7o.;
+
+II. Fijar criterios a los que deba sujetarse el Banco en el ejercicio de las facultades previstas en los artículos 32, 34 y 35, así como en el artículo 33 respecto de la banca de desarrollo, y
+
+III. Señalar directrices respecto del manejo y la valuación de la reserva a que se refiere el artículo 18.
+
+###### ARTICULO 23.
+
+El Banco de México, para el cumplimiento de su objetivo prioritario, podrá compensar el aumento de la circulación de moneda o de sus obligaciones a la vista, resultante de las adquisiciones de divisas que efectúe atendiendo las directrices a que se refiere el artículo 21, mediante la colocación y, en su caso, emisión de valores a cargo del Gobierno Federal en términos de lo dispuesto en el segundo párrafo de la fracción IV del artículo 12. Esta colocación por cuenta del citado Gobierno sólo podrá efectuarse en caso de que el monto de los valores a cargo del Gobierno Federal con que el Banco cuente en sus activos sea igual o menor que el monto de los depósitos referidos en la fracción I del artículo 9o. y el Banco no disponga de otros valores de amplio mercado. Al realizarse la colocación, el Banco de México abonará el producto de ella a un depósito a su cargo sin intereses a favor del propio Gobierno. Los fondos depositados serán entregados al Gobierno al tiempo y por el monto equivalente de las enajenaciones netas de divisas que el Banco efectúe y que por sí mismas determinen disminución en la circulación de moneda o en el monto de las obligaciones a la vista de éste.
+
+###### ARTICULO 24.
+
+El Banco de México podrá expedir disposiciones sólo cuando tengan por propósito la regulación monetaria o cambiaria, el sano desarrollo del sistema financiero, el buen funcionamiento del sistema de pagos, o bien, la protección de los intereses del público. Al expedir sus disposiciones el Banco deberá expresar las razones que las motivan.
+
+Las citadas disposiciones deberán ser de aplicación general, pudiendo referirse a uno o varios tipos de intermediarios, a determinadas operaciones o a ciertas zonas o plazas.
+
+Las sanciones que el Banco imponga conforme a lo previsto en los artículos 27, 29 y 33, deberán tener como objetivo preservar la efectividad de las normas de orden público establecidas en la presente Ley y, de esta manera, proveer a los propósitos mencionados en el primer párrafo de este precepto.
+
+###### ARTICULO 25.
+
+El Banco de México determinará las condiciones en que las instituciones de crédito deberán canjear y retirar los billetes y las monedas metálicas en circulación.
+
+###### ARTICULO 26.
+
+Las características de las operaciones activas, pasivas y de servicios que realicen las instituciones de crédito, así como las de crédito, préstamo o reporto que celebren los intermediarios bursátiles, se ajustarán a las disposiciones que expida el Banco Central.
+
+> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2010)</small>
+
+El Banco de México regulará las comisiones y tasas de interés, activas y pasivas, así como cualquier otro concepto de cobro de las operaciones celebradas por las entidades financieras con clientes. Para el ejercicio de dichas atribuciones el Banco de México podrá solicitar la opinión de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros o de la Comisión Federal de Competencia y observará para estos fines lo dispuesto en la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
+
+Lo dispuesto en este artículo será aplicable también a los fideicomisos, mandatos o comisiones de los intermediarios bursátiles y de las instituciones de seguros y de fianzas.
+
+### CAPITULO VII. De las Disposiciones Generales
+
+###### ARTICULO 51.
+
+El Banco enviará al Ejecutivo Federal y al Congreso de la Unión y, en los recesos de este último, a su Comisión Permanente, lo siguiente:
+
+I. En enero de cada año, una exposición sobre la política monetaria a seguir por la Institución en el ejercicio respectivo, así como un informe sobre el presupuesto de gasto corriente e inversión física de la Institución, correspondiente a dicho ejercicio;
+
+II. En septiembre de cada año, un informe sobre la ejecución de la política monetaria durante el primer semestre del ejercicio de que se trate, y
+
+III. En abril de cada año, un informe sobre la ejecución de la política monetaria durante el segundo semestre del ejercicio inmediato anterior y, en general, sobre las actividades del Banco en el conjunto de dicho ejercicio, en el contexto de la situación económica nacional e internacional.
+
+> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2010)</small>
+
+Adicionalmente, el Banco enviará un informe trimestral al Congreso de la Unión, sobre la inflación, la evolución económica y el comportamiento de los indicadores económicos del país.
+
+###### ARTICULO 52.
+
+Cualquiera de las Cámaras del Congreso de la Unión podrá citar al Gobernador del Banco para que rinda informes sobre las políticas y actividades de la Institución.
+
+###### ARTICULO 53.
+
+El Banco de México deberá, siempre que sea posible, preservar el valor real de la suma de su capital más sus reservas e incrementar dicho valor conforme aumente el producto interno bruto en términos reales. El Banco de México sólo podrá constituir reservas en adición a lo que dispone este artículo, cuando resulten de la revaluación de activos o así lo acuerde con la Secretaría de Hacienda y Crédito Público.
+
+###### ARTICULO 54.
+
+El ejercicio financiero del Banco se iniciará el primero de enero y terminará el treinta y uno de diciembre de cada año, la Institución estará obligada a publicar el balance general de fin de ejercicio, así como un estado de cuentas consolidado al día último de cada mes.
+
+###### ARTICULO 55.
+
+El Banco será Institución sin propósito de lucro y deberá entregar al Gobierno Federal el importe íntegro de su remanente de operación una vez constituidas las reservas previstas en esta Ley, siempre que ello no implique la reducción de reservas provenientes de la revaluación de activos. Dicha entrega se efectuará a más tardar en el mes de abril del ejercicio inmediato siguiente al que corresponda el remanente.
+
+###### ARTICULO 56.
+
+Los billetes y las monedas metálicas que el Banco de México ponga en circulación deberán quedar registrados como pasivos en el balance de la Institución a su valor nominal. En tanto dichas piezas no sean puestas en circulación figurarán en el activo del Banco a su costo de fabricación o a su valor de adquisición, según corresponda, debiendo ajustarse los importes respectivos conforme evolucione el costo de reponer las piezas referidas. Al ser puestas en circulación por primera vez se darán de baja en el activo con cargo a resultados. El Banco registrará en su activo con abono a resultados, el importe obtenible de la enajenación del metal de las monedas que retire de la circulación.
+
+Las monedas señaladas en el inciso c) del artículo 2o. de la Ley Monetaria de los Estados Unidos Mexicanos que no estén destinadas a fungir como medios generales de pago, y las del artículo 2o. bis de dicha Ley, serán contabilizadas en los términos que acuerde la Junta de Gobierno.
+
+###### ARTICULO 57.
+
+Las operaciones a que se refiere la fracción XII del artículo 46 se llevarán a cabo a través de licitaciones públicas, excepto en los casos siguientes:
+
+I. Cuando se trate de adquisiciones de alimentos u otros bienes perecederos;
+
+II. De no existir por lo menos tres proveedores o postores idóneos;
+
+III. Cuando se dé por terminado anticipadamente un contrato o se rescinda;
+
+IV. Cuando el importe del contrato no rebase los montos equivalentes a:
+
+a) Sesenta veces el salario mínimo general diario vigente en el Distrito Federal elevado al año, tratándose de adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles;
+
+b) Noventa veces el salario mínimo general diario vigente en el Distrito Federal elevado al año, en el caso de obra inmobiliaria, y
+
+c) Diez veces el salario mínimo general diario vigente en el Distrito Federal elevado al año, conforme avalúo realizado por persona capacitada legalmente para ello, cuando se trate de enajenación de bienes muebles;
+
+V. Tratándose de casos fortuitos o de fuerza mayor;
+
+VI. Cuando existan trabajos o servicios de conservación, mantenimiento, restauración, reparación y demolición en los que no sea posible precisar su alcance, establecer el catálogo de conceptos y cantidades de trabajo, determinar las especificaciones correspondientes o elaborar el programa de ejecución;
+
+VII. Tratándose de la adquisición o de la enajenación de bienes inmuebles, así como de los servicios relacionados con la obra inmobiliaria;
+
+VIII. De existir circunstancias que puedan provocar trastornos graves, pérdidas o costos adicionales importantes para el Banco;
+
+IX. Después de haber realizado dos licitaciones sin que hubiese sido posible adjudicar el contrato correspondiente, o
+
+X. Cuando se trate de adquisiciones de insumos que el Banco requiera para la fabricación de billetes o adquiera para la de moneda metálica.
+
+###### ARTICULO 58.
+
+Al Banco de México, a los miembros de su Junta de Gobierno, así como a los funcionarios y empleados de la Institución, les serán aplicables las disposiciones relativas al secreto bancario y al fiduciario previstas en ley.
+
+###### ARTICULO 59.
+
+Son trabajadores de confianza del Banco de México:
+
+I. El personal que ocupe puestos de subgerente o superior, los trabajadores de rango equivalente al de los anteriores y los empleados adscritos de manera personal y directa a la Junta de Gobierno y a los miembros de ésta; los asesores y personal secretarial de los funcionarios antes mencionados; los jefes de división y de oficina; el personal de seguridad; los pilotos, copilotos e ingenieros de vuelo; el personal técnico adscrito a las áreas de cambios, metales, inversiones, valores e informática; los operadores y contraseñadores de telecomunicaciones por las que se transmitan escritos, así como el personal técnico que maneje información confidencial, y
+
+II. Los señalados en la Ley Reglamentaria de la fracción XIII BIS del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, que no estén comprendidos en la fracción anterior.
+
+El Gobernador y los Subgobernadores del Banco no formarán parte del personal de la Institución.
+
+###### ARTICULO 60.
+
+El personal que ocupe puestos de subgerente o superior y los trabajadores de rango equivalente al de los anteriores, no podrán tener empleo, cargo o comisión, en la Administración Pública Federal, con excepción de aquéllos en que actúen en representación del Banco o en asociaciones docentes, científicas, culturales o de beneficencia.
+
+###### ARTICULO 61.
+
+La Ley Federal de Responsabilidades de los Servidores Públicos, será aplicable a los miembros de la Junta de Gobierno y al personal del Banco, con sujeción a lo siguiente:
+
+I. La aplicación de dicha Ley y el proveer a su estricta observancia, salvo en lo tocante al Juicio Político al que podrán ser sujetos los integrantes de la Junta de Gobierno, competerán a una Comisión de Responsabilidades integrada por el miembro de la Junta de Gobierno que ésta designe y por los titulares de las áreas jurídica y de contraloría del Banco.
+
+Tratándose de infracciones cometidas por miembros de la Junta de Gobierno o por funcionarios que ocupen puestos comprendidos en los tres niveles más altos del personal, será la Junta de Gobierno quien determine la responsabilidad que resulte e imponga la sanción correspondiente, a cuyo efecto la Comisión de Responsabilidades le turnará el expediente respectivo, y
+
+II. Las personas sujetas a presentar declaración de situación patrimonial, serán los miembros de la Junta de Gobierno y quienes ocupen en la Institución puestos de subgerente o superior, así como aquéllas que por la naturaleza de sus funciones se señalen en el Reglamento Interior. Esta declaración deberá presentarse ante la contraloría del Banco, quien llevará el registro y seguimiento de la evolución de la mencionada situación patrimonial, informando a la Comisión de Responsabilidades o a la Junta de Gobierno, según corresponda, las observaciones que, en su caso, resulten de dicho seguimiento.
+
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+Contra las resoluciones a que se refiere este artículo no procederá medio de defensa alguno ante el Tribunal Federal de Justicia Fiscal y Administrativa.
+
+###### ARTICULO 62.
+
+El Banco de México podrá:
+
+I. En coordinación con las demás autoridades competentes, elaborar, compilar y publicar estadísticas económicas y financieras, así como operar sistemas de información basados en ellas y recabar los datos necesarios para esos efectos;
+
+II. Llevar a cabo, directamente o a través de terceros, la comercialización de monedas conmemorativas, así como de los billetes y las monedas metálicas, que tengan empaque o acabado especial;
+
+III. Utilizar los recursos de que disponga, en la fabricación de bienes para terceros y en la prestación de servicios a éstos, siempre que ello no afecte el adecuado desempeño de sus funciones, y
+
+IV. Adquirir o arrendar los bienes muebles y contratar los servicios y la obra inmobiliaria, necesarios o convenientes para su adecuada operación y funcionamiento, así como enajenar aquellos bienes muebles que dejaren de ser útiles para tales efectos.
+
+###### ARTICULO 63.
+
+Queda prohibido al Banco de México:
+
+I. Otorgar garantías;
+
+II. Adquirir o arrendar inmuebles que no requiera para el desempeño de sus funciones. Cuando fuere necesario que el Banco reciba o se adjudique inmuebles o derechos reales en pago de sus créditos, así como cuando dejen de serle necesarios aquéllos de que sea propietario, estará obligado a realizarlos dentro de un plazo máximo de tres años, y
+
+III. Adquirir títulos representativos del capital de sociedades, salvo que se trate de empresas que le presten servicios necesarios o convenientes a la realización de sus funciones.
+
+No serán aplicables al Banco las prohibiciones y limitaciones establecidas en esta Ley, cuando actúe en cumplimiento de sus obligaciones de carácter laboral o de las que adquiera con los miembros de su Junta de Gobierno como contraprestación por los servicios que le presten, pudiendo en esos casos realizar las operaciones y constituir las reservas necesarias o convenientes para dicho cumplimiento.
+
+###### ARTICULO 64.
+
+Contra las resoluciones previstas en los artículos 27, 29 y 33, procederá el recurso de reconsideración, el cual deberá interponerse ante la unidad administrativa que se determine en el Reglamento Interior del Banco, dentro de los quince días hábiles siguientes a la fecha de notificación de tales resoluciones.
+
+El recurso tendrá por objeto revocar, modificar o confirmar la resolución reclamada. En el escrito de interposición se deberá señalar el nombre y domicilio del recurrente, la resolución impugnada y los agravios que se hagan valer, acompañándose con los elementos de prueba que se consideren necesarios, así como con las constancias que acrediten la personalidad del promovente.
+
+A las notificaciones, trámite y resolución del recurso, les serán aplicables supletoriamente las disposiciones contenidas en los artículos 130, 132, 134, 135, 136 tercer párrafo, 137, 139 y 140 del Código Fiscal de la Federación y las disposiciones reglamentarias aplicables a estos preceptos.
+
+###### ARTICULO 65.
+
+El recurso de reconsideración deberá resolverse dentro de un plazo máximo de veinte días hábiles contado a partir de la fecha de su presentación, de no ser así, se considerará confirmado el acto impugnado. El recurso será de agotamiento obligatorio antes de acudir a la vía de amparo.
+
+Cuando el escrito antes mencionado no señale los agravios o el acto reclamado, será desechado por improcedente. Si se omitieron las pruebas, se tendrán por no ofrecidas.
+
+La resolución del recurso contendrá la fijación del acto impugnado, los fundamentos legales en que se apoye y los puntos de resolución.
+
+> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+Contra las resoluciones a que se refiere este artículo no procederá medio de defensa alguno ante el Tribunal Federal de Justicia Fiscal y Administrativa.
+
+###### ARTICULO 66.
+
+Las resoluciones previstas en el primer párrafo del artículo 64 se ejecutarán:
+
+I. Cuando no se interponga recurso de reconsideración dentro del plazo señalado en el artículo 64;
+
+II. Si el afectado no acredita, dentro de los veinte días hábiles siguientes a aquél en que se notifique la resolución correspondiente, que ha presentado demanda de amparo contra dicha resolución;
+
+III. Si en el juicio de amparo se niega la suspensión del acto reclamado, o
+
+IV. De haberse concedido la suspensión en el juicio de amparo, hasta que se dicte sentencia firme en contra del quejoso.
+
+###### ARTICULO 67.
+
+El procedimiento administrativo de ejecución para el cobro de las multas que no hubieren sido cubiertas oportunamente al Banco de México, se aplicará por la Secretaría de Hacienda y Crédito Público o por el propio Banco a través de la unidad administrativa que señale su Reglamento Interior.
+
+La unidad señalada en el párrafo anterior, aplicará las normas previstas en el Código Fiscal de la Federación para el procedimiento administrativo de ejecución. En el mencionado Reglamento Interior se indicarán las oficinas que deban conocer y resolver los recursos previstos en el citado Código, relativos a ese procedimiento.
+
+Si el Banco Central llevare cuenta al infractor, no será necesario aplicar el procedimiento administrativo de ejecución, pudiendo hacerse efectiva la multa cargando su importe a dicha cuenta.
+
+###### ARTICULO 68.
+
+La Ley de Instituciones de Crédito, la legislación mercantil, los usos bancarios y mercantiles y el Código Civil para el Distrito Federal, en Materia Común, y para toda la República en Materia Federal, se aplicarán a las operaciones del Banco, supletoriamente a la presente Ley y en el orden en que están mencionados.
+
+## TRANSITORIOS
+
+PRIMERO.- Esta Ley entrará en vigor el 1o. de abril de 1994, con excepción del segundo párrafo de este artículo y de los artículos tercero y décimo tercero transitorios, los cuales iniciarán su vigencia al día siguiente de la publicación de la Ley en el Diario Oficial de la Federación.
+
+La designación de los primeros integrantes de la Junta de Gobierno será hecha en los términos previstos en la presente Ley, con anterioridad al 31 de marzo de 1994.
+
+SEGUNDO.- El periodo del primer Gobernador del Banco vencerá el 31 de diciembre de 1997. Los periodos de los primeros Subgobernadores vencerán los días 31 de diciembre de 1994, 1996, 1998 y 2000, respectivamente, debiendo el Ejecutivo Federal señalar cuál de los periodos citados corresponderá a cada Subgobernador.
+
+TERCERO.- Las remuneraciones del Gobernador y de los Subgobernadores a que se refiere el artículo inmediato anterior, correspondientes al primer ejercicio financiero del Banco, serán determinadas de conformidad con lo dispuesto en el artículo 49 de la presente Ley, con anterioridad a que se efectúe la designación de los primeros integrantes de la Junta de Gobierno.
+
+CUARTO.- Las instrucciones del Tesorero de la Federación al Banco, en términos de la fracción I del artículo 12, no tendrán que efectuarse con la antelación señalada en la propia fracción I de dicho artículo, durante un plazo de tres años contado a partir de la entrada en vigor de la presente Ley. En el transcurso de ese mismo plazo, el Tesorero de la Federación podrá seguir librando los cheques y demás documentos a que se refiere la fracción III del referido artículo.
+
+QUINTO.- El Banco de México, organismo descentralizado del Gobierno Federal, se transforma en la nueva persona de derecho público a que se refiere esta Ley y conserva la titularidad de todos los bienes, derechos y obligaciones integrantes del patrimonio del primero.
+
+SEXTO.- El Reglamento Interior del Banco de México deberá expedirse en un plazo no mayor de seis meses, contado a partir del día en que quede legalmente instalada la Junta de Gobierno. Hasta en tanto se expida dicho Reglamento continuará en vigor el publicado en el Diario Oficial de la Federación el 4 de julio de 1985, y el recurso previsto en el artículo 64 se presentará ante la Gerencia Jurídica del Banco de México.
+
+Cuando en el Reglamento actualmente vigente o en cualquier otro instrumento jurídico se haga referencia al Director General del Banco, se entenderá hecha al Gobernador del Banco en el ámbito de las atribuciones que le confiere la presente Ley.
+
+SEPTIMO.- Los poderes, mandatos, designaciones de delegados fiduciarios y en general las representaciones otorgadas y las facultades concedidas por el Banco de México con anterioridad a la entrada en vigor de la presente Ley, subsistirán en sus términos en tanto no sean modificados o revocados expresamente.
+
+OCTAVO.- Las monedas metálicas actualmente en circulación pasarán a formar parte del pasivo en el balance de la Institución, aplicando el régimen previsto en el artículo 56.
+
+Los fondos del Gobierno Federal depositados en el Banco de México derivados de la diferencia entre el valor facial de las monedas entregadas por la Casa de Moneda al propio Banco hasta el día inmediato anterior al que entre en vigor la presente Ley y los costos en que se haya incurrido en su producción, quedarán a favor de este último.
+
+NOVENO.- El Banco de México podrá poner en circulación en cualquier tiempo los billetes con fecha de emisión anterior a la entrada en vigor de la presente Ley.
+
+DECIMO.- El Banco podrá seguir desempeñando el cargo de fiduciario en los fideicomisos que actualmente maneja, que no estén previstos en el artículo 7o. fracción XI, pudiendo recibir de dichos fideicomisos depósitos bancarios de dinero.
+
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+Los créditos que el Banco de México haya otorgado con anterioridad a la fecha de entrada en vigor de la presente Ley a los fideicomisos públicos de fomento económico que administra, podrán mantenerse hasta su vencimiento e incluso renovarse una o más veces por un plazo conjunto no mayor de veinte años.
+
+En caso de fideicomisos distintos de los señalados en el segundo párrafo de este artículo, el Banco quedará facultado para renunciar a la encomienda fiduciaria cuando así lo estime conveniente. En estos casos el fiduciario sustituto será designado por las personas que a continuación se señalan, en el orden en que están mencionadas: las facultadas para ello de conformidad con el acto jurídico que rija al fideicomiso; el o los fideicomitentes; el o los fideicomisarios, individualizados, o, a falta de las anteriores, el propio Banco de México. En tanto el Banco continúe siendo fiduciario en estos fideicomisos podrá concederles financiamiento con carácter extraordinario para evitar eventuales incumplimientos de sus obligaciones.
+
+DECIMO PRIMERO.- En tanto el Banco de México expide las disposiciones a que se refiere esta Ley, seguirán aplicándose las emitidas con anterioridad a su vigencia, en las materias correspondientes. Las medidas administrativas dictadas con fundamento en disposiciones que por esta Ley se derogan, continuarán en vigor hasta que no sean revocadas o modificadas por las autoridades competentes.
+
+DECIMO SEGUNDO.- A los intermediarios financieros que hayan realizado operaciones con anterioridad a la entrada en vigor de la presente Ley, en contravención a las disposiciones que por ésta se derogan, les serán aplicables las disposiciones vigentes al momento en que se hayan realizado tales operaciones.
+
+DECIMO TERCERO.- El último ejercicio financiero del Banco de México, organismo descentralizado del Gobierno Federal, comenzará el 1o. de enero de 1994 y terminará el 31 de marzo de 1994. Durante dicho ejercicio la Institución no quedará sujeta a lo dispuesto por el artículo 7o. de la Ley Orgánica del Banco de México.
+
+El primer ejercicio financiero del Banco de México que regula esta Ley se iniciará el 1o. de abril de 1994 y terminará el 31 de diciembre de 1994.
+
+El remanente de operación del Banco de México correspondiente al ejercicio a que se refiere el párrafo primero de este artículo, deberá entregarse al Gobierno Federal a más tardar en el mes de abril de 1995.
+
+DECIMO CUARTO.- El Banco de México enviará al Ejecutivo Federal y al Congreso de la Unión o, en su caso, a su Comisión Permanente, los documentos a que se refiere la fracción I del artículo 51 que correspondan al primer ejercicio de la Institución, dentro del mes inmediato siguiente a aquél en que entre en vigor la presente Ley, así como un informe sobre la evolución del financiamiento interno del Banco de México y del comportamiento de la cuenta de la Tesorería de la Federación que el propio Banco le lleva al Gobierno Federal, durante los meses de enero a marzo de 1994.
+
+Respecto del primer ejercicio de la Institución, el Banco no estará obligado a entregar el informe a que se refiere la fracción II del artículo 51.
+
+DECIMO QUINTO.- A partir de la entrada en vigor de la presente Ley y hasta en tanto el valor real total del capital más las reservas de la Institución sea superior al veinte por ciento del total de los billetes y monedas en circulación más las obligaciones de la Institución a favor de entidades financieras y del Gobierno Federal, excepto los depósitos a que se refiere la fracción I del artículo 9o., dicho valor total no será incrementado conforme al crecimiento del producto interno bruto en los términos del artículo 53. Durante el lapso referido, el Gobierno Federal y el Banco podrán acordar reducciones al citado valor real total, siempre que ellas no impliquen disminuir dicho valor a una cantidad que represente un porcentaje inferior al mencionado ni tampoco tengan por consecuencia expansión monetaria.
+
+DECIMO SEXTO.- Los depósitos a que se refiere el artículo 132 de la Ley General de Títulos y Operaciones de Crédito deberán constituirse en Nacional Financiera, S.N.C. Aquéllos recibidos por el Banco de México con anterioridad al inicio de vigencia de esta Ley serán conservados y entregados por éste de conformidad con las disposiciones aplicables.
+
+DECIMO SEPTIMO.- Cuando las leyes, reglamentos, decretos, acuerdos u otros ordenamientos jurídicos hagan mención a la Ley Orgánica del Banco de México, o a este último, la referencia se entenderá hecha a la presente Ley y a la Institución que ésta regula, respectivamente.
+
+DECIMO OCTAVO.- Se abroga la Ley Orgánica del Banco de México del 21 de diciembre de 1984.
+
+Se derogan los artículos 31 fracción IV de la Ley Orgánica de la Administración Pública Federal, 13, párrafos primero y segundo de la Ley Monetaria de los Estados Unidos Mexicanos, 48, párrafo segundo y décimo segundo transitorio de la Ley de Instituciones de Crédito, 24 de la Ley Orgánica del Patronato del Ahorro Nacional y las demás disposiciones que se opongan a la presente Ley.
+
+Se deja sin efecto, en lo referente al Banco de México, lo previsto en la fracción VII del artículo 31 de la Ley Orgánica de la Administración Pública Federal, en los artículos 1o., 8o. y 14 de la Ley que crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, así como en los artículos 1o., 2o., 8o., y 21, fracción IV, del reglamento de dicha Ley.
+
+México, D.F., a 14 de diciembre de 1993.- Dip. Cuauhtémoc López Sánchez, Presidente.- Sen. Eduardo Robledo Rincón, Presidente.- Dip. Sergio González Santa Cruz, Secretario.- Sen. Israel Soberanis Nogueda, Secretario.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 17 DE NOVIEMBRE DE 1995.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Lo dispuesto en el artículo 118-A de la Ley de Instituciones de Crédito se aplicará a los modelos de contratos de adhesión que sirvan de base para la celebración de contratos a partir del inicio de la vigencia del presente Decreto.
+
+TERCERO.- Las instituciones de crédito deberán establecer las unidades especializadas a que se refiere el artículo 118-B de la Ley de Instituciones de Crédito, en un plazo máximo de noventa días contado a partir del inicio de la vigencia del presente Decreto.
+
+CUARTO.- Las reclamaciones presentadas por los usuarios del servicio de banca y crédito ante la Comisión Nacional Bancaria y de Valores, con anterioridad al inicio de la vigencia del presente Decreto, continuarán su trámite hasta su conclusión en los términos establecidos por los artículos 119 y 120 de la Ley de Instituciones de Crédito, que se encontraban vigentes al momento de su presentación.
+
+QUINTO.- Lo establecido en los artículos segundo y tercero transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley para Regular las Agrupaciones Financieras, Ley de Instituciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley del Mercado de Valores, Ley de Sociedades de Inversión, Ley General de Instituciones y Sociedades Mutualistas de Seguros y Ley Federal de Instituciones de Fianzas, publicado en el Diario Oficial de la Federación el 23 de diciembre de 1993, no es aplicable a las sociedades financieras de objeto limitado, arrendadoras financieras, empresas de factoraje financiero e instituciones de seguros, filiales, que resulten de las adquisiciones que sean autorizadas por la Secretaría de Hacienda y Crédito Público.
+
+SEXTO.- Las sociedades financieras de objeto limitado, organizaciones auxiliares del crédito, casas de cambio, instituciones de seguros e instituciones de fianzas, deberán efectuar, en su caso, los actos corporativos necesarios para ajustar sus estatutos a lo dispuesto por el presente Decreto, dentro de un plazo máximo de ciento veinte días contado a partir del inicio de la vigencia del mismo.
+
+SEPTIMO.- Se abroga la Ley sobre el Servicio de Vigilancia de Fondos y Valores de la Federación, publicada en el Diario Oficial de la Federación de fecha 31 de diciembre de 1959; sin embargo, seguirá siendo aplicable en lo referente a las infracciones y faltas que se hubiesen cometido durante la vigencia del referido ordenamiento.
+
+OCTAVO.- Las disposiciones del Reglamento de la Ley sobre el Servicio de Vigilancia de Fondos y Valores de la Federación, continuarán vigentes en tanto no se reforme, en lo conducente, el Reglamento de la Ley del Servicio de Tesorería de la Federación.
+
+NOVENO.- Lo dispuesto por los artículos 25, 26, 27 y 28 de la Ley del Servicio de Tesorería de la Federación, se aplicará a las solicitudes de dación de bienes o servicios en pago que se presenten a partir de la fecha de inicio de la vigencia de este Decreto.
+
+D.O.F. 23 DE ENERO DE 1998.
+
+ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 19 DE ENERO DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El artículo segundo del presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 2000.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
+
+D.O.F. 25 DE MAYO DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Banco de México expedirá las disposiciones de carácter general a que se refiere el artículo 4 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros en un plazo de sesenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto.
+
+Tercero. Las Entidades contarán con un plazo de noventa días naturales, contados a partir del día siguiente a la entrada en vigor del presente Decreto, para dar cumplimiento a lo dispuesto por el artículo 4 Bis 1 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y 48 Bis 2 de la Ley de Instituciones de Crédito en materia de producto básico de tarjeta de crédito.
+
+Cuarto. Las Personas que operen antes de la entrada en vigor del presente Decreto como Cámaras de Compensación en términos de lo dispuesto por los artículos 19 y 19 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, tendrán un plazo de noventa días naturales contados a partir de la fecha en que entren en vigor las disposiciones de carácter general que se emitan al amparo de los citados preceptos, para presentar la solicitud de autorización respectiva.
+
+Quinto. Las Sociedades contarán con un plazo de ciento ochenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto para cumplir con las obligaciones a que se refieren los artículos 2 y 36 Bis de la Ley para Regular las Sociedades de Información Crediticia.
+
+Las Sociedades de Información Crediticia contarán con un plazo de hasta ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para presentar a la Comisión el acuerdo mencionado en el artículo 36 de la citada Ley.
+
+Las sociedades de información crediticia deberán obtener la autorización de la Comisión Nacional Bancaria y de Valores respecto de las tarifas que dichas sociedades deberán ofrecer a sus Usuarios por los reportes de crédito, en términos del artículo 36 Bis de la Ley para Regular las Sociedades de Información Crediticia dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Sexto. Para los efectos del artículo 20, las Sociedades deberán eliminar, en un plazo no mayor a 90 días naturales, de sus bases de datos los registros cuyo origen no haya sido informado por los Usuarios con anterioridad a la presente reforma. Para su reinscripción, los Usuarios deberán especificar las fechas de origen del crédito y de su primer incumplimiento, éste último no podrá ser mayor a 72 meses.
+
+###### ARTICULO 27.
+
+El Banco de México podrá imponer multas a los intermediarios financieros por las operaciones activas, pasivas o de servicios, que realicen en contravención a la presente Ley o a las disposiciones que éste expida, hasta por un monto equivalente al que resulte de aplicar, al importe de la operación de que se trate y por el lapso en que esté vigente, una tasa anual de hasta el cien por ciento del costo porcentual promedio de captación que el Banco estime representativo del conjunto de las instituciones de crédito para el mes o meses de dicha vigencia y que publique en el Diario Oficial de la Federación.
+
+El Banco fijará las multas a que se refiere el párrafo anterior, tomando en cuenta:
+
+I. El importe de las ganancias que para dichos intermediarios resulten de las operaciones celebradas en contravención a las disposiciones citadas;
+
+II. Los riesgos en que hayan incurrido los intermediarios por la celebración de tales operaciones, y
+
+III. Si el infractor es reincidente.
+
+###### ARTICULO 28.
+
+El Banco de México estará facultado para determinar la parte de los pasivos de las instituciones de crédito, que deberá estar invertida en depósitos de efectivo en el propio Banco, con o sin causa de intereses, en valores de amplio mercado o en ambos tipos de inversiones.
+
+Lo dispuesto en el párrafo anterior, también será aplicable a los fideicomisos, mandatos o comisiones, excepto a los constituidos por el Gobierno Federal, mediante los cuales instituciones fiduciarias capten recursos del público, o bien, reciban fondos destinados al otorgamiento de créditos o a la inversión en valores.
+
+Las inversiones obligatorias referidas en los párrafos primero y segundo de este artículo no podrán exceder, respectivamente, del veinte y del cincuenta por ciento de los pasivos o fondos correspondientes.
+
+El Banco podrá también determinar que hasta el cien por ciento del importe de los recursos captados por las instituciones de crédito con fines específicos o de conformidad con regímenes especiales previstos en ley, se mantenga invertido en determinados renglones de activo consecuentes con tales fines o regímenes.
 
 ### CAPÍTULO VI. Del Registro Estatal para el Control del Acoso Escolar
 
-###### Artículo 29.
+###### ARTICULO 29.
 
-Se crea el Registro Estatal para el Control del Acoso Escolar, que compilará con detalle las estadísticas de los casos de acoso escolar que tengan lugar en el Estado y que servirá como base para la elaboración de un informe anual sobre el acoso escolar.
+El Banco de México podrá imponer multas a los intermediarios financieros por incurrir en faltantes respecto de las inversiones que deban mantener conforme a lo dispuesto en el artículo 28. El monto de dichas multas no podrá exceder de la cantidad que resulte de aplicar, al importe de los referidos faltantes, una tasa anual de hasta el trescientos por ciento del costo porcentual promedio de captación que el Banco estime representativo del conjunto de las instituciones de crédito para el mes respectivo, y que publique en el Diario Oficial de la Federación.
 
-###### Artículo 30.
+El Banco fijará las multas a que se refiere el párrafo anterior, tomando en cuenta las causas que hayan originado los citados faltantes y, particularmente, si éstos obedecen a retiros anormales de fondos, a situaciones críticas de los intermediarios, o a errores u omisiones de carácter administrativo en los que, a criterio del propio Banco, no haya mediado mala fe.
 
-El informe anual contendrá, como mínimo, la información relativa a:
+###### ARTICULO 30.
 
-I. La incidencia del acoso escolar y represalias en la entidad, por municipio, por escuela y por grado escolar;
+Los representantes del Banco en las juntas de gobierno de las comisiones supervisoras del sistema financiero, estarán facultados para suspender hasta por cinco días hábiles la ejecución de las resoluciones de dichas comisiones que puedan afectar la política monetaria. Dentro de ese plazo, el Banco deberá comunicar sus puntos de vista a la junta de gobierno respectiva para que ésta resuelva en definitiva.
 
-II. La vigilancia y la implementación de los Planes de Prevención e Intervención en las escuelas;
-
-III. Los casos de acoso escolar y su repercusión en el sector salud y seguridad pública;
-
-IV. La implementación de sanciones;
-
-V. En todos los casos, el informe reservará los datos personales de los involucrados en el acoso, de conformidad con las leyes de la materia.
+Las resoluciones de las autoridades competentes sobre la adquisición de valores a cargo del Gobierno Federal o del Banco de México, por sociedades de inversión, deberán someterse a la aprobación del Banco Central, antes de proceder a su ejecución.
 
 ### CAPÍTULO ÚNICO
 
@@ -415,141 +931,49 @@ V. En todos los casos, el informe reservará los datos personales de los involuc
 
 ### CAPÍTULO I. De las Sanciones para los Autores y Cómplices
 
-###### Artículo 31.
+###### ARTICULO 31.
 
-Cualquier persona tendrá acceso a la información obtenida a través del Registro Estatal para el Control del Acoso Escolar, de conformidad con las disposiciones de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Coahuila de Zaragoza.
-
-La Secretaría garantizará el libre, pleno y permanente acceso a la información contenida en el Registro para el Control del Acoso Escolar y será la responsable de publicarlo en su portal de transparencia y acceso a la información.
+El Banco Central podrá regular el servicio de transferencias de fondos a través de instituciones de crédito y de otras empresas que lo presten de manera profesional.
 
 ## TÍTULO CUARTO. De la Vigilancia y Sanciones
 
 ### CAPÍTULO II. De las Sanciones para el Personal Escolar
 
-###### Artículo 32.
+###### ARTICULO 32.
 
-Las sanciones o medidas disciplinarias para los autores, cómplices de acoso escolar o represalias en las modalidades establecidas en esta Ley serán las siguientes:
+Las instituciones de crédito, los intermediarios bursátiles, las casas de cambio, así como otros intermediarios cuando formen parte de grupos financieros, o sean filiales de las instituciones o intermediarios citados en primer término, ajustarán sus operaciones con divisas, oro y plata a las disposiciones que expida el Banco de México. Este, en igualdad de condiciones, tendrá preferencia sobre cualquier otra persona en operaciones de compraventa y otras que sean usuales en los mercados respectivos.
 
-I. Amonestación privada: Advertencia verbal y mediante un reporte escrito de manera preventiva que se hace al autor o cómplice sobre las consecuencias de su conducta, y de las medidas aplicables frente a una futura reincidencia;
+Los citados intermediarios estarán obligados, siempre que el Banco así lo disponga, a constituir depósitos de dinero a la vista a favor de éste y a cargo de entidades de primer orden del exterior, denominados en la moneda extranjera en la que el Banco usualmente haga su intervención en el mercado de cambios, por el monto en que los activos de aquéllos en divisas, oro y plata, exceda sus obligaciones en dichos efectos. El Banco abonará a los intermediarios el contravalor en moneda nacional de esos depósitos, calculado al tipo de cambio publicado por el propio Banco en el Diario Oficial de la Federación en la fecha en que dicte el acuerdo respectivo. Las divisas distintas de la referida, así como el oro y la plata, se valuarán en los términos de las disposiciones que expida el Banco, las cuales no podrán establecer términos apartados de las condiciones del mercado en la fecha citada.
 
-II. Tratamiento y/o tratamiento especializado: Obligación del autor o cómplice a dar cumplimiento a las medidas correctivas a que haya lugar;
+El Banco tomando en cuenta la gravedad del caso, podrá ordenar a los intermediarios financieros que infrinjan lo dispuesto en este artículo, la suspensión hasta por seis meses de todas o algunas de sus operaciones con divisas, oro o plata.
 
-III. Suspensión de clases: Cese temporal de asistencia a clases, acompañada de las tareas que, de acuerdo al programa de estudio vigente, deba realizar durante el tiempo que determine el Director escolar de acuerdo al Reglamento correspondiente; y
+###### ARTICULO 33.
 
-IV. Transferencia a otra escuela: Reubicación definitiva de la escuela donde se encuentre el autor o cómplice, cuando hayan sido agotadas las sanciones anteriores y exista reincidencia en su conducta. Se canalizará al Sistema Educativo para su reubicación.
+El Banco de México podrá establecer límites al monto de las operaciones activas y pasivas que impliquen riesgos cambiarios de los intermediarios mencionados en el artículo 32.
 
-###### Artículo 33.
+El Banco podrá imponer multas a los intermediarios financieros que transgredan las disposiciones expedidas conforme a lo señalado en el párrafo anterior, hasta por un monto equivalente al cinco por ciento del capital pagado y reservas de capital del intermediario de que se trate.
 
-Los directores escolares o su designado serán los responsables de aplicar, previa investigación, la sanción correspondiente, respetando el derecho del alumno a ser escuchado por sí o por medio de sus padres.
+El Banco fijará las multas a que se refiere el párrafo anterior, tomando en cuenta lo dispuesto en las fracciones I a III del artículo 27.
 
-###### Artículo 34.
+###### ARTICULO 34.
 
-Cuando la gravedad de la conducta de acoso escolar tenga consecuencias penales se procederá conforme al Plan de Intervención, dando parte a la autoridad competente.
+Las dependencias y las entidades de la Administración Pública Federal que no tengan el carácter de intermediarios financieros, deberán mantener sus divisas y realizar sus operaciones con éstas, sujetándose a las normas, orientaciones y políticas que el Banco de México establezca. Al efecto, proporcionarán al Banco la información que les solicite respecto de sus operaciones con moneda extranjera y estarán obligadas a enajenar sus divisas al propio Banco en los términos de las disposiciones que éste expida, las cuales no podrán establecer términos apartados de las condiciones del mercado.
 
 ### CAPÍTULO III. Del Recurso de Revisión
 
-###### Artículo 35.
+###### ARTICULO 35.
 
-El personal escolar se hará acreedor a una sanción cuando:
+El Banco de México expedirá las disposiciones conforme a las cuales se determine el o los tipos de cambio a que deba calcularse la equivalencia de la moneda nacional para solventar obligaciones de pago en moneda extranjera, contraídas dentro o fuera de la República para ser cumplidas en ésta. También podrá determinar los tipos de cambio aplicables a las operaciones por las que se adquieran divisas contra entrega de moneda nacional, siempre que ambas o alguna de estas prestaciones se cumpla en territorio nacional.
 
-I. Tolere o consienta el acoso escolar o represalias;
+###### ARTICULO 36.
 
-II. No tome las medidas para prevenir e intervenir en los casos de acoso escolar o represalias;
+Los intermediarios financieros estarán obligados a suministrar al Banco de México la información que éste les requiera sobre sus operaciones incluso respecto de alguna o algunas de ellas en lo individual, los datos que permitan estimar su situación financiera y, en general, aquélla que sea útil al Banco para proveer el adecuado cumplimiento de sus funciones.
 
-III. Utilice la fuerza en contra de algún alumno sin justificación;
+Las comisiones supervisoras del sistema financiero, a solicitud del Banco de México, realizarán visitas a los intermediarios, que tendrán por objeto revisar, verificar y evaluar la información que de conformidad con el párrafo anterior hayan presentado. En dichas visitas podrá participar personal del propio Banco.
 
-IV. Oculte a los padres o tutores de los autores, cómplices o víctimas, los casos de acoso escolar o represalias;
+###### ARTICULO 37.
 
-V. Proporcione información falsa u oculte información a las autoridades competentes, sobre hechos de violaciones a esta Ley;
-
-VI. Cometa otra acción u omisión contrarias a este ordenamiento; y
-
-VII. Las previstas en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza.
-
-###### Artículo 36.
-
-Para el personal escolar que incumpla con las disposiciones establecidas en esta Ley se prevén las siguientes sanciones:
-
-I. Reporte en su expediente personal;
-
-II. Suspensión en el ejercicio de sus labores docentes o administrativas, hasta por un año, sin goce de sueldo, y sin ser computado para efectos de antigüedad; y
-
-III. Inhabilitación para desempeñarse en cualquier cargo del personal escolar por un año o más, o en forma definitiva. La Secretaría podrá apercibir de manera privada a la institución educativa que incumpla con las obligaciones de esta Ley, amonestarla públicamente cuando se reincida en el incumplimiento o proceder a su clausura cuando las dos sanciones anteriores hayan sido insuficientes para subsanar el incumplimiento.
-
-###### Artículo 37.
-
-En contra de las resoluciones de las autoridades educativas dictadas con fundamento en las disposiciones de esta Ley y demás derivadas de ésta, podrá interponerse el Recurso Administrativo de Revisión previsto en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza.
-
-T R A N S I T O R I O S
-
-Primero.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado.
-
-Segundo.- La Secretaría de Educación, en coordinación con las Secretarías de Salud y de Gobierno y el Sistema para el Desarrollo Integral de la Familia, implementará el Registro Estatal para el Control del Acoso Escolar, dentro de los noventa días naturales posteriores al inicio de vigencia de la presente Ley.
-
-Tercero.- El Plan de Prevención del Acoso Escolar y el Plan de Intervención en Casos de Acoso Escolar deberán ser publicados en la Periódico Oficial del Estado, dentro de los ciento veinte días naturales posteriores a la entrada en vigor de esta Ley.
-
-DADO en el Salón de Sesiones del Congreso del Estado, en la Ciudad de Saltillo, Coahuila de Zaragoza, a los trece días del mes de octubre del año dos mil quince.
-
-DIPUTADA PRESIDENTA
-
-GEORGINA CANO TORRALVA
-
-(RÚBRICA)
-
-DIPUTADO SECRETARIO
-
-JAVIER DÍAZ GONZÁLEZ
-
-(RÚBRICA)
-
-DIPUTADA SECRETARIA
-
-LARIZA MONTIEL LUIS
-
-(RÚBRICA)
-
-IMPRÍMASE, COMUNÍQUESE Y OBSÉRVESE
-
-Saltillo, Coahuila de Zaragoza, a 12 de noviembre de 2015
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
-
-RUBÉN IGNACIO MOREIRA VALDEZ
-
-(RÚBRICA)
-
-EL SECRETARIO DE GOBIERNO
-
-VÍCTOR MANUEL ZAMORA RODRÍGUEZ
-
-(RÚBRICA)
-
-EL SECRETARIO DE EDUCACIÓN
-
-JESÚS JUAN OCHOA GALINDO
-
-(RÚBRICA)
-
-EL SECRETARIO DE SALUD
-
-HÉCTOR MARIO ZAPATA DE LA GARZA
-
-(RÚBRICA)
-
-LA PROCURADORA PARA LOS NIÑOS, NIÑAS Y LA FAMILIA
-
-YEZKA GARZA RAMÍREZ
-
-(RÚBRICA)
-
-EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
-
-HOMERO RAMOS GLORIA
-
-(RÚBRICA)
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 20 DE JUNIO DE 2017.
+El Banco de México podrá suspender todas o algunas de sus operaciones con los intermediarios financieros que infrinjan la presente Ley o las disposiciones que emanen de ella.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 853.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 26 DE LA LEY ESTATAL DE EDUCACIÓN Y SE REFORMA EL ARTÍCULO 1, Y LA FRACCIÓN VIII DEL ARTÍCULO 3 DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
