@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2019-12-04"
+last_updated: "2020-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE ENERO DE 2020.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -356,9 +356,11 @@ L) Las Direcciones Generales, Ejecutivas o de Área encargadas de la administrac
 
 M) Coordinación General de Evaluación, Modernización y Desarrollo Administrativo, a la que le quedan adscritas:
 
-1. Dirección Ejecutiva de Desarrollo Organizacional;
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2020)</small>
 
-2. Dirección Ejecutiva de Análisis Normativo y Seguimiento Sectorial; y
+1. Dirección Ejecutiva de Desarrollo Organizacional; y
+
+2. (DEROGADO, G.O. 31 DE ENERO DE 2020)
 
 3. Dirección Ejecutiva de Evaluación y Registro Ocupacional;
 
@@ -650,11 +652,23 @@ A) Subsecretaría del Transporte, a la que quedan adscritas:
 
 B) Subsecretaría de Planeación, Políticas y Regulación, a la que quedan adscritas:
 
-1. Dirección General de Coordinación de Organismos Públicos y Proyectos Estratégicos;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 31 DE ENERO DE 2020)</small>
+
+1. Dirección General de Coordinación de Organismos Públicos y Proyectos Estratégicos, a la que le queda adscrita:
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2020)</small>
+
+1.1. Dirección Ejecutiva de Tecnologías de Recaudo.
 
 2. Dirección General de Planeación y Políticas; y.
 
-3. Dirección General de Seguridad Vial y Sistemas de Movilidad Urbana Sustentable;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 31 DE ENERO DE 2020)</small>
+
+3. Dirección General de Seguridad Vial y Sistemas de Movilidad Urbana Sustentable, a la que le queda adscrita:
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2020)</small>
+
+3.1. Dirección Ejecutiva de Regulación de Sistemas de Movilidad Urbana Sustentable.
 
 C) Dirección General de Asuntos Jurídicos.
 
@@ -686,9 +700,21 @@ A) Subsecretaria de Infraestructura, a la que quedan adscritas:
 
 1.- Dirección General de Construcción de Obras Públicas;
 
-2.- Dirección General de Servicios Técnicos; y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 31 DE ENERO DE 2020)</small>
 
-3.- Dirección General de Obras para el Transporte.
+2.- Dirección General de Servicios Técnicos, a la que le queda adscrita:
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2020)</small>
+
+2.1. Dirección Ejecutiva de Proyectos de Obras Públicas.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 31 DE ENERO DE 2020)</small>
+
+3.- Dirección General de Obras para el Transporte, a la que le queda adscrita:
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2020)</small>
+
+3.1.- Dirección Ejecutiva de Construcción del Sistema Cablebús.
 
 B) Subsecretaria de Servicios Urbanos, a la que quedan adscritas:
 
@@ -1752,37 +1778,59 @@ XI. Proponer a la persona Titular de la Secretaria la reglamentación en materia
 
 XII. Supervisar que los servicios públicos y privados de transporte, de pasajeros y carga, además de ser eficientes y eficaces, garanticen la seguridad de los usuarios, los derechos de los permisionarios y concesionarios y el cumplimiento de sus obligaciones;
 
-XIII. Coadyuvar en el ámbito de sus facultades en la aplicación de las sanciones previstas en la presente Ley, previo cumplimiento del procedimiento legal correspondiente;
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2020)</small>
 
-XIV. Autorizar el establecimiento del programa de financiamiento para aquéllos concesionarios que adquieran tecnologías sustentables o accesorios que favorezcan la reducción de emisiones contaminantes de sus unidades de transporte;
+XIII. Coordinar, en el ámbito de su competencia, atención a las víctimas involucradas por hechos de tránsito en el transporte público y especializado;
 
-XV. Supervisar los dictámenes, autorizaciones y la regulación de los proyectos para la prestación del servicio de transporte mercantil y privado tanto de pasajeros como de carga, con base en los lineamientos que fije la normatividad correspondiente;
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2020)</small>
 
-XVI. Supervisar el otorgamiento de permisos temporales para la prestación del servicio de transporte público, a personas físicas y morales, aún y cuando no sean concesionarias, en casos de suspensión total o parcial del servicio, por causas de caso fortuito, fuerza mayor o por necesidades de interés público;
+XIV. Coordinar, en el ámbito de su competencia, mesas de trabajo con las Dependencias involucradas en la atención de hechos de tránsito, a fin de dar atención a los hechos que se susciten en el transporte público y especializado;
 
-XVII. Dirigir la facilitación de estudios que sustenten la necesidad de otorgar nuevas concesiones para la prestación del servicio de transporte público de pasajeros y de carga, así como para aprobar el establecimiento de nuevos sistemas, rutas de transporte, y las modificaciones de las ya existentes; tomando como base los objetivos, metas y previsiones establecidas en el Programa Integral de Movilidad;
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2020)</small>
 
-XVIII. Contribuir a determinar y autorizar las características y especificaciones técnicas de las unidades, parque vehicular e infraestructura de los servicios de transporte de pasajeros y carga;
+XV. Regular y vigilar, en el ámbito de su competencia, los protocolos de atención de hechos de tránsito en el transporte público y especializado;
 
-XIX. Coadyuvar en la emisión de acuerdos necesarios para la conservación, mantenimiento y renovación del parque vehicular destinado a la prestación de los servicios público, mercantil y privado de transporte de pasajeros y de carga, implementando las medidas adecuadas para mantener en buen estado la infraestructura utilizada para tal fin;
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2020)</small>
 
-XX. Cooperar en el ámbito de sus facultades con las autoridades locales y federales para establecer los mecanismos necesarios para regular, asignar rutas, reubicar terminales y, en su caso, ampliar o restringir el tránsito en la Ciudad de México del transporte de pasajeros y de carga del servicio público federal y metropolitano, tomando en cuenta el impacto de movilidad, el impacto ambiental, el uso del suelo, las condiciones de operación de los modos de transporte de la Ciudad de México, el orden público y el interés general;
+XVI. Planear y difundir, en coordinación y en el ámbito de su competencia, acciones de prevención de hechos de tránsito en el transporte público y especializado;
 
-XXI. Intervenir en la implementación de medidas que tiendan a satisfacer, eficientar y regular el transporte de pasajeros y de carga y, en su caso, coordinarse con las Dependencias y Entidades de la Administración Pública para este propósito;
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2020)</small>
 
-XXII. Coordinar y supervisar, con las instancias de la Administración Pública Local y Federal, la utilización de los servicios de transporte público de personas y de carga en caso de emergencia, desastres naturales y seguridad nacional;
+XVII. Coadyuvar, en el ámbito de sus competencias, con las Dependencias que procuran justicia en la investigación de hechos de tránsito;
 
-XXIII. Otorgar permisos y autorizaciones para el establecimiento de prórrogas de recorridos, bases, lanzaderas, sitios de transporte y demás áreas de transferencia para el transporte, de acuerdo a los estudios técnicos necesarios;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2020)</small>
 
-XXIV. Coadyuvar en el ámbito de sus facultades, en la implementación, control y operación de los centros de transferencia modal;
+XVIII. Coadyuvar en el ámbito de sus facultades en la aplicación de las sanciones previstas en la Ley de Movilidad del Distrito Federal, previo cumplimiento del procedimiento legal correspondiente;
 
-XXV. Autorizar cambios de unidades y fijar frecuencias y horarios de las unidades de transporte de carga y pasajeros, revisar y opinar sobre nuevos tipos y características de los mismos;
+XIX. Autorizar el establecimiento del programa de financiamiento para aquéllos concesionarios que adquieran tecnologías sustentables o accesorios que favorezcan la reducción de emisiones contaminantes de sus unidades de transporte;
 
-XXVI. Decretar la suspensión temporal o definitiva, la nulidad, cancelación o extinción de las concesiones y permisos en los casos que correspondan;
+XX. Supervisar los dictámenes, autorizaciones y la regulación de los proyectos para la prestación del servicio de transporte mercantil y privado tanto de pasajeros como de carga, con base en los lineamientos que fije la normatividad correspondiente;
 
-XXVII. Participar en comités técnicos en materias relativas al desarrollo integral de la movilidad, el transporte y planeación de vialidades, en el ámbito de sus atribuciones; y
+XXI. Supervisar el otorgamiento de permisos temporales para la prestación del servicio de transporte público, a personas físicas y morales, aún y cuando no sean concesionarias, en casos de suspensión total o parcial del servicio, por causas de caso fortuito, fuerza mayor o por necesidades de interés público;
 
-XXVIII. Las demás previstas en otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende el superior jerárquico.
+XXII. Dirigir la facilitación de estudios que sustenten la necesidad de otorgar nuevas concesiones para la prestación del servicio de transporte público de pasajeros y de carga, así como para aprobar el establecimiento de nuevos sistemas, rutas de transporte, y las modificaciones de las ya existentes; tomando como base los objetivos, metas y previsiones establecidas en el Programa Integral de Movilidad;
+
+XXIII. Contribuir a determinar y autorizar las características y especificaciones técnicas de las unidades, parque vehicular e infraestructura de los servicios de transporte de pasajeros y carga;
+
+XXIV. Coadyuvar en la emisión de acuerdos necesarios para la conservación, mantenimiento y renovación del parque vehicular destinado a la prestación de los servicios público, mercantil y privado de transporte de pasajeros y de carga, implementando las medidas adecuadas para mantener en buen estado la infraestructura utilizada para tal fin;
+
+XXV. Cooperar en el ámbito de sus facultades con las autoridades locales y federales para establecer los mecanismos necesarios para regular, asignar rutas, reubicar terminales y, en su caso, ampliar o restringir el tránsito en la Ciudad de México del transporte de pasajeros y de carga del servicio público federal y metropolitano, tomando en cuenta el impacto de movilidad, el impacto ambiental, el uso del suelo, las condiciones de operación de los modos de transporte de la Ciudad de México, el orden público y el interés general;
+
+XXVI. Intervenir en la implementación de medidas que tiendan a satisfacer, eficientar y regular el transporte de pasajeros y de carga y, en su caso, coordinarse con las Dependencias y Entidades de la Administración Pública para este propósito;
+
+XXVII. Coordinar y supervisar, con las instancias de la Administración Pública Local y Federal, la utilización de los servicios de transporte público de personas y de carga en caso de emergencia, desastres naturales y seguridad nacional;
+
+XXVIII. Otorgar permisos y autorizaciones para el establecimiento de prórrogas de recorridos, bases, lanzaderas, sitios de transporte y demás áreas de transferencia para el transporte, de acuerdo a los estudios técnicos necesarios;
+
+XXIX. Coadyuvar en el ámbito de sus facultades, en la implementación, control y operación de los centros de transferencia modal;
+
+XXX. Autorizar cambios de unidades y fijar frecuencias y horarios de las unidades de transporte de carga y pasajeros, revisar y opinar sobre nuevos tipos y características de los mismos;
+
+XXXI. Decretar la suspensión temporal o definitiva, la nulidad, cancelación o extinción de las concesiones y permisos en los casos que correspondan;
+
+XXXII. Participar en comités técnicos en materias relativas al desarrollo integral de la movilidad, el transporte y planeación de vialidades, en el ámbito de sus atribuciones; y
+
+XXXIII. Las demás previstas en otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende el superior jerárquico.
 
 ###### Artículo 37.
 
@@ -4370,23 +4418,7 @@ XI. Las demás que instruya la persona titular de la Coordinación General de Ev
 
 ###### Artículo 108.
 
-Corresponde a la Dirección Ejecutiva de Análisis Normativo y Seguimiento Sectorial:
-
-I. Instrumentar medidas de seguimiento y constatar las acciones jurídicas y administrativas que deriven de los procesos de desconcentración, descentralización y actualización de la Administración Pública de la Ciudad de México;
-
-II. A solicitud expresa, emitir opinión respecto de aquellos manuales administrativos y específicos de operación y de integración de cuyas funciones, se advierta una posible afectación a la esfera jurídica de terceros;
-
-III. Formular y revisar los proyectos de leyes, reglamentos, decretos, acuerdos, circulares, lineamientos, reglas y demás disposiciones e instrumentos jurídicos y administrativos, relativos al ámbito de su competencia que se pretendan someter a la aprobación de la persona titular de la Secretaría de Administración y Finanzas;
-
-IV. Integrar y coordinar los trabajos de actualización de la normatividad en materia de Administración de Recursos, de observancia obligatoria para el adecuado funcionamiento de las Unidades Administrativas encargadas de la Administración y las Finanzas, y de las dependencias, órganos desconcentrados y entidades de la Administración Pública de la Ciudad de México;
-
-V. Brindar apoyo a la persona titular de la Secretaría de Administración y Finanzas en la coordinación, organización, representación y seguimiento sectorial de las sesiones y acuerdos de los órganos colegiados de las dependencias, órganos y entidades de la Administración Pública de la Ciudad de México u otros, en que participe o instruya, en términos de las disposiciones jurídicas y administrativas aplicables;
-
-VI. Instrumentar acciones, proponer medidas y participar acorde a las instrucciones de la persona Titular de la Secretaría de Administración y Finanzas, en la conducción de las entidades paraestatales y en la elaboración de sus programas;
-
-VII. Realizar estudios y propuestas jurídico-administrativas sobre medidas técnicas y políticas para el seguimiento sectorial, la organización interna, desarrollo administrativo, modernización de la actuación y funcionamiento de la Administración Pública de la Ciudad de México; y
-
-VIII. Las demás que instruya la persona titular de la Coordinación General de Evaluación, Modernización y Desarrollo Administrativo, y las que se le confieran en otros instrumentos jurídicos o administrativos.
+(DEROGADO, G.O. 31 DE ENERO DE 2020)
 
 ###### Artículo 109.
 
@@ -4464,11 +4496,17 @@ IX. Dictaminar la imposición, reducción o revocación de las sanciones que pre
 
 X. Supervisar la difusión y el cumplimiento de la normatividad laboral en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
 
-XI. Acordar las normas para la profesionalización, el desarrollo laboral y personal, a través de plataformas digitales, del capital humano adscrito a las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2020)</small>
 
-XII. Supervisar el diseño e implementación de la Universidad Laboral y Escalafón Digitalizado, como un sistema de movilidad laboral ascendente de forma transparente y equitativo mediante el uso de plataformas digitales, en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
+XI. Acordar las normas para la formación profesional y continua, el desarrollo laboral y personal, a través de diversas modalidades educativas, del capital humano adscrito a las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
 
-XIII. Supervisar la operación de las prestaciones sociales y económicas en materia educativa y de estímulos y recompensas del capital humano y/o sus beneficiarios a través de plataformas digitales;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2020)</small>
+
+XII. Supervisar el diseño e implementación del Sistema Escalafonario como un sistema de movilidad laboral ascendente de forma transparente y equitativo, en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
+
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2020)</small>
+
+XIII. Supervisar la operación de las prestaciones sociales y económicas en materia educativa y de estímulos y recompensas del capital humano y/o sus beneficiarios;
 
 XIV. Coordinar la implementación de la cultura laboral a través de disposiciones normativas y acciones que coadyuven al desarrollo laboral, humano y profesional de grupos sustantivos de capital humano, así como establecer una administración eficaz y eficiente mediante el uso de las tecnologías;
 
@@ -4490,9 +4528,19 @@ XXII. Suscribir convenios que faciliten el acceso a bienes y servicios para el m
 
 XXIII. Suscribir los instrumentos jurídicos relativos al ejercicio de sus atribuciones o que le sean delegados; así como certificar, por sí o a través de sus Direcciones Ejecutivas;
 
-XXIV. Establecer la política que regule el ejercicio de los servicios de traslado, viáticos y demás erogaciones relacionadas con las comisiones oficiales nacionales e internacionales de las que sean parte las Dependencias, Órganos Desconcentrados, y Entidades de la Administración Pública de la Ciudad de México; y
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2020)</small>
 
-XXV. Las demás que le sean conferidas por la Secretaría de Administración y Finanzas, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos y/o administrativos.
+XXIV. Establecer la política que regule el ejercicio de los servicios de traslado, viáticos y demás erogaciones relacionadas con las comisiones oficiales nacionales e internacionales de las que sean parte las Dependencias, Órganos Desconcentrados, y Entidades de la Administración Pública de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2020)</small>
+
+XXV. Participar con las instancias competentes, en la planeación de medidas tendientes a garantizar dentro de la Secretaría de Administración y Finanzas la igualdad sustantiva entre hombres y mujeres, así como la erradicación, prevención y sanción de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2020)</small>
+
+XXVI. Coordinar, dirigir e instrumentar, en el ámbito de sus atribuciones, acciones para promover y garantizar al interior de la Secretaría de Administración y Finanzas la igualdad sustantiva entre mujeres y hombres, así como en la prevención, investigación y sanción de conductas relacionadas con la violencia contra las mujeres; y
+
+XXVII. Las demás que le sean conferidas por la Secretaría de Administración y Finanzas, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos y/o administrativos.
 
 > <small>(REFORMADO, G.O. 11 DE OCTUBRE DE 2019)</small>
 
@@ -4552,7 +4600,9 @@ XXV. Impulsar la generación del conocimiento a través de la implementación de
 
 XXVI. Dirigir, normar y supervisar el diseño, la implementación y la evaluación de los cursos de inducción relativos a la organización, estructuración y relación laboral, al capital humano de nuevo ingreso que vaya a ocupar plaza de base o estabilidad laboral en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
 
-XXVII. Dirigir, normar y supervisar la movilidad laboral y profesional ascendente del capital humano a través del servicio profesional de carrera; así como emitir dictámenes en materia de formación continua y capacitación para el sistema escalafonario;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2020)</small>
+
+XXVII. Coadyuvar en la movilidad laboral y profesional ascendente del capital humano a través del Sistema Escalafonario, mediante la emisión de dictámenes en materia de formación continua y capacitación;
 
 XXVIII. Normar e implementar la cultura laboral de las y los trabajadores de la Administración Pública de la Ciudad de México mediante acciones y herramientas que permitan realizar acciones afirmativas a favor de los grupos en situación de vulnerabilidad del capital humano, generando la eficacia y eficiencia de la Administración Pública de la Ciudad de México;
 
@@ -4564,15 +4614,31 @@ XXXI. Normar y vigilar el funcionamiento, así como la operación de los Centros
 
 XXXII. Proponer la suscripción de los documentos relativos al ejercicio de sus atribuciones;
 
-XXXIII. Dar seguimiento a los procedimientos en materia de Derechos Humanos, promover y realizar las acciones de coordinación para su atención, acorde al ámbito de su competencia y conforma (sic) a las directrices de la Secretaría de Administración y Finanzas;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2020)</small>
+
+XXXIII. Dar seguimiento a los procedimientos en materia de Derechos Humanos, promover y realizar las acciones de coordinación para su atención, acorde al ámbito de su competencia y conforme a las directrices de la Secretaría de Administración y Finanzas;
 
 XXXIV. Participar como enlace ante las instancias competitivas en materia de derechos humanos y en su caso celebrar acuerdos o convenios para promoción y capacitación en derechos humanos;
 
-XXXV. Instrumentar las acciones necesarias para la atención de requerimientos y programas que se implementen vinculadas a la operación de la Secretaria de Administración y Finanzas;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2020)</small>
 
-XXXVI. Coordinar, en su caso, las acciones interinstitucionales que atiendan y promuevan la igualdad sustantiva entre mujeres y hombres, de conformidad con el ámbito de su competencia; y
+XXXV. Instrumentar las acciones necesarias para la atención de requerimientos y programas que se implementen en materia de derechos humanos, formación continua, capacitación e igualdad sustantiva, vinculadas a la operación de la Secretaría de Administración y Finanzas;
 
-XXXVII. Las demás que le sean conferidas por la Dirección General de Administración de Personal, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos de la legislación local o federal.
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2020)</small>
+
+XXXVI. Coordinar en el ámbito de sus atribuciones, las acciones que atiendan y promuevan la igualdad sustantiva entre mujeres y hombres, y la erradicación, prevención y sanción de la violencia contra las mujeres al interior de la Secretaria de Administración y Finanzas;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2020)</small>
+
+XXXVII. Participar y colaborar en el ámbito de sus atribuciones con las instancias competentes, en el diseño de políticas y acciones, para promover y garantizar al interior de la Secretaría de Administración y Finanzas la igualdad sustantiva entre mujeres y hombres, así como la erradicación de conductas relacionadas con la violencia contra las mujeres al interior de dicha Secretaría;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2020)</small>
+
+XXXVIII. Elaborar y aplicar en coordinación con las instancias competentes, herramientas metodológicas y procedimientos para el seguimiento y evaluación de las acciones institucionales realizadas para garantizar la igualdad sustantiva entre mujeres y hombres, así como la erradicación de conductas relacionadas con la violencia contra las mujeres al interior de la Secretaría; y
+
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XXXVII], G.O. 31 DE ENERO DE 2020)
+
+XXXIX. Las demás que le sean conferidas por la Dirección General de Administración de Personal, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos de la legislación local o federal.
 
 > <small>(REFORMADO, G.O. 11 DE OCTUBRE DE 2019)</small>
 
@@ -8126,9 +8192,33 @@ I. Realizar la evaluación financiera y presupuestal de organismos públicos del
 
 II. Regular la coordinación estratégica con los organismos públicos del sector;
 
-III. Crear y desarrollar un sistema de información integral del Sector con el apoyo de las diversas Unidades Administrativas de la Secretaría; integrar una base de datos que contenga información estadística y de gestión que dé soporte a la toma de decisiones; y
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2020)</small>
 
-IV. Las demás previstas en otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende el superior jerárquico.
+III. Crear y desarrollar el Sistema de Información y Seguimiento de Movilidad, con el apoyo de los organismos de transporte público y entidades que correspondan, que permita dar seguimiento y difusión a la información del sector de movilidad;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2020)</small>
+
+IV. Colaborar en el ámbito de su competencia, en la planeación, regulación, implementación y evaluación de tecnologías y procedimientos para el cobro de la tarifa de transporte público y para la gestión del recaudo de los organismos de transporte público; y
+
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN IV], G.O. 31 DE ENERO DE 2020)
+
+V. Las demás previstas en otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende el superior jerárquico.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2020)</small>
+
+###### Artículo 194 Bis.
+
+Corresponde a la Dirección Ejecutiva de Tecnologías de Recaudo:
+
+I. Colaborar en la coordinación y asesoramiento para la planeación e implementación de tecnologías interoperables y seguras para el cobro de la tarifa de transporte público y para el recaudo de los organismos del sector de transporte público;
+
+II. Coadyuvar, con los organismos del sector de transporte público, en la elaboración de lineamientos, reglas, protocolos y procedimientos homologados en materia de recaudo;
+
+III. Cooperar en el ámbito de sus atribuciones, con el análisis, resguardo y seguridad de la información en materia de recaudo de los organismos del sector de transporte público;
+
+IV. Coadyuvar, en el ámbito de su competencia, con la coordinación y supervisión de las gratuidades que se otorgan por parte de los organismos de transporte público; y
+
+V. Las demás previstas en otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende el superior jerárquico.
 
 ###### Artículo 195.
 
@@ -8146,107 +8236,171 @@ V. Elaborar estudios técnicos, estratégicos y de análisis de la Movilidad, tr
 
 VI. Crear y desarrollar políticas integrales para el desarrollo de la Infraestructura Ciclista y Peatonal en la Ciudad de México;
 
-VII. Elaborar y mantener actualizados en materia de planeación, programación, abastecimiento, seguimiento y medición de indicadores de gestión y resultados de los Programas Institucional, Sectoriales, Metropolitano y Especiales de injerencia de la Secretaria correspondientes a la Movilidad y Seguridad Vial;
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2020)</small>
 
-VIII. Definir y diseñar los lineamientos, normas y reglas de ocupación de vías de acuerdo a la clasificación existentes de las mismas, así como en materia de Protección Civil de manera coordinada con las Dependencias de Gobierno, Seguridad Pública y Servicios de Emergencia de la Ciudad de México;
+VII. Planear, revisar y validar en coordinación con la Dirección General de Licencias y Operación del Transporte Vehicular, el desarrollo de estudios realizados por sí o por terceros, enfocados al diseño, redistribución, modificación y adecuación de los itinerarios, recorridos y rutas locales y de penetración urbana y suburbana, sitios y bases de transporte público en congruencia con las políticas, programas y normas establecidas en el Sector y con base en las necesidades de los usuarios y la evaluación de los servicios;
 
-IX. Elaborar un programa de coordinación de infraestructura que permita la actualización del señalamiento horizontal y vertical de la red vial así como la reposicione (sic) instalación de señalizaciones (sic) equipamiento auxiliar en materia de Movilidad;
+VIII. Elaborar y mantener actualizados en materia de planeación, programación, abastecimiento, seguimiento y medición de indicadores de gestión y resultados de los Programas Institucional, Sectoriales, Metropolitano y Especiales de injerencia de la Secretaría correspondientes a la Movilidad y Seguridad Vial;
 
-X. Emitir las opiniones de viabilidad de ocupación de vía en materia de movilidad y protección civil para eventos masivos en la Ciudad de México a fin de reducir las externalidades negativas de su uso;
+IX. Definir y diseñar los lineamientos, normas y reglas de ocupación de vías de acuerdo a la clasificación existentes de las mismas, así como en materia de Protección Civil de manera coordinada con las Dependencias de Gobierno, Seguridad Pública y Servicios de Emergencia de la Ciudad de México;
 
-XI. Apoyar a las diversas Unidades Administrativas de la Secretaría en integrar una base de datos que contenga información estadística y de gestión que de soporte a la toma de decisiones;
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN IX], G.O. 31 DE ENERO DE 2020)</small>
 
-XII. Promover en las actuales vialidades y en los nuevos desarrollos urbanos, la construcción de vías peatonales, accesibles a personas con capacidades diferentes, y vías ciclistas, conforme a los estudios que al efecto se realicen, a fin de fomentar entre la población la utilización del transporte no motorizado;
+X. Elaborar un programa de coordinación de infraestructura que permita la actualización del señalamiento horizontal y vertical de la red vial así como la reposición e instalación de señalizaciones de equipamiento auxiliar en materia de Movilidad;
 
-XIII. Analizar y dar seguimiento, directamente o por conducto de terceros, a todos los programas y proyectos en materia de movilidad y turnar los resultados a las Unidades Administrativas competentes de la Secretaría para adoptar las medidas correctivas;
+XI. Emitir las opiniones de viabilidad de ocupación de vía en materia de movilidad y protección civil para eventos masivos en la Ciudad de México a fin de reducir las externalidades negativas de su uso;
 
-XIV. Suscribir los documentos, contratos, convenios, acuerdos y demás actos jurídicos necesarios para el ejercicio de sus atribuciones, en coordinación con la Dirección General de Asuntos Jurídicos, cuando así lo determine la normatividad aplicable;
+XII. Apoyar a las diversas Unidades Administrativas de la Secretaría en integrar una base de datos que contenga información estadística y de gestión que de soporte a la toma de decisiones;
 
-XV. Las demás previstas en otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende la persona superior jerárquica.
+XIII. Promover en las actuales vialidades y en los nuevos desarrollos urbanos, la construcción de vías peatonales, accesibles a personas con capacidades diferentes, y vías ciclistas, conforme a los estudios que al efecto se realicen, a fin de fomentar entre la población la utilización del transporte no motorizado;
+
+XIV. Analizar y dar seguimiento, directamente o por conducto de terceros, a todos los programas y proyectos en materia de movilidad y turnar los resultados a las Unidades Administrativas competentes de la Secretaría para adoptar las medidas correctivas;
+
+XV. Suscribir los documentos, contratos, convenios, acuerdos y demás actos jurídicos necesarios para el ejercicio de sus atribuciones, en coordinación con la Dirección General de Asuntos Jurídicos, cuando así lo determine la normatividad aplicable;
+
+XVI. Las demás previstas en otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende la persona superior jerárquica.
+
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2020)</small>
 
 ###### Artículo 196.
 
 Corresponde a la Dirección General de Seguridad Vial y Sistemas de Movilidad Urbana Sustentable:
 
-I. Diseñar, implementar, gestionar y evaluar planes y programas encaminados a mejorar las condiciones de seguridad vial en la Ciudad de México;
+I. Contribuir, aportar, gestionar y coordinar planes y programas encaminados a mejorar las condiciones de seguridad vial en la Ciudad de México;
 
-Integrar el sistema de información y seguimiento de seguridad vial;
+II. Integrar el sistema de información y seguimiento de seguridad vial;
 
-II. Supervisar la gestión del sistema, los medios, instrumentos y disposiciones de control de estacionamiento en la vía pública y asegurar el funcionamiento óptimo del mismo;
+III. Supervisar el sistema de control y cobro de estacionamiento en la vía pública y asegurar el funcionamiento óptimo del mismo, así como implementar el mejoramiento urbano en zonas de parquímetros, a través del cumplimiento de los instrumentos jurídicos y legales aplicables;
 
-III. Supervisar y controlar las solicitudes Ciudadanas interesadas en obtener un permiso renovable de residentes;
+IV. Supervisar la gestión del estacionamiento en la vía pública incluyendo los servicios especiales;
 
-IV. Promover mensajes y contenidos de las campañas de comunicación con el fin de incentivar el uso de la movilidad sustentable y medidas de seguridad vial entre la población;
+V. Otorgar permisos renovables de residentes en el sistema de control y cobro de estacionamiento en la vía pública, así como los de servicios especiales de estacionamiento;
 
-V. Integrar y gestionar el sistema de información de infractores e infracciones al Reglamento de Tránsito de la Ciudad de México registradas mediante dispositivos tecnológicos (fotocívicas);
+VI. Proponer cambios y mejoras a las políticas públicas en materia de seguridad vial derivado de la información generada a partir de las infracciones captadas a través de sistemas tecnológicos;
 
-VI. Diseñar, implementar y evaluar acciones de cumplimiento de sanciones cívicas relacionadas con infracciones al Reglamento de Tránsito de la Ciudad de México;
+VII. Dar seguimiento al esquema de infracciones al Reglamento de Tránsito, por sanciones cívicas registradas por sistemas tecnológicos;
 
-VII. Diseñar, implementar, gestionar y evaluar acciones de monitoreo y apoyo vial en la Ciudad de México;
+VIII. Impartir talleres y proponer acciones de capacitación para la movilidad, dirigidos a promover y fomentar la utilización adecuada de la vía pública, así como la sana convivencia entre las personas usuarias de la vía, incluyendo el transporte no motorizado, el transporte público de pasajeros, infractores al Reglamento de Tránsito y a las distintas Dependencias;
 
-VIII. Definir los lineamientos, normas y reglas de operación de los programas y sistemas de transporte individual sustentable de la Ciudad de México;
+IX. Diseñar, implementar y gestionar acciones de monitoreo y apoyo vial en la Ciudad de México;
 
-IX. Fomentar el uso de la bicicleta como modo de transporte a través de proyectos de equipamiento urbano ciclista;
+X. Emitir el dictamen técnico y otorgar los permisos y autorizaciones relacionados con la operación y funcionamiento de los Sistemas de Transporte Individual Sustentable;
 
-X. Promover y difundir constantemente la cultura y socialización del uso de la bicicleta, a través de programas educativos, actividades y ciclovías recreativas;
+XI. Impulsar el uso de la bicicleta como modo de transporte urbano sustentable mediante la implementación y operación de biciestacionamientos;
 
-XI. Planear, gestionar, supervisar y dar seguimiento constante a la administración y expansión del Sistema de Bicicletas Públicas de la Ciudad de México ECOBICI;
+XII. Promover, difundir y fomentar la cultura del uso de la bicicleta;
 
-XII. Coordinar mesas de Trabajo Interinstitucionales que involucran la movilidad no motorizada;
+XIII. Planear, gestionar, supervisar y dar seguimiento a la administración y expansión del Sistema de Bicicletas Públicas de la Ciudad de México ECOBICI;
 
-XIII. Coordinar mesas de Trabajo Interinstitucionales que involucren la seguridad vial;
+XIV. Coordinar mesas de trabajo Interinstitucionales que involucran la seguridad vial y la regulación de los sistemas de movilidad;
 
-XIV. Elaborar Políticas Públicas para el fomento de la movilidad sustentable;
+XV. Definir los lineamientos, normas técnicas, manuales y reglas de operación de los sistemas de movilidad;
 
-XV. Supervisar el recaudo y recepción, de conformidad con los ordenamientos jurídicos que resulten aplicables a los ingresos de aplicación automática que se generen en el ámbito de su competencia;
+XVI. Supervisar el recaudo y recepción, de conformidad con los ordenamientos jurídicos correspondientes, de los ingresos de aplicación automática que se perciban en el ámbito de su competencia;
 
-XVI. Ampliar los servicios de cultura, educación y capacitación vial de transporte no motorizado a las distintas Dependencias y sectores de la población;
+XVII. Proponer a la persona Titular de la Secretaría la expedición de permisos, autorizaciones y otros instrumentos jurídicos para el uso y aprovechamiento de espacios asignados a biciestacionamientos;
 
-XVII. Proponer a la persona Titular de la Secretaría la expedición de permisos, autorizaciones y otros instrumentos jurídicos para el uso, aprovechamiento de espacios asignados a equipamiento ciclista;
+XVIII. Emitir opiniones técnicas respecto de las políticas públicas, programas y lineamientos en materia de accesibilidad para la movilidad;
 
-XVIII. Otorgar los permisos correspondientes de acuerdo al ámbito de su respectiva competencia;
+XIX. Elaborar los lineamientos y criterios técnicos para regular la publicidad en los vehículos de transporte público, privado y mercantil, de pasajeros y de carga de conformidad con la Ley de Movilidad y demás disposiciones jurídicas y administrativas aplicables;
 
-XIX. Emitir dictámenes, opiniones y vistos buenos que se requieran por parte de las Dependencias y/o personas físicas o morales en materia de movilidad sustentable;
+XX. En coordinación con la Dirección General de Asuntos Jurídicos, suscribir los documentos, contratos, convenios, acuerdos y demás actos jurídicos necesarios para el ejercicio de sus atribuciones;
 
-XX. Elaborar, coordinar y operar los proyectos de equipamiento urbano para la Ciudad de México;
+XXI. Desarrollar, en coordinación con la Dirección General de Planeación y Políticas, los estudios técnicos, estratégicos y de análisis de la movilidad en materia de estacionamiento en la vía pública y para proponer las bases para que las Alcaldías determinen las tarifas de estacionamientos públicos en la Ciudad de México; y
 
-XXI. Regular y autorizar la publicidad en los vehículos de transporte público, privado y mercantil, de pasajeros y de carga de conformidad a la Ley de Movilidad y demás disposiciones jurídicas y administrativas aplicables;
+XXII. Las demás que le atribuyan otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende la persona Titular de la Secretaría de Movilidad.
 
-XXII. Suscribir los documentos, contratos, convenios, acuerdos y demás actos jurídicos necesarios para el ejercicio de sus atribuciones;
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2020)</small>
 
-XXIII. Diseñar, implementar, gestionar y evaluar planes y programas de estacionamientos en la Ciudad de México; y
+###### Artículo 196 Bis.
 
-XXIV. Las demás que le atribuyan otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende la persona Titular de la Secretaría de Movilidad.
+La Dirección Ejecutiva de Regulación de Sistemas de Movilidad Urbana Sustentable tendrá las siguientes facultades:
+
+I. Analizar los elementos que deberán integrarse en las propuestas de políticas, lineamientos y directrices para la regulación de los sistemas de movilidad urbana;
+
+II. Definir las propuestas de regulación para los sistemas de movilidad urbana;
+
+III. Proponer en el ámbito de sus atribuciones, las políticas de regulación de sistemas de transporte privado;
+
+IV. Evaluar conforme a su competencia, la operación de los Sistemas de Transporte Individual Sustentable;
+
+V. Colaborar en la implementación y operación de los Biciestacionamientos;
+
+VI. Coadyuvar en la operación del Sistema de Bicicletas Públicas de la Ciudad de México ECOBICI;
+
+VII. Cooperar, según sus atribuciones, con las instancias ejecutoras de proyectos de mejoramiento urbano en zonas de parquímetros;
+
+VIII. Colaborar en la operación del sistema de parquímetros, en el ámbito de su competencia;
+
+IX. Verificar, según sus atribuciones los ingresos por estacionamiento en la vía pública;
+
+X. Analizar las solicitudes de permisos renovables para residentes de estacionamiento en zonas de parquímetros, de estacionamiento momentáneo, exclusivo para embajadas, balizamiento para zonas de carga y descarga o ascenso y descenso, balizamiento para personas con discapacidad;
+
+XI. Desarrollar con las instancias competentes, según sus atribuciones, los estudios técnicos en materia de estacionamiento en la vía pública, para proponer las bases para que las Alcaldías determinen las tarifas de estacionamientos públicos;
+
+XII. Emitir propuestas de lineamientos técnicos aplicables a los vehículos de transporte de pasajeros y de carga; y
+
+XIII. Proponer los lineamientos para la portación de publicidad en el transporte.
+
+XIV. Las demás que le atribuyan otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende el superior jerárquico.
+
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2020)</small>
 
 ###### Artículo 197.
 
 Corresponde a la Dirección General de Asuntos Jurídicos:
 
-I. Practicar las diligencias de notificación de resoluciones emitidas por las diversas Unidades Administrativas de la Secretaría, en cumplimiento de las normas jurídicas y administrativas aplicables;
+I. Practicar las diligencias de notificación de resoluciones emitidas por la Dirección General de Asuntos Jurídicos, en cumplimiento de las normas jurídicas y administrativas aplicables;
 
-II. Sustanciar los procedimientos administrativos y, en su caso, imponer las sanciones establecidas en la normatividad; dictar las resoluciones que correspondan en los casos de revocación, caducidad, cancelación y rescisión de los permisos, concesiones, licencias y autorizaciones cuando proceda, de conformidad con las disposiciones legales aplicables;
+II. Sustanciar los procedimientos administrativos y, en su caso, imponer las sanciones establecidas en la normatividad; dictar las resoluciones que correspondan en los casos de revocación, caducidad, cancelación y rescisión de los permisos, concesiones, licencias y autorizaciones cuando proceda, de conformidad con las disposiciones aplicables;
 
-III. Recibir, contestar y dar seguimiento a las demandas, recursos contenciosos, juicios de amparo, de nulidad, lesividad, civiles, penales, laborales y administrativos en los que intervenga la Secretaría; llevar un registro de los (sic) todos los juicios y recursos contenciosos en los que la Secretaría sea parte, para darle oportuno seguimiento;
+III. Formular demandas y contestaciones en toda clase de procedimientos judiciales, contenciosos, administrativos y del trabajo; ejercer acciones y oponer excepciones y defensas; ofrecer pruebas, absolver posiciones, comparecer en todo tipo de audiencias, formular alegatos, interponer toda clase de recursos, transigir en representación de la Secretaría, dentro de cualquier procedimiento o juicio y, en general, vigilar la tramitación de los mismos, así como atender las sentencias, laudos y resoluciones cuyo cumplimiento corresponda a las unidades administrativas de la dependencia, prestando la asesoría que se requiera;
 
-IV. Revisar y emitir opinión jurídica respecto de los convenios, contratos y demás instrumentos jurídicos y administrativos que suscriba la Secretaría y sus Unidades Administrativas;
+IV. Promover e intervenir en las reclamaciones, juicios y procedimientos en que la Secretaría tenga interés y, en general, en aquellos asuntos cuyas resoluciones puedan afectar los bienes asignados a la misma, sin perjuicio de las atribuciones que correspondan al Ministerio Público competente;
 
-V. Coadyuvar con el Instituto de Verificación Administrativa para iniciar procedimientos administrativos por posibles incumplimientos a las resoluciones administrativas emitidas en materia de impacto de movilidad;
+V. Representar al Secretario y demás servidores públicos de la dependencia en todos los trámites dentro de los juicios de amparo, cuando sean señalados como autoridades responsables;
 
-VI. Recibir y registrar, analizar y resolver las solicitudes de los interesados que estén involucrados en conflictos de titularidad respecto de las concesiones de transporte público colectivo de pasajeros y de carga;
+VI. Asistir a las unidades administrativas de la Secretaría en el levantamiento de las actas administrativas, con motivo del incumplimiento de las Condiciones Generales de Trabajo y otras disposiciones jurídicas en materia de trabajo, así como emitir opinión sobre la procedencia de la aplicación de alguna sanción;
 
-VII. Calificar, dictaminar y determinar con base en la normatividad administrativa correspondiente, los casos en que exista controversia, respecto a la representatividad de los concesionarios y/o permisionarios y la titularidad de los Derechos derivados de las autorizaciones, concesiones y permisos, así como del equipamiento auxiliar, a fin de que el servicio de transporte público de pasajeros o de carga no se vea afectado en su prestación continua, regular, permanente, uniforme e ininterrumpida;
+VII. Representar a la Secretaría y a su titular en los juicios que se promuevan ante las autoridades laborales competentes, así como ejercer las acciones, interponer los recursos y suscribir, en su caso, los convenios que correspondan;
 
-VIII. Llevar a cabo los estudios jurídicos para proponer modificaciones a las diversas disposiciones y ordenamientos jurídicos en materia de movilidad; emitir opinión respecto de las consultas que le encomienden las Unidades Administrativas adscritas a la Secretaria de Movilidad; así como apoyar la difusión de la Ley de Movilidad del Distrito Federal, a los usuarios y al capital humano de las Unidades Administrativas de la Secretaría;
+VIII. Representar a la Secretaría y a sus unidades administrativas en los juicios de nulidad en que sea parte, que se promuevan ante el Tribunal de Justicia Administrativa de la Ciudad de México, así como ejercer las acciones e interponer los recursos que procedan;
 
-IX. Sistematizar y difundir las normas jurídicas aplicables en materia de movilidad en la Ciudad de México, mediante la permanente actualización y compilación de las publicaciones oficiales correspondientes, así como el marco jurídico administrativo que incida en la esfera de los particulares; y mantener actualizados los criterios de interpretación de las disposiciones administrativas relativas al ámbito de competencia de la Secretaría;
+IX. Representar a la Secretaría ante cualquier autoridad jurisdiccional, administrativa y del trabajo, y autorizar a los servidores públicos de la propia Unidad para representar a la dependencia ante esas autoridades, mediante escrito en el que se indique el asunto específico para el que se otorga dicha autorización;
 
-X. Dar seguimiento a los procedimientos jurídico-administrativos relativos a los conflictos de titularidad de las concesiones del transporte público, agotando todas y cada una de las etapas del procedimiento, de conformidad con lo establecido por las disposiciones legales aplicables;
+X. Recibir, contestar y dar seguimiento a las demandas, recursos contenciosos, juicios de amparo, de nulidad, lesividad, civiles, penales, laborales y administrativos en los que intervenga la Secretaría; llevar un registro de los todos los juicios y recursos contenciosos en los que la Secretaría sea parte, para darle oportuno seguimiento;
 
-XI. Presentar, ratificar y actuar como coadyuvante del Ministerio Público en las denuncias de hechos, por la posible comisión de delitos relacionados con las materias de movilidad, transporte público y vialidad y aquellos en que resulte afectada la Secretaría;
+XI. Revisar, elaborar y emitir opinión jurídica respecto de los convenios, contratos y demás instrumentos jurídicos y administrativos que suscriba la Secretaría y sus Unidades Administrativas;
 
-XII. Dar atención a las solicitudes realizadas en el marco de los derechos de acceso a la información pública y protección de datos personales que se reciban en la Secretaría, por conducto de los entes correspondientes; y
+XII. Coadyuvar con el Instituto de Verificación Administrativa para iniciar procedimientos administrativos por posibles incumplimientos a las disposiciones administrativas emitidas en materia de movilidad;
 
-XIII. Las demás que le atribuyan otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende el superior jerárquico.
+XIII. Recibir y registrar, analizar y resolver las solicitudes de los interesados que estén involucrados en conflictos de titularidad respecto de las concesiones de transporte público colectivo de pasajeros y de carga;
+
+XIV. Calificar, dictaminar y determinar con base en la normatividad administrativa correspondiente, los casos en que exista controversia, respecto a la representatividad de los concesionarios y/o permisionarios y la titularidad de los derechos derivados de las autorizaciones, concesiones y permisos, así como del equipamiento auxiliar, a fin de que el servicio de transporte de pasajeros o de carga, en cualquiera de sus clasificaciones, no se vea afectado en su prestación continua, regular, permanente, uniforme e ininterrumpida;
+
+XV. Llevar a cabo los estudios jurídicos para proponer modificaciones a las diversas disposiciones y ordenamientos jurídicos en materia de movilidad; emitir opinión respecto de las consultas que le formulen las Unidades Administrativas adscritas a la Secretaría de Movilidad; así como apoyar la difusión de la Ley de Movilidad del Distrito Federal, a los usuarios y al capital humano de las Unidades Administrativas de la Secretaría;
+
+XVI. Sistematizar y difundir las normas jurídicas aplicables en materia de movilidad en la Ciudad de México, mediante la permanente actualización y compilación de las publicaciones oficiales correspondientes, así como el marco jurídico administrativo que incida en la esfera de los particulares; y mantener actualizados los criterios de interpretación de las disposiciones administrativas relativas al ámbito de competencia de la Secretaría;
+
+XVII. Dar seguimiento a los procedimientos jurídico-administrativos relativos a los conflictos de titularidad de las concesiones y permisos del servicio de transporte de pasajeros y carga, en cualquiera de sus clasificaciones, agotando todas y cada una de las etapas del procedimiento, de conformidad con lo establecido por las disposiciones legales aplicables;
+
+XVIII. Presentar, ratificar y actuar como coadyuvante del Ministerio Público en las denuncias de hechos, por la posible comisión de delitos relacionados con las materias de movilidad, transporte de pasajeros y carga, vialidad y aquellos en que resulte afectada la Secretaría;
+
+XIX. Asesorar a las entidades paraestatales del sector y órganos administrativos desconcentrados, respecto de los asuntos relativos a las funciones de la Secretaría;
+
+XX. Emitir opinión y tramitar la publicación en la Gaceta Oficial de la Ciudad de México de las disposiciones normativas de carácter general o de carácter interno que expida la Secretaría, salvo que la tramitación citada deba hacerla otra unidad administrativa por disposición expresa;
+
+XXI. Atender y gestionar ante las instituciones competentes los requerimientos que realicen los organismos de derechos humanos, dando respuesta dentro de los términos correspondientes;
+
+XXII. Atender y dar respuesta a los requerimientos información en cooperación institucional, y a los mandamientos, realizados por autoridades jurisdiccionales y administrativas, tanto locales como federales;
+
+XXIII. Fungir como representante de la Secretaría en las reuniones, mesas de trabajo y foros del orden jurídico ante las autoridades locales y federales;
+
+XXIV. Dar atención a las solicitudes realizadas en el marco de los derechos de acceso a la información pública y protección de datos personales que se reciban en la Secretaría, por conducto de los entes correspondientes; y
+
+XXV. Las demás que le atribuyan otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende el superior jerárquico.
+
+La Dirección General de Asuntos Jurídicos, en el ejercicio de las facultades señaladas en el presente artículo, podrá ser asistida por la Dirección de lo Contencioso, la Subdirección de Amparo y Penal o la Subdirección de lo Contencioso Laboral y Administrativo, indistintamente, a las que les corresponderá el ejercicio de las facultades establecidas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XII, XIII, XIV, XVII, XVIII y XXV; lo anterior, sin perjuicio del ejercicio de esas facultades de forma directa por el titular de la Dirección General de Asuntos Jurídicos.
 
 ###### Artículo 198.
 
@@ -8650,6 +8804,54 @@ XXVIII. Verificar que la construcción y mantenimiento de obras concesionadas se
 
 XXIX. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
 
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2020)</small>
+
+###### Artículo 207 Bis.
+
+Corresponde a la Dirección Ejecutiva de Proyectos de Obras Públicas:
+
+I. Coordinar la generación de estudios, directrices e integración de proyectos para el uso y mejoramiento del equipamiento urbano y el espacio público a través de un programa establecido que permita el diseño de un proyecto arquitectónico y ejecutivo de calidad. Gestionar las acciones necesarias para la habilitación, rehabilitación, o integración de proyectos de obras públicas de calidad, a través de la elaboración, ejecución y supervisión técnica-arquitectónica;
+
+II. Emitir opiniones en materia de espacio público, equipamiento, mobiliario urbano e imagen urbana de conformidad con la normatividad aplicable;
+
+III. Establecer el desarrollo de los alcances técnicos que deben cumplir los estudios y proyectos para la generación, rehabilitación, o en su caso integración de espacios públicos de calidad;
+
+IV. Establecer las directrices para la integración, presentación y aprobación de los proyectos de obras públicas de la Ciudad de México;
+
+V. Planear, diseñar, ejecutar y supervisar los proyectos arquitectónicos y/o ejecutivos para las obras públicas relativas al equipamiento urbano y al espacio público;
+
+VI. Proponer la habilitación y rehabilitación de espacios públicos en las 16 demarcaciones territoriales de la Ciudad de México para mejorar la calidad de vida de sus habitantes;
+
+VII. Establecer las propuestas de lineamientos y criterios en materia de espacio público, así como acciones para la instalación del equipamiento y mobiliario urbano para su adecuada integración funcional en la estructura urbana de la Ciudad de México;
+
+VIII. Coordinar el desarrollo de proyectos arquitectónicos de imagen urbana, para su correcta distribución, emplazamiento, sustitución y operación, así como de mantenimiento de mobiliario urbano en los espacios públicos de la Ciudad de México;
+
+IX. Establecer el desarrollo de lineamientos que deben cumplir los proyectos de mantenimiento en espacios públicos, una vez entregados a la dependencia correspondiente, para el adecuado funcionamiento del mismo;
+
+X. Coordinar con los titulares de las Dependencias, Órganos y Entidades de la Administración Pública de la Ciudad de México, la elaboración de proyectos que soliciten en materia de equipamiento urbano y espacio público, para generar el mayor número de espacios públicos de calidad en la Ciudad de México;
+
+XI. Coordinarse con las Direcciones Generales de la Subsecretaría de Servicios Urbanos de la Secretaría de Obras y Servicios, para verificar el cumplimiento de lineamientos y criterios en materia de obras públicas;
+
+XII. Evaluar y autorizar opiniones sobre el emplazamiento del equipamiento y mobiliario urbano que se encuentre sobre la banqueta, plazas y/o espacios públicos en general, para mejorar la imagen urbana de la Ciudad de México;
+
+XIII. Evaluar y autorizar opiniones en materia de accesibilidad, para generar espacios públicos de calidad que puedan ser usados de manera incluyente por cualquier habitante de la Ciudad de México;
+
+XIV. Evaluar y autorizar opiniones técnicas de las propuestas de proyectos que sean presentadas para la accesibilidad peatonal que permitan garantizar una accesibilidad universal y seguridad del espacio público;
+
+XV. Promover entre las Dependencias, Órganos y Entidades de la Administración Pública de la Ciudad de México, así como entre particulares, el desarrollo de nuevas tecnologías y procesos para la construcción y mantenimiento de las obras públicas;
+
+XVI. Promover estudios e investigaciones para mejorar los procesos constructivos y los materiales utilizados en la construcción de las obras públicas;
+
+XVII. Coordinar la supervisión y dirección arquitectónica de los trabajos de construcción y mantenimiento en los espacios públicos de la Ciudad de México.
+
+XVIII. Coordinar con las Dependencias encargadas de realizar obras que afecten al espacio público, a efecto de homogeneizar los trabajos a realizar y crear una imagen urbana; y
+
+XIX. Coadyuvar en la presentación y seguimiento a las denuncias, querellas y demás actos y recursos jurídicos ante las autoridades competentes por daños ocasionados a la infraestructura, espacios públicos y/o predios a su cargo en custodia, así como las que sean parte de sus atribuciones para la defensa de los intereses de la Ciudad de México, pudiendo llegar a acuerdos reparatorios, siempre y cuando se garantice satisfactoriamente la reparación del daño ocasionado, en coordinación con el área jurídica correspondiente y previo cumplimiento de la normatividad aplicable;
+
+XX. Colaborar en la elaboración, revisión y suscripción de contratos y convenios que sean necesarios para el ejercicio de sus facultades, en la sustanciación de la terminación anticipada, suspensión y/o rescisión de los mismos, así como en la ejecución de las garantías y, en su caso, las penas y sanciones correspondientes, de conformidad con la normatividad aplicable; y
+
+XXI. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+
 ###### Artículo 208.
 
 Corresponde a la Dirección General de Obras para el Transporte:
@@ -8711,6 +8913,30 @@ XXVII. Dictar las medidas necesarias tendientes a proteger el interés público 
 XXVIII. Verificar que la construcción y mantenimiento de obras concesionadas se lleve a cabo en coordinación con las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública, que corresponda; y
 
 XXIX. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2020)</small>
+
+###### Artículo 208 Bis.
+
+Corresponde a la Dirección Ejecutiva de Construcción del Sistema Cablebús:
+
+I. Proponer y desarrollar estudios técnicos y estratégicos necesarios para la planeación, diseño e implementación del Sistema de Transporte Público Cablebús;
+
+II. Establecer los criterios de coordinación y participación con los diferentes entes de la Administración Pública Local y Federal, para la implementación del Sistema de Transporte Público Cablebús;
+
+III. Elaborar y proponer instrumentos de vinculación y colaboración con organismos de cooperación, nacionales e internacionales para la implementación, operación y administración de los proyectos y servicios, así como los relativos a programas y proyectos que se requieran para la implementación del Sistema de Transporte Público Cablebús;
+
+IV. Planear, proponer y supervisar proyectos, infraestructura y equipamiento para gestionar, implementar, conservar, ampliar, mejorar y hacer más eficiente el Sistema de Transporte Público Cablebús, y desarrollar proyectos que dicten y vigilen las políticas de operación del mismo, de acuerdo con los lineamientos jurídicos aplicables en la materia;
+
+V. Participar y coordinarse con los diferentes entes de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México para el desarrollo e implementación de estrategias y proyectos de obra, infraestructura y de servicios relacionados al Sistema de Transporte Público Cablebús;
+
+VI. Coadyuvar en la presentación y seguimiento a las denuncias, querellas y demás actos y recursos jurídicos ante las autoridades competentes por daños ocasionados a la infraestructura, espacios públicos y/o predios a su cargo en custodia y lo inherente a obras del Sistema de Transporte Público Cablebús, así como las que sean parte de sus atribuciones para la defensa de los intereses de la Ciudad de México, pudiendo llegar a acuerdos reparatorios, siempre y cuando se garantice satisfactoriamente la reparación del daño ocasionado, en coordinación con el área jurídica correspondiente y previo cumplimiento de la normatividad aplicable;
+
+VII. La realización de las obras públicas necesarias para el ejercicio de sus facultades, incluso financiadas bajo cualquier modalidad;
+
+VIII. Colaborar con la elaboración, revisión y suscripción de los contratos y convenios que sean necesarios para el ejercicio de sus facultades, sustanciar la terminación anticipada, suspensión y/o rescisión de los mismos, así como ejecutar las garantías y, en su caso, las penas y sanciones correspondientes, de conformidad con la legislación aplicable; y
+
+IX. Las demás que le confieran las disposiciones legales aplicables, los que sean para el cumplimiento de su objetivo, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
 
 ###### Artículo 209.
 
@@ -10972,6 +11198,8 @@ Las Unidades Administrativas de la Secretaría de la Contraloría General que cu
 
 #### SECCIÓN V. ADSCRITO A LA SECRETARÍA DE MOVILIDAD
 
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2020)</small>
+
 ###### Artículo 269.
 
 Además de las atribuciones que corresponden a las autoridades investigadoras de conformidad con la legislación y demás disposiciones jurídicas y administrativas en materia de responsabilidades administrativas, corresponde a las personas titulares de las unidades de Investigación de la Secretaría de la Contraloría General en Dependencias, Órganos Desconcentrados, Alcaldías, Entidades, órganos de apoyo y de asesoría de la Administración Pública de la Ciudad de México:
@@ -13060,201 +13288,199 @@ XXVI. Las demás que le otorguen la legislación vigente.
 
 ###### Artículo 316.
 
-El Órgano Regulador de Transporte es el Órgano Desconcentrado que tiene por objeto planear, regular y verificar el Servicio de Corredores de Transporte, que no regule el Sistema de Corredores de Transporte Público de Pasajeros de la Ciudad de México Metrobús, así como administrar, operar, supervisar y regular los Centros de Transferencia Modal; y planear, gestionar, realizar, y ejecutar obras y los estudios técnicos necesarios para el diseño, implementación y operación del Sistema de Transporte Público Cablebús de la Ciudad de México.
+El Órgano Regulador de Transporte es el Órgano Desconcentrado que tiene por objeto planear, regular y verificar el Servicio de Corredores de Transporte, que no regule el Sistema de Corredores de Transporte Público de Pasajeros de la Ciudad de México Metrobús; así como administrar, operar, supervisar y regular el servicio en los Centros de Transferencia Modal; gestionar y administrar la plataforma digital de monitoreo de transporte público colectivo concesionado; y llevar a cabo las gestiones para la liberación del derecho de vía del Sistema de Transporte Público Cablebús.
 
 ###### Artículo 317.
 
 Para el despacho de los asuntos que competen al Órgano Regulador de Transporte tiene adscritas:
 
-1. Coordinación General del Órgano Regulador de Transporte;
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2020)</small>
 
-2. Dirección Ejecutiva de la Coordinación de los Centros de Transferencia Modal;
+1. Dirección General del Órgano Regulador de Transporte;
 
-3. Dirección Ejecutiva de Administración y Supervisión “A”;
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2020)</small>
 
-4. Dirección Ejecutiva de Administración y Supervisión “B”; y
+2. Dirección Ejecutiva de los Centros de Transferencia Modal;
 
-5. Dirección General del Sistema de Transporte Público Cablebús de la Ciudad de México.
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2020)</small>
+
+3. Dirección Ejecutiva de Corredores y Gestión Tecnológica; y
+
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2020)</small>
+
+4. Dirección Ejecutiva de Asuntos Jurídicos.
+
+5. (DEROGADO, G.O. 31 DE ENERO DE 2020)
+
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2020)</small>
 
 ###### Artículo 318.
 
-Corresponde a la Coordinación General del Órgano Regulador de Transporte:
+Corresponde a la Dirección General del Órgano Regulador de Transporte:
 
-I. Proponer, diseñar y supervisar proyectos de obra necesarios para la mejora de los Centros de Transferencia Modal, Corredores de Transporte Público de Pasajeros y la implementación del Sistema de Transporte Público Cablebús;
+I. Proponer y diseñar proyectos de obra necesarios para la mejora de los servicios de los Centros de Transferencia Modal y de los Corredores de Transporte Público de Pasajeros;
 
-II. Coordinar la administración de los espacios físicos destinados a la infraestructura y equipamiento auxiliar del servicio que brindan los Centros de Transferencia Modal, Corredores de Transporte Público de Pasajeros y para la implementación del Sistema de Transporte Público Cablebús;
+II. Coordinar, administrar, autorizar, vigilar, operar, regular y controlar el mantenimiento de los servicios de Corredores de Transporte Público de Pasajeros de los Centros de Transferencia Modal, Paraderos de Autobuses, y demás espacios físicos destinados a la infraestructura y equipamiento auxiliar del servicio;
 
-III. Instrumentar acuerdos para la conservación, mantenimiento, renovación y cumplimiento de las especificaciones técnicas del parque vehicular que regula el Órgano Regulador de Transporte;
+III. Instrumentar la normatividad necesaria para la conservación, mantenimiento, renovación y cumplimiento de las especificaciones técnicas del parque vehicular destinado a la prestación del servicio de Corredores de Transporte e implementar las medidas adecuadas para mantener en buen estado la infraestructura utilizada para tal fin;
 
-IV. Planear, diseñar y autorizar los estudios y proyectos para la prestación, mejora y supervisión de obras y servicios que tenga a su cargo el Órgano Regulador de Transporte;
+IV. Planear, diseñar y autorizar los estudios para la prestación de servicios de Corredores de Transporte Público de Pasajeros;
 
-V. Coordinar con los diferentes entes de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México, acciones para el desarrollo e implementación de estrategias y proyectos de obras, infraestructura y de servicios que coordina el Órgano Regulador de Transporte;
+V. Coordinar con los diferentes entes de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México, acciones para el desarrollo e implementación de estrategias, proyectos de obras, infraestructura y de servicios de los Corredores de Transporte Público y Centros de Transferencia Modal, en el ámbito de sus competencias;
 
-VI. Coordinar con las diferentes Dependencias, Órganos Desconcentrados, Entidades y Alcaldías de la Administración Pública de la Ciudad de México el servicio de Corredores de Transporte Público de acuerdo a competencias;
+VI. Coordinar la gestión y actualización de la plataforma digital de indicadores de transporte público colectivo concesionado, para el monitoreo de unidades del transporte público de pasajeros concesionado;
 
-VII. Promover y suscribir instrumentos de vinculación con organismos de cooperación, nacionales e internacionales para el cumplimiento de los objetivos del Órgano Regulador de Transporte;
+VII. Suscribir instrumentos de vinculación con organismos de cooperación, nacionales e internacionales, para el cumplimiento de los objetivos del Órgano, relacionados con la movilidad eficiente e integral de los usuarios en la Ciudad de México;
 
-VIII. Administrar, autorizar, operar y vigilar el mantenimiento de los Corredores de Transporte Público, Centros de Transferencia Modal, Paraderos de Autobuses, y demás infraestructura competente al Órgano Regulador de Transporte, con la participación de los permisionarios, concesionarios y titulares de las autorizaciones;
+VIII. Emitir las normas de operación, supervisión y reglamentación para la prestación de servicios asignados dentro de los Centros de Transferencia Modal, así como dentro de los Corredores de Transporte Público;
 
-IX. Proponer las normas de operación, supervisión y reglamentación para la prestación de servicios asignados dentro de los Centros de Transferencia Modal, así como dentro de los Corredores de Transporte Público y del Sistema de Transporte Público Cablebús;
+IX. Coordinar la revisión y actualización continua y permanente del padrón de acceso vehicular a los Centros de Transferencia Modal; así como de los Corredores del Servicio de Transporte Público;
 
-X. Promover y suscribir acuerdos para la conservación, mantenimiento, renovación y cumplimiento de las especificaciones técnicas del parque vehicular, destinado a la prestación del servicio de Corredores de Transporte e implementar las medidas adecuadas para mantener en buen estado la infraestructura utilizada para tal fin;
+X. Actualizar, revisar y modificar Convenios, Contratos y Permisos Administrativos, a efecto de adecuarlos al marco normativo vigente;
 
-XI. Proponer e instrumentar los estudios estratégicos y de supervisión para la implementación de programas, proyectos y obras competencia del Órgano Regulador de Transporte;
+XI. Intervenir en los procedimientos para la autorización, otorgamiento, prórroga, revocación, caducidad y extinción de concesiones y de la agrupación de personas morales concesionarias para el servicio de Corredores de Transporte de Pasajeros, bajo el esquema de consorcios, que prestan el servicio de manera exclusiva en uno o más corredores, sin que exceda el número de concesiones, de conformidad con lo establecido en las disposiciones legales aplicables, con un control y dirección centralizado de los diferentes concesionarios;
 
-XII. Intervenir en los procedimientos para la autorización, otorgamiento, prórroga, revocación, caducidad, y extinción de concesiones y de la agrupación de personas morales concesionarias para el servicio de Corredores de Transporte, bajo el esquema de consorcios, que presten el servicio de manera exclusiva en uno o más corredores, sin que exceda el número de concesiones, de conformidad con lo establecido a las disposiciones legales aplicables, con un control y dirección centralizado de los diferentes concesionarios;
+XII. Requerir durante la vigencia de la concesión a los concesionarios, la documentación e información económica y financiera que considere pertinente para identificar esquemas financieros que permitan la prestación del servicio de manera permanente y uniforme, así como establecer las medidas de seguridad necesarias que permitan la viabilidad para dar continuidad de la prestación de los servicios;
 
-XIII. Revisar la documentación e información económica y financiera necesaria, para identificar esquemas financieros y de sostenimiento, que permitan la continuidad de la prestación de los servicios que presta el Órgano Regulador de Transporte;
+XIII. Coadyuvar con el Instituto de Verificación Administrativa en la coordinación de acciones de verificación al servicio de Corredores de Transporte Público y los asuntos vinculados con el Órgano;
 
-XIV. Coadyuvar con el Instituto de Verificación Administrativa en la coordinación de acciones de verificación al servicio de Corredores de Transporte Público;
+XIV. Coordinar con la Secretaría de Seguridad Ciudadana, o a través de las personas servidoras que le sean adscritas, las acciones necesarias para poner a disposición de la autoridad competente -Juez Cívico o Ministerio Público-, a quienes infrinjan las disposiciones legales aplicables en los Centros de Transferencia Modal, así como de los Corredores de Transporte Público;
 
-XV. Proponer la implementación de nuevas tecnologías para eficientar las actividades, los servicios y sistemas asignados al Órgano Regulador de Transporte;
+XV. Proponer e implementar el uso de nuevas tecnologías para hacer más eficientes los servicios en los Centros de Transferencia Modal, así como en los Corredores de Transporte Público;
 
-XVI. Coordinar con las autoridades competentes y las Unidades Administrativas y de Apoyo Técnico-Operativo de la Coordinación, la realización de actos administrativos relacionados con el incumplimiento de los diferentes conceptos por el uso y aprovechamiento, o del uso incorrecto de la infraestructura y equipamiento de los Centros de Transferencia Modal, Corredores de Transporte Público y Líneas de Cablebús; y
+XVI. Realizar las gestiones administrativas ante las instancias correspondientes, para la liberación del derecho de vía del Sistema de Transporte Público Cablebús;
 
-XVII. Las demás que le confieran las disposiciones legales aplicables y los que sean para el cumplimiento de su objetivo.
-
-###### Artículo 319.
-
-Corresponde a la Dirección Ejecutiva de la Coordinación de los Centros de Transferencia Modal:
-
-I. Coordinar y administrar los espacios físicos destinados a la infraestructura y equipamiento auxiliar y establecer instrumentos de coordinación para llevar a cabo las actividades y servicios que se prestan y confluyen en los Centros de Transferencia Modal;
-
-II. Establecer los criterios de coordinación con los diferentes entes de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México para el desarrollo e implementación de estrategias y proyectos de obra, infraestructura y de servicios;
-
-III. Proponer a la persona Titular de la Coordinación General del Órgano Regulador de Transporte, instrumentos de vinculación y de colaboración con organismos de cooperación, nacionales e internacionales para la implementación, operación y administración de los proyectos y servicios competencia del Órgano Regulador de Transporte, así como los relativos a programas y proyectos que se requieran para la eficiente operación y funcionamiento de los Centros de Transferencia Modal;
-
-IV. Plantear e implementar estudios y proyectos para el otorgamiento de concesiones y otros mecanismos de operación, coordinación, mantenimiento y financiamiento de los Centros de Transferencia Modal;
-
-V. Diseñar un sistema que permita integrar y mantener actualizado el padrón de los concesionarios y permisionarios competencia de los Centros de Transferencia Modal;
-
-VI. Implementar los mecanismos de seguimiento y evaluación necesarios para que, a través de la información económica y financiera que se solicita a los concesionarios, durante la vigencia de la concesión, se identifiquen esquemas financieros y de sostenimiento, que permitan la continuidad de la prestación del servicio de manera permanente, uniforme y establecer las medidas de seguridad necesarias;
-
-VII. Coordinar con la Secretaría de Seguridad Ciudadana, o a través de las personas servidoras públicas que le estén adscritas, las acciones necesarias para poner a disposición del Juez Cívico o Ministerio Público a quienes infrinjan las disposiciones legales aplicables en los Centros de Transferencia Modal;
-
-VIII. Emitir bases y lineamientos de operación, regulación, mantenimiento y funcionamiento de los Centros de Transferencia Modal;
-
-IX. Implementar las acciones de supervisión y vigilancia sobre actividades que se desarrollen en las Instalaciones de los Centros de Transferencia Modal;
-
-X. Instrumentar mecanismos que permitan una adecuada coordinación entre las funciones de mantenimiento y conservación que competen a los Centros de Transferencia Modal;
-
-XI. Coordinar con la Secretaría de Obras y Servicios las actividades relativas al diseño de obras y servicios destinados a la infraestructura y equipamiento de los Centros de Transferencia a su cargo;
-
-XII. Proponer y elaborar esquemas de destino para los aprovechamientos generados por el uso de los bienes muebles e inmuebles de los Centros de Transferencia Modal a aquellas actividades relacionadas con operación, administración, funcionamiento y supervisión de las instalaciones;
-
-XIII. Suscribir documentos relativos al ejercicio de sus atribuciones, así como celebrar, otorgar y suscribir los contratos, convenios y demás actos jurídicos de carácter administrativo o de cualquier otra índole dentro del ámbito de su competencia, necesarios para el ejercicio de sus funciones y en su caso de las Unidades Administrativas que les estén adscritas; y
-
-XIV. Las demás que le confieran las disposiciones legales aplicables y los que sean para el cumplimiento de su objetivo.
-
-###### Artículo 320.
-
-Corresponde a la Dirección Ejecutiva de Administración y Supervisión “A”:
-
-I. Implementar mecanismos de operación y administración, y fijar las bases e instrumentar los procedimientos necesarios para la adecuada coordinación de actividades y servicios que se prestan y confluyen en los Centros de Transferencia Modal;
-
-II. Administrar y supervisar los espacios físicos, la infraestructura y el equipamiento auxiliar del servicio que brindan los Centros de Transferencia Modal para que sean utilizados de acuerdo a su finalidad;
-
-III. Coordinar las acciones relacionadas para el uso y aprovechamiento de los Centros de Transferencia Modal y para el otorgamiento de las autorizaciones de acceso vehicular;
-
-IV. Implementar estrategias, programas, estudios y proyectos para el otorgamiento de concesiones u otros de modelos de administración, supervisión, financiamiento y regulación de los Centros de Transferencia Modal;
-
-V. Integrar y mantener actualizado el padrón de los concesionarios y permisionarios competencia de (sic) Órgano Regulador de Transporte;
-
-VI. Solicitar a los concesionarios, durante la vigencia de la concesión, la documentación e información económica y financiera que considere pertinente, para identificar esquemas financieros y de sostenimiento, que permitan la continuidad de la prestación del servicio de manera permanente, uniforme y establecer las medidas de seguridad necesarias;
-
-VII. Coordinar con la Secretaría de Seguridad Ciudadana, o a través de las personas servidoras públicas que le estén adscritas, las acciones necesarias para poner a disposición del Juez Cívico o Ministerio Público a quienes infrinjan las disposiciones legales aplicables en los Centros de Transferencia Modal;
-
-VIII. Participar en la coordinación con los diferentes entes de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México en el desarrollo e implementación de estrategias, programas, proyectos de obras, infraestructura y de servicios que regula el Órgano Regulador de Transporte;
-
-IX. Supervisar el cumplimiento de las frecuencias de los derroteros autorizados con los que operan los prestadores del servicio de transporte público de pasajeros;
-
-X. Revisar la vigencia de las autorizaciones de acceso vehicular, el cumplimiento de la prestación del servicio y del pago por aprovechamiento, para el uso de los Centros de Transferencia Modal y Corredores de Transporte Público;
-
-XI. Participar en la consecución de estudios y proyectos técnicos orientados a mejorar la operatividad de los Centros de Transferencia Modal, Corredores de Transporte Público y Líneas de Cablebús;
-
-XII. Coordinar la ubicación y reubicación de los prestadores de servicios del transporte público de pasajeros dentro de las áreas de transferencia modal definitivas y provisionales de los Centros de Transferencia Modal contemplados en proyectos de coinversión, concesión y otros modelos de operación, y en coordinación con los entes de la Administración Pública Local y Federal competentes.
-
-XIII. Supervisar y ordenar a los prestadores de servicios del transporte público de pasajeros, dentro de los espacios físicos asignados en los Centros de Transferencia Modal, para hacer más eficiente la operación en las áreas de transferencia modal.
-
-XIV. Emitir los “Elementos Operativos para la Autorización de Acceso Vehicular”, para determinar la procedencia de la autorización o la revocación de uso del espacio asignado en las instalaciones de los Centros de Transferencia Modal;
-
-XV. Coordinar la operación de los concesionarios y permisionarios que hacen uso de las instalaciones competencia del Órgano Regulador de Transporte, para que cumplan con los lineamientos establecidos (sic) normatividad competente;
-
-XVI. Proponer e implementar los procedimientos de actuación de las personas servidoras públicas asignados a los Centros de Transferencia Modal conforme a los requerimientos de las necesidades propias del Órgano Regulador de Transporte para uniformar los criterios y acciones de administración y supervisión;
-
-XVII. Instrumentar las medidas necesarias para optimizar la recaudación de los diferentes conceptos por ingresos autogenerados; y
+XVII. Colaborar con la Secretaría de Movilidad para determinar los cursos y programas de capacitación para los operadores del Servicio de Corredores de Transporte Público;
 
 XVIII. Las demás que le confieran las disposiciones legales aplicables y los que sean para el cumplimiento de su objetivo.
 
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2020)</small>
+
+###### Artículo 319.
+
+Corresponde a la Dirección Ejecutiva de los Centros de Transferencia Modal:
+
+I. Coordinar, administrar y supervisar los espacios físicos destinados a la infraestructura y equipamiento auxiliar del servicio que se brinda; así como proponer los instrumentos para llevar a cabo las actividades y servicios que se prestan en los Centros de Transferencia Modal, para que sean utilizados de acuerdo a su finalidad;
+
+II. Establecer los criterios de coordinación con los diferentes entes de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México, para el desarrollo e implementación de estrategias y proyectos de obra, infraestructura y de servicios;
+
+III. Proponer instrumentos de vinculación y de colaboración con organismos de cooperación, nacionales e internacionales, para la implementación, operación y administración de los proyectos y servicios, así como los relativos a programas y proyectos que se requieran para la eficiente operación y funcionamiento de los Centros de Transferencia Modal;
+
+IV. Plantear e implementar estudios y proyectos para el otorgamiento de concesiones orientados a mejorar la operatividad, coordinación, mantenimiento y financiamiento de los Centros de Transferencia Modal;
+
+V. Diseñar un sistema que permita integrar y mantener actualizado el padrón de los concesionarios y permisionarios competencia de los Centros de Transferencia Modal;
+
+VI. Solicitar a los concesionarios la documentación e información económica y financiera que consideré pertinente, durante la vigencia de la concesión, así como implementar los mecanismos de seguimiento y evaluación necesarios para que se identifiquen esquemas financieros y de sostenimiento, que permitan la continuidad de la prestación del servicio de manera permanente, uniforme y establecer las medidas de seguridad necesarias;
+
+VII. Proponer y elaborar esquemas de destino para los aprovechamientos generados por el uso de los bienes muebles e inmuebles de los Centros de Transferencia Modal, a aquellas actividades relacionadas con operación, administración, funcionamiento y supervisión de las instalaciones;
+
+VIII. Instrumentar las medidas necesarias para optimizar la recaudación de los diferentes conceptos por ingresos autogenerados, de conformidad con la normatividad aplicable;
+
+IX. Implementar estrategias, programas, estudios y proyectos para el otorgamiento de concesiones u otros modelos de administración, supervisión, financiamiento y regulación de los Centros de Transferencia Modal;
+
+X. Proponer las bases e instrumentos de los procedimientos necesarios para la adecuada supervisión y vigilancia, así como implementar los mecanismos de operación y administración sobre actividades que se desarrollen en las instalaciones de los Centros de Transferencia Modal;
+
+XI. Proponer e Implementar el uso de nuevas tecnologías para hacer más eficientes los servicios en los Centros de Transferencia Modal;
+
+XII. Coordinar las acciones relacionadas para el uso y aprovechamiento de los Centros de Transferencia Modal y para el otorgamiento de las autorizaciones de acceso vehicular;
+
+XIII. Proponer los “Elementos Operativos para la Autorización de Acceso Vehicular”, para determinar la procedencia de la autorización o la revocación de uso del espacio asignado en las instalaciones de los Centros de Transferencia Modal;
+
+XIV. Revisar la vigencia de las autorizaciones de acceso vehicular, el cumplimiento de la prestación del servicio y del pago por aprovechamientos, para el uso de los Centros de Transferencia Modal e informar a la Dirección Ejecutiva de Asuntos Jurídicos cualquier anomalía o incumplimiento detectado;
+
+XV. Coordinar, ordenar y supervisar la operación, ubicación y reubicación de los concesionarios y permisionarios de servicios de transporte público de pasajeros, dentro de las áreas definitivas y provisionales de los Centros de Transferencia Modal, contemplados en proyectos de coinversión, concesión y otros modelos de operación, en coordinación con los entes de la Administración Pública Local y Federal competentes;
+
+XVI. Proponer e implementar los procedimientos de actuación de las personas servidoras públicas asignados a los Centros de Transferencia Modal, conforme a los requerimientos de las necesidades propias del Órgano, para uniformar los criterios y acciones de administración y supervisión;
+
+XVII. Participar en la coordinación con los diferentes entes de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México en el desarrollo e implementación de estrategias, programas, proyectos de obras, infraestructura y de servicios;
+
+XVIII. Coordinar con la Secretaría de Obras y Servicios las actividades relativas al diseño de obras y servicios destinados a la infraestructura y equipamiento de los Centros de Transferencia a su cargo;
+
+XIX. Coordinar con la Secretaría de Seguridad Ciudadana, o a través de las personas servidoras que le sean adscritas, las acciones necesarias para poner a disposición de la autoridad competente -Juez Cívico o Ministerio Público-, a quienes infrinjan las disposiciones legales aplicables en los Centros de Transferencia Modal;
+
+XX. Requerir en coordinación con el Instituto de Verificación Administrativa operativos y visitas de verificación al servicio de transporte dentro de los Centros de Transferencia Modal; y
+
+XXI. Las demás que le confieran las disposiciones legales aplicables y los que sean para el cumplimiento de su objetivo.
+
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2020)</small>
+
+###### Artículo 320.
+
+Corresponde a la Dirección Ejecutiva de Corredores y Gestión Tecnológica:
+
+I. Administrar, autorizar, regular, supervisar y controlar la operación de los servicios de Corredores de Transporte Público de Pasajeros;
+
+II. Solicitar durante la vigencia de la concesión a los concesionarios, la documentación e información económica y financiera que considere pertinente para identificar esquemas financieros que permitan la prestación del servicio de manera permanente, uniforme y establecer las medidas de seguridad necesarias;
+
+III. Autorizar, regular, supervisar y controlar los servicios y el mantenimiento de la infraestructura y equipamiento auxiliar de los Corredores de Transporte Público;
+
+IV. Administrar, regular, supervisar y controlar la revista del parque vehicular de los Corredores de Transporte Público de Pasajeros;
+
+V. Dictaminar y autorizar los estudios técnicos y proyectos ingresados para la prestación del Servicio de Corredores de Transporte Público de Pasajeros, con base en la normatividad vigente;
+
+VI. Programar, orientar, organizar y, en su caso, modificar la prestación del Servicio de Corredores de Transporte Público de Pasajeros;
+
+VII. Emitir los acuerdos necesarios para la conservación, mantenimiento, renovación y cumplimiento de las especificaciones técnicas del parque vehicular destinado a la prestación del Servicio de Corredores de Transporte Público de Pasajeros;
+
+VIII. Establecer medidas de seguridad necesarias para que los concesionarios presten el servicio en condiciones de calidad, seguridad e higiene;
+
+IX. Colaborar con la Secretaría de Movilidad para determinar los cursos y programas de capacitación para los operadores del Servicio de Corredores de Transporte;
+
+X. Coordinar con el Instituto de Verificación Administrativa operativos y visitas de verificación al servicio de Corredores de Transporte;
+
+XI. Intervenir en los procesos administrativos para el otorgamiento, prórroga, revocación, caducidad y extinción de concesiones;
+
+XII. Realizar todas aquellas acciones tendientes a que el servicio de Corredores de Transporte se lleve a cabo con calidad, eficiencia, cuidado del medio ambiente y seguridad de los usuarios;
+
+XIII. Integrar y mantener actualizado el padrón de los concesionarios y permisionarios;
+
+XIV. Participar en la coordinación con los diferentes entes de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México en el desarrollo e implementación de estrategias, programas, proyectos de obras, infraestructura y servicios para corredores de transporte;
+
+XV. Supervisar el cumplimiento de las frecuencias de los derroteros autorizados con los que operan los prestadores del servicio de transporte público de pasajeros en su modalidad de Corredores;
+
+XVI. Generar la información e indicadores sobre la operación y recorridos de las unidades de transporte público colectivo concesionado mediante la plataforma digital de monitoreo;
+
+XVII. Gestionar, administrar y supervisar el servicio integral de plataforma digital para el monitoreo de unidades de transporte público de pasajeros concesionado;
+
+XVIII. Proponer e implementar el uso de nuevas tecnologías para hacer más eficientes los servicios en los Corredores de Transporte Público; así como en las unidades de transporte público colectivo concesionado; y
+
+XIX. Las demás que le confieran las disposiciones legales aplicables y los que sean para el cumplimiento de su objetivo.
+
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2020)</small>
+
 ###### Artículo 321.
 
-Corresponde a la Dirección Ejecutiva de Administración y Supervisión “B”:
+Corresponde a la Dirección Ejecutiva de Asuntos Jurídicos:
 
-I. Implementar mecanismos de operación y administración, y fijar las bases e instrumentar los procedimientos necesarios para la adecuada coordinación de actividades y servicios que se prestan y confluyen en los Centros de Transferencia Modal;
+I. Elaborar, revisar, contestar y dar seguimiento hasta su conclusión a todos aquellos actos tendientes a la defensa de los intereses jurídicos del Órgano, como es el caso de demandas civiles, laborales, juicios de nulidad, lesividad, juicios de amparo; así como formular denuncias o querellas y coadyuvar -en su caso-, ante el Ministerio Público por la probable constitución de hechos delictivos en los que el Órgano resulte agraviado. O bien, otorgar el perdón en los casos que corresponda, todo ello en coordinación con la Dirección General de Asuntos Jurídicos de la Secretaría de Movilidad;
 
-II. Administrar y supervisar los espacios físicos, la infraestructura y el equipamiento auxiliar del servicio que brindan los Centros de Transferencia Modal para que sean utilizados de acuerdo a su finalidad;
+II. Revisar, analizar y emitir opinión jurídica respecto de los convenios, contratos y demás instrumentos jurídicos-administrativos que suscriba el Órgano y sus Unidades Administrativas;
 
-III. Coordinar las acciones relacionadas para el uso y aprovechamiento de los Centros de Transferencia Modal y para el otorgamiento de las autorizaciones de acceso vehicular;
+III. Promover y suscribir instrumentos de vinculación con organismos de cooperación, nacionales e internacionales, para el cumplimiento de los objetivos del Órgano, relacionados con la movilidad eficiente e integral de los usuarios en la Ciudad de México;
 
-IV. Implementar estrategias, programas, estudios y proyectos para el otorgamiento de concesiones u otros de modelos de administración, supervisión, financiamiento y regulación de los Centros de Transferencia Modal;
+IV. Emitir instrumentos de vinculación y de colaboración con organismos de cooperación, nacionales e internacionales, parala implementación, operación y administración de servicios, así como los relativos a programas y proyectos que se requieran para la eficiente operación y funcionamiento de los Centros de Transferencia Modal, así como del servicio de Corredores del Transporte Público de Pasajeros;
 
-V. Integrar y mantener actualizado el padrón de los concesionarios y permisionarios competencia de (sic) Órgano Regulador de Transporte;
+V. Suscribir documentos relativos a la Representación Legal, así como celebrar, otorgar y suscribir los contratos, convenios y demás actos jurídicos y de carácter administrativo, o de cualquier otra índole dentro del ámbito de su competencia, necesarios para el ejercicio de sus funciones- y en su caso-, de las Unidades Administrativas adscritas al Órgano;
 
-VI. Solicitar a los concesionarios, durante la vigencia de la concesión, la documentación e información económica y financiera que considere pertinente, para identificar esquemas financieros y de sostenimiento, que permitan la continuidad de la prestación del servicio de manera permanente, uniforme y establecer las medidas de seguridad necesarias;
+VI. Actualizar, revisar y modificar Convenios, Contratos, Permisos Administrativos y demás instrumentos jurídicos, con la finalidad de adecuarlos al marco normativo vigente;
 
-VII. Coordinar con la Secretaría de Seguridad Ciudadana, o a través de las personas públicas que le estén adscritas, las acciones necesarias para poner a disposición del Juez Cívico o Ministerio Público a quienes infrinjan las disposiciones legales aplicables en los Centros de Transferencia Modal;
+VII. Mantener actualizada la normatividad, mediante la revisión continua del cumplimiento de las obligaciones contractuales, por parte de los concesionarios y permisionarios;
 
-VIII. Participar en la coordinación con los diferentes entes de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México en el desarrollo e implementación de estrategias, programas, proyectos de obras, infraestructura y de servicios que regula el Órgano Regulador de Transporte;
+VIII. Realizar las gestiones administrativas ante las instancias correspondientes, para la liberación del derecho de vía del Sistema de Transporte Público Cablebús.
 
-IX. Supervisar el cumplimiento de las frecuencias de los derroteros autorizados con los que operan los prestadores del servicio de transporte público de pasajeros;
+IX. Emitir bases y lineamientos de operación, regulación, mantenimiento, funcionamiento y conservación de los Centros de Transferencia Modal, así como de los Corredores de Transporte Público de Pasajeros;
 
-X. Revisar la vigencia de las autorizaciones de acceso vehicular, el cumplimiento de la prestación del servicio y del pago por aprovechamiento, para el uso de los Centros de Transferencia Modal y Corredores de Transporte Público;
+X. Coordinar con la Secretaría de Seguridad Ciudadana, o a través de las personas servidoras que le sean adscritas, las acciones necesarias para poner a disposición de la autoridad competente -Juez Cívico o Ministerio Público-, a quienes infrinjan las disposiciones legales aplicables en los Centros de Transferencia Modal, así como en los Corredores Públicos;
 
-XI. Participar en la consecución de estudios y proyectos técnicos orientados a mejorar la operatividad de los Centros de Transferencia Modal, Corredores de Transporte Público y Líneas de Cablebús;
+XI. Analizar, formular y proponer modificaciones a leyes, reglamentos, decretos, acuerdos, circulares y demás ordenamientos que sean competencia del Órgano;
 
-XII. Coordinar la ubicación y reubicación de los prestadores de servicios del transporte público de pasajeros dentro de las áreas de transferencia modal definitivas y provisionales de los Centros de Transferencia Modal contemplados en proyectos de coinversión, concesión y otros modelos de operación, y en coordinación con los entes de la Administración Pública Local y Federal competentes.
+XII. Coordinar con el Instituto de Verificación Administrativa las acciones de operativos y visitas de verificación de los servicios que tiene vinculados el Órgano;
 
-XIII. Supervisar y ordenar a los prestadores de servicios del transporte público de pasajeros, dentro de los espacios físicos asignados en los Centros de Transferencia Modal, para hacer más eficiente la operación en las áreas de transferencia modal.
-
-XIV. Emitir los “Elementos Operativos para la Autorización de Acceso Vehicular”, para determinar la procedencia de la autorización o la revocación de uso del espacio asignado en las instalaciones de los Centros de Transferencia Modal;
-
-XV. Coordinar la operación de los concesionarios y permisionarios que hacen uso de las instalaciones competencia del Órgano Regulador de Transporte, para que cumplan con los lineamientos establecidos (sic) normatividad competente;
-
-XVI. Proponer e implementar los procedimientos de actuación de las personas servidoras públicas asignados a los Centros de Transferencia Modal conforme a los requerimientos de las necesidades propias del Órgano Regulador de Transporte para uniformar los criterios y acciones de administración y supervisión;
-
-XVII. Instrumentar las medidas necesarias para optimizar la recaudación de los diferentes conceptos por ingresos autogenerados; y
-
-XVIII. Las demás que le confieran las disposiciones legales aplicables y los que sean para el cumplimiento de su objetivo;
+XIII. Las demás que le confieran las disposiciones legales aplicables y los que sean para el cumplimiento de su objetivo.
 
 ###### Artículo 322.
 
-Corresponde a la Dirección General del Sistema de Transporte Público Cablebús de la Ciudad de México:
-
-I. Proponer y desarrollar estudios técnicos y estratégicos necesarios para la planeación, diseño e implementación del Sistema de Transporte Público Cablebús;
-
-II. Establecer los criterios de coordinación y participación con los diferentes entes de la Administración Pública Local y Federal, para la implementación del Sistema de Transporte Público Cablebús;
-
-III. Proponer y suscribir instrumentos de vinculación y colaboración con organismos de cooperación, nacionales e internacionales para la implementación, operación y administración de los proyectos y servicios competencia del Órgano Regulador de Transporte, así como los relativos a programas y proyectos que se requieran para la implementación del Sistema de Transporte Público Cablebús;
-
-IV. Planear, proponer y supervisar proyectos, infraestructura y equipamiento para gestionar, implementar, conservar, ampliar, mejorar y hacer más eficiente el Sistema de Transporte Público Cablebús, y desarrollar proyectos que dicten y vigilen las políticas de operación del mismo, de acuerdo con los lineamientos jurídicos aplicables en la materia;
-
-V. Proponer, planear y evaluar nuevos sistemas de recaudo, autofinanciamiento y diversificación de fuentes de ingreso, para el Sistema de Transporte Público Cablebús;
-
-VI. Participar con las Unidades Administrativas del Órgano Regulador de Transporte en la coordinación con los diferentes entes de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México para el desarrollo e implementación de estrategias y proyectos de obra, infraestructura y de servicios relacionados al Sistema de Transporte Público Cablebús;
-
-VII. Coordinar y administrar los espacios físicos destinados a la infraestructura y equipamiento auxiliar necesarios para la implementación del Sistema de Transporte Público Cablebús.
-
-VIII. Plantear e implementar estudios y proyectos para el otorgamiento de concesiones y otros mecanismos de operación, coordinación, mantenimiento y financiamiento del Sistema de Transporte Público Cablebús;
-
-IX. Coordinar con las diversas Dependencias, Órganos Desconcentrados, Entidades y Alcaldías de la Administración Pública y organismos participantes, las acciones y actividades relativas al financiamiento, inversión, diseño de obras y servicios destinados a implementación del Sistema de Transporte Público Cablebús;
-
-X. Proponer y elaborar esquemas de destino para los aprovechamientos generados por el uso de los bienes muebles e inmuebles del Sistema de Transporte Público Cablebús a aquellas actividades relacionadas con operación, administración, funcionamiento y supervisión de las instalaciones;
-
-XI. Suscribir documentos relativos al ejercicio de sus atribuciones, así como celebrar, otorgar y suscribir los contratos, convenios y demás actos jurídicos de carácter administrativo o de cualquier otra índole dentro del ámbito de su competencia, necesarios para el ejercicio de sus funciones y en su caso de las Unidades Administrativas que les estén adscritas;
-
-XII. Emitir bases y lineamientos de operación, regulación, mantenimiento y funcionamiento del Sistema de Transporte Público Cablebús; y
-
-XIII. Las demás que le confieran las disposiciones legales aplicables y los que sean para el cumplimiento de su objetivo
+(DEROGADO, G.O. 31 DE ENERO DE 2020)
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE FEBRERO DE 2019)</small>
 
@@ -13671,3 +13897,17 @@ G.O. 4 DE DICIEMBRE DE 2019.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 31 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGAN, ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las referencias hechas a la Dirección General del Sistema de Transporte Público Cablebús de la Ciudad de México, del Órgano Regulador de Trasporte (sic), en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas, así como en contratos o convenios, respecto de las atribuciones que se transfieren por virtud del Decreto por el cual se modifica el diverso por el que se deja sin efectos el diverso por el que se crea la Coordinación de los Centros de Transferencia Modal y se transfieren las atribuciones y recursos que se indican, al desconcentrado denominado, Órgano Regulador del Transporte, por el que se trasfieren las atribuciones y recursos que se indican, a la Secretaría de Obras y Servicios, publicado en la Gaceta Oficial de la Ciudad de México el 31 de diciembre de 2019, se entenderán referidas a esta última Dependencia, quien las ejercerá a través de la Dirección Ejecutiva de Construcción del Sistema Cablebús, en el ámbito de sus respectivas competencias.
+
+De conformidad con lo anterior, los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Dirección General del Sistema de Transporte Público Cablebús de la Ciudad de México, del Órgano Regulador de Transporte, y se relacionen con las atribuciones que se confieren a la Dirección Ejecutiva de Construcción del Sistema Cablebús, adscrita a la Secretaría de Obras y Servicios por virtud de este ordenamiento, serán atendidos y resueltos por esta última Dirección Ejecutiva en el ámbito de su respectiva competencia.
+
+Con el objeto de realizar la transferencia de los recursos humanos, financieros y materiales de la Dirección General del Sistema de Transporte Público Cablebús de la Ciudad de México, del Órgano Regulador de Trasporte (sic), y se continúe con el cumplimiento de las obligaciones contraídas por éste, al momento de su transferencia a la Dirección Ejecutiva de Construcción del Sistema Cablebús, adscrita a la Secretaría de Obras y Servicios; continuará operando con los recursos disponibles, en tanto que la Secretaría de Administración y Finanzas disponga lo necesario para realizar dichas transferencias a la Secretaría de Obras y Servicios.
