@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2020-01-24"
+last_updated: "2020-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2020.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -3268,6 +3268,10 @@ Se considera que existe razón de género cuando concurra cualquiera de las sigu
 Cuando respecto a la conducta lesiva concurran cualquiera de las circunstancias de las previstas (sic) el párrafo anterior, se aumentará en una mitad el mínimo y el máximo de las penas señaladas para las lesiones simples en el artículo 200 de este código, según las lesiones de que se trate conforme a dicho artículo 200.
 
 Más si respecto a la conducta lesiva concurren una o más circunstancias de las previstas en el artículo 184 de este código con alguna de las previstas en el párrafo anterior, se incrementará en tres cuartas partes el mínimo y el máximo de las penas señaladas para las lesiones simples en el artículo 200 de este código, según la lesión de que se trate conforme a dicho artículo 200.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+Se aumentará en una mitad del mínimo y el máximo de las penas señaladas para las lesiones, según las mismas de que se trate conforme al artículo 200 de este Código, a quien se las infiera a una persona adulta mayor de 60 años o más.
 
 Artículo 202 (Lesiones atenuadas por riña)
 
@@ -7862,3 +7866,13 @@ P.O. 24 DE ENERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 497.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 201 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La publicación referida en el artículo transitorio primero deberá hacerse una vez que haza (sic) entrado en vigor el Decreto 403, de 2019.
+
+TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
