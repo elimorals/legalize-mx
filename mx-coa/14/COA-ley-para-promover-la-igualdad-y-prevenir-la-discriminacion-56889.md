@@ -4,7 +4,7 @@ identifier: "COA-ley-para-promover-la-igualdad-y-prevenir-la-discriminacion-5688
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-24"
-last_updated: "2019-07-12"
+last_updated: "2020-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 24 de agosto de 2007.
 
@@ -79,9 +79,9 @@ IV. Dirección: La Dirección para Promover la Igualdad y Prevenir la Discrimina
 
 V. Discapacidad: Es el resultado de la interacción entre las personas con diversidad funcional y las barreras debidas a la actitud y al entorno que evitan su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2020)</small>
 
-VI. Discriminación: Toda ley, acto, hecho o conducta que provoque distinción, exclusión, restricción o rechazo, motivada por razones de origen étnico o nacional, género, edad, discapacidad, condición social o económica o de salud, estado de gravidez, lengua, religión, opiniones, preferencia sexual, estado civil, filiación o identidad política, apariencia física o cualquier otra que atente contra la dignidad humana y tenga por efecto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades de las personas;
+VI. Discriminación: Toda ley, acto, hecho o conducta que provoque distinción, exclusión, restricción, o rechazo, motivada por razones de origen étnico o nacional, género, edad, discapacidad, condición social o económica o de salud, estado de gravidez, lengua, religión, opiniones, preferencia sexual, estado civil, filiación o identidad política, apariencia física, identidad o expresión de género o cualquier otra que atente contra la dignidad humana y tenga por efecto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades de las personas;
 
 VII. Estado: El Estado Libre y Soberano de Coahuila de Zaragoza;
 
@@ -178,6 +178,14 @@ s.- Discriminación por Analfabetismo o Nivel Académico: Es la discriminación 
 t.- Discriminación por Lengua: ocurre cuando una persona es tratada diferente a causa de su lengua original o nativa u otras características de su manera de hablar. No debe de ser motivo para acceder a un empleo o a una beca educativa.
 
 u.- Discriminación Múltiple: Este tipo de discriminación sucede cuando un individuo pertenece a más de una minoría o grupo con tendencia a ser discriminado. Dicha discriminación puede ser transversal a todos los tipos de discriminación antes señaladas.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+v.- Discriminación por identidad o expresión de género: Se produce cuando existen actos tendientes a menoscabar, anular, o limitar los derechos o la dignidad de una persona por su identidad y/o imagen personal, cuando ésta no coincide con su sexo biológico.
+
+> <small>[N. DE E. PERTENECE AL INCISO V, P.O. 31 DE ENERO DE 2020]</small>
+
+Esta puede ser realizada hacia cualquier género en un orden moral o físico por no mostrar la identidad de género esperada socialmente.
 
 ###### ARTÍCULO 4.
 
@@ -1374,5 +1382,13 @@ P.O. 12 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 316.- SE REFORMA EL INCISO A) DEL ARTÍCULO 3 BIS; SE MODIFICA EL CONTENIDO DE LA FRACCIÓN III DEL ARTÍCULO 15, SE MODIFICA TAMBIÉN EL CONTENIDO DE LA FRACCIÓN VI, RECORRIENDO EL ACTUAL A LA FRACCIÓN VII, QUE SE CREA, Y SE ADICIONA UN NUEVO CONTENIDO A LA FRACCIÓN III DEL ARTÍCULO 21, TODOS DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 488.- SE MODIFICA EL CONTENIDO DE LA FRACCIÓN VI DEL ARTÍCULO 3; Y SE ADICIONA EL INCISO V AL ARTÍCULO 3 BIS DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
