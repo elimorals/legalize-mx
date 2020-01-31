@@ -4,7 +4,7 @@ identifier: "COA-ley-de-cultura-fisica-y-deporte-del-estado-de-coahuila-de-10162
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-17"
-last_updated: "2017-11-21"
+last_updated: "2020-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 17 de junio de 2014.
 
@@ -99,29 +99,37 @@ IX. Deporte de alto rendimiento: Conjunto de planes y programas en materia depor
 
 X. Deporte adaptado: Es toda actividad físico - deportiva que es susceptible de aceptar modificaciones para posibilitar la participación de las personas con discapacidad.
 
-XI. Disciplina deportiva de conjunto: básquetbol, béisbol, fútbol, handball, hockey, polo acuático, rugby, softbol, voleibol, voleibol de playa y las demás que establezca la Confederación Deportiva Mexicana;
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2020)</small>
 
-XII. Disciplinas deportivas de tipo individual: ajedrez, atletismo, bádminton, boliche, boxeo, canotaje, ciclismo, clavados, esgrima, frontón, modalidades de la gimnasia, judo, karate, levantamiento de pesas, lima lama, luchas asociadas, nado sincronizado, natación, patines sobre ruedas, pentatlón moderno, racquetbol, remo, squash, taekwondo, tenis, tenis de mesa, tiro deportivo, tiro con arco, triatlón, vela, aikido, billar, wushu, kendo, motociclismo, físico constructivismo, radio experimentadores, charros, rodeo y las demás que establezca la Confederación Deportiva Mexicana;
+XI. Deporte inclusivo: Disciplinas deportivas practicadas, de manera recreativa o profesional, por personas con discapacidad junto a personas que no presentan discapacidad alguna, como un medio para mejorar su calidad de vida y su inclusión social.
 
-XIII. Estado: El Estado de Coahuila de Zaragoza;
+XII. Disciplina deportiva de conjunto: básquetbol, béisbol, fútbol, handball, hockey, polo acuático, rugby, softbol, voleibol, voleibol de playa y las demás que establezca la Confederación Deportiva Mexicana;
 
-XIV. Gobernador: El Gobernador Constitucional del Estado de Coahuila de Zaragoza;
+XIII. Disciplinas deportivas de tipo individual: ajedrez, atletismo, bádminton, boliche, boxeo, canotaje, ciclismo, clavados, esgrima, frontón, modalidades de la gimnasia, judo, karate, levantamiento de pesas, lima lama, luchas asociadas, nado sincronizado, natación, patines sobre ruedas, pentatlón moderno, racquetbol, remo, squash, taekwondo, tenis, tenis de mesa, tiro deportivo, tiro con arco, triatlón, vela, aikido, billar, wushu, kendo, motociclismo, físico constructivismo, radio experimentadores, charros, rodeo y las demás que establezca la Confederación Deportiva Mexicana;
 
-XV. Instituto: El Instituto Estatal del Deporte de Coahuila de Zaragoza;
+XIV. Estado: El Estado de Coahuila de Zaragoza;
 
-XVI. Ley: la Ley de Cultura Física y Deporte del Estado de Coahuila de Zaragoza;
+XV. Gobernador: El Gobernador Constitucional del Estado de Coahuila de Zaragoza;
 
-XVII. Municipios: Los municipios del Estado de Coahuila de Zaragoza;
+XVI. Instituto: El Instituto Estatal del Deporte de Coahuila de Zaragoza;
 
-XVIII. Plan Estatal del Deporte: El documento que incluye las acciones, programas y proyectos que tengan como fin promover las actividades deportivas y de cultura física en el Estado;
+XVII. Ley: la Ley de Cultura Física y Deporte del Estado de Coahuila de Zaragoza;
 
-XIX. Recreación: El uso del tiempo de una manera planeada que tiene fines de disfrute físico, mental y terapéutico;
+XVIII. Municipios: Los municipios del Estado de Coahuila de Zaragoza;
 
-XX. Registro Estatal del Deporte: El registro que se integra por deportistas, las organizaciones que los agrupen en el Estado e instalaciones públicas y privadas que se establezcan para realizar actividades físicas, deportivas y recreativas;
+XIX. Plan Estatal del Deporte: El documento que incluye las acciones, programas y proyectos que tengan como fin promover las actividades deportivas y de cultura física en el Estado;
 
-XXI. Secretaria: La Secretaría de Educación del Estado de Coahuila de Zaragoza, y
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2020)</small>
 
-XXII. Sistema Estatal del Deporte: El sistema interinstitucional, conformado por las autoridades estatales y municipales en materia de deporte, así como por deportistas y organizaciones que los agrupan, que tiene por objeto planear, programar y realizar acciones en materia de cultura física y deporte.
+XX. Registro Municipal del Deporte: El registro que se integra por deportistas, las organizaciones que los agrupen en un Municipio e instalaciones públicas y privadas que se establezcan para realizar actividades físicas, deportivas y recreativas;
+
+XXI. Recreación: El uso del tiempo de una manera planeada que tiene fines de disfrute físico, mental y terapéutico;
+
+XXII. Registro Estatal del Deporte: El registro que se integra por deportistas, las organizaciones que los agrupen en el Estado e instalaciones públicas y privadas que se establezcan para realizar actividades físicas, deportivas y recreativas;
+
+XXIII. Secretaria: La Secretaría de Educación del Estado de Coahuila de Zaragoza, y
+
+XXIV. Sistema Estatal del Deporte: El sistema interinstitucional, conformado por las autoridades estatales y municipales en materia de deporte, así como por deportistas y organizaciones que los agrupan, que tiene por objeto planear, programar y realizar acciones en materia de cultura física y deporte.
 
 ### CAPÍTULO II. AUTORIDADES Y DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE CULTURA FÍSICA Y DEPORTE
 
@@ -219,6 +227,34 @@ XI. Las demás que le confiera esta ley y demás disposiciones aplicables.
 
 Además de las atribuciones a que se refiere el artículo anterior corresponden a los municipios en forma concurrente con la autoridad estatal, las previstas en las fracciones I, VI, VII, VIII y IX del artículo 7 de esta ley.
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+ARTÍCULO 9 BIS.- Los ayuntamientos podrán crear y organizar registros municipales del deporte, con el objeto de obtener, generar y procesar la información necesaria para la planeación y evaluación de las actividades en la materia.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+ARTÍCULO 9 BIS 1.- Los ayuntamientos establecerán y operarán registros municipales, en los que se inscribirá de manera sistematizada la información a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+ARTÍCULO 9 BIS 2.- Los registros municipales incluirán al menos lo siguiente:
+
+I. Programas municipales de cultura física y deporte;
+
+II. Ligas municipales, clubes y equipos deportivos;
+
+III. Deportistas;
+
+IV. Entrenadores, jueces y árbitros;
+
+V. Competencias, eventos y juegos deportivos;
+
+VI. Instalaciones deportivas.
+
+Los ayuntamientos reglamentarán la organización y funcionamiento de su respectivo registro municipal.
+
+Las ligas municipales, clubes, equipos y deportistas inscritos tendrán derecho a usar las instalaciones deportivas municipales. Los ayuntamientos establecerán las medidas necesarias para garantizar el ejercicio de este derecho.
+
 ###### ARTÍCULO 10.
 
 El Ejecutivo del Estado y los municipios, al inicio de sus respectivas administraciones, convocarán a los deportistas, sus asociaciones y organizaciones y a la sociedad en general, a participar en la elaboración de los correspondientes planes y programas del deporte.
@@ -265,7 +301,9 @@ a) Representar oficialmente al municipio o Estado en competencias deportivas;
 
 b) Obtener el registro que lo acredite como deportista, y/o
 
-c) Recibir becas, estímulos y apoyos deportivos, y
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE ENERO DE 2020)</small>
+
+c) Recibir becas, estímulos y apoyos deportivos, con atención diferenciada en tratándose de personas de la tercera edad, con discapacidad y de cualquier otro grupo vulnerable; y/o
 
 VIII. Los demás que le confiera esta ley y demás disposiciones aplicables.
 
@@ -481,7 +519,9 @@ El Instituto coordinará y promoverá la constitución de comisiones estatales d
 
 El Ejecutivo del Estado y los municipios, en sus ámbitos de competencia y conforme a sus leyes de ingresos y presupuestos de egresos, contribuirán al financiamiento de la cultura física y el deporte.
 
-Será responsabilidad permanente del Estado y los municipios, impulsar la cultura física y el deporte a través del financiamiento de una política integral en la materia que tenga sustento en el presupuesto de egresos.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2020)</small>
+
+Será responsabilidad permanente del Estado y los municipios, impulsar la cultura física y el deporte a través del financiamiento de una política integral en la materia que tenga sustento en el presupuesto de egresos, por lo que deberán, conforme a sus capacidades presupuestales, asignar las partidas necesarias para apoyar proyectos de construcción, equipamiento, adaptación y rehabilitación en instalaciones para la práctica de deporte adaptado, así como para la ejecución de programas para el fomento y promoción de la cultura física y el deporte para personas con alguna discapacidad.
 
 ###### ARTÍCULO 36.
 
@@ -890,3 +930,9 @@ P.O. 21 DE NOVIEMBRE DE 2017.
 PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 490.- SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 35; DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONAN LAS FRACCIONES XI Y XX DEL ARTÍCULO 5 RECORRIENDO LAS SUBSECUENTES, LOS ARTÍCULOS 9 BIS, 9 BIS 1 Y 9 BIS 2 ADEMÁS DE AGREGAR EL INCISO C A LA FRACCIÓN VII DEL ARTÍCULO 13; DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
