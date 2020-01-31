@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-del-suelo-122149"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-06-26"
-last_updated: "2017-06-26"
+last_updated: "2020-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122149&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-04-27"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DEL SUELO SUSTENTABLE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DEL SUELO SUSTENTABLE, PUBLICADO EN EL D.O.F. DEL 31 DE ENERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DEL SUELO SUSTENTABLE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE ENERO DE 2020 (ABROGADO).
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 26 de junio de 2017.
 
@@ -670,3 +672,25 @@ Estatuto Orgánico aprobado y expedido por la Honorable Junta de Gobierno del In
 El Director General del INSUS, Jesús Sergio Alcántara Núñez.- Rúbrica.- El Suplente de la Presidenta de la Honorable Junta de Gobierno, Juan Carlos Lastiri Quirós.- Rúbrica.- El Prosecretario de la H. Junta de Gobierno, Remel Pérez Torrijos.- Rúbrica.
 
 (R.- 451505)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 31 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DEL SUELO SUSTENTABLE”.]
+
+PRIMERO.- El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Estatuto, abroga el Estatuto Orgánico del Instituto Nacional del Suelo Sustentable, publicado en el Diario Oficial de la Federación el 26 de junio de 2017.
+
+TERCERO.- El trámite de los asuntos que se hayan presentado ante la Dirección de Suelo y Planeación Sustentable, Dirección Jurídica y de Seguridad Patrimonial, Dirección del Inventario Nacional del Suelo y Dirección de Delegaciones, con anterioridad al inicio de la vigencia de este Estatuto, se trasladará a las unidades administrativas que las sustituyan a fin de continuarse.
+
+Los recursos financieros, humanos y materiales con que cuenten las unidades administrativas, cuyas atribuciones se transfieran a otras unidades administrativas del Instituto Nacional del Suelo Sustentable, en virtud de la entrada en vigor del presente Estatuto Orgánico serán transferidos a las unidades administrativas que ejercerán dichas atribuciones.
+
+Las menciones y referencias que los reglamentos y demás disposiciones jurídicas hagan de servidores públicos, unidades administrativas del Instituto Nacional del Suelo Sustentable cuya denominación, funciones o atribuciones se vean modificadas con motivo de la entrada en vigor del presente Estatuto Orgánico, se entenderán referidas a los servidores públicos, unidades administrativas que, conforme al mismo, sean competentes en la materia que se trate.
+
+En casos de duda respecto de la unidad administrativa que deba continuar con la atención de los asuntos, corresponderá a la persona Titular de la Dirección General del Instituto Nacional del Suelo Sustentable, la determinación de la unidad administrativa competente con la opinión de la Dirección de Asuntos Jurídicos.
+
+CUARTO.- Para efectos administrativos, el Instituto Nacional del Suelo Sustentable, contará con un plazo de 90 días hábiles contados a partir de la fecha de entrada en vigor de este Estatuto para expedir las disposiciones administrativas de organización y funcionamiento interno.
+
+QUINTO.- El Estatuto Orgánico deberá inscribirse en el Registro Público de organismos descentralizados.
