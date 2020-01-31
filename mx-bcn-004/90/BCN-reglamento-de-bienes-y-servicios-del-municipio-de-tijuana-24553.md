@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-bienes-y-servicios-del-municipio-de-tijuana-24553
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-08"
-last_updated: "2018-07-20"
+last_updated: "2020-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE BIENES Y SERVICIOS DEL MUNICIPIO DE TIJUANA BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2020.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 8 de marzo de 2002.
 
@@ -271,7 +271,7 @@ La prórroga a que se refiere este artículo deberá ser solicitada, en su caso,
 
 Al término del plazo de la concesión, o de la última prórroga que en su caso se hubiere concedido, las obras e instalaciones adheridas de manera permanente al inmueble concesionado pasarán a formar parte del patrimonio del Municipio de Tijuana.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE ENERO DE 2020)</small>
 
 ###### Artículo 17.
 
@@ -279,13 +279,13 @@ Para dar en concesión un bien inmueble del dominio público se estará a lo sig
 
 > <small>[N. DE E. DEL ANÁLISIS AL ACUERDO DE CABILDO PUBLICADO EN EL P.O. DE 6 DE DICIEMBRE DE 2013, SE ADVIERTE QUE LOS ANTERIORES PÁRRAFOS TERCERO Y CUARTO SE FUSIONARON PARA FORMAR EL ACTUAL PÁRRAFO SEGUNDO.]</small>
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE ENERO DE 2020)</small>
 
 Si la concesión excede del término del periodo constitucional del Ayuntamiento, el acuerdo que la autorice debe tomarse con el voto favorable de cuando menos las dos terceras partes de los miembros del cabildo. Para la explotación o afectación de un bien propiedad municipal, el Ayuntamiento deberá aprobar la autorización correspondiente con el voto favorable de las dos terceras partes de los integrantes del Cabildo. Cuando la concesión sea promovida por el Ayuntamiento se hará mediante licitación pública, conforme al siguiente procedimiento:
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2020)</small>
 
-a) Se constituirá un Comité Técnico conformado por quienes ejerzan la titularidad de: la Coordinación General de Gabinete, la Tesorería Municipal, la Sindicatura Procuradora, del área involucrada y una Regidora o Regidor designado expresamente por el Cabildo, de acuerdo con la materia de la concesión; tal Comité autorizará las bases y la emisión de la convocatoria para la licitación, y designará a la Dependencia Municipal responsable de llevar a cabo el proceso de licitación respectivo, teniendo ésta última el carácter de autoridad convocante;
+a) Se constituirá un Comité Técnico conformado por quienes ejerzan la titularidad de: la Tesorería Municipal, la Sindicatura Procuradora, del área involucrada y una Regidora o Regidor designado expresamente por el Cabildo, de acuerdo con la materia de la concesión; tal Comité autorizará las bases y la emisión de la convocatoria para la licitación, y designará a la Dependencia Municipal responsable de llevar a cabo el proceso de licitación respectivo, teniendo ésta última el carácter de autoridad convocante;
 
 b) Las convocatorias para la licitación pública de concesiones deberán indicar:
 
@@ -672,3 +672,9 @@ P.O. 20 DE JULIO DE 2018.
 PRIMERO.- Publíquense la presente reforma en el Periódico Oficial del Estado de Baja California y en la Gaceta Municipal en su carácter de órgano de difusión del Ayuntamiento de Tijuana, Baja California.
 
 SEGUNDO.- Notifíquese a través de la Secretaría de Gobierno a todas las áreas de gobierno que tendrán la responsabilidad de la aplicación de las reformas, por medio del presente dictamen.
+
+P.O. 31 DE ENERO DE 2020.
+
+> <small>[N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS AL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA, REGLAMENTO INTERNO DE LA PRESIDENCIA MUNICIPAL DE TIJUANA, BAJA CALIFORNIA, REGLAMENTO INTERNO DEL COMITÉ MUNICIPAL PARA LA PREVENCIÓN DE LA VIOLENCIA DE TIJUANA, BAJA CALIFORNIA Y REGLAMENTO DE BIENES Y SERVICIOS DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA", QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+TERCERO.- El presente acuerdo entrará en vigor al momento de su aprobación, publíquese en el Periódico Oficial del Estado de Baja California y en la Gaceta Municipal.
