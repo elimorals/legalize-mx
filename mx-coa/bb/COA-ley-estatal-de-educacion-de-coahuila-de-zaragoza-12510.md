@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2019-12-20"
+last_updated: "2020-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -91,9 +91,9 @@ La Secretaría de Educación del Estado establecerá los mecanismos para la regu
 
 En ningún caso podrán condicionarse la inscripción, acceso a la escuela, la aplicación de evaluaciones o exámenes, la entrega de documentación, el acceso a cualquier servicio educativo en la escuela o afectar en cualquier sentido la igualdad en el trato de los alumnos, al pago de contraprestación alguna o al pago del mencionado donativo.
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2020)</small>
 
-Las escuelas públicas y privadas en el Estado de Coahuila que establezcan el uso de uniformes para los alumnos, deberán conceder un plazo de hasta cuarenta días hábiles para que cumplan con este requisito, otorgando a los padres y tutores la libertad de adquirirlos con el proveedor de su elección.
+Las escuelas públicas y privadas en el Estado de Coahuila que establezcan el uso de uniformes para los alumnos, deberán conceder un plazo de hasta cuarenta días hábiles para que cumplan con este requisito, otorgando a los padres y tutores la libertad de adquirirlos con el proveedor de su elección, para lo cual, las escuelas deberán autorizar diversos proveedores para la adquisición de los uniformes, quedando prohibido (sic) la práctica de un único proveedor exclusivo.
 
 > <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
@@ -117,9 +117,9 @@ V.- Fomentar una conciencia de respeto a los derechos de las personas y de la so
 
 VI.- Procurar las condiciones necesarias para la erradicación de las desigualdades sociales y contribuir de esta manera a la construcción y desarrollo de una sociedad con mejores condiciones de vida;
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2020)</small>
 
-VII.- Encauzar el desarrollo y la aplicación de la ciencia y la tecnología en atención a los requerimientos de la sociedad; fomentando entre los educandos el uso adecuado de las tecnologías de la información y la comunicación, el conocimiento y la conciencia respecto a las mejores prácticas como herramienta apropiada, así como prevenir la comisión de delitos en materia de tecnologías y cibernéticos, advirtiendo de los riesgos por el uso de internet;
+VII.- Encauzar el desarrollo y la aplicación de la ciencia y la tecnología en atención a los requerimientos de la sociedad; fomentando entre los educandos el uso adecuado de las tecnologías de la información y la comunicación, el conocimiento y la conciencia respecto a Ias (sic) mejores prácticas como herramienta apropiada, así como prevenir la comisión de delitos en materia de tecnologías y cibernéticos, advirtiendo de los riesgos por el uso de internet; en los niveles de educación básica de primaria y secundaria, se deberá cuidar que el uso de dispositivos móviles de comunicación y de navegación en internet no sean usados como distractor durante el tiempo destinado para la impartición de horas efectivas de clases.
 
 VIII.- Impulsar actitudes de respeto al medio ambiente y de responsabilidad solidaria con las generaciones presentes y futuras;
 
@@ -550,6 +550,12 @@ XX.- Establecer, de forma paulatina y conforme a la suficiencia presupuestal, es
 > <small>(ADICIONADA, P.O. 8 DE MARZO DE 2014)</small>
 
 XXI.- Impulsar esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria.
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2020)</small>
+
+XXII.- Vigilar que el embarazo y la maternidad no constituyan impedimento para que las estudiantes ingresen o continúen realizando sus estudios en los centros educativos públicos o privados, siempre y cuando cumplan con los requisitos de ingreso y permanencia; por lo que el personal docente, directivo y los responsables de las instituciones educativas oficiales y privadas de cualquier nivel o modalidad en el Estado, no podrán bajo ninguna circunstancia, adoptar acciones que impidan o perturben el inicio o continuación de sus estudios a las alumnas en estado de gravidez o lactancia, ni imponer medidas correctivas o sanciones disciplinarias a las estudiantes, o que provoquen su baja en el sistema educativo por causa de embarazo.
+
+Las instituciones educativas públicas o privadas, en cuanto a la estudiante embarazada, deberán establecer mecanismos para justificar su inasistencia por motivos de atención médica.
 
 ###### ARTICULO 27.
 
@@ -1996,3 +2002,27 @@ P.O. 20 DE DICIEMBRE DE 2019.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 516.- SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 7 DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 517.- SE ADICIONA LA FRACCIÓN XXII AL ARTÍCULO 26 DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 519.- SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 6 DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
