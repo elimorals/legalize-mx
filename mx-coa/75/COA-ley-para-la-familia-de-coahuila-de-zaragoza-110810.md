@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-familia-de-coahuila-de-zaragoza-110810"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2020-01-10"
+last_updated: "2020-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -1937,13 +1937,21 @@ En la línea transversal los grados se cuentan por el número de generaciones, s
 
 De los alimentos.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2020)</small>
 
 ###### Artículo 276.
 
-Para los efectos legales se entiende por alimentos: la alimentación nutritiva, el vestido, la habitación, la atención médica y psicológica preventiva integrada a la salud, la asistencia médica y terapéutica en casos de enfermedad, los gastos relativos al embarazo y el parto, la recreación. Respecto de las niñas y niños los alimentos comprenden los gastos necesarios para la educación preescolar, primaria, secundaria y media superior del alimentista, su recreación y para proporcionarle algún oficio, arte o profesión adecuados a sus circunstancias personales.
+Para los efectos legales se entiende por alimentos: la alimentación nutritiva, el vestido, la habitación, la atención médica y psicológica preventiva integrada a la salud, la asistencia médica y terapéutica en casos de enfermedad, los gastos relativos al embarazo y el parto, la recreación, así como los cuidados y asistencia que requiera el acreedor alimentario en lo particular. Respecto de las niñas y niños los alimentos comprenden los gastos necesarios para la educación preescolar, primaria, secundaria y media superior del alimentista, su recreación y para proporcionarle algún oficio, arte o profesión adecuados a sus circunstancias personales.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+En Relación al trabajo de cuidado y asistencia en favor del acreedor alimentario, deberá ser considerado como un aporte económico a quien lo realiza en el debido cumplimiento de las obligaciones alimenticias, lo cual deberá ser tomado en cuenta por el juez de la causa al momento de fijar la pensión alimenticia.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
 Para personas con algún tipo de discapacidad o que requieran de asistencia o representación para el ejercicio de sus derechos se deberá proporcionar en la medida de lo posible su rehabilitación y los elementos para una vida digna.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
 En el caso de las personas adultas mayores que carezcan de capacidad económica, la persona a la que le corresponda proporcionarle alimentos deberá además proveer atención geriátrica que redunde en una buena calidad de vida, debiéndose en la medida de lo posible integrarse a la familia.
 
@@ -4335,6 +4343,10 @@ Se entiende por integrante de la familia a la persona que se encuentre unida a o
 
 No se justifica en ningún caso como forma de educación o formación el ejercicio de la violencia hacia las niñas y niños.
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+Las personas que ejerzan la patria potestad, guarda y custodia, o tutela, de niñas, niños o adolescentes, no les podrán infligir castigo corporal alguno que atente contra la dignidad humana, como forma de corrección disciplinaria.
+
 > <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
 
 ###### Artículo 649.
@@ -4560,3 +4572,19 @@ P.O. 10 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 435.- SE REFORMA EL ARTÍCULO 231, LA FRACCIÓN III DEL ARTÍCULO 235, Y EL ÚLTIMO PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 244 DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 464.- SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 648 DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+P.O. 31 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 496.- SE MODIFICA EL PRIMER PÁRRAFO Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 276 DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
