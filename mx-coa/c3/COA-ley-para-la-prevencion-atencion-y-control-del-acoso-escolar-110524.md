@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-prevencion-atencion-y-control-del-acoso-escolar-110
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-13"
-last_updated: "2019-12-06"
+last_updated: "2020-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado Coahuila, el viernes 13 de noviembre de 2015.
 
@@ -43,11 +43,11 @@ LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2020)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto prevenir y erradicar el acoso escolar en las instituciones educativas públicas y privadas del Estado con un enfoque integral en la Cultura de Paz, sobre la base de que un ambiente libre de violencia es fundamental para respetar los derechos humanos, consolidar la democracia y garantizar los principios de equidad y no discriminación, la dignidad humana, la paz entre los educandos y el interés superior de la niñez.
+La presente Ley es de orden público e interés social y tiene por objeto prevenir y erradicar el acoso escolar en las instituciones educativas públicas y privadas del Estado de todos los niveles educativos, sobre la base de que (sic) un ambiente libre de violencia, con pleno respeto a los derechos humanos e igualdad sustantivita (sic), a fin de generar una cultura de la paz.
 
 ###### Artículo 2.
 
@@ -57,9 +57,13 @@ La Secretaría de Educación del Gobierno del Estado incluirá en los planes y p
 
 Son objetivos de la presente Ley:
 
-I. Garantizar la integridad física y psicológica de los educandos en un ambiente libre de violencia en las escuelas;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2020)</small>
 
-II. Canalizar, en su caso, para su adecuado tratamiento, a los alumnos que sean víctimas o autores del acoso escolar;
+I. Establecer los principios y criterios que, desde la perspectiva de una cultura de paz, enfoque de género, igualdad sustantiva y de derechos humanos de niñas, niños y adolescentes, orienten el diseño e instrumentación, evaluación y control de las políticas públicas para reconocer, atender, erradicar y prevenir la violencia física, moral y emocional escolar, dentro de (sic) Sistema Educativo Estatal;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2020)</small>
+
+II. Diseñar mecanismos, instrumentos y procedimientos tendentes a garantizar el derecho de los estudiantes que integran la comunidad educativa a una vida libre de acoso escolar promoviendo su convivencia pacífica;
 
 III. Educar sobre la prevención del acoso escolar en todas sus modalidades, de acuerdo con las edades de los educandos;
 
@@ -71,15 +75,53 @@ VI. Promover la participación social en la instrumentación de políticas para 
 
 VII. Crear el Registro Estatal para el Control del Acoso Escolar; y
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2020)</small>
 
-VIII. Propiciar, en el ambiente escolar, el desarrollo de una cultura de protección y de ejercicio de los derechos humanos y, de manera particular, los principios de equidad y no discriminación, interés superior de la niñez, la dignidad humana y la paz.
+VIII. Fomentar y, en su caso, implementar programas estatales de coordinación interinstitucional que propicien, en el ambiente escolar, el desarrollo de una cultura de protección y de ejercicio de los derechos humanos y, de manera particular, los principios de equidad y no discriminación, interés superior de la niñez, la dignidad humana y la paz.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+La actuación de las autoridades ante los casos de acoso escolar se regirá por lo dispuesto en la Ley General de los Derechos de Niñas, Niños y Adolescentes y en la Ley del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+###### Artículo 3 Bis.
+
+Los principios y ejes rectores de esta Ley, son:
+
+I. EI interés superior del menor;
+
+II. EI respeto a la dignidad humana y a los derechos humanos;
+
+III. La prevención del acoso escolar;
+
+IV. La no discriminación;
+
+V. La interdependencia;
+
+VI. La igualdad sustantiva;
+
+VII. La resolución no violenta de conflictos;
+
+VIII. La cohesión comunitaria;
+
+IX. La promoción de la cultura de (sic) paz;
+
+X. La tolerancia;
+
+XI. La coordinación interinstitucional; y
+
+XII. EI pluriculturalismo y reconocimiento de la diversidad.
+
+Dichos principios serán la base para la ejecución, seguimiento y evaluación de las políticas públicas que realicen las autoridades competentes, así como todas las acciones que lleven a cabo los sectores privado y social para prevenir y atender el acoso escolar.
 
 ###### Artículo 4.
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Acoso escolar: Conducta repetitiva e intencional, por cualquier medio, por lo que uno o varios alumnos pretenden intimidar, someter, amedrentar y/o atemorizar, emocional o físicamente, a uno o varios alumnos, dentro de una escuela pública o privada de todos los niveles educativos, con el propósito de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE ENERO DE 2020)</small>
+
+I. Acoso escolar: Conducta repetitiva e intencional, por cualquier medio, por lo que uno o varios alumnos o alumnas pretenden intimidar, someter, amedrentar y/o atemorizar, emocional o físicamente, a uno o varios alumnos o alumnas, dentro de una escuela pública o privada de Educación Básica, con el propósito de:
 
 a) Causarle daño físico o emocional, o daños a su propiedad;
 
@@ -111,9 +153,25 @@ X. Plan de Intervención en Casos de Acoso Escolar: El que señala los procedimi
 
 XI. Personal capacitado: El que haya sido capacitado por la Secretaría o aquel que posea conocimientos acreditables en materia de prevención e intervención de acoso escolar, así como en el tratamiento de sus consecuencias;
 
-XII. Registro Estatal para el Control del Acoso Escolar: La compilación detallada de la incidencia del acoso escolar en el Estado, que realizará la Secretaría; y
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2020)</small>
 
-XIII. Secretaría: La Secretaría de Educación del Gobierno del Estado de Coahuila de Zaragoza.
+XII. Registro Estatal para el Control del Acoso Escolar: La compilación detallada de la incidencia del acoso escolar en el Estado, que realizará la Secretaría;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2020)</small>
+
+XIII. Secretaría: La Secretaría de Educación del Gobierno del Estado de Coahuila de Zaragoza;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2020)</small>
+
+XIV. Alumno o alumna: Persona que se encuentra matriculada en alguna escuela pública y privada, de cualquier nivel de educación en el Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2020)</small>
+
+XV. Padres y madres de familia: En donde se contemple la persona mayor de edad que puede tener la guardia y custodia de la niña, niño o adolescente; y
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2020)</small>
+
+XVI. Cultura de la paz: El conjunto de valores, actitudes, comportamientos, modos de vida y acciones que reflejan el respeto de la vida de la persona humana, de su dignidad y sus derechos, el rechazo del acoso escolar en todas sus formas y la adhesión a los principios de libertad, justicia, solidaridad, y tolerancia.
 
 ### CAPÍTULO II. De las Autoridades, Distribución de Competencias y Coordinación
 
@@ -135,6 +193,24 @@ II. El Titular de la Secretaría y la estructura educativa, así como la Coordin
 
 III. El Director, docentes y demás personal escolar designado por cada institución educativa;
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+###### Artículo 6 Bis.
+
+Para los fines de esta Ley y en plena observancia a la Ley del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas del Estado de Coahuila de Zaragoza, las autoridades establecidas en el artículo anterior podrán solicitar la colaboración en la atención de casos de acoso escolar, de manera enunciativa mas no limitativa, a las instancias siguientes:
+
+I. La Secretaría de Salud;
+
+II. La Secretaría de Inclusión y Desarrollo Social;
+
+III. La Secretaría de Seguridad Pública;
+
+IV. El Sistema para el Desarrollo Integral de la Familia y Protección de Derechos;
+
+V. La Fiscalía General del Estado; y
+
+VI. La Comisión de los Derechos Humanos del Estado.
+
 ###### Artículo 7.
 
 El Titular del Poder Ejecutivo Estatal a través de la Secretaría tendrá las atribuciones siguientes:
@@ -153,9 +229,17 @@ VI. Vigilar el cumplimiento de las decisiones tomadas para el diseño e implemen
 
 VII. Sancionar al Director de la escuela o al personal de los planteles escolares que incumplan con lo dispuesto en esta Ley y, en su caso, destituir a los directores escolares;
 
-VIII. Integrar el Registro Estatal para el Control del Acoso Escolar y garantizar su publicidad en los términos de ley; y
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2020)</small>
 
-IX. Elaborar y publicar un informe anual sobre el acoso escolar en el Estado.
+VIII. Integrar el Registro Estatal para el Control del Acoso Escolar y garantizar su publicidad en los términos de ley;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2020)</small>
+
+IX. Elaborar y publicar un informe anual sobre el acoso escolar en el Estado; y
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2020)</small>
+
+X. Coordinarse con las autoridades municipales para la implementación de políticas públicas para prevenir y atender el acoso escolar.
 
 ###### Artículo 8.
 
@@ -189,7 +273,9 @@ XIII. Aplicar medidas disciplinarias a los autores de acoso escolar y represalia
 
 XIV. Sancionar a los cómplices en casos de acoso escolar y represalias;
 
-XV. Establecer responsabilidades administrativas en caso de incumplimiento del personal escolar a las disposiciones contenidas en esta Ley y dar aviso a la SEDU sobre el personal educativo que incumpla algunas de las disposiciones previstas en esta Ley o que no atiende las indicaciones realizadas por su superior jerárquico para a atención y solución del acoso escolar; y
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2020)</small>
+
+XV. Establecer responsabilidades administrativas en caso de incumplimiento del personal escolar a las disposiciones contenidas en esta Ley y dar aviso a la Secretaria sobre el personal educativo que incumpla algunas de las disposiciones previstas en esta Ley o que no atiende las indicaciones realizadas por su superior jerárquico para a (sic) atención y solución del acoso escolar;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2019)</small>
 
@@ -201,13 +287,63 @@ XVII. Preparar y presentar a la Secretaría un informe anual sobre acoso escolar
 
 ## TÍTULO SEGUNDO. De la Política Estatal Contra el Acoso Escolar
 
-### CAPÍTULO I. De la Prohibición del Acoso Escolar
+> <small>(REFORMADA SU DENOMINACIÓN P.O. 31 DE ENERO DE 2020)</small>
+
+### CAPÍTULO I. De las Características, Modalidades y Prohibición del Acoso Escolar
 
 ###### Artículo 9.
 
 Se prohíbe el acoso escolar en las escuelas públicas y privadas del Estado durante los horarios escolares, en actividades patrocinadas o relacionadas con la escuela, funciones o programas, dentro o fuera de la escuela, en los estacionamientos, paradas de autobuses escolares, en los autobuses escolares, vehículos privados, alquilados o utilizados por la escuela, o mediante el uso de la tecnología o de dispositivos electrónicos.
 
 Se prohíben también las represalias en contra de quien reporte casos de acoso escolar, en contra de quien proporcione información durante una investigación, o de quien sea testigo o poseedor de información fiable en algún caso de acoso escolar.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+###### Artículo 9 Bis.
+
+EI acoso escolar se caracterizará por:
+
+I. Comportamiento intencional y dañino, provocando presión hacia el receptor, quien se encuentra en situación de indefensión, aun cuando este no sea reportado;
+
+II. Predominio de un desequilibrio de poder entre los que participan;
+
+III. Persistencia de dichas acciones de forma reiterada, cuya duración va desde unas semanas a meses;
+
+IV. Realización de dichas acciones por una o varias personas contra otro u otros; y
+
+V. Provocación de algún tipo de daño en el receptor.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+###### Artículo 9 Ter.
+
+El acoso escolar será considerado como tal, cuando:
+
+I. Se lleve a cabo dentro de las instalaciones de una escuela, en las inmediaciones o en otro lugar donde los sujetos tengan una relación por la pertenencia al mismo centro escolar o a centros escolares distintos;
+
+II. Se lleve a cabo durante el desenvolvimiento de un programa o actividad escolar a cargo de un centro escolar;
+
+III. Suceda en el interior de un vehículo de transporte escolar;
+
+Las conductas de acoso y violencia escolar realizadas entre educandos en los casos no previstos en las fracciones anteriores serán sancionadas de conformidad con lo dispuesto por el derecho común.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+###### Artículo 9 Quáter.
+
+Las escuelas tienen la obligación fundamental de garantizar a los niños, niñas y adolescentes el pleno respeto a su vida, su integridad física y moral, y su dignidad, por lo que deberán:
+
+I. Ofrecer a todos los alumnos y alumnas una formación permanente en el respeto por los valores de la dignidad humana, los derechos humanos, la aceptación de los demás, la tolerancia hacia las diferencias entre personas y la solidaridad hacia las personas;
+
+II. Inculcar a todos los estudiantes un trato respetuoso y considerado hacia los demás, especialmente hacia quienes presentan discapacidades, vulnerabilidad o capacidades sobresalientes;
+
+III. Establecer entre los alumnos y alumnas prácticas cotidianas de trato fraternal, así como métodos de solución amigable y pacífica de las diferencias o conflictos entre ellos;
+
+IV. Proteger eficazmente a los estudiantes contra toda forma de acoso, hostigamiento, agresión física o psicológica, humillación, discriminación o burla por parte de los demás compañeros, los profesores, los trabajadores o directivos; y
+
+V. Establecer en sus reglamentos y disposiciones internas, los mecanismos adecuados de carácter disuasivo, correctivo y reeducativo para impedir el acoso, hostigamiento, agresión física o psicológica, humillación, discriminación y burla hacia los demás, especialmente hacia los niños, niñas y adolescentes.
+
+VI. Remitir un informe ante la Secretaría, al término de cada ciclo escolar, el cual contenga un sumario mensual de las denuncias recibidas y las acciones tomadas.
 
 ### CAPÍTULO II. De las Modalidades del Acoso Escolar
 
@@ -233,9 +369,13 @@ VI. Exclusión social: Cuando el estudiante víctima es excluido y aislado, o am
 
 La Secretaría elaborará el Plan de Prevención del Acoso Escolar. Dicho Plan deberá elaborarse con una amplia consulta con autoridades, personal escolar directivo, personal especializado, padres de familia o tutores y educandos, en la que se establezca un período para recibir comentarios públicos.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2020)</small>
+
 ###### Artículo 12.
 
-El Plan de Prevención del Acoso Escolar para las escuelas, será de cumplimiento obligatorio y se revisará, evaluará y actualizará cada dos años.
+El Plan de Prevención del Acoso Escolar es el instrumento rector en la materia, de cumplimiento obligatorio, el cual se realizará con perspectiva de género y protección de los derechos humanos, y promoverá una cultura de paz y no violencia escolar, debiéndose revisar, evaluar y actualizar cada dos años.
+
+El Plan de Prevención del Acoso Escolar impulsará modelos de prevención del mismo y las estrategias que incorporen el trabajo cooperativo, el intercambio cultural, la cohesión en la comunidad escolar, entre otros.
 
 ###### Artículo 13.
 
@@ -245,13 +385,19 @@ Son objetivos del Plan de Prevención del Acoso Escolar, los siguientes:
 
 I. Evitar, prevenir y erradicar el acoso escolar en las escuelas públicas y privadas del Estado implementando y fomentando la Cultura de Paz;
 
-II. Integrar a todo el alumnado mejorando las relaciones de convivencia entre todos los miembros de la comunidad educativa, en un ambiente libre de violencia;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2020)</small>
+
+II. Integrar a todo el alumnado mejorando las relaciones de convivencia entre todos los miembros de la comunidad educativa, en un ambiente libre de violencia que fortalezca sus competencias y habilidades intelectuales en beneficio propio y de la colectividad, además de fomentar el sentido de justicia, democracia, honestidad, veracidad, solidaridad, responsabilidad, no violencia y ante todo el aprecio a la vida;
 
 III. Implementar la política estatal contra el acoso escolar;
 
-IV. Fomentar la participación de estudiantes, personal escolar y autoridades, así como de padres y tutores, en la prevención del acoso escolar;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2020)</small>
+
+IV. Fomentar la participación de estudiantes, personal escolar y autoridades, así como de padres, madres y tutores, en la prevención del acoso escolar;
 
 V. Informar a la sociedad sobre las formas de prevención del acoso escolar, sus consecuencias y procedimientos de intervención; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE ENERO DE 2020)</small>
 
 VI. Fomentar el registro estadístico de los incidentes de acoso escolar y garantizar el acceso a la información.
 
@@ -331,25 +477,43 @@ La capacitación permanente y de manera anual del personal escolar de conformida
 
 Cada Director escolar será responsable de la ejecución y supervisión del Plan de Intervención en Casos de Acoso Escolar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2020)</small>
+
 ###### Artículo 21.
 
-Cualquier miembro del personal escolar deberá informar inmediatamente al Director de la escuela de cualquier caso de acoso escolar o represalia, del cual haya sido testigo o tenga noticia.
+Cualquier miembro del personal escolar deberá informar inmediatamente a la persona titular de la Dirección de la escuela de cualquier caso de acoso escolar o represalia, del cual haya sido testigo o tenga noticia.
 
-Tras la recepción de dicho informe, el Director de la escuela investigará sin demora y lo registrará en la bitácora escolar. Si el Director de la escuela, o su designado, determina que el acoso escolar o represalias han ocurrido, deberá:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE ENERO DE 2020)</small>
+
+Tras la recepción de dicho informe, la persona titular de la Dirección de la escuela investigará sin demora y lo registrará en la bitácora escolar. Si la Dirección de la escuela, o su designado, determina que el acoso escolar o represalias han ocurrido, deberá:
 
 I. Notificar del hecho a la Secretaría en caso de que requieran una atención especializada;
 
-II. Notificar a las autoridades competentes si el Director de la escuela o su designado estiman que la gravedad del acoso pueda requerir su intervención;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2020)</small>
+
+II. Notificar a las autoridades competentes si la persona titular de la Dirección de la escuela o su designado estiman que la gravedad del acoso pueda requerir su intervención;
 
 III. Tomar las medidas y aplicar las disciplinarias apropiadas, de conformidad con esta Ley y los reglamentos internos de cada escuela previstos en el Reglamento General de Escuelas;
 
-IV. Informar a los padres o tutores del autor y cómplices; y
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2020)</small>
 
-V. Comunicar a los padres o tutores de la víctima, las medidas adoptadas para prevenir o brindar atención especializada de cualquier acto de acoso escolar o represalia.
+IV. Informar a los padres, madres o tutores del autor y cómplices; y
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2020)</small>
+
+V. Comunicar a los padres, madres o tutores de la víctima, las medidas adoptadas para prevenir o brindar atención especializada de cualquier acto de acoso escolar o represalia.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2020)</small>
 
 ###### Artículo 22.
 
-Los padres de familia podrán reportar supletoriamente ante la Secretaría actos de acoso escolar cuando, a su juicio, los directivos de la escuela hayan sido omisos en atender la denuncia.
+Los padres y madres de familia podrán reportar supletoriamente ante la Secretaría, actos de acoso escolar cuando, a su juicio, los directivos de la escuela hayan sido omisos en atender la denuncia.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+###### Artículo 22 Bis.
+
+Se establecerán los mecanismos gratuitos de asesoría, orientación, reporte de casos y de protección para las niñas, niños, adolescentes y jóvenes que estén involucrados en casos de violencia, acoso o maltrato escolar en cualquier modalidad, así como los mecanismos remotos de recepción a través de una línea pública de atención telefónica y por medios electrónicos.
 
 ###### Artículo 23.
 
@@ -372,6 +536,10 @@ Quedará prohibido el uso de la fuerza física contra cualquier alumno.
 ###### Artículo 27.
 
 Los planteles educativos deberán contar con un área que participe en la implementación de los Planes de Prevención e Intervención; estará conformada por uno o varios integrantes de la plantilla académica o administrativa ypodrá (sic) gestionar ante la Secretaría la capacitación correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+La sensibilización, capacitación y formación de maestras y maestros se basará en educación para los valores y contará con las herramientas teóricas y metodológicas necesarias para fortalecer sus habilidades en todas las áreas del conocimiento dentro del aula, así como para tener la capacidad para prevenir y atender la violencia escolar con la finalidad de generar en el ambiente escolar un entorno de armonía y paz.
 
 ###### Artículo 28.
 
@@ -409,11 +577,67 @@ IV. La implementación de sanciones;
 
 V. En todos los casos, el informe reservará los datos personales de los involucrados en el acoso, de conformidad con las leyes de la materia.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2020)</small>
+
+### CAPÍTULO VII. De los Derechos, Prohibiciones y Obligaciones de la Comunidad Escolar
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+###### Artículo 30 Bis.
+
+Los reglamentos interiores de las instituciones que refiere la Ley Estatal de Educación, deberán especificar derechos, prohibiciones y obligaciones tendientes a prevenir y eliminar el acoso escolar, a través de medidas de carácter disuasivo, correctivo y educativo, y en su caso, establecer las sanciones a aplicar en cada caso, tomando como parámetro lo estipulado en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+###### Artículo 30 Ter.
+
+La persona receptora de las modalidades de acoso escolar o de maltrato escolar tiene derecho a:
+
+I. Ser tratada con respeto a su integridad y al ejercicio pleno de sus derechos tanto por la comunidad educativa, como por las autoridades competentes;
+
+II. Contar con protección inmediata y efectiva por parte de las autoridades del gobierno estatal cuando se encuentre en riesgo su integridad física o psicológica;
+
+III. Recibir información veraz y suficiente que le permita decidir sobre las opciones de atención;
+
+IV. Contar con asesoría y representación jurídica gratuita y expedita;
+
+V. Recibir información, atención y acompañamiento médico y psicológico;
+
+VI. Acceder a procedimientos expeditos y accesibles de procuración y administración de justicia;
+
+VII. A ser canalizada a las instancias correspondientes para su atención oportuna según sean las circunstancias y las necesidades de cada caso;
+
+VIII. En caso de riesgo grave, a que se dicten medidas cautelares tendientes a salvaguardar su integridad física y asegurar su derecho a la vida, integridad y dignidad; y
+
+IX. A la reparación integral del daño.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+###### Artículo 30 Quáter.
+
+La persona que por sus actos se define como generadora de acoso escolar o de maltrato escolar tiene derecho a:
+
+I. Ser tratada con respeto a su integridad y al ejercicio pleno de sus derechos;
+
+II. Contar con protección inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su integridad, al ser receptores de violencia en otros contextos;
+
+III. Recibir información veraz y suficiente que le permita decidir sobre las opciones de atención;
+
+IV. Contar con asesoría psicológica y representación jurídica gratuita y expedita;
+
+V. Recibir información, atención y acompañamiento médico y psicológico por las instancias correspondientes, según sean las circunstancias y las necesidades de cada caso; y
+
+VI. Acceder a procedimientos expeditos y accesibles de procuración y administración de justicia.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+
+###### Artículo 30 Quinquies.
+
+Las autoridades, en el ámbito de su competencia, deberán adoptar todas las medidas pertinentes que aseguren a las personas integrantes de la comunidad educativa, la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad.
 
 ## TÍTULO TERCERO. De la Participación Social y Acceso a la Información
 
-### CAPÍTULO I. De las Sanciones para los Autores y Cómplices
+### CAPÍTULO ÚNICO
 
 ###### Artículo 31.
 
@@ -423,7 +647,7 @@ La Secretaría garantizará el libre, pleno y permanente acceso a la informació
 
 ## TÍTULO CUARTO. De la Vigilancia y Sanciones
 
-### CAPÍTULO II. De las Sanciones para el Personal Escolar
+### CAPÍTULO I. De las Sanciones para los Autores y Cómplices
 
 ###### Artículo 32.
 
@@ -445,7 +669,7 @@ Los directores escolares o su designado serán los responsables de aplicar, prev
 
 Cuando la gravedad de la conducta de acoso escolar tenga consecuencias penales se procederá conforme al Plan de Intervención, dando parte a la autoridad competente.
 
-### CAPÍTULO III. Del Recurso de Revisión
+### CAPÍTULO II. De las Sanciones para el Personal Escolar
 
 ###### Artículo 35.
 
@@ -473,7 +697,15 @@ I. Reporte en su expediente personal;
 
 II. Suspensión en el ejercicio de sus labores docentes o administrativas, hasta por un año, sin goce de sueldo, y sin ser computado para efectos de antigüedad; y
 
-III. Inhabilitación para desempeñarse en cualquier cargo del personal escolar por un año o más, o en forma definitiva. La Secretaría podrá apercibir de manera privada a la institución educativa que incumpla con las obligaciones de esta Ley, amonestarla públicamente cuando se reincida en el incumplimiento o proceder a su clausura cuando las dos sanciones anteriores hayan sido insuficientes para subsanar el incumplimiento.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2020)</small>
+
+III. Inhabilitación para desempeñarse en cualquier cargo del personal escolar por un año o más, o en forma definitiva. La Secretaría podrá apercibir de manera privada a la institución educativa que incumpla con las obligaciones de esta Ley, amonestarla públicamente cuando se reincida en el incumplimiento o proceder a su clausura cuando las dos sanciones anteriores hayan sido insuficientes para subsanar el incumplimiento; y
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2020)</small>
+
+IV. Las demás sanciones previstas en las disposiciones jurídicas aplicables en materia administrativa, civil o penal.
+
+### CAPÍTULO III. Del Recurso de Revisión
 
 ###### Artículo 37.
 
@@ -578,3 +810,15 @@ P.O. 6 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 518.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de 180 días, contados a partir de la entrada en vigor del presente Decreto, se deberán de hacer las adecuaciones a los reglamentos interiores de las instituciones, en los que se especifiquen derechos, prohibiciones y obligaciones tendientes a prevenir y eliminar el acoso escolar.
