@@ -4,7 +4,7 @@ identifier: "COA-ley-de-prevencion-asistencia-y-atencion-de-la-violencia-26721"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2018-07-06"
+last_updated: "2020-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA FAMILIAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de octubre de 2002.
 
@@ -717,9 +717,11 @@ El impulso y dirección de los procesos o procedimientos corresponde a quienes d
 
 Los órganos del Poder Judicial, del Ministerio Público, Registros y demás autoridades y funcionarios del Estado, prestarán gratuitamente los oficios legales de su cargo a los instructores de los procesos o procedimientos, en cualquier acto o diligencia en que sea necesario contar con constancias o copias certificadas.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2020)</small>
+
 ###### Artículo 45.
 
-En todo lo que no se oponga a las normas especiales de esa ley, son aplicables las disposiciones del Código Civil y del Código Procesal Civil del Estado.
+En todo lo que no se oponga a las normas especiales de esa ley, son aplicables las disposiciones del Código de Procedimientos Familiares para el Estado de Coahuila de Zaragoza y la Ley para la Familia, vigentes.
 
 ### CAPITULO II. DEL CONOCIMIENTO DE LOS CONFLICTOS EN MATERIA DE VIOLENCIA FAMILIAR
 
@@ -739,9 +741,11 @@ En los lugares en que no fuese posible contar con una persona especialista dentr
 
 En los conflictos en materia de violencia familiar, será competente por razón del territorio, la Unidad de Atención en que resida la persona receptora de la violencia.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2020)</small>
+
 ###### Artículo 48.
 
-Cuando la controversia en materia de violencia familiar amerite la intervención del órgano jurisdiccional; será competente para conocer de ella los Jueces de Primera Instancia en Materia Familiar en los términos previstos por la Ley Orgánica del Poder Judicial y el Código Procesal Civil para el Estado.
+Cuando la controversia en materia de violencia familiar amerite la intervención del órgano jurisdiccional; será competente para conocer de ella los Jueces de Primera Instancia en Materia Familiar en los términos previstos por la Ley Orgánica del Poder Judicial y del Código de Procedimientos Familiares para el Estado de Coahuila de Zaragoza vigente.
 
 ### CAPITULO III. REGLAS COMUNES APLICABLES A LOS PROCESOS Y PROCEDIMIENTOS DE VIOLENCIA FAMILIAR
 
@@ -749,11 +753,11 @@ Cuando la controversia en materia de violencia familiar amerite la intervención
 
 En la tramitación y resolución de los procesos y procedimientos de violencia familiar, rigen los principios de oficio, de gratuidad, de reserva, de confidencialidad, de mejor interés de la persona receptora de violencia familiar, de inmediación, de breve trámite y de oralidad.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2020)</small>
+
 ###### Artículo 50.
 
-Los órganos encargados del conocimiento de los asuntos de violencia familiar, dictarán las medidas que estimen convenientes con prevalencia del interés superior de la víctima. Así mismo, están obligados a investigar la verdad de los conflictos que se les plantean, mediante la práctica de las diligencias probatorias que consideren necesarias.
-
-Además de los medios de prueba establecidos por el Código Procesal Civil del Estado, podrán utilizarse cualquiera otro medio probatorio no prohibido por la ley. Las pruebas serán apreciadas conforme a las reglas de la sana crítica.
+Los órganos encargados del conocimiento de los asuntos de violencia familiar, dictarán las medidas que estimen convenientes con prevalencia del interés superior de la víctima. Así mismo, están obligados a investigar la verdad de los conflictos que se les plantean, mediante la práctica de las diligencias probatorias que consideren necesarias. Además de los medios de prueba establecidos por el Código de Procedimientos Familiares para el Estado de Coahuila de Zaragoza vigente, podrán utilizarse cualquiera otro medio probatorio no prohibido por la ley. Las pruebas serán apreciadas conforme a las reglas de la sana crítica.
 
 ###### Artículo 51.
 
@@ -769,11 +773,11 @@ Las diligencias sobre notificaciones y citatorios podrán practicarse según las
 
 ### CAPITULO IV. DEL IMPULSO INICIAL DE LOS PROCESOS Y PROCEDIMIENTOS
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2020)</small>
+
 ###### Artículo 54.
 
-Toda persona que sufra violencia familiar, cuando ésta no revista carácter judicial, podrá requerir los servicios de las Unidades de Atención.
-
-Si la violencia familiar amerita la intervención de un órgano jurisdiccional, la petición se formulará en los términos previstos por el Código Procesal Civil para la tramitación de los procesos en caso de violencia familiar.
+Toda persona que sufra violencia familiar, cuando esta no revista carácter judicial, podrá requerir los servicios de las Unidades de Atención. Si la violencia familiar amerita la intervención de un órgano jurisdiccional, la petición se formulará en los términos previstos por el Código de Procedimientos Familiares para el Estado de Coahuila de Zaragoza vigente para la tramitación de los procesos en caso de violencia familiar.
 
 ###### Artículo 55.
 
@@ -917,9 +921,11 @@ En los lugares donde no resida Juez en materia Familiar, los Jueces de Primera I
 
 Cuando la persona afectada fuere niña, niño o adolescente, persona con discapacidad o adulta mayor, los hechos deberán ser denunciados por sus representantes legales, por el Ministerio Público, por el Procurador de la Familia, por sus Delegados o por quienes presidan las Unidades de Atención.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2020)</small>
+
 ###### Artículo 78.
 
-Los procesos en los casos de violencia familiar se tramitarán en la forma y términos previstos por el Código Procesal Civil del Estado.
+Los procesos en los casos de violencia familiar se tramitarán en la forma y términos previstos por el Código de Procedimientos Familiares para el Estado de Coahuila de Zaragoza vigente.
 
 ### CAPITULO VIII. MEDIOS DE IMPUGNACION
 
@@ -947,9 +953,11 @@ Interpuesta la revisión por escrito en el que se expresarán agravios y decreta
 
 El Delegado de la Procuraduría de la Familia calificará la procedencia del recurso y acto seguido dentro de los tres días siguientes lo resolverá de plano.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2020)</small>
+
 ###### Artículo 84.
 
-En los casos de las resoluciones dictadas por los Jueces de Primera Instancia en materia Familiar, los recursos procedentes serán los que establece el Código Procesal Civil del Estado y de ellos conocerán las autoridades judiciales en los términos de la Ley Orgánica del Poder Judicial del Estado.
+En los casos de las resoluciones dictadas por los Jueces de Primera Instancia en materia Familiar, los recursos procedentes serán los que establece el Código de Procedimientos Familiares para el Estado de Coahuila de Zaragoza vigente y de ellos conocerán las autoridades judiciales en los términos de la Ley Orgánica del Poder Judicial del Estado.
 
 ## TITULO CUARTO. MEDIDAS ALTERNAS E INFRACCIONES Y SANCIONES EN LOS CASOS DE VIOLENCIA FAMILIAR
 
@@ -1198,3 +1206,11 @@ P.O. 6 DE JULIO DE 2018.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- En un plazo no mayor a cuarenta días, contados a partir de la entrada en vigor del presente Decreto, el Congreso del Estado realizará las adecuaciones a los ordenamientos que guardan relación con las reformas aquí planteadas, a fin de establecer la concordancia y la armonización correspondiente.
+
+P.O. 31 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 491.- SE REFORMAN LOS ARTÍCULOS 45, 48, 50, 54, 78 Y 84 DE LA LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA FAMILIAR”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
