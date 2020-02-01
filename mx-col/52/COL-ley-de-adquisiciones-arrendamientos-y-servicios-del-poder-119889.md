@@ -4,7 +4,7 @@ identifier: "COL-ley-de-adquisiciones-arrendamientos-y-servicios-del-poder-11988
 country: "mx"
 rank: "ley"
 publication_date: "2017-03-04"
-last_updated: "2017-03-04"
+last_updated: "2020-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2020.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Gobierno Constitucional del Estado de Colima, el sábado 4 de marzo de 2017.
 
@@ -55,51 +55,53 @@ LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL PODER LEGISLATIVO DEL ESTAD
 
 Las disposiciones de este ordenamiento son de orden público y se expiden de conformidad con lo dispuesto en la fracción II del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos y la fracción II del artículo 33 de la Constitución Política del Estado Libre y Soberano de Colima, tienen por objeto establecer las bases a que habrán de sujetarse las instancias administrativas del Poder Legislativo del Estado de Colima, para llevar a efecto los procedimientos para la adquisición o arrendamiento de bienes muebles y la prestación de servicios, buscando la racionalización y transparencia en el ejercicio del presupuesto respecto a los conceptos mencionados.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 2.
 
-Para los efectos de la presente Ley, se entiende por:
+Para los efectos de la presente Ley, se entenderá por:
 
-Acta: El documento en que consta la celebración de una sesión de los órganos facultados para celebrar los procesos de adquisición, en los términos de la presente Ley, en que se resuelve respecto de la adquisición de bienes o la contratación de arrendamientos y servicios.
+I. Acta: El documento en que consta la celebración de una sesión de los órganos facultados para celebrar los procesos de adquisición, en los términos de la presente Ley, en que se resuelve respecto de la adquisición de bienes o la contratación de arrendamientos y servicios;
 
-Adjudicación Directa: El procedimiento de adquisición de bienes o de contratación de arrendamientos y servicios, como excepción a la licitación pública, en el cual se determina que un solo proveedor o un grupo restringido de proveedores se adjudiquen el contrato.
+II. Adjudicación Directa: El procedimiento de adquisición de bienes o de contratación de arrendamientos y servicios, como excepción a la licitación pública, en el cual se determina que un solo proveedor o un grupo restringido de proveedores se adjudiquen el contrato;
 
-Adquisición Ordinaria: La acción de adquirir que se efectúa en forma regular y periódica para cumplir con las funciones normales propias del Poder Legislativo.
+III. Adquisición Ordinaria: La acción de adquirir que se efectúa en forma regular y periódica para cumplir con las funciones normales propias del Poder Legislativo;
 
-Adquisición Urgente: Es aquella acción de adquirir que se realiza en función de una situación apremiante o necesidad inmediata, que requieran de urgente atención.
+IV. Adquisición Urgente: Es aquella acción de adquirir que se realiza en función de una situación apremiante o necesidad inmediata, que requieran de urgente atención;
 
-Bienes: Los muebles tangibles, derivados de un proceso de transformación y de la mano de obra del hombre, que son materia de comercio.
+V. Bienes: Los muebles tangibles, derivados de un proceso de transformación y de la mano de obra del hombre, que son materia de comercio;
 
-Comisión: La Comisión de Gobierno Interno y Acuerdos Parlamentarios del H. Congreso del Estado de Colima.
+VI. Comisión: La Comisión de Gobierno Interno y Acuerdos Parlamentarios del H. Congreso del Estado de Colima;
 
-Congreso: El H. Congreso del Estado de Colima.
+VII. Congreso: El H. Congreso del Estado de Colima;
 
-Cotización: El documento en el cual se fijan precios y condiciones que el proveedor debe proporcionar por escrito, como respuesta a un requerimiento del Oficial Mayor o de la Comisión.
+VIII. Cotización: El documento en el cual se fijan precios y condiciones que el proveedor debe proporcionar por escrito, como respuesta a un requerimiento del Oficial Mayor o de la Comisión;
 
-Dependencias: Las unidades administrativas del Congreso.
+IX. Dependencias: Las unidades administrativas del Congreso;
 
-Dirección: La Dirección de Administración, Finanzas y Servicios Generales del Congreso.
+X. Dirección: La Dirección de Administración, Finanzas y Servicios Generales del Congreso;
 
-Factura: El documento expedido al H. Congreso por el proveedor seleccionado, después de formalizada la operación, el cual debe reunir los requisitos fiscales legalmente establecidos.
+XI. Factura: El documento expedido al H. Congreso por el proveedor seleccionado, después de formalizada la operación, el cual debe reunir los requisitos fiscales legalmente establecidos;
 
-Ley: La presente Ley.
+XII. Jefatura: Jefatura de Recursos Materiales y Patrimonio;
 
-Licitación: El procedimiento administrativo de adquisición de bienes y servicios que se efectúa mediante convocatoria pública, para que los interesados, sujetándose a las bases fijadas formulen propuestas, de entre las cuales se seleccionará y aceptará la más conveniente, de acuerdo con lo que establece la presente Ley.
+XIII. Ley: La presente Ley;
 
-Orden de Compra: El documento formal, mediante el cual el Congreso, por conducto del Oficial Mayor o de la Comisión, autorizan al proveedor elegido para que proporcione los bienes o servicios materia de la adjudicación.
+XIV. Licitación: El procedimiento administrativo de adquisición de bienes y servicios que se efectúa mediante convocatoria pública, para que los interesados, sujetándose a las bases fijadas formulen propuestas, de entre las cuales se seleccionará y aceptará la más conveniente, de acuerdo con lo que establece la presente Ley;
 
-Precio Firme: La condición por la cual existe el compromiso de no modificar precios, durante el tiempo transcurrido entre la orden de compra o servicio y la entrega del bien o la prestación del servicio.
+XV. Orden de Compra: El documento formal, mediante el cual el Congreso, por conducto del Oficial Mayor o de la Comisión, autorizan al proveedor elegido para que proporcione los bienes o servicios materia de la adjudicación;
 
-Precio Máximo de Referencia: El precio máximo que el Congreso estaría dispuesto pagar para llevar a efecto la adquisición de un bien o contratar un arrendamiento o servicio.
+XVI. Precio Firme: La condición por la cual existe el compromiso de no modificar precios, durante el tiempo transcurrido entre la orden de compra o servicio y la entrega del bien o la prestación del servicio;
 
-Precio Sujeto a Escalación: La condición por la cual se fija un aumento en el precio del bien o servicio, mismo que se va reflejando conforme transcurre el tiempo de entrega del bien o de la prestación del servicio.
+XVII. Precio Máximo de Referencia: El precio máximo que el Congreso estaría dispuesto (sic) pagar para llevar a efecto la adquisición de un bien o contratar un arrendamiento o servicio;
 
-Proveedor: La persona física o moral que ofrece y vende sus productos y servicios, o arrenda bienes al Congreso.
+XVIII. Precio Sujeto a Escalación: La condición por la cual se fija un aumento en el precio del bien o servicio, mismo que se va reflejando conforme transcurre el tiempo de entrega del bien o de la prestación del servicio;
 
-Requisición: El documento que se formula de manera individual para cada adquisición por parte de la dependencia interesada en solicitar la adquisición de un bien o servicio que estime necesario para el desempeño de sus funciones.
+XIX. Proveedor: La persona física o moral que ofrece y vende sus productos y servicios, o arrenda bienes al Congreso;
 
-Servicios: Las actividades calificadas o especializadas que se realizan a cambio de una remuneración.
+XX. Requisición: El documento que se formula de manera individual para cada adquisición por parte de la dependencia interesada en solicitar la adquisición de un bien o servicio que estime necesario para el desempeño de sus funciones; y
 
-Subdirección: La Subdirección de Administración y Servicios Generales.
+XXI. Servicios: Las actividades calificadas o especializadas que se realizan a cambio de una remuneración.
 
 ###### Artículo 3.
 
@@ -125,9 +127,11 @@ II Los contratos de arrendamiento financiero de bienes muebles; por los cuales l
 
 Para los efectos de la presente Ley, los servicios comprenderán los contratos en virtud de los cuales el prestador de servicios se obliga a desempeñar los trabajos requeridos, suministrando lo necesario para su realización; por su parte, el Congreso se obliga a pagar un precio determinado o determinable en monetario.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 7.
 
-Las controversias legales que se susciten con motivo de la interpretación y resolución de los conflictos que se deriven de los contratos celebrados con base en la presente Ley y del cumplimiento de las obligaciones contraídas por las partes, serán resueltas mediante el recurso de reconsideración o bien, mediante juicio que se tramite ante el Tribunal de lo Contencioso Administrativo del Estado de Colima.
+Las controversias legales que se susciten con motivo de la interpretación y resolución de los conflictos que se deriven de los contratos celebrados con base en la presente Ley y del cumplimiento de las obligaciones contraídas por las partes, serán resueltas mediante el recurso de reconsideración o bien, mediante juicio que se tramite ante el Tribunal de Justicia Administrativa del Estado de Colima.
 
 ###### Artículo 8.
 
@@ -149,7 +153,9 @@ II El Oficial Mayor;
 
 III La Dirección, y
 
-IV La Subdirección.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+IV La Jefatura
 
 ###### Artículo 11.
 
@@ -201,7 +207,13 @@ Las adquisiciones que realice el Congreso, inician con la solicitud que las depe
 
 Las dependencias deberán observar en los procedimientos de adquisición los requisitos que establece el presente ordenamiento.
 
-La Subdirección será responsable de presentar al Oficial Mayor, las propuestas en materia de adquisiciones que requieran las dependencias del Congreso.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+La Jefatura será responsable de presentar a la Dirección, las propuestas en materia de adquisiciones que requieran las dependencias del Congreso.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+Una vez que la Dirección valide las propuestas de adquisiciones, éstas le serán turnadas a la Oficialía Mayor para su aprobación o negación.
 
 ###### Artículo 20.
 
@@ -289,9 +301,11 @@ III Por invitación restringida
 
 ### Capítulo I. De la Adjudicación Directa
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 26.
 
-La adjudicación directa es el procedimiento a través del cual el Congreso adjudica de manera expedita un contrato a un proveedor, arrendador o prestador de servicios previamente seleccionado por la Subdirección o las dependencias, en los casos de excepción previstos en esta Ley.
+La adjudicación directa es el procedimiento a través del cual el Congreso adjudica de manera expedita un contrato a un proveedor, arrendador o prestador de servicios previamente seleccionado por los órganos competentes o las dependencias, en los casos de excepción previstos en esta Ley.
 
 ###### Artículo 27.
 
@@ -345,9 +359,11 @@ XXI Cuando derivado de caso fortuito o fuerza mayor, se requieran bienes o servi
 
 XXII En cualquier adquisición, arrendamiento o servicio donde conste expresamente la autorización de la Comisión.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 29.
 
-La Subdirección elaborará un documento en el que consten las adquisiciones realizadas mediante el procedimiento de adjudicación directa, el cual quedará a disposición de la Comisión.
+La Jefatura elaborará un documento en el que consten las adquisiciones realizadas mediante el procedimiento de adjudicación directa, el cual quedará a disposición de la Comisión.
 
 ###### Artículo 30.
 
@@ -395,15 +411,25 @@ Para proceder a la adjudicación correspondiente, se deberá contar con un míni
 
 En caso de que no se presente el mínimo de propuestas señalado en el párrafo anterior, se podrá declarar desierta la invitación restringida o bien, se optará por emitir una nueva convocatoria. Siempre que se opte por el procedimiento de adjudicación directa, la convocante valorará las propuestas aportadas y podrá adjudicar a alguno de los oferentes el contrato, si considera que reúne las condiciones requeridas.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 38.
 
-Serán públicos los actos de recepción y apertura de la documentación legal, técnica y económica, emisión de dictamen técnico, evaluación de propuestas económicas y fallo, los cuales se llevarán a efecto con o sin la presencia de los participantes, observando las formalidades previstas al efecto para el procedimiento de licitación pública. En su desarrollo se contará con la participación del personal del área solicitante, en su caso del área técnica y de la Subdirección; de considerarlo conveniente, el servidor público que presida los actos podrá solicitar la opinión del personal de la Dirección, así como de la Dirección Jurídica, en calidad de asesores.
+Serán públicos los actos de recepción y apertura de la documentación legal, técnica y económica, emisión de dictamen técnico, evaluación de propuestas económicas y fallo, los cuales se llevarán a efecto con o sin la presencia de los participantes, observando las formalidades previstas al efecto para el procedimiento de licitación pública. En su desarrollo se contará con la participación del personal del área solicitante, en su caso del área técnica y de la Jefatura; de considerarlo conveniente, el servidor público que presida los actos podrá solicitar la opinión del personal de la Dirección, así como de la Dirección Jurídica, en calidad de asesores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 39.
 
-En la invitación se señalará el lugar, horario y plazo en que deberán ser presentadas las propuestas, mismas que deberán ser entregadas en sobre cerrado ante la Subdirección; quién dará cuenta con las mismas el día y hora señalado para su presentación y apertura.
+En la invitación se señalará el lugar, horario y plazo en que deberán ser presentadas las propuestas, mismas que deberán ser entregadas en sobre cerrado ante la Jefatura; quién dará cuenta con las mismas el día y hora señalado para su presentación y apertura.
 
-La Subdirección recibirá las propuestas en sobres cerrados, limitándose a una por cada uno de los participantes y se levantará acta circunstanciada de los actos de recepción y apertura de documentación legal y técnica, así como de la emisión de dictamen técnico y de evaluación de propuestas económicas, en la que se hará constar de manera detallada su desarrollo, la cual será firmada por los asistentes al acto. La falta de firma por parte de algún servidor público u ofertante, no invalidará el contenido y efectos del acta.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+La Jefatura recibirá las propuestas en sobres cerrados, limitándose a una por cada uno de los participantes y se levantará acta circunstanciada de los actos de recepción y apertura de documentación legal y técnica, así como de la emisión de dictamen técnico y de evaluación de propuestas económicas, en la que se hará constar de manera detallada su desarrollo, la cual será firmada por los asistentes al acto. La falta de firma por parte de algún servidor público u ofertante, no invalidará el contenido y efectos del acta.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+A la diligencia señalada en el párrafo anterior, se le notificará a la Dirección, para de considerarse conveniente, acuda personal de la misma a su desarrollo.
 
 Se deberá contar con un mínimo de una propuesta que reúna los requisitos técnicos para llevar a cabo la evaluación de la oferta económica.
 
@@ -425,7 +451,9 @@ I Cuando ninguna de las propuestas presentadas reúna los requisitos establecido
 
 II En caso de que no se presente cuando menos una propuesta susceptibles (sic) de analizarse técnicamente;
 
-III En caso de que los precios propuestos no fueren aceptables, tomando en consideración la información con que cuente la Subdirección, y
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+III En caso de que los precios propuestos no fueren aceptables, tomando en consideración la información con que cuente la Jefatura, y
 
 IV Por cualquier otra circunstancia que contravenga el contenido de la invitación o las disposiciones de esta Ley y demás ordenamientos aplicables.
 
@@ -437,9 +465,11 @@ En lo no dispuesto en el presente artículo se estará a las demás disposicione
 
 ### Capítulo IV. De la Licitación Pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 44.
 
-Licitación pública es el procedimiento a través del cual el Congreso elige a la persona física o moral que ofrece las condiciones más convenientes en cuanto a precio, calidad, financiamiento y oportunidad, para celebrar un contrato objeto de la presente Ley. Para ello, a través de la Subdirección, invitará a las personas interesadas, mediante convocatoria pública, para que presenten proposiciones en sobres cerrados.
+Licitación pública es el procedimiento a través del cual el Congreso elige a la persona física o moral que ofrece las condiciones más convenientes en cuanto a precio, calidad, financiamiento y oportunidad, para celebrar un contrato objeto de la presente Ley. Para ello, a través de la Jefatura, invitará a las personas interesadas, mediante convocatoria pública, para que presenten proposiciones en sobres cerrados.
 
 Previa determinación que al efecto se emita, las proposiciones para los procedimientos de licitación podrán ser presentadas a través de medios electrónicos que resguarden la información, de tal forma que sea inviolable, conforme a las disposiciones técnicas que establezca la convocante.
 
@@ -455,17 +485,23 @@ III.- Cuando los tratados internacionales así lo establezcan, y
 
 IV.- Los demás casos en que así lo apruebe la Comisión.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 46.
 
-En las licitaciones públicas será indispensable que previamente a la convocatoria, la dependencia solicitante realice el requerimiento por escrito a la Subdirección, proporcionando las características y especificaciones precisas de los bienes por adquirir, arrendar o de los servicios por contratar, según corresponda; indicando en su caso la vigencia de las garantías, cuando así resulte necesario.
+En las licitaciones públicas será indispensable que previamente a la convocatoria, la dependencia solicitante realice el requerimiento por escrito a la Jefatura y de aviso de ello a la Dirección, proporcionando las características y especificaciones precisas de los bienes por adquirir, arrendar o de los servicios por contratar, según corresponda; indicando en su caso la vigencia de las garantías, cuando así resulte necesario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 47.
 
-En la realización de licitaciones públicas nacionales, la Subdirección observará los plazos siguientes:
+En la realización de licitaciones públicas nacionales, la Jefatura observará los plazos siguientes:
 
 I La consulta y la venta de bases se realizará durante un plazo mínimo de cinco días hábiles, contados a partir de la fecha de publicación de la convocatoria;
 
-II En el desarrollo de los diversos actos del procedimiento se contará con la asistencia del Oficial Mayor o de la persona que designe para que lo represente, quien presidirá las reuniones. También participará el personal del área solicitante, del área técnica y de la Subdirección, en su caso. De considerarlo conveniente, el servidor público que presida los actos podrá solicitar la opinión del personal de la Dirección, así como de la Dirección Jurídica, en calidad de asesores;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+II En el desarrollo de los diversos actos del procedimiento se contará con la asistencia del Oficial Mayor o de la persona que designe para que lo represente, quien presidirá las reuniones. También participará el personal del área solicitante, del área técnica y de la Jefatura, en su caso. De considerarlo conveniente, el servidor público que presida los actos podrá solicitar la opinión del personal de la Dirección, así como de la Dirección Jurídica, en calidad de asesores;
 
 III El acto de la junta de aclaración de bases se podrá realizar, cuando menos dos días hábiles antes del acto de recepción y apertura de la documentación legal y técnica, así como la recepción de propuestas económicas;
 
@@ -483,9 +519,11 @@ El servidor público que presida los actos de la licitación pública, tomando e
 
 Cuando se lleve a cabo una licitación pública internacional, se observarán por lo menos los plazos establecidos para licitación pública nacional, de conformidad con el artículo que antecede.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 49.
 
-Con la publicación de la convocatoria se dará inicio al procedimiento de licitación pública; y en su elaboración, la Subdirección deberá prever cuando menos los aspectos siguientes:
+Con la publicación de la convocatoria se dará inicio al procedimiento de licitación pública; y en su elaboración, la Jefatura deberá prever cuando menos los aspectos siguientes:
 
 I La indicación sobre la forma o formas en que los licitantes deberán de presentar sus propuestas;
 
@@ -717,21 +755,27 @@ La cancelación deberá ser notificada a los licitantes dentro de los tres días
 
 ### Capítulo Único. Disposiciones Comunes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 64.
 
-La Subdirección será la entidad responsable de integrar y operar el padrón de proveedores del Poder Legislativo. Además, clasificará a las personas inscritas en él, de acuerdo con su actividad, capacidad técnica y demás características que las identifique.
+La Jefatura será la entidad responsable de integrar y operar el padrón de proveedores del Poder Legislativo. Además, clasificará a las personas inscritas en él, de acuerdo con su actividad, capacidad técnica y demás características que las identifique.
 
 La clasificación que circunscribe este artículo, deberá ser considerada en las convocatorias y formalización de las operaciones que establece y regula el presente ordenamiento.
 
-Las personas inscritas en el padrón de proveedores del Poder Legislativo, deberán comunicar a la Subdirección las modificaciones relativas a su naturaleza jurídica, representación legal, domicilio, actividad, capacidad técnica, económica y representación cuando tengan lugar, durante los primeros treinta días naturales posteriores al acto que corresponda.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+Las personas inscritas en el padrón de proveedores del Poder Legislativo, deberán comunicar a la Jefatura las modificaciones relativas a su naturaleza jurídica, representación legal, domicilio, actividad, capacidad técnica, económica y representación cuando tengan lugar, durante los primeros treinta días naturales posteriores al acto que corresponda.
 
 ###### Artículo 65.
 
 El padrón de proveedores del Poder Legislativo, se integrará con las personas físicas y morales que deseen enajenar mercancías, materias primas y bienes muebles, o bien arrendar o prestar servicios al Congreso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 66.
 
-Será facultad de la Subdirección, previo acuerdo del Oficial Mayor, suspender o cancelar el registro de un proveedor integrante del padrón de proveedores, cuando incurra en alguno de los siguientes supuestos:
+Será facultad de la Jefatura, previo acuerdo del Oficial Mayor, suspender o cancelar el registro de un proveedor integrante del padrón de proveedores, cuando incurra en alguno de los siguientes supuestos:
 
 I La información que se proporcione para la inscripción resulte falsa o haya mediado dolo o mala fe en la adjudicación de un pedido o contrato, en su celebración o en su cumplimiento;
 
@@ -751,9 +795,11 @@ VIII Cuando la personalidad y/o personería del proveedor y/o su representante n
 
 Contra la negativa de la inscripción, o determinación de la suspensión o cancelación del registro en el padrón de proveedores, el interesado podrá interponer recurso de revisión, en los términos establecidos por la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 67.
 
-La Subdirección notificará al proveedor de la cancelación o suspensión del registro, señalándole un plazo de cinco días hábiles para que manifieste ante la Oficialía Mayor lo que a su derecho convenga.
+La Jefatura notificará al proveedor de la cancelación o suspensión del registro, señalándole un plazo de cinco días hábiles para que manifieste ante la Oficialía Mayor lo que a su derecho convenga.
 
 El Oficial Mayor valorará los argumentos y elementos de prueba aportados por el proveedor, procediendo a notificarle la revocación, modificación o confirmación de la resolución inicial.
 
@@ -779,9 +825,11 @@ Si el infractor no tiene el carácter de servidor público, se le impondrán las
 
 Contra actos y resoluciones dictadas en aplicación de esta Ley procederá el recurso de revisión, el cual deberá interponerse a más tardar el día siguiente de aquel en que se tenga conocimiento del acto reclamado y será resuelto de plano por la autoridad que tenga a su cargo el procedimiento de adquisición correspondiente.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 70.
 
-Será optativo para el particular interponer el recurso a que se refiere el artículo anterior o promover directamente el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado de Colima.
+Será optativo para el particular interponer el recurso a que se refiere el artículo anterior o promover directamente el juicio de nulidad ante el Tribunal de Justicia Administrativa del Estado de Colima.
 
 ## TRANSITORIOS
 
@@ -800,3 +848,11 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el 28 veintiocho de febrero de 2017 dos mil diecisiete.
 
 JOSÉ IGNACIO PERALTA SÁNCHEZ, Gobernador Constitucional del Estado Libre y Soberano de Colima. Rúbrica. ARNOLDO OCHOA GONZÁLEZ, Secretario General de Gobierno. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 213 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
