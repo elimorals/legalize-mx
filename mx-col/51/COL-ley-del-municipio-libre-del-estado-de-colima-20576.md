@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2019-06-01"
+last_updated: "2020-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2020.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -309,9 +309,11 @@ El cambio de residencia de una cabecera municipal, será solicitada por el cabil
 
 ### CAPÍTULO V. DE LA PARTICIPACIÓN SOCIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### ARTICULO 23.
 
-Con el propósito de fomentar y garantizar la participación responsable de los vecinos y ciudadanos en las acciones del gobierno municipal, los ayuntamientos establecerán y regularán, en los reglamentos correspondientes, los siguientes mecanismos:
+Con el propósito de fomentar y garantizar la participación responsable de los vecinos y ciudadanía en las acciones del gobierno municipal, los ayuntamientos establecerán y regularán, en los reglamentos correspondientes, los siguientes mecanismos:
 
 I. Consultas populares para la elaboración de planes y programas o para la toma de decisiones;
 
@@ -375,7 +377,9 @@ ARTICULO 24 BIS 2. Con sujeción a los principios de democracia, tolerancia, par
 
 ARTICULO 24 BIS 3. Los Observatorios Ciudadanos son órganos, no pertenecientes a la administración pública, cuyo objeto es defender la transparencia en la actuación y el cumplimiento de funciones de los Ayuntamientos, así como de sus miembros y empleados.
 
-Asimismo, estos órganos tendrán la facultad de erigirse en consejos de vigilancia de las políticas en áreas de interés ciudadano, especialmente en materia de seguridad pública.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+Asimismo, estos órganos tendrán la facultad de erigirse en consejos de vigilancia de las políticas en áreas de interés de la ciudadanía, especialmente en materia de seguridad pública.
 
 Estarán también a cargo de la divulgación y comunicación de los resultados logrados por los programas y políticas públicas del Municipio, a fin de garantizar la transparencia promovida por los propios ciudadanos.
 
@@ -393,7 +397,9 @@ Los ayuntamientos estarán integrados de conformidad con lo que establece el art
 
 Todo cargo o empleo público del municipio es incompatible con cualquiera de la federación, del Estado o de organismos descentralizados y empresas de participación estatal de cualquiera de los tres órdenes de gobierno, cuando por ellos se perciba sueldo, exceptuándose los de los ramos de instrucción, de beneficencia pública o los honoríficos en asociaciones científicas o literarias.
 
-Los munícipes en funciones no podrán desempeñar, al mismo tiempo, un cargo administrativo dentro de la respectiva institución municipal.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+Las y los munícipes en funciones no podrán desempeñar, al mismo tiempo, un cargo administrativo dentro de la respectiva institución municipal.
 
 Los cargos de elección popular municipal son irrenunciables salvo que existan causas justificadas que calificará el propio ayuntamiento.
 
@@ -401,15 +407,17 @@ Los cargos de elección popular municipal son irrenunciables salvo que existan c
 
 Para ser integrante de un ayuntamiento se requiere cumplir con los requisitos establecidos por el artículo 90 de la Constitución. Las categorías de los servidores públicos a que se refiere el último párrafo del citado artículo, son los siguientes:
 
-a) De la federación: delegado o su equivalente de las secretarías de Estado, Procuraduría General de la República, organismos descentralizados, empresas de participación estatal y fideicomisos;
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+a) De la federación: delegada o delegado, o su equivalente de las secretarías de Estado, Procuraduría General de la República, organismos descentralizados, empresas de participación estatal y fideicomisos;
 
-b) Del Estado: Secretario de la Administración Pública, Consejero Jurídico, Fiscal General, Contralor, Magistrado del Supremo Tribunal de Justicia, titulares de entidades paraestatales, empresas de participación estatal o fideicomisos; y
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+b) Del Estado: Secretaria o Secretario de la Administración Pública, Consejera o Consejero Jurídico, Fiscal General, Contralora y Contralor, Magistrada o Magistrado del Supremo Tribunal de Justicia, titulares de entidades paraestatales, empresas de participación estatal o fideicomisos; y
 
-c) De los municipios: Secretario del Ayuntamiento, Tesorero Municipal, Oficial Mayor, Contralor, Juez Cívico, Director de Seguridad Pública o su equivalente y titular de entidad paramunicipal.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+c) De los municipios: Secretaria o Secretario del Ayuntamiento, Tesorera o Tesorero Municipal, Oficial Mayor, Contralora o Contralor, Jueza o Juez Cívico, Directora o Director de Seguridad Pública o su equivalente y titular de entidad paramunicipal.
 
 ###### ARTICULO 28.
 
@@ -419,13 +427,15 @@ En caso de que no se realicen elecciones municipales o se declaren nulas, el Con
 
 En el supuesto a que se refiere el párrafo anterior, el Congreso expedirá la convocatoria correspondiente y autorizará al Consejo General y al Tribunal electorales para determinar los ajustes necesarios a los plazos electorales establecidos en el código respectivo. Los comicios extraordinarios se celebrarán el último domingo de diciembre y los munícipes electos tomarán posesión el 31 de enero siguiente.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 29.
 
-El Congreso expedirá las normas para regular la oportuna transmisión del mando de los gobiernos municipales, así como el suministro adecuado y completo de información a los miembros de los ayuntamientos electos, relativos a los asuntos municipales y aquellos otros a que se refiere el artículo 33 de esta Ley, con el propósito de que cuenten con los elementos necesarios para el eficaz desempeño de la (sic) funciones que ejercerán. Para lo cual, antes de la instalación de los ayuntamientos, los presidentes municipales electos, sus suplentes y demás integrantes del Cabildo, recibirán de parte de la Coordinación Estatal de Desarrollo Municipal, a través de su Unidad Estatal de Capacitación y Desarrollo Institucional Municipal, la instrucción mínima necesaria para la correcta administración del municipio, mediante cursos de capacitación suficientes para garantizar la eficiencia en el desarrollo de sus funciones.
+El Congreso expedirá las normas para regular la oportuna transmisión del mando de los gobiernos municipales, así como el suministro adecuado y completo de información a los miembros de los ayuntamientos electos, relativos a los asuntos municipales y aquellos otros a que se refiere el artículo 33 de esta Ley, con el propósito de que cuenten con los elementos necesarios para el eficaz desempeño de las funciones que ejercerán. Para lo cual, antes de la instalación de los ayuntamientos, las presidentas o presidentes municipales electos, sus suplentes y demás integrantes del Cabildo, recibirán de parte de la Coordinación Estatal de Desarrollo Municipal, a través de su Unidad Estatal de Capacitación y Desarrollo Institucional Municipal, la instrucción mínima necesaria para la correcta administración del municipio, mediante cursos de capacitación suficientes para garantizar la eficiencia en el desarrollo de sus funciones.
 
-Antes de tomar posesión de su cargo, los presidentes municipales, podrán asistir y acreditar los cursos de capacitación y formación que instrumente e imparta el Poder Ejecutivo del Estado, por conducto de la dependencia del ramo correspondiente, esto es, una vez que el Instituto Electoral del Estado les entregue la constancia que los acredite como tales y antes de tomar posesión de su cargo. Los suplentes de los presidentes municipales, también podrán cumplir con esta actividad.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+Antes de tomar posesión de su cargo, las presidentas o presidentes municipales deberán asistir y acreditar los cursos de capacitación y formación que instrumente e imparta el Poder Ejecutivo del Estado, por conducto de la dependencia del ramo correspondiente, esto es, una vez que el Instituto Electoral del Estado les entregue la constancia que los acredite como tales y antes de tomar posesión de su cargo. Los suplentes de las presidentas o presidentes municipales también deberán cumplir con esta actividad.
 
 ### CAPÍTULO II. DE LA INSTALACIÓN DE LOS AYUNTAMIENTOS
 
@@ -439,19 +449,27 @@ II. (DEROGADA, P.O. 1 DE MAYO DE 2010)
 
 III. Nombramiento de la comisión que se encargue de invitar al recinto a los integrantes del ayuntamiento entrante;
 
-IV. Formulación de la protesta legal, que hará el presidente entrante, en los siguientes términos:
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
 
-"PROTESTO CUMPLIR Y HACER CUMPLIR LA CONSTITUCION POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE PRESIDENTE MUNICIPAL QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO, POR EL BIEN Y PROSPERIDAD DE LAS PERSONAS Y DEL MUNICIPIO.
+IV. Formulación de la protesta legal, que hará la presidenta o presidente municipal entrante, en los siguientes términos:
 
-Y SI NO LO HICIERE ASI, QUE EL MUNICIPIO ME LO DEMANDE".
+"PROTESTO CUMPLIR Y HACER CUMPLIR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE PRESIDENTA O PRESIDENTE MUNICIPAL QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO, POR EL BIEN Y PROSPERIDAD DE LAS PERSONAS Y DEL MUNICIPIO. Y SI NO LO HICIERE ASI, QUE EL MUNICIPIO ME LO DEMANDE".
 
-V. Toma de la protesta a los demás miembros del ayuntamiento, por el presidente municipal, en los términos conducentes señalados por la fracción anterior.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
 
-VI. Declaración de instalación formal del ayuntamiento por el presidente municipal, en los siguientes términos: "Hoy 15 de octubre del año de........ siendo las....... horas, queda formal y legalmente instalado este Honorable Ayuntamiento de.........., electo democráticamente para desempeñar su encargo durante el período constitucional que comprende de...... a ......"; y
+V. Toma de la protesta a los demás miembros del ayuntamiento, por la presidenta o presidente municipal, en los términos conducentes señalados por la fracción anterior;
 
-VII. Mensaje y lineamientos de trabajo del nuevo ayuntamiento por el presidente municipal.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
 
-El acta respectiva deberá levantarse por el secretario del ayuntamiento saliente.
+VI. Declaración de instalación formal del ayuntamiento por la presidenta o presidente municipal, en los siguientes términos: "Hoy 15 de octubre del año de ........ siendo las ....... horas, queda formal y legalmente instalado este Honorable Ayuntamiento de .........., electo democráticamente para desempeñar su encargo durante el período constitucional que comprende de ...... a ......"; y
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+VII. Mensaje y lineamientos de trabajo del nuevo ayuntamiento por la presidenta o presidente municipal.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+El acta respectiva deberá levantarse por la secretaria o secretario del ayuntamiento saliente.
 
 ###### ARTICULO 31.
 
@@ -471,15 +489,25 @@ Las disposiciones de este artículo serán aplicables, en lo conducente, en los 
 
 ARTICULO 32 BIS.- En caso de que no se presenten la totalidad o la mayoría de los integrantes del ayuntamiento saliente, los munícipes entrantes procederán a celebrar la sesión de instalación del nuevo ayuntamiento, en los siguientes términos:
 
-I.- El síndico entrante verificará la presencia de la totalidad o la mayoría de los munícipes entrantes, procediendo a informar de ello al presidente municipal entrante, quien, en caso procedente, declarará el quórum legal e instalación legal de la sesión. De no estar presente el síndico, el propio presidente municipal verificará dicha presencia y hará la declaración de quórum e instalación legal de la sesión;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
 
-II.- A continuación, el presidente municipal entrante procederá a la formulación de la protesta legal, en los términos establecidos en la fracción IV, del artículo 30 de esta Ley;
+I. La síndica o síndico entrante verificará la presencia de la totalidad o la mayoría de los munícipes entrantes, procediendo a informar de ello a la presidenta o presidente municipal entrante, quien, en caso procedente, declarará el quórum legal e instalación legal de la sesión. De no estar presente la síndica o síndico, la propia presidenta o presidente municipal verificará dicha presencia y hará la declaración de quórum e instalación legal de la sesión;
 
-III.- Hecho lo anterior, el presidente municipal tomará la protesta a los demás miembros del ayuntamiento, en los términos conducentes de la fracción anterior;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
 
-IV.- Posteriormente, el presidente municipal hará la declaración de instalación del ayuntamiento, en los términos señalados en la fracción VI, del artículo 30 de esta Ley;
+II. A continuación, la presidenta o presidente municipal entrante procederá a la formulación de la protesta legal, en los términos establecidos en la fracción IV, del artículo 30 de esta Ley;
 
-V.- A continuación, el presidente municipal procederá a leer un mensaje y los lineamientos de trabajo del nuevo ayuntamiento.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+III. Hecho lo anterior, la presidenta o presidente municipal tomará la protesta a los demás miembros del ayuntamiento, en los términos conducentes de la fracción anterior;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+IV. Posteriormente, la presidenta o presidente municipal hará la declaración de instalación del ayuntamiento, en los términos señalados en la fracción VI, del artículo 30 de esta Ley; y
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+V. A continuación, la presidenta o presidente municipal procederá a leer un mensaje y los lineamientos de trabajo del nuevo ayuntamiento.
 
 ###### ARTICULO 33.
 
@@ -551,11 +579,13 @@ V. Expedientes fiscales:
 
 Los integrantes del cabildo saliente según sus comisiones, y los titulares de las dependencias municipales, formularán y entregarán a los munícipes y servidores públicos entrantes un listado de las acciones que a su juicio deban emprender o continuar, con el propósito de que no se interrumpa el desarrollo de las tareas municipales.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-Compete al ayuntamiento, por conducto del presidente, tesorero, síndico y contralor municipales, la vigilancia en el cumplimiento de la presente disposición; y al Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado dictar, en el ámbito de su competencia, las medidas complementarias, elaborar formatos y fijar los procedimientos que su aplicación requiera.
+Compete al ayuntamiento, por conducto de la presidenta o presidente, tesorera o tesorero, síndica o síndico y contralora o contralor municipales, la vigilancia en el cumplimiento de la presente disposición; y al Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado dictar, en el ámbito de su competencia, las medidas complementarias, elaborar formatos y fijar los procedimientos que su aplicación requiera.
 
-Los miembros del ayuntamiento, el secretario, tesorero y demás servidores públicos municipales, entrantes y salientes, estarán obligados a comparecer ante las comisiones legislativas, cuando se estime necesario recabar alguna información relativa a los ayuntamientos.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+Los miembros del ayuntamiento, la secretaria o secretario, tesorera o tesorero y demás servidores públicos municipales, entrantes y salientes, estarán obligados a comparecer ante las comisiones legislativas, cuando se estime necesario recabar alguna información relativa a los ayuntamientos.
 
 ###### ARTICULO 35.
 
@@ -565,7 +595,9 @@ Instalado el ayuntamiento, se comunicará oficialmente su integración a los Pod
 
 Al siguiente día de la sesión de instalación, el ayuntamiento procederá en sesión ordinaria, a lo siguiente:
 
-I. Nombrar al secretario, tesorero, oficial mayor y contralor;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+I. Nombrar a la secretaria o secretario, tesorera o tesorero, oficial mayor y contralora o contralor;
 
 II. Aprobar las comisiones a que se refiere esta Ley; y
 
@@ -617,9 +649,11 @@ Las comisiones pueden ser permanentes y transitorias y bajo ninguna circunstanci
 
 Las Comisiones de Derechos Humanos de los Cabildos, podrán gestionar ante la Comisión de Derechos Humanos del Estado de Colima, acuda personal facultado a las sedes municipales para la recepción de quejas y denuncias por presuntas violaciones a los derechos humanos, cuando éstas fueren imputadas a cualquier autoridad o servidor público cuya competencia se circunscriba en el municipio correspondiente. Lo anterior, siempre y cuando los ciudadanos interesados se encuentren en estado de vulnerabilidad o no cuenten con los recursos necesarios para trasladarse a la capital del Estado.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### ARTICULO 43.
 
-El ayuntamiento debe asignar las comisiones de acuerdo a los reglamentos correspondientes, a propuesta del presidente municipal.
+El ayuntamiento debe asignar las comisiones de acuerdo a los reglamentos correspondientes, a propuesta de la presidenta o presidente municipal.
 
 ###### ARTICULO 44.
 
@@ -645,17 +679,23 @@ d) Aprobar y evaluar el plan municipal de desarrollo, el programa de gobierno mu
 
 e) Ordenar la difusión ante la ciudadanía del plan y programas a que se refiere el inciso anterior;
 
-f) Analizar anualmente el informe del estado que guarda la administración pública municipal, mismo que será rendido por el presidente municipal;
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-g) Autorizar al presidente municipal para ausentarse del municipio por un término mayor de quince días y para separarse temporalmente de sus funciones. Cualquier comisión oficial al extranjero deberá ser autorizada previamente por el cabildo;
+f) Analizar anualmente el informe del estado que guarda la administración pública municipal, mismo que será rendido por la presidenta o presidente municipal;
 
-h) Nombrar, a propuesta del presidente municipal, a los representantes del municipio ante las dependencias y organismos oficiales, federales y estatales que realicen obras dentro de la circunscripción territorial;
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+g) Autorizar a la presidenta o presidente municipal para ausentarse del municipio por un término mayor de quince días y para separarse temporalmente de sus funciones. Cualquier comisión oficial al extranjero deberá ser autorizada previamente por el cabildo;
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+h) Nombrar, a propuesta de la presidenta o presidente municipal, a los representantes del municipio ante las dependencias y organismos oficiales, federales y estatales que realicen obras dentro de la circunscripción territorial;
 
 i) Celebrar convenios de colaboración con otros municipios, con la federación, con el gobierno del Estado o con los particulares;
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-j) Nombrar, a propuesta del presidente, al secretario, tesorero, oficial mayor, contralor municipal, juez cívico, quienes deberán cumplir con los requisitos señalados en la presente ley; y al titular del área de seguridad pública, quien deberá cumplir con los requisitos señalados en la Ley Estatal del Sistema de Seguridad Publica;
+j) Nombrar, a propuesta de la presidenta o presidente, a la secretaria o secretario, tesorera o tesorero, oficial mayor, contralora o contralor municipal, jueza o juez cívico, quienes deberán cumplir con los requisitos señalados en la presente ley; y a la o el titular del área de seguridad pública, quien deberá cumplir con los requisitos señalados en la Ley Estatal del Sistema de Seguridad Pública;
 
 k) Introducir métodos y procedimientos en la selección y desarrollo del personal, que propicien la institucionalización del servicio civil de carrera municipal;
 
@@ -735,19 +775,25 @@ b) Remitir mensualmente al Congreso, a más tardar el día 15, la cuenta detalla
 
 c) Autorizar y remitir anualmente al Congreso, para su aprobación, a más tardar el 31 de octubre y hasta el 15 de noviembre de cada tres años, cuando con motivo del cambio de gobierno municipal, la iniciativa de ley general de ingresos municipales para el siguiente año; en caso de incumplimiento quedará la (sic) vigente la ley general de ingresos municipales del ejercicio fiscal vigente.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE FEBRERO DE 2020)</small>
 
-d) Aprobar el dictamen de revisión de la cuenta pública municipal del ejercicio fiscal que presenten conjuntamente la comisión de hacienda y síndico municipal, con base en el proyecto que presente la tesorería municipal, así como del informe de revisión que entregue la contraloría municipal, y remitirla al Congreso a más tardar el último día de febrero del ejercicio siguiente, para los efectos señalados en el artículo 33 fracción XI de la Constitución.
+d) Aprobar el dictamen de revisión de la cuenta pública municipal del ejercicio fiscal que presenten conjuntamente la comisión de hacienda y la síndica o el síndico municipal, con base en el proyecto que presente la tesorería municipal, así como del informe de revisión que entregue la contraloría municipal, y remitirla al Congreso a más tardar el último día de febrero del ejercicio siguiente, para los efectos señalados en el artículo 33 fracción XI de la Constitución.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 La aprobación del dictamen de revisión por el Cabildo no impide que se finquen responsabilidades a los servidores públicos que hayan incurrido en ellas, si del resultado de la revisión se determinan faltas administrativas ello en los términos que establece la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
-Si de las faltas administrativas se desprendieran hechos constitutivos de delitos contra el Estado y la administración pública municipal, el cabildo, el síndico, la comisión de hacienda municipal o la contraloría municipal deberán denunciarlos ante la autoridad competente.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+Si de las faltas administrativas se desprendieran hechos constitutivos de delitos contra el Estado y la administración pública municipal, el cabildo, la síndica o síndico, la comisión de hacienda municipal o la contraloría municipal deberán denunciarlos ante la autoridad competente.
 
 e) Aprobar entre el 16 y el 31 de diciembre de cada año, el presupuesto anual de egresos del siguiente ejercicio, con base en sus ingresos disponibles. Si en la fecha mencionada no hubiere sido aprobado el presupuesto, quedará en vigor sin modificaciones en forma provisional el del año en curso, hasta en tanto sea aprobado el nuevo ordenamiento;
 
 f) Aprobar la contratación de empréstitos o créditos, la celebración de actos o suscripción de convenios que comprometan al municipio por un plazo mayor al período del ayuntamiento, así como la autorización para que la hacienda pública municipal, sea ejercida por persona distinta al ayuntamiento. Estas atribuciones se ejercerán con el acuerdo de cuando menos las dos terceras partes de los integrantes del cabildo;
 
-g) Vigilar que el tesorero y demás manejadores de fondos y recursos económicos municipales caucionen su manejo;
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+g) Vigilar que la tesorera o tesorero y demás manejadores de fondos y recursos económicos municipales caucionen su manejo;
 
 h) Aceptar herencias, legados y donaciones que se hagan al patrimonio municipal;
 
@@ -819,11 +865,15 @@ IV. Sesionar fuera del territorio municipal; y
 
 V. Fijar sueldos a los funcionarios y empleados municipales con base en porcentajes de ingresos.
 
-### CAPÍTULO V. DE LAS FACULTADES Y OBLIGACIONES DE LOS PRESIDENTES MUNICIPALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2020)</small>
+
+### CAPÍTULO V. DE LAS FACULTADES Y OBLIGACIONES DE LAS PRESIDENTAS O PRESIDENTES MUNICIPALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 47.
 
-El presidente municipal es el ejecutor de las determinaciones del cabildo y tiene las siguientes facultades y obligaciones:
+La presidenta o presidente municipal es el ejecutor de las determinaciones del cabildo y tiene las siguientes facultades y obligaciones:
 
 I. En materia de gobierno y régimen interior:
 
@@ -835,9 +885,9 @@ c) Suscribir a nombre del ayuntamiento y en los casos que lo ameriten con autori
 
 d) Conducir las relaciones políticas del ayuntamiento con los poderes federales, estatales y con otros municipios y representar a la institución oficial en todos los actos oficiales;
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-e) Proponer al Cabildo los nombramientos del Secretario, Tesorero, Oficial Mayor, Contralor Municipal, Juez Cívico y al titular del área de Seguridad Pública; así como removerlos en caso justificado, fundando y motivando la decisión;
+e) Proponer al Cabildo los nombramientos de la secretaria o secretario, tesorera o tesorero, oficial mayor, contralora o contralor municipal, jueza o juez cívico y a la o el titular del área de seguridad pública; así como removerlos en caso justificado, fundando y motivando la decisión;
 
 f) Solicitar la publicación en el periódico oficial de reglamentos y demás disposiciones de observancia general concernientes al municipio;
 
@@ -857,7 +907,9 @@ k) Vigilar el desempeño de los servidores y empleados del municipio, corregir o
 
 l) Tener a su cargo el Registro Civil, pudiendo ejercerlo por sí o mediante la persona titular de la oficialía que designe en la cabecera municipal y por las auxiliares de ésta, en los lugares que lo ameriten;
 
-m) Preparar, en unión del secretario, la información y documentación que soporten la propuesta de acuerdos que deban analizarse en sesión. Dichos documentos, además de los dictámenes que preparen las comisiones, deberán ser entregados a los integrantes del ayuntamiento por lo menos con cuarenta y ocho horas de anticipación, tratándose de sesiones ordinarias del cabildo;
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+m) Preparar, en unión de la secretaria o secretario, la información y documentación que soporten la propuesta de acuerdos que deban analizarse en sesión. Dichos documentos, además de los dictámenes que preparen las comisiones, deberán ser entregados a los integrantes del ayuntamiento por lo menos con cuarenta y ocho horas de anticipación, tratándose de sesiones ordinarias del cabildo;
 
 n) Autorizar los libros que se relacionen con la administración municipal, firmando y sellando la primera y última hoja;
 
@@ -887,9 +939,9 @@ a) Vigilar que la recaudación en todas las ramas de la hacienda pública munici
 
 b) Vigilar que el gasto y la inversión de los fondos municipales, se haga con estricto apego al presupuesto de egresos;
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-c) Vigilar que se entregue a la comisión de hacienda y síndico municipal, en tiempo y forma, el proyecto de la cuenta pública municipal del ejercicio fiscal que elabore la tesorería municipal, así como el resultado de la revisión practicada por la contraloría municipal a las operaciones contables, financieras, presupuestales y de ejecución de obras públicas, las relativas a programas sociales y a todas las operaciones que afecten al patrimonio, la deuda pública municipal directa o indirecta y sobre las concesiones otorgadas por el ayuntamiento, así como toda la documentación que solicite la citada comisión, con el fin de que la misma conjuntamente con el síndico municipal elaboren el dictamen de revisión de la cuenta pública municipal del ejercicio fiscal.
+c) Vigilar que se entregue a la comisión de hacienda y a la síndica o síndico municipal, en tiempo y forma, el proyecto de la cuenta pública municipal del ejercicio fiscal que elabore la tesorería municipal, así como el resultado de la revisión practicada por la contraloría municipal a las operaciones contables, financieras, presupuestales y de ejecución de obras públicas, las relativas a programas sociales y a todas las operaciones que afecten al patrimonio, la deuda pública municipal directa o indirecta y sobre las concesiones otorgadas por el ayuntamiento, así como toda la documentación que solicite la citada comisión, con el fin de que la misma conjuntamente con la síndica o síndico municipal elaboren el dictamen de revisión de la cuenta pública municipal del ejercicio fiscal.
 
 V. En materia social, cultural y desarrollo comunitario:
 
@@ -941,13 +993,17 @@ VII. Las demás que le señalen las leyes federales, estatales y los reglamentos
 
 Para el cumplimiento de sus actividades el presidente municipal podrá, en cualquier tiempo, auxiliarse de los demás integrantes del ayuntamiento, formando comisiones permanentes o transitorias, quienes tendrán únicamente facultades de supervisión y asesoría.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### ARTICULO 49.
 
-El presidente municipal asumirá la representación jurídica del ayuntamiento en los litigios en que éste fuera parte cuando el síndico esté impedido legalmente para ello o expresamente lo autorice el cabildo.
+La presidenta o presidente municipal asumirá la representación jurídica del ayuntamiento en los litigios en que éste fuera parte cuando la síndica o el síndico esté impedido legalmente para ello o expresamente lo autorice el cabildo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 50.
 
-Los presidentes municipales no podrán, en ningún caso:
+Las presidentas o presidentes municipales no podrán, en ningún caso:
 
 I. Desviar los fondos y bienes municipales de los fines a que estén destinados;
 
@@ -969,11 +1025,15 @@ VIII. Residir durante su gestión fuera del territorio municipal; y
 
 IX. Patrocinar a persona alguna en asuntos que se relacionen con el gobierno municipal.
 
-### CAPÍTULO VI. DE LAS FACULTADES Y OBLIGACIONES DE LOS SÍNDICOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2020)</small>
+
+### CAPÍTULO VI. DE LAS FACULTADES Y OBLIGACIONES DE LAS SINDICAS O LOS SINDICOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 51.
 
-Los síndicos tendrán las siguientes facultades y obligaciones:
+Las síndicas o síndicos tendrán las siguientes facultades y obligaciones:
 
 I. Asistir puntualmente a las sesiones del cabildo, participando en las discusiones con voz y voto;
 
@@ -985,7 +1045,9 @@ IV. La vigilancia en el ejercicio del presupuesto;
 
 V. Asistir a las visitas de inspección que se hagan a la tesorería municipal;
 
-VI. Solicitar y obtener del tesorero municipal, la información relativa a la hacienda pública municipal, al ejercicio del presupuesto, al patrimonio municipal y demás documentación de la gestión municipal, necesarias para el cumplimiento de sus funciones;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+VI. Solicitar y obtener de la tesorera o tesorero municipal, la información relativa a la hacienda pública municipal, al ejercicio del presupuesto, al patrimonio municipal y demás documentación de la gestión municipal, necesaria para el cumplimiento de sus funciones;
 
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
 
@@ -1001,15 +1063,21 @@ XI. Suplir en sus faltas al presidente municipal, de acuerdo a lo establecido po
 
 XII. Las demás que le concedan o le impongan las leyes, reglamentos o el cabildo.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### ARTICULO 52.
 
-El síndico no puede desistirse, transigir, comprometer en árbitros o hacer cesión de bienes, salvo autorización expresa que en cada caso le otorgue la ley o el cabildo.
+La síndica o síndico no puede desistirse, transigir, comprometer en árbitros o hacer cesión de bienes, salvo autorización expresa que en cada caso le otorgue la ley o el cabildo.
 
-### CAPÍTULO VII. DE LAS FACULTADES Y OBLIGACIONES DE LOS REGIDORES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2020)</small>
+
+### CAPÍTULO VII. DE LAS FACULTADES Y OBLIGACIONES DE LAS REGIDORAS Y LOS REGIDORES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 53.
 
-Son facultades y obligaciones de los regidores las siguientes:
+Son facultades y obligaciones de las regidoras y los regidores las siguientes:
 
 I. Vigilar la correcta observancia de los acuerdos y disposiciones del ayuntamiento;
 
@@ -1023,9 +1091,13 @@ V. Proponer al cabildo, a través de las comisiones correspondientes, acuerdos p
 
 VI. Solicitar a los titulares de las diferentes áreas de la administración municipal, la información que requieran, estando aquellos obligados a proporcionarla en un plazo máximo de ocho días, contados a partir de que reciban la solicitud;
 
-VII. Suplir en sus faltas al presidente municipal, de acuerdo a lo establecido por esta Ley y los reglamentos municipales;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
 
-VIII. Concurrir a las ceremonias cívicas y a los demás actos a que fueren citados por el presidente municipal;
+VII. Suplir en sus faltas a la presidenta o presidente municipal, de acuerdo a lo establecido por esta Ley y los reglamentos municipales;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+VIII. Concurrir a las ceremonias cívicas y a los demás actos a que fueren citados por la presidenta o presidente municipal;
 
 IX. Presidir cuando menos una comisión de las establecidas en el reglamento de esta Ley;
 
@@ -1041,9 +1113,11 @@ XII. Las demás que les otorguen las leyes y sus reglamentos.
 
 Los integrantes de los ayuntamientos necesitan licencia del cabildo para separarse del ejercicio de sus funciones. Las faltas de los mismos podrán ser temporales o definitivas.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### ARTICULO 55.
 
-Las faltas temporales del presidente municipal hasta por quince días serán suplidas por el secretario del ayuntamiento, con el carácter de encargado del despacho; en las de más de quince días o definitivas, se llamará en primer lugar a su suplente y sólo en el caso de impedimento o de falta absoluta de éste, el cabildo, por mayoría de cuando menos las dos terceras partes del total de sus miembros, nombrará para sustituirlo a un munícipe en funciones.
+Las faltas temporales de la presidenta o presidente municipal hasta por quince días serán suplidas por la secretaria o el secretario del ayuntamiento, con el carácter de encargada o encargado del despacho; en las de más de quince días o definitivas, se llamará en primer lugar a su suplente y sólo en el caso de impedimento o de falta absoluta de éste, el cabildo, por mayoría de cuando menos las dos terceras partes del total de sus miembros, nombrará para sustituirlo a un munícipe en funciones.
 
 ###### ARTICULO 56.
 
@@ -1079,19 +1153,25 @@ Las autoridades auxiliares municipales actuarán en sus respectivas jurisdiccion
 
 Para los efectos de esta Ley, son autoridades auxiliares las siguientes:
 
-I. Las comisarías municipales, que se integrarán por un comisario en las comunidades con población de hasta dos mil habitantes;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
 
-II. Las juntas municipales, que se integran por un presidente, un secretario y un tesorero, en las comunidades con población mayor de dos mil habitantes; y
+I. Las comisarías municipales, que se integrarán por una comisaria o comisario en las comunidades con población de hasta dos mil habitantes;
 
-III. Las delegaciones, que estarán a cargo de un delegado, en los términos del artículo 11 de la presente Ley.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+II. Las juntas municipales, que se integran por una presidenta o presidente, una secretaria o secretario y una tesorera o tesorero, en las comunidades con población mayor de dos mil habitantes; y
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+III. Las delegaciones, que estarán a cargo de una delegada o delegado, en los términos del artículo 11 de la presente Ley.
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 2004)</small>
 
 Los integrantes de las autoridades auxiliares municipales serán electas mediante voto universal, libre, secreto y directo de los ciudadanos residentes en la localidad donde se establezcan, de conformidad con el procedimiento de participación ciudadana y vecinal que fijen los ayuntamientos en los reglamentos respectivos. Las autoridades auxiliares durarán en su encargo tres años y su elección será en los primeros sesenta días después de la toma de posesión del H. Ayuntamiento respectivo.
 
-> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-En los casos de haber elecciones extraordinarias de gobernador, de diputado local o de ayuntamiento, la elección de las autoridades auxiliares municipales deberá verificarse sesenta días después de haberse realizado las dos primeras o sesenta días después de que tome posesión el Cabildo que haya resultado electo de tal suerte que no exista concurrencia en las elecciones de cualquiera de estos cargos con la de autoridades auxiliares municipales.
+En los casos de haber elecciones extraordinarias de gobernadora o gobernador, de diputada o diputado local o de ayuntamiento, la elección de las autoridades auxiliares municipales deberá verificarse sesenta días después de haberse realizado las dos primeras o sesenta días después de que tome posesión el Cabildo que haya resultado electo de tal suerte que no exista concurrencia en las elecciones de cualquiera de estos cargos con la de autoridades auxiliares municipales.
 
 ## TÍTULO TERCERO. DEL RÉGIMEN ADMINISTRATIVO
 
@@ -1137,7 +1217,9 @@ III. Oficialía mayor;
 
 IV. Contraloría municipal; y
 
-V. Las demás que el ayuntamiento determine, considerando las condiciones territoriales, socioeconómicas, capacidad administrativa y financiera del municipio, así como el ramo o servicio que se pretenda atender, en los términos de la presente Ley y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+V. Las demás que el ayuntamiento determine, considerando las condiciones territoriales, socioeconómicas, capacidad administrativa y financiera del municipio, así como el ramo o servicio que se pretenda atender, en los términos de la presente Ley y otras disposiciones legales aplicable (sic), observando en su integración el principio de paridad de género.
 
 Los ayuntamientos, en el reglamento correspondiente, deberán señalar las atribuciones que tendrán las dependencias; asimismo, podrán otorgarles la denominación que corresponda atendiendo a su organización administrativa.
 
@@ -1147,15 +1229,21 @@ Los titulares de las dependencias señaladas en el artículo anterior, deberán 
 
 ### CAPÍTULO III. DE LA SECRETARÍA DEL AYUNTAMIENTO
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### ARTICULO 67.
 
-Para el despacho de los asuntos de carácter administrativo y para auxiliar en sus funciones al presidente municipal, en cada ayuntamiento se tendrá una secretaría, la cual estará a cargo de una persona denominada secretario, que será nombrado por el cabildo a propuesta del presidente municipal.
+Para el despacho de los asuntos de carácter administrativo y para auxiliar en sus funciones a la presidenta o presidente municipal, en cada ayuntamiento se tendrá una secretaría, la cual estará a cargo de una persona denominada secretaria o secretario, que será nombrado por el cabildo a propuesta de la presidenta o presidente municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 68.
 
-Para ser secretario de un ayuntamiento se requiere:
+Para ser secretaria o secretario de un ayuntamiento se requiere:
 
-I. Ser ciudadano colimense en pleno uso de sus derechos políticos y civiles y tener la capacidad para desempeñar el cargo;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+I. Ser ciudadana o ciudadano colimense en pleno uso de sus derechos políticos y civiles y tener la capacidad para desempeñar el cargo;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1169,15 +1257,21 @@ III. No haber sido sentenciado en proceso penal, por delito intencional, ni decl
 
 IV. Contar con título y cédula profesional debidamente registrados en áreas afines al cargo y con ejercicio profesional mínimo de dos años.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### ARTICULO 69.
 
-Son facultades y obligaciones del secretario:
+Son facultades y obligaciones de la secretaria o secretario:
 
 I. Tener a su cargo el cuidado y dirección inmediata de la oficina y el archivo del ayuntamiento;
 
-II. Controlar la correspondencia oficial y dar cuenta diaria con todos los asuntos al presidente municipal, para acordar los términos;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
 
-III. Girar los citatorios que le indique el presidente municipal para la celebración de las sesiones del ayuntamiento, mencionando en el citatorio el lugar, día y hora de la sesión, así como los asuntos a tratar;
+II. Controlar la correspondencia oficial y dar cuenta diaria con todos los asuntos a la presidenta o presidente municipal, para acordar los términos;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+III. Girar los citatorios que le indique la presidenta o presidente municipal para la celebración de las sesiones del ayuntamiento, mencionando en el citatorio el lugar, día y hora de la sesión, así como los asuntos a tratar;
 
 IV. Estar presente en todas las sesiones del ayuntamiento, sólo con voz informativa y levantar las actas correspondientes, autorizándolas con su firma, teniendo la obligación de expedir copias certificadas de las que le sean solicitadas por los miembros del ayuntamiento, servidores públicos o ciudadanos;
 
@@ -1185,7 +1279,9 @@ V. Expedir las copias, credenciales y demás certificaciones que acuerde el cabi
 
 VI. Compilar las disposiciones jurídicas que tengan vigencia en el municipio;
 
-VII. Cumplir y hacer cumplir las disposiciones que en materia electoral le señalen las leyes al presidente municipal o los convenios que para el efecto se celebren;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+VII. Cumplir y hacer cumplir las disposiciones que en materia electoral le señalen las leyes a la presidenta o presidente municipal o los convenios que para el efecto se celebren;
 
 VIII. Auxiliar a las autoridades federales y estatales, en el cumplimiento de las leyes y reglamentos;
 
@@ -1195,9 +1291,11 @@ X. Refrendar con su firma todos los reglamentos y disposiciones emanados del ayu
 
 XI. Las demás que le señalen las leyes y reglamentos.
 
-###### ARTÍCULO 70.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-Las faltas del secretario del ayuntamiento que no excedan de quince días, serán suplidas por el servidor público que designe el presidente municipal. En las faltas que excedan el tiempo indicado, el ayuntamiento nombrará un secretario interino.
+###### ARTICULO 70.
+
+Las faltas de la secretaria o secretario del ayuntamiento que no excedan de quince días, serán suplidas por el servidor público que designe la presidenta o presidente municipal. En las faltas que excedan el tiempo indicado, el ayuntamiento nombrará una secretaria o secretario interino.
 
 ### CAPÍTULO IV. DE LA TESORERÍA MUNICIPAL
 
@@ -1207,7 +1305,9 @@ Las faltas del secretario del ayuntamiento que no excedan de quince días, será
 
 La hacienda pública municipal estará a cargo de la tesorería municipal, cuyo titular deberá cumplir con los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+I.- Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II. No haber sido declarado en concurso mercantil o quiebra fraudulenta, ni haber sido condenado por delito intencional grave o inhabilitado para desempeñar empleo, cargo o comisión en el servicio público federal, estatal o municipal, por sentencia o resolución administrativa firme;
 
@@ -1215,21 +1315,31 @@ III. Contar con título y cédula profesional de Contador Público o carrera af�
 
 IV. Las demás que establezcan las disposiciones aplicables.
 
-El titular de la tesorería municipal será nombrado por el cabildo a propuesta del presidente municipal.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-El tesorero y los empleados que manejen fondos o recursos económicos municipales, estarán obligados a caucionar su manejo en la forma y términos previstos por el cabildo.
+La o el titular de la tesorería municipal será nombrado por el cabildo a propuesta de la presidenta o presidente municipal.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+La tesorera o tesorero y los empleados que manejen fondos o recursos económicos municipales, estarán obligados a caucionar su manejo en la forma y términos previstos por el cabildo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 72.
 
-Son facultades y obligaciones del tesorero:
+Son facultades y obligaciones de la tesorera o tesorero:
 
-I. Elaborar y proponer al presidente municipal los anteproyectos de leyes, reglamentos y demás disposiciones que se requieran para el manejo de los asuntos tributarios del municipio;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+I. Elaborar y proponer a la presidenta o presidente municipal los anteproyectos de leyes, reglamentos y demás disposiciones que se requieran para el manejo de los asuntos tributarios del municipio;
 
 II. Recaudar los impuestos, derechos, productos y aprovechamientos de conformidad con la ley general de ingresos municipales, así como las participaciones que por ley o convenio le correspondan al municipio en el rendimiento de impuestos federales y estatales;
 
 III. Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones fiscales;
 
-IV. Planear y proyectar los presupuestos anuales de ingresos así como la previsión de egresos y presentarlos al ayuntamiento a través del presidente municipal;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+IV. Planear y proyectar los presupuestos anuales de ingresos así como la previsión de egresos y presentarlos al ayuntamiento a través de la presidenta o presidente municipal;
 
 V. Llevar al corriente el padrón fiscal municipal y practicar revisiones y auditorías a causantes;
 
@@ -1237,19 +1347,23 @@ VI. Formular mensualmente el estado de origen y aplicación de los recursos muni
 
 VII. Ejercer la facultad económica-coactiva conforme a las leyes y reglamentos correspondientes;
 
-VIII. Ejercer el presupuesto de egresos y efectuar los pagos de acuerdo con los programas y presupuestos aprobados, mancomunando su firma con el servidor público que determine el presidente municipal. En ningún caso deberá efectuar pagos con cheques al portador y sólo los hará contra la presentación del recibo o factura que reúna los requisitos legales;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+VIII. Ejercer el presupuesto de egresos y efectuar los pagos de acuerdo con los programas y presupuestos aprobados, mancomunando su firma con el servidor público que determine la presidenta o presidente municipal. En ningún caso deberá efectuar pagos con cheques al portador y sólo los hará contra la presentación del recibo o factura que reúna los requisitos legales;
 
 IX. Organizar y llevar la contabilidad del municipio y las estadísticas financieras del mismo;
 
-X. Intervenir con el sindico en los juicios de carácter fiscal que se ventilen ante cualquier tribunal, cuando tenga interés la hacienda pública municipal;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+X. Intervenir con la síndica o el síndico en los juicios de carácter fiscal que se ventilen ante cualquier tribunal, cuando tenga interés la hacienda pública municipal;
 
 XI. Establecer convenios de coordinación fiscal con el gobierno del Estado en la administración de impuestos, previa autorización del cabildo en cada caso;
 
 XII. Pagar la nómina al personal que labora en el municipio;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
 
-XIII. Elaborar el proyecto de la cuenta pública municipal del ejercicio fiscal y entregarlo dentro de los primeros 30 días naturales del año a la Comisión de Hacienda y Síndico Municipal;
+XIII. Elaborar el proyecto de la cuenta pública municipal del ejercicio fiscal y entregarlo dentro de los primeros 30 días naturales del año a la Comisión de Hacienda y Síndica o Síndico Municipal;
 
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2015)</small>
 
@@ -1257,9 +1371,11 @@ XIV. Estimar, si así lo autoriza el Ayuntamiento, con base en los ingresos por 
 
 XV. Las demás que les señalen las leyes y reglamentos.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### ARTICULO 73.
 
-Serán responsables los tesoreros de las erogaciones que efectúen y que no estén comprendidas en el presupuesto o no hayan sido autorizadas por el ayuntamiento.
+Serán responsables las tesoreras o tesoreros de las erogaciones que efectúen y que no estén comprendidas en el presupuesto o no hayan sido autorizadas por el ayuntamiento.
 
 ###### ARTICULO 74.
 
@@ -1267,15 +1383,21 @@ En el supuesto del último párrafo de la fracción IV del artículo 115 de la C
 
 ### CAPÍTULO V. DE LA OFICIALÍA MAYOR
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### ARTICULO 75.
 
-Para el manejo adecuado de la administración municipal, los ayuntamientos contarán con un oficial mayor que será designado por el cabildo a propuesta del presidente y deberá cubrir los requisitos establecidos en el artículo 68 de esta Ley.
+Para el manejo adecuado de la administración municipal, los ayuntamientos contarán con una o un oficial mayor que será designado por el cabildo a propuesta de la presidenta o presidente municipal y deberá cubrir los requisitos establecidos en el artículo 68 de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 76.
 
-Corresponderá al oficial mayor:
+Corresponderá a la o al oficial mayor:
 
-I. Participar con el tesorero municipal en la formación de planes y programas del gasto público y en la elaboración del anteproyecto de presupuesto anual de egresos;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+I. Participar con la tesorera o tesorero municipal en la formación de planes y programas del gasto público y en la elaboración del anteproyecto de presupuesto anual de egresos;
 
 II. Expedir las órdenes para las erogaciones con cargo al presupuesto de las dependencias municipales, por concepto de adquisiciones y pago de servicios;
 
@@ -1285,11 +1407,15 @@ IV. Controlar el servicio de mantenimiento de vehículos, maquinaria, mobiliario
 
 V. Administrar, controlar y vigilar los almacenes del ayuntamiento;
 
-VI. Conservar y administrar los bienes propiedad del ayuntamiento y proponer al presidente municipal su recuperación, concesión o enajenación, cuando dichas funciones no estén encomendadas a otra dependencia;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+VI. Conservar y administrar los bienes propiedad del ayuntamiento y proponer a la presidenta o presidente municipal su recuperación, concesión o enajenación, cuando dichas funciones no estén encomendadas a otra dependencia;
 
 VII. Intervenir en la adquisición y enajenación de bienes muebles e inmuebles que lleve a cabo el ayuntamiento y vigilar que dichas operaciones se ajusten a las disposiciones legales;
 
-VIII. Levantar y tener al corriente el inventario general de los bienes muebles e inmuebles del ayuntamiento, en coordinación con el síndico y la comisión de regidores correspondiente;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+VIII. Levantar y tener al corriente el inventario general de los bienes muebles e inmuebles del ayuntamiento, en coordinación con la síndica o síndico y la comisión de regidores correspondiente;
 
 IX. Vigilar el cumplimiento de las normas y contratos que rijan las concesiones, autorizaciones y permisos para el aprovechamiento y explotación de los bienes municipales, cuando dichas tareas no estén expresamente encomendadas a otra dependencia;
 
@@ -1303,39 +1429,51 @@ XIII. Formular y aplicar programas permanentes de capacitación para los servido
 
 XIV. Participar en la determinación de las condiciones generales de trabajo, difundiéndolas y vigilando su cumplimiento;
 
-XV. Mantener al corriente el escalafón de los trabajadores;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
 
-XVI. Autorizar, previo acuerdo del presidente municipal y con base en el presupuesto, la creación de nuevas plazas o unidades administrativas que requieran las dependencias del municipio; y
+XV. Mantener al corriente el escalafón de las o los trabajadores;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+XVI. Autorizar, previo acuerdo de la presidenta o presidente municipal y con base en el presupuesto, la creación de nuevas plazas o unidades administrativas que requieran las dependencias del municipio; y
 
 XVII. Las demás que le otorguen las leyes, reglamentos y manuales de organización.
 
 ### CAPÍTULO VI. DE LA CONTRALORÍA MUNICIPAL
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 77.
 
-La Contraloría municipal tendrá a su cargo promover, evaluar y fortalecer el buen funcionamiento del control interno del Municipio y de las dependencias y entidades que conforman su Administración Pública, centralizada y paramunicipal. El titular de la Contraloría municipal será nombrado por el Cabildo, a propuesta del Presidente municipal, y deberá cumplir con los requisitos establecidos en el artículo 68 de esta Ley.
+La Contraloría municipal tendrá a su cargo promover, evaluar y fortalecer el buen funcionamiento del control interno del Municipio y de las dependencias y entidades que conforman su Administración Pública, centralizada y paramunicipal. La o el titular de la Contraloría municipal será nombrado por el Cabildo, a propuesta de la presidenta o presidente municipal, y deberá cumplir con los requisitos establecidos en el artículo 68 de esta Ley.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
 La Contraloría municipal estará dotada de autonomía técnica y de gestión, y ejercerá las facultades que a los órganos internos de control confiere el artículo 109 de la Constitución Política de los Estados Unidos Mexicanos y su correlativo de la Constitución Política del Estado Libre y Soberano de Colima en materia de responsabilidades administrativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### ARTICULO 78.
 
-Son atribuciones del contralor municipal:
+Son atribuciones de la contralora o contralor municipal:
 
-I. Proponer al presidente municipal las normas y criterios en materia de control y evaluación, que deban observar las dependencias centralizadas y paramunicipales;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+I. Proponer a la presidenta o presidente municipal las normas y criterios en materia de control y evaluación, que deban observar las dependencias centralizadas y paramunicipales;
 
 II. Verificar el cumplimiento del plan municipal de desarrollo, del programa de gobierno municipal y de los subprogramas derivados de este último;
 
 III. Realizar auditorías preventivas a las dependencias y entidades de la administración pública municipal y paramunicipal;
 
-> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-El ejercicio de esta atribución deberá abarcar, en lo posible, la revisión a las operaciones contables, financieras, presupuestales y de ejecución de obras públicas, las relativas a programas sociales y a todas las operaciones que afecten el patrimonio, la deuda publica municipal directa o indirecta y sobre las concesiones otorgadas por el ayuntamiento y elaborar el informe de resultados, mismo que será presentado a la comisión de hacienda y síndico municipal;
+El ejercicio de esta atribución deberá abarcar, en lo posible, la revisión a las operaciones contables, financieras, presupuestales y de ejecución de obras públicas, las relativas a programas sociales y a todas las operaciones que afecten el patrimonio, la deuda pública municipal directa o indirecta y sobre las concesiones otorgadas por el ayuntamiento y elaborar el informe de resultados, mismo que será presentado a la comisión de hacienda y síndica o síndico municipal.
 
 IV. Vigilar preventivamente la correcta aplicación del gasto público;
 
-V. Informar al presidente municipal de las actividades de la contraloría;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+V. Informar a la presidenta o presidente municipal de las actividades de la contraloría;
 
 VI. Vigilar el registro e inventario de los bienes muebles e inmuebles del municipio;
 
@@ -1347,21 +1485,25 @@ IX. Establecer y operar un sistema de quejas, denuncias y sugerencias;
 
 X. Participar en la entrega-recepción de las dependencias y entidades de la administración pública municipal;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE FEBRERO DE 2020)</small>
 
-XI. Apoyar a la comisión de hacienda y síndico municipal en la elaboración del dictamen de revisión de la cuenta pública municipal del ejercicio fiscal, tomando como base el proyecto que presente la tesorería municipal, así como los resultados de la revisión practicada por la propia contraloría de conformidad con lo establecido en el segundo párrafo de la fracción III de este artículo.
+XI. Apoyar a la comisión de hacienda y síndica o síndico municipal en la elaboración del dictamen de revisión de la cuenta pública municipal del ejercicio fiscal, tomando como base el proyecto que presente la tesorería municipal, así como los resultados de la revisión practicada por la propia contraloría de conformidad con lo establecido en el segundo párrafo de la fracción III de este artículo.
 
-Entregar a la comisión de hacienda y síndico municipal el informe de los resultados del ejercicio fiscal de la revisión practicada a las operaciones de la gestión municipal correspondientes, a más tardar el día 30 del mes siguiente a la conclusión del año, así como toda la documentación que soporte dichos resultados;
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+Entregar a la comisión de hacienda y síndica o síndico municipal el informe de los resultados del ejercicio fiscal de la revisión practicada a las operaciones de la gestión municipal correspondientes, a más tardar el día 30 del mes siguiente a la conclusión del año, así como toda la documentación que soporte dichos resultados.
 
 XII. Vigilar el desarrollo administrativo de las dependencias y entidades de la administración pública municipal, a fin de aplicar con eficiencia los recursos humanos y patrimoniales;
 
-XIII. Presentar al presidente municipal un plan anual de trabajo, durante el mes de enero;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+XIII. Presentar a la presidenta o presidente municipal un plan anual de trabajo, durante el mes de enero;
 
 XIV. Proponer al ayuntamiento al servidor público que fungirá como comisario público en las empresas de participación municipal;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
 
-XV. Solicitar a los titulares de las dependencias y entidades de la administración pública municipal que participen con el tesorero y el presidente municipal en el cumplimiento de las observaciones que formule el Órgano Superior de Auditoría y Fiscalización Superior Gubernamental del Estado;
+XV. Solicitar a los titulares de las dependencias y entidades de la administración pública municipal que participen con la tesorera o tesorero y la presidenta o presidente municipal en el cumplimiento de las observaciones que formule el Órgano Superior de Auditoría y Fiscalización Superior Gubernamental del Estado;
 
 > <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
@@ -1369,61 +1511,101 @@ XVI. Observar y aplicar en el ámbito de su competencia la Ley General de Respon
 
 XVII. Las demás que le confiera esta u otras leyes, reglamentos, bandos municipales y acuerdos del ayuntamiento.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2020)</small>
 
-### CAPÍTULO VI BIS. DEL JUEZ CÍVICO
+### CAPÍTULO VI BIS. DEL JUZGADO CÍVICO
 
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-ARTICULO 78 BIS.- Para la preservación del orden y la paz pública, así como dirimir los conflictos entre vecinos, y/o entre éstos y la administración pública municipal, los ayuntamientos podrán contar con un Juzgado Cívico, que será designado por el cabildo a propuesta del presidente.
+ARTICULO 78 BIS.- Para la preservación del orden y la paz pública, así como dirimir los conflictos entre vecinos, y/o entre éstos y la administración pública municipal, los ayuntamientos podrán contar con un Juzgado Cívico, que será designado por el cabildo a propuesta de la presidenta o presidente municipal.
 
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-ARTICULO 78 BIS 1.- Son atribuciones del Juez Cívico:
+ARTICULO 78 BIS 1.- Son atribuciones de la Jueza o Juez Cívico:
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
 
 I. Conocer de las infracciones establecidas en el Reglamento Interior del Juzgado Cívico;
 
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
+
 II. Recibir y dar trámite a las quejas presentadas por los habitantes del municipio, que constituyan una violación a esta Ley, y los reglamentos municipales.
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
 
 III. Resolver sobre la responsabilidad de los probables infractores;
 
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
+
 IV. Imponer las sanciones correspondientes, consultando el Registro Municipal de Infractores, con el fin de verificar si el Infractor es reincidente;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
 
 V. Ejercer las funciones de mediación y conciliación a que se refiere el Reglamento Interior del Juzgado Cívico;
 
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
+
 VI. Determinar y aplicar las sanciones establecidas en la presente Ley, el Reglamento Interior del Juzgado Cívico y demás disposiciones legales que así lo determinen;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
 
 VII. Intervenir en los términos de la presente Ley, y el Reglamento Interior del Juzgado Cívico, en conflictos vecinales, con el fin de avenir a las partes o conocer de las infracciones cívicas que se deriven de tales conductas.
 
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
+
 VIII. Llevar el control de los expedientes relativos a los asuntos que se ventilen en el Juzgado;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
 
 IX. Expedir constancias relativas a hechos y documentos contenidos en los expedientes integrados con motivo de los procedimientos de que tenga conocimiento, una vez concluido el expediente de queja;
 
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
+
 X. Expedir constancias de hechos a solicitud de particulares, quienes harán las manifestaciones bajo protesta de decir verdad, una vez concluido el expediente de queja;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
 
 XI. Solicitar por escrito a las autoridades competentes, el retiro de objetos que estorben la vía pública y la limpia de lugares que deterioren el ambiente y dañen la salud pública, atendiendo desde luego situaciones de mejoramiento del entorno, preservar la tranquilidad ciudadana y garantizar la seguridad y dignidad de las personas;
 
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
+
 XII. El mando del personal que integra el Juzgado, para los efectos inherentes a su función;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
 
 XIII. Conceder la permuta de la sanción por trabajo en favor de la comunidad;
 
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
+
 XIV. Retener y devolver los objetos y valores de los presuntos infractores, o que sean motivo de la controversia, previo recibo que expida. No podrá devolver los objetos que por su naturaleza sean peligrosos, o los que estén relacionados con las infracciones contenidas en el Reglamento Interior del Juzgado Cívico, en cuyo caso se procederá conforme a la normatividad correspondiente, pudiendo ser reclamados ante ésta cuando proceda;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
 
 XV. Comisionar al personal del Juzgado para realizar notificaciones y diligencias;
 
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
+
 XVI. Autorizar y designar la realización de las actividades de apoyo a la comunidad a solicitud del responsable;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
 
 XVII. Poner inmediatamente a disposición del Ministerio Público a aquellas personas que hayan sido detenidas cometiendo un delito en flagrancia;
 
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
+
 XVIII. Solicitar el auxilio de la fuerza pública de ser necesario, para el adecuado funcionamiento del Juzgado; y
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
 
 XIX. Las demás atribuciones que le confieran el Reglamento Interior del Juzgado Cívico y otros ordenamientos.
 
 ### CAPÍTULO VII. DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### ARTICULO 79.
 
-Integrarán la administración pública paramunicipal los organismos descentralizados, empresas de participación y fideicomisos públicos municipales.
+Integrarán la administración pública paramunicipal los organismos descentralizados, empresas de participación y fideicomisos públicos municipales, observando en su conformación el principio de paridad de género.
 
 ###### ARTICULO 80.
 
@@ -1433,21 +1615,27 @@ En el acuerdo correspondiente se determinará el órgano y el procedimiento para
 
 En caso de extinción, el acuerdo correspondiente fijará la forma y términos de la misma, con respeto irrestricto a los derechos de los trabajadores.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### ARTICULO 81.
 
-El ayuntamiento, por conducto del presidente municipal y con el auxilio de la dependencia cabeza de sector, coordinará y supervisará las acciones que realicen las entidades paramunicipales, vigilando que cumplan con la función para la que fueron creadas.
+El ayuntamiento, por conducto de la presidenta o presidente municipal y con el auxilio de la dependencia cabeza de sector, coordinará y supervisará las acciones que realicen las entidades paramunicipales, vigilando que cumplan con la función para la que fueron creadas.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 82.
 
-La administración de los organismos descentralizados municipales estará a cargo de un órgano de gobierno, que será un consejo directivo o su equivalente, integrado conforme al decreto o acuerdo de creación. Invariablemente el presidente municipal presidirá el órgano de gobierno.
+La administración de los organismos descentralizados municipales estará a cargo de un órgano de gobierno, que será un consejo directivo o su equivalente, integrado conforme al decreto o acuerdo de creación. Invariablemente la presidenta o presidente municipal presidirá el órgano de gobierno.
 
 ###### ARTICULO 83.
 
 La tesorería municipal formará y llevará un expediente para cada empresa en la que participe el ayuntamiento.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### ARTICULO 84.
 
-En todas las empresas de participación municipal, existirá un comisario público, el cual será designado por el ayuntamiento a propuesta del contralor.
+En todas las empresas de participación municipal, existirá un comisario público, el cual será designado por el ayuntamiento a propuesta de la contralora o contralor.
 
 ###### ARTICULO 85.
 
@@ -1545,9 +1733,11 @@ Los Ayuntamientos deberán establecer y desarrollar en su reglamento correspondi
 
 ### CAPÍTULO II. DE LA SEGURIDAD PÚBLICA Y TRÁNSITO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### ARTICULO 89.
 
-En cada municipio se integrará la policía preventiva municipal que estará bajo el mando directo del presidente municipal, compuesta por el número de elementos que sean necesarios para atender los requerimientos de la población.
+En cada municipio se integrará la policía preventiva municipal que estará bajo el mando directo de la presidenta o presidente municipal, compuesta por el número de elementos que sean necesarios para atender los requerimientos de la población.
 
 La policía preventiva municipal acatará las órdenes que el gobernador le transmita, en los casos que éste juzgue de fuerza mayor o alteración grave del orden público.
 
@@ -1731,13 +1921,17 @@ XII. Las demás disposiciones que establezca el reglamento y las que acuerde el 
 
 Las Concesiones de bienes y servicios públicos municipales se otorgarán por tiempo determinado y serán aprobadas por el Cabildo, aun las que excedan el periodo de gobierno de un ayuntamiento. La vigencia podrá ser prorrogada hasta por plazos equivalentes en el que se podrán imponer condiciones y obligaciones adicionales al concesionario.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### ARTICULO 101.
 
-El concesionario, previamente a la fecha que se haya fijado como de inicio para la prestación del servicio público, deberá tramitar y obtener de las autoridades correspondientes, los permisos, licencias y demás autorizaciones que se requieran para dicha prestación.
+La concesionaria o concesionario, previamente a la fecha que se haya fijado como de inicio para la prestación del servicio público, deberá tramitar y obtener de las autoridades correspondientes, los permisos, licencias y demás autorizaciones que se requieran para dicha prestación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 102.
 
-Son obligaciones de los concesionarios:
+Son obligaciones de las concesionarias o concesionarios:
 
 I. Prestar el servicio público concesionado con eficiencia y eficacia, sujetándose a lo dispuesto por esta Ley, demás disposiciones legales aplicables, así como a los términos del título-concesión;
 
@@ -1817,7 +2011,9 @@ El procedimiento de revocación y caducidad de las concesiones de servicios púb
 
 I. Se iniciará de oficio o a petición de parte con interés legítimo;
 
-II. Se notificará personalmente la iniciación del procedimiento al concesionario, a efecto de que manifieste lo que a su interés convenga, dentro del plazo de cinco días contados a partir del día siguiente al de la notificación;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+II. Se notificará personalmente la iniciación del procedimiento a la concesionaria o concesionario, a efecto de que manifieste lo que a su interés convenga, dentro del plazo de cinco días contados a partir del día siguiente al de la notificación;
 
 III. Se abrirá un período probatorio por el término de quince días, contados a partir del día siguiente al de la notificación a que se refiere la fracción anterior;
 
@@ -1829,9 +2025,11 @@ VI. La resolución que se dicte, se notificará personalmente al interesado, en 
 
 En lo no previsto por este artículo, será aplicable de manera supletoria el Código de Procedimientos Civiles para el Estado de Colima.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### ARTICULO 108.
 
-Cuando la concesión del servicio público se extinga por causa imputable al concesionario, se hará efectivo en favor del municipio, el importe de la garantía señalada en esta Ley.
+Cuando la concesión del servicio público se extinga por causa imputable a la concesionaria o concesionario, se hará efectivo en favor del municipio, el importe de la garantía señalada en esta Ley.
 
 ###### ARTICULO 109.
 
@@ -1899,17 +2097,25 @@ Los Ayuntamientos están facultados para aprobar, de acuerdo con esta Ley, los b
 
 El derecho de iniciar o reformar bandos, reglamentos y disposiciones administrativas de observancia general, compete a:
 
-I.- El Presidente Municipal;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
 
-II.- El Síndico;
+I.- La Presidenta o Presidente Municipal;
 
-III.- Los Regidores;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+II.- La Síndica o Síndico;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+III.- Las Regidoras o Regidores;
 
 IV.- Las autoridades auxiliares municipales;
 
 V.- Los organismos de participación ciudadana y vecinal que se constituyan en cada Municipio de conformidad con el reglamento respectivo, y
 
-VI.- Los ciudadanos del Municipio de conformidad con lo dispuesto por el artículo 96 de la Constitución.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+VI.- Las ciudadanas o ciudadanos del Municipio de conformidad con lo dispuesto por el artículo 96 de la Constitución.
 
 Las iniciativas se sujetarán al trámite que al efecto disponga el Reglamento del Gobierno Municipal. Los ordenamientos jurídicos municipales y sus reformas, para ser obligatorios, deberán ser publicados en el Periódico Oficial del Estado. Adicionalmente las dependencias municipales les darán la más amplia difusión por los medios que consideren adecuados.
 
@@ -2027,9 +2233,9 @@ IV. Suspensión de funcionamiento; y
 
 V. Clausura del establecimiento o actividad.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-En los municipios que cuenten con Juez Cívico, las sanciones establecidas en el presente artículo, se deberán fincar mediante resolución definitiva.
+En los municipios que cuenten con Juzgado Cívico, las sanciones establecidas en el presente artículo, se deberán fincar mediante resolución definitiva.
 
 ###### ARTICULO 124.
 
@@ -2053,17 +2259,17 @@ El inspector, verificador o personal comisionado entregará, en su caso, una cop
 
 ARTICULO 124 BIS.- Se exceptúan los requisitos contenidos en las fracciones IV, V y VI del artículo 124 de esta Ley, en la elaboración de actas circunstanciadas por infracciones en materia de tránsito conocidas a través de equipos o sistemas tecnológicos y gestionadas con el uso de medios electrónicos, subsistiendo para la autoridad que impone la sanción la obligatoriedad de realizar la notificación de la infracción vía correo certificado con acuse de recibo en el domicilio del propietario del vehículo con el que se cometió, motivando y fundamentado el acto de autoridad.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 125.
 
-El Juez Cívico, o la autoridad municipal competente, dentro de los cinco días siguientes a la conclusión del plazo a que se refiere el artículo 124, emitirá la resolución procedente, con base en los hechos consignados en el acta así como en el alegato producido por el infractor y las pruebas aportadas, en su caso.
+La Jueza o Juez Cívico, o la autoridad municipal competente, dentro de los cinco días siguientes a la conclusión del plazo a que se refiere el artículo 124, emitirá la resolución procedente, con base en los hechos consignados en el acta así como en el alegato producido por el infractor y las pruebas aportadas, en su caso.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 126.
 
-La aplicación de las sanciones corresponderá originariamente al presidente municipal, quien podrá delegarla en la dependencia administrativa competente o en un servidor público que se denominará Juez Cívico, y oficial calificador en materia de Tránsito y Vialidad, en los términos de esta Ley así como en los reglamentos y disposiciones municipales aplicables.
+La aplicación de las sanciones corresponderá originariamente a la presidenta o presidente municipal, quien podrá delegarla en la dependencia administrativa competente o en un servidor público que se denominará Jueza o Juez Cívico, y oficial calificador en materia de Tránsito y Vialidad, en los términos de esta Ley así como en los reglamentos y disposiciones municipales aplicables.
 
 ###### ARTICULO 127.
 
@@ -2075,9 +2281,9 @@ Si del expediente relativo y de la infracción cometida, se desprenden hechos co
 
 Para los efectos y aplicación de las sanciones, se atenderá a lo dispuesto por el reglamento relativo, a las circunstancias en que se cometió la infracción y a la situación económica y personal del infractor.
 
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-ARTÍCULO 128 BIS.- Corresponde al presidente municipal conocer de los recursos de las infracciones administrativas, quien delegará la responsabilidad en el Juez Cívico, quien conocerá, además de las facultades otorgadas en el Reglamento Interior del Juzgado Cívico, de las (sic) medios de impugnación a las sanciones aplicadas en materia de Tránsito y Vialidad, impuestas por el Juez Calificador.
+ARTICULO 128 BIS.- Corresponde a la presidenta o presidente municipal conocer de los recursos de las infracciones administrativas, quien delegará la responsabilidad en la Jueza o Juez Cívico, quien conocerá, además de las facultades otorgadas en el Reglamento Interior del Juzgado Cívico, de las (sic) medios de impugnación a las sanciones aplicadas en materia de Tránsito y Vialidad, impuestas por la Jueza o Juez Calificador.
 
 ### CAPÍTULO II. DE LA DECLARACIÓN DE SITUACIÓN PATRIMONIAL
 
@@ -2085,11 +2291,17 @@ ARTÍCULO 128 BIS.- Corresponde al presidente municipal conocer de los recursos 
 
 Tienen obligación de presentar declaración de situación patrimonial:
 
-I. El presidente municipal;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
 
-II. Los regidores;
+I. La presidenta o presidente municipal;
 
-III. El síndico;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+II. Las regidoras o regidores;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+III. La síndica o síndico;
 
 IV. Los servidores públicos de confianza; y
 
@@ -2400,3 +2612,9 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicaci
 SEGUNDO.- El cumplimiento de lo previsto en el presente Decreto que requiera de presupuesto para su instrumentación y desarrollo, se sujetará a la disponibilidad presupuestaria de la Comisión de Derechos Humanos del Estado.
 
 TERCERO.- La Comisión de Derechos Humanos del Estado deberá prever en su Proyecto de Presupuesto de Egresos del Ejercicio Fiscal 2020 y venideros, la partida respectiva para el cumplimiento de lo previsto en el presente Decreto, en tanto que el H. Congreso del Estado deberá revisar, analizar y, en su caso, aprobar lo necesario para tal fin.
+
+P.O. 1 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 212 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
