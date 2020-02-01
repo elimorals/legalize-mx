@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2020-01-22"
+last_updated: "2020-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE FEBRERO DE 2020 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2020.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -245,7 +247,9 @@ La legislación civil establecerá los casos en que existirá para ellos limitac
 
 Para efectos de la presente Ley son derechos de niñas, niños y adolescentes, de manera enunciativa mas no limitativa, los siguientes:
 
-I. Derecho a la vida, a la supervivencia y al desarrollo.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+I. Derecho a la vida, la paz, la supervivencia y al desarrollo.
 
 II. Derecho de prioridad.
 
@@ -289,11 +293,15 @@ Las autoridades estatales y municipales en el ámbito de sus respectivas compete
 
 Quienes ejercen la patria potestad, tutela, guarda o custodia, tienen la especial obligación de preservar y exigir el cumplimiento de estos derechos.
 
-### CAPÍTULO PRIMERO. DERECHO A LA VIDA, A LA SUPERVIVENCIA Y AL DESARROLLO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2020)</small>
+
+### CAPÍTULO PRIMERO. DERECHO A LA VIDA, LA PAZ, LA SUPERVIVENCIA Y AL DESARROLLO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 20.
 
-Niñas, niños y adolescentes tienen el derecho a que se les preserve la vida, a la supervivencia y al desarrollo.
+Niñas, niños y adolescentes tienen el derecho a que se les preserve la vida, la paz, la supervivencia y al desarrollo.
 
 Las autoridades estatales y municipales, deberán llevar a cabo las acciones necesarias para garantizar el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, así como para investigar y sancionar efectivamente los actos de privación de la vida.
 
@@ -1821,7 +1829,9 @@ V. No haber sido sentenciado por delito doloso o inhabilitado como servidor púb
 
 La Secretaría Ejecutiva contará con un área administrativa para el adecuado cumplimiento de sus atribuciones, las cuales estarán determinadas en el reglamento de la presente Ley.
 
-### CAPÍTULO QUINTO. DEL PROGRAMA ESTATAL DE PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO CUARTO BIS. DE LOS CONSEJOS CONSULTIVOS ESTATAL Y MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 143.
 
@@ -1839,9 +1849,55 @@ Los Sistemas Municipales funcionarán y se organizarán de acuerdo a los lineami
 
 Los Sistemas Municipales expedirán su reglamento a efecto de determinar quiénes integrarán el Sistema Municipal de Protección, y establecerán sus atribuciones y funcionamiento.
 
-### CAPÍTULO SEXTO. DEL SISTEMA DE INFORMACIÓN EN MATERIA DE NIÑAS, NIÑOS Y ADOLESCENTES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2020)</small>
 
-### CAPÍTULO SÉPTIMO. DE LA PROTECCIÓN DE LOS DERECHOS
+### CAPÍTULO QUINTO. DEL PROGRAMA ESTATAL DE PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
+
+###### Artículo 145 Bis.
+
+El Sistema Estatal de Protección Integral contará con un Consejo Consultivo Estatal como órgano de colaboración y apoyo para la consecución de sus objetivos.
+
+Con el mismo propósito, los sistemas municipales promoverán, en la medida de sus posibilidades, la integración de consejos consultivos municipales.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+###### Artículo 145 Ter.
+
+El Consejo Consultivo Estatal estará integrado por diez personas que se elegirán de entre los sectores público, privado, social y académico, nombradas por el Sistema Estatal de Protección Integral, a propuesta de la Secretaría Ejecutiva, quien podrá considerar criterios de paridad de género, pluralidad y de representatividad, que permitan un equilibrio entre los sectores, así como una adecuada representación de las distintas regiones del Estado.
+
+Quienes integren el Consejo Consultivo Estatal durarán en su cargo tres años y podrán reelegirse para un periodo igual. Manifestarán por escrito a la Secretaría Ejecutiva la aceptación del cargo, el cual ejercerán en forma honorífica, y no recibirán emolumento o contraprestación económica alguna por el mismo.
+
+Deberán contar con tres años de experiencia en temas relacionados con niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+Artículo 148 (sic) Quáter. En la integración de los consejos consultivos municipales, en su caso, deberá privilegiarse a personas de los sectores público, privado, social y académico, que cuenten con experiencia en temas relacionados con niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+###### Artículo 145 Quinquies.
+
+El Consejo Consultivo Estatal y los municipales tendrán, en el ámbito de su competencia, las funciones siguientes:
+
+I. Emitir recomendaciones al Sistema Estatal de Protección Integral y los sistemas municipales, respectivamente, respecto de las políticas, programas, lineamientos, instrumentos, procedimientos, servicios y acciones de protección de los derechos de niñas, niños y adolescentes que implementa dicho Sistema.
+
+II. Recomendar al Sistema Estatal de Protección Integral y a los sistemas municipales, respectivamente, la celebración de convenios y acuerdos para realizar actividades académicas con instituciones públicas o privadas, nacionales o internacionales relacionadas con los derechos de niñas, niños y adolescentes.
+
+III. Recomendar a la Secretaría Ejecutiva la celebración de conferencias, seminarios, coloquios y, en general, cualquier evento de debate y difusión sobre los derechos de niñas, niños y adolescentes.
+
+IV. Proponer al Sistema Estatal de Protección Integral y a los sistemas municipales, respectivamente, estudios, investigaciones y otros documentos que contribuyan a la toma de decisiones y elaboración e implementación de políticas públicas relacionadas con los derechos de niñas, niños y adolescentes.
+
+V. Proponer al Sistema Estatal de Protección Integral y a los sistemas municipales, respectivamente, el proyecto de lineamientos para su integración, organización y funcionamiento.
+
+VI. Integrar grupos de trabajo especializados para el estudio de temas que le encomiende el Sistema Estatal de Protección Integral y los sistemas municipales, respectivamente, así como incorporarse a las comisiones temporales o permanentes.
+
+VII. Atender las consultas y formular las opiniones que le sean solicitadas por el Sistema Estatal de Protección Integral y los sistemas municipales, respectivamente, así como por la Secretaría Ejecutiva.
+
+VIII. Presentar al Sistema Estatal de Protección Integral y a los sistemas municipales, respectivamente, un informe anual de sus actividades.
+
+IX. Las demás que le encomiende el Sistema Estatal de Protección Integral y los sistemas municipales, así como otras disposiciones jurídicas aplicables.
+
+### CAPÍTULO SEXTO. DEL SISTEMA DE INFORMACIÓN EN MATERIA DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### Artículo 146.
 
@@ -1857,7 +1913,7 @@ El Programa Estatal deberá prever acciones de mediano y largo alcance, indicar�
 
 El Programa Estatal deberá incluir mecanismos trasparentes que permitan su evaluación y seguimiento, así como de participación ciudadana y serán publicados en el Periódico Oficial del Estado.
 
-### CAPÍTULO OCTAVO. DEL PROCEDIMIENTO ADMINISTRATIVO DE PROTECCIÓN
+### CAPÍTULO SÉPTIMO. DE LA PROTECCIÓN DE LOS DERECHOS
 
 ###### Artículo 149.
 
@@ -1885,11 +1941,13 @@ VII. Los informes, quejas y denuncias que se formulen respecto de los programas,
 
 Los gobiernos municipales, en el ámbito de sus atribuciones, coadyuvarán a la integración y actualización del Sistema de Información referido en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 152.
 
-Los datos contenidos en el Sistema de Información en Materia de Niñas, Niños y Adolescentes, quedarán sujetos a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua y demás ordenamientos aplicables.
+Los datos contenidos en el Sistema de Información en Materia de Niñas, Niños y Adolescentes, quedarán sujetos a lo establecido en la Ley de Transparencia y Acceso a la Información Pública, así como en la Ley de Protección de Datos Personales, ambos ordenamientos del Estado de Chihuahua y demás legislación aplicable.
 
-### CAPÍTULO NOVENO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+### CAPÍTULO OCTAVO. DEL PROCEDIMIENTO ADMINISTRATIVO DE PROTECCIÓN
 
 ###### Artículo 153.
 
@@ -1977,7 +2035,7 @@ Todo convenio habrá de ratificarse ante el Juzgado correspondiente para que se 
 
 Tratándose del procedimiento de conciliación, se harán constar en el convenio respectivo las condiciones o medidas de protección que resulten aplicables de las previstas en las fracciones I, II, III y IV del artículo 158 de esta Ley, a fin de salvaguardar el interés superior de niñas, niños y adolescentes.
 
-### CAPÍTULO DÉCIMO. MEDIOS DE DEFENSA
+### CAPÍTULO NOVENO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 164.
 
@@ -2193,6 +2251,8 @@ En toda medida de acogimiento con una familia, siempre se privilegiará a las pe
 
 De no ser posible en definitiva la reintegración de la niña, niño o adolescente al núcleo familiar y habiendo resolución de la autoridad judicial competente sobre la pérdida de la patria potestad, la Procuraduría de Protección o el DIF Municipal podrán proponer a la persona o personas que reúnan las condiciones para adoptar y, de ser procedente, iniciará el procedimiento de adopción, dando la intervención que legalmente competa al Consejo Estatal Técnico de Adopciones.
 
+### CAPÍTULO DÉCIMO. MEDIOS DE DEFENSA
+
 ###### Artículo 190.
 
 Constituyen infracciones a esta Ley:
@@ -2374,3 +2434,15 @@ P.O. 22 DE ENERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVI/RFLEY/0588/2019 I P.O., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 18, FRACCIÓN I; 20, PÁRRAFO PRIMERO; 152; Y LA DENOMINACIÓN DEL CAPÍTULO PRIMERO DEL TÍTULO SEGUNDO; SE ADICIONA EL CAPÍTULO CUARTO BIS DENOMINADO DE LOS CONSEJOS CONSULTIVOS ESTATAL Y MUNICIPALES, Y LOS ARTÍCULOS 145 BIS AL 145 QUINQUIES; TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo contará con un plazo de 90 días posteriores a la entrada en vigor del presente Decreto, para la integración y operación del Consejo Consultivo.
