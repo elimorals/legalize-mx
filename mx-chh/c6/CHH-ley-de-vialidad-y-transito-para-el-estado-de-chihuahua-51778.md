@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2020-01-15"
+last_updated: "2020-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2020.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -1243,6 +1243,10 @@ D) Estacionarse en las zonas reservadas para personas con discapacidad, cuando e
 
 E) Agredir físicamente a comandantes, oficiales o demás personal de las corporaciones de vialidad y tránsito.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+F) Abandonar en el interior de cualquier vehículo automotor a una persona incapaz de valerse por sí misma.
+
 Tratándose de estas infracciones se podrán aplicar conjuntamente dos o más sanciones mencionadas en el artículo 90.
 
 En el caso de que el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
@@ -1922,3 +1926,9 @@ P.O. 15 DE ENERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0618/2019 I P.O., POR MEDIO DEL CUAL SE ADICIONA AL ARTÍCULO 91, EL INCISO F) DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
