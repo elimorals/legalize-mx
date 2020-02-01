@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2019-11-09"
+last_updated: "2020-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2020.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2059,9 +2059,13 @@ Si resultan hijos a consecuencia de la comisión de alguno de los delitos previs
 
 ###### Artículo 154.
 
-A quien abandone a una persona incapaz de valerse por sí misma teniendo la obligación de cuidarla, se le impondrán de seis meses a cuatro años de prisión si no resultare lesión o daño alguno. Si el sujeto activo fuese médico o profesionista similar o auxiliar, también se le suspenderá en el ejercicio de su profesión hasta por dos años.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-Las mismas penas se aplicarán a quien, estando a cargo de un establecimiento asistencial público o privado, realice la conducta descrita.
+A quien abandone a una persona incapaz de valerse por sí misma teniendo la obligación de cuidarla, se le impondrán de uno a cinco años de prisión si no resultare lesión o daño alguno. Si el sujeto activo fuese médico o profesionista similar o auxiliar, también se le suspenderá en el ejercicio de su profesión hasta por dos años.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+A quien realice la conducta descrita en el párrafo anterior, laborando en establecimientos asistenciales, o establecimientos públicos o privados que presten servicios a niñas, niños, adolescentes o personas mayores, además se le suspenderá hasta por dos años en el ejercicio de la profesión, oficio o empleo en estas instituciones.
 
 > <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2018)</small>
 
@@ -5363,8 +5367,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 9 DE NOVIEMBRE DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFCOD/0394/2019 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 98, CUARTO PÁRRAFO, INCISO I), DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFCOD/0394/2019 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 98, CUARTO PÁRRAFO, INCISO I), DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFCOD/0616/2019 I P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 154, PÁRRAFOS PRIMERO Y SEGUNDO DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
