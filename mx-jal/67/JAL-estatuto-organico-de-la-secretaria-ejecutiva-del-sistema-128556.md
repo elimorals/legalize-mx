@@ -4,7 +4,7 @@ identifier: "JAL-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-128556
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-05-17"
-last_updated: "2018-05-17"
+last_updated: "2020-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128556&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2020.
 
 Estatuto publicado en la Sección III al Número 38 del Periódico Oficial del Estado de Jalisco, el jueves 17 de mayo de 2018.
 
@@ -143,7 +143,9 @@ b. Asuntos Jurídicos
 
 IV. Las demás unidades administrativas y personal que autorice el Órgano de Gobierno a propuesta del Secretario Técnico, sujeto a la capacidad presupuestaria de la Secretaría Ejecutiva.
 
-La Secretaría Ejecutiva contará con un Órgano de Control Interno y una Unidad de Transparencia.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+La Secretaría Ejecutiva contará con un Órgano Interno de Control y una Unidad de Transparencia.
 
 La Secretaría Ejecutiva, a través de sus unidades administrativas y su Unidad de Transparencia, dará cumplimiento a las obligaciones de transparencia que le correspondan, referidas en los artículos 70 de la Ley General de Transparencia y Acceso a la Información Pública, 8 de (sic) Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios, y las demás disposiciones aplicables; también, observará las prescripciones en materia de protección de datos personales en los términos de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Jalisco y sus Municipios.
 
@@ -587,23 +589,51 @@ XIII. Las demás que le confiera el Secretario Técnico, así como las que se se
 
 La Secretaría Ejecutiva contará con un Órgano Interno de Control, cuyo titular será designado en los términos del art. 106, fracción IV, de la Constitución Política del Estado de Jalisco y Ley del Sistema Anticorrupción del Estado de Jalisco y contará con la estructura que autorice el Órgano de Gobierno a propuesta del Secretario Técnico, sujeto a la capacidad presupuestaria de la Secretaría Ejecutiva.
 
-El Órgano Interno de Control deberá cubrir (sic) con las formalidades señaladas en el artículo 115 de la Ley General de Responsabilidades Administrativas.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+El Órgano Interno de Control deberá cubrir con las formalidades señaladas en el artículo 115 de la Ley General de Responsabilidades Administrativas, para ello al Jefe de Departamento del Área Investigadora de la Secretaría Ejecutiva le corresponderán las facultades inherentes a la Autoridad Investigadora otorgadas por la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, y al Jefe de Departamento del Área Substanciadora de la Secretaría Ejecutiva le corresponderán las facultades inherentes a la Autoridad Substanciadora y Resolutora otorgadas por las referidas leyes de responsabilidades administrativas.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 34.
 
-El Titular del Órgano Interno de Control tiene las atribuciones en materia de control y fiscalización, exclusivamente sobre:
+Para el desahogo de los asuntos de su competencia, el titular del Órgano Interno de Control de la Secretaría Ejecutiva contará con las siguientes facultades:
 
-I. Presupuesto;
+I. Emitir el Código de Ética para el ejercicio de las atribuciones que las leyes otorgan al Órgano Interno de Control de la Secretaría Ejecutiva;
 
-II. Contrataciones derivadas de las leyes de Compras Gubernamentales y de Obra Pública;
+II. Coadyuvar en el funcionamiento del sistema de control interno;
 
-III. Conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles;
+III. Recibir denuncias por hechos probablemente constitutivos de faltas administrativas a cargo de los servidores públicos o de los particulares por conductas sancionables en términos de la Ley General de Responsabilidades Administrativas y a la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco; investigar y calificar las faltas administrativas que detecte, así como llevar a cabo las acciones que procedan conforme a dichas leyes;
 
-IV. Responsabilidades administrativas de servidores públicos;
+IV. Substanciar el procedimiento de responsabilidad administrativa e imponer las sanciones respectivas, cuando se trate de faltas administrativas no graves, así como remitir al Tribunal de Justicia Administrativa del Estado de Jalisco los procedimientos de responsabilidad administrativa cuando se refieran a faltas administrativas graves y por conductas de particulares sancionables conforme a la Ley General de Responsabilidades Administrativas y a la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, para su resolución en términos de la normatividad aplicable;
 
-V. Transparencia y acceso a la información pública, conforme a la ley de la materia; y
+V. Imponer los medios de apremio para hacer cumplir sus determinaciones establecidos (sic) en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, y decretar las medidas cautelares a que se refieren dichas leyes.
 
-VI. Las demás señaladas en la Ley General de Responsabilidades Administrativas así como en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco y la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Jalisco y sus Municipios.
+VI. Recibir, conocer y resolver los recursos de revocación que interpongan los servidores públicos derivados de los procedimientos administrativos de responsabilidades;
+
+VII. Revisar que el ingreso, egreso, manejo, custodia y aplicación de recursos públicos de la Secretaría Ejecutiva se realice conforme a la normatividad aplicable;
+
+VIII. Ordenar y realizar auditorías, revisiones y visitas de inspección e informar de su resultado al Secretario Técnico, así como a los responsables de las unidades administrativas auditadas;
+
+IX. Dar seguimiento a sus observaciones determinadas en las auditorías, revisiones o visitas de inspección que practique el Órgano Interno de Control;
+
+X. Conocer, investigar, substanciar y resolver los procedimientos de sanción a proveedores, licitantes o contratistas;
+
+XI. Emitir las resoluciones que correspondan respecto de los recursos de revisión que se interpongan en contra de las resoluciones emitidas en los procedimientos de inconformidad previstos en las disposiciones jurídicas en materia de compras gubernamentales y obras públicas;
+
+XII. Realizar la defensa jurídica de las resoluciones que se emitan dentro del Órgano Interno de Control ante las diversas instancias jurisdiccionales;
+
+XIII. Participar por sí o por quien designe, en los actos de entrega-recepción de los servidores públicos de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción del Estado de Jalisco en los términos de la normatividad aplicable.
+
+XIV. Participar en los Comités o instancias análogas de los que el Órgano Interno de Control forme parte por ministerio de ley, e intervenir en los actos que se deriven de los mismos;
+
+XV. Requerir la información necesaria para cumplir con las atribuciones del Órgano Interno de Control;
+
+XVI. Llevar el seguimiento de la evolución y verificación de la situación patrimonial de los servidores públicos obligados a presentar declaración de situación patrimonial, de intereses y fiscal, y verificar el cumplimiento en la misma conforme a la normatividad aplicable;
+
+XVII. Presentar denuncias por los hechos que las leyes señalen como delitos ante la Fiscalía Especializada en Combate a la Corrupción o, en su caso, ante la instancia competente; y,
+
+XVIII. Las demás que le confieran otras disposiciones jurídicas que resulten aplicables.
 
 ## TÍTULO IV
 
@@ -664,3 +694,11 @@ SEGUNDO. El Estatuto Orgánico de la Secretaría Ejecutiva deberá inscribirse e
 TERCERO. La estructura orgánica prevista en el presente Estatuto Orgánico deberá presentarse para su autorización y registro en la Secretaría de Planeación, Administración y Finanzas y Contraloría del Estado de Jalisco.
 
 Guadalajara, Jalisco, a 24 de abril de 2018.- La Secretaría Técnica de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, Haimé Figueroa Neri.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO QUE REFORMA EL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE JALISCO".]
+
+Primero. La presente reforma y adición al Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Jalisco entrará en vigor el día hábil siguiente al de su publicación en el Periódico Oficial El Estado de Jalisco.
