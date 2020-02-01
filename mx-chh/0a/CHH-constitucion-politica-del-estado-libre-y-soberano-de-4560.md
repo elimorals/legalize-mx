@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2019-11-30"
+last_updated: "2020-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2020.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1309,9 +1309,9 @@ I).- Nombrar a quien ocupe la titularidad de la Fiscalía Especializada en Comba
 
 J).- Designar a las y los Magistrados del Tribunal Estatal de Justicia Administrativa conforme al procedimiento que establezca la ley.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
 
-XVI.- Recibir la protesta legal del Gobernador, de los Diputados; de los Magistrados del Tribunal Superior de Justicia, del Fiscal General del Estado; del Presidente y demás integrantes del Consejo de la Comisión Estatal de los Derechos Humanos, así como de las personas comisionadas del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
+XVI.- Recibir la protesta legal del Gobernador, de los Diputados; de los Magistrados del Tribunal Superior de Justicia, del Fiscal General del Estado; de la persona titular de la Fiscalía Anticorrupción; del Presidente y demás integrantes del Consejo de la Comisión Estatal de los Derechos Humanos, así como de las personas comisionadas del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1570,6 +1570,10 @@ VII. A la ciudadanía chihuahuense, en los términos previstos en la Ley.
 > <small>(ADICIONADO, P.O. 3 DE MAYO DE 2017)</small>
 
 Las iniciativas presentadas conforme a esta fracción, deberán ser dictaminadas a más tardar en el siguiente período de sesiones ordinarias a aquel en que se reciban.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2020)</small>
+
+IX.- (SIC) A la persona titular de la Fiscalía Anticorrupción, en asuntos concernientes a su ámbito de competencia.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
@@ -2017,13 +2021,13 @@ Nombrar a quienes ocupen la titularidad de la Fiscalía General del
 
 Estado, y de la Secretaría responsable del Control Interno del Ejecutivo y someterlo a la aprobación del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-Para remover de sus cargos a las personas titulares de la Fiscalía General del Estado, de la Secretaría responsable del Control Interno del Ejecutivo y de la Fiscalía Especializada en Combate a la Corrupción, el Gobernador deberá someterlo a la aprobación del Congreso del Estado.
+Para remover de sus cargos a las personas titulares de la Fiscalía General del Estado y de la Secretaría responsable del Control Interno del Ejecutivo, el Gobernador deberá someterlo a la aprobación del Congreso del Estado.
 
-> <small>(ADICIONADO P.O. 30 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-Quien ocupe la titularidad de la Fiscalía General designará a las y los Fiscales Especializados, en los términos que se establezca (sic) en su ley orgánica y el Gobernador les extenderá su nombramiento y tomará su protesta de ley, con excepción de quien ocupe la titularidad de la Fiscalía Especializada en Combate a la Corrupción, cuyo nombramiento se realizará conforme al procedimiento descrito en el artículo 122 de la presente Constitución.
+Quien ocupe la titularidad de la Fiscalía General designará a las y los Fiscales Especializados, en los términos que se establezca (sic) en su ley orgánica y el Gobernador les extenderá su nombramiento y tomará su protesta de ley.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
@@ -2083,9 +2087,9 @@ XXXVIII.- Sujetándose a lo que establezcan las leyes respectivas, celebrar con 
 
 XXXIX.- Enviar al Congreso los nombramientos de las personas titulares de la Fiscalía General del Estado y de la Secretaría responsable del Control Interno del Ejecutivo para la aprobación correspondiente;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
 
-XL.- Designar libre y directamente a quien deba encargarse del despacho de la Fiscalía General, de la Secretaría responsable del Control Interno del Ejecutivo y de la Fiscalía Especializada en Combate a la Corrupción, por el tiempo que dure el procedimiento que se establece en esta Constitución para nombrar a las y los titulares de estas dependencias;
+XL.- Designar libre y directamente a quien deba encargarse del despacho de la Fiscalía General y de la Secretaría responsable del Control Interno del Ejecutivo, por el tiempo que dure el procedimiento que se establece en esta Constitución para nombrar a las y los titulares de estas dependencias.
 
 > <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
 
@@ -2113,13 +2117,11 @@ Para ser Secretario General de Gobierno, Secretario o Coordinador, se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
 
-II.- Ser chihuahuense en pleno ejercicio de sus derechos.
+II.- Contar con pleno goce y ejercicio de sus derechos civiles y políticos.
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-III.- Ser originario del Estado, o bien haber residido en el mismo cuando menos durante cinco años.
+III.- (DEROGADA, P.O. 1 DE FEBRERO DE 2020)
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1986)</small>
 
@@ -2129,9 +2131,9 @@ IV.- Ser mayor de 25 años.
 
 V.- No ser ministro de algún culto religioso o haberse retirado del mismo en los términos de ley.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-En el caso del Secretario General de Gobierno, se requiere ser mayor de treinta años.
+En el caso del Secretario General de Gobierno, se requiere ser mayor de treinta años, así como ser originario del Estado, o bien, haber residido en el mismo cuando menos durante cinco años.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -2525,17 +2527,21 @@ V.- Dictar órdenes, en ejercicio de sus funciones a la Policía que esté bajo 
 
 Siempre que el Ministerio Público intervenga en cualesquiera juicios o diligencias, lo hará como parte, debiendo sujetarse a las leyes de procedimientos.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ###### Art. 121.
 
-El Ministerio Público estará a cargo de un Fiscal General del Estado, como Jefe de la Institución, y de los Agentes que determine la ley.
+El Ministerio Público estará a cargo de un Fiscal General del Estado, así como de una persona titular de la Fiscalía Anticorrupción del Estado cuando se trate de hechos susceptibles de constituir delitos en materia de corrupción.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
 La persona que ocupe la titularidad de la Fiscalía General del Estado será nombrada por el Gobernador y aprobada por el Congreso, mediante el voto de las dos terceras partes de las y los diputados presentes, en votación por cédula, previa comparecencia ante la Junta de Coordinación Política. Su remoción deberá ser aprobada por el Congreso en los mismos términos.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
+
 Si en la votación no se obtienen las dos terceras partes de los votos, el nombramiento será devuelto al Gobernador con las observaciones correspondientes, a efecto de que envíe una nueva propuesta dentro de los siguientes quince días hábiles.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
 Para ser Fiscal General del Estado, se requiere:
 
@@ -2547,19 +2553,49 @@ III. Tener título de Licenciado en Derecho debidamente registrado y cinco años
 
 IV. No ser ministro de algún culto religioso o haberse retirado del mismo en los términos de ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ###### Art. 122.
 
-La Fiscalía General contará, además de las fiscalías especializadas que establece la ley, con una especializada en materia de combate a la corrupción, la cual estará adscrita a la Fiscalía General del Estado y será un órgano con autonomía técnica y operativa para investigar y perseguir los hechos que la ley considere como delitos en materia de corrupción.
+La Fiscalía Anticorrupción del Estado será un Órgano Constitucional Autónomo especializado, encargado de ejercer las facultades atribuidas por la Constitución Federal y local, así como en las demás leyes aplicables a los órganos responsables de la investigación de hechos de corrupción, contando con facultades de promoción de la acción de extinción de dominio de bienes, en los supuestos establecidos en la ley de la materia, contará con personalidad jurídica y patrimonio propios, autonomía técnica y presupuestal, normativa y de gestión en el ejercicio de sus atribuciones y en cuanto a su organización interna e independiente en su funcionamiento y decisiones para la investigación y persecución de delitos por hechos de corrupción.
 
-La o el titular de esta fiscalía especializada será nombrado por el Congreso del Estado por el voto de las dos terceras partes de las y los diputados presentes, de una terna enviada por un panel de nueve especialistas en materia de combate a la corrupción, de los cuales cinco serán designados por el Ejecutivo y cuatro por el Legislativo, de conformidad con la convocatoria pública que para estos efectos expida el citado panel.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-El Congreso del Estado contará con un plazo de treinta días naturales para proceder a la designación respectiva. En caso de que la terna enviada al Congreso no alcance la votación requerida o venza el plazo antes señalado, el panel de especialistas remitirá una nueva terna. De no alcanzarse nuevamente la votación exigida o no haberse designado dentro del plazo previsto, se deberá remitir, por tercera ocasión, nueva terna para la designación respectiva. Si cualquiera de las hipótesis se repiten y no se realiza el nombramiento por parte del Congreso, el Titular del Ejecutivo Estatal tendrá la facultad para nombrar a la o el titular de la fiscalía especializada de entre las personas que conformaron la última terna.
+La persona titular de esta fiscalía será nombrada por el Congreso del Estado por el voto de al menos las dos terceras partes de las y los diputados presentes, de una terna enviada por un panel de nueve especialistas en materia de combate a la corrupción, de los cuales cinco serán designados por el Ejecutivo y cuatro por el Legislativo, de conformidad con la convocatoria pública que para estos efectos expida el citado panel y de acuerdo con el procedimiento establecido en la ley, mismo que garantizará la transparencia del proceso y la autonomía de la Fiscalía.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+El Congreso del Estado contará con un plazo de treinta días naturales para proceder a la designación respectiva. En caso de que la terna enviada al Congreso no alcance la votación requerida o venza el plazo antes señalado, el panel de especialistas remitirá una nueva terna. De no alcanzarse nuevamente la votación exigida o no haberse designado dentro del plazo previsto, se deberá remitir, por tercera ocasión, nueva terna para la designación respectiva. Si cualquiera de las hipótesis se repite y no se realiza el nombramiento por parte del Congreso, el Titular del Ejecutivo Estatal tendrá la facultad para nombrar a la o el titular de la Fiscalía Anticorrupción de entre las personas que conformaron la última terna.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE AGOSTO DE 2017)</small>
 
 Los miembros del panel, así como aquellos que integren la terna que ellos propongan deberán estar exentos de conflicto de interés.
 
-Quien ocupe la titularidad de la Fiscalía Especializada durará en su encargo siete años; su remoción será en los mismos términos que la del Fiscal General y solo podrá ser removido por los casos graves que señale la ley.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+Quien ocupe la titularidad de la Fiscalía Anticorrupción durará en su encargo siete años y solo podrá ser removido en los términos del Título XIII de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+###### Art. 122 Bis.
+
+La persona titular de la Fiscalía Anticorrupción deberá cumplir con los siguientes requisitos:
+
+I.- Contar con la ciudadanía mexicana.
+
+II.- Tener más de 30 años.
+
+III.- Tener título de Licenciatura en Derecho debidamente registrado.
+
+IV.- Contar con al menos cinco años de ejercicio profesional.
+
+La ley establecerá las áreas para el adecuado funcionamiento de la Fiscalía Anticorrupción, sus atribuciones y la forma de nombrar y remover a las y los servidores públicos y agentes del Ministerio Público de dicho órgano. Las ausencias de la persona titular de la Fiscalía Anticorrupción serán suplidas en los términos que determine la ley.
+
+La ley determinará los requisitos que deben cubrir las y los agentes del Ministerio Público y demás personas servidoras públicas que integren la estructura de la Fiscalía Anticorrupción, así como las bases para su formación, actualización y desarrollo de carrera profesional.
+
+La persona titular de la Fiscalía Anticorrupción deberá presentar informe de actividades cuando le sea requerido con arreglo a la ley, así como comparecer ante el Congreso cuando sea citada.
+
+La persona titular de la Fiscalía Anticorrupción, sus agentes del Ministerio Público y demás servidoras y servidores públicos serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones; y se regirán en el ejercicio de sus funciones por los principios de legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, eficiencia, disciplina y respeto a los derechos humanos.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -2572,6 +2608,10 @@ Las ausencias temporales de los agentes del ministerio público serán cubiertas
 ###### Art. 124.
 
 Los Fiscales Especializados, los Agentes del Ministerio Público y todo el personal de la Fiscalía General del Estado protestarán ante el Fiscal General del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2020)</small>
+
+Los agentes del Ministerio Público y el resto del personal de la Fiscalía Anticorrupción protestarán ante la persona titular de esta.
 
 ## TITULO XI.
 
@@ -3413,9 +3453,9 @@ III.- Del Poder Judicial, los Magistrados del Tribunal Superior de Justicia, los
 
 IV.- De la Comisión Estatal de Derechos Humanos, su presidente.
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
 
-V.- Del Tribunal Estatal Electoral, cuando esté en funciones, sus Magistrados, y
+V.- De la Fiscalía Anticorrupción, su titular.
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
@@ -5158,3 +5198,51 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 El procedimiento previsto en el artículo 17, numeral 1) de la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua, en lo relativo a la convocatoria que debe emitirse por los tres Poderes del Estado para designar a quienes habrán de relevar a las comisionadas que concluyen su cargo el 31 de diciembre de 2019, no deberá llevarse a cabo, toda vez que la integración del Consejo General queda conformada con tres personas, tal como lo prevé la reforma contenida en el presente Decreto.
+
+P.O. 1 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFCNT/0640/2019 I P.O., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 64, FRACCIÓN XVI; 93, FRACCIÓN XXII, LOS PÁRRAFOS TERCERO Y CUARTO, Y LA FRACCIÓN XL; 95, PÁRRAFO PRIMERO, LA FRACCIÓN II, Y PÁRRAFO SEGUNDO; 121, PÁRRAFO PRIMERO; 122, PÁRRAFOS PRIMERO, SEGUNDO, TERCERO Y QUINTO; 179, FRACCIÓN V; SE ADICIONAN A LOS ARTÍCULOS 68, LA FRACCIÓN IX; 122 BIS; 124, UN SEGUNDO PÁRRAFO; Y SE DEROGA DEL ARTÍCULO 95, LA FRACCIÓN III, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y de los debates a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su momento, hágase el cómputo de los votos de los Ayuntamientos y la declaratoria de haber sido aprobada la presente reforma.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas y derogación correspondientes al artículo 95 de la Constitución Política del Estado de Chihuahua, entrarán en vigor al día siguiente de la publicación del presente Decreto en el Periódico Oficial del Estado.
+
+Las reformas y adiciones a los artículos 64, 68, 93, 121, 122, 122 BIS, 124 y 179, de la Constitución Política del Estado de Chihuahua, entrarán en vigor el día de la entrada en vigencia de la Ley Orgánica de la Fiscalía Anticorrupción del Estado.
+
+###### ARTÍCULO TERCERO.
+
+La Ley Orgánica de la Fiscalía Anticorrupción del Estado deberá ser expedida por el Congreso del Estado dentro de los 70 días naturales siguientes a la publicación del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+Las referencias en la legislación realizadas a la Fiscalía Especializada en Combate a la Corrupción se entenderán hechas a la Fiscalía Anticorrupción.
+
+###### ARTÍCULO QUINTO.
+
+Los Poderes Ejecutivo y Legislativo, así como la Fiscalía General del Estado de Chihuahua tomarán las medidas necesarias para la implementación del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Se autoriza a la Secretaría de Hacienda para realizar las asignaciones o reasignaciones presupuestales y todas aquellas acciones que resulten necesarias para el cumplimiento oportuno del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se transferirán a la Fiscalía Anticorrupción del Estado, los recursos humanos, materiales, financieros y presupuestales con los que cuente, así como las averiguaciones previas y carpetas de investigación radicadas en la Fiscalía Especializada en Combate a la Corrupción a partir de la fecha en que inició funciones, esto es, del 4 de enero de 2019, a la fecha de la entrada en vigor del presente Decreto, así como aquellas sobre las que ejerza facultad de atracción con motivo de la especialización.
+
+La Fiscalía General del Estado y la Fiscalía Anticorrupción del Estado realizarán los trámites de entrega recepción que correspondan para transmitir los documentos, archivos u otros bienes relativos a las atribuciones reformadas mediante el presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+El Ejecutivo del Estado, por conducto de la Fiscalía General del Estado, transferirá a la Fiscalía Anticorrupción del Estado, todos los recursos humanos, materiales y financieros asignados para el desempeño de sus funciones al pertenecer a su estructura orgánica.
+
+Las servidoras y servidores públicos de base y de confianza que con motivo del presente Decreto dejen de pertenecer a la Fiscalía General del Estado conservarán la totalidad de sus derechos laborales.
+
+###### ARTÍCULO NOVENO.
+
+La C. Gema Guadalupe Chávez Durán, titular de la Fiscalía Especializada en Combate a la Corrupción en virtud del Decreto No. LXV/NOMBR/0880/2018 XVIII P.E., asumirá la titularidad de la Fiscalía Anticorrupción a partir de la entrada en vigor del presente Decreto, y continuará ejerciendo sus funciones hasta concluir el periodo para el cual fue designada, en apego a lo dispuesto por el artículo 122 de la Constitución Política del Estado de Chihuahua.
