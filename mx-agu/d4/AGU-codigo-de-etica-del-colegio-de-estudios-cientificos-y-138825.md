@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-del-colegio-de-estudios-cientificos-y-138825"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-09-09"
-last_updated: "2019-09-09"
+last_updated: "2020-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE ÉTICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2020.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de septiembre de 2019.
 
@@ -321,9 +321,13 @@ Regla de integridad de trámites y servicios. Esta regla consiste en que los Ser
 
 I.- Ejercer una actitud contraria de servicio, respeto y cordialidad en el trato, incumpliendo protocolos de actuación o atención al público.
 
-II.- Otorgar información falsa de manera premeditada sobre el proceso y requisitos para acceder a consultas, trámites, gestiones y servicios.
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2020)</small>
 
-III.- Realizar trámites y otorgar servicios de forma deficiente de manera premeditada, retrasando los tiempos de respuesta, consultas, trámites, gestiones y servicios.
+II.- Otorgar información falsa sobre el proceso y requisitos para acceder a consultas, trámites, gestiones y servicios.
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2020)</small>
+
+III.- Realizar trámites y otorgar servicios de forma deficiente retrasando los tiempos de respuesta, consultas, trámites, gestiones y servicios.
 
 IV.- Exigir, por cualquier medio, requisitos o condiciones adicionales a los señalados por las disposiciones jurídicas que regulan los trámites y servicios.
 
@@ -541,9 +545,11 @@ V.- Cualquier otro que estime pertinente el CECyTEA.
 
 El CECyTEA deberá impartir alguno de esos mecanismos a todos sus Servidores Públicos, al menos una vez al año.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 24.
 
-Mecanismos de difusión. El O.I.C. deberá, a través de la Junta de Directiva publicar (sic) presente Código y en su caso sus reformas, por los siguientes medios:
+Mecanismos de difusión. El O.I.C. deberá publicación (sic) el Código, así como sus modificaciones, por los siguientes medios:
 
 I.- El Periódico Oficial del Estado de Aguascalientes; y
 
@@ -594,3 +600,21 @@ TITULAR DE LA UNIDAD INVESTIGADORA DEL ÓRGANO INTERNO DE CONTROL DEL COLEGIO DE
 LIC. CRISTHIAN JACIEL MENDOZA MARTÍNEZ
 
 TITULAR DE LA UNIDAD SUBSTANCIADORA Y RESOLUTORA DEL ÓRGANO INTERNO DE CONTROL DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE AGUASCALIENTES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE AGUASCALIENTES: ACUERDO MEDIANTE EL CUAL SE EMITEN MODIFICACIONES AL CÓDIGO DE ÉTICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Órgano Interno de Control del Colegio de Estudios Científicos y Tecnológicos del Estado de Aguascalientes, deberá dar a conocer de manera inmediata las modificaciones establecidas en el presente Acuerdo.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efecto aquellas disposiciones que se opongan a lo previsto en el presente Acuerdo.
