@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-577-electoral-para-el-estado-de-veracruz-de-10887
 country: "mx"
 rank: "codigo"
 publication_date: "2015-07-01"
-last_updated: "2019-11-26"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 577 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 26 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 4 DE FEBRERO DE 2020.
 
 Código publicado en el número extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 1 de julio de 2015.
 
@@ -671,7 +671,9 @@ Los partidos políticos tendrán derecho al financiamiento público de sus activ
 
 A. Para el sostenimiento de actividades ordinarias permanentes, el Consejo General del Instituto Electoral Veracruzano determinará anualmente el monto total por distribuir entre los partidos políticos, conforme a lo siguiente:
 
-I. Multiplicará el número total de ciudadanos inscritos en el padrón electoral local, a la fecha de corte de julio de cada año, por el sesenta y cinco por ciento del salario mínimo diario vigente en la capital del Estado;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+I. Multiplicará el número total de ciudadanos inscritos en el padrón electoral local, a la fecha de corte de julio de cada año, por el sesenta y cinco por ciento de la Unidad de Medida y Actualización vigente;
 
 II. El resultado de la operación señalada en la fracción anterior constituye el financiamiento público anual a los partidos políticos por sus actividades ordinarias permanentes y se distribuirá en la forma siguiente:
 
@@ -4523,7 +4525,9 @@ I. Respecto de los partidos políticos:
 
 a) Con amonestación pública;
 
-b) Con multa de hasta diez mil días de salario mínimo vigente en la capital del Estado, según la gravedad de la falta;
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+b) Con multa de hasta el valor diario de diez mil Unidades de Medida y Actualización vigente, según la gravedad de la falta;
 
 c) Pérdida del derecho a registrar al aspirante a candidato o cancelación del registro de candidaturas, dependiendo de la gravedad de la falta;
 
@@ -4535,7 +4539,9 @@ II. Respecto de las asociaciones políticas:
 
 a) Con amonestación pública;
 
-b) Con multa de hasta diez mil quinientos días de salario mínimo vigente en la capital del Estado, según la gravedad de la falta; y
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+b) Con multa de hasta el valor diario de diez mil quinientas Unidades de Medida y Actualización vigente, según la gravedad de la falta; y
 
 c) Con la suspensión o cancelación de su registro, que en el primer caso no podrá ser menor a seis meses.
 
@@ -4543,7 +4549,9 @@ III. Respecto de los aspirantes, precandidatos o candidatos a cargos de elecció
 
 a) Con amonestación pública;
 
-b) Con multa de hasta cinco mil días de salario mínimo vigente en la capital del Estado; y
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+b) Con multa de hasta el valor diario de cinco mil Unidades de Medida y Actualización vigente; y
 
 c) Con la pérdida del derecho del precandidato infractor a ser registrado como candidato, o con la cancelación si ya estuviere registrado. Cuando las infracciones cometidas por aspirantes, precandidatos o candidatos a cargos de elección popular sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate.
 
@@ -4553,11 +4561,17 @@ IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos pol
 
 a) Con amonestación pública;
 
-b) Con multa de hasta quinientos días de salario mínimo vigente en la capital del Estado si se trata de ciudadanos, de los dirigentes y afiliados a los partidos políticos;
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
-c) Con multa de hasta mil días de salario mínimo vigente en la capital del Estado, respecto de las personas morales; y
+b) Con multa de hasta el valor diario de quinientas Unidades de Medida y Actualización vigente si se trata de ciudadanos, de los dirigentes y afiliados a los partidos políticos;
 
-d) Con multa de hasta dos mil días de salario mínimo vigente en la capital del Estado, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción la autoridad electoral deberá de tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo tiempo y lugar de la infracción, las condiciones socioeconómicas del infractor, las condiciones externas y los medios de ejecución, la reincidencia en el incumplimiento de sus obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+c) Con multa de hasta el valor diario de mil Unidades de Medida y Actualización vigente, respecto de las personas morales; y
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+d) Con multa de hasta el valor diario de dos mil Unidades de Medida y Actualización vigente, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción, las condiciones socioeconómicas del infractor, las condiciones externas y los medios de ejecución, la reincidencia en el incumplimiento de sus obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
 
 V. Respecto de los observadores electorales y organizaciones con el mismo propósito:
 
@@ -4569,7 +4583,9 @@ VI. Respecto de los aspirantes y candidatos independientes:
 
 a) Con amonestación pública;
 
-b) Con multa de hasta cinco mil días de salario mínimo vigente en la capital del Estado;
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+b) Con multa de hasta el valor diario de cinco mil Unidades de Medida y Actualización.
 
 c) Con la pérdida del derecho del aspirante infractor a ser registrado como Candidato Independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo; y
 
@@ -5335,7 +5351,9 @@ I. Apercibimiento;
 
 II. Amonestación;
 
-III. Multa hasta por cien veces el salario mínimo vigente en la capital del Estado; y
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+III. Multa hasta el valor diario de cien Unidades de Medida y Actualización vigente; y
 
 IV. Auxilio de la fuerza pública.
 
@@ -6076,3 +6094,15 @@ G.O. 26 DE NOVIEMBRE DE 2019.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 532 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión “... salario mínimo”, se entenderán referidas a la Unidad de Medida y Actualización que deberá ser utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes del Estado de Veracruz de Ignacio de la Llave, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
