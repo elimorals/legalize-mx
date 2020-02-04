@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2019-10-03"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -105,27 +105,35 @@ Habrá jueces de control que garanticen los derechos de los imputados y de las v
 
 La legislación ordinaria preverá medios alternos para la solución de controversias, y los requisitos para su aplicación. El Estado organizará el servicio de defensoría pública que deberá contar con calidad y profesionalismo, especialmente en la defensa de los justiciables pertenecientes a los pueblos y comunidades indígenas.
 
-> <small>(ADICIONADO, G.O. 20 DE JUNIO DE 2019)</small>
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
-Las autoridades deberán privilegiar la solución del conflicto sobre los formalismos, siempre y cuando, no se afecte la igualdad entre las partes, el debido proceso u otros derechos. En los juicios o procedimientos seguidos en forma de juicio en los que se establezca como regla la oralidad, bastará con que quede constancia de ellos en cualquier medio que dé certeza de su contenido.
+En la conciliación en materia laboral regirán los principios de certeza, independencia, legalidad, imparcialidad, igualdad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad.
 
-> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2019)</small>
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
-En el Estado todas las personas gozarán de los derechos humanos y garantías para su protección, consagrados en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, esta Constitución y las leyes que de ella emanen; así como aquellos que reconozca el Poder Judicial del Estado, sin distinción alguna de origen, raza, color, sexo, idioma, religión, opinión política, preferencias sexuales, condición o actividad social. Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución General de la República, los tratados internacionales de la materia y esta Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
+En materia de justicia laboral, los principios del proceso son inmediación, inmediatez, continuidad, celeridad, veracidad, concentración, economía y sencillez procesal, publicidad, gratuidad, realidad sobre los elementos formales que lo contradigan, oralidad y conciliación; en tanto los de sus sentencias y resoluciones son legalidad, imparcialidad, transparencia, autonomía e independencia, respetando las disposiciones al respecto en materia de valoración de pruebas y contenido de la Ley Federal del Trabajo.
 
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
-Todas las autoridades del Estado, en su respectiva esfera de atribuciones, tienen el deber de promover, respetar, proteger y garantizar los derechos humanos, privilegiando el enfoque de la seguridad humana, de conformidad con los principios de universalidad, interdependencia, indivisibilidad, progresividad y prevención temprana de los problemas del desarrollo, por lo que deberán generar las condiciones necesarias para que las personas gocen de los derechos humanos que establece esta Constitución y prevenir, investigar, sancionar y reparar las violaciones a los mismos; así como proteger los que se reserve el pueblo de Veracruz mediante el juicio de protección de derechos humanos. La violación de los mismos implicará la sanción correspondiente y, en su caso, la reparación del daño, en términos de ley.
+Las autoridades deberán privilegiar la solución del conflicto sobre los formalismos, siempre y cuando no se afecte la igualdad entre las partes, el debido proceso u otros derechos. En los juicios o procedimientos seguidos en forma de juicio en los que se establezca como regla la oralidad, bastará con que quede constancia de ellos en cualquier medio que dé certeza de su contenido.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+En el Estado, todas las personas gozarán de los derechos humanos y garantías para su protección, consagrados en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, esta Constitución y las leyes que de ella emanen; así como aquellos que reconozcan (sic) el Poder Judicial del Estado sin distinción alguna de origen étnico o nacional, sexo, idioma, religión, situación migratoria, opinión política, preferencias sexuales, condición o actividad social. Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución General de la República, los tratados internacionales de la materia y esta Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+Todas las autoridades del Estado, en su respectiva esfera de atribuciones, tienen el deber de promover, respetar, proteger y garantizar los derechos humanos, privilegiando el enfoque de la seguridad humana, de conformidad con los principios de universalidad interdependencia, indivisibilidad, progresividad y prevención temprana de los problemas del desarrollo, por lo que deberán generar las condiciones necesarias para que las personas gocen de los derechos humanos que establece esta Constitución y prevenir, investigar, sancionar y reparar las violaciones a los mismos; así como proteger los que se reserve el pueblo de Veracruz mediante el juicio de protección de derechos humanos. La violación de los mismos implicará la sanción correspondiente y, en su caso, la reparación del daño, en términos de ley.
 
 Está prohibida la pena de muerte.
 
-> <small>(ADICIONADO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
-Los adolescentes a quienes se les atribuya la comisión o participación en un hecho que la ley señale como delito, en ningún caso podrán ser juzgados o sancionados como adultos y estarán sujetos a un sistema integral de justicia a cargo de instituciones, tribunales y autoridades especializados en la procuración e impartición de justicia para adolescentes, que garantizarán sus derechos humanos, así como aquellos derechos específicos que por su condición de personas en desarrollo les corresponden. En la aplicación de este sistema deberán observarse, siempre que procedan, formas alternativas de justicia.
+Los adolescentes a quienes se les atribuya la comisión o participación en un hecho que la Ley señale como delito, en ningún caso podrán ser juzgados o sancionados como adultos y estarán sujetos a un sistema integral de justicia a cargo de instituciones, tribunales y autoridades especializados en la procuración e impartición de justicia para adolescentes, que garantizarán sus derechos humanos, así como aquellos derechos específicos que por su condición de personas en desarrollo les corresponden. En la aplicación de este sistema deberán observarse, siempre que procedan, formas alternativas de justicia.
 
-> <small>(ADICIONADO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
-En cada caso, las medidas de orientación, protección y tratamiento que se impongan a los adolescentes deberán ser racionales y proporcionales al hecho realizado y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades atendiendo en todo momento a la protección integral y al interés superior de la niñez. El proceso en materia de justicia para adolescentes será acusatorio y oral, en el que se observará la garantía del debido proceso legal. El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad. Los niños y las niñas menores de doce años sólo serán sujetos de asistencia social.
+En cada caso, las medidas de orientación, protección y tratamiento que se impongan a los adolescentes deberán ser racionales y proporcionales al hecho realizado y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades, atendiendo en todo momento a la protección integral y al interés superior de la niñez. El proceso en materia de justicia para adolescentes será acusatorio y oral, en el que se observará la garantía del debido proceso legal. El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad. Los niños y las niñas menores de doce años sólo serán sujetos de asistencia social.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -895,13 +903,17 @@ XLII. Expedir las leyes que instituyan el Tribunal Estatal de Justicia Administr
 
 XLIII. Expedir la legislación en materia local anticorrupción, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y las leyes generales en la materia, con objeto de coordinarse para la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos;
 
-> <small>(ADICIONADA, G.O. 28 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
 
-XLIV. Designar y remover al Fiscal General del Estado, de conformidad con lo previsto en el artículo 67 fracción I inciso d) de esta Constitución; y
+XLIV. Designar y remover al Fiscal General del Estado, de conformidad con lo previsto en el artículo 67 fracción I inciso d) de esta Constitución;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+XLV. Expedir la ley que disponga la organización, atribuciones y funcionamiento del Centro de Conciliación local en materia laboral, el cual es un organismo descentralizado, dotado de autonomía técnica, operativa, presupuestaria, de decisión y de gestión, así como de personalidad jurídica y patrimonio propio, responsable de la función conciliatoria a que se refiere la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Trabajo; y
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 2 DE OCTUBRE DE 2017)</small>
 
-XLV. Las demás que le confieren la Constitución Federal, esta Constitución y las que sean necesarias para hacer efectivas sus atribuciones.
+XLVI. Las demás que le confieren la Constitución Federal, esta Constitución y las que sean necesarias para hacer efectivas sus atribuciones.
 
 > <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1295,7 +1307,13 @@ V. (DEROGADA, G.O. 9 DE ENERO DE 2015)
 
 VI. (DEROGADA, G.O. 2 DE OCTUBRE DE 2017)
 
-VII. Resolver las controversias laborales que se susciten entre los Poderes Judicial o Legislativo y sus trabajadores, así como entre la administración pública estatal y municipal con sus empleados, en los términos que fije la ley,
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.O. 4 DE FEBRERO DE 2020)</small>
+
+VII. En materia laboral conocer y resolver:
+
+a) A través de los jueces laborales, los conflictos que se susciten entre trabajadores y patrones, sólo entre aquellos o sólo entre éstos, derivados de las relaciones de trabajo o de hechos relacionados con ellas, conforme al apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Trabajo y, de igual forma, los conflictos laborales de las universidades e instituciones de educación superior dotadas de autonomía en el Estado en términos de la Constitución Política de los Estados Unidos Mexicanos. De forma previa deberá agotarse la instancia conciliatoria correspondiente, conforme lo establecen la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Trabajo; y
+
+b) Por conducto del Tribunal de Conciliación y Arbitraje, las controversias laborales que se susciten entre los Poderes Judicial o Legislativo y sus trabajadores, así como entre la administración pública estatal o municipales con sus empleados en los términos que fije la ley.
 
 VIII. Tramitar y resolver, mediante los procedimientos que señale la ley, los asuntos de los menores infractores;
 
@@ -3670,3 +3688,19 @@ G.O. 3 DE OCTUBRE DE 2019.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 531 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE EN MATERIA DE IMPLEMENTACIÓN A NIVEL LOCAL DE LA REFORMA FEDERAL AL SISTEMA DE JUSTICIA LABORAL”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. El Congreso del Estado, dentro de los ciento ochenta días siguientes al inicio de vigencia de este Decreto, deberá expedir y reformar las leyes necesarias para su cumplimiento.
+
+Tercero. Una vez entrado en vigor el presente Decreto, se realizarán en su caso, los ajustes al Presupuesto de Egresos del Estado, tendentes a la implementación, infraestructura y capacitación de la reforma al Sistema de Justicia Laboral en el Estado.
+
+Cuarto. Los jueces laborales y el centro de conciliación laboral a que se refieren los artículos 33 fracción XLV y 56 fracción VII inciso a) del presente Decreto iniciarán sus funciones de manera simultánea en la fecha que el H. Congreso del Estado lo disponga en la declaratoria respectiva, una vez que concluyan en el Estado los trabajos de armonización e implementación de la reforma al Sistema de Justicia Laboral, lo cual deberá ser publicado en la Gaceta Oficial del Estado. En tanto, continuarán conociendo y resolviendo las diferencias o conflictos a que se refiere el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos la Honorable Junta Local de Conciliación y Arbitraje del Estado y sus Juntas Especiales, en los términos de las disposiciones aplicables.
+
+Quinto. El Gobierno del Estado de Veracruz de Ignacio de la Llave dispondrá lo necesario para garantizar los derechos laborales de quienes trabajen en la Honorable Junta de Conciliación y Arbitraje del Estado y sus Juntas Especiales, al concluir éstas sus funciones en los términos previstos en la Constitución General de la República y la Ley Federal del Trabajo al respecto.
+
+Sexto. Se derogan todas las disposiciones que se opongan al presente Decreto.
