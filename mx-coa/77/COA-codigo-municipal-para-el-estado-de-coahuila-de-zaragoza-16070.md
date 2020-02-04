@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2020-01-10"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -1637,6 +1637,10 @@ XIII. Las demás que le otorguen la presente ley, los demás ordenamientos legal
 
 El control interno, la evaluación municipal y la modernización administrativa estarán a cargo de un órgano de control interno municipal, que se denominará Contraloría Municipal. Cada Ayuntamiento establecerá un órgano de control el cual tendrá a su cargo la vigilancia, fiscalización, control y evaluación de los ingresos, gastos, recursos, bienes y obligaciones de la Administración Pública Municipal.
 
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2020)</small>
+
+El titular de la contraloría municipal deberá rendir un informe cada cuatro meses de su trabajo al Cabildo, conforme a sus atribuciones.
+
 ###### ARTÍCULO 133.
 
 Son facultades y obligaciones del Contralor Municipal:
@@ -1673,7 +1677,11 @@ XIII. Participar en la entrega-recepción de las unidades administrativas de las
 
 XIV. Supervisar el inventario general de bienes muebles e inmuebles propiedad del municipio, verificando los datos de identificación y el destino de los mismos.
 
-XV. Verificar que los Servidores Públicos Municipales cumplan con su obligación de presentar la declaración de situación patrimonial en los términos de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2020)</small>
+
+XV. Verificar que los Servidores Públicos Municipales cumplan con su obligación de presentar la declaración de situación patrimonial; así como el manifiesto de no conflicto de intereses de los proveedores y contratistas del municipio, verificando su contenido mediante las investigaciones que resulten pertinentes en los términos de las leyes aplicables.
+
+Vigilando también que los servidores públicos municipales con cargos directivos, así como los integrantes del Cabildo no intervengan o participen indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tengan interés personal, familiar o de negocios.
 
 XVI. Conocer e investigar los actos, omisiones y conductas de los servidores públicos para fincar responsabilidades administrativas, aplicando las sanciones correspondientes en los términos que las leyes señalen y, en su caso, turnar al Síndico los asuntos cuyos hechos se consideren constitutivos de delito a fin de que éste presente la denuncia y/o querella correspondiente ante el Ministerio Público, presentándole para tal efecto la colaboración que se le requiera.
 
@@ -1779,9 +1787,11 @@ El órgano de gobierno, elegirá de entre sus miembros a su presidente y en su c
 
 El Congreso del Estado deberá incluir lo conducente en el decreto de creación respectivo a fin de estar acorde con el presente artículo.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2020)</small>
+
 ###### ARTÍCULO 138.
 
-Los organismos descentralizados, deberán rendir informes trimestrales al Ayuntamiento, sobre el ejercicio de sus funciones. Lo anterior sin perjuicio de los informes que el Ayuntamiento, el órgano de control interno o el Presidente Municipal les soliciten en cualquier tiempo.
+Los organismos descentralizados y las empresas de participación municipal deberán rendir informes trimestrales al Cabildo sobre el ejercicio de sus funciones, incluyendo sus estados financieros y los avances en metas y objetivos. Lo anterior sin perjuicio de los informes que el Ayuntamiento, el órgano de control interno o el Presidente Municipal les soliciten en cualquier tiempo.
 
 ### CAPÍTULO IV. DE LA ADMINISTRACIÓN PARAMUNICIPAL
 
@@ -2376,6 +2386,22 @@ Las circulares administrativas, deberán aclarar o interpretar con precisión la
 ###### ARTÍCULO 188.
 
 Las circulares administrativas no deberán ser de naturaleza legislativa autónoma, ni desvirtuar, modificar o alterar el contenido de una disposición de observancia general.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 188 BIS. El ayuntamiento, en el ámbito de su competencia expedirá los protocolos de actuación necesarios para dotar de certeza, legalidad y funcionalidad a los procedimientos, programas o acciones relativos a:
+
+I. Seguridad pública, en relación a la actuación de los agentes de tránsito y los operativos para prevenir los accidentes por consumo de alcohol y estupefacientes.
+
+II. Perspectiva de género.
+
+III. Violencia de género.
+
+IV. Prevención de la discriminación.
+
+V. Protección civil.
+
+VI. Las demás materias o rubros donde las autoridades consideren la necesidad de contar con un protocolo o lo (sic) dispongan así las leyes.
 
 ## TÍTULO SEXTO. DE LOS SERVICIOS PÚBLICOS MUNICIPALES
 
@@ -4111,9 +4137,11 @@ Tratándose de actos y resoluciones que emitan el presidente municipal, las depe
 
 El recurso de inconformidad se tramitará conforme al procedimiento que establece este capítulo, debiéndose aplicar supletoriamente en todo lo no previsto, la ley que regula el procedimiento de lo contencioso administrativo y, en su defecto, el Código Procesal Civil del Estado de Coahuila.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2020)</small>
+
 ###### ARTÍCULO 393.
 
-El recurso de inconformidad se interpondrá por escrito, dentro del término de diez días hábiles, siguientes a la fecha en que el acto haya ocurrido o se haya hecho del conocimiento público, o bien haya surtido efectos la notificación de la resolución que se impugna.
+El recurso de inconformidad se interpondrá por escrito, dentro del término de quince días hábiles, siguientes a la fecha en que el acto haya ocurrido o se haya hecho del conocimiento público, o bien haya surtido efectos la notificación de la resolución que se impugna.
 
 ###### ARTÍCULO 394.
 
@@ -4896,3 +4924,37 @@ b) 120 días posteriores a la emisión de los Acuerdos Generales a que a que (si
 c) 180 días posteriores a la emisión de los Acuerdos Generales a que a que (sic) se refiere el Tercero Transitorio por lo que hace a las autoridades municipales del resto de los municipios del Estado.
 
 SÉPTIMO.- Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 528.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 132 Y SE MODIFICA EL CONTENIDO DE LA FRACCIÓN XV DEL ARTÍCULO 133 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 529.- SE ADICIONA EL ARTÍCULO 188 BIS AL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo de un año contado a partir de la entrada en vigor de este decreto, los municipios deberán expedir los protocolos establecidos en el artículo 188 BIS, con excepción de aquellos que ya se encuentren creados.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 531.- SE REFORMA EL ARTÍCULO 393 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 532.- SE REFORMA EL ARTÍCULO 138 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los organismos municipales señalados en el artículo 138, deberán cumplir con el contenido de los informes trimestrales en un plazo de tres meses contado a partir de la entrada en vigor del presente decreto, aplicable para los organismos que nunca habían presentado el informe correspondiente. Los organismos que presentaban informes trimestrales deberán cumplir con los contenidos correspondientes al presentar el informe que corresponda en fecha posterior a la promulgación de este decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
