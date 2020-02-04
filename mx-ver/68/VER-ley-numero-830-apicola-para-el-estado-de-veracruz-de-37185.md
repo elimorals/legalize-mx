@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-830-apicola-para-el-estado-de-veracruz-de-37185"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-12"
-last_updated: "2004-02-12"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37185&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY APICOLA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el jueves 12 de febrero de 2004.
 
@@ -389,9 +389,11 @@ III. El monto del beneficio, daño o perjuicio económico, si los hubiere, deriv
 
 IV. La reincidencia, en su caso.
 
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
 ###### ARTÍCULO 37.
 
-Se sancionará con multa de cincuenta a doscientos días de salario mínimo general vigente en la capital del Estado o con la cancelación del registro de sitio de pecoreo, del permiso de internación o del trámite administrativo que corresponda, según la gravedad de la infracción, el incumplimiento de lo dispuesto en los artículos 8, 9, 10,14, 19, 21, 22, 27 y 29 de esta Ley.
+Se sancionará con multa del valor diario de cincuenta a doscientas Unidades de Medida y Actualización vigente o con la cancelación del registro de sitio de pecoreo, del permiso de internación o del trámite administrativo que corresponda, según la gravedad de la infracción, el incumplimiento de lo dispuesto en los artículos 8, 9, 10, 14, 19, 21, 22, 27 y 29 de esta Ley.
 
 ###### ARTÍCULO 38.
 
@@ -448,3 +450,17 @@ A t e n t a m e n t e.
 Sufragio efectivo. No reelección.
 
 Licenciado Miguel Alemán Velazco, Gobernador del Estado. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 532 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión “... salario mínimo”, se entenderán referidas a la Unidad de Medida y Actualización que deberá ser utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes del Estado de Veracruz de Ignacio de la Llave, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
