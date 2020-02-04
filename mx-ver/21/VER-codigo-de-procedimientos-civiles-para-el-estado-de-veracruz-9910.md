@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "2019-08-08"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -293,13 +293,17 @@ ARTICULO 40
 
 Los jueces y magistrados a quienes corresponda, recibirán por sí mismo las declaraciones y presidirán todos los actos de prueba, bajo la pena de suspensión de uno a dos meses, independientemente de otra responsabilidad que pudiera resultarles.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
-
 ARTICULO 41
 
-Los Jueces y Magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y consideración debidos, en el ejercicio de sus funciones, corrigiendo en el acto las faltas que se cometieren, con multas que no podrán exceder en los Juzgados Municipales del equivalente a un día de salario mínimo; en los Juzgados Menores del equivalente a diez días de salario mínimo; de veinte días de salario mínimo en los Juzgados de Primera Instancia y de treinta días de salario mínimo en el H. Tribunal Superior de Justicia del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2020)</small>
 
-Para los efectos de lo dispuesto en la parte final del párrafo anterior, se tomará como base el salario mínimo general vigente en la capital del Estado, durante el mes de enero del año que corresponda.
+Los Jueces y Magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y consideración debidos, en el ejercicio de sus funciones, corrigiendo en el acto las faltas que se cometieren, con multas que no podrán exceder en los Juzgados Municipales del equivalente a una Unidad de Medida y Actualización; en los Juzgados Menores del equivalente a diez Unidades de Medida y Actualización; de veinte Unidades de Medida y Actualización en los Juzgados de Primera Instancia y de treinta Unidades de Medida y Actualización en el H. Tribunal Superior de Justicia del Estado.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+Para los efectos de lo dispuesto en el párrafo anterior, se tomará como base la Unidad de Medida y Actualización vigente, del año que corresponda.
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
 
 Los Jueces y Magistrados pueden también acudir al uso de la fuerza pública.
 
@@ -313,9 +317,9 @@ I.- El apercibimiento o amonestación;
 
 II.- La multa que no exceda de la máxima señalada en la fracción I del artículo 53;
 
-> <small>(ADICIONADO, G.O. 13 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
-En los casos previstos en el cuarto párrafo del artículo 371 la multa no será inferior a treinta días de salario mínimo, ni superior a cien días de salario mínimo.
+En los casos previstos en el cuarto párrafo del artículo 371 la multa no será inferior al valor diario de treinta Unidades de Medida y Actualización, ni superior al valor diario de cien Unidades de Medida y Actualización.
 
 III.- La suspensión que no exceda de un mes.
 
@@ -339,11 +343,11 @@ Cuando lo pidan las partes, las copias simples de los documentos que presenten, 
 
 Los interesados pueden presentar una copia simple de sus escritos, a fin de que se les devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el empleado que la reciba en el tribunal.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ARTICULO 46
 
-El Secretario hará constar el día y hora en que se presente un escrito, asentando su número progresivo de registro y si contiene o no la firma del patrono, e inmediatamente dará cuenta con él, bajo la pena de multa de un día de salario que perciba el servidor público, sin perjuicio de las demás que merezca conforme a las Leyes.
+El Secretario hará constar el día y hora en que se presente un escrito, asentando su número progresivo de registro y si contiene o no la firma del patrono, e inmediatamente dará cuenta con él, bajo la pena de multa del valor diario de una Unidad de Medida y Actualización, sin perjuicio de las demás que merezca conforme a las Leyes.
 
 ARTICULO 47
 
@@ -381,9 +385,9 @@ ARTICULO 53
 
 Los jueces, para hacer cumplir sus determinaciones, pueden emplear cualquiera de los siguientes medios de apremio que juzguen eficaz:
 
-> <small>(REFORMADA, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
 
-I.- La multa hasta por el equivalente a treinta días del salario mínimo general vigente en la capital del Estado, durante el mes de enero del año que corresponda, que se duplicará en caso de reincidencia;
+I.- La multa hasta por el equivalente al valor diario de treinta Unidades de Medida y Actualización vigente durante el año que corresponda, que se duplicará en caso de reincidencia;
 
 II.- El auxilio de la fuerza pública;
 
@@ -661,11 +665,11 @@ ARTICULO 90
 
 El incidente de nulidad que se promueva por defecto en las notificaciones, se substanciará ante el mismo juez o magistrado que conozca del negocio. Si la parte contraria estuviere conforme, se declarará desde luego la nulidad de lo actuado desde la notificación hecha indebidamente. Si no estuviere conforme, se convocará a una audiencia que tendrá verificativo a más tardar dentro de cinco días, en la que los interesados pueden presentar las pruebas que tuvieren. En la misma audiencia se resolverá lo que procediere en justicia. En el caso de que proceda la nulidad, se impondrá al responsable una multa equivalente, como máximo, a diez días de salario que devengue el servidor público y se le condenará al pago de los gastos y costas.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ARTICULO 91
 
-Cuando por culpa del actor, no se emplace personalmente al demandado, se impondrá al responsable una multa, equivalente, como máximo, a diez días del salario mínimo general vigente en la capital del Estado, durante el mes de enero del año que corresponda, si el asunto fuere de la competencia de los jueces de primera instancia o de los Magistrados y de hasta de cinco días, si fuere de la de los jueces municipales o menores, sin perjuicio de las que correspondan por los delitos que resultaren cometidos.
+Cuando por culpa del actor, no se emplace personalmente al demandado, se impondrá al responsable una multa, equivalente, como máximo, al valor diario de diez Unidades de Medida y Actualización vigente, durante el año que corresponda, si el asunto fuere de la competencia de los jueces de primera instancia o de los Magistrados y de hasta el valor diario de cinco Unidades de Medida y Actualización, si fuere de la de los jueces municipales o menores, sin perjuicio de las que correspondan por los delitos que resultaren cometidos.
 
 ### CAPITULO VI. De los términos judiciales
 
@@ -873,9 +877,9 @@ XIII.- En los casos de reclamación de alimentos, el del domicilio del acreedor 
 
 XIV.- En los casos relativos al nombre, lo será el del domicilio del promovente;
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
 
-XV.- El que deba conoce por virtud de la cuantía de las reclamaciones. Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demande el actor como suerte principal. Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año; a no ser que se trate de prestaciones vencidas, en cuyo caso se atenderá al monto de las mismas. Para conocer de las reclamaciones cuyo importe no exceda del equivalente a cien días de salario mínimo general vigente en la capital del Estado durante el mes de enero en que se presente la demanda o reconvención es competente un Juez de Paz; de este monto en adelante y hasta el equivalente a mil días del salario mínimo general antes mencionado es competente un Juez Menor, sin que la diferencia anual de salarios sea motivo de incompetencia; de este equivalente en adelante, un Juez de Primera Instancia.
+XV.- El que deba conocer por virtud de la cuantía de las reclamaciones. Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demande el actor como suerte principal. Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año; a no ser que se trate de prestaciones vencidas, en cuyo caso se atenderá al monto de las mismas. Para conocer de las reclamaciones cuyo importe no exceda del equivalente al valor diario de cien Unidades de Medida y Actualización vigente durante el mes de enero en que se presente la demanda o reconvención es competente un Juez de Paz; de este monto en adelante y hasta el equivalente al valor diario de mil Unidades de Medida y Actualización es competente un Juez Menor, sin que la diferencia anual de Unidades de Medida y Actualización sea motivo de incompetencia; de este equivalente en adelante, un Juez de Primera Instancia.
 
 ARTICULO 117
 
@@ -1097,11 +1101,11 @@ ARTICULO 142
 
 Los magistrados y jueces que conozcan de una recusación, son irrecusables para sólo este efecto.
 
-(REFORMADO, G.O. 31 DE MARZO DE 1988)(F. DE E., G.O. 14 DE JUNIO DE 1988)
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ARTICULO 143
 
-Si se declarare improcedente o no probada la causa de la recusación, se impondrá al recurrente una multa que no podrá exceder en los Juzgados Municipales del equivalente a un día de salario mínimo; en los Juzgados Menores, del equivalente a diez días de salario mínimo; de veinte días de salario mínimo en los Juzgados de Primera Instancia y de treinta días de salario mínimo en el H. Tribunal Superior de Justicia del Estado. Para los efectos se tomará como base al salario mínimo general vigente en la capital del Estado, durante el mes de enero del año que corresponda. No se dará curso a ninguna recusación, si no exhibe el recusante al interponerla el billete de depósito por el máximo de la multa, la que en su caso se aplicará al colitigante si lo hubiere, por vía de indemnización, y en caso contrario al Fisco.
+Si se declarare improcedente o no probada la causa de la recusación, se impondrá al recurrente una multa que no podrá exceder en los Juzgados Municipales del equivalente al valor diario de una Unidad de Medida y Actualización; en los Juzgados Menores, del equivalente al valor diario de diez Unidades de Medida y Actualización; al valor diario de veinte Unidades de Medida y Actualización en los Juzgados de Primera Instancia y al valor diario de treinta Unidades de Medida y Actualización en el H. Tribunal Superior de Justicia del Estado. Para los efectos se tomará como base la Unidad de Medida y Actualización vigente. No se dará curso a ninguna recusación, si no exhibe el recusante al interponerla el billete de depósito por el máximo de la multa, la que en su caso se aplicará al colitigante si lo hubiere, por vía de indemnización, y en caso contrario al Fisco.
 
 ARTICULO 144
 
@@ -1867,11 +1871,11 @@ III.- Que se designen, en caso de ser prueba instrumental, los archivos público
 
 El juez, al calificar la admisión de las pruebas, resolverá sobre el término extraordinario y se determinará el monto de la cantidad que el promovente deposite como multa e indemnización a la contraparte por concepto de daños y perjuicios, en caso de no rendirse la prueba tomando en cuenta lo dispuesto en el artículo siguiente. Sin este depósito, no surtirá efecto el término extraordinario concedido.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ARTICULO 243
 
-El litigante a quien se hubiere concedido la dilación extraordinaria y no rindiese las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante a juicio del juez, será condenado, al extinguirse el período probatorio, a pagar a su contraparte una indemnización por concepto de daños y perjuicios hasta por el equivalente a cincuenta días del salario mínimo general vigente en la capital del Estado, durante el mes de enero del año de que se trate y una multa hasta por el equivalente a diez días de salario a beneficio del Fisco del Estado. Dejándose además de recibir la prueba.
+El litigante a quien se hubiere concedido la dilación extraordinaria y no rindiese las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante a juicio del juez, será condenado, al extinguirse el período probatorio, a pagar a su contraparte una indemnización por concepto de daños y perjuicios hasta por el equivalente al valor diario de cincuenta Unidades de Medida y Actualización vigente y una multa hasta por el equivalente al valor diario de diez Unidades de Medida y Actualización a beneficio del Fisco del Estado. Dejándose además de recibir la prueba.
 
 ARTICULO 244
 
@@ -2101,9 +2105,9 @@ ARTICULO 276
 
 En el caso de la primera parte del artículo anterior, concurrirá el tercero en discordia y se observarán las reglas siguientes:
 
-> <small>(REFORMADA, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
 
-I.- El perito que dejare de concurrir sin causa justa calificada por el Tribunal, incurrirá en una multa hasta el equivalente a cinco días de salario mínimo general vigente en la Capital del Estado durante el mes de enero del año que corresponda y será responsable de los daños causados por su culpa, sin perjuicio de lo que previene el artículo 274;
+I.- El perito que dejare de concurrir sin causa justa calificada por el Tribunal, incurrirá en una multa de hasta el equivalente al valor diario de cinco Unidades de Medida y Actualización vigente y será responsable de los daños causados por su culpa, sin perjuicio de lo que previene el artículo 274.
 
 II.- Los peritos practicarán unidos la diligencia, pudiendo concurrir los interesados al acto y hacerles cuantas observaciones quieran, pero deberán retirarse para que los peritos discutan y deliberen solos;
 
@@ -2155,11 +2159,11 @@ ARTICULO 281
 
 Los que tengan conocimiento de los hechos que las partes quieran probar, están obligados a declarar como testigos. No podrán pasar de tres por cada hecho que exija distinto interrogatorio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE NOVIEMBRE DE 1995)</small>
-
 ARTICULO 282
 
-Las partes tendrán obligación de presentar sus propios testigos. Cuando estuvieren imposibilitados para hacerlo, lo manifestarán bajo protesta de decir verdad al Juez del conocimiento y pedirán que los cite. El Tribunal ordenará la citación con apercibimiento de arresto hasta de treinta y seis horas o multa por el equivalente de treinta días de salario mínimo general vigente en la capital del Estado durante el mes de enero del año de que se trate, que se aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+Las partes tendrán obligación de presentar sus propios testigos. Cuando estuvieren imposibilitados para hacerlo, lo manifestarán bajo protesta de decir verdad al Juez del conocimiento y pedirán que los cite. El Tribunal ordenará la citación con apercibimiento de arresto hasta de treinta y seis horas o multa hasta por el equivalente al valor diario de treinta Unidades de Medida y Actualización vigente, que se aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
 
 > <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
 
@@ -3447,9 +3451,13 @@ K
 
 Las pruebas admitidas deberán ser preparadas por las partes, y en consecuencia, en la audiencia deberán presentar a sus testigos, que no podrán exceder de dos para cada hecho. En cuanto a la pericial, deberá estarse a lo ordenado en el juicio ordinario respecto a dicha prueba.
 
-No obstante lo anterior, si las partes al ofrecer sus pruebas, bajo protesta de decir verdad, manifiestan no poder presentar a los testigos, ni obtener los documentos que no tengan a su disposición, el Juez mandará citar a dichos testigos, con el apercibimiento que de no comparecer a declarar, sin justa causa que se los impida, les impondrá una multa de hasta cien días de salario mínimo general vigente en la capital del Estado, o arresto hasta de treinta y seis horas, y dejará de recibir tales testimoniales.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
-De igual manera auxiliará al oferente, expidiendo los oficios a las autoridades y terceros que tengan en su poder documentos, apercibiendo a las primeras con la imposición de una sanción pecuniaria, en favor de la parte perjudicada, por el equivalente a sesenta días de salario mínimo general vigente en la capital del Estado durante el mes de enero del año que corresponda, que se hará efectiva por orden del propio Juez; y a los segundos con la imposición de un arresto hasta de treinta y seis horas, en la inteligencia de que estos terceros podrán manifestar al Juez, bajo protesta de decir verdad, que no tienen en su poder los documentos que se le requieren.
+No obstante lo anterior, si las partes al ofrecer sus pruebas, bajo protesta de decir verdad, manifiestan no poder presentar a los testigos, ni obtener los documentos que no tengan a su disposición, el Juez mandará citar a dichos testigos, con el apercibimiento que de no comparecer a declarar, sin justa causa que se los impida, les impondrá una multa de hasta el valor diario de cien Unidades de Medida y Actualización vigente, o arresto hasta de treinta y seis horas, y dejará de recibir tales testimoniales.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+De igual manera auxiliará al oferente, expidiendo los oficios a las autoridades y terceros que tengan en su poder documentos, apercibiendo a las primeras con la imposición de una sanción pecuniaria, en favor de la parte perjudicada, por el equivalente al valor diario de sesenta Unidades de Medida y Actualización vigente, que se hará efectiva por orden del propio Juez; y a los segundos con la imposición de un arresto hasta de treinta y seis horas, en la inteligencia de que estos terceros podrán manifestar al Juez, bajo protesta de decir verdad, que no tienen en su poder los documentos que se le requieren.
 
 El Juez iniciará la audiencia con una junta de conciliación en la que únicamente intervendrán las partes y en el caso de que no se lograra un convenio, procederá a resolver todas las excepciones procesales que existan, los incidentes que hubieren y desahogará las pruebas admitidas y preparadas. Si no se llegaren a desahogar por falta de preparación, se diferirá la audiencia y bajo su más estricta responsabilidad, atenderá que se preparen para desahogarse en la fecha que se señale, que no excederá en su fijación de los diez días posteriores.
 
@@ -4267,11 +4275,11 @@ La junta de rectificación y graduación será presidida por el juez, procedién
 
 En el informe deberá también clasificar los créditos de acuerdo con sus privilegios, según el Código Civil.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ARTICULO 551
 
-Si el Síndico no presentare el informe al principiar la Junta, perderá el derecho de cobrar honorarios y será removido de plano imponiéndosele además, una multa de hasta el equivalente a diez días del salario mínimo general vigente en la Capital del Estado durante el mes de enero del año que corresponda.
+Si el Síndico no presentare el informe al principiar la Junta, perderá el derecho de cobrar honorarios y será removido de plano imponiéndosele, además, una multa de hasta el equivalente al valor diario de diez Unidades de Medida y Actualización vigente.
 
 ARTICULO 552
 
@@ -4647,9 +4655,9 @@ Si la declaración de herederos la solicitaren parientes colaterales dentro del 
 
 El juez, prudentemente, podrá ampliar el plazo anterior, cuando por el origen del difunto u otras circunstancias, se presuma que puede haber parientes fuera de la República.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
-Los edictos se insertarán, además dos veces, de diez en diez en la "Gaceta Oficial" del Estado y en un periódico de amplia circulación en la localidad, si el valor de los bienes hereditarios excediere del equivalente a un año de salario mínimo general vigente en el lugar donde se radique el juicio.
+Los edictos se insertarán, además dos veces, de diez en diez en la "Gaceta Oficial" del Estado y en un periódico de amplia circulación en la localidad, si el valor de los bienes hereditarios excediere del valor anual de la Unidad de Medida y Actualización vigente.
 
 ARTICULO 613
 
@@ -4795,11 +4803,11 @@ ARTICULO 640
 
 El interventor solo puede deducir en juicio las acciones que por razón de mejoras, manutención o reparación tenga contra la testamentaría o el intestado, cuando haya hecho esos gastos con autorización previa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE MARZO DE 1988)</small>
-
 ARTICULO 641
 
-El interventor recibirá como retribución el dos por ciento del importe de los bienes, si los mismos no exceden del equivalente a un año del salario mínimo general vigente en la Capital del Estado, en el mes de enero del año que corresponda; si exceden de ese monto pero no del equivalente a cinco años de salario mínimo, tendrá además el uno por ciento sobre el exceso y si excedieran del equivalente a cinco años, cobrará adicionalmente el medio por ciento sobre la cantidad excedente.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+El interventor recibirá como retribución el dos por ciento del importe de los bienes, si los mismos no exceden del equivalente al valor anual de la Unidad de Medida y Actualización vigente; si exceden de ese monto pero no del equivalente del valor diario de un mil ochocientas veinticinco Unidades de Medida y Actualización, tendrá además el uno por ciento sobre el exceso y si excedieran del equivalente a cinco años, cobrará adicionalmente el medio por ciento sobre la cantidad excedente.
 
 El albacea judicial y el tutor, tendrán el mismo honorario que el interventor.
 
@@ -5345,9 +5353,9 @@ II.- El estado de discapacidad intelectual puede probarse por testigos o documen
 
 III.- Si el auto de primera instancia fuere declaratorio de estado de minoridad o discapacidad, proveerá el juez, aunque fuere apelado o antes si hubiere necesidad urgente, a la patria potestad o tutela de las personas que estuvieren bajo guarda del presunto discapacitado, y a nombrar curador que vigile los actos del tutor interino en la administración de los bienes y cuidado de la persona;
 
-> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
 
-IV.- El que promueva dolosamente el incidente de interdicción, incurrirá en las penas que la Ley impone por falsedad y, sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una cantidad equivalente a ciento ochenta días del salario mínimo general vigente en la capital del Estado en el momento de su aplicación, que se destinará íntegramente al supuesto discapacitado; y
+IV.- El que promueva dolosamente el incidente de interdicción, incurrirá en las penas que la Ley impone por falsedad y, sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una cantidad equivalente al valor diario de ciento ochenta Unidades de Medida y Actualización vigente en el momento de su aplicación, que se destinará íntegramente al supuesto discapacitado; y
 
 V.- Luego que cause ejecutoria la sentencia de interdicción, se proveerá a discernir el cargo al tutor propietario en los términos de ley.
 
@@ -5773,11 +5781,11 @@ El que se presente como actor o como reo usando el nombre de otro para hacerse p
 
 ### CAPITULO II. Del juicio
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ARTICULO 758
 
-Si a la hora señalada para la celebración del juicio no estuviere presente el actor y sí el demandado, se impondrá a aquél una multa de hasta el equivalente a cinco días de salario mínimo general vigente en la Capital del Estado durante el mes de enero del año que corresponda, que se aplicará al reo por vía de indemnización y mientras no se justifique haberse hecho el pago, no se llamará de nuevo para el juicio.
+Si a la hora señalada para la celebración del juicio no estuviere presente el actor y sí el demandado, se impondrá a aquél una multa de hasta el equivalente al valor diario de cinco Unidades de Medida y Actualización vigente, que se aplicará al reo por vía de indemnización y mientras no se justifique haberse hecho el pago, no se llamará de nuevo para el juicio.
 
 ARTICULO 759
 
@@ -6260,3 +6268,15 @@ G.O. 8 DE AGOSTO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 532 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión “... salario mínimo”, se entenderán referidas a la Unidad de Medida y Actualización que deberá ser utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes del Estado de Veracruz de Ignacio de la Llave, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
