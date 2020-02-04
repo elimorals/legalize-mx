@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2020-01-02"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -257,7 +257,9 @@ Los Poderes, las Dependencias y las Entidades de la administración pública y l
 
 Para el caso de las devoluciones tramitadas en términos de los artículos 45 y 46 del presente Código, será requisito indispensable presentar la documentación a que se refiere el primer párrafo de este artículo, conjuntamente con la solicitud de devolución, en los mismos términos de dicho párrafo.
 
-Quedan exceptuados de lo establecido en los párrafos segundo y tercero de este artículo, los pagos menores a 65 salarios mínimos del área geográfica "A".
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+Quedan exceptuados de lo establecido en los párrafos segundo y tercero de este artículo, los pagos menores a 65 Unidades de Medida y Actualización vigente.
 
 # LIBRO SEGUNDO. DE LAS DISPOSICIONES DE CARÁCTER TRIBUTARIO
 
@@ -2945,9 +2947,9 @@ b) El excedente de 10,000 hasta 50,000 predios. 0.0350 UMA
 
 c) El excedente de 50,000 predios en adelante. 0.0170 UMA
 
-> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
 
-V. Por la ejecución de programas para la actualización del padrón catastral gráfico y alfanumérico por predio revisado: 0.6468 UMA
+V. Por la ejecución de programas para la actualización del padrón catastral gráfico y alfanumérico por predio revisado: 0.61 UMA
 
 > <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 2001)</small>
 
@@ -5848,3 +5850,15 @@ G.O. 2 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 528 QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 121 DEL CÓDIGO FINANCIERO PARA EL ESTADO DE VERACRUZ”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 532 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión “... salario mínimo”, se entenderán referidas a la Unidad de Medida y Actualización que deberá ser utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes del Estado de Veracruz de Ignacio de la Llave, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
