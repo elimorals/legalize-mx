@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2019-12-03"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -2837,7 +2837,9 @@ Para los efectos de esta Ley y del Código Penal, se computarán entre los biene
 
 Durante el desempeño de su empleo, cargo o comisión, y un año después los servidores públicos municipales, no podrán solicitar, aceptar o recibir, por sí o por interpósita persona, dinero o cualquier donación, que se presuma que se hace con motivo de servicios en el ejercicio de su función pública.
 
-Para los efectos del párrafo anterior, no se considerarán los que reciba el servidor público en una o más ocasiones, de una misma persona física o moral de las mencionadas en el párrafo precedente, durante un año cuando el valor acumulado durante ese año no sea superior a diez veces el salario mínimo diario vigente en la zona económica donde resida el servidor público, en el momento de su recepción.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+Para los efectos del párrafo anterior, no se considerarán los que reciba el servidor público en una o más ocasiones, de una misma persona física o moral de las mencionadas en el párrafo precedente, durante un año cuando el valor acumulado durante ese año no sea superior a diez veces la Unidad de Medida y Actualización vigente, en el momento de su recepción.
 
 En ningún caso se podrán recibir de dichas personas títulos, valores, bienes inmuebles o cesiones de derechos sobre juicios o controversias en las que se dirima la titularidad de los derechos de posesión o de propiedad sobre bienes de cualquier clase.
 
@@ -3035,7 +3037,9 @@ V. Sanción económica, cuando se haya causado un daño patrimonial u obtenido u
 
 VI. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, será de seis meses a tres años si el monto de aquellos no excede de cien veces el salario mínimo mensual vigente en la zona económica donde preste sus servicios el servidor público municipal, y de tres a diez años si excede de dicho límite.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, será de seis meses a tres años si el monto de aquellos no excede de cien veces la Unidad de Medida y Actualización vigente, y de tres a diez años si excede de dicho límite.
 
 ###### Artículo 154.
 
@@ -3075,9 +3079,11 @@ Para la destitución del empleo, cargo o comisión, previa suspensión, el Sínd
 
 La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público será aplicable por resolución que dictará el órgano que corresponda, en términos de esta ley y demás leyes aplicables.
 
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 157.
 
-El Ayuntamiento o el Presidente Municipal, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el salario mínimo diario vigente en la zona económica donde se cometa.
+El Ayuntamiento podrá abstenerse de sancionar al infractor, por una sola vez, cuando lo estime pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces la Unidad de Medida y Actualización vigente.
 
 ###### Artículo 158.
 
@@ -4366,3 +4372,15 @@ G.O. 3 DE DICIEMBRE DE 2019.
 Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 532 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión “... salario mínimo”, se entenderán referidas a la Unidad de Medida y Actualización que deberá ser utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes del Estado de Veracruz de Ignacio de la Llave, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
