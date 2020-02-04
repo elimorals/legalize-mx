@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-327-para-la-proteccion-de-los-no-fumadores-del-84864
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-11"
-last_updated: "2012-01-11"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 327 PARA LA PROTECCIÓN DE LOS NO FUMADORES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Veracruz, el miércoles 11 de enero de 2012.
 
@@ -449,15 +449,23 @@ V. El beneficio obtenido por el infractor como resultado de la infracción.
 
 Se sancionará con multa:
 
-I. De hasta cien veces el salario mínimo general diario vigente en la zona económica de que se trate, el incumplimiento de lo dispuesto en los artículos 12, 19 y 20 de esta Ley;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
 
-II. De mil hasta cuatro mil veces el salario mínimo general diario vigente en la zona económica de que se trate, el incumplimiento de las disposiciones contenidas en los artículos 14, 15, 16, 17, 20, 21, 22, 23, 27 y 29 de la presente Ley; y
+I. De hasta cien veces la Unidad de Medida y Actualización vigente, el incumplimiento de lo dispuesto en los artículos 12, 19 y 20 de esta Ley;
 
-III. De cuatro mil hasta diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate, por el incumplimiento de lo previsto en el artículo 30 de esta Ley.
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+II. De mil hasta cuatro mil veces la Unidad de Medida y Actualización vigente, el incumplimiento de las disposiciones contenidas en los artículos 14, 15, 16, 17, 20, 21, 22, 23, 27 y 29 de la presente Ley; y
+
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+III. De cuatro mil hasta diez mil veces la Unidad de Medida y Actualización vigente, por el incumplimiento de lo previsto en el artículo 30 de esta Ley.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 47.
 
-Las infracciones no previstas en este capítulo serán sancionadas con multa de hasta cien veces el salario mínimo diario general vigente en la capital del Estado, atendiendo las reglas de calificación que se establecen en el artículo 45 de esta Ley.
+Las infracciones no previstas en este capítulo serán sancionadas con multa de hasta cien veces la Unidad de Medida y Actualización vigente, atendiendo las reglas de calificación que se establecen en el artículo 45 de esta Ley.
 
 ###### Artículo 48.
 
@@ -534,3 +542,17 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 532 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión “... salario mínimo”, se entenderán referidas a la Unidad de Medida y Actualización que deberá ser utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes del Estado de Veracruz de Ignacio de la Llave, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
