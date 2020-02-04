@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2020-01-31"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -683,6 +683,18 @@ En caso de que los educadores así como las autoridades educativas, tengan conoc
 
 Así mismo, cuando las autoridades educativas, los directores de los planteles educativos, así como el resto del personal docente noten la prolongada o reiterada ausencia de un estudiante deberán notificarlo o reportarlo ante la Procuraduría para Niños, Niñas y la Familia con la finalidad de descartar o detectar posibles situaciones de maltrato infantil.
 
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2020)</small>
+
+Todas las escuelas de educación básica dentro del Sistema Educativo Estatal, podrán contar, en la medida de sus posibilidades y de acuerdo a la disponibilidad presupuestal, con un trabajador social especialista en psicología, o bien, con un área especializada en la materia, con el objetivo de cuidar, atender e informar a los educandos, a fin de que estos puedan ejercer y desarrollar sus habilidades intelectuales, sociales y emocionales.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2020)</small>
+
+De igual manera, el servicio de atención psicológica, podrá orientar o apoyar a los maestros, y/o autoridades escolares, para ofrecer una formación integral a los alumnos.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2020)</small>
+
+El trabajador social será la primera instancia que busque la atención de los problemas personales de cualquier alumno para intervenir oportunamente con protocolos de prevención del suicidio.
+
 #### SECCIÓN PRIMERA. DE LA EDUCACIÓN PREESCOLAR
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2012)</small>
@@ -886,6 +898,18 @@ Se incluirá orientación a los padres o tutores y a los maestros y personal de 
 (ADICIONADO, P.O. 12 DE ABRIL DE 2016) (F. DE E., P.O. 3 DE JUNIO DE 2016)
 
 Además se implementaran talleres de orientación vocacional de forma permanente y progresiva para que el educando, llegado el momento, elija la carrera o profesión que sea más adecuada a su perfil, intereses y habilidades.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2020)</small>
+
+Todas las escuelas de educación media dentro del Sistema Educativo Estatal, podrán contar, en la medida de sus posibilidades y de acuerdo a la disponibilidad presupuestal, con un trabajador social especialista en psicología, o bien, con un área especializada en la materia, con el objetivo de cuidar, atender e informar a los educandos, a fin de que estos puedan ejercer y desarrollar sus habilidades intelectuales, sociales y emocionales.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2020)</small>
+
+De igual manera, el servicio de atención psicológica, podrá orientar o apoyar a los maestros, y/o autoridades escolares, para ofrecer una formación integral a los alumnos.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2020)</small>
+
+El trabajador social será la primera instancia que busque la atención de los problemas personales de cualquier alumno para intervenir oportunamente con protocolos de prevención del suicidio.
 
 ###### ARTICULO 51.
 
@@ -2026,3 +2050,11 @@ P.O. 31 DE ENERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 533.- SE ADICIONAN LOS PÁRRAFOS SÉPTIMO, OCTAVO Y NOVENO AL ARTÍCULO 36 Y LOS PÁRRAFOS QUINTO, SEXTO Y SÉPTIMO AL ARTÍCULO 50, DE LA LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
