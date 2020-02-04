@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-583-del-sistema-estatal-de-cultura-fisica-y-71081"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-26"
-last_updated: "2015-12-04"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 583 DEL SISTEMA ESTATAL DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 26 de noviembre de 2009.
 
@@ -863,7 +863,9 @@ VI. Introduzca al recinto o a sus instalaciones anexas, armas de fuego, explosiv
 
 Quien incurra en las conductas previstas en las fracciones IV, V y VI de este artículo, será sancionado con un año seis meses a cuatro años seis meses de prisión y de veinte a noventa días de multa.
 
-Para efectos de lo dispuesto en este artículo, un día de multa equivale a un día de los ingresos que por cualquier concepto perciba el inculpado, y a falta de prueba a un día de salario mínimo general, vigente el día y en el lugar donde se haya cometido el delito.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+Para efectos de lo dispuesto en este artículo, un día de multa equivale a una Unidad de Medida y Actualización, vigente.
 
 A quien resulte responsable de los delitos previstos en este artículo, se le impondrá también la suspensión del derecho a asistir a eventos deportivos masivos o con fines de espectáculo, por un plazo equivalente a la pena de privación de la libertad que le resulte impuesta.
 
@@ -967,7 +969,9 @@ a) Expulsión inmediata de las instalaciones deportivas;
 
 b) Amonestación privada o pública;
 
-c) Multa de 10 a 90 días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometer la infracción, y
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+c) Multa del valor diario de 10 a 90 Unidades de Medida y Actualización vigente al momento de cometer la infracción; y
 
 d) Suspensión de uno a cinco años del acceso a eventos deportivos masivos o con fines de espectáculo.
 
@@ -1084,3 +1088,15 @@ G.O. 4 DE DICIEMBRE DE 2015.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 532 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión “... salario mínimo”, se entenderán referidas a la Unidad de Medida y Actualización que deberá ser utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes del Estado de Veracruz de Ignacio de la Llave, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
