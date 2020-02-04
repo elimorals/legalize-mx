@@ -4,7 +4,7 @@ identifier: "COA-ley-de-entrega-recepcion-del-estado-y-municipios-de-44955"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-29"
-last_updated: "2013-03-22"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY DE ENTREGA-RECEPCION DEL ESTADO Y MUNICIPIOS DE COAHUILA DE ZARAGOZA
 
-LEY DE ENTREGA-RECEPCION DEL ESTADO Y MUNICIPIOS DE COAHUILA DE ZARAGOZA
+LEY DE ENTREGA-RECEPCIÓN DEL ESTADO Y MUNICIPIOS DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 29 de abril del 2005.
 
@@ -131,7 +131,7 @@ I. El Gobernador del Estado, los Presidentes Municipales, los Diputados del Cong
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-II. Los Presidentes Municipales electos, interinos o sustitutos, los titulares de las dependencias y entidades, los servidores públicos adscritos a éstas y los Concejos Municipales, en caso que se declare la desaparición o suspensión del Ayuntamiento o de un Concejo Municipal.
+II. Los Presidentes Municipales electos, interinos o sustitutos, los titulares de las dependencias y entidades, los servidores públicos adscritos a éstas y los Consejos Municipales, en caso que se declare la desaparición o suspensión del Ayuntamiento o de un Concejo Municipal.
 
 III. Cualquier servidor público de los Ayuntamientos, en caso que se declare la suspensión o revocación de su mandato, y
 
@@ -439,13 +439,19 @@ En caso de los servidores públicos entrantes de los municipios y entidades para
 
 ### CAPÍTULO CUARTO. DE LA ENTREGA-RECEPCIÓN AL CAMBIO DE ADMINISTRACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE FEBRERO DE 2020)</small>
+
 ###### ARTÍCULO 24.
 
-EL INICIO DE LA ENTREGA GENERAL. Al término e inicio de un ejercicio constitucional, el procedimiento de entrega-recepción podrá iniciarse a partir de que el servidor público entrante estatal o municipal haya sido legalmente reconocido por el Instituto Electoral y de Participación Ciudadana.
+EL INICIO DE LA ENTREGA GENERAL. Al término e inicio de un ejercicio constitucional, el procedimiento de entrega-recepción preferentemente iniciará a partir del día siguiente a que el servidor público entrante estatal o municipal haya sido legalmente reconocido en forma definitiva por la autoridad electoral competente; entendiendo por esto que no queda impugnación alguna que realizar o que han expirado los plazos para ejercitar los medios de defensa establecidos en la ley de la materia.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
 
 El Gobernador o Presidente Municipal reconocido legalmente electo, podrá nombrar una comisión de enlace quien podrá tomar conocimiento de la situación que guarda la administración saliente, desarrollo y cumplimiento de los programas y proyectos, y en su caso, obras públicas en proceso, de tal manera que al momento de concretarse el relevo en la titularidad de los cargos, se continúe de manera segura y eficiente la marcha de la actividad pública correspondiente.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2020)</small>
+
+Para el cumplimiento de los plazos que, conforme a esta ley y, al Código Municipal deben computarse a partir de iniciada la entrega-recepción, se entenderá que corren de acuerdo a lo establecido en el primer párrafo de este artículo.
 
 ###### ARTÍCULO 25.
 
@@ -572,3 +578,9 @@ P.O. 22 DE MARZO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los procesos de entrega-recepción que a la publicación del presente Decreto se encuentren pendientes, deberá adecuarse y seguir las formalidades previstas en el mismo.
+
+P.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 530.- SE MODIFICA EL CONTENIDO DEL PRIMER PÁRRAFO, Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 24 DE LA LEY DE ENTREGA-RECEPCIÓN DEL ESTADO Y MUNICIPIOS DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
