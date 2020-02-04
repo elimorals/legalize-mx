@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-576-de-instituciones-de-beneficencia-privada-51281"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2006-08-07"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 
 LEY DE INSTITUCIONES DE BENEFICENCIA PRIVADA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
 
-Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la llave, el lunes 7 de agosto de 2006.
+Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 7 de agosto de 2006.
 
 Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
 
@@ -345,13 +345,17 @@ Las instituciones no podrán aceptar o repudiar las herencias o legados que les 
 
 Donativos hechos a Instituciones de Beneficencia Privada.
 
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 47.
 
-Los donativos que se hagan a las instituciones de beneficencia privada, deberán informarse inmediatamente a la Subdirección, cuando la suma mensual exceda a 1000 veces el salario mínimo general vigente en la ciudad de Xalapa de Enríquez, Veracruz.
+Los donativos que se hagan a las instituciones de beneficencia privada, deberán informarse inmediatamente a la Subdirección, cuando la suma mensual exceda a 1000 Unidades de Medida y Actualización vigente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 48.
 
-En caso que los donativos no excedan mensualmente el monto expresado en salarios mínimos que refiere el artículo anterior, las instituciones de beneficencia privada presentarán trimestralmente a la Subdirección, informe pormenorizado de todos los donativos recibidos, cuya comprobación deberá reunir los requisitos establecidos en las leyes fiscales.
+En caso que los donativos no excedan mensualmente el monto expresado en Unidades de Medida y Actualización que refiere el artículo anterior, las instituciones de beneficencia privada presentarán trimestralmente a la Subdirección, informe pormenorizado de todos los donativos recibidos, cuya comprobación deberá reunir los requisitos establecidos en las leyes fiscales.
 
 Los apoyos en dinero o en especie que, con fundamento en esta ley, otorguen el Gobierno del Estado o los Ayuntamientos a las instituciones de beneficencia privada, aquellos lo informarán mensualmente al Congreso del Estado.
 
@@ -918,3 +922,17 @@ LICENCIADO FIDEL HERRERA BELTRÁN
 GOBERNADOR DEL ESTADO
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 532 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "... salario mínimo", se entenderán referidas a la Unidad de Medida y Actualización que deberá ser utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes del Estado de Veracruz de Ignacio de la Llave, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
