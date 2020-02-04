@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-288-del-juicio-de-proteccion-de-derechos-humanos-252
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-05"
-last_updated: "2018-11-29"
+last_updated: "2020-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY DEL JUICIO DE PROTECCIÓN DE DERECHOS HUMANOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz Ignacio de la Llave, el viernes 5 de julio de 2002.
 
@@ -269,9 +269,11 @@ Si en el distrito judicial no existe más que un juez del ramo civil lo substitu
 
 Cuando un juez se declare impedido para intervenir en el juicio, sin tener motivo legal para ello, el Consejo de la Judicatura le impondrá la corrección disciplinaria procedente.
 
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 29.
 
-Toda recusación será desechada de plano y a quien la promueva se le impondrá una multa de cincuenta a ciento cincuenta días de salario mínimo vigente en la capital del estado.
+Toda recusación será desechada de plano, y a quien la promueva se le impondrá una multa del valor diario de cincuenta a ciento cincuenta Unidades de Medida y Actualización vigente.
 
 ### Capítulo VIII. De las Causas de Improcedencia
 
@@ -339,9 +341,11 @@ V. Cuando hubiese operado la caducidad de la instancia.
 
 Diez días antes, cuando menos, de que se cumpla el término para que opere la caducidad de la instancia, el juez instructor o la sala constitucional, mandarán requerir personalmente a la parte actora o a su representante legal en el juicio, para que manifieste expresamente si tiene interés o no en la prosecución del juicio. Cuando afirmando que sí lo tiene, no promueva en forma o nada manifieste, la autoridad judicial del conocimiento certificará en autos el principio y vencimiento del término de ciento ochenta días naturales durante el cual no hubo promoción alguna y remitirá el expediente a la sala constitucional para que ésta haga la declaración pertinente y ordene el archivo del asunto. Igual procedimiento llevará al cabo el secretario instructor de la sala constitucional, quien después de hacer la certificación del término, dará cuenta al magistrado ponente para que tome la determinación que corresponda.
 
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 34.
 
-Cuando hayan cesado los efectos del acto reclamado o sobrevenido causa alguna de sobreseimiento, la parte actora y la autoridad o autoridades responsables están obligadas a manifestarlo así. Si no lo hacen se les impondrá una multa de cincuenta a ciento cincuenta días de salario, según las circunstancias del caso.
+Cuando hayan cesado los efectos del acto reclamado o sobrevenido causa alguna de sobreseimiento, la parte actora y la autoridad o autoridades responsables están obligadas a manifestarlo así. Si no lo hacen se les impondrá una multa del valor diario de cincuenta a ciento cincuenta Unidades de Medida y Actualización, según las circunstancias del caso.
 
 ### Capítulo X. De la Tramitación del Juicio
 
@@ -658,3 +662,15 @@ Primero. La presente Ley entrará en vigor al día siguiente de su publicación 
 Segundo. Se abroga la Ley número 288 del Juicio de Protección de Derechos Humanos del Estado de Veracruz-Llave (sic).
 
 Tercero. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 532 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión “... salario mínimo”, se entenderán referidas a la Unidad de Medida y Actualización que deberá ser utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes del Estado de Veracruz de Ignacio de la Llave, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
