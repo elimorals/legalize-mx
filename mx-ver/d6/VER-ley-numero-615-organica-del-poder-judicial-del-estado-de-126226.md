@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-615-organica-del-poder-judicial-del-estado-de-126226
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-08"
-last_updated: "2019-03-20"
+last_updated: "2020-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 615 ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el jueves 8 de febrero de 2018.
 
@@ -1479,7 +1479,9 @@ XXXII. Remitir a los presidentes de los Tribunales del Poder Judicial las solici
 
 XXXIII. Tener bajo su cuidado el Archivo Judicial, para el resguardo de los expedientes que provengan de los Tribunales del Poder Judicial, relativos a procesos concluidos y demás documentos que se reciban y deban archivarse; así como la integración y conservación del acervo de la Biblioteca del Poder Judicial;
 
-XXXIV. Previa garantía de audiencia, imponer multa de veinte a cien días de Salario Mínimo General vigente en la capital del Estado a quien denueste a un servidor público del Poder Judicial, en cualquier promoción que presente ante el Consejo de la Judicatura;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+XXXIV. Previa garantía de audiencia, imponer multa del valor diario de veinte a cien Unidades de Medida y Actualización vigente a quien denueste a un servidor público del Poder Judicial, en cualquier promoción que presente ante el Consejo de la Judicatura;
 
 XXXV. Aceptar donaciones o legados puros y simples en favor de los órganos del Poder Judicial, previo análisis de su licitud;
 
@@ -2267,7 +2269,9 @@ Se levantará acta circunstanciada de todas las diligencias que se practiquen, t
 
 De ser fundada la denuncia, se procederá a imponer las sanciones correspondientes.
 
-Cuando la queja resulte infundada, por haberse conducido con temeridad, mala fe, sin causa justificada, o sin prueba, se impondrá a los promoventes una multa hasta por el equivalente a cien días del Salario Mínimo General vigente en la capital del Estado, que se hará efectiva a través de la Oficina de Hacienda del Estado, sin perjuicio de que, de estimarse pertinente, se dé vista con lo actuado al Fiscal, para el ejercicio de sus funciones. El importe de la multa ingresará al Fondo Auxiliar para la Impartición de Justicia.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+Cuando la queja resulte infundada, por haberse conducido con temeridad, mala fe, sin causa justificada, o sin prueba, se impondrá a los promoventes una multa hasta por el equivalente al valor diario de cien Unidades de Medida y Actualización vigente, que se hará efectiva a través de la Oficina de Hacienda del Estado, sin perjuicio de que, de estimarse pertinente, se dé vista con lo actuado al Fiscal, para el ejercicio de sus funciones.
 
 ###### Artículo 171.
 
@@ -2726,3 +2730,15 @@ G.O. 20 DE MARZO DE 2019.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 532 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión " ... salario mínimo", se entenderán referidas a la Unidad de Medida y Actualización que deberá ser utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes del Estado de Veracruz de Ignacio de la Llave, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
