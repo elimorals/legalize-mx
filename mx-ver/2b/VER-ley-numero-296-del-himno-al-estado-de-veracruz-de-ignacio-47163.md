@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-296-del-himno-al-estado-de-veracruz-de-ignacio-47163
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2005-12-02"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47163&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL HIMNO AL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 2 de diciembre de 2005.
 
@@ -155,11 +155,11 @@ La Secretaría de Educación y Cultura del Estado definirá y dictará las medid
 
 La letra y música del Himno, serán autenticadas con su firma, por el Gobernador del Estado, el Presidente del H. Congreso del Estado y el Presidente del Tribunal Superior de Justicia del Estado, y se depositarán en el Archivo Histórico y en la Biblioteca Pública Central del Estado.
 
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 13.
 
-Las contravenciones a la presente Ley que no constituyan delito conforme a lo previsto en el Código Penal para el Estado, pero que impliquen desacato o falta de respeto al Himno al Estado de Veracruz de Ignacio de la Llave, se castigarán, según su gravedad y la condición del infractor, con multa hasta por el equivalente a doscientos ochenta y cinco días de salario mínimo de la zona económica de Xalapa, Veracruz.
-
-Si la infracción se comete con fines de lucro, la multa podrá imponerse hasta por el equivalente a mil días del salario mínimo referido.
+Las contravenciones a la presente Ley que no constituyan delito conforme a lo previsto en el Código Penal para el Estado, pero que impliquen desacato o falta de respeto al Himno al Estado de Veracruz de Ignacio de la Llave, se castigarán, según su gravedad y la condición del infractor, con multa hasta por el equivalente al valor diario de doscientas ochenta y cinco Unidades de Medida y Actualización. Si la infracción se comete con fines de lucro, la multa podrá imponerse hasta por el equivalente al valor diario de mil Unidades de Medida y Actualización.
 
 ## TRANSITORIOS
 
@@ -180,3 +180,17 @@ Atentamente
 "Sufragio efectivo. No reelección"
 
 Licenciado Fidel Herrera Beltrán, Gobernador del Estado.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 532 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión “... salario mínimo”, se entenderán referidas a la Unidad de Medida y Actualización que deberá ser utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes del Estado de Veracruz de Ignacio de la Llave, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
