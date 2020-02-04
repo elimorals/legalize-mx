@@ -4,7 +4,7 @@ identifier: "VER-ley-ganadera-para-el-estado-de-veracruz-de-ignacio-de-la-6767"
 country: "mx"
 rank: "ley"
 publication_date: "1979-05-22"
-last_updated: "2018-05-28"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY GANADERA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz Ignacio de la Llave, el martes 22 de mayo de 1979.
 
@@ -63,9 +63,11 @@ II.- Ganadero es toda persona física o moral que siendo propietaria de animales
 
 III.- Productor especializado es el que siendo o no criador, dedica sus animales o los que adquiere al aprovechamiento de sus productos o sus derivados, sometiéndolos a un proceso técnico-industrial.
 
-> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 1992)</small>
+IV.- (DEROGADA, G.O. 4 DE FEBRERO DE 2020)
 
-IV.- Salario mínimo, es el equivalente a un día del salario mínimo general que esté vigente en la capital del Estado.
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+V.- Unidad de Medida y Actualización, que se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en la presente Ley.
 
 ###### ARTICULO 4°.
 
@@ -79,11 +81,11 @@ Las organizaciones ganaderas señaladas tendrán la obligación de vigilar que s
 
 Quienes no pertenezcan a una asociación ganadera, al hacer la manifestación no tendrán obligación de expresar número de credencial ni de registro.
 
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 6°.
 
-Las infracciones a lo dispuesto por el artículo anterior, serán sancionadas con una multa hasta de cinco salarios mínimos, que ingresará por mitad a la Tesorería del Municipio que corresponda y a la Secretaría de Finanzas y Planeación del Estado.
+Las infracciones a lo dispuesto por el artículo anterior, serán sancionadas con una multa hasta de cinco Unidades de Medida y Actualización, que ingresará por mitad a la Tesorería del Municipio que corresponda y a la Secretaría de Finanzas y Planeación del Estado.
 
 ### CAPITULO SEGUNDO. DEL FOMENTO A LA GANADERIA
 
@@ -197,11 +199,11 @@ La quema de pastos, praderas o montes será sancionada de acuerdo con lo dispues
 
 Los propietarios o poseedores de terrenos tendrán la obligación de cercar su propiedad y conservar sus cercas en buen estado. Éstas constarán como mínimo de tres hilos de alambre de púas o de cualquier otro tipo, debiendo emplearse de preferencia en la construcción de las mismas los árboles maderables que se consideren más útiles y mejor adaptables. La construcción o conservación de las cercas en terrenos colindantes debe costearse por partes iguales por los propietarios o poseedores, quienes además deberán abrir guardarrayas, las cuales deberán mantener limpias de pasto y maleza en un área mínima de dos metros de ancho en los linderos de sus predios.
 
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 26.
 
-La desobediencia a lo ordenado en el artículo anterior se sancionará por la autoridad municipal con multa hasta de diez salarios mínimos, sin perjuicio de que se cumpla lo dispuesto en el precepto señalado.
+La desobediencia a lo ordenado en el artículo anterior se sancionará por la autoridad municipal con multa hasta de diez Unidades de Medida y Actualización, sin perjuicio de que se cumpla lo dispuesto en el precepto señalado.
 
 ### CAPITULO QUINTO. PROPIEDAD, MARCAS Y SEÑALES DEL GANADO
 
@@ -267,11 +269,11 @@ Cuando el criador utilice alguna marca de fuego, además del fierro, éste deber
 
 La Dirección General de Ganadería autorizará una gráfica para el señalamiento del ganado, que figurará como apéndice de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 34.
 
-La infracción a lo dispuesto en el artículo anterior será sancionada con multa hasta de quince salarios mínimos por cada animal por la autoridad municipal correspondiente, con la intervención de la Dirección General de Ganadería. Dicha cantidad ingresará al erario municipal.
+La infracción a lo dispuesto en el artículo anterior será sancionada con multa hasta de quince Unidades de Medida y Actualización por cada animal por la autoridad municipal correspondiente, con la intervención de la Dirección General de Ganadería. Dicha cantidad ingresará al erario municipal.
 
 Es obligación de los Inspectores de Ganadería vigilar el cumplimiento de lo dispuesto en este Capítulo.
 
@@ -279,19 +281,19 @@ Es obligación de los Inspectores de Ganadería vigilar el cumplimiento de lo di
 
 Cuando la persona deje la actividad ganadera o bien no use el fierro, marca, señal, tatuaje o arete que tenga registrada, por estar utilizando otro, promoverá la cancelación del registro de aquél, dentro del término de un mes, contado a partir de la fecha en que deje de hacer uso del mismo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 36.
 
-El incumplimiento a lo dispuesto en el artículo anterior, se sancionará con multa hasta de cinco salarios mínimos y la autoridad municipal procederá a fijar avisos comunicando a quien se interese, que el fierro, marca, señal, tatuaje o arete de que se trata, se cancelará en caso de que no haya oposición en un término de veinte días contados a partir de la fecha de la fijación de los avisos respectivos.
+El incumplimiento a lo dispuesto en el artículo anterior, se sancionará con multa hasta de cinco Unidades de Medida y Actualización y la autoridad municipal procederá a fijar avisos comunicando a quien se interese, que el fierro, marca, señal, tatuaje o arete de que se trata, se cancelará en caso de que no haya oposición en un término de veinte días contados a partir de la fecha de la fijación de los avisos respectivos.
 
 Vencido el plazo anterior y si no hubiere oposición, se declarará cancelado el fierro, marca, señal, tatuaje o arete y cualquiera persona que se interese, podrá pedir el derecho de usarlo en los términos de los artículos 27 y 28 de la presente Ley.
 
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 37.
 
-El uso de marcas no registradas será sancionado por la autoridad municipal con multa hasta de cinco salarios mínimos, debiendo el interesado promover desde luego, el registro correspondiente.
+El uso de marcas no registradas será sancionado por la autoridad municipal con multa hasta de cinco Unidades de Medida y Actualización, debiendo el interesado promover desde luego, el registro correspondiente.
 
 ###### ARTICULO 38.
 
@@ -301,11 +303,11 @@ La Dirección General de Ganadería llevará un registro general de fierros, mar
 
 El Estado y cada uno de los Municipios en materia de propiedad, marcas y señales de ganado, se sujetarán a las disposiciones de esta Ley.
 
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 40.
 
-Queda prohibido herrar con plancha llana, alambre, gancho, argolla o fierro corrido, así como la amputación de las orejas en que se corte más de la mitad. Quien contravenga esta disposición será sancionado por la autoridad municipal con multa hasta de diez salarios mínimos, cuyo importe se repartirá equitativamente entre el Municipio y el Estado. La autoridad municipal consignará el caso a las autoridades competentes, cuando el hecho en sí constituya delito.
+Queda prohibido herrar con plancha llana, alambre, gancho, argolla o fierro corrido, así como la amputación de las orejas en que se corte más de la mitad. Quien contravenga esta disposición será sancionado por la autoridad municipal con multa hasta de diez Unidades de Medida y Actualización, cuyo importe se repartirá equitativamente entre el Municipio y el Estado. La autoridad municipal consignará el caso a las autoridades competentes, cuando el hecho en sí constituya delito.
 
 > <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
 
@@ -529,27 +531,27 @@ Para tramitar Guías de Tránsito, las asociaciones ganaderas deberán cumplir c
 
 El ganado que transite sin estar amparado con la documentación que señala el artículo 70 de esta Ley será detenido por las autoridades competentes con la intervención de las Asociaciones Ganaderas respectivas; a efecto de las investigaciones, se le concederá al conductor o propietario un término de cuarenta y ocho horas para acreditar la propiedad, posesión o gestionar la guía de tránsito correspondiente, de no cumplir esta disposición, se turnará el hecho al Ministerio Público, para el ejercicio de sus funciones.
 
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 73.
 
-En el caso del artículo anterior, si el conductor de ganado comprobara posteriormente la legítima procedencia de los animales, podrá continuar su ruta una vez que se provea de la documentación necesaria y previo pago de una multa al Ayuntamiento respectivo hasta de cinco salarios mínimos por la falta de presentación oportuna de dichos documentos, sin perjuicio de las responsabilidades fiscales por la omisión en el pago de los impuestos estatales y municipales.
+En el caso del artículo anterior, si el conductor de ganado comprobara posteriormente la legítima procedencia de los animales, podrá continuar su ruta una vez que se provea de la documentación necesaria y previo pago de una multa al Ayuntamiento respectivo hasta de cinco Unidades de Medida y Actualización por la falta de presentación oportuna de dichos documentos, sin perjuicio de las responsabilidades fiscales por la omisión en el pago de los impuestos estatales y municipales.
 
-> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 74.
 
-Queda estrictamente prohibido transitar con ganado en la noche, sin autorización expresa y por escrito del Inspector Local o de la autoridad municipal; con excepción de ganado bovino o equino que haya participado o vaya a participar en alguna competencia o deporte, siempre y cuando lo demuestre fehacientemente con la documentación correspondiente. La autorización deberá constar en la Guía de Tránsito. La infracción a este precepto se sancionará con multa de cincuenta salarios mínimos, que ingresará al erario del Municipio en donde se compruebe la infracción, debiendo imponerla el Supervisor o el Inspector Local, y a falta de ellos la autoridad municipal.
+Queda estrictamente prohibido transitar con ganado en la noche, sin autorización expresa y por escrito del Inspector Local o de la autoridad municipal; con excepción de ganado bovino o equino que haya participado o vaya a participar en alguna competencia o deporte, siempre y cuando lo demuestre fehacientemente con la documentación correspondiente. La autorización deberá constar en la Guía de Tránsito. La infracción a este precepto se sancionará con multa de hasta cincuenta Unidades de Medida y Actualización, que ingresará al erario del Municipio en donde se compruebe la infracción, debiendo imponerla el Supervisor o el Inspector Local, y a falta de ellos la autoridad municipal.
 
 ###### ARTICULO 75.
 
 El tránsito de pieles deberá ampararse con la Guía de Tránsito en los mismos términos de los artículos anteriores.
 
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 76.
 
-Quienes transporten ganado, cualquier producto o suproduccto (sic) del mismo, deberán informar mensualmente a la Presidencia Municipal del lugar de donde partan, sobre los movimientos habidos. Quien no cumpla esta disposición será sancionado con una multa hasta de cinco salarios mínimos, que ingresará al erario municipal y que podrá ser impuesta por la autoridad municipal o por la Dirección General de Ganadería.
+Quienes transporten ganado, cualquier producto o subproduccto del mismo, deberán informar mensualmente a la Presidencia Municipal del lugar de donde partan, sobre los movimientos habidos. Quien no cumpla esta disposición será sancionado con una multa hasta de cinco Unidades de Medida y Actualización, que ingresará al erario municipal y que podrá ser impuesta por la autoridad municipal o por la Dirección General de Ganadería.
 
 ###### ARTICULO 77.
 
@@ -581,17 +583,17 @@ Todo ganado en movilización podrá usar el agua que encuentre en su trayecto, y
 
 Los dueños o encargados de ganado serán los responsables de vigilar los animales para impedir daños en predios ajenos y evitar el cruzamiento con el de los vecinos; debiendo entregar a las autoridades municipales, con aviso a la Asociación Ganadera respectiva, el ganado ajeno que aparezca en sus potreros.
 
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 84.
 
-En el caso de la parte final del artículo anterior, la autoridad municipal requerirá al dueño o encargado de los animales para que los retire inmediatamente, sin perjuicio de exigirle que pague diariamente al poseedor del terreno un salario mínimo por cada cabeza de ganado mayor o menor, desde el día en que se hubiere introducido. Si el dueño o encargado no atendiere esta orden después de diez días del aviso, los animales quedarán a disposición de la autoridad municipal y serán considerados como mostrencos, procediéndose a su venta en los términos de esta Ley, con objeto de cubrir el importe de los perjuicios que se hubieren causado.
+En el caso de la parte final del artículo anterior, la autoridad municipal requerirá al dueño o encargado de los animales para que los retire inmediatamente, sin perjuicio de exigirle que pague diariamente al poseedor del terreno una Unidad de Medida y Actualización por cada cabeza de ganado mayor o menor, desde el día en que se hubiere introducido. Si el dueño o encargado no atendiere esta orden después de diez días del aviso, los animales quedarán a disposición de la autoridad municipal y serán considerados como mostrencos, procediéndose a su venta en los términos de esta Ley, con objeto de cubrir el importe de los perjuicios que se hubieren causado.
 
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 85.
 
-En caso de reincidencia se impondrá al infractor una multa hasta de diez salarios mínimos, que ingresará al fisco municipal.
+En caso de reincidencia se impondrá al infractor una multa hasta de diez Unidades de Medida y Actualización, que ingresará al fisco municipal.
 
 ### CAPITULO NOVENO. ABASTO PUBLICO Y VENTA DE LOS PRODUCTOS ANIMALES
 
@@ -675,11 +677,11 @@ Sin perjuicio de la denuncia y aún antes de que las autoridades hayan interveni
 
 El mismo aislamiento se llevará a cabo con los animales muertos que se suponga de enfermedades transmisibles debiendo sus despojos ser enterrados o incinerados inmediatamente, dando aviso a las autoridades sanitarias.
 
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 102.
 
-Toda persona que venda, compre, regale, acepte, recoja o lleve a cabo cualquier operación o contrato con el despojo de algún animal muerto a causa de alguna enfermedad infecto-contagiosa, previo dictamen de un médico veterinario zootecnista, será sancionado por la autoridad municipal con multa hasta de cincuenta salarios mínimos, duplicándose la misma en caso de reincidencia.
+Toda persona que venda, compre, regale, acepte, recoja o lleve a cabo cualquier operación o contrato con el despojo de algún animal muerto a causa de alguna enfermedad infecto-contagiosa, previo dictamen de un médico veterinario zootecnista, será sancionado por la autoridad municipal con multa hasta de cincuenta Unidades de Medida y Actualización, duplicándose la misma en caso de reincidencia.
 
 ###### ARTICULO 103.
 
@@ -745,11 +747,11 @@ El costo de vacunación y pruebas para prevenir o controlar las enfermedades, se
 
 Se declara de utilidad pública e interés social y por tanto obligatoria, la campaña contra la garrapata en todo el territorio estatal, quedando sujeta a las disposiciones legales de la materia.
 
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 114.
 
-A las personas que violen alguna de las disposiciones a que se refiere este capítulo, se les impondrá una sanción de quince días a seis meses de prisión y multa hasta de diez salarios mínimos. La reincidencia se sancionará con prisión de seis meses a dos años y multa hasta de veinte salarios mínimos; observándose en ambos casos las disposiciones contenidas en el Código Penal y en el Código de Procedimientos Penales para el Estado de Veracruz.
+A las personas que violen alguna de las disposiciones a que se refiere este capítulo, se les impondrá una sanción de quince días a seis meses de prisión y multa hasta de diez Unidades de Medida y Actualización. La reincidencia se sancionará con prisión de seis meses a dos años y multa hasta de veinte Unidades de Medida y Actualización; observándose en ambos casos las disposiciones contenidas en el Código Penal y en el Código de Procedimientos Penales para el Estado de Veracruz.
 
 ### CAPITULO DECIMO PRIMERO. ORGANIZACIONES GANADERAS
 
@@ -948,3 +950,15 @@ G.O. 28 DE MAYO DE 2018.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 532 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión “... salario mínimo”, se entenderán referidas a la Unidad de Medida y Actualización que deberá ser utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes del Estado de Veracruz de Ignacio de la Llave, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
