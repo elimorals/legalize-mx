@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-876-de-proteccion-a-los-animales-para-el-estado-7746
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-05"
-last_updated: "2018-08-23"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 876 DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el viernes 5 de noviembre de 2010.
 
@@ -1029,9 +1029,9 @@ Las sanciones aplicables a las infracciones previstas en la presente Ley podrán
 
 I. Amonestación;
 
-> <small>(REFORMADA, G.O. 21 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
 
-II. Multa, de diez a cinco mil días de salario;
+II. Multa, del valor diario de diez a cinco mil Unidades de Medida y Actualización;
 
 III. Arresto administrativo de hasta por treinta y seis horas;
 
@@ -1063,7 +1063,9 @@ En el caso de que las infracciones hayan sido cometidas por personas que ejerzan
 
 De manera adicional a las sanciones por las infracciones señaladas en el artículo que antecede, así como en el párrafo primero de este artículo, la Secretaría podrá aplicar las demás previstas en el artículo 71 de esta Ley, cuando así resulte procedente conforme a la motivación de su resolución.
 
-En los casos de violación a cualquier otra disposición contenida en esta Ley, que entrañe maltrato a un animal, se aplicará multa de cien a quinientas veces el salario mínimo general diario vigente en la capital del Estado; la Secretaría, de manera adicional, podrá aplicar las demás sanciones previstas en el artículo 71 de esta ley, atendiendo a la gravedad de la infracción.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+En los casos de violación a cualquier otra disposición contenida en esta Ley, que entrañe maltrato a un animal, se aplicará multa de cien a quinientas veces la Unidad de Medida y Actualización vigente; la Secretaría, de manera adicional, podrá aplicar las demás sanciones previstas en el artículo 71 de esta ley, atendiendo a la gravedad de la infracción.
 
 > <small>(REFORMADO, G.O. 10 DE NOVIEMBRE DE 2016)</small>
 
@@ -1071,9 +1073,11 @@ En los casos de violación a cualquier otra disposición contenida en esta Ley, 
 
 En los casos de animales víctimas de maltrato decomisados, animales sin dueño y aquellos que estando en observación por sospecha de rabia y una vez diagnosticados sanos no sean reclamados por sus dueños, la Secretaría de Salud los canalizará en su caso a santuarios públicos debidamente establecidos. En el caso de animales domésticos, serán enviados a los centros de salud animal o refugios administrados por asociaciones protectoras de animales que cuenten con los recursos suficientes, debidamente acreditadas, a fin de promover su adopción.
 
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 75.
 
-En el caso de que las infracciones hayan sido cometidas por personas que ejerzan cargos de dirección en instituciones científicas o directamente vinculadas con la explotación y cuidado de los animales víctimas de maltrato, o se trate de propietarios de vehículos exclusivamente destinados al transporte de éstos, la multa será de cinco mil a diez mil días de salario mínimo vigente en la capital del Estado, sin perjuicio de las demás sanciones que procedan.
+En el caso de que las infracciones hayan sido cometidas por personas que ejerzan cargos de dirección en instituciones científicas o directamente vinculadas con la explotación y cuidado de los animales víctimas de maltrato, o se trate de propietarios de vehículos exclusivamente destinados al transporte de éstos, la multa será del valor diario de cinco mil a diez mil Unidades de Medida y Actualización vigente, sin perjuicio de las demás sanciones que procedan.
 
 ###### Artículo 76.
 
@@ -1164,3 +1168,15 @@ G.O. 23 DE AGOSTO DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 532 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión “... salario mínimo”, se entenderán referidas a la Unidad de Medida y Actualización que deberá ser utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes del Estado de Veracruz de Ignacio de la Llave, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
