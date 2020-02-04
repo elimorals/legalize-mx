@@ -4,7 +4,7 @@ identifier: "VER-ley-de-fomento-al-empleo-del-estado-de-veracruz-de-ignacio-8770
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-09"
-last_updated: "2018-09-11"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 549 DE FOMENTO AL EMPLEO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Veracruz, el miércoles 9 de mayo de 2012.
 
@@ -183,9 +183,11 @@ III. No mantener a disposición de las autoridades competentes la información r
 
 Cuando se cometa alguna de las infracciones a que se refiere el artículo anterior, se perderán los beneficios otorgados en la presente Ley respecto de todos los trabajadores de reciente ingreso que se hubieren contratado con apego a la misma, desde el momento en que quede firme la determinación de la infracción por la Secretaría.
 
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 11.
 
-Al patrón que incurra en alguna de las infracciones referidas en el artículo 9, se le aplicará una multa de hasta 200 salarios mínimos generales vigentes en la zona del Estado donde se haya dado la contratación.
+Al patrón que incurra en alguna de las infracciones referidas en el artículo 9, se le aplicará una multa de hasta 200 Unidades de Medida y Actualización vigente.
 
 ## TRANSITORIOS
 
@@ -236,3 +238,15 @@ G.O. 11 DE SEPTIEMBRE DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se deroga cualquier disposición que contravenga al presente Decreto.
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 532 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "... salario mínimo", se entenderán referidas a la Unidad de Medida y Actualización que deberá ser utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes del Estado de Veracruz de Ignacio de la Llave, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
