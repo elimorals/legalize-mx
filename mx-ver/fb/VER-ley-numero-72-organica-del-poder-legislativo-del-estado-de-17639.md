@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2019-08-20"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -269,7 +269,9 @@ II. Dar la interpretación auténtica de las leyes o decretos;
 
 III. Iniciar ante el Congreso de la Unión las leyes o decretos que sean competencia del Poder Legislativo de la Federación, así como su reforma o abolición, y secundar, cuando lo estime conveniente, las iniciativas que presenten los Congresos de otros Estados;
 
-IV. Legislar en materia de educación; de cultura y deporte; profesiones; bienes, aguas y vías de comunicación de jurisdicción local; de salud y asistencia social; combate al alcoholismo, tabaquismo y drogadicción; de prostitución; de desarrollo social y comunitario; de protección al ambiente y de restauración del equilibrio ecológico; de turismo; de desarrollo regional y urbano; de desarrollo agropecuario, forestal y pesquero; de comunicación social; de municipio libre; de relaciones de trabajo del Gobierno del Estado o los ayuntamientos y sus trabajadores; de responsabilidades de los servidores públicos; de planeación para reglamentar la formulación, instrumentación, control, evaluación y actualización del Plan Veracruzano de Desarrollo, cuidando que la planeación del desarrollo económico y social sea democrática y obligatoria para el poder público; así como expedir las leyes, decretos o acuerdos necesarios al régimen interior y al bienestar del Estado; sin perjuicio de legislar en los demás asuntos de su competencia;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+IV. Legislar en materia de educación; de cultura y deporte; profesiones; bienes, aguas y vías de comunicación de jurisdicción local; de salud y asistencia social; combate al alcoholismo, tabaquismo y drogadicción; de prostitución; de seguridad humana, desarrollo social y comunitario; de protección al ambiente y de restauración del equilibrio ecológico; de turismo; de desarrollo regional y urbano; de desarrollo agropecuario, forestal y pesquero; de comunicación social; de municipio libre; de relaciones de trabajo del Gobierno del Estado o los ayuntamientos y sus trabajadores; de promoción al acceso universal a internet y otras tecnologías de la información y las comunicaciones emergentes; de acceso a la información y protección de datos personales que generen o posean los sujetos obligados; de responsabilidades de los servidores públicos; de planeación para reglamentar la formulación, instrumentación, control, evaluación y actualización del Plan Veracruzano de Desarrollo, cuidando que la planeación del desarrollo económico y social sea democrática y obligatoria para el poder público; así como expedir las leyes, decretos o acuerdos necesarios al régimen interior y al bienestar del Estado; sin perjuicio de legislar en los demás asuntos de su competencia;
 
 V. Darse su Ley Orgánica y la demás normatividad interior necesaria para el adecuado desarrollo de sus funciones, las que no requerirán de la promulgación del Ejecutivo para tener vigencia;
 
@@ -289,13 +291,19 @@ b) La declaración de que éstos han desaparecido; y
 
 c) La suspensión o revocación del mandato a uno o más ediles, previo cumplimiento de la garantía de audiencia, por alguna de las causas previstas por la ley.
 
-X. Designar, con la aprobación de las dos terceras partes de sus integrantes, de entre los vecinos de un municipio, a los que integrarán un concejo municipal, cuando:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 4 DE FEBRERO DE 2020)</small>
 
-a) Se hubiere declarado la desaparición de un ayuntamiento;
+X. Designar, con la aprobación de las dos terceras partes de sus integrantes, de entre los vecinos de un municipio, a los que integrarán un concejo municipal. Éste se conformará con un número de concejales idéntico al de ediles que corresponderían al Ayuntamiento de acuerdo a lo dispuesto en la Ley, en los siguientes casos:
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+a) Se hubiere declarado la creación o desaparición de un Ayuntamiento;
 
 b) Se presentare la renuncia o falta absoluta de la mayoría de los ediles, si conforme a la ley no procediere que entraren en funciones los suplentes; o
 
-c) No se hubiere hecho la calificación correspondiente, el día último del mes de diciembre inmediato a la elección de los ayuntamientos.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+c) No se hubiere hecho la declaración de validez respectiva, el día último del mes de diciembre inmediato a la elección de los ayuntamientos.
 
 XI. Aprobar, por el voto de las dos terceras partes de sus integrantes, previa opinión del o los ayuntamientos interesados y del Gobernador del Estado, conforme a los requisitos que establezca la ley:
 
@@ -321,9 +329,9 @@ XIV. Crear y suprimir congregaciones, autorizar el traslado de un ayuntamiento a
 
 XV. Aprobar, con el voto de las dos terceras partes de sus integrantes:
 
-> <small>(REFORMADO G.O. 21 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
-a) El número de ediles, con base en el Censo General de Población de cada diez años y antes de la elección que corresponda, escuchando la opinión de los Ayuntamientos respectivos;
+a) El número de ediles, con base en el Censo General de Población de cada diez años o, en su caso, el Conteo de Población y Vivienda, antes de la elección que corresponda, escuchando la opinión de los Ayuntamientos respectivos;
 
 b) Los procedimientos de elección de los agentes y subagentes municipales; y
 
@@ -337,9 +345,9 @@ a) La contratación de obras y servicios públicos, cuando produzcan obligacione
 
 b) (DEROGADO, G.O. 29 DE NOVIEMBRE DE 2018)
 
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
-c) La contratación de empréstitos y los anticipos que se les otorguen por concepto de participaciones federales;
+c) Por el voto de las dos terceras partes de sus miembros presentes, los montos máximos para la contratación de empréstitos y obligaciones en las mejores condiciones del mercado, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago;
 
 d) La enajenación, gravamen, transmisión de la posesión o dominio de bienes, participaciones, impuestos, derechos, aprovechamientos, contribuciones o cualquier tipo de ingreso fiscal que forme la hacienda municipal;
 
@@ -365,9 +373,9 @@ XVII. Llevar el registro de la situación patrimonial de los servidores público
 
 XVIII. Con la aprobación de las dos terceras partes de sus miembros presentes, nombrar al titular de la Contraloría General del Instituto Electoral Veracruzano, a propuesta de instituciones públicas de educación superior del Estado, previa convocatoria que para el efecto se emita;
 
-> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
 
-XIX. Nombrar, con la aprobación de las dos terceras partes de sus integrantes, a los magistrados del Poder Judicial y al Presidente de la Comisión Estatal de Derechos Humanos; y con la aprobación de las dos terceras partes de los diputados presentes, a los Comisionados del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales;
+XIX. Nombrar, con la aprobación de las dos terceras partes de sus integrantes, a los magistrados del Poder Judicial, a los magistrados del Tribunal Estatal de Justicia Administrativa y al Presidente de la Comisión Estatal de Derechos Humanos; y con la aprobación de las dos terceras partes de los diputados presentes, a los Comisionados del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales;
 
 > <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2016)</small>
 
@@ -381,6 +389,14 @@ XXIII. Constituirse en Colegio Electoral y elegir al ciudadano que deba sustitui
 
 XXIV. Convocar a elecciones extraordinarias si faltaren a la vez un Diputado propietario y su suplente en el distrito electoral que corresponda, cuando dicha falta suceda antes de un año para que las ordinarias se efectúen;
 
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+XXIV Bis. Llamar, en cualquier momento, cuando se trate de diputados elegidos por el principio de representación proporcional, al siguiente en el orden que corresponda, según las listas presentadas por los partidos políticos, si ocurriere la falta del propietario y del suplente;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+XXIV Ter. Convocar a elecciones extraordinarias de los ayuntamientos en los que se hubiere declarado la nulidad, o no se hubiere hecho la declaración de validez respectiva, el día último del mes de diciembre inmediato a la elección correspondiente. En la convocatoria se fijará la fecha de celebración de las elecciones, se expedirá en un plazo no mayor de 45 días, contado a partir de la declaración de nulidad, si es el caso, y en ella no se podrán restringir los derechos y prerrogativas que la Constitución Federal y las leyes generales aplicables otorgan a los ciudadanos y a los partidos políticos;
+
 XXV. Declarar, en los términos de la Constitución del Estado, si ha lugar o no a proceder contra los servidores públicos que hubieren sido acusados por la comisión de algún delito;
 
 XXVI. Conocer de las imputaciones que se hagan a los servidores públicos que conforme a la Constitución local pueden ser sujetos de juicio político, e instituirse en órgano de acusación en los juicios que contra ellos se instauren;
@@ -389,11 +405,21 @@ XXVII. Fijar anualmente los gastos públicos y decretar las contribuciones con q
 
 XXVIII. Señalar y publicar, al aprobar el presupuesto de egresos, la retribución que corresponda a los empleos públicos establecidos por la ley. En caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido en el presupuesto anterior o en la ley que estableció el empleo.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+Al señalar las remuneraciones de servidores públicos deberá sujetarse a las bases previstas en el artículo 82 de la Constitución Política del Estado.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+Los poderes Legislativo, Ejecutivo y Judicial, así como los organismos autónomos del Estado, deberán incluir, dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone que perciban sus servidores públicos. Estas propuestas deberán observar el mismo procedimiento que para la aprobación del presupuesto de egresos del Estado.
+
 > <small>(REFORMADO, G.O. 9 DE FEBRERO DE 2016)</small>
 
 Este presupuesto considerará igualmente las partidas necesarias para el desarrollo de las funciones de los organismos autónomos de Estado, debiendo éstos rendir cuentas anualmente acerca de su ejercicio al Congreso del Estado, que cuidará que el presupuesto anual de la Comisión Estatal de Derechos Humanos mantenga un carácter progresivo.
 
-Si al 31 de diciembre no se ha aprobado el presupuesto de egresos para el año siguiente, el gasto público a ejercer en dicho período se limitará a cubrir las partidas correspondientes a las remuneraciones de los servidores públicos y al gasto corriente de los servicios de salud, educación, seguridad pública, procuración e impartición de justicia, funcionamiento del Poder Legislativo, así como para los organismos autónomos de Estado, para lo cual se ejercerá en cada mes una doceava parte del último presupuesto aprobado, en tanto se aprueba el nuevo;
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+Si al 31 de diciembre no se ha aprobado el presupuesto de egresos para el año siguiente, el gasto público a ejercer en dicho periodo se limitará a cubrir las partidas correspondientes a las remuneraciones de los servidores públicos y al gasto corriente de los servicios de salud, educación, seguridad pública, procuración e impartición de justicia, funcionamiento del Poder Legislativo, así como para los organismos autónomos de Estado, para lo cual se ejercerá en cada mes una doceava parte del último presupuesto aprobado, en tanto se aprueba el nuevo;
 
 > <small>(REFORMADA, G.O. 20 DE MAYO DE 2019)</small>
 
@@ -407,13 +433,21 @@ Los entes fiscalizables deberán presentar las Cuentas Públicas del año anteri
 
 XXIX BIS. Dictaminar y, en su caso, aprobar y establecer la incoación de la fase de Determinación de Responsabilidades y Fincamiento de Indemnizaciones y Sanciones, a través del Órgano de Fiscalización Superior, de conformidad con lo dispuesto por el artículo 67 fracción III, base 5, inciso c, de la Constitución Política del Estado de Veracruz de Ignacio de la Llave.
 
-XXX. Dar las bases legales para reconocer y mandar pagar los adeudos contraídos por el Poder Ejecutivo, con cargo al crédito del Estado, así como señalar los fondos con que deberán pagarse;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+XXX. Establecer las bases conforme a las cuales el Poder Ejecutivo y los ayuntamientos podrán contraer obligaciones o empréstitos, de conformidad con lo dispuesto por el artículo 117, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos; aprobar dichas obligaciones y empréstitos, así como reconocer y mandar a pagar la deuda del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE FEBRERO DE 2020)</small>
+
+XXX Bis. Autorizar al Poder Ejecutivo y a los ayuntamientos a contratar deuda pública y afectar como garantía, fuente de pago o de cualquier otra forma, los ingresos que les correspondan, en los términos establecidos en las leyes correspondientes;
 
 > <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2004)</small>
 
 XXXI. Autorizar al Ejecutivo del Estado a enajenar, a título oneroso o gratuito, o a conceder el uso y disfrute de bienes de propiedad estatal, en los términos que fije la ley;
 
-XXXII. Revisar y fiscalizar las cuentas y demás documentos que presenten o se soliciten a los organismos autónomos de Estado;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+XXXII. Revisar y fiscalizar las cuentas y demás documentos que presenten o se soliciten a los organismos autónomos de Estado; y recibir la comparecencia de sus titulares con motivo del informe anual de actividades, sobre el estado que guarda su gestión, conforme al formato que establezcan la Ley Orgánica del Poder Legislativo y su respectivo Reglamento;
 
 XXXIII. Conceder al Ejecutivo, por un tiempo limitado y con aprobación de las dos terceras partes de sus integrantes, las facultades extraordinarias que necesite para salvar la situación en caso de alteración del orden o peligro público;
 
@@ -429,9 +463,9 @@ XXXVIII. Reclamar ante la Suprema Corte de Justicia de la Nación cuando alguna 
 
 XXXIX. (DEROGADA, G.O. 3 DE NOVIEMBRE DE 2016)
 
-> <small>(ADICIONADA, G.O. 3 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
 
-XXXIX Bis. Aprobar el Plan Veracruzano de Desarrollo;
+XXXIX Bis. Aprobar el Plan Veracruzano de Desarrollo, y conocer la evaluación que haga el titular del Poder Ejecutivo anualmente de su avance, en los términos de la ley respectiva;
 
 XL. Cambiar su sede, provisionalmente, si para ello existe el acuerdo de las dos terceras partes del total de los Diputados presentes, notificando su determinación a los Poderes Ejecutivo y Judicial;
 
@@ -461,9 +495,33 @@ XLVII. Organizar anualmente, a través de la Comisión Permanente para la Iguald
 
 XLVIII. Realizar investigaciones y estudios referentes a la situación de las mujeres y los hombres en el Estado de Veracruz, a fin de que las leyes u otros ordenamientos legales que expida el Congreso promuevan los Derechos Humanos, la igualdad entre los sexos y mejoren su condición de vida; y
 
-> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
 
-XLIX. Las demás que le confieran la Constitución Federal, la Constitución Local, las leyes del Estado y las que sean necesarias para hacer efectivas sus atribuciones.
+XLIX. Llamar, a solicitud de la Comisión Estatal de Derechos Humanos, a las autoridades o servidores públicos responsables para que comparezcan ante este órgano legislativo, a efecto de que expliquen el motivo de su negativa a aceptar o cumplir las recomendaciones emitidas por dicha Comisión Estatal;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+L. Llevar a cabo actividades preventivas de revisión, análisis, control, evaluación y vigilancia de la correcta y oportuna aplicación de los recursos públicos durante el ejercicio presupuestal en curso de los entes fiscalizables del Estado;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+LI. Designar, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los Organismos Autónomos del Estado que ejerzan recursos del Presupuesto de Egresos, previa convocatoria que se emita;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+LII. Expedir las leyes que instituyan el Tribunal Estatal de Justicia Administrativa del Estado de Veracruz y que regulen su organización, funcionamiento, procedimientos y recursos contra sus resoluciones;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+LIII. Expedir la legislación en materia local anticorrupción, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y las leyes generales en la materia, con objeto de coordinarse para la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+LIV. Designar y remover al Fiscal General del Estado, de conformidad con lo previsto en el artículo 67 fracción I inciso d) de la Constitución Política Local, y
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+LV. Las demás que le confieren la Constitución Federal, la Constitución Política Local y las que sean necesarias para hacer efectivas sus atribuciones.
 
 > <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2011)</small>
 
@@ -939,6 +997,10 @@ VIII. Autorizar, con el voto de las dos terceras partes de los Diputados present
 
 IX. Convocar a elecciones extraordinarias, si faltaren a la vez un Diputado propietario y su suplente en el distrito electoral que corresponda, cuando dicha falta ocurra antes de un año para que las elecciones ordinarias se efectúen;
 
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+IX Bis. Llamar, en cualquier momento, cuando se trate de diputados elegidos por el principio de representación proporcional, al siguiente en el orden que corresponda, según las listas presentadas por los partidos políticos, si ocurriere la falta del propietario y del suplente;
+
 X. Designar provisionalmente a quien sustituya al Consejero de la Judicatura que hubiere designado el Congreso, y resolver, en su caso, sobre la renuncia que presente dicho servidor público, informando al Congreso en la primera sesión que lleve al cabo tras concluir el receso;
 
 > <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
@@ -1017,9 +1079,17 @@ IV. Al Tribunal Superior de Justicia, en todo lo relacionado con la organizació
 
 V. A los ayuntamientos o concejos municipales, en lo relativo a sus localidades y sobre los ramos que administren;
 
-VI. A los organismos autónomos de Estado, en lo relativo a la materia de su competencia; y
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
 
-VII. A los ciudadanos del Estado, mediante iniciativa popular, en los términos que establezca la ley.
+VI. A los organismos autónomos de Estado, en lo relativo a la materia de su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE FEBRERO DE 2020)</small>
+
+VII. A la Universidad Veracruzana, en todo lo relacionado a su autonomía, organización y funcionamiento; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 4 DE FEBRERO DE 2020)</small>
+
+VIII. A los ciudadanos del Estado, en un número equivalente, por lo menos, al cero punto trece por ciento de la lista nominal de electores, mediante iniciativa ciudadana, en los términos que señale la ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE OCTUBRE DE 2004)</small>
 
@@ -1041,13 +1111,19 @@ Aprobada la ley o decreto, se turnará al Titular del Poder Ejecutivo para su pr
 
 En el caso de urgencia u obviedad, calificado por el voto de las dos terceras partes de los Diputados presentes, o cuando esté por terminar algún período de sesiones, el Congreso podrá dispensar los trámites reglamentarios.
 
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 50.
 
-Se considerará aprobado por el Ejecutivo la ley o decreto no devuelto con observaciones al Congreso dentro de diez días hábiles de su recepción, a no ser que corriendo dicho plazo, éste hubiere cerrado o suspendido sus sesiones, en cuyo caso la devolución deberá hacerse el primer día en que vuelva a estar reunido.
+Se considerará aprobado por el Ejecutivo la Ley o Decreto no devuelto con observaciones totales o parciales al Congreso dentro de los diez días hábiles siguientes a su recepción.
 
-La ley o decreto devuelto con observaciones que en todo o en parte se le hayan formulado, será discutido de nueva cuenta en el Congreso. En este debate también podrá intervenir el Gobernador del Estado o quien él designe, para motivar y fundar las observaciones y responder a las cuestiones que sobre el particular formulen los Diputados. Si la ley o el decreto son confirmados por el voto de las dos terceras partes de los Diputados presentes, será reenviado al Ejecutivo para promulgación y publicación.
+Al término de este plazo, si no hubiera observaciones, el Ejecutivo deberá mandar a publicar la ley o decreto dentro de los tres días hábiles siguientes. Transcurrido este segundo plazo, la ley o decreto será considerado promulgado y el Presidente del Congreso ordenará inmediatamente su publicación en la Gaceta Oficial, y si ésta no se realizare por responsabilidad del servidor público titular de ese órgano de difusión, éste será sancionado conforme al procedimiento establecido en la ley.
 
-Una vez cumplidos el plazo y las formalidades del proceso legislativo, si el Ejecutivo no ordenare la publicación de la ley o decreto aprobado, el Congreso podrá mandar publicarla directamente en la Gaceta Oficial del Estado.
+Los plazos a que se refiere el párrafo anterior no se interrumpirán si el Congreso hubiere cerrado o suspendido sus sesiones, en cuyo caso la devolución deberá hacerse a la Diputación Permanente.
+
+La Ley o Decreto devuelto con observaciones formuladas por el Ejecutivo será discutido nuevamente por el Congreso en un plazo no mayor a quince días, contado a partir de su recepción. En este debate podrá intervenir el Gobernador del Estado o quien él designe, para motivar y fundar las observaciones y responder a las cuestiones que sobre el particular formulen los diputados. Si la Ley o el Decreto son confirmados por el voto de las dos terceras partes de los diputados presentes, será reenviado al Ejecutivo para su promulgación y publicación.
+
+Si las observaciones del Ejecutivo contuvieran una propuesta modificatoria a la Ley o Decreto, el Congreso podrá aprobarla con la misma votación señalada en el párrafo anterior.
 
 ###### Artículo 51.
 
@@ -1886,3 +1962,11 @@ G.O. 20 DE AGOSTO DE 2019.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 530 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
