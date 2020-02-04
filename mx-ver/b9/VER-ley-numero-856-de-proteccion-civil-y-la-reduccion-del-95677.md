@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-856-de-proteccion-civil-y-la-reduccion-del-95677"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-01"
-last_updated: "2019-08-14"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 856 DE PROTECCIÓN CIVIL Y LA REDUCCIÓN DEL RIESGO DE DESASTRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 1 de agosto de 2013.
 
@@ -1369,7 +1369,9 @@ I. Apercibimiento;
 
 II. Amonestación;
 
-III. Multa de cien a cinco mil días de salario mínimo vigente en la capital del Estado; y
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+III. Multa del valor diario de cien a cinco mil Unidades de Medida y Actualización vigente; y
 
 IV. Auxilio de la fuerza pública, en los casos en los que se obstaculice el acceso a sitios donde se pretenda realizar alguna diligencia en materia de protección civil.
 
@@ -1393,7 +1395,9 @@ I. Suspensión de actividades o de eventos masivos o, tratándose de Terceros Ac
 
 II. Clausura temporal o definitiva, total o parcial, de las instalaciones, construcciones, obras o servicios; y
 
-III. Multa de cien a mil días de salario mínimo vigente en la capital del Estado.
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+III. Multa del valor diario de cien a mil Unidades de Medida y Actualización vigente.
 
 ###### Artículo 105.
 
@@ -1401,9 +1405,11 @@ Para la imposición de sanciones, se deberá atender a la gravedad de la infracc
 
 La imposición de sanciones se hará independientemente de la obligación del infractor de corregir las irregularidades que la hubieren motivado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 106.
 
-Se considera como delito grave y se sancionará con prisión de tres a diez años y multa de mil a cinco mil días de salario mínimo vigente en la capital del Estado a quien:
+Se considera como delito grave y se sancionará con prisión de tres a diez años y multa del valor diario de mil a cinco mil Unidades de Medida y Actualización vigente a quien:
 
 I. Construya, edifique o realice obras de infraestructura o promueva asentamientos humanos en zonas de riesgo;
 
@@ -1558,3 +1564,15 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se establece un plazo de noventa días naturales para que la Secretaría de Protección Civil expida los Lineamientos para la Atención y Rescate Acuático.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 532 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión “... salario mínimo”, se entenderán referidas a la Unidad de Medida y Actualización que deberá ser utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes del Estado de Veracruz de Ignacio de la Llave, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
