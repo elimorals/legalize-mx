@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-307-de-extincion-de-dominio-para-el-estado-de-103800
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-28"
-last_updated: "2014-11-28"
+last_updated: "2020-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 307 DE EXTINCION DE DOMINIO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO POR LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO PUBLICADA EN EL D.O.F. DE 9 DE AGOSTO DE 2019, DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO.- EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN. SEGUNDO.- A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, SE ABROGA LA LEY FEDERAL DE EXTINCIÓN DE DOMINIO, REGLAMENTARIA DEL ARTÍCULO 22 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, ASÍ COMO LAS LEYES DE EXTINCIÓN DE DOMINIO DE LAS ENTIDADES FEDERATIVAS, Y SE DEROGAN TODAS LAS DISPOSICIONES LEGALES, REGLAMENTARIAS Y ADMINISTRATIVAS, QUE SE OPONGAN A LO DISPUESTO EN EL PRESENTE DECRETO. TERCERO.- EN UN PLAZO QUE NO EXCEDERÁ DE CIENTO OCHENTA DÍAS CONTADOS A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, LAS LEGISLATURAS DE LAS ENTIDADES FEDERATIVAS DEBERÁN ARMONIZAR SU LEGISLACIÓN RESPECTIVA CON EL PRESENTE DECRETO.]</small>
+
 LEY NÚMERO 307 DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
 
 AL MARGEN UN SELLO QUE DICE: ESTADOS UNIDOS MEXICANOS.- GOBERNADOR DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
@@ -371,7 +373,9 @@ Las audiencias deberán celebrarse de forma oral bajo los principios de inmediac
 
 Las audiencias serán conducidas por el Juez, quien la presidirá en su integridad y se desarrollará oralmente; serán públicas, salvo que, por razones de seguridad del tribunal o de los intervinientes, el juez determine que se efectúen a puerta cerrada; y se llevarán a cabo con o sin la asistencia de las partes. Quien injustificadamente, a criterio del Juez, no acuda a las audiencias, será sancionado con multa de treinta a cien días de salario mínimo general vigente en la capital del Estado, con la posibilidad de diferir por ausencia solo en dos ocasiones; si continua la ausencia se tendrán por desistidos de la acción que representen.
 
-En el desahogo de las pruebas en la audiencia de juicio, los testigos y los peritos deberán declarar de viva voz al tenor de los interrogatorios y contrainterrogatorios que se les formulen.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+Las audiencias serán conducidas por el Juez, quien las presidirá en su integridad y se desarrollarán oralmente; serán públicas, salvo que, por razones de seguridad del tribunal o de los intervinientes, el juez determine que se efectúen a puerta cerrada; y se llevarán a cabo con o sin la asistencia de las partes. Quien injustificadamente, a criterio del Juez, no acuda a las audiencias, será sancionado con multa del valor diario de 30 a 100 Unidades de Medida y Actualización vigente, con la posibilidad de diferir por ausencia sólo en dos ocasiones; si continúa la ausencia se tendrán por desistidos de la acción que representen.
 
 ###### Artículo 29.
 
@@ -770,3 +774,17 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 532 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión “... salario mínimo”, se entenderán referidas a la Unidad de Medida y Actualización que deberá ser utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes del Estado de Veracruz de Ignacio de la Llave, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
