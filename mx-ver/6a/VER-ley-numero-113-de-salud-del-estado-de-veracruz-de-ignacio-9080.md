@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2018-12-21"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -137,9 +137,9 @@ XVII.- La asistencia social.
 
 XVIII.- Participar con las autoridades federales en el desarrollo de los programas contra el alcoholismo, el tabaquismo y la drogadicción.
 
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
 
-XVIII Bis.- La Protección Social en Salud.
+XVIII Bis.- Proporcionar en forma gratuita la prestación de servicios públicos de salud, medicamentos y demás insumos asociados, conforme a los convenios de coordinación que celebre con la Federación;
 
 > <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -293,9 +293,9 @@ El Sistema Estatal de Salud, con la intervención que corresponde al Comité de 
 
 El Sistema Estatal de Salud tiene los siguientes objetivos:
 
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
 
-I.- Proporcionar, a todas las personas, servicios de salud en el Estado y mejorar la calidad de los mismos atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas.
+I.- Proporcionar, servicios de salud universal en el Estado a todas las personas sin seguridad social, y mejorar la calidad de los mismos atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas.
 
 II.- Contribuir al adecuado y armónico desarrollo demográfico del Estado.
 
@@ -321,7 +321,9 @@ La coordinación del Sistema Estatal de Salud, estará a cargo del Gobernador de
 
 I.- Establecer y conducir la política estatal de salud en los términos de esta Ley y demás disposiciones aplicables y de conformidad con las políticas del Sistema Nacional de Salud y con lo dispuesto por el Ejecutivo Federal.
 
-II.- Coordinar los programas de servicios de salud de las dependencias y entidades de la Administración Pública Estatal.
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+II.- Coordinar los programas de servicios de salud de las dependencias y entidades de la Administración Pública Estatal, y celebrar con la Federación los convenios de coordinación necesarios para garantizar la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados para las personas sin seguridad social;
 
 III.- Apoyar la coordinación de los programas y servicios de salud en toda dependencia o entidad pública en los términos de la legislación aplicable y de los acuerdos de coordinación que se celebren, en el caso de los programas y servicios de las instituciones federales de seguridad social. Este apoyo se realizará tomando en cuenta lo que previenen las leyes que rigen el funcionamiento de dichas instituciones.
 
@@ -351,15 +353,21 @@ XV.- Promover e impulsar la participación de la comunidad del Estado en el cuid
 
 XVI.- Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
-###### ARTICULO 8°.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2020)</small>
 
-La Secretaría de Salud y Asistencia del Estado, promoverá la participación, en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se expidan.
+###### ARTICULO 8º.
+
+La Secretaría de Salud, promoverá la participación, en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se expidan.
 
 Asimismo, fomentarán la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estas últimas.
 
 > <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
 De igual forma, la Secretaría instrumentará, coordinará y operará en el ámbito de sus atribuciones un registro obligatorio de las personas morales que presten servicios médicos, de guardería o de velación, en el Estado, en el cual deberán inscribir a todo el personal que labore en cada unidad prestadora del servicio, independientemente de las funciones que desempeñe.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+También operará, en coordinación con las demás autoridades estatales competentes, los convenios de coordinación que celebre la persona titular del Poder Ejecutivo del Estado con la Federación para garantizar la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados a las personas sin seguridad social.
 
 ###### ARTICULO 9°.
 
@@ -415,13 +423,19 @@ IV.- Vigilar en la esfera de su competencia, el cumplimiento de esta Ley y demá
 
 V.- Celebrar con la Federación los acuerdos de coordinación en materia de salubridad general concurrente y los convenios en los que, en los términos de la fracción IV del artículo 116 de la Constitución General de la República, el Estado asuma el ejercicio de funciones y la prestación de servicios sanitarios, cuando el desarrollo económico y social lo haga necesario.
 
-VI.- Las demás que sean necesarias para hacer efectivas las facultades anteriores, las que se deriven de la Ley General de Salud, de esta Ley y de otras disposiciones legales aplicables.
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2020)</small>
 
-> <small>(ADICIONADA, G.O. 3 DE ENERO DE 2007)</small>
+VI.- Conforme a la Ley General de Salud, suscribir el convenio de coordinación para garantizar la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados a las personas sin seguridad social.
 
-VII.- Para los efectos señalados en la fracción anterior, el titular de la Secretaría de Salud nombrará una comisión integrada por médicos epidemiólogos de esa institución, quienes estarán atentos en todo tiempo a los acontecimientos epidemiológicos que se susciten en el Estado de Veracruz, para determinar y, en su caso, emitir conjuntamente con el Secretario de Salud, la solicitud al Gobernador del Estado, para que emita una declaratoria de emergencia, fundada y motivada, cuyo propósito será exclusivamente el de llevar a cabo las tareas de fumigación, abatización y descacharrización, siempre que subsista el estado de contingencia expresamente señalado en la declaratoria y se encuentre normado su procedimiento.
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
 
-Para los efectos del párrafo anterior, el titular de la Secretaría de Salud expedirá un reglamento en el que se establezcan los tiempos y procedimientos en que dichas acciones se puedan llevar a cabo, así como las correlativas sanciones en caso de incumplimiento por parte de los ciudadanos del reglamento respectivo.
+VII.- El titular de la Secretaría de Salud nombrará una comisión integrada por médicos epidemiólogos de esa institución, quienes estarán atentos en todo tiempo a los acontecimientos epidemiológicos que se susciten en el Estado de Veracruz, para determinar y, en su caso, emitir conjuntamente con el Secretario de Salud, la solicitud a la persona titular del Ejecutivo Estatal, para que emita una declaratoria de emergencia, fundada y motivada, en situaciones de emergencias epidemiológicas que se presenten en la Entidad.
+
+Para los efectos del párrafo anterior, el titular de la Secretaría de Salud expedirá un reglamento en el que se establezcan los tiempos y procedimientos en que dichas acciones se puedan llevar a cabo, así como las correlativas sanciones en caso de incumplimiento por parte de los ciudadanos del reglamento respectivo; y
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN VI], G.O. 4 DE FEBRERO DE 2020)
+
+VIII. Las demás que sean necesarias para hacer efectivas las facultades anteriores, las que se deriven de la Ley General de Salud, de esta Ley y de otras disposiciones legales aplicables.
 
 ###### ARTICULO 13.
 
@@ -451,7 +465,11 @@ III.- Formular y desarrollar programas municipales de salud, en el marco de los 
 
 IV.- Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente Ley y las demás disposiciones generales aplicables.
 
-V.- Las demás que sean necesarias para hacer efectivas las atribuciones anteriores y las que se deriven de esta Ley.
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+V. Coadyuvar con el Estado en las acciones que deriven de la suscripción de los convenios de coordinación para la implementación de la cobertura universal de salud y bienestar; y
+
+VI. Las demás que sean necesarias para hacer efectivas las atribuciones anteriores y las que se deriven de esta Ley.
 
 ###### ARTICULO 17.
 
@@ -503,13 +521,17 @@ II.- De salud pública.
 
 III.- De asistencia social.
 
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
 ###### ARTICULO 27.
 
-Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud preferentemente a los grupos vulnerables.
+Conforme a las prioridades del Sistema Estatal de Salud y a los convenios de coordinación, se garantizará la extensión progresiva, universal, cuantitativa y cualitativa de los servicios de salud, particularmente para la atención integral de la población que se encuentra en el país que no cuenta con seguridad social.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 28.
 
-Para la organización y administración de los servicios de salud, se definirán criterios de distribución de universos de usuarios, de regionalización y de escalonamiento de los servicios, de universalización de cobertura y de colaboración inter-institucional.
+Para la organización y administración de los servicios de salud, se definirán criterios de regionalización y de escalonamiento de los servicios para lograr progresivamente la universalización del acceso a servicios de salud integrales.
 
 ###### ARTICULO 29.
 
@@ -521,9 +543,9 @@ I.- La educación para la salud, la promoción del saneamiento básico y el mejo
 
 II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes.
 
-> <small>(REFORMADA, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
 
-III.- La atención médica, que comprende las actividades preventivas, curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias.
+III.- La atención médica integral, que comprende las actividades preventivas, curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias.
 
 > <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 2016)</small>
 
@@ -541,9 +563,9 @@ VI Bis.- La atención de los enfermos en situación terminal.
 
 VII.- La prevención y control de las enfermedades bucodentales.
 
-> <small>(REFORMADA, G.O. 15 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
 
-VIII.- La disponibilidad y otorgamiento de medicamentos y material de curación en todos los niveles de atención a la población, con base en los cuadros básicos y catálogos de medicamentos y material de curación regulados por el Consejo de Salubridad General aplicable al sector salud y en los catálogos de la institución proveedora del servicio; disponibilidad de sangre a través de puestos de sangrado y centros de transfusión en hospitales de segundo y tercer nivel y cualquier otro insumo esencial para la salud.
+VIII.- La disponibilidad y otorgamiento de medicamentos y material de curación en todos los niveles de atención a la población, con base en el Compendio Nacional de Insumos para la Salud elaborado por el Consejo de Salubridad General aplicable al sector salud y en los catálogos de la institución proveedora del servicio; disponibilidad de sangre a través de puestos de sangrado y centros de transfusión en hospitales de segundo y tercer nivel, así como de alta especialidad y cualquier otro insumo esencial para la salud.
 
 IX.- La promoción del mejoramiento de la nutrición.
 
@@ -551,19 +573,23 @@ X.- La asistencia social a los grupos más vulnerables.
 
 XI.- Las demás que establezca esta Ley y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
 ###### ARTICULO 30.
 
-El Gobierno del Estado, de conformidad con las disposiciones legales aplicables, participará en la aplicación del cuadro básico de insumos del sector salud, por parte de las instituciones que presten servicios de salud en la Entidad.
+El Gobierno del Estado, de conformidad con las disposiciones legales aplicables, participará en la aplicación del Compendio Nacional de Insumos para la Salud, por parte de las instituciones que presten servicios de salud en la Entidad.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 31.
 
-El Gobierno del Estado convendrá con el Gobierno Federal, los términos en que las dependencias y entidades del Estado que presten servicios de salud, deban participar en la elaboración del mencionado cuadro básico.
+El Gobierno del Estado convendrá con el Gobierno Federal, los términos en que las dependencias y entidades del Estado que presten servicios de salud, deban participar en la elaboración del Compendio Nacional de Insumos para la Salud.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 32.
 
-El Gobierno del Estado coadyuvará con las autoridades federales competentes para que se garantice a la población del Estado la disponibilidad y otorgamiento de medicamentos y material de curación según corresponda a nivel de atención de la unidad prestadora de servicio, con base en los cuadros básicos y catálogos de medicamentos y material de curación regulados por el Consejo de Salubridad General aplicable al Sector Salud, así como estar incluidos en los catálogos de la institución proveedora del servicio.
+El Gobierno del Estado coadyuvará con las autoridades federales competentes para que se garantice a la población del Estado la disponibilidad y otorgamiento de medicamentos y material de curación según corresponda a nivel de atención de la unidad prestadora de servicio, con base en Compendio Nacional de Insumos para la Salud elaborado por el Consejo de Salubridad General aplicable al Sector Salud, así como estar incluidos en los catálogos de la institución proveedora del servicio.
 
 ###### ARTICULO 33.
 
@@ -611,9 +637,11 @@ II.- Servicios a derecho-habientes de instituciones públicas de seguridad socia
 
 III.- Otros que se presten de conformidad con lo que establezca el Gobierno del Estado.
 
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
 ###### ARTICULO 37.
 
-Son servicios públicos a la población en general, los que se presten en los establecimientos públicos de salud, a los habitantes del Estado que así lo requieran, seguidos por criterios de universalidad y de gratuidad; fundada en las condiciones socio-económicas de los usuarios.
+Son servicios públicos a la población en general, los que se presten en los establecimientos públicos de salud, a las personas que se encuentren en el Estado sin seguridad social que así lo requieran, seguidos por criterios de universalidad, igualdad e inclusión y de gratuidad al momento de requerir los servicios de salud, medicamentos y demás insumos asociados.
 
 ###### ARTICULO 38.
 
@@ -1981,9 +2009,9 @@ I. Apertura de venta de bebidas alcohólicas después de las 08:00 horas.
 
 II. Cierre de venta de bebidas alcohólicas a más tardar a las 02:00 horas.
 
-> <small>(ADICIONADO, G.O. 20 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
-Los establecimientos que vendan o expendan bebidas alcohólicas fuera del horario establecido en el presente artículo se harán acreedores a una multa, la cual no podrá ser menor a 300 veces el salario mínimo ni mayor a 600 veces el salario mínimo general vigente en la zona que corresponda.
+Los establecimientos que vendan o expendan bebidas alcohólicas fuera del horario establecido en el presente artículo se harán acreedores a una multa, la cual no podrá ser menor a 300 veces la Unidad de Medida y Actualización ni mayor a 600 veces la Unidad de Medida y Actualización vigente.
 
 ###### ARTICULO 175.
 
@@ -2009,19 +2037,25 @@ El establecimiento que incumpla lo señalado en el párrafo anterior se hará ac
 
 > <small>(ADICIONADO, G.O. 20 DE JULIO DE 2015)</small>
 
-ARTICULO 177 TER. Es obligación de quien expenda o venda bebidas alcohólicas cerciorarse, en cada ocasión, que el comprador cuente con la mayoría de edad, comprobándolo a través de una identificación oficial.
+ARTICULO 177 TER.- Es obligación de quien expenda o venda bebidas alcohólicas cerciorarse, en cada ocasión, que el comprador cuente con la mayoría de edad, comprobándolo a través de una identificación oficial.
 
 Asimismo, el establecimiento deberá contar en su exterior con un letrero visible, advirtiendo la prohibición del consumo de bebidas alcohólicas en la vía pública, así como la venta a menores de edad.
 
-La omisión de cualquiera de los requisitos señalados en el presente artículo traerá como consecuencia la imposición de una multa que no podrá ser menor a 100 veces el salario mínimo, ni mayor a 200 veces el salario mínimo general vigente en la zona geográfica correspondiente.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+La omisión de cualquiera de los requisitos señalados en el presente artículo traerá como consecuencia la imposición de una multa que no podrá ser menor a 100 veces la Unidad de Medida y Actualización, ni mayor a 200 veces la Unidad de Medida y Actualización vigente.
 
 > <small>(ADICIONADO, G.O. 20 DE JULIO DE 2015)</small>
 
 ARTICULO 177 QUATER. Para los efectos de este Capítulo en materia de imposición de sanciones, la Secretaría de Salud, por conducto del Organismo Público Descentralizado Servicios de Salud de Veracruz, fundará y motivará su resolución, realizará el proceso respetando la garantía de audiencia y calificará la sanción correspondiente atendiendo a la gravedad de la infracción.
 
-> <small>(ADICIONADO, G.O. 20 DE JULIO DE 2015)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 532, EN LA G.O. DE 4 DE FEBRERO DE 2020, PÁGINA 14.]</small>
 
-ARTICULO 177 QUINQUIES. El individuo que venda bebidas alcohólicas a menores de edad en un establecimiento, o que las suministre o provea para su consumo dentro o fuera del mismo, se hará acreedor a la imposición de una multa que no podrá ser menor a 300 veces el salario mínimo, ni mayor a 600 veces el salario mínimo general vigente en la zona geográfica correspondiente. Lo anterior, con independencia de las responsabilidades civiles o penales a que haya lugar.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+ARTICULO 177 QUINQUIES.- El individuo que venda bebidas alcohólicas a menores de edad en un establecimiento, o que las suministre o provea para su consumo dentro o fuera del mismo, se hará acreedor a la imposición de una multa que no podrá ser menor a 300 veces la Unidad de Medida y Actualización, ni mayor a 600 veces la Unidad de Medida y Actualización vigente.
+
+… (sic)
 
 > <small>(ADICIONADO, G.O. 20 DE JULIO DE 2015)</small>
 
@@ -2799,21 +2833,29 @@ III.- Las condiciones socio-económicas del infractor; y
 
 IV.- La calidad de reincidente del infractor.
 
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
 ###### ARTICULO 296.
 
-Se sancionará con multa equivalente hasta de veinte veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 51, 52, 77, 92, 94, 113, 114, 115, 127, 167, 254, 268, 269 y 270, de esta Ley.
+Se sancionará con multa equivalente hasta de veinte veces la Unidad de Medida y Actualización vigente, la violación de las disposiciones contenidas en los artículos 51, 52, 77, 92, 94, 113, 114, 115, 127, 167, 254, 268, 269 y 270, de esta Ley.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 297.
 
-Se sancionará con multa equivalente de diez hasta cien veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 105, 117, 123, 166, 251, 253 y 277, de esta Ley.
+Se sancionará con multa equivalente de diez hasta cien veces la Unidad de Medida y Actualización vigente, la violación de las disposiciones contenidas en los artículos 105, 117, 123, 166, 251, 253 y 277, de esta Ley.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 298.
 
-Se sancionará con multa equivalente de cincuenta a quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 90, 91 y 106 de esta Ley.
+Se sancionará con multa equivalente de cincuenta a quinientas veces la Unidad de Medida y Actualización vigente, la violación de las disposiciones contenidas en los artículos 90, 91 y 106 de esta Ley.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 299.
 
-Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo las reglas de calificación que se establecen en el artículo 295 de esta Ley.
+Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por quinientas veces la Unidad de Medida y Actualización vigente, atendiendo las reglas de calificación que se establecen en el artículo 295 de esta Ley.
 
 ###### ARTICULO 300.
 
@@ -3017,367 +3059,145 @@ DEL SISTEMA DE PROTECCION SOCIAL EN SALUD
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
-
 ###### ARTICULO 330.
 
-Todos los habitantes del Estado tienen derecho a ser incorporados al Sistema de Protección Social en Salud, de conformidad con el artículo 4º de la Constitución Política de los Estados Unidos Mexicanos, sin importar su condición social, y del artículo 49 fracción V de la Constitución Política del Estado de Veracruz de Ignacio de la Llave. El Sistema de Protección Social en Salud es un mecanismo por el cual el Estado garantizará el acceso efectivo, oportuno, de calidad, sin desembolso al momento de su utilización, y sin discriminación a los servicios médico-quirúrgicos, farmacéuticos y hospitalarios, que satisfagan de manera integral las necesidades de salud, mediante la combinación de intervenciones de promoción de la salud, prevención, diagnóstico, tratamiento y de rehabilitación, seleccionadas en forma prioritaria según criterios de seguridad, eficacia, costo, efectividad, adherencia a normas éticas profesionales y aceptabilidad social.
-
-Como mínimo se deberán contemplar los servicios de consulta externa en el primer nivel de atención; así como de consulta externa y hospitalización para las especialidades básicas de: medicina interna, cirugía general, gineco-obstetricia, pediatría y geriatría, en el segundo nivel de atención.
-
-Las disposiciones reglamentarias establecerán los criterios necesarios para la secuencia y alcances de cada intervención que se provea en los términos de este Título.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 ###### ARTICULO 331.
 
-Para los efectos de esta Ley, se entenderá por Sistema de Protección Social de Salud a las acciones que en esta materia provea el Régimen en forma directa a través de los establecimientos para la atención médica de los Servicios de Salud, o de forma indirecta a través de los establecimientos para la atención médica de otras entidades federativas o de otras instituciones del Sistema Nacional de Salud.
-
-El Régimen coordinará las acciones de protección social en salud a través de los Servicios de Salud, las cuales contarán con la participación subsidiaria y coordinada de la Federación, de conformidad con lo establecido en la Ley General de Salud.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 ###### ARTICULO 332.
 
-Las familias y personas que no sean derechohabientes de las instituciones de seguridad social, o no cuenten con algún otro mecanismo de previsión social en salud, se incorporarán al Sistema de Protección Social en Salud que les corresponda, en razón de su domicilio, con lo cual gozarán de las acciones de protección en salud a que se refiere este Título.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 ###### ARTICULO 333.
 
-La unidad de protección será el núcleo familiar, la cual para efectos de esta Ley se puede integrar de cualquiera de las siguientes maneras:
-
-I.- Por los cónyuges.
-
-II.- Por la concubina y el concubinario.
-
-III.- Por el padre y/o la madre no unidos en vínculo matrimonial, o concubinato, y
-
-IV.- Por otros supuestos de titulares y sus beneficiarios que el Consejo de Salubridad General determine, con el grado de dependencia y convivencia que justifiquen su asimilación transitoria o permanente a un núcleo familiar.
-
-Se consideran integrantes del núcleo familiar a los hijos y adoptados menores de dieciocho años; a los menores de dicha edad que formen parte del hogar y tengan parentesco de consanguinidad con las personas señaladas en las fracciones I a III que anteceden; y a los ascendientes directos en línea recta de éstos, mayores de sesenta y cuatro años, que habiten en la misma vivienda y dependan económicamente de ellos, además de los hijos que tengan hasta veinticinco años, solteros que prueben ser estudiantes, o bien, discapacitados.
-
-A las personas de dieciocho años o más se les aplicarán los criterios y políticas que establezcan los lineamientos que para efecto emita la Comisión.
-
-El núcleo familiar será representado para los efectos de este título por cualquiera de las personas enunciadas en las fracciones I a IV de este artículo.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 ###### ARTICULO 334.
 
-La competencia entre el Estado, Servicios de Salud y el Régimen en la ejecución de las acciones de protección social en salud quedará distribuida conforme a lo siguiente:
-
-A. Corresponde al Ejecutivo de Estado, por conducto de los Servicios de Salud:
-
-I.- Proveer los servicios de salud en los términos de este Título, disponiendo de la capacidad de insumos y el suministro de medicamentos necesarios para su oferta oportuna y de calidad.
-
-II.- Programar los recursos necesarios para el mantenimiento, desarrollo de infraestructura y equipamiento, conforme a las prioridades establecidas en el Sistema de Protección Social en Salud, en congruencia con el plan maestro que se elabore a nivel nacional.
-
-III.- Adoptar esquemas de operación que mejoren la atención médica, modernicen la administración de servicios y registros clínicos, alienten la certificación de su personal y promuevan la certificación de establecimientos de atención médica; para tal efecto, podrán celebrar convenios entre sí y con instituciones públicas del Sistema Nacional de Salud, con la finalidad de optimizar la utilización de sus instalaciones y compartir la prestación de servicios, en términos de las disposiciones y lineamientos aplicables.
-
-IV.- (DEROGADA, G.O. 17 DE ABRIL DE 2008)
-
-B.- Corresponde al Ejecutivo del Estado, por conducto del Régimen:
-
-I.- Identificar e incorporar beneficiarios al Régimen, para lo cual ejercerá actividades de difusión y promoción, así como las correspondientes al proceso de incorporación, incluyendo la integración, administración y actualización del padrón de beneficiarios en el Estado, conforme a los lineamientos vigentes.
-
-> <small>(ADICIONADA, G.O. 17 DE ABRIL DE 2008)</small>
-
-I Bis.- Celebrar acuerdos de coordinación con las autoridades federales, estatales y municipales, para la ejecución del Sistema de Protección Social en Salud, de conformidad con el modelo nacional establecido, en los cuales se determinarán, entre otros, los conceptos de gasto, el destino de los recursos, los indicadores de seguimiento a la operación y a los términos de la evaluación integral del Sistema.
-
-> <small>(REFORMADA, G.O. 17 DE ABRIL DE 2008)</small>
-
-II.- Administrar y aplicar de manera transparente y oportuna, los recursos que sean transferidos por la Federación al Estado y las aportaciones propias de este último, para la ejecución de las acciones de protección social en salud, en función de los acuerdos de coordinación que para tal efecto se celebren.
-
-III.- Recibir, administrar y ejercer las cuotas familiares de los beneficiarios del Régimen, así como los demás ingresos que en razón de frecuencia en uso de los servicios o especialidad o para el surtimiento de medicamentos asociados, se impongan de manera adicional.
-
-IV.- Realizar el seguimiento operativo de las acciones en materia de protección social en salud, de los Servicios de Salud en el Estado, y la evaluación de su impacto, proveyendo a la Federación la información que para el efecto le solicite.
-
-V.- Proporcionar a las autoridades federales la información relativa al ejercicio de recursos transferidos, así como la correspondiente a los montos y rubros de gasto.
-
-VI.- Promover la participación de los municipios en el Régimen y sus aportaciones económicas, mediante la suscripción de convenios, de conformidad con la legislación estatal aplicable; y
-
-VII.- Es facultad del Régimen, a través de los Servicios de Salud, proveer de manera integral los servicios de salud y los medicamentos asociados, sin exigir cuotas distintas a las establecidas, siempre que los beneficiarios cumplan con sus obligaciones. Con la finalidad de fortalecer el mantenimiento y desarrollo de infraestructura en salud, el Régimen, a partir de las transferencias que reciba, deberá destinar los recursos necesarios para la inversión en infraestructura médica, de conformidad con el plan maestro elaborado por la autoridad Federal correspondiente.
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO II. DE LOS BENEFICIARIOS DEL SISTEMA DE PROTECCION SOCIAL EN SALUD
 
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
-
 ###### ARTICULO 335.
 
-Gozarán de los beneficios del Sistema de Protección Social en Salud, las familias cuyos miembros en lo individual satisfagan los siguientes requisitos:
-
-I.- Ser residentes en el territorio nacional.
-
-II.- No ser derechohabientes de la seguridad social.
-
-III.- Contar con la clave única de Registro de Población.
-
-IV.- Formular la solicitud correspondiente de incorporación.
-
-V.- Cubrir las cuotas familiares correspondientes, en los términos establecidos en la Ley General de Salud; y
-
-VI.- Cumplir con las obligaciones establecidas en dicha Ley.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 ###### ARTICULO 336.
 
-Para incrementar la calidad de todos los servicios que proporcione el Sistema de Protección Social en Salud a sus beneficiarios, los Servicios de Salud vigilarán el establecimiento de los requerimientos mínimos que servirán de base para la atención, tomando en cuenta las disposiciones inmersas en el artículo 29 de la presente Ley.
-
-Los Servicios de Salud promoverán las acciones necesarias para que las unidades médicas del sistema Estatal de Salud, que se incorporen al Sistema de Protección Social en Salud, provean como mínimo los servicios de consulta externa y hospitalización para las especialidades básicas de medicina interna, cirugía general, gineco-obstetricia, pediatría y geriatría, de acuerdo al nivel de atención, y acrediten previamente su calidad.
-
-La acreditación de la calidad de los servicios prestados deberá considerar, al menos, los aspectos siguientes:
-
-I.- Prestaciones orientadas a la prevención y el formato del autocuidado de la salud.
-
-II.- Aplicación de exámenes preventivos.
-
-III.- Programación de citas para consultas.
-
-IV.- Atención médica personalizada.
-
-V.- Integración de expedientes clínicos.
-
-VI.- Continuidad de cuidados mediante mecanismos de referencia y contrarreferencia.
-
-VII.- Prescripción y surtimiento de medicamentos;
-
-VIII.- Información al usuario sobre diagnóstico y pronóstico, así como del otorgamiento de orientación terapéutica.
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO III. DE LAS APORTACIONES PARA EL SISTEMA DE PROTECCION SOCIAL EN SALUD
 
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
-
 ###### ARTICULO 337.
 
-El Sistema de Protección Social en Salud será financiado de manera solidaria por la Federación, el Estado y los beneficiarios.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 ###### ARTICULO 338.
 
-Para sustentar el Sistema, el Gobierno del Estado efectuará las aportaciones solidarias por familia beneficiaria, conforme a los términos del Acuerdo de Coordinación correspondiente celebrado con el Gobierno Federal.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 ###### ARTICULO 339.
 
-Los recursos de carácter Federal que se transfieran al Estado para sustentar el Sistema de Protección Social en Salud, no serán embargables; ni el Gobierno del Estado podrá, bajo ninguna circunstancia, gravarlos, afectarlos en garantía, ni destinarlos a fines distintos a los expresamente previstos, igual restricción se aplicará en los recursos que para fines análogos destine el Gobierno del Estado.
-
-Ambos recursos se administrarán y ejercerán con base en los acuerdos de coordinación que se celebren para el efecto y el Gobierno del Estado deberá destinarlos específicamente para los fines establecidos de conformidad con los acuerdos de coordinación que para el efecto se suscriban.
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO IV. DE LAS CUOTAS FAMILIARES
 
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
-
 ###### ARTICULO 340.
 
-Los beneficiarios del Sistema de Protección Social en Salud participarán en el financiamiento del mismo, mediante las cuotas familiares determinadas con base en las condiciones socioeconómicas de cada familia, las cuales deberán cubrirse en forma anticipada, anual y progresiva, salvo cuando exista la incapacidad de la familia a cubrir la cuota, lo cual no le impedirá incorporarse y ser sujeto de los beneficios que se deriven del Sistema de Protección Social en Salud.
-
-Las disposiciones reglamentarias establecerán los lineamientos para los casos en que por las características socioeconómicas de los beneficiarios, éstos no aportarán cuotas familiares.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 ###### ARTICULO 341.
 
-Las cuotas familiares y reguladoras, que en su caso se establezcan, se recibirán, administrarán y aplicarán conforme a las disposiciones de la Ley General de Salud y de los convenios de coordinación vigentes, y serán destinadas específicamente al abasto de medicamentos, equipo y otros insumos para la salud que sean necesarios para el Sistema de Protección Social en Salud.
-
-Bajo el principio de solidaridad social, las cuotas familiares no serán objeto de devolución bajo ninguna circunstancia, ni podrán aplicarse a años subsecuentes en el caso de suspensión temporal de los beneficios de la protección social en salud.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 ###### ARTICULO 342.
 
-El Régimen deberá presentar a la Secretaría de Salud Federal, conforme a los lineamientos que la misma establezca, los informes que sean necesarios respecto del destino y manejo de las cuotas familiares.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 ###### ARTICULO 343.
 
-El nivel de ingreso o la carencia de éste, no podrán ser limitantes para el acceso al Sistema de Protección Social en Salud.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 ###### ARTICULO 344.
 
-Con el objeto de favorecer el uso responsable de los servicios de salud, el Consejo de Salubridad General podrá establecer, mediante reglas de carácter general, un esquema de cuotas reguladoras para algunos servicios en razón de la frecuencia en su uso o especialidad, o para el abastecimiento de medicamentos asociados. En dichas reglas deberá considerarse la posibilidad de que aquellos beneficiarios cuya condición socioeconómica así lo justifique, no cubran las cuotas a que se refiere este artículo.
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO V. DE LA TRANSPARENCIA, CONTROL Y SUPERVISION DEL MANEJO DE LOS RECURSOS DEL SISTEMA DE PROTECCION SOCIAL EN SALUD
 
-> <small>(REFORMADO, G.O. 17 DE ABRIL DE 2008)</small>
-
 ###### ARTICULO 345.
 
-Los Servicios de Salud y el Régimen, en el ámbito de sus respectivas competencias, dispondrán lo necesario para transparentar su gestión, de conformidad con las normas aplicables en materia de acceso y transparencia a la información pública gubernamental.
-
-Para estos efectos, el Régimen y los Servicios de Salud difundirán toda la información que tengan disponible respecto de universos, coberturas, servicios ofrecidos, así como del manejo financiero del Sistema, entre otros aspectos; con la finalidad de favorecer la rendición de cuentas a los ciudadanos, de manera que puedan valorar el desempeño del Sistema.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 ###### ARTICULO 346.
 
-El control y supervisión del manejo de los recursos aportados para el Sistema, quedará a cargo de las autoridades siguientes, en las etapas que se indican:
-
-I.- Recibidos los recursos federales por el Estado, hasta su erogación total, corresponderá a las autoridades de control y supervisión interna del Gobierno del Estado; la supervisión y vigilancia no podrán implicar limitaciones, ni restricciones de cualquier índole, en la administración y ejercicio de dichos recursos; y
-
-II.- La fiscalización de los recursos aportados para el Sistema Estatal de Protección Social en Salud será efectuada por el Honorable Congreso del Estado, por conducto de su órgano de fiscalización.
-
-Cuando las autoridades estatales que en el ejercicio de sus atribuciones de control y supervisión, conozcan que los recursos señalados no han sido aplicados a los fines que señala la ley, deberán hacerlo del conocimiento de la Secretaría de la Función Pública, en forma inmediata.
-
-Las responsabilidades administrativas, civiles y penales que deriven de la desviación de los recursos señalados, serán sancionadas en los términos de la legislación correspondiente por las autoridades competentes.
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO VI. DEL REGIMEN DEL SISTEMA ESTATAL DE PROTECCION SOCIAL EN SALUD
 
-> <small>(REFORMADO, G.O. 17 DE ABRIL DE 2008)</small>
-
 ###### ARTICULO 347.
 
-El Sistema de Protección Social en Salud contará con un Régimen Estatal de Protección Social en Salud, como Organismo Público Descentralizado sectorizado a la Secretaría de Salud, con la estructura y funciones que le asignen el decreto de creación y su reglamento interior.
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO VII. DERECHOS Y OBLIGACIONES DE LOS BENEFICIARIOS
 
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
-
 ###### ARTICULO 348.
 
-Los beneficiarios del Sistema de Protección Social en Salud tienen derecho a recibir, sin ningún tipo de discriminación, los servicios de salud, los medicamentos y los insumos esenciales requeridos para el diagnóstico y tratamiento de los padecimientos, en las unidades médicas de la administración pública de su elección, acreditados en el Régimen.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 ###### ARTICULO 349.
 
-Los beneficiarios del Sistema de Protección Social en Salud tendrán, además de los derechos establecidos en el artículo anterior, los siguientes:
-
-I.- Recibir servicios integrales de salud;
-
-II.- Acceso igualitario a la atención médica;
-
-III.- Trato digno, respetuoso y atención médica de calidad;
-
-IV.- Recibir los medicamentos que sean necesarios y que correspondan a los servicios de salud;
-
-V.- Recibir información suficiente, clara, oportuna y veraz, así como la orientación que sea necesaria respecto de la atención de su salud y sobre los riesgos y alternativas de los procedimientos, diagnósticos, terapéuticos y quirúrgicos que se le indiquen o apliquen;
-
-VI.- Conocer el informe anual de gestión del Sistema de Protección Social en Salud;
-
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-VII.- Contar con su expediente clínico físico o electrónico, que permita realizar los registros, anotaciones y certificaciones relativas a la atención en su salud;
-
-VIII.- Decidir libremente sobre su atención médica;
-
-IX.- Otorgar o no su consentimiento válidamente informado, y a rechazar tratamientos y procedimientos;
-
-X.- Ser tratado con la debida privacidad;
-
-XI.- Contar con facilidades para obtener una segunda opinión;
-
-XII.- Recibir atención médica en urgencias;
-
-XIII.- Recibir información sobre los procedimientos que rigen el funcionamiento de los establecimientos, para el acceso y obtención de servicios de atención médica;
-
-XIV.- No cubrir cuotas de recuperación específicas por cada servicio que reciban, previa aprobación de estudio socioeconómico realizado por la Unidad Administrativa, por la institución médica prestadora del servicio;
-
-XV.- Presentar quejas ante las autoridades sanitarias por la falta o inadecuada prestación de servicios establecidos en este Título; así como recibir información acerca de los procedimientos, plazos y formas en que se atenderán las quejas y consultas;
-
-XVI.- Ser atendido cuando se inconforme por la atención médica recibida; y
-
-XVII.- Para efectos de este capítulo, los servicios médico-quirúrgicos, farmacéuticos y hospitalarios que recibirán los beneficiarios incorporados al Régimen, serán los contenidos en el Catálogo de Servicios vigente que emita la Comisión.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 ###### ARTICULO 350.
 
-Los beneficiarios del Sistema de Protección Social en Salud tendrán las siguientes obligaciones:
-
-I.- Adoptar conductas de promoción de la salud y prevención de enfermedades;
-
-II.- Hacer uso de la credencial que los acredite como beneficiarios, siendo este documento de naturaleza personal e intransferible, y presentarlo siempre que se requieran servicios de salud;
-
-III.- Informarse sobre los procedimientos que rigen el funcionamiento de los establecimientos para el acceso y servicios de atención médica;
-
-IV.- Colaborar con el equipo de salud, informando verazmente y con exactitud sus antecedentes, necesidades y problemas de salud;
-
-V.- Cumplir las recomendaciones, prescripciones, tratamiento o procedimiento general al que haya aceptado someterse;
-
-VI.- Informarse acerca de los riesgos y alternativas de los procedimientos terapéuticos y quirúrgicos que se le indiquen o apliquen, así como de los procedimientos de consultas y quejas;
-
-VII.- Cubrir oportunamente las cuotas familiares y reguladoras que, en su caso, se le fijen;
-
-VIII.- Dar un trato respetuoso al personal médico, auxiliar y administrativo de los servicios de salud, así como a los otros usuarios y sus acompañantes;
-
-IX.- Cuidar las instalaciones de los establecimientos de salud y colaborar en su mantenimiento;
-
-X.- Hacer uso responsable de los servicios de salud; y
-
-XI.- Proporcionar de manera fehaciente la información necesaria para documentar su incorporación al Sistema de Protección Social en Salud y para la definición del monto a pagar por concepto de cuota familiar.
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO VIII. CAUSAS DE SUSPENSION Y CANCELACION EN EL SISTEMA DE PROTECCION SOCIAL EN SALUD
 
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
-
 ###### ARTICULO 351.
 
-La cobertura de Protección Social en Salud será suspendida de manera temporal a cualquier familia beneficiaria en los siguientes casos:
-
-I.- Cuando no cubra las cuotas familiar o reguladora en la forma y fechas que determine la instancia competente, siempre y cuando no se halle en los casos de incapacidad o de carencia o nulidad de ingresos; y
-
-II.- Cuando el principal sostén de la familia beneficiaria se incorpore a alguna institución de seguridad social, Federal o Estatal.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 ###### ARTICULO 352.
 
-Se cancelarán los beneficios de la protección social en salud y la posibilidad de reincorporación, cuando cualquier miembro de la familia beneficiaria:
-
-I.- Realice acciones en perjuicio de los propósitos que persigue el Sistema de Protección Social en Salud, o afecte los intereses de terceros;
-
-II.- Haga mal uso de la credencial que se le haya expedido como beneficiario; y
-
-III.- Proporcione información falsa sobre su nivel de ingreso en el estudio socioeconómico para determinar su cuota familiar y sobre su condición laboral o derechohabiencia de la seguridad social.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 ###### ARTICULO 353.
 
-En los casos en que se materialicen los supuestos a los que se refiere este capítulo, los interesados conservarán los beneficios del sistema de Protección Social en Salud, hasta un plazo de sesenta días naturales a partir de la fecha de la suspensión o cancelación. Habiéndose transcurrido este plazo podrán acceder a los servicios de salud disponibles, en los términos o condiciones que establece esta Ley.
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO IX. DEL CONSEJO ESTATAL DEL REGIMEN DE PROTECCION SOCIAL EN SALUD
 
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
-
 ###### ARTICULO 354.
 
-Se crea el Consejo Estatal de Protección Social en Salud como órgano colegiado consultivo de las acciones del Sistema de Protección Social en Salud que se ejecuten en el Estado.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 ###### ARTICULO 355.
 
-El Consejo Estatal de Protección Social en Salud estará integrado por el titular de la Secretaría de Salud del Estado, quien lo presidirá; el Director del Régimen Estatal de Protección Social en Salud, como Vicepresidente del Consejo; el Jefe del Departamento Jurídico del Régimen, como Secretario técnico; y por el Diputado Presidente de la Comisión Permanente de Salud y Asistencia del Congreso del Estado, los Directores de los Servicios de Salud en Veracruz y los Subdirectores del Régimen, como Vocales.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 ###### ARTICULO 356.
 
-El Consejo Estatal de Protección Social en Salud ejercerá las atribuciones que le otorgue su reglamento interior, que será expedido por el Titular del Ejecutivo Estatal, el cual establecerá, así mismo, las reglas para su organización y funcionamiento.
+(DEROGADO, G.O. 4 DE FEBRERO DE 2020)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
@@ -3826,3 +3646,25 @@ PRIMERO. El presente decreto entrará en vigor el día primero de enero de dos m
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 TERCERO. Publíquese en la Gaceta Oficial. Órgano de Gobierno del Estado.
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 532 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión “... salario mínimo”, se entenderán referidas a la Unidad de Medida y Actualización que deberá ser utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes del Estado de Veracruz de Ignacio de la Llave, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 546 QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE SALUD DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. En un plazo no mayor a 180 días contados a partir de la entrada en vigor del Presente decreto, el Ejecutivo del Estado deberá emitir la reglamentación necesaria para hacer efectiva la presente reforma, asimismo sin exceder el plazo anterior deberá emitir el correspondiente decreto de extinción del Organismo Público Descentralizado Régimen Veracruzano de Protección Social en Salud.
