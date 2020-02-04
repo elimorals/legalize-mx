@@ -4,7 +4,7 @@ identifier: "VER-ley-de-asociaciones-publico-privadas-para-el-estado-de-103044"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-24"
-last_updated: "2017-10-10"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "VER"
 
 LEY DE ASOCIACIONES PÚBLICO-PRIVADAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JULIO DE 2017.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.O. EL 10 DE OCTUBRE DE 2017 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 301 PUBLICADO EN LA G.O. DE 21 DE JULIO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 24 de octubre de 2014.
 
@@ -1413,9 +1411,11 @@ Para iniciar cualquier procedimiento administrativo o jurisdiccional relativo a 
 
 La falta de garantía no impedirá la continuación del procedimiento. Solamente tendrá efectos en relación con la suspensión que se llegue a solicitar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 138.
 
-La autoridad jurisdiccional o administrativa que conozca de una actuación notoriamente improcedente o como táctica meramente dilatoria, podrá imponer a quien la promueva una multa administrativa de cien y hasta dos mil veces el salario mínimo general diario correspondiente para la zona geográfica de Veracruz de Ignacio de la Llave, vigente en la fecha de promoción de la actuación.
+La autoridad jurisdiccional o administrativa que conozca de una actuación notoriamente improcedente o como táctica meramente dilatoria, podrá imponer a quien la promueva una multa administrativa de cien y hasta dos mil veces la Unidad de Medida y Actualización, vigente en la fecha de promoción de la actuación.
 
 Asimismo, podrá condenar al responsable a pagar a la Dependencia, Entidad o el Municipio y en su caso, a los terceros afectados, los daños y perjuicios que tales conductas ocasionen, con independencia de las demás responsabilidades administrativas, civiles y penales a que haya lugar.
 
@@ -1472,3 +1472,15 @@ G.O. 21 DE JULIO DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 532 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión “... salario mínimo”, se entenderán referidas a la Unidad de Medida y Actualización que deberá ser utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes del Estado de Veracruz de Ignacio de la Llave, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
