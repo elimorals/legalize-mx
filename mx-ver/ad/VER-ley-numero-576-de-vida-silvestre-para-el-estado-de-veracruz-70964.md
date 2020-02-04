@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-576-de-vida-silvestre-para-el-estado-de-veracruz-709
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-12"
-last_updated: "2016-04-29"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 576 DE VIDA SILVESTRE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2020.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 12 de noviembre de 2009.
 
@@ -943,11 +943,17 @@ La Coordinación podrá solicitar a instituciones de educación superior, centro
 
 La imposición de las multas a que se refiere el artículo 66 de la presente Ley, se determinará conforme a los siguientes criterios:
 
-I. Con el equivalente de 20 a 5,000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones XII, XVII, XXI y XXIII del artículo 65 de la presente Ley; y
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
 
-II. Con el equivalente de 50 a 50,000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XIV, XV, XVI, XVIII, XIX, XX y XXII del artículo 65 de la presente Ley.
+I. Con el equivalente de 20 a 5,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones XII, XVII, XXI y XXIII del artículo 65 de la presente Ley; y
 
-La imposición de las multas se realizará con base en el salario mínimo general diario vigente para la capital del Estado, al momento de cometerse la infracción.
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
+
+II. Con el equivalente de 50 a 50,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, V, VI, VII. VIII. IX, X, XI, XIII, XIV, XV, XVI, XVIII, XIX, XX y XXII del artículo 65 de la presente Ley.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+La imposición de las multas se realizará con base en la Unidad de Medida y Actualización vigente, al momento de cometerse la infracción.
 
 En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto.
 
@@ -1092,3 +1098,15 @@ G.O. 29 DE ABRIL DE 2016.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial órgano de Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 532 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "... salario mínimo", se entenderán referidas a la Unidad de Medida y Actualización que deberá ser utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes del Estado de Veracruz de Ignacio de la Llave, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
