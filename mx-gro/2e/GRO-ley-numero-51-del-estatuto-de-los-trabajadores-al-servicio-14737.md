@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-51-del-estatuto-de-los-trabajadores-al-servicio-1473
 country: "mx"
 rank: "ley"
 publication_date: "1976-04-21"
-last_updated: "2019-12-10"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 51: ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 21 de abril de 1976.
 
@@ -310,6 +310,16 @@ VI.- Hacer las deducciones que solicite el sindicato, siempre que se ajusten a l
 VII.- Determinar las condiciones generales de trabajo, expidiendo los reglamentos correspondientes, oyendo la opinión del sindicato. Mientras estos reglamentos no se expidan, se entenderán vigentes las disposiciones anteriores.
 
 VIII.- Cumplir en sus términos los laudos del Tribunal de Arbitraje del Estado.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2020)</small>
+
+IX.- Otorgar permiso con goce de sueldo al trabajador o trabajadora por un plazo de 24 horas, a quien acuda voluntariamente a donar sangre en el Estado de Guerrero hasta cuatro veces al año, con intervalos no menores a tres meses entre cada donación.
+
+El trabajador o trabajadora deberá comprobar la donación de sangre con constancia de una institución de salud, hospital, clínica o banco de sangre, con domicilio en el Estado de Guerrero, bajo ninguna circunstancia le producirá pérdida o disminución de sueldos, salarios o permisos por este concepto o causa.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN IX], P.O. 4 DE FEBRERO DE 2020]</small>
+
+En el caso de que el trabajador haya realizado una donación de sangre en forma altruista, en horario fuera de su jornada laboral, previa comprobación oficial de ello, tendrá derecho a licencia de un día de descanso, con goce de salario.
 
 C A P I T U L O V.
 
@@ -970,3 +980,11 @@ P.O. 10 DE DICIEMBRE DE 2019.
 PRIMERO: El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO: Publíquese en el Periódico Oficial del Gobierno del Estado, en la página Web del Congreso del Estado y divúlguese en los medios de comunicación.
+
+P.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 279 POR EL QUE SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 42 DE LA LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO, NÚMERO 248, Y LA FRACCIÓN IX AL ARTÍCULO 33 DE LA LEY NÚMERO 51, ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Publíquese para su conocimiento general en el Periódico Oficial del Gobierno del Estado, en el portal web del Congreso del Estado y divúlguese en los medios de comunicación.
