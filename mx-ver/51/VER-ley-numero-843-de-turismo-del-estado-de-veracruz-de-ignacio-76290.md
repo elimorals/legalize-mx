@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2019-11-26"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -1377,17 +1377,23 @@ Cuando derivado de una queja presentada por un turista ante la Procuraduría Fed
 
 Los procedimientos que se establezcan, se apegarán estrictamente al principio de legalidad.
 
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 117.
 
-El incumplimiento a lo dispuesto en las fracciones II, VIII, X, XVIII, XIX, XXII y XXIII del artículo 97 de esta Ley será sancionado con multa de cincuenta a cien días de salario mínimo general vigente en la capital del Estado.
+El incumplimiento a lo dispuesto en las fracciones II, VIII, X, XVIII, XIX, XXII y XXIII del artículo 97 de esta Ley será sancionado con multa del valor diario de cincuenta a cien Unidades de Medida y Actualización vigente.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 118.
 
-Las infracciones a lo establecido en las fracciones VII, XIII, XIV, XV y XX del artículo 97 de esta Ley, se sancionarán con multa de cien a doscientos días de salario mínimo general vigente en la capital del Estado.
+Las infracciones a lo establecido en las fracciones VII, XIII, XIV, XV y XX del artículo 97 de esta Ley, se sancionarán con multa del valor diario de cien a doscientas Unidades de Medida y Actualización vigente.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 119.
 
-Las violaciones a lo dispuesto en las fracciones III y XVII del artículo 97 de esta Ley serán sancionadas con multa que podrá ser de doscientos hasta quinientos días de salario mínimo general vigente en la capital del Estado.
+Las violaciones a lo dispuesto en las fracciones III y XVII del artículo 97 de esta Ley serán sancionadas con multa que podrá ser del valor diario de doscientas hasta quinientas Unidades de Medida y Actualización vigente.
 
 ###### Artículo 120.
 
@@ -1556,3 +1562,15 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. La Secretaría de Turismo y Cultura del Estado de Veracruz de Ignacio de la Llave, contará con sesenta días naturales después de la publicación del presente Decreto para instrumentar lo necesario para que los municipios con vocación turística, operen en su totalidad sus respectivos sitios de internet.
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 532 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "... salario mínimo", se entenderán referidas a la Unidad de Medida y Actualización que deberá ser utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes del Estado de Veracruz de Ignacio de la Llave, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
