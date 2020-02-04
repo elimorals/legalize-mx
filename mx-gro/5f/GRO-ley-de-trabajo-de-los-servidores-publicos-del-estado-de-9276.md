@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-trabajo-de-los-servidores-publicos-del-estado-de-9276"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-06"
-last_updated: "2015-05-29"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO NÚMERO 248
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 6 de enero de 1989.
 
@@ -494,6 +494,14 @@ VII.- Proporcionar a los trabajadores que no estén incorporados al régimen de 
 > <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2000)</small>
 
 VIII.- Vigilar para garantizar que los servidores públicos se abstengan de realizar cualquier acto de abuso, hostigamiento o aprovechamiento sexual en contra de él o la trabajadora, o contra los familiares de éste o ésta.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2020)</small>
+
+IX.- Otorgar permiso con goce de sueldo al trabajador o trabajadora por un plazo de 24 horas, a quien acuda voluntariamente a donar sangre en el Estado de Guerrero hasta cuatro veces al año, con intervalos no menores a tres meses entre cada donación.
+
+El trabajador o trabajadora deberá comprobar la donación de sangre con constancia de una institución de salud, hospital, clínica o banco de sangre, con domicilio en el Estado de Guerrero, bajo ninguna circunstancia le producirá pérdida o disminución de sueldos, salarios o premios por este concepto o causa.
+
+En el caso de que el trabajador haya realizado una donación de sangre en forma altruista, en horario fuera de su jornada laboral, previa comprobación oficial de ello, tendrá derecho a licencia de un día de descanso, con goce de salario.
 
 ###### ARTICULO 43.
 
@@ -1334,3 +1342,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo Estatal, para los efectos legales conducentes.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
+
+P.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 279 POR EL QUE SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 42 DE LA LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO, NÚMERO 248, Y LA FRACCIÓN IX AL ARTÍCULO 33 DE LA LEY NÚMERO 51, ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Publíquese para su conocimiento general en el Periódico Oficial del Gobierno del Estado, en el portal web del Congreso del Estado y divúlguese en los medios de comunicación.
