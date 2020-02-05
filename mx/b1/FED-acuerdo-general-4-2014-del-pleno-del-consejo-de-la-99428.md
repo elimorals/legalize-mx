@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-4-2014-del-pleno-del-consejo-de-la-99428"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-03-07"
-last_updated: "2018-11-14"
+last_updated: "2020-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99428&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-02-27"
 ---
 # ACUERDO GENERAL 4/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LOS SECRETARIOS ENCARGADOS DEL DESPACHO PARA EL TURNO DE ASUNTOS DE NATURALEZA URGENTE EN DIAS Y HORAS INHABILES CON MOTIVO DE LOS OPERATIVOS DE ALCOHOLIMETRIA, EN LOS JUZGADOS DE DISTRITO EN MATERIAS ADMINISTRATIVA Y DE TRABAJO EN EL ESTADO DE JALISCO]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL ACUERDO 1/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 5 DE FEBRERO DE 2020, EL PRESENTE ACUERDO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL 4/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LOS SECRETARIOS ENCARGADOS DEL DESPACHO PARA EL TURNO DE ASUNTOS DE NATURALEZA URGENTE EN DÍAS Y HORAS INHÁBILES CON MOTIVO DE LOS OPERATIVOS DE ALCOHOLIMETRÍA, EN LOS JUZGADOS DE DISTRITO EN MATERIAS ADMINISTRATIVA, CIVIL Y DE TRABAJO EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE FEBRERO DE 2020 (ABROGADO).
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 7 de marzo de 2014.
 
@@ -146,3 +148,25 @@ Las Direcciones Generales de Tecnologías de la Información y de Estadística J
 CUARTO. La plantilla de personal de los Juzgados de Distrito en Materias Administrativa, Civil y de Trabajo en el Estado de Jalisco, con residencia en Zapopan, será homologada por el Grupo de Trabajo de Plantillas Justificadas del Consejo de la Judicatura Federal, para lo cual procederá a presentar el dictamen correspondiente a la Comisión de Administración.
 
 La Dirección General de Estadística Judicial determinará el número de plazas con que deba contar la Oficina de Correspondencia Común de los Juzgados de Distrito en Materias Administrativa, Civil y de Trabajo y, en su caso, con apoyo en la Dirección General de Recursos Humanos reubicará al personal adscrito a la Oficina de Correspondencia Común de los Juzgados de Distrito en Materia Civil.
+
+D.O.F. 5 DE FEBRERO DE 2020.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ACUERDO 1/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.]</small>
+
+ACUERDO
+
+PRIMERO. Se abroga el Acuerdo General 38/2010 del Pleno del Consejo de la Judicatura Federal, relativo a los secretarios encargados del despacho para el turno de asuntos con motivo del alcoholímetro (actos privativos de la libertad de naturaleza administrativa), en los Juzgados de Distrito en Materia Administrativa en el Distrito Federal.
+
+SEGUNDO. Se abroga el Acuerdo General 4/2014, del Pleno del Consejo de la Judicatura Federal, relativo a los secretarios encargados del despacho para el turno de asuntos de naturaleza urgente en días y horas inhábiles con motivo de los operativos de alcoholimetría, en los Juzgados de Distrito en Materias Administrativa, Civil y de Trabajo en el Estado de Jalisco.
+
+TERCERO. El Pleno y la Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal, estarán facultados para interpretar y resolver las cuestiones administrativas que se susciten con motivo de la aplicación del presente Acuerdo en el ámbito de sus respectivas competencias.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 1/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ABROGAN LOS ACUERDOS GENERALES 38/2010 Y 4/2014, DEL PROPIO ÓRGANO COLEGIADO, RELATIVOS A LOS SECRETARIOS ENCARGADOS DEL DESPACHO PARA EL TURNO DE ASUNTOS DE NATURALEZA URGENTE EN DÍAS Y HORAS INHÁBILES CON MOTIVO DE LOS OPERATIVOS DE ALCOHOLIMETRÍA EN LOS JUZGADOS DE DISTRITO EN MATERIA ADMINISTRATIVA EN EL DISTRITO FEDERAL, AHORA CIUDAD DE MÉXICO Y EN LOS JUZGADOS DE DISTRITO EN MATERIAS ADMINISTRATIVA, CIVIL Y DE TRABAJO EN EL ESTADO DE JALISCO, RESPECTIVAMENTE”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se deroga cualquier disposición que contravenga el presente Acuerdo.
+
+TERCERO. La atención de asuntos urgentes que ingresen en el periodo de guardia previo al inicio de vigencia del presente Acuerdo, serán tramitados por el secretario encargado del despacho.
+
+CUARTO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
