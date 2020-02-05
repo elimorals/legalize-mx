@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1300
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-07"
-last_updated: "2019-12-28"
+last_updated: "2020-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2020.
 
 Ley publicada en el Suplemento 7 al Número 54 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de julio de 2018.
 
@@ -275,7 +275,9 @@ V. Nombrar al Magistrado Presidente del Tribunal de Conciliación y Arbitraje de
 
 VI. Designar al Fiscal General de Justicia del Estado, con el voto de las dos terceras partes de los miembros presentes de la Legislatura;
 
-VII. Designar al Presidente y demás consejeros de la Comisión de Derechos Humanos del Estado. Citar a comparecer a las autoridades o servidores públicos responsables para explicar el motivo de la negativa a aceptar o cumplir las recomendaciones que le haga la misma Comisión. En los periodos de receso del Pleno, esta atribución podrá ejercerla la Comisión Permanente;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2020)</small>
+
+VII. Designar al Presidente y demás consejeros de la Comisión de Derechos Humanos del Estado con el voto de las dos terceras partes de los diputados presentes de la Legislatura. Citar a comparecer a las autoridades o servidores públicos responsables para explicar el motivo de la negativa a aceptar o cumplir las recomendaciones que le haga la misma Comisión. En los periodos de receso del Pleno, esta atribución podrá ejercerla la Comisión Permanente;
 
 VIII. Designar a los Magistrados del Tribunal de Justicia Administrativa del Estado, con el voto de las dos terceras partes de los miembros presentes de la Legislatura;
 
@@ -2454,3 +2456,9 @@ El Poder Legislativo del Estado, realizará las acciones administrativas necesar
 Disposiciones de derogación
 
 Artículo Sexto. Se derogan todas las disposiciones legales, reglamentarias o administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
+
+P.O. 5 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 198.- SE REFORMA LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS Y LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
