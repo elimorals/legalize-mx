@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-38-2010-del-pleno-del-consejo-de-la-78799"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-01-27"
-last_updated: "2011-01-27"
+last_updated: "2020-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78799&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-01-19"
 ---
 # ACUERDO GENERAL 38/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LOS SECRETARIOS DEL DESPACHO PARA EL TURNO DE ASUNTOS CON MOTIVO DEL ALCOHOLIMETRO, EN LOS JUZGADOS DE DISTRITO EN MATERIA ADMINISTRATIVA EN EL DISTRITO FEDERAL]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 1/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEERACIÓN DE 5 DE FEBRERO DE 2020, EL PRESENTE ACUERDO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL 38/2010, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LOS SECRETARIOS ENCARGADOS DEL DESPACHO PARA EL TURNO DE ASUNTOS CON MOTIVO DEL ALCOHOLIMETRO (ACTOS PRIVATIVOS DE LA LIBERTAD DE NATURALEZA ADMINISTRATIVA), EN LOS JUZGADOS DE DISTRITO EN MATERIA ADMINISTRATIVA EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE FEBRERO DE 2020 (ABROGADO).
 
 Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el jueves 27 de enero de 2011.
 
@@ -100,3 +102,25 @@ PRIMERO.- El presente acuerdo entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 38/2010, del Pleno del Consejo de la Judicatura Federal, Relativo a los Secretarios Encargados del Despacho para el Turno de Asuntos con Motivo del Alcoholímetro (Actos Privativos de la Libertad de Naturaleza Administrativa), en los Juzgados de Distrito en Materia Administrativa en el Distrito Federal, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de uno de diciembre de dos mil diez, por mayoría de seis votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Alejandro Jáuregui Robles, Jorge Moreno Collado y Oscar Vázquez Marín; en contra del voto del señor Consejero César Esquinca Muñoa.- México, Distrito Federal, a diecinueve de enero de dos mil once.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 5 DE FEBRERO DE 2020.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO GENERAL 1/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.]</small>
+
+PRIMERO. Se abroga el Acuerdo General 38/2010 del Pleno del Consejo de la Judicatura Federal, relativo a los secretarios encargados del despacho para el turno de asuntos con motivo del alcoholímetro (actos privativos de la libertad de naturaleza administrativa), en los Juzgados de Distrito en Materia Administrativa en el Distrito Federal.
+
+SEGUNDO. Se abroga el Acuerdo General 4/2014, del Pleno del Consejo de la Judicatura Federal, relativo a los secretarios encargados del despacho para el turno de asuntos de naturaleza urgente en días y horas inhábiles con motivo de los operativos de alcoholimetría, en los Juzgados de Distrito en Materias Administrativa, Civil y de Trabajo en el Estado de Jalisco.
+
+TERCERO. El Pleno y la Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal, estarán facultados para interpretar y resolver las cuestiones administrativas que se susciten con motivo de la aplicación del presente Acuerdo en el ámbito de sus respectivas competencias.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 1/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ABROGAN LOS ACUERDOS GENERALES 38/2010 Y 4/2014, DEL PROPIO ÓRGANO COLEGIADO, RELATIVOS A LOS SECRETARIOS ENCARGADOS DEL DESPACHO PARA EL TURNO DE ASUNTOS DE NATURALEZA URGENTE EN DÍAS Y HORAS INHÁBILES CON MOTIVO DE LOS OPERATIVOS DE ALCOHOLIMETRÍA EN LOS JUZGADOS DE DISTRITO EN MATERIA ADMINISTRATIVA EN EL DISTRITO FEDERAL, AHORA CIUDAD DE MÉXICO Y EN LOS JUZGADOS DE DISTRITO EN MATERIAS ADMINISTRATIVA, CIVIL Y DE TRABAJO EN EL ESTADO DE JALISCO, RESPECTIVAMENTE”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se deroga cualquier disposición que contravenga el presente Acuerdo.
+
+TERCERO. La atención de asuntos urgentes que ingresen en el periodo de guardia previo al inicio de vigencia del presente Acuerdo, serán tramitados por el secretario encargado del despacho.
+
+CUARTO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
