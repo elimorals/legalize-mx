@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2019-06-15"
+last_updated: "2020-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2020.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -44,8 +44,6 @@ DECRETA
 ###### ARTÍCULO ÚNICO.
 
 Se crea la Ley Estatal del Derecho de las Mujeres a una Vida Libre de Violencia, para quedar de la siguiente manera:
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 859/2012, PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL.</small>
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
@@ -159,7 +157,9 @@ III. Violencia sicológica: Es cualquier acto u omisión que daña la estabilida
 
 IV. Violencia patrimonial: Es cualquier acto u omisión del agresor que afecta la supervivencia de la víctima. Se manifiesta en la transformación, sustracción, destrucción, limitación, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima.
 
-V. Violencia económica: Es toda acción u omisión del agresor que tiene como propósito o resultado que la víctima perciba un salario menor por igual trabajo, dentro de un mismo centro laboral.
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2020)</small>
+
+V. Violencia Económica: Es toda acción u omisión del agresor que genera limitaciones encaminadas a controlar el ingreso económico de la víctima o la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral.
 
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
 
@@ -1208,6 +1208,14 @@ P.O. 10 DE NOVIEMBRE DE 2018.
 P.O. 15 DE JUNIO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLYC/0854/2018 XVI P.E., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA; Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVI/RFLEY/0582/2019 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 5, FRACCIÓN V, DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
 
 ###### ARTÍCULO ÚNICO.
 
