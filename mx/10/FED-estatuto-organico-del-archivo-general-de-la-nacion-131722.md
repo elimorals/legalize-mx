@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-archivo-general-de-la-nacion-131722"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-11-27"
-last_updated: "2018-11-27"
+last_updated: "2020-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131722&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,13 @@ issue_date: "2018-11-20"
 ---
 # ESTATUTO ORGANICO DEL ARCHIVO GENERAL DE LA NACION
 
+NOTA 1: INFORMACIÓN OBTENIDA DEL PORTAL DEL ARCHIVO GENERAL DE LA NACIÓN Y DEL DIARIO OFICIAL DE LA FEDERACIÓN EN https://www.gob.mx/cms/uploads/attachment/file/524277/Estatuto_Organico__AGN.pdf Y www.dof.gob.mx/2020/AGN/Estatuto_Organico_Archivo_General_Nacion.pdf
+
+NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 5 DE FEBRERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
+
 ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DE LA NACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE FEBRERO DE 2020 (ABROGADO).
 
 Acuerdo aprobado por el Órgano de Gobierno del Archivo General de conformidad con los Acuerdos (R) OG-O-III-18-9 de la Tercera Sesión Ordinaria, celebrada el 18 de septiembre de 2018 y (R) OG-O-IV-18-10 de la Cuarta Sesión Ordinaria, celebrada el 06 de noviembre de 2018; y publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 27 de noviembre de 2018.
 
@@ -972,3 +976,21 @@ SEXTO.- El presente Estatuto deberá ser inscrito en el Registro Público de Org
 SÉPTIMO.- Las referencias que se hacen y las atribuciones que se otorgan en lineamientos, acuerdos, reglas y demás disposiciones a las áreas que cambian de denominación o desaparecen por virtud del presente Estatuto, se entenderán hechas o conferidas a las unidades administrativas o áreas que correspondan conforme a lo establecido en el presente Acuerdo.
 
 OCTAVO.- El presente Estatuto fue aprobado por el Órgano de Gobierno del Archivo General de conformidad con los Acuerdos (R) OG-O-III-18-9 de la Tercera Sesión Ordinaria, celebrada el 18 de septiembre de 2018 y (R) OG-O-IV-18-10 de la Cuarta Sesión Ordinaria, celebrada el 06 de noviembre de 2018.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 5 DE FEBRERO DE 2020.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL ACUERDO DEL ÓRGANO DE GOBIERNO DEL ARCHIVO GENERAL DE LA NACIÓN QUE EXPIDE EL ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DE LA NACIÓN.]</small>
+
+ÚNICO.- Para conocimiento de los interesados se da a conocer el Acuerdo (S) OG-O-3-19-5 del Órgano de Gobierno del Archivo General de la Nación, por el que se aprueba el Estatuto Orgánico del Archivo General de la Nación, consultable en la liga:
+
+https://www.gob.mx/cms/uploads/attachment/file/524277/Estatuto_Organico__AGN.pdf
+
+www.dof.gob.mx/2020/AGN/Estatuto_Organico_Archivo_General_Nacion.pdf
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EXPIDE EL ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DE LA NACIÓN”.]
+
+PRIMERO.- El presente Estatuto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Archivo General, publicado en el Diario Oficial de la Federación el 27 de noviembre de 2018.
