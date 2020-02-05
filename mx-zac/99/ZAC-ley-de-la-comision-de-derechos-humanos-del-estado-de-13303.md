@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-la-comision-de-derechos-humanos-del-estado-de-13303"
 country: "mx"
 rank: "ley"
 publication_date: "1993-01-27"
-last_updated: "2017-09-16"
+last_updated: "2020-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2020.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 27 de enero de 1993.
 
@@ -331,11 +331,11 @@ V. No haber sido dirigente de partido político, ni ministro de culto religioso 
 
 VI. No haber rechazado o incumplido, de manera infundada, una recomendación en materia de derechos humanos, con el carácter de superior jerárquico del funcionario sancionado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 12.
 
-Quien presida la Comisión, será designado por la Legislatura conforme un procedimiento de consulta pública, para lo cual observará las siguientes bases:
+Quien presida la Comisión, será designado por las dos terceras partes de los diputados presentes de la Legislatura, conforme a un procedimiento de consulta pública, para lo cual se observarán las siguientes bases:
 
 > <small>(REFORMADA, P.O. 15 DE JULIO DE 2017)</small>
 
@@ -587,7 +587,7 @@ VIII. Coordinar, con acuerdo del titular de la Presidencia, las acciones de tran
 
 IX. Las demás que le sean conferidas por el Presidente, el Consejo Consultivo o la ley.
 
-> <small>(REFORMADO PRMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 24
 
@@ -1305,13 +1305,11 @@ CUARTO. Los recursos humanos, financieros y materiales que se requieran para dar
 
 QUINTO. Para el caso de las facultades de la Visitaduría para la Atención de Asuntos de las mujeres y de políticas de igualdad sustantiva entre mujeres y hombres, serán contempladas en el reglamento interno de la Comisión, debiéndose reformar tal instrumento legal en un periodo de treinta días hábiles contados a partir de la entrada en vigor del presente.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2023.- MEDIANTE EL CUAL SE ADICIONA, UN PÁRRAFO CUARTO A LA FRACCIÓN VII DEL ARTÍCULO 53, UN PÁRRAFO SEGUNDO A LA FRACCIÓN XXI DEL ARTICULO 59 Y, UN PÁRRAFO SEGUNDO A LA FRACCIÓN IV DEL ARTÍCULO 80, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+P.O. 5 DE FEBRERO DE 2020.
 
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 198.- SE REFORMA LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS Y LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS".]
 
-Segundo.- Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
-
-P.O. 15 DE OCTUBRE DE 2016.
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2049.- MEDIANTE EL CUAL SE DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA; DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA”.]
 
