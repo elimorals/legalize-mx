@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2019-12-07"
+last_updated: "2020-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
+(NOTA: EL 20 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2016, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO LXVI/EXLEY/0589/2019 I P.O., ÚNICAMENTE EN CUANTO A LA REFORMA DEL ARTÍCULO 367, PÁRRAFO PRIMERO, DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL CINCO DE FEBRERO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2020
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1909,11 +1911,11 @@ III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
 A)
 
-(NOTA: EL 20 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 1447/2016 XX P.E., QUE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO, INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 20 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2016, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO LXVI/EXLEY/0589/2019 I P.O., QUE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO, INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2020)</small>
 
-367.- LA PERSONA MAYOR DE EDAD, SOLTERA, EN PLENO EJERCICIO DE SUS DERECHOS, PUEDE ADOPTAR A OTRA MENOR DE EDAD O A UNA CON DISCAPACIDAD, AUN CUANDO ESTA SEA MAYOR DE EDAD, SIEMPRE QUE EL ADOPTANTE TENGA QUINCE AÑOS MÁS QUE EL ADOPTADO Y QUE ACREDITE ADEMÁS:
+367.- LA PERSONA MAYOR DE VEINTICINCO AÑOS DE EDAD, SOLTERA, EN PLENO EJERCICIO DE SUS DERECHOS, PUEDE ADOPTAR A UNA NIÑA, NIÑO O ADOLESCENTE, AUN CUANDO ESTE SEA MAYOR DE EDAD, SIEMPRE QUE EL ADOPTANTE TENGA QUINCE AÑOS MÁS QUE LA PERSONA ADOPTADA Y QUE ACREDITE ADEMÁS:
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)</small>
 
@@ -1971,15 +1973,17 @@ En todos los casos prevalecerá el interés superior del adoptado y el respeto a
 
 374.- Para que se autorice la adopción, deberán consentir en ella, en sus respectivos casos:
 
-> <small>(F. DE E., P.O. 31 DE ENERO DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE FEBRERO DE 2020)</small>
 
-I.- Quien o quienes ejercen la patria potestad sobre el menor que se pretende adoptar; excepto el que haya incumplido con la obligación de suministrar alimentos;
+I. Quien o quienes ejercen la patria potestad sobre la niña, niño o adolescente que se pretende adoptar, excepto el que haya incumplido con la obligación de suministrar alimentos.
 
 > <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2012)</small>
 
 Cuando las personas referidas se presenten ante la Procuraduría de Asistencia Jurídica y Social o ante los Sistemas Estatal o Municipal para el Desarrollo Integral de la Familia, para otorgar el consentimiento en los términos de esta fracción, corresponderá a dichas autoridades trasladarlos ante el juez competente, quien levantará en el mismo acto la constancia relativa, siguiendo el procedimiento establecido para las diligencias de jurisdicción voluntaria, aun y cuando no se hubiese iniciado el trámite de adopción.
 
-II.- El tutor;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2020)</small>
+
+II. El tutor o la tutriz.
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)</small>
 
@@ -1987,15 +1991,27 @@ III. El organismo para la asistencia social pública estatal o municipal corresp
 
 En su caso, estas instituciones pedirán la opinión de la persona que lo haya acogido durante seis meses anteriores a la solicitud de adopción y lo trate como un hijo, y
 
-IV.- El Ministerio Público en todos los casos.
+IV. El Ministerio Público en todos los casos.
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2020)</small>
+
+V. La persona adolescente que se pretenda adoptar. Para el caso de niñas y niños, se deberá tomar en cuenta su opinión, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2020)</small>
+
+VI. La Procuraduría de Protección de Niñas, Niños y Adolescentes.
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2020)</small>
+
+VII. Las personas solicitantes.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE OCTUBRE DE 2009)</small>
 
 375.- Para los efectos del artículo anterior, si el tutor, el Ministerio Público, el organismo para la asistencia social pública estatal o municipal, según corresponda, a través de su respectiva Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, no consienten en la adopción, deberán expresar la causa en que se funden. El Juez valorará la objeción y atendiendo a los intereses de quien se pretende adoptar, resolverá lo que a su recto criterio proceda.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2020)</small>
 
-376.- El procedimiento judicial para llevar a cabo la adopción se sujetará a lo establecido en el Código de Procedimientos Civiles.
+376.- El procedimiento administrativo y judicial para llevar a cabo la adopción se sujetará a lo establecido en la Ley de Adopciones, y en lo dispuesto por el Código de Procedimientos Familiares, ambos ordenamientos del Estado de Chihuahua.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
@@ -2235,17 +2251,17 @@ V.- Cuando quien la ejerza deje de asistir y convivir injustificadamente con el 
 
 VI.- Por abandono del menor durante un plazo de 60 días naturales, aun cuando no se comprometa su salud, seguridad o moralidad.
 
-> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2020)</small>
 
-VII.- Cuando quien la ejerza otorgue su consentimiento de dar en adopción a la persona menor de edad, en cuyo caso, el Juez de lo Familiar se asegurará de que haya sido otorgado sin vicio alguno.
+VII. Cuando quien la ejerza haya entregado voluntariamente a su hija o hijo en alguna institución de asistencia social, o bien, cuando otorga su consentimiento para dar en adopción a su hija o hijo.
 
 > <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2010)</small>
 
 VIII.- Cuando la persona menor de edad estuviese en un establecimiento asistencial y quienes la ejerzan se hubieran desentendido totalmente de la misma durante un año o cuando el desamparo moral o material resulte evidente, manifiesto y continuo.
 
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2020)</small>
 
-421 BIS.- La patria potestad podrá ser limitada cuando el que la ejerce incurra en conductas de violencia familiar previstas por el artículo 300 ter de este Código en contra de las personas sobre las cuales la ejerza.
+421 BIS.- La patria potestad se perderá cuando quien la ejerce incurra en conductas de violencia familiar previstas por el artículo 300 ter de este Código en contra de las personas sobre las cuales la ejerza.
 
 > <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2010)</small>
 
@@ -13176,3 +13192,29 @@ P.O. 7 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+(NOTA: EL 20 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2016, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO LXVI/EXLEY/0589/2019 I P.O., ÚNICAMENTE EN CUANTO A LA REFORMA DEL ARTÍCULO 367, PÁRRAFO PRIMERO, DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL CINCO DE FEBRERO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+P.O. 5 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVI/EXLEY/0589/2019 I P.O. POR MEDIO DEL CUAL SE EXPIDE LA LEY DE ADOPCIONES DEL ESTADO DE CHIHUAHUA Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones reglamentarias de esta Ley deberán ser expedidas por el Poder Ejecutivo Estatal dentro de los 180 días naturales siguientes a la entrada en vigor de la misma.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo Técnico Estatal de Adopciones contará con un plazo de 30 días naturales posteriores a la entrada en vigor del presente Decreto para su integración y funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos de adopción en trámite deberán regularizarse para continuarse conforme a la presente legislación, salvo que se hayan generado derechos consumados o adquiridos.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
