@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-deporte-y-cultura-fisica-del-estado-de-morelos-56159"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2016-05-04"
+last_updated: "2020-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DEL DEPORTE Y CULTURA FISICA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de julio de 2007.
 
@@ -291,7 +293,9 @@ El Consejo se integrará por:
 
 a) El titular del Ejecutivo Estatal, quien lo presidirá;
 
-b) El Secretario de Desarrollo Social;
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2020)</small>
+
+b) El Titular de la Secretaría de Educación;
 
 c) El Secretario de salud;
 
@@ -421,11 +425,11 @@ XIII. Las demás que les confieran las disposiciones normativas aplicables y est
 
 ### CAPÍTULO PRIMERO. DEL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2020)</small>
 
 ###### ARTÍCULO 26.
 
-El Instituto del Deporte y Cultura Física del Estado de Morelos es un Organismo Público Descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Desarrollo Social, con residencia en la ciudad de Cuernavaca, Morelos.
+El Instituto del Deporte y Cultura Física del Estado de Morelos es un Organismo Público Descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propio, Sectorizado a la Secretaría de Educación, con residencia en la ciudad de Cuernavaca, Morelos.
 
 ### CAPÍTULO SEGUNDO. DEL OBJETO Y ATRIBUCIONES DEL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
@@ -633,11 +637,11 @@ XIII. Aprobar el calendario anual de sesiones, y
 
 XIV. Las demás que expresamente disponga la presente Ley y la normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2020)</small>
 
 ###### ARTÍCULO 37.
 
-El Instituto, por conducto del Director General, rendirá anualmente a la Secretaría de Desarrollo Social, un informe general de labores realizadas durante el ejercicio, previamente aprobado por la Junta de Gobierno y apegado a su proyecto de desarrollo.
+El Instituto, por conducto del Director General, rendirá anualmente a la Secretaría de Educación, un informe general de labores realizadas durante el ejercicio, previamente aprobado por la Junta de Gobierno y apegado a su proyecto de desarrollo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1141,31 +1145,21 @@ En la construcción de instalaciones deportivas deberán de tomarse en cuenta la
 
 ### CAPÍTULO SÉPTIMO. DEL MUSEO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS; DEL SALÓN DE LA FAMA DEL MORELENSE Y DEL PATRONATO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-ARTÍCULO 83 BIS.- Se crea el Museo del Deporte y Cultura Física del Estado de Morelos, como un espacio perteneciente al Instituto, el cual incluirá dentro de su estructura el “Salón de la Fama del Morelense”.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+ARTÍCULO 83 BIS.- Se crea el Museo del Deporte y Cultura Física del Estado de Morelos, como un espacio perteneciente al Instituto, el cual incluirá dentro de su estructura el "Salón de la Fama del Morelense".
 
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ARTÍCULO 83 TER.- El Museo del Deporte y Cultura Física del Estado de Morelos, es la Institución que con el propósito de estudio, divulgación, educación y reconocimiento, se encargará de conservar, exponer y exhibir los reconocimientos y triunfos, así como, fotografías, videos, objetos y pertenencias de los deportistas, jueces, árbitros, entrenadores o instructores morelensesdestacados (sic) en diversas disciplinas y modalidades y de las personas que han fomentado el impulso, desarrollo y crecimiento del deporte y la cultura física en el Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ARTÍCULO 83 QUATER.- "El Salón de la Fama del Morelense", será un espacio incluido dentro del Museo, con el fin de ser un espacio de reconocimiento permanente al esfuerzo, mérito y trayectoria de aquellos deportistas, jueces, árbitros, entrenadores o instructores morelensesdestacados (sic) en diversas disciplinas y modalidades, así como, a las personas que han fomentado el impulso, desarrollo o crecimiento del deporte y la cultura física en el Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ARTICULO 83 QUINQUIES.- Corresponderá al Consejo Consultivo Estatal del Deporte y Cultura Física, seleccionar a quienes ingresarán al Museo y al Salón de la Fama, para cuyo efecto habrá de emitir las convocatorias respectivas y verificará la integración de los expedientes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
@@ -1183,31 +1177,27 @@ V.- Estar en activo o retirados; y
 
 VI.- Podrán ser considerados en vida o post mortem.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ARTÍCULO 83 SEPTIES.- El ingreso al Museo o al Salón de la Fama se hará mediante ceremonia oficial, en la que se coloque en su caso, la correspondiente placa conmemorativa y también podrá incluirse un testimonio con los logros deportivos, así como, fotografías, videos, objetos y pertenencias, entre otros.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 83 OCTIES.- El Museo contará con un Patronato denominado Patronato del Museo del Deporte y Cultura Física del Estado de Morelos, que estará integrado por el Titular de la Secretaría de Educación y el Director del Instituto del Deporte en el Estado, quienes representarán a la Junta de Gobierno y por cinco miembros designados y removidos libremente por el Titular del Instituto del Deporte y Cultura Física del Gobierno del Estado de Morelos.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2020)</small>
+
+El Titular de la Secretaría de Educación, presidirá el Patronato y se designarán de entre los integrantes de éste, a un Vicepresidente, un Secretario de Sesiones, un Tesorero y Vocales.
 
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
-
-ARTÍCULO 83 OCTIES.- El Museo contará con un Patronato denominado Patronato del Museo del Deporte y Cultura Física del Estado de Morelos, que estará integrado por el Secretario de Desarrollo Social y el Director del Instituto del Deporte en el Estado, quienes representarán a la Junta de Gobierno y por cinco miembros designados y removidos libremente por el Titular del Instituto del Deporte.
-
-El Secretario de Desarrollo Social, presidirá el Patronato y se designarán de entre los integrantes de éste a un Vicepresidente, un Secretario de Sesiones, un Tesorero y Vocales.
 
 Los cargos de los miembros del Patronato serán honoríficos y se seleccionarán de entre los sectores público, social y privado con prestigio, honorabilidad y valores altruistas que hayan tenido experiencia en actividades en materia deportiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+ARTÍCULO 83 NOVIES.- El Patronato del Museo, celebrará Sesiones Ordinarias cada tres meses y las Extraordinarias que se requieran, a citación expresa del Titular de la Secretaría de Educación o a petición de la mayoría de sus miembros.
 
-ARTÍCULO 83 NOVIES.- El Patronato del Museo, celebrará Sesiones Ordinarias cada tres meses y las Extraordinarias que se requieran, a citación expresa del Secretario de Desarrollo Social o a petición de la mayoría de sus miembros.
-
-Las Asambleas deberán contar con la asistencia de cuando menos la mitad más uno de los miembros del Patronato y las resoluciones que se tomen deberán ser por mayoría de votos de los asistentes, teniendo el Secretario de Desarrollo social el voto de calidad, en caso de empate.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Las Asambleas deberán contar con la asistencia de cuando menos la mitad más uno de los miembros del Patronato y las resoluciones que se tomen deberán ser por mayoría de votos de los asistentes, teniendo el Titular de la Secretaría de Educación el voto de calidad, en caso de empate.
 
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
@@ -1240,8 +1230,6 @@ XII. Programar eventos con el propósito de valorar el avance de los programas;
 XIII. Conservar y mantener el patrimonio deportivo a través de mecanismos de financiamiento con la participación del sector privado y público; y,
 
 XIV. Las demás que sean necesarias para el ejercicio de sus facultades
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
@@ -2044,3 +2032,21 @@ QUINTA.- En un plazo no mayor a 6 meses, los Municipios deberán hacer las adecu
 SEXTA.- Dentro de los 90 días posteriores a la entrada en vigor del presente Decreto, este Poder Legislativo deberá hacer las modificaciones respectivas a la Ley del Sistema de Seguridad Pública del Estado de Morelos, a fin de dar cumplimiento al mismo.
 
 SÉPTIMA.- Dese cuenta a la Cámara de Senadores, en contestación al acuerdo contenido en el oficio DGPL-1P3A.-6107.16 de fecha 09 de diciembre de 2014, mediante el cual se exhorta a los Congresos de los Estados de la Federación y a la Asamblea Legislativa del Distrito Federal a actualizar los marcos legales correspondientes donde se pueda prevenir, sancionar y eliminar la violencia que se genere en cualquier evento, no sólo futbol, de la que este Congreso ha dado cumplimiento.
+
+P.O. 5 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS CINCUENTA Y DOS POR EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS, CON EL OBJETO DE SECTORIZAR EL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA, A LA SECRETARÍA DE EDUCACIÓN DEL GOBIERNO DEL ESTADO".]
+
+PRIMERA.- Remítase al Ejecutivo del Estado para que realice la publicación correspondiente en el Periódico Oficial "Tierra y Libertad".
+
+SEGUNDA.- El presente Decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado.
+
+TERCERA.- La Junta de Gobierno del Instituto del Deporte y Cultura Física del Estado de Morelos, contara con un plazo de treinta días hábiles siguientes a la publicación del presente Decreto, para realizar las modificaciones necesarias al Estatuto Orgánico del citado Instituto, y una vez aprobadas, solicitar la inscripción de las mismas en el Registro Público de Organismos del Estado de Morelos, de conformidad con lo dispuesto en el artículo 84 de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
+
+CUARTA. Los programas y políticas públicas implementadas por el Instituto del Deporte y Cultura Física del Estado de Morelos durante el presente año, se mantendrán vigentes en tanto el órgano competente determine lo contrario.
+
+QUINTA. Durante el presente ejercicio fiscal, el presupuesto asignado al Instituto del Deporte y Cultura Física será ministrado por la Secretaría de Desarrollo Social, hasta el momento en que deje de surtir sus efectos el Presupuesto de Egresos del Gobierno del Estado de Morelos, para el ejercicio fiscal del 1 de enero al 31 de diciembre de 2019.
+
+SEXTA. El Congreso del Estado tomara las previsiones necesarias para que, en el Presupuesto de Egresos del Gobierno del Estado de Morelos para el ejercicio fiscal del 1 de enero al 31 de diciembre de 2020, se asignen recursos suficientes al Instituto del Deporte como Organismo Público Descentralizado de la Secretaría de Educación.
+
+SÉPTIMA. Se derogan todas aquellas disposiciones que contravengan a lo dispuesto al presente Decreto.
