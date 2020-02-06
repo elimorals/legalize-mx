@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2020-01-22"
+last_updated: "2020-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE FEBRERO DE 2020.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1552,7 +1552,11 @@ En los casos contemplados en las fracciones I, II y III, los médicos tendrán l
 
 ### CAPÍTULO I. PRIVACIÓN DE LA LIBERTAD PERSONAL
 
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2020)</small>
+
 ### CAPÍTULO II. PRIVACIÓN DE LA LIBERTAD CON FINES SEXUALES
+
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2020)</small>
 
 ### CAPÍTULO III. SECUESTRO
 
@@ -1678,9 +1682,7 @@ Si la privación de la libertad excede de veinticuatro horas, la pena de prisió
 
 Si el agente espontáneamente libera a la víctima dentro de las veinticuatro horas siguientes al de la privación de la libertad, la pena de prisión será de la mitad de la prevista.
 
-La pena de prisión se aumentará en una mitad, cuando la privación de la libertad se realice con violencia, la víctima sea menor de edad o mayor de sesenta años o por cualquier circunstancia, la víctima esté en situación de inferioridad física o mental respecto del agente.
-
-> <small>(DEROGADO QUINTO PÁRRAFO, G.O. 9 DE JUNIO DE 2006)</small>
+La pena de prisión se aumentará en una mitad, cuando la privación de la libertad se realice con violencia, la víctima sea menor de edad o mayor de sesenta años o por cualquier circunstancia, la víctima esté en situación de inferioridad física o mental respecto del agente, cuando la privación ocurra en vehículos destinados al transporte público o en aquellos de transporte privado solicitados a través de plataformas tecnológicas.
 
 ###### ARTÍCULO 161.
 
@@ -1692,11 +1694,13 @@ Se impondrán de tres a ocho años de prisión y de cincuenta a doscientos días
 
 ###### ARTÍCULO 162.
 
-Al que prive a otro de su libertad, con el propósito de realizar un acto sexual, se le impondrá de uno a cinco años de prisión.
+Al que prive a otro de su libertad, con el propósito de realizar un acto sexual, se le impondrá de cuatro a siete años de prisión.
 
-Si dentro de las veinticuatro horas siguientes, el autor del delito restituye la libertad a la víctima, sin haber practicado el acto sexual, la sanción será de tres meses a tres años de prisión.
+La pena señalada en el párrafo anterior, se aumentará en una mitad, cuando el delito ocurra en vehículos destinados al transporte público o en aquellos de transporte privado, solicitados a través de plataformas tecnológicas.
 
-Este delito se perseguirá por querella.
+Si dentro de las veinticuatro horas siguientes, el autor del delito restituye la libertad a la víctima, sin haber practicado el acto sexual, la sanción será de uno a tres años de prisión.
+
+Este delito se perseguirá de oficio.
 
 ### CAPÍTULO IV. ESTUPRO
 
@@ -5997,3 +6001,11 @@ G.O. 22 DE ENERO DE 2020.
 PRIMERO.- El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Remítase a la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México para los efectos legales a que haya lugar.
+
+G.O. 6 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 160 Y 162 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+Primero: El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. Remítase a la Jefa de Gobierno para efectos de su publicación en la Gaceta Oficial de la Ciudad de México.
