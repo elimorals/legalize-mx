@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2019-12-18"
+last_updated: "2020-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "TAM"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -553,9 +553,9 @@ b) Desde una vez el valor diario de la Unidad de Medida y Actualización, a quie
 
 c).- Desde cincuenta veces el valor diario de la Unidad de Medida y Actualización, a quien infrinja lo establecido en el artículo 19 Ter, fracción I, incisos a), b) y c) la cual no podrá ser condonada ni reducida, igual multa a los menores de dieciocho años, que cuenten con licencia provisional e infrinjan lo establecido en este artículo, los que serán remitidos a la autoridad correspondiente quien deberá hacer del conocimiento de los padres o tutores, o de quienes ejerzan la patria potestad o la custodia, de la infracción cometida y la sanción correspondiente. Los padres serán responsables solidarios por el pago de la multa impuesta; y,
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2020)</small>
 
-d).- Desde diez veces el valor diario de la Unidad de Medida y Actualización, a quien se estacione en lugar exclusivo para personas con discapacidad, sin acreditar fehacientemente que el conductor o alguno de sus ocupantes se encuentra en ese supuesto, sanción que no podrá ser condonada ni reducida.
+d).- Desde cuarenta veces el valor diario de la Unidad de Medida y Actualización, a quien se estacione en lugar exclusivo para personas con discapacidad, sin acreditar fehacientemente que el conductor o alguno de sus ocupantes se encuentra en ese supuesto, sanción que no podrá ser condonada ni reducida, asimismo recibirá un taller de inducción relativo a los derechos de las personas con discapacidad que será impartido por el Sistema para el Desarrollo Integral de la Familia en su municipio. Los Ayuntamientos deberán establecer un procedimiento de servicio comunitario, que podrán realizar los infractores para cubrir la sanción impuesta, dicho servicio comunitario no será menor de diez horas y se prestará preferentemente al Sistema DIF municipal.
 
 II. Suspensión de licencia:
 
@@ -876,3 +876,11 @@ P.O. 18 DE DICIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor el primero de enero de 2020, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 6 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-12 MEDIANTE EL CUAL SE REFORMA EL INCISO D) DE LA FRACCIÓN I, DEL PÁRRAFO PRIMERO, DEL ARTICULO 49 BIS, DE LA LEY DE TRÁNSITO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
