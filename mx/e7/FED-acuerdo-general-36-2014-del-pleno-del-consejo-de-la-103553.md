@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-36-2014-del-pleno-del-consejo-de-la-103553"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-11-19"
-last_updated: "2018-10-05"
+last_updated: "2020-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103553&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-11-12"
 
 ACUERDO GENERAL 36/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE FEBRERO DE 2020.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 19 de noviembre de 2014.
 
@@ -69,7 +69,9 @@ Para efectos del presente Acuerdo se entenderá por:
 
 I. Administración del Centro: La oficina del Administrador del Centro de Justicia Penal Federal y las áreas especializadas que de él dependen, en las cuales tiene lugar la gestión de los asuntos que ahí se tramitan, y donde se presta la atención de las necesidades de orden administrativo de estos órganos jurisdiccionales conforme al ámbito de su competencia;
 
-II. Administrador: Administrador del Centro de Justicia Penal Federal, funcionario responsable del trámite no jurisdiccional de los asuntos que ahí se tramitan, así como de la atención de las necesidades de orden administrativo de estos órganos jurisdiccionales conforme al ámbito de su competencia;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
+
+II. Administrador: Administrador del Centro de Justicia Penal Federal, funcionario que lleva a cabo las atribuciones previstas en el presente Acuerdo;
 
 III. Áreas administrativas: Las que determine el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo;
 
@@ -83,7 +85,7 @@ VII. Consejo: Consejo de la Judicatura Federal;
 
 VIII. Jueces de Distrito especializados en el sistema penal acusatorio: Jueces de Control, Tribunales de Enjuiciamiento y Jueces de Ejecución;
 
-IX. Juez de Despacho: Juez de Distrito especializado en el sistema penal acusatorio que además de la actividad jurisdiccional; de manera rotativa anualmente se hará cargo de las necesidades jurisdiccionales de la Administración del Centro y fungirá como enlace, en el ámbito de su competencia, con el Consejo para la atención de necesidades específicas;
+IX. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)
 
 X. Juez de Control: Juez de Distrito competente para intervenir desde el principio del procedimiento hasta el dictado de apertura a juicio;
 
@@ -95,13 +97,23 @@ XIII. Órganos jurisdiccionales: jueces de Control y de Ejecución, así como tr
 
 XIV. Tribunal de Enjuiciamiento: Juez de Distrito que interviene después del auto de apertura a juicio oral, hasta el dictado y explicación de la sentencia;
 
-XV. Tribunal de Alzada: Tribunal Unitario de Circuito competente para conocer de los asuntos a que se refieren los artículos 60 y 67 Bis 4 de la Ley; y
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
 
-XVI. Pleno: Pleno del Consejo.
+XV. Tribunal de Alzada: Tribunal Unitario de Circuito competente para conocer de los asuntos a que se refieren los artículos 60 y 67 Bis 4 de la Ley;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
+
+XVI. Pleno: Pleno del Consejo; y
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
+
+XVII. Unidad: Unidad para la Consolidación del Nuevo Sistema de Justicia Penal.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 3.
 
-La interpretación del presente Acuerdo corresponde al Pleno y a las Comisiones permanentes, en el ámbito de su competencia.
+La interpretación del presente Acuerdo corresponde al Pleno y a las Comisiones en el ámbito de sus respectivas competencias.
 
 ## TÍTULO SEGUNDO. DISPOSICIONES ORGÁNICAS
 
@@ -113,11 +125,11 @@ La interpretación del presente Acuerdo corresponde al Pleno y a las Comisiones 
 
 Los Centros se integran por jueces de Control; Tribunales de Enjuiciamiento, Tribunales de Alzada y jueces de Ejecución; así como por un Administrador, y el personal que determine el Consejo, de conformidad con el Presupuesto de Egresos del Poder Judicial de la Federación.
 
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 5.
 
-Los titulares tendrán a su cargo a los servidores públicos que les estén directamente adscritos. Lo mismo sucederá con el Administrador respecto de su personal.
+Los titulares tendrán a su cargo a los servidores públicos que les estén directamente adscritos, en los que se apoyarán para el desempeño de sus funciones. Lo mismo sucederá con el Administrador respecto de su personal.
 
 ### CAPÍTULO SEGUNDO. ADMINISTRACIÓN DEL CENTRO
 
@@ -131,49 +143,49 @@ El Administrador se auxiliará para el ejercicio de sus atribuciones del persona
 
 El Administrador será el responsable de la administración del Centro.
 
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 7.
 
 Los requisitos para ser Administrador son los siguientes:
 
-I. Contar con título y cédula profesional de licenciatura o posgrado, preferentemente de las profesiones de Administración Pública, Administración de Empresas, Licenciado en Derecho y afines a éstas, expedidos por autoridad competente, y acreditar los conocimientos necesarios mediante los exámenes de aptitud que determine el Consejo;
+I. Contar con título y cédula profesional de licenciatura en Derecho, expedidos por autoridad competente, preferentemente con experiencia en administración;
 
-II. Tener experiencia profesional mínima de tres años;
+II. Tener experiencia profesional mínima de un año en administración en el Poder Judicial de la Federación;
 
-III. Ser de nacionalidad mexicana;
+III. Obtener la certificación por parte del Instituto de la Judicatura, en lo que corresponde al ejercicio de la función que desempeñará como administrador;
 
-IV. Estar en pleno goce de derechos civiles y políticos;
+IV. Ser de nacionalidad mexicana;
 
-V. Gozar de buena reputación; y
+V. Estar en pleno goce de derechos civiles y políticos;
 
-VI. No haber sido condenado por delito doloso con sanción privativa de la libertad mayor a un año.
+VI. Gozar de buena reputación; y
 
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
+VII. No haber sido condenado por delito doloso con sanción privativa de la libertad mayor a un año.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 8.
 
-La selección del Administrador se sujetará al siguiente procedimiento:
+El Pleno determinará la designación, adscripción y, en su caso, remoción de los administradores, a propuesta de la Unidad, debiendo contar previamente con la opinión favorable de la Comisión de Administración.
 
-I. El Instituto de la Judicatura convocará al curso de capacitación para ocupar la plaza de Administrador.
-
-La convocatoria será abierta y se publicará en el Diario Oficial de la Federación, en un periódico de mayor circulación nacional, y en el portal del Consejo en Internet.
-
-En la convocatoria se deberán establecer las plazas sujetas al procedimiento de selección; lugar de inscripción; los requisitos que deben cumplir los aspirantes, de conformidad con lo previsto en el artículo anterior y la forma de acreditarlos; el lugar, días y horario en el que se llevará a cabo el curso de capacitación, así como el examen respectivo, señalando de manera clara y precisa, los parámetros para definir las más altas calificaciones y el mínimo aprobatorio; y los demás aspectos que determine el Pleno;
-
-II. Las personas que acrediten el curso de capacitación y el examen correspondiente serán elegibles como candidatos para ocupar la plaza de Administrador;
-
-III. El Instituto de la Judicatura remitirá los resultados y los nombres de los candidatos elegibles; y
-
-El Instituto de la Judicatura integrará una lista de reservistas con los candidatos elegibles que no hayan sido designados, para que el Pleno pueda designar plazas vacantes. La incorporación en la lista de reservistas será voluntaria y no generará derecho alguno a los integrantes de la misma.
-
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 9.
 
-El nombramiento inicial del Administrador será por 6 meses. Su desempeño será supervisado permanentemente.
+El Administrador del Centro estará adscrito a la Unidad, quien supervisará su desempeño.
+
+Asimismo, estará sujeto a la revisión y auditorias que lleven a cabo la Visitaduría Judicial y la Contraloría del Poder Judicial de la Federación en el ámbito de sus atribuciones.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
+
+###### Artículo 9 Bis.
+
+El nombramiento inicial del Administrador será por seis meses.
 
 Antes del vencimiento del nombramiento inicial, se hará una evaluación de su desempeño, cuyos resultados serán sometidos a la consideración del Pleno a efecto de que éste pondere sobre la renovación o no del nombramiento.
+
+La evaluación se llevará a cabo con base en los lineamientos aprobados por la Comisión de Administración a propuesta conjunta del Instituto de la Judicatura y la Unidad; a partir de la información que le proporcione la Visitaduría Judicial y la Contraloría del Poder Judicial de la Federación, respecto de los rubros a evaluar.
 
 > <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
 
@@ -199,7 +211,9 @@ b) Acreditación de periodistas y medios de comunicación, en términos de las d
 
 c) Recepción, registro y turno de correspondencia y asuntos;
 
-d) Vigilar la programación y gestión óptima de audiencias en el Sistema Integral de Seguimiento de Expedientes, así como dictar las bases para la organización del trabajo a cargo del personal a su cargo;
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
+
+d) Vigilar la programación y gestión óptima de causas y audiencias en el Sistema Integral de Seguimiento de Expedientes, así como dictar las bases para la organización del trabajo del personal a su cargo;
 
 e) Ejecutar las acciones de coordinación necesarias para garantizar el orden y apego a los protocolos de seguridad en las instalaciones del Centro;
 
@@ -219,67 +233,51 @@ V. Fungir como enlace entre el Centro y las áreas administrativas del Consejo, 
 
 VI. Apoyar en la operación, mantenimiento y supervisión de los sistemas informáticos de gestión judicial, garantizando que en la asignación de audiencias se observen las reglas procesales, entre ellas, la de que el juez que realice la de juicio no haya conocido de las anteriores antes de la causa;
 
-VII. Designar al personal de la Administración en los términos previstos en este Acuerdo; y
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
 
-VIII. Las demás que determinen el Pleno o las Comisiones permanentes.
+VII. Coadyuvar y vigilar que se encuentre capturada con oportunidad, toda la información requerida en el Sistema Integral de Seguimiento de Expedientes o de cualquier otro sistema de información conforme a los acuerdos generales correspondientes;
 
-En el ejercicio de estas atribuciones, el Administrador deberá observar la normatividad, procedimientos, manuales, lineamientos, directrices e instrucciones, tanto generales como particulares y demás disposiciones aplicables a las funciones de los Coordinadores Técnicos Administrativos.
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
+VIII. Dar trámite a los exhortos ordenados por los jueces de Distrito especializados en el sistema penal acusatorio;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
+
+IX. Enviar comunicaciones oficiales;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
+
+X. Atención de las solicitudes de transparencia y, en su caso, pronunciarse sobre la clasificación de reservada o confidencial;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
+
+XI. Designar al personal de la Administración que dependa jerárquicamente de él, en los términos previstos en este Acuerdo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
+
+XII. Las demás que determinen el Pleno o las Comisiones permanentes.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
+
+En el ejercicio de estas atribuciones, el Administrador deberá observar la normatividad, procedimientos, manuales, lineamientos, directrices e instrucciones, tanto generales como particulares y demás disposiciones aplicables.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 12.
 
-Las ausencias temporales y definitivas de los Administradores serán suplidas por el Encargado de Despacho Logístico - Administrativo, y en casos de ausencia de este último lo suplirá el Asistente de Constancias y Registro del juez de Despacho.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
+Las ausencias temporales y definitivas de los Administradores serán suplidas por el Encargado de Despacho Logístico – Administrativo, en ausencia de este último lo suplirá quien determine la Unidad.
 
 ###### Artículo 13.
 
-El juez de Despacho intervendrá con ese carácter en las necesidades jurisdiccionales de la Administración del Centro, y fungirá como enlace entre los magistrados de Circuito y jueces de Distrito del Centro y el Consejo para la atención de necesidades específicas.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
+(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)
 
 ###### Artículo 14.
 
-El juez de Despacho, con el apoyo del personal de la Administración del Centro, emitirá fuera de audiencia los siguientes actos de trámite de contenido jurisdiccional que ameriten los asuntos que se sustancian en cada Centro:
-
-I. Envío y recepción de exhortos;
-
-II. Envío de comunicaciones oficiales;
-
-III. Citación general para presentarse al Centro con apercibimiento de imponer medida de apremio;
-
-IV. Aplicación de medidas de apremio por incumplimiento de mandato judicial;
-
-V. Citación al imputado para audiencia inicial;
-
-VI. Orden judicial para entrevistar a alguna persona;
-
-VII. Orden judicial para protección a testigos;
-
-VIII. Rendición de informes previos y justificados en coordinación con el Juez señalado como autoridad responsable;
-
-IX. Declinación de competencia;
-
-X. Desechamiento de solicitudes de audiencia;
-
-XI. Resolución del recurso de revocación interpuesto contra cualquiera de sus decisiones;
-
-XII. Atención de las solicitudes de transparencia de contenido jurisdiccional y, en su caso, pronunciarse sobre la clasificación de reservada o confidencial; y
-
-XIII. Cualquier otra actuación análoga a las previstas en las fracciones de este artículo, cuyo contenido sea jurisdiccional en términos de las disposiciones aplicables.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
+(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)
 
 ###### Artículo 15.
 
-Los jueces de Distrito especializados en el sistema penal acusatorio designarán, al menos por mayoría, al juez de Despacho el último día hábil del mes de noviembre de cada año; en caso de empate tendrá voto de calidad el juez de Distrito de mayor antigüedad en la función, dando vista del acuerdo correspondiente a la Comisión de Carrera Judicial.
-
-A falta de acuerdo, de manera oportuna e inmediata se deberá dar vista de esta circunstancia a la Comisión de Carrera Judicial, a fin de que ésta designe a quien se habrá de desempeñar como Juez de Despacho.
-
-La designación comprenderá un periodo anual calendario que iniciará en el mes de enero del año siguiente a su elección, sin posibilidad de reelección para el periodo inmediato posterior.
-
-En los supuestos de ausencia temporal y definitiva del Juez de Despacho, éste será suplido por otro Juez del Centro, bajo el mismo mecanismo de elección descrito. En casos de ausencia definitiva la suplencia únicamente se extenderá hasta la conclusión del período anual calendario.
+(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)
 
 > <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
 
@@ -297,11 +295,15 @@ En el ámbito de su competencia, las áreas administrativas del Consejo brindar�
 
 ### CAPÍTULO TERCERO. JUECES Y TRIBUNALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 19.
 
-En términos de lo dispuesto en el Código, son competentes para conocer de los procedimientos penales federales regulados en el mismo, los jueces de Control y los tribunales de Enjuiciamiento y de Alzada, adscritos a los Centros, dentro de su jurisdicción territorial conforme a lo previsto en este Acuerdo y en el de su creación, y en los demás que expida el Consejo.
+En términos de lo dispuesto en el Código, y en la Ley Nacional de Ejecución Penal son competentes para conocer de los procedimientos penales federales regulados en el mismo, los jueces de Control y los tribunales de Enjuiciamiento y de Alzada, adscritos a los Centros, dentro de su jurisdicción territorial conforme a lo previsto en este Acuerdo y en el de su creación, y en los demás que expida el Consejo.
 
-Además de lo dispuesto por el artículo 22 de dicho Código, los jueces de Control y los tribunales de Enjuiciamiento serán competentes para conocer de procedimientos penales fuera de su jurisdicción territorial, en aquellos casos en que la Comisión de Adscripción lo determine.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
+
+Además de lo dispuesto por el artículo 22 de dicho Código, los jueces de Control y los tribunales de Enjuiciamiento serán competentes para conocer de procedimientos penales fuera de su jurisdicción territorial, en aquellos casos en que la Comisión de Creación de Nuevos Órganos lo determine.
 
 Los jueces de Ejecución serán competentes para conocer de la ejecución de sanciones penales impuestas en los procedimientos penales que se tramiten y resuelvan en el Centro de su adscripción, conforme a las disposiciones aplicables, sin perjuicio de que lo previsto en el párrafo anterior, también será observable respecto de dichos juzgadores.
 
@@ -337,7 +339,9 @@ Los Centros contarán con una oficialía de partes dependiente del Administrador
 
 El funcionamiento de las oficialías de partes se regirá por el manual correspondiente de los Centros.
 
-En todo caso el Administrador deberá adoptar las medidas necesarias para garantizar el funcionamiento del Centro, dando aviso de las mismas a la Comisión de Administración.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
+
+En todo caso el Administrador deberá adoptar las medidas necesarias para garantizar el funcionamiento óptimo del Centro, comunicando a la Unidad aquellas que por su relevancia o excepcionalidad así lo requieran. La Unidad deberá rendir cuenta de forma oportuna y periódica a la Comisión de Administración de estas medidas.
 
 ###### Artículo 22.
 
@@ -900,3 +904,25 @@ D.O.F. 5 DE OCTUBRE DE 2018.
 PRIMERO.- El Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reforma y deroga el similar que regula los Centros de Justicia Penal Federal y reforma disposiciones de diversos acuerdos generales, en relación con la administración de estos órganos jurisdiccionales, entrará en vigor el uno de diciembre de dos mil dieciocho, con excepción de lo previsto en los Transitorios TERCERO, primer párrafo; CUARTO; NOVENO; DÉCIMO y DÉCIMO PRIMERO los cuales iniciaron su vigencia al día siguiente al de la aprobación del citado instrumento normativo.
 
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 6 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. El Juez Administrador continuará en funciones de administrador hasta en tanto se designe al administrador del Centro de Justicia Penal Federal.
+
+Lo anterior, sin perjuicio de que el Pleno del Consejo de la Judicatura Federal determine otra alternativa para la transición.
+
+CUARTO. El Instituto de la Judicatura en coordinación con la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, determinarán en un lapso de 30 días hábiles contados a partir de la publicación del presente Acuerdo, el método para la selección y permanencia de los administradores, sometiéndolo para su consideración al Pleno del Consejo de la Judicatura Federal.
+
+QUINTO. Los juzgadores que dejen de realizar la función de Juez Administrador, continuarán adscritos al mismo Centro de Justicia Penal Federal en las funciones jurisdiccionales correspondientes.
+
+SEXTO. La Secretaría Ejecutiva de Administración, a través de las áreas administrativas de su adscripción deberá ejecutar las acciones necesarias para la implementación de este Acuerdo.
+
+SÉPTIMO. Cuando la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal concluya las funciones para las que fue creada, y se transforme en el Centro de Información e Innovación para la Justicia Penal, este asumirá las atribuciones determinadas en este Acuerdo para la Unidad.
+
+OCTAVO. Las áreas competentes realizarán las acciones necesarias que permitan la transición y funcionamiento del modelo actual al nuevo modelo, teniendo como límite el segundo semestre de 2020.
