@@ -4,7 +4,7 @@ identifier: "CMX-ley-procesal-electoral-de-la-ciudad-de-mexico-121815"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-07"
-last_updated: "2017-06-07"
+last_updated: "2020-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121815&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-06-06"
 
 LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE FEBRERO DE 2020.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de junio de 2017.
 
@@ -788,7 +788,9 @@ I. Presentarse ante la autoridad u órgano partidario responsable del acto o res
 
 II. Hacer constar el nombre del tercero interesado;
 
-III. Señalar domicilio para recibir notificaciones;
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2020)</small>
+
+III. Señalar domicilio para recibir notificaciones o, en su caso, una dirección de correo electrónico válida, en caso de solicitar la recepción de notificación electrónica, cumpliendo con el procedimiento que al efecto establezca el Pleno;
 
 IV. Acompañar la documentación que sea necesaria para acreditar la personería del compareciente, de conformidad con lo previsto en esta Ley;
 
@@ -838,7 +840,9 @@ Los medios de impugnación deberán presentarse por escrito y cumplir con los re
 
 I. Interponerse por escrito ante la autoridad electoral u órgano del Partido Político o Coalición que dictó o realizó el acto o la resolución. La autoridad u órgano electoral que reciba un medio de impugnación que no sea de su competencia lo señalará de inmediato al demandante y lo remitirá, sin dilación alguna al que resulte competente;
 
-II. Mencionar el nombre del actor y señalar domicilio en la Ciudad de México para recibir toda clase de notificaciones y documentos y, en su caso, a quien en su nombre las pueda oír y recibir; así como un número telefónico y una dirección de correo electrónico válida para recibir notificaciones por este medio en los términos de la normatividad que para tal efecto emita el Tribunal;
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2020)</small>
+
+II. Mencionar el nombre del actor y señalar domicilio en la Ciudad de México para recibir toda clase de notificaciones y documentos y, en su caso, a quien en su nombre las pueda oír y recibir; así como un número telefónico y una dirección de correo electrónico válida para recibir notificaciones electrónicas en los términos del procedimiento que para tal efecto emita el Pleno del Tribunal;
 
 III. En caso que la parte promovente no tenga acreditada la personalidad o personería ante la autoridad u órgano responsable, acompañará la documentación necesaria para acreditarla. Se entenderá por parte promovente a quien comparezca con carácter de representante legítimo;
 
@@ -1012,17 +1016,37 @@ En ningún caso se admitirán las pruebas ofrecidas o aportadas fuera de los pla
 
 ### CAPÍTULO VIII. De las Notificaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 62.
 
-Las notificaciones se podrán hacer personalmente, por estrados y estrados electrónicos, por lista o cédula publicada en los estrados, por oficio, por correo certificado, por telegrama, por vía fax, correo electrónico o mediante publicación en la Gaceta Oficial de la Ciudad de México, según se requiera para la eficacia del acto, resolución o sentencia a notificar, salvo disposiciones expresas en ésta ley.
+Las notificaciones se podrán hacer personalmente, por estrados y estrados electrónicos, por lista o cédula publicada en los estrados, por oficio, por correo certificado, por telegrama, por vía fax, por correo electrónico mediante el sistema de notificaciones electrónicas o mediante publicación en la Gaceta Oficial de la Ciudad de México, según se requiera para la eficacia del acto, resolución o sentencia a notificar, salvo disposiciones expresas en esta ley.
 
-Las partes que actúen en los medios de impugnación mencionados por ésta ley deberán señalar domicilio para oír y recibir notificaciones en la Ciudad de México; de no hacerlo, las notificaciones se realizarán por estrados.
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2020)</small>
+
+Las partes que actúen en los medios de impugnación mencionados por esta ley deberán señalar domicilio para oír y recibir notificaciones en la Ciudad de México o, en su caso, una dirección de correo electrónico válida en caso de solicitar la notificación electrónica, cumpliendo con el procedimiento que al efecto establezca el Pleno; de no hacerlo, las notificaciones se realizarán por estrados.
 
 Los estrados son los lugares públicos destinados en las oficinas de los órganos del Instituto e instalaciones del Tribunal, para que sean colocadas para su notificación, copias del escrito de demanda y de los autos y resoluciones que le recaigan.
 
 Los estrados electrónicos serán alojados en los respectivos sitios de Internet del Instituto y del Tribunal.
 
 Las notificaciones en materia de transparencia y acceso a la información se realizarán mediante correo electrónico en acuerdo por separado; de no ser posible, se practicarán de manera personal.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.O. 6 DE FEBRERO DE 2020)</small>
+
+Las resoluciones y acuerdos que emita el Tribunal con motivo del trámite, sustanciación y resolución de los medios de impugnación podrán notificarse mediante un sistema de notificaciones electrónicas, conforme al procedimiento que emita el Pleno, el cual deberá cumplir, al menos, los criterios siguientes:
+
+I. Se practicará cuando las partes manifiesten expresamente su voluntad de que sean notificadas por esta vía desde su primer escrito de comparecencia a juicio.
+
+II. El Tribunal proveerá al solicitante de una firma electrónica certificada y una cuenta institucional en la que se realicen las notificaciones, que deberán garantizar la identidad de su titular y las medidas de seguridad informática en la transmisión e integridad de las comunicaciones procesales.
+
+III. El sistema correspondiente generará automáticamente una constancia de envío y acuse de recibo de la comunicación procesal practicada.
+
+IV. Las notificaciones surtirán efectos a partir de que se tenga la constancia de envío y acuse de recibo.
+
+V. Establecerá las reglas para la expedición, vigencia, renovación y revocación del certificado de la firma electrónica, así como para la creación y baja de la cuenta institucional.
+
+VI. El uso de la firma electrónica certificada, de la cuenta institucional, así como de la información y contenido de todo documento digital recibido mediante notificación electrónica, será responsabilidad del usuario.
 
 ###### Artículo 63.
 
@@ -1118,13 +1142,19 @@ La notificación por correo se hará en pieza certificada, agregándose al exped
 
 Las notificaciones por correo electrónico surtirán sus efectos a partir de que se tenga constancia de su recepción o de su acuse de recibido. De la transmisión y recepción se levantará la razón correspondiente.
 
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 72.
 
-Cuando la parte actora, coadyuvantes o los terceros interesados, así lo autoricen expresamente, o en forma extraordinaria, a juicio del órgano jurisdiccional resulte conveniente para el conocimiento de una actuación, las notificaciones se podrán hacer a través de fax o correo electrónico.
+Cuando la parte actora, coadyuvantes o los terceros interesados así lo autoricen expresamente, o en forma extraordinaria, a juicio del órgano jurisdiccional resulte conveniente para el conocimiento de una actuación, las notificaciones se podrán hacer a través de fax o mediante el sistema de notificaciones electrónicas.
 
-Surtirán sus efectos a partir de que se tenga constancia de su recepción o de su acuse de recibido. De la transmisión y recepción levantará la razón correspondiente el actuario del Tribunal.
+Surtirán sus efectos a partir de que se tenga constancia de su recepción o de su acuse de recibido. De la transmisión y recepción levantará la razón correspondiente el actuario del Tribunal, salvo en el caso de las notificaciones electrónicas, en cuyo caso se estará a lo previsto en el artículo 62, párrafo sexto de esta Ley.
 
-El Instituto y el Tribunal aprobarán la normatividad necesaria a efecto de garantizar la autenticidad y efectividad de las notificaciones electrónicas, debiendo coordinarse de manera institucional a fin de establecer y utilizar un sistema informático de las mismas características.
+El Instituto y el Tribunal aprobarán los procedimientos necesarios a efecto de garantizar la autenticidad y efectividad de las notificaciones electrónicas entre dichas autoridades, debiendo coordinarse de manera institucional a fin de establecer y utilizar un sistema informático de las mismas características.
+
+El Consejo General del Instituto implementará el sistema de notificaciones electrónicas a las partes en la instrucción de los procedimientos sancionadores ordinario y especial, así como en la resolución del Procedimiento Ordinario Sancionador Electoral, acorde con las bases previstas en el párrafo sexto del artículo 62 de esta Ley, en lo que resulten aplicables.
+
+Asimismo, ambas autoridades serán responsables de difundir y promover, por los medios a su alcance, el uso de la notificación electrónica y los beneficios que representa utilizarla.
 
 ###### Artículo 73.
 
@@ -2827,3 +2857,19 @@ QUINTO.- Los asuntos que se encuentren en trámite a la entrada en vigor del pre
 Recinto de la Asamblea Legislativa del Distrito Federal, a los seis días del mes de junio del año dos mil diecisiete.- POR LA MESA DIRECTIVA.- DIP. MAURICIO ALONSO TOLEDO GUTIÉRREZ, PRESIDENTE.- DIP. REBECA PERALTA LEÓN, SECRETARIA.- DIP. LUCIANO JIMENO HUANOSTA, SECRETARIO.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los seis días del mes de junio del año dos mil diecisiete.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE DE JESÚS GUTIÉRREZ GUTIÉRREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, SALOMÓN CHERTORIVSKI WOLDENBERG.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, TANYA MÜLLER GARCÍA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, EDGAR OSWALDO TUNGÜI RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.- EL SECRETARIO DE MOVILIDAD, HÉCTOR SERRANO CORTES.- FIRMA.- EL SECRETARIO DE TURISMO, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE CULTURA, EDUARDO VÁZQUEZ MARTÍN.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, FAUSTO LUGO GARCÍA.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, AMALIA DOLORES GARCÍA MEDINA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MAURICIO RODRÍGUEZ ALONSO.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL, Y EQUIDAD PARA LAS COMUNIDADES, ROSA ÍCELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- EL SECRETARIO DE FINANZAS, EDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN, RENÉ RAÚL DRUCKER COLÍN.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 6 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICAN LOS ARTÍCULOS 44, PÁRRAFO TERCERO, FRACCIÓN III; 47 FRACCIÓN II; 62, PÁRRAFOS PRIMERO Y SEGUNDO; Y 72; Y SE ADICIONA UN PÁRRAFO SEXTO, FRACCIONES I A VI AL ARTÍCULO 62 DE LA LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Cuidad de México y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se derogan todas aquellas disposiciones que contravengan el contenido del presente Decreto.
+
+CUARTO.- El Pleno del Tribunal Electoral de la Ciudad de México deberá emitir las reglas del sistema de notificaciones electrónicas y realizar las acciones necesarias y presupuestales para su implementación en el ámbito de sus atribuciones, con motivo del trámite, sustanciación y resolución de los medios de impugnación previstos en la Ley Procesal Electoral de la Ciudad de México, el cual deberá entrar en funcionamiento hasta antes que inicie el proceso electoral local ordinario de 2020-2021, contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- El Consejo General del Instituto Electoral de la Ciudad de México emitirá las reglas del sistema de notificaciones electrónicas y realizará las acciones necesarias y presupuestales para su implementación en el ámbito de sus atribuciones, con motivo de la instrucción de los procedimientos sancionadores ordinario y especial, así como de la resolución del Procedimiento Ordinario Sancionador Electoral, previstos en la Ley Procesal Electoral de la Ciudad de México, el cual deberá entrar en funcionamiento hasta antes que inicie el proceso electoral local ordinario de 2020-2021, contados a partir de la entrada en vigor de este Decreto.
