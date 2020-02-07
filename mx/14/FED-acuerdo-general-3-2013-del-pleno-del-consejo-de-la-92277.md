@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2019-12-10"
+last_updated: "2020-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -26,6 +26,8 @@ issue_date: "2013-02-07"
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE DICIEMBRE DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 7 DE FEBRERO DE 2020.]</small>
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -257,9 +259,9 @@ IX. NOVENO CIRCUITO:
 
 X. DECIMO CIRCUITO:
 
-> <small>(REFORMADO POR EL ARTÍCULO 23 DEL ACUERDO GENERAL 51/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE DICIEMBRE DE 2018)</small>
+(REFORMADO POR EL ARTÍCULO 23 DEL ACUERDO GENERAL 51/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE DICIEMBRE DE 2018) (F. DE E., D.O.F. 7 DE FEBRERO DE 2020)
 
-1. Seis tribunales colegiados: Cinco especializados: uno en materia administrativa, uno en materia civil, uno en materia penal y dos en materia de trabajo, todos con residencia en Villahermosa, y, dos con residencia en Coatzacoalcos.
+1. Siete tribunales colegiados: Cinco especializados: uno en materia administrativa, uno en materia civil, uno en materia penal y dos en materia de trabajo, todos con residencia en Villahermosa, y, dos con residencia en Coatzacoalcos.
 
 2. Dos tribunales unitarios con sede en Villahermosa.
 
