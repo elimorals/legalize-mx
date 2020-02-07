@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2019-12-11"
+last_updated: "2020-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -2187,7 +2187,9 @@ Para crear o suprimir un Municipio se requiere:
 
 I.- Delimitar previamente el territorio correspondiente;
 
-II.- Realizar consulta mediante plebiscito, a los ciudadanos del Municipio que se pretenda afectar;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2020)</small>
+
+II.- Realizar consulta mediante plebiscito, a los ciudadanos de la demarcación territorial que se proponga para conformar o suprimir un Municipio;
 
 III.- Tomar en cuenta los factores geográficos, demográficos y socioeconómicos del territorio respectivo;
 
@@ -4948,3 +4950,9 @@ TERCERO.- El presente Decreto entrara en vigor al día siguiente de su publicaci
 CUARTO.- El Congreso del Estado deberá emitir las disposiciones jurídicas materia de movilidad.
 
 QUINTO.- El Congreso del Estado deberá expedir dentro de los treinta días siguientes a que entren en vigor las presentes reformas, la legislación que instrumente las disposiciones contenidas en el presente Decreto.
+
+P.O. 7 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 41 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 76 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+
+> <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
