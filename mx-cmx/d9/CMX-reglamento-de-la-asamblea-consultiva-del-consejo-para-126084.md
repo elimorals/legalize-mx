@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-asamblea-consultiva-del-consejo-para-126084"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-02-02"
-last_updated: "2018-02-02"
+last_updated: "2020-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126084&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-01-24"
 
 REGLAMENTO DE LA ASAMBLEA CONSULTIVA DEL CONSEJO PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE FEBRERO DE 2020.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 2 de febrero de 2018.
 
@@ -82,17 +82,29 @@ XIV. Sesiones de trabajo: Las sesiones ordinarias o extraordinarias de la Asambl
 
 La Asamblea Consultiva del Consejo contará con una Secretaría Técnica cuyo objetivo es coadyuvar en la operación y funcionamiento de la Asamblea fungir como enlace entre las personas integrantes de la Asamblea y de ésta con la Junta de Gobierno, la Presidencia y el Consejo en su conjunto; y dar seguimiento a los acuerdos.
 
+> <small>(REFORMADO, G.O. 7 DE FEBRERO DE 2020)</small>
+
 ###### ARTÍCULO 5.
 
-Las personas integrantes de la Asamblea elegirán a una persona quien será la o el titular de Presidencia de la Asamblea por un año; al término del mismo, o en caso de que no pueda cumplir tal responsabilidad, se nombrará a una persona sustituta, que fungirá como tal por un plazo igual.
+Las personas integrantes de la Asamblea elegirán a una persona quien será titular de Presidencia de la Asamblea por un año.
+
+En caso de que no pueda cumplir con tal responsabilidad lo deberá notificar por escrito y se elegirá a otra persona en la siguiente sesión ordinaria o extraordinaria en términos del presente artículo.
+
+Cuando se cumpla el período establecido, podrá relegirse por única ocasión, por un periodo igual.
+
+> <small>(REFORMADO, G.O. 7 DE FEBRERO DE 2020)</small>
 
 ###### ARTÍCULO 6.
 
-La Asamblea Consultiva estará integrada de manera plural por un número no menor de diez ni mayor de veinte ciudadanas y ciudadanos, representantes de los sectores privado, social, organizaciones de la sociedad civil y de la comunidad académica que por su experiencia en materia de prevención y eliminación de la discriminación puedan contribuir al logro de los objetivos del Consejo.
+La Asamblea Consultiva estará integrada de manera plural por un número no menor de diez ni mayor de veinte ciudadanas y ciudadanos, representantes de los sectores privado, social, organizaciones de la sociedad civil y de la comunidad académica que representen a los grupos de atención prioritaria o por su experiencia en materia de prevención y eliminación de la discriminación contribuyan al logro de los objetivos del Consejo.
+
+> <small>(REFORMADO, G.O. 7 DE FEBRERO DE 2020)</small>
 
 ###### ARTÍCULO 7.
 
-Las personas integrantes de la Asamblea Consultiva serán propuestas por representantes de la sociedad civil organizada y el sector académico, y nombradas por la Junta de Gobierno.
+Las personas integrantes de la Asamblea Consultiva serán propuestas por los sectores contemplados en el artículo 6.
+
+El procedimiento de integración se determinará por la Presidencia, la Secretaría Técnica e integrantes de la Asamblea Consultiva en sesión, y serán nombradas por la Junta de Gobierno.
 
 ###### ARTÍCULO 8.
 
@@ -106,7 +118,9 @@ Para ser integrante de la Asamblea Consultiva se requiere:
 
 I. Ser una persona en plena capacidad de ejercer este cargo.
 
-II. Residir en la Ciudad de México.
+> <small>(REFORMADA, G.O. 7 DE FEBRERO DE 2020)</small>
+
+II. Residir y/o trabajar en la Ciudad de México.
 
 III. Acreditar que posee conocimiento, experiencia, sensibilidad y cuenta con reconocida trayectoria en el análisis y estudio o trabajo en la prevención y eliminación de la discriminación, defensa de derechos humanos de los distintos grupos de población discriminados o en situación de vulnerabilidad.
 
@@ -120,9 +134,13 @@ El cargo de Asambleísta será honorífico por lo que no recibirá retribución,
 
 La duración del cargo de Asambleísta será por tres años, con la posibilidad de ser ratificado por sólo un periodo igual, presentando por escrito la solicitud de permanencia ante la persona titular del Consejo, quince días antes del vencimiento del nombramiento.
 
+> <small>(REFORMADO, G.O. 7 DE FEBRERO DE 2020)</small>
+
 ###### ARTÍCULO 12.
 
-Se les podrá atribuir el título de persona Asambleísta Emérita a las y los integrantes que durante su vigencia hayan tenido una participación decisiva en el quehacer de la Asamblea y del Consejo. La Asamblea Consultiva aprobara ese nombramiento a propuesta de la persona Presidenta del Consejo.
+Se les podrá atribuir el título de persona asambleísta emérita a las y los integrantes que durante su vigencia hayan tenido una participación decisiva en el quehacer de la Asamblea y del Consejo.
+
+Éstas podrán ser propuestas por las y los integrantes de la asamblea o la presidencia del Consejo y para su nombramiento, se deberá obtener la mayoría calificada.
 
 ###### ARTÍCULO 13.
 
@@ -144,6 +162,18 @@ III. Acumulen tres inasistencias consecutivas a las sesiones de trabajo de la As
 
 IV. Al término de nombramiento como asambleísta;
 
+> <small>(ADICIONADA, G.O. 7 DE FEBRERO DE 2020)</small>
+
+V. Pertenezca o se incorpore laboralmente a la administración pública federal, local o en algún partido político.
+
+> <small>(ADICIONADO, G.O. 7 DE FEBRERO DE 2020)</small>
+
+Para los casos presentados en las fracciones anteriores, la Secretaria Técnica de la Asamblea Consultiva, hará de conocimiento a las y los asambleístas en la sesión más próxima sobre el supuesto del que se trate, ello con el fin de que quede asentado en el acta y posteriormente se deberá notificar mediante oficio.
+
+> <small>(ADICIONADO, G.O. 7 DE FEBRERO DE 2020)</small>
+
+En el caso de renuncia, esta se deberá notificar mediante una carta dirigida a la Asamblea Consultiva y a la Presidencia del Consejo.
+
 ###### ARTÍCULO 16.
 
 En caso de la renuncia de la persona titular de la Secretaría Técnica, deberá dar aviso, con 15 días de anticipación, a la Presidencia del Consejo y ésta a su vez notificará a la Junta de Gobierno.
@@ -154,9 +184,11 @@ Las personas integrantes de la Asamblea Consultiva podrán solicitar licencia ha
 
 Para la votación que hace referencia el presente artículo, no será necesaria una reunión plenaria, la votación se podrá recabar por escrito, correo electrónico u otro mecanismo que la tecnología permita.
 
+> <small>(REFORMADO, G.O. 7 DE FEBRERO DE 2020)</small>
+
 ###### ARTÍCULO 18.
 
-Para sustituir a integrantes de la Asamblea, se presentarán propuestas provenientes de la sociedad civil e instituciones académicas que cumplan con el procedimiento y requisitos de los artículos 7 y 9 del Reglamento.
+Para sustituir a integrantes de la Asamblea, se presentarán propuestas provenientes de conformidad con lo establecido en el artículo 6 y en cumplimiento a los artículos 7, 8 y 9.
 
 ###### ARTÍCULO 19.
 
@@ -407,3 +439,11 @@ LA PRESIDENTA
 (Firma)
 
 MARTINA JACQUELINE L’HOIST TAPIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 7 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “AVISO POR EL CUAL SE DAN A CONOCER LAS MODIFICACIONES AL REGLAMENTO DE SU ASAMBLEA CONSULTIVA”.]
+
+ÚNICO. Publíquese en la Gaceta Oficial de la Ciudad de México.
