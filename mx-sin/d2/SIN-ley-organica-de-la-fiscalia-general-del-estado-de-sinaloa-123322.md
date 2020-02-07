@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-fiscalia-general-del-estado-de-sinaloa-12332
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-09-08"
-last_updated: "2019-12-27"
+last_updated: "2020-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "SIN"
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE FEBRERO DE 2020.]</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 8 de septiembre de 2017.
 
@@ -571,11 +573,11 @@ III. Acreditar los cursos de especialización, capacitación y de actualización
 
 Artículo 21 Bis A. La Fiscalía General debe capacitar, conforme a los más altos estándares internacionales, a los servidores públicos adscritos a las Fiscalías Especializadas en materia de derechos humanos, perspectiva de género, interés superior de la niñez, atención a las víctimas, sensibilización y relevancia específica en la materia de su competencia, aplicación del Protocolo Homologado para la investigación, identificación forense, cadena de custodia, entre otros. De igual forma, podrán participar con las autoridades competentes, en la capacitación de los servidores públicos conforme a los lineamientos que sobre la materia emita el Sistema Nacional, en términos de la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2019)</small>
+(REFORMADO, P.O. 22 DE JULIO DE 2019) (F. DE E., P.O. 7 DE FEBRERO DE 2020)
 
 ###### Artículo 22.
 
-Los Fiscales Especializados en Combate a la Corrupción, de Desapariciones Forzadas de Personas, y de Tortura serán designados y removidos por el Fiscal General. El Congreso del Estado, podrá objetar los nombramientos y remociones dentro del plazo de diez (sic) hábiles, en la forma dispuesta en el artículo 76 Bis A de la Constitución Política del Estado de Sinaloa.
+Los Fiscales Especializados en Combate a la Corrupción, de Desapariciones Forzadas de Personas, y de Tortura serán designados y removidos por el Fiscal General. El Congreso del Estado, podrá objetar los nombramientos y remociones dentro del plazo de diez días hábiles, en la forma dispuesta en el artículo 76 Bis A de la Constitución Política del Estado de Sinaloa.
 
 Para tal efecto, una vez que se realicen los nombramientos respectivos, el Fiscal General los remitirá al Congreso del Estado conjuntamente con los expedientes que contengan la documentación correspondiente para la acreditación del cumplimiento de los requisitos para ocupar el cargo.
 
