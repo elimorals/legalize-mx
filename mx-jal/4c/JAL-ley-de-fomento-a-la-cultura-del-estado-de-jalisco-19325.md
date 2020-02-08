@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-a-la-cultura-del-estado-de-jalisco-19325"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-21"
-last_updated: "2019-10-08"
+last_updated: "2020-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2000.
 
@@ -61,9 +61,9 @@ La presente ley tiene como objetivos los siguientes:
 
 I. Promover el derecho de acceso a la cultura, el cual será garantizado por el Estado, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Jalisco y la presente ley;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2020)</small>
 
-II. Generar las condiciones para la promoción, fomento y difusión de las manifestaciones culturales y artísticas con el fin de facilitar el acceso a ellas a todos los individuos de la sociedad, especialmente de las personas pertenecientes a grupos vulnerables;
+II. Generar las condiciones para la promoción, fomento y difusión de las manifestaciones culturales y artísticas, con el fin de facilitar el acceso a ellas a todos los individuos de la sociedad, especialmente de las personas pertenecientes a grupos vulnerables, considerando las necesidades específicas que puedan requerir estos para su justo acceso a la cultura;
 
 III. Establecer los criterios mediante los cuales la autoridad competente ejecutará y evaluará la política cultural del Estado, que servirá como base para la elaboración de los planes y programas estatales en materia de cultura, conforme a los siguientes criterios:
 
@@ -103,11 +103,11 @@ X. Garantizar la igualdad en el ámbito de la promoción y difusión de la produ
 
 (DEROGADO, P.O. 25 DE JULIO DE 2017)
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 2 Ter.
 
-El Estado y los ayuntamientos promoverán los medios para la difusión y el desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa, atendiendo al principio de no discriminación.
+El Estado y los ayuntamientos promoverán los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa, atendiendo al principio de no discriminación e inclusión.
 
 ###### Artículo 3.
 
@@ -205,9 +205,9 @@ IV. Diseñar, operar y evaluar, en coordinación con la Secretaría de Educació
 
 V. Promover estrategias de financiamiento y programas de estímulos fiscales a personas físicas y jurídicas que destinen recursos a las actividades culturales que son objeto de esta ley, diseñando, inclusive, los mecanismos adecuados para expedir recibos deducibles de impuestos para apoyar el mecenazgo por particulares;
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2020)</small>
 
-VI. Promover ante la Secretaría de Infraestructura y Obra Pública, la ampliación de infraestructura, creación y construcción de espacios públicos con usos y destinos para el desarrollo de actividades culturales y artísticas; así como encargarse de la conservación, equipamiento, remozamiento y de la dotación de las mejoras físicas y tecnológicas, de espacios públicos con usos y destinos para el cumplimiento de los fines de la presente ley, procurando que estos sean sustentables para fomentar una cultura ambiental, así como la recuperación de aquellos que se encuentren en estado de abandono o en desuso, en coordinación con instancias públicas y privadas;
+VI. Promover ante la Secretaría de Infraestructura y Obra Pública, la ampliación de infraestructura, creación y construcción de espacios públicos con usos y destinos para el desarrollo de actividades culturales y artísticas, considerando primordialmente las necesidades de accesibilidad de las personas con discapacidad y procurando la eliminación de las barreras de comunicación, físicas, sociales y culturales, de acuerdo con la disponibilidad presupuestal; así como encargarse de la conservación, equipamiento, remozamiento y de la dotación de las mejoras físicas y tecnológicas, de espacios públicos con usos y destinos para el cumplimiento de los fines de la presente ley, procurando que estos sean sustentables para fomentar una cultura ambiental, así como la recuperación de aquellos que se encuentren en estado de abandono o en desuso, en coordinación con instancias públicas y privadas;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -1166,3 +1166,9 @@ P.O. 8 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27349/LXII/19 QUE REFORMA EL ARTÍCULO 3 DE LA LEY DEL FOMENTO A LA CULTURA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 8 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27781/LXII/19 QUE REFORMA LOS ARTÍCULOS 2°, FRACCIÓN II, 2-TER Y 6, FRACCIÓN VI, DE LA LEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
