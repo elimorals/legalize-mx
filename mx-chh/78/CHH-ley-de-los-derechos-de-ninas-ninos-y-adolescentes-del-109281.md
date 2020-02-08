@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2020-02-01"
+last_updated: "2020-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE FEBRERO DE 2020 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE FEBRERO DE 2020.]</small>
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -1869,9 +1869,11 @@ Quienes integren el Consejo Consultivo Estatal durarán en su cargo tres años y
 
 Deberán contar con tres años de experiencia en temas relacionados con niñas, niños y adolescentes.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2020)</small>
+(ADICIONADO, P.O. 1 DE FEBRERO DE 2020) (F. DE E., P.O. 8 DE FEBRERO DE 2020)
 
-Artículo 148 (sic) Quáter. En la integración de los consejos consultivos municipales, en su caso, deberá privilegiarse a personas de los sectores público, privado, social y académico, que cuenten con experiencia en temas relacionados con niñas, niños y adolescentes.
+###### Artículo 145 Quáter.
+
+En la integración de los consejos consultivos municipales, en su caso, deberá privilegiarse a personas de los sectores público, privado, social y académico, que cuenten con experiencia en temas relacionados con niñas, niños y adolescentes.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
@@ -2437,7 +2439,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 1 DE FEBRERO DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVI/RFLEY/0588/2019 I P.O., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 18, FRACCIÓN I; 20, PÁRRAFO PRIMERO; 152; Y LA DENOMINACIÓN DEL CAPÍTULO PRIMERO DEL TÍTULO SEGUNDO; SE ADICIONA EL CAPÍTULO CUARTO BIS DENOMINADO DE LOS CONSEJOS CONSULTIVOS ESTATAL Y MUNICIPALES, Y LOS ARTÍCULOS 145 BIS AL 145 QUINQUIES; TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXVI/RFLEY/0588/2019 I P.O., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 18, FRACCIÓN I; 20, PÁRRAFO PRIMERO; 152; Y LA DENOMINACIÓN DEL CAPÍTULO PRIMERO DEL TÍTULO SEGUNDO; SE ADICIONA EL CAPÍTULO CUARTO BIS DENOMINADO DE LOS CONSEJOS CONSULTIVOS ESTATAL Y MUNICIPALES, Y LOS ARTÍCULOS 145 BIS AL 145 QUINQUIES; TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO PRIMERO.
 
