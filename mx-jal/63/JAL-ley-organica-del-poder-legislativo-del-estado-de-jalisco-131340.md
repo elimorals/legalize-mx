@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2019-07-27"
+last_updated: "2020-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2020.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
 
@@ -1963,6 +1963,14 @@ V. Se establezca plazo diverso para su dictamen en la agenda legislativa común 
 
 1. Las sesiones del Congreso del Estado son públicas, salvo aquellas que por causa justificada y previo acuerdo de la Asamblea, se celebren de forma reservada, es decir, sin permitir el acceso al público, ni a los servidores públicos del Congreso del Estado, a excepción del Secretario General y del personal administrativo que éste último autorice.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE FEBRERO DE 2020)</small>
+
+2. Durante el desarrollo de las sesiones del Congreso del Estado, se dispondrá de las o los intérpretes de Lengua de Señas Mexicana necesarios, con el fin de traducir a las personas con discapacidad auditiva los asuntos que se desahogan en el Pleno.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE FEBRERO DE 2020)</small>
+
+3. Asimismo, en la transmisión de las sesiones se colocará un recuadro permanente en la pantalla donde se enfoque en todo momento a la o el intérprete.
+
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 117.
@@ -2320,6 +2328,10 @@ III. Disposiciones transitorias.
 ###### Artículo 143.
 
 1. Las comisiones, para proponer a la Asamblea se deseche una iniciativa, deben hacerlo mediante acuerdo legislativo que así lo declare.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE FEBRERO DE 2020)</small>
+
+2. Las iniciativas no dictaminadas durante la legislatura en que fueron presentadas, pasarán a la siguiente legislatura para que en un plazo improrrogable de 60 días naturales sean dictaminadas, transcurrido el plazo si no se elaboró el dictamen correspondiente, se entenderán desechadas de plano y se archivarán de oficio por parte de la Coordinación de Procesos Legislativos y Asuntos Jurídicos.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -3592,3 +3604,17 @@ P.O. 27 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27311/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 8 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27776/LXII/19 QUE REFORMA EL ARTÍCULO 143 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 8 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27778/LXII/19 QUE REFORMA EL ARTÍCULO 116 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+Segundo. El Congreso del Estado de Jalisco realizará las acciones y adecuaciones presupuestales para dar cumplimiento al presente decreto.
