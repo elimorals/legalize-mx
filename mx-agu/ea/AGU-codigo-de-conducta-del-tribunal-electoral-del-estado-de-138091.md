@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-conducta-del-tribunal-electoral-del-estado-de-138091"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-08-26"
-last_updated: "2019-08-26"
+last_updated: "2020-02-10"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE CONDUCTA DEL TRIBUNAL ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEXTO DEL ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA PARA LAS Y LOS SERVIDORES PÚBLICOS DEL TRIBUNAL ELECTORAL DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 10 DE FEBRERO DE 2020, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]</small>
+
 CÓDIGO DE CONDUCTA DEL TRIBUNAL ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2020 (SIN EFECTOS).
 
 Código publicado en la Primera Sección al Número 34 del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de agosto de 2019.
 
@@ -170,3 +172,21 @@ Una vez que entre en vigor el Código de Conducta del Tribunal Electoral del Est
 Difúndase utilizando los mecanismos previstos en el Código de Ética del Tribunal Electoral del Estado de Aguascalientes
 
 Aguascalientes, Aguascalientes, a diecinueve de agosto de dos mil diecinueve
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE FEBRERO DE 2020.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.]</small>
+
+PRIMERO. Publíquese en el Periódico Oficial del Estado, así como en la página institucional de internet del Tribunal Electoral, con fundamento en lo establecido en el artículo 16 de la Ley General de Responsabilidades Administrativas; artículos 14 y 15 del Reglamento Interior del Tribunal Electoral del Estado de Aguascalientes y Lineamiento Décimo Primero de los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas, para su conocimiento general y atendiendo el principio de máxima publicidad.
+
+SEGUNDO. Instrúyase al Secretario General de Acuerdos del Tribunal Electoral del Estado de Aguascalientes para que en ámbito de sus atribuciones realice la gestión correspondiente para la publicación del presente Acuerdo y su Anexo Único en el Periódico Oficial del Estado.
+
+TERCERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+CUARTO. El Código de Conducta, y en su caso sus reformas, deberán difundirse utilizando los mecanismos previstos en el artículo 4° del Código de Ética.
+
+QUINTO. Una vez emitido el Código de Conducta por el Pleno del Tribunal Electoral, se podrá crear el Comité de Ética o figura análoga en un plazo no mayor de 60 días naturales, esto con el fin de fomentar y vigilar el cumplimiento de del Código de Ética y el Código de Conducta, respectivamente.
+
+SEXTO. El Pleno del Tribunal Electoral del Estado de Aguascalientes emite del Código de Conducta, que hace referencia el artículo 16 de la Ley General de Responsabilidades Administrativas, mismo que forma parte del presente como Anexo Único; deja sin efectos el Código de Conducta publicado el veintiséis de agosto de dos mil diecinueve.
