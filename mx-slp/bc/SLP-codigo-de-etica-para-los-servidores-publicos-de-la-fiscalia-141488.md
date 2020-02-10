@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-etica-para-los-servidores-publicos-de-la-fiscalia-141
 country: "mx"
 rank: "codigo"
 publication_date: "2020-02-07"
-last_updated: "2020-02-07"
+last_updated: "2020-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO DE ÉTICA PARA LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2020.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 7 de febrero de 2020.
 
@@ -123,7 +123,9 @@ El Órgano Interno de Control y la Comisión de Honor y Justicia, en el ámbito 
 
 T R A N S I T O R I O S
 
-PRIMERO. El presente Código de Ética deberá ser publicado en el Periódico Oficial del Gobierno del Estado “Plan de San Luis” de conformidad con el artículo Cuarto Transitorio de la Ley Orgánica, y entrará en vigor de conformidad con lo señalado en el artículo Décimo Cuarto Transitorio de la Ley Orgánica.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2020)</small>
+
+PRIMERO.- El presente reglamento entrará en vigor en cuarenta y cinco días posteriores a su publicación
 
 SEGUNDO. El Fiscal General, llevará a cabo la vigilancia y ejecución del presente Reglamento Interno, y por tanto contará con las facultades y atribuciones para suspender, modificar o adicionar, en todo o en parte, aquellos que por su naturaleza impidan o contravengan el debido funcionamiento y buen despacho de los asuntos de la Institución, bastando para ello la emisión de acuerdos o circulares, en términos de la Ley Orgánica de la Fiscalía.
 
@@ -138,3 +140,13 @@ MTRO. FEDERICO ARTURO GARZA HERRERA
 FISCAL GENERAL DEL ESTADO DE SAN LUIS POTOSÍ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO ADMINISTRATIVO QUE REFORMA EL CÓDIGO DE ÉTICA PARA LOS SERVIDORES PÚBLICOS”.]
+
+PRIMERO.- El presente decreto de reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
