@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-para-las-y-los-servidores-publicos-del-138090"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-08-26"
-last_updated: "2019-08-26"
+last_updated: "2020-02-10"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE ETICA PARA LAS Y LOS SERVIDORES PUBLICOS DEL TRIBUNAL ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ÚNICO DEL CÓDIGO DE ÉTICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 10 DE FEBRERO DE 2020, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS, UNA VEZ QUE ENTRE EN VIGOR DICHO CÓDIGO.]</small>
+
 CÓDIGO DE ÉTICA PARA LAS Y LOS SERVIDORES PÚBLICOS DEL TRIBUNAL ELECTORAL DEL ESTADO DE AGUASCALIENTES.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2020 (SIN EFECTOS).
 
 Código publicado en la Primera Sección del Num. 34 del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de agosto de 2019.
 
@@ -620,3 +622,13 @@ Una vez que entre en vigor el Código de Ética del Tribunal Electoral del Estad
 El Código de Conducta a que se refiere este Código y en su caso sus reformas, deberán difundirse utilizando los mecanismos previstos en el artículo 23 de este Código.
 
 Aguascalientes, Aguascalientes, a los diecinueve días del mes de agosto de dos mil diecinueve.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "CÓDIGO DE ÉTICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO.- Una vez que entre en vigor el Código de Ética del Tribunal Electoral del Estado de Aguascalientes, quedará sin efectos el Código de Ética publicado en el Periódico Oficial del Estado de fecha veintiséis de agosto de dos mil diecinueve.
+
+El Código de Conducta a que se refiere este Código y en su caso sus reformas, deberán difundirse utilizando los mecanismos previstos en el artículo 23 de este Código.
