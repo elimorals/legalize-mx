@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-simbolos-y-protocolos-oficiales-del-estado-de-baja-12507
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-31"
-last_updated: "2018-11-30"
+last_updated: "2020-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SÍMBOLOS Y PROTOCOLOS OFICIALES DEL ESTADO DE BAJA CALIFORNIA SUR.
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE FEBRERO DE 2020.
 
 Ley publicada en el Número 50 del Boletín Oficial del Gobierno del Estado de Baja California Sur, el domingo 31 de Diciembre de 2017.
 
@@ -211,9 +211,11 @@ Queda prohibida su reproducción o utilización para fines publicitarios, comerc
 
 El presente capítulo tiene por objeto establecer los procedimientos para que el Congreso del Estado emita la declaratoria de Sudcaliforniano Ilustre para su inhumación en la Rotonda de los Sudcalifornianos Ilustres, así como los homenajes póstumos que al efecto se determinen.
 
+> <small>(REFORMADO, B.O. 10 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 27.
 
-El Congreso decretará la inhumación en la Rotonda y las honras póstumas a personas, que a más de diez años de su fallecimiento, hubieren tenido en vida los merecimientos por sus acciones heroicas, sus virtudes cívicas o sociales, así como sus aportaciones destacadas en los campos de las ciencias, de las artes, de la cultura o del deporte.
+El Congreso decretará la inhumación en la Rotonda y las honras póstumas a personas Sudcalifornianas con arraigo en el Estado, que a más de diez años de su fallecimiento, hubieren tenido en vida los merecimientos por sus acciones heroicas, sus virtudes cívicas o sociales, así como sus aportaciones destacadas en los campos de las ciencias, de las artes, de la cultura o del deporte.
 
 ###### Artículo 28.
 
@@ -223,9 +225,17 @@ a. La biografía del candidato o candidata que presente, o cuando menos los dato
 
 b. El documento que contenga la valoración y significación municipal o estatal de los merecimientos que atribuya al candidato que se proponga;
 
-c. En su caso, las instituciones que pueden ser consultadas dada la reconocida experiencia en el estudio de la obra o acciones del personaje propuesto; y
+> <small>(REFORMADO, B.O. 10 DE FEBRERO DE 2020)</small>
 
-d. La relación de información que puede ser consultada y obtenida por el Congreso y que puede aportar elementos de juicio para la emisión del dictamen correspondiente.
+c. En su caso, las instituciones que pueden ser consultadas dada la reconocida experiencia en el estudio de la obra o acciones del personaje propuesto;
+
+> <small>(REFORMADO, B.O. 10 DE FEBRERO DE 2020)</small>
+
+d. La relación de información que puede ser consultada y obtenida por el Congreso y que puede aportar elementos de juicio para la emisión del dictamen correspondiente; y
+
+> <small>(ADICIONADO, B.O. 10 DE FEBRERO DE 2020)</small>
+
+e. El documento que acredite al candidato o candidata como sudcaliforniano o sudcaliforniana con arraigo en el Estado.
 
 ###### Artículo 29.
 
@@ -418,3 +428,11 @@ B.O. 30 DE NOVIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2701 SE REFORMAN EL ARTÍCULO 27 Y LOS PUNTOS C. Y D. DEL ARTÍCULO 28; Y SE ADICIONA UN PUNTO E. AL ARTÍCULO 28, DE LA LEY DE SÍMBOLOS Y PROTOCOLOS OFICIALES DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Comisión a la que se hubiere turnado una propuesta que haya recibido el Congreso del Estado y se encuentren en el análisis a que se refiere el artículo 29 de (sic) Ley de Símbolos y Protocolos Oficiales del Estado de Baja California Sur, deberá en un plazo no mayor a 30 días solicitar a la persona o institución, que hubiere propuesto al candidato o candidata, para que en un plazo igual presente el documento al que se refiere el punto e. del artículo 28 del presente decreto.
