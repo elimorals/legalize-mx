@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2019-12-16"
+last_updated: "2020-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2020.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -2765,17 +2765,23 @@ a) (DEROGADO, P.O. 21 DE OCTUBRE DE 2019)
 
 b) (DEROGADO, P.O. 21 DE OCTUBRE DE 2019)
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE FEBRERO DE 2020)</small>
 
-X. Secretaría Particular:
+X. Secretaría Particular
 
 a). (DEROGADO, P.O. 21 DE OCTUBRE DE 2019)
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE OCTUBRE DE 2019)</small>
+
 b). Departamento de Relaciones Públicas,
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE OCTUBRE DE 2019)</small>
 
 c). Departamento de Gestión Social,
 
-d). (DEROGADO, P.O. 21 DE OCTUBRE DE 2019)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE FEBRERO DE 2020)</small>
+
+d). Departamento de Giras y Eventos.
 
 e). (DEROGADO, P.O. 21 DE OCTUBRE DE 2019)
 
@@ -2833,9 +2839,7 @@ XV. Secretaría de Comunicación Social e Imagen Institucional
 
 a). Departamento de Comunicación Social,
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
-
-b). Departamento de Giras y Eventos,
+b). (DEROGADO, P.O. 10 DE FEBRERO DE 2020)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
 
@@ -24714,6 +24718,14 @@ Artículo Cuarto.- Cúmplase.
 P.O. 16 DE DICIEMBRE DE 2019.
 
 > <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE CALVILLO, AGUASCALIENTES".]</small>
+
+Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Tercero.- Cúmplase.
+
+P.O. 10 DE FEBRERO DE 2020.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE CALVILLO, AGUASCALIENTES", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
 
 Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
 
