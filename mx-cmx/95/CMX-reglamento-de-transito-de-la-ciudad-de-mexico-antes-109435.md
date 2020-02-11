@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-de-la-ciudad-de-mexico-antes-109435"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-17"
-last_updated: "2019-04-23"
+last_updated: "2020-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109435&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2015-08-17"
 
 REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE ABRIL DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE ABRIL DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE FEBRERO DE 2020.
 
 Reglamento publicado en el No. Bis de la Gaceta Oficial del Distrito Federal, el lunes 17 de agosto de 2015.
 
@@ -2924,6 +2922,8 @@ Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la C
 
 > <small>[N. DE E. VÉASE ANEXO 2 RED VIAL PRIMARIA EN LA G.O. DE 17 DE AGOSTO DE 2015, PÁGINAS DE LA 99 A LA 111.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 2 RED VIAL PRIMARIA, G.O. 11 DE FEBRERO DE 2020, PÁGINAS DE LA 6 A LA 12.]</small>
+
 > <small>[N. DE E. VÉASE ANEXO 3 SISTEMA DE SUJECIÓN PARA SILLA DE RUEDAS EN LA G.O. DE 17 DE AGOSTO DE 2015, PÁGINAS DE LA 112 A LA 115.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 4 SISTEMA DE RETENCIÓN INFANTIL EN LA G.O. DE 17 DE AGOSTO DE 2015, PÁGINAS DE LA 115 A LA 117.]</small>
@@ -2977,5 +2977,13 @@ G.O. 23 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE TRÁNSITO DEL DISTRITO FEDERAL".]
 
 PRIMERO. - Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación.
+
+G.O.11 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente decreto entrará en vigor el día de su publicación.
