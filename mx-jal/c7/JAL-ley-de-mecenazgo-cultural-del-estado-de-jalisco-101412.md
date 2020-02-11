@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-mecenazgo-cultural-del-estado-de-jalisco-101412"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-14"
-last_updated: "2019-08-29"
+last_updated: "2020-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE MECENAZGO CULTURAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2020.
 
 Ley publicada en la Sección Sexta del Periódico Oficial del Estado de Jalisco, el sábado 14 de junio de 2014.
 
@@ -83,9 +83,11 @@ Para ser mecenas se deberá de estar al corriente de las demás obligaciones fis
 
 El mecenazgo podrá sujetarse a los incentivos fiscales que contemple la Ley de Hacienda.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 7.
 
-Un proyecto o actividad podrá ser financiado por más de un mecenas pero la aportación que realice cada mecenas no podrá exceder de siete mil setecientos cincuenta días de salario mínimo general vigente en el municipio de Guadalajara, anuales por beneficiario. Sin que por ningún motivo el mecenas pueda exceder el tope señalado en este artículo.
+Un proyecto o actividad podrá ser financiado por más de un mecenas pero la aportación que realice cada mecenas no podrá exceder de siete mil setecientos cincuenta veces al valor diario de Unidad de Medida y Actualización, anuales por beneficiario. Sin que por ningún motivo el mecenas pueda exceder el tope señalado en este artículo.
 
 ###### Artículo 8.
 
@@ -166,5 +168,11 @@ ARTURO ZAMORA JIMÉNEZ
 P.O. 29 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27316/LXII/19 QUE REFORMA LOS ARTÍCULOS 2 FRACCIÓN IV Y 8 FRACCIÓN V, DE LA LEY DE MECENAZGO CULTURAL DEL ESTADO DE JALISCO”.]
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27798/LXII/20 QUE REFORMA EL ARTÍCULO 7 DE LA LEY MECENAZGO CULTURAL DEL ESTADO DE JALISCO”.]
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
