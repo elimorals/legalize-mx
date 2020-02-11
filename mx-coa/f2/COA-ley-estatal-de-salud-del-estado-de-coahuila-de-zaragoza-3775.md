@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2020-01-21"
+last_updated: "2020-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "COA"
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 11 DE FEBRERO DE 2020.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -221,15 +223,13 @@ XVII. Gasolinerías;
 
 XVIII. Prevención y control de la rabia en animales y seres humanos, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ENERO DE 2020)</small>
+(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ENERO DE 2020) (F. DE E., P.O. 11 DE FEBRERO DE 2020)
 
 XIX. Los establecimientos dedicados a la colocación de tatuajes, micropigmentaciones y perforaciones en personas; y
 
-XX. (SIC)
+(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE ENERO DE 2020) (F. DE E., P.O. 11 DE FEBRERO DE 2020)
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE ENERO DE 2020)</small>
-
-XXI. Las demás materias que determine esta Ley y disposiciones legales aplicables.
+XX. Las demás materias que determine esta Ley y disposiciones legales aplicables.
 
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
