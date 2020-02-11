@@ -4,7 +4,7 @@ identifier: "TAM-ley-que-establece-la-coordinacion-estatal-de-atencion-al-140875
 country: "mx"
 rank: "ley"
 publication_date: "2020-02-06"
-last_updated: "2020-02-06"
+last_updated: "2020-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY QUE ESTABLECE LA COORDINACION ESTATAL DE ATENCION AL BIENESTAR EMOCIONAL DE TAMAULIPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE FEBRERO DE 2020 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY QUE ESTABLECE LA COORDINACIÓN ESTATAL DE ATENCIÓN AL BIENESTAR EMOCIONAL DE TAMAULIPAS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 11 DE FEBRERO DE 2020]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 6 de febrero de 2020.
 
@@ -231,25 +231,45 @@ b) Elaborar y proponer a la persona titular de la Coordinación General, para su
 
 c) Coordinar la creación y organización de la Red de Personas Promotoras de Bienestar Emocional estableciendo para ello programas definidos y calendarizados de instalación e implementación.
 
-III. (SIC) Establecer e implementar las distintas etapas y fases de los programas para la atención del bienestar emocional;
+> <small>(F. DE E., P.O. 11 DE FEBRERO DE 2020)</small>
 
-IV. Coordinar, supervisar y diseñar las capacitaciones y formación para las Personas Promotoras de Bienestar Emocional;
+II. Establecer e implementar las distintas etapas y fases de los programas para la atención del bienestar emocional;
 
-V. Implementar y supervisar las actividades productivas para la generación de empleos e ingreso de personas, familias, grupos y organizaciones productivas;
+> <small>(F. DE E., P.O. 11 DE FEBRERO DE 2020)</small>
 
-VI. Establecer los lineamientos y criterios para la creación de las organizaciones civiles;
+III. Coordinar, supervisar y diseñar las capacitaciones y formación para las Personas Promotoras de Bienestar Emocional;
 
-VII. Dar seguimiento a las actividades productivas de los organismos de la sociedad civil para coadyuvar en la generación del bienestar emocional;
+> <small>(F. DE E., P.O. 11 DE FEBRERO DE 2020)</small>
 
-VIII. Implementar las capacitaciones y formación para las Personas Promotoras de Bienestar Emocional;
+IV. Implementar y supervisar las actividades productivas para la generación de empleos e ingreso de personas, familias, grupos y organizaciones productivas;
 
-IX. Diseñar y evaluar los planes y contenidos de carácter educativo;
+> <small>(F. DE E., P.O. 11 DE FEBRERO DE 2020)</small>
 
-X. Establecer la organización y la dirección de los grupos sociales con fines comunes para su desarrollo y bienestar emocional;
+V. Establecer los lineamientos y criterios para la creación de las organizaciones civiles;
 
-XI. Coadyuvar en la formación y formalización de organizaciones civiles que tengan como fin el bienestar emocional; y
+> <small>(F. DE E., P.O. 11 DE FEBRERO DE 2020)</small>
 
-XII. Las demás que las disposiciones aplicables le confieran.
+VI. Dar seguimiento a las actividades productivas de los organismos de la sociedad civil para coadyuvar en la generación del bienestar emocional;
+
+> <small>(F. DE E., P.O. 11 DE FEBRERO DE 2020)</small>
+
+VII. Implementar las capacitaciones y formación para las Personas Promotoras de Bienestar Emocional;
+
+> <small>(F. DE E., P.O. 11 DE FEBRERO DE 2020)</small>
+
+VIII. Diseñar y evaluar los planes y contenidos de carácter educativo;
+
+> <small>(F. DE E., P.O. 11 DE FEBRERO DE 2020)</small>
+
+IX. Establecer la organización y la dirección de los grupos sociales con fines comunes para su desarrollo y bienestar emocional;
+
+> <small>(F. DE E., P.O. 11 DE FEBRERO DE 2020)</small>
+
+X. Coadyuvar en la formación y formalización de organizaciones civiles que tengan como fin el bienestar emocional; y
+
+> <small>(F. DE E., P.O. 11 DE FEBRERO DE 2020)</small>
+
+XI. Las demás que las disposiciones aplicables le confieran.
 
 ###### ARTÍCULO 10.
 
