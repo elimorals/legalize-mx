@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-agropecuario-rural-y-sustentable-de-la-84078"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-08"
-last_updated: "2019-12-09"
+last_updated: "2020-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84078&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2011-12-07"
 
 LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 9 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE FEBRERO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de diciembre de 2011.
 
@@ -102,7 +102,7 @@ En el ámbito de competencia de la Ciudad de México, son sujetos de esta Ley lo
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
 
-###### Artículo 4º.
+###### Artículo 4°.
 
 La implantación y aplicación de la presente Ley se hará respetando las garantías constitucionales, la Constitución Política de la Ciudad de México y las leyes que emanen de ella.
 
@@ -110,7 +110,9 @@ La implantación y aplicación de la presente Ley se hará respetando las garant
 
 A. En la Ciudad de México se reconocen los siguientes derechos, ejercidos de manera individual o colectiva:
 
-I. Derecho a la alimentación: Toda persona humana tiene derecho a disfrutar de una alimentación suficiente en calidad y cantidad, que promueva una adecuada nutrición;
+> <small>(REFORMADA, G.O. 11 DE FEBRERO DE 2020)</small>
+
+I. Toda persona tiene derecho a una alimentación adecuada, nutritiva, diaria, suficiente y de calidad con alimentos inocuos, saludables, accesibles y asequibles y culturalmente aceptables que le permitan gozar del más alto nivel de desarrollo humano posible y la protejan contra el hambre, la malnutrición y la desnutrición.
 
 II. Derecho a la soberanía alimentaria: El derecho de toda persona humana de tener una alimentación que le conviene culturalmente, desde el punto de vista de la salud y de lo económico orientada a una alimentación adecuada;
 
@@ -1021,6 +1023,14 @@ SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 G.O. 9 DE DICIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES X Y XI AL ARTÍCULO 47 DE LA LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 11 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 4 FRACCIÓN I DE LA LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
