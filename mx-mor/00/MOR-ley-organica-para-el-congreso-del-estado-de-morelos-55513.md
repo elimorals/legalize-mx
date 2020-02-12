@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2019-09-26"
+last_updated: "2020-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -875,11 +875,13 @@ Las comisiones especiales son aquellas de carácter temporal que acuerde el plen
 
 Para el análisis y dictaminación de las autorizaciones relativas a los contratos de colaboración público privada y de las demás modalidades y actos jurídicos previstos en la Ley de Contratos de Colaboración Público Privada para el Estado de Morelos, deberá constituirse una Comisión Especial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2016)</small>
+(NOTA: EL 11 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 126/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 23 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: ”Artículo 55.- Las comisiones legislativas se integran de por lo menos tres diputados y su composición deberá reflejar en lo posible la pluralidad política del Congreso del Estado. De los diputados que integren las comisiones legislativas habrá un presidente, por lo menos un secretario y vocales que sean designados; ningún diputado podrá participar en más de diez comisiones ordinarias y comités. Ningún Diputado podrá presidir más de dos Comisiones ordinarias o Comités.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 55.
 
-Las comisiones legislativas se integran de por lo menos tres diputados y su composición deberá reflejar en lo posible la pluralidad política del Congreso del Estado. De los diputados que integren las comisiones legislativas habrá un presidente, por lo menos un secretario y vocales que sean designados; ningún diputado podrá participar en más de diez comisiones ordinarias y comités. Ningún Diputado podrá presidir más de dos Comisiones ordinarias o Comités.
+LAS COMISIONES LEGISLATIVAS SE INTEGRAN DE POR LO MENOS TRES DIPUTADOS Y SU COMPOSICIÓN DEBERÁ REFLEJAR EN LO POSIBLE LA PLURALIDAD POLÍTICA DEL CONGRESO DEL ESTADO. DE LOS DIPUTADOS QUE INTEGREN LAS COMISIONES LEGISLATIVAS HABRÁ UN PRESIDENTE, POR LO MENOS UN SECRETARIO Y VOCALES QUE SEAN DESIGNADOS. NINGÚN DIPUTADO PODRÁ PRESIDIR MÁS DE CINCO COMISIONES ORDINARIAS O COMITÉS.
 
 > <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2015)</small>
 
@@ -2975,10 +2977,22 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su p
 
 P.O. 26 DE SEPTIEMBRE DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CUATROCIENTOS SESENTA Y CINCO POR EL QUE SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 36 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS SESENTA Y CINCO POR EL QUE SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 36 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso.
 
 TERCERO (SIC).- Se derogan las disposiciones de igual o menor grado que se opongan a la presente reforma.
 
 SEGUNDO (SIC).- Remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos, para efectos de su divulgación.
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS CUARENTA Y SIETE QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 55 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+
+Artículo Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos para su publicación en el Periódico Oficial "Tierra y Libertad".
+
+Artículo Segundo.- El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso.
+
+Artículo Tercero.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+Artículo Cuarto.- Se Instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial "Tierra y Libertad", a brindar las facilidades necesarias a fin de remitir en "COPIA CERTIFICADA", los Decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
