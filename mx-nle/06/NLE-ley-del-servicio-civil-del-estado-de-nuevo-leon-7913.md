@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "2019-12-11"
+last_updated: "2020-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -360,6 +360,12 @@ XIV.- Conceder licencia sin goce de sueldo a sus trabajadores, para el desempeñ
 > <small>(REFORMADA, P.O. 13 DE FEBRERO DE 1981)</small>
 
 XV.- Hacer las deducciones que solicite la organización a que pertenezcan los trabajadores siempre que se sujeten a los términos de esta Ley.
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2020)</small>
+
+XVI.- Propiciar el establecimiento de Centros de Atención para las hijas e hijos en edad escolar de las y los trabajadores al servicio del Estado o Municipios en los centros de trabajo o cerca de ellos.
+
+Se entenderá como centros de atención, a aquellos espacios, cualquiera que sea su denominación de modalidad pública; en donde se prestan servicios para la atención, cuidado y desarrollo integral infantil en un marco de ejercicio pleno de los derechos de niñas y niños desde los cuarenta y tres días de nacido” (sic)
 
 ### CAPITULO QUINTO. De las obligaciones de los funcionarios y trabajadores
 
@@ -1070,3 +1076,9 @@ A partir de su publicación 15 Días
 2025 60 Días
 
 Tercero.- Para dar cumplimiento a las obligaciones emanadas de la presente reforma, se deberán tomar en cuenta en el Presupuesto de Egresos del Estado del ejercicio fiscal correspondiente.
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 255. SE ADICIONA UNA FRACCIÓN XVI AL ARTÍCULO 36 DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
