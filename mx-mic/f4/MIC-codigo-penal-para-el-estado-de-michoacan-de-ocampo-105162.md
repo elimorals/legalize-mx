@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2020-01-13"
+last_updated: "2020-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -331,9 +331,15 @@ Se presume que hay consentimiento cuando el hecho se realice en circunstancias t
 
 V. Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el agente, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el agente no tuviere el deber jurídico de afrontarlo;
 
-VI. Se repela una agresión real, actual o inminente, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad razonable de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2020)</small>
 
-Se presumirá como legítima defensa, salvo prueba en contrario, el hecho de causar daño a quien por cualquier medio trate de penetrar sin derecho al hogar del agente, al de su familia, a sus dependencias, o a los de cualquier persona que ésta tenga la obligación de defender, al sitio donde se encuentren bienes propios o ajenos respecto de los que exista la misma obligación o bien lo encuentre en alguno de aquellos lugares en circunstancias tales que revelen la probabilidad de una agresión;
+VI. Se repele una agresión real, actual o inminente, en defensa de un bien jurídico propio o ajeno, siempre que exista necesidad de la defensa, racionalidad del medio empleado y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor.
+
+Se presumirá como legítima defensa el hecho de causar lesiones o privar de la vida a quien, por cualquier medio, trate de penetrar o penetre, sin derecho, al hogar del agente, al de su familia, a sus dependencias o a los de cualquier persona que éste tenga la obligación de defender, al sitio donde se encuentre su familia o bienes propios o ajenos respecto de los que exista la misma obligación o bien lo encuentre en alguno de aquellos lugares en circunstancias tales que revelen la probabilidad de una agresión.
+
+No se considerará exceso en la legítima defensa cuando concurran circunstancias en las que la persona que se defiende se encuentra en estado de confusión, miedo o terror que afecte su capacidad para determinar el límite adecuado de su respuesta o racionalidad del medio empleado para defenderse.
+
+En todo caso de legítima defensa en que una mujer sea quien repele la agresión, jueces y agentes del Ministerio Público aplicarán la perspectiva de género, para su análisis de la situación en la que ocurrió el caso concreto, a fin de cumplir las obligaciones internacionales en materia de derechos humanos de las mujeres.
 
 VII. Se actúe en cumplimiento de un deber jurídico o en ejercicio de un derecho, dentro de los límites establecidos por la ley, siempre que exista necesidad razonable de la conducta empleada para cumplir el deber o ejercer el derecho;
 
@@ -1835,11 +1841,15 @@ Este delito se perseguirá por querella.
 
 Artículo 169 bis. Acoso sexual.
 
-Se impondrán de seis meses a un año de prisión o de treinta a ciento veinte veces el valor diario de la unidad de medida y actualización, a quien en beneficio suyo o de un tercero persiga, asedie física o verbalmente a persona de cualquier sexo, con fines sexuales no consentidos a otra persona.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2020)</small>
+
+Se impondrán de seis meses a un año de prisión o de treinta a ciento veinte veces el valor diario de la unidad de medida y actualización, a quien en beneficio suyo o de un tercero persiga, asedie física, verbal o digitalmente o por cualquier medio de comunicación, a una persona con fines sexuales no consentidos.
 
 Cuando la víctima sea especialmente vulnerable, por razón de su edad, discapacidad o situación, se impondrán de uno a cuatro años de prisión y de cuarenta a ciento ochenta veces el valor diario de la unidad de medida y actualización.
 
-Este delito se perseguirá por querella.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2020)</small>
+
+Este delito se perseguirá por querella, pero se procederá de oficio cuando concurra violencia física, psicológica o verbal, por cualquier medio de comunicación, cuando la víctima sea persona menor de edad o cuando no tenga capacidad para comprender el significado del hecho o para resistirlo.
 
 ### CAPÍTULO IV. TRÁFICO DE PERSONAS MENORES DE EDAD
 
@@ -1933,11 +1943,9 @@ Cuando el sujeto devuelva espontáneamente al menor o incapaz, dentro de los tre
 
 Violencia familiar
 
-(NOTA: EL 14 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE NOVIEMBRE DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 181, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
-
-Comete el delito de violencia familiar quien lleve a cabo conductas que agredan física, psicológica, patrimonial o económicamente, a alguna persona con la que se encuentre unida por vínculo matrimonial, de parentesco, por consanguinidad, afinidad, civil, concubinato, relación de pareja o familiar de hecho o esté sujeta a su custodia, protección o cuidado, o tenga el cargo de tutor o curador sobre la persona, o de aquellas personas que no reúnen los requisitos para constituir concubinato, siempre que hagan vida en común, dentro o fuera del domicilio familiar. SE CONSIDERARÁ COMO VIOLENCIA FAMILIAR LA ALIENACIÓN PARENTAL DEMOSTRADA, RESPECTO DE SUS HIJOS O ADOPTADOS. Se impondrá de uno a cinco años de prisión, suspensión de los derechos que tenga respecto de la víctima por el término de la pena de prisión impuesta, incluidos los de carácter sucesorio y prohibición de ir a un lugar determinado o residir en él.
+Comete el delito de violencia familiar quien lleve a cabo conductas que agredan física, psicológica, patrimonial o económicamente, a alguna persona con la que se encuentre unida por viínculo (sic) matrimonial, de parentesco, por consanguinidad, afinidad, civil, concubinato, relación de pareja o familiar de hecho o este sujeta a su custodia, protección o cuidado, o tenga el cargo de tutor o curador sobre la persona, o de aquellas personas que no reúnen los requisitos para constituir concubinato, siempre que hagan vida en común, dentro o fuera del domicilio familiar. Se considerará violencia familiar la alienación parental demostrada, respecto de sus hijos o adoptados. Se impondrá de uno a cinco años de prisión, suspensión de los derechos que tenga respecto de la víctima por el término de la pena de prisión impuesta, incluidos los de carácter sucesorio y prohibición de ir a un lugar determinado o residir en él, así como tratamiento psicoterapéutico.
 
 El delito de violencia familiar se perseguirá por querella, salvo que la víctima sea una persona menor de edad o que no tenga capacidad para comprender el significado del hecho, casos en los cuales se perseguirá de oficio.
 
@@ -2265,7 +2273,9 @@ IV. Se cometa por medio de escalamiento o empleo de llaves falsas;
 
 V. Se ejecute por una o varias personas armadas o que utilicen o porten otros objetos peligrosos;
 
-VI. (DEROGADA, P.O. 21 DE JULIO DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2020)</small>
+
+VI. Se comete con la participación de uno o varios trabajadores de instituciones bancarias, aprovechándose de la información a que tienen acceso;
 
 VII. Cuando participen una o más personas que pertenezcan o hayan pertenecido a corporaciones de seguridad de cualquier índole o a las fuerzas armadas; y,
 
@@ -3725,15 +3735,29 @@ Se impondrá pena de seis meses a nueve años de prisión y de cien a tres mil d
 
 I. Desmonte o destruya la vegetación natural;
 
-II. Corte, arranque, derribe o tale algún o algunos árboles; o,
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2020)</small>
 
-III. Cambie el uso del suelo forestal.
+II. Corte, arranque, derribe o tale algún o algunos árboles;
 
-La pena de prisión deberá aumentarse hasta en tres años más y la pena económica hasta en mil días multa, para el caso en el que las conductas referidas en las fracciones del primer párrafo del presente artículo afecten un área natural protegida.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2020)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE AGOSTO DE 2018)</small>
+III. Cambie el uso del suelo forestal; o,
 
-Además, podrá suspenderse, demoler o desmantelar, las construcciones, obras, actividades o vegetación inducida en las áreas forestales o preferentemente forestales, que hubieren dado lugar al delito ambiental.
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2020)</small>
+
+IV. Construya o lleve a cabo cualquier tipo de obra en áreas forestales o preferentemente forestales, sin los estudios y las autorizaciones correspondientes en materia ambiental.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2020)</small>
+
+La pena se aumentará hasta en una mitad si el lugar donde se comete el delito es área natural protegida.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2020)</small>
+
+La reparación del daño siempre conllevará la obligación de realizar las acciones necesarias para restituir las condiciones que prevalecían antes de la comisión del delito contra el ambiente.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE FEBRERO DE 2020)</small>
+
+En todo caso se ordenará la suspensión, demolición o desmantelamiento de las construcciones, obras, actividades o vegetación inducida que hubieren dado lugar al delito contra el ambiente.
 
 ###### Artículo 303.
 
@@ -4126,3 +4150,43 @@ P.O. 13 DE ENERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 302.- SE REFORMAN LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 169 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 304.- SE REFORMAN LAS FRACCIONES II Y III, LOS PÁRRAFOS SEGUNDO Y TERCERO; Y SE ADICIONA UNA FRACCIÓN IV Y UN PÁRRAFO CUARTO; TODOS AL ARTÍCULO 302 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 305.- SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 204 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 306.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 178 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 312.- SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 27 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN.”]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
