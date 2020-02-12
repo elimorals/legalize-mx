@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-educacion-para-el-estado-de-chiapas-40134"
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-16"
-last_updated: "2019-12-11"
+last_updated: "2020-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 16 de junio de 2004.
 
@@ -508,6 +508,10 @@ XXI. VALORAR Y ACTUAR, CON AMPLIO SENTIDO DE RESPETO A LOS ECOSISTEMAS A EFECTO 
 > <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
 
 XXII. RECONOCER Y RESPETAR LA PLURALIDAD Y DIVERSIDAD INDIVIDUAL Y CULTURAL.
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2020)</small>
+
+XXIII. PROMOVER EL ESTUDIO Y ANALISIS DE LOS CONTENIDOS DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, Y DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, ENTRE LA POBLACION ESTUDIANTIL DE LOS DIFERENTES NIVELES EDUCATIVOS.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2014)</small>
 
@@ -2706,3 +2710,11 @@ P.O. 11 DE DICIEMBRE DE 2019.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 168 POR EL QUE SE ADICIONA LA FRACCIÓN XXIII AL ARTÍCULO 8 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE CHIAPAS”
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
