@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-social-para-el-estado-de-morelos-96547"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-06"
-last_updated: "2019-04-10"
+last_updated: "2020-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de noviembre de 2013.
 
@@ -295,7 +295,11 @@ XII. Los que permitan tomar parte libremente en la vida cultural de la comunidad
 
 XIII. Los que promueven la actividad física y la práctica deportiva; y
 
-XIV. Los que fomenten el trabajo social y la colaboración comunitaria, la tolerancia y la convivencia armónica y fortalezcan el tejido social.
+XIV. Los que fomenten el trabajo social y la colaboración comunitaria, la tolerancia y la convivencia armónica y fortalezcan el tejido social;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2020)</small>
+
+XV. Promover y fomentar programas para evitar el desperdicio de alimentos con la finalidad de erradicar la pobreza extrema alimentaria.
 
 ###### Artículo 20.
 
@@ -844,3 +848,11 @@ SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deb
 SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
 
 OCTAVO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS CINCUENTA Y OCHO POR EL QUE SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 19 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MORELOS”.]
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
