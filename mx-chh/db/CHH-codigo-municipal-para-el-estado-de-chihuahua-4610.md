@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2020-01-15"
+last_updated: "2020-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -767,9 +767,11 @@ XVIII.- Vigilar, el mantenimiento y conservación del patrimonio municipal;
 
 XIX.- Dictar las disposiciones generales o particulares que tiendan a la conservación de los bienes y monumentos artísticos, arquitectónicos e históricos, ubicados en el Municipio, así como de los documentos históricos o cualquier material testimonial de un hecho jurídico o socialmente trascendente, que tengan un valor relevante en el orden artístico, cultural o histórico y cuyo cuidado y conservación no corresponda a otra autoridad;
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2020)</small>
 
-XX.- Aprobar, por las dos terceras partes de los integrantes del Ayuntamiento y previo cumplimiento del procedimiento a que se refiere el artículo 110 de este Código, la incorporación, desincorporación o cambio de destino de un bien sujeto al régimen de dominio público municipal, exponiendo en el acta de Cabildo correspondiente, las razones que justifiquen dicho acto y que invariablemente, deben referirse al beneficio que el Municipio obtiene con dicha disposición y que se verificó que la medida no causa perjuicio a la comunidad.
+XX.- Aprobar, por al menos las dos terceras partes de los integrantes del Ayuntamiento y previo cumplimiento del procedimiento a que se refiere el artículo 22 de la Ley de Bienes del Estado de Chihuahua, la incorporación, desincorporación o cambio de destino de un bien sujeto al régimen de dominio público municipal, exponiendo en el acta de Cabildo correspondiente, las razones que justifiquen dicho acto y que invariablemente, deben referirse al beneficio que el Municipio obtiene con dicha disposición y que se verificó que la medida no causa perjuicio a la comunidad.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2003)</small>
 
 Cuando la desincorporación del régimen de dominio público tenga como finalidad la enajenación del bien, el producto de su enajenación no podrá destinarse al pago de gasto corriente;
 
@@ -2885,285 +2887,97 @@ En la hipótesis prevista en el caso anterior, en tanto se rinda protesta de ley
 
 Para cubrir las faltas temporales o definitivas de las personas titulares de las Regidurías se llamará a las suplencias respectivas.
 
-# LIBRO SEGUNDO. DEL PATRIMONIO Y LA HACIENDA MUNICIPALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE FEBRERO DE 2020)</small>
+
+# LIBRO SEGUNDO. DE LA HACIENDA MUNICIPAL
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2020)</small>
 
 ## TITULO PRIMERO. DEL PATRIMONIO MUNICIPAL
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2020)</small>
 
 ### CAPITULO I. DE LOS BIENES MUNICIPALES DE DOMINIO PUBLICO
 
 ###### ARTICULO 103.
 
-El patrimonio de los Municipios, lo constituyen los bienes de dominio público y los bienes de dominio privado.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 104.
 
-Los bienes de dominio público, son los siguientes:
-
-I.- Los de uso común;
-
-II.- Los inmuebles destinados a un servicio público municipal, los propios, que de hecho utilice para dicho fin y los equiparados a éstos, conforme a la ley;
-
-III.- Los monumentos históricos y artísticos, muebles e inmuebles propiedad de los Municipios;
-
-IV.- Los terrenos baldíos y los demás bienes inmuebles declarados por la ley inalienables e imprescriptibles;
-
-V.- Las servidumbres, cuando el predio dominante sea alguno de los anteriores;
-
-VI.- Los bienes muebles de propiedad municipal, que por su naturaleza, no sean normalmente sustituibles, como los documentos y expedientes de la (sic) oficinas; manuscritos, ediciones, libros, publicaciones, periódicos, mapas, planos, folletos, grabados importantes o raros, pinturas, fotografías, películas, archivos, registros; y
-
-VII.- Las pinturas murales, las esculturas y cualquier obra artística, incorporada permanentemente a los inmuebles del Municipio o del patrimonio de los organismos descentralizados, cuya conservación sea de interés histórico o artístico.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 105.
 
-Son bienes de uso común:
-
-I.- Los caminos, calzadas y puentes que no sean propiedad del Estado o de la Federación;
-
-II.- Los canales, sanjas (sic) y acueductos construídos o adquiridos por los Municipios para usos de utilidad pública, existentes dentro de los territorios de cada uno de ellos, que no sean de la Federación o del Estado;
-
-III.- Las plazas, calles, avenidas, paseos y parques públicos existentes en cada Municipio;
-
-IV.- Las construcciones efectuadas o recibidas por el Gobierno Municipal en lugares públicos, para ornato o comodidad de quienes los visiten; y
-
-V.- Los demás bienes considerados por las leyes como tales.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 106.
 
-Son bienes afectos a un servicio público:
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
-I.- Los inmuebles destinados a las dependencias y oficinas municipales;
-
-II.- Los inmuebles directamente destinados a los servicios públicos municipales;
-
-III.- Los inmuebles que constituyen el patrimonio de los organismos públicos descentralizados de carácter municipal;
-
-IV.- Los establecimientos fabriles administrados directamente por el Gobierno Municipal;
-
-V.- Las bibliotecas, museos, teatros, reclusorios, escuelas de rehabilitación para menores, dispensarios, hospitales, asilos, guarderías infantiles, lavaderos públicos y en general todos aquéllos que hayan sido adquiridos con fondos municipales, o se hayan donado o adjudicado al Municipio;
-
-VI.- Cualesquiera otros, adquiridos por procedimientos de derecho público.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2020)</small>
 
 ### CAPITULO II. DE LOS BIENES MUNICIPALES DE DOMINIO PRIVADO
 
 ###### ARTICULO 107.
 
-Son bienes de dominio privado de los Municipios:
-
-I.- Los inmuebles que no tengan propietario, con título registrado, comprendidos dentro del fundo legal de las poblaciones, aprobado por el Congreso y debidamente inscrito junto con el plano respectivo en el Registro Público de la Propiedad, los que se destinarán preferentemente a la solución de necesidades sociales de vivienda;
-
-II.- Los que hayan formado parte, de organismos públicos municipales que se extingan;
-
-III.- Los bienes muebles al servicio de las dependencias y oficinas municipales no comprendidas en la fracción VI del artículo 104;
-
-IV.- Los demás bienes, que por cualquier título adquiera el Municipio y que no estén comprendidos en anteriores artículos.
-
-Los bienes a que se refiere este precepto, pasarán a formar parte del dominio público, cuando se afecten al uso común, a un servicio público o a cualquiera de las actividades que se equiparan a los servicios públicos o de hecho se utilicen en esos fines.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 108.
 
-Los bienes de dominio público, son inalienables e imprescriptibles y no podrán ser objeto de gravamen de ninguna clase, ni reportar derecho real alguno.
-
-Los derechos de tránsito, vistas, luces y otros semejantes se regirán por las leyes y reglamentos administrativos y los permisos o concesiones que otorgue la autoridad municipal sobre ésta clase de bienes tendrán siempre el carácter de revocables.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 109.
 
-Al otorgamiento, ejecución, terminación y en general al régimen jurídico de las concesiones para el aprovechamiento de los bienes del dominio municipal, les serán aplicables en los (sic) conducente, las disposiciones de este Código, relativas a los contratos de obra y las concesiones de servicio público.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 110.
 
-Los bienes inmuebles destinados a oficinas de gobierno, que cuenten con infraestructura y estén en uso, requieren para su enajenación, la previa desafectación del régimen de dominio público decretada por el Congreso del Estado.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE NOVIEMBRE DE 2014)</small>
-
-No podrán desafectarse los bienes de dominio público del Municipio, dentro de los últimos seis meses de la Administración.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE NOVIEMBRE DE 2014)</small>
-
-No es aplicable lo dispuesto en el párrafo anterior tratándose de bienes que se encuentren en trámite de regularización para uso habitacional con un propósito de carácter social.
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2006)</small>
-
-En los demás casos, los bienes de dominio público de los municipios podrán ser enajenados cumpliendo previamente con lo que dispone la fracción XX del artículo 28 de este Código, siempre y cuando se observe el siguiente procedimiento:
-
-I.- La Dirección de Desarrollo Urbano Municipal o la que corresponda, según el ayuntamiento, emitirá un dictamen de factibilidad, aprobando o rechazando la solicitud, adjuntando al mismo lo siguiente:
-
-a) La documentación que acredite, indudablemente, la propiedad del inmueble a favor del municipio.
-
-b) La descripción y ubicación exacta del inmueble, con el plano correspondiente.
-
-c) La naturaleza del régimen a que se encuentra afecto y su ubicación dentro de las hipótesis que se contemplan en este mismo Código.
-
-d) La justificación para incorporarlo, desincorporarlo o cambiar su destino.
-
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
-
-II.- Asimismo, la persona titular de la Sindicatura Municipal emitirá un dictamen sobre la factibilidad o no de la desincorporación, en cumplimiento de las atribuciones de vigilancia que le corresponden.
-
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
-
-Los bienes inmuebles donados al municipio, previstos en los artículos 104 y 105 de la Ley de Desarrollo Urbano Sostenible del Estado de Chihuahua, además de cumplir con los requisitos antes señalados, será necesario la anuencia de las dos terceras partes de las personas o instancias propietarias de las casas o terrenos que conformen el fraccionamiento, a excepción de los constructores o fraccionadores
-
-> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2006)</small>
-
-No será necesaria la anuencia señalada en el párrafo anterior, cuando la enajenación sea destinada única y exclusivamente a servicios básicos como escuelas, mercados, dispensarios, templos, parques, jardines y demás áreas públicas.
-
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
-
-Los bienes municipales a que hacen referencia la Ley de Desarrollo Cultural para el Estado de Chihuahua, y la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Chihuahua, ambas del Estado de Chihuahua, se regularán de conformidad con lo previsto en dichos ordenamientos.
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2013)</small>
-
-En todo tiempo no podrán desafectarse ni enajenarse áreas culturales, deportivas y parques públicos municipales, a excepción de los que se encuentren en desuso.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 111.
 
-Los bienes inmuebles del dominio privado del municipio son imprescriptibles pero podrán ser enajenados.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
-
-Basta la autorización del Ayuntamiento, previa justificación de su procedencia, cuando la transmisión se realice:
-
-a) Como contraprestación, por bienes o servicios recibidos por el Municipio;
-
-b) Por la afectación de derechos de los particulares, motivada por actos de la administración municipal, realizados en ejercicio de su competencia y para satisfacción de necesidades colectivas; y
-
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
-
-c) Para ordenar asentamientos humanos irregulares. Cuando la solicitud de regularización recaiga sobre inmuebles cuyas superficies superen las señaladas en el Artículo 113 de este ordenamiento, se requerirá que haya sido aprobado por las dos terceras partes de los integrantes del ayuntamiento; el solicitante deberá acreditar que ha tenido la posesión del inmueble por cinco años anteriores a la fecha de la solicitud, además que no se hallen bienes registrados a su nombre o de su cónyuge, sin perjuicio de cumplir con las demás disposiciones legales aplicables.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2002)</small>
-
-Para el caso de establecimientos de centros industriales, agropecuarios, educativos y de interés social, previa justificación y aprobación de las dos terceras partes de los integrantes del Ayuntamiento, podrán enajenarse superficies mayores a las que determina el artículo 113.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 112.
 
-Para la venta de bienes muebles del dominio privado municipal se requerirá el acuerdo del Ayuntamiento cuando su valor sea superior a doscientos cincuenta veces la unidad de medida y actualización; cuando su importe sea menor, bastará el acuerdo por escrito de la persona titular de la Presidencia Municipal.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
-
-Queda prohibido enajenar bienes muebles e inmuebles de dominio público y privado, durante los últimos seis meses de la Administración, salvo que los bienes muebles tengan un año de haberse inutilizado o bien se encuentren inservibles, para lo cual la persona titular de la Secretaría del Ayuntamiento deberá certificar el estado que guardan los bienes a enajenarse.
-
-> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2013)</small>
-
-Los bienes inmuebles sujetos a un proceso de regularización de la tenencia de la tierra, no quedan comprendidos en la prohibición referida en este Artículo.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2020)</small>
 
 ### CAPITULO III. DEL DENUNCIO DE TERRENOS MUNICIPALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2002)</small>
-
 ###### ARTICULO 113.
 
-Para la enajenación de los inmuebles a que se refiere la fracción primera, del artículo 107, los Ayuntamientos establecerán, por medio de un reglamento, las bases conforme a las cuales puedan los particulares adquirirlos; pero en todo caso, la superficie enajenable no será superior a:
-
-I.- En poblaciones hasta de tres mil habitantes, mil metros cuadrados;
-
-II.- En poblaciones de más de tres mil habitantes y hasta de quince mil, quinientos metros cuadrados y;
-
-III.- En poblaciones mayores de quince mil habitantes, doscientos cincuenta metros cuadrados.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
-
-Para el caso de establecimientos de centros industriales, agropecuarios, educativos y de interés social, previa justificación y aprobación de las dos terceras partes de los integrantes del Ayuntamientos (sic) podrán enajenar superficies mayores a las señaladas con anterioridad.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 114.
 
-Los denuncios de terrenos municipales, deben presentarse mediante solicitud suscrita por el denunciante; la que contendrá:
-
-I.- Nombre, edad, ocupación, estado civil, nacionalidad y domicilio del denunciante;
-
-II.- Comprobante de que está domiciliado, en la población en que pretende adquirir el terreno;
-
-III.- Ubicación e identificación, así como medidas, colindancias y superficie del terreno que se pretende adquirir; y
-
-IV.- Constancia del Registro Público de la Propiedad, para acreditar que el denunciante o su cónyuge, no tienen bienes inmuebles inscritos a su nombre, excepto el caso, de que se trate de colindantes con una vía pública o terrenos municipales que hayan de enajenarse.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 115.
 
-La solicitud se inscribirá en el libro correspondiente y se procederá en la forma siguiente:
-
-I.- Se revisará el ejemplar y si se encontrare que no tiene claridad o le falta alguno de los datos que se mencionan en el artículo anterior, se prevendrá al interesado que haga las adiciones y aclaraciones necesarias; si alguna de las omisiones de que adolezca la solicitud no puede subsanarse en el acto mismo de la presentación, porque el denunciante no tenga en el momento los datos requeridos, se le prevendrá que la corrija dentro de los diez días hábiles siguientes. De dicha prevención se tomará nota en la inscripción del registro;
-
-II.- Puesta en la solicitud la constancia del registro y hechas en su caso las correcciones que se indican en la fracción anterior, se entregará al interesado constancia de recibida; y
-
-III.- Si en el plazo de cuarenta y cinco días el interesado no cumple con las obligaciones que le impone el trámite del denuncio, caducará su solicitud y se cancelará el registro correspondiente.
-
-Las solicitudes de denuncio de terrenos municipales no generan derecho alguno. En consecuencia, no podrán ser objeto de cesión o enajenación alguna.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 116.
 
-La inscripción del denuncio debe asentarse en un libro especial autorizado en todas las hojas debidamente numeradas y con el sello del Municipio, debiendo contener:
-
-I.- El número progresivo del registro;
-
-II.- La hora y fecha de la presentación del escrito de denuncio; y
-
-III.- Los datos a que se refiere el artículo 114.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 117.
 
-Hecho el registro del denuncio, se ordenará la publicación de avisos, por dos veces consecutivas de siete en siete días y a costa del interesado en el Periódico Oficial del Estado y se fijará un tanto en los estrados de la Presidencia Municipal. Los avisos contendrán los datos esenciales del escrito de denuncio y de su inscripción.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 118.
 
-Transcurrido el término de treinta días naturales contados a partir de la fecha de la última publicación, sin haberse presentado oposición, se procederá en la forma siguiente:
-
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
-
-I.- La persona comisionada por la Dirección de Obras Públicas, o dependencia competente, auxiliada del perito que para el efecto nombrará la persona titular de la Presidencia practicará, con citación de los colindantes, la mensura del terreno de que se trate;
-
-II.- Se prevendrá al perito para que dentro del término de ocho días naturales, contados desde la fecha de la mensura, exhiba los planos correspondientes y rinda un informe que contenga minuciosa relación de las operaciones practicadas, así como un acta, en que conste la conformidad de los colindantes o los incidentes que se hayan suscitado con motivo de los trabajos;
-
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
-
-III.- Una vez recibida la documentación o los planos de referencia y depositada en la Tesorería Municipal la cantidad que como importe del terreno se encuentre fijada en la tarifa o exhibido el convenio de pago correspondiente, se remitirá a la dependencia municipal encargada para que en un término de treinta días naturales presente a la persona titular de la Presidencia Municipal su estudio y en su caso, su aprobación técnica;
-
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
-
-IV.- Tan luego como la persona titular de la Presidencia Municipal reciba el expediente aprobado, lo remitirá al Ayuntamiento para su autorización;
-
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
-
-V.- Una vez autorizado el denuncio, la persona titular de la Presidencia Municipal expedirá el título de propiedad, en el que se deberá fijar a la persona o instancia adquirente un plazo improrrogable de dos años para que habite el predio denunciado, haciéndosele saber que en caso de incumplimiento, la propiedad volverá al patrimonio del municipio.
-
-El título se inscribirá en el Registro Público de la Propiedad por el Municipio, a costa del interesado y se harán constar expresamente en la inscripción las obligaciones a que se refiere la fracción V de este artículo y las demás previstas en las leyes y reglamentos.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 119.
 
-De presentarse oposición, haciendo valer la preferencia, la que podrá intentarse por escrito dentro de los treinta días siguientes a la última publicación, se suspenderá de oficio el trámite del denuncio y la oposición se sujetará al procedimiento previsto en el artículo 195.
-
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
-
-Si la oposición se funda en el derecho de propiedad o posesión de tercero sobre el predio denunciado, se suspenderá el procedimiento y la persona titular de la Presidencia Municipal prevendrá al opositor personalmente para que se presente en el término de quince días, ante la autoridad judicial a ejercer la acción que corresponda. Si dentro del plazo concedido no ocurriere el opositor ante la autoridad judicial, se le tendrá por perdida la acción y continuará la tramitación del denuncio, a no ser que al escrito de oposición se haya acompañado título legalmente expedido y registrado del inmueble, pues en este caso se cancelará el procedimiento administrativo de enajenación.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 120.
 
-Tendrán preferencia para la adquisición de terrenos municipales:
-
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
-
-I.- Las y los mexicanos respecto a los extranjeros;
-
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
-
-II.- Las y los poseedores de buena fe;
-
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
-
-III.- Las y los colindantes, respecto de la porción de terreno que se encuentre al frente de los predios de su propiedad y exclusivamente en la longitud de dicho frente que intercepte su acceso a la vía pública;
-
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
-
-IV.- Las y los colindantes de una vía pública, que haya de enajenarse de acuerdo con la ley, en las porciones que les correspondan;
-
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
-
-V.- El o la denunciante que se haya presentado en primer lugar.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ## TITULO SEGUNDO. DE LA HACIENDA MUNICIPAL
 
@@ -3859,11 +3673,11 @@ Son objeto de derechos por servicios generales en los rastros municipales, toda 
 
 DERECHO POR SERVICIO DE ALUMBRADO PUBLICO
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 175.
 
-Es objeto de este derecho, el servicio de alumbrado público que el municipio presta en bienes de uso común, de los señalados en el artículo 105, fracción III, de este Código.
+Es objeto de este derecho, el servicio de alumbrado público que el municipio presta en bienes de uso común, de los señalados en el artículo 16, fracción III, de la Ley de Bienes del Estado de Chihuahua.
 
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
@@ -5604,3 +5418,37 @@ P.O. 15 DE ENERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVI/EXLEY/0583/2019 I P.O. LEY DE BIENES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Poderes Ejecutivo, Legislativo y Judicial, los municipios, los organismos descentralizados estatales y municipales, así como a los Organismos Constitucionales Autónomos, deberán expedir o adecuar, en un plazo de ciento ochenta días naturales, las disposiciones necesarias para el cumplimiento de la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Los municipios del Estado, en un plazo que no podrá exceder de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, deberán crear su Registro de Propiedad Municipal.
+
+###### ARTÍCULO CUARTO.
+
+El artículo 22, cuarto párrafo del presente Decreto, entrará en vigor hasta en tanto lo haga la legislación que regule la figura del Órgano Gestor de Suelo.
+
+###### ARTÍCULO QUINTO.
+
+Los órganos colegiados a que hace referencia el artículo 103 de esta Ley, deberán constituirse y celebrar su primera sesión en un plazo no mayor de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+En tanto se expide la Ley del Procedimiento Administrativo del Estado, se aplicará en lo conducente el Código Administrativo del Estado de Chihuahua, así como la legislación procedimental civil aplicable.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las disposiciones administrativas expedidas en esta materia, vigentes al momento de la publicación de este Decreto, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deban sustituirlas.
+
+Los procedimientos administrativos y demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en el que se iniciaron.
