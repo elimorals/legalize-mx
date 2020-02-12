@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-131982"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-08"
-last_updated: "2019-06-26"
+last_updated: "2020-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
 
 Ley publicada en el Número 414 del Periódico Oficial del Estado de Chiapas, el sábado 8 de diciembre de 2018.
 
@@ -1275,9 +1275,13 @@ XXII. Garantizar la cobertura de la Red Estatal de Telecomunicaciones que permit
 
 XXIII. Dirigir, planear y regular las políticas y acciones relativas al servicio público, particular, de tránsito vehicular y vialidad en el Estado.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2020)</small>
 
-XXIV. Los demás asuntos que le correspondan, en términos de las leyes aplicables, su reglamento interior y los que determine el Titular del Poder Ejecutivo del Estado.
+XXIV. Implementar el Plan de Reeducación para Personas Generadoras de Violencia, que deberá ser impartido por mandato judicial o de manera voluntaria, el cual contendrá acciones de reeducación y reinserción social.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2020)</small>
+
+XXV. Los demás asuntos que le correspondan, en términos de las leyes aplicables, su reglamento interior y los que determine el Titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 44.
 
@@ -1418,5 +1422,17 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan o contravengan lo establecido en el presente Decreto.
 
 Artículo Tercero.- Los titulares de las dependencias, deberán someter a consideración del Titular del Ejecutivo del Estado, las adecuaciones que correspondan al marco jurídico de su actuación, en un plazo que no exceda de 90 días hábiles, a efecto de hacerlos congruentes con las disposiciones del presente Decreto.
+
+Artículo Cuarto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 166 POR EL QUE SE REFORMA LA FRACCIÓN XXIV Y SE ADICIONA LA FRACCIÓN XXV AL ARTÍCULO 43 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan o contravengan lo establecido en el presente Decreto.
+
+Artículo Tercero.- El Titular de la Secretaría de Seguridad y Protección Ciudadana, deberá someter a consideración del Titular del Ejecutivo del Estado, las adecuaciones que correspondan al marco jurídico de su actuación, en un plazo que no exceda de 90 días hábiles, a efecto de hacerlos congruentes con las disposiciones del presente Decreto.
 
 Artículo Cuarto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
