@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2019-09-07"
+last_updated: "2020-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -1395,13 +1395,21 @@ VII.- Unidad de Igualdad de Género.
 
 VIII.- Dirección de Archivos.
 
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2020)</small>
+
+IX.- Órgano Interno de Control.
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 125.
 
 Las personas titulares de los órganos técnicos a que se refiere el artículo anterior, serán nombradas por el Pleno, a propuesta de la Junta de Coordinación Política.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2020)</small>
+
+Tratándose del nombramiento de quien ocupe la titularidad del Órgano Interno de Control, se sujetará al procedimiento establecido en el Título Séptimo del Reglamento Interior y de Prácticas Parlamentarias del Poder Legislativo.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 12 DE FEBRERO DE 2020)</small>
 
 Por lo que se refiere al nombramiento de quien ocupe la titularidad de la Auditoría Superior del Estado, se sujetará al procedimiento establecido en la Constitución Política del Estado y al Capítulo V del Título Sexto de esta Ley.
 
@@ -1418,6 +1426,10 @@ II.- Del que ocupe la titularidad de la Auditoría Superior del Estado, conforme
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 III.- El del Instituto de Estudios e Investigación Legislativa, conforme a lo dispuesto en el Reglamento que regule su funcionamiento.
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2020)</small>
+
+IV.- El del Órgano Interno de Control conforme al procedimiento establecido en el Título Séptimo del Reglamento Interior y de Prácticas Parlamentarias del Poder Legislativo.
 
 ###### ARTÍCULO 127.
 
@@ -1446,6 +1458,10 @@ b) Tratándose de la Secretaría de Administración, acreditar los conocimientos
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
 c) Tratándose de la o el Titular de la Dirección de Archivos, necesariamente tendrá que contar con Licenciatura en alguna de las Ciencias Humanas como son Derecho, Sociología, Psicología, Antropología, Historiografía, o Licenciatura en alguna de las Ciencias de la Información como son Archivonomía, Bibliotecología y/o Gestión Documental.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2020)</small>
+
+d) Tratándose de la Unidad de Transparencia, la persona titular deberá contar con experiencia mínima de un año en materia de transparencia, acceso a la información pública y protección de datos personales.
 
 IV.- No haber sido condenado (a) por delitos dolosos que ameriten pena privativa de la libertad.
 
@@ -1931,11 +1947,85 @@ IX. Coordinar con el Departamento de Tecnologías de la Información, la gestió
 
 X. Las demás que deriven de las disposiciones legales aplicables.
 
-### CAPÍTULO ÚNICO. DEL OTORGAMIENTO DE ESTÍMULOS Y RECOMPENSAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2020)</small>
+
+### CAPÍTULO X. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 145 TER.- El Órgano Interno de Control tendrá autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones, y contará con una persona titular que será su representante legal, y con la estructura orgánica y los recursos necesarios para el ejercicio de sus atribuciones.
+
+El Órgano Interno de Control tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de personas servidoras públicas del Congreso, así como de personas particulares vinculadas con faltas graves, y sancionar a aquellas distintas a las que son competencia del Tribunal Estatal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos, y presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 145 QUATER.- El Órgano Interno de Control tendrá, además de lo previsto en el artículo anterior, las atribuciones siguientes:
+
+I. Las que contempla la Ley General de Responsabilidades Administrativas.
+
+II. Verificar que el ejercicio del gasto del Congreso se realice conforme a la normatividad aplicable, los programas aprobados y los montos autorizados.
+
+III. Realizar los informes de las revisiones y auditorías que se practiquen para verificar la correcta y legal aplicación de los recursos y bienes del Congreso.
+
+IV. Revisar que las operaciones presupuestales que realice el Congreso se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las irregularidades de las mismas y las causas que les dieron origen.
+
+V. Promover, ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías.
+
+VI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Congreso.
+
+VII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos.
+
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el Presupuesto de Egresos del Congreso, empleando la metodología que determine.
+
+IX. Recibir denuncias conforme a las leyes aplicables.
+
+X. Solicitar la información y efectuar visitas a las áreas y órganos del Congreso para el cumplimento de sus funciones.
+
+XI. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en términos de la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, ambos ordenamientos jurídicos del Estado de Chihuahua, y sus Reglamentos.
+
+XII. Intervenir en los actos de entrega-recepción de las personas servidoras públicas del Congreso de mandos medios y superiores, en los términos de la normatividad aplicable.
+
+XIII. Participar en los comités y subcomités de los que el Órgano Interno de Control forme parte e intervenir en los actos que se deriven de los mismos.
+
+XIV. Atender las solicitudes de los diferentes órganos del Congreso en los asuntos de su competencia.
+
+XV. Proponer los proyectos de modificación o actualización de su estructura orgánica o sus recursos.
+
+XVI. Formular el anteproyecto de presupuesto del Órgano Interno de Control.
+
+XVII. Auxiliar a la Comisión de Fiscalización en la elaboración del análisis y conclusiones del Informe General, los informes individuales y demás documentos que le envíe la Auditoría Superior del Estado.
+
+XVIII. Proponer a la Comisión de Fiscalización los indicadores y sistemas de evaluación del desempeño para evaluar a la Auditoría Superior del Estado.
+
+XIX. Participar en las reuniones de la Comisión de Fiscalización para brindar apoyo técnico y especializado.
+
+XX. En general, coadyuvar y asistir a la Comisión de Fiscalización en el cumplimiento de sus atribuciones.
+
+XXI. Las demás que le confieran otros ordenamientos.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 145 QUINQUIES.- El Órgano Interno de Control deberá inscribir y mantener actualizada la información correspondiente en el Sistema de Evolución Patrimonial, de Declaración de Intereses y Constancia de Presentación de Declaración Fiscal, de las personas servidoras públicas del Congreso, en coordinación con la Secretaría responsable del Control Interno del Ejecutivo, de conformidad con la Ley del Sistema Anticorrupción del Estado de Chihuahua y la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 145 SEXIES.- El Órgano Interno de Control, su titular y personal adscrito, cualquiera que sea su nivel, no intervendrán o interferirán, en forma alguna, en el desempeño de las facultades y ejercicio de atribuciones que la Constitución Política del Estado y esta Ley confieren a las y los servidores públicos del H. Congreso.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 145 SEPTIES.- La persona titular del Órgano Interno de Control:
+
+I. Tendrá el nivel jerárquico de una Dirección General, o su equivalente, en la estructura orgánica del H. Congreso y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado.
+
+II. Se sujetará, en el desempeño de su cargo, a los principios previstos en la Ley General de Responsabilidades Administrativas.
+
+III. Se abstendrá de desempeñar cualquier otro empleo, cargo o comisión públicos o privados, con excepción de los de la docencia, en los términos de la normatividad aplicable.
+
+IV. Rendirá un informe semestral y anual de actividades al Pleno del Congreso, por conducto de la Presidencia.
 
 ## TÍTULO SÉPTIMO. DE LOS ESTÍMULOS Y RECOMPENSAS
 
-### CAPÍTULO I. DE LAS SESIONES
+### CAPÍTULO ÚNICO. DEL OTORGAMIENTO DE ESTÍMULOS Y RECOMPENSAS
 
 ###### ARTÍCULO 146.
 
@@ -1967,7 +2057,7 @@ La cantidad deberá ser entregada dentro del mes siguiente a que se tenga derech
 
 ## TÍTULO OCTAVO. DEL PROCEDIMIENTO LEGISLATIVO
 
-### CAPÍTULO II. DEL ORDEN DEL DÍA
+### CAPÍTULO I. DE LAS SESIONES
 
 ###### ARTÍCULO 147.
 
@@ -2057,7 +2147,7 @@ La duración del receso será establecido por quien presida la Mesa Directiva.
 
 En lo relativo a las formalidades del desarrollo de las sesiones, se estará a lo dispuesto en el Reglamento Interior y de Prácticas Parlamentarias.
 
-### CAPÍTULO III. DE LAS INICIATIVAS
+### CAPÍTULO II. DEL ORDEN DEL DÍA
 
 ###### ARTÍCULO 165.
 
@@ -2083,7 +2173,7 @@ La Mesa Directiva podrá reunirse, antes del inicio de cada sesión, para conoce
 
 El orden del día deberá enviarse, vía correo electrónico, a las diputadas y diputados, cuando menos con doce horas de anticipación a la fijada para que se lleven a cabo las sesiones del Congreso.
 
-### CAPÍTULO IV. DE LA CONSULTA
+### CAPÍTULO III. DE LAS INICIATIVAS
 
 ###### ARTÍCULO 167.
 
@@ -2209,7 +2299,7 @@ Si el proyecto de ley o decreto devuelto al Congreso fuere confirmado por el vot
 
 En la abrogación, derogación, reforma o adición de cualquier Ley o Decreto, se observará lo dispuesto en el artículo 77 de la Constitución Política del Estado.
 
-### CAPÍTULO V. DE LAS DISCUSIONES
+### CAPÍTULO IV. DE LA CONSULTA
 
 ###### ARTÍCULO 185.
 
@@ -2235,7 +2325,7 @@ IV.- Bases que regirán su desarrollo.
 
 Una vez concluida la consulta y previo informe que al respecto se presente ante el Pleno, el Congreso podrá ordenar la publicación de la memoria de la referida consulta o de las conclusiones, en su caso.
 
-### CAPÍTULO VI. DE LAS MOCIONES
+### CAPÍTULO V. DE LAS DISCUSIONES
 
 ###### ARTÍCULO 189.
 
@@ -2275,7 +2365,7 @@ VIII.- Quien presida la Mesa Directiva, si así lo considera, declarará suficie
 
 IX.- Las y los integrantes de la Comisión Dictaminadora podrán emitir votos particulares o, en su caso, podrán hacerse propuestas alternativas de redacción y contenido de uno o varios artículos del dictamen.
 
-### CAPÍTULO VII. DE LAS VOTACIONES
+### CAPÍTULO VI. DE LAS MOCIONES
 
 ###### ARTÍCULO 193.
 
@@ -2305,7 +2395,7 @@ X. Hacer proposiciones análogas a las anteriores.
 
 Las mociones se podrán hacer de viva voz y desde su curul por la diputada o el diputado que las proponga, y su aprobación se hará por mayoría de votos.
 
-### CAPÍTULO ÚNICO. DEL SERVICIO CIVIL DE CARRERA PARLAMENTARIA
+### CAPÍTULO VII. DE LAS VOTACIONES
 
 ###### ARTÍCULO 195.
 
@@ -2391,11 +2481,11 @@ En caso necesario, quien presida la Mesa Directiva podrá solicitar por sí, o a
 
 Las características particulares y el procedimiento para emitir las votaciones serán reguladas en los términos del Reglamento Interior y de Prácticas Parlamentarias.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES EN MATERIA DE ACCESO A LA INFORMACIÓN
+### CAPÍTULO ÚNICO. DEL SERVICIO CIVIL DE CARRERA PARLAMENTARIA
 
 ## TÍTULO NOVENO. DEL SERVICIO CIVIL
 
-### CAPÍTULO I. DEL PROCEDIMIENTO JURISDICCIONAL
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES EN MATERIA DE ACCESO A LA INFORMACIÓN
 
 ###### ARTÍCULO 209.
 
@@ -2411,9 +2501,7 @@ Las normas y procedimientos del Servicio Civil de Carrera Parlamentaria, se plas
 
 ## TÍTULO DÉCIMO. TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
-### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+### CAPÍTULO I. DEL PROCEDIMIENTO JURISDICCIONAL
 
 ###### ARTÍCULO 212.
 
@@ -2445,13 +2533,15 @@ Cuando se presente el caso, el(la) Titular del Sujeto obligado, tendrá que nomb
 
 ## TÍTULO UNDÉCIMO. DEL JUICIO POLÍTICO, DECLARACIÓN DE PROCEDENCIA Y RESPONSABILIDADES ADMINISTRATIVAS
 
-### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE ELECCIÓN
+### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
 
 ###### ARTÍCULO 218.
 
 Las solicitudes de denuncia de Juicio Político y de Declaración de Procedencia, que se presenten en contra de las y los servidores públicos mencionados en el artículo 179 de la Constitución Política del Estado, se sujetarán a lo dispuesto en la Ley que expida el Poder Legislativo, para tales efectos.
 
-### CAPÍTULO ÚNICO. DE LAS FORMAS DEL CEREMONIAL
+### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE ELECCIÓN
 
 ###### ARTÍCULO 219.
 
@@ -2465,7 +2555,7 @@ Una vez ratificadas las denuncias, la Secretaría de Asuntos Legislativos y Jur�
 
 ## TÍTULO DUODÉCIMO. DE LA ELECCIÓN DE SERVIDORES PÚBLICOS
 
-### CAPÍTULO I. SERVIDORES PÚBLICOS OBLIGADOS
+### CAPÍTULO ÚNICO. DE LAS FORMAS DEL CEREMONIAL
 
 ###### ARTÍCULO 221.
 
@@ -2481,9 +2571,9 @@ TÍTULO DECIMOTERCERO
 
 DEL CEREMONIAL
 
-### CAPÍTULO II. DE LAS DENUNCIAS
+### CAPÍTULO I. DE LAS Y LOS SERVIDORES PÚBLICOS OBLIGADOS
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2020)</small>
 
 ###### ARTÍCULO 223.
 
@@ -2533,63 +2623,45 @@ TÍTULO DECIMOCUARTO
 
 DE LA DECLARACIÓN PATRIMONIAL
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE FEBRERO DE 2020)</small>
+
+### CAPÍTULO II. DE LAS DENUNCIAS
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
 
 ###### ARTÍCULO 234.
 
-La Comisión de Fiscalización llevará el registro, control y resguardo de las declaraciones de situación patrimonial de servidores públicos del Congreso, de conformidad con esta Ley y demás disposiciones legales aplicables.
+La información relacionada con las declaraciones de situación patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal de las y los servidores públicos del Congreso, deberá presentarse a través de la Plataforma Digital Nacional, de conformidad con lo establecido en la Ley General de Responsabilidades Administrativas.
 
 ###### ARTÍCULO 235.
 
-Están obligados a presentar declaración de situación patrimonial, bajo protesta de decir verdad, los siguientes servidores públicos del Congreso:
-
-I.- Las diputadas y diputados.
-
-II.- Quien sea titular de la Auditoría Superior del Estado.
-
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
-
-III.- Quienes sean titulares de las Secretarías de Administración y de Asuntos Legislativos y Jurídicos.
-
-IV.- Quienes tengan a su cargo la Dirección, Coordinación, Jefatura de Departamento o su equivalente, del Congreso y de la Auditoría Superior.
-
-V.- Quienes recauden, vigilen o administren fondos o bienes públicos.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTÍCULO 236.
 
-La declaración de situación patrimonial deberá ser presentada por servidores públicos obligados a ello, en los siguientes plazos:
-
-I.- La inicial, dentro de los sesenta días naturales a la toma de posesión.
-
-II.- La anual, durante el mes de septiembre de cada año.
-
-III.- La final, dentro de los sesenta días naturales siguientes a la conclusión de la función o encargo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTÍCULO 237.
 
-En caso de no presentarse la declaración inicial o anual en los plazos fijados, la Comisión de Fiscalización lo comunicará a la Presidencia de la Mesa Directiva, quien amonestará por escrito y requerirá al omiso para que la presente dentro de un plazo de treinta días naturales, apercibiéndosele de que, de no hacerlo, se le impondrá una multa de hasta doscientas veces el valor diario de la Unidad de Medida y Actualización.
-
-La falta de requerimiento no exime el cumplimiento de la obligación.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTÍCULO 238.
 
-En caso de persistir la omisión, se le hará efectiva la multa y se le conminará para que dé cumplimiento a lo requerido, en un plazo de treinta días naturales, apercibiéndosele que, de no hacerlo, causará baja o se llamará a su suplente, según sea el caso.
-
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTÍCULO 239.
 
-Si no se presenta la declaración final dentro del plazo establecido, se impondrá al omiso una sanción pecuniaria, hasta por doscientas veces el valor diario de la Unidad de Medida y Actualización vigente y se dará vista al Ministerio Público, para que practique las investigaciones necesarias, en cuanto a la situación patrimonial del omiso, a fin de que se proceda conforme a derecho.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTÍCULO 240.
 
-La Comisión de Fiscalización diseñará y proporcionará gratuitamente los formatos e instructivos, conforme a los cuales las y los servidores públicos obligados, así como de los Ayuntamientos, estos últimos en los términos del Código Municipal, deberán presentar su declaración de situación patrimonial ante el Congreso.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTÍCULO 241.
 
-Los formatos e instructivos deberán estar disponibles en Internet y se podrán recibir las declaraciones por esta vía, cuidando que la confiabilidad y seguridad de este medio sean óptimas.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 242.
 
@@ -2966,3 +3038,31 @@ Con la entrada en vigor de la Ley de Fiscalización Superior del Estado de Chihu
 Los nombramientos y facultades correspondientes a estos, así como todas las disposiciones, normas, lineamientos, políticas, criterios y demás normatividad emitida por cualquier órgano u (sic) unidad administrativa de la Auditoría Superior continuarán en vigor, en lo que no se oponga a la presente Ley, hasta en tanto la Auditoría Superior emita su Reglamento Interior, o sus órganos competentes determinen su reforma o abrogación.
 
 Los poderes, mandatos y, en general, las representaciones otorgadas y las facultades concedidas por la Auditoría Superior con anterioridad a la entrada en vigor de la presente Ley, subsistirán, en sus términos, en tanto no sean modificados o revocados expresamente.
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVI/RFLEY/0667/2020 III P.E., POR MEDIO DEL CUAL SE REFORMA Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0668/2020 III P.E., POR MEDIO DEL CUAL SE ADICIONA AL ARTÍCULO 128, FRACCIÓN III, UN INCISO D), DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de (sic) publicación en el Periódico Oficial del Estado de Chihuahua.
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO LXVI/RFLEY/0670/2020 III P.E., POR MEDIO DEL CUAL SE REFORMA DEL TÍTULO DECIMOCUARTO, LA DENOMINACIÓN DE SU CAPÍTULO I, Y EL ARTÍCULO 234; Y SE DEROGAN LOS ARTÍCULOS DEL 235 AL 241, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión de Fiscalización continuará con los trabajos de registro, control y resguardo de las declaraciones de situación patrimonial de las y los servidores públicos del Congreso, hasta en tanto se constituya y entre en funciones el Órgano Interno de Control del Poder Legislativo.
