@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-universidad-autonoma-de-estado-chiapas-4681"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-08-16"
-last_updated: "2014-10-31"
+last_updated: "2020-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE ESTADO CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE CHIAPAS, PUBLICADA EN EL P.O. DE 12 DE FEBRERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 16 de agosto de 1989.
 
@@ -209,7 +211,9 @@ I.- DESIGNAR AL RECTOR DE LA UNIVERSIDAD, EN UN PROCESO DE SELECCION EN QUE SE O
 
 II.- DESIGNAR A LOS MIEMBROS DEL COMITE PERMANENTE DE FINANZAS DE LA UNIVERSIDAD.
 
-III.- DESIGNAR A LOS DIRECTORES DE LAS ESCUELAS O INSTITUTOS DE LA UNIVERSIDAD, DE ACUERDO CON LA TERNA QUE LE ENVIE EL RECTOR, Y REMOVERLOS POR CAUSA JUSTIFICADA, PREVIA OPINION DEL MISMO.
+III.- DESIGNAR A LOS DIRECTORES DE LAS ESCUELAS O INSTITUTOS
+
+DE LA UNIVERSIDAD, DE ACUERDO CON LA TERNA QUE LE ENVIE EL RECTOR, Y REMOVERLOS POR CAUSA JUSTIFICADA, PREVIA OPINION DEL MISMO.
 
 IV.- CONOCER Y RESOLVER EN DEFINITIVA LOS CONFLICTOS QUE SE PRESENTEN ENTRE LAS AUTORIDADES DE LA UNIVERSIDAD.
 
@@ -760,3 +764,17 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en este Decreto.
 
 Artículo Tercero.- Dentro del término de 90 días a partir de la publicación del presente Decreto, el Consejo Universitario se avocará al estudio y adecuación del Estatuto General y demás disposiciones universitarias para hacerlas acordes con la presente reforma.
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 165 LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE CHIAPAS”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se abroga la Ley Orgánica de la Universidad Autónoma de Chiapas, publicada mediante Decreto número 08º, en el Periódico Oficial número 035, Tomo XCIC, de fecha 16 de agosto de 1989, y las demás disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero. Las autoridades de la Universidad contarán con un plazo de doce meses, contados a partir de la fecha de publicación de la presente Ley, para emitir la normatividad secundaria de la Universidad Autónoma de Chiapas.
+
+Artículo Cuarto. Los miembros de la comunidad universitaria que no cuenten con los requisitos establecidos en esta Ley y demás disposiciones reglamentarias de la Universidad Autónoma de Chiapas, tendrán un plazo de 60 días, posteriores a la entrada en vigor del presente Decreto, para complementar las formalidades que le sean exigidas por medio de la Oficina del Abogado General.
+
+Artículo Quinto. A partir de la siguiente designación que realice la Junta de Gobierno, el periodo establecido en el artículo 16 de esta Ley para ocupar el cargo de titular de la Rectoría terminará el día 15 de diciembre del año que corresponda.
