@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-etica-y-conducta-de-los-servidores-publicos-de-la-120
 country: "mx"
 rank: "codigo"
 publication_date: "2016-12-17"
-last_updated: "2016-12-17"
+last_updated: "2020-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE ETICA Y CONDUCTA DE LOS SERVIDORES PUBLICOS DE LA SECRETARIA DE SEGURIDAD PUBLICA DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA, PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA Y CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020 (ABROGADO).
 
 Código publicado en el Suplemento B del Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Tabasco, el sábado 17 de diciembre de 2016.
 
@@ -520,3 +522,13 @@ EL SECRETARIO DE SEGURIDAD PÚBLICA
 DEL ESTADO DE TABASCO
 
 INSP.JEFE MIGUEL ÁNGEL MATAMOROS CAMACHO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA”.]
+
+PRIMERO.- El presente Acuerdo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El presente Acuerdo abroga el Código de Ética y Conducta de la Secretaría de Seguridad Pública, emitido el 17 de diciembre de 2016, en el Suplemento 7751 B, del Periódico Oficial, así como cualquier otro Código de Ética y Conducta que haya sido emitido con anterioridad en este (sic) Secretaría.
