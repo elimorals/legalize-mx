@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2020-01-31"
+last_updated: "2020-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE FEBRERO DE 2020.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -13250,6 +13250,10 @@ XII. Implementar políticas públicas que mejoren las condiciones de protección
 
 XIII. Coordinarse con la Secretaría de Salud y las Demarcaciones Territoriales para el adecuado funcionamiento de los Centros de Atención Canina y Felina y de las Clínicas Veterinarias en las Demarcaciones Territoriales y análogos;
 
+> <small>(ADICIONADA, G.O. 12 DE FEBRERO DE 2020)</small>
+
+XIII. Bis. Coordinar, supervisar y regular la administración y operación del Hospital Veterinario de la Ciudad de México.
+
 XIV. Establecer criterios homogéneos y estandarizados sobre calidad y servicios en los Centros de Atención Canina y Felina, y en las Clínicas Veterinarias en las Demarcaciones Territoriales;
 
 XV. Coordinar con la Secretaría y las autoridades encargadas de educación en todos los niveles, el desarrollo de programas de educación y capacitación, difusión de información e impartición de pláticas, conferencias, foros y cualquier otro mecanismo de enseñanza referente a la protección y cuidado, trato digno y respetuoso, así como de tenencia responsable y protección a los animales, con la participación, en su caso, de las asociaciones protectoras y organizaciones no gubernamentales legalmente constituidas a través de múltiples plataformas y medios;
@@ -13911,3 +13915,11 @@ TERCERO.- Las referencias hechas a la Dirección General del Sistema de Transpor
 De conformidad con lo anterior, los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Dirección General del Sistema de Transporte Público Cablebús de la Ciudad de México, del Órgano Regulador de Transporte, y se relacionen con las atribuciones que se confieren a la Dirección Ejecutiva de Construcción del Sistema Cablebús, adscrita a la Secretaría de Obras y Servicios por virtud de este ordenamiento, serán atendidos y resueltos por esta última Dirección Ejecutiva en el ámbito de su respectiva competencia.
 
 Con el objeto de realizar la transferencia de los recursos humanos, financieros y materiales de la Dirección General del Sistema de Transporte Público Cablebús de la Ciudad de México, del Órgano Regulador de Trasporte (sic), y se continúe con el cumplimiento de las obligaciones contraídas por éste, al momento de su transferencia a la Dirección Ejecutiva de Construcción del Sistema Cablebús, adscrita a la Secretaría de Obras y Servicios; continuará operando con los recursos disponibles, en tanto que la Secretaría de Administración y Finanzas disponga lo necesario para realizar dichas transferencias a la Secretaría de Obras y Servicios.
+
+G.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XIII BIS AL ARTÍCULO 315 DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación.
