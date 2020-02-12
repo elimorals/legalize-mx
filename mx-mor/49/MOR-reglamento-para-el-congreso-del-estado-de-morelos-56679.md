@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-congreso-del-estado-de-morelos-56679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2019-09-26"
+last_updated: "2020-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MOR"
 ---
 # REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS
 
+(NOTA: EL 27 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 124/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS CINCUENTA Y SIETE, POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 22 Y EL ARTÍCULO 23 DEL REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DOCE DE FEBRERO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 28 DE ABRIL DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
 
-Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007
+Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007.
 
 Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La Tierra volverá a quienes la trabajan con sus manos.
 
@@ -35,7 +37,9 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O .
+
+[...]
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir el siguiente:
 
@@ -283,19 +287,23 @@ IV. Desempeñe una comisión o empleo de la federación o de los estados por el 
 
 ### CAPÍTULO TERCERO. DE LA ÉTICA PARLAMENTARIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2017)</small>
+(NOTA: EL 27 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 124/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS CINCUENTA Y SIETE, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 28 DE ABRIL DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “El Congreso del Estado de Morelos contara con un Código de Ética Parlamentaria, con el propósito de promover, capacitar y difundir los principios de conducta y deberes éticos. Velando en todo momento el cumplimiento de los principios de legalidad, integridad e imparcialidad, entre los Diputados y los trabajadores del Poder Legislativo."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2020)</small>
 
 ###### ARTÍCULO 22.
 
-El Congreso del Estado de Morelos contara con un Código de Ética Parlamentaria, con el propósito de promover, capacitar y difundir los principios de conducta y deberes éticos. Velando en todo momento el cumplimiento de los principios de legalidad, integridad e imparcialidad, entre los Diputados y los trabajadores del Poder Legislativo.
+EL CONGRESO DEL ESTADO DE MORELOS CONTARA CON UN CÓDIGO DE ÉTICA PARLAMENTARIA, CON EL PROPÓSITO DE PROMOVER, CAPACITAR Y DIFUNDIR LOS PRINCIPIOS DE CONDUCTA Y DEBERES ÉTICOS. VELANDO EN TODO MOMENTO EL CUMPLIMIENTO DE LOS PRINCIPIOS DE LEGALIDAD, INTEGRIDAD, CIVISMO E IMPARCIALIDAD, ENTRE LOS DIPUTADOS Y LOS TRABAJADORES DEL PODER LEGISLATIVO.
 
 El legislador que se aparte de la ética parlamentaria en el ejercicio de su actividad, incurrirá en responsabilidad, se hará acreedor a las medidas disciplinarias establecidas en la Ley y en el presente reglamento.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2017)</small>
+(NOTA: EL 27 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 124/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS CINCUENTA Y SIETE, POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 28 DE ABRIL DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los Diputados se conducirán en todo momento, con apego a principios de, legalidad, integridad, imparcialidad, eficacia y ética. En todo momento deberá conducirse con respeto a la investidura, privilegiando el diálogo, la tolerancia y el respeto mutuo, como valores que sustenten su desempeño en la representación popular e impulsen el desarrollo de una práctica legislativa abierta y democrática, estarán sujetos a las medidas disciplinarias contenidas en el reglamento y el Código de Ética Parlamentaria.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2020)</small>
 
 ###### ARTÍCULO 23.
 
-Los Diputados se conducirán en todo momento, con apego a principios de, legalidad, integridad, imparcialidad, eficacia y ética. En todo momento deberá conducirse con respeto a la investidura, privilegiando el diálogo, la tolerancia y el respeto mutuo, como valores que sustenten su desempeño en la representación popular e impulsen el desarrollo de una práctica legislativa abierta y democrática, estarán sujetos a las medidas disciplinarias contenidas en el reglamento y el Código de Ética Parlamentaria.
+Los Diputados se conducirán en todo momento, con apego a principios de legalidad, integridad, imparcialidad, eficacia, civismo y ética. En todo momento deberá (sic) conducirse con respeto a la investidura, privilegiando el dialogo, la tolerancia y el respeto mutuo, como valores que sustenten su desempeño en la representación popular e impulsen el desarrollo de una práctica legislativa abierta y democrática, estarán sujetos a las medidas disciplinarias contenidas en el Reglamento y el Código de Ética Parlamentaria.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2017)</small>
 
@@ -1309,7 +1317,23 @@ Se entiende por mayoría simple, la que se obtenga de sumar más de la mitad de 
 
 Se entiende por mayoría absoluta, la que se obtenga de sumar el 50% más uno de los diputados integrantes de la Legislatura.
 
-Se entiende por mayoría calificada cuando se trate de las dos terceras partes de los integrantes de la Legislatura.
+(NOTA: EL 22 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2020 Y SU ACUMULADA 125/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS CUARENTA Y SEIS, QUE REFORMA EL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 23 DE ABRIL DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Se entiende por mayoría calificada cuando se trate de las dos terceras partes de los integrantes de la Legislatura."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2020)</small>
+
+SE ENTIENDE POR MAYORÍA CALIFICADA CUANDO SE TRATE DE LAS DOS TERCERAS PARTES DE LOS DIPUTADOS INTEGRANTES DEL TOTAL DE LA LEGISLATURA, EN CUYA ARITMÉTICA DEBERÁ SITUARSE PARA LAS REFORMAS SEÑALADAS EN VOTACIONES PARTICULARES, ES DECIR, EN LAS CUÁLES DEBAN CONCURRIR POR IMPERIO DE LEY DICHO PORCENTAJE DE DIPUTADOS, QUE SE TOMARÁ EN CONSIDERACIÓN LOS SIGUIENTES CRITERIOS:
+
+(NOTA: EL 22 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2020 Y SU ACUMULADA 125/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS CUARENTA Y SEIS, QUE ADICIONA EL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE ABRIL DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2020)</small>
+
+CUANDO EL NÚMERO DE DIPUTADOS QUE DEN LAS DOS TERCERAS PARTES DE LOS INTEGRANTES DE LA LEGISLATURA CONTENGA UNA FRACCIÓN, Y EL DECIMAL SEA MENOR A .49 SE DEBE ATENDER AL ENTERO INMEDIATO INFERIOR A DICHA FRACCIÓN.
+
+(NOTA : EL 22 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2020 Y SU ACUMULADA 125/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS CUARENTA Y SEIS, QUE ADICIONA EL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE ABRIL DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2020)</small>
+
+CUANDO EL NÚMERO DE DIPUTADOS QUE DEN LAS DOS TERCERAS PARTES DE LOS INTEGRANTES DE LA LEGISLATURA CONTENGA UNA FRACCIÓN, Y EL DECIMAL SEA MAYOR A .49 SE DEBE ATENDER AL ENTERO INMEDIATO SUPERIOR A DICHA FRACCIÓN.
 
 ###### ARTÍCULO 136.
 
@@ -2130,3 +2154,29 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su p
 SEGUNDA. El presente Decreto, entrara en vigor a partir de su aprobación por el Pleno de esta Asamblea Legislativa.
 
 TERCERA. Se Instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial “Tierra y Libertad”, a brindar las facilidades necesarias a fin de remitir en “COPIA CERTIFICADA”, los decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
+
+(NOTA: EL 22 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2020 Y SU ACUMULADA 125/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS CUARENTA Y SEIS, QUE REFORMA EL ARTÍCULO 135, ADICIONANDO UN PÁRRAFO, DEL REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DOCE DE FEBRERO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 23 DE ABRIL DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS CUARENTA Y SEIS QUE REFORMA EL ARTÍCULO 135, ADICIONANDO UN PÁRRAFO DEL REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+
+Artículo Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos para su publicación en el periódico oficial "Tierra y Libertad".
+
+Artículo Segundo.- El presente decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso.
+
+Artículo Tercero.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
+
+Artículo Cuarto.- Se Instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial "Tierra y Libertad", a brindar las facilidades necesarias a fin de remitir en "COPIA CERTIFICADA", los decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
+
+(NOTA: EL 27 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 124/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS CINCUENTA Y SIETE, POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 22 Y EL ARTÍCULO 23 DEL REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DOCE DE FEBRERO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 28 DE ABRIL DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS CINCUENTA Y SIETE POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 22 Y EL ARTÍCULO 23 DEL REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado de Morelos.
+
+SEGUNDA. El presente Decreto, entrara en vigor a partir de su aprobación por el Pleno de esta Asamblea Legislativa.
+
+TERCERA. Se instruye a los Titulares de la Secretaría de Servicios Legislativos y Secretaría de Administración y Finanzas para que realicen un calendario de honores a la bandera, tomando en cuenta las fechas que se establecen en la Ley sobre el Escudo, la Bandera y el Himno Nacionales, así como otras fechas o ceremonias con las que se tenga que cumplir y celebrar los honores respectivos, con el fin de que todas y todos las Diputadas y Diputados así como el personal del Congreso, estén previamente convocados a participar en las ceremonia (sic) de honores a la bandera.
