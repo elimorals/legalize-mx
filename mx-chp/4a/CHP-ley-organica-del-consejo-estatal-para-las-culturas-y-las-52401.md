@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-consejo-estatal-para-las-culturas-y-las-52401"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-10-12"
-last_updated: "2018-09-30"
+last_updated: "2020-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DEL CONSEJO ESTATAL PARA LAS CULTURAS Y LAS ARTES DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el jueves 12 de octubre de 2006.
 
@@ -69,15 +69,11 @@ IV. Sistema Estatal de Animación Cultural y Artística: Tiene por objeto el des
 
 ### Capítulo II. Del Objeto del Consejo
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
-
-###### Artículo 3°.
-
-El Consejo tiene por objeto la preservación, promoción, fomento, investigación, difusión y desarrollo del patrimonio cultural, material e inmaterial del Estado de Chiapas; así como la coordinación, administración y ejecución de la operatividad del Museo del Café, del Museo del Niño y del Teatro “Francisco I. Madero” respectivamente; además de la generación de espacios de diálogo con otras culturas de México y el mundo, logrando que la sociedad chiapaneca rescate y preserve sus valores artísticos y culturales, fortalezca su identidad, sus expresiones artísticas y tradiciones populares, en términos de la Ley de las Culturas y las Artes del Estado de Chiapas.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 3º.
 
-El Consejo tiene por objeto la preservación, promoción, fomento, investigación, difusión y desarrollo del patrimonio cultural, material e inmaterial del Estado de Chiapas; así como la generación de espacios de dialogo con otras culturas de México y el mundo, logrando que la sociedad chiapaneca rescate y preserve sus valores artísticos y culturales, fortalezca su identidad, sus expresiones artísticas y tradiciones populares, en términos de la Ley de las Culturas y las Artes del Estado de Chiapas.
+El Consejo tiene por objeto la preservación, promoción, fomento, investigación, difusión y desarrollo del patrimonio cultural, material e inmaterial del Estado de Chiapas; así como la coordinación, administración y ejecución de la operatividad del Museo del Café, del Museo de la Niñez y del Teatro “Francisco I. Madero” respectivamente; además de la generación de espacios de diálogo con otras culturas de México y el mundo, logrando que la sociedad chiapaneca rescate y preserve sus valores artísticos y culturales, fortalezca su identidad, sus expresiones artísticas y tradiciones populares, en términos de la Ley de las Culturas y las Artes del Estado de Chiapas.
 
 ###### Artículo 4º.
 
@@ -141,9 +137,9 @@ XXIV. Proponer un Consejo Editorial que coordine y defina los criterios de la la
 
 XXV. Proponer, diseñar y ejecutar programas que promuevan, desarrollen, fomenten y difundan la cultura en general y las expresiones artísticas a través de la radio, la televisión y cualquier otro medio de comunicación;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2020)</small>
 
-XXVI. Coordinar, administrar y ejecutar la operatividad del Museo del Café, del Museo del Niño y del Teatro “Francisco I. Madero”.
+XXVI. Coordinar, administrar y ejecutar la operatividad del Museo del Café, del Museo de la Niñez y del Teatro "Francisco I. Madero".
 
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 2014)</small>
 
@@ -454,3 +450,11 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan al present
 Artículo Tercero.- La Secretaría de Hacienda, deberá prever en el Presupuesto de Egresos, la suficiencia presupuestaria necesaria que otorgará al Consejo Estatal para las Culturas y las Artes de Chiapas; así como ser la encargada de dictaminar la estructura orgánica, y creación del órgano administrativo Teatro “Francisco I. Madero”, y plazas de manera funcional mediante el dictamen correspondiente.
 
 Artículo Cuarto.- La persona titular del Consejo Estatal para las Culturas y las Artes de Chiapas, deberá someter a consideración del Consejo Directivo, en un término no mayor de sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, el proyecto de reforma al marco jurídico de su actuación, para su aprobación, y debiendo ser enviado al titular del Ejecutivo del Estado para efectos de la publicación correspondiente.
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 164 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONSEJO ESTATAL PARA LAS CULTURAS Y LAS ARTES DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
