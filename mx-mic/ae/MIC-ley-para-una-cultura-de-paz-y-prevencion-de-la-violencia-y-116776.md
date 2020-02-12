@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-una-cultura-de-paz-y-prevencion-de-la-violencia-y-1167
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-26"
-last_updated: "2019-08-28"
+last_updated: "2020-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY PARA UNA CULTURA DE PAZ Y PREVENCIÓN DE LA VIOLENCIA Y LA DELINCUENCIA EN MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
 
 Ley publicada en la Novena Sección al número 63 del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 26 de septiembre de 2016.
 
@@ -129,9 +129,17 @@ I. Social;
 
 II. Comunitario;
 
-III. Situacional; y,
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2020)</small>
 
-IV. Psicosocial.
+III. Situacional;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2020)</small>
+
+IV Psicosocial; y,
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2020)</small>
+
+V Familiar.
 
 ###### Artículo 9.
 
@@ -176,6 +184,24 @@ En el ámbito psicosocial se deberá incidir en las motivaciones individuales ha
 I. Impulsar la aplicación de programas formativos en habilidades para la vida, dirigidos principalmente a la población en situación de riesgo y susceptibles de vulnerabilidad; y,
 
 II. Incluir la prevención de la violencia, la delincuencia y de las adicciones, en las políticas públicas en materia de educación.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2020)</small>
+
+###### Artículo 12 Bis.
+
+La prevención social de la violencia y la delincuencia en el ámbito familiar se llevará a cabo de conformidad con las siguientes actividades:
+
+I. Implementar programas integrales que fomenten el fortalecimiento de valores humanos en las familias y la sociedad como estrategia de la promoción de una cultura de paz y prevención de la violencia y la delincuencia;
+
+II. Promover actividades y espacios de diálogo y aprendizaje en las familias, la realización de talleres y foros que promuevan una sociedad de tolerancia, respeto y cooperación;
+
+III. Facilitar servicios adecuados a las familias que necesiten asistencia para resolver situaciones de inestabilidad o conflicto;
+
+IV. Reforzar las habilidades emocionales e interpersonales de los integrantes de la familia, así como de los servidores públicos de nivel operativo en la atención a víctimas de la violencia;
+
+V. Generar estrategias de educación y sensibilización para las familias y alumnos de las escuelas de educación básica ubicadas en polígonos con mayores índices de violencia, quienes recibirán capacitación y materiales para reforzar sus conocimientos en habilidades socioemocionales para la vida; y,
+
+VI. Promover estrategias de educación y sensibilización hacia las familias y poblaciones de mayor vulnerabilidad, para la prevención y concientización del uso responsable del internet y las nuevas tecnologías de la información y la comunicación.
 
 ###### Artículo 13.
 
@@ -426,3 +452,13 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- "ARTÍCULO VIGÉSIMO OCTAVO.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 9 DE LA LEY PARA UNA CULTURA DE PAZ Y PREVENCIÓN DE LA VIOLENCIA Y LA DELINCUENCIA EN MICHOACÁN".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 300 POR EL QUE “SE REFORMAN LAS FRACCIONES III Y IV Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 8º; Y SE ADICIONA EL ARTÍCULO 12 BIS, TODOS DE LA LEY PARA UNA CULTURA DE PAZ Y PREVENCIÓN DE LA VIOLENCIA Y LA DELINCUENCIA EN MICHOACÁN DE OCAMPO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Tercero. El Poder Ejecutivo expedirá las modificaciones necesarias al Reglamento de la Ley en un término de hasta noventa días a partir de la entrada en vigor del presente Decreto.
