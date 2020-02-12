@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-transito-y-vialidad-del-estado-de-michoacan-de-ocampo-26
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-24"
-last_updated: "2018-10-17"
+last_updated: "2020-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
 
 Ley Publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el martes 24 de septiembre de 2002.
 
@@ -535,11 +535,21 @@ El registro de los vehículos se acreditará mediante la tarjeta de circulación
 
 Los vehículos registrados en el extranjero podrán circular libremente en el Estado, si lo hacen de manera temporal y el vehículo cuente con placas y tarjeta de circulación o su equivalente de su país de origen.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 43.
 
-No se podrá suspender la circulación a ningún vehículo, salvo por mandato judicial, cuando en el vehículo no se porte en ese momento con algún documento oficial, como placa, tarjeta o permiso de circulación, que corresponda al vehículo, en los casos de flagrancia delictiva o que se ponga en riesgo a la sociedad por conducir bajo el influjo indebido de drogas o bebidas alcohólicas.
+Solamente se podrá suspender la circulación a cualquier vehículo garantizando con ello el libre tránsito de las personas, por:
+
+I. Mandato judicial;
+
+II. Cuando en el vehículo no se porte en ese momento con algún documento oficial, como placa, tarjeta o permiso de circulación, que corresponda al vehículo, a menos que el conductor acredite mediante acuse de recibido la presentación de la denuncia correspondiente ante la Fiscalía General del Estado, ya sea por robo o extravío, la cual sólo tendrá como validez treinta días contados a partir de la fecha de su presentación, y en caso de que alguno de los documentos anteriores hubiera sido retenido por algún hecho de tránsito, el conductor deberá portar la boleta de infracción o bien documento oficial que lo justifique;
+
+III. En los casos de flagrancia delictiva; o,
+
+IV. Que se ponga en riesgo a la sociedad por conducir bajo el influjo indebido de drogas o bebidas alcohólicas.
+
+En todos y cada uno de los procedimientos, la autoridad deberá conducirse con respeto irrestricto a los derechos humanos.
 
 ###### Artículo 44.
 
@@ -737,7 +747,9 @@ I. Amonestación;
 
 II. Multa;
 
-III. Retención, o en su caso, aseguramiento del vehículo automotor, en los casos de flagrancia delictiva o que se ponga en riesgo a la sociedad por conducir bajo el influjo de drogas o bebidas alcohólicas, cuando en el vehículo no se porte en ese momento con algún documento oficial, como placa, tarjeta o permiso de circulación, que corresponda al vehículo; y,
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2020)</small>
+
+III. Retención, o en su caso, aseguramiento del vehículo automotor, en los casos de flagrancia delictiva o que se ponga en riesgo a la sociedad por conducir bajo el influjo de drogas o bebidas alcohólicas, cuando en el vehículo no se porte en ese momento con algún documento oficial, como placa, tarjeta o permiso de circulación, que corresponda al vehículo; salvo lo previsto en el artículo 43 de esta Ley; y,
 
 IV. Suspensión o cancelación, sea temporal o definitiva, de la licencia o permiso provisional.
 
@@ -996,3 +1008,15 @@ TERCERO. La colocación de las constancias de inscripción al Registro Público 
 CUARTO. La Secretaría de Finanzas y Administración del Gobierno del Estado de Michoacán, deberá proporcionar información de su base de datos conforme a las reglas establecidas en la Ley del Registro Público Vehicular, a la Entidad pública encargada del registro, en un plazo no mayor a ciento veinte días naturales a partir de la entrada en vigor del presente Decreto.
 
 QUINTO. Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 301.- SE REFORMAN LOS ARTÍCULOS 43 Y 58 FRACCIÓN III DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo para su conocimiento, promulgación y publicación correspondiente.
