@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2019-09-25"
+last_updated: "2020-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -5139,6 +5139,12 @@ Del monto total del valor del decomiso, se entregará al denunciante el quince p
 
 El remanente será destinado a la procuración y administración de justicia.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2020)</small>
+
+Cuando derivado de la comisión de las conductas contempladas en las fracciones VIII y IX del presente artículo, se perdieran vidas humanas o se afectare la integridad física de las personas, aun cuando esta ocurra como consecuencia de las acciones encaminadas a controlar los incendios provocados, se le impondrá al responsable una pena de 10 a 20 años de prisión y la multa prevista, con independencia de otros delitos que pudiesen surgir.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 12 DE FEBRERO DE 2020)</small>
+
 Las sanciones dispuestas en el presente artículo se aplicarán, independientemente de las sanciones que dispongan otros artículos de este título.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
@@ -6024,3 +6030,11 @@ P.O. 25 DE SEPTIEMBRE DE 2019.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 172 POR EL QUE SE REFORMA EL PÁRRAFO SEXTO Y SE ADICIONA EL PÁRRAFO SÉPTIMO DEL ARTÍCULO 457 DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
