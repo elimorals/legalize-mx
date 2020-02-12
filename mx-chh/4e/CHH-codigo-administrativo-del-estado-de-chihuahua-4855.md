@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2020-02-05"
+last_updated: "2020-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -9359,505 +9359,241 @@ DECIMA CUARTA PARTE
 
 # LIBRO UNICO. REGIMEN PATRIMONIAL DEL ESTADO
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2020)</small>
 
 ## TITULO PRIMERO. DEL PATRIMONIO
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2020)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
-
 ###### ARTICULO 1648.
 
-El patrimonio del Estado se compone:
-
-I.- De bienes de dominio público; y
-
-II.- De bienes de dominio privado.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1649.
 
-Son bienes de dominio público:
-
-I.- Los de uso común;
-
-II.- Las aguas que conforme al artículo 27 Constitucional corresponden al Estado y estén destinadas a un servicio público y los cauces y vasos de las mismas;
-
-III.- Los inmuebles destinados por el Estado a un servicio público y los equiparados a éstos, conforme a la presente Ley.
-
-IV.- Cualesquiera otros inmuebles propiedad del Estado declarados por ley inalienables e imprescriptibles; y los demás bienes declarados por el Congreso del Estado monumentos históricos o arqueológicos;
-
-V.- Las servidumbres cuando el predio dominante sea alguno de los anteriores; y
-
-VI.- Los muebles propiedad del Estado que por su naturaleza normalmente no sean sustituibles, como los expedientes de las oficinas y archivos públicos, los libros raros, las piezas históricas o arqueológicas, las obras de arte de los museos, etc.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1650.
 
-Son bienes de dominio privado del Estado:
-
-I.- Las tierras y aguas de propiedad estatal susceptibles de enajenarse a los particulares;
-
-II.- Los bienes vacantes situados en la jurisdicción del Estado;
-
-III.- Los que hayan formado parte de una corporación pública creada por ley local que se extinga; y
-
-IV.- Los demás inmuebles y muebles que por cualquier título jurídico adquiera el Estado.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1651.
 
-Los bienes a que se refiere el artículo anterior pasarán a formar parte del dominio público del Estado cuando sean destinados al uso común, a un servicio público o a alguna de las actividades que se equiparan a los servicios públicos.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2020)</small>
 
 ### CAPITULO II. DEL DOMINIO PÚBLICO
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
-
 ###### ARTICULO 1652.
 
-Los bienes del dominio público son inalienables e imprescriptibles y no están sujetos mientras no varie su situación jurídica, a acción reivindicatoria o de posesión definitiva o interna. Los particulares y las entidades públicas sólo podrán adquirir sobre el uso o aprovechamiento de estos bienes, los derechos regulados en esta ley.
-
-Se regirán, sin embargo, por el derecho común, los aprovechamientos accidentales o accesorios compatibles con la naturaleza de esos bienes, como la venta de frutos, materiales o desperdicios o la autorización de los usos a que alude el artículo 1524.
-
-Ninguna servidumbre pasiva puede imponerse en los términos del derecho común sobre los bienes de dominio público. Los derechos de tránsito, de vistas, de luces, de derrames y otros semejantes sobre dichos bienes, se rigen exclusivamente por las leyes y reglamentos administrativos.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1653.
 
-Corresponde al Ejecutivo del Estado:
-
-I.- Declarar, cuando ello sea preciso, que un bien determinado forma parte del dominio público del Estado, por estar comprendido en algunas disposiciones de este Título.
-
-II.- Incorporar al dominio público, mediante decreto, un bien que forme parte del dominio privado estatal, siempre que su posesión corresponda al Estado;
-
-III.- Desincorporar del dominio público, en los casos en que la ley lo permita, y asimismo mediante decreto, un bien que haya dejado de utilizarse en el fin respectivo;
-
-IV.- Dictar las reglas a que deberán sujetarse el uso, vigilancia y aprovechamiento de los bienes del dominio público y tomar las medidas administrativas encaminadas a obtener, mantener o recuperar la posesión de ellos, así como a remover cualquier obstáculo creado natural o artificialmente para su uso o destino;
-
-V.- Anular administrativamente los acuerdos, concesiones, permisos o autorizaciones que con violación de un precepto legal o por error, dolo o violencia se hayan dictado y que perjudiquen o restrinjan los derechos del Estado sobre los bienes del dominio público o los intereses legítimos de tercero; y
-
-VI.- En general, dictar las disposiciones ejecutivas que demande el cumplimiento de las disposiciones a que estén sometidos los bienes de dominio público.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1654.
 
-Cuando a juicio del Ejecutivo existan motivos que lo ameriten, podrá abstenerse de dictar las resoluciones concretas o de seguir los procedimientos a que se refiere el artículo anterior, y ordenar al Ministerio Público que someta el asunto al conocimiento de los Tribunales. El procedimiento se tramitará sumariamente y dentro de él podrá solicitarse la ocupación administrativa de los bienes.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1655.
 
-Las resoluciones a que se refiere el artículo 1508 podrán ser reclamadas ya sea ante la autoridad administrativa o ante la judicial. El procedimiento en la vía administrativa se sujetará a las siguientes reglas:
-
-I.- Quienquiera que sufra un perjuicio individual directo y actual, podrá oponerse ante la misma autoridad que haya dictado la providencia;
-
-II.- La instancia deberá proponerse dentro de los quince días siguientes a aquel de la notificación al opositor o del inicio de la ejecución cuando no haya habido notificación;
-
-III.- Salvo casos urgentes o de marcado interés público, a juicio de la autoridad, ésta, interpuesto el recurso, deberá suspender la ejecución de la resolución impugnada, cuidando, sin embargo, de adoptar las providencias adecuadas para la salvaguarda de los derechos estatales;
-
-IV.- Propuesto el recurso, se comunicará al tercero interesado si lo hubiere, y se concederá un término prudente, nunca inferior a veinte días, para pruebas. La admisión de éstas se hará, en lo posible, conforme al Código de Procedimientos Civiles del Estado, pero no procederá la confesional y en la pericial se designará solamente al perito que el opositor proponga, salvo cuando hubiere tercero, caso en el que éste tendrá también derecho a designar uno;
-
-V.- La autoridad podrá mandar practicar, de oficio, los estudios y diligencias que estime oportuno durante la tramitación del recurso;
-
-VI.- Desahogadas las pruebas propuestas o concluido en su caso, el plazo a que se refiere la fracción IV, quedará el expediente durante diez días a la vista del opositor y del tercero para que aleguen;
-
-VII.- Dentro de los diez días siguientes se dictará la resolución que corresponda. La autoridad no tendrá que sujetarse a las reglas especiales de valuación de la prueba, pero estimará cuidadosamente las ofrecidas y se ocupará de todas las argumentaciones presentadas; y
-
-VIII.- La resolución se comunicará a los interesados personalmente o por correo certificado con acuse de recibo. Esta resolución no podrá ya revocarse o anularse administrativamente y tendrá presunción de legalidad en cualquier procedimiento jurídico que contra ella se intente.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1656.
 
-Las concesiones sobre los bienes de dominio público no crean derechos reales. Otorgan simplemente, frente a la Administración y sin perjuicio de terceros, el derecho de realizar las explotaciones o por aprovechamientos que las leyes respectivas regulen, a condición de que su titular cumpla con las obligaciones que se le impongan.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1657.
 
-La nulidad, caducidad o rescisión de las concesiones sobre bienes del dominio público, cuando procedan conforme a la ley, se dictarán por la autoridad administrativa, sin perjuicio de lo dispuesto en el artículo 1509 previa audiencia que se conceda a los interesados para que rindan pruebas y aleguen lo que a sus derechos convenga.
-
-Cuando la nulidad se funde en error, dolo o violencia y no en la violación de la ley o en la falta de los supuestos de hecho para el otorgamiento de la concesión, ésta podrá ser confirmada por la autoridad administrativa tan pronto como cesen tales circunstancias. En ningún caso podrá anularse una concesión por alguna de las circunstancias anteriores, después de pasados cinco años de su otorgamiento.
-
-La nulidad de las concesiones de bienes de dominio público operará retroactivamente, pero el Ejecutivo del Estado queda facultado para limitar esta retroactividad cuando a su juicio el concesionario haya procedido de buena fe.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1658.
 
-Las concesiones sobre bienes de dominio público podrán rescatarse por causa de utilidad pública y mediante indemnización que se computará atendiendo al monto de las inversiones realizadas. Este derecho no podrá ejercitarse sino cuando el Estado haya adquirido en su caso y conforme a la ley, la unidad industrial correspondiente.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1659.
 
-Los bienes de dominio público que lo sean por disposición de la autoridad y no por naturaleza, podrán ser enajenados previo decreto de desincorporación dictado por el Congreso cuando por algún motivo dejen de servir para ese fin.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
-
-En el supuesto del párrafo anterior, la Legislatura sólo autorizará la desincorporación de los bienes que pretenda enajenar el Estado, cumpliendo éste con los siguientes requisitos:
-
-I. Acreditar la propiedad del inmueble que se pretende enajenar;
-
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2015)</small>
-
-II. Presentar la descripción y ubicación exacta del inmueble, con el plano catastral correspondiente y fotografías recientes.
-
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2015)</small>
-
-III. Presentar el valor catastral del inmueble, así como su avalúo comercial, este último elaborado por institución financiera legalmente reconocida y con una antigüedad no mayor a un año, a efecto de fundamentar y motivar su precio, con base a los principios de transparencia, oportunidad, eficiencia, eficacia e inmediatez gubernamental, y
-
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2015)</small>
-
-IV. Justificar el destino que se le va a dar al inmueble y especificar a favor de quién se va a enajenar.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
-
-En caso de que la desincorporación tenga por objeto la donación de un inmueble, los beneficiarios tendrán el deber de no cambiar el destino del mismo y terminar la obra de construcción en un plazo no mayor de dos años, con la consecuencia que de no cumplir con estos requisitos, el bien se revertirá al patrimonio del Estado.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1660.
 
-Son bienes de uso común:
-
-I.- Los caminos del Estado;
-
-II.- Las presas, canales y zanjas construidos por el Gobierno del Estado sobre ríos y arroyos de jurisdicción estatal, para el riego u otros usos de utilidad pública;
-
-III.- Las plazas, paseos y parques públicos cuya construcción o conservación esté a cargo del Gobierno del Estado;
-
-IV.- Los monumentos artísticos e históricos y las construcciones levantadas por el Gobierno del Estado en lugares públicos de su propiedad, para ornato o comodidad de quienes los visiten, excepto que dichas construcciones se hayan donado a los Municipios.
-
-De los bienes de uso común pueden usar todos los habitantes del Estado, con sólo las restricciones establecidas por la ley y los reglamentos administrativos, pero para aprovechamientos especiales se necesita concesión otorgada con los requisitos que fije la ley.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1661.
 
-Cuando puedan enajenarse y se vayan a enajenar terrenos que habiendo constituido vías públicas del Estado, hayan sido retirados de dicho servicio, o los bordes, zanjas, setos o vallados que les hayan servido de límite, los propietarios de los predios colindantes gozarán del derecho del tanto en la parte que les corresponda, al cual (sic) efecto se les dará aviso de la enajenación.
-
-El derecho que este artículo concede deberá ejercitarse precisamente dentro de los ocho días siguientes al aviso respectivo. Cuando éste no se haya dado, los colindantes podrán pedir la rescisión del contrato celebrado sin oírlos, dentro de seis meses contados desde su celebración.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1662.
 
-También corresponde este derecho al último propietario de un bien adquirido por el Estado en virtud de procedimientos de derecho público, cuando éste vaya a ser vendido, excepto cuando se esté en los casos previstos por los artículos 1510 fracción II y 1520 de esta Ley. Este aviso se dará mediante una sola publicación en el Periódico Oficial del Estado.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1663.
 
-Están destinados a un servicio público y por tanto se hallan comprendidos en la fracción III del artículo 1504.
-
-I.- El o los Palacios de los Poderes del Estado;
-
-II.- Los inmuebles destinados al servicio de las dependencias del Poder Ejecutivo;
-
-III.- Los edificios de cualquier género destinados a oficinas públicas del Estado;
-
-IV.- Los predios rústicos directamente utilizados en los servicios públicos del Estado;
-
-V.- Los establecimientos fabriles administrados directamente por el Gobierno del Estado;
-
-VI.- Los inmuebles de propiedad estatal destinados al servicio de los Municipios y los prestados o arrendados para servicio u oficinas federales;
-
-VII.- Los inmuebles que constituyan el patrimonio de los establecimientos públicos creados por leyes locales, con la salvedad que indica el artículo 1520 y
-
-VIII.- Cualesquiera otros adquiridos por procedimientos de derecho público.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1664.
 
-Se equipararán a los anteriores los afectos mediante decreto a actividades de interés social a cargo de asociaciones o instituciones privadas que no persigan propósito de lucro.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1665.
 
-Los bienes a los que se refiere la fracción VII del artículo 1518 excepto los que por disposición constitucional sean inalienables, sólo podrán gravarse con aprobación del Gobernador del Estado y con autorización expresa de la Legislatura Local, cuando sea conveniente para el mejor financiamiento de las obras o servicios a cargo de la institución propietaria. Podrán igualmente emitirse bonos u obligaciones que se regirán por las disposiciones que dicte el Congreso.
-
-Otorgada la autorización a que se refiere el párrafo anterior, los bienes quedarán sometidos de pleno derecho a las reglas del derecho común y los acreedores podrán ejercitar respecto de ellos todas las acciones que les correspondan, sin limitación alguna. El Estado no será parte en los juicios que con este motivo se inicien.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1666.
 
-Cuando una dependencia del Ejecutivo creyere conveniente la adquisición de un inmueble para destinarlo a un servicio público o para uso común, lo comunicará a la Secretaría de Hacienda, la que estimará las posibilidades del Gobierno para adquirirlo y, previo acuerdo del Gobernador, hará las gestiones necesarias y el arreglo de los términos de la adquisición hasta ultimarlos, llegando al otorgamiento, registro y archivos de los documentos respectivos. La firma de las adquisiciones y enajenaciones de inmuebles corresponde al Gobernador, al Secretario General de Gobierno y al Secretario de Hacienda.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1667.
 
-Cuando se trate de adquisiciones por vía de derecho público, tocará a la dependencia del ramo respectivo determinar la utilidad pública y a la Secretaría de Hacienda todo lo relacionado con la fijación del monto y el régimen de pago, cuando éste sea a cargo del Estado, tocando a la dependencia del ramo los procedimientos encaminados a la ocupación administrativa de las cosas. No será necesaria en estos casos la redacción de la escritura y se reputará que los bienes forman parte del patrimonio del Estado desde la publicación del decreto respectivo en el Periódico Oficial.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1668.
 
-Para destinar un inmueble propiedad del Estado a determinado servicio público, el Ejecutivo del Estado expedirá un acuerdo que comunicará a la Secretaría de Hacienda.
-
-El cambio de destino de un inmueble dedicado a un servicio público, así como la declaración de que aquél ya no es propio para tal aprovechamiento, deberá hacerse por decreto que expedirá el Congreso, oyendo previamente la opinión del Poder Ejecutivo o del Judicial, en su caso.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1669.
 
-No pierden su carácter de bienes destinados a un servicio público, los que estándolo fueren sin embargo, aprovechados temporalmente en todo o en parte para otro objeto que no pueda considerarse como servicio público, mientras no se dicte la declaración respectiva en la forma prevista por el artículo anterior.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1670.
 
-Los inmuebles destinados a un servicio público quedarán bajo la vigilancia de la Secretaría de Hacienda. Las obras nuevas y la transformación de los edificios se harán de acuerdo con los planos y proyectos aprobados por el Gobernador.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1671.
 
-Si estuvieren alojados en un mismo inmueble propiedad del Estado, varias instituciones u oficinas de diversas dependencias, el inmueble quedará a cargo de la dependencia que nombre y expense a los empleados encargados de su cuidado, pero sólo en lo relativo al aspecto exterior del mismo y a los lugares de servicio común, como patios, escaleras, corredores, pasillos, etc., y no en las partes interiores del edificio que sirvan para uso de las instituciones u oficinas dependientes de otros organismos.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
-
-En caso de duda, el Gobernador del Estado, por conducto de la Secretaría de Hacienda, resolverá cuál de las dependencias deberá hacerse cargo de las partes comunes de los inmuebles de que se trate.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2020)</small>
 
 ### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
-
 ###### ARTICULO 1672.
 
-La adquisición, posesión, conservación, administración y enajenación de los bienes del Estado corresponde, por regla general y a falta de prevención en contrario, a la Secretaría de Hacienda, lo mismo que el conocimiento y resolución de todos los asuntos referentes a contratos u ocupaciones de que sean objeto dichos inmuebles.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1673.
 
-Los bienes propios del Estado, no destinados a un servicio público, o que no disfruten de iguales privilegios que aquéllos que sí lo están, pueden enajenarse, siempre que no existan razones que impongan la necesidad o la conveniencia de conservar dicho bien o que se justifique plenamente la necesidad de la enajenación por la importancia del fin que haya de realizarse con el producto de la venta. El Ejecutivo para obtener la autorización del Congreso, está obligado a exponer los propósitos de la venta y a justificar posteriormente la inversión de los fondos que haya obtenido, precisamente en dichos propósitos.
-
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2004)</small>
-
-Los instrumentos en los que consten los actos jurídicos que contengan las adquisiciones o las enajenaciones de los bienes del Estado, serán firmados en la forma prevista en la última parte del artículo 1666.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1674.
 
-Los particulares pueden adquirir por prescripción los inmuebles de dominio privado del Estado. La prescripción se regirá por el Código Civil, pero se duplicarán los plazos.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1675.
 
-El Ejecutivo del Estado gestionará que el Gobierno Federal le ceda o enajene a título gratuito los bienes propios federales que se encuentren dentro del Estado y no estén destinados a algún servicio público social, en los términos del artículo 38 de la Ley General de Bienes Nacionales.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1676.
 
-La enajenación de los bienes inmuebles del Estado sólo podrá hacerse cumpliendo los mismos requisitos establecidos en los párrafos segundo y tercero del Artículo 1659.
-
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
-
-Los bienes inmuebles que adquiera el Gobierno del Estado para destinarlos a la urbanización y dotación de suelo para familias de escasos recursos económicos, para su enajenación, se sujetarán a las normas técnicas de operación de la Secretaría de Desarrollo Urbano y Ecología. En cualquier caso, para la enajenación es necesaria la autorización del Congreso.
-
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1677.
 
-La enajenación de los bienes a que se refiere el primer párrafo del Artículo que antecede, se hará en subasta pública. La convocatoria se publicará con quince días de anticipación, por lo menos, en el Periódico Oficial y en otro de los de mayor circulación en el lugar de ubicación de los inmuebles o en la Capital del Estado si en el Municipio de referencia no se editaren periódicos.
-
-Se excluyen de dicho trámite las adquisiciones por parte de la Federación, de los Municipios o de los Organismos Descentralizados de la Federación, de los Estados y de los Municipios.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1678.
 
-La subasta se hará sobre la base del avalúo que practique una institución de crédito o un especialista en valuación debidamente acreditado ante el Departamento Estatal de Profesiones y, en su defecto, servirá de base el avalúo que mande practicar la Secretaría de Hacienda.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1679.
 
-La subasta se practicará el día y a la hora señalados, ante la autoridad que determine el reglamento y se ajustará a las disposiciones relativas a remates administrativos. También se estará a estas disposiciones para determinar la deducción que deba hacerse en cada una de las almonedas si no hubiere postores en la anterior o si las posturas no fueren admisibles. En todo caso, la aprobación del remate corresponderá a la Secretaría de Hacienda.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1680.
 
-Ninguna venta de inmuebles podrá hacerse fijando para el pago total del precio un plazo mayor de diez años y sin que se entere en dinero efectivo, cuando menos el veinticinco por ciento de dicho precio. La finca se hipotecará en favor de la Hacienda Pública del Estado hasta el completo pago de su importe, así como el de los intereses pactados y los de mora, en su caso.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1681.
 
-Los compradores de predios del Estado no pueden hipotecarlos ni constituir sobre ellos derechos reales en favor de tercero, ni tienen facultad para derribar las construcciones sin permiso expreso y dado por escrito de la Secretaría de Hacienda, mientras no esté pagado íntegramente el precio.
-
-En los contratos relativos deberá expresarse que la falta de pago de cualquiera de los abonos a cuenta del precio y de sus intereses, en los términos convenidos, así como la violación de las prohibiciones que contiene este artículo, implicará la rescisión del contrato.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1682.
 
-Cuando se trate de permutar bienes estatales, los que debe recibir el Gobierno se valuarán de la manera señalada por el artículo 1533 la diferencia que resulte en favor o en contra del erario se cubrirá en efectivo precisamente en el momento de la operación.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1683.
 
-La infracción de cualquiera de los preceptos anteriores provocará la nulidad de la enajenación. También estarán sujetas a ellos para su validez, las enajenaciones que los establecimientos públicos y empresas en que el Estado tenga interés, hagan de inmuebles adquiridos del Gobierno del Estado por cualquier título durante los cinco años anteriores.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1684.
 
-Los bienes de dominio privado pueden ser objeto de todos los contratos que regula el derecho común, con el requisito de que el Congreso los autorice cuando se trate de actos de dominio.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1685.
 
-Los actos o contratos que tengan relación con los inmuebles de la Hacienda Pública del Estado y que para su validez o por acuerdo entre las partes requieran la intervención de notario, serán presentados ante la fe del que designe libremente el Ejecutivo.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1686.
 
-La Hacienda Pública estará facultada para retener administrativamente los bienes que posea; pero cuando trate de recuperar la posesión interina o definitiva o de reivindicar los inmuebles de dominio privado o de obtener el cumplimiento, la rescisión o la nulidad de los contratos celebrados respecto de dichos bienes, deberá deducir ante los tribunales las acciones que correspondan, las que se tramitarán, salvo la reivindicatoria y la plenaria de posesión, sumariamente. Presentada la demanda, el juez, a solicitud del Ministerio Público y siempre que encuentre razón bastante que lo amerite, podrá autorizar la ocupación administrativa provisional de los inmuebles. La resolución denegatoria podrá revocarse en cualquier estado del pleito por causa superviniente.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2020)</small>
 
 ### CAPITULO IV. DE LOS MUEBLES DEL DOMINIO PRIVADO
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
-
 ###### ARTICULO 1687.
 
-Pertenecen al Estado todos los bienes muebles de las diversas dependencias de los Poderes del mismo.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
-
-La clasificación y sistemas de inventario, así como la estimación de la depreciación de los muebles de propiedad estatal, son facultades de la Secretaría de Hacienda.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1688.
 
-La adquisición, administración y enajenación de los bienes muebles de propiedad Estatal corresponde a la Secretaría de Hacienda, con las salvedades que en beneficio de la atención más oportuna de los servicios públicos establezcan las normas legales.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1689.
 
-Rige también respecto a los muebles de dominio privado lo establecido en preceptos anteriores sobre prescripción en favor de particulares y retención administrativa de la posesión y recuperación interina o definitiva de la misma posesión.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1690.
 
-Acordada la destrucción de un mueble inútil para el servicio se dará de baja en el inventario, y podrá donarse con autorización del Gobernador del Estado a las personas indigentes que lo soliciten.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2020)</small>
 
 ### CAPITULO V. DEL REGISTRO DE LA PROPIEDAD ESTATAL
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
-
 ###### ARTICULO 1691.
 
-La Secretaría de Hacienda llevará un Registro de la Propiedad Estatal.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1692.
 
-El Registro de la Propiedad Estatal será público y los encargados de él tienen obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones que existen en los libros respectivos y de los documentos relacionados con las inscripciones, que estén archivados en sus apéndices y expedirá cuando sean solicitadas, y de acuerdo con la ley, copias certificadas de las inscripciones y constancias.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1693.
 
-Se inscribirán en el Registro de la Propiedad Estatal:
-
-I.- Los títulos por los cuales se adquiera, transmita, modifique, grave o extinga el dominio, la posesión y los demás derechos reales pertenecientes al Gobierno del Estado sobre los bienes inmuebles;
-
-II.- Los contratos de arrendamiento de bienes inmuebles a plazo de cinco años o mayor;
-
-III.- Las resoluciones de ocupación dictadas en los procedimientos judiciales;
-
-IV.- Las resoluciones y sentencias definitivas pronunciadas en los procedimientos a que se refiere la fracción anterior;
-
-V.- Las informaciones ad-perpetuam promovidas por el Ministerio Público, a gestión de la Oficialía Mayor, para justificar hechos o acreditar derechos tendientes a establecer la posesión como medio para adquirir posteriormente el dominio pleno de los bienes inmuebles;
-
-VI.- Las resoluciones judiciales o de árbitros o arbitradores que produzcan algunos de los efectos mencionados en la fracción I;
-
-VII.- Los demás títulos que conforme a la ley deban ser registrados; y
-
-VIII.- Los decretos que incorporen al dominio público o desincorporen de él determinados bienes.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1694.
 
-No se hará inscripción de los bienes del dominio público sino cuando sean de los señalados en las fracciones III, IV y V del artículo 1504 de este Libro.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1695.
 
-Además de la inscripción en el Registro de la Propiedad Estatal, los títulos de los actos o contratos a que se refiere el artículo anterior, se inscribirán en el Registro Público de la Propiedad que corresponda, conforme a las leyes relativas, al lugar de ubicación de los bienes de que se trate.
-
-En caso de oposición entre los datos del Registro de la Propiedad Estatal y en el de la ubicación de los bienes, en las relaciones con terceros, se dará preferencia al primero si se trata de cosas de dominio público y al segundo si de inmuebles de dominio privado.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1696.
 
-En las inscripciones del Registro de la Propiedad Estatal se expresará la procedencia de los bienes, su naturaleza, ubicación y linderos, el nombre del inmueble si lo tuviere, su valor y las servidumbres que reporte tanto activas como pasivas, así como sus referencias en relación con los expedientes respectivos.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1697.
 
-Las constancias del Registro de la Propiedad Estatal probarán la autenticidad de los actos a que se refieran.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1698.
 
-La extinción de las inscripciones del Registro de la Propiedad Estatal sólo se opera:
-
-I.- Por mutuo consentimiento de las partes o por decisión judicial o administrativa que la mande cancelar;
-
-II.- Cuando se extinga por completo el inmueble objeto de la inscripción; y
-
-III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1699.
 
-En la cancelación de inscripciones se asentarán los datos necesarios a fin de que se conozcan con toda exactitud cual es la inscripción que se cancela y la causa por la que se hace la cancelación.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 ###### ARTICULO 1700.
 
-Un reglamento determinará las secciones de que habrá de componerse el Registro, los libros que debe llevar y los requisitos de éstos.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -11206,3 +10942,37 @@ P.O. 5 DE FEBRERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVI/EXLEY/0583/2019 I P.O. LEY DE BIENES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Poderes Ejecutivo, Legislativo y Judicial, los municipios, los organismos descentralizados estatales y municipales, así como a los Organismos Constitucionales Autónomos, deberán expedir o adecuar, en un plazo de ciento ochenta días naturales, las disposiciones necesarias para el cumplimiento de la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Los municipios del Estado, en un plazo que no podrá exceder de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, deberán crear su Registro de Propiedad Municipal.
+
+###### ARTÍCULO CUARTO.
+
+El artículo 22, cuarto párrafo del presente Decreto, entrará en vigor hasta en tanto lo haga la legislación que regule la figura del Órgano Gestor de Suelo.
+
+###### ARTÍCULO QUINTO.
+
+Los órganos colegiados a que hace referencia el artículo 103 de esta Ley, deberán constituirse y celebrar su primera sesión en un plazo no mayor de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+En tanto se expide la Ley del Procedimiento Administrativo del Estado, se aplicará en lo conducente el Código Administrativo del Estado de Chihuahua, así como la legislación procedimental civil aplicable.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las disposiciones administrativas expedidas en esta materia, vigentes al momento de la publicación de este Decreto, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deban sustituirlas.
+
+Los procedimientos administrativos y demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en el que se iniciaron.
