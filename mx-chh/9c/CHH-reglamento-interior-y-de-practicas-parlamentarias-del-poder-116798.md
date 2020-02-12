@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-y-de-practicas-parlamentarias-del-poder-116
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-01"
-last_updated: "2019-07-20"
+last_updated: "2020-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 1 de octubre de 2016.
 
@@ -1599,7 +1599,9 @@ VI. Titular de la Fiscalía Especializada en Combate a la Corrupción.
 
 VII. Integrantes del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública.
 
-VIII. Titulares de los órganos internos de control de los organismos públicos autónomos, así como de la terna de aspirantes a ocupar el cargo de titular del Órgano Interno de Control del Tribunal Estatal Electoral.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2020)</small>
+
+VIII. Titulares de los órganos internos de control del H. Congreso y de los organismos públicos autónomos, así como de la terna de aspirantes a ocupar el cargo de titular del Órgano Interno de Control del Tribunal Estatal Electoral.
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
 
@@ -1631,11 +1633,19 @@ Dicha entrevista tendrá por objeto evaluar el perfil y experiencia profesional,
 
 La Comisión Especial acordará el formato y los horarios de las entrevistas, las cuales serán públicas y transmitidas en vivo a través de los medios electrónicos de los cuales disponga el Poder Legislativo.
 
-VI. Una vez concluida la etapa referida en la fracción anterior, dentro de los cinco días naturales siguientes, integrará un informe con la totalidad de las personas aspirantes, que contenga, en orden de prelación, los resultados de la evaluación curricular y de las entrevistas, mismo que se someterá al Pleno del Congreso para su consideración.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2020)</small>
 
-VII. Una vez recibida la lista a que se refiere la fracción anterior, en un plazo que no exceda de los diez días hábiles, el Pleno del Congreso, con el voto de al menos las dos terceras partes de las diputadas y diputados presentes, designará a la persona que ocupará el cargo de titular del Órgano Interno de Control del Organismo Público Autónomo de que se trate, por un período de siete años.
+VI. Una vez concluida la etapa referida en la fracción anterior, dentro de los cinco días siguientes, integrará un informe que contenga los resultados de la evaluación curricular y de las entrevistas. De igual manera, dentro de los cinco días siguientes conformará las ternas, mismas que las remitirá al Pleno del Congreso, quien hará la designación de la persona titular del Órgano Interno de Control que corresponda.
 
-Por lo que se refiere al proceso de selección de aspirantes a ocupar el cargo de titular del Órgano Interno de Control del Tribunal Estatal Electoral, el Pleno del Congreso, con el voto de al menos las dos terceras partes de las diputadas y los diputados presentes, integrará una terna de aspirantes, misma que remitirá al Tribunal Estatal Electoral para que, en un plazo que no exceda de los diez días hábiles, designe a su titular.
+Tratándose del Tribunal Estatal Electoral, deberá conformar una propuesta con, al menos, cinco aspirantes de la cual se integrará una terna.
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2020)</small>
+
+VII. Una vez recibidas las ternas y la propuesta referidas, el Pleno del Congreso, en un plazo que no excederá de diez días hábiles, designará, con el voto de al menos las dos terceras partes de las diputadas y diputados presentes, a la persona que ocupará el cargo de titular del Órgano Interno de Control del H. Congreso o del Organismo Público Autónomo de que se trate, por un período de siete años.
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2020)</small>
+
+VIII. Por lo que se refiere al titular del Órgano Interno de Control del Tribunal Estatal Electoral, el Pleno del Congreso integrará, con el voto de al menos las dos terceras partes de las diputadas y los diputados presentes, una terna, misma que remitirá a dicho Organismo para que, en un plazo que no exceda de diez días hábiles siguientes a su recepción, designe a su titular.
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
 
@@ -1758,3 +1768,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Comité de Adquisiciones, Arrendamientos y Servicios del Poder Legislativo, deberá constituirse y celebrar su primera reunión en un plazo no mayor de treinta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVI/RFLEY/0667/2020 III P.E., POR MEDIO DEL CUAL SE REFORMA Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
