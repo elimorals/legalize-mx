@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-las-bases-de-operacion-de-la-secretaria-75209
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-17"
-last_updated: "2019-09-18"
+last_updated: "2020-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el sábado 17 de abril de 2010.
 
@@ -166,6 +166,10 @@ XVI. Controlar, planear, coordinar, evaluar y dirigir el servicio de llamadas de
 > <small>(ADICIONADA, P.O. 12 DE JULIO DE 2017)</small>
 
 XVII. Garantizar la cobertura de la Red Estatal de Telecomunicaciones que permita la intercomunicación entre las dependencias en materia de seguridad pública y protección civil de los tres niveles de gobierno, con la finalidad de poder salvaguardar la seguridad e integridad de los ciudadanos de nuestro Estado.
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2020)</small>
+
+XVIII. Ejecutar el Plan de Reeducación para Personas Generadoras de Violencia, estableciendo los mecanismos y protocolos que resulten necesarios para la implementación de acciones y medidas reeducativas integrales y de reinserción social.
 
 ###### Artículo 5.
 
@@ -1182,3 +1186,15 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero.- El Titular de la Secretaría de Seguridad y Protección Ciudadana, deberá someter a consideración y aprobación del Titular del Ejecutivo del Estado, las adecuaciones al Reglamento de la Ley que Establece las Bases de Operación de la Secretaría de Seguridad y Protección Ciudadana del Estado de Chiapas, y demás normatividad que resulte aplicable, en un plazo no mayor a sesenta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 167 POR EL QUE SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 4 DE LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan o contravengan lo establecido en el presente Decreto.
+
+Artículo Tercero.- El Titular de la Secretaría de Seguridad y Protección Ciudadana, deberá someter a consideración del Titular del Ejecutivo del Estado, las adecuaciones que correspondan al marco jurídico de su actuación, en un plazo que no exceda de 90 días hábiles, a efecto de hacerlos congruentes con las disposiciones del presente Decreto.
+
+Artículo Cuarto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
