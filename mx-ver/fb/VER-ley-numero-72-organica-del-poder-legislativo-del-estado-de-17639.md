@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2020-02-04"
+last_updated: "2020-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE FEBRERO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -367,7 +367,9 @@ g) La celebración de convenios de coordinación con municipios de otras entidad
 
 h) La creación de entidades paramunicipales.
 
-XVII. Llevar el registro de la situación patrimonial de los servidores públicos estatales y municipales, los cuales se harán públicos en los términos establecidos por la ley;
+> <small>(REFORMADA, G.O. 13 DE FEBRERO DE 2020)</small>
+
+XVII. Recibir y registrar, de acuerdo como corresponda el caso, las declaraciones patrimoniales y de interés de los servidores públicos del Poder Legislativo. Así también, podrá requerir información adicional y realizar las investigaciones correspondientes, conforme a la ley aplicable;
 
 > <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2016)</small>
 
@@ -1193,9 +1195,7 @@ III. Auxiliar a la Mesa Directiva en las reuniones que celebre, cuando no funcio
 
 IV. Dirigir, ejecutar y supervisar los trabajos y el cumplimiento de las atribuciones y el correcto funcionamiento de las Secretarías de Servicios Legislativos, de Fiscalización y de Servicios Administrativos y Financieros;
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2004)</small>
-
-V. Recibir las declaraciones de situación patrimonial de los servidores públicos estatales y municipales, de conformidad con la ley de la materia y demás disposiciones aplicables, declaraciones que sólo podrán hacerse públicas por mandamiento judicial;
+V. (DEROGADA, G.O. 13 DE FEBRERO DE 2020)
 
 > <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2016)</small>
 
@@ -1323,13 +1323,13 @@ III. Practicar, por instrucciones del Secretario General, previo acuerdo del Pre
 
 IV. Instrumentar programas permanentes de capacitación y orientación preventiva para los servidores públicos municipales, conforme a su Programa Operativo Anual;
 
-V. Apoyar a la Secretaría General en la recepción, control y sistematización de las declaraciones de situación patrimonial que presenten los servidores públicos estatales y municipales, así como programar y ejecutar acciones tendientes al cumplimiento de las disposiciones en la materia;
+V. (DEROGADA, G.O. 13 DE FEBRERO DE 2020)
 
-VI. Fungir como órgano de control interno del Congreso en los procedimientos previstos en la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles para el Estado de Veracruz-Llave;
+VI. (DEROGADA, G.O. 13 DE FEBRERO DE 2020)
 
 VII. Tener a su cargo el Registro de Deuda Pública Municipal;
 
-VIII. Recibir quejas o denuncias administrativas en contra de servidores públicos municipales, excepto ediles, turnarlas a los órganos de control interno respectivos y darles el seguimiento correspondiente;
+VIII. (DEROGADA, G.O. 13 DE FEBRERO DE 2020)
 
 IX. Supervisar la correcta interpretación y aplicación de la normatividad vigente en materia de presentación de los estados financieros de los Ayuntamientos, con anexos y demás información relativa;
 
@@ -1970,3 +1970,11 @@ G.O. 4 DE FEBRERO DE 2020.
 Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 13 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 538 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
