@@ -4,7 +4,7 @@ identifier: "NAY-ley-estatal-del-equilibrio-ecologico-y-proteccion-al-21201"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-25"
-last_updated: "2019-06-11"
+last_updated: "2020-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 11 DE JUNIO DE 2019 NO APLICA AL ARTICULADO DEL DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 3 DE JUNIO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2020.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 25 de abril del 2001.
 
@@ -156,6 +154,10 @@ XIII. Contaminante: Toda materia o energía en cualesquiera de sus estados físi
 XIV. Contingencia Ambiental: Situación de riesgo, derivada de actividades humanas o fenómenos naturales que puede poner en peligro la integridad de uno o varios ecosistemas;
 
 XV. Control: Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2020)</small>
+
+XV Bis.- Cosecha de Agua.- La acción de los sectores público, privado, social, ejidos, pueblos y de las y los habitantes del Estado de Nayarit, para captar agua de lluvia, nieve o granizo, promovida, organizada e incentivada por el Gobierno del Estado;
 
 XVI. Daño Ambiental: Toda pérdida, deterioro o menoscabo que se actualice en cualquiera de los elementos que conforman un ecosistema, un recurso biológico o natural, o en los que condicionan la salud o la calidad de vida de la población, como resultado de la actividad humana, en contravención a esta ley, su reglamento, normas oficiales y demás disposiciones jurídicas que resulten aplicables;
 
@@ -327,7 +329,9 @@ VI.- Prevenir y controlar la contaminación de la atmósfera, generada en zonas 
 
 VII.- Establecer las medidas para hacer efectiva la prohibición de emisiones contaminantes, que rebasen los niveles máximos permisibles, por ruido, vibraciones, energía térmica, lumínica, olores y otros factores perjudiciales al equilibrio ecológico o al ambiente;
 
-VIII.- Regular el aprovechamiento racional, prevenir y controlar la contaminación de aguas de competencia estatal en congruencia con las disposiciones legales vigentes en la materia;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2020)</small>
+
+VIII.- Regular el aprovechamiento racional de aguas de competencia estatal mediante la implementación de políticas públicas en materia de cosecha de agua, prevenir y controlar la contaminación en congruencia con las disposiciones legales vigentes en la materia;
 
 IX.- Prevenir la contaminación de las aguas federales que el Estado o los Municipios tengan asignadas o concesionadas para la prestación de servicios públicos y de las que se descarguen en las redes de drenaje y alcantarillado de los centros de población, sin perjuicio de las facultades de la Federación en materia de tratamiento, descarga, infiltración y reuso de aguas residuales, conforme a las leyes aplicables;
 
@@ -391,7 +395,9 @@ VI.- Prevenir y controlar la contaminación de la atmósfera, generada por fuent
 
 VII.- Aplicar las medidas para hacer efectiva la prohibición de emisiones contaminantes que rebasen los niveles permisibles por ruido, vibraciones, energía térmica, lumínica, olores y otros factores perjudiciales al equilibrio ecológico o al ambiente, dentro de sus respectivas circunscripciones territoriales y que fueren generadas por fuentes emisoras de jurisdicción municipal;
 
-VIII.- Prevenir y controlar la contaminación de las aguas federales que tengan asignadas para la prestación de los servicios públicos y de las que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2020)</small>
+
+VIII.- Prevenir y controlar la contaminación de las aguas federales que tengan asignadas para la prestación de los servicios públicos y de las que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, así como incentivar el uso sustentable de las mismas mediante el fomento y creación de políticas en materia de cosecha de agua;
 
 IX.- Programar el ordenamiento ecológico municipal, particularmente en los asentamientos humanos y participar en la programación del Ordenamiento Ecológico Regional, en lo relativo a su circunscripción territorial;
 
@@ -843,7 +849,9 @@ Se considerarán prioritarias para efectos del otorgamiento de los estímulos fi
 
 I.- La investigación, incorporación o utilización de mecanismos, equipos y tecnologías que tengan por objeto evitar, reducir o controlar la contaminación o deterioro ambiental, así como el uso eficiente de los recursos naturales y la energía;
 
-II.- El ahorro y aprovechamiento sustentable y la prevención de la contaminación del agua;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2020)</small>
+
+II.- El ahorro y aprovechamiento sustentable y la prevención de la contaminación del agua e implementación de sistemas de cosecha de agua por parte de los habitantes, sector privado, social;
 
 III.- La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas ó idóneas para su funcionamiento;
 
@@ -875,7 +883,9 @@ VI.- Se establecerán y manejarán en forma prioritaria las áreas naturales pro
 
 VII.- Las autoridades estatales y de los Municipios, en la esfera de su competencia, promoverán la utilización de instrumentos económicos, fiscales y financieros de política urbana y ambiental, para inducir conductas compatibles con la protección y restauración del medio ambiente y con un desarrollo urbano sustentable; y
 
-VIII. El aprovechamiento del agua para usos urbanos deberá incorporar de manera equitativa los costos de su tratamiento, considerando la afectación a la calidad del recurso y la cantidad que se utilice.
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2020)</small>
+
+VIII. El aprovechamiento del agua para usos urbanos deberá incorporar de manera equitativa los costos de su tratamiento, siendo obligatorio que en los nuevos desarrollos se instalen sistemas de cosecha de agua, considerando la afectación a la calidad del recurso y la cantidad que se utilice.
 
 ###### Artículo 34.
 
@@ -909,7 +919,9 @@ Los programas y acciones de vivienda que ejecute o financie el Gobierno del Esta
 
 I.- Que la vivienda que se construya en las zonas de expansión de los asentamientos humanos, guarde una relación adecuada con los elementos naturales de dichas zonas y se consideren áreas verdes suficientes para la convivencia social, de acuerdo con las Normas Oficiales Mexicanas y los criterios y normas técnicas aplicables;
 
-II.- El empleo de dispositivos y sistemas de ahorro de agua potable, así como de captación, almacenamiento y utilización de aguas pluviales;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2020)</small>
+
+II.- El empleo de dispositivos y sistemas de ahorro de agua potable, así como de cosecha de agua;
 
 III.- Las previsiones para las descargas de aguas residuales domiciliarias a los sistemas de drenaje y alcantarillado o de cualquier sistema de tratamiento de aguas residuales;
 
@@ -4062,3 +4074,15 @@ b) En establecimientos dedicados a la venta de mayoreo y menudeo de los producto
 Cuarto. Concluidos los plazos definitivos señalados en (sic) artículo anterior, todos los establecimientos comerciales referidos con antelación, deberán de llevar a cabo la sustitución definitiva de los productos elaborados con materiales no compostables por los fabricados solamente con materiales que faciliten su reúso o reciclado y que sean derivados de productos compostables.
 
 Quinto. El Gobierno del Estado en un plazo no mayor de seis meses a la entrada en vigor del presente Decreto, deberá adecuar el programa estatal ambiental, para efecto de armonizarlo a las disposiciones contenidas en el presente decreto.
+
+P.O. 13 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, órgano de Gobierno del Estado de Nayarit.
+
+###### ARTÍCULO SEGUNDO.
+
+Se contará con un plazo de ciento ochenta días naturales a partir de la entrada en vigor de la presente reforma, para formular e integrar los programas de capacitación y apoyo en materia de cosecha de agua.
