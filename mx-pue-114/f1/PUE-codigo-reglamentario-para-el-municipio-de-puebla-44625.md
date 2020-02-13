@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2020-01-08"
+last_updated: "2020-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -11197,7 +11197,9 @@ El permiso será cancelado por la afectación de los derechos de terceros, ante 
 
 Se realizarán operativos para vigilar y regular el cumplimiento de los requisitos, obligaciones y observancia de prohibiciones para el desempeño de las actividades de los vendedores ambulantes, fijos, semifijos, prestadores ambulantes de servicios y artistas urbanos.
 
-Para los vendedores ambulantes, semifijos, prestadores ambulantes de servicios y Artistas Urbanos en vía pública que no cuenten con permiso, o que teniéndolo infrinjan alguna de las disposiciones del presente capítulo, y les sean retirados los productos, mercancías, objetos o bienes muebles utilizados para ejercer su actividad de acuerdo a lo establecido en el párrafo anterior, para la devolución de ésta, deberán pagar una multa conforme a lo señalado por la normatividad aplicable.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2020)</small>
+
+Para los vendedores ambulantes, semifijos, prestadores ambulantes de servicios y Artistas Urbanos en vía pública que no cuenten con permiso, o que teniéndolo infrinjan alguna de las disposiciones del presente Capítulo, y les sean retirados los productos, mercancías, objetos o bienes muebles utilizados para ejercer su actividad de acuerdo a lo establecido en el párrafo anterior, para la devolución de ésta, se deberá pagar una multa conforme a lo señalado por el artículo 652 Bis de este Código.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2019)</small>
 
@@ -11242,6 +11244,26 @@ El Director de Desarrollo Político, previa consideración tanto de lo asentado 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2019)</small>
 
 La resolución correspondiente será notificada al comerciante en el domicilio que hubiere señalado, o de haberlo omitido, se le notificará por estrados.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2020)</small>
+
+###### Artículo 652 Bis.
+
+La multa que se establece en el cuarto párrafo del artículo 652, será el equivalente al valor de 6 a 20 unidades de medida y actualización, conforme a los siguientes criterios:
+
+a) De 6 a 11 unidades de medida de actualización al vendedor ambulante, prestador de servicios y artistas urbanos.
+
+b) De 12 a 14 unidades de medida de actualización al vendedor semifijo.
+
+c) De 15 a 20 unidades de medida de actualización a los giros no permitidos.
+
+Para la determinación e imposición de las sanciones el jefe de departamento de vía pública tomará en cuenta:
+
+I. El carácter intencional o negligente de la acción u omisión constitutiva de la infracción;
+
+II. El beneficio directamente obtenido por el infractor por los actos que motiven la sanción;
+
+III. La reincidencia, si la hubiere.
 
 ###### Artículo 653.
 
@@ -38792,3 +38814,11 @@ PRIMERO. La presente reforma, adición y derogación de diversas disposiciones d
 SEGUNDO. Se fija un plazo de tres meses para que el Organismo Operador del Servicio de Limpia del Municipio de Puebla realice las propuestas de modificación y actualización que sean procedentes al Reglamento Interior y Manuales de Procedimientos y los presente ante el Honorable Ayuntamiento para su aprobación.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Dictamen.
+
+P.O. 13 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 13 DE DICIEMBRE DE 2019, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 652 Y ADICIONA EL ARTÍCULO 652 BIS AL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. La reforma y adición aprobadas en el presente Dictamen entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
