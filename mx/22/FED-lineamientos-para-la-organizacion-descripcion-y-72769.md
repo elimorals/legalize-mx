@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-para-la-organizacion-descripcion-y-72769"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2010-02-15"
-last_updated: "2010-02-15"
+last_updated: "2020-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72769&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2010-01-22"
 ---
 # LINEAMIENTOS PARA LA ORGANIZACION, DESCRIPCION Y CONSERVACION DEL ARCHIVO INSTITUCIONAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL RELATIVO A LA ORGANIZACIÓN, DESCRIPCIÓN, CONSERVACIÓN, VALORACIÓN Y DESTINO FINAL DE LOS EXPEDIENTES QUE EN EL ÁMBITO ADMINISTRATIVO FORMAN PARTE DEL SISTEMA INSTITUCIONAL DE ARCHIVOS DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADO EN EL D.O.F. DE 13 DE FEBRERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LINEAMIENTOS PARA LA ORGANIZACION, DESCRIPCION Y CONSERVACION DEL ARCHIVO INSTITUCIONAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE FEBRERO DE 2020 (ABROGADO)
 
 Lineamientos publicados en el Diario Oficial de la Federación, el lunes 15 de febrero de 2010.
 
@@ -578,3 +580,21 @@ EL SUSCRITO, MAESTRO DIEGO GUTIERREZ MORALES, SECRETARIO DE LA COMISION DE ADMIN
 CERTIFICA
 
 Que el presente documento, en 28 fojas útiles, incluyendo la presente, corresponden a los LINEAMIENTOS PARA LA ORGANIZACION, DESCRIPCION Y CONSERVACION DEL ARCHIVO INSTITUCIONAL, aprobados por el Pleno de la Comisión de Administración, mediante acuerdo 173/S6(17-VI-2009) emitido en la Sexta Sesión Ordinaria de 2009, que obra en los archivos de la Coordinación de Asuntos Jurídicos. DOY FE.- México, Distrito Federal, 22 de enero de 2010.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL RELATIVO A LA ORGANIZACIÓN, DESCRIPCIÓN, CONSERVACIÓN, VALORACIÓN Y DESTINO FINAL DE LOS EXPEDIENTES QUE EN EL ÁMBITO ADMINISTRATIVO FORMAN PARTE DEL SISTEMA INSTITUCIONAL DE ARCHIVOS DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor a los treinta días naturales siguientes a su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abrogan los Lineamientos para la organización, descripción y conservación del archivo institucional, aprobados por la Comisión de Administración en la Sexta Sesión Ordinaria de 2009 mediante Acuerdo 173/S6(17-VI-2009).
+
+TERCERO. Los criterios para la digitalización, resguardo y preservación del archivo electrónico del Tribunal Electoral, a que se refieren los artículos 11, fracción VI, y 36, deberán emitirse dentro de los treinta días naturales siguientes a la entrada en vigor de este Acuerdo General.
+
+CUARTO. La valoración secundaria de los expedientes que a la entrada en vigor se hayan transferido al Archivo de Concentración y cuyo plazo de conservación haya concluido de conformidad con el Catálogo de Disposición Documental vigente antes de la entrada en vigor de este Acuerdo General, se realizará por las personas responsables de los Archivos de Trámite, con el apoyo de los Archivos de Concentración e Histórico, a fin de analizar y establecer su destino final, para lo cual se atenderá a lo señalado en el referido Catálogo de Disposición Documental.
+
+En cuanto al procedimiento para la eliminación de los que se consideren para baja documental, se procederá en términos de lo previsto en este Acuerdo.
+
+QUINTO. Para su debido conocimiento y cumplimiento, notifíquese a todas las áreas del Tribunal Electoral, y publíquese en el Diario Oficial de la Federación, y en la Gaceta de Jurisprudencia y Tesis en Materia Electoral del Tribunal Electoral del Poder Judicial de la Federación, así como en las páginas de este órgano jurisdiccional en internet e intranet.
