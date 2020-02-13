@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2020-02-04"
+last_updated: "2020-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE FEBRERO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -699,9 +699,13 @@ XXVI. Proponer al Cabildo a la persona que ejercerá las funciones de Cronista M
 
 XXVII. Vigilar y cumplir el uso de indicadores de desempeño; y
 
-> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2015)</small>
+> <small>(ADICIONADA, G.O. 13 DE FEBRERO DE 2020)</small>
 
-XXVIII. Las demás que expresamente le confieran esta Ley y demás leyes del Estado.
+XXVIII. Procurar la participación paritaria entre mujeres y hombres en cargos públicos de Directora o Director General, Directora o Director de Área, de las dependencias centralizadas o de los organismos descentralizados de la administración pública municipal. El seguimiento y vigilancia al cumplimiento de esta atribución estará a cargo de la Comisión Edilicia para la Igualdad de Género; y
+
+> <small>(REFORMADA, G.O. 13 DE FEBRERO DE 2020)</small>
+
+XXIX. Las demás que expresamente le confieran esta Ley y otras Leyes del Estado.
 
 ### CAPÍTULO V. DEL SÍNDICO
 
@@ -955,7 +959,9 @@ VI. Promover el deporte municipal procurando la realización de competencias y e
 
 VII. Proponer la creación de becas para estudiantes sobresalientes de escasos recursos, según las posibilidades económicas del Ayuntamiento;
 
-VIII. Promover los valores culturales e históricos del Municipio; y
+> <small>(REFORMADA, G.O. 13 DE FEBRERO DE 2020)</small>
+
+VIII. Fomentar los valores culturales e históricos del municipio, así como promover y proponer ante el Cabildo programas integrales e incluyentes para el rescate, preservación e impulso de la riqueza cultural del municipio; y
 
 IX. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
 
@@ -1747,11 +1753,11 @@ Las dependencias, entidades, órganos y servidores públicos de los Ayuntamiento
 
 Estarán exceptuados de lo dispuesto por el párrafo anterior, los actos y procedimientos administrativos en materia laboral, electoral, de procuración de justicia y los de nombramiento y remoción de los servidores públicos municipales, los que se regirán por las leyes especiales y reglamentos municipales que regulen dichas materias.
 
-> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 13 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 68.
 
-Con base en lo dispuesto en esta Ley, el ayuntamiento podrá aprobar disposiciones reglamentarias para el nombramiento de servidores públicos titulares de las dependencias centralizadas o de órganos desconcentrados, así como de aquellos que desempeñen un empleo, cargo o comisión de confianza de naturaleza directiva en el Ayuntamiento, que realicen funciones relativas a los servicios públicos municipales. Al efecto, los titulares de la Secretaría del Ayuntamiento, la Tesorería Municipal, la Dirección de Obras Públicas y la Contraloría, deberán contar con título profesional legalmente expedido y cédula profesional, afines a la naturaleza del cargo y con una antigüedad mínima de un año al día de su designación. Para cualquier otro cargo, en caso de no contarse con la documentación antes referida, será necesario tener experiencia acreditada en el ramo, a juicio de quien se encuentre facultado para nombrarlo.
+Con base en lo dispuesto en esta Ley, el ayuntamiento deberá aprobar disposiciones reglamentarias para el nombramiento de servidores públicos titulares de las dependencias centralizadas o de órganos desconcentrados, así como de aquellos que desempeñen un empleo o cargo de naturaleza directiva en el Ayuntamiento, que realicen funciones relativas a los servicios públicos municipales, observando el principio de paridad de género y garantizando a las mujeres y hombres su acceso bajo las mismas oportunidades. Al efecto, los titulares de la Secretaría del Ayuntamiento, la Tesorería Municipal, la Dirección de Obras Públicas y la Contraloría deberán contar con título profesional legalmente expedido y cédula profesional, afines a la naturaleza del cargo y con una antigüedad mínima de un año al día de su designación. Para cualquier otro cargo, en caso de no contarse con la documentación antes referida, será necesario tener experiencia acreditada en el ramo, a juicio de quien se encuentre facultado para nombrarlo.
 
 ### CAPÍTULO II. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL CENTRALIZADA
 
@@ -4384,3 +4390,19 @@ SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códig
 TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 13 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 539 QUE REFORMA EL ARTÍCULO 68 Y SE ADICIONA LA FRACCIÓN XXVIII DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 540 QUE REFORMA EL ARTÍCULO 46 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
