@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-municipal-del-estado-de-nayarit-11037"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-28"
-last_updated: "2011-12-10"
+last_updated: "2020-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2020.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 28 de diciembre de 1983.
 
@@ -405,6 +405,10 @@ El pago por anualidad anticipada del impuesto predial no impide el cobro de dife
 
 No obstante lo anterior, el pago de las cuotas mínimas que señalen las Leyes de Ingresos de los Municipios se hará en una sola exhibición en el mes de enero de cada año, sin bonificación alguna.
 
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2020)</small>
+
+Los contribuyentes que cuenten con predio con certificado de edificio sustentable conforme a la Ley de Agua Potable y Alcantarillado del Estado de Nayarit, les será otorgado durante un ejercicio fiscal, una bonificación del quince por ciento, para lo cual los interesados deberán solicitar este derecho ante la Tesorería Municipal.
+
 II. (DEROGADA, P.O. 26 DE DICIEMBRE DE 1992)
 
 (REUBICADA, P.O. 21 DE DICIEMBRE DE 1991)
@@ -698,6 +702,10 @@ XII. Otros conceptos que expresamente se consideren procedentes en la Ley de Ing
 La junta de gobierno del organismo público descentralizado de carácter municipal para la prestación de los servicios previstos en este capítulo, podrá acordar la realización de programas de estímulos por pagos anticipados y de apoyo a la regularización en el cumplimiento de obligaciones fiscales, mediante el otorgamiento de carácter general de subsidios de recargos y condonación de multas, previo acuerdo de cabildo, que será publicado en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Los usuarios del servicio de agua potable, alcantarillado y saneamiento están obligados a realizar el pago de los derechos derivados de la prestación del servicio, cuando se encuentren asentados en áreas urbanizables, susceptibles de ser integradas a los centros de población.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2020)</small>
+
+Las personas que cuenten con predio con certificado de edificio sustentable, en términos de la Ley de Agua Potable y Alcantarillado del Estado de Nayarit, se les otorgará por este, un descuento del cincuenta por ciento, en pago de derechos del presente artículo, siempre que el inmueble no esté obligado a contar con el citado certificado en términos de la Ley de Asentamientos Humanos y Desarrollo Urbano para el Estado de Nayarit.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -1032,3 +1040,11 @@ P.O. 10 DE DICIEMBRE DE 2011.
 Artículo primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, derogando las disposiciones que se opongan a su contenido.
 
 Artículo segundo.- Para efectos de la determinación de los montos a cubrir por concepto de derechos por la prestación del servicio de agua potable, drenaje, y saneamiento de aguas residuales, las disposiciones del presente decreto sólo serán aplicables para los cobros que se efectúen a partir del ejercicio fiscal 2012, en tanto, se seguirán aplicando las disposiciones vigentes con anterioridad a su publicación.
+
+P.O. 13 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
