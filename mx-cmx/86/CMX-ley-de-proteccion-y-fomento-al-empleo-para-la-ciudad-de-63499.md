@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-fomento-al-empleo-para-la-ciudad-de-63499"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-08"
-last_updated: "2015-11-13"
+last_updated: "2020-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63499&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-09-30"
 
 LEY DE PROTECCIÓN Y FOMENTO AL EMPLEO PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE FEBRERO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 8 de octubre de 2008.
 
@@ -134,7 +134,9 @@ XVI. Coordinarse con el Sistema Nacional de Empleo, para realizar las medidas qu
 
 XVII. Concertar, desarrollar y evaluar acciones inherentes al programa de becas de capacitación para desempleados;
 
-XVIII. Coordinar, promover y realizar ferias del empleo y el servicio de colocación, por sí misma o a través de las delegaciones;
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2020)</small>
+
+XVIII. Coordinar, promover y realizar ferias del empleo y el servicio de colocación, por sí misma o a través de las Alcaldías de manera semestral;
 
 XIX. Producir, reproducir, publicar y difundir materiales didácticos de todo tipo para apoyar el cumplimiento de sus funciones y programas;
 
@@ -441,3 +443,9 @@ PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su debida prom
 SEGUNDO.- EL presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan a la presente reforma.
+
+G.O. 14 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 5 DE LA LEY DE PROTECCIÓN Y FOMENTO AL EMPLEO PARA EL DISTRITO FEDERAL".]
+
+ÚNICO. - El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
