@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-alcaldias-de-la-ciudad-de-mexico-128262"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2019-12-24"
+last_updated: "2020-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128262&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE FEBRERO DE 2020.
 
 Ley publicada en el Tomo I del Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -1062,6 +1062,14 @@ El Concejo contará con personal que les auxiliará en el desempeño de sus func
 
 El o la titular de la Alcaldía garantizará al Concejo un espacio físico adecuado así como los insumos materiales necesarios para el cumplimiento de sus funciones.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 14 DE FEBRERO DE 2020)</small>
+
+Las personas integrantes del Concejo y el personal de apoyo, deberán asistir a cursos y talleres de formación, actualización y profesionalización en materia de gestión, administración y políticas públicas, finanzas y presupuesto, control y ejercicio del gasto público, así como de supervisión y evaluación de las acciones de gobierno de las alcaldías, con la finalidad de profesionalizar el desempeño de sus atribuciones y funciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 14 DE FEBRERO DE 2020)</small>
+
+Para tal efecto, se suscribirán convenios de colaboración entre las alcaldías y la Escuela de Administración Pública de la Ciudad de México u otras instituciones académicas con validez oficial, con base en programas curriculares que promuevan la formación y actualización de las personas integrantes del Concejo y el personal de apoyo. En cada programa, se otorgarán certificados de reconocimiento académico para acreditar los conocimientos adquiridos y el cumplimiento de los módulos básicos de formación.
+
 ###### Artículo 83.
 
 Los Concejos en ningún caso ejercerán funciones de gobierno y de administración pública.
@@ -1234,7 +1242,13 @@ I. Asistir a las sesiones del Concejo, debiendo justificar por escrito las ausen
 
 II. Emitir voz y voto en cada sesión del Concejo, asentando en el acta los argumentos en favor o en contra y anexando, en su caso, las pruebas documentales que considere pertinentes;
 
-III. Presentar el informe anual de sus actividades que será difundido y publicado para conocimiento de las y los ciudadanos, que deberá ser incluido en el informe anual del Concejo, en términos del reglamento del Concejo.
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2020)</small>
+
+III. Presentar el informe anual de sus actividades que será difundido y publicado para conocimiento de las y los ciudadanos, que deberá ser incluido en el informe anual del Concejo, en términos del reglamento del Concejo, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 14 DE FEBRERO DE 2020)</small>
+
+IV. Asistir a los cursos, talleres y seminarios básicos de formación, actualización y profesionalización que imparta la Escuela de Administración Pública de la Ciudad de México u otras instituciones académicas con validez oficial.
 
 ###### Artículo 104.
 
@@ -2279,6 +2293,14 @@ CUARTO.- En el presupuesto de egresos para los ejercicios fiscales de los años 
 G.O. 24 DE DICIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA Y REFORMA EL ARTÍCULO 42 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México y, para su mayor difusión, en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 14 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICAN Y REFORMAN LOS ARTÍCULOS 82 Y 103 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO EN MATERIA DE PROFESIONALIZACIÓN DE LAS PERSONAS INTEGRANTES DE LOS CONCEJOS”.]
 
 PRIMERO. Remítase a la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México y, para su mayor difusión, en el Diario Oficial de la Federación.
 
