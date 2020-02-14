@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-integracion-al-desarrollo-de-las-personas-con-76524
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-10"
-last_updated: "2019-05-20"
+last_updated: "2020-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76524&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-09-09"
 
 LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE FEBRERO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 10 de septiembre de 2010.
 
@@ -1086,9 +1086,13 @@ XXII.- Diseñar y ejecutar campañas de sensibilización sobre las diversas disc
 
 XXIII.- Celebrar convenios con instituciones privadas, sociales y organizaciones de y para personas con discapacidad, que tengan como finalidad impulsar la investigación, desarrollo y producción de ayudas técnicas a costos accesibles para personas con discapacidad; y
 
+> <small>(ADICIONADA, G.O. 14 DE FEBRERO DE 2020)</small>
+
+XXIV.- Coadyuvar con las instituciones de la administración pública competentes en el diseño, implementación y evaluación de los planes y programas de certificación, interpretación e investigación de la Lengua de Señas Mexicana del sector público y privado en la Ciudad de México a través del Observatorio de Lengua de Señas Mexicana, basándose en normativas nacionales e internacionales para fortalecer y atender tanto los derechos lingüísticos como los educativos de las personas con discapacidad; y
+
 > <small>(ADICIONADA, G.O. 11 DE MAYO DE 2017)</small>
 
-XXIV.- Las demás que dispongan esta Ley y otros ordenamientos en la materia.
+XXV.- Las demás que dispongan esta Ley y otros ordenamientos en la materia.
 
 > <small>[N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 11 DE MAYO DE 2017, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ARTÍCULO, PASANDO DE VII FRACCIONES A VI.]</small>
 
@@ -1108,7 +1112,11 @@ IV. La Dirección Ejecutiva de Políticas Públicas;
 
 V. La Dirección Ejecutiva de Vinculación; y
 
-VI. Las demás áreas que sean necesarias para el cumplimiento de sus objetivos, las cuales estarán contempladas en el Estatuto Orgánico del Instituto.
+> <small>(ADICIONADA, G.O. 14 DE FEBRERO DE 2020)</small>
+
+VI. El Observatorio de Lengua de Señas Mexicana; y
+
+VII. Las demás áreas que sean necesarias para el cumplimiento de sus objetivos, las cuales estarán contempladas en el Estatuto Orgánico del Instituto.
 
 > <small>(REFORMADO, G.O. 25 DE MARZO DE 2019)</small>
 
@@ -1451,3 +1459,15 @@ G.O. 20 DE MAYO DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 14 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XXIV AL ARTÍCULO 48 RECORRIENDO LOS SUBSECUENTES Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 49 RECORRIENDO LOS SUBSECUENTES, DE LA LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO”.]
+
+Primero. Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
+
+Segundo. El presente Decreto entrará en vigor un día después de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Tercero. El Decreto de Presupuesto de Egresos de la Ciudad de México 2020, deberá considerar los recursos suficientes para el funcionamiento de la Unidad Administrativa denominada Observatorio de Lengua de Señas Mexicanas adscrita al Instituto de Personas Con Discapacidad de la Ciudad de México.
+
+Cuarto. La Junta Directiva del Instituto de Personas con Discapacidad deberá armonizar el Estatuto Orgánico del Instituto para incluir la Unidad Administrativa denominada Observatorio de Lengua de Señas Mexicana en su Estructura Orgánica, señalando sus competencias y atribuciones dentro de los 120 días naturales siguientes a la publicación del presente decreto en la Gaceta Oficial de la Ciudad de México.
