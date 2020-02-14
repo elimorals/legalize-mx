@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-la-sala-superior-del-tribunal-electoral-9676
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-12-05"
-last_updated: "2013-12-05"
+last_updated: "2020-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96766&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2013-11-22"
 ---
 # ACUERDO GENERAL DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION NUMERO 4/2013 [RELATIVO A LA VALORACION, TRANSFERENCIA Y BAJA DOCUMENTAL DE EXPEDIENTES JUDICIALES DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL 1/2020, RELATIVO A LA ORGANIZACIÓN, DESCRIPCIÓN, CONSERVACIÓN, VALORACIÓN Y DESTINO FINAL DE LOS EXPEDIENTES JUDICIALES QUE FORMAN PARTE DEL SISTEMA INSTITUCIONAL DE ARCHIVOS DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADO EN EL D.O.F. DE 14 DE FEBRERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN NÚMERO 4/2013, DE DIECINUEVE DE NOVIEMBRE DE DOS MIL TRECE, RELATIVO A LA VALORACIÓN, TRANSFERENCIA Y BAJA DOCUMENTAL DE EXPEDIENTES JUDICIALES DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS TREINTA DÍAS NATURALES DE SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE FEBRERO DE 2020 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 5 de diciembre de 2013.
 
@@ -204,3 +204,23 @@ CERTIFICACIÓN
 El suscrito, Secretario General de Acuerdos de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, con fundamento en el artículo 201, fracción X, de la Ley Orgánica del Poder Judicial de la Federación, en cumplimiento de las instrucciones del Magistrado José Alejandro Luna Ramos, Presidente de este órgano jurisdiccional, CERTIFICA: Que el folio precedente, con número diecinueve, forma parte del Acuerdo General de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación número 4/2013, de diecinueve de noviembre de dos mil trece, relativo a la valoración, transferencia y baja documental de expedientes judiciales del Tribunal Electoral del Poder Judicial de la Federación.- DOY FE.- México, Distrito Federal, a diecinueve de noviembre de dos mil trece.- El Secretario General de Acuerdos, Felipe de la Mata Pizaña.- Rúbrica.
 
 EL SUSCRITO, SECRETARIO GENERAL DE ACUERDOS DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, CERTIFICA: Que la presente copia, en diecinueve folios, debidamente cotejada y sellada, corresponde al Acuerdo General de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, 4/2013, de diecinueve de noviembre de dos mil trece, relativo a la valoración, transferencia y baja documental de expedientes judiciales de este órgano jurisdiccional.- Lo que certifico por instrucciones del Magistrado José Alejandro Luna Ramos, Presidente de este órgano jurisdiccional y en ejercicio de las facultades previstas en el artículo 201, del Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación, para los efectos legales procedentes.- DOY FE.- México, Distrito Federal, a veintidós de noviembre de dos mil trece.- El Secretario General de Acuerdos, Felipe de la Mata Pizaña.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 14 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 1/2020, RELATIVO A LA ORGANIZACIÓN, DESCRIPCIÓN, CONSERVACIÓN, VALORACIÓN Y DESTINO FINAL DE LOS EXPEDIENTES JUDICIALES QUE FORMAN PARTE DEL SISTEMA INSTITUCIONAL DE ARCHIVOS DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor a los treinta días naturales siguientes a su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. A partir de la entrada en vigor de este Acuerdo, se abroga el Acuerdo General de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación número 4/2013, de diecinueve de noviembre de dos mil trece, relativo a la valoración, transferencia y baja documental de expedientes judiciales del Tribunal Electoral del Poder Judicial de la Federación.
+
+TERCERO. Los criterios para la digitalización, resguardo y preservación del archivo electrónico del Tribunal Electoral, a que se refieren los artículos 11, fracción VI, y 35, deberán emitirse dentro de los treinta días naturales siguientes a la entrada en vigor de este Acuerdo General.
+
+CUARTO. En relación con lo dispuesto en el artículo 58 de este Acuerdo, los expedientes judiciales valorados como históricos o con dictamen de validación para transferirse al Archivo Histórico resguardados en el Archivo Institucional antes de la entrada en vigor de este Acuerdo, su versión electrónica deberá revisarse por la Dirección General, por conducto de la Dirección de Archivos, en conjunto con la Dirección General de Sistemas y el Archivo Jurisdiccional de la respectiva Sala en que se haya generado, dentro de los doce meses siguientes a la emisión del presente Acuerdo, a efecto de corroborar que están digitalizados, y que los archivos electrónicos existentes reúnen las características suficientes que garanticen su preservación y aseguren su disponibilidad, integridad, fiabilidad, autenticidad, consulta y uso; de lo contrario deberá llevarse a cabo su actualización o digitalización por parte del Archivo Jurisdiccional de la Sala respectiva, con la asesoría y asistencia técnica de la Dirección General de Sistemas y con la colaboración de la Dirección de Archivos.
+
+QUINTO. La valoración secundaria de los expedientes judiciales que a la entrada en vigor se hayan transferido al Archivo de Concentración y cuyo plazo de conservación haya concluido de conformidad con el Catálogo de Disposición Documental vigente antes de la entrada en vigor de este Acuerdo General, se realizará por los responsables de los Archivos Jurisdiccionales, con el apoyo de los Archivos de Concentración e Histórico, a fin de analizar y establecer su destino final, para lo cual se atenderá a lo señalado en el referido Catálogo de Disposición Documental.
+
+En cuanto al procedimiento para la eliminación de los que se consideren para baja documental, se procederá en términos de lo previsto en este Acuerdo.
+
+SEXTO. Para su debido conocimiento y cumplimiento, notifíquese a las Salas, a la Visitaduría Judicial y a las demás áreas de este Tribunal y publíquese en el Diario Oficial de la Federación, y en la Gaceta de Jurisprudencia y Tesis en Materia Electoral del Tribunal Electoral del Poder Judicial de la Federación, así como en los estrados de la Sala Superior y en las páginas de este órgano judicial en internet e intranet.
