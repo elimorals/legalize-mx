@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2019-12-30"
+last_updated: "2020-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -921,6 +921,10 @@ XXXII. Vigilancia del Sistema Estatal de Combate a la Corrupción; y
 
 XXXIII. Corredor Interoceánico y Programas de Desarrollo Regional.
 
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2020)</small>
+
+XXXIV. Migración y Asuntos Internacionales.
+
 Dichas Comisiones tendrán la competencia que les corresponde en lo general a las otorgadas a las Dependencias y Entidades de la Administración Pública local, la derivada de su denominación en materia parlamentaria y las que se determinen específicamente en el Reglamento.
 
 Cuando por la naturaleza de la iniciativa o asunto turnado, sea necesario sesionar de manera conjunta con otra u otras comisiones permanentes, éstas deberán ser convocadas de manera conjunta por sus presidentes, en virtud de lo cual sus acuerdos o resoluciones serán aprobadas por mayoría de sus integrantes y sesionarán de conformidad con lo dispuesto en el Reglamento.
@@ -1400,3 +1404,15 @@ P.O. 30 DE DICIEMBRE DE 2019.
 PRIMERO: El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO: Una vez entrado en vigor el presente Decreto, la Secretaría de Servicios Administrativos, en un término de sesenta días naturales emitirá las disposiciones generales, mismas que deberán publicarse en la página electrónica de este H. Congreso del Estado y en el Periódico Oficial del Gobierno.
+
+P.O. 15 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1263.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Estado de Oaxaca.
+
+TERCERO. Los asuntos que conocerá la Comisión Permanente de Migración y Asuntos Internacionales le serán turnados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
