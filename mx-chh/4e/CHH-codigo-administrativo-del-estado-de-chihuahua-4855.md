@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2020-02-12"
+last_updated: "2020-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE FEBRERO DE 2020 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA EL 15 DE FEBRERO DE 2020.]</small>
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -683,21 +683,21 @@ IX.- Hacer las deducciones que solicite el Sindicato, siempre que se ajusten a l
 
 X.- Realizar de manera puntual el pago de salario, prestaciones y aguinaldo a sus trabajadoras y trabajadores.
 
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2020)</small>
+(ADICIONADA, P.O. 5 DE FEBRERO DE 2020) (F. DE E., P.O. 15 DE FEBRERO DE 2020)
 
-X (SIC).- Conceder un día al año, con goce de sueldo, a las trabajadoras y trabajadores para realizarse exámenes de detección oportuna de cáncer, quienes lo deberán solicitar por lo menos con 5 días hábiles de anticipación.
+XI.- Conceder un día al año, con goce de sueldo, a las trabajadoras y trabajadores para realizarse exámenes de detección oportuna de cáncer, quienes lo deberán solicitar por lo menos con 5 días hábiles de anticipación.
 
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2020)</small>
+(ADICIONADA, P.O. 5 DE FEBRERO DE 2020) (F. DE E., P.O. 15 DE FEBRERO DE 2020)
 
-XI.- Otorgar horarios flexibles, reubicación temporal, o bien, autorizar la realización de sus labores fuera del lugar donde preste sus servicios, previa solicitud de quien se encuentre en tratamiento oncológico, sin que ello afecte su salario.
+XII.- Otorgar horarios flexibles, reubicación temporal, o bien, autorizar la realización de sus labores fuera del lugar donde preste sus servicios, previa solicitud de quien se encuentre en tratamiento oncológico, sin que ello afecte su salario.
 
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2020)</small>
+(ADICIONADA, P.O. 5 DE FEBRERO DE 2020) (F. DE E., P.O. 15 DE FEBRERO DE 2020)
 
-XII.- Conceder permisos o licencias, con goce de sueldo, para acudir a citas médicas para el tratamiento de cáncer de sus hijas, hijos o cónyuge, en su caso; el tratamiento destinado al alivio del dolor y cuidados paliativos, con base en la constancia expedida por la institución pública o privada de salud, que precisará las características de la atención requerida y el tiempo que ampare dicho documento.
+XIII.- Conceder permisos o licencias, con goce de sueldo, para acudir a citas médicas para el tratamiento de cáncer de sus hijas, hijos o cónyuge, en su caso; el tratamiento destinado al alivio del dolor y cuidados paliativos, con base en la constancia expedida por la institución pública o privada de salud, que precisará las características de la atención requerida y el tiempo que ampare dicho documento.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2020)</small>
+(ADICIONADO, P.O. 5 DE FEBRERO DE 2020) (F. DE E., P.O. 15 DE FEBRERO DE 2020)
 
-Para efectos de las fracciones X, XI y XII de este artículo, la institución pública o privada de salud, expedirá una constancia u otros documentos que justifiquen la realización de exámenes o tratamientos de cáncer. Así mismo, la información proporcionada se manejará de forma reservada o confidencial en los términos establecidos en la Ley de Transparencia y Acceso a la Información Pública, y la Ley de Protección de Datos Personales, ambos ordenamientos jurídicos del Estado de Chihuahua.
+Para efectos de las fracciones XI, XII y XIII de este artículo, la institución pública o privada de salud, expedirá una constancia u otros documentos que justifiquen la realización de exámenes o tratamientos de cáncer. Así mismo, la información proporcionada se manejará de forma reservada o confidencial en los términos establecidos en la Ley de Transparencia y Acceso a la Información Pública, y la Ley de Protección de Datos Personales, ambos ordenamientos jurídicos del Estado de Chihuahua.
 
 ###### ARTICULO 106.
 
