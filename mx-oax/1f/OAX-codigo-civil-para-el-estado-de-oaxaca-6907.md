@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2019-10-05"
+last_updated: "2020-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -105,7 +105,9 @@ Los bienes inmuebles sitos en el Estado de Oaxaca y los bienes muebles que en é
 
 Los actos jurídicos, en todo lo relativo a su forma, se regirán por las leyes del lugar donde pasen. Sin embargo, los mexicanos o extranjeros residentes fuera del Estado, quedan en libertad de sujetarse a las formas prevenidas por este Código cuando el acto haya de tener ejecución dentro del Estado.
 
-En cuanto a los actos del estado civil ajustados a las leyes de los otros Estados, del Distrito Federal y territorios, tendrán validez en el territorio del Estado de Oaxaca.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2020)</small>
+
+En cuanto a los actos del estado civil ajustados a las leyes de los otros Estados, de la Ciudad de México y territorios, tendrán validez en el territorio del Estado de Oaxaca.
 
 ###### Artículo 14.
 
@@ -175,7 +177,7 @@ Las personas de ambos sexos que no han cumplido dieciocho años, son menores de 
 
 ###### Artículo 24 Bis.
 
-La identidad es un derecho de las personas. Se consideran medios para acreditar la identidad aquellos documentos públicos ya sea en original o copia certificada, expedidos por autoridades competentes, de manera enunciativa y no limitativa (sic) los siguientes:
+La identidad es un derecho de las personas. Se consideran medios para acreditar la identidad aquellos documentos públicos ya sea en original o copia certificada, expedidos por autoridades competentes, de manera enunciativa y no limitativa los siguientes:
 
 I En caso de menores de edad:
 
@@ -1093,11 +1095,11 @@ Cuando el Oficial del Registro Civil sospeche que la muerte fue violenta, dará 
 
 En los casos de inundación, naufragio, incendio o cualquier otro siniestro en que no sea fácil identificar el cadáver, se formará el acta con los datos que ministren los que lo recogieron, expresando en cuanto fuere posible, las señas del mismo y describiendo los vestidos y objetos que con él se hayan encontrado.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 127.
 
-Cuando el Oficial del Registro Civil o quien haga sus veces, reciba la constancia a que se refiere el Artículo 125 del Código Civil del Distrito Federal en vigor sobre la defunción de alguna persona, ocurrida en el mar, procederá a levantar el acta correspondiente, archivando el documento extendido por el Capitán o Patrono de la embarcación y anotándolo con el número que corresponda al acta en el apéndice correspondiente.
+Cuando el Oficial del Registro Civil o quien haga sus veces, reciba la constancia a que se refiere el Artículo 125 del Código Civil de la Ciudad de México en vigor sobre la defunción de alguna persona, ocurrida en el mar, procederá a levantar el acta correspondiente, archivando el documento extendido por el Capitán o Patrono de la embarcación y anotándolo con el número que corresponda al acta en el apéndice correspondiente.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -14275,6 +14277,8 @@ La disolución de la sociedad no modifica los compromisos contraídos con tercer
 
 ### CAPITULO VI. De las asociaciones y de las sociedades extranjeras
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 2609.
 
 Disuelta la sociedad, se pondrá inmediatamente en liquidación, la cual se practicará dentro del plazo de seis meses, salvo pacto en contrario.
@@ -14327,7 +14331,7 @@ Salvo pacto en contrario, los socios industriales no responderán de las pérdid
 
 ###### Artículo 2619.
 
-Para que las asociaciones y las sociedades extranjeras de carácter civil puedan ejercer sus actividades en el territorio del Estado, deberán estar autorizadas por la Secretaría de Relaciones Exteriores, de acuerdo con las disposiciones de los artículos 2742 y 2737 del Código Civil para el Distrito Federal y Territorios y no contrariarán las leyes locales.
+Para que las asociaciones y las sociedades extranjeras de carácter civil puedan ejercer sus actividades en el territorio del Estado, deberán estar autorizadas por la Secretaría de Relaciones Exteriores, de acuerdo con las disposiciones de los artículos 2742 y 2737 del Código Civil para la Ciudad de México y Territorios y no contrariarán las leyes locales.
 
 ###### Artículo 2620.
 
@@ -16816,3 +16820,11 @@ P.O. 5 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 777.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1195.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 13, Y LOS ARTÍCULOS 127 Y 2619 TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Estado de Oaxaca.
+
+SEGUNDO. Se derogan todos los preceptos legales contemplados en cualquier otro ordenamiento legal de igual o menor rango y que se opongan a las disposiciones del presente Decreto.
