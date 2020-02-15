@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2019-12-28"
+last_updated: "2020-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -528,6 +528,10 @@ XXI.- Elaborar y presentar ante el Congreso del Estado a más tardar el último 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
 XXII. Presentar por conducto del Presidente Municipal al Órgano Superior de Fiscalización del Estado de Oaxaca, la Cuenta Pública del año anterior, a más tardar el último día hábil del mes de febrero, y en el año que concluya su mandato, conforme a los plazos y procedimientos establecidos legalmente. Asimismo, entregar los informes y demás datos que les sean solicitados de conformidad con lo establecido en las leyes aplicables.
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2020)</small>
+
+XXII Bis.- Dar cuenta al Órgano Superior de Fiscalización del Estado de Oaxaca, de los recursos entregados y ejecutados a todas y cada una de las Agencias Municipales de Policía, de cada ejercicio fiscal de conformidad con la normatividad aplicable.
 
 > <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
 
@@ -1253,9 +1257,9 @@ VII.- Asumir la representación jurídica del ayuntamiento en los litigios, a fa
 
 VIII.- Informar a la población en sesión pública y solemne que deberá celebrarse dentro de los primeros quince días del mes de diciembre de cada año, sobre el estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio. En los Municipios que se rigen por usos y costumbres, los informes a que se refiere esta fracción, se realizarán en las fechas y de acuerdo a la que sus tradiciones determinen;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2020)</small>
 
-IX.- Proponer al ayuntamiento los proyectos de Ley de Ingresos y Presupuesto de Egresos atendiendo a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, así como a los presupuestos realizados por las comisiones de conformidad con la fracción VII del artículo 55 de esta Ley;
+IX.- Proponer al Ayuntamiento los proyectos de Ley de Ingresos y del Presupuesto de Egresos atendiendo a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, así como a los presupuestos realizados por las comisiones, de conformidad con la fracción VII del artículo 55 de esta Ley y 24 de la Ley de Coordinación Fiscal para el Estado de Oaxaca;
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
 
@@ -1565,9 +1569,11 @@ IX.- Participar en el Concejo de Desarrollo Social Municipal para la priorizaci�
 
 X.- Las demás que le señalen las leyes, reglamentos o acuerdos del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2020)</small>
+
 ###### ARTÍCULO 81.
 
-Las autoridades auxiliares no podrán administrar más recursos que los recibidos para los gastos de administración y funcionamiento de sus oficinas. No podrán ejecutar obras en forma directa, salvo las que autorice el Ayuntamiento.
+Las autoridades auxiliares no podrán administrar más recursos que los recibidos para los gastos de administración y funcionamiento de sus oficinas. No podrán ejecutar obras en forma directa, salvo las que autorice el Ayuntamiento. El Presupuesto de Egresos Municipal deberá de contemplar los montos asignados a las Agencias Municipales y de Policía, de conformidad con lo dispuesto por el artículo 24 de la Ley de Coordinación Fiscal para el Estado de Oaxaca.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JUNIO DE 2018)</small>
 
@@ -1770,6 +1776,10 @@ e) El cobro de los tributos, recargos, intereses y multas federales o estatales 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
 
 VI.- Proponer al Presidente Municipal en tiempo y forma los anteproyectos de la Ley de Ingresos y del Presupuesto de Egresos atendiendo a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez;
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
+
+Para los efectos del párrafo anterior el Tesorero deberá observar lo establecido en el artículo 24 de la Ley de Coordinación Fiscal para el Estado de Oaxaca, estableciendo de manera clara el monto de los recursos que serán asignados a las Agencias Municipales y de Policía;
 
 VII.- Ejercer el presupuesto de egresos, y efectuar los pagos invariablemente en forma mancomunada con el Presidente Municipal, de acuerdo a los presupuestos aprobados por el Ayuntamiento;
 
@@ -2269,9 +2279,15 @@ III.- Pagos de pasivos a deuda pública que realicen la administración pública
 
 IV.- Subsidios, donaciones; estímulos, transferencias y demás conceptos de gasto que se otorguen a asociaciones, patronatos e instituciones de beneficencia pública y privada y demás organismos similares a éstos;
 
-V.- La aplicación de las participaciones federales de acuerdo con lo dispuesto en la Ley de Coordinación Fiscal para el Estado de Oaxaca; y
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2020)</small>
 
-VI.- Las demás erogaciones que considere el Ayuntamiento necesarias para el beneficio del Municipio.
+V.- La aplicación de las participaciones federales de acuerdo con lo dispuesto en la Ley de Coordinación Fiscal para el Estado de Oaxaca;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2020)</small>
+
+VI.- Deberá establecer de manera clara el monto de los recursos que serán asignados a las Agencias Municipales y de Policía, y;
+
+VII.- Las demás erogaciones que considere el Ayuntamiento necesarias para el beneficio del Municipio.
 
 Las modificaciones que sufra el Presupuesto de Egresos en los conceptos generales a que se refiere este artículo, seguirán el mismo procedimiento que para su aprobación.
 
@@ -3650,3 +3666,9 @@ P.O. 28 DE DICIEMBRE DE 2019.
 PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1204.- MEDIANTE EL CUAL REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
