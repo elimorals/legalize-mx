@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2019-11-23"
+last_updated: "2020-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4311,15 +4311,55 @@ IV.- El sacrificio de un animal vertebrado para consumo humano.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
-### CAPITULO SEGUNDO. De la Privación de la Vida
+### CAPITULO UNICO.. DELITOS CONTRA LA SEGURIDAD INFORMÁTICA Y ELECTRÓNICA
 
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
 
-420.- Se castigará con cárcel de seis meses a cuatro años y con multa de 500 a 1500 días de salario a quien:
+434.- Comete el delito de defraudación informática y se le impondrán de cuatro meses a cuatro años de prisión y multa de setenta a ciento veinte veces el valor diario de la unidad de medida y actualización vigente, a quien:
 
-I. Dolosamente prive de la vida a un animal vertebrado.
+I. Sin autorización, altere, modifique, borre, destruya o disponga de datos o información contenida en un sistema informático o electrónico ajeno.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
+II. Transmita a una o más personas o divulgue, por cualquier medio, datos o información contenida en un sistema informático o electrónico, sin el consentimiento de quien tenga derecho a disponer de los mismos.
+
+Si el que cometiere cualquiera de las conductas establecidas en este artículo, fuere administrador de la red, las penas se aumentarán en una cuarta parte de su mínimo y su máximo.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
+
+435.- Comente el delito de intrusión informática, el que intercepte, interfiera o acceda a la información contenida en un sistema informático o electrónico, sin derecho y sin autorización de quien debe darlo; a quien cometa este delito se le impondrá la pena de uno a tres años de prisión y multa de cien a ciento treinta veces el valor diario de la unidad de medida y actualización vigente.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
+
+436.- En los supuestos del artículo anterior, si existiere respaldo o copia de los datos o información interceptados o a los que se accedió, sólo se impondrá al actor, de dos meses a dos años de prisión y multa de quinientos a mil veces la unidad de medida y actualización vigente; quedando éste obligado, en su caso, a entregar a la víctima u ofendidos, el medio electrónico en que hubiere guardado la información obtenida, o a borrar la información ilegalmente obtenida.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
+
+437.- Al que diseñe, programe, fabrique, introduzca, importe, exporte, comercialice o distribuya programas de cómputo, dispositivos o mecanismos electrónicos, aparatos, sistemas, códigos de acceso o cualquier dispositivo físico, que tenga por objeto violar uno o más mecanismos de seguridad de equipos informáticos, se le impondrán de seis meses a cuatro años de prisión y de doscientos (sic) a quinientas veces la unidad de medida y actualización vigente.
+
+La pena se aumentará hasta en una cuarta parte de su mínimo y de su máximo, si como consecuencia, se afectaran los datos contenidos en el sistema.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
+
+438.- Al que destruya datos contenidos en un sistema informático o electrónico, a través de la introducción de algún virus; se le impondrá de cinco a diez años de prisión y multa de quinientas a mil veces la unidad de medida y actualización vigente.
+
+Si el activo es el fabricante del mismo, se le aumentará la pena en dos terceras partes de la mínima y máxima establecidas en el párrafo anterior.
+
+Para los efectos de este artículo se entiende por virus, el software malicioso que, una vez instalado en una computadora puede destruir los datos almacenados.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
+
+439.- En caso de concurso de delitos se estará a lo dispuesto por los Artículos 68 y 69 de este Código.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
+
+440.- Las penas previstas en los artículos de este Título, se duplicarán:
+
+I. Cuando las conductas delictivas se ejecuten contra sistemas, equipos u otros dispositivos informáticos o electrónicos del Estado o Municipios;
+
+II. Cuando las conductas delictivas sean realizadas por persona o personas que hayan sido autorizadas para acceder a sus sistemas, equipos u otros dispositivos informáticos o electrónicos, por el Estado o Municipio, siendo cualquiera de estos, el pasivo;
+
+III. Cuando los datos o información contenida en un sistema informático o electrónico, se refieran a datos personales o datos personales sensibles, en términos de lo dispuesto por la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
+
+ARTICULOS TRANSITORIOS:
 
 ### CAPÍTULO TERCERO. Del Abuso Sexual a los Animales
 
@@ -4433,7 +4473,11 @@ El conocimiento de la actividad delictiva y la existencia de la misma se acredit
 
 433.- Procederá Igualmente la reducción de la pena señalada en el artículo precedente por la comisión de los delitos descritos en el presente título si la persona imputada por los mismos aporta información suficiente y eficaz para la recuperación de los recursos, derechos o bienes producto, objeto o instrumento de dichos delitos. El beneficio de la reducción de la pena se hará efectivo en tanto hubiese concluido satisfactoriamente el procedimiento correspondiente de recuperación patrimonial.
 
-ARTICULOS TRANSITORIOS:
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE FEBRERO DE 2020)</small>
+
+## TITULO VIGESIMO SEPTIMO.
+
+> <small>(ADICIONADO LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 1o.
 
@@ -4857,6 +4901,32 @@ NOVENO. En un período no mayor a ciento ochenta días contados a partir de la e
 
 DÉCIMO. A fin de dar cumplimiento a las atribuciones que se establecen en esta Ley, la Comisión Ejecutiva Estatal de Atención a Víctimas, realizará las adecuaciones a su Estatuto Orgánico y demás normatividad interna que sea necesaria. así como al fideicomiso que administra los recursos del Fondo de Ayuda, Asistencia y Reparación Integral, dentro del plazo del ciento ochenta días contados a partir de su entrada en vigor.
 
+P.O. 12 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1459.- MEDIANTE EL CUAL SE EXPIDE LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS DEL ESTADO DE OAXACA.
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se abroga la Ley para Prevenir Sancionar y Erradicar los Delitos en materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos delitos en el Estado de Oaxaca, aprobada mediante decreto número 1251 de fecha 6 de junio de 2012 y publicada el 22 de junio de 2012.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía a la presente Ley vigentes en el Estado.
+
+CUARTO. El Titular del Poder Ejecutivo del Estado de Oaxaca, contará con el plazo de sesenta días, contados a partir de la entrada en vigor de la presente Ley, para crear la Comisión Intersecretarial para Prevenir, Combatir y Sancionar los Delitos en Materia de Trata de Personas.
+
+QUINTO. El ejecutivo del Estado establecerá un fondo para la protección y asistencia a las víctimas de los delitos previstos en la presente Ley.
+
+Hasta en tanto no se integre el Fondo a que se refiere la presente Ley se seguirá aplicando el Fondo de Ayuda, Asistencia y Reparación Integral en el Estado de Oaxaca al que se refiere la Ley de Víctimas del Estado de Oaxaca.
+
+SEXTO. La Comisión Intersecretarial para Prevenir, Combatir y Sancionar los Delitos en Materia de Trata de Personas, una vez creada, contará con el término de noventa días para elaborar su Reglamento Interno.
+
+SÉPTIMO. La Fiscalía General del Estado contará con un plazo de noventa días posteriores a la fecha en que el presente Decreto entre en vigor, para crear y operar su Fiscalía Especializada para la investigación del delito de trata de personas, salvo en los casos que por falta de recursos suficientes deban ser ejercidas por la unidad administrativa especializada correspondiente.
+
+OCTAVO. Las disposiciones relativas a los delitos a que se refiere esta Ley previstas en el Código Penal para el Estado Libre y Soberano de Oaxaca vigentes hasta la entrada en vigor de la presente Ley, seguirán aplicándose por los hechos realizados durante su vigencia. Así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+NOVENO. La Fiscalía General del Estado de Oaxaca, capacitará a su personal en materia de planeación de investigación dentro de los ciento ochenta días siguientes a la entrada en vigor de la presente Ley.
+
+DÉCIMO. La Fiscalía General del Estado de Oaxaca, contará con el término de ciento ochenta días naturales para la implementación de los programas a que se refiere esta Ley, en coordinación con la Secretaría General de Gobierno y demás entes intervinientes.
+
 P.O. 16 DE JUNIO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1395.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA.]
@@ -5078,3 +5148,11 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 812.- MEDIANTE EL CUAL ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Estado de Oaxaca. Publíquese.
+
+P.O. 15 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1194.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día de su aprobación.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
