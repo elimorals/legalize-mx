@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-planeacion-del-estado-de-oaxaca-112059"
 country: "mx"
 rank: "ley"
 publication_date: "2016-01-09"
-last_updated: "2018-11-10"
+last_updated: "2020-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE PLANEACIÓN DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de enero de 2016.
 
@@ -939,9 +939,17 @@ I. Preinversión;
 
 II. Evaluación Ex-ante;
 
-III. Programación y ejecución, y
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2020)</small>
 
-IV. Evaluación Ex-post.
+III. Programación y presupuesto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE FEBRERO DE 2020)</small>
+
+IV. Ejecución, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE FEBRERO DE 2020)</small>
+
+V. Evaluación Ex-post.
 
 El ciclo de la Inversión Pública incorpora las siguientes actividades: priorización, formulación, control, seguimiento y evaluación de los proyectos de inversión financiados con recursos públicos.
 
@@ -1011,9 +1019,17 @@ La Secretaría preparará informes periódicos de autorización financiera de lo
 
 Los Poderes Legislativo, Judicial y Órganos autónomos emitirán sus respectivos informes por conducto de sus Áreas de administración.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 92.
 
-La implementación del Sistema de Inversión Pública, así como la programación, autorización y presupuestación de la Inversión Pública del Estado estará a cargo de la Secretaría.
+La implementación del Sistema de Inversión Pública estará a cargo de la Secretaría. Asimismo, corresponde a la Secretaría la autorización, programación y presupuestación de los proyectos de Inversión Pública del Estado de manera previa a su ejecución.
+
+La ejecución de la Inversión Pública es responsabilidad exclusiva de las dependencias y entidades a cargo de los proyectos de inversión pública correspondientes. Dichos ejecutores de gasto están obligados a rendir cuentas sobre el avance físico y financiero de los proyectos de inversión pública a su cargo y el uso de los recursos públicos correspondientes.
+
+El seguimiento de dicho proyectos (sic) durante su ejecución, se realizará en el seno de la Comisión a que se refiere el artículo 16 de la Ley de Obras Públicas y Servicios Relacionados del Estado de Oaxaca.
+
+La Contraloría podrá, en todo momento, revisar y auditar los avances de la ejecución física y financiera de los proyectos de inversión pública.
 
 ###### Artículo 93.
 
@@ -1145,7 +1161,9 @@ Corresponde a la Secretaría, como autoridad del SED:
 
 I. Realizar semestralmente la evaluación económica de los ingresos y egresos en función de los calendarios de presupuesto de las dependencias y entidades;
 
-II. Establecer el seguimiento de la situación física y financiera de los proyectos de inversión autorizados;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2020)</small>
+
+II. Establecer los formatos y procedimiento que deberán utilizar los ejecutores de gasto para reportar la situación física y financiera de los proyectos de inversión autorizados, para efectos de su seguimiento, evaluación y fiscalización por las autoridades competentes. El contenido de dichos reportes es de la estricta responsabilidad del ejecutor del proyecto de inversión correspondiente;
 
 III. Determinar las adecuaciones presupuestarias que procedan con base en los resultados de las evaluaciones de desempeño realizadas por la Instancia Técnica de Evaluación, y
 
@@ -1352,3 +1370,15 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+P.O. 15 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1192.- MEDIANTE EL CUAL SE REFORMAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PLANEACIÓN; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO. En un término de 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán expedir los formatos y procedimientos a que hace referencia la fracción II del artículo 102 de la Ley Estatal de Planeación.
