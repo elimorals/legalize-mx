@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-obras-publicas-y-servicios-relacionados-del-estado-24656
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-11"
-last_updated: "2019-12-30"
+last_updated: "2020-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de septiembre del 2001.
 
@@ -221,11 +221,11 @@ Las atribuciones conferidas a la Contraloría en esta Ley, serán ejercidas por 
 
 Las controversias que se susciten con motivo de la interpretación y aplicación de esta Ley o de los contratos celebrados, serán resueltas por el Honorable Tribunal Superior de Justicia del Estado, en los términos de la Ley Orgánica del Poder Judicial del Estado de Oaxaca. Para la resolución de las controversias se aplicará el procedimiento sumario contemplado en el Código de Procedimientos Civiles del Estado, en lo que no se oponga a la naturaleza de las disposiciones de esta Ley.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 16.
 
-Se crea la Comisión Estatal Consultiva de la Obra Pública, como órgano normativo, de asesoría, consulta técnica para la realización de la obra pública; integrándose bajo la siguiente estructura: Un Presidente, que será el Titular del Poder Ejecutivo; un Secretario Técnico del Gobierno, que será el Secretario de las Infraestructuras y del Ordenamiento Territorial Sustentable; contará además con representantes permanentes del COPLADE, de las Secretarías de Administración, Finanzas y de la Contraloría, Instituto Estatal de Ecología, y de las Cámaras y Colegios respectivos. La Comisión convocará a sus sesiones a representantes de otras Dependencias y Entidades, del sector social y privado organizados en asociaciones que tengan personalidad legal, cuando por la naturaleza de los asuntos que se deban tratar se justifique su participación. Para la validez y eficacia de las sesiones deberá encontrarse presente el titular de la Secretaría de la Contraloría.
+La Comisión Estatal Consultiva de la Obra Pública, es un órgano normativo, de asesoría y consulta técnica para el seguimiento de la ejecución de la obra pública; integrándose bajo la siguiente estructura: un Presidente que será el Secretario de las Infraestructuras y el Ordenamiento Territorial Sustentable, y contará además con representantes permanentes del COPLADE, de las Secretarías de Administración, Finanzas y de la Contraloría.
 
 ## TITULO SEGUNDO. DE LAS (SIC) PLANEACION, PROGRAMACION Y PRESUPUESTACION DE LA OBRA
 
@@ -1562,3 +1562,15 @@ P.O. 30 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 864.- MEDIANTE EL CUAL REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Oaxaca.
+
+P.O. 15 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1192.- MEDIANTE EL CUAL SE REFORMAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PLANEACIÓN; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO. En un término de 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán expedir los formatos y procedimientos a que hace referencia la fracción II del artículo 102 de la Ley Estatal de Planeación.
