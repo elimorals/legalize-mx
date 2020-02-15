@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-presupuesto-y-responsabilidad-hacendaria-del-848
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2019-12-24"
+last_updated: "2020-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -1219,11 +1219,11 @@ Las dependencias y entidades que no puedan cubrir la totalidad de las obligacion
 
 Los Poderes Legislativo, Judicial y los Órganos Autónomos, en caso de ser necesario, establecerán una propuesta de cumplimiento de obligaciones, observando en lo conducente lo dispuesto en los párrafos segundo y tercero de este artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 43.
 
-El ejercicio de recursos previstos en el gasto de inversión aprobado en el Presupuesto de Egresos se autorizará por la Secretaría.
+El ejercicio de recursos previstos en el gasto de inversión aprobado en el Presupuesto de Egresos será responsabilidad exclusiva de la unidad ejecutora a cargo del programa o proyecto de inversión correspondiente, la cual deberá contar con la previa autorización presupuestaria de la Secretaría, así como rendir cuentas sobre el avance físico y financiero de los programas y proyectos en términos de esta Ley y la Ley Estatal de Planeación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1273,7 +1273,9 @@ III. Identifiquen el gasto corriente o de capital correspondiente; y
 
 IV. Desglosen el gasto a precios del año tanto para el ejercicio fiscal correspondiente, como para los subsecuentes.
 
-Las dependencias y entidades requerirán la autorización presupuestaria de la Secretaría para la celebración de los contratos a que se refiere este artículo en los términos del Reglamento.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2020)</small>
+
+Las dependencias y entidades requerirán la autorización presupuestaria a que se refiere este artículo, en los términos del Reglamento, de manera previa a que inicien el procedimiento de contratación correspondiente.
 
 Las dependencias y entidades deberán informar a la Contraloría sobre la celebración de los contratos a que se refiere este artículo, dentro de los 30 días posteriores a su formalización.
 
@@ -2134,3 +2136,15 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinte, previa publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 15 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1192.- MEDIANTE EL CUAL SE REFORMAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PLANEACIÓN; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO. En un término de 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán expedir los formatos y procedimientos a que hace referencia la fracción II del artículo 102 de la Ley Estatal de Planeación.
