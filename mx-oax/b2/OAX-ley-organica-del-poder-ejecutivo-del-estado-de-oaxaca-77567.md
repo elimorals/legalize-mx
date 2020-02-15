@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2019-05-15"
+last_updated: "2020-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -161,7 +161,9 @@ Además de lo dispuesto en los párrafos que anteceden, los titulares de las dep
 
 Para la programación, presupuestación, control, supervisión y evaluación de los proyectos de inversión, las Dependencias y Entidades responsables de la ejecución de programas, se coordinarán con las Secretarías de: Finanzas, Administración, y de la Contraloría y Transparencia Gubernamental, así como, con las demás dependencias, y entidades que guarden relación en el ámbito de sus atribuciones.
 
-Las Dependencias y Entidades son responsables de formular los proyectos y programas de inversión de su competencia y realizar los estudios de preinversión necesarios para su evaluación, validación y autorización.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2020)</small>
+
+Las Dependencias y Entidades son responsables de formular los proyectos y programas de inversión de su competencia y realizar los estudios de preinversión necesarios para su evaluación, validación y autorización. Asimismo, serán responsables exclusivos de su ejecución, con base en los recursos que les hayan sido aprobados.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
@@ -487,7 +489,7 @@ XXXV. (DEROGADA, P.O. 24 DE ABRIL DE 2017)
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
-XXXVI. Coordinar la integración, establecimiento y funcionamiento de las Juntas Local (sic) de Conciliación y Arbitraje, y de Arbitraje para los Empleados al Servicio de los Poderes del Estado, así como, de las comisiones que se formen para regular las relaciones obrero patronales de jurisdicción estatal y vigilar su funcionamiento conforme a la Ley Federal del Trabajo.
+XXXVI. Coordinar la integración, establecimiento y funcionamiento de las Juntas Local de Conciliación y Arbitraje, y de Arbitraje para los Empleados al Servicio de los Poderes del Estado, así como, de las comisiones que se formen para regular las relaciones obrero patronales de jurisdicción estatal y vigilar su funcionamiento conforme a la Ley Federal del Trabajo.
 
 Se evaluará anualmente el funcionamiento de estas Juntas y se propondrán las medidas que procedan, así como coordinar las instancias públicas de la defensa del trabajo en la Entidad;
 
@@ -1243,9 +1245,9 @@ II. Realizar las proyecciones financieras que permitan la formulación de los in
 
 III. Coadyuvar con la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca para definir la visión estratégica estatal de mediano y largo plazo, conforme a la fracción II del artículo 49 Bis de la presente Ley;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2020)</small>
 
-IV. Establecer el seguimiento de la situación física y financiera de los proyectos de inversión autorizados a las Dependencias y Entidades de la Administración Pública;
+IV. Establecer los formatos y procedimiento que deberán utilizar los ejecutores de gasto para reportar la situación física y financiera de los proyectos de inversión autorizados, para efectos de su seguimiento, evaluación y fiscalización por las autoridades competentes. El contenido de dichos reportes es de la estricta responsabilidad del ejecutor del proyecto de inversión correspondiente;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
@@ -1259,9 +1261,9 @@ VI. Autorizar las adecuaciones presupuestarias siempre que permitan un mejor cum
 
 VII. Participar en la concertación de recursos con los Sectores y/o Ayuntamientos en coordinación con la Secretaría General de Gobierno y la Coordinación General del COPLADE;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2020)</small>
 
-VIII. Autorizar, programar y presupuestar la inversión pública del Estado;
+VIII. Autorizar, programar, presupuestar, los proyectos de inversión pública del Estado, de manera previa a su ejecución;
 
 IX. Formular y coordinar el programa estatal de financiamiento para el desarrollo, con base en los principios de eficiencia, honestidad, equidad de género y sentido social;
 
@@ -3332,3 +3334,15 @@ P.O. 15 DE MAYO DE 2019.
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. El presente Decreto entrará en vigor al 01 de Diciembre de 2022.
+
+P.O. 15 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1192.- MEDIANTE EL CUAL SE REFORMAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PLANEACIÓN; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno. del Estado.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO. En un término de 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán expedir los formatos y procedimientos a que hace referencia la fracción II del artículo 102 de la Ley Estatal de Planeación.
