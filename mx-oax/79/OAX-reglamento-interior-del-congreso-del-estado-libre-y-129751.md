@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2019-11-09"
+last_updated: "2020-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -990,6 +990,18 @@ XXXIII. Corredor Interoceánico y Programas de Desarrollo Regional; le correspon
 a. Conocerá de los planes y programas que tengan como fin impulsar el crecimiento económico regional y el desarrollo sostenible de los diversos programas y modelos en la materia.
 
 b. Las demás que les confiera este Reglamento, las leyes aplicables o los acuerdos Parlamentarios y las que correspondan a su denominación.
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2020)</small>
+
+XXXIV. Migración y Asuntos Internacionales; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+
+a. Lo relativo a reformas de leyes tendientes a la creación de instituciones o programas de desarrollo económico y social en materia de migración;
+
+b. Vigilar y dictaminar los asuntos relativos a la procuración e impartición de justicia para los migrantes oaxaqueños, dentro y fuera del país;
+
+c. Coadyuvar en la tutela de los derechos de todos los migrantes establecidos en la Constitución, convenios internacionales y demás leyes relativas;
+
+d. Las demás que le confiera este Reglamento, las leyes aplicables, los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
 ###### ARTÍCULO 43.
 
@@ -2714,3 +2726,15 @@ SEGUNDO. Todos los asuntos turnados a la actual Comisión Permanente de Zonas Ec
 TERCERO. La integración y estructura de la Comisión Permanente del Corredor Interoceánico y Programas de Desarrollo Regional se mantendrá de la misma manera que la Comisión Permanente de Zonas Económicas Especiales.
 
 CUARTO. Se derogan todas las disposiciones jurídicas de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 15 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1263.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Estado de Oaxaca.
+
+TERCERO. Los asuntos que conocerá la Comisión Permanente de Migración y Asuntos Internacionales le serán turnados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
