@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2019-08-24"
+last_updated: "2020-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -155,9 +155,11 @@ El tercero obligado a la evicción deberá ser citado a juicio antes de que conc
 
 El tercero que, aduciendo derecho propio, intente excluir los derechos del actor y demandado, o los del primero solamente, tiene la facultad de concurrir al pleito, aun cuando ya esté dictada sentencia ejecutoria.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 24.
 
-Las acciones del estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, emancipación, tutela, adopción, divorcio y ausencia, o atacar el contenido de las constancias del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de acciones del estado civil perjudican aun a los que no litigaron.
+Las acciones del estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, emancipación, tutela, adopción, concubinato, divorcio y ausencia, o atacar el contenido de las constancias del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de acciones del estado civil perjudican aun a los que no litigaron.
 
 Las acciones del estado civil fundadas en la posesión de estado, producirán el efecto de que se ampare o restituya a quien la disfrute contra cualquier perturbador.
 
@@ -2367,7 +2369,9 @@ I. Los testimonios de las escrituras públicas otorgados con arreglo a derecho y
 
 II. Los documentos auténticos expedidos por funcionarios que desempeñen cargo público en lo que se refiera al ejercicio de sus funciones;
 
-III. Los documentos auténticos, libros de actas, estatutos, registros y catastros que se hallen en los archivos públicos o dependientes del Gobierno General, de los particulares de los Estados, del Distrito Federal o Territorios o de los Ayuntamientos;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2020)</small>
+
+III. Los documentos auténticos, libros de actas, estatutos, registros y catastros que se hallen en los archivos públicos o dependientes del Gobierno General, de los particulares de los Estados, de la Ciudad de México o Territorios o de los Ayuntamientos;
 
 IV. Los certificados de actas del estado civil expedidos por los oficiales del Registro Civil, respecto a constancias existentes en los libros correspondientes;
 
@@ -7220,3 +7224,17 @@ P.O. 24 DE AGOSTO DE 2019.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1196.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 316 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1197.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 24 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Estado de Oaxaca.
+
+SEGUNDO. Se derogan todos los preceptos legales contemplados en cualquier otro ordenamiento legal de igual o menor rango y que se opongan a las disposiciones del presente Decreto.
