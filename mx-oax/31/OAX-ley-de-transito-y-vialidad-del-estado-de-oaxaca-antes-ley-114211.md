@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-y-vialidad-del-estado-de-oaxaca-antes-ley-11421
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2019-12-30"
+last_updated: "2020-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "OAX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY DE TRÁNSITO, MOVILIDAD Y VIALIDAD DEL ESTADO DE OAXACA
+LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -43,7 +43,9 @@ D E C R E T A :
 
 Se expide la Ley de Tránsito, Movilidad y Vialidad del Estado de Oaxaca, para quedar como sigue:
 
-LEY DE TRÁNSITO, MOVILIDAD Y VIALIDAD DEL ESTADO DE OAXACA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE FEBRERO DE 2020)</small>
+
+LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA.
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
@@ -1210,3 +1212,11 @@ P.O. 30 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 869.- MEDIANTE EL CUAL REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO, MOVILIDAD Y VIALIDAD DEL ESTADO DE OAXACA”.]
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1262.- MEDIANTE EL CUAL SE MODIFICA EL NOMBRE DE LA LEY DE TRÁNSITO, MOVILIDAD Y VIALIDAD DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Todas las disposiciones legales vigentes que hagan referencia a la Ley de Tránsito, Movilidad y Vialidad del Estado de Oaxaca, se entenderán que se refieren a la Ley de Tránsito y Vialidad del Estado de Oaxaca, de igual manera, las facultades establecidas a las autoridades en materia de Ley de Tránsito, Movilidad y Vialidad del Estado de Oaxaca, continuaran vigentes y se entenderán que se refieren a la Ley de Tránsito y Vialidad del Estado de Oaxaca.
