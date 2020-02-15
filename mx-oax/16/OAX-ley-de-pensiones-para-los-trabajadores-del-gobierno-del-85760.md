@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pensiones-para-los-trabajadores-del-gobierno-del-85760"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-28"
-last_updated: "2013-11-28"
+last_updated: "2020-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PENSIONES PARA LOS TRABAJADORES DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 28 de enero de 2012.
 
@@ -367,9 +367,11 @@ Si el fallecimiento del trabajador, jubilado o pensionado ocurre como consecuenc
 
 Los divorciados, hombres o mujeres, no tendrán derecho a la pensión del que antes haya sido su cónyuge.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2020)</small>
+
 ###### ARTÍCULO 49.
 
-La condena judicial a pagar alimentos a favor del ex cónyuge, dará derecho a esta a percibir la pensión en la parte proporcional que corresponda de acuerdo con la sentencia respectiva, solo mientras viva el ex cónyuge.
+La condena judicial a pagar alimentos a favor del ex conyugue (sic) o ex concubino (a), dará derecho a esta a percibir la pensión en la parte proporcional que corresponda de acuerdo con la sentencia respectiva, siempre y cuando no se encuentre en alguno de los supuestos establecidos en la fracción VII del artículo 332 del Código Civil para el Estado de Oaxaca.
 
 ### CAPÍTULO VII. DEL PAGO DE LAS PENSIONES
 
@@ -924,3 +926,9 @@ C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ
 P.O. 28 DE NOVIEMBRE DE 2013.
 
 ÚNICO.- El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado de Oaxaca y entrará en vigor el primero de enero del año dos mil catorce.
+
+P.O. 15 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1264.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 49 DE LA LEY DE PENSIONES PARA LOS TRABAJADORES DEL GOBIERNO DEL ESTADO DE OAXACA”.]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
