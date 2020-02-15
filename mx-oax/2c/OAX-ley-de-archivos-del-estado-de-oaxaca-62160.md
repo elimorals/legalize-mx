@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-archivos-del-estado-de-oaxaca-62160"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-19"
-last_updated: "2012-03-10"
+last_updated: "2020-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE ARCHIVOS DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE ARCHIVOS PARA EL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 15 DE FEBRERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ARCHIVOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 19 de julio de 2008.
 
@@ -558,3 +560,29 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El cambio en la integración del Consejo Estatal de Archivos deberá realizarse dentro de los 30 días posteriores a la integración de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales. Por única ocasión, los periodos de los consejeros durarán el tiempo necesario para concluir sus responsabilidades dentro de los plazos marcados en la reforma del artículo 36 de la Ley de Archivos del Estado de Oaxaca, contenida en el artículo quinto de este decreto.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 15 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1193.- MEDIANTE EL CUAL APRUEBA LA LEY DE ARCHIVOS PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se abroga la Ley de Archivos del Estado de Oaxaca publicada en el Periódico Oficial el día 3 (sic) de julio de 2008 y su última reforma.
+
+CUARTO. El Archivo General (sic) Estado de Oaxaca continuará operando con la estructura, Decreto de Creación, Reglamento Interno, Manual de Organización y Manual de Procedimientos con que cuenta a la fecha de la publicación de la presente, por considerarse que no contraviene lo dispuesto por esta Ley.
+
+QUINTO. En tanto se expidan las normas archivísticas correspondientes se continuará aplicando lo dispuesto en el Reglamento de los Archivos del Poder Ejecutivo del Estado de Oaxaca y en los Lineamientos para la organización, conservación y custodia de los archivos de la Administración Pública Estatal de Oaxaca, en lo que no se oponga a la presente Ley.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley para los sujetos obligados, se cubrirán con cargo a sus respectivos presupuestos aprobados para el presente ejercicio fiscal y los subsecuentes.
+
+SÉPTIMO. Dentro de los 60 días siguientes a la entrada en vigor del presente decreto, el Archivo General del Estado de Oaxaca, deberá convocar a sesión de instalación del Consejo Estatal de Archivos del Estado de Oaxaca, en términos del presente Decreto.
+
+OCTAVO. El Archivo General del Estado de Oaxaca pondrá en operación el Registro Estatal de Archivos.
+
+NOVENO. Aquellos documentos que se encuentren en los archivos de concentración de los sujetos obligados y que antes de la entrada en vigor de la presente Ley no han sido organizados y valorados, se les deberá aplicar estos procesos técnicos archivísticos, con el objetivo de identificar el contenido y carácter de la información y determinar su disposición documental.
+
+DÉCIMO. Los documentos transferidos al Archivo Histórico del Archivo General del Estado de Oaxaca, antes de la entrada en vigor de la Ley, permanecerán en dicho archivo y deberán ser identificados, ordenados, descritos y clasificados archivísticamente, con el objetivo de identificar el contenido y carácter de la información, así como para promover el uso y difusión favoreciendo la divulgación e investigación.
+
+DÉCIMO PRIMERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
