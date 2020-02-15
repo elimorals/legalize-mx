@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-etica-del-servidor-publico-del-poder-judicial-del-743
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-17"
-last_updated: "2009-10-17"
+last_updated: "2020-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE ETICA DEL SERVIDOR PUBLICO DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 15 DE FEBRERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL SERVIDOR PÚBLICO DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2020 (ABROGADO).
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 17 de octubre de 2009.
 
@@ -380,3 +382,19 @@ Que este acuerdo General Conjunto, fue emitido por los Plenos, en Sesión Extrao
 LIC. ANDRES MADRIGAL SANCHEZ.
 
 LIC. ROBERTO A. PRIEGO PRIEGO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+SEGUNDO. Se abroga el Código de Ética del Servidor Público del Poder Judicial del Estado de Tabasco, publicado en el Sup. B: 7003 del Periódico Oficial del Gobierno del Estado de Tabasco del diecisiete de octubre de dos mil nueve.
+
+TERCERO. A la fecha de la entrada en vigor del Código de Ética del Poder Judicial del Estado de Tabasco, todas las menciones al Código de Ética del Servidor Público del Poder Judicial del Estado de Tabasco abrogado, realizadas en los procedimientos administrativos en cualesquiera de sus etapas -investigación, procedimiento, sentencia y ejecución- se entenderán referidas al presente Código de Ética del Poder Judicial del Estado de Tabasco.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente Código de Ética del Poder Judicial del Estado de Tabasco.
+
+QUINTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Tabasco, en el Boletín Judicial y en el sitio web del Poder Judicial del Estado.
