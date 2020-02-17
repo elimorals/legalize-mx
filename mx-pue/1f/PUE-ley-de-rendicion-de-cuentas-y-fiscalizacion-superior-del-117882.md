@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-rendicion-de-cuentas-y-fiscalizacion-superior-del-117882
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2016-12-27"
+last_updated: "2020-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2020.
 
 Ley publicada en la Trigésima Primera Sección del Periódico Oficial del Gobierno Constitucional del Estado de Puebla, el martes 27 de diciembre de 2016.
 
@@ -73,7 +73,9 @@ II. La organización de la Auditoría Superior del Estado, sus atribuciones, inc
 
 La fiscalización Superior de las Cuentas Públicas comprende:
 
-I. La fiscalización de la gestión financiera de las Entidades Fiscalizadas para comprobar el cumplimiento de las disposiciones que regulan los ingresos, gastos públicos, así como la deuda pública, incluyendo la revisión del manejo, la custodia y la aplicación de recursos, fondos, bienes o valores de la hacienda pública estatal o municipal, y demás información financiera, contable, patrimonial, presupuestaria y programática que las Entidades Fiscalizadas deban incluir en la Cuenta Pública conforme a las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2020)</small>
+
+I. La fiscalización de la gestión financiera de las Entidades Fiscalizadas para comprobar el cumplimiento de las disposiciones que regulan los ingresos, gastos públicos, así como la deuda pública, incluyendo la revisión del manejo, la custodia y la aplicación de recursos, fondos, bienes o valores de la hacienda pública estatal o municipal, y demás información financiera, contable, patrimonial, presupuestaria y programática que la (sic) Entidades Fiscalizadas deban incluir en la Cuenta Pública conforme a las disposiciones aplicables; y, en su caso, la revisión de hechos y evidencias que permitan detectar e investigar actos u omisiones que impliquen probables irregularidades o conductas ilícitas.
 
 II. La práctica de auditorías o evaluaciones sobre el desempeño, para verificar el grado de cumplimiento de los objetivos y metas de los planes, programas y subprogramas estatales y municipales, y
 
@@ -87,7 +89,9 @@ La función de fiscalización superior, se desarrollará conforme a los principi
 
 Para efectos de esta Ley, se entenderá por:
 
-I. Auditoría: proceso sistemático en el que de manera objetiva se obtiene y se evalúa evidencia para determinar si las acciones llevadas a cabo por las Entidades Fiscalizadas se realizaron de conformidad con la normatividad establecida y con base en principios que aseguren una gestión pública adecuada;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2020)</small>
+
+I. Auditoria: proceso sistemático en el que de manera objetiva se obtiene y se evalúan hechos y evidencias para determinar si las acciones llevadas a cabo por las Entidades Fiscalizadas se realizaron de conformidad con la normatividad establecida y con base en principios que aseguren una gestión pública adecuada; y en su caso, detectar o investigar actos u omisiones que impliquen probables irregularidades o conductas ilícitas;
 
 II. Auditoría Superior: la unidad de fiscalización, control y evaluación dependiente del Congreso del Estado, a que se refiere el artículo 113, de la Constitución Política del Estado Libre y Soberano de Puebla, denominada Auditoría Superior del Estado de Puebla;
 
@@ -493,7 +497,13 @@ XLIII. Acordar por cada ejercicio fiscal y por una sola vez, la ampliación hast
 
 Dicha ampliación no podrá otorgarse, respecto al plazo de presentación de la Cuenta Pública, en cuyo caso se observará lo dispuesto en la Constitución Política del Estado Libre y Soberano de Puebla y esta Ley, y
 
-XLIV. Las demás que deriven de la Constitución Política del Estado Libre y Soberano de Puebla, de la presente Ley, del Reglamento Interior de la Auditoría Superior y demás disposiciones legales aplicables en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE FEBRERO DE 2020)</small>
+
+XLIV. Practicar auditorias forenses, mediante la revisión de hechos o evidencias que permitan detectar o investigar actos u omisiones que impliquen probables irregularidades o conductas ilícitas; así como sus causas efectos o consecuencias; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE FEBRERO DE 2020)</small>
+
+XLV. Las demás que deriven de la Constitución Política del Estado Libre y Soberano de Puebla, de la presente Ley, del Reglamento de la Auditoría Superior y demás disposiciones aplicable (sic) en la materia
 
 ###### ARTÍCULO 34.
 
@@ -1650,3 +1660,15 @@ DÉCIMO PRIMERO. Se ratifica el contenido de los acuerdos, circulares, guías, m
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los catorce días del mes de diciembre de dos mil dieciséis. Diputada Presidenta. SILVIA GUILLERMINA TANÚS OSORIO. Rúbrica. Diputado Vicepresidente. PABLO RODRÍGUEZ REGORDOSA. Rúbrica. Diputado Secretario. CARLOS DANIEL HERNÁNDEZ OLIVARES. Rúbrica. Diputado Secretario. CIRILO SALAS HERNÁNDEZ. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de diciembre de dos mil dieciséis. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica. El Secretario de Finanzas y Administración. C. GUILLERMO EDMUNDO BERNAL MIRANDA. Rúbrica. El Secretario de la Contraloría. C. ALEJANDRO TORRES PALMER. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 2, LA FRACCIÓN I DEL 4 Y LA FRACCIÓN XLIV DEL 33; Y SE ADICIONA LA FRACCIÓN XLV AL ARTÍCULO 33, TODOS DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Auditoria Superior del Estado, en ejercicio de la autonomía técnica y de gestión que la Constitución Política del Estado Libre y Soberano de Puebla le reconoce, deberá realizar las modificaciones reglamentarias necesarias, normando las facultades, funciones y atribuciones; así como diseñando los procedimientos institucionales de la unidad administrativa cuya encomienda de cumplimiento al presente Decreto. Por tanto, la Auditoria Superior del Estado, deberá asignar los recursos humanos, materiales y financieros suficientes, sin perjuicio al principio de austeridad para dichos efectos.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
