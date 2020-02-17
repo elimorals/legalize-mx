@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-ciencia-y-75233"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-06-10"
-last_updated: "2019-12-11"
+last_updated: "2020-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2010-05-13"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO OCTAVO DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA, PUBLICADO EN EL D.O.F. DE 17 DE FEBRERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE FEBRERO DE 2020 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 10 de junio de 2010.
 
@@ -1656,3 +1658,71 @@ D.O.F. 11 DE DICIEMBRE DE 2019.
 PRIMERO- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO- En todas aquellas disposiciones en las que se haga referencia a la Oficialía Mayor deberá entenderse como la Unidad de Administración y Finanzas. Asimismo, en las que se haga referencia al Oficial Mayor, deberán entenderse al Titular de la Unidad de Administración y Finanzas.
+
+D.O.F. 17 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EXPIDE EL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA”.]
+
+PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Todas las referencias que en las autorizaciones, nombramientos, documentos y demás disposiciones se hagan a la Dirección Adjunta de Desarrollo Tecnológico e Innovación, se entenderán referidas a la Dirección Adjunta de Desarrollo Tecnológico, Vinculación e Innovación.
+
+TERCERO. Todas las referencias que en las autorizaciones, nombramientos, documentos y demás disposiciones se hagan a la Dirección Adjunta de Centros de Investigación, se entenderán referidas a la Unidad de Articulación Sectorial y Regional.
+
+La Unidad de Articulación Sectorial y Regional también asumirá las facultades de la Dirección Adjunta de Desarrollo Regional.
+
+CUARTO. Todas las referencias que en las autorizaciones, nombramientos, documentos y demás disposiciones se hagan a la Dirección Adjunta de Planeación y Evaluación, se entenderán referidas a la Unidad de Planeación, Comunicación y Cooperación Internacional.
+
+QUINTO. Todas las referencias que en las autorizaciones, nombramientos, documentos y demás disposiciones se hagan a la Dirección Adjunta de Posgrado y Becas, se entenderán referidas a la Coordinación de Apoyo a Becarios e Investigadores.
+
+SEXTO. Todas las referencias que en las autorizaciones, nombramientos, documentos y demás disposiciones en (sic) se hagan a la Coordinación de Proyectos, Comunicación e Información Estratégica, se entenderán referidas a la Coordinación de Proyectos de Comunicación e Información Estratégica.
+
+SÉPTIMO. Todas las referencias que en las autorizaciones, nombramientos, documentos y demás disposiciones se hagan a:
+
+I. La Unidad de Tecnologías de la Información y Comunicaciones, se entenderán referidas a la Dirección de Infraestructura y Soporte Operativo.
+
+II. La Dirección de Investigación Científica Básica, se entenderán referidas a la Dirección de Ciencia de Frontera.
+
+III. La Dirección de Investigación Científica Aplicada, se entenderán referidas a la Dirección de Programas Nacionales Estratégicos.
+
+IV. La Dirección de Redes e Infraestructura Científica, se entenderán referidas a la Dirección de Redes Horizontales del Conocimiento e Infraestructura Científica.
+
+V. La Dirección del Sistema Nacional de Investigadores, se entenderán referidas a la Dirección de Vocaciones Científicas y SNI.
+
+La Dirección de Vocaciones Científicas y SNI también asumirá las facultades de la Dirección de Vinculación.
+
+VI. La Dirección de Planeación, se entenderán referidas a la Dirección de Análisis Estratégico.
+
+VII. La Dirección de Planeación Tecnológica, se entenderán referidas a la Dirección de Estrategia Tecnológica.
+
+VIII. La Dirección de Comercialización de Tecnología, se entenderán referidas a la Dirección de Vinculación e Innovación.
+
+La Dirección de Vinculación e Innovación también asumirá las facultades de la Dirección de Innovación.
+
+IX. La Dirección de Desarrollo Tecnológico, se entenderán referidas a la Dirección de Energías y Cambio Climático.
+
+X. La Dirección de Coordinación de Direcciones Regionales, se entenderán referidas a la Dirección de Vinculación y Articulación Regional.
+
+La Dirección de Vinculación y Articulación Regional también asumirá las facultades de la Dirección de Desarrollo Estatal y Regional.
+
+XI. La Dirección de Coordinación Sectorial, se entenderán referidas a la Dirección de Articulación de Centros de Investigación.
+
+La Dirección de Articulación de Centros de Investigación también asumirá las facultades de la Dirección de Asuntos Estratégicos del Sistema de Centros y de la Dirección de Planeación, Programación y Presupuesto de los Centros Públicos CONACYT.
+
+XII. La Dirección de Información y Normativa de Ciencia y Tecnología, se entenderán referidas a la Dirección de Información y Normativa de Ciencia, Tecnología e Innovación.
+
+XIII. La Dirección de Divulgación y Difusión de Ciencia y Tecnología, se entenderán referidas a la Dirección de Producción Editorial y Audiovisual.
+
+XIV. La Dirección de Normatividad, se entenderán referidas a la Dirección de Consulta y Estudios Normativos.
+
+XV. La Dirección de Procesos Jurídicos, se entenderán referidas a la Dirección de Estrategias y Procesos Jurídicos.
+
+OCTAVO. Se abroga el Estatuto Orgánico del Consejo Nacional de Ciencia y Tecnología publicado el 10 de junio de 2010 y sus reformas, así como el Manual de Organización del Consejo Nacional de Ciencia y Tecnología.
+
+NOVENO. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente ordenamiento.
+
+DÉCIMO. En un plazo no mayor a 90 días, contados a partir de la fecha en que entre en vigor el presente Estatuto, el CONACYT expedirá los manuales de organización específicos de las unidades administrativas.
+
+DÉCIMO PRIMERO. Los asuntos pendientes de resolución a la entrada en vigor del presente Estatuto, se sustanciarán de conformidad con la regulación que les dio origen.
+
+DÉCIMO SEGUNDO. Las unidades administrativas, en el ámbito de sus competencias, deberán adecuar la normativa vigente en todo aquello que guarde relación con el presente Estatuto.
