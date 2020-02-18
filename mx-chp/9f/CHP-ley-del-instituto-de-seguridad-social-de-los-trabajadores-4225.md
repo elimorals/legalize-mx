@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-instituto-de-seguridad-social-de-los-trabajadores-4225"
 country: "mx"
 rank: "ley"
 publication_date: "1981-08-26"
-last_updated: "2018-03-21"
+last_updated: "2020-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DEL INSTITUTO DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL INSTITUTO DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 18 DE FEBRERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2020 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 26 de agosto de 1981.
 
@@ -1635,7 +1637,7 @@ Dado en el Salón de Sesiones del Palacio del H. Poder Legislativo del Estado, e
 
 De conformidad con la Fracción I del Artículo 47 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los veinticinco días del mes de agosto de mil novecientos ochenta y uno. El Gobernador del Estado.- Juan Sabines Gutiérrez.- (Rúbrica).- El Secretario General de Gobierno.- Dr. Enoch Cancino Casahonda.- (Rúbrica).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 31 DE MAYO DE 1989.
 
@@ -1664,3 +1666,307 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan al present
 Artículo Tercero.- Con respecto a lo establecido por el artículo 104 del presente Decreto, las pensiones otorgadas en términos de los acuerdos de la Junta Directiva del Instituto de Seguridad Social de los Trabajadores del Estado de Chiapas, con cargo al Instituto para los seguros de jubilación, vejez, invalidez e incapacidad total y permanente, concedidas con anterioridad a la entrada en vigor del presente Decreto, continuarán rigiéndose con el tope máximo de pensión de 10 (diez) salarios mínimos mensuales, como lo refieren los citados acuerdos; sin afectar los derechos adquiridos y sin menoscabo de lo establecido en otras disposiciones legales.
 
 No siendo retroactiva la aplicación del presente decreto a las pensiones otorgadas a la publicación de este mismo.
+
+P.O. DE 18 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 173 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se abroga la Ley del Instituto de Seguridad Social de los Trabajadores del Estado de Chiapas publicada en el Periódico Oficial, con fecha 24 de agosto de 1981 y las demás disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en la presente ley.
+
+Artículo Tercero. El ISSTECH deberá transferir a la cuenta institucional del estado y a las cuentas institucionales de los Ayuntamientos que previo convenio coticen al mismo, los saldos de las cuotas y aportaciones que actualmente administra de cada uno de los servidores públicos que tiene incorporados, detallando el saldo de las aportaciones de sus respectivos patrones, junto con las cuotas del servidor público, dentro de los noventa días hábiles posteriores a la entrada en vigor de la presente ley.
+
+Asimismo, deberá detallar las cuentas que tiene por cobrar correspondientes a las aportaciones y cuotas pendientes por enterar por parte de las entidades públicas patronales.
+
+Artículo Cuarto. El patrimonio del ISSTECH se encuentra constituido conforme a las disposiciones establecidas en la presente ley; los derechos y obligaciones que tuviese antes de la entrada en vigor el presente ordenamiento continuarán siendo ejercidos por el mismo; los recursos humanos, materiales y financieros, así como los derechos y obligaciones que de los mismos se deriven serán asumidas por el propio ISSTECH.
+
+Artículo Quinto. La Junta Directiva, los comités técnicos de administración y la comisión de vigilancia quedarán constituidos en la primera sesión ordinaria a la que convoque el titular del Poder Ejecutivo del Estado o su representante, en carácter de Presidente de dicho órgano, dentro de los 30 días hábiles siguientes a la entrada en vigor de esta ley.
+
+Artículo Sexto. El reglamento de esta ley, el reglamento interior del ISSTECH, el reglamento de préstamos y el reglamento de servicios médicos, deberán expedirse dentro de los 120 días hábiles posteriores a la entrada en vigor de la ley.
+
+Artículo Séptimo. Los derechos y obligaciones que se hayan adquirido conforme a las disposiciones de la ley que se abroga en razón de la entrada en vigor de la presente ley, seguirán surtiendo efectos hasta la conclusión del plazo o el cumplimiento de las condiciones en que se hayan establecido.
+
+Octavo. El servidor público pensionado con fecha anterior a la publicación de la presente ley, seguirá disfrutando de su pensión conforme a las bases bajo las cuales adquirió el derecho, independientemente de la naturaleza de la misma.
+
+Artículo Noveno. Las entidades públicas patronales continuarán pagando las pensiones que con anterioridad a la entrada en vigor de la presente ley se encontraban a su cargo; dicho pago se efectuará a través de las cuentas institucionales correspondientes que para tal efecto determine el ISSTECH.
+
+Artículo Décimo. Los servidores públicos que hubieran reunido los requisitos y condiciones para el otorgamiento de una pensión previo a la entrada en vigor de la presente ley, sujetarán sus acciones y procedimientos a la normatividad vigente en el momento del nacimiento de sus derechos.
+
+Artículo Décimo primero. A la entrada en vigor de la presente ley, en el caso de los servidores públicos que hubieran retirado sus cuotas al ISSTECH, y se reincorporen a la administración pública, sus años de cotización serán computados a partir del momento de su reincorporación.
+
+Artículo Décimo segundo. La prescripción de acciones de devolución de cuotas, tratándose de los afiliados que causaron baja de la entidad pública patronal previo a la entrada en vigor de esta ley, operará en los términos de la ley que se abroga.
+
+Artículo Décimo tercero. A la entrada en vigor de la presente ley, deberá constituirse el fondo para préstamos y prestaciones sociales, integrado por el valor de la cartera vigente de préstamos de corto plazo e hipotecarios que los servidores públicos adeuden al ISSTECH.
+
+Artículo Décimo cuarto. Las entidades públicas patronales que tengan el carácter de patrón y que se encuentren en estado de mora a la entrada en vigor de esta ley, podrán celebrar con el ISSTECH convenio de pago, en el que se establezca la condición de pagar sus adeudos dentro del plazo que sea autorizado por la Junta Directiva. A partir de la firma del convenio correspondiente, el monto del adeudo causará recargos por prórroga; la tasa de recargos será igual a la que fije la Ley de Ingresos del Estado de Chiapas, para el ejercicio fiscal que corresponda.
+
+Artículo Décimo quinto. Los servidores públicos que se hayan afiliado al ISSTECH, con fecha anterior a la publicación de la presente ley, serán considerados como servidores públicos en transición, a los cuales les aplicarán las excepciones descritas en los siguientes artículos transitorios.
+
+A los servidores públicos en transición se les reconocerá su antigüedad conforme a los años cotizados, comprobados con el documento oficial correspondiente.
+
+Artículo Décimo sexto. Los beneficios a que tengan derecho los servidores públicos en transición y pensionados con anterioridad a la entrada en vigor de esta ley, correrán con cargo a la cuenta institucional de la entidad pública patronal para la cual labore o haya laborado.
+
+Artículo Décimo séptimo. El salario regulador para los servidores públicos en transición, será un porcentaje del promedio ponderado de los últimos salarios de cotización que hubiera percibido el servidor público, previa actualización con base en el Índice Nacional de Precios al Consumidor, dependiendo de los años que a la entrada en vigor de la presente ley le falten para cumplir 30 años de antigüedad en hombres o 28 años de antigüedad para las mujeres, conforme a la siguiente tabla:
+
+Años que faltan para cumplir Número de Años Porcentaje
+
+28 o 30 años de a Promediar
+
+antigüedad al momento
+
+de la entrada en vigor
+
+de esta ley
+
+0 a 2 0 100.00%
+
+3 1 100.00%
+
+4 2 100.00%
+
+5 3 99.00%
+
+6 4 98.00%
+
+7 5 97.00%
+
+8 5 96.00%
+
+9 5 95.00%
+
+10 5 94.00%
+
+11 5 93.00%
+
+12 5 92.00%
+
+13 5 91.00%
+
+14 5 90.00%
+
+15 5 89.00%
+
+16 5 88.00%
+
+17 5 87.00%
+
+18 o más 5 86.00%
+
+Artículo Décimo octavo. Los servidores públicos en transición tendrán derecho a una pensión por jubilación a que se refiere el artículo 100 de esta ley, cuando tengan al menos 30 años de cotización los hombres o 28 años de cotización las mujeres, siempre que cuenten con la edad requerida conforme a la siguiente tabla:
+
+Año Edad requerida
+
+2020 - 2022 N/A
+
+2023 - 2024 52
+
+2025 - 2026 53
+
+2027 - 2028 54
+
+2029 - 2030 55
+
+2031 - 2032 56
+
+2033 - 2034 57
+
+2035 - 2036 58
+
+2037 - 2038 59
+
+2039 o posterior 60
+
+Los servidores públicos en transición también podrán acceder a dicha pensión cuando tengan al menos 40 años de cotización en el caso de los hombres o 38 años de cotización las mujeres.
+
+El monto de la pensión será del cien por ciento del salario regulador establecido en el artículo décimo séptimo transitorio.
+
+Artículo Décimo noveno. Los servidores públicos en transición tendrán derecho a la pensión por vejez a que se refiere el artículo 102 de esta ley, misma que se otorgará cuando el afiliado tenga al menos 15 años de antigüedad en el servicio y una edad de acuerdo con la siguiente tabla:
+
+Año Edad requerida
+
+2020 - 2030 55
+
+2031 - 2032 56
+
+2033 - 2034 57
+
+2035 - 2036 58
+
+2037 - 2038 59
+
+2039 o posterior 60
+
+El monto de la pensión será el resultado de la multiplicación del salario regulador establecido en el artículo décimo séptimo transitorio por el factor "D" descrito en la siguiente tabla:
+
+Antigüedad Factor "D" para Hombres Factor "D" para Mujeres
+
+15 0.4700 0.4700
+
+16 0.4850 0.4850
+
+17 0.5000 0.5000
+
+18 0.5150 0.5150
+
+19 0.5300 0.5300
+
+20 0.5450 0.5450
+
+21 0.5600 0.5600
+
+22 0.6000 0.6000
+
+23 0.6500 0.6500
+
+24 0.7000 0.7000
+
+25 0.7500 0.7500
+
+26 0.8000 0.8000
+
+27 0.8500 0.8500
+
+28 0.9000 1.0000
+
+29 0.9500 1.0000
+
+30 o más 1.0000 1.0000
+
+Artículo Vigésimo. Para los servidores públicos en transición el monto de la pensión por invalidez por causas ajenas al trabajo a que se refiere el artículo 114 de esta ley, será un porcentaje del resultado de la multiplicación del salario regulador establecido en el artículo décimo séptimo transitorio por el factor "D" descrito en la siguiente tabla de acuerdo con su antigüedad:
+
+Antigüedad Factor "D" para Hombres Factor "D" para Mujeres
+
+Menos de 15 0.4700 0.4700
+
+16 0.4850 0.4850
+
+17 0.5000 0.5000
+
+18 0.5150 0.5150
+
+19 0.5300 0.5300
+
+20 0.5450 0.5450
+
+21 0.5600 0.5600
+
+22 0.6000 0.6000
+
+23 0.6500 0.6500
+
+24 0.7000 0.7000
+
+25 0.7500 0.7500
+
+26 0.8000 0.8000
+
+27 0.8500 0.8500
+
+28 0.9000 1.0000
+
+29 0.9500 1.0000
+
+30 o más 1.0000 1.0000
+
+Artículo Vigésimo primero. Para los servidores públicos en transición el monto de la pensión por fallecimiento por causas ajenas al trabajo a que se refiere el artículo 123 de esta ley, será el resultado de la multiplicación del salario regulador establecido en el artículo décimo séptimo transitorio por el factor "D" descrito en la siguiente tabla de acuerdo con su antigüedad:
+
+Antigüedad Factor "D" para Hombres Factor "D" para Mujeres
+
+Menos de 15 0.4700 0.4700
+
+16 0.4850 0.4850
+
+17 0.5000 0.5000
+
+18 0.5150 0.5150
+
+19 0.5300 0.5300
+
+20 0.5450 0.5450
+
+21 0.5600 0.5600
+
+22 0.6000 0.6000
+
+23 0.6500 0.6500
+
+24 0.7000 0.7000
+
+25 0.7500 0.7500
+
+26 0.8000 0.8000
+
+27 0.8500 0.8500
+
+28 0.9000 1.0000
+
+29 0.9500 1.0000
+
+30 o más 1.0000 1.0000
+
+Artículo Vigésimo segundo. Los servidores públicos en transición recibirán por fallecimiento o incapacidad permanente total por riesgo de trabajo, una pensión equivalente al cien por ciento del salario regulador establecido en el artículo décimo séptimo transitorio de esta ley.
+
+Artículo Vigésimo tercero. Para los servidores públicos en transición, la gratificación anual por concepto de aguinaldo al que se refiere el artículo 125 de esta ley, será equivalente a 60 días del importe diario de la pensión.
+
+Artículo Vigésimo cuarto. El incremento a las pensiones provenientes de los servidores públicos en transición, independientemente del monto establecido en el artículo 84 de esta ley, será al mismo tiempo y en la misma proporción en que se incrementen los sueldos de los servidores públicos en activo afiliados al ISSTECH.
+
+Artículo Vigésimo quinto. Los servidores públicos en transición con derecho adquirido o que cumplan con los requisitos para acceder a una pensión por jubilación de acuerdo a lo establecido en el artículo décimo octavo transitorio, siempre y cuando su salario de cotización sea igual o menor a diez salarios mínimos generales vigentes en el país y se mantenga en activo, tendrán derecho a recibir un bono por continuidad calculado sobre su salario de cotización de acuerdo con lo siguiente:
+
+Años de cotización posteriores Porcentaje del salario
+
+al cumplimiento de los requisitos de cotización
+
+para acceder a la pensión por
+
+jubilación
+
+1 8%
+
+2 10%
+
+3 12%
+
+4 14%
+
+5 16%
+
+6 18%
+
+7 o más 20%
+
+Este beneficio será pagadero una vez al año, en la fecha en que cumpla un año adicional de servicio, y se mantendrá vigente hasta que el servidor público en transición ejerza su derecho a recibir una pensión o bien cumpla con 65 años de edad.
+
+Este bono se otorgará de manera adicional al salario que reciban de manera ordinaria y no formará parte del salario de cotización ni será considerado para el cálculo del salario regulador descrito en la presente ley, por lo que no formará parte de la pensión.
+
+Artículo Vigésimo sexto. Tratándose de los servidores públicos en transición, las cuotas a que se refiere el inciso a de la fracción I, del artículo 57 de esta ley, serán de un porcentaje de su salario de cotización independientemente de la entidad pública patronal en la que preste sus servicios de acuerdo con la siguiente tabla:
+
+Año Porcentaje
+
+2020 y 2021 3.00%
+
+2022 4.00%
+
+2023 5.00%
+
+2024 6.00%
+
+2025 7.00%
+
+2026 8.00%
+
+2027 9.00%
+
+2028 10.00%
+
+2029 11.00%
+
+2030 12.00%
+
+2031 en adelante 13.00%
+
+Artículo Vigésimo séptimo. Tratándose de los servidores públicos en transición y pensionados provenientes de la generación en transición, las cuotas y aportaciones a que se refiere la fracción II, del artículo 57 de esta ley, serán de un porcentaje de su salario de cotización, independientemente de la entidad pública patronal en la que preste sus servicios o de su pensión, de acuerdo con la siguiente tabla:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 18 DE FEBRERO DE 2020, PÁGINA 54.]</small>
+
+Artículo Vigésimo octavo. A partir de su publicación, la presente ley podrá revisarse bajo criterios actuariales en periodos no mayores a seis años, a fin de realizar en su caso, propuestas para actualizar o mejorar la viabilidad financiera del ISSTECH.
