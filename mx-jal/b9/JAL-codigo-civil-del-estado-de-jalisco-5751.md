@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2019-12-28"
+last_updated: "2020-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2020.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -12499,9 +12499,11 @@ Al término del arrendamiento, el arrendatario que haya cumplido en tiempo con t
 
 #### Sección Tercera. Del arrendamiento de inmuebles destinados al comercio e industria
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 20120)</small>
+
 ###### Art. 2045.
 
-El arrendamiento por tiempo determinado de bienes inmuebles destinados al comercio, no puede exceder de veinte años; el destinado a la industria, no puede exceder de veinticinco años. En ambos casos cuando excedan de seis años deberá inscribirse en el Registro Público de la Propiedad.
+El arrendamiento por tiempo determinado de bienes inmuebles destinados al comercio, no puede exceder de veinte años: el destinado a la industria, no puede exceder de veinticinco años. En ambos casos cuando excedan de ocho años deberá inscribirse en el Registro Público de la Propiedad.
 
 ###### Art. 2046.
 
@@ -19167,6 +19169,12 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 
 P.O. 28 DE DICIEMBRE DE 2019.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO 27780/LXII/19 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 2143; Y ADICIONA EL ARTÍCULO 1981 BIS, LAS FRACCIONES VI Y X AL ARTÍCULO 1995 Y LA FRACCIÓN VII AL ARTÍCULO 2005, DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO 27780/LXII/19 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 2143; Y ADICIONA EL ARTÍCULO 1981 BIS, LAS FRACCIONES VI Y X AL ARTÍCULO 1995 Y LA FRACCIÓN VII AL ARTÍCULO 2005, DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 18 DE FEBRERO DE 20120.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27800/LXII/20 QUE REFORMA LOS ARTÍCULOS 685, 688 Y 689 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; Y EL ARTÍCULO 2045 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
