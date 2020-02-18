@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2019-10-25"
+last_updated: "2020-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -927,9 +927,19 @@ XXVII. Determinar los límites territoriales que integran el primer cuadro de su
 
 XXVIII. Promover, respetar, proteger y garantizar los derechos humanos dentro de su jurisdicción, conforme a los principios de universalidad, interdependencia, indivisibilidad, progresividad y máxima protección, a través de la capacitación a servidores públicos municipales con el objeto de prevenir, en el ámbito de su competencia, las violaciones a los derechos humanos, y
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 18 DE FEBRERO DE 2020)</small>
 
-XXIX. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
+XXIX. Establecer y conservar la imagen institucional municipal oficial, libre de todo contenido que promueva algún partido político, respetando el escudo oficial que identifica a cada municipalidad, así como los colores y lema del mismo, siendo motivo de sanción y responsabilidad política y administrativa la utilización de logotipos, símbolos, lemas o signos con contenido alusivo a algún partido político o asociación política o privada, en:
+
+a) Documentos oficiales;
+
+b) Vehículos, e
+
+c) Infraestructura pública y equipamiento urbano municipal. Los edificios públicos del municipio no podrán pintarse con colores que identifiquen a un partido político.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE FEBRERO DE 2020)</small>
+
+XXX. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
 
 ###### ARTICULO 62.
 
@@ -4218,5 +4228,21 @@ Los Decretos emitidos por la Sexagésima Segunda Legislatura al Congreso del Est
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes.
 
 ###### ARTÍCULO CUARTO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página oficial del Congreso del Estado, para su conocimiento general.
+
+P.O. 18 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 451, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los ciento ochenta días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes.
+
+###### ARTÍCULO TERCERO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página oficial del Congreso del Estado, para su conocimiento general.
