@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-del-estado-de-jalisco-17570"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-23"
-last_updated: "2020-02-08"
+last_updated: "2020-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE HACIENDA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 23 de septiembre de 2000.
 
@@ -45,11 +45,13 @@ LEY DE HACIENDA DEL ESTADO DE JALISCO
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 1°.
 
 Los ingresos que la Hacienda Pública del Estado tiene derecho a percibir de conformidad con las disposiciones fiscales, serán los que se obtengan por concepto de:
+
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES E INCISOS], P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 I. Impuestos
 
@@ -67,13 +69,17 @@ a) Impuesto sobre Transmisiones Patrimoniales de Bienes Muebles
 
 b) Impuesto sobre la Adquisición de Vehículos Automotores Usados
 
-c) (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE FEBRERO DE 2020)</small>
+
+c) Impuesto sobre Hospedaje.
 
 d) Impuesto sobre Hospedaje
 
 3) Impuesto sobre Nóminas y Asimilables
 
 a) Impuesto sobre Nóminas
+
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES E INCISOS], P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 II. Derechos
 
@@ -93,13 +99,23 @@ e) Certificaciones, Expediciones de Constancias y otros Servicios
 
 f) Servicios diversos fijados de conformidad con la presente ley o cualquier otra disposición fiscal estatal.
 
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 III. Productos
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 IV. Aprovechamientos;
 
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 V. Participaciones y aportaciones federales;
 
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 VI. Ingresos extraordinarios; e
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2020)</small>
 
 VII. Ingresos por Financiamientos.
 
@@ -155,13 +171,13 @@ II. En las ventas judiciales o administrativas de bienes muebles, el valor de ad
 
 III. Tratándose de fideicomisos, el valor de los bienes fideicomitidos.
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE FEBRERO DE 2020)</small>
 
 Cuando la Secretaría de la Hacienda Pública advierta que el valor de operación consignado en el documento de que se trate; o el consignado en el avalúo pericial, es notoriamente inferior al que le correspondería como valor real, practicará avalúo con los elementos de que disponga, mismo que servirá de base para el pago de ese impuesto.
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
-La Secretaria de la Hacienda Pública podrá tomar como base de cálculo del gravamen, cualquier avaluó practicado por el perito, que conozca con motivo de la transmisión patrimonial, en el caso de que no se cuente con valores.
+La Secretaría de la Hacienda Pública podrá tomar como base de cálculo del gravamen, cualquier avaluó practicado por el perito, que conozca con motivo de la transmisión patrimonial, en el caso de que no se cuente con valores.
 
 De la cuota
 
@@ -193,9 +209,9 @@ II. La fecha de protocolización respectiva, tratándose de disolución o liquid
 
 III. La fecha del documento en que se haga constar el acto o contrato respectivo, en los casos no comprendidos en las fracciones anteriores.
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
-En el área metropolitana, compuesta por los municipios de Guadalajara, Tlaquepaque, Tonalá y Zapopan el pago de este impuesto se hará en la Oficina Central de Recaudación Fiscal adjunta al Registro Público de la Propiedad, o en cualquiera otra que determine el Secretario de la Hacienda Pública o el Sub Secretario de Finanzas mediante acuerdo general.
+En el área metropolitana, compuesta por los municipios de Guadalajara, Tlaquepaque, Tonalá y Zapopan el pago de este impuesto se hará en la Oficina Central de Recaudación Fiscal adjunta al Registro Público de la Propiedad, o en cualquiera otra que determine el Secretario de la Hacienda Pública mediante acuerdo general.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -209,7 +225,7 @@ Los bienes materia del hecho, acto o contrato, gravados con este impuesto, queda
 
 Para los efectos del artículo 7° de esta Ley, los notarios públicos o quienes hagan sus veces, las instituciones fiduciarias y los servidores públicos, en su caso, deberán retener y enterar el impuesto causado en los términos de esta Ley, por los actos o contratos en que intervengan, gravados por este impuesto.
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 10.
 
@@ -219,7 +235,7 @@ El entero del impuesto y avisos a que se refiere el artículo anterior se harán
 
 El entero de este impuesto se hará en las oficinas señaladas en el artículo 7 de la Ley.
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 12.
 
@@ -231,53 +247,53 @@ Del objeto
 
 ###### Artículo 13.
 
-(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017)
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017) (REPUBLICADA SU DEROGACIÓN, P.O. 18 DE FEBRERO DE 2020)
 
 De los sujetos
 
 ###### Artículo 14.
 
-(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017)
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017) (REPUBLICADA SU DEROGACIÓN, P.O. 18 DE FEBRERO DE 2020)
 
 De la base del impuesto
 
 ###### Artículo 15.
 
-(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017)
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017) (REPUBLICADA SU DEROGACIÓN, P.O. 18 DE FEBRERO DE 2020)
 
 De la cuota
 
 ###### Artículo 16.
 
-(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017)
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017) (REPUBLICADA SU DEROGACIÓN, P.O. 18 DE FEBRERO DE 2020)
 
 Del pago
 
 ###### Artículo 17.
 
-(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017)
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017) (REPUBLICADA SU DEROGACIÓN, P.O. 18 DE FEBRERO DE 2020)
 
 De las exenciones
 
 ###### Artículo 18.
 
-(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017)
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017) (REPUBLICADA SU DEROGACIÓN, P.O. 18 DE FEBRERO DE 2020)
 
 ###### Artículo 19.
 
-(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017)
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017) (REPUBLICADA SU DEROGACIÓN, P.O. 18 DE FEBRERO DE 2020)
 
 ###### Artículo 20.
 
-(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017)
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017) (REPUBLICADA SU DEROGACIÓN, P.O. 18 DE FEBRERO DE 2020)
 
 ###### Artículo 21.
 
-(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017)
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017) (REPUBLICADA SU DEROGACIÓN, P.O. 18 DE FEBRERO DE 2020)
 
 ###### Artículo 22.
 
-(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017)
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2017) (REPUBLICADA SU DEROGACIÓN, P.O. 18 DE FEBRERO DE 2020)
 
 ### CAPITULO TERCERO. Del impuesto sobre la adquisición de vehículos automotores usados
 
@@ -299,21 +315,17 @@ Se considera que la adquisición, compra-venta, donación, permuta o aportación
 
 De las bases del impuesto
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 25.
 
 Para los efectos de este impuesto, la base gravable se determinará aplicando el siguiente procedimiento:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
 I. Se considerará el valor total del vehículo establecido en la factura inicial de adquisición o carta factura que hubiese expedido el fabricante, ensamblador o distribuidor autorizados, sin incluir el Impuesto al Valor Agregado, siempre que se encuentre desglosado. El valor del vehículo se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla siguiente:
 
 TABLA
 
-Años de Factor
-
-antigüedad
+Años de antigüedad Factor
 
 1 0.850
 
@@ -331,21 +343,13 @@ antigüedad
 
 8 0.150
 
-9 y más 0.075
-
-antiguos
+9 y más antiguos 0.075
 
 El resultado se actualizará, en los términos del artículo 68 del Código Fiscal del Estado de Jalisco, dividiendo el Índice Nacional de Precios al Consumidor, del mes anterior al en que se realice el pago del impuesto, entre el citado Índice correspondiente al mes anterior a la fecha de factura inicial de adquisición o carta factura, del vehículo de que se trate.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+II. Tratándose de vehículos usados cuyo modelo sea del año en curso o del siguiente, el valor total consignado la factura inicial de adquisición o carta factura expedida por el fabricante, ensamblador o distribuidor autorizados, relativo al precio de la unidad, equipo opcional y otros accesorios,
 
-II. Tratándose de vehículos usados cuyo modelo sea del año en curso o del siguiente, el valor total consignado (sic) la factura inicial de adquisición o carta factura expedida por el fabricante, ensamblador o distribuidor autorizados, relativo al precio de la unidad, equipo opcional y otros accesorios,
-
-III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-IV. En el caso de vehículos no aptos para circular se considerará sólo el 25% del valor factura, de acuerdo al procedimiento de la fracción I de este artículo.
+III. En el caso de vehículos no aptos para circular se considerará sólo el 25% del valor factura, de acuerdo al procedimiento de la fracción I de este artículo.
 
 Se considerará que los vehículos no son aptos para circular, cuando se destinen para la venta de partes o refacciones usadas.
 
@@ -369,15 +373,15 @@ II. La fecha de adquisición, compra-venta, donación, permuta o aportación a u
 
 Los bienes transmitidos o adquiridos quedan afectos, preferentemente, a garantizar el pago del impuesto a que se refiere este capítulo.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 28.
 
 Para la recaudación de este impuesto se observarán las reglas siguientes:
 
-I. Los contribuyentes deberán presentar la documentación que acredite la propiedad del vehículo, ante la oficina de recaudación fiscal que corresponda, y
+I. Los contribuyentes deberán presentar la documentación que acredite la propiedad del vehículo, ante la oficina de recaudación fiscal que corresponda; y
 
 II. La oficina de recaudación fiscal, al efectuarse el entero del impuesto, expedirá el recibo oficial respectivo y certificará constancia de pago en la factura o documento que ampare la propiedad del vehículo.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 Los contribuyentes propietarios de vehículos automotores usados registrados en el Estado que efectúen la transmisión de un vehículo, o los contribuyentes que lo adquieran, deberán presentar ante la oficina de recaudación fiscal competente, el aviso de cambio de propietario dentro de los diez días hábiles siguientes a aquél en que se realice la adquisición, compra-venta, donación, permuta o aportación a una sociedad, adjuntando el documento que acredite dicha circunstancia.
 
@@ -427,19 +431,17 @@ Este impuesto se liquidará, aplicando a la base determinada en el artículo ant
 
 Del pago
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 34.
 
-El pago de este impuesto deberá efectuarse a más tardar el día doce del mes siguiente al de la percepción del ingreso; en la oficina de recaudación fiscal correspondiente a su jurisdicción, o ante las instituciones de crédito autorizadas por la Secretaría de la Hacienda Pública.
+El pago de este impuesto deberá efectuarse a más tardar el día doce del mes siguiente al de la percepción del ingreso, en la oficina de recaudación fiscal correspondiente a su jurisdicción, o ante las instituciones de crédito autorizadas por la Secretaría de la Hacienda Pública.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
-
-La obligación de presentar la declaración subsistirá aún cuando no se hayan obtenido ingresos gravados.
+La obligación de presentar la declaración subsistirá aun cuando no se hayan obtenido ingresos gravados.
 
 De las obligaciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 35.
 
@@ -451,33 +453,21 @@ II. Llevar un libro de ingresos y egresos en el que consignarán el concepto; fe
 
 III. Expedir y recabar documentación comprobatoria de sus operaciones;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
-
 IV. Presentar los avisos de inscripción o modificaciones ante el Registro Estatal, en los términos que disponen los artículos 50, 51 y demás aplicables del Código Fiscal del Estado;
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 V. Cumplir con las obligaciones y disposiciones que se establece (sic) en el Código Fiscal del Estado, entre las que se señalan de manera enunciativa, mas no limitativa, obligaciones en materia de contabilidad, conservación de la misma, de proporcionar a las autoridades fiscales avisos, datos informes o cualquiera otra documentación a que se obligue el Código Fiscal del Estado, en lo que no contravengan lo dispuesto en el presente capitulo; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-VI. Expedir constancia de retención del Impuesto Sobre Remuneración al Trabajo Personal no Subordinado, en el formato que al efecto apruebe la Secretaría de Planeación, Administración y Finanzas, de manera mensual o anual.
-
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2020)</small>
+VI. Expedir constancia de retención del Impuesto Sobre Remuneración al Trabajo Personal no Subordinado, en el formato que al efecto apruebe la Secretaría de la Hacienda Pública, de manera mensual o anual.
 
 VII. En el caso de retenedores, presentar declaración informativa anual ante las Oficinas de Recaudación Fiscal del Estado o a través de los medios electrónicos que establezca la Secretaría de la Hacienda Pública, en el formato oficial que ésta señale, por todas las operaciones del ejercicio, a más tardar en el mes de febrero del año siguiente al que corresponda la declaración.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
-
 Mismas obligaciones tendrán los recaudadores del impuesto, es decir, quienes permitan la utilización de sus instalaciones para la prestación de servicios independientes de medicina.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 36.
 
 Las personas físicas o jurídicas que contraten a sujetos obligados al pago de este impuesto y para efectos eventuales, están obligadas a conservar copia autógrafa del contrato que al efecto se celebre.
-
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2020)</small>
 
 La Secretaría de la Hacienda Pública podrá designar interventores, a fin de verificar que los pagos del impuesto se realicen en el periodo que corresponda por las actividades eventuales realizadas.
 
@@ -489,15 +479,15 @@ Quienes cubran remuneraciones objeto de este impuesto a contribuyentes que no es
 
 Las personas físicas y jurídicas que cubran las remuneraciones a que se refiere el artículo 30 de esta Ley, deberán retener el impuesto y enterarlo dentro del plazo establecido en este capítulo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 38.
 
-La Secretaría de la Hacienda Pública podrá estimar los ingresos de los sujetos de este impuesto o, en su defecto, determinar estimativamente el impuesto que los solidarios responsables debieran retener y enterar, en los siguientes casos:
+La Secretaría de la Hacienda Pública, podrá estimar los ingresos de los sujetos de este impuesto o, en su defecto, determinar estimativamente el impuesto que los solidarios responsables debieran retener y enterar, en los siguientes casos:
 
 I. Cuando no presenten sus declaraciones, no lleven los libros o registros de contabilidad o, en su caso no expidan o recaben la documentación comprobatoria a que están obligados;
 
-II. Cuando perciban ingresos gravados por este impuesto sin estar registrados, y
+II. Cuando perciban ingresos gravados por este impuesto sin estar registrados; y
 
 III. Cuando cubran remuneraciones efectuadas al gravamen y no se encuentren registrados como retenedores, ni cumplan con las obligaciones que, en materia de retención y entero, establece este capítulo.
 
@@ -507,25 +497,25 @@ Para practicar la estimación o determinación estimativa a que se refiere este 
 
 Del objeto
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 39.
 
-Son objeto de este impuesto, los pagos que en efectivo o en especie, realicen personas físicas o jurídicas en el estado de Jalisco, por concepto de remuneración al trabajo personal prestado bajo la subordinación de las mismas con carácter de patrón.
+Son objeto de este impuesto, los pagos que en efectivo o en especie, realicen personas físicas o jurídicas en el Estado de Jalisco, por concepto de remuneración al trabajo personal prestado bajo la subordinación de las mismas con carácter de patrón.
 
-Quedan incluidas las personas físicas o jurídicas, públicas o privadas, que sin estar domiciliadas en el Estado de Jalisco, tengan personal subordinado en el territorio de este, en sucursales, bodegas, agencias, unidades económicas, dependencias, entidades, delegaciones, representaciones, comisiones y cualquier ente o figura que permita tener personal subordinado dentro del mismo.
+Quedan incluidas las personas físicas o jurídicas, públicas o privadas, que sin estar domiciliadas en el Estado de Jalisco, tengan personal subordinado en el territorio de éste, en sucursales, bodegas, agencias, unidades económicas, dependencias y cualquier ente o figura que permita tener personal subordinado dentro del mismo.
 
 Para efecto de este impuesto se consideran remuneraciones al trabajo personal subordinado, las contraprestaciones, ordinarias o extraordinarias, que realicen los patrones en favor de sus empleados.
 
 De los sujetos
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 40.
 
-Son sujetos de este impuesto las personas físicas o jurídicas, públicas o privadas, obligados a efectuar los pagos a que se refiere el artículo anterior.
+Son sujetos de este impuesto las personas físicas o jurídicas obligados (sic) a efectuar los pagos a que se refiere el artículo anterior.
 
-Quedan comprendidos como sujetos de este impuesto, la Federación, así como sus organismos descentralizados, fideicomisos, dependencias, entidades paraestatales y organismos públicos autónomos.
+Quedan comprendidos como sujetos de este impuesto, la federación, así como sus organismos descentralizados, fideicomisos, dependencias, entidades paraestatales y organismos públicos autónomos.
 
 Serán responsables solidarios del pago de este impuesto las personas físicas o jurídicas que contraten y reciban la prestación del trabajo personal subordinado, aun cuando el pago del salario se realice por otra persona.
 
@@ -543,15 +533,15 @@ Este impuesto se liquidará de conformidad con la tarifa que al efecto establezc
 
 Del pago
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 43.
 
 El pago de este impuesto deberá efectuarse a más tardar el día doce del mes siguiente en que se causó.
 
-Dicho pago se hará mediante declaración en las Oficinas de Recaudación Fiscal que corresponda, en los términos del artículo 46 fracciones IV y V de esta Ley, en las formas oficiales o ante las instituciones de crédito autorizadas por la Secretaría de Planeación, Administración y Finanzas.
+Dicho pago se hará mediante declaración en las oficinas de recaudación fiscal que corresponda, en los términos del artículo 47 fracciones IV y V de esta Ley, en las formas oficiales o ante las instituciones de crédito autorizadas por la Secretaría de la Hacienda Pública.
 
-La obligación de presentar la declaración subsistirá aún cuando no se hayan efectuado erogaciones gravadas.
+La obligación de presentar la declaración subsistirá aun cuando no se hayan efectuado erogaciones gravadas.
 
 De las exenciones
 
@@ -595,19 +585,15 @@ b) Instituciones sin fines de lucro que realicen o promuevan asistencia social e
 
 c) Asociaciones de trabajadores y colegios de profesionistas.
 
-> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
-###### Artículo 44 Bis.
-
-Los contribuyentes que otorguen mecenazgos para la creación, mantenimiento y promoción cultural, sin fines de lucro, de autores jaliscienses, podrán aplicar una exención, contra el pago del Impuesto Sobre Nóminas a su cargo, por una cantidad equivalente al 60% del apoyo previamente acreditado, conforme a lo siguiente:
+Artículo 44 bis. Los contribuyentes que otorguen mecenazgos para la creación, mantenimiento y promoción cultural, sin fines de lucro, de autores jaliscienses, podrán aplicar una exención, contra el pago del Impuesto Sobre Nóminas a su cargo, por una cantidad equivalente al 60% del apoyo previamente acreditado, conforme a lo siguiente:
 
 I. Solo podrá accederse a este incentivo fiscal si el contribuyente se encuentra al corriente del pago de las demás obligaciones tributarias que esta ley le establezca;
 
-> <small>(F. DE E., P.O. 26 DE JULIO DE 2014)</small>
+II. El monto total del estímulo fiscal anual a distribuir no excederá del (0.006%) del total del Presupuesto del Gobierno del Estado;
 
-II. El monto total del estímulo fiscal anual a distribuir no excederá del (0.006%) del total del Presupuesto de Egresos del Gobierno del Estado, aprobado por el Congreso;
-
-III. El monto anual del apoyo susceptible de aplicarse al estímulo fiscal no podrá exceder de siete mil setecientos cincuenta días de salario mínimo general en el municipio de Guadalajara por creador ni por proyecto;
+III. El monto anual del apoyo susceptible de aplicarse al estímulo fiscal no podrá exceder de siete mil setecientos cincuenta veces al valor diario de la Unidad de Medida y Actualización por creador ni por proyecto;
 
 IV. El monto a acreditarse no podrá exceder del 20% del impuesto anual sobre nómina a cargo del contribuyente; y
 
@@ -615,85 +601,53 @@ V. El contribuyente que otorgue el apoyo solo podrá obtener reconocimiento por 
 
 Los estímulos previstos en este artículo podrán aplicarse a los procesos de creación de obras artísticas a que se refiere la Ley Federal del Derecho de Autor y los que señale la Ley de Mecenazgo Cultural del Estado de Jalisco.
 
-> <small>(F. DE E., P.O. 26 DE JULIO DE 2014)</small>
-
 Los apoyos serán inembargables, podrán proporcionarse en dinero o en especie y el contribuyente deberá entregarlo por conducto de la Secretaría de Cultura del Estado de Jalisco conforme a las reglas de operación que este organismo expida.
-
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2020)</small>
 
 La Secretaría de la Hacienda Pública, en el ejercicio de sus facultades, verificará el correcto uso del estímulo fiscal.
 
 De la estimación de erogaciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 45.
 
 La Secretaría de la Hacienda Pública podrá estimar las erogaciones en los siguientes casos:
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
-
-I. Cuando no presenten sus declaraciones o no lleven los libros o registros que legalmente están obligados a llevar; y
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+I. Cuando no presenten sus declaraciones o no lleven los libros o registros que legalmente están obligados a llevar;
 
 II. Cuando de los informes que se obtengan de las declaraciones y datos presentados por el contribuyente ante un tercero o ante cualquier dependencia o entidad gubernamental, exista discrepancia con los datos o importes declarados en materia de este impuesto o bien cuando el contribuyente fue omiso en su pago;
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
-
 En este caso, la autoridad fiscal dará a conocer al sujeto del impuesto, los datos contenidos en sus declaraciones e informes presentados ante un tercero o ante cualquier dependencia o entidad gubernamental, señalando el periodo sujeto a revisión, así como las cantidades que resultan como diferencia en el pago del impuesto, procediendo en los términos que establece el artículo 31-B del Código Fiscal del Estado, para que el contribuyente pueda manifestar lo que a su derecho convenga.
-
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2020)</small>
 
 III. Cuando no se cuente con registro en el padrón estatal de contribuyentes, no se presenten declaraciones o no se pague oportunamente el importe del Impuesto Sobre Nóminas, o se pague el impuesto de forma incorrecta, respecto de las remuneraciones al trabajo personal subordinado relacionado con el ramo de la construcción de bienes inmuebles, se estimarán las erogaciones de conformidad a los costos de mano de obra por metro cuadrado para la obra privada, así como los factores de mano de obra de los contratos de obra pública que rigen las diversas leyes sobre la materia, acorde con la determinación de salarios mínimos que emite la Comisión Nacional de Salarios Mínimos, los cuales dé a conocer la Secretaría de la Hacienda Pública mediante disposiciones de carácter general, en los términos que establezca el Código Fiscal del Estado.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+En este caso la autoridad fiscal determinará en cantidad líquida las contribuciones omitidas, en los términos que establezca el Código Fiscal del Estado, notificando al propietario o contratista de la obra del inmueble en el que se realizó la obra privada, otorgando un plazo de diez días, para que realice las aclaraciones que a su derecho convenga, el sujeto del impuesto podrá autocorregir su situación, dentro del plazo de diez días, mediante el pago de las contribuciones omitidas, en cuyo caso se impondrá la multa mínima.
 
-En este caso la autoridad fiscal determinará en cantidad liquida las contribuciones omitidas, en los términos que establezca el Código Fiscal del Estado, notificando al propietario o contratista de la obra del inmueble en el que se realizó la obra privada, otorgando un plazo de diez días, para que realice las aclaraciones que a su derecho convenga, el sujeto del impuesto podrá autocorregir su situación, dentro del plazo de diez días, mediante el pago de las contribuciones omitidas, en cuyo caso se impondrá la multa mínima.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
-
-En caso de que no se efectué el entero del impuesto omitido o no se realicen aclaraciones, dentro del plazo antes señalado, la autoridad fiscal procederá a hacer efectivo el crédito fiscal determinado.
+En caso de que no se efectúe el entero del impuesto omitido o no se realicen aclaraciones, dentro del plazo antes señalado, la autoridad fiscal procederá a hacer efectivo el crédito fiscal determinado.
 
 De las obligaciones de los contribuyentes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 46.
 
 Son obligaciones de los contribuyentes de este impuesto y en su caso de los retenedores, además de las establecidas en la presente Ley o en cualquier otra disposición legal, las siguientes:
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
-
 I. Presentar los avisos de inscripción o modificación ante el Registro Estatal, con los términos que disponen los artículos 50, 51 y demás aplicables del Código Fiscal del Estado;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
-
-II. Cumplir con las obligaciones y disposiciones que establece el Código Fiscal del Estado, entre las que se señalan de manera enunciativas (sic), obligaciones en materia de llevar contabilidad, conservación de la misma, de proporcionar a las autoridades fiscales, aviso, datos, informes o cualquier otra documentación a que obligue el Código Fiscal del Estado, en lo que no contravenga lo dispuesto en el presente capítulo;
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+II. Cumplir con las obligaciones y disposiciones que establece el Código Fiscal del Estado, entre las que se señalan de manera enunciativas, obligaciones en materia de llevar contabilidad, conservación de la misma, de proporcionar a las autoridades fiscales, aviso, datos, informes o cualquier otra documentación a que obligue el Código Fiscal del Estado, en lo que no contravenga lo dispuesto en el presente capítulo;
 
 III. Las sucursales, bodegas, agencias y otras dependencias de la matriz que se establezcan fuera del domicilio fiscal de ésta, deberán presentar su aviso de inscripción y pago por separado. En el caso de que dos o más establecimientos se encuentren ubicados en la misma localidad, uno deberá registrarse, para efectos de pago y los demás para efectos de control;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
-
 IV. Los contribuyentes que teniendo sus matrices fuera del estado, establezcan dentro del territorio del mismo, sucursales, bodegas, agencias, oficinas y otras dependencias, cuando se encuentren gravadas por este impuesto o cuando no lo estén, deberán registrarse para efectos de pago y control;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
 V. Las personas físicas o jurídicas que reciban la prestación de servicios de personal por parte de un tercero, no obstante que no paguen la nómina correspondiente de este personal, deberán retener el impuesto causado por el prestador de servicios de personal y enterarlo en el mismo plazo establecido para los sujetos de este impuesto. La misma obligación aplica a las personas físicas y jurídicas, que reciban la prestación de los citados servicios de personal por parte de un tercero, para la construcción de inmuebles ubicados en el territorio del Estado de Jalisco, sin importar que el receptor del servicio de referencia no se encuentre domiciliado en el Estado para fines fiscales.
-
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2020)</small>
 
 Así mismo, deberán presentar su aviso de inscripción en su carácter de retenedores ante la oficina de recaudación fiscal que corresponda a su domicilio y expedir constancia de retención del Impuesto Sobre Nómina, en el formato que al efecto apruebe la Secretaría de la Hacienda Pública, de manera mensual o anual.
 
 Las prestadoras de servicios de personal a que se refiere esta fracción, informarán mensualmente a la receptora de dicho servicio, el importe de la nómina y el impuesto correspondiente que habrá de retenerse.
 
 En caso de que la prestadora de servicios de personal no proporcione la información a que se refiere el párrafo anterior para efectos de la retención respectiva, esta se determinará aplicando al valor total de los servicios prestados en el mes, consignados en los respectivos comprobantes fiscales, el factor de .90 y a su resultado se le aplicará la tasa del impuesto.
-
-VI. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2014)
-
-VII. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2014)
 
 ### CAPITULO SEXTO. Del impuesto sobre hospedaje
 
@@ -717,27 +671,19 @@ Son sujetos de este impuesto, las personas físicas o morales que presten los se
 
 De las obligaciones
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 49.
 
 Las personas que presten los servicios de hospedaje, así como las que tengan a su cargo la administración u operación de sistemas de tiempo compartido, están obligadas a lo siguiente:
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
-
 I. Presentar los avisos de inscripción o modificación ante el Registro Estatal, en los términos que disponen, los artículos 50, 51 y demás aplicables del Código Fiscal del Estado;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2006)</small>
-
-II. Trasladar el impuesto a las personas a las que se preste el servicio de hospedaje y enterarlo en las oficinas autorizadas dentro del plazo señalado en este capítulo,
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+II. Trasladar el impuesto a las personas a las que se preste el servicio de hospedaje y enterarlo en las oficinas autorizadas dentro del plazo señalado en este capítulo;
 
 III. Llevar contabilidad en los términos que establece el Código Fiscal del Estado. Además, consignar en la documentación respectiva, el monto correspondiente al valor de la contraprestación por los servicios de hospedaje, donde se desglosen los servicios accesorios que en su caso se presenten; y
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
-
 IV. Cumplir con las obligaciones y disposiciones que establece el Código Fiscal del Estado, entre las que se señalan de manera enunciativa mas no limitativa, obligaciones en materia de contabilidad; conservación de la misma, de proporcionar a las autoridades fiscales, avisos, datos, informes o cualquier otra documentación a que obligue el Código Fiscal del Estado, en lo que no contravengan lo dispuesto en el presente capítulo.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2017)</small>
 
@@ -749,7 +695,7 @@ De igual forma estará obligada a retener el impuesto a las personas a las que s
 
 De la base del impuesto
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 50.
 
@@ -757,7 +703,7 @@ La base para el cálculo de este impuesto se integra con el valor total de la co
 
 Los servicios prestados bajo el sistema "todo incluido" por el cual el pago de la contraprestación contemple servicios adicionales al de hospedaje tales como alimentación, bebidas, transportación y otros similares, considerarán como base gravable únicamente el importe correspondiente al albergue, en caso de que no se desglosen y demuestren la prestación de los servicios accesorios, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
 
-El contribuyente podrá optar por estimar el Importe relativo al servicio de hospedaje dentro del sistema ''todo incluido”, sin que (sic) ningún caso puede ser inferior al 40% del monto total de los servicios comprendidos bajo este sistema.
+El contribuyente podrá optar por estimar el importe relativo al servicio de hospedaje dentro del sistema "todo incluido", sin que ningún caso puede ser inferior al 40% del monto total de los servicios comprendidos bajo este sistema.
 
 De la cuota
 
@@ -767,17 +713,13 @@ Este impuesto se liquidará y pagará de conformidad con la tarifa que al efecto
 
 Del pago
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 52.
 
 El entero del impuesto lo hará el prestador de servicios de hospedaje a más tardar el día 15 posterior a cada bimestre del año natural en las Oficinas de Recaudación Fiscal de la Secretaría de la Hacienda Pública o ante las instituciones de crédito autorizadas.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
-
-La obligación de presentar la declaración subsistirá aún cuando no se hayan obtenido ingresos gravados, si no se presenta el aviso de suspensión de actividades.
-
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2020)</small>
+La obligación de presentar la declaración subsistirá aun cuando no se hayan obtenido ingresos gravados, si no se presenta el aviso de suspensión de actividades.
 
 La plataforma digital de servicios de hospedaje, deberá presentar a más tardar el día 15 posterior a cada bimestre del año natural, declaración para el entero del impuesto, en los términos, condiciones, lineamientos, mecanismos y formatos, que para tal efecto establezca la Secretaría de la Hacienda Pública, y con apego a los ordenamientos en materia de protección de datos personales en posesión de sujetos obligados.
 
@@ -785,11 +727,11 @@ La plataforma digital de servicios de hospedaje, deberá presentar a más tardar
 
 Del objeto
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 53.
 
-Es objeto de este impuesto, la obtención de ingresos o premios derivados de loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase, cuando el billete, boleto, contraseña o cualquier otro comprobante que permita obtener dicho ingreso haya sido pagado, entregado, otorgado o distribuido en el territorio del Estado de Jalisco, independientemente del lugar en donde se realice el evento.
+Es objeto de este impuesto, la obtención de ingresos o premios derivados de loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase, autorizados legalmente independientemente del nombre con el que se les designe, así comola (sic) obtención de ingresos o premios derivados dejuegos (sic) o concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en el desarrollo de aquéllos utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares, cuando el ingreso por la obtención de premios haya sido pagado, entregado, otorgado o distribuido en el territorio del Estado de Jalisco, independientemente del lugar en donde se realice el evento.
 
 Se considera que el organizador de loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase, obtiene el ingreso o el premio, cuando una vez realizado el evento, no exista por virtud del mismo, persona que lo haya obtenido.
 
@@ -805,13 +747,11 @@ Las personas o instituciones que organicen o celebren los eventos objeto del imp
 
 De la base
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 55.
 
 Será base del impuesto, para los sujetos que obtengan los ingresos o premios derivados de loterías, rifas, sorteos, juegos con apuestas y concursos de todo tipo, el valor determinado o determinable que se obtenga.
-
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2020)</small>
 
 Tratándose de premios en especie, será base del impuesto el valor con el que se promocione cada uno de los premios; en su defecto, el valor de facturación, adjudicación y en ausencia de ambos, el de avalúo que practique la Secretaría de la Hacienda Pública.
 
@@ -825,9 +765,11 @@ Los contribuyentes que tengan la obligación de retener el impuesto objeto de es
 
 De la cuota
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 57.
 
-Este impuesto se liquidará, aplicando a la base determinada en el artículo 55, la tasa que al afecto señale la ley de Ingresos del Estado.
+Este impuesto se liquidará, aplicando a la base determinada en el artículo 57, la tasa que al afecto señale la ley de Ingresos del Estado.
 
 De las exenciones
 
@@ -837,7 +779,7 @@ No pagarán este impuesto los reintegros que se deriven por la celebración de l
 
 Del pago
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 59.
 
@@ -873,15 +815,15 @@ VI. Cumplir con las obligaciones y disposiciones que establece el Código Fiscal
 
 Del objeto
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 61.
 
 Es objeto de este impuesto:
 
-I. El ingreso que se obtenga en el Estado de Jalisco, por concepto de enajenación de boletos, billetes, registros, contraseñas y demás comprobantes que permitan participar en rifas, loterías, concursos, sorteos y juegos con apuestas.
+I. El ingreso que se obtenga en el Estado de Jalisco, por concepto de recargas o depósitos a tarjeta electrónica o similares, enajenación de boletos, billetes, registros, contraseñas, o cualquier otro comprobante o medio que permitan participar en rifas, loterías, concursos, sorteos y juegos con apuestasindependientemente (sic) del nombre con el que se les designe, que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, así como la realización de juegos o concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en el desarrollo de aquéllos utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares, que se efectúen en el territorio del Estado de Jalisco; y
 
-II. La distribución de boletos, billetes, registros, contraseñas y demás comprobantes que permitan participar en los eventos o actividades referidas, aún cuando no se cobre cantidad alguna que represente el derecho a participar en los mismos.
+II. La distribución de boletos, billetes, registros, contraseñas y demás comprobantes que permitan participar en los eventos o actividades referidas, aun cuando no se cobre cantidad alguna que represente el derecho a participar en los mismos.
 
 De los sujetos
 
@@ -897,13 +839,15 @@ De la base
 
 Servirá de base para el cálculo de este impuesto, el total de los ingresos que obtenga la persona quien organice, realice o explote rifas, loterías, concursos, sorteos y juegos con apuestas, disminuyendo el monto de los premios pagados o entregados.
 
-Cuando los boletos, billetes, registro, contraseñas y demás comprobantes, sean distribuidos gratuitamente o no se exprese su valor, el impuesto se calculará sobre el valor total de los premios.
+Cuando los boletos, billetes, registros, contraseñas y demás comprobantes, sean distribuidos gratuitamente o no se exprese su valor, el impuesto se calculará sobre el valor total de los premios.
 
 De la tarifa
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 64.
 
-Este impuesto se liquidará aplicando a la base determinada en el artículo anterior, la tasa que al efecto señale la ley de Ingresos del Estado.
+Este impuesto se liquidará aplicando a la base determinada en el artículo anterior, la tasa que al efecto señale la ley de ingresos del Estado.
 
 De las exenciones
 
@@ -919,17 +863,17 @@ Los Partidos Políticos Nacionales, que cuenten con registro vigente ante el Ins
 
 Del pago
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 66.
 
-Los sujetos obligados al pago del impuesto, deberán enterarlo a más tardar dentro de los 15 días naturales inmediatos posteriores al día de la celebración del evento de que se trate, el pago se hará mediante declaración en las oficinas de recaudación fiscal, correspondiente a su domicilio fiscal, o ante las instituciones de crédito autorizadas por la Secretaría de la Hacienda Pública del Gobierno del Estado.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+Los sujetos obligados al pago del impuesto, deberán enterarlo a más tardar dentro de los 15 días naturales inmediatos posteriores al día de la celebración del evento de que se trate, el pago se hará mediante declaración en las oficinas de recaudación fiscal, correspondiente a su domicilio fiscal, o ante las instituciones de crédito autorizadas por la Secretaría de la Hacienda Pública.
 
 El pago de este impuesto no libera de la obligación de obtener los permisos o autorizaciones correspondientes.
 
 De las obligaciones de los contribuyentes
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 67.
 
@@ -939,111 +883,77 @@ I. Presentar su aviso de inscripción en la oficina de recaudación fiscal corre
 
 II. Presentar ante las mismas autoridades, los avisos de cambio de domicilio, nombre o razón social, traspaso, reanudación o suspensión de actividades;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
-
 III. Efectuar mediante forma oficial aprobada, los pagos provisionales mensuales a más tardar el día 15 de cada mes, por los ingresos obtenidos en el mes inmediato anterior;
-
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2020)</small>
 
 IV. Informar a la Secretaría de la Hacienda Pública, siete días antes del inicio de la venta, en el formato oficial aprobado, el tipo de evento, precio y número de los boletos, billetes o contraseñas, la fecha de realización del mismo, así como la información y documentación que se establezca en la forma, acompañando una muestra de los referidos boletos, billetes o contraseñas.
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2020)</small>
+Cuando los sujetos obligados utilicen sistemas electrónicos de control para la emisión de boletos, billetes o contraseñas de los eventos de cruce de apuestas, o de loterías, rifas, sorteos y concursos que se realicen en el Estado, deberán solicitar autorizar (sic) previa a la Secretaría de la Hacienda Pública, la cual verificará que cuenta con el sistema central de cómputo cuyas características técnicas, de seguridad y requerimientos de información cumplen con las disposiciones establecidas por la autoridad fiscal federal para el pago del Impuesto Especial sobre Producción y Servicios;
 
-Cuando los sujetos obligados utilicen sistemas electrónicos de control para la emisión de boletos, billetes o contraseñas de los eventos de cruce de apuestas, o de loterías, rifas, sorteos y concursos que se realicen en el Estado, deberán solicitar autorización previa a la Secretaría de la Hacienda Pública, la cual verificará que cuenta con el sistema central de cómputo cuyas características técnicas, de seguridad y requerimientos de información cumplen con las disposiciones establecidas por la autoridad fiscal federal para el pago del Impuesto Especial sobre Producción y Servicios;
-
-V. Abstenerse de vender boletos en tanto no estén resellados por las autoridades fiscales.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2013)</small>
+V. Abstenerse de vender boletos en tanto no estén resellados por las autoridades fiscales;
 
 VI. Presentar una declaración, en la forma oficial aprobada, del ejercicio ante las oficinas autorizadas, dentro de los tres meses siguientes al cierre del ejercicio, una vez deducidos los pagos provisionales mensuales en aquellos casos en los que se esté obligado a presentarlos; y
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 VII. Cumplir con las obligaciones y disposiciones que establece el Código Fiscal del Estado, entre las que se señalan de manera enunciativa mas no limitativa, obligaciones en materia de contabilidad, conservación de la misma, de proporcionar a las autoridades fiscales avisos, datos, informes o cualquier otra documentación a que obligue el Código Fiscal del Estado, en lo que no contravengan lo dispuesto en el presente capítulo.
 
 ### CAPITULO UNICO. De los derechos
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ### CAPITULO UNICO. De los productos diversos
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ## TITULO TERCERO. Derechos
 
 ### CAPITULO UNICO. De los aprovechamientos
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 68.
 
-Los derechos por la prestación de servicios públicos a cargo de las diversas dependencias del Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en le (sic) momento en que se provoque el gasto que deba ser remunerado por el particular, salvo en el caso que las leyes estatales aplicables en la materia señalen cosa distinta.
+Los derechos por la prestación de servicios públicos a cargo de las diversas dependencias del Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento en que se provoque el gasto que deba ser remunerado por el particular, salvo en el caso que las leyes estatales aplicables en la materia señalen cosa distinta.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 69.
 
 A falta de disposición expresa, el importe de los derechos que resulten de acuerdo con las tasas o cuotas que señalen la Ley de Ingresos del Estado deberá ser cubierto en las Oficinas de Recaudación Fiscal de la jurisdicción donde se presta el servicio, o en el lugar que al efecto señale la Secretaría de la Hacienda Pública. No causarán pago de derechos los contratos de crédito que otorguen las instituciones de seguridad social para la adquisición de vivienda de interés social, que señale la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
+Tampoco causarán pago de derechos la expedición de constancias certificadas de inexistencia de registros de nacimientos, ni las certificaciones de las copias del acta del registro de nacimiento que se soliciten para trámites exclusivamente escolares de nivel preescolar, básico y medio superior.
 
-Tampoco causarán pago de derechos la expedición de constancias de inexistencia para el registro extemporáneo de nacimiento, ni las certificaciones de las copias del acta del registro de nacimiento que se soliciten para trámites exclusivamente escolares de nivel preescolar, básico y medio superior.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 70.
 
 Para el pago de los derechos que a continuación se enuncian se observará lo siguiente:
 
-> <small>(F. DE E., P.O. 16 DE DICIEMBRE DE 2000)</small>
-
-I. Tratándose de canje periódico general de placas de circulación de motocicletas, los derechos correspondientes deberán pagarse a más tardar el último día hábil del mes de marzo del año en que se realice el canje. Dicho plazo podrá ampliarse mediante acuerdo que al efecto expida el Ejecutivo del Estado;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+I. Tratándose de canje (sic) período general de placas de circulación de motocicletas, los derechos correspondientes deberán pagarse a más tardar el último día hábil del mes de marzo del año en que se realice el canje. Dicho plazo podrá ampliarse mediante acuerdo que al efecto expida el Ejecutivo del Estado;
 
 II. Tratándose de refrendo anual, tarjeta de circulación y holograma de automóviles, camiones, camionetas, tractores, automotores, remolques y otros vehículos, deberá realizarse en el periodo comprendido del 2 de enero al último día hábil del mes de marzo, debiendo cubrirse los derechos respectivos en ese mismo período. Este plazo podrá ampliarse mediante acuerdo que al efecto expida el Ejecutivo del Estado.
 
-> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
-
 Se considera inscrito el vehículo en el padrón al momento en que sean dotadas las placas de circulación. Además, se estará obligado a presentar los avisos de cambio de domicilio, cambio de propietario, modificación y baja de placas por robo o baja total;
-
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2020)</small>
 
 III. Los derechos que deban causar todos los documentos que tengan que registrarse en la Dirección del Registro Público de la Propiedad y Registro Público de Comercio, establecida en la ciudad de Guadalajara, deberán ser cubiertos en la Oficina de Recaudación Fiscal anexa a la misma, o en cualquier otra que señale el Secretario de la Hacienda Pública, mediante acuerdo general previo, independientemente de la municipalidad de la notaría pública que los autorice; en los demás casos, deberán ser cubiertos en la Oficina de Recaudación Fiscal del lugar donde está ubicada la oficina registral. El pago se efectuará previo aviso por escrito a la recaudadora de parte de la oficina que prestará el servicio, en el cual se deberá mencionar, la cantidad a cubrir, concepto afectado así como el fundamento legal correspondiente;
 
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2020)</small>
-
 IV. El pago de los derechos por los servicios prestados por la Secretaría General de Gobierno que señale la Ley de Ingresos del Estado, se efectuará en la Oficina Central de Recaudación Fiscal de la Secretaría de la Hacienda Pública, previamente a la prestación de los servicios que los originen; también podrá pagarse este derecho en cualquiera otra que mediante acuerdo general expida el Secretario de la Hacienda Pública;
 
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2020)</small>
-
-V. El pago de los derechos por los servicios que preste la Secretaría del Transporte que establezca la Ley de Ingresos del Estado, se efectuará en la Oficina de Recaudación Fiscal del lugar donde se reciba la prestación cuando ésta se realice, o en aquellas que para el efecto autorice la Secretaría de Planeación, Administración y Finanzas;
-
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2020)</small>
+V. El pago de los derechos por los servicios que preste la Secretaría de Transporte que establezca la Ley de Ingresos del Estado, se efectuará en la Oficina de Recaudación Fiscal del lugar donde se reciba la prestación cuando ésta se realice, o en aquellas que para el efecto autorice la Secretaría de la Hacienda Pública;
 
 VI. El pago de los derechos por los servicios de inspección y vigilancia que señale la Ley de Ingresos del Estado, se efectuará en la Oficina de Recaudación Fiscal que corresponda al domicilio del contribuyente o en la que autorice la Secretaría de la Hacienda Pública conforme a lo siguiente:
 
-a) Las que deben hacerse mensualmente, dentro de la primera quincena del mes a que corresponda, y
+a) Las que deben hacerse mensualmente, dentro de la primera quincena del mes a que corresponda; y
 
-b) Los restantes, dentro de los quince días siguientes al momento de que se realice el hecho que los genere.
-
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2003)</small>
+b) Los restantes, dentro de los quince días siguientes al momento de que se realice el hecho que los genere;
 
 VII. El pago de derechos por revisión semestral de vehículos automotores de servicio público a que se refiere la Ley de Ingresos del Estado, se hará ante la oficina de recaudación fiscal más cercana a la unidad administrativa que preste el servicio de inspección y vigilancia. Dicho entero se efectuará a más tardar el día quince de los meses de enero y julio.
 
-Los derechos por inspección de vehículos establecidos en las leyes de ingresos de los municipios, cuando éstos convengan la prestación del servicio con el Estado, serán cobrados por éste, el cual deberá participar a los municipios del cobro de este derechos (sic) estatal, en una cantidad no inferior a los montos que sus respectivas leyes de ingresos les autorizan;
-
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2003)</small>
+Los derechos por inspección de vehículos establecidos en las leyes de ingresos de los municipios, cuando éstos convengan la prestación del servicio con el Estado, serán cobrados por éste, el cual deberá participar a los municipios del cobro de este derecho estatal, en una cantidad no inferior a los montos que sus respectivas leyes de ingresos les autorizan;
 
 VIII. El pago de los derechos que establezca la Ley de Ingresos del Estado, se hará en la oficina de recaudación fiscal más cercana a la dependencia que origine el derecho; con excepción de los que se refieran a certificaciones de escritura, documentos privados de carácter contractual o no contractual; copias certificadas o constancias de educación y otros servicios, referidos en dicha Ley de Ingresos del Estado, cuyo pago deberá efectuarse en la oficina de recaudación fiscal, adjunta al Registro Público de la Propiedad de la ciudad de Guadalajara.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
-
 En el caso del pago por incorporación de establecimientos de enseñanza privada y por inspección de las mismas, deberá hacerse dentro de los tres meses siguientes a la fecha de iniciación del calendario escolar, ante la oficina central de recaudación fiscal;
 
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2020)</small>
-
-IX. El pago de los derechos derivados de la expedición de información que se obtenga en base a la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios, de conformidad al costo del servicio prestado, según lo establezca la Ley de Ingresos del Estado.
-
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2019)</small>
+IX. El pago de los derechos derivados de la expedición de información que se obtenga en base a la Ley de Transparencia e Información Pública del Estado de Jalisco, de conformidad al costo del servicio prestado, según lo establezca la Ley de Ingresos del Estado; y
 
 X. El pago de los derechos que se generen por la verificación vehicular.
 
@@ -1071,13 +981,13 @@ De las participaciones y aportaciones federales
 
 Quedan comprendidos dentro de esta clasificación, los ingresos, que obtiene el Estado por concepto de:
 
-I. Productos Tipo Corriente
+I. Productos Tipo Corriente:
 
 a) Arrendamiento de muebles e inmuebles propiedad del Estado;
 
 b) Venta de muebles e inmuebles propiedad del Estado;
 
-c) La explotación o enajenación de cualquiera (sic) naturaleza, de los bienes propiedad del Estado;
+c) La explotación o enajenación de cualquiera naturaleza, de los bienes propiedad del Estado;
 
 d) Resultados de establecimientos y empresas del Estado;
 
@@ -1095,7 +1005,7 @@ j) Fotocopiado de los libros del Registro Público de la Propiedad y del Comerci
 
 k) Otros diversos de los señalados en las fracciones anteriores, que perciba el Estado por actividades que no desarrolle en sus funciones propias de derecho público.
 
-II. Productos de Capital
+II. Productos de Capital:
 
 a) Rendimiento o intereses de capitales y valores del Estado.
 
@@ -1121,21 +1031,21 @@ De los ingresos extraordinarios
 
 Quedan comprendidos dentro de esta clasificación además de los establecidos en la presente Ley y en las demás leyes fiscales estatales, los ingresos que obtenga el Estado por concepto de:
 
-I. De los Aprovechamientos de Tipo Corriente
+I. De los Aprovechamientos de Tipo Corriente:
 
-a). Recargos, indemnizaciones por cheques no pagados por instituciones de crédito;
+a) Recargos, indemnizaciones por cheques no pagados por instituciones de crédito;
 
-b). Multas;
+b) Multas;
 
-c). Gastos de Ejecución; y
+c) Gastos de Ejecución;
 
-d). Los que se deban percibir de acuerdo con lo establecido en el Código Urbano para el Estado de Jalisco.
+d) Los que se deban percibir de acuerdo con lo establecido en el Código Urbano para el Estado de Jalisco;
 
-e). Incentivos derivados de la Colaboración Fiscal
+e) Incentivos derivados de la Colaboración Fiscal; y
 
-f). Otros aprovechamientos no especificados
+f) Otros aprovechamientos no especificados.
 
-II. De los Aprovechamientos de Capital
+II. De los Aprovechamientos de Capital:
 
 a) Intereses;
 
@@ -1155,7 +1065,7 @@ f) Otros aprovechamientos de capital no especificados.
 
 ### CAPITULO UNICO. De los ingresos por financiamientos
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 76.
 
@@ -1187,9 +1097,7 @@ Los ingresos por créditos otorgados al Estado se obtendrán:
 
 I. Por financiamientos contratados previa autorización del Congreso del Estado; y
 
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2020)</small>
-
-II. Por las obligaciones directas y contingentes a que se refiere (sic) Ley de Deuda Pública y Disciplina Financiera del Estado de Jalisco y sus Municipios.
+II. Por las obligaciones directas y contingentes a que se refiere la Ley de Deuda Pública y Disciplina Financiera del Estado de Jalisco y sus Municipios.
 
 ## TRANSITORIOS
 
@@ -1348,3 +1256,9 @@ P.O. 8 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27392/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 18 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27805/LXII/20 MEDIANTE EL CUAL SE MODIFICAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE JALISCO".]
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
