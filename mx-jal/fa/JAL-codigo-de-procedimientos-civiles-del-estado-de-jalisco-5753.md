@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2019-10-19"
+last_updated: "2020-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "JAL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -5886,17 +5886,21 @@ V.- En caso de muerte del comodatario o cuando así lo solicite el comodante si 
 
 Para que surta efectos de oposición del arrendador a la continuación de la ocupación del inmueble por el arrendatario, la demanda en que se ejercite la acción de terminación de contrato por tiempo definido deberá presentarse dentro de los treinta días naturales siguientes al vencimiento del mismo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 685.
 
-Recibida la demanda en la que se reclame el pago de rentas vencidas con los documentos que justifiquen la celebración del arrendamiento, si lo pide el actor, el juez dictará auto con efectos de cateo disponiendo se requiera al demandado para que en el acto de la diligencia, compruebe con los documentos respectivos, estar al corriente en el pago de las rentas, y si no lo hiciera se le embarguen bienes bastantes para cubrir las pensiones y costas reclamadas y acto continuo se le emplazará para que en el término de cinco días dé contestación a la demanda.
+Recibida la demanda en la que se reclame el pago de rentas vencidas con los documentos que justifiquen la celebración del arrendamiento, si lo pide el actor, el juez dictará auto con efectos de cateo disponiendo se requiera al demandado para que en el acto de la diligencia, compruebe con los documentos respectivos, estar al corriente en el pago de las rentas, y si no lo hiciera se le embarguen bienes bastantes para cubrir las pensiones y costas reclamadas y acto continuo se le emplazará para que en el término de cinco días dé contestación a la demanda haciéndolo sabedor que desde el día de su emplazamiento contrae la obligación de depositario judicial de la finca arrendada, de sus frutos y de todos los objetos que se encuentren adheridos al inmueble.
 
-En los casos a que se refieren las fracciones I y II del artículo 683 de este Código, y siempre que exista contrato por escrito, el juez ordenará, a petición del actor, se requiera al arrendatario, a efecto de que acredite la legal ocupación del inmueble, prevenido que de no hacerlo, tendrá un plazo de sesenta días naturales para desocupar totalmente y entregar el inmueble, apercibiéndolo que de no realizarlas en el plazo concedido, se procederá al lanzamiento a su costa.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
+
+En los casos a que se refieren las fracciones I, II y III del artículo 683 de este Código, y siempre que exista contrato por escrito, el juez ordenará, a petición del actor, se requiera al arrendatario, a efecto de que acredite la legal ocupación del inmueble, así como estar al corriente en el pago de las rentas, prevenido que de no hacerlo, tendrá un plazo de cuarenta días naturales para desocupar totalmente y entregar el inmueble, apercibiéndolo que de no realizarlas en el plazo concedido, se procederá al lanzamiento a su costa.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 La medida contenida en el párrafo anterior sólo podrá decretarse si el actor otorga garantía bastante para asegurar el pago de los daños y perjuicios que se pudieran ocasionar con la adopción de esta providencia.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 Cuando el arrendamiento se hubiere cumplido voluntariamente sin otorgarse el documento respectivo, o éste se hubiere perdido, previamente se justificará la existencia del contrato por cual quiera de los medios de prueba que autoriza este Código, el juez procederá como se previene en los párrafos anteriores.
 
@@ -5936,11 +5940,11 @@ En los casos de las dos últimas fracciones, la resolución que se pronuncie deb
 
 Exclusivamente en los casos previstos en este artículo el juez deberá otorgar al inquilino un plazo de gracia de treinta días naturales para que desocupe voluntariamente el inmueble, y aunque no se haga esta declaración, se entenderá sujeto al término expresado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### ARTICULO 688.
 
-La sentencia que declare procedente la acción de desocupación, dispondrá siempre el lanzamiento con un plazo de gracia de quince días naturales para la desocupación y entrega del inmueble.
+La sentencia que declare procedente la acción de desocupación, dispondrá siempre el lanzamiento con un plazo de gracia de quince días naturales improrrogables para la desocupación y entrega del inmueble.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -5948,7 +5952,9 @@ La sentencia que declare procedente la acción de desocupación, dispondrá siem
 
 La diligencia de lanzamiento se entenderá con el ejecutado o en su defecto con cualquier persona de su familia, doméstico, portero, vecino o agente de policía, pudiéndose emplear los servicios de un cerrajero y en su caso romper las cerraduras de las puertas de la finca si fuere necesario. Los muebles y objetos que en ella se encuentren, si no hubiere persona de la familia del demandado que los recoja u otra autorizada para ello, se pondrán bajo riguroso inventario en depósito judicial en el lugar designado por el ejecutante y bajo su responsabilidad, asentándose razón en el acta respectiva. En lo conducente deberá observarse lo dispuesto por el artículo 535.
 
-Si al irse a ejecutar el lanzamiento, el inquilino, su esposa o alguno de sus hijos se encontrare gravemente enfermo, el actuario suspenderá la diligencia dando cuenta al juez para que éste obre prudencialmente e igual procedimiento seguirá cuando en la casa cuyo desahucio va a efectuarse, no se hallaren en el acto el jefe de la familia o persona que haga sus veces y dentro hubiere niños o personas inválidas.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
+
+Si al ejecutar el lanzamiento, el inquilino, su esposa o alguno de sus hijos se encontrare gravemente enfermo, el secretario suspenderá la diligencia dando cuenta al juez para que éste obre prudencialmente e igual procedimiento seguirá cuando en la casa cuyo lanzamiento va a efectuarse, no se hallaren en el acto el jefe de la familia o persona que haga sus veces y dentro hubiere niños, niñas, adolecentes (sic) o personas con discapacidad que su traslado requiera un trato médico especial que imposibilite su salida.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -9643,5 +9649,11 @@ QUINTO. Las presentes disposiciones surtirán todos sus efectos en tanto no se o
 P.O. 19 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27373/LXII MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODOS DEL DEL (SIC) ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 18 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO27800/LXII/20 QUE REFORMA LOS ARTÍCULOS 685, 688 Y 689 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; Y EL ARTÍCULO 2045 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
