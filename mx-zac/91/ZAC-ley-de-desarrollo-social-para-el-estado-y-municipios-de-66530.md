@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-desarrollo-social-para-el-estado-y-municipios-de-66530"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-17"
-last_updated: "2019-10-26"
+last_updated: "2020-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
@@ -1013,11 +1013,13 @@ Las organizaciones, en los términos de la Ley de Fomento a las Actividades real
 
 ### Capítulo II. De la denuncia ciudadana
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 68.
 
-Las o los particulares, las o los beneficiarios, las organizaciones y las instituciones, podrán presentar denuncia popular ante la Secretaría de la Función Pública del Gobierno del Estado y las contralorías u instancias análogas de los municipios, sobre hechos, actos u omisiones, que produzcan o puedan producir daños al ejercicio de los derechos establecidos en la presente Ley o demás ordenamientos relacionados con el desarrollo social.
+Las o los particulares, las o los beneficiarios, las organizaciones y las instituciones, podrán presentar denuncia popular ante la Secretaría de la Función Pública del Gobierno del Estado y los órganos de control interno de los municipios, sobre hechos, actos u omisiones, que produzcan o puedan producir daños al ejercicio de los derechos establecidos en la presente Ley o demás ordenamientos relacionados con el desarrollo social.
+
+La denuncia popular podrá ser anónima y se sujetará únicamente a lo dispuesto en la legislación aplicable en materia de responsabilidades administrativas.
 
 ###### Artículo 69.
 
@@ -1268,3 +1270,13 @@ P.O. 26 DE OCTUBRE DE 2019.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
 
 Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 19 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 296.- SE REFORMA EL ARTÍCULO 68 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Artículo segundo. En tanto se reforma la Ley Orgánica del Municipio del Estado de Zacatecas, para constituir los órganos de control interno de los municipios, conocerán de dichas denuncias, en el ámbito de su competencia, las Contralorías Municipales a que se refiere el artículo 104 del citado ordenamiento.
+
+Artículo tercero. Se derogan las disposiciones que contravengan este Decreto.
