@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-del-titular-del-instituto-federal-de-defensoria-139517"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-12-11"
-last_updated: "2019-12-11"
+last_updated: "2020-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139517&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-11-29"
 
 ACUERDO DEL TITULAR DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE FEBRERO DE 2020.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de diciembre de 2019.
 
@@ -173,21 +173,23 @@ El Instituto Federal de Defensoría Pública contará al menos con una delegaci�
 
 ### CAPÍTULO III. De la Junta Directiva
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2020)</small>
+
 ###### ARTÍCULO 4.
 
 De las sesiones ordinarias y extraordinarias.
 
 Las sesiones de la Junta Directiva se celebrarán de conformidad con las siguientes bases:
 
-I. Las sesiones ordinarias de la Junta Directiva se celebrarán cuando menos cada seis meses con la calendarización que la misma Junta determine, a propuesta de la o el Director General en los dos primeros meses del año correspondiente. La convocatoria a sesión ordinaria deberá hacerse llegar vía electrónica con los documentos a discutir, al menos con 72 horas de anticipación.
+I. Las sesiones ordinarias de la Junta Directiva se celebrarán cuando menos cada seis meses con la calendarización que la misma Junta determine, a propuesta del Director General en los dos primeros meses del año correspondiente. La convocatoria a sesión ordinaria deberá hacerse llegar vía electrónica con los documentos a discutir, al menos con 72 horas de anticipación.
 
-II. Las sesiones extraordinarias serán convocadas por la o el Director General por decisión propia o por solicitud que le formulen, por lo menos tres miembros de la Junta Directiva. La convocatoria para sesiones extraordinarias deberá hacerse llegar vía electrónica al menos con 48 horas de anticipación.
+II. Las sesiones extraordinarias serán convocadas por el Director General por decisión propia o por solicitud que formulen a éste, por lo menos tres miembros de la Junta Directiva. La convocatoria para sesiones extraordinarias deberá hacerse llegar vía electrónica al menos con 48 horas de anticipación.
 
-III. La Junta Directiva tomará sus decisiones por unanimidad o mayoría de votos de los miembros presentes, no pudiendo abstenerse de votar ninguno de ellos, salvo cuando exista un impedimento legal que lo justifique; en caso de empate la Presidencia tendrá voto de calidad. Cuando algún miembro de la Junta disintiere de la mayoría, podrá formular su voto particular por escrito dentro de los cinco días hábiles siguientes al de la fecha de celebración de la sesión, el cual se anexará al acta respectiva.
+III. La Junta Directiva tomará sus decisiones por unanimidad o mayoría de votos de los miembros presentes, no pudiendo abstenerse de votar ninguno de ellos, salvo cuando exista un impedimento legal que lo justifique; en caso de empate el Presidente tendrá voto de calidad. Cuando algún miembro de la Junta disintiere de la mayoría, podrá formular su voto particular por escrito dentro de los cinco días hábiles siguientes al de la fecha de celebración de la sesión, el cual se anexará al acta respectiva.
 
 IV. El contenido de las actas de las sesiones será discutido y, en su caso, aprobado en la siguiente sesión ordinaria. Para tal efecto, el acta de la sesión anterior se enviará a los miembros de la Junta Directiva con razonable anticipación a la fecha de la sesión en que deba aprobarse.
-
-V. La Dirección General designará a una o un funcionario del Instituto para que funja como Secretaria o Secretario de la Junta Directiva.
 
 ### CAPÍTULO IV. Funciones de la Dirección General
 
@@ -247,7 +249,23 @@ XXIV. Determinar los procedimientos para certificar al personal con competencia 
 
 XXV. Llevar a cabo funciones de litigio, propias de la defensa pública o asesoría jurídica, cuando por necesidades del servicio así sea requerido, y
 
-XXVI. Las demás que le sean conferidas por las normas aplicables.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE FEBRERO DE 2020)</small>
+
+XXVI. Levantar, presentar y, en su caso, difundir públicamente, informes sobre posibles violaciones sistemáticas a los derechos humanos relacionadas con el procedimiento administrativo migratorio y las condiciones humanitarias, sanitarias y alimenticias de las estaciones migratorias u otros centros de detención, así como proponer mecanismos de solución a las autoridades correspondientes;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE FEBRERO DE 2020)</small>
+
+XXVII. Ordenar de oficio o a petición de parte, la práctica de monitoreos a las condiciones de internamiento en centros de detención, tanto en materia penal como administrativa, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 19 DE FEBRERO DE 2020)</small>
+
+XXVIII. Las demás que le sean conferidas por las normas aplicables.
 
 ### CAPÍTULO V. De las Unidades Administrativas
 
@@ -511,13 +529,17 @@ XXXIV. Las demás que determine la Dirección General.
 
 ### CAPÍTULO VII. Del Secretariado Técnico
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2020)</small>
+
 ###### ARTÍCULO 17.
 
 Integración del Secretariado Técnico.
 
 El secretariado técnico contará con el personal profesional y administrativo que determine el presupuesto.
 
-Se integrará, al menos, con cuatro Secretarías Técnicas, cuyas atribuciones serán asignadas por la Dirección General.
+Se integrará, al menos, con cuatro Secretarías Técnicas, cuyas atribuciones serán asignadas por el Director General y las Bases Generales.
 
 ###### ARTÍCULO 18.
 
@@ -534,6 +556,152 @@ III. Concentrar, validar y poner a disposición la información necesaria para l
 IV. Certificar documentos relacionados con la competencia y atribuciones de la secretaría a su cargo, y
 
 V. Las demás que determine la Dirección General.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 18 BIS. Objetivo de la Secretaría Técnica de Combate a la Tortura, Tratos Crueles e Inhumanos.
+
+La Secretaría Técnica tendrá como objetivos coordinar, supervisar y realizar acciones de monitoreo, incidencia, investigación, análisis y seguimiento a la respuesta institucional frente a los actos de tortura y otros tratos o penas crueles, inhumanos o degradantes.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 18 TER. Atribuciones de la Secretaría Técnica de Combate a la Tortura, Tratos Crueles e Inhumanos.
+
+Son atribuciones de la Secretaría Técnica:
+
+I. Analizar, evaluar y dar seguimiento a las recomendaciones internacionales o nacionales en materia de tortura y malos tratos que sean competencia del Instituto;
+
+II. Proponer al Director General acciones de mejora, manuales o protocolos para la atención de asuntos que involucren tortura o malos tratos;
+
+III. La o el titular de la Secretaría y el personal adscrito a la misma, realizará funciones de defensa penal y asesoría jurídica en los casos que involucren la posible comisión de actos de tortura o malos tratos en perjuicio de personas representadas por el Instituto, ante instancias nacionales e internacionales;
+
+IV. Diseñar, coordinar e impulsar estrategias de litigio para la investigación, juzgamiento, sanción y reparación integral de las víctimas del delito de tortura o malos tratos en perjuicio de personas representadas por el Instituto;
+
+V. Coordinar acciones de monitoreo, documentación y difusión respecto de la tortura y malos tratos a nivel nacional, para proponer las acciones que correspondan al Director General;
+
+VI. Participar, por instrucción del Director General, en espacios académicos e institucionales para promover el combate a la tortura y malos tratos;
+
+VII. La o el titular de la Secretaría y el personal adscrito a la misma, realizarán visitas a los centros de detención, cuando existan indicios de la posible comisión de actos de tortura o malos tratos en perjuicio de personas representadas por el Instituto, y
+
+VIII. Las demás funciones que determine el Director General y la normatividad aplicable.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 18 CUARTER. Objetivo de la Secretaría Técnica de Equidad de Género y Atención a Grupos Vulnerables.
+
+La Secretaría Técnica tiene como objetivos coordinar y realizar acciones de investigación y análisis de asuntos relevantes en materia de equidad e igualdad de género, de atención a grupos en situación de vulnerabilidad, así como generar y promover estrategias de colaboración con entidades públicas nacionales e internacionales y organizaciones de la sociedad civil, para fortalecer el trabajo institucional en seguimiento a los compromisos nacionales e internacionales en materia de derechos humanos de los mencionados grupos.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 18 QUINTUS. Atribuciones de la Secretaría Técnica de Equidad de Género y Atención a Grupos Vulnerables.
+
+Son atribuciones de la Secretaría Técnica:
+
+I. Atender los requerimientos de información y orientación formulados por las representaciones consulares respecto de sus connacionales sujetos a procesos penales en México y que estén siendo atendidos por Defensores Públicos del Instituto; así como, informar periódicamente a las referidas representaciones sobre los casos vigentes;
+
+II. Coordinar acciones de investigación y monitoreo respecto a temas de grupos en situación de vulnerabilidad a nivel nacional para proponer acciones que correspondan al Director General;
+
+III. Apoyar al Director General en el levantamiento de información y acciones que involucren violaciones a los derechos humanos de migrantes en las estaciones migratorias o cualquier centro de detención;
+
+IV. Proponer proyectos de mejora al Director General para establecer acciones en materia de equidad e igualdad de género, así como para la atención de grupos en situación de vulnerabilidad, tales como personas en movilidad y sujetas a protección internacional, niñas y niños, adolescentes en conflicto con la ley penal, población indígena y afrodescendiente, personas con discapacidad, entre otros;
+
+V. La o el titular de la Secretaría y, en su caso, el personal adscrito a la misma, realizará funciones de defensa penal y asesoría jurídica en los casos relacionados con los temas encomendados a ésta por la Dirección General;
+
+VI. Investigar, analizar, evaluar y dar seguimiento a las recomendaciones nacionales e internacionales en materia de derechos humanos competencia de la Secretaría Técnica para proponer acciones que correspondan al Instituto;
+
+VII. Proponer al Director General proyectos al interior del Instituto, relacionados con el tema de hostigamiento y acoso sexual;
+
+VIII. Proponer al Director General ajustes razonables en las instalaciones del Instituto o donde su personal se encuentre adscrito, que permitan la adecuada y segura prestación de los servicios de defensa penal y de asesoría jurídica a personas con discapacidad;
+
+IX. Coordinar la certificación y evaluación del personal bilingüe indígena del Instituto;
+
+X. Coordinar las actividades del personal que determine el Director General en los temas que le encomiende, y
+
+XI. Las demás funciones que determine el Director General del Instituto y la normatividad aplicable.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 18 SEXTUS. Objetivos de la Secretaría Técnica de Cooperación Interinstitucional.
+
+La Secretaría Técnica tiene como objetivos coordinar diversas acciones con otras instituciones relacionadas con la prestación de los servicios que brinda el Instituto, apoyar como Secretario Técnico de la Junta Directiva en la organización y desarrollo de sus sesiones; crear redes de cooperación interinstitucionales y fungir como enlace; apoyar a la Dirección General del Instituto en el seguimiento al cumplimiento de sus instrucciones, y homologar criterios al interior del Instituto, derivados de la atención de consultas.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 18 SEPTIMUS. Atribuciones de la Secretaría Técnica de Cooperación Interinstitucional.
+
+Son atribuciones de la Secretaría Técnica:
+
+I. Elaborar en acuerdo con el Director General, el orden del día para las sesiones de la Junta Directiva, así como las convocatorias respectivas;
+
+II. Apoyar al Director General en el desarrollo de las sesiones de la Junta Directiva, así como en el seguimiento de lo acordado en las mismas;
+
+III. Desarrollar, en coordinación con las Unidades y Secretarías Técnicas o cualquier otro ente relacionado con la defensoría pública, las acciones necesarias para atender las problemáticas que puedan presentarse con motivo de la prestación de los servicios;
+
+IV. Dar seguimiento a la implementación de los sistemas de justicia penal y laboral en el ámbito de competencia del Instituto;
+
+V. Participar junto con las Unidades y Secretarías Técnicas en el establecimiento de redes nacionales que contribuyan en la calidad de los servicios que presta el Instituto, y fungir como enlace institucional;
+
+VI. Elaborar criterios que permitan homologar o unificar criterios en la interpretación de la normativa que aplica el personal del Instituto, en los términos que al efecto determine el Director General;
+
+VII. Colaborar en la organización y desarrollo de los eventos propuestos por el Director General y aquellos en los que se requiera la participación del Instituto;
+
+VIII. Dar seguimiento al cumplimiento de las instrucciones que el Director General emita a los Titulares de las Unidades y Secretarías Técnicas;
+
+IX. Colaborar con el Director General en la integración del Programa Anual de Trabajo del Instituto;
+
+X. Colaborar con el Director General en la integración del Informe Anual del Instituto;
+
+XI. Promover la adopción de mecanismos alternativos de solución de controversias que contribuyan a reducir la judicialización de casos, en beneficio de los usuarios del Instituto, y
+
+XII. Las demás funciones que determine el Director General y la normatividad aplicable.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 18 OCTAVUS. Objetivos de la Secretaría Técnica de Vinculación con la Sociedad.
+
+La Secretaría Técnica tiene como objetivos coordinar diversas acciones con otras instituciones relacionadas con la prestación de los servicios que brinda el Instituto, así como su difusión y coordinar la vinculación institucional con la sociedad.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 18 NOVENUS. Atribuciones de la Secretaría Técnica de Vinculación con la Sociedad.
+
+Son atribuciones de la Secretaría Técnica:
+
+I. Representar al Director General ante la Unidad de Transparencia del Consejo de la Judicatura Federal, siendo el enlace con la citada Unidad, para la atención de solicitudes de acceso a la información y datos personales que sean competencia del Instituto;
+
+II. Coordinar y distribuir las solicitudes de información pública y datos personales, que se presenten al Instituto; así como supervisar y enviar las respuestas de dichas peticiones dentro de los plazos establecidos;
+
+III. Coordinar las acciones en materia de servicio social y prácticas profesionales en el Instituto, y dar seguimiento a los convenios que en esa materia se celebren;
+
+IV. Coordinar y supervisar las acciones necesarias para el desahogo y seguimiento de los juicios de amparo y otros procedimientos jurisdiccionales en que el titular del Instituto sea parte;
+
+V. Promover y coordinar la firma de convenios de colaboración que contribuyan a lograr las finalidades del Instituto y mejorar la prestación de los servicios;
+
+VI. Coordinar la actualización de los contenidos de la página electrónica del Instituto;
+
+VII. Participar en el diseño y programación de las acciones necesarias, para difundir los servicios que brinda el Instituto, a fin de garantizar el acceso a la justicia de los usuarios;
+
+VIII. Coordinar las acciones necesarias entre el Instituto y diversas Unidades Administrativas del Consejo de la Judicatura Federal, como la Dirección General de Comunicación Social y Vocería, respecto al personal del Instituto que acuda a programas de radio y televisión;
+
+IX. Administrar y crear contenidos de las cuentas oficiales de redes sociales del Instituto, y
+
+X. Las demás funciones que determine el Director General del Instituto y la normatividad aplicable.
 
 ## TÍTULO SEGUNDO. De los servicios del Instituto Federal de Defensoría Pública
 
@@ -679,7 +847,11 @@ Existe conflicto de intereses que obliga a la sustitución de la o el defensor, 
 
 Tipos de visita que debe realizar la o el defensor público.
 
-En los centros de reclusión, en los que deberá proporcionarse un espacio adecuado y seguro, el personal de defensa pública realizará dos tipos de visita:
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE FEBRERO DE 2020)</small>
+
+En los centros de reclusión, en los que deberá proporcionarse un espacio adecuado y seguro, el personal de defensa pública realizará dos tipos de visita, ya sea de manera presencial o a distancia:
 
 I. Visita inicial.- Es la que se lleva a cabo dentro de las cuarenta y ocho horas siguientes a la aceptación de la defensa en ambas instancias, y tiene por objeto conocer de manera directa la versión de su defendida o defendido sobre los hechos que se le imputan, para contar con mayores elementos al plantear la estrategia de defensa. En dicha visita, se entrega a la persona inculpada la tarjeta informativa señalada en el título referente a la información documental de estas Bases. La o el defensor público deberá solicitar a la persona inculpada el número de teléfono de un familiar de confianza, que será informado periódicamente del estado que guarda el caso, y
 
@@ -762,6 +934,40 @@ II. Asesoría.- Se proporciona a la persona solicitante respecto al problema pla
 III. Representación.- Consiste en el patrocinio legal que se otorga a la persona que solicita la prestación del servicio, por ser destinataria del mismo conforme a lo dispuesto en la Ley y en estas Bases; en caso de duda deberá practicarse estudio socioeconómico, para determinar si cumple con los requisitos correspondientes. La actuación de la asesoría jurídica comprende todas las fases procedimentales o instancias judiciales que prevén las leyes respectivas, agotando los recursos legales previstos y la promoción del juicio de amparo si fuere necesario.
 
 Cuando la o el usuario exprese por escrito, en forma clara y precisa, que no tiene interés en que se le siga representando por causa no imputable a la asesoría jurídica, se dará por concluido el servicio haciéndose las anotaciones que procedan.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 38 BIS. De las obligaciones de los asesores jurídicos especializados en la atención a personas en movilidad y sujetas a protección internacional.
+
+Son obligaciones de los asesores jurídicos especializados en movilidad y sujetas a protección internacional:
+
+I. Brindar orientación, asesoría y representación a personas en movilidad, de oficio, a petición de la parte interesada o por conducto de terceros, y en aquellos asuntos en que la materia a resolver derive de la calidad migratoria del usuario;
+
+II. Brindar información a los usuarios sobre el derecho que tienen las personas a solicitar el reconocimiento de la condición de refugiado o de protección complementaria, según sea el caso, ante la autoridad correspondiente;
+
+III. Representar a los usuarios que por su calidad migratoria se encuentren privadas de la libertad en estancias migratorias o centros de detención alternos, no penales;
+
+IV. Promover amparos colectivos en favor de personas en movilidad;
+
+V. Efectuar trámites individuales o colectivos ante la Comisión Mexicana de Ayuda a Refugiados;
+
+VI. Efectuar los trámites individuales ante el Instituto Nacional de Migración, la Secretaría de Relaciones Exteriores y demás instituciones vinculadas en materia migratoria;
+
+VII. Visitar con regularidad a estaciones migratorias o centros de detención alternos, para brindar los servicios que ofrece el Instituto;
+
+VIII. Visitar con regularidad albergues, casas del migrante, campamentos, puentes internacionales o cualquier otro centro de ayuda a personas en movilidad;
+
+IX. Solicitar el reconocimiento de representante especial ante los órganos jurisdiccionales correspondientes para niñas, niños y adolescentes en movilidad;
+
+X. Procurar una comunicación permanente con organismos de la sociedad civil, organismos internacionales y representaciones consulares, especializadas en temas de movilidad que se encuentren en las entidades federativas de su adscripción, con el objetivo de promover los servicios del Instituto;
+
+XI. Procurar la protección o realización de los derechos humanos, libertades fundamentales y garantías individuales en los planos nacional o internacional, en favor de las personas en movilidad;
+
+XII. Trabajar en coordinación con los asesores de otras entidades federativas, cuando se requiera alguna acción ante una instancia que se encuentre ubicada en lugar diferente al de la residencia de quien lo pide, y
+
+XIII. Las demás funciones que determine el Director General del Instituto y la normatividad aplicable.
 
 ###### ARTÍCULO 39.
 
@@ -1241,11 +1447,17 @@ Principios del servicio civil de carrera.
 
 Los principios que tutelan el servicio civil de carrera son: excelencia, profesionalismo, objetividad, imparcialidad, independencia y antigüedad.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2020)</small>
+
 ###### ARTÍCULO 76.
 
 Selección e ingreso.
 
-La selección y el ingreso a la Institución, se realizan aplicando los "Lineamientos para la Selección de Ingreso de los Defensores Públicos y Asesores Jurídicos del Instituto Federal de Defensoría Pública", aprobados por la Junta Directiva del Instituto.
+La selección y el ingreso a la Institución se llevará a cabo mediante Concurso de oposición o Examen de ingreso a la Lista de personas aptas para ser designadas en los cargos de Defensor Público y Asesor Jurídico.
+
+Ambas modalidades se llevarán a cabo aplicando los Lineamientos para la Selección de Ingreso de los Defensores Públicos y Asesores Jurídicos del Instituto Federal de Defensoría Pública, que para tal efecto sean aprobados por la Junta Directiva del Instituto.
 
 ###### ARTÍCULO 77.
 
@@ -1257,11 +1469,41 @@ La promoción y el ascenso a los cargos referidos en el artículo 74, se regirá
 
 Concurso de oposición.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2020)</small>
+
+La Dirección General del Instituto convocará al Concurso de oposición para selección e ingreso de defensores públicos y asesores jurídicos, conforme a las necesidades del servicio, con la oportunidad y frecuencia que considere necesarias.
+
 A las personas concursantes de oposición que hayan aprobado, se les otorgará una plaza definitiva de confianza de conformidad con lo previsto por el artículo 9 de la Ley, así como por el lineamiento 10, inciso b), de los "Lineamientos para la Selección de Ingreso de los Defensores Públicos y Asesores Jurídicos del Instituto Federal de Defensoría Pública".
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 78 BIS. Examen de ingreso a la Lista de personas aptas para ser designadas en los cargos de Defensor Público y Asesor Jurídico.
+
+La Dirección General podrá emitir convocatoria para el Examen de ingreso a la Lista de personas aptas para ser designadas en los cargos de Defensor Público y Asesor Jurídico, con la finalidad de que las personas que cumplan con los criterios establecidos en los Lineamientos relativos, puedan integrarse a esta.
+
+La lista de referencia se publicará en la página web oficial del Instituto, con los nombres de las personas que resulten aptas para ser designadas en los cargos de mérito.
+
+Cuando por el número de plazas disponibles o atendiendo a las necesidades del servicio, no se considere viable la celebración de un Concurso de oposición, los miembros de la Junta Directiva del Instituto podrán aprobar la vía de Examen de ingreso a la Lista para una posterior designación en el cargo de Defensor Público o Asesor Jurídico, de las personas que tengan las calificaciones más altas en la lista relativa, mismas que no deberán ser menores a ochenta y cinco puntos, en una escala de cero a cien, otorgándoles, en su caso, una plaza definitiva de confianza, pasando a formar parte del servicio civil de carrera del Instituto.
+
+La permanencia de una persona en la lista de referencia será de tres años; la designación en el cargo de defensor público o asesor jurídico, genera la salida de la misma.
+
+Una vez transcurridos los tres años, las personas que no hubieran sido designadas para ocupar tales cargos, podrán solicitar su incorporación a la nueva lista que, en su caso sea integrada, para lo cual deberán cursar las especializaciones en defensa penal y asesoría jurídica, impartidas por el propio Instituto y conseguir una calificación mínima de 8.5, para que el resultado sirva de referencia del lugar que deberán ocupar en la lista.
+
+El ingreso a la Lista de personas aptas para ser designadas en los cargos de Defensor Público y Asesor Jurídico, no garantiza a sus integrantes la obtención de una plaza de defensor público o asesor jurídico en el Instituto Federal de Defensoría Pública; tampoco genera una obligación al Instituto de otorgar una plaza a sus integrantes en forma automática, ni constituye una obligación laboral entre las personas que la integren y el propio Instituto.
+
+La designación en los cargos de Defensor Público y Asesor Jurídico respecto de las personas que integran la Lista corresponderá a la Dirección General, de conformidad con los criterios de equidad de género, no discriminación, de lenguas indígenas, así como los demás aprobados en la convocatoria que para tal efecto se haya emitido, por lo que el ingreso a la Lista no genera el derecho automático para ingresar al Servicio Civil de Carrera.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE FEBRERO DE 2020)</small>
 
 ###### ARTÍCULO 79.
 
-Adscripción de las y los servidores públicos de oposición.
+Adscripción de las y los servidores públicos de nuevo ingreso.
 
 La adscripción se otorgará después de realizar el procedimiento de readscripción de la o el defensor público, asesor jurídico, defensor supervisor, asesor supervisor, defensor evaluador, asesor evaluador o titular de Delegación, y de la publicación de la lista de personas aprobadas en el concurso.
 
@@ -1403,11 +1645,19 @@ En su caso, una o un delegado, evaluador o supervisor podrá solicitar dentro de
 
 Para que una o un servidor público del servicio civil de carrera pueda obtener una promoción deberá tener una permanencia en su categoría al menos de dos años al momento de la publicación del procedimiento interno de selección.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE FEBRERO DE 2020)</small>
+
 ###### ARTÍCULO 92.
 
-Promoción a categoría de defensa o asesoría supervisión.
+Promoción a la categoría de defensor supervisor y asesor supervisor.
 
-Cuando exista una vacante, la o el defensor público o asesor jurídico del servicio civil de carrera que, en el desempeño de su cargo demuestre objetividad, perseverancia, acuciosidad y orden, podrá participar en los procedimientos internos de selección para ascender a la categoría de defensa supervisión y asesoría supervisión, tomando en cuenta los elementos siguientes:
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE FEBRERO DE 2020)</small>
+
+Cuando exista una vacante, la o el defensor público o asesor jurídico del servicio civil de carrera que, en el desempeño de su cargo demuestre objetividad, perseverancia, acuciosidad y orden, podrá participar en los procedimientos internos de selección para ascender a la categoría de defensor supervisor y asesor supervisor, tomando en cuenta los elementos siguientes:
 
 I. Antigüedad de dos años en la institución encargada de la defensoría pública federal y en su plaza;
 
@@ -1421,13 +1671,25 @@ V. Continuidad en el desempeño, y
 
 VI. Haber ejercido su función bajo los principios de ética, probidad, honradez y profesionalismo.
 
-A quienes obtengan el triunfo en esos procedimientos se les otorgará una plaza perteneciente al servicio civil de carrera de supervisión en materia de defensa penal o de supervisión en materia de asesoría jurídica, según sea la función que desempeñe. La Dirección General del Instituto determinará la adscripción conforme a las necesidades del servicio y podrá tener en cuenta las preferencias expresadas por las personas ganadoras.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2020)</small>
+
+A quienes obtengan el triunfo en esos procedimientos se le (sic) otorgará una plaza perteneciente al servicio civil de carrera, de defensor supervisor o asesor supervisor, según sea la función que desempeñe. La Dirección General del Instituto determinará la adscripción conforme a las necesidades del servicio y podrá tener en cuenta las preferencias expresadas por las personas ganadoras.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE FEBRERO DE 2020)</small>
 
 ###### ARTÍCULO 93.
 
-Promoción a categoría de defensa o asesoría evaluación.
+Promoción a la categoría de defensor evaluador y asesor evaluador.
 
-Cuando exista una vacante, la o el defensor supervisor y asesor supervisor del servicio civil de carrera que, en el desempeño del cargo, demuestren objetividad, perseverancia, acuciosidad y orden, podrán participar en los procedimientos internos de selección para ascender a la categoría de defensa evaluación y asesoría evaluación, tomando en cuenta los elementos siguientes:
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE FEBRERO DE 2020)</small>
+
+Cuando exista una vacante, la o el defensor supervisor y asesor supervisor del servicio civil de carrera que, en el desempeño del cargo, demuestren objetividad, perseverancia, acuciosidad y orden, podrán participar en los procedimientos internos de selección para ascender a la categoría de defensor evaluador y asesor evaluador, tomando en cuenta los elementos siguientes:
 
 I. Antigüedad de dos años en el cargo de defensa supervisión y asesoría supervisión dentro de la defensoría pública federal;
 
@@ -1441,13 +1703,25 @@ V. Continuidad en el desempeño, y
 
 VI. Haber ejercido su función bajo los principios de ética, probidad, honradez y profesionalismo.
 
-A quienes obtengan el triunfo en esos procedimientos se les otorgará una plaza perteneciente al servicio civil de carrera de defensa o asesoría evaluación. La Dirección General del Instituto determinará la adscripción conforme a las necesidades del servicio y podrá tener en cuenta las preferencias expresadas por las personas ganadoras.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2020)</small>
+
+A quienes obtengan el triunfo en esos procedimientos se les otorgará una plaza perteneciente al servicio civil de carrera, de defensor evaluador o asesor evaluador. La Dirección General del Instituto determinará la adscripción conforme a las necesidades del servicio y podrá tener en cuenta las preferencias expresadas por las personas ganadoras.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE FEBRERO DE 2020)</small>
 
 ###### ARTÍCULO 94.
 
-Promoción a categoría de titular de Delegación.
+Promoción a la categoría de Delegado.
 
-Cuando exista una vacante, la o el defensor o asesor evaluador del servicio civil de carrera, en el desempeño del cargo demuestren objetividad, perseverancia, acuciosidad y orden, además de liderazgo y control, podrán participar en los procedimientos internos de selección para ascender a la categoría de titular de delegación, tomando en cuenta los elementos siguientes:
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE FEBRERO DE 2020)</small>
+
+Cuando exista una vacante, la o el defensor o asesor evaluador del servicio civil de carrera, en el desempeño del cargo demuestren objetividad, perseverancia, acuciosidad y orden, además de liderazgo y control, podrán participar en los procedimientos internos de selección para ascender a la categoría de delegado, tomando en cuenta los elementos siguientes:
 
 I. Antigüedad de dos años en el cargo de defensa o asesoría evaluación de la defensoría pública federal;
 
@@ -1461,7 +1735,11 @@ V. Continuidad en el desempeño, y
 
 VI. Haber ejercido su función bajo los principios de ética, probidad, honradez y profesionalismo.
 
-A quienes obtengan el triunfo en esos procedimientos se les otorgará una plaza perteneciente al servicio civil de carrera de titular de delegación. La Dirección General del Instituto decidirá la adscripción conforme a las necesidades del servicio y podrá tener en cuenta las preferencias manifestadas por las personas ganadoras.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2020)</small>
+
+A quienes obtengan el triunfo en esos procedimientos se les otorgará una plaza perteneciente al servicio civil de carrera, de delegado. La Dirección General del Instituto decidirá la adscripción conforme a las necesidades del servicio y podrá tener en cuenta las preferencias manifestadas por las personas ganadoras.
 
 ###### ARTÍCULO 95.
 
@@ -1569,7 +1847,11 @@ Deberán intervenir en cada una de las etapas del procedimiento, desde su detenc
 
 Entrevistas con la persona defendida.
 
-El personal de defensa pública o demás con licenciatura en derecho facultado para realizar funciones de defensa penal, de manera constante se entrevistará con sus personas defendidas o las visitará en los centros de detención o reclusión, salvaguardando en todo momento la integridad física de ambos, con la finalidad de conocer su versión de los hechos, preparar su teoría del caso, determinar qué pruebas se pueden hacer valer y cuáles deben ser obtenidas por él o con apoyo o bajo la responsabilidad de la persona imputada, acusada o sentenciada, según se trate; informarlo detenidamente de la manera en que se desarrollará cada etapa del procedimiento penal al cual está relacionado, y en general, mantenerla informada, así como recibir sus peticiones y analizarlas conjuntamente.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2020)</small>
+
+El personal de defensa pública o demás con licenciatura en derecho facultado para realizar funciones de defensa penal, de manera constante se entrevistará con sus personas defendidas o las visitará en los centros de detención o reclusión, ya sea de manera presencial o a distancia, salvaguardando en todo momento la integridad física de ambos, con la finalidad de conocer su versión de los hechos, preparar su teoría del caso, determinar qué pruebas se pueden hacer valer y cuáles deben ser obtenidas por él o con apoyo o bajo la responsabilidad de la persona imputada, acusada o sentenciada, según se trate; informarlo detenidamente de la manera en que se desarrollará cada etapa del procedimiento penal al cual está relacionado, y en general, mantenerla informada, así como recibir sus peticiones y analizarlas conjuntamente.
 
 Se deberá garantizar un lugar privado para que la defensa pública o demás personal con licenciatura en derecho facultado para realizar funciones de defensa penal, pueda llevar a cabo la entrevista en condiciones seguras.
 
@@ -1706,3 +1988,23 @@ Integrante
 Doctor Héctor Arturo Hermoso Larragoiti
 
 Integrante
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LAS MODIFICACIONES Y ADICIONES DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA.]
+
+PRIMERO. El presente Acuerdo y su anexo único entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Dirección General del Instituto realizará las gestiones que resulten necesarias para la publicación de este Acuerdo y su anexo único en el Diario Oficial de la Federación y en la página electrónica del Instituto.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL "ACUERDO DEL TITULAR DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA"]</small>
+
+PRIMERO. En cumpliciento a lo ordenado por la Junta Directiva del Instituto Federal de Defensoría Pública, en sesión ordinaria del veintiocho de enero del año dos mil veinte, publíquese el presente acuerdo en el Diario Oficial de la Federación.
+
+SEGUNDO. Las modificaciones y adiciones de las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública aprobadas por la Junta Directiva en sesión ordinaria del veintiocho de enero del año dos mil veinte, estarán disponibles en los siguientes vínculos electrónicos: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf
+
+## TRANSITORIO
+
+ÚNICO. Las modificaciones y adiciones de las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública aprobadas por la Junta Directiva en sesión ordinaria del veintiocho de enero del año dos mil veinte, entrarán en vigor al día siguiente de la publicación del presente acuerdo en el Diario Oficial de la Federación.
