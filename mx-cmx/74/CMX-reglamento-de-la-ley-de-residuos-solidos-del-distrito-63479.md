@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-residuos-solidos-del-distrito-63479"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-07"
-last_updated: "2020-01-02"
+last_updated: "2020-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63479&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2008-09-29"
 ---
 # REGLAMENTO DE LA LEY DE RESIDUOS SOLIDOS DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE FEBRERO DE 2020 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO DE LA LEY DE RESIDUOS SOLIDOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE FEBRERO DE 2020.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 7 de octubre de 2008.
 
@@ -56,9 +58,9 @@ IV. Camellón: Espacio público que divide una calle o avenida longitudinalmente
 
 V. Caracterización: Determinación cualitativa y cuantitativa de los residuos sustentada en sus propiedades físicas, químicas y biológicas, que sirve para establecer los posibles efectos adversos a la salud y al ambiente;
 
-> <small>(ADICIONADA, G.O. 2 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2020)</small>
 
-V Bis. Certificación: procedimiento por el cual se asegura que un producto, proceso, sistema o servicio se ajusta a las normas o lineamientos o recomendaciones de organismos nacionales o internacionales dedicados a la normalización;
+V Bis. Certificación: procedimiento por el cual se asegura que un producto, proceso, plan de manejo, sistema o servicio se ajusta a las normas, lineamientos o recomendaciones de organismos nacionales o internacionales dedicados a la normalización;
 
 VI. Comisión: Comisión para la Gestión Integral de Residuos Sólidos de la Ciudad de México;
 
@@ -103,6 +105,10 @@ XX. Mobiliario urbano: Elementos urbanos complementarios que sirven de apoyo a l
 > <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
 
 XXI. Nutrientes: Elementos químicos necesarios para mantener la calidad y salud del suelo, el crecimiento y desarrollo de las plantas, animales y seres humanos;
+
+> <small>(ADICIONADA, G.O. 19 DE FEBRERO DE 2020)</small>
+
+XXI Bis. Organismos Certificadores: Personas morales que tengan por objeto realizar funciones de certificación.
 
 > <small>(REFORMADA, G.O. 2 DE ENERO DE 2020)</small>
 
@@ -216,7 +222,9 @@ El Programa para la Prestación del Servicio Público de Limpia de la competenci
 
 I. El listado de las vialidades y áreas públicas en las que se prestará el servicio de barrido manual y mecánico, así como el retiro de residuos sólidos de la vía pública debidamente georreferenciados;
 
-II. Los programas de recepción de residuos en estaciones de transferencia, plantas de selección y aprovechamiento, plantas de tratamiento y sitios de disposición final, especificando los horarios, días y tipos de residuos a recibir;
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2020)</small>
+
+II. Los programas de recepción de residuos en estaciones de transferencia, plantas de selección y aprovechamiento, plantas de tratamiento y sitios de disposición final, especificando los horarios, días, tipos y cantidades de residuos a recibir;
 
 III. Los criterios de manejo de residuos sólidos en cada una de sus instalaciones, como son: estaciones de transferencia, plantas de selección y aprovechamiento, plantas de tratamiento y sitios de disposición final;
 
@@ -386,11 +394,13 @@ ERR Empresa que se dedica a reutilizar o
 
 reciclar residuos sólidos.
 
-> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 13.
 
-Las fuentes fijas generadoras de residuos, así como los prestadores de servicios para el manejo de residuos obligados a presentar planes de manejo, realizarán el trámite a través de los formatos establecidos por la Secretaría, quien los revisará, evaluará y en su caso, emitirá la autorización correspondiente en un plazo de treinta días hábiles una vez recibida la solicitud de autorización o actualización.
+Las fuentes fijas y los establecimientos no sujetos a la Licencia Ambiental Única generadoras de residuos, así como los prestadores de servicios para el manejo de residuos obligados a presentar planes de manejo, realizarán el trámite a través de los formatos establecidos por la Secretaría, quien los revisará, evaluará y en su caso, emitirá la autorización correspondiente en un plazo de treinta días hábiles una vez recibida la solicitud de autorización o actualización.
+
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
 Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que la resolución se ha emitido en sentido negativo.
 
@@ -428,6 +438,10 @@ Las fuentes fijas que tengan por alguna actividad excepcional, una generación e
 
 Los planes de manejo autorizados por la Secretaría y que sean reportados en los plazos establecidos en las autorizaciones, licencias, actualizaciones y permisos expedidos a particulares, deberán ser evaluados de conformidad con la normatividad aplicable por órganos certificadores, que para el efecto la Secretaría autorice, con el objeto de garantizar su cumplimiento.
 
+> <small>(ADICIONADO, G.O. 19 DE FEBRERO DE 2020)</small>
+
+Los Organismos Certificadores a que hace referencia el párrafo anterior, deberán ser contratados por los particulares obligados a presentar planes de manejo de residuos.
+
 > <small>(ADICIONADO, G.O. 2 DE ENERO DE 2020)</small>
 
 ###### Artículo 17 Ter.
@@ -446,17 +460,33 @@ Las autoridades, fuentes fijas, así como aquellos que operen en centros o plaza
 
 Los planes de manejo para residuos se podrán establecer en una o más de las siguientes modalidades:
 
-I. Atendiendo a los sujetos que intervienen en ellos, podrán ser:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE FEBRERO DE 2020)</small>
 
-a) Privados, personas físicas o morales obligados conforme a la Ley a la elaboración, formulación e implementación de un plan de manejo de residuos, o
+I. Atendiendo a los sujetos que intervienen en ellos:
 
-b) Público, cuando interviene en la elaboración y aplicación las diferentes dependencias de la Administración Pública.
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 2020)</small>
 
-II. Atendiendo al número de los sujetos obligados a su formulación y ejecución, podrán ser:
+a) Privados: los instrumentados por los interesados que conforme a la Ley se encuentran obligados a la elaboración, formulación e implementación de un plan de manejo de residuos;
 
-a) Individuales, cuando interviene en la elaboración y aplicación sólo un sujeto obligado; o
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 2020)</small>
 
-b) Colectivos, cuando intervienen en la elaboración y aplicación varios sujetos obligados.
+b) Públicos, cuando en la elaboración y aplicación intervienen las diferentes dependencias de la Administración Pública; o
+
+> <small>(ADICIONADO, G.O. 19 DE FEBRERO DE 2020)</small>
+
+c) Mixtos: cuando para su instrumentación participen conjuntamente los señalados en los incisos anteriores.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE FEBRERO DE 2020)</small>
+
+II. Considerando la posibilidad de asociación de los sujetos obligados:
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 2020)</small>
+
+a) Individuales: aquéllos en los cuales un sujeto obligado considera en un plan de manejo todos los residuos que genera, o
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 2020)</small>
+
+b) Colectivos: aquéllos en los que intervienen varios sujetos obligados.
 
 > <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
@@ -612,9 +642,9 @@ Los bienes a los que se refiere el artículo 23 de la Ley, sujetos a planes de m
 
 I. Envases y embalajes de materiales plásticos como tereftalato de polietileno (PET), polietileno de baja y alta densidad (PEBD y PEAD), polipropileno (PP), policloruro de vinilo (PVC), policarbonato (PC) y poliestireno (PS);
 
-> <small>(ADICIONADA, G.O. 2 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2020)</small>
 
-I Bis. Los residuos de los productos plásticos de un solo uso susceptibles de ser reciclados, que al terminar su vida útil se conviertan en residuos de manejo especial.
+I Bis. Plásticos compostables.
 
 II. Envases multicapas, vidrio y metálicos;
 
@@ -740,13 +770,13 @@ Los generadores de residuos sólidos deberán disponer de contenedores diferenci
 
 Las Alcaldías deberán separar los residuos orgánicos provenientes de poda y del mantenimiento de parques y jardines y entregarlos separados de los residuos orgánicos domiciliarios y libres de residuos inorgánicos, en las estaciones de transferencia, en los horarios que establezca la Secretaría de Obras.
 
-> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 35.
 
-Las Alcaldías y los particulares deberán entregar los residuos separados de acuerdo a lo señalado en el artículo 32 de este Reglamento, para lo cual, la Secretaría de Obras colocará cajas o contenedores específicos para cada tipo de residuo en las estaciones de transferencia.
+Las Alcaldías y los particulares deberán entregar los residuos separados de acuerdo con lo señalado en el artículo 32 de este Reglamento, para lo cual, la Secretaría de Obras colocará cajas o contenedores específicos para cada tipo de residuo en las estaciones de transferencia.
 
-Además, la Secretaría de Obras deberá contar con la infraestructura necesaria para la recepción de residuos de manejo especial conforme a lo establecido en la normatividad vigente.
+Además, la Secretaría de Obras deberá contar con la infraestructura necesaria para la recepción de residuos de manejo especial que determine, conforme a lo establecido en la normatividad vigente.
 
 > <small>(ADICIONADO, G.O. 2 DE ENERO DE 2020)</small>
 
@@ -754,33 +784,49 @@ Además, la Secretaría de Obras deberá contar con la infraestructura necesaria
 
 Se considerarán plásticos de un solo uso los señalados explícitamente en el artículo 25, fracción XI Bis de la Ley, además de los que determine la Secretaría a través de la norma ambiental correspondiente
 
-> <small>(ADICIONADO, G.O. 2 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 35 Ter.
 
-De conformidad con el artículo 25 fracción XI Bis de la Ley, queda prohibida la comercialización, distribución y entrega de bolsas de plástico al consumidor, excepto las compostables, siempre y cuando cumplan con las especificaciones de compostabilidad establecidas a través de las normas ambientales que para el efecto se emitan.
-
-Las bolsas compostables deberán integrarse en un plan de manejo que garantice su adecuada gestión y composteo.
-
-Se excluyen de la prohibición referida en el artículo 25 fracción XI Bis de la Ley, las bolsas de plástico necesarias por las siguientes razones:
-
-I. Por higiene para el manejo de residuos, siempre y cuando contengan por lo menos un 50% de material reciclado post-consumo y garanticen ser reciclables en un 100%.
-
-Estas bolsas deberán identificarse, según el tipo de residuos, con los siguientes colores:
-
-a) Verde: Residuos orgánicos
-
-b) Gris: residuos inorgánicos reciclables
-
-c) Naranja: residuos inorgánicos no reciclables
-
-II. Por motivos de inocuidad, salud, salubridad, sanidad, que prevengan el desperdicio de alimentos, uso médico y seguridad de otros productos; siempre y cuando, no tengan una alternativa tecnológicamente viable.
+De conformidad con el artículo 25 fracción XI Bis de la Ley, queda prohibida la comercialización, distribución y entrega de bolsas de plástico al consumidor, excepto las compostables que sean utilizadas para el manejo de los residuos orgánicos, siempre y cuando cumplan con las especificaciones de compostabilidad establecidas a través de las normas ambientales que para el efecto se emitan. Estas bolsas deberán ser de color verde y/o contener la leyenda “compostables”.
 
 > <small>(ADICIONADO, G.O. 2 DE ENERO DE 2020)</small>
 
+Las bolsas compostables deberán integrarse en un plan de manejo que garantice su adecuada gestión y composteo.
+
+> <small>(ADICIONADO, G.O. 2 DE ENERO DE 2020)</small>
+
+Se excluyen de la prohibición referida en el artículo 25 fracción XI Bis de la Ley, las bolsas de plástico necesarias por las siguientes razones:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE FEBRERO DE 2020)</small>
+
+I. Por higiene para el manejo de residuos sanitarios y residuos inorgánicos, siempre y cuando contengan por lo menos un 50% de material reciclado post-consumo y garanticen ser reciclables en un 100%.
+
+> <small>(ADICIONADO, G.O. 2 DE ENERO DE 2020)</small>
+
+Estas bolsas deberán identificarse, según el tipo de residuos, con los siguientes colores:
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 2020)</small>
+
+a) Gris: residuos inorgánicos reciclables
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 2020)</small>
+
+b) Naranja: residuos inorgánicos no reciclables
+
+c) (DEROGADO, G.O. 19 DE FEBRERO DE 2020)
+
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2020)</small>
+
+II. Por motivos de inocuidad, salud, salubridad, sanidad, que prevengan el desperdicio de alimentos, uso médico y seguridad de otros productos; siempre y cuando, no existan alternativas compostables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 35 Quáter.
 
-La comercialización, distribución y entregar, bolsas para transportar mercancías: de tela, yute, rafia (tipo costal), plástico tejido o malla, y otras que la Secretaría determine; siempre y cuando sean durables y puedan reutilizarse en múltiples ocasiones, con un contenido mínimo de 50% de material reciclado post-consumo y 100% reciclables.
+Se podrán comercializar, distribuir o entregar, bolsas para transportar mercancías: de tela, tela no tejida de polipropileno, tela tejida de polipropileno, yute, rafia (tipo costal), plástico tejido o no tejido o malla, y otras que la Secretaría determine; siempre y cuando sean durables y puedan reutilizarse en múltiples ocasiones. Las bolsas de plástico reutilizables, consideradas en el presente artículo, deberán contener un mínimo de 50% de material reciclado post-consumo y ser 100% reciclables.
+
+> <small>(ADICIONADO, G.O. 2 DE ENERO DE 2020)</small>
 
 Estas bolsas deberán estar integradas a un plan de manejo que garantice su retorno a los procesos productivos para su reciclaje.
 
@@ -794,15 +840,27 @@ I. Los compostables que se integren en un plan de manejo que garantice su adecua
 
 II. Los que se encuentren integrados de origen al producto para brindar higiene en el consumo del mismo.
 
-II. (SIC) Aquellos que, por motivos de inocuidad, salud, salubridad, sanidad, uso médico y seguridad de otros productos, hasta en tanto no exista una alternativa tecnológicamente viable.
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 19 DE FEBRERO DE 2020, PÁGINA 4.]</small>
 
-III. Aquellos que sean reutilizables, con contenido de material reciclado post-consumo y que sean reciclables, además de los compostables, que se encuentren integrados en un plan de manejo que promueva la reducción de residuos y que fomente su aprovechamiento.
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2020)</small>
+
+III. Aquellos que, por motivos de inocuidad, salud, salubridad, sanidad, uso médico y seguridad de otros productos, hasta en tanto no exista una alternativa compostable.
+
+III. (SIC) Aquellos que sean reutilizables, con contenido de material reciclado post-consumo y que sean reciclables, además de los compostables, que se encuentren integrados en un plan de manejo que promueva la reducción de residuos y que fomente su aprovechamiento.
 
 IV. Los demás que se establezcan en la normatividad aplicable.
 
-> <small>(ADICIONADO, G.O. 2 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 2020)</small>
 
-Artículo 35 Sexties. Los planes de manejo que los productores, comercializadores, distribuidores y generadores instrumenten para el aprovechamiento de los residuos de las bolsas y de los productos plásticos, deberán considerar los mecanismos necesarios y establecer precios de garantía que fomenten e impulsen la recolección y aprovechamiento de estos residuos.
+Artículo 35 Sexties. Los planes de manejo que los productores, comercializadores, distribuidores y generadores instrumenten para el aprovechamiento de los residuos de las bolsas de plástico reutilizables y de los productos plásticos compostables, deberán considerar los mecanismos necesarios y establecer precios de garantía que fomenten e impulsen la recolección y aprovechamiento de estos residuos.
+
+La Secretaría podrá determinar los alcances de los planes de manejo en los casos en que se presente la debida justificación.
+
+> <small>(ADICIONADO, G.O. 19 DE FEBRERO DE 2020)</small>
+
+###### Artículo 35 Septies.
+
+La Secretaría establecerá los lineamientos y procedimientos para autorizar a los órganos certificadores que evalúen la conformidad de la norma ambiental que para el efecto se emita, con el objeto de garantizar la compostabilidad y evaluar los planes de manejo correspondientes.
 
 ## TÍTULO CUARTO. DEL SERVICIO PÚBLICO DE LIMPIA
 
@@ -862,9 +920,15 @@ II. Los sitios autorizados expedirán a los prestadores de servicios para el man
 
 III. Los sitios autorizados deberán recibir residuos de la construcción y demolición limpios que no contengan residuos sólidos urbanos, otros residuos de manejo especial o peligrosos, considerando las excepciones que determine la autoridad competente;
 
-IV. Las personas físicas o morales que generen y transporten entre 3 y 7 m3 de residuos al día, deberán solicitar previamente su recepción en las instalaciones o sitios autorizados, especificando en su solicitud los vehículos en que se llevará a cabo el traslado de los residuos y cumplir en su caso con el pago de derechos previsto en el Código Fiscal de la Ciudad de México;
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2020)</small>
+
+IV. Las personas físicas o morales que generen y transporten más de 7 m3 de residuos al día, deberán solicitar previamente su recepción en las instalaciones o sitios autorizados, especificando en su solicitud los vehículos en que se llevará a cabo el traslado de los residuos y cumplir en su caso con el pago de derechos previsto en el Código Fiscal de la Ciudad de México;
 
 V. Los prestadores de servicios para el manejo de residuos que pretendan depositar residuos de la construcción en un sitio autorizado, deberán solicitar previamente su recepción, especificando los vehículos en que se trasladarán los residuos y cumplir, en su caso, con el pago de derechos previsto en el Código Fiscal de la Ciudad de México. Asimismo, deberá entregar al responsable del sitio la carta responsiva correspondiente; y
+
+> <small>(ADICIONADA, G.O. 19 DE FEBRERO DE 2020)</small>
+
+VI. Las personas físicas o morales que generen o transporten hasta 7 m3 de residuos al día, deberán depositar los residuos en los sitios o instalaciones autorizadas; tratándose de instalaciones o sitios pertenecientes al Gobierno de la Ciudad de México, deberá realizar el pago de derechos correspondientes, de conformidad con el Código Fiscal de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
@@ -930,11 +994,11 @@ El sistema de transferencia presta un servicio regional, por lo que asignará ca
 
 En todo momento se debe cuidar su separación para su aprovechamiento y valorización.
 
-> <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 51.
 
-Las plantas de selección y tratamiento de residuos sólidos construidas y plantas de composta por construir por la Secretaría de Obras, podrán ser operadas y/o concesionadas a particulares, cumpliendo previamente los procedimientos señalados en la legislación aplicable.
+Las plantas de selección y tratamiento de residuos sólidos y plantas de composta construidas y por construir por la Secretaría de Obras, podrán ser operadas y/o concesionadas a particulares, cumpliendo previamente los procedimientos señalados en la legislación aplicable.
 
 > <small>(REFORMADO, G.O. 2 DE ENERO DE 2020)</small>
 
@@ -1583,6 +1647,14 @@ G.O. 23 DE DICIEMBRE DE 2008.
 Único.- El presente Decreto entrará en vigor el 2 de enero de 2009.
 
 G.O. 2 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DEL REGLAMENTO DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación
+
+G.O. 19 DE FEBRERO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DEL REGLAMENTO DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL”.]
 
