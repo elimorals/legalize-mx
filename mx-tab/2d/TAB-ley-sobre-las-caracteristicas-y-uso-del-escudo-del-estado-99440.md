@@ -4,7 +4,7 @@ identifier: "TAB-ley-sobre-las-caracteristicas-y-uso-del-escudo-del-estado-99440
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-15"
-last_updated: "2017-07-05"
+last_updated: "2020-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY SOBRE LAS CARACTERÍSTICAS Y USO, DEL ESCUDO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2020.
 
 Ley publicada en el Suplemento V del Periódico Oficial del Estado de Tabasco, el sábado 15 de diciembre de 2012.
 
@@ -51,23 +51,51 @@ LEY SOBRE LAS CARACTERÍSTICAS Y USO, DEL ESCUDO DEL ESTADO DE TABASCO.
 
 La presente Ley es de orden público e interés social y tiene por objeto regular las características, utilización y difusión correcta y digna del Escudo del Estado de Tabasco, sin dejar de atender y honrar a los símbolos patrios nacionales; ya que representa una expresión del ejercicio de la soberanía del pueblo tabasqueño, de sus costumbres, historia e identidad.
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2020)</small>
+
 ###### ARTÍCULO 2.
 
 Para los efectos de la presente Ley, deberá entenderse por:
 
-I. Ayuntamientos: Los Ayuntamientos que constitucionalmente integran el Estado de Tabasco;
+I. Acanto: hoja que se pone en las coronas;
 
-II. Ejecutivo del Estado: El Poder Ejecutivo del Estado de Tabasco;
+II. Ayuntamientos: los ayuntamientos que integran el estado de Tabasco;
 
-III. Escudo: Conformado por divisa heráldica, insignia privativa y símbolo distintivo del Estado Libre y Soberano de Tabasco, de acuerdo a las características que dispone la presente Ley y su Reglamento;
+III. Azur: azul intenso u oscuro;
 
-IV. Ley: Ley Sobre las Características y Uso, del Escudo del Estado de Tabasco;
+IV. Brazal: pieza de la armadura que cubría el brazo;
 
-V. Poderes: El Poder Ejecutivo, Legislativo y Judicial del Estado de Tabasco;
+V. Campo: el fondo del escudo;
 
-VI. Secretaría: Secretaría de Gobierno; y
+VI. Castillo: figura que representa una o más torres;
 
-VII. Uso: Cualquier difusión, utilización o reproducción del Escudo del Estado.
+VII. Cuartel: cada una de las cuatro partes de un escudo dividido en cruz;
+
+VIII. Diestra: derecho, desde la perspectiva del escudo;
+
+IX. Gules: color rojo;
+
+X. Ejecutivo del Estado: el Poder Ejecutivo del Estado de Tabasco;
+
+XI. Escudo: conformado por divisa heráldica, insignia privativa y símbolo distintivo del Estado Libre y Soberano de Tabasco, de acuerdo a las características que dispone la presente Ley y su Reglamento;
+
+XII. Ley: Ley Sobre las Características y Uso, del Escudo del Estado de Tabasco;
+
+XIII. Plus Ultra: significa "más allá, más allá de las columnas de Hércules";
+
+XIV. Plata: color blanco;
+
+XV. Poderes: los Poderes Ejecutivo, Legislativo y Judicial del Estado de Tabasco;
+
+XVI. Rampante: puesto sobre sus patas traseras y en actitud de defensa;
+
+XVII. Sable: color negro;
+
+XVIII. Secretaría: Secretaría de Gobierno;
+
+XIX. Siniestra: izquierda, desde la perspectiva del escudo; y
+
+XX. Uso: cualquier difusión, utilización o reproducción del Escudo del Estado.
 
 ###### ARTÍCULO 3.
 
@@ -75,21 +103,23 @@ El Ejecutivo del Estado, por conducto de la Secretaría; será la autoridad facu
 
 ### CAPÍTULO SEGUNDO. DE LAS CARACTERÍSTICAS DEL ESCUDO DEL ESTADO DE TABASCO
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2020)</small>
+
 ###### ARTÍCULO 4.
 
-El Escudo, contendrá las siguientes insignias en campo de gules y cuatro cuarteles sobre tela carmesí:
+El Escudo está integrado por cuatro cuarteles, los cuales se describen desde la perspectiva del Escudo, en las fracciones siguientes:
 
-I. En el cuartel superior izquierdo, sobre campo rojo, cuatro torres o castillos color oro simétricamente dispuestos en campo de gules;
+I. En el cuartel superior derecho, castillo de oro en campo de gules;
 
-II. En el cuartel inferior derecho, también sobre campo rojo, un león rampante color oro con tres cruces pometeadas en campo de gules;
+II. En el cuartel inferior izquierdo, un león rampante de oro y coronado en campo de gules;
 
-III. En el centro, sobrepuesto en la unión de los cuatro cuarteles, un escudete u óvalo en el que aparece el busto de la "Virgen María", coronada color oro en campo de plata y sobre sus hombros un manto de color azul celeste, a cada lado del óvalo cual si fueren sostenes, las columnas de Hércules, cada una con un mundo azul en el capitel, teniendo cada polo superior una cruz, en diagonal, de arriba hacia abajo, a media columna de la izquierda las palabras “NEC PLUS” y en la de la derecha “ULTRA”;
+III. En el cuartel superior izquierdo, brazo armado de brazal, empuñando espada en campo de plata; y
 
-IV. En el cuartel superior derecho, brazo armado de brazal, empuñando espada en campo de plata;
+IV. En el cuartel inferior derecho, india empenachada con los pechos descubiertos y su ramillete de flores en cada mano en campo de plata.
 
-V. En el cuartel inferior izquierdo, una india, que lleva por corona un penacho, que solamente tiene plumas en la región frontal, con los pechos descubiertos y está en actitud de ofrecimiento de los ramilletes de flores que sostiene entre cada una de sus manos; y
+En el centro, sobrepuesto en la unión de los cuatro cuarteles, un escudete de forma oval, en el que aparece el busto de la "Virgen María", coronada en oro en campo de plata. Lo flanquean a diestra y siniestra dos columnas sosteniendo cada una su mundo de azur cargado de cruz, con la leyenda "Plus Ultra".
 
-VI. El Escudo sostiene en el centro del borde superior una corona real, que está rematada con un mundo, en cuyo polo superior descansa una cruz.
+Al timbre, corona real cerrada que es un círculo de oro, engastado de piedras preciosas, compuesta de ocho florones de hojas de acanto en oro, visibles cinco y de cuyas hojas salen sendas diademas sumadas de perlas que convergen en el mundo de azur con el semimeridiano y el ecuador de oro, sumado de cruz de oro. La corona está forrada de gules.
 
 ### CAPÍTULO TERCERO. DE LA DIFUSIÓN, UTILIZACIÓN Y REPRODUCCIÓN DEL ESCUDO DEL ESTADO
 
@@ -97,9 +127,11 @@ VI. El Escudo sostiene en el centro del borde superior una corona real, que est�
 
 Todo uso del Escudo, deberá guardar fielmente las características descritas en el artículo 4 de la presente Ley, salvo que por las características de su reproducción se autorice la misma en blanco y negro o en un solo color, sin que pueda agregarse o modificarse mediante la utilización de cualquier otro color, palabra, símbolo, signo, imagen o cualquier otro elemento de naturaleza análoga.
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2020)</small>
+
 ###### ARTÍCULO 6.
 
-En los márgenes externos superior, inferior, derecho o izquierdo del Escudo, sólo se podrán adjuntar las inscripciones “Estado Libre y Soberano de Tabasco”, “Gobierno del Estado de Tabasco”, “Poder Judicial del Estado de Tabasco” o “Poder Legislativo del Estado de Tabasco”, sin que pueda agregársele cualquier otra palabra, signo, imagen o cualquier otro elemento de naturaleza análoga.
+En los márgenes externos superior, inferior, derecho o izquierdo del Escudo, solo se podrán adjuntar las inscripciones "Estado Libre y Soberano de Tabasco", "Tabasco", "Gobierno del Estado de Tabasco", "Poder Judicial del Estado de Tabasco", "Poder Legislativo del Estado de Tabasco", así como las denominaciones y acrónimos de las dependencias y entidades de la administración pública estatal, sin que pueda agregársele cualquier otra palabra, signo, imagen o cualquier otro elemento de naturaleza análoga.
 
 ###### ARTÍCULO 7.
 
@@ -244,3 +276,13 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 19 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 183 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2, 4 Y 6 DE LA LEY SOBRE LAS CARACTERÍSTICAS Y USO, DEL ESCUDO DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO. Hágase de conocimiento a los ayuntamientos y a todas las dependencias y entidades públicas estatales y municipales, para que adecúen el Escudo de Tabasco con las características estipuladas en el artículo 4 de la presente Ley.
