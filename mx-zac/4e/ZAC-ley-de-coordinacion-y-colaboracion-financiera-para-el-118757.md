@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-coordinacion-y-colaboracion-financiera-para-el-118757"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2019-12-28"
+last_updated: "2020-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2020.
 
 Ley publicada en el Suplemento al Periódico Oficial del Gobierno del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -205,15 +205,21 @@ II. El Secretario de Finanzas, fungirá como Presidente y podrá ser suplido por
 
 III. El Director de Coordinación y Colaboración Financiera de la Secretaría, será el Secretario de Actas y Acuerdos;
 
-IV. El Auditor Superior del Estado, quien podrá ser suplido por el Director de Auditoría Financiera a Municipios; y
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+IV. Un diputado representante de la Legislatura del Estado, quien presida la Comisión de Hacienda y Fortalecimiento Municipal, con derecho a voz, quien podrá ser suplido por un integrante de la Comisión;
 
-V. Por parte de los Municipios serán los tesoreros o su equivalente;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2020)</small>
+
+V. El Auditor Superior del Estado, quien podrá ser suplido por el Director de Auditoría Financiera a Municipios;
+
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2020)</small>
+
+VI. Por parte de los Municipios serán los tesoreros o su equivalente; y
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-VI. El Subsecretario de Ingresos de la Secretaría, quien fungirá como Coordinador Técnico.
+VII. El Subsecretario de Ingresos de la Secretaría, quien fungirá como Coordinador Técnico.
 
 ###### Artículo 9.
 
@@ -966,3 +972,11 @@ El resultado de la aplicación de las acciones descritas en el presente artícul
 ###### ARTÍCULO OCTAVO.
 
 Derivado de la reforma a los artículos 2 y 34 de la Ley de Coordinación y Colaboración Financiera para el Estado de Zacatecas y sus Municipios, los municipios que en el ejercicio fiscal 2020 pudiesen observar un crecimiento menor, derivado de la reforma a la fórmula para determinar y distribuir sus participaciones, tendrán garantizado que su participación no sea menor a la que obtuvieron en el ejercicio fiscal 2019, las cuales podrán cubrirse, en su caso, a través del Fondo de Estabilización de los Ingresos de las Entidades Federativas, en los términos establecidos en las leyes de la materia.
+
+P.O. 19 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 253.- SE ADICIONA UNA FRACCIÓN IV DEL ARTÍCULO 8 DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se derogan las disposiciones que contravengan el presente Decreto.
