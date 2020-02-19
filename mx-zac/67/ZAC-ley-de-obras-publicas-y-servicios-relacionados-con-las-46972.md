@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-obras-publicas-y-servicios-relacionados-con-las-46972"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-19"
-last_updated: "2013-03-23"
+last_updated: "2020-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS PARA EL ESTADO Y LOS MUNICIPIOS DE ZACATECAS, PUBLICADA EN EL P.O. DE 19 DE FEBRERO DE 2020; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS NOVENTA DÍAS SIGUIENTES DE SU PUBLICACIÓN.]</small>
+
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2020 (ABROGADA).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 19 de noviembre de 2005.
 
@@ -1572,3 +1574,23 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 19 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS PARA EL ESTADO Y LOS MUNICIPIOS DE ZACATECAS”.]
+
+Artículo Primero. La presente Ley entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se abroga la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Zacatecas, publicada en el Suplemento número 2 al 93 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al 19 de noviembre de 2005.
+
+Artículo Tercero. Se derogan las disposiciones que contravengan la presente Ley.
+
+Artículo Cuarto. Dentro de los ciento ochenta días siguientes a la entrada en vigor de la presente Ley, el Ejecutivo Estatal deberá expedir el Reglamento General de esta Ley y otras disposiciones reglamentarias.
+
+Las disposiciones administrativas expedidas en esta materia, vigentes al momento de la publicación de este ordenamiento, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deban sustituirlas.
+
+Artículo Quinto. Los registros de las personas físicas y jurídicas en el Registro Único, inscritas a la fecha de entrada en vigor de esta Ley, son válidos y deberán sujetarse, en lo sucesivo, a lo dispuesto en este ordenamiento.
+
+Artículo Sexto. Los procedimientos de contratación; de aplicación de sanciones y de inconformidades, así como los demás asuntos que se encuentren en trámite o pendiente (sic) de resolución se tramitarán y resolverán conforme a las disposiciones vigentes al momento en que se iniciaron. Los contratos de obras públicas y de servicios relacionados con las mismas que se encuentren vigentes al entrar en vigor esta Ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
+
+Artículo Séptimo. Los Entes Públicos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento de la presente Ley, en un plazo que no exceda de ciento ochenta días, contados a partir de la entrada en vigor de la presente Ley.
