@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-urbano-sostenible-del-estado-de-chihuahua-814
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-14"
-last_updated: "2017-02-22"
+last_updated: "2020-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81431&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO URBANO SOSTENIBLE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2020.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de mayo de 2011.
 
@@ -2419,6 +2419,10 @@ II. Zonas de abordaje y descenso para usuarios del transporte público de toda c
 
 Las redes de infraestructura primaria, secundaria y locales se deberán localizar sobre vías o espacios públicos. En casos de excepción, por necesidad de su crecimiento podrán ser ubicadas sobre espacios comunes o servidumbres legalmente establecidas.
 
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2020)</small>
+
+La autoridad encargada de expedir un permiso o licencia para la ejecución de una obra de conexión o reparación de las redes de infraestructura primaria, secundaria y locales de servicios públicos o privados, debe realizar, al término del plazo para la ejecución de la obra, la rehabilitación de la calle o vialidad al estado en que se encontraba; tratándose de obras realizadas por alguna autoridad, esta debe cerciorarse de la conclusión de la misma con la rehabilitación respectiva. El incumplimiento de lo anterior será sancionado en los términos del artículo 245, fracción I, de esta Ley.
+
 ###### ARTÍCULO 110.
 
 Las redes que atraviesen fallas o fracturas geológicas, suelos con problemas de deslizamientos, o altamente compresibles, deberán presentar el detalle del sistema de protección en estos tramos.
@@ -3966,3 +3970,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 19 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVI/RFLEY/0511/2019 I P.O., POR MEDIO DEL CUAL SE ADICIONA AL ARTÍCULO 109, UN SEGUNDO PÁRRAFO, DE LA LEY DE DESARROLLO URBANO SOSTENIBLE DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
