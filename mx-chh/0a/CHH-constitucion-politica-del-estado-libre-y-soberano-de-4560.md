@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2020-02-01"
+last_updated: "2020-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2020.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1571,9 +1571,13 @@ VII. A la ciudadanía chihuahuense, en los términos previstos en la Ley.
 
 Las iniciativas presentadas conforme a esta fracción, deberán ser dictaminadas a más tardar en el siguiente período de sesiones ordinarias a aquel en que se reciban.
 
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2020)</small>
+
+VIII. Al Tribunal Estatal de Justicia Administrativa, respecto a los ordenamientos que rigen su organización, estructura y funcionamiento.
+
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2020)</small>
 
-IX.- (SIC) A la persona titular de la Fiscalía Anticorrupción, en asuntos concernientes a su ámbito de competencia.
+IX. A la persona titular de la Fiscalía Anticorrupción, en asuntos concernientes a su ámbito de competencia.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
@@ -5246,3 +5250,15 @@ Las servidoras y servidores públicos de base y de confianza que con motivo del 
 ###### ARTÍCULO NOVENO.
 
 La C. Gema Guadalupe Chávez Durán, titular de la Fiscalía Especializada en Combate a la Corrupción en virtud del Decreto No. LXV/NOMBR/0880/2018 XVIII P.E., asumirá la titularidad de la Fiscalía Anticorrupción a partir de la entrada en vigor del presente Decreto, y continuará ejerciendo sus funciones hasta concluir el periodo para el cual fue designada, en apego a lo dispuesto por el artículo 122 de la Constitución Política del Estado de Chihuahua.
+
+P.O. 19 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFCNT/0584/2019 I P.O., POR MEDIO DEL CUAL SE ADICIONA AL ARTÍCULO 68, LA FRACCIÓN VIII, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y de los debates a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su momento, hágase el cómputo de los votos de los Ayuntamientos y la declaratoria de haber sido aprobada la presente reforma.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
