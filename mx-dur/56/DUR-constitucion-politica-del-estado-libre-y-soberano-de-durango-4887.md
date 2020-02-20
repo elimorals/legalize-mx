@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2019-09-26"
+last_updated: "2020-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -115,11 +115,13 @@ El hombre y la mujer son iguales ante la ley y gozan de los mismos derechos. El 
 
 Se reconoce el derecho a la personalidad jurídica, a la libertad de conciencia y religión, al honor, a la propia imagen, al buen nombre, a la intimidad personal y familiar, en los términos dispuestos en la ley.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
-
 ###### Artículo 8.
 
-Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2020)</small>
+
+Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento. En los juicios y procedimientos seguidos en forma de juicio en los que se establezca como regla la oralidad; bastará con que quede constancia de ellos en cualquier medio que dé certeza de su contenido y del cumplimiento de lo previsto en este párrafo.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 Las comunicaciones postales, telegráficas, telefónicas, digitales y electrónicas son inviolables, salvo resolución judicial.
 
@@ -168,6 +170,10 @@ No se considerará confiscación la aplicación de bienes de una persona cuando 
 Toda autoridad está obligada a fundar y motivar sus resoluciones por escrito.
 
 Toda persona tiene derecho al acceso a la justicia y a la tutela efectiva de sus derechos por tribunales competentes, independientes e imparciales establecidos con anterioridad al hecho que emitirán sus resoluciones de manera pronta, completa y gratuita, por lo que ninguna persona podrá hacerse justicia por sí misma ni ejercer violencia para reclamar su derecho.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2020)</small>
+
+Siempre que no se afecte la igualdad entre las partes, el debido proceso u otros derechos en los juicios o procedimientos seguidos en forma de juicio, las autoridades deberán privilegiar la solución del conflicto sobre los formalismos procedimentales.
 
 La ley determinará los casos en que los particulares podrán ejercer la acción penal ante la autoridad judicial.
 
@@ -297,21 +303,33 @@ El Estado y los municipios promoverán la cultura física y el deporte como acti
 
 Toda persona tiene derecho a la alimentación nutritiva, suficiente y de calidad. El Estado y los Municipios encaminarán sus políticas públicas a erradicar el hambre en la sociedad y a mejorar los hábitos alimenticios y combatir la obesidad.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
-
 ###### Artículo 22.
 
-Todas las personas tienen derecho a recibir educación, siendo obligatoria la preescolar, primaria, secundaria y media superior.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2020)</small>
 
-La educación que se imparta en el Estado de Durango, se sujetará a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y su legislación reglamentaria, de acuerdo al régimen de concurrencia de facultades en materia educativa.
+Todas las personas tienen derecho a recibir educación, siendo obligatoria la inicial, preescolar, primaria, secundaria y media superior, la educación superior lo será en términos del artículo 3 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2020)</small>
+
+La educación que se imparta en el Estado de Durango, se sujetará a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y su legislación reglamentaria, de acuerdo al régimen de concurrencia de facultades en materia educativa; la educación inicial es un derecho de la niñez y será responsabilidad del Estado concientizar sobre su importancia.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 En el caso de las etnias duranguenses, la educación será bilingüe y respetará sus costumbres y tradiciones.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+
 El Estado promoverá la educación superior, la investigación científica y tecnológica y la difusión de la cultura.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 La educación pública será laica y gratuita; su objetivo será el pleno desarrollo de la personalidad y las capacidades de los estudiantes; promoverá la conservación y difusión del patrimonio artístico, histórico, científico y cultural de Durango; estimulará el pensamiento crítico e impulsará el conocimiento y respeto de los derechos humanos, el amor a la patria y a Durango, la solidaridad, la justicia, la democracia y la tolerancia, la igualdad de género, la preservación de la naturaleza y el respeto a la ley.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+
 Los particulares podrán impartir educación en todos sus tipos y modalidades. El Estado otorgará, negará o revocará el reconocimiento de validez oficial a los estudios en los términos que establezca la ley.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 29 DE AGOSTO DE 2013)</small>
 
 El Estado y los municipios, en colaboración con las autoridades federales, participaran en:
 
@@ -3968,3 +3986,35 @@ SEGUNDO.- Se derogan todas aquellas disposiciones legales y administrativas que 
 TERCERO.- El Congreso del Estado, en un plazo de 180 días a partir de la entrada en vigor del presente decreto deberá emitir o en su caso adecuar la legislación que corresponda a fin de dar cumplimiento al presente decreto.
 
 CUARTO.- Las dependencias y entidades de la administración pública estatal y municipal así como los organismos constitucionales autónomos deberán emitir o en su caso adecuar la reglamentación que corresponda a fin de dar cumplimiento al presente decreto a más tardar el 31 de diciembre de 2019.
+
+P.O. 20 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 192.- QUE CONTIENE REFORMA AL PRIMERO Y SEGUNDO PÁRRAFO DEL ARTÍCULO 22 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado en un plazo que no exceda de 180 días a partir de la entrada en vigor del presente decreto deberá expedir la normatividad que corresponda para dar cumplimiento al presente decreto.
+
+P.O. 20 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO.193.- QUE CONTIENE REFORMA AL PRIMER PÁRRAFO DEL ARTÍCULO 8 Y SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 13 RECORRIÉNDOSE EN SU ORDEN LOS SIGUIENTES, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado expedirá, modificará o derogará la normatividad que corresponda a fin de dar cumplimiento al presente Decreto.
