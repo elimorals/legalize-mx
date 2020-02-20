@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-residuos-solidos-del-distrito-63479"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-07"
-last_updated: "2020-02-19"
+last_updated: "2020-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63479&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2008-09-29"
 ---
 # REGLAMENTO DE LA LEY DE RESIDUOS SOLIDOS DEL DISTRITO FEDERAL
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE FEBRERO DE 2020 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DE LA LEY DE RESIDUOS SOLIDOS DEL DISTRITO FEDERAL
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE FEBRERO DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 20 DE FEBRERO DE 2020.]</small>
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 7 de octubre de 2008.
 
@@ -432,13 +432,11 @@ Los planes de manejo presentados por generadores de residuos de la construcción
 
 Las fuentes fijas que tengan por alguna actividad excepcional, una generación eventual de residuos sólidos o de manejo especial en alto volumen deberán presentar su plan de manejo específico en el formato que la Secretaría determine.
 
-> <small>(ADICIONADO, G.O. 2 DE ENERO DE 2020)</small>
+(REFORMADO, G.O. 19 DE FEBRERO DE 2020) (F. DE E., G.O. 20 DE FEBRERO DE 2020)
 
 ###### Artículo 17 Bis.
 
-Los planes de manejo autorizados por la Secretaría y que sean reportados en los plazos establecidos en las autorizaciones, licencias, actualizaciones y permisos expedidos a particulares, deberán ser evaluados de conformidad con la normatividad aplicable por órganos certificadores, que para el efecto la Secretaría autorice, con el objeto de garantizar su cumplimiento.
-
-> <small>(ADICIONADO, G.O. 19 DE FEBRERO DE 2020)</small>
+Los planes de manejo autorizados por la Secretaría y que sean reportados en los plazos establecidos en las autorizaciones, licencias, actualizaciones y permisos expedidos a particulares, deberán ser evaluados de conformidad con la normatividad aplicable por organismos certificadores, que para el efecto la Secretaría autorice, con el objeto de garantizar su cumplimiento
 
 Los Organismos Certificadores a que hace referencia el párrafo anterior, deberán ser contratados por los particulares obligados a presentar planes de manejo de residuos.
 
@@ -840,15 +838,15 @@ I. Los compostables que se integren en un plan de manejo que garantice su adecua
 
 II. Los que se encuentren integrados de origen al producto para brindar higiene en el consumo del mismo.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 19 DE FEBRERO DE 2020, PÁGINA 4.]</small>
-
-> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2020)</small>
+(REFORMADA, G.O. 19 DE FEBRERO DE 2020) (F. DE E., G.O. 20 DE FEBRERO DE 2020)
 
 III. Aquellos que, por motivos de inocuidad, salud, salubridad, sanidad, uso médico y seguridad de otros productos, hasta en tanto no exista una alternativa compostable.
 
-III. (SIC) Aquellos que sean reutilizables, con contenido de material reciclado post-consumo y que sean reciclables, además de los compostables, que se encuentren integrados en un plan de manejo que promueva la reducción de residuos y que fomente su aprovechamiento.
+IV. (DEROGADA, G.O. 19 DE FEBRERO DE 2020) (F. DE E., G.O. 20 DE FEBRERO DE 2020)
 
-IV. Los demás que se establezcan en la normatividad aplicable.
+(ADICIONADA [N. DE E. REUBICADA], G.O. 19 DE FEBRERO DE 2020) (F. DE E., G.O. 20 DE FEBRERO DE 2020)
+
+V. Los demás que se establezcan en la normatividad aplicable.
 
 > <small>(REFORMADO, G.O. 19 DE FEBRERO DE 2020)</small>
 
@@ -1661,3 +1659,9 @@ G.O. 19 DE FEBRERO DE 2020.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación
+
+G.O. 20 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DE LA "FE DE ERRATAS AL DECRETO POR EL QUE SE REFORMAN ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DEL REGLAMENTO DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL, PUBLICADO EN EL EJEMPLAR 286 BIS DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DE FECHA 19 DE FEBRERO DE 2020"]
+
+Único.- Publíquese en la Gaceta Oficial de la Ciudad de México.
