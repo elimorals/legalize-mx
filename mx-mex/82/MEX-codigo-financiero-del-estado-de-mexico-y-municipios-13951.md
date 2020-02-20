@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2020-01-14"
+last_updated: "2020-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -28,6 +28,8 @@ state: "MEX"
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE DICIEMBRE DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 20 DE FEBRERO DE 2020.]</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -2469,7 +2471,7 @@ c). Cuando se suspendan temporalmente las actividades laborales por notificació
 
 d). Cuando fallezca el contribuyente, hasta en tanto se designe al representante de la sucesión.
 
-e). Cuando la autoridad se vea impedida para continuar el procedimiento descrito en la presente fracción, por caso fortuito o fuerza mayor, hasta que la causa desaparezca, lo cual se deberá publicar en el Periódico Oficial "Gaceta del Gobierno".
+e). Cuando la autoridad se vea impedida para continuar el procedimiento descrito en la presente fracción, por caso fortuito o fuerza mayor, hasta que la causa desaparezca, lo cual se deberá publicar en el Periódico Oficial “Gaceta del Gobierno”.
 
 > <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
@@ -5675,9 +5677,9 @@ A). Certificado de holograma "Doble Cero". $440
 
 B). Certificado de holograma "Tipo Cero". $80
 
-C). Certificado de holograma "Tipo Uno". $69
+C). Certificado de holograma “Tipo Uno”. $69
 
-D). Certificado de holograma "tipo Dos". $69
+D). Certificado de holograma “tipo Dos”. $69
 
 > <small>(F. DE E., G.G. 3 DE MARZO DE 2014)</small>
 
@@ -8120,6 +8122,8 @@ XIX. En los casos no previstos en las fracciones anteriores, cuando el acto medi
 ###### Artículo 115.
 
 Este impuesto se determinará conforme a la siguiente:
+
+TARIFA
 
 > <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
@@ -16741,8 +16745,6 @@ Salvo los casos que este Código autoriza, toda venta se hará en subasta públi
 
 La autoridad fiscal podrá designar otro lugar para la venta u ordenar que los bienes embargados se vendan en lotes o fracciones o en piezas sueltas, con el objeto de obtener un mayor rendimiento.
 
-> <small>(DEROGADO TERCER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
 > <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 409.
@@ -18441,7 +18443,9 @@ De igual forma, los municipios que habiendo firmado algún convenio para la admi
 
 SEXTO.- La reforma al artículo 115 de este Código entrará en vigor a partir del día 01 de julio del año 2020.
 
-Durante el periodo del 01 de enero al 31 de marzo del 2020, para determinar el Impuesto Sobre Adquisición de Inmuebles y otras Operaciones Traslativas de Dominio de Inmuebles, se utilizará la siguiente tabla:
+> <small>(F. DE E., G.G. 20 DE FEBRERO DE 2020)</small>
+
+Durante el periodo del 01 de enero al 30 de junio del 2020, para determinar el Impuesto Sobre Adquisición de Inmuebles y otras Operaciones Traslativas de Dominio de Inmuebles, se utilizará la siguiente tabla:
 
 TARIFA
 
@@ -18473,7 +18477,7 @@ OCTAVO.- Las Reglas Generales y Lineamientos Generales a que se refiere el prese
 
 G.G. 26 DE DICIEMBRE DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL FACTOR DE ACTUALIZACIÓN ANUAL DE DERECHOS Y LAS CUOTAS Y TARIFAS PREVISTAS EN EL ARTÍCULO 60 G DEL CAPÍTULO PRIMERO, “DE LOS IMPUESTOS”, ASÍ COMO LAS ESTABLECIDAS EN LOS ARTÍCULOS 73 AL 104 DEL CAPÍTULO SEGUNDO, “DE LOS DERECHOS” PARA EL EJERCICIO FISCAL DE 2020, AMBOS DEL TÍTULO TERCERO “DE LOS INGRESOS DEL ESTADO” DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE DA A CONOCER EL FACTOR DE ACTUALIZACIÓN ANUAL DE DERECHOS Y LAS CUOTAS Y TARIFAS PREVISTAS EN EL ARTÍCULO 60 G DEL CAPÍTULO PRIMERO, "DE LOS IMPUESTOS", ASÍ COMO LAS ESTABLECIDAS EN LOS ARTÍCULOS 73 AL 104 DEL CAPÍTULO SEGUNDO, "DE LOS DERECHOS" PARA EL EJERCICIO FISCAL DE 2020, AMBOS DEL TÍTULO TERCERO "DE LOS INGRESOS DEL ESTADO" DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS".]
 
 Primero.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
