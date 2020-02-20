@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-132-de-ingresos-y-presupuesto-de-ingresos-del-140339
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-27"
-last_updated: "2019-12-27"
+last_updated: "2020-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY NUMERO 132, DE INGRESOS Y PRESUPUESTO DE INGRESOS DEL AYUNTAMIENTO DEL MUNICIPIO DE LA HEROICA NOGALES, SONORA, PARA EL EJERCICIO FISCAL DE 2020
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE FEBRERO DE 2020 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS Y PRESUPUESTO DE INGRESOS DEL AYUNTAMIENTO DEL MUNICIPIO DE LA HEROICA NOGALES, SONORA, PARA EL EJERCICIO FISCAL DE 2020
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 20 DE FEBRERO DE 2020.]</small>
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 27 de diciembre de 2019.
 
@@ -53,240 +53,214 @@ Las entidades paramunicipales no cobrarán impuestos adicionales por los servici
 
 Las tasas de estos impuestos, las que en su totalidad en ningún caso podrán exceder del 50%, sobre la base determinada.
 
+> <small>(F. DE E., B.O. 20 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 105.
 
-Por los servicios que otorga el Instituto Municipal de Investigación y Planeación se cobrarán las siguientes tarifas:
+Las actividades señaladas en el presente artículo causarán las siguientes cuotas:
 
-I. Servicios Diversos VUMAV
+Veces la Unidad de Medida y Actualización Vigente
 
-Proyectos especiales de digitalización y
+I.- Por la expedición de:
 
-captura de datos Por hora 4.5649
+a) Certificados: 1.75
 
-Formulación y aplicación de Encuestas,
+b) Legalizaciones de firmas: 1.75
 
-Aforos o Sondeos Por hora 2.5677
+c) Certificaciones de documentos, por hoja: 1.75
 
-Asesorías diversas Por Hora 2.8530
+d) Por proporcionar información relativa a las condiciones
 
-Levantamientos topográficos dentro de la
+en que se deberá prestar un servicio 0.69
 
-Ciudad con georreferencia y curvas de nivel Por m2 0.2853
+e) Certificación de no adeudo de créditos fiscales 1.75
 
-Levantamientos topográficos fuera de la
+f) Certificaciones de residencia 1.75
 
-Ciudad con georreferencia y curvas de nivel Por m2 2.7104
+g) Certificado médico 10.0
 
-Asesoría y gestión para trámites municipales Por Hora 4.2796
+h) Certificaciones de radiación 6.0
 
-Dictamen de Urbanización Dictamen 19.87018
+i) Por certificado de trámite de pasaporte mexicano 6.0
 
-Dictamen de Estudio de Impacto vial
+j) Por certificado de dictámenes realizados por la dirección
 
-(Por intersección) Dictamen 9.2727
+de catastro municipal. 10.82
 
-Dictamen de Congruencia de Programa Parcial Dictamen 52.9871
+k) Por certificado o constancia de habitante 2.08
 
-Dictamen de Cambio de uso de suelo
+l) Por certificado o constancia de seguridad pública en términos
 
-(Habitacional Hasta 5 Ha.) Dictamen 172.2082
+de la Ley de alcoholes 6.24
 
-Dictamen de Cambio de uso de suelo
+m) Por certificado de impacto social en términos de la Ley de
 
-(Habitacional por cada Ha. adicional) Dictamen 3.31
+alcoholes 6.24
 
-Dictamen de Cambio de uso de suelo
+n) Por certificado o constancia de seguridad de funcionamiento
 
-(Comercial Hasta 5 Ha.) Dictamen 112.5977
+en términos de la Ley de alcoholes 6.24
 
-Dictamen de Cambio de uso de suelo
+o) Por certificado o constancia de no servidor público municipal 3.12
 
-(Comercial por cada Ha. adicional) Dictamen 3.31169
+p) Por certificado o constancia de persona no inhabilitada
 
-Dictamen de Cambio de uso de suelo
+por el Órgano de Control y Evaluación Gubernamental 3.12
 
-(Industrial Hasta 5 Ha.) Dictamen 172.2082
+q) Constancia de trámite de anuencia municipal 17.66 hasta 26.50
 
-Dictamen de Cambio de uso de suelo
+II Licencias y permisos especiales (anuencias)
 
-(Industrial por cada Ha. adicional) Dictamen 3.31169
+a) Por el estacionamiento de vehículos o colocación de puestos ambulantes y semifijos, para realizar actividades de comercio y oficios en la vía pública, autorizadas por la autoridad municipal, se cubrirá derechos de conformidad con las siguientes tarifas:
 
-Carpeta conteniendo el Programa de
+Veces la Unidad de Medida y Actualización Vigente
 
-Desarrollo Urbano del Centro de Población Carpeta 46.36376
+1.- Actividades con permiso permanente anual 50.00
 
-de Nogales en formato impreso
+2.- Actividades con permiso eventual por temporada:
 
-Programa de Desarrollo Urbano del Centro
+a) Fiestas de mayo. 20.00
 
-de Población de Nogales en formato digital
+b) Feria del hueso. 30.00
 
-(DWG) Programa 64.90926
+c) Para Ferias, Circos y Juegos Mecánicos. 100.00
 
-Programa de Desarrollo Urbano del Centro de
+d) Fiestas Patrias. 20.00
 
-Población de Nogales en formato digital (PDF) Programa 34.44165
+3.- Actividades con permiso especial (ambulante sin puesto fijo) por mes: 5.00
 
-Indicador Pluviométrico anual (por estación) Estación 18.1481
+4.- Por el uso diferente del que corresponda a la naturaleza de las servidumbres, tales como banquetas, jardines edificios públicos o privados y otros, pagarán por metro cuadrado 1.0 Veces la Unidad de Medida y Actualización Vigente.
 
-Curso de Infraestructura verde Nivel 1
+5.- Se pagará cuota diaria por puestos en tianguis será de 0.6 Veces la Unidad de Medida y Actualización Vigente.
 
-(precio por persona hasta 10 personas),
+6.- Por uso de espacio dentro de las unidades deportivas para realizar alguna actividad comercial y de servicio, se pagará cuota mensual de 3.50 Veces la Unidad de Medida y Actualización Vigente.
 
-incluye examen de evaluación Curso 165.5848
+La cuota a cubrir por ejercer una actividad de comercio u oficio en la vía pública comprende el uso de 4.0 metros cuadrados, que podrá utilizar en horario de 8 horas autorizado por el Municipio. El uso de mayor espacio o tiempo causa el 1.5 de la tarifa y está sujeto a la autorización previa respectiva.
 
-Curso de Infraestructura verde Nivel 1
+Los permisos anuales serán pagados en forma total por los usuarios en el primer mes del año o en parcialidades cada trimestre, mientras que los permisos eventuales y especiales, se pagarán en forma anticipada al inicio de actividades. Cuando el sujeto a este Derecho acredite su calidad de jubilado o pensionado, o demuestre fehacientemente ante Tesorería Municipal, ser persona con edad superior a los 60 años o tener una discapacidad, tendrá derecho a una reducción del 50%.
 
-(precio por persona de 11 a 20 personas),
+b) Para otorgar permisos a locales de fiestas en general sin venta y consumo de bebidas alcohólicas y la autorización para la celebración de eventos diversos que lo requieren, se aplicará la siguiente tarifa:
 
-incluye examen de evaluación Curso 149.0264
+Veces la Unidad de Medida y Actualización Vigente
 
-Curso de Infraestructura verde Nivel 1
+1.- Locales para fiestas, permiso anual. 30.00
 
-(precio por persona de 21 a 25 personas),
+2.- Cierre de calles para eventos diversos. 20.00
 
-incluye examen de evaluación Curso 134.1237
+3.- Manifestaciones, inauguraciones, exhibiciones. 20.00
 
-II. Impresiones VUMAV
+4.- Eventos sociales en locales y salones para fiesta. 5.50
 
-Planos con cartografía base (Colonias y
+III.- Por la expedición de títulos de propiedad, derivados del Programa Municipal Mi Título.
 
-vialidades de Nogales) Carta 0.8559
+Colonia Encinos, Colonia Represo, Colonia Los Tapiros,
 
-Doble carta 0.9985
+Colonia Rastro I, II, Colonia Colosio, sector 2, sector
 
-Oficio 1.1412
+Bellotas y Polígono D-4, Colonia Solidaridad Sector
 
-Tabloide 1.4265
+Santos por metro cuadrado 2.84
 
-90*60 cm 2.9957
+Colonia Flores Magón Norte por metro cuadrado 4.42
 
-90*120 cm 4.1369
+IV.- Por la expedición de Licencia de Funcionamiento para
 
-120*180 cm 7.1326
+Estacionamiento de cuota Público o Privado, x cajón 0.434
 
-III. Base de Datos VUMAV
+III.- Por la revisión y autorización de documentos 2.28
 
-Estadísticas generales en CD (consultar temas
+(NOTA: EL 22 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 95/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-disponibles) Estadística 2.5677
+IV (SIC). POR LOS SERVICIOS A SOLICITUDES DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA
 
-IV. Cartografía VUMAV
+A) REPRODUCCIÓN DE DOCUMENTOS – COPIA SIMPLE:
 
-Cuaderno impreso de cartografía base de la
+I.- LAS PRIMERAS TRES HOJAS $10.00 C/U
 
-Ciudad B/N Carta Cuaderno 7.1326
+II.- DE LA CUARTA HOJA EN ADELANTE $2.00 C/U
 
-Cuaderno impreso de cartografía base de la
+B) INFORMACIÓN EN DISCO COMPACTO $50.00 C/U
 
-Ciudad Color Cuaderno 10.6990
-
-Georreferenciación de planos e imágenes
-
-(no incluye impresión) Mapa 6.4191
-
-Cuaderno de indicadores de la Ciudad Cuaderno 17.1184
-
-Detalle de la traza urbana (Block AutoCAD) Mapa 1.4265
-
-Planos de la traza urbana de la ciudad en
-
-formato DWG o SHP editable * Con actualizaciones
-
-por 1 año sin costo adicional Plano 42.7960
-
-Planos digitales con cartografía base (Colonias
-
-y vialidades de Nogales) Nota: por cada variable DWG o SHP
-
-adicional se agregará un costo de 120 pesos. Editable 5.7061
-
-Planos digitales con cartografía base (Colonias y
-
-vialidades de Nogales) Nota: por cada variable DWG de
-
-adicional se agregará un costo de 120 pesos. consulta 4.9928
-
-Plano impreso de Indicadores de la Ciudad
-
-(1 Indicador) Carta 1.1412
-
-Doble carta 1.2838
-
-Oficio 1.5691
-
-Tabloide 1.8544
-
-90*60 cm 3.2810
-
-Plano digital de indicadores de la Ciudad
-
-(1 Indicador de consulta) Mapa 4.2796
-
-Plano impreso del Programa de Desarrollo
-
-Urbano de la Ciudad (Vigente) Por ZONA Tabloide 2.1398
-
-90*60 cm 5.0302
-
-90*120 cm 6.2138
-
-Plano Digital del Programa de Desarrollo Urbano
-
-de la Ciudad (Vigente) Por Zona para consulta Mapa 7.1326
-
-Plano impreso del Programa de Ordenamiento de
-
-la Zona Metropolitana de Nogales Tabloide 2.1398
-
-90*60 cm 5.0302
-
-90*120 cm 6.2138
-
-Plano Digital del Programa de Ordenamiento de
-
-la Zona Metropolitana de Nogales Mapa 7.1326
-
-Mapas temáticos del SIG Nogales con impresión
-
-(Incluye cartografía base + 1 variable temática,
-
-consultar listado disponible) Nota: por cada variable
-
-adicional se agregará un costo de 120 pesos. Carta 1.1412
-
-Doble carta 1.2838
-
-Oficio 1.5691
-
-Tabloide 1.8544
-
-90*60 cm 5.0302
-
-90*120 cm 6.2138
-
-120*180 cm 10.6990
-
-Mapas temáticos del SIG Nogales de manera
-
-digital y editable (Incluye cartografía base
-
-+ 1 variable temática, (consultar listado
-
-disponible) Nota: por cada variable adicional
-
-se agregará un costo de 120 pesos. Mapa 7.1326
+> <small>(F. DE E., B.O. 20 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 115.
 
-Las personas a las que se refiere el artículo 142 de la Ley de Hacienda Municipal, que se beneficien en forma específica por las obras públicas realizadas directamente por el Ayuntamiento o en forma coordinada con dependencias o entidades de la administración pública federal o estatal, habrán de contribuir en los términos que señalan los artículos 142 Bis y 149 de la Ley de Hacienda Municipal.
+Los servicios de expedición de anuencias municipales para tramitar licencias para la venta y consumo de bebidas con contenido alcohólico, expedición de autorizaciones eventuales y expedición de guías de transportación de bebidas con contenido alcohólico, causarán derechos atendiendo la ubicación y al tipo de giro del establecimiento o evento de que se trate, conforme a las siguientes cuotas:
 
-(NOTA: EL 8 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 23/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE ENERO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+I.- Por la expedición de anuencias municipales:
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+VUMAV
+
+1.- Agencia distribuidora. 755.55
+
+2.- Expendio. 755.55
+
+3.- Cantina, bar o boliche. 755.55
+
+4.- Restaurante 445.05
+
+5.- Tienda de autoservicio. 445.05
+
+6.- Centro de eventos o salón de baile. 445.05
+
+7.- Hotel o motel. 445.05
+
+8.- Centro recreativo o deportivo. 445.05
+
+9.- Tienda de abarrotes. 445.05
+
+10.- Centro Nocturno. 755.55
+
+11.- Casinos 1066.05
+
+12.- Supermercados 755.55
+
+13.- Salón o local abierto o cerrado de Diversiones
+
+y Espectáculos 455.05
+
+14.- Restaurante Bar 755.55
+
+Tratándose de la expedición de anuencias municipales por cambio de Propietario o de domicilio se aplicarán las cuotas anteriores reducidas en un 75.0%.
+
+II.- Para la expedición de autorizaciones eventuales, por día, si se trata de:
+
+VUMAV
+
+en el Municipio
+
+(NOTA: EL 22 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 95/2020, DECLARÓ LA INVALIDEZ DEL NUMERAL 1 DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+1.- FIESTAS SOCIALES O FAMILIARES: 5.88
+
+2.- Kermés: 11.78
+
+3.- Bailes, graduaciones, bailes tradicionales: 5.88
+
+4.- Carreras de caballos, peleas de gallos, rodeo,
+
+Jaripeo y eventos públicos similares: 11.78
+
+5.- Box, lucha, béisbol y eventos públicos similares. 44.22
+
+6.- Ferias o exposiciones ganaderas, comerciales y
+
+Eventos Públicos similares: 44.22
+
+7.- Palenques: 58.97
+
+8.- Prestaciones artísticas: 58.97
+
+9.- Conciertos musicales masivos 44.22
+
+III.- Por la expedición de guías para la transportación de
+
+bebidas con contenido alcohólico con origen y destino
+
+dentro del Municipio: 5.17
+
+> <small>(F. DE E., B.O. 20 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 201.
 
-Para el ejercicio fiscal de 2020, se aprueba la Ley de Ingresos y Presupuesto de Ingresos del Ayuntamiento del Municipio de H. Nogales, Sonora, CON UN IMPORTE DE $1,538,826,114 (MIL QUINIENTOS TREINTA Y OCHO MILLONES OCHOCIENTOS VEINTISES (SIC) MIL CIENTO CATORCE PESOS 00/100, M.N.).
-
-[...]
+Durante el ejercicio fiscal de 2020, el Ayuntamiento del Municipio de la Heroica Nogales, Sonora, recaudará ingresos por los conceptos mencionados en el Título Segundo, por las cantidades que a continuación se enumeran:
