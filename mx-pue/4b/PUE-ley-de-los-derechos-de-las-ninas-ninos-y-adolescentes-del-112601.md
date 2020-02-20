@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2020-01-24"
+last_updated: "2020-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -1093,9 +1093,11 @@ Está prohibido devolver, expulsar, deportar, retornar, rechazar en frontera o n
 
 Cualquier decisión sobre la devolución de una niña, niño o adolescente al país de origen o a un tercer país seguro, sólo podrá basarse en su interés superior.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2020)</small>
+
 ###### ARTÍCULO 93.
 
-En caso de que el Sistema Estatal DIF y los Sistemas Municipales DIF, identifiquen, mediante una evaluación inicial, a niñas, niños o adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán al Instituto Nacional de Migración, a fin de adoptar medidas de protección especial.
+En caso de que el Sistema Estatal DIF y los Sistemas Municipales DIF, identifiquen, mediante una evaluación inicial, a niñas, niños o adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán al Instituto Nacional de Migración, para que coadyuve con la Coordinación General de la Comisión Mexicana de Ayuda a Refugiados, a fin de adoptar medidas de protección especial.
 
 ###### ARTÍCULO 94.
 
@@ -1964,3 +1966,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Secretaría de Planeación y Finanzas del Gobierno del Estado de Puebla, deberá prever la suficiencia presupuestaria para el cumplimiento del presente Decreto, en su caso.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 93 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
