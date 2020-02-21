@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de-599
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2019-11-26"
+last_updated: "2020-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE FEBRERO DE 2020.
 
 Ley publicada en el Núm. Ext. 65 a la Gaceta Oficial del Estado de Veracruz, el jueves 28 de febrero de 2008.
 
@@ -347,6 +347,24 @@ Los gobiernos estatal y municipal aplicarán inmediatamente las medidas establec
 
 Las autoridades estatales, municipales y los organismos autónomos en el ámbito de sus competencias, garantizarán a las mujeres el acceso y ejercicio pleno de sus derechos de participación política.
 
+> <small>(ADICIONADO, G.O. 21 DE FEBRERO DE 2020)</small>
+
+###### Artículo 13 Ter.
+
+En los poderes Ejecutivo, Legislativo y Judicial, así como en los órdenes del gobierno estatal y municipal, y en los organismos autónomos, todos los servidores públicos tienen la obligación de asegurar, en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencia política; por tanto, están obligados a abstenerse de:
+
+I. Imponer por estereotipos de género, la realización de actividades y tareas ajenas a las funciones y atribuciones propias del cargo público que las mujeres ostenten o en cualquier ámbito de ejercicio de los derechos político-electorales o de asociación de las mujeres;
+
+II. Asignar responsabilidades que tengan como resultado la limitación del ejercicio de sus tareas que obstaculicen o restrinjan el ejercicio de su encargo;
+
+III. Restringir el uso de la palabra, en las sesiones u otras reuniones y su participación en comisiones, comités y otras instancias inherentes a su cargo, conforme a la reglamentación aplicable;
+
+IV. Imponer a las mujeres sanciones injustificadas, impidiendo o restringiendo el ejercicio de sus derechos políticos;
+
+V. Divulgar o revelar información personal y privada, de las mujeres electas, designadas, que ocupen puestos administrativos o directivos, en el ejercicio de sus funciones político-públicas, con el objetivo de menoscabar su dignidad como seres humanos y utilizar la misma para obtener contra su voluntad la renuncia o licencia al cargo que ejercen o postulan; y
+
+VI. Presionar o inducir a las autoridades electas o designadas a presentar renuncia al cargo.
+
 ### CAPÍTULO I. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ### CAPÍTULO II. DEL PROGRAMA PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
@@ -583,7 +601,17 @@ Corresponde a la Fiscalía General del Estado:
 
 I. Garantizar mecanismos expeditos en la procuración de justicia para asegurar el acceso de las mujeres a la justicia plena;
 
-II. Promover la formación y especialización con perspectiva de género de las y los Fiscales y de todo el personal encargado de atender a las y los denunciantes;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.O. 21 DE FEBRERO DE 2020)</small>
+
+II. Contar con Fiscales Especializadas para la investigación y persecución de los delitos de violencia de género, feminicidio y violencia familiar en caso de que la víctima sea niña o mujer. Realizarán sus funciones bajo los principios de perspectiva de género y debida diligencia. Quienes, además:
+
+a) Deberán cumplir, como mínimo, los requisitos de ingreso y permanencia que establecen las leyes aplicables; tener el perfil que establezca la Fiscalía General en el Reglamento respectivo y acreditar los cursos de especialización, capacitación y de actualización correspondientes; y
+
+b) Estarán dotadas de los recursos humanos, materiales y técnicos especializados y multidisciplinarios que se requieran para su efectiva operación, entre los que deberá contemplarse personal sustantivo ministerial, policial, pericial y de apoyo psicosocial.
+
+Las Fiscales Especializadas, así como el personal ministerial, policial, pericial y psicosocial que las apoyen, deberán contar con la capacitación y actualización especializada que determine la Fiscalía General, conforme a los más altos estándares internacionales acreditables, en las materias de derechos humanos, perspectiva de género, sensibilización y atención a mujeres víctimas de violencia, así como de aplicación de protocolos de investigación de los delitos de violencia contra mujeres, entre otros.
+
+La Fiscalía General contará con una Unidad de Análisis para la investigación de los delitos de violencia de género, feminicidio y violencia familiar en caso de que la víctima sea niña o mujer. La cual deberá estar integrada con los equipos multidisciplinarios de análisis e investigación necesarios;
 
 III. Brindar a las mujeres víctimas de violencia la asistencia y orientación jurídica adecuada, de conformidad con los ordenamientos aplicables;
 
@@ -609,11 +637,15 @@ X. Las demás que le señalen las disposiciones legales aplicables.
 
 Al Tribunal Superior de Justicia del Estado le corresponde:
 
-I. Formar, actualizar y especializar a su personal en materia de derechos humanos de las mujeres;
+> <small>(REFORMADA, G.O. 21 DE FEBRERO DE 2020)</small>
+
+I. Formar, actualizar y especializar a su personal en materia de derechos humanos de las mujeres, perspectiva de género y sensibilización respecto al trato a mujeres víctimas de violencia;
 
 II. Crear sistemas de registro que incorporen indicadores que faciliten el monitoreo de las tendencias socio-jurídicas de la violencia contra las mujeres y de su acceso a la justicia;
 
-III. Promover una cultura libre de estereotipos de género, de roles y lenguaje sexista;
+> <small>(REFORMADA, G.O. 21 DE FEBRERO DE 2020)</small>
+
+III. Instaurar una cultura de igualdad y no discriminación, libre de estereotipos de género, de roles y lenguaje sexista;
 
 IV. Informar sobre los procedimientos judiciales en materia de violencia de género contra las mujeres;
 
@@ -621,7 +653,9 @@ V. Coordinar, dirigir y administrar las órdenes y medidas de protección e info
 
 VI. Alimentar el Banco Estatal de Datos en coordinación con el Instituto Veracruzano de las Mujeres;
 
-VII. Emitir sus resoluciones con base en los Tratados Internacionales sobre derechos humanos de las mujeres;
+> <small>(REFORMADA, G.O. 21 DE FEBRERO DE 2020)</small>
+
+VII. Emitir sus resoluciones con base en los derechos humanos de las mujeres, reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado, en Tratados Internacionales sobre derechos humanos de las mujeres; en la jurisprudencia internacional en la materia y bajo los principios de perspectiva de género, debido proceso y acceso a la justicia;
 
 VIII. Generar mecanismos y promover su implementación para la detección de violencia contra las mujeres; y
 
@@ -1144,3 +1178,27 @@ G.O. 26 DE NOVIEMBRE DE 2019.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 534 POR EL QUE SE ADICIONA EL ARTÍCULO 13 TER A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 549 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. La Fiscalía General del Estado deberá realizar las adecuaciones Reglamentarias y los ajustes administrativos y presupuestarios necesarios para el cumplimiento del presente Decreto, en un plazo no mayor a ciento veinte días contados a partir de su entrada en vigor.
+
+Tercero. La Fiscalía General del Estado designará a las Fiscales Especializadas en materia de delitos de violencia de género, feminicidio y de violencia familiar, y les asignará los recursos humanos, materiales y técnico (sic) especializados y multidisciplinarios para su operación de acuerdo a su presupuesto asignado, de manera progresiva y de conformidad con un plan programático, iniciando en los Municipios con mayor incidencia en los delitos de su especialidad, hasta que se cuente con la designación de estas Fiscales Especializadas en todos los doscientos doce Municipios del Estado a más tardar a diciembre de dos mil veinte.
+
+Cuarto. Para el cumplimiento del transitorio anterior, la Fiscalía General del Estado podrá utilizar el personal y la infraestructura de las actuales Fiscalías Especializadas en la Investigación de Delitos de Violencia contra la Familia, Mujeres, Niñas y Niños y Trata de Personas, para lo cual, de conformidad a lo establecido en el artículo 17 de la Ley Orgánica de la Fiscalía General del Estado de Veracruz de Ignacio de la Llave, deberá crear las Fiscalías necesarias para el conocimiento de los delitos contra niños y de trata de personas.
+
+Quinto. Las investigaciones ministeriales que actualmente conocen las Fiscalías Especializadas en la Investigación de Delitos de Violencia contra la Familia, Mujeres, Niñas y Niños y Trata de Personas, por los delitos contra niños y de trata de personas, las seguirán conociendo hasta que la Fiscalía General del Estado cree las Fiscalías necesarias para el conocimiento de estos delitos.
+
+Sexto. Se deroga cualquier disposición que se oponga al presente Decreto.
