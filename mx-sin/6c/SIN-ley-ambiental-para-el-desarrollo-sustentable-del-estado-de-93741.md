@@ -4,7 +4,7 @@ identifier: "SIN-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-9374
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2018-08-08"
+last_updated: "2020-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 8 de abril de 2013.
 
@@ -299,15 +299,19 @@ VII. La regulación de los sistemas de recolección, transporte, almacenamiento,
 
 VIII. Prevenir y controlar la contaminación generada por la emisión de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales al equilibrio ecológico o al ambiente, proveniente de fuentes fijas que funcionen como establecimientos industriales, así como, en su caso, de fuentes móviles que no sean de competencia federal;
 
-> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
 
-VIII Bis. Realizar actos de inspección y vigilancia en coordinación con los Municipios que correspondan a efecto de promover entre los establecimientos comerciales y de servicios la eliminación en el otorgamiento de popotes de material plástico desechable a los consumidores, realizándose únicamente a solicitud expresa del cliente o consumidor, debiendo los establecimientos implementar una campaña permanente tendiente a la eliminación en el uso de los mismos, fomentando que su fabricación sea únicamente de material biodegradable;
+VIII Bis. Realizar actos de inspección y vigilancia que correspondan a efecto de verificar en establecimientos comerciales y de servicios la eliminación, comercialización, distribución o entrega, a título gratuito u oneroso, los productos de plástico no biodegradable como popotes o pajitas; bolsas para traslado de mercancías de mercados, tianguis, supermercados, tiendas de servicio y autoservicio, tiendas de conveniencia, restaurantes, farmacias, establecimientos donde se expendan o suministren y demás puntos de venta o distribución similares, así como las utilizadas para cubrir platos destinados para consumir alimentos; platos, vasos, tazas, copas, charolas, recipientes, contenedores, cucharas, tenedores, cuchillos, tapas para vasos, mezcladores o agitadores para bebidas; anillos para agrupar, sostener o cargar envases; los productos derivados del poliestireno expandido (PCD o UNICEL); y envases de bebidas fabricadas sin el porcentaje mínimo de contenido de plástico reciclado y demás productos cuya prohibición se establezca en la Ley de Residuos del Estado de Sinaloa.
 
-> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2018)</small>
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VIII BIS, P.O. 21 DE FEBRERO DE 2020]</small>
 
-VIII Bis A. Realizar actos de inspección y vigilancia en coordinación con los Municipios que correspondan, entre los establecimientos comerciales, de servicios, almacenamiento, distribución y fabricación de bolsas de polietileno, que es utilizado y entregado en supermercados, autoservicios, almacenes y comercios en general para el transporte de productos o mercancías, para promover que estos sean fabricados con materiales cien por ciento biodegradables, bajo los lineamientos que establezca el Reglamento de la presente Ley.
+Adicional a lo anterior, los establecimientos comerciales y de servicios que hagan uso de los productos plásticos señalados en el párrafo anterior, deberán implementar una campaña permanente de concientización sobre los beneficios que genera tener un medio ambiente sano, la utilización de productos biodegradables, reciclables y reutilizables;
 
-Elaborar y difundir campañas y programas de sustitución de plásticos, con la finalidad de reducir paulatinamente hasta eliminar el consumo de bolsas, envases, embalajes o empaques de plástico que no sean cien por ciento biodegradables que utilice la industria, el comercio o establecimientos de servicio y que se entreguen para la contención, transporte y envase de mercancías, asimismo, informar y fomentar la educación de los habitantes del Estado, sobre los beneficios que genera al medio ambiente la utilización de productos biodegradables, reciclables y reutilizables;
+VIII Bis A. (DEROGADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2020)
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+Elaborar y difundir campañas y programas para reducir paulatinamente hasta eliminar el uso de plásticos no biodegradables, con la finalidad de promover el consumo de plástico que sea por lo menos noventa por ciento biodegradable, que utilice la industria, el comercio o establecimientos de servicio y que se entreguen para la contención, transporte y envase de mercancías, asimismo, informar y fomentar la educación ambiental de los habitantes del Estado, sobre los beneficios que genera tener un medio ambiente sano, la utilización de productos biodegradables, reciclables y reutilizables;
 
 IX. Regular el aprovechamiento sustentable y la prevención y control de la contaminación de las aguas y recursos naturales de jurisdicción estatal, así como las aguas nacionales que tenga asignadas;
 
@@ -367,15 +371,17 @@ VII. Aplicar las disposiciones jurídicas en materia de prevención y control de
 
 VIII. Formular y expedir los programas de ordenamiento ecológico local, así como el control y la vigilancia del uso y cambio del suelo, establecidos en dichos programas;
 
-> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
 
-VIII Bis. Realizar actos de inspección y vigilancia en coordinación con el Ejecutivo Estatal a efecto de promover entre los establecimientos comerciales y de servicios la eliminación en el otorgamiento de popotes de material plástico desechable a los consumidores, realizándose únicamente a solicitud expresa del cliente o consumidor, debiendo los establecimientos implementar una campaña permanente tendiente a la eliminación en el uso de los mismos, fomentando que su fabricación sea únicamente de material biodegradable;
+VIII Bis. Realizar actos de inspección y vigilancia que correspondan a efecto de verificar en establecimientos comerciales y de servicios la eliminación, comercialización, distribución o entrega, a título gratuito u oneroso, los productos de plástico no biodegradable como popotes o pajitas; bolsas para traslado de mercancías de mercados, tianguis, supermercados, tiendas de servicio y autoservicio, tiendas de conveniencia, restaurantes, farmacias, establecimientos donde se expendan o suministren y demás puntos de venta o distribución similares, así como las utilizadas para cubrir platos destinados para consumir alimentos; platos, vasos, tazas, copas, charolas, recipientes, contenedores, cucharas, tenedores, cuchillos, tapas para vasos, mezcladores o agitadores para bebidas; anillos para agrupar, sostener o cargar envases; los productos derivados del poliestireno expandido (PCD o UNICEL); y envases de bebidas fabricadas sin el porcentaje mínimo de contenido de plástico reciclado, y demás productos cuya prohibición se establezca en la Ley de Residuos del Estado de Sinaloa.
 
-> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2018)</small>
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VIII BIS, P.O. 21 DE FEBRERO DE 2020]</small>
 
-VIII Bis A. Realizar actos de inspección y vigilancia en coordinación con el Ejecutivo Estatal, entre los establecimientos comerciales, de servicios, almacenamiento, distribución y fabricación de bolsas de polietileno, que es utilizado y entregado en supermercados, autoservicios, almacenes y comercios en general para el transporte de productos o mercancías, para promover que estos sean fabricados con materiales cien por ciento biodegradables, bajo los lineamientos que establezca el Reglamento de la presente Ley.
+Adicional a lo anterior, los establecimientos comerciales y de servicios que hagan uso de los productos plásticos señalados en el párrafo anterior, deberán implementar una campaña permanente de concientización sobre los beneficios que genera tener un medio ambiente sano, la utilización de productos biodegradables, reciclables y reutilizables;
 
-Elaborar y difundir campañas y programas de sustitución de plásticos, con la finalidad de reducir paulatinamente hasta eliminar el consumo de bolsas, envases, embalajes o empaques de plástico que no sean cien por ciento biodegradables que utilice la industria, el comercio o establecimientos de servicio y que se entreguen para la contención, transporte y envase de mercancías, asimismo, informar y fomentar la educación de los habitantes del Municipio respectivo, sobre los beneficios que genera al medio ambiente la utilización de productos biodegradables, reciclables y reutilizables;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+VIII Bis A. Elaborar y difundir campañas y programas para reducir paulatinamente hasta eliminar el uso de plásticos no biodegradables, con la finalidad de promover el consumo de plástico que sea por lo menos noventa por ciento biodegradable, que utilice la industria, el comercio o establecimientos de servicio y que se entreguen para la contención, transporte y envase de mercancías, asimismo, informar y fomentar la educación ambiental de los habitantes del municipio, sobre los beneficios que genera tener un medio ambiente sano, la utilización de productos biodegradables, reciclables y reutilizables;
 
 IX. Preservar y restaurar el equilibrio ecológico y la protección al ambiente en los centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, calles, parques urbanos y jardines, tránsito y transporte local, siempre y cuando no se trate de facultades otorgadas a la Federación o a los Estados en la Ley General, esta Ley u otras disposiciones generales;
 
@@ -3408,3 +3414,25 @@ P.O. 8 DE AGOSTO DE 2018.
 PRIMERO. El presente Decreto entrará en vigor a los sesenta días posteriores a su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. El Titular del Poder Ejecutivo del Estado y los Ayuntamientos dentro de los treinta días posteriores al inicio de vigencia del presente Decreto, deberán realizar las modificaciones correspondientes a sus reglamentos derivadas del mismo.
+
+P.O. 21 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 445 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE RESIDUOS, Y DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE, AMBAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. La prohibición de los productos de plástico no biodegradable establecidos en la fracción VI del artículo 74 de la Ley de Residuos del Estado de Sinaloa, entrará en vigor de forma gradual, conforme a los plazos siguientes:
+
+El inciso a, a los ciento cincuenta días naturales de la publicación del presente Decreto en el Periódico Oficial "El Estado de Sinaloa", exceptuando a los popotes o pajitas adheridos a productos de presentación Tetrapak para la conservación e inocuidad de alimentos, cuya prohibición entrará en vigor a los trescientos sesenta días naturales de la publicación del presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
+
+El inciso b, a los ciento cincuenta días naturales de la publicación del presente Decreto en el Periódico Oficial "El Estado de Sinaloa", exceptuando las bolsas utilizadas para cubrir platos destinados para consumir alimentos, cuya prohibición entrará en vigor a los seiscientos días naturales de la publicación del presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
+
+Los incisos c, y d, a los trescientos sesenta días naturales de la publicación del presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
+
+El inciso e, a los quinientos cuarenta días naturales de la publicación del presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
+
+El inciso f, a partir del 1 de enero de 2025, para los envases de bebidas fabricados con un porcentaje mínimo del 25% de plástico reciclado, y a partir del 1 de enero de 2028, para los envases de bebidas fabricados con un porcentaje mínimo del 30% de plástico reciclado.
+
+TERCERO. El Estado y los Municipios en el ámbito de sus respectivas competencias deberán desarrollar campañas en comunicación y concientización dirigidas a industrias, comercios y población en general sobre el impacto negativo del abuso en el consumo del plástico no biodegradable, y las alternativas que existen para evitarlo, incluyendo su reutilización y reciclaje, a efecto de atender y dar cumplimiento al presente Decreto.
+
+CUARTO. Se derogan todas aquellas disposiciones que contravengan el contenido del presente Decreto.
