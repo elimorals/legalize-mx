@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-residuos-del-estado-de-sinaloa-130771"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-26"
-last_updated: "2018-09-26"
+last_updated: "2020-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY DE RESIDUOS DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE RESIDUOS DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2020.
 
 Ley publicada en el Número 119 del Periódico Oficial del Estado de Sinaloa, el miércoles 26 de septiembre de 2018.
 
@@ -79,6 +81,10 @@ Para efectos de esta Ley, se estará a las definiciones que contienen la Ley Gen
 
 I. Almacenamiento: La acción de mantener en depósito temporalmente residuos de manejo especial y sólidos urbanos en instalaciones que cumplen con lo previsto en la presente Ley, el Reglamento, las Normas Oficiales Mexicanas, las normas estatales en materia ambiental sobre residuos y los acuerdos que emita la Secretaría, para evitar su liberación y dispersión al ambiente, en tanto se procesan para su valorización, se les aplica un tratamiento, se transportan o se dispone finalmente de ellos;
 
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+I Bis. Biodegradable: La propiedad de un material consistente en su capacidad para ser desintegrado en por lo menos un 90% de su masa total en un plazo máximo de 360 días naturales, a partir de su descomposición por la acción de microorganismos, en elementos que se encuentran en la naturaleza, tales como dióxido de carbono, agua, componentes inorgánicos o biomasa;
+
 II. Bitácora: El documento en el cual se registran las actividades de manejo integral de residuos de manejo especial y sólidos urbanos;
 
 III. Clasificación: La determinación cualitativa y cuantitativa de los residuos de manejo especial y sólidos urbanos, sustentada en sus propiedades físicas, químicas o biológicas, que sirve para establecer los posibles efectos adversos al ambiente y a la salud humana;
@@ -124,6 +130,10 @@ XXII. Normas estatales en materia ambiental sobre residuos: Las regulaciones té
 XXIII. Plan de manejo: El instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de residuos de manejo especial y sólidos urbanos, bajo criterios de eficiencia sanitaria, ambiental, tecnológica, económica y social, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a las dependencias y entidades de la Administración Pública del Estado y los Ayuntamientos;
 
 XXIV. Plantas de tratamiento: Las instalaciones autorizadas para el tratamiento de los residuos de manejo especial y sólidos urbanos;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+XXIV Bis. Plástico: Material fabricado a partir de una amplia gama de polímeros orgánicos, fósiles y no fósiles, tales como el tereftalato de polietileno (PET), el polipropileno (PP), el polietileno de baja densidad (PEBD), el polietileno de alta densidad (PEAD), el poliestireno (PS), poliestireno expandido (PSE), el policloruro de vinilo (PVC) y policarbonato que pueden moldearse mientras es suave y luego volverse a su forma rígida o ligeramente rígida e incluso elástica;
 
 XXV. Programa: El Programa Estatal para la Prevención y la Gestión Integral de los Residuos;
 
@@ -877,9 +887,7 @@ IV. La valorización de los residuos.
 
 ###### Artículo 66.
 
-Las personas físicas y morales que enajenen o entreguen bolsas de plástico no biodegradable para cargar o transportar los bienes adquiridos a ellos, están obligadas al pago de una tarifa de cuarenta y nueve centavos como impuesto por cada bolsa de plástico no biodegradable entregada. Dicho impuesto será causado al momento de la enajenación de la bolsa, y deberá enterarse mediante declaración que presentará el contribuyente en los formatos oficialmente aprobados ante las oficinas autorizadas para ello, dentro de los primeros quince días de cada mes, debiendo contener dichas declaraciones las enajenaciones objeto de este impuesto que se hayan realizado en el mes anterior.
-
-El ingreso que perciba el Estado proveniente de lo recaudado por concepto del impuesto al que se refiere el presente artículo se destinará al Fondo, para llevar a cabo las acciones y los proyectos para el logro de las metas planteadas en el Programa y en los Programas Municipales.
+(DEROGADO, P.O. 21 DE FEBRERO DE 2020)
 
 ###### Artículo 67.
 
@@ -979,9 +987,37 @@ IV. Incinerar residuos a cielo abierto o en lugares no autorizados;
 
 V. Abrir nuevos tiraderos de residuos;
 
-VI. Entregar a título gratuito bolsas de plástico no biodegradable para cargar o transportar los bienes adquiridos a establecimientos comerciales o de servicios; o
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE FEBRERO DE 2020)</small>
 
-VII. Entregar bebidas con popote de plástico sin que medie petición expresa del cliente, en establecimientos que las expendan o las suministren.
+VI. Comercializar, distribuir o entregar, a título gratuito u oneroso, los productos de plástico no biodegradable siguientes:
+
+a. Popotes o pajitas;
+
+b. Bolsas para traslado de mercancías de mercados, tianguis, supermercados, tiendas de servicio y autoservicio, tiendas de conveniencia, restaurantes, farmacias, establecimientos donde se expendan o suministren y demás puntos de venta o distribución similares, así como las utilizadas para cubrir platos destinados para consumir alimentos;
+
+c. Platos, vasos, tazas, copas, charolas, recipientes, contenedores, cucharas, tenedores, cuchillos, tapas para vasos, mezcladores o agitadores para bebidas;
+
+d. Anillos para agrupar, sostener o cargar envases;
+
+e. Los productos derivados del poliestireno expandido (PCD o UNICEL); y
+
+f. Envases de bebidas fabricadas sin el porcentaje mínimo de contenido de plástico reciclado; y
+
+VII. (DEROGADA, P.O. 21 DE FEBRERO DE 2020)
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+###### Artículo 74 Bis.
+
+Se exceptúan de las prohibiciones que establece el artículo 74, fracción VI de esta ley, los productos de plástico no biodegradable siguientes:
+
+I. Los utilizados para fines médicos;
+
+II. Las bolsas que, por sanidad e inocuidad de los alimentos, sean utilizadas para productos a granel;
+
+III. Los fabricados con materiales biodegradables, previo a su comercialización, distribución o entrega generalizados en el mercado, se deberá presentar a la Secretaría un aviso, acompañado de una muestra del producto y el certificado de análisis respectivo emitido por un laboratorio acreditado por la Entidad Mexicana de Acreditación, donde se verifique que es por lo menos noventa por ciento biodegradable, su periodo de descomposición y la no toxicidad; y
+
+IV. Los productos derivados del poliestireno expandido, solo en el supuesto del uso de la industria de la construcción y los embalajes de grandes mercancías.
 
 ###### Artículo 75.
 
@@ -1091,19 +1127,17 @@ Los Ayuntamientos tendrán a su cargo la regulación de la gestión integral de 
 
 Los residuos sólidos urbanos deberán subclasificarse en orgánicos, inorgánicos y peligrosos domiciliarios, con el objeto de facilitar su separación primaria, de conformidad con el Programa y los Programas Municipales, y demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 89.
 
-Los establecimientos que expendan o suministren al público bebidas, únicamente las entregarán con popote de plástico a petición expresa del cliente.
+Los establecimientos que expendan o suministren al público bebidas, únicamente las entregarán con popote de plástico biodegradable y a solicitud expresa del cliente.
 
 Asimismo, colocarán en lugares visibles al público información sobre la contaminación provocada por el uso de popotes de plástico.
 
 ###### Artículo 90.
 
-Los Ayuntamientos podrán establecer prohibiciones a la entrega de:
-
-I. Bolsas de plástico no biodegradables, a título oneroso, para cargar o llevar productos enajenados por los establecimientos comerciales; y
-
-II. Popotes de plástico en establecimientos que expendan o suministren al público bebidas.
+(DEROGADO, P.O. 21 DE FEBRERO DE 2020)
 
 ###### Artículo 91.
 
@@ -1311,7 +1345,9 @@ g. Ejecutar planes de manejo que contengan disposiciones contrarias a lo previst
 
 h. Omitir la separación de residuos de manejo especial; y
 
-i. Entregar a título gratuito bolsas de plástico no biodegradable para cargar o transportar los bienes adquiridos a establecimientos comerciales o de servicios.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+i. Comercializar, distribuir o entregar, a título gratuito u oneroso, productos de plástico no biodegradable, conforme a lo establecido en la fracción VI del artículo 74 de esta ley; y
 
 III. Infracciones muy graves:
 
@@ -1363,13 +1399,17 @@ VI. Incumplir con las obligaciones contenidas en las concesiones de competencia 
 
 VII. Omitir la separación de residuos sólidos urbanos;
 
-VIII. Entregar a título gratuito bolsas de plástico para cargar o llevar los productos adquiridos a establecimientos comerciales o de servicios;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+VIII. Comercializar, distribuir o entregar, a título gratuito u oneroso, productos de plástico no biodegradable, conforme a lo establecido en la fracción VI del artículo 74 de esta ley;
 
 IX. Incumplir con las disposiciones de manejo establecidas en los planes de manejo de residuos sólidos urbanos;
 
-X. Entregar bebidas con popote de plástico en los establecimientos que las expendan o suministren al público, sin que medie petición expresa del cliente; y
+X. (DEROGADA, P.O. 21 DE FEBRERO DE 2020)
 
-XI. Omitir la colocación de información sobre la contaminación provocada por el uso de popotes de plástico en lugares visibles, en los establecimientos que expendan o suministren al público bebidas.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+XI. Omitir la colocación de información sobre la contaminación provocada por el uso de plástico y los beneficios de usar productos biodegradables, en lugares visibles de los establecimientos que expendan o los suministren.
 
 Para la vigilancia de las conductas previstas en el presente artículo, los Ayuntamientos podrán hacer uso de las instituciones de seguridad pública de las administraciones municipales, sin perjuicio de lo previsto en sus respectivos reglamentos, bandos de policía y gobierno.
 
@@ -1520,3 +1560,27 @@ El Secretario de Desarrollo Sustentable
 El Secretario de Educación Pública y Cultura
 
 JOSÉ ENRIQUE VILLA RIVERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 445 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE RESIDUOS, Y DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE, AMBAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “EI Estado de Sinaloa”.
+
+SEGUNDO. La prohibición de los productos de plástico no biodegradable establecidos en la fracción VI del artículo 74 de la Ley de Residuos del Estado de Sinaloa, entrará en vigor de forma gradual, conforme a los plazos siguientes:
+
+El inciso a, a los ciento cincuenta días naturales de la publicación del presente Decreto en el Periódico Oficial "El Estado de Sinaloa", exceptuando a los popotes o pajitas adheridos a productos de presentación Tetrapak para la conservación e inocuidad de alimentos, cuya prohibición entrará en vigor a los trescientos sesenta días naturales de la publicación del presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
+
+El inciso b, a los ciento cincuenta días naturales de la publicación del presente Decreto en el Periódico Oficial "El Estado de Sinaloa", exceptuando las bolsas utilizadas para cubrir platos destinados para consumir alimentos, cuya prohibición entrará en vigor a los seiscientos días naturales de la publicación del presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
+
+Los incisos c, y d, a los trescientos sesenta días naturales de la publicación del presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
+
+El inciso e, a los quinientos cuarenta días naturales de la publicación del presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
+
+El inciso f, a partir del 1 de enero de 2025, para los envases de bebidas fabricados con un porcentaje mínimo del 25% de plástico reciclado, y a partir del 1 de enero de 2028, para los envases de bebidas fabricados con un porcentaje mínimo del 30% de plástico reciclado.
+
+TERCERO. El Estado y los Municipios en el ámbito de sus respectivas competencias deberán desarrollar campañas en comunicación y concientización dirigidas a industrias, comercios y población en general sobre el impacto negativo del abuso en el consumo del plástico no biodegradable, y las alternativas que existen para evitarlo, incluyendo su reutilización y reciclaje, a efecto de atender y dar cumplimiento al presente Decreto.
+
+CUARTO. Se derogan todas aquellas disposiciones que contravengan el contenido del presente Decreto.
