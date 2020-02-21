@@ -4,7 +4,7 @@ identifier: "GUA-codigo-reglamentario-de-desarrollo-urbano-para-el-municipio-758
 country: "mx"
 rank: "codigo"
 publication_date: "2010-08-06"
-last_updated: "2018-04-09"
+last_updated: "2020-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2020.
 
 Código publicado en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 6 de agosto de 2010.
 
@@ -129,9 +129,9 @@ XI. Arroyo Vehicular: El espacio de una vialidad destinado exclusivamente para l
 
 XII. Autoconstrucción de Vivienda: El proceso de construcción o edificación de la vivienda realizada directamente por sus propios usuarios, en forma individual, familiar o colectiva;
 
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
 
-XII-A. Autorización de Impacto Ambiental: Documento expedido por la Dirección General de Medio Ambiente Sustentable con base en la MIA, en el cual se autoriza el impacto ambiental de las obras o actividades a realizar y se señalan las condicionantes que deberá cumplir el interesado a fin de mitigar los efectos que produciría la modificación del medio ambiente de una zona o área determinada con el uso del suelo pretendido;
+XII-A. Autorización de Impacto Ambiental: Documento expedido por la autoridad ambiental competente con base en la MIA, en el cual se autoriza el impacto ambiental de las obras o actividades a realizar y se señalan las condicionantes que deberá cumplir el interesado a fin de mitigar los efectos que produciría la modificación del medio ambiente de una zona o área determinada con el uso del suelo pretendido;
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
@@ -153,7 +153,15 @@ XIX. CFE: Comisión Federal de Electricidad;
 
 XX. Cenefas: La orilla de un toldo de cualquier material;
 
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+XX-A Centro de Acopio: Inmueble destinado a almacenar materiales reciclados de plástico, papel o cualquiera de sus derivados, que por medio de alguna transformación química o física puede volver a utilizarse para el mismo propósito u otro diverso del que fue creado o utilizado;
+
 XXI. Centro de Población: Las áreas constituidas por las zonas urbanizadas, las que se reserven a su expansión y las que se consideren no urbanizables por causas de preservación ecológica, prevención de riesgos y mantenimiento de actividades productivas, dentro de los límites del territorio municipal; así como las que por resolución de la autoridad competente se provean;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+XXI-A. Chatarrera: Inmueble destinado a almacenar material de desecho compuesto por sustancias o trozos metálicos viejos, fuera de uso o inservibles, pertenecientes a objetos diversos como máquinas o aparatos, que por medio de alguna transformación química o física puede volver a utilizarse para el mismo propósito u otro diverso del que fue creado o utilizado;
 
 XXII. Código: El presente Código Reglamentario de Desarrollo Urbano para el Municipio de León, Guanajuato;
 
@@ -253,9 +261,13 @@ L. Estructura de Construcción: Toda construcción destinada a soportar su propi
 
 LI. Estudio de Compatibilidad: Estudio presentado por el solicitante a la Dirección en el que se señalan los efectos que la modificación propuesta a la zonificación producirá en el ambiente, los recursos naturales, el equipamiento urbano, la infraestructura pública, los servicios públicos, la imagen urbana, el paisaje, el patrimonio cultural urbano y arquitectónico, la movilidad urbana y la seguridad de las personas y sus bienes, en la zona en que se pretende un uso de suelo diferente a lo señalado en el POTE;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
 
-LI-A. Estudio de Densidad y niveles en la ciudad de León: Documento en el que se establecen una serie de criterios, que deberá de ser elaborado y entregado a la Dirección por el promovente de proyectos, que conforme al presente Código así se requieran;
+LI-A. Estudio de Densidad de Población y COS: Documento en el que se establecen una serie de criterios con la finalidad de mitigar las condiciones de aumento de densidad y ocupación del suelo que deberá de ser elaborado y entregado a la Dirección por el promovente del proyecto, en aquéllos casos que conforme al presente Código así se requieran;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+LI-B. Estudio Bioclimático: Documento en el que se proponen una serie de criterios, a efecto de mitigar las condiciones bioclimáticas del entorno al incrementar la carga térmica por la extensión de las superficies no permeables de los estacionamientos, en caso de los usos de suelo de comercio y servicio, por lo que pueden formar o enfatizar el efecto de islas de calor, dicho estudio deberá de ser elaborado y entregado a la Dirección por el promovente del proyecto, la cual analizará y dictaminará su viabilidad;
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -407,6 +419,10 @@ XCIX. Predio: Al lote o terreno sin construcción;
 
 C. Producción Industrial de Vivienda: Aquella que se realiza por empresas privadas utilizando procedimientos de financiamiento, construcción, comercialización y crédito para el desarrollo masivo de vivienda y asegurar la obtención de utilidades;
 
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+C-A. Programas Parciales: Son los instrumentos de planeación territorial que tienen por objeto regular y establecer las acciones de desarrollo urbano en áreas específicas territoriales con condicionantes particulares, a fin de ejecutar las políticas y objetivos previstos en éstos.
+
 CI. Propietario: La persona física o moral que acredita legalmente mediante Escritura Pública o título debidamente reconocido por la Ley, la propiedad y posesión de un predio, finca o edificación;
 
 CII. (DEROGADA, P.O. 31 DE ENERO DE 2012)
@@ -491,7 +507,13 @@ CXXVII. Uso Público: Es la característica por la cual se define el uso intensi
 
 CXXVIII. Vano: Hueco de puerta, de ventana o de otra abertura en un muro o pared;
 
-CXXIX. Vía Pública: Todo espacio de uso común que por disposición de la normativa o autoridad administrativa se encuentra destinado al libre tránsito, tales como andadores, calles, avenidas, bulevares, caminos vecinales, carreteras, puentes, pasos a desnivel; así como todo inmueble que se destina para ese fin;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+CXXIX. Vía Pública: Toda área de uso común que por disposición de la normativa o documento emitido por autoridad administrativa se encuentre destinado al libre tránsito, tales como andadores, calles, avenidas, bulevares, caminos vecinales, carreteras, puentes, pasos a desnivel; así como toda área que se destina para ese fin;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+CXXIX-A. Vías públicas procedentes de fraccionamientos: Las áreas que en el plano oficial de un fraccionamiento aprobado por la Dirección, aparezcan destinados a vías públicas, uso común o algún servicio, inclusive aquellas que cuenten con control de acceso, serán consideradas del dominio público del municipio;
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -761,17 +783,11 @@ XXII. Otorgar el permiso de venta de los lotes de un fraccionamiento y de los de
 
 XXIII. Llevar a cabo la suspensión del permiso de venta, en los supuestos que establece el Código Territorial y el presente Código, aplicando el procedimiento establecido en el Código del Procedimiento Administrativo para el caso de las medidas de seguridad;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+XXIV. (DEROGADA, P.O. 21 DE FEBRERO DE 2020)
 
-XXIV. Determinar los montos y modalidades de las garantías que a favor del Municipio deberán otorgarse por los particulares para garantizar el cumplimiento de sus obligaciones; derivadas del Código Territorial, el presente Código o demás normativa aplicable.
+XXV. (DEROGADA, P.O. 21 DE FEBRERO DE 2020)
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
-
-XXV. Determinar el costo de las obras faltantes de guarniciones, banquetas, pavimentos en arroyos vehiculares y alumbrado público de los fraccionamientos y desarrollos en condominio para el cálculo de las garantías que señala el Código Territorial y el presente Código;
-
-XXVI. Supervisar conjuntamente con el SAPAL y la CFE, la ejecución de las obras de urbanización que se realicen en los fraccionamientos o desarrollos en condominio, a efecto de verificar que se cumpla con las especificaciones y normas señaladas en la autorización correspondiente;
-
-Para los efectos del párrafo anterior, la Dirección llevará un registro mensual de evaluación del avance de obra;
+XXVI. (DEROGADA, P.O. 21 DE FEBRERO DE 2020)
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -793,19 +809,15 @@ XXVIII-B. Dictaminar sobre la ejecución de las actividades realizadas por los p
 
 XXVIII-C. Emitir dictamen de congruencia dentro del proceso para la aprobación de traza, de acuerdo a los lineamientos de las normativas federales y de las NOM, NMX; de la normatividad estatal, del presente Código, del Manual Técnico de Usos del Suelo y de las Normas Técnicas;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
-
-XXIX. Establecer las especificaciones técnicas para la construcción de guarniciones, banquetas, pavimentos en arroyos vehiculares, alumbrado público y demás servicios dentro (sic) los fraccionamientos y desarrollos en condominio con base en los lineamientos establecidos por la Dirección General de Obra Pública; así como supervisar que su ejecución se realice conforme a las especificaciones técnicas autorizadas, verificando el avance y la calidad de las mismas;
+XXIX. (DEROGADA, P.O. 21 DE FEBRERO DE 2020)
 
 XXX. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2014)
 
-XXXI. Requerir al desarrollador los estudios, y la realización de las acciones resultantes de los mismos, para erradicar los factores de riesgo que en su caso se hubiesen presentado en la ejecución de las obras de urbanización de un fraccionamiento o de un desarrollo en condominio;
+XXXI. (DEROGADA, P.O. 21 DE FEBRERO DE 2020)
 
 XXXII. Poner en conocimiento de las dependencias y entidades de la administración pública federal, estatal y municipal, las situaciones que puedan constituir infracciones a disposiciones legales cuya aplicación les competa;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
-
-XXXIII. Llevar a cabo el procedimiento de recepción de las obras de urbanización, en coordinación con el SAPAL y la CFE, en los términos del Código Territorial y el presente Código;
+XXXIII. (DEROGADA, P.O. 21 DE FEBRERO DE 2020)
 
 XXXIV. Informar a la Comisión de Desarrollo Urbano sobre las solicitudes que en materia de fraccionamientos y desarrollos en condominio le sean presentadas y, el trámite que a las mismas se dé;
 
@@ -815,9 +827,9 @@ XXXVI. Emitir opinión sobre el ejercicio del derecho de preferencia del Municip
 
 XXXVII. Identificar las áreas de servicio que requiera un fraccionamiento o desarrollo en condominio;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
 
-XXXVIII. Mantener coordinación con el SAPAL, la CFE y demás dependencias y entidades gubernamentales para la aplicación conjunta de las disposiciones del Código Territorial y el presente Código;
+XXXVIII. Mantener coordinación con la Dirección de Obra, el SAPAL, la CFE y demás dependencias y entidades gubernamentales para la aplicación conjunta de las disposiciones del Código Territorial y el presente Código;
 
 > <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -943,6 +955,10 @@ III-B. Elaborar y proponer para aprobación del Ayuntamiento, las Normas Técnic
 
 IV. Proponer al Ayuntamiento, a través de la Comisión del Instituto Municipal de Planeación, las propuestas de actualización y modificación al POTE, al Plano de Zonificación Municipal y de los Centros de Población que se encuentren dentro del municipio, incluyendo las asignaciones de uso del suelo en zonas de reserva para el crecimiento (ZRC); Zona de Consolidación Urbana (ZCU) y en zona agrícola (A);
 
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+IV. A. Elaborar y en su caso coordinar la elaboración de los programas parciales que deriven del POTE.
+
 V. (DEROGADA, P.O. 6 DE MAYO DE 2014)
 
 VI. Brindar asesoría técnica en materia de planeación urbana a las autoridades competentes y auxiliares de este Código;
@@ -967,13 +983,13 @@ XI. Apoyar al Presidente Municipal en la gestión de la inscripción del POTE y 
 
 XII. Substanciar el procedimiento de evaluación de compatibilidad y presentar al Ayuntamiento la propuesta de acuerdo respectivo;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
 
-XIII. Emitir opinión técnica del estudio de densidad y niveles a la Dirección;
+XIII. Emitir opinión técnica del estudio bioclimático a la Dirección;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
 
-XIV. Elaborar y actualizar los términos de referencia de los criterios bioclimáticos para el estudio de densidad y niveles o las Normas Técnicas correspondientes; y
+XIV. Elaborar y actualizar los términos de referencia de los criterios bioclimáticos; y,
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2015)</small>
 
@@ -997,7 +1013,7 @@ IV. Identificar las áreas de servicio que requiera un fraccionamiento o desarro
 
 V. Supervisar que la ejecución de las obras de construcción e introducción de los sistemas de agua potable, drenaje sanitario y pluvial en los fraccionamientos y desarrollos en condominio, así como las relativas a plantas de tratamiento de aguas residuales e infraestructura para saneamiento, se realicen conforme a las especificaciones técnicas establecidas en los proyectos respectivos;
 
-VI. Autorizar el proyecto de rasantes de vialidades para los fraccionamientos y los desarrollos en condominio; y,
+VI. (DEROGADA, P.O. 21 DE FEBRERO DE 2020)
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
@@ -1029,9 +1045,49 @@ I-A. Elaborar y proponer para aprobación del Ayuntamiento, las Normas Técnicas
 
 II. Ejecutar por cuenta del propietario del predio o de la construcción, las obras que el municipio a través de cualquier dependencia o entidad municipal con base en los ordenamientos municipales, le hubiere ordenado o requerido realizar y que dicho propietario en rebeldía no las haya llevado a cabo;
 
-III. Autorizar o negar, de acuerdo con este ordenamiento, la ocupación o el uso de la vía pública y edificios públicos, así como llevar a cabo las visitas de verificación e inspección respectivas; y,
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
 
-IV. Las demás que se deriven del presente Código y de otras disposiciones legales y reglamentarias.
+III. Autorizar o negar, de acuerdo con este ordenamiento, la construcción, modificación u ocupación de la vía y edificios de carácter público;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+IV. Iniciar, substanciar y resolver procedimientos administrativos que resulten de las visitas de verificación e inspección que realicen en el ámbito de su competencia, así como imponer las medidas de seguridad y sanciones que correspondan;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+V. Establecer las especificaciones técnicas para la construcción de guarniciones, banquetas, pavimentos en arroyos vehiculares y alumbrado público dentro los fraccionamientos y desarrollos en condominio; así como supervisar que su ejecución se realice conforme a las especificaciones técnicas autorizadas, verificando el avance y la calidad de las mismas;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+VI. Determinar el costo de las obras faltantes de guarniciones, banquetas, pavimentos en arroyos vehiculares y alumbrado público de los fraccionamientos y desarrollos en condominio para el cálculo de las garantías que señala el Código Territorial y el presente Código;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+VII. Determinar los montos de las garantías que a favor del Municipio deberán otorgarse por los particulares para garantizar el cumplimiento de sus obligaciones; derivadas del Código Territorial, el presente Código o demás normativa aplicable;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+VIII. Supervisar conjuntamente con el SAPAL y la CFE, la ejecución de las obras de urbanización que se realicen en los fraccionamientos o desarrollos en condominio, a efecto de verificar que se cumpla con las especificaciones y normas señaladas en la autorización correspondiente;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+IX. Llevar un registro mensual de evaluación del avance de obra de urbanización;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+X. Requerir al desarrollador los estudios, y la realización de las acciones resultantes de los mismos, para erradicar los factores de riesgo que en su caso se hubiesen presentado en la ejecución de las obras de urbanización de un fraccionamiento o de un desarrollo en condominio;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+XI. Autorizar el proyecto de rasantes de vialidades para los fraccionamientos y los desarrollos en condominio;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+XII. Ordenar la realización de inspecciones a fin de verificar que se cumpla con los lineamientos marcados en el presente Código, únicamente en lo que hace a la construcción de las obras tanto de pavimentación como de las instalaciones para alumbrado público y, en su caso, imponer las sanciones y medidas de seguridad que resulten procedentes; y
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+XIII. Las demás que se deriven del presente Código y de otras disposiciones legales y reglamentarias.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2015)</small>
 
@@ -1257,7 +1313,9 @@ Comercio de Intensidad Media:
 
 1.- Norma de Intensidad: Hasta 100 personas activas;
 
-2.- Dimensión máxima del predio: 1600 metros cuadrados; y,
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+2.- Dimensión máxima del predio: 3200 metros cuadrados; y,
 
 3.- Servicio de carga y descarga: Hasta camioneta de 3 toneladas.
 
@@ -1271,7 +1329,9 @@ Comercio de Intensidad Alta:
 
 1.- Norma de Intensidad: Más de 100 personas activas;
 
-2.- Dimensión del predio: Más de 1601 metros cuadrados; y,
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+2.- Dimensión del predio: Más de 3201 metros cuadrados; y,
 
 3.- Servicio de carga y descarga: Trailer (Transporte Pesado).
 
@@ -1315,7 +1375,9 @@ Servicio de Intensidad Media:
 
 1.- Norma de Intensidad: Hasta 100 personas activas;
 
-2.- Dimensión máxima del predio: 1600 metros cuadrados; y,
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+2.- Dimensión máxima del predio: 3200 metros cuadrados; y,
 
 3.- Servicio de carga y descarga: Hasta camioneta de 3 toneladas.
 
@@ -1329,9 +1391,9 @@ Servicio de Intensidad Alta:
 
 1.- Norma de Intensidad: Más de 100 personas activas;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
-2.- Dimensión del predio: Más de 1600 metros cuadrados; y,
+2.- Dimensión del predio: Más de 3201 metros cuadrados; y,
 
 3.- Servicio de carga y descarga: Hasta Trailer.
 
@@ -1343,7 +1405,9 @@ Grupo de usos XIV
 
 Servicios Carreteros:
 
-1.- Norma de Intensidad: Actividades con afluencia continúa de transporte de carga, acopio de chatarra o actividades relacionadas con el medio rural;
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+1.- Norma de Intensidad: Actividades con afluencia continua de transporte de carga o actividades relacionadas con el medio rural;
 
 2.- Dimensión mínima del predio: 1000 metros cuadrados; y,
 
@@ -1783,29 +1847,31 @@ MINIMA: Hasta 50 habitantes/hectárea.
 
 El rango de densidad se sujetará a lo dispuesto por el Título de Fraccionamientos y Desarrollos en Condominio del presente Código.
 
-> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 61-A.
 
-En todas las edificaciones de más de 5 niveles, se deberá de considerar un área de amortiguamiento en su colindancia posterior o uso habitacional, que no podrá ser menor a 4.00 metros o el equivalente al 13% de la altura de la edificación, en esta superficie se podrá edificar hasta dos niveles.
+En todas las edificaciones de más de 5 niveles, se deberá de considerar un área de amortiguamiento en su colindancia posterior con uso habitacional, o bien, en aquella colindancia que favorezca las condiciones del entorno, la cual será el equivalente al 13% de la altura de la edificación y no podrá ser menor de 4.00 metros. En esta superficie se podrá edificar solamente hasta dos niveles.
 
 ###### Artículo 62.
 
 (DEROGADO, P.O. 31 DE ENERO DE 2012)
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 63.
 
-La Dirección podrá autorizar más niveles y mayor densidad de lo establecido en artículo 60 del presente Código, mediante un estudio de densidad y niveles, ello de acuerdo a lo señalado en el Capítulo V del Manual Técnico de Usos del Suelo y que SAPAL otorgue la factibilidad de servicios.
+La Dirección podrá autorizar mayor densidad y COS con un límite a la densidad inmediata superior, cuando determine la viabilidad del estudio de densidad de población y COS que presente el promovente, de conformidad con los requisitos señalados en el artículo 63-A de este ordenamiento.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 La autorización mencionada en el párrafo anterior no podrá otorgarse para lotes o predios que estén ubicados frente a una vialidad con caseta de control de acceso.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 63-A.
 
-El estudio de densidad y niveles previsto en el artículo que antecede, deberá contener:
+El estudio de densidad de población y COS previsto en el artículo que antecede, deberá contener:
 
 > <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -1831,9 +1897,9 @@ V. Plano de localización (con norte) en el que se indiquen vías importantes de
 
 VI. Descripción del entorno inmediato (500 m de radio), con fotografías de la zona y del inmueble, las cuales deberán incluir vista de las vialidades de la zona, construcciones, usos existentes, identificación de lotes baldíos, áreas verdes, infraestructura y movilidad;
 
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
 
-VII. Proyecto arquitectónico, excepto en casos relacionados con construcción;
+VII. Proyecto arquitectónico;
 
 > <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -1843,13 +1909,11 @@ VIII. Para revisar el impacto sobre la densidad de población en la zona, es nec
 
 IX. Señalar las consecuencias positivas y negativos (sic), así como las medidas de mitigación de estos conforme a los impactos visual, ambiental, de riesgo, vial, social y económico.
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
 
-X. Cumplir con los términos de referencia para criterios bioclimáticos que la Dirección entregará al particular atendiendo a lo establecido en el POTE.
+X. Cumplir con los términos de referencia del estudio bioclimático.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
-
-Una vez ingresado el estudio, la Dirección solicitará al IMPLAN su opinión y al SAPAL la factibilidad de servicios, previo a la resolución de la autorización de más niveles de los previstos en el Manual de Usos del Suelo o del aumento de densidad de población del predio autorizada para la zona.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 > <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
@@ -1872,6 +1936,10 @@ Una vez recibido el escrito del particular, la Dirección determinará la viabil
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 Cuando los cajones de estacionamiento, según el proyecto constructivo, se ubiquen donde exista vegetación o árboles y de la autorización de impacto ambiental se desprenda que éstos no puedan ser objeto de trasplante o tala los mismos deberán integrarse al proyecto constructivo. En caso de que la vegetación o árboles se integren al proyecto y resulte imposible cumplir con los requerimientos de cajones de estacionamiento se procederá de conformidad a lo establecido en los párrafos segundo y tercero del presente artículo.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+El diseño de estacionamiento para predios ubicados con frente al sistema vial primario, deberá incluir el acceso y la salida, manteniendo la continuidad de la banqueta como esté señalada en la sección de la vía, además de que los movimientos de los vehículos se realicen dentro del predio. Con excepción del acceso y la salida para la vivienda particular unifamiliar.
 
 ###### Artículo 65.
 
@@ -2071,21 +2139,25 @@ La Dirección podrá autorizar en un solo predio más de un local comercial o de
 
 Las zonas industriales quedarán sujetas a normas sobre control ambiental que establezcan las Leyes y Ordenamientos vigentes en la materia.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 90.
 
-Toda industria clasificada como de intensidad media y alta que colinde con usos habitacionales, deberá dejar una zona arbolada como mínimo de 3 metros en la parte posterior del predio.
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+Toda industria clasificada de intensidad media y alta que colinde con usos habitacionales deberá dejar, en la colindancia con la zona habitacional, una franja libre de construcción como mínimo de tres metros que deberá utilizarse como zona arbolada o estacionamiento, dejando un árbol por cada dos cajones de estacionamiento.
 
 ###### Artículo 91.
 
-Los lotes en zonas industriales que se localicen colindando o frente a una zona habitacional deberán dejar una franja libre de construcción de 6 metros en el lado colindante con la zona habitacional mismo que deberá utilizarse como estacionamiento y zona arbolada.
+(DEROGADO, P.O. 21 DE FEBRERO DE 2020)
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 92.
 
 Las compatibilidades en los corredores, serán las mismas que las marcadas para las zonas con igual denominación y deberán contar con estacionamientos de acuerdo a la norma técnica NTM-LEÓN-DU-02-2018, relativa al Requerimiento de Cajones de Estacionamiento.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+Se entiende por corredores a las áreas en forma longitudinal, en las que se asignan usos y destinos a los predios y lotes que colindan con ejes metropolitanos, vías primarias o secundarias, que estructuran la conectividad y la movilidad sustentable, privilegiando la jerarquía de la movilidad y la accesibilidad universal.
 
 ###### Artículo 93.
 
@@ -2101,21 +2173,21 @@ Cuando los lotes formen parte de un desarrollo habitacional previamente autoriza
 
 Para los nuevos fraccionamientos en los cuales se contemplen ejes metropolitanos o vialidades primarias en los mismos, se podrán considerar usos de suelo distintos al habitacional en aquellos lotes que colinden con las vialidades mencionadas.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 95-A.
 
-El uso y destino de suelo en predios podrá otorgarse de acuerdo a la ubicación del predio por la zona en la que se encuentra, en caso de que el predio tenga frente a una vialidad con uso por corredor, se podrá otorgar el uso de suelo por el mismo corredor.
+El uso y destino de suelo en predios podrá otorgarse de acuerdo a la ubicación del predio por la zona en la que se encuentra, en caso de que el predio tenga frente a una vialidad con uso por corredor, se podrá otorgar el uso de suelo por el mismo corredor, con excepción de los predios que tengan clasificación de destino de equipamiento.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 95-B.
 
-El uso y destino de suelo en predios con una superficie de hasta 2000 M2 que se encuentren en Zonas de Reserva para el Crecimiento ZRC, Zonas de Consolidación Urbana ZCU y Zona Agrícola A, que tengan frente a una vialidad con uso por corredor, se deberá otorgar el uso de suelo por el mismo corredor.
+El uso y destino de suelo en predios con una superficie a ocupar de hasta 2000 M2, independientemente de la superficie señalada en escritura pública, y que se encuentren en Zonas de Reserva para el Crecimiento (ZRC), Zonas de Consolidación Urbana (ZCU) y Zona Agrícola (A), que tengan frente a una vialidad con uso por corredor, se deberá otorgar el uso de suelo por el mismo corredor.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
-Para este caso en concreto no se deberá de otorgar la asignación de uso de suelo.
+Para este caso en concreto no requerirá asignación de uso de suelo.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
@@ -2147,11 +2219,11 @@ III. Cuando una línea divisoria de zona sea señalada entre las manzanas de la 
 
 IV. No se autorizará la ampliación de usos del suelo en los límites de zonas, cuando dichos usos no sean compatibles entre las mismas.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 100.
 
-Para las zonas en donde existan usos de suelo diferentes a los señalados en el plano de zonificación de usos y destinos del Municipio, se tomará en cuenta el estudio de consolidación que el solicitante presente de la manzana y frente del inmueble, entorno inmediato o incluso de la zona, según el caso, para que la Dirección lo analice en relación con los usos existentes y pueda determinar la viabilidad para la emisión del permiso de uso de suelo.
+Para la emisión del permiso de uso de suelo en las zonas en donde existan usos de suelo diferentes a los señalados en el Plano de Zonificación Municipal, se tomará en cuenta lo que el solicitante presente de los giros existentes en la manzana y frente del inmueble, entorno inmediato y de la zona, en un radio de 250 metros, según sea el caso, para que la Dirección lo analice y pueda determinar la viabilidad del uso de suelo solicitado.
 
 > <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
@@ -2165,17 +2237,37 @@ Las zonas del Municipio consideradas áreas naturales protegidas Municipales, qu
 
 El Área Natural Protegida Sierra de Lobos, deberá de sujetarse a las disposiciones jurídicas aplicables, y al Programa de Manejo que para tal efecto emita la autoridad competente.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 100-C.
 
-En el polígono de protección de instalaciones penitenciarias o de seguridad nacional únicamente se podrán establecer los siguientes usos y destinos del suelo:
+En el polígono de protección de instalaciones penitenciarias o de seguridad nacional, se podrán establecer usos y destinos del suelo señalados en la Tabla 1 del presente Código, siempre y cuando cumplan con los requisitos que señala la autoridad competente en materia de seguridad.
 
-I. Agrícola;
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
-II. Forestal; y,
+###### Artículo 100-D.
 
-III. Equipamiento: El equipamiento a que se refieren los artículos 18 fracción X, 19 fracción IX inciso a) y 20 fracción X inciso e) del Manual Técnico de Usos del Suelo.
+Los programas parciales se integrarán con al menos los capítulos siguientes:
+
+I. Exposición de motivos;
+
+II. Marco jurídico;
+
+III. Caracterización y diagnóstico;
+
+IV. Prospectiva y diseño de escenarios;
+
+V. Modelo;
+
+VI. Instrumentos de política;
+
+VII. Programación de proyectos, medidas, obras y acciones;
+
+VIII. Organización y administración del ordenamiento sustentable del territorio;
+
+IX. Criterios de concertación con los sectores público, social y privado; y
+
+X. Control y evaluación.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2015)</small>
 
@@ -2219,11 +2311,11 @@ Cuando los particulares no cumplan con los requisitos que exige el presente Regl
 
 La Dirección pondrá a servicio de la ciudadanía en general a través de un sitio web que para tal efecto diseñe, la información oficial y actualizada sobre los usos predominantes y compatibles, condicionados e incompatibles, asignados a un inmueble determinado.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 105.
 
-Para la utilización o uso de predios o inmuebles que no se encuentren destinados a usos habitacionales, es necesario obtener previamente el permiso de uso de suelo y la autorización de uso y ocupación en los términos del Código Territorial y el presente Código.
+Para la utilización o uso de predios o inmuebles que no se encuentren destinados exclusivamente a usos habitacionales unifamiliares, es necesario obtener previamente el permiso de uso de suelo y la autorización de uso y ocupación en los términos del Código Territorial y el presente Código.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -2417,13 +2509,59 @@ La Dirección podrá solicitar cuando así se requiera para la exacta identifica
 
 VI. Los dictámenes y autorizaciones de impacto que conforme al presente ordenamiento y al Manual Técnico de Usos del Suelo, correspondan al uso solicitado; y,
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
 
-VII. Acreditar mediante escritura pública el acceso de acuerdo a las secciones mínimas que establece el propio Código, para conectar una obra, construcción, instalación, fraccionamiento o desarrollo en condominio con la red de comunicación vial de algún centro de población, en los términos del Código Territorial, para el caso de los predios que no se encuentren dentro de la mancha urbana; y,
+VII. Acreditar mediante escritura pública el acceso de acuerdo a las secciones mínimas que establece el propio Código, para conectar una obra, construcción, instalación, fraccionamiento o desarrollo en condominio con la red de comunicación vial de algún centro de población, en los términos del Código Territorial, para el caso de los predios que no se encuentren dentro de la mancha urbana;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
 
-VIII. Presentar el estudio de densidad y niveles a que se refiere el artículo 63-A del presente Código, en caso de los usos de suelo de comercio y servicio con una superficie mayor de una hectárea y cuando se trate de usos de suelo por corredor que estén condicionados por patrimonio cultural.
+VIII. Estudio bioclimático, en caso de los usos de suelo de comercio y servicio que cuenten con estacionamiento de una superficie mayor a una hectárea;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+IX. Permiso de división cuando la superficie solicitada para el permiso de uso de suelo se ubica en la zona urbana y sea menor a la que establece la escritura de propiedad; y
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+X. La asignación de uso de suelo, tratándose de inmuebles ubicados en las Zonas de Reserva para el Crecimiento (ZRC), Zona de Consolidación Urbana (ZCU), y Zonas Agrícolas (A).
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+###### Artículo 125-A.
+
+Cuando el permiso de uso del suelo se solicite para las actividades establecidas en las fracciones VI y VII del punto 5.1 de la NORMA TÉCNICA MUNICIPAL NTM-LEON-DU-04-2018 complementaria del presente Código, se requerirá lo siguiente:
+
+I. Convenio con el Sistema de Aseo Público de León, SIAP-León, en el que se establezcan el horario y frecuencia de la recolección de residuos sólidos urbanos para el buen funcionamiento de los servicios públicos de limpia;
+
+II. Plano de planta arquitectónica, revisado y aprobado por la Dirección, que contenga el nombre de espacio con mobiliario a escala, se observe el número de comensales sentados en mesa, ubicación de bocinas y sistema de sonido;
+
+Una vez que haya sido aprobado el plano por la Dirección deberá enviarse debidamente sellado a las Direcciones Generales de Protección Civil y Medio Ambiente para que sea tomado en consideración en la expedición de sus respectivos dictámenes;
+
+III. Evaluación del impacto ambiental y permiso para difusión fonética en fuentes fijas o móviles para evitar contaminación por ruido o vibraciones de conformidad con el Reglamento para la Gestión Ambiental en el Municipio de León, Guanajuato; y
+
+IV. La opinión favorable de la Dirección General de Fiscalización y Control señalada en el artículo 126 A del Código.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+###### Artículo 125-B.
+
+El estudio bioclimático, deberá contener lo siguiente:
+
+I. Una breve descripción del proyecto y los objetivos que persigue.
+
+II. Ubicación, datos y croquis de localización del predio, con coordenadas UTM.
+
+III. Plano de conjunto, datos de áreas construidas y abiertas, especificando usos propuestos y conexiones viales en el contexto.
+
+IV. Descripción arquitectónica del anteproyecto.
+
+V. Descripción del entorno inmediato con 500 metros de radio, donde se señale el tipo de construcciones presentes, uso del suelo, sección vial de las principales vialidades colindantes, ancho de banquetas, camellones, arbolado y ajardinado de los mismos, lotes baldíos, áreas verdes indicando su estado de conservación.
+
+VI. Descripción de los factores bioclimáticos con radio de 500 metros.
+
+VII. Registro fotográfico del predio y su entorno.
+
+Una vez ingresado el estudio, la Dirección solicitará al IMPLAN su opinión.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
@@ -2489,7 +2627,9 @@ V. Constancia de Factibilidad donde se señalen los alineamientos, modalidades, 
 
 VI. Anteproyecto Arquitectónico o de lotificación, tratándose de Desarrollos Habitacionales;
 
-VII. Cuando la superficie solicitada en la asignación de uso de suelo sea menor a la que establece la escritura de propiedad, deberá de presentar medidas y colindancias únicamente de la superficie a asignar; y,
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+VII. Cuando la superficie solicitada en la asignación de uso de suelo sea menor a la que establece la escritura de propiedad, deberá de presentar división del predio por la superficie a asignar; y,
 
 VIII. Garantizar a través de contrato de compraventa o contrato de promesa de compraventa, el acceso para conectar una obra, construcción, instalación, fraccionamiento o desarrollo en condominio con la red de comunicación vial de algún centro de población, en los términos del Código Territorial.
 
@@ -2529,11 +2669,11 @@ Artículo 129 A. (DEROGADO, P.O. 25 DE ENERO DE 2013)
 
 #### SECCIÓN OCTAVA. DEL PERMISO DE USO DEL SUELO PARA ACTIVIDADES Y GIROS ESPECIALES RESERVADAS AL H. AYUNTAMIENTO
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 129-B.
 
-Se requerirá la aprobación del H. Ayuntamiento cuando los interesados pretendan un uso de suelo para actividades y giros relativos a estaciones de servicio de gasolina y/o diésel, estaciones de Gas L.P. con almacenamiento fijo, estaciones de servicio de gas natural comprimido para uso automotor, bases de encierro con abastecimiento de diésel, para ello la Dirección someterá el expediente de la solicitud del permiso de uso de suelo a la consideración del H. Ayuntamiento, a través de la comisión correspondiente.
+Cuando los interesados pretendan un uso de suelo para actividades y giros relativos a estaciones de servicio de gasolina y/o diésel, estaciones de Gas L.P. con almacenamiento fijo, estaciones de servicio de gas natural comprimido para uso automotor, bases de encierro con abastecimiento de diésel, la Dirección someterá a la consideración del H. Ayuntamiento, a través de la comisión correspondiente, la autorización de estas actividades y giros, hecho lo anterior, se gestionará el permiso de uso de suelo.
 
 > <small>(ADICIONADO, P.O. 25 DE ENERO DE 2013)</small>
 
@@ -2733,9 +2873,17 @@ Tratándose de inmuebles ejidales sobre los que se haya adquirido el dominio ple
 
 Para la autorización de la división de inmuebles ubicados en comunidades rurales que no se deriven de un fraccionamiento, se tendrá que considerar, en los lotes resultantes, la tipología de la comunidad rural, además de contar con un acceso independiente.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
-Para la autorización de la división de inmuebles en zonas de reserva para el crecimiento (ZRC y ZCU) que no se deriven de un fraccionamiento se tendrá que considerar en los lotes la tipología que predomine en la zona, aun cuando no cumplan con las superficies mínimas establecidas en la Tabla 1 del presente Código.
+Para la autorización de la división de inmuebles en zonas de reserva para el crecimiento (ZRC) y Zona de Consolidación Urbana (ZCU) que no se deriven de un fraccionamiento se tendrá que considerar en los lotes la tipología que predomine en la zona, aun cuando no cumplan con las superficies mínimas establecidas en la Tabla 1 del presente Código.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+###### Artículo 140-A.
+
+Las divisiones para los predios que tengan proyectadas o trazadas vialidades del sistema vial primario o secundario, deberán considerarse a partir del centro de la vialidad.
+
+En caso de existir un excedente de superficie más allá del centro de la vialidad y que sea el único resto de la propiedad, éste deberá de incluirse dentro del polígono de dicha división.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -2799,9 +2947,11 @@ Las normas técnicas serán identificadas con las siglas "NTM" seguidas de guion
 
 ### CAPÍTULO I. DE LAS CARACTERÍSTICAS GENERALES DE LOS FRACCIONAMIENTOS Y DESARROLLOS EN CONDOMINIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 147.
 
-Los proyectos de fraccionamientos y desarrollos en condominio, así como las obras de urbanización, deberán sujetarse a las especificaciones técnicas establecidas por la Dirección, el SAPAL y la CFE en cuanto a:
+Los proyectos de fraccionamientos y desarrollos en condominio, así como las obras de urbanización, deberán sujetarse a las especificaciones técnicas establecidas por la Dirección, la Dirección de Obra, la Dirección General de Movilidad, la Dirección General de Medio Ambiente, el SAPAL y la CFE en cuanto a:
 
 I. Diseño Urbano;
 
@@ -2821,15 +2971,25 @@ VI. Nomenclatura.
 
 Los desarrolladores deberán atender al Código Territorial, este Código y a las normas técnicas aplicables, para proyectar la distribución de lotes, viviendas, departamentos o locales y su agrupamiento en manzanas o edificios; la localización de áreas de equipamiento urbano, áreas verdes y espacios abiertos destinados para recreación; el trazo de calles, avenidas y andadores, cruceros y entronques de acuerdo a su función y nivel de servicio, así como la señalización y mobiliario urbano.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 149.
 
-Las áreas de donación que sean entregadas en propiedad al Municipio, estarán ubicadas y distribuidas estratégicamente atendiendo a las necesidades del propio desarrollo y de la zona en que se ubique. Las áreas de donación destinadas a equipamiento que entregue el desarrollador al Municipio deberán estar urbanizadas.
+Las áreas de donación que sean entregadas en propiedad al Municipio, estarán ubicadas y distribuidas estratégicamente atendiendo a las necesidades del propio desarrollo y de la zona en que se ubique. Las áreas de donación que entregue el desarrollador al Municipio deberán estar urbanizadas.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+El desarrollador deberá de contemplar el proyecto y la colocación de alumbrado público dentro de las áreas verdes de donación que garanticen las condiciones mínimas de iluminación y de seguridad, validadas por la Dirección de Obra Pública.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 Cuando se trate de área de donación asignada como área verde, ésta deberá estar forestada y contar con un sistema de riego en los términos que se definan en la autorización de impacto ambiental correspondiente.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 Asimismo cuando el fraccionamiento se desarrolle en una superficie de hasta una hectárea, el área de donación será en una sola porción. Cuando la superficie en la que se lleve a cabo el fraccionamiento sea mayor a una hectárea, la Dirección determinará, las porciones en que el desarrollador entregará dicha área de donación.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 La Dirección podrá autorizar que las áreas de equipamiento urbano se ubiquen fuera del fraccionamiento, siempre y cuando en la zona en que éste se localice, se encuentre satisfecho ese requerimiento. En este caso, la superficie a recibir por parte del Municipio deberá ser equivalente al valor comercial incluyendo dotación de servicios y obras de urbanización del inmueble que, por dicho concepto, debería entregarle el desarrollador.
 
@@ -2845,11 +3005,23 @@ Para los predios que de acuerdo al Plano de Zonificación se encuentren en Uso f
 
 La Dirección determinará la ubicación y el polígono de las áreas de dotación de equipamiento urbano conforme a los porcentajes establecidos en el Código Territorial y el presente Código, previo estudio que deberá presentar el desarrollador, el cual deberá contener los siguientes puntos:
 
-I. Radio de Estudio de 1,000 metros, en el contorno del predio a desarrollar, para lo cual deberá tomarse en cuenta de los desarrollos habitacionales contiguos, el tipo de fraccionamiento y los elementos geográficos y topográficos existentes;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
 
-II. Equipamiento existente, el número de áreas de donación que tienen los desarrollos con sus usos, revisión de áreas verdes, de equipamiento básico y del equipamiento zonal; y,
+I. Radio de Estudio de 750 metros, en el contorno del predio a desarrollar, para lo cual deberá tomarse en cuenta de los desarrollos habitacionales contiguos, el tipo de fraccionamiento y los elementos geográficos y topográficos existentes. Excepción hecha para los fraccionamientos y desarrollos en condominio de tipo habitacional popular o de interés social y medio, donde el radio de estudio a considerar será de 500 metros.
 
-III. Planeación del equipamiento dentro del desarrollo, como el tipo de desarrollo, densidad de población, características del desarrollo, tipo de vivienda, dosificación y distribución de las áreas de donación y requerimiento de equipamiento.
+Lo anterior con el fin de garantizar la cobertura del equipamiento urbano básico en materia educativa, cultural, recreativa y deportiva;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+II. Equipamiento existente, el número de áreas de donación que tienen los desarrollos con sus usos, revisión de áreas verdes, de equipamiento básico y del equipamiento zonal;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+III. Planeación del equipamiento dentro del desarrollo, como el tipo de desarrollo, densidad de población, características del desarrollo, tipo de vivienda, dosificación y distribución de las áreas de donación y requerimiento de equipamiento; y
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+IV. Un apartado de conclusiones, en el que se formule la propuesta para garantizar la cobertura de equipamiento urbano, que permitan brindar el servicio a los habitantes de los fraccionamientos y desarrollos en condominios, tomando en consideración los apartados señalados en las fracciones que anteceden.
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -3025,13 +3197,19 @@ b) En el centro del carril colindante con la banqueta, en vialidades de dos o m�
 
 VII. La red de drenaje pluvial deberá instalarse bajo la superficie de rodamiento del arroyo vehicular, a una profundidad mínima de 90 centímetros medida comprendida entre el lomo de tubo y el nivel de piso terminado del arroyo vehicular.
 
-En el caso de las fracciones de la I a la V podrán instalarse ductos unidos por registros y en todo caso deberá avalarse la propuesta de diseño por la Dirección, SAPAL y la CFE en el ámbito de sus competencias.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
-Las instalaciones a que se refieren las fracciones de la I a la V deben estar señalizadas conforme a las normas oficiales correspondientes. Asimismo, la ubicación de los sistemas de medición será el que señalen la Dirección, SAPAL y la CFE en el ámbito de sus respectivas competencias. En su caso, deberán colocarse en un murete de resguardo.
+En el caso de las fracciones de la l a la V podrán instalarse ductos unidos por registros y en todo caso deberá avalarse la propuesta de diseño por la Dirección de Obra, SAPAL y la CFE en el ámbito de sus competencias.
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+Las instalaciones a que se refieren las fracciones de la I a la V deben estar señalizadas conforme a las normas oficiales correspondientes. Asimismo, la ubicación de los sistemas de medición será el que señalen la Dirección de Obra, SAPAL y la CFE en el ámbito de sus respectivas competencias. En su caso, deberán colocarse en un murete de resguardo.
 
 Las medidas señaladas en este artículo, son las mínimas requeridas y quedarán sujetas a lo que dictaminen las dependencias y autoridades auxiliares competentes.
 
-Las instalaciones en vía pública referidas a la telefonía, gas natural y demás servicios deben ser subterráneas y cumplir con las normas oficiales vigentes, siendo la Dirección la responsable de la autorización del diseño.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+Las instalaciones en vía pública referidas a la telefonía, gas natural y demás servicios deben ser subterráneas y cumplir con las normas oficiales vigentes, siendo la Dirección de Obra, la responsable de la autorización del diseño.
 
 Una vez formalizada la entrega - recepción (sic) las obras de urbanización relativas a las banquetas y arroyo vehicular no podrá ser autorizada la instalación subterránea de los servicios a que se refiere el párrafo anterior, salvo que el organismo ejecutor otorgue a favor del municipio una fianza que garantice la reparación de las obras que puedan sufrir algún daño.
 
@@ -3127,17 +3305,19 @@ Los servicios de agua potable, drenaje y alcantarillado sanitario, deberán ser 
 
 Para los efectos del cálculo técnico del proyecto, la capacidad mínima de las instalaciones se debe calcular de acuerdo al valor máximo del rango de densidad de población que corresponda a la zona de ubicación del desarrollo, conforme a lo establecido en la aprobación de la traza correspondiente, así como a los mecanismos para la instrumentación del POTE, conjunta o indistintamente con las normas dictadas por la Dirección y el SAPAL.
 
-###### Artículo 166.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
-La capa de rodamiento para los sistemas viales primario y secundario será preferentemente de concreto hidráulico. Sin perjuicio de lo anterior, la Dirección podrá autorizar que se utilice otro tipo de pavimento, siempre y cuando el diseño de éste, garantice una vida útil mínima de 30 años.
+Artículo. 166. La capa de rodamiento para los sistemas viales primario y secundario será de concreto hidráulico. Sin perjuicio de lo anterior, la Dirección de Obra podrá autorizar que se utilice otro tipo de pavimento, siempre y cuando el diseño de éste, garantice una vida útil mínima de 30 años.
 
-Las características y espesores de las capas que conformen la estructura de pavimento, se determinarán a partir de los estudios de geotecnia y diseño de pavimento presentados por el desarrollador, el cual deberá ser avalado por parte de la Dirección. El criterio para la autorización de una determinada estructura de pavimento, se basará en el cumplimiento de adecuadas características de resistencia, durabilidad, comportamiento y seguridad.
+Las características y espesores de las capas que conformen la estructura de pavimento, se determinarán a partir de los estudios de geotecnia y diseño de pavimento presentados por el desarrollador, el cual deberá ser avalado por parte de la Dirección de Obra. El criterio para la autorización de una determinada estructura de pavimento, se basará en el cumplimiento de adecuadas características de resistencia, durabilidad, comportamiento y seguridad.
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 167.
 
-El espesor mínimo para la capa de rodamiento de las vialidades que conforman el sistema vial terciario será de 15 centímetros en concreto hidráulico y con una resistencia mínima a la flexión de Mr=38 kg/cm2. Sin perjuicio de lo anterior, la Dirección podrá autorizar que se utilice otro tipo de pavimento, siempre y cuando el diseño de éste presentado por el desarrollador y aprobado por la citada dependencia, garantice una vida útil mínima de 30 años.
+El espesor mínimo para la capa de rodamiento de las vialidades que conforman el sistema vial terciario será de 15 centímetros en concreto hidráulico y con una resistencia mínima a la flexión de Mr=38 kg/cm2. Sin perjuicio de lo anterior, la Dirección de Obra podrá autorizar que se utilice otro tipo de pavimento, siempre y cuando el diseño de éste presentado por el desarrollador y aprobado por la citada dependencia, garantice una vida útil mínima de 30 años.
 
-En el caso del sistema vial alternativo la capa de rodamiento podrá ser de cualquier tipo de material aprobado por la Dirección, siempre y cuando se garantice la misma duración señalada por el párrafo anterior.
+En el caso del sistema vial alternativo la capa de rodamiento podrá ser de cualquier tipo de material aprobado por la Dirección de Obra, siempre y cuando se garantice la misma duración señalada por el párrafo anterior.
 
 ###### Artículo 168.
 
@@ -3447,7 +3627,9 @@ VI. Red de distribución de energía eléctrica para uso doméstico y alumbrado 
 
 VII. Sistema de escurrimiento pluvial de acuerdo a las pendientes naturales y demás obras que sean necesarias para el desalojo de aguas pluviales;
 
-VIII. Camino de acceso que cumpla con las especificaciones que establezca la Dirección en cuanto a pavimentación y alumbrado público;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+VIII. Camino de acceso que cumpla con las especificaciones que establezca la Dirección de Obra en cuanto a pavimentación y alumbrado público;
 
 IX. Las calles locales tendrán un arroyo de circulación de 8 metros como mínimo y su sección transversal de paramento a paramento tendrá como mínimo 12 metros;
 
@@ -3479,7 +3661,9 @@ VI. Red de distribución de energía eléctrica para uso doméstico y alumbrado 
 
 VII. Sistema de drenaje pluvial y demás obras que sean necesarias para el escurrimiento y desalojo de aguas pluviales;
 
-VIII. Camino de acceso que cumpla con las especificaciones que establezca la Dirección en cuanto a pavimentación y alumbrado público;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+VIII. Camino de acceso que cumpla con las especificaciones que establezca la Dirección de Obra en cuanto a pavimentación y alumbrado público;
 
 IX. Las calles locales deberán tener un arroyo de circulación de 8 metros como mínimo y su sección transversal de paramento a paramento tendrá como mínimo 13 metros;
 
@@ -3731,17 +3915,17 @@ Todos los estudios que la autoridad realice para determinar cualquier factibilid
 
 Toda la información y documentación referente a este capítulo, deberá venir respaldada en archivo digital y entregarse a la Dirección.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 210.
 
-Corresponde a la Dirección, conocer y expedir los permisos, constancias y autorizaciones señaladas en las fracciones de la II a la VI del artículo 208 del presente Código.
+Corresponde a la Dirección, conocer y expedir los permisos, constancias y autorizaciones señaladas en las fracciones de la II a la V; y a la Dirección de Obra la fracción VI del artículo 208 del presente Código.
 
-Tratándose de la fracción I del artículo 208 del presente Código es competencia del IMPLAN, expedir el dictamen de congruencia.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 211.
 
-Cuando los particulares no cumplan con los requisitos que exige el presente Código para la expedición de cada uno de los documentos citados en el presente capítulo, la Dirección requerirá al solicitante a fin de que en un plazo de cinco días, cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la petición se tendrá por no presentada.
+Cuando los particulares no cumplan con los requisitos que exige el presente Código para la expedición de cada uno de los documentos citados en el presente capítulo, la Dirección y la Dirección de Obra, conforme a sus atribuciones, requerirá al solicitante a fin de que en un plazo de cinco días, cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la petición se tendrá por no presentada.
 
 ###### Artículo 212.
 
@@ -3761,7 +3945,9 @@ III. Se hayan proporcionado conjunta o indistintamente, datos o documentación f
 
 La Dirección podrá autorizar la regularización de los fraccionamientos y desarrollos en condominio que se hayan iniciado sin haber obtenido las autorizaciones previstas en el Código Territorial y el presente ordenamiento. Lo anterior, siempre y cuando cubra los requerimientos y especificaciones establecidas en dichos ordenamientos, sin perjuicio de las sanciones administrativas que procedan o de la responsabilidad penal o civil en que incurran.
 
-Para tal efecto, el desarrollador deberá presentar un peritaje sobre las condiciones y características de las obras y construcciones realizadas o en proceso, avalado por un perito urbano, a partir del cual la Dirección podrá autorizar el trámite que proceda a la situación que guarde el desarrollo.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+Para tal efecto, el desarrollador deberá presentar un peritaje sobre las condiciones y características de las obras y construcciones realizadas o en proceso, avalado por un perito urbano, además de la validación de la Dirección de Obra respecto de las obras de urbanización, a partir del cual la Dirección, podrá autorizar el trámite que proceda a la situación que guarde el desarrollo.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -3873,7 +4059,9 @@ Los acuerdos que tomen las mesas de trabajo serán de carácter obligatorio para
 
 Para la aprobación de traza, el desarrollador deberá presentar ante la Dirección, un proyecto de diseño urbano del desarrollo, el cual deberá cumplir con lo siguiente:
 
-I. Estar suscrito por perito urbano especialista en diseño urbano, con el objeto de iniciar el trámite para la validación de los estudios y proyectos ejecutivos ante la Dirección, SAPAL y la CFE;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+I. Estar suscrito por perito urbano especialista en diseño urbano, con el objeto de iniciar el trámite para la validación de los estudios y proyectos ejecutivos ante la Dirección, la Dirección de Obra, SAPAL y la CFE.
 
 II. Respetar las restricciones y condicionantes señaladas en el permiso de uso de suelo en los casos que así lo considere la Dirección;
 
@@ -4167,13 +4355,17 @@ Una vez autorizada la traza, el interesado deberá solicitar en un término no m
 
 I. Dos libros de bitácora;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
 
-II. Diseño de pavimentos con las características y especificaciones técnicas que le determine la Dirección, en los términos del Código Territorial;
+II. Diseño de pavimentos con las características y especificaciones técnicas que le determine la Dirección de Obra, en los términos del Código Territorial;
 
-III. Calendario de obras, presupuesto de urbanización desglosando conceptos, volúmenes de obra, programa de obra y precios unitarios, así como el resumen por partidas del presupuesto, aprobados por la Dirección;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
 
-IV. Proyecto de rasantes aprobado por SAPAL;
+III. Calendario de obras, presupuesto de urbanización desglosando conceptos, volúmenes de obra, programa de obra y precios unitarios, así como el resumen por partidas del presupuesto, aprobados por la Dirección de Obra;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+IV. Proyecto de rasantes aprobado por la Dirección de Obra;
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -4181,7 +4373,9 @@ V. Proyecto y presupuesto para la construcción e introducción de los sistemas 
 
 VI. Proyecto para la construcción e introducción de las redes de energía eléctrica aprobado por la Comisión Federal de Electricidad;
 
-VII. Proyecto para la construcción e instalación del alumbrado público aprobado por la Dirección; y,
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+VII. Proyecto para la construcción e instalación del alumbrado público aprobado por la Dirección de Obra;
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -4203,11 +4397,11 @@ El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisit
 
 En caso de que no se cumplan con todos los requisitos señalados, la Dirección deberá requerir al desarrollador dentro de un término de tres días hábiles, a efecto de que subsane la omisión dentro del término de treinta días hábiles contados a partir de que haya surtido efectos la notificación. Si transcurrido dicho plazo no se cumple con todos los requisitos, se desechará la solicitud, dejando a salvo los derechos para que se inicie un nuevo trámite.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 243.
 
-Las normas y disposiciones que establezcan la Dirección, SAPAL, y la CFE que autoricen los proyectos de infraestructura, formarán parte del permiso de urbanización o edificación.
+Las normas y disposiciones que establezcan la Dirección, la Dirección de Obra, SAPAL y la CFE que autoricen los proyectos de infraestructura, formarán parte del permiso de urbanización o edificación.
 
 ###### Artículo 244.
 
@@ -4241,7 +4435,9 @@ La urbanización progresiva se ajustará a lo siguiente:
 
 I. Podrá ejecutarse por etapas de urbanización, debiendo comenzar con la introducción al cien por ciento del agua potable y drenaje sanitario; así como del drenaje pluvial, cuando SAPAL lo determine como necesario;
 
-II. Contar con el proyecto ejecutivo de trazo, secciones, nivelación y deslinde de las obras mínimas de infraestructura, autorizados por la Dirección, SAPAL y CFE en el ámbito de sus respectivas competencias;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+II. Contar con el proyecto ejecutivo de trazo, secciones, nivelación y deslinde de las obras mínimas de infraestructura, autorizados por la Dirección, la Dirección de Obra, SAPAL y CFE en el ámbito de sus respectivas competencias;
 
 III. Colocar en las esquinas de manzana los bancos de nivel y trazo respecto al piso terminado de banqueta;
 
@@ -4273,11 +4469,11 @@ Con anticipación de treinta días hábiles previos al vencimiento del plazo est
 
 Si posterior a la ampliación otorgada existieran causas justificadas, la Dirección, previo pago de los derechos de supervisión, podrá conceder un nuevo plazo para la conclusión de obras de urbanización o edificación, en atención al programa de obra que presente el desarrollador.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 251.
 
-Los desarrolladores podrán presentar a la Dirección propuesta para emplear elementos e infraestructuras de innovación tecnológica en materia de sustentabilidad en la ejecución de las obras de urbanización, para lo cual deberá observarse en lo conducente lo que estatuye el Código Territorial y el presente Código en el apartado de las construcciones con respecto a la innovación tecnológica en arquitectura y construcción.
+Los desarrolladores podrán presentar a la Dirección de Obra propuesta para emplear elementos e infraestructuras de innovación tecnológica en materia de sustentabilidad en la ejecución de las obras de urbanización y a la Dirección en materia de arquitectura, construcción y edificación, debiendo observar en lo conducente lo que estatuye el Código Territorial y el presente Código en el apartado de las construcciones con respecto a la innovación tecnológica en arquitectura y construcción.
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -4335,11 +4531,11 @@ Para obtener el permiso de venta deberá anexarse la información y documental p
 
 La Dirección podrá suspender el permiso de venta cuando por segunda ocasión consecutiva el avance en la ejecución de las obras de urbanización no corresponda al programado, dicha suspensión se decretará por la Dirección como una medida de seguridad, aplicando para ello las formalidades que estatuye el Código del Procedimiento Administrativo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 256.
 
-La garantía a que se refiere el artículo 430 fracción IV del Código Territorial, podrá ser otorgada mediante efectivo, garantía real o fianza. En todos los casos el monto de la garantía será por el valor de las obras de urbanización faltantes que determine la Dirección, más un 30 por ciento.
+La garantía requerida para el permiso de venta que refiere el Código Territorial, podrá ser otorgada mediante efectivo, garantía real o fianza. En todos los casos el monto de la garantía será por el valor de las obras de urbanización faltantes que determine la Dirección de Obra, más un 30 por ciento.
 
 En el caso de garantía real ésta se constituirá sobre inmuebles propiedad del interesado en favor del Municipio, debiendo practicarse al efecto por parte de la Dirección un avalúo comercial con cargo al desarrollador.
 
@@ -4403,13 +4599,17 @@ Los gastos que se generen con motivo de dichos actos, serán a cargo del mismo d
 
 ### CAPÍTULO XIII. DE LA ENTREGA RECEPCIÓN
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 263.
 
-Concluidas las obras de urbanización de los fraccionamientos y de edificación de los desarrollos en condominio de conformidad con las autorizaciones otorgadas al efecto, el desarrollador podrá solicitar su recepción a la Dirección, de conformidad con el Código Territorial y demás normativa aplicable.
+Concluidas las obras de urbanización de los fraccionamientos y de edificación de los desarrollos en condominio de conformidad con las autorizaciones otorgadas al efecto, el desarrollador podrá solicitar su recepción a la Dirección de Obra, de conformidad con el Código Territorial y demás normativa aplicable.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 En el caso de fraccionamientos realizados mediante urbanización progresiva se podrá realizar la recepción de las obras de urbanización conforme se vaya concluyendo cada una de ellas, de acuerdo al convenio celebrado y a los permisos otorgados.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 Será materia de la entrega recepción de los desarrollos que las áreas verdes se encuentren debidamente forestadas y equipadas, en los términos del Código Territorial y demás normativa aplicable.
 
@@ -4417,15 +4617,17 @@ Será materia de la entrega recepción de los desarrollos que las áreas verdes 
 
 En el caso de desarrollos en condominio, el mantenimiento y conservación de las obras de urbanización y de las instalaciones destinadas a los servicios públicos, así como el pago de estos servicios, estarán a cargo de los desarrolladores y en su momento de los adquirentes. Esta obligación deberá hacerse constar en los contratos de compraventa respectivos.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
-En consecuencia, las obras de urbanización internas de este tipo de desarrollos no serán objeto de recepción por parte del municipio, con excepción de las vías públicas y sus obras de infraestructura pública señaladas en la aprobación de traza. Las obras de urbanización internas deberán cumplir con las especificaciones técnicas que se señalen en el permiso de urbanización correspondiente y serán validadas por parte de la Dirección, SAPAL y CFE para poder entrar en operación, con base en la supervisión que realicen durante el periodo de construcción.
+En consecuencia, las obras de urbanización internas de este tipo de desarrollos no serán objeto de recepción por parte del municipio, con excepción de las vías públicas y sus obras de infraestructura pública señaladas en la aprobación de traza. Las obras de urbanización internas deberán cumplir con las especificaciones técnicas que se señalen en el permiso de urbanización correspondiente y serán validadas por parte de la Dirección de Obra, SAPAL y CFE para poder entrar en operación, con base en la supervisión que realicen durante el periodo de construcción.
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 265.
 
-Los ductos e infraestructura necesaria para la conducción de energía eléctrica, alumbrado, agua potable, alcantarillado, ya sea sanitario o pluvial, o cualquier otro servicio, que se alojen al interior de los desarrollos en condominio, debidamente identificadas en los proyectos ejecutivos aprobados por la Dirección, SAPAL y CFE serán propiedad del condominio, siendo responsabilidad de los condóminos su operación y mantenimiento preventivo y correctivo en los términos de su Reglamento Interno correspondiente.
+Los ductos e infraestructura necesaria para la conducción de energía eléctrica, alumbrado, agua potable, alcantarillado, ya sea sanitario o pluvial, o cualquier otro servicio, que se alojen al interior de los desarrollos en condominio, debidamente identificadas en los proyectos ejecutivos aprobados por la Dirección de Obra, SAPAL y CFE serán propiedad del condominio, siendo responsabilidad de los condóminos su operación y mantenimiento preventivo y correctivo en los términos de su Reglamento Interno correspondiente.
 
-Tratándose de las obras de cabecera y el espacio en que se encuentren al interior del desarrollo en condominio, que requiera la Dirección, SAPAL y CFE, deberán estar consideradas como propiedad Municipal o de la dependencia o entidad correspondiente en su caso, y por lo tanto no se incluirán dentro de la propiedad condominal, debiendo precisarse la ubicación de estos espacios en la traza del desarrollo, así como en la modificación de ésta en su caso, derivada de los proyectos ejecutivos. De igual forma se precisará en la constitución del condominio o del conjunto condominal ante el Notario Público correspondiente y en el Reglamento Interno de los mismos.
+Tratándose de las obras de cabecera y el espacio en que se encuentren al interior del desarrollo en condominio, que requiera la Dirección, la Dirección de Obra, SAPAL y CFE, deberán estar consideradas como propiedad Municipal o de la dependencia o entidad correspondiente en su caso, y por lo tanto no se incluirán dentro de la propiedad condominal, debiendo precisarse la ubicación de estos espacios en la traza del desarrollo, así como en la modificación de ésta en su caso, derivada de los proyectos ejecutivos. De igual forma se precisará en la constitución del condominio o del conjunto condominal ante el Notario Público correspondiente y en el Reglamento Interno de los mismos.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
@@ -4433,43 +4635,45 @@ Tratándose de las obras de cabecera y el espacio en que se encuentren al interi
 
 No serán objeto de recepción por parte del Municipio, las vialidades y obras de urbanización y equipamiento, de los fraccionamientos y desarrollos en condominio de tipo campestre o agropecuario.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 267.
 
-Para los efectos de la recepción de las obras de urbanización o de infraestructura pública en fraccionamientos y desarrollos en condominio, el desarrollador deberá presentar las actas de entrega-recepción de la Dirección, CFE y el SAPAL, que hayan autorizado los proyectos correspondientes, así como la garantía por vicios ocultos en la forma y casos previstos en el Código Territorial y el presente Código.
+Para los efectos de la recepción de las obras de urbanización o de infraestructura pública en fraccionamientos y desarrollos en condominio, el desarrollador deberá presentar a la Dirección de Obra, las actas de entrega-recepción de la CFE y el SAPAL, que hayan autorizado los proyectos correspondientes, así como la garantía por vicios ocultos en la forma y casos previstos en el Código Territorial y el presente Código.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
 La entrega recepción de las obras de urbanización, podrá efectuarse en lo individual, por cada uno de los proyectos, secciones o bien a la totalidad del desarrollo, según éste se haya autorizado por las dependencias y entidades competentes.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
-Para los efectos del párrafo que antecede, el supervisor de la Dirección o, en su caso, el perito urbano en ejecución de obras de urbanización, designado por la autoridad para firmar en la bitácora, una vez concluidas las obras, hará constar las observaciones en un término que no exceda de veinte días hábiles y el desarrollador informará su conclusión para que la Dirección proceda a revisarlas dentro de un término (sic) veinte días hábiles y, en su caso, realizar la entrega recepción de las mismas.
+Para los efectos del párrafo que antecede, el supervisor de la Dirección de Obra o, en su caso, el perito urbano en ejecución de obras de urbanización, designado por la autoridad para firmar en la bitácora, una vez concluidas las obras, hará constar las observaciones en un término que no exceda de veinte días hábiles y el desarrollador informará su conclusión para que la Dirección de Obra proceda a revisarlas dentro de un término veinte días hábiles y, en su caso, realizar la entrega recepción de las mismas.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
-Lo anterior en el entendido de que la garantía otorgada para asegurar las obligaciones en la realización y conservación de las obras de urbanización, se liberará hasta que la Dirección verifique la total conclusión de las obras de urbanización y el desarrollador realice la formal entrega recepción de todas las obras correspondientes al permiso de urbanización o edificación respectivo, según corresponda a una sección, etapa o bien a la totalidad del desarrollo.
+Lo anterior en el entendido de que la garantía otorgada para asegurar las obligaciones en la realización y conservación de las obras de urbanización, se liberará hasta que la Dirección de Obra verifique la total conclusión de las obras de urbanización y el desarrollador realice la formal entrega recepción de todas las obras correspondientes al permiso de urbanización o edificación respectivo, según corresponda a una sección, etapa o bien a la totalidad del desarrollo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 268.
 
-El monto de la garantía para responder por los desperfectos o vicios ocultos en los casos previstos en el Código Territorial, será del cinco por ciento del costo total de las obras de urbanización y tendrá una vigencia de un año, debiendo otorgarse ante la Dirección a favor de la Tesorería Municipal en cualquiera de las modalidades establecidas en el artículo 256 del presente Código.
+El monto de la garantía para responder por los desperfectos o vicios ocultos en los casos previstos en el Código Territorial, será del cinco por ciento del costo total de las obras de urbanización y tendrá una vigencia de un año, debiendo otorgarse ante la Dirección de Obra a favor de la Tesorería Municipal en cualquiera de las modalidades establecidas en el artículo 256 del presente Código.
 
-El desarrollador deberá otorgar la garantía a que se refiere este artículo dentro de los quince días hábiles posteriores al dictamen positivo de la recepción de las obras que, en su caso, emita la Dirección.
+El desarrollador deberá otorgar la garantía a que se refiere este artículo dentro de los quince días hábiles posteriores al dictamen positivo de la recepción de las obras que, en su caso, emita la Dirección de Obra.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 269.
 
-Dentro de los diez meses previos al vencimiento de la garantía, la Dirección conjuntamente con SAPAL y CFE, podrá llevar a cabo la inspección para verificar el estado y buen funcionamiento de las obras de urbanización.
+Dentro de los diez meses previos al vencimiento de la garantía, la Dirección conjuntamente con la Dirección de Obra, SAPAL y CFE, podrá llevar a cabo la inspección para verificar el estado y buen funcionamiento de las obras de urbanización.
 
 Si de la verificación realizada, se detectan desperfectos o inconsistencias en el funcionamiento de las obras de urbanización, dicha dependencia deberá notificarlo al desarrollador, a más tardar quince días después de la inspección, ello a efecto de que proceda a subsanar las observaciones resultantes de la inspección efectuada dentro de los siguientes dos meses.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 270.
 
-Para la liberación de la garantía, deberá transcurrir un año posterior al acto de Entrega - Recepción, sin que se haya presentado ningún desperfecto y/o vicio de las obras de urbanización, en caso contrario se hará efectiva la garantía otorgada.
+Para la liberación de la garantía, deberá transcurrir un año posterior al acto de Entrega - Recepción, sin que se haya presentado ningún desperfecto y/o vicio de las obras de urbanización, en caso contrario la Dirección de Obra iniciará el proceso para hacer efectiva la garantía otorgada.
 
 ### CAPÍTULO XIV. DE LAS OBLIGACIONES DE LOS DESARROLLADORES
 
@@ -4479,13 +4683,17 @@ Para la liberación de la garantía, deberá transcurrir un año posterior al ac
 
 Además de las obligaciones señaladas en el Código Territorial, el desarrollador tendrá las siguientes:
 
-I. Cumplir y ejecutar las indicaciones que se deriven de la supervisión de la Dirección, SAPAL y CFE;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+I. Cumplir y ejecutar las indicaciones que se deriven de la supervisión de la Dirección, la Dirección de Obra, SAPAL y CFE;
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
 II. Notificar por escrito a la Dirección sobre la designación que haga sobre el Perito Urbano en Diseño o bien de la ejecución de las obras de urbanización de los fraccionamientos y desarrollos en condominio; notificación que deberá efectuar en la primer gestión que realice ante la Dirección para la obtención de las autorizaciones, licencias y permisos respectivos;
 
-III. Realizar los estudios ordenados por la Dirección, así como llevar a cabo las acciones resultantes de los mismos, cuando en la ejecución de las obras de urbanización de un desarrollo, se hayan detectado factores de riesgo;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+III. Realizar los estudios ordenados por la Dirección y por la Dirección de Obra así como llevar a cabo las acciones resultantes de los mismos, cuando en la ejecución de las obras de urbanización de un desarrollo, se hayan detectado factores de riesgo;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
@@ -4499,9 +4707,9 @@ V. Garantizar el libre tránsito peatonal y vehicular en las áreas destinadas p
 
 VI. Incluir los datos de la aprobación de traza y permiso de venta en todos los actos jurídicos de traslado de dominio que deriven del desarrollo de que se trate;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2020)</small>
 
-VII. Urbanizar la totalidad y en secciones completas las vialidades internas del desarrollo, así como las vías de enlace con la zona urbanizada más próxima de la ciudad, necesarias para dar acceso y salida al mismo, de acuerdo a los requerimientos identificados en la autorización de impacto vial, y con las especificaciones que determine la Dirección, excepción hecha de lo que estatuye el artículo 176 de este ordenamiento, cuando el proyecto contemple frentes de vivienda a la vialidad, en tal caso el desarrollador estará obligado a urbanizar la mitad de la sección de la vialidad o el carril de baja velocidad en el supuesto de bulevares.
+VII. Urbanizar la totalidad y en secciones completas las vialidades internas del desarrollo, así como las vías de enlace con la zona urbanizada más próxima de la ciudad, necesarias para dar acceso y salida al mismo, de acuerdo a los requerimientos identificados en la autorización de impacto vial, y con las especificaciones que determine la Dirección y la Dirección de Obra excepción hecha de lo que estatuye el artículo 176 de este ordenamiento, cuando el proyecto contemple frentes de vivienda a la vialidad, en tal caso el desarrollador estará obligado a urbanizar la mitad de la sección de la vialidad o el carril de baja velocidad en el supuesto de bulevares.
 
 El diseño de las vialidades, deberán de realizarse sin excepción alguna con secciones completas.
 
@@ -4547,11 +4755,11 @@ XVII. Las demás que se establezcan en los ordenamientos legales aplicables.
 
 #### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 272.
 
-El perito urbano es el profesionista responsable, persona física que otorga su responsiva para que el diseño de los fraccionamientos y desarrollos en condominio, así como la ejecución de las obras de urbanización de dichos desarrollos habitacionales, se realice conforme a las especificaciones técnicas que establezca la Dirección, SAPAL y la CFE, el Código Territorial, el presente Código y demás normativa aplicable.
+El perito urbano es el profesionista responsable, persona física que otorga su responsiva para que el diseño de los fraccionamientos y desarrollos en condominio, así como la ejecución de las obras de urbanización de dichos desarrollos habitacionales, se realice conforme a las especificaciones técnicas que establezca la Dirección de Obra, SAPAL y la CFE, el Código Territorial, el presente Código y demás normativa aplicable.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
@@ -4735,13 +4943,15 @@ III. Cumplir con las obligaciones que se deriven de los trámites y autorizacion
 
 IV. Cumplir con lo dispuesto en el presente Código y demás normativa aplicable al proyecto que realiza;
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
 
-V. Asegurarse que las obras de urbanización y edificación del desarrollo se realicen conforme a los permisos, licencias y autorizaciones expedidas, a las normas técnicas aplicables, así como en apego a las especificaciones técnico constructivas que establezca la Dirección, SAPAL y CFE, y demás disposiciones legales o reglamentarias, a fin de asegurar en dichas construcciones condiciones optimas de durabilidad, calidad, funcionalidad y mantenimiento;
+V. Asegurarse que las obras de urbanización y edificación del desarrollo se realicen conforme a los permisos expedidos, a las normas técnicas aplicables, así como en apego a las especificaciones técnico constructivas que establezca la Dirección, la Dirección de Obra, SAPAL y CFE, y demás disposiciones legales o reglamentarias, a fin de asegurar en dichas construcciones condiciones óptimas de durabilidad, calidad, funcionalidad y mantenimiento.
 
 VI. Conducirse con veracidad en toda clase de informes y documentos que suscriba;
 
-VII. Registrar los avances y pormenores de las obras de urbanización y edificación en los libros de bitácora respectivos, para iniciar y substanciar el procedimiento de entrega recepción de dichas obras; libros que deberán conservarse en la obra y en los lugares que le indique la Dirección, para que ésta, en conjunto con el SAPAL y la CFE, realice la inspección y/o supervisión que corresponda;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+VII. Registrar los avances y pormenores de las obras de urbanización y edificación en los libros de bitácora respectivos, para iniciar y substanciar el procedimiento de entrega recepción de dichas obras; libros que deberán conservarse en la obra y en los lugares que le indique la Dirección de Obra, para que ésta, en conjunto con la Dirección, el SAPAL y la CFE, realice la inspección y/o supervisión que corresponda.
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -4773,7 +4983,9 @@ XVI. Las demás que se deriven del Código Territorial y el presente Código en 
 
 El contenido o resultado de los estudios, dictámenes, proyectos, planos y demás documentos que suscriba el Perito Urbano en Ejecución de Obras de Urbanización con motivo de su desempeño, son su responsabilidad.
 
-Lo anterior, sin perjuicio de las atribuciones que legalmente correspondan a la Dirección, SAPAL y CFE, quienes asimismo podrán supervisar y verificar en cualquier momento la veracidad de la información proporcionada por el perito urbano, así como la correcta realización de los trabajos constructivos y de edificación del desarrollo de que se trate.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+Lo anterior, sin perjuicio de las atribuciones que legalmente correspondan a la Dirección, la Dirección de Obra, SAPAL y CFE, quienes asimismo podrán supervisar y verificar en cualquier momento la veracidad de la información proporcionada por el perito urbano, así como la correcta realización de los trabajos constructivos y de edificación del desarrollo de que se trate.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
@@ -5050,6 +5262,10 @@ VII. Cumplir con la normativa en materia de usos del suelo.
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
 VIII.- Presentar los planos básicos mínimos que en su caso se establezcan en el presente Código, en el Manual Técnico de las Construcciones y los anexos de éste último.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+Cuando el permiso de construcción se solicite para las fracciones VI y VII del punto 5.1 de la NORMA TÉCNICA MUNICIPAL NTM-LEON-DU-04-2018 complementaria del presente Código, además de cumplir con estos requisitos, deberá cubrir los establecidos por el artículo 125-A del presente Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -5621,9 +5837,11 @@ No se autorizará a los particulares el uso de la vía pública para aumentar el
 
 (DEROGADO, P.O. 8 DE OCTUBRE DE 2010)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 338.
 
-Toda persona que ocupe con obras o instalaciones la vía pública estará obligada a retirarlas o cambiarlas de lugar por su cuenta y riesgo cuando la Dirección de Obra lo requiera, así como a mantener las señales necesarias para evitar cualquier clase de accidentes.
+Toda persona que ocupe con obras o instalaciones la vía pública estará obligada a retirarlas o cambiarlas de lugar por su cuenta, a su costa y riesgo, cuando la Dirección de Obra lo requiera, así como a mantener las señales necesarias para evitar cualquier clase de accidentes.
 
 En permisos que la Dirección de Obra expida para la ocupación o el uso de la vía pública, se indicará el plazo límite para retirar o trasladar las obras o las instalaciones de referencia. Todo permiso que se expida para el uso de la vía pública se entenderá condicionado a la observancia del presente Código aunque no se exprese.
 
@@ -5683,15 +5901,25 @@ El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisit
 
 ### CAPÍTULO IV. DE LA AUTORIZACIÓN DE USO Y OCUPACIÓN
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 345.
 
-Los propietarios, poseedores y el DRO están obligados a manifestar por escrito a la Dirección la terminación de las obras ejecutadas en sus predios en un plazo no mayor de quince días hábiles, contados a partir de la conclusión de las mismas. La Dirección previa inspección dentro de los diez días hábiles siguientes, verificará si los trabajos están concluidos conforme a los permisos y proyectos autorizados, y determinará en su caso lo que sea necesario corregir o complementar para estar en posibilidad de expedir la autorización de uso y ocupación que deberá integrar al expediente.
+Los propietarios, poseedores y el DRO están obligados a manifestar por escrito a la Dirección la terminación de las obras ejecutadas en sus predios en un plazo no mayor de quince días hábiles, contados a partir de la conclusión de las mismas. La Dirección podrá llevar a cabo una inspección dentro de los diez días hábiles siguientes, verificando si los trabajos están concluidos conforme a los permisos y proyectos autorizados, y determinará en su caso lo que sea necesario corregir o complementar para estar en posibilidad de expedir la autorización de uso y ocupación que deberá integrar al expediente.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+Para casa habitacional unifamiliar, el DRO deberá de realizar una inspección previa al aviso de terminación de obra, y entregar a la Dirección una carta responsiva, así como el reporte de los trabajos realizados, mismo que deberá de ser analizado por la Dirección.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 Una vez presentado el aviso de terminación de obra, la Dirección expedirá la autorización de uso y ocupación.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 La autorización de uso y ocupación, liberará al DRO, de la responsabilidad por modificaciones que se hagan posteriormente sin su intervención.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 Previo a la operación de un inmueble ya construido, el propietario o poseedor del mismo deberá de contar con el permiso de uso de suelo y, en su caso, con los dictámenes y autorizaciones de las instancias correspondientes a efecto de continuar con el trámite de autorización de uso y ocupación.
 
@@ -5723,15 +5951,21 @@ a) Formatos de terminación de obra debidamente llenados y firmados por el propi
 
 b) Original y copia de las autorizaciones, licencias, permisos o constancias de cumplimiento de los requisitos señalados por otras instancias gubernamentales; y,
 
-c) Pago de derechos de acuerdo a la Ley de Ingresos.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2018)</small>
+c) Pago de derechos de acuerdo a la Ley de Ingresos;
 
-d) Anexar plano arquitectónico de las condiciones actuales de la edificación, y en su caso, comparadas con el proyecto autorizado.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+d) Anexar plano arquitectónico de las condiciones actuales de la edificación, y en su caso, comparadas con el proyecto autorizado; y
 
-En ambas fracciones, el inmueble deberá tener el número oficial de un tamaño mínimo de 20 centímetros de altura, siempre y cuando no se haya alterado el uso autorizado, se haya modificado el coeficiente de ocupación de suelo, las ventilaciones e iluminaciones naturales o los cajones de estacionamiento.
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+e) Escritura pública inscrita en el Registro Público de la Propiedad y del Comercio que acredite la división del inmueble, cuando éste se desprenda de una mayor.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE FEBRERO DE 2020)</small>
+
+En ambas fracciones, el inmueble deberá tener el número oficial de un tamaño mínimo de 20 centímetros de altura.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE ABRIL DE 2018)</small>
 
@@ -5746,6 +5980,10 @@ En el caso de haber realizado obra en vía pública, será necesario anexar el v
 ###### Artículo 347.
 
 El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisitos, será en un plazo de hasta diez días hábiles.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+Para casa habitacional unifamiliar, al presentar carta responsiva y memoria de terminación de obra con reporte fotográfico firmadas por el DRO, la Dirección podrá otorgar en un plazo no mayor a los 3 días hábiles la autorización de uso y ocupación.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
@@ -6401,9 +6639,9 @@ III. Se permitirá un anuncio por inmueble, siempre y cuando la construcción de
 
 IV. Deberán respetar su plano virtual sin invadir físicamente la vía pública o los predios colindantes;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2020)</small>
 
-V. Dentro de los Centros de Población contar con una distancia mínima de 100 metros radiales entre dos estructuras para la instalación de anuncios espectaculares y pantallas electrónicas, con excepción de los ejes metropolitanos, donde la distancia mínima entre los anuncios será de 500 metros lineales en el mismo sentido de la circulación.
+V. Dentro de los Centros de Población, contar con una distancia mínima de 100 metros radiales entre dos estructuras para la instalación de anuncios espectaculares y pantallas electrónicas, con excepción de los ejes metropolitanos, donde además de los 100 metros radiales se considerará una distancia mínima entre los anuncios la cual será de 500 metros lineales en el mismo sentido de la circulación.
 
 Para el caso de aquellos que se instalen fuera de los centros de población, la distancia mínima entre este tipo de anuncios será de 600 metros radiales.
 
@@ -6449,7 +6687,9 @@ VI. Contar con una distancia mínima de 50 metros radiales entre las estructuras
 
 VII. En el caso de que se pretenda instar un anuncio autosoportado en un predio que colinde con otro donde ya exista un anuncio autosoportado, el anuncio deberá instalarse lo más alejado posible de las estructuras del que ya se encuentra fijo;
 
-VIII. Solo se podrán ubicar en predios con frente a las vías primarias y secundarias dentro del centro de población;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+VIII. Solo se podrán ubicar en predios con frente a vialidades que conforman el sistema vial primario y secundario dentro del centro de población;
 
 IX. Cuando se trate de bienes de competencia federal o estatal, adyacentes a autopistas, carreteras, puentes, caminos o cualquier otra vía de comunicación, se requiere permiso previo otorgado por la autoridad competente; y
 
@@ -6549,7 +6789,9 @@ III. No se permitirá instalar este tipo de anuncios en zonas patrimoniales, o e
 
 IV. No estarán permitidos en zonas habitacionales, donde ocasionen molestias a los vecinos, con la producción de cambios violentos en la intensidad de la luz, cuyos efectos penetren hacia el interior de los inmuebles;
 
-V. Sólo podrán instalarse en ejes metropolitanos, vialidades primarias y/o en lugares donde no interfiera la visibilidad o el funcionamiento de señalizaciones oficiales de cualquier tipo, ni provoquen deslumbramiento a conductores de vehículos o a peatones;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+V. Sólo podrán instalarse en ejes metropolitanos, vialidades primarias y en lugares donde no interfiera la visibilidad o el funcionamiento de señalizaciones oficiales de cualquier tipo, ni provoquen deslumbramiento a conductores de vehículos o a peatones;
 
 VI. Para un anuncio espectacular con pantalla electrónica, la distancia radial mínima entre anuncios de este tipo será de 300.00 metros, y con respecto a un anuncio espectacular que no contenga pantalla electrónica, la distancia mínima deberá ser de 100.00 metros radiales, en el caso de ejes metropolitanos además de 100.00 metros radiales, la distancia mínima será de 500 metros lineales en el mismo sentido de la circulación. Las distancias antes referidas se medirán del centro al centro de cartelera de cada anuncio; así mismo, tendrá que contar con una distancia radial mínima de 25.00 metros de los semáforos vista en plano horizontal, con respecto a la luz preventiva más próxima;
 
@@ -6561,7 +6803,9 @@ IX. Queda prohibida su instalación sobre azoteas y en muros colindantes;
 
 X. En el caso de centros o plazas comerciales se podrá autorizar como tipo directorio cumpliendo con lo establecido en el artículo 448-A del presente código; y
 
-XI. En el caso de instalarse sobre estructuras autosoportadas, además de lo establecido en este artículo deberá de cumplir con lo dispuesto en el artículo 396 del presente código.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+XI. En el caso de instalarse sobre estructuras autosoportadas, además de lo establecido en este artículo deberá de cumplir con lo dispuesto en el artículo 396 para anuncios espectaculares y para el caso de anuncios denominativos se deberá atender el artículo 396-A del presente código.
 
 ###### Artículo 401.
 
@@ -7901,7 +8145,9 @@ I. Orden de reparación y mantenimiento;
 
 II. Orden de ejecución de obras de prevención;
 
-III. Suspensión temporal de las obras de urbanización o edificación del desarrollo;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+III. Suspensión temporal de las obras de edificación del desarrollo;
 
 IV. Suspensión temporal del permiso de venta;
 
@@ -7910,6 +8156,22 @@ V. Clausura temporal del desarrollo; y,
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
 VI. Las demás que se encuentren previstas en el Código Territorial y el Código del Procedimiento Administrativo.
+
+> <small>(ADICIONADO P.O. 21 DE FEBRERO DE 2020)</small>
+
+###### Artículo 543-A.
+
+La Dirección de Obra, en materia de obras de urbanización en fraccionamientos, podrá decretar las siguientes medidas de seguridad:
+
+I. Orden de reparación y mantenimiento;
+
+II. Orden de ejecución de obras de prevención;
+
+III. Suspensión temporal de las obras de urbanización del fraccionamiento;
+
+IV. Clausura temporal del fraccionamiento; y,
+
+V. Las demás que se encuentren previstas en el Código Territorial y el Código de Procedimiento Administrativo.
 
 ###### Artículo 544.
 
@@ -8077,13 +8339,25 @@ La Dirección podrá imponer las medidas de seguridad previstas en el Código de
 
 La Dirección podrá imponer las medidas de seguridad previstas en el Código del Procedimiento Administrativo, previo cumplimiento de los requisitos y formalidades que ahí se consignan.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA P.O. 21 DE FEBRERO DE 2020)</small>
+
+#### SECCIÓN OCTAVA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE OCUPACIÓN DE LA VÍA PÚBLICA Y EDIFICIOS PÚBLICOS
+
+> <small>(ADICIONADO P.O. 21 DE FEBRERO DE 2020)</small>
+
+###### Artículo 554-B.
+
+La Dirección de Obra, en materia de ocupación de la vía pública podrá decretar las siguientes medidas de seguridad:
+
+I. La prohibición del uso de la vía pública con objetos, materiales o construcciones que obstruyan el libre tránsito tanto peatonal como vehicular de manera temporal o permanente;
+
+II. Ordenar el retiro de instalaciones, materiales, mobiliario o equipo en la vía pública que obstruyan el libre tránsito tanto peatonal como vehicular; y,
+
+III. Retirar o demoler a costa de los particulares responsables, los objetos o elementos arquitectónicos que obstruyan, invadan, modifiquen o alteren la vía pública de manera temporal o permanente.
 
 ### CAPÍTULO VI. DE LAS INFRACCIONES Y SANCIONES
 
-#### SECCIÓN SEGUNDA. DE LAS SANCIONES EN MATERIA DE ZONIFICACIÓN, USOS Y DESTINOS DEL SUELO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
+#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 555.
 
@@ -8111,9 +8385,9 @@ Para la aplicación, determinación, imposición y caducidad de las sanciones pr
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2015)</small>
 
-#### SECCIÓN TERCERA. DE LAS SANCIONES EN MATERIA DE FRACCIONAMIENTOS Y DESARROLLOS EN CONDOMINIO
+#### SECCIÓN SEGUNDA. DE LAS SANCIONES EN MATERIA DE ZONIFICACIÓN, USOS Y DESTINOS DEL SUELO
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 561.
 
@@ -8185,9 +8459,9 @@ IV. Por haberse otorgado con violación a lo dispuesto por este Código y demás
 
 V. Cuando el interesado incumpla las condiciones impuestas en el permiso otorgado, o se actualicen los supuestos a los que el mismo se haya sujetado.
 
-#### SECCIÓN CUARTA. DE LAS SANCIONES EN MATERIA DE CONSTRUCCIONES
+#### SECCIÓN TERCERA. DE LAS SANCIONES EN MATERIA DE FRACCIONAMIENTOS Y DESARROLLOS EN CONDOMINIO
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 567.
 
@@ -8229,9 +8503,9 @@ III. Por estar privado de su libertad, ya sea por estar sujeto a proceso o por h
 
 Para los efectos del artículo precedente, se considera reincidente a aquel que en un periodo de doce meses infrinja más de dos veces, las disposiciones del presente Código, del Código Territorial y demás normativa en la materia.
 
-#### SECCIÓN QUINTA. DE LAS SANCIONES EN MATERIA DE ANUNCIOS
+#### SECCIÓN CUARTA. DE LAS SANCIONES EN MATERIA DE CONSTRUCCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 571.
 
@@ -8317,7 +8591,9 @@ En caso de reincidencia, el monto de la sanción pecuniaria podrá ser hasta por
 
 Será aplicable en lo conducente la presente sección, a los peritos topógrafos que intervengan en la materia de las construcciones, siempre y cuando no guarde relación con el apartado de fraccionamientos y desarrollos en condominio.
 
-#### SECCIÓN SEXTA. DE LAS SANCIONES EN MATERIA DE NOMENCLATURA Y NUMERACIÓN OFICIAL
+#### SECCIÓN QUINTA. DE LAS SANCIONES EN MATERIA DE ANUNCIOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 580.
 
@@ -8471,15 +8747,17 @@ Con la suspensión del registro, el Especialista Estructural queda imposibilitad
 
 Podrá habilitarse nuevamente el registro de un Especialista Estructural antes del plazo fijado para suspensión, si se han reparado todos los daños y cubierto las sanciones que le hubieran sido aplicadas a todos los que resultaran responsables.
 
-#### SECCIÓN SÉPTIMA. DE LAS SANCIONES EN MATERIA DE TERRAZAS MÓVILES
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+#### SECCIÓN SEXTA. DE LAS SANCIONES EN MATERIA DE NOMENCLATURA Y NUMERACIÓN OFICIAL
 
 ###### Artículo 593.
 
 La Dirección podrá imponer las medidas de seguridad previstas en el Código del Procedimiento Administrativo, previo cumplimiento de los requisitos y formalidades que ahí se consignan.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 2012)</small>
+
+#### SECCIÓN SÉPTIMA. DE LAS SANCIONES EN MATERIA DE TERRAZAS MÓVILES
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 593 - A.
 
@@ -8502,6 +8780,20 @@ En la resolución donde se declare la revocación de la autorización, se ordena
 Si en un lapso de 15 días naturales no se cumple con la orden de retiro, la Dirección procederá al desmantelamiento y retiro de la Terraza Móvil, depositándose en el lugar que indique el infractor y en caso de negativa, el lugar que determine la autoridad competente.
 
 Los gastos que se originen por el retiro y almacenamiento serán a costa del infractor.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA P.O. 21 DE FEBRERO DE 2020)</small>
+
+#### SECCIÓN OCTAVA. DE LAS SANCIONES EN MATERIA DE OCUPACIÓN DE LA VÍA PÚBLICA
+
+> <small>(ADICIONADO P.O. 21 DE FEBRERO DE 2020)</small>
+
+###### Artículo 593-C.
+
+Por infracción de las disposiciones relativas a la ocupación de la vía pública, contenidas en el presente Código, la Dirección de Obra podrá imponer las siguientes sanciones:
+
+I. Por ocupar la vía pública con objetos, materiales o construcciones que obstruyan el libre tránsito tanto peatonal como vehicular de manera temporal o permanente de 10 a 50 UMAS diarias; y,
+
+II. Por ejecutar trabajos de construcción que obstruyan, invadan, modifiquen o alteren la vía pública sin autorización de 10 a 100 UMAS diarias.
 
 ### CAPÍTULO VII. DE LOS RECURSOS Y MEDIOS DE IMPUGNACIÓN
 
@@ -8532,6 +8824,8 @@ ANEXOS
 > <small>[N. DE E. VÉASE ANEXO 7: MANUAL TÉCNICO DE ANUNCIOS, TERRAZAS MÓVILES Y FACHADAS EN LA ZONA DE PATRIMONIO HISTÓRICO EN EL P.O. 31 DE ENERO DE 2012, PÁGINAS 75 A LA 87; P.O. 6 DE MAYO DE 2014, PÁGINAS 155 A LA 156; P.O. 16 DE ENERO DE 2015, PÁGINA 95; DEROGADA, P.O. 9 DE ABRIL DE 2018, PÁGINA 8.]</small>
 
 > <small>[N. DE E. VÉASE NORMA TÉCNICA MUNICIPAL NTM-LEON-DU-04-2018 COMPLEMENTARIA DEL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO, RELATIVA A LAS ESPECIFICACIONES TÉCNICAS DE ANUNCIOS, TERRAZAS MÓVILES Y FACHADAS EN LA ZONA DE PATRIMONIO HISTÓRICO, P.O. 9 DE ABRIL DE 2018, PÁGINAS 317 A 347.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS DEL ANEXO ÚNICO DEL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO DENOMINADO "MANUAL TÉCNICO DE USOS DEL SUELO", PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUANAJUATO, NÚMERO 125, SEGUNDA PARTE, DE FECHA 6 DE AGOSTO DEL AÑO 2010, REFORMAS PUBLICADAS EN EL P.O. 9 DE ABRIL DE 2018, PÁGINAS 53 A 62.]</small>
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -8798,3 +9092,13 @@ CUARTO: Para el caso de los manuales técnicos números 3 y 5, identificados com
 QUINTO: Se otorga el plazo de 180 días naturales siguientes a la publicación de las presentes reformas, adiciones y derogaciones, para que la Dirección General de Movilidad, realice las modificaciones jurídicas y administrativas que resulten necesarias para que pueda emitir la Autorización de Impacto Vial.
 
 SEXTO. Se derogan todas aquellas disposiciones, reglamentarias y administrativas municipales que se opongan a las presentes reformas, adiciones y derogaciones al presente ordenamiento.
+
+P.O. 21 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL H. AYUNTAMIENTO DE LEÓN, GTO., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, ASÍ COMO DE SU ANEXO ÚNICO DENOMINADO "MANUAL TÉCNICO DE USOS DEL SUELO”.]
+
+PRIMERO: Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+SEGUNDO: Todos los procedimientos y demás asuntos relacionados con las materias a que refiere este ordenamiento, iniciados con anterioridad a la entrada en vigencia al presente acuerdo, deben tramitarse y resolverse conforme a las disposiciones vigentes en ese momento.
+
+TERCERO: Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas municipales que se opongan a las presentes reformas, adiciones y derogaciones al presente ordenamiento.
