@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2019-09-27"
+last_updated: "2020-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -718,6 +718,10 @@ I. Existan otras iniciativas pendientes de dictamen que estén relacionadas con 
 II. Se determine que existe inactividad legislativa injustificada de por lo menos 4 meses del asunto de mérito, contados a partir de su turno.
 
 La determinación de la inactividad legislativa injustificada será resuelta por la Mesa Directiva, previo informe que para el caso rinda la Presidencia de la Comisión de origen dentro del plazo que se le señale al momento de requerirla.
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2020)</small>
+
+III. El proceso legislativo pueda llevarse a cabo en comisiones unidas, para su mejor desahogo.
 
 ### Capítulo Tercero. De los dictámenes
 
@@ -1653,6 +1657,10 @@ XI. Vigilar, con apoyo de los integrantes de la Mesa Directiva, que los acuerdos
 
 XII. Turnar a los órganos y dependencias que correspondan, los asuntos de su competencia. Para ejercer esta facultad, el Presidente podrá consultar la opinión de los integrantes de la Junta de Coordinación Política;
 
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+Cuando a consideración de la Presidencia de la Mesa Directiva, haya asuntos o iniciativas que deban ser analizados al seno de más de una comisión, mediante Acuerdo podrá determinar e instruir los trabajos en comisiones unidas, señalando las comisiones que estarán involucradas, el Diputado o la Diputada que fungirán en la Presidencia y en la Secretaría de las comisiones unidas, los asuntos o iniciativas que habrán de desahogarse, así como las cuestiones especiales que al efecto se consideren necesarias;
+
 XIII. Declarar la aprobación o el rechazo de la Legislatura, respecto de los asuntos que le sean sometidos a votación;
 
 XIV. En ausencia de algún Secretario, llamar al suplente y en su caso, habilitar hasta a dos de los diputados presentes con tal carácter, para la sesión en que ocurra la ausencia;
@@ -1943,7 +1951,9 @@ Dentro de las tres primeras sesiones del Pleno de la Legislatura entrante, a pro
 
 Las Comisiones se tendrán por instaladas a partir de su integración y aprobación por el Pleno de la Legislatura. Su integración podrá modificarse por acuerdo de la mayoría de los integrantes de la Legislatura en Pleno.
 
-Las Comisiones podrán actuar unidas en lo que corresponde al proceso legislativo para analizar y resolver los asuntos que les sean turnados con motivo de sus competencias, en tal caso todos los integrantes tendrán los mismos derechos y obligaciones, el presidente y secretario serán quienes designe el Presidente de la Junta de Coordinación Política.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2020)</small>
+
+Las comisiones podrán actuar unidas en lo que corresponde al proceso legislativo para analizar y resolver los asuntos que les sean turnados con motivo de sus competencias; en tal caso, todos los integrantes tendrán los mismos derechos y obligaciones, correspondiendo a la Presidencia de la Mesa Directiva determinar e instruir, mediante Acuerdo, las comisiones que estarán involucradas, el Diputado o la Diputada que fungirán en la Presidencia y en la Secretaría de las comisiones unidas, los asuntos o iniciativas que habrán de desahogarse, así como las cuestiones especiales que al efecto se consideren necesarias.
 
 ###### Artículo 144.
 
@@ -3270,3 +3280,15 @@ Artículo Tercero. Las disposiciones previstas en el artículo 89 de la presente
 Artículo Cuarto. La Dirección de Comunicación Social del Poder Legislativo del Estado de Querétaro, deberá hacer los ajustes necesarios a efecto de que las transmisiones en vivo de las Sesiones de Pleno, a través de los diferentes medios de comunicación visual, se ajusten para que sea accesible la visibilidad de la persona intérprete en la Lengua de Señas Mexicana.
 
 Artículo Quinto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga"
+
+P.O. 21 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su aprobación por el Pleno de la Quincuagésima Novena Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga (sic) a la presente Ley.
+
+Artículo Tercero. La Presidencia de la Mesa Directiva determinará, mediante Acuerdo y de conformidad con el contenido de la presente Ley, si existen asuntos que requieran ser turnados o reasignados para trabajos en comisiones unidas, debiendo ínstruir, en su caso, a la Secretaría de Servicios Parlamentarios el apoyo para realizar el trámite respectivo, debiendo informar de ello a los presidentes de las comisiones involucradas.
+
+Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
