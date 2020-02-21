@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-de-las-personas-con-139584"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-12-23"
-last_updated: "2019-12-23"
+last_updated: "2020-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139584&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-12-09"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 21 DE FEBRERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE FEBRERO DE 2020 (ABROGADO).
 
 Estatuto publicado en la Gaceta Oficial de la Ciudad de México, el lunes 23 de diciembre de 2019.
 
@@ -805,3 +807,37 @@ SEXTO. Las unidades administrativas de nueva creación iniciarán sus labores a 
 SÉPTIMO. Las referencias hechas a las actuales unidades administrativas del Instituto que cambian de denominación debido a la publicación del presente Estatuto Orgánico, así como las atribuciones que se les otorgan en otros instrumentos normativos, se entenderán conferidas a las unidades administrativas que correspondan conforme a la normatividad actual.
 
 OCTAVO. La Dirección General emitirá la convocatoria para integrar por primera vez el Consejo Consultivo.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. DE 21 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “ESTATUTO ORGÁNICO DEL INSTITUTO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente aviso de Estatuto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente aviso del Estatuto Orgánico entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se abroga el Estatuto Orgánico del Instituto de las Personas con Discapacidad de la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México el 23 de diciembre de 2019.
+
+CUARTO. Se deroga cualquier disposición que se oponga al contenido del presente Estatuto Orgánico.
+
+QUINTO. En tanto las condiciones económicas y presupuestales de la Ciudad de México sigan limitadas por la LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO la creación y nombramiento de cualquier tipo de Dirección Ejecutiva, independientemente del nombre asignado, queda suspendida.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL "AVISO POR EL QUE SE DA A CONOCER LA DIRECCION ELECTRÓNICA EN DONDE PODRÁ SER CONSULTADA LAS ABROGACIÓN AL ESTATUTO ORGÁNICO DEL INSTITUTO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO, PUBLICADO EL 21 DE FEBRERO DE 2020" QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+“AVISO POR EL QUE SE HACE DEL CONOCIMIENTO DEL PÚBLICO EN GENERAL, EL ENLACE ELECTRÓNICO, EN EL QUE PUEDE CONSULTARSE EL ESTATUTO ORGÁNICO DEL INSTITUTO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO.
+
+ÚNICO.- Se hace del conocimiento general, el Estatuto Orgánico del Instituto de las Personas con Discapacidad de la Ciudad de México, el cual puede ser consultado en su integridad en la liga electrónica que al efecto se cita:
+
+https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Aa96b58e9-dbf5-4d3c-ac73-54de6684def1
+
+## TRANSITORIOS
+
+PRIMERO.- La responsable del mantenimiento de dicho enlace digital es la Jefa de Unidad Departamental de Jurídica y Normativa del Instituto de las Personas con Discapacidad de la Ciudad de México, número de contacto: 15194290 ext. 107, Prolongación Sastrería 20, colonia 10 de Mayo, Alcaldía Venustiano Carranza, C.P. 15290, Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta de la Ciudad de México.
+
+TERCERO.- El presente A viso surtirá sus efectos a partir de su publicación en la Gaceta de la Ciudad de México
+
+Ciudad de México, a 13 de febrero de 2020.”
