@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2020-01-01"
+last_updated: "2020-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2020.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -290,6 +290,12 @@ II. (DEROGADA, P.O. 1 DE ENERO DE 2020)
 III. La Comisión Ejecutiva de Atención a Víctimas; y
 
 IV. El Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2020)</small>
+
+###### Artículo 4 Quater.
+
+La Dirección General Jurídica contará con la Dirección de Extinción de Dominio, así como con el resto de las unidades orgánicas que el Reglamento Interior de la Fiscalía General del Estado determine.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2018)</small>
 
@@ -693,9 +699,17 @@ VIII. Vigilar, con un enfoque diferenciado e integral, la correcta aplicación d
 
 IX. Intervenir en los asuntos relativos a los menores de edad, personas con discapacidad y adultos mayores, en los casos previstos en las leyes civiles y procesales que correspondan;
 
-X. Certificar todas las actuaciones, documentos y medios de investigación que obren en su poder con motivo y en ejercicio de sus funciones, y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2020)</small>
 
-XI. Las demás que les otorguen las leyes correspondientes.
+X. Certificar todas las actuaciones, documentos y medios de investigación que obren en su poder con motivo y en ejercicio de sus funciones.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2020)</small>
+
+XI. Preparar, investigar y ejercitar la acción de extinción de dominio e intervenir en el procedimiento, en los términos de la Ley Nacional de Extinción de Dominio, los demás ordenamientos legales aplicables y los acuerdos que emita la persona titular de la Fiscalía General del Estado.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE FEBRERO DE 2020)</small>
+
+XII. Las demás que les otorguen las leyes correspondientes.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -981,9 +995,9 @@ I. Recursos obtenidos por la enajenación que realice la Autoridad Administrativ
 
 II. La parte correspondiente de los recursos obtenidos por los bienes decomisados, en los términos del artículo 250, párrafo segundo del Código Nacional de Procedimientos Penales.
 
-> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2020)</small>
 
-III. Recursos obtenidos de los remanentes a que hace referencia el artículo 34 de la Ley para la Administración y Destino de Bienes Relacionados con Hechos Delictivos para el Estado de Chihuahua, salvo aquellos en los que exista disposición expresa para el destino de los mismos.
+III. Recursos obtenidos de los remanentes a que hace referencia el artículo 41 de la Ley para la Administración y Destino de Bienes Relacionados con Hechos Delictivos para el Estado de Chihuahua, salvo aquellos en los que exista disposición expresa para el destino de los mismos.
 
 > <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2016)</small>
 
@@ -1750,3 +1764,15 @@ Los estudios validados por el Instituto Estatal de Seguridad Pública, así como
 ###### ARTÍCULO UNDÉCIMO.
 
 En un plazo no mayor a seis meses, contados a partir de la entrada en vigor del presente Decreto, se elaborará la Ley Orgánica de la Secretaría de Seguridad Pública con la participación de la Comisión Primera de Gobernación y Puntos Constitucionales del H. Congreso del Estado y personas especialistas en la materia.
+
+P.O. 22 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFLEY/0669/2020 III P.E.".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Las facultades que confieren los artículos 240 y 241 de la Ley Nacional de Extinción de Dominio a la Unidad Especializada, corresponderán a la Dirección de Extinción de Dominio de la Dirección General Jurídica y, en su caso, a la Fiscalía Anticorrupción, como el ente a que alude esa Ley Nacional.
+
+CUARTO.- Para efectos del presente Decreto, la Dirección de Administración y Enajenación de Bienes, Fondos y Fideicomisos de la Fiscalía General del Estado será tanto la Autoridad Administrativa contenida en la Ley para la Administración y Destino de Bienes Relacionados con Hechos Delictivos para el Estado de Chihuahua, como la Autoridad Administradora a que alude la Ley Nacional de Extinción de Dominio.
