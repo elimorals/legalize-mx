@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-judicial-del-estado-de-oaxaca-87658"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-04-28"
-last_updated: "2019-12-30"
+last_updated: "2020-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2020.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 28 de abril de 2012.
 
@@ -1873,63 +1873,45 @@ VI. Se solicita por enfermedad grave de alguno de los acreedores alimentarios ha
 
 VII. Las que se otorguen tratándose de comisiones que deban desarrollarse dentro del propio Poder Judicial, serán por el tiempo que dure dicha comisión.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE FEBRERO DE 2020)</small>
+
 ## Título Segundo.
 
-De las Jubilaciones de Magistrados y Jueces.
+De las Jubilaciones de Magistrados, Jueces, Secretarios y demás Servidores Públicos.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 121.
 
-Las jubilaciones de los Magistrados, Jueces y Secretarios son obligatorias o voluntarias.
-
-Las jubilaciones otorgadas en términos de esta Ley, son incompatibles con alguna otra otorgada por el Gobierno del Estado y será decisión del jubilado optar por una.
+Las jubilaciones de los Magistrados, Jueces, Secretarios y demás Servidores Públicos serán otorgadas, por la Oficina de Pensiones de acuerdo a la Ley de Pensiones para los Trabajadores del Gobierno del Estado de Oaxaca.
 
 ###### Artículo 122.
 
-Es causa de jubilación obligatoria, padecer incapacidad física o mental, total y permanente, que haga imposible el desempeño del cargo.
-
-La incapacidad a que se refiere este artículo en el caso de los servidores públicos del Tribunal Superior de Justicia, la calificará su Pleno. Del resto de los servidores públicos del Poder Judicial, será calificada por el Pleno del Consejo de la Judicatura. En ambos casos, con vista en dictámenes que emitan facultativos en la materia, oyendo al servidor público a jubilar cuando le sea posible y así lo solicite, o en su caso con los dictámenes de los facultativos que éste ofrezca.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2020)
 
 ###### Artículo 123.
 
-Los magistrados, podrán jubilarse voluntariamente por alguna de las causas siguientes:
-
-I. Tener quince o más años efectivos como magistrado y sesenta y tres años de edad;
-
-II. Tener treinta y tres años de servicios efectivos en el Poder Judicial, de los cuales ocho como magistrado; y
-
-III. Acreditar haber estado veinticinco años al servicio del Gobierno del Estado y ocho años de servicios efectivos como magistrado; además de contar con más de sesenta y tres años de edad.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2020)
 
 ###### Artículo 124.
 
-El trámite de la jubilación se regulará en el reglamento respectivo y acuerdos generales.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2020)
 
 ###### Artículo 125.
 
-Los magistrados jubilados percibirán una pensión vitalicia del cien por ciento de las prestaciones que tuviere en el momento de la aprobación de la jubilación, comprendiéndose en ella, el sueldo, compensaciones, aguinaldos y bonos de actuación que perciba, por la vía de presupuesto de egresos.
-
-La pensión de estos servidores públicos se incrementará al mismo tiempo y en la misma proporción, en que se aumenten las percepciones de la categoría de que se trate, como si estuvieran en activo.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2020)
 
 ###### Artículo 126.
 
-Al fallecer un magistrado jubilado o en ejercicio con derecho a jubilación, la pensión se transmitirá de por vida a la persona que instituya como beneficiaria dentro de sus dependientes económicos; a falta de ésta al cónyuge o concubino supérstite y a sus hijos incapacitados, tratándose de hijos menores no incapaces, se proporcionará hasta los dieciocho años de edad.
-
-En el caso del fallecimiento de un jubilado o en ejercicio con derecho a jubilación, la pensión se transmitirá al cónyuge o concubino, en la inteligencia que la misma cesará al fallecer el beneficiario.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2020)
 
 ###### Artículo 127.
 
-El derecho a disfrutar de pensión concluye:
-
-I. Para los hijos de magistrado jubilado que hayan pasado a ser Pensionistas al cumplir dieciocho años de edad, a menos que se trate de incapacitados;
-
-II. Para la viuda, si vuelve a contraer nupcias o viviera en concubinato; y
-
-III. Para la concubina si contraen nupcias, viven en nuevo concubinato o por resolución judicial.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2020)
 
 ###### Artículo 128.
 
-El pago de las pensiones mencionadas en el presente capítulo, se hará por la dirección de gestión administrativa del Tribunal Superior de Justicia del Estado y para los tribunales especializados, jueces y secretarios judiciales por conducto del Consejo de la Judicatura, a partir del día siguiente en que haya sido aprobada la jubilación respectiva, en los términos previstos en el reglamento respectivo y acuerdos generales.
-
-Los jueces y secretarios podrán jubilarse voluntariamente, de acuerdo a las causas señaladas en la Ley de Pensiones para los Trabajadores del Estado de Oaxaca.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2020)
 
 ## Título Tercero.
 
@@ -2692,3 +2674,13 @@ P.O. 30 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 843.- MEDIANTE EL CUAL ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA".]
 
 Único: El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese.
+
+P.O. 22 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1339.- MEDIANTE EL CUAL SE REFORMAN LA DENOMINACIÓN DEL TÍTULO SEGUNDO Y EL ARTÍCULO 121; Y, SE DEROGAN: LOS ARTÍCULOS 122, 123, 124, 125, 126, 127 Y 128, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA”.]
+
+Primero. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+Segundo. Se derogan todas las disposiciones legales de igual o menor rango que se opongan al presente Decreto.
+
+Tercero. Las prestaciones y los derechos de jubilación de los servidores públicos en funciones deberán ser respetados de conformidad con las disposiciones legales vigentes al inicio de su encargo.
