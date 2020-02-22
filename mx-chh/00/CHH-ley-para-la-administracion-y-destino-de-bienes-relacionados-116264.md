@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-administracion-y-destino-de-bienes-relacionados-116
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-18"
-last_updated: "2019-06-26"
+last_updated: "2020-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA ADMINISTRACIÓN Y DESTINO DE BIENES RELACIONADOS CON HECHOS DELICTIVOS PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2020.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de junio de 2016.
 
@@ -69,13 +69,53 @@ III. Bienes: Aquellos bienes asegurados, abandonados, decomisados o extintos, as
 
 IV. Comisión: La Comisión para la Supervisión de la Administración y Destino de los Bienes Relacionados con Hechos Delictivos.
 
-V. Fiscalía: La Fiscalía General de (sic) Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2020)</small>
 
-VI. Interesado: La persona que conforme a derecho tenga interés jurídico sobre los Bienes.
+V. Comité Intersecretarial Estatal: Es la instancia colegiada de formulación y coordinación del destino de los bienes afectos a extinción de dominio en el fuero local, del producto de la enajenación, o bien, de su monetización.
 
-VII. Ministerio Público: El Ministerio Público del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2020)</small>
 
-VIII. Secretario Técnico: El Secretario Técnico de la Comisión.
+VI. Cuenta Especial: La cuenta en la que la Autoridad Administradora, depositará las cantidades remanentes una vez aplicados los recursos estatales correspondientes en términos del artículo 41 de esta Ley, hasta en tanto se determine su destino final por el Comité Intersecretarial Estatal.
+
+(NOTA: EL 6 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 167/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE MAYO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2020)</small>
+
+VII. DISPOSICIÓN ANTICIPADA: ASIGNACIÓN DE LOS BIENES DURANTE EL PROCESO DE EXTINCIÓN DE DOMINIO PREVIO A LA EMISIÓN DE LA RESOLUCIÓN DEFINITIVA PARA SU USO, USUFRUCTO, ASIGNACIÓN O APROVECHAMIENTO DE LOS MISMOS, PARA PROGRAMAS SOCIALES O POLÍTICAS PÚBLICAS PRIORITARIAS, EN TÉRMINOS DE LO DISPUESTO POR LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO.
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2020)</small>
+
+VIII. Fiscalía: La Fiscalía General del Estado.
+
+(NOTA: EL 6 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 167/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE MAYO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2020)</small>
+
+IX. FONDO DE RESERVA: CUENTA EN LA QUE LA AUTORIDAD ADMINISTRADORA TRANSFERIRÁ EL PRODUCTO DE LA VENTA DE LOS BIENES QUE CAUSARON EXTINCIÓN DE DOMINIO POR SENTENCIA FIRME, EL CUAL NO PODRÁ SER MENOR AL DIEZ POR CIENTO DEL PRODUCTO DE LA VENTA O BIEN, EL MONTO DE LOS RECURSOS POR VENTA ANTICIPADA QUE NO PODRÁ SER MENOR AL TREINTA POR CIENTO DEL PRODUCTO DE LA VENTA, EN TÉRMINOS DE LO DISPUESTO POR LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE FEBRERO DE 2020)</small>
+
+X. Interesado: La persona que conforme a derecho tenga interés jurídico sobre los bienes.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE FEBRERO DE 2020)</small>
+
+XI. Ministerio Público: El Ministerio Público del Estado.
+
+(NOTA: EL 6 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 167/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE MAYO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2020)</small>
+
+XII. MONETIZACIÓN: EL PRODUCTO DE LA CONVERSIÓN DE LOS BIENES OBJETO DE LA EXTINCIÓN DE DOMINIO EN SU VALOR EN DINERO.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE FEBRERO DE 2020)</small>
+
+XIII. Secretario Técnico: El Secretario Técnico de la Comisión.
+
+(NOTA: EL 6 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 167/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE MAYO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2020)</small>
+
+XIV. VENTA ANTICIPADA: LA ENAJENACIÓN DE BIENES PREVIO A LA EMISIÓN DE LA SENTENCIA DEFINITIVA EN MATERIA DE EXTINCIÓN DE DOMINIO.
 
 ### CAPÍTULO SEGUNDO. De la Comisión
 
@@ -377,7 +417,9 @@ Tratándose de semovientes, bienes fungibles, perecederos y los que sean de mant
 
 I. Si dentro de los siete días naturales siguientes al que le fueron puestos a su disposición material los Bienes, se presenta algún interesado que acredite el derecho a recibirlos, se procederá en los términos del artículo anterior.
 
-II. Si el interesado no acredita el derecho a recibir los Bienes, estos últimos se encuentran sujetos a un procedimiento de extinción de dominio o no se localice a aquel en el plazo a que se refiere la fracción anterior, la Autoridad Administrativa, previa autorización del Ministerio Público o de la Autoridad Judicial a petición de aquel, según sea el caso ordenará la valuación de los mismos y procederá a su enajenación, la que podrá ser mediante venta directa. El numerario obtenido será administrado por la propia Autoridad Administrativa en los términos de esta Ley.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2020)</small>
+
+II. Si el interesado no acredita el derecho a recibir los Bienes o no se localice a aquel en el plazo a que se refiere la fracción anterior, la Autoridad Administrativa, previa autorización del Ministerio Público o de la Autoridad Judicial a petición de aquel, según sea el caso, ordenará la valuación de los mismos y procederá a su enajenación, la que podrá ser mediante venta directa. El numerario obtenido será administrado por la propia Autoridad Administrativa en los términos de esta Ley.
 
 III. Si existe riesgo inminente de que los Bienes se deterioren al grado de quedar inservibles, la propia Autoridad Administrativa los donará a instituciones de asistencia pública o privada en el Estado, en los términos y condiciones que establezca la Comisión.
 
@@ -385,9 +427,13 @@ III. Si existe riesgo inminente de que los Bienes se deterioren al grado de qued
 
 Enajenación, destrucción y aprovechamiento de los Bienes.
 
-Los bienes adjudicados al Estado en los casos de abandono, decomiso o extinción de dominio, serán enajenados por la Autoridad Administrativa, con excepción de aquellos que deban ser destruidos o sean susceptibles de aprovechamiento por parte del Estado en materia de seguridad pública y procuración de justicia, de conformidad con los lineamientos dictados por la Comisión.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2020)</small>
 
-En el caso de que los Bienes sean susceptibles de aprovechamiento, en los términos a que se refiere el párrafo anterior, la Fiscalía deberá cubrir a la víctima u ofendido, si lo hubiere, el pago de la reparación del daño respecto de los delitos por los que se decretó el decomiso o la extinción de dominio, según corresponda, hasta por el valor de los Bienes en cuestión.
+Los Bienes adjudicados al Estado en los casos de abandono o decomiso, serán enajenados por la Autoridad Administrativa, con excepción de aquellos que deban ser destruidos o sean susceptibles de aprovechamiento por parte del Estado en materia de seguridad pública y procuración de justicia, de conformidad con los lineamientos dictados por la Comisión.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2020)</small>
+
+En el caso de que los Bienes sean susceptibles de aprovechamiento, en los términos a que se refiere el párrafo anterior, la Fiscalía deberá cubrir a la víctima u ofendido, si lo hubiere, el pago de la reparación del daño respecto de los delitos por los que se decretó el decomiso hasta por el valor de los Bienes en cuestión.
 
 ###### Artículo 29.
 
@@ -417,17 +463,7 @@ El monto destinado a la reparación del daño a favor de la víctima u ofendido 
 
 ###### Artículo 31.
 
-Producto de la enajenación de bienes extintos.
-
-El producto de la venta de los bienes cuyo dominio haya sido declarado extinto a favor del Estado mediante sentencia ejecutoria de conformidad con lo que establece la Ley de la materia, junto con sus frutos, se destinará:
-
-I. Hasta el monto de lo recuperado, al pago de la reparación del daño causado a la persona que tenga la calidad de víctima u ofendido en los términos del artículo 46 del Código Penal del Estado de Chihuahua, si la hubiere, respecto de los delitos por los que se siguió la acción de extinción de dominio.
-
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2019)</small>
-
-II. Al Fondo Auxiliar para la Procuración de Justicia y Seguridad Pública, tratándose de los remanentes del valor de los bienes que resulten una vez aplicados los recursos correspondientes en términos de la fracción anterior.
-
-El monto de la reparación del daño a que hace referencia la fracción I, será administrado por la Autoridad Administrativa en los términos del artículo 14 de la presente Ley, hasta que sea recibido por el beneficiario.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2020)
 
 ### CAPÍTULO SEXTO. De los Medios de Impugnación
 
@@ -444,6 +480,162 @@ El recurso se interpondrá por escrito dentro de los quince días hábiles sigui
 Del juicio de oposición.
 
 Las resoluciones dictadas con motivo del recurso de revocación a que se refiere el artículo anterior, podrán ser impugnadas mediante juicio de oposición ante las Salas de lo Contencioso Administrativo y Fiscal del Tribunal Superior de Justicia del Estado, en la forma y términos previstos en el Código Fiscal del Estado.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE FEBRERO DE 2020)</small>
+
+### CAPÍTULO SÉPTIMO. De la Administración y Destino de Bienes Asegurados, sujetos a la Acción de Extinción de Dominio
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE FEBRERO DE 2020)</small>
+
+#### Sección 1. Generalidades
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2020)</small>
+
+###### Artículo 34.
+
+Para efectos de este Capítulo, la Autoridad Administradora a que se refiere la Ley Nacional de Extinción de Dominio, será la Autoridad Administrativa contenida en el Capítulo Tercero de esta Ley, quien llevará a cabo la administración y destino de los bienes asegurados, sujetos a la Acción de Extinción de Dominio.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2020)</small>
+
+###### Artículo 35.
+
+El Comité Intersecretarial Estatal, se integrará por la persona titular de:
+
+I. La Fiscalía General del Estado, quien lo presidirá.
+
+II. La Secretaría General de Gobierno.
+
+III. La Secretaría de Hacienda.
+
+IV. La Autoridad Administradora.
+
+Quienes integran el Comité Intersecretarial Estatal contarán con voz y voto en las resoluciones y acuerdos que se tomen.
+
+Para que sus votaciones se consideren como válidas será necesaria la presencia de al menos tres de sus integrantes, entre los cuales deberá estar quien lo presida.
+
+Los acuerdos y decisiones del Comité Intersecretarial Estatal se aprobarán por mayoría de votos de las personas integrantes presentes y, en caso de empate, quien lo presida tendrá voto de calidad.
+
+Los integrantes del Comité podrán nombrar a su respectivo suplente, quien deberá tener el nivel jerárquico inmediato inferior.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE FEBRERO DE 2020)</small>
+
+#### Sección 2. De la Transferencia, Administración y Destino de Bienes Asegurados, sujetos a la Acción de Extinción de Dominio
+
+(NOTA: EL 6 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 167/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 7 DE MAYO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2020)</small>
+
+###### Artículo 36.
+
+Los bienes a que se refiere este Capítulo serán transferidos a la Autoridad Administradora de conformidad con lo establecido en esta Ley, en la Ley Nacional de Extinción de Dominio y en las demás disposiciones legales aplicables.
+
+Tratándose de bienes tales como armas de fuego, municiones y explosivos, así como los narcóticos, flora y fauna protegidos (sic), materiales peligrosos y demás bienes cuya propiedad o posesión se encuentre prohibida, restringida o especialmente regulada, se procederá en los términos de la legislación federal aplicable.
+
+(NOTA: EL 6 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 167/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 7 DE MAYO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2020)</small>
+
+###### Artículo 37.
+
+La Venta Anticipada de los bienes sujetos al proceso de extinción de dominio procederá en los siguientes casos, cuando:
+
+I. La enajenación sea necesaria, dada la naturaleza de dichos bienes.
+
+II. Representen un peligro para el medio ambiente o para la salud.
+
+III. Por el transcurso del tiempo puedan sufrir pérdida, merma o deterioro o que, en su caso, se pueda afectar gravemente su funcionamiento.
+
+IV. Su administración o custodia resulten incosteables o causen perjuicios al erario del Estado.
+
+V. Se trate de bienes muebles fungibles, consumibles, perecederos, semovientes u otros animales.
+
+VI. Se trate de bienes que, sin sufrir deterioro material, se deprecien sustancialmente por el transcurso del tiempo.
+
+El producto de la venta, menos los gastos de administración correspondientes, será depositado en la Cuenta Especial, previa reserva que establece el segundo párrafo del artículo 43 del presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2020)</small>
+
+###### Artículo 38.
+
+Los bienes en proceso de extinción de dominio podrán disponerse de forma anticipada a favor de dependencias o entidades públicas estatales y municipales, según lo determine el Comité Intersecretarial Estatal, para que se destinen al servicio público, los utilicen en programas sociales u otras políticas públicas prioritarias. Lo anterior, de conformidad con las disposiciones aplicables.
+
+En los casos de aprovechamiento a favor de instituciones públicas estatales o municipales de los bienes sujetos a la acción de extinción de dominio, se deberá cubrir a la víctima u ofendido, si lo hubiere, el pago de la reparación del daño respecto de los delitos por los que se decretó la extinción de dominio hasta por el valor de los bienes en cuestión.
+
+(NOTA: EL 6 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 167/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE MAYO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2020)</small>
+
+###### Artículo 39.
+
+LOS BIENES OBJETO DE LA ACCIÓN DE EXTINCIÓN DE DOMINIO PODRÁN DISPONERSE O VENDERSE DE MANERA ANTICIPADA, A TRAVÉS DE:
+
+(NOTA: EL 6 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 167/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE MAYO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+I. COMPRAVENTA, PERMUTA Y CUALESQUIERA OTRAS FORMAS JURÍDICAS DE TRANSMISIÓN DE LA PROPIEDAD, POR MEDIO DE LICITACIÓN PÚBLICA, SUBASTA, REMATE O ADJUDICACIÓN DIRECTA.
+
+(NOTA: EL 6 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 167/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE MAYO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+II. DONACIÓN.
+
+Los procedimientos de enajenación serán de orden público y tendrán por objeto enajenar de forma económica, eficaz, imparcial y transparente los bienes que sean transferidos; asegurar las mejores condiciones en la enajenación de los bienes; obtener el mayor valor de recuperación posible y las mejores condiciones de oportunidad, así como la reducción de los costos de administración y custodia, de conformidad a esta Ley, a la Ley Nacional de Extinción de Dominio y a las demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2020)</small>
+
+###### Artículo 40.
+
+Los bienes cuyo dominio haya sido extinto por sentencia firme, podrán destinarse a favor de las dependencias o entidades de la administración pública estatal o municipal, según lo determine el Comité Intersecretarial Estatal, para que se destinen al servicio público, los utilicen en programas sociales u otras políticas públicas prioritarias. Lo anterior, de conformidad con las disposiciones aplicables.
+
+(NOTA: EL 6 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 167/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE MAYO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+EN EL CASO DE TIERRAS EJIDALES O COMUNALES SE RESOLVERÁ, COMO CONSECUENCIA DE LA EXTINCIÓN DE DOMINIO, QUE EL ESTADO CUANDO RECUPERE LA PROPIEDAD, LA PONGA A DISPOSICIÓN DE LA ASAMBLEA EJIDAL O COMUNAL PARA QUE LA REASIGNEN EN BENEFICIO DEL NÚCLEO AGRARIO O DE PERSONA DISTINTA CONFORME A LA LEY AGRARIA.
+
+###### Artículo 41.
+
+En su caso, el valor de realización de los bienes, incluidos sus productos, rendimientos, frutos y accesorios cuya extinción de dominio haya sido declarada mediante sentencia ejecutoriada, se destinará, descontando los gastos de administración conforme a la ley aplicable, hasta donde alcance, conforme al orden de prelación siguiente, al pago de:
+
+I. La reparación del daño causado a las víctimas de los delitos a que se refiere el presente ordenamiento, si lo hubiere, en términos de la Ley General de Víctimas y del artículo 46 del Código Penal del Estado de Chihuahua.
+
+II. Al Fondo Auxiliar para la Procuración de Justicia y Seguridad Pública, tratándose de los remanentes del valor de los bienes que resulten una vez aplicados los recursos correspondientes en términos de la fracción anterior.
+
+(NOTA: EL 6 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 167/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE MAYO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+CUANDO DE LAS CONSTANCIAS QUE OBREN EN LA CARPETA DE INVESTIGACIÓN O AVERIGUACIÓN PREVIA O EN EL PROCESO PENAL DE QUE SE TRATE, SE ADVIERTA LA EXTINCIÓN DE LA RESPONSABILIDAD PENAL EN VIRTUD DE LA MUERTE DEL IMPUTADO O POR PRESCRIPCIÓN, EL MINISTERIO PÚBLICO O LA AUTORIDAD JUDICIAL, RESPECTIVAMENTE, DE OFICIO, PODRÁN RECONOCER LA CALIDAD DE VÍCTIMA U OFENDIDO, SIEMPRE QUE EXISTAN ELEMENTOS SUFICIENTES, PARA EL EFECTO EXCLUSIVO DE QUE ESTE TENGA DERECHO A LA REPARACIÓN DEL DAÑO CAUSADO.
+
+(NOTA: EL 6 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 167/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE MAYO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+EL DESTINO DEL VALOR DE REALIZACIÓN DE LOS BIENES, INCLUIDOS SUS PRODUCTOS, RENDIMIENTOS, FRUTOS Y ACCESORIOS, A QUE SE REFIERE ESTE ARTÍCULO, SE SUJETARÁ A LAS DISPOSICIONES APLICABLES EN MATERIA DE TRANSPARENCIA Y DE FISCALIZACIÓN.
+
+(NOTA: EL 6 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 167/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 7 DE MAYO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2020)</small>
+
+###### Artículo 42.
+
+Para efecto de lo señalado en esta Ley, la Autoridad Administradora estará a lo que el Juez determine, siempre que exista cantidad líquida suficiente derivada del procedimiento de extinción de dominio correspondiente. En todo caso, el Juez deberá especificar en su sentencia o resolución correspondiente, los montos a liquidar, la identidad de los acreedores y el orden de preferencia entre los mismos.
+
+El Ministerio Público deberá, en su caso, representar los intereses de quien se conduzca como Víctima u Ofendido por los actos y hechos ilícitos a los que se refiere la Ley Nacional de Extinción de Dominio y por los que se ejercitó la acción de extinción de dominio.
+
+(NOTA: EL 6 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 167/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 7 DE MAYO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2020)</small>
+
+###### Artículo 43.
+
+Los gastos de administración y enajenación, y los que se generen por la publicación de edictos ordenados durante el procedimiento en materia de extinción de dominio, se pagarán con cargo a los productos, rendimientos, frutos y accesorios de los bienes que se pusieron a disposición para su administración y, en su caso, con cargo a la Cuenta Especial a que se refiere esta Ley y la Ley Nacional de Extinción de Dominio.
+
+Asimismo, de los recursos obtenidos de la venta de bienes extintos, la Autoridad Administradora deberá prever un Fondo de Reserva para restituir aquellos que ordene la autoridad judicial mediante sentencia firme, los cuales no podrán ser menores al diez por ciento del producto de la venta. En el caso de los recursos obtenidos de la venta de bienes en proceso de extinción de dominio, la reserva de los recursos no será menor al treinta por ciento del producto de la venta.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 22 DE FEBRERO DE 2020)</small>
+
+#### Sección 3. De la Cuenta Especial
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2020)</small>
+
+###### Artículo 44.
+
+Los remanentes del valor de los bienes, así como los productos, rendimientos, frutos y accesorios que se hayan generado, que le corresponden al Gobierno del Estado, conforme a la presente Ley, se depositarán por la Autoridad Administradora en una Cuenta Especial, administrada por esta, hasta en tanto se determine su destino final por el Comité Intersecretarial Estatal.
+
+En ningún caso los recursos a que se refiere este artículo podrán ser utilizados en gasto corriente o pago de salarios.
 
 T R A N S I T O R I O S
 
@@ -512,3 +704,15 @@ Si las atribuciones de seguridad pública y prevención del delito dejan de ser 
 Los recursos seguirán siendo captados, pero su administración estará a cargo de la entidad que asuma las atribuciones de seguridad pública y prevención del delito, debiendo informar semestralmente a la Auditoría Superior del Estado sobre las actividades desarrolladas con cargo al recurso, hasta en tanto se emita el decreto que disponga lo conducente.
 
 Estos recursos se destinarán para los fines establecidos en el artículo 38 de la referida Ley, pero en materia de Seguridad Pública.
+
+P.O. 22 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFLEY/0669/2020 III. P.E.".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Las facultades que confieren los artículos 240 y 241 de la Ley Nacional de Extinción de Dominio a la Unidad Especializada, corresponderán a la Dirección de Extinción de Dominio de la Dirección General Jurídica y, en su caso, a la Fiscalía Anticorrupción, como el ente a que alude esa Ley Nacional.
+
+CUARTO.- Para efectos del presente Decreto, la Dirección de Administración y Enajenación de Bienes, Fondos y Fideicomisos de la Fiscalía General del Estado será tanto la Autoridad Administrativa contenida en la Ley para la Administración y Destino de Bienes Relacionados con Hechos Delictivos para el Estado de Chihuahua, como la Autoridad Administradora a que alude la Ley Nacional de Extinción de Dominio.
