@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-adopciones-del-estado-de-chihuahua-140820"
 country: "mx"
 rank: "ley"
 publication_date: "2020-02-05"
-last_updated: "2020-02-05"
+last_updated: "2020-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DE ADOPCIONES DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE FEBRERO DE 2020 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ADOPCIONES DEL ESTADO DE CHIHUAHUA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE FEBRERO DE 2020.]</small>
 
 Ley publicada en Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 5 de febrero de 2020.
 
@@ -1231,6 +1231,8 @@ PRESIDENTE. DIP. RENÉ FRÍAS BENCOMO. Rúbrica. EN FUNCIONES DE SECRETARIA. DIP
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los diecisiete días del mes de enero del año dos mil diecinueve.
+> <small>(F. DE E., P.O. 22 DE FEBRERO DE 2020)</small>
+
+En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los diecisiete días del mes de enero del año dos mil veinte.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. LUIS FERNANDO MESTA SOULÉ. Rúbrica.
