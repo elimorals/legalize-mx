@@ -4,7 +4,7 @@ identifier: "TLA-ley-para-el-fomento-y-desarrollo-del-turismo-del-estado-de-9685
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-06"
-last_updated: "2017-08-25"
+last_updated: "2020-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY PARA EL FOMENTO Y DESARROLLO DEL TURISMO DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 6 de diciembre de 2013.
 
@@ -221,7 +221,21 @@ X. Establecer el Consejo Municipal; que tendrá por objeto coordinar, proponer y
 
 XI. Operar módulos de información y orientación al turista, y
 
-XII. Las demás que esta Ley y otros ordenamientos legales les señalen.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2020)</small>
+
+XII. Colaborar coordinadamente con el Ejecutivo Estatal, a través del Consejo Estatal con relación con la Secretaría, para un mejor desarrollo y aprovechamiento de los programas federales, estatales y municipales;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2020)</small>
+
+XIII. Promover, fomentar y coordinar capacitaciones continuas, realización de cursos, programas, conferencias y congresos al personal de la Administración Pública Municipal adscritos al área de Turismo, así como prestadores de servicio turístico que ejerzan dentro de su demarcación municipal, con la finalidad de tener un mejor desempeño en beneficio del desarrollo turístico;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2020)</small>
+
+XIV. Acordar con los sectores público y privado, en las acciones a desarrollar dentro de los programas a favor de la actividad turística, con la finalidad de atender las necesidades de los prestadores de servicio turístico, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 24 DE FEBRERO DE 2020)</small>
+
+XV. Las demás que esta Ley y otros ordenamientos legales les señalen.
 
 ###### Artículo 10.
 
@@ -249,7 +263,9 @@ III. Obtener por cualquier medio, información previa, veraz, completa y objetiv
 
 IV. Recibir servicios turísticos de calidad, en virtud de las condiciones contratadas y de acuerdo a la categoría con que se ostente, y obtener los documentos que acrediten los términos de contratación, facturas y demás documentos justificantes del pago conforme a la normatividad aplicable;
 
-V. Obtener las facilidades para tener acceso a la realización de las actividades turísticas por parte de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2020)</small>
+
+V. Obtener las facilidades para tener acceso a la realización de las actividades turísticas por parte de las personas con discapacidad, así como recibir interpretación en Lengua de Señas Mexicana;
 
 VI. Recibir la ayuda y auxilio de la Secretaría conforme a esta Ley;
 
@@ -332,6 +348,10 @@ XI. Brindar en lo posible asistencia y auxilio al turista en casos de necesidad 
 XII. Proporcionar la información que las autoridades en la materia soliciten, la cual será utilizada y protegida por éstas, bajo su estricto manejo responsable, con fines exclusivos de promoción, y
 
 XIII. Preservar y proteger el patrimonio turístico, arqueológico y entorno ecológico.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2020)</small>
+
+XIV. Contar con Intérpretes en Lengua de Señas Mexicana.
 
 ## TÍTULO SEGUNDO. COMPOSICIÓN DEL SECTOR TURÍSTICO
 
@@ -687,6 +707,10 @@ La Secretaría considerará dentro de su presupuesto anual una partida destinada
 
 La capacitación turística se considera como una actividad prioritaria para la eficaz prestación de los servicios turísticos.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2020)</small>
+
+La capacitación turística deberá comprender entre otros aspectos, la enseñanza de Lengua de Señas Mexicana, para efecto de brindar una plena atención a personas discapacitadas.
+
 ###### Artículo 73.
 
 Se deberá brindar un trato digno, con respeto y apego a derecho a todo mexicano y extranjero que visite el Estado o transite por él.
@@ -894,3 +918,15 @@ P.O. 25 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 196.- SE REFORMAN: LA FRACCIÓN XII DEL ARTÍCULO 9, Y LA FRACCIÓN V DEL ARTÍCULO 13; SE ADICIONAN: LAS FRACCIONES XIII, XIV Y XV AL ARTÍCULO 9, LA FRACCIÓN XIV AL ARTÍCULO 17 Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 72, DE LA LEY PARA EL FOMENTO Y DESARROLLO DEL TURISMO DEL ESTADO DE TLAXCALA".]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
