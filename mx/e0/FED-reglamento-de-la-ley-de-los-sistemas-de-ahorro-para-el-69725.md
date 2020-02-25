@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-los-sistemas-de-ahorro-para-el-69725"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-24"
-last_updated: "2009-08-24"
+last_updated: "2020-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69725&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-08-20"
 
 REGLAMENTO DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE FEBRERO DE 2020.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 24 de agosto de 2009.
 
@@ -1207,9 +1207,11 @@ III. No tener relación de parentesco consanguíneo hasta el cuarto grado, civil
 
 IV. No prestar servicios profesionales de asesoría o consultoría a ninguno de los Participantes en los Sistemas de Ahorro para el Retiro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE FEBRERO DE 2020)</small>
+
 ###### ARTÍCULO 127.
 
-Las visitas que la Comisión ordene en el ejercicio de sus facultades de inspección, tendrán una duración máxima de cuatro meses, pudiendo prorrogarse por un periodo de hasta dos meses por una sola ocasión, y tendrán por objeto:
+Las visitas que la Comisión ordene en el ejercicio de sus facultades de inspección, tendrán una duración máxima de doce meses, y tendrán por objeto:
 
 I. Verificar el cumplimiento de las disposiciones aplicables a los Sistemas de Ahorro para el Retiro y la observancia de los usos y sanas prácticas en los mercados financieros;
 
@@ -1337,6 +1339,10 @@ La Comisión supervisará el cumplimiento de estas medidas, con independencia de
 
 Cuando la naturaleza de las irregularidades de que se tenga conocimiento así lo requiera, el Presidente de la Comisión dictará las medidas necesarias para su regularización y podrá designar por el tiempo que estime conveniente a uno o más inspectores o visitadores para que efectúen la supervisión respectiva, careciendo estos últimos de facultades de resolución, limitándose a informar periódicamente sobre los avances de la regularización ordenada.
 
+> <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 138 BIS. Cuando al practicar las visitas de inspección, la Comisión llegue a conocer de hechos u omisiones que pudieran constituir un incumplimiento a las disposiciones jurídicas que rigen a los Sistemas de Ahorro para el Retiro, tendrá un plazo de seis meses contado a partir de la fecha en que finalice el levantamiento del acta de conclusión, para imponer a través del procedimiento correspondiente, las sanciones en términos de la Ley.
+
 ### CAPÍTULO XIV. DE LA VIGILANCIA DE LOS PARTICIPANTES EN LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
 ###### ARTÍCULO 139.
@@ -1345,15 +1351,41 @@ La Comisión llevará a cabo la vigilancia de los Participantes en los Sistemas 
 
 La Comisión a través de sus actos de vigilancia, podrá proponer medidas correctivas y de mejoras a los Participantes de los Sistemas de Ahorro para el Retiro.
 
+> <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2020)</small>
+
+Los actos de vigilancia que la Comisión lleve a cabo, deberán concluirse dentro de un plazo de doce meses contado a partir de que se notifique al Participante en los Sistemas de Ahorro para el Retiro el inicio de dichos actos.
+
 ###### ARTÍCULO 140.
 
 La información que solicite la Comisión en ejercicio de sus facultades de vigilancia, a los Participantes en los Sistemas de Ahorro para el Retiro, deberá reunir las características, calidad, oportunidad, requisitos, forma, periodicidad y presentación que la Comisión establezca en el propio requerimiento o en su caso en las reglas de carácter general que en materia de supervisión y vigilancia se emitan.
 
 Además, la Comisión podrá requerir directamente a los consejeros independientes y contralores normativos de las Administradoras, la información y documentación que considere necesaria, misma que deberá reunir las características y requisitos que se señalen, así como proporcionarse dentro de los plazos que se establezcan.
 
+> <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 140 BIS. Cuando la Comisión solicite de los Participantes en los Sistemas de Ahorro para el Retiro y demás personas y entidades sujetas a la inspección y vigilancia de la Comisión, informes, datos o documentos o solicite la presentación de la contabilidad o parte de ella, para el ejercicio de sus facultades de vigilancia, fuera de una visita de inspección, se estará a lo siguiente:
+
+I. La solicitud se notificará de conformidad con lo establecido en el artículo 111 de la Ley;
+
+II. La solicitud señalará el lugar y el plazo en el cual se deben proporcionar los informes, datos o documentos;
+
+III. Los informes, datos, libros o documentos requeridos deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante legal;
+
+IV. La Comisión como consecuencia de la revisión que realice de los informes, datos, documentos o contabilidad requeridos, formulará un oficio de observaciones en el cual hará constar en forma circunstanciada los hechos u omisiones que se hubiesen conocido y constituyan un posible incumplimiento a las disposiciones jurídicas que los rigen;
+
+V. Cuando no hubiera observaciones, la Comisión comunicará mediante oficio la conclusión de la revisión de vigilancia de los informes, datos y demás documentos presentados;
+
+VI. El oficio de observaciones a que se refiere la fracción IV de este artículo se notificará cumpliendo con lo señalado en este mismo artículo. El Participante en los Sistemas de Ahorro para el Retiro, así como las demás personas y entidades sujetas a la inspección y vigilancia de la Comisión, tendrán un plazo de veinte días contado a partir del día siguiente al en que surta efectos la notificación del oficio de observaciones, para presentar los documentos, libros, registros y demás información que desvirtúen los hechos u omisiones asentados en dicho oficio, y
+
+VII. Se tendrán por consentidos los hechos u omisiones consignados en el oficio de observaciones si, en el plazo probatorio a que se refiere la fracción anterior, el Participante en los Sistemas de Ahorro para el Retiro de que se trate o las demás personas y entidades sujetas a la inspección y vigilancia de la Comisión no presentan información o documentación comprobatoria que los desvirtúe, situación que se hará del conocimiento del interesado.
+
 ###### ARTÍCULO 141.
 
 La corrección de las irregularidades que se detecten, como consecuencia del ejercicio de las facultades de vigilancia, se llevará a cabo mediante el establecimiento de programas especiales, los cuales serán obligatorios para los Participantes en los Sistemas de Ahorro para el Retiro.
+
+> <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 141 BIS. Cuando al ejercer sus facultades de vigilancia, la Comisión llegue a conocer de hechos u omisiones que pudieran constituir un incumplimiento a las disposiciones jurídicas que rigen a los Sistemas de Ahorro para el Retiro, tendrá un plazo de seis meses contado a partir de la fecha en que concluya el plazo señalado en la fracción VI del artículo 140 BIS de este Reglamento, para imponer a través del procedimiento correspondiente, las sanciones en términos de la Ley.
 
 ### CAPÍTULO XV. DE LA INTERVENCIÓN ADMINISTRATIVA Y GERENCIAL
 
@@ -1465,6 +1497,12 @@ De resultar procedente el programa de corrección, la Comisión impondrá como m
 
 En caso de que el programa de corrección presentado no cumpla con los requisitos señalados en las fracciones I a VI anteriores, se tendrá por no presentado el programa de corrección y la Comisión impondrá al Participante en los Sistemas de Ahorro para el Retiro la sanción que corresponda a las infracciones cometidas, en términos de lo dispuesto por los artículos 99 y 100 de la Ley.
 
+> <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2020)</small>
+
+###### ARTÍCULO 156.
+
+El horario de recepción de documentos en la oficialía de partes de la Comisión, será el comprendido de las 9:00 a las 18:00 horas de los días considerados como hábiles, conforme a las disposiciones de carácter general que para tal efecto emita la Comisión.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1480,3 +1518,13 @@ QUINTO. Las Cuentas Individuales que hayan sido asignadas con anterioridad a la 
 Las Cuentas Individuales que se encuentren activas y que hayan sido asignadas antes de la entrada en vigor del presente Reglamento, serán reasignadas de conformidad con lo establecido en el artículo 76 de la Ley y el presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinte de agosto de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 25 DE FEBRERO DE 2020.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto se derogan todas las disposiciones que se opongan al mismo.
