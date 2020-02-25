@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ingresos-para-el-municipio-de-pachuca-de-soto-141445"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-31"
-last_updated: "2019-12-31"
+last_updated: "2020-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -48,6 +48,8 @@ Uso comercial. 5.0%
 Uso industrial. 1.5%
 
 (NOTA: EL 19 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 20/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 21 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(F. DE E., P.O. 25 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 25.
 
@@ -181,11 +183,11 @@ Por regularización del uso de suelo comercial y de servicios:
 
 -Desde el inicio hasta 3 años de 2 veces el costo real del dictamen
 
-construcción o de apertura
+construcción o de Apertura
 
 -De más de 3 años hasta 5 años de 3 veces el costo real del dictamen
 
-construcción o apertura
+construcción o Apertura
 
 Cambio de uso de suelo de habitacional 174.00
 
@@ -207,39 +209,39 @@ Cuota fija$
 
 Emisión de dictamen de impacto urbano N/A
 
-Licencia de uso del suelo que generen impacto social en su entorno o definidos por la normatividad de la materia como segregados:
+(NOTA: EL 19 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 20/2020, DECLARÓ LA INVALIDEZ DE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE HIDALGO EL VEINTICINCO DE FEBRERO DE DOS MIL VEINTE, EN LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+LICENCIA DE USO DEL SUELO QUE GENEREN IMPACTO SOCIAL EN SU ENTORNO O DEFINIDOS POR LA NORMATIVIDAD DE LA MATERIA COMO SEGREGADOS:
 
 Cuota fija$
 
-Gasolineras 30,128.60
+GASOLINERAS 30,128.60 + 4.38 por m2
 
 Antena de telefonía celular 25,823.90
 
-Centro comercial 14,633.60
+CENTRO COMERCIAL 14,633.60 + 6.57 por m2
 
-Plaza comercial 14,633.60
+PLAZA COMERCIAL 14,633.60 + 6.57 por m2
 
-Central de abastos 10,330.00
+CENTRAL DE ABASTOS 10,330.00 + 4.38 por m2
 
 Centros dedicados a cultos religiosos 4,304.70
 
-Hotel – Motel 11,190.30
+HOTEL - MOTEL 11,190.30 + 6.57 por m2
 
-Balneario 10,017.10
+BALNEARIO 10,017.10 + 4.38 por m2
 
-Terminal de base de auto transporte 14,633.60
+TERMINAL DE BASE DE AUTO TRANSPORTE 14,633.60 + 4.38 por m2
 
-Estación de servicio (Mini Gasolinera) 28,003.30
+ESTACIÓN DE SERVICIO (MINI GASOLINERA) 28,003.30 + 4.38 por m2
 
-Estación de servicio (Gasolinera en carretera) 28,405.90
+ESTACIÓN DE SERVICIO (GASOLINERA EN CARRETERA) 28,405.90 + 4.38 por m2
 
 Bodega de cilindros de gas L.P. 38,735.80
 
-Estación de gas de carburación 34,431.20
+ESTACIÓN DE GAS DE CARBURACIÓN 34,431.20 + 5.42 por m2
 
-Planta de almacenamiento y distribución 39,596.20
-
-de gas L.P.
+PLANTA DE ALMACENAMIENTO Y DISTRIBUCIÓN DE GAS L.P. 39,596.20 + 5.42 por m2
 
 Antenas de comunicación 25,823.90
 
