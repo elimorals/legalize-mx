@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-secretaria-de-seguridad-publica-63641
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-16"
-last_updated: "2017-10-31"
+last_updated: "2020-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63641&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2008-10-10"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 25 DE FEBRERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 31 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE FEBRERO DE 2020 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 16 de octubre de 2008.
 
@@ -2259,3 +2261,29 @@ PRIMERO.- Publíquese en la Gaceta oficial de la Ciudad de México.
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
+
+G.O. 25 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Reglamento entrará en vigor el 01 de marzo de 2020.
+
+TERCERO.- La Secretaría emitirá sus manuales en los plazos que establezca la Secretaría de Administración y Finanzas. Dichos manuales deberán publicarse en la Gaceta Oficial la Ciudad de México, de acuerdo con lo establecido en el artículo 11 de la Ley de Procedimiento Administrativo de la Ciudad de México y 16 del Reglamento Interior del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
+
+CUARTO.- La Secretaría contará con sesenta días hábiles, a partir del día siguiente de la publicación del presente Decreto, para realizar las adecuaciones y gestiones jurídico-administrativas, presupuestales y de movimientos de personal, para la adecuada instrumentación de las disposiciones que establece el presente Reglamento.
+
+QUINTO.- Se abroga el Reglamento Interior de la Secretaría de Seguridad Pública del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 10 (sic) de octubre de 2008 y se derogan las disposiciones administrativas que se opongan al presente Reglamento.
+
+SEXTO.- Todas las referencias hechas a la Secretaría de Seguridad Pública del Distrito Federal o a la Secretaría de Seguridad Pública de la Ciudad de México en otros ordenamientos, se entenderán realizadas a la Secretaría de Seguridad Ciudadana de la Ciudad de México.
+
+SÉPTIMO.- Quedan en vigor las Reglas para el Establecimiento de la Carrera Policial de la Policía del Distrito Federal, hasta en tanto la Jefatura de Gobierno expida las Reglas para el Establecimiento y Operación del Sistema de Carrera Policial.
+
+OCTAVO.- Los recursos humanos, materiales, técnicos y financieros de las Unidades Administrativas que se extinguen, por virtud de este Reglamento, se transferirán a las Unidades Administrativas que asumen sus atribuciones, en los términos y condiciones que establezcan las disposiciones jurídicas y administrativas aplicables y la Secretaría de Administración y Finanzas.
+
+NOVENO.- Los asuntos, competencia de las nuevas Unidades Administrativas, que antes de la entrada en vigor del presente Reglamento correspondían a otra Unidad Administrativa distinta, seguirán siendo tramitados y resueltos por las Unidades Administrativas que adquieren las atribuciones de aquellas.
+
+DÉCIMO.- Las Unidades Administrativas que por virtud de este Reglamento se modifican, deberán adecuar sus estructuras orgánicas y actualizar sus Manuales de Organización y Procedimientos en los plazos y condiciones que establezca la Secretaría de Administración y Finanzas.
+
+DÉCIMO PRIMERO.- Las referencias hechas en ordenamientos e instrumentos administrativos a las Unidades Administrativas que por virtud de este Reglamento hubieren dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
