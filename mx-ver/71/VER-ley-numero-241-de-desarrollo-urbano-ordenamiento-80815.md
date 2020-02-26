@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-241-de-desarrollo-urbano-ordenamiento-80815"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-13"
-last_updated: "2020-02-04"
+last_updated: "2020-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 241 DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE FEBRERO DE 2020.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el miércoles 13 de abril de 2011.
 
@@ -112,6 +112,10 @@ V. Consejo de Desarrollo Urbano, Ordenamiento Territorial y Vivienda: El órgano
 VI. Convenio urbanístico: El instrumento jurídico celebrado entre la Secretaría, los municipios respectivos y los propietarios de predios o desarrolladores inmobiliarios, en el que se pactan derechos y obligaciones para determinar las bases de la dotación de equipamiento o infraestructura, o ambas, según sea el caso, cuando las condiciones geográficas o urbanas así lo requieran, determinando la ubicación, las modificaciones y usos de los predios urbanizables;
 
 VII. Desarrollo habitacional: La solución de vivienda para conjuntos de población de escasos recursos, que estimula el crecimiento social y económico de las familias de menores ingresos y que constituye un medio para impulsar el equilibrio ambiental y el ordenamiento territorial;
+
+> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2020)</small>
+
+VII Bis. Desarrollo Metropolitano: Proceso de planeación, regulación, gestión, financiamiento y ejecución de acciones, obras y servicios, en zonas metropolitanas, que por su población, extensión y complejidad, deberán participar en forma coordinada los tres órdenes de Gobierno de acuerdo a sus atribuciones;
 
 VIII. Desarrollo regional: El proceso de transformación de las condiciones económicas y sociales, determinado por decisiones de inversión y tecnología, que pretende el aprovechamiento equitativo y racional de los recursos naturales y del trabajo del hombre en su ámbito territorial. Para promoverlo, el Estado y los municipios habrán de contar con las capacidades económicas y administrativas que les permitan incidir en la distribución de la población y las actividades productivas para alcanzar mejores niveles de bienestar y progreso;
 
@@ -237,9 +241,9 @@ I. En materia de desarrollo urbano y ordenamiento territorial:
 
 a) Aprobar las normas para planear y regular el ordenamiento territorial del Estado y de los asentamientos humanos en él comprendidos, así como lo relativo a la fundación, conservación, mejoramiento y crecimiento de los centros de población y zonas conurbadas;
 
-> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2020)</small>
 
-b) Participar, de manera coordinada con la Federación, las entidades federativas vecinas y los municipios del Estado, en la planeación del desarrollo regional y urbano de las zonas metropolitanas de la entidad, en los términos de la presente Ley y el Reglamento;
+b) En materia de ordenamiento territorial y vivienda, desarrollo urbano y desarrollo metropolitano, serán ejercidos de manera concurrente por la Federación, las entidades federativas, los municipios y las Demarcaciones Territoriales, en el ámbito de la competencia que les otorga la Constitución Política de los Estados Unidos Mexicanos y esta Ley, así como a través de los mecanismos de coordinación y concertación que se generen.
 
 c) Formular, aprobar, ejecutar y evaluar el Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial, así como los demás programas institucionales, regionales y especiales de competencia del sector;
 
@@ -825,43 +829,103 @@ En los predios donde el uso o construcción actual no corresponda al señalado e
 
 ### CAPÍTULO SEGUNDO BIS. Desarrollo Metropolitano
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN], G.O. 26 DE FEBRERO DE 2020)</small>
 
-#### SECCIÓN PRIMERA. De las Zonas Metropolitanas
+#### SECCIÓN PRIMERA. Programa Estatal de Desarrollo Metropolitano
 
-> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 39 Bis.
 
-Será atribución del Congreso del Estado, previa propuesta del Titular del Poder Ejecutivo, emitir la declaratoria y delimitación de las Zonas Metropolitanas que se ubiquen al interior del Estado.
+Para lograr una eficaz gobernanza metropolitana en el Estado, se establecerán los mecanismos y los instrumentos de carácter obligatorio que aseguren la acción coordinada institucional con los tres órdenes de Gobierno y la participación de la sociedad.
 
-> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 39 Ter.
 
-En cada Zona Metropolitana y en términos de los convenios de coordinación respectivos y de las disposiciones legales aplicables, se integrará una Comisión o Consejo de Zona Metropolitana conformada por los Presidentes Municipales de los Ayuntamientos vinculados y un representante del Ejecutivo del Estado.
+Son de interés metropolitano:
 
-Las Comisiones tendrán por objeto contribuir a una adecuada coordinación intergubernamental para la ejecución de estudios, planes, programas, proyectos, acciones y obras de infraestructura y equipamiento.
+I. La planeación del ordenamiento del territorio y los asentamientos humanos;
 
-Las Comisiones podrán fungir como instancias para recibir y analizar propuestas, proyectos y aportaciones de los sectores social y privado para generar obras y acciones que impulsen el desarrollo de las Zonas Metropolitanas.
+II. La infraestructura vial, tránsito, transporte y la movilidad;
 
-Cada Comisión deberá nombrar a un Secretario Técnico que tendrá las facultades necesarias para el cumplimiento de su objeto y la realización de sus funciones.
+III. El suelo y las reservas territoriales;
 
-> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2018)</small>
+IV. La densificación, consolidación urbana y uso eficiente del territorio, con espacios públicos seguros y de calidad, como eje articulador;
+
+V. Las políticas habitacionales y las relativas al equipamiento regional y metropolitano;
+
+VI. La localización de espacios para desarrollo industrial de carácter metropolitano;
+
+VII. La gestión integral del agua y los recursos hidráulicos, incluyendo el agua potable, el drenaje, saneamiento, tratamiento de aguas residuales, recuperación de cuencas hidrográficas y aprovechamiento de aguas pluviales;
+
+VIII. La preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, incluyendo la calidad del aire y la protección de la atmósfera;
+
+IX. La gestión integral de residuos sólidos municipales;
+
+X. La prevención, mitigación y resiliencia ante los riesgos y los efectos del cambio climático;
+
+XI. La accesibilidad universal y la movilidad;
+
+XII. La seguridad pública, y
+
+XIII. Otras acciones que, a propuesta de la comisión de ordenamiento, se establezcan o declaren por las autoridades competentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 39 Quater.
 
-Una vez publicada la declaratoria de una Zona Metropolitana se deberá crear la Comisión o Consejo de Zona Metropolitana correspondiente, previa autorización de los Ayuntamientos involucrados, así como el Subcomité de Planeación para el Desarrollo Metropolitano Municipal previsto en la fracción III del artículo 7 de la Ley de Planeación del Estado de Veracruz de Ignacio de la Llave.
+El Programa Estatal de las zonas metropolitanas y los Municipales, deberán considerar:
 
-A los Ayuntamientos de los Municipios que integren las Zonas Metropolitanas, en términos de la declaratoria respectiva, les corresponde promover, apoyar y fomentar programas y proyectos metropolitanos, en el ámbito de su competencia, de conformidad con los convenios de coordinación respectivos, las disposiciones legales aplicables y los criterios y lineamientos aprobados por el Consejo o la Comisión relativa.
+I. Congruencia con la estrategia nacional de ordenamiento territorial;
 
-> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2018)</small>
+II. Un diagnóstico integral que incluya una visión prospectiva de corto, mediano y largo plazo;
 
-#### SECCIÓN SEGUNDA. De los Recursos Metropolitanos
+III. Estrategias y proyectos para el desarrollo integral de la Zona Metropolitana;
 
-> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2018)</small>
+IV. Las acciones y las previsiones de inversión para la dotación de infraestructura, equipamiento y Servicios Urbanos que sean comunes a los Centros de Población de la zona conurbada;
+
+V. Las acciones de movilidad, incluyendo los medios de transporte público masivo, los sistemas no motorizados y aquellos de bajo impacto ambiental;
+
+VI. Las previsiones y acciones para mejorar las condiciones ambientales y el manejo integral de agua;
+
+VII. Las previsiones y acciones prioritarias para conservar, proteger, acrecentar y mejorar el Espacio Público;
+
+VIII. Las estrategias para la Conservación y el Mejoramiento de la imagen urbana y del Patrimonio Natural y Cultural;
+
+IX. Las estrategias de seguridad, prevención del riesgo y resiliencia, y
+
+X. Metodología o indicadores para dar seguimiento y evaluar la aplicación y el cumplimiento de los objetivos del programa de la Zona Metropolitana o Conurbación.
+
+Adicionalmente, los municipios podrán formular y aprobar programas parciales que establecerán el diagnóstico, los objetivos y las estrategias gubernamentales para los diferentes temas o materias, priorizando los temas de interés metropolitano establecidos en esta Ley.
+
+Los planes o programas de Desarrollo Urbano deberán considerar las normas oficiales mexicanas emitidas en la materia, las medidas y criterios en materia de resiliencia previstos en el programa nacional de ordenamiento territorial y desarrollo urbano y en los atlas de riesgos para la definición de los Usos del suelo, Destinos y Reservas.
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REUBICADA CON LOS ARTÍCULOS QUE LA INTEGRAN -ANTES SECCIÓN PRIMERA-], G.O. 26 DE FEBRERO DE 2020)</small>
+
+#### SECCIÓN SEGUNDA. De las Zonas Metropolitanas
+
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 39 BIS], G.O. 26 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 39 Quinquies.
+
+Será atribución del Congreso del Estado, previa propuesta del Titular del Poder Ejecutivo, emitir la declaratoria y delimitación de las Zonas Metropolitanas que se ubiquen al interior del Estado, considerando el desarrollo integral metropolitano del Estado.
+
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 39 TER], G.O. 26 DE FEBRERO DE 2020)</small>
+
+###### Artículo 39 Sexies.
+
+En cada Zona Metropolitana y en términos de los Convenios de Coordinación respectivos y de las disposiciones legales aplicables, se integrará una Comisión o Consejo de Zona Metropolitana conformada por los Presidentes Municipales de los Ayuntamientos vinculados, un representante del Ejecutivo del Estado, colegios de profesionistas, instituciones académicas, órganos empresariales del sector y expertos en la materia, definiéndose el número de miembros preponderantemente con perspectiva de género.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 39 QUATER], G.O. 26 DE FEBRERO DE 2020)</small>
+
+###### Artículo 39 Septies.
+
+Una vez publicada la declaratoria de una Zona Metropolitana se deberá crear la Comisión o Consejo de Zona Metropolitana correspondiente, previa autorización de los Ayuntamientos involucrados, así como el Subcomité de Planeación para el Desarrollo Metropolitano Municipal previsto en la fracción III del artículo 7 de la Ley de Planeación del Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 39 QUINQUIES], G.O. 26 DE FEBRERO DE 2020)</small>
+
+###### Artículo 39 Octies.
 
 Los Ayuntamientos de los Municipios que integren las Zonas Metropolitanas, en términos de la declaratoria respectiva, podrán convenir libremente en la planeación y regulación conjunta y coordinada de:
 
@@ -869,19 +933,17 @@ I. El Desarrollo de la Zona Metropolitana;
 
 II. La coordinación de planes, programas, presupuestos y recursos públicos en la Zona Metropolitana; y
 
-III. Las funciones y servicios públicos objeto de coordinación metropolitana.
+III. Las funciones y servicios públicos objeto de coordinación metropolitana. Los Convenios de Coordinación Metropolitana serán obligatorios para las partes que los firmen y por el término que así se describa.
 
-Los convenios de coordinación metropolitana serán obligatorios para las partes que los firmen y por el término que así se describa.
+Si no se describe un término específico en el Convenio de Coordinación Metropolitana, el término será el que duren los Ayuntamientos firmantes, y para su extinción se requiere del acuerdo total de las partes que lo suscriben.
 
-Si no se describe un término específico en el convenio de coordinación metropolitana, el término será el que duren los Ayuntamientos firmantes, y para su extinción se requiere del acuerdo total de las partes que lo suscriben.
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 39 SEXIES], G.O. 26 DE FEBRERO DE 2020)</small>
 
-> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2018)</small>
+###### Artículo 39 Nonies.
 
-###### Artículo 39 Sexies.
+Todo Convenio de Coordinación Metropolitana debe contener cuando menos:
 
-Todo convenio de coordinación metropolitana debe contener cuando menos:
-
-I. Capítulo de declaraciones: integrado por los datos generales de las partes y sus representantes;
+I. Capítulo de declaraciones: Integrado por los datos generales de las partes y sus representantes;
 
 II. Capítulo de obligaciones: Integrado por las obligaciones contraídas conjunta e individualmente por cada parte, en el que se precisen:
 
@@ -895,9 +957,13 @@ III. Capítulo de sanciones y controversias: Integrado por las sanciones conveni
 
 IV. Capítulo de validación: Integrado por la indicación del lugar y fecha de su celebración, así como la identificación, firma autógrafa y sello oficial de los representantes de las partes.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REUBICADA CON LOS ARTÍCULOS QUE LA INTEGRAN -ANTES SECCIÓN SEGUNDA-], G.O. 26 DE FEBRERO DE 2020)</small>
 
-###### Artículo 39 Septies.
+#### SECCIÓN TERCERA. De los Recursos Metropolitanos
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 39 SEPTIES], G.O. 26 DE FEBRERO DE 2020)</small>
+
+###### Artículo 39 Decies.
 
 Los recursos metropolitanos serán integrados por las siguientes fuentes:
 
@@ -909,15 +975,11 @@ III. Fondos y presupuestos federales;
 
 IV. Financiamientos derivados de asociaciones público privadas; y
 
-V. Aportaciones y mecanismos de financiación privada.
+V. Aportaciones y mecanismos de financiación privada. Por ningún motivo los recursos metropolitanos podrán utilizarse en los proyectos de las Zonas Económicas Especiales ni para gasto corriente.
 
-Por ningún motivo los recursos metropolitanos podrán utilizarse en los proyectos de las Zonas Económicas Especiales ni para gasto corriente.
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 39 OCTIES], G.O. 26 DE FEBRERO DE 2020)</small>
 
-> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2018)</small>
-
-###### Artículo 39 Octies.
-
-Los recursos metropolitanos se destinarán a acciones, procesos, obras de infraestructura y su equipamiento, conforme a los instrumentos de planeación metropolitana y los convenios respectivos, incluyendo proyectos de infraestructura en proceso, o para completar el financiamiento de aquéllos que no hubiesen contado con los recursos necesarios para su ejecución, siempre que la normatividad aplicable no disponga lo contrario.
+Artículo 39 Undecies. Los recursos metropolitanos se destinarán a acciones, procesos, obras de infraestructura y su equipamiento, conforme a los instrumentos de planeación metropolitana y los convenios respectivos, incluyendo proyectos de infraestructura en proceso, o para completar el financiamiento de aquellos que no hubiesen contado con los recursos necesarios para su ejecución, siempre que la normatividad aplicable no disponga lo contrario.
 
 Las acciones y obras de infraestructura y su equipamiento, a que se refiere el párrafo anterior, deberán ser viables y sustentables, orientados a promover:
 
@@ -927,11 +989,9 @@ II. La sustentabilidad y las capacidades productivas de las zonas metropolitanas
 
 III. La consolidación urbana y el aprovechamiento óptimo de las ventajas competitivas del funcionamiento municipal regional, urbano y económico del espacio territorial de las zonas metropolitanas.
 
-> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 39 NONIES], G.O. 26 DE FEBRERO DE 2020)</small>
 
-###### Artículo 39 Nonies.
-
-Los recursos del Fondo sólo se destinarán a cualquiera de las siguientes acciones:
+Artículo 39 Duodecies. Los recursos del Fondo sólo se destinarán a cualquiera de las siguientes acciones:
 
 I. Elaboración y actualización de planes y programas de desarrollo metropolitano, urbano y de movilidad no motorizada en el ámbito territorial metropolitano, y para el ordenamiento de los asentamientos humanos;
 
@@ -945,15 +1005,13 @@ V. Realización de los instrumentos de planeación metropolitana; y
 
 VI. El funcionamiento de las instancias de coordinación creadas en la Zona Metropolitana.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REUBICADA CON LOS ARTÍCULOS QUE LA INTEGRAN -ANTES SECCIÓN TERCERA-], G.O. 26 DE FEBRERO DE 2020)</small>
 
-#### SECCIÓN TERCERA. De los Ejes Rectores Metropolitanos
+#### SECCIÓN CUARTA. De los Ejes Rectores Metropolitanos
 
-> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 39 DECIES], G.O. 26 DE FEBRERO DE 2020)</small>
 
-###### Artículo 39 Decies.
-
-Los ejes rectores para la coordinación y el desarrollo metropolitano son los siguientes:
+Artículo 39 Terdecies. Los ejes rectores para la coordinación y el desarrollo metropolitano son los siguientes:
 
 I. El Medio Ambiente y la sustentabilidad, donde se deberá priorizar la conservación del medio ambiente utilizando preferentemente tecnologías sustentables, y buscando en todo momento la armonización de los ordenamientos locales a la metropolización para una mejor calidad de vida;
 
@@ -965,9 +1023,9 @@ IV. La Seguridad Pública, que buscará que los municipios y los estados coordin
 
 V. La Planeación, en donde se vigilará y en su caso propondrán los planes de desarrollo metropolitano, priorizando los proyectos a mediano y largo plazo.
 
-> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 39 UNDECIES], G.O. 26 DE FEBRERO DE 2020)</small>
 
-Artículo 39 Undecies. Para la preservación, conservación, mejoramiento y recuperación del medio ambiente de las metrópolis, los integrantes de las Zonas Metropolitanas tendrán las siguientes obligaciones:
+Artículo 39 Quaterdecies. Para la preservación, conservación, mejoramiento y recuperación del medio ambiente de las metrópolis, los integrantes de las Zonas Metropolitanas tendrán las siguientes obligaciones:
 
 I. El ordenamiento territorial y la planificación de los procesos de urbanización e industrialización, desconcentración económica y poblamiento, en función del desarrollo sustentable del ambiente;
 
@@ -1005,9 +1063,9 @@ XVII. La minimización de riesgos ambientales, la prevención y mitigación de e
 
 XVIII. La cooperación, coordinación, compatibilización y homogeneización de las políticas ambientales a nivel metropolitano, y la gestión conjunta de ecosistemas compartidos orientada al mejoramiento del uso de los recursos naturales, el control de la calidad ambiental, la defensa frente a emergencias y catástrofes y, en general, al desarrollo sustentable.
 
-> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 39 DUODECIES], G.O. 26 DE FEBRERO DE 2020)</small>
 
-Artículo 39 Duodecies. Las acciones en materia de movilidad que se implementen en las Zonas Metropolitanas observarán los principios siguientes:
+Artículo 39 Quindecies. Las acciones en materia de movilidad que se implementen en las Zonas Metropolitanas observarán los principios siguientes:
 
 I. Accesibilidad. Garantizar que la movilidad esté al alcance de todos, sin discriminación de género, edad, capacidad o condición, a costos accesibles y con información clara y oportuna;
 
@@ -1023,13 +1081,13 @@ VI. Innovación tecnológica. Emplear soluciones apoyadas en tecnología de punt
 
 VII. Armonización. Intervenir y opinar en las políticas de desarrollo metropolitano a fin de armonizar los ordenamientos locales en una planeación conjunta de la Zona Metropolitana.
 
-> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 39 TERDECIES], G.O. 26 DE FEBRERO DE 2020)</small>
 
-Artículo 39 Terdecies. Las obras de infraestructura o equipamiento de las Zonas Metropolitanas obedecerán a los criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia.
+Artículo 39 Sexdecies. Las obras de infraestructura o equipamiento de las Zonas Metropolitanas obedecerán a los criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia.
 
-> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 39 QUATERDECIES], G.O. 26 DE FEBRERO DE 2020)</small>
 
-Artículo 39 Quaterdecies. El objetivo de la planeación metropolitana es que los integrantes de cada una de las Zonas Metropolitanas se coordinen con la finalidad de elaborar y someter al pleno de su Comisión o Consejo correspondiente, los planes y programas de cuando menos los siguientes puntos:
+Artículo 39 Sepdecies. El objetivo de la planeación metropolitana es que los integrantes de cada una de las Zonas Metropolitanas se coordinen con la finalidad de elaborar y someter al pleno de su Comisión o Consejo correspondiente, los planes y programas de cuando menos los siguientes puntos:
 
 I. El plan de ordenamiento territorial metropolitano;
 
@@ -1038,8 +1096,6 @@ II. El programa sectorial de desarrollo metropolitano municipal y los proyectos 
 III. El mapa de riesgo metropolitano; y
 
 IV. Los demás instrumentos de planeación y programación derivados de las áreas sujetas a coordinación metropolitana, en los términos del convenio respectivo.
-
-#### SECCIÓN PRIMERA. Sistema Estatal de Vivienda
 
 ### CAPÍTULO TERCERO. Patrimonio cultural
 
@@ -1103,7 +1159,7 @@ Tratándose de comercio y abasto, el uso del servicio de estacionamiento deberá
 
 ### CAPÍTULO QUINTO. Vivienda
 
-#### SECCIÓN SEGUNDA. Coordinación Institucional
+#### SECCIÓN PRIMERA. Sistema Estatal de Vivienda
 
 ###### Artículo 46.
 
@@ -1137,7 +1193,7 @@ VI. Los fondos y fideicomisos de apoyo a la vivienda; y
 
 VII. Los municipios.
 
-#### SECCIÓN PRIMERA. Fundación, Conservación, Crecimiento y Mejoramiento Urbanos
+#### SECCIÓN SEGUNDA. Coordinación Institucional
 
 ###### Artículo 48.
 
@@ -1197,13 +1253,15 @@ XI. Promover la coordinación interinstitucional entre las diferentes instancias
 
 ### CAPÍTULO SEXTO. Sustentabilidad del Desarrollo Urbano y de la Vivienda
 
-#### SECCIÓN SEGUNDA. Calidad y Sustentabilidad de la Vivienda
+#### SECCIÓN PRIMERA. Fundación, Conservación, Crecimiento y Mejoramiento Urbanos
 
 ###### Artículo 50.
 
 El Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial contendrá las determinaciones sobre provisiones de tierras y, en los casos de fundación de centros de población, ésta deberá realizarse en tierras susceptibles de aprovechamiento urbano, previa evaluación ambiental estratégica y con respeto a las costumbres culturales de las comunidades y a las áreas de valor ecológico y arqueológico.
 
 Las políticas y las acciones específicas para la conservación, crecimiento y mejoramiento de los centros de población y zonas conurbadas, así como la zonificación de los mismos, se establecerán en los programas de desarrollo urbano, de conformidad con esta Ley, el Reglamento y la evaluación ambiental estratégica.
+
+#### SECCIÓN SEGUNDA. Calidad y Sustentabilidad de la Vivienda
 
 ###### Artículo 51.
 
@@ -1838,3 +1896,11 @@ SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códig
 TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 26 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 541 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
