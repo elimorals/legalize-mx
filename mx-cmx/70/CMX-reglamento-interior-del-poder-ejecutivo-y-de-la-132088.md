@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2020-02-12"
+last_updated: "2020-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE FEBRERO DE 2020.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -3134,7 +3134,9 @@ Corresponde a la Dirección General de Ordenamiento de la Vía Pública del Cent
 
 I. Acordar con la persona Titular de la Subsecretaría de Programas de Alcaldías y Reordenamiento de la Vía Pública el despacho de los asuntos relacionados con el seguimiento de las acciones realizadas en el Centro Histórico de la Ciudad;
 
-II. Planear, reorganizar y hacer propuestas de acciones tendientes a reordenar las actividades que se realizan en la vía pública del Centro Histórico;
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2020)</small>
+
+II. Planear, hacer propuestas, reorganizar y realizar de manera directa acciones tendientes a reordenar las actividades que se realizan en la vía pública del Centro Histórico;
 
 III. Coordinar las acciones interinstitucionales con las demás Dependencias, Unidades Administrativas, Alcaldías Y Órganos Desconcentrados de la Administración Pública, local y federal, así como organizaciones sociales, en materia de Reordenamiento en vía pública, en los Perímetros “A” y “B” del Centro Histórico de la Ciudad de México;
 
@@ -3147,6 +3149,10 @@ VI. Participar en la Comisión de Reordenamiento del Comercio en Vía Pública a
 VII. Recopilar y mantener actualizada la información de los locatarios y de quienes realizan actividades públicas en el Centro Histórico; y
 
 VIII. Participar y opinar sobre las propuestas de reglamentos, disposiciones jurídicas y administrativas en coordinación con la Secretaría de Gobierno, las Alcaldías y la Autoridad del Centro Histórico en materia de asuntos relativos a la vía pública de los Perímetros “A” y “B” del Centro Histórico.
+
+> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2020)</small>
+
+IX. Coordinar y ejecutar con apoyo de la Secretaría de Seguridad Ciudadana, las medidas administrativas que sean necesarias a fin de mantener o recuperar la vía pública mediante el retiro de obstáculos que impidan su uso adecuado en el Centro Histórico.
 
 ###### Artículo 69.
 
@@ -13923,3 +13929,11 @@ G.O. 12 DE FEBRERO DE 2020.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente decreto entrará en vigor el día de su publicación.
+
+G.O. 26 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA LA FRACCIÓN II Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 68 DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
