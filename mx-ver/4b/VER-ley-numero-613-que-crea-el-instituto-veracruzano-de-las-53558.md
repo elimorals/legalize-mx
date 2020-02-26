@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-613-que-crea-el-instituto-veracruzano-de-las-53558"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-09"
-last_updated: "2019-03-06"
+last_updated: "2020-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 613 QUE CREA EL INSTITUTO VERACRUZANO DE LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE FEBRERO DE 2020.
 
 Ley publicada en el Número Extraordinario 11 de la Gaceta Oficial del Estado de Veracruz, el martes 9 de enero de 2007.
 
@@ -61,7 +61,7 @@ El objeto de la presente Ley es la creación del Instituto Veracruzano de las Mu
 
 ###### Artículo 3.
 
-Las mujeres veracruzanas y aquéllas que se encuentren en territorio estatal, tendrán garantizada la participación en los programas y acciones que se deriven de la presente Ley, en condiciones que no impliquen cualquier tipo de discriminación conforme a los tratados internacionales suscritos y ratificados por el estado mexicano.
+Las mujeres veracruzanas y aquellas que se encuentren en territorio estatal, tendrán garantizada la participación en los programas y acciones que se deriven de la presente Ley, en condiciones que no impliquen cualquier tipo de discriminación conforme a los tratados internacionales suscritos y ratificados por el estado mexicano.
 
 > <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2016)</small>
 
@@ -85,9 +85,9 @@ IV. Secretaría Ejecutiva: Secretaría Ejecutiva del Instituto Veracruzano de la
 
 V. Consejo Consultivo: Consejo Consultivo del Instituto Veracruzano de las Mujeres.
 
-VI. Consejo Social: Consejo Social de Instituto Veracruzano de las Mujeres.
+VI. Consejo Social: Consejo Social del Instituto Veracruzano de las Mujeres.
 
-VII. Reglamento Interno: Reglamento Interno de Instituto Veracruzano de las Mujeres.
+VII. Reglamento Interno: Reglamento Interno del Instituto Veracruzano de las Mujeres.
 
 VIII. Género: Concepto que se refiere a los valores, atributos, roles y representaciones que la sociedad asigna a mujeres y hombres.
 
@@ -99,9 +99,9 @@ X. Perspectiva de género: Concepto que se refiere a la metodología y los mecan
 
 XI. Transversalidad: Estrategia metodológica para garantizar la inclusión de la perspectiva de género en cualquier acción que se planifique, cuando se trate de políticas, programas, acciones, presupuestos, actividades administrativas y económicas, en el marco de los contextos institucionales.
 
-XII. Políticas Públicas. Las acciones de gobierno dirigidas a la colectividad para propiciar condiciones de bienestar económico en igualdad de oportunidades.
+XII. Políticas públicas. Las acciones de gobierno dirigidas a la colectividad para propiciar condiciones de bienestar económico en igualdad de oportunidades.
 
-XIII. Acciones Afirmativas: Normas y políticas públicas de carácter temporal tendentes a buscar la equidad entre los géneros, otorgando derechos a desiguales para establecer dicha equidad.
+XIII. Acciones afirmativas: Normas y políticas públicas de carácter temporal tendentes a buscar la equidad entre los géneros, otorgando derechos a desiguales para establecer dicha equidad.
 
 > <small>(ADICIONADA, G.O. 6 DE MARZO DE 2019)</small>
 
@@ -147,7 +147,9 @@ III. Diseñar la metodología para la elaboración de presupuestos con perspecti
 
 IV. Dar seguimiento y evaluar, a través de un órgano externo e independiente, mediante indicadores de género, el impacto de las políticas públicas, programas y acciones, implementadas en la administración pública estatal;
 
-V. Realizar un diagnóstico integral de la situación de las mujeres, en coordinación con la sociedad civil e instituciones académicas públicas y privadas.
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2020)</small>
+
+V. Realizar y actualizar un diagnóstico integral de la situación de las mujeres, en coordinación con la sociedad civil e instituciones académicas públicas y privadas;
 
 VI. Promover y fomentar la investigación con enfoque de género, sobre las diferentes problemáticas que enfrentan las mujeres.
 
@@ -197,6 +199,58 @@ XVII. Difundir entre la sociedad civil, los programas nacionales e instrumentos 
 
 XVIII. Concertar y formalizar acuerdos, convenios y toda clase de documentos e instrumentos jurídicos con autoridades federales, estatales y municipales y en su caso, con los sectores social y privado para establecer políticas, acciones y programas inherentes al objeto del Instituto.
 
+> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2020)</small>
+
+XIX. Capacitar a las Unidades de Género de la administración pública estatal, de los poderes Legislativo, Judicial y de los organismos autónomos, para transversalizar la perspectiva de género en el ámbito estatal, con el fin de lograr la igualdad sustantiva entre mujeres y hombres;
+
+> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2020)</small>
+
+XX. Dar seguimiento a los indicadores con perspectiva de género de las dependencias y entidades del Poder Ejecutivo, de las Categorías Programáticas con Perspectiva de Género, del Decreto de Presupuesto de Egresos del Gobierno del Estado, con el fin de evaluar los avances en la transversalidad y la igualdad de género en los programas;
+
+> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2020)</small>
+
+XXI. Ejecutar de conformidad con las reglas de operación, los programas que, en favor de la igualdad y una vida libre de violencia para las mujeres, opera la Federación a través del Instituto;
+
+> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2020)</small>
+
+XXII. Implementar la profesionalización y formación permanente del personal del Instituto, a través de un servicio civil de carrera con perspectiva de género;
+
+> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2020)</small>
+
+XXIII. Mantener vinculación permanente con las autoridades de procuración, impartición y administración de justicia, así como con las de atención a víctimas, con el fin de conjuntar esfuerzos para eliminar cualquier forma de discriminación contra las mujeres;
+
+> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2020)</small>
+
+XXIV. Generar la participación de las y los actores sociales en el diseño, formulación y evaluación de las políticas públicas que tengan por objeto lograr la igualdad sustantiva entre mujeres y hombres;
+
+> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2020)</small>
+
+XXV. Mantener vinculación con la Comisión Estatal de Derechos Humanos de Veracruz, con el fin de conocer y en su caso, coadyuvar con las quejas que interpongan por violación a los derechos humanos de las mujeres;
+
+> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2020)</small>
+
+XXVI. Establecer vinculación permanente con la Secretaría de Finanzas y Planeación para la implementación de la capacitación con perspectiva de género en la administración pública estatal;
+
+> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2020)</small>
+
+XXVII. Asesorar a los Ayuntamientos para transversalizar la perspectiva de género en la administración pública municipal;
+
+> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2020)</small>
+
+XXVIII. Capacitar de manera permanente al personal de los Institutos Municipales de las Mujeres, para el desempeño de sus atribuciones;
+
+> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2020)</small>
+
+XXIX. Orientar a los Ayuntamientos sobre la atención que brindan a las mujeres en materia de derechos humanos y de su acceso a una vida libre de violencia;
+
+> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2020)</small>
+
+XXX. Fortalecer las Oficinas Regionales del Instituto, de acuerdo a las necesidades de las mujeres de cada región donde se establezcan; y
+
+> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2020)</small>
+
+XXXI. Las demás que le señale la legislación aplicable.
+
 ### Capítulo III. De la estructura orgánica del Instituto
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MARZO DE 2019)</small>
@@ -211,7 +265,7 @@ I. Junta de Gobierno
 
 II. Dirección General
 
-III. Secretaría ejecutiva
+III. Secretaria ejecutiva
 
 > <small>(ADICIONADA, G.O. 6 DE MARZO DE 2019)</small>
 
@@ -271,13 +325,11 @@ Para el cumplimiento de las atribuciones del Instituto, la Junta de Gobierno ten
 
 I. Establecer las políticas generales, los programas sectoriales y definir las prioridades a las que deberá sujetarse el Instituto.
 
-II. Designar a la secretaría ejecutiva del Instituto.
+II. Designar a la secretaria ejecutiva del Instituto.
 
 III. Aprobar el Reglamento Interno, las bases de organización general del Instituto y los manuales de procedimientos.
 
-IV. Analizar y, en su caso aprobar los informes periódicos que rinda la directora del
-
-Instituto.
+IV. Analizar y, en su caso, aprobar los informes periódicos que rinda la directora del Instituto.
 
 V. Analizar y, en su caso, aprobar el presupuesto y los estados financieros presentados por la directora, autorizar su publicación previo informe y dictamen del Órgano Interno de Control.
 
@@ -653,7 +705,7 @@ El Órgano Interno de Control estará integrado por un Comisario Público y un s
 
 El Instituto contará con patrimonio propio y se integrará con:
 
-I. La partida presupuestal que se designe en el Presupuesto de Egresos del Estado;
+I. La partida presupuestal que se le designe en el Presupuesto de Egresos del Estado;
 
 II. Las aportaciones, bienes muebles e inmuebles y demás ingresos de los gobiernos federal, estatal y municipal y los que le sean transmitidos por el sector privado;
 
@@ -687,7 +739,7 @@ El servicio público de Carrera se implementará, para asegurar la objetividad y
 
 Primero. La presente Ley, entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
-Segundo. Para efectos del artículo 38, por única vez para la integración de los consejos consultivo y social del Instituto, la primera convocatoria será emitida por el titular del Ejecutivo del Estado en coordinación con la Comisión de Equidad, Género y Familia del H. Congreso del Estado de Veracruz de Ignacio de la Llave, e integrará los Consejos en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor de la presente Ley.
+Segundo. Para los efectos del artículo 38, por única vez para la integración de los consejos consultivo y social del Instituto, la primera convocatoria será emitida por el titular del Ejecutivo del Estado en coordinación con la Comisión de Equidad, Género y Familia del H. Congreso del Estado de Veracruz de Ignacio de la Llave, e integrará los Consejos en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor de la presente Ley.
 
 Tercero. Los consejos consultivo y social, en un periodo no mayor de veintiún días a partir de su integración, emitirán la convocatoria y seleccionarán la terna que presentarán al Ejecutivo del Estado para designar a la titular del Instituto.
 
@@ -697,21 +749,21 @@ Quinto. La Junta de Gobierno del Instituto deberá quedar constituida en un plaz
 
 Sexto. La Junta de Gobierno aprobará y expedirá el Reglamento Interno del Instituto, en un plazo no mayor a noventa días hábiles a partir de la fecha de su instalación.
 
-Séptimo. Los recursos materiales y presupuestales con los que cuenta actualmente el Programa Estatal de la Mujer, pasarán a formar parte del Instituto. Los derechos y prestaciones laborales del personal que se transfiere al Instituto, serán reconocidos con estricto apego a la Ley.
+Séptimo. Los recursos materiales y presupuestales con los que cuenta actualmente el Programa Estatal de la Mujer, pasarán a formar parte del Instituto. Los derechos y prestaciones laborales del personal que se transfiere al Instituto, serán reconocidos con estricto apego a la ley.
 
 Octavo. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a la presente Ley.
 
-Dada en el salón de sesiones de la LX Legislatura del Honorables Congreso del Estado, en la ciudad de Xalapa-Enríquez, Veracruz de Ignacio de la Llave, a los trece días del mes de diciembre del año dos mil seis. Juan Nicolás Callejas Arrollo, diputado presidente.-Rúbrica. César Ulises García Vázquez, diputado secretario.-Rúbrica.
+Dada en el salón de sesiones de la LX Legislatura del Honorable Congreso del Estado, en la ciudad de Xalapa-Enríquez, Veracruz de Ignacio de la Llave, a los trece días del mes de diciembre del año dos mil seis. Juan Nicolás Callejas Arrollo, diputado presidente.-Rúbrica. César Ulises García Vázquez, diputado secretario.-Rúbrica.
 
 Por lo tanto, en atención a lo dispuesto por el artículo 49 fracción II de la Constitución Política del Estado, y en cumplimiento del oficio SG/5827 de los diputados presidente y secretario de la Sexagésima Legislatura del Honorable Congreso del Estado mando se publique y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los veintiséis días del mes de diciembre del año dos mil seis.
 
 Atentamente
 
-Sufragio Efectivo. No reelección
+Sufragio efectivo. No reelección
 
 Licenciado Fidel Herrera Beltrán
 
-Gobernador del Estado.- Rúbrica
+Gobernador del Estado.- Rúbrica.
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
@@ -732,3 +784,11 @@ SEGUNDO. El titular del Ejecutivo Estatal, dentro de los treinta días siguiente
 TERCERO. Los recursos para llevar a cabo la implementación de las acciones que se deriven del presente Decreto se cubrirán con cargo al presupuesto autorizado al Instituto Veracruzano de las Mujeres, para el presente ejercicio fiscal y los subsecuentes.
 
 CUARTO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+G.O. 26 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 535 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES AL ARTÍCULO 8 DE LA LEY QUE CREA EL INSTITUTO VERACRUZANO DE LAS MUJERES".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
