@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-metropolitana-del-estado-de-jalisco-79320"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-03"
-last_updated: "2019-12-28"
+last_updated: "2020-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 3 de febrero de 2011.
 
@@ -635,7 +635,9 @@ Instancias y órganos auxiliares de coordinación.
 
 I. La Junta de Coordinación Metropolitana, en adelante la Junta;
 
-II. El Instituto Metropolitano de Planeación, en adelante el Instituto;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+II. El Instituto de Planeación y Gestión del Desarrollo, en adelante el Instituto;
 
 > <small>(REFORMADA, P.O. 11 DE ENERO DE 2018)</small>
 
@@ -1328,5 +1330,11 @@ P.O. 24 DE OCTUBRE DE 2019.
 P.O. 28 DE DICIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27761/LXII/19 QUE REFORMA EL ARTÍCULOS (SIC) 27 NUMERAL 1 DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 27 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27808/LXII/20 MEDIANTE EL CUAL SE REFORMA (SIC) LOS ARTÍCULOS 26, NUMERAL 1, FRACCIÓN II DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO Y EL ARTÍCULO 10, FRACCIÓN XLIX DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
