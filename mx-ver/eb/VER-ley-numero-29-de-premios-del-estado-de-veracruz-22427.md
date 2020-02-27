@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-29-de-premios-del-estado-de-veracruz-22427"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-12"
-last_updated: "2019-06-20"
+last_updated: "2020-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 29 DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE FEBRERO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 12 de octubre de 2001.
 
@@ -47,11 +47,11 @@ DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ### Capítulo Primero. Disposiciones Comunes
 
-> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general, y rige el otorgamiento de la Medalla Veracruz, la Medalla Adolfo Ruiz Cortines, el Premio Veracruz, la Medalla General Ignacio de la Llave, las Medallas Carlos A. Carrillo y Enrique C. Rébsamen, el Premio Estatal a la Mujer y la Medalla Heberto Castillo Martínez, que los Poderes Ejecutivo y Legislativo del Estado conceden a las personas distinguidas por su conducta y acciones, en los términos que la misma establece.
+La presente Ley es de orden público e interés general, y rige el otorgamiento de la Medalla Veracruz, la Medalla Adolfo Ruiz Cortines, el Premio Veracruz, la Medalla General Ignacio de la Llave, las Medallas Carlos A. Carrillo y Enrique C. Rébsamen, el Premio Estatal a la Mujer, la Medalla Heberto Castillo Martínez y la Medalla al Mérito por la Defensa y Mejora del Medio Ambiente, que los Poderes Ejecutivo y Legislativo del Estado conceden a las personas físicas o morales distinguidas por su conducta y acciones en los términos que la misma establece.
 
 ### Capítulo Segundo. De la Medalla Veracruz
 
@@ -403,6 +403,42 @@ I. En el anverso, al centro el Escudo del Estado de Veracruz de Ignacio de la Ll
 
 II. En el reverso, al centro el busto del Ingeniero Heberto Castillo Martínez, en relieve escultórico con la leyenda, en el exergo superior, Medalla “Heberto Castillo Martínez”.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 27 DE FEBRERO DE 2020)</small>
+
+### Capítulo Noveno. De la Medalla al Mérito por la Defensa y Mejora del Medio Ambiente
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
+
+Artículo 23 Quindecies. Esta medalla la concederá el Congreso del Estado anualmente, será entregada a Persona Física, Persona Moral o Municipio, que se distinga y haya contribuido por sus acciones y méritos en la defensa y mejora del medio ambiente.
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
+
+Artículo 23 Sexdecies. Para el otorgamiento de la Medalla al Mérito por la Defensa y Mejora del Medio Ambiente, se seguirá el procedimiento siguiente:
+
+I. El Congreso del Estado en la primera semana del mes de abril de cada año, a través de la Comisión Permanente de Medio Ambiente, Recursos Naturales y Cambio Climático, emitirá la convocatoria para que se proponga a persona, ya sea física o moral, que se considere merecedora de la distinción;
+
+II. Las propuestas que se hagan con motivo de la convocatoria deberán acompañarse con una semblanza y exposición de motivos;
+
+III. Concluido el término de la convocatoria, la Comisión Permanente seleccionará, de entre las propuestas, a tres que a su juicio sean las de mayor mérito a recibir la distinción, razonando y motivando su decisión; y
+
+IV. El dictamen de la Comisión se someterá a la consideración del Pleno del Congreso, que decidirá a quién se le otorga la Medalla.
+
+Para efectos de complementariedad, los conceptos previstos en este artículo, se tendrán referidos a lo dispuesto en el artículo 1 de la presente Ley.
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
+
+Artículo 23 Septendecies. La Medalla al Mérito por la Defensa y Mejora del Medio Ambiente será entregada cada año en sesión solemne del Congreso del Estado a celebrarse el 5 de junio, con la presencia del Titular del Ejecutivo del Estado y del Presidente del Tribunal Superior de Justicia del Estado.
+
+Asimismo, se entregará al merecedor de la Medalla un Diploma en el que se expresen las razones por las cuales se confiere esta distinción.
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
+
+Artículo 23 Octadecies. La Medalla al Mérito por la Defensa y Mejora del Medio Ambiente deberá ser fabricada con materiales reciclados y tendrá las características siguientes:
+
+I. En el anverso, al centro, el Escudo del Estado de Veracruz de Ignacio de la Llave con la leyenda en el encabezado “Estado Libre y Soberano de Veracruz de Ignacio de la Llave”;
+
+II. En el Reverso, al centro, el contorno del mapa del Estado de Veracruz, relleno de imágenes alusivas a un medio ambiente sano, con la leyenda en el encabezado superior “AL MÉRITO POR LA DEFENSA Y MEJORA DEL MEDIO AMBIENTE”. En la parte inferior se establecerá el año en el que se otorga la Medalla y el número de la Legislatura.
+
 ## TÍTULO SEGUNDO. DE LA ROTONDA DE LOS HOMBRES ILUSTRES DEL ESTADO DE VERACRUZ
 
 ###### Artículo 24.
@@ -514,6 +550,14 @@ Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
 G.O. 20 DE JUNIO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 262 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 27 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 542 QUE REFORMA EL ARTÍCULO 1 Y ADICIONA UN CAPÍTULO NOVENO AL TÍTULO PRIMERO Y LOS ARTÍCULOS 23 QUINDECIES, 23 SEXDECIES, 23 SEPTENDECIES Y 23 OCTADECIES DE LA LEY DE PREMIOS DEL ESTADO DE VERACRUZ”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
