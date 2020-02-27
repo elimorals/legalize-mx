@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-mental-para-el-estado-de-jalisco-97049"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-04"
-last_updated: "2019-10-08"
+last_updated: "2020-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE SALUD MENTAL PARA EL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SALUD MENTAL PARA EL ESTADO DE JALISCO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO NÚMERO 24809/LX/13, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS 30 DÍAS SIGUIENTES DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL "EL ESTADO DE JALISCO".</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 4 de enero de 2014.
 
@@ -199,9 +199,11 @@ III. Proporcionar material informativo básico en salud mental a los padres o tu
 
 La Secretaría de Educación, deberá coordinarse con las instituciones de educación privada, a efecto de que se apliquen las acciones señaladas en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 11.
 
-Para la atención de la salud mental, la Secretaría, en coordinación con la Fiscalía de Reinserción Social de la Fiscalía General del Estado, implementará acciones en materia de salud mental, a través de las áreas competentes.
+Para la atención de la salud mental, la Secretaría, en coordinación con la Fiscalía de Reinserción Social de la Fiscalía Estatal, implementará acciones en materia de salud mental, a través de las áreas competentes.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
@@ -275,13 +277,15 @@ k) Promover los principios de equidad y no discriminación en el acceso y presta
 
 ### Capítulo IV. Del Consejo Estatal de Salud Mental
 
-> <small>[N. DE E. DEL ANÁLISIS DEL DECRETO 27193/LXII/18 PUBLICADO EN EL PERIÓDICO OFICIAL EL 5 DE DICIEMBRE DE 2018, SE ADVIERTE QUE EL ANTERIOR PRIMER Y SEGUNDO PÁRRAFOS SE REFORMAN Y FUSIONAN PARA QUEDAR COMO EL ACTUAL PRIMER PÁRRAFO DEL ARTÍCULO 16.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 16.
 
-El Consejo Estatal de Salud Mental tiene a su cargo la consulta, el análisis y la asesoría para el desarrollo de planes programas, proyectos y acciones que en materia de salud mental aplique el Poder Ejecutivo y será integrado en forma permanente por:
+El Consejo Estatal de Salud Mental, es un órgano de consulta, coordinación y asesoría del Gobierno del Estado, que tiene por objeto planear y programar acciones, así como evaluar los servicios de salud mental que se brindan en el Estado de Jalisco.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 27 DE FEBRERO DE 2020)</small>
+
+Tiene a su cargo la consulta, el análisis y la asesoría para el desarrollo de planes, programas, proyectos y acciones que en materia de salud mental aplique el Poder Ejecutivo y será integrado en forma permanente por:
 
 I. El Gobernador del Estado, quien será el Presidente Honorario;
 
@@ -289,21 +293,33 @@ II. El Secretario de Salud del Estado, quien fungirá como Presidente Ejecutivo;
 
 III. El Director del Instituto, quien fungirá como el Secretario Técnico; y
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 IV. Los siguientes participantes en calidad de Consejeros:
 
-a) El Fiscal General del Estado;
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
+
+a) El Fiscal Estatal;
+
+(REPUBLICADO, P.O. 27 DE FEBRERO DE 2020)
 
 b) El Secretario de Educación;
 
-c) El Secretario de Desarrollo e Integración Social;
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
 
-d) El Secretario de Planeación, Administración y Finanzas;
+c) El Secretario del Sistema de Asistencia Social;
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
+
+d) El Secretario de la Hacienda Pública;
+
+(REPUBLICADO, P.O. 27 DE FEBRERO DE 2020)
 
 e) El Secretario del Trabajo y Previsión Social;
 
-f) El Presidente de la Comisión de Higiene y Salud Pública del Poder Legislativo;
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
+
+f) El Presidente de la Comisión de Higiene, Salud Pública y Prevención de las Adicciones del Poder Legislativo;
 
 g) Los rectores de las Universidades en el Estado que expidan título de médico psiquiatra;
 
@@ -416,3 +432,11 @@ P.O. 8 DE OCTUBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 27 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27810/LXII/20 MEDIANTE EL CUAL SE REFORMA EL (SIC) ARTÍCULOS 11 Y 16 DE LA LEY DE SALUD MENTAL PARA EL ESTADO DE JALISCO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
