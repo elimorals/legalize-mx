@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-centro-de-justicia-para-las-mujeres-del-estado-de-12236
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2019-03-05"
+last_updated: "2020-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 3 de junio de 2017.
 
@@ -373,9 +373,11 @@ Para ser Coordinadora del Centro se requiere:
 
 I. Ser de sexo femenino;
 
-II. Tener cuando menos veinticinco años de edad el día de su nombramiento;
+II. (DEROGADA, P.O. 27 DE FEBRERO DE 2020)
 
-III. Contar con título y cédula profesional legalmente expedido por institución competente;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+III. Contar con título y cédula profesional legalmente expedidos por institución competente, con antigüedad al menos de tres años al día de su designación;
 
 IV. Contar con cuando menos tres años de experiencia en materias relacionadas con la atención a víctimas, y
 
@@ -1242,5 +1244,13 @@ P.O. 5 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0125.- SE DEROGA EL ARTÍCULO 18 DE LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0591.- SE REFORMA EL ARTÍCULO 20 EN SU FRACCIÓN III; Y DEROGA DEL MISMO ARTÍCULO 20 LA FRACCIÓN II, DE LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
