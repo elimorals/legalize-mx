@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2019-10-23"
+last_updated: "2020-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE TRANSITO DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -439,7 +441,9 @@ Corresponde al Ejecutivo del Estado, a través de la Secretaría, la expedición
 
 Las placas y la tarjeta de circulación se entregarán en uso y custodia al interesado, ya que son documentos públicos, por lo que deberán entregarse al efectuar el canje correspondiente, o tramitar el aviso de baja a que se refiere el artículo 28 de esta Ley.
 
-La Secretaría, previo convenio con la autoridad municipal, podrá autorizar la entrega de permisos para circular sin placas y tarjeta de circulación por conducto de la autoridad municipal, para aquellos vehículos de su demarcación, previo cumplimiento de los requisitos de ley.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
+
+La Secretaría deberá implementar un registro que contenga la base de datos de todos los permisos provisionales para circular sin placas y tarjeta de circulación, en el que se incorporen los datos de identificación de los vehículos. Asimismo, previo convenio con la autoridad municipal, autorizará que sean éstas quienes emitan y entreguen dichos permisos, debiendo en todo caso obligarse a hacerlo en los formatos únicos que para tal efecto emita la Secretaría. Los municipios que entreguen permisos en los términos de esta Ley, deberán alimentar la base de datos o entregar la información respectiva a la Secretaría, de conformidad con lo que en cada caso hayan establecido en el convenio respectivo.
 
 > <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2019)</small>
 
@@ -1728,5 +1732,13 @@ P.O. 23 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0283.- SE ADICIONA (SIC) PÁRRAFO AL ARTÍCULO 20 DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0585.- SE REFORMA EL ARTÍCULO 20 EN SU PÁRRAFO CUARTO, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor dentro de los ciento ochenta días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
