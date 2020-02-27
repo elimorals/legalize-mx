@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2019-11-08"
+last_updated: "2020-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -767,9 +767,9 @@ Para la explotación del servicio público de transporte en las modalidades corr
 
 Las concesiones de los servicios especiales de transporte de trabajadores se expedirán a personas físicas o morales.
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
 
-Las concesiones podrán ser otorgadas a viudas que comprueben vínculo matrimonial con el operador que haya fallecido, y que esté haya estado más de quince años trabajando como chofer en la modalidad de automóvil de alquiler en sitio.
+Podrán participar en el procedimiento de concurso para el otorgamiento de concesiones para la modalidad de automóvil de alquiler, las y los viudos, y las y los concubinos que comprueben el vínculo que corresponda con el operador que haya fallecido; comprueben en su momento que éste fue operador en esa modalidad, y siempre y cuando el o la viuda, o el o la concubina, no sea o haya sido titular de una concesión.
 
 ###### ARTICULO 39.
 
@@ -3104,3 +3104,11 @@ P.O. 8 DE NOVIEMBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0590.- SE REFORMA EL ARTÍCULO 38 EN SU PÁRRAFO ÚLTIMO, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
