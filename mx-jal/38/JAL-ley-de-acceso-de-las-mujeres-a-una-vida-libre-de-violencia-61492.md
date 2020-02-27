@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2019-11-30"
+last_updated: "2020-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -287,9 +287,9 @@ II. La Secretaría General de Gobierno, quien será el Presidente Ejecutivo del 
 
 III. La Secretaría del Sistema de Asistencia Social;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
 
-IV. La Fiscalía del Estado de Jalisco;
+IV. La Fiscalía Estatal;
 
 > <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
@@ -653,9 +653,9 @@ X. Promover y difundir conocimientos y prácticas de respeto a los derechos de l
 
 XI. Las demás previstas para el cumplimiento de la presente ley.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MARZO DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2020)</small>
 
-#### Sección Cuarta. De la Fiscalía del Estado de Jalisco
+#### Sección Cuarta. De la Fiscalía Estatal y la Secretaría de Seguridad
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2014)</small>
 
@@ -809,9 +809,9 @@ IV. Fomentar y estimular las manifestaciones de la creación intelectual y artí
 
 V. Las demás previstas para el cumplimiento de la presente ley.
 
-#### Sección Octava.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2020)</small>
 
-De la Secretaría del Trabajo.
+#### Sección Octava. De la Secretaría del Trabajo y Previsión Social
 
 ###### Artículo 32.
 
@@ -1642,5 +1642,11 @@ SEGUNDO. Las dependencias y entidades obligadas por la presente ley a crear los 
 P.O. 30 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27588/LXII/19 QUE REFORMA EL ARTÍCULO 17 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO, CON EL OBJETO DE INCORPORAR A LOS PODERES LEGISLATIVO Y JUDICIAL, AL CONSEJO ESTATAL PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 27 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27811/LXII/20 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 17 FRACCIÓN IV Y SE MODIFICA LA DENOMINACIÓN DE LAS SECCIONES CUARTA Y OCTAVA DEL CAPÍTULO CUARTO DEL TÍTULO SEGUNDO DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
