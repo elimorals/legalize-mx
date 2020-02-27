@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2020-02-26"
+last_updated: "2020-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE FEBRERO DE 2020.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -388,9 +388,17 @@ P) Dirección General de Patrimonio Inmobiliario, a la que le quedan adscritas:
 
 1. Dirección Ejecutiva de Avalúos;
 
-2. Dirección Ejecutiva de Administración Inmobiliaria; y
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2020)</small>
 
-3. Dirección Ejecutiva de Inventario Inmobiliario, Estudios Técnicos y de Información.
+2. Dirección Ejecutiva de Administración Inmobiliaria;
+
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2020)</small>
+
+3. Dirección Ejecutiva de Inventario Inmobiliario, Estudios Técnicos y de Información; y
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
+
+4. Dirección Ejecutiva de Normatividad y Consulta Inmobiliaria.
 
 III. A la Secretaría de la Contraloría General:
 
@@ -3972,7 +3980,7 @@ XVI. Formular los anteproyectos de acuerdos de carácter general en materia de o
 
 XVII. Opinar sobre los aspectos jurídicos de las iniciativas de leyes en las materias competencia de la Procuraduría Fiscal;
 
-XVIII. Realizar de manera bimestral las reuniones con las organizaciones de los particulares y los colegios de profesionistas con el fin de que se resuelva la problemática operativa e inmediata que se presenta en el cumplimiento de las obligaciones fiscales;
+XVIII. (DEROGADA, G.O. 27 DE FEBRERO DE 2020)
 
 XIX. Expedir copias certificadas de los documentos que obren en sus archivos sobre asuntos de su competencia, y de aquellos que expidan en el ejercicio de sus funciones, los servidores públicos que les estén subordinados;
 
@@ -4820,7 +4828,9 @@ IV. Requerir a las Dependencias, Unidades Administrativas, Órganos Desconcentra
 
 V. Proponer el programa anual de administración, racionalización, uso y aprovechamiento del patrimonio inmobiliario de la Ciudad de México;
 
-VI. Efectuar el registro y control de los contratos de arrendamiento de bienes inmuebles que con el carácter de arrendatario por conducto de sus Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades celebre el Gobierno de la Ciudad de México, así como las Alcaldías;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+VI. Efectuar el registro y control de los contratos de arrendamiento o comodato de bienes inmuebles que, con el carácter de arrendatario o comodatario por conducto de sus Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades celebre el Gobierno de la Ciudad de México, así como las Alcaldías;
 
 VII. Controlar los padrones de concesionarios, permisionarios, usuarios, destinatarios y asignatarios de los inmuebles propiedad de la Ciudad de México;
 
@@ -4928,37 +4938,53 @@ Corresponde a la Dirección Ejecutiva de Administración Inmobiliaria:
 
 I. Determinar, difundir, actualizar, verificar y requerir a las Dependencias, Unidades Administrativas y a los Órganos Desconcentrados de la Administración Pública, así como las Alcaldías, el cumplimiento de las normas, políticas y procedimientos, así como la información para documentar el desarrollo de las actividades del programa anual de necesidades inmobiliarias y arrendamiento de bienes inmuebles;
 
-II. Establecer las normas, criterios y políticas de administración, aprovechamiento y explotación de los inmuebles propiedad de la Ciudad de México, así como asesorar y supervisar a las Dependencias, Unidades Administrativas, y los Órganos Desconcentrados de la Administración Pública, así como las Alcaldías en la optimización de espacios físicos para oficinas y usos diversos, adecuaciones, remodelaciones y ampliaciones;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
-III. Requerir a las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Unidades Administrativas de Apoyo Técnico-Operativo de la Administración Pública, así como de las Alcaldías la información documental de los inmuebles propiedad del mismo;
+II. Colaborar en la elaboración del programa anual de administración, racionalización, uso y aprovechamiento del patrimonio inmobiliario de la Ciudad de México conforme a los requerimientos de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
 
-IV. Proponer el programa anual de administración, racionalización, uso y aprovechamiento del patrimonio inmobiliario de la Ciudad de México;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
-V. Efectuar el registro y control de los contratos de arrendamiento de bienes inmuebles que con el carácter de arrendatario por conducto de sus Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades, así como las Alcaldías, celebre el Gobierno de la Ciudad de México;
+III. Coadyuvar en el establecimiento de las normas, criterios y políticas de administración, aprovechamiento y explotación de los inmuebles propiedad de la Ciudad de México, así como asesorar y supervisar a las Dependencias, Unidades Administrativas, y los Órganos Desconcentrados de la Administración Pública, así como a las Alcaldías en la optimización de espacios físicos para oficinas y usos diversos, adecuaciones, remodelaciones y ampliaciones;
 
-VI. Controlar los padrones de concesionarios, permisionarios, usuarios, destinatarios y asignatarios de los inmuebles propiedad de la Ciudad de México;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
-VII. Intervenir en los procedimientos para el apeo y deslinde de los inmuebles propiedad de la Ciudad de México;
+IV. Realizar el análisis de proyectos de escrituras públicas, convenios, contratos, permisos, títulos, y todos aquellos instrumentos legales, en materia inmobiliaria, que deban ser suscritos por la persona Titular de la Dirección General de Patrimonio Inmobiliario;
 
-VIII. Gestionar y promover en el ámbito de su competencia, las recuperaciones administrativas y judiciales, así como ordenar la recuperación administrativa y coadyuvar en los procedimientos de inmatriculaciones de inmuebles propiedad de la Ciudad de México;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
-IX. Instrumentar las opiniones sobre el uso, aprovechamiento y destino de los inmuebles propiedad de la Ciudad de México;
+V. Colaborar en el registro y control de los contratos de arrendamiento o comodato de bienes inmuebles que con el carácter de arrendatario o comodatario que, por conducto de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades, así como las Alcaldías, celebre el Gobierno de la Ciudad de México;
 
-X. Substanciar el procedimiento de revocación y caducidad de las concesiones, permisos y autorizaciones respecto de inmuebles propiedad de la Ciudad de México, proponiendo la determinación procedente;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
-XI. Intervenir en la entrega-recepción de los inmuebles que incidan en el patrimonio inmobiliario de la Ciudad de México, así como formalizar las asignaciones;
+VI. Participar en el control de los padrones de concesionarios y permisionarios de los inmuebles propiedad de la Ciudad de México;
 
-XII. Determinar e imponer las sanciones contenidas en la Ley de Régimen Patrimonial y del Servicio Público;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
-XIII. Establecer los lineamientos para aceptar donaciones de inmuebles en favor de la Ciudad de México;
+VII. Coadyuvar en los procedimientos de inmatriculaciones de inmuebles propiedad de la Ciudad de México;
 
-XIV. Establecer los lineamientos de todo tipo de contratos inmobiliarios que elaboren o suscriban las Dependencias, Unidades Administrativas, los Órganos Desconcentrados y Entidades de la Administración Pública, así como las Alcaldías, que tengan competencia para ello;
+VIII. (DEROGADA, G.O. 27 DE FEBRERO DE 2020)
 
-XV. Asesorar, en el ámbito de sus atribuciones, a las Dependencias, Unidades Administrativas, a los Órganos Desconcentrados y Entidades de la Administración Pública, así como las Alcaldías;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+IX. Instrumentar las opiniones sobre el uso, aprovechamiento y explotación de los inmuebles propiedad de la Ciudad de México, para ser permisionados o concesionados;
+
+X. (DEROGADA, G.O. 27 DE FEBRERO DE 2020)
+
+XI. (DEROGADA, G.O. 27 DE FEBRERO DE 2020)
+
+XII. (DEROGADA, G.O. 27 DE FEBRERO DE 2020)
+
+XIII. (DEROGADA, G.O. 27 DE FEBRERO DE 2020)
+
+XIV. (DEROGADA, G.O. 27 DE FEBRERO DE 2020)
+
+XV. (DEROGADA, G.O. 27 DE FEBRERO DE 2020)
 
 XVI. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
 
-XVII. Las demás que le sean conferidas por la Secretaría de Administración y Finanzas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XVII. Las demás que le sean conferidas por la persona titular de la Dirección General de Patrimonio Inmobiliario y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 ###### Artículo 123.
 
@@ -4981,6 +5007,36 @@ VII. Analizar y, en su caso promover la utilización de sistemas de información
 VIII. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
 
 IX. Las demás que le sean conferidas por la Secretaría de Administración y Finanzas; las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
+
+###### Artículo 123 Bis.
+
+Corresponde a la Dirección Ejecutiva de Normatividad y Consulta Inmobiliaria:
+
+I. Proponer la normatividad en materia de control, administración, aprovechamiento y explotación respecto de los bienes inmuebles propiedad de la Ciudad de México;
+
+II. Proponer los lineamientos de todo tipo de contratos inmobiliarios que elaboren o suscriban las Dependencias, Unidades Administrativas, los Órganos Desconcentrados y Entidades de la Administración Pública, así como las Alcaldías, que tengan competencia para ello;
+
+III. Colaborar en el establecimiento de los lineamientos para aceptar donaciones de inmuebles en favor de la Ciudad de México;
+
+IV. Asesorar en materia inmobiliaria a las Dependencias, Unidades Administrativas, a los Órganos Desconcentrados y Entidades de la Administración Pública, así como las Alcaldías;
+
+V. Instrumentar las opiniones sobre el uso, aprovechamiento, destino y explotación de los inmuebles propiedad de la Ciudad de México para ser asignados a las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Entidades y Alcaldías;
+
+VI. Participar en el control del padrón de asignatarios de los inmuebles propiedad de la Ciudad de México;
+
+VII. Substanciar el procedimiento de revocación y caducidad de las concesiones, permisos y autorizaciones respecto de inmuebles propiedad de la Ciudad de México, proponiendo la determinación procedente;
+
+VIII. Intervenir en la entrega-recepción de los inmuebles que incidan en el patrimonio inmobiliario de la Ciudad de México, así como formalizar las asignaciones;
+
+IX. Gestionar y promover en el ámbito de su competencia, las recuperaciones administrativas y judiciales;
+
+X. Determinar e imponer las sanciones contenidas en la Ley de Régimen Patrimonial y del Servicio Público, y en su caso remitir a la autoridad fiscal para el procedimiento administrativo de ejecución;
+
+XI. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
+
+XII. Las demás que le sean conferidas por la persona titular de la Dirección General de Patrimonio Inmobiliario y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 ###### Artículo 124.
 
@@ -11450,53 +11506,69 @@ Para el despacho de los asuntos que competen a la Agencia Digital de Innovación
 
 2. Dirección Ejecutiva de Gestión de Proyectos;
 
-> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2019)</small>
+3. (DEROGADO, G.O. 27 DE FEBRERO DE 2020)
 
-3. Dirección General de Centro de Gobierno Honesto;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 27 DE FEBRERO DE 2020)</small>
 
-> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2019)</small>
+4. Dirección General de Operación Tecnológica, a la que se encuentran adscritas:
 
-4. Dirección General de Centro de Desarrollo Tecnológico;
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
 
-> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2019)</small>
+4.1. Dirección Ejecutiva de Infraestructura Tecnológica;
 
-5. Dirección General de Centro de Conectividad e Infraestructura Tecnológica, a la que queda adscrita:
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
 
-> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2019)</small>
+4.2. Dirección Ejecutiva de Arquitectura de Software;
 
-5.1. Dirección Ejecutiva de Tecnologías de la Información;
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
+
+4.3. Dirección Ejecutiva de Gestión y Control de Desarrollo de Software.
+
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2020)</small>
+
+5. Dirección General de Centro de Conectividad e Infraestructura de Telecomunicaciones.
+
+5.1. (DEROGADO, G.O. 27 DE FEBRERO DE 2020)
 
 > <small>(REFORMADO, G.O. 14 DE JUNIO DE 2019)</small>
 
 6. Dirección General de Contacto Ciudadano;
 
-> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 27 DE FEBRERO DE 2020)</small>
 
-7. Dirección General de Centro de Inteligencia;
+7. Dirección General de Gobierno Digital, a la que se encuentran adscritas:
 
-> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
 
-8. Dirección General de Centro de Normatividad Tecnológica;
+7.1. Dirección Ejecutiva de Política de Datos;
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
+
+7.2. Dirección Ejecutiva de Simplificación Estratégica;
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
+
+7.3. Dirección Ejecutiva de Gobierno Electrónico.
+
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2020)</small>
+
+8. Dirección General de Operación Institucional.
 
 > <small>(REFORMADO, G.O. 14 DE JUNIO DE 2019)</small>
 
 9. Coordinación General de Proyectos e Innovación, a la que le quedan adscritas:
 
-> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2020)</small>
 
-9.1. Dirección Ejecutiva Interinstitucional;
+9.1. Dirección Ejecutiva Interinstitucional; y
 
-> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2020)</small>
 
-9.2. Dirección Ejecutiva de Control de Proyectos; y
+9.2. Dirección Ejecutiva de Control de Proyectos.
 
-> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2019)</small>
+10. (DEROGADO, G.O. 27 DE FEBRERO DE 2020)
 
-10. Dirección General de Centro de Reingeniería Gubernamental, a la que le queda adscrita:
-
-> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2019)</small>
-
-10.1 Dirección Ejecutiva de Simplificación Estratégica.
+10.1. (DEROGADO, G.O. 27 DE FEBRERO DE 2020)
 
 ###### Artículo 279.
 
@@ -11630,7 +11702,9 @@ II. Coordinar el establecimiento y delimitación de los objetivos, así como eva
 
 III. Establecer en el ámbito de su competencia las directrices y mecanismos de coordinación y colaboración con las diversas Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, así como con las instancias del ámbito Federal, Estatal o Municipal e Instituciones, Órganos u Organismos, Nacionales e Internacionales, Públicos y Privados, para el desarrollo y ejecución de los proyectos de la Agencia Digital de Innovación Pública de la Ciudad de México;
 
-IV. Recabar los requerimientos y evaluar las necesidades y propuestas para generar los proyectos que soliciten las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México a la Agencia Digital de Innovación Pública de la Ciudad de México, así como asignarlos a las Direcciones Generales y Ejecutivas que la integran, para su desarrollo;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+IV. Asignar a las Direcciones Generales y Ejecutivas que integran la Agencia Digital de Innovación Pública de la Ciudad de México, los proyectos de desarrollo de soluciones tecnológicas que soliciten las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, que hubieren sido previamente autorizados;
 
 V. Coordinar e instrumentar el registro de los proyectos que desarrolle la Agencia Digital de Innovación Pública de la Ciudad de México;
 
@@ -11642,115 +11716,177 @@ VIII. Coordinar la estrategia de comunicación interna y externa con la finalida
 
 IX. Organizar, coordinar y dar seguimiento a los acuerdos de las reuniones de trabajo internas y/o interinstitucionales, que se realicen para la recopilación de la información relacionada con el desarrollo de los productos de la Agencia Digital de Innovación Pública de la Ciudad de México;
 
-X. Emitir los lineamientos administrativos internos con los que deberá cumplir la documentación de cada uno de los productos desarrollados por sus Unidades Administrativas, así como formular las directrices de los manuales técnicos con apoyo de la Dirección General de Centro de Normatividad Tecnológica de la Agencia Digital de Innovación Pública de la Ciudad de México;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
-XI. Solicitar a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, Instituciones, Órganos y Organizaciones, Nacionales e Internacionales, Públicas, Privadas y de la sociedad civil, información relacionada con los productos a desarrollar o generados por la Agencia Digital de Innovación Pública de la Ciudad de México; y
+X. Emitir los lineamientos administrativos internos con los que deberá cumplir la documentación de cada uno de los productos desarrollados por sus Unidades Administrativas, así como formular las directrices de los manuales técnicos con apoyo de la Dirección General de Operación Institucional de la Agencia Digital de Innovación Pública de la Ciudad de México;
 
-XII. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o le instruyan las personas Titulares de la Jefatura de Gobierno de la Ciudad de México y/o de la Agencia Digital de Innovación Pública de la Ciudad de México.
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XI Solicitar a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, Instituciones, Órganos y Organizaciones, Nacionales e Internacionales, Públicas, Privadas y de la sociedad civil, información relacionada con los productos a desarrollar o generados por la Agencia Digital de Innovación Pública de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XII. Aprobar en coordinación con la Dirección General de Operación Institucional, la liberación de los sitios y aplicaciones móviles desarrolladas en ejercicio de las atribuciones de la Agencia Digital de Innovación Pública de la Ciudad de México para las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México; y
+
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XIII. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México y/o de la Agencia Digital de Innovación Pública de la Ciudad de México.
 
 ###### Artículo 280.
 
-Corresponde a la Dirección General de Centro de Gobierno Honesto:
+(DEROGADO, G.O. 27 DE FEBRERO DE 2020)
 
-I. Diseñar, supervisar y evaluar la política de gobierno abierto del Gobierno de la Ciudad de México;
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-II. Establecer los mecanismos de coordinación y participación ciudadana necesarios para la generación e implementación de la política de gobierno abierto de la Ciudad de México;
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-III. Diseñar, implementar, coordinar, publicar, difundir y evaluar la política y las soluciones digitales en materia de presupuesto, fiscalización del ejercicio de gasto público, obligaciones en transparencia presupuestaria, datos abiertos, Sistema Nacional Anticorrupción, Sistema Anticorrupción de la Ciudad de México, contrataciones públicas, compras públicas y cumplimiento de los compromisos de Gobierno Abierto; de conformidad con las leyes en las respectivas materias;
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-IV. Promover e implementar políticas de transparencia proactiva en la Administración Pública de la Ciudad de México;
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-V. Generar lineamientos, reglas de operación, manuales de usuario, criterios técnicos, metodologías, guías, instructivos o demás instrumentos análogos, en coordinación con las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México para diseñar e implementar proyectos, estudios y programas permanentes de rendición de cuentas;
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-VI. Generar lineamientos, reglas de operación, manuales de usuario y/o guías, conforme a la normatividad aplicable, para la adopción de herramientas para la interoperabilidad entre los sistemas de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, y la Plataforma Nacional de Transparencia y la Plataforma Local de Transparencia mediante los mecanismos de colaboración correspondientes;
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-VII. Coadyuvar con las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México en la implementación de herramientas que contribuyan al cumplimiento de los lineamientos del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, en materia de transparencia focalizada;
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-VIII. Gestionar el desarrollo, actualización y administración de herramientas de interoperabilidad entre los sistemas de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México con la Plataforma Nacional de Transparencia y la Plataforma Local de Transparencia para el cumplimiento de las obligaciones de transparencia, así como la publicación de la información contenida en las mismas conforme a la normatividad aplicable;
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-IX. Diseñar e implementar proyectos, estudios y programas permanentes de transparencia y acceso a la información en las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-X. Gestionar el desarrollo, actualización y administración de herramientas de interoperabilidad del Sistema Transaccional de Contrataciones Públicas de la Ciudad de México con otros sistemas de información, ya sean de la Federación o de las Entidades Federativas de la República, en materias de presupuesto, evolución patrimonial, intereses de servidores públicos, registro mercantil, fiscalización del gasto, entre otros;
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-XI. Gestionar el desarrollo, actualización y administración de un sistema de monitoreo ciudadano de las contrataciones y el gasto público en tiempo real, incluyendo el de obra pública y programas sociales financiados con recursos públicos, así como impulsar el uso de la información pública relativa a contrataciones públicas, transparencia presupuestaria, ingresos, egresos y deuda pública de la Administración Pública de la Ciudad de México por parte de la ciudadanía, respetando en todo momento las excepciones a la transparencia que refieren las leyes en la materia;
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-XII. Representar a la persona Titular de la Agencia Digital de Innovación Pública de la Ciudad de México en foros, instituciones nacionales y/o internacionales, mecanismos de coordinación, organizaciones internacionales, entre otras, en materia de transparencia presupuestaria, contrataciones abiertas, gobierno abierto, transparencia y acceso a la información y rendición de cuentas; sin perjuicio de las atribuciones que en la materia correspondan a otras Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
-
-> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-XIII. Suscribir documentos, relativos al ejercicio de sus atribuciones, así como contratos, convenios, incluyendo su rescisión y terminación anticipada de estos últimos; y demás actos de carácter administrativo o de cualquier otra índole que se celebren de conformidad con las leyes locales y federales en materia de adquisiciones, arrendamientos y servicios, así como aquellos que le sean señalados por delegación; y
-
-> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-XIV. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruyan las personas Titulares de la Jefatura de Gobierno de la Ciudad de México y/o de la Agencia Digital de Innovación Pública de la Ciudad de México.
-
-> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 281.
 
-Corresponde a la Dirección General de Centro de Desarrollo Tecnológico:
+Corresponde a la Dirección General de Operación Tecnológica:
+
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
 I. Ejecutar el desarrollo de soluciones tecnológicas para la Ciudad de México;
 
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
+
 II. Desarrollar y/o acompañar en el desarrollo, en la medida de sus capacidades y prioridades, soluciones tecnológicas para Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
 III. Diseñar e implementar la estrategia de aseguramiento de calidad en el desarrollo de sus productos tecnológicos;
 
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
+
 IV. Diseñar e implementar estrategias de seguridad de sus sistemas informáticos y desarrollos web para la protección de la integridad de la información contenida en los mismos;
+
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
 V. Dirigir la entrega y soporte oportuno de servicios tecnológicos de información y comunicaciones interdependenciales, utilizando estándares internacionales de calidad en el servicio, disponibilidad, capacidad, continuidad y seguridad de la información;
 
-VI. Impulsar el desarrollo de sistemas digitales de comunicación con los habitantes de la Ciudad de México para que éstos puedan dirigir sus peticiones, opiniones, comentarios, entre otros, que promuevan y faciliten la interacción del ciudadano con las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+VI. (DEROGADA, G.O. 27 DE FEBRERO DE 2020)
 
-VII. Coordinar la administración del portafolio de proyectos tecnológicos transversales de la Administración Pública de la Ciudad de México, en los aspectos de identificación, categorización, evaluación, selección y priorización;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+VII Coordinar y/o dirigir los trabajos de implementación de sistemas de información, coadyuvando en la automatización transversal de procesos y procedimientos de la Administración Pública de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
 VIII. Coordinar y/o dirigir los trabajos de implantación de sistemas de información, coadyuvando en la automatización transversal de procesos y procedimientos de la Administración Pública de la Ciudad de México;
 
-IX. Diseñar, desarrollar y administrar en coordinación con la Dirección General de Centro de Reingeniería Gubernamental, herramientas tecnológicas para la implementación de mejora regulatoria y simplificación administrativa en conjunto con las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
-X. Desarrollar y/o proveer las soluciones tecnológicas para la implementación del uso de la Firma Electrónica e Identificador Digital Único en todos los trámites, servicios y demás actuaciones de similar naturaleza a cargo de la Administración Pública de la Ciudad de México, en coordinación con la Dirección General de Centro de Reingeniería Gubernamental;
+IX. Diseñar, desarrollar y administrar en coordinación con la Dirección General de Gobierno Digital y la Dirección General de Operación Institucional, las herramientas tecnológicas para la implementación de mejora regulatoria y simplificación administrativa para las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
 
-XI. Desarrollar y/o proveer soluciones tecnológicas para el uso de la Firma Electrónica e Identificador Digital Único en todos los trámites, servicios y demás actuaciones de similar naturaleza a cargo de la Administración Pública de la Ciudad de México, en coordinación con la Dirección General de Centro de Inteligencia;
+X. (DEROGADA, G.O. 27 DE FEBRERO DE 2020)
 
-XII. Representar a la persona Titular de la Agencia Digital de Innovación Pública de la Ciudad de México en foros, instituciones nacionales e internacionales, mecanismos de coordinación, organizaciones internacionales, entre otras, en las materias de su competencia; y
+XI. (DEROGADA, G.O. 27 DE FEBRERO DE 2020)
 
-XIII. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruyan las personas Titulares de la Jefatura de Gobierno de la Ciudad de México y/o de la Agencia Digital de Innovación Pública de la Ciudad de México.
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+XII. Representar a la persona Titular de la Agencia Digital de Innovación Pública de la Ciudad de México en foros, instituciones nacionales e internacionales, mecanismos de coordinación, organizaciones internacionales, entre otras, en las materias de su competencia;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XIII. Coordinar el diseño e implementación de la política de formación de habilidades digitales en la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XIV. Otorgar licencias de desarrollos de software realizados por la Agencia Digital de Innovación Pública de la Ciudad de México, así como establecer lineamientos para el desarrollo y actividades inherentes del software en comento;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XV. Emitir las opiniones técnicas requeridas por la Dirección General de Operación Institucional en los procedimientos de dictaminación técnica; y
+
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XVI. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México y/o de la Agencia Digital de Innovación Pública de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
+
+###### Artículo 281 Bis.
+
+Corresponde a la Dirección Ejecutiva de Infraestructura Tecnológica:
+
+I. Generar y promover el uso de políticas de seguridad informática que deberán de observar las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+II. Coordinar y administrar las instalaciones de los Centros de Datos a cargo de la Agencia Digital de Innovación Pública de la Ciudad de México;
+
+III. Coordinar con las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, el desarrollo y operación de una nube de cómputo compartida de la Administración Pública de la Ciudad de México;
+
+IV. Proporcionar el servicio de hospedaje de sitios web y sistemas de información a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México que así lo soliciten; así como administrar la operación de la infraestructura y niveles de servicio de los mismos;
+
+V. Dirigir la entrega y soporte de servicios tecnológicos de información y comunicaciones desarrollados por la Agencia Digital de Innovación Pública de la Ciudad de México, utilizando buenas prácticas de calidad en el servicio, disponibilidad, capacidad, continuidad y seguridad de la información a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+VI. Coordinar y administrar los servicios de internet institucionales: sitio web, correo electrónico, traducción de nombres de dominio, transferencia de archivos, entre otros, de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+VII. Asesorar a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México en la entrega y soporte de servicios informáticos y de comunicaciones;
+
+VIII. Coordinar y administrar la operación de los sistemas de información de la Agencia Digital de Innovación Pública de la Ciudad de México; y
+
+IX. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México, de la Agencia Digital de Innovación Pública de la Ciudad de México y/o de la Dirección General de Operación Tecnológica.
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
+
+###### Artículo 281 Ter.
+
+Corresponde a la Dirección Ejecutiva de Arquitectura de Software:
+
+I. Participar en el desarrollo y acompañamiento, en la medida de sus capacidades y prioridades, de soluciones tecnológicas para las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+II. Coadyuvar en la definición de los lineamientos para el desarrollo de software atendiendo a las necesidades de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+III. Participar en el diseño e implementación de la estrategia de calidad en el desarrollo de productos tecnológicos para las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+IV. Participar en la medida de sus posibilidades, y cuando así lo soliciten las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, en el diseño e implementación de las estrategias de seguridad de los sistemas informáticos, para la protección de la integridad de la información contenida en los mismos;
+
+V. Coadyuvar en el ámbito de sus atribuciones y capacidades a solicitud de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, en el soporte a los sistemas informáticos, a través de un procedimiento de atención de incidentes;
+
+VI. Colaborar en la ejecución de los ajustes a soluciones tecnológicas de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México desarrolladas por cuenta propia o por terceros con base en el procedimiento para la atención de solicitudes de control de cambios que defina;
+
+VII Colaborar en la realización de los trabajos de implementación de sistemas de información, coadyuvando en la automatización transversal de procesos y procedimientos de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+VIII. Promover la reutilización y acceso abierto de soluciones tecnológicas de software a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+IX. Realizar, por sí misma o con la colaboración de terceros del sector público y/o privado, nacionales y/o internacionales, estudios en materia de desarrollo de software que permitan el cumplimiento de las atribuciones de la Agencia Digital de Innovación Pública de la Ciudad de México en la materia; y
+
+X. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México, de la Agencia Digital de Innovación Pública de la Ciudad de México y/o de la Dirección General de Operación Tecnológica.
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
+
+###### Artículo 281 Quater.
+
+Corresponde a la Dirección Ejecutiva de Gestión y Control de Desarrollo de Software:
+
+I. Coadyuvar en el ámbito de sus atribuciones, en el establecimiento de criterios para la identificación, categorización, evaluación, selección y/o priorización para la administración del portafolio de proyectos tecnológicos transversales de la Administración Pública de la Ciudad de México;
+
+II. Llevar a cabo el control y gestión de las actividades para el desarrollo de software atendiendo a las necesidades de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, conforme a los lineamientos establecidos por la Dirección General de Operación Tecnológica;
+
+III. Gestionar la implementación de sistemas de información, coadyuvando en la automatización transversal de procesos y procedimientos de la Administración Pública de la Ciudad de México;
+
+IV. Gestionar la entrega, atender y analizar las solicitudes de soporte técnico para los servicios tecnológicos de información y comunicaciones interdependenciales realizadas por las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, utilizando estándares internacionales de calidad en el servicio, disponibilidad, capacidad, continuidad y seguridad de la información;
+
+V. Atender y analizar en el ámbito de sus atribuciones las solicitudes de desarrollo de soluciones tecnológicas, que sean requeridas por las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, así como gestionar la entrega y brindar soporte técnico de las mismas utilizando estándares internacionales de calidad en el servicio, disponibilidad, capacidad, continuidad y seguridad de la información;
+
+VI. Participar en la implementación de la estrategia de aseguramiento de calidad en el desarrollo de sus productos tecnológicos;
+
+VII Proponer al Director General de Operación Tecnológica el diseño e implementación de la política de formación de habilidades digitales en la Ciudad de México;
+
+VIII. Colaborar en coordinación con la Dirección General de Operación Institucional en los lineamientos para el otorgamiento de licencias de desarrollos de software realizados por la Agencia Digital de Innovación Pública de la Ciudad de México; y
+
+IX. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México, de la Agencia Digital de Innovación Pública de la Ciudad de México y/o de la Dirección General de Operación Tecnológica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 282.
 
-Corresponde a la Dirección General de Centro de Conectividad e Infraestructura Tecnológica:
+Corresponde a la Dirección General de Centro de Conectividad e Infraestructura de Telecomunicaciones:
 
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
-I. Diseñar, desarrollar, implementar, supervisar y evaluar un Modelo de Conectividad para la Ciudad de México, por sí misma y/o a través de terceros;
+I. Diseñar, desarrollar, implementar, supervisar y evaluar un Modelo de Conectividad para la Ciudad de México, por sí misma y/o a través de terceros, que impulse el acceso efectivo a los servicios de telecomunicaciones, incluido el acceso a internet en edificios y sitios públicos en la Ciudad;
 
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
-II. Diseñar, desarrollar e implementar criterios y políticas de inclusión digital, en materia de infraestructura activa y pasiva, accesibilidad y conectividad de observancia para las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, de conformidad con lo establecido en las leyes de la materia;
+II. Diseñar, desarrollar e implementar criterios y políticas de inclusión digital, en materia de infraestructura activa y pasiva, accesibilidad y conectividad de observancia para las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, de conformidad con lo establecido en las leyes de la materia, que promuevan el acceso universal en las zonas desfavorecidas, así como en escuelas, bibliotecas, zonas de transporte público y sitios públicos;
 
 > <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
@@ -11776,9 +11912,9 @@ VII. Evaluar, por sí misma o a través de terceros la viabilidad técnica, econ
 
 VIII. Establecer las condiciones y lineamientos para la administración, uso, disposición, contratación y/o comercialización de los bienes y productos existentes de la infraestructura activa y pasiva, redes de telecomunicaciones y sistemas satelitales de la Ciudad de México, así como de los productos que sean generados de la explotación, tratamiento y/o manejo de los mismos, en cumplimiento de las leyes establecidas en la materia y en consecución de los fines de la Agencia Digital de Innovación Pública de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
-IX. Administrar, usar, disponer, contratar y/o comercializar, los bienes y productos existentes de la infraestructura activa y pasiva, redes de telecomunicaciones y sistemas satelitales de la Ciudad de México, así como de los productos que sean generados de la explotación, tratamiento y/o manejo de los mismos, en cumplimiento de las leyes establecidas en la materia y en consecución de los fines de la Agencia Digital de Innovación Pública de la Ciudad de México;
+IX. Administrar, usar, disponer, contratar y, en su caso, comercializar, los bienes de la infraestructura activa y pasiva de telecomunicaciones, redes de telecomunicaciones y sistemas satelitales de la Ciudad de México, así como de los productos y servicios que sean generados de la explotación, tratamiento y/o manejo de los mismos, en coordinación con las Dependencias e Instancias competentes, de conformidad con las leyes y normatividad aplicable en la materia;
 
 > <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
@@ -11820,39 +11956,33 @@ XVIII. Asistir a la persona Titular de la Agencia Digital de Innovación Públic
 
 XIX. Autorizar la celebración de los contratos, convenios y demás actos jurídicos relativos a los servicios de telecomunicaciones y/o conectividad que realicen las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México; estos incluirán de manera enunciativa, más no limitativa aquellos para la compra, venta y/o renta de capacidad de servicios de telecomunicaciones, para la adquisición de bienes y servicios en materia de telecomunicaciones, para la comercialización de la capacidad en las redes e infraestructura del Gobierno de la Ciudad de México, así como para el uso compartido de infraestructura;
 
-> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
-XX. Suscribir cuando resulte conveniente para la Administración Pública de la Ciudad de México, contratos, convenios y demás actos jurídicos relativos a servicios de telecomunicaciones y/o conectividad a nombre de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México; y
+XX. Suscribir cuando resulte conveniente para la Administración Pública de la Ciudad de México, contratos, convenios y demás actos jurídicos relativos a servicios de telecomunicaciones y/o conectividad a nombre de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
 
-> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
-XXI. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruyan las personas Titulares de la Jefatura de Gobierno de la Ciudad de México y/o de la Agencia Digital de Innovación Pública de la Ciudad de México.
+XXI. Administrar, aprovechar y gestionar las redes, en el ámbito de su competencia, de telecomunicaciones de los Entes, así como la infraestructura y capacidades de las redes de telecomunicaciones del Gobierno de la Ciudad, incluyendo los sitios públicos locales, duetos, postería y derechos de vía;
 
-> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXII. Establecer políticas en el ámbito de su competencia, vinculadas con el despliegue público y privado de infraestructura en telecomunicaciones, incluyendo las relacionadas con el otorgamiento de permisos, conforme a las atribuciones establecidas en las leyes aplicables;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXIII. Emitir las opiniones técnicas que, en su caso, requiera la Dirección General de Operación Institucional en los procedimientos de dictaminación Técnica, en el supuesto de que las solicitudes correspondientes contengan elementos que involucren aspectos relacionados con servicios de conectividad y/o telecomunicaciones;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXIV. Comercializar, rentar e intercambiar, en el ámbito de sus atribuciones, los productos existentes y futuros que deriven del excedente de las redes de los Entes, de conformidad con las disposiciones jurídicas aplicables; y
+
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXV. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México y/o de la Agencia Digital de Innovación Pública de la Ciudad de México.
 
 ###### Artículo 282 Bis.
 
-Corresponde a la Dirección Ejecutiva de Tecnologías de la Información:
-
-I. Generar, promover y vigilar el uso de políticas de seguridad informática que deberán de observar las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
-
-II. Coordinar y administrar las instalaciones del Centro de Datos de la Administración Pública de la Ciudad de México;
-
-III. Coordinar con las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, el desarrollo y operación de una nube de cómputo compartida de la Administración Pública de la Ciudad de México;
-
-IV. Proporcionar el servicio de hospedaje de sitios web y sistemas de información a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México que así lo soliciten; así como administrar la operación de la infraestructura y niveles de servicio de los mismos;
-
-V. Dirigir la entrega y soporte de servicios tecnológicos de información y comunicaciones desarrollados por la Agencia Digital de Innovación Pública de la Ciudad de México, utilizando buenas prácticas de calidad en el servicio, disponibilidad, capacidad, continuidad y seguridad de la información de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
-
-VI. Coordinar y administrar los servicios de Internet institucionales: web, correo electrónico, traducción de nombres de dominio, transferencia de archivos, grupos de trabajo, entre otros, de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
-
-VII. Asesorar a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México en la entrega y soporte de servicios informáticos y de comunicaciones, de forma eficaz y eficiente;
-
-VIII. Conocer, analizar e impulsar los proyectos y acciones que, en materia de simplificación administrativa y mudanza digital desarrollen las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
-
-IX. Coordinar y administrar la operación de los sistemas de información de la Agencia Digital de Innovación Pública de la Ciudad de México; y
-
-X. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruyan las personas Titulares de la Jefatura de Gobierno de la Ciudad de México y/o de la Agencia Digital de Innovación Pública de la Ciudad de México.
+(DEROGADO, G.O. 27 DE FEBRERO DE 2020)
 
 > <small>(REFORMADO, G.O. 14 DE JUNIO DE 2019)</small>
 
@@ -11860,11 +11990,15 @@ X. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o ad
 
 Corresponde a la Dirección General de Contacto Ciudadano:
 
-I. Administrar, controlar y supervisar en el ámbito de su competencia el Modelo Integral de Atención Ciudadana y el Sistema Único de Atención Ciudadana;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+I. Administrar, controlar y supervisar en el ámbito de su competencia el Modelo Integral de Atención Ciudadana y el Sistema Unificado de Atención Ciudadana;
 
 II. Definir y promover las estrategias de operación del número único de contacto ciudadano;
 
-III. Formular las líneas de trabajo interinstitucionales con las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, para que se atienda la demanda ciudadana mediante el Sistema Único de Atención Ciudadana;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+III. Formular las líneas de trabajo interinstitucionales con las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, para que se capte y se asigne la demanda ciudadana mediante el Sistema Unificado de Atención Ciudadana, con el fin de que se atienda e informe mediante el mismo;
 
 IV. Implementar la migración y homologación del número único de contacto ciudadano, y de todos los códigos telefónicos de contacto ciudadano autorizados a las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
 
@@ -11900,59 +12034,239 @@ XVIII. Suscribir documentos relativos al ejercicio de sus atribuciones, así com
 
 XIX. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruyan las personas Titulares de la Jefatura de Gobierno de la Ciudad de México y/o de la Agencia Digital de Innovación Pública de la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 284.
 
-Corresponde a la Dirección General de Centro de Inteligencia:
+Corresponde a la Dirección General de Gobierno Digital:
+
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
 I. Diseñar, supervisar y evaluar la política de gestión de datos de la Ciudad de México; así como los criterios, estándares técnicos, lineamientos, manuales y demás normatividad necesaria para el cumplimiento de los objetivos y atribuciones de la Agencia Digital de Innovación Pública de la Ciudad de México, en la materia;
 
-II. Diseñar e implementar las herramientas tecnológicas necesarias para la mejora regulatoria, simplificación administrativa, mejora de gestión y Gobierno Digital de la Administración Pública de la Ciudad de México;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+II. Coordinar el diseño de las herramientas tecnológicas necesarias para la simplificación administrativa, mejora de gestión y Gobierno Digital de la Administración Pública de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
 III. Elaborar y proponer el desarrollo de estrategias innovadoras integrales que favorezcan la eficiencia, eficacia y transparencia de los recursos, que tengan por objeto buscar el crecimiento y desarrollo económico de la Ciudad de México, y el bienestar de los ciudadanos;
 
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
+
 IV. Recabar, procesar y utilizar a partir de los mecanismos establecidos en la política de gestión de datos del Gobierno de la Ciudad de México, los datos generados y almacenados por las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
 V. Realizar el análisis y las propuestas de políticas públicas basadas en evidencia a partir de los datos que la Agencia Digital de Innovación Pública de la Ciudad de México obtenga de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México para difusión pública o consumo interno, según sea el caso;
 
-VI. Desarrollar proyectos de infraestructura que generen trámites, servicios y demás actuaciones digitales de similar naturaleza a cargo de la Administración Pública de la Ciudad de México, más eficientes mediante la reutilización de aplicaciones e infraestructura entre las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México y estableciendo mecanismos de homologación que generen bases de datos comunes;
+VI. (DEROGADA, G.O. 27 DE FEBRERO DE 2020)
+
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
 VII. Solicitar las bases de datos y sistemas de información de Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, con el objetivo de integrar el Sistema Unificado de Información;
 
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
+
 VIII. Coordinar y administrar la operación de los sistemas de información de la Agencia Digital de Innovación Pública de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
 IX. Coordinar el uso estratégico de la información para la planeación, la evaluación, la toma de decisiones, la colaboración, el aprendizaje y la profesionalización de la función pública en materia de simplificación administrativa y digitalización de trámites y servicios;
 
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
+
 X. Generar una infraestructura de datos consumibles para la Ciudad de México que integre toda la información generada por todas las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
 XI. Diseñar y operar el riel de interoperabilidad de la Ciudad de México;
 
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
+
 XII. Fungir como autoridad en materia de Firma Electrónica de la Administración Pública de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
 XIII. Diseñar e implementar el Identificador Digital Único a que se refiere la Ley de Operación e Innovación Digital para la Ciudad de México;
 
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
+
 XIV. Participar en la conducción de la estrategia de gobierno digital, estableciendo las bases y principios para la elaboración de dicha política en la Administración Pública de la Ciudad de México;
 
-XV. Coordinar y conducir las acciones relativas a la mejora de procesos y sistemas de gestión de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, a través del uso de servicios digitales y supervisar su cumplimiento;
+XV. (DEROGADA, G.O. 27 DE FEBRERO DE 2020)
+
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
 XVI. Brindar asesoría técnica para el diseño de herramientas tecnológicas que ayuden a la simplificación administrativa de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México que lo soliciten;
 
-XVII. Establecer en coordinación con la Dirección General de Centro de Reingeniería Gubernamental las gestiones necesarias para impulsar la disponibilidad de los servicios de certificación de Firma Electrónica;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
-XVIII. Establecer requisitos, directrices y lineamientos en coordinación con la Dirección General de Centro de Reingeniería Gubernamental para implementar el uso de la Firma Electrónica con validez jurídica;
+XVII. Establecer las gestiones necesarias para impulsar la disponibilidad de los servicios de certificación de Firma Electrónica;
 
-XIX. Diseñar por sí misma o en colaboración con el sector público y/o privado, nacional y/o internacional, soluciones tecnológicas para la Ciudad de México;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
-XX. Coordinar el diseño e implementación de la política de formación de habilidades digitales en la Ciudad de México;
+XVIII. Establecer requisitos, directrices y lineamientos para implementar el uso de la Firma Electrónica con validez jurídica;
 
-XXI. Representar a la persona Titular de la Agencia Digital de Innovación Pública de la Ciudad de México en foros, instituciones nacionales e internacionales, mecanismos de coordinación, organizaciones internacionales, entre otras, en las materias de su competencia; y
+XIX. (DEROGADA, G.O. 27 DE FEBRERO DE 2020)
 
-XXII. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruyan las personas Titulares de la Jefatura de Gobierno de la Ciudad de México y/o de la Agencia Digital de Innovación Pública de la Ciudad de México.
+XX. (DEROGADA, G.O. 27 DE FEBRERO DE 2020)
+
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXI. Representar a la persona Titular de la Agencia Digital de Innovación Pública de la Ciudad de México en foros, instituciones nacionales e internacionales, mecanismos de coordinación, organizaciones internacionales, entre otras, en las materias de su competencia;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXII. Supervisar la estrategia de implementación y uso del Autenticador Digital Único para los sistemas del Gobierno de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXIII. Supervisar la estrategia de implementación del inicio de sesión único en los sistemas del Gobierno de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXIV. Gestionar, en el ámbito de su competencia, el desarrollo, actualización y administración de herramientas de interoperabilidad del Sistema de Contrataciones Públicas de la Ciudad de México con otros sistemas de información, ya sean de la Federación o de las Entidades Federativas de la República, en materias de presupuesto, evolución patrimonial, intereses de servidores públicos, registro mercantil, fiscalización del gasto, entre otros;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXV. Gestionar el desarrollo, actualización y administración de un sistema de monitoreo ciudadano de las contrataciones y el gasto público, así como impulsar el uso de la información pública relativa a contrataciones públicas, transparencia presupuestaria, ingresos, egresos y deuda pública de la Administración Pública de la Ciudad de México por parte de la ciudadanía, en coordinación y colaboración con las instancias competentes, respetando en todo momento las excepciones a la transparencia que refieren las leyes en la materia;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXVI. Coordinar el diseño e implementación de la política de Gobierno Abierto del Gobierno de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXVII. Supervisar, en el ámbito de sus atribuciones y en coordinación con las instancias competentes, el diseño, implementación y difusión de las soluciones digitales que den cumplimiento a las disposiciones del Sistema Nacional Anticorrupción, del Sistema Anticorrupción de la Ciudad de México y de los compromisos de Gobierno Abierto, de conformidad con las leyes y la normatividad aplicable;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXVIII. Coordinar la promoción e implementación de políticas de transparencia proactiva en la Administración Pública de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXIX. Coordinar el diseño, actualización y administración de herramientas de interoperabilidad entre los sistemas de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México con la Plataforma Nacional de Transparencia y la Plataforma Local de Transparencia para el cumplimiento de las obligaciones de transparencia, así como la publicación de la información contenida en las mismas conforme a la normatividad aplicable;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXX. Definir e implementar, en el ámbito de sus atribuciones, planes de simplificación administrativa para las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXXI. Conducir el desarrollo y gestión de las herramientas tecnológicas en coordinación con la Dirección General de Operación Tecnológica, para la implementación de simplificación administrativa, en conjunto con las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXXII. Supervisar, en el ámbito de su competencia, la integración, administración y operación del Registro Electrónico de Trámites y Servicios de la Ciudad de México; y
+
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXXIII. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México y/o de la Agencia Digital de Innovación Pública de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
+
+###### Artículo 284 Bis.
+
+Dirección Ejecutiva de Política de Datos:
+
+I. Colaborar en el diseño de la política de gestión de datos de la Ciudad de México, así como elaborar los criterios, estándares técnicos, lineamientos, manuales y demás normatividad necesaria en la materia, para el cumplimiento de los objetivos y atribuciones de la Agencia Digital de Innovación Pública de la Ciudad de México;
+
+II. Solicitar las bases de datos y sistemas de información de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, con el objetivo de integrar el Sistema Unificado de Información, de conformidad con las leyes y normatividad aplicable;
+
+III. Diseñar e implementar la política de Gobierno Abierto del Gobierno de la Ciudad de México;
+
+IV. Desarrollar los mecanismos de coordinación y participación ciudadana necesarios para la generación e implementación de la política de Gobierno Abierto de la Ciudad de México;
+
+V. Coadyuvar con el diseño, coordinación, publicación, implementación y difusión de las soluciones digitales que den cumplimiento a las disposiciones del Sistema Nacional Anticorrupción, del Sistema Anticorrupción de la Ciudad de México y de los compromisos de Gobierno Abierto, de conformidad con la normatividad respectiva;
+
+VI. Promover e implementar políticas de transparencia proactiva en la Administración Pública de la Ciudad de México;
+
+VII. Generar lineamientos, reglas de operación, manuales de usuario, criterios técnicos, metodologías, guías, instructivos o demás instrumentos análogos, en coordinación con las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México para diseñar e implementar proyectos, estudios y programas permanentes de rendición de cuentas;
+
+VIII. Elaborar lineamientos, reglas de operación, manuales de usuario y/o guías, conforme a la normatividad aplicable, para la adopción de herramientas para la interoperabilidad entre los sistemas de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, y la Plataforma Nacional de Transparencia y la Plataforma Local de Transparencia mediante los mecanismos de colaboración correspondientes;
+
+IX. Colaborar con las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México en la implementación de herramientas que contribuyan al cumplimiento de los lineamientos del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, en materia de transparencia focalizada;
+
+X. Gestionar el desarrollo, actualización y administración de herramientas de interoperabilidad entre los sistemas de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México con la Plataforma Nacional de Transparencia y la Plataforma Local de Transparencia, para el cumplimiento de las obligaciones de transparencia, así como la publicación de la información contenida en las mismas conforme a la normatividad aplicable;
+
+XI. Diseñar e implementar proyectos, estudios y programas permanentes de transparencia y acceso a la información en coordinación con las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México; y
+
+XII. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México, de la Agencia Digital de Innovación Pública de la Ciudad de México y/o de la Dirección General de Gobierno Digital.
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
+
+###### Artículo 284 Ter.
+
+Corresponde a la Dirección Ejecutiva de Simplificación Estratégica:
+
+I. Elaborar y proponer a la persona Titular de la Dirección General de Gobierno Digital, proyectos de simplificación administrativa de trámites y servicios a cargo de la Administración Pública de la Ciudad de México;
+
+II. Elaborar los proyectos de dictámenes relativos a la simplificación de trámites y servicios a cargo de la Administración Pública de la Ciudad de México;
+
+III. Operar y definir el contenido del Registro Electrónico de Trámites y Servicios de la Ciudad de México;
+
+IV. Establecer programas de capacitación y actualización en materia de trámites, y servicios con el fin de ofrecer una atención accesible, confiable y de calidad a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+V. Elaborar y proponer a la persona Titular de la Dirección General de Operación Institucional, los manuales y lineamientos necesarios para la implementación de la simplificación administrativa en la Ciudad de México;
+
+VI. Autorizar la inscripción, actualización, modificación o baja en el Registro Electrónico de Trámites y Servicios de la Ciudad de México a cargo de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+VII. Impulsar y dirigir las acciones, estudios y propuestas que realicen las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, organizaciones del sector privado y el público en general, para mantener permanentemente actualizada la normatividad de trámites y servicios de la Administración Pública de la Ciudad de México;
+
+VIII. Fomentar y coadyuvar en la implementación de trámites y servicios de la Administración Pública de la Ciudad de México, a través de tecnologías de la información y comunicaciones, y el uso de la firma electrónica avanzada y otros mecanismos de validación de firma digital legalmente reconocidos;
+
+IX. Promover el estudio, divulgación y aplicación de la política de simplificación administrativa en la Ciudad de México;
+
+X. Establecer los mecanismos de colaboración para el intercambio de información en materia de trámites y servicios con que cuentan las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, a fin (sic) generar estadísticas que permitan desarrollar procesos que contribuyan para agilizar los trámites y servicios, que otorga la Administración Pública de la Ciudad de México; y
+
+XI. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México, de la Agencia Digital de Innovación Pública de la Ciudad de México y/o de la Dirección General de Gobierno Digital.
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
+
+###### Artículo 284 Quater.
+
+Corresponde a la Dirección Ejecutiva de Gobierno Electrónico:
+
+I. Diseñar e implementar la estrategia para el diseño de herramientas tecnológicas necesarias para la mejora de gestión y Gobierno Digital de la Administración Pública de la Ciudad de México;
+
+II. Coadyuvar en la implementación de estrategias innovadoras integrales que favorezcan la eficiencia, eficacia y transparencia de los recursos, que tengan por objeto buscar el crecimiento y desarrollo económico de la Ciudad de México y el bienestar de los ciudadanos;
+
+III. Participar en la elaboración de las propuestas de digitalización de trámites y servicios a cargo de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, para ser sometida a la aprobación de la persona Titular de la Dirección General de Gobierno Digital;
+
+IV. Realizar las acciones necesarias para la implementación de la firma electrónica en la Ciudad de México, así como para impulsar la disponibilidad de los servicios de certificación, en coordinación con las instancias competentes;
+
+V. Coadyuvar en la implementación del Autenticador Digital Único a que se refiere la Ley de Operación e Innovación Digital para la Ciudad de México;
+
+VI. Coadyuvar en el diseño de la estrategia de Gobierno Digital para la Administración Pública de la Ciudad de México, en atención a los programas de mejora regulatoria y simplificación administrativa;
+
+VII. Coadyuvar en el diseño de los mecanismos que deberán seguir los Entes Públicos para la implementación del Gobierno Electrónico y su difusión;
+
+VIII. Validar los flujos y procedimientos relacionados a la sistematización de trámites y servicios de la Administración Pública de la Ciudad de México;
+
+IX. Colaborar en la mudanza digital de trámites y servicios de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+X. Implementar el Autenticador Digital Único y el Expediente Digital en la Administración Pública de la Ciudad de México;
+
+XI. Diseñar, implementar, coordinar y evaluar políticas y acciones para asegurar la trazabilidad y monitoreo de los ingresos y el gasto público, en apego a los principios de apertura y datos abiertos, de conformidad con la normatividad aplicable;
+
+XII. Diseñar, coordinar e implementar soluciones digitales para la consulta y visualización del presupuesto y el gasto público, así como para asegurar la trazabilidad y monitoreo de los recursos públicos;
+
+XIII. Colaborar en el ámbito de sus atribuciones con el diseño, publicación, implementación, coordinación y evaluación de políticas y acciones de contrataciones abiertas;
+
+XIV. Coadyuvar en el diseño, coordinación e implementación de soluciones digitales en materia de contrataciones públicas, en apego a las políticas y acciones de contrataciones abiertas;
+
+XV. Cooperar en el diseño, coordinación e implementación de soluciones tecnológicas para dar cumplimiento a las obligaciones de transparencia y anticorrupción, tanto en materia de presupuesto y gasto público, como de contrataciones públicas;
+
+XVI. Diseñar y coordinar la estrategia de implementación del inicio de sesión único en los sistemas de la Administración Pública de la Ciudad de México; y
+
+XVII. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México, de la Agencia Digital de Innovación Pública de la Ciudad de México y/o de la Dirección General de Gobierno Digital.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 285.
 
-Corresponde a la Dirección General de Centro de Normatividad Tecnológica:
+Corresponde a la Dirección General de Operación Institucional:
 
 > <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
@@ -11966,13 +12280,11 @@ II. Diseñar, implementar y supervisar la política de gobernanza tecnológica d
 
 III. Elaborar, revisar, instrumentar y vigilar el cumplimiento a las políticas y lineamientos en materia de Tecnologías de la Información y Comunicaciones, así como mejores prácticas que deberán observar las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
-IV. Formular en coordinación con la Dirección General de Centro de Desarrollo Tecnológico y la Dirección Ejecutiva de Tecnologías de la Información, los lineamientos de seguridad informática que deberán observar las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+IV. Formular en coordinación con la Dirección General de Operación Tecnológica, los lineamientos de seguridad informática que deberán observar las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-V. Realizar la vinculación interinstitucional de la Agencia Digital de Innovación Pública de la Ciudad de México;
+V. (DEROGADA, G.O. 27 DE FEBRERO DE 2020)
 
 > <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
@@ -11994,13 +12306,125 @@ IX. Aprobar en coordinación con la Dirección Ejecutiva de Gestión de Proyecto
 
 X. Auxiliar a la persona Titular de la Agencia Digital de Innovación Pública de la Ciudad de México en la celebración de convenios, acuerdos y programas relacionados a las materias de su competencia;
 
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
-XI. Representar a la persona Titular de la Agencia Digital de Innovación Pública de la Ciudad de México en foros, instituciones nacionales e internacionales, mecanismos de coordinación, organizaciones internacionales, entre otras, en las materias de su competencia; y
+XI. Solicitar la opinión técnica a cualquier Unidad Administrativa de Apoyo Técnico Operativo adscrita a la Agencia Digital de Innovación Pública de la Ciudad de México, cuando sean requeridas derivado de un procedimiento de dictaminación técnica;
 
-> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
-XII. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruyan las personas Titulares de la Jefatura de Gobierno de la Ciudad de México y/o de la Agencia Digital de Innovación Pública de la Ciudad de México.
+XII. Representar al Gobierno de la Ciudad de México en eventos nacionales e internacionales en materia de mejora regulatoria;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XIII. Aprobar la legalidad y viabilidad de los proyectos de contratos, convenios y demás instrumentos jurídicos que suscriba alguna de las Unidades Administrativas de la Agencia Digital de Innovación Pública de la Ciudad de México, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XIV. Dirigir, en coordinación con la Consejería Jurídica y de Servicios Legales la representación legal de la Agencia Digital de Innovación Pública de la Ciudad de México ante las autoridades judiciales o administrativas del fuero Federal o Local;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XV. Asesorar jurídicamente a las Unidades Administrativas de la Agencia Digital de Innovación Pública de la Ciudad de México, para que sus actuaciones se encuentren dentro del marco legal vigente;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XVI. Requerir información a las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico Operativo de la Agencia Digital de Innovación Pública de la Ciudad de México, para el cumplimiento de sus funciones;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XVII. Coordinar la elaboración de proyectos normativos relacionados con las atribuciones de la Agencia Digital de Innovación Pública de la Ciudad de México, a fin de someterlos a consideración de la persona Titular de la misma;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XVIII. Coordinar la elaboración de proyectos de modificación a la normativa local relacionada con el objeto de la Agencia Digital de Innovación Pública de la Ciudad de México, o aquellos que solicite la persona Titular de la misma;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XIX. Coordinar el cumplimiento de las obligaciones en materia de transparencia, acceso a la información pública y protección de datos personales de la Agencia Digital de Innovación Pública de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XX. Promover, dar seguimiento y evaluar el cumplimiento de la implementación de la política de Mejora Regulatoria, por parte de las Alcaldías, Dependencias, Órganos Desconcentrados, y Entidades de la Administración Pública de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXI. Fungir como enlace de la Ciudad de México, con el Sistema Nacional de Mejora Regulatoria, o con cualquier Órgano u Organismo, Nacional e Internacional, Público y/o Privado, Académico y/o Especialistas en materia de mejora regulatoria, así como participar y organizar eventos a nivel local, nacional o internacional;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXII. Proponer al titular de la Agencia Digital de Innovación Pública de la Ciudad de México y al Consejo de Mejora Regulatoria de la Ciudad de México la emisión de directrices, instrumentos, lineamientos, mecanismos y buenas prácticas, para el cumplimiento de la política de mejora regulatoria;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXIII. Brindar asesoría técnica y capacitación en materia de mejora regulatoria a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México que lo soliciten;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXIV. Implementar en coordinación con la Dirección General de Operación Tecnológica, las herramientas tecnológicas necesarias para la mejora regulatoria, de la Administración Pública de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXV. Coordinarse con la Dirección General de Gobierno Digital para el diseño y desarrollo de herramientas tecnológicas para la mejora regulatoria, que deberán utilizar las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXVI. Coordinar con la Dirección General de Gobierno Digital la simplificación de trámites y servicios de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXVII. Informar a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México de las propuestas de mejora regulatoria correspondientes a su marco regulatorio;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXVIII. Dictaminar el Análisis de Impacto de las propuestas regulatorias de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México que los soliciten;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXIX. Requerir información y/o documentación a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, cuando así lo estime necesario para el seguimiento del cumplimiento de la política de mejora regulatoria;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXX. Promover en coordinación con la Dirección General de Gobierno Digital la simplificación administrativa;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXXI. Establecer mecanismos y programas para la difusión del Análisis de Impacto Regulatorio, la Agenda Regulatoria, los Programas de Mejora Regulatoria, así como los reportes periódicos de evaluación y de seguimiento que presenten las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXXII. Establecer los calendarios para que las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México presenten a la Unidad de Mejora Regulatoria, sus programas de mejora regulatoria y sus reportes periódicos sobre los avances en la ejecución de éstos;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXXIII. Requerir a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, información para la revisión de su acervo regulatorio, trámites, y servicios a su cargo;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXXIV. Requerir a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México la realización de acciones de simplificación administrativa, digitalización de trámites y servicios y/o mejoramiento de sus regulaciones;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXXV. Requerir y coordinar a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, las acciones necesarias para la integración de la información en las plataformas tecnológicas que determine la Unidad de Mejora Regulatoria;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXXVI. Hacer recomendaciones a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México sobre acciones de simplificación, así como requerir cumplimiento a las mismas;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXXVII. Otorgar usuarios y contraseñas para la operación de las plataformas de Mejora Regulatoria a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXXVIII. Promover la vinculación con las diversas Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, así como con las instancias del ámbito Federal, Estatal o Municipal e Instituciones, Órganos u Organismos, Nacionales e Internacionales, Públicos y Privados, para el desarrollo y ejecución de los proyectos en materia de mejora regulatoria;
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XXXIX. Suscribir documentos relativos al ejercicio de sus atribuciones, así como suscribir dictámenes, justificaciones, acuerdos, convenios y demás actos jurídicos relacionados con sus atribuciones; y
+
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XL. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México y/o de la Agencia Digital de Innovación Pública de la Ciudad de México.
 
 ###### Artículo 286.
 
@@ -12104,101 +12528,13 @@ IV. Recopilar y analizar la información generada por las Alcaldías, Dependenci
 
 V. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruyan las personas Titulares de la Jefatura de Gobierno de la Ciudad de México, de la Agencia Digital de Innovación Pública de la Ciudad de México y/o de la Coordinación General de Proyectos e Innovación.
 
-> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2019)</small>
-
 ###### Artículo 287.
 
-Corresponde a la Dirección General de Centro de Reingeniería Gubernamental:
-
-I. Establecer las políticas, normatividad y estrategias en materia de mejora regulatoria, simplificación administrativa, mejora de gestión y Gobierno Digital de la Administración Pública de la Ciudad de México;
-
-II. Promover, ejecutar, dar seguimiento y evaluar las políticas, programas, lineamiento (sic) y acciones en materia de mejora regulatoria, simplificación administrativa, mejora de gestión y Gobierno Digital que será (sic) obligatorias para las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
-
-III. Conducir las políticas de desregulación administrativa de la Ciudad de México, vigilando que las acciones y programas que formulen y ejecuten en esta materia las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, se orienten a cumplir con esas políticas, así como las bases y principios de coordinación y recomendaciones generales que emita el Comité Coordinador del Sistema Anticorrupción de la Ciudad de México;
-
-IV. Fungir como la Unidad de Mejora Regulatoria de la Ciudad de México;
-
-V. Fungir como enlace de la Ciudad de México, con las instancias del ámbito Federal, Estatal o Municipal e Instituciones, Órgano u Organismo, Nacional e Internacional, Públicos y/o Privados, Académica y Especialistas en materia de mejora regulatoria y simplificación administrativa;
-
-VI. Brindar asesoría técnica y capacitación en materia de mejora regulatoria y simplificación administrativa a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México que lo soliciten;
-
-VII. Implementar las herramientas tecnológicas necesarias para la mejora regulatoria, simplificación administrativa, mejora de gestión y Gobierno Digital de la Administración Pública de la Ciudad de México;
-
-VIII. Expedir los lineamientos, manuales y demás normatividad necesaria para la implementación de la mejora regulatoria, la simplificación administrativa, mejora de gestión y Gobierno Digital de la Administración Pública de la Ciudad de México;
-
-IX. Integrar, administrar y operar el Registro Electrónico de Trámites y Servicios de la Ciudad de México;
-
-X. Diseñar, implementar, administrar y operar la herramienta tecnológica de mejora regulatoria que contendrá todas las Regulaciones de la Administración Pública de la Ciudad de México;
-
-XI. Autorizar la inscripción, actualización, modificación o baja en el Registro Electrónico de Trámites, Servicios de la Ciudad de México; aquellos a cargo de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
-
-XII. Autorizar la inscripción, actualización, modificación o baja en la herramienta tecnológica que contenga las regulaciones que emitan o tengan las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México a su cargo;
-
-XIII. Colaborar con la Unidad Administrativa y/o Unidad Administrativa de Apoyo Técnico Operativo correspondiente a fin de incorporar la firma electrónica avanzada en los trámites, servicios y procedimientos que se lleven a cabo en la Administración Pública de la Ciudad de México;
-
-XIV. Impulsar y dirigir las acciones, estudios y propuestas que realicen las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, organizaciones del sector privado y el público en general, para mantener permanentemente actualizada la normatividad de trámites, servicios y demás actuaciones de similar naturaleza de la Administración Pública de la Ciudad de México;
-
-XV. Revisar el marco regulatorio de la Ciudad de México, diagnosticar su aplicación, y en su caso, informar a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México las propuestas de modificación correspondientes;
-
-XVI. Dictaminar los anteproyectos regulatorios o propuestas regulatorias y las Manifestaciones de Impacto Regulatorio que tengan contemplados las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
-
-XVII. Requerir, de acuerdo a la naturaleza de sus funciones, información y documentación a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, cuando así lo estime necesario;
-
-XVIII. Promover la mejora regulatoria y la simplificación administrativa como instrumentos que incentiven la competitividad de las actividades productivas, fomentando la participación de la sociedad en su conjunto;
-
-XIX. Emitir las disposiciones de apoyo normativo para la mejora en la elaboración y redacción de disposiciones jurídicas y administrativas en materia de trámites, servicios y demás actuaciones de similar naturaleza de la Administración Pública de la Ciudad de México;
-
-XX. Fomentar e impulsar la realización de trámites, servicios y demás actuaciones de similar naturaleza de la Administración Pública de la Ciudad de México; a través de tecnologías de la información y comunicaciones, y el uso de la firma electrónica avanzada y otros mecanismos de validación de firma digital legalmente reconocidos;
-
-XXI. Establecer mecanismos y programas para dar publicidad a la Agenda en materia de mejora regulatoria que generen las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
-
-XXII. Establecer los calendarios para que las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México presenten a la Agencia Digital de Innovación Pública de la Ciudad de México sus programas de mejora regulatoria y sus reportes periódicos sobre los avances en la ejecución de éstos;
-
-XXIII. Hacer públicos los programas de mejora regulatoria y los reportes periódicos de avance en la ejecución de éstos, que presenten las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, en términos de la Ley de Mejora Regulatoria de la Ciudad de México;
-
-XXIV. Formular su opinión sobre los programas de mejora regulatoria y los reportes periódicos de avance en la ejecución de éstos, que presenten las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
-
-XXV. Proponer a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, la revisión de su acervo regulatorio, trámites, servicios y demás actuaciones de similar naturaleza, a su cargo;
-
-XXVI. Promover el estudio, la divulgación y la aplicación de la política de mejora regulatoria y simplificación administrativa en la Ciudad de México;
-
-XXVII. Suscribir documentos relativos al ejercicio de sus atribuciones, así como suscribir dictámenes, justificaciones, contratos, convenios, incluyendo su rescisión y terminación anticipada de estos últimos; y demás actos jurídicos de carácter administrativo o de cualquier otra índole que se celebren de conformidad con la leyes locales y federales en materia de adquisiciones, arrendamientos y/o servicios, así como aquellos que le sean señalados por delegación;
-
-XXVIII. Conducir el desarrollo y gestión de las herramientas tecnológicas en coordinación con Dirección General de Centro de Desarrollo Tecnológico, para la implementación de mejora regulatoria y simplificación administrativa en conjunto con las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
-
-XXIX. Establecer los estándares y mecanismos de colaboración para el intercambio de datos y plataformas tecnológicas con las que cuenten las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, a fin agilizar los procesos y aprovechamiento de la información en materia de trámites, servicios, apertura y análisis de datos;
-
-XXX. Implementar la utilización del Identificador Digital Universal en el desahogo de los trámites, servicios y demás actuaciones de similar naturaleza;
-
-XXXI. Representar al Gobierno de la Ciudad de México en eventos nacionales e internacionales en materia de mejora regulatoria, simplificación administrativa, mejora de gestión y Gobierno Electrónico; y
-
-XXXII. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruyan las personas Titulares de la Jefatura de Gobierno de la Ciudad de México y/o de la Agencia Digital de Innovación Pública de la Ciudad de México.
-
-> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2019)</small>
+(DEROGADO, G.O. 27 DE FEBRERO DE 2020)
 
 ###### Artículo 288.
 
-Corresponde a la Dirección Ejecutiva de Simplificación Estratégica:
-
-I. Elaborar y proponer a la persona Titular de la Dirección General de Centro de Reingeniería Gubernamental, propuestas de simplificación administrativa de trámites y servicios a cargo de la Administración Pública de la Ciudad de México;
-
-II. Elaborar los proyectos de dictámenes relativos a la simplificación de trámites, servicios a cargo de la Administración Pública de la Ciudad de México;
-
-III. Elaborar los proyectos de dictámenes de las (sic) Manifestación de Impacto Regulatorio y de la Propuesta Regulatoria que se reciban en la Dirección General de Centro de Reingeniería Gubernamental;
-
-IV. Elaborar las solicitudes de ampliaciones o correcciones a las manifestaciones de impacto regulatorio y de la propuesta regulatoria que no cumplan con los requisitos mínimos que al efecto establezcan las disposiciones jurídicas aplicables;
-
-V. Definir el contenido del Registro Electrónico de Trámites y Servicios de la Ciudad de México;
-
-VI. Establecer programas de capacitación y actualización en materia de trámites, servicios y actuaciones de similar naturaleza con el fin de ofrecer una atención accesible, confiable y de calidad a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
-
-VII. Apoyar a la persona Titular de la Dirección General de Centro de Reingeniería Gubernamental en la administración y operación del Registro Electrónico de Trámites y Servicios de la Ciudad de México:
-
-VIII. Elaborar y proponer a la persona Titular de la Dirección General de Centro de Reingeniería Gubernamental, los manuales y lineamientos necesarios para la implementación de la mejora regulatoria y simplificación administrativa en la Ciudad de México;
-
-IX. Representar a la Unidad de Mejora Regulatoria del Gobierno de la Ciudad de México en eventos nacionales; y
-
-X. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruyan las personas Titulares de la Jefatura de Gobierno de la Ciudad de México, de la Agencia Digital de Innovación Pública de la Ciudad de México y/o de la Dirección General de Centro de Reingeniería Gubernamental.
+(DEROGADO, G.O. 27 DE FEBRERO DE 2020)
 
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
@@ -13937,3 +14273,13 @@ G.O. 26 DE FEBRERO DE 2020.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN, REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Los asuntos que con la entrada en vigor del presente Decreto se encuentren en trámite en la Dirección Ejecutiva de Administración Inmobiliaria y se relacionen con las atribuciones que se confieren a la Dirección Ejecutiva de Normatividad y Consulta Inmobiliaria, serán atendidos y resueltos por ésta última en el ámbito de su respectiva competencia.
