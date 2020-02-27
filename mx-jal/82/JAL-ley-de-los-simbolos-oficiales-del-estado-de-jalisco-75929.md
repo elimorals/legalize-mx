@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-simbolos-oficiales-del-estado-de-jalisco-75929"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-07"
-last_updated: "2016-11-10"
+last_updated: "2020-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 7 de agosto de 2010.
 
@@ -81,9 +81,9 @@ III. Las demás autoridades estatales y municipales, como auxiliares en sus ámb
 
 2. La determinación de infracciones e imposición de sanciones corresponde a la Secretaría General de Gobierno.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
 
-3. La aplicación de multas corresponde a la Secretaría de Planeación, Administración y Finanzas.
+3. La aplicación de multas corresponde a la Secretaría de la Hacienda Pública.
 
 ###### Artículo 6.
 
@@ -388,3 +388,9 @@ P.O. 10 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25894/LXI/16 QUE REFORMA EL ARTÍCULO 11 DE LA LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO”.]
 
 ÚNICO. EI presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "EI Estado de Jalisco".
+
+P.O. 27 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27804/LXII/20 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 5° DE LA LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
