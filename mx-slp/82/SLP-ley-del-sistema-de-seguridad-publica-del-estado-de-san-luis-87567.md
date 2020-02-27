@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2020-01-13"
+last_updated: "2020-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -552,6 +552,10 @@ X. Las demás que establece esta Ley.
 ###### ARTICULO 31.
 
 Los nombramientos para cubrir las plazas vacantes dentro de los cuerpos de seguridad pública, se otorgarán preferentemente al personal egresado de la academia, su equivalente municipal, o institución similar, previo reconocimiento de éstas últimas por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2020)</small>
+
+Cuando se trate de incorporar elementos caninos, deberá darse prioridad de integrar cachorros que se encuentren en albergues de animales establecidos en la Entidad.
 
 ###### ARTICULO 32.
 
@@ -2797,8 +2801,16 @@ TERCERO. El Ejecutivo del Estado, dentro de los treinta días naturales siguient
 
 P.O. 13 DE ENERO DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0573 TER.- SE REFORMA EL ARTÍCULO 35, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0573 TER.- SE REFORMA EL ARTÍCULO 35, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL " DECRETO 0587.- SE ADICIONA AL ARTÍCULO 31 EL PÁRRAFO SEGUNDO, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+SEGUNDO. Se derogan todas las disposiciones que se oponen al presente Decreto.
