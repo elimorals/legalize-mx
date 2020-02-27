@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-561-de-transito-y-seguridad-vial-para-el-estado-1072
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-13"
-last_updated: "2019-08-08"
+last_updated: "2020-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 561 DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE FEBRERO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 13 de abril de 2015.
 
@@ -449,7 +449,9 @@ V. Establecer puestos ambulantes, casetas telefónicas, bases de servicio o para
 
 VI. Reparar vehículos cuando esta actividad se realice de manera habitual o permanente;
 
-VII. Instalar boyas, topes o cualquier objeto, sin permiso de la autoridad competente, así como colocar o fijar objetos para apartar áreas de estacionamiento; y
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+VII. Instalar boyas, topes, piedras, o cualquier objeto, sin permiso de autoridad competente, así como colocar publicidad o fijar objetos para apartar áreas de estacionamiento o invadir la arteria vial o banqueta ubicada afuera de lotes, viviendas, comercios u oficinas, con excepción de lo dispuesto en el artículo 95 de esta Ley; y
 
 VIII. Las demás actividades que determinen esta Ley u otras disposiciones legales aplicables.
 
@@ -1091,7 +1093,9 @@ IX. Respetar las reglas de circulación, especialmente las que se refieren a pre
 
 X. Someterse a los exámenes médicos, teóricos y prácticos exigidos por esta Ley, su Reglamento y demás disposiciones aplicables;
 
-XI. No obstruir la circulación de otros vehículos y de las personas, así como abstenerse de invadir las áreas de rodamiento o las zonas reservadas para el paso peatonal;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+XI. No obstruir la circulación de otros vehículos y de las personas, así como abstenerse de invadir las áreas de rodamiento o las zonas reservadas para el paso peatonal o las entradas y salidas de cocheras;
 
 XII. Evitar que personas carentes de licencia o permiso para manejar o sin capacidad física o mental conduzcan los vehículos a su cargo;
 
@@ -1232,6 +1236,10 @@ En caso de que el ayuntamiento autorice el uso de parquímetros en áreas determ
 Cuando se estacionen vehículos donde se encuentren instalados parquímetros o cualquier otro sistema que mida el tiempo de estacionamiento en la vía pública, la Dirección se apegará al procedimiento que para ese fin establezcan los ordenamientos municipales y el Reglamento.
 
 A falta de señalamiento, los conductores se estacionarán en los lugares en donde exista acotamiento suficiente, sin entorpecer la circulación de otros vehículos, ni los accesos, rampas o lugares exclusivos para personas con discapacidad o mujeres embarazadas, paradas, ni otro elemento de la infraestructura vial al servicio de los demás usuarios.
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
+
+Quedan exentas del pago de parquímetros las personas con discapacidad cuyos vehículos porten placas o calcomanías en términos de lo dispuesto en el segundo párrafo de la fracción I del artículo 42 de esta Ley.
 
 ###### Artículo 93.
 
@@ -1966,3 +1974,23 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. El titular del Ejecutivo Estatal contará con un plazo de treinta días hábiles para que reforme el Reglamento de la Ley de Tránsito y Seguridad Vial para el Estado de Veracruz de Ignacio de la Llave, a fin de establecer la sanción económica a que hace mención el inciso c) de la fracción I del párrafo primero del artículo 154 de esta Ley, la cual no podrá ser menor a diez Unidades de Medida y Actualización (UMA).
+
+G.O. 27 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 543 QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 22 Y LA FRACCIÓN XI DEL ARTÍCULO 77 DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 27 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 544 QUE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 92 DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+Tercero. Se concede un plazo de noventa días naturales contado a partir del inicio de la vigencia del presente Decreto, para que el titular del Poder Ejecutivo del Estado realice las adecuaciones correspondientes al Reglamento de la Ley.
+
+Cuarto. Se concede un plazo de noventa días naturales contado a partir del inicio de la vigencia del presente Decreto, para· que los Ayuntamientos, cuyas disposiciones internas regulen lo establecido en este Decreto, realicen las adecuaciones correspondientes.
