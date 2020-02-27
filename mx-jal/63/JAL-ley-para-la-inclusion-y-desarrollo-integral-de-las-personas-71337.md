@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-inclusion-y-desarrollo-integral-de-las-personas-713
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2019-11-23"
+last_updated: "2020-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY PARA LA INCLUSION Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO -- ANTES LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD --
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO DEL DECRETO 27210/LXII/18, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2018, SE EXTINGUE EL ORGANISMO PÚBLICO DESCONCENTRADO DENOMINADO CONSEJO ESTATAL PARA LA ATENCIÓN E INCLUSIÓN DE PERSONAS CON DISCAPACIDAD.]</small>
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA, EL VEINTISIETE DE FEBRERO DE DOS MIL VEINTE, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
 
 LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 31 de diciembre de 2009.
 
@@ -51,7 +51,11 @@ Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad de
 
 Las disposiciones de esta ley son de orden público, interés social, de observancia general y tiene por objeto:
 
-I. Promover, proteger y garantizar el pleno disfrute de los derechos humanos de las personas con discapacidad;
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+I. PROMOVER, PROTEGER Y GARANTIZAR EL PLENO DISFRUTE DE LOS DERECHOS HUMANOS Y LIBERTADES FUNDAMENTALES DE LAS PERSONAS CON DISCAPACIDAD, ASÍ COMO SU INCLUSIÓN SOCIAL DENTRO DE UN MARCO LEGAL QUE FOMENTE EL RESPETO Y GARANTICE LA IGUALDAD DE OPORTUNIDADES;
 
 II. Establecer las bases para las políticas públicas para favorecer el desarrollo integral de las personas con discapacidad y su inclusión al medio social que los rodea, libre de discriminación;
 
@@ -69,37 +73,73 @@ VI. (REFORMADA [N. DE E. DEROGADA], P.O. 5 DE DICIEMBRE DE 2018)
 
 Para los efectos de esta ley se entiende por:
 
-I. Accesibilidad: Las medidas pertinentes para el acceso de las personas con discapacidad a la infraestructura básica, los inmuebles, equipamiento o entorno urbano y los espacios públicos, al transporte, la información y las comunicaciones, servicios e instalaciones abiertos al público o de uso público;
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+I. ACCESIBILIDAD: LAS MEDIDAS PERTINENTES PARA EL ACCESO DE LAS PERSONAS CON DISCAPACIDAD A LA INFRAESTRUCTURA BÁSICA, LOS INMUEBLES, EQUIPAMIENTO O ENTORNO URBANO Y LOS ESPACIOS PÚBLICOS, AL TRANSPORTE, LA INFORMACIÓN Y LAS COMUNICACIONES, SERVICIOS E INSTALACIONES ABIERTOS AL PÚBLICO O DE USO PÚBLICO, PARA EL EJERCICIO PLENO Y GOCE DE SUS DERECHOS HUMANOS Y LIBERTADES FUNDAMENTALES, Y SU INCLUSIÓN A LA SOCIEDAD;
 
 II. Acciones afirmativas: Medidas de carácter específico y temporal, cuyo objetivo es corregir situaciones patentes de desigualdad, prevenir o compensar las desventajas o dificultades en el disfrute o ejercicio de derechos y libertades que viven las personas con discapacidad en la incorporación y participación plena en los ámbitos de la vida política, económica, social y cultural, bajo los principios de justicia y proporcionalidad;
 
-III. Ajustes razonables: Modificaciones y adaptaciones en la infraestructura y los servicios, cuya realización no imponga carga desproporcionada o que se afecten derechos de terceros;
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
 
-IV. Ayudas técnicas: Dispositivos técnicos, tecnológicos y materiales que permitan favorecer la autonomía e inclusión de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
 
-V. Barreras de Comunicación: Es la ausencia o deficiente aplicación de códigos de comunicación hacia las personas con discapacidad, que obstaculizan su comprensión del entorno y su plena integración;
+III. AJUSTES RAZONABLES: MODIFICACIONES Y ADAPTACIONES NECESARIAS Y ADECUADAS EN LA INFRAESTRUCTURA Y LOS SERVICIOS, CUYA REALIZACIÓN NO IMPONGA UNA CARGA DESPROPORCIONADA O AFECTE DERECHOS DE TERCEROS, CUANDO SE REQUIERAN, EN UN CASO PARTICULAR, PARA GARANTIZAR A LAS PERSONAS CON DISCAPACIDAD EL GOCE O EJERCICIO, EN IGUALDAD DE CONDICIONES CON LOS DEMÁS, DE TODOS LOS DERECHOS HUMANOS Y LIBERTADES FUNDAMENTALES;
+
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+IV. AYUDAS TÉCNICAS: DISPOSITIVOS TÉCNICOS, TECNOLÓGICOS Y MATERIALES QUE PERMITEN HABILITAR, REHABILITAR O COMPENSAR UNA O MÁS LIMITACIONES FUNCIONALES, MOTRICES, SENSORIALES O INTELECTUALES DE LAS PERSONAS CON DISCAPACIDAD, FAVORECIENDO SU AUTONOMÍA E INCLUSIÓN;
+
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+V. BARRERAS DE COMUNICACIÓN: TODO OBSTÁCULO PRODUCIDO COMO CONSECUENCIA DE LA FALTA O DEFICIENCIA EN EL ESTABLECIMIENTO DE SISTEMAS DE SEÑALIZACIÓN, LENGUAJE VISUAL Y AUDITIVO EN ÁREAS O ACTIVIDADES DEL SECTOR PÚBLICO O PRIVADO A LAS QUE PUEDA TENER ACCESO EL PÚBLICO EN GENERAL, QUE OBSTACULIZAN A LAS PERSONAS CON DISCAPACIDAD LA COMPRENSIÓN DEL ENTORNO Y SU PLENA INTEGRACIÓN;
 
 VI. Barreras Físicas: Todos aquellos obstáculos y elementos físicos, de ornato y de construcción que dificultan o impidan a las personas con discapacidad, su libre acceso, desplazamiento e interacción en vía pública, edificaciones y servicios públicos;
 
-VII. Barreras Sociales y Culturales: Aquéllas que se generan debido a los prejuicios y actitudes discriminatorias que no permiten a las personas con discapacidad su inclusión social;
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+VII. BARRERAS SOCIALES Y CULTURALES: AQUÉLLAS QUE SE GENERAN DEBIDO A LOS PREJUICIOS Y ACTITUDES DE RECHAZO, INDIFERENCIA O DISCRIMINACIÓN A QUE SE ENFRENTAN LAS PERSONAS CON DISCAPACIDAD, QUE IMPIDEN SU INCLUSIÓN Y PARTICIPACIÓN EN LA COMUNIDAD, EL LIBRE DESPLAZAMIENTO EN LUGARES PÚBLICOS O PRIVADOS, ASÍ COMO EL USO Y DISFRUTE DE LOS SERVICIOS COMUNITARIOS;
 
 VIII. CODE: Consejo Estatal para el Fomento Deportivo;
 
-IX. (REFORMADA [N. DE E. DEROGADA], P.O. 5 DE DICIEMBRE DE 2018)
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
 
-X. Convención: Convención sobre los derechos de las personas con discapacidad;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2020)</small>
+
+IX. CONVENCIÓN: CONVENCIÓN SOBRE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD;
+
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+X. CUIDADOR PRINCIPAL: PERSONA O FAMILIAR QUE ASUMA LA RESPONSABILIDAD, ATENCIÓN Y CUIDADO DE UNA PERSONA CON DISCAPACIDAD;
 
 XI. DIF Estatal: El Sistema Estatal para el Desarrollo Integral de la Familia;
 
 XII. DIF Municipales: Los Sistemas Municipales para el Desarrollo Integral de la Familia;
 
-XIII. Discriminación: Toda distinción excluyente o restrictiva de un derecho inspirada en la condición de discapacidad de una persona, así como la denegación de ajustes razonables;
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+XIII. DISCRIMINACIÓN: CUALQUIER DISTINCIÓN, EXCLUSIÓN O RESTRICCIÓN DE UN DERECHO POR MOTIVOS DE DISCAPACIDAD QUE TENGA EL PROPÓSITO O EFECTO DE OBSTACULIZAR, MENOSCABAR O DEJAR SIN EFECTO EL RECONOCIMIENTO, GOCE O EJERCICIO, EN IGUALDAD DE CONDICIONES, DE TODOS LOS DERECHOS HUMANOS Y LIBERTADES FUNDAMENTALES EN LOS ÁMBITOS POLÍTICO, ECONÓMICO, SOCIAL, LABORAL, EDUCATIVO, RELIGIOSO, CULTURAL, CIVIL, DEPORTIVO, DE COMUNICACIÓN O DE OTRO TIPO, ASÍ COMO LA DENEGACIÓN DE AJUSTES RAZONABLES;
 
 XIV. Diseño universal: Se entenderá el diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. No se excluirán las ayudas técnicas para grupos particulares de personas con discapacidad, cuando se necesiten;
 
 XV. Estenografía proyectada: Apoyos técnicos y humanos que permiten percibir y transmitir diálogos de manera simultánea a su desarrollo, por medios electrónicos, visuales o en sistema de escritura Braille;
 
-XVI. Educación inclusiva: Conjunto de procesos orientados a eliminar o minimizar obstáculos materiales que limitan el aprendizaje y la participación de todo el alumnado;
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA LA FRACCIÓN XVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+XVI. EDUCACIÓN INCLUSIVA: AQUÉLLA QUE PROPICIA LA INCLUSIÓN Y PARTICIPACIÓN DE LAS PERSONAS CON DISCAPACIDAD EN LAS INSTITUCIONES EDUCATIVAS, MEDIANTE LA APLICACIÓN DE MÉTODOS, TÉCNICAS Y MATERIALES ESPECÍFICOS, ELIMINANDO LOS OBSTÁCULOS MATERIALES QUE LIMITAN EL APRENDIZAJE Y LA PARTICIPACIÓN DE TODO EL ALUMNADO;
 
 XVII. Habilitación: Aplicación coordinada e integral de un conjunto de acciones médicas, psicológicas, educativas y ocupacionales que permitan a las personas con discapacidad congénita, desarrollar su máximo potencial a fin de lograr una óptima integración en los distintos ámbitos en que se desenvuelve;
 
@@ -115,13 +155,25 @@ XXII. Medidas de inclusión: Aquellas disposiciones de carácter preventivo o co
 
 XXIII. Organizaciones: Agrupaciones civiles, legalmente constituidas para el cuidado, atención, salvaguarda de los derechos y desarrollo humano integral de las personas con discapacidad;
 
-XXIV. Persona con discapacidad: Todo ser humano que tiene ausencia o disminución congénita, genética o adquirida de alguna aptitud o capacidad física, mental, intelectual o sensorial, de manera parcial o total, que le impida o dificulte su pleno desarrollo o integración efectiva al medio que lo rodea, de manera temporal o permanente;
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA LA FRACCIÓN XXIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
 
-XXV. Prevención: Es la adopción de programas, medidas y acciones encaminadas a evitar que se produzcan deficiencias físicas, intelectuales, mentales y sensoriales;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+XXIV. PERSONA CON DISCAPACIDAD: TODO SER HUMANO QUE TIENE AUSENCIA O DISMINUCIÓN CONGÉNITA, GENÉTICA O ADQUIRIDA DE ALGUNA APTITUD O CAPACIDAD FÍSICA, MENTAL, INTELECTUAL O SENSORIAL, DE MANERA PARCIAL O TOTAL, O DISPLASIA ESQUELÉTICA DE TALLA BAJA; QUE LE IMPIDA O DIFICULTE SU PLENO DESARROLLO O INTEGRACIÓN EFECTIVA AL MEDIO QUE LO RODEA, DE MANERA TEMPORAL O PERMANENTE;
+
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA LA FRACCIÓN XXV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+XXV. PREVENCIÓN: LA ADOPCIÓN DE PROGRAMAS, MEDIDAS Y ACCIONES ENCAMINADAS A EVITAR QUE SE PRODUZCAN DEFICIENCIAS FÍSICAS, INTELECTUALES, MENTALES, SENSORIALES Y PSICOSOCIALES;
 
 XXVI. Programa Estatal: El Programa Estatal para la Inclusión y Desarrollo de las Personas con Discapacidad;
 
-XXVII. Rehabilitación: Acciones terapéuticas, médicas, psicológicas, sociales, educativas y económicas, con enfoque integral, dirigidas a personas con discapacidad, para que alcance una recuperación funcional o, en su caso, permita compensar la pérdida de una función;
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA LA FRACCIÓN XXVII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+XXVII. REHABILITACIÓN: ACCIONES TERAPÉUTICAS, MÉDICAS, PSICOLÓGICAS, SOCIALES, EDUCATIVAS Y ECONÓMICAS, CON ENFOQUE INTEGRAL, ENCAMINADAS A FACILITAR QUE UNA PERSONA CON DISCAPACIDAD ALCANCE SU NIVEL FÍSICO, MENTAL Y SENSORIAL ÓPTIMO, QUE PERMITA COMPENSAR LA PÉRDIDA DE UNA FUNCIÓN, ASÍ COMO PROPORCIONARLE UNA MEJOR INTEGRACIÓN SOCIAL;
 
 XXVIII. Registro Estatal: El Registro Estatal de Certificación de Reconocimiento y Calificación de Discapacidad;
 
@@ -153,37 +205,67 @@ En la interpretación de las normas aplicables a personas con discapacidad preva
 
 ### Capítulo II. Derechos de las Personas con Discapacidad
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 4.
 
-Las personas con discapacidad tienen derecho a:
+LAS PERSONAS CON DISCAPACIDAD GOZARÁN DE TODOS LOS DERECHOS QUE ESTABLECE EL ORDEN JURÍDICO MEXICANO, LOS TRATADOS INTERNACIONALES Y LA PRESENTE LEY, SIN DISTINCIÓN ALGUNA MOTIVADA POR EL ORIGEN ÉTNICO, NACIONAL, GÉNERO, EDAD, TRASTORNO DE TALLA, CONDICIÓN SOCIAL, ECONÓMICA O DE SALUD, RELIGIÓN, OPINIONES, ESTADO CIVIL, PREFERENCIAS SEXUALES, EMBARAZO, IDENTIDAD POLÍTICA, LENGUA, SITUACIÓN MIGRATORIA O CUALQUIER OTRA CARACTERÍSTICA PROPIA DE LA CONDICIÓN HUMANA O QUE ATENTE CONTRA SU DIGNIDAD, Y TENGA POR OBJETO ANULAR O MENOSCABAR LOS DERECHOS Y LIBERTADES DE LAS PERSONAS, ASÍ COMO LOS SIGUIENTES:
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 I. La protección de su salud y a recibir diagnósticos, medicamentos y tratamientos de manera oportuna, con base en el consentimiento libre e informado; a acceder y recibir copia de su expediente clínico sobre su discapacidad, así como la orientación atención y canalización para su rehabilitación; la información podrá recibirla por sí o, en su caso, solicitarla por conducto de sus familiares o sus legítimos representantes;
 
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 II. La educación inclusiva en todas sus modalidades y niveles, haciendo los ajustes razonables que se consideren necesarios, de acuerdo a la situación que presente cada persona;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 III. Tener acceso comunicativo a través de la interpretación en lengua de señas mexicana, sistema de lecto-escritura braille, sistemas alternativos de comunicación y estenografía proyectada;
 
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 IV. La inclusión social, a través del ejercicio de sus derechos civiles y políticos;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 V. Tener igualdad de oportunidades laborales para ejercer una profesión, oficio o trabajo digno y remunerado;
 
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 VI. Realizar libre elección de empleo, sin restricción de las oportunidades de acceso, permanencia y ascenso en el mismo, sin condición a su contratación como trabajadores por motivo de discapacidad o cualquier otro motivo que atente contra la dignidad humana;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 VII. Tener consideraciones preferenciales y facilidades para el uso de transporte, estacionamientos y espectáculos, y tener libre acceso y desplazamiento en vía pública y servicios públicos y privados;
 
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 VIII. Participar en los programas de cultura, deporte y recreación;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 IX. Acceder a la habilitación, rehabilitación e incorporación para alcanzar una vida con calidad;
 
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 X. Contar cuando lo requiera en razón de su discapacidad, con asesoría y asistencia jurídicas gratuitas por parte del Estado, en cualquier procedimiento legal en materia penal, civil, familiar, laboral;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 XI. Disfrutar de los ajustes razonables en materia de accesibilidad física, de información y comunicaciones, que garanticen, en igualdad de condiciones, el goce o ejercicio de los derechos;
 
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 XII. No ser señalados negativamente o estigmatizados con motivo de su estado de discapacidad;
 
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 XIII. Recibir orientación y tratamiento psicológico para la persona con discapacidad y su familia;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 XIV. Tener acceso a programas asistenciales para personas con discapacidad;
 
@@ -203,27 +285,47 @@ XVII. Las demás que establezca el orden jurídico mexicano, la Convención y es
 
 ### Capítulo III. De las Políticas Públicas
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 5.
 
-Las autoridades están obligadas a generar políticas públicas para la protección y el ejercicio pleno de los derechos de las personas con discapacidad, para lo cual podrán:
+LAS AUTORIDADES ESTÁN OBLIGADAS A GENERAR POLÍTICAS PÚBLICAS, LAS QUE SE DEBERÁN REGIR BAJO LOS PRINCIPIOS DE EQUIDAD, JUSTICIA SOCIAL, IGUALDAD DE OPORTUNIDADES, RESPETO, RECONOCIMIENTO DE LAS DIFERENCIAS, DIGNIDAD, INTEGRACIÓN, ACCESIBILIDAD UNIVERSAL, NO DISCRIMINACIÓN Y TRANSVERSALIDAD, PARA LA PROTECCIÓN Y EL EJERCICIO PLENO DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD, PARA LO CUAL PODRÁN:
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 I. Adoptar medidas de nivelación, de inclusión y acciones afirmativas necesarias para alcanzar el objeto de esta Ley, conforme al Programa Estatal;
 
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 II. Instrumentar acciones en favor de la inclusión social, laboral y económica de las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 III. Incluir en el Proyecto de Presupuesto de Egresos correspondiente los recursos para la implementación y ejecución de las mismas;
 
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 IV. Garantizar la equidad de oportunidades a las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 V. Garantizar el desarrollo integral de las personas con discapacidad, de manera plena y autónoma, en los términos de la presente Ley;
 
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 VI. Consultar y garantizar la participación de las personas con discapacidad, personas físicas o jurídicas y las organizaciones en la elaboración y aplicación de políticas, legislación y programas, con base en la presente Ley;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 VII. Impulsar la participación solidaria de la sociedad y la familia en la preservación y restauración de la salud, así como la prolongación y mejoramiento de la calidad de vida de las personas con discapacidad;
 
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 VIII. Promover y otorgar condiciones para que las familias de personas con discapacidad reciban información y capacitación para participar y apoyar los procesos de habilitación, rehabilitación e inclusión social, educativa y laboral, y de acceso a servicios adecuados de salud y educación; y
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 IX. Las demás previstas por esta Ley y la legislación estatal aplicable.
 
@@ -449,9 +551,11 @@ III. Llevar el Registro Estatal;
 
 IV. Diseñar y operar programas de educación para la salud, salud sexual y salud reproductiva y de acceso a los servicios de planificación familiar; rehabilitación, habilitación, terapia psicológica en lengua de señas mexicana y atención integral de salud dirigida a las personas con discapacidad y capacitación a los familiares;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
 
-V. Establecer bancos de prótesis, órtesis, ayudas técnicas y medicinas de uso restringido para apoyar en su gestión y obtención a personas con discapacidad, privilegiando a personas de escasos recursos;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+V. ESTABLECER BANCOS DE PRÓTESIS, ÓRTESIS, AYUDAS TÉCNICAS Y MEDICINAS DE USO RESTRINGIDO PARA APOYAR EN SU GESTIÓN Y OBTENCIÓN A PERSONAS CON DISCAPACIDAD, PRIVILEGIANDO A PERSONAS DE ESCASOS RECURSOS, Y FOMENTAR LA CREACIÓN DE CENTROS ASISTENCIALES, TEMPORALES O PERMANENTES, DONDE LAS PERSONAS CON DISCAPACIDAD SEAN ATENDIDAS EN CONDICIONES QUE RESPETEN SU DIGNIDAD Y SUS DERECHOS, DE CONFORMIDAD CON LOS PRINCIPIOS ESTABLECIDOS EN LA PRESENTE LEY;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -515,9 +619,23 @@ IV. Diseñar y ejecutar programas que impulsen el desarrollo humano y la asisten
 
 V. Coadyuvar en la vigilancia de la operación de albergues o instituciones que tengan bajo su cuidado y vigilancia o, en su caso, guarda y custodia, de personas con discapacidad; éstas permanecerán en dichos albergues o instituciones por el tiempo mínimo necesario bajo los principios de unidad y reunificación familiar, conforme a la legislación de la materia;
 
-VI. Diseñar y cumplimentar en lo conducente el programa de vivienda del Estado, observando el principio de inclusión de las personas con discapacidad; y
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
 
-VII. Las demás facultades establecidas por esta ley y la legislación estatal en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2020)</small>
+
+VI. PROMOVER, EN COORDINACIÓN CON LA SECRETARÍA DEL SISTEMA DE ASISTENCIA SOCIAL, PROGRAMAS DE APOYO PARA CUIDADORES PRINCIPALES, DE CONFORMIDAD CON LA DISPONIBILIDAD PRESUPUESTAL;
+
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2020)</small>
+
+VII. DISEÑAR Y CUMPLIMENTAR EN LO CONDUCENTE EL PROGRAMA DE VIVIENDA DEL ESTADO, OBSERVANDO EL PRINCIPIO DE INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD; Y
+
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2020)</small>
+
+VIII. LAS DEMÁS FACULTADES ESTABLECIDAS POR ESTA LEY Y LA LEGISLACIÓN ESTATAL EN LA MATERIA.
 
 Los programas de asistencia social, así como para el desarrollo social y humano de las personas con discapacidad incluirán acciones para eliminar las desventajas agravadas por la interseccionalidad de vulnerabilidades, en particular las de mujeres, la infancia y las personas mayores indígenas con discapacidad en situación de abandono y pobreza extrema.
 
@@ -609,11 +727,23 @@ VII. Determinar, en coordinación con la Secretaría, los criterios técnicos y 
 
 VIII. Las demás previstas por esta Ley y la legislación estatal aplicable.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 29.
 
-Corresponde a la Secretaría de Infraestructura y Obra Pública vigilar que en todos los proyectos de construcción y modificación de obra pública a su cargo, se contemplen las características de diseño universal y accesibilidad para garantizar el acceso, movilidad y uso para personas con discapacidad.
+Corresponde a la Secretaría de Infraestructura y Obra Pública:
+
+I. Promover y realizar programas para que los entes públicos lleven a cabo, en forma gradual, los ajustes razonables a las instalaciones abiertas al público o de uso público, tanto en zonas urbanas como rurales que permitan la accesibilidad universal e inclusión total de las personas con discapacidad;
+
+II. Vigilar que en todos los proyectos de construcción y modificación de obra pública a su cargo, se contemplen las características de diseño universal, accesibilidad y ajustes razonables que permitan garantizar el acceso, movilidad y uso para personas con discapacidad;
+
+III. Vigilar, en el ámbito de su competencia, que en la planificación y urbanización de las vías, parques y jardines públicos se contemple la perspectiva de inclusión, accesibilidad y diseño universal a fin de facilitar el tránsito, desplazamiento y uso de estos espacios por las personas con discapacidad.
+
+IV. Implementar y vigilar la adecuada señalización ya sea sonora, visual o táctil para orientar con seguridad a las personas con discapacidad en su desplazamiento y uso de los espacios públicos y privados; y
+
+V. Las demás que establezcan las disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -633,11 +763,23 @@ IV. Las demás que establezcan las leyes de la materia.
 
 Corresponde a la Secretaría del Trabajo y Previsión Social:
 
-I. Promover el establecimiento de políticas en materia de trabajo que tengan como finalidad la inclusión de las personas con discapacidad y verificar que en ningún caso la discapacidad sea motivo de discriminación para el otorgamiento del empleo;
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
 
-II. Promover el otorgamiento de estímulos fiscales y financieros y reconocimiento público a las empresas e instituciones de gobierno que cuenten con programas de contratación de personas con discapacidad en condiciones de igualdad;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
 
-III. Crear y operar una bolsa de trabajo para personas con discapacidad; y
+I. PROMOVER EL ESTABLECIMIENTO DE POLÍTICAS EN MATERIA DE TRABAJO, ENCAMINADAS A LA INCLUSIÓN LABORAL DE LAS PERSONAS CON DISCAPACIDAD, GARANTIZANDO QUE, EN NINGÚN CASO, LA DISCAPACIDAD SEA MOTIVO DE DISCRIMINACIÓN PARA LA SELECCIÓN, CONTRATACIÓN Y CONTINUIDAD EN EL EMPLEO;
+
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+II. PROMOVER EL OTORGAMIENTO DE ESTÍMULOS FISCALES Y FINANCIEROS Y RECONOCIMIENTO PÚBLICO A LAS EMPRESAS E INSTITUCIONES DE GOBIERNO QUE CUENTEN CON PROGRAMAS DE CONTRATACIÓN DE PERSONAS CON DISCAPACIDAD EN CONDICIONES DE IGUALDAD, ASÍ COMO BENEFICIOS ADICIONALES PARA QUIENES EN VIRTUD DE DICHAS CONTRATACIONES REALICEN ADAPTACIONES, ELIMINEN BARRERAS FÍSICAS O REDISEÑEN SUS ÁREAS DE TRABAJO;
+
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20 POR EL QUE SE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+III. IMPULSAR ACCIONES ENTRE LOS SECTORES PÚBLICO, SOCIAL Y PRIVADO PARA LA CREACIÓN Y DESARROLLO DE BOLSAS DE TRABAJO, ASÍ COMO BECAS DE EMPLEO, PARA LAS PERSONAS CON DISCAPACIDAD; Y
 
 IV. Establecer y operar programas de capacitación para el trabajo y de autogestión económica, dirigidos a las personas con discapacidad.
 
@@ -1350,3 +1492,13 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27520/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR, DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD Y DE LA LEY PARA LA OPERACIÓN DE ALBERGUES, TODOS LOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA, EL VEINTISIETE DE FEBRERO DE DOS MIL VEINTE, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+P.O. 27 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27815/LXII/20 MEDIANTE EL CUAL SE REFORMAN DIFERENTES ARTÍCULOS DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Titular del Poder Ejecutivo deberá realizar las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
