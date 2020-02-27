@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-obra-publica-para-el-estado-de-jalisco-y-sus-125988"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-30"
-last_updated: "2019-12-28"
+last_updated: "2020-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE OBRA PÚBLICA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
 
 Ley publicada en el Número 42 Sección III del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2018.
 
@@ -191,7 +191,9 @@ Inspección y Vigilancia.
 
 2. Las Secretarías y dependencias del Poder Ejecutivo, así como los organismos públicos descentralizados las entidades paraestatales del Estado y los Municipios, incluirán, mediante una cláusula tanto en sus modelos de bases de licitación y de contrato, la obligación de realizar las retenciones para la prestación de los servicios de vigilancia, inspección y control de las obras públicas y servicios relacionados con las mismas.
 
-3. La Secretaría de Planeación Administración y Finanzas retendrá los importes a que se refiere el párrafo anterior, y dentro de los cinco días naturales siguientes a la conclusión de cada mes, emitirá un informe mensual sobre los ingresos retenidos, así como de las cifras globales de los ingresos acumulados en el ejercicio presupuestal. Dichos recursos se enterarán directamente a la Contraloría del Estado, dentro de los diez primeros días naturales del mes inmediato posterior al que se hubieren retenido.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
+
+3. La Secretaría de la Hacienda Pública retendrá los importes a que se refiere el párrafo anterior, y dentro de los cinco días naturales siguientes a la conclusión de cada mes, emitirá un informe mensual sobre los ingresos retenidos, así como de las cifras globales de los ingresos acumulados en el ejercicio presupuestal. Dichos recursos se enterarán directamente a la Contraloría del Estado, dentro de los diez primeros días naturales del mes inmediato posterior al que se hubieren retenido.
 
 ###### Artículo 5.
 
@@ -3186,5 +3188,11 @@ SÉPTIMO. El Consejo deberá expedir su reglamento interno dentro de los 90 día
 P.O. 28 DE DICIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27762/LXII/19 QUE REFORMA EL ARTÍCULO 2° ADICIONA EL ARTÍCULO 32 BIS AMBOS DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 27 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27806/LXII/20 MEDIANTE EL CUAL SE REFORMA EL NUMERAL 3 DEL ARTÍCULO 4º DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
