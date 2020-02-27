@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2020-01-25"
+last_updated: "2020-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -667,7 +667,11 @@ En los trabajos que requieran una labor continua, se fijarán los días en que l
 
 ###### Art. 38.
 
-Serán considerados como días de descanso obligatorio: 1° de enero; el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; 1° y 5 de mayo; 16 y 28 de septiembre; 12 de octubre; 2 de noviembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; 25 de diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; y los que determinen las leyes federal y local electorales; en el caso de elecciones ordinarias para efectuar la jornada electoral; y los que se determinen por acuerdo del Titular del Poder Ejecutivo del Estado, previa su publicación en el Periódico Oficial “El Estado de Jalisco”.
+Serán considerados como días de descanso obligatorio: 1° de enero; el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; 1° y 5 de mayo; 16 y 28 de septiembre; 12 de octubre; 2 de noviembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; 25 de diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; y los que determinen las leyes federal y local electorales; en el caso de elecciones ordinarias para efectuar la jornada electoral; y los que se determinen por acuerdo del Titular del Poder Ejecutivo del Estado, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2020)</small>
+
+Las entidades públicas señaladas en el artículo 1ro de esta Ley, podrán establecer periodos y días inhábiles adicionales para su respectivo ámbito, de conformidad con la naturaleza de sus funciones.
 
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
@@ -681,7 +685,9 @@ Los servidores públicos que por necesidad del servicio, laboren en sus días de
 
 Los servidores públicos que tengan más de seis meses consecutivos de servicio disfrutarán, cuando menos, de dos períodos anuales de vacaciones de 10 días laborales cada uno, en las fechas que se señalen con anterioridad, según el Calendario que para ese efecto establezca la Entidad Pública, de acuerdo con las necesidades del servicio. En todo caso, se dejarán guardias para la tramitación de los asuntos pendientes, para las que se utilizarán, de preferencia, los servidores que no tuvieren derecho a vacaciones.
 
-Cuando un servidor no pudiere hacer uso de las vacaciones en los períodos señalados por necesidades del servicio, disfrutará de ellas durante los 10 días siguientes a la fecha en que haya desaparecido la causa que impidiere el disfrute de ese descanso, pero en ningún caso los servidores que laboren en períodos vacacionales tendrán derecho a doble pago de sueldo.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
+
+Cuando un servidor no pudiere hacer uso de las vacaciones en los períodos señalados por necesidades del servicio, disfrutará de ellas de conformidad a lo previsto en esta Ley cuando haya desaparecido la causa que impidiere el disfrute de ese descanso, pero en ningún caso los servidores que laboren en períodos vacacionales tendrán derecho a doble pago de sueldo.
 
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
@@ -721,25 +727,17 @@ En el caso de licencias por tiempo indefinido, cuando el servidor público prete
 
 Para las suplencias de los servidores públicos a que se refiere este artículo, se estará a lo dispuesto por las leyes de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
 
 ###### Art. 43.
 
-Las mujeres durante el embarazo, no realizarán trabajos que exijan un esfuerzo considerable o signifiquen un peligro para su salud, en relación con la gestación; gozarán siempre de noventa días de descanso, pudiendo ser, treinta días antes de la fecha que aproximadamente se fije para el parto, y sesenta días después del mismo; durante estos períodos percibirán el sueldo íntegro que les corresponda. Lo anterior, independientemente de que la autoridad encargada de expedir las incapacidades, las otorgue o no en el momento acertado. Ese lapso se considerará como tiempo efectivo de trabajo.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+Las mujeres durante el embarazo, no realizarán trabajos que exijan un esfuerzo considerable o signifiquen un peligro para su salud, en relación con la gestación; gozarán siempre de noventa días de descanso, pudiendo ser, treinta días antes de la fecha que aproximadamente se fije para el parto, y sesenta días más, después del mismo; durante estos períodos percibirán el sueldo íntegro que les corresponda. Lo anterior, independientemente de que la autoridad encargada de expedir las incapacidades, las otorgue o no en el momento acertado. Ese lapso se considerará como tiempo efectivo de trabajo.
 
 Durante los primeros cinco meses a partir de la fecha de reanudación de labores, las madres tendrán derecho a un descanso extraordinario por cada tres horas de trabajo, en la inteligencia de que aquellas, con jornadas de seis horas y media o menos, disfrutarán de un solo descanso de media hora, para alimentar a sus hijos, así como gozar del derecho al uso de un espacio adecuado donde pueden extraer su leche materna.
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
-
-En caso de nacimiento de su hijo o hija, el trabajador gozará de una licencia por paternidad remunerada de quince días hábiles. Esta licencia será otorgada desde la fecha de nacimiento, o bien, hasta antes de los tres meces (sic) de nacido.
-
-> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+En caso de nacimiento de su hijo o hija, el trabajador gozará de una licencia por paternidad remunerada de quince días hábiles. Esta licencia será otorgada desde la fecha de nacimiento, o bien, hasta antes de los tres meses de nacido.
 
 El trabajador a quien se le conceda la adopción de un niño o niña también disfrutará de este permiso o licencia de paternidad, contada a partir de que la misma sea acordada por sentencia definitiva de la autoridad correspondiente.
-
-> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
 En caso de que fallezca la madre a consecuencia del parto, el padre del niño o niña tendrá derecho a una licencia consistente en seis semanas, con los mismos derechos.
 
@@ -2992,3 +2990,9 @@ SEGUNDO. La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres facilitar
 TERCERO. Se instruye a la Secretaría de Trabajo y Previsión Social para emitir los lineamientos para el otorgamiento de licencias de paternidad responsable, para lo cual, gozará de un término de 180 días a partir de la publicación del presente Decreto.
 
 CUARTO. Se instruye a la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres para emitir y publicar en los portales electrónicos los lineamientos de sensibilización y formación sobre el ejercicio de la paternidad responsable y corresponsabilidad en el cuidado y crianza de las hijas e hijos.
+
+P.O. 27 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27809/LXII/20 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
