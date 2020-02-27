@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2020-01-23"
+last_updated: "2020-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -291,9 +291,9 @@ La o el síndico deberá tener título y cédula profesional de abogado, o licen
 
 Ningún integrante del Ayuntamiento podrá ocupar cargo honorífico o remunerado de director, jefe de departamento o empleado del Municipio, ni ningún otro de sus organismos intermunicipales o paramunicipales, debiendo constreñirse su responsabilidad al ejercicio propiamente edilicio.
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
 
-El desempeño de cualesquiera de los cargos mencionados en el párrafo anterior, por algún integrante del ayuntamiento, sin la respectiva licencia, será considerado como causal de responsabilidad en los términos y para los efectos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+El desempeño de cualquiera de los cargos mencionados en el párrafo anterior, por algún integrante del ayuntamiento, sin la respectiva licencia, será considerado como causal de responsabilidad en los términos y para los efectos de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
@@ -427,7 +427,9 @@ Los ayuntamientos podrán sesionar con la asistencia de más de la mitad de sus 
 
 Si alguno de los miembros del Ayuntamiento tuviere un interés directo o indirecto en algún asunto de los que se vayan a tratar, deberá manifestarlo y ausentarse de la sala de sesiones durante la discusión y resolución del mismo.
 
-La infracción a lo dispuesto en el párrafo anterior, será causa de responsabilidad y se sancionará en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
+
+La infracción a lo dispuesto en el párrafo anterior, será causa de responsabilidad y se sancionará en los términos de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
 
 ###### ARTICULO 27.
 
@@ -543,9 +545,9 @@ IV. Dividir la demarcación territorial municipal para efectos administrativos;
 
 V. Otorgar con la aprobación del Congreso del Estado, previo cumplimiento de los requisitos necesarios, la categoría política y denominación que les corresponda a los centros de población conforme a esta Ley;
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
 
-VI. Formular y remitir al Congreso del Estado para su aprobación, a más tardar el veinticinco de noviembre de cada año, su proyecto de Ley de Ingresos para el ejercicio fiscal siguiente. De no hacerlo así, se tomarán como iniciativas las leyes que hubiesen regido durante el año fiscal inmediato anterior. Los integrantes del ayuntamiento que incumplan con esta obligación serán sancionados de conformidad con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí y demás ordenamientos que sean aplicables;
+VI. Formular y remitir al Congreso del Estado para su aprobación, a más tardar el veinticinco de noviembre de cada año, su proyecto de Ley de Ingresos para el ejercicio fiscal siguiente. De no hacerlo así, se tomarán como iniciativas las leyes que hubiesen regido durante el año fiscal inmediato anterior. Los integrantes del ayuntamiento que incumplan con esta obligación serán sancionados de conformidad con lo establecido en la Ley de Responsabilidades Administrativas para el Estado y Municipios San Luis Potosí y demás ordenamientos que sean aplicables;
 
 VII. Los ayuntamientos podrán solicitar al Congreso del Estado las modificaciones que a su juicio ameriten las leyes de ingresos ya aprobadas;
 
@@ -561,9 +563,9 @@ IX. Aprobar a más tardar el treinta de diciembre de cada año, el presupuesto a
 
 Dentro de los quince días previos al inicio de cada ejercicio fiscal, el Tesorero someterá a la consideración del Ayuntamiento, las normas y criterios para fijar los parámetros que servirán de base para la asignación de las remuneraciones de sus integrantes; entre los que se considerará la proporción con el número de habitantes del municipio y su ingreso promedio, así como los ingresos disponibles.
 
-> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
 
-Al determinar en el presupuesto de egresos las remuneraciones totales de sus miembros, con independencia de los conceptos con los que se integren, los ayuntamientos deberán atender a los referidos criterios y parámetros. La asignación de una remuneración sin observar lo previsto en este artículo, se sancionará en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí;
+Al determinar en el presupuesto de egresos las remuneraciones totales de sus miembros, con independencia de los conceptos con los que se integren, los ayuntamientos deberán atender a los referidos criterios y parámetros. La asignación de una remuneración sin observar lo previsto en este artículo, se sancionará en términos de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí;
 
 X. Proponer para su aprobación al Congreso del Estado, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
@@ -717,7 +719,9 @@ El Congreso del Estado, previo procedimiento, por acuerdo de cuando menos las do
 
 I. Por faltar consecutivamente a más de tres sesiones de Cabildo sin causa justificada;
 
-II. Por la instauración de los procedimientos de juicio político o responsabilidad administrativa, a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+II. Por la instauración de los procedimientos de: juicio político, o responsabilidad administrativa, a que se refieren la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí; y la Ley de Juicio Político del Estado de San Luis Potosí, respectivamente.
 
 III. Por incapacidad física o legal que le impida cumplir con su responsabilidad.
 
@@ -1077,9 +1081,7 @@ XXXVI. Visitar cuando menos dos veces al año todas las localidades que se encue
 
 XXXVII. En materia de seguridad pública ejercer las facultades que le confieren la Ley de Seguridad Pública del Estado, las que le correspondan en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, así como las que le confiera la Ley que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, y los convenios que en materia de seguridad pública celebre el Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
-
-XXXVIII. Substanciar los procedimientos administrativos disciplinarios y resarcitorios, determinando o no la existencia de responsabilidades administrativas, por incumplimiento de las obligaciones de los servidores públicos municipales no sujetos a responsabilidad por parte del Congreso del Estado, sólo en los casos en los que no se encuentre en funciones el contralor interno, cuando por cualquiera de las razones establecidas en el artículo 56 fracción XIII de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, el contralor interno se encuentra impedido para conocer o, cuando sea el propio contralor interno el presunto responsable al que se someterá a procedimiento administrativo sancionatorio, pudiendo aplicar las sanciones disciplinarias correspondientes, por acuerdo de Cabildo;
+XXXVIII. (DEROGADA, P.O. 27 DE FEBRERO DE 2020)
 
 > <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
 
@@ -1251,9 +1253,9 @@ I. Ser ciudadano potosino en pleno uso de sus derechos civiles y políticos;
 
 II. (DEROGADA, P.O. 22 DE JUNIO DE 2018)
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
 
-III. Contar con título y cédula profesional o nivel licenciatura;
+III. Contar con título y cédula profesional o nivel licenciatura, con la antigüedad mínima de tres años en el ejercicio de la profesión. Respecto a las demarcaciones con población de más de cien mil habitantes, será necesario que el título y cédula profesional sean de licenciatura en derecho, o abogado;
 
 IV. No ser pariente consanguíneo o por afinidad hasta el cuarto grado de los integrantes del Ayuntamiento, y
 
@@ -1507,7 +1509,9 @@ II. Notoria ineficiencia, negligencia e impericia en el desempeño del cargo;
 
 III. Comisión de faltas administrativas o delitos graves;
 
-IV. Incumplir cualquiera de las causas de responsabilidad como servidor público que establece el artículo 56 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+IV. Incumplir cualquiera de las causas de responsabilidad como servidor público establecidas en los capítulos, I, y II, del Título Tercero de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, y
 
 V. Las demás que le señalen las leyes y reglamentos municipales.
 
@@ -2023,7 +2027,9 @@ Cuando alguno de los representantes de los organismos referidos no cumpla con su
 
 ARTICULO 107 BIS. Los integrantes del Cabildo, así como los servidores públicos municipales que desempeñen cargos de confianza en el ayuntamiento, están obligados a asistir y acreditar los cursos de inducción, talleres de capacitación y profesionalización que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia o entidad competente, tendentes a la certificación en el ramo o función a desempeñar, a fin de que cuenten con los conocimientos y habilidades necesarias para cumplir con las funciones que desempeñan, bajo los criterios de eficacia, eficiencia, legalidad, imparcialidad, y honradez. El Ejecutivo Estatal determinará en el Reglamento correspondiente, el índice de materias básicas a certificar.
 
-El incumplimiento de la obligación señalada en el párrafo que antecede, será objeto de las sanciones que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, siempre y cuando no la realice durante el primer año del ejercicio de sus funciones.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
+
+El incumplimiento de la obligación señalada en el párrafo que antecede, será objeto de las sanciones que establece la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, siempre y cuando no la realice durante el primer año del ejercicio de sus funciones.
 
 La institución o instituciones certificadoras serán designadas mediante los procedimientos que establezcan las leyes de la materia.
 
@@ -2221,7 +2227,9 @@ X. Las demás que en orden prioritario se consideren con tal carácter.
 
 No se hará pago alguno que no esté previsto en el presupuesto anual de egresos correspondiente.
 
-Las omisiones o excesos de las autoridades municipales en el manejo de la Hacienda Municipal, se sancionarán en los términos previstos por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
+
+Las omisiones o excesos de las autoridades municipales en el manejo de la Hacienda Municipal, se sancionarán en los términos previstos por la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
 
 > <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
@@ -3194,3 +3202,19 @@ P.O. 23 DE ENERO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que (sic) opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0589.- SE REFORMA (SIC) LOS ARTÍCULOS, 13 EN SU PÁRRAFO ÚLTIMO, 26 EN SU PÁRRAFO SEGUNDO, 31 EN EL INCISO B) SUS FRACCIONES, VI, Y IX EL PÁRRAFO TERCERO, 41 EN SU FRACCIÓN II, 85 TER EN SU FRACCIÓN IV, 107 BIS EN SU PÁRRAFO SEGUNDO, Y 120 EN SU PÁRRAFO SEGUNDO; Y DEROGA DEL ARTÍCULO 70 SU FRACCIÓN XXXVIII, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0592.- SE REFORMA EL ARTÍCULO 77 EN SU FRACCIÓN III, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
