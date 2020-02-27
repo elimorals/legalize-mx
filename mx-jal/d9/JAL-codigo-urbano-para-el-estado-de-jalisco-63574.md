@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2019-12-28"
+last_updated: "2020-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -763,9 +763,9 @@ XLVII. Aprobar de conformidad con el convenio de coordinación metropolitana, el
 
 XLVIII. Aprobar los convenios de coordinación metropolitana propuestos por las instancias de coordinación correspondientes;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
 
-XLIX. Participar en la constitución de los Institutos Metropolitanos de Planeación, propuestos por la Junta de Coordinación Metropolitana, de conformidad con el convenio de coordinación metropolitana;
+XLIX. Participar en la constitución de los institutos de Planeación y Gestión del Desarrollo, propuestos por la Junta de Coordinación Metropolitana, de conformidad con el convenio de coordinación metropolitana;
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
@@ -6458,3 +6458,9 @@ P.O. 28 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27783/LXII/19 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 39, FRACCIONES V Y XII DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 27 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27808/LXII/20 MEDIANTE EL CUAL SE REFORMA (SIC) LOS ARTÍCULOS 26, NUMERAL 1, FRACCIÓN II DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO Y EL ARTÍCULO 10, FRACCIÓN XLIX DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
