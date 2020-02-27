@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-turismo-de-la-ciudad-de-mexico-antes-ley-de-turismo-7627
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-30"
-last_updated: "2014-11-28"
+last_updated: "2020-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76273&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-08-23"
 
 LEY DE TURISMO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE FEBRERO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 30 de agosto de 2010.
 
@@ -45,8 +45,6 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE TURISMO DEL DISTRITO FEDERAL.
 ###### ARTÍCULO ÚNICO.
 
 Se expide la Ley de Turismo del Distrito Federal para quedar como sigue:
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
 LEY DE TURISMO DEL DISTRITO FEDERAL
 
@@ -489,6 +487,10 @@ V. La Secretaría, a través de programas de certificación, promoverá la excel
 VI. La difusión de la marca, imagen y servicios turísticos, así como los atractivos turísticos del Distrito Federal, en medios de comunicación masiva; y
 
 VII. Cualquier otra actividad cuya finalidad sea la comunicación persuasiva para incrementar la imagen, los flujos turísticos, la estadía y el gasto de los turistas en la Ciudad de México.
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
+VIII. Generar una aplicación para dispositivos móviles denominada “TURISMO CDMX”, en la que se publique todo lo relacionado con las actividades de interés turístico de la Secretaria de Turismo en la Ciudad de México incluyendo: atractivos, patrimonio, servicios, hoteles, restaurantes, recintos culturales y eventos turísticos de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 6 DE JULIO DE 2012)</small>
 
@@ -991,3 +993,15 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 27 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO RESPECTO A LAS OBSERVACIONES REALIZADAS POR LA JEFA DE GOBIERNO AL DECRETO POR EL QUE SE ADICIONA AL ARTÍCULO 40 LA FRACCIÓN VIII DE LA LEY DE TURISMO DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor una vez que (sic) el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO.- La Secretaría de Turismo, una vez que cuente con los recursos presupuestales suficientes, deberá generar las acciones correspondientes para poner en funcionamiento la aplicación señalada en el presente Decreto.
+
+CUARTO.- Publíquese en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión en el Diario Oficial de la Federación.
