@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-conducta-de-la-secretaria-de-comunicaciones-y-130367"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-07-12"
-last_updated: "2018-07-12"
+last_updated: "2020-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE COMUNICACIONES Y OBRAS PUBLICAS DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE COMUNICACIONES Y OBRAS PÚBLICAS DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 27 DE FEBRERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA SECRETARÍA DE COMUNICACIONES Y OBRAS PÚBLICAS DEL ESTADO DE DURANGO (SECOPE)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 12 de julio de 2018.
 
@@ -984,3 +986,15 @@ Dado en la sede de la Secretaría de Comunicaciones y Obras Públicas del Gobier
 ING. ARTURO ENRIQUE SALAZAR MONCAYO
 
 SECRETARIO DE COMUNICACIONES Y OBRAS PÚBLICAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE COMUNICACIONES Y OBRAS PÚBLICAS DEL ESTADO".]
+
+PRIMERO.- El presente acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se abroga el Código de Conducta de la Secretaría de Comunicaciones y Obras Públicas del Estado, publicado en el Periódico Oficial del Gobierno del Estado de Durango número 55, del 12 de julio de 2018.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Durango y en la página de internet de la Secretaría de Comunicaciones y Obras Públicas del Estado.
