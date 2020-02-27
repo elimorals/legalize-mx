@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2019-12-27"
+last_updated: "2020-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -805,7 +805,7 @@ I. Contar con la ciudadanía mexicana y estar en pleno ejercicio de sus derechos
 
 II. Gozar de residencia efectiva de dos años en el Estado de San Luis Potosí, al momento de tomar posesión en el cargo;
 
-III. Ser mayor de veinticinco años de edad al día de su toma de posesión;
+III. (DEROGADA, P.O. 27 DE FEBRERO DE 2020)
 
 IV. Contar con buena reputación y honradez, no haber sido condenado por delito intencional que haya ameritado pena privativa de libertad, u otro que lastime seriamente su buena fama en el concepto público;
 
@@ -855,7 +855,7 @@ I. Contar con la ciudadanía mexicana y estar en pleno ejercicio de sus derechos
 
 II. Gozar de residencia efectiva de dos años en el Estado de San Luis Potosí, al momento de tomar posesión en el cargo;
 
-III. Ser mayor de veinticinco años de edad al día de su toma de posesión;
+III. (DEROGADA, P.O. 27 DE FEBRERO DE 2020)
 
 IV. Contar con buena reputación y honradez, no haber sido condenado por delito intencional que haya ameritado pena privativa de libertad, u otro que lastime seriamente su buena fama en el concepto público;
 
@@ -893,7 +893,7 @@ I. Contar con la ciudadanía mexicana y estar en pleno ejercicio de sus derechos
 
 II. Gozar de residencia efectiva de dos años en el Estado de San Luis Potosí, al momento de tomar posesión en el cargo;
 
-III. Ser mayores de treinta años de edad el día en que tomen posesión;
+III. (DEROGADA, P.O. 27 DE FEBRERO DE 2020)
 
 IV. Tener experiencia probada en la defensa y promoción de los Derechos Humanos;
 
@@ -1840,3 +1840,11 @@ SEGUNDO. El Congreso del Estado, dentro de los treinta días hábiles siguientes
 TERCERO. Los titulares de las autoridades, Investigadora; y Substanciadora, integrantes del Órgano Interno de Control, de la Comisión Estatal de Derechos Humanos del Estado de San Luis Potosí, que a la entrada en vigor de este Decreto se encuentren en funciones, seguirán en el cumplimiento de su cargo, hasta en tanto el Congreso del Estado elija a quienes deban suplirlos, en los términos precisados en el Transitorio que antecede.
 
 CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0593.- SE DEROGA DE LOS ARTÍCULOS, 58 LA FRACCIÓN III, 60 LA FRACCIÓN III, Y 62 LA FRACCIÓN III, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
