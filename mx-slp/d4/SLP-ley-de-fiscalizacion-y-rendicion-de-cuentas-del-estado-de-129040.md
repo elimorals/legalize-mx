@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12904
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2019-11-12"
+last_updated: "2020-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 11 de junio de 2018.
 
@@ -779,7 +779,9 @@ II. Ser el conducto de comunicación entre el Congreso del Estado y la Auditorí
 
 III. Recibir los informes que le presente la Auditoría Superior del Estado, y remitirlos junto con sus respectivos dictámenes a la Directiva, exclusivamente para los efectos que previenen los artículos 43,44 y 45 de esta Ley;
 
-IV. Evaluar el cumplimiento de los objetivos y metas del programa operativo anual de la Auditoría Superior del Estado, así como auditar por sí o a través de servicios de auditoría externos, la debida aplicación de los recursos a cargo de ésta;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+IV. Evaluar el cumplimiento de los objetivos y metas del programa operativo anual de la Auditoría, así como auditar por sí, con el auxilio de la Unidad, o a través de servicios de auditoría externos, la debida aplicación de los recursos a cargo de ésta;
 
 V. Citar al Titular de la Auditoría Superior del Estado para conocer en lo específico de los informes presentados;
 
@@ -803,11 +805,15 @@ XIV. Conocer y aplicar en lo conducente el Reglamento Interior de la Auditoría 
 
 XV. Analizar la información, en materia de fiscalización superior del estado, de contabilidad y auditoría gubernamentales y de rendición de cuentas, y podrá solicitar la comparecencia de servidores públicos de la Auditoría Superior del Estado vinculados con los resultados de la fiscalización;
 
-> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
 
-XVI. Invitar a la sociedad civil organizada, así como a los miembros del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, a que participen como observadores o testigos sociales en las sesiones ordinarias de la Comisión, y en la realización de ejercicios de contraloría social en los que se articule a la población con las entidades fiscalizadas, y
+XVI. Invitar a la sociedad civil organizada, así como a los miembros del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, a que participen como observadores o testigos sociales en las sesiones ordinarias de la Comisión, y en la realización de ejercicios de contraloría social en los que se articule a la población con las entidades fiscalizadas;
 
-XVII. Las demás que establezca esta Ley y demás disposiciones legales aplicables, así como la normatividad interior del Congreso.
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+XVII. Solicitar a la Auditoría Superior del Estado, la práctica de auditorías e investigaciones de obras, programas y acciones de los entes auditables, en virtud de la existencia de denuncias ciudadanas, para los efectos a que se refiere el artículo 97 de esta Ley, y
+
+XVIII. Las demás que establezca esta Ley y demás disposiciones legales aplicables, así como la normatividad interior del Congreso.
 
 ###### ARTÍCULO 70.
 
@@ -915,7 +921,9 @@ XIX. Dar cuenta comprobada al Congreso, a través de la Comisión, de la aplicac
 
 XX. Ejercer el derecho de cobro de las multas que se impongan en los términos de esta Ley;
 
-XXI. Presentar las denuncias penales o de juicio político que procedan, como resultado de las irregularidades detectadas con motivo de la fiscalización, con apoyo en los dictámenes técnicos respectivos. Preferentemente lo hará cuando concluya el procedimiento administrativo;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+XXI. Presentar las denuncias penales o de juicio político que procedan, como resultado de las irregularidades detectadas con motivo de la fiscalización, con apoyo en los dictámenes técnicos respectivos. Preferentemente lo hará cuando concluya el procedimiento administrativo, debiendo establecer los lineamientos, manuales y protocolos para la presentación de denuncias;
 
 XXII. Expedir la política de remuneraciones, prestaciones y estímulos del personal de confianza de la Auditoría Superior del Estado, observando lo aprobado en el Presupuesto de Egresos correspondiente y a las disposiciones de la Ley de Presupuesto y Responsabilidad Hacendaria para el Estado y Municipios de San Luis Potosí;
 
@@ -1025,61 +1033,105 @@ Son trabajadores de base los que desempeñan labores en puestos no incluidos en 
 
 La relación jurídica de trabajo se entiende establecida entre la Auditoría Superior del Estado, a través de su Titular y los trabajadores a su servicio para todos los efectos.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 89 BIS. La Auditoría contará con un órgano interno de control, cuyo titular será electo por el Congreso del Estado; durará en su encargo cuatro años, pudiendo ser ratificado por única vez para un periodo igual. Podrá ser removido con la misma votación requerida para su elección, por las causas y conforme a los procedimientos previstos en la ley.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 89 TER. La persona titular del Órgano Interno de Control, será electa por el Congreso del Estado, conforme al procedimiento siguiente:
+
+I. Emitirá una convocatoria pública a propuesta de la Comisión de Vigilancia, en la que se establecerán las bases a que se sujetará la elección, así como los requisitos que deberán cumplir las personas que aspiren a ejercer dicho cargo. La convocatoria será publicada en el Periódico Oficial del Gobierno del Estado, y cuando menos en uno de los diarios locales de mayor circulación en la Entidad;
+
+II. La Comisión de Vigilancia integrará una lista con el nombre de las personas aspirantes que hayan cumplido los requisitos establecidos en la ley y en la convocatoria respectiva, misma que presentará a la consideración del Pleno del Congreso del Estado;
+
+III. El Pleno del Congreso del Estado por mayoría de sus miembros presentes, elegirá de la lista que le presente la Comisión de Vigilancia, a quien deberá fungir como titular del órgano interno de control y
+
+IV. Efectuada la elección, se citará a la persona electa para que rinda la protesta de ley ante el Pleno del Congreso.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 89 QUÁTER. Corresponde a la Comisión de Vigilancia proponer al Pleno la ratificación del titular del órgano interno de control, lo que hará de su conocimiento con cuando menos cuarenta y cinco días naturales previos a la fecha de conclusión del encargo. Para la ratificación también se requerirá el voto de la mayoría de los diputados presentes.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 89 QUINQUE. Para ser titular del órgano interno de control, se requiere:
+
+I. Contar con título y cédula profesional con una antigüedad de por lo menos cinco años como Licenciado en Derecho o Abogado; Contador Público, Administrador Público, Economista, o cualquier otra relacionada con actividades de fiscalización;
+
+II. No haber desempeñado cualquier cargo de elección popular durante los tres años anteriores a su elección;
+
+III. No desempeñar o haber desempeñado algún cargo de dirección en un partido político durante los últimos cinco años;
+
+IV. No ser pariente por afinidad o consanguinidad en cualquier grado, respecto de los funcionarios o empleados de la Auditoría, y
+
+V. No haberse desempeñado en un cargo de coordinación, dirección o similar, en cualquiera de los entes auditables en los últimos dos años.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 89 SEXTIES. Son facultades y atribuciones del órgano interno de control, además de las que dispone la Ley de Responsabilidades, las siguientes:
+
+I. Practicar en el cumplimiento de sus funciones, auditorías internas de carácter financiero, operacional, administrativo y de procedimientos, incluyendo los sistemas, controles y procedimientos en uso;
+
+II. Propiciar que se cumplan las disposiciones legales y reglamentarias aplicables a la Auditoría Superior, así como la normatividad que rige internamente a la institución;
+
+III. Evaluar si los recursos humanos, materiales, técnicos y financieros asignados a las auditorías especiales de la Auditoría Superior, se utilizan con economía, eficiencia y eficacia;
+
+IV. Vigilar que los sistemas de control interno establecidos en la Auditoría Superior operen eficientemente;
+
+V. Formular las recomendaciones técnicas y legales que estime convenientes, e informar de ellas oportunamente al Auditor Superior y darles seguimiento;
+
+VI. Revisar la documentación justificativa y comprobatoria del gasto y del ingreso de la Auditoría Superior;
+
+VII. Investigar actos u omisiones de los servidores públicos de la Auditoría Superior del Estado, así como recibir denuncias por faltas administrativas derivadas del incumplimiento de obligaciones cometidas por, el titular de la Auditoría; auditores especiales; y demás servidores públicos de la Auditoría Superior del Estado; iniciar investigaciones y, en el caso de faltas administrativas no graves, imponer las sanciones que correspondan, en los términos de la Ley de Responsabilidades;
+
+VIII. Promover en los casos de faltas graves a que se refiere la Ley de Responsabilidades, la imposición de sanciones ante el Tribunal;
+
+IX. Conocer y resolver el recurso que interpongan los servidores públicos sancionados por faltas no graves, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas;
+
+X. Realizar la defensa jurídica de las resoluciones que se emitan ante las diversas instancias jurisdiccionales, e interponer los medios de defensa que procedan en contra de las resoluciones emitidas por el Tribunal, cuando el órgano interno de control sea parte en esos procedimientos;
+
+XI. Participar en los actos de entrega recepción de los servidores públicos de la Auditoría Superior del Estado, a quienes les resulte dicha obligación en términos del ordenamiento correspondiente;
+
+XII. Presentar denuncias o querellas ante la autoridad competente, en caso de detectar conductas presumiblemente constitutivas de delito, imputables a los servidores públicos de la Auditoría Superior del Estado;
+
+XIII. Recibir y conocer las quejas que presenten las entidades fiscalizadas sobre los actos del titular o los funcionarios de la Auditoría Superior del Estado, que contravengan las disposiciones de esta Ley, substanciando el procedimiento de investigación y, en su caso, actuar de acuerdo con sus atribuciones;
+
+XIV. Llevar el registro y análisis de la situación patrimonial de los servidores públicos adscritos a la Auditoría Superior del Estado;
+
+XV. Intervenir en todas las licitaciones públicas y concursos que se efectúen, para adjudicar los contratos que celebre la Auditoría Superior, para efecto de su valoración;
+
+XVI. Conocer y resolver de las inconformidades que presenten los proveedores o contratistas, por el incumplimiento de las disposiciones aplicables para la Auditoría Superior del Estado en materia de adquisiciones, arrendamientos y servicios del sector público, así como de obras públicas y servicios relacionados con las mismas;
+
+XVII. Participar con derecho de voz en los comités, de obras; y de adquisiciones de la Auditoría Superior del Estado, establecidos en las disposiciones aplicables para la Auditoría Superior del Estado en materia de adquisiciones, arrendamientos y servicios del sector público, así como de obras públicas y servicios relacionados con las mismas, y
+
+XVIII. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
+
 ## TÍTULO SÉPTIMO. DE LA UNIDAD DE EVALUACIÓN Y CONTROL DE LA COMISIÓN DE VIGILANCIA
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
+
 ###### ARTÍCULO 90.
 
-La Unidad será un órgano de la Comisión para vigilar que los servidores públicos de la Auditoría Superior del Estado en el desempeño de sus funciones, se sujeten a lo establecido en las disposiciones legales aplicables, a los procesos de fiscalización, y cumplan con las metas de (sic) Ley de Responsabilidades y a las demás disposiciones legales aplicables.
+La Unidad será un órgano auxiliar de apoyo de la Comisión para el cumplimiento de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
 
 ###### ARTÍCULO 91.
 
-La Unidad tendrá las atribuciones que le asigne la comisión, dentro de las que estarán las siguientes:
+La Unidad tendrá las atribuciones que le asigne la Comisión, de acuerdo con las que le prescriben los artículos, 69 de esta Ley; y 118 de la Ley Orgánica del Poder Legislativo del Estado de San Luis Potosí.
 
-I. Planear y programar, previo acuerdo de la comisión, auditorías a las diversas áreas que integran la Auditoría Superior del Estado;
-
-II. Requerir a las unidades administrativas de la Auditoría Superior del Estado la información necesaria para cumplir con sus atribuciones;
-
-III. Expedir certificaciones de los documentos que obren en los archivos de la Unidad, así como representar a la misma;
-
-IV. Auxiliar a la Comisión en la elaboración de los análisis y las conclusiones del Informe General, los informes individuales y demás documentos que le envíe la Auditoría Superior del Estado;
-
-V. Proponer a la Comisión los indicadores y sistemas de evaluación del desempeño de la propia Unidad y los que utilice para evaluar a la Auditoría Superior del Estado, así como los sistemas de seguimiento a las observaciones y acciones que promuevan tanto la Unidad como la Comisión;
-
-VI. Vigilar que los servidores públicos de la Auditoría Superior del Estado se conduzcan en términos de lo dispuesto por esta Ley y demás disposiciones legales aplicables;
-
-VII. Practicar, por sí o a través de auditores externos, auditorías para verificar el desempeño y el cumplimiento de metas e indicadores de la Auditoría Superior del Estado, así como la debida aplicación de los recursos a cargo de ésta con base en el programa anual de trabajo que aprueba la Comisión;
-
-VIII. Recibir y resolver las denuncias de faltas administrativas derivadas del incumplimiento de las obligaciones por parte del Titular de la Auditoría Superior del Estado, auditores especiales y demás servidores públicos de la Auditoría Superior del Estado;
-
-IX. Auxiliar a la Comisión en la elaboración de los análisis y las conclusiones del Informe General, los informes individuales y demás documentos que le envíe la Auditoría Superior del Estado;
-
-X. Proponer a la Comisión los indicadores y sistemas de evaluación del desempeño de los órganos internos de control o contralorías internas de los órganos constitucionales autónomos que hayan sido designados por el Pleno del Congreso;
-
-XI. Conocer y resolver el recurso que interpongan los servidores públicos sancionados por faltas no graves conforme a lo dispuesto por (sic) Ley de Responsabilidades;
-
-XII. Realizar la defensa jurídica de las resoluciones que se emitan ante las diversas instancias jurisdiccionales e interponer los medios de defensa que procedan en contra de las resoluciones emitidas por el Tribunal, cuando la Unidad sea parte en esos procedimientos;
-
-XIII. Participar en los actos de entrega recepción de los servidores públicos de la Auditoría Superior del Estado a quienes les resulte dicha obligación en términos del ordenamiento correspondiente;
-
-XIV. Llevar el registro y análisis de la situación patrimonial de los servidores públicos adscritos a la Auditoría Superior del Estado;
-
-XV. Intervenir en todas las licitaciones públicas y concursos que se efectúen para adjudicar los contratos que celebre la Auditoría Superior, para efecto de su valoración;
-
-XVI. Conocer y resolver de las inconformidades que presenten los proveedores o contratistas, por el incumplimiento de las disposiciones aplicables para la Auditoría Superior del Estado en materia de adquisiciones, arrendamientos y servicios del sector público, así como de obras públicas y servicios relacionados con las mismas;
-
-XVII. Intervenir en todas las entrega-recepción de las unidades administrativas de la Auditoría Superior del Estado;
-
-XVIII. Las demás que establezca el reglamento respectivo.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
 
 ###### ARTÍCULO 92.
 
-El titular de la Unidad será designado (sic) el Pleno, mediante el voto mayoritario de los Diputados presentes en la sesión respectiva, a propuesta de la Comisión, que presentará una terna de candidatos, mismos que deberán contar con los mismos requisitos que establece esta Ley para el Titular de la Auditoría Superior del Estado. Lo anterior conforme a los procedimientos y plazos que fije la Comisión.
+El titular de la Unidad será electo por el Pleno, mediante el voto mayoritario de los diputados presentes en la sesión respectiva, a propuesta de la Comisión, que presentará una lista de candidatos, mismos que deberán cumplir los requisitos que establece esta Ley para el titular de la Auditoria Superior del Estado, además de no haber desempeñado empleo, cargo o comisión, en la Auditoría Superior del Estado en el año inmediato anterior al día de su elección. Lo anterior conforme a los procedimientos y plazos que fije la Comisión.
 
-La Comisión abrirá registro público para que las organizaciones de la sociedad civil o académicas se inscriban para participar como observadores del proceso para la integración de la terna referida en el párrafo anterior, para lo cual se procederá mediante el método de insaculación para elegir cinco observadores.
+La Comisión abrirá registro público para que las organizaciones de la sociedad civil o académicas, se inscriban para participar como observadores del proceso para la integración de la lista referida en el párrafo anterior; para lo cual se procederá mediante el método de insaculación para elegir cinco observadores.
 
-El titular de la Unidad deberá rendir protesta ante el Pleno del H. Congreso del Estado; durará en su encargo cuatro años y podrá ser reelecto por una sola vez.
+El titular de la Unidad deberá rendir protesta ante el Pleno del Congreso del Estado; durará en su encargo cuatro años; y podrá ser ratificado por una sola vez para un periodo igual.
 
 ###### ARTÍCULO 93.
 
@@ -1089,19 +1141,47 @@ El titular de la unidad será responsable administrativamente ante la comisión,
 
 Son atribuciones del Titular de la Unidad:
 
-I. Planear y programar auditorías a las diversas áreas que integran la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
 
-II. Requerir a las unidades administrativas de la Auditoría Superior del Estado la información necesaria para cumplir con sus atribuciones;
+I. Proponer a la Comisión, la práctica de auditorías a las diversas áreas que integran la Auditoría Superior del Estado;
 
-III. Expedir certificaciones de los documentos que obren en los archivos de la Unidad, así como representar a la misma, y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
 
-IV. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
+II. Requerir a las unidades administrativas de la Auditoría Superior del Estado, la información necesaria que le permita cumplir con la atención de los asuntos encomendados por la Comisión;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+III. Expedir certificaciones de los documentos que obren en los archivos de la Unidad, así como representar a la misma;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+IV. Auxiliar a la Comisión en el análisis de los informes, General, e individuales, así como de los demás documentos que le envíe la Auditoría Superior del Estado; asimismo, proponerle conclusiones y recomendaciones que se deriven de dicho análisis, debiendo dar seguimiento a las mismas y evaluar su cumplimiento;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+V. Proponer a la Comisión indicadores y sistemas de evaluación del desempeño de la Unidad, y los que se deberán utilizar para evaluar el desempeño de la Auditoría Superior del Estado, así como los sistemas de seguimiento a las observaciones y acciones que promuevan tanto la Unidad como la Comisión;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+VI. Vigilar, a solicitud de la Comisión, que los servidores públicos de la Auditoría Superior del Estado se conduzcan en términos de lo dispuesto por esta Ley, y demás disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+VII. Practicar, a solicitud de la Comisión, practicar, por sí o a través de auditores externos, auditorías para verificar el desempeño y cumplimiento de metas e indicadores de la Auditoría Superior del Estado, así como la debida aplicación de los recursos a cargo de ésta, con base en el programa anual de trabajo que aprueba la Comisión;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+VIII. Informar a la Comisión sobre irregularidades detectadas en el ejercicio de las funciones de los servidores públicos de la Auditoría Superior del Estado, y
+
+IX. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
 
 ###### ARTÍCULO 95.
 
-Para el ejercicio de las atribuciones que tiene conferidas la Unidad, contará los servidores públicos, las unidades administrativas y los recursos económicos que a propuesta de la Comisión apruebe el Congreso y se determine en el presupuesto de la misma.
+Para el ejercicio de sus atribuciones, la Unidad contará con el personal de confianza, y los recursos económicos que, a propuesta de la Comisión, apruebe el Congreso y se determinen en el presupuesto.
 
-El Reglamento de la Unidad que expida el Congreso establecerá la competencia de las áreas a que alude el párrafo anterior y aquellas otras unidades administrativas que sean indispensables para el debido funcionamiento de la misma.
+El Reglamento de la Unidad que expida el Congreso, establecerá la competencia del personal de la Unidad.
 
 ###### ARTÍCULO 96.
 
@@ -1204,3 +1284,17 @@ P.O. 12 DE NOVIEMBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0588.- SE REFORMAN LOS ARTÍCULOS, 69 EN SUS FRACCIONES, IV, Y XVI, 77 EN SU FRACCIÓN XXI, 90, 91, 92, 94 EN SUS FRACCIONES, I, II, Y III, Y 95; Y ADICIONA, A Y LOS ARTÍCULOS, 69 UNA FRACCIÓN, 89 BIS, 89 TER, 89 QUÁTER, 89 QUINQUE, 89 SEXTIES, Y 94 CINCO FRACCIONES, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. El Congreso del Estado deberá desahogar el proceso de elección de la persona titular del órgano interno de control de la Auditoría Superior del Estado, en un plazo de treinta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. La Auditoría Superior del Estado dispondrá de un plazo de treinta días hábiles contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones normativas complementarias a su reglamentación interior, para el debido funcionamiento del órgano interno de control.
+
+CUARTO. La Auditoría Superior del Estado hará las adecuaciones presupuestales necesarias, para el debido funcionamiento del órgano interno de control.
+
+QUINTO. Se derogan las disposiciones que se opongan al presente Decreto.
