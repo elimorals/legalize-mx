@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2019-10-15"
+last_updated: "2020-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE FEBRERO DE 2020.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -2585,23 +2585,115 @@ II. Por cada industria o comercio, así como empresas que presenten espectáculo
 
 Aquellos contribuyentes que opten por el pago anual recibirán un descuento del veinte por ciento.
 
-### CAPÍTULO IX. DE LOS DERECHOS POR LIMPIEZA DE PREDIOS NO EDIFICADOS
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE FEBRERO DE 2020)</small>
+
+### CAPÍTULO IX. DE LOS DERECHOS POR LIMPIEZA Y SANEAMIENTO DE PREDIOS EDIFICADOS, NO EDIFICADOS O EN ESTADO RUINOSO
+
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 236.
 
-Son objeto de estos derechos, los servicios de limpieza que el Ayuntamiento efectúe en predios no edificados, a solicitud o en rebeldía de sus propietarios o poseedores.
+Son objeto de estos derechos, los servicios de limpieza y saneamiento que el Ayuntamiento efectúe a predios en estado ruinoso, en desuso o, en su caso, en uso; a solicitud o en rebeldía de sus propietarios o poseedores.
+
+Se entiende por predio ruinoso aquel que se encuentre edificado y ocupado total o parcialmente, cuya estructura se encuentre en mal estado o en riesgo de desplomarse. Predio en desuso será aquel que, edificado o no, representa un riesgo para la salubridad de los vecinos y predio en uso es aquel habitado o no, que al igual que los otros dos casos, no reúne las condiciones de limpieza, sanidad y conservación que exige este capítulo.
+
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 237.
 
-Son sujetos de estos derechos las personas físicas o morales que sean propietarias o poseedoras de predios, en los cuales el Ayuntamiento haya prestado los servicios a que se refiere este Capítulo.
+Son sujetos de estos derechos las personas físicas o morales que sean propietarias o poseedoras de predios en estado ruinoso, en desuso o en uso, edificados o no, en los cuales el Ayuntamiento haya prestado los servicios a que se refiere este Capítulo.
+
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 238.
 
-El pago de estos derechos se enterará a la Tesorería, dentro del plazo de quince días siguientes a aquél en que se haya efectuado la limpieza.
+El pago de estos derechos se enterará a la Tesorería, dentro del plazo de quince días siguientes a aquel en que se haya efectuado la limpieza y saneamiento.
 
-Los derechos por limpieza de predios no edificados se causarán y pagarán de acuerdo al costo del arrendamiento de la maquinaria y la mano de obra utilizada para llevar a cabo el servicio.
+Los derechos por limpieza y saneamiento de predios en estado ruinoso, en desuso o en uso, edificados o no, se causarán y pagarán de acuerdo al costo del arrendamiento de la maquinaria y la mano de obra utilizada para llevar a cabo el servicio.
 
-Los propietarios o poseedores de predios están obligados a realizar la limpieza de los mismos, para mantener la buena imagen del Municipio y evitar la proliferación de focos de infección y, en caso de no hacerlo, el servicio será prestado por el Ayuntamiento, a costa del propietario o poseedor.
+Los propietarios o poseedores de predios están obligados a realizar la limpieza de los mismos, para mantener una buena imagen urbana y evitar la proliferación de plagas o focos de infección y, en caso de no hacerlo, el servicio será prestado por el Ayuntamiento, a costa del propietario o poseedor.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 238 Bis.
+
+Son obligaciones de los propietarios o poseedores de predios o bienes inmuebles en uso, desuso o ruinosos:
+
+I. Sanearlos, limpiarlos y mantenerlos en condiciones óptimas de salud e higiene, tanto al interior como al exterior del inmueble, por cada uno de los lados que colinden con la vía pública, así como con predios particulares o de utilidad pública, debiendo estar permanentemente libres de maleza, basura o cualquier contaminante para evitar que se propaguen infecciones o se conviertan en peligro o molestia para los vecinos;
+
+II. Cercar, o en su caso, bardear los lados que colinden con la vía pública e instalar una puerta de acceso;
+
+III. Podar periódicamente las ramas de los árboles que invadan la vía pública y predios colindantes que se encuentren dentro de su propiedad;
+
+IV. En aquellos que por algún motivo tengan que almacenar materiales de construcción como arena, piedra, grava u otros, deberán estar separados al menos 1.50 metros de los muros colindantes; y
+
+V. Mantenerlos en buen estado físico, con la finalidad de evitar deterioros al patrimonio o contingencias dañosas a terceros.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 238 Ter.
+
+Cualquier persona podrá presentar denuncia ciudadana ante el Ayuntamiento por algún predio o bien inmueble que no cumpla con las especificaciones que marca el presente Capítulo.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 238 Quater.
+
+Son facultades de las autoridades municipales en materia de limpieza y saneamiento de predios en estado ruinoso, en desuso o en uso, edificados o no, las siguientes:
+
+I. Implementar programas que motiven a los propietarios y poseedores a tener en óptimas condiciones de limpieza, seguridad y sanidad, sus predios y bienes inmuebles, apoyándolos en la medida de sus posibilidades para el cumplimiento del presente Capítulo.
+
+II. Llevar a cabo inspecciones en los predios y bienes inmuebles en desuso para efecto de verificar las condiciones de limpieza y sanidad y conservación que se exige.
+
+III. Emitir las resoluciones administrativas que obliguen a los propietarios o poseedores a cumplir con estas disposiciones.
+
+IV. Sancionar el incumplimiento de lo dispuesto en el presente Capítulo.
+
+V. Coordinarse con las autoridades competentes para la identificación de predios y bienes inmuebles que no cumplan con las exigencias de este capítulo, así como ubicar a los propietarios para que pueda cumplirse lo dispuesto en el presente Ordenamiento.
+
+VI. Celebrar Convenios de Colaboración con los propietarios de predios para la limpieza y saneamiento de los mismos.
+
+VII. Emitir el reglamento respectivo, dentro de los márgenes que establecen este Código y las demás disposiciones legales aplicables.
+
+VIII. Las demás que les confieran otras disposiciones legales.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 238 Quinquies.
+
+Para el caso de que el infractor admita su responsabilidad respecto a la limpieza y conservación de sus bienes inmuebles y acepte tomar las medidas correctivas pertinentes, firmará un convenio para que, en un plazo que no exceda de treinta días naturales, haga la limpieza y saneamiento del predio.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2020)</small>
+
+Artículo 238 Sexties.- Los Convenios que celebre la autoridad municipal con los propietarios de los predios deberán contener como mínimo lo siguiente:
+
+I. Lugar y fecha;
+
+II. Nombre del propietario o poseedor;
+
+III. Dimensiones del predio;
+
+IV. Ubicación; y
+
+V. Los demás que sean necesarios para la celebración del Convenio siempre y cuando esté permitido por las leyes vigentes.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 238 Septies.
+
+Si trascurridos los plazos concedidos a los responsables para corregir las irregularidades detectadas, aquéllos no lo hicieren, la autoridad municipal, sobreponiendo a la utilidad privada, el interés público, la sanidad y la seguridad de la comunidad, si lo considera pertinente podrá llevar a cabo a cuenta del propietario o poseedor las obras o acciones que correspondan para corregirlas, quedando éstos obligados a liquidar el costo de ellas al Ayuntamiento, sin perjuicio de las demás sanciones que correspondan. El importe de dichas obras o acciones tendrá el carácter de crédito fiscal de conformidad con lo dispuesto en las leyes respectivas.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 238 Octies.
+
+Se aplicarán multas de 5.483 a 109.627 UMAS a quien incumpla las obligaciones previstas en el presente Capítulo, de conformidad con lo señalado en las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 238 Nonies.
+
+Los actos administrativos derivados de la aplicación de las disposiciones del presente Capítulo se regirán por lo establecido en el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
 
 ### CAPÍTULO X. DE LOS DERECHOS POR LA PRESTACIÓN DE SERVICIOS DE SUPERVISIÓN TÉCNICA SOBRE LA EXPLOTACIÓN DE BANCOS DE MATERIAL
 
@@ -5130,3 +5222,13 @@ G.O. 15 DE OCTUBRE DE 2019.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, Órgano del Gobierno del Estado de Veracruz de Ignacio de la llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 28 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 550 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Los Ayuntamientos a partir de la entrada en vigor del presente Decreto contarán con noventa días posteriores para emitir las disposiciones reglamentarias respectivas, para la aplicación de lo establecido en el presente Decreto.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
