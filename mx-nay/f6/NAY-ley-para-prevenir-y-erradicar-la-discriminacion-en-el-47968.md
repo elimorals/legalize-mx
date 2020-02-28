@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-47968"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-10"
-last_updated: "2017-03-17"
+last_updated: "2020-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 10 de diciembre de 2005.
 
@@ -111,9 +111,11 @@ La interpretación del contenido de esta Ley, así como la actuación de las aut
 
 Para los efectos del Artículo anterior, cuando se presenten diferentes interpretaciones, se deberá preferir aquella que proteja con mayor eficacia a las personas o a los grupos que sean afectados por conductas discriminatorias.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 10.
 
-En la aplicación de la presente Ley intervendrán las autoridades y los órganos públicos estatales y municipales, así como la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit, en el ámbito de sus respectivas competencias.
+En la aplicación de la presente Ley intervendrán las autoridades y los órganos públicos estatales, municipales, la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit, así como el Consejo para Prevenir y Erradicar la Discriminación para el Estado de Nayarit, en el ámbito de sus respectivas competencias.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACIÓN, P.O. 17 DE MARZO DE 2017)</small>
 
@@ -627,19 +629,31 @@ VIII. Promover campañas de información en los medios de comunicación para sen
 
 IX. Diseñar e implementar programas de prevención y atención para la población en situación de calle desde un enfoque de derechos humanos y de género.
 
-## TITULO TERCERO. COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT
+> <small>[N. DE E. EL DECRETO EXPEDIDO POR LA XXXII LEGISLATURA, PUBLICADO EN EL P.O. DE 28 DE FEBRERO DE 2020, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE TÍTULO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE FEBRERO DE 2020)</small>
+
+## TITULO TERCERO. CONSEJO PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN PARA EL ESTADO DE NAYARIT
 
 ### CAPITULO I. DE LA DENOMINACIÓN
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 21.
 
-Corresponde a la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit, en adelante la "Comisión", prevenir y erradicar toda forma de discriminación e intolerancia; así como dictar las resoluciones que en términos de la presente Ley se formulen en los procedimientos de reclamación o queja, no estará subordinada a autoridad alguna y adoptará sus decisiones con plena independencia.
+El Consejo para Prevenir y Erradicar la Discriminación para el Estado de Nayarit, en adelante el "Consejo" es un organismo público sectorizado a la Secretaría de (sic) General de Gobierno, para el desarrollo de sus atribuciones gozará de personalidad jurídica, autonomía técnica y de gestión; se integrará por cinco personas expertas en materia de Igualdad y no discriminación, mediante convocatoria pública a propuesta de los colectivos en materia de Derechos Humanos.
+
+Corresponde al Consejo, prevenir y erradicar toda forma de discriminación e intolerancia; así como dictar las resoluciones que en términos de la presente Ley se formulen en los procedimientos de reclamación o queja y adoptará sus decisiones con plena independencia; por lo que no recibirán retribución, emolumento o compensación alguna por el desempeño de sus funciones los cargos de los integrantes del Consejo serán de naturaleza honorífica.
+
+La Secretaría General de Gobierno destinará los elementos operativos necesarios para el desarrollo de las funciones públicas del Consejo.
 
 ### CAPITULO II. DE LAS ATRIBUCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 22.
 
-Para el cumplimiento de su objeto, la Comisión tendrá las atribuciones siguientes:
+Para el cumplimiento de su objeto, el Consejo tendrá las atribuciones siguientes:
 
 I. Diseñar estrategias e instrumentos, así como promover programas, proyectos y acciones para prevenir y eliminar la discriminación;
 
@@ -659,135 +673,349 @@ VIII. Solicitar a las instituciones públicas o a particulares, la información 
 
 IX. Aplicar las medidas administrativas establecidas en esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 23.
 
-La Comisión difundirá periódicamente los avances, resultados e impactos de las políticas, programas y acciones en materia de prevención y eliminación de la discriminación, a fin de mantener informada a la sociedad.
+El Consejo difundirá periódicamente los avances, resultados e impactos de las políticas, programas y acciones en materia de prevención y eliminación de la discriminación, a fin de mantener informada a la sociedad.
+
+El Consejo será el encargado de promover las acciones encaminadas a la prevención de toda forma de discriminación, así como de recibir, integrar y resolver los expedientes de quejas por los presuntos actos, omisiones o prácticas discriminatorias a que se refiera esta Ley cuando éstas fueran atribuidas a cualquier autoridad, persona servidora pública estatal o Municipal, particulares, personas físicas o morales, y a los poderes públicos estatales, imponiendo en su caso las medidas administrativas, sanciones y de reparación que esta Ley prevé.
 
 ### CAPITULO III. PREVENCIONES GENERALES
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 24.
 
-La Comisión se regirá en esta materia por lo dispuesto en esta Ley y las que le son propias.
+El Consejo se regirá en esta materia por lo dispuesto en esta Ley y las que le son propias.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 25.
 
-Queda reservado a los Tribunales Estatales el conocimiento y resolución de todas las controversias en que sea parte la Comisión.
+Queda reservado a los Tribunales Estatales el conocimiento y resolución de todas las controversias en que sea parte El Consejo.
 
 ### CAPITULO IV. DE LOS PROCEDIMIENTOS
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 26.
 
-Toda persona podrá denunciar presuntas conductas discriminatorias y presentar ante la Comisión reclamaciones o quejas respecto a dichas conductas, ya sea directamente o por medio de su representante.
+Toda persona podrá denunciar presuntas conductas discriminatorias por medio de reclamaciones o quejas respecto a dichas conductas ante el Consejo, las organizaciones de la sociedad civil podrán presentar reclamaciones o quejas en los términos de esta Ley, designando un representante, a falta de regulación suficiente en la presente ley, se aplicarán las disposiciones de la Ley de Justicia y procedimientos Administrativos y el Código de Procedimientos Civiles.
 
-Las organizaciones de la sociedad civil podrán presentar reclamaciones o quejas en los términos de esta Ley, designando un representante.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 27.
 
-Los procedimientos para el cumplimiento de la presente Ley se ceñirán a los establecidos para la actuación de la Comisión en el ordenamiento que la rige.
+El Consejo conocerá de las denuncias por los hechos, acciones y omisiones discriminatorias a que se refiere esta ley, con el objeto de tramitar quejas y reclamaciones de las personas, grupos o comunidades que así lo soliciten, además de orientar y canalizar, ante las instancias civiles, penales y administrativas que en su caso correspondan.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 28.
 
-La Comisión proporcionará a las personas que presuntamente hayan sido discriminadas, asesoría respecto a los derechos que les asisten y los medios para hacerlos valer.
+El Consejo proporcionará a las personas que presuntamente hayan sido discriminadas, asesoría respecto a los derechos que les asisten y los medios para hacerlos valer, cuya intención no sea presentar una reclamación o queja.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 29.
 
-Los interesados en un procedimiento tendrán derecho de conocer en cualquier momento el estado de su tramitación, recabando la oportuna información en el área que conozca del asunto. También podrán solicitar les sea expedida copia de los documentos contenidos en el expediente correspondiente salvo que a juicio de la Comisión, atendiendo a la naturaleza del caso, algún documento deba guardar el carácter de confidencial.
+Las partes en el procedimiento tendrán derecho de conocer en cualquier momento el estado de su tramitación, recabando la oportuna información en el área que conozca del asunto. También podrán solicitar les sea expedida copia de los documentos contenidos en el expediente correspondiente salvo que a juicio del Consejo, atendiendo a la naturaleza del caso, algún documento deba guardar el carácter de confidencial.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 30.
 
-Cuando la reclamación o queja no sea competencia de la Comisión, se proporcionará al interesado la orientación para que acuda a la autoridad o servidor público que deba conocer del asunto.
+El Consejo por conducto de su presidente, solicitará a personas físicas o morales, así como a los entes públicos, información relacionada con la tramitación de las quejas y reclamaciones.
+
+El Consejo estará facultado para realizar visitas para conocer y verificar la accesibilidad y no discriminación de espacios públicos que tengan relación con las reclamaciones que se tramiten, lo anterior se hará constar en el acta circunstanciada que al efecto elaborará la persona servidora pública correspondiente.
+
+Los servidores públicos del Consejo tendrán en sus actuaciones fe pública para certificar la veracidad de los hechos de los que tomen conocimiento en relación con las quejas o reclamaciones formuladas por la ciudadanía, de las declaraciones y hechos.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 31.
 
-En caso de que la reclamación o queja presentada ante la Comisión involucre tanto a servidores públicos o autoridades como a particulares, se procederá a efectuar la separación correspondiente, de manera que las conductas presuntamente discriminatorias cometidas por los primeros, se sigan, a través del procedimiento de reclamación. Las cometidas por los particulares serán atendidas conforme al procedimiento de queja.
+En caso de que la reclamación o queja presentada ante el Consejo involucre tanto a servidores públicos como a particulares, se procederá a efectuar la separación correspondiente, de manera que las conductas presuntamente discriminatorias cometidas por los primeros, se sigan, a través del procedimiento de reclamación. Las cometidas por los particulares serán atendidas conforme al procedimiento de queja.
 
 ###### Artículo 32.
 
 Cuando de los hechos narrados en el escrito de queja o reclamación, se desprenda que el presunto agente discriminador es un servidor público, pero durante la investigación resulte que se trata de un particular, o a la inversa, quien conozca del procedimiento, mediante acuerdo debidamente fundado y motivado, remitirá el expediente al área competente, notificando su resolución a ambas partes involucradas en el procedimiento.
 
-#### SECCION SEGUNDA. DE LA RECLAMACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE FEBRERO DE 2020)</small>
+
+#### SECCIÓN SEGUNDA. DE LA PRESENTACIÓN DE LA RECLAMACIÓN O DE LA QUEJA
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 33.
 
-La reclamación es el procedimiento que se sigue ante la Comisión por conductas presuntamente discriminatorias cometidas por los servidores públicos estatales en el ejercicio de sus funciones o con motivo de ellas.
+La queja o reclamación podrá iniciarse de oficio o a petición de parte de forma escrita, personal, o mediante persona de su confianza o representante legal, la cual deberá contener como mínimo los siguientes datos de identificación:
+
+I. Nombre y firma del peticionario;
+
+II. Domicilio para recibir notificaciones, y
+
+III. Descripción clara y sucinta de los hechos, precisando el lugar, tiempo y circunstancias de ejecución del presunto acontecimiento discriminatorio.
+
+> <small>(REFORMADO Y REUBICADO], P.O. 28 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 34.
 
-La conciliación es la etapa por medio de la cual la Comisión buscará avenir a las partes involucradas a resolverla, a través de alguna de las soluciones que les presente.
+El Consejo en coordinación con las áreas técnicas investigará los hechos, acciones, omisiones o prácticas presuntamente de discriminación imputadas a los sujetos vinculados por la presente Ley, e impondrá en su caso, las sanciones y medidas administrativas que esta Ley previene.
+
+> <small>(REFORMADO Y REUBICADO], P.O. 28 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 35.
 
-El conciliador, en la audiencia de conciliación, expondrá a las partes un resumen de la reclamación y de los elementos de juicio que se hayan integrado y los exhortará a resolver sus diferencias, para cuyo efecto propondrá opciones de solución.
+El procedimiento se regirá por los principios pro persona, igualdad de género, confidencialidad, respeto, protección y garantía de la dignidad e intimidad, legalidad, imparcialidad, inmediatez, concentración, eficacia, profesionalismo, buena fe, y el de suplencia de la deficiencia de la queja; procurando la conciliación entre las partes.
+
+> <small>(REFORMADO Y REUBICADO], P.O. 28 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 36.
 
-La audiencia de conciliación que se celebre, podrá ser suspendida por el conciliador o por las partes de común acuerdo hasta en una ocasión, debiéndose reanudar, en su caso, dentro de los cinco días hábiles siguientes.
+Cuando del contenido de la controversia no puedan deducirse los motivos que la funden, el Consejo emitirá acuerdo de prevención, dentro del plazo de cinco días hábiles siguientes al de su presentación, debiendo brindar asesoría y orientación a quien la promueve para su corrección, ampliación o complementación.
+
+De no subsanarse, dictará acuerdo ordenando el archivo del expediente por falta de interés.
+
+> <small>(REFORMADO Y REUBICADO], P.O. 28 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 37.
 
-Cuando las partes lleguen a un acuerdo, se celebrará el convenio respectivo, que será revisado por el área competente de la Comisión; si está apegado a derecho, lo aprobará y dictará el acuerdo correspondiente sin que sea admisible recurso alguno.
+Dentro de los tres días hábiles siguientes al de su presentación el Consejo resolverá respecto a su admisión, en cuyo caso el acuerdo de admisión contendrá los mandatos para notificarlos a quien corresponda el contenido de la imputación, para que se conteste dentro del plazo de cinco días hábiles siguientes al de la fecha de su notificación, con el apercibimiento que de no hacerlo, se tendrán por ciertos los hechos, las acciones u omisiones atribuidas, salvo prueba en contrario.
+
+> <small>(REFORMADO Y REUBICADO], P.O. 28 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 38.
 
-El convenio suscrito por las partes ante la Comisión, deja a salvo los derechos de los particulares para promover lo que a su interés legal convenga ante los tribunales competentes.
+En la contestación se afirmarán, refutarán o negarán todos y cada uno de los hechos, acciones u omisiones, además de incluir un informe detallado de los antecedentes del asunto, sus fundamentos y motivaciones y, en su caso, los elementos jurídicos o de otra naturaleza que las sustentan.
 
-#### SECCION TERCERA. DE LA CONCILIACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE FEBRERO DE 2020)</small>
+
+#### SECCIÓN TERCERA. DE LA RECLAMACIÓN Y DEL PROCESO DE CONCILIACIÓN
+
+> <small>(REFORMADO Y REUBICADO], P.O. 28 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 39.
 
-En caso de que el servidor público no acepte la conciliación, o de que las partes no lleguen a acuerdo alguno, la Comisión hará de su conocimiento que investigará, los hechos motivo de la reclamación.
+La Reclamación es el procedimiento que se sigue ante el Consejo por hechos, acciones y omisiones presuntamente discriminatorias cometidas por los servidores públicos estatales en el ejercicio de sus funciones o con motivo de ellas.
+
+> <small>(REFORMADO Y REUBICADO], P.O. 28 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 40.
 
-La queja es el procedimiento que se sigue ante la Comisión por conductas presuntamente discriminatorias cometidas por particulares.
+La conciliación es la etapa por medio de la cual el Consejo buscará avenir a las partes involucradas a resolverla, a través de alguna de las soluciones que les presente.
+
+> <small>(REFORMADO Y REUBICADO], P.O. 28 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 41.
 
-La Comisión notificará a las partes la admisión de la queja; les hará saber que podrán optar por someter la tramitación de la misma al procedimiento conciliatorio, y les requerirá para que expresen su decisión sobre la opción aceptada. En caso de que las partes acepten la conciliación, se les citará a una audiencia que deberá celebrarse dentro de los cinco días hábiles siguientes a la fecha en que se realizó la notificación.
+Una vez admitida la Reclamación, se iniciará la etapa de conciliación, desarrollada en una audiencia de (sic), en la cual se expondrá a las partes un resumen de la reclamación y de los elementos de razón que se hayan integrado y los exhortará a resolver sus diferencias, para cuyo efecto propondrá opciones de solución.
 
-Si cualquiera de las partes o ambas no aceptan el procedimiento conciliatorio, la Comisión atenderá la queja correspondiente y se pronunciará sobre la existencia o no del presunto acto discriminatorio, en caso afirmativo, brindará orientación al quejoso para que acuda ante las instancias judiciales o administrativas correspondientes.
+> <small>(REFORMADO Y REUBICADO], P.O. 28 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 42.
 
-Se entenderá que el particular presuntamente responsable no desea someterse al procedimiento conciliatorio cuando, a pesar de estar debidamente notificado y haber aceptado someterse al mismo, adopte conductas evasivas para atender la audiencia correspondiente.
+La audiencia de conciliación que se celebre, podrá ser suspendida por el conciliador o por las partes de común acuerdo hasta en una ocasión, debiéndose reanudar, en su caso, dentro de los cinco días hábiles siguientes.
+
+> <small>(REFORMADO Y REUBICADO], P.O. 28 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 43.
 
-La Comisión de Defensa de las Derechos Humanos para el Estado de Nayarit, dispondrá la adopción de las siguientes medidas administrativas para prevenir y eliminar la discriminación:
+Cuando las partes lleguen a un acuerdo, se celebrará el convenio respectivo, que será revisado por el área competente del Consejo; si está apegado a derecho, lo aprobará y dictará el acuerdo correspondiente sin que sea admisible recurso alguno.
 
-I. La impartición, a las personas o a las instituciones que sean objeto de una recomendación, de cursos o seminarios que promuevan la igualdad de oportunidades;
-
-II. La presencia del personal de la Comisión para promover y verificar la adopción de medidas a favor de la igualdad de oportunidades y la eliminación de toda forma de discriminación en cualquier establecimiento de quienes sean objeto de una disposición, por el tiempo que disponga la determinación correspondiente;
-
-III. La publicación íntegra de la recomendación emitida en el órgano de difusión de la Comisión; y
-
-IV. La publicación o difusión de una síntesis de la recomendación en los medios impresos o electrónicos de comunicación.
+> <small>(REFORMADO Y REUBICADO], P.O. 28 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 44.
 
-Para determinar el alcance y la forma de adopción de las medidas administrativas dispuestas por la Comisión, se tendrán en consideración:
+El convenio suscrito por las partes ante el Consejo, deja a salvo los derechos de los particulares para promover lo que a su interés legal convenga ante los tribunales competentes.
 
-I. El carácter intencional de la conducta discriminatoria;
-
-II. La gravedad del hecho, el acto, la práctica o el fenómeno discriminatorio; y
-
-III. La reincidencia.
-
-Se entiende que existe reincidencia cuando la misma persona incurra en dos o más actos discriminatorios en el transcurso de un año. El plazo se contará a partir del día de la publicación de la recomendación correspondiente.
+> <small>(REFORMADO Y REUBICADO], P.O. 28 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 45.
 
-La Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit, podrá otorgar un reconocimiento a las instituciones públicas o privadas, así como a los particulares que se distingan por llevar a cabo programas y medidas para prevenir la discriminación en sus prácticas, instrumentos organizativos y presupuestos.
+En caso de que el servidor público no acepte la conciliación, o de que las partes no lleguen a acuerdo alguno, el Consejo hará de su conocimiento que investigará los hechos motivo de la reclamación.
+
+En caso de que la parte reclamante no comparezca a la audiencia y justifique su inasistencia dentro del plazo de los tres días hábiles siguientes, se señalará por única ocasión nuevo día y hora para su celebración. De no justificada (sic), se le tendrá por desistiéndose de la acción, archivándose el expediente como asunto concluido.
+
+#### SECCION CUARTA. DE LA QUEJA Y DEL PROCEDIMIENTO CONCILIATORIO ENTRE PARTICULARES
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 46.
+
+La Queja es el procedimiento que se sigue ante el Consejo por hechos, acciones y omisiones presuntamente discriminatorias cometidas por particulares.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 47.
+
+Una vez admitida la Queja, se iniciará la etapa de conciliación por medio de la cual el Consejo a fin de avenir a las partes involucradas a resolverla, a través de alguna de las soluciones que les presente.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 48.
+
+El conciliador, en la audiencia de conciliación, expondrá a las partes un resumen de la Queja y de los elementos de razón que se hayan integrado y los exhortará a resolver sus diferencias, para cuyo efecto propondrá opciones de solución.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 49.
+
+La audiencia de conciliación que se celebre, podrá ser suspendida por el conciliador o por las partes de común acuerdo hasta en una ocasión, debiéndose reanudar, en su caso, dentro de los cinco días hábiles siguientes.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 50.
+
+Cuando las partes lleguen a un acuerdo, se celebrará el convenio respectivo, que será revisado por el área competente del Consejo; si está apegado a derecho, a criterios en materia de Derechos Humanos y perspectiva de género lo aprobará y dictará el acuerdo correspondiente sin que sea admisible recurso alguno.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 51.
+
+El convenio suscrito por las partes ante el Consejo, deja a salvo los derechos de los particulares para promover lo que a su interés legal convenga ante los tribunales competentes.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 52.
+
+En caso de que el particular no acepte la conciliación, o de que las partes no lleguen a acuerdo alguno, el Consejo hará de su conocimiento que investigará los hechos motivo de la Queja.
+
+En caso de que la parte accionante no comparezca a la audiencia y justifique su inasistencia dentro del plazo de los tres días hábiles siguientes, se señalará por única ocasión nuevo día y hora para su celebración. De no acudir, se le tendrá por no interpuesta la Queja, archivándose el expediente como asunto concluido.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE FEBRERO DE 2020)</small>
+
+#### SECCIÓN QUINTA. DE LA INVESTIGACIÓN
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 53.
+
+El Consejo en coordinación con las áreas técnicas, una vez agotada la etapa de Conciliación, iniciará la investigación de la controversia, ejerciendo las siguientes facultades:
+
+I. Solicitará a otras personas particulares, autoridades, servidores públicos, dependencias o entidades de los poderes públicos que hayan intervenido en los hechos o motivos de la controversia, la remisión de informes, documentos auténticos o certificados, relacionados con el asunto en materia de la investigación, en vía de pruebas complementarias;
+
+II. Practicará inspecciones oculares en el o los lugares en que se presume ocurrieron los hechos, y
+
+III. Citará a las personas que en su caso deben comparecer como testigos o peritos.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 54.
+
+Asimismo, el Consejo emitirá acuerdos para mejor proveer, sean de trámite o para la recepción y desahogo de las pruebas, los cuales serán imperativos para los sujetos obligados por la presente Ley; su desacato dará lugar a la aplicación de las medidas administrativas y responsabilidades señaladas en las leyes correspondientes.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 55.
+
+No quedando probanza pendiente de recepción, se otorgará a las partes un plazo común de cinco días para que expresen sus alegatos.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 56.
+
+Desahogada la vista o finalizado el plazo, se les citará para oír resolución, la que se pronunciará dentro de los quince días siguientes a la fecha de la notificación del acuerdo de citación.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE FEBRERO DE 2020)</small>
+
+#### SECCIÓN SEXTA. RESOLUCIÓN
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 57.
+
+Los proyectos de resolución serán aprobados por el Consejo.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 58.
+
+El Presidente deberá invocar además de lo dispuesto en la presente Ley, los criterios e instrumentos jurídicos nacionales e internacionales en materia de Derecho a la Igualdad y no discriminación.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 59.
+
+Para efecto de las pruebas, tendrán el valor que les concede el Código de Procedimientos Civiles del Estado de Nayarit.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 60.
+
+La resolución contendrá una síntesis de los antecedentes, los puntos controvertidos, las consideraciones en los que consta su fundamentación y motivación, y los resolutivos; en los que con toda claridad se precisará su alcance.
+
+En su caso, se impondrán las sanciones y medidas administrativas que lo merezcan, de acuerdo a las circunstancias, modalidades y gravedad del fondo de la controversia definidos por esta Ley.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE FEBRERO DE 2020)</small>
+
+#### SECCIÓN SÉPTIMA. DE LAS SANCIONES
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 61.
+
+Las sanciones y medidas administrativas que se establezcan en la resolución deberán ser una o más de las siguientes:
+
+I. Amonestación pública: consiste en el apercibimiento escrito que se hará al infractor; en caso de ser persona servidora pública, se podrá girar oficio también a la dependencia o área correspondiente.
+
+II. Trabajo a favor de la comunidad: es la prestación de servicios no remunerados, dentro de período distinto al horario de las labores que represente la fuente de ingreso para la subsistencia del sujeto y de su familia, encaminada a prevenir y erradicar los actos de discriminación y violencia ejercidos; la que deberá realizarse en lugares públicos.
+
+El trabajo a favor de la comunidad impuesto no podrá ser menor de 20 ni mayor a 300 horas; será fijado a consideración del Consejo de acuerdo a la naturaleza de los hechos comprobados.
+
+III. Inducción a los programas de reeducación en materia de violencia de las personas agresoras.
+
+Tratamiento psicológico: sometimiento de la persona al tratamiento indicado por un profesional en la materia, con la finalidad de que sea atendida en lo que motiva a sus conductas de discriminación y violencia.
+
+En caso de decretarse la sanción mencionada, el Sector Salud otorgará la ayuda correspondiente para brindarlo de forma gratuita.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE FEBRERO DE 2020)</small>
+
+#### SECCIÓN OCTAVA. DE LAS MEDIDAS ADMINISTRATIVAS
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 62.
+
+El Consejo, dispondrá en suma de las sanciones, la adopción de las siguientes medidas administrativas para prevenir y erradicar la discriminación:
+
+I. La impartición, a las personas o a las instituciones que sean objeto de una recomendación, de cursos o seminarios que promuevan la igualdad de oportunidades;
+
+II. La presencia del personal del Consejo para promover y verificar la adopción de medidas a favor de la igualdad de oportunidades y la eliminación de toda forma de discriminación en cualquier establecimiento de quienes sean objeto de una disposición, por el tiempo que disponga la determinación correspondiente;
+
+III. La publicación íntegra de la recomendación emitida en el órgano de difusión del Consejo;
+
+IV. La publicación o difusión de una síntesis de la recomendación en los medios impresos o electrónicos de comunicación;
+
+V. La fijación de carteles en los que se promueva la modificación de conductas discriminatorias, y
+
+VI. Acciones de reparación integral del daño acorde a los principios internacionales de derechos humanos.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 63.
+
+Para determinar el alcance y la forma de adopción de las sanciones y las medidas administrativas dispuestas por esta Ley, se tendrán en consideración:
+
+I. El carácter intencional de la conducta discriminatoria;
+
+II. La gravedad del hecho, el acto, la práctica o el fenómeno discriminatorio, y
+
+III. La reincidencia.
+
+Se entiende que existe reincidencia cuando la misma persona incurra en dos o más actos discriminatorios en el transcurso de un año. El plazo se contará a partir del día de la publicación de la resolución correspondiente en la página oficial.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 64.
+
+El Consejo, podrá otorgar un reconocimiento a las instituciones públicas o privadas, así como a los particulares que se distingan por llevar a cabo programas y medidas para prevenir la discriminación en sus prácticas, instrumentos organizativos y presupuestos.
 
 El reconocimiento será otorgado previa solicitud de la organización o la institución interesada.
 
 El reconocimiento será de carácter honorífico y tendrá una vigencia de un año.
-
-#### SECCION CUARTA. DE LA QUEJA Y DEL PROCEDIMIENTO CONCILIATORIO ENTRE PARTICULARES
-
-#### SECCION QUINTA. DE LAS MEDIDAS ADMINISTRATIVAS
 
 ## TRANSITORIOS
 
@@ -814,3 +1042,15 @@ P.O. 17 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE NAYARIT”.]
 
 Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 28 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE NAYARIT”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- La Secretaría General de Gobierno tendrá hasta un año posterior a la publicación de este Decreto para la creación del organismos (sic) público denominado Consejo para Prevenir y Erradicar la Discriminación para el Estado de Nayarit.
+
+TERCERO.- La Secretaría General de Gobierno contará con 180 días posteriores a la publicación de este Decreto para emitir el Reglamento del Consejo para Prevenir y Erradicar la Discriminación para el Estado de Nayarit.
+
+CUARTO.- La Comisión de Defensa de los Derechos Humanos hasta en tanto no entre en funciones el Consejo para Prevenir y Erradicar la Discriminación para el Estado de Nayarit, seguirá desarrollando sus funciones en materia de prevención y erradicación de la Discriminación en el Estado.
