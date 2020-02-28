@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2020-01-31"
+last_updated: "2020-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2020.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -1882,6 +1882,10 @@ III. Que no se trate de cualquiera de los siguientes delitos previstos en este c
 8) Operaciones con recursos de procedencia ilícita del artículo 355 de este código.
 
 9) Empleo indebido de objetos destinados a la seguridad pública, o de aquellos que estén simulados o sean robados, del artículo 345 de este código.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2020)</small>
+
+10) Abigeato, en los términos previstos por la Ley de Ganadería para el Estado de Coahuila de Zaragoza.
 
 IV. Que no se trate de un delito doloso cometido contra una persona menor de quince años, en el que se le hayan causado lesiones de las clasificadas como leves o de mayor gravedad en el artículo 200 de este código, ni se trate de un delito doloso con la intervención de una persona menor de dieciocho años, o valiéndose de la misma como autor mediato.
 
@@ -4497,15 +4501,7 @@ VI. (Paraje solitario)
 
 En lugar solitario.
 
-VII. (Abigeato)
-
-En campo abierto o lugar destinado a la explotación agropecuaria, siempre y cuando recaiga en una o más cabezas de ganado mayor, o mate a cualquiera de ellas para aprovechar sus productos.
-
-Se impondrán las penas de tentativa punible de robo según su cuantía, con el aumento de punibilidad previsto en este artículo, a quien en cualquier lugar altere o borre las marcas de identificación de una o más cabezas de ganado mayor, con ánimo de dominio y sin consentimiento de quien pueda otorgarlo.
-
-(Pauta especifica de aplicación)
-
-Para los efectos de este código, se considera ganado mayor el bovino y las especies equinas.
+VII. (DEROGADA, P.O. 28 DE FEBRERO DE 2020)
 
 VIII. (Tres o más personas)
 
@@ -7876,3 +7872,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 SEGUNDO.- La publicación referida en el artículo transitorio primero deberá hacerse una vez que haza (sic) entrado en vigor el Decreto 403, de 2019.
 
 TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 556.- SE ADICIONA EL NUMERAL 10 A LA FRACCIÓN III DEL ARTÍCULO 102; Y SE DEROGA LA FRACCIÓN VII DEL ARTÍCULO 284, DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
