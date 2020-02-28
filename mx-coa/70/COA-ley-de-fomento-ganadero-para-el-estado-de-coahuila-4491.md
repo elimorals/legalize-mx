@@ -4,7 +4,7 @@ identifier: "COA-ley-de-fomento-ganadero-para-el-estado-de-coahuila-4491"
 country: "mx"
 rank: "ley"
 publication_date: "1969-03-29"
-last_updated: "2009-05-12"
+last_updated: "2020-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE FOMENTO GANADERO PARA EL ESTADO DE COAHUILA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE GANADERÍA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 28 DE FEBRERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FOMENTO GANADERO PARA EL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2020 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el sábado 29 de marzo de 1969.
 
@@ -1060,3 +1062,25 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 555.- SE EXPIDE LA LEY DE GANADERÍA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abrogan la Ley de Fomento Ganadero para el Estado de Coahuila; el Decreto por el que se regula el Control del Origen y la Movilización de Ganado Bovino en el Estado de Coahuila de Zaragoza y el Reglamento de la Ley de Fomento Ganadero para el Estado de Coahuila en materia de Sanidad Pecuaria.
+
+TERCERO.- El Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley, en un plazo no mayor a 180 días naturales a partir de la entrada en vigor de la misma.
+
+CUARTO.- La disposición prevista en el artículo 110 respecto a la obligatoriedad de la utilización de una guía de tránsito en su modalidad electrónica para la movilización de ganado bovino, entrarán en vigor un año después de la fecha en que lo haga la presente Ley.
+
+QUINTO.- Dentro de los 30 días siguientes a la entrada en vigor de la presente Ley, la Secretaría emitirá las directrices, lineamientos y mecanismos para la difusión, implementación y uso de la guía de movilización en su modalidad electrónica en la totalidad del territorio del Estado, que habrán de aplicarse hasta el momento que inicie la obligatoriedad el artículo 110, de conformidad con el transitorio cuarto.
+
+SEXTO.- Las leyes estatales que se relacionen con la debida aplicación de la presente Ley, deberán ser armonizadas con la misma en un periodo no mayor a ciento ochenta días a partir de su entrada en vigor.
+
+La Ley de Hacienda para el Estado de Coahuila de Zaragoza y las demás disposiciones relacionadas al pago de derechos, deberán reformarse en un plazo no mayor a ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+
+SÉPTIMO.- Los trámites y asuntos que se encuentren en curso al momento de la entrada en vigor de la presente Ley, se desahogarán y concluirán, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+OCTAVO.- Se derogan todas las disposiciones que se opongan al contenido y aplicación de la presente Ley.
