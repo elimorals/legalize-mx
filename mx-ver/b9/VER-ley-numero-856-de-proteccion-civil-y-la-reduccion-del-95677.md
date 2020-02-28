@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-856-de-proteccion-civil-y-la-reduccion-del-95677"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-01"
-last_updated: "2020-02-04"
+last_updated: "2020-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 856 DE PROTECCIÓN CIVIL Y LA REDUCCIÓN DEL RIESGO DE DESASTRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE FEBRERO DE 2020.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 1 de agosto de 2013.
 
@@ -887,7 +887,21 @@ Lo anterior deberá realizarse de conformidad con lo dispuesto en esta Ley, su R
 
 Todos los inmuebles a que hace referencia el artículo anterior deberán contar con salidas de emergencia y, en el caso de aquellos con tres o más niveles, con escaleras de emergencia; a su vez, los propietarios o poseedores de dichas edificaciones deberán colocar en sitios visibles equipos de seguridad, señales informativas, preventivas, restrictivas y de obligación y luces de emergencia, conforme a las Normas Oficiales Mexicanas y Tratados Internacionales aplicables; así como instructivos y manuales que consignarán las reglas y orientaciones que deberán observarse en caso de una emergencia y señalar las zonas de seguridad o puntos de reunión.
 
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2020)</small>
+
+La señalización de protección civil, a que se refiere el párrafo anterior, deberá incluir placas en el sistema Braille para las personas con discapacidad visual o ceguera, conforme a las Normas Oficiales y Tratados Internacionales aplicables.
+
 Toda omisión a las disposiciones señaladas en este artículo y en el anterior será causal de las sanciones previstas en el artículo 104 de esta Ley.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2020)</small>
+
+###### Artículo 63 Bis.
+
+La señalización vertical en el artículo anterior permitirá una zona de barrido ergonómico al alcance de la mano, deberá colocarse a una altura de entre 110 y 130 centímetros del piso base. La dimensión de la placa será en función de la información que contenga y máximo de 30 centímetros de ancho. Ésta se ubicará a una distancia máxima de 20 centímetros del vano de la puerta, del lado de la manija o botones, en su caso.
+
+Cuando existan puertas de doble hoja o no exista puerta, la señalización debe estar colocada en la pared más cercana, preferentemente del lado derecho. En rampas, escaleras o intersección de pasillo que contengan pasamanos, se colocará, en el inicio y final de estos, información en sistema Braille que indique el número de piso o la referencia de alguna señalización en muro.
+
+La señalización del sistema Braille aquí prevista, deberá atender la medida estandarizada internacionalmente, respetando dichos parámetros para su correcta interpretación. La escritura en Braille dentro de un señalamiento se colocará en la esquina inferior izquierda a una distancia de entre 1 y 3 centímetros del borde del mismo.
 
 ###### Artículo 64.
 
@@ -1576,3 +1590,13 @@ SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códig
 TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 28 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 548 QUE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 63 Y EL ARTÍCULO 63 BIS A LA LEY DE PROTECCIÓN CIVIL Y LA REDUCCIÓN DEL RIESGO DE DESASTRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. La señalización ordenada en este Decreto deberá colocarse a más tardar en un plazo de 180 días hábiles, contado a partir de la entrada en vigor del mismo.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
