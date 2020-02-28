@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2020-01-20"
+last_updated: "2020-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE FEBRERO DE 2020 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE FEBRERO DE 2020.]</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -573,9 +573,9 @@ d) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 i) (sic) Las leyes que establezcan y regulen los temas integrales en materia de tratamiento penal, así como el funcionamiento de los cuerpos de seguridad pública, privada, de protección civil y bomberos;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ENERO DE 2020)</small>
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ENERO DE 2020) (F. DE E., P.O. 28 DE FEBRERO DE 2020)
 
-VI (SIC).- Comisión de Justicia y Seguridad Pública:
+IV.- Comisión de Justicia y Seguridad Pública:
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
@@ -2921,7 +2921,7 @@ P.O. 31 DE DICIEMBRE DE 2018.
 
 P.O. 20 DE ENERO DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 219. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN; Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 219. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN; Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
