@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-reconocimiento-y-atencion-de-los-derechos-de-110525
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-31"
-last_updated: "2019-08-24"
+last_updated: "2020-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
 
 Ley publicada en la Onceava Sección del Periódico Oficial del Estado de Oaxaca, el sábado 31 de octubre de 2015.
 
@@ -117,13 +117,43 @@ IX. Instituto: Al Instituto Oaxaqueño de Atención al Migrante;
 
 X. Ley: Ley Para el Reconocimiento y Atención de los Derechos de los Migrantes y sus Familias para el Estado de Oaxaca;
 
-XI. Migrante: Es toda persona de origen oaxaqueño que en la búsqueda de mejores oportunidades laborales, económicas o por circunstancias políticas o sociales ha tenido que emigrar; así como, cualquier persona que por las mismas causas transita o llega al territorio del Estado Libre y Soberano de Oaxaca;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
-XII. Programa: El Programa Estratégico de Reconocimiento y Atención de los derechos de los Migrantes y sus Familias para el Estado de Oaxaca;
+XI. Migrante: Al individuo que sale, transita o llega al territorio de un Estado distinto al de su residencia por cualquier tipo de motivación.
 
-XIII. Programas Municipales: Los Programas Municipales de Reconocimiento y Atención a los Derechos de los Migrantes y sus familias, y
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
 
-XIV. Reglamento: Al Reglamento de la Ley Para el Reconocimiento y Atención de los Derechos de los Migrantes y sus Familias para el Estado de Oaxaca;
+a) Migrante oaxaqueño: Es toda persona de origen oaxaqueño que en la búsqueda de mejores oportunidades laborales, económicas o por circunstancias políticas o sociales ha emigrado a otra entidad o país.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+b) Migrante en tránsito: persona que recorre el estado de Oaxaca con la intención de llegar hacia su lugar o país de destino.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+c) Migrante oaxaqueño en retorno: personas que regresan a su país y estado de origen. Este regreso puede ser voluntario o no. Incluye la repatriación voluntaria y la deportación.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+d) Niños, niñas y adolescentes migrantes: persona que, de acuerdo con la legislación del país de que se trate, no tiene la mayoría de edad y su situación de movilidad se enmarca en la descripción de este apartado. Esa persona, por lo general, no puede por esa razón ejercer sus derechos civiles y políticos.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+e) Niños, niñas y adolescentes migrantes no acompañados: Personas que no tienen la mayoría de edad y que no viajan acompañadas por su padre, madre, un tutor o cualquier otro adulto quien por ley o costumbre es responsable de ellos, y su situación de movilidad se enmarca en la descripción de este apartado.
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+XII. Refugiado: A todo extranjero que se encuentre en territorio nacional y que sea reconocido como refugiado como parte de las autoridades competentes, conforme a los tratados y convenios internacionales de que es parte el Estado Mexicano y a la legislación vigente;
+
+XIII. Programa: El Programa Estratégico de Reconocimiento y Atención de los derechos de los Migrantes y sus Familias para el Estado de Oaxaca;
+
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+XIV. Programas Municipales: Los Programas Municipales de Reconocimiento y Atención a los Derechos de los Migrantes y sus familias, y;
+
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+XV. Reglamento: Al Reglamento de la Ley Para el Reconocimiento y Atención de los Derechos de los Migrantes y sus Familias para el Estado de Oaxaca.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES
 
@@ -145,7 +175,9 @@ III. A ser beneficiarios de las políticas, programas, proyectos y acciones gube
 
 IV. Ningún migrante ni sus familias pueden ser molestados en su persona, familia, domicilio, patrimonio o correspondencia, ni sufrir ataques a su honra o reputación, sino mediante escrito u orden de autoridad competente que funde y motive la causa legal de su molestia;
 
-V. A recibir protección contra todo tipo de delitos y violencia, ya sea física, psicológica, económica o patrimonial, y garantizar su derecho al debido proceso legal seguido en la jurisdicción del Estado.
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+V. A recibir protección contra todo tipo de delitos; violencia física, psicológica, económica, patrimonial, sexual y violaciones a los derechos humanos; cometida por particulares o servidores públicos, así como garantizar su derecho al debido proceso legal en la jurisdicción del Estado.
 
 VI. A la libertad de pensamiento y de religión, así como, a la libertad de opinión y expresión de ideas, de reunión y de asociación pacífica, a excepción de que sólo los ciudadanos mexicanos podrán tomar parte en los asuntos políticos del país, conforme a las leyes aplicables a la materia;
 
@@ -161,7 +193,25 @@ XI. A recibir asistencia de las autoridades del Estado en caso de repatriación 
 
 XII. A los servicios que presta la Administración Pública y los Municipios con trato digno, respetuoso, oportuno y con calidad humana;
 
-XIII. Los demás que le reconozcan y le confieran las normas aplicables.
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+XIII. A no ser criminalizado; el ingreso no formal al país de la población migrante extranjera no es motivo para criminalizar su actuar. Su ingreso irregular implica una infracción administrativa, no un ilícito penal, de acuerdo a lo establecido en el artículo 2 de la Ley de Migración a nivel Federal.
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+XIV. A no ser discriminado; la condición jurídica del migrante, su nacionalidad, su pertenencia a un grupo étnico, su condición económica, su género, su preferencia sexual, entre muchas otras condiciones, no son causas para ser discriminados y negados sus derechos.
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+XV. Derecho a un traductor. Para efecto de expresar sus necesidades y contar con una adecuada defensa ante las autoridades migratorias, aquellas personas que no hablen o entiendan el español, deberá proporcionárseles un traductor.
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+XVI. A la protección de la unidad familiar; toda persona, en situación de migración, tienen derecho a la unidad y/o reunión familiar, más aún en tratándose de niñas, niños y adolescentes en movilidad por contextos de vulnerabilidad.
+
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+XVII. Las demás que le reconozcan y le confieran las normas aplicables.
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS Y PARTICULARES
 
@@ -245,9 +295,11 @@ La generación de políticas públicas a cargo de la Administración Pública y 
 
 #### SECCIÓN PRIMERA. DE LAS POLÍTICAS PÚBLICAS PARA MIGRANTES OAXAQUEÑOS EN TERRITORIO NACIONAL Y EN EL EXTRANJERO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 21.
 
-Las políticas públicas que desarrollen las dependencias y entidades de la Administración Pública y los Ayuntamientos en materia de derechos, protección y apoyo a los migrantes oaxaqueños, deberán observar los siguientes criterios:
+Las políticas públicas y programas específicos que desarrollen las dependencias y entidades de la Administración Pública y los Ayuntamientos en materia de derechos, protección; atención y apoyo a los migrantes oaxaqueños, deberán observar los siguientes criterios:
 
 I. Garantizar que la población atendida sea la conformada por los migrantes originarios del Estado de Oaxaca, que residan en otras entidades federativas o en el extranjero, se encuentren en condiciones de tránsito o de retorno, con absoluta independencia de su situación migratoria en el extranjero;
 
@@ -277,7 +329,9 @@ XIII. Impulsar la participación de los migrantes al desarrollo social y económ
 
 XIV. Brindar asistencia en situaciones excepcionales y en los procesos de retorno o repatriación voluntaria o forzosa de personas, especialmente de menores en condiciones de orfandad o indigencia y, en general, de personas en estado de vulnerabilidad, así como, de migrantes fallecidos;
 
-XV. Favorecer condiciones sociales y económicas que induzcan al retorno voluntario de los migrantes del estado.
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+XV. Brindar apoyo a las y los migrantes a través de programas y acciones que incentiven el retorno voluntario y la reunificación familiar en los lugares de origen.
 
 XVI. Promocionar la inversión nacional y la contribución del sector privado para proveer de los productos y servicios, así como el apoyo para generar pequeñas y medianas empresas de migrantes y de sus familias, y
 
@@ -287,9 +341,11 @@ XVII. Fomentar la inversión de los migrantes oaxaqueños y sus familias en proy
 
 DE LAS POLÍTICAS PÚBLICAS PARA MIGRANTES NACIONALES Y EXTRANJEROS Y SUS FAMILIAS.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 22.
 
-Las políticas públicas que desarrollen las dependencias y entidades de la Administración Pública y los Ayuntamientos en materia de derechos, protección y apoyo a los migrantes oaxaqueños fuera del Estado, en condiciones de tránsito o retorno, deberán observar los siguientes criterios:
+Las políticas públicas y programas específicos que desarrollen las dependencias y entidades de la Administración Pública y los Ayuntamientos en materia de atención, derechos, protección y apoyo a los migrantes oaxaqueños fuera del Estado, en condiciones de tránsito o retorno, deberán observar los siguientes criterios:
 
 I. Garantizar que la población atendida sea la conformada por los migrantes nacionales provenientes de otras entidades federativas y extranjeros que se encuentren en el estado, incluidos los desplazados, exiliados y refugiados, con independencia de su situación jurídica migratoria, ya sea en tránsito hacia otra entidad federativa o al extranjero, o residiendo en esta entidad, excepto la determinada por el artículo 5 de esta Ley para efectos de los programas de apoyo;
 
@@ -305,11 +361,15 @@ VI. Contribuir a garantizar el derecho al debido proceso y a la igualdad ante lo
 
 VII. Promover entre los migrantes nacionales la valoración y el respeto a la diversidad y la interacción multicultural entre mexicanos de diversos orígenes étnicos, raciales, económicos, sociales y culturales como factores de desarrollo del estado;
 
-VIII. Garantizar el acceso a los servicios de salud pública y, en general, a los servicios que garanticen la vida, la dignidad humana, el desarrollo económico social;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+VIII. Garantizar el acceso a los servicios de educación, salud pública y, en general, a los servicios que garanticen la vida, la dignidad humana, el desarrollo económico social;
 
 IX. Asistir a la población objetivo en situaciones excepcionales y en condiciones de emergencia o vulnerabilidad para garantizar la protección a sus derechos humanos;
 
-X. Contribuir a garantizar la atención especializada a los niños, niñas y adolescentes migrantes que han sido separados de sus familias o que estén en estado de orfandad o indigencia;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+X. Contribuir a garantizar la atención especializada a los niños, niñas y adolescentes migrantes que han sido separados de sus familias o que estén en estado de orfandad o indigencia, procurando la reunificación familiar.
 
 XI. Coordinarse con dependencias y entidades de la Administración Pública Federal y de otros estados y sus municipios, para la atención de la población objetivo.
 
@@ -321,7 +381,9 @@ XI. Coordinarse con dependencias y entidades de la Administración Pública Fede
 
 El Titular del Ejecutivo deberá:
 
-I. Establecer de manera concertada, en el marco del Plan Estatal de Desarrollo, los objetivos, estrategias y líneas de acción de las políticas públicas para la defensa y procuración de los derechos de los migrantes y sus familias, así como, para su protección y apoyo, de acuerdo con los preceptos establecidos en esta Ley y en otros ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+I. Establecer de manera concertada, en el marco del Plan Estatal de Desarrollo, los objetivos, estrategias y líneas de acción de las políticas públicas para la atención, defensa y procuración de los derechos de los migrantes y sus familias, así como, para su protección y apoyo, de acuerdo con los preceptos establecidos en esta Ley y en otros ordenamientos aplicables;
 
 II. Presidir la Comisión;
 
@@ -331,11 +393,23 @@ IV. Promover, concertar y celebrar acuerdos, convenios y programas con las depen
 
 V. Promover y concertar acuerdos o convenios para la realización de proyectos, programas y acciones entre los distintos sectores y actores sociales y civiles en torno a la defensa y procuración de los derechos de los migrantes y sus familias, así como, para apoyar la ejecución del Programa;
 
+> <small>[N. DE E. SE ADVIERTE QUE EL QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IGUAL AL DE LA FRACCIÓN VIII.]</small>
+
 VI. Emitir el Acuerdo constitutivo de la Comisión;
 
-VII. Expedir el Reglamento de la presente Ley; y
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
-VIII. Las demás que le señalen expresamente la normatividad aplicable.
+VII. Elaborar una política de vivienda en los municipios de alta y muy alta intensidad migratoria o perfil migratorio con fines de arraigo de los migrantes y sus familias.
+
+> <small>[N. DE E. SE ADVIERTE QUE EL QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IGUAL AL DE LA FRACCIÓN VI.]</small>
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+VIII. Emitir el Acuerdo constitutivo de la Comisión;
+
+IX. Expedir el Reglamento de la presente Ley; y
+
+X. Las demás que le señalen expresamente la normatividad aplicable.
 
 ### CAPÍTULO II. DEL INSTITUTO OAXAQUEÑO DE ATENCIÓN AL MIGRANTE
 
@@ -345,7 +419,9 @@ El Instituto Oaxaqueño de Atención al Migrante, es un organismo descentralizad
 
 Corresponde al Instituto:
 
-I. Formular el Programa Estratégico de Protección y Apoyo a los Migrantes y sus familias para el Estado de Oaxaca, en coordinación con las dependencias de la Administración Pública relacionadas con la materia, con los Ayuntamientos y con la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, a partir de los objetivos, estrategias y líneas de acción para las políticas públicas en la materia establecidos en el Plan Estatal de Desarrollo.
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+I. Formular el Programa Estratégico de Atención, Protección y Apoyo a los Migrantes y sus familias para el Estado de Oaxaca, en coordinación con las dependencias de la Administración Pública relacionadas con la materia, con los Ayuntamientos y con la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, a partir de los objetivos, estrategias y líneas de acción para las políticas públicas en la materia establecidos en el Plan Estatal de Desarrollo.
 
 II. Elaborar los Criterios de Ejecución y Evaluación del Programa, con base en los preceptos de esta Ley y presupuestar en el Programa Operativo Anual lo correspondiente, en el ámbito de su competencia;
 
@@ -357,7 +433,9 @@ V. Coordinar, sistematizar y actualizar el Diagnóstico y Evaluación Anual de l
 
 El Diagnóstico contará con los datos que aporten las dependencias y entidades de la Administración Pública, relacionadas con la materia, los Municipios y la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, la Fiscalía General del Estado de Oaxaca y la Defensoría Pública, así como, con la eventual colaboración de organismos internacionales, centros de estudio e investigación y otros actores sociales y civiles;
 
-VI. Elaborar y publicitar la lista de los Municipios con perfil migratorio, coordinar y evaluar con los Ayuntamientos involucrados los criterios y resultados de los Programas Municipales y de los correspondientes programas y acciones en materia de defensa y procuración de derechos de los migrantes y sus familias, así como, de su protección y apoyo dentro y fuera de sus demarcaciones territoriales, en el marco del Programa y de acuerdo con los preceptos de esta Ley;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+VI. Elaborar y publicitar la lista de los Municipios con perfil migratorio, con alta y muy alta intensidad migratoria y el estatus sobre los resultados de los programas gubernamentales de atención, protección, defensa y procuración de derechos y apoyo a los migrantes y sus familias.
 
 VII. Celebrar acuerdos, convenios y programas con las dependencias del Ejecutivo Federal, de los gobiernos de otras entidades federativas y municipios; y con los sectores social y privado y con las organizaciones civiles, acordes con el Programa, en el marco de los preceptos de esta Ley y de los ordenamientos locales y federales en la materia; en todos los casos fungirá como órgano de consulta en la suscripción de los instrumentos jurídicos;
 
@@ -399,6 +477,10 @@ El Instituto realizará campañas permanentes para informar de los riesgos y pel
 
 El Instituto coadyuvará con la Secretaría del Trabajo, en el auxilio y representación a los migrantes y sus familias en la verificación de la autenticidad, capacidad económica y legalidad de las empresas o patrones que pretendan contratarlos, para realizar labores en el extranjero; así como acudir ante las autoridades laborales migratorias y otras competentes para obtener la información suficiente que garantice a los trabajadores las mejores condiciones de contratación. Si el contrato en cuestión se expidiera en una lengua diferente al español, el Instituto podrá traducirlo para proporcionarlo a cada uno de los trabajadores e informará a los mismos sobre los efectos legales correspondientes. El traslado en forma colectiva de trabajadoras oaxaqueñas y oaxaqueños, que sean contratados para laborar en un país extranjero, independientemente de las acciones que realice el Gobierno Federal, deberá ser vigilado por el Gobierno del Estado a través del Instituto, a efecto de garantizar en todo momento el trato respetuoso y digno.
 
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+El Instituto de acuerdo a sus facultades y atribuciones se coordinará con los Enlaces Municipales y las dependencias responsables del Gobierno Federal para coadyuvar a la realización de la política federal para atender a los oaxaqueños en el Exterior, sus familias y a los migrantes retornados a la localidad o municipio de origen.
+
 ### CAPÍTULO III. DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA
 
 ###### Artículo 26.
@@ -415,9 +497,19 @@ El Titular de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, parti
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LOS AYUNTAMIENTOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 29.
 
-Los Ayuntamientos de los municipios del Estado que presentan mayor índice migratorio, se coordinarán con el Instituto, para el estudio, examen, sistematización de la información, formulación de políticas públicas, su evaluación y, la resolución de problemas municipales referentes a personas migrantes y sus familias.
+Los Ayuntamientos de los municipios del Estado que presentan mayor intensidad o índice migratorio, se coordinarán con el Instituto, para el estudio, examen, sistematización de la información, formulación de políticas públicas, su evaluación y, la resolución de problemas municipales referentes a personas migrantes y sus familias.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+Los Ayuntamientos elaborarán y aplicarán los programas y acciones planteados en sus Planes Municipales de Desarrollo en materia de atención a los migrantes y sus familias.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+Las autoridades auxiliares y del Ayuntamiento Municipal deberán generar nuevos mecanismos de participación y colaboración de la ciudadanía migrante y sus familias que permita la cohesión con sus comunidades y evitar la exclusión.
 
 Los Ayuntamientos podrán establecer la Comisión de Atención al Migrante y sus Familias y los Enlaces Municipales de conformidad con lo dispuesto en el Capítulo II de la presente Ley.
 
@@ -438,6 +530,10 @@ VI. Cooperar en la instalación y participar en la operación, dentro de su ámb
 VII. Participar en la Comisión, en los términos establecidos en la presente Ley, y
 
 VIII. Coordinarse con otros ayuntamientos de municipios fronterizos de su demarcación territorial cuando fuere necesario para efectos de la aplicación y fortalecimiento del Programa Municipal, en los términos que establece esta Ley.
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+IX. Por medio de la Comisión y Enlace Municipal coadyuvar con los otros niveles de gobierno para generar mecanismos financieros para apoyar a los migrantes y sus familias en su cohesión, reunificación familiar y retorno.
 
 ### CAPÍTULO V. DE LA COMISIÓN INTERINSTITUCIONAL DE PROTECCIÓN Y APOYO A LOS MIGRANTES Y SUS FAMILIAS
 
@@ -800,3 +896,11 @@ P.O. 24 DE AGOSTO DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se oponga al presente Decreto.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1190.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIARES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial de (sic) Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
