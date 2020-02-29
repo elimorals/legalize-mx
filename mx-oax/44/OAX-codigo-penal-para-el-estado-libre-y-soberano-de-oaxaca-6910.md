@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2020-02-15"
+last_updated: "2020-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -539,9 +539,11 @@ Para los efectos de este artículo, los terceros propietarios de vehículos y ot
 
 La obligación de pagar la reparación de los daños es preferente con respecto al de la multa y se cubrirá primero que cualquier otra de las obligaciones personales que se hubieren contraído con posterioridad a la comisión del delito, a excepción de las relacionadas con los alimentos y los salarios.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2020)</small>
 
-36.- La reparación del daño, cuando deba ser hecha por el sujeto activo, se exigirá por el Ministerio Público en todo proceso penal. El incumplimiento de esta obligación ministerial, se hará constar en la sentencia y el juez lo comunicará al Procurador General de Justicia, quien sancionará al Agente del Ministerio Público infractor, con una multa de treinta a sesenta días multa; sin perjuicio de otras acciones que puedan ejercerse en su contra.
+36.- La reparación del daño, cuando deba ser hecha por el sujeto activo, se exigirá por el Ministerio Público en todo proceso penal. El incumplimiento de esta obligación ministerial, se hará constar en la sentencia y el juez lo comunicará al Fiscal General del Estado, quien sancionará al Agente del Ministerio Público infractor, con una multa de treinta a sesenta días multa; sin perjuicio de otras acciones que puedan ejercerse en su contra.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 Hecha la solicitud de condena de la reparación del daño por el Ministerio Público, el juez resolverá lo conducente. Si el Juez no resuelve sobre dicha solicitud, será sancionado por el Tribunal de alzada en los términos del párrafo anterior.
 
@@ -577,9 +579,9 @@ b).- Si las cosas no tienen las características señaladas en el inciso anterio
 
 II.- Respecto de objetos o valores no decomisados en la sentencia, ordenará su entrega a quien acredite tener derecho a ellos, pero si éste no comparece en un lapso de noventa días a partir de la notificación personal que se le haga, se enajenará en subasta pública. Hecha esta se le notificará personalmente que el producto de la venta queda a su disposición por el plazo de seis meses, apercibido que de no presentarse, el producto de la venta se destinará al mejoramiento de la administración de justicia, previas las deducciones de los gastos ocasionados.
 
-(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
-III.- Respecto de bienes asegurados a disposición del Ministerio Público que, durante la averiguación previa no puedan conservarse, sean perecederos o el costo de su administración, mantenimiento o resguardo sea superior al valor del bien, se procederá a su venta inmediata en subasta pública en los términos y condiciones que se determinen por acuerdo del Procurador General de Justicia del Estado o del servidor en quien delegue dicha facultad conforme a las disposiciones aplicables y el producto se dejará a disposición de quien acredite tener derecho al mismo por un plazo de seis meses contados a partir de la notificación que se le haga, transcurrido el cual, sino (sic) es recogido, se destinará al fondo para la procuración de justicia.
+III.- Respecto de bienes asegurados a disposición del ministerio público que, durante la averiguación previa no puedan conservarse, sean perecederos o el costo de su administración, mantenimiento o resguardo sea superior al valor del bien, se procederá a su venta inmediata en subasta pública en los términos y condiciones que se determinen por acuerdo del Fiscal General del Estado o del servidor en quien delegue dicha facultad conforme las disposiciones aplicables y el producto se dejará a disposición de quien acredite tener derecho al mismo por un plazo de seis meses contados a partir de la notificación que se le haga, transcurrido el cual, si no es recogido, se destinará al fondo para la procuración de justicia.
 
 Lo mismo se observará tratándose de objetos o valores a disposición de la autoridad judicial, con la circunstancia de que el producto de la venta se destinará al fondo para la administración de justicia.
 
@@ -2359,25 +2361,39 @@ II.- Al que para eludir la práctica de una diligencia judicial, o una notificac
 
 De la Suplantación de Identidad.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2020)</small>
 
-232 Bis.- Al que por cualquier medio suplante la identidad de otra persona, u otorgue su consentimiento para llevar a cabo la suplantación en su identidad, se le impondrá una pena de uno a cinco años de prisión y multa de quinientos a mil veces el valor de la Unidad de Medida y Actualización.
+232 Bis.- A quien empleando cualquier medio y sin el consentimiento de quien legítimamente deba otorgarlo, se haga pasar por otra persona, física o jurídica, asuma, utilice, usurpe o suplante su identidad, con la finalidad de obtener lucro o producir un daño patrimonial, para sí o para un tercero, se aplicarán de tres a seis años de prisión y multa de quinientos (sic) a mil quinientas veces el valor de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+Para los efectos de este capítulo, se entenderá por identidad, todos aquellos datos personales, informes, documentos o imagen pública, que identifican a una persona física o jurídica, que la individualizan ante la sociedad, y que le permite ser identificado o identificable por la colectividad a través de cualquier medio impreso o electrónico.
 
-Se impondrá la pena del párrafo anterior, a quien se apodere, apropie, transfiera, utilice o disponga de datos personales sin autorización de su titular, con la finalidad de cometer un ilícito o favorecer su comisión.
+Serán equiparables al delito de suplantación de identidad y se impondrán las mismas penas a quien:
 
-(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+I. Otorgue su consentimiento a otra persona para que asuma, utilice o suplante su identidad, datos personales, informes, documentos o imagen pública con fines ilícitos.
 
-Se aumentarán en una mitad las penas previstas en el párrafo anterior, a quien se valga de la homonimia, parecido físico o similitud de la voz para cometer el delito establecido en el presente artículo.
+II. Se valga de la homonimia para suplantar la identidad del sujeto pasivo.
 
-(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+III. Se aproveche del parecido físico con el sujeto pasivo para suplantar su identidad.
 
-232 Bis A.- Se aumentará la pena prevista en el artículo anterior en dos terceras partes al que cometa el delito de suplantación de identidad dentro de la tramitación de la averiguación previa o proceso penal, conforme a las disposiciones penales aplicables.
+IV. Transfiera o posea, sin autorización de quien legítimamente deba otorgarla, datos identificativos de otra persona, con la finalidad de cometer o favorecer la comisión de un ilícito.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2020)</small>
 
-Asimismo, las penas contenidas en el artículo anterior, se aumentarán hasta en una mitad, cuando el ilícito sea cometido por un servidor público que aprovechándose de sus funciones o cargo, tenga acceso a bases de datos o se valga de su profesión para la obtención de las mismas.
+232 Bis A.- Comete el delito de suplantación de identidad digital, quien por sí o por interpósita persona, mediante alguna manipulación de medios electrónicos, telemáticos, informáticos, o intercepción de datos de envío, se apodere, transfiera, utilice o disponga de información personal, documentos, imágenes o correos electrónicos con la finalidad de suplantar identidades o usurpar el estado civil para obtener un lucro indebido, o provocar un daño patrimonial o moral.
+
+La sanción de la conducta será de dos a seis años de prisión, y multa de doscientos (sic) a cuatrocientas veces el valor diario vigente de la Unidad de Medida y Actualización al momento de la comisión del hecho, y en su caso, la reparación del daño causado.
+
+Las penas previstas en este capítulo se aumentarán hasta en una mitad cuando:
+
+I. El sujeto activo tenga conocimientos técnicos o profesionales en materia de informática, sistemas computacionales, telemáticos o cualquier otro afín.
+
+II. El sujeto activo cometa el ilícito en contra de personas físicas o jurídicas que ejerzan la función o servicio público.
+
+Las penas previstas en este capítulo se impondrán con independencia de las que correspondan por la comisión de otros delitos.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+232 Bis B.- Los delitos comprendidos en este capítulo serán perseguidos por querella de parte ofendida o legítimo representante.
 
 ### CAPITULO V.
 
@@ -5156,3 +5172,19 @@ P.O. 15 DE FEBRERO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día de su aprobación.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1265.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1396.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 36, Y LA FRACCIÓN III DEL ARTÍCULO 38 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todos los preceptos legales contemplados en cualquier otro ordenamiento legal de igual o menor rango y que se opongan a las disposiciones del presente Decreto.
