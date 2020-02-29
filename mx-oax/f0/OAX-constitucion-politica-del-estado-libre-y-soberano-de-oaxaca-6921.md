@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2020-01-18"
+last_updated: "2020-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -599,9 +599,13 @@ Las formas alternativas de justicia deberán observarse en la aplicación de est
 
 El Estado de Oaxaca tiene una composición multiétnica, multilingüe y pluricultural, sustentada en la presencia y diversidad de los pueblos y comunidades que lo integran. El derecho a la libre determinación de los pueblos y comunidades indígenas, así como del Pueblo y comunidades afromexicanas se expresa como autonomía, en tanto partes integrantes del Estado de Oaxaca, en el marco del orden jurídico vigente; por tanto dichos pueblos y comunidades tienen personalidad jurídica de derecho público y gozan de derechos sociales. La ley reglamentaria establecerá las medidas y procedimientos que permitan hacer valer y respetar los derechos sociales de los pueblos y comunidades indígenas y del Pueblo y comunidades afromexicanas.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2020)</small>
 
-Los pueblos indígenas del Estado Libre y Soberano de Oaxaca son: Amuzgos, Cuicatecos, Chatinos, Chinantecos, Chocholtecos, Chontales, Huaves, lxcatecos, Mazatecos, Mixes, Mixtecos, Nahuas, Triquis, Zapotecos Y Zoques. El Estado reconoce a las comunidades indígenas y afromexicanas que los conforman, a sus reagrupamientos étnicos, lingüísticos o culturales. La ley reglamentaria protegerá al pueblo y a las comunidades afromexicanas, así como a los indígenas pertenecientes a cualquier otro pueblo procedente de otros estados de la república y que (sic) cualquier circunstancia, residan dentro del territorio del estado de Oaxaca, en este último caso, la ley preverá las medidas urgentes de salud, alimentación, justicia, educación vivienda, asistencia social y todos aquellos satisfactores que garanticen la protección a sus derechos humanos, especialmente en el caso de ser desplazados, siempre y cuando persista la necesidad. Asimismo, el estado reconoce a los pueblos y comunidades indígenas y afromexicanas sus formas de organización social, política y de gobierno, sus sistemas normativos internos, la jurisdicción que tendrán en sus territorios, el acceso a los recursos naturales de sus tierras y territorios, su participación en el quehacer educativo y en los planes y programas de desarrollo, sus formas de expresión religiosa y artística, la protección de las mismas y de su acervo cultural y, en general, para todos los elementos que configuran su identidad. Por tanto, la ley reglamentaria establecerá las normas, medidas y procedimientos que se (sic) aseguren la protección y respeto de dichos derechos sociales, los cuales serán ejercidos directamente por las autoridades de los pueblos y comunidades indígenas y afromexicanas o por quienes legalmente los representan.
+Los pueblos indígenas del Estado de Oaxaca son: Amuzgos, Cuicatecos, Chatinos, Chinantecos, Chocholtecos, Chontales, Huaves, Ixcatecos, Mazatecos, Mixes, Mixtecos, Nahuas, Tacuates, Triquis, Zapotecos y Zoques. El Estado reconoce a las comunidades indígenas y afromexicanas que los conforman, a sus reagrupamientos étnicos, lingüísticos o culturales. La ley reglamentaria protegerá al Pueblo y las comunidades afromexicanas, así como a los indígenas pertenecientes a cualquier otro pueblo procedente de otros Estados de la República y que por cualquier circunstancia, residan dentro del territorio del Estado de Oaxaca. Asimismo, el Estado reconoce a los pueblos y comunidades indígenas y afromexicanas sus formas de organización social, política y de gobierno, sus sistemas normativos internos, la jurisdicción que tendrán en sus territorios, el acceso a los recursos naturales de sus tierras y territorios, su participación en el quehacer educativo y en los planes y programas de desarrollo, sus formas de expresión religiosa y artística, la protección de las mismas y de su acervo cultural y, en general, para todos los elementos que configuran su identidad. Por tanto, la ley reglamentaria establecerá las normas, medidas y procedimientos que aseguren la protección y respeto de dichos derechos sociales, los cuales serán ejercidos directamente por las autoridades de los pueblos y comunidades indígenas y afromexicanas o por quienes legalmente los representan.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+Los pueblos indígenas y afromexicano tienen derecho a ser consultados de manera libre, previa e informada, mediante procedimientos apropiados y culturalmente pertinentes, y a través de sus instituciones representativas, cada vez que se prevean medidas legislativas o administrativas susceptibles de afectarles, con la finalidad de llegar a un acuerdo u obtener su consentimiento. Para este efecto, el Estado deberá celebrar consultas y cooperar de buena fe con los pueblos interesados, de conformidad con principios y normas que garanticen el respeto y el ejercicio efectivo de los derechos sustantivos de los pueblos indígenas reconocidos en la Constitución Federal y en los instrumentos internacionales en la materia.
 
 La ley reglamentaria castigará las diversas formas de discriminación étnica y las conductas etnocidas; así como el saqueo cultural en el Estado. Igualmente protegerá a los pueblos y comunidades indígenas y al Pueblo y comunidades afromexicanas contra reacomodos y desplazamientos, determinando los derechos y obligaciones que se deriven de los casos de excepción que pudieran darse, así como las sanciones que procedan con motivo de su contravención.
 
@@ -5536,3 +5540,15 @@ P.O. 18 DE ENERO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- El Ejecutivo del Estado contará con el término de 90 días para remitir al Congreso del Estado el proyecto de ley en coordinación con la Defensoría de los Derechos Humanos del Pueblo de Oaxaca a que se refiere el anterior precepto.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1292.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1400.- MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO AL ARTÍCULO 16 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado; y entrará en vigor al día siguiente de su publicación.
