@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2019-12-30"
+last_updated: "2020-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -129,69 +129,85 @@ XII. CONSEJO ESTATAL: Consejo Estatal de Movilidad;
 
 XIII. DEPÓSITO VEHICULAR: Al lugar autorizado, propiedad del Gobierno del Estado, de los municipios, o de un particular, para resguardar los vehículos asegurados, infraccionados y recuperados por la autoridad competente; también se le denomina encierro o corralón;
 
-XIV. DESPACHO: Número de salidas programadas de los vehículos durante el horario de servicio de la ruta;
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
-XV. ESTADO DE EBRIEDAD: Cuando los conductores o peatones tengan una cantidad superior a 0.8 gramos por litro de alcohol en la sangre o una cantidad superior a 0.4 miligramos por litro de alcohol en aire espirado.
+XIV. ESTACIONAMIENTO: Espacio físico o lugar utilizado para detener, custodiar y/o guardar un vehículo por tiempo determinado;
 
-XVI. EXTINCIÓN: Declaratoria que emite el Gobernador del Estado o la Secretaría, de acuerdo a su competencia en el momento procesal oportuno, por virtud de la cual quedan absolutamente sin efecto todos los derechos derivados de una concesión, permiso o autorización;
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
-XVII. GOBERNADOR DEL ESTADO: El Titular del Poder Ejecutivo del Estado de Oaxaca;
+XV. ESTACIONAMIENTO EN VÍA PÚBLICA: Espacio físico establecido en la vialidad, para detener y desocupar los vehículos, cuando así lo disponga la autoridad se realizará el pago de una tarifa;
 
-XVIII. HORARIO: Tiempo comprendido entre la hora de inicio y de terminación del servicio;
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
-XIX. ITINERARIO: Recorrido con movimientos direccionales de una ruta, desde su origen hasta su destino y viceversa, así como las especificaciones operativas del servicio;
+XVI. ESTACIONAMIENTO PRIVADO: Es aquel espacio físico para satisfacer las necesidades de individuos, instituciones o empresas para el resguardo de vehículos, siempre que el servicio sea gratuito.
 
-XX. LEY: Ley de Movilidad para el Estado de Oaxaca;
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
-XXI. MOVILIDAD: Acción de transportarse de un lugar a otro, en la que confluye el tránsito de personas, bienes, semovientes y vehículos del transporte público y privado, dentro de las vías públicas del Estado y sus Municipios;
+XVII. ESTACIONAMIENTO PÚBLICO: Espacio físico para satisfacer las necesidades del público en general para el resguardo mediante el pago de una tarifa;
 
-XXII. NORMAS TÉCNICAS: Instrumentos y manuales de especificaciones técnicas que elaborará, autorizará y publicará la Secretaría con el propósito de establecer obligaciones operativas en la prestación de los servicios de transporte, tendientes a proporcionar seguridad al usuario y el mejoramiento integral del transporte.
+XVIII. DESPACHO: Número de salidas programadas de los vehículos durante el horario de servicio de la ruta;
 
-XXIII. PEATÓN: Persona que transita a pie por las vías públicas del Estado y sus Municipios;
+XIX. ESTADO DE EBRIEDAD: Cuando los conductores o peatones tengan una cantidad superior a 0.8 gramos por litro de alcohol en la sangre o una cantidad superior a 0.4 miligramos por litro de alcohol en aire espirado.
 
-XXIV. PERMISO ESPECIAL: Acto administrativo por el cual el Gobernador del Estado o la Secretaría autoriza a un particular para prestar el servicio especial de transporte;
+XX. EXTINCIÓN: Declaratoria que emite el Gobernador del Estado o la Secretaría, de acuerdo a su competencia en el momento procesal, oportuno, por virtud de la cual quedan absolutamente sin efecto todos los derechos derivados de una concesión, permiso o autorización;
 
-XXV. PERMISO PROVISIONAL: Acto administrativo por el cual el Gobernador del Estado o la Secretaría autoriza a un particular a prestar el servicio público de transporte en forma provisional para satisfacer una necesidad de transporte eventual, emergente o extraordinaria, y para garantizar la continuidad de los servicios que presten los concesionarios durante el desarrollo de trámites administrativos ante la Secretaría;
+XXI. GOBERNADOR DEL ESTADO: El Titular del Poder Ejecutivo del Estado de Oaxaca;
 
-XXVI. PERMISO COMPLEMENTARIO: Autorización emitida por el Gobernador del Estado o la Secretaría para la circulación de vehículos que prestan los servicios de transporte en zonas limítrofes del Estado, y los amparados en permisos otorgados por la autoridad federal;
+XXII. HORARIO: Tiempo comprendido entre la hora de inicio y de terminación del servicio;
 
-XXVII. PERMISIONARIO: Persona autorizada por el Gobernador del Estado o la Secretaría, para prestar el servicio especial de transporte;
+XXIII. ITINERARIO: Recorrido con movimientos direccionales de una ruta, desde su origen hasta su destino y viceversa, así como las especificaciones operativas del servicio;
 
-XXVIII. PERSONA CON DISCAPACIDAD: Es quien tiene una deficiencia o limitación, que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
+XXIV. LEY: Ley de Movilidad para el Estado de Oaxaca;
 
-XXIX. PROGRAMA: Programa Sectorial de Movilidad;
+XXV. MOVILIDAD: Acción de transportarse de un lugar a otro, en la que confluye el tránsito de personas, bienes, semovientes y vehículos del transporte público y privado, dentro de las vías públicas del Estado y sus Municipios;
 
-XXX. REGISTRO ESTATAL: Registro Estatal de Transporte de Oaxaca;
+XXVI. NORMAS TÉCNICAS: Instrumentos y manuales de especificaciones técnicas que elaborará, autorizará y publicará la Secretaría con el propósito de establecer obligaciones operativas en la prestación de los servicios de transporte, tendientes a proporcionar seguridad al usuario y el mejoramiento integral del transporte.
 
-XXXI. REGLAMENTO: Reglamento de la Ley de Movilidad para el Estado de Oaxaca;
+XXVII. PEATÓN: Persona que transita a pie por las vías públicas del Estado y sus Municipios;
 
-XXXII. REVOCACIÓN: Acto administrativo por virtud del cual el Gobernador del Estado o la Secretaría, dejan sin efectos la concesión, el permiso o la autorización, con base en las determinaciones y términos de esta Ley y demás disposiciones aplicables.
+XXVIII. PERMISO ESPECIAL: Acto administrativo por el cual el Gobernador del Estado o la Secretaría autoriza a un particular para prestar el servicio especial de transporte;
 
-XXXIII. SECRETARÍA: Secretaría de Movilidad;
+XXIX. PERMISO PROVISIONAL: Acto administrativo por el cual el Gobernador del Estado o la Secretaría autoriza a un particular a prestar el servicio público de transporte en forma provisional para satisfacer una necesidad de transporte eventual, emergente o extraordinaria, y para garantizar la continuidad de los servicios que presten los concesionarios durante el desarrollo de trámites administrativos ante la Secretaría;
 
-XXXIV. SERVICIO ESPECIAL: El que se presta a través de un permiso otorgado por el Gobernador del Estado o la Secretaría para satisfacer una necesidad específica de un sector de la población;
+XXX. PERMISO COMPLEMENTARIO: Autorización emitida por el Gobernador del Estado o la Secretaría para la circulación de vehículos que prestan los servicios de transporte en zonas limítrofes del Estado, y los amparados en permisos otorgados por la autoridad federal;
 
-XXXV. SERVICIO DE TRANSPORTE: El que se presta a través de la concesión, el permiso, autorización, convenio o contrato correspondiente;
+XXXI. PERMISIONARIO: Persona autorizada por el Gobernador del Estado o la Secretaría, para prestar el servicio especial de transporte;
 
-XXXVI. SERVICIO PÚBLICO: El que, al amparo de una concesión, se presta en forma continua y regular en las vías públicas del Estado y sus Municipios, para satisfacer una necesidad general del traslado de pasajeros y carga de un lugar a otro;
+XXXII. PERSONA CON DISCAPACIDAD: Es quien tiene una deficiencia o limitación, que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
 
-XXXVII. SERVICIO DE PAGO ELECTRÓNICO: Es aquel que se presta de manera permanente, regular, continúa y uniforme como medio de acceso a las unidades del Servicio Público de Transporte de pasajeros, y se basa en el uso de tarjetas electrónicas recargables, las cuales serán emitidas por el Ejecutivo del Estado a través de la Secretaría, o por el concesionario, y están autorizadas para efectuar la validación de acceso al vehículo del servicio público y para acreditar el pago de la tarifa por el uso de los servicios de transporte en cualquiera de sus modalidades, así como también con los otros medios de pago que la Autoridad Competente determine oportunamente;
+XXXIII. PROGRAMA: Programa Sectorial de Movilidad;
 
-XXXVIII. SITIO: Espacio en la vía pública, autorizado por la autoridad municipal correspondiente, destinado al estacionamiento de los vehículos del servicio público de transporte individual en espera de pasaje;
+XXXIV. REGISTRO ESTATAL: Registro Estatal de Transporte de Oaxaca;
 
-XXXIX. SUPERVISOR DE MOVILIDAD. Servidor público quien supervisará y controlará la movilidad, en el territorio del Estado;
+XXXV. REGLAMENTO: Reglamento de la Ley de Movilidad para el Estado de Oaxaca;
 
-XL. TARIFA: Contraprestación económica que el usuario del servicio de transporte paga a su prestador;
+XXXVI. REVOCACIÓN: Acto administrativo por virtud del cual el Gobernador del Estado o la Secretaría, dejan sin efectos la concesión, el permiso o la autorización, con base en las determinaciones y términos de esta Ley y demás disposiciones aplicables.
 
-XLI. TRANSPORTE PRIVADO: El que tiene por objeto satisfacer las necesidades particulares de quien lo realiza sin mayor limitación que el registro del vehículo y el cumplimiento de las normas de circulación emitidas por el Estado y los Municipios;
+XXXVII. SECRETARÍA: Secretaría de Movilidad;
 
-XLII. USUARIO DE TRANSPORTE: La persona que utiliza el Servicio de Transporte a cambio del pago de la tarifa previamente autorizada;
+XXXVIII. SERVICIO ESPECIAL: El que se presta a través de un permiso otorgado por el Gobernador del Estado o la Secretaría para satisfacer una necesidad específica de un sector de la población;
 
-XLIII. VÍA PÚBLICA: Todo espacio de dominio público y de uso común destinado al tránsito de personas, bienes y vehículos;
+XXXIX. SERVICIO DE TRANSPORTE: El que se presta a través de la concesión, el permiso, autorización, convenio o contrato correspondiente;
 
-XLIV. VIAJE ESPECIAL: Aquel que se realiza fuera del lugar para el que fue otorgada la concesión, sin hacer escalas en puntos intermedios y sin ascenso de pasajeros, de manera espontánea;
+XL. SERVICIO PÚBLICO; El que, al amparo de una concesión, se presta en forma continua y regular en las vías públicas del Estado y sus Municipios, para satisfacer una necesidad general del traslado de pasajeros y carga de un lugar a otro;
 
-XLV. ZONA CONURBADA: Zona formada por dos o más centros de población de dos o más Municipios del Estado con continuidad demográfica.
+XLI. SERVICIO DE PAGO ELECTRÓNICO: Es aquel que se presta de manera permanente, regular, continúa y uniforme como medio de acceso a las unidades del Servicio Público de Transporte de pasajeros, y se basa en el uso de tarjetas electrónicas recargables, las cuales serán emitidas por el Ejecutivo del Estado a través de la Secretaría, o por el concesionario, y están autorizadas para efectuar la validación de acceso al vehículo del servicio público y para acreditar el pago de la tarifa por el uso de los servicios de transporte en cualquiera de sus modalidades, así como también con los otros medios de pago que la Autoridad Competente determine oportunamente;
+
+XLII. SITIO: Espacio en la vía pública, autorizado por la autoridad municipal correspondiente, destinado al estacionamiento de los vehículos del servicio público de transporte individual en espera de pasaje;
+
+XLIII. SUPERVISOR DE MOVILIDAD. Servidor público quien supervisará y controlará la movilidad, en el territorio del Estado;
+
+XLIV. TARIFA: Contraprestación económica que el usuario del servicio de transporte paga a su prestador;
+
+XLV. TRANSPORTE PRIVADO: El que tiene por objeto satisfacer las necesidades particulares de quien lo realiza sin mayor limitación que el registro del vehículo y el cumplimiento de las normas de circulación emitidas por el Estado y los Municipios;
+
+XLVI. USUARIO DE TRANSPORTE: La persona que utiliza el Servicio de Transporte a cambio del pago de la tarifa previamente autorizada;
+
+XLVII. VÍA PÚBLICA: Todo espacio de dominio público y de uso común destinado al tránsito de personas, bienes y vehículos;
+
+XLVIII. VIAJE ESPECIAL: Aquel que se realiza fuera del lugar para el que fue otorgada la concesión, sin hacer escalas en puntos intermedios y sin ascenso de pasajeros, de manera espontánea;
+
+XLIX. ZONA CONURBADA: Zona formada por dos o más centros de población de dos o más Municipios del Estado con continuidad demográfica.
 
 ###### Artículo 5.
 
@@ -359,6 +375,28 @@ Los peatones gozarán del derecho de paso preferencial en todas las zonas que te
 
 Los peatones, no podrán transitar por las superficies de rodamiento de las vías públicas destinadas a la circulación de vehículos, ni cruzar las vías rápidas por sitios no autorizados al efecto, de conformidad con la legislación aplicable.
 
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+###### Artículo 24 Bis.
+
+La Normatividad y los lineamientos generales para la ubicación, construcción, clasificación y funcionamiento de los estacionamientos públicos, así como la implementación de tecnologías para facilitar su operación y sistemas de información al usuario serán emitidos y actualizados por la Secretaría, en coordinación con las demás autoridades implicadas, de conformidad con las disposiciones legales vigentes en el Estado, y las de desarrollo urbano y construcciones.
+
+Corresponde a la Secretaría, llevar el registro de estacionamientos públicos con base en la información proporcionada de manera obligatoria por los Municipios. La información recabada deberá ser integrada y publicada de forma bimestral a través de una base de datos georreferenciada.
+
+Los datos que deberán presentar de forma mensual los Municipios para la actualización del registro se especificarán en el Reglamento de la Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+###### Artículo 24 Ter.
+
+Los estacionamientos públicos y privados, deberán contar con las instalaciones necesarias para garantizar la seguridad de las personas y de los vehículos. Dispondrán de espacios exclusivos para vehículos que cuenten con distintivo oficial para personas con discapacidad, así como de instalaciones necesarias para proporcionar el servicio a los usuarios de bicicletas y motocicletas.
+
+Los agentes de movilidad, podrán supervisar en todo tiempo, que las instalaciones y la construcción de los estacionamientos, reúnan las condiciones señaladas en la presente Ley y en la normatividad que expida la Secretaría, y que tengan a su servicio personal capacitado.
+
+Los operadores y acomodadores que presten el servicio de estacionamiento deberán contar con una póliza de seguro de responsabilidad civil o fianza que garantice a los usuarios el pago de los daños que pudieran sufrir en su persona, vehículo o en la de terceros de conformidad con la normatividad vigente en el Estado de Oaxaca.
+
+El Gobierno del Estado está facultado para establecer dentro de su Territorio, Estacionamientos, sitios y terminales para los diversos servicios públicos concesionados del ámbito estatal.
+
 ### CAPÍTULO II. DE LA SEGURIDAD Y EDUCACIÓN VIAL
 
 ###### Artículo 25.
@@ -434,6 +472,10 @@ VIII. La estrategia de implementación;
 IX. Las bases para la elaboración y ejecución de los proyectos estratégicos, y
 
 X. Los mecanismos de instrumentación, control, seguimiento y evaluación.
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+XI. Los lineamientos para regular el estacionamiento de vehículos en la vía pública y definir políticas de estacionamiento fuera de la vía pública de acuerdo con el uso de suelo autorizado y las disposiciones aplicables en materia de construcción y funcionamiento.
 
 El Programa será expedido durante el primer año de cada administración estatal, debiendo publicarse en el Periódico Oficial del Gobierno del Estado, de conformidad con el Reglamento de la presente Ley.
 
@@ -573,7 +615,19 @@ XXXVIII. Calificar las infracciones e imponer las sanciones a los infractores de
 
 XXXIX. Implementar avances tecnológicos y soluciones informáticas, para mejorar el servicio público de transporte en todas sus modalidades, el cobro de tarifas, la contratación y pago del servicio a través de aplicaciones móviles, los trámites ante la Secretaría y el Registro Estatal de Transporte de Oaxaca; así como el control vehicular mediante dispositivos; por si o a través de terceros, previo procedimiento de contratación conforme a la normatividad vigente, y
 
-XL. Las demás que establezca la presente Ley, su reglamento, y la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca, y demás disposiciones legales aplicables en la materia.
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+XL. Emitir, sin perjuicio de las competencias de los Municipios, los estudios que contribuyan a determinar el diseño, la ubicación, construcción, tarifas y el funcionamiento de los estacionamientos públicos; así como la política integral de estacionamientos públicos en el Estado de Oaxaca, de conformidad a la presente Ley y demás disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+XLI. Proponer al Gobernador para su aprobación, con base en los estudios correspondientes, las tarifas para el cobro del servicio en los estacionamientos públicos para buscar cumplir los objetivos de reducción del uso del automóvil particular e incentivar el uso del transporte público y no motorizado, en el ámbito de sus competencias;
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+XLII. Establecer en el Programa Integral de Movilidad, la política de estacionamiento; así como emitir la normatividad, los manuales y lineamientos técnicos para su regulación;
+
+XLIII. Las demás que establezca la presente Ley, su reglamento, y la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca, y demás disposiciones legales aplicables en la materia.
 
 ###### Artículo 38.
 
@@ -607,7 +661,11 @@ XIII. Establecer programas de educación vial que garanticen la seguridad en las
 
 XIV. Promover ante la Secretaría la realización de estudios técnicos requeridos para satisfacer las necesidades en materia de Movilidad; y
 
-XV. Las demás que le otorguen las disposiciones jurídicas y administrativas aplicables, la presente Ley y el Reglamento respectivo.
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+XV. Determinar las políticas en materia de estacionamientos públicos establecidos en las vías de circulación, en el ámbito de su competencia; en sus respectivas jurisdicciones, previa opinión de la Secretaría, conceder permisos de Licencias para el establecimiento en terrenos de propiedad privada o del Municipio, de estacionamientos que presten servicios al público;
+
+XVI. Las demás que le otorguen las disposiciones jurídicas y administrativas aplicables, la presente Ley y el Reglamento respectivo.
 
 ###### Artículo 39.
 
@@ -2526,3 +2584,11 @@ P.O. 30 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 866.- MEDIANTE EL CUAL REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1261.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado de Oaxaca y la Secretaría de Movilidad, contará con 60 días hábiles posteriores a la entrada en vigor del presente Decreto, para establecer la normatividad para elaborar, sin perjuicio de la competencia municipal, los estudios que contribuyan a determinar el diseño, la ubicación, construcción, tarifas y el funcionamiento de los estacionamientos públicos.
