@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fomento-a-las-actividades-artesanales-del-estado-de-9443
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-27"
-last_updated: "2018-09-15"
+last_updated: "2020-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2013.
 
@@ -141,9 +141,9 @@ II. Procurar la participación de organismos especializados en los programas que
 
 III. Programar en su proyecto de presupuesto de egresos, la partida presupuestal anual que integrará el Fondo Artesanal; y
 
-> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE FEBRERO DE 2020)</small>
 
-IV. Brindar asistencia técnica al Sector Artesanal en cuanto a:
+IV. Brindar asistencia técnica y asesoramiento para facilitar al sector artesanal en cuanto a:
 
 a) Acceso a financiamiento;
 
@@ -153,7 +153,17 @@ c) Diseño, tecnología, herramientas y equipos;
 
 d) Registro de derechos de autor, patentes y marcas;
 
-e) Funcionamiento de las figuras asociativas formales previstas en la Legislación Mexicana y todo cuanto se requiere para su adecuado desarrollo.
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+e) Constitución y funcionamiento de las figuras asociativas formales previstas en la Legislación Mexicana y todo cuanto se requiere para su adecuado desarrollo;
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+f) Cumplimiento de las obligaciones fiscales impuestas por la Federación, y;
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+g) Realización de los demás trámites administrativos que requieran para el mejor desarrollo de su actividad.
 
 V. Las demás que le confieran esta Ley, u otros ordenamientos.
 
@@ -283,17 +293,21 @@ La información consignada en el Registro Estatal de Artesanos, servirá de base
 
 ### CAPÍTULO VII. DE LA ASOCIACIÓN Y ORGANIZACIÓN DE LOS ARTESANOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 25.
 
-La presente Ley, fomentará la libre organización de los artesanos, a través del apoyo en la constitución de las figuras jurídicas que estos elijan, con la finalidad de impulsar la creación de microempresas.
+El Poder Ejecutivo del Estado, por conducto del Instituto y de las demás dependencias y entidades estatales pertinentes, fomentará la libre organización de los artesanos, a través del apoyo en la constitución de las figuras jurídicas que estos elijan, con la finalidad de impulsar la creación de microempresas.
 
 > <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2016)</small>
 
 Además impulsará el desarrollo de la microindustria y de la actividad artesanal, mediante la gestión de apoyos fiscales, financieros, de mercado y de asistencia técnica, promoviendo la coordinación de las autoridades locales y municipales con el objeto de apoyar los trámites administrativos ante las autoridades federales.
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
 ###### Artículo 26.
 
-En cumplimiento a lo establecido en el artículo anterior, el Instituto promoverá en coordinación con las Dependencias o Entidades correspondientes del Gobierno del Estado, la aplicación de programas de apoyo a la productividad, mejoramiento de la calidad y de fomento a la distribución de las artesanías a nivel estatal, nacional e internacional.
+El Instituto promoverá en coordinación con las Dependencias o Entidades correspondientes del Gobierno del Estado, la aplicación de programas de apoyo a la productividad, mejoramiento de la calidad y de fomento a la distribución de las artesanías a nivel estatal, nacional e internacional.
 
 ### CAPÍTULO VIII. DE LA SUSTENTABILIDAD DE LAS ACTIVIDADES ARTESANALES
 
@@ -490,3 +504,11 @@ P.O. 15 DE SEPTIEMBRE DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM 1199.- MEDIANTE EL CUAL SE REFORMAN EL PRIMER PÁRRAFO Y EL INCISO E) DE LA FRACCIÓN IV DE ARTÍCULO 8°, EL PRIMER PÁRRAFO DEL ARTÍCULO 25 Y 26 Y SE ADICIONAL (SIC) LOS INCISOS F) Y G) A LA FRACCIÓN IV DEL ARTÍCULO 8°, TODOS DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+Segundo. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto
