@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2020-02-15"
+last_updated: "2020-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -206,6 +206,10 @@ II.- Que el centro de población de que se trate tenga el número de habitantes 
 > <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
 III.- Que el número de habitantes del centro de población de que se trata se acredite con la documental, instrumental o certificación que expida el Instituto Nacional de Estadística y Geografía.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+Cuando a un centro de población le ha sido aprobada o declarada por este Congreso, alguna denominación o categoría administrativa, deberán trascurrir (sic) al menos cinco años para solicitar el cambio a la siguiente categoría administrativa.
 
 > <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
@@ -2713,7 +2717,13 @@ Al efecto, el Presidente Municipal entrante, enviará escrito al Presidente Muni
 
 Una vez establecida la comunicación entre ambas administraciones, celebrarán una primera reunión, donde formalmente serán designadas las personas que integrarán la Comisión Municipal; de esta reunión, elaborarán acta con la firma de quienes en ella intervengan.
 
-En el caso de las hipótesis señaladas en el artículo 40 y Capítulo Quinto de este ordenamiento, la integración de la Comisión que se menciona en este artículo, se hará por el Presidente del Concejo o Encargado de la Administración Municipal designado según sea el caso.
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+En el caso de las hipótesis señaladas en el artículo 40 y Capítulo Quinto de este ordenamiento, la integración de la Comisión que se menciona en este artículo, se hará por el Presidente del Consejo o Comisionado Municipal designado según sea el caso.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+En el caso de la elección consecutiva del Presidente Municipal, la Comisión Municipal se establecerá coordinadamente entre el Presidente y el Síndico Municipal entrante, quien realizará las funciones de este, dentro del proceso de Entrega-Recepción, en coordinación con el Órgano Interno de Control respectivo o quien ejerza esta función.
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -2745,11 +2755,11 @@ Las actividades que desarrollen los integrantes de la Comisión Municipal del Ay
 
 ### CAPÍTULO III. DEL ACTA DE ENTREGA-RECEPCIÓN
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2020)</small>
 
 ###### ARTÍCULO 174.
 
-El día uno de enero del año que corresponda o en la fecha que sus Sistemas Normativos Indígenas señale (sic) como fecha para el cambio de la administración municipal, los sujetos obligados, deberán llevar a cabo un acto formal en el que se hará entrega de la Administración Municipal al Presidente electo mediante acta circunstanciada, misma que deberá sujetarse a lo dispuesto en los artículos 175, 176 y 177 del presente ordenamiento.
+El día uno de enero del año que corresponda o en la fecha que sus Sistemas Normativos Indígenas señalen como fecha para el cambio de la administración municipal, los sujetos obligados, deberán llevar a cabo un acto formal en el que se hará entrega de la administración municipal al Presidente o al Síndico Municipal electo, para el caso de que el primero fue ratificado para el mismo cargo por un periodo adicional mediante acta circunstanciada, misma que deberá sujetarse a lo dispuesto en los artículos 175, 176, y 177 del presente ordenamiento.
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -2761,7 +2771,9 @@ I. La fundamentación y motivación legal;
 
 II. Lugar, hora y fecha en que da inicio el acto;
 
-III. El nombre y cargo de las personas que intervienen en el acto que en el caso de la Administración saliente será el Presidente y Síndico Municipal; y por la entrante, el Presidente y Síndico, quienes se identificarán plenamente;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+III. el nombre y cargo de las personas que intervienen en el acto que en el caso de la Administración saliente será el Presidente y el Síndico Municipal; y por la entrante, el Presidente y Síndico, quienes se identificarán plenamente, salvo en el caso, en que el Presidente Municipal haya sido electo para el mismo cargo por un periodo adicional, en el cual solo intervendrá su síndico municipal;
 
 IV. Relacionar el conjunto de hechos que la Entrega-Recepción comprende, así como las incidencias que pudieran acontecer en el desarrollo de la misma, las que deberán manifestarse bajo protesta de decir verdad;
 
@@ -2796,6 +2808,14 @@ II. El segundo ejemplar quedará en poder del Presidente Municipal saliente; y
 > <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
 
 III. El tercer ejemplar deberá remitirse conjuntamente con el expediente de Entrega-Recepción al Órgano Superior de Fiscalización del Estado de Oaxaca, por el Presidente Municipal entrante, dentro de los quince días hábiles siguientes a la firma del acta de Entrega-Recepción.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 176 BIS.- La elección consecutiva parcial o total, de los miembros del ayuntamiento saliente, no exime del cumplimiento de la formalización del proceso de Entrega-Recepción.
+
+Cuando la elección consecutiva sea del Presidente, Síndico Municipal y algún otro miembro del Ayuntamiento, quien realizará las funciones del Presidente dentro del proceso de entrega-recepción, en coordinación con el órgano Interno de Control respectivo, será el Concejal que en prelación corresponda, siempre que este no sea reelecto.
+
+Cuando la totalidad de los miembros del ayuntamiento sean reelectos, el Presidente Municipal Saliente formulará acta circunstanciada, con asistencia de dos testigos, en coordinación con el respectivo Órgano Interno de Control, dejando constancia del estado en que se encuentran los asuntos de la administración municipal, conforme a lo dispuesto en los artículos 175, 176 y 177 del presente, remitiendo al Órgano Superior de Fiscalización del Estado de Oaxaca, copia certificada de dichas actuaciones, dentro de los 15 días hábiles siguientes a la firma del acta.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -3672,3 +3692,17 @@ P.O. 15 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1204.- MEDIANTE EL CUAL REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1203.- MEDIANTE EL CUAL SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 170, EL PRIMER PÁRRAFO DEL ARTÍCULO 174, EL PRIMER PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 175; SE ADICIONAN UN PÁRRAFO SEXTO DEL ARTÍCULO 170, UN SEGUNDO PÁRRAFO AL ARTÍCULO 174 y UN ARTÍCULO 176 BIS, TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1268.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+Primero: Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+Segundo: El presente Decreto entrará en vigor seis meses después de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
