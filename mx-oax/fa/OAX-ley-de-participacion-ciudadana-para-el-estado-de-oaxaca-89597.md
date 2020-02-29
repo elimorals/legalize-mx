@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-participacion-ciudadana-para-el-estado-de-oaxaca-89597"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-17"
-last_updated: "2018-06-16"
+last_updated: "2020-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el viernes 17 de agosto del 2012.
 
@@ -417,9 +417,11 @@ Para que el resultado de la votación sea válido y de pleno derecho, es indispe
 
 El mecanismo de revocación de mandato procederá solamente una vez en el periodo para el que fue electo el Gobernador.
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
 ###### ARTÍCULO 35.
 
-En caso de que el mandato del Ejecutivo sea revocado, se estará a lo dispuesto en el artículo 72 de la Constitución Estatal. Debiendo el Instituto dar vista al Congreso del Estado, así como al Tribunal Electoral del Poder Judicial del Estado para efectos de que formule la declaratoria prevista en el artículo 111, apartado A, fracción V de la Constitución Estatal.
+En caso de que el mandato del Ejecutivo sea revocado, se estará a lo dispuesto en el artículo 72 de la Constitución Estatal. Debiendo el Instituto dar vista al Congreso del Estado, así como al Tribunal Electoral del Estado (sic) Oaxaca para efectos de que formule la declaratoria prevista en el artículo 111, apartado A, fracción V de la Constitución estatal.
 
 ### CAPÍTULO QUINTO.
 
@@ -751,7 +753,9 @@ II. Que hayan participado al menos un número de ciudadanos superior al cincuent
 
 III. Que se haya alcanzado una mayoría simple de los votos emitidos; y
 
-IV. La declaración firme de validez por el Instituto Estatal Electoral y de Participación Ciudadana o del Tribunal Estatal Electoral del Poder Judicial del Estado según sea el caso.
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+IV. La declaratoria firme de validez por el Instituto Estatal Electoral y de Participación Ciudadana o del Tribunal Electoral del Estado de Oaxaca según sea el caso.
 
 ###### ARTÍCULO 78.
 
@@ -779,11 +783,15 @@ La certificación que el Instituto realice sobre la revocación de mandato del G
 
 I. Ante el propio Consejo General del Instituto cuando el recurrente advierta un error de cálculo en el tiempo establecido en la fracción II del artículo 29 de esta Ley;
 
-II. Ante el Tribunal Estatal Electoral del Poder Judicial del Estado cuando el recurrente considere mal apreciados los requisitos relativos a las fracciones I y IV del artículo 29 de esta Ley; y
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+II. Ante el Tribunal Electoral del Estado de Oaxaca cuando el recurrente considere mal apreciados los requisitos relativos a las fracciones I y IV del artículo 29 de esta Ley; y
 
 III. Ante la Sala Constitucional del Tribunal Superior de Justicia cuando el recurrente considere mal apreciados los requisitos relativos las fracciones III y V del artículo 29 de esta Ley.
 
-Respecto del plebiscito y referéndum será competente el Tribunal Estatal Electoral del Poder Judicial del Estado.
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+Respecto al plebiscito y referéndum será competente el Tribunal Electoral del Estado de Oaxaca.
 
 ###### ARTÍCULO 83.
 
@@ -791,9 +799,13 @@ Para garantizar la legalidad de los actos, resoluciones y resultados de los inst
 
 I. Recurso de revisión: para impugnar los actos o resoluciones de los consejos distritales y municipales, que resolverá el Consejo del Instituto jerárquicamente superior al órgano que dictó el acto o la resolución recurrida;
 
-II. Recurso de apelación: para impugnar las resoluciones recaídas a los recursos de revisión, o contra los actos y resoluciones de los órganos centrales del Instituto, que resolverá el Tribunal Estatal Electoral del Poder Judicial del Estado; y
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
-III. Recurso de inconformidad: para objetar los resultados de los cómputos distritales o municipales, por nulidad de las votaciones emitidas en una o varias casillas o para solicitar la nulidad de la votación general, que resolverá el Tribunal Estatal Electoral del Poder Judicial del Estado en los términos de esta ley.
+II. Recurso de apelación: para impugnar las resoluciones recaídas a los recursos de revisión, o contra los actos y resoluciones de los órganos centrales del Instituto, que resolverá el Consejo del Instituto, que resolverá el Tribunal Electoral del Estado de Oaxaca;
+
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+III. Recurso de inconformidad: para objetar los resultados de los cómputos distritales o municipales, por nulidad de las votaciones emitidas en una o varias casillas o para solicitar la nulidad de la votación general, que resolverá el Tribunal Electoral del Estado de Oaxaca en los términos de esta Ley;
 
 IV. Recurso de verificación para recurrir las certificaciones del Instituto, en términos del artículo 82 de la presente Ley.
 
@@ -860,3 +872,9 @@ P.O. 16 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1473.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno I (sic) del Estado de Oaxaca.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1398.- MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 35, LA FRACCIÓN IV DEL ARTÍCULO 77, LA FRACCIÓN II Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 82 Y LAS FRACCIONES II Y III DEL ARTÍCULO 83, DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
