@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2020-02-15"
+last_updated: "2020-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -601,7 +601,9 @@ d. Participar en la regulación, gestión, conservación, preservación y atenci
 
 e. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-V. Asuntos Indígenas y Migración; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE FEBRERO DE 2020)</small>
+
+V. Pueblos Indígenas y Afromexicano; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
 a. Redactar, analizar y generar iniciativas que tengan como objeto combatir cualquier práctica discriminatoria e impulsar el desarrollo integral y sustentable de los pueblos y comunidades indígenas y afromexicanas;
 
@@ -609,11 +611,11 @@ b. Impulsar mecanismos jurídicos de desarrollo de los pueblos y comunidades ind
 
 c. Fortalecer el marco jurídico que garantice la participación de los Pueblos y Comunidades Indígenas en la sociedad;
 
-d. Elaboración de iniciativas de reformas a las leyes tendientes a la creación de instituciones o programas de desarrollo económico y social en materia de migración, tendientes a mejorar el fenómeno de emigración en el Estado;
+d. (DEROGADO, P.O. 29 DE FEBRERO DE 2020)
 
-e. Vigilar y dictaminar todos los asuntos relativos a la procuración e impartición de justicia para los migrantes oaxaqueños, dentro y fuera del país;
+e. (DEROGADO, P.O. 29 DE FEBRERO DE 2020)
 
-f. Coadyuvar para que se respeten los derechos de todos los migrantes establecidos en la Constitución y demás leyes;
+f. (DEROGADO, P.O. 29 DE FEBRERO DE 2020)
 
 g. Coadyuvar, dentro del ámbito de su competencia, en la realización de las Consultas Indígenas, en coordinación con las instancias de gobierno correspondientes, y;
 
@@ -1002,6 +1004,20 @@ b. Vigilar y dictaminar los asuntos relativos a la procuración e impartición d
 c. Coadyuvar en la tutela de los derechos de todos los migrantes establecidos en la Constitución, convenios internacionales y demás leyes relativas;
 
 d. Las demás que le confiera este Reglamento, las leyes aplicables, los Acuerdos Parlamentarios y las que correspondan a su denominación.
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+XXXV. Vigilancia y Seguimiento del Sistema Estatal de Planeación le corresponde el dictamen y conocimiento de los siguientes asuntos:
+
+a) Revisar y propone (sic) modificaciones al marco jurídico del Sistema Estatal de Planeación.
+
+b) Generar mecanismos para la participación de los distintos sectores sociales en el análisis del Sistema de Planeación.
+
+c) Solicitar informes, para dar seguimiento a la ejecución del Sistema Estatal de Planeación, así como para poder evaluar su cumplimiento.
+
+d) Dar seguimiento a la ejecución del Sistema Estatal de Planeación, para que el Congreso del Estado cuente con información suficiente para emitir sus valoraciones en materias de aprobación de: las cuentas públicas, paquetes fiscales anuales, contratación de deuda pública, empréstitos y todo lo relacionado con el manejo y ejecución presupuestal.
+
+e) Solicitar información sobre los ingresos ordinarios, extraordinarios y todos aquellos de manejo presupuestado y libre disposición; así como de ejercicio discrecional, de los Poderes Ejecutivo y Judicial, Municipios u Órganos Autónomos, para medir su impacto en el Sistema Estatal de Planeación.
 
 ###### ARTÍCULO 43.
 
@@ -2738,3 +2754,23 @@ SEGUNDO. Publíquese en el Periódico Oficial del Estado de Oaxaca.
 TERCERO. Los asuntos que conocerá la Comisión Permanente de Migración y Asuntos Internacionales le serán turnados a partir de la entrada en vigor del presente Decreto.
 
 CUARTO. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1347.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXXII Y SE ADICIONA LA FRACCIÓN XXXV, AL ARTÍCULO 65 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONA LA FRACCIÓN XXXV AL ARTÍCULO 42 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del Congreso del Estado.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1348.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 65 FRACCIÓN V DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMA EL PRIMER PÁRRAFO Y SE DEROGA EL APARTADO D, E Y F DE LA FRACCIÓN V DEL ARTÍCULO 42 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del Congreso del Estado.
+
+SEGUNDO (SIC).- La integración de la Comisión Permanente de Pueblos Indígenas y Afromexicano será la misma que tenía la Comisión de Asuntos Indígenas y Migración, previo a la entrada en vigor del presente Decreto.
+
+TERCERO.- Los asuntos turnados y lo demás atinente a la Comisión Permanente de Asuntos Indígenas y Migración se entenderán como materia de la Comisión Permanente de Pueblos Indígenas y Afromexicano.
