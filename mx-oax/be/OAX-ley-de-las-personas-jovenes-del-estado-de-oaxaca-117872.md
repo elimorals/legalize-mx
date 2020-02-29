@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-las-personas-jovenes-del-estado-de-oaxaca-117872"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2018-02-16"
+last_updated: "2020-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE LAS PERSONAS JÓVENES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -189,7 +189,13 @@ X. Impulsar la cultura de la libre información en las personas jóvenes que sea
 
 XI. Promover entre las personas jóvenes por medio del sistema educativo estatal, el respeto y la preservación del medio ambiente aprovechando de manera racional los recursos naturales; y
 
-XII. Las demás que sean necesarias para el cumplimiento del objeto de esta Ley.
+(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE FEBRERO DE 2020]
+
+XII. Impulsar acciones que favorezcan las condiciones sociales y económicas de los jóvenes en su región a fin de evitar la migración; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE FEBRERO DE 2020)</small>
+
+XIII. Las demás que sean necesarias para el cumplimiento del objeto de esta Ley.
 
 El Titular del Poder Ejecutivo impulsará políticas públicas, con el financiamiento adecuado, para la capacitación de los jóvenes con alguna discapacidad a fin de que puedan incorporarse al empleo, así como también adoptará las medidas necesarias para generar las condiciones que permitan a las personas jóvenes capacitarse para acceder o crear opciones de empleo, y creará las políticas necesarias que fomenten el estímulo a las empresas para promover actividades de inserción y calificación de las personas jóvenes en el trabajo.
 
@@ -726,3 +732,11 @@ P.O. 16 DE FEBRERO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Dentro del plazo de seis meses contados a partir de la entrada en vigor del presente Decreto, las dependencias, instituciones, órganos autónomos y los ayuntamientos; deberán expedir los lineamientos que coadyuven a hacer efectivo lo estipulado en el presente Decreto.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1272.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LAS PERSONAS JÓVENES DEL ESTADO DE OAXACA”.]
+
+PRIMERO: Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación.
