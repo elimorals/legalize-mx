@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-para-el-desarrollo-integral-de-la-familia-74547
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-13"
-last_updated: "2019-11-23"
+last_updated: "2020-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 13 de marzo de 2010.
 
@@ -121,9 +121,17 @@ XVII.- Brindar capacitación en materia de asistencia social a los Sistemas DIF 
 
 XVIII.- Coordinar acciones en el ámbito de su competencia con el Ministerio Público y las autoridades judiciales en el caso de menores de doce años de edad, así como de adolescentes en conflicto con la ley penal en los términos de lo dispuesto por el Código Procesal Penal para el Estado de Oaxaca;
 
-XIX.- Elaborar y proponer reglamentos u otros ordenamientos legales en la materia, así como sus modificaciones, vigilando su estricto cumplimiento; y
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
-XX.- Las demás que establezcan las disposiciones aplicables en la materia.
+XIX.- Elaborar y proponer reglamentos u otros ordenamientos legales en la materia, así como sus modificaciones, vigilando su estricto cumplimiento.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE FEBRERO DE 2020)</small>
+
+XX.- Prestar servicios de orientación social a los hombres y mujeres de entre 55 a 60 años, con el fin de que conozcan los servicios de asistencia social a los que tendrán acceso al cumplir 60 años y más; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE FEBRERO DE 2020)</small>
+
+XXI.- Las demás que establezcan las disposiciones aplicables en la materia.
 
 ###### ARTÍCULO 5.
 
@@ -814,3 +822,9 @@ PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO: Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 TERCERO: Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1271.- MEDIANTE EL CUAL ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 1 Y LA FRACCIÓN VIII AL ARTÍCULO 8 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA; Y SE REFORMAN LAS FRACCIONES XIX Y XX DEL ARTÍCULO 4; Y SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 4 DE LA LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA”.]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca; remítase al Ejecutivo del Estado para su publicación.
