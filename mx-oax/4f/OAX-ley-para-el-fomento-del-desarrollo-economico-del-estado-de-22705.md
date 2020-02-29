@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-fomento-del-desarrollo-economico-del-estado-de-2270
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-06"
-last_updated: "2019-06-15"
+last_updated: "2020-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 6 de octubre del 2001.
 
@@ -47,7 +47,9 @@ LEY PARA EL FOMENTO DEL DESARROLLO ECONOMICO DEL ESTADO DE OAXACA.
 
 Esta ley es de interés público y de observancia general en el Estado de Oaxaca y tiene por objeto:
 
-I.- Fomentar, promover y fortalecer el desarrollo económico de la Entidad, a fin de impulsar su crecimiento equilibrado sobre bases de desarrollo sustentable y sostenible, en congruencia con los ordenamientos de ecología, protección al ambiente, desarrollo urbano y protección civil;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+I.- Impulsar el desarrollo económico integral de la Entidad, a través del incremento de la productividad considerando el uso razonable y eficiente de los recursos, procurando un crecimiento económico equilibrado sobre bases de desarrollo incluyente, sustentable y sostenible, en congruencia con los ordenamientos de ecología, protección al ambiente, desarrollo urbano y protección civil, para mejorar la calidad de vida y el bienestar de toda la población;
 
 II.- Estimular el desarrollo económico en las actividades identificadas como estratégicas para la economía local, en razón del beneficio concreto que a mediano y largo plazo recibirá Oaxaca;
 
@@ -504,3 +506,9 @@ P.O. 15 DE JUNIO DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1341.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 1° DE LA LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA”.]
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
