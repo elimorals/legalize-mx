@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-cultural-para-el-estado-de-oaxaca-76635"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-28"
-last_updated: "2019-04-20"
+last_updated: "2020-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 28 de Agosto de 2010.
 
@@ -205,13 +205,17 @@ XV. Otorgar reconocimientos y estímulos al mérito de los creadores artísticos
 
 XVI. Gestionar la recepción y la entrega de donaciones en dinero o en especie a favor del desarrollo cultural del Estado, de conformidad con las disposiciones normativas aplicables;
 
-XVII. Coordinar, organizar y supervisar el funcionamiento de la Coordinación de archivos bibliográficos y hemerográficos, la Coordinación Estatal de Culturas Populares, compañías estatales y talleres de diferentes disciplinas artísticas, museos y teatros así como las entidades de la Administración Pública Local en materia de cultura que para tal efecto le sean sectorizadas;
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
-XVIII. Establecer mecanismos de coordinación con los Ayuntamientos, para el funcionamiento de las Casas de Cultura, Casas del Pueblo, Bibliotecas y Hemerotecas Públicas;
+XVII. Establecer las políticas y lineamientos para el rescate y promoción de los deportes autóctonos y tradicionales en nuestro Estado;
 
-XIX. Impulsar la coordinación con los cronistas Municipales para sistematizar y recopilar la información acerca de la historia y tradiciones del Estado, llevando a cabo registros de temas culturales de trascendencia para la memoria cultural de Oaxaca; y
+XVIII. Coordinar, organizar y supervisar el funcionamiento de la Coordinación de archivos bibliográficos y hemerográficos, la Coordinación Estatal de Culturas Populares, compañías estatales y talleres de diferentes disciplinas artísticas, museos y teatros así como las entidades de la Administración Pública Local en materia de cultura que para tal efecto le sean sectorizadas;
 
-XX. Las demás que le confieran la presente ley y los demás ordenamientos aplicables.
+XIX. Establecer mecanismos de coordinación con los Ayuntamientos, para el funcionamiento de las Casas de Cultura, Casas del Pueblo, Bibliotecas y Hemerotecas Públicas;
+
+XX. Impulsar la coordinación con los cronistas Municipales para sistematizar y recopilar la información acerca de la historia y tradiciones del Estado, llevando a cabo registros de temas culturales de trascendencia para la memoria cultural de Oaxaca; y
+
+XXI. Las demás que le confieran la presente ley y los demás ordenamientos aplicables.
 
 ###### Artículo 7.
 
@@ -231,9 +235,9 @@ V. Las demás que le confieran la presente ley y los demás ordenamientos aplica
 
 Corresponde al Instituto Estatal de Educación Pública para el Estado de Oaxaca:
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
-I. Incorporar en los planes y programas de estudio en la estructura formal de la educación básica, el conocimiento de las artes, la diversidad cultural y las distintas expresiones de los pueblos y comunidades fomentando las culturas locales y regionales y respetando la autodeterminación indígena;
+I. Incorporar en los planes y programas de estudio en la estructura formal de la educación básica, el conocimiento de las artes, la práctica de los deportes autóctonos y juegos tradicionales de nuestro Estado, la diversidad cultural y las distintas expresiones de los pueblos y comunidades fomentando las culturas locales y regionales y respetando la autodeterminación indígena;
 
 II. Impulsar en conjunto con la Secretaría programas de fomento a la lectura y creación literaria;
 
@@ -249,7 +253,9 @@ Corresponde a los Ayuntamientos:
 
 I. Elaborar y ejecutar programas para el desarrollo de las expresiones culturales dentro de los territorios municipales;
 
-II. Preservar el patrimonio cultural, así como fomentar e impulsar las manifestaciones y actividades artísticas y culturales propias del municipio, sus ferias, tradiciones, realizando un registro y catalogación de los mismos;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+II. Preservar el patrimonio cultural, así como fomentar e impulsar las manifestaciones y actividades artísticas y culturales, así como los deportes autóctonos y tradicionales propias (sic) de los municipios, sus ferias, tradiciones, realizando un registro y catalogación de los mismos;
 
 III. Establecer mecanismos de coordinación con la Secretaría para el funcionamiento de las Casas de Cultura, Casas del Pueblo, Bibliotecas y Hemerotecas Públicas, para que éstas coadyuven al desarrollo de la promoción, difusión y estimulación de la creación y formación artística y la investigación cultural en los municipios;
 
@@ -914,3 +920,11 @@ P.O. 20 DE ABRIL DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Quedan derogadas las disposiciones legales de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1198.- MEDIANTE EL CUAL REFORMAN LA FRACCIÓN I DEL ARTÍCULO 8, Y LA FRACCIÓN II DEL ARTÍCULO 9; SE ADICIONA UNA FRACCIÓN XVII DEL ARTÍCULO 6 RECORRIÉNDOSE LA SUBSECUENTE, TODAS DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado.
