@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-planeacion-desarrollo-administrativo-y-servicios-80608"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-02"
-last_updated: "2019-09-28"
+last_updated: "2020-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PLANEACIÓN, DESARROLLO ADMINISTRATIVO Y SERVICIOS PÚBLICOS MUNICIPALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 2 de abril de 2011.
 
@@ -75,9 +75,11 @@ Cuando los servicios públicos municipales sean prestados directamente por el Ay
 
 ### CAPÍTULO II. DE LAS ENTIDADES PARAMUNICIPALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2020)</small>
+
 ###### ARTÍCULO 7.
 
-El Ayuntamiento podrá crear, modificar, fusionar, rescindir, transformar o extinguir las entidades paramunicipales necesarias para el correcto desempeño de sus atribuciones, conforme a lo establecido por la Ley Orgánica Municipal. Para tal caso el instrumento de creación de organismos descentralizados, contendrá lo siguiente:
+El Ayuntamiento podrá crear, modificar, fusionar, rescindir, transformar, o extinguir las entidades paramunicipales necesarias para el correcto desempeño de sus atribuciones, conforme a lo establecido por la Ley Orgánica Municipal del Estado de Oaxaca. Para tal caso el instrumento de creación de organismos descentralizados contendrá lo siguiente:
 
 I.- Denominación del organismo;
 
@@ -786,3 +788,9 @@ P.O. 28 DE SEPTIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 773.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN, DESARROLLO ADMINISTRATIVO Y SERVICIOS PÚBLICOS MUNICIPALES”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1202.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN, DESARROLLO ADMINISTRATIVO Y SERVICIOS PÚBLICOS MUNICIPALES DEL ESTADO DE OAXACA”.]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
