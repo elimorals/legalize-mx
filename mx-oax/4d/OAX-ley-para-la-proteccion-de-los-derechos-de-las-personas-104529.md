@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-los-derechos-de-las-personas-104529"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2019-11-23"
+last_updated: "2020-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de diciembre de 2014.
 
@@ -52,6 +52,10 @@ La presente Ley, es de orden público e interés social y de observancia general
 Tiene por objeto reconocer, proteger y garantizar los derechos de los hombres y mujeres mayores de sesenta años de edad, sin distinción alguna y en un marco de equidad, para su plena integración al desarrollo social, económico, político y cultural del Estado.
 
 Como objetivos específicos tiene establecer los principios inexcusables, sentar las bases, referir los mecanismos y las políticas públicas para la interpretación administrativa, efectiva ejecución y consecución sustantiva del objeto materia de esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+Además, será prioritario para el Gobierno del Estado diseñar e implementar en coordinación con los municipios, programas de prevención e información dirigidos a las personas que se encuentren próximas a alcanzar la edad de sesenta años, para su plena integración al desarrollo social, económico, político y cultural en el Estado.
 
 ###### Artículo 2.
 
@@ -196,6 +200,10 @@ VI. Protección integral: entendiéndose por ella, la obligatoriedad de la obser
 Para la protección integral deberán coordinarse y complementarse entre sí, las políticas, planes, programas y acciones que ejecuten los tres niveles de gobierno, al tiempo que se deberá planificar y sistematizar la aplicación óptima de los recursos financieros, materiales y humanos, que en el ámbito de sus respectivas competencias, asigne cada uno.
 
 VII. No discriminación: Debiéndose estar a lo dispuesto por el artículo 1°, párrafo quinto de la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los cuales México sea parte y las leyes federales y locales tendientes a prevenir y erradicar la discriminación negativa.
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+VIII. El Pro Persona.
 
 ### CAPÍTULO III. DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
@@ -776,3 +784,9 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO: Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1271.- MEDIANTE EL CUAL ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 1 Y LA FRACCIÓN VIII AL ARTÍCULO 8 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA; Y SE REFORMAN LAS FRACCIONES XIX Y XX DEL ARTÍCULO 4; Y SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 4 DE LA LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA”.]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca; remítase al Ejecutivo del Estado para su publicación.
