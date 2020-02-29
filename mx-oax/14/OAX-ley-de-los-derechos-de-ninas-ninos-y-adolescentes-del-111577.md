@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2019-11-23"
+last_updated: "2020-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -215,7 +215,9 @@ En la aplicación de la presente Ley se tomarán en cuenta las condiciones parti
 
 Se respetarán los usos, costumbres y prácticas culturales, siempre y cuando no vulneren o restrinjan los derechos de las niñas, niños y adolescentes.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, por determinación judicial que ordene la privación de la libertad de madres, padres, tutores o personas que ejerzan su guarda y custodia, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
 
 ###### Artículo 10.
 
@@ -1022,6 +1024,10 @@ VI. Mantener los vínculos con sus familias y la comunidad a modo de evitar su m
 Son derechos de niñas, niños y adolescentes con madre y/o padre privados de la libertad, desde el momento de la detención, recibir del Estado de manera prioritaria e inmediata protección y asistencia integral.
 
 Para tales efectos, las corporaciones policiales que ejecuten órdenes de aprehensión o detención deberán de aplicar los protocolos correspondientes a niñas, niños o adolescentes para hijas o hijos de detenidos, hasta en tanto se resuelva su situación jurídica de la madre o el padre.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+La Ley reconoce el disfrute de los derechos en igualdad de condiciones de niñas, niños y adolescentes con madres, padres, tutores o personas que tengan guarda y custodia, que se encuentren privados de la libertad. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán garantizar el ejercicio, respeto, protección y promoción de sus derechos; así como prever las acciones, programas y mecanismos que les permitan un crecimiento y desarrollo pleno, en concordancia con el principio de interés superior de la niñez y de igualdad sustantiva.
 
 El Reglamento de esta Ley establecerá el procedimiento a seguir para determinar quién ejercerá la guardia y custodia de las niñas, niños o adolescentes.
 
@@ -1854,3 +1860,9 @@ PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO: Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 TERCERO: El Gobernador del Estado de Oaxaca, deberá prever lo necesario para el cumplimiento de las disposiciones contenidas en el presente Decreto, en el Presupuesto de Egresos del Estado que deberá presentar a más tardar el 17 de noviembre de 2019.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1270.- MEDIANTE EL CUAL REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 9; SE ADICIONA EL TERCER PÁRRAFO, RECORRIENDO EL SUBSECUENTE, AL ARTÍCULO 83 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
