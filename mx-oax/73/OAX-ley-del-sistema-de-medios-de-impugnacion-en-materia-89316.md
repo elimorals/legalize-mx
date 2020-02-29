@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-de-medios-de-impugnacion-en-materia-89316"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-17"
-last_updated: "2019-11-23"
+last_updated: "2020-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 17 de agosto de 2012.
 
@@ -243,7 +243,9 @@ d) El ciudadano agraviado fallezca o sea suspendido o privado del goce de sus de
 
 e) Cuando de las constancias de autos apareciere claramente demostrado que no existe el acto reclamado.
 
-Cuando hayan cesado los efectos del acto reclamado o cuando hayan ocurrido causas notorias de sobreseimiento, el recurrente y la autoridad o autoridades responsables estén obligados a manifestarlo así, y si no cumplen esa obligación, se les impondrá una multa de diez a ciento ochenta días de salario, según las circunstancias del caso.
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+Cuando hayan cesado los efectos del acto reclamado o cuando hayan ocurrido causas notorias de sobreseimiento, el recurrente y la autoridad o autoridades responsables estén obligados a manifestarlo así, y si no cumplen esa obligación, se les impondrá una multa de diez a ciento ochenta veces el valor diario de la Unidad de Medida y Actualización vigente, según las circunstancias del caso.
 
 ### CAPÍTULO V. De las Partes
 
@@ -637,7 +639,9 @@ Para hacer cumplir las disposiciones del presente ordenamiento y las resolucione
 
 a) Amonestación;
 
-b) Multa de cien hasta cinco mil días de salario mínimo diario general vigente en la zona económica correspondiente al Estado. En caso de reincidencia, se podrá aplicar hasta el doble de la cantidad señalada;
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+b) Multa de cien hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente. En caso de reincidencia, se podrá aplicar hasta el doble de la cantidad señalada;
 
 c) Auxilio de la fuerza pública; y
 
@@ -1782,3 +1786,9 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 PRIMERO: Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1399.- MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 11, Y EL INCISO B) DEL ARTÍCULO 37 DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
