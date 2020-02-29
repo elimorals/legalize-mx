@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2020-02-15"
+last_updated: "2020-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "OAX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE MARZO DE 2020 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -59,13 +61,25 @@ El ejercicio del Poder Ejecutivo, se deposita en un solo individuo que se denomi
 
 En el ejercicio de sus atribuciones y para el despacho de los asuntos del orden administrativo, el Poder Ejecutivo del Estado, contará con la Administración Pública Estatal, que se regirá por la presente Ley y las demás disposiciones legales aplicables, y se organizará conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
-I. Administración Pública Centralizada: Integrada por la Gubernatura, Secretarías de Despacho, Procuraduría General de Justicia del Estado, Consejería Jurídica del Gobierno del Estado y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, así como, por los Órganos Auxiliares, las unidades administrativas que dependan directamente del Gobernador del Estado y los Órganos Desconcentrados, a todas estas áreas administrativas se les denominará genéricamente como Dependencias;
+I. Administración Pública Centralizada: Integrada por la Gubernatura, Secretarías de Despacho, Consejería Jurídica del Gobierno del Estado y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, así como, por los órganos auxiliares, las unidades administrativas que dependen directamente del Gobernador del Estado y los órganos desconcentrados, a todas estas áreas administrativas se les denominará genéricamente como Dependencias;
 
 II. La Administración Pública Paraestatal: Integrada por Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos, así como, por las Entidades Auxiliares del Ejecutivo Estatal, integrándose éstas por los Consejos, Comisiones, Comités, Juntas, Patronatos y aquellas instituciones que por su naturaleza no estén comprendidas dentro de la Administración Pública Centralizada, a las que genéricamente se les denominará como Entidades, estarán reguladas por sus leyes, decretos de creación y reglamentos respectivos; y
 
 III. Los Órganos Auxiliares realizan una función diferenciada, específica y de responsabilidad directa; como Unidades Responsables, les son aplicables los sistemas de organización, comunicación, coordinación, planeación, programación, control y evaluación de actividades contemplados en esta Ley Orgánica y en específico, los reglamentos, lineamientos y demás normatividad que expidan las instancias normativas, y la que por la naturaleza de sus actividades y materia de su competencia, les sea impuesta por los diversos ordenamientos normativos.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+En el ejercicio de sus funciones el Poder Ejecutivo implementará el principio de gobierno abierto orientado en los principios de transparencia de la información, rendición de cuentas, evaluación, de la gestión gubernamental, participación ciudadana y uso de tecnologías de la información.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+Los servidores públicos de la administración pública estatal promoverán la participación e inclusión de la población en la toma de decisiones relacionadas con el servicio público.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+El Titular del Poder Ejecutivo impulsará a través de lineamientos de gobierno abierto la implementación de prácticas de transparencia, participación ciudadana y de evaluación de la gestión gubernamental para alcanzar los principios contemplados en el presente artículo.
 
 > <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
 
@@ -301,7 +315,9 @@ VII. Secretaría de Movilidad;
 
 VIII. Secretaría de las Culturas y Artes de Oaxaca;
 
-IX. Secretaría de Desarrollo Social y Humano;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+IX. Secretaría de Bienestar del Estado de Oaxaca;
 
 > <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
 
@@ -393,9 +409,7 @@ III. Coordinación para la Atención de los Derechos Humanos;
 
 IV. Coordinación General de Educación Media Superior y Superior; Ciencia y Tecnología, y
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-V. Coordinación General de Enlace Federal y Relaciones Internacionales.
+V. (DEROGADA, P.O. 29 DE FEBRERO DE 2020)
 
 VI. (DEROGADA, P.O. 17 DE FEBRERO DE 2018)
 
@@ -657,9 +671,9 @@ XX. Las demás que en el ámbito de su competencia le confiera directamente el G
 
 A la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE FEBRERO DE 2020)</small>
 
-I. Formular en colaboración con la Secretaría de Desarrollo Social y Humano la instrumentación y coordinación de las políticas públicas del sector de la infraestructura social y ejecutar por sí o por conducto de terceros las obras públicas y servicios relacionados con:
+I. Formular en colaboración con la Secretaría de Bienestar del Estado de Oaxaca la instrumentación y coordinación de las políticas públicas del sector de la infraestructura social y ejecutar por sí o por conducto de terceros las obras públicas y servicios relacionados con:
 
 a) Infraestructura Social: Entendiéndose por ésta, las edificaciones e instalaciones para ofrecer servicios de salud, educación, patrimonio edificado, vivienda e infraestructura urbana;
 
@@ -891,109 +905,85 @@ XXV. Garantizar a los pueblos indígenas el derecho de conservar, enriquecer y d
 
 XXVI. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2020)</small>
 
 ###### ARTÍCULO 42.
 
-A la Secretaría de Desarrollo Social y Humano le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Bienestar del Estado de Oaxaca, le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+I. Fortalecer el bienestar, el desarrollo, la inclusión y la cohesión social en el Estado mediante la instrumentación, coordinación, supervisión y seguimiento, en términos de la Ley y con los organismos respectivos, de las políticas siguientes:
 
-I. Establecer las estrategias, planes y objetivos de carácter transversal para el desarrollo social y humano en el estado, así como proponer el marco jurídico que regula la participación estatal en los programas sociales de combate a la pobreza;
+a).- Erradicación de la pobreza
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+b).- Atención preponderante en materia de desarrollo social a los derechos de niñas, niños y adolescentes, adultos mayores, pueblos indígenas y afromexicano, y personas con discapacidad;
 
-II. Elaborar y proponer al Ejecutivo del Estado el Programa Estatal de Desarrollo Social y Humano, con el objeto de establecer la estrategia estatal de carácter transversal y multidimensional para el desarrollo social y humano en el estado, así como el combate a la pobreza.
+II. Establecer las estrategias, planes y objetivos de carácter transversal y sostenible que incidan en la erradicación de la pobreza, el bienestar de la población y el desarrollo humano, así como proponer el marco jurídico que regula participación estatal en los programas sociales del Estado;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+III. Elaborar y proponer al Ejecutivo del Estado el programa estatal en materia de desarrollo social, con el objeto de establecer la estrategia estatal de carácter transversal y sostenible para fortalecer el bienestar, el desarrollo, la inclusión y la cohesión social en el Estado;
 
-III. Llevar a cabo la evaluación y el seguimiento de las políticas, estrategias, programas y planes de desarrollo social y humano, así como de combate a la pobreza que se implementen en el estado, a través del establecimiento de indicadores de desempeño.
+IV. Promover el seguimiento y la evaluación de las políticas, estrategias, programas y planes en materia de desarrollo social, que incidan en la erradicación a la pobreza, el bienestar de la población y el desarrollo humano, a través del organismo responsable del monitoreo y evaluación de la política gubernamental social;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+V. Identificar y gestionar los programas de desarrollo social y humano, así como de erradicación de la pobreza, ante organizaciones de la sociedad civil, organismos gubernamentales nacionales e internaciones (sic);
 
-IV. Identificar los programas de desarrollo social y humano, así como de combate a la pobreza de organizaciones nacionales e internacionales gubernamentales y no gubernamentales, organizaciones de la sociedad civil y gestionar a través de las instancias correspondientes y la unidad administrativa respectiva, el seguimiento de aquellos que se puedan implementar en el Estado;
+VI. Diseñar e implementar las políticas, proyectos y acciones, de carácter transversal y sostenible que deriven del Plan Estatal de Desarrollo o del Programa Estatal en materia de desarrollo social, propiciando la colaboración entre los tres niveles de gobierno y el sector social y privado;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+VII. Definir estrategias y mecanismos para la ejecución de los programas, proyectos y acciones para el bienestar, desarrollo, inclusión y cohesión social en el Estado; suscribiendo los convenios, acuerdos e instrumentos legales que resulten necesarios;
 
-V. Diseñar, implementar y ejecutar las políticas, acciones y proyectos de carácter transversal y multidimensional en colaboración con otras dependencias que se deriven del Plan Estatal de Desarrollo y del Programa Estatal de Desarrollo Social y Humano, propiciando la colaboración de los sectores social y privado, así como, la participación de los tres órdenes de gobierno;
+VIII. Diseñar, implementar y coordinar las dependencias federales, estatales y los ayuntamientos, programas y acciones sostenibles que incidan en el abatimiento de los niveles de pobreza y fomenten un mejor nivel de bienestar de la población, procurando que atiendan a los ejes de las políticas gubernamentales y los objetivos establecidos en los Planes Nacional y Estatal de Desarrollo, así como, a los lineamientos y reglas de operación que se establezcan para cada uno de ellos;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+IX. Formular y ejecutar los programas y proyectos de fortalecimiento de la economía familiar y comunitaria de los grupos de atención prioritaria; con la finalidad de lograr su bienestar;
 
-VI. Definir estrategias y mecanismos de coordinación, colaboración e inducción y gestión para la ejecución de los programas, proyectos e iniciativas, para el desarrollo social y humano; así como, suscribir los convenios y acuerdos que resulten necesarios;
+X. Emitir las reglas de operación de los programas de desarrollo social y verificar su difusión;
 
-VII. Diseñar, implementar y coordinar con las dependencias federales, estatales y los ayuntamientos, las acciones y los programas que incidan en el abatimiento de los niveles de pobreza y fomenten un mejor nivel de vida de la población, procurando que atiendan a los ejes de las políticas públicas y los objetivos establecidos en los Planes Nacional y Estatal de Desarrollo, así como, a los lineamientos y reglas de operación que se establezcan para cada uno de ellos;
+XI. Fomentar la participación de las instituciones académicas, de investigación y organizaciones de la sociedad civil, en el diseño e implementación de estrategias para erradicar la pobreza e impulsar el bienestar social de la población;
 
-VIII. Formular y ejecutar los programas y proyectos de fortalecimiento para mejorar la economía familiar y comunitaria, así como, aquellos especiales para los sectores más desprotegidos, con la finalidad de lograr el bienestar de las familias y elevar el nivel de vida de la población;
+XII. Coordinar con las autoridades e instituciones educativas el servicio social para que se constituya como coadyuvante del desarrollo y bienestar social en el Estado;
 
-IX. Formular las reglas de operación de los programas a su cargo y verificar su difusión, así como, capacitar y asesorar a los operadores y ejecutores;
+XIII. Impulsar programas de desarrollo local, de carácter integral y sostenible, que sean propuestos por las organizaciones de la sociedad civil en materia de bienestar y desarrollo social;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+XIV. Promover y coordinar a través del Organismo Descentralizado respectivo, el diseño y ejecución de los programas de vivienda en el Estado;
 
-X. Fomentar la participación de las instituciones académicas de investigación, organizaciones no gubernamentales y de la sociedad civil, en el desarrollo e implementación de estrategias para superar rezagos e impulsar el bienestar social de la población; así como, prestar asesoría y apoyo técnico en la materia, a los municipios y sociedad civil en general;
+XV. Proporcionar asesoría y apoyo técnico a municipios y organizaciones de la sociedad civil, para la elaboración y ejecución de los programas y proyectos de bienestar y desarrollo social;
 
-XI. Coordinar con las universidades e instituciones de educación media y superior, y demás autoridades competentes, el servicio social para que se constituya como detonador del desarrollo social en el Estado;
+XVI. Promover en coordinación con la Secretaría correspondiente, la planeación participativa de la política gubernamental social en el diseño y ejecución de estrategias, planes y programas para el pleno ejercicio de los derechos de los pueblos indígenas y afromexicano, y de toda la población en general;
 
-XII. Impulsar los programas de desarrollo regional, de carácter integral que sean propuestos por las organizaciones de la sociedad civil, que garanticen sustentabilidad y generen condiciones de vida digna para la población;
+XVII. Facilitar y difundir los programas y servicios de gobierno en los municipios del Estado con especial atención a comunidades con mayores niveles de rezago o pobreza, excepcionalmente fuera del territorio del Estado en donde se encuentre población oaxaqueña;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+XVIII. Impulsar el trabajo comunitario para el bienestar colectivo, a fin de dar cauce a la participación social en la identificación, formulación, ejecución y seguimiento de los proyectos en las localidades y municipios;
 
-XIII. Promover y coordinar a través del Organismo Descentralizado respectivo, la creación e instrumentación de los programas de vivienda en el Estado.
+XIX. Promover la participación social organizada en el seguimiento y evaluación para el fortalecimiento de las políticas públicas y los programas de bienestar y desarrollo social;
 
-XIV. Proporcionar asesoría y apoyo técnico a municipios y sociedad civil, para la elaboración y desarrollo de los programas y proyectos de desarrollo social y humano;
+XX. Promover, formular e implementar programas sociales de carácter transversal y sostenible, en coordinación con las dependencias y entidades del Estado vinculadas al fomento del bienestar y desarrollo social;
 
-XV. Promover la participación de los diferentes actores y sectores, con presencia en el ámbito territorial, especialmente de los pueblos y comunidades indígenas, en la elaboración y aplicación de los planes y programas de desarrollo, mediante la integración de comités comunitarios de desarrollo social sustentable;
+XXI. Formular programas y proyectos de financiamiento para apoyar las iniciativas de las organizaciones de la sociedad civil, personas y grupos de trabajo, que promuevan su bienestar social;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+XXII. Participar en el diseño de políticas y programas que promuevan las instancias ejecutoras facultadas en materia alimentaria;
 
-XVI. Facilitar y difundir los programas y servicios de gobierno en el ámbito territorial y excepcionalmente fuera del territorio del Estado con especial atención a los municipios y comunidades con mayores niveles de marginación;
+XXIII. Fomentar políticas públicas orientadas a la distribución y abasto de productos de consumo básico, en beneficio de la población de escasos recurso;
 
-XVII. Impulsar el trabajo comunitario en el desarrollo social y humano, a fin de dar cauce a la participación social en la identificación, formulación, ejecución y seguimiento de los proyectos que se ejecuten en las regiones;
+XXIV. Coordinar la difusión de programas y acciones para el bienestar y el desarrollo social;
 
-XVIII. Promover la participación ciudadana organizada en la evaluación y fortalecimiento de las políticas públicas y los programas de desarrollo social;
+XXV. Promover los servicios gratuitos de atención itinerante en materia de desarrollo social a través del Organismo Descentralizado creado para tal fin;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+XXVI. Colaborar con la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable, así como con los Órganos de la Administración Pública Estatal respectivos, en la instrumentación y coordinación de las políticas públicas de los programas de infraestructura social básica y de espacios públicos, vivienda, servicios de salud, alimentación y educación necesarios para fortalecer el bienestar, la inclusión, la cohesión y desarrollo social en el Estado;
 
-XIX. Formular, promover e implementar programas sociales de carácter transversal y multidimensional, en coordinación con las Dependencias y Entidades vinculadas a la política de desarrollo social y humano.
+XXVII. Proveer información en materia de desarrollo social que coadyuve en la integración de la agenda de gobierno y evaluación de las políticas públicas;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+XXVIII. Coordinar y ejecutar los programas y acciones de atención al sector de ahorro y crédito popular, y Ex Trabajadores Migratorios Mexicanos, en el marco de la legislación aplicable, en coadyuvancia con las instancias federales correspondientes;
 
-XX. Formular programas y proyectos de financiamiento para apoyar las iniciativas de la sociedad civil en materia de desarrollo social y humano y combate a la pobreza;
+XXIX. Difundir la normatividad correspondiente a los programas y acciones de ahorro y crédito;
 
-XXI. Establecer e instrumentar políticas y programas de apoyo, suministro y orientación en materia alimentaria;
+XXX. Diseñar, implementar y ejecutar en coordinación con dependencias federales, estatales y ayuntamientos, programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los pobladores de las zonas áridas de las áreas rurales, así como de los colonos y marginados de las áreas urbanas, con el fin de elevar el nivel de vida de la población;
 
-XXII. Coordinar y operar los programas de distribución y abasto de productos de consumo básico, en beneficio de la población de escasos recursos;
+XXXI. Participar en la coordinación e instrumentación de las políticas de desarrollo rural para elevar el nivel de bienestar de las familias, comunidades y ejidos;
 
-XXIII. Coordinar los servicios públicos de información, difusión y orientación de programas para el desarrollo social y humano;
+XXXII. Coadyuvar en el diseño e implementación de las políticas públicas orientadas a fomentar la agroforestería, la productividad, la economía social y el empleo en el ámbito rural y evitar la migración de las áreas rurales;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+XXXIII. Impulsar programas para promover la corresponsabilidad de manera equitativa entre las familias, el Estado y las instituciones de asistencia social y privada, para el cuidado de la niñez y de los grupos de atención prioritaria;
 
-XXIV. Coordinar e instrumentar la operación de las unidades y caravanas móviles de servicios, de conformidad con lo establecido por la política de desarrollo social y humano del Estado.
+XXXIV. Coadyuvar en las tareas que sean asignadas a los responsables de los programas federales en el Estado de Oaxaca, en materia de desarrollo social y;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XXV. Llevar a cabo la planeación e instrumentación de los programas de vivienda para el desarrollo social y humano en coordinación con el Organismo Descentralizado respectivo.
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XXVI. Instrumentar y coordinar en colaboración con la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable, así como los Organismos de la Administración Pública Estatal respectivos, los programas de infraestructura social básica, vivienda, servicios de salud y educación necesarios para impulsar el desarrollo social y humano del Estado, así como el combate de la pobreza en regiones con mayor desigualdad.
-
-XXVII. (DEROGADA, P.O. 17 DE FEBRERO DE 2018)
-
-XXVIII. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2013)
-
-XXIX. Ser una fuente de información y análisis para coadyuvar en la integración de la agenda de gobierno y evaluación de las políticas públicas;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXX. Coordinar y ejecutar las acciones y programas de atención al sector de ahorro y crédito popular, y ex braceros, en el marco de la legislación aplicable, en coadyuvancia con las instancias federales correspondientes;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXXI. Difundir la normatividad correspondiente a los programas y acciones de ahorro y crédito, y
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXXII. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
+XXXV. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su reglamento interno y demás disposiciones normativas aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2019)</small>
 
@@ -1725,9 +1715,9 @@ XIII. Impulsar el desarrollo económico de las mujeres mediante la gestión e im
 
 XIV. Proponer convenios con instituciones financieras y de crédito, públicas y privadas, para establecer condiciones que promuevan el desarrollo económico y social de las mujeres; que permitan lograr su autonomía, autodeterminación y empoderamiento para un mejor posicionamiento social y una mayor capacidad de toma de decisiones;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
-XV. Diseñar programas que promuevan el desarrollo económico de las mujeres jefas de familia, estableciendo como prioridad aquellas que se encuentran en condiciones de vulnerabilidad, encaminadas para su ejecución, ante la Secretaría de desarrollo social y humano, aquellos programas y proyectos estatales, federales e internacionales que promuevan la incorporación de las mujeres de Oaxaca en el bienestar social y a la actividad productiva;
+XV. Diseñar programas que promuevan el desarrollo económico de las mujeres jefas de familia, estableciendo como prioridad aquellas que se encuentran en condiciones de vulnerabilidad, encaminadas para su ejecución, ante la Secretaría de Bienestar del Estado de Oaxaca aquellos programas y proyectos estatales, federales e internacionales que promuevan la incorporación de las mujeres de Oaxaca en el bienestar social y a la actividad productiva;
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
@@ -1993,7 +1983,9 @@ XXV. Llevar el registro y control de los proveedores y contratistas que hayan si
 
 XXVI. Imponer la sanción económica y administrativa, procediendo a excluir del padrón correspondiente al prestador o proveedor de bienes y servicios y/o contratista de obra que no solvente dentro del término conferido las observaciones formuladas;
 
-XXVII. Formar parte del Comité de Transparencia y Acceso a la Información Pública del Poder Ejecutivo y formular conjuntamente con los integrantes del mismo, los lineamientos y criterios que en la materia deban ser aplicados por las Dependencias y Entidades de la Administración Pública Estatal y, como órgano de control interno en materia de transparencia, dar el debido cumplimiento a las recomendaciones que emita la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, sancionando en su caso a los órganos administrativos del Poder Ejecutivo del Gobierno del Estado, que por negligencia u omisión incumplan con las mismas;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+XXVII. Formular en el ámbito de su competencia los lineamientos, criterios, determinaciones y resoluciones necesarios que deban ser aplicados por la Administración Pública Estatal y como órgano interno de control en materia de transparencia, dar el debido cumplimiento a las recomendaciones que emita el Instituto de Acceso a la Información Pública y Protección de Datos Personales, sancionado (sic) en su caso a los órganos administrativos del Poder Ejecutivo del Gobierno del Estado, que por negligencia u omisión incumplan con las mismas;
 
 XXVIII. Vigilar que las Dependencias y Entidades, cumplan para la celebración de sus contratos con lo dispuesto en la Ley de Obras Públicas y Servicios Relacionados del Estado de Oaxaca, la Ley para Adquisiciones, Arrendamientos y Servicios del Estado de Oaxaca y demás leyes aplicables;
 
@@ -2099,11 +2091,11 @@ XXVII. Revisar y autorizar en el ámbito de su competencia, conjuntamente con la
 
 XXVIII. Ordenar, vigilar y coordinar el cumplimiento de las disposiciones en materia de exhortos judiciales, legislativos y administrativos dirigidos al titular del Poder Ejecutivo;
 
-XXIX. Fungir como Unidad de Enlace en materia de Transparencia de la Gubernatura y de la propia Consejería Jurídica; asimismo, ser el Secretario Técnico del Comité de Transparencia y Acceso a la Información Pública del Poder Ejecutivo del Estado, actuando como Sujeto Obligado, por lo que deberá emitir y supervisar, con apoyo de los integrantes de dicho Comité, la aplicación de criterios y lineamientos para las Dependencias y Entidades, en cumplimiento a las disposiciones aplicables en la materia;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+XXIX. Fungir como Unidad de Transparencia de la Gubernatura y de la propia Consejería Jurídica, para dar cumplimiento a las disposiciones aplicables en la materia;
 
-XXX. Coordinar y supervisar los subcomités de transparencia y acceso a la información pública y unidades de enlace que sean designados por las dependencias y entidades de conformidad con el Comité de Transparencia y Acceso a la Información Pública del Poder Ejecutivo del Estado; coadyuvando con la Secretaría de la Contraloría y Transparencia Gubernamental, quien deberá actuar como órgano de control interno, de conformidad con las disposiciones aplicables;
+XXX. (DEROGADA, P.O. 29 DE FEBRERO DE 2020)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
@@ -2467,69 +2459,9 @@ XVII. Expedir constancias, certificados de estudios, diplomas, títulos y grados
 
 XVIII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, la legislación federal y estatal, su Reglamento Interno y demás normatividad aplicable en la materia.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
-
 ###### ARTÍCULO 54.
 
-La Coordinación General de Enlace Federal y Relaciones Internacionales, estará a cargo de un Coordinador General, quien dependerá directamente del Ejecutivo Estatal.
-
-> <small>(F. DE E., P.O. 18 DE MARZO DE 2017)</small>
-
-A la Coordinación General de Enlace Federal y Relaciones Internacionales, le corresponde el despacho de los siguientes asuntos:
-
-I. Cumplir con las directrices en materia de política federal y con las Entidades Federativas que determine el Titular del Poder Ejecutivo;
-
-II. Establecer comunicación y coordinación con los Poderes de la Unión, con la colaboración de la Secretaría de Finanzas, así como con los órganos y organismos constitucionales autónomos federales y nacionales, así como con los Gobiernos de las Entidades Federativas para la atención y resolución de los asuntos de interés público;
-
-III. Facilitar y promover la gestión de fondos federales e internacionales e inversiones en sectores estratégicos para el crecimiento económico sostenible del Estado;
-
-IV. Coordinar las acciones, planes, programas que se realicen con autoridades federales y con otras Entidades Federativas con la participación de las dependencias y entidades de la Administración Pública Estatal;
-
-V. Gestionar los trámites para la implementación de los programas de carácter federal;
-
-VI. Representar al titular del Ejecutivo del Estado en los asuntos que el Gobernador determine;
-
-VII. Dar seguimiento a los acuerdos, convenios y programas que suscriba el Gobernador del Estado con los gobiernos federal y estatales con organismos nacionales e internacionales;
-
-VIII. Conducir las relaciones e imagen del Gobierno del Estado de Oaxaca en la Ciudad de México, representándolo oficialmente en todas sus gestiones que emprenda y suscribir los convenios, acuerdos y demás documentos en el que el Estado sea parte, previo acuerdo del Gobernador;
-
-IX. Iniciar las gestiones, enlaces, concertaciones y demás acciones que las dependencias, entidades, órganos desconcentrados y auxiliares que la Administración Pública estatal, deban realizar con sus homólogas e iniciativa privada domiciliadas en la Ciudad de México, sin afectar el ejercicio de sus atribuciones;
-
-X. Coordinar, coadyuvar y controlar las acciones que realicen en la Ciudad de México, en el ámbito de sus respectivas competencias, las dependencias, entidades, órganos desconcentrados y auxiliares de la Administración Pública estatal;
-
-XI. Atender en representación del Gobierno del Estado y en coordinación con la instancia que corresponda, los asuntos que le planteen los oaxaqueños radicados en la Ciudad de México;
-
-XII. Coadyuvar en la promoción comercial, turística, artesanal, agropecuaria y tecnológica del Estado en la Ciudad de México, coordinándose con las instancias estatales y federales que correspondan;
-
-XIII. Intervenir en lo relativo a foros, comisiones, congresos, conferencias, exposiciones y demás eventos que se realicen en la Ciudad de México y en los que deba participar el Gobierno del Estado;
-
-XIV. Proponer al Gobernador, los instrumentos jurídicos correspondientes para el cumplimiento de las atribuciones de la Coordinación General de Enlace Federal y Relaciones Internacionales;
-
-XV. Participar en la evaluación del cumplimiento de objetivos y metas de la administración;
-
-XVI. Coordinar la vinculación académica internacional y la firma de acuerdos nacionales, con la finalidad de profesionalizar el servicio público de la entidad;
-
-XVII. Proponer políticas, programas y acciones, así como, mecanismos de cooperación en materia internacional para su instrumentación en beneficio del Estado;
-
-XVIII. Diseñar e impulsar estrategias de vinculación internacional, propiciando el acercamiento del Poder Ejecutivo del Estado, con países extranjeros, organismos internacionales y gobiernos locales en un marco de relaciones e intercambios de interés mutuo;
-
-XIX. Promover y asesorar investigaciones y estudios en materia internacional, que contribuyan al diseño de propuestas para el Gobierno del Estado, en beneficio de su población;
-
-XX. Fungir como órgano de enlace y coordinación entre el Poder Ejecutivo y la Secretaría de Relaciones Exteriores, y otras dependencias y organismos federales en materia internacional;
-
-XXI. Asesorar a las Dependencias y Entidades de la Administración Pública Estatal, en materia de política exterior y concertación internacional;
-
-XXII. Proponer, organizar y desarrollar acciones y eventos que promuevan la visibilidad y posicionamiento del Estado, sus recursos y potencialidades, que faciliten el intercambio con países extranjeros en materia económica, comercial, turística, académica, cultural y demás temas de beneficio para la Entidad;
-
-XXIII. Participar en eventos de contenido internacional, en el interior de la República Mexicana o en el extranjero de los que puedan desprenderse o en los que se identifiquen beneficios para el Estado;
-
-XXIV. Apoyar en el Estado el programa mexicano de Ciudades Hermanas y Cooperación descentralizada, para la cual brindará la asesoría correspondiente a los municipios del Estado que participen en el programa;
-
-XXV. Contribuir con las instituciones competentes en el diseño de políticas públicas en materia de atención a transmigrantes y oaxaqueños en el exterior;
-
-XXVI. Promover y desarrollar acciones y programas a favor de los oaxaqueños en el exterior, coordinándose con otras dependencias y organismos competentes en la materia, y
-
-XXVII. Las demás que señalen las leyes, reglamentos y decretos, así como las que le encomiende el Gobernador del Estado.
+(DEROGADO, P.O. 29 DE FEBRERO DE 2020)
 
 ARTÍCULO 54 BIS. (DEROGADO, P.O. 17 DE FEBRERO DE 2018)
 
@@ -3346,3 +3278,25 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 CUARTO. En un término de 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán expedir los formatos y procedimientos a que hace referencia la fracción II del artículo 102 de la Ley Estatal de Planeación.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1189.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 3, LA FRACCIÓN IX DEL ARTÍCULO 27, LA FRACCIÓN I DEL ARTÍCULO 37, EL ARTÍCULO 42, FRACCIÓN XV DEL ARTÍCULO 46-C, LA FRACCIÓN XXVII DEL ARTÍCULO 47, LA FRACCIÓN XXIX DEL ARTÍCULO 49; SE ADICIONAN UN SEGUNDO, TERCER Y CUARTO PÁRRAFO DEL ARTÍCULO 3; SE DEROGAN LA FRACCIÓN V DEL ARTÍCULO 33, LA FRACCIÓN XXX DEL ARTÍCULO 49 Y EL ARTÍCULO 54, TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los derechos laborales de los trabajadores adscritos a la Coordinación General de Enlace Federal y Relaciones Internacionales que por este Decreto se derogan, serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás normatividad aplicable.
+
+TERCERO. Los recursos humanos, financieros y materiales etiquetados para la Coordinación General de Enlace Federal y Relaciones Internacionales, pasarán a las áreas administrativas que sean creadas por el Titular del Poder Ejecutivo, para atender las funciones y atribuciones que sus instrumentos de creación contengan.
+
+CUARTO. Se faculta a la Secretaría de Finanzas, a la Secretaría de Administración; y a la Secretaría de la Contraloría y Transparencia Gubernamental, en el ámbito de sus respectivas competencias, para llevar a cabo los actos y gestiones necesarias a efecto de que se materialice lo ordenado en el presente Decreto.
+
+QUINTO. Los asuntos en trámite que venía desarrollando la Secretaría de Desarrollo Social y Humano, se entenderán y se continuarán ante la Secretaría de Bienestar del Estado de Oaxaca, conforme a la normatividad vigente al momento de su inicio y en lo que no contravenga al presente Decreto.
+
+SEXTO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por la Secretaría de Desarrollo Social y Humano, que con motivo del presente decreto cambian de denominación se entenderán subrogadas y contraídas por sus correlativas.
+
+SÉPTIMO. Los servidores públicos adscritos a la Secretaría de Desarrollo Social y Humano, que con motivo del presente decreto cambian de denominación, pasarán sin afectar sus derechos laborales y de prestaciones sociales, a formar parte de la Secretaría de Bienestar del Estado de Oaxaca.
+
+OCTAVO. La Secretaría de Desarrollo Social y Humano, que con motivo de este Decreto, cambian (sic) de denominación, podrá continuar utilizando sus logotipos actuales y papelería oficial, hasta en tanto cuenten con la suficiencia presupuestal para actualizarlos a su nueva denominación.
+
+NOVENO. Se derogan las disposiciones de igual o menor jerarquía normativa, que se opongan al presente Decreto.
