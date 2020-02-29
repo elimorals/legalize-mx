@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-civil-y-gestion-integral-de-riesgos-de-105074
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-02"
-last_updated: "2017-10-31"
+last_updated: "2020-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de enero de 2015.
 
@@ -531,35 +531,43 @@ VI. Coordinar las instancias que integran el Sistema Estatal con los sistemas mu
 
 VII. Establecer mecanismos de vinculación entre los sistemas estatal y municipal de prevención de riesgos y protección civil;
 
-VIII. Fomentar la participación comprometida y corresponsable de todos los sectores de la sociedad en la formulación y ejecución de los programas destinados a satisfacer las necesidades en la identificación de riesgos y protección civil en el territorio estatal;
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
-IX. Convocar, coordinar y armonizar con pleno respeto a sus respectivas atribuciones a los Poderes Legislativo y Judicial así como a los municipios y a los diversos grupos sociales locales organizados, para la definición y ejecución de acciones que se convenga realizar en materia de prevención de riesgos y protección civil;
+VIII. Promover desde la niñez, una cultura de responsabilidad social dirigida a la protección civil con énfasis en la prevención y autoprotección respecto de los riesgos, peligros que representan los agentes perturbadores y su vulnerabilidad;
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+IX. Fomentar la participación comprometida y corresponsable de todos los sectores de la sociedad en la formulación y ejecución de los programas destinados a satisfacer las necesidades en la identificación de riesgos y protección civil en el territorio estatal;
 
-X. Promover el estudio, la investigación y la capacitación en materia de protección civil, identificando sus problemas y tendencias, y proponiendo las normas y programas que permitan su solución;
+> <small>(REFORMADA [N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN IX DE ESTE ARTÍCULO], P.O. 29 DE FEBRERO DE 2020)</small>
 
-XI. Promover el desarrollo y consolidación de una cultura de prevención de riesgos y protección civil;
+X. Fomentar la participación comprometida y corresponsable de todos los sectores de la sociedad en la formulación y ejecución de los programas destinados a satisfacer las necesidades en la identificación de riesgos y protección civil en el territorio estatal;
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
-
-XII. Crear grupos de trabajo para el apoyo de sus funciones;
+XI. Convocar, coordinar y armonizar con pleno respeto a sus respectivas atribuciones a los Poderes Legislativo y Judicial así como a los municipios y a los diversos grupos sociales locales organizados, para la definición y ejecución de acciones que se convenga realizar en materia de prevención de riesgos y protección civil;
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-XIII. Asesorar y apoyar a los municipios, en su caso, para la integración del Sistema Municipal de Protección Civil;
+XII. Promover el estudio, la investigación y la capacitación en materia de protección civil, identificando sus problemas y tendencias, y proponiendo las normas y programas que permitan su solución;
+
+XIII. Promover el desarrollo y consolidación de una cultura de prevención de riesgos y protección civil;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XII (SIC). Crear grupos de trabajo para el apoyo de sus funciones;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XIV (SIC). Asesorar y apoyar a los municipios, en su caso, para la integración del Sistema Municipal de Protección Civil;
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-XIV. Unificar criterios y acciones entre las dependencias y entidades de la Administración Pública Estatal que intervienen en regular, supervisar y evaluar las actividades de protección civil bajo el enfoque de la Gestión Integral de Riesgos;
+XV. Unificar criterios y acciones entre las dependencias y entidades de la Administración Pública Estatal que intervienen en regular, supervisar y evaluar las actividades de protección civil bajo el enfoque de la Gestión Integral de Riesgos;
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-XV. Constituirse en sesión permanente en el caso de presentarse un alto riesgo, siniestro o desastre, a fin de decidir las acciones que procedan; y
+XVI. Constituirse en sesión permanente en el caso de presentarse un alto riesgo, siniestro o desastre, a fin de decidir las acciones que procedan; y
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-XVI. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal.
+XVII. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal.
 
 ###### Artículo 26.
 
@@ -697,11 +705,75 @@ El oficio de designación estará dirigido al Presidente del Consejo Estatal. El
 
 El Presidente del Consejo Estatal en los casos que así considere, autorizará al Secretario Ejecutivo suplirlo en sus funciones y a su vez el Secretario Ejecutivo designará al Secretario Técnico para que este último lo sustituya en sus funciones.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE FEBRERO DE 2020)</small>
+
+### Capítulo III Bis. Del Consejo Consultivo Permanente de Protección Civil
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+###### Artículo 32 Bis.
+
+El Consejo Consultivo es el órgano de participación ciudadana y conformación plural, que tendrá por objeto analizar y proponer acciones que incidan en el cumplimiento del Programa Estatal.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+###### Artículo 32 Ter.
+
+El funcionamiento y operación del Consejo Consultivo del Consejo Estatal será conforme a esta Ley, el Reglamento y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+###### Artículo 32 Quáter.
+
+El Consejo Consultivo sesionará por lo menos cada seis meses y tomará sus acuerdos, recomendaciones y resoluciones por voto de mayoría. Podrá sesionar de manera extraordinaria cuando la situación así lo amerite según lo establezca el Reglamento.
+
+El Consejo Consultivo sesionará válidamente con la asistencia de la mayoría de sus miembros.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+###### Artículo 32 Quinquies.
+
+El Consejo Consultivo podrá asesorar en materia de Protección Civil a (sic) Consejo Estatal, para lo cual, el Secretario Ejecutivo establecerá los mecanismos adecuados de vinculación y respuesta entre los integrantes del Consejo Estatal.
+
+El Consejo Consultivo podrá asesorar al Consejo Estatal en los siguientes casos:
+
+I. Cuando se requiera la opinión experta sobre algún tema en particular;
+
+II. Cuando la urgencia, complejidad, novedad o gravedad de un problema requiera de la toma de decisiones gubernamentales inmediatas; y
+
+III. Cuando el asunto a resolver esté a debate y discusión en el
+
+(sic) medio académico.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+###### Artículo 32 Sexies.
+
+El Consejo Consultivo estará integrado por:
+
+I. Un Presidente, que será el Coordinador Estatal;
+
+II. Un Secretario Ejecutivo, que designará éste, y
+
+III. Seis consejeros, propuestos y elegidos en sesión ordinaria del Consejo Estatal, por el voto de las dos terceras partes de sus miembros presentes en la sesión; que deberán ser personas reconocidas por sus aportaciones en materia de Protección Civil, pudiendo ser representantes de Grupos Voluntarios, del ámbito académico, científico, profesional, del poder legislativo y/o de Derechos Humanos y Justicia.
+
+El Presidente del Consejo Consultivo será suplido en sus ausencias por el Secretario Ejecutivo. La participación de los Consejeros será con carácter honorario y podrá renovarse cada tres años.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+###### Artículo 32 Septies.
+
+El Consejo Consultivo podrá recibir la colaboración de otras dependencias y entidades de lan (sic) Administración Pública Estatal, y municipales, de organizaciones civiles y de particulares.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+###### Artículo 32 Octies.
+
+La Coordinación Estatal prestará al Consejo Consultivo la colaboración necesaria para el ejercicio de sus funciones.
+
 ### Capítulo IV. De la Coordinación Estatal de Protección Civil
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
-
-### Capítulo V. Los Sistemas y Consejos Municipales de Protección Civil
 
 ###### Artículo 33.
 
@@ -1051,7 +1123,7 @@ La Coordinación Estatal, brindará los servicios de asesoría, capacitación y 
 
 El Coordinador Estatal expedirá los documentos con validez oficial que correspondan cuando se acrediten los conocimientos adquiridos en los temas impartidos por la Coordinación Estatal, los cuales tendrán una vigencia de un año, a partir de la fecha de su expedición.
 
-### CAPÍTULO I. DE LOS INSTRUMENTOS, ATLAS DE RIESGOS ESTATAL Y MUNICIPALES Y PROGRAMAS DE PROTECCIÓN CIVIL
+### Capítulo V. Los Sistemas y Consejos Municipales de Protección Civil
 
 ###### Artículo 38.
 
@@ -1319,9 +1391,7 @@ Es responsabilidad de cada Consejo Municipal coordinar en una primera instancia,
 
 DE LOS INSTRUMENTOS, ATLAS DE RIESGOS ESTATAL Y MUNICIPALES, PROGRAMAS Y CULTURA DE PROTECCIÓN CIVIL Y PREVENCIÓN DE RIESGOS DE DESASTRES.
 
-### Capítulo II. Cultura de Protección Civil y Prevención de Riesgos de Desastres
-
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+### CAPÍTULO I. DE LOS INSTRUMENTOS, ATLAS DE RIESGOS ESTATAL Y MUNICIPALES Y PROGRAMAS DE PROTECCIÓN CIVIL
 
 ###### Artículo 55.
 
@@ -1511,7 +1581,9 @@ El registro a que se refieren los párrafos anteriores, será obligatorio y perm
 
 En el Reglamento de la presente ley se establecerá el trámite y requisitos para la obtención del registro y para la expedición de la carta de corresponsabilidad.
 
-### CAPÍTULO I. DE LA PROFESIONALIZACIÓN DE LA PROTECCIÓN CIVIL Y PREVENCIÓN DE RIESGOS DE DESASTRES, CAPACITACIÓN, AUTORIZACIÓN, ACREDITACIÓN Y CERTIFICACIÓN
+### Capítulo II. Cultura de Protección Civil y Prevención de Riesgos de Desastres
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 79.
 
@@ -1533,11 +1605,11 @@ V. Disponer un espacio informativo previo a la celebración de eventos deportivo
 
 VI. Impulsar la coordinación de los diferentes sectores de la población la cultura de prevención de riesgos de desastres y la autoprotección, con un enfoque de equidad de género e interculturalidad, priorizando los grupos en situación de vulnerabilidad.
 
-### CAPÍTULO II. DE LA PARTICIPACIÓN CIUDADANA, GRUPOS VOLUNTARIOS Y REGISTRO ESTATAL DE ORGANIZACIONES CIVILES
+### CAPÍTULO I. DE LA PROFESIONALIZACIÓN DE LA PROTECCIÓN CIVIL Y PREVENCIÓN DE RIESGOS DE DESASTRES, CAPACITACIÓN, AUTORIZACIÓN, ACREDITACIÓN Y CERTIFICACIÓN
 
 ## TÍTULO CUARTO. PROFESIONALIZACIÓN Y PARTICIPACIÓN CIUDADANA
 
-### CAPÍTULO I. DE LOS INSTRUMENTOS FINANCIEROS DE GESTIÓN DE RIESGOS
+### CAPÍTULO II. DE LA PARTICIPACIÓN CIUDADANA, GRUPOS VOLUNTARIOS Y REGISTRO ESTATAL DE ORGANIZACIONES CIVILES
 
 ###### Artículo 81.
 
@@ -1601,7 +1673,7 @@ II. Cooperar con las autoridades correspondientes para programar las acciones a 
 
 III. Colaborar con la Coordinación Estatal o la Coordinación Municipal para el debido cumplimiento de los programas de protección civil y sus líneas de acción;
 
-### CAPÍTULO II. DEL FONDO ESTATAL DE PREVENCIÓN DE RIESGOS Y PROTECCIÓN CIVIL
+### CAPÍTULO I. DE LOS INSTRUMENTOS FINANCIEROS DE GESTIÓN DE RIESGOS
 
 ###### Artículo 88.
 
@@ -1665,9 +1737,7 @@ Todas las organizaciones civiles, cualquiera que fuere su denominación, pueden 
 
 ## TÍTULO QUINTO. GESTIÓN FINANCIERA Y TRANSFERENCIA DE RIESGOS
 
-### Capítulo III. De las Donaciones
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+### CAPÍTULO II. DEL FONDO ESTATAL DE PREVENCIÓN DE RIESGOS Y PROTECCIÓN CIVIL
 
 ###### Artículo 97.
 
@@ -1695,7 +1765,9 @@ Así mismo se fomentará la actualización y utilización de la Gestión Integra
 
 Es responsabilidad del Poder Ejecutivo, conforme a su disponibilidad presupuestaria, la contratación de seguros y demás instrumentos de administración y transferencia de riesgos para la cobertura de daños causados por un desastre de origen natural en los bienes y servicios estratégicos del Estado.
 
-### CAPÍTULO IV. DE LA DETECCIÓN DE ZONAS DE RIESGO
+### Capítulo III. De las Donaciones
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 102.
 
@@ -1711,9 +1783,7 @@ El Fondo Estatal de Prevención de Riesgos y Protección Civil, se integrará a 
 
 Los ingresos que perciba la Coordinación Estatal por concepto de derechos, serán destinados al Fondo Estatal de Prevención de Riesgos y Protección Civil, en términos de esta Ley y su Reglamento.
 
-### CAPÍTULO I. DE LAS INSPECCIONES
-
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+### CAPÍTULO IV. DE LA DETECCIÓN DE ZONAS DE RIESGO
 
 ###### Artículo 104.
 
@@ -1723,7 +1793,9 @@ Los donativos y donaciones a los que se refiere el párrafo anterior se sujetar�
 
 Las personas físicas o morales que deseen colaborar con la captación de donaciones en especie deberán obtener la autorización de la Coordinación Estatal.
 
-### CAPÍTULO II. DE LAS MEDIDAS DE SEGURIDAD
+### CAPÍTULO I. DE LAS INSPECCIONES
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 105.
 
@@ -1751,9 +1823,7 @@ En el caso de asentamientos humanos ya establecidos en Zonas de Riesgo, las auto
 
 ## TÍTULO SEXTO. MEDIOS LEGALES
 
-### CAPÍTULO III. DE LAS SANCIONES
-
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+### CAPÍTULO II. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 110.
 
@@ -1803,7 +1873,9 @@ Cuando exista una situación de peligro que ponga en riesgo a las personas, a lo
 
 Si del acta de inspección se desprende la necesidad de volver a realizar otra visita, el inspector regresará al establecimiento con el objeto de vigilar el cumplimiento de las observaciones asentadas en el acta anterior correspondiente y en su caso informar a efecto de determinar las sanciones que correspondan.
 
-### CAPÍTULO IV. DEL RECURSO DE REVISIÓN
+### CAPÍTULO III. DE LAS SANCIONES
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 114.
 
@@ -1859,9 +1931,9 @@ Lo anterior sin perjuicio de que no se haya podido llevar a cabo la diligencia d
 
 Cuando se apliquen alguna o algunas de las medidas de seguridad previstas en el artículo anterior, se indicará su temporalidad y, en su caso, las acciones que se deben llevar a cabo para ordenar el retiro de las mismas.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO IV. DEL RECURSO DE REVISIÓN
 
-DE LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA.
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 118.
 
@@ -1919,11 +1991,17 @@ La Coordinación Estatal o las Coordinaciones Municipales que correspondan, podr
 
 Las sanciones por infracciones de protección civil se impondrán sin perjuicio de otras sanciones administrativas del orden federal, estatal o municipal, o delitos, en que en su caso, incurran el o los infractores.
 
-Para la imposición de las medidas de seguridad y las sanciones a que se refiere este capítulo, se estará a lo dispuesto a la Ley de Justicia Administrativa para el Estado de Oaxaca, en su parte conducente.
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+Para la imposición de las medidas de seguridad y las sanciones a que se refiere este capítulo, se estará a lo dispuesto a la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca, en su parte conducente.
+
+### CAPÍTULO ÚNICO
+
+DE LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA.
 
 ###### Artículo 125.
 
-Los interesados afectados por los actos y resoluciones de la Coordinación Estatal o de las Coordinaciones Municipales correspondientes, podrán interponer recurso de revisión de acuerdo a lo previsto en este capítulo y se desahogará conforme al procedimiento previsto en lo relativo en la Ley de Justicia Administrativa para el Estado de Oaxaca, y el Reglamento de esta ley.
+Los interesados afectados por los actos y resoluciones de la Coordinación Estatal o de las Coordinaciones Municipales correspondientes, podrán interponer recurso de revisión de acuerdo a lo previsto en este capítulo y se desahogará conforme al procedimiento previsto en lo relativo en la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca, y el Reglamento de esta ley.
 
 ###### Artículo 126.
 
@@ -2062,3 +2140,13 @@ CUARTO. El reglamento de la presente Ley deberá publicarse dentro de los novent
 QUINTO. Se hará del conocimiento a través del Consejo Estatal a las dependencias y entidades de la Administración Pública Estatal el contenido del artículo 131 de la presente Ley, a efecto de que lo tengan en cuenta al aprobar los programas institucionales.
 
 SEXTO. El personal que presta sus servicios a la Coordinación Estatal, se regirá por la Ley del Servicio Civil para los Empleados del Gobierno del Estado y se respetarán sus derechos laborales adquiridos con anterioridad a la presente reforma.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1287.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+TERCERO. El Consejo Consultivo deberá quedar constituido, instalando y reglamentando en un plazo no mayor a ciento ochenta días naturales, posteriores a la entrada en vigor del presente Decreto.
