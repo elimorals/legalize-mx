@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-salud-del-estado-de-zacatecas-127081"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-07"
-last_updated: "2019-11-23"
+last_updated: "2020-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SALUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 7 de marzo de 2018.
 
@@ -1325,6 +1325,20 @@ Los cadáveres de personas desconocidas, los no reclamados y los que se hayan de
 
 Sólo podrá darse destino final a un feto previa expedición del certificado de muerte fetal.
 
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+
+ARTÍCULO 127 BIS. Las inhumaciones se tendrán que realizar periódicamente, con el objetivo primordial de resguardar y preservar los cadáveres de personas no identificados; los cadáveres de personas no identificados posteriormente reconocidos sin reclamar, y los cadáveres de personas identificados no reclamados.
+
+En estos casos, se observarán las siguientes normas:
+
+I. Las inhumaciones deben resguardar el cadáver de una persona para estar en la posibilidad de ser extraído y restituido al núcleo familiar, cuando sea identificado posteriormente a la inhumación;
+
+II. Por ningún motivo el cuerpo debe ser cremado o incinerado, para no destruir la evidencia forense contenida en el mismo, y
+
+III. Las inhumaciones deberán efectuarse en el panteón forense que ordene la autoridad competente.
+
+Los procesos de inhumación a que se refiere este artículo se llevarán a cabo de conformidad con lo que se establece en la Ley General de Salud, el Reglamento de la Ley General de Salud en materia de control sanitario de la disposición de órganos, tejidos y cadáveres de seres humanos y demás instrumentos jurídicos o protocolos que en la materia apliquen.
+
 ###### ARTÍCULO 128.
 
 Los establecimientos en los que se realicen actos relacionados con cadáveres deberán presentar el aviso correspondiente a la Secretaría de Salud.
@@ -2418,3 +2432,9 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 194.- SE REFORMAN VARIAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE ZACATECAS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Zacatecas.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 299.- SE ADICIONA EL ARTÍCULO 127 BIS A LA LEY DE SALUD DEL ESTADO DE ZACATECAS".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
