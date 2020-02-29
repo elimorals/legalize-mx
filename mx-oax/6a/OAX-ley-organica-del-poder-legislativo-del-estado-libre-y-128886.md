@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2020-02-15"
+last_updated: "2020-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -859,7 +859,9 @@ III. Agropecuaria, Forestal, de Minería y Pesca;
 
 IV. Agua y Saneamiento;
 
-V. Asuntos Indígenas y Migración;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+V. Pueblos Indígenas y Afromexicano;
 
 VI. Cultura;
 
@@ -915,7 +917,9 @@ XXX. Turismo;
 
 XXXI. Vigilancia del Órgano Superior de Fiscalización del Estado;
 
-XXXII. Vigilancia del Sistema Estatal de Combate a la Corrupción; y
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+XXXII. Vigilancia del Sistema Estatal de Combate a la Corrupción;
 
 > <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
@@ -924,6 +928,10 @@ XXXIII. Corredor Interoceánico y Programas de Desarrollo Regional.
 > <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2020)</small>
 
 XXXIV. Migración y Asuntos Internacionales.
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+XXXV. Vigilancia y Seguimiento del Sistema Estatal de Planeación.
 
 Dichas Comisiones tendrán la competencia que les corresponde en lo general a las otorgadas a las Dependencias y Entidades de la Administración Pública local, la derivada de su denominación en materia parlamentaria y las que se determinen específicamente en el Reglamento.
 
@@ -1416,3 +1424,23 @@ SEGUNDO. Publíquese en el Periódico Oficial del Estado de Oaxaca.
 TERCERO. Los asuntos que conocerá la Comisión Permanente de Migración y Asuntos Internacionales le serán turnados a partir de la entrada en vigor del presente Decreto.
 
 CUARTO. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1347.- MEDIANTE EL CUAL (SIC) REFORMA LA FRACCIÓN XXXII Y SE ADICIONA LA FRACCIÓN XXXV AL ARTÍCULO 65 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DE ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONA LA FRACCIÓN XXXV AL ARTÍCULO 42 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del Congreso del Estado.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1348.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 65 FRACCIÓN V DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMA EL PRIMER PÁRRAFO Y SE DEROGA EL APARTADO D, E Y F DE LA FRACCIÓN V DEL ARTÍCULO 42 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del Congreso del Estado.
+
+SEGUNDO (SIC).- La integración de la Comisión Permanente de Pueblos Indígenas y Afromexicano será la misma que tenía la Comisión de Asuntos Indígenas y Migración, previo a la entrada en vigor del presente Decreto.
+
+TERCERO.- Los asuntos turnados y lo demás atinente a la Comisión Permanente de Asuntos Indígenas y Migración se entenderán como materia de la Comisión Permanente de Pueblos Indígenas y Afromexicano.
