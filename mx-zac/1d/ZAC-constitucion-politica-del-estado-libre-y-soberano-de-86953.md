@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2020-01-29"
+last_updated: "2020-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -1271,9 +1271,11 @@ V. A los representantes del Estado ante el Congreso de la Unión; y
 
 VI. A los ciudadanos zacatecanos radicados en el Estado, en un número equivalente, por lo menos, al cero punto trece por ciento de la lista nominal de electores, en los términos que establezca la ley; y
 
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2002)</small>
+VII. (DEROGADA, P.O. 29 DE FEBRERO DE 2020)
 
-VII. A la Comisión Estatal de Derechos Humanos, en el ámbito de su competencia.
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+VIII. A los Organismos Constitucionalmente Autónomos en su respectiva materia y competencia.
 
 ###### Artículo 61.
 
@@ -3830,3 +3832,13 @@ Artículo primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo segundo. La Legislatura del Estado, en un plazo que no excederá de noventa días, contados a partir de la publicación del presente Decreto, deberá adecuar su Ley Orgánica y Reglamento General a las disposiciones que integran este instrumento legislativo.
 
 Artículo tercero. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 375.- SE DEROGA LA FRACCIÓN VII Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 60 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Dentro de los ciento ochenta días siguientes a la entrada en vigor de este Decreto, se reformará la legislación en la materia para armonizarla a lo previsto en este instrumento legal.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
