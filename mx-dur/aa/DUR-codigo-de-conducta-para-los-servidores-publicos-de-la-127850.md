@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-conducta-para-los-servidores-publicos-de-la-127850"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-03-11"
-last_updated: "2018-03-11"
+last_updated: "2020-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # CODIGO DE CONDUCTA PARA LOS SERVIDORES PUBLICOS DE LA SECRETARIA DE DESARROLLO SOCIAL DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE BIENESTAR SOCIAL DEL GOBIERNO DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 1 DE MARZO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA PARA LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE DESARROLLO SOCIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2020 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 11 de marzo de 2018.
 
@@ -266,3 +268,15 @@ Dado en la Ciudad Victoria de Durango, Dgo., a los veinticinco días del mes de 
 EL TITULAR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO
 
 MARCOS CARLOS CRUZ MARTINEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE BIENESTAR SOCIAL DEL GOBIERNO DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se abroga el Código de Conducta de la Secretaría de Bienestar Social, antes Secretaría de Desarrollo Social, publicado en el Periódico Oficial del Gobierno del Estado de Durango de fecha 11 de marzo de 2018.
+
+TERCERO. Publíquese en el Periódico Oficial y en la página web de la Secretaría de Bienestar Social del Estado de Durango.
