@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-conducta-de-la-secretaria-de-recursos-naturales-y-130
 country: "mx"
 rank: "codigo"
 publication_date: "2018-04-08"
-last_updated: "2018-04-08"
+last_updated: "2020-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE RECURSOS NATURALES Y MEDIO AMBIENTE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE RECURSOS NATURALES Y MEDIO AMBIENTE DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 1 DE MARZO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE RECURSOS NATURALES Y MEDIO AMBIENTE DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2020 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 8 de abril de 2018.
 
@@ -206,3 +208,15 @@ A T E N T A M E N T E
 EL SECRETARIO DE RECURSOS NATURALES Y MEDIO AMBIENTE DEL ESTADO DE DURANGO
 
 LIC. JAIME RIVAS LOIZA (SIC)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA.- DE LA SECRETARÍA DE RECURSOS NATURALES Y MEDIO AMBIENTE DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Código de Conducta de la Secretaría de Recursos Naturales y Medio Ambiente del Estado de Durango, publicado en el Periódico Oficial del Gobierno del Estado de Durango el 08 de abril de 2018.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Durango y en la página de internet de la Secretaría de Recursos Naturales y Medio Ambiente.
