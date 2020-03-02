@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2019-03-04"
+last_updated: "2020-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2020.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -959,13 +959,17 @@ XIV.- Apoyo al Migrante;
 
 XV.- Equidad de Género;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2020)</small>
 
-XVI.- Control Integral de la Gestión Municipal, y
+XVI.- Control Integral de la Gestión Municipal;
 
-> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2020)</small>
 
-XVII.- Postulaciones.
+XVII.- Postulaciones, y
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2020)</small>
+
+XVIII.- Anticorrupción.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -1537,6 +1541,26 @@ IX.- Establecer bases y lineamientos para ser sujeto de algún premio, reconocim
 
 X.- Los demás que le señalen las leyes, los reglamentos, el presente código o le sean encomendados por el H. Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
+ARTICULO 63 TER.- Corresponden a la Comisión Anticorrupción los siguientes asuntos:
+
+I.- Conocer y dictaminar las diversas iniciativas que en materia de transparencia y responsabilidades de los servidores públicos sean turnadas al ayuntamiento;
+
+II.- Presentar iniciativas de normas reglamentarias que tiendan a lograr un mayor control de las prácticas administrativas, a efecto de prevenir conductas que sean contrarias a las normas jurídicas en materia de anticorrupción.
+
+III.- Establecer mecanismos a efecto de verificar que se cumpla con los lineamientos del Programa Municipal de Anticorrupción,
+
+IV.- Dar seguimiento a las diversas acciones que se lleven a cabo a efecto de aplicar los reglamentos de control interno;
+
+V.- Revisar los códigos de ética y de conducta, formulando propuestas de reformas y modificaciones a los mismos;
+
+VI.- Participar en la elaboración del Programa Municipal Anticorrupción, así como formular dictámenes sobre sus reformas y cumplimiento;
+
+VII.- Evaluar el desempeño de los indicadores de eficiencia que se establezcan en la administración pública municipal, y
+
+VIII.- Los demás que le señalen las leyes, los reglamentos, el presente código o le sean encomendados por el H. Ayuntamiento.
+
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ## TITULO TERCERO. DE LA PRACTICA CAPITULAR
@@ -1621,11 +1645,15 @@ El Ayuntamiento sesiona válidamente con la asistencia del quórum legal, que es
 
 Las Sesiones del H. Ayuntamiento serán: Ordinarias y Extraordinarias.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 70.
 
-Las sesiones ordinarias y extraordinarias, a su vez podrán tener las siguientes categorías: Públicas, Secretas y Solemnes.
+Las sesiones ordinarias y extraordinarias, a su vez podrán tener las siguientes categorías:
+
+I.- De Cabildo Abierto, y
+
+II.- Solemnes.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -1633,31 +1661,41 @@ Las sesiones ordinarias y extraordinarias, a su vez podrán tener las siguientes
 
 Las Sesiones Ordinarias deberán celebrarse cada mes, el día y a la hora en que determine el propio Ayuntamiento a propuesta del Presidente Municipal.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 72.
 
-Por regla general las sesiones tendrán el carácter de públicas, excepto las que señale el presente Código como secretas o en los casos en que así lo determine el Ayuntamiento, en virtud de la naturaleza del asunto que se vaya a tratar.
+Las sesiones tendrán el carácter de públicas por lo que podrá asistir cualquier ciudadano que así desee hacerlo con el objeto de presenciar su desarrollo, sólo se prohibirá el acceso a quienes se encuentren armados, en estado de ebriedad o bajo influencia de drogas o psicotrópicos.. (sic)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 73.
 
-Son sesiones extraordinarias las que se celebren entre los periodos de las ordinarias, para tratar asuntos urgentes relacionados con la Administración o la atención de servicios públicos indispensables para la población y aquellas que se efectúan para designar al presidente municipal interino o sustituto.
+Los asistentes a las sesiones deben conservar el mayor silencio, respeto y compostura y por ningún motivo pueden tomar parte en los debates, ni realizar manifestaciones de ningún género. En todo caso los asistentes deben guardar las normas de orden, respeto y cordura que el Presidente Municipal disponga para asegurar el adecuado desarrollo de las sesiones.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-En ellas se tratará exclusivamente el o los asuntos para el que fue convocado el Ayuntamiento, y será citado por el Presidente Municipal o a petición de una tercera parte de sus integrantes.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 74.
 
-Son sesiones solemnes las que determine el Ayuntamiento para la conmemoración de aniversarios históricos, aquellas en que concurran representaciones de la Federación, de los Poderes del Estado de Aguascalientes, o de personalidades distinguidas del Municipio, del Estado, de la Nación o del extranjero, así como para casos análogos en importancia determinados por el Ayuntamiento, a propuesta de alguno de sus integrantes.
+Si las disposiciones ordenadas por el Presidente Municipal no bastan para mantener el orden, de inmediato debe levantar la sesión pública y puede continuarla limitando el acceso al público y a los servidores del Ayuntamiento, sin perjuicio de la facultad que le corresponde para ordenar la detención de los responsables en caso de que los hechos que provoquen el desorden puedan constituir algún delito.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 75.
+
+Son sesiones extraordinarias las que se celebren entre los periodos de las ordinarias, para tratar asuntos urgentes relacionados con la Administración o la atención de servicios públicos indispensables para la población y aquellas que se efectúan para designar al presidente municipal interino o sustituto.
+
+En ellas se tratará exclusivamente el o los asuntos para el que fue convocado el Ayuntamiento, y será citado por el Presidente Municipal o a petición de una tercera parte de sus integrantes.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
+
+###### ARTICULO 76.
+
+Son sesiones solemnes las que determine el Ayuntamiento para la conmemoración de aniversarios históricos, aquellas en que concurran representaciones de la Federación, de los Poderes del Estado de Aguascalientes, o de personalidades distinguidas del Municipio, del Estado, de la Nación o del extranjero, así como para casos análogos en importancia determinados por el Ayuntamiento, a propuesta de alguno de sus integrantes.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
+
+###### ARTICULO 77.
 
 Siempre tendrán el carácter de solemnes las sesiones en las que:
 
@@ -1667,65 +1705,57 @@ II.- Rindan la protesta de ley los integrantes del Ayuntamiento entrante; y
 
 III.- El Presidente Municipal rinda su informe anual.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 76.
-
-En las sesiones solemnes podrá omitirse la lectura del acta de la sesión anterior, no habrá turno de asuntos a comisión, asuntos generales, ni se presentarán dictámenes de discusión y se harán los honores a la bandera y se entonará el himno nacional.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 77.
-
-Son Sesiones Secretas, aquellas en las que se traten los siguientes asuntos:
-
-I.- De carácter político, económico, que requieran reserva; así como asuntos internos del H. Cabildo.
-
-II.- De carácter secreto dirigidos al H. Ayuntamiento, por los Poderes Ejecutivos, Legislativo y Judicial, tanto Federal como Estatal, así como por otros Ayuntamientos; y
-
-III.- A solicitud de uno o más Regidores o Síndico, lo acuerde el H. Ayuntamiento.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 78.
 
-A las sesiones que no tengan carácter de secretas puede asistir cualquier persona, instalándose en el Salón de Sesiones del Ayuntamiento, pero debe prohibirse la entrada a quienes se encuentren armados, en estado de ebriedad o bajo influencia de drogas o psicotrópicos.
+En las sesiones solemnes podrá omitirse la lectura del acta de la sesión anterior, no habrá turno de asuntos a comisión, asuntos generales, ni se presentarán dictámenes de discusión y se harán los honores a la bandera y se entonará el himno nacional.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 79.
 
-Los asistentes a las sesiones deben conservar el mayor silencio, respeto y compostura y por ningún motivo pueden tomar parte en los debates, ni realizar manifestaciones de ningún género. En todo caso los asistentes deben guardar las normas de orden, respeto y cordura que el Presidente Municipal disponga para asegurar el adecuado desarrollo de las sesiones.
+Son sesiones de cabildo abierto aquellas que se realizan en un foro público, con la participación de los ciudadanos los cuales podrán exponer problemática de temas específicos frente al ayuntamiento.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 80.
 
-Si las disposiciones ordenadas por el Presidente Municipal no bastan para mantener el orden, de inmediato debe levantar la sesión pública y puede continuarla limitando el acceso al público y a los servidores del Ayuntamiento, sin perjuicio de la facultad que le corresponde para ordenar la detención de los responsables en caso de que los hechos que provoquen el desorden puedan constituir algún delito.
+Las sesiones de cabildo abierto corresponderán a las sesiones ordinarias de los meses de febrero, mayo, agosto y noviembre de cada año.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 81.
 
-En determinadas sesiones podrá el H. Ayuntamiento autorizar la intervención del auditorio sobre el asunto a tratar en la orden del día, previa solicitud que se haga por escrito. Por ningún motivo se permitirá la intervención del público, sin haberse satisfecho este requisito.
+Para efectos del artículo anterior, se deberá publicar con la debida anticipación una convocatoria señalando las fechas y los temas a tratar en la sesión, así como el número máximo de participantes.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+Los interesados en participar deberán registrarse mediante una solicitud de inscripción que se presentará en la oficialía de partes del municipio hasta dos días antes de la fecha de la sesión.
+
+La Secretaría del H. Ayuntamiento informará a los solicitantes el día y la hora en la que se llevará a cabo la sesión y el turno que le corresponde de participación.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 82.
 
-Los ciudadanos a que se refiere el artículo anterior, deberán hacerlo saber al Secretario del H. Ayuntamiento, antes de iniciarse la sesión para su acuerdo y de haberse aprobado, deberán hablar sobre los temas para los cuales se les concede la intervención.
+la solicitud deberá contener:
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+I.- Nombre, domicilio, firma, clave de elector del solicitante y correo electrónico si lo tiene y si es un grupo o asociación, el nombre del representante común;
+
+II.- Señalamiento de si la solicitud es para la discusión, presentación de ideas, propuestas, iniciativa, demanda, petición o gestión, y
+
+III.- Especificar el tema de la solicitud y hacer una narración sucinta de los motivos de la misma.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 83.
 
-En este tipo de sesiones el H. Ayuntamiento escuchará la opinión del público que participe en la sesión y podrá tomarla en cuenta al dictar las resoluciones.
+En este tipo de sesiones el H. Ayuntamiento escuchará la opinión del público que participe en la sesión y las tomará en cuenta al dictar las resoluciones.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 84.
 
-En las sesiones con intervención al público, el Presidente Municipal, podrá suspender en el uso de la palabra al orador y ordenar desalojar el recinto parcial o totalmente en los siguientes casos:
+En las sesiones de cabildo abierto se concederá el uso de la palabra hasta por diez minutos a cada ciudadano participante y el Presidente Municipal podrá suspender la intervención del orador y ordenar desalojar el recinto parcial o totalmente en los siguientes casos:
 
 I.- Cuando la persona en uso de la palabra desvirtúe el tema que se esté tratando;
 
@@ -1733,7 +1763,7 @@ II.- Cuando se profieran injurias, palabras obscenas, amenazas o serias acusacio
 
 III.- Cuando se trate de exaltar el ánimo del auditorio, para presionar la opinión de los miembros del Ayuntamiento;
 
-IV.- Cuando en el auditorio se observe alguna falta de respeto para alguno de los miembros del H. Ayuntamiento o para alguno de los servidores públicos; y
+IV.- Cuando en el auditorio se observe alguna falta de respeto para alguno de los miembros del H. Ayuntamiento o para alguno de los servidores públicos, y
 
 V.- Cuando se pretenda discutir asuntos de interés particular.
 
@@ -2555,57 +2585,61 @@ cuando para la atención de algún asunto exista duda respecto de la competencia
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, la Presidencia Municipal contará con las siguientes unidades administrativas:
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2017)</small>
+(REPUBLICADA, P.O. 2 DE MARZO DE 2020)
 
 I.- Oficina del Presidente Municipal.
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2017)</small>
+(REPUBLICADA, P.O. 2 DE MARZO DE 2020)
 
 II.- Secretaría del H. Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2017)</small>
+(REPUBLICADA, P.O. 2 DE MARZO DE 2020)
 
 III.- Dirección de Finanzas y Administración;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2017)</small>
+(REPUBLICADA, P.O. 2 DE MARZO DE 2020)
 
 IV.- Dirección Jurídica;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+(REPUBLICADA, P.O. 2 DE MARZO DE 2020)
 
 V.- Dirección de Seguridad pública y Movilidad;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2017)</small>
+(REPUBLICADA, P.O. 2 DE MARZO DE 2020)
 
 VI.- Dirección de Obras Públicas y Desarrollo Urbano;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2017)</small>
+(REPUBLICADA, P.O. 2 DE MARZO DE 2020)
 
 VII.- Dirección de Servicios Públicos Municipales y Mantenimiento;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2017)</small>
+(REPUBLICADA, P.O. 2 DE MARZO DE 2020)
 
 VIII.- Dirección de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2017)</small>
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2020)</small>
 
-IX.- Contraloría Municipal;
+IX.- Dirección de Desarrollo Integral de la Persona;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2017)</small>
+(REPUBLICADA Y REUBICADA, [N. DE E. ANTES FRACCIÓN IX.] P.O. 2 DE MARZO DE 2020)
 
-X.- Sistema para el Desarrollo Integral de la Familia;
+X.- Contraloría Municipal;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+(REPUBLICADA Y REUBICADA, [N. DE E. ANTES FRACCIÓN X.] P.O. 2 DE MARZO DE 2020)
 
-XI.- Instituto Pabellonense de las Mujeres;
+XI.- Sistema para el Desarrollo Integral de la Familia;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+(REPUBLICADA Y REUBICADA, [N. DE E. ANTES FRACCIÓN XI.], P.O. 2 DE MARZO DE 2020)
 
-XII.- Subdelegación del INAPAM, y
+XII.- Instituto Pabellonense de las Mujeres;
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2019)</small>
+(REPUBLICADA Y REUBICADA, [N. DE E. ANTES FRACCIÓN XII.] P.O. 2 DE MARZO DE 2020)
 
-XIII.- Instituto Municipal de Biodiversidad y Protección Ambiental.
+XIII.- Subdelegación del INAPAM, y
+
+(REPUBLICADA Y REUBICADA, [N. DE E. ANTES FRACCIÓN XIII.] P.O. 2 DE MARZO DE 2020)
+
+XIV.- Instituto Municipal de Biodiversidad y Protección Ambiental.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -2727,59 +2761,45 @@ b).- Departamento de Limpia y Aseo Público;
 
 c).- Departamento de Panteones;
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 13 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 2 DE MARZO DE 2020)</small>
 
 VIII.- Dirección de Desarrollo Social:
 
-a).- Subdirección de Desarrollo Social:
+a).- Departamento de Programas Coordinados;
 
-a.1.- Departamento de Programas Coordinados;
+b).- Departamento de Desarrollo Económico:
 
-a.2.- Departamento de Fomento a la Cultura;
+c).- Departamento de Turismo;
 
-a.3.- Departamento de Fomento al Deporte;
+d).- Departamento de Desarrollo Rural;
 
-a.4.- Representación del INJUVE;
+ADICIONADA, [N. DE E. CON SUS INCISOS], P.O. 2 DE MARZO DE 2020)
 
-b).- Subdirección de Desarrollo Económico:
+IX.- Dirección de Desarrollo Integral de la Persona:
 
-b.1.- Departamento de Fomento a la Inversión y Desarrollo Emprendedor;
+a).- Departamento de Fomento a la Cultura y las Artes;
 
-b.2.- Departamento de Turismo;
+b).- Departamento de Fomento al Deporte;
 
-b.3.- Departamento de Desarrollo Rural;
+c).- Representación del INJUVE;
 
-> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2019)</small>
+d).- Centro de Desarrollo Comunitario 5 de mayo;
 
-IX.- Contraloría Municipal:
+> <small>(REFORMADA Y REUBICADA, ANTES FRACCIÓN IX [N. DE E. CON SUS INCISOS], P.O. 2 DE MARZO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
+X.- Contraloría Municipal:
 
-a).- Departamento de Auditoría a la Obra Pública;
+a).- Departamento de Auditoría;
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
+b).- Departamento de Investigación de Responsabilidades Administrativas;
 
-b).- Departamento de Auditoría Administrativa y Financiera;
+d) (SIC).- Departamento de Sustanciación de Responsabilidades Administrativas, y
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2019)</small>
+e).- Departamento de Resolución de Responsabilidades Administrativas;
 
-c).- Departamento de Planeación, Evaluación y Seguimiento;
+REPUBLICADA Y REUBICADA ANTES FRACCIÓN X [N. DE E. CON SUS INCISOS], P.O. 2 DE MARZO DE 2020)
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
-
-d).- Departamento de Investigación de Responsabilidades Administrativas;
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
-
-e).- Departamento de Sustanciación de Responsabilidades Administrativas, y
-
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2019)</small>
-
-f).- Departamento de Resolución de Responsabilidades Administrativas;
-
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 13 DE FEBRERO DE 2017)</small>
-
-X.- Sistema para el Desarrollo Integral de la Familia:
+XI.- Sistema para el Desarrollo Integral de la Familia:
 
 a).- Presidencia;
 
@@ -2789,13 +2809,11 @@ c).- Coordinación de Atención;
 
 d).- Coordinación de Programas;
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
-
 e).- Coordinación de Servicios Médicos y Salud Mental;
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2017)</small>
+(REPUBLICADA [N. DE E. CON SUS INCISOS], P.O. 2 DE MARZO DE 2020)
 
-XI.- Instituto Pabellonense de las Mujeres:
+XI (SIC).- Instituto Pabellonense de las Mujeres:
 
 a).- Dirección;
 
@@ -2803,9 +2821,9 @@ b).- Coordinación de Programas, y
 
 c).- Coordinación Operativa.
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 13 DE FEBRERO DE 2017)</small>
+(REPUBLICADA Y REUBICADA ANTES FRACCIÓN XII [N. DE E. CON SUS INCISOS], P.O. 2 DE MARZO DE 2020)
 
-XII.- Subdelegación del INAPAM
+XIII (SIC).- Subdelegación del INAPAM:
 
 a).- Coordinación de Programas;
 
@@ -2813,9 +2831,9 @@ b).- Coordinación de Asistencia y Servicios Médicos; y
 
 c).- Coordinación de Clubes de la Tercera Edad.
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 4 DE MARZO DE 2019)</small>
+(REPUBLICADA Y REUBICADA ANTES FRACCIÓN XIII [N. DE E. CON SUS INCISOS], P.O. 2 DE MARZO DE 2020)
 
-XIII.- Instituto Municipal de Biodiversidad y Protección Ambiental:
+XIV.- Instituto Municipal de Biodiversidad y Protección Ambiental:
 
 a).- Departamento de Manejo Forestal y de Áreas Verdes;
 
@@ -3385,7 +3403,9 @@ XXVII.- Generar los análisis y programas tendientes a lograr el desarrollo orga
 
 XXVIII.- Dirigir las acciones que tiendan a proporcionar a las dependencias de la Presidencia Municipal, los elementos de trabajo necesarios para el desarrollo de sus funciones;
 
-XXIX.- Fungir como Secretario Técnico del Comité Municipal de Adquisiciones y administrar todas las compras y suministros municipales, con base en el presupuesto de egresos;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2020)</small>
+
+XXIX.- Fungir como Presidente del Comité Municipal de Adquisiciones y administrar todas las compras y suministros municipales, con base en el presupuesto de egresos;
 
 XXX.- Administrar y controlar los bienes patrimoniales de la Presidencia Municipal;
 
@@ -3749,7 +3769,7 @@ XXXII.- Lo demás que señalen la Ley, el presente Código o le encomiende el H:
 
 #### SECCIÓN OCTAVA. De la Dirección de Desarrollo Social
 
-> <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTÍCULO 220], P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 219.
 
@@ -3757,7 +3777,7 @@ Corresponde a la Dirección de Desarrollo Social:
 
 I.- Organizar a la sociedad para que participe en su propio desarrollo;
 
-II.- Promover la participación ciudadana y vecinal, Promoviendo la concertación de acuerdos de carácter social, político y económico entre el Municipio y grupos sociales;
+II.- Promover la participación ciudadana y vecinal a través de la concertación de acuerdos de carácter social, político y económico entre el Municipio y grupos sociales;
 
 III.- Mejorar los esquemas de prestación de servicios de asistencia social donde se involucre a los individuos a promover su propio desarrollo;
 
@@ -3765,47 +3785,69 @@ IV.- Prestar con calidad los servicios asistenciales a través de los organismos
 
 V.- Atender los servicios de salud de competencia municipal;
 
-VI.- Coordinar la prestación de los servicios de educación, cultura, deporte y recreación que la Presidencia Municipal proporciona a la ciudadanía;
+VI.- Recibir y canalizar las iniciativas de la población tendientes a satisfacer sus necesidades, así como inducir su colaboración en la realización de obras y la prestación de los servicios públicos municipales;
 
-VII.- Apoyar a la educación en coordinación con las autoridades Estatales y Federales y a través de las academias municipales o la implementación de programas especiales;
+VII.- Participar en el Consejo de Desarrollo Municipal;
 
-VIII.- Realizar las tareas artísticas y culturales derivadas de los planes y programas del municipio;
+VIII.- Detectar oportunidades dentro del Municipio y Generar Proyectos de Inversión para atraer inversionistas;
 
-IX.- Apoyar al fortalecimiento de los valores y rescate de nuestras tradiciones;
+IX.- Diseñar esquemas modernos donde involucrando a todos los actores económicos del municipio se fortalezcan la Industria el Comercio y los Servicios;
 
-X.- Hacer la crónica de los sucesos relevantes en el municipio, pasados o presentes;
+X.- Diseñar esquemas de apoyo a la pequeña y mediana empresa;
 
-XI.- Administrar las bibliotecas y museos del municipio;
+XI.- Diseñar esquemas que favorezcan a los emprendedores a crear sus propias presas (sic);
 
-XII.- Recibir y canalizar las iniciativas de la población tendientes a satisfacer sus necesidades, así como inducir su colaboración en la realización de obras y la prestación de los servicios públicos municipales;
+XII.- Promover el turismo hacia el Municipio y el fortalecimiento de la infraestructura dedicada a la atención de los visitantes;
 
-XIII.- Participar en el Consejo de Desarrollo Municipal;
+XIII.- Procurar el desarrollo de la producción agrícola y pecuaria, así como la industrialización y comercialización de los productos del campo;
 
-XIV.- Detectar oportunidades dentro del Municipio y Generar Proyectos de Inversión para atraer inversionistas;
+XIV.- Promover y difundir las actividades artesanales, maquilas de mano de obra, así como la comercialización de productos propios del municipio,y (sic)
 
-XV.- Diseñar esquemas modernos donde involucrando a todos los actores económicos del municipio se fortalezcan la Industria el Comercio y los Servicios;
+XV.- Lo demás que señalen las leyes, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-XVI.- Diseñar esquemas de apoyo a la pequeña y mediana empresa;
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 2 DE MARZO DE 2020)</small>
 
-XVII.- Diseñar esquemas que favorezcan a los emprendedores a crear sus propias empresas;
+#### SECCIÓN OCTAVA BIS. De la Dirección de Desarrollo Integral de la Persona
 
-XVIII.- Promover el turismo hacia el Municipio y el fortalecimiento de la infraestructura dedicada a la atención de los visitantes;
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
 
-XIX.- Procurar el desarrollo de la producción agrícola y pecuaria, así como la industrialización y comercialización de los productos del campo;
+ARTICULO 219 BIS.- Corresponde a la Dirección de Desarrollo Integral de la Persona:
 
-XX.- Promover y difundir las actividades artesanales, maquilas de mano de obra, así como la comercialización de productos propios del municipio;
+I.- Coordinar la prestación de los servicios de educación, cultura, deporte y recreación que la Presidencia Municipal proporciona a la ciudadanía;
 
-XXI.- Lo demás que señalen las leyes, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+II.- Propiciar el involucramiento de la sociedad pabellonense en todas las actividades deportivas, culturales, artísticas y de capacitación profesional;
+
+III.- Apoyar a la educación en coordinación con las autoridades estatales y federales y a través de las academias municipales o la implementación de programas especiales;
+
+IV.- Realizar las tareas artísticas y culturales derivadas de los planes y programas del municipio;
+
+V.- Apoyar al fortalecimiento de los valores y rescate de nuestras tradiciones;
+
+VI.- Hacer la crónica de los sucesos relevantes en el municipio, pasados o presentes;
+
+VII.- Administrar las bibliotecas y museos del municipio;
+
+VIII.- Formular estrategias para la conservación y enriquecimiento de las expresiones culturales propias del municipio;
+
+IX.- Promover las actividades deportivas y de recreación;
+
+X.- Promover la participación ciudadana en programas recreativos y deportivos;
+
+XI.- Integrar a las personas con discapacidad en los diferentes programas culturales, educativos, deportivos, recreativos y de capacitación que implemente el municipio;
+
+XII.- Fomentar e impulsar la cultura y las artes mediante estímulos y apoyos a los artistas e intelectuales de las diversas expresiones del conocimiento;
+
+XIII.- Promover la participación de los habitantes del municipio mediante cursos, talleres y eventos de divulgación cultural, científica, tecnológica y artística;
+
+XIV.- Promover la creación de espacios de formación cultural y artística, y
+
+XV.- Lo demás que señalen las leyes, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 > <small>(REFORMADA [N. DE E. REUBICADA ANTES SECCIÓN OCTAVA], P.O. 4 DE MARZO DE 2019)</small>
 
 #### SECCIÓN NOVENA. De la Contraloría Municipal
 
 > <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 221], P.O. 4 DE MARZO DE 2019)</small>
-
-#### SECCIÓN DÉCIMA. Del Sistema para el Desarrollo Integral de la Familia
-
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 222], P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 220.
 
@@ -3865,9 +3907,9 @@ XXIII.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presi
 
 > <small>(REFORMADA [N. DE E. REUBICADA ANTES SECCIÓN NOVENA], P.O. 4 DE MARZO DE 2019)</small>
 
-#### SECCIÓN DÉCIMA PRIMERA. Del Instituto Pabellonense de las Mujeres
+#### SECCIÓN DÉCIMA. Del Sistema para el Desarrollo Integral de la Familia
 
-> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 222 BIS A], P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 222], P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 221.
 
@@ -3895,69 +3937,9 @@ X.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del President
 
 > <small>(REFORMADA [N. DE E. REUBICADA ANTES SECCIÓN DÉCIMA], P.O. 4 DE MARZO DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SEGUNDA. De la Subdelegación del INAPAM
+#### SECCIÓN DÉCIMA PRIMERA. Del Instituto Pabellonense de las Mujeres
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2017)</small>
-
-ARTICULO 222 TER.- Corresponde a la Subdelegación de INAPAM:
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-I.- Procurar el desarrollo humano integral de las personas adultas mayores, mediante el empleo y la asistencia social;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-II.- Implementar campañas en contra de la discriminación de las personas adultas mayores para evitar desigualdades e inequidades;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-III.- Promover la formación de clubes con el fin de agrupar a los adultos mayores y apoyarlos para que lleven una vida activa y productiva reincorporándolos a la sociedad con actividades manuales, recreativas, deportivas y culturales;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-IV.- Gestionar la realización de convenios de descuento a los titulares de la credencial de INAPAM, tanto con instituciones del sector público, como del privado;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-V.- Brindar asesoría a los adultos mayores en materia de canalización para agilizar y/o conducir al lugar correcto en donde solicitan hacer su gestión, brindándoles el apoyo o beneficio según sea la problemática que presentan, procurando en los sitios de alta demanda, se establezca una ventanilla para ellos;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-VI.- Organizar conferencias, cursos, pláticas y reuniones informativas para brindar información sobre diversos temas relacionados con la salud y el bienestar de los adultos mayores;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
-
-VII.- Realizar visitas domiciliarias a los adultos mayores, a efecto de promover los programas del INAPAM;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-VIII.- Implementar programas de apoyo alimentario a los adultos mayores para contribuir a su economía;
-
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
-
-IX.- Atender al adulto mayor que no cuenta con recursos económicos, con consultas médicas y distribución de medicamentos;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-X.- Promover que los adultos mayores ingresen en los sistemas institucionales de alfabetización y educación básica y que obtengan su certificado, manteniendo y aumentando sus capacidades intelectuales;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-XI.- Estar en relación con empresas privadas e instituciones públicas para aumentar la ocupación de personas de edad en diversas áreas, aprovechando sus habilidades y capacidades;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-XII.- Apoyar con pláticas de autoestima al adulto mayor y a los familiares, favoreciendo el desarrollo psicosocial, promoviendo la salud mental y emocional previniendo comportamientos y actitudes negativas en los adultos;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
-
-XIII.- Promover la visita de los funcionarios de la Administración Pública Municipal y personas caracterizadas de la comunidad a los clubes, con el fin de motivar a los adultos mayores, conocer sus inquietudes y aptitudes, así como verificar las actividades y el desarrollo del mismo, y
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-XIV.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal o las instancias federal y estatal.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 222 BIS A], P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 222.
 
@@ -4034,6 +4016,70 @@ ARTICULO 222 BIS A.- (DEROGADO, P.O. 4 DE MARZO DE 2019)
 ARTICULO 222 BIS B.- (DEROGADO, P.O. 4 DE MARZO DE 2019)
 
 > <small>(REFORMADA [N. DE E. REUBICADA ANTES SECCIÓN DÉCIMA PRIMERA], P.O. 4 DE MARZO DE 2019)</small>
+
+#### SECCIÓN DÉCIMA SEGUNDA. De la Subdelegación del INAPAM
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2017)</small>
+
+ARTICULO 222 TER.- Corresponde a la Subdelegación de INAPAM:
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+I.- Procurar el desarrollo humano integral de las personas adultas mayores, mediante el empleo y la asistencia social;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+II.- Implementar campañas en contra de la discriminación de las personas adultas mayores para evitar desigualdades e inequidades;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+III.- Promover la formación de clubes con el fin de agrupar a los adultos mayores y apoyarlos para que lleven una vida activa y productiva reincorporándolos a la sociedad con actividades manuales, recreativas, deportivas y culturales;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+IV.- Gestionar la realización de convenios de descuento a los titulares de la credencial de INAPAM, tanto con instituciones del sector público, como del privado;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+V.- Brindar asesoría a los adultos mayores en materia de canalización para agilizar y/o conducir al lugar correcto en donde solicitan hacer su gestión, brindándoles el apoyo o beneficio según sea la problemática que presentan, procurando en los sitios de alta demanda, se establezca una ventanilla para ellos;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+VI.- Organizar conferencias, cursos, pláticas y reuniones informativas para brindar información sobre diversos temas relacionados con la salud y el bienestar de los adultos mayores;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+
+VII.- Realizar visitas domiciliarias a los adultos mayores, a efecto de promover los programas del INAPAM;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+VIII.- Implementar programas de apoyo alimentario a los adultos mayores para contribuir a su economía;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
+IX.- Atender al adulto mayor que no cuenta con recursos económicos, con consultas médicas y distribución de medicamentos;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+X.- Promover que los adultos mayores ingresen en los sistemas institucionales de alfabetización y educación básica y que obtengan su certificado, manteniendo y aumentando sus capacidades intelectuales;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XI.- Estar en relación con empresas privadas e instituciones públicas para aumentar la ocupación de personas de edad en diversas áreas, aprovechando sus habilidades y capacidades;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XII.- Apoyar con pláticas de autoestima al adulto mayor y a los familiares, favoreciendo el desarrollo psicosocial, promoviendo la salud mental y emocional previniendo comportamientos y actitudes negativas en los adultos;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+
+XIII.- Promover la visita de los funcionarios de la Administración Pública Municipal y personas caracterizadas de la comunidad a los clubes, con el fin de motivar a los adultos mayores, conocer sus inquietudes y aptitudes, así como verificar las actividades y el desarrollo del mismo, y
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XIV.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal o las instancias federal y estatal.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE MARZO DE 2019)</small>
 
 #### SECCIÓN DÉCIMA TERCERA. Del Instituto Municipal de Biodiversidad y Protección Ambiental
 
@@ -4158,10 +4204,6 @@ LV.- Las demás que le señalen el presente código y demás normatividad aplica
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 #### SECCION SEGUNDA. Del Consejo Consultivo
-
-> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
-
-#### SECCION TERCERA. Del Director General
 
 > <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
@@ -5491,7 +5533,11 @@ II.- SECRETARIO TÉCNICO: Subdirector de Administración;
 
 III.- VOCAL: Subdirector de Finanzas;
 
-IV.- VOCAL: Representante del Presidente Municipal;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2020)</small>
+
+IV.- Un Testigo Social quien participará con voz en todas las etapas de los procedimientos de licitación cuyo monto sea superior a cinco millones del valor diario de la Unidad de Medida y Actualización (UMA). Tratándose de obras públicas, se fija un monto de diez millones del valor diario de la Unidad de Medida y Actualización (UMA).
+
+Los testigos sociales serán seleccionados mediante convocatoria pública emitida por la Contraloría Municipal.
 
 V.- VOCAL: Representante de la Contraloría Municipal;
 
@@ -5549,7 +5595,9 @@ V.- Solicitar a las Dependencias Usuarias, durante los primeros dos meses de cad
 
 VI.- Integrar y conservar actualizado el padrón de proveedores;
 
-VII.- Expedir las convocatorias, de acuerdo a lo establecido en el presente Código, aprobando los plazos de los actos de las licitaciones públicas y concursos por invitación; y
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2020)</small>
+
+VII.- Expedir las convocatorias, de acuerdo a lo establecido en el Reglamento de Adquisiciones, Arrendamientos y Servicios del Municipio de Pabellón de Arteaga y en el presente Código, aprobando los plazos de los actos de las licitaciones públicas y Concursos por invitación, y
 
 VIII.- Las demás que le asigne el H. Ayuntamiento y el Presidente Municipal.
 
@@ -7013,9 +7061,39 @@ Bajo líneas de electricidad, sólo deberán plantarse árboles de poca altura, 
 
 ARTICULO 472 BIS.- En los parques o jardines en donde se tenga control de acceso a los mismos, se prohíbe la entrada a personas acompañadas de animales domésticos o peligrosos, a fin de salvaguardar la integridad física de las personas que acudan a dichas instalaciones;
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
 
-ARTICULO 472 TER.- El Instituto Municipal de Biodiversidad y Protección Ambiental realizará por conducto del cuerpo de inspectores actos de inspección y vigilancia, para la verificación del cumplimiento de las disposiciones en la materia de este Capítulo.
+ARTICULO 472 TER.- El Instituto Municipal de Biodiversidad y Protección Ambiental realizará por conducto del cuerpo de inspectores ambientales actos de inspección y vigilancia, para la verificación del cumplimiento de las disposiciones en la materia de este Capítulo. Los inspectores ambientales tendrán las siguientes atribuciones:
+
+I.- Coadyuvar a través de las tareas de inspección y vigilancia para la conservación de la biodiversidad y la protección al ambiente, así como el bienestar animal en el ámbito de competencia del Municipio;
+
+II.- Participar en la promoción de la forestación urbana;
+
+III.- Realizar labores de inspección y vigilancia para prevenir y controlar la contaminación visual, así como la del aire, agua, suelo y la originada por gases, humos, polvos, ruidos, vibraciones, energía térmica, electromagnética, lumínica y olores;
+
+IV.- Realizar labores de inspección y vigilancia para prevenir y controlar la contaminación a la atmósfera, generada por fuentes naturales, fuentes fijas y móviles, excepto las consideradas de competencia de la Federación o del Estado;
+
+V.- Coadyuvar con el Estado y la Federación en la vigilancia y verificación del cumplimiento de las normas ambientales de emisión máxima permisible de contaminación a la atmósfera por parte de las fuentes móviles que circulen dentro del territorio municipal;
+
+VI.- Ejecutar medidas de seguridad para retirar de la circulación los vehículos automotores ostensiblemente contaminantes o que rebasen los límites máximos permisibles de emisiones a la atmósfera y ruido que permitan los reglamentos y las normas aplicables, dentro de la circunscripción municipal;
+
+VII.- Vigilar el cumplimiento de las medidas adoptadas para el control de las descargas de aguas residuales en los sistemas de drenaje y alcantarillado, así como en los ríos y arroyos localizados en el Municipio;
+
+VIII.- Vigilar el adecuado manejo y disposición de los residuos sólidos no peligrosos, domésticos, urbanos y agropecuarios;
+
+IX.- Vigilar el cumplimiento de las medidas adoptadas para el adecuado manejo y disposición final de los aceites y grasas lubricantes usados y demás residuos generados en establecimientos mercantiles o de servicios, a fin que éstos no causen ningún daño a la salud o alteren el ambiente del Municipio;
+
+X.- Llevar a cabo acciones para la prevención y control de emergencias y contingencias ambientales, cuando la magnitud o gravedad de los daños al ambiente afecten directamente al territorio de su jurisdicción;
+
+XI.- Promover y vigilar el cuidado de la flora y la fauna existente en el Municipio;
+
+XII.- Vigilar el cumplimiento de las disposiciones del presente Código y de toda la normatividad oficial mexicana de protección ambiental que resulte aplicable en los asuntos de su competencia;
+
+XIII.- Realizar las diligencias necesarias con el fin de comprobar la existencia de fuentes o actividades que puedan o estén provocando deterioro ambiental, así como la verificación del cumplimiento de programas ambientales;
+
+XIV.- Practicar visitas de inspección, suspensiones y clausuras a los establecimientos públicos o privados, así como imponer las medidas de seguridad y sanciones administrativas a los responsables, cuando incurran en violaciones a las disposiciones legales de este Código y otros ordenamientos legales aplicables, y
+
+XV.- Notificar imposición de sanciones, levantar actas circunstanciadas y reportes de infracción, y aplicar determinaciones de clausura, como parte de las visitas de inspección.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE FEBRERO DE 2007)</small>
 
@@ -7357,11 +7435,21 @@ XXVI.- Mantener los predios baldíos completamente limpios, libres de basura, es
 
 XXVII.- Las demás que del presente Código se desprendan en materia de limpia y aseo público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2020)</small>
+
+ARTICULO 479 BIS.- Dentro del ámbito territorial del Municipio queda prohibido que se entregue al consumidor final, ya sea a título gratuito, de manera onerosa o con motivo de cualquier acto comercial y de servicios, bolsas de plástico no biodegradables para transportar mercancías, popotes elaborados con material plástico no biodegradable, así como productos de poliestireno expandido (unicel) para el consumo de alimentos y bebidas, y que no cumplan con las normas oficiales mexicanas que determinen los criterios en materia de eficiencia ambiental y tecnológica, y en materia de generación, manejo y disposición final.
+
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2019)</small>
 
-ARTICULO 479 BIS.- Dentro del ámbito territorial del Municipio queda prohibido que se entregue al consumidor final, ya sea a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, bolsas de plástico no biodegradables para transportar mercancías y que no cumplan con las normas oficiales mexicanas que determinen los criterios en materia de eficiencia ambiental y tecnológica, y en materia de generación, manejo y disposición final.
-
 Se exceptúan de esta prohibición las bolsas de plástico que constituyan el envase o empaque primario de alimentos, que sea necesario por razones higiénicas o porque su uso ayude a conservar los mismos.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
+Los establecimientos comerciales y de servicios deberán sustituir las bolsas, envases y embalajes de plástico, unicel y de otros materiales no reciclables utilizados en la prestación de sus servicios, por aquellos que sean biodegradables.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
+En el caso de popotes, queda exceptuado el uso intrahospitalario que sea por motivos de salud y prescrito por el médico tratante.
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
@@ -7451,23 +7539,33 @@ IV.- Los inspectores honorarios, y
 
 V.- Los ciudadanos del Municipio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 481.
 
-La Dirección de Servicios Públicos Municipales y Mantenimiento, contará con inspectores, mismos que tendrán la facultad de verificar el debido cumplimiento de las disposiciones de este Código.
+El Instituto Municipal de Biodiversidad y Protección Ambiental, contará con inspectores ambientales, mismos que tendrán la facultad de verificar el debido cumplimiento de las disposiciones de este Código.
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 Para tal efecto los particulares tendrán la obligación de prestar todas las facilidades a los inspectores para que cumplan con su cometido, permitir el acceso al lugar o lugares sujetos a inspección, así como proporcionar toda clase de información que conduzca a la verificación del sitio. En caso de negativa por parte de las personas, físicas o morales, se podrá facultar el auxilio de la fuerza pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
 
-ARTICULO 481 BIS.- Para los actos de inspección y vigilancia, el personal autorizado por la Dirección de Servicios Públicos Municipales y Mantenimiento, deberá estar provisto del documento oficial que lo acredite como tal.
+ARTICULO 481 BIS.- Para los actos de inspección y vigilancia, el personal autorizado por el Instituto Municipal de Biodiversidad y Protección Ambiental, deberá estar provisto del documento oficial que lo acredite como tal.
 
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+Las inspecciones ambientales que realice la autoridad municipal con motivo de la aplicación de este Código se sujetarán a las siguientes bases:
 
-El personal autorizado a que se refiere el artículo anterior, al realizar las visitas de inspección o verificación, se apegará a lo dispuesto por las normas relativas establecidas en el presente Código.
+I.- El inspector ambiental, al iniciar la inspección, deberá identificarse y exhibir la orden escrita correspondiente, la cual contendrá el objeto, fundamento legal y motivo de la visita, la dirección del inmueble sujeto a inspección, la fecha de expedición y la firma de la autoridad que suscribe;
+
+II.- El inspector ambiental practicará la visita con el titular del derecho de que se trate o con su representante legal, en su caso, dentro de las setenta y dos horas siguientes a la expedición de la orden;
+
+III.- De toda visita se levantará acta circunstanciada por duplicado, en la que se hará constar: lugar, fecha, nombre del titular del derecho de que se trate o de su representante legal, la presencia de dos testigos, y resultado de la inspección; anotando con precisión las observaciones que hubiere, así como cada una de las violaciones cometidas al presente Reglamento, en su caso;
+
+IV.- El Inspector Ambiental comunicará al interesado el contenido del acta y le dejará una copia, haciendo constar en la misma las infracciones que detecte, y
+
+V.- El acta deberá ser firmada por el Inspector Ambiental, por la persona con quien se practicó la diligencia y por los testigos; en caso de negativa, se asentará tal circunstancia, sin que esto afecte su valor probatorio.
+
+Para el desarrollo de las visitas, los inspectores ambientales podrán solicitar el auxilio de la fuerza pública si lo estiman necesario.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -9125,7 +9223,7 @@ VI.- El personal técnico y administrativo que se requiera para su funcionamient
 
 > <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-#### SECCION CUARTA. Del Comisario
+#### SECCION TERCERA. Del Director General
 
 > <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
@@ -9359,9 +9457,9 @@ Para la remoción de cualquiera de los integrantes del Consejo Directivo que inc
 
 > <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-#### SECCION PRIMERA. Definiciones
+#### SECCION CUARTA. Del Comisario
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 628.
 
@@ -9429,7 +9527,7 @@ IX.- Las demás que le señale el presente Título o les delegue el H. Ayuntamie
 
 #### SECCION PRIMERA. Definiciones
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 632.
 
@@ -9509,7 +9607,7 @@ XXX.- Las demás que le señale el Consejo Directivo, este Código, la ley de la
 
 > <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-#### SECCION SEGUNDA. De la Amonestación
+#### SECCION PRIMERA. Definiciones
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -10136,6 +10234,44 @@ II.- La evaluación del impacto ambiental está enfocada a evitar la realizació
 III.- El Plan de Acción Climática Local es un instrumento para la planificación y desarrollo de políticas públicas en materia de cambio climático en el municipio. A través del mismo, se estructura la información disponible y se coordina la implementación de estrategias que disminuyan la emisión local de GEI y aumenten la adaptación al cambio climático, y
 
 IV.- La Estrategia Municipal para el Uso y Conservación Sustentable de la Biodiversidad tiene por objetivo implementar las directrices, criterios e indicadores internacionales, nacionales y estatales que configuran los principios del marco de actuación de la política en materia de conservación de la naturaleza, con el fin de alcanzar un alto nivel de conservación de la diversidad biológica y un uso sostenible de sus componentes en el ámbito municipal.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
+ARTICULO 655 BIS. El Municipio a través del IMBIO establecerá un sistema de información ambiental dentro del portal web institucional, que tendrá por objeto organizar, actualizar y difundir información ambiental municipal a los ciudadanos del Municipio, con la finalidad de mantenerlos informados sobre los programas y acciones que se ejecuten en relación al medio ambiente.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
+ARTICULO 655 TER. El sistema de información ambiental, integrará lo siguiente:
+
+I.- Los inventarios de recursos naturales existentes dentro de la circunscripción territorial del Municipio;
+
+II.- Los mecanismos y resultados obtenidos de monitoreo de calidad del aire, el agua y el suelo;
+
+III.- El programa de ordenamiento ecológico local;
+
+IV.- Las acciones para realizar en materia ambiental, vinculadas con los planes Estatal y nacional de desarrollo, así como los programas sectoriales correspondientes;
+
+V.- El marco jurídico aplicable en materia ambiental, debidamente actualizado;
+
+VI.- El padrón municipal de fuentes fijas y móviles;
+
+VII.- El inventario de compuestos y gases de efecto invernadero
+
+VIII.- El padrón municipal de mascotas;
+
+IX.- Los registros de prestadores de servicios ambientales y de quienes habitualmente realicen actividades ambientales;
+
+X.- Estudios, reportes y demás documentos relevantes en materia ambiental;
+
+XI.- El registro de rellenos sanitarios, centros de acopio, confinamientos de residuos industriales, de manejo especial y estaciones de transferencia que operen en el municipio;
+
+XII.- Los centros y actividades de educación ambiental;
+
+XIII.- Las denuncias ciudadanas presentadas ante las autoridades;
+
+XIV.- El plan de acción climática local y las acciones implementadas dentro del Municipio, y
+
+XV.- Cualquier otro dato de interés relacionado con la biodiversidad y protección ambiental local y regional.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2019)</small>
 
@@ -11439,6 +11575,12 @@ IV.- Previo acuerdo de coordinación con las autoridades estatales, implementar 
 
 V.- Integrar y mantener actualizado el inventario de fuentes fijas y móviles emisoras de contaminantes a la atmósfera, que estén ubicadas en el territorio del Municipio.
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
+ARTICULO 683 BIS.- Se prohíbe detonar o encender cohetes, juegos pirotécnicos, o elevar aeróstatos en fiestas particulares, festividades religiosas, cívicas, políticas y sociales tanto públicas como privadas.
+
+Quedan excluidos los artificios pirotécnicos para señales de auxilio, emergencias, uso de las Fuerzas Armadas, de Seguridad y/o Defensa Civil, los artificios pirotécnicos para la lucha antigranizo y los destinados al uso industrial o minero o el que toda otra actividad productiva o extractiva pudiere hacer de materiales explosivos siempre que sean utilizados en el ejercicio de dichas funciones.
+
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 684.
@@ -11450,6 +11592,80 @@ I.- Las fijas, que incluyen talleres, giros comerciales y de prestación de serv
 II.- Diversas; como depósitos o quema a cielo abierto de residuos sólidos en el municipio, y
 
 III.- Coadyuvará previo acuerdo o convenio con el Estado, con las móviles, como vehículos automotores de combustión interna, motocicletas y similares, salvo el transporte federal.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
+ARTICULO 684 BIS.- Las actividades de los establecimientos de comercios y de servicios, que puedan generar un impacto ambiental negativo o puedan rebasar los límites máximos permisibles establecidos en las normas aplicables, deberán solicitar una licencia ambiental del giro de jurisdicción municipal ante el IMBIO como requisito para la expedición de la Licencia de Funcionamiento y para la expedición del dictamen de uso de suelo; en los casos de impacto ambiental que no estén previstos por la Federación o el Estado o bien cualquier otro trámite administrativo en donde se considere necesario. Para la solicitud de la expedición del Dictamen Ambiental deberá cubrir los siguientes requisitos:
+
+I.- Datos generales:
+
+a).- Nombre de la persona física o moral, quien será el dueño del proyecto, y el responsable de realizar todo aquello que se especifique en la Licencia Ambiental;
+
+b).- Nombre que llevará el proyecto una vez en operación;
+
+c).- Ubicación física del proyecto, con nombre de calles, número oficial, colonia, código postal y clave catastral para inspección;
+
+d).- Domicilio para oír y recibir notificaciones indicando: Calles, Colonia, Ciudad, Estado, Código postal, Teléfono y Correo Electrónico;
+
+e).- Colindancias del predio, indicando la actividad que en ellos se desarrolle. Describir y señalar en plano de localización, las colindancias del inmueble. Si el predio colinda con una calle, indicar que hay después de ella. Presentar fotografías actuales del predio y sus colindancias;
+
+f).- Descripción de la obra que se pretende realizar;
+
+g).- Especificación de fechas en que se pretenden iniciar las obras o actividades.
+
+h).- Inicio de construcción, e
+
+i).- Inicio de operación;
+
+II.- Impacto ambiental
+
+a).- Especificar áreas con las que contará el establecimiento, así como la descripción detallada de las actividades que se llevarán a cabo en las etapas de preparación del sitio, construcción, operación y mantenimiento del proyecto, las cuales pueden ocasionar un desequilibrio ecológico;
+
+b).- Indicar, en caso de que existan, ampliaciones futuras, obras o actividades que se pretenden desarrollar en la zona;
+
+c).- Señalar tipos de maquinaria y equipo que se utilizará en el proyecto;
+
+d).- Presentar una relación de materias primas, insumos y combustibles a utilizar en las etapas del proyecto;
+
+e).- Enlistar, en caso de que existan, materiales y sustancias que presenten características de peligrosidad y presentar las hojas de datos de seguridad, de acuerdo a la NOM-018-STPS-2000 "Sistema para la identificación y comunicación de riesgos por sustancias químicas en los centros de trabajo";
+
+f).- Especificar los tipos de residuos generados en cada una de las etapas del proyecto, así como el manejo, almacenamiento, tratamiento, transporte y disposición final de los mismos (considerar emisiones a la atmósfera, descarga de aguas residuales, residuos sólidos urbanos, identificar las fuentes de contaminación de ruido, calor, vibraciones, olores, radiaciones electromagnéticas, energía lumínica y visual, emisión de radiación;
+
+g).- Para el caso de antenas, presentar simulación de la distribución de la emisión de radiación en las áreas aledañas a la antena (en uW/cm2), en donde se consideren los siguientes datos: altura del emisor, ángulo de caída, potencia de emisión de la antena, dirección hacia donde la antena apunta. Preferentemente presentar sobre un plano de distribución haciendo notar el punto de mayor radiación);
+
+h).- Factibilidad de reciclaje. Indicar si es factible el reciclaje de los residuos que reporta;
+
+i).- Etapa de abandono de sitio. Se debe describir el destino programado para el sitio y sus alrededores al término de las operaciones del proyecto;
+
+j).- Programas de restitución del área. Se deben presentar todos aquellos planes y/o programas que serán tomados en cuenta para la rehabilitación, compensación y restitución de los impactos ambientales que se ocasionarán por la conclusión de obras o actividades del proyecto, y
+
+k).- Planes de uso del área al concluir la vida útil del proyecto. Se deben presentar los planes de uso que se le dará al área al terminar la vida útil del proyecto.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
+ARTICULO 684 TER.- El dictamen ambiental tendrá vigencia anual y se refrendará conforme a lo dispuesto en el artículo siguiente. Dicho dictamen es intransferible, razón por la cual, en caso de cambio de propietario del establecimiento se tendrá que tramitar el citado dictamen como nuevo.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
+ARTICULO 684 QUATER.- Para tramitar el refrendo del dictamen ambiental, las personas físicas o morales obligadas deberán cumplir con los requisitos siguientes:
+
+I. Solicitud debidamente requisitada y firmada, y
+
+II. Copia del pago de derechos del refrendo.
+
+El trámite de refrendo deberá de solicitarse y/o tramitarse durante los meses de enero a marzo de cada año; quienes lo tramiten de manera extemporánea, para efectos del pago de derechos correspondientes se entenderá como primera vez; respecto a los requisitos se le tomarán por cumplidos con base en las constancias del expediente que tuviere integrado.
+
+Para efectos de la expedición de solicitud del refrendo del dictamen, se consultará el registro de la base de archivo de la Dirección de Obras Públicas y Desarrollo Urbano, con la finalidad de constatar que en los años inmediatos anteriores se haya efectivamente expedido el citado dictamen a favor del solicitante. En caso de no encontrarse documentación alguna, le será requerida al solicitante por escrito cumplimente los requisitos del presente Reglamento; caso en el cual, el término para su expedición correrá a partir de que se encuentre debidamente integrado el expediente respectivo.
+
+Una vez cumplidos los requisitos, la autoridad ambiental municipal integrará el expediente respectivo. Cuando se trate del trámite de dictamen por primera vez, se procederá a realizar visita al establecimiento para corroborar la información integrada en el expediente, dejando constancia de ello.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
+ARTICULO 684 QUINQUIES.- Dentro del término de ocho días hábiles posteriores a la integración del expediente, se procederá a expedir el dictamen correspondiente; para el caso de refrendo, el plazo para su expedición será de tres días hábiles posteriores a la integración del expediente.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
+ARTICULO 684 SEXIES.- La autoridad ambiental municipal podrá realizar las inspecciones y verificaciones correspondientes, con la finalidad de constatar el cumplimiento de los términos en que hubiere sido expedido el dictamen ambiental.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -13389,9 +13605,9 @@ III.- Proporcionalidad: que el uso de la fuerza sea adecuado y corresponda a la 
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2019)</small>
 
-#### SECCION TERCERA. Del Arresto
+#### SECCION SEGUNDA. De la Amonestación
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 780.
 
@@ -13779,7 +13995,7 @@ LXXIX.- Las demás que le señalen las diversas leyes en la materia, los reglame
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2019)</small>
 
-#### SECCION CUARTA. El Cambio de Adscripción
+#### SECCION TERCERA. Del Arresto
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -13935,9 +14151,9 @@ Asimismo la conclusión del servicio por cualquiera de sus causas será registra
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION QUINTA. De la Suspensión Temporal
+#### SECCION CUARTA. El Cambio de Adscripción
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 807.
 
@@ -14071,9 +14287,9 @@ LI.- Por las demás infracciones a la Ley o el presente Código que no ameriten 
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2019)</small>
 
-#### SECCION SEXTA. De la Pérdida de Grado
+#### SECCION QUINTA. De la Suspensión Temporal
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 809.
 
@@ -14199,9 +14415,9 @@ k) Por reincidir en faltas mostrándose incorregible, a pesar de que se le hayan
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION SEPTIMA. De la Destitución y Remoción
+#### SECCION SEXTA. De la Pérdida de Grado
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 810.
 
@@ -14219,9 +14435,9 @@ V.- Por requerirse para mantener una buena relación e imagen con la comunidad d
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2019)</small>
 
-#### SECCION PRIMERA. De las Faltas Contra la Seguridad Pública
+#### SECCION SEPTIMA. De la Destitución y Remoción
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 811.
 
@@ -14251,7 +14467,9 @@ IX.- Por cometer una falta que amerite destitución o remoción cuando el Consej
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION SEGUNDA. De las Faltas Contra la Tranquilidad Ciudadana
+#### SECCION PRIMERA. De las Faltas Contra la Seguridad Pública
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 812.
 
@@ -14259,9 +14477,7 @@ Se impondrá la sanción de perdida de grado cuando se niegue a asistir a los cu
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
-#### SECCION TERCERA. De las Faltas Contra la Salubridad General
-
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+#### SECCION SEGUNDA. De las Faltas Contra la Tranquilidad Ciudadana
 
 ###### ARTICULO 813.
 
@@ -26671,7 +26887,7 @@ Para los efectos de este capítulo son responsables las personas de once años o
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION CUARTA. De las Faltas Contra la Moral y el Civismo
+#### SECCION TERCERA. De las Faltas Contra la Salubridad General
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -26732,6 +26948,10 @@ XXV.- Oponerse, impedir o tratar de impedir que una autoridad municipal realice 
 XXVI.- Organizar o participar en peleas de animales no autorizadas.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE ABRIL DE 2006)</small>
+
+#### SECCION CUARTA. De las Faltas Contra la Moral y el Civismo
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 1932.
 
@@ -27628,6 +27848,22 @@ n) Por producir la muerte del animal por un medio que le cause dolor, sufrimient
 ñ) Por utilizar para el trabajo a los animales desnutridos, enfermos, cojos, heridos, con lesiones por mataduras o en etapa de gestación o aquellos impedidos para el trabajo debido a su poca o avanzada edad, y
 
 o) Por utilizar a los vehículos tirados por animales para trasladar mercancías, personas u objetos de un peso desproporcionado a la talla y condiciones del animal.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
+p) Por utilizar para el trabajo a los animales desnutridos, enfermos, cojos, heridos, con lesiones por mataduras o en etapa de gestación o aquellos impedidos para el trabajo debido a su poca o avanzada edad;
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
+q) Por utilizar a los vehículos tirados por animales para trasladar mercancías, personas u objetos de un peso desproporcionado a la talla y condiciones del animal;
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
+r) A los establecimientos comerciales y de servicios que entreguen al consumidor final, ya sea a título gratuito, de manera onerosa o con motivo de cualquier acto comercial bolsas, envases y embalajes de plástico, unicel y de otros materiales no reciclables utilizados en la prestación de sus servicios y que no acaten lo previsto en artículo 479 BIS, y
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
+s) Por detonar o encender cohetes, juegos pirotécnicos, o elevar aeróstatos en fiestas particulares, festividades religiosas, cívicas, políticas y sociales tanto públicas como privadas con excepción de lo previsto en artículo 683 BIS.
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -28852,5 +29088,21 @@ P.O. 4 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL CUAL SE REFORMA Y ADICIONA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGUASCALIENTES".]
 
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes-
+
+SEGUNDO.- Se derogan todas las disposiciones de carácter reglamentario municipal que se opongan a lo dispuesto en el presente acuerdo.
+
+P.O. 2 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE “REFORMAS AL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.”.]
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se derogan todas las disposiciones de carácter reglamentario municipal que se opongan a lo dispuesto en el presente acuerdo.
+
+P.O. 2 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.”.]
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Se derogan todas las disposiciones de carácter reglamentario municipal que se opongan a lo dispuesto en el presente acuerdo.
