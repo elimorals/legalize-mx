@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2019-11-04"
+last_updated: "2020-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -2731,7 +2731,9 @@ Para la reclusión preventiva y la ejecución de sentencias en materia de delinc
 
 Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de vinculación a proceso, en el que se expresará: el delito que se impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos suficientes que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
 
-El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva, oficiosamente, en los casos de homicidio doloso, violación, secuestro, delincuencia organizada, delitos cometidos con medios violentos como armas o explosivos, así como delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad y de la salud.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
+
+El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva, oficiosamente, en los casos de los delitos que establece la Constitución Federal, contemplando los delitos de competencia local.
 
 La ley determinará los casos en los cuales el Juez podrá revocar la libertad de los individuos vinculados a proceso.
 
@@ -2871,7 +2873,7 @@ e) AQUELLOS CUYO VALOR DE ADQUISICIÓN O VALOR DE MERCADO, CONJUNTA O INDIVIDUAL
 
 > <small>(ADICIONADO, P.O. 1 DE MAYO DE 2009)</small>
 
-Toda persona que se considere afectada podrá interponer los recursos respectivos para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para cono
+Toda persona que se considere afectada podrá interponer los recursos respectivos para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para conocer la utilización ilícita de sus bienes.
 
 (NOTA: EL 1 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS SUBAPARTADOS VIII.6.B., VIII.9. Y VIII.10., ASÍ COMO EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 169/2017, DECLARÓ LA INVALIDEZ DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE SEPTIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -4162,3 +4164,9 @@ Primero.- El presente Decreto entrará en vigor a partir del día siguiente de s
 Segundo.- El Estado cada año en la Ley de Egresos, deberá incluir una partida presupuestal destinada a los recursos que se eroguen al concepto de ciudad inteligente.
 
 Tercero.- Los Municipios en sus Presupuestos de Egresos, deberán aprobar una partida presupuestal destinada a los recursos que se eroguen al concepto de ciudad inteligente.
+
+P.O. 2 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 274. SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 18 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
