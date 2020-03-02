@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-para-los-servidores-publicos-de-la-comision-115
 country: "mx"
 rank: "codigo"
 publication_date: "2016-06-13"
-last_updated: "2016-06-13"
+last_updated: "2020-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE ETICA PARA LOS SERVIDORES PUBLICOS DE LA COMISION ESTATAL DE ARBITRAJE MEDICO PARA EL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL CÓDIGO DE ÉTICA DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO PARA EL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 2 DE MARZO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA PARA LOS SERVIDORES PÚBLICOS DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2020 (ABROGADO).
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de junio de 2016.
 
@@ -31,7 +33,9 @@ CÓDIGO DE ÉTICA
 
 CONSEJO DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO PARA EL ESTADO DE AGUASCALIENTES, con fundamento en el artículo 10 fracción II de la Ley que crea la Comisión Estatal de Arbitraje Médico para el Estado de Aguascalientes, así como la fracción VIII del artículo 41 de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, hemos tenido a bien expedir el "CÓDIGO DE ÉTICA PARA LOS SERVIDORES PÚBLICOS DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO PARA EL ESTADO DE AGUASCALIENTES", al tenor de los siguientes:
 
-C O N S I D E R A N D O S…
+C O N S I D E R A N D O S
+
+[...]
 
 Por lo anteriormente expuesto y fundado nos permitimos expedir el siguiente:
 
@@ -172,3 +176,17 @@ REPRESENTANTE DE LA ACADEMIA NACIONAL DE MEDICINA DE MÉXICO, A.C.
 Dr. Hugo Moreno Castanedo,
 
 REPRESENTANTE DEL CENTRO DE CIENCIAS BIOMÉDICAS DE LA UNIVERSIDAD AUTÓNOMA DE AGUASCALIENTES.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA PARA LOS SERVIDORES PÚBLICOS DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con fundamento en el Artículo Segundo Transitorio del "Acuerdo por el que se dan a conocer los Lineamientos para la Emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas", publicado el 12 de octubre de 2018 en el Diario Oficial de la Federación, y con la entrada en vigor del presente Acuerdo, se abroga el Acuerdo por el que se expide el Código de Ética para los Servidores Públicos de la Comisión Estatal de Arbitraje Médico Para el Estado de Aguascalientes, publicado en el Periódico Oficial del Estado de Aguascalientes en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, Tomo LXXIX, Número 24, el lunes 13 de junio de 2016.
