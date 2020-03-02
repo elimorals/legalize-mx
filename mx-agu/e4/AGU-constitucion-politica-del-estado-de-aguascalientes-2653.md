@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2020-01-13"
+last_updated: "2020-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -114,6 +114,10 @@ Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
 
 Toda persona tiene derecho a la protección de la salud. La Ley establecerá las bases y modalidades para el acceso a los servicios de salud y determinará la participación del Estado y sus Municipios en la materia.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
+Toda familia tiene derecho a disfrutar de una vivienda digna, decorosa, habitable y sustentable. Las leyes establecerán los instrumentos y apoyos necesarios a fin de que se propicie que las viviendas cumplan con una infraestructura y servicios públicos básicos adecuados y de calidad, contemplando los lineamientos que establecen los derechos fundamentales reconocidos por esta Constitución, la Constitución Política de los Estados Unidos Mexicanos, así como en los Tratados Internacionales que el Estado Mexicano sea parte.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -3312,3 +3316,11 @@ P.O. 13 DE ENERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 301.- ARTÍCULO ÚNICO.- SE ADICIONA UN PÁRRAFO DÉCIMO SEGUNDO AL ARTICULO 4º DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.- (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO).”]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
