@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-agropecuario-rural-y-sustentable-de-la-84078"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-08"
-last_updated: "2020-02-11"
+last_updated: "2020-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84078&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2011-12-07"
 
 LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE MARZO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de diciembre de 2011.
 
@@ -188,6 +188,14 @@ g) Utilizar sus propias tecnologías o la tecnología que escojan guiados por el
 
 h) Cultivar y desarrollar sus intercambios, dar o vender sus semillas;
 
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2020)</small>
+
+i) Fomentar la producción de pesticidas y plaguicidas orgánicos y naturales para la agricultura tradicional.
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2020)</small>
+
+j) Utilizar pesticidas y plaguicidas orgánicos y naturales que beneficien sus cultivos, que garanticen el derecho a una alimentación sana.
+
 IV. Para la producción agrícola las y los campesinos tienen derecho a:
 
 a) Obtener fondos para el desarrollo de la agricultura;
@@ -262,7 +270,17 @@ b) Rechazar cualquier forma de explotación que causen daños ambientales;
 
 c) Convenir y reclamar compensaciones por los daños ambientales;
 
-d) A ser indemnizados por la deuda ecológica y por el despojo histórico y actual de sus territorios.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2020)</small>
+
+d) A ser indemnizados por la deuda ecológica y por el despojo histórico y actual de sus territorios
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2020)</small>
+
+e) Rechazar la utilización de pesticidas y plaguicidas que no se encuentren validados por la autoridad competente, a fin de proteger la flora, fauna y la salud humana.
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2020)</small>
+
+f) Utilizar pesticidas y plaguicidas de origen orgánico y natural para la agricultura de esta ciudad.
 
 X. En el ejercicio de la libertad de asociación, opinión y expresión, las y los campesinos tienen derecho a:
 
@@ -339,6 +357,14 @@ XX. Conservar el conocimiento tradicional y los recursos fitogenéticos para la 
 > <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
 XXI. Impedir el uso de todo producto genéticamente modificado que pueda causar daño a los ecosistemas, a la salud y a la sociedad; se favorecerá el desarrollo de la agricultura orgánica;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2020)</small>
+
+XXI BIS. Vigilar que el uso de todo pesticida y plaguicida químico no cause daño a los ecosistemas, a la agricultura, a la salud y a la sociedad; que desfavorece el desarrollo de la agricultura orgánica;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2020)</small>
+
+XXI TER. Fomentar el conocimiento de pesticidas y plaguicidas de origen orgánico; a través del impulso y difusión de investigación científica en la materia, así como la información sobre los clasificados como dañinos por la autoridad competente, con el objetivo de preservar el ecosistema y proteger la salud humana.
 
 XXII. Crear espacios y módulos para las buenas prácticas agrícolas y su desarrollo;
 
@@ -493,6 +519,10 @@ En la planificación y realización de las acciones a cargo de las dependencias 
 ###### Artículo 17.
 
 La Secretaría promoverá la participación del Consejo Rural en la elaboración de los programas de desarrollo rural sustentable que tengan por objeto el desarrollo agropecuario y rural, según lo establecido en esta Ley, el Reglamento, la Ley Ambiental de Protección a la Tierra en el Distrito Federal y las demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2020)</small>
+
+Promoverá la valoración y estudio de pesticidas y plaguicidas de uso orgánico y natural, que se complementen con los programas de desarrollo rural sustentable para beneficio de desarrollo agropecuario y rural.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
 
@@ -1031,6 +1061,14 @@ SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicaci
 G.O. 11 DE FEBRERO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 4 FRACCIÓN I DE LA LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
