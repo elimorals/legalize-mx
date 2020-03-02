@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-561-de-transito-y-seguridad-vial-para-el-estado-1072
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-13"
-last_updated: "2020-02-27"
+last_updated: "2020-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 561 DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE MARZO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 13 de abril de 2015.
 
@@ -1711,9 +1711,13 @@ II. Graves, cuando sin poner en riesgo la vida, se afecten la integridad física
 
 III. Muy graves, cuando se actualice cualquiera de los siguientes supuestos:
 
-a) Cuando además de poner en peligro la vida o la integridad física, se ocasionen daños a más de una persona, o se afecte la vía pública o la infraestructura urbana, o
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2020)</small>
 
-b) Cuando se conduzca en estado de ebriedad. En ambos casos: de treinta y uno a cuarenta; y
+a) Cuando además de poner en peligro la vida o la integridad física, se ocasionen daños a más de una persona, o se afecte la vía pública o la infraestructura urbana, de treinta y uno a cuarenta; y
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2020)</small>
+
+b) Cuando se conduzca en estado de ebriedad, de ochenta a ciento quince; y
 
 IV. Especiales, cuando se actualice cualquiera de los siguientes supuestos:
 
@@ -1994,3 +1998,13 @@ Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
 Tercero. Se concede un plazo de noventa días naturales contado a partir del inicio de la vigencia del presente Decreto, para que el titular del Poder Ejecutivo del Estado realice las adecuaciones correspondientes al Reglamento de la Ley.
 
 Cuarto. Se concede un plazo de noventa días naturales contado a partir del inicio de la vigencia del presente Decreto, para· que los Ayuntamientos, cuyas disposiciones internas regulen lo establecido en este Decreto, realicen las adecuaciones correspondientes.
+
+G.O. 2 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 545 QUE REFORMA LOS INCISOS A) Y B) DE LA FRACCIÓN III DEL ARTÍCULO 153 DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. El Ejecutivo Estatal deberá emitir, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, las disposiciones reglamentarias que correspondan.
+
+Tercero. Se deroga cualquier disposición que contravenga el presente Decreto.
