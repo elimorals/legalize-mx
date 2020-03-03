@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2020-02-27"
+last_updated: "2020-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -60,6 +60,10 @@ El Municipio Libre es una entidad de carácter público, dotado de personalidad 
 ###### ARTICULO 4°.
 
 Para el cumplimiento de sus fines y aprovechamiento de sus recursos, los ayuntamientos formularán planes de desarrollo y programas de acuerdo con las leyes y reglamentos de la materia, buscando sin menoscabo de la autonomía municipal, la congruencia con las administraciones estatal y federal como elemento fundamental para el fortalecimiento del federalismo.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2020)</small>
+
+Asimismo, se deberá fomentar el uso adecuado de los recursos públicos, promoviendo el ahorro en consumibles e insumos; impulsando además el uso de cero papel; fortaleciendo la digitalización de trámites y el gobierno digital.
 
 ###### ARTICULO 5°.
 
@@ -3214,6 +3218,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 27 DE FEBRERO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0592.- SE REFORMA EL ARTÍCULO 77 EN SU FRACCIÓN III, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0598.- SE ADICIONA AL ARTÍCULO 4º EL PÁRRAFO SEGUNDO, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
