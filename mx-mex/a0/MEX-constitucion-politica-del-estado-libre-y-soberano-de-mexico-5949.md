@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2019-07-15"
+last_updated: "2020-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MARZO DE 2020.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -286,6 +286,10 @@ El Estado de México podrá celebrar convenios con otras entidades federativas y
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2016)</small>
 
 El sistema integral de justicia para adolescentes del Estado de México, será aplicable a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito y tengan entre doce años cumplidos y menos de dieciocho años de edad. Este sistema garantizará los derechos humanos que reconoce la Constitución para toda persona, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos a los adolescentes. Las personas menores de doce años a quienes se atribuya que han cometido o participado en un hecho que la ley señale como delito, sólo podrán ser sujetos de asistencia social.
+
+> <small>(ADICIONADO, G.G. 3 DE MARZO DE 2020)</small>
+
+Todo individuo tiene derecho a recibir educación. El Estado de México y los Municipios impartirán educación inicial, preescolar, primaria, secundaria, media superior y superior de forma obligatoria para todos los mexiquenses.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -590,6 +594,22 @@ En el Estado de México toda persona tiene derecho al acceso y disposición de a
 > <small>(ADICIONADO, G.G. 21 DE JULIO DE 2011)</small>
 
 La Legislatura del Estado establecerá en la Ley la existencia de un organismo en materia de agua, integrado por un Comisionado Presidente aprobado por la Legislatura a propuesta del Gobernador, por representantes del Ejecutivo del Estado, de los municipios y por ciudadanos, el cual regulará y propondrá los mecanismos de coordinación para la prestación del servicio de agua potable, alcantarillado, saneamiento, tratamiento y disposición de aguas residuales y, en general, el mejoramiento de la gestión integral del agua en beneficio de la población.
+
+> <small>(ADICIONADO, G.G. 3 DE MARZO DE 2020)</small>
+
+Esta Constitución reconoce a los animales como seres sintientes y, por lo tanto, deben recibir trato digno.
+
+> <small>(ADICIONADO, G.G. 3 DE MARZO DE 2020)</small>
+
+En el Estado de México, toda persona tiene un deber ético y obligación jurídica de respetar la vida y la integridad de los animales; éstos, por su naturaleza son sujetos de consideración moral.
+
+> <small>(ADICIONADO, G.G. 3 DE MARZO DE 2020)</small>
+
+Su tutela es de responsabilidad común.
+
+> <small>(ADICIONADO, G.G. 3 DE MARZO DE 2020)</small>
+
+Las autoridades del Estado de México garantizarán la protección, el bienestar, así como el trato digno y respetuoso a los animales y fomentarán una cultura de cuidado y tutela responsable. Asimismo, diseñarán estrategias para la atención de animales en abandono.
 
 > <small>(REFORMADO, G.G. 16 DE MAYO DE 2001)</small>
 
@@ -4676,3 +4696,23 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO. Los procedimientos y actividades que se hayan iniciado previo a la entrada en vigor del presente Decreto, en relación con las disposiciones del mismo, deberán tramitarse hasta su conclusión en los términos de las normas que estuvieron vigentes en su inicio.
+
+G.G. 3 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 131.- POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 3 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 132.- POR EL QUE SE ADICIONAN LOS PÁRRAFOS SÉPTIMO, OCTAVO, NOVENO Y DÉCIMO AL ARTÍCULO 18 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
