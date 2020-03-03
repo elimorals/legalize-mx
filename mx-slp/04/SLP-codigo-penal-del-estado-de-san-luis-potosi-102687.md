@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2019-12-27"
+last_updated: "2020-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2020.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -543,9 +543,9 @@ Formas de ejecución de la reparación del daño
 
 El pago de la reparación del daño puede ser negociado entre la víctima u ofendido, las personas morales que hubieren realizado erogaciones con motivo del hecho ilícito y el imputado o sentenciado, pero éste no obtendrá el beneficio de la suspensión condicional hasta en tanto se dé por satisfecha la reparación del daño.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2020)</small>
 
-Una vez decretado en sentencia firme, el cobro de la reparación del daño se hará efectivo por la Autoridad Fiscal correspondiente, mediante el procedimiento administrativo de ejecución, pues adquiere el carácter de crédito fiscal.
+Una vez decretado en sentencia firme, el cobro de la reparación del daño se hará efectivo con arreglo a lo dispuesto por la Ley Nacional de Ejecución Penal; en su caso, el Código de Procedimientos Penales del Estado; la Ley Orgánica del Poder Judicial del Estado; y demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 44.
 
@@ -4157,7 +4157,9 @@ VI. Tiene obligación por razón de su empleo, cargo o comisión, de custodiar, 
 
 VII. Otorga empleo, cargo o comisión públicos, o celebra contratos de prestación de servicios profesionales, mercantiles o de cualquier otra naturaleza, en ejercicio de sus funciones o con motivo de ellas, que sean remunerados, a sabiendas de que no se prestará el servicio para el que se le nombró, o no se cumplirá el contrato otorgado;
 
-VIII. Omita la remisión en tiempo y forma establecidos en la ley, de las cuentas públicas en los términos del artículo 38 de la Ley de Auditoría Superior del Estado de San Luis Potosí, y
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2020)</small>
+
+VIII. Omita la remisión en tiempo y forma establecidos en la ley de las cuentas públicas, en los términos del artículo 12 de la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí, y
 
 IX. Omita, de acuerdo a sus atribuciones, en términos de los artículos, 127 de la Constitución Política de los Estados Unidos Mexicanos; y 133 de la Constitución Política del Estado, cualquiera de las siguientes conductas:
 
@@ -5272,5 +5274,21 @@ P.O. 27 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0455.- SE REFORMAN LOS ARTÍCULOS 83 Y 84 DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES; Y SE REFORMA, DE LA PARTE ESPECIAL, LA DENOMINACIÓN DEL TÍTULO DÉCIMO QUINTO Y DEL CAPÍTULO V; ASÍ COMO LOS ARTÍCULOS 309 Y 317; Y ADICIONA AL ARTÍCULO 311 EL PÁRRAFO TERCERO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0596.- SE REFORMA EL ARTÍCULO 43 EN SU PÁRRAFO SEGUNDO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0597.- SE REFORMA EL ARTÍCULO 323 EN SU FRACCIÓN VIII, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
