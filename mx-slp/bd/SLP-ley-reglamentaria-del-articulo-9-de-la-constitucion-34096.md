@@ -4,7 +4,7 @@ identifier: "SLP-ley-reglamentaria-del-articulo-9-de-la-constitucion-34096"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-13"
-last_updated: "2017-11-30"
+last_updated: "2020-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY REGLAMENTARIA DEL ARTÍCULO 9° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, SOBRE DERECHOS Y CULTURA INDÍGENAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 13 de septiembre de 2003.
 
@@ -375,13 +375,17 @@ La vigilancia y control de las partidas presupuestales administradas directament
 
 El Sistema Estatal para el Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas, es la instancia de coordinación, concertación y consulta en la que participan los diversos órganos de gobierno, estatal y municipales, y las comunidades indígenas, para el desarrollo de sus pueblos. En todo caso, este Sistema Estatal coordinará sus programas y acciones con las autoridades comunitarias.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2020)</small>
 
-El Poder Ejecutivo del Estado será la instancia responsable de la instalación y funcionamiento del Sistema Estatal para el Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas, a través de la Coordinación para la Atención de los Pueblos Indígenas. Las atribuciones de este sistema, su forma de integrarse y de funcionar, estarán previstas en el Reglamento que para tal efecto expida el Ejecutivo del Estado.
+El Poder Ejecutivo del Estado será la instancia responsable de la instalación y funcionamiento del Sistema Estatal para el Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas, a través del Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas. Las atribuciones de este sistema, su forma de integrarse y de funcionar, estarán previstas en el Reglamento que para tal efecto expida el Ejecutivo del Estado.
 
 ###### ARTICULO 61.
 
 El Sistema Estatal para el Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas, definirá un modelo de política de estado orientada a promover el desarrollo, la participación y la consulta directa de los pueblos y comunidades indígenas, facilitando la concurrencia de la acción pública, del gobierno y la sociedad en su conjunto.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2020)</small>
+
+La consulta directa se realizará conforme a los lineamientos señalados en la Ley de Consulta Indígena para el Estado y Municipios de San Luis Potosí.
 
 ###### ARTICULO 62.
 
@@ -492,3 +496,11 @@ PRIMERO. Este Decreto deberá ser publicado en español; tének, náhuatl; y Xi'
 SEGUNDO. El Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado de San Luis Potosí, deberá difundir el presente Decreto entre los pueblos y las comunidades indígenas, en un plazo máximo de noventa días contados a partir de su entrada en vigor.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 3 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL ”DECRETO 0599.- SE REFORMA EL ARTÍCULO 60 EN SU PÁRRAFO SEGUNDO; Y ADICIONA AL ARTÍCULO 61 EL PÁRRAFO SEGUNDO, DE LA LEY REGLAMENTARIA DEL ARTÍCULO 9º DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, SOBRE LOS DERECHOS Y LA CULTURA INDÍGENA”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que opongan al presente Decreto.
