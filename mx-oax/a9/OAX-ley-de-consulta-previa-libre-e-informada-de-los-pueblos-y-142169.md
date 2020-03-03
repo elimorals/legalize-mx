@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-consulta-previa-libre-e-informada-de-los-pueblos-y-14216
 country: "mx"
 rank: "ley"
 publication_date: "2020-02-22"
-last_updated: "2020-02-22"
+last_updated: "2020-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142169&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY DE CONSULTA PREVIA, LIBRE E INFORMADA DE LOS PUEBLOS Y COMUNIDADES INDIGENAS Y AFROMEXICANAS PARA EL ESTADO DE OAXACA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE MARZO DE 2020 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE CONSULTA PREVIA, LIBRE E INFORMADA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS PARA EL ESTADO DE OAXACA
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE MARZO DE 2020.]
 
 Ley publicada en la Cuarta Sección al Número 8 del Periódico Oficial del Estado de Oaxaca, el sábado 22 de febrero de 2020.
 
@@ -845,6 +845,26 @@ PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación 
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido de la presente Ley.
 
-"Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 22 de enero de 2020.- Dip. Jorge Octavio Villacaña Jiménez, Presidente.- Dip. Migdalia Espinosa Manuel, Secretaria.- Dip. Inés Leal Peláez, Secretaria.- Dip. Saul Cruz Jiménez, Secretario.- Rúbricas."
+> <small>(F. DE E., P.O. 3 DE MARZO DE 2020)</small>
+
+TERCERO. El Titular del Poder Ejecutivo del Estado de Oaxaca dispondrá que el texto íntegro de la presente Ley se traduzca a las lenguas de los pueblos indígenas del Estado y ordenará su difusión culturalmente adecuada en todas sus comunidades.
+
+> <small>(F. DE E., P.O. 3 DE MARZO DE 2020)</small>
+
+CUARTO. El Congreso del Estado de Oaxaca deberá realizar las reformas al marco normativo del Estado, para adecuarlo a la presente Ley en un plazo de seis meses.
+
+> <small>(F. DE E., P.O. 3 DE MARZO DE 2020)</small>
+
+QUINTO. Los demás Poderes del Estado y los Órganos Autónomos del Estado de Oaxaca, armonizarán su marco normativo con lo establecido en la presente Ley en un plazo de seis meses.
+
+> <small>(F. DE E., P.O. 3 DE MARZO DE 2020)</small>
+
+SEXTO. El Titular del Poder Ejecutivo del Estado de Oaxaca, a través de la Secretaría de Finanzas, a la entrada en vigor de la presente Ley, deberán asignar los recursos financieros necesarios y suficientes a la Secretaría de Pueblos Indígenas y Afromexicano, a la Defensoría de los Derechos Humanos del Pueblo de Oaxaca y al Poder Judicial del Estado de Oaxaca, quien deberá destinarlo exclusivamente a la Sala de Justicia Indígena, para el debido cumplimiento de lo establecido en esta Ley.
+
+> <small>(F. DE E., P.O. 3 DE MARZO DE 2020)</small>
+
+"Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 22 de enero de 2020.- Dip. Jorge Octavio Villacaña Jiménez, Presidente.- Dip. Migdalia Espinosa Manuel, Secretaria.- Dip. Inés Leal Peláez, Secretaria.- Dip. Saul Cruz
+
+> <small>(F. DE E., P.O. 3 DE MARZO DE 2020)</small>
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 23 de enero de 2020. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
