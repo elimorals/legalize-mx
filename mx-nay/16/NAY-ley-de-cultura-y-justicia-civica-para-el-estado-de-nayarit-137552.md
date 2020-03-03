@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-cultura-y-justicia-civica-para-el-estado-de-nayarit-1375
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-05"
-last_updated: "2019-06-05"
+last_updated: "2020-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,17 +21,17 @@ state: "NAY"
 ---
 # LEY DE CULTURA Y JUSTICIA CIVICA PARA EL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE MARZO DE 2020 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE CULTURA Y JUSTICIA CÍVICA PARA EL ESTADO DE NAYARIT
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE MARZO DE 2020.]
 
 Ley publicada en la Sección Sexta al Número 109 del Periódico Oficial del Estado de Nayarit, el miércoles 5 de junio de 2019.
 
 Al margen un Sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Nayarit.
 
-"Año 2019, Centenario de la Inmortalidad del Bardo Nayarita y Poeta Universal Amado Nervo" L.C. ANTONIO ECHEVARRÍA GARCÍA, Gobernador Constitucional del Estado Libre y Soberano de Nayarit, a los habitantes del mismo, sabed:
+“Año 2019, Centenario de la Inmortalidad del Bardo Nayarita y Poeta Universal Amado Nervo” L.C. ANTONIO ECHEVARRÍA GARCÍA, Gobernador Constitucional del Estado Libre y Soberano de Nayarit, a los habitantes del mismo, sabed:
 
 Que el H. Congreso Local, se ha servido dirigirme para su promulgación, el siguiente:
 
@@ -321,6 +321,8 @@ Sólo se conmutará el arresto si, además de los requisitos que señala esta Le
 
 En el supuesto de la fracción XIV de este artículo, si con los elementos de prueba ofrecidos por las partes o personas allegadas al Juez o Jueza no es posible determinar quién es la persona responsable del daño causado, no se aplicará multa alguna y se devolverán los vehículos, quedando a salvo los derechos de las partes para hacerlos valer por la vía procedente.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 3 DE MARZO DE 2020, PÁGINA 2.]</small>
+
 ###### Artículo 15.
 
 Son infracciones contra el entorno urbano:
@@ -347,17 +349,21 @@ X. Arrojar en la vía pública desechos, sustancias peligrosas para la salud de 
 
 XI. Ingresar a zonas señaladas como de acceso restringido en los lugares o inmuebles destinados a servicios públicos, sin la autorización correspondiente o fuera de los horarios establecidos;
 
-XII. Cubrir, borrar, pintar, alterar o desprender los letreros, señales, números o letras que identifiquen vías, inmuebles y lugares públicos;
+> <small>(F. DE E., P.O. 3 DE MARZO DE 2020)</small>
 
-XIII. Pintar, adherir, colgar o fijar anuncios o cualquier tipo de propaganda en elementos del equipamiento urbano, del mobiliario urbano, de ornato o árboles, sin autorización para ello, y
+XII. Cubrir, borrar, pintar, alterar o desprender los letreros, señales, números o letras que identifiquen vías, inmuebles y lugares públicos, y
 
-XIV. Colocar transitoriamente o fijar, sin autorización para ello, elementos destinados a la venta de productos o prestación de servicios.
+> <small>(F. DE E., P.O. 3 DE MARZO DE 2020)</small>
+
+XIII. Pintar, adherir, colgar o fijar anuncios o cualquier tipo de propaganda en elementos del equipamiento urbano, del mobiliario urbano, de ornato o árboles, sin autorización para ello.
 
 Las infracciones establecidas en las fracciones I a IV, VI y VII se sancionarán con multa de 11 a 20 veces la UMA o con arresto de 13 a 24 horas.
 
 La fracción V y VIII, se sancionará con multa de 21 a 40 veces la UMA o con arresto de 25 a 36 horas.
 
-Las infracciones establecidas en las fracciones IX a XIV se sancionarán con multa de 21 a 30 veces la UMA o con arresto de 25 a 36 horas.
+> <small>(F. DE E., P.O. 3 DE MARZO DE 2020)</small>
+
+Las infracciones establecidas en las fracciones IX a XIII se sancionarán con multa de 21 a 30 veces la UMA o con arresto de 25 a 36 horas.
 
 En los casos que el juez lo considere, además de las sanciones interpuestas, se exigirá la reparación del daño al infractor en la medida que la reparación sea posible.
 
