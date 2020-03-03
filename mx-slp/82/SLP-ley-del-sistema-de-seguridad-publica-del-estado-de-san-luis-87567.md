@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2020-02-27"
+last_updated: "2020-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -907,9 +907,11 @@ Los integrantes de las instituciones de seguridad podrán ser separados de su ca
 
 Las instituciones de seguridad pública sólo estarán obligadas a una indemnización equivalente a tres meses del último salario percibido, y al otorgamiento de las partes proporcionales de las prestaciones a que tenga derecho la persona separada o removida; tal circunstancia será inscrita en el Registro Nacional correspondiente.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2020)</small>
+
 ###### ARTICULO 55.
 
-Las autoridades y los elementos de seguridad pública, estatales y municipales, por sí o de manera coordinada podrán establecer fondos de apoyo para en casos emergentes auxiliar económicamente a los propios elementos o a sus familias, cuyos porcentajes de aportación y su administración serán establecidos en el Reglamento correspondiente.
+Las autoridades y los elementos de seguridad pública, estatales y municipales, por sí o de manera coordinada, podrán establecer fondos de apoyo para en casos emergentes o de muerte de los elementos, auxiliar económicamente a los propios elementos o a sus familias, cuyos porcentajes de aportación y su administración serán establecidos en el Reglamento correspondiente.
 
 ### Capítulo II. De sus Obligaciones
 
@@ -2812,5 +2814,13 @@ P.O. 27 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL " DECRETO 0587.- SE ADICIONA AL ARTÍCULO 31 EL PÁRRAFO SEGUNDO, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se oponen al presente Decreto.
+
+P.O. 3 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0600.- SE REFORMA EL ARTÍCULO 55, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se oponen al presente Decreto.
