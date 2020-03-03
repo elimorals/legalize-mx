@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-residuos-solidos-del-distrito-63479"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-07"
-last_updated: "2020-02-20"
+last_updated: "2020-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63479&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2008-09-29"
 
 REGLAMENTO DE LA LEY DE RESIDUOS SOLIDOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE FEBRERO DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 20 DE FEBRERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE MARZO DE 2020.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 7 de octubre de 2008.
 
@@ -818,11 +816,27 @@ c) (DEROGADO, G.O. 19 DE FEBRERO DE 2020)
 
 II. Por motivos de inocuidad, salud, salubridad, sanidad, que prevengan el desperdicio de alimentos, uso médico y seguridad de otros productos; siempre y cuando, no existan alternativas compostables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE FEBRERO DE 2020)</small>
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], G.O. 3 DE MARZO DE 2020)</small>
+
+Las bolsas de plástico permitidas por razones de inocuidad, salud, salubridad, sanidad y que prevengan el desperdicio de alimentos, son aquellas necesarias para el manejo de los siguientes productos alimenticios:
+
+a) Carne fresca de res, cerdo, pollo, pescado o cualquier otro tipo de carne fresca;
+
+b) Otros productos animales como manteca de cerdo o vísceras;
+
+c) Productos cárnicos como jamón, salchichas, chorizo, mortadela, tocino o carnes frías similares; y
+
+d) Productos lácteos como quesos, cremas y requesón.
+
+> <small>(ADICIONADO, G.O. 3 DE MARZO DE 2020)</small>
+
+En el caso de alimentos tales como frutas, verduras, hierbas, semillas, cereales, chiles secos o similares, queda prohibido se expendan en bolsas de plástico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE MARZO DE 2020)</small>
 
 ###### Artículo 35 Quáter.
 
-Se podrán comercializar, distribuir o entregar, bolsas para transportar mercancías: de tela, tela no tejida de polipropileno, tela tejida de polipropileno, yute, rafia (tipo costal), plástico tejido o no tejido o malla, y otras que la Secretaría determine; siempre y cuando sean durables y puedan reutilizarse en múltiples ocasiones. Las bolsas de plástico reutilizables, consideradas en el presente artículo, deberán contener un mínimo de 50% de material reciclado post-consumo y ser 100% reciclables.
+Se podrán comercializar, distribuir o entregar bolsas para transportar mercancías de: tela, tela no tejida de polipropileno, tela tejida de polipropileno, yute, rafia (tipo costal), malla y otras que la Secretaría determine; siempre y cuando sean durables y puedan reutilizarse en múltiples ocasiones. Las bolsas de plástico reutilizables, consideradas en el presente artículo, deberán contener un mínimo de 50% de material reciclado post-consumo y ser 100% reciclables.
 
 > <small>(ADICIONADO, G.O. 2 DE ENERO DE 2020)</small>
 
@@ -1665,3 +1679,9 @@ G.O. 20 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DE LA "FE DE ERRATAS AL DECRETO POR EL QUE SE REFORMAN ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DEL REGLAMENTO DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL, PUBLICADO EN EL EJEMPLAR 286 BIS DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DE FECHA 19 DE FEBRERO DE 2020"]
 
 Único.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 3 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL REGLAMENTO DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL”.]
+
+ÚNICO.- Publíquese la (sic) presente Decreto en la Gaceta Oficial de la Ciudad de México.
