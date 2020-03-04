@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2020-02-19"
+last_updated: "2020-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "CHH"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
+(NOTA: EL 10 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 201/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFCNT/0512/2019 I P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA EL CUATRO DE MARZO DE DOS MIL VEINTE, LA CUAL SURTIRÁ SUS EFECTOS EL 11 DE NOVIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2020.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -301,7 +303,11 @@ Los pueblos indígenas, a través de sus comunidades, operan sus sistemas de jus
 
 En todos los juicios y procedimientos del orden jurisdiccional en los que sean parte los pueblos o las personas indígenas, se considerarán sus Sistemas Normativos Internos.
 
-Así mismo, el Estado debe asistirlos, en todo tiempo, con traductores, intérpretes y defensores con dominio de su lengua, conocimiento de su cultura y del Derecho Indígena.
+(NOTA: EL 10 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 201/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFCNT/0512/2019 I P.O., POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 11 DE NOVIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2020)</small>
+
+ASÍ MISMO, EL ESTADO DEBE ASISTIRLOS, EN TODO TIEMPO, CON PERSONAS TRADUCTORAS, INTÉRPRETES Y DEFENSORAS CON DOMINIO DE SU LENGUA, CONOCIMIENTO DE SU CULTURA Y DEL DERECHO INDÍGENA, ESTABLECIENDO PARA ELLO LAS INSTANCIAS ESPECIALIZADAS CORRESPONDIENTES.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2012)</small>
 
@@ -5258,6 +5264,20 @@ P.O. 19 DE FEBRERO DE 2020.
 ###### ARTÍCULO PRIMERO.
 
 Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y de los debates a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su momento, hágase el cómputo de los votos de los Ayuntamientos y la declaratoria de haber sido aprobada la presente reforma.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+(NOTA: EL 10 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 201/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFCNT/0512/2019 I P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA EL CUATRO DE MARZO DE DOS MIL VEINTE, LA CUAL SURTIRÁ SUS EFECTOS EL 11 DE NOVIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+P.O. 4 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVI/RFCNT/0512/2019 I P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 9, PÁRRAFO CUARTO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma constitucional.
 
 ###### ARTÍCULO SEGUNDO.
 
