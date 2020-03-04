@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2019-05-24"
+last_updated: "2020-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -1027,11 +1027,27 @@ III. De tránsito.
 
 Para mayor eficacia de las acciones a que se refiere este artículo, se creará el Consejo Estatal para la Prevención de Accidentes, del que formarán parte representantes de los sectores público, social y privado del Estado, dicho Consejo, se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE MARZO DE 2020)</small>
+
+### CAPÍTULO IV. DEL PROGRAMA ESTATAL PARA LA PREVENCIÓN Y ATENCIÓN DEL USO NOCIVO DE LAS TECNOLOGÍAS DE LA INFORMACIÓN Y DE LA COMUNICACIÓN
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2020)</small>
+
+###### Artículo 73 Bis.
+
+La Secretaría de Salud en el ámbito de su competencia, se coordinará con las instituciones de educación y organismos de los sectores privado y social, para el diseño y ejecución del Programa Estatal para la Prevención y Atención del Uso Nocivo de las Tecnologías de la Información y de la Comunicación, a través de las siguientes acciones:
+
+I. La prevención del uso indebido de las nuevas tecnologías;
+
+II. La implementación de acuerdos destinados a los centros escolares y padres de familia, cuyo objetivo sea conocer el uso adecuado de las nuevas tecnologías y los riesgos y consecuencias de su uso indebido;
+
+III. Generar los espacios de atención en salud para la detección, orientación y tratamiento de las personas con problemas derivados del uso nocivo de las nuevas tecnologías; y
+
+IV. Proponer el establecimiento de medidas de protección a favor de los menores de edad ante situaciones de afectación a su derecho humano al sano desarrollo.
 
 ## TÍTULO QUINTO. PRESTACIÓN DE LOS SERVICIOS DE SALUD
 
-### CAPÍTULO II. LA ATENCIÓN MATERNO-INFANTIL
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### Artículo 74.
 
@@ -1065,7 +1081,7 @@ II. Curativas, que tiene como fin efectuar un diagnóstico temprano y proporcion
 
 III. De rehabilitación, que incluyen acciones tendientes a corregir las discapacidades.
 
-### CAPÍTULO III. DE LOS SERVICIOS DE PLANIFICACIÓN FAMILIAR
+### CAPÍTULO II. LA ATENCIÓN MATERNO-INFANTIL
 
 ###### Artículo 77.
 
@@ -1129,11 +1145,11 @@ En materia de higiene escolar, corresponde a las autoridades sanitarias establec
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias y educativas competentes.
 
+### CAPÍTULO III. DE LOS SERVICIOS DE PLANIFICACIÓN FAMILIAR
+
 ### CAPÍTULO IV. DE LA SALUD MENTAL
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-### CAPÍTULO V. DE LA SALUD PÚBLICA
 
 ###### Artículo 83.
 
@@ -1171,17 +1187,17 @@ Los Comités de Salud a que se refiere el artículo 137 de esta Ley, promoverán
 
 El Gobierno del Estado coadyuvará con la Secretaría de Salud, en las acciones de los programas Nacional y Estatal de planificación familiar formulados por los Consejos Nacional y Estatal de Población respectivamente, así como del elaborado sobre esta materia por el Sector Salud, buscando su incorporación al Programa Estatal de Salud.
 
+### CAPÍTULO V. DE LA SALUD PÚBLICA
+
 ### CAPÍTULO VI. DE LA ASISTENCIA SOCIAL
 
 ### CAPÍTULO VII. DE LOS PRESTADORES DE LOS SERVICIOS DE SALUD
-
-### CAPÍTULO ÚNICO
 
 ###### Artículo 87.
 
 Las disposiciones relativas a las atribuciones de las autoridades y los derechos y obligaciones en materia de salud mental, serán reguladas por la Ley especifíca que al efecto se emita.
 
-### CAPÍTULO I. DE LOS USUARIOS DE LOS SERVICIOS DE SALUD
+### CAPÍTULO ÚNICO
 
 ###### Artículo 88.
 
@@ -1203,7 +1219,7 @@ Las disposiciones relativas a las atribuciones de las autoridades y los derechos
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
-### CAPÍTULO II. DE LA PARTICIPACIÓN DE LA COMUNIDAD
+### CAPÍTULO I. DE LOS USUARIOS DE LOS SERVICIOS DE SALUD
 
 ###### Artículo 93.
 
@@ -1211,7 +1227,45 @@ Salud pública es la ciencia y el arte de prevenir la enfermedad, prolongar la v
 
 Se consideran acciones de salud pública, entre otras, el saneamiento del medio, la prevención, control de enfermedades y accidentes, promoción de la salud, control y vigilancia sanitaria.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2020)</small>
+
+###### Artículo 93 Bis.
+
+En todo edificio público o privado donde se concentre un alto flujo de personas, se deberá instalar desfibriladores automáticos externos conforme a los parámetros siguientes:
+
+I. Un desfibrilador automático externo, si el inmueble o evento cuenta con un flujo de entre 500 y 5,000 usuarios;
+
+II. Dos desfibriladores automáticos externos, si el inmueble o evento cuenta con un flujo de entre 5,001 y 10,000 usuarios;
+
+III. Tres desfibriladores automáticos externos, si el inmueble o evento cuenta con un flujo de entre 10,001 y 15,000 usuarios; y
+
+IV. Cuatro desfibriladores automáticos externos, si el inmueble o evento cuenta con un flujo de entre 15,001 y 25,000 usuarios.
+
+En los casos donde en el inmueble o evento exista una mayor concentración a las ya referidas, el número de desfibriladores automáticos externos irá en aumento, conforme a lo dispuesto en el Reglamento que al efecto expida el titular del Poder Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2020)</small>
+
+###### Artículo 93 Bis 1.
+
+Los administradores de los inmuebles y los responsables de los eventos públicos y privados que sean reconocidos por la Secretaría de Salud, serán los encargados de:
+
+I. El buen uso y mantenimiento que se le dé a los desfibriladores automáticos externos para que estos se encuentren siempre en óptimas condiciones para su utilización; y
+
+II. Contar dentro del personal a su cargo, con personas capacitadas en el uso de los desfibriladores automáticos externos e instruidos en las técnicas de reanimación cardiopulmonar.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2020)</small>
+
+###### Artículo 93 Bis 2.
+
+Los gastos que se generen por la compra, instalación y mantenimiento de los desfibriladores automáticos externos, así como por la capacitación del personal para su uso, serán sufragados por los responsables de la administración de los inmuebles y de los eventos que fueron considerados por parte de la Secretaría de Salud.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2020)</small>
+
+###### Artículo 93 Bis 3.
+
+En caso de incumplir con la compra, instalación y mantenimiento de los desfibriladores automáticos externos, así como por la capacitación del personal para su uso, por parte de los responsables a que hace referencia el artículo 93 Bis 2 de esta Ley, la Secretaría de Salud girarán (sic) un apercibimiento para que un plazo no mayor a diez días hábiles, contados a partir de su notificación cumplan con la obligación; en caso de omisión se procederá a la clausura del inmueble respectivo.
+
+### CAPÍTULO II. DE LA PARTICIPACIÓN DE LA COMUNIDAD
 
 ###### Artículo 94.
 
@@ -1255,7 +1309,7 @@ VII. La promoción de la educación y la capacitación para el trabajo, así com
 
 La atención médica que se preste a los adultos mayores deberá cumplir con los criterios establecidos en la Ley de Integración Social de Personas con Discapacidad del Estado, las Normas Oficiales Mexicanas y demás disposiciones legales aplicables, e incluirá programas educativos y de promoción de la salud.
 
-### CAPÍTULO II. DEL CONSEJO ESTATAL DE TRASPLANTES DE ÓRGANOS Y TEJIDOS HUMANOS DE SINALOA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 98.
 
@@ -1269,9 +1323,11 @@ III. Servicios sociales y privados, sea cual fuere la forma en que se contraten;
 
 IV. Otros que se presten de conformidad con lo que establezca la autoridad sanitaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2020)</small>
+
 ###### Artículo 99.
 
-Son servicios públicos a la población en general los que se presten en establecimientos públicos de salud a los habitantes del Estado de Sinaloa, que así lo requieran, regidos por criterios de universalidad y de gratuidad fundada en las condiciones socioeconómicas de los usuarios. Estos servicios públicos en su nivel de urgencia y elementales serán proporcionados por la clínica del IMSS, ISSSTE o DIF de la localidad, cuando la Secretaría de Salud no cuente con instalaciones en la comunidad.
+Son servicios públicos a la población en general los que se presten en establecimientos públicos de salud a los habitantes del Estado de Sinaloa, que así lo requieran, preferentemente a favor de personas pertenecientes a grupos sociales en situación de vulnerabilidad, regidos por criterios de universalidad y de gratuidad fundada en las condiciones socioeconómicas de los usuarios. Estos servicios públicos en su nivel de urgencia y elementales serán proporcionados por la clínica del IMSS, ISSSTE o DIF de la localidad, cuando la Secretaría de Salud no cuente con instalaciones en la comunidad.
 
 Los prestadores de servicios públicos de salud cumplirán, en la atención de los usuarios, con los criterios de calidad y oportunidad que se establecen en las Normas Oficiales Mexicanas.
 
@@ -1298,6 +1354,18 @@ Son servicios a derechohabientes los prestados por las instituciones a que se re
 ###### Artículo 104.
 
 Los servicios de salud que presten las entidades públicas o empresas privadas a sus empleados y a los beneficiarios de los mismos, con recursos propios o mediante la contratación de seguros individuales o colectivos, se regirán por los convenios entre prestadores y usuarios, sin perjuicio de lo que establezcan las disposiciones de esta Ley y demás normas aplicables a las instituciones de salud respectivas.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2020)</small>
+
+###### Artículo 104 Bis.
+
+Los establecimientos para la atención médica, del sector público, social o privado del sistema estatal de salud, además de los señalados en el artículo 174 Bis de la presente Ley, y de acuerdo con su grado de complejidad y nivel de resolución, contarán con los siguientes comités:
+
+I. Un Comité Hospitalario de Bioética para la resolución de los problemas derivados de la atención médica a que se refiere el artículo 76 de esta Ley; así como para el análisis, discusión y apoyo en la toma de decisiones respecto a los problemas bioéticos que se presenten en la práctica clínica o en la docencia que se imparte en el área de salud, así como promover la elaboración de lineamientos y guías éticas institucionales para la atención y la docencia médica. Asimismo, promoverá la educación bioética permanentemente de sus miembros y del personal del establecimiento; y
+
+II. En los casos de establecimientos de atención médica que lleven a cabo actividades de investigación en seres humanos, un Comité de Ética en Investigación que será responsable de evaluar y dictaminar los protocolos de investigación en seres humanos, formulando las recomendaciones de carácter ético que correspondan, así como de elaborar lineamientos y guías éticas institucionales para la investigación en salud, debiendo dar seguimiento a sus recomendaciones.
+
+Los Comités Hospitalarios de Bioética y de Ética en la Investigación, se sujetarán a la legislación vigente y a los criterios que establezcan la Comisión Estatal de Bioética y la Comisión Nacional de Bioética. Serán interdisciplinarios y deberán estar integrados por personal médico de distintas especialidades y por personas de las profesiones de psicología, enfermería, trabajo social, sociología, antropología, filosofía o derecho que cuenten con capacitación en bioética, siendo imprescindible contar con representantes del núcleo afectado o de personas usuarias de los servicios de salud, hasta el número convenido de sus miembros, guardando equilibrio de género, quienes podrán estar adscritos o no a la unidad de salud o establecimiento.
 
 ###### Artículo 105.
 
@@ -1329,7 +1397,7 @@ La Secretaría de Salud, en coordinación con la Dirección de Profesiones, vigi
 
 ## TÍTULO SEXTO. DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO
 
-### CAPÍTULO III. DEL REGISTRO ESTATAL DE DONADORES
+### CAPÍTULO II. DEL CONSEJO ESTATAL DE TRASPLANTES DE ÓRGANOS Y TEJIDOS HUMANOS DE SINALOA
 
 ###### Artículo 110.
 
@@ -1547,7 +1615,7 @@ La estructura orgánica interna de la Comisión será la que fije su Reglamento 
 
 ## TÍTULO SÉPTIMO. DE LOS USUARIOS DE LOS SERVICIOS DE SALUD Y PARTICIPACIÓN DE LA COMUNIDAD
 
-### CAPÍTULO IV. DE LA PARTICIPACIÓN SOCIAL
+### CAPÍTULO III. DEL REGISTRO ESTATAL DE DONADORES
 
 ###### Artículo 127.
 
@@ -1593,7 +1661,7 @@ Las personas e instituciones públicas o privadas que tengan conocimiento de acc
 
 De conformidad con las disposiciones legales aplicables, los agentes del Ministerio Público o quienes ejerzan sus funciones que reciban informes o denuncias sobre personas que requieran de servicios de salud de urgencia, deberán disponer que las mismas sean trasladadas de inmediato al establecimiento de salud más cercano.
 
-### CAPÍTULO I. DE LOS PROFESIONALES, TÉCNICOS Y AUXILIARES
+### CAPÍTULO IV. DE LA PARTICIPACIÓN SOCIAL
 
 ###### Artículo 134.
 
@@ -1669,9 +1737,7 @@ Se podrá denunciar ante las autoridades sanitarias y el Ministerio Público, la
 
 ## TÍTULO OCTAVO. DE LA DISPOSICIÓN DE ÓRGANOS Y TEJIDOS DE SERES HUMANOS
 
-### CAPÍTULO I BIS. DEL EJERCICIO ESPECIALIZADO DE LA CIRUGÍA
-
-> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+### CAPÍTULO I. DE LOS PROFESIONALES, TÉCNICOS Y AUXILIARES
 
 ###### Artículo 140.
 
@@ -1697,7 +1763,9 @@ III. Colaborar en la vigilancia sanitaria de los trasplantes, fomentando la coor
 
 Las autoridades estatales que intervengan en los diversos procedimientos de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, actuarán con la debida diligencia que ameritan estos casos, auxiliarán en el ágil desahogo de los trámites que por ley deben cubrirse.
 
-### CAPÍTULO II. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
+### CAPÍTULO I BIS. DEL EJERCICIO ESPECIALIZADO DE LA CIRUGÍA
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 144.
 
@@ -1801,7 +1869,7 @@ El Consejo podrá determinar la creación de comités y grupos de trabajo, tanto
 
 La integración de cada uno de los comités, así como su organización y funcionamiento, se sujetarán a lo que disponga el Reglamento Interno del Consejo.
 
-### CAPÍTULO III. DE LA FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
+### CAPÍTULO II. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ###### Artículo 150.
 
@@ -1823,7 +1891,7 @@ IV. Los establecimientos autorizados, conforme a la legislación aplicable, para
 
 Los establecimientos autorizados para la realización de trasplantes en casos específicos en que se encuentren ante un probable donador deberán solicitar y obtener información del Registro Estatal de Donadores, así como la disposición que el mismo hubiese hecho respecto de sus órganos y tejidos, con el objeto de proceder, en su caso y previo el cumplimiento de la legislación aplicable.
 
-### CAPÍTULO ÚNICO. DE LAS ACCIONES Y BASES PARA LA INVESTIGACIÓN
+### CAPÍTULO III. DE LA FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
 
 ###### Artículo 153.
 
@@ -1847,7 +1915,7 @@ El Consejo Estatal de Trasplantes definirá la aplicación y los rubros en que s
 
 ## TÍTULO NOVENO. RECURSOS HUMANOS PARA LA SALUD
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. DE LAS ACCIONES Y BASES PARA LA INVESTIGACIÓN
 
 ###### Artículo 158.
 
@@ -1919,7 +1987,7 @@ La oferta de los servicios que se haga a través de medios informativos, ya sean
 
 Las sociedades, asociaciones, colegios o federaciones de profesionistas pondrán a disposición de la Secretaría de Salud, un directorio electrónico, con acceso al público que contenga los nombres, datos de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos y certificado de especialización vigente, además de proporcionar el nombre y datos de la Institución y/o Instituciones educativas, que avalen su ejercicio profesional.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO
 
 ###### Artículo 163.
 
@@ -1947,7 +2015,7 @@ Para los efectos del párrafo anterior, el Gobierno del Estado, en coordinación
 
 Las autoridades sanitarias estatales, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad del Estado, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-### CAPÍTULO II. DE LOS MERCADOS Y CENTROS DE ABASTO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 168.
 
@@ -1991,7 +2059,7 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ## TÍTULO DÉCIMO. INVESTIGACIÓN PARA LA SALUD
 
-### CAPÍTULO III. DE LAS CONSTRUCCIONES
+### CAPÍTULO II. DE LOS MERCADOS Y CENTROS DE ABASTO
 
 ###### Artículo 173.
 
@@ -2012,6 +2080,20 @@ VI. A la producción nacional de insumos para la salud.
 ###### Artículo 174.
 
 La Secretaría de Educación Pública y Cultura, la Universidad Autónoma de Sinaloa, el Instituto Tecnológico Regional de Culiacán, y la Universidad de Occidente, y demás instituciones dedicadas a la investigación, en coordinación con las autoridades sanitarias orientarán al desarrollo de la investigación científica y tecnológica destinada a la salud.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2020)</small>
+
+###### Artículo 174 Bis.
+
+En las instituciones de salud, bajo la responsabilidad de los directores o titulares respectivos y de conformidad con las disposiciones aplicables, se constituirán:
+
+I. Un Comité de Investigación;
+
+II. En el caso de que se realicen investigaciones en seres humanos, un Comité de Ética en Investigación, que cumpla con lo establecido en el artículo 104 Bis de la presente Ley; y
+
+III. Un Comité de Bioseguridad, encargado de determinar y normar al interior del establecimiento el uso de radiaciones ionizantes o de técnicas de ingeniería genética, con base en las disposiciones jurídicas aplicables.
+
+Las Comités anteriormente referidos, deberán sujetarse a las disposiciones complementarias sobre áreas o modalidades de la investigación en las que considere que es necesario que emita el Consejo de Salubridad General.
 
 ###### Artículo 175.
 
@@ -2041,7 +2123,7 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ## TÍTULO DÉCIMO PRIMERO. INFORMACIÓN PARA LA SALUD
 
-### CAPÍTULO IV. DE LOS CEMENTERIOS, CREMATORIOS, FUNERARIAS Y CRIPTAS
+### CAPÍTULO III. DE LAS CONSTRUCCIONES
 
 ###### Artículo 179.
 
@@ -2071,7 +2153,7 @@ Las autoridades sanitarias orientarán la captación, producción, procesamiento
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
 
-### CAPÍTULO V. DE LA LIMPIEZA PÚBLICA
+### CAPÍTULO IV. DE LOS CEMENTERIOS, CREMATORIOS, FUNERARIAS Y CRIPTAS
 
 ###### Artículo 183.
 
@@ -2087,7 +2169,7 @@ Para los efectos del artículo anterior, se tomará en cuenta la distancia de ce
 
 ## TÍTULO DÉCIMO TERCERO. SALUBRIDAD LOCAL
 
-### CAPÍTULO VI. DE LOS RASTROS
+### CAPÍTULO V. DE LA LIMPIEZA PÚBLICA
 
 ###### Artículo 186.
 
@@ -2141,7 +2223,7 @@ B). Asistencia social.
 
 En todo lo no previsto en este Título, se estará a lo que disponga esta ley, los reglamentos respectivos, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPÍTULO VII. DEL AGUA POTABLE Y ALCANTARILLADO
+### CAPÍTULO VI. DE LOS RASTROS
 
 ###### Artículo 194.
 
@@ -2155,7 +2237,7 @@ Los mercados y centros de abasto estarán bajo la vigilancia de la autoridad com
 
 Los vendedores, locatarios y personal cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar en esos lugares las condiciones higiénicas indispensables para el debido mantenimiento de sus locales.
 
-### CAPÍTULO VIII. DE LA PROSTITUCIÓN
+### CAPÍTULO VII. DEL AGUA POTABLE Y ALCANTARILLADO
 
 ###### Artículo 197.
 
@@ -2197,7 +2279,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando se contravengan algunas de las disposiciones anteriores o las del reglamento respectivo, la autoridad sanitaria competente podrá, previo cumplimiento de los requisitos legales respectivos, ordenar la suspensión de las obras o su demolición apoyándose en las demás autoridades competentes.
 
-### CAPÍTULO IX. DE LOS RECLUSORIOS
+### CAPÍTULO VIII. DE LA PROSTITUCIÓN
 
 ###### Artículo 207.
 
@@ -2227,7 +2309,7 @@ I. Cuando se trate de cadáveres de personas que hubieren padecido enfermedades 
 
 II. Cuando el traslado se pretenda realizar después de las cuarenta y ocho horas posteriores a la muerte de que se trata.
 
-### CAPÍTULO X. DE LOS BAÑOS PÚBLICOS
+### CAPÍTULO IX. DE LOS RECLUSORIOS
 
 ###### Artículo 211.
 
@@ -2249,7 +2331,7 @@ Los animales muertos deberán ser incinerados o enterrados antes de que entren e
 
 Los residuos sólidos se recibirán de preferencia en transportes dotados de caja hermética y su manejo será sólo en lo estrictamente indispensable para transportarse al sitio de disposición final.
 
-### CAPÍTULO XI. DE LOS CENTROS DE REUNIÓN Y DE ESPECTÁCULOS
+### CAPÍTULO X. DE LOS BAÑOS PÚBLICOS
 
 ###### Artículo 216.
 
@@ -2275,7 +2357,7 @@ El sacrifico (sic) de animales en los rastros autorizados se efectuará en los d
 
 El funcionamiento, aseo y conservación de los rastros municipales, estará a cargo de la autoridad municipal competente. Si fueren particulares, quedarán a cargo de las personas responsables de realizarlo y bajo la inspección de las autoridades competentes. En ambos casos, quedarán sujetos a la observancia de lo dispuesto por esta Ley, reglamentos y normas técnicas aplicables. Queda prohibido el funcionamiento de rastros no autorizados por la autoridad sanitaria competente.
 
-### CAPÍTULO XII. DE LAS PELUQUERÍAS, SALONES DE BELLEZA O DE ESTÉTICA
+### CAPÍTULO XI. DE LOS CENTROS DE REUNIÓN Y DE ESPECTÁCULOS
 
 ###### Artículo 222.
 
@@ -2309,7 +2391,7 @@ Los proyectos para la implantación del sistema de alcantarillado deberán ser d
 
 Queda prohibido que los desechos o líquidos que produzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
 
-### CAPÍTULO XIII. DE LOS HOTELES, MOTELES, PENSIONES Y CASAS DE HUÉSPEDES
+### CAPÍTULO XII. DE LAS PELUQUERÍAS, SALONES DE BELLEZA O DE ESTÉTICA
 
 ###### Artículo 230.
 
@@ -2335,7 +2417,7 @@ El ayuntamiento, considerando el dictamen sanitario de la Secretaría de Salud d
 
 El Ayuntamiento podrá revocar las autorizaciones cuando se dejen de cumplir o se inflijan las disposiciones de esta Ley y los reglamentos respectivos, o por causas de interés público.
 
-### CAPÍTULO XIV. DE LAS TINTORERÍAS, LAVANDERÍAS Y LAVADEROS PÚBLICOS
+### CAPÍTULO XIII. DE LOS HOTELES, MOTELES, PENSIONES Y CASAS DE HUÉSPEDES
 
 ###### Artículo 233.
 
@@ -2349,7 +2431,7 @@ Los reclusorios estarán sujetos al control sanitario de los Gobiernos Estatal o
 
 Los reclusorios deberán contar, además de lo previsto por las disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes, con un departamento de baños y otro de enfermería, este último para la atención de aquellos casos de enfermedad de los internos, en que no sea necesario el traslado de éstos a un hospital.
 
-### CAPÍTULO XV. DE LOS MEDIOS DE TRANSPORTE PÚBLICO
+### CAPÍTULO XIV. DE LAS TINTORERÍAS, LAVANDERÍAS Y LAVADEROS PÚBLICOS
 
 ###### Artículo 236.
 
@@ -2359,7 +2441,7 @@ Para los efectos de esta Ley, se entiende por baño público el establecimiento 
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas.
 
-### CAPÍTULO XVI. DE LAS GASOLINERAS
+### CAPÍTULO XV. DE LOS MEDIOS DE TRANSPORTE PÚBLICO
 
 ###### Artículo 238.
 
@@ -2375,7 +2457,7 @@ La autoridad municipal, una vez terminada la edificación del centro de reunión
 
 El funcionamiento de los establecimientos a que se refiere el artículo 238 deberá ajustarse a lo dispuesto por las disposiciones legales aplicables, y contará con los servicios de seguridad e higiene que establezcan las normas correspondientes.
 
-### CAPÍTULO XVII. DE LA COMERCIALIZACIÓN Y VENTA DE ALIMENTOS Y BEBIDAS EN LA VÍA PÚBLICA
+### CAPÍTULO XVI. DE LAS GASOLINERAS
 
 ###### Artículo 241.
 
@@ -2401,7 +2483,7 @@ Los establecimientos cubiertos y descubiertos dedicados al fisicoculturismo, a e
 
 El funcionamiento de los establecimientos mencionados en el artículo anterior y el personal que en ellos labore, deberán apegarse a lo señalado en esta Ley y demás normas aplicables.
 
-### CAPÍTULO XVIII. DE LOS CENTROS ANTIRRÁBICOS
+### CAPÍTULO XVII. DE LA COMERCIALIZACIÓN Y VENTA DE ALIMENTOS Y BEBIDAS EN LA VÍA PÚBLICA
 
 ###### Artículo 246.
 
@@ -2417,9 +2499,7 @@ III. Casa de huéspedes o pensión: casa donde se albergan personas para vivir e
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas.
 
-### CAPÍTULO XIX. DE LOS GIMNASIOS
-
-> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2008)</small>
+### CAPÍTULO XVIII. DE LOS CENTROS ANTIRRÁBICOS
 
 ###### Artículo 248.
 
@@ -2435,7 +2515,9 @@ III. Lavadero público: el establecimiento al cual acuden los interesados para r
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar a cualquiera de los servicios señalados en el artículo anterior, así como para su funcionamiento, se requiere de contar con autorización sanitaria, misma que se expedirá cuando el solicitante haya satisfecho los requisitos que establezcan las normas aplicables.
 
-### CAPÍTULO I. DE LAS AUTORIZACIONES
+### CAPÍTULO XIX. DE LOS GIMNASIOS
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 250.
 
@@ -2449,7 +2531,7 @@ Los transportes que circulen en el interior de un solo municipio, deberán conta
 
 Los transportes que circulen por más de un municipio del territorio estatal, deberán contar con la autorización sanitaria correspondiente que será expedida por el Gobierno del Estado, una vez cubiertos los requisitos que marca esta Ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPÍTULO II. DE LOS CERTIFICADOS
+### CAPÍTULO I. DE LAS AUTORIZACIONES
 
 ###### Artículo 253.
 
@@ -2459,7 +2541,7 @@ Para los efectos de esta Ley, se entiende por gasolinera el establecimiento dest
 
 Las gasolineras deberán contar con las instalaciones de seguridad e higiene que establezca el Reglamento correspondiente, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LOS CERTIFICADOS
 
 ###### Artículo 255.
 
@@ -2471,7 +2553,7 @@ El comercio ambulante de alimentos y bebidas en la vía pública, deberá sujeta
 
 La Secretaría de Salud y los ayuntamientos se coordinarán para llevar a efecto el control sanitario del comercio ambulante de alimentos y bebidas en la vía pública.
 
-### CAPÍTULO I. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 257.
 
@@ -2503,7 +2585,7 @@ Las autoridades sanitarias y los centros antirrábicos llevarán a cabo campaña
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2008)</small>
 
-### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### Artículo 259 Bis.
 
@@ -2573,7 +2655,7 @@ Queda totalmente prohibido, en los establecimientos antes mencionados la venta o
 
 ## TÍTULO DÉCIMO CUARTO. AUTORIZACIONES Y CERTIFICACIONES
 
-### CAPÍTULO III. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 260.
 
@@ -2679,7 +2761,7 @@ La autoridad sanitaria emitirá la resolución que corresponda al concluir la au
 
 La resolución de revocación surtirá sus efectos, en su caso, de clausura definitiva, prohibición de venta, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
+### CAPÍTULO III. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### Artículo 277.
 
@@ -2717,7 +2799,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TÍTULO DÉCIMO QUINTO. VIGILANCIA SANITARIA
 
-### CAPÍTULO V. PRESCRIPCIÓN
+### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
 
 ###### Artículo 282.
 
@@ -2780,6 +2862,8 @@ IV. Al concluir la verificación, se dará oportunidad al propietario, responsab
 La negativa a firmar el acta o a recibir copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará su validez ni la de la diligencia practicada.
 
 ## TÍTULO DÉCIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
+
+### CAPÍTULO V. PRESCRIPCIÓN
 
 ###### Artículo 291.
 
@@ -2942,6 +3026,10 @@ Procederá la clausura temporal o definitiva, parcial o total según la gravedad
 I. Cuando los establecimientos a que se refiere el artículo 3° inciso B de esta Ley, carezcan de la correspondiente licencia sanitaria;
 
 II. Cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de esta Ley y de las disposiciones que de ella emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la autoridad sanitaria;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2020)</small>
+
+II Bis. Cuando no cuente con el desfibrilador externo automático y el personal capacitado para su uso, estando obligado;
 
 III. Cuando después de la reapertura de un establecimiento, local, fábrica, construcción o edificio, por motivo de suspensión de trabajos o actividades, o clausura temporal, las actividades que en él se realicen sigan constituyendo un peligro para la salud; y
 
@@ -3167,7 +3255,7 @@ El Secretario de Salud
 
 Víctor Manuel Díaz Simental.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 11 DE FEBRERO DE 2008.
 
@@ -3364,3 +3452,21 @@ SEGUNDO. La Secretaría de Salud emitirá el Reglamento del Registro Estatal de 
 TERCERO. La Secretaría de Salud se vinculará con el órgano garante en materia de acceso a la información pública y protección de datos personales en el Estado, con la finalidad de garantizar la salvaguarda de los datos de los pacientes y la aplicación de la normatividad vigente en la materia.
 
 CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado para la Secretaría de Salud en el presente ejercicio fiscal y los subsecuentes.
+
+P.O. 4 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 325 DEL H. CONGRESO DEL ESTADO:- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. En un plazo de noventa días contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá expedir el Reglamento en materia de capacitación, uso y vigilancia de desfibriladores externos automáticos, así como para la instalación de los mismos.
+
+TERCERO. En un plazo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, en los espacios públicos y privados donde se presuma un flujo mayor a 500 personas deberán contar en sus instalaciones con desfibriladores externos automáticos.
+
+CUARTO. La Secretaría de Salud en coordinación con los ayuntamientos, implementarán campañas de difusión y capacitación en los espacios públicos y privados para dar cumplimiento a este Decreto, en materia de desfibriladores externos automáticos.
+
+QUINTO. El Ejecutivo Estatal a través de la Secretaría de Salud, deberá crear la Comisión Estatal de Bioética a que se refiere el presente Decreto, en un plazo de noventa días contados a partir del 1 de enero del año 2020.
+
+El Ejecutivo Estatal incluirá en la iniciativa de Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa para el Ejercicio Fiscal de 2020, los recursos económicos necesarios y suficientes para garantizar la creación y funcionamiento de la Comisión Estatal de Bioética.
+
+SEXTO. Por lo que se refiere a los establecimientos de los diversos sectores, la creación y funcionamiento de los comités a que se refiere el presente Decreto se sujetarán a los recursos humanos, materiales y financieros de dichos establecimientos, así como a la disponibilidad presupuestaria aprobada para tales efectos en el ejercicio fiscal correspondiente, de conformidad con las disposiciones para la integración y funcionamiento de los Comités Hospitalarios de Bioética y las características de los centros hospitalarios que deben tenerlos.
