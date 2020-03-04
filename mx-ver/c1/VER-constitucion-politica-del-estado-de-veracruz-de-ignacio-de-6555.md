@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2020-02-04"
+last_updated: "2020-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MARZO DE 2020.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -159,9 +159,11 @@ El uso y disfrute colectivo de los recursos naturales por las comunidades indíg
 
 El Estado y los municipios, en el ámbito de sus respectivas competencias, reconocerán el derecho de las comunidades indígenas a promover su desarrollo equitativo y sustentable, por lo que para la elaboración de los respectivos planes estatal y municipales de desarrollo consultarán previamente a las comunidades indígenas, conforme a los medios de consulta que para tal efecto se establezcan en la Ley de Planeación, así como la forma en que participen en el ejercicio y vigilancia de las acciones a ellas destinadas; también se reconocerá su derecho a una educación laica, obligatoria, bilingüe y pluricultural. Asimismo, en los términos previstos por la ley, se impulsarán el respeto y reconocimiento de las diversas culturas existentes en la Entidad y combatirán toda forma de discriminación.
 
-> <small>(ADICIONADO, G.O. 29 DE MAYO DE 2018)</small>
+(NOTA: EL 7 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 210/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SÉPTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Corresponde al Estado promover y proteger el patrimonio cultural y natural de las comunidades de afrodescendientes radicados en la Entidad, a través de la implementación de las políticas públicas pertinentes.
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2020)</small>
+
+Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural de Veracruz. TENDRÁN EN LO CONDUCENTE LOS DERECHOS SEÑALADOS EN EL PRESENTE ARTÍCULO EN LOS TÉRMINOS QUE ESTABLEZCAN LAS LEYES, A FIN DE GARANTIZAR SU LIBRE DETERMINACIÓN, AUTONOMÍA, DESARROLLO E INCLUSIÓN.
 
 > <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2018)</small>
 
@@ -13100,3 +13102,11 @@ Cuarto. Los jueces laborales y el centro de conciliación laboral a que se refie
 Quinto. El Gobierno del Estado de Veracruz de Ignacio de la Llave dispondrá lo necesario para garantizar los derechos laborales de quienes trabajen en la Honorable Junta de Conciliación y Arbitraje del Estado y sus Juntas Especiales, al concluir éstas sus funciones en los términos previstos en la Constitución General de la República y la Ley Federal del Trabajo al respecto.
 
 Sexto. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 551 QUE REFORMA EL PÁRRAFO SÉPTIMO DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
