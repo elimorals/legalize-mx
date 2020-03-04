@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-alcaldias-de-la-ciudad-de-mexico-128262"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2020-02-14"
+last_updated: "2020-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128262&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MARZO DE 2020.
 
 Ley publicada en el Tomo I del Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -248,7 +248,9 @@ IV. Facilitar la participación ciudadana en el proceso de toma de decisiones y 
 
 V. Garantizar la igualdad sustantiva y la paridad entre mujeres y hombres en los altos mandos de la Alcaldía;
 
-VI. Impulsar en las políticas públicas y los programas, la transversalidad de género para erradicar la desigualdad, discriminación y violencia contra las mujeres;
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2020)</small>
+
+VI. Impulsar en las políticas públicas y los programas, la transversalidad de género para erradicar la desigualdad, discriminación y violencia contra las mujeres, encaminada a promover su autonomía y privilegiando las acciones que contribuyan a fortalecer su desarrollo y empoderamiento;
 
 VII. Propiciar la democracia directa y consolidar la cultura democrática participativa;
 
@@ -264,25 +266,49 @@ XII. Mejorar el acceso y calidad de los servicios públicos;
 
 XIII. Implementar medidas para que progresivamente se erradiquen las desigualdades y la pobreza y se promueva el desarrollo sustentable, que permita alcanzar una justa distribución de la riqueza y el ingreso, en los términos previstos en la Constitución Local;
 
-XIV. Preservar el patrimonio, las culturas, identidades, festividades y la representación democrática de los pueblos, comunidades, barrios y colonias asentadas en las demarcaciones; así como el respeto y promoción de los derechos de los pueblos y barrios originarios y de las comunidades indígenas residentes en la demarcación territorial.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE MARZO DE 2020)</small>
 
-XV. Tratándose de la representación democrática, las Alcaldías reconocerán a las autoridades y representantes tradicionales elegidos en los pueblos y barrios originarios y comunidades indígenas residentes, de conformidad con sus sistemas normativos y se garantizará su independencia y legitimidad, de acuerdo con la Constitución Política Local y la legislación en la materia;
+XIV. Instrumentar acciones encaminadas a promover el desarrollo económico y la generación de empleo, que permita la inclusión laboral de las personas jóvenes en su ámbito de competencia.
 
-XVI. Conservar, en coordinación con las autoridades competentes, las zonas patrimonio de la humanidad mediante acciones de gobierno, desarrollo económico, cultural, social, urbano y rural, conforme a las disposiciones que se establezcan;
+(REUBICADA, G.O. 4 DE MARZO DE 2020)
 
-XVII. Garantizar el acceso de la población a los espacios públicos y a la infraestructura social, deportiva, recreativa y cultural dentro de su territorio, los cuales no podrán enajenarse ni concesionarse de forma alguna;
+XV. Preservar el patrimonio, las culturas, identidades, festividades y la representación democrática de los pueblos, comunidades, barrios y colonias asentadas en las demarcaciones; así como el respeto y promoción de los derechos de los pueblos y barrios originarios y de las comunidades indígenas residentes en la demarcación territorial.
 
-XVIII. Promover la creación, ampliación, cuidado, mejoramiento, uso, goce, recuperación, mantenimiento y defensa del espacio público;
+(REUBICADA, G.O. 4 DE MARZO DE 2020)
 
-XIX. Proteger y ampliar el patrimonio ecológico;
+XVI. Tratándose de la representación democrática, las Alcaldías reconocerán a las autoridades y representantes tradicionales elegidos en los pueblos y barrios originarios y comunidades indígenas residentes, de conformidad con sus sistemas normativos y se garantizará su independencia y legitimidad, de acuerdo con la Constitución Política Local y la legislación en la materia;
 
-XX. Promover el interés general de la Ciudad y asegurar el desarrollo sustentable;
+(REUBICADA, G.O. 4 DE MARZO DE 2020)
 
-XXI. Establecer instrumentos de cooperación local, así como celebrar acuerdos interinstitucionales con las Alcaldías y los municipios de las entidades federativas. Además, en coordinación con el órgano encargado de las relaciones internacionales del Gobierno de la Ciudad de México, formularán mecanismos de cooperación internacional y regional con entidades gubernamentales equivalentes de otras naciones y organismos internacionales los cuales sean informados al Congreso y al Gobierno Federal. Además podrán designar un enlace de alto nivel para el vínculo, seguimiento, monitoreo y cumplimiento de esos acuerdos;
+XVII. Conservar, en coordinación con las autoridades competentes, las zonas patrimonio de la humanidad mediante acciones de gobierno, desarrollo económico, cultural, social, urbano y rural, conforme a las disposiciones que se establezcan;
 
-XXII. Procurar y promover la calidad estética de los espacios públicos para favorecer la integración, arraigo y encuentro de los miembros de la comunidad; y
+(REUBICADA, G.O. 4 DE MARZO DE 2020)
 
-XXIII. Las demás que no estén reservadas a otra autoridad de la Ciudad y las que determinen diversas disposiciones legales.
+XVIII. Garantizar el acceso de la población a los espacios públicos y a la infraestructura social, deportiva, recreativa y cultural dentro de su territorio, los cuales no podrán enajenarse ni concesionarse de forma alguna;
+
+(REUBICADA, G.O. 4 DE MARZO DE 2020)
+
+XIX. Promover la creación, ampliación, cuidado, mejoramiento, uso, goce, recuperación, mantenimiento y defensa del espacio público;
+
+(REUBICADA, G.O. 4 DE MARZO DE 2020)
+
+XX. Proteger y ampliar el patrimonio ecológico;
+
+(REUBICADA, G.O. 4 DE MARZO DE 2020)
+
+XXI. Promover el interés general de la Ciudad y asegurar el desarrollo sustentable;
+
+(REUBICADA, G.O. 4 DE MARZO DE 2020)
+
+XXII. Establecer instrumentos de cooperación local, así como celebrar acuerdos interinstitucionales con las Alcaldías y los municipios de las entidades federativas. Además, en coordinación con el órgano encargado de las relaciones internacionales del Gobierno de la Ciudad de México, formularán mecanismos de cooperación internacional y regional con entidades gubernamentales equivalentes de otras naciones y organismos internacionales los cuales sean informados al Congreso y al Gobierno Federal. Además podrán designar un enlace de alto nivel para el vínculo, seguimiento, monitoreo y cumplimiento de esos acuerdos;
+
+(REUBICADA, G.O. 4 DE MARZO DE 2020)
+
+XXIII. Procurar y promover la calidad estética de los espacios públicos para favorecer la integración, arraigo y encuentro de los miembros de la comunidad; y
+
+(REUBICADA, G.O. 4 DE MARZO DE 2020)
+
+XXIV. Las demás que no estén reservadas a otra autoridad de la Ciudad y las que determinen diversas disposiciones legales.
 
 ### CAPÍTULO IV. DE LAS ALCALDESAS Y LOS ALCALDES
 
@@ -414,11 +440,13 @@ X. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento
 
 XI. Administrar con autonomía los recursos materiales y los bienes muebles e inmuebles de la Ciudad asignados a la Alcaldía, sujetándose a los mecanismos de rendición de cuentas establecidos en la Constitución Local;
 
-> <small>(REFORMADA, G.O. 12 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2020)</small>
 
-XII. Establecer la Unidad de Igualdad Sustantiva como parte de la estructura de la Alcaldía;
+XII. Establecer la Unidad de Igualdad Sustantiva como parte de la estructura de la Alcaldía, la cual deberá contar con un programa rector en la materia;
 
-XIII. Designar a las personas servidoras públicas de la Alcaldía, sujetándose a las disposiciones del servicio profesional de carrera. En todo caso, los funcionarios de confianza, mandos medios y superiores, serán designados y removidos libremente por la Alcaldesa o el Alcalde;
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2020)</small>
+
+XIII. Designar a las personas servidoras públicas de la Alcaldía, sujetándose a las disposiciones del servicio profesional de carrera, procurando la inclusión de las personas jóvenes que residan en la demarcación. En todo caso, los funcionarios de confianza, mandos medios y superiores, serán designados y removidos libremente por la Alcaldesa o el Alcalde;
 
 XIV. Verificar que, de manera progresiva, la asignación de cargos correspondientes a la administración pública de la Alcaldía, responda a criterios de igualdad y paridad;
 
@@ -2301,6 +2329,14 @@ SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicaci
 G.O. 14 DE FEBRERO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICAN Y REFORMAN LOS ARTÍCULOS 82 Y 103 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO EN MATERIA DE PROFESIONALIZACIÓN DE LAS PERSONAS INTEGRANTES DE LOS CONCEJOS”.]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México y, para su mayor difusión, en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 4 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICAN LOS ARTÍCULOS 20 Y 31 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO. Remítase a la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México y, para su mayor difusión, en el Diario Oficial de la Federación.
 
