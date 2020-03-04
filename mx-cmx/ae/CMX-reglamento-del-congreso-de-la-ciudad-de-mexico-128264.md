@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2019-07-08"
+last_updated: "2020-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MARZO DE 2020.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -3638,19 +3638,27 @@ Cuando se trate de una acción de inconstitucionalidad y la Sala haya emitido un
 
 #### Sección Cuarta. Discusión y aprobación de la Iniciativa de Ley de Ingresos y Presupuesto de Egresos
 
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2020)</small>
+
 ###### Artículo 321.
 
-La o el Jefe de Gobierno deberá presentar ante el Congreso la Iniciativa de Ley de ingresos y el presupuesto de egresos, así como la reforma a leyes relacionadas con las finanzas públicas de la Ciudad, a más tardar el día 30 de noviembre.
+La persona titular de la Jefatura de Gobierno deberá presentar anualmente ante el Congreso la Iniciativa de Ley de Ingresos y el proyecto de Presupuesto de Egresos, así como la reforma a leyes relacionadas con las finanzas públicas de la Ciudad, a más tardar el día 30 de noviembre o hasta el 20 de diciembre, cuando se trate del año en que inicie su encargo.
+
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2020)</small>
 
 ###### Artículo 322.
 
-El Congreso deberá examinar, discutir y aprobar anualmente, la iniciativa (sic) la ley (sic) presupuesto de egresos (sic) más tardar el treinta de noviembre, y de la ley de ingresos a más tardar el día 20 de diciembre.
+El Congreso deberá examinar, discutir y aprobar anualmente, la iniciativa de (sic) Ley de Ingresos y el Presupuesto de Egresos a más tardar el 15 de diciembre. Cuando dichos proyectos sean presentados durante el primer año de encargo de la persona titular de la Jefatura de Gobierno, estos deberán aprobarse a más tardar el 27 de diciembre.
 
-Aprobados ambos instrumentos, se turnarán a la o el Jefe de Gobierno de la Ciudad de México para su publicación en la Gaceta oficial a más tardar el 31 de diciembre. Cuando se trate del año de inicio del encargo de la o el Jefe Gobierno, la fecha límite para la aprobación de la Ley de ingresos será el día 15 de diciembre y del presupuesto de egresos el día 27 de diciembre. En este caso, aprobados ambos instrumentos, se turnarán a la o el Jefe de Gobierno para su publicación en la Gaceta oficial a más tardar el 31 de diciembre.
+Aprobados ambos instrumentos, se turnarán a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su publicación en la Gaceta Oficial a más tardar el 31 de diciembre.
 
 ###### Artículo 323.
 
 La Comisión de Presupuesto y Cuenta Pública emitirá los lineamientos que regularán la participación de las Comisiones Ordinarias en el examen y discusión del Proyecto de Presupuesto de Egresos de la Ciudad de México por ramos y sectores, y las demás disposiciones necesarias para facilitar este proceso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE MARZO DE 2020)</small>
+
+Las discusiones sobre la Ley de Ingresos, el Presupuesto de Egresos y demás leyes e instrumentos relacionados con las finanzas públicas de la ciudad, se efectuarán exclusivamente en sesión de las comisiones respectivas o en el Pleno.
 
 Las Comisiones Ordinarias dentro del ámbito de su competencia, deberán observar los formatos y requerimientos que se establezcan en los lineamientos referidos, para la presentación de sus peticiones y opiniones fundadas.
 
@@ -6095,3 +6103,11 @@ G.O. 8 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA LOS ARTÍCULOS 370 Y 371; SE ADICIONA UNA SECCIÓN DÉCIMA SEXTA AL CAPÍTULO II DEL TÍTULO DÉCIMO Y UN ARTÍCULO 451 BIS, TODOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO".]
 
 PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+G.O. 4 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 321, 322 Y 323 DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO. SE REFORMA EL ARTÍCULO 44 DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión en el Diario Oficial de la Federación.
