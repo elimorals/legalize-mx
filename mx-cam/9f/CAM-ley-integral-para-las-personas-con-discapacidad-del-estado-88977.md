@@ -4,7 +4,7 @@ identifier: "CAM-ley-integral-para-las-personas-con-discapacidad-del-estado-8897
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-19"
-last_updated: "2018-09-20"
+last_updated: "2020-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 19 de julio de 2012.
 
@@ -249,7 +249,9 @@ XIII. Todos aquellos que tengan como objeto el bienestar de las personas, inclui
 
 Las personas físicas o morales del sector social o privado, con actividad empresarial asentadas en el Estado de Campeche, deberán incluir personas con discapacidad dentro de su plantilla laboral.
 
-La inclusión a la planta laboral obliga al patrón a proporcionar capacitación y adiestramiento necesarios para que de acuerdo con sus aptitudes, los trabajadores con algún tipo de discapacidad puedan desempeñarse en igualdad de condiciones con el resto de los trabajadores.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2020)</small>
+
+La inclusión a la planta laboral obliga al patrón a proporcionar capacitación y adiestramiento necesarios para que de acuerdo con sus aptitudes, los trabajadores con algún tipo de discapacidad puedan desempeñarse en igualdad de condiciones con el resto de los trabajadores y dotar de infraestructura arquitectónica adaptada para garantizar la accesibilidad y movilidad de las personas con discapacidad.
 
 ###### Artículo 8.
 
@@ -337,7 +339,9 @@ Queda prohibido cualquier tipo de discriminación contra las personas con discap
 
 Corresponde a la Secretaría de Desarrollo Urbano, Obras Públicas e Infraestructura:
 
-I. Establecer programas para realizar adecuaciones físicas a las obras públicas existentes a fin de facilitar el uso y acceso de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2020)</small>
+
+I. Establecer los programas que deben sujetarse para realizar ampliaciones, reparaciones y reformas a las obras públicas existentes a fin de facilitar el tránsito, desplazamiento físico y usos de estos espacios para las personas con discapacidad;
 
 II. Asegurar que la accesibilidad en la infraestructura básica, equipamiento o entorno urbano y los espacios públicos, se contemplen los siguientes lineamientos: a) Que sea de carácter universal, obligatoria y adaptada para todas las personas; b) Que incluya el uso de señalización, facilidades arquitectónicas, tecnológicas, de información y comunicación, y las ayudas técnicas necesarias para la accesibilidad y uso de las personas con discapacidad; c) que la adecuación de las instalaciones sea progresiva.
 
@@ -345,7 +349,13 @@ III. Promover la observancia de los criterios que orienten las características 
 
 IV. Impulsar, planear y operar programas de señalización, simbología, ayudas técnicas, accesos y estancias para perro guía o animal de servicios y otros apoyos para personas con discapacidad, así como la eliminación de barreras arquitectónicas; y
 
-V. Las demás que dispongan otros ordenamientos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2020)</small>
+
+V. Vigilar y supervisar que las construcciones o modificaciones de edificios e infraestructura urbana y arquitectónica, cumplan con los planes y programas de desarrollo urbano y con las correspondientes normas oficiales mexicanas y las diversas leyes y reglamentos en la materia para que se adecuen a las necesidades de las personas con discapacidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2020)</small>
+
+VI. Las demás que dispongan otros ordenamientos.
 
 ###### Artículo 14.
 
@@ -846,3 +856,11 @@ P.O. 20 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 305 POR EL QUE “SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 9; EL PRIMER PÁRRAFO DEL ARTÍCULO 10; EL PRIMER PÁRRAFO DEL ARTÍCULO 13; LA FRACCIÓN VII DEL ARTÍCULO 15; EL PRIMER PÁRRAFO Y LAS FRACCIONES I Y V DEL ARTÍCULO 16; EL PRIMER PÁRRAFO Y LA FRACCIÓN VII DEL ARTÍCULO 18; EL PRIMER PÁRRAFO DEL ARTÍCULO 21; LA FRACCIÓN III DEL ARTÍCULO 23; LA FRACCIÓN II AL ARTÍCULO 25; LAS FRACCIONES II Y XVI DEL ARTÍCULO 29; LOS INCISOS A, B, E, H Y I DE LA FRACCIÓN IV DEL ARTÍCULO 31, Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 18; Y UNA FRACCIÓN XVII AL ARTÍCULO 29 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE".]
 
 Único. El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 119 POR EL QUE "SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 7 BIS; LAS FRACCIONES I Y V Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 13 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
