@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-austeridad-transparencia-en-remuneraciones-132087"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2020-01-23"
+last_updated: "2020-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132087&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-28"
 
 LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MARZO DE 2020.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 31 de diciembre de 2018.
 
@@ -656,9 +656,13 @@ Sólo mediante ley podrá afectarse un ingreso a un fin específico.
 
 La Ley de Ingresos y el Presupuesto de Egresos serán los que apruebe el Congreso, con base anual a partir del 1° de enero del año que corresponda.
 
-Las iniciativas de Ley de Ingresos y Presupuesto de Egresos serán presentadas por la o el Jefe de Gobierno al Congreso para su análisis y aprobación, a más tardar el 30 de noviembre de cada año o hasta el 20 de diciembre del año en que en dicho mes, inicie el periodo constitucional correspondiente.
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2020)</small>
 
-El Congreso deberá aprobar dichas iniciativas a más tardar el 20 de diciembre cuando dichos proyectos sean presentados el 30 de noviembre y a más tardar, el 27 de diciembre cuando se presenten el 20 de diciembre.
+La iniciativa de Ley de Ingresos y el proyecto de Presupuesto de Egresos serán presentadas anualmente por la persona titular de la Jefatura de Gobierno al Congreso para su análisis y aprobación, a más tardar el día 30 de noviembre o hasta el 20 de diciembre, cuando se trate del año en que inicie su encargo.
+
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2020)</small>
+
+El Congreso deberá aprobar dichas iniciativas a más tardar el 15 de diciembre. Cuando dichos proyectos sean presentados durante el primer año de encargo de la persona titular de la Jefatura de Gobierno, estos deberán aprobarse a más tardar el 27 de diciembre.
 
 Cuando por alguna situación extraordinaria, al iniciar el ejercicio fiscal del año siguiente no exista una Ley de Ingresos y/o Decreto aprobado, con el propósito de no interrumpir la prestación de los servicios públicos, en tanto no se aprueben, la Secretaría procederá a actualizar, conforme a las disposiciones del artículo 18 del Código, del ejercicio fiscal del año anterior, en cuanto al gasto mínimo de operación y la ejecución de obras en proceso.
 
@@ -1258,9 +1262,11 @@ III. Ningún servidor público deberá recibir un salario menor al doble del sal
 
 Las remuneraciones y sus tabuladores son públicos, por lo que no pueden clasificarse como información reservada o confidencial, en términos de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
 
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2020)</small>
+
 ###### Artículo 104.
 
-El pago de remuneraciones al personal de la Administración Pública Centralizada y Desconcentrada se efectuará por conducto de las Dependencias, Órganos Desconcentrados y Alcaldías que la integran, de conformidad con lo previsto en esta Ley y las normas jurídicas aplicables.
+El pago de toda remuneración o retribución al personal adscrito a las Dependencias, Órganos Desconcentrados y Alcaldías, se hará a través de éstas, de conformidad con lo previsto en esta ley y las normas jurídicas aplicables.
 
 ###### Artículo 105.
 
@@ -1328,15 +1334,21 @@ Los Órganos de Gobierno y Autónomos ajustarán sus criterios de economía y ga
 
 No procederá hacer pago alguno por concepto de servicios personales a servidores públicos de mandos medios y superiores de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades cuyas estructuras orgánicas básicas o las modificaciones a las mismas, no hubieran sido aprobadas y dictaminadas por la Secretaría de la Contraloría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MARZO DE 2020)</small>
+
 ###### Artículo 115.
 
-La Secretaría estará facultada para dictar reglas de carácter general en las que se establezca:
+La Secretaría está facultada para emitir las normas en las que se establezca:
 
 I. Los casos en que proceda aceptar la compatibilidad para el desempeño de dos o más empleos o comisiones con cargo a los presupuestos de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, sin perjuicio del estricto cumplimiento de las tareas, horarios y jornadas de trabajo que correspondan. Los interesados podrán optar por el empleo o comisión que les convenga cuando se dictamine que sus empleos no son compatibles;
 
 II. Los requisitos para efectuar el pago de las remuneraciones al personal, y
 
 III. Los casos en que proceda la creación de nuevas plazas se hará sin incrementar el presupuesto asignado en la partida correspondiente. Las reglas a que se refiere esta fracción deberá expedirlas conjuntamente la Secretaría de la Contraloría y la Secretaría en el ámbito de sus competencias.
+
+> <small>(ADICIONADA, G.O. 4 DE MARZO DE 2020)</small>
+
+IV. Los requisitos y plazos para el pago, en caso de proceder, de aguinaldos, indemnizaciones y cualquier otra remuneración adicional a que tengan derecho las personas servidoras públicas de las Dependencias, Órganos Desconcentrados y Alcaldías.
 
 ###### Artículo 116.
 
@@ -2073,3 +2085,21 @@ G.O. 23 DE ENERO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Las reformas a las disposiciones relativas a los elementos que deben integrar el proyecto de Presupuesto de Egresos, establecidas en el artículo 47, fracciones V y XIII, serán aplicables a partir del Proyecto de Presupuesto de Egresos de la Ciudad de México para el ejercicio 2021.
+
+G.O. 4 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 104 Y SE AÑADE LA FRACCIÓN IV AL ARTÍCULO 115 DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- La Secretaría deberá emitir las normas señaladas en el artículo 115, fracción IV de la presente Ley dentro de los 90 días hábiles posteriores a la entrada en vigor del presente decreto. Éstas deberán prever los procedimientos a realizar para los cambios de administración de la Jefatura de Gobierno y de las Alcaldías.
+
+G.O. 4 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 321, 322 Y 323 DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO. SE REFORMA EL ARTÍCULO 44 DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión en el Diario Oficial de la Federación.
