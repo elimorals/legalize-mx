@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-fondo-morelos-124581"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-11-22"
-last_updated: "2017-11-22"
+last_updated: "2020-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124581&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # ESTATUTO ORGANICO DEL FONDO MORELOS
 
-> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA PRIMERA DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR A LOS DIEZ DÍAS SIGUIENTES A SU PUBLICACIÓN.]</small>
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL ESTATUTO ORGÁNICO DEL FONDO MORELOS, PUBLICADO EN EL P.O. EL 4 DE MARZO DE 2020; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR 10 DÍAS SIGUIENTES A SU PUBLICACIÓN.]</small>
 
 ESTATUTO ORGÁNICO DEL FONDO MORELOS DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2020 (ABROGADO).
 
 Estatuto publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 22 de noviembre de 2017.
 
@@ -736,3 +736,25 @@ LA SECRETARIA DE DESARROLLO SOCIAL
 BLANCA ESTELA ALMAZO ROGEL
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL FONDO MORELOS.”]
+
+PRIMERA. El presente Estatuto Orgánico entrará en vigor a los 10 días siguientes a su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Estatuto Orgánico del Fondo Morelos, publicado en el Periódico Oficial “Tierra y Libertad”, número 5551, el 22 de noviembre de 2017; y, se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Estatuto Orgánico.
+
+TERCERA. En el supuesto de que se realicen cambios a la estructura del Fondo Morelos, se deberán actualizar los Manuales Administrativos, descriptivos y perfiles de puestos y demás instrumentos administrativos que correspondan, en tanto sucede esto, se mantendrán vigentes los actuales, en lo que no se opongan al presente instrumento, con la aplicación por cada Unidad Administrativa según su ámbito de competencia.
+
+CUARTA. De conformidad con lo dispuesto en los artículos 22, fracción XXV, de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos; así como 9, fracción XXV; y, 15, fracción XXV, del Reglamento Interior de la Secretaría de Gobierno; el Fondo Morelos, dentro del plazo de 10 días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente instrumento, debe informar a la Secretaría de Gobierno del Poder Ejecutivo Estatal, los cambios sufridos por virtud de este Estatuto Orgánico, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos Titulares de las Unidades Administrativas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+QUINTA. Los casos no previstos en el presente Estatuto Orgánico se resolverán de conformidad con lo dispuesto en la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, Ley del Fondo Morelos, demás normativa y por el Consejo Directivo del Fondo Morelos.
+
+SEXTA. Se instruye al Director General inscriba el presente Estatuto Orgánico en el Registro Público de los Organismos Descentralizados del Estado de Morelos, de conformidad con lo previsto en el artículo 76, penúltimo párrafo; y, 84, fracción II, de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
+
+SÉPTIMA. Los asuntos que se encuentren en trámite a la entrada en vigor del presente instrumento y que se hayan iniciado con el Estatuto Orgánico a que se refiere la Disposición Transitoria Segunda, se resolverán conforme a este último hasta su conclusión.
+
+OCTAVA. Los conflictos que se susciten por la aplicación e interpretación del presente Estatuto Orgánico serán resueltos por la Dirección General, de conformidad con la normativa.
