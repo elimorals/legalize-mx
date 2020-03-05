@@ -4,7 +4,7 @@ identifier: "SON-ley-del-registro-civil-para-el-estado-de-sonora-98309"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-09"
-last_updated: "2019-12-02"
+last_updated: "2020-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE MARZO DE 2020.
 
 Ley publicada en la Sección VI del Boletín Oficial del Estado de Sonora, el jueves 9 de enero de 2014.
 
@@ -430,6 +430,10 @@ En las poblaciones en que no haya Oficial del Registro Civil, el menor será pre
 El acta de nacimiento contendrá, por lo menos, el año, mes, día, hora y lugar de nacimiento, el sexo, la impresión digital del presentado, el nombre y apellidos que le corresponden, mencionando expresamente si es presentado vivo o muerto; el nombre, edad, domicilio y nacionalidad de los padres; nombre, domicilio y nacionalidad de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos.
 
 Si éste se presenta por el Ministerio Público o el Procurador de la Defensa del Menor y la Familia como hijo de padres desconocidos, el Oficial del Registro Civil hará constar esta circunstancia en el acta.
+
+> <small>(ADICIONADO, B.O. 5 DE MARZO DE 2020)</small>
+
+Artículo 52 BIS.- El acta de nacimiento o sus certificaciones expedidas por el Registro Civil del Estado de Sonora, no tendrán fecha de vencimiento o caducidad, por lo que las instituciones de carácter público o privado, instituciones educativas de cualquier nivel escolar, así como en los centros de trabajo, deberán de tomar como válidas para cualquier trámite, acto o forma de identificar con la simple presentación de la certificación expedida por el Registro Civil, independientemente de la fecha en que fue emitida, siempre y cuando dicho documento sea legible, no presente alteraciones visibles y puedan distinguirse los elementos de identificación a que se refiere el artículo 52.
 
 ###### Artículo 53.
 
@@ -1196,3 +1200,11 @@ El presente Decreto entrará en vigor el día de su publicación en el Boletín 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 5 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 106, QUE REFORMA UN ARTÍCULO 52 BIS A LA LEY DE REGISTRO CIVIL PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
