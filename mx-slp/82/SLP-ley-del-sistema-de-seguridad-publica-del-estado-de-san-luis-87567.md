@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2020-03-03"
+last_updated: "2020-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -869,9 +869,17 @@ XX. Participar en la protección y vigilancia de las instalaciones estratégicas
 
 XXI. Establecer la participación de la comunidad y de instituciones académicas en coadyuvancia de los procesos de evaluación de las políticas de prevención del delito, así como de las instituciones de seguridad pública, a través de mecanismos eficaces;
 
-XXII. Fortalecer los sistemas de seguridad social de los servidores públicos, sus dependencias y dependientes, e instrumentar los complementarios a éstos, y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2020)</small>
 
-XXIII. Realizar las demás acciones que sean necesarias para incrementar la eficacia en el cumplimiento de los fines de la seguridad pública.
+XXII. Fortalecer los sistemas de seguridad social de los servidores públicos, sus dependencias y dependientes, e instrumentar los complementarios a éstos;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2020)</small>
+
+XXIII. Realizar las demás acciones que sean necesarias para incrementar la eficacia en el cumplimiento de los fines de la seguridad pública, y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2020)</small>
+
+XXIV. Concientizar a la población sobre el uso responsable de los servicios de emergencia, y las leyes aplicables a su mal uso.
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2017)</small>
 
@@ -1877,9 +1885,15 @@ III. Dictar las medidas necesarias para el despacho pronto y expedito de los asu
 
 IV. Certificar por conducto del secretario, copias de las constancias documentales que obren en su poder con motivo de la sustanciación de los procedimientos disciplinarios;
 
-V. Aplicar los medios de apremio previstos en esta Ley, y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2020)</small>
 
-VI. Las demás que le señalen la presente Ley y demás disposiciones legales que de ella deriven.
+V. Aplicar los medios de apremio previstos en esta Ley;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2020)</small>
+
+VI. Informar en el mes de febrero de cada año a la Comisión de Seguridad Pública, Prevención y Reinserción Social del Congreso del Estado, de todos los procedimientos disciplinarios en trámite, estado procesal, motivo del proceso, y los asuntos resueltos, todo esto correspondiente al periodo de que se trate, y
+
+VII. Las demás que le señalen la presente Ley y demás disposiciones legales que de ella deriven.
 
 ### Capítulo IV. Del Procedimiento
 
@@ -1989,9 +2003,11 @@ La prescripción sólo se interrumpirá al notificarse al presunto infractor, el
 
 El término para que opere la prescripción se suspenderá cuando alguna autoridad competente ordene la suspensión del procedimiento disciplinario, y se reanudará cuando la suspensión cese en sus efectos, reanudándose el cómputo del término.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2020)</small>
+
 ###### ARTICULO 130.
 
-Las resoluciones por las que se impongan sanciones disciplinarias no admiten recurso alguno: pero podrán ser impugnadas ante el Tribunal Estatal de lo Contencioso Administrativo, en los términos establecidos por la Ley de Justicia Administrativa del Estado de San Luis Potosí.
+Las resoluciones por las que se impongan sanciones disciplinarias no admiten recurso alguno; pero podrán ser impugnadas ante el Tribunal Estatal de Justicia Administrativa del Estado de San Luis Potosí, en los términos establecidos por el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 ###### ARTICULO 131.
 
@@ -2820,6 +2836,22 @@ SEGUNDO. Se derogan todas las disposiciones que se oponen al presente Decreto.
 P.O. 3 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0600.- SE REFORMA EL ARTÍCULO 55, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se oponen al presente Decreto.
+
+P.O. 5 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0603.- SE REFORMA (SIC) LOS ARTÍCULOS 125 EN SU FRACCIÓN V Y 130; Y ADICIONA AL ARTÍCULO 125 UNA FRACCIÓN, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se oponen al presente Decreto.
+
+P.O. 5 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0605.- SE REFORMA EL ARTÍCULO 49 EN SUS FRACCIONES XXII Y XXIII; Y ADICIONA AL MISMO ARTÍCULO 49 LA FRACCIÓN XXIV, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
