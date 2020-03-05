@@ -4,7 +4,7 @@ identifier: "CMX-protocolo-interinstitucional-de-atencion-integral-a-115159"
 country: "mx"
 rank: "otro"
 publication_date: "2016-06-16"
-last_updated: "2016-06-16"
+last_updated: "2020-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115159&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2016-06-03"
 ---
 # PROTOCOLO INTERINSTITUCIONAL DE ATENCION INTEGRAL A PERSONAS EN RIESGO DE VIVIR EN CALLE E INTEGRANTES DE LAS POBLACIONES CALLEJERAS EN LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL PROTOCOLO INTERINSTITUCIONAL DE ATENCIÓN INTEGRAL A PERSONAS QUE VIVEN EN SITUACIÓN DE CALLE EN LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 5 DE MARZO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 PROTOCOLO INTERINSTITUCIONAL DE ATENCIÓN INTEGRAL A PERSONAS EN RIESGO DE VIVIR EN CALLE E INTEGRANTES DE LAS POBLACIONES CALLEJERAS EN LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE MARZO DE 2020 (ABROGADO).
 
 Protocolo publicado en la Gaceta Oficial de la Ciudad de México, el jueves 16 de junio de 2016.
 
@@ -1905,3 +1907,17 @@ Del Grupo Interinstitucional de Trabajo
 199.- La instalación y coordinación del Grupo de Trabajo estará a cargo del IASIS, el DIF CDMX y un representante de Jefatura de Gobierno, quienes convocarán a los entes responsables y corresponsables, OSC, Instituciones Académicas, entre otros, sujetándose a lo establecido en el lineamiento interno que para tal efecto se emita.
 
 200.- Lo no previsto en el presente Protocolo se sujetará a lo establecido a la normativa vigente y aplicable en la materia.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 5 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EXPIDE EL PROTOCOLO INTERINSTITUCIONAL DE ATENCIÓN INTEGRAL A PERSONAS QUE VIVEN EN SITUACIÓN DE CALLE EN LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese el Presente Acuerdo en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se abroga el Acuerdo por el que se establece (sic) Protocolo Interinstitucional de Atención Integral a Personas en Riesgo de Vivir en Calle e Integrantes de las Poblaciones Callejeras en la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México el 16 de junio de 2016.
+
+CUARTO.- Una vez publicado el presente Acuerdo, la Secretaría de Inclusión y Bienestar Social, contará con sesenta días hábiles posteriores a la entrada en vigencia del presente, para realizar las medidas administrativas correspondientes para la creación del Comité Técnico para el Seguimiento, correspondiente.
