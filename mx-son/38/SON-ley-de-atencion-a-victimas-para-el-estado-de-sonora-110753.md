@@ -4,7 +4,7 @@ identifier: "SON-ley-de-atencion-a-victimas-para-el-estado-de-sonora-110753"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-26"
-last_updated: "2019-09-25"
+last_updated: "2020-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE MARZO DE 2020.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 26 de noviembre de 2015.
 
@@ -505,7 +505,9 @@ VII.- Coordinar a las instituciones competentes para la atención de una problem
 
 VIII.- Establecer mecanismos para la capacitación, formación, actualización y especialización de servidores públicos o dependientes de las instituciones, de conformidad con lo dispuesto en esta Ley;
 
-IX.- Realizar las acciones necesarias para la adecuada operación del Registro Estatal de Víctimas y de la Asesoría Jurídica Estatal;
+> <small>(REFORMADA, B.O. 5 DE MARZO DE 2020)</small>
+
+IX.- Integrar el registro Estatal de Víctimas y realizar las acciones necesarias para su adecuada operación y la de la Asesoría Jurídica Estatal;
 
 X.- Cumplir las directrices para alimentar de información el Registro Nacional de Víctimas;
 
@@ -709,13 +711,23 @@ Registro Estatal de Víctimas
 
 Se crea el Registro Estatal de Víctimas como mecanismo técnico y administrativo adscrito a la Comisión Ejecutiva Estatal, que soporta el proceso de ingreso y registro de las víctimas de delito y de violaciones de derechos humanos al Sistema Estatal creado por esta Ley, cuya información se integrará al Registro Nacional de Víctimas.
 
-El Registro Estatal de Víctimas recabará e integrará su información, entre otras, por las siguientes fuentes, siempre que cumplan con los requisitos contemplados en la Ley General de Víctimas y en la presente Ley:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 5 DE MARZO DE 2020)</small>
+
+La Comisión Ejecutiva Estatal deberá integrar el Registro Estatal de Víctimas, y recabará su información, entre otras, por las siguientes fuentes, siempre que cumplan con los requisitos contemplados en la Ley General de Víctimas y en la presente Ley:
 
 I.- Las solicitudes de ingreso hechas directamente por las víctimas del delito o de violaciones de derechos humanos, a través de su representante legal o de algún familiar o persona de confianza ante la Comisión Ejecutiva Estatal;
 
-II.- Las solicitudes de ingreso que presente cualquier autoridad estatal o municipal; y
+> <small>(REFORMADA, B.O. 5 DE MARZO DE 2020)</small>
 
-III.- Los registros de víctimas existentes al momento de la entrada en vigor de la presente Ley que se encuentren en cualquier institución o entidad del ámbito estatal, municipal así como de la Comisión Estatal de Derechos Humanos, en aquellos casos en donde se hayan dictado recomendaciones, medidas precautorias o bien se hayan celebrado acuerdos de conciliación.
+II.- Las solicitudes de ingreso que presente cualquier autoridad estatal o municipal;
+
+> <small>(REFORMADA, B.O. 5 DE MARZO DE 2020)</small>
+
+III.- Los registros de víctimas existentes al momento de la entrada en vigor de la presente Ley que se encuentren en cualquier institución o entidad del ámbito estatal o municipal, así como de la Comisión Estatal de Derechos Humanos, en aquellos casos en donde se hayan dictado recomendaciones, medidas precautorias o bien se hayan celebrado acuerdos de conciliación; y
+
+> <small>(ADICIONADA, B.O. 5 DE MARZO DE 2020)</small>
+
+IV.- Los registros de niñas, niños y adolescentes en situación de orfandad por feminicidio, que se encuentren en cualquier institución o entidad del ámbito estatal o municipal; así como los registros de la Comisión Estatal de los Derechos Humanos, en aquellos casos en donde se hayan dictado recomendaciones, medidas precautorias o bien se hayan celebrado acuerdos de conciliación.
 
 Las entidades productoras y usuarias de la información sobre las víctimas a nivel estatal y que posean registros de víctimas, pondrán a disposición del Registro Estatal de Víctimas la información que producen y administran, de conformidad con lo establecido en las leyes que regulan el manejo de datos personales, para lo cual se suscribirán los respectivos acuerdos de confidencialidad para el uso de la información.
 
@@ -1472,3 +1484,15 @@ La Secretaría de Gobierno, en un plazo de 30 días naturales contados a partir 
 Al año de la entrada en vigor del presente Decreto, la Comisión Ejecutiva Estatal rendirá un informe al Congreso del Estado, en el que indique las acciones que realizó para reparar el daño en las hipótesis a las que se refiere el artículo transitorio anterior.
 
 El Congreso podrá solicitar la comparecencia del titular de la Comisión Ejecutiva Estatal para que presente el informe correspondiente.
+
+B.O. 5 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 104, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SONORA Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado contará con 180 días naturales, a partir de la entrada en vigor del presente Decreto, para integrar los Registros a que se hace referencia en el mismo.
