@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2019-12-23"
+last_updated: "2020-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE MARZO DE 2020.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -1457,11 +1457,11 @@ El Patronato o Junta Directiva podrá autorizar a cualesquiera de sus integrante
 
 En el Estado de Sonora, sólo podrán promover y realizar suscripciones de cooperación pública, las instituciones de asistencia pública y aquellas instituciones de asistencia privada debidamente constituidas y registradas ante la Junta de Asistencia Privada.
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 5 DE MARZO DE 2020)</small>
 
-## TÍTULO DÉCIMO
+## TITULO DECIMO
 
-PROGRAMAS CONTRA LAS ADICCIONES, LAS ENFERMEDADES CARDIOVASCULARES, OBESIDAD, DIABETE (SIC), CANCER CERVICO-UTERINO Y ENFERMEDADES RENALES EN LA POBLACION INFANTIL DEL ESTADO
+PROGRAMAS CONTRA LAS ADICCIONES, LAS ENFERMEDADES CARDIOVASCULARES, OBESIDAD, DIABETES, CANCER CERVICO-UTERINO, ENFERMEDADES RENALES Y SALUD BUCODENTAL EN LA POBLACION INFANTIL DEL ESTADO
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 27 DE JUNIO DE 2013)</small>
 
@@ -1539,7 +1539,7 @@ II. La educación a la familia para prevenir el consumo de tabaco por parte de n
 
 III. Los efectos de la publicidad en la incidencia del tabaquismo y en los problemas relacionados con el consumo del tabaco.
 
-### CAPÍTULO IV. ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES, ASI COMO ENFERMEDADES RENALES EN LA POBLACION INFANTIL DEL ESTADO
+### CAPITULO IV. ENFERMEDADES CARDIOVASCULARES, OBESIDAD, DIABETES, ENFERMEDADES RENALES Y SALUD BUCODENTAL EN LA POBLACION INFANTIL DEL ESTADO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
@@ -1587,6 +1587,46 @@ III.- Hábitos alimenticios y de ejercitación física en los diferentes grupos 
 
 IV.- Dietas alimenticias y rutinas de ejercicio recomendadas por rango de edad, peso, estatura y diferenciado por género, encaminadas a mejorar la calidad de vida y prevenir enfermedades cardiovasculares, obesidad y diabetes en la población.
 
+> <small>(ADICIONADO, B.O. 5 DE MARZO DE 2020)</small>
+
+ARTICULO 148 BIS 2.- El programa de salud bucodental tiene el objeto (sic) dotar gratuitamente de un Paquete de Salud Bucodental a las alumnas y alumnos inscritos en escuelas públicas de niveles preescolar y primaria en el Estado de Sonora, por cada ciclo escolar anual, conforme al calendario autorizado por la Secretaría de Educación Pública.
+
+> <small>(ADICIONADO, B.O. 5 DE MARZO DE 2020)</small>
+
+ARTICULO 148 BIS 3.- Para efectos del programa de salud bucodental se consideran inscritos en las escuelas públicas de nivel preescolar y primaria en el Estado de Sonora:
+
+I.- Las alumnas y alumnos de nivel preescolar y primaria escolarizada, educación especial e indígena, pertenecientes a las escuelas públicas ubicadas en el Estado de Sonora.
+
+II.- Las alumnas y alumnos de preescolar inscritos en los Centros de Atención Integral (CAI) dependientes del Gobierno del Estado de Sonora; y
+
+III.- Las alumnas y alumnos de educación especial inscritos en Centros de Atención Múltiple (CAM), y los centros de Atención Múltiple Estatal (CAME) del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 5 DE MARZO DE 2020)</small>
+
+ARTICULO 148 BIS 4.- El Paquete de Salud Bucodental es el conjunto de los tres elementos siguientes:
+
+I.- Crema/pasta dental de entre 40 y 75 ml contando con los siguientes ingredientes: Flúor 1450 ppm, Carbonato de Calcio;
+
+II.- Cepillo de dientes de mango plástico con cerdas hechas de nylon con punta redondeada, para el caso de preescolar tamaño chico y para educación primaria tamaño mediano; y
+
+III.- Manual de los buenos hábitos del cepillado para la salud bucal.
+
+> <small>(ADICIONADO, B.O. 5 DE MARZO DE 2020)</small>
+
+ARTICULO 148 BIS 5.- La Secretaría de Educación y Cultura y la Secretaría de Salud Pública, serán las dependencias responsables de operar, de manera coordinada, el proceso de formación, adquisición, distribución y entrega de los paquetes de salud bucodental, para lo cual deberán llevar un registro y control de los paquetes de salud bucodental entregados y podrán solicitar el apoyo de otras dependencias, órganos desconcentrados, entidades y órganos administrativos del Estado, para la ejecución del programa de salud bucodental.
+
+> <small>(ADICIONADO, B.O. 5 DE MARZO DE 2020)</small>
+
+ARTICULO 148 BIS 6.- La Secretaría de Educación y Cultura y la Secretaría de Salud Pública, deberán coordinarse para incluir en sus respectivos proyectos de Presupuesto de Egresos de cada ejercicio fiscal, un monto suficiente que garantice la operación del programa de salud bucodental en la prevención de enfermedades bucodentales, a fin de otorgar al inicio de cada ciclo escolar, un paquete de salud bucodental a todos los alumnos inscritos en escuelas públicas de niveles preescolar y primaria del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 5 DE MARZO DE 2020)</small>
+
+ARTICULO 148 BIS 7.- El Congreso del Estado de Sonora, deberá aprobar en el Decreto del Presupuesto de Egresos del Gobierno del Estado en cada ejercicio fiscal, la asignación suficiente para hacer efectivo el derecho a recibir gratuitamente un paquete de salud bucodental a todos los alumnos inscritos en escuelas públicas del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 5 DE MARZO DE 2020)</small>
+
+ARTICULO 148 BIS 8.- En el ámbito de sus facultades, el Ejecutivo del Estado elaborará la reglamentación del programa en la que se establezcan los requisitos y procedimientos necesarios para hacer efectivo el derecho que otorga el programa de salud bucodental, así como los mecanismos para la evaluación y fiscalización de dicho programa.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 147.
@@ -1617,7 +1657,7 @@ V.- El Ejecutivo del Estado en coordinación con los Ayuntamientos deberán inst
 
 A los establecimientos que vendan o utilicen inhalantes con efectos psicotrópicos que no se ajusten al control que dispongan el Ejecutivo Estatal y los Ayuntamientos, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta ley.
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 5 DE MARZO DE 2020)</small>
 
 ### CAPITULO V. PROGRAMA CONTRA LA LUDOPATÍA
 
@@ -3342,3 +3382,15 @@ B.O. 23 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El Presente Decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 5 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 103, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE SALUD PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado contará con una (sic) plazo de 180 días naturales contados a partir de la entrada en vigor de la presente Ley para adecuar sus reglamentaciones al presente decreto.
