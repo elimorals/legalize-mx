@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-81-de-los-derechos-de-ninas-ninos-y-adolescentes-111
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2019-12-02"
+last_updated: "2020-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE MARZO DE 2020.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 17 de diciembre de 2015.
 
@@ -155,6 +155,10 @@ XXIV. Familia de Acogida: A aquella que cuente con la certificación de la autor
 
 XXV. Familia de Acogimiento Pre-adoptivo: A aquella distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez.
 
+> <small>(ADICIONADA, B.O. 5 DE MARZO DE 2020)</small>
+
+XXV BIS. Feminicidio: La muerte de una mujer por razones de género, ya sea que tenga lugar dentro de la familia, unidad doméstica o en cualquier otra relación interpersonal, en la comunidad, por parte de cualquier persona, o que sea perpetrada o tolerada por el Estado y sus agentes, por acción u omisión.
+
 XXVI. Igualdad: Al acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
 
 XXVII. Interés superior de la niñez: Al máximo beneficio que ha de otorgarse de conformidad con los derechos de las niñas, niños y adolescentes respecto de cualquier otro beneficio o derecho y que tiene como propósito alcanzar su desarrollo integral, así como la plenitud de sus aptitudes y capacidades hasta el máximo de sus posibilidades, tomando en consideración que cada uno de ellos es una universalidad y una individualidad en la que la familia, la comunidad y el propio Estado garantizarán ese pleno desarrollo.
@@ -195,7 +199,9 @@ XLIII. Tratados Internacionales: A los tratados internacionales vigentes en mate
 
 Esta Ley se aplicará a favor de las niñas, niños y adolescentes sin distinción alguna independientemente de su origen, cultura, sexo, idioma, religión, creencias, nacionalidad, discapacidad, circunstancias de nacimiento o cualquier otra condición propia de quienes legalmente ejerzan la patria potestad, su guarda o tutela en términos de las disposiciones aplicables, tomando en consideración las condiciones particulares de las niñas, niños y adolescentes en los diferentes grupos de población, a fin de proteger el goce igualitario de todos sus derechos humanos.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de las niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, o bien, sexo, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
+> <small>(REFORMADO, B.O. 5 DE MARZO DE 2020)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de las niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, orfandad por feminicidio, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, o bien, sexo, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
 
 ###### Artículo 7.
 
@@ -527,9 +533,11 @@ Las normas aplicables a las niñas y a las adolescentes deberán estar dirigidas
 
 ### Capítulo Sexto. Del Derecho a No ser Discriminado
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 5 DE MARZO DE 2020)</small>
+
 ###### Artículo 31.
 
-Niñas, niños y adolescentes tienen derecho a no ser discriminados, por lo que no deberá hacerse distinción, exclusión o restricción alguna de sus derechos, en razón de su raza, origen étnico, nacional o social, idioma, sexo, religión, opiniones, condición socioeconómica, discapacidad, circunstancias de nacimiento, estado de salud, apariencia o cualquier otra condición atribuible a ellos mismos o a su madre, padre, tutor, familiares o quienes ejerzan la custodia sobre ellos.
+Niñas, niños y adolescentes tienen derecho a no ser discriminados, por lo que no deberá hacerse distinción, exclusión o restricción alguna de sus derechos, en razón de encontrarse en orfandad por feminicidio, su raza, origen étnico, nacional o social, idioma, sexo, religión, opiniones, condición socioeconómica, discapacidad, circunstancias de nacimiento, estado de salud, apariencia o cualquier otra condición atribuible a ellos mismos o a su madre, padre, tutor, familiares o quienes ejerzan la custodia sobre ellos.
 
 No se entenderán como discriminatorias las medidas que se tomen y las normas que se dicten para proteger a las niñas, niños y adolescentes que se encuentren en circunstancias especialmente difíciles por estar privados de sus derechos y para procurar el ejercicio igualitario de éstos.
 
@@ -537,7 +545,9 @@ No se entenderán como discriminatorias las medidas que se tomen y las normas qu
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán:
 
-I. Llevar a cabo acciones especiales para prevenir, atender y erradicar la discriminación múltiple de la que son objeto niñas, niños y adolescentes en situación de exclusión social, condición de discapacidad, en situación de calle, cualquier forma de trabajo infantil, en las situaciones especiales contempladas en la presente Ley o cualquiera otra condición de marginalidad.
+> <small>(REFORMADA, B.O. 5 DE MARZO DE 2020)</small>
+
+I. Llevar a cabo acciones especiales para prevenir, atender y erradicar la discriminación múltiple de la que son objeto niñas, niños y adolescentes en situación de exclusión social, orfandad por feminicidio, condición de discapacidad, en situación de calle, cualquier forma de trabajo infantil, en las situaciones especiales contempladas en la presente Ley o cualquiera otra condición de marginalidad.
 
 II. Adoptar medidas y realizar acciones afirmativas, cuando sean necesarias, para garantizar que niñas y las adolescentes tengan igualdad de trato y oportunidades que los niños y los adolescentes.
 
@@ -563,9 +573,11 @@ Las autoridades estatales y municipales estarán obligadas de manera subsidiaria
 
 ### Capítulo Octavo. Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 5 DE MARZO DE 2020)</small>
+
 ###### Artículo 35.
 
-En los casos en que las niñas, niños y adolescentes sean víctimas de delitos se aplicarán las disposiciones aplicables. En todo caso, los protocolos de atención deberán considerar su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como la reparación integral del daño, resguardando en todo momento el interés superior del niño.
+En los casos en que las niñas, niños y adolescentes sean víctimas de delitos o se encuentren en situación de orfandad por feminicidio, se aplicarán las disposiciones aplicables. En todo caso, los protocolos de atención deberán considerar su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como la reparación integral del daño, resguardando en todo momento el interés superior del niño.
 
 Para el cumplimiento de lo dispuesto en el párrafo anterior, el Sistema Estatal de Protección a que se refiere la presente Ley se coordinará con las autoridades encargadas de la atención a víctimas y ofendidos del delito en términos de la legislación aplicable.
 
@@ -585,9 +597,17 @@ d) El tráfico de menores;
 
 e) El trabajo antes de la edad mínima de quince años, prevista en la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
 
-f) El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables, y
+> <small>(REFORMADO, B.O. 5 DE MARZO DE 2020)</small>
 
-g) La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral.
+f) El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables,
+
+> <small>(REFORMADO, B.O. 5 DE MARZO DE 2020)</small>
+
+g) La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral, y
+
+> <small>(ADICIONADO, B.O. 5 DE MARZO DE 2020)</small>
+
+h) El feminicidio de sus madres.
 
 II. Implementar las medidas apropiadas para prevenir, atender, sancionar y erradicar cualquier tipo de violencia o maltrato en contra de niñas, niños y adolescentes con discapacidad.
 
@@ -1187,6 +1207,10 @@ III. Aquellos adolescentes sujetos a los procedimientos establecidos en la Ley q
 
 IV. Niñas, niños y adolescentes en situación de calle, de acuerdo con la legislación y políticas aplicables en el Estado de Sonora.
 
+> <small>(ADICIONADA, B.O. 5 DE MARZO DE 2020)</small>
+
+V. Niñas, niños y adolescentes cuyas madres fueron víctimas de feminicidio.
+
 ###### Artículo 81.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, evaluarán el impacto de las políticas públicas y prácticas gubernamentales relacionadas con niñas, niños y adolescentes en situaciones especiales.
@@ -1385,7 +1409,9 @@ IV. Impulsar el conocimiento de los derechos de niñas, niños y adolescentes, a
 
 V. Garantizar el cabal cumplimiento de la presente Ley y de los instrumentos internacionales aplicables, en la medida que favorezcan la protección del interés superior de la niñez.
 
-VI. Adoptar medidas de protección especial de los derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con su sexo, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten sus derechos.
+> <small>(REFORMADA, B.O. 5 DE MARZO DE 2020)</small>
+
+VI. Adoptar medidas de protección especial de los derechos de niñas, niños y adolescentes que se encuentren en situación de orfandad por feminicidio, vulnerabilidad por circunstancias específicas de carácter socioeconómico, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con su sexo, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten sus derechos.
 
 VII. Ejecutar las medidas de protección especial de los derechos de niñas, niños y adolescentes que determine la Procuraduría Estatal de Protección Integral.
 
@@ -1533,7 +1559,9 @@ IV. Impulsar la cooperación y coordinación con las autoridades en los tres niv
 
 V. Prestar servicios de asistencia social y, en su caso, celebrar los convenios de colaboración con los sistemas municipales DIF, así como con organizaciones e instituciones de los sectores público, privado y social, en la medida que favorezca la salvaguarda del interés superior de la niñez.
 
-VI. Operar y monitorear las acciones, programas que se realicen en los establecimientos destinados a brindar asistencia social en beneficio de niñas, niños y adolescentes, especialmente con aquellos que sufren algún tipo de discapacidad.
+> <small>(REFORMADA, B.O. 5 DE MARZO DE 2020)</small>
+
+VI. Operar y monitorear las acciones, programas que se realicen en los establecimientos destinados a brindar asistencia social en beneficio de niñas, niños y adolescentes, especialmente con aquellos que sufren algún tipo de discapacidad o sean huérfanos por feminicidio.
 
 VII. Promover la formación, capacitación y profesionalización del personal de instituciones vinculadas con la protección y restitución de los derechos de niñas, niños y adolescentes, así como para realizar y apoyar estudios e investigaciones en la materia, en la medida que favorezca la salvaguarda del interés superior de la niñez.
 
@@ -2080,3 +2108,15 @@ B.O. 2 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 5 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 104, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SONORA Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado contará con 180 días naturales, a partir de la entrada en vigor del presente Decreto, para integrar los Registros a que se hace referencia en el mismo.
