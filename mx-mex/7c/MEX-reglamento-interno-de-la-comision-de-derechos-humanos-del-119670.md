@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-11967
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-02-14"
-last_updated: "2019-11-22"
+last_updated: "2020-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE MARZO DE 2020.
 
 Reglamento publicado en la Sección Tercera al Número 28 de la Gaceta del Gobierno del Estado de México, el martes 14 de febrero de 2017.
 
@@ -1189,6 +1189,10 @@ Establecer los procedimientos que han de observarse en la investigación, el tr�
 
 El inicio del procedimiento será por queja o de oficio.
 
+> <small>(ADICIONADO, G.G. 5 DE MARZO DE 2020)</small>
+
+Las investigaciones que se inicien de oficio, se regirán por las disposiciones que son aplicables a la queja.
+
 ### Capítulo II. De la presentación de la queja
 
 Presentación de la Queja
@@ -2088,6 +2092,14 @@ TERCERO. Aquellas disposiciones de igual o menor jerarquía que se opongan a la 
 G.G. 22 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO EXTRAORDINARIO 1/2019-2E POR EL QUE SE REFORMA Y ADICIONA EL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, ASÍ COMO EL MANUAL GENERAL DE ORGANIZACIÓN DEL ORGANISMO, A EFECTO DE ESTABLECER LAS ATRIBUCIONES Y FUNCIONES DE LA PRIMERA VISITADURÍA GENERAL, SECRETARÍA GENERAL Y CENTRO DE ESTUDIOS EN DERECHOS HUMANOS, RELATIVAS A LA CERTIFICACIÓN EN DERECHOS HUMANOS”.]
+
+PRIMERO. Publíquese este Acuerdo en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno", así como en la Gaceta de Derechos Humanos, órgano informativo de la Comisión de Derechos Humanos del Estado de México.
+
+SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno".
+
+G.G. 5 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 2/2020-07 POR EL QUE SE MODIFICA EL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO”.]
 
 PRIMERO. Publíquese este Acuerdo en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno", así como en la Gaceta de Derechos Humanos, órgano informativo de la Comisión de Derechos Humanos del Estado de México.
 
