@@ -4,7 +4,7 @@ identifier: "SON-ley-de-los-derechos-de-las-personas-adultas-mayores-del-57046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-07"
-last_updated: "2017-11-06"
+last_updated: "2020-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE SONORA ANTES - LEY DE LOS ADULTOS MAYORES DEL ESTADO DE SONORA
 
-LEY DE LOS ADULTOS MAYORES DEL ESTADO DE SONORA
+LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE MARZO DE 2020.
 
 Ley publicada en la Edición Especial 14 al Boletín Oficial del Estado de Sonora, el viernes 7 de septiembre de 2007.
 
@@ -37,7 +37,9 @@ N U M E R O 80
 
 EL CONGRESO DEL ESTADO EN NOMBRE DEL PUEBLO DE SONORA, TIENE A BIEN EXPEDIR LA SIGUIENTE:
 
-LEY DE LOS ADULTOS MAYORES DEL ESTADO DE SONORA
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 5 DE MARZO DE 2020)</small>
+
+LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE SONORA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -82,6 +84,10 @@ IX.- Gerontología.- Al estudio científico sobre la vejez, desde el punto de vi
 X.- Familia.- Los parientes de los adultos mayores, atendiendo a lo dispuesto por las reglas de parentesco estipuladas en el Código Civil para el Estado de Sonora, así como el matrimonio y el concubinato.
 
 XI.- Atención médica.- Al conjunto de servicios integrales para la prevención, tratamiento, curación y rehabilitación que se proporcionan a los adultos mayores en todos los niveles, con el fin de proteger, promover y restaurar su salud.
+
+> <small>(ADICIONADA, B.O. 5 DE MARZO DE 2020)</small>
+
+XII.- Situaciones de riesgo o desamparo: Cuando por problemas de salud, abandono, carencia de apoyos económicos, familiares, contingencias ambientales o desastres naturales, requieran de asistencia y protección del Gobierno del Estado, de los Gobiernos Municipales y de la Sociedad civil Organizada.
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS
 
@@ -1542,3 +1548,11 @@ La Secretaría de Salud Pública, dentro de los noventa días hábiles siguiente
 ###### ARTÍCULO TERCERO.
 
 La Secretaría de Desarrollo Social velará por la inclusión en el Presupuesto de Egresos 2018 de una partida específica para otorgar el apoyo a que se refiere el adicionado artículo 38 BIS.
+
+B.O. 5 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 102, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE ADULTOS MAYORES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
