@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-124615"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-24"
-last_updated: "2018-10-01"
+last_updated: "2020-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de noviembre de 2017.
 
@@ -1889,9 +1889,11 @@ El titular de la Secretaría Ejecutiva será nombrado y removido libremente por 
 
 I. Tener ciudadanía mexicana en pleno goce de sus derechos civiles y políticos;
 
-II. Tener más de 30 años de edad;
+II. (DEROGADA, P.O. 5 DE MARZO DE 2020)
 
-III. Contar con título profesional de nivel licenciatura debidamente registrado; en Ciencias Políticas, Derecho, Sociología o áreas afines a las ciencias sociales, como Psicología, Pedagogía, entre otras;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2020)</small>
+
+III. Contar con título y cédula profesional de nivel licenciatura debidamente registrados en Ciencias Políticas, Derecho, Sociología o áreas afines a las ciencias sociales, como Psicología, Pedagogía, entre otras, con antigüedad al menos de tres años al día de su designación;
 
 IV. Contar con Maestría, Diplomado o especialidad en áreas afines a los derechos de niños, niñas y adolescentes;
 
@@ -1993,9 +1995,11 @@ El titular de la Secretaría Ejecutiva Municipal será nombrado y removido libre
 
 I. Tener ciudadanía mexicana en pleno goce de sus derechos civiles y políticos;
 
-II. Tener más de 30 años de edad;
+II. (DEROGADA, P.O. 5 DE MARZO DE 2020)
 
-III. Contar con título profesional de nivel licenciatura debidamente registrado;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2020)</small>
+
+III. Contar con título y cédula profesional de nivel licenciatura debidamente registrados con antigüedad de por lo menos tres años a la fecha de su designación;
 
 IV. Contar con al menos cinco años de experiencia en las áreas correspondientes a su función; y
 
@@ -2143,9 +2147,11 @@ Los requisitos para ser nombrado titular de la Procuraduría de Protección de N
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 
-II. Tener más de 35 años de edad;
+II. (DEROGADA, P.O. 5 DE MARZO DE 2020)
 
-III. Contar con título profesional de licenciatura en derecho debidamente registrado;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2020)</small>
+
+III. Contar con título y cédula profesional de licenciatura en derecho debidamente registrados, con antigüedad al menos de tres años al día de su designación;
 
 IV. Contar con al menos cinco años de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes, y
 
@@ -2225,9 +2231,11 @@ La persona titular de la Procuraduría Municipal de Protección deberá cumplir 
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener una residencia mínima de tres años en el Estado;
 
-II. Tener más de veinticinco años de edad;
+II. (DEROGADA, P.O. 5 DE MARZO DE 2020)
 
-III. Contar con título y cédula profesional de Licenciatura en Derecho debidamente registrado;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2020)</small>
+
+III. Contar con título y cédula profesional de licenciatura en derecho debidamente registrados, con antigüedad al menos de tres años al día de su designación;
 
 IV. Contar con al menos un año de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes, y
 
@@ -2366,3 +2374,11 @@ P.O. 1 DE OCTUBRE DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 5 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0604.- SE REFORMA LOS ARTÍCULOS, 119 EN SU FRACCIÓN III, 123 EN SU FRACCIÓN III, 130 EN SU FRACCIÓN III, Y 136 EN SU FRACCIÓN III; Y DEROGA DE LOS ARTÍCULOS, 119 LA FRACCIÓN II, 123 LA FRACCIÓN II, 130 LA FRACCIÓN II, Y 136 LA FRACCIÓN II, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
