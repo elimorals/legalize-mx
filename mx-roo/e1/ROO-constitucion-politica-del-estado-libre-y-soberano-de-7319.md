@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2020-01-03"
+last_updated: "2020-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -3929,6 +3929,10 @@ La prescripción se interrumpirá en los términos que establezca la legislació
 
 Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente. No podrá imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2020)</small>
+
+La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
+
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 161.
@@ -5434,3 +5438,11 @@ P.O. 3 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 009 POR EL QUE SE REFORMAN LAS FRACCIONES LIII Y LIV, Y SE ADICIONA UNA FRACCIÓN LV DEL ARTÍCULO 75, ASÍ COMO UN PÁRRAFO SEXTO AL ARTÍCULO 13 RECORRIÉNDOSE LOS SUBSECUENTES, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 6 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA NÚMERO 002 POR EL (SIC) QUE SE ADICIONA UN PÁRRAFO ÚLTIMO AL ARTÍCULO 160 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo, sin perjuicio de lo establecido en el artículo transitorio siguiente.
+
+SEGUNDO. La Legislatura del Estado, deberá llevar a cabo las modificaciones necesarias en la legislación local, con el objeto de que una vez que éstas entren en vigor, las autoridades competentes asuman las facultades para el debido cumplimiento de lo previsto en el presente decreto y en las leyes que derivan del mismo en los términos que en ellas se establezcan.
