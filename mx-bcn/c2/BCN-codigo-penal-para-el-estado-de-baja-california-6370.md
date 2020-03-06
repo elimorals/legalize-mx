@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2019-11-20"
+last_updated: "2020-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2020.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -3281,9 +3281,9 @@ Profanación de cadáveres.- La misma pena prevista en el artículo anterior o, 
 
 ## TITULO PRIMERO. DELITOS DE PELIGRO CONTRA LA SEGURIDAD COLECTIVA
 
-### CAPITULO I. ATAQUES A LAS VIAS DE COMUNICACION Y A LOS MEDIOS DE TRANSPORTE
+### CAPITULO VI. CONTRA EL SERVICIO DE CONTROL VEHICULAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2020)</small>
 
 ###### Artículo 245.
 
@@ -3315,9 +3315,9 @@ Artículo 246 BIS.- Excluyente de la acción penal.- Será causa de excluyente d
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE AGOSTO DE 2007)</small>
 
-### CAPITULO II. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULO
+### CAPITULO I. ATAQUES A LAS VIAS DE COMUNICACION Y A LOS MEDIOS DE TRANSPORTE
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 247.
 
@@ -3349,15 +3349,17 @@ ARTÍCULO 248 BIS.- Agravante por Pandillerismo.- Cuando se ejecuten uno o más 
 
 Si en la comisión de uno o más delitos en los términos del párrafo anterior intervienen personas menores de dieciocho años de edad como integrantes de la pandilla, esta circunstancia no relevará de responsabilidad a los mayores de edad y se aplicará el aumento de la sanción a que este artículo se refiere, además de las sanciones que correspondan por la comisión de otros delitos.
 
-### CAPITULO III. VIOLACION DE CORRESPONDENCIA
+### CAPITULO II. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULO
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 249.
 
 Tipo y punibilidad.- Al que provoque públicamente a cometer un delito o haga apología de éste o de algún vicio, se le aplicará prisión de uno a tres años y hasta cincuenta días multa, si el delito no se ejecutare. En caso contrario, se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
 
-### CAPITULO I. FALSIFICACION Y USO UNDEBIDO (SIC) DE SELLOS, MARCAS, LLAVES, CONTRASEÑAS Y OTROS OBJETOS
+### CAPITULO III. VIOLACION DE CORRESPONDENCIA
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 250.
 
@@ -3379,7 +3381,7 @@ La misma pena se impondrá a quien venda bebidas alcohólicas a menores de dieci
 
 (REFORMA SU DENOMINACIÓN, P.O. 24 DE MAYO DE 2019)
 
-### CAPITULO II. FALSIFICACION DE DOCUMENTOS Y USO DE DOCUMENTOS FALSOS
+### CAPITULO I. FALSIFICACION Y USO UNDEBIDO (SIC) DE SELLOS, MARCAS, LLAVES, CONTRASEÑAS Y OTROS OBJETOS
 
 ###### Artículo 250 Ter.
 
@@ -3391,17 +3393,23 @@ Las sanciones previstas en este artículo se impondrán sin perjuicio de las med
 
 Este delito se perseguirá por querella de la dependencia u Órgano Estatal o Municipal del ramo.
 
-### CAPITULO III. USURPACION DE PROFESIONES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE MARZO DE 2020)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+### CAPITULO II. FALSIFICACION DE DOCUMENTOS Y USO DE DOCUMENTOS FALSOS
+
+###### Artículo 250 Quater.
+
+Comete el delito en contra del servicio de control vehicular, la persona que sin contar con la autorización de la autoridad pública competente, promueva o expida cualquier tipo de documentos, insignias, engomados, láminas o cartones de identificación vehicular, con la promesa o convicción para quien los recibe, que con ellos podrá circular un vehículo de motor que no cuente con documentos que acrediten su estancia y circulación legal en el territorio del Estado. Este delito se perseguirá de oficio.
+
+AI responsable de las conductas previstas en este artículo se le aplicará de 3 a 9 años de prisión y multa de quinientas a dos mil veces el equivalente a la Unidad de Medida de Actualización.
+
+Si este delito es cometido al amparo de empresas, organizaciones o personas morales, las mismas serán penalmente responsables conforme al procedimiento para personas jurídicas previsto en el Código Nacional de Procedimientos Penales.
 
 ## TITULO SEGUNDO. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LAS VÍAS DE COMUNICACIÓN Y LOS MEDIOS TRANSPORTE
 
-### CAPITULO I
+### CAPITULO III. USURPACION DE PROFESIONES
 
-CORRUPCION DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 251.
 
@@ -3423,11 +3431,11 @@ Ataques a través de los medios de transporte.- Al que dolosamente ponga en movi
 
 Pena adicional para el delito cometido por medio de vehículo, motor o maquinaria.- Cuando se cause algún daño por medio de cualquier vehículo, motor o maquinaria, además de aplicar las penas por el delito que resulte, se inhabilitará al delincuente para manejar aquellos aparatos por un tiempo no menor de seis meses ni mayor de cinco años.
 
-### CAPITULO II
+### CAPITULO I
 
-PORNOGRAFIA Y TURISMO SEXUAL DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
+CORRUPCION DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
 
-> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 255.
 
@@ -3445,9 +3453,9 @@ Cuando se cause daño a las personas y/o a las cosas se le impondrá prisión de
 
 Agravación de la pena.- Si el delito se comete por conductores de vehículos destinados al transporte escolar o al servicio público de pasajeros o de carga, en el momento que se encuentren prestando el servicio público que les fue autorizado, se impondrá, la primera vez, de uno a cuatro años de prisión, multa de cincuenta a trescientos días y suspensión de uno a seis meses en el ejercicio de esta profesión. En caso de que el mismo conductor vuelva a incurrir en la comisión de este ilícito, dentro del plazo de tres años contado a partir de que se cumpla la suspensión, la pena será de dos a seis años de prisión, multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización y pérdida definitiva del derecho a ejercer la profesión de conductor, además del decomiso del vehículo cuando sea propiedad del responsable.
 
-### CAPITULO III
+### CAPITULO II
 
-LENOCINIO Y TRATA DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
+PORNOGRAFIA Y TURISMO SEXUAL DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
 
 > <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2007)</small>
 
@@ -3459,7 +3467,9 @@ Exclusión de pena, por razón de la patria potestad, tutela o custodia.- No se 
 
 ## TITULO TERCERO. DELITOS CONTRA LA FE PUBLICA
 
-### CAPITULO IV. LENOCINIO Y TRATA DE PERSONAS
+### CAPITULO III
+
+LENOCINIO Y TRATA DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
 
 > <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2007)</small>
 
@@ -3475,7 +3485,9 @@ II.- Use indebidamente los objetos señalados en la fracción anterior.
 
 Se incrementará la pena hasta en una tercera parte, cuando el autor sea o haya sido integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión.
 
-### CAPITULO UNICO. RESPONSABILIDAD PROFESIONAL Y TECNICA
+### CAPITULO IV. LENOCINIO Y TRATA DE PERSONAS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### Artículo 259.
 
@@ -3491,9 +3503,9 @@ De igual forma comete el delito de falsificación el que sin autorización para 
 
 Se incrementará la pena hasta en una tercera parte, cuando el autor sea o haya sido servidor público o integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión.
 
-### CAPITULO I. REBELION
+### CAPITULO UNICO. RESPONSABILIDAD PROFESIONAL Y TECNICA
 
-### CAPITULO II. SEDICION
+### CAPITULO I. REBELION
 
 ###### Artículo 260.
 
@@ -3507,7 +3519,7 @@ Las mismas penas se aplicarán al que sin tener título o autorización para eje
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2007)</small>
 
-### CAPITULO III. MOTIN
+### CAPITULO II. SEDICION
 
 ###### ARTÍCULO 261.
 
@@ -3575,9 +3587,9 @@ Cuando no sea posible determinar con precisión la edad de la persona o personas
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2007)</small>
 
-### CAPITULO IV. TERRORISMO
+### CAPITULO III. MOTIN
 
-### CAPITULO V. SABOTAJE
+### CAPITULO IV. TERRORISMO
 
 ###### Artículo 262.
 
@@ -3633,7 +3645,7 @@ En el supuesto previsto en la fracción VI de este artículo al sujeto activo, a
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2007)</small>
 
-### CAPITULO VI. CONSPIRACION
+### CAPITULO V. SABOTAJE
 
 ###### Artículo 264.
 
@@ -3687,7 +3699,7 @@ Artículo 266 TER.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
 
 > <small>(ADICIONADO, P.O. 11 DE MAYO DE 2007)</small>
 
-### CAPITULO VII. ULTRAJES CONTRA INSTITUCIONES PUBLICAS
+### CAPITULO VI. CONSPIRACION
 
 ###### Artículo 267.
 
@@ -3717,7 +3729,7 @@ Los delitos contemplados en este Título sólo se perseguirán en su comisión d
 
 ## TITULO QUINTO. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESION
 
-### CAPITULO VIII. ULTRAJES A INSIGNIAS PUBLICAS
+### CAPITULO VII. ULTRAJES CONTRA INSTITUCIONES PUBLICAS
 
 ###### Artículo 269.
 
@@ -3743,7 +3755,7 @@ Responsabilidad por substitución de medicamentos.- A los responsables, encargad
 
 ## TITULO PRIMERO. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
-### CAPITULO IX. DISPOSICIONES COMUNES PARA LOS CAPITULOS DE ESTE TITULO
+### CAPITULO VIII. ULTRAJES A INSIGNIAS PUBLICAS
 
 ###### Artículo 273.
 
@@ -3773,9 +3785,7 @@ Acumulación.- Cuando durante una rebelión se cometan los delitos de homicidio,
 
 Excusa absolutoria.- No se aplicará sanción a los que depongan las armas antes de ser tomados prisioneros, si no hubiesen cometido alguno de los delitos mencionados en el artículo anterior.
 
-### CAPITULO I. DISPOSICIONES COMUNES
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+### CAPITULO IX. DISPOSICIONES COMUNES PARA LOS CAPITULOS DE ESTE TITULO
 
 ###### Artículo 277.
 
@@ -3783,7 +3793,7 @@ Tipo y punibilidad.- Se impondrá de seis meses a cuatro años de prisión y has
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otras para cometer el delito de sedición, se les aplicará la pena de dos a cinco años de prisión y hasta doscientos días multa.
 
-### CAPITULO II. EJERCICIO ILÍCITO Y ABANDONO DEL SERVICIO PÚBLICO
+### CAPITULO I. DISPOSICIONES COMUNES
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
@@ -3793,7 +3803,9 @@ Tipo y punibilidad.- Se impondrá de tres meses a dos años de prisión y hasta 
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de motín, se les aplicará la sanción de uno a tres años de prisión y hasta cien días multa.
 
-### CAPITULO III. ABANDONO DE FUNCIONES
+### CAPITULO II. EJERCICIO ILÍCITO Y ABANDONO DEL SERVICIO PÚBLICO
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
 ###### Artículo 279.
 
@@ -3803,9 +3815,7 @@ Tipo de punibilidad.- Se impondrá prisión de dos a treinta años y hasta quini
 
 Artículo 279 BIS.- Subtipo y Punibilidad.- Se impondrá pena de uno a tres años de prisión y hasta ciento cincuenta días multa, a quien por cualquier forma, ya sea escrita, oral, electrónica, o medio de comunicación, anuncie a un servidor público o particular a sabiendas de su falsedad, la existencia de explosivos, sustancias tóxicas, biológicas, incendiarias o de cualquier otro medio capaz de causar daños en instalaciones públicas o privadas, que produzcan alarma, temor o terror a las personas que se encuentren en su interior, perturben la paz pública o suspendan un servicio.
 
-### CAPITULO IV. ABUSO DE AUTORIDAD
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+### CAPITULO III. ABANDONO DE FUNCIONES
 
 ###### Artículo 280.
 
@@ -3813,7 +3823,7 @@ Tipo y punibilidad.- Se impondrá de dos a seis años de prisión y hasta doscie
 
 Se aplicará sanción de tres meses a dos años de prisión y hasta cincuenta días multa al que teniendo conocimiento de las actividades de un saboteador y de su identidad, no lo haga saber a las autoridades.
 
-### CAPITULO V. COALICIÓN DE SERVIDORES PÚBLICOS
+### CAPITULO IV. ABUSO DE AUTORIDAD
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
@@ -3821,7 +3831,7 @@ Se aplicará sanción de tres meses a dos años de prisión y hasta cincuenta d�
 
 Tipo y punibilidad.- Se impondrá de dos meses a dos años de prisión y hasta cien días multa a quienes resuelvan, de concierto, cometer uno o varios de los delitos del presente título y acuerden los medios de llevar a cabo su determinación.
 
-### CAPITULO VI. COHECHO
+### CAPITULO V. COALICIÓN DE SERVIDORES PÚBLICOS
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
@@ -3829,7 +3839,7 @@ Tipo y punibilidad.- Se impondrá de dos meses a dos años de prisión y hasta c
 
 Tipo y punibilidad.- Los ultrajes hechos al Congreso del Estado, a un Tribunal, a un cuerpo colegiado de la administración de justicia o a cualquier institución pública, se castigará con prisión de seis meses a dos años y hasta cien días multa.
 
-### CAPITULO VII. PECULADO
+### CAPITULO VI. COHECHO
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
@@ -3837,7 +3847,9 @@ Tipo y punibilidad.- Los ultrajes hechos al Congreso del Estado, a un Tribunal, 
 
 Tipo y punibilidad.- Al que ultraje las insignias del Estado o del Municipio o de cualquiera de sus instituciones se le aplicará de seis meses a dos años de prisión y hasta cien días multa.
 
-### CAPITULO VIII. CONCUSION
+### CAPITULO VII. PECULADO
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
 ###### Artículo 284.
 
@@ -3865,7 +3877,7 @@ Se impondrá la pena establecida en el párrafo anterior, cuando el autor sea o 
 
 ## TITULO SEGUNDO. DELITOS POR HECHOS DE CORRUPCIÓN
 
-### CAPITULO IX. INFIDELIDAD EN LA CUSTODIA DE DOCUMENTOS Y VIOLACION DE SECRETOS
+### CAPITULO VIII. CONCUSION
 
 ###### Artículo 288.
 
@@ -3907,9 +3919,7 @@ Artículo 289 BIS.- Cuando los delitos previstos por los artículos 293, 306 y 3
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2018)</small>
 
-### CAPITULO X. USO ILÍCITO DE ATRIBUCIONES Y FACULTADES
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+### CAPITULO IX. INFIDELIDAD EN LA CUSTODIA DE DOCUMENTOS Y VIOLACION DE SECRETOS
 
 ###### Artículo 290.
 
@@ -3931,7 +3941,7 @@ Al que cometa alguno de los delitos a que se refieren las fracciones I y II de e
 
 Al infractor de las fracciones III, IV, V y VI se le impondrán de dos a siete años de prisión y de treinta a ciento cincuenta días multa.
 
-### CAPITULO XI. INTIMIDACION
+### CAPITULO X. USO ILÍCITO DE ATRIBUCIONES Y FACULTADES
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
@@ -3939,7 +3949,7 @@ Al infractor de las fracciones III, IV, V y VI se le impondrán de dos a siete a
 
 Abandono de funciones.- Las mismas penas del artículo anterior se impondrán al que sin habersele admitido la renuncia de una comisión, empleo o cargo, o antes de que se presente la persona que haya de reemplazarlo, lo abandone sin causa justificada.
 
-### CAPITULO XII. TRAFICO DE INFLUENCIAS
+### CAPITULO XI. INTIMIDACION
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
@@ -4027,6 +4037,20 @@ Artículo 293 BIS.- El servidor público que en el ejercicio de sus funciones, e
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2018)</small>
 
+### CAPITULO XII. TRAFICO DE INFLUENCIAS
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+
+###### Artículo 294.
+
+Tipo.- Cometen el delito de coalición de servidores públicos, los que teniendo tal carácter se coaliguen para tomar medidas contrarias a una Ley, Reglamento u otras disposiciones de carácter general, impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas. No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o que hagan uso del derecho de huelga.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+
+###### Artículo 295.
+
+Punibilidad.- A los que cometan el delito de coalición se les impondrá de dos años a siete años de prisión y multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito.
+
 ### CAPITULO XIII. PREVENCION Y SANCION DE LA TORTURA
 
 (NOTA: EL 23 DE ABRIL DE 2020 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 57/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE JUNIO DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
@@ -4066,40 +4090,6 @@ Se aplicarán las mismas penas al tercero que, con cualquier finalidad, instigad
 No se consideran como causas excluyentes de responsabilidad del delito de tortura el que se invoquen o existan situaciones excepcionales como inestabilidad política interna, urgencia en la investigación o cualquier otra circunstancia. Tampoco podrá invocarse como justificación la orden de un superior jerárquico o de cualquier otra autoridad.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE MARZO DE 2003)</small>
-
-###### Artículo 294.
-
-Tipo.- Cometen el delito de coalición de servidores públicos, los que teniendo tal carácter se coaliguen para tomar medidas contrarias a una Ley, Reglamento u otras disposiciones de carácter general, impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas. No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o que hagan uso del derecho de huelga.
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
-
-###### Artículo 295.
-
-Punibilidad.- A los que cometan el delito de coalición se les impondrá de dos años a siete años de prisión y multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito.
-
-### CAPITULO XIV. ENRIQUECIMIENTO ILICITO
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
-
-Artículo 307 QUATER.- Se sancionará a quien, con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño.
-
-Para efectos del párrafo anterior, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que el servidor público acredite que éstos los obtuvieron por sí mismos.
-
-No será enriquecimiento ilícito en caso de que el aumento del patrimonio sea producto de una conducta que encuadre en otra hipótesis del presente Título. En este caso se aplicará la hipótesis y la sanción correspondiente, sin que dé lugar al concurso de delitos.
-
-Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguientes sanciones:
-
-Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar de acuerdo a las leyes de la materia.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
-
-Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente en el momento que sucedan los hechos, se impondrán de tres meses a dos años de prisión, multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometerse el delito.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
-
-Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente en el momento que se cometieron los hechos, se impondrán de dos a catorce años de prisión, multa de trescientas a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometerse el delito.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2018)</small>
 
 ###### Artículo 296.
 
@@ -4149,9 +4139,29 @@ Para los efectos de este artículo se entiende por servidor público extranjero,
 
 Cuando alguno de los delitos comprendidos en este artículo se cometa en los supuestos a que se refiere el artículo 19 de este Código, el juez impondrá a la persona moral una multa de hasta mil veces el valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito y podrá decretar su suspensión o disolución, tomando en consideración el grado de conocimiento de los órganos de administración respecto del cohecho en la transacción internacional y el daño causado o el beneficio obtenido por la persona moral.
 
-### CAPITULO XV. DELITOS CONTRA EL DESARROLLO URBANO
+### CAPITULO XIV. ENRIQUECIMIENTO ILICITO
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+
+Artículo 307 QUATER.- Se sancionará a quien, con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño.
+
+Para efectos del párrafo anterior, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que el servidor público acredite que éstos los obtuvieron por sí mismos.
+
+No será enriquecimiento ilícito en caso de que el aumento del patrimonio sea producto de una conducta que encuadre en otra hipótesis del presente Título. En este caso se aplicará la hipótesis y la sanción correspondiente, sin que dé lugar al concurso de delitos.
+
+Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguientes sanciones:
+
+Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar de acuerdo a las leyes de la materia.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente en el momento que sucedan los hechos, se impondrán de tres meses a dos años de prisión, multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometerse el delito.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente en el momento que se cometieron los hechos, se impondrán de dos a catorce años de prisión, multa de trescientas a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometerse el delito.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2018)</small>
 
 ###### Artículo 298.
 
@@ -4185,7 +4195,9 @@ III.- Cuando el monto de lo distraído exceda de dos mil veces el salario, se le
 
 Al servidor público responsable de peculado, se le destituirá e inhabilitará para desempeñar otro empleo, cargo o comisión públicos por un término igual a los señalados en los párrafos anteriores, según el que se haya aplicado.
 
-### CAPITULO I. PROMOCION DE CONDUCTAS ILICITAS, COHECHO Y DISTRACCION DE RECURSOS PUBLICOS
+### CAPITULO XV. DELITOS CONTRA EL DESARROLLO URBANO
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 307
 
@@ -4217,7 +4229,7 @@ Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivale
 
 Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientos días de salario al momento de cometerse el delito, se impondrán de dos años a doce años de prisión y multa de cien a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito.
 
-### CAPITULO II. DESOBEDIENCIA DE PARTICULARES
+### CAPITULO I. PROMOCION DE CONDUCTAS ILICITAS, COHECHO Y DISTRACCION DE RECURSOS PUBLICOS
 
 ###### Artículo 302.
 
@@ -4233,7 +4245,7 @@ Utilización indebida de descubrimiento científico, etc.- Igual pena se impondr
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2018)</small>
 
-### CAPITULO III. QUEBRANTAMIENTO DE SELLOS
+### CAPITULO II. DESOBEDIENCIA DE PARTICULARES
 
 ###### Artículo 305.
 
@@ -4277,7 +4289,7 @@ II. Cuando estando legalmente obligado a entregar a una autoridad información s
 
 Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión y multa de treinta a cien veces el valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito.
 
-### CAPITULO IV. DELITOS COMETIDOS CONTRA FUNCIONARIOS PUBLICOS
+### CAPITULO III. QUEBRANTAMIENTO DE SELLOS
 
 ###### Artículo 306.
 
@@ -4291,9 +4303,7 @@ Al que cometa el delito de intimidación se le impondrán de dos a nueve años d
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2018)</small>
 
-### CAPITULO V. USURPACION DE FUNCIONES PUBLICAS
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+### CAPITULO IV. DELITOS COMETIDOS CONTRA FUNCIONARIOS PUBLICOS
 
 ###### Artículo 307.
 
@@ -4307,6 +4317,10 @@ III.- Al particular que, sin estar autorizado legalmente para intervenir en un n
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE OCTUBRE DE 1992)</small>
 
+### CAPITULO V. USURPACION DE FUNCIONES PUBLICAS
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
 ### CAPITULO VI. USO INDEBIDO DE CONDECORACIONES
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
@@ -4315,15 +4329,11 @@ III.- Al particular que, sin estar autorizado legalmente para intervenir en un n
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
+## TITULO TERCERO. DELITOS CONTRA LA ADMINISTRACION PUBLICA COMETIDOS POR PARTICULARES
+
 ### CAPITULO VIII. VARIACION DEL NOMBRE O DEL DOMICILIO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
-
-## TITULO TERCERO. DELITOS CONTRA LA ADMINISTRACION PUBLICA COMETIDOS POR PARTICULARES
-
-### CAPITULO I. DISPOSICIONES COMUNES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 308.
 
@@ -4341,9 +4351,9 @@ Cohecho cometido por particulares.- El que dé, prometa o entregue cualquier ben
 
 Peculado impropio.- Cualquier persona que sin tener el carácter de servidor público estatal y estando obligada legalmente a la custodia, administración o aplicación de recursos públicos estatales, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó, se le aplicará de seis meses a tres años de prisión y de cincuenta a cien días multa.
 
-### CAPITULO II. FRAUDE PROCESAL
+### CAPITULO I. DISPOSICIONES COMUNES
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 311.
 
@@ -4371,9 +4381,9 @@ Coacción a la autoridad.- Al que por medio de la violencia física o moral exij
 
 Consumación de medios de apremio.- Cuando la Ley autorice el empleo de medios de apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumarán los delitos de resistencia y desobediencia cuando se hubiesen agotado tales medios.
 
-### CAPITULO III. EVASION DE PRESOS
+### CAPITULO II. FRAUDE PROCESAL
 
-> <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JUNIO DE 2018)</small>
 
 ###### Artículo 316.
 
@@ -4381,9 +4391,9 @@ Tipo y punibilidad.- Al que indebidamente destruya, retire, o de cualquier otro 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE ENERO DE 1997)</small>
 
-### CAPITULO IV. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
+### CAPITULO III. EVASION DE PRESOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 317.
 
@@ -4403,21 +4413,23 @@ Esta disposición no surtirá efectos en los casos de delitos no graves por culp
 
 En el caso de Homicidio y lesiones calificadas contra algún miembro activo de las instituciones policiales del Estado, se atenderá a los (sic) dispuesto en el artículo 147 del presente Código.
 
-### CAPITULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
+### CAPITULO IV. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 318.
 
 Tipo y punibilidad.- Se impondrá prisión de uno a seis años y de cien a trescientos días multa, al que sin ser servidor público, se atribuya ese carácter y ejerza alguna de las funciones de tal.
 
-### CAPITULO VI. EJERCICIO INDEBIDO DEL PROPIO DERECHO
+### CAPITULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 319.
 
 Tipo y punibilidad.- Se impondrá prisión de uno a seis años y cien a trescientos días multa, al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho, con el propósito de obtener un beneficio indebido o lesionar la dignidad o respeto de la corporación o de la investidura que correspondan aquellos.
 
-### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+### CAPITULO VI. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
 ###### Artículo 320.
 
@@ -4437,9 +4449,7 @@ Presentación de testigos falsos y otros.- Al que presente testigos falsos conoc
 
 Además de las penas a que se refiere el párrafo anterior, el perito, intérprete o traductor sufrirá inhabilitación para desempeñar sus funciones hasta por dos años.
 
-### CAPITULO I. DELITOS CONTRA EL MEDIO AMBIENTE
-
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2007)</small>
+### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
 
 ###### Artículo 322.
 
@@ -4449,13 +4459,15 @@ I.- Al que oculte su nombre o apellido y tome otro imaginario o el de otra perso
 
 II.- Al que, para eludir la práctica de una diligencia judicial o una notificación de cualquier clase o citación de una autoridad, oculte su domicilio o designe otro distinto o niegue de cualquier modo el verdadero.
 
-### CAPITULO II. MALTRATO O CRUELDAD ANIMAL
+### CAPITULO I. DELITOS CONTRA EL MEDIO AMBIENTE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2007)</small>
 
 ## TITULO CUARTO. DELITOS COMETIDOS EN LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO UNICO
+### CAPITULO II. MALTRATO O CRUELDAD ANIMAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 323.
 
@@ -4517,13 +4529,15 @@ Suspensión y privación de funciones públicas.- Los servidores públicos que i
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
-
 ###### ARTÍCULO 325.
 
 Tipo y punibilidad.- Al que simule un acto jurídico, o un acto o escritos judiciales o altere elementos de prueba y los presente en procedimiento jurisdiccional, o realice cualquier otro acto tendiente a inducir a error a la autoridad judicial o administrativa de la que derive un beneficio indebido para sí o para otro, se le impondrá prisión de un año a seis años y hasta doscientos días multa.
 
 Si del juicio que se sigue en contra de un depositario judicial, resultare como consecuencia el secuestro de una cosa embargada o depositada con anterioridad, cualquiera que sea la persona contra la cual se sigue el juicio, se presumirá que éste fue simulado.
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
 
 ###### Artículo 326.
 
@@ -5994,3 +6008,9 @@ P.O. 20 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 14 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 261 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 6 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 47 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA EL ARTÍCULO 250 QUATER DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
