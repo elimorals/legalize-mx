@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-ascensos-de-la-armada-de-mexico-52166"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-09"
-last_updated: "2016-03-11"
+last_updated: "2020-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52166&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-10-31"
 
 REGLAMENTO DE LA LEY DE ASCENSOS DE LA ARMADA DE MEXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MARZO DE 2020.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 9 de noviembre de 2006.
 
@@ -90,6 +90,10 @@ XI. Mando Supremo: Presidente de los Estados Unidos Mexicanos;
 XII. Manual: Manual de Normas y Procedimientos de la Comisión Coordinadora para Ascensos;
 
 XIII. Oficialía Mayor: La Oficialía Mayor de la Secretaría de Marina;
+
+> <small>(ADICIONADA, D.O.F. 6 DE MARZO DE 2020)</small>
+
+XIII Bis. Orden de Prelación: Al orden sucesivo en el que el Participante queda ubicado cuando se han valorado los criterios considerados para su ascenso;
 
 XIV. Participante: El personal naval que es convocado a la Promoción General;
 
@@ -655,23 +659,25 @@ Si por necesidades del servicio u otra causa justificada, el personal convocado 
 
 #### SECCIÓN TERCERA. Del Examen Médico
 
-> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2020)</small>
 
 ###### Artículo 61.
 
 El examen médico tiene por objeto determinar el estado de salud del personal convocado, y si se encuentra apto o no apto para participar en la Promoción General, con base en la Directiva de Promoción correspondiente.
 
-Se considerarán “sin clasificación” a los Participantes no comprendidos en alguna de las categorías y grados de accidentes o enfermedades previstas en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas o en la lista de padecimientos a que se refiere el artículo 226 Bis de dicha Ley.
+Se considerarán “sin clasificación” a los Participantes no comprendidos en alguna de las categorías de accidentes o enfermedades previstas en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas o en la lista de padecimientos a que se refiere el artículo 226 Bis de dicha Ley.
 
 Se considerarán “en lista de padecimientos” a los Participantes comprendidos en la lista de padecimientos a que se refiere el artículo 226 Bis de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
 
-Se considerarán “excluidos” a los Participantes comprendidos en alguna de las categorías y grados de accidentes o enfermedades previstas en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
+Se considerarán “en tercera categoría” a los Participantes comprendidos en la tercera categoría de accidentes o enfermedades previstas en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
+
+Se considerarán “excluidos” a los Participantes comprendidos en la primera o segunda categoría de accidentes o enfermedades previstas en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
 
 ###### Artículo 62.
 
 La aplicación del examen médico será responsabilidad del servicio de Sanidad Naval a través de los establecimientos médicos navales.
 
-> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2020)</small>
 
 ###### Artículo 63.
 
@@ -679,25 +685,19 @@ El examen médico se evaluará conforme a lo siguiente:
 
 RESULTADO DE LA EVALUACIÓN PUNTAJE
 
-I. Sin clasificación, por no ubicarse en los artículos
+I. Sin clasificación. 100 puntos
 
-226 y 226 Bis de la Ley del Instituto de Seguridad
+II. En lista de padecimientos. 75 puntos
 
-Social para las Fuerzas Armadas Mexicanas. 100 puntos
+III. En tercera categoría. 50 puntos
 
-II. En lista de padecimientos, por ubicarse en el
+IV. Excluidos. Queda excluido del Concurso de
 
-artículo 226 Bis de la Ley del Instituto de Seguridad
+Selección de la Promoción General,
 
-Social para las Fuerzas Armadas Mexicanas. 20 puntos
+conforme a la fracción III del
 
-III. Excluido, por ubicarse en el artículo 226 de la Queda excluido de participar
-
-Ley del Instituto de Seguridad Social para las en la Promoción General,
-
-Fuerzas Armadas. conforme a la fracción III del
-
-Artículo 132 del presente
+artículo 132 del presente
 
 Reglamento.
 
@@ -705,25 +705,15 @@ Reglamento.
 
 (DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 65.
 
-El examen médico anual tendrá validez para efectos de promoción, siempre y cuando el estado de salud del personal convocado no haya variado. Quienes no lo hubiesen presentado, deberán hacerlo antes del examen de capacidad física.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE MARZO DE 2016)</small>
+El examen médico anual tendrá validez para efectos de promoción, siempre y cuando el estado de salud del personal convocado no haya variado.
 
 ###### Artículo 66.
 
-El examen médico será practicado en el establecimiento médico naval que se designe y constará de las pruebas y procedimientos siguientes:
-
-I. Formulación de historia clínica;
-
-II. Prueba somatométrica;
-
-III. Evaluación de la capacidad para desarrollar esfuerzos físicos, y
-
-> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
-
-IV. Revisión de los resultados clínicos y paraclínicos del último examen médico anual y en caso necesario repetir los que el médico a su juicio, considere necesarios actualizar.
+(DEROGADO, D.O.F. 6 DE MARZO DE 2020)
 
 ###### Artículo 67.
 
@@ -883,15 +873,17 @@ II. Conocimientos Marineros 20
 
 III. Conocimientos Específicos 60
 
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 88.
 
-El examen académico será acorde al grado, Cuerpo o Servicio, Núcleo o Escala o especialidad del participante. Al término del examen se generará un reporte para cada evaluado con los resultados obtenidos.
+El examen académico será acorde al Grado, Cuerpo o Servicio, Núcleo o Escala de los Participantes. Al término del examen se generará un reporte para cada evaluado con los resultados obtenidos.
+
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2020)</small>
 
 ###### Artículo 89.
 
-La calificación del examen académico tendrá vigencia de un año, por lo que el personal nuevamente convocado que no hubiese ascendido en la promoción inmediata anterior, podrá solicitar, por los conductos regulares, participar con la calificación aprobatoria que haya obtenido anteriormente.
-
-El período de recepción de solicitudes se cerrará 30 días naturales después de la publicación del listado correspondiente; si vencido dicho plazo el interesado no produce manifestación alguna, se entenderá que renuncia a citada calificación y deberá efectuar nuevamente el examen académico.
+La vigencia del examen académico tendrá la temporalidad de la Promoción General, por lo que el Participante nuevamente convocado que no hubiese ascendido en la Promoción General inmediata anterior, estará obligado a presentar el examen académico.
 
 #### SECCIÓN SEXTA. Del Examen de Conocimientos Prácticos para Clases y Marinería
 
@@ -1037,39 +1029,37 @@ IV. Otros elementos vinculados con el servicio naval, correspondientes al grado 
 
 En el caso de las Hojas de Actuación, el Estado Mayor efectuará la homologación de valores cuando se trate de diferentes formatos.
 
-> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2020)</small>
 
 ###### Artículo 110.
 
-La calificación del concepto Mérito se obtendrá de los rubros que integran la trayectoria naval y las recompensas y reconocimientos, en base a los valores que se citan a continuación:
+La calificación del concepto Mérito se obtendrá de los rubros que integran la trayectoria naval y las recompensas y reconocimientos, con base en los valores siguientes:
 
-Trayectoria naval (95%) Tiempo en el Grado (50%)
+TRAYECTORIA NAVAL (95%) Tiempo en el Grado (50%)
 
 Numero de promoción a la
 
 que es convocado (50%)
 
-Recompensas y
+RECOMPENSAS Y
 
-Reconocimientos (5%) Los recibidos y que se
-
-encuentren registrados en
+RECONOCIMIENTOS (5%) Los registrados en
 
 las Hojas de Actuación del
 
 grado actual (100%)
 
-TIEMPO EN EL GRADO:
+Tiempo en el Grado:
 
 RANGO EN AÑOS PORCENTAJE
 
-3 46
+3 40
 
-3.1 - 5.9 48
+3.1 - 5.9 45
 
 6 o más 50
 
-NÚMERO DE PARTICIPACIÓN EN LA PROMOCIÓN A LA QUE ES CONVOCADO:
+Número de Participación en la Promoción a la que es Convocado:
 
 NÚMERO DE PARTICIPACIÓN PORCENTAJE
 
@@ -1079,9 +1069,9 @@ NÚMERO DE PARTICIPACIÓN PORCENTAJE
 
 3 o más 46
 
-No será afectado negativamente en el porcentaje cuando el elemento cumpla con los requisitos establecidos y obtenga el promedio de calificación mínimo aprobatorio y no alcance alguna de las vacantes disponibles para su grado, cuerpo o servicio.
+No será afectado negativamente en los porcentajes a que se refiere este artículo cuando el Participante en promociones anteriores haya cumplido con los requisitos establecidos y obtenga el promedio de calificación mínimo aprobatorio y no alcance alguna de las vacantes disponibles para su Grado, Cuerpo o Servicio.
 
-La puntuación promedio de cada rubro, se determinará promediando la puntuación conceptuada en las Hojas de Actuación correspondientes al periodo que se evalúa. El Estado Mayor efectuará la homologación de valores cuando se trate de diferentes formatos.
+La puntuación promedio de cada rubro se determinará promediando la puntuación conceptuada en las Hojas de Actuación correspondientes al periodo que se evalúa. El Estado Mayor efectuará la homologación de valores cuando se trate de diferentes formatos.
 
 > <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1191,7 +1181,7 @@ D. Tesis No aplica No aplica 20%
 
 E. Lengua Extranjera 2% No aplica 2%
 
-> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2020)</small>
 
 ###### Artículo 115.
 
@@ -1199,13 +1189,13 @@ La calificación final del Concurso de Selección será la suma de los porcentaj
 
 CONCEPTOS QUE DEFINEN EL ORDEN DE PRELACIÓN PORCENTAJE
 
-Mérito 12%
+Mérito 30%
 
-Aptitud y Competencia Profesional 10%
+Aptitud y Competencia Profesional 20%
 
-Conducta Militar y Civil 8%
+Conducta Militar y Civil 15%
 
-Exámenes del Concurso de Selección 70%
+Exámenes del Concurso de Selección 35%
 
 #### SECCIÓN SEGUNDA. Del Personal de Clases y Marinería
 
@@ -1343,9 +1333,9 @@ I. Dejar de cumplir con alguno de los requisitos que establece la Ley, el presen
 
 II. Quedar incluido en alguno de los supuestos establecidos en el artículo 51 de la Ley;
 
-> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 6 DE MARZO DE 2020)</small>
 
-III. Quedar clasificado en alguno de los supuestos previstos en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
+III. Quedar clasificado en la primera o segunda categoría de accidentes o enfermedades previstas en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
 
 > <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1440,3 +1430,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
 
 TERCERO.- Las erogaciones que deriven de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado a la Secretaría de Marina para tal fin, por lo que no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
+
+D.O.F. 6 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE ASCENSOS DE LA ARMADA DE MÉXICO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de Marina, con movimientos compensados, por lo que no se incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
