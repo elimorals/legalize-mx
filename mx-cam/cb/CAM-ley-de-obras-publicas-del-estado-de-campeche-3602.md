@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-obras-publicas-del-estado-de-campeche-3602"
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-31"
-last_updated: "2017-06-15"
+last_updated: "2020-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE OBRAS PÚBLICAS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Campeche, el viernes 31 de agosto de 1984.
 
@@ -423,7 +423,9 @@ Las garantías que deban otorgar los contratistas serán a favor de la Secretar�
 
 La convocante, en base a su propio presupuesto y en el análisis de las proposiciones admitidas emitirá un dictamen que servirá como fundamento para el fallo.
 
-En junta pública se dará a conocer el fallo mediante el cual se adjudicará el contrato a la persona que, de entre los proponentes reúna las condiciones necesarias y garantice satisfactoriamente el cumplimiento del contrato y cuente con la experiencia requerida por la convocante para la ejecución de la obra.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2020)</small>
+
+En un término de 10 días hábiles siguientes al vencimiento del plazo fijado para la recepción de las propuestas, en junta pública se dará a conocer el fallo mediante el cual se adjudicará el contrato a la persona que, de entre los proponentes reúnan las condiciones necesarias y garantice satisfactoriamente el cumplimiento del contrato y cuente con la experiencia requerida por la convocante para la ejecución de la obra.
 
 Si una vez considerados los criterios anteriores, resultare que dos o más proposiciones satisfacen los requerimientos de la convocante, el contrato se adjudicará a quien presente la postura más baja.
 
@@ -822,3 +824,11 @@ P.O. 15 DE JUNIO DE 2017.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 6 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 120 POR EL QUE “SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 33 DE LA LEY DE OBRAS PÚBLICAS DEL ESTADO DE CAMPECHE”.]
+
+Primero. El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado de Campeche.
+
+Segundo. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
