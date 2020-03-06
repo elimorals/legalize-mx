@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2019-12-13"
+last_updated: "2020-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE MARZO DE 2020.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -147,11 +147,11 @@ Delito continuado es aquél que se comete con pluralidad de conductas procedente
 
 ### CAPÍTULO III. DELITOS GRAVES
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 14 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 6 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 13.
 
-Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves los siguientes: contra el orden constitucional, previsto por el artículo 137; rebelión, previsto por el artículo 139; evasión de presos, previsto por el artículo 153; corrupción de menores e incapaces, previsto por el artículo 208; trata de menores, previsto por el artículo 210; pornografía infantil, previsto por el artículo 211; incesto, previsto por el artículo 227; allanamiento de morada con violencia, previsto en el segundo párrafo del artículo 236; asalto, previsto por los artículos 237, 239 y 240; privación ilegal de la libertad, previsto por los artículos 241 fracción I y 242; tortura, previsto en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; falsificación de documentos, previsto en el artículo 284-bis; violación, previsto por el artículo 313; violación equiparada, definido por el artículo 315; robo calificado previsto en la fracción I del artículo 335, independientemente del importe de lo robado; así como en las demás fracciones del mismo artículo cuando el importe sea el establecido en las fracciones III o IV del numeral 333; robo con violencia previsto en el artículo 330, en relación con el 336; robo relacionado con vehículo automotor, previsto en el artículo 338, fracciones I, II, IV y VI; robo de ganado mayor, previsto por el artículo 339, a partir de dos piezas; robo de ganado menor, previsto por el artículo 340, cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; las conductas previstas en el artículo 347; daño en propiedad ajena por incendio o explosión previsto por los artículos 348 y 349; lesiones, previsto por los artículos 360, 361, 362 y 363; homicidio doloso, previsto por el artículo 368, en relación con el 372, 378, 384 y 385; homicidio en razón del parentesco o relación, previsto en el artículo 394, y feminicidio, previsto en el artículo 394 Quinquies.
+Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves los siguientes: contra el orden constitucional, previsto por el artículo 137; rebelión, previsto por el artículo 139; evasión de presos, previsto por el artículo 153; corrupción de menores e incapaces, previsto por el artículo 208; trata de menores, previsto por el artículo 210; pornografía infantil, previsto por el artículo 211; incesto, previsto por el artículo 227; allanamiento de morada con violencia, previsto en el segundo párrafo del artículo 236; asalto, previsto por los artículos 237, 239 y 240; privación ilegal de la libertad, previsto por los artículos 241 fracción I y 242; tortura, previsto en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; falsificación de documentos, previsto en el artículo 284-bis; abuso sexual previsto en los artículos 309 y 310; violación, previsto por el artículo 313; violación equiparada, definido por el artículo 315; robo calificado previsto en la fracción I del artículo 335, independientemente del importe de lo robado; así como en las demás fracciones del mismo artículo cuando el importe sea el establecido en las fracciones III o IV del numeral 333; robo con violencia previsto en el artículo 330, en relación con el 336; robo relacionado con vehículo automotor, previsto en el artículo 338, fracciones I, II, IV y VI; robo de ganado mayor, previsto por el artículo 339, a partir de dos piezas; robo de ganado menor, previsto por el artículo 340, cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; las conductas previstas en el artículo 347; daño en propiedad ajena por incendio o explosión previsto por los artículos 348 y 349; lesiones, previsto por los artículos 360, 361, 362 y 363; homicidio doloso, previsto por el artículo 368, en relación con el 372, 378, 384 y 385; homicidio en razón del parentesco o relación, previsto en el artículo 394, y feminicidio, previsto en el artículo 394 Quinquies.
 
 > <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
 
@@ -2215,9 +2215,25 @@ II. Exhume un cadáver o restos humanos sin los requisitos legales o con violaci
 
 III. Viole un túmulo, un sepulcro, una sepultura, féretro, urna y nichos;
 
-IV. Ilegalmente sustraiga o esparza las cenizas de un cadáver o cometa actos de infamia sobre las mismas, viole o vilipendie el lugar donde éstas se encuentren, y
+> <small>(REFORMADA, D.O. 6 DE MARZO DE 2020)</small>
 
-V. Profane un cadáver o restos humanos con actos de desprecio, mutilación, obscenidad, brutalidad o necrofilia. Si los actos de necrofilia consisten en la realización del coito, la sanción de prisión será de cuatro a ocho años.
+IV. Ilegalmente sustraiga o esparza las cenizas de un cadáver o cometa actos de infamia sobre las mismas, viole o vilipendie el lugar donde éstas se encuentren;
+
+> <small>(REFORMADA, D.O. 6 DE MARZO DE 2020)</small>
+
+V. Profane un cadáver o restos humanos con actos de desprecio, mutilación, obscenidad, brutalidad o necrofilia. Si los actos de necrofilia consisten en la realización del coito, la sanción de prisión será de cuatro a ocho años, y
+
+> <small>(ADICIONADA, D.O. 6 DE MARZO DE 2020)</small>
+
+VI. De forma maliciosa, revele, exhiba, publique, comparta o difunda en redes sociales, páginas web, medios impresos, electrónicos o cualquier otro medio de difusión, fotografías o videos que revelen cadáveres o restos humanos.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, D.O. 6 DE MARZO DE 2020.]</small>
+
+Cuando la conducta a que se refiere el párrafo anterior la lleve a cabo un servidor público, la sanción aumentará hasta en una mitad más de la señalada en el párrafo primero de este artículo.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, D.O. 6 DE MARZO DE 2020.]</small>
+
+No se considerará malicioso el hecho de utilizar con autorización, fotografías o videos de un cadáver o restos humanos en investigaciones científicas o académicas, ni las que cuenten con valor cultural, histórico local, nacional o internacional. No se requerirá dicha autorización en actuaciones periciales o judiciales.
 
 ###### ARTÍCULO 232.
 
@@ -3532,6 +3548,10 @@ IV. Por la persona que tiene al ofendido bajo su custodia, guarda o educación o
 > <small>(ADICIONADA, D.O. 8 DE ABRIL DE 2011)</small>
 
 V. Por dirigente o ministro de culto religioso.
+
+> <small>(ADICIONADO, D.O. 6 DE MARZO DE 2020)</small>
+
+ARTÍCULO 316 BIS. A quien le conste de la comisión del delito de abuso sexual, violación, violación equiparada, acoso sexual y estupro, y no acuda a la autoridad competente para denunciar el hecho, se le impondrá una pena de uno a cinco años de prisión y de 100 a 200 días-multa.
 
 TÍTULO DECIMONOVENO
 
@@ -5034,3 +5054,19 @@ D.O. 13 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 140/2019 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE CIRUGÁS PLÁSTICAS”.]
 
 Artículo único. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 6 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 187/2020 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE ABUSO SEXUAL".]
+
+Entrada en vigor
+
+Artículo único. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 6 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 188/2020 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE EXPOSICIÓN INDEBIDA DE FOTOGRAFÍAS O VIDEOS DE CADÁVERES O RESTOS HUMANOS”.]
+
+Entrada en vigor
+
+Artículo único. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
