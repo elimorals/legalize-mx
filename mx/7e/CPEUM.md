@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2019-12-20"
+last_updated: "2020-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MARZO DE 2020.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1146,21 +1146,25 @@ XX.- El Estado promoverá las condiciones para el desarrollo rural integral, con
 
 El desarrollo rural integral y sustentable a que se refiere el párrafo anterior, también tendrá entre sus fines que el Estado garantice el abasto suficiente y oportuno de los alimentos básicos que la ley establezca.
 
-> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE MARZO DE 2020)</small>
 
 ###### Art. 28.
 
-En los Estados Unidos Mexicanos quedan prohibidos los monopolios, la (sic) prácticas monopólicas, los estancos y las exenciones de impuestos en los términos y condiciones que fijan las leyes. El mismo tratamiento se dará a ls (sic) prohibiciones a título de protección a la industria.
+En los Estados Unidos Mexicanos quedan prohibidos los monopolios, las prácticas monopólicas, los estancos, las condonaciones de impuestos y las exenciones de impuestos en los términos y condiciones que fijan las leyes. El mismo tratamiento se dará a las prohibiciones a título de protección a la industria.
 
 > <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2013)</small>
 
 En consecuencia, la ley castigará severamente, y las autoridades perseguirán con eficacia, toda concentración o acaparamiento en una o pocas manos de artículos de consumo necesario y que tenga por objeto obtener el alza de los precios; todo acuerdo, procedimiento o combinación de los productores, industriales, comerciantes o empresarios de servicios, que de cualquier manera hagan, para evitar la libre concurrencia o la competencia entre sí o para obligar a los consumidores a pagar precios exagerados y, en general, todo lo que constituya una ventaja exclusiva indebida a favor de una o varias personas determinadas y con perjuicio del público en general o de alguna clase social.
+
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 Las leyes fijarán bases para que se señalen precios máximos a los artículos, materias o productos que se consideren necesarios para la economía nacional o el consumo popular, así como para imponer modalidades a la organización de la distribución de esos artículos, materias o productos, a fin de evitar que intermediaciones innecesarias o excesivas provoquen insuficiencia en el abasto, así como el alza de precios. La ley protegerá a los consumidores y propiciará su organización para el mejor cuidado de sus intereses.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2013)</small>
 
 No constituirán monopolios las funciones que el Estado ejerza de manera exclusiva en las siguientes áreas estratégicas: correos, telégrafos y radiotelegrafía; minerales radiactivos y generación de energía nuclear; la planeación y el control del sistema eléctrico nacional, así como el servicio público de transmisión y distribución de energía eléctrica, y la exploración y extracción del petróleo y de los demás hidrocarburos, en los términos de los párrafos sexto y séptimo del artículo 27 de esta Constitución, respectivamente; así como las actividades que expresamente señalen las leyes que expida el Congreso de la Unión. La comunicación vía satélite y los ferrocarriles son áreas prioritarias para el desarrollo nacional en los términos del artículo 25 de esta Constitución; el Estado al ejercer en ellas su rectoría, protegerá la seguridad y la soberanía de la Nación, y al otorgar concesiones o permisos mantendrá o establecerá el dominio de las respectivas vías de comunicación de acuerdo con las leyes de la materia.
+
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 El Estado contará con los organismos y empresas que requiera para el eficaz manejo de las áreas estratégicas a su cargo y en las actividades de carácter prioritario donde, de acuerdo con las leyes, participe por sí o con los sectores social y privado.
 
@@ -1180,11 +1184,19 @@ El Poder Ejecutivo contará con los órganos reguladores coordinados en materia 
 
 No constituyen monopolios las asociaciones de trabajadores formadas para proteger sus propios intereses y las asociaciones o sociedades cooperativas de productores para que, en defensa de sus intereses o del interés general, vendan directamente en los mercados extranjeros los productos nacionales o industriales que sean la principal fuente de riqueza de la región en que se produzcan o que no sean artículos de primera necesidad, siempre que dichas asociaciones estén bajo vigilancia o amparo del Gobierno Federal o de las entidades federativas, y previa autorización que al efecto se obtenga de las Legislaturas respectivas en cada caso. Las mismas Legislaturas, por sí o a propuesta del Ejecutivo podrán derogar, cuando así lo exijan las necesidades públicas, las autorizaciones concedidas para la formación de las asociaciones de que se trata.
 
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+
 Tampoco constituyen monopolios los privilegios que por determinado tiempo se concedan a los autores y artistas para la producción de sus obras y los que para el uso exclusivo de sus inventos, se otorguen a los inventores y perfeccionadores de alguna mejora.
+
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 El Estado, sujetándose a las leyes, podrá en casos de interés general, concesionar la prestación de servicios públicos o la explotación, uso y aprovechamiento de bienes de dominio de la Federación, salvo las excepciones que las mismas prevengan. Las leyes fijarán las modalidades y condiciones que aseguren la eficacia de la prestación de los servicios y la utilización social de los bienes, y evitarán fenómenos de concentración que contraríen el interés público.
 
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+
 La sujeción a regímenes de servicio público se apegará a lo dispuesto por la Constitución y sólo podrá llevarse a cabo mediante ley.
+
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 Se podrán otorgar subsidios a actividades prioritarias, cuando sean generales, de carácter temporal y no afecten sustancialmente las finanzas de la Nación. El Estado vigilará su aplicación y evaluará los resultados de ésta.
 
@@ -1300,7 +1312,7 @@ El Comité de Evaluación, por cada vacante, enviará al Ejecutivo una lista con
 
 La ratificación se hará por el voto de las dos terceras partes de los miembros del Senado presentes, dentro del plazo improrrogable de treinta días naturales a partir de la presentación de la propuesta; en los recesos, la Comisión Permanente convocará desde luego al Senado. En caso de que la Cámara de Senadores rechace al candidato propuesto por el Ejecutivo, el Presidente de la República someterá una nueva propuesta, en los términos del párrafo anterior. Este procedimiento se repetirá las veces que sea necesario si se producen nuevos rechazos hasta que sólo quede un aspirante aprobado por el Comité de Evaluación, quien será designado comisionado directamente por el Ejecutivo.
 
-> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO, DEL ANÁLISIS A LA ADICIÓN AL OCTAVO PÁRRAFO DE FECHA 20 DE DICIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO TRIGÉSIMO PRIMER PÁRRAFO.</small>
+> <small>[N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO, DEL ANÁLISIS A LA ADICIÓN AL OCTAVO PÁRRAFO DE FECHA 20 DE DICIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO TRIGÉSIMO PRIMER PÁRRAFO.]</small>
 
 > <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
 
@@ -8619,3 +8631,11 @@ Quinto. El ejercicio de las atribuciones que esta Constitución le confiere al I
 Sexto. Las constituciones de las entidades federativas, dentro de los dieciocho meses siguientes a la entrada en vigor del presente Decreto, deberán garantizar el derecho ciudadano a solicitar la revocación de mandato de la persona titular del Poder Ejecutivo local. La solicitud deberá plantearse durante los tres meses posteriores a la conclusión del tercer año del periodo constitucional, por un número equivalente, al menos, al diez por ciento de la lista nominal de electores de la entidad federativa, en la mitad más uno de los municipios o alcaldías de la entidad; podrá llevarse a cabo en una sola ocasión durante el periodo constitucional, mediante votación libre, directa y secreta; será vinculante cuando la participación corresponda como mínimo al cuarenta por ciento de dicha lista y la votación sea por mayoría absoluta. La jornada de votación se efectuará en fecha posterior y no coincidente con procesos electorales o de participación ciudadana locales o federales y quien asuma el mandato del ejecutivo revocado concluirá el periodo constitucional.
 
 Las entidades federativas que hubieren incorporado la revocación de mandato del Ejecutivo local con anterioridad a este Decreto armonizarán su orden jurídico de conformidad con las presentes reformas y adiciones, sin demérito de la aplicación de la figura para los encargos iniciados durante la vigencia de dichas normas.
+
+D.O.F. 6 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE DECLARA REFORMADO EL PRIMER PÁRRAFO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE CONDONACIÓN DE IMPUESTOS".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Congreso de la Unión y las Legislaturas de las entidades federativas, en el ámbito de su competencia, deberán armonizar el marco jurídico en la materia para adecuarlo al contenido del presente Decreto en un plazo que no excederá de un año a partir de la entrada en vigor del mismo.
