@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ingresos-para-el-municipio-de-romita-guanajuato-para-141
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-27"
-last_updated: "2019-12-27"
+last_updated: "2020-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE INGRESOS PARA EL MUNICIPIO DE ROMITA, GUANAJUATO, PARA EL EJERCICIO FISCAL DEL AÑO 2020
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2020.
 
 Ley publicada en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de diciembre de 2019.
 
