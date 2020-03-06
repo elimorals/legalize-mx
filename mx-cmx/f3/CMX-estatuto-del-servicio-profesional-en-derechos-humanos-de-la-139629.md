@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-del-servicio-profesional-en-derechos-humanos-de-la-139
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-12-30"
-last_updated: "2019-12-30"
+last_updated: "2020-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139629&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-12-16"
 
 ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE MARZO DE 2020.
 
 Aviso publicado en el número 251 de la Gaceta Oficial de la Ciudad de México, el lunes 30 de diciembre de 2019.
 
@@ -200,11 +200,21 @@ XXX. Reglamento: El Reglamento Interno de la Comisión de Derechos Humanos de la
 
 XXXI. Secretaría Ejecutiva: La Secretaría Ejecutiva de la Comisión;
 
-XXXII. Servicio: El Servicio Profesional en Derechos Humanos de la Comisión;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
-XXXIII. Subsistemas: A los conjuntos de procedimientos que conforman el Sistema del Servicio Profesional en Derechos Humanos de la Comisión, a saber, los de a) selección ingreso, ascenso, promoción, separación y disciplina; b) desarrollo de carrera; c) profesionalización y capacitación, y d) gestión del desempeño, y
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
 
-XXXIV. Validación: Para efectos del presente Estatuto, se referirá a la opinión técnica calificada que deberá tomar en consideración la Instancia u órgano que deba resolver sobre un procedimiento de los previstos en esta normatividad.
+XXXII. Servicio: El Servicio Profesional en Derechos Humanos de la Comisión, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+XXXIII. Subsistemas: A los conjuntos de procedimientos que conforman el Sistema del Servicio Profesional en Derechos Humanos de la Comisión, a saber, los de a) selección ingreso, ascenso, promoción, separación y disciplina; b) desarrollo de carrera; c) profesionalización y capacitación, y d) gestión del desempeño.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+XXXIV. (DEROGADA, G.O. 6 DE MARZO DE 2020)
 
 ###### Artículo 4.
 
@@ -352,9 +362,13 @@ Los puestos del Servicio serán aquellos que, conforme a sus funciones, se relac
 
 El Catálogo señalará al menos las funciones genéricas de los cargos y puestos del Servicio, así como el perfil mínimo de conocimientos, capacidades, habilidades y experiencia que se exigirá al Personal Profesional que los ocupe, conforme a la especialidad señalada en el artículo anterior.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 13.
 
-Con relación a los cargos y puestos del Servicio, el Catálogo será actualizado cuando la Presidencia de la Comisión lo estime necesario, o apruebe la propuesta de cualquiera de las personas Titulares de las Áreas de la Comisión, cuando se presente cualquiera de las siguientes circunstancias:
+La Presidencia de la Comisión o las personas Titulares de las Áreas de la Comisión podrán proponer la incorporación o desincorporación de plazas del Servicio en el Catálogo cuando se presente cualquiera de las siguientes circunstancias:
 
 I. Una reestructuración institucional;
 
@@ -362,7 +376,11 @@ II. Cuando se modifiquen las funciones o el perfil de los cargos y puestos;
 
 III. En caso de la creación o eliminación de plazas;
 
-IV. Con motivo de la incorporación o desincorporación de plazas en el Servicio, o
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+IV. Cuando se determine a fin de lograr el mejor cumplimiento del objeto de la Comisión, garantizando en todo caso la compatibilidad de las funciones y perfiles de los cargos y puestos con los fines del Servicio, y
 
 V. Las demás que se establezcan en la normativa de la Comisión y del Servicio.
 
@@ -370,23 +388,33 @@ V. Las demás que se establezcan en la normativa de la Comisión y del Servicio.
 
 Para las actualizaciones al Catálogo relacionadas con el Servicio, se deberá tomar en cuenta la estructura de las áreas de la Comisión, las políticas y programas generales, así como los criterios que institucionalmente se definan para la ocupación de los cargos y puestos.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 15.
 
-Las personas titulares de las áreas de la Comisión podrán solicitar a la persona Titular de la DGA la incorporación o el retiro de puestos del Servicio, así como la revisión y actualización de conocimientos, habilidades y competencias exigidas para el desempeño de sus funciones, a fin de lograr el mejor cumplimiento del objeto de la Comisión.
+A efecto de realizar incorporaciones, desincorporaciones u otras actualizaciones al Catálogo, la DGA evaluará las solicitudes presentadas considerando el impacto administrativo y presupuestal que generen, para su aprobación por el Mecanismo.
 
-Para tal efecto, la persona Titular de la DGA evaluará las solicitudes de incorporación y retiro de puestos del Servicio considerando el impacto administrativo y presupuestal que generen, para ser presentadas a la persona Titular de la Presidencia de la Comisión, quien evaluará las solicitudes de incorporación o retiro de puestos del Servicio y, en su caso, las aprobará.
+La DGA informará a la persona Titular de la Presidencia sobre las incorporaciones y retiros de puestos, u otras propuestas de modificación al Catálogo.
 
-La persona Titular de la DGA podrá solicitar la opinión del Mecanismo en la evaluación de las modificaciones al Catálogo.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MARZO DE 2020)</small>
 
 ###### Artículo 16.
 
-Una vez aprobada la solicitud, la persona Titular de la DGA instruirá a la Coordinación que realice la notificación que corresponda a la persona que ocupe el puesto, la cual deberá tener lugar con al menos quince días de anticipación a la fecha en la que la modificación produzca efectos.
+Una vez aprobada la solicitud, la DGA instruirá a la Coordinación que realice la notificación que corresponda a la persona que ocupe el puesto, la cual deberá tener lugar con al menos cinco días hábiles de anticipación a la fecha en la que la modificación produzca efectos.
 
 Las personas integrantes del Servicio cuyos puestos sean retirados del mismo, conservarán su calidad de personas Servidoras Públicas y los derechos laborales inherentes al cargo o puesto y ajustarán sus actuaciones a las disposiciones aplicables para el personal administrativo.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 17.
 
-La Coordinación será la responsable de notificar a las personas integrantes del Servicio Profesional los resultados de las revisiones de conocimientos, habilidades y competencias exigidas para el desempeño de sus funciones y de someter a consideración del Mecanismo los casos en que el resultado sea menor a 80 puntos, en una escala de 0 a 100.
+La Presidencia o las personas Titulares de las áreas de la Comisión podrán solicitar en cualquier momento a la Coordinación la aplicación de evaluaciones para determinar la compatibilidad en el cargo de las personas Integrantes del Servicio. La Coordinación será la responsable de convocar a las personas a evaluar, aplicarles las evaluaciones, así como de notificarles los resultados de las revisiones de conocimientos, habilidades y competencias exigidas para el desempeño de sus funciones, y de someter a consideración del Mecanismo los casos en donde el resultado sea menor a 80, en una escala de 0 a 100, para los efectos señalados en el artículo 119 fracción VII.
 
 ### Capítulo IV. Régimen laboral del Personal Profesional
 
@@ -402,13 +430,21 @@ El carácter de Integrante del Servicio será incompatible con el ejercicio de c
 
 Las actividades académicas, de docencia o de colaboración con colectivos, organizaciones sociales, instituciones u organismos autónomos protectores de derechos humanos, quedarán exceptuadas de la prohibición contenida en el artículo anterior, cuando sean autorizadas por la Coordinación y siempre y cuando no estén relacionadas con procedimientos que se sigan ante la Comisión.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 21.
 
-Cada año podrá autorizarse un máximo de dos actividades de las referidas en el artículo anterior, siempre que no excedan de cuatro horas a la semana dentro de la jornada laboral, no afecte las funciones que debe realizar la persona solicitante y que se acredite que tengan una estrecha relación temática con las funciones que ésta desempeña en la Comisión.
+Cada año podrá autorizarse un máximo de dos actividades de las referidas en el artículo anterior, siempre que no excedan de ocho horas a la semana dentro de la jornada laboral, no afecte las funciones que debe realizar la persona solicitante y que se acredite que tengan una estrecha relación temática con las funciones que ésta desempeña en la Comisión.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MARZO DE 2020)</small>
 
 ###### Artículo 22.
 
-La solicitud de autorización para actividades académicas, de docencia o de colaboración deberá presentarse por escrito ante la Coordinación con al menos quince días hábiles de anticipación a la fecha en que decida aplicarse. La solicitud debe contener al menos lo siguiente:
+La solicitud de autorización para actividades académicas, de docencia o de colaboración deberá presentarse por escrito ante la Coordinación con al menos diez días hábiles de anticipación a la fecha en que decida aplicarse. La solicitud debe contener al menos lo siguiente:
 
 I. Denominación de la actividad en la que se pretende participar;
 
@@ -454,9 +490,15 @@ III. La Secretaría Ejecutiva;
 
 IV. La Dirección General de Administración;
 
-V. La Dirección General Jurídica;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
-VI. La Contraloría Interna de la Comisión, y
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+V. La Dirección General Jurídica, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+VI. (DEROGADA, G.O. 6 DE MARZO DE 2020)
 
 VII. La Coordinación.
 
@@ -476,7 +518,11 @@ I. Aprobar o modificar el Estatuto, a propuesta de la persona Titular de la Pres
 
 II. Emitir opiniones y propuestas sobre acciones de vinculación interna y externa con personas expertas, organizaciones, instituciones públicas, privadas y educativas para el adecuado funcionamiento del Servicio, que la persona Titular de la Presidencia de la Comisión someta a su consideración;
 
-III. Solicitar la información que estime pertinente para supervisar la oportuna integración y el adecuado funcionamiento del Servicio, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+III. Solicitar la información sobre el servicio profesional, y
 
 IV. Las demás que le confiere el presente Estatuto y los demás ordenamientos jurídicos aplicables, a efecto de garantizar el adecuado funcionamiento del Servicio.
 
@@ -486,11 +532,21 @@ La persona Titular de la Presidencia tendrá las atribuciones siguientes:
 
 I. Dictar los criterios y directrices para la implementación de los procesos de selección, ingreso, capacitación, profesionalización, promoción, evaluación, permanencia, separación y disciplina de las personas Integrantes del Servicio, así como de la capacitación del personal administrativo, en los términos previstos en el presente Estatuto;
 
-II. Aprobar, en su caso, el dictamen validado por el Mecanismo en materia de cambios de adscripción, nombramientos eventuales, incentivos, otorgamiento de licencias y encargadurías de despacho del Personal Profesional, e instruir a la Coordinación la emisión de las notificaciones de nombramientos o comunicaciones correspondientes;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
-III. Aprobar, en su caso, el dictamen de titularidad de las personas integrantes del Servicio, que ponga a su consideración la persona Titular de la DGA, en los términos del presente Estatuto;
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
 
-IV. Aprobar, en su caso, las solicitudes de recategorización de las personas Integrantes del Servicio que someta a su consideración la persona Titular de la DGA, tomando en consideración la suficiencia presupuestal para el efecto;
+II. Conocer los resolutivos del Mecanismo e instruir las revisiones que estime necesarias;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+III. Conocer el dictamen de titularidad de las personas integrantes del Servicio, que haga de su conocimiento la persona Titular de la DGA, en los términos del presente Estatuto;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+IV. (DEROGADA, G.O. 6 DE MARZO DE 2020)
 
 V. Instruir la adopción de medidas transversales de igualdad sustantiva, no discriminación y respeto e inclusión de personas y grupos de atención prioritaria en el marco de lo dispuesto en el presente Estatuto y la normatividad que de él emane, así como aprobar, en su caso, las medidas que para el efecto proponga la persona Titular de la DGA;
 
@@ -500,7 +556,11 @@ VII. Presentar al Consejo, para su aprobación, los contenidos del Estatuto y, e
 
 VIII. Impulsar acciones de vinculación interna y externa con personas expertas, organizaciones, instituciones públicas, privadas y educativas para el adecuado funcionamiento del Servicio y el Programa de Profesionalización;
 
-IX. Aprobar, previa validación del Mecanismo y opinión presupuestaria de la persona Titular de la DGA, las convocatorias a los concursos de oposición para ocupar plazas del Servicio;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+IX. Aprobar, tomando en consideración la opinión presupuestaria de la persona Titular de la DGA, las convocatorias a los concursos de oposición para ocupar plazas del Servicio;
 
 X. Solicitar a las instancias, así como al Mecanismo y al Grupo Consultivo, la información que considere pertinente con el fin de supervisar el cumplimiento del presente Estatuto;
 
@@ -508,7 +568,11 @@ XI. Celebrar convenios, directamente o por delegación de facultades, que garant
 
 XII. Aprobar los montos y modalidades de los procedimientos establecidos en el Estatuto, considerando la opinión de suficiencia presupuestal que al respecto le presente la persona Titular de la DGA;
 
-XIII. Aprobar modificaciones al Catálogo, en función de las necesidades del Servicio y de las disponibilidades de presupuesto, previo a someterlas a consideración del Consejo;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+XIII. Aprobar modificaciones al Catálogo, en función de las necesidades del Servicio y de la disponibilidad de presupuesto;
 
 XIV. Aprobar, en su caso, las propuestas de contenidos o modificaciones del Programa de Profesionalización, así como la Metodología;
 
@@ -518,9 +582,13 @@ XVI. Interpretar las disposiciones establecidas en el presente Estatuto y en la 
 
 XVII. Las demás que le confiera el presente Estatuto y los demás ordenamientos jurídicos aplicables para el adecuado funcionamiento del Servicio.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 29.
 
-La Dirección General de Administración, por conducto de la persona, tendrá las atribuciones siguientes:
+La Dirección General de Administración, por conducto de la persona Titular, tendrá las atribuciones siguientes:
 
 I. Supervisar la implementación de los procesos de selección, ingreso, capacitación, profesionalización, promoción, evaluación, permanencia, recategorización, separación y disciplina de las personas Integrantes del Servicio;
 
@@ -530,9 +598,17 @@ III. Supervisar el funcionamiento de la Secretaría Técnica del Mecanismo y del
 
 IV. Validar, en su caso, el dictamen que ponga a su consideración la Coordinación a efecto de determinar la obtención de la titularidad de las personas integrantes del Servicio, en los términos del presente Estatuto;
 
-V. Validar, en su caso, los nombramientos eventuales que someterá a la aprobación de la persona Titular de la Presidencia de la Comisión;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
-VI. Una vez aprobada la relación de personas que reciban nombramientos eventuales por la persona Titular de la Comisión, instruir a la Coordinación la emisión de las notificaciones de nombramiento correspondientes;
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+V. Aprobar los nombramientos eventuales que le soliciten las personas Titulares de las áreas de la Comisión, previo visto bueno de la DGJ;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+VI. Una vez aprobada la relación de personas que reciban nombramientos eventuales, instruir a la Coordinación la emisión de las notificaciones de nombramiento correspondientes;
 
 VII. Supervisar la adecuada integración de los contenidos y propuestas que se habrán de discutir y, en su caso, aprobar en las sesiones del Mecanismo y del Grupo Consultivo;
 
@@ -540,7 +616,11 @@ VIII. Impulsar medidas transversales de igualdad sustantiva, no discriminación 
 
 IX. Impulsar medidas transversales de legalidad, honestidad, austeridad, eficiencia, eficacia, economía, racionalidad, resultados, transparencia, control y rendición de cuentas en el gasto y administración de los recursos erogados en el marco del presente Estatuto y las normas que de él se desprenden;
 
-X. Revisar y, en su caso, aprobar el Programa de Profesionalización para que se presente a la persona Titular de la Presidencia de la Comisión, previa opinión favorable del Grupo Consultivo;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+X. Someter el Programa de Profesionalización a la aprobación de la persona Titular de la Presidencia de la Comisión, previa opinión favorable del Grupo Consultivo;
 
 XI. Supervisar las gestiones internas y externas para la certificación de personal especializado en materia de mediación y conciliación.
 
@@ -560,9 +640,17 @@ XVIII. Proponer a la persona titular de la Presidencia de la Comisión modificac
 
 XIX. Proponer a la persona titular de la Presidencia de la Comisión, la adopción de acciones de vinculación interna y externa con personas expertas, organizaciones, instancias gubernamentales y educativas para el adecuado funcionamiento del Servicio y el Programa de Profesionalización;
 
-XX. Validar y, en su caso, someter a consideración de la persona Titular de la Presidencia, las propuestas de la Coordinación en materia de contenidos o modificaciones del Programa de Profesionalización, así como la Metodología, para que en su caso los apruebe;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
-XXI. Supervisar la implementación de las medidas necesarias en materia de certificación de la función de mediación y conciliación jurídicas, en los términos previstos en la normatividad, y
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+XX. Validar y someter a consideración de la persona Titular de la Presidencia las propuestas de la Coordinación en materia de contenidos o modificaciones del Programa de Profesionalización, así como la Metodología y demás políticas de implementación, para su aprobación;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+XXI. Supervisar la implementación de las medidas necesarias en materia de certificación de la función de mediación y conciliación, en los términos previstos en la normatividad, y
 
 XXII. Las demás que le confiera la persona Titular de la Presidencia, y que sean necesarias para el adecuado funcionamiento del Servicio y para el cumplimiento de las disposiciones de este Estatuto, en el ámbito de su competencia.
 
@@ -588,15 +676,13 @@ I. Atender las sesiones del Mecanismo y contribuir al cumplimiento de los acuerd
 
 II. Las demás que le confiera la persona Titular de la Presidencia, y que sean necesarias para el adecuado funcionamiento del Servicio y para el cumplimiento de las disposiciones de este Estatuto, en el ámbito de su competencia.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 32.
 
-La Contraloría Interna, por conducto de la persona titular, tendrá las atribuciones siguientes:
-
-I. Investigar, substanciar, calificar y sancionar en los términos de la Ley de Responsabilidades Administrativas de la Ciudad de México los actos u omisiones del Personal Profesional, o particulares vinculados, que pudieran constituir faltas administrativas de manera directa o a través del personal adscrito que se encuentre facultado, y demás atribuciones de control interno que le confiere la normatividad aplicable;
-
-II. Atender las sesiones del Mecanismo en los términos previstos en este Estatuto y la normatividad que de él derive, y
-
-III. Contribuir al cumplimiento de los acuerdos que emanen del Mecanismo, en el ámbito de su competencia.
+La Contraloría Interna tendrá las facultades que le confiere la ley de Responsabilidades Administrativas de la Ciudad de México y demás normatividad aplicable.
 
 ###### Artículo 33.
 
@@ -606,11 +692,23 @@ I. Coordinar el diseño e implementación de los procesos de selección, ingreso
 
 II. Fungir como Secretaría Técnica del Mecanismo y del Grupo Consultivo;
 
-III. Proponer al Mecanismo los cambios de adscripción, incentivos, el otorgamiento de licencias y encargadurías de despacho del Personal Profesional, y emitir y formular, ya aprobados por la persona Titular de la Presidencia, las notificaciones de las resoluciones correspondientes a las personas interesadas;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
-IV. Proponer a la persona Titular de la DGA, para su validación, los nombramientos provisionales, y emitir y formular, ya aprobados por la persona Titular de la Presidencia, las notificaciones de las resoluciones correspondientes a las personas interesadas;
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
 
-V. Elaborar y proponer a las personas titulares de la Presidencia y de la DGA el dictamen que determine la obtención de la titularidad a las personas integrantes del Servicio, en los términos del presente Estatuto, así como, una vez aprobado, notificar los nombramientos respectivos;
+III. Proponer al Mecanismo los cambios de adscripción, incentivos, el otorgamiento de licencias y encargadurías de despacho del Personal Profesional, y emitir y formular, una vez aprobados, las notificaciones de las resoluciones correspondientes a las personas interesadas;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+IV. Proponer a la persona Titular de la DGA, para su validación, los nombramientos provisionales, y emitir y formular, con el visto bueno de la DGJ, las notificaciones de las resoluciones correspondientes a las personas interesadas;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+V. Elaborar y proponer a la persona Titular de la DGA el dictamen que determine la obtención de la titularidad a las personas integrantes del Servicio, en los términos del presente Estatuto, así como, una vez aprobado, notificar los nombramientos respectivos;
 
 VI. Elaborar las órdenes del día, carpetas de insumos y organizar las sesiones del Mecanismo y del Grupo Consultivo;
 
@@ -618,9 +716,13 @@ VII. Proponer y coadyuvar con la persona Titular de la DGA en la implementación
 
 VIII. Proponer y coadyuvar con la persona Titular de la DGA la implementación de medidas transversales de legalidad, honestidad, austeridad, eficiencia, eficacia, economía, racionalidad, resultados, transparencia, control y rendición de cuentas en el gasto y administración de los recursos erogados en el marco del presente Estatuto y las normas que de él se desprenden;
 
-IX. Proponer a la persona titular de la Presidencia, previa aprobación del Mecanismo, los contenidos del Estatuto para que, en su caso, se presenten ante el Consejo con fines de aprobación;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
-X. Proponer a la persona titular de la Presidencia de la Comisión, previa revisión y aprobación por parte de la persona Titular de la DGA y opinión del Grupo Consultivo, el Programa de Profesionalización;
+IX. (DEROGADA, G.O. 6 DE MARZO DE 2020)
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+X. (DEROGADA, G.O. 6 DE MARZO DE 2020)
 
 XI. Diseñar e implementar, en acuerdo con la persona Titular de la DGA, la estrategia de capacitación del Personal Administrativo;
 
@@ -628,9 +730,17 @@ XII. Proponer a la persona titular de la DGA, la adopción de acciones de vincul
 
 XIII. Implementar las medidas específicas formuladas por la persona Titular de la Presidencia de la Comisión para garantizar el cumplimiento de la presente normatividad;
 
-XIV. Elaborar las propuestas de convocatoria a concurso de oposición para ocupar plazas del Servicio y someterlas a consideración de la persona Titular de la DGA para opinión de impacto y suficiencia presupuestaria para su realización y posteriormente al Mecanismo para su validación;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
-XV. Emitir y coordinar, a partir de la propuesta validada por el Mecanismo y la aprobación de la persona Titular de la Presidencia de la Comisión, las convocatorias a los concursos de oposición para ocupar plazas del Servicio;
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+XIV. Elaborar la propuesta de plazas y puestos que habrán de someterse a concurso de oposición, para la opinión de factibilidad presupuestal por parte de la DGA, y una vez obtenida, se someterá la Convocatoria al Concurso correspondiente a aprobación de la persona Titular de la Presidencia;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+XV. Emitir y coordinar, las convocatorias a los concursos de oposición para ocupar plazas del Servicio;
 
 XVI. Proponer a la persona Titular de la DGA la celebración de convenios y otros instrumentos jurídicos con dependencias, entidades del sector público y organizaciones de la sociedad civil en el marco de sus atribuciones;
 
@@ -640,13 +750,25 @@ XVIII. Proponer a las personas Titulares de la Presidencia y de la DGA modificac
 
 XIX. Utilizar las herramientas tecnológicas y formatos que considere necesarias para la implementación de los procesos del Servicio, pudiéndose allegar de los sistemas de información establecidos para tal efecto;
 
-XX. Proponer a la persona Titular de la DGA, los contenidos o modificaciones del Programa de Profesionalización, así como la Metodología, para que en su caso sea validada y aprobada por la persona Titular de la Presidencia;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
-XXI. Implementar las medidas necesarias en materia de certificación de la función de mediación y conciliación jurídicas, en los términos previstos en la normatividad;
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+XX. Proponer a la persona Titular de la DGA, los contenidos o modificaciones del Programa de Profesionalización, así como la Metodología y demás políticas de implementación del presente Estatuto, para validación y aprobación por la persona Titular de la Presidencia;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+XXI. Implementar las medidas necesarias en materia de certificación de la función de mediación y conciliación, en los términos previstos en la normatividad;
 
 XXII. Dar respuesta a las solicitudes de revisión presentadas por las personas Integrantes del Servicio en términos de lo establecido en el presente Estatuto;
 
-XXIII. Ejecutar los acuerdos y resoluciones aprobados por el Mecanismo, en el marco de sus atribuciones;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+XXIII. Ejecutar los acuerdos y resoluciones aprobados por el Mecanismo y el Grupo Consultivo de Profesionalización, en el marco de sus atribuciones;
 
 XXIV. Ejecutar las determinaciones emitidas por la DGJ dentro del procedimiento disciplinario;
 
@@ -666,9 +788,15 @@ I. La persona Titular de la Dirección General de Administración, quien lo pres
 
 II. La persona Titular de la Secretaría Ejecutiva;
 
-III. La persona Titular de la Dirección General Jurídica;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
-IV. La persona Titular de la Contraloría Interna, en carácter de observadora y sin derecho a voto, y
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+III. La persona Titular de la Dirección General Jurídica, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+IV. (DEROGADA, G.O. 6 DE MARZO DE 2020)
 
 V. La Coordinación, sin derecho de voto, que fungirá como Secretaría Técnica.
 
@@ -680,25 +808,55 @@ Serán atribuciones del Mecanismo las siguientes:
 
 I. Servir como instancia de consulta y validación para la implementación de los procesos de selección, ingreso, promoción, evaluación, permanencia, separación y disciplina de las personas Integrantes del Servicio;
 
-II. Discutir y, en su caso, validar para la aprobación de la persona Titular de la Presidencia de la Comisión, los cambios de adscripción, incentivos, el otorgamiento de licencias y encargadurías de despacho del Personal Profesional que someta a su consideración la Coordinación, en su carácter de Secretaría Técnica del Mecanismo;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+II. Autorizar los cambios de adscripción, incentivos, el otorgamiento de licencias y encargadurías de despacho del Personal Profesional que someta a su consideración la Coordinación, en su carácter de Secretaría Técnica del Mecanismo;
 
 III. Formular propuestas a la Presidencia de la Comisión y a las instancias referidas en este Estatuto, o bien, a las áreas de la Comisión que así lo requieran, encaminadas a la adopción de medidas transversales de igualdad sustantiva, no discriminación y respeto e inclusión de personas y grupos de atención prioritaria en el marco de lo dispuesto en el presente Estatuto y la normatividad que de él emane;
 
 IV. Formular propuestas o, en su caso, validar las propuestas de modificación del presente Estatuto que formule la Coordinación, a efectos de que sean presentadas a consideración de la persona titular de la Presidencia de la Comisión, para que en su caso las someta a aprobación del Consejo;
 
-V. Formular propuestas o, en su caso, validar las propuestas de modificación de la Metodología, el Programa y demás normatividad derivada del presente Estatuto, a efectos de que sean sometidas a la consideración y, en su caso, aprobación de la persona Titular de la Presidencia de la Comisión;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
-VI. Revisar y, en su caso, validar la Metodología, a efectos de que sea presentada para en su caso aprobación de la persona titular de la Presidencia de la Comisión;
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+V. Formular propuestas de contenidos o de modificación de la Metodología, el Programa y otros documentos de implementación del presente Estatuto, a efectos de que sean sometidos a la consideración y, en su caso, aprobación de la persona Titular de la Presidencia de la Comisión;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+VI. (DEROGADA, G.O. 6 DE MARZO DE 2020)
 
 VII. Emitir opiniones y propuestas a la persona Titular de la Presidencia de la Comisión y a las Instancias referidas en este Estatuto, o bien, a las áreas de la Comisión que así lo requieran, sobre acciones de vinculación interna y externa con personas expertas, organizaciones, instancias gubernamentales y educativas para el adecuado funcionamiento del Servicio, que la Coordinación someta a su consideración;
 
 VIII. Validar las propuestas de convocatoria a concurso de oposición para ocupar plazas del Servicio, a efectos de que sean presentadas para en su caso aprobación de la persona titular de la Presidencia de la Comisión;
 
-IX. Las demás que sean necesarias para el adecuado funcionamiento del Servicio y para el adecuado cumplimiento de las disposiciones de este Estatuto.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 6 DE MARZO DE 2020)</small>
+
+IX. Informar a la persona Titular de la Presidencia de la Comisión de todos sus resolutivos, a través de la DGA, y someterlos a su revisión, haciendo las adecuaciones necesarias cuando así lo instruya la Presidencia;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(ADICIONADA, G.O. 6 DE MARZO DE 2020)</small>
+
+X. Proponer a la Presidencia de la Comisión los acuerdos para la resolución de casos de implementación e interpretación que no estén previstos en el presente Estatuto, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 6 DE MARZO DE 2020)</small>
+
+XI. Las demás que sean necesarias para el adecuado funcionamiento del Servicio y para el adecuado cumplimiento de las disposiciones de este Estatuto.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
 
 ###### Artículo 37.
 
-El Mecanismo sesionará cuatro veces al año en sesión ordinaria, más las sesiones extraordinarias a que convoque la persona Titular de la DGA, a través de la Coordinación, previo acuerdo con la Presidencia.
+El Mecanismo sesionará cuatro veces al año en sesión ordinaria, más las sesiones extraordinarias a que convoque la persona Titular de la DGA, a través de la Coordinación. El Mecanismo también podrá sesionar en cualquier momento a solicitud de la Presidencia.
 
 ###### Artículo 38.
 
@@ -730,9 +888,13 @@ IV. Una persona Titular designada como representante común por el área de Defe
 
 V. La Coordinación, sin derecho de voto, que fungirá como Secretaría Técnica.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 43.
 
-El Grupo Consultivo sesionará cuatro veces al año en sesión ordinaria, más las sesiones extraordinarias a que convoque la persona Titular de la DGA, a través de la Coordinación, previo acuerdo con la Presidencia. El quórum para llevar a cabo cada sesión será de la mitad más uno de las personas integrantes. Los acuerdos y resoluciones del Grupo Consultivo se tomarán por mayoría simple.
+El Grupo Consultivo sesionará cuatro veces al año en sesión ordinaria, más las sesiones extraordinarias a que convoque la persona Titular de la DGA, a través de la Coordinación. El Grupo Consultivo también podrá sesionar en cualquier momento a solicitud de la Presidencia. El quórum para llevar a cabo cada sesión será de la mitad más uno de las personas integrantes. Los acuerdos y resoluciones del Grupo Consultivo se tomarán por mayoría simple.
 
 ###### Artículo 44.
 
@@ -892,7 +1054,11 @@ II. Cerrado: Tiene el objetivo de convocar únicamente al Personal Profesional q
 
 La persona Titular de la Presidencia de la Comisión determinará el tipo de concurso para ocupar los puestos vacantes del Servicio, en función de la disponibilidad presupuestal y las necesidades del mismo.
 
-Una vez aprobado el tipo de concurso, la Coordinación elaborará el proyecto de convocatoria que corresponda, lo someterá a validación del Mecanismo, para que posteriormente la persona Titular de la DGA lo someta a aprobación de la persona Titular de la Presidencia de la Comisión.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
+Una vez aprobado el tipo de concurso, la Coordinación elaborará el proyecto de convocatoria que corresponda, el cual será sometido a aprobación de la persona Titular de la Presidencia de la Comisión por la persona Titular de la DGA.
 
 ###### Artículo 66.
 
@@ -934,9 +1100,23 @@ IV. Los demás que se establezcan en la convocatoria de cada concurso.
 
 Las etapas que conforman a los concursos de oposición son:
 
-I. Reclutamiento, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
-II. Selección.
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+I. Reclutamiento;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+II. Selección, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(ADICIONADA, G.O. 6 DE MARZO DE 2020)</small>
+
+III. Designación.
 
 La Coordinación podrá apoyarse en las diversas áreas de la Comisión, así como de otras instituciones y entes externos para llevar a cabo las actividades de las etapas de los concursos.
 
@@ -948,19 +1128,39 @@ Las características generales de las etapas de los concursos de oposición se e
 
 El reclutamiento de las personas aspirantes a ingresar al Servicio o a ocupar un puesto se entenderá como el procedimiento que permite atraer personas aspirantes con el perfil y los requisitos necesarios.
 
-Esta etapa se iniciará a través de la emisión de una convocatoria y terminará con la validación de los registros correspondientes.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
+Esta etapa se iniciará a través de la emisión de una convocatoria y terminará con la validación curricular y documental de los registros correspondientes.
 
 ###### Artículo 71.
 
 La selección de personal consiste en escoger entre las personas aspirantes reclutadas a los perfiles más adecuados al puesto, tratando de mantener o aumentar la eficacia y el desempeño del personal, la eficiencia en el servicio que brinda la Comisión y lograr sus objetivos.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 72.
 
-La etapa de selección estará conformada por:
+La etapa de selección tiene como finalidad revisar la compatibilidad de los perfiles y evaluar competencias laborales para elegir a personas aspirantes idóneas para el ejercicio de las funciones y obligaciones propias de cada cargo y puesto del SPDH.
 
-I. Valoración Curricular;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
-II. Evaluación de competencias;
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.O. 6 DE MARZO DE 2020)</small>
+
+Se conforma de lo siguiente:
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+I. (DEROGADA, G.O. 6 DE MARZO DE 2020)
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+II. Evaluación de conocimientos,
 
 III. Entrevistas, y
 
@@ -1010,9 +1210,13 @@ En caso de ser requeridas, aquellas personas que hubiesen sido consideradas como
 
 En caso de no presentarse a tomar posesión de su puesto y cargo se actuará en términos de la normativa aplicable en la materia y se podrá convocar a la siguiente persona en la lista de prelación.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 83.
 
-Lo no previsto en las convocatorias será resuelto por la Coordinación en acuerdo con las personas Titulares de la Presidencia de la Comisión y de la DGA.
+Lo no previsto en las convocatorias será resuelto por la Coordinación en acuerdo con el Mecanismo.
 
 ### Capítulo III. Reincorporación al Servicio
 
@@ -1092,9 +1296,13 @@ II. Que la persona Integrante del Servicio no haya causado baja en el mismo con 
 
 III. Los demás que se establezcan en las disposiciones aplicables.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 97.
 
-La Coordinación emitirá el acuerdo relativo al reingreso de las personas Integrantes del Servicio, mismo que será hecho del conocimiento de la persona Titular de la DGA y, ésta a su vez, de la persona Titular de la Presidencia de la Comisión, para su autorización definitiva.
+La Coordinación emitirá el acuerdo relativo al reingreso de las personas Integrantes del Servicio, mismo que será hecho del conocimiento de las personas Titulares de la Presidencia de la Comisión y de la DGA.
 
 ###### Artículo 98.
 
@@ -1106,9 +1314,13 @@ Las cuestiones no previstas en este Capítulo serán resueltas por la Coordinaci
 
 El otorgamiento de los nombramientos se sujetará a las disposiciones establecidas en el presente Estatuto, así como a las demás disposiciones aplicables al Servicio.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 100.
 
-El nombramiento es el acto por el cual la persona Titular de la Presidencia de la Comisión designa a la persona propuesta por la persona Titular de la DGA, previa solicitud de la Coordinación. El documento emitido por la Coordinación en el que consta la resolución de la persona Titular de la Presidencia de la Comisión, se denominará "notificación de nombramiento".
+El nombramiento es el acto por el que se designa a la persona propuesta por la persona Titular de la DGA, previa solicitud de la Coordinación y con el visto bueno de la DGJ. El documento emitido por la Coordinación en el que consta la resolución del nombramiento, se denominará "notificación de nombramiento".
 
 ###### Artículo 101.
 
@@ -1122,9 +1334,13 @@ III. Nombramientos eventuales: Son aquellos que se entregarán en casos de excep
 
 IV. Nombramientos expresos: Son aquellos que decide la persona Titular de la Presidencia de la Comisión y se otorgan a personas que presten servicios para la Comisión como visitadoras adjuntas en el procedimiento de queja, con lo que tendrán fe pública durante el tiempo que se establezca en el mismo sin otra limitación que la que decida la persona Titular de la Presidencia.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 102.
 
-La persona Titular de la DGA, a propuesta de la Coordinación, remitirá a la persona Titular de la Presidencia la relación de nombramientos a aprobar, y una vez autorizados, notificará los nombramientos aprobados a través de la Coordinación.
+La persona Titular de la DGA, a propuesta de la Coordinación, aprobará la relación de nombramientos, y los notificará a través de la Coordinación, haciéndolo, a su vez, de conocimiento de la Presidencia de la Comisión.
 
 ###### Artículo 103.
 
@@ -1150,35 +1366,55 @@ Las notificaciones de los nombramientos de titularidad de las personas Integrant
 
 La notificación de nombramiento de titularidad iniciará su vigencia a partir de la fecha en que la Coordinación emita el dictamen correspondiente que determine, en definitiva, a aquellas personas integrantes que hayan obtenido la titularidad de conformidad con las normas del presente Estatuto.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 109.
 
-La Coordinación, previa valoración de los expedientes del Personal Profesional, elaborará un Dictamen sobre las personas que cumplan con los requisitos para obtener la titularidad, mismo que presentará a consideración de las personas Titulares de la Presidencia y de la DGA previa validación del Mecanismo. En caso de que la persona Titular de la Presidencia de la Comisión lo autorice, la Coordinación emitirá las notificaciones de los nombramientos correspondientes.
+La Coordinación, previa valoración de los expedientes del Personal Profesional, elaborará un Dictamen sobre las personas que cumplan con los requisitos para obtener la titularidad, mismo que pondrá a consideración de la DGA, con el visto bueno de la DGJ. La Coordinación emitirá las notificaciones de los nombramientos correspondientes.
 
 ###### Artículo 110.
 
 La Coordinación realizará la valoración de los requisitos para la obtención de la titularidad del Personal Profesional, dentro de los cuatro meses siguientes a la conclusión de los cursos de la fase de Formación y Capacitación Especializada del Programa de Profesionalización.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 111.
 
-Con la obtención de la titularidad, las personas Integrantes del Servicio adquieren la permanencia dentro del Servicio, la cual estará sujeta a los resultados que la persona obtenga en el marco del Subsistema de Gestión del Desempeño, en términos de lo previsto en el artículo 117 de este Estatuto. La permanencia de las personas integrantes dentro del Servicio estará sujeta al cumplimiento de sus obligaciones en términos de las disposiciones laborales, los Lineamientos Generales de Trabajo y demás ordenamientos aplicables.
+Con la obtención de la titularidad, las personas Integrantes del Servicio adquieren la permanencia dentro del Servicio, la cual estará sujeta a los resultados que la persona obtenga en el marco del Subsistema de Gestión del Desempeño, en términos de lo previsto en el artículo 117 de este Estatuto. La permanencia de las personas integrantes dentro del Servicio estará sujeta al cumplimiento de sus obligaciones en términos del artículo 9 de este Estatuto, las disposiciones laborales, los Lineamientos Generales de Trabajo y demás ordenamientos aplicables.
 
 ###### Artículo 112.
 
 La Comisión podrá otorgar nombramientos eventuales, cuyo plazo máximo de vigencia será de treinta y seis meses. Las personas que obtengan un nombramiento eventual no ocuparán la plaza respectiva ni formarán parte del Servicio.
 
-Para tal efecto, la Coordinación someterá a consideración de las personas Titulares de la Presidencia de la Comisión y de la DGA, las propuestas de nombramientos eventuales que correspondan y, en caso de ser autorizadas, la Coordinación notificará los nombramientos correspondientes.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
+Para tal efecto, la Coordinación someterá a consideración de la DGA las propuestas de nombramientos eventuales que correspondan y, en caso de ser autorizadas con el visto bueno de la DGJ, notificará los nombramientos correspondientes.
 
 ###### Artículo 113.
 
 Aquella persona que hubiese obtenido nombramientos eventuales por la temporalidad máxima establecida en el artículo anterior, no podrá recibir nombramiento eventual alguno dentro del año inmediato siguiente contado a partir de la fecha en que se hubiere alcanzado la temporalidad máxima.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 114.
 
-La persona Titular de la DGA, a propuesta de la Coordinación y en acuerdo con la persona Titular de la Presidencia de la Comisión, determinará la vigencia de los nombramientos eventuales conforme a las necesidades del Servicio y las disposiciones aplicables del presente Estatuto.
+La DGA, a propuesta de la Coordinación, determinará la vigencia de los nombramientos eventuales conforme a las necesidades del Servicio y las disposiciones aplicables del presente Estatuto.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
 
 ###### Artículo 115.
 
-Los nombramientos eventuales deberán ser solicitados por la persona Titular del área de la Comisión cuando menos diez días hábiles antes del inicio de la vigencia del mismo. Las solicitudes deberán contener el nombre de la persona a favor de quien se expida, el área en que desarrollará sus actividades, así como la vigencia, en los términos establecidos por el presente Estatuto.
+Los nombramientos eventuales y los expresos deberán ser solicitados por la persona Titular del área de la Comisión cuando menos diez días hábiles antes del inicio de la vigencia del mismo. Las solicitudes deberán contener el nombre de la persona a favor de quien se expida, el área en que desarrollará sus actividades, así como la vigencia, en los términos establecidos por el presente Estatuto.
 
 ###### Artículo 116.
 
@@ -1204,9 +1440,17 @@ V. Por retiro en función de la edad o tiempo de servicio, de acuerdo con lo dis
 
 VI. Por defunción;
 
-VII. Otras circunstancias que previamente valoradas por la instancia competente, impidan a la o el Integrante del Servicio su permanencia; y.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
-VIII. Por incumplimiento a sus obligaciones de carácter laboral, previstas en los Lineamientos Generales de Trabajo de los Servidores Públicos de la Comisión y en las demás leyes en materia del trabajo aplicables.
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+VII. Otras circunstancias que previamente valoradas por la instancia competente, impidan persona Integrante del Servicio su permanencia; y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+VIII. Por incumplimiento a sus obligaciones de carácter laboral, previstas en el artículo 9 de este Estatuto, así como en los Lineamientos Generales de Trabajo de los Servidores Públicos de la Comisión y en las demás leyes en materia del trabajo aplicables.
 
 ### Capítulo VII. Separación del Servicio
 
@@ -1230,11 +1474,29 @@ V. Hacerse acreedor a sanciones administrativas que impliquen separación del se
 
 VI. Cuando se le haya encontrado como autoridad responsable en una resolución emitida por cualquier organismo público de protección de los derechos humanos;
 
-VII. No aprobar la Evaluación Anual de Desempeño o las evaluaciones del Proceso de Profesionalización;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
-VIII. Cuando sume dos períodos consecutivos con resultados iguales o inferiores a 80 puntos en la Evaluación Anual de Desempeño, en los términos del presente Estatuto; y
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
 
-IX. Por incumplimiento a sus obligaciones de carácter laboral, previstas en los Lineamientos Generales de Trabajo de los Servidores Públicos de la Comisión y en las demás leyes en materia del trabajo aplicables.
+VII. No aprobar la Evaluación Anual de Desempeño, la evaluación a la que se refiere el artículo 17 de este Estatuto, o las evaluaciones del Proceso de Profesionalización;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 6 DE MARZO DE 2020)</small>
+
+VIII. Haberse acreditado su incumplimiento a la obligación prevista en el artículo 9 fracción XV por lo que hace a la abstención de incurrir en conductas constitutivas de violencia laboral o violencia laboral por razón de género, incluyendo acoso u hostigamiento;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+IX. Cuando sume dos períodos consecutivos con resultados iguales a 80 puntos en la Evaluación Anual de Desempeño, en los términos del presente Estatuto; y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 6 DE MARZO DE 2020)</small>
+
+X. Por incumplimiento a sus obligaciones de carácter laboral, previstas en este Estatuto, los Lineamientos Generales de Trabajo de los Servidores Públicos de la Comisión y en las demás leyes en materia del trabajo aplicables.
 
 ###### Artículo 120.
 
@@ -1266,9 +1528,13 @@ La Evaluación del Desempeño consiste en la valoración cualitativa y cuantitat
 
 La Evaluación del Desempeño estará destinada a medir las metas alcanzadas, así como los comportamientos esperados para el logro de las metas, de conformidad con el presente Estatuto y la Metodología.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 126.
 
-La persona Titular de la DGA, someterá a consideración de la persona Titular de la Presidencia de la Comisión, previa validación del Mecanismo, la propuesta de Metodología, la cual contendrá las normas y procedimientos a evaluar en el Subsistema de la Gestión del Desempeño.
+La persona Titular de la DGA someterá a consideración de la persona Titular de la Presidencia de la Comisión, la propuesta de Metodología, la cual contendrá las normas y procedimientos a evaluar en el Subsistema de la Gestión del Desempeño.
 
 Una vez aprobada la Metodología o, en su caso las modificaciones a la misma, la persona Titular de la DGA, a través de la Coordinación, deberá notificarla al Personal Profesional en los diez días hábiles siguientes, mediante correo institucional y por Estrados Institucionales.
 
@@ -1302,23 +1568,49 @@ II. Evaluación final: Que tendrá un valor del 50% de la evaluación anual del 
 
 La Evaluación del Desempeño se integrará con los factores siguientes:
 
-I. Factor de logro individual: Consiste en la valoración del cumplimiento de metas fijadas en los Acuerdos de Desempeño y tiene un valor equivalente al 70% del resultado final de la Evaluación. La evaluación de este factor recae en su totalidad en la persona superior jerárquica de la persona evaluada;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+I. Factor de logro individual: Consiste en la valoración del cumplimiento de metas fijadas en los Acuerdos de Desempeño y tiene un valor equivalente al 65% del resultado final de la Evaluación. La evaluación de este factor recae en su totalidad en la persona superior jerárquica de la persona evaluada;
 
 II. Factor de habilidades y competencias: Consiste en la valoración del cumplimiento de los perfiles establecidos en el Catálogo para la persona que ocupe el puesto a evaluar y tiene un valor equivalente al 30% del resultado final de la Evaluación. Este factor es evaluado de la siguiente manera:
 
-a. Por la persona superior jerárquica, con un valor de hasta el 20%, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
-b. Por la misma persona evaluada, en un ejercicio de autoevaluación, con un valor de hasta el 10%.
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
+a. Por la persona superior jerárquica, con un valor del 20%, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
+b. Por la misma persona evaluada, en un ejercicio de autoevaluación, con un valor del 10%.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(ADICIONADA, G.O. 6 DE MARZO DE 2020)</small>
+
+III. Factor de innovación y mejora continua. Consiste en la valoración de implementación de nuevos métodos o mejoras sustanciales que la persona evaluada realiza para el cumplimiento de la meta. Tiene un valor del 5%. La valoración de este factor corresponde a la persona evaluadora.
 
 ###### Artículo 131.
 
 El Acuerdo de Desempeño es la base de la evaluación del factor de logro individual, y el instrumento en el cual se suscriben las metas y los compromisos de las personas Integrantes del Servicio Profesional.
 
-Dicho acuerdo deberá contener hasta seis metas, de las cuales habrá hasta tres metas fijas que respondan a líneas y objetivos estratégicos de alta prioridad de la Comisión, mientras que las personas evaluadas y evaluadoras deberán definir por consenso las metas restantes.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
+Dicho acuerdo deberá contener hasta seis metas, de las cuales tres serán fijas, propuestas por la persona titular del área y deben responder a líneas y objetivos estratégicos de alta prioridad de la Comisión, mientras que las personas evaluadas y evaluadoras deberán definir por consenso las metas restantes.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MARZO DE 2020)</small>
 
 ###### Artículo 132.
 
-Para la determinación de las metas institucionales, cada año las áreas que cuenten con Personal Profesional deberán remitir a la persona Titular de la DGA, junto con sus Programas Operativos Anuales y el Programa Interno de Trabajo, el conjunto de metas que busquen fijar en los Acuerdos de Desempeño de cada persona Integrante del Servicio para el ejercicio fiscal siguiente, las cuales deberán estar alineadas a la programación operativa de mérito. Por su parte, las metas que se fijen de manera consensuada entre las personas evaluadas y las evaluadoras deberán cumplir con los elementos y requisitos que precise la Metodología.
+Para la determinación de las metas fijas, cada año las áreas que cuenten con Personal Profesional deberán remitir a la persona Titular de la DGA, junto con sus Programas Operativos Anuales y el Programa Interno de Trabajo, el conjunto de metas que busquen fijar en los Acuerdos de Desempeño de cada persona Integrante del Servicio para el ejercicio fiscal siguiente, las cuales deberán estar alineadas a la programación operativa de mérito. Por su parte, las metas que se fijen de manera consensuada entre las personas evaluadas y las evaluadoras deberán cumplir con los elementos y requisitos que precise la Metodología.
 
 En su caso, la persona Titular de la Presidencia de la Comisión podrá emitir un acuerdo dirigido a las áreas de la Comisión en el que se establezcan todas o algunas de las metas institucionales que deberán incorporarse a los Acuerdos de Desempeño que correspondan.
 
@@ -1348,9 +1640,13 @@ La Cédula de Evaluación del Desempeño será el instrumento que sistematice la
 
 Las personas evaluadoras deberán enviar a la Coordinación las Cédulas de Evaluación de Desempeño, la correspondiente a la evaluación intermedia a más tardar en la primera semana de agosto de cada año, en tanto que la relativa a la evaluación final, deberá remitirse a más tardar durante la primera semana de marzo del ejercicio inmediato siguiente al evaluado. La Coordinación sistematizará la información contenida en las Cédulas de Evaluación de Desempeño para su registro, seguimiento y notificación de los resultados.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 139.
 
-En caso de que la persona Integrante del Servicio a evaluar no cuente con una antigüedad en el cargo que abarque el ejercicio fiscal completo, se procederá a la evaluación por el plazo de tiempo que tenga laborando adscrito al Servicio. Si la antigüedad en el cargo no abarca más del 50% de uno de los semestres del ejercicio a evaluar, solamente se evaluará el que sí estuviera cubierto en esa proporción.
+Para ser sujeta de la Evaluación del Desempeño, la persona Integrante del Servicio deberá haberse desempeñado como mínimo tres meses en el mismo cargo o puesto durante el período que se evalúa.
 
 ###### Artículo 140.
 
@@ -1360,9 +1656,13 @@ Las equivalencias correspondientes a la Evaluación del Desempeño se especifica
 
 La calificación mínima aprobatoria de la Evaluación del Desempeño será de 80 puntos en una escala de 0 a 100. La persona Integrante del Servicio que obtenga una calificación inferior a la mínima aprobatoria será sujeta al procedimiento disciplinario establecido en el presente Estatuto.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 142.
 
-En caso de que una persona Integrante del Servicio realice aportaciones institucionales extraordinarias, se le otorgará un 10% adicional a la calificación final que hubiese obtenido en la Evaluación del Desempeño, según las disposiciones establecidas en la Metodología.
+El factor innovación y mejora continua, referido en el artículo 130, será valorado de conformidad con las disposiciones establecidas en la Metodología.
 
 ###### Artículo 143.
 
@@ -1548,9 +1848,13 @@ Las solicitudes que no se presenten dentro del plazo establecido, surtirán efec
 
 No se autorizarán readscripciones a petición de parte una vez iniciado algún proceso de ingreso y ascenso, sino hasta después de la publicación de los resultados finales.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 167.
 
-La Coordinación presentará al Mecanismo el dictamen que contenga las consideraciones generales respecto de las readscripciones. Una vez validado, se someterá a consideración de las personas Titulares de la Presidencia de la Comisión y de la DGA, para que, en su caso, se autoricen aquéllas que se considere procedentes, en cuyo caso la Coordinación las notificará a la persona Integrante del Servicio interesada.
+La Coordinación presentará al Mecanismo el dictamen que contenga las consideraciones generales respecto de las readscripciones para la aprobación de aquéllas que se considere procedentes, en cuyo caso la Coordinación las notificará a la persona Integrante del Servicio interesada con al menos tres días de anticipación.
 
 ###### Artículo 168.
 
@@ -1562,11 +1866,19 @@ Cuando exista más de una solicitud de readscripción sobre el mismo cargo o pue
 
 Las encargadurías de despacho se podrán otorgar al Personal Profesional para desarrollar funciones, de manera temporal, de un cargo y puesto del Servicio, sin que ello implique su ocupación definitiva ni antigüedad en la misma.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 170.
 
-Las personas Titulares de las áreas de la Comisión podrán solicitar a la persona Titular de la DGA, con base al mérito, que la Coordinación proponga a una persona Integrante del Servicio Profesional como encargada de despacho.
+Las personas Titulares de las áreas de la Comisión podrán solicitar a la persona Titular de la DGA, con base al mérito, que proponga a una persona Integrante del Servicio Profesional como encargada de despacho.
 
-La persona Titular de la Presidencia de la Comisión, previa validación del Mecanismo, autorizará, en su caso, la ocupación de las encargadurías propuestas por la Coordinación.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
+El Mecanismo autorizará, en su caso, la ocupación de las encargadurías propuestas por la DGA.
 
 ###### Artículo 171.
 
@@ -1606,9 +1918,13 @@ III. Contar con el perfil del puesto y cargo de conformidad con lo establecido e
 
 IV. Ocupar un cargo o puesto inmediato inferior al puesto que se pretende ocupar por esta vía.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 176.
 
-El oficio mediante el cual se solicite a la persona Titular de la DGA la propuesta de una persona Integrante del Servicio como encargada de despacho, deberá presentarse con cuando menos quince días hábiles de anticipación a la fecha en que se espera que surta sus efectos, y deberá contener:
+El oficio mediante el cual se solicite a la persona Titular de la DGA la propuesta de una persona Integrante del Servicio como encargada de despacho, deberá presentarse con cuando menos diez días hábiles de anticipación a la fecha en que se espera que surta sus efectos, y deberá contener:
 
 I. La denominación del cargo y puesto;
 
@@ -1636,9 +1952,13 @@ La persona Integrante del Servicio que sea designada como encargada de despacho,
 
 Las actividades a cargo de la persona Integrante del Servicio que obtenga una encargaduría de despacho podrán ser desarrolladas temporalmente por otra persona Integrante del Servicio o cualquier otra persona, conforme a las disposiciones que rigen a las personas encargadas de despacho, o bien, a los nombramientos eventuales.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 181.
 
-La persona Titular de la DGA se encuentra autorizada a dar por terminada con anticipación una encargaduría de despacho, en acuerdo con la persona Titular de la Presidencia de la Comisión, notificando a la persona que estuviese desarrollando funciones de dicho encargo con una antelación de por lo menos quince días naturales.
+La persona Titular de la DGA se encuentra autorizada a dar por terminada con anticipación una encargaduría de despacho, en acuerdo con la persona Titular de la Presidencia de la Comisión, notificando a la persona que estuviese desarrollando funciones de dicho encargo con una antelación de por lo menos diez días naturales.
 
 ### Capítulo VIII. Licencias
 
@@ -1662,11 +1982,23 @@ IV. No presentar rezago en sus metas institucionales.
 
 Las licencias se regirán bajo las siguientes disposiciones:
 
-I. La persona interesada deberá presentar su solicitud por escrito ante la Coordinación, con al menos treinta días naturales de anticipación a la fecha en que busque surtir efectos, de lo contrario, se considerará no presentada;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
-II. De ser procedente la solicitud de licencia, la Coordinación presentará al Mecanismo el dictamen correspondiente para su validación y, en su caso, someterlo a consideración de la persona Titular de la Presidencia para su aprobación, y
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
 
-III. Una vez autorizada la licencia por la persona titular de la Presidencia de la Comisión, la Coordinación emitirá la notificación correspondiente para conocimiento de la persona solicitante en un plazo de hasta diez días hábiles.
+I. La persona interesada deberá presentar su solicitud por escrito ante la Coordinación, con al menos veinte días hábiles de anticipación a la fecha en que busque surtir efectos, de lo contrario, se considerará no presentada;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+II. De ser procedente la solicitud de licencia, la Coordinación presentará al Mecanismo el dictamen correspondiente para su aprobación;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+III. Una vez autorizada la licencia por el Mecanismo, la Coordinación emitirá la notificación correspondiente para conocimiento de la persona solicitante en un plazo de hasta diez días hábiles.
 
 ###### Artículo 185.
 
@@ -1682,9 +2014,13 @@ IV. Tipo de licencia solicitada, y
 
 V. Exposición de motivos que contenga el visto bueno de la persona superior jerárquica, así como de la persona titular del área, avalando que la licencia no afecta al desarrollo de las actividades de la Comisión.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 186.
 
-La persona titular del área podrá negar el otorgamiento del visto bueno a las solicitudes de licencia por motivos relacionados con la carga laboral del área bajo su responsabilidad, y tomando en consideración el progreso y cumplimiento de las metas de la persona Integrante del Servicio (sic) tuviere programadas conforme a los Acuerdos de Desempeño, así como las causas que motiven la solicitud.
+La persona titular del área podrá negar el otorgamiento del visto bueno a las solicitudes de licencia por motivos relacionados con la carga laboral del área bajo su responsabilidad, y tomando en consideración el progreso y cumplimiento de las metas de la persona Integrante del Servicio tuviere programadas conforme a los Acuerdos de Desempeño.
 
 ###### Artículo 187.
 
@@ -1698,21 +2034,33 @@ II. Extraordinarias. Son aquellas otorgadas por un plazo mayor de seis meses y h
 
 Ninguna licencia podrá otorgarse con goce de sueldo.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 189.
 
-En caso de otorgarse una licencia ordinaria, no podrá solicitarse otra en el transcurso de los tres años siguientes. Si se otorgase una licencia extraordinaria no podrá solicitarse otra dentro de los cinco años siguientes. En ningún caso podrán solicitarse licencias de distinto tipo en un período menor a dos años entre la primera y la segunda.
+En caso de otorgarse una licencia ordinaria, no podrá solicitarse otra en el transcurso de un año. Si se otorgase una licencia extraordinaria no podrá solicitarse otra dentro de los tres años siguientes. En ningún caso podrán solicitarse licencias de distinto tipo en un período menor a dos años entre la primera y la segunda.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
 
 ###### Artículo 190.
 
-Las actividades del cargo de la persona Integrante del Servicio que obtenga una licencia se podrán desarrollar temporalmente por otra persona Integrante del Servicio o cualquier otra persona, conforme a las disposiciones del presente Estatuto que regulan las encargadurías de despacho o los nombramientos eventuales.
+Las actividades del cargo de la persona Integrante del Servicio que obtenga una licencia se podrán desarrollar temporalmente por otra persona Integrante del Servicio o cualquier otra persona, conforme a las disposiciones del presente Estatuto que regulan las encargadurías de despacho, los nombramientos eventuales o los expresos.
 
 ###### Artículo 191.
 
 Las personas Integrantes del Servicio que hayan obtenido alguna licencia y deseen regresar con anterioridad a su vencimiento, deberán notificarlo por escrito a la Coordinación con al menos treinta días naturales de anticipación a la fecha en que solicite se haga efectiva su reincorporación.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 192.
 
-Las licencias, encargadurías de despacho o nombramientos eventuales relacionados con puestos del Servicio podrán darse por terminados con antelación y sin responsabilidad para la Comisión, siempre que la Coordinación notifique a la persona que la ocupa con, por lo menos, quince días naturales de antelación.
+Las licencias, encargadurías de despacho o nombramientos eventuales y expresos relacionados con puestos del Servicio podrán darse por terminados con antelación y sin responsabilidad para la Comisión, siempre que la Coordinación notifique a la persona que la ocupa con, por lo menos, diez días naturales de antelación.
 
 ## TÍTULO SEXTO. SUBSISTEMA DE PROFESIONALIZACIÓN
 
@@ -2080,21 +2428,33 @@ V. Durante la instrucción, la instancia que conozca del recurso podrá allegars
 
 VI. La instancia competente resolverá dentro de los 20 días hábiles siguientes a aquel en que se decrete el cierre de la instrucción, prorrogables hasta por 10 días hábiles, y
 
-VII. La resolución deberá ser notificada personalmente a la persona Integrante del Servicio dentro de los 5 días hábiles siguientes, contados a partir de la fecha en que se haya dictado la resolución, la cual se hará del conocimiento de la persona Titular de la DGA y de la persona Titular de la Presidencia de la Comisión.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+
+VII. La resolución deberá ser notificada personalmente a la persona Integrante del Servicio dentro de los 5 días hábiles siguientes, contados a partir de la fecha en que se haya dictado la resolución, la cual se hará del conocimiento de la persona Titular de la DGA.
 
 ### Capítulo IV. Procedimiento disciplinario
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 236.
 
-El procedimiento disciplinario es la secuencia de actos tendientes a resolver si ha lugar o no a la aplicación de alguna sanción derivada del incumplimiento de alguna obligación conforme a lo dispuesto en este Estatuto, con excepción de aquellas infracciones que sean competencia de la Contraloría Interna de la Comisión y con independencia de las responsabilidades y sanciones administrativas, civiles, penales, electorales o laborales que establezcan otros ordenamientos jurídicos aplicables.
+El procedimiento disciplinario es la secuencia de actos tendientes a resolver si ha lugar o no a la aplicación de alguna sanción derivada del incumplimiento de alguna obligación conforme a lo dispuesto en este Estatuto, con independencia de aquellas infracciones que sean competencia de la Contraloría Interna de la Comisión, así como de las responsabilidades y sanciones administrativas, civiles, penales, electorales o laborales que establezcan otros ordenamientos jurídicos aplicables.
 
 Dicho procedimiento se apegará invariablemente a los principios de certeza, objetividad, imparcialidad, equidad y legalidad, respetando en todo momento, el derecho de audiencia del Personal Profesional.
 
 Las determinaciones intraprocesales dictadas por la instancia sustanciadora del presente procedimiento no son susceptibles de impugnación; si la persona recurrente considera que le causan perjuicio, deberá impugnarlas hasta la emisión de la resolución definitiva.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 237.
 
-En caso de incumplimiento de obligaciones derivadas del desempeño de sus funciones como servidores públicos, al Personal Profesional le será aplicable la Ley de Responsabilidades Administrativas de la Ciudad de México; para tal efecto, se implementará el procedimiento administrativo que corresponda, el cual estará a cargo de la Contraloría Interna de la Comisión.
+En caso de incumplimiento de obligaciones derivadas del desempeño de sus funciones como personas servidoras públicas, al Personal Profesional le será aplicable la Ley de Responsabilidades Administrativas de la Ciudad de México; para tal efecto, se implementará el procedimiento administrativo que corresponda.
 
 ###### Artículo 238.
 
@@ -2251,3 +2611,61 @@ Derivado de la armonización normativa interna de la Comisión de Derechos Human
 ###### ARTÍCULO NOVENO.
 
 Los casos de implementación no contemplados en los presentes artículos transitorios, podrán ser resueltos mediante acuerdo emitido por la persona Titular de la Presidencia de la Comisión.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 6 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO".]
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto entrará en vigor el 1 de enero de 2020, abrogando el Estatuto del Servicio Profesional en Derechos Humanos y del Personal Administrativo de la Comisión de Derechos Humanos del Distrito Federal publicado en la Gaceta Oficial del Distrito Federal de fecha 3 de marzo de 2014, así como los Lineamientos para la Realización de Actividades Complementarias de Formación que tiendan al Cumplimiento de los Objetivos de la Comisión de Derechos Humanos del Distrito Federal de 24 de abril de 2003, los Lineamientos del Proceso General de Desarrollo de Carrera de 11 de septiembre de 2014, los Lineamientos del Proceso General de Formación Profesional y Actualización Permanente de 11 de septiembre de 2014.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones normativas internas que contravengan lo dispuesto en el presente Estatuto.
+
+###### ARTÍCULO TERCERO.
+
+La actualización de la Metodología a que se refiere el presente Estatuto, deberá ser emitida dentro del término de ciento ochenta días naturales posteriores a la publicación del Estatuto y entrará en vigor en esa misma fecha.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos que se hayan iniciado conforme a las disposiciones del Estatuto que se abroga se sustanciarán hasta su conclusión, de conformidad con los preceptos de dicho ordenamiento legal.
+
+###### ARTÍCULO QUINTO.
+
+La Evaluación del Desempeño correspondiente al año 2019 se realizará conforme a los criterios, normas y procedimientos establecidos en las disposiciones del Estatuto que se abroga, así como de la Metodología vigente.
+
+###### ARTÍCULO SEXTO.
+
+En atención a lo dispuesto en el artículo 114 de la Ley Orgánica de la Comisión de Derechos Humanos de la Ciudad de México, publicada en la Gaceta Oficial de la Ciudad de México de 12 de julio de 2019, las personas Integrantes del Servicio con nivel de dirección de área continuarán siendo parte del mismo hasta que, en su caso, se separen de él.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Programa de Profesionalización en Derechos Humanos deberá ser emitido dentro del término de ciento ochenta días naturales posteriores a la publicación del Estatuto y entrará en vigor en esa misma fecha.
+
+Las personas Integrantes del Servicio que a la fecha de entrada en vigor del presente Estatuto tengan concluido el Programa de Formación Profesional y Actualización Permanente ingresarán de manera automática a la fase de Actualización Permanente del Programa de Profesionalización y, aquellas que se encuentren en alguna de las fases del derogado Programa, se incorporarán al vigente según corresponda.
+
+###### ARTÍCULO OCTAVO.
+
+Derivado de la armonización normativa interna de la Comisión de Derechos Humanos de la Ciudad de México, el Concurso de Oposición previsto para el ejercicio 2019 se realizará una vez que entre en vigor el presente Estatuto y con base en el nuevo Catálogo General de Cargos y Puestos, durante el año de 2020.
+
+###### ARTÍCULO NOVENO.
+
+Los casos de implementación no contemplados en los presentes artículos transitorios, podrán ser resueltos mediante acuerdo emitido por la persona Titular de la Presidencia de la Comisión.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINIACIÓN SE TRANSCRIBE EL "AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DEL SITIO OFICIAL DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO, DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO APROBADAS POR SU CONSEJO MEDIANTE ACUERDO NUMERO 11/2020, EMITIDO EN LA SESIÓN ORDINARIA 02/2020 DE FECHA 24 DE FEBERO (SIC) DE 2020" QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO]</small>
+
+AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DEL SITIO OFICIAL DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO, DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO APROBADAS POR SU CONSEJO MEDIANTE ACUERDO NUMERO 11/2020, EMITIDO EN LA SESIÓN ORDINARIA 02/2020 DE FECHA 24 DE FEBERO (SIC) DE 2020.
+
+UNICO. Las modificaciones al Estatuto del Servicio Profesional en Derechos Humanos de la Comisión de Derechos Humanos de la Ciudad de México, entra en vigor al día siguiente de la publicación del presente aviso en la Gaceta Oficial de la Ciudad de México y estará disponible para su consulta y descarga en el siguiente enlace electrónico: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf
+
+## TRANSITORIOS
+
+PRIMERO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México para su debido observancia y aplicación.
+
+SEGUNDO. Se designa como responsable de la funcionalidad y permanencia del enlace electrónico en el sitio oficial de la Comisión de Derechos Humanos de la Ciudad de México al Mtro. Silvano Joel Cantú Martínez, Coordinador General de Profesionalización en Derechos Humanos de la Comisión de Derechos Humanos de la Ciudad de México, con correo electrónico silvano.cantu@cdhcm.org.mx, y teléfono 5552295600, extensión 1825.
