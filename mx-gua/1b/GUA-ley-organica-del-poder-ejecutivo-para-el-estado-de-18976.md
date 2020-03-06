@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2019-03-12"
+last_updated: "2020-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2020.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -55,11 +55,21 @@ El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien ten
 
 El Gobernador del Estado podrá delegar atribuciones que no sean de su ejercicio exclusivo en las dependencias que de conformidad con esta Ley sean competentes, o en su caso, en los servidores públicos que estime pertinente.
 
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2020)</small>
+
+Artículo 2 bis.- El Poder Ejecutivo, en el ejercicio de sus funciones implementará el principio de Gobierno Abierto orientado en los principios de transparencia de la información, rendición de cuentas, evaluación de la gestión gubernamental, participación ciudadana y uso de tecnologías de la información.
+
+Los servidores públicos de la Administración Pública Estatal promoverán la participación e inclusión de la ciudadanía en la toma de decisiones relacionadas con el servicio público.
+
+El Titular del Poder Ejecutivo impulsará a través de Lineamientos de Gobierno Abierto la implementación de prácticas de transparencia, participación ciudadana y de evaluación de la gestión gubernamental para alcanzar los principios contemplados en el presente artículo.
+
 ###### Artículo 3o.
 
 Para el despacho de los asuntos que competen al Poder Ejecutivo del Estado, la Administración Pública se divide en Centralizada y Paraestatal.
 
-La Administración Pública Centralizada estará integrada por las Secretarías que establece esta Ley y la Procuraduría General de Justicia.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2020)</small>
+
+La Administración Pública Centralizada estará integrada por las Secretarías que establece esta ley.
 
 La Administración Pública Paraestatal estará integrada por los organismos descentralizados, las empresas de participación estatal mayoritaria, los fideicomisos públicos, los patronatos, las comisiones y los comités, regulados conforme a la Ley.
 
@@ -131,9 +141,11 @@ Las leyes que el Poder Ejecutivo promulgue, deberán estar firmadas para su cump
 
 Forman parte de la Administración Pública, el Tribunal de Conciliación y Arbitraje y las Juntas Locales de Conciliación y Arbitraje. Su relación con el Poder Ejecutivo será de orden administrativo; su organización, estructura y funcionamiento estarán sujetos a lo señalado en las leyes, reglamentos o decretos que los creen.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2020)</small>
+
 ###### Artículo 11.
 
-El Procurador General de Justicia es el representante jurídico del Estado, en los términos que determine la Ley de la materia.
+El Titular de la Coordinación General Jurídica es el representante jurídico del Estado.
 
 ## TÍTULO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
 
@@ -191,13 +203,13 @@ XIII.- La Secretaría de Medio Ambiente y Ordenamiento Territorial;
 
 XIV.- La Secretaría del Migrante y Enlace Internacional; y
 
-XV.- La Procuraduría General de Justicia.
+XV.- (DEROGADA, P.O. 6 DE MARZO DE 2020)
 
 ###### Artículo 14.
 
 Las Secretarías a que se refiere el artículo anterior dependerán directamente del Gobernador del Estado y tendrán entre ellas igual jerarquía.
 
-La Procuraduría General de Justicia estará sujeta a su propio régimen jurídico.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE MARZO DE 2020)</small>
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -213,7 +225,7 @@ Las dependencias del Poder Ejecutivo, ejercerán las funciones de coordinadoras 
 
 Los titulares de las Secretarías serán nombrados por el Gobernador del Estado, ejercerán sus funciones por acuerdo del mismo, de conformidad con lo que señala esta Ley y dictarán las resoluciones que les competan.
 
-El Procurador General de Justicia será nombrado por el Gobernador con la ratificación del Congreso del Estado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE MARZO DE 2020)</small>
 
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2017)</small>
 
@@ -257,7 +269,7 @@ Si para la ejecución de un programa o atención de un asunto existiera duda res
 
 Los titulares de las dependencias del Poder Ejecutivo, antes de iniciar el ejercicio de su cargo rendirán la protesta de Ley de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Guanajuato y las leyes que de ellas emanen.
 
-El Procurador General de Justicia rendirá protesta ante el Congreso del Estado, una vez que haya sido ratificado su nombramiento por éste.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE MARZO DE 2020)</small>
 
 Al término de su gestión, los titulares de las dependencias deberán realizar la entrega-recepción con los servidores públicos que inician su función, en los términos que señala esta Ley y demás disposiciones legales aplicables.
 
@@ -1027,7 +1039,9 @@ g) Aplicar las normas, políticas y programas que deriven del Sistema Nacional d
 
 h) Informar en forma inmediata al Ministerio Público toda denuncia que reciba y preservar el lugar de los hechos, en los términos de la legislación de la materia; así como auxiliar al Ministerio Público cuando así se le requiera en la investigación y persecución de los delitos por conducto de los cuerpos de policía con conocimientos en funciones de investigación;
 
-i) Controlar en coordinación con la Procuraduría General de Justicia del Estado, la portación de armas para los servidores públicos de la Entidad, de acuerdo a los convenios celebrados con las dependencias federales y de conformidad a la legislación aplicable;
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2020)</small>
+
+i) Controlar en coordinación con la Fiscalía General del Estado, la portación de armas para los servidores públicos de la entidad, de acuerdo a los convenios celebrados con las dependencias federales y de conformidad a la legislación aplicable;
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1443,7 +1457,7 @@ III.- Las demás que le señalen las leyes y reglamentos aplicables en la entida
 
 ###### Artículo 33.
 
-La Procuraduría General de Justicia es la institución encargada de ejercitar las atribuciones conferidas al Ministerio Público por la Constitución Política de los Estados Unidos Mexicanos, representar el interés de la sociedad y garantizar el Estado de Derecho; asimismo, le competen las funciones que la Constitución Política del Estado de Guanajuato le otorga y las demás que le confieran las disposiciones jurídicas aplicables.
+(DEROGADO, P.O. 6 DE MARZO DE 2020)
 
 ## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
@@ -1889,9 +1903,7 @@ Para el trámite y resolución de los conflictos que se presenten entre el Estad
 
 ###### Artículo 92.
 
-Los Tribunales Administrativos tendrán la organización y competencia que les señale la legislación correspondiente.
-
-Los Tribunales Administrativos contarán con los recursos económicos, materiales y humanos necesarios para lograr el debido cumplimiento de sus funciones y objetivos.
+(DEROGADO, P.O. 6 DE MARZO DE 2020)
 
 ## TÍTULO QUINTO. DEL SERVICIO CIVIL DE CARRERA
 
@@ -2252,3 +2264,9 @@ P.O. 12 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 56, APROBADO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 6 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 170, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3o, PÁRRAFO SEGUNDO; 11, 31, FRACCIÓN I, INCISO I); SE ADICIONA UN ARTÍCULO 2 BIS, Y SE DEROGAN LOS ARTÍCULOS 13, EN SU FRACCIÓN XV, 14, PÁRRAFO SEGUNDO, 17, PÁRRAFO SEGUNDO, REUBICÁNDOSE LOS ACTUALES PÁRRAFOS TERCERO A OCTAVO, COMO SEGUNDO A SÉPTIMO, RESPECTIVAMENTE, 21, PÁRRAFO SEGUNDO, UBICÁNDOSE EL ACTUAL PÁRRAFO TERCERO COMO PÁRRAFO SEGUNDO, 33 Y 92 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
