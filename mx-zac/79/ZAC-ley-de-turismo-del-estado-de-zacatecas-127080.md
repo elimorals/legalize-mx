@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-turismo-del-estado-de-zacatecas-127080"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-07"
-last_updated: "2018-03-07"
+last_updated: "2020-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE TURISMO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2020.
 
 Ley publicada en el Suplemento 3 al número 19 del Periódico Oficial del Estado de Zacatecas, el miércoles 7 de marzo de 2018.
 
@@ -223,7 +223,9 @@ I. Apoyar en la elaboración de sus programas municipales de turismo, los cuales
 
 II. Impulsar estímulos y mecanismos de fomento a la inversión en materia turística;
 
-III. Promover y coordinar las obras de servicios públicos necesarios para la adecuada atención al turista y el desarrollo del turismo en el Municipio;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2020)</small>
+
+III. Promover y coordinar las obras de servicios públicos necesarios para la adecuada atención al turista y el desarrollo del turismo en el Municipio. En los Municipios con vocación turística, además del idioma español la señalética contendrá el idioma inglés u otro;
 
 IV. Participar en la formación y capacitación de guías de turistas, con el objeto de procurar su profesionalización y evitar la alteración o falseamiento de la información proporcionada al turista;
 
@@ -247,7 +249,11 @@ XIII. Desarrollar herramientas y mecanismos para la promoción de productos y at
 
 XIV. Apoyar en la gestión, programas y proyectos para la incorporación y permanencia de municipios con la denominación de Pueblos Mágicos, y
 
-XV. En general, instrumentar conjuntamente acciones sobre planeación, programación, fomento, desarrollo, verificación y vigilancia de la actividad turística.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MARZO DE 2020)</small>
+
+XV. En coordinación con la Secretaría de Economía, promover y fortalecer a las micro, pequeñas y medianas empresas que desarrollen actividades artesanales, gestionando ante la Secretaría de Finanzas los recursos y apoyos correspondientes, y
+
+XVI. En general, instrumentar conjuntamente acciones sobre planeación, programación, fomento, desarrollo, verificación y vigilancia de la actividad turística.
 
 Dichos convenios deberán publicarse en el Periódico Oficial, Órgano del Gobierno del estado.
 
@@ -264,6 +270,12 @@ La Secretaría podrá invitar a participar a los sectores público, privado, soc
 ###### Artículo 17.
 
 La Secretaría orientará a los sectores público, privado y social sobre el diseño y, en su caso, creación de productos turísticos, de acuerdo a las características y potencial de los mercados locales y tendencias, con la finalidad de facilitar su inclusión en las cadenas de valor.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2020)</small>
+
+###### Artículo 17 Bis.
+
+La Secretaría en coordinación con la Secretaría de Finanzas, así como con la Secretaría de Economía y su Subsecretaría de Desarrollo Artesanal, realizarán acciones para fortalecer y promover las actividades artesanales en el astado.
 
 ### CAPÍTULO VIII. DE LA INTEGRACIÓN DEL SECTOR TURÍSTICO
 
@@ -421,7 +433,9 @@ La Secretaría tendrá a su cargo la implementación y negociación de las campa
 
 A fin de cumplir con los objetivos de la promoción y fomento del desarrollo turístico en el estado, la Secretaría deberá:
 
-I. Crear una marca que le genere al estado una identidad, misma que será de carácter permanente y su vigencia dependerá de la idoneidad y viabilidad acorde a su efectividad en el mercado, así como fomentar el buen uso de la misma;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2020)</small>
+
+I. Crear una marca turística que le genere al estado una identidad, misma que será de carácter permanente y su vigencia idónea y viable, por lo menos, 25 años para garantizar su posicionamiento y efectividad en el mercado, así como fomentar el buen uso de la misma. Dicha marca será utilizada por los municipios con vocación turística a efecto de que la promoción y desarrollo turístico sea uniforme en el estado;
 
 II. En coordinación con las oficinas de promoción de México en el extranjero, promoverá la actividad turística en los mercados internacionales;
 
@@ -429,7 +443,9 @@ III. Elaborar un Calendario de Promoción Anual, considerando la participación 
 
 IV. Diseñar e implementar la Estrategia Estatal de Promoción Turística, así como las campañas de publicidad nacionales e internacionales;
 
-V. Diseñar y distribuir material turístico del estado;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2020)</small>
+
+V. Diseñar y distribuir material turístico del estado en idioma español, inglés u otro;
 
 VI. Administrar las redes sociales para la promoción turística del estado;
 
@@ -446,6 +462,10 @@ X. Diseñar y promocionar la Página web para la promoción turística del estad
 Para la promoción y fomento del turismo, la Secretaría impulsará la organización y la participación de congresos, convenciones, ferias, festivales, exposiciones, excursiones, espectáculos, torneos y, en general, cualquier actividad que permita dar a conocer los atractivos turísticos, con el objeto de atraer turistas y promotores turísticos.
 
 La Secretaría promoverá la formación de patronatos y asociaciones que coadyuven a la organización de dichas actividades, los cuales recibirán la asesoría correspondiente de acuerdo a la disponibilidad presupuestaria.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2020)</small>
+
+De igual manera, la Secretaría fortalecerá el uso de la marca "Zacatecas Deslumbrante" a efecto de potencializar al estado y consolidarlo como referente en el sector turístico; en caso de considerarse necesaria la modificación o evolución de la marca, se deberán realizar los estudios correspondientes a efecto de corroborar la idoneidad y viabilidad, acorde a su efectividad en el mercado conforme al Plan Estatal de Desarrollo, al Programa Prospectivo del Estado y al Programa Estatal de Turismo.
 
 ###### Artículo 44.
 
@@ -561,15 +581,29 @@ XIII. Establecer medidas de seguridad tendientes a la protección de los turista
 
 XIV. Vigilar el buen funcionamiento y mantenimiento de las instalaciones, garantizando el libre acceso y desplazamiento para evitar contingencias, de conformidad con la Ley General de Protección Civil y la Ley de Protección Civil para el Estado de Zacatecas;
 
-XV. Proporcionar los servicios turísticos, precios, tarifas y promociones en los términos anunciados, ofrecidos o pactados, de acuerdo con la Ley Federal de Protección al Consumidor y demás legislación aplicable, y
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2020)</small>
 
-XVI. Expedir las facturas y comprobantes que amparen el cobro de los servicios prestados, de conformidad con la legislación aplicable.
+XV. Proporcionar los servicios turísticos, precios, tarifas y promociones en los términos anunciados, ofrecidos o pactados, de acuerdo con la Ley Federal de Protección al Consumidor y demás legislación aplicable;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2020)</small>
+
+XVI. Expedir las facturas y comprobantes que amparen el cobro de los servicios prestados, de conformidad con la legislación aplicable, y
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2020)</small>
+
+XVII. Prestar sus servicios en español como primera lengua y de resultar necesario, debido a la afluencia de turistas extranjeros, en idioma inglés u otro.
 
 ### CAPÍTULO XX. DE LA EDUCACIÓN EN MATERIA DE TURISMO
 
 ###### Artículo 58.
 
 Corresponde a la Secretaría gestionar ante las dependencias y entidades de los tres órdenes de gobierno, la oportuna y eficaz atención al turista en servicios de información, señalética, transportación, seguridad pública, procuración de justicia y demás servicios que requieran los turistas.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2020)</small>
+
+###### Artículo 58 Bis.
+
+La Secretaría, en coordinación con las dependencias y entidades de la administración pública estatal, así como con los municipios con vocación turística, llevarán a cabo todas aquellas acciones necesarias para que en el mobiliario urbano destinado a información turística, además del español, sea utilizado el idioma inglés u otro.
 
 ###### Artículo 59.
 
@@ -629,7 +663,13 @@ VIII. Desarrollar estrategias destinadas a la realización de talleres de formac
 
 IX. Impulsar la impartición de cursos que tiendan a la profesionalización de los servidores públicos de la Secretaría; y
 
-X. Realizar las demás acciones necesarias para la formación de los recursos humanos necesarios para el desarrollo turístico del estado
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MARZO DE 2020)</small>
+
+X. En coordinación con la Secretaría de Economía, promover e implementar programas y cursos de capacitación a las micro, pequeñas y medianas empresas que desarrollen actividades artesanales; y
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2020)</small>
+
+XI. Realizar las demás acciones necesarias para la formación de los recursos humanos necesarios para el desarrollo turístico del estado.
 
 ### CAPÍTULO XXIII. DE LAS SANCIONES
 
@@ -684,3 +724,29 @@ DADO en la Sala de Sesiones de la Honorable Legislatura del Estado, a los quince
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 Dado en el despacho del Poder Ejecutivo del Estado, a los dieciocho días del mes de enero del año dos mil dieciocho. GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. SECRETARIA GENERAL DE GOBIERNO.- FABIOLA GILDA TORRES RODRÍGUEZ. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 249.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 250.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Artículo segundo. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 7 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 335.- SE REFORMAN LOS ARTÍCULOS 42 Y 43 DE LA LEY DE TURISMO DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Zacatecas.
+
+Artículo segundo. Para renovar el registro de dicha marca, la Secretaría de Turismo del Estado llevará a cabo los trámites ante el Instituto Mexicano de la Propiedad Industrial, de acuerdo con la Ley de la Propiedad Industrial y otras disposiciones aplicables.
