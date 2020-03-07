@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-victimas-en-el-estado-de-colima-10487
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-13"
-last_updated: "2017-11-25"
+last_updated: "2020-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PROTECCIÓN DE VÍCTIMAS EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2020.
 
 Ley publicada en el Suplemento No. 4 al Periódico Oficial del Estado de Colima, el sábado 13 de diciembre del 2014.
 
@@ -1717,9 +1717,13 @@ IV. Cuando tenga acceso a información reservada, respetar y guardar la confiden
 
 Todo empleador de una víctima, sea público o privado, deberá permitir y respetar que la misma haga uso de los mecanismos, acciones y procedimientos reconocidos para hacer efectivos sus derechos y garantías, aunque esto implique ausentismo.
 
-## TÍTULO DÉCIMO. DEL FONDO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MARZO DE 2020)</small>
 
-### CAPÍTULO I. DEL FONDO DE AYUDA, ASISTENCIA Y REPARACIÓN INTEGRAL
+## TÍTULO DÉCIMO. FONDO ESTATAL PARA LA ATENCIÓN, PROTECCIÓN, ASISTENCIA Y REPARACIÓN INTEGRAL A LAS VÍCTIMAS
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MARZO DE 2020)</small>
+
+### CAPÍTULO I. DEL FONDO
 
 ###### ARTÍCULO 115.
 
@@ -1739,7 +1743,9 @@ III. El producto de la enajenación y los rendimientos de los bienes que sean de
 
 IV. El producto de la enajenación y los rendimientos de los bienes que sean extinguidos, en la proporción que corresponda, en los términos de la legislación correspondiente;
 
-V. Recursos provenientes de las multas, fianzas o garantías que se hagan efectivas cuando los procesados incumplan con las obligaciones impuestas por la autoridad, salvo a lo contemplado en el artículo 13 de la Ley General;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2020)</small>
+
+V. Recursos provenientes de las multas, fianzas o garantías que se hagan efectivas cuando los procesados incumplan con las obligaciones impuestas por la autoridad, salvo lo contemplado en el artículo 13 de la Ley General. Así como las multas y sanciones económicas a que se refiere el artículo 44 del Código Penal para el Estado de Colima;
 
 VI. Los rendimientos que se obtengan de las inversiones y reinversiones de los recursos asignados al Fondo;
 
@@ -2174,3 +2180,9 @@ P.O. 25 DE NOVIEMBRE DE 2017.
 [N. DE. E. TRANSITORIO DEL "DECRETO 366 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 24 Y EL ARTÍCULO 41 DE LA LEY PARA LA PROTECCIÓN DE VÍCTIMAS EN EL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
+
+P.O. 7 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 217 POR EL QUE SE REFORMAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA Y LA LEY PARA LA PROTECCIÓN DE VÍCTIMAS EN EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
