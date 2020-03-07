@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-judicial-del-estado-de-tabasco-114915"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-28"
-last_updated: "2019-08-07"
+last_updated: "2020-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2020.
 
 Ley publicada en el Suplemento “B” del Periódico Oficial del Estado de Tabasco, el sábado 28 de mayo de 2016.
 
@@ -51,9 +51,11 @@ Se expide la Ley Orgánica del Poder Judicial del Estado de Tabasco, para quedar
 
 ### CAPÍTULO ÚNICO. DE LA INTEGRACIÓN DEL PODER JUDICIAL
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2020)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y tiene por objeto regular la organización y funcionamiento del Poder Judicial del Estado, al que le corresponde ejercer las atribuciones que le competen en materia de control constitucional local; en los asuntos del orden civil, familiar, mercantil concurrente, penal, de adolescentes, de ejecución del fuero común; y, del orden federal en los casos en que la Constitución Federal y las leyes le confieran jurisdicción expresa.
+La presente Ley es de orden público y tiene por objeto regular la organización y funcionamiento del Poder Judicial del Estado, al que le corresponde ejercer las atribuciones que le competen en materia de control constitucional local; en los asuntos del orden civil, familiar, mercantil concurrente, laboral, penal, de adolescentes, de ejecución del fuero común; y, del orden federal en los casos en que la Constitución Federal y las leyes le confieran jurisdicción expresa.
 
 ###### Artículo 2.
 
@@ -91,15 +93,17 @@ f) Mixtos;
 
 g) De control;
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2020)</small>
 
-h) De enjuiciamiento; y
+h) De enjuiciamiento;
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2020)</small>
 
-i) De ejecución.
+i) De ejecución; y
 
-j) (DEROGADO, P.O. 7 DE AGOSTO DE 2019)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE MARZO DE 2020)</small>
+
+j) Laborales.
 
 ###### Artículo 3.
 
@@ -315,13 +319,21 @@ XXXII. Desahogar las consultas que le formule el Consejo de la Judicatura;
 
 XXXIII. Expedir los protocolos;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2020)</small>
 
-XXXIV. Conocer y resolver, en única instancia, sobre el recurso que se presente contra la imposición de las medidas de apremio que determine el órgano garante en la materia de protección de datos personales en posesión de sujetos obligados; lo anterior en observancia a lo dispuesto por los artículos 162 de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y 151 de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Tabasco, debiendo seguirse para su tramitación, las mismas reglas aplicables para el recurso a que se refiere la fracción XVII del presente artículo; y,
+XXXIV. Conocer y resolver, en única instancia, sobre el recurso que se presente contra la imposición de las medidas de apremio que determine el órgano garante en la materia de protección de datos personales en posesión de sujetos obligados; lo anterior en observancia a lo dispuesto por los artículos 162 de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y 151 de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Tabasco, debiendo seguirse para su tramitación, las mismas reglas aplicables para el recurso a que se refiere la fracción XVII del presente artículo;
 
-> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MARZO DE 2020)</small>
 
-XXXV. Las demás contenidas en el presente ordenamiento y las que le confieran las leyes y el Reglamento Interior.
+XXXV. Resolver sobre los conflictos de competencia a que se refiere la fracción I del artículo 705 Bis de la Ley Federal del Trabajo;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2020)</small>
+
+XXXVI. Resolver la recusación a que se refiere el artículo 709-A de la Ley Federal del Trabajo conforme al procedimiento establecido en dicho ordenamiento; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE MARZO DE 2020)</small>
+
+XXXVII. Las demás que le confiera la presente Ley, las leyes en la materia y el Reglamento Interior.
 
 ###### Artículo 17.
 
@@ -1049,9 +1061,43 @@ Los Jueces de Oralidad Mercantil, por razón de la materia, conocerán de los as
 
 Los Jueces de Oralidad Mercantil contarán con el personal de apoyo necesario, que el presupuesto permita para el desempeño de sus funciones. Al efecto le serán aplicables las mismas disposiciones a que se refiere el capítulo II del presente Título.
 
-### CAPÍTULO IV. DE LOS JUECES DEL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MARZO DE 2020)</small>
 
-### CAPÍTULO V. DEL PERSONAL JUDICIAL DE PRIMERA INSTANCIA EN EL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL
+### CAPÍTULO III BIS. DE LOS JUECES DE LOS TRIBUNALES LABORALES
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2020)</small>
+
+###### Artículo 67 Bis.
+
+Los Tribunales Laborales serán competentes para conocer y resolver de las diferencias o conflictos entre trabajadores y patrones, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+El Consejo de la Judicatura determinará su sede y competencia en los términos establecidos en la fracción II del artículo 97 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2020)</small>
+
+###### Artículo 67 Ter.
+
+Los Tribunales Laborales se integrarán por:
+
+I. Un juez;
+
+II. Secretario instructor;
+
+III. Jefe de Unidad de Causa;
+
+IV. Jefe de Unidad de Sala;
+
+V. Notificador; y
+
+VI. Demás personal que el Pleno del Consejo determine y el presupuesto permita.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2020)</small>
+
+###### Artículo 67 Quater.
+
+Para ser Juez laboral además de los requisitos establecidos en el artículo 46 de esta Ley, se requiere contar con conocimientos y experiencia en la materia.
+
+### CAPÍTULO IV. DE LOS JUECES DEL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL
 
 ###### Artículo 68.
 
@@ -1139,7 +1185,7 @@ En el caso de los Tribunales de Enjuiciamiento Colegiados, los Jueces redactores
 
 Los Jueces de Ejecución conocerán del proceso de ejecución de sanciones penales o medidas legales, según corresponda, de conformidad con lo establecido en las leyes especiales de la materia.
 
-### CAPÍTULO VI. DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL, CENTROS REGIONALES DE ADMINISTRACIÓN DE JUSTICIA Y SUS ADMINISTRADORES
+### CAPÍTULO V. DEL PERSONAL JUDICIAL DE PRIMERA INSTANCIA EN EL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL
 
 #### SECCIÓN SEGUNDA.. DE LAS NOTIFICACIONES
 
@@ -1291,7 +1337,7 @@ VII. Entregar al jefe inmediato la documentación relativa a las notificaciones,
 
 VIII. Las demás que determinen, el Consejo de la Judicatura, el Pleno del Tribunal Superior de Justicia y los ordenamientos legales y normativos aplicables.
 
-### CAPÍTULO VII. DE LOS CENTROS DE ACCESO A LA JUSTICIA ALTERNATIVA
+### CAPÍTULO VI. DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL, CENTROS REGIONALES DE ADMINISTRACIÓN DE JUSTICIA Y SUS ADMINISTRADORES
 
 ###### Artículo 84.
 
@@ -1411,7 +1457,7 @@ XXIII. Los demás que determinen las leyes, los Reglamentos, Manuales de Procedi
 
 Para ser administrador de los Centros Regionales de Administración de Justicia, deberán satisfacerse los mismos requisitos que para ser Director General de Administración del Sistema Procesal Penal Acusatorio y Oral.
 
-### CAPÍTULO ÚNICO. DEL CONSEJO DE LA JUDICATURA
+### CAPÍTULO VII. DE LOS CENTROS DE ACCESO A LA JUSTICIA ALTERNATIVA
 
 ###### Artículo 91.
 
@@ -1429,7 +1475,7 @@ El personal adscrito a dichos Centros, deberá reunir los requisitos y tendrá l
 
 ## TÍTULO CUARTO
 
-### CAPÍTULO I. DE LOS PERITOS
+### CAPÍTULO ÚNICO. DEL CONSEJO DE LA JUDICATURA
 
 ###### Artículo 94.
 
@@ -1671,7 +1717,7 @@ Sus funciones se establecerán en el reglamento respectivo.
 
 Los requisitos para ser Actuario del Consejo deberán satisfacerse los requisitos establecidos en el artículo 43 de la presente Ley. Sus funciones se especificarán en el reglamento respectivo.
 
-### CAPÍTULO II. DE LO (SIC) SÍNDICOS E INTERVENTORES DE CONCURSOS Y QUIEBRAS
+### CAPÍTULO I. DE LOS PERITOS
 
 #### SECCIÓN SEXTA. DE LA ETAPA PREVIA DE INVESTIGACIÓN
 
@@ -1685,7 +1731,9 @@ Los requisitos para ser Actuario del Consejo deberán satisfacerse los requisito
 
 ## TÍTULO QUINTO. DE LOS AUXILIARES DE LA ADMINISTRACIÓN DE JUSTICIA
 
-### CAPÍTULO III. DE LOS ALBACEAS, INTERVENTORES DE SUCESIONES, TUTORES, CURADORES Y NOTARIOS
+### CAPÍTULO I BIS. DE LA UNIDAD DE PERITOS JUDICIALES EN MATERIA LABORAL
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2020)</small>
 
 ###### Artículo 107.
 
@@ -1715,9 +1763,37 @@ III. Tratándose de extranjeros, acrediten su legal estancia en el país, hacien
 
 Todos los peritos, inclusive los médicos e intérpretes, son auxiliares de la administración de justicia y están obligados a prestar sus servicios, salvo excusa con causa justificada que calificará la autoridad que conozca del asunto.
 
-### CAPÍTULO I. DE LAS ÁREAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MARZO DE 2020)</small>
 
-### CAPÍTULO II. DE LA OFICIALÍA MAYOR
+### CAPÍTULO II. DE LO (SIC) SÍNDICOS E INTERVENTORES DE CONCURSOS Y QUIEBRAS
+
+###### Artículo 111 Bis.
+
+La Unidad de Peritos Judiciales es un área técnica cuyo objeto es el auxilio exclusivo a los Tribunales Laborales en los casos que así lo determine la Ley, mediante la emisión de dictámenes periciales.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2020)</small>
+
+###### Artículo 111 Ter.
+
+El peritaje en los asuntos judiciales que se sustancien ante los Tribunales Laborales, es una función pública. Los profesionales, técnicos o prácticos en cualquier ciencia, materia, arte u oficio que funjan como peritos y que presten sus servicios a la administración pública, están obligados a cooperar con dichas autoridades en los asuntos que les sean encomendados.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2020)</small>
+
+###### Artículo 111 Quater.
+
+Además de los requisitos establecidos en el artículo 110 de esta Ley, quien funja como perito en auxilio de los Tribunales Laborales deberá acreditar su pericia mediante examen que presentará ante un jurado que designe el Consejo de la Judicatura.
+
+Para tales efectos, el Consejo de la Judicatura solicitará la cooperación de instituciones públicas o privadas que a su juicio cuenten con la capacidad para ello.
+
+La decisión del jurado será irrecurrible.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2020)</small>
+
+###### Artículo 111 Quinquies.
+
+Los peritajes que versen sobre materias relativas a profesiones, deberán encomendarse a personas acreditadas con título profesional, quienes además deberán cumplir con los requisitos señalados en el artículo anterior.
+
+### CAPÍTULO III. DE LOS ALBACEAS, INTERVENTORES DE SUCESIONES, TUTORES, CURADORES Y NOTARIOS
 
 ###### Artículo 112.
 
@@ -1793,7 +1869,7 @@ Cualquiera de los acreedores podrá denunciarlo al Ministerio Público.
 
 Respecto a los demás interventores, se observarán en lo que fuera compatible, las disposiciones de este Capítulo, además de las que expresamente señalen las leyes.
 
-### CAPÍTULO III. DE LA TESORERÍA JUDICIAL
+### CAPÍTULO I. DE LAS ÁREAS
 
 ###### Artículo 123.
 
@@ -1809,7 +1885,7 @@ Todos los auxiliares de la administración de justicia quedarán sujetos a las s
 
 ## TÍTULO SEXTO. OTRAS ÁREAS DEL PODER JUDICIAL
 
-### CAPÍTULO IV. DEL ARCHIVO JUDICIAL
+### CAPÍTULO II. DE LA OFICIALÍA MAYOR
 
 ###### Artículo 126.
 
@@ -1851,7 +1927,7 @@ XVI. Visitaduría Judicial; y,
 
 XVII. Las demás que el servicio requiera y autoricen en sus respectivas competencias, el Pleno del Tribunal Superior de Justicia y del Consejo de la Judicatura.
 
-### CAPÍTULO V. DEL CENTRO DE INFORMACIÓN Y DOCUMENTACIÓN JURÍDICA
+### CAPÍTULO III. DE LA TESORERÍA JUDICIAL
 
 ###### Artículo 127.
 
@@ -1923,7 +1999,7 @@ X. Supervisar el buen funcionamiento del Archivo Judicial; y,
 
 XI. Las demás que el Tribunal o el Consejo le solicite y que se establezcan en el Reglamento.
 
-### CAPÍTULO VI. DE LAS OFICIALÍAS DE PARTES
+### CAPÍTULO IV. DEL ARCHIVO JUDICIAL
 
 ###### Artículo 130.
 
@@ -1967,7 +2043,7 @@ VI. Revisar, elaborar y suscribir, en su caso, las cédulas de solventaciones y 
 
 VII. Las demás relacionadas con su cargo y las que se establezcan en el Reglamento.
 
-### CAPÍTULO VII. DE LA COMISIÓN EDITORIAL
+### CAPÍTULO V. DEL CENTRO DE INFORMACIÓN Y DOCUMENTACIÓN JURÍDICA
 
 ###### Artículo 133.
 
@@ -1981,7 +2057,9 @@ El Archivo Judicial estará a cargo de un Jefe y contará con el personal necesa
 
 Se depositarán en el Archivo Judicial:
 
-I. Todos los expedientes del orden civil, familiar, mercantil, penal, de adolescentes y de extinción de dominio, concluidos por el Tribunal y los Juzgados, así como los expedientes administrativos que determine el Tribunal y el Consejo de la Judicatura;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2020)</small>
+
+I. Todos los expedientes del orden civil, familiar, mercantil, laboral, penal, de adolescentes y de extinción de dominio, concluidos por el Tribunal y los Juzgados, así como los expedientes administrativos que determine el Tribunal y el Consejo de la Judicatura;
 
 > <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
 
@@ -2043,9 +2121,7 @@ El Archivo Judicial tendrá sus oficinas centrales en la Ciudad de Villahermosa;
 
 El Jefe del Archivo podrá expedir, previa autorización del Presidente del Tribunal, Presidentes de Salas, Secretario General de Acuerdos del Tribunal o de la Autoridad remisora, copia autorizada de los documentos o expedientes que estén depositados en el archivo.
 
-### CAPÍTULO VIII. DEL CENTRO DE ESTADÍSTICA, INFORMÁTICA Y COMPUTACIÓN
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
+### CAPÍTULO VI. DE LAS OFICIALÍAS DE PARTES
 
 ###### Artículo 147.
 
@@ -2079,7 +2155,7 @@ V. Distribuir las labores entre él y sus ayudantes para el mejor funcionamiento
 
 VI. Llevar una estadística de asistencia de lectores al Centro de Información y Documentación Jurídica.
 
-### CAPÍTULO IX. DEL CENTRO DE ESPECIALIZACIÓN JUDICIAL
+### CAPÍTULO VII. DE LA COMISIÓN EDITORIAL
 
 ###### Artículo 152.
 
@@ -2095,7 +2171,9 @@ III. Las demás que le ordenen las leyes, reglamentos, el Tribunal o el Consejo.
 
 El Consejo de la Judicatura determinará el personal que se requiera para el desempeño de las funciones de las Oficialías de Partes que dependan funcionalmente de los órganos jurisdiccionales de su competencia administrativa.
 
-### CAPÍTULO X. DE LA DIRECCIÓN DE CONTRALORÍA
+### CAPÍTULO VIII. DEL CENTRO DE ESTADÍSTICA, INFORMÁTICA Y COMPUTACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
 
 ###### Artículo 154.
 
@@ -2105,7 +2183,7 @@ La Comisión Editorial estará integrada por las personas que sean designadas po
 
 La Comisión Editorial estará encargada de la edición, publicación y distribución del medio informativo del Poder Judicial del Estado.
 
-### CAPÍTULO XI. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
+### CAPÍTULO IX. DEL CENTRO DE ESPECIALIZACIÓN JUDICIAL
 
 ###### Artículo 156.
 
@@ -2165,7 +2243,7 @@ XX. Atender las necesidades de actualización o corrección a los sistemas opera
 
 XXI. Aquellas otras que determine esta Ley y acuerden los Plenos del Tribunal Superior de Justicia o del Consejo de la Judicatura.
 
-### CAPÍTULO XIII. DE LA UNIDAD DE TRANSPARENCIA
+### CAPÍTULO X. DE LA DIRECCIÓN DE CONTRALORÍA
 
 ###### Artículo 158.
 
@@ -2195,11 +2273,9 @@ IV. Promover entre el personal del Poder Judicial cursos de capacitación y actu
 
 V. Realizar las demás funciones y asumir las responsabilidades que las disposiciones legales le asignen, así como las que le confiera la superioridad.
 
-### CAPÍTULO XIV. DE LA UNIDAD DE IGUALDAD DE GÉNERO Y DERECHOS HUMANOS
+### CAPÍTULO XI. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
-
-### CAPÍTULO XVI. DEL CENTRO DE CONVIVENCIA FAMILIAR DEL PODER JUDICIAL
+### CAPÍTULO XIII. DE LA UNIDAD DE TRANSPARENCIA
 
 ###### Artículo 161.
 
@@ -2287,7 +2363,9 @@ XXVII. Las demás que determinen las leyes, los reglamentos, acuerdos generales 
 
 La Dirección de Contraloría del Poder Judicial dependerá directamente del Consejo de la Judicatura.
 
-### CAPÍTULO XVII. DE LA VISITADURÍA JUDICIAL
+### CAPÍTULO XIV. DE LA UNIDAD DE IGUALDAD DE GÉNERO Y DERECHOS HUMANOS
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
 
 ###### Artículo 166.
 
@@ -2349,9 +2427,7 @@ CAPÍTULOXII (SIC)
 
 DE LA DIRECCIÓN JURÍDICA
 
-### CAPITULO I. DE LAS RESPONSABILIDADES
-
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
+### CAPÍTULO XVI. DEL CENTRO DE CONVIVENCIA FAMILIAR DEL PODER JUDICIAL
 
 ###### Artículo 169.
 
@@ -2385,7 +2461,7 @@ III. Tener título de Licenciado en Derecho y cédula profesional; y,
 
 IV. Contar con una experiencia profesional de tres años, como mínimo.
 
-### CAPÍTULO II. DE LOS PRINCIPIOS RECTORES
+### CAPÍTULO XVII. DE LA VISITADURÍA JUDICIAL
 
 ###### Artículo 171.
 
@@ -2435,7 +2511,9 @@ XII. Las demás que le encomienden los Plenos del Tribunal y del Consejo, a trav
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 2017)</small>
 
-### CAPITULO III. DE LOS ÓRGANOS COMPETENTES
+### CAPITULO I. DE LAS RESPONSABILIDADES
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 174.
 
@@ -2525,9 +2603,7 @@ VI. Revisar y validar los dictámenes técnicos que en materia de obra pública 
 
 VII. Las demás que le encomiende el Pleno del Tribunal Superior de Justicia, el Consejo, el Presidente y las que se determinen en el Reglamento y normatividad aplicable.
 
-### CAPITULO IV. DE LAS SANCIONES
-
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
+### CAPÍTULO II. DE LOS PRINCIPIOS RECTORES
 
 ###### Artículo 180.
 
@@ -2581,7 +2657,7 @@ XIV. Las demás inherentes y aplicables al adecuado cumplimiento del objeto del 
 
 XV. Las demás que le encomienden los Plenos del Tribunal y del Consejo, a través de su Presidente y las que establezcan el Reglamento y la normatividad aplicable.
 
-### CAPITULO V. DE LAS FALTAS
+### CAPITULO III. DE LOS ÓRGANOS COMPETENTES
 
 ###### Artículo 183.
 
@@ -2705,7 +2781,9 @@ Asimismo, la Visitaduría Judicial podrá auxiliar al Magistrado que el Pleno de
 
 ## TITULO SÉPTIMO. DE LAS RESPONSABILIDADES, LOS PRINCIPIOS RECTORES, LOS ÓRGANOS COMPETENTES, LAS SANCIONES, LAS FALTAS, EL PROCEDIMIENTO Y EL RECURSO DE REVISION ADMINISTRATIVA
 
-### CAPÍTULO VI. DEL PROCEDIMIENTO DE RESPONSABILIDAD
+### CAPITULO IV. DE LAS SANCIONES
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 191.
 
@@ -2713,7 +2791,7 @@ Los Magistrados, miembros del Consejo de la Judicatura, Jueces y demás servidor
 
 Cuando a dichos servidores públicos se les instruya proceso penal por la posible comisión de algún delito, quedarán separados provisionalmente de sus cargos a partir de que se dicte auto de vinculación a proceso, previa declaración del Pleno del Tribunal o del Consejo de la Judicatura, según el caso. Si la sentencia es condenatoria ameritará la separación definitiva, pero si es absolutoria podrán reasumir su función.
 
-### CAPÍTULO VII. DEL RECURSO DE REVISIÓN ADMINISTRATIVA
+### CAPITULO V. DE LAS FALTAS
 
 ###### Artículo 192.
 
@@ -2747,7 +2825,7 @@ XIII. La publicidad; y,
 
 XIV. La buena fe.
 
-### CAPÍTULO I. DEL PERSONAL
+### CAPÍTULO VI. DEL PROCEDIMIENTO DE RESPONSABILIDAD
 
 ###### Artículo 193.
 
@@ -2761,7 +2839,7 @@ III. Referente al personal que realice funciones administrativas en las áreas d
 
 IV. Respecto del personal que se encuentre comisionado dentro del mismo Poder Judicial, la competencia se determinará por la adscripción en donde se encontrare a la fecha en que se haya cometido la conducta imputada.
 
-### CAPÍTULO II. DE LA SUPLENCIA DE LOS SERVIDORES DEL PODER JUDICIAL
+### CAPÍTULO VII. DEL RECURSO DE REVISIÓN ADMINISTRATIVA
 
 ###### Artículo 194.
 
@@ -2883,7 +2961,7 @@ XI. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2017)
 
 La autoridad que imponga suspensión o inhabilitación, deberá acompañar a la resolución respectiva, copia certificada de la constancia de notificación efectuada al servidor público sancionado; asimismo, señalará el periodo de ejecución aplicable a dichas sanciones, fecha de inicio y conclusión.
 
-### CAPÍTULO III. DE LOS IMPEDIMENTOS Y EXCUSAS
+### CAPÍTULO I. DEL PERSONAL
 
 ###### Artículo 206.
 
@@ -3111,7 +3189,7 @@ XVII. Incurrir en conductas que transgredan lo dispuesto en el Código de Ética
 
 XVIII. Las demás que establezcan las leyes, los reglamentos, Manuales de Procedimiento y Modelos de Gestión, Manual de Organización del Poder Judicial y Descriptores de Puestos, así como los acuerdos que emitan los Plenos del Tribunal y del Consejo de la Judicatura.
 
-### CAPÍTULO IV. DE LAS VISITAS A LOS RECLUSORIOS
+### CAPÍTULO II. DE LA SUPLENCIA DE LOS SERVIDORES DEL PODER JUDICIAL
 
 #### SECCIÓN DÉCIMO PRIMERA. DE LA EJECUCIÓN DE LAS SANCIONES
 
@@ -3517,7 +3595,7 @@ Las que consistan en sanción económica, deberán comunicarse además a las ár
 
 Para el trámite de los procedimientos de responsabilidad es aplicable, de manera supletoria, el Código de Procedimientos Civiles para el Estado de Tabasco.
 
-### CAPÍTULO V. DE LOS ESTÍMULOS Y RECOMPENSAS
+### CAPÍTULO III. DE LOS IMPEDIMENTOS Y EXCUSAS
 
 ###### Artículo 278.
 
@@ -3557,7 +3635,7 @@ En todo lo no previsto para la tramitación del recurso de revisión administrat
 
 ## TÍTULO OCTAVO. DISPOSICIONES GENERALES
 
-### CAPÍTULO VI. DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA
+### CAPÍTULO IV. DE LAS VISITAS A LOS RECLUSORIOS
 
 ###### Artículo 282.
 
@@ -3637,9 +3715,7 @@ Ningún nombramiento de auxiliar de la Administración de Justicia podrá recaer
 
 La inobservancia de esta disposición es motivo de responsabilidad de quien haga el nombramiento, la que se exigirá de inmediato por el órgano competente del Poder Judicial, imponiendo al infractor multa hasta de veinte veces el valor diario de la Unidad de Medida y Actualización
 
-### CAPÍTULO VII. DE LA DECLARACIÓN PATRIMONIAL
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+### CAPÍTULO V. DE LOS ESTÍMULOS Y RECOMPENSAS
 
 ###### Artículo 295.
 
@@ -3684,6 +3760,8 @@ VIII. En los casos que se tratare del personal adscrito a la Presidencia, al Ple
 En ningún caso existirá obligación para otorgar nombramiento definitivo al servidor público que haya suplido la ausencia respectiva.
 
 En todo lo no previsto en este artículo, se estará a lo que se determine en las disposiciones reglamentarias aplicables.
+
+### CAPÍTULO VI. DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA
 
 ###### Artículo 298.
 
@@ -3748,6 +3826,10 @@ Cuando se califique de legal el impedimento, excusa o recusación de un Juez, el
 ###### Artículo 302.
 
 En todo lo no previsto en las disposiciones anteriores, será resuelto por el Pleno del Tribunal y del Consejo de la Judicatura, según sea el caso.
+
+### CAPÍTULO VII. DE LA DECLARACIÓN PATRIMONIAL
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 303.
 
@@ -4018,3 +4100,17 @@ Los expedientes civiles de los Juzgados de Paz foráneos se declinarán a los ju
 CUARTO. Los derechos laborales del personal que se desempeña en los Juzgados de Paz serán respetados en su totalidad. Para tales efectos, el Consejo de la Judicatura llevará a cabo las acciones administrativas que considere necesarias, con la finalidad de satisfacer eficazmente la operatividad de los restantes órganos jurisdiccionales, ponderando la carrera judicial y la experiencia de las y los trabajadores.
 
 QUINTO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente Decreto.
+
+P.O. 7 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 186 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 1; 2 FRACCIÓN II, INCISOS H), I) Y J); 16 FRACCIONES XXXIV Y XXXV; 135 FRACCIÓN I; Y SE ADICIONAN LA FRACCIÓN XXXVI Y XXXVII AL ARTÍCULO 16; EL CAPÍTULO III BIS DENOMINADO DE LOS JUECES DE LOS TRIBUNALES LABORALES AL TÍTULO TERCERO QUE SE INTEGRA POR LOS ARTÍCULOS 67 BIS, 67 TER Y 67 QUATER; Y EL CAPÍTULO I BIS DENOMINADO DE LA UNIDAD DE PERITOS JUDICIALES AL TÍTULO QUINTO, QUE SE INTEGRA POR LOS ARTÍCULOS 111 BIS, 111 TER, 111 QUATER Y 111 QUINQUIES; TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Consejo de la Judicatura adoptará en el ámbito de su competencia las medidas correspondientes para el cumplimiento del presente Decreto, en términos de las disposiciones legales y administrativas aplicables.
+
+CUARTO. Los Tribunales Laborales iniciarán sus funciones en el cuarto trimestre de 2020, en los términos que para tal efecto se establezcan mediante acuerdo del Pleno del Consejo de la Judicatura.
+
+QUINTO. El Consejo de la Judicatura definirá mediante acuerdo las atribuciones que corresponderán a los jefes de Unidad de Causa y de Unidad de Sala a los que se refieren las fracciones III y IV del artículo 67 Ter, que se adiciona mediante el presente Decreto.
