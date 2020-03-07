@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2019-08-31"
+last_updated: "2020-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2020.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -635,7 +635,9 @@ El juez de ejecución iniciará el procedimiento económico coactivo dentro de l
 
 En atención a las características del caso, el juez de ejecución podrá fijar plazos razonables para el pago de la multa en exhibiciones parciales. En cualquier momento podrá cubrirse el importe de la multa, descontándose de ésta la parte proporcional a las jornadas de trabajo a favor de la víctima, ofendido o de la comunidad que se hayan efectuado o el tiempo de prisión que se hubiese cumplido.
 
-El importe de la multa y la sanción económica impuestas se destinará, en primer lugar, a la reparación del daño ocasionado por el delito. En el caso de que ésta se haya cubierto o garantizado, el importe se destinará equitativamente al Fondo para la Atención a Víctimas del Delito y al Fondo Auxiliar para la Administración de la Justicia.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2020)</small>
+
+El importe de la multa y la sanción económica impuestas se destinará, en primer lugar, a la reparación del daño ocasionado por el delito. En el caso de que ésta se haya cubierto o garantizado, el importe se destinará equitativamente al Fondo Estatal para la Atención, Protección, Asistencia y Reparación Integral a las Víctimas y al Fondo Auxiliar para la Administración de la Justicia.
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
 
@@ -781,7 +783,9 @@ De acuerdo con el monto de los daños y de la situación económica del sentenci
 
 Otro destino de la reparación del daño.
 
-Cuando la víctima u ofendido no quiera recibir la cantidad de la reparación del daño, o no se encontraren identificados, se aplicará a pagar la misma a cubrir al erario dentro de un fondo destinado al Fondo para la Atención a Víctimas, siempre y cuando no existan otros ofendidos.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2020)</small>
+
+Cuando la víctima u ofendido no quiera recibir la cantidad de la reparación del daño, o no se encontraren identificados, se aplicará la misma al erario, destinándose al Fondo Estatal para la Atención, Protección, Asistencia y Reparación Integral a las Victimas, siempre y cuando no existan otros ofendidos.
 
 ###### ARTÍCULO 52.
 
@@ -1489,9 +1493,9 @@ Si durante la ejecución de las penas o medidas de seguridad se advierte que se 
 
 Es imprescriptible la acción persecutoria en los siguientes casos:
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2020)</small>
 
-I. Por el delito de homicidio (sic) dolosos en todas sus formas y modalidades tipificados en los artículos 120,121 en relación al 124 Bis, 123 Bis, 124,134 y 135, y violación en todas sus formas y modalidades tipificado por los artículos 144 a 147, de este Código;
+I. Por el delito de homicidio doloso, en todas sus formas y modalidades tipificadas en los artículos 120, 121 en relación al 124 Bis, 123 Bis, 124, 134 y 135, así como para los delitos de Violación, en todas sus formas y modalidades tipificadas por los artículos 144 al 147, Abuso Sexual, tipificado en los artículos 149 a 151, tratándose de víctimas menores de edad, y Pederastia, tipificado en el artículo 178, todos de este Código.
 
 > <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
@@ -2043,7 +2047,9 @@ A quien disponga de óvulos, esperma, cigotos o embriones humanos con fines dist
 
 ### CAPÍTULO II. PRIVACIÓN ILEGAL DE LA LIBERTAD
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+(NOTA: EL 22 DE NOVIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 213/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 1 DE DICIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 154.
 
@@ -2093,13 +2099,15 @@ Se equipara al delito de desaparición forzada de personas y se sancionará con 
 
 ###### ARTÍCULO 159.
 
-Al particular que ilegalmente prive a otro de su libertad, se le aplicará prisión de dos a seis años y multa por un importe equivalente de cien a doscientas unidades de medida y actualización.
+Al particular que ilegalmente prive a otro de su libertad, se le aplicará prisión de doce a dieciocho años y multa por un importe equivalente de setecientas a mil quinientas veces el valor diario de la unidad de medida y actualización.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+(NOTA: EL 22 DE NOVIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 213/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE DICIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 160.
 
-La pena aplicable será de cinco a diez años de prisión, y multa por un importe equivalente de cien a trescientas unidades de medida y actualización, cuando concurra alguna de las circunstancias siguientes:
+LA PENA APLICABLE SERÁ DE QUINCE A VEINTICINCO AÑOS DE PRISIÓN, Y MULTA POR UN IMPORTE EQUIVALENTE DE NOVECIENTAS A MIL QUINIENTAS VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, CUANDO CONCURRA ALGUNA DE LAS CIRCUNSTANCIAS SIGUIENTES:
 
 I. Que se utilicen medios violentos o humillantes para la víctima;
 
@@ -2457,31 +2465,55 @@ Al que se apodere de un vehículo de motor, sin derecho y sin consentimiento de 
 
 Cuando el apoderamiento del vehículo se realice conforme a las hipótesis establecidas en el inciso B) en sus fracciones I, IV, V, VIII y, IX del artículo 185, la pena prevista en el párrafo anterior aumentará en un tercio más.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 187.
 
-Se equipara al delito de robo y se impondrá de seis a veinte años de prisión y multa por un importe al equivalente de mil a mil quinientas unidades de medida y actualización, al que teniendo conocimiento y con independencia de las penas que le correspondan por la comisión de otros delitos:
+Se equipara al delito de robo y se impondrá de seis a veinte años de prisión y multa por un importe al equivalente de mil a mil quinientas unidades de medida y actualización, al que teniendo conocimiento de su procedencia ilícita y con independencia de las penas que le correspondan por la comisión de otros delitos:
 
 I. Desmantele uno o más vehículos robados, enajene, o trafique conjunta o separadamente las partes que los conforman;
 
-II. Enajene, o trafique de cualquier manera con uno o más vehículos robados;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2020)</small>
+
+II. Enajene, o trafique de cualquier manera con uno o más vehículos, a sabiendas de que son robados, remarcados o trasplantados en sus números originales de identificación;
 
 III. Detente, posea, utilice, transite, custodie o adquiera uno o más vehículos robados o que, por su forma de adquisición, se advierta su origen ilegal;
 
-IV. Detente, posea, custodie, altere, o modifique de cualquier manera la documentación que acredite la propiedad o los medios de identificación originales o ambas placas de circulación, el engomado, la tarjeta de circulación o la demás documentación oficial de algún o algunos vehículos robados;
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2020)</small>
 
-V. Remarque, altere, modifique, falsifique, sustituya, suprima o trasplante las series o números originales de identificación de uno o más vehículos automotores robados;
+IV. Detente, posea, utilice, custodie o adquiera autopartes de vehículos robados o que, por su forma de adquisición, se advierta su origen ilegal;
 
-VI. Traslade el o los vehículos robados a otra entidad federativa o al extranjero;
+V. Detente, posea, custodie, altere, o modifique de cualquier manera la documentación que acredite la propiedad o los medios de identificación originales o ambas placas de circulación, el engomado, la tarjeta de circulación o la demás documentación oficial de algún o algunos vehículos robados;
 
-VII. Utilice el o los vehículos robados en la comisión de otro u otros delitos;
+VI. Remarque, altere, modifique, falsifique, sustituya, suprima o trasplante las series o números originales de identificación de uno o más vehículos automotores robados;
 
-VIII. Utilice el o los vehículos robados en la prestación de un servicio público o actividad oficial; o
+VII. Traslade el o los vehículos robados a otra entidad federativa o al extranjero;
 
-IX. Aporte recursos económicos o proporcione medios de cualquier especie, para la ejecución de las actividades descritas en las fracciones anteriores.
+VIII. Utilice el o los vehículos robados en la comisión de otro u otros delitos;
+
+IX. Utilice el o los vehículos robados en la prestación de un servicio público o actividad oficial; o
+
+X. Aporte recursos económicos o proporcione medios de cualquier especie, para la ejecución de las actividades descritas en las fracciones anteriores.
 
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión en una mitad más y se le inhabilitará hasta por veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2020)</small>
+
+ARTÍCULO 187 BIS. Para efectos de lo dispuesto en el artículo anterior, se considera que se tiene conocimiento de la procedencia ilícita de un vehículo cuando, además del reporte de robo, se actualice uno de los siguientes supuestos:
+
+I. No cuente con documentación que acredite su propiedad o su registro ante las autoridades de transporte;
+
+II. El sistema de encendido del vehículo se encuentre dañado;
+
+III. La llave de encendido no corresponda a la original del vehículo o se encuentre limada o alterada;
+
+IV. No cuente con número de serie visible en el parabrisas;
+
+V. No cuente con chip del Registro Público Vehicular (REPUVE) en el parabrisas; o
+
+VI. Alguna de las chapas de ingreso al vehículo se encuentre dañada.
+
+Tratándose de autopartes de vehículos, se considera que se tiene conocimiento de su procedencia ilícita cuando no se cuente con documentación que acredite su propiedad.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
@@ -2801,6 +2833,10 @@ De igual forma, la misma sanción del párrafo anterior se impondrá, a quien in
 
 En el supuesto que el activo tenga licenciatura, ingeniería o cualquier otro grado académico reconocido en el rubro de la informática, telemática o sus afines, la pena se aumentará hasta en cuatro años más, además de una inhabilitación o suspensión para ejercer su profesión por un término igual al de la pena de prisión impuesta.
 
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2020)</small>
+
+ARTÍCULO 201 BIS. Comete el delito de Fraude Familiar quien, en detrimento de la sociedad conyugal o patrimonio común generado durante el matrimonio o el concubinato, oculte, transfiera o adquiera bienes a nombre de terceros, y se le aplicará sanción de cuatro a seis años de prisión y multa de quinientas a seiscientas unidades de medida y actualización.
+
 ### CAPÍTULO I. PELIGRO DE CONTAGIO
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
@@ -2859,7 +2895,7 @@ Se equipara a la extorsión y se le aplicará la misma pena establecida en el pr
 
 ### CAPÍTULO III. ATAQUE PELIGROSO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 205.
 
@@ -2947,7 +2983,7 @@ Al que dispare un arma de fuego en forma que pueda resultar daño a las personas
 
 ###### ARTÍCULO 214.
 
-Se aplicará sanción de dos a ocho años de prisión, y multa por un importe equivalente de cien a doscientas unidades de medida y actualización al que ataque a alguien de tal manera que, en razón del arma empleada, de la fuerza o destreza del agresor o de cualquier otra circunstancia semejante, pueda producir como resultado lesiones o la muerte.
+Se aplicará sanción de dos a ocho años de prisión, y multa por un importe equivalente de cien a doscientas unidades de medida y actualización al que ataque a alguien de tal manera que, en razón del arma empleada, a excepción de armas de fuego, de la fuerza o destreza del agresor o de cualquier otra circunstancia semejante, pueda producir como resultado lesiones o la muerte.
 
 Se aumentará hasta un tercio más de esta sanción cuando el ofendido sea ascendiente, descendiente, cónyuge, concubina, concubinario, pareja en relación adúltera o lo haya sido del agente activo.
 
@@ -2969,7 +3005,7 @@ No se aplicará pena alguna a la madre que entregue a su hijo por extrema pobrez
 
 ### CAPÍTULO II. DISCRIMINACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 216.
 
@@ -3085,17 +3121,23 @@ Cuando se configuren los supuestos previstos en los párrafos anteriores, si el 
 
 ###### ARTÍCULO 223.
 
-Se impondrán de uno a tres años de prisión, y de cincuenta a cien unidades de medida y actualización al que, por razón de edad, sexo, embarazo, estado civil, raza, origen étnico, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, características físicas, discapacidad o estado de salud:
+Se impondrán de uno a tres años de prisión y multa de cincuenta a cien unidades de medida y actualización al que, por razón de edad, sexo, embarazo, estado civil, raza, origen o pertenencia étnica, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, características físicas, discapacidad, estado de salud, opiniones políticas, mediante la realización de cualquiera de las siguientes conductas:
 
 I. Provoque o incite al odio o a la violencia;
 
 II. Veje o excluya a alguna persona o grupo de personas;
 
-III. Niegue o restrinja derechos laborales; o
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2020)</small>
+
+III. Niegue o restrinja derechos laborales, principalmente por razón de género o embarazo;
 
 IV. Niegue o retarde un trámite, servicio o prestación al que tenga derecho.
 
 Si las conductas descritas en este artículo las realiza un servidor público, se aumentará en una mitad la pena de prisión prevista en el primer párrafo del presente artículo y, además, se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo tiempo de la privación de la libertad impuesta.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2020)</small>
+
+Cuando las conductas a que se refiere este artículo sean cometidas por persona con la que la víctima tenga una relación de subordinación laboral, la pena se incrementará en una mitad.
 
 ###### ARTÍCULO 224.
 
@@ -3821,7 +3863,9 @@ Al que sin tener título profesional o autorización para ejercer alguna profesi
 
 A quien por cualquier medio de comunicación que se encuentre bajo su control o radio de acción, sin existir necesidad que lo justifique, realice llamadas de alerta, emergencia o ayuda a un particular o sistema de respuesta de llamada telefónica de emergencia o su equivalente, se le impondrá de uno a tres años de prisión o multa hasta por doscientas unidades de medida y actualización.
 
-En caso de reincidencia, se impondrá de dos a cuatro años de prisión y multa hasta por trescientas unidades de medida y actualización.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2020)</small>
+
+En caso de reincidencia, se impondrá de tres a seis años de prisión y multa hasta por trescientas unidades de medida y actualización.
 
 ## TÍTULO PRIMERO. DELITOS CONTRA LA SEGURIDAD DEL ESTADO
 
@@ -4458,3 +4502,9 @@ P.O. 31 DE AGOSTO DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El Poder Judicial del Estado de Colima, en un término no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá contar con los mecanismos y herramientas necesarias para dar cumplimiento a lo previsto en el primer párrafo del artículo 115, contenido en este instrumento.
+
+P.O. 7 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 217 POR EL QUE SE REFORMAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA Y LA LEY PARA LA PROTECCIÓN DE VÍCTIMAS EN EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
