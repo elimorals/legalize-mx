@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-de-los-derechos-de-las-personas-adultas-51744
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-24"
-last_updated: "2018-02-24"
+last_updated: "2020-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2020.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de junio de 2006.
 
@@ -345,6 +345,12 @@ El Estado y sus municipios, en los términos previstos en esta Ley, instrumentar
 
 El Estado y los municipios promoverán y coadyuvarán para que existan las condiciones necesarias para que las personas adultas mayores logren un mayor bienestar físico, social y mental, a fin de que puedan ejercer plenamente sus capacidades en el seno de la familia y de la sociedad, incrementando su autoestima y preservando su dignidad como ser humano.
 
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2020)</small>
+
+###### Artículo 11 Bis.
+
+Para las personas adultas mayores que vivan solas y en situación de abandono, las instituciones públicas deberán contar con mecanismos para su atención inmediata y prioritaria, en caso de que presenten problemas de salud o alimentación, manteniendo congruencia con los principios y objetivos establecidos en las acciones y programas que contempla la presente Ley para garantizar la función social de este sector.
+
 ### CAPÍTULO II. De las Obligaciones del Poder Ejecutivo
 
 ###### Artículo 12.
@@ -534,6 +540,10 @@ g) Impulsar la coordinación con las instituciones educativas, tanto públicas c
 h) Implementar, en coordinación con la Secretaría de Educación, los Municipios y las autoridades competentes, un programa de estímulos e incentivos a los adultos mayores que estudien y concluyan los niveles de educación básica, media superior y superior; e
 
 i) Informar al Consejo de Coordinación Interinstitucional, mediante un reporte trimestral de los resultados y conclusiones del desempeño intergubernamental, respecto a la aplicación de políticas transversales en materia de asistencia social dirigidas a los adultos mayores.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2020)</small>
+
+j) Supervisar que las instituciones y dependencias respectivas proporcionen atención inmediata y prioritaria a las personas adultas mayores que vivan solas y en situación de abandono, en caso de que éstas presenten problemas de salud o alimentación.
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
@@ -1420,3 +1430,9 @@ P.O. 24 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 287.- SE REFORMAN DIVERSOS ORDENAMIENTOS, CON EL FIN DE ACTUALIZAR LA DENOMINACIÓN DE LA ENTIDAD RESPONSABLE DE LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD EN EL ESTADO DE ZACATECAS”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 7 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 301.- SE ADICIONA LA LEY DE PROTECCIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE ZACATECAS".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
