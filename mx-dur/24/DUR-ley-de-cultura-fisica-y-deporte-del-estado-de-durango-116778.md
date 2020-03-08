@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-cultura-fisica-y-deporte-del-estado-de-durango-116778"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-22"
-last_updated: "2019-12-08"
+last_updated: "2020-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2020.
 
 Ley publicada en el número 76 del Periódico Oficial del Estado de Durango, el jueves 22 de septiembre de 2016.
 
@@ -167,7 +167,9 @@ X. Deporte de Alto Rendimiento: El deporte que se practica con altas exigencias 
 
 XI. Deporte de Rendimiento: El deporte que promueve, fomenta y estimula el que todas las personas puedan mejorar su nivel de calidad deportiva como aficionados, pudiendo integrarse al deporte de alto rendimiento, o en su caso, sujetarse adecuadamente a una relación laboral por la práctica del deporte.
 
-XII. Deporte Social: El deporte que promueve, fomenta y estimula el que todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, tengan igualdad de participación en actividades deportivas con finalidades recreativas, educativas y de salud o rehabilitación.
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2020)</small>
+
+XII. Deporte Social: El deporte que promueve, fomenta y estimula el que todas las personas sin distinción de género, edad, discapacidad, condición social, origen étnico o nacional, religión, opiniones, preferencias o estado civil, tengan igualdad de participación en actividades deportivas con finalidades recreativas, educativas y de salud o rehabilitación.
 
 XIII. Deporte: Actividad física, organizada y reglamentada, que tiene por finalidad preservar y mejorar la salud física y mental, el desarrollo social, ético e intelectual, con el logro de resultados en competiciones.
 
@@ -386,6 +388,10 @@ III. Proponer y ejecutar las medidas que permitan fomentar la enseñanza y la pr
 IV. Establecer los procedimientos para la coordinación y concertación en materia deportiva entre las diferentes dependencias y entidades de la administración pública estatal y municipal, así como sumar la participación activa de las diferentes instituciones públicas y privadas.
 
 V. Diseñar y operar estrategias para fomentar la práctica deportiva entre los adultos mayores y de las personas con discapacidad.
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2020)</small>
+
+V bis. Fomentar la implementación de planes y programas que impulsen el desarrollo de la actividad física y del deporte en la población indígena del Estado, así como dar reconocimiento a deportistas indígenas destacados.
 
 VI. Formular programas destinados a promover y apoyar la formación, la capacitación y la actualización constante del personal técnico del deporte, dedicado a las diferentes disciplinas.
 
@@ -1080,3 +1086,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Titular del Poder Ejecutivo del Estado en un termino que no exceda de 90 días a partir del inicio de vigencia del presente decreto, emitirá la reglamentación necesaria para dar cumplimiento al objeto del presente decreto.
 
 TERCERO.- Se derogan todas las disposiciones legales y administrativas que contravengan al presente decreto.
+
+P.O. 8 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 262.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 7 Y 24 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
