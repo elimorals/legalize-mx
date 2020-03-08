@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-igualdad-entre-mujeres-y-hombres-del-estado-de-66956"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-01"
-last_updated: "2019-07-11"
+last_updated: "2020-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 1 de enero de 2009.
 
@@ -31,7 +31,9 @@ EL CIUDADANO CONTADOR PUBLICO ISMAEL ALFREDO HERNANDEZ DERAS, GOBERNADOR CONSTIT
 
 QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
-CONSIDERANDOS.
+CONSIDERANDOS
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXIV Legislatura del Estado, expide el siguiente:
 
@@ -265,19 +267,43 @@ IX. Promover la participación plena y efectiva de las mujeres y la igualdad de 
 
 ### CAPÍTULO I. DEL ESTADO
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2020)</small>
 
 ###### Artículo 13.
 
-El Congreso del Estado, en base a la Constitución del Estado Libre y Soberano de Durango, sus principios, políticas y objetivos preverá la armonización legislativa a que haya lugar, en materia de la igualdad sustantiva entre mujeres y hombres, sin perjuicio de las normas que regulan la violencia de género en contra de las mujeres y la no discriminación, evaluando de manera periódica la aplicación de las normas que se aprueben, en coordinación con la administración pública estatal.
+El Congreso del Estado, en base a la Constitución del Estado Libre y Soberano de Durango, sus principios, políticas y objetivos preverá la armonización legislativa a que haya lugar, en materia de la igualdad sustantiva entre mujeres y hombres, sin perjuicio de las normas que regulan la violencia de género en contra de las mujeres y la no discriminación, evaluando de manera periódica la aplicación de las normas que se aprueben, en coordinación con la administración pública estatal y su actuación deberá:
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2020)</small>
+
+I. Procurará de conformidad con la capacidad de la asignación de recursos presupuestales necesarios, cumplir con los objetivos de la ley y fiscalizar su cumplimiento;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2020)</small>
+
+II. Promover la incorporación de los tratados, convenciones y demás instrumentos internacionales de derechos humanos y en materia de igualdad sustantiva entre mujeres y hombres en la elaboración de leyes; y
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2020)</small>
+
+III. Las demás que las leyes y otros ordenamientos aplicables le confieren para garantizar la igualdad sustantiva entre mujeres y hombres.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2020)</small>
 
 ###### Artículo 14.
 
-EL tribunal Superior de Justicia de Durango, con arreglo a su Ley Orgánica, y a las disposiciones de la Constitución del Estado Libre y Soberano de Durango, aplicará los principios y lineamientos que contempla la presente ley y buscara:
+El Tribunal Superior de Justicia de Durango, con arreglo a su Ley Orgánica, y a las disposiciones de la Constitución del Estado Libre y Soberano de Durango, aplicará los principios y lineamientos que contempla la presente ley y buscará:
 
 I. Que en sus resoluciones se realice la armonización judicial, en relación a los instrumentos internacionales aplicables favoreciendo la igualdad real.
 
-II. Que se institucionalice al interior del poder judicial la perspectiva de género para favorecer las prácticas igualitarias.
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2020)</small>
+
+II. Incorporar la perspectiva de género en las sentencias y resoluciones judiciales tomando en cuenta: Los impactos diferenciados entre mujeres y hombres en la interpretación de la norma jurídica; la interpretación y aplicación sobre una base de igualdad de los derechos de la mujer con los del hombre para garantizar la igualdad sustantiva y la eliminación de todo tipo de discriminación contra las mujeres bajo la protección más amplia de derechos humanos establecidos en las disposiciones nacionales e internacionales en las resoluciones y sentencias que emitan;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2020)</small>
+
+III. Institucionalizar la perspectiva de género al interior del Poder Judicial para eliminar brechas de desigualdad entre mujeres y hombres; y
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2020)</small>
+
+IV. Fomentar la participación equilibrada y sin discriminación de mujeres y hombres en los procesos de selección, contratación y asensos al interior del Poder Judicial.
 
 ### CAPÍTULO II. DE LAS POLÍTICA EN MATERIA DE IGUALDAD
 
@@ -649,13 +675,21 @@ I. Diseñar un acuerdo estatal para el establecimiento de las bases generales de
 
 II. Diseñar e implementar programas y políticas públicas para la reducción de la pobreza y el desarrollo sostenible con perspectiva de género;
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2020)</small>
 
-III. Formular y concertar estrategias para la atención prioritaria e integral de la salud de todas las mujeres y de manera prioritaria las de las niñas, adolescentes, de, los pueblos y comunidades indígenas, las que habitan en zonas rurales y las adultas mayores; y
+III. Formular y concertar estrategias con perspectiva de género, que garanticen el acceso de mujeres y hombres para la atención integral de la salud; y de manera prioritaria en los pueblos y comunidades indígenas, así como los habitantes en zonas rurales.
 
 > <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
 
 IV. Priorizar la incorporación de las mujeres o grupos de mujeres en condiciones de discriminación, de violencia, exclusión o cualquier otra condición de vulnerabilidad en los programas sociales.
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2020)</small>
+
+V. Incorporar medidas especiales para el acceso a la alimentación y nutrición de niñas, adolescentes, mujeres embarazadas, lactantes, mujeres adultas mayores; y
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2020)</small>
+
+VI. Diseñar e implementar mecanismos para garantizar el acceso a la educación de calidad y la permanencia de las mujeres y hombres en los niveles de formación técnica, media superior y superior.
 
 ### CAPÍTULO V. DE LA IGUALDAD EN EL ACCESO A LA JUSTICIA Y A LA SEGURIDAD PUBLICA
 
@@ -980,3 +1014,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 265.- QUE CONTIENE FORMAS (SIC) Y ADICIONES A LA LEY DE IGUALDAD ENTRE HOMBRES Y MUJERES DEL ESTADO DE DURANGO".]
+
+PRIMERO. - El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
