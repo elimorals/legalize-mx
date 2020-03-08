@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-de-desarrollo-y-fomento-minero-de-durango-125981"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-31"
-last_updated: "2017-12-31"
+last_updated: "2020-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ESTATAL DE DESARROLLO Y FOMENTO MINERO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Durango, el domingo 31 de diciembre de 2017.
 
@@ -115,9 +115,13 @@ X. Desarrollar un sistema estadístico de información básica, relativo a las d
 
 XI. Apoyar las acciones de coordinación y concertación que se efectúen con los sectores público, social y privado, a fin de alcanzar un óptimo desarrollo de la minería;
 
-XII. Publicar y difundir el resultado de los estudios e investigaciones geológicas y mineras, realizadas por el Gobierno del Estado; y
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2020)</small>
 
-XIII. Las demás que le confiera esta Ley, su Reglamento y las demás disposiciones legales aplicables.
+XII. Promover y coadyuvar en la formación de profesionales en la materia geológica, minero y de metalurgia, a través de la colaboración con otros órdenes de gobierno, instituciones públicas y privadas, buscando que ésta se encuentre regionalizada estratégicamente.
+
+XIII. Publicar y difundir el resultado de los estudios e investigaciones geológicas y mineras, realizadas por el Gobierno del Estado; y
+
+XIV. Las demás que le confiera esta Ley, su Reglamento y las demás disposiciones legales aplicables.
 
 ###### Artículo 6.
 
@@ -516,3 +520,13 @@ DR. JOSÉ ROSAS AISPURO TORRES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ARQ. ADRIÁN ALANÍS QUIÑONES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 266.- POR EL QUE SE ADICIONA UNA FRACCIÓN XII, RECORRIÉNDO LAS SUBSECUENTES, AL ARTÍCULO 5 DE LA LEY ESTATAL DE DESARROLLO Y FOMENTO MINERO DE DURANGO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas que contravengan al presente decreto.
