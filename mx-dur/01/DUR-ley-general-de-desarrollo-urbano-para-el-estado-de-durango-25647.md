@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-desarrollo-urbano-para-el-estado-de-durango-2564
 country: "mx"
 rank: "ley_general"
 publication_date: "2002-06-06"
-last_updated: "2018-12-20"
+last_updated: "2020-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 6 de junio de 2002.
 
@@ -1993,9 +1993,9 @@ Queda prohibido el establecimiento de fraccionamientos en lugares no aptos para 
 
 El ayuntamiento aprovechará para infraestructura, equipamiento y servicios, cuando menos, el 40% de las áreas de donación que reciban conforme a lo dispuesto en la presente ley por parte de los fraccionadores en cada fraccionamiento.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2020)</small>
 
-Del área total de donación de cada fraccionamiento, cuando menos un 40% deberá destinarse a áreas verdes, parques, jardines, plazas públicas u otros usos relativos al esparcimiento; el fraccionador tendrá la obligación de equipar y acondicionar, previo a la comercialización de las viviendas, dicha superficie para tales efectos.
+Del área total de donación de cada fraccionamiento, cuando menos un 40% deberá destinarse a áreas verdes, parques, jardines, plazas públicas u otros usos relativos al esparcimiento, los que deberán ser destinados en su totalidad en una misma área; el fraccionador tendrá la obligación de equipar y acondicionar, previo a la comercialización de las viviendas, dicha superficie para tales efectos.
 
 El destino del 20% restante de las áreas de donación lo decidirán los vecinos en consulta, que ex profeso se convoque, y se obtenga una votación mayor a los tres cuartos del número de los habitantes del fraccionamiento. La autoridad municipal dispondrá las reglas para la consulta referida.
 
@@ -4104,5 +4104,15 @@ P.O. 20 DE DICIEMBRE DE 2018.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Los ayuntamientos de los municipios del Estado, deberán elaborar las reformas a sus respectivos Reglamentos de Construcción que deriven del presente Decreto, en un plazo que no excederá de tres meses contados a partir del inicio de su vigencia.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 269.- QUE CONTIENE REFORMA AL PÁRRAFO SEGUNDO DEL ARTÍCULO 159 DE LA LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Los ayuntamientos de los municipios del Estado, deberán elaborar las reformas a sus respectivos reglamentos de construcción que deriven del presente Decreto, en un plazo que no excederá de tres meses contados a partir del inicio de su vigencia.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
