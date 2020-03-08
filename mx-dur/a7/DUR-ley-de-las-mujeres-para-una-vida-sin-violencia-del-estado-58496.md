@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-mujeres-para-una-vida-sin-violencia-del-estado-58496
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-30"
-last_updated: "2019-12-29"
+last_updated: "2020-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2007.
 
@@ -1485,7 +1485,9 @@ II. Proporcionar a las víctimas de violencia contra las mujeres, la orientació
 
 III. Dictar las medidas necesarias, para que la víctima reciba atención médica y psicológica de emergencia y se garantice su seguridad y la de sus hijos;
 
-IV. Dictar, en el ámbito de su competencia, las medidas de protección en tiempo y conforme a los procedimientos establecidos para tal efecto, cuando sean solicitadas por las víctimas. En caso de víctimas menores de edad y de aquellas que no tengan capacidad para comprender el hecho, las medidas serán expedidas de oficio;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2020)</small>
+
+IV. Dictar, en el ámbito de su competencia, las medidas de protección en tiempo y conforme a los procedimientos establecidos para tal efecto, cuando sean solicitadas por las víctimas, llevando un registro puntual de tales medidas, y asentando con claridad la temporalidad de las mismas. En caso de víctimas menores de edad y de aquellas que no tengan capacidad para comprender el hecho, las medidas serán expedidas de oficio;
 
 V. Proporcionar a las instancias encargadas de realizar las estadísticas y al Banco Estatal de Datos, las referencias necesarias sobre las víctimas que sean atendidas;
 
@@ -1603,7 +1605,11 @@ XV. Prevenir la misoginia, para evitar que las mujeres sean víctimas de actos v
 
 XVI. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
 
-XVII. Las demás previstas para el cumplimiento de la Ley.
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2020)</small>
+
+XVII. Colaborar con la Secretaría del Trabajo y Previsión Social para la elaboración e implementación del protocolo para prevenir la discriminación por razones de género y atención de casos de violencia y acoso u hostigamiento sexual; y
+
+XVIII. Las demás previstas para el cumplimiento de la Ley.
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -1892,3 +1898,27 @@ P.O. 29 DE DICIEMBRE DE 2019.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
+
+P.O. 8 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 263.- QUE CONTIENE REFORMAS AL ARTICULO 46 FRACCIÓN IV DE LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA DEL ESTADO DE DURANGO”.]
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 264.- POR EL QUE SE ADICIONA LA FRACCIÓN XVII, RECORRIÉNDOSE LA SUBSECUENTE, AL ARTÍCULO 48 DE LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA DEL ESTADO DE DURANGO”.]
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
