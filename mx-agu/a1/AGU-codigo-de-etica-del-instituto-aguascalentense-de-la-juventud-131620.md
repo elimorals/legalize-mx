@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-del-instituto-aguascalentense-de-la-juventud-13
 country: "mx"
 rank: "codigo"
 publication_date: "2018-11-19"
-last_updated: "2018-11-19"
+last_updated: "2020-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE ETICA DEL INSTITUTO AGUASCALENTENSE DE LA JUVENTUD
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DEL INSTITUTO AGUASCALENTENSE DE LA JUVENTUD, PUBLICADO EN EL P.O. DE 9 DE MARZO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL INSTITUTO AGUASCALENTENSE DE LA JUVENTUD
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2020 (ABROGADO).
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de noviembre de 2018.
 
@@ -180,3 +182,21 @@ DR. JOSÉ ALFREDO MUNOZ DELGADO
 EN REPREENTACIÓN (SIC) DE LA COMISIÓN ESTATAL
 
 DE DERECHOS HUMANOS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DEL INSTITUTO AGUASCALENTENSE DE LA JUVENTUD”
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con fundamento en el Artículo Segundo Transitorio del "Acuerdo por el que se dan a conocer los Lineamientos para la Emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas", publicado el 12 de octubre de 2018 en el Diario Oficial de la Federación, y con la entrada en vigor del presente Acuerdo, se abroga el Código de Ética del Instituto Aguascalentense de la Juventud, publicado en la Primera Sección del Periódico Oficial Del Estado De Aguascalientes, Tomo LXXXI, Número 47, el lunes 19 de noviembre de 2018.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efectos aquellas disposiciones que se opongan a lo previsto en el presente acuerdo.
