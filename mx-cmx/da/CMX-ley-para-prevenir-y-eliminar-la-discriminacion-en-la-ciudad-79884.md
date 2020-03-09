@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-prevenir-y-eliminar-la-discriminacion-en-la-ciudad-798
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-24"
-last_updated: "2017-04-24"
+last_updated: "2020-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79884&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2011-02-23"
 ---
 # LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACION EN LA CIUDAD DE MEXICO -- ANTES LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACION DEL DISTRITO FEDERAL --
 
-LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL DISTRITO FEDERAL
+LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MARZO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 24 de febrero de 2011.
 
@@ -46,23 +46,27 @@ DECRETO POR EL QUE SE EXPIDE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN 
 
 Se abroga la Ley para Prevenir y Erradicar la Discriminación del Distrito Federal y se expide la Ley para Prevenir y Eliminar la Discriminación del Distrito Federal para quedar como sigue:
 
-LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE MARZO DE 2020)</small>
+
+LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN LA CIUDAD DE MÉXICO.
 
 ### CAPÍTULO I. Disposiciones generales
 
+> <small>(REFORMADO, G.O. 9 DE MARZO DE 2020)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta ley son de orden público, interés social y observancia general en el Distrito Federal.
+Las disposiciones de esta ley son de orden público, interés social y observancia general en la Ciudad de México.
 
-Los beneficios que se deriven de esta Ley, serán aplicables a todas las personas que habitan o transitan en el Distrito Federal.
+Los beneficios que se deriven de esta Ley, serán aplicables a todas las personas que habitan o transitan en la Ciudad de México.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 9 DE MARZO DE 2020)</small>
 
 ###### Artículo 2.
 
-Es obligación de las autoridades del Distrito Federal, en colaboración con los demás entes públicos, garantizar que todas (sic) los individuos gocen, sin discriminación alguna, de los derechos fundamentales reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales firmados y ratificados por los Estados Unidos Mexicanos, en la presente y demás leyes, y en los derechos fundamentales del ser humano.
+Es obligación de las autoridades de la Ciudad de México, en colaboración con los demás entes públicos, garantizar que todas (sic) los individuos gocen sin discriminación alguna, de los derechos fundamentales reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales firmados y ratificados por los Estados Unidos Mexicanos, en la presente y demás leyes, y en los derechos fundamentales del ser humano.
 
-Se obligan a impulsar, promover, gestionar y garantizar la eliminación de obstáculos que limiten a las personas el ejercicio del derecho humano a la igualdad y a la no discriminación e impidan su pleno desarrollo, así como su efectiva participación en la vida civil, política, económica, cultural y social del Distrito Federal. Asimismo, impulsarán y fortalecerán acciones para promover una cultura de sensibilización, de respeto y de no violencia en contra de las personas, grupos y comunidades en situación de discriminación.
+Se obligan a impulsar, promover, gestionar y garantizar la eliminación de obstáculos que limiten a las personas el ejercicio del derecho humano a la igualdad y a la no discriminación e impidan su pleno desarrollo, así como su efectiva participación en la vida civil, política, económica, cultural y social de la Ciudad de México. Asimismo, impulsarán y fortalecerán acciones para promover una cultura de sensibilización, de respeto y de no violencia en contra de las personas, grupos y comunidades en situación de discriminación.
 
 ###### Artículo 3.
 
@@ -106,13 +110,13 @@ VI. Bifobia: Miedo irracional a la bisexualidad o a las personas con orientació
 
 VII. Consejo: Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
 
-VIII. Debida diligencia: La obligación de los entes públicos del Distrito Federal, de dar respuesta eficiente, oportuna y responsable a las personas en situación de discriminación;
+VIII. Debida diligencia: La obligación de los entes públicos de la Ciudad de México, de dar respuesta eficiente, oportuna y responsable a las personas en situación de discriminación;
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
 
-IX. Ente público: Las autoridades locales de Gobierno del Distrito Federal; los órganos que conforman la Administración Pública; los órganos autónomos por ley, aquellos que la legislación local reconozca como de interés público y ejerzan gasto público; y las personas jurídicas que auxilien a los órganos antes citados o ejerzan gasto público;
+IX. Ente público: Las autoridades locales de Gobierno de la Ciudad de México; los órganos que conforman la Administración Pública; los órganos autónomos por ley aquellos que la legislación local reconozca como de interés público y ejerzan gasto público; y las personas jurídicas que auxilien a los órganos antes citados o ejerzan gasto público;
 
 > <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
@@ -138,9 +142,9 @@ XIV. Igualdad: Acceso al mismo trato y oportunidades, para el reconocimiento, go
 
 XV. Lesbofobia: Es el rechazo, odio, aversión, temor, repudio, discriminación, ridiculización, prejuicio y/o violencia hacia las personas que son o parecen ser lesbianas, a partir de un prejuicio;
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
 
-XVI. Ley: Ley para Prevenir y Eliminar la Discriminación del Distrito Federal;
+XVI. Ley: Ley para Prevenir y Eliminar la Discriminación de la Ciudad de México.
 
 > <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
@@ -162,9 +166,9 @@ XX. Medidas de política pública: Conjunto de acciones que formulan e implement
 
 XXII (SIC). Personas, grupos o comunidades en situación de discriminación: Las personas físicas, grupos, comunidades, colectivos o análogos que sufran la violación, negación o el menoscabo de alguno o algunos de sus derechos humanos por los motivos prohibidos en el quinto párrafo del artículo 1 constitucional, los tratados internacionales de los que México sea parte, la presente ley o cualquiera otra;
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
 
-XXIII. Persona servidora pública: Son las personas representantes de elección popular, integrantes del Tribunal Superior de Justicia del Distrito Federal, las y los funcionarios y empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Asamblea Legislativa del Distrito Federal o en la Administración Pública del Distrito Federal, así como en los organismos del Distrito Federal a los que la Constitución Política de los Estados Unidos Mexicanos otorgue autonomía;
+XXIII. Persona servidora pública: Son las personas representantes de elección popular, integrantes del Tribunal Superior de Justicia de la Ciudad de México, las y los funcionarios y empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Congreso de la Ciudad de México o en la Administración Pública de la Ciudad de México, así como en los organismos de la Ciudad de México a los que la Constitución Política de los Estados Unidos Mexicanos otorgue autonomía;
 
 > <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
@@ -224,7 +228,9 @@ VII. Negar, limitar, obstaculizar o condicionar los servicios de salud y la acce
 
 VIII. Impedir o restringir la participación en condiciones de equidad en asociaciones civiles, políticas o de cualquier índole;
 
-IX. Negar, limitar o condicionar los derechos de participación política, al sufragio activo o pasivo, la elegibilidad y acceso a todos los cargos públicos en el Distrito Federal, en términos de la legislación aplicable, así como la participación en el diseño, elaboración, desarrollo y ejecución de políticas y programas de Gobierno del Distrito Federal, sin menoscabo de la observancia de normas constitucionales;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+IX. Negar, limitar o condicionar los derechos de participación política, al sufragio activo o pasivo, la elegibilidad y acceso a todos los cargos públicos en la Ciudad de México, en términos de la legislación aplicable, así como la participación en el diseño, elaboración, desarrollo y ejecución de políticas y programas de Gobierno de la Ciudad de México, sin menoscabo de la observancia de normas constitucionales;
 
 X. Impedir o limitar el ejercicio de los derechos de propiedad, administración y disposición de bienes;
 
@@ -250,7 +256,9 @@ XVIII. Restringir el acceso a la información en los términos de la legislació
 
 XIX. Obstaculizar las condiciones mínimas necesarias para el crecimiento y desarrollo saludable; especialmente de las niñas y los niños;
 
-XX. Negar, obstaculizar, restringir o impedir, bajo cualquier forma, el acceso a la seguridad social y sus beneficios en el Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+XX. Negar, obstaculizar, restringir o impedir, bajo cualquier forma, el acceso a la seguridad social y sus beneficios en la Ciudad de México;
 
 XXI. Negar, obstaculizar, restringir o impedir, bajo cualquier forma, la celebración del contrato de seguro sobre las personas o de seguros médicos;
 
@@ -302,13 +310,15 @@ No se considerarán hechos, acciones, omisiones o prácticas discriminatorias il
 
 I. El ejercicio de un derecho humano;
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
 
-II. Las acciones legislativas, o de políticas públicas, las acciones afirmativas, las medidas positivas o compensatorias del Distrito Federal que establezcan tratos diferenciados con el objeto de lograr la igualdad sustantiva de oportunidades y de trato;
+II. Las acciones legislativas, o de políticas públicas, las acciones afirmativas, las medidas positivas o compensatorias de la Ciudad de México que establezcan tratos diferenciados con el objeto de lograr la igualdad sustantiva de oportunidades y de trato;
 
 III. Los requerimientos basados en calificaciones, habilidades o conocimientos especializados exigidos para desempeñar una actividad determinada;
 
-IV. La distinción establecida por las instituciones públicas de seguridad social del Distrito Federal entre las personas aseguradas y la población en general;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+IV. La distinción establecida por las instituciones públicas de seguridad social de la Ciudad de México entre las personas aseguradas y la población en general;
 
 > <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
@@ -324,9 +334,11 @@ IX. En general, todas las que no tengan el propósito o efecto de anular o menos
 
 #### Sección Primera. De la aplicación, actuación, interpretación y cumplimiento de la ley
 
+> <small>(REFORMADO, G.O. 9 DE MARZO DE 2020)</small>
+
 ###### Artículo 8.
 
-Se instituye como política pública del Gobierno del Distrito Federal y de todos los entes públicos, que el principio de igualdad y no discriminación regirá en todas las acciones, medidas y estrategias que implementen en el ámbito de sus respectivas competencias.
+Se instituye como política pública del Gobierno de la Ciudad de México y de todos los entes públicos, que el principio de igualdad y no discriminación regirá en todas las acciones, medidas y estrategias que implementen en el ámbito de sus respectivas competencias.
 
 ###### Artículo 9.
 
@@ -350,15 +362,19 @@ h) Equidad, y
 
 i) Transparencia y acceso a la información
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE MARZO DE 2020)</small>
+
 ###### Artículo 10.
 
-En la aplicación de la presente ley las dependencias, organismos y entidades de la Administración Pública del Distrito Federal y las personas servidoras públicas en el ámbito de sus respectivas competencias, deberán tomar en cuenta lo siguiente:
+En la aplicación de la presente ley las dependencias, organismos y entidades de la Administración Pública de la Ciudad de México y las personas servidoras públicas en el ámbito de sus respectivas competencias, deberán tomar en cuenta lo siguiente:
 
 I. La protección, universalidad, indivisibilidad, permanencia, interdependencia, progresividad y expansión de los derechos fundamentales.
 
 II. La aplicación de la disposición, tratado internacional, principio que establezca un trato más favorable para las personas, grupos o comunidades en situación de discriminación.
 
-III. Las normas de derechos humanos como criterios orientadores de las políticas públicas, programas, planes, estrategias y acciones de la Administración Pública del Distrito Federal, a efecto de hacerlos más eficaces, sostenibles, no excluyentes y equitativos. Para ello las personas servidoras públicas tienen la obligación de garantizar la vigencia del derecho a la igualdad y a la no discriminación, así como de respetar y proteger la dignidad de todas las personas; y
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+III. Las normas de derechos humanos como criterios orientadores de las políticas públicas, programas, planes, estrategias y acciones de la Administración Pública de la Ciudad de México, a efecto de hacerlos más eficaces sostenibles, no excluyentes y equitativos. Para ello las personas servidoras públicas tienen la obligación de garantizar la vigencia del derecho a la igualdad y a la no discriminación, así como de respetar y proteger la dignidad de todas las personas; y
 
 IV. Los instrumentos nacionales e internacionales aplicables en materia de derechos humanos y no discriminación firmados y ratificados por los Estados Unidos Mexicanos.
 
@@ -376,17 +392,19 @@ III. Proporcionar de manera ágil y suficiente la información que le sea solici
 
 IV. Las demás que determine la presente ley.
 
-> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 9 DE MARZO DE 2020)</small>
 
 ###### Artículo 12.
 
-Todo ente público y persona servidora pública del Distrito Federal no discriminaran a persona alguna en los términos de la presente ley y demás leyes aplicables.
+Todo ente público y persona servidora pública de la Ciudad de México no discriminaran a persona alguna en los términos de la presente ley y demás leyes aplicables.
 
 ### CAPÍTULO II. Medidas generales a favor de la igualdad de oportunidades
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE MARZO DE 2020)</small>
+
 ###### Artículo 13.
 
-Los entes públicos, en el ámbito de su competencia y atribuciones, llevarán a cabo, entre otras medidas de prevención destinadas a eliminar la discriminación de las personas, grupos y comunidades en situación de discriminación que habitan o transitan el Distrito Federal, las siguientes:
+Los entes públicos, en el ámbito de su competencia y atribuciones, llevarán a cabo, entre otras medidas de prevención destinadas a eliminar la discriminación de las personas, grupos y comunidades en situación de discriminación que habitan o transitan en la Ciudad de México, las siguientes:
 
 I. Garantizar que sean tomadas en cuenta sus necesidades y experiencias en todos los programas destinados a erradicar la pobreza y asegurar espacios para su participación en el diseño, implementación, seguimiento y evaluación de los programas y políticas públicas correspondientes;
 
@@ -394,7 +412,9 @@ II. Fomentar la educación contra la discriminación, que promueva los valores d
 
 III. Diseñar y desarrollar campañas de promoción y educación para concientizar a la población acerca del fenómeno de la discriminación, el respeto a la diversidad y el ejercicio de la tolerancia;
 
-IV. Sensibilizar, informar y capacitar de manera permanente a las personas servidoras públicas del Distrito Federal en materia del derecho a la no discriminación y el principio de igualdad;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+IV. Sensibilizar, informar y capacitar de manera permanente a las personas servidoras públicas de la Ciudad de México en materia del derecho a la no discriminación y el principio de igualdad;
 
 V. Contar con un programa de formación permanente en materia del derecho humano a la no discriminación y el principio de igualdad, mismo que deberán hacerlo del conocimiento del Consejo para su análisis y comentarios;
 
@@ -418,9 +438,13 @@ XIV. Promover un entorno urbano diseñado de manera accesible y bajo el diseño 
 
 XV. Procurar la accesibilidad en los medios de transporte público de uso general para las personas con discapacidad, personas adultas mayores y mujeres embarazadas, congruentes con la ley de la materia;
 
-XVI. Promover que todos los espacios e inmuebles públicos o que presten servicios al público en el Distrito Federal sean accesibles bajo el principio de diseño universal;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
 
-XVII. Procurar que las vías de comunicación del Distrito Federal cuenten con señalamientos adecuados para permitirles el libre tránsito, congruentes con la ley de la materia;
+XVI. Promover que todos los espacios e inmuebles públicos o que presten servicios al público en la Ciudad de México sean accesibles bajo el principio de diseño universal;
+
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+XVII. Procurar que las vías de comunicación de la Ciudad de México cuenten con señalamientos adecuados para permitirles el libre tránsito, congruentes con la ley de la materia;
 
 XVIII. Procurar la eliminación de toda práctica discriminatoria relativa al ingreso en todos los lugares y servicios previstos para el público en general; entre ellos restaurantes, hoteles, teatros y salas de variedades, discotecas u otros; y
 
@@ -438,9 +462,13 @@ II. Promover la vigilancia de las condiciones físicas de las instalaciones de e
 
 III. Fomentar la sensibilización y capacitación al personal docente y auxiliar de educación en materia de derechos humanos y enfoque de género;
 
-IV. Coordinar campañas y otras acciones de sensibilización e información, dirigidas a las y los profesores, directivos, estudiantes, madres y padres de familia de las escuelas primaria y secundaria del Distrito Federal, en materia de no discriminación y derechos humanos de las y los niños y jóvenes;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
 
-V. Promover la adecuación de los planes y programas de estudio de los niveles educativos de su competencia tomando en cuenta la composición multicultural de la población del Distrito Federal;
+IV. Coordinar campañas y otras acciones de sensibilización e información, dirigidas a las y los profesores, directivos, estudiantes, madres y padres de familia de las escuelas primaria y secundaria de la Ciudad de México, en materia de no discriminación y derechos humanos de las y los niños y jóvenes;
+
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+V. Promover la adecuación de los planes y programas de estudio de los niveles educativos de su competencia tomando en cuenta la composición multicultural de la población de la Ciudad de México;
 
 VI. Promover el acceso al aprendizaje y la enseñanza permanentes;
 
@@ -450,7 +478,9 @@ VIII. Prevenir, atender y eliminar la segregación de las y los estudiantes pert
 
 IX. Impulsar y gestionar las medidas que garanticen el ejercicio del derecho a la educación de las personas con necesidades educativas especiales a través de las adecuaciones arquitectónicas, curriculares, de información, comunicación y la disponibilidad de materiales adaptados con base a los principios de diseño universal para garantizar su accesibilidad;
 
-X. Incluir en los planes y programas de estudio que competen al Distrito Federal contenidos relativos a la historia y los derechos humanos, así como alentar y fomentar la publicación de libros y otros materiales impresos, sobre el derecho a la no discriminación;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+X. Incluir en los planes y programas de estudio que competen a la Ciudad de México contenidos relativos a la historia y los derechos humanos, así como alentar y fomentar la publicación de libros y otros materiales impresos, sobre el derecho a la no discriminación;
 
 XI. Promover, diseñar y aplicar, en el ámbito de sus respectivas competencias, acciones para la prevención, atención y erradicación de la violencia escolar para el sano desarrollo de las niñas y los niños, así como la población juvenil en los centros de educación.
 
@@ -458,7 +488,9 @@ XI. Promover, diseñar y aplicar, en el ámbito de sus respectivas competencias,
 
 Los entes públicos, en el ámbito de su competencia, llevarán a cabo, entre otras medidas relativas a la participación en la vida pública de las personas, grupos y comunidades en situación de discriminación, las siguientes:
 
-I. Promover la participación en la vida política y democrática del Distrito Federal y en los espacios de toma de decisiones, fomentando los cambios al marco legal correspondiente;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+I. Promover la participación en la vida política y democrática de la Ciudad de México y en los espacios de toma de decisiones, fomentando los cambios al marco legal correspondiente;
 
 II. Generar las condiciones para garantizar que todas las personas tengan acceso a la documentación necesaria que refleje su personalidad jurídica, realizando programas especiales dirigidos a las personas, grupos y comunidades en situación de discriminación;
 
@@ -530,7 +562,9 @@ Para garantizar la ejecución de las medidas positivas y compensatorias los ente
 
 I. Promover y garantizar la igualdad de trato y acceso a oportunidades en los ámbitos económico, político, social y cultural, en todas las dependencias a su cargo;
 
-II. Asegurar el acceso a los beneficios de disfrute de todos los servicios públicos a cargo del Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+II. Asegurar el acceso a los beneficios de disfrute de todos los servicios públicos a cargo del Gobierno de la Ciudad de México;
 
 III. Sensibilización y capacitación en materia de no discriminación, equidad de género, igualdad de oportunidades y respeto a la diversidad, incluyendo la diversidad cultural y sexual, la identidad y expresión de género; dirigida a todas las personas servidoras públicas y autoridades, así como a particulares que intervengan en cualquier etapa de su instrumentación;
 
@@ -560,11 +594,11 @@ XII. En el ámbito de sus respectivas competencias, fomentar la adopción de med
 
 XIII. Coadyuvar en la coordinación de las acciones en materia de prevención de las violencias que ejecuten de acuerdo a la programación operativa, con el objeto de alcanzar los mejores resultados de su aplicabilidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE MARZO DE 2020)</small>
 
 ###### Artículo 23.
 
-Los entes públicos, en el ámbito de su competencia, llevarán a cabo, entre otras medidas positivas a favor de la igualdad de oportunidades para las mujeres, las siguientes
+Los entes públicos, en el ámbito de su competencia, llevarán a cabo, entre otras medidas positivas a favor de la igualdad de oportunidades para las mujeres, las siguientes:
 
 I. Armonizar las leyes locales, de modo que los lineamientos de los tratados internacionales aprobados por los Estados Unidos Mexicanos, en materia de violencia y discriminación en contra de las mujeres se integren en los códigos civil, penal y demás legislación existente;
 
@@ -586,15 +620,21 @@ VIII. Establecer, en igualdad de condiciones, la remuneración, las prestaciones
 
 IX. La normatividad laboral de los entes públicos se modificará para equilibrar la atención y cumplimiento de responsabilidades familiares y laborales entre mujeres y hombres;
 
-X. Auspiciar la participación política de la mujer y el derecho al sufragio activo o pasivo, la elegibilidad y el acceso a cualquier cargo o función pública en el Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+X. Auspiciar la participación política de la mujer y el derecho al sufragio activo o pasivo, la elegibilidad y el acceso a cualquier cargo o función pública en la Ciudad de México;
 
 XI. Que se capacite, en materia de equidad de género, al personal de procuración de justicia, seguridad pública, salud y demás personas que atiendan a víctimas de violencia familiar, hostigamiento, acoso o abuso sexual, violación, estupro, incesto o cualquiera otra situación de violencia dirigida en contra de las mujeres;
 
-XII. Coadyuvar con las autoridades respectivas a la creación de un marco normativo que promueva el goce y ejercicio de derechos laborales y seguridad social para las trabajadoras del hogar en el Distrito Federal; y
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+XII. Coadyuvar con las autoridades respectivas a la creación de un marco normativo que promueva el goce y ejercicio de derechos laborales y seguridad social para las trabajadoras del hogar en la Ciudad de México; y
 
 XIII. Dar atención preferente, en materia de vivienda y la asignación de propiedades inmuebles en los programas de desarrollo social, a mujeres en situación de discriminación, fomentando programas que les faciliten la inscripción de inmuebles en el Registro Público de la Propiedad;
 
-XIV. Implementar los lineamientos, acciones, medidas y mecanismos que contiene la Ley de Igualdad Sustantiva entre mujeres y hombres en el Distrito Federal, para eliminar todas las formas de discriminación que se generan por pertenecer a cualquier sexo;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+XIV. Implementar los lineamientos, acciones, medidas y mecanismos que contiene la Ley de Igualdad Sustantiva entre mujeres y hombres en la Ciudad de México, para eliminar todas las formas de discriminación que se generan por pertenecer a cualquier sexo;
 
 XV. Establecer contenidos, métodos o instrumentos pedagógicos que difundan la igualdad sustantiva entre hombres y mujeres.
 
@@ -668,13 +708,17 @@ Los entes públicos, en el ámbito de su competencia, llevarán a cabo, entre ot
 
 I. Promover una cultura de denuncia a fin de garantizar la integridad psicofísica, prevenir, atender y eliminar el maltrato, violencia y explotación económica;
 
-II. Crear, y en su caso fortalecer, un programa de asesoría en todas las Delegaciones del Distrito Federal sobre temas de pensiones alimentarias, acceso a beneficios por edad y atención jurídica gratuita;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
 
-III. Hacer efectivo el acceso a los servicios de atención, asistencia, información, educación, asesoría médica y seguridad social en el Distrito Federal, según lo dispuesto en la normatividad en la materia y con base en la independencia, la participación, los cuidados, la autorrealización y el respeto a su dignidad;
+II. Crear, y en su caso fortalecer, un programa de asesoría en todas las alcaldías de la Ciudad de México sobre temas de pensiones alimentarias, acceso a beneficios por edad y atención jurídica gratuita;
+
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+III. Hacer efectivo el acceso a los servicios de atención, asistencia, información, educación, asesoría médica y seguridad social en la Ciudad de México, según lo dispuesto en la normatividad en la materia y con base en la independencia, la participación, los cuidados, la autorrealización y el respeto a su dignidad:
 
 a. Garantizar el derecho a la salud en las instituciones, centros o lugares en que se encuentren privadas de su libertad.
 
-b. Favorecer su inscripción al Sistema de Protección Social en Salud y análogos. El goce y disfrute de sus beneficios no será impedimento para la conservación, inscripción o afiliación a algún otro seguro de salud o mecanismo de previsión social al que se tenga derecho;
+b. Favorecer su inscripción al Sistema de Protección Social en Salud y análogos. El goce y disfrute de sus beneficios no será impedimento para la conservación, inscripción o afiliación a algún otro seguro de salud o mecanismo de previsión social al que se tenga derecho.
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -722,17 +766,29 @@ I. Procurar y garantizar su incorporación, permanencia y participación en las 
 
 II. Establecer programas de apoyos, estímulos y compensaciones por su desempeño en la educación, la cultura, las artes y el deporte;
 
-III. Procurar la integralidad en la accesibilidad al entorno físico, espacios e inmuebles públicos y privados que presten servicios o atención al público, los medios de transporte público, a la información así como a las comunicaciones. Las autoridades del Gobierno del Distrito Federal realizarán de manera progresiva las adecuaciones físicas y de comunicación que cumplan con los criterios de diseño universal;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+III. Procurar la integralidad en la accesibilidad al entorno físico, espacios e inmuebles públicos y privados que presten servicios o atención al público, los medios de transporte público, a la información, así como a las comunicaciones. Las autoridades del Gobierno de la Ciudad de México realizarán de manera progresiva las adecuaciones físicas y de comunicación que cumplan con los criterios de diseño universal;
 
 IV. Vigilar, gestionar e impulsar que las personas con discapacidad, no sean sujetos de discriminación en el ejercicio de sus derechos de libertad de transito y libre desplazamiento, por no contarse el porcentaje de unidades accesibles para las personas con discapacidad en los diferentes medios de transporte que circulan en la ciudad de México;
 
-V. Promover, que los edificios y demás inmuebles de la Administración Pública del Distrito Federal cuenten, por lo menos, con rampas de acceso, guías táctiles, programas de evacuación accesibles para personas con discapacidad o servicios de accesibilidad administrativa, entendiendo como tal, aquellos medios administrativos que garanticen el acceso a los servicios públicos respectivos a cualquier persona con discapacidad como solución alterna a la falta de accesibilidad estructural, congruentes con la ley de la materia;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
 
-VI. Promover que en las unidades del sistema de salud y de seguridad social del Distrito Federal reciban regularmente el tratamiento, orientación, prevención, detección, estimulación temprana, atención integral y medicamentos para las diferentes discapacidades, a fin de mantener y aumentar su capacidad funcional y su calidad de vida; y
+V. Garantizar la integralidad y accesibilidad al entorno físico, espacios e inmuebles públicos y privados que presten servicio público, mediante rampas de acceso, guías táctiles, cruces con semáforos acústicos, programas de evacuación accesibles para personas con discapacidad o servicios de accesibilidad administrativa.
+
+Las autoridades del Gobierno de la Ciudad de México realizarán de manera progresiva las adecuaciones físicas y de comunicación que cumplan con los criterios de diseño universal: de conformidad con la Ley en la materia.
+
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+VI. Promover que en las unidades del sistema de salud y de seguridad social de la Ciudad de México reciban regularmente el tratamiento, orientación, prevención, detección, estimulación temprana, atención integral y medicamentos para las diferentes discapacidades, a fin de mantener y aumentar su capacidad funcional y su calidad de vida; y
 
 VII. Promover el otorgamiento de beneficios y descuentos especiales para el acceso a centros turísticos, de entretenimiento, recreación, cultura y deporte; así como a los servicios de transporte aéreo, terrestre y marítimo;
 
 VIII. Eliminar los obstáculos que impiden el goce y ejercicio plenos de la capacidad jurídica por todas las personas con discapacidad en igualdad de condiciones con el resto de las personas
+
+> <small>(ADICIONADA, G.O. 9 DE MARZO DE 2020)</small>
+
+IX. Se garantizará a las personas con discapacidad la accesibilidad y utilización de bienes y servicios, eliminando barreras que impidan o dificulten su desenvolvimiento e integración social.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
@@ -742,23 +798,31 @@ Los entes públicos, en el ámbito de su competencia, llevarán a cabo, entre ot
 
 I. Hacer difusión entre los pueblos indígenas y originarios sobre sus derechos humanos, con perspectiva de género y de los programas sociales existentes que se han creado en su beneficio, en la diversidad de idiomas indígenas que se hablen en la Ciudad de México, a través de medios que garanticen accesibilidad a tal información;
 
-II. Diseñar e implementar programas interculturales de capacitación y sensibilización sobre derechos de los pueblos indígenas y originarios y su presencia en el Distrito Federal, dirigido a los entes públicos;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+II. Diseñar e implementar programas interculturales de capacitación y sensibilización sobre derechos de los pueblos indígenas y originarios y su presencia en la Ciudad de México, dirigido a los entes públicos;
 
 III. Garantizar y proteger el derecho de los pueblos indígenas y originarios a promover, desarrollar y mantener sus estructuras institucionales y sus culturas, espiritualidad y demás elementos que constituyen su identidad comunitaria;
 
 IV. Garantizar acciones para acceder a todos los servicios sociales y de salud garantizando atención integral de salud;
 
-V. Establecer programas educativos para los pueblos indígenas y originarios en el Distrito Federal, con la aplicación de métodos de enseñanza y aprendizaje acordes a su cultura, en lengua indígena, y por maestras y maestros preferentemente de su propia comunidad;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+V. Establecer programas educativos para los pueblos indígenas y originarios en la Ciudad de México, con la aplicación de métodos de enseñanza y aprendizaje acordes a su cultura, en lengua indígena, y por maestras y maestros preferentemente de su propia comunidad;
 
 VI. Garantizar la promoción y respeto de tradiciones y costumbres en la que participen todas las personas pertenecientes a la comunidad o pueblo de que se trate; que incluyan programas de enseñanza de transmisión intergeneracional e intercultural;
 
 VII. Implementar programas de creación de empleos formales, así como de acceso a los mismos, mediante el crecimiento y desarrollo económico de sus comunidades;
 
-VIII. Favorecer la participación de las mujeres, familias y comunidades en las decisiones relacionadas con la responsabilidad de la crianza, la formación, la educación y el bienestar de sus hijos, así como en los asuntos públicos que atañen al pueblo o comunidad;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+VIII. Favorecer la participación de las mujeres, familias y comunidades en las decisiones relacionadas con la responsabilidad de la crianza, la formación, la educación y el bienestar de sus hijas e hijos, así como en los asuntos públicos que atañen al pueblo o comunidad;
 
 IX. Llevar a cabo acciones que permitan la creación y el fomento de medios de comunicación alternativos en lenguas indígenas;
 
-X. En el marco de las leyes aplicables en el Distrito Federal, cuando se fijen sanciones penales a indígenas, procurar que tratándose de penas alternativas, se imponga aquella distinta a la privativa de la libertad, así como promover la aplicación de sustitutivos penales y beneficios de preliberación, de conformidad con las normas aplicables; y
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+X. En el marco de las leyes aplicables en la Ciudad de México, cuando se fijen sanciones penales a indígenas, procurar que tratándose de penas alternativas, se imponga aquella distinta a la privativa de la libertad (sic)
 
 XI. Garantizar que en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se tomen en cuenta sus sistemas normativos y especificidades culturales, respetando los preceptos de la constitución y los aspectos emanados de los usos y costumbres, así como hacer efectivo, en cualquier proceso legal, el derecho a recibir asistencia, por intérpretes y defensoras y defensores.
 
@@ -772,19 +836,27 @@ II. Promover el acceso a los servicios públicos de salud;
 
 III. Promover el acceso de las personas transgenéricas y transexuales a los servicios públicos de salud para la reasignación por concordancia sexo-genérica;
 
-IV. Fortalecer la participación y promoción laboral de las personas LGBTTTI en las diversas dependencias de los poderes ejecutivo, legislativo y judicial en el Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+IV. Fortalecer la participación y promoción laboral de las personas LGBTTTI en las diversas dependencias de los poderes ejecutivo, legislativo y judicial en la Ciudad de México;
 
 V. Diseñar, presupuestar, implementar y evaluar un programa con enfoque de derechos humanos y de género que contemple la sensibilización e información a empresas y a las y los empresarios sobre la población LGBTTTI y sus derechos humanos laborales; que otorgue reconocimiento a empresas y/o a las y los empresarios que adopten públicamente posturas en contra de la discriminación por orientación o preferencia sexual y por identidad o expresión de género, y que dé a conocer los diferentes programas, medidas y acciones para reconocer, respetar, garantizar y promover sus derechos;
 
-VI. Reconocer y respetar la conformación y diversidad de las familias en el Distrito Federal.
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+VI. Reconocer y respetar la conformación y diversidad de las familias en la Ciudad de México.
 
 ###### Artículo 30.
 
 Los entes públicos, en el ámbito de su competencia, llevarán a cabo, entre otras medidas de promoción del goce y ejercicio de derechos a favor de la igualdad y de trato para las personas integrantes de las poblaciones callejeras:
 
-I. Crear un sistema de información estadística, confiable y actualizada sobre las poblaciones callejeras y el nivel de cumplimiento de sus derechos en el Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
 
-II. Evaluar de manera permanente desde un enfoque de derechos humanos los planes y programas que se llevan a cabo en el Distrito Federal que incluyan procesos de consulta a estas poblaciones;
+I. Crear un sistema de información estadística, confiable y actualizada sobre las poblaciones callejeras y el nivel de cumplimiento de sus derechos en la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+II. Evaluar de manera permanente desde un enfoque de derechos humanos los planes y programas que se llevan a cabo en la Ciudad de México que incluyan procesos de consulta a estas poblaciones;
 
 III. Diseñar, implementar y evaluar un mecanismo eficiente de canalización institucional, para que todas las dependencias públicas que tienen a su cargo la atención de las poblaciones callejeras, garanticen un seguimiento efectivo en todos los procesos en los cuales interviene más de una dependencia;
 
@@ -806,13 +878,19 @@ II. Revisar y en su caso corregir las prácticas de las y los funcionarios públ
 
 III. Generar un sistema de información estadística confiable, con la participación de organizaciones de la sociedad civil especializadas, que dé cuenta de datos desagregados por edad, sexo, nacionalidad, origen étnico, condición socioeconómica y ubicación geográfica e incluya información respecto del nivel de exigibilidad de todos sus derechos civiles, políticos, económicos, sociales y culturales por parte de este sector de la población;
 
-IV. Diseñar, implementar y evaluar tanto el programa como las campañas de difusión de los procedimientos y trámites que se deben agotar para que las personas migrantes y/o sus familias, refugiadas y solicitantes de asilo cuya estadía en el Distrito Federal sea hasta de 6 meses, para que puedan adquirir una vivienda temporal y/o espacio residencial alternativo;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+IV. Diseñar, implementar y evaluar tanto el programa como las campañas de difusión de los procedimientos y trámites que se deben agotar para que las personas migrantes y/o sus familias, refugiadas y solicitantes de asilo cuya estadía en la Ciudad de México sea hasta de 6 meses, para que puedan adquirir una vivienda temporal y/o espacio residencial alternativo;
 
 V. Diseñar, implementar y evaluar un programa de albergues especiales y exclusivos para personas migrantes solicitantes de asilo y refugiadas (con independencia de la situación o calidad migratoria en la que se encuentren) cuya vida, seguridad, salud e integridad personal se encuentre en riesgo de ser violada;
 
-VI. Diseñar e implementar un programa de aprendizaje especializado para personas migrantes, refugiados y solicitantes de asilo que no hablen español, a fin de que se facilite su inserción en la población del Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
 
-VII. Diseñar y actualizar un diagnostico socio-demográfico respecto de las tendencias que se están presentando en torno a la demanda laboral en el D. F. de migrantes y refugiados a fin de prever acciones encaminadas a prevenir el incremento en el desempleo de estas personas;
+VI. Diseñar e implementar un programa de aprendizaje especializado para personas migrantes, refugiados y solicitantes de asilo que no hablen español, a fin de que se facilite su inserción en la población de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+VII. Diseñar y actualizar un diagnostico socio-demográfico respecto de las tendencias que se están presentando en torno a la demanda laboral en la Ciudad de México de migrantes y refugiados a fin de prever acciones encaminadas a prevenir el incremento en el desempleo de estas personas;
 
 VIII. Revisar y en su caso reformar los requisitos que se exigen en los establecimientos públicos de salud, para que las personas migrantes, refugiadas y solicitantes de asilo puedan acceder a los servicios de salud y adquirir medicamentos de manera gratuita, a través del programa de acceso gratuito a servicios médicos y medicamentos;
 
@@ -828,7 +906,9 @@ Los entes públicos, en el ámbito de sus competencias, llevarán a cabo medidas
 
 I. Promover y garantizar la igualdad de trato y acceso a oportunidades en el ámbito económico, político, social y cultural, en todas las dependencias a su cargo;
 
-II. Asegurar el acceso a los beneficios de disfrute de todos los servicios públicos a cargo del Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+II. Asegurar el acceso a los beneficios de disfrute de todos los servicios públicos a cargo del Gobierno de la Ciudad de México;
 
 III. Sensibilizar y brindar capacitación en materia de discriminación, equidad de género, igualdad de oportunidades y respeto a la diversidad cultural y sexual, la identidad y expresión de género; dirigida a todas las personas servidoras públicas y autoridades, así como a particulares que intervengan en cualquier etapa de su instrumentación;
 
@@ -854,25 +934,35 @@ XI. Difundir el contenido de esta Ley en lenguaje y formato accesible incluyendo
 
 #### Sección Primera. De la denominación, objeto, domicilio y patrimonio
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE MARZO DE 2020)</small>
+
 ###### Artículo 33.
 
-El Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México, en adelante el Consejo, es un organismo descentralizado sectorizado a la Secretaría de Desarrollo Social del Gobierno del Distrito Federal, con personalidad jurídica y patrimonio propios. Para el desarrollo de sus atribuciones, el Consejo gozará de autonomía técnica y de gestión; de igual manera, para llevar a cabo los procedimientos de reclamación o queja establecidos en la presente Ley.
+El Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México, en adelante el Consejo, es un organismo descentralizado sectorizado a la Secretaría de Inclusión y Bienestar Social del Gobierno de la Ciudad de México, con personalidad jurídica y patrimonio propios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE MARZO DE 2020)</small>
+
+Para el desarrollo de sus atribuciones, el Consejo gozará de autonomía técnica y de gestión; de igual manera, para llevar a cabo los procedimientos de reclamación o queja establecidos en la presente Ley.
 
 En el marco de sus atribuciones, el Consejo se regirá por los principios de austeridad, racionalidad y transparencia en el ejercicio de su presupuesto.
 
-> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 9 DE MARZO DE 2020)</small>
 
 ###### Artículo 34.
 
-El Consejo podrá establecer oficinas y realizar inspecciones en las demarcaciones territoriales del Distrito Federal que estime pertinente de acuerdo a su disponibilidad presupuestal.
+El Consejo podrá establecer oficinas y realizar inspecciones en las demarcaciones territoriales de la Ciudad de México que estime pertinente de acuerdo a su disponibilidad presupuestal.
 
 ###### Artículo 35.
 
 El Consejo tiene por objeto:
 
-I. Emitir los lineamientos generales de políticas públicas en la materia de combate a la discriminación en el Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
 
-II. Diseñar, implementar y promover políticas públicas para prevenir, y eliminar la discriminación en el Distrito Federal, analizar la legislación en la materia, así como evaluar su impacto social, para lo cual podrá coordinarse con entes públicos, instituciones académicas y organizaciones de la sociedad civil;
+I. Emitir los lineamientos generales de políticas públicas en la materia de combate a la discriminación en la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+II. Diseñar, implementar y promover políticas públicas para prevenir, y eliminar la discriminación en la Ciudad de México, analizar la legislación en la materia, así como evaluar su impacto social, para lo cual podrá coordinarse con entes públicos, instituciones académicas y organizaciones de la sociedad civil;
 
 III. Coordinar, dar seguimiento y evaluar las acciones de los entes públicos en materia de prevención y erradicación de la discriminación;
 
@@ -892,7 +982,9 @@ VI. El Consejo podrá proceder de oficio, cuando detecte o tenga conocimiento de
 
 El patrimonio del Consejo se integrará con:
 
-I. Los recursos que le asigne la Asamblea Legislativa del Distrito Federal; a través del Presupuesto de Egresos del Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+I. Los recursos que le asigne el Congreso de la Ciudad de México; a través del Presupuesto de Egresos de la Ciudad de México;
 
 II. Los bienes muebles e inmuebles que le sean asignados;
 
@@ -908,11 +1000,13 @@ V. Las aportaciones, donaciones, legados y demás liberalidades que reciba de pe
 
 Son atribuciones del Consejo:
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
 
-I. Diseñar, emitir y difundir el Programa Anual para Prevenir y Eliminar la Discriminación en el Distrito Federal, así como verificar y evaluar su cumplimiento;
+I. Diseñar, emitir y difundir el Programa Anual para Prevenir y Eliminar la Discriminación en la Ciudad de México, así como verificar y evaluar su cumplimiento;
 
-II. Elaborar y emitir anualmente los lineamientos generales para el diseño de estrategias, programas, políticas, proyectos y acciones para prevenir y eliminar la discriminación en el Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+II. Elaborar y emitir anualmente los lineamientos generales para el diseño de estrategias, programas, políticas, proyectos y acciones para prevenir y eliminar la discriminación en la Ciudad de México;
 
 III. Actuar como órgano conductor de aplicación de la presente Ley, velando por su cumplimiento y la consecución de sus objetivos;
 
@@ -922,9 +1016,9 @@ IV. Formular observaciones, sugerencias y directrices a quien omita el cumplimie
 
 V. Solicitar a los entes públicos la información que juzgue pertinente en materia de combate a la discriminación;
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
 
-VI. Participar en el diseño del Programa General de Desarrollo del Distrito Federal, verificando que en el contenido y en la asignación presupuestal de los programas se incorporen los lineamientos del Programa Anual para Prevenir y Eliminar la Discriminación;
+VI. Participar en el diseño del Programa General de Desarrollo de la Ciudad de México, verificando que en el contenido y en la asignación presupuestal de los programas se incorporen los lineamientos del Programa Anual para Prevenir y Eliminar la Discriminación;
 
 > <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
@@ -938,7 +1032,9 @@ IX. Proceder de oficio, cuando se detecte o tenga conocimiento de casos en los q
 
 X. Promover el derecho humano a la no discriminación de las personas, grupos y comunidades en situación de discriminación, mediante campañas de difusión y divulgación;
 
-XI. Divulgar las obligaciones asumidas por el Estado Mexicano en los instrumentos internacionales que establecen disposiciones en materia de no discriminación, así como promover su cumplimiento por parte de los entes públicos del Distrito Federal, para lo cual podrá formular observaciones o recomendaciones generales o particulares;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+XI. Divulgar las obligaciones asumidas por el Estado Mexicano en los instrumentos internacionales que establecen disposiciones en materia de no discriminación, así como promover su cumplimiento por parte de los entes públicos de la Ciudad de México, para lo cual podrá formular observaciones o recomendaciones generales o particulares;
 
 XII. Promover que en los medios de comunicación se incorporen contenidos orientados a prevenir y eliminar las prácticas discriminatorias;
 
@@ -946,7 +1042,9 @@ XIII. Elaborar y mantener actualizado un manual que establezca las acciones para
 
 XIV. Elaborar y emitir pronunciamientos sobre temas relacionados con la no discriminación;
 
-XV. Otorgar un reconocimiento a los entes públicos o privados del Distrito Federal, así como a organizaciones sociales, personas físicas o morales particulares residentes en el Distrito Federal, que se distingan por llevar a cabo programas y medidas para prevenir la discriminación en sus prácticas, instrumentos organizativos y presupuestos;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+XV. Otorgar un reconocimiento a los entes públicos o privados de la Ciudad de México, así como a organizaciones sociales, personas físicas o morales particulares residentes en la Ciudad de México, que se distingan por llevar a cabo programas y medidas para prevenir la discriminación en sus prácticas, instrumentos organizativos y presupuestos;
 
 XVI. Proporcionar los servicios de asesoría, orientación y capacitación integral a personas, grupos y comunidades en situación de discriminación;
 
@@ -958,21 +1056,31 @@ XIX. Actuar como órgano de consulta, asesoría, capacitación y formación en m
 
 XX. Elaborar programas de capacitación para las y los ciudadanos y organizaciones de la sociedad civil a fin de que conozcan los procedimientos e instancias para la presentación de denuncias y quejas;
 
-XXI. Proponer a las instituciones de educación pública y privadas del Distrito Federal de todos los niveles, lineamientos y criterios para el diseño, elaboración y/o aplicación de contenidos, materiales pedagógicos y procesos de formación en materia de igualdad y no discriminación; e
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
 
-XXII. Impulsar, realizar, coordinar y difundir estudios e investigaciones sobre el derecho a la igualdad y a la no discriminación así como diagnósticos sobre la situación de discriminación que se presentan en el Distrito Federal; de derechos humanos que establecen disposiciones en materia de no discriminación, así como promover su cumplimiento por parte de los entes públicos del Distrito Federal;
+XXI. Proponer a las instituciones de educación pública y privadas de la Ciudad de México de todos los niveles, lineamientos y criterios para el diseño, elaboración y/o aplicación de contenidos, materiales pedagógicos y procesos de formación en materia de igualdad y no discriminación; e
+
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+XXII. Impulsar, realizar, coordinar y difundir estudios e investigaciones sobre el derecho a la igualdad y a la no discriminación, así como diagnósticos sobre la situación de discriminación que se presentan en la Ciudad de México; de derechos humanos que establecen disposiciones en materia de no discriminación, así como promover su cumplimiento por parte de los entes públicos de la Ciudad de México;
 
 XXIII. Atender las solicitudes de las personas para su defensa por presuntos actos discriminatorios sean presentados por cualquier particular, conforme a lo establecido en la presente Ley;
 
-XXIV. Dar vista a los órganos de control interno de las diversas instancias de la administración pública local conducentes a fin de que establezcan las medidas administrativas para sancionar a las personas servidoras públicas y/o particulares que incurran en actos de discriminación conforme a lo establecido en el artículo 6 de esta ley y en el marco legal vigente para el Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
 
-XXV. Orientar y canalizar a las personas, grupos y comunidades en situación de discriminación a la instancia correspondiente para emitir alguna queja o reclamación por presuntas conductas discriminatorias; provenientes tanto de servidoras y servidores públicos o autoridades del Distrito Federal, como de particulares;
+XXIV. Dar vista a los órganos de control interno de las diversas instancias de la administración pública local conducentes a fin de que establezcan las medidas administrativas para sancionar a las personas servidoras públicas y/o particulares que incurran en actos de discriminación conforme a lo establecido en el artículo 6 de esta ley y en el marco legal vigente para la Ciudad de México;
 
-XXVI. Establecer vinculación permanente con la Comisión de Derechos Humanos del Distrito Federal y el Consejo Nacional para Prevenir y Eliminar la Discriminación para conocer los casos de discriminación que llegan a estas instituciones;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+XXV. Orientar y canalizar a las personas, grupos y comunidades en situación de discriminación a la instancia correspondiente para emitir alguna queja o reclamación por presuntas conductas discriminatorias; provenientes tanto de servidoras y servidores públicos o autoridades de la Ciudad de México, como de particulares;
 
-XXVII. Celebrar convenios de colaboración con dependencias de la administración pública del Distrito Federal, de los Estados de la República, dependencias federales, con organismos internacionales, organizaciones de la sociedad civil e Instituciones académicas;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+XXVI. Establecer vinculación permanente con la Comisión de Derechos Humanos de la Ciudad de México y el Consejo Nacional para Prevenir y Eliminar la Discriminación para conocer los casos de discriminación que llegan a estas instituciones;
+
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+XXVII. Celebrar convenios de colaboración con dependencias de la administración pública de la Ciudad de México, de los Estados de la República, dependencias federales, con organismos internacionales, organizaciones de la sociedad civil e Instituciones académicas;
 
 XXVIII. Asistir a las reuniones nacionales e internacionales en materia de prevención y eliminación de la discriminación, además de establecer relaciones con organismos similares en las entidades de la República y con el Consejo Nacional para Prevenir la Discriminación, así como con organismos multilaterales relacionados con los derechos humanos y con aquellos similares al Consejo en otras entidades;
 
@@ -988,13 +1096,19 @@ XXXII. Emitir opiniones jurídicas a las consultas relacionadas con el derecho f
 
 XXXIII. Brindar asesoría e impulsar la inclusión de la perspectiva del derecho a la no discriminación en la elaboración de los proyectos anuales de la Ley de Ingresos y el Presupuesto de Egresos;
 
-XXXIV. Diseñar los indicadores para evaluar que las políticas públicas y programas de la Administración Pública del Distrito Federal se realicen con perspectiva de no discriminación;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
 
-XXXV. Evaluar que la adopción de políticas públicas y programas en la Administración Pública del Distrito Federal, contengan medidas para prevenir y eliminar la discriminación;
+XXXIV. Diseñar los indicadores para evaluar que las políticas públicas y programas de la Administración Pública de la Ciudad de México se realicen con perspectiva de no discriminación;
+
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+XXXV. Evaluar que la adopción de políticas públicas y programas en la Administración Pública de la Ciudad de México, contengan medidas para prevenir y eliminar la discriminación;
 
 XXXVI. Dar seguimiento a medidas instrumentadas por los órganos de gobierno locales, para eliminar la discriminación;
 
-XXXVII. Elaborar un informe anual de sus actividades para presentar ante la Asamblea Legislativa del Distrito Federal.
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+XXXVII. Elaborar un informe anual de sus actividades para presentar ante el Congreso de la Ciudad de México.
 
 > <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
@@ -1010,37 +1124,29 @@ I. La Junta de Gobierno; y
 
 II. La Presidencia del Consejo;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 9 DE MARZO DE 2020)</small>
 
 ###### Artículo 39.
 
-La Junta de Gobierno estará integrada por la o el titular de la Presidencia del Consejo, quien además presidirá dicha Junta de Gobierno, seis representantes de la Administración Pública del Distrito Federal y seis integrantes designados por la Asamblea Consultiva.
+La Junta de Gobierno estará integrada por la o el titular de la Presidencia del Consejo, quien además presidirá dicha Junta de Gobierno, seis representantes de la Administración Pública de la Ciudad de México y seis integrantes designados por la Asamblea Consultiva.
 
-> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
-
-Los representantes de la Administración Pública del Distrito Federal son los siguientes:
+Los representantes de la Administración Pública de la Ciudad de México son los siguientes:
 
 I. Uno de la Secretaría de Gobierno;
 
-II. Uno de la Secretaría de Desarrollo Social;
+II. Uno de la Secretaría de Inclusión y Bienestar Social;
 
-III. Uno de la Secretaria de Desarrollo Rural y Equidad para las Comunidades;
+III. Uno de la Secretaria de Pueblos y Barrios Originarios y Comunidades Indígenas Residentes
 
 IV. Uno de la Secretaría de Salud;
 
-V. Uno de la Secretaría de Educación;
+V. Uno de la Secretaría de Educación, Ciencia y Tecnología;
 
-VI. Uno de la Secretaría del Trabajo y Fomento al Empleo
+VI. Uno de la Secretaría del Trabajo y Fomento al Empleo.
 
-> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+Asimismo, serán invitados permanentes a la Junta de Gobierno con derecho a voz, pero no a voto, un o una representante de cada uno de los siguientes órganos públicos: Secretaria de la Mujer de la Ciudad de México, Instituto de la Juventud de la Ciudad de México, Consejo para la Prevención y la Atención Integral del VIH/Sida de la Ciudad de México, Instituto de Atención al Adulto Mayor de la Ciudad de México, el Instituto de las Personas con Discapacidad en la Ciudad de México, y el Sistema para el Desarrollo Integral de la Familia de la Ciudad de México.
 
-Asimismo, serán invitados permanentes a la Junta de Gobierno con derecho a voz, pero no a voto, un o una representante de cada uno de los siguientes órganos públicos: Instituto de las Mujeres de la Ciudad de México, Instituto de la Juventud de la Ciudad de México, Consejo para la Prevención y la Atención Integral del VIH/Sida en el Distrito Federal, Instituto de Atención al Adulto Mayor del Distrito Federal, el Instituto para la Integración al Desarrollo de las Personas con Discapacidad del Distrito Federal, y el Sistema para el Desarrollo Integral de la Familia del Distrito Federal.
-
-Las y los integrantes designados por la Asamblea Consultiva durarán en su encargo tres años, pudiendo ser ratificados por otro periodo igual. Este cargo tendrá el carácter de honorífico, y su designación se hará conforme al procedimiento establecido en el Reglamento de la propia Asamblea Consultiva.
-
-> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
-
-Además, será invitado permanente a la Junta de Gobierno, con derecho solo a voz, la o el Presidente de la Comisión de Atención a Grupos Vulnerables de la Asamblea legislativa del Distrito Federal.
+Además, será invitado permanente a la Junta de Gobierno, con derecho solo a voz, la o el presidente de la Comisión de Derechos Humanos y Grupos de Atención Prioritaria del Congreso de la Ciudad de México.
 
 ###### Artículo 40.
 
@@ -1058,7 +1164,9 @@ V. Aprobar el informe anual de actividades del Consejo;
 
 VI. Elaborar y aprobar el Estatuto Orgánico del Consejo;
 
-VII. Aprobar el Programa anual para Prevenir y Eliminar la Discriminación en el Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+VII. Aprobar el Programa anual para Prevenir y Eliminar la Discriminación en la Ciudad de México;
 
 VIII. Aprobar el Reglamento de la Asamblea Consultiva; y
 
@@ -1072,9 +1180,11 @@ Las resoluciones se tomarán por mayoría de las y los integrantes presentes.
 
 Las sesiones que celebre la Junta de Gobierno serán ordinarias y extraordinarias; las ordinarias se llevarán a cabo por lo menos cada tres meses, y las extraordinarias se celebrarán cuando lo convoque la Presidencia.
 
+> <small>(REFORMADO, G.O. 9 DE MARZO DE 2020)</small>
+
 ###### Artículo 42.
 
-La o el Presidente del Consejo, será designada por la o el Jefe de Gobierno del Distrito Federal.
+La o el Presidente del Consejo, será designada por la o el Jefe de Gobierno de la Ciudad de México.
 
 ###### Artículo 43.
 
@@ -1092,7 +1202,9 @@ Son atribuciones de la Presidencia del Consejo:
 
 I. Representar legalmente al Consejo;
 
-II. Presentar a la consideración de la Junta de Gobierno el proyecto del Programa anual para Prevenir y Eliminar la Discriminación para el Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+II. Presentar a la consideración de la Junta de Gobierno el proyecto del Programa anual para Prevenir y Eliminar la Discriminación para la Ciudad de México;
 
 III. Presidir las sesiones de la Junta de Gobierno;
 
@@ -1100,7 +1212,9 @@ IV. Someter a la consideración de la Junta de Gobierno el informe anual de acti
 
 V. Ejecutar los acuerdos y demás disposiciones de la Junta de Gobierno;
 
-VI. Enviar a la Asamblea Legislativa el informe anual de actividades; así como el ejercicio presupuestal;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2020)</small>
+
+VI. Enviar al Congreso de la Ciudad de México el informe anual de actividades; así como el ejercicio presupuestal;
 
 VII. Celebrar acuerdos de colaboración con organismos nacionales e internacionales para el desarrollo de las atribuciones del Consejo, de conformidad con las normas aplicables; y
 
@@ -1180,7 +1294,9 @@ Para tal efecto, ejercerá las atribuciones generales que correspondan a su natu
 
 El Consejo conocerá de las solicitudes de defensa por los hechos, acciones, omisiones o prácticas discriminatorias a que se refiere esta ley o que se presuman como tales, con el objeto de tramitar quejas y reclamaciones de las personas, grupos o comunidades que así lo soliciten, además de orientar y canalizar, ante las instancias civiles, penales y administrativas que en su caso correspondan, haciendo un puntual seguimiento a los procesos que se inicien para tal efecto.
 
-Si las acciones, omisiones o prácticas discriminatorias a las que se refiere el presente artículo han sido materia de queja ante la Comisión de Derechos Humanos del Distrito Federal y ésta la admitió, el Consejo dejará de conocer los hechos que dieron fundamento a la queja.
+> <small>(REFORMADO, G.O. 9 DE MARZO DE 2020)</small>
+
+Si las acciones, omisiones o prácticas discriminatorias a las que se refiere el presente artículo han sido materia de queja ante la Comisión de Derechos Humanos de la Ciudad de México y ésta la admitió, el Consejo dejará de conocer los hechos que dieron fundamento a la queja.
 
 En caso de concurrencia de actuaciones con el Consejo Nacional para Prevenir la Discriminación (CONAPRED), a partir del ámbito de competencia y de la naturaleza de la queja o reclamación, el Consejo solicitará a la instancia nacional la derivación del mismo para su tramitación a nivel local.
 
@@ -1238,11 +1354,11 @@ La persona servidora pública del Consejo que reciba una queja o reclamación po
 
 La parte peticionaria que inicie su queja o reclamación a través de los medios señalados en el presente artículo deberá ratificar su queja o reclamación ante el Consejo en el término no mayor de cinco días hábiles, contados a partir del requerimiento, y de no ser así se tendrá por no presentada. En todos los casos deberá informarse al peticionario éste requisito, señalándole de forma clara el día de su vencimiento.
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 9 DE MARZO DE 2020)</small>
 
 ###### Artículo 62.
 
-La representación en la queja o reclamación de las personas morales se acreditará mediante instrumento público y en el caso de las personas físicas se acreditará por medio de carta poder en la forma prevista en la Ley de Procedimiento Administrativo del Distrito Federal y en caso que se encuentre impedida la o el peticionario para acudir al Consejo, éste establecerá la forma idónea para contactarlo.
+La representación en la queja o reclamación de las personas morales se acreditará mediante instrumento público y en el caso de las personas físicas se acreditará por medio de carta poder en la forma prevista en la Ley de Procedimiento Administrativo de la Ciudad de México y en caso que se encuentre impedida la o el peticionario para acudir al Consejo, éste establecerá la forma idónea para contactarlo.
 
 > <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
@@ -1292,11 +1408,11 @@ V. Acciones de reparación del daño acorde a los principios internacionales de 
 
 #### Sección Segunda. De la Reclamación
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 9 DE MARZO DE 2020)</small>
 
 ###### Artículo 68.
 
-La reclamación es el procedimiento que se sigue contra personas servidoras públicas de los entes públicos del Distrito Federal que en el ejercicio de sus funciones o con motivo de ellas, presuntamente cometan una conducta discriminatoria.
+La reclamación es el procedimiento que se sigue contra personas servidoras públicas de los entes públicos de la Ciudad de México que en el ejercicio de sus funciones o con motivo de ellas, presuntamente cometan una conducta discriminatoria.
 
 > <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
@@ -1418,11 +1534,11 @@ La resolución contendrá una síntesis de los puntos controvertidos, las motiva
 
 #### Sección Quinta. Del Recurso de Revisión
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 9 DE MARZO DE 2020)</small>
 
 ###### Artículo 84.
 
-Contra las resoluciones y actos del Consejo los interesados podrán interponer el recurso de inconformidad, de conformidad con la Ley de Procedimiento Administrativo del Distrito Federal.
+Contra las resoluciones y actos del Consejo los interesados podrán interponer el recurso de inconformidad, de conformidad con la Ley de Procedimiento Administrativo de la Ciudad de México.
 
 ## TRANSITORIOS
 
@@ -1481,3 +1597,13 @@ G.O. 24 DE ABRIL DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 9 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA DENOMINACIÓN, SE REFORMAN Y SE HOMOLOGA EL CUERPO NORMATIVO Y SE MODIFICA EL ARTÍCULO 27, FRACCIÓN V, Y SE ADICIONA UNA FRACCIÓN IX, A LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
