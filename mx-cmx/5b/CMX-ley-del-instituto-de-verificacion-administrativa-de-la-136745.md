@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-instituto-de-verificacion-administrativa-de-la-136745"
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-12"
-last_updated: "2019-06-12"
+last_updated: "2020-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136745&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-06-11"
 
 LEY DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MARZO DE 2020.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el miércoles 12 de junio de 2019.
 
@@ -482,49 +482,35 @@ El Instituto será el encargado de integrar y actualizar permanentemente el Padr
 
 ###### Artículo 37.
 
-El Subsistema de Cumplimiento Responsable será un sistema digital que formará parte del Sistema Unificado de Verificación, con el fin (sic) fomentar la autorregulación de los establecimientos mercantiles que exploten los giros de bajo impacto y que contendrá entre otros, la base de datos pública y actualizada, basada en el principio de buena fe, de suscripción voluntaria y gratuita, donde se inscriban todas aquellas personas físicas y morales que realicen actividades mercantiles y que estén sujetas a verificación, con el fin de notificar a la autoridad y a las y los ciudadanos que cumplen con todas las disposiciones regulatorias que les sean aplicables.
-
-El resultado del Subsistema de Cumplimiento Responsable será la base de datos que se le denominará Padrón de Cumplimiento Responsable.
-
-El Subsistema de Cumplimiento Responsable será diseñado, implementado y administrado por la Secretaría, con la asistencia técnica de la Agencia, y cualquier otra autoridad competente que se requiera.
-
-Dicho Subsistema contará con características tecnológicas que le permitan la consulta, búsqueda y actualización de la información que contenga.
+(DEROGADO, G.O. 9 DE MARZO DE 2020)
 
 ###### Artículo 38.
 
-La Agencia establecerá los lineamientos del Subsistema de Cumplimiento Responsable, mismos que serán entregados a la Secretaría para la correcta administración del Subsistema, que contendrá la integración y procedimiento de actualización del Padrón de Cumplimiento Responsable, mismos que serán actualizados cada dos años y en los que se ocupara una cédula confiable diseñada para tal efecto.
+(DEROGADO, G.O. 9 DE MARZO DE 2020)
 
 ###### Artículo 39.
 
-Cuando la Secretaría, en cualquier momento del proceso de actualización o de operación del Subsistema de Cumplimiento Responsable, en uso de sus atribuciones y facultades, detecte alguna inconsistencia y/o irregularidad que dé como resultado el incumplimiento de reglas, requisitos y procesos establecidos en el marco normativo vigente, así como la inobservancia a las regulaciones aplicables, normas técnicas, leyes, reglamentos, acuerdos, manuales y cualquier otra disposición normativa que sea aplicable, hará la solicitud al Instituto o a la Alcaldía correspondiente, de acuerdo con sus facultades y competencias, para que se compruebe mediante una visita de verificación.
-
-En caso de que el Instituto o las Alcaldías constaten el o los incumplimientos a la normatividad aplicable por parte de las personas físicas o morales inscritas en el Padrón de Cumplimiento Responsable, serán dadas de baja de dicho padrón y se sujetarán de nueva cuenta al Programa Anual de Verificación Ordinaria a que se refiere la Ley de Establecimientos Mercantiles vigente para la Ciudad de México; esto con independencia de las sanciones establecidas en las leyes correspondientes.
-
-Las personas físicas y morales que se encuentren en este supuesto, no podrán volver a solicitar su ingreso al Padrón de Cumplimiento Responsable por un lapso de cinco años.
+(DEROGADO, G.O. 9 DE MARZO DE 2020)
 
 ###### Artículo 40.
 
-El registro en el Padrón de Cumplimiento Responsable será voluntario y partirá siempre del principio de buena fe y de la manifestación libre e informada de la persona física o moral para pertenecer al mismo, quien de manera clara expresará su voluntad, teniendo derecho en todo momento a que esta sea respetada.
-
-Dicho Registro será electrónico, gratuito y con el que se presume bajo protesta de decir verdad que los establecimientos mercantiles registrados han cumplido con todas las obligaciones sujetas a verificación inherentes a la explotación del giro mercantil de que se trate.
-
-La Secretaría será responsable de la publicación del Padrón de Cumplimiento Responsable.
+(DEROGADO, G.O. 9 DE MARZO DE 2020)
 
 ###### Artículo 41.
 
-Las personas físicas o morales que se encuentren registradas en el Padrón de Cumplimiento Responsable, con datos del Sistema Electrónico de Avisos y Permisos de Establecimientos Mercantiles, quedarán exentas de ser verificadas, excepto en los casos que existan causas vinculadas con salud pública, medio ambiente, protección civil y queja vecinal, siempre que se aporten elementos suficientes que acrediten alguno de los casos de excepción.
+(DEROGADO, G.O. 9 DE MARZO DE 2020)
 
 ###### Artículo 42.
 
-Los establecimientos mercantiles que sean objeto de un procedimiento de Verificación Administrativa que se encuentre en trámite, no podrán inscribirse al Padrón de Cumplimiento Responsable, hasta que se emita la resolución correspondiente y, en su caso, se hayan cumplido en su cabalidad con las sanciones establecidas en la Resolución Administrativa o bien tengan una Sentencia favorable firme a su favor.
+(DEROGADO, G.O. 9 DE MARZO DE 2020)
 
 ###### Artículo 43.
 
-Las personas físicas o morales que inicien actividades de carácter mercantil, podrán ingresar al Padrón de Cumplimiento Responsable, una vez que hayan quedado debidamente constituidas y registradas en el Sistema Electrónico de Avisos y Permisos de Establecimientos Mercantiles, ante las Alcaldías, la Secretaría, la Secretaría de Administración y Finanzas de la Ciudad de México y el Sistema de Administración Tributaria.
+(DEROGADO, G.O. 9 DE MARZO DE 2020)
 
 ###### Artículo 44.
 
-El refrendo al Padrón de Cumplimiento Responsable deberá realizarse de forma bianual. Dicho trámite será en línea, inmediato y de forma gratuita.
+(DEROGADO, G.O. 9 DE MARZO DE 2020)
 
 ### CAPÍTULO VIII. DE LAS RESPONSABILIDADES, RÉGIMEN LABORAL Y BASES PARA LA INCORPORACIÓN DEL PERSONAL ESPECIALIZADO Y LA ADOPCIÓN DE NUEVAS TECNOLOGÍAS
 
@@ -629,3 +615,21 @@ SÉPTIMO.- Se derogan todas las disposiciones que contravengan el presente orden
 Palacio Legislativo del Congreso de la Ciudad de México, a los veintiocho días del mes de mayo del año dos mil diecinueve.- POR LA MESA DIRECTIVA.- DIPUTADO JOSÉ DE JESÚS MARTÍN DEL CAMPO CASTAÑEDA, PRESIDENTE.- DIPUTADA ISABELA ROSALES HERRERA, SECRETARIA.- DIPUTADA ANA PATRICIA BAEZ GUERRERO, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 3 fracciones XVII y XVIII, 7, 10 fracción II, 16 y 21, párrafo primero, de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los once días del mes de junio del año dos mil diecinueve.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, JOSÉ LUIS BEATO GONZÁLEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, ILEANA AUGUSTA VILLALOBOS ESTRADA.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.- FIRMA.- EL SECRETARIO DE TURISMO, CARLOS MACKINLAY GROHMANN.- FIRMA.- EL CONSEJERO JURÍDICO Y DE SERVICIOS LEGALES, HÉCTOR VILLEGAS SANDOVAL.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 9 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE DEROGAN LOS ARTÍCULOS 37, 38, 39, 40, 41, 42, 43 Y 44 DE LA LEY DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DE LA CIUDAD DE MÉXICO. SE EXPIDE LA LEY DE RESPONSABILIDAD SOCIAL MERCANTIL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Como una acción de la responsabilidad social mercantil el Instituto de Verificación Administrativa de la Ciudad de México en coordinación con las Alcaldías emitirá, dentro de un plazo de 180 días posteriores a la entrada en vigor de la presente Ley, un programa de visitas de verificación voluntaria para establecimientos mercantiles con giro de bajo impacto.
+
+CUARTO.- Las visitas de verificación aleatoria se comenzarán a realizar a partir del mes de enero del año 2021, conforme a lo establecido en el artículo 25 de la presente Ley.
+
+QUINTO.- Se instruye al Gobierno de la Ciudad de México a llevar a cabo la actualización de normas regulatorias y vinculantes al presente decreto en un término no mayor a noventa días, los cuales comenzarán a contarse a partir de la publicación del mismo.
+
+SEXTO.- La persona titular de la Jefatura de Gobierno de la Ciudad de México, en un plazo máximo de 120 días contados a partir de la entrada de vigor de esta ley, deberá expedir su reglamento, y especificar en el mismo el proceso de elección para llevar a cabo la visita de verificación a que hace referencia el artículo 25, fracción I, de la presente ley.
