@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2018-06-07"
+last_updated: "2020-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2020.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -8107,7 +8107,9 @@ ART. 2246.- El juez, según las circunstancias del caso, decidirá sobre el pago
 
 ART. 2247.- Lo dispuesto en la fracción IV del artículo 2241 no comprende las vías de hecho de terceros que no aleguen derechos sobre la cosa arrendada que impidan su uso o goce. El arrendatario, en esos casos, sólo tiene acción contra los autores de los hechos, y aunque fueren insolventes no tendrá acción contra el arrendador. Tampoco comprende los abusos de fuerza.
 
-ART. 2248.- El arrendatario está obligado a poner en conocimiento del propietario toda usurpación o novedad dañosa que otro haya hecho o abiertamente prepare en la cosa arrendada, so pena de rescindirse el contrato. Lo dispuesto en este artículo no priva al arrendatario del derecho de defender, como poseedor, la cosa dada en arrendamiento.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2020)</small>
+
+ART. 2248.- El arrendatario está obligado a poner en conocimiento del arrendador toda usurpación o novedad dañosa que otro haya hecho o abiertamente prepare en la cosa arrendada, so pena de rescindirse el contrato. Lo dispuesto en este artículo no priva al arrendatario del derecho de defender, como poseedor, la cosa dada en arrendamiento.
 
 ART. 2249.- Si el arrendador fuere vencido en juicio sobre una parte de la cosa arrendada, puede el arrendatario reclamar una disminución en la renta o la rescisión del contrato y el pago de los daños y perjuicios que sufra.
 
@@ -10532,5 +10534,13 @@ P.O. 7 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 971.- SE DEROGAN LOS ARTÍCULOS, 19.4, Y 19.5, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0618.- SE REFORMA EL ARTÍCULO 2248, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
