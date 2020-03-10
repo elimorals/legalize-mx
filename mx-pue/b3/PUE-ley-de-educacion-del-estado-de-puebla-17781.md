@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-17781"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-31"
-last_updated: "2019-11-26"
+last_updated: "2020-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 31 de marzo de 2000.
 
@@ -267,13 +267,21 @@ XXIX.- Proporcionar las facilidades necesarias para que las Autoridades Educativ
 
 XXX.- Desarrollar cursos y actividades que fortalezcan la enseñanza de los menores y sus padres o tutores, respecto de la prevención de la violencia escolar en cualquiera de sus manifestaciones, incluso a través del uso de las tecnologías de la información y la comunicación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2020)</small>
 
-XXXI.- Fomentar el uso del lenguaje incluyente y no sexista; y
+XXXI.- Fomentar el uso del lenguaje incluyente y no sexista;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2020)</small>
 
-XXXII.- Las demás que establezca la legislación aplicable.
+XXXII.- Promover la realización de actividades extraescolares que acerquen a las y los educandos a la realidad actual, así como fomentar el aprendizaje en los ámbitos socioemocional, colaborativo, físico, cultural y de participación social;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2020)</small>
+
+XXXIII.- Promover y fomentar la enseñanza del arte y en particular de las bellas artes, por conocedores o especialistas en la materia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MARZO DE 2020)</small>
+
+XXXIV.- Las demás que establezca la legislación aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2014)</small>
 
@@ -2114,6 +2122,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 26 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 65 DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XXXI Y XXXII, Y ADICIONA LAS FRACCIONES XXXIII Y XXXIV AL ARTÍCULO 8 DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
