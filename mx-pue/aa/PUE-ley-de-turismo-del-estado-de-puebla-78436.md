@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-turismo-del-estado-de-puebla-78436"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2019-11-26"
+last_updated: "2020-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2020.
 
 Ley publicada en la Trigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2010.
 
@@ -263,13 +263,17 @@ XVIII.- Vigilar el cumplimiento de la Ley General, de esta Ley y demás disposic
 
 XIX.- Emitir opiniones a la Secretaría de Turismo Federal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2020)</small>
 
-XX.- Fomentar e implementar la inclusión de las Tecnologías de la Información en materia turística; y
+XX.- Fomentar e implementar la inclusión de las Tecnologías de la Información y comunicación en materia turística;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2020)</small>
 
-XXI.- Las demás previstas en esta Ley y otros ordenamientos aplicables.
+XXI.- Coadyuvar a la aplicación de los instrumentos de política ambiental y de cambio climático, en materia turística; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MARZO DE 2020)</small>
+
+XXII.- Las demás previstas en esta Ley y otros ordenamientos aplicables.
 
 ###### Artículo 14.
 
@@ -1274,6 +1278,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 26 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 89 DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XX Y XXI DEL ARTÍCULO 13, Y ADICIONA LA FRACCIÓN XXII AL 13 DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
