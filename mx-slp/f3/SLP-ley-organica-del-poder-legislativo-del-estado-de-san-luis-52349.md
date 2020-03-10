@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2019-10-22"
+last_updated: "2020-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -263,7 +263,7 @@ I. Nombrar, a propuesta del Ejecutivo, a los magistrados del Supremo Tribunal de
 
 II. Nombrar a un Consejero del Consejo de la Judicatura; y ratificar a los propuestos por los poderes Ejecutivo y Judicial, conforme lo establece la Constitución Política del Estado;
 
-III. Nombrar, a propuesta del Pleno del Supremo Tribunal de Justicia, a los magistrados del Tribunal Electoral;
+III. (DEROGADA, P.O. 10 DE MARZO DE 2020)
 
 IV. Recibir la protesta de los magistrados del Supremo Tribunal de Justicia, de los consejeros del Consejo de la Judicatura del Poder Judicial y del Tribunal Electoral del Poder Judicial del Estado, y
 
@@ -2666,3 +2666,11 @@ P.O. 22 DE OCTUBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0619.- SE DEROGA DEL ARTÍCULO 17 LA FRACCIÓN III, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
