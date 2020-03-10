@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-publica-del-estado-de-puebla-69313"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-15"
-last_updated: "2018-07-25"
+last_updated: "2020-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
 
@@ -193,7 +193,9 @@ III.- La Ley General del Sistema Nacional de Seguridad Pública;
 
 IV.- La Ley Orgánica de la Administración Pública del Estado;
 
-V.- La Ley Orgánica de la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2020)</small>
+
+V.- La Ley Orgánica de la Fiscalía General del Estado de Puebla;
 
 VI.- La Ley Orgánica Municipal;
 
@@ -201,9 +203,17 @@ VII.- Los ordenamientos federales y estatales aplicables;
 
 VIII.- Los acuerdos, convenios y demás instrumentos jurídicos suscritos por la Federación, el Estado y los Municipios;
 
-IX.- Las resoluciones y acuerdos generales que emitan el Consejo Nacional de Seguridad Pública, el Sistema y el Consejo Estatal; y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2020)</small>
 
-X.- Las demás que determine la presente Ley u otros ordenamientos legales aplicables.
+IX.- Las resoluciones y acuerdos generales que emitan el Consejo Nacional de Seguridad Pública, el Sistema y el Consejo Estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2020)</small>
+
+X.- Los protocolos de actuación, atención y prevención que al efecto se emitan; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MARZO DE 2020)</small>
+
+XI.- Las demás que determine la presente Ley u otros ordenamientos legales aplicables.
 
 ###### Artículo 6.
 
@@ -223,7 +233,9 @@ II.- El Titular de la Secretaría de Seguridad Pública;
 
 III.- El Titular de la Secretaría de Gobernación; y
 
-IV.- El Titular de la Procuraduría.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2020)</small>
+
+IV.- El Titular de la Fiscalía General.
 
 ###### Artículo 9.
 
@@ -277,7 +289,9 @@ II.- El Titular de la Secretaría de Seguridad Pública del Estado;
 
 III.- El Titular de la Secretaría de Gobernación del Estado;
 
-IV.- El Titular de la Procuraduría;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2020)</small>
+
+IV.- El Titular de la Fiscalía General;
 
 V.- El Titular de la Secretaría Ejecutiva del Consejo Estatal; y
 
@@ -307,9 +321,17 @@ IX.- Impulsar mecanismos de participación de la sociedad en la evaluación y se
 
 X.- Fijar los criterios de homologación de las medidas de seguridad que garanticen la autenticidad del documento de identificación de las personas integrantes de las Instituciones de Seguridad Pública;
 
-XI.- Preparar, realizar, registrar, difundir y actualizar, en coordinación con las autoridades federales competentes, las investigaciones, estudios multidisciplinarios, estadísticas y mapas incidenciales de los actos delictivos denunciados y no denunciados e incorporar esta variable en el diseño de las políticas en materia de prevención del delito; y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2020)</small>
 
-XII.- Las demás que se establezcan en los ordenamientos legales aplicables.
+XI.- Preparar, realizar, registrar, difundir y actualizar, en coordinación con las autoridades federales competentes, las investigaciones, estudios multidisciplinarios, estadísticas y mapas incidenciales de los actos delictivos denunciados y no denunciados e incorporar esta variable en el diseño de las políticas en materia de prevención del delito;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2020)</small>
+
+XII.- Emitir y difundir los protocolos de actuación y respuesta necesarios para los cuerpos de seguridad pública; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MARZO DE 2020)</small>
+
+XIII.- Las demás que se establezcan en los ordenamientos legales aplicables.
 
 ###### Artículo 15.
 
@@ -389,13 +411,17 @@ XVI.- Participar en la integración del Programa Estatal de Seguridad Pública; 
 
 XVII.- Las demás que las leyes, reglamentos, decretos, acuerdos y convenios le atribuyan, así como las que le designe o delegue el Titular del Ejecutivo o el Sistema.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2020)</small>
 
-XVIII.- Establecer en cada establecimiento penitenciario equipos que permitan bloquear o anular las señales de telefonía celular, de radiocomunicación, o de transmisión de datos o imagen dentro del perímetro de centros de reinserción social y de internamiento especializado para adolescentes; y
+XVIII.- Establecer en cada establecimiento penitenciario equipos que permitan bloquear o anular las señales de telefonía celular, de radiocomunicación, o de transmisión de datos o imagen dentro del perímetro de centros de reinserción social y de internamiento especializado para adolescentes;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2020)</small>
 
-XIX.- Las demás que las leyes, reglamentos, decretos, acuerdos y convenios le atribuyan, así como las que le designe o delegue el Titular del Ejecutivo o el Sistema.
+XIX.- Emitir y difundir los protocolos de actuación y respuesta necesarios para los cuerpos de seguridad pública; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MARZO DE 2020)</small>
+
+XX.- Las demás que las leyes, reglamentos, decretos, acuerdos y convenios le atribuyan, así como las que le designe o delegue el Titular del Ejecutivo o el Sistema.
 
 ###### Artículo 18.
 
@@ -417,9 +443,11 @@ IV.- Coordinar y ejecutar la política, programas y acciones relativas a la cohe
 
 V.- Las demás que las leyes, reglamentos, decretos, acuerdos y convenios le atribuyan, así como las que le designe o delegue el Titular del Ejecutivo o el Sistema.
 
+> <small>(REFORMADO PRIMER PÁRRAFO], P.O. 10 DE MARZO DE 2020)</small>
+
 ###### Artículo 19.
 
-Son atribuciones del Titular de la Procuraduría, en el ámbito de su competencia, las siguientes:
+Son atribuciones del Titular de la Fiscalía General, en el ámbito de su competencia, las siguientes:
 
 I.- Mandar y conducir a las policías en la investigación de los delitos por conducto de la Institución del Ministerio Público;
 
@@ -461,7 +489,9 @@ El Consejo Estatal, en el ámbito de su competencia, es la instancia encargada d
 
 El Consejo Estatal tendrá las atribuciones siguientes:
 
-I.- Proponer al interior del Sistema los anteproyectos de reformas a leyes y reglamentos en materia de seguridad pública;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2020)</small>
+
+I. Proponer al interior del Sistema los anteproyectos de reformas a leyes y reglamentos en materia de seguridad pública, así como los protocolos de actuación y respuesta necesarios;
 
 II.- Elaborar programas y celebrar convenios específicos en materia de seguridad pública;
 
@@ -499,9 +529,17 @@ Son atribuciones de los Ayuntamientos:
 
 I.- Garantizar, en el Municipio respectivo, el acceso de las personas a la función de seguridad pública, expidiendo para el efecto los bandos de policía y gobierno, así como los reglamentos correspondientes;
 
-II.- Acordar la celebración de convenios o acuerdos de coordinación o en su caso de asunción de atribuciones con el Estado y otros Municipios; y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2020)</small>
 
-III.- Las demás que le asignen los ordenamientos legales.
+II.- Acordar la celebración de convenios o acuerdos de coordinación o en su caso de asunción de atribuciones con el Estado y otros Municipios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2020)</small>
+
+III.- Difundir e implementar en el ámbito de sus respectivas competencias los protocolos de actuación y respuesta necesarios; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MARZO DE 2020)</small>
+
+IV.- Las demás que le asignen los ordenamientos legales.
 
 ###### Artículo 23.
 
@@ -643,7 +681,9 @@ I.- El Titular de la Secretaría de Gobernación del Estado, quien lo presidirá
 
 II.- El Titular de la Secretaría de Seguridad Pública del Estado;
 
-III.- El Titular de la Procuraduría; y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2020)</small>
+
+III.- El Titular de la Fiscalía General; y
 
 IV.- El Titular de la Secretaría Ejecutiva del Consejo Estatal.
 
@@ -655,7 +695,9 @@ I.- Realizar reuniones los días y horas que el propio Comité Interno determine
 
 II.- Designar a los servidores públicos de sus respectivas dependencias, quienes deberán asistir a las reuniones de dicho Comité;
 
-III.- Invitar a sus reuniones, por conducto del Titular de la Secretaría de Gobernación, a los representantes en el Estado de las Fuerzas Armadas, Procuraduría General de la República, Policía Federal y demás servidores públicos de las dependencias y entidades federales, estatales y municipales que estime conveniente y cuyas actividades estén relacionadas con la seguridad pública en el Estado;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2020)</small>
+
+III.- Invitar a sus reuniones, por conducto del Titular de la Secretaría de Gobernación, a los representantes en el Estado de las Fuerzas Armadas, Fiscalía General de la República, Policía Federal y demás servidores públicos de las dependencias y entidades federales, estatales y municipales que estime conveniente y cuyas actividades estén relacionadas con la seguridad pública en el Estado;
 
 IV.- Recibir y analizar los reportes o informes de las dependencias o participantes, sobre la situación que guarda la seguridad pública en el Estado y de los acontecimientos y actividades que puedan incidir en la misma, a fin de implementar lo conducente;
 
@@ -729,9 +771,17 @@ XXV.- Abstenerse de consumir en las instalaciones de sus instituciones o en acto
 
 XXVI.- Abstenerse de realizar conductas que desacrediten su persona o la imagen de las instituciones, dentro o fuera del servicio;
 
-XXVII.- No permitir que personas ajenas a sus Instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio; y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2020)</small>
 
-XXVIII.- Los demás que establezcan las disposiciones legales aplicables.
+XXVII.- No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2020)</small>
+
+XXVIII.- Implementar los protocolos de actuación y respuesta necesarios que para cada caso existan; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MARZO DE 2020)</small>
+
+XXIX.- Los demás que establezcan las disposiciones legales aplicables.
 
 ###### Artículo 35.
 
@@ -881,9 +931,11 @@ VIII.- La revalidación de equivalencias de estudios de la Profesionalización e
 
 IX.- Las demás que establezcan otras disposiciones legales.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2020)</small>
+
 ###### Artículo 41.
 
-El Servicio de Carrera Ministerial, Pericial y Policial Ministerial atenderá lo dispuesto en la Ley Orgánica de la Procuraduría.
+El Servicio de Carrera Ministerial, Pericial y Agentes Investigadores atenderá lo dispuesto en la Ley Orgánica de la Fiscalía General del Estado de Puebla.
 
 ## TÍTULO CUARTO. DEL DESARROLLO POLICIAL
 
@@ -921,9 +973,13 @@ III.- Reacción: Encargada de garantizar, mantener y restablecer el orden y la p
 
 Corresponde al Ministerio Público el mando y conducción de las policías que realicen funciones de investigación de los delitos.
 
-La policía especializada en la investigación científica de los delitos será la Ministerial y estará ubicada en la estructura orgánica de la Procuraduría.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2020)</small>
 
-La Policía Ministerial, se sujetará a lo dispuesto en el presente Título, quedando a cargo de la Procuraduría la aplicación de las normas, supervisión y operación de los procedimientos relativos al desarrollo policial.
+La policía especializada en la investigación científica de los delitos será la Ministerial y estará ubicada en la estructura orgánica de la Fiscalía.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2020)</small>
+
+La Policía Ministerial, se sujetará a lo dispuesto en el presente Título, quedando a cargo de la Fiscalía la aplicación de las normas, supervisión y operación de los procedimientos relativos al desarrollo policial.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1771,9 +1827,17 @@ Los cargos de sus integrantes serán honoríficos, debiendo garantizar la integr
 
 El Sistema, en ejecución a los acuerdos y convenios celebrados entre la Federación, Estado y Municipios, contará con un servicio de comunicación que reciba los reportes de la comunidad sobre las emergencias y denuncias de que tenga conocimiento; el que tendrá comunicación directa con las Instituciones de Seguridad Pública, de salud, de protección civil y de asistencia social.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2020)</small>
+
 ###### Artículo 134.
 
-El Sistema, a través del Consejo Estatal, impulsará las acciones necesarias para coordinarse con el Centro Nacional de Prevención del Delito y Participación Ciudadana, con el fin de coadyuvar en el servicio para la localización de personas y bienes.
+El Sistema, a través del Consejo Estatal, impulsará las acciones necesarias para coordinarse con el Centro Nacional de Prevención del Delito y Participación Ciudadana con el fin de coadyuvar en el servicio para la localización de personas y bienes, debiendo de manera enunciativa más no limitativa:
+
+I.- Difundir, implementar y capacitar a los integrantes del sistema, a los servidores públicos, particulares y prestadores de servicios, respecto de la aplicación de los protocolos de actuación y respuesta necesarios que se adopten o emitan al respecto; y
+
+II.- Las demás que sean necesarias, para lograr la pronta ubicación de las niñas, niños, adolescentes y personas adultas mayores que se extravíen.
+
+Para el caso de extravío o desaparición de menores y personas en situación de vulnerabilidad, deberán implementarse sistemas de alerta y protocolos de acción inmediata para su búsqueda y localización, en el que coadyuven con los integrantes del sistema, las corporaciones de emergencia, medios de comunicación, prestadores de servicios de telecomunicaciones, organizaciones no gubernamentales y ciudadanía en general.
 
 ###### Artículo 135.
 
@@ -1783,9 +1847,17 @@ I.- Atención a las denuncias en forma pronta y expedita;
 
 II.- Atención jurídica, médica y psicológica especializada;
 
-III.- Medidas de protección a la víctima; y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2020)</small>
 
-IV.- Aquéllas que en casos concretos sea necesario considerar en los términos del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
+III.- Medidas de protección a la víctima;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2020)</small>
+
+IV.- Difusión, capacitación e implementación de los protocolos de actuación y respuesta necesarios; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MARZO DE 2020)</small>
+
+V.- Aquellas que en casos concretos sea necesario considerar en los términos del Artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1813,13 +1885,17 @@ Corresponde a la Secretaría de Seguridad Pública implementar las medidas condu
 
 El servicio de seguridad personal se proporcionará al ex Gobernador del Estado a partir de la fecha en que deje el cargo y será por el tiempo que el ex Gobernador lo solicite por escrito.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2020)</small>
 
 ###### Artículo 139.
 
-El servicio de seguridad personal se proporcionará a través de una escolta que será de ocho elementos por turno, los cuales podrán ser revisados y disminuidos a seis una vez que haya transcurrido un plazo equivalente al doble del periodo por el que se ejerció el cargo. Deberán ser servidores públicos con experiencia en la materia y estar adscritos a la Secretaría de Seguridad Pública o a la Procuraduría General de Justicia.
+El servicio de seguridad personal se proporcionará a través de una escolta que será de ocho elementos por turno, los cuales podrán ser revisados y disminuidos a seis una vez que haya transcurrido un plazo equivalente al doble del período por el que se ejerció el cargo. Deberán ser servidores públicos con experiencia en la materia y estar adscritos a la Secretaría de Seguridad Pública o a la Fiscalía General del Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 El ex Gobernador correspondiente participará en la selección de los elementos que conformarán su escolta.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 El jefe de escolta será quien tenga mayor rango y en el supuesto de que tengan igual jerarquía, el que tenga mayor antigüedad en la institución.
 
@@ -1849,11 +1925,11 @@ Los recursos humanos y materiales asignados al servicio de seguridad personal se
 
 Para el eficaz desempeño de la prestación de los servicios de seguridad personal, se deberán prever los recursos necesarios en el Presupuesto de Egresos del Estado para cada ejercicio fiscal.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2020)</small>
 
 ###### Artículo 143.
 
-El Secretario de Seguridad Pública podrá solicitar el apoyo de la Procuraduría General de Justicia y demás instancias estatales que tengan a su cargo funciones de seguridad, para que en el ámbito de su competencia, colaboren en el otorgamiento de las medidas de seguridad personal al ex servidor público a que se refiere este Capítulo.
+El Secretario de Seguridad Pública podrá solicitar el apoyo de la Fiscalía General del Estado de Puebla y demás instancias estatales que tengan a su cargo funciones de seguridad, para que en el ámbito de su competencia, colaboren en el otorgamiento de las medidas de seguridad personal al ex servidor público a que se refiere este Capítulo.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE JULIO DE 2018)</small>
 
@@ -2302,3 +2378,11 @@ Hasta en tanto no se expida y publique el reglamento a que se refiere el párraf
 SEXTO. Todas las referencias a la Procuraduría General de Justicia del Estado se entenderán realizadas a la Fiscalía General del Estado de Puebla, en términos de lo establecido por (sic) Ley Orgánica de la Fiscalía General del Estado de Puebla.
 
 SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
