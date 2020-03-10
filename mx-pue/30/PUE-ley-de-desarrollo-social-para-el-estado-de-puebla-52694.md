@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-social-para-el-estado-de-puebla-52694"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-18"
-last_updated: "2019-11-08"
+last_updated: "2020-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2020.
 
 Ley publicada en la Cuarta Sección al Periódico Oficial del Estado de Puebla, el lunes 18 de diciembre de 2006.
 
@@ -286,6 +286,30 @@ Las Dependencias y Entidades de la Administración Pública Estatal y los Ayunta
 ###### Artículo 19.
 
 La publicidad y la información relativa a los Programas Estatales de Desarrollo Social, deberán identificarse con el Escudo del Estado de Puebla e incluir la siguiente leyenda: "Este programa es de carácter público, ajeno a cualquier partido político. Queda prohibido su uso para fines distintos al Desarrollo Social".
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2020)</small>
+
+###### Artículo 19 Bis.
+
+Los programas sociales estatales y municipales, descritos en el artículo 4 de la presente Ley, se sujetarán a lo siguiente:
+
+I. En la planeación de la entrega y gestión del recurso público, deben estar contemplados mecanismos de difusión pública, evitando que su entrega sea de forma discrecional, el gasto en difusión a través de publicidad debe ser suficiente y eficiente.
+
+II. Para la difusión pública se considerarán los factores de cada Municipio, población o localidad donde tenga objeto su aplicación, pero no podrá ser menor a los siguientes requisitos:
+
+a) Se colocará un extracto del programa social en un lugar visible en el inmueble donde residan los Ayuntamientos y las Juntas Auxiliares.
+
+b) El extracto debe señalar al menos los requisitos, el número de beneficiarios y el proceso para ser beneficiario del programa social, la forma en que se aprobará a los candidatos, los puntos a calificar como prioritarios para su selección, y el día en que se darán a conocer los beneficiarios.
+
+c) El extracto debe publicarse con un mínimo de treinta días naturales previos a los trámites necesarios para ser beneficiario del programa.
+
+d) Si se trata de una localidad o comunidad que por vías de acceso o sus particularidades no sea conveniente la difusión pública en el inmueble donde resida el Ayuntamiento o Junta Auxiliar, la publicidad deberá colocarse en el lugar más accesible y de mejor vista para buscar una mayor eficacia.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2020)</small>
+
+###### Artículo 19 Ter.
+
+La publicación deberá hacerse en la lengua de la comunidad donde radiquen los beneficiarios del programa.
 
 ### CAPÍTULO II. DEL FINANCIAMIENTO Y EL GASTO
 
@@ -784,6 +808,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III, V Y VI, Y ADICIONA LA FRACCIÓN VII, TODAS DEL ARTÍCULO 12 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan aquellas disposiciones que se opongan a lo previsto en el presente Decreto.
+
+P.O. 10 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LOS ARTÍCULOS 19 BIS Y 19 TER A LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
