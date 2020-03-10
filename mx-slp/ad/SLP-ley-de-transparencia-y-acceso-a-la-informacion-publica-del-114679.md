@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2019-11-26"
+last_updated: "2020-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1215 +21,913 @@ state: "SLP"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-LEY ORGÁNICA DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2020.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
+Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
-Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el lunes 18 de agosto de 2003.
+Poder Legislativo del Estado
 
-PABLO SALAZAR MENDIGUCHIA, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, A SUS HABITANTES HACE SABER: QUE LA HONORABLE SEXAGESIMA PRIMERA LEGISLATURA DEL MISMO, SE HA SERVIDO DIRIGIR AL EJECUTIVO A SU CARGO EL SIGUIENTE:
+Juan Manuel Carreras López, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
 
-DECRETO NUMERO 205
+DECRETO 0217
 
-LA HONORABLE SEXAGESIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, EN USO DE LAS FACULTADES QUE LE CONCEDE LA CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS; Y CON BASE EN LOS SIGUIENTES:
+La Sexagésima Primera Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí
 
-ANTECEDENTES
+Decreta
 
-QUE CON FECHA VEINTIDOS DE ABRIL DEL PRESENTE AÑO DOS MIL TRES, NUESTRO MAS ALTO TRIBUNAL DE LA REPUBLICA, RESOLVIO LA ACCION DE INCONSTITUCIONALIDAD 36/2001, Y EN CUYA RESOLUCION DECLARO LA INVALIDEZ DE LOS DECRETOS 235, 236, 237 Y 238, PUBLICADOS EN EL PERIODICO OFICIAL DEL ESTADO LOS DIAS VEINTITRES Y VEINTICINCO DEL MES DE OCTUBRE DEL AÑO DOS MIL UNO, DECRETOS ESTOS POR LOS CUALES SE HABIA REFORMADO Y ADICIONADO DIVERSAS DISPOSICIONES DE LA CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS, DE LA LEY ORGANICA Y DEL REGLAMENTO INTERIOR DEL H. CONGRESO DEL ESTADO Y SE EMITIO LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO.
+EXPOSICIÓN DE MOTIVOS.
 
-ANTE LA INVALIDEZ DE LOS DECRETOS REFERIDOS Y PARA EFECTOS DE NO CREAR UN VACIO EN EL ORDEN JURIDICO DEL ESTADO, EL PROPIO ORGANO DE JUSTICIA CONSTITUCIONAL, DISPUSO QUE EL CONGRESO DEL ESTADO DE CHIAPAS, EN EJERCICIO DE SUS ATRIBUCIONES Y EN LIBERTAD DE SOBERANIA, DENTRO DEL PERIODO COMPRENDIDO DEL DIECIOCHO DE MAYO AL DIECIOCHO DE AGOSTO DEL AÑO QUE TRANSCURRE, DEBERIA REALIZAR LAS ADECUACIONES CONSTITUCIONALES Y LEGALES CONDUCENTES.
+El 4 de mayo de 2015 se promulgó la Ley General de Transparencia y Acceso a la Información Pública, la cual, dentro de su Artículo Quinto Transitorio señala el plazo de un año contado a partir de su entrada en vigor, para que las legislaturas de los estados armonicen las leyes relativas conforme a lo establecido en la misma.
 
-EN ESTE CONTEXTO, DIVERSOS GRUPOS PARLAMENTARIOS Y DIPUTADOS QUE INTEGRAN ESTA LEGISLATURA PRESENTARON EN SU OPORTUNIDAD Y SEPARADAMENTE, SENDAS INICIATIVAS DE REFORMAS A LA CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS, CON EL PROPOSITO DE CUMPLIMENTAR LAS CONSIDERACIONES Y RESOLUTIVOS EMITIDOS POR LA SUPREMA CORTE DE JUSTICIA DE LA NACION.
+Actualmente la Ley de Transparencia y Acceso a la Información Pública del Estado se ha constituido como una herramienta efectiva, por la cual se da un fuerte impulso al derecho de acceso a la información en la Entidad, coadyuvando con ello en la construcción de una sociedad cada vez más inmersa y participativa en el escrutinio de los asuntos del Estado; incidiendo directamente en la rendición de cuentas, así como en la disminución del impacto negativo que tienen la falta de transparencia, y la corrupción.
 
-TALES INICIATIVAS DE REFORMAS A LA CONSTITUCION POLITICA DEL ESTADO, REFERIAN MEDULARMENTE A ESTABLECER LA FORMA DE GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE CHIAPAS, Y DE LAS FUNCIONES DE FISCALIZACION DEL GASTO PUBLICO DE LAS ENTIDADES DEL GOBIERNO DEL ESTADO Y LOS MUNICIPIOS DE CHIAPAS, POR LO QUE, ANTE LO INTRINSECO DE SU RELACION, FUERON DICTAMINADAS CONJUNTAMENTE POR ESTAS MISMAS COMISIONES UNIDAS DE GOBERNACION Y PUNTOS CONSTITUCIONALES, Y DE REGLAMENTACION Y PRACTICAS PARLAMENTARIAS, EL DIA CATORCE DE AGOSTO DEL AÑO EN CURSO POR UNANIMIDAD DE SUS MIEMBROS.
+En este sentido, con esta nueva Ley de Transparencia y Acceso a la Información Pública que se expide, no se pretende desconocer los avances obtenidos con la ley actual, sino que éstos se constituyan en el punto de partida para extender y fortalecer los beneficios de la transparencia y el acceso a la información en el Estado.
 
-EN CONSECUENCIA, Y ACORDE AL PROCEDIMIENTO LEGISLATIVO PREVISTO EN LA CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS, HABIENDOSE OBTENIDO LA APROBACION EXPRESA DE LA MAYORIA DE LOS AYUNTAMIENTOS DEL ESTADO, EL PLENO DE ESTA SOBERANIA POPULAR, DECLARO REFORMADOS LOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS, SOBRE LOS CUALES VERSARON LAS APUNTADAS INICIATIVAS, INICIANDO LA VIGENCIA DE DICHAS REFORMAS AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+Con esta nueva Ley, se establecen y adecuan los criterios señalados en la Ley General, incorporando los aspectos mínimos para la protección del derecho al acceso a la información, así como de las obligaciones que señala en materia de transparencia, con el objetivo de homologar con la Federación y los estados, las reglas, principios, bases, procedimientos y mecanismos en el ejercicio del derecho humano que se norma y, con ello, lograr que sea igual para todos, esto sin dejar de lado que sujetándose a las reglas mínimas que establece el ordenamiento general de transparencia, la nueva norma no se aparta de atender los aspectos propios de la realidad social del Estado, adecuándola, pero nunca reduciendo sus postulados.
 
-EN ESTE TENOR, Y AL HABERSE REFORMADO LOS ARTICULOS 15, 20, 21, 24, 29, 30 Y 83, DE LA NORMA FUNDAMENTAL DEL ESTADO Y QUE A EXCEPCION DEL ULTIMO DE LOS ARTICULOS SEÑALADOS, TODOS TIENDEN A REGULAR LA ORGANIZACION, FUNCIONAMIENTO Y ATRIBUCIONES DE ESTE CONGRESO DEL ESTADO DE CHIAPAS, RESULTA OPORTUNO Y NECESARIO DAR CUMPLIMIENTO AL ARTICULO SEGUNDO TRANSITORIO DE LAS REFORMAS CONSTITUCIONALES EN COMENTO, QUE PRECISA QUE "TAN LUEGO COMO SE OBTENGA LA APROBACION DE LA MAYORIA DE LOS AYUNTAMIENTOS, EL CONGRESO DEL ESTADO EXPEDIRA LA LEY ORGANICA DEL CONGRESO Y LA LEY DEL ORGANO DE FISCALIZACION SUPERIOR".
+Se desarrollan las disposiciones que homologan el ejercicio del derecho de acceso a la información, así como la uniformidad respecto de los deberes de transparencia que tienen los sujetos obligados de los distintos órdenes de gobierno.
 
-DE CONFORMIDAD CON LOS ANTECEDENTES RELATADOS Y DE CONFORMIDAD CON LAS SIGUIENTES:
+Con esta ley se contemplan puntualmente los principios con los cuales la Comisión Estatal de Garantía y Acceso a la Información Pública deberá regir su funcionamiento; además de establecer los que en el ejercicio, tramitación e interpretación de la presente Ley, los sujetos obligados y la CEGAIP deberán atender.
 
-CONSIDERACIONES
+Se señalan y adicionan sujetos obligados a transparentar y permitir el acceso a su información y proteger los datos personales que obren en su poder, adicionando además de cualquier autoridad, entidad, órgano y organismo de los poderes, Ejecutivo; Legislativo; y Judicial; órganos autónomos; partidos políticos; los fideicomisos y fondos públicos; así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en los ámbitos estatal y municipal.
 
-EL CONGRESO DEL ESTADO DE CHIAPAS, CON LA PARTICIPACION ACTIVA DE LOS CUARENTA DIPUTADOS QUE INTEGRAN ESTA SEXAGESIMA PRIMERA LEGISLATURA, LOGRO EL CONSENSO PARLAMENTARIO PARA APROBAR POR UNANIMIDAD LAS REFORMAS A LA CONSTITUCION POLITICA DEL ESTADO, REFORMAS QUE TRATAN PRINCIPALMENTE DE LA ORGANIZACION Y FUNCIONAMIENTO DE ESTE ORGANO SOBERANO.
+Con la expedición de la Ley Local de Transparencia se busca fortalecer la rendición de cuentas y tiene como finalidad coordinar y evaluar las acciones relativas a la política pública transversal de transparencia y acceso a la información pública, así como establecer e implementar los criterios y lineamientos, de conformidad con lo señalado en la Ley General por lo que este ordenamiento regula la competencia, organización y funciones de la CEGAIP en relación al Sistema Nacional armonizando las bases de coordinación con el mismo.
 
-QUE EN EL ESFUERZO REALIZADO POR TODOS LOS LEGISLADORES LOCALES, REFLEJANDO LAS DIFERENCIAS NATURALES DERIVADAS DE LA PROPIA COYUNTURA QUE DIO ORIGEN A LAS REFORMAS A NUESTRA NORMA FUNDAMENTAL EN DETERMINADO PLAZO Y CIRCUNSTANCIAS Y ATENDIENDO A LAS CARACTERISTICAS HETEROGENEAS EN LA COMPOSICION DE ESTA LEGISLATURA, LOGRO LOS ACUERDOS NECESARIOS PROPIOS DE LOS SISTEMAS PARLAMENTARIOS Y DEMOCRATICOS DEL MUNDO, LLEGANDOSE A UNA REFORMA INTEGRAL Y CONGRUENTE PARA LA ORGANIZACION DE ESTE CONGRESO DEL ESTADO.
+En relación a la reforma constitucional en materia de transparencia de febrero del 2014, se define a la CEGAIP como el organismo autónomo, especializado, imparcial y colegiado; responsables de garantizar el derecho de acceso a la información y de protección de datos personales en posesión de los sujetos obligados, conforme a los principios y bases establecidos por el artículo 6o. de esta Constitución, la ley general emitida por el Congreso de la Unión y la fracción III del artículo 17 de la Constitución Política del Estado de San Luis Potosí para fijar las bases, principios generales y procedimientos del ejercicio de este derecho y determinar lo relativo a su estructura y funciones; así como la integración, duración del cargo, requisitos, procedimiento de selección, régimen de incompatibilidades, excusas, renuncias, licencias y suplencias de los integrantes de la misma, de conformidad con lo señalado en el Capítulo II del Título II de la Ley General.
 
-LOS LEGISLADORES EN DIVERSAS REUNIONES DE TRABAJO LLEVADAS A CABO PARA LOGRAR LAS REFORMAS CONSTITUCIONALES, EXPUSIERON SU VOLUNTAD DE MODERNIZAR LA ESTRUCTURA Y FUNCIONAMIENTO DE ESTE CUERPO COLEGIADO, BUSCANDO PARA TAL FIN HOMOLOGARLO AL SISTEMA ADOPTADO POR EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, EN TODO AQUELLO QUE RESPONDIERA A LAS PARTICULARIDADES DE NUESTRO ORDEN JURIDICO, A LOS AVANCES DEL DERECHO COMPARADO PARLAMENTARIO Y A LAS NECESIDADES PROPIAS DE NUESTRO CONTEXTO POLITICO.
+Se amplían las funciones y mecanismos de los comités y unidades de transparencia de los sujetos obligados como responsables en materia de transparencia; además de adicionar con el mismo carácter dentro de esta Ley, al Consejo Consultivo de la CEGAIP, integrado por consejeros honoríficos, con facultades para opinar sobre el programa anual de trabajo del órgano garante estatal y su cumplimiento; opinar sobre su proyecto de presupuesto; conocer el informe de la CEGAIP sobre el presupuesto asignado a programas y el ejercicio presupuestal y formular las observaciones correspondientes; emitir opiniones no vinculantes, a petición de la CEGAIP o por iniciativa propia, sobre temas relevantes en las materias de transparencia, acceso a la información, accesibilidad y protección de datos personales; dar opiniones técnicas para la mejora continua en el ejercicio de las funciones sustantivas de la CEGAIP; opinar sobre la adopción de criterios generales en materia sustantiva; así como analizar y proponer la ejecución de programas, proyectos y acciones relacionadas con la materia de transparencia y acceso a la información y su accesibilidad.
 
-QUE LAS COMISIONES DICTAMINADORAS CONSIDERARON PERTINENTE REALIZAR MODIFICACIONES A LA INICIATIVA DE LEY ORGANICA DEL H. CONGRESO DEL ESTADO, CON EL OBJETO DE QUE EXISTA CONCORDANCIA CON LAS REFORMAS LLEVADAS A CABO A LA CONSTITUCION POLITICA DEL ESTADO, PUBLICADAS EN EL PERIODICO OFICIAL DEL ESTADO DEL 17 DE AGOSTO DEL DOS MIL TRES, Y RETOMANDO DIVERSAS APORTACIONES DE LOS DIPUTADOS QUE INTEGRAN LA LEGISLATURA.
+La CEGAIP se adaptará y coordinará en lo relativo a la Plataforma Nacional de Transparencia a efecto de cumplir con los procedimientos, obligaciones y disposiciones señaladas en la Ley y demás normatividad aplicable para los sujetos obligados y organismos garantes, de conformidad con el marco normativo que establezca el Sistema Nacional, y estará a lo que dispone la Ley General de Transparencia.
 
-EN ESTE TENOR, SE MODIFICARON AQUELLOS PRECEPTOS QUE TRATAN LO RELATIVO A LA MESA DIRECTIVA DEL CONGRESO DEL ESTADO, A EFECTOS DE QUE EN ESTA LEY SECUNDARIA, AL IGUAL QUE LA NORMA FUNDAMENTAL, PRECISE QUE PARA LA ELECCION DE LOS MIEMBROS DE ESTA INSTITUCION PARLAMENTARIA SE REQUIERA LA APROBACION DE LAS DOS TERCERAS PARTES DEL TOTAL DE LOS QUE INTEGRAN EL ORGANO SOBERANO, QUE LOS DIPUTADOS QUE SE ELIJAN DURARAN EN EL ENCARGO SEIS MESES CONSECUTIVOS, Y QUE A LA VEZ, DICHA MESA DIRECTIVA EN LOS PERIODOS DE RECESOS DEL CONGRESO DEL ESTADO, SIN MAS TRAMITE SE CONSTITUIRA EN LA COMISION PERMANENTE.
+Se contempla un título relativo al fomento de la cultura de transparencia y apertura gubernamental, donde se establece que los sujetos obligados deberán cooperar con los organismos garantes competentes para capacitar y actualizar, de forma permanente, a todos sus servidores públicos en materia del derecho de acceso a la información, a través de los medios que se consideren más adecuados, para lo cual, con el objeto de crear una cultura de la transparencia y acceso a la información entre los habitantes del Estado, la CEGAIP deberá promover, en colaboración con instituciones educativas y culturales del sector público o privado, actividades, mesas de trabajo, exposiciones y concursos relativos a la transparencia y acceso a la información; además de que este organismo garante deberá colaborar con los sujetos obligados y representantes de la sociedad civil, en la implementación de mecanismos de colaboración para la promoción e implementación de políticas y mecanismos de apertura gubernamental.
 
-IGUALMENTE, SE PREVE QUE EL PRESIDENTE DE LA MESA DIRECTIVA DEL CONGRESO DEL ESTADO SERA INTEGRANTE DE LA JUNTA DE COORDINACION POLITICA, POR LO QUE SE INTEGRA CON VOZ PERO SIN VOTO.
+Se establecen las obligaciones mínimas de transparencia comunes y específicas a los sujetos obligados, las cuales en relación a la ley que se abroga, se amplían de manera cuantitativa y cualitativa, lo cual presupone el deber de los órganos e instancias del Estado de informar, de manera permanente, completa, actualizada, oportuna y pertinente, sobre sus actividades, funciones, ejercicio del gasto público y resultados, a fin de permitir mostrar a la ciudadanía la información que deriva del quehacer público de forma proactiva.
 
-ASIMISMO, PARA EFECTOS DE OTORGAR MAYOR CERTEZA AL EJERCICIO PARLAMENTARIO, ES MENESTER DEJAR ASENTADO EN LA LEY, LOS DIAS Y HORAS EN QUE DE MANERA ORDINARIA DEBERAN REUNIRSE Y SESIONAR LA JUNTA DE COORDINACION POLITICA, LA MESA DIRECTIVA DEL CONGRESO DEL ESTADO Y LA COMISION PERMANENTE, SIN MENOSCABO A LAS QUE DE MANERA EXTRAORDINARIA ACUERDEN REALIZAR TALES ENTES COLEGIADOS.
+Se fijan en esta nueva Ley las disposiciones generales de la clasificación y desclasificación de la información pública, señalando con puntualidad los casos en que podrá clasificarse y desclasificarse la información como reservada o confidencial; se constituyen además los procedimientos de acceso a la información pública, en armonía a los parámetros mínimos que establece la Ley General.
 
-POR OTRO LADO, SE APRECIA QUE EL DECRETO QUE NOS OCUPA, EN LO RELATIVO AL OTORGAMIENTO DE SERVICIOS DE SEGURIDAD SOCIAL A LOS TRABAJADORES DEL CONGRESO DEL ESTADO, ES CONVENIENTE ASENTAR LA POSIBILIDAD DE CONVENIR CON CUALQUIERA OTRA ENTIDAD PUBLICA, CON EL OBJETO DE PODER ESTABLECER CONVENIOS SOBRE LA MATERIA QUE MAYOR BENEFICIEN TANTO A LOS TRABAJADORES COMO AL ORGANO SOBERANO, EN LOS ASPECTOS DE EFICIENCIA, ECONOMIA, OPORTUNIDAD Y EFICACIA.
+Por último, se fundan los procedimientos de impugnación en la materia, a través del recurso de revisión, además de las medidas de apremio y sanciones que la CEGAIP, en el ámbito de su competencia, podrá imponer para asegurar el cumplimiento de sus determinaciones. Estos mecanismos de defensa en favor de los usuarios del derecho al acceso a la información, constituyen una nueva relación entre los órganos garantes de la Federación y la CEGAIP, abriendo una nueva dinámica de competencias, el Instituto como órgano revisor, como instancia de alzada administrativa respecto a las impugnaciones en favor de los solicitantes de información.
 
-EN LO GENERAL, LA PRESENTE LEY ORGANICA DEL CONGRESO DEL ESTADO, EN ESENCIA HOMOLOGA NUESTRO SISTEMA Y PRACTICAS PARLAMENTARIAS A LAS ADOPTADAS POR EL CONGRESO FEDERAL, CON LAS CARACTERISTICAS PROPIAS DE UN CONGRESO LOCAL, Y A LAS REALIDADES DE NUESTRO ESTADO.
+ÚNICO. Se EXPIDE la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, para quedar como sigue
 
-EN ESTA TESITURA, ES NUESTRA OPINION QUE EL PRESENTE DECRETO ACOGE LAS INQUIETUDES DE LOS INTEGRANTES DE ESTA LEGISLATURA Y CONSTITUYE UN LOABLE EJERCICIO DE MODERNIZACION DE LOS ORGANOS E INSTITUCIONES PARLAMENTARIAS EN ESE CUERPO COLEGIADO. BASTE SEÑALAR EL OTORGAMIENTO QUE DE VERDADERAS ATRIBUCIONES DE REPRESENTACION JURIDICA Y POLITICA SE CONFIEREN DE LA MESA DIRECTIVA Y LA TRASCENDENTE DETERMINACION DE FIJAR LA DURACION DE LA MESA DIRECTIVA POR SEIS MESES DENTRO DEL AÑO LEGISLATIVO Y QUE LA MISMA SE CONSTITUYA EN COMISION PERMANENTE; LA CONFORMACION DE UN NUEVO ORGANO DE DIRECCION POLITICA Y ADMINISTRATIVA EN LA DENOMINADA JUNTA DE COORDINACION POLITICA, EN LA QUE PARTICIPARIAN TODOS LOS GRUPOS PARLAMENTARIOS CONSTITUIDOS AL INTERIOR DE LA LEGISLATURA; LA CREACION DE LA SECRETARIA DE SERVICIOS PARLAMENTARIOS, DE LA SECRETARIA DE SERVICIOS ADMINISTRATIVOS Y DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS, COMO FIGURAS NOVEDOSAS PROCURAN LA PROFESIONALIZACION Y EFICIENCIA DE LA ACTIVIDAD PARLAMENTARIA, FORTALECIDA CON LA IMPLEMENTACION DEL SERVICIO CIVIL DE CARRERA COMO COMPONENTE FUNDAMENTAL EN LA ORGANIZACION TECNICA Y ADMINISTRATIVA DEL CUERPO COLEGIADO, REPRESENTA TODO ELLO UN GRAN PASO EN EL EJERCICIO PARLAMENTARIO DEL ESTADO DE CHIAPAS.
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-EN CUANTO A LAS DISPOSICIONES TRANSITORIAS ABORDAN LO RELATIVO A LA INSTALACION DE LA MESA DIRECTIVA Y DE LA JUNTA DE COORDINACION POLITICA, PARA REMITIRLO TEXTUALMENTE A LO PREVISTO PARA TALES CASOS EN EL ARTICULO CUARTO TRANSITORIO DEL DECRETO QUE REFORMO LA CONSTITUCION POLITICA DEL ESTADO; Y EN CUANTO A LA REESTRUCTURACION ORGANICA Y ADMINISTRATIVA, RESULTA CONVENIENTE QUE SE PRECISE EL PROCEDIMIENTO DE DESIGNACION DE LOS TITULARES DE LA NUEVA ESTRUCTURA ORGANICA, SEÑALANDO QUE TALES DESIGNACIONES DEBERAN REALIZARSE EN UN TERMINO NO MAYOR DE QUINCE DIAS, PREVIA PROPUESTA QUE CON RESPECTO A LOS ASPIRANTES, REALICE LA JUNTA DE COORDINACION POLITICA.
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-POR LAS CONSIDERACIONES ANTERIORES Y CON LOS FUNDAMENTOS EXPUESTOS, LA SEXAGESIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, TIENE A BIEN EXPEDIR EL PRESENTE:
+### Capítulo I. Objeto de la Ley
 
-DECRETO DE
+###### ARTÍCULO 1°.
 
-LEY ORGANICA DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
+La presente Ley es de orden público y de observancia general en el Estado de San Luis Potosí. Este Ordenamiento es reglamentario de la fracción III del artículo 17 de la Constitución Política del Estado, y acorde a lo previsto en el artículo 6° de la Constitución Política de los Estados Unidos Mexicanos, y la Ley General de Transparencia y Acceso a la Información Pública.
 
-## TITULO PRIMERO
+Tiene por objeto transparentar el ejercicio de la función pública y establecer los principios, bases generales y procedimientos para garantizar a toda persona el derecho humano de acceso a la información en posesión de cualquier autoridad, entidad, órgano y organismo de los poderes, Legislativo; Ejecutivo; y Judicial; organismos autónomos; partidos políticos; fideicomisos y fondos públicos; así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal.
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2019)</small>
 
-###### ARTICULO 1.
+La Ley General de Transparencia y Acceso a la Información Pública, los lineamientos que determine el Sistema Nacional de Transparencia, la Constitución Política del Estado de San Luis Potosí, la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí, el Código Procesal Administrativo para el Estado de San Luis Potosí, y demás disposiciones relacionadas con el derecho de acceso a la información y la protección de datos personales, se aplicarán de manera supletoria en lo no previsto por esta Ley.
 
-1. EL PODER LEGISLATIVO DEL ESTADO SE DEPOSITA EN UNA ASAMBLEA DE REPRESENTANTES DEL PUEBLO QUE SE DENOMINARA "CONGRESO DEL ESTADO", QUE ESTARA INTEGRADO Y TENDRA LAS ATRIBUCIONES QUE SEÑALA LA CONSTITUCION POLITICA DEL ESTADO.
+###### ARTÍCULO 2°.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+Son objetivos de esta Ley:
 
-2. TENDRA LA ORGANIZACION Y FUNCIONAMIENTO QUE ESTABLECEN ESTA LEY Y SU REGLAMENTO INTERIOR.
+I. Establecer la competencia que tiene el Estado de San Luis Potosí en materia de transparencia y acceso a la información y las bases para la coordinación con el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+II. Crear las bases mínimas que regirán los procedimientos para garantizar el ejercicio del derecho de acceso a la información;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+III. Instituir procedimientos y condiciones homogéneas en el ejercicio del derecho de acceso a la información, mediante procedimientos sencillos y expeditos;
 
-3. LAS REFORMAS A LA PRESENTE LEY O LA ABROGACION DE LA MISMA, NO SERAN OBJETO DE OBSERVACIONES POR PARTE DEL EJECUTIVO ESTATAL, DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO 21 DE LA CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS.
+IV. Organizar las bases y la información de interés público que se debe difundir proactivamente;
 
-> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2006)</small>
+V. Promover, fomentar y difundir la cultura de la transparencia en el ejercicio de la función pública, el acceso a la información, la participación ciudadana, así como la rendición de cuentas, a través del establecimiento de políticas públicas y mecanismos que garanticen la publicidad de información oportuna, verificable, comprensible, actualizada y completa, que se difunda en los formatos más adecuados y accesibles para todo el público y atendiendo en todo momento las condiciones sociales, económicas y culturales de cada región del Estado;
 
-4. PARA LOS EFECTOS DE LA PRESENTE LEY TODOS LOS PLAZOS SERAN CONTADOS EN DIAS NATURALES A EXCEPCION DE AQUELLOS EN EL QUE EXPRESAMENTE SE SEÑALE LO CONTRARIO.
+VI. Propiciar la participación ciudadana en la toma de decisiones públicas a fin de contribuir a la consolidación de la democracia;
 
-###### ARTICULO 2.
+VII. Consolidar la apertura de las instituciones del Estado Potosino, mediante iniciativas de gobierno abierto, que mejoren la gestión pública a través de la difusión de la información en formatos abiertos y accesibles, así como la participación efectiva de la sociedad en la atención de los mismos;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+VIII. Generar los mecanismos para garantizar el cumplimiento y la efectiva aplicación de las medidas de apremio y las sanciones que correspondan, y
 
-1. EL EJERCICIO DE LAS FUNCIONES DE LOS DIPUTADOS DURANTE TRES AÑOS CONSTITUYE UNA LEGISLATURA. EL AÑO LEGISLATIVO SE COMPUTARA DEL 01 DE OCTUBRE AL 30 DE SEPTIEMBRE SIGUIENTE.
+IX. Establecer las bases y la información de interés público que se debe difundir proactivamente.
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+###### ARTÍCULO 3°.
 
-LA LEGISLATURA SE RENOVARA EN SU TOTALIDAD CADA TRES AÑOS.
+Para los efectos de la presente Ley se entenderá por:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+I. Ajustes Razonables: las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones, de los derechos humanos;
 
-2. EL CONGRESO DEL ESTADO TENDRA EN EL AÑO LEGISLATIVO DOS PERIODOS ORDINARIOS DE SESIONES: EL PRIMERO DE ELLOS INICIARA EL 01 DE OCTUBRE Y CONCLUIRA EL 31 DE DICIEMBRE; EL SEGUNDO, INICIARA EL 01 DE ABRIL Y CONCLUIRA EL 30 DE JUNIO.
+II. Áreas: las instancias que cuentan o puedan contar con la información. Tratándose del sector público, serán aquellas que estén previstas en el reglamento interior, estatuto orgánico respectivo o equivalentes;
 
-3. EL CONGRESO DEL ESTADO TENDRA LOS PERIODOS EXTRAORDINARIOS PARA LOS QUE SEA CONVOCADOS POR LA COMISION PERMANENTE, POR ACUERDO DE ELLA MISMA, A MOCION DEL PODER EJECUTIVO DEL ESTADO O DE LA JUNTA DE COORDINACION POLITICA.
+III. CEGAIP: la Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luis Potosí;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+IV. Comisionado Numerario: la persona integrante del Pleno de la Comisión;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+V. Comisionado Supernumerario: las personas elegidas por el Congreso del Estado que suplirán en el orden de su nombramiento las ausencias y excusas de los comisionados numerarios;
 
-4. LOS ACUERDOS DE LA COMISION PERMANENTE QUE CONVOQUEN A PERIODO EXTRAORDINARIO EN CUALQUIERA DE LOS CASOS MENCIONADOS, REQUERIRAN LA APROBACION DE CUANDO MENOS CINCO DE SUS INTEGRANTES.
+VI. Comité de Transparencia: la instancia a la que hace referencia el artículo 43 de la Ley General de Transparencia y Acceso a la Información Pública;
 
-5. EN LOS PERIODOS EXTRAORDINARIOS, EL CONGRESO DEL ESTADO SE OCUPARA EXCLUSIVAMENTE DE LOS ASUNTOS PARA LOS CUALES FUE CONVOCADO.
+VII. Consejo: el Consejo Consultivo de la CEGAIP;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+VIII. Consejero: La persona integrante del Consejo de la CEGAIP;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+IX. Cultura de Transparencia: al conjunto de acciones de los sujetos obligados y de la sociedad, encaminadas a enriquecer el conocimiento, la experiencia, la práctica y los hábitos de las personas en el servicio público y de las personas en general, para que mediante la gestión de aquéllos y el ejercicio de los derechos de éstas, compartan la convicción de fomentar la transparencia y la rendición de cuentas gubernamental; el derecho de acceso a la información pública; y el derecho a la protección de datos personales;
 
-6. LA CONVOCATORIA PARA PERIODO EXTRAORDINARIO DE SESIONES DEBERA SER PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO CON DOS DIAS NATURALES DE ANTELACION AL DE SU APERTURA; Y CON ESA MISMA ANTICIPACION DEBERAN CIRCULAR ENTRE TODOS LOS DIPUTADOS QUE CONFORMAN LA LEGISLATURA; LAS INICIATIVAS, DICTAMENES O PROYECTOS DE ACUERDO, RELATIVOS A LOS ASUNTOS A ATENDER.
+X. Datos abiertos: los datos digitales de carácter público que son accesibles en línea que pueden ser usados, reutilizados y redistribuidos por cualquier persona y que tienen las siguientes características:
 
-###### ARTICULO 3.
+a) Accesibles: están disponibles para la gama más amplia de usuarios, para cualquier propósito.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+b) Integrales: contienen el tema que describen a detalle y con los metadatos necesarios.
 
-1. PARA LA CONFORMACION DEL CONGRESO DEL ESTADO, LA COMISION PERMANENTE DE LA LEGISLATURA SALIENTE SOLICITARA AL INSTITUTO DE ELECCIONES Y PARTICIPACION CIUDADANA DENTRO DE LOS QUINCE DIAS A SU CONCLUSION:
+c) Gratuitos: se obtienen sin entregar a cambio contraprestación alguna.
 
-> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2006)</small>
+d) No discriminatorios: están disponibles para cualquier persona, sin necesidad de registro.
 
-A) COPIA CERTIFICADA DE LAS CONSTANCIAS DE MAYORIA Y VALIDEZ DE LAS FORMULAS DE CANDIDATOS A DIPUTADOS DE MAYORIA RELATIVA.
+e) Oportunos: son actualizados periódicamente, conforme se generen.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+f) Permanentes: se conservan en el tiempo, para lo cual, las versiones históricas relevantes para uso público se mantendrán disponibles con identificadores adecuados al efecto.
 
-B) COPIA CERTIFICADA DE LA ASIGNACION PROPORCIONAL DE DIPUTADOS QUE EL INSTITUTO DE ELECCIONES Y PARTICIPACION CIUDADANA HUBIESE ENTREGADO A CADA PARTIDO POLITICO.
+g) Primarios: provienen de la fuente de origen con el máximo nivel de desagregación posible.
 
-> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2006)</small>
+h) Legibles por máquinas: deben estar estructurados, total o parcialmente, para ser procesados e interpretados por equipos electrónicos de manera automática.
 
-C) INFORME DE LOS RECURSOS QUE SE HUBIEREN INTERPUESTO PARA CADA UNA DE LAS ELECCIONES.
+i) En formatos abiertos: estarán disponibles con el conjunto de características técnicas y de presentación que corresponden a la estructura lógica usada para almacenar datos en un archivo digital, cuyas especificaciones técnicas están disponibles públicamente, que no suponen una dificultad de acceso y que su aplicación y reproducción no estén condicionadas a contraprestación alguna.
 
-> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2006)</small>
+j) De libre uso: citan la fuente de origen como único requerimiento para ser utilizados libremente;
 
-D) LA NOTIFICACION EN SU CASO DE LAS RESOLUCIONES EMITIDAS POR EL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO, A LOS RECURSOS INTERPUESTOS CONTRA LAS ELECCIONES DE DIPUTADOS DE MAYORIA Y POR LA ASIGNACION DE DIPUTADOS DE REPRESENTACION PROPORCIONAL.
+XI. Datos personales: toda información sobre una persona física identificada o identificable, como lo es la relativa a su origen étnico o racial, características físicas, morales o emocionales, a su vida afectiva y familiar, domicilio, número telefónico, correo electrónico, patrimonio, ideología y opiniones políticas, afiliación sindical, creencias o convicciones religiosas o filosóficas, los estados de salud físicos o mentales, información genética, preferencia sexual, y otras análogas que afecten su intimidad.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+Se considerará identificable toda persona cuya identidad pueda determinarse, directa o indirectamente, en particular mediante un número de identificación o uno o varios elementos específicos, característicos de su identidad física, fisiológica, psíquica, económica, cultural o social;
 
-EL DIA DE LA INSTALACION DE LA NUEVA LEGISLATURA, LA MESA DIRECTIVA SALIENTE ENTREGARA POR INVENTARIO A LA MESA DIRECTIVA DE LA LEGISLATURA ENTRANTE LA TOTALIDAD DE LOS DOCUMENTOS ELECTORALES A QUE SE REFIEREN LOS INCISOS A), B), C) Y D) DEL PRESENTE ARTICULO. ASI MISMO HARA ENTREGA DE LOS ARCHIVOS HISTORICOS Y UN INFORME DETALLADO DE LOS ASUNTOS LEGISLATIVOS EN TRAMITE, ESTOS MISMOS DOCUMENTOS DEBERAN ENTREGARSE EN LOS PROCESOS DE ENTREGA RECEPCION DE LAS MESAS DIRECTIVAS DE UNA MISMA LEGISLATURA.
+XII. Derecho de Acceso a la información pública: derecho humano de las personas para acceder a la información pública en posesión de los sujetos obligados, en los términos de esta Ley;
 
-> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2006)</small>
+XIII. Documento: oficios, acuerdos, correspondencia, directivas, circulares, minutas, expedientes, reportes, estudios, contratos, actas, convenios, resoluciones, instructivos, memorandos, notas, estadísticas, sondeos, encuestas, expresiones y representaciones materiales que den constancia de un hecho o acto del pasado o del presente, de las entidades y de las personas en el servicio público en el ejercicio de sus funciones; o cualquier otro registro que documente la existencia y actividades de los sujetos obligados, sin excepción de su fuente, tipo o fecha de elaboración. Los documentos pueden ser papeles escritos, o en cualquier medio o formato impreso, sonoro, electrónico, fotográfico, gráfico, visual, holográfico, electrónico o digital;
 
-LA JUNTA DE COORDINACION POLITICA SALIENTE ENTREGARA A LA JUNTA DE LA LEGISLATURA ENTRANTE INVENTARIO DE BIENES, FONDOS Y RECURSOS QUE INTEGRAN EL PATRIMONIO DEL PODER LEGISLATIVO DEL ESTADO DE CHIAPAS.
+XIV. Expediente: unidad documental constituida por uno o varios documentos de archivo, ordenados y relacionados por un mismo asunto, actividad o trámite de los sujetos obligados;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XV. Formatos abiertos: conjunto de características técnicas y de presentación de la información que corresponden a la estructura lógica usada para almacenar datos de forma integral y facilitan su procesamiento digital, cuyas especificaciones están disponibles públicamente y que permiten el acceso sin restricción de uso por parte de los usuarios;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+XVI. Formatos accesibles: cualquier manera o forma alternativa que dé acceso a las personas solicitantes de información, en forma tan viable y cómoda como la de las personas sin discapacidad ni otras dificultades para acceder a cualquier texto impreso y/o cualquier otro formato convencional en el que la información pueda encontrarse;
 
-2. PARA LA INSTALACION DEL CONGRESO DEL ESTADO, LOS DIPUTADOS ELECTOS SE REUNIRAN EL 01 DE OCTUBRE, A PARTIR DE LAS DOCE HORAS, SERA PRESIDIDO ESTE ACTO POR LA MESA DIRECTIVA DE LA COMISION PERMANENTE DE LA LEGISLATURA SALIENTE Y SE DESARROLLARA CONFORME AL PROCEDIMIENTO SIGUIENTE:
+XVII. Información confidencial: la información en posesión de los sujetos obligados que refiera a datos personales; la que se refiere a los secretos bancario, fiduciario, industrial, comercial, fiscal, bursátil y postal cuya titularidad corresponda a particulares, sujetos de derecho internacional o a sujetos obligados cuando no involucren el ejercicio de recursos públicos; así como aquella que presenten los particulares a los sujetos obligados siempre que tengan el derecho a entregarla con ese carácter; y toda aquella información susceptible de ser tutelada por los derechos humanos a la privacidad, intimidad, honor y dignidad, que se encuentra en posesión de alguno de los entes obligados y sobre la que no puede realizarse ningún acto o hecho, sin la autorización debida de los titulares o sus representantes legales;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+XVIII. Información de interés público: aquella que resulta relevante o beneficiosa para la sociedad y no simplemente de interés individual, cuya divulgación resulta útil para que el público comprenda las actividades que llevan a cabo los sujetos obligados;
 
-A) EL SECRETARIO DE LA COMISION PERMANENTE, DARA LECTURA A LA LISTA DE LOS DIPUTADOS QUE RESULTARON ELECTOS, EN TERMINOS DE LAS CONSTANCIAS DE MAYORIA Y DE VALIDEZ DE LA ELECCION, ENVIADAS POR LOS CONSEJOS DISTRITALES ELECTORALES TRATANDOSE DE LOS DIPUTADOS DE MAYORIA; REMITIDAS POR EL CONSEJO GENERAL DEL INSTITUTO DE ELECCIONES Y PARTICIPACION CIUDADANA TRATANDOSE DE DIPUTADOS DE REPRESENTACION PROPORCIONAL O POR EL TRIBUNAL ELECTORAL DEL ESTADO, SEGUN EL CASO, Y COMPROBADO EL QUORUM LEGAL, SE DARA LA PALABRA AL PRESIDENTE DE LA PROPIA COMISION;
+XIX. Información pública: la que es creada, administrada o en posesión de los sujetos obligados, exceptuando la clasificada como reservada o confidencial;
 
-B) A CONTINUACION EL PRESIDENTE INVITARA A LOS DIPUTADOS A QUE ELIJAN LA MESA DIRECTIVA DEL CONGRESO DEL ESTADO EN LOS TERMINOS SEÑALADOS POR ESTA LEY.
+XX. Obligaciones de Transparencia: la información que los sujetos obligados deben difundir de manera obligatoria, permanente y actualizada, sin que medie para ello, solicitud de acceso;
 
-C) DADO A CONOCER EL RESULTADO DEL ESCRUTINIO POR EL SECRETARIO, LOS INTEGRANTES DE LA MESA DIRECTIVA DE LA LEGISLATURA ENTRANTE PASARAN A OCUPAR SU SITIO EN EL PRESIDIUM Y UNA VEZ HECHO LO ANTERIOR SU PRESIDENTE MANIFESTARA: "LA (NUMERO DE) LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS SE DECLARA HOY LEGALMENTE CONSTITUIDA".
+XXI. Información reservada: aquélla clasificada con carácter temporal como restringida al acceso del público;
 
-D) EL PRESIDENTE PEDIRA A LOS DIPUTADOS QUE SE PONGAN DE PIE Y OTORGARA SU PROTESTA EN LOS TERMINOS SIGUIENTES: "PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE DIPUTADO QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DE LA NACION Y DEL ESTADO Y, SI ASI NO LO HICIERA QUE EL PUEBLO ME LO DEMANDE"; Y SEGUIDAMENTE LES TOMARA LA PROTESTA A LOS DEMAS INTEGRANTES DE LA LEGISLATURA, EN LOS MISMOS TERMINOS.
+XXII. Instituto: el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XXIII. Ley: la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+XXIV. Ley General: la Ley General de Transparencia y Acceso a la Información Pública;
 
-3. ACTO SEGUIDO SE LE CONCEDERA EL USO DE LA PALABRA A UN REPRESENTANTE DE CADA UNO DE LOS GRUPOS PARLAMENTARIOS, EN ORDEN CRECIENTE, PARA FIJAR POSICIONES, SIN EXCEDERSE DE QUINCE MINUTOS EN SUS INTERVENCIONES. CUANDO DOS O MAS GRUPOS PARLAMENTARIOS, CUENTEN CON EL MISMO NUMERO DE DIPUTADOS, EL CRITERIO DE DESEMPATE SERA POR EL PARTIDO POLITICO QUE TENGA MAYOR NUMERO DE DIPUTADOS UNINOMINALES, EN CASO DE PERSISTIR EL EMPATE, SE RESOLVERA POR EL GRUPO PARLAMENTARIO CUYO PARTIDO HAYA OBTENIDO MAS VOTOS VALIDOS EN EL PROCESO ELECTORAL INMEDIATO ANTERIOR EN QUE SE ELIGIERON A LOS DIPUTADOS QUE CONFORMAN LA LEGISLATURA LOCAL. DICHO CRITERIO SE APLICARA PARA TODAS LAS DISPOSICIONES SIMILARES ESTABLECIDAS EN EL PRESENTE ORDENAMIENTO.
+XXV. Plataforma Nacional: la Plataforma Nacional de Transparencia a que hace referencia el artículo 49 de la Ley General de Transparencia y Acceso a la Información Pública;
 
-4. ESTA SESION NO TENDRA MAS OBJETO QUE LOS INDICADOS Y, DURANTE LA MISMA, NO PROCEDERA INTERVENCION DE LOS LEGISLADORES PARA HECHOS, INTERPELACIONES O ALUSIONES PERSONALES.
+XXVI. Pleno: el máximo órgano de gobierno de la CEGAIP en razón de la actuación colegiada de sus comisionados;
 
-###### ARTICULO 4.
+XXVII. Presidente: el Comisionado que presida la CEGAIP y con las facultades que refiere esta Ley, y las que por acuerdo determine el Pleno;
 
-1. LOS DIPUTADOS GOZAN DEL FUERO QUE OTORGA LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS Y LA PARTICULAR DEL ESTADO.
+XXVIII. Protección de datos personales: la tutela de datos personales en ejercicio del derecho a la privacidad;
 
-2. LOS DIPUTADOS EN SU CARACTER DE REPRESENTANTES DEL PUEBLO, TIENEN DERECHO DE OPINAR Y DISCUTIR LIBREMENTE SUS IDEAS, ASI COMO LA OBLIGACION DE DEFENDER LOS INTERESES QUE REPRESENTAN Y JAMAS PODRAN SER RECONVENIDOS POR LAS OPINIONES QUE EMITAN O LAS TESIS QUE SUSTENTEN, NI SE PODRAN ENTORPECER SUS GESTIONES CUANDO ESTAS SE AJUSTEN A LA LEY.
+XXIX. Prueba de daño: la argumentación fundada y motivada que deben realizar los sujetos obligados tendiente a acreditar que la divulgación de información lesiona el interés jurídicamente protegido por la normativa aplicable y que el daño que puede producirse con la publicidad de la información es mayor que el interés de conocerla;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+XXX. Resolución: la decisión fundada y motivada dictada por el Pleno, que decide cualesquiera de los procedimientos administrativos de la competencia de la CEGAIP;
 
-3. LOS DIPUTADOS SON RESPONSABLES POR LOS DELITOS QUE COMETAN DURANTE EL TIEMPO DE SU ENCARGO Y POR LOS DELITOS, FALTAS U OMISIONES EN QUE INCURRAN EN EL EJERCICIO DE ESE MISMO CARGO, PERO NO PODRAN SER DETENIDOS NI EJERCITARSE EN SU CONTRA LA ACCION PENAL HASTA QUE SEGUIDO EL PROCEDIMIENTO CONSTITUCIONAL A QUE SE REFIERE EL ARTICULO 82 DE LA CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS Y SE DECIDA SI HA LUGAR A FORMACION DE CAUSA.
+XXXI. Servidores públicos: los mencionados en el artículo 124 de la Constitución Política del Estado de San Luis Potosí;
 
-###### ARTICULO 5.
+XXXII. SEDA: el Sistema Estatal de Documentación y Archivos dependiente de la CEGAIP;
 
-1. EL RECINTO DEL CONGRESO DEL ESTADO ES INVIOLABLE. TODA FUERZA PUBLICA ESTA IMPEDIDA DE TENER ACCESO AL MISMO, SALVO CON PERMISO DEL PRESIDENTE DEL CONGRESO, BAJO CUYO MANDO QUEDARA EN ESTE CASO.
+XXXIII. Sistema Nacional: el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-2. EL PRESIDENTE DEL CONGRESO, PODRA SOLICITAR EL AUXILIO DE LA FUERZA PUBLICA PARA SALVAGUARDAR EL FUERO CONSTITUCIONAL DE LOS DIPUTADOS Y LA INVIOLABILIDAD DE LOS RECINTOS PARLAMENTARIOS; CUANDO SIN MEDIAR AUTORIZACION SE HICIERE PRESENTE LA FUERZA PUBLICA, EL PRESIDENTE PODRA DECRETAR LA SUSPENSION DE LA SESION HASTA QUE DICHA FUERZA HUBIERE ABANDONADO EL RECINTO.
+XXXIV. Solicitante: la persona física o moral que solicite, requiera o peticione a los sujetos obligados, información pública;
 
-###### ARTICULO 6.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-1. NINGUNA AUTORIDAD PODRA EJECUTAR MANDATOS JUDICIALES O ADMINISTRATIVOS SOBRE LOS BIENES DESTINADOS AL SERVICIO DEL CONGRESO DEL ESTADO, NI SOBRE LAS PERSONAS O BIENES DE LOS DIPUTADOS EN EL INTERIOR DEL RECINTO PARLAMENTARIO.
+XXXV. Sujetos Obligados: cualquier autoridad, entidad, órgano y organismo de los poderes, Ejecutivo; Legislativo; y Judicial; órganos autónomos; partidos políticos; candidatas y candidatos independientes; fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal;
 
-###### ARTICULO 7.
+XXXVI. Unidad de Transparencia: las unidades administrativas de cada uno de los sujetos obligados, responsables de atender las solicitudes de acceso a la información pública, y
 
-1. EL GRUPO PARLAMENTARIO ES EL CONJUNTO DE DIPUTADOS DE LA MISMA FILIACION PARTIDARIA QUE SE ORGANIZAN, A EFECTO DE GARANTIZAR LA LIBRE EXPRESION DE LAS CORRIENTES IDEOLOGICAS EN EL CONGRESO DEL ESTADO.
+XXXVII. Versión pública: el documento o expediente en el que se da acceso a información, eliminando u omitiendo las partes o secciones clasificadas.
 
-2. EL GRUPO PARLAMENTARIO SE INTEGRA POR LO MENOS CON DOS DIPUTADOS Y SOLO PODRA HABER UNO POR CADA PARTIDO POLITICO QUE CUENTE CON REPRESENTACION EN LA LEGISLATURA.
+Cuando en la presente Ley por cuestiones gramaticales se utilice el genérico masculino, se entenderá que se refiere tanto a hombres como a mujeres, salvo disposición legal en contrario.
 
-3. EN LA PRIMERA SESION ORDINARIA DE LA LEGISLATURA, CADA GRUPO PARLAMENTARIO DE CONFORMIDAD CON LO QUE DISPONE ESTA LEY, ENTREGARA A LA SECRETARIA DE SERVICIOS PARLAMENTARIOS LA DOCUMENTACION SIGUIENTE:
+###### ARTÍCULO 4°.
 
-A) ACTA EN LA QUE CONSTE LA DECISION DE SUS MIEMBROS DE CONSTITUIRSE EN GRUPO, CON ESPECIFICACION DEL NOMBRE DEL MISMO Y LISTA DE SUS INTEGRANTES;
+El derecho humano de acceso a la información comprende solicitar, investigar, difundir, buscar y recibir información.
 
-B) LAS NORMAS ACORDADAS POR LOS MIEMBROS DEL GRUPO PARA SU FUNCIONAMIENTO INTERNO, SEGUN DISPONGAN LOS ESTATUTOS DEL PARTIDO POLITICO EN EL QUE MILITEN; Y
+Toda la información generada, obtenida, adquirida, transformada o en posesión de los sujetos obligados es pública y accesible a cualquier persona en los términos y condiciones que se establezcan en la Ley General; en los tratados internacionales de los que el Estado mexicano sea parte; la esta Ley; y la normatividad aplicable en sus respectivas competencias, sólo podrá ser clasificada excepcionalmente en los términos que fija la ley.
 
-C) NOMBRE DEL DIPUTADO QUE HAYA SIDO DESIGNADO COMO COORDINADOR DEL GRUPO PARLAMENTARIO Y LOS NOMBRES DE QUIENES DESEMPEÑEN OTRAS ACTIVIDADES DIRECTIVAS.
+###### ARTÍCULO 5°.
 
-4. LOS DIPUTADOS QUE POR SU NUMERO NO ALCANCEN A CONFORMAR UN GRUPO PARLAMENTARIO, TENDRAN LOS MISMOS DERECHOS Y PRERROGATIVAS QUE CUALQUIERA DE LOS DIPUTADOS INTEGRANTES DE LOS GRUPOS PARLAMENTARIOS.
+No podrá clasificarse como reservada aquélla información que esté relacionada con violaciones graves a derechos humanos o delitos de lesa humanidad, de conformidad con el derecho nacional o los tratados internacionales de los que el Estado mexicano sea parte.
 
-5. EL SECRETARIO DE SERVICIOS PARLAMENTARIOS HARA PUBLICAR LOS DOCUMENTOS CONSTITUTIVOS DE LOS GRUPOS PARLAMENTARIOS.
+Ninguna persona será objeto de inquisición judicial o administrativa con el objeto del ejercicio del derecho de acceso a la información, ni se podrá restringir este derecho por vías o medios directos e indirectos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+###### ARTÍCULO 6°.
 
-### CAPITULO PRIMERO. GRUPOS PARLAMENTARIOS
+El Estado garantizará el efectivo acceso de toda persona a la información en posesión de cualquier entidad, autoridad, órgano y organismo de los poderes, Ejecutivo; Legislativo; y Judicial; municipios; organismos autónomos; partidos políticos; candidatas y candidatos independientes; fideicomisos y fondos públicos; así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal.
 
-#### SECCION PRIMERA. DE SU NATURALEZA Y ATRIBUCIONES
+###### ARTÍCULO 7°.
 
-###### ARTICULO 8.
+El derecho de acceso a la información o la clasificación de la información se interpretarán bajo los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos; los tratados internacionales de los que el Estado mexicano sea parte; y la presente Ley.
 
-1. EL COORDINADOR DEL GRUPO PARLAMENTARIO SERA SU REPRESENTANTE PARA TODOS LOS EFECTOS Y, EN TAL CARACTER, PROMOVERA LOS ENTENDIMIENTOS NECESARIOS PARA LA ELECCION DE LOS INTEGRANTES DE LA MESA DIRECTIVA Y PARTICIPARA CON VOZ Y VOTO EN LA JUNTA DE COORDINACION POLITICA; ASIMISMO EJERCERA LAS PRERROGATIVAS Y DERECHOS QUE ESTE ORDENAMIENTO OTORGA A LOS GRUPOS PARLAMENTARIOS.
+En la aplicación e interpretación de la presente Ley deberá prevalecer el principio de máxima publicidad, conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos; en los tratados internacionales de los que el Estado mexicano sea parte; así como en las resoluciones y sentencias vinculantes que emitan los órganos nacionales e internacionales especializados, favoreciendo en todo tiempo a las personas la protección más amplia.
 
-2. DURANTE EL EJERCICIO DE LA LEGISLATURA, EL COORDINADOR DEL GRUPO PARLAMENTARIO COMUNICARA A LA MESA DIRECTIVA LAS MODIFICACIONES QUE OCURRAN EN LA INTEGRACION DE SU GRUPO. CON BASE EN LAS COMUNICACIONES DE LOS COORDINADORES DE LOS GRUPOS PARLAMENTARIOS, EL PRESIDENTE DEL CONGRESO LLEVARA EL REGISTRO DEL NUMERO DE INTEGRANTES DE CADA UNO DE ELLOS Y SUS MODIFICACIONES. DICHO NUMERO SERA ACTUALIZADO EN FORMA PERMANENTE Y SERVIRA PARA LOS COMPUTOS QUE SE REALIZAN POR EL SISTEMA DE VOTO PONDERADO EN LA JUNTA DE COORDINACION POLITICA, EN EL CUAL LOS RESPECTIVOS COORDINADORES REPRESENTARAN TANTOS VOTOS COMO INTEGRANTES TENGA SU GRUPO PARLAMENTARIO.
+Para el caso de la interpretación, se podrá tomar en cuenta los criterios, determinaciones y opiniones de los organismos nacionales e internacionales, en materia de transparencia.
 
-#### SECCION SEGUNDA. DEL PRESIDENTE DE LA JUNTA DE COORDINACION POLITICA
+Las disposiciones que regulen aspectos de transparencia y acceso a la información previstas en la legislación Estatal en su conjunto, deberán interpretarse armónicamente con la Ley General, atendiendo al principio pro persona.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+### Capítulo II. De los Principios Generales
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+#### Sección Primera. De los Principios Rectores de la CEGAIP
 
-###### ARTICULO 9.
+###### ARTÍCULO 8°.
 
-1. PARA EL EJERCICIO DE LAS FUNCIONES CONSTITUCIONALES DE SUS MIEMBROS, LOS GRUPOS PARLAMENTARIOS PROPORCIONARAN INFORMACION, OTORGARAN ASESORIA, Y PREPARARAN LOS ELEMENTOS NECESARIOS PARA ARTICULAR EL TRABAJO PARLAMENTARIO DE AQUELLOS.
+La CEGAIP deberá regir su funcionamiento de acuerdo a los siguientes principios:
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+I. Certeza: principio que otorga seguridad y certidumbre jurídica a los particulares, en virtud de que permite conocer si las acciones de la CEGAIP, son apegadas a derecho y avala que los procedimientos sean completamente verificables, fidedignos y confiables;
 
-2. DEBERAN CONTAR CON EL PERSONAL PROFESIONAL ADECUADO PARA EL DESEMPEÑO DE ESTAS FUNCIONES.
+II. Eficacia: obligación de la CEGAIP para tutelar, de manera efectiva, el derecho de acceso a la información;
 
-###### ARTICULO 10.
+III. Imparcialidad: condición que debe tener la CEGAIP respecto de sus actuaciones de ser ajenos o extraños a los intereses de las partes en controversia y resolver sin favorecer indebidamente a ninguna de ellas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+IV. Independencia: cualidad que deben tener la CEGAIP para actuar sin supeditarse a interés, autoridad o persona alguna;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+V. Legalidad: deber de la CEGAIP de ajustar su actuación, que funde y motive sus resoluciones y actos en las normas aplicables;
 
-1. LA JUNTA DE COORDINACION POLITICA, CONFORME A LAS DISPONIBILIDADES PRESUPUESTARIAS Y MATERIALES, DISTRIBUIRA LOS RECURSOS Y PROPORCIONARA LOCALES ADECUADOS A CADA UNO DE LOS GRUPOS PARLAMENTARIOS PARA EL CUMPLIMIENTO DE SUS FINES, EN PROPORCION AL NUMERO DE SUS INTEGRANTES RESPECTO DEL TOTAL DEL CONGRESO.
+VI. Máxima Publicidad: toda la información en posesión de los sujetos obligados será pública, completa, oportuna y accesible, sujeta a un claro régimen de excepciones que deberán estar definidas y ser además legítimas y estrictamente necesarias en una sociedad democrática;
 
-ADICIONALMENTE A ESAS ASIGNACIONES, LA JUNTA DE COORDINACION POLITICA DISPONDRA UNA SUBVENCION MENSUAL PARA CADA GRUPO PARLAMENTARIO, INTEGRADA POR UNA SUMA FIJA DE CARACTER GENERAL Y OTRA VARIABLE, EN FUNCION DEL NUMERO DE DIPUTADOS QUE LOS CONFORMEN.
+VII. Objetividad: obligación de la CEGAIP de ajustar su actuación a los presupuestos de ley que deben ser aplicados al analizar el caso en concreto y resolver todos los hechos, prescindiendo de las consideraciones y criterios personales;
 
-2. LA CUENTA ANUAL DE LAS SUBVENCIONES QUE SE ASIGNEN A LOS GRUPOS PARLAMENTARIOS SE INCORPORARA A LA CUENTA PUBLICA DEL CONGRESO DEL ESTADO.
+VIII. Profesionalismo: los servidores públicos que laboren en la CEGAIP deberán sujetar su actuación a conocimientos técnicos, teóricos y metodológicos que garanticen un desempeño eficiente y eficaz en el ejercicio de la función pública que tienen encomendada, y
 
-3. LA OCUPACION DE LOS ESPACIOS Y LAS CURULES EN EL SALON DE SESIONES SE HARA DE FORMA QUE LOS INTEGRANTES DE CADA GRUPO PARLAMENTARIO QUEDEN UBICADOS EN UN AREA REGULAR Y CONTINUA. LA ASIGNACION DEFINITIVA DE LAS AREAS QUE CORRESPONDAN A LOS GRUPOS ESTARA A CARGO DE LA MESA DIRECTIVA DEL CONGRESO. PARA ELLO, LOS COORDINADORES DE LOS GRUPOS FORMULARAN PROPOSICIONES DE UBICACION. EN TODO CASO, LA MESA DIRECTIVA RESOLVERA CON BASE EN LA REPRESENTATIVIDAD EN ORDEN DECRECIENTE DE CADA GRUPO, EL NUMERO DE GRUPOS CONFORMADOS Y LAS CARACTERISTICAS DEL SALON DE SESIONES.
+IX. Transparencia: compromiso de la CEGAIP de dar publicidad a las deliberaciones y actos relacionados con sus atribuciones, así como dar acceso a la información que generen.
 
-###### ARTICULO 11.
+Los comisionados y el personal de la CEGAIP están obligados a la confidencialidad de la información que por razones de su encargo conozcan y manejen, y que estén relacionadas con la tramitación de los recursos interpuestos ante la CEGAIP, observando puntualmente las disposiciones internas que para este efecto expida la propia CEGAIP.
 
-1. LOS DIPUTADOS QUE NO SE INSCRIBAN O DEJEN DE PERTENECER A UN GRUPO PARLAMENTARIO SIN INTEGRARSE A OTRO EXISTENTE, SERAN CONSIDERADOS COMO DIPUTADOS SIN PARTIDO, DEBIENDOSELES GUARDAR LAS MISMAS CONSIDERACIONES QUE A TODOS LOS LEGISLADORES Y APOYANDOLOS, CONFORME A LAS POSIBILIDADES DEL CONGRESO, PARA QUE PUEDAN DESEMPEÑAR SUS ATRIBUCIONES DE REPRESENTACION POPULAR.
+#### Sección Segunda. De los Principios en Materia de Transparencia y Acceso a la Información Pública
 
-###### ARTICULO 12.
+###### ARTÍCULO 9°.
 
-1. LA JUNTA DE COORDINACION POLITICA SE INTEGRA CON LOS COORDINADORES DE CADA GRUPO PARLAMENTARIO.
+En el ejercicio, tramitación e interpretación de la presente Ley y demás normatividad aplicable, los sujetos obligados y la CEGAIP deberán atender a los principios señalados en la presente sección.
 
-2. EL PRESIDENTE DE LA MESA DIRECTIVA ASISTIRA A LAS REUNIONES DE LA JUNTA DE COORDINACION POLITICA Y CONTARA SOLO CON VOZ.
+###### ARTÍCULO 10.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+Es obligación de la CEGAIP otorgar las medidas pertinentes para asegurar el acceso a la información de todas las personas en igualdad de condiciones con las demás.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+Está prohibida toda discriminación que menoscabe o anule la transparencia o acceso a la información pública en posesión de los sujetos obligados.
 
-3. SERÁ PRESIDENTE DE LA JUNTA DE COORDINACION POLITICA POR EL TERMINO DE UNA LEGISLATURA EL COORDINADOR DEL GRUPO PARLAMENTARIO, QUE, POR SI MISMO CUENTE CON LA MAYORIA ABSOLUTA DEL VOTO PONDERADO DE LA JUNTA DE COORDINACION POLITICA.
+###### ARTÍCULO 11.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+Toda la información en posesión de los sujetos obligados será pública, completa, oportuna y accesible, sujeta a un claro régimen de excepciones que deberán estar definidas y ser además legítimas y estrictamente necesarias en una sociedad democrática.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+###### ARTÍCULO 12.
 
-4. EN EL CASO DE QUE NINGUN GRUPO PARLAMENTARIO SE ENCUENTRE EN EL SUPUESTO SEÑALADO EN EL PARRAFO ANTERIOR, LA PRESIDENCIA DE LA JUNTA DE COORDINACION POLITICA SERA EJERCIDA DE MANERA ANUAL, CON POSIBILIDAD DE REELECCION, Y SU PRESIDENTE SERA ELECTO POR LA MAYORIA ABSOLUTA MEDIANTE EL SISTEMA DE VOTO PONDERADO DE LOS INTEGRANTES DE LA PROPIA JUNTA DE COORDINACION POLITICA.
+Toda la información pública generada, obtenida, adquirida, transformada o en posesión de los sujetos obligados es pública y será accesible a cualquier persona, para lo que se deberán habilitar todos los medios, acciones y esfuerzos disponibles en los términos y condiciones que establezca esta Ley; la Ley General; así como demás normas aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+###### ARTÍCULO 13.
 
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+En la generación, publicación y entrega de información se deberá garantizar que ésta sea accesible, confiable, verificable, veraz, oportuna y atenderá las necesidades del derecho de acceso a la información de toda persona.
 
-5. LA JUNTA DE COORDINACION POLITICA ADOPTARA SUS DECISIONES POR MAYORIA ABSOLUTA MEDIANTE EL SISTEMA DE VOTO PONDERADO, EN EL CUAL LOS RESPECTIVOS COORDINADORES REPRESENTARAN TANTOS VOTOS COMO INTEGRANTES TENGA SU GRUPO PARLAMENTARIO.
+Los sujetos obligados buscarán, en todo momento, que la información generada tenga un lenguaje sencillo para cualquier persona y se procurará, en la medida de lo posible, su accesibilidad y traducción a lenguas indígenas.
 
-###### ARTICULO 13.
+La CEGAIP remitirá los lineamientos que correspondan para asegurar la accesibilidad de toda persona en el ámbito de su competencia.
 
-1. EN CASO DE AUSENCIA TEMPORAL O DEFINITIVA DEL PRESIDENTE DE LA JUNTA, EL GRUPO PARLAMENTARIO AL QUE PERTENEZCA INFORMARA DE INMEDIATO, TANTO AL PRESIDENTE DEL CONGRESO COMO A LA PROPIA JUNTA, EL NOMBRE DEL DIPUTADO QUE LO SUSTITUIRA.
+###### ARTÍCULO 14.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+La CEGAIP, en el ámbito de sus atribuciones, deberá suplir cualquier deficiencia para garantizar el ejercicio del derecho de acceso a la información.
 
-2. LOS INTEGRANTES DE LA JUNTA PODRAN SER SUSTITUIDOS TEMPORALMENTE DE CONFORMIDAD CON LAS REGLAS INTERNAS DE CADA GRUPO PARLAMENTARIO, LO QUE DEBERA SER INFORMADO MEDIANTE ACTA A LA PRESIDENCIA DE LA MESA DIRECTIVA Y A LA PROPIA JUNTA DE COORDINACION POLITICA.
+###### ARTÍCULO 15.
 
-###### ARTICULO 14.
+Toda persona tiene derecho de acceso a la información, sin discriminación, por motivo alguno.
 
-1. LA JUNTA DE COORDINACION POLITICA ES LA EXPRESION DE LA PLURALIDAD DEL CONGRESO POR TANTO, ES EL ORGANO COLEGIADO EN EL QUE SE IMPULSAN ENTENDIMIENTOS Y CONVERGENCIAS POLITICAS CON LAS INSTANCIAS Y ORGANOS QUE RESULTEN NECESARIOS A FIN DE ALCANZAR ACUERDOS PARA QUE EL PLENO ESTE EN CONDICIONES DE ADOPTAR LAS DECISIONES QUE CONSTITUCIONAL Y LEGALMENTE LE CORRESPONDEN.
+###### ARTÍCULO 16.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+El ejercicio del derecho de acceso a la información no estará condicionado a que el solicitante acredite interés alguno o justifique su utilización, ni podrá condicionarse el mismo por motivos de discapacidad.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+###### ARTÍCULO 17.
 
-###### ARTICULO 15.
+El ejercicio del derecho de acceso a la información es gratuito y sólo podrá requerirse el cobro correspondiente a la modalidad de reproducción y entrega solicitada.
 
-1. A LA JUNTA DE COORDINACION POLITICA LE CORRESPONDEN LAS ATRIBUCIONES SIGUIENTES:
+En ningún caso los ajustes razonables que se realicen para el acceso de la información de solicitantes con discapacidad, será con costo a los mismos.
 
-A) IMPULSAR LA CONFORMACION DE ACUERDOS RELACIONADOS CON EL CONTENIDO DE LAS PROPUESTAS, INICIATIVAS O MINUTAS QUE REQUIERAN DE SU VOTACION EN EL PLENO, A FIN DE AGILIZAR EL TRABAJO LEGISLATIVO;
+###### ARTÍCULO 18.
 
-B) ELABORAR EL PROYECTO DE PRESUPUESTO ANUAL DE EGRESOS DEL CONGRESO DEL ESTADO, PARA SU REMISION AL TITULAR DEL PODER EJECUTIVO ESTATAL, A FIN DE QUE SEA INTEGRADO AL PROYECTO DE PRESUPUESTO DE EGRESOS DEL ESTADO, ASI COMO LOS PRESUPUESTOS MENSUALES DEL CONGRESO DEL ESTADO.
+Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones.
 
-C) ASIGNAR LOS RECURSOS HUMANOS, MATERIALES Y FINANCIEROS, ASI COMO LOS LOCALES QUE CORRESPONDAN A LOS GRUPOS PARLAMENTARIOS;
+###### ARTÍCULO 19.
 
-D) PRESENTAR A LA MESA DIRECTIVA Y AL PLENO, PROYECTOS DE PUNTOS DE ACUERDO, PRONUNCIAMIENTOS Y DECLARACIONES DEL CONGRESO DEL ESTADO QUE ENTRAÑEN UNA POSICION POLITICA DEL ORGANO COLEGIADO;
+Se presume que la información debe existir si se refiere a las facultades, competencias y funciones que los ordenamientos jurídicos aplicables otorgan a los sujetos obligados.
 
-E) PROPONER AL PLENO, A TRAVES DE LA MESA DIRECTIVA LA INTEGRACION DE LAS COMISIONES, LAS CUALES ESTARAN INTEGRADAS POR UN MAXIMO DE SIETE (7) DIPUTADOS, CON EL SEÑALAMIENTO DE LA CONFORMACION DE SUS RESPECTIVAS MESAS DIRECTIVAS.
+En los casos en que ciertas facultades, competencias o funciones no se hayan ejercido, se debe motivar la respuesta en función de las causas que motiven la inexistencia.
 
-F) ELABORAR EL PROGRAMA LEGISLATIVO DE CADA PERIODO DE SESIONES, EL CALENDARIO DE TRABAJO PARA SU DESAHOGO Y REALIZAR REUNIONES CON LA MESA DIRECTIVA, O CON SU PRESIDENTE, PARA DICHOS EFECTOS;
+###### ARTÍCULO 20.
 
-G) CONTROLAR Y VIGILAR LA ADECUADA APLICACION DE LOS RECURSOS ECONOMICOS DE CADA EJERCICIO FISCAL DEL PODER LEGISLATIVO.
+Ante la negativa del acceso a la información o su inexistencia, el sujeto obligado deberá demostrar que la información solicitada está prevista en alguna de las excepciones contenidas en esta Ley o, en su caso, demostrar que la información no se refiere a alguna de sus facultades, competencias o funciones.
 
-H) LAS DEMAS QUE SE DERIVEN DE ESTA LEY Y DEL REGLAMENTO.
+###### ARTÍCULO 21.
 
-2. LAS FACULTADES QUE SE PRECISAN EN LOS INCISOS B), C) Y G) SERAN EJERCIDAS POR EL PRESIDENTE DE LA JUNTA DE COORDINACION POLITICA.
+Todo procedimiento en materia de derecho de acceso a la información deberá sustanciarse de manera sencilla y expedita, de conformidad con las bases de esta Ley.
 
-###### ARTICULO 16.
+###### ARTÍCULO 22.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+En el procedimiento de acceso, entrega y publicación de la información se propiciarán las condiciones necesarias para que ésta sea accesible a cualquier persona.
 
-I.- LA JUNTA DEBERA QUEDAR CONSTITUIDA A MAS TARDAR EN LA PRIMERA SESION ORDINARIA DE LA LEGISLATURA. SESIONARA PREFERENTEMENTE, LOS DIAS LUNES A LAS DIEZ HORAS DE CADA SEMANA. ADOPTARA SUS DECISIONES POR MAYORIA ABSOLUTA MEDIANTE EL SISTEMA DE VOTO PONDERADO, EN EL CUAL LOS RESPECTIVOS COORDINADORES REPRESENTARAN TANTOS VOTOS COMO INTEGRANTES TENGA SU GRUPO PARLAMENTARIO.
+### Capítulo III. De los Sujetos Obligados
 
-###### ARTICULO 17.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-1. CORRESPONDEN AL PRESIDENTE DE LA JUNTA DE COORDINACION POLITICA LAS ATRIBUCIONES SIGUIENTES:
+###### ARTÍCULO 23.
 
-A) CONVOCAR Y CONDUCIR LAS REUNIONES DE TRABAJO QUE CELEBRE;
+Son sujetos obligados a transparentar y permitir el acceso a su información y proteger los datos personales que obren en su poder: cualquier autoridad, entidad, órgano y organismo de los poderes, Ejecutivo; Legislativo; y Judicial; y municipios, órganos autónomos, partidos políticos, candidatas y candidatos independientes, fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicatos que reciban y ejerzan recursos públicos o realicen actos de autoridad en el ámbito estatal y municipal.
 
-B) VELAR POR EL CUMPLIMIENTO DE LAS DECISIONES Y ACUERDOS QUE SE ADOPTEN;
+###### ARTÍCULO 24.
 
-C) PROPONER A LA JUNTA DE COORDINACION POLITICA EL PROYECTO DE PROGRAMA LEGISLATIVO PARA CADA PERIODO DE SESIONES Y EL CALENDARIO DEL MISMO;
+Para el cumplimiento de los objetivos de esta Ley, los sujetos obligados deberán cumplir con las obligaciones siguientes, según corresponda, de acuerdo a su naturaleza:
 
-D) REPRESENTAR A LA JUNTA DE COORDINACION POLITICA, EN EL AMBITO DE SU COMPETENCIA, ANTE LOS ORGANOS DEL PROPIO CONGRESO DEL ESTADO Y COORDINAR SUS REUNIONES;
+I. Constituir el Comité de Transparencia, las unidades de transparencia y vigilar su correcto funcionamiento de acuerdo a su normatividad interna;
 
-E) LAS DEMAS QUE SE DERIVEN DE ESTA LEY O QUE LE SEAN CONFERIDAS POR LA PROPIA JUNTA DE COORDINACION POLITICA.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2018)</small>
 
-###### ARTICULO 18.
+II. Designar en la (sic) unidades de transparencia que dependerán directamente del titular del sujeto obligado con nivel jerárquico no menor de subdirección y quienes, además de experiencia en la materia, deberán acreditar haber cursado estudios específicos en instituciones educativas de nivel superior o medio superior, o contar con una certificación de competencias expedida por una institución de las indicadas;
 
-1. LA MESA DIRECTIVA DEL CONGRESO DEL ESTADO SE INTEGRA CON UN PRESIDENTE, DOS VICE-PRESIDENTES, DOS SECRETARIOS Y DOS PRO-SECRETARIOS, ELECTOS POR MAYORIA ABSOLUTA DE LOS DIPUTADOS QUE INTEGRAN LA LEGISLATURA Y EN VOTACION POR CEDULA.
+III. Proporcionar capacitación continua y especializada al personal que forme parte de los comités y unidades de transparencia;
 
-2. LA MESA DIRECTIVA DURARA EN SU EJERCICIO UN AÑO LEGISLATIVO Y SUS INTEGRANTES PODRAN SER REELECTOS. ANTES DE TOMAR POSESION DE SUS CARGOS, LOS INTEGRANTES DE LA MESA DIRECTIVA RENDIRAN LA PROTESTA CORRESPONDIENTE.
+IV. Crear y mantener actualizados sus sistemas de archivo y gestión documental, conforme a la normatividad aplicable;
 
-3. LA MESA DIRECTIVA DURANTE LOS PERIODOS DE RECESO DEL CONGRESO DEL ESTADO, FUNGIRA COMO COMISION PERMANENTE.
+V. Promover la generación, documentación y publicación de la información en formatos abiertos y accesibles;
 
-4. LA ELECCION DE LA MESA DIRECTIVA SE COMUNICARA A LOS TITULARES DE LOS PODERES EJECUTIVO Y JUDICIAL DEL ESTADO, ASI COMO A LOS PODERES FEDERALES Y A LAS LEGISLATURAS DE LOS ESTADOS DEL PAIS.
+VI. Proteger y resguardar la información clasificada como reservada o confidencial;
 
-5. LOS COORDINADORES DE LOS GRUPOS PARLAMENTARIOS NO PODRAN FORMAR PARTE DE LA MESA DIRECTIVA DEL CONGRESO DEL ESTADO.
+VII. Reportar a la CEGAIP sobre las acciones de implementación de la normatividad en la materia, en los términos que determinen;
 
-###### ARTICULO 19.
+VIII. Atender en términos de lo dispuesto en la presente Ley, los requerimientos, observaciones, lineamientos, recomendaciones y en lo conducente los criterios que, en materia de transparencia y acceso a la información, realice la CEGAIP y el Sistema Nacional;
 
-1. EN LA INTEGRACION DE LA MESA DIRECTIVA, SE DEBERA ATENDER A LA CONFORMACION PLURAL DEL CONGRESO DEL ESTADO.
+IX. Fomentar el uso de tecnologías de la información para garantizar la transparencia, el derecho de acceso a la información y la accesibilidad a éstos;
 
-2. EN LA FORMULACION DE LA LISTA PARA LA ELECCION DE LOS INTEGRANTES DE LA MESA DIRECTIVA LOS DIPUTADOS CUIDARAN QUE LOS CANDIDATOS CUENTEN CON UNA TRAYECTORIA Y COMPORTAMIENTO QUE ACREDITEN PRUDENCIA, TOLERANCIA Y RESPETO EN LA CONVIVENCIA, ASI COMO EXPERIENCIA EN LA CONDUCCION DE ASAMBLEAS.
+X. Dar atención y cumplir con las resoluciones emitidas por la CEGAIP;
 
-###### ARTICULO 20.
+XI. Publicar y mantener actualizada la información relativa a las obligaciones de transparencia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XII. Difundir proactivamente información de interés público;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+XIII. Entregar la información solicitada en los términos de la Ley General y esta Ley, y
 
-1. EN LAS AUSENCIAS TEMPORALES DEL PRESIDENTE DE LA MESA DIRECTIVA Y EN LOS CASOS EN QUE ESTE LO DETERMINE, DECIDIRA SOBRE EL ORDEN DE INTERVENCION DE LOS VICEPRESIDENTES Y SECRETARIOS EN LA CONDUCCION DE LAS SESIONES PLENARIAS Y EN SU CASO DE LA COMISION PERMANENTE; PARA LO CUAL PROCURARA LA EQUIDAD EN SU PARTICIPACION. EN CASO DE AUSENCIA DE LOS VICEPRESIDENTES Y CUANDO EL PRESIDENTE ASI LO DETERMINE, ESTE PODRA DESIGNAR A ALGUNOS DE LOS SECRETARIOS PARA CONDUCIR EL DEBATE DURANTE LAS SESIONES.
+XIV. Las demás que resulten de la normatividad aplicable.
 
-2. LOS INTEGRANTES DE LA MESA DIRECTIVA SOLO PODRAN SER REMOVIDOS CON LOS MISMOS VOTOS NECESARIOS PARA SU ELECCION, POR LAS SIGUIENTES CAUSAS:
+###### ARTÍCULO 25.
 
-A) TRANSGREDIR EN FORMA GRAVE O REITERADA LAS DISPOSICIONES CONTENIDAS EN LA CONSTITUCION Y ESTA LEY O EN EL REGLAMENTO INTERIOR DEL CONGRESO;
+Los sujetos obligados serán los responsables del cumplimiento de las obligaciones, procedimientos y responsabilidades establecidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de San Luis Potosí, la Ley General, y esta Ley, en los términos que las mismas determinen.
 
-B) INCUMPLIR LOS ACUERDOS DEL PLENO, CUANDO SE AFECTEN LAS ATRIBUCIONES CONSTITUCIONALES Y LEGALES DEL CONGRESO DEL ESTADO; Y
+###### ARTÍCULO 26.
 
-C) DEJAR DE ASISTIR, REITERADAMENTE Y SIN CAUSA JUSTIFICADA, A LAS SESIONES DEL CONGRESO O A LAS REUNIONES DE LA MESA DIRECTIVA.
+Los fideicomisos y fondos públicos, considerados entidades paraestatales deberán dar cumplimiento a las obligaciones establecidas en las leyes a que se refiere el artículo anterior por sí mismos, a través de sus propias áreas, unidades y comités de transparencia. En el caso de los fideicomisos y fondos públicos que no cuenten con estructura orgánica y, por lo tanto, no sean considerados una entidad paraestatal, así como de los mandatos públicos y demás contratos análogos, cumplirán con las obligaciones de esta Ley a través de la unidad administrativa responsable de coordinar su operación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+Las personas físicas o morales que reciben y ejercen recursos públicos o ejercen actos de autoridad, cumplirán con las obligaciones de transparencia que determine la CEGAIP, de acuerdo con lo establecido en el Capítulo II del Título Cuarto de la presente Ley.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+## TÍTULO SEGUNDO. RESPONSABLES EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
-3. LA REMOCION A QUE SE REFIERE EL PARRAFO ANTERIOR TENDRA EFECTOS DEFINITIVOS Y SE PROCEDERA A LA DESIGNACION DEL NUEVO INTEGRANTE DE LA MESA DIRECTIVA, MEDIANTE EL MECANISMO PREVISTO EN ESTA LEY.
+### Capítulo I. De la Comisión Estatal de Garantía de Acceso a la Información Pública
 
-###### ARTICULO 21.
+#### Sección Primera. De la Integración de la CEGAIP
 
-1. LA MESA DIRECTIVA CONDUCE LAS SESIONES DEL CONGRESO DEL ESTADO Y ASEGURA EL DEBIDO DESARROLLO DE LOS DEBATES, DISCUSIONES Y VOTACIONES DEL PLENO; GARANTIZA QUE EN LOS TRABAJOS LEGISLATIVOS PREVALEZCA LO DISPUESTO EN LA CONSTITUCION, LA LEY Y EL REGLAMENTO INTERIOR.
+###### ARTÍCULO 27.
 
-2. LA MESA DIRECTIVA OBSERVARA EN SU ACTUACION LOS PRINCIPIOS DE IMPARCIALIDAD Y OBJETIVIDAD Y TENDRA LAS SIGUIENTES ATRIBUCIONES:
+La CEGAIP es un organismo autónomo, especializado, imparcial y colegiado, responsable de garantizar el derecho de acceso a la información y de protección de datos personales en posesión de los sujetos obligados, conforme a los principios y bases establecidos por el artículo 6o de la Constitución Política de los Estados Unidos Mexicanos; la fracción III del artículo 17 de la Constitución Política del Estado de San Luis Potosí; así como por lo previsto en la Ley General, esta Ley y demás disposiciones aplicables.
 
-A) PRESIDIR LOS DEBATES Y VOTACIONES DEL PLENO Y DETERMINAR EL TRAMITE DE LOS ASUNTOS, CONFORME A LA CONSTITUCION, ESTA LEY Y AL REGLAMENTO CORRESPONDIENTE.
+En esta Ley se determina lo relativo a la estructura y funciones de la CEGAIP, así como la integración, duración del cargo, requisitos, procedimiento de selección, régimen de incompatibilidades, excusas, renuncias, licencias y suplencias de los integrantes de la misma, de conformidad con lo señalado en el Capítulo II del Título II de la Ley General.
 
-B) FORMULAR Y CUMPLIR EL ORDEN DEL DIA PARA LAS SESIONES, EL CUAL DISTINGUIRA CLARAMENTE LOS ASUNTOS QUE REQUIERAN VOTACION DE AQUELLOS OTROS SOLAMENTE DELIBERATIVOS O DE TRAMITE, TOMANDO EN CUENTA LAS PROPUESTAS DE LA JUNTA DE COORDINACION POLITICA, DE CONFORMIDAD CON LAS DISPOSICIONES REGLAMENTARIAS;
+La sustitución de los comisionados se realizará de manera escalonada para garantizar el principio de autonomía, de acuerdo a lo mandatado por el artículo 38 de la Ley General.
 
-C) ASEGURAR QUE LOS DICTAMENES, ACUERDOS PARLAMENTARIOS, MOCIONES, COMUNICADOS Y DEMAS ESCRITOS, CUMPLAN CON LAS NORMAS QUE REGULAN SU FORMULACION Y TIEMPOS DE PRESENTACION;
+###### ARTÍCULO 28.
 
-D) DESIGNAR LAS COMISIONES DE CORTESIA NECESARIAS PARA CUMPLIR CON EL CEREMONIAL;
+La CEGAIP, se integrará por tres comisionados numerarios, y tres supernumerarios.
 
-E) CONDUCIR LAS RELACIONES DEL CONGRESO DEL ESTADO CON LOS OTROS PODERES DEL ESTADO, LAS AUTORIDADES LOCALES DEL ESTADO, LOS PODERES DE LA FEDERACION Y DEMAS ENTIDADES FEDERATIVAS; ASI COMO LA REPRESENTACION EN DIPLOMACIA PARLAMENTARIA, DESIGNANDO PARA TAL EFECTO A QUIENES DEBAN REPRESENTAR AL CONGRESO DEL ESTADO EN EVENTOS DE CARACTER ESTATAL Y NACIONAL.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
-F) DISPONER QUE LA INFORMACION DEL TRABAJO DE LOS DIPUTADOS, SEA DIFUNDIDA A LOS MEDIOS DE COMUNICACION EN CONDICIONES DE OBJETIVIDAD Y EQUIDAD;
+El Congreso del Estado, por el voto de cuando menos las dos terceras partes de sus integrantes, elegirá al Comisionado Presidente, cada dos años, de entre los comisionados numerarios; el cual podrá ser reelecto por una sola ocasión. Por cada comisionado numerario habrá un supernumerario que supla, en el orden de su nombramiento, sus ausencias.
 
-G) LAS DEMAS QUE SE DERIVEN DE ESTA LEY O DEL REGLAMENTO.
+Por cada comisionado propietario habrá un supernumerario que supla, en el orden de su nombramiento, las ausencias de los propietarios. Las faltas temporales de los comisionados numerarios, o las excusas de los mismos calificadas de procedentes, se suplirán por los comisionados supernumerarios; en el orden de su nombramiento. Cuando la falta sea definitiva, se hará nueva designación de comisionado supernumerario, en los términos de la Constitución Política del Estado y la presente Ley.
 
-###### ARTICULO 22.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+Los comisionados numerarios, y supernumerarios, rendirán la protesta de ley ante el Congreso del Estado.
 
-1. LA MESA DIRECTIVA ES DIRIGIDA Y COORDINADA POR EL PRESIDENTE; SE REUNIRA PREFERENTEMENTE LOS DIAS LUNES A LAS DOCE HORAS DE CADA SEMANA.
+###### ARTÍCULO 29.
 
-2. COMO ORGANO COLEGIADO, LA MESA DIRECTIVA ADOPTARA SUS DECISIONES POR CONSENSO Y, EN CASO DE NO LOGRARSE EL MISMO, POR LA MAYORIA ABSOLUTA DE SUS INTEGRANTES. EN CASO DE EMPATE, EL PRESIDENTE DE LA MESA TENDRA VOTO DE CALIDAD.
+La elección de los comisionados será organizada y realizada por el Congreso del Estado, a través de la Comisión de Transparencia y Acceso a la Información Pública, la cual publicará por lo menos treinta días hábiles antes de la elección, previa aprobación del Pleno de la Legislatura, una convocatoria abierta a toda la ciudadanía, para recibir solicitudes y propuestas ciudadanas, y que deberá contener al menos las bases siguientes:
 
-3. A LAS REUNIONES DE LA MESA DIRECTIVA CONCURRIRA EL SECRETARIO DE SERVICIOS PARLAMENTARIOS DEL CONGRESO DEL ESTADO, CON VOZ PERO SIN VOTO, QUIEN PREPARARA LOS DOCUMENTOS NECESARIOS PARA LAS REUNIONES, LEVANTARA EL ACTA CORRESPONDIENTE Y LLEVARA EL REGISTRO DE LOS ACUERDOS QUE SE ADOPTEN.
+I. Requisitos de elegibilidad;
 
-### CAPITULO SEGUNDO. JUNTA DE COORDINACION POLITICA
+II. Formato, periodo, lugar y horario, de y para la presentación de solicitudes y propuestas;
 
-###### ARTICULO 23.
+III. Documentos adjuntos a las solicitudes y propuestas;
 
-EL PRESIDENTE DE LA MESA DIRECTIVA ES EL PRESIDENTE DEL CONGRESO Y SU REPRESENTANTE JURIDICO; EN EL SE EXPRESA LA UNIDAD DEL CONGRESO DEL ESTADO. EN SU DESEMPEÑO, DEBERA HACER PREVALECER EL INTERES GENERAL DEL CONGRESO POR ENCIMA DE LOS INTERESES PARTICULARES O DE GRUPO, PARA LO CUAL, ADEMAS DE LAS FACULTADES ESPECIFICAS QUE SE LE ATRIBUYEN EN EL ARTICULO ANTERIOR, TENDRAN LAS SIGUIENTES ATRIBUCIONES:
+IV. Plazo y formato para la verificación del cumplimiento de los requisitos de elegibilidad;
 
-A) ABRIR, PRORROGAR, SUSPENDER Y CLAUSURAR LAS SESIONES DEL PLENO;
+V. Obligación de publicar lista con el nombre de todas las personas que hayan presentado solicitudes y propuestas;
 
-B) DAR CURSO A LOS ASUNTOS Y DETERMINAR LOS TRAMITES QUE DEBEN RECAER EN AQUELLOS CON QUE SE DE CUENTA AL CONGRESO DEL ESTADO;
+VI. Obligación de publicar lista con el nombre de las personas que hayan cumplido con la totalidad de los requisitos establecidos en la ley y en la convocatoria.
 
-C) CONDUCIR LOS DEBATES Y APLICAR EL REGLAMENTO CORRESPONDIENTE.
+VII. Entrevista con las personas participantes en el procedimiento de elección desarrollada en sesión pública bajo el siguiente formato:
 
-D) FIRMAR, JUNTO CON UNO DE LOS SECRETARIOS, LAS LEYES Y DECRETOS QUE EXPIDA EL CONGRESO DEL ESTADO, ASI COMO LOS ACUERDOS Y DEMAS RESOLUCIONES.
+a) Cada aspirante podrá exponer su proyecto de trabajo hasta por un máximo de 15 minutos.
 
-E) FIRMAR LA CORRESPONDENCIA Y DEMAS COMUNICACIONES OFICIALES DEL CONGRESO DEL ESTADO;
+b) Concluida la presentación a que alude el inciso que antecede, se abrirá un espacio de preguntas por parte de los diputados presentes en la sesión.
 
-F) PRESIDIR LA CONDUCCION DE LAS RELACIONES DEL CONGRESO DEL ESTADO, EN LOS TERMINOS DEL INCISO E) DEL ARTICULO 21 DE ESTA LEY, Y REPRESENTARLO EN LAS CEREMONIAS A LAS QUE CONCURRAN LOS TITULARES DE LOS OTROS PODERES DEL ESTADO, O LAS AUTORIDADES LOCALES, ASI COMO EN LAS REUNIONES DE CARACTER NACIONAL, PUDIENDO DELEGAR SU REPRESENTACION EN CUALQUIERA DE LOS OTROS INTEGRANTES DE LA MESA DIRECTIVA;
+c) El aspirante deberá dar contestación en un tiempo no mayor de 3 minutos a cada pregunta que se le formule.
 
-G) EXCITAR A CUALQUIERA DE LAS COMISIONES, A NOMBRE DEL CONGRESO DEL ESTADO, A QUE PRESENTEN DICTAMEN SI HAN TRANSCURRIDO LOS QUINCE DIAS SIGUIENTES DESPUES DE AQUEL EN QUE SE LES TURNE UN ASUNTO, PUDIENDO ESTE FIJAR PLAZO DIFERENTE PARA SU DESAHOGO;
+d) Los diputados tendrán derecho de repreguntar.
 
-H) EXIGIR ORDEN AL PUBLICO ASISTENTE A LAS SESIONES E IMPONERLO CUANDO HUBIERE MOTIVO PARA ELLO;
+VIII. Concluida la etapa señalada en la fracción que precede, la Comisión de Transparencia y Acceso a la Información Pública, evaluará las constancias que se desprendan del procedimiento de elección, y emitirá el dictamen que proponga al Pleno, a la persona o personas, que sean elegibles al cargo de Comisionado Numerario y Supernumerario, de la Comisión Estatal de Garantía de Acceso a la Información Pública de San Luis Potosí.
 
-I) SOLICITAR EL USO DE LA FUERZA PUBLICA EN LOS TERMINOS ESTABLECIDOS EN ESTA LEY;
+En la conformación de la CEGAIP el Congreso del Estado procurará la igualdad de género, así como privilegiar la experiencia en materia de acceso a la información pública y protección de datos personales.
 
-J) REQUERIR A LOS DIPUTADOS FALTISTAS A CONCURRIR A LAS SESIONES DEL CONGRESO DEL ESTADO Y APLICAR, EN SU CASO, LAS MEDIDAS Y SANCIONES PROCEDENTES;
+La elección de los Comisionados de la CEGAIP se deberá llevar a cabo a través del voto de las dos terceras partes de los miembros del Congreso del Estado y en los procedimientos para su selección se deberá garantizar la transparencia, independencia y participación de la sociedad.
 
-K) OTORGAR PODERES PARA ACTOS DE ADMINISTRACION Y PARA REPRESENTAR AL CONGRESO DEL ESTADO ANTE LOS TRIBUNALES EN LOS JUICIOS DE CUALQUIER NATURALEZA EN QUE ESTA SEA PARTE;
+###### ARTÍCULO 30.
 
-L) LAS DEMAS QUE LE CONFIERA ESTA LEY Y EL REGLAMENTO.
+Para ser comisionado se requiere:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+I. Ser mexicano y preferentemente ciudadano potosino en los términos de la Constitución Política del Estado;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+II. No haber sido condenado por la comisión de algún delito doloso;
 
-###### ARTICULO 24.
+III. Tener al menos treinta años cumplidos al día de su elección;
 
-EL PRESIDENTE RESPONDERA SOLO ANTE EL PLENO CUANDO EN EL EJERCICIO DE SUS ATRIBUCIONES SE APARTE DE LAS DISPOSICIONES QUE LAS RIGEN.
+IV. Ser profesionista con título legalmente expedido, con al menos tres años de experiencia y conocimiento en materia de acceso a la información, protección de datos, transparencia, rendición de cuentas y/o protección a los derechos humanos;
 
-###### ARTICULO 25.
+V. No haber sido gobernador del Estado, titular de alguna de las dependencias y entidades que conforman la administración pública del Estado, Fiscal o Procurador General de Justicia del Estado, senador, diputado federal o local, presidente municipal, o dirigente de un partido político o asociación religiosa, durante el año previo al día de su elección, y
 
-1. LOS VICEPRESIDENTES ASISTEN AL PRESIDENTE DEL CONGRESO EN EL EJERCICIO DE SUS FUNCIONES.
+VI. Contar con una residencia efectiva en el Estado, cuando menos de dos años previos a su elección.
 
-2. LAS REPRESENTACIONES PROTOCOLARIAS DE LA CAMARA PODRAN SER ASUMIDAS POR UNO DE LOS VICEPRESIDENTES, QUIEN SERA DESIGNADO PARA TAL EFECTO POR EL PRESIDENTE.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+###### ARTÍCULO 31.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+Los comisionados durarán en su cargo cuatro años y, en ese lapso, podrán ser removidos de su cargo por las causas y a través de los procedimientos establecidos en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos; Título Décimo Segundo de la Constitución Política del Estado; y de conformidad con la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, y demás ordenamientos aplicables.
 
-###### ARTICULO 26.
+El cargo de comisionado es de tiempo completo, e incompatible con cualquier otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia.
 
-1. LOS SECRETARIOS DE LA MESA DIRECTIVA DEL CONGRESO DEL ESTADO TENDRAN LAS ATRIBUCIONES SIGUIENTES:
+###### ARTÍCULO 32.
 
-A) PASAR LISTA DE ASISTENCIA DE LOS DIPUTADOS AL INICIO DE LAS SESIONES PARA VERIFICAR QUE EXISTE EL QUORUM CONSTITUCIONAL;
+La CEGAIP manejará autónomamente su presupuesto, el que deberá elaborar integrando los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, sujetándose a las bases previstas en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos; debiendo remitir con oportunidad al Ejecutivo su proyecto de presupuesto anual, para que éste lo incluya en el Presupuesto de Egresos del Estado, que presenta al Congreso Local.
 
-B) DESAHOGAR LOS TRAMITES LEGISLATIVOS QUE LES CORRESPONDAN;
+El Congreso del Estado, deberá otorgar un presupuesto adecuado y suficiente a la CEGAIP para el funcionamiento efectivo y cumplimiento de la Ley General y la presente Ley, según corresponda, conforme a las leyes en materia de presupuesto y responsabilidad hacendaria.
 
-C) FIRMAR JUNTO CON EL PRESIDENTE, LAS LEYES Y DECRETOS EXPEDIDOS POR EL CONGRESO DEL ESTADO, ASI COMO LOS DEMAS ACUERDOS DEL PROPIO CONGRESO;
+###### ARTÍCULO 33.
 
-D) EXPEDIR LAS CERTIFICACIONES QUE DISPONGA EL PRESIDENTE DE LA MESA DIRECTIVA;
+La CEGAIP, a través de su Comisionado Presidente, presentará por escrito dentro de los primeros dos meses del año, un informe anual (sic) actividades, que entregará a los poderes del Estado; y comparecerá ante la Comisión de Transparencia y Acceso a la Información Pública del Poder Legislativo, dentro de los treinta días naturales siguientes a su presentación, para exponer el informe en el Congreso del Estado y recibir de los legisladores, opiniones, preguntas, y sugerencias respecto de los resultados de su desempeño. Dicha comparecencia será difundida en la forma más amplia posible para conocimiento de la sociedad.
 
-E) RECOGER Y COMPUTAR LAS VOTACIONES Y PROCLAMAR SUS RESULTADOS CUANDO ASI LO DISPONGA EL PRESIDENTE DE LA MESA DIRECTIVA;
+Antes de comenzar la comparecencia, el Secretario de la Comisión de Transparencia y Acceso a la Información Pública del Poder Legislativo, protestará al Comisionado Presidente para que se conduzca con verdad, advirtiéndole de las penas en que incurren aquellos que lo hagan con falsedad.
 
-F) EXTENDER LAS ACTAS DE LAS SESIONES, FIRMARLAS DESPUES DE SER APROBADAS POR EL PLENO, Y ASENTARLAS BAJO SU FIRMA EN EL LIBRO RESPECTIVO;
+En el informe anual precitado, se debe utilizar un lenguaje claro y accesible que facilite su comprensión por parte de los ciudadanos.
 
-G) CUIDAR QUE LAS ACTAS DE LAS SESIONES QUEDEN ESCRITAS Y FIRMADAS EN EL LIBRO CORRESPONDIENTE. LAS ACTAS DE CADA SESION CONTENDRAN EL NOMBRE DEL DIPUTADO QUE LA PRESIDA, LA HORA DE APERTURA Y CLAUSURA, LAS OBSERVACIONES, CORRECCIONES Y APROBACION DEL ACTA ANTERIOR, UNA RELACION NOMINAL DE LOS DIPUTADOS PRESENTES Y DE LOS AUSENTES, CON LICENCIA O SIN ELLA, ASI COMO UNA RELACION SUCINTA ORDENADA Y CLARA DE CUANTO SE TRATE Y RESOLVIERE EN LA SESION, EXPRESANDO NOMINALMENTE LAS PERSONAS QUE HAYAN HABLADO A FAVOR Y EN CONTRA, EVITANDO TODA CALIFICACION DE LOS DISCURSOS, EXPOSICIONES Y PROYECTOS DE LEY;
+###### ARTÍCULO 34.
 
-H) LEER LOS DOCUMENTOS LISTADOS EN EL ORDEN DEL DIA;
+La CEGAIP funcionará de forma colegiada en reuniones de Pleno, mismas que serán públicas con excepción de aquellas que vulneren el derecho a la privacidad de las personas, y se desarrollarán en los términos que señale su reglamento interior. Todas sus acciones, deliberaciones y resoluciones tendrán el carácter de públicas. El Pleno tendrá en el ámbito de su competencia, las siguientes atribuciones:
 
-I) ABRIR, INTEGRAR Y ACTUALIZAR LOS EXPEDIENTES DE LOS ASUNTOS RECIBIDOS Y ASENTAR LOS TRAMITES Y RESOLUCIONES;
+I. Interpretar y aplicar las disposiciones de la presente Ley, conforme a lo dispuesto a lo que establece el artículo 6° de la Constitución Política de los Estados Unidos Mexicanos;
 
-J) VIGILAR LA IMPRESION DEL DIARIO DE LOS DEBATES, Y
+II. Recibir, dar trámite y resolver los recursos que interpongan las personas que hubiesen solicitado información a los sujetos obligados;
 
-K) LAS DEMAS QUE LES ATRIBUYAN ESTA LEY, EL REGLAMENTO INTERNO DEL CONGRESO DEL ESTADO O QUE LES CONFIERA EL PRESIDENTE DE LA MESA DIRECTIVA.
+III. Cumplir y difundir los lineamientos y criterios técnicos que emita el Sistema Nacional, necesarios para que las unidades y comités de transparencia, realicen la clasificación, desclasificación y administración de la información reservada y confidencial que corresponda;
 
-5. EL PASE DE LISTA, LA VERIFICACION DEL QUORUM Y LAS VOTACIONES NOMINALES DE LEYES O DECRETOS PODRAN REALIZARSE A TRAVES DE MEDIOS ELECTRONICOS.
+IV. Conocer y resolver las denuncias que se interpongan en ejercicio de la acción de protección de datos personales;
 
-## TITULO SEGUNDO. DE LA ORGANIZACION POLITICA DEL CONGRESO DEL ESTADO
+V. Nombrar a la persona Responsable del Sistema Estatal de Documentación y Archivos, en términos de la Ley en la materia;
 
-### CAPITULO TERCERO. DE LA MESA DIRECTIVA
+VI. Recibir el Plan Anual de Trabajo del SEDA y su Programa Operativo Anual, para ser considerados en el proyecto del presupuesto de egresos de la CEGAIP; así como el Informe Anual de actividades del Sistema Estatal de Documentación y Archivos, en el mes de septiembre, para su integración al informe anual de actividades de la CEGAIP;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+VII. Establecer las normas y políticas para la administración, seguridad y resguardo de los datos personales, en protección de los sujetos obligados;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+VIII. Asesorar en la formulación de iniciativas destinadas a adecuar las disposiciones legales, leyes orgánicas, decretos y acuerdos de los sujetos obligados, conforme a lo dispuesto en la presente Ley;
 
-#### SECCION PRIMERA. DE SUS ATRIBUCIONES
+IX. Orientar y auxiliar a las personas para ejercer los derechos tutelados en la presente Ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+X. Elaborar y difundir estudios, investigaciones y publicaciones, tendientes a ampliar el conocimiento de las materias objeto de esta Ley;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+XI. Concurrir con el Instituto y con los organismos estatales de transparencia, en el cumplimiento de funciones que le sean comunes;
 
-###### ARTICULO 27.
+XII. Cooperar con los sujetos obligados en el cumplimiento de la ley, de manera directa e inmediata, o mediante la celebración de programas y acuerdos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XIII. Promover la rendición de cuentas de los poderes públicos entre sí; y la transparencia y rendición de cuentas hacia la sociedad;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+XIV. Promover la regulación e instrumentación del principio de publicidad de los actos y decisiones, así como el libre acceso a las reuniones de los poderes públicos estatales y municipales, e incentivar la participación ciudadana y comunitaria;
 
-1.- LA COMISION PERMANENTE ES EL ORGANO DEL CONGRESO DEL ESTADO QUE DURANTE LOS RECESOS DE ESTE DESEMPEÑA LAS FUNCIONES QUE LE SEÑALA LA CONSTITUCION POLITICA DEL ESTADO Y LA PRESENTE LEY.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XV. Recibir y sistematizar y, en su caso, requerir los informes mensuales que deberán enviarle los sujetos obligados, relativos a la recepción y tramitación de solicitudes de información pública que hayan recibido;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+XVI. Elaborar y aprobar su reglamento interior, y las disposiciones necesarias para el cumplimiento del mismo;
 
-2.- EL MISMO DIA DE LA CLAUSURA DEL PERIODO ORDINARIO DE SESIONES DEL CONGRESO DEL ESTADO, INMEDIATAMENTE A LA CLAUSURA DEL PERIODO Y SIN MAYOR TRAMITE EL PRESIDENTE DE LA MESA DIRECTIVA DECLARARA INSTALADA LA COMISION PERMANENTE, COMUNICANDOLO ASI A QUIENES CORRESPONDA.
+XVII. Designar y remover a los servidores públicos y empleados de la CEGAIP;
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2006)</small>
+XVIII. Conocer el informe anual a que se refiere el artículo 33 de esta Ley, antes de su presentación;
 
-3. LAS SESIONES ORDINARIAS DE LA COMISION PERMANENTE TENDRAN LUGAR LOS DIAS MIERCOLES A LAS DOCE HORAS DE CADA SEMANA. SI HUBIERE NECESIDAD DE CELEBRAR SESIONES EXTRAORDINARIAS, SE LLEVARAN A CABO PREVIA CONVOCATORIA POR PARTE DEL PRESIDENTE, CON UNA ANTELACION NO MENOR A VEINTICUATRO HORAS.
+XIX. En términos de las leyes de la materia, preparar su proyecto de presupuesto anual, para su inclusión en el Presupuesto de Egresos del Estado y su remisión, al Congreso del Estado; y administrar los recursos humanos y bienes de la CEGAIP;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XX. Aprobar el informe de los ingresos y egresos de la CEGAIP, en los términos que señala la Ley General de Contabilidad Gubernamental; la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí, y demás normativa aplicable en la materia;
 
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+XXI. Imponer, en los casos que proceda, a los servidores públicos responsables de la CEGAIP, las sanciones que correspondan de acuerdo con esta Ley y demás disposiciones aplicables;
 
-4. PARA QUE LAS SESIONES DE LA COMISION PERMANENTE TENGAN QUORUM, SE REQUIERE LA ASISTENCIA DE POR LO MENOS CUATRO DE LOS DIPUTADOS QUE LA INTEGRAN.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-###### ARTICULO 28.
+XXII. Solicitar al Consejo Estatal Electoral y de Participación Ciudadana se descuenten de las prerrogativas de los partidos políticos, así como de candidatas y candidatos independientes, las multas a que se hayan hecho acreedores;
 
-1. LOS ASUNTOS CUYA RESOLUCION CORRESPONDA AL CONGRESO Y QUE DURANTE EL RECESO SE PRESENTEN A LA COMISION PERMANENTE, SE TURNARAN A LAS COMISIONES QUE CORRESPONDA DEL CONGRESO DEL ESTADO.
+XXIII. Requerir a la Auditoría Superior del Estado haga efectivas las multas a que se hayan hecho acreedores los servidores públicos responsables;
 
-2. CUANDO SE TRATE DE INICIATIVAS DE LEY O DE DECRETOS, SE IMPRIMIRAN Y SE ORDENARA SU INSERCION EN EL DIARIO DE LOS DEBATES; SE REMITIRAN PARA SU CONOCIMIENTO A TODOS LOS DIPUTADOS QUE INTEGRAN LA LEGISLATURA, Y SE TURNARAN A LAS COMISIONES DEL CONGRESO A QUE VAYAN DIRIGIDAS.
+XXIV. Realizar reuniones o foros anuales, de carácter público, para discutir y analizar la aplicación y alcances de la presente Ley;
 
-###### ARTICULO 29.
+XXV. Vigilar y requerir el cumplimiento de lo dispuesto en los artículos 84 a 96 de la presente Ley, en materia de información que deba difundirse de oficio;
 
-1. LA COMISION PERMANENTE ADOPTARA SUS RESOLUCIONES POR MAYORIA DE VOTOS DE SUS MIEMBROS PRESENTES.
+XXVI. Promover la capacitación, actualización y habilitación de los servidores públicos, responsables de atender las solicitudes de acceso a la información, de la acción de protección de datos personales, de archivo y sistematización; desarrollar programas de difusión y educación cívica; y establecer convenios de cooperación con el propósito de hacer más eficaz y eficiente el desempeño de las funciones asignadas por esta Ley;
 
-###### ARTICULO 30.
+XXVII. Realizar guías que expliquen de manera sencilla, los procedimientos y trámites que de acuerdo con la esta Ley, tengan que realizarse ante los sujetos obligados y la CEGAIP;
 
-1. LA COMISION PERMANENTE NO SUSPENDERA SUS TRABAJOS DURANTE LOS PERIODOS EXTRAORDINARIOS DE SESIONES QUE SE CONVOQUEN, SALVO EN AQUELLO QUE SE REFIERA AL ASUNTO PARA EL QUE SE HAYA CONVOCADO EL PERIODO EXTRAORDINARIO RESPECTIVO.
+XXVIII. Imponer las medidas de apremio para asegurar el cumplimiento de sus determinaciones;
 
-###### ARTICULO 31.
+XXIX. Impulsar y fortalecer la cultura del ejercicio del derecho de acceso a la información pública, del ejercicio del derecho a la protección de datos personales, y de transparencia, en los diversos sectores de la población, especialmente en el educativo de todos los niveles que se impartan en el Estado;
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2006)</small>
+XXX. Presentar petición fundada al Instituto para que conozca de los recursos de revisión que por su interés y trascendencia así lo ameriten;
 
-1. LA COMISION PERMANENTE, EL ULTIMO DIA DE SU EJERCICIO EN CADA PERIODO, DEBERA TENER FORMADOS INVENTARIO, EL CUAL CONTENDRA LAS MEMORIAS, OFICIOS, COMUNICACIONES Y OTROS DOCUMENTOS QUE HUBIERE RECIBIDO DURANTE EL RECESO DEL CONGRESO DEL ESTADO.
+XXXI. Establecer políticas de transparencia proactiva atendiendo a las condiciones económicas, sociales y culturales;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
+XXXII. Suscribir convenios con los sujetos obligados que propicien la publicación de información en el marco de las políticas de transparencia proactiva, así como suscribir convenios de colaboración con particulares o sectores de la sociedad cuando sus actividades o productos resulten de interés público o relevancia social;
 
-###### ARTICULO 32.
+XXXIII. Firmar convenios de colaboración con otros organismos garantes para el cumplimiento de sus atribuciones y promover mejores prácticas en la materia;
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+XXXIV. Fomentar la igualdad sustantiva;
 
-1. PARA EL ESTUDIO, DICTAMEN Y SEGUIMIENTO DE LOS ASUNTOS QUE EL CONGRESO DEL ESTADO DEBA TRATAR POR RAZONES DE COMPETENCIA, SE CONSTITUIRAN COMISIONES, ORDINARIAS Y ESPECIALES
+XXXV. Coordinar en conjunto con las autoridades competentes, para que en los procedimientos de acceso a la información, así como en los medios de impugnación, se contemple contar con la información necesaria en lenguas indígenas y formatos accesibles, para que sean sustanciados y atendidos en la misma lengua y, en su caso, se promuevan los ajustes razonables necesarios si se tratara de personas con discapacidad;
 
-LAS COMISIONES ORDINARIAS TENDRAN A SU CARGO LAS CUESTIONES RELACIONADAS CON LA MATERIA PROPIA DE SU DENOMINACION Y EL ANALISIS Y DICTAMEN DE LAS INICIATIVAS DE LEYES Y DECRETOS DE SU COMPETENCIA.
+XXXVI. Garantizar condiciones de accesibilidad para que los grupos vulnerables puedan ejercer, en igualdad de circunstancias, su derecho de acceso a la información;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+XXXVII. Promover previa aprobación del Pleno las acciones de inconstitucionalidad en contra de leyes expedidas por la Legislatura Local, que vulneren el derecho de acceso a la información pública y la protección de datos personales;
 
-2. LAS COMISIONES ORDINARIAS SON:
+XXXVIII. Enviar al Instituto para que conozca y resuelva los recursos de revisión que, por su interés o trascendencia, así lo ameriten en términos de lo dispuesto en la Ley General;
 
-I. DE GOBERNACION Y PUNTOS CONSTITUCIONALES;
+XXXIX. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la Ley General; la presente Ley, y en las demás disposiciones aplicables;
 
-II. DE JUSTICIA;
+XL. Promover la participación y colaboración con organismos internacionales, en el análisis y mejores prácticas en materia de acceso a la información pública;
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2006)</small>
+XLI. Fomentar los principios de gobierno abierto, la transparencia, la rendición de cuentas, la participación ciudadana, la accesibilidad y la innovación tecnológica;
 
-III. DE EDUCACION Y CULTURA;
+XLII. Emitir recomendaciones a los sujetos obligados para diseñar, implementar y evaluar acciones de apertura gubernamental que permitan orientar las políticas internas en la materia;
 
-IV. DE HACIENDA;
+XLIII. Atender las opiniones correspondientes que el Consejo Consultivo emita de conformidad con lo dispuesto por la presente Ley;
 
-V. DE PUEBLOS Y COMUNIDADES INDIGENAS;
+XLIV. Conceder, en su caso, las licencias de los comisionados, cuando no excedan de tres meses;
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
 
-VI. DE PROMOCION COMERCIAL Y FOMENTO A LA INVERSION;
+XLV. Resolver de las excusas e impedimentos que se presenten en los términos establecidos en su reglamento interno;
 
-VII. (DEROGADA, P.O. 2 DE MAYO DE 2006)
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
 
-VIII. DE DESARROLLO URBANO Y OBRAS PUBLICAS;
+XLVI. Gestionar y recibir fondos de agencias donantes particulares y públicas, nacionales y extranjeras, en los términos que establece la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí, y
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+XLVII. Las demás que le confieran, la Ley General; esta Ley; y cualquier otra disposición legal aplicable.
 
-IX. DE MOVILIDAD, COMUNICACIONES Y TRANSPORTES;
+#### Sección Segunda. De los Comisionados; y la Presidencia de la CEGAIP
 
-X. DE REFORMA AGRARIA;
+###### ARTÍCULO 35.
 
-XI. DE SALUBRIDAD Y ASISTENCIA;
+Corresponde a los Comisionados:
 
-XII. DE SEGURIDAD SOCIAL;
+I. Participar en las sesiones y votar los asuntos que sean presentados al Pleno;
 
-XIII. DE TRABAJO Y PREVISION SOCIAL;
+II. Participar en foros, reuniones, eventos, convenciones y congresos que se lleven a cabo con organismos nacionales, internacionales y gobiernos extranjeros, cuando se refieran a temas en el ámbito de competencia de la CEGAIP y presentar al Pleno un informe de su participación conforme lo establezca su estatuto orgánico;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+III. Proponer al Pleno el nombramiento y remoción del personal que les sea asignado;
 
-XIV.- DE TURISMO Y COOPERACION INTERNACIONAL.
+IV. Proporcionar al Pleno la información que les sea solicitada en el ámbito de su competencia;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)</small>
+V. De forma directa o por medio del Secretario Técnico del Pleno, solicitar información a la unidad que corresponda, sobre el estado que guarda el trámite de cualquier asunto. Todos los Comisionados tendrán pleno acceso a las constancias que obren en los expedientes;
 
-XV. DE PESCA Y ACUACULTURA.
+VI. Presentar al Comisionado Presidente la solicitud de recursos indispensables para ejercer sus funciones para que sean consideradas en la elaboración del anteproyecto de presupuesto de la CEGAIP;
 
-XVI. DE DERECHOS HUMANOS;
+VII. Coadyuvar con el Comisionado Presidente en la integración del programa anual y los informes del Instituto;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+VIII. Someter a consideración del Pleno cualquier asunto competencia de la CEGAIP;
 
-XVII. DE ECOLOGIA Y CAMBIO CLIMATICO;
+IX. Excusarse inmediatamente de conocer asuntos en los que exista conflicto de intereses o situaciones que le impidan resolver un asunto de su competencia con plena independencia, profesionalismo e imparcialidad; para efectos de lo anterior los comisionados estarán impedidos para conocer de un asunto en el que tengan interés directo o indirecto, y se considerará que existe interés directo o indirecto cuando un Comisionado:
 
-XVIII. DE ZONAS FRONTERIZAS Y LIMITROFES;
+a) Tenga parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado, y en la colateral por afinidad hasta el segundo, con alguna de las partes en los asuntos o sus representantes.
 
-XIX. DE PLANEACION PARA EL DESARROLLO;
+b) Tenga interés personal, familiar o de negocios en el asunto, incluyendo aquéllos de los que pueda resultar algún beneficio para él, su cónyuge o sus parientes en los grados que expresa el inciso a) de esta fracción.
 
-XX. DE REGLAMENTACION Y PRACTICAS PARLAMENTARIAS; Y
+c) Él, su cónyuge o alguno de sus parientes en línea recta sin limitación de grado, sea heredero, legatario, donatario o fiador de alguno de los interesados o sus representantes, si aquéllos han aceptado la herencia, el legado o la donación.
 
-XXI. EDITORIAL Y DE RELACIONES PUBLICAS;
+d) Haya sido perito, testigo, apoderado, patrono o defensor en el asunto de que se trate o haya gestionado anteriormente el asunto en favor o en contra de alguno de los interesados.
 
-XXII. DE ARTESANIAS;
+e) Haya fijado pública e inequívocamente el sentido de su voto antes de que el Pleno resuelva el asunto, y
 
-XXIII. DE AGRICULTURA;
+X. Las demás que les confieran esta Ley; el estatuto orgánico de la CEGAIP, y el Pleno.
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2006)</small>
+Sólo podrán invocarse como causales de impedimento para conocer asuntos que se tramiten ante la CEGAIP las enumeradas en este artículo. Bajo ninguna circunstancia podrá decretarse la recusación de los comisionados por la expresión de una opinión técnica o académica, ni por explicar públicamente la fundamentación y motivación de una resolución dictada por el Instituto o por haber emitido un voto particular. Los comisionados numerarios deberán presentar al Pleno las razones por las cuales deban excusarse de conocer los asuntos en que se actualice alguno de los impedimentos señalados en este artículo, en cuanto tengan conocimiento del mismo. El Pleno calificará la excusa por mayoría de votos de sus miembros presentes, sin necesidad de dar intervención a los sujetos obligados con interés en el asunto.
 
-XXIV. DE DESARROLLO PECUARIO;
+Para plantear la excusa, los comisionados numerarios deberán informar al Pleno por escrito, la solicitud para no participar ya sea en el trámite, o discusión y decisión del asunto de que se trate, fundando y motivando las razones que le imposibilitan para hacerlo. El Pleno decidirá por mayoría de votos sobre la aceptación de la excusa.
 
-XXV. DE BOSQUES Y SELVAS;
+La determinación del Pleno que califique una excusa no es recurrible.
 
-XXVI. DE ATENCION A LA MUJER Y A LA NIÑEZ;
+En caso de que un Comisionado renuncie a su encargo, deberá presentar por escrito su renuncia dirigida a la Presidencia del Congreso del Estado, con copia al Pleno de la CEGAIP, estableciendo la fecha específica en que se hace vigente la misma, para que el Congreso del Estado esté en posibilidad de iniciar el procedimiento establecido en esta Ley, para el nombramiento del Comisionado que cubra la vacante.
 
-XXVII. DE ENERGETICOS;
+Las licencias de los comisionados cuando no excedan de tres meses, podrán ser concedidas por el Pleno de la CEGAIP, conforme a su reglamento interno; las que excedan de este tiempo deberán solicitarse ante el Congreso del Estado.
 
-XXVIII. DE RECURSOS HIDRAULICOS;
+###### ARTÍCULO 36.
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2006)</small>
+Son atribuciones del Presidente de la CEGAIP:
 
-XXIX. DE POBLACION Y ASUNTOS MIGRATORIOS;
+I. Tener la representación legal de la CEGAIP;
 
-XXX. DE CULTURAS POPULARES;
+II. Por acuerdo del Pleno promover las acciones de inconstitucionalidad a que se refiere el inciso h) de la fracción II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XXXI. COMISION DE VIGILANCIA;
+III. Conducir la administración de la CEGAIP, ejecutando los actos jurídicos y administrativos que resulten necesarios para tal efecto;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+IV. Remitir oportunamente al titular del Poder Ejecutivo, el presupuesto de egresos de la CEGAIP, para su inclusión en el presupuesto del Estado, una vez aprobado por el Consejo;
 
-XXXII. DE DESARROLLO SOCIAL Y DE SEGUIMIENTO AL CUMPLIMIENTO DE LOS OBJETIVOS DE DESARROLLO SOSTENIBLE;
+V. Vigilar el ejercicio del presupuesto de egresos asignado a la CEGAIP, y presentar al Pleno para su aprobación y remisión a la Auditoría Superior del Estado, un informe de los ingresos y egresos del mismo, en los términos que señala la Ley General de Contabilidad Gubernamental; la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí, y demás normativa aplicable en la materia;
 
-XXXIII. DE DESARROLLO RURAL; Y
+VI. Remitir a la Auditoría Superior del Estado la correspondiente cuenta pública anual de la CEGAIP;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+VII. Suscribir, junto con el Secretario Técnico del Pleno, los convenios que sean necesarios con el Instituto, los órganos estatales homólogos, y otras autoridades de cualquier orden de gobierno, que se requieran para el cumplimiento de las atribuciones de la CEGAIP, previa autorización del Pleno;
 
-XXXIV. DE IGUALDAD DE GENERO
+VIII. Garantizar el desarrollo de las sesiones del Pleno, y
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2005)</small>
+IX. Presentar el informe anual de la CEGAIP al Congreso del Estado;
 
-XXXV.- DE JUVENTUD Y DEPORTE;
+#### Sección Tercera. Del Órgano Interno de Control de la CEGAIP
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+###### ARTÍCULO 37.
 
-XXXVI. DE CIENCIA, TECNOLOGÍA E INNOVACIÓN;
+La CEGAIP contará con un Órgano Interno de Control, que tiene encomendada la función, control y vigilancia de los servidores públicos de ésta, para lo cual contará con autonomía técnica y de gestión para decidir sobre su funcionamiento.
 
-> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2006)</small>
+En el ejercicio de sus atribuciones la persona titular de la Contraloría Interna, se abstendrá de interferir en el desempeño de las funciones y en el ejercicio de las atribuciones de la CEGAIP.
 
-XXXVII. DE SEGURIDAD PUBLICA;
-
-> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2006)</small>
-
-XXXVIII. DE PROTECCION CIVIL;
-
-> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2006)</small>
-
-XXXIX. DE POSTULACION DE LA MEDALLA ROSARIO CASTELLANOS; Y,
-
-> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2006)</small>
-
-XL. DE ATENCION A GRUPOS VULNERABLES.
-
-> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2010)</small>
-
-XLI. DEL CAFE.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XLII. DE VIVIENDA.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XLIII. DE ASUNTOS RELIGIOSOS.
-
-###### ARTICULO 33.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
-
-1. LAS COMISIONES ORDINARIAS EN SU INTEGRACION INTERNA SE CONSTITUIRAN EN BASE A LOS ACUERDOS DE LA JUNTA DE COORDINACION POLITICA, SIN MENOSCABO DE LA REPRESENTACION PONDERADA DE CADA GRUPO PARLAMENTARIO. SERAN ELECTAS POR EL PLENO DEL CONGRESO DEL ESTADO Y SUS MIEMBROS NO PODRAN EXCUSARSE DE INTEGRARLAS A NO SER POR IMPEDIMENTO JUSTIFICADO QUE SERA RESUELTO POR EL CONGRESO DEL ESTADO, EN ESTOS CASOS SE NOMBRARA AL SUSTITUTO A PROPUESTA DE LA JUNTA DE COORDINACION POLITICA.
-
-2. LOS DIPUTADOS PODRAN DESEMPEÑAR UNA O MAS COMISIONES, Y NINGUNO ESTARA DISPENSADO DE FORMAR PARTE DE ELLAS.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
-
-3. EN LOS CASOS DE AUSENCIA DEL PRESIDENTE DE ALGUNA COMISION, QUIEN DEBERA PRESIDIRLA SERA EL VICEPRESIDENTE, CON EL PROPOSITO DE DESAHOGAR LOS ASUNTOS ENCOMENDADOS A DICHA COMISION.
-
-###### ARTICULO 34.
-
-1. LAS COMISIONES ORDINARIAS SE INTEGRARAN DURANTE LOS QUINCE DIAS SIGUIENTES AL INICIO DE LA LEGISLATURA Y SUS INTEGRANTES DURARAN EN EL CARGO TRES AÑOS, PUDIENDO SER REMOVIDOS POR ACUERDO MAYORITARIO DE LOS DIPUTADOS PRESENTES DEL PLENO, CUANDO ASI SE REQUIERA.
-
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
-
-2. LAS SESIONES DE COMISIONES SERAN FORMALES Y SU ACTUACION DEBERA SER COLEGIADA; DEBIENDOSE COMUNICAR A SUS MIEMBROS LOS ASUNTOS A TRATAR CON POR LO MENOS VEINTICUATRO HORAS DE ANTICIPACION.
-
-3. LAS COMISIONES SEGUIRAN FUNCIONANDO DURANTE EL RECESO DEL CONGRESO DEL ESTADO, EN EL DESPACHO DE LOS ASUNTOS A SU CARGO.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
-
-#### SECCION SEGUNDO (SIC). DE SU PRESIDENTE
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
-
-###### ARTICULO 35.
-
-1. LAS COMISIONES TOMARAN SUS DECISIONES POR MAYORIA DE VOTOS DE SUS MIEMBROS. LOS DICTAMENES QUE PRODUZCAN DEBERAN PRESENTARSE FIRMADOS POR LA MAYORIA DE LOS DIPUTADOS QUE LAS INTEGREN. CUANDO ALGUNO DE LOS MIEMBROS DE UNA COMISION DISIENTA DE LA RESOLUCION ADOPTADA, PODRA EXPRESAR SU PARECER POR ESCRITO, FIRMANDO COMO VOTO PARTICULAR DIRIGIDO AL DIPUTADO PRESIDENTE DE LA MESA DIRECTIVA, A FIN DE QUE SE PONGA A CONSIDERACION DEL PLENO.
-
-###### ARTICULO 36.
-
-1. LAS COMISIONES PODRAN PEDIR A LAS DEPENDENCIAS Y OFICINAS GUBERNAMENTALES LAS INFORMACIONES Y COPIAS DE DOCUMENTOS QUE REQUIERAN PARA EL DESPACHO DE SUS NEGOCIOS, LOS QUE DEBERAN SER PROPORCIONADOS. LA NEGATIVA A ENTREGARLOS EN LOS PLAZOS QUE CONCEDAN, AUTORIZARA A LA COMISION PARA DIRIGIRSE EN QUEJA AL TITULAR DE LA DEPENDENCIA O AL CIUDADANO GOBERNADOR DEL ESTADO.
-
-#### SECCION TERCERA. DE LOS VICEPRESIDENTES Y DE LOS SECRETARIOS
-
-###### ARTICULO 37.
-
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2006)</small>
-
-1.- EL CONGRESO DEL ESTADO, ASI COMO LAS COMISIONES, A FIN DE ILUSTRAR SU JUICIO EN EL DESPACHO DE LOS ASUNTOS QUE SE LES ENCOMIENDEN, TENDRAN FACULTADES PARA CITAR A LOS FUNCIONARIOS PUBLICOS Y TITULARES DE LAS DEPENDENCIAS GUBERNAMENTALES A TRAVES DEL GOBERNADOR DEL ESTADO, PARA EFECTOS DE QUE LES INSTRUYA Y CONCURRAN AL CONGRESO DEL ESTADO O A LAS COMISIONES, EN UN PLAZO NO MAYOR A SIETE DIAS, QUIENES ESTARAN OBLIGADOS A RENDIR LA INFORMACION REQUERIDA Y CONFIABLE, Y DAR CUENTA DEL ESTADO QUE GUARDAN SUS RESPECTIVOS RAMOS.
-
-2. EN CASO DE INCUMPLIMIENTO SE SEGUIRA EL PROCEDIMIENTO A QUE SE REFIERE EL ARTICULO ANTERIOR.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 38.
 
-1. LAS REUNIONES DE LAS COMISIONES PODRAN SER PUBLICAS O PRIVADAS, CUANDO ASI LO ACUERDEN SUS MIEMBROS, PODRAN CELEBRAR SESIONES DE INFORMACION Y AUDIENCIA A LAS QUE ASISTIRAN, A INVITACION DE ELLAS, REPRESENTANTES DE GRUPOS DE INTERES, ASESORES, PERITOS O LAS PERSONAS QUE LAS COMISIONES CONSIDEREN QUE PUEDAN APORTAR CONOCIMIENTO Y EXPERIENCIAS SOBRE EL ASUNTO DE QUE SE TRATE.
+El Órgano Interno de Control contará con las siguientes atribuciones:
 
-###### ARTICULO 39.
+I. Llevar a cabo el cumplimiento de las normas y disposiciones establecidas en las leyes: General de Contabilidad Gubernamental; de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí; de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí, de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí; de Entrega-Recepción de los Recursos Públicos del Estado y Municipios de San Luis Potosí, y demás normativa vigente aplicable a los órganos internos de control;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2019)</small>
+II. Planear, organizar, ejecutar y coordinar auditorías internas de carácter financiero, operacional y administrativo, a fin de comprobar el cumplimiento de la normatividad, criterios y procedimientos establecidos;
 
-1. EN GENERAL LA COMPETENCIA DE ESTAS COMISIONES ES LA QUE SE DERIVA DE SU PROPIA DENOMINACIÓN EN CORRESPONDENCIA CON LAS RESPECTIVAS ÁREAS DE LA ADMINISTRACIÓN PÚBLICA, Y CONOCERÁN PARA SU ESTUDIO, DICTAMEN Y SEGUIMIENTO ENTRE OTROS ASPECTOS, DE LOS SIGUIENTES ASUNTOS:
+III. Dictaminar los estados financieros del área administrativa, y verificar que los informes sean remitidos en tiempo al Pleno;
 
-I. LA COMISION DE GOBERNACION Y PUNTOS CONSTITUCIONALES, ESTUDIARA Y REGLAMENTARA EN EL AREA DE SU COMPETENCIA TODAS LAS INICIATIVAS DE REFORMAS CONSTITUCIONALES, LEYES REGLAMENTARIAS Y BASES GENERALES DE REGLAMENTOS MUNICIPALES;
+IV. Realizar los inventarios generales de bienes muebles e inmuebles de la CEGAIP;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+V. Presentar denuncias o querellas ante la autoridad competente, en caso de detectar conductas presumiblemente constitutivas de delito, imputables a los servidores públicos de la CEGAIP, y
 
-II. LA COMISION DE JUSTICIA, TENDRA ADEMAS DE LAS ATRIBUCIONES QUE LE CONFIERA EL H. CONGRESO DEL ESTADO, LA DE ESTUDIAR Y DICTAMINAR TODOS LOS ASUNTOS QUE TENGAN RELACION CON LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS Y AQUELLOS CASOS A QUE ALUDE EL TITULO DECIMO SEGUNDO DE LA CONSTITUCION DEL ESTADO Y SU LEY REGLAMENTARIA;
+VI. Informar oportunamente a los servidores públicos acerca de la obligación de realizar sus declaraciones patrimonial, fiscal y de intereses en los casos en que corresponda; verificando que tales declaraciones se presenten en los términos de la ley de la materia.
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2006)</small>
+###### ARTÍCULO 39.
 
-III. LA COMISION DE EDUCACION Y CULTURA, ESTUDIARA Y DICTAMINARA TODO LO RELACIONADO EN MATERIA EDUCATIVA Y DE LA CULTURA;
+Para ser titular del órgano interno de control se deberán cubrir los siguientes requisitos:
 
-IV. LA COMISION DE HACIENDA, ESTUDIARA Y DICTAMINARA LAS INICIATIVAS REMITIDAS EN RELACION CON LOS ASUNTOS DE SU COMPETENCIA, ESPECIALMENTE LOS PRESUPUESTOS DE EGRESOS, LEYES DE INGRESOS Y CUENTA PUBLICA QUE EN GENERAL QUE SE RECIBAN;
+I. Ser ciudadano mexicano y preferentemente potosino en pleno ejercicio de sus derechos civiles y políticos;
 
-V. LA COMISION DE PUEBLOS Y COMUNIDADES INDIGENAS, ESTUDIARA Y DICTAMINARA TODOS LOS ASUNTOS RELACIONADOS CON EL DESARROLLO Y PROBLEMATICA DE LAS DIVERSAS ETNIAS DEL ESTADO;
+II. Tener por lo menos treinta años cumplidos el día de la designación;
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2006)</small>
+III. Gozar de buena reputación y no haber sido condenado por delito que haya ameritado pena privativa de libertad de más de un año; pero, si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-VI. LA COMISION DE PROMOCION COMERCIAL Y FOMENTO A LA INVERSION, ESTUDIARA Y DICTAMINARA SOBRE AQUELLOS ASUNTOS RELACIONADOS CON ESTA MATERIA Y QUE SEAN DE INTERES GENERAL, PROCURANDO EN TODO CASO FOMENTAR LOS PROCESOS PARA LA INVERSION EN CHIAPAS;
+IV. No haber sido gobernador del Estado, titular de alguna de las dependencias y entidades que conforman la administración pública del Estado, Fiscal o Procurador General de Justicia del Estado, senador, diputado federal o local, presidente municipal, o dirigente de un partido político o asociación religiosa, durante el año previo al día de su elección;
 
-VII. (DEROGADA, P.O. 2 DE MAYO DE 2006)
+V. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos;
 
-VIII. A LA COMISION DE DESARROLLO URBANO Y OBRAS PUBLICAS, LE CORRESPONDERA ATENDER LA CORRECTA APLICACION DE LAS DISPOSICIONES LEGALES QUE PRETENDAN REGULAR EL DESARROLLO URBANO Y LA REALIZACION EFECTIVA Y ALCANCE DE LAS OBRAS PUBLICAS;
+VI. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+VII. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación, a despachos que hubieren prestado sus servicios a la CEGAIP o haber fungido como consultor o auditor externo de la CEGAIP en lo individual durante ese periodo, y
 
-IX. LA COMISION DE MOVILIDAD, COMUNICACIONES Y TRANSPORTES, ANALIZARA QUE LAS DISPOSICIONES LEGALES Y REGLAMENTARIAS EN ASUNTOS DE COMUNICACIONES Y TRANSPORTES SE AJUSTEN A LAS NECESIDADES DE LA POBLACION Y SATISFAGAN EL INTERES POPULAR.
+VIII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
 
-X. LA COMISION DE REFORMA AGRARIA, PROCURARA MEDIANTE EL ANALISIS MESURADO, QUE LOS ASUNTOS DE ORDEN AGRARIO SEAN TRAMITADOS EN FORMA EXPEDITA A FIN DE SATISFACER LAS DEMANDAS CAMPESINAS Y COADYUVAR AL INCREMENTO DE LA PRODUCCION AGROPECUARIA ELEVANDO LOS LOGROS EN EL SISTEMA ALIMENTARIO;
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
-XI. LA COMISION DE SALUBRIDAD Y ASISTENCIA, SE ENCARGARA DE VIGILAR Y PROCURAR PORQUE EL ESTADO DE SALUD DE LA POBLACION EN GENERAL SE GARANTICE MEDIANTE LAS PREVENCIONES GENERALES QUE DICTE EL INTERES POPULAR Y LA HIGIENE PUBLICA;
+###### ARTÍCULO 40.
 
-XII. LA COMISION DE SEGURIDAD SOCIAL, PROPICIARA MEDIANTE EL ESTUDIO RESPECTIVO, LA CONSECUCION DE ESTA GARANTIA SOCIAL RECOMENDANDO AQUELLAS PRACTICAS Y PROCEDIMIENTOS QUE TIENDAN A INCORPORAR A AQUELLOS CIUDADANOS QUE AUN NO DISFRUTEN DE ESTE BENEFICIO POPULAR;
+La persona titular del Órgano Interno de Control será elegida, previa convocatoria pública, por el Congreso del Estado, con el voto de la mayoría de sus miembros presentes. Durará en su encargo cuatro años, y no podrá ser reelecta; así mismo, no podrá ser removida sino por los casos y causas que establezcan las leyes de la materia.
 
-XIII. LA COMISION DE TRABAJO Y PREVISION SOCIAL, VIGILARA QUE LOS LINEAMIENTOS ESTABLECIDOS Y LOS QUE SE ESTABLEZCAN FORTALEZCAN LA POLITICA DE EMPLEO Y DE ORGANIZACION COOPERATIVISTA, DE CULTURA, Y DE INTEGRACION FAMILIAR;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+###### ARTÍCULO 41.
 
-XIV. LA COMISION DE TURISMO Y COOPERACION INTERNACIONAL TIENE COMO FACULTAD ATENDER LOS ASUNTOS RELACIONADOS CON LA LEGISLACION EN MATERIA DE FOMENTO TURISTICO; LA PLANEACION Y PROGRAMACION DE LA ACTIVIDAD TURISTICA ESTATAL; REALIZAR ACCIONES CON EL OBJETO DE INCREMENTAR O MEJORAR LOS SERVICIOS TURISTICOS Y MEJORAR LOS SERVICIOS CORRELATIVOS EN EL ESTADO, Y EL CONOCIMIENTO SOBRE PROMOCION DE INFRAESTRUCTURA TURISTICA Y LAS POLITICAS, PLANES Y PROGRAMAS DE DIFUSION EN MATERIA DE TURISMO; ASIMISMO SERA LA ENCARGADA EN LO CONCERNIENTE A LAS RELACIONES INTERNACIONALES DE NUESTRO ESTADO, Y FUNGIRA COMO ORGANO DE ENLACE Y COORDINACION DEL CONGRESO DEL ESTADO, CON LAS INSTANCIAS INTERNACIONALES, CON EL PROPOSITO DE GENERAR CREDIBILIDAD QUE PERMITA ELEVAR EL NIVEL DE CONFIANZA CON LOS DISTINTOS PAISES Y SUS EMBAJADAS O CON AGENDAS Y ORGANISMOS INTERNACIONALES.
+En la elección de la persona titular del Órgano Interno de Control, el Congreso del Estado se sujetará a lo siguiente:
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)</small>
+I. Nombrará una comisión especial de cinco legisladores, encargada de sustanciar el procedimiento en los términos del presente artículo;
 
-XV. LA COMISIÓN DE PESCA Y ACUACULTURA,EJERCER (SIC) EN EL ÁMBITO DE SU COMPETENCIA EL ESTUDIO, ANÁLISIS Y DICTAMEN DE LAS INICIATIVAS DE LEY O DECRETOS EN MATERIA PESQUERA Y ACUÍCOLA.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
-XVI. LA COMISION DE DERECHOS HUMANOS, TENDRA A SU CARGO LA VIGILANCIA DEL RESPETO A LOS DERECHOS HUMANOS EN EL ESTADO Y SUJETARA SUS ACCIONES A LO DISPUESTO POR LAS LEYES AL RESPECTO, ASI COMO LO QUE EL CONGRESO ACUERDE;
+II. La comisión especial emitirá una convocatoria pública que deberá ser difundida en el Periódico Oficial del Estado, y cuando menos en uno de los diarios locales de mayor circulación en la Entidad, y que deberá observar los requisitos establecidos para su elección, así como un sistema que garantice la igualdad de oportunidades en el acceso a la función pública con base en el mérito, y los mecanismos más idóneos y eficientes para su adecuada profesionalización, atrayendo a los mejores candidatos para ocupar los puestos, a través de procedimientos transparentes, objetivos y equitativos;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+III. La comisión integrará una lista no menor de tres aspirantes, que presentará a la consideración del Pleno del Congreso del Estado;
 
-XVII. LA COMISION DE ECOLOGIA Y CAMBIO CLIMATICO, TIENE COMO FUNCION REALIZAR ESTUDIOS E INVESTIGACIONES DE LOS PROBLEMAS DEL MEDIO AMBIENTE DE LA ENTIDAD, SEGUN LO DICTE LA LEGISLACION DE LA MATERIA; ASI COMO, LLEVAR A CABO ACCIONES ENCAMINADAS A PREVENIR Y COMBATIR LOS EFECTOS DEL CAMBIO CLIMATICO EN LA ENTIDAD.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
-XVIII. LA COMISION DE ZONAS FRONTERIZAS Y LIMITROFES, VIGILARA TODO LO CONCERNIENTE A LA ZONA FRONTERIZA Y A LOS ASUNTOS DE LIMITES GEOGRAFICOS ENTRE LOS MUNICIPIOS Y OTRAS ENTIDADES, SEGUN LA COMPETENCIA DEL CONGRESO DEL ESTADO;
+IV. El Pleno del Congreso por mayoría de sus miembros presentes, de la lista presentada por la comisión especial, elegirá en votación por cédula, a quien deberá fungir como persona titular del órgano Interno de Control de la CEGAIP; y
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
-
-XIX. LA COMISION DE PLANEACION PARA EL DESARROLLO COADYUVARA A LA CONFORMACION DEL SISTEMA ESTATAL DE PLANEACION DEMOCRATICA, PARA LO CUAL SERA COMPETENTE PARA FORMULAR EL DICTAMEN SOBRE LA EXAMINACION Y APROBACION, EN SU CASO, DEL PLAN ESTATAL DE DESARROLLO, LOS PROGRAMAS SECTORIALES, ESPECIALES Y REGIONALES PARA EL DESARROLLO QUE PRESENTE EL EJECUTIVO DEL ESTADO; ASI COMO LOS PLANES MUNICIPALES DE DESARROLLO QUE PRESENTEN LOS AYUNTAMIENTOS PARA EL PERIODO DE SU ENCARGO. ASIMISMO, DEBERA FORMULAR DICTAMEN DE EXAMINACION Y OPINION SOBRE LA EVALUACION DEL NIVEL DE CUMPLIMIENTO DE DICHOS PLANES Y PROGRAMAS.
-
-XX. LA COMISION DE REGLAMENTACION Y PRACTICAS PARLAMENTARIAS SE OCUPARA DE PROPONER LA ACTUALIZACION PERMANENTE DE LAS NORMAS DE DISCUSION Y DEBATE CAMARALES, ASI COMO DE COMPILAR LOS ACUERDOS DE TRAMITE QUE EL CONGRESO DEL ESTADO TOME EN EL CURSO DE SUS TRABAJOS;
-
-XXI. LA COMISION EDITORIAL Y DE RELACIONES PUBLICAS TENDRA A SU CARGO LA PUBLICACION DE LA MEMORIA ANUAL DE LABORES DEL CONGRESO DEL ESTADO, SUPERVISAR LAS ACTIVIDADES DE LA BIBLIOTECA Y FOMENTAR LAS RELACIONES PUBLICAS;
-
-XXII. LA COMISION DE ARTESANIAS, CONOCERA Y DICTAMINARA LO RELATIVO AL FOMENTO Y DESARROLLO DE LAS ACTIVIDADES ARTESANALES DE LAS DISTINTAS REGIONES DE LA ENTIDAD;
-
-XXIII. LA COMISION DE AGRICULTURA, TENDRA A SU CARGO EL ANALISIS DE LAS POLITICAS Y ESTRATEGIAS DEL DESARROLLO AGRICOLA, ACORDE CON LO SEÑALADO EN LA LEGISLACION DE LA MATERIA;
-
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2006)</small>
-
-XXIV. LA COMISION DE DESARROLLO PECUARIO, CONOCERA PARA SU ESTUDIO Y DICTAMEN DE LAS POLITICAS, ESTRATEGIAS, PLANES Y PROGRAMAS DE DESARROLLO PECUARIO QUE SEAN COMPETENCIA DEL ESTADO, ASI COMO DE LA LEGISLACION EN LA MATERIA;
-
-XXV. LA COMISION DE BOSQUES Y SELVAS, PROCURARA MEDIANTE EL ANALISIS DE LOS LINEAMIENTOS LEGALES ESTABLECIDOS, LA CONSERVACION, PROTECCION, RESTAURACION, FOMENTO Y APROVECHAMIENTO RACIONAL DE ESTOS RECURSOS;
-
-XXVI. LA COMISION DE ATENCION A LA MUJER Y A LA NIÑEZ, ESTUDIARA Y ANALIZARA LAS POLITICAS DE DESARROLLO INTEGRAL DE LA MUJER Y PROMOVERA SU PARTICIPACION EN PLANOS DE IGUALDAD EN LA VIDA SOCIAL, POLITICA Y ECONOMICA, ASI COMO PROCURAR UNA MEJOR ATENCION A LA NIÑEZ;
-
-XXVII. LA COMISION DE ENERGETICOS, ESTUDIARA EL APROVECHAMIENTO Y USO DE LOS RECURSOS RELACIONADOS CON ESTA MATERIA, DE ACUERDO CON LO PREVISTO EN LA LEGISLACION RESPECTIVA;
-
-XXVIII. LA COMISION DE RECURSOS HIDRAULICOS, ANALIZARA Y DICTAMINARA EL ESTUDIO, USO Y APROVECHAMIENTO DE LAS AGUAS;
-
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
-
-XXIX. LA COMISION DE POBLACION Y ASUNTOS MIGRATORIOS, SE ENCARGARA DE ANALIZAR Y PROPONER POLITICAS PUBLICAS INTEGRALES EN ATENCION A LA POBLACION DEL ESTADO, RESPONDIENDO A LAS CARACTERISTICAS GEOGRAFICAS, DEMOGRAFICAS Y TERRITORIALES DE LA ENTIDAD. RECONOCIENDO LA CONDICION FRONTERIZA DE CHIAPAS, SE PROMOVERA QUE SE CUMPLAN LOS ORDENAMIENTOS LEGALES EXISTENTES Y EN SU CASO PROPONER O PRESENTAR INICIATIVAS QUE ASEGUREN EL RESPETO IRRESTRICTO DE LOS DERECHOS HUMANOS DE LOS INMIGRANTES, MIGRANTES EXTRANJEROS EN TRANSITO, EMIGRANTES, RETORNADOS, DESPLAZADOS Y REFUGIADOS, CON ESPECIAL ATENCION A GRUPOS VULNERABLES, RESPONDIENDO A SU DESARROLLO INTEGRAL MEDIANTE INICIATIVAS QUE MEJOREN LA ECONOMIA DE SUS FAMILIAS. DANDO ESPECIAL ENFASIS EN PROMOVER LA CREACION DE MECANISMOS E INSTRUMENTOS INSTITUCIONALES PARA AQUELLOS CHIAPANECOS QUE EMIGRARON AL INTERIOR O AL EXTERIOR DEL PAIS; VELANDO SIEMPRE POR SUS DERECHOS FUNDAMENTALES DE ACUERDO A LA LEGISLACION VIGENTE TANTO DE ORIGEN COMO DE LOS LUGARES DE DESTINO, BAJO LOS PRINCIPIOS DE DEMOCRACIA, JUSTICIA Y SEGURIDAD.
-
-XXX. LA COMISION DE CULTURAS POPULARES, ANALIZARA EL FORTALECIMIENTO DE LAS RAICES CULTURALES, LOS USOS, COSTUMBRES Y TRADICIONES DE LOS PUEBLOS;
-
-XXXI. LA COMISION DE VIGILANCIA, EVALUARA Y CONTROLARA EL DESEMPEÑO DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO Y SE CONSTITUIRA COMO ENLACE DE COORDINACION ENTRE ESTE Y EL CONGRESO DEL ESTADO;
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-XXXII. LA COMISION DE DESARROLLO SOCIAL Y DE SEGUIMIENTO AL CUMPLIMIENTO DE LOS OBJETIVOS DE DESARROLLO SOSTENIBLE, TENDRA EL OBJETIVO DE ANALIZAR, DICTAMINAR Y VIGILAR LA APLICACION DE LAS POLITICAS PUBLICAS ORIENTADAS A LOGRAR MEJORES NIVELES DE BIENESTAR EN LA SOCIEDAD FOMENTANDO LA IGUALDAD DE OPORTUNIDADES, ENTRE LOS GRUPOS VULNERABLES Y DE LOS ASPECTOS Y ASUNTOS RELATIVOS AL CUMPLIMIENTO DE LOS OBJETIVOS DE DESARROLLO SOCIAL Y DE SEGUIMIENTO AL CUMPLIMIENTO DE LOS OBJETIVOS DE DESARROLLO SOSTENIBLE DEL PROGRAMA DE NACIONES UNIDAS PARA EL DESARROLLO.
-
-XXXIII. LA COMISION DE DESARROLLO RURAL, CONOCERA PARA SU ESTUDIO Y DICTAMEN, DE LAS POLITICAS, ESTRATEGIAS Y ASUNTOS RELATIVOS A LA LEY DE LA MATERIA, ASI COMO DE AQUELLOS ASUNTOS QUE TRAMITE LA DEPENDENCIA CORRESPONDIENTE DE LA ADMINISTRACION PUBLICA DEL ESTADO;
-
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
-
-XXXIV. LA COMISIÓN DE IGUALDAD DE GENERO, SE ENCARGARA DE PROMOVER LA IGUALDAD DE OPORTUNIDADES Y ELIMINACIÓN DE DISCRIMINACIÓN ENTRE LOS GÉNEROS.
-
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2005)</small>
-
-XXXV. LA COMISION DE JUVENTUD Y DEPORTE.- TENDRA A SU CARGO EL FOMENTO A LAS ACTIVIDADES DEPORTIVAS EN NUESTRA ENTIDAD Y A SU VEZ GENERARA Y VIGILARA QUE SE CUMPLAN CON LAS POLITICAS PUBLICAS DE ATENCION Y DESARROLLO INTEGRAL DE LA JUVENTUD CHIAPANECA, DE IGUAL MANERA COLABORARA CONJUNTAMENTE CON LAS INSTITUCIONES PUBLICAS Y PRIVADAS QUE IMPULSAN AL DEPORTE Y LA ATENCION A LA JUVENTUD EN NUESTRA ENTIDAD;
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
-
-XXXVI.- LA COMISIÓN DE CIENCIA, TECNOLOGÍA E INNOVACIÓN, EJERCERÁ LAS FUNCIONES DE ESTUDIO, ANÁLISIS Y DICTAMEN DE LAS INICIATIVAS DE LEY, DECRETOS Y ACUERDOS QUE LE SEAN TURNADAS DE TODO LO RELACIONADO CON LA CIENCIA, LA TECNOLOGÍA Y LA INNOVACIÓN;
-
-> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2006)</small>
-
-XXXVII. LA COMISION DE SEGURIDAD PUBLICA, ESTUDIARA Y DICTAMINARA SOBRE LOS ASUNTOS RELACIONADOS CON LOS CUERPOS DE SEGURIDAD PUBLICA Y PRIVADA, LA PROTECCION DE LOS DERECHOS Y BIENES DE LAS PERSONAS, ASI COMO TODOS AQUELLOS QUE TENGAN RELACION CON LA SEGURIDAD PUBLICA;
-
-> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2006)</small>
-
-XXXVIII. LA COMISION DE PROTECCION CIVIL, ESTUDIARA Y DICTAMINARA LOS ASUNTOS RELATIVOS A LAS ACCIONES ENCAMINADAS A SALVAGUARDAR LA VIDA DE LAS PERSONAS Y SUS BIENES, A LA PREVENCION Y AUXILIO EN CASO DE DESASTRES NATURALES O CONTINGENCIAS, ASI COMO LOS ASUNTOS RELACIONADOS CON EL FUNCIONAMIENTO DE LOS SERVICIOS PUBLICOS Y EQUIPAMIENTO ESTRATEGICO DE LAS AREAS ENCARGADAS DE LA PROTECCION CIVIL EN EL ESTADO; Y,
-
-> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2006)</small>
-
-XXXIX. LA COMISION DE POSTULACION DE LA MEDALLA ROSARIO CASTELLANOS, ES LA ENCARGADA DE LLEVAR A CABO EL PROCESO PARA LA POSTULACION DE LA PERSONA A QUIEN SE LE IMPONDRA LA MEDALLA « ROSARIO CASTELLANOS», EN LOS TERMINOS DEL DECRETO NUMERO 263, DE FECHA 5 DE NOVIEMBRE DE 2004;
-
-> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2006)</small>
-
-XL. LA COMISION DE ATENCION A GRUPOS VULNERABLES, CONOCERA DE LOS ASUNTOS RELACIONADOS CON LA PROTECCION A LOS DERECHOS DE LAS NIÑAS Y LOS NIÑOS, DE LAS PERSONAS CON CAPACIDADES DIFERENTES Y DE LOS ADULTOS MAYORES DEL ESTADO, ASIMISMO PROMOVERA UNA CULTURA ESTATAL DE LA ATENCION A GRUPOS VULNERABLES POR LOS MEDIOS QUE AL EFECTO ACUERDE LA COMISION, A TRAVES DE LA COMUNICACION, DIFUSION, PROMOCION Y GESTORIA.
-
-> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2010)</small>
-
-XLI. LA COMISION DEL CAFE, ESTUDIARA Y DICTAMINARA, TODOS AQUELLOS ASUNTOS RELATIVOS A LA DEFINICION E INSTRUMENTACION DE LAS MEDIDAS NECESARIAS PARA EL DESARROLLO DE LA CAFETICULTURA EN EL ESTADO, Y SERA ADEMAS UN FACTOR QUE INTERACTUE CON LOS PRODUCTORES, COMERCIALIZADORES, INDUSTRIALES, CON GOBIERNO DEL ESTADO Y EL GOBIERNO FEDERAL, EN TODOS AQUELLOS ASUNTOS RELACIONADOS CON LA MATERIA.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XLII. LA COMISION DE VIVIENDA OFRECERA VIGILANCIA Y REGULACION PARA LAS ALTERNATIVAS DE COADYUVANCIA QUE LES PERMITAN ACCEDER A UNA VIVIENDA DIGNA PARA SATISFACER LAS NECESIDADES DE NUESTRA POBLACION.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XLIII. LA COMISION DE ASUNTOS RELIGIOSOS TENDRA LA CAPACIDAD DE ANALIZAR, DICTAMINAR Y EVALUAR ASUNTOS Y/O ACCIONES DE LAS AUTORIDADES CORRESPONDIENTES AL TEMA RELIGIOSO.
-
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
-
-ARTICULO 39 A.-
-
-SON COMISIONES ESPECIALES LAS QUE SE CONSTITUYEN PARA EL ESTUDIO DE ALGUN ASUNTO QUE NO SEA DE COMPETENCIA DE NINGUNA DE LAS COMISIONES ORDINARIAS, PARA LA PROPUESTA DE SOLUCION DE ALGUN ASUNTO, PARA LA ORGANIZACION DE ALGUN EVENTO DE RELEVANCIA PARA EL ESTADO, O CUANDO LO EXIJA LA URGENCIA Y LA CALIDAD DE LOS NEGOCIOS.
-
-###### ARTICULO 40.
-
-PARA LA COORDINACION Y EJECUCION DE LAS TAREAS QUE PERMITAN EL MEJOR CUMPLIMIENTO DE LAS FUNCIONES LEGISLATIVAS, PARLAMENTARIAS Y LA ATENCION EFICIENTE DE SUS NECESIDADES ADMINISTRATIVAS Y FINANCIERAS, EL CONGRESO DEL ESTADO CONTARA CON UNA SECRETARIA DE SERVICIOS PARLAMENTARIOS, UNA SECRETARIA DE SERVICIOS ADMINISTRATIVOS, UN INSTITUTO DE INVESTIGACIONES LEGISLATIVAS, UNA DIRECCION DE ASUNTOS JURIDICOS, UNA DIRECCION DE COMUNICACION SOCIAL Y UNA CONTRALORIA INTERNA; DE IGUAL MANERA CONTARA CON UNA DIRECCION DE CAPACITACION Y FORMACION PERMANENTE DEL SERVICIO PROFESIONAL DE CARRERA LEGISLATIVA, UNA COORDINACION DE ATENCION A MUNICIPIOS Y UN CENTRO DE INVESTIGACIONES Y ESTUDIOS LEGISLATIVOS PARA LA IGUALDAD DE GENERO.
-
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2017)</small>
-
-A FIN DE GARANTIZAR EL DERECHO HUMANO DE ACCESO A LA INFORMACION DE LAS PERSONAS CON DISCAPACIDAD AUDITIVA, EL CONGRESO CONTARA CON UN INTERPRETE DE LENGUA DE SEÑAS QUE COMUNIQUE EL CONTENIDO DEL TRABAJO REALIZADO DURANTE LAS SESIONES EN VIVO TRANSMITIDAS POR ESTE PODER LEGISLATIVO.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
-
-###### ARTICULO 41.
-
-PARA PROFESIONALIZAR Y HACER MAS EFICIENTES LOS SERVICIOS DE APOYO PARLAMENTARIO Y DE ORDEN ADMINISTRATIVO DEL CONGRESO DEL ESTADO, SE INSTITUYE EL SERVICIO CIVIL DE CARRERA. PARA TAL PROPOSITO, EL CONGRESO DEL ESTADO CONTARA CON UNA DIRECCION DE CAPACITACION Y FORMACION PERMANENTE DEL SERVICIO PROFESIONAL DE CARRERA LEGISLATIVA, DEPENDIENTE DE LA JUNTA DE COORDINACION POLITICA, LA QUE DESIGNARA AL TITULAR DE DICHA DIRECCION, EL CUAL DEBE CUMPLIR LOS REQUISITOS Y EJERCERA LAS ATRIBUCIONES QUE ESTABLEZCA EL ESTATUTO.
-
-EL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS ELABORARA EL PROYECTO DE ESTATUTO DEL SERVICIO CIVIL DE CARRERA DEL CONGRESO DEL ESTADO, QUE SERA APROBADO POR EL PLENO.
+V. Efectuada la elección, se citará a la persona electa para que rinda la protesta de ley, ante el Pleno del Congreso.
 
 #### Sección Cuarta. Del Consejo Consultivo de la CEGAIP
 
-###### ARTICULO 42.
+###### ARTÍCULO 42.
 
-1. LAS NORMAS Y LOS PROCEDIMIENTOS PARA LA CONFORMACION DE LOS SERVICIOS PARLAMENTARIO Y ADMINISTRATIVO Y FINANCIERO DE CARRERA, SE AJUSTARAN A LAS SIGUIENTES BASES:
+La CEGAIP, tendrá un Consejo Consultivo, integrado por Cinco consejeros honoríficos que durarán en su encargo cinco años.
 
-A) LOS CUERPOS DE LA FUNCION PARLAMENTARIA Y DE LA FUNCION ADMINISTRATIVA Y FINANCIERA SE INTEGRAN POR NIVELES O RANGOS PROPIOS, DIFERENCIADOS DE LOS CARGOS Y PUESTOS DE LA ESTRUCTURA ORGANICA DEL CONGRESO. LOS NIVELES O RANGOS PERMITEN LA PROMOCION DE LOS MIEMBROS TITULARES DE LOS CUERPOS, EN LOS CUALES SE DESARROLLA SU CARRERA, DE MANERA QUE PUEDAN COLABORAR CON EL CONGRESO EN SU CONJUNTO Y NO EXCLUSIVA NI PERMANENTEMENTE EN ALGUN CARGO O PUESTO;
+El Congreso del Estado, previa realización de una amplia consulta a la sociedad, a través de una convocatoria pública dirigida a instituciones académicas, de investigación, asociaciones, colegios de profesionales y la sociedad en general, llevará a cabo la elección del Consejo, con el voto de las dos terceras partes de sus miembros presentes.
 
-B) PARA EL INGRESO A LOS CUERPOS SE DEBERAN ACREDITAR LOS REQUISITOS QUE SEÑALE EL ESTATUTO Y HABER CUMPLIDO CON LOS CURSOS QUE IMPARTA LA UNIDAD DE CAPACITACION Y FORMACION PERMANENTE;
+El Congreso del Estado determinará los métodos internos de proposición de nombramiento de los consejeros a los órganos competentes de dicho poder legislativo.
 
-C) LOS NOMBRAMIENTOS DE LOS TITULARES DE LOS SERVICIOS PARLAMENTARIO Y ADMINISTRATIVO Y FINANCIERO EN UN NIVEL O RANGO DE UN CUERPO PARA OCUPAR UN CARGO O PUESTO, SE REGULARAN POR LAS DISPOSICIONES DEL ESTATUTO; Y
+En la integración del Consejo Consultivo se deberá garantizar la igualdad de género y la inclusión de personas con experiencia en las materias de esta Ley y en derechos humanos, provenientes de organizaciones de la sociedad civil y la academia.
 
-D) LA PERMANENCIA Y PROMOCION DE LOS FUNCIONARIOS SE SUJETARA A LA ACREDITACION DE LOS EXAMENES DE LOS PROGRAMAS DE ACTUALIZACION Y ESPECIALIZACION QUE IMPARTA LA UNIDAD, ASI COMO A LOS RESULTADOS DE LA EVALUACION ANUAL QUE SE REALICE EN LOS TERMINOS QUE ESTABLEZCA EL ESTATUTO.
+El Congreso del Estado establecerá el procedimiento para que el nombramiento de los consejeros se realice considerando, además de los elementos señalados en este artículo, que el método de proposición y designación sea transparente.
 
-2. LAS CONDICIONES DE TRABAJO Y LOS SISTEMAS DE ADSCRIPCION, MOVIMIENTOS A LOS CARGOS, COMPENSACIONES ADICIONALES POR EL DESEMPEÑO DE UN CARGO Y REMOCIONES, ASI COMO LAS DEMAS DISPOSICIONES NECESARIAS PARA LA ORGANIZACION Y ADECUADO DESEMPEÑO DE LOS SERVICIOS DE CARRERA DEL CONGRESO, SE DESARROLLARAN EN EL ESTATUTO.
+En caso de falta absoluta de cualquier integrante del Consejo Consultivo, el Consejero Presidente lo notificará inmediatamente al Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2006)</small>
+###### ARTÍCULO 43.
 
-3. LOS MIEMBROS DEL SERVICIO PROFESIONAL DE CARRERA LEGISLATIVA SERAN REGULADOS POR LA LEGISLACION LABORAL APLICABLE, Y SUS RELACIONES LABORALES SE REGIRAN CONFORME A LO ESTABLECIDO POR LA FRACCION XIV DEL APARTADO B DEL ARTICULO 123 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, POR ESTA LEY Y POR EL ESTATUTO. A EFECTO DE QUE RECIBAN LAS PRESTACIONES DE SEGURIDAD SOCIAL.
+El Consejo Consultivo tendrá, las siguientes atribuciones:
 
-###### ARTICULO 43.
+I. Aprobar sus reglas de operación;
 
-1. LA SECRETARIA DE SERVICIOS PARLAMENTARIOS SE INTEGRA CON FUNCIONARIOS DE CARRERA Y CONFIERE UNIDAD DE ACCION A LOS SERVICIOS SIGUIENTES:
+II. Presentar al Pleno su informe anual de actividades;
 
-A) SERVICIOS DE ASISTENCIA TECNICA A LA MESA DIRECTIVA, QUE COMPRENDE LOS DE: COMUNICACIONES Y CORRESPONDENCIA; TURNOS Y CONTROL DE DOCUMENTOS; CERTIFICACION Y AUTENTIFICACION DOCUMENTAL; INSTRUMENTOS DE IDENTIFICACION Y DILIGENCIAS RELACIONADOS CON EL FUERO DE LOS LEGISLADORES; REGISTRO BIOGRAFICO DE LOS INTEGRANTES DE LAS LEGISLATURAS, Y PROTOCOLO, CEREMONIAL Y RELACIONES PUBLICAS;
+III. Opinar sobre el programa anual de trabajo de la CEGAIP y su cumplimiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+IV. Emitir un informe anual sobre el desempeño de la CEGAIP;
 
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+V. Opinar sobre el proyecto de presupuesto para el ejercicio del año siguiente;
 
-B) SERVICIOS DE ANALISIS, REVISION Y ACTUALIZACION PERMANENTE DE LA LEGISLACION ESTATAL;
+VI. Conocer el informe de la CEGAIP sobre el presupuesto asignado a programas y el ejercicio presupuestal y emitir las observaciones correspondientes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+VII. Emitir opiniones no vinculantes a la CEGAIP sobre temas relevantes en las materias de transparencia, acceso a la información, accesibilidad y protección de datos personales;
 
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+VIII. Emitir opiniones técnicas para la mejora continua en el ejercicio de las funciones sustantivas de la CEGAIP;
 
-C) SERVICIOS DE LAS COMISIONES, QUE COMPRENDE LOS DE: ORGANIZACION Y ASISTENCIA A CADA UNA DE ELLAS A TRAVES DE SU SECRETARIO TECNICO; REGISTRO DE LOS INTEGRANTES DE LAS MISMAS; SEGUIMIENTO E INFORMACION SOBRE EL ESTADO QUE GUARDAN LOS ASUNTOS TURNADOS A COMISIONES; Y REGISTRO Y ELABORACION DEL ACTA DE SUS REUNIONES;
+IX. Opinar sobre la adopción de criterios generales en materia sustantiva;
 
-D) SERVICIOS DE LA SESION, QUE COMPRENDE LOS DE: PREPARACION Y DESARROLLO DE LOS TRABAJOS DEL PLENO; REGISTRO Y SEGUIMIENTO DE LAS INICIATIVAS O MINUTAS DE LEY O DE DECRETO; DISTRIBUCION EN EL PLENO DE LOS DOCUMENTOS SUJETOS A SU CONOCIMIENTO; APOYO A LOS SECRETARIOS PARA VERIFICAR EL QUORUM DE ASISTENCIA; COMPUTO Y REGISTRO DE LAS VOTACIONES; INFORMACION Y ESTADISTICA DE LAS ACTIVIDADES DEL PLENO; ELABORACION, REGISTRO Y PUBLICACION DE LAS ACTAS DE LAS SESIONES; Y REGISTRO DE LEYES Y RESOLUCIONES QUE ADOPTE EL CONGRESO DEL ESTADO;
+X. Proponer mejores prácticas de participación ciudadana y colaboración en la implementación y evaluación de la regulación en materia de datos abiertos;
 
-E) SERVICIOS DEL DIARIO DE LOS DEBATES, QUE COMPRENDE LOS DE: ELABORACION INTEGRAL DE LA VERSION ESTENOGRAFICA; DEL DIARIO DE LOS DEBATES; Y DE LA GACETA PARLAMENTARIA;
+XI. Analizar y proponer la ejecución de programas, proyectos y acciones relacionadas con la materia de transparencia y acceso a la información y su accesibilidad, y
 
-F) SERVICIOS DE LOS ARCHIVOS DE TRAMITE, QUE COMPRENDE LOS DE: FORMACION, CLASIFICACION Y CUSTODIA DE EXPEDIENTES DEL PLENO Y LAS COMISIONES; Y DESAHOGO DE LAS CONSULTAS Y APOYO DOCUMENTAL A LOS ORGANOS DE LA CAMARA Y A LOS LEGISLADORES Y AL PUBLICO EN GENERAL EN RESPETO AL DERECHO A LA INFORMACION CONSAGRADO EN EL ARTICULO 6 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS; Y
+XII. Las que deriven de la Ley General y esta Ley.
 
-2. LA SECRETARIA DE SERVICIOS PARLAMENTARIOS DEPENDERA JERARQUICAMENTE DE LA MESA DIRECTIVA.
+Las opiniones emitidas por el Consejo Consultivo referidas en el presente artículo serán públicas.
 
-3. CADA UNO DE LOS SERVICIOS ESTABLECIDOS EN EL PARRAFO ANTERIOR SE CONSTITUYE EN UNA UNIDAD, LA CUAL SE ESTRUCTURA CON LAS OFICINAS QUE SE REQUIERAN, CONFORME A LA DISPONIBILIDAD PRESUPUESTARIA.
+###### ARTÍCULO 44.
 
-###### ARTICULO 44.
+Para integrar el consejo se requiere:
 
-1. A CARGO DE LA SECRETARIA DE SERVICIOS PARLAMENTARIOS HABRA UN SECRETARIO, QUIEN DEPENDERA PARA EL EJERCICIO DE SUS FUNCIONES DE LA MESA DIRECTIVA DEL CONGRESO DEL ESTADO Y VELARA POR LA IMPARCIALIDAD DE LOS SERVICIOS A SU CARGO.
+I. Ser ciudadano mexicano y preferentemente ciudadano potosino, en pleno ejercicio de sus derechos políticos y civiles;
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+II. Tener cuando menos treinta años cumplidos el día de la designación;
 
-SU NOMBRAMIENTO SE HARA POR EL PLENO DEL CONGRESO CON LA APROBACION DE LAS DOS TERCERAS PARTES DE LOS DIPUTADOS PRESENTES, A PROPUESTA DE LA JUNTA DE COORDINACION POLITICA.
+III. Contar con al menos dos años de experiencia y reconocido prestigio en materia de acceso a la información, protección de datos, transparencia, rendición de cuentas y/o protección a los derechos humanos;
 
-2. PARA SER SECRETARIO DE SERVICIOS PARLAMENTARIOS, SE REQUIERE:
+IV. Gozar de buena reputación y no haber sido condenado por delito que haya ameritado pena privativa de libertad de más de un año; pero, si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2006)</small>
+V. No haber sido gobernador del Estado, titular de alguna de las dependencias y entidades que conforman la administración pública del Estado, Fiscal o Procurador General de Justicia del Estado, senador, diputado federal o local, comisionado numerario de la CEGAIP, presidente municipal, o dirigente de un partido político o asociación religiosa, durante el año previo al día de su elección.
 
-A) SER LICENCIADO EN DERECHO, CON TITULO LEGALMENTE REGISTRADO ANTE LAS AUTORIDADES COMPETENTES, CON POR LO MENOS CINCO AÑOS DE ANTELACION A LA FECHA DEL NOMBRAMIENTO, ACREDITANDO ADICIONALMENTE ESTUDIOS DE POSGRADO;
+###### ARTÍCULO 45.
 
-B) SER DE RECONOCIDA HONORABILIDAD Y NO HABER SIDO SENTENCIADO CULPABLE POR ALGUN DELITO DOLOSO;
+El Consejo será presidido por el consejero electo por la mayoría de sus integrantes.
 
-C) TENER UN MINIMO DE TRES AÑOS DE EXPERIENCIA PROFESIONAL EN AREAS GUBERNAMENTALES, LEGISLATIVAS Y/O ACADEMICAS; Y
+###### ARTÍCULO 46.
 
-D) SER CHIAPANECO POR NACIMIENTO.
+La elección de la Presidencia del Consejo, se llevará a cabo conforme a las reglas que para el efecto expida el Pleno.
 
-###### ARTICULO 45.
+###### ARTÍCULO 47.
 
-1. LA SECRETARIA DE SERVICIOS ADMINISTRATIVOS SE INTEGRA CON FUNCIONARIOS DE CARRERA Y CONFIERE UNIDAD DE ACCION A LOS SERVICIOS SIGUIENTES:
+En caso de falta absoluta de cualquier persona que integre el Consejo, la Presidencia de la CEGAIP, notificará inmediatamente al Congreso del Estado, para los efectos del artículo 42 de esta Ley. La nueva designación será por un periodo completo.
 
-A) SERVICIOS DE TESORERIA, QUE COMPRENDE LOS DE: PROGRAMACION Y PRESUPUESTO; CONTABILIDAD Y CUENTA PUBLICA;
+###### ARTÍCULO 48.
 
-B) SERVICIOS DE RECURSOS HUMANOS, QUE COMPRENDE LOS DE: ASPECTOS ADMINISTRATIVOS DE LOS SERVICIOS DE CARRERA; RECLUTAMIENTO, PROMOCION Y EVALUACION PERMANENTE DEL PERSONAL EXTERNO A LOS SERVICIOS DE CARRERA; NOMINAS; PRESTACIONES SOCIALES; Y EXPEDIENTES LABORALES;
+El Consejo funcionará conforme a las disposiciones del Reglamento Interno, en sesiones ordinarias y extraordinarias, y tomará sus decisiones por mayoría de votos.
 
-C) SERVICIOS DE RECURSOS MATERIALES, QUE COMPRENDE LOS DE: INVENTARIO, PROVISION Y CONTROL DE BIENES MUEBLES, MATERIALES DE OFICINA Y PAPELERIA; Y ADQUISICIONES DE RECURSOS MATERIALES;
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2018)</small>
 
-D) SERVICIOS GENERALES, QUE COMPRENDE LOS DE: MANTENIMIENTO DE BIENES MUEBLES E INMUEBLES Y ALIMENTACION;
+###### ARTÍCULO 49.
 
-E) SERVICIOS DE SEGURIDAD, QUE COMPRENDE LOS DE: VIGILANCIA Y CUIDADO DE BIENES MUEBLES E INMUEBLES; SEGURIDAD A PERSONAS; Y CONTROL DE ACCESO EXTERNO E INTERNO; Y
+Las sesiones ordinarias se verificarán, cuando menos, una cada dos meses. Las sesiones extraordinarias podrán convocarse cuando existan asuntos de importancia, o que deban resolverse de inmediato.
 
-F) SERVICIOS MEDICOS Y DE ATENCION A DIPUTADOS.
-
-2. LA SECRETARIA DE SERVICIOS ADMINISTRATIVOS, DEPENDERA DE LA JUNTA DE COORDINACION POLITICA.
-
-3. CADA UNO DE LOS SERVICIOS ESTABLECIDOS EN EL PARRAFO ANTERIOR SE CONSTITUYE EN UNA UNIDAD, LA CUAL SE ESTRUCTURA CON LAS OFICINAS QUE SE REQUIERAN, CONFORME A LA DISPONIBILIDAD PRESUPUESTARIA.
-
-###### ARTICULO 46.
-
-1. LA SECRETARIA DE SERVICIOS ADMINISTRATIVOS ESTARA A CARGO DE UN SECRETARIO QUIEN DEPENDERA DE LA JUNTA DE COORDINACION POLITICA.
-
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
-
-SU NOMBRAMIENTO SE HARA POR EL PLENO DEL CONGRESO CON LA APROBACION DE LAS DOS TERCERAS PARTES DE LOS DIPUTADOS PRESENTES, A PROPUESTA DE LA JUNTA DE COORDINACION POLITICA.
-
-2. PARA SER SECRETARIO DE SERVICIOS ADMINISTRATIVOS, SE REQUERIRAN LOS MISMOS REQUISITOS QUE PARA SER SECRETARIO DE SERVICIOS PARLAMENTARIOS, CON EXCEPCION DEL REQUISITO DE FORMACION PROFESIONAL, QUE SERA EN ALGUNA DE LAS AREAS ECONOMICO-ADMINISTRATIVAS.
-
-###### ARTICULO 47.
-
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2006)</small>
-
-1.- EL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS, ES EL ORGANO TECNICO DEL CONGRESO DEL ESTADO QUE BAJO LOS PRINCIPIOS DE ESPECIALIZACION E IMPARCIALIDAD SE INTEGRA CON FUNCIONARIOS DE CARRERA CON EL DEBIDO PERFIL PROFESIONAL Y CONFIERE UNIDAD DE ACCION A LOS SERVICIOS SIGUIENTES:
-
-I. DEL AREA DE INVESTIGACION.
-
-A).- SERVICIOS DE APOYO AL TRABAJO DE INVESTIGACION LEGISLATIVA DEL PLENO Y DE LAS COMISIONES;
-
-B).- SERVICIOS PARA EL DESARROLLO LEGISLATIVO DEL CONGRESO MEDIANTE LA ELABORACION Y EJECUCION DE LOS PROYECTOS DE AGENDA LEGISLATIVA Y LOS PROGRAMAS ANUALES DE LA LEGISLATURA QUE SE TRATE;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-C).- (DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2015)
-
-D).- SERVICIOS DE VINCULACION LEGISLATIVA, MEDIANTE EL INTERCAMBIO DE INFORMACION PARLAMENTARIA CON LAS DEMAS LEGISLATURAS ESTATALES Y CON EL CONGRESO DE LA UNION; Y,
-
-E).- LAS DEMAS QUE LE SEÑALE ESTA LEY Y LAS DISPOSICIONES REGLAMENTARIAS CORRESPONDIENTES.
-
-II. DEL AREA DE APOYO TECNICO.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-A) (DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2015)
-
-B) SERVICIOS DEL ARCHIVO HISTORICO, QUE COMPRENDE LOS DE: FORMACION, CLASIFICACION Y CUSTODIA DE EXPEDIENTES DEL PLENO Y LAS COMISIONES; Y DESAHOGO DE LAS CONSULTAS Y APOYO DOCUMENTAL A LOS ORGANOS DE LA CAMARA Y A LOS LEGISLADORES Y AL PUBLICO EN GENERAL EN RESPETO AL DERECHO A LA INFORMACION;
-
-C) SERVICIOS DE INFORMACION, INFORMATICA Y DE BIBLIOTECAS, QUE COMPRENDE LOS DE: ACERVO DE LIBROS; HEMEROTECA; VIDEOTECA; MULTIMEDIA; MUSEOGRAFIA; E INFORMATICA PARLAMENTARIA;
-
-2. EL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEPENDERA DE LA MESA DIRECTIVA.
-
-3. CADA UNO DE LOS SERVICIOS ESTABLECIDOS EN EL PARRAFO ANTERIOR SE CONSTITUYE EN UNA UNIDAD, LA CUAL SE ESTRUCTURA CON LAS OFICINAS QUE SE REQUIERAN, CONFORME A LA DISPONIBILIDAD PRESUPUESTARIA.
-
-###### ARTICULO 48.
-
-1. EL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS ESTARA A CARGO DE UN DIRECTOR QUIEN DEPENDERA DEL PRESIDENTE DE LA MESA DIRECTIVA.
-
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
-
-SU NOMBRAMIENTO SE HARA POR LA JUNTA DE COORDINACION POLITICA.
-
-2. PARA SER DIRECTOR DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS, SE REQUERIRAN LOS MISMOS REQUISITOS QUE PARA SER SECRETARIO DE SERVICIOS PARLAMENTARIOS, CON EXCEPCION DEL REQUISITO DE FORMACION PROFESIONAL, QUE DEBERA OSTENTAR EL GRADO DE MAESTRO EN ALGUNA DE LAS DISCIPLINAS DEL DERECHO.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MAYO DE 2006)</small>
-
-###### ARTICULO 49.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2006)</small>
-
-1. LA DIRECCION DE ASUNTOS JURIDICOS SE CREA PARA FORMAR PARTE DEL PERSONAL DE APOYO DEL CONGRESO DEL ESTADO, CONFORMARA UNA UNIDAD INTEGRADA CON FUNCIONARIOS DE CARRERA; Y TENDRA A SU CARGO LOS SERVICIOS JURIDICOS QUE COMPRENDEN:
-
-A) LOS DE ASESORIA INSTITUCIONAL; Y
-
-B) ATENCION DE LOS ASUNTOS LEGALES DEL CONGRESO DEL ESTADO, EN SUS ASPECTOS CONSULTIVO Y CONTENCIOSO.
-
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
-
-2. LA DIRECCION DE ASUNTOS JURIDICOS DEPENDERA DE LA MESA DIRECTIVA.
-
-3. CADA UNO DE LOS SERVICIOS ESTABLECIDOS EN EL PARRAFO ANTERIOR SE CONSTITUYE EN UNA UNIDAD, LA CUAL SE ESTRUCTURA CON LAS OFICINAS QUE SE REQUIERAN, CONFORME A LA DISPONIBILIDAD PRESUPUESTARIA.
+Para las sesiones extraordinarias bastará a que el Presidente del Consejo o por lo menos tres de los consejeros emitan convocatoria respectiva.
 
 #### Sección Quinta. Del Sistema Estatal de Documentación y Archivos
 
-###### ARTICULO 50.
+###### ARTÍCULO 50.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+El Sistema Estatal de Documentación y Archivos, llevará a cabo las acciones que determine el Pleno en la materia que le compete conforme a los objetivos y atribuciones previstas en esta Ley, así como en la Ley de Archivos del Estado de San Luis Potosí; y conforme al ordenamiento que refiere la fracción XXIX-T del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
-1. LA DIRECCION DE ASUNTOS JURIDICOS, ESTARA A CARGO DE UN DIRECTOR QUIEN DEPENDERA DE LA MESA DIRECTIVA.
+El tratamiento de los archivos se hará conforme a los ordenamientos que refiere el párrafo anterior.
 
-SU NOMBRAMIENTO SE HARA POR LA JUNTA DE COORDINACION POLITICA.
-
-2. PARA SER DIRECTOR DE ASUNTOS JURIDICOS, SE REQUERIRAN LOS MISMOS REQUISITOS QUE PARA SER SECRETARIO DE SERVICIOS PARLAMENTARIOS.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MAYO DE 2006)</small>
-
-### CAPITULO CUARTO. COMISION PERMANENTE
+### Capítulo II. De los Responsables en Cada Sujeto Obligado
 
 #### Sección Primera. De los Comités de Transparencia
 
-###### ARTICULO 51.
+###### ARTÍCULO 51.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2006)</small>
+En cada sujeto obligado se integrará un Comité de Transparencia colegiado e integrado por un número impar.
 
-1. EL CONGRESO DEL ESTADO HARA LA MAS AMPLIA DIFUSION DE LOS ACTOS A TRAVES DE LOS CUALES SE LLEVEN A CABO EL CUMPLIMIENTO DE LAS FUNCIONES QUE LA CONSTITUCION POLITICA DEL ESTADO Y ESTA LEY LE ENCOMIENDA, PARA TAL EFECTO SE CREA LA DIRECCION DE COMUNICACION SOCIAL, MISMA QUE FORMARA PARTE DEL PERSONAL DE APOYO DEL CONGRESO, CONFORMARA UNA UNIDAD FORMADA CON FUNCIONARIOS DE CARRERA.
+El Comité de Transparencia adoptará sus resoluciones por mayoría de votos. En caso de empate, el Presidente tendrá voto de calidad. A sus sesiones podrán asistir como invitados aquéllos que sus integrantes consideren necesarios, quienes tendrán voz pero no voto.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2006)</small>
+Los integrantes del Comité de Transparencia no podrán depender jerárquicamente entre sí dentro de la estructura funcional del sujeto obligado; tampoco podrán reunirse dos o más de estos integrantes en una sola persona. Cuando se presente el caso, el titular del sujeto obligado tendrá que nombrar a la persona que supla al subordinado.
 
-2. LA DIRECCION DE COMUNICACION SOCIAL ES RESPONSABLE DE LA DIFUSION DE LAS ACTIVIDADES INSTITUCIONALES DEL CONGRESO DEL ESTADO, SIRVIENDO DE ENLACE CON LOS MEDIOS DE COMUNICACION, ASIMISMO DEBERA CONTRIBUIR A INFORMAR, ANALIZAR Y DISCUTIR PUBLICA Y AMPLIAMENTE LA SITUACION DE LOS PROBLEMAS DE LA REALIDAD ESTATAL VINCULADA CON LA ACTIVIDAD LEGISLATIVA; SIENDO ADEMAS RESPONSABLE DEL PROGRAMA DE PUBLICACIONES.
+Los integrantes del Comité de Transparencia tendrán acceso a la información para determinar su clasificación, conforme a la normatividad previamente establecida por los sujetos obligados para el resguardo o salvaguarda de la información.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2006)</small>
+###### ARTÍCULO 52.
 
-3. LA DIRECCION DE COMUNICACION SOCIAL DEPENDERA DE LA JUNTA DE COORDINACION POLITICA.
+Cada Comité de Transparencia tendrá las siguientes funciones:
 
-4. CADA UNO DE LOS SERVICIOS ESTABLECIDOS EN EL PARRAFO ANTERIOR SE CONSTITUYE EN UNA UNIDAD, LA CUAL SE ESTRUCTURA CON LAS OFICINAS QUE SE REQUIERAN, CONFORME A LA DISPONIBILIDAD PRESUPUESTARIA.
+I. Instituir, coordinar y supervisar, en términos de las disposiciones aplicables, las acciones y los procedimientos para asegurar la mayor eficacia en la gestión de las solicitudes en materia de acceso a la información;
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2006)</small>
+II. Confirmar, modificar o revocar las determinaciones que en materia de ampliación del plazo de respuesta, clasificación de la información y declaración de inexistencia o de incompetencia realicen los titulares de las áreas de los sujetos obligados;
 
-###### ARTICULO 52.
+III. Ordenar, en su caso, a las áreas competentes que generen la información que derivado de sus facultades, competencias y funciones deban tener en posesión o que previa acreditación de la imposibilidad de su generación, exponga, de forma fundada y motivada, las razones por las cuales, en el caso particular, no ejercieron dichas facultades, competencias o funciones;
 
-1. LA DIRECCION DE COMUNICACION SOCIAL, ESTARA A CARGO DE UN DIRECTOR QUIEN DEPENDERA DE LA JUNTA DE COORDINACION POLITICA.
+IV. Establecer políticas para facilitar la obtención de información y el ejercicio del derecho de acceso a la información;
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+V. Promover la capacitación y actualización de los servidores públicos o integrantes adscritos a las unidades de transparencia;
 
-SU NOMBRAMIENTO SE HARA POR LA JUNTA DE COORDINACION POLITICA.
+VI. Crear programas de capacitación en materia de transparencia, acceso a la información, accesibilidad y protección de datos personales, para todos los servidores públicos o integrantes del sujeto obligado;
 
-2. PARA SER DIRECTOR DE COMUNICACION SOCIAL, SE REQUERIRAN LOS MISMOS REQUISITOS QUE PARA SER SECRETARIO DE SERVICIOS PARLAMENTARIOS, CON EXCEPCION DEL REQUISITO DE FORMACION PROFESIONAL, QUE DEBERA ESTAR ORIENTADO EN LAS AREAS DE CIENCIAS DE LA COMUNICACION O PERIODISMO.
+VII. Recabar y enviar a la CEGAIP, de conformidad con los lineamientos que esta expida, los datos necesarios para la elaboración del informe anual;
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE MAYO DE 2006)</small>
+VIII. Solicitar y autorizar la ampliación del plazo de reserva de la información a que se refiere el artículo 115 de la presente Ley;
+
+IX. Realizar los trámites y gestiones necesarios ante las instituciones u organismos públicos que corresponda que corresponda (sic), para cumplir con sus funciones;
+
+X. Aprobar el Programa Anual de Acciones de Mejoramiento de la Transparencia que le presente la unidad de transparencia de la entidad pública de que se trate, mismo que servirá para evaluar el desempeño de los servidores públicos en la materia;
+
+XI. Elaborar el informe anual que cada sujeto obligado deberá enviar a la CEGAIP, en el que se dé cuenta de la aplicación de esta Ley, y
+
+XII. Las demás que se desprendan de la normatividad aplicable.
 
 #### Sección Segunda. De las Unidades de Transparencia
 
-###### ARTICULO 53.
+###### ARTÍCULO 53.
 
-1. LA DIRECCION DE CAPACITACION Y FORMACION PERMANENTE DEL SERVICIO PROFESIONAL DE CARRERA LEGISLATIVA, ESTARA A CARGO DE UN DIRECTOR QUIEN DEPENDERA DE LA JUNTA DE COORDINACION POLITICA.
+Los titulares de los sujetos obligados, mediante el acuerdo o reglamento respectivo, según sea el caso, que deberá publicarse en el Periódico Oficial del Estado, establecerán las unidades de transparencia, responsables de atender y gestionar las solicitudes de acceso a la información, así como todas las solicitudes que se realicen en ejercicio de la acción de protección de datos personales.
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+###### ARTÍCULO 54.
 
-SU NOMBRAMIENTO SE HARA POR LA JUNTA DE COORDINACION POLITICA.
+Los sujetos obligados designarán al responsable de la Unidad de Transparencia que tendrá las siguientes funciones:
 
-2. SE INTEGRA CON FUNCIONARIOS DE CARRERA Y CONFIERE UNIDAD DE ACCION A LOS SERVICIOS DE PLANEACION, FORMACION Y CAPACITACION, INGRESO, EVALUACION, PROMOCION Y ASCENSO.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2017)</small>
 
-3. PARA SER DIRECTOR DE CAPACITACION Y FORMACION PERMANENTE DEL SERVICIO PROFESIONAL DE CARRERA LEGISLATIVA, SE REQUERIRAN LOS MISMOS REQUISITOS QUE PARA SER SECRETARIO DE SERVICIOS PARLAMENTARIOS Y ADEMAS OSTENTAR EL GRADO DE MAESTRO EN CUALQUIER DISCIPLINA.
+I. Recabar y difundir la información a que se refieren los capítulos, II, III, y IV, del Título Cuarto de esta Ley y propiciar que las áreas la actualicen periódicamente, conforme la normatividad aplicable;
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE MAYO DE 2006)</small>
+II. Recibir y dar trámite a las solicitudes de acceso a la información;
 
-###### ARTICULO 54.
+III. Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normatividad aplicable;
 
-> <small>(F. DE E., P.O. 10 DE MAYO DE 2006)</small>
+IV. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información;
 
-1. LA COORDINACION DE ATENCION A MUNICIPIOS SERA RESPONSABLE DE ATENDER LOS ASUNTOS RELACIONADOS CON LOS CONFLICTOS MUNICIPALES QUE LE SEAN ENCOMENDADOS POR LA JUNTA DE COORDINACION POLITICA DE QUIEN DEPENDERA JERARQUICAMENTE.
+V. Efectuar las notificaciones a los solicitantes;
 
-> <small>(F. DE E., P.O. 10 DE MAYO DE 2006)</small>
+VI. Sugerir al Comité de Transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la normatividad aplicable;
 
-2. PARA SER COORDINADOR DE LA COORDINACION DE ATENCION A MUNICIPIOS, SE REQUIERE CONTAR CON TITULO PROFESIONAL Y EXPERIENCIA EN AREAS RELACIONADAS CON LA ATENCION A CONFLICTOS MUNICIPALES.
+VII. Proponer personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información;
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE AGOSTO DE 2008)</small>
+VIII. Llevar un registro de las solicitudes de acceso a la información, respuestas, resultados, costos de reproducción y envío;
 
-###### ARTICULO 55.
+IX. Promover e implementar políticas de transparencia proactiva procurando su accesibilidad;
 
-1.- LA CONTRALORIA INTERNA DEL PODER LEGISLATIVO SERA RESPONSABLE DEL CONTROL, EVALUACION Y DESARROLLO ADMINISTRATIVO DEL PODER LEGISLATIVO; DEPENDERA DIRECTAMENTE DE LA JUNTA DE COORDINACION POLITICA Y TENDRA LAS SIGUIENTES ATRIBUCIONES:
+X. Fomentar la transparencia y accesibilidad al interior del sujeto obligado;
 
-I. PROPONER Y APLICAR EL PROGRAMA ANUAL DE CONTROL Y EVALUACION, Y SOMETERLO A LA APROBACION DE LA JUNTA DE COORDINACION POLITICA.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2017)</small>
 
-II. DISEÑAR, IMPLANTAR Y SUPERVISAR EL SISTEMA DE CONTROL Y EVALUACION DE LAS UNIDADES ADMINISTRATIVAS Y PARLAMENTARIAS DEL CONGRESO DEL ESTADO, ORIENTADAS A MEJORAR LOS PROCEDIMIENTOS ADMINISTRATIVOS.
+XI. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en esta Ley y en las demás disposiciones aplicables;
 
-III. SUSTANCIAR LOS PROCEDIMIENTOS DE RESPONSABILIDADES EN CONTRA DE LOS SERVIDORES PUBLICOS DEL PODER LEGISLATIVO EN TERMINOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIAPAS.
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2017)</small>
 
-IV. RECIBIR Y DAR SEGUIMIENTO A LAS SUGERENCIAS, QUEJAS Y DENUNCIAS CIUDADANAS, CON RESPECTO A LA ACTUACION DE LOS SERVIDORES PUBLICOS ADSCRITOS AL PODER LEGISLATIVO.
+XII. Informar por escrito a la CEGAIP, de forma mensual, sobre las solicitudes de información recibidas, el trámite y respuesta correspondiente en cada caso, y
 
-V. CONOCER Y RESOLVER LOS PROCEDIMIENTOS DERIVADOS DE LAS INCONFORMIDADES PRESENTADAS POR CONTRATISTAS Y PROVEEDORES DEL PODER LEGISLATIVO.
+XIII. Las demás que se desprendan de la normatividad aplicable.
 
-VI. COORDINAR Y SUPERVISAR LA ENTREGA-RECEPCION DE LA MESA DIRECTIVA, DE LA JUNTA DE COORDINACION POLITICA, DE LOS DIPUTADOS, ASI COMO DE LAS UNIDADES DEL PODER LEGISLATIVO.
+Los sujetos obligados promoverán acuerdos con instituciones públicas especializadas que pudieran auxiliarles a entregar las repuestas a solicitudes de información, en la lengua indígena, braille o cualquier formato accesible correspondiente, en forma más eficiente.
 
-VII. PRESENTAR A LA JUNTA DE COORDINACION POLITICA UN INFORME TRIMESTRAL SOBRE LOS RESULTADOS DEL CUMPLIMIENTO DE SUS FUNCIONES.
+###### ARTÍCULO 55.
 
-VIII. LAS DEMAS QUE EXPRESAMENTE LE CONFIEREN LOS ORDENAMIENTOS LEGALES O QUE DETERMINE EL PLENO DEL CONGRESO DEL ESTADO.
+Cuando alguna área de los sujetos obligados se negara a colaborar con la Unidad de Transparencia, ésta dará aviso al superior jerárquico para que le ordene realizar sin demora las acciones conducentes.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2008)</small>
+Cuando persista la negativa de colaboración, la Unidad de Transparencia lo hará del conocimiento a la contraloría interna o la que haga sus veces, para que inicie, en su caso, el procedimiento de responsabilidad respectivo.
 
-###### ARTICULO 56.
+###### ARTÍCULO 56.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+Las unidades de transparencia contarán con el presupuesto, personal, apoyo técnico e instalaciones necesarias, para realizar las funciones que señala la presente Ley.
 
-1. A CARGO DE LA CONTRALORIA INTERNA DEL PODER LEGISLATIVO HABRA UN CONTRALOR, QUIEN SERA NOMBRADO POR LA JUNTA DE COORDINACION POLITICA A PROPUESTA DE SU PRESIDENTE.
+###### ARTÍCULO 57.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+Las unidades de transparencia establecerán mecanismos de coordinación permanente entre sí, en el marco del Sistema Estatal de Documentación y Archivos y en los términos establecidos por la Ley General, por esta Ley, por la CEGAIP, y por las leyes orgánicas y acuerdos de creación de las entidades correspondientes.
 
-2. PARA SER CONTRALOR INTERNO DEL PODER LEGISLATIVO SE REQUIERE:
+###### ARTÍCULO 58.
 
-I. SER CIUDADANO CHIAPANECO EN PLENO GOCE DE SUS DERECHOS CIVILES Y POLITICOS;
-
-II. POSEER TITULO DE NIVEL LICENCIATURA EN LAS AREAS DE FINANZAS, CONTADURIA, ECONOMIA, DERECHO O ADMINISTRACION, CON LA EXPERIENCIA COMPROBADA DE AL MENOS 5 AÑOS EN EL AMBITO PROFESIONAL.
-
-III. NO HABER SIDO SENTENCIADO EJECUTORIAMENTE POR DELITO INTENCIONAL QUE AMERITE PENA PRIVATIVA DE LIBERTAD; Y,
-
-IV. TENER LOS CONOCIMIENTOS, EXPERIENCIA Y CAPACIDAD DE ACUERDO AL PERFIL DEL PUESTO.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-###### ARTICULO 57.
-
-EL CENTRO DE INVESTIGACIONES Y ESTUDIOS LEGISLATIVOS PARA LA IGUALDAD DE GENERO, SERA RESPONSABLE DE REALIZAR ESTUDIOS, INVESTIGACIONES Y ACCIONES DE CAPACITACION QUE FUNDAMENTEN TODAS AQUELLAS PROPUESTAS QUE GARANTICEN LA INCORPORACION DE LA PERSPECTIVA DE GENERO DENTRO DE LA LEGISLACION ESTATAL, ORIENTADAS A PROMOVER LOS DERECHOS HUMANOS DE LAS MUJERES Y MEJORAR LAS CONDICIONES DE VIDA DE LAS Y LOS CHIAPANECOS; ASI COMO EVALUAR DESDE UNA PERSPECTIVA DE GENERO EL IMPACTO DE LAS POLITICAS PUBLICAS, LA ASIGNACION Y DISTRIBUCION DEL GASTO PUBLICO CON PERSPECTIVA DE GENERO EN LOS AMBITOS ESTATAL Y MUNICIPAL. DEPENDERA DIRECTAMENTE DE LA PRESIDENCIA DE LA MESA DIRECTIVA DEL HONORABLE CONGRESO DEL ESTADO Y TENDRA LAS SIGUIENTES ATRIBUCIONES:
-
-I.- INTEGRAR Y ACTUALIZAR PERMANENTEMENTE UN BANCO DE INFORMACION JURIDICA, ECONOMICA, POLITICA Y SOCIAL DE PERSPECTIVA DE GENERO; PARA FUNDAMENTAR LA TOMA DE DECISIONES EN ESA MATERIA, DE LAS Y LOS DIPUTADOS Y DE LAS COMISIONES DEL HONORABLE CONGRESO DEL ESTADO DE CHIAPAS.
-
-II.- REALIZAR ESTUDIOS DE DERECHO COMPARADO CON PERSPECTIVA DE GENERO QUE SIRVAN A LAS Y LOS DIPUTADOS PARA ACTUALIZAR LA LEGISLACION ESTATAL Y MUNICIPAL.
-
-III.- COADYUVAR A LAS TAREAS LEGISLATIVAS ELABORANDO ESTUDIOS E INVESTIGACIONES, EL IMPACTO DIFERENCIAL DE GENERO EN LOS ASPECTOS ECONOMICOS, POLITICOS, SOCIALES, CULTURALES, AMBIENTALES E INDIGENAS DE LOS DERECHOS HUMANOS DE LAS MUJERES.
-
-IV.- ANALIZAR EL DISEÑO E IMPACTO DE LAS POLITICAS PUBLICAS ESTATALES Y MUNICIPALES DESDE LA PERSPECTIVA DE GENERO, PARA PLANTEAR A LAS COMISIONES CORRESPONDIENTES RECOMENDACIONES Y SUGERENCIAS DIRIGIDAS AL GOBIERNO DEL ESTADO Y A LOS H. AYUNTAMIENTOS MUNICIPALES.
-
-V.- ANALIZAR LA ASIGNACION, DISTRIBUCION Y APLICACION DE LOS RECURSOS FINANCIEROS DE LOS PROGRAMAS GUBERNAMENTALES PARA MUJERES CON PERSPECTIVA DE GENERO QUE PERMITA A LAS Y LOS LEGISLADORES EFECTUAR PROPUESTAS DE LA DISTRIBUCION PRESUPUESTAL Y VIGILANCIA DEL EJERCICIO DEL GASTO.
-
-VI.- SISTEMATIZAR INFORMACION ESTADISTICA, EN LOS RUBROS SOCIAL, ECONOMICO, POLITICO, AMBIENTAL Y DE SEGURIDAD PUBLICA PARA SUSTENTAR EL TRABAJO DE TODAS LAS COMISIONES EN TEMAS RELACIONADOS CON LA IGUALDAD DE GENERO.
-
-VII.- CREAR UNA RED CIUDADANA POR LA IGUALDAD DE GENERO CON INSTITUCIONES ACADEMICAS, GUBERNAMENTALES, ORGANIZACIONES DE LA SOCIEDAD CIVIL PRIVADAS Y SOCIALES PARA INTERCAMBIAR EXPERIENCIAS, REALIZAR ACCIONES Y FORTALECER LA COLABORACION CIUDADANA EN PRO DE LA IGUALDAD DE GENERO Y LOS DERECHOS CON PERSPECTIVA DE GENERO.
-
-VIII.- LAS DEMAS QUE EXPRESAMENTE LE CONFIEREN LOS ORDENAMIENTOS LEGALES O QUE DETERMINE EL PLENO DEL CONGRESO DEL ESTADO.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-###### ARTICULO 58.
-
-EL CENTRO DE INVESTIGACIONES Y ESTUDIOS LEGISLATIVOS PARA LA IGUALDAD DE GENERO, ESTARA A CARGO DE UNA DIRECTORA GENERAL, QUIEN SERA NOMBRADA POR EL PLENO DEL CONGRESO DEL ESTADO A PROPUESTA DE LA JUNTA DE COORDINACION POLITICA.
-
-PARA SER DIRECTORA DEL CENTRO DE INVESTIGACIONES Y ESTUDIOS LEGISLATIVOS PARA LA IGUALDAD DE GENERO, SE REQUIERE:
-
-I. SER CIUDADANA CHIAPANECA POR NACIMIENTO.
-
-II. ESTAR EN PLENO GOCE DE SUS DERECHOS CIVILES Y POLITICOS.
-
-III. POSEER AL MENOS NIVEL DE LICENCIATURA PREFERENTEMENTE Y TENER RECONOCIMIENTO PUBLICO POR SU EXPERIENCIA, CAPACIDAD Y TRAYECTORIA A FAVOR DE LA IGUALDAD DE GENERO.
-
-IV. NO HABER SIDO SENTENCIADA EJECUTORIAMENTE POR DELITO INTENCIONAL QUE AMERITE PENA PRIVATIVA DE LIBERTAD.
-
-V. POSEER EXPERIENCIA EN EL DESARROLLO, IMPLEMENTACION Y EVALUACION DE INVESTIGACIONES RELACIONADAS CON LOS DERECHOS DE LAS MUJERES.
-
-VI. POSEER EXPERIENCIA EN PROCESOS DE SENSIBILIZACION Y CAPACITACION SOBRE LEGISLACION DESDE LA PERSPECTIVA DE GENERO.
-
-VII. POSEER CONOCIMIENTOS DE LAS LEYES A FAVOR DE LAS MUJERES.
+Las unidades de transparencia acatarán las resoluciones, disposiciones administrativas y requerimientos de informes, que establezca el Comité de Transparencia, o la CEGAIP.
 
 ###### ARTÍCULO 59.
 
@@ -1261,9 +959,9 @@ Los sujetos obligados que por su naturaleza jurídica no cuenten con Ley de Ingr
 
 Para hacer efectivo el derecho de acceso a la información pública, la interpretación de esta Ley y Lineamientos que de la misma se deriven, se orientará a favorecer los principios de máxima publicidad y disponibilidad de la información en posesión de los sujetos obligados; así mismo, atenderá a los principios constitucionales y a los instrumentos internacionales suscritos y ratificados en esta materia por el Estado Mexicano, y a la interpretación que de los mismos hayan realizado los órganos nacionales e internacionales especializados.
 
-## TITULO TERCERO. DE LA ORGANIZACION TECNICA Y ADMINISTRATIVA DEL CONGRESO
+## TÍTULO TERCERO. CULTURA DE TRANSPARENCIA Y APERTURA GUBERNAMENTAL
 
-### CAPITULO QUINTO. DE LAS COMISIONES LEGISLATIVAS
+### Capítulo I. De la Promoción de la Transparencia y el Derecho de Acceso a la Información
 
 ###### ARTÍCULO 64.
 
@@ -1307,9 +1005,7 @@ III. Facilitar el ejercicio del derecho de acceso a la información a las person
 
 IV. Procurar la accesibilidad de la información.
 
-### CAPITULO PRIMERO. DISPOSICIONES PRELIMINARES
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+### Capítulo II. De la Transparencia Proactiva
 
 ###### ARTÍCULO 68.
 
@@ -1325,7 +1021,7 @@ La CEGAIP adoptará los criterios para evaluar la efectividad de la política de
 
 La información que se publique, como resultado de las políticas de transparencia, deberá permitir la generación de conocimiento público útil, para disminuir asimetrías de la información, mejorar los accesos a trámites y servicios, optimizar la toma de decisiones de autoridades o ciudadanos y deberá tener un objeto claro enfocado en las necesidades de sectores de la sociedad determinado o determinable.
 
-### CAPITULO SEGUNDO. DE LA SECRETARIA DE SERVICIOS PARLAMENTARIOS
+### Capítulo III. Del Gobierno Abierto
 
 ###### ARTÍCULO 71.
 
@@ -1357,7 +1053,7 @@ III. Justicia Abierta.
 
 ## TÍTULO CUARTO. OBLIGACIONES DE TRANSPARENCIA
 
-### CAPITULO TERCERO. DE LA SECRETARIA DE SERVICIOS ADMINISTRATIVOS
+### Capítulo I. De las Disposiciones Generales
 
 ###### ARTÍCULO 74.
 
@@ -1431,7 +1127,7 @@ Los sujetos obligados no podrán difundir, distribuir o comercializar los datos 
 
 Los particulares, sin perjuicio de que sean considerados sujetos obligados de conformidad con esta Ley, serán responsables de los datos personales de conformidad con la normatividad aplicable para la protección de datos personales en posesión de los particulares.
 
-### CAPITULO CUARTO. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
+### Capítulo II. De las Obligaciones de Transparencia Comunes
 
 ###### ARTÍCULO 84.
 
@@ -1677,7 +1373,7 @@ LIII. Cualquier otra información que sea de utilidad o se considere relevante, 
 
 Los sujetos obligados deberán informar a la CEGAIP y verificar que se publiquen en la Plataforma Nacional, cuáles son los rubros que son aplicables a sus páginas de internet, con el objeto de que éstos verifiquen y aprueben, de forma fundada y motivada, la relación de fracciones aplicables a cada sujeto obligado.
 
-### CAPITULO QUINTO. DE LA DIRECCION DE ASUNTOS JURIDICOS
+### Capítulo III. De las Obligaciones de Transparencia Específicas de los Sujetos Obligados
 
 ###### ARTÍCULO 85.
 
@@ -1723,7 +1419,9 @@ k) En materia de seguridad pública y procuración de justicia:
 
 2. La estadística de los procesos de control de confianza desagregada por entidad municipal e institución.
 
-3. La incidencia delictiva fuero Común, desagregado por tipo de delito, así como el número de víctimas desagregado por género y rango de edad para los delitos de homicidio, secuestro y extorsión.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2020)</small>
+
+3. La incidencia delictiva del fuero común, desagregado por tipo de delito, así como el número de víctimas desagregado por género y rango de edad para los delitos de feminicidio, homicidio, secuestro y extorsión.
 
 l) En materia de política interior:
 
@@ -2193,7 +1891,7 @@ II. Revisar el listado que remitió el sujeto obligado con base en las funciones
 
 III. Determinar el catálogo de información que el sujeto obligado deberá publicar como obligación de transparencia.
 
-### CAPITULO SEXTO. DE LA DIRECCION DE COMUNICACION SOCIAL
+### Capítulo IV. De las Obligaciones Específicas de las Personas Físicas o Morales que Reciben y Ejercen Recursos Públicos o Ejercen Actos de Autoridad
 
 ###### ARTÍCULO 95.
 
@@ -2213,9 +1911,7 @@ II. Revisar el listado que remitió la persona física o moral en la medida en q
 
 III. Determinar las obligaciones de transparencia que deben cumplir y los plazos para ello.
 
-### CAPITULO SEPTIMO. DE LA DIRECCION DE CAPACITACION Y FORMACION PERMANENTE DEL SERVICIO PROFESIONAL DE CARRERA LEGISLATIVA
-
-> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2006)</small>
+### Capítulo V. De la Verificación de las Obligaciones de Transparencia
 
 ###### ARTÍCULO 97.
 
@@ -2253,9 +1949,7 @@ Cuando la CEGAIP considere que existe incumplimiento total o parcial de la deter
 
 En caso de que la CEGAIP considere que subsiste el incumplimiento total o parcial de la resolución, en un plazo no mayor a cinco días, se informará al Pleno para que, en su caso, imponga las medidas de apremio o sanciones, conforme a lo establecido por esta Ley.
 
-### CAPITULO OCTAVO. DE LA COORDINACION DE ATENCION A MUNICIPIOS
-
-(ADICIONADO, P.O. 2 DE MAYO DE 2006) (F. DE E., P.O. 10 DE MAYO DE 2006)
+### Capítulo VI. De la Denuncia por Incumplimiento a las Obligaciones de Transparencia
 
 ###### ARTÍCULO 102.
 
@@ -2343,9 +2037,7 @@ En caso de que la CEGAIP considere que subsiste el incumplimiento total o parcia
 
 ## TÍTULO QUINTO. INFORMACIÓN CLASIFICADA
 
-### CAPITULO NOVENO. DE LA CONTRALORIA INTERNA DEL PODER LEGISLATIVO
-
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2008)</small>
+### Capítulo I. De las Disposiciones Generales de la Clasificación y Desclasificación de la Información
 
 ###### ARTÍCULO 113.
 
@@ -2449,9 +2141,7 @@ La información contenida en las obligaciones de transparencia no podrá omitirs
 
 La autoridad no podrá negar el acceso a la información clasificada de un documento.
 
-### CAPITULO DECIMO. DEL CENTRO DE INVESTIGACIONES Y ESTUDIOS LEGISLATIVOS PARA LA IGUALDAD DE GENERO
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+### Capítulo II. De la Información Reservada
 
 ###### ARTÍCULO 127.
 
@@ -3235,169 +2925,105 @@ En caso de reincidencia y consideraciones para la determinación del monto de la
 
 Con independencia del carácter de los presuntos infractores, las facultades de la CEGAIP para conocer, investigar, remitir documentación y, en su caso, sancionar, prescribirán en un plazo de cinco años a partir del día siguiente en que se hubieran cometido las infracciones o a partir del momento en que hubieren cesado, si fueren de carácter continuo.
 
-## ARTICULOS TRANSITORIOS
+## TRANSITORIOS
 
-PRIMERO.-
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-1. PUBLIQUESE EL PRESENTE DECRETO EN EL PERIODICO OFICIAL DEL ESTADO.
+SEGUNDO. A la entrada en vigor de este Ordenamiento, se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, publicada en edición extraordinaria del Periódico Oficial del Estado el 18 de octubre de 2007.
 
-SEGUNDO.-
+TERCERO. Queda derogada cualquier disposición que contravenga los principios, bases, procedimientos y derechos reconocidos en la presente Ley.
 
-1. SALVO LO PREVISTO EN LOS DEMAS ARTICULOS TRANSITORIOS DEL PRESENTE DECRETO, SUS PRECEPTOS ENTRARAN EN VIGOR EL DIA DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+CUARTO. La Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luis Potosí, deberá expedir su reglamento acorde con los principios de la Ley General de Transparencia y Acceso a la Información Pública, y a la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, en el plazo de ciento ochenta días naturales a partir de la fecha de vigencia del presente Decreto.
 
-TERCERO.-
+QUINTO. La CEGAIP expedirá los lineamientos necesarios para el ejercicio de sus atribuciones, de conformidad con lo previsto en la presente Ley, dentro de los ciento ochenta días siguientes a la entrada en vigor de este Decreto.
 
-1. PARA LA CONFORMACION DE LA MESA DIRECTIVA DEL CONGRESO DEL ESTADO Y DE LA JUNTA DE COORDINACION POLITICA, SE ESTARA A LO DISPUESTO EN EL ARTICULO CUARTO TRANSITORIO DEL DECRETO NUMERO 202 QUE REFORMO A LA CONSTITUCION POLITICA DEL ESTADO.
+SEXTO. El titular del órgano de control interno tendrá la obligación de verificar que se cumpla en el plazo establecido lo señalado en los transitorios, CUARTO, y QUINTO del presente Decreto.
 
-CUARTO.-
+SÉPTIMO. Los sujetos obligados se incorporarán a la Plataforma Nacional de Transparencia, en los términos que establezcan los lineamientos que para tal efecto emita el Sistema Nacional de Transparencia y Protección de Datos Personales.
 
-1. LOS NOMBRAMIENTOS DE LA NUEVA ESTRUCTURA ADMINISTRATIVA Y DE SERVICIOS PARLAMENTARIOS DEBERAN HACERSE EN LOS TERMINOS DE ESTA LEY DENTRO DE LOS QUINCE DIAS SUBSECUENTES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.
+En tanto entren en vigor los lineamientos que se refieren en el párrafo anterior, los sujetos obligados deberán mantener y actualizar en sus respectivas páginas de internet, la información conforme a lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí vigente.
 
-2. LOS REQUISITOS QUE DEBEN CUMPLIR LOS ASPIRANTES A TITULARES DE LAS SECRETARIAS DE SERVICIOS PARLAMENTARIOS, DE SERVICIOS ADMINISTRATIVOS, DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS, LA DIRECCION JURIDICA Y LA COORDINACION DE COMUNICACION SOCIAL DEBERAN SER VALORADOS Y PROPUESTOS POR LA JUNTA DE COORDINACION POLITICA, DE CONFORMIDAD CON LO QUE DISPONE LA PRESENTE LEY, PARA SU OPORTUNA PRESENTACION DEL DICTAMEN Y PROPUESTA AL PLENO DEL CONGRESO DEL ESTADO.
+OCTAVO. La información que hasta la fecha de entrada en vigor de la presente Ley obra en los sistemas electrónicos de los sujetos obligados, formará parte de la Plataforma Nacional de Transparencia, conforme a los lineamientos que, para el efecto, emita el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
 
-QUINTO.-
+NOVENO. En tanto no se expida la ley general en materia de datos personales en posesión de sujetos obligados, y la correspondiente en materia de archivos, permanecerá vigente la normatividad local en la materia.
 
-1. PARA EFECTO DE DAR CUMPLIMIENTO AL CONTENIDO DE LOS ARTICULOS 41 Y 42 DEL PRESENTE ORDENAMIENTO, LA MESA DIRECTIVA Y LA JUNTA DE COORDINACION POLITICA, DEBERAN EMITIR EN UN PLAZO NO MAYOR A TRES MESES LOS ESTATUTOS QUE REGIRAN EL SERVICIO CIVIL DE CARRERA PARLAMENTARIA.
+DÉCIMO. El Contralor Interno de la CEGAIP será electo por el Congreso, a más tardar ciento ochenta días después de entrar en vigor esta Ley. El primer titular de la Contraloría Interna durará en su encargo hasta el 30 de octubre de 2017. A partir del año 2017, los titulares de la Contraloría Interna durarán en su encargo cuatro años, de acuerdo a lo estipulado en el artículo 40 de la presente Ley.
 
-SEXTO.-
+DÉCIMO PRIMERO. El Ejecutivo del Estado podrá incluir, en un plazo no mayor a noventa días, y previo convenio administrativo, por conducto de la dependencia que lleve la relación con los municipios, en el servidor correspondiente, la información de transparencia de aquellos municipios que no cuentan con servicio de internet o que así lo deseen.
 
-1. EL PRESENTE DECRETO ABROGA A LA LEY ORGANICA DEL CONGRESO DEL ESTADO DE CHIAPAS, PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO DE FECHA 18 DE FEBRERO DE 1987 Y SE DEROGAN LOS ARTICULOS RELATIVOS A OTROS ORDENAMIENTOS QUE SE OPONGAN A LA PRESENTE LEY.
+DÉCIMO SEGUNDO. El Consejo Consultivo de la CEGAIP será electo por el Congreso, a más tardar un año después de entrar en vigor esta Ley.
 
-SEPTIMO.-
+DÉCIMO TERCERO. Los comisionados que hoy integran la CEGAIP se mantendrán por los periodos para los que fueron electos y la comisión se renovará de manera escalonada, conforme a la secuencia con que han sido nombrados, a partir del año 2008.
 
-1. LAS COMISIONES ORDINARIAS Y ESPECIALES CREADAS POR ESTA LEGISLATURA, CONSERVARAN SU INTEGRACION Y ESTRUCTURA TAL Y COMO FUERON NOMBRADAS POR ESTA SEXAGESIMA PRIMERA LEGISLATURA Y CONTINUARAN DE ESA MANERA HASTA SU CONCLUSION.
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2016)</small>
 
-OCTAVO.-
+DÉCIMO CUARTO. Los procedimientos iniciados con anterioridad a la entrada en vigor de la presente Ley, continuarán tramitándose hasta su resolución final, conforme a las disposiciones aplicables vigentes a su inicio.
 
-1. LOS DIPUTADOS DE LOS PARTIDOS VERDE ECOLOGISTA DE MEXICO Y ALIANZA SOCIAL, POR ESTA UNICA OCASION Y HASTA EL TERMINO DE LA ACTUAL SEXAGESIMA PRIMERA LEGISLATURA, PARTICIPARAN CON VOZ Y EL CORRESPONDIENTE VOTO PONDERADO EN LAS SESIONES DE LA JUNTA DE COORDINACION POLITICA E INTERVENDRAN EN TODOS LOS ACTOS PROTOCOLARIOS A QUE TIENEN FACULTADES LOS COORDINADORES DE LOS GRUPOS PARLAMENTARIOS.
+Lo tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
 
-EL EJECUTIVO DEL ESTADO DISPONDRA SE PUBLIQUE, CIRCULE Y PROVEERA A SU DEBIDO CUMPLIMIENTO.
+D A D O en el salón de sesiones “Ponciano Arriaga Leija” del Honorable Congreso del Estado, el cuatro de mayo de dos mil dieciséis.
 
-DADO EN EL PALACIO LEGISLATIVO EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS; A LOS 18 DIAS DEL MES DE AGOSTO DEL DOS MIL TRES. D.P. DIP. FELIPE DE JESUS VELASCO AGUILAR.- D.S. ROMEO CRUZ BECERRA.- RUBRICAS.
+Presidenta, Legisladora Josefina Salazar Báez; Primer Secretario, Legislador J. Guadalupe Torres Sánchez; Segundo Secretario Legislador José Luis Romero Calzada(Rúbricas).
 
-DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO 42 DE LA CONSTITUCION POLITICA LOCAL Y PARA SU OBSERVANCIA, PROMULGO EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS, A LOS DIECIOCHO DIAS DEL MES DE AGOSTO DEL AÑO DOS MIL TRES.
+Por tanto mando se cumpla y ejecute el presente Decreto y que todas las autoridades lo hagan cumplir y guardar y al efecto se imprima, publique y circule a quienes corresponda.
 
-PABLO SALAZAR MENDIGUCHIA, GOBERNADOR DEL ESTADO.- RUBEN F. VELAZQUEZ LOPEZ, SECRETARIO DE GOBIERNO.- RUBRICAS.
+D A D O en el Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí, el seis de mayo del año dos mil dieciseis.
+
+El Gobernador Constitucional del Estado
+
+Juan Manuel Carreras López
+
+(Rúbrica)
+
+El Secretario General de Gobierno
+
+Alejandro Leal Tovías
+
+(Rúbrica)
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-P.O. 30 DE MARZO DE 2005.
+P.O. 6 DE OCTUBRE DE 2016.
 
-Artículo Único.- El presente Decreto expedido por esta Sexagésima Segunda Legislatura, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0399.- SE ADICIONA ARTÍCULO DÉCIMO CUARTO TRANSITORIO, A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
-P.O. 2 DE MAYO DE 2006.
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-Segundo.- Sin mayor tramite los Diputados Integrantes de las Comisiones Especiales de Seguridad Publica, Protección Civil y de Atención a Grupos Vulnerables integradas al inicio de la Sexagésima Segunda Legislatura, pasaran a formar parte de las Comisiones Ordinarias de Seguridad Pública, Protección Civil y de Atención a Grupos Vulnerables.
+P.O. 27 DE ABRIL DE 2017.
 
-Tercero.- Sin mayor trámite los Diputados Integrantes de la Comisión Ordinaria de Ganadería pasaran a integrar la Comisión Ordinaria de Desarrollo Pecuario.
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0612.- SE ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO 74, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
 
-Cuarto.- Las Comisiones de Ciencia y Tecnología y Promoción Comercial y Fomento a la Inversión, deberán quedar integradas dentro de los quince días siguientes a la entrada en vigor del presente Decreto.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
-Quinto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 
-P.O. 13 DE AGOSTO DE 2008.
+P.O. 29 DE ABRIL DE 2017.
 
-Primero.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Chiapas.
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0614.- SE REFORMAN LOS ARTÍCULOS 1°, 28, 38, 54 Y 177; Y ADICIONA AL ARTÍCULO 30 LA FRACCIÓN IX, DE Y A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
-Segundo.- El titular de la Contraloría Interna del Poder Legislativo, deberá ser nombrado dentro de los treinta días siguientes a la entrada en vigencia del presente Decreto.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
-Tercero.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 
-P.O. 12 DE NOVIEMBRE DE 2010.
+P.O. 29 DE ABRIL DE 2017.
 
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0615.- SE REFORMAN LOS ARTÍCULOS 34 Y 54; Y ADICIONA FRACCIÓN AL ARTÍCULO 54 DE Y A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
 
-Segundo.- Se derogan las disposiciones que se opongan al presente Decreto. El Ejecutivo del Estado dispondrá se publique, circule y el Honorable Congreso del Estado, proveerá a su debido cumplimiento.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
-P.O. 3 DE AGOSTO DE 2011.
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 
-Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+P.O. 3 DE MARZO DE 2018.
 
-Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+## [N. DE E. TRANSITORIOS DEL “DECRETO 896.- SE REFORMA EL ARTÍCULO 49, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
-P.O. 8 DE AGOSTO DE 2012.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
-Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 
-Segundo.- Se derogan las disposiciones que se opongan al presente decreto.
-
-P.O. 31 DE DICIEMBRE DE 2012.
-
-Artículo Primero.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
-
-Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-
-P.O. 12 DE SEPTIEMBRE DE 2014.
-
-Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
-
-P.O. 24 DE DICIEMBRE DE 2014.
-
-Artículo Primero.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Artículo Segundo.- El Centro de Investigaciones y Estudios Legislativos para la Igualdad de Género deberá estar funcionando dentro de los 40 días naturales a partir de su publicación en el Periódico Oficial del Estado.
-
-Artículo Tercero.- La Junta de Coordinación Política, presentará al pleno dentro de los 30 días naturales posteriores a la publicación del decreto a propuesta de la Comisión de Equidad y Género, la estructura orgánica y funcional del Centro de Investigaciones y Estudios Legislativos para la Igualdad de Género y su reglamento, en el que se establecerán las reglas para la vigilancia, operación y funcionamiento del centro.
-
-Artículo Cuarto.- A efecto de lo anterior el Honorable Congreso del Estado, deberá realizar las previsiones necesarias a través de la Comisión de Hacienda de este Poder Legislativo para la asignación presupuestal respectiva asignada en el Presupuesto de Egresos del Ejercicio Fiscal 2015 para su creación y funcionamiento.
-
-P.O. 21 DE SEPTIEMBRE DE 2015.
-
-Artículo Primero.- El presente Decreto entrará en vigor a partir del día 01 de Octubre de 2015.
-
-Articulo Segundo.- Publíquese el Presente Decreto en el Periódico Oficial del Estado.
-
-Artículo Tercero.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-
-Artículo Cuarto.- A partir de la entrada en vigor del presente Decreto, el Congreso del Estado, deberá realizar las adecuaciones correspondientes al Reglamento Interno de este Poder Legislativo.
-
-P.O. 23 DE NOVIEMBRE DE 2016.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 016 POR EL QUE SE MODIFICA EL ARTÍCULO 32 FRACCIÓN XXXIV Y 39 FRACCIÓN XXXIV DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE CHIAPAS”.]
-
-Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
-
-P.O. 7 DE DICIEMBRE DE 2016.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 028 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE CHIAPAS”.]
-
-Artículo Primero.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
-
-Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-
-P.O. 28 DE DICIEMBRE DE 2016.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 040 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE CHIAPAS”.]
-
-Artículo Primero.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
-
-Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-
-P.O. 6 DE DICIEMBRE DE 2017.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 030 POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 40 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE CHIAPAS”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chiapas.
-
-###### ARTÍCULO SEGUNDO.
-
-La Junta de Coordinación Política del Congreso del Estado, tomará las medidas conducentes a efecto de llevar a cabo la contratación de la persona idónea para el cargo.
-
-P.O. 22 DE MAYO DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 185 POR EL QUE SE REFORMAN LAS FRACCIONES XXXVI DEL NUMERAL 2 DEL ARTÍCULO 32 Y XXXVI DEL NUMERAL 1 DEL ARTÍCULO 39 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE CHIAPAS”.]
-
-Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
-
-Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+P.O. 3 DE MARZO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 897.- SE REFORMAN LOS ARTÍCULOS 84 Y 86 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
@@ -3452,3 +3078,19 @@ P.O. 12 DE NOVIEMBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0319.- SE REFORMAN LOS ARTÍCULOS 38, 40, Y 41 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0620.- SE REFORMA EL ARTÍCULO 85 EN SU FRACCIÓN I EN EL INCISO K EL NUMERAL 3, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
