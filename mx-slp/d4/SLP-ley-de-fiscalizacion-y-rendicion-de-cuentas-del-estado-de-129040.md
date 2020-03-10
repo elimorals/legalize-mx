@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12904
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2020-02-27"
+last_updated: "2020-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 11 de junio de 2018.
 
@@ -483,7 +483,9 @@ El informe semestral se elaborará con base en los formatos que al efecto establ
 
 En dicho informe, la Auditoría Superior del Estado dará a conocer el seguimiento específico de las promociones de los informes de presunta responsabilidad administrativa, a fin de identificar a la fecha del informe las estadísticas sobre dichas promociones identificando también las sanciones que al efecto hayan procedido.
 
-Respecto de los pliegos de observaciones, en dicho informe se dará a conocer el número de pliegos emitidos, su estatus procesal y las causas que los motivaron.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2020)</small>
+
+Respecto de los pliegos de observaciones, en dicho informe se dará a conocer el número de pliegos emitidos, cada una de las observaciones realizadas a los entes auditados, su estatus procesal y las causas que los motivaron. La Auditoría Superior del Estado habilitará un mecanismo de comunicación institucional para que la ciudadanía que posea información adicional de las observaciones, pueda hacerla llegar.
 
 En cuanto a las denuncias penales formuladas ante la Fiscalía Especializada o las autoridades competentes, en dicho informe la Auditoría Superior del Estado dará a conocer la información actualizada sobre la situación que guardan las denuncias penales, el número de denuncias presentadas, las causas que las motivaron, las razones sobre su procedencia o improcedencia así como, en su caso, la pena impuesta.
 
@@ -805,15 +807,19 @@ XIV. Conocer y aplicar en lo conducente el Reglamento Interior de la Auditoría 
 
 XV. Analizar la información, en materia de fiscalización superior del estado, de contabilidad y auditoría gubernamentales y de rendición de cuentas, y podrá solicitar la comparecencia de servidores públicos de la Auditoría Superior del Estado vinculados con los resultados de la fiscalización;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE MARZO DE 2020)</small>
 
 XVI. Invitar a la sociedad civil organizada, así como a los miembros del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, a que participen como observadores o testigos sociales en las sesiones ordinarias de la Comisión, y en la realización de ejercicios de contraloría social en los que se articule a la población con las entidades fiscalizadas;
 
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2020)</small>
+
+XVII. Realizar las acciones conducentes para la publicación de las observaciones realizadas por la Auditoría Superior del Estado a los entes auditables a que se refiere el artículo 37 de esta Ley, en la página institucional de internet del Congreso del Estado, y
+
 > <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2020)</small>
 
-XVII. Solicitar a la Auditoría Superior del Estado, la práctica de auditorías e investigaciones de obras, programas y acciones de los entes auditables, en virtud de la existencia de denuncias ciudadanas, para los efectos a que se refiere el artículo 97 de esta Ley, y
+XVIII. Solicitar a la Auditoría Superior del Estado, la práctica de auditorías e investigaciones de obras, programas y acciones de los entes auditables, en virtud de la existencia de denuncias ciudadanas, para los efectos a que se refiere el artículo 97 de esta Ley, y
 
-XVIII. Las demás que establezca esta Ley y demás disposiciones legales aplicables, así como la normatividad interior del Congreso.
+XIX. Las demás que establezca esta Ley y demás disposiciones legales aplicables, así como la normatividad interior del Congreso.
 
 ###### ARTÍCULO 70.
 
@@ -951,13 +957,15 @@ De las atribuciones previstas a favor del Titular de la Auditoría Superior del 
 
 El Titular de la Auditoría Superior del Estado será auxiliado en sus funciones por los auditores especiales, así como por los coordinadores, supervisores, auditores y demás servidores públicos que al efecto señale el Reglamento Interior de la Auditoría Superior del Estado, de conformidad con el presupuesto autorizado. En dicho Reglamento se asignarán las facultades y atribuciones previstas en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 79.
 
-Para ejercer el cargo de Auditor Especial se deberán cumplir los siguientes requisitos:
+Para ejercer los cargos de, Coordinador de Auditorías Especiales; y de Auditor Especial, se deberán cumplir los siguientes requisitos:
 
 I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Tener por lo menos treinta y dos años cumplidos al día de su designación;
+II. (DEROGADA, P.O. 10 DE MARZO DE 2020)
 
 III. Cumplir los requisitos señalados en las fracciones III a V y VIII para el Titular de la Auditoría Superior del Estado;
 
@@ -1011,9 +1019,11 @@ El Titular de la Auditoría Superior del Estado podrá adscribir orgánicamente 
 
 La Auditoría Superior del Estado contará con un servicio fiscalizador de carrera, debiendo emitir para ese efecto un estatuto que deberá publicarse en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 86.
 
-La Auditoría Superior del Estado elaborará su proyecto de presupuesto anual que contenga, de conformidad con las previsiones de gasto, los recursos necesarios para cumplir con su encargo, el cual será remitido por el Titular de la Auditoría Superior del Estado a la Comisión a más tardar el 15 de septiembre, para su inclusión en el proyecto de Presupuesto de Egresos para el siguiente ejercicio fiscal.
+La Auditoría Superior del Estado elaborará su proyecto de presupuesto anual que contenga, de conformidad con las previsiones de gasto, los recursos necesarios para cumplir con su encargo, el cual será remitido por el titular de la Auditoría Superior del Estado a la Comisión a más tardar el 30 de septiembre, para su inclusión en el proyecto de Presupuesto de Egresos para el siguiente ejercicio fiscal.
 
 La Auditoría Superior del Estado ejercerá autónomamente su presupuesto aprobado con sujeción a las disposiciones de acuerdo a las disposiciones que resulten aplicables.
 
@@ -1203,9 +1213,9 @@ Dichas opiniones, solicitudes o denuncias podrán presentarse por medios electr�
 
 T R A N S I T O R I O S
 
-PRIMERO. Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+PRIMERO. Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
-SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí publicada como Decreto Legislativo No. 602 en el Periódico Oficial del Gobierno del Estado "Plan de San Luis" el 1 de abril de 2017.
+SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí publicada como Decreto Legislativo No. 602 en el Periódico Oficial del Gobierno del Estado “Plan de San Luis” el 1 de abril de 2017.
 
 TERCERO. Se abroga el Decreto Legislativo No. 639 de fecha 23 de mayo de 2017. En consecuencia, la persona electa mediante dicho Decreto Legislativo, pasa a formar parte de la estructura de la Unidad de Evaluación y Control. Los procedimientos administrativos, así como los asuntos en trámite iniciados por la contraloría interna, con anterioridad a la entrada en vigor de la presente Ley, continuarán tramitándose hasta su resolución final, conforme a las disposiciones aplicables vigentes a su inicio. En un plazo no mayor de treinta días hábiles aquellos que no lo fueren así, la Unidad de Evaluación y Control de la Comisión de Vigilancia, continuará con el trámite de los mismos de conformidad con lo establecido en esta Ley y su reglamento.
 
@@ -1223,7 +1233,7 @@ En lo relativo a la presentación de los informes generales e individuales prese
 
 Lo tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
 
-D A D O en el salón de sesiones "Ponciano Arriaga Leija" del Honorable Congreso del Estado, el siete de junio de dos mil dieciocho.
+D A D O en el salón de sesiones “Ponciano Arriaga Leija” del Honorable Congreso del Estado, el siete de junio de dos mil dieciocho.
 
 Por la Directiva. Presidente, Legislador Fernando Chávez Méndez; Segunda Prosecretaria, Legisladora Martha Orta Rodríguez; Segundo Secretario, Legislador Jorge Luis Miranda Torres (rúbricas).
 
@@ -1298,3 +1308,27 @@ TERCERO. La Auditoría Superior del Estado dispondrá de un plazo de treinta dí
 CUARTO. La Auditoría Superior del Estado hará las adecuaciones presupuestales necesarias, para el debido funcionamiento del órgano interno de control.
 
 QUINTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0614.- SE REFORMA EL ARTÍCULO 79 EN SU PÁRRAFO PRIMERO; Y DEROGA DEL MISMO ARTÍCULO 79 LA FRACCIÓN II, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 10 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0615.- SE REFORMA EL ARTÍCULO 86 EN SU PÁRRAFO PRIMERO, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 10 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0616.- SE REFORMA LOS ARTÍCULOS, 37 EN SU PÁRRAFO QUINTO, Y 69 EN SU FRACCIÓN XVI; Y ADICIONA AL ARTÍCULO 69 UNA FRACCIÓN, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
