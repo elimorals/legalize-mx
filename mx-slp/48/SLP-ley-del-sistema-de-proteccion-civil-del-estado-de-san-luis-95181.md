@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-proteccion-civil-del-estado-de-san-luis-9518
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-06"
-last_updated: "2018-08-30"
+last_updated: "2020-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de julio de 2013.
 
@@ -217,13 +217,19 @@ El Sistema Estatal deberá contar para su adecuado funcionamiento por lo menos c
 
 I. El Programa Estatal;
 
-II. El Atlas Estatal;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2020)</small>
 
-III. Los Atlas Municipales;
+II. El Atlas Estatal de Riesgos;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2020)</small>
+
+III. Los Atlas Municipales de Riesgos;
 
 IV. Los Planes, Estatal y Municipales de Contingencia;
 
-V. Los Planes Internos;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2020)</small>
+
+V. Los Programas Internos;
 
 VI. El Directorio Estatal de Integrantes del Consejo;
 
@@ -239,9 +245,11 @@ VIII. El Registro de grupos voluntarios, y
 
 IX. El registro de agentes consultores capacitadores.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 11.
 
-El titular del Poder Ejecutivo del Estado; y los presidentes municipales, tendrán la responsabilidad en el ámbito de sus competencias, respecto a la integración y funcionamiento de sus sistemas de protección civil, y se asegurarán de que se constituyan y operen los consejos y coordinaciones; asimismo, para que éstas últimas se constituyan como organismos desconcentrados, con autonomía administrativa, financiera, de operación y gestión.
+El titular del Poder Ejecutivo del Estado; y los presidentes municipales, tendrán la responsabilidad en el ámbito de sus competencias, respecto a la integración y funcionamiento de sus sistemas de protección civil, y se asegurarán de que se constituyan y operen los consejos y coordinaciones; asimismo, para que éstas últimas se constituyan como organismos desconcentrados, con autonomía administrativa, financiera, de operación y gestión; además, de publicar, difundir periódicamente y tener a disposición de la sociedad en general, de manera impresa y por internet, todos los documentos que se señalan en el artículo 10 de este ordenamiento, excepto los programas internos privados.
 
 ### Capítulo II. Del Programa Estatal de Protección Civil
 
@@ -1004,3 +1012,11 @@ P.O. 30 DE AGOSTO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0613.- SE REFORMA (SIC) LOS ARTÍCULOS, 10 EN SUS FRACCIONES II, III, Y V, Y 11, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se oponen al presente Decreto.
