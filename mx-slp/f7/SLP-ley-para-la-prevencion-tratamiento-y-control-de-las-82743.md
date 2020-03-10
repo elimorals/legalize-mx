@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-prevencion-tratamiento-y-control-de-las-82743"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-30"
-last_updated: "2020-03-05"
+last_updated: "2020-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de julio de 2011.
 
@@ -579,11 +579,11 @@ IV. Presentar ante la Secretaría de Salud, los programas de tratamiento terapé
 
 V. Contar con un Programa de Atención Integral a los Usuarios, de acuerdo a lo establecido en la Norma Oficial Mexicana NOM 028-SSA2-2009 Para la Prevención, Tratamiento y Control de las Adicciones;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE MARZO DE 2020)</small>
 
 VI. Coadyuvar con el personal de la Secretaría que practique visitas para verificar el cumplimiento de la presente Ley;
 
-> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2020)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 10 DE MARZO DE 2020)</small>
 
 VII. En el caso de centros residenciales de Tratamiento y Rehabilitación, con el reconocimiento y registro emitido por la Comisión Nacional contra las Adicciones, y
 
@@ -738,5 +738,13 @@ P.O. 5 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0608.- SE REFORMA EL ARTÍCULO 37 EN SU FRACCIÓN VI; Y ADICIONA AL MISMO ARTÍCULO 37 UNA FRACCIÓN, DE LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor a los seis meses siguientes de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0612.- SE REFORMA EL ARTÍCULO 37 EN SU FRACCIÓN VI; Y ADICIONA AL MISMO ARTÍCULO 37 UNA FRACCIÓN, DE LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor a los seis meses siguientes de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
