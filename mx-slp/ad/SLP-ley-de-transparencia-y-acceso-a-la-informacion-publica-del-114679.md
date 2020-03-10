@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2019-11-26"
+last_updated: "2020-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -1419,7 +1419,9 @@ k) En materia de seguridad pública y procuración de justicia:
 
 2. La estadística de los procesos de control de confianza desagregada por entidad municipal e institución.
 
-3. La incidencia delictiva fuero Común, desagregado por tipo de delito, así como el número de víctimas desagregado por género y rango de edad para los delitos de homicidio, secuestro y extorsión.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2020)</small>
+
+3. La incidencia delictiva del fuero común, desagregado por tipo de delito, así como el número de víctimas desagregado por género y rango de edad para los delitos de feminicidio, homicidio, secuestro y extorsión.
 
 l) En materia de política interior:
 
@@ -3084,3 +3086,11 @@ P.O. 26 DE NOVIEMBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0620.- SE REFORMA EL ARTÍCULO 85 EN SU FRACCIÓN I EN EL INCISO K EL NUMERAL 3, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
