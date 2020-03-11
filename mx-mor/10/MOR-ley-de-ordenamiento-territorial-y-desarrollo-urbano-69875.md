@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ordenamiento-territorial-y-desarrollo-urbano-69875"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-26"
-last_updated: "2019-07-17"
+last_updated: "2020-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de agosto de 2009.
 
@@ -792,6 +792,12 @@ IX. El titular del Poder Ejecutivo Estatal enviará el programa para su inscripc
 ###### Artículo 45.
 
 El detalle del procedimiento para la validación de los programas de desarrollo urbano sustentable, en cualquiera de los niveles establecidos en el artículo 32, será descrito en el reglamento de ordenamiento territorial.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2020)</small>
+
+###### Artículo 45 Bis.
+
+Las tierras destinadas a las actividades agrícolas, pecuarias y forestales con las que cuenta el estado, deberán ser preferentemente conservadas para dichos fines.
 
 ### CAPÍTULO III. EFECTOS DE LOS PROGRAMAS DE DESARROLLO URBANO SUSTENTABLE
 
@@ -2280,3 +2286,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- A la entrada en vigor del presente Decreto, quedarán sin efecto todas aquellas disposiciones que contravengan o se opongan al mismo.
 
 CUARTO.- Los municipios del estado de Morelos, deberán realizar las modificaciones y/o actualizaciones a los Reglamentos correspondientes en la materia para su armonización, dentro de los sesenta días posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 11 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS SETENTA POR EL QUE SE ADICIONA EL ARTÍCULO 45 BIS A LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Aprobado que sea el presente Decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
