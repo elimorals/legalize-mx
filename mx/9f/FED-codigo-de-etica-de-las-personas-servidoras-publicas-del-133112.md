@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-etica-de-las-personas-servidoras-publicas-del-133112"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-05"
-last_updated: "2019-02-05"
+last_updated: "2020-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133112&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2019-02-01"
 
 CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL GOBIERNO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MARZO DE 2020.
 
-Código publicado en el Número 2 del Diario Oficial de la Federación, el martes 5 de febrero de 2019.
+Código publicado en el Diario Oficial de la Federación, el martes 5 de febrero de 2019.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- FUNCIÓN PÚBLICA.- Secretaría de la Función Pública.
 
@@ -141,6 +141,8 @@ El Principio de Imparcialidad buscará fomentar el acceso neutral y sin discrimi
 
 El Principio de Eficiencia buscará consolidar los objetivos gubernamentales a través de una cultura de servicio público austero, orientada a resultados y basada en la optimización de recursos, garantizando la eficacia, la economía y la disciplina, así como el valor de cooperación.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 11 DE MARZO DE 2020)</small>
+
 ### CAPÍTULO III. DE LOS COMPROMISOS CON EL SERVICIO PÚBLICO
 
 ###### ARTÍCULO 12.
@@ -159,9 +161,11 @@ Las personas servidoras públicas, en el ámbito de sus atribuciones y competenc
 
 Las personas servidoras públicas emplearán lenguaje incluyente en todas sus comunicaciones institucionales con la finalidad de visibilizar a ambos sexos, eliminar el lenguaje discriminatorio basado en cualquier estereotipo de género, y fomentar una cultura igualitaria e incluyente.
 
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 16.
 
-Las personas servidoras públicas observarán un comportamiento digno, y evitarán realizar cualquier conducta que constituya una violación a los derechos humanos, con el objeto de generar ambientes laborales seguros que privilegien el respeto de las personas.
+Las personas servidoras públicas observarán un comportamiento digno, y no deberán realizar conductas que impliquen acoso sexual, hostigamiento sexual, o cualquier otra forma de violencia que constituya una violación a los derechos humanos, con el objeto de generar ambientes laborales seguros que privilegien el respeto de las personas.
 
 ###### ARTÍCULO 17.
 
@@ -211,11 +215,15 @@ Con el propósito de ejemplificar el cumplimiento a los principios, valores y re
 
 Para efectos de lo dispuesto en los artículos 15 y 17 de la Ley General de Responsabilidades Administrativas, los Comités de Ética o análogos, en coordinación con los Órganos Internos de Control, aplicarán anualmente la metodología que al efecto desarrolle la Secretaría, para la determinación del indicador de la idoneidad del Código de Conducta y del Indicador de riesgos éticos. Para ello, cada dependencia o entidad podrá apoyarse en sondeos, encuestas, estudios u otras fuentes de información sobre la materia, que resulten específicos para dicho organismo público o para la Administración Pública Federal.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 11 DE MARZO DE 2020)</small>
+
 ### CAPÍTULO V. DE LOS MECANISMOS DE CAPACITACIÓN Y DIFUSIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 27.
 
-Para la divulgación, conocimiento y apropiación del Código de ética, el Código de Conducta y las políticas de integridad las dependencias, entidades y empresas productivas del Estado, deberán establecer, en conjunto con los Comités o análogos, un programa anual para la divulgación de dichos instrumentos y la capacitación que refuerce la prevención y sensibilización para evitar la materialización de riesgos éticos y, en su caso, refuerce la formación del juicio ético necesario para su prevención.
+Para la divulgación, conocimiento y apropiación del Código de Ética, el Código de Conducta y las políticas de integridad, las dependencias, entidades y empresas productivas del Estado, deberán establecer en conjunto con los Comités o análogos, un programa anual para la divulgación de dichos instrumentos y la capacitación que refuerce la habilidad de su personal para realizar juicios éticos, encaminados a prevenir la violencia de género, el acoso sexual y hostigamiento sexual, o cualquier otra conducta que vulnere la dignidad humana, los derechos o las libertades, así como de cualquier principio, valor o regla de integridad previstos en este Código.
 
 Los mecanismos de capacitación a que se refiere el párrafo anterior, se impartirán de manera presencial o virtual, y podrán consistir en cursos, talleres, conferencias, seminarios o cualquier otra dinámica que facilite el conocimiento y sensibilización en los principios, valores y de integridad que rigen el ejercicio del servicio público.
 
@@ -264,3 +272,11 @@ QUINTO. La normativa que rige a los Comités, así como los mecanismos de evalua
 Sufragio Efectivo. No Reelección.
 
 Ciudad de México, al 1 día del mes de febrero de dos mil diecinueve.- La Secretaria de la Función Pública, Irma Eréndira Sandoval Ballesteros.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 11 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMA Y ADICIONA EL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL GOBIERNO FEDERAL”.]
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
