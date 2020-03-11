@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2020-02-12"
+last_updated: "2020-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -799,9 +799,9 @@ g) Las designaciones de los Magistrados que integran el Poder Judicial, para lo 
 
 h) Designar en caso de licencia de algún diputado a quien deba cubrir la ausencia en las comisiones respectivas;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2020)</small>
 
-IV. Designar al Secretario Técnico de la propia Junta Política y de Gobierno, al Coordinador del área de Comunicación Social del Congreso del Estado, a los Directores y Titular de la Unidad General Administrativa de la Auditoría Superior de Fiscalización del Congreso del Estado, así como a los Encargados de Despacho del Instituto de Investigaciones Legislativas y Coordinación de Comunicación Social.
+IV. Designar al Secretario Técnico de la propia Junta Política y de Gobierno, al Coordinador del área de Comunicación Social del Congreso del Estado, a los Directores y Titular de la Unidad General Administrativa de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado, así como a los Encargados de Despacho del Instituto de Investigaciones Legislativas y Coordinación de Comunicación Social;
 
 V. Impulsar la conformación de puntos de acuerdo relacionados con el contenido de las propuestas, iniciativas, dictámenes o minutas que requieran de su votación en el pleno del Congreso el Estado, a fin de agilizar el trabajo legislativo;
 
@@ -1655,9 +1655,9 @@ I. Vigilar la correcta administración y aplicación de los recursos económicos
 
 II. Revisar los inventarios de los recursos materiales con que cuente el Congreso del Estado, y
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2020)</small>
 
-III. Someter a consideración del pleno del Congreso del Estado, la revisión de la cuenta pública trimestral del Congreso del Estado, previo análisis y dictamen de la Auditoría Superior de Fiscalización, para efectos de su aprobación cuando así proceda.
+III. Someter a consideración del pleno del Congreso del Estado, la revisión de la cuenta pública trimestral del Congreso del Estado, previo análisis y Dictamen de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado, para efectos de su aprobación cuando así proceda.
 
 ###### Artículo 87.
 
@@ -1739,7 +1739,9 @@ II. Secretaría de Administración y Finanzas; e
 
 III. Instituto de Investigaciones Legislativas;
 
-IV. Auditoria Superior de Fiscalización;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2020)</small>
+
+IV. Entidad Superior de Auditoría y Fiscalización del Congreso del Estado;
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
@@ -1879,9 +1881,9 @@ XXVI. Recibir los dictámenes emanados de las diferentes Comisiones y Comités, 
 
 XXVII. Las demás que esta Ley, su Reglamento y el Pleno del Congreso del Estado le confieran.
 
-### CAPÍTULO IV. DE LA AUDITORÍA SUPERIOR DE FISCALIZACIÓN
+### CAPÍTULO IV. DE LA ENTIDAD SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN DEL CONGRESO DEL ESTADO
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2020)</small>
 
 ###### Artículo 95.
 
@@ -1945,19 +1947,19 @@ XVI. Resguardar y manejar la agenda de eventos en las instalaciones del Congreso
 
 XVII. Las demás que la presente Ley y su Reglamento le confieran.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MARZO DE 2020)</small>
 
 ### CAPÍTULO V. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
 
 ###### Artículo 99.
 
-La Auditoría Superior de Fiscalización es el órgano de fiscalización perteneciente al Congreso del Estado que se integra y rige en los términos de la ley de la materia.
+La Entidad Superior de Auditoría y Fiscalización del Congreso del Estado es el órgano de fiscalización perteneciente al Congreso del Estado que se integra y rige en los términos de la ley de la materia.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2020)</small>
 
 ###### Artículo 100.
 
-El titular de la Auditoría Superior de Fiscalización, no podrá ser o haber sido militante de ninguno de los partidos políticos con registro en el Estado.
+El Titular de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado, no podrá ser o haber sido militante de ninguno de los partidos políticos con registro en el Estado.
 
 ### CAPÍTULO VI. SISTEMA MORELENSE DE RADIO Y TELEVISIÓN
 
@@ -2996,3 +2998,13 @@ Artículo Segundo.- El presente Decreto entrará en vigor al momento de su aprob
 Artículo Tercero.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
 
 Artículo Cuarto.- Se Instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial "Tierra y Libertad", a brindar las facilidades necesarias a fin de remitir en "COPIA CERTIFICADA", los Decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
+
+P.O. 11 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS SETENTA Y CINCO POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 50, LA FRACCIÓN III DEL ARTÍCULO 86, LA FRACCIÓN IV DEL ARTÍCULO 89, LOS ARTÍCULOS 99, 100 Y LA DENOMINACIÓN DEL CAPÍTULO IV DEL TÍTULO OCTAVO, TODOS DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+
+Artículo Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos para los efectos a que se refiere la fracción XVII, inciso a y c, del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Artículo Segundo.- El presente Decreto entrará en vigor el día de su aprobación por el Pleno del Congreso.
+
+Artículo Tercero.- Se Instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial "Tierra y Libertad", a brindar las facilidades necesarias a fin de remitir en "COPIA CERTIFICADA", los Decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
