@@ -4,7 +4,7 @@ identifier: "MOR-decreto-que-crea-un-organismo-descentralizado-denominado-38347"
 country: "mx"
 rank: "decreto"
 publication_date: "1995-02-08"
-last_updated: "2017-03-16"
+last_updated: "2020-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 DECRETO NÚMERO CIENTO NOVENTA Y UNO QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO “COMISIÓN ESTATAL DE RESERVAS TERRITORIALES”
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2020.
 
 Decreto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 8 de febrero de 1995.
 
@@ -61,11 +61,11 @@ QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO “COMISION ESTATAL DE RESERVAS
 
 ### CAPITULO PRIMERO. NATURALEZA Y OBJETIVO
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2020)</small>
 
-###### ARTÍCULO 1.
+###### ARTICULO 1.
 
-Se crea la "Comisión Estatal de Reservas Territoriales", como Organismo Público Descentralizado del Gobierno del Estado, con personalidad jurídica, patrimonio propio y autonomía jerárquica respecto de la Administración Pública Central, con domicilio en la ciudad de Cuernavaca, Morelos; sectorizado en términos del artículo 50, de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+Se crea la “Comisión Estatal de Reservas Territoriales”, como Organismo Público Descentralizado del Gobierno del Estado, con personalidad jurídica, patrimonio propio y autonomía jerárquica respecto de la Administración Pública Central, con domicilio en la ciudad de Cuernavaca, Morelos; sectorizado en términos de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
@@ -129,7 +129,9 @@ XII.- Coadyuvar en la realización del inventario del patrimonio territorial lib
 
 XIII.- Analizar los planteamientos de usos y reservas de suelo contenidos en los Programas de Desarrollo Urbano Sustentable, con objeto de realizar los estudios de delimitación y tenencia, que establezcan las reservas territoriales, así como proponer las actualizaciones o modificaciones a los diversos instrumentos de planeación y administración aplicables;
 
-XIV.- Proponer a la Secretaría de Gobierno del Poder Ejecutivo Estatal, acuerdos de coordinación con la Federación para la adquisición o constitución de reservas territoriales para el desarrollo urbano y la vivienda;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2020)</small>
+
+XIV.- Proponer a la Secretaría de Desarrollo Sustentable del Poder Ejecutivo Estatal, acuerdos de coordinación con la Federación para la adquisición o constitución de reservas territoriales para el desarrollo urbano y la vivienda;
 
 XV.- Realizar negociaciones con los poseedores o propietarios del suelo urbano en las Reservas territoriales previstas en los Programas de Desarrollo Urbano Sustentable y Estatal de ordenamiento territorial, así como realizar los actos jurídicos o administrativos que aseguren el destino previsto para dichas reservas;
 
@@ -211,7 +213,9 @@ V.- La persona titular de la Secretaría de Desarrollo Social del Poder Ejecutiv
 
 VI.- La persona titular de la Secretaría Desarrollo Sustentable del Poder Ejecutivo Estatal;
 
-VII.- La persona titular de la Secretaría de Economía del Poder Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2020)</small>
+
+VII.- La persona Titular de la Secretaría de Desarrollo Económico y del Trabajo del Poder Ejecutivo Estatal;
 
 VIII.- La persona titular de la Secretaría de Obras Públicas del Poder Ejecutivo Estatal, y
 
@@ -367,13 +371,15 @@ II.- Llevar el libro de actas de las sesiones;
 
 III.- Las demás que el Presidente le asigne.
 
-### CAPITULO QUINTO. DEL ORGANO DE VIGILANCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MARZO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2014)</small>
+### CAPITULO QUINTO. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 15.
 
-El Órgano de Vigilancia de la Comisión, estará integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Contraloría. Dicho servidor público evaluará la actividad de la Comisión; asimismo realizará estudios sobre la eficiencia con la cual se ejerzan los desembolsos en los rubros de gasto corriente e inversión, y en general, solicitará información y ejecutará los actos que exija el cumplimiento adecuado de sus funciones, sin menoscabo de las tareas específicas que le ordene la Secretaría de la Contraloría; consecuentemente, tanto la Junta de Gobierno como el Director General, deberán proporcionar la información que solicite el Comisario, a efecto de que pueda cumplir con las funciones mencionadas.
+El Órgano Interno de Control de la Comisión estará integrado por un Comisario Público, designado por la Secretaría de la Contraloría, en términos de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
 
 ###### ARTICULO 16.
 
@@ -399,11 +405,11 @@ Las relaciones laborales entre la Comisión y sus trabajadores, se regirán por 
 
 Los integrantes de los órganos de Gobierno de la Comisión y su personal de confianza serán responsables por los delitos y las faltas en que incurran en el ejercicio de sus funciones, conforme a las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2020)</small>
 
-###### ARTÍCULO 21.
+###### ARTICULO 21.
 
-Los casos no previstos en el presente Decreto, se resolverán por la Junta de Gobierno, de acuerdo a las disposiciones de las Leyes de la materia, de la Ley Orgánica de la Administración Pública del Estado de Morelos y de las demás disposiciones jurídicas aplicables.
+Los casos no previstos en el presente Decreto, se resolverán por la Junta de Gobierno, de acuerdo a las disposiciones de las Leyes de la materia, de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos y de las demás disposiciones jurídicas aplicables.
 
 ## TRANSITORIOS
 
@@ -484,3 +490,15 @@ TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico n
 CUARTA. Dentro del plazo de noventa días hábiles contados a partir del día siguiente de la publicación de este Decreto, de conformidad con lo dispuesto por los artículos 47 y 50 de la Ley Orgánica de la Administración Pública del Estado de Morelos, el Titular del Poder Ejecutivo deberá expedir el Acuerdo por el que establezca la Secretaría o Dependencia del Poder Ejecutivo a la cual quedará sectorizada la Comisión Estatal de Reservas Territoriales.
 
 QUINTA. Dentro del plazo a que se refiere la disposición transitoria anterior, el Titular del Poder Ejecutivo, mediante Decreto, podrá designar y aportar a favor de la Comisión Estatal de Reservas Territoriales, los bienes inmuebles del patrimonio del Estado que sean susceptibles de aprovechamiento para el cumplimiento de su objeto y funciones. El ejercicio de esta facultad deberá ser informado dentro de la cuenta pública inmediata posterior que se presente al Poder Legislativo.
+
+P.O. 11 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS SESENTA Y CUATRO.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL DIVERSO NÚMERO CIENTO NOVENTA Y UNO QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO “COMISIÓN ESTATAL DE RESERVAS TERRITORIALES”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+CUARTA.- En caso de ser necesario, realícense las adecuaciones correspondientes al Estatuto Orgánico de la Comisión Estatal de Reservas Territoriales, así como de las demás disposiciones internas, en los términos del presente Decreto en un plazo no mayor de noventa días hábiles.
