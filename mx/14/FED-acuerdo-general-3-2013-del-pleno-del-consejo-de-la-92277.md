@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2020-02-07"
+last_updated: "2020-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,9 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE DICIEMBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 7 DE FEBRERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MARZO DE 2020.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -447,9 +445,9 @@ XXIV. VIGESIMO CUARTO CIRCUITO:
 
 2. Dos tribunales unitarios con sede en Tepic.
 
-> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 17/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 3/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE MARZO DE 2020)</small>
 
-3. Ocho juzgados de Distrito en el Estado de Nayarit: dos especializados en Materia de Amparo Civil, Administrativo y de Trabajo y de Juicios Federales con residencia en Tepic; dos en procesos penales federales y de amparo en materia penal con residencia en "El Rincón", municipio de Tepic, y cuatro de amparo en materia penal con residencia en Tepic.
+3. Ocho juzgados de Distrito en el Estado de Nayarit: tres especializados en Materia de Amparo Civil, Administrativo y de Trabajo y de Juicios Federales, dos con residencia en Tepic y uno en "El Rincón", municipio de Tepic; uno en procesos penales federales con residencia en "El Rincón", municipio de Tepic, y cuatro de amparo en materia penal con residencia en Tepic.
 
 XXV. VIGESIMO QUINTO CIRCUITO:
 
@@ -7636,3 +7634,137 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el 
 TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
 
 Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en las Oficinas de Correspondencia Común que darán servicio a los órganos jurisdiccionales que inician funciones.
+
+D.O.F. 11 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 3/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA TRANSFORMACIÓN DE LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO DE PROCESOS PENALES FEDERALES Y DE AMPARO EN MATERIA PENAL EN EL ESTADO DE NAYARIT, CON RESIDENCIA EN EL RINCÓN, MUNICIPIO DE TEPIC, EN JUZGADO TERCERO DE DISTRITO EN MATERIA DE AMPARO CIVIL, ADMINISTRATIVO Y DE TRABAJO Y DE JUICIOS FEDERALES EN EL ESTADO DE NAYARIT, CON RESIDENCIA EN EL RINCÓN, MUNICIPIO DE TEPIC Y JUZGADO DE DISTRITO DE PROCESOS PENALES FEDERALES EN LA MISMA ENTIDAD FEDERATIVA Y SEDE, RESPECTIVAMENTE; A LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTARÁ SERVICIO A LOS ÓRGANOS JURISDICCIONALES REFERIDOS; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE AQUÉLLOS Y QUE REFORMA EL SIMILAR 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA, Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. A partir del dieciséis de marzo de 2020 las comunicaciones oficiales en materia de procesos penales federales que se reciban en días y horas hábiles, de conformidad con lo establecido en el Acuerdo General 7/2013 y el transitorio tercero del diverso 7/2019, ambos del Pleno del Consejo de la Judicatura Federal, continuarán siendo distribuidas y turnadas por la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Nayarit con competencia en Procesos Penales Federales y de Amparo en Materia Penal, con residencia en Tepic, entre todos los Juzgados de Distrito de la localidad, incorporando al turno al ahora denominado Juzgado Tercero de Distrito en Materia de Amparo Civil, Administrativo y de Trabajo y de Juicios Federales en el Estado de Nayarit y al Juzgado de Distrito de Procesos Penales Federales en la misma entidad federativa.
+
+A partir de la fecha antes señalada las comunicaciones oficiales urgentes de procesos penales federales que se presenten en días y horas inhábiles, serán del conocimiento de los Juzgados de Distrito de Amparo en Materia Penal en el Estado de Nayarit y del ahora denominado Juzgado de Distrito de Procesos Penales Federales en el Estado de Nayarit, para lo cual se observará el calendario siguiente.
+
+ORDEN DEL ROL DE GUARDIAS DE TURNO PARA RECIBIR COMUNICACIONES OFICIALES EN MATERIA DE PROCESOS PENALES FEDERALES EN DÍAS Y HORAS INHÁBILES, EN EL JUZGADO DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE NAYARIT, CON RESIDENCIA EN “EL RINCÓN”, MUNICIPIO DE TEPIC Y EN LOS JUZGADOS DE DISTRITO DE AMPARO EN MATERIA PENAL EN EL ESTADO DE NAYARIT, CON RESIDENCIA EN TEPIC
+
+TURNO Y PERIODO DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE
+
+CORRESPONDE LA GUARDIA
+
+DEL 16 AL 23 DE MARZO DE 2020 JUZGADO PRIMERO DE DISTRITO DE
+
+AMPARO EN MATERIA PENAL EN EL
+
+ESTADO DE NAYARIT
+
+DEL 23 AL 30 DE MARZO DE 2020 JUZGADO SEGUNDO DE DISTRITO DE
+
+AMPARO EN MATERIA PENAL EN EL
+
+ESTADO DE NAYARIT
+
+DEL 30 DE MARZO JUZGADO TERCERO DE DISTRITO DE
+
+AL 6 DE ABRIL DE 2020 AMPARO EN MATERIA PENAL EN EL
+
+ESTADO DE NAYARIT
+
+DEL 6 AL 13 DE ABRIL DE 2020 JUZGADO CUARTO DE DISTRITO DE
+
+AMPARO EN MATERIA PENAL EN EL
+
+ESTADO DE NAYARIT
+
+DEL 13 AL 20 DE ABRIL DE 2020 JUZGADO DE DISTRITO DE
+
+PROCESOS PENALES FEDERALES EN
+
+EL ESTADO DE NAYARIT.
+
+DEL 20 AL 27 DE ABRIL DE 2020 JUZGADO PRIMERO DE DISTRITO DE
+
+AMPARO EN MATERIA PENAL EN EL
+
+ESTADO DE NAYARIT
+
+DEL 27 DE ABRIL JUZGADO SEGUNDO DE DISTRITO DE
+
+AL 4 DE MAYO DE 2020 AMPARO EN MATERIA PENAL EN EL
+
+ESTADO DE NAYARIT
+
+DEL 4 AL 11 DE MAYO DE 2020 JUZGADO TERCERO DE DISTRITO DE
+
+AMPARO EN MATERIA PENAL EN EL
+
+ESTADO DE NAYARIT
+
+DEL 11 AL 18 DE MAYO DE 2020 JUZGADO CUARTO DE DISTRITO DE
+
+AMPARO EN MATERIA PENAL EN EL
+
+ESTADO DE NAYARIT
+
+DEL 18 AL 25 DE MAYO DE 2020 JUZGADO DE DISTRITO DE PROCESOS
+
+PENALES FEDERALES EN EL ESTADO
+
+DE NAYARIT.
+
+Y así, sucesivamente conforme al orden establecido.
+
+Los turnos de guardia semanal inician a las ocho horas con treinta minutos del día lunes y concluirán a las ocho horas con veintinueve minutos del lunes siguiente.
+
+CUARTO. A partir del dieciséis de marzo de 2020, se modifica el calendario para la recepción de demandas de amparo en materia penal que se presenten en días y horas inhábiles, de conformidad con lo siguiente:
+
+ORDEN DEL ROL DE GUARDIAS DE TURNO PARA RECIBIR ASUNTOS EN DÍAS Y HORAS INHÁBILES EN LOS JUZGADOS DE DISTRITO DE AMPARO EN MATERIA PENAL EN EL ESTADO DE NAYARIT
+
+TURNO Y PERIODO DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE
+
+CORRESPONDE LA GUARDIA
+
+DEL 16 AL 23 DE MARZO DE 2020 JUZGADO PRIMERO DE DISTRITO DE
+
+AMPARO EN MATERIA PENAL EN EL
+
+ESTADO DE NAYARIT
+
+DEL 23 AL 30 DE MARZO DE 2020 JUZGADO SEGUNDO DE DISTRITO DE
+
+AMPARO EN MATERIA PENAL EN EL
+
+ESTADO DE NAYARIT
+
+DEL 30 DE MARZO JUZGADO TERCERO DE DISTRITO DE
+
+AL 6 DE ABRIL DE 2020 AMPARO EN MATERIA PENAL EN EL
+
+ESTADO DE NAYARIT
+
+DEL 6 AL 13 DE ABRIL DE 2020 JUZGADO CUARTO DE DISTRITO DE
+
+AMPARO EN MATERIA PENAL EN EL
+
+ESTADO DE NAYARIT
+
+DEL 13 AL 20 DE ABRIL DE 2020 JUZGADO PRIMERO DE DISTRITO DE
+
+AMPARO EN MATERIA PENAL EN EL
+
+ESTADO DE NAYARIT
+
+DEL 20 AL 27 DE ABRIL DE 2020 JUZGADO SEGUNDO DE DISTRITO DE
+
+AMPARO EN MATERIA PENAL EN EL
+
+ESTADO DE NAYARIT
+
+Y así, sucesivamente conforme al orden establecido.
+
+Los turnos de guardia semanal inician a las ocho horas con treinta minutos del día lunes y concluirán a las ocho horas con veintinueve minutos del lunes siguiente.
+
+QUINTO. La Dirección General de Gestión Judicial, en coordinación con la Dirección General de Tecnologías de la Información, realizará todos los ajustes requeridos en el sistema de cómputo de la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Nayarit con competencia en Procesos Penales Federales y de Amparo en Materia Penal, con residencia en Tepic para la distribución de las comunicaciones oficiales en materia de procesos penales federales conforme a lo dispuesto en el presente acuerdo.
+
+SEXTO. La Coordinación de Administración Regional y la Dirección General de Gestión Judicial diseñarán e implementarán, de forma coordinada entre sí, la logística necesaria para el envío de los asuntos al Juzgado Tercero de Distrito en Materia de Amparo Civil, Administrativo y de Trabajo y de Juicios Federales en el Estado de Nayarit, ubicado en el Centro Federal de Readaptación Social No. 4 Noroeste, “El Rincón”, por parte de la Oficina de Correspondencia Común de los Juzgados de Distrito en Materia de Amparo Civil, Administrativo y de Trabajo y de Juicios Federales en el Estado de Nayarit, con residencia en Tepic.
