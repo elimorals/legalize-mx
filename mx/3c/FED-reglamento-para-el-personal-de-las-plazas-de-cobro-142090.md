@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-personal-de-las-plazas-de-cobro-142090"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-12-23"
-last_updated: "2016-12-23"
+last_updated: "2020-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142090&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-11-24"
 
 REGLAMENTO PARA EL PERSONAL DE LAS PLAZAS DE COBRO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MARZO DE 2020.
 
 Reglamento publicado en la Octava Sección al Número 17 del Diario Oficial de la Federación, el viernes 23 de diciembre de 2016.
 
@@ -571,7 +571,7 @@ XXI. En casos de falla de los equipos de los Sistemas Electrónicos de Pago, est
 
 XXII. Vigilar que se realicen los aforos manuales de tarjetas IAVE en casos extraordinarios, por falla en los equipos o procesos de reubicación.
 
-XXIII. Vigilar que los Cajeros Receptores cobren en dinero en efectivo el importe de las tarifas correspondientes a aquellos usuarios o transportistas que el equipo les marque “tarjeta inválida” o se encuentren boletinadas por falta de pago.
+XXIII. Vigilar que los Cajeros Receptores cobren en dinero en efectivo el importe de las tarifas correspondientes a aquellos usuarios o transportistas que el equipo les marque "tarjeta inválida" o se encuentren boletinadas por falta de pago.
 
 XXIV. Retirar el dinero en efectivo generado en los carriles por el cobro de las tarifas por lo menos una vez por turno en condiciones normales o en función de las que a su criterio sean necesarias en cada turno, entregando a cada Cajero Receptor el vale del retiro, depositándolo en la caja de seguridad de la Plaza de Cobro y al término del turno realizar la suma de todo lo recolectado, salvo en el caso de las Plazas de Cobro en donde sea otro el responsable del manejo del dinero en efectivo.
 
@@ -609,7 +609,9 @@ XL. Verificar la correcta operación de los Pasímetros Automáticos y en caso d
 
 XLI. Apegarse al procedimiento correspondiente para la correcta operación del Pasímetro Automático.
 
-XLII. Firmar antes de retirarse de la Plaza de Cobro la preliquidación correspondiente a su turno laborado y las liquidaciones de turnos anteriores presentadas por el Administrador o quien se designe para tal efecto. El cumplimiento de esta obligación dará motivo al levantamiento del acta correspondiente, considerándose como válidos todos los documentos que se hubiesen generado para los efectos legales a que haya lugar.
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2020)</small>
+
+XLII. Firmar antes de retirarse de la Plaza de Cobro la preliquidación correspondiente a su turno laborado y las liquidaciones de turnos anteriores presentadas por el Administrador o quien se designe para tal efecto. El incumplimiento de esta obligación dará motivo al levantamiento del acta correspondiente, considerándose como válidos todos los documentos que se hubieren generado para los efectos legales a que haya lugar.
 
 ### CAPÍTULO III. De las obligaciones Administrativas
 
@@ -896,3 +898,13 @@ ARTÍCULO TRANSITORIO DEL ACUERDO por el que se emite el COMPENDIO Operativo par
 Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Dado en la ciudad de Cuernavaca, Morelos, a veinticuatro de noviembre de dos mil dieciséis.- El Director General de Caminos y Puentes Federales de Ingresos y Servicios Conexos, Benito Neme Sastré.- Rúbrica.- El Director de Operación de Caminos y Puentes Federales de Ingresos y Servicios Conexos, Luis Iván González Ayala.- Rúbrica.- El Subdirector de Supervisión de Operación de Caminos y Puentes Federales de Ingresos y Servicios Conexos, Jorge Arturo Castillo Martínez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 11 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ARTÍCULO 28, FRACCIÓN XLII DEL REGLAMENTO PARA EL PERSONAL DE LAS PLAZAS DE COBRO DEL COMPENDIO OPERATIVO PARA PLAZAS DE COBRO DE CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS”.]
+
+Primero.- Se instruye a la Coordinación de Comunicación Social para que realice las gestiones necesarias, a efecto de que el Acuerdo se publique en el Diario Oficial de la Federación.
+
+Segundo.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
