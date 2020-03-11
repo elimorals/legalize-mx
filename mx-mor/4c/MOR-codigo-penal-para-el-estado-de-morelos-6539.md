@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2020-01-22"
+last_updated: "2020-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2020.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1741,11 +1741,9 @@ Cuando se cause homicidio, en las circunstancias previstas en el presente artíc
 
 No se procederá contra quien culposamente ocasione lesiones u homicidio en agravio de un ascendiente o descendiente consanguíneo en línea recta o hermano, salvo que el autor se encuentre bajo el efecto de bebidas embriagantes, de estupefacientes o psicotrópicos, sin que medie prescripción médica, o bien que no auxiliare a la víctima.
 
-> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 1996)</small>
-
 ###### ARTICULO 130.
 
-Cuando el agente actúe en estado de emoción violenta, el juzgador podrá reducir hasta en una cuarta parte la sanción aplicable a las lesiones o al homicidio. Existe emoción violenta cuando en virtud de las circunstancias en que ocurre el delito y de las propias del agente, se halla considerablemente reducida la culpabilidad de éste, sin que exista inimputabilidad plena o imputabilidad disminuida.
+(DEROGADO, P.O. 11 DE MARZO DE 2020)
 
 ###### ARTICULO 131.
 
@@ -2015,17 +2013,13 @@ Se impondrán de seis meses a dos años de prisión, al que sin consentimiento d
 
 Al que por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de veinte a veinticinco años. Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo. También comete el delito de violación la persona que utilizando la violencia física o moral penetre con uno o más dedos por vía vaginal o anal al sujeto pasivo.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 153.
 
 Cuando la violación se cometa con la intervención de dos o más personas, o el sujeto activo tenga con el ofendido una relación de autoridad, de hecho o de derecho, se impondrá de veinticinco a treinta años de prisión.
 
 En el segundo supuesto del párrafo anterior, el juez privará al agente, en su caso, del ejercicio de la patria potestad, la tutela o la custodia y de los derechos sucesorios que pudiere tener en relación con el ofendido.
-
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2010)</small>
-
-Las penas señaladas para el delito de violación, se aplicarán aunque se demuestre que el sujeto pasivo sea o haya sido cónyuge o pareja permanente, viva o haya vivido en concubinato o amasiato con el sujeto activo, pero en estos casos el delito se perseguirá por querella de parte ofendida.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE MARZO DE 2018)</small>
 
@@ -2919,6 +2913,10 @@ ARTICULO 211 QUINTUS.- A quien venda bebidas alcohólicas a personas menores de 
 
 La misma pena será aplicable a quien permita el acceso a personas menores de dieciocho años a lugares o establecimientos donde preponderantemente se expendan bebidas alcohólicas para su consumo inmediato, cantinas, tabernas, bares, centros de vicio o lugares en que por su naturaleza sean nocivos para su desarrollo o para su salud.
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA NOTA ACLARATORIA PUBLICADA EN EL P.O. DE 25 DE MAYO DE 2020, SE DEJA SIN EFECTOS EL DECRETO NÚMERO SEISCIENTOS SESENTA Y DOS POR EL QUE SE ADICIONA EL ARTÍCULO 211 SEXTUS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 11 DE MARZO DE 2020.]</small>
+
+ARTICULO 211 SEXTUS.- (SIN EFECTOS, P.O. 25 DE MAYO DE 2020)
+
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 2008)</small>
 
 ### CAPITULO I. ULTRAJES A LA MORAL PUBLICA
@@ -3713,6 +3711,10 @@ Al que cometa el delito de abuso de autoridad en los términos previstos por las
 
 ### CAPITULO XV. RESISTENCIA DE PARTICULARES Y DESOBEDIENCIA
 
+(NOTA: EL 10 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 205/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 666, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2020)</small>
+
 ### CAPITULO XVI. QUEBRANTAMIENTO DE SELLOS
 
 ###### ARTICULO 273.
@@ -3929,7 +3931,7 @@ Se impondrá de dos a cinco años de prisión y de cien a trescientos días mult
 
 ###### ARTICULO 288.
 
-Al que sin causa legítima y por primera vez rehusare prestar un servicio al que la ley le obliga o desobedeciere un mandato legítimo de la autoridad, se le impondrá de treinta a ciento veinte días de semilibertad. Si la desobediencia ocurre con violencia por segunda ocasión o en relación con otros participantes, se duplicará la sanción, sin perjuicio de las sanciones aplicables al delito que resulte cometido.
+Al que sin causa legítima y por primera vez rehusare prestar un servicio al que la ley le obliga, desobedeciere un mandato legítimo de la autoridad O LA INSULTE EN SU CUMPLIMIENTO, se le impondrá de treinta a ciento veinte días de semilibertad. Si la desobediencia ocurre con violencia por segunda ocasión o en relación con otros participantes, se duplicará la sanción, sin perjuicio de las sanciones aplicables al delito que resulte cometido.
 
 ###### ARTICULO 289.
 
@@ -3963,15 +3965,15 @@ Cuando la ley autorice el empleo del apremio, para hacer efectivas las determina
 
 Al que quebrante los sellos puestos por orden de la autoridad, se le aplicará de sesenta a ciento veinte días de semilibertad.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE MARZO DE 2020)</small>
+
 ### CAPITULO UNICO. DELITOS COMETIDOS POR ACTOS DE CRUELDAD EN CONTRA DE ANIMALES DOMESTICOS
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 294.
 
-Al que ultraje a una autoridad en el ejercicio de sus funciones o con motivo de ellas, cuando la conducta no esté prevista como delito por otro precepto de la ley, se le impondrá de noventa a ciento ochenta días de semilibertad.
-
-Al que cometa un delito en contra de un servidor público en el acto de ejercer lícitamente sus funciones o con motivo de ellas, se le aplicará de uno a seis años de prisión, además de la sanción correspondiente al delito cometido.
+(DEROGADO, P.O. 11 DE MARZO DE 2020)
 
 ###### ARTICULO 295.
 
@@ -5133,7 +5135,7 @@ P.O. 28 DE AGOSTO DE 2019.
 
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a) del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico OficiaI "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango normativo jerárquico que contravengan lo dispuesto por la presente reforma constitucional local.
 
@@ -5171,10 +5173,52 @@ TERCERA.- Se derogan todas las disposiciones jurídicas de igual o menor rango n
 
 P.O. 22 DE ENERO DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CUATROCIENTOS SETENTA Y DOS POR EL QUE SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, ADICIONANDO EL CAPÍTULO V DENOMINADO "VIOLENCIA POLÍTICA POR CONDICIÓN DE GENERO" AL TÍTULO DÉCIMO PRIMERO Y UN ARTÍCULO 213 SEXTUS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS SETENTA Y DOS POR EL QUE SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, ADICIONANDO EL CAPÍTULO V DENOMINADO “VIOLENCIA POLÍTICA POR CONDICIÓN DE GENERO” AL TÍTULO DÉCIMO PRIMERO Y UN ARTÍCULO 213 SEXTUS”.]
 
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 TERCERA.- Se derogan todas las disposiciones jurídicas de igual o menor rango normativo jerárquico, que contravengan lo dispuesto por el presente Decreto.
+
+> <small>[N. DE E. DE CONFORMIDAD CON LA NOTA ACLARATORIA PUBLICADA EN EL P.O. DE 25 DE MAYO DE 2020, SE DEJA SIN EFECTOS EL DECRETO NÚMERO SEISCIENTOS SESENTA Y DOS POR EL QUE SE ADICIONA EL ARTÍCULO 211 SEXTUS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 11 DE MARZO DE 2020, POR LO QUE ESTOS TRANSITORIOS QUEDAN SIN EFECTOS.]</small>
+
+P.O. 11 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS SESENTA Y DOS POR EL QUE SE ADICIONA EL ARTÍCULO 211 SEXTUS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, CON LA FINALIDAD DE TIPIFICAR COMO DELITO, LA VENTA O DISTRIBUCIÓN DE BEBIDAS ALCOHÓLICAS SIN PERMISO O LICENCIA EXPEDIDA POR LA AUTORIDAD".]
+
+PRIMERA.- Aprobado que sea la presente reforma remítase a al (sic) Titular del Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad", Órgano Oficial de difusión del Gobierno del Estado de Morelos, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión de (sic) Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones secundarias que se opongan al presente Decreto.
+
+P.O. 11 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS SESENTA Y TRES.- POR EL QUE SE DEROGA EL ARTÍCULO 130 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones secundarias que se opongan a la presente reforma.
+
+P.O. 11 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS SESENTA Y SEIS POR EL QUE SE DEROGA EL ARTÍCULO 294, CORRESPONDIENTE AL DELITO DE ULTRAJES A LA AUTORIDAD Y SE REFORMA EL ARTÍCULO 288, AMBOS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones secundarias que se opongan al presente Decreto.
+
+P.O. 11 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS OCHENTA Y UNO POR EL QUE SE REFORMA EL ARTÍCULO 153 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones secundarias que se opongan al presente Decreto.
