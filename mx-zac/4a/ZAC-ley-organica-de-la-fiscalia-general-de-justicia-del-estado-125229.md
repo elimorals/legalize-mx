@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1252
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-30"
-last_updated: "2019-06-26"
+last_updated: "2020-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2020.
 
 Ley publicada en el Suplemento al Número 104 del Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre de 2017.
 
@@ -517,7 +517,9 @@ XII. Elaborar el anteproyecto del presupuesto anual de egresos, y una vez revisa
 
 XIII. Nombrar a los Consejeros Ciudadanos del Consejo de la Fiscalía General;
 
-XIV. Comparecer ante la Legislatura del Estado para informar sobre los asuntos a su cargo, en los términos de la Constitución del Estado;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2020)</small>
+
+XIV. Comparecer ante la Legislatura del Estado para informar sobre los asuntos a su cargo y en el mes de marzo de cada año, presentar su informe de actividades, en los términos de la Constitución del Estado;
 
 XV. Coadyuvar en la definición y la aplicación de la política criminal del Estado en los términos que establezcan las leyes de la materia;
 
@@ -1870,3 +1872,13 @@ P.O. 26 DE JUNIO DE 2019.
 Artículo primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Órgano de (sic) Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O.11 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 382.- POR EL QUE SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 18 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Por esta ocasión se propone que el informe de actividades que rinda ante la Legislatura del Estado el Fiscal General de Justicia del Estado de Zacatecas, se realice el 12 de marzo de 2020.
+
+Artículo tercero. Se derogan las disposiciones que se opongan a este Decreto.
