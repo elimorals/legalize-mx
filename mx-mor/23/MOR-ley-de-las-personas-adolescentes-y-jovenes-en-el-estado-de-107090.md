@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-las-personas-adolescentes-y-jovenes-en-el-estado-de-1070
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-01"
-last_updated: "2015-04-01"
+last_updated: "2020-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LAS PERSONAS ADOLESCENTES Y JÓVENES EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 1 de abril de 2015.
 
@@ -35,7 +35,9 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:
 
-I. DEL PROCESO LEGISLATIVO…
+I. DEL PROCESO LEGISLATIVO
+
+[...]
 
 Por lo anteriormente expuesto, esta LII Legislatura ha tenido a bien expedir la siguiente:
 
@@ -671,6 +673,10 @@ XI. Difundir los derechos de las personas adolescentes y jóvenes, así como de 
 
 XII. Fomentar la creación de Instancias de Juventud en cada uno de los Municipios del Estado, en coordinación con cada Ayuntamiento.
 
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2020)</small>
+
+XIII. Impulsar programas y acciones para la prevención de la violencia y la delincuencia en adolescentes y jóvenes del estado de Morelos en coordinación con las autoridades correspondientes
+
 ###### Artículo 51.
 
 El Instituto contará con:
@@ -1148,3 +1154,17 @@ SECRETARIO DE GOBIERNO
 DR. MATÍAS QUIROZ MEDINA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS SESENTA Y OCHO POR EL CUAL SE ADICIONA LA FRACCIÓN XIII DEL ARTÍCULO 50 DE LA LEY DE LAS PERSONAS ADOLESCENTES Y JÓVENES EN EL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación, sanción y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan las disposiciones de igual o menor grado que se opongan a la presente reforma.
+
+CUARTA.- Se consulta a la asamblea en votación económica si el presente se considera de urgente y obvia resolución para ser discutido y votado en esta misma sesión.
