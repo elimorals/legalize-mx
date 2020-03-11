@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2019-11-27"
+last_updated: "2020-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 27 DE NOVIEMBRE DE 2019 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO DOSCIENTOS CUARENTA Y DOS PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -439,11 +437,25 @@ DOMICILIO CONVENCIONAL. Se tiene derecho de designar un domicilio convencional p
 
 ### CAPÍTULO IV. DEL NOMBRE
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 14.
 
 FORMACIÓN DEL NOMBRE DE LAS PERSONAS JURÍDICAS INDIVIDUALES. El nombre es el atributo legal que individualiza a una persona en sus relaciones jurídicas. Se integra por el nombre propio que le impone libremente quien la presenta para su registro, seguido de los apellidos que le correspondan.
+
+Para la asignación del nombre propio, se observará lo siguiente:
+
+I. No podrá integrarse por más de tres sustantivos;
+
+II. No podrá integrarse por adjetivos;
+
+III. No se constituirá con palabras denigrantes de la personalidad;
+
+IV. No se emplearán apodos;
+
+V. No podrá constituirse con números, y
+
+VI. No podrá constituirse con diminutivos.
 
 ###### ARTÍCULO 15.
 
@@ -3283,6 +3295,8 @@ Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena
 
 ### CAPÍTULO II. DE LAS ACTAS DE NACIMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 419.
 
 NATURALEZA Y FUNCIÓN. El Registro Civil es la institución de orden público y de interés social, por la cual el Estado inscribe, autoriza, certifica y da publicidad a los hechos y actos constitutivos, modificativos o extintivos del estado civil de las personas.
@@ -3351,9 +3365,17 @@ APÉNDICE DEL ACTA DE REGISTRO CIVIL. Con las actas del Registro Civil se integr
 
 Los documentos del apéndice estarán anotados y relacionados con el acta respectiva, al igual que las actas estarán de éstos, formando parte de la misma.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 428.
 
 SOLICITUD DE COPIAS DE LAS ACTAS DEL REGISTRO CIVIL. Toda persona puede pedir testimonio de las actas del Registro Civil, así como de los apuntes y documentos con ellas relacionados, denominado “Apéndice del Acta”, mismo que forma parte del acta y los oficiales registradores están obligados a expedirlos, excepto en los casos prohibidos por la ley.
+
+Los testimonios de las actas a que se refiere el párrafo anterior, también denominados copias certificadas del libro o del apéndice deberán constar en hoja blanca y contener firma autógrafa y sello oficial.
+
+Las constancias parciales podrán ser emitidas en papel valorado o en hoja blanca tamaño carta, impresas de las plataformas gubernamentales del Registro Civil, las cuales deberán contar con los mecanismos de seguridad que den certeza del funcionario que lo certificó y de los actos que ampara, en términos de la normativa vigente.
+
+Todas las constancias parciales tendrán la misma validez jurídica.
 
 ###### ARTÍCULO 429.
 
@@ -3369,17 +3391,27 @@ PRUEBA SUCEDANEA EN CASO DE INEXISTENCIA, PÉRDIDA O DETERIORO DE ACTAS. Cuando 
 
 PETICIÓN DE TRASLADO DEL OFICIAL DEL REGISTRO CIVIL O COMPARECENCIA POR MANDATARIO ESPECIAL. Cuando los interesados no puedan ocurrir personalmente, podrán hacerse representar por un mandatario especial para el acto, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante dos testigos. En los casos de declaración de nacimiento, matrimonio y reconocimiento de hijos, se necesita poder especial otorgado en escritura pública o mandato extendido en escrito privado firmado por el otorgante y dos testigos, debiendo ser ratificadas las firmas ante notario público o juez familiar.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 432.
 
-ALEGACION DE NULIDAD O DE FALSEDAD DE ACTAS DEL REGISTRO CIVIL. La nulidad del acto inscrito y la falsedad de las actas del Registro Civil sólo podrán probarse judicialmente.
+ALEGACIÓN DE NULIDAD DE FALSEDAD DE ACTAS DEL REGISTRO CIVIL. La nulidad del acto inscrito y la falsedad de las actas del Registro Civil sólo podrán probarse judicialmente, con excepción de los casos de duplicidad de registro; en este último supuesto, la Dirección General del Registro Civil podrá declarar la cancelación del registro que no haya sido utilizado por el interesado, de acuerdo con el expediente de vida.
+
+Dicha solicitud de cancelación del registro será tramitada en la vía administrativa ante el Director General del Registro Civil, siempre que el registro haya sucedido en esta Entidad federativa; debiéndose llevar a cabo el procedimiento que para tal efecto establezca el Reglamento del Registro Civil. Tal cancelación administrativa procederá siempre y cuando coincidan los datos esenciales de las actas del registro civil.
 
 ###### ARTÍCULO 433
 
 ESTADO CIVIL DE MEXICANOS ADQUIRIDO FUERA DE LA REPÚBLICA. Para establecer el estado civil adquirido por los mexicanos fuera de la República, bastarán las constancias que los interesados presenten legalizadas o apostilladas y traducidas si se trata de idioma extranjero, sujetándose a lo previsto en el Código Federal de Procedimientos Civiles y siempre que se registren en la oficina que corresponda.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 434.
 
 ANOTACIONES RELACIONADAS A UNA PERSONA EN DIVERSAS ACTAS. En las actas del Registro Civil se efectuarán las anotaciones que relacionen el acto o hecho con los demás que estén inscritos en los Registros Civiles de la misma persona y las otras que establezca la Ley; tratándose de actos o hechos inscritos en otra Entidad Federativa, el oficial deberá remitir oficio a la misma notificándole las anotaciones realizadas.
+
+Dichas anotaciones se harán al margen del libro cuando exista espacio para esta o en su caso en hoja adherida al acta que corresponda, tanto en el libro original como en duplicado y deberá ser firmada y sellada por el Oficial que corresponde ya que de no hacerlo será nula, a la vez se tendrá que capturar en el sistema automatizado de datos del Registro Civil.
+
+Cuando una anotación esté asentada en un acta que no le corresponde, presente deficiencias en su redacción, errores en los datos de localización o contenga discordancias con el documento o acta que le dio origen, se procederá a su cancelación y, en su caso, al asentamiento de la anotación que corresponda. Toda cancelación se hará conforme al procedimiento que señale el Reglamento del Registro Civil.
 
 ###### ARTÍCULO 435.
 
@@ -3397,7 +3429,7 @@ CORRECCIONES NO SUBSTANCIALES DE LAS ACTAS DEL REGISTRO CIVIL. Los vicios o defe
 
 ###### ARTÍCULO 438.
 
-DECLARACIONES DE NACIMIENTO DE UN INFANTE. Las declaraciones de nacimiento se harán presentando al menor ante el Oficial del Registro Civil en su oficina o en el lugar donde aquel hubiera nacido, acompañando el certificado de nacimiento.
+DECLARACIONES DE NACIMIENTO DE UN INFANTE. Las declaraciones de nacimiento se harán presentando al menor ante el Oficial del Registro Civil en su oficina o en el lugar donde aquel hubiera nacido, acompañando el certificado de nacimiento. Todos los registros de nacimiento llevados a cabo en la Oficialía del Registro Civil, serán gratuitos. El Oficial del Registro Civil expedirá sin costo la primera copia certificada del acta de registro de nacimiento.
 
 El certificado de nacimiento deberá ser suscrito por médico autorizado para el ejercicio de su profesión, o persona que haya asistido el parto, en el formato expedido para tal efecto por la Secretaría de Salud del Estado de Morelos, el cual contendrá los datos que establezca el Reglamento del Registro Civil. Dicho certificado hace prueba del día, hora y lugar de nacimiento, sexo del nacido y de la maternidad.
 
@@ -3673,13 +3705,17 @@ VII.- El nombre, apellidos, edad, nacionalidad y domicilio del declarante y, en 
 
 VIII.- El nombre, apellidos, número de cédula profesional y domicilio del médico que certifique la defunción.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 473.
 
 PLAZO PARA DAR AVISO DE LA DEFUNCIÓN. Los habitantes de la casa en que ocurra el fallecimiento, los directores y administradores de los establecimientos de reclusión, hospitales, colegios o cualquiera otra casa de comunidad, los huéspedes y encargados de los establecimientos de hospedaje y casas de vecindad, tienen obligación de dar aviso del fallecimiento al Oficial del Registro Civil dentro de las veinticuatro horas siguientes a la muerte, y en caso de incumplimiento se sancionará con multa de cien veces el salario mínimo diario general vigente en la región.
 
-En los registros extemporáneos de defunción el o los interesados, contarán con un término de quince días a partir de las veinticuatro horas de ocurrido el fallecimiento, para proporcionar al oficial los datos necesarios para el asentamiento del acta de defunción, pasado este término se considera registro extemporáneo de defunción.
+El registro extemporáneo de defunción podrá ser tramitado ante el Oficial del Registro Civil, siempre y cuando se solicite en un término de un año, contando a partir de la fecha del fallecimiento.
 
-El registro extemporáneo de defunción podrá ser tramitado ante el Oficial del Registro Civil, siempre y cuando se solicite en un término de un año, contando a partir de la fecha del fallecimiento y éste no haya ocurrido en forma violenta. Transcurrido este término podrá ser solicitado por la vía administrativa ante la Dirección General del Registro Civil siempre y cuando no exceda el fallecimiento del término de cinco años, después de este término la autorización para la inscripción extemporánea será por la vía judicial.
+Transcurrido este término podrá ser solicitado por la vía administrativa ante la Dirección General del Registro Civil siempre y cuando no exceda el fallecimiento del término de cinco años; después de este término la autorización para la inscripción extemporánea será por la vía judicial.
+
+En los casos de muerte violenta o que intervenga el Ministerio Público, los plazos a que hace referencia el presente artículo empezarán a correr a partir de la fecha de certificación y no la fecha de la defunción.
 
 ###### ARTÍCULO 474.
 
@@ -6654,3 +6690,13 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango normativo jerárquico que contravengan lo dispuesto por la presente reforma constitucional local.
+
+P.O. 11 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CUATROCIENTOS SESENTA Y NUEVE.- DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones jurídicas de igual o menor rango normativo jerárquico que contravengan lo dispuesto por el presente Decreto.
