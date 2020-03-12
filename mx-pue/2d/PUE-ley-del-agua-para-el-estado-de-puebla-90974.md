@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-agua-para-el-estado-de-puebla-90974"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2015-10-19"
+last_updated: "2020-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL AGUA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2020.
 
 Ley publicada en la Vigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -203,9 +203,17 @@ VIII. Las Autoridades instrumentarán las acciones correspondientes para que el 
 
 IX. Las Autoridades promoverán que los Prestadores de Servicios Públicos y demás órganos competentes suscriban convenios y acuerdos para el cumplimiento de su objeto, atendiendo a criterios de eficiencia, calidad y cobertura en materia de gestión del agua;
 
-X. La determinación de las acciones a ejecutar en la materia, considerará las necesidades de agua provenientes de la sociedad para su bienestar, particularmente las de la población marginada, en condiciones de vulnerabilidad o menos favorecida económicamente, de la economía para su desarrollo y del ambiente para su equilibrio y conservación; y
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2020)</small>
 
-XI. Las personas que contaminen los recursos hídricos son responsables de restaurar su calidad con independencia de hacerse acreedoras a las sanciones que establezcan las leyes aplicables.
+X. La determinación de las acciones a ejecutar en la materia, considerará las necesidades de agua provenientes de la sociedad para su bienestar, particularmente las de la población marginada, en condiciones de vulnerabilidad o menos favorecida económicamente, de la economía para su desarrollo y del ambiente para su equilibrio y conservación;
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2020)</small>
+
+XI. Las personas que contaminen los recursos hídricos son responsables de restaurar su calidad con independencia de hacerse acreedoras a las sanciones que establezcan las leyes aplicables; y
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2020)</small>
+
+XII. El acceso al agua potable y el saneamiento para uso doméstico es un derecho humano y la prestación de su servicio no podrá ser restringido o suspendido salvo las excepciones establecidas en las leyes aplicables en la materia.
 
 Los principios de política hídrica estatal, serán fundamentales en la aplicación e interpretación de las disposiciones contenidas en esta Ley y guiarán las acciones de las autoridades en materia de agua.
 
@@ -1343,7 +1351,9 @@ Los Usuarios que realicen actos en contravención a lo dispuesto por este Capít
 
 El Prestador de Servicios Públicos podrá suspender justificadamente los servicios hídricos en los siguientes casos:
 
-I. Por falta del pago de los derechos, contribuciones de mejoras y productos correspondientes al servicio de que se trate;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2020)</small>
+
+I. Por falta del pago de los derechos, contribuciones de mejoras y productos correspondientes al servicio de que se trate, excepto cuando el consumo para uso doméstico no exceda de 15 metros cúbicos mensuales.
 
 II. Por los supuestos a que se refiere el artículo 100 de esta Ley;
 
@@ -2236,6 +2246,14 @@ SEGUNDO.- El presente Decreto aplicará para los trámites que se hayan presenta
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 19 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES X Y XI DEL ARTÍCULO 5, LA FRACCIÓN I DEL ARTÍCULO 99, Y SE ADICIONA LA FRACCIÓN XII DEL ARTÍCULO 5 DE LA LEY DEL AGUA PARA EL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
