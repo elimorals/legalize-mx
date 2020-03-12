@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-conducta-de-la-secretaria-de-desarrollo-economico-130
 country: "mx"
 rank: "codigo"
 publication_date: "2018-04-08"
-last_updated: "2018-04-08"
+last_updated: "2020-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "DUR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE DESARROLLO ECONOMICO DEL GOBIERNO DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO ECONÓMICO DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 12 DE MARZO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO ECONÓMICO DEL GOBIERNO DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2020 (ABROGADO).
 
-Código publicado al Número 28 del Periódico Oficial del Estado de Durango, el domingo 8 de abril de 2018.
+Código publicado en el Periódico Oficial del Estado de Durango, el domingo 8 de abril de 2018.
 
 Acuerdo por el que se expide el CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO ECONÓMICO DEL GOBIERNO DEL ESTADO DE DURANGO.
 
@@ -212,3 +214,15 @@ Dado en la Ciudad de Durango, Dgo, a los 22 días del mes de marzo de dos mil di
 ING. RAMÓN TOMÁS DÁVILA FLORES.
 
 SECRETARIO DE DESARROLLO ECONÓMICO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO.- DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO ECONÓMICO DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente acuerdo entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se abroga el Acuerdo por el que se expide el Código de Conducta de la Secretaría de Desarrollo Económico del Gobierno del Estado de Durango, publicado en el Periódico Oficial del Gobierno del Estado número 28, el 8 de abril de 2018.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Durango y en la página de internet de la Secretaría de Desarrollo Económico.
