@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2019-12-06"
+last_updated: "2020-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2020.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -407,6 +407,12 @@ El Estado y los Municipios promoverán las acciones conducentes para prevenir, a
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
+#### SECCIÓN SEXTA. DE LA VIOLENCIA DIGITAL
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2020)</small>
+
+ARTÍCULO 23 BIS.- Son los actos de acoso, hostigamiento, amenazas, intimidación, exhibición, insultos, vulneración de datos, mensajes de odio, o divulgación de información, textos y publicación de fotografías, videos, impresiones gráficas o sonoras, verdaderas, falsas o alteradas, de contenido violento, erótico o sexual, que se realice sin el consentimiento, empleando las Tecnologías de la Información y la Comunicación, plataformas de internet, redes sociales, aplicaciones, servicios de mensajería instantánea, correo electrónico o cualquier otro espacio digital, que atente contra la integridad, la intimidad, la libertad, la vida privada o transgreda algún derecho humano de las mujeres o de sus familias.
+
 ###### ARTÍCULO 22.
 
 Violencia feminicida es la manifestación extrema de violencia contra las mujeres, producto de la violación de sus derechos humanos, en cualquier ámbito, integrada por una serie de conductas misóginas que pueden implicar impunidad y originar la muerte.
@@ -420,6 +426,8 @@ En los casos de feminicidio se aplicarán las sanciones previstas en el Código 
 ###### ARTÍCULO 23.
 
 En el caso que se declare una alerta de violencia de género contra las mujeres en el territorio del Estado, se deberán tomar todas las medidas indicadas en sus resolutivos estableciendo un programa de trabajo que dé cumplimiento a las medidas de prevención, seguridad y justicia, así como cualquier otra indicada en la declaratoria para hacer frente a la contingencia en la entidad y abatir la violencia feminicida, asignándose los recursos presupuestales, humanos y materiales necesarios para hacerle frente. La persona titular del Poder Ejecutivo el Estado deberá emitir un mensaje a la ciudadanía de cero tolerancia ante la comisión de conductas violentas en contra de las mujeres y niñas, el cual se deberá difundir, además de en español, en las principales lenguas indígenas que se hablen en la entidad, en todos los medios masivos de comunicación y radios comunitarias, así como a través de medios que sean accesibles para personas con discapacidad.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE MARZO DE 2020)</small>
 
 ## TÍTULO TERCERO. DE LAS MEDIDAS DE PROTECCIÓN
 
@@ -1624,3 +1632,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Instituto Poblano de las Mujeres seguirá ejerciendo las facultades que le correspondían antes de la presente reforma y hasta su extinción, conforme a las disposiciones aplicables de la Ley Orgánica de la Administración Pública del Estado de Puebla, y al traslado de sus atribuciones a las unidades administrativas correspondientes de la Secretaría de Igualdad Sustantiva.
 
 TERCERO. El Titular del Poder Ejecutivo del Estado realizará las modificaciones reglamentarias necesarias en términos del presente Decreto, en un plazo no mayor a 40 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+P.O. 12 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
