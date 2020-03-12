@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2020-02-29"
+last_updated: "2020-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "OAX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE MARZO DE 2020 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2020.
+
+(REPUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2020)
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -61,23 +61,31 @@ El ejercicio del Poder Ejecutivo, se deposita en un solo individuo que se denomi
 
 En el ejercicio de sus atribuciones y para el despacho de los asuntos del orden administrativo, el Poder Ejecutivo del Estado, contará con la Administración Pública Estatal, que se regirá por la presente Ley y las demás disposiciones legales aplicables, y se organizará conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
 
-I. Administración Pública Centralizada: Integrada por la Gubernatura, Secretarías de Despacho, Consejería Jurídica del Gobierno del Estado y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, así como, por los órganos auxiliares, las unidades administrativas que dependen directamente del Gobernador del Estado y los órganos desconcentrados, a todas estas áreas administrativas se les denominará genéricamente como Dependencias;
+(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
+
+I. Administración Pública Centralizada: Integrada por la Gubernatura, Secretarías de Despacho, Consejería Jurídica del Gobierno del Estado y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, así como, por los órganos auxiliares, las unidades administrativas que dependan directamente del Gobernador del Estado y los órganos desconcentrados, a todas estas áreas administrativas se les denominará genéricamente como Dependencias;
 
 II. La Administración Pública Paraestatal: Integrada por Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos, así como, por las Entidades Auxiliares del Ejecutivo Estatal, integrándose éstas por los Consejos, Comisiones, Comités, Juntas, Patronatos y aquellas instituciones que por su naturaleza no estén comprendidas dentro de la Administración Pública Centralizada, a las que genéricamente se les denominará como Entidades, estarán reguladas por sus leyes, decretos de creación y reglamentos respectivos; y
 
 III. Los Órganos Auxiliares realizan una función diferenciada, específica y de responsabilidad directa; como Unidades Responsables, les son aplicables los sistemas de organización, comunicación, coordinación, planeación, programación, control y evaluación de actividades contemplados en esta Ley Orgánica y en específico, los reglamentos, lineamientos y demás normatividad que expidan las instancias normativas, y la que por la naturaleza de sus actividades y materia de su competencia, les sea impuesta por los diversos ordenamientos normativos.
 
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
 
-En el ejercicio de sus funciones el Poder Ejecutivo implementará el principio de gobierno abierto orientado en los principios de transparencia de la información, rendición de cuentas, evaluación, de la gestión gubernamental, participación ciudadana y uso de tecnologías de la información.
+(ADICIONADO, P.O. 12 DE MARZO DE 2020) (REPUBLICADO, P.O. 12 DE MARZO DE 2020)
 
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+En el ejercicio de sus funciones el Poder Ejecutivo implementará el principio de gobierno abierto orientado en los principios de transparencia de la información, rendición de cuentas, evaluación de la gestión gubernamental, participación ciudadana y uso de tecnologías de la información.
+
+> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
+
+(ADICIONADO, P.O. 12 DE MARZO DE 2020) (REPUBLICADO, P.O. 12 DE MARZO DE 2020)
 
 Los servidores públicos de la administración pública estatal promoverán la participación e inclusión de la población en la toma de decisiones relacionadas con el servicio público.
 
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
+
+(ADICIONADO, P.O. 12 DE MARZO DE 2020) (REPUBLICADO, P.O. 12 DE MARZO DE 2020)
 
 El Titular del Poder Ejecutivo impulsará a través de lineamientos de gobierno abierto la implementación de prácticas de transparencia, participación ciudadana y de evaluación de la gestión gubernamental para alcanzar los principios contemplados en el presente artículo.
 
@@ -315,7 +323,9 @@ VII. Secretaría de Movilidad;
 
 VIII. Secretaría de las Culturas y Artes de Oaxaca;
 
-> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
+
+(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
 
 IX. Secretaría de Bienestar del Estado de Oaxaca;
 
@@ -409,7 +419,9 @@ III. Coordinación para la Atención de los Derechos Humanos;
 
 IV. Coordinación General de Educación Media Superior y Superior; Ciencia y Tecnología, y
 
-V. (DEROGADA, P.O. 29 DE FEBRERO DE 2020)
+> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
+
+V. (DEROGADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
 
 VI. (DEROGADA, P.O. 17 DE FEBRERO DE 2018)
 
@@ -671,7 +683,9 @@ XX. Las demás que en el ámbito de su competencia le confiera directamente el G
 
 A la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
+
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE MARZO DE 2020) (REPUBLICADO, P.O. 12 DE MARZO DE 2020)
 
 I. Formular en colaboración con la Secretaría de Bienestar del Estado de Oaxaca la instrumentación y coordinación de las políticas públicas del sector de la infraestructura social y ejecutar por sí o por conducto de terceros las obras públicas y servicios relacionados con:
 
@@ -905,9 +919,11 @@ XXV. Garantizar a los pueblos indígenas el derecho de conservar, enriquecer y d
 
 XXVI. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
 
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
 
-###### ARTÍCULO 42.
+(REFORMADO, P.O. 12 DE MARZO DE 2020) (REPUBLICADO, P.O. 12 DE MARZO DE 2020)
+
+###### Artículo 42.
 
 A la Secretaría de Bienestar del Estado de Oaxaca, le corresponde el despacho de los siguientes asuntos:
 
@@ -917,7 +933,7 @@ a).- Erradicación de la pobreza
 
 b).- Atención preponderante en materia de desarrollo social a los derechos de niñas, niños y adolescentes, adultos mayores, pueblos indígenas y afromexicano, y personas con discapacidad;
 
-II. Establecer las estrategias, planes y objetivos de carácter transversal y sostenible que incidan en la erradicación de la pobreza, el bienestar de la población y el desarrollo humano, así como proponer el marco jurídico que regula participación estatal en los programas sociales del Estado;
+II. Establecer las estrategias, planes y objetivos de carácter transversal y sostenible que incidan en la erradicación de la pobreza, el bienestar de la población y el desarrollo humano, así como proponer el marco jurídico que regula la participación estatal en los programas sociales del Estado;
 
 III. Elaborar y proponer al Ejecutivo del Estado el programa estatal en materia de desarrollo social, con el objeto de establecer la estrategia estatal de carácter transversal y sostenible para fortalecer el bienestar, el desarrollo, la inclusión y la cohesión social en el Estado;
 
@@ -929,7 +945,7 @@ VI. Diseñar e implementar las políticas, proyectos y acciones, de carácter tr
 
 VII. Definir estrategias y mecanismos para la ejecución de los programas, proyectos y acciones para el bienestar, desarrollo, inclusión y cohesión social en el Estado; suscribiendo los convenios, acuerdos e instrumentos legales que resulten necesarios;
 
-VIII. Diseñar, implementar y coordinar las dependencias federales, estatales y los ayuntamientos, programas y acciones sostenibles que incidan en el abatimiento de los niveles de pobreza y fomenten un mejor nivel de bienestar de la población, procurando que atiendan a los ejes de las políticas gubernamentales y los objetivos establecidos en los Planes Nacional y Estatal de Desarrollo, así como, a los lineamientos y reglas de operación que se establezcan para cada uno de ellos;
+VIII. Diseñar, implementar y coordinar con las dependencias federales, estatales y los ayuntamientos, programas y acciones sostenibles que incidan en el abatimiento de los niveles de pobreza y fomenten un mejor nivel de bienestar de la población, procurando que atiendan a los ejes de las políticas gubernamentales y los objetivos establecidos en los Planes Nacional y Estatal de Desarrollo, así como, a los lineamientos y reglas de operación que se establezcan para cada uno de ellos;
 
 IX. Formular y ejecutar los programas y proyectos de fortalecimiento de la economía familiar y comunitaria de los grupos de atención prioritaria; con la finalidad de lograr su bienestar;
 
@@ -959,7 +975,7 @@ XXI. Formular programas y proyectos de financiamiento para apoyar las iniciativa
 
 XXII. Participar en el diseño de políticas y programas que promuevan las instancias ejecutoras facultadas en materia alimentaria;
 
-XXIII. Fomentar políticas públicas orientadas a la distribución y abasto de productos de consumo básico, en beneficio de la población de escasos recurso;
+XXIII. Fomentar políticas públicas orientadas a la distribución y abasto de productos de consumo básico, en beneficio de la población de escasos recursos;
 
 XXIV. Coordinar la difusión de programas y acciones para el bienestar y el desarrollo social;
 
@@ -1715,7 +1731,9 @@ XIII. Impulsar el desarrollo económico de las mujeres mediante la gestión e im
 
 XIV. Proponer convenios con instituciones financieras y de crédito, públicas y privadas, para establecer condiciones que promuevan el desarrollo económico y social de las mujeres; que permitan lograr su autonomía, autodeterminación y empoderamiento para un mejor posicionamiento social y una mayor capacidad de toma de decisiones;
 
-> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
+
+(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
 
 XV. Diseñar programas que promuevan el desarrollo económico de las mujeres jefas de familia, estableciendo como prioridad aquellas que se encuentran en condiciones de vulnerabilidad, encaminadas para su ejecución, ante la Secretaría de Bienestar del Estado de Oaxaca aquellos programas y proyectos estatales, federales e internacionales que promuevan la incorporación de las mujeres de Oaxaca en el bienestar social y a la actividad productiva;
 
@@ -1983,7 +2001,9 @@ XXV. Llevar el registro y control de los proveedores y contratistas que hayan si
 
 XXVI. Imponer la sanción económica y administrativa, procediendo a excluir del padrón correspondiente al prestador o proveedor de bienes y servicios y/o contratista de obra que no solvente dentro del término conferido las observaciones formuladas;
 
-> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
+
+(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
 
 XXVII. Formular en el ámbito de su competencia los lineamientos, criterios, determinaciones y resoluciones necesarios que deban ser aplicados por la Administración Pública Estatal y como órgano interno de control en materia de transparencia, dar el debido cumplimiento a las recomendaciones que emita el Instituto de Acceso a la Información Pública y Protección de Datos Personales, sancionado (sic) en su caso a los órganos administrativos del Poder Ejecutivo del Gobierno del Estado, que por negligencia u omisión incumplan con las mismas;
 
@@ -2005,7 +2025,7 @@ XXXIII. Integrar a través de su Titular el Comité Coordinador del Sistema Esta
 
 > <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
 
-XXXIV: Las demás que en el ámbito de su competencia le confiera directamente el Titular del Ejecutivo del Estado, su Reglamento Interno, la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca; y demás disposiciones normativas aplicables.
+XXXIV. Las demás que en el ámbito de su competencia le confiera directamente el Titular del Ejecutivo del Estado, su Reglamento Interno, la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca; y demás disposiciones normativas aplicables.
 
 ARTÍCULO 47 BIS. (DEROGADO, P.O. 28 DE ENERO DE 2017)
 
@@ -2091,11 +2111,15 @@ XXVII. Revisar y autorizar en el ámbito de su competencia, conjuntamente con la
 
 XXVIII. Ordenar, vigilar y coordinar el cumplimiento de las disposiciones en materia de exhortos judiciales, legislativos y administrativos dirigidos al titular del Poder Ejecutivo;
 
-> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
+
+(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
 
 XXIX. Fungir como Unidad de Transparencia de la Gubernatura y de la propia Consejería Jurídica, para dar cumplimiento a las disposiciones aplicables en la materia;
 
-XXX. (DEROGADA, P.O. 29 DE FEBRERO DE 2020)
+> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
+
+XXX. (DEROGADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
@@ -2459,9 +2483,11 @@ XVII. Expedir constancias, certificados de estudios, diplomas, títulos y grados
 
 XVIII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, la legislación federal y estatal, su Reglamento Interno y demás normatividad aplicable en la materia.
 
+> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 54.
 
-(DEROGADO, P.O. 29 DE FEBRERO DE 2020)
+(DEROGADO, P.O. 12 DE MARZO DE 2020) (REPUBLICADO, P.O. 12 DE MARZO DE 2020)
 
 ARTÍCULO 54 BIS. (DEROGADO, P.O. 17 DE FEBRERO DE 2018)
 
@@ -3279,7 +3305,11 @@ TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se o
 
 CUARTO. En un término de 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán expedir los formatos y procedimientos a que hace referencia la fracción II del artículo 102 de la Ley Estatal de Planeación.
 
-P.O. 29 DE FEBRERO DE 2020.
+> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
+
+P.O. 12 DE MARZO DE 2020.
+
+REPUBLICADO, P.O. 12 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1189.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 3, LA FRACCIÓN IX DEL ARTÍCULO 27, LA FRACCIÓN I DEL ARTÍCULO 37, EL ARTÍCULO 42, FRACCIÓN XV DEL ARTÍCULO 46-C, LA FRACCIÓN XXVII DEL ARTÍCULO 47, LA FRACCIÓN XXIX DEL ARTÍCULO 49; SE ADICIONAN UN SEGUNDO, TERCER Y CUARTO PÁRRAFO DEL ARTÍCULO 3; SE DEROGAN LA FRACCIÓN V DEL ARTÍCULO 33, LA FRACCIÓN XXX DEL ARTÍCULO 49 Y EL ARTÍCULO 54, TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
 
