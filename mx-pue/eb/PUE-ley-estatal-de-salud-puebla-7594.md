@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2019-11-27"
+last_updated: "2020-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -209,9 +209,17 @@ XIV. Transporte estatal y municipal;
 
 XV. Gasolinerías;
 
-XVI. Prevención y control de la rabia en animales y seres humanos, y;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2020)</small>
 
-XVII. Las demás materias que determine esta Ley y las disposiciones legales aplicables.
+XVI. Prevención y control de la rabia en animales y seres humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MARZO DE 2020)</small>
+
+XVII. Establecimientos dedicados a la cirugía plástica, estética y reconstructiva; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE MARZO DE 2020)</small>
+
+XVIII. Las demás materias que determine esta Ley y las disposiciones legales aplicables.
 
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
@@ -2409,11 +2417,31 @@ Los propietarios de los animales a que se refiere el artículo anterior, están 
 
 Las Autoridades Sanitarias mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia.
 
-### CAPITULO I. AUTORIZACIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE MARZO DE 2020)</small>
+
+### CAPITULO XIX. ESTABLECIMIENTOS DEDICADOS A LA CIRUGIA PLASTICA, ESTETICA Y RECONSTRUCTIVA
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2020)</small>
+
+ARTICULO 259 BIS.- La cirugía plástica, estética y reconstructiva relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, deberá efectuarse en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por profesionales de la salud especializados en dichas materias, de conformidad con lo que establece la Ley General de Salud y la presente Ley.
+
+La infracción a esta norma será vigilada por las autoridades sanitarias correspondientes quienes podrán denunciar ante autoridades administrativas, ministeriales o judiciales.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2020)</small>
+
+ARTICULO 259 TER.- El funcionamiento de los establecimientos señalados en el presente capítulo deberá apegarse a lo establecido en la Ley General de Salud y su reglamento, las Normas Oficiales Mexicanas vigentes y que sean aplicables; relativas a las características mínimas de infraestructura y equipamiento de hospitales y consultorios de atención médica especializada, las normas técnicas correspondientes y lo que establezca la presente Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2020)</small>
+
+ARTICULO 259 QUÁTER.- La oferta de los servicios que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por profesionistas que ejerzan cirugía plástica, estética o reconstructiva; así como, los establecimientos o unidades médicas en que se practiquen dichas cirugías, deberán prever y contener con claridad en su publicidad los requisitos que se mencionan en los artículos 83, 272 Bis, 272 Bis 1 y en lo previsto en el Capítulo Único del Título XIII de la Ley General de Salud.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2020)</small>
+
+ARTICULO 259 QUINQUIES.- Queda prohibido en el Estado que peluquerías, salones de belleza, estéticas, gimnasios u otras similares, realicen procedimientos de medicina, aplicación de sustancias para aumentar regiones del cuerpo, así como cirugías plásticas, estéticas y reconstructivas.
 
 ## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 260.
 
@@ -2485,7 +2513,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la Autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que dispongan la Legislación Fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal y con los Ayuntamientos de la Entidad.
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 268.
 
@@ -2569,9 +2597,7 @@ La Autoridad Sanitaria del Estado emitirá la resolución que corresponda al con
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 276.
 
@@ -2605,7 +2631,9 @@ Las Autoridades Judiciales o Administrativas sólo admitirán como válidos los 
 
 ## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 281.
 
@@ -2729,7 +2757,7 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIA, SANCIONES Y DELITOS
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 293.
 
@@ -2825,9 +2853,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las Autoridades Sanitarias, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### CAPITULO III
-
-PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES.
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 305.
 
@@ -2947,7 +2973,9 @@ Solo procederá esta sanción, si previamente se dictó cualquiera otra de las s
 
 Impuesto el arresto, se comunicará la resolución a la Autoridad correspondiente para que la ejecute.
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III
+
+PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES.
 
 ###### ARTICULO 317.
 
@@ -3019,7 +3047,7 @@ En los casos de suspensión de trabajos o de servicios o de clausura temporal o 
 
 Cuando del contenido de un acta de verificación se desprende la posible comisión de uno o varios delitos, la Autoridad Sanitaria del Estado, formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 327.
 
@@ -3092,6 +3120,8 @@ III. Que fueren de difícil reparación los daños y perjuicios que se causen al
 ###### ARTICULO 338.
 
 En la tramitación del recurso de inconformidad, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 339.
 
@@ -3350,3 +3380,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La Secretaría de Planeación y Finanzas del Gobierno del Estado de Puebla, deberá prever la suficiencia presupuestaria para el cumplimiento del presente Decreto, en su caso.
+
+P.O. 12 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
