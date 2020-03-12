@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-etica-de-los-servidores-publicos-y-las-reglas-de-1352
 country: "mx"
 rank: "codigo"
 publication_date: "2019-01-17"
-last_updated: "2019-01-17"
+last_updated: "2020-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS Y LAS REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCION PUBLICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 12 DE MARZO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS Y LAS REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE MARZO DE 2020 (ABROGADO).
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el jueves 17 de enero de 2019.
 
@@ -542,3 +544,27 @@ LIC. LESLIE MÓNICA GARIBO PUGA
 CONTRALORA GENERAL DEL ESTADO
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. Publíquese en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. El presente Acuerdo entrará en vigor el día hábil siguiente de su publicación.
+
+Tercero. Se abroga el Acuerdo por el que se establece el Código de Ética de los Servidores Públicos y las Reglas de Integridad para el ejercicio de la Función Pública del Poder Ejecutivo del Estado de Veracruz, publicado el 17 de enero de 2019 en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave en el número extraordinario 026, así como cualquier otra disposición que contravenga lo establecido en el presente Acuerdo.
+
+Cuarto. Las Dependencias y Entidades, deberán actualizar o emitir sus Códigos de Conducta en el Servicio Público, en un plazo no mayor a sesenta días hábiles a partir de la entrada en vigor del presente Acuerdo.
+
+Quinto. Derivado de un análisis de pertinencia, se deliberó la inefectividad de la operación de los órganos Colegiados: "Comités de Ética" de las Dependencias y Entidades, en consecuencia, a partir de la publicación del presente Acuerdo quedan excluidos, con excepción a lo señalado en el artículo séptimo transitorio.
+
+Sexto. Con la finalidad de adoptar mejores prácticas, la Contraloría, en un plazo que no exceda de sesenta días hábiles a partir de la entrada en vigor del presente Acuerdo, deberá crear la Unidad de Ética y a los Enlaces de Ética, que permitan contribuir a la sociabilización y aplicación de los Códigos de Ética y de Conducta de los servidores públicos del Poder Ejecutivo del Estado de Veracruz, siendo los Enlaces de Ética parte integrante de los Órganos Internos de Control.
+
+Séptimo. Las Dependencias y Entidades deberán dar resolución a las denuncias previamente iniciadas en apego a los Lineamientos Generales que Establecen las Bases para la Integración, Organización y Funcionamiento de los Comités de Ética de las Dependencias y Entidades del Poder Ejecutivo del Estado de Veracruz, en un plazo no mayor a sesenta días hábiles a partir de la entrada en vigor del presente Acuerdo.
+
+Octavo. Con excepción a lo señalado en el punto anterior, se abrogan los Lineamientos Generales que Establecen las Bases para la Integración, Organización y Funcionamiento de los Comités de Ética de las Dependencias y Entidades del Poder Ejecutivo del Estado de Veracruz, publicados en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave en el número extraordinario 280, de fecha 15 de julio de 2019.
+
+Noveno: En un plazo no mayor a noventa días hábiles a partir de la entrada en vigor del presente Acuerdo, se deberá reformar el Reglamento Interior de la Contraloría, tomando en consideración lo indicado en el presente Código y sus artículos Transitorios.
