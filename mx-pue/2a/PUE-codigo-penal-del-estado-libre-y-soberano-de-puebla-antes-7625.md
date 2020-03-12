@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2019-12-06"
+last_updated: "2020-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -2119,13 +2119,19 @@ III.- A quien, después de poner en movimiento un autobús, camión o vehículo 
 
 Son medios de transporte los vehículos destinados a prestar un servicio público según las Leyes de la materia.
 
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2020)</small>
 
 ###### Artículo 190 Bis.
 
-Al que a sabiendas de que no cuenta con la concesión o permiso otorgado por la autoridad competente preste el servicio público de transporte o del servicio mercantil, se le impondrán de tres meses a tres años de prisión y multa de cincuenta a quinientos días de salario.
+Se les impondrán de ocho meses a seis años de prisión y multa de cien a quinientas veces de Unidad de Medida y Actualización:
 
-Igual sanción se impondrá al propietario del medio de transporte que realice, contrate o permita la prestación de estos servicios.
+I). Al que preste, el servicio público de transporte, servicio mercantil, servicio auxiliar de arrastre, arrastre y salvamento, a sabiendas que no cuenta con la concesión o permiso otorgado por la autoridad competente.
+
+II). Al que preste, el servicio público de depósito de vehículos, a sabiendas que no cuenta con la concesión o permiso otorgado por la autoridad competente.
+
+Además, se sancionará con el decomiso del vehículo, utilizado en la comisión del delito, así como con la suspensión de uno a diez años o la cancelación definitiva de la licencia para conducir, expedidos por la autoridad competente.
+
+Si en la comisión delictiva interviene un concesionario o permisionario, un socio o representante de una persona jurídica concesionaria o permisionaria para el servicio público de transporte, servicio mercantil, servicio auxiliar de arrastre, arrastre y salvamento o depósitos de vehículos, las penas que correspondan se incrementarán desde una tercera parte hasta dos terceras partes, independientemente de las sanciones administrativas a que haya lugar.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
 
@@ -6858,3 +6864,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Instituto Poblano de las Mujeres seguirá ejerciendo las facultades que le correspondían antes de la presente reforma y hasta su extinción, conforme a las disposiciones aplicables de la Ley Orgánica de la Administración Pública del Estado de Puebla, y al traslado de sus atribuciones a las unidades administrativas correspondientes de la Secretaría de Igualdad Sustantiva.
 
 TERCERO. El Titular del Poder Ejecutivo del Estado realizará las modificaciones reglamentarias necesarias en términos del presente Decreto, en un plazo no mayor a 40 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+P.O. 12 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 190 BIS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
