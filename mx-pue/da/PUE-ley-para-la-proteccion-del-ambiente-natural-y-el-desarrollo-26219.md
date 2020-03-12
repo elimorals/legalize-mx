@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-del-ambiente-natural-y-el-desarrollo-262
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2019-11-26"
+last_updated: "2020-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de septiembre de 2002.
 
@@ -359,9 +359,9 @@ LI.- REUSO.- Es la acción de aprovechar un residuo sin un proceso previo de tra
 
 LII.- RIESGO AMBIENTAL.- Es la contingencia en el proceso de los fenómenos naturales o artificiales que pueden ser alterados por las condiciones que constituyan un peligro para el medio ambiente;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2020)</small>
 
-LIII.- SECRETARÍA.- La Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial;
+LIII.- SECRETARÍA.- La Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial;
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
 
@@ -375,13 +375,25 @@ LV.- SUSTANCIAS DEL GRUPO I.- El grupo de sustancias químicas compuesto por: cl
 
 LVI.- SUSTANCIAS DEL GRUPO II.- Grupo de sustancias que contenga cualquier clorofluorohidrocarbono (HCFC) o cualquier otra sustancia que dañe o degrade la capa de ozono;
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2020)</small>
 
-LVII.- TRATAMIENTO.- Es el proceso al que se someten los residuos, con el objeto de neutralizar, disminuir o eliminar los contaminantes que se le hayan incorporado; y
+LVII.- TRATAMIENTO.- Es el proceso al que se someten los residuos, con el objeto de neutralizar, disminuir o eliminar los contaminantes que se le hayan incorporado;
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2020)</small>
 
-LVIII.- VERIFICACIÓN.- Es el análisis técnico para determinar las emisiones de gases o partículas sólidas o líquidas en la atmósfera, generada por contaminantes.
+LVIII.- VERIFICACIÓN.- Es el análisis técnico para determinar las emisiones de gases o partículas sólidas o líquidas en la atmósfera, generada por contaminantes;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2020)</small>
+
+LIX.- VIALIDADES DE JURISDICCIÓN ESTATAL.- Las vialidades de competencia estatal, que con tal carácter contempla la Ley de Vialidad para el Estado Libre y Soberano de Puebla;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2020)</small>
+
+LX.- VIALIDADES DE JURISDICCIÓN MUNICIPAL.- Las vialidades de competencia municipal, de acuerdo con la Ley de Vialidad para el Estado Libre y Soberano de Puebla, y
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2020)</small>
+
+LXI.- ZONAS ADYACENTES.- Las que lindan con una vialidad de jurisdicción estatal o municipal, de conformidad con la normatividad aplicable.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES, CONCURRENCIAS Y COORDINACIÓN DE LAS AUTORIDADES
 
@@ -445,9 +457,9 @@ XXIV.- El ejercicio de las funciones que en materia de preservación del equilib
 
 XXV.- Promover la utilización de materiales biodegradables;
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2020)</small>
 
-XXVI.- Proteger la imagen en los bienes inmuebles propiedad del Estado; y
+XXVI.- La prevención y control de la contaminación visual, y la protección de la imagen del entorno ambiental, en las Vialidades de Jurisdicción Estatal, sus Zonas Adyacentes y los bienes inmuebles propiedad del Estado; y
 
 > <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -475,7 +487,9 @@ V.- Participar, previa celebración del convenio correspondiente, en la evaluaci
 
 VI.- Prevenir, controlar y, en su caso, sancionar en el ámbito de su competencia, la contaminación ocasionada por emisiones de humos, gases, partículas sólidas, ruido, vibraciones, energía térmica o lumínica, olores que rebasen los límites máximos permitidos por las Normas Oficiales Mexicanas, generadas por establecimientos comerciales o de servicios;
 
-VII.- Proteger la imagen de los centros de población contra la contaminación visual;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2020)</small>
+
+VII.- La prevención y control de la contaminación visual, y la protección de la imagen del entorno ambiental en los centros de población y Vialidades de Jurisdicción Municipal, así como en las Zonas Adyacentes y los bienes inmuebles propiedad del Municipio;
 
 VIII.- Establecer, regular y administrar las zonas de preservación ecológica municipal y los parques urbanos de los centros de población;
 
@@ -1927,27 +1941,53 @@ Los Ayuntamientos deben incorporar en sus Iniciativas de Leyes de Ingresos y Reg
 
 Para los efectos del párrafo anterior la Secretaría y los Ayuntamientos se atendrán a lo establecido en el artículo 20 de esta Ley.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2020)</small>
 
-ARTÍCULO 143 BIS.- Los refrendos de licencias, permisos o autorizaciones para la instalación de estructuras que sustenten anuncios o publicidad no podrán tener vigencia mayor a un año.
+ARTÍCULO 143 BIS.- El Gobierno del Estado, a través de la Secretaría prevendrá y controlará la Contaminación Visual en Vialidades de Jurisdicción Estatal, Zonas Adyacentes a las mismas y bienes inmuebles propiedad o al cuidado del Estado.
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2019)</small>
+Los Ayuntamientos prevendrán y controlarán la Contaminación Visual en los centros de población, Vialidades de Jurisdicción Municipal, sus Zonas Adyacentes, espacios públicos y bienes inmuebles propiedad o al cuidado del Municipio.
+
+La Secretaría y los Ayuntamientos en el ámbito de sus facultades, determinarán a través de lineamientos y reglamentos, respectivamente, las características y especificaciones que deban cumplir los anuncios, estructuras publicitarias y publicidad, en cuanto a sus dimensiones y espacio físico, densidad por zona, tipo, ubicación, alcance, luminosidad, requerimientos para su colocación o instalación, tiempo de permanencia y cantidad; así como los casos en que exista afectación al paisaje urbano.
 
 Bajo ninguna circunstancia se autorizará la colocación de anuncios publicitarios con contenidos que muestren estereotipos sexistas, degradantes o peyorativos sobre las mujeres; para lo cual los Ayuntamientos en el ámbito de su competencia deberán regular rigurosamente los términos de dicha prohibición.
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2019)</small>
-
 Entendiendo como publicidad sexista, aquella que presenta hechos, acciones, símbolos y expresiones basadas en estereotipos de los roles de género que atribuyan o asocien características denigrantes, de exclusión, de sumisión, de racismo, de burla, de animadversión o cualquier otra forma de discriminación hacia el género femenino.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2020)</small>
 
-ARTÍCULO 143 TER.- El reglamento respectivo establecerá la prohibición expresa de la instalación de nuevas estructuras que sustenten anuncios o publicidad en áreas verdes urbanas así como a menos de 250 metros lineales y radiales de otra estructura instalada con el mismo fin.
+ARTÍCULO 143 TER.- Se requerirá la emisión de licencia, permiso y/o autorización correspondiente de la Secretaría o del Ayuntamiento para llevar a cabo la construcción, instalación y/o colocación de estructuras que sustenten anuncios o publicidad en sus respetivos ámbitos de competencia.
 
-Se entiende por áreas verdes, las áreas públicas cubiertas por vegetación natural como árboles, arbustos, plantas florales, plantas rastreras, cactáceas, camellones, o inducida, cuyos excedentes de lluvia o riego pueden infiltrarse al suelo natural.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MARZO DE 2020)</small>
 
-ARTÍCULO 143 QUÁTER.- (DEROGADO, P.O. 14 DE MARZO DE 2019)
+ARTÍCULO 143 QUÁTER.- El Gobierno del Estado y los Ayuntamientos, a través de las autoridades competentes, emitirán los dictámenes correspondientes en materia de protección civil, en términos de la normatividad aplicable, mismos que serán requisito previo necesario para el otorgamiento de la licencia, autorización o permiso en materia de contaminación visual de competencia estatal o municipal, respectivamente; además de los dictámenes relacionados con posibles riesgos supervinientes.
 
-ARTÍCULO 143 QUINQUIES.- (DEROGADO, P.O. 14 DE MARZO DE 2019)
+Las autoridades en materia de protección civil podrán, a petición de la Secretaría o de los Ayuntamientos, realizar actos de inspección, supervisión o vigilancia que se requieran, así como la imposición de medidas de seguridad y sanciones que correspondan, en términos de las disposiciones aplicables en materia de protección civil.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MARZO DE 2020)</small>
+
+ARTÍCULO 143 QUINQUIES.- Las licencias, permisos o autorizaciones para la instalación de estructuras que sustenten anuncios o publicidad, y sus respectivos refrendos, no podrán tener vigencia mayor a un año.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2020)</small>
+
+ARTÍCULO 143 SEXIES.- Las personas físicas o morales que coloquen anuncios o publicidad; construyan, instalen, o coloquen estructuras que los sustenten, sin contar con la licencia, autorización o permiso correspondiente, se harán acreedores a las sanciones que establece esta Ley, sin perjuicio de las sanciones que en su caso correspondan en el orden civil, penal o administrativo.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2020)</small>
+
+ARTÍCULO 143 SEPTIES.- Se encuentra prohibida la instalación de estructuras que sustenten anuncios o publicidad en áreas verdes urbanas, de jurisdicción estatal o municipal, así como a menos de 250 metros lineales y radiales de otra estructura instalada con el mismo fin.
+
+Para tal efecto, se entenderán por áreas verdes urbanas, los espacios públicos cubiertos por vegetación como árboles, arbustos, plantas florales, plantas rastreras, cactáceas, camellones, o inducida, cuyos excedentes de lluvia o riego pueden infiltrarse al suelo natural.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2020)</small>
+
+ARTÍCULO 143 OCTIES.- Cada uno de los espacios o estructuras en los que se coloque o soporte la publicidad deberán destinarse, al menos durante un mes al año, al fomento de:
+
+I. La protección, conservación y restauración del medio ambiente y el equilibrio ecológico;
+
+II. El respeto y protección de los derechos humanos, o
+
+III. La promoción del patrimonio natural y cultural, así como de las actividades, servicios y destinos turísticos del Estado.
+
+Para los efectos del presente artículo, la Secretaría y los Ayuntamientos establecerán los términos y calendarización correspondientes en las licencias, permisos o autorizaciones que emitan.
 
 ### CAPÍTULO VII. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN GENERADA POR EL APROVECHAMIENTO DE MINERALES O SUSTANCIAS
 
@@ -2592,3 +2632,17 @@ P.O. 26 DE NOVIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE MARZO DE 2020.
+
+> <small>[N. DE E. DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DEL MEDIO AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA”.]</small>
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los Ayuntamientos y las dependencias estatales competentes propondrán y en su caso aprobarán las propuestas para reformar los ordenamientos necesarios para la aplicación del presente Decreto.
+
+CUARTO. El Ejecutivo del Estado, la Secretaría y los Ayuntamientos emitirán las disposiciones reglamentarias o administrativas que correspondan al presente Decreto, en un término que no exceda de ciento veinte días naturales, a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. Las licencias, autorizaciones y permisos otorgadas hasta antes de la entrada en vigor del presente Decreto, continuarán vigentes y surtiendo efectos jurídicos en los términos y condiciones bajo los cuales fueron expedidos por la Autoridad facultada para ello.
