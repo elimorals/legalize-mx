@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2020-03-02"
+last_updated: "2020-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -2985,7 +2985,9 @@ El ejercicio de la acción penal ante los tribunales corresponde al Ministerio P
 
 La imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial.
 
-Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa, arresto hasta por treinta y seis horas o en trabajo a favor de la comunidad; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por trabajo a favor de la comunidad o por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2020)</small>
+
+Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa, arresto hasta por treinta y seis horas, o en su caso se podrá ofrecer al infractor la sustitución del pago de la multa o el arresto según corresponda, de acuerdo al reglamento correspondiente, por el de realizar actividades en favor de la comunidad. El arresto, no excederá en ningún caso de treinta y seis horas.
 
 Si el infractor de los reglamentos gubernativos o de policía fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
 
@@ -4170,3 +4172,11 @@ P.O. 2 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 274. SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 18 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 279. SE REFORMA POR MODIFICACIÓN EL PÁRRAFO CUARTO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los municipios tienen 180 días después de la publicación del presente decreto para reformar sus disposiciones normativas acorde con lo dispuesto en el presente decreto.
