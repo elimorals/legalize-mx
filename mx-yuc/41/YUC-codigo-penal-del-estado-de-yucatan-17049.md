@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2020-03-06"
+last_updated: "2020-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE MARZO DE 2020.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -817,13 +817,23 @@ Cuando el imputado perteneciere a un grupo étnico o indígena, se tomarán en c
 
 > <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
 
-VII.- El comportamiento posterior del imputado en relación con el delito cometido;
+VII. El comportamiento posterior del imputado en relación con el delito cometido;
 
-> <small>(ADICIONADA, D.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, D.O. 13 DE MARZO DE 2020)</small>
 
-VIII.- La perspectiva de género, y
+VIII. La perspectiva de género;
 
-IX. Las demás condiciones especiales y personales en que se encontraba el agente en el momento de la comisión del delito, siempre y cuando sean relevantes para determinar la posibilidad de haber ajustado su conducta a las exigencias de la norma.
+> <small>(REFORMADA, D.O. 13 DE MARZO DE 2020)</small>
+
+IX. Las demás condiciones especiales y personales en que se encontraba el agente en el momento de la comisión del delito, siempre y cuando sean relevantes para determinar la posibilidad de haber ajustado su conducta a las exigencias de la norma, y
+
+> <small>(ADICIONADA, D.O. 13 DE MARZO DE 2020)</small>
+
+X. Cuando se cometa un delito doloso previsto en este código en contra de algún periodista, persona o instalación con la intención de afectar, limitar, menoscabar el uso del derecho a la información, a la libertad de expresión o a la de imprenta, o en represalia del uso de estos derechos, se aumentará hasta en una mitad la pena establecida para tal delito.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN X, D.O. 13 DE MARZO DE 2020]</small>
+
+En el caso anterior, se aumentará la pena hasta en el doble cuando además el delito sea cometido por un servidor público en ejercicio de sus funciones o la víctima sea mujer y concurran razones de género en la comisión del delito, conforme a lo que establecen las leyes en la materia.
 
 > <small>(ADICIONADO, D.O. 2 DE MAYO DE 2016)</small>
 
@@ -2361,7 +2371,7 @@ ARTÍCULO 243 BIS 4.- A quien coaccione, hostigue, o exija a otra persona, la el
 
 Cuando la conducta a que se refiere en el párrafo anterior sea cometida contra un menor de dieciocho años, la pena y sanción establecida se aumentará hasta en una mitad.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 26 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 13 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 241.
 
@@ -2391,7 +2401,7 @@ ARTÍCULO 243 BIS 1. Este Capítulo, es aplicable en todo lo que no contravenga 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 23 DE JULIO DE 2008)</small>
 
-### CAPÍTULO V TER. DELITOS INFORMÁTICOS
+### CAPÍTULO V TER. DELITOS INFORMÁTICOS Y CIBERNÉTICOS
 
 > <small>(ADICIONADO, D.O. 26 DE NOVIEMBRE DE 2019)</small>
 
@@ -2426,6 +2436,18 @@ II.- Provoque la sustracción o revelación de audio, video, fotografías digita
 ARTÍCULO 243 BIS 11. Las sanciones contenidas en los artículos 243 Bis 7 y 243 Bis 8 de este código, se duplicarán cuando la conducta tenga la intención de obstruir, entorpecer, obstaculizar, limitar o imposibilitar la procuración o impartición de justicia, o recaiga sobre los registros relacionados con un procedimiento penal resguardados por las autoridades competentes.
 
 Además de lo establecido en el párrafo anterior, si el sujeto activo es un servidor público, se impondrá la destitución del cargo o empleo y la inhabilitación para obtener otro en el servicio público por un término de hasta ocho años.
+
+(NOTA: EL 9 DE MAYO DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 198/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 14 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 191/2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O. 13 DE MARZO DE 2020)</small>
+
+ARTÍCULO 243 BIS 12. Comete el delito de ciberacoso quien intimide y asedie a cualquier persona, a pesar de su oposición, por medio de las Tecnologías de la Información y Comunicación, tales como redes sociales, mensajería instantánea, correo electrónico o cualquier otro medio digital; mediante el envío de mensajes de texto, videos, impresiones gráficas, sonoras o fotografías.
+
+Este delito se sancionará de seis meses a tres años de prisión y de cincuenta a doscientos días-multa.
+
+Cuando el delito sea cometido en contra de un menor de dieciocho años de edad, la pena y la sanción establecida se aumentarán hasta en una mitad.
+
+Este delito se perseguirá a petición de parte ofendida, salvo que la víctima sea menor de edad o por cualquier circunstancia sea incapaz de comprender el delito, en cuyo caso se perseguirá de oficio.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 8 DE ABRIL DE 2011)</small>
 
@@ -5070,3 +5092,23 @@ D.O. 6 DE MARZO DE 2020.
 Entrada en vigor
 
 Artículo único. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 13 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 191/2020 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE CIBERACOSO".]
+
+Primero.- Entrada en vigor
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo.- Derogación Expresa
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se oponga (sic) al presente decreto.
+
+D.O. 13 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 192/2020 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE AUMENTO DE SANCIONES POR DELITOS COMETIDOS EN CONTRA DE PERIODISTAS”.]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del Gobierno del Estado de Yucatán.
