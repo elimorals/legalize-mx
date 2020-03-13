@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-centro-de-estudios-superiores-navales-52325"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-29"
-last_updated: "2006-11-29"
+last_updated: "2020-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52325&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2006-11-27"
 ---
 # REGLAMENTO DEL CENTRO DE ESTUDIOS SUPERIORES NAVALES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL CENTRO DE ESTUDIOS SUPERIORES NAVALES, PUBLICADO EN EL D.O.F. DE 13 DE MARZO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL CENTRO DE ESTUDIOS SUPERIORES NAVALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MARZO DE 2020 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 29 de noviembre de 2006.
 
@@ -958,3 +960,33 @@ Se abroga el Reglamento del Centro de Estudios Superiores Navales, publicado en 
 Las acciones que se lleven a cabo para la aplicación del presente Reglamento, se sujetarán a los recursos humanos, financieros y materiales aprobados en el presupuesto de la Secretaría.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de noviembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Marina, Marco Antonio Peyrot González.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL CENTRO DE ESTUDIOS SUPERIORES NAVALES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento del Centro de Estudios Superiores Navales, publicado el 29 de noviembre de 2006 en el Diario Oficial de la Federación, y se derogan todas aquellas disposiciones que se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias que en otras disposiciones se hagan a las áreas administrativas que cambian de denominación conforme al presente Reglamento, se entenderán realizadas a las previstas en el presente ordenamiento.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que se encuentren en trámite, en áreas administrativas que desaparezcan o modifiquen su competencia conforme al presente Reglamento, deberán ser resueltos por aquellas que las sustituyan o que asuman su competencia.
+
+###### ARTÍCULO QUINTO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Marina en el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente, por lo que no se requerirá de ampliaciones presupuestales y no se incrementará su presupuesto regularizable durante el presente ejercicio fiscal.
+
+###### ARTÍCULO SEXTO.
+
+El Rector de la Universidad Naval expedirá los manuales administrativos correspondientes al presente Reglamento, dentro de un plazo de noventa días posteriores a la entrada en vigor del presente ordenamiento.
