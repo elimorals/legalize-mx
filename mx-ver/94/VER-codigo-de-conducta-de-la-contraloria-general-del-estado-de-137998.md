@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-conducta-de-la-contraloria-general-del-estado-de-1379
 country: "mx"
 rank: "codigo"
 publication_date: "2019-07-15"
-last_updated: "2019-07-15"
+last_updated: "2020-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # CODIGO DE CONDUCTA DE LA CONTRALORIA GENERAL DEL ESTADO DE VERACRUZ
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DE LA CONTRALORÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 13 DE MARZO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA CONTRALORÍA GENERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MARZO DE 2020 (ABROGADO).
 
 Código publicado en el Tomo I del Número Extraordinario 280 de la Gaceta Oficial del Estado de Veracruz, el lunes 15 de julio de 2019.
 
@@ -394,3 +396,15 @@ Dra. Hilda González Martínez
 Jefa de la Unidad de Género
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 13 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA DE LA CONTRALORÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. Publíquese el presente Acuerdo en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, así como en la página oficial de la Contraloría.
+
+Segundo. El presente Acuerdo entrará en vigor al día siguiente hábil de su publicación.
+
+Tercero. Se abroga el Código de Conducta de la Contraloría General publicado en la Gaceta Oficial, Órgano de Gobierno del Estado de Veracruz de Ignacio de la Llave, el 15 de julio del 2019, con el número extraordinario 280, y demás disposiciones que contravengan al presente Código de Conducta.
