@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2019-12-13"
+last_updated: "2020-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE MARZO DE 2020.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -527,13 +527,17 @@ II.- Los principios de pluralidad, representatividad y equidad, y
 
 III.- La obtención del 2% o más de la votación emitida en el Estado
 
-> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 13 DE MARZO DE 2020)</small>
 
 ###### Artículo 22.
 
-Para ser Diputado, se requiere:
+Para ser diputada o diputado, se requiere:
+
+> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
 I.- Ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco en el ejercicio de sus derechos;
+
+> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
 II.- Tener veintiun años cumplidos el día de la elección;
 
@@ -545,9 +549,9 @@ III.- No ser Gobernador del Estado; Magistrado del Tribunal Superior de Justicia
 
 IV.- No estar en servicio activo en el Ejército Nacional, ni tener el mando de corporación policíaca, cuando menos durante los 90 días anteriores a la fecha de la elección;
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, D.O. 13 DE MARZO DE 2020)</small>
 
-V.- No haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad;
+V.- No haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad; o por actos de corrupción que ameriten la inhabilitación para ocupar cargos públicos.
 
 > <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
@@ -1163,7 +1167,9 @@ IV.- Promover y denunciar, derivado de sus investigaciones, las responsabilidade
 
 El Congreso del estado designará al Auditor Superior del Estado por el voto de las dos terceras partes de sus miembros integrantes. La ley en la materia determinará el procedimiento para su designación. El Auditor Superior del Estado será electo para desempeñar su cargo por ocho años y podrá ser reelecto por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el título décimo de esta Constitución.
 
-Para ser Auditor Superior del Estado se requiere cumplir, además de los requisitos establecidos en las fracciones I, IV, VI y VII del artículo 65 de esta Constitución, contar con título y cédula profesional, y acreditar, al menos, cinco años de experiencia en materia de control, auditoría financiera y de responsabilidad, los que señale la ley. Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+> <small>(REFORMADO, D.O. 13 DE MARZO DE 2020)</small>
+
+Para ser titular de la Auditoría Superior del Estado se requiere cumplir, además de los requisitos establecidos en las fracciones I, IV, V, VI y VII del artículo 65 de esta Constitución, contar con título y cédula profesional, y acreditar, al menos, cinco años de experiencia en materia de control, auditoría financiera y de responsabilidad, los que señale la ley. Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
 
 Los servidores públicos estatales y municipales, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos estatales o municipales deberán proporcionar la información, documentación y auxilios que soliciten la Auditoría Superior del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la ley.
 
@@ -1187,11 +1193,11 @@ Se deposita el Poder Ejecutivo del Estado en una ciudadana o ciudadano que se de
 
 La elección del Gobernador será popular directa y se hará en los términos que disponga la Ley Electoral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 13 DE MARZO DE 2020)</small>
 
 ###### Artículo 46.
 
-Para ser Gobernador del Estado se requiere, además de lo dispuesto en la fracción I del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos:
+Para ser Gobernadora o Gobernador del Estado se requiere, además de lo dispuesto en la fracción I del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos:
 
 > <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
 
@@ -1225,9 +1231,9 @@ VII.- no ser titular o encargado del despacho de alguna de las dependencias a qu
 
 VIII.- no estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 53; y
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, D.O. 13 DE MARZO DE 2020)</small>
 
-IX.- no haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad;
+IX.- No haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad; o por actos de corrupción que ameriten la inhabilitación para ocupar cargos públicos.
 
 > <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
 
@@ -1573,7 +1579,7 @@ La ley regulará la integración, funcionamiento, competencia y administración 
 
 ### CAPITULO II. De los Requisitos para ser Magistrado
 
-> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 13 DE MARZO DE 2020)</small>
 
 ###### Artículo 64.
 
@@ -1651,21 +1657,37 @@ Las leyes establecerán medios alternativos a la vía jurisdiccional contenciosa
 
 ###### Artículo 65.
 
-Para ser designado Magistrado del Poder Judicial del Estado se deberá:
+Para ser designada Magistrada o Magistrado del Poder Judicial del Estado se deberá:
+
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
 I.- Ser ciudadano mexicano por nacimiento, y tener, además, la calidad de ciudadano yucateco;
 
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+
 II.- Estar en ejercicio de sus derechos políticos y civiles;
+
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
 III.- Poseer al día de la designación título profesional de abogado o licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello, con antigüedad mínima de diez años;
 
-IV.- Cumplir con lo dispuesto en la fracción IV del Artículo 95 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, D.O. 13 DE MARZO DE 2020)</small>
+
+IV.- Cumplir con lo dispuesto en la fracción IV del Artículo 95 de la Constitución Política de los Estados Unidos Mexicanos, y no haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad; o por actos de corrupción que ameriten la inhabilitación para ocupar cargos públicos;
+
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
 V.- Tener cuando menos treinta y cinco años cumplidos el día de la designación y menos de sesenta y cinco;
 
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+
 VI.- Haber residido en el Estado durante los dos años anteriores al día de la designación, y
 
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+
 VII.- No haber sido titular del Poder Ejecutivo del Estado, de alguna de las dependencias o entidades de la Administración Pública del Estado de Yucatán, de un organismo autónomo, Senador, Diputado Federal, Diputado local, Presidente Municipal o ministro de culto, durante un año previo al día de la designación.
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 Los Magistrados de la Sala especializada en Justicia para Adolescentes deberán acreditar tener los conocimientos suficientes en la materia.
 
@@ -2143,19 +2165,27 @@ Décima Séptima.- La ley establecerá un sistema de medios de impugnación y re
 
 Décima Octava.- Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán por las leyes respectivas basadas en lo dispuesto en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
 
-> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 13 DE MARZO DE 2020)</small>
 
 ###### Artículo 78.
 
-Para ser regidor o integrante de un Concejo Municipal, se requiere:
+Para ser regidora o regidor o integrante de un Concejo Municipal, se requiere:
+
+> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
 I.- Ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco, en el ejercicio de sus derechos políticos y civiles, y con una residencia efectiva en el Municipio de que se trate, no menor de cinco años. La vecindad no se pierde por desempeñar los cargos de Diputado Federal, Senador de la República, o Gobernador del Estado, y Diputado Estatal, así como Funcionario Público Federal, o Estatal.
 
 De ser oriundo del propio municipio, éste plazo deberá reducirse a un año;
 
+> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
+
 II.- Tener dieciocho años cumplidos el día de la elección, con excepción del Presidente Municipal que deberá tener veintiún años;
 
+> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
+
 III.- Saber leer y escribir;
+
+> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
 IV.- No ser ministro de culto religioso, salvo que se separe definitivamente de su encargo, cinco años antes de la elección, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y en la Ley de la materia;
 
@@ -2163,19 +2193,29 @@ IV.- No ser ministro de culto religioso, salvo que se separe definitivamente de 
 
 V.- No ser Gobernador del Estado, Magistrado del Tribunal Superior de Justicia o del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios o Consejero de la Judicatura, durante el año calendario de la elección, a menos que se separe de sus funciones 120 días antes de la elección;
 
+> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
+
 VI.- No estar en servicio activo en el Ejército Nacional, ni tener el mando de corporación policíaca alguna en el Municipio en que pretenda su elección, cuando menos durante los noventa días anteriores a ella;
 
-VII.- No haber sido sentenciado, por la comisión de delito doloso;
+> <small>(REFORMADA, D.O. 13 DE MARZO DE 2020)</small>
+
+VII.- No haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad; o por actos de corrupción que ameriten la inhabilitación para ocupar cargos públicos.
 
 > <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
 
 VIII.- No ser Magistrado o Secretario del Tribunal Electoral del Estado de Yucatán, ni Consejero, Secretario Ejecutivo o sus equivalentes, de los organismos electorales locales o nacionales, a menos que se separe de sus funciones tres años antes de la fecha de la elección;
 
+> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
+
 IX.- No ser Consejero ciudadano electoral, local o federal, a menos que se separe de sus funciones tres años antes de la fecha de la elección;
+
+> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
 X.- Estar inscrito en el Registro Federal del (sic) Electores y contar con Credencial para Votar vigente.
 
 Los cargos de Presidente Municipal y Síndico son incompatibles con cualquier otro u otra, comisión o empleo público del Estado o la Federación, y
+
+> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
 XI.- Para ser Síndico se requiere, además de lo anterior:
 
@@ -2687,9 +2727,13 @@ No procede el juicio político por la mera expresión de ideas.
 
 II.- La comisión de delitos por parte de cualquier servidor público o particulares, será perseguida y sancionada en los términos de la legislación penal aplicable.
 
-Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
+> <small>(REFORMADO, D.O. 13 DE MARZO DE 2020)</small>
 
-III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones. Dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones. La ley establecerá los procedimientos para la investigación y sanción de dichos actos u omisiones.
+Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por actos de corrupción o enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 13 DE MARZO DE 2020)</small>
+
+III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones, o por intervenir en actos de corrupción. Dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones. La ley establecerá los procedimientos para la investigación y sanción de dichos actos u omisiones.
 
 Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior del Estado y los órganos internos de control, según corresponda, y serán resueltas por el Tribunal de Justicia Administrativa del Estado de Yucatán. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
 
@@ -2701,7 +2745,9 @@ La ley establecerá los supuestos y procedimientos para impugnar la clasificaci�
 
 Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado de Yucatán; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
 
-IV.- El Tribunal de Justicia Administrativa del Estado de Yucatán impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales o municipales. Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
+> <small>(REFORMADA, D.O. 13 DE MARZO DE 2020)</small>
+
+IV.- El Tribunal de Justicia Administrativa del Estado de Yucatán impondrá a los particulares que intervengan en actos de corrupción o vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales o municipales. Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con hechos de corrupción o con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de actos de corrupción o faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos estatales o municipales, siempre que dicha sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con actos de corrupción o faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
 
 Los procedimientos para la aplicación de las sanciones mencionadas en las fracciones anteriores se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
@@ -2780,6 +2826,10 @@ El procedimiento de Juicio Político sólo podrá iniciarse durante el período 
 ###### Artículo 101 Bis.
 
 El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades del orden estatal y municipal competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Así mismo, participará, colaborará y asistirá en sus funciones al Sistema Nacional Anticorrupción, en los términos previstos por la ley.
+
+> <small>(ADICIONADO, D.O. 13 DE MARZO DE 2020)</small>
+
+El Sistema Estatal Anticorrupción tendrá como objeto realizar acciones y políticas públicas en la prevención, identificación y sanción de acuerdo a las leyes en la materia, a fin de disuadir y erradicar prácticas de corrupción en el sector público y privado.
 
 Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
@@ -4570,3 +4620,15 @@ El Congreso del Estado de Yucatán deberá adecuar la legislación secundaria en
 Artículo quinto. Derogación expresa.
 
 Se derogan todas las disposiciones de mayor o menor rango que se opongan a lo dispuesto en el presente decreto.
+
+D.O. 13 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 190/2020 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE INHABILITACIÓN POR FALTAS ADMINISTRATIVAS Y HECHOS DE CORRUPCIÓN".]
+
+Entrada en vigor
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación expresa
+
+Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
