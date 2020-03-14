@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48157"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2017-01-24"
+last_updated: "2020-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS, PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE MINATITLÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2020.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -413,6 +413,12 @@ DICIEMBRE
 
 BASE 100% 80% 60%
 
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2020)</small>
+
+###### ARTÍCULO TERCERO.
+
+Durante el ejercicio fiscal 2020, por concepto de estímulo fiscal, a los contribuyentes de guarderías que operan bajo el esquema de la Secretaría de Bienestar del Gobierno Federal, se les cobrará la tarifa doméstica establecida en esta Ley y no la comercial, durante los meses de marzo a junio de 2020.
+
 Lo dispuesto en el presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
 
 El Gobernador del Estado dispondrá se publique, circule y observe."
@@ -481,18 +487,10 @@ P.O. 24 DE ENERO DE 2017.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
 
-###### ARTICULO UNICO.
+P.O. 14 DE MARZO DE 2020.
 
-El presente Decreto entrará en vigor 1° de enero del año 2006, previa su publicación en el Periódico Oficial "El estado de Colima".
+## [N. DE E. TRANSITORIO DEL ”DECRETO NÚM. 248 POR EL QUE SE ADICIONAN, LAS LEYES QUE ESTABLECEN LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ, ARMERÍA, COMALA, COQUIMATLÁN, CUAUHTÉMOC, IXTLAHUACÁN, MANZANILLO, MINATITLÁN Y TECOMÁN”.]
 
-El Gobernador del Estado dispondrá se publique, circule y observe."
+###### ARTÍCULO ÚNICO.
 
-Dado en el Recinto Oficial del Poder Legislativo a los veintiocho días del mes de diciembre del año dos mil cinco.
-
-C. Florencio Llamas Acosta, Diputado Presidente. Rúbrica. C. Beatriz de la Mora de la Mora, Diputada Secretaria. Rúbrica. C. Margarita Ramírez Sánchez, Diputada Secretaria. Rúbrica.
-
-Por lo tanto mando se imprima, publique, circule y observe.
-
-Dado en Palacio de Gobierno, a los 31 días del mes de diciembre del año dos mil cinco.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE FINANZAS, ING. HUGO A. VÁZQUEZ MONTES. Rúbrica.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
