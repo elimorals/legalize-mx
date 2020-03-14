@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-113
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-11"
-last_updated: "2019-09-07"
+last_updated: "2020-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 11 de marzo de 2016.
 
@@ -695,7 +695,9 @@ III. En su caso, el contenido de la Gaceta Municipal;
 
 IV. El calendario con las actividades culturales, deportivas y recreativas a realizar;
 
-V. Las actas de sesiones de cabildo;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2020)</small>
+
+V. Las actas de sesiones de cabildo; así como las actas y los dictámenes de las Comisiones Municipales integradas en el Ayuntamiento.
 
 VI. La información que muestre el estado que guarda su situación patrimonial, incluyendo la relación de los bienes muebles e inmuebles y los inventarios relacionados con altas y bajas en el patrimonio del municipio;
 
@@ -707,9 +709,35 @@ IX. Las iniciativas de ley, decretos, reglamentos o disposiciones de carácter g
 
 X. Rutas establecidas en planos y tarifas de transporte público en la página oficial y en lugares públicos visibles, y
 
-XI. El atlas municipal de riesgos.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE MARZO DE 2020)</small>
+
+XI. El Atlas municipal de riesgos.
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2020)</small>
+
+XII. El Plan Municipal de Desarrollo; y
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2020)</small>
+
+XIII. A través de los organismos operadores Municipales o intermunicipales de agua potable y alcantarillado deberán:
+
+a) Poner a disposición del público el total de usuarios con servicios de agua potable y de aquellos que también cuentan con drenaje;
+
+b) Las cuotas de pago según los tipos de servicios de agua potable y de descarga de drenaje;
+
+c) El número de usuarios que ha realizado su pago;
+
+d) Las inversiones o ingresos Federales, Estatales y Municipales o de otras fuentes de financiamiento;
+
+e) La inversión semestral y anual de nuevas redes y en el mantenimiento del sistema; y
+
+f) Monto del pago de servicios a CONAGUA.
 
 Todos los Municipios podrán solicitar al Instituto, que de manera subsidiaria divulgue vía electrónica la información pública de oficio que señala este capítulo. Para ello, el Congreso del Estado deberá hacer las previsiones presupuestales que se requieran para la integración y publicación en línea de la información obligatoria en medios electrónicos.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2020)</small>
+
+Se exceptúan del párrafo anterior aquellos Municipios que cuenten con una población de veinte mil habitantes o más, los cuales deberán crear con su portal de internet.
 
 > <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
@@ -2872,3 +2900,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
+
+P.O. 14 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1403.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN V Y XI, SE ADICIONA LAS FRACCIONES XII Y XIII Y UN TERCER PÁRRAFO AL ARTÍCULO 30 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado; y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan y contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
