@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-127187"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-17"
-last_updated: "2019-01-26"
+last_updated: "2020-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127187&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACÁN, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2020.
 
 Ley publicada en el Número 20 del Periódico Oficial del Estado de Colima, el sábado 17 de marzo de 2018.
 
@@ -603,6 +603,12 @@ LA CAPAI, por conducto de su Director General o por personal que este designe, d
 
 Los cobros relacionados con el servicio de saneamiento no se harán hasta que la comunidad de que se trate se encuentre conectada a la planta tratadora de agua.
 
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2020)</small>
+
+###### ARTÍCULO QUINTO.
+
+Durante el ejercicio fiscal 2020, por concepto de estímulo fiscal, a los contribuyentes de guarderías que operan bajo el esquema de la Secretaría de Bienestar del Gobierno Federal, se les cobrará la tarifa doméstica establecida en esta Ley y no la comercial, durante los meses de marzo a junio de 2020.
+
 El Gobernador del Estado dispondrá se publique, circule y observe.
 
 Dado en el Recinto Oficial del Poder Legislativo a los veintiocho días del mes de febrero del año dos mil dieciocho.
@@ -626,3 +632,11 @@ P.O. 26 DE ENERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 31 POR EL QUE SE REFORMAN LOS INCISOS B), Y D), DEL ARTÍCULO 5 DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACÁN, COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 14 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 248 POR EL QUE SE ADICIONAN, LAS LEYES QUE ESTABLECEN LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ, ARMERÍA, COMALA, COQUIMATLÁN, CUAUHTÉMOC, IXTLAHUACÁN, MANZANILLO, MINATITLÁN Y TECOMÁN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
