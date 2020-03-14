@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48161"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2019-09-03"
+last_updated: "2020-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,9 @@ state: "COL"
 ---
 # LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO, COLIMA
 
-(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 316/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 138, POR EL QUE SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 10 Y LA FRACCIÓN III AL ARTÍCULO 11, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO, DEL MUNICIPIO DE MANZANILLO, COLIMA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL TRES DE SEPTIEMBRE DE DOS MIL DIECINUEVE, LA CUAL SURTIÓ EFECTOS EL 25 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO, DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2020.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -777,6 +773,12 @@ Lo dispuesto en el presente transitorio, no les será aplicable a los contribuye
 
 Cuando el propietario de un terreno solicite la incorporación al sistema a que hace referencia el artículo 10 fracción III de la presente Ley, tratándose de uso de suelo industrial, con destino a patios de maniobras, almacenamiento de contenedores, para tracto camiones y remolques, y siempre que se acredite el cumplimiento de las disposiciones del PROGRAMA PARCIAL DE DESARROLLO URBANO "TAPEIXTLES - JALIPA", PROGRAMA PARCIAL DE DESARROLLO URBANO "EL COLOMO", PROGRAMA PARCIAL DE DESARROLLO URBANO "CAMPOS", según sea la ubicación, y de la Ley de Asentamientos Humanos del Estado de Colima; como incentivo fiscal durante el ejercicio fiscal 2015, se otorgará a los usuarios un descuento sobre la cuota que al efecto establece en el artículo citado en supralíneas, en los términos siguientes: del 60% hasta el 30 de septiembre y, de un 50% durante los meses de octubre a diciembre, todos del 2015.
 
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2020)</small>
+
+###### ARTÍCULO QUINTO.
+
+Durante el ejercicio fiscal 2020, por concepto de estímulo fiscal, a los contribuyentes de guarderías que operan bajo el esquema de la Secretaría de Bienestar del Gobierno Federal, se les cobrará la tarifa doméstica establecida en esta Ley y no la comercial, durante los meses de marzo a junio de 2020.
+
 El Gobernador del Estado dispondrá se publique, circule y observe."
 
 Dado en el Recinto Oficial del Poder Legislativo a los veintiocho días del mes de diciembre del año dos mil cinco.
@@ -881,22 +883,14 @@ P.O. 28 DE FEBRERO DE 2018.
 
 P.O. 3 DE SEPTIEMBRE DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 138 POR EL QUE SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 10 Y LA FRACCIÓN III AL ARTÍCULO 11, AMBOS DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO, COLIMA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 138 POR EL QUE SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 10 Y LA FRACCIÓN III AL ARTÍCULO 11, AMBOS DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO, COLIMA”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
 
-###### ARTICULO UNICO.
+P.O. 14 DE MARZO DE 2020.
 
-El presente Decreto entrará en vigor el día 1ro de Enero de 2006, previa su publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 248 POR EL QUE SE ADICIONAN, LAS LEYES QUE ESTABLECEN LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ, ARMERÍA, COMALA, COQUIMATLÁN, CUAUHTÉMOC, IXTLAHUACÁN, MANZANILLO, MINATITLÁN Y TECOMÁN".]
 
-El Gobernador del Estado dispondrá se publique, circule y observe."
+###### ARTÍCULO ÚNICO.
 
-Dado en el Recinto Oficial del Poder Legislativo a los veintiocho días del mes de diciembre del año dos mil cinco.
-
-C. Florencio Llamas Acosta, Diputado Presidente. Rúbrica. C. Beatriz de la Mora de la Mora, Diputada Secretaria. Rúbrica. C. Margarita Ramírez Sánchez, Diputada Secretaria. Rúbrica.
-
-Por lo tanto mando se imprima, publique, circule y observe.
-
-Dado en Palacio de Gobierno, a los 31 días del mes de diciembre del año dos mil cinco.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE FINANZAS, ING. HUGO A. VÁZQUEZ MONTES. Rúbrica.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
