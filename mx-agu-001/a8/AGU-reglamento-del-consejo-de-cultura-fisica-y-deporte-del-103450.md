@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-consejo-de-cultura-fisica-y-deporte-del-103450"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-10-27"
-last_updated: "2019-01-21"
+last_updated: "2020-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 REGLAMENTO DEL CONSEJO DE CULTURA FÍSICA Y DEPORTE DEL MUNICIPIO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2020.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 27 octubre de 2014.
 
@@ -351,11 +351,11 @@ Los que en calidad de invitados asistan a las sesiones del Consejo, únicamente 
 
 Con el propósito de reconocer y estimular el desempeño, logros y trayectoria de los Ciudadanos y agrupaciones del Municipio en cualquier ámbito de la cultura física y el deporte, se instituye el Premio, como el máximo galardón que el H. Ayuntamiento otorga en estas materias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 21.
 
-Para poder llevar a cabo el Premio, el Consejo emitirá una convocatoria de acuerdo al presente Reglamento, misma que se dará a conocer a más tardar el día primero de febrero de cada año, y que por lo menos deberá contener los elementos siguientes:
+Para poder llevar a cabo el Premio, el Consejo emitirá una convocatoria de acuerdo al presente Reglamento, misma que se dará a conocer a más tardar el día primero de julio de cada año, y que por lo menos deberá contener los elementos siguientes:
 
 I. Título que diga "CONVOCATORIA", y enseguida el nombre de la misma;
 
@@ -417,11 +417,11 @@ La responsabilidad de analizar y decidir qué ciudadanos y agrupaciones de las q
 
 Dentro de las 24 horas posteriores a lo señalado en el párrafo anterior, el dictamen se turnará a la Comisión.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 28.
 
-La Comisión remitirá el dictamen del Consejo a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, para efecto de que se dé a conocer al honorable Cabildo y éste fije el día, hora y lugar en que se realizará la entrega formal del Premio, lo cual deberá ocurrir durante el mes de marzo de cada año, debiéndose comunicar a la Secretaría de Desarrollo Social para los efectos de lo previsto en el artículo 36 de este Reglamento.
+La Comisión remitirá el dictamen del Consejo a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, para efecto que se dé a conocer al honorable Cabildo y éste fije el día, hora y lugar en que se realizará la entrega formal del Premio, lo cual deberá ocurrir durante el mes de agosto de cada año, debiéndose comunicar a la Secretaría de Desarrollo Social para los efectos de lo previsto en el artículo 36 de este Reglamento.
 
 ###### ARTÍCULO 29.
 
@@ -568,3 +568,9 @@ P.O. 21 DE ENERO DE 2019.
 DEL MUNICIPIO DE AGUASCALIENTES”.]
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 32 PÁRRAFO PRIMERO Y 37 PÁRRAFO TERCERO DEL REGLAMENTO DEL CONSEJO MUNICIPAL DE LA JUVENTUD DE AGUASCALIENTES Y LOS ARTÍCULOS 21 EN SU PÁRRAFO PRIMERO Y 28 DEL REGLAMENTO DEL CONSEJO DE CULTURA FÍSICA Y DEPORTE DEL MUNICIPIO DE AGUASCALIENTES”.]
+
+UNICO: La presente reformas (sic) mediante la cual se modifican los artículos 32 párrafo primero y 37 párrafo tercero del Reglamento del Consejo Municipal de la Juventud de Aguascalientes y los artículos 21 en su párrafo primero y 28 del Reglamento del Consejo de Cultura Física y Deporte del Municipio de Aguascalientes iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes”.
