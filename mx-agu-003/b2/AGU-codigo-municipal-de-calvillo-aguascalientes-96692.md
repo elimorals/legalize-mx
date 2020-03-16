@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2020-02-10"
+last_updated: "2020-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2020.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -8597,6 +8597,10 @@ IV.- Un Comisario; y
 
 V.- El personal técnico y administrativo que se requiera para su funcionamiento.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2020)</small>
+
+VI.- Órgano Interno de Control
+
 #### SECCIÓN PRIMERA. Del Consejo Directivo
 
 ###### Artículo 878.
@@ -9227,7 +9231,63 @@ La Comisión podrá solicitar al Instituto del Agua del Estado, la asesoría, ap
 
 la Comisión podrá solicitar al Instituto del Agua del Estado, su coadyuvancia en las gestiones de financiamiento y planeación de obras para la captación, potabilización, conducción, almacenamiento y distribución de agua potable, el alcantarillado, así como el tratamiento de aguas residuales y manejo de lodos.
 
-#### SECCIÓN PRIMERA. Definiciones
+> <small>(REFORMADA [N. DE E. ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA], P.O. 16 DE MARZO DE 2020)</small>
+
+#### SECCIÓN QUINTA (SIC). Órgano Interno de Control
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE MARZO DE 2020)</small>
+
+###### Artículo 916 Bis.
+
+El OOSAC para un funcionamiento contará con un Órgano Interno de Control al cual le corresponderá lo siguiente:
+
+I.- Vigilar el correcto manejo de las finanzas del OOSAC, apegándose a lo establecido en las cuotas y tarifas por los servicios de agua potable y alcantarillado y a los presupuestos de ingresos y egresos del Organismo.
+
+II.- Fijar, en su caso, las normas internas de carácter obligatorio necesarias para que los procesos administrativos del OOSAC se realicen con transparencia, seguridad jurídica, agilidad y orden.
+
+III.- Ordenar practicar auditorias, revisiones, visitas e inspecciones a las dependencias y entidades del OOSAC.
+
+IV.- Supervisar los procesos de asignación, adjudicación, ejecución, entrega recepción y pago de la obra pública y la correcta aplicación en ellos de los fondos públicos.
+
+V.- Dictar las disposiciones que requiera el Órgano Interno de Control para la adecuada aplicación y cumplimiento de la Entrega- Recepción del OOSAC.
+
+VI.- Investigar de oficio o en atención a las quejas, denuncias y a los hechos o elementos detectados en las auditorias, revisiones, visitas e inspecciones practicadas por el Órgano Interno de Control, las conductas y/o faltas de los servidores públicos y faltas de particulares que impliquen presuntas faltas administrativas y en su caso, substanciar el Procedimiento de Responsabilidad Administrativa e imponer las sanciones que correspondan en los términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+VII.- Coordinar y vigilar que los servidores públicos obligados a presentar declaraciones de situación patrimonial, lo hagan en tiempo y forma, apegándose a la normatividad establecida;
+
+VIII.- Supervisar que las adquisiciones de bienes y servicios que realice el OOSAC correspondan en cantidad y calidad a las necesidades reales;
+
+IX.- Vigilar los recursos patrimoniales del OOSAC, así como los que provengan del Gobierno Federal, Estatal y del Municipal;
+
+X.- Fijar las normas de carácter obligatorio necesarias para el control interno, fiscalización, contabilidad y auditoría que deben observar en el OOSAC.
+
+XI.- Vigilar el cumplimiento de políticas y programas establecidos por el H. Ayuntamiento de Calvillo y el Consejo Directivo, así como las normas señalados en la fracción anterior; además de las normas jurídicas y administrativas que rigen su funcionamiento.
+
+XII.- Designar a su personal que practicara auditorias, así como normas y controlar su desempeño, verificando el destino de los fondos públicos sean propios o transferibles;
+
+XIII.- Vigilar y controlar el gasto público para el rendimiento máximo de los recursos del OOSAC, y el adecuado equilibrio presupuestal;
+
+XIV.- Vigilar que las obras realizadas por el OOSAC, directamente o con participación de terceros se ajusten a las especificaciones fijadas;
+
+XV.- Dictar los estados financieros que expida el Área Administrativa del OOSAC.
+
+XVI.- Coordinar el módulo de Transparencia y Acceso a la Información Pública Municipal; Poner a la disposición de la ciudadanía los formatos para recabar la información pública del OOSAC.
+
+XVII.-Evaluar el Sistema de Control Interno en la administración pública del OOSAC.
+
+XVIII.- Entregar la información requerida por el IMPLAN.
+
+XIX.- Designar un enlace entre el IMPLAN para llevar a cabo los programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+
+XX.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que dispongan el OOSAC esto es base al Sistema de Evaluación del Desempeño (SED).
+
+XXI.-Requerir para el cumplimiento de sus atribuciones, documentos, datos e información a las dependencias y entidades municipales como empresas para municipales, fideicomisos y organismos públicos descentralizados.
+
+XXII.- Ejecutar las funciones establecidas en este Código y en la legislación Federal, Estatal y Municipal aplicables para los órganos Internos de Control.
+
+XXIII.- Designar, para el adecuado desarrollo del Sistema de Control y Evolución Interno del OOSAC, en los casos que lo determine el Órgano Interno de Control, delegados del propio ante otras dependencias gubernamentales o el propio OOSAC.
+
+XXIV.- Las demás facultades le señalen las normativas aplicables, el Consejo Directivo, el H. Ayuntamiento o el Presidente Municipal.
 
 # LIBRO CUARTO. DE LA SEGURIDAD PÚBLICA Y VIALIDAD
 
@@ -10091,7 +10151,7 @@ Toda solicitud que hubiera sido denegada por la superioridad, no podrá repetirs
 
 ### CAPÍTULO XI. De los Correctivos Disciplinarios
 
-#### SECCIÓN SEGUNDA. De la Amonestación
+#### SECCIÓN PRIMERA. Definiciones
 
 ###### Artículo 1012.
 
@@ -10131,7 +10191,7 @@ IV.- Las condiciones externas que motivaron la falta y los medios de ejecución;
 
 V.- La reincidencia en el incumplimiento de sus obligaciones.
 
-#### SECCIÓN TERCERA. Del Arresto
+#### SECCIÓN SEGUNDA. De la Amonestación
 
 ###### Artículo 1015.
 
@@ -10231,7 +10291,7 @@ XLIV.- Por no proporcionar al superior jerárquico de quien dependan, el domicil
 
 XLV.- Por las demás infracciones a la Ley o el presente Código que no ameriten la imposición de otro correctivo disciplinario.
 
-#### SECCIÓN CUARTA. Del Cambio de Adscripción
+#### SECCIÓN TERCERA. Del Arresto
 
 ###### Artículo 1017.
 
@@ -10335,7 +10395,7 @@ h).- Por abandonar el servicio sin causa justificada, considerándose abandono d
 
 i).- Por usar el uniforme, salvo instrucciones expresas de la superioridad, fuera de los actos del servicio y durante sus horas de descanso o por realizar actividades de seguridad privada.
 
-#### SECCIÓN QUINTA. De la Suspensión Temporal
+#### SECCIÓN CUARTA. Del Cambio de Adscripción
 
 ###### Artículo 1018.
 
@@ -10351,7 +10411,7 @@ IV.- Por temor fundado de que pueda ser sujeto de represalias por parte de delin
 
 V.- Por requerirse para mantener una buena relación e imagen con la comunidad donde se desempeña.
 
-#### SECCIÓN SEXTA. De la Pérdida de Grado
+#### SECCIÓN QUINTA. De la Suspensión Temporal
 
 ###### Artículo 1019.
 
@@ -10387,13 +10447,13 @@ XIV.- Por Aceptar obsequios de sus subalternos o permitir que se promuevan o col
 
 Si el elemento operativo suspendido no resulta responsable de los hechos, éste será reinstalado en su puesto en los términos del artículo 118 tercer párrafo de la Ley de Seguridad Pública para el Estado.
 
-#### SECCIÓN SÉPTIMA. Del Descuento en las Percepciones
+#### SECCIÓN SEXTA. De la Pérdida de Grado
 
 ###### Artículo 1020.
 
 Se impondrá la sanción de pérdida de grado cuando se niegue a asistir a los cursos de capacitación programados para los de su jerarquía, o asistiendo los repruebe, o no resulte aprobado en las certificaciones que haga el Instituto de Seguridad Pública o demuestre ineficiencia para ejercer sus funciones.
 
-#### SECCIÓN OCTAVA. De la Destitución
+#### SECCIÓN SÉPTIMA. Del Descuento en las Percepciones
 
 ###### Artículo 1021.
 
@@ -10405,7 +10465,7 @@ II.- Por acumular tres retardos que no excedan de diez minutos, dentro del perio
 
 III.- Por retardo que exceda de quince minutos, se descontará el equivalente a un día de salario.
 
-#### SECCIÓN PRIMERA. De las Faltas Contra la Seguridad Pública
+#### SECCIÓN OCTAVA. De la Destitución
 
 ###### Artículo 1022.
 
@@ -22477,7 +22537,7 @@ El objeto del establecimiento de las faltas cívicas, es contar con reglas míni
 
 Para los efectos de este Capítulo son responsables las personas de doce años o más que cometan infracciones, así como las personas físicas o morales que hubiesen ordenado la realización de las conductas que importen la comisión de una infracción.
 
-#### SECCIÓN SEGUNDA. De las Faltas Contra el Civismo
+#### SECCIÓN PRIMERA. De las Faltas Contra la Seguridad Pública
 
 ###### Artículo 2355.
 
@@ -22513,7 +22573,7 @@ XIV.- Realizar actos de violencia contra las mujeres en la comunidad, en términ
 
 XV.- Oponerse, impedir o tratar de impedir que una autoridad municipal realice una diligencia legitima o imponga una sanción.
 
-#### SECCIÓN TERCERA. De las Faltas Contra la Propiedad Pública
+#### SECCIÓN SEGUNDA. De las Faltas Contra el Civismo
 
 ###### Artículo 2356.
 
@@ -22527,7 +22587,7 @@ III.- Portar, usar o utilizar de manera negligente los símbolos patrios, sin el
 
 IV.- Portar insignias, escudos, ropas ó identificaciones de uso exclusivo de corporaciones policíacas del Estado y sus Municipios, sin estar debidamente autorizado para ello.
 
-#### SECCIÓN CUARTA. De las Faltas Contra la Salubridad
+#### SECCIÓN TERCERA. De las Faltas Contra la Propiedad Pública
 
 ###### Artículo 2357.
 
@@ -22551,7 +22611,7 @@ VIII.- Borrar, cubrir o alterar los números o letras con que están marcadas la
 
 IX.- Obstruir por cualquier medio parcial o totalmente calles, avenidas, calzadas, puentes u otros lugares públicos sin permiso de la autoridad correspondiente.
 
-#### SECCIÓN QUINTA. De las Faltas Contra el Bienestar Colectivo
+#### SECCIÓN CUARTA. De las Faltas Contra la Salubridad
 
 ###### Artículo 2358.
 
@@ -22581,7 +22641,7 @@ XI.- Omitir limpiar o recoger los responsables de la guarda y cuidado de cualqui
 
 XII.- Sacar la basura de los contenedores o de los depósitos destinados para tal fin o prenderles fuego.
 
-#### SECCIÓN SEXTA. De las Faltas Contra la Integridad de las Personas y sus Bienes
+#### SECCIÓN QUINTA. De las Faltas Contra el Bienestar Colectivo
 
 ###### Artículo 2359.
 
@@ -22613,7 +22673,7 @@ XII.- Realizar acoso contra las mujeres del Municipio, siempre y cuando no const
 
 XIII.- Obstruir, rentar o pedir propina por o para el uso de los espacios públicos para ser utilizados como estacionamiento de vehículos automotores.
 
-#### SECCIÓN SÉPTIMA. De las Faltas Contra la Integridad Moral del Individuo
+#### SECCIÓN SEXTA. De las Faltas Contra la Integridad de las Personas y sus Bienes
 
 ###### Artículo 2360.
 
@@ -22644,6 +22704,8 @@ XI.- Poner en peligro la integridad de las personas o patrimonio por la conducci
 XII.- Comunicar dolosamente a una o más personas de la imputación que se hace a otra persona física de un hecho cierto o falso, que le cause deshonra, descrédito o afecte su reputación; y
 
 XIII.- Formular toda clase de expresiones o realización de acciones destinadas a manifestar desprecio a otra persona o con el fin de causarle una ofensa, siempre y cuando de ello tengan conocimiento otras personas y se ponga al ofendido en una situación de notable humillación pública.
+
+#### SECCIÓN SÉPTIMA. De las Faltas Contra la Integridad Moral del Individuo
 
 ###### Artículo 2361.
 
@@ -24730,3 +24792,7 @@ P.O. 10 DE FEBRERO DE 2020.
 Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
 
 Artículo Tercero.- Cúmplase.
+
+P.O. 16 DE MARZO DE 2020.
+
+> <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES VIGENTE.]</small>
