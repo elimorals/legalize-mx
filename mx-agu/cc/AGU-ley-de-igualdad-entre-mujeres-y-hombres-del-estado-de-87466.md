@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-igualdad-entre-mujeres-y-hombres-del-estado-de-87466"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-23"
-last_updated: "2018-04-16"
+last_updated: "2020-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. 16 DE MARZO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2020 (ABROGADO).
 
 Ley publicada en la Primera Sección de Periódico Oficial del Estado de Aguascalientes, el lunes 23 de abril de 2012.
 
@@ -640,3 +642,19 @@ P.O. 16 DE ABRIL DE 2018.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de (sic) publicación en el Periódico Oficial del Estado de Aguascalientes, salvo lo relativo a los Artículos 47, 49 y 50, que entrarán en vigor a los 180 días naturales contados a partir de la referida publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez que entre en vigor el presente Decreto, se Abroga la Ley de Igualdad entre Mujeres y Hombres del Estado de Aguascalientes, Expedida en virtud del Decreto Número 191 de la LXI Legislatura del H. Congreso del Estado de Aguascalientes, publicado en la Primera Sección de (sic) Periódico Oficial del Estado de Aguascalientes, el lunes 23 de abril de 2012.
+
+###### ARTÍCULO TERCERO.
+
+Los Poderes Ejecutivo, Legislativo y Judicial, los Órganos Constitucionales Autónomos y los Ayuntamientos Municipales contarán con un plazo de 180 días hábiles contados a partir de la entrada en vigor del presente decreto para dar cumplimiento a las diversas obligaciones que implica el presente ordenamiento.
