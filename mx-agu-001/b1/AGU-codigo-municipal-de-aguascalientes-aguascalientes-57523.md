@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2020-01-20"
+last_updated: "2020-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1615,15 +1615,13 @@ Departamento de Programas Municipales.
 
 Departamento de Programas para la Convivencia.
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2020)</small>
 
 XIV.- SECRETARÍA DE DESARROLLO URBANO.
 
-> <small>(REFORMADO, 20 DE MARZO DE 2017)</small>
-
-Coordinación Administrativa
-
 Coordinación Jurídica.
+
+Coordinación Administrativa.
 
 Departamento de Atención Ciudadana.
 
@@ -1641,9 +1639,11 @@ Dirección de Fraccionamientos y Bienes Inmuebles Municipales.
 
 Departamento de Fraccionamientos.
 
+Departamento de Regularización de Asentamientos Humanos.
+
 Departamento de Supervisión de Fraccionamientos y Áreas Municipales.
 
-Departamento de Bienes Inmuebles Municipales
+Departamento de Bienes Inmuebles Municipales.
 
 Departamento de Cartografía.
 
@@ -2917,17 +2917,21 @@ VII. Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse 
 
 VIII. Coordinar la Comisión de Peritos, llevar el registro de los peritos, así como asignar peritajes por servicio social en los casos que prevé este Código.
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2020)</small>
 
-IX. Supervisar obras de urbanización, edificación y construcciones en general;
+IX. Supervisar obras de urbanización, edificación y construcciones en general a través de los inspectores, verificadores y supervisores a su cargo, así como aeronaves pilotadas distancia (RPA por sus siglas en inglés Remotely Piloted Aircraft);
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2020)</small>
 
-X. Cerciorarse y aplicar la normatividad para el uso que se está dando a un predio, edificio o construcción y que éste se apegue a las características previamente registradas.
+X. Cerciorarse a través de los inspectores, verificadores y supervisores a su cargo, así como aeronaves pilotadas distancia (RPA por sus siglas en inglés Remotely Piloted Aircraft), y aplicar la normatividad para el uso que se está dando a un predio, edificio o construcción y que éste se apegue a las características previamente registradas.
 
-XI. Acordar las medidas que fueren procedentes en relación con las obras de urbanización y edificación cuyo estado presente un riesgo inminente, que generen inseguridad, insalubridad o causen molestias.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2020)</small>
 
-XII. Ordenar y aplicar la suspensión temporal preventiva, o la clausura parcial o total, de obras de urbanización y edificación, en ejecución o terminadas, así como la desocupación de los inmuebles en los casos previstos en este Código.
+XI. Acordar las medidas que fueren procedentes en relación con las obras de urbanización y edificación así como los lotes baldíos, cuyo estado presente un riesgo inminente, que generen inseguridad, insalubridad o causen molestias, detectados a través del procedimiento de verificación administrativa convencional o a través de aeronaves pilotadas distancia (RPA por sus siglas en inglés Remotely Piloted Aircraft),
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2020)</small>
+
+XII. Ordenar y aplicar multas, la suspensión temporal preventiva, o la clausura parcial o total, de obras de urbanización y edificación, en ejecución o terminadas, cuando se hayan detectado infracciones a la normatividad vigente, a través del procedimiento de verificación administrativa ejecutada de forma convencional o a través de aeronaves pilotadas distancia (RPA por sus siglas en inglés Remotely Piloted Aircraft), así como la desocupación de los inmuebles en los casos previstos en este Código.
 
 XIII. Aplicar medidas de seguridad en inmuebles en los casos previstos en este Código.
 
@@ -8632,6 +8636,10 @@ Las sanciones y correctivos disciplinarios señaladas en el artículo 572 no con
 Con independencia de las acciones que competan a otras autoridades ajenas a la Secretaría, no podrá aplicarse más de una sanción por los mismos hechos.
 
 Los integrantes operativos podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en la Secretaría, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Municipio sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE MARZO DE 2020)</small>
+
+Para los efectos del presente Código y para determinar la sanción correspondiente al monto de los salarios caídos, en cualquiera de las acciones o reclamaciones intentadas por el integrante operativo de la Secretaría ante la Sala Administrativa, los salarios caídos que se mencionan en el presente Código, en ningún caso podrán ser superiores al equivalente de seis meses de salario del integrante operativo de la Secretaría que será el tope máximo de la imposición de dicha penalidad.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
 
@@ -22155,7 +22163,9 @@ En caso de omisión de alguno de los requisitos anteriores, se prevendrá por es
 
 La autoridad municipal en su relación con los particulares tendrá las siguientes facultades y obligaciones:
 
-I. Requerir informes, documentos y otros durante la realización de la visita de verificación.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2020)</small>
+
+I. Realizar visitas de inspección administrativa requiriendo permisos, licencias, informes, y demás documentos durante la realización de la visita a través de verificadores, inspectores o supervisores; así como visitas de supervisión de lotes baldíos, obras de edificación, urbanización, anuncios, y usos de suelo a través de aeronaves pilotadas distancia (RPA por sus siglas en inglés Remotely Piloted Aircraft), que tomaran video y fotografías de los mismos, las cuales constituirán pruebas documentales para sancionar infracciones a la legislación urbana aplicable;
 
 II. Proporcionar información y orientación acerca de los requisitos jurídicos y técnicos que las disposiciones vigentes impongan a las actuaciones o solicitudes que se propongan realizar.
 
@@ -24764,3 +24774,17 @@ P.O. 20 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DE LA "REFORMA AL ARTÍCULO 26 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
 
 ÚNICO: La presente reforma al artículo 26 del Código Municipal de Aguascalientes, iniciará su vigencia a los 90 días hábiles después de su publicación en el Periódico Oficial del Estado de Aguascalientes; así mismo se instruye a la Coordinación General de Gobierno Digital del Municipio de Aguascalientes para que capacite al personal de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno del Municipio de Aguascalientes y se tomen las medidas necesarias para ejecutar la presente reforma.
+
+P.O. 16 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 574 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+ÚNICO: La presente reforma mediante el (sic) cual se adiciona un párrafo al artículo 574 del Código Municipal de Aguascalientes, iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS A LOS ARTÍCULOS 98 FRACCIÓN XIV, 112 FRACCIONES IX, X, XI Y XII Y 1519 FRACCIÓN I DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+PRIMERO: Las presentes reformas iniciarán su vigencia, al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO: Se instruye a la Secretaría de Finanzas Públicas Municipales y la Secretaría de Administración realicen los trámites legales y administrativos conducentes.
