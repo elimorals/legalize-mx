@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-del-fideicomiso-desarrollos-industriales-de-139
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-04"
-last_updated: "2019-11-04"
+last_updated: "2020-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139058&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE ÉTICA DEL FIDEICOMISO DESARROLLOS INDUSTRIALES DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2020.
 
 Código publicado en la Primera Sección del Número 44 del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de noviembre de 2019.
 
@@ -537,13 +537,37 @@ XVII. Mostrar deliberadamente partes íntimas del cuerpo a una o varias personas
 
 Objetivo de los mecanismos. El objetivo de los mecanismos de capacitación y difusión, es el de fomentar y aplicar en el desempeño de sus funciones los principios y valores que la Constitución, la ley y el presente Código impone (sic), que por su importancia son intrínsecos a la función pública.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2020)</small>
+
 ###### Artículo 22.
 
-Mecanismos de capacitación. El FDIA, por medio del Comité de Ética, promoverá la impartición de capacitaciones de Servidores Públicos, en el razonamiento y sensibilización sobre los principios y valores que deban prevalecer en la toma de decisiones y en el correcto ejercicio de la función pública en situaciones concretas, con base en las directrices previstas en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, así como en las Reglas de Integridad.
+Mecanismos de capacitación. El Órgano Interno de Control promoverá la impartición de capacitaciones de Servidores Públicos, en el razonamiento sobre los principios y valores que deban prevalecer en la toma de decisiones y en el correcto ejercicio de la función pública en situaciones concretas, con base en las directrices previstas en la Ley General de Responsabilidades Administrativas y en las reglas de integridad establecidas en este Código.
+
+Dichas capacitaciones se podrán impartir mediante los siguientes mecanismos:
+
+I. Cursos;
+
+II. Talleres;
+
+III. Conferencias;
+
+IV. Seminarios; o
+
+V. Cualquier otro que estime pertinente el Ente Público.
+
+El Ente Público deberá impartir alguno de esos mecanismos a todos sus Servidores Públicos, al menos una vez al año.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2020)</small>
 
 ###### Artículo 23.
 
-Mecanismos de difusión. El FDIA deberá de llevar a cabo todas las acciones necesarias para dar a conocer a todos (sic) a todo el personal adscrito a dicha entidad, el contenido del presente Código.
+Mecanismos de difusión. El OIC deberá publicar el presente Código y en su caso sus reformas, por los siguientes medios:
+
+I. El Periódico Oficial del Estado de Aguascalientes; y
+
+II. La página de internet del Fideicomiso de Desarrollos Industriales de Aguascalientes. Asimismo, deberá entregarse un ejemplar impreso o en archivo electrónico de este Código y en su caso de sus reformas, a todos los Servidores Públicos del FDIA.
+
+El O.I.C., deberá hacer del conocimiento a los Servidores Públicos del FDIA, el Código y sus modificaciones de manera impresa y/o digital.
 
 ### CAPÍTULO VI. Órganos de Sanción y de Vigilancia
 
@@ -580,3 +604,21 @@ ATENTAMENTE
 C.P. FRANCISCO JAVIER GALLEGOS SILVA, TITULAR DE LA UNIDAD AUDITORA DEL ÓRGANO INTERNO DE CONTROL DEL FIDEICOMISO DESARROLLOS INDUSTRIALES DEL ESTADO DE AGUASCALIENTES.
 
 LIC. CRISTIAN JESÚS DÍAZ DELGADILLO, TITULAR DE LA UNIDAD INVESTIGADORA DEL ÓRGANO INTERNO DE CONTROL DEL FIDEICOMISO DESARROLLOS INDUSTRIALES DEL ESTADO DE AGUASCALIENTES.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO DE ÉTICA DEL FIDEICOMISO DESARROLLOS INDUSTRIALES DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Órgano Interno de Control del Fideicomiso Desarrollos Industriales de Aguascalientes, deberá dar a conocer de manera inmediata las modificaciones y adiciones establecidas en el presente Acuerdo.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efecto aquellas disposiciones que se opongan a lo previsto en el presente Acuerdo.
