@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-sanitario-de-control-proteccion-y-trato-digno-a-1394
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-10-21"
-last_updated: "2019-10-21"
+last_updated: "2020-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139447&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO SANITARIO DE CONTROL, PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES DEL MUNICIPIO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2020.
 
 Reglamento publicado en la Primera Sección del Número 42 del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de octubre de 2019.
 
@@ -155,7 +155,7 @@ XL. Zoonosis: Enfermedades que transmiten los animales al ser humano.
 
 XLI. Colegio Estatal de Médicos Veterinarios de Aguascalientes, A.C.: Asociación Civil legalmente constituida que representa a los Médicos Veterinarios a nivel estatal, ante los sectores público, social y privado, con el objetivo de vigilar que el ejercicio profesional se realice dentro del más alto plano legal, moral y ético, además de certificar y garantizar idoneidad y competencia profesional.
 
-XLII. COMVEHCEPEA, A.C.: Colegio de Médicos Veterinarios de Hospitales y Clínicas Especializadas en pequeñas especies de Aguascalientes, A.C. Asociación representativa de Médicos Veterinarios Zootecnistas, dedicados al ejercicio profesional y práctica médica, a la salud pública y el bienestar de los animal (sic) de las mascotas, siendo el órgano asesor técnico y científico de las autoridades, de las dependencias gubernamentales, entidades privadas y opinión pública en lo referente a los aspectos de salud pública, zootecnia, medicina y bienestar animal.
+XLII. COMVEHCEPEA, A.C.: Colegio de Médicos Veterinarios de Hospitales y Clínicas Especializadas en pequeñas especies de Aguascalientes, A.C. Asociación representativa de Médicos Veterinarios Zootecnistas, dedicados al ejercicio profesional y práctica médica, a la salud pública y el bienestar de los animal de las mascotas, siendo el órgano asesor técnico y científico de las autoridades, de las dependencias gubernamentales, entidades privadas y opinión pública en lo referente a los aspectos de salud pública, zootecnia, medicina y bienestar animal.
 
 XLIII. PROESPA: Procuraduría Estatal de Protección al Ambiente.
 
@@ -615,7 +615,11 @@ VI. Entregar en adopción a los animales abandonados a personas que acrediten bu
 
 VII. Proporcionar a los particulares los servicios de medicina preventiva y curativa mediante el pago previsto en la Ley de Ingresos del Municipio;
 
-VIII. Previa solicitud, proporcionar a los animales no reclamados, a las Instituciones Docentes mediante un convenio en el que se obliguen a realizar las prácticas de experimentación de acuerdo a lo establecido en el presente Reglamento. Así como dar estricta vigilancia sobre el uso y manejo de los animales, para que, en caso de incumplimiento del convenio, se niegue la entrega posterior de más animales;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2020)</small>
+
+VIII.- Previa solicitud, y sin costo, proporcionar los cadáveres de los animales no reclamados y sacrificados en el Centro de Control, Atención y Bienestar Animal, a las Instituciones Educativas de Estudios Superiores en las que se requiera realizar prácticas de experimentación con estos, previo convenio celebrado entre las partes interesadas en el que se obliguen a realizar las prácticas de experimentación de acuerdo a lo establecido en el presente Reglamento; y por ningún motivo los cadáveres podrán ser comercializados.
+
+En caso de incumplimiento de dicho convenio por parte del solicitante, se dará por concluido, negando la entrega posterior de más animales.
 
 IX. Apoyar a las personas que hayan establecido albergues o lugares para el sacrificio de los animales que no fueren adoptados;
 
@@ -1119,7 +1123,7 @@ Los dueños, Directores o encargados de los Zoológicos y Acuarios deberán perm
 
 ###### ARTÍCULO 111.
 
-Se prohíbe la instalación de circos con animales, la SEMADESU será responsable de vigilar que se cumpla esta disposición.
+Se prohíbe la instalación de circos con animales, la SEMADESU será´ responsable de vigilar que se cumpla esta disposición.
 
 ### CAPÍTULO XIII. DEL TRASLADO DE ANIMALES VIVOS
 
@@ -1610,3 +1614,11 @@ QUINTO: Dentro de los ciento veinte días hábiles a la entrada en vigor del pre
 SEXTO: La autoridad competente a más tardar en el mes de noviembre del 2019, deberá realizar la propuesta de adecuaciones presupuestales y administrativas que sean necesarias para su adecuado funcionamiento y dar debido cumplimiento a lo establecido en este reglamento. Para lo cual deberá realizar los dictámenes correspondientes que establece el artículo 98, tercer párrafo, fracciones I, II y III del Código Municipal de Aguascalientes a efecto de que el H. Ayuntamiento este en posibilidad de realizar las adecuaciones correspondientes a la estructura orgánica dentro del citado ordenamiento legal.
 
 Lo anterior para el conocimiento de la ciudadanía. Dado por el Honorable Ayuntamiento Constitucional del Municipio de Aguascalientes, en la sesión extraordinaria celebrada el día once de octubre del año dos mil diecinueve en el salón Cabildo, con la presencia de la Licenciada María Teresa Jiménez Esquivel, Presidente Municipal de Aguascalientes; los Regidores Edson Rubén Camarillo Rodríguez, Marly Fabiola Carranza Ávila, Manuel Alejandro Monreal Dávila, Mónica Ledezma Gallegos, Gustavo Tristán López, Juana Cecilia López Ortiz, Sergio David Mora Rodarte, Miguel Romo Reynoso, Mauricio González López, Oscar Salvador Estrada Escobedo, Sindy Paola González Rubalcava, Hazel Montejano García, Netzahualcóyotl Ventura Anaya, Karla Cassio Madrazo, la Síndico de Hacienda Ma de Jesús Ramírez Castro y el Síndico Procurador Luis Alberto Rivera Vargas; así como el Secretario del H. Ayuntamiento y Director General de Gobierno, Licenciado Jaime Gerardo Beltrán Martínez.- En consecuencia, de conformidad con lo dispuesto en el artículo 38, fracción I de la Ley Municipal para el Estado de Aguascalientes, promulgo y ordeno se dé publicidad para su debido cumplimiento y efectos legales conducentes.- Aguascalientes, Ags., a 11 de octubre de 2019.- Lic. María Teresa Jiménez Esquivel, Presidente Municipal de Aguascalientes.- Rúbrica.- Lic. Jaime Gerardo Beltrán Martínez, Secretario del H. Ayuntamiento y Director General de Gobierno, quien valida con su firma en términos del artículo 107 fracción VIII, del Código Municipal de Aguascalientes.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DE LAS "REFORMAS AL ARTÍCULO 40 FRACCIÓN VIII DEL REGLAMENTO SANITARIO DE CONTROL, PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES DEL MUNICIPIO DE AGUASCALIENTES".]
+
+ÚNICO: La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
