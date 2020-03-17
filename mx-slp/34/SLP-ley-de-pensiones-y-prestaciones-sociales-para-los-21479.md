@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-pensiones-y-prestaciones-sociales-para-los-21479"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-21"
-last_updated: "2019-11-08"
+last_updated: "2020-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 21 de mayo de 2001.
 
@@ -281,7 +281,9 @@ El descuento a los trabajadores para el fortalecimiento de cada fondo podrá ser
 
 Las aportaciones para cada fondo con que deben contribuir las instituciones de la administración pública estatal o municipal, en su caso, serán en la misma proporción que los descuentos que los trabajadores aportan. Cuando se trate de servicios sostenidos con aportaciones al gobierno federal y local, las que correspondan al gobierno federal serán cubiertas por el Estado.
 
-Adicionalmente, y para ser utilizado en forma exclusiva en el otorgamiento de créditos hipotecarios a los servidores públicos al servicio del Gobierno del Estado, éste aportará un 5 porciento del total del sueldo base que perciba su personal.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2020)</small>
+
+Adicionalmente, y para ser utilizado en forma exclusiva en el otorgamiento de créditos hipotecarios a los servidores públicos al servicio del Gobierno del Estado, éste aportará un cinco por ciento del total del sueldo base que perciba su personal. Este recurso podrá ser utilizado para el pago de pensiones del sector al que corresponda, siempre que se deje a salvo el monto suficiente para continuar con el otorgamiento de dichos créditos a los trabajadores en activo. Los derechohabientes no adquirirán ningún derecho personal o colectivo sobre estos recursos, salvo los previstos en este párrafo.
 
 > <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
 
@@ -458,6 +460,14 @@ Si por haber sido cesado el trabajador o por otras causas graves a juicio de la 
 ###### ARTICULO 49.
 
 En caso de considerarlo, cada grupo cotizador podrá establecer la formación de un fideicomiso o cualquier otra figura jurídica, para otorgar vivienda a los trabajadores según convenga a sus intereses.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+La parte patronal deberá aportar el cinco por ciento del total del sueldo base que perciba su personal, para el otorgamiento de créditos hipotecarios, directamente al fideicomiso o a la figura jurídica creada, y se regirán bajo las reglas establecidas para la misma.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+La aportación del cinco por ciento para el otorgamiento de créditos hipotecarios que sea enterada directamente a la Dirección de Pensiones, se administrará en los términos establecidos en esta Ley.
 
 ### CAPITULO III. DE OTRAS INVERSIONES
 
@@ -2434,5 +2444,13 @@ P.O. 8 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0298.- SE REFORMA Y ADICIONA EL ARTÍCULO 53 DE LA LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis.”
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0633.- SE REFORMA EL ARTÍCULO 23 EN SU PÁRRAFO SEGUNDO; Y ADICIONA AL ARTÍCULO 49 LOS PÁRRAFOS, SEGUNDO, Y TERCERO, DE LA LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis."
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
