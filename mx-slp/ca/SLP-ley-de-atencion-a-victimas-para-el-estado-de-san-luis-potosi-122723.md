@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-atencion-a-victimas-para-el-estado-de-san-luis-potosi-12
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-28"
-last_updated: "2017-07-28"
+last_updated: "2020-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 28 de julio de 2017.
 
@@ -1179,7 +1179,9 @@ Para ser Comisionado Ejecutivo se requiere:
 
 I. Ser ciudadano mexicano;
 
-II. No haber sido condenado por la comisión de un delito doloso o inhabilitado como servidor público;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
+
+II. No estar inhabilitado como servidor público;
 
 III. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en sociedad civil o académicas relacionadas con la materia de esta Ley, por lo menos en los dos años previos a su designación;
 
@@ -2225,7 +2227,9 @@ II. Ser licenciado en derecho o abogado, con cédula profesional expedida por la
 
 III. Aprobar los exámenes de ingreso, y
 
-IV. No haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
+
+IV. No estar inhabilitado como servidor público;
 
 ###### ARTÍCULO 175.
 
@@ -2247,9 +2251,13 @@ I. Ser ciudadano mexicano y estar en pleno ejercicio de sus derechos;
 
 II. Acreditar experiencia de tres años en el ejercicio de la abogacía, relacionada especialmente, con las materias afines a sus funciones; y poseer, al día de la designación, título y cédula profesional de licenciado en derecho o abogado, expedido por la autoridad o institución legalmente facultada para ello con antigüedad mínima de cinco años computada al día de su designación, y
 
-III. Gozar de buena reputación, prestigio profesional y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año. Empero, si se tratare de ilícitos como el robo, fraude, falsificación, abuso de confianza u otro que lesione seriamente la reputación de la persona en el concepto público, inhabilitará a ésta para ocupar el cargo cualquiera que haya sido la penalidad impuesta.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
 
-La Comisión Ejecutiva Estatal procurará preferir, en igualdad de circunstancias, a quien haya desempeñado los cargos de Asesor Jurídico, defensor público o similar.
+III. No estar inhabilitado como servidor público.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE MARZO DE 2020)</small>
+
+La Comisión Ejecutiva Estatal procurará preferir, en igualdad de circunstancias, a quien haya desempeñado los cargos de asesor jurídico, defensor público o similar.
 
 ###### ARTÍCULO 179.
 
@@ -2376,3 +2384,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0626.- SE REFORMA (SIC) LOS ARTÍCULOS, 93 EN SU FRACCIÓN II, 174 EN SU FRACCIÓN IV, Y 178 EN SU FRACCIÓN III; Y ADICIONA AL ARTÍCULO 178 EL PÁRRAFO QUINTO, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
