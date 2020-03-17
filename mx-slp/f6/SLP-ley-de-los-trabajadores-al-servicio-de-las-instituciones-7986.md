@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2019-12-27"
+last_updated: "2020-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -947,9 +947,17 @@ II.- Ser mayor de veinticinco años;
 
 III.- (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2019)
 
-IV.- Haber cursado la educación básica.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
 
-El Presidente deberá tener título de Licenciado en Derecho con una antigüedad mínima de cinco años de ejercicio profesional y amplia experiencia en derecho laboral. Los demás miembros del Tribunal deberán ser preferentemente Licenciados en Derecho.
+IV. Haber cursado la educación superior, con una carrera afín a esta función.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2020)</small>
+
+El Presidente deberá tener título de Licenciado en Derecho o abogado, con una antigüedad mínima de cinco años de ejercicio profesional y amplia experiencia en derecho laboral.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MARZO DE 2020)</small>
+
+Los demás miembros del Tribunal deberán ser Licenciados en Derecho o abogados.
 
 ###### ARTICULO 106.
 
@@ -1321,6 +1329,22 @@ Los apoderados de las partes deberán acreditar ser abogados o licenciados en de
 
 En caso de que no se acrediten los supuestos del párrafo anterior, se requerirá al actor para que designe apoderado que satisfaga los extremos que en éste se establecen.
 
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+Para la obtención de copia simple de cualquier documento que obre en el juicio, únicamente bastará que la parte interesada o su apoderado, tengan reconocida su personalidad en los términos del presente capítulo, y lo solicite de forma escrita o verbal, sin que tenga que existir decreto judicial.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+Para obtener copia certificada, la parte interesada o su apoderado cuya personalidad tenga debidamente reconocida, debe de solicitarla mediante escrito o en audiencia, requiriéndose decreto judicial para ello.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+En ambos casos, se expedirán las copias a costa del solicitante, y así mismo, se dejará constancia en autos de su recepción.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+De igual modo, previa autorización, se podrá hacer uso de las innovaciones tecnológicas que permitan de una manera más ágil a las partes, el acceso a las constancias o autos que obran en el expediente, mediante el uso de cámaras fotográficas, grabadoras, lectores ópticos u otro medio electrónico de reproducción portátil, para copiar o reproducir el contenido de las actuaciones o resoluciones que obran en ellos. Debiendo observarse, desde luego, lo previsto en la parte final del párrafo anterior.
+
 ###### ARTICULO 142.
 
 Las autoridades acreditarán su personalidad con el nombramiento respectivo y podrán hacerse representar por medio de apoderado, quien acreditará su personalidad o su carácter, mediante simple oficio.
@@ -1423,9 +1447,11 @@ I.- Las personales, el día y hora en que se practiquen contándose de momento a
 
 II.- Las demás notificaciones, al día siguiente al de su publicación en los estrados del tribunal.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2020)</small>
+
 ###### ARTICULO 157.
 
-Las notificaciones deberán verificarse en días y horas hábiles, cuando menos con veinticuatro horas de anticipación del día y hora en que debe efectuarse la diligencia.
+Las notificaciones deberán verificarse en días y horas hábiles, cuando menos con dos días de anticipación del día y hora en que debe efectuarse la diligencia.
 
 ###### ARTICULO 158.
 
@@ -1980,3 +2006,19 @@ P.O. 27 DE DICIEMBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0621.- SE REFORMA EL ARTÍCULO 105 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis."
+
+SEGUNDO. Se derogan todas disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0634.- SE REFORMA EL ARTÍCULO 157; Y ADICIONA AL ARTÍCULO 141 CUATRO PÁRRAFOS, ÉSTOS COMO, CUARTO, QUINTO, SEXTO, Y SÉPTIMO, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LA INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
