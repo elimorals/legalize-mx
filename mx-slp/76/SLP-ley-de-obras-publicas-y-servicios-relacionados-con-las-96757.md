@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-obras-publicas-y-servicios-relacionados-con-las-96757"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-24"
-last_updated: "2019-11-12"
+last_updated: "2020-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 24 de octubre de 2013.
 
@@ -1191,7 +1191,11 @@ Las instituciones podrán realizar obra pública y servicios relacionados con la
 
 Para la contratación de obra pública a que se refiere el artículo 36 de esta Ley, los contratos podrán ser de cuatro tipos:
 
-I. Sobre la base de precios unitarios, en cuyo caso el importe de la remuneración o pago total que deba cubrirse al contratista, se hará por unidad de concepto de trabajo terminado;
+I. Sobre la base de precios unitarios, en cuyo caso el importe de la remuneración o pago total que deba cubrirse al contratista, se hará por unidad de concepto de trabajo terminado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MARZO DE 2020)</small>
+
+En los casos de obras contratadas por la modalidad de adjudicación directa a base de precios unitarios, con el objeto de verificar que se cumplan los principios establecidos en los artículos 35 y 44 de esta Ley, la institución al integrar el expediente administrativo de contratación, deberá de requerir al contratista para que presente los análisis de los precios unitarios de los conceptos de trabajo que representen el cien por ciento del monto de la propuesta, desglosando cada uno de los materiales que en él intervengan, determinados y estructurados de acuerdo con lo previsto en esta Ley y su reglamento; y el programa de barras y erogaciones calendarizadas de la ejecución del catálogo de conceptos, en donde se indique claramente la cantidad de días requeridos para la ejecución de cada uno de los conceptos de la obra;
 
 II. A precio alzado, en cuyo caso el importe de la remuneración o pago total que deba cubrirse al contratista será por los trabajos totalmente terminados y ejecutados en el plazo establecido.
 
@@ -2364,6 +2368,14 @@ SEGUNDO. Se derogan las disposiciones anteriores sobre la materia, en lo que se 
 P.O. 12 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0307.- SE REFORMAN LOS ARTÍCULOS 15, 17, 47, 186, 187, 189, 196, 218, 219, 223, 224, Y 238; Y DEROGA DEL ARTÍCULO 50 EL PÁRRAFO SEGUNDO, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto iniciará su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0624.- SE REFORMA EL ARTÍCULO 100 EN SU FRACCIÓN I, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto iniciará su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
