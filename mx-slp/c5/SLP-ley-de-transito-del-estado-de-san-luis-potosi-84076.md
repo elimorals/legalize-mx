@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2020-02-27"
+last_updated: "2020-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -1049,11 +1049,9 @@ VIII. Evitar dar marcha a su vehículo hasta que aquellos la hayan cruzado, cuan
 
 IX. Conservar la distancia de seguridad entre vehículo y vehículo, la cual es directamente proporcional a la velocidad de desplazamiento, tomando en cuenta las condiciones del camino y del vehículo, y
 
-(NOTA: EL 22 DE AGOSTO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 51/2018, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE MAYO DE 2018, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2018)</small>
-
-X. Abstenerse de conducir vehículos en estado de ebriedad, con aliento alcohólico, o en cualquier estado de intoxicación; O QUE AL CONDUCIR DESVÍE SU ATENCIÓN POR UN DISTRACTOR, EN LOS TÉRMINOS DEL ARTÍCULO 357 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ;
+X. Abstenerse de conducir vehículos en estado de ebriedad, o con aliento alcohólico, o que al conducir desvíe su atención por un distractor, o se encuentre en cualquier estado de intoxicación, alteración psicofísica, o de substancias psicotrópicas, estupefacientes, incluyendo medicamentos con este efecto y de todos aquellos fármacos cuyo uso afecte su capacidad para conducir. La prescripción médica no exime la prohibición;
 
 (NOTA: EL 22 DE AGOSTO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 51/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN, DE LA FRACCIÓN X BIS DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE AGOSTO DE 2019, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -1061,13 +1059,17 @@ X. Abstenerse de conducir vehículos en estado de ebriedad, con aliento alcohól
 
 X Bis. EVITAR UTILIZAR EL TELÉFONO CELULAR O CUALQUIER DISPOSITIVO MÓVIL QUE DISTRAIGA SU ATENCIÓN AL CONDUCIR;
 
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2020)</small>
+
+XI. Abstenerse de arrojar basura, substancias o cualquier objeto a la vía pública; así como sacar del vehículo parte de su cuerpo u objetos;
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2016)</small>
 
-XI. En las vías públicas obligatoriamente, dar paso preferente a los vehículos de emergencia, y no seguirlos, ni detenerse o estacionarse a una distancia que pueda significar riesgo o entorpecimiento de la actividad del personal de auxilio, limitándose solamente a disminuir o detener la velocidad para cederles el paso y
+XII. En las vías públicas obligatoriamente, dar paso preferente a los vehículos de emergencia, y no seguirlos, ni detenerse o estacionarse a una distancia que pueda significar riesgo o entorpecimiento de la actividad del personal de auxilio, limitándose solamente a disminuir o detener la velocidad para cederles el paso y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2016)</small>
 
-XII. Las demás que señalen las disposiciones jurídicas y administrativas aplicables.
+XIII. Las demás que señalen las disposiciones jurídicas y administrativas aplicables.
 
 ### Capítulo III. De las Escuelas de Manejo
 
@@ -1742,3 +1744,11 @@ P.O. 27 DE FEBRERO DE 2020.
 PRIMERO. Este Decreto entrará en vigor dentro de los ciento ochenta días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0622.- SE REFORMA EL ARTÍCULO 72 EN SU FRACCIÓN X; Y ADICIONA AL MISMO ARTÍCULO 72 UNA FRACCIÓN, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
