@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-defensoria-publica-del-estado-de-san-luis-potosi-1025
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-17"
-last_updated: "2018-10-02"
+last_updated: "2020-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 17 de septiembre de 2014.
 
@@ -321,7 +321,7 @@ III. Ser abogado titulado o licenciado en derecho, con titulo y cédula profesio
 
 IV. Acreditar conocimientos y habilidades en el Sistema Penal Acusatorio;
 
-V. No haber sido condenado o condenada con sentencia definitiva que imponga pena privativa de libertad por delito doloso, y
+V. (DEROGADA, P.O. 17 DE MARZO DE 2020)
 
 VI. Tener residencia efectiva en el Estado durante los dos años anteriores al día de su nombramiento.
 
@@ -367,7 +367,7 @@ II. Haber cumplido por lo menos veinticinco años de edad a la fecha de su desig
 
 III. Ser abogada o abogado titulado, o licenciado en derecho, con titulo y cédula profesional expedida por autoridad competente, así como acreditar experiencia en el ejercicio profesional de cuando menos dos años;
 
-IV. No haber sido condenado con sentencia definitiva que imponga pena privativa de libertad por delito doloso, y
+IV. (DEROGADA, P.O. 17 DE MARZO DE 2020)
 
 V. Tener residencia efectiva en el Estado durante los dos años anteriores al día de su nombramiento.
 
@@ -421,7 +421,7 @@ III. Ser abogada o abogado titulado, o licenciado en derecho, con titulo y cédu
 
 IV. Acreditar conocimientos y habilidades en el sistema penal acusatorio;
 
-V. No haber sido condenada o condenado con sentencia definitiva que imponga pena privativa de libertad por delito doloso, y
+V. (DEROGADA, P.O. 17 DE MARZO DE 2020)
 
 VI. Tener residencia efectiva en el Estado durante los dos años anteriores al día de su nombramiento.
 
@@ -543,7 +543,7 @@ II. Haber cumplido por lo menos 25 años de edad a la fecha de su designación;
 
 III. Contar con título expedido por universidad o institución debidamente reconocida, y con cédula profesional expedida por autoridad competente como Contador Público, Licenciado en Administración, o en Derecho o carrera similar, así como acreditar experiencia en el ejercicio profesional de por lo menos dos años anteriores al día de su nombramiento;
 
-IV. No haber sido condenada o condenado por sentencia definitiva que imponga pena privativa de libertad por delito doloso, y
+IV. (DEROGADA, P.O. 17 DE MARZO DE 2020)
 
 V. Tener residencia efectiva en el Estado durante los dos años anteriores al día de su nombramiento.
 
@@ -609,7 +609,7 @@ III. Ser abogada o abogado, o licenciado en derecho, con titulo y cédula profes
 
 IV. Acreditar experiencia en el ejercicio profesional de por lo menos dos años anteriores al día de su nombramiento;
 
-V. No haber sido condenada o condenado por sentencia definitiva que imponga pena privativa de libertad por delito doloso, y
+V. (DEROGADA, P.O. 17 DE MARZO DE 2020)
 
 VI. Tener residencia efectiva en el Estado durante los dos años anteriores al día de su nombramiento.
 
@@ -715,7 +715,7 @@ III. Ser abogada o abogado; o licenciado en derecho, con titulo y cédula profes
 
 IV. Las y los defensores que se encuentren asignados en materia penal; y en justicia penal para adolescentes, deberán contar con los conocimientos técnicos y especializados en el Sistema Integral de Justicia Penal para Adolescentes;
 
-V. No haber sido condenada o condenado por sentencia definitiva que imponga pena privativa de libertad por delito doloso, y
+V. (DEROGADA, P.O. 17 DE MARZO DE 2020)
 
 VI. Tener residencia efectiva en el Estado durante los dos años anteriores al día de su nombramiento.
 
@@ -831,7 +831,7 @@ Para ser Perito de la Defensoría se requiere:
 
 I. Contar con el conocimiento en las diversas artes, ciencias, profesiones u oficios, que requieran conocimientos especiales;
 
-II. Gozar de buena reputación y no haber sido condenado, ejecutoramente por delito que amerite pena corporal de más de un año de prisión;
+II. (DEROGADA, P.O. 17 DE MARZO DE 2020)
 
 III. Contar, en su caso, con título, diploma o constancia de la profesión, ciencia, arte u oficio de que se trate;
 
@@ -875,7 +875,7 @@ III. Tener cuando menos veinticinco años cumplidos el día de la designación;
 
 IV. Acreditar que cuenta con las aptitudes, conocimientos, habilidades, destrezas y experiencia suficiente para desempeñar las funciones de mediación, con calidad y eficiencia;
 
-V. Gozar de buena reputación y no haber sido condenada o condenado, ejecutoriamente por delito que amerite pena corporal de más de un año de prisión, y
+V. (DEROGADA, P.O. 17 DE MARZO DE 2020)
 
 VI. Estar inscrita o inscrito en el Registro Estatal de Facilitadores, Centros Públicos y Privados.
 
@@ -901,7 +901,7 @@ III. Tener cuando menos veinticinco años cumplidos el día de la designación;
 
 IV. Acreditar que cuenta con las aptitudes, conocimientos, habilidades, destrezas y experiencia suficiente para desempeñar su función, y
 
-V. Gozar de buena reputación y no haber sido condenada o condenado, por sentencia ejecutoria por delito que amerite pena corporal de más de un año de prisión.
+V. (DEROGADA, P.O. 17 DE MARZO DE 2020)
 
 ###### Artículo 62.
 
@@ -1088,3 +1088,11 @@ P.O. 2 DE OCTUBRE DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0630.- SE DEROGA DE LOS ARTÍCULOS, 18 LA FRACCIÓN V, 21 LA FRACCIÓN IV, 24 LA FRACCIÓN V, 33 LA FRACCIÓN IV, 39 LA FRACCIÓN V, 45 LA FRACCIÓN V, 56 LA FRACCIÓN II, 59 LA FRACCIÓN V, Y 61 LA FRACCIÓN V, DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
