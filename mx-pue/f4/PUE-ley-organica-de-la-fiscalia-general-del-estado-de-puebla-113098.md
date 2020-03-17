@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-fiscalia-general-del-estado-de-puebla-113098
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-02-20"
-last_updated: "2020-01-23"
+last_updated: "2020-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
 
 Ley publicada en la Tercera Edición Extraordinaria del Periódico Oficial del Estado de Puebla, el sábado 20 de febrero de 2016.
 
@@ -65,13 +65,37 @@ Para la investigación de los delitos, corresponde al Ministerio Público el man
 
 Por conducción se entiende la dirección jurídica que ejerce el Ministerio Público sobre las instituciones policiales en la investigación de hechos que pueden ser constitutivos de delito. Por mando se entiende la facultad del Ministerio Público de ordenar a las instituciones policiales actos de investigación y de operación.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 4.
 
-El Ministerio Público se organizará en una Fiscalía General del Estado, como órgano público autónomo, dotado de personalidad jurídica y de patrimonio propios.
+La Institución del Ministerio Público se organizará en una Fiscalía General del Estado, como órgano público autónomo, dotado de personalidad jurídica y de patrimonio propios.
 
-La Fiscalía General del Estado de Puebla gozará de autonomía técnica y de gestión para su administración presupuestaria y para el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones, y para imponer las sanciones administrativas que establezca esta Ley y su Reglamento.
+La Fiscalía General del Estado de Puebla, gozará de autonomía técnica y de gestión para su administración presupuestaria y para el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones, y para imponer las sanciones administrativas que establezcan esta Ley y su Reglamento.
 
-Ejercerá sus facultades atendiendo a la satisfacción del interés de la sociedad, y sus servidores públicos se regirán por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+La Fiscalía General del Estado ejercerá sus facultades atendiendo la satisfacción del interés de la sociedad, y sus servidores públicos se regirán por los siguientes principios:
+
+I. De Legalidad: La observancia estricta de las disposiciones legales a que se encuentra sujeta la actuación de los integrantes de las instituciones de seguridad pública;
+
+II. Objetividad: La actuación basada en elementos que puedan acreditar plenamente el cumplimiento de los supuestos previstos en las leyes, sin prejuzgar o atender a apreciaciones particulares carentes de sustento;
+
+III. Eficiencia: La capacidad de los integrantes de las instituciones de seguridad pública, para lograr que su actuación permita obtener los resultados institucionales en el desempeño del servicio;
+
+IV. Profesionalismo: El resultado de las distintas etapas de formación, actualización, promoción, especialización y alta dirección, que permite a los integrantes de las instituciones de seguridad pública los más altos estándares de desempeño y desarrollar al máximo sus competencias, capacidades y habilidades;
+
+V. Honradez: La cualidad con la que se designa a aquella persona que se muestra, tanto en su obrar como en su manera de pensar, como justa, recta e íntegra, con la cual procede en todos sus actos; virtud a ello, los integrantes de las instituciones de seguridad pública se apegarán en todo a la verdad y rechazarán todo acto que signifique corrupción y cualquier tipo de desvío en el cumplimiento de sus funciones;
+
+VI. Respeto a los derechos humanos: El aprecio por parte de los integrantes de las instituciones de seguridad pública, a los derechos establecidos o reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que México forme parte y en la Constitución Política del Estado Libre y Soberano de Puebla, por lo que no ejecutarán ni tolerarán que se ejecuten actos que los trasgredan en modo alguno, aun cuando provengan de órdenes superiores;
+
+VII. Accesibilidad: La creación las condiciones necesarias de accesibilidad y atención de las personas con alguna discapacidad;
+
+VIII. Debida diligencia: Garantizar el acceso a la justicia mediante la debida investigación de los hechos para su esclarecimiento, identificar a los responsables, ejercitar acción penal y velar por una adecuada y debida reparación integral a favor de la víctima;
+
+IX. Interculturalidad: La inclusión equitativa de diversas culturas a través del diálogo y respeto mutuo;
+
+X. Perspectiva de género: La aplicación la metodología y mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, para crear condiciones de cambio que permitan construir la igualdad de género, y
+
+XI. Perspectiva de niñez y adolescencia: Respetar el interés superior del menor a través de las diversas acciones para garantizar el pleno ejercicio del derecho de los niños, niñas y adolescentes.
 
 ###### ARTÍCULO 5.
 
@@ -353,65 +377,93 @@ XXIII. Expedir, previa solicitud y pago de derechos, las constancias de identifi
 
 XXIV. Las demás que prevean otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 9.
 
-La Fiscalía General, para el despacho de los asuntos que le competen, estará integrada por:
+La Fiscalía General, para el despacho de asuntos que le competen, estará integrada por:
 
-I. Las Fiscalías Generales o Especializadas siguientes, más las que en su caso establezca el Reglamento:
+A) Unidades Administrativas:
 
-a) Fiscalía de Asuntos Jurídicos y Derechos Humanos;
+I. La Fiscalía especializada en Derechos Humanos;
 
-b) Fiscalía de Investigación Metropolitana;
+II. La Fiscalía de Investigación Metropolitana;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+III. La Fiscalía de Investigación Regional;
 
-c) Fiscalía de Investigación Regional;
+IV. La Fiscalía Especializada en Investigación de los Delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+V. La Fiscalía Especializada en Investigación de Secuestro y Extorsión;
 
-d) Fiscalía de Secuestro y Delitos de Alto Impacto; y
+VI. La Fiscalía Especializada de Combate a la Corrupción;
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+VII. La Fiscalía Especializada en Investigación de Delitos Electorales;
 
-e) Fiscalía Especializada de Combate a la Corrupción.
+VIII. La Fiscalía Especializada en Investigación de Delitos de Alta Incidencia;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+IX. La Fiscalía Especializada en Investigación de Delitos de Violencia de Género Contra las Mujeres;
 
-II. La Agencia Estatal de Investigación como la institución policial de la Fiscalía General;
+X. La Fiscalía Especializada de Asuntos internos;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+XI. La Oficina del Fiscal General;
 
-III. El Instituto de Ciencias Forenses, con atribuciones para la aplicación de conocimientos técnicos, artísticos y científicos cuya percepción y entendimiento escapa a las aptitudes del común de la gente, y las que determine el Reglamento;
+XII. La Oficialía Mayor;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+XIII. La Agencia Estatal de Investigación;
 
-IV. El Instituto de Formación Profesional, el cual además de las facultades que establezca el Reglamento podrá emitir certificados que avalen los conocimientos especializados de los integrantes de la Fiscalía General, entre estos, los que requiere la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes;
+XIV. El Instituto de Ciencias Forenses;
 
-> <small>(REFORMADA [N, DE E, ADICIONADA], P.O. 29 DE DICIEMBRE DE 2017)</small>
+XV. El Órgano Interno de Control;
 
-V. El Órgano Interno de Control y Visitaduría con las funciones que establezca esta ley, su Reglamento y la legislación aplicable en materia de responsabilidades administrativas;
+XVI. La Visitaduría General;
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+XVII. El Instituto de Formación Profesional;
 
-VI. La Comisión de Honor y Justicia, como la instancia colegiada que resolverá las controversias que se susciten con relación al régimen disciplinario de los agentes investigadores.
+XVIII. La Coordinación General de Mecanismos Alternativos de Solución de Controversias en Materia Penal;
 
-El régimen disciplinario de los agentes investigadores comprende el respeto a los derechos humanos, a las jerarquías, el escrupuloso cumplimiento a las leyes y a sus obligaciones legales y administrativas.
+XIX. La Coordinación General de Colaboración Interinstitucional;
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+XX. La Coordinación General de Estadística y Sistemas de Información;
 
-VII. La Comisión del Servicio Profesional de Carrera, encargada de los procedimientos del servicio profesional de carrera de los agentes investigadores, peritos y agentes del Ministerio Público de la Fiscalía General, en los términos que establecen las disposiciones generales del Sistema Nacional de Seguridad Pública para estos órganos colegiados y las que describa el Reglamento, y
+XXI. La Coordinación General de Gestión Documental Institucional;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2017)</small>
+XXII. La Coordinación General de Asuntos Jurídicos;
 
-VIII. Los demás órganos y unidades administrativas que establezca el Reglamento o el Fiscal General, mediante acuerdo.
+XXIII. La Coordinación General de Servicios a la Comunidad;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+XXIV. La Dirección General de Seguridad Institucional;
+
+XXV. La Dirección General de Planeación Institucional;
+
+XXVI. La Dirección General de Comunicación Estratégica y Vinculación Social;
+
+XXVII. La Unidad Especializada en Materia de Extinción de Dominio, y
+
+XXVIII. La Unidad de Transparencia.
+
+B) Órganos que le auxiliarán en el ejercicio de sus funciones:
+
+I. El Consejo de Profesionalización que se encargará de los procedimientos del Servicio Profesional de Carrera de los Agentes del Ministerio Público, Agentes Investigadores, Peritos, Facilitadores y Analistas de Información de la Fiscalía General, en los términos que establezcan las disposiciones generales del Sistema Nacional de Seguridad Pública para estos órganos colegiados y las que describa el Reglamento;
+
+II. La Comisión de Honor y Justicia, como la instancia colegiada, que resolverá las controversias que se susciten con relación al régimen disciplinario de los Agentes de Investigación;
+
+El régimen disciplinario de los policías de investigación y persecución de los delitos comprende el respeto a los derechos humanos, a las jerarquías, el cumplimiento a las leyes y a sus obligaciones legales y administrativas, y
+
+III. El Consejo Consultivo de la Fiscalía General del Estado que se encargará de apoyar al Titular de la Fiscalía General del Estado mediante estudios, proyectos y opiniones para el mejoramiento permanente de su organización, procedimientos y desempeño.
+
+La Fiscalía General del Estado contará con las demás unidades administrativas y órganos que establezca el Reglamento o determine el Fiscal General mediante acuerdo.
+
+Las Unidades Administrativas a que refiere este artículo tendrán las atribuciones previstas en el Reglamento de esta Ley y en el Reglamento Interior de la Fiscalía General.
+
+El régimen disciplinario de los policías de investigación y persecución de delitos comprende el respeto a los derechos humanos, a las jerarquías, el cumplimiento a las leyes y a sus obligaciones legales y administrativas; (sic)
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 10.
 
-Los titulares de los órganos o unidades administrativas a que se refiere el artículo anterior deberán reunir los requisitos que se establezcan en el Reglamento de esta Ley y demás disposiciones aplicables, y serán nombrados y removidos por el Fiscal General, con excepción del nombramiento del o la Titular del Órgano Interno de Control y Visitaduría, el cual es facultad del Congreso del Estado en términos de la Constitución del Estado. El Reglamento determinará en qué casos el titular de alguna unidad tendrá, por ese hecho, carácter de agente del Ministerio Publico.
+Las personas titulares de los órganos o unidades administrativas a que se refiere el artículo anterior deberán reunir los requisitos que se establezcan en el Reglamento de esta Ley y demás disposiciones aplicables, y serán nombrados y removidos por el Fiscal General, con excepción del nombramiento de la persona Titular del Órgano Interno de Control, el cual es facultad del Congreso del Estado en términos de la Constitución Política del Estado Libre y Soberano de Puebla. El Reglamento determinará en qué casos el titular de alguna unidad tendrá, por ese hecho, carácter de agente del Ministerio Público.
 
-El nombramiento y remoción de los titulares de las fiscalías a que se refiere la fracción I artículo 9 de la presente Ley podrá ser objetado por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de conformidad con lo previsto en el artículo 98 de la Constitución del Estado, en el plazo de diez días hábiles contados a partir de la notificación de los nombramientos que haga el Fiscal General al Congreso del Estado.
+El nombramiento y remoción de las personas titulares de las fiscalías a que se refiere el artículo 9 fracciones I a X del Apartado A), de la presente Ley podrá ser objetado por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de conformidad con lo previsto en el artículo 98 de la Constitución del Estado, en el plazo de diez días hábiles contados a partir de la notificación de los nombramientos que haga el Fiscal General al Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -821,13 +873,37 @@ Sin perjuicio de otros requisitos previstos en las disposiciones aplicables, ser
 
 ### CAPÍTULO VIII. DEL SERVICIO PROFESIONAL DE CARRERA
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 33.
 
-El servicio profesional de carrera es el conjunto de procesos tendientes a generar bases y condiciones para el crecimiento y desarrollo profesional y humano del personal de la Fiscalía General, cuya finalidad es la de propiciar la estabilidad basada en el rendimiento y el cumplimiento legal de sus funciones dentro de la Institución, así como reforzar el compromiso ético, sentido de pertenencia e identidad institucional de dicho personal y comprenderá lo relativo al Ministerio Público, peritos y agentes investigadores.
+El servicio profesional de carrera es el conjunto de procesos tendientes a generar bases y condiciones para el crecimiento y desarrollo profesional y humano del personal de la Fiscalía General, cuya finalidad es la de propiciar la mejora continua basada en el rendimiento y el cumplimiento legal de sus funciones dentro de la Institución, así como reforzar el compromiso ético, sentido de pertenencia e identidad institucional de dicho personal y comprenderá lo relativo al Ministerio Público, peritos y agentes investigadores, sujeto a los principios de transparencia, imparcialidad, equidad, integridad, legalidad, honradez, lealtad, eficiencia, eficacia y economía.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+El servicio profesional de carrera se sustentará en los principios de máxima especialidad, vocación de servicio y debida diligencia; basados en los principios establecidos en el párrafo que antecede y el respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos. Tendrá como objetivos la preparación, competencia, capacidad y superación constante del personal en tareas de Procuración de Justicia.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+El principio de máxima especialidad se basa en la preparación y formación de los miembros del servicio profesional de carrera mediante la capacitación, actualización, especialización, certificación y experiencia profesional adquirida en el ejercicio de sus funciones.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+El principio de vocación de servicio como práctica constante del servidor público caracterizada por involucrarse en su trabajo para desempeñar más y mejor sus actividades, para ser más eficiente y eficaz, así como contribuir al mejor desarrollo de las tareas de procuración de justicia en favor de la sociedad.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+El principio de debida diligencia en el actuar del servidor público se caracteriza por la calidad y excelencia del trabajo realizado con la obligación de servir a la sociedad en el marco de los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+Para asegurar la vigencia de estos principios, la Fiscalía General del Estado instaurará un Sistema de Evaluación Integral del Desempeño, que garantice el desarrollo profesional de sus integrantes, el cual se integrará de conformidad con el Reglamento de esta Ley.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 Esta Ley y el reglamento del servicio profesional de carrera de la Fiscalía General establecerán las normas y procedimientos que lo regirán y comprenderán las etapas del ingreso, desarrollo y terminación del servicio, y en éstas, los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, estímulos, promoción y reconocimiento; así como la separación o baja del servicio.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 La Fiscalía General, a través de la Comisión del Servicio Profesional de Carrera, intervendrá en la aplicación de las reglas y procesos a que se refiere este artículo.
 
@@ -943,63 +1019,131 @@ V. Las demás que determine el Reglamento de esta Ley y las normas aplicables.
 
 Los servidores públicos de la Fiscalía General estarán sujetos al contenido de esta Ley, y en lo que no se apongan a ésta, por lo dispuesto en la legislación aplicable en materia de responsabilidades administrativas y demás ordenamientos aplicables.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 40.
 
-El Órgano Interno de Control y Visitaduría a que se refiere el artículo 9, fracción V de esta Ley, con independencia de las facultades que le otorgue el Reglamento, será el encargado de la supervisión, inspección y control de la actuación de los servidores públicos de la Fiscalía General, así como de la investigación, substanciación y aplicación de sanciones administrativas, con excepción de la aplicación de sanciones a los agentes investigadores.
+El Órgano Interno de Control es un órgano, que tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de la Fiscalía General del Estado y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado de Puebla; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada de Asuntos Internos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE MARZO DE 2020)</small>
 
-Tratándose de agentes investigadores, la ejecución de las sanciones por el incumplimiento de alguna de sus obligaciones, conforme a las disposiciones legales que les apliquen, será en términos de las resoluciones que emita la Comisión de Honor y Justicia. El superior jerárquico será quien determine y ejecute las sanciones por faltas disciplinarias no graves.
+Serán facultades del Órgano Interno de Control las siguientes:
 
-> <small>(ADICIONADO [N. DE E. REFORMADO ESTE PÁRRAFO Y REUBICADO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
 
-El Órgano Interno de Control y Visitaduría tendrá a su cargo:
+I. Las que contempla la Ley General de Responsabilidades Administrativas y la Ley General del Sistema Nacional Anticorrupción;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
 
-I. Vigilar el cumplimiento de las obligaciones a cargo de los servidores públicos de la Fiscalía General, establecidas en esta Ley, en la legislación aplicable en materia de responsabilidades administrativas y las demás disposiciones aplicables;
+II. Verificar que el ejercicio de gasto de la Fiscalía General se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
 
-II. Investigar, sustanciar y, en su caso, resolver los procedimientos de responsabilidades administrativas de los servidores públicos de la Fiscalía General que sean de su competencia, de conformidad con esta Ley y la legislación aplicable en materia de responsabilidades administrativas;
+III. Realizar auditorías, revisiones, evaluaciones y presentar al Fiscal General, los informes correspondientes con el objeto de examinar, fiscalizar y promover la eficiencia, eficacia y la legalidad en su gestión y encargo, así como emitir recomendaciones;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
 
-III. Llevar a cabo la supervisión, inspección y control de los fiscales, agentes del Ministerio Público, agentes investigadores, peritos, y demás servidores públicos de la Fiscalía General en lo que se refiere a las funciones del Ministerio Publico que realicen, en los términos que señale el Reglamento de esta Ley;
+IV. Revisar que las operaciones presupuestales que realice la Fiscalía, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
 
-IV. Investigar, sustanciar y resolver las quejas o denuncias que se presenten por el incumplimiento de las obligaciones de los servidores públicos a que se refiere la fracción I de este artículo y para ello podrá hacer uso de los medios de apremio que establezca la legislación aplicable en materia de responsabilidades administrativas;
+V. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
 
-V. Realizar la supervisión, inspección, fiscalización y control de la administración de los recursos humanos y materiales de la Fiscalía General;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
 
-VI. Revisar el manejo, la custodia y la aplicación de los recursos que integran el patrimonio de la Fiscalía General, conforme a las disposiciones que al efecto establezca el Reglamento de esta Ley;
+VI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de la Fiscalía General;
 
-VII. Evaluar los resultados de la gestión financiera de la Fiscalía General;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
 
-VIII. Practicar auditorías para verificar el cumplimiento de los objetivos y las metas de los programas institucionales, de conformidad con los lineamientos técnicos, criterios, procedimientos y sistemas que al efecto expida; y
+VII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos de la Fiscalía General, empleando la metodología que determine;
 
-IX. Las demás que determine el Reglamento.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+VIII. Recibir quejas y denuncias conforme a las leyes aplicables;
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
+
+IX. Solicitar la información y efectuar visitas a las áreas y órganos de la Fiscalía General para el cumplimento de sus funciones;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2020)</small>
+
+X. Ejercer en el ámbito de la Fiscalía General, en lo que resulte conducente, las facultades de vigilancia y de responsabilidades administrativas, en materia de adquisiciones, arrendamientos y servicios;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2020)</small>
+
+XI. Intervenir en los actos de entrega-recepción de los servidores públicos de la Fiscalía General del Estado en los términos de la normativa aplicable;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2020)</small>
+
+XII. Participar, conforme a las disposiciones vigentes, en los comités y órganos de los que el Órgano Interno de Control forme parte, e intervenir en los actos que se deriven de los mismos;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2020)</small>
+
+XIII. Formular el anteproyecto de presupuesto del Órgano Interno de Control;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2020)</small>
+
+XIV. Presentar al Fiscal General los informes, previo y anual, de resultados de su gestión;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2020)</small>
+
+XV. Presentar al Fiscal General los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2020)</small>
+
+XVI. Emitir el Código de Ética de los servidores públicos de la Fiscalía General y las Reglas de Integridad para el ejercicio de la procuración de justicia;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2020)</small>
+
+XVII. Establecer mecanismos, en coordinación con las áreas competentes, que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2020)</small>
+
+XVIII. Vigilar, en colaboración con las autoridades competentes el cumplimiento de las normas de control interno, fiscalización, integridad, transparencia, rendición de cuentas, acceso a la información y combate a la corrupción en la Fiscalía General, y
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2020)</small>
+
+XIX. Las demás que señalen las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+ARTÍCULO 40 BIS. La Visitaduría General es el órgano encargado de la supervisión, inspección y control de las actuaciones de los servidores públicos de la Fiscalía General.
+
+La Visitaduría General tendrá a su cargo, verificar que las y los servidores públicos cumplan con las obligaciones relacionadas con la función de procuración de justicia; recibir y atender las quejas y denuncias que presente la población o alguna institución contra actos de las y los servidores públicos de Fiscalía General; e investigar a las y los servidores públicos de la Institución que probablemente hayan cometido conductas irregulares en su actuación sustantiva.
+
+La Visitaduría General tendrá las funciones siguientes:
+
+I. Realizar visitas ordinarias y especiales de evaluación técnico jurídica y de seguimiento a las unidades administrativas de la Fiscalía General, con la finalidad de verificar el cumplimiento de las disposiciones legales y administrativas aplicables en la materia, así como que el desempeño de la función institucional se lleve a cabo con apego a los principios de certeza, legalidad, objetividad, imparcialidad, eficiencia, profesionalismo, honradez, lealtad, disciplina, y respeto a los derechos humanos;
+
+II. Emitir instrucciones y recomendaciones técnico-jurídicas, que subsanen las deficiencias detectadas durante las visitas practicadas, así como verificar su observancia y seguimiento;
+
+III. Formular quejas y vistas para iniciar carpetas de investigación por las conductas probablemente constitutivas de responsabilidad administrativa y de delito de los servidores públicos de la Fiscalía General, de las que tenga conocimiento con motivo de las visitas que practique y/o de las recibidas por cualquier medio;
+
+IV. Establecer criterios técnico jurídicos institucionales para contribuir al mejor desempeño de la investigación de un hecho que la ley señale como delito y de la participación en su comisión, con base en los resultados de las evaluaciones, y
+
+V. Las demás que establezca el Reglamento de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 41.
 
-Las resoluciones que emitan el Órgano Interno de Control y Visitaduría y la Comisión de Honor y Justicia en las que se imponga una sanción a los servidores públicos de la Fiscalía General, serán definitivas e inatacables.
-
-Los procedimientos para la imposición de las sanciones administrativas deben apegarse a los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material, respeto de los derechos humanos, presunción de inocencia, exhaustividad y de audiencia, defensa, igualdad, celeridad y sana crítica.
-
-###### ARTÍCULO 42.
-
-El Órgano Interno de Control y Visitaduría tendrá libre acceso a los expedientes, documentos e información que se encuentren bajo la autoridad o custodia de los servidores públicos de la Fiscalía General a quienes practique una investigación o auditoría, así como a las instalaciones correspondientes, el equipo y los elementos que ahí se encuentren, de conformidad con lo dispuesto en esta Ley, su Reglamento y las disposiciones que al efecto emita el Fiscal General.
+Las resoluciones que emitan el Órgano Interno de Control y la Comisión de Honor y Justicia en las que se imponga una sanción a los servidores públicos de la Fiscalía General, serán definitivas y procederá el recurso que prevea la Ley.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
+Los procedimientos para la imposición de las sanciones administrativas deben apegarse a los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material, respeto de los derechos humanos, presunción de inocencia, exhaustividad y de audiencia, defensa, igualdad, celeridad y sana crítica.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2020)</small>
+
+###### ARTÍCULO 42.
+
+El Órgano Interno de Control y la Visitaduría General tendrán libre acceso a los expedientes, documentos e información que se encuentren bajo la autoridad o custodia de los servidores públicos de la Fiscalía General a quienes practiquen una investigación, auditoría o visita de supervisión, así como a las instalaciones correspondientes, el equipo y los elementos que ahí se encuentren, de conformidad con lo dispuesto en esta Ley, su Reglamento y las disposiciones que al efecto emita el Fiscal General.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 43.
 
-La Comisión de Honor y Justicia será el órgano colegiado encargado de aplicar las sanciones por faltas a la disciplina, a las obligaciones y deberes de los agentes investigadores, contenidos en los artículos 25 y 46 de esta Ley y en la Ley General del Sistema Nacional de Seguridad Pública. Será presidida por el Fiscal General del Estado, quien expedirá la demás normatividad para la aplicación del régimen disciplinario.
+La Comisión de Honor y Justicia será el órgano colegiado encargado de aplicar las sanciones por faltas al régimen disciplinario por parte de los integrantes de la Agencia Estatal de Investigación. Estará constituida y actuará conforme lo previsto en el Reglamento del Servicio Profesional de Carrera de la Fiscalía General. Será presidida por el Fiscal General, quien expedirá la demás normatividad para la aplicación del régimen disciplinario.
 
 ###### ARTÍCULO 44.
 
@@ -1145,49 +1289,167 @@ XIX. Abstenerse de dar a conocer por cualquier medio, a quien no tenga derecho, 
 
 XX. Las demás que establezcan las disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+ARTÍCULO 46 BIS. El régimen disciplinario de los agentes investigadores comprende el respeto a los derechos humanos, a las jerarquías, el escrupuloso cumplimiento a las leyes y a sus obligaciones legales y administrativas.
+
+Se entenderán por faltas no graves al régimen disciplinario, las conductas de indisciplina cometidas por los integrantes de la Agencia Estatal de Investigación que afecten directamente la honorabilidad del servicio prestado.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+ARTÍCULO 46 TER. Son faltas no graves al régimen disciplinario, las siguientes:
+
+I. Desobedecer sin causa justificada las órdenes dictadas por sus superiores jerárquicos, relacionadas con el servicio que tienen encomendado;
+
+II. Vejar o insultar a sus superiores, a elementos policiales del mismo grado, o en su caso, a sus subordinados;
+
+III. Asistir al servicio sin pulcritud en su persona o descuidar los documentos que se generen con motivo de sus funciones, y
+
+IV. Ausentarse del servicio, comisión o funciones encomendadas, por un periodo menor de tres días.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+ARTÍCULO 46 QUATER. La corrección disciplinaria por las faltas establecidas en el artículo 46 TER, será el arresto, el cual consistirá en la reclusión del infractor en el lugar destinado al efecto durante un tiempo determinado no mayor de 36 horas, sin que en ningún caso se le haga sufrir vejaciones, malos tratos o incomunicación. Corresponde al superior jerárquico la imposición de correcciones disciplinarias por faltas no graves al régimen disciplinario.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+ARTÍCULO 46 QUINQUIES. Los arrestos impuestos por el superior jerárquico deberán ser ordenados por escrito, fundando y motivando la medida, especificando la duración y el lugar en que habrá de cumplirse.
+
+Las personas titulares o encargados de las unidades sustantivas y administrativas estarán facultados para aplicar la corrección disciplinaria con el visto bueno del superior jerárquico que les corresponda, debiendo remitir copia de conocimiento al titular de la Agencia Estatal de Investigación, para su debida anexión al expediente administrativo del infractor.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+ARTÍCULO 46 SEXIES. Las faltas graves al régimen disciplinario, son aquellas conductas, actos u omisiones cometidos por algún integrante de la Agencia Estatal de Investigación, que además de afectar la disciplina de la corporación policial, transgreden los principios de la legalidad objetividad, eficiencia, profesionalismo, responsabilidad, honestidad y respeto a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+ARTÍCULO 46 SEPTIES. Además de las faltas graves previstas en los diferentes dispositivos legales, se considerarán como faltas graves las siguientes:
+
+I. Faltar sin causa justificada a los procesos de evaluación y certificación establecidas en la ley;
+
+II. No conducirse con apego al orden jurídico y respeto a los derechos humanos a que se refiere el artículo primero de la Constitución Política de los Estados Unidos Mexicanos;
+
+III. Ausentarse de sus labores por tres días consecutivos sin causa justificada;
+
+IV. Disponer de los bienes asegurados para beneficio propio o de terceras personas;
+
+V. No excusarse del conocimiento de los asuntos en los cuales tenga algún interés, o sus familiares, consanguíneos, en línea recta sin limitación de grado, colaterales dentro del cuarto grado, afines dentro del segundo, al cónyuge o a la persona con la que se encuentre en estado de concubinato;
+
+VI. Transmitir, publicar, enviar, difundir o comunicar, a través de las redes sociales, medios electrónicos o cualquier otro medio útil para fines distintos al ejercicio de sus funciones, información, datos, fotografías, videos, expedientes, o todo aquello que tenga relación con las funciones que desempeña o de las que tiene conocimiento, en su empleo, cargo o comisión;
+
+VII. Extraviar el arma de cargo o cualquier otro instrumento u objeto que se le haya entregado para el desempeño de sus funciones;
+
+VIII. No respetar la línea de mando, y
+
+IX. Las demás que establezcan las leyes.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+ARTÍCULO 46 OCTIES. Corresponde a la Comisión de Honor y Justicia aplicar las sanciones disciplinarias que deban imponerse a los integrantes de la Agencia Estatal de Investigación por la comisión de una falta grave al régimen disciplinario, y serán:
+
+I. Amonestación pública o privada. La amonestación es el acto por el cual se advierte al infractor e incumplir a sus obligaciones y/o funciones, previniéndolo a que se corrija. La amonestación será pública o privada a criterio de la Comisión. La acumulación de tres amonestaciones dará lugar a una suspensión;
+
+II. Suspensión. Procederá cuando el infractor haya incurrido en una falta grave al régimen disciplinario, cuya naturaleza no amerite remoción; implica la suspensión en el ejercicio del cargo y la suspensión en el goce de la remuneración correspondiente, hasta por noventa días, y
+
+III. Remoción. Es la destitución del cargo que ostente el infractor.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+ARTÍCULO 46 NONIES. Cuando con la conducta indebida se ocasione un daño patrimonial a la Fiscalía General o al Gobierno del Estado, el infractor estará obligado a resarcir el daño en los términos que determine la Comisión.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+ARTÍCULO 46 DECIES. Para la determinación e individualización de sanciones dentro del régimen disciplinario, se considerarán los criterios siguientes:
+
+I. Los antecedentes, el nivel jerárquico y las condiciones del infractor;
+
+II. La conducta observada con anterioridad al hecho que se pretende sancionar;
+
+III. Las circunstancias socioeconómicas del infractor;
+
+IV. Los perjuicios originados en el servicio;
+
+V. Las condiciones exteriores, los medios de ejecución y gravedad del hecho;
+
+VI. La antigüedad en el servicio policial, y
+
+VII. La reincidencia.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+ARTÍCULO 46 UNDECIES. La imposición de las sanciones disciplinarias que determine la Comisión de Honor y Justicia, se hará independientemente de las que correspondan por responsabilidad civil, penal o de diversa naturaleza en que incurran los integrantes de la Agencia Estatal de Investigación.
+
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ### CAPÍTULO II. DE LOS PROCEDIMIENTOS
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 47.
 
-El incumplimiento de las obligaciones a que se refiere este título, dará lugar a las sanciones que correspondan, que serán tramitadas siguiendo los procedimientos descritos en esta Ley y en la legislación aplicable en materia de responsabilidades administrativas, apegándose a las bases siguientes:
+El incumplimiento de las obligaciones a que se refiere este Título, dará lugar a las sanciones que correspondan, que serán tramitadas siguiendo los procedimientos descritos en la Ley General del Sistema Nacional de Seguridad Pública y en el Reglamento Interior de la Comisión de Honor y Justicia.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 I. La autoridad investigadora presentará ante la autoridad substanciadora un informe en el que describa los hechos relacionados con la infracción investigada, exponiendo de forma documentada con las pruebas y fundamentos, los motivos de la presunta responsabilidad del servidor público en la comisión de faltas administrativas; la substanciadora, dentro de los cinco días hábiles siguientes se pronunciará sobre su admisión, pudiendo prevenir a la autoridad investigadora para que subsane las omisiones que advierta, o que aclare los hechos narrados en el informe;
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 II. En el caso de que la autoridad substanciadora admita el informe que se describe en la fracción anterior, dictará el auto correspondiente y ordenará el emplazamiento del sujeto a procedimiento, debiendo citarlo para que comparezca personalmente a la celebración de una audiencia inicial, señalando con precisión el día, lugar y hora en que tendrá lugar dicha audiencia, así como la autoridad ante la que se llevará a cabo. Del mismo modo, le hará saber el derecho que tiene de no declarar en contra de sí mismo ni a declararse culpable; de defenderse personalmente o ser asistido por un defensor en la materia y que, de no contar con un defensor, le será nombrado un defensor de oficio;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 III. Entre la fecha del emplazamiento y la de la audiencia inicial deberá mediar un plazo no menor de diez ni mayor de quince días hábiles. El diferimiento de la audiencia sólo podrá otorgarse por causas de caso fortuito o de fuerza mayor debidamente justificadas;
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 IV. Previo a la celebración de la audiencia inicial, la autoridad substanciadora deberá citar a las demás partes que deban concurrir al procedimiento, cuando menos con setenta y dos horas de anticipación;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 V. El día y hora señalado para la audiencia inicial el sujeto a procedimiento rendirá su declaración por escrito o verbalmente, y deberá ofrecer las pruebas que estime necesarias para su defensa. En caso de tratarse de pruebas documentales, deberá exhibir todas las que tenga en su poder, o las que no estándolo, conste que las solicitó mediante el acuse de recibo correspondiente. Tratándose de documentos que obren en poder de terceros y que no pudo conseguirlos por obrar en archivos privados, deberá señalar el archivo donde se encuentren o la persona que los tenga a su cuidado para que, en su caso, le sean requeridos por la autoridad substanciadora;
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 VI. Los terceros llamados al procedimiento de responsabilidad administrativa, a más tardar durante la audiencia inicial, podrán manifestar por escrito o verbalmente lo que a su derecho convenga y ofrecer las pruebas que estimen conducentes, debiendo exhibir las documentales que obren en su poder, o las que no estándolo, conste que las solicitaron mediante el acuse de recibo correspondiente. Tratándose de documentos que obren en poder de terceros y que no pudieron conseguirlos por obrar en archivos privados, deberán señalar el archivo donde se encuentren o la persona que los tenga a su cuidado para que, en su caso, le sean requeridos;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 VII. Una vez que las partes hayan manifestado durante la audiencia inicial lo que a su derecho convenga y ofrecido sus respectivas pruebas, la autoridad substanciadora declarará cerrada la audiencia inicial, después de ello las partes no podrán ofrecer más pruebas, salvo aquellas que sean supervenientes;
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 VIII. Dentro de los quince días hábiles siguientes al cierre de la audiencia inicial, la autoridad substanciadora deberá emitir el acuerdo de admisión de pruebas que corresponda, donde deberá ordenar las diligencias necesarias para su preparación y desahogo;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 IX. Concluido el desahogo de las pruebas ofrecidas por las partes, y si no existieran diligencias pendientes para mejor proveer o más pruebas que desahogar, la autoridad substanciadora declarará abierto el periodo de alegatos por un término de cinco días hábiles comunes para las partes;
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 X. Una vez trascurrido el periodo de alegatos, la autoridad substanciadora, de oficio, declarará cerrada la instrucción y elaborará proyecto de resolución;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 XI. Tratándose de agentes investigadores, el Órgano Interno de Control y Visitaduría, a través de las unidades administrativas que lo integran, conocerá, investigará y substanciará las faltas administrativas en la Fiscalía General y será la Comisión de Honor y Justicia la que resuelva respecto del proyecto de resolución turnado por la autoridad substanciadora;
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 XII. En caso de servidores públicos distintos a la fracción anterior, el Órgano Interno de Control y Visitaduría, a través de las unidades administrativas que lo integran, conocerá, investigará, substanciará y resolverá de las faltas administrativas en la Fiscalía General;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 XIII. La autoridad resolutora que corresponda, conforme las fracciones XI y XII de este artículo, citará a las partes para oír la resolución que corresponda, la cual deberá dictarse en un plazo no mayor a treinta días hábiles, el cual podrá ampliarse por una sola vez por otros treinta días hábiles más, cuando la complejidad del asunto así lo requiera, debiendo expresar los motivos para ello, y
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 XIV. La resolución deberá notificarse personalmente al sujeto a procedimiento, en su caso, se notificará a los denunciantes únicamente para su conocimiento, y a la unidad administrativa competente, para los efectos de su ejecución, en un plazo no mayor de diez días hábiles.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2020)</small>
+
+ARTÍCULO 47 BIS. Tratándose de causas graves, relacionadas con la afectación de la dignidad de las personas o la puesta en riesgo de la integridad psicofísica de las víctimas de las conductas investigadas, si las hubiera, mediante los procedimientos a que se refiere el artículo anterior la autoridad investigadora solicitará a la substanciadora determinar la suspensión temporal del presunto infractor, retener las percepciones del mismo y dejar a salvo el pago de una cantidad mínima vital, lo anterior como medida cautelar y tendrá como finalidad evitar afectaciones al procedimiento de investigación y permitir preservar los medios de prueba hasta la culminación y determinación de responsabilidad o absolución que corresponda.
+
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-###### ARTÍCULO 47 Bis.
-
-Tratándose de causas graves relacionadas con la afectación de la dignidad de las personas, o la puesta en riesgo de la integridad psicofísica de las víctimas de las conductas investigadas mediante los procedimientos a que se refiere el artículo anterior, la autoridad investigadora solicitará a la substanciadora determinar la suspensión temporal del presunto infractor, retener las percepciones del mismo y dejar a salvo el pago de una cantidad equivalente al salario o ingreso mínimo de subsistencia, lo anterior como medida cautelar y tendrá como finalidad evitar afectaciones al procedimiento de investigación y permitir preservar los medios de prueba, hasta la culminación y determinación de responsabilidad o absolución que corresponda.
 
 Si el servidor público suspendido provisionalmente, no resultare responsable de la falta o faltas que se le imputen, será restituido en el goce de sus derechos.
 
@@ -1289,21 +1551,9 @@ VII. El monto del beneficio derivado de la infracción que haya obtenido el resp
 
 Para el caso estricto de los agentes investigadores, la imposición de sanciones disciplinarias que determine la Comisión de Honor y Justicia se hará con independencia de las que correspondan por la responsabilidad civil o penal en que incurran.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
 ###### ARTÍCULO 50.
 
-La corrección disciplinaria a los agentes investigadores por las faltas disciplinarias no graves será el arresto, el cual consistirá en la permanencia obligatoria del infractor al interior de las áreas destinadas para ello, durante un tiempo determinado no mayor de treinta y seis horas, sin que en ningún caso se le haga sufrir vejaciones, malos tratos o incomunicación. Corresponde al superior jerárquico del infractor, a nivel de Inspector General, la imposición de correcciones disciplinarias por las faltas genéricas no graves siguientes:
-
-I. Desobedecer sin causa justificada la orden recibida de un superior jerárquico;
-
-II. Vejar o insultar a sus superiores, a agentes investigadores del mismo grado o, en su caso, a sus subordinados, o
-
-III. Asistir al servicio de forma sucia o descuidada en su persona o vestimenta.
-
-El arresto deberá ser en lugar distinto a los destinados para los indiciados que tenga el Ministerio Público a disposición por algún hecho delictivo.
-
-Los arrestos impuestos deberán ser ordenados por escrito, fundando y motivando la medida, especificando la duración y el lugar en que habrá de cumplirse, y marcar copia de conocimiento a las unidades administrativas que faculte el Reglamento para su debida inclusión al expediente administrativo del infractor.
+(DEROGADO, P.O. 17 DE MARZO DE 2020)
 
 ## TÍTULO QUINTO. DEL PATRIMONIO Y PRESUPUESTO DE LA FISCALÍA GENERAL
 
@@ -1467,6 +1717,78 @@ XXIV. Las demás que en su caso le confieran otras disposiciones legales aplicab
 
 Los delitos cometidos por los servidores públicos adscritos a la Fiscalía Especializada de Combate a la Corrupción serán investigados por la o el agente del Ministerio Público en quien delegue dicha atribución la o el Fiscal General.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE MARZO DE 2020)</small>
+
+## TÍTULO OCTAVO. PREVENCIÓN DE ACTOS DE CORRUPCIÓN
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+###### ARTÍCULO 61.
+
+La investigación y persecución de los delitos a cargo de la Fiscalía General del Estado se rige, además de los principios previstos en el artículo 4 de esta Ley, por los de lealtad, imparcialidad, equidad, transparencia, economía, integridad y competencia por mérito.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+###### ARTÍCULO 62.
+
+La Fiscalía General del Estado, establecerá una política institucional de prevención de la corrupción, que comprenderá:
+
+I. La identificación de áreas de riesgo;
+
+II. Una campaña permanente de prevención;
+
+III. La supervisión permanente del servicio de procuración de justicia;
+
+IV. La incentivación de las denuncias por corrupción, y
+
+V. La atención expedita de las quejas denuncias que se presenten.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+###### ARTÍCULO 63.
+
+Atendiendo a la estrategia de máxima desconcentración del servicio de procuración de justicia en el territorio del Estado, que satisfaga el derecho de acceso a justicia, y con el fin de prevenir actos de corrupción por los servidores públicos de la Fiscalía General del Estado, las personas titulares de las Unidades sustantivas y administrativas de la institución deberán:
+
+I. Supervisar periódica y permanentemente la actividad de las unidades a su cargo, mediante un programa específico, previamente aprobados por la persona titular de la Fiscalía General;
+
+II. Ordenar de manera periódica y permanente la rotación del personal a su cargo, mediante un programa específico previamente aprobado por la persona titular de la Fiscalía General;
+
+III. Aplicar los manuales de organización, de procedimientos y de servicios al público, en los que se precisen las funciones de todas las unidades administrativas a su cargo y las facultades y obligaciones de sus titulares e integrantes, así como el tiempo para emitir los informes, reportes, dictámenes y demás documentos o resoluciones propios de sus atribuciones;
+
+IV. Aplicar lineamientos, estrategias y acciones para la identificación oportuna de riesgos de corrupción al interior de sus Unidades, previa aprobación por la persona titular de la Fiscalía General, y en su caso, para sancionar a las y los servidores públicos, de acuerdo con la legislación aplicable;
+
+V. Proponer a la persona titular de la Fiscalía General las acciones para mejorar la atención ciudadana e incentivar la cultura de la denuncia en materia de corrupción, que incluyan la difusión del domicilio físico donde pueden presentar sus denuncias, la línea telefónica directa y el correo electrónico para la presentación de quejas o denuncias;
+
+VI. Evaluar periódicamente el desempeño del personal a su cargo, mediante el procedimiento que previamente sea aprobado por la persona titular de la Fiscalía General, y
+
+VII. Otorgar periódicamente reconocimientos y estímulos al personal que se distinga por su actitud de servicio y su desempeño eficiente y eficaz.
+
+El incumplimiento de esta obligación generará responsabilidad administrativa.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+###### ARTÍCULO 64.
+
+En su caso, las personas titulares de las unidades sustantivas y administrativas de la Fiscalía General del Estado deberán solicitar la intervención de la Visitaduría General o denunciar los hechos que correspondan a la Fiscalía Especializada en Combate a la Corrupción.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+###### ARTÍCULO 65.
+
+A ninguna persona se podrá limitar el derecho de presentar denuncia en contra de los integrantes de la Fiscalía General del Estado de Puebla.
+
+Para efecto de hacer accesible el mecanismo de denuncias la Fiscalía General, tendrá un área adscrita a la Visitaduría General, la cual podrá recibir quejas anónimas, incluso por medio electrónico. Para tal efecto, la Fiscalía General deberá crear una página o vínculo para facilitar las mismas.
+
+Así también la Fiscalía General deberá de contar con un buzón de denuncia ciudadana en todos los Distritos Judiciales en que se divida el Estado.
+
+Las denuncias deberán ser investigadas y concluidas por el Órgano Interno de Control, en un término que no exceda de cuarenta y cinco días naturales una vez presentadas y de resultar ciertas, deberán hacerse del conocimiento de la Fiscalía Especializada de Combate a la Corrupción, para efectos de dar la noticia criminal al órgano correspondiente.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+###### ARTÍCULO 66.
+
+La Fiscalía Especializada de Asuntos Internos estará a cargo de las investigaciones y el ejercicio de la acción penal en delitos cometidos por personal adscrito a los órganos sustantivos y administrativos de la Fiscalía General del Estado, en ejercicio de sus funciones, que no sean hechos de corrupción mismos que son competencia de la Fiscalía Especializada en Combate a la Corrupción.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
@@ -1544,3 +1866,19 @@ P.O. 23 DE ENERO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los asuntos que sean competencia de las nuevas Fiscalías Generales o Especializadas previstas en el artículo 9, que se encuentren actualmente en trámite, serán resueltos por la instancia que conoce de los mismos, salvo instrucción expresa del Fiscal General del Estado.
+
+CUARTO. La Fiscalía General del Estado de Puebla deberá acordar lo conducente para establecer el buzón de denuncia de funcionarios, así como proveer de los medios electrónicos para ser accesible el servicio en cada Distrito Judicial.
+
+QUINTO. Dentro del plazo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto, el Fiscal General deberá emitir el Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Puebla y dentro del plazo de noventa días naturales a partir de la emisión de este último, el Reglamento Interior de la Fiscalía General del Estado de Puebla, los cuales deberán estar armonizados con el presente Decreto.
+
+SEXTO. El Órgano Interno de Control contará con un término de noventa días naturales a partir de la entrada en vigor del presente Decreto para emitir el nuevo Código de Ética.
