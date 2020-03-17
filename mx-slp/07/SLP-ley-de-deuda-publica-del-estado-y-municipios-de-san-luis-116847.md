@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-deuda-publica-del-estado-y-municipios-de-san-luis-116847
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-06"
-last_updated: "2018-08-30"
+last_updated: "2020-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el jueves 6 de octubre de 2016.
 
@@ -261,7 +261,9 @@ IV. Sólo podrán contraer obligaciones o financiamientos cuando se destinen a i
 
 V. En ningún caso se podrán destinar empréstitos para cubrir gasto corriente;
 
-VI. Los financiamientos, empréstitos y la emisión de valores deberán atender a los objetivos y metas contenidos en los planes, estatal y municipales de desarrollo según corresponda y, en su caso, en los programas que, en términos de la legislación en materia de planeación, se emitan;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
+
+VI. Los financiamientos, empréstitos y la emisión de valores deberán atender a los objetivos y metas contenidos en los planes, estatal y municipales de desarrollo según corresponda y, en su caso, en los programas que, en términos de la legislación en materia de planeación se emitan, dando preferencia al desarrollo de la infraestructura social en las zonas con alto grado de marginación;
 
 VII. La autorización de montos o conceptos de endeudamiento en los correspondientes presupuestos de egresos y leyes de ingresos de los sujetos de esta Ley, no los autoriza para contratar financiamientos. Para tales efectos, deberán contar con la respectiva autorización del Congreso;
 
@@ -269,7 +271,9 @@ VIII. En todos los casos se procurará mantener un equilibrio financiero y un Ba
 
 IX. Los sujetos de esta Ley deberán incluir en sus respectivas leyes o presupuestos de egresos del ejercicio fiscal correspondiente, las partidas presupuestales necesarias y suficientes para cubrir en su totalidad, el pago del servicio de la deuda pública a su cargo, en el año fiscal de que se trate;
 
-X. Deberán buscarse las alternativas o modalidades de mercado que permitan obtener las mejores condiciones en cuanto a tasas de interés, comisiones y plazos, en un marco de agilidad, simplificación, ejecutividad, rentabilidad y libre competencia;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
+
+X. Deberán buscarse las alternativas o modalidades de mercado que permitan obtener las mejores condiciones en cuanto a tasas de interés, comisiones, plazos, y demás accesorios legales y contractuales derivados de las operaciones de financiamiento y empréstitos, en un marco de agilidad, simplificación, ejecutividad, rentabilidad y libre competencia;
 
 XI. Dentro de los términos de la vigencia de los financiamientos, empréstitos y emisión de valores, los sujetos de esta Ley podrán gestionar la modificación de la deuda pública, sujetándose a las disposiciones de la presente Ley;
 
@@ -547,9 +551,11 @@ La Secretaría evaluará las fuentes de financiamiento disponibles y gestionará
 
 El titular del Poder Ejecutivo, el Secretario General de Gobierno, y el Secretario de Finanzas, así como del Director General o su equivalente de la entidad, si fuera el caso, firmarán el contrato de crédito y demás documentos, cuando el Ejecutivo del Estado o alguna de sus entidades, contraten directamente el empréstito, financiamiento o emisión de valores o cuando el primero vaya de aval o deudor solidario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 21.
 
-En el caso de los ayuntamientos, entidades municipales y organismos intermunicipales, deberán presentar a la tesorería o su equivalente respectivo, lo siguiente:
+Para iniciar el procedimiento de contratación de deuda pública, en el caso de los ayuntamientos, entidades municipales y organismos intermunicipales, deberán presentar a la tesorería o su equivalente respectivo, lo siguiente:
 
 I. Las solicitudes de los empréstitos, financiamientos y de las emisiones de valores que pretendan contratar, en las que por lo menos deben contener:
 
@@ -586,6 +592,10 @@ b) Flujo de efectivo de ingresos y egresos del sujeto que pretenda contratar el 
 c) La Ley de Ingresos, y el Presupuesto de Egresos del ayuntamiento, entidad municipal o del organismo intermunicipal.
 
 d) Los proyectos de las obras o acciones a realizar con los recursos que se obtengan del empréstito, financiamiento y emisión de valores.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+e) Opinión emitida por el titular de la Auditoría Superior del Estado, del estado financiero, deuda pública y obligaciones de pago.
 
 Los requisitos a que se refiere este artículo deberán cumplirse, en lo conducente, para la autorización del Congreso, en el otorgamiento de avales o garantías que pretendan otorgar los municipios.
 
@@ -1044,3 +1054,19 @@ P.O. 30 DE AGOSTO DE 2018.
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0636.- SE REFORMA EL ARTÍCULO 9º EN SUS FRACCIONES, VI, Y X, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0637.- SE REFORMA EL ARTÍCULO 21 EN SU PÁRRAFO PRIMERO; Y ADICIONA AL MISMO ARTÍCULO 21 EN SU FRACCIÓN IV EL INCISO E), DE LA LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
