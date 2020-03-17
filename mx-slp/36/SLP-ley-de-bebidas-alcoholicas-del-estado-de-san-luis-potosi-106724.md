@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bebidas-alcoholicas-del-estado-de-san-luis-potosi-106724
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-19"
-last_updated: "2019-04-11"
+last_updated: "2020-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 19 de marzo de 2015.
 
@@ -331,7 +331,7 @@ I. Los servidores públicos estatales o municipales, que intervengan en la exped
 
 II. Los menores de edad, con excepción en los casos de ser un derecho adquirido por sucesión legítima, y siempre y cuando cuente con tutor legal;
 
-III. Quienes hayan sufrido condena por delitos sexuales, contra la vida, el patrimonio o la salud, siempre que haya sido intencional o doloso; respecto de otros delitos podrá serlo cuando haya transcurrido un año desde que se cumpliera su condena, y
+III. (DEROGADA, P.O. 17 DE MARZO DE 2020)
 
 IV. Los que hayan sido titulares de alguna licencia que se haya cancelado por violaciones a las disposiciones en la materia.
 
@@ -371,7 +371,7 @@ VIII. Dictamen técnico de la autoridad municipal;
 
 IX. Comprobante de propiedad del inmueble, o copia certificada del contrato que acredite el derecho al uso del mismo, y
 
-X. Carta de no antecedentes penales, expedida por autoridad competente, en relación a la cual, únicamente constituirá un impedimento para otorgar el permiso solicitado, que el peticionario cuente con antecedentes penales de delitos graves, consignados como tal en el Código Penal del Estado; y/o de los referentes a delitos contra la salud contemplados por el Código Penal Federal, y la Ley General de Salud.
+X. (DEROGADA, P.O. 17 DE MARZO DE 2020)
 
 En lo que respecta a las fracciones IV, VII y VIII de este artículo, el trámite lo realizará la autoridad que esté conociendo de la solicitud; la cual tendrá un término de cinco días hábiles a partir de la fecha en que recibió la misma, para pedir las opiniones o dictámenes correspondientes. Así mismo, las autoridades competentes tendrán diez días hábiles a partir de su recepción, para emitir el dictamen respectivo. En caso de que las autoridades correspondientes no emitan los dictámenes en los plazos señalados, serán sujetos de las sanciones que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
@@ -880,5 +880,13 @@ P.O. 11 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0144.- SE REFORMAN LOS ARTÍCULOS 10, 12 Y 27; Y ADICIONA A LOS ARTÍCULOS 2°, 10 Y 12, DE LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOS”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado “Plan de San Luis”
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 17 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0638.- SE DEROGA DE LOS ARTÍCULOS, 14 LA FRACCIÓN III, Y 17 LA FRACCIÓN X, DE LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
