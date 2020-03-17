@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2020-03-10"
+last_updated: "2020-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -5749,7 +5749,9 @@ ART. 1437.- Si el testador dispone legalmente sólo de una parte de sus bienes, 
 
 ART. 1438.- Tienen derecho a heredar por sucesión legítima:
 
-I.- Los descendientes, cónyuge, ascendientes, parientes colaterales dentro del cuarto grado, y en ciertos casos, la concubina y el concubinario;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
+
+I.- Las y los descendientes; cónyuge, ascendientes; parientes colaterales dentro del cuarto grado; y la concubina y el concubinario, y
 
 II.- A falta de los anteriores la Beneficencia Pública del Estado de San Luis Potosí.
 
@@ -5833,9 +5835,13 @@ ART. 1470.- A falta de los llamados en los artículos anteriores, sucederán los
 
 Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el capítulo siguiente.
 
-### CAPITULO VI. De la Sucesión de la Concubina
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MARZO DE 2020)</small>
 
-ART. 1471.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
+### CAPITULO VI. De la Sucesión de las Personas en Concubinato
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MARZO DE 2020)</small>
+
+ART. 1471.- Si el concubinato se prolonga hasta la muerte de uno de sus miembros, la concubina o el concubinario que le sobrevive, tendrá derecho a heredar en la misma proporción y condiciones de un cónyuge.
 
 ### CAPITULO VII. De la Sucesión de la Beneficencia Pública del Estado
 
@@ -10542,5 +10548,13 @@ P.O. 10 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0618.- SE REFORMA EL ARTÍCULO 2248, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0632.- SE REFORMA, EL ARTÍCULO 1438 EN SU FRACCIÓN I, EN EL TÍTULO CUARTO LA DENOMINACIÓN DEL CAPÍTULO VI, Y EL ARTÍCULO 1471, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
