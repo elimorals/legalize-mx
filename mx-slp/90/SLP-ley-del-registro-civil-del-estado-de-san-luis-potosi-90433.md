@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-civil-del-estado-de-san-luis-potosi-90433"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2019-11-26"
+last_updated: "2020-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2012.
 
@@ -199,17 +199,25 @@ X. Unidad de Actas Foráneas, y
 
 XI. Unidad Administrativa.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 18.
 
-La Dirección es el órgano al que le corresponderá organizar, dirigir y coadyuvar al funcionamiento de las oficialías del Registro Civil; así como la administración de sus áreas o unidades administrativas. Suministrará oportunamente los formatos para inscribir los actos del estado civil. Y tendrá como sede la Capital del Estado.
+La Dirección es el órgano al que le corresponderá organizar, dirigir y coadyuvar al funcionamiento de las oficialías del Registro Civil, incluyendo sus oficinas móviles; así como la administración de sus áreas o unidades administrativas. Suministrará oportunamente los formatos para inscribir los actos del estado civil. Y tendrá como sede la Capital del Estado.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
 
 La Dirección del Registro Civil expedirá las certificaciones y la versión pública de las actas y documentos que se encuentren en sus archivos, conforme a las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
+
 Asimismo, le corresponderá, en los términos previstos en esta Ley u otras disposiciones aplicables, lo relativo a la coordinación, vigilancia y supervisión del funcionamiento de las oficialías del Registro Civil.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
+
 La Dirección tendrá a su cargo el Archivo Estatal, donde se conservarán los ejemplares de los duplicados de las actas, los que deberán de integrarse en expedientes relacionados conforme al número de acta que les corresponda.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
 
 Asimismo, será parte integrante del Archivo Estatal la base de datos del Registro Civil, la cual estará conformada por los archivos electrónicos de las imágenes digitalizadas y datos capturados de los ejemplares de las actas, por lo que dichos archivos tendrán el mismo valor probatorio que los ejemplares de las actas resguardados en los libros respectivos, siempre y cuando se encuentren respaldados por la firma digitalizada del Oficial del Registro Civil ante el que se hayan levantado o, en su caso, del Director General del Registro Civil.
 
@@ -229,9 +237,9 @@ V. Acreditar práctica de al menos 3 años en el ejercicio de su profesión;
 
 VI. No ser ministro de algún culto religioso, y
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
 
-VII. No tener antecedentes penales por delitos dolosos, ni haber sido inhabilitado por procedimiento administrativo para ejercer cargo alguno.
+VII. No estar inhabilitado por procedimiento administrativo para ejercer cargo alguno.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
 
@@ -319,9 +327,9 @@ III. Tener residencia efectiva dentro del territorio del estado, no menor a dos 
 
 IV. Ser abogado, abogada, licenciado o licenciada en Derecho con título legalmente expedido y registrado, con una antigüedad mínima de dos años, en las cabeceras municipales con población mayor a 20,000 habitantes. Y en las oficialías de las comunidades, así como en las que cuenten con menos de 20,000 habitantes, en los que no se cuente con persona de esta profesión, podrá dispensarse para persona que cuente con título de cualquier carrera, o profesión afín;
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
 
-V. No tener antecedentes penales por delitos dolosos, ni haber sido inhabilitado por procedimiento administrativo para ejercer cargo alguno;
+V. No estar inhabilitado por procedimiento administrativo para ejercer cargo alguno;
 
 VI. Saber leer y escribir;
 
@@ -477,11 +485,21 @@ IV. Asentar los actos del estado civil, en formatos distintos de los que corresp
 
 V. Inquirir sobre la paternidad;
 
-VI. Autorizar actos del estado civil fuera de la jurisdicción que le corresponda, salvo autorización previa otorgada por escrito por parte de la Dirección en donde se exprese el por qué de la misma;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
 
-VII. Delegar funciones propias a los empleados administrativos a su cargo, y
+VI. Autorizar actos del estado civil fuera de la jurisdicción que le corresponda, salvo autorización previa otorgada por escrito por parte de la Dirección en donde se exprese el motivo de la misma;
 
-VIII. Litigar, por si o por interpósita persona, en asuntos en los que se genere conflicto de interés.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
+
+VII. Delegar funciones propias a los empleados administrativos a su cargo;
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
+
+VIII. Litigar, por si o por interpósita persona, en asuntos en los que se genere conflicto de interés, y
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2020)</small>
+
+IX. Negar a los migrantes, independientemente de su situación migratoria, la autorización de los actos del Estado Civil o la expedición de las actas relativas a nacimiento, reconocimiento de hijos, matrimonio, divorcio y muerte.
 
 Los demás asuntos que determinen los ordenamientos legales.
 
@@ -519,9 +537,11 @@ Serán objeto de inscripción en el Registro Civil, el nacimiento, el reconocimi
 
 Las actas correspondientes al Archivo General, y a la Oficialía, se integrarán en libros, de acuerdo a su contenido, enumerándolas progresivamente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 37.
 
-Los oficiales del Registro Civil llevarán seis libros anuales, pudiendo levantar cuantos tomos sean necesarios que se integraran por un máximo de 150 actas cada uno en los formatos autorizados por la Dirección del Registro Civil, que se denominarán "Registro Civil" y que contendrán:
+Los oficiales y la Dirección del Registro Civil llevarán seis libros anuales, pudiendo levantar cuantos tomos sean necesarios que se integrarán por un máximo de 150 actas cada uno en los formatos autorizados por la Dirección del Registro Civil, que se denominarán "Registro Civil" y que contendrán:
 
 I. Nacimiento y Reconocimiento;
 
@@ -554,6 +574,18 @@ El Director del Registro Civil, o el Oficial del mismo, dará aviso inmediatamen
 ###### ARTÍCULO 40.
 
 Los libros originales quedarán en el archivo de la oficialía bajo la custodia y responsabilidad del Oficial y los duplicados serán concentrados en el archivo de la Dirección.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+ARTÍCULO 40 BIS. La Dirección del Registro Civil podrá llevar los Libros del Registro Civil de manera electrónica.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+ARTÍCULO 40 TER. Las anotaciones que se realicen en los Libros del Registro Civil se realizarán, preferentemente, a través del sistema electrónico que implemente la Dirección del Registro Civil, salvo los casos en los que se disponga deba realizarse de forma manuscrita.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+ARTÍCULO 40 QUÁTER. La formalidad de las anotaciones a que se refiere el artículo anterior, será establecida por la Dirección del Registro Civil.
 
 ## TÍTULO CUARTO. DE LAS ACTAS DEL REGISTRO CIVIL
 
@@ -784,6 +816,10 @@ Si al dar el aviso de un nacimiento se comunicare también la muerte del recién
 ###### ARTÍCULO 79.
 
 Cuando se trate de un parto múltiple se levantará un acta por cada uno de los nacidos, haciendo constar las particularidades que los distingan, siguiendo el orden progresivo del nacimiento, según el certificado de nacimiento que expida la Secretaria de Salud o la constancia de parto que otorgue el médico cirujano o partera, debidamente registrada, así como la información que proporcionen las personas que hayan asistido al parto.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
+
+ARTÍCULO 79 BIS. En el registro de nacimientos, la verificación del documento de identidad emitido en el extranjero, podrá realizarse a través de los medios electrónicos que establezca el Registro Nacional de Población.
 
 ### CAPÍTULO III. De las actas de Reconocimiento de Hijos
 
@@ -1611,8 +1647,24 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 26 DE NOVIEMBRE DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0318.- SE REFORMAN LOS ARTÍCULOS 69 Y 72 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0318.- SE REFORMAN LOS ARTÍCULOS 69 Y 72 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0625.- SE REFORMA (SIC) LOS ARTÍCULOS, 18 EN SU PÁRRAFO PRIMERO, 33 EN SUS FRACCIONES, VI, VII Y VIII, Y 37 EN SU PÁRRAFO PRIMERO; Y ADICIONA, AL ARTÍCULO 33 LA FRACCIÓN IX, Y LOS ARTÍCULOS, 40 BIS, 40 TER, Y 40 QUÁTER, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0628.- SE REFORMA (SIC) LOS ARTÍCULOS, 19 EN SU FRACCIÓN VII, Y 26 EN SU FRACCIÓN V, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
