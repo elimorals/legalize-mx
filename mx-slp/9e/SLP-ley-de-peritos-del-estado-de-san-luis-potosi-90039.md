@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-peritos-del-estado-de-san-luis-potosi-90039"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-20"
-last_updated: "2017-12-07"
+last_updated: "2020-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PERITOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de Octubre de 2012.
 
@@ -339,7 +339,7 @@ c) Poseer cédula profesional expedida por la Dirección General de Profesiones 
 
 d) Comprobar el ejercicio actual de su profesión con una antigüedad mínima de tres años de práctica.
 
-e) Observar una conducta honesta y no haber sido condenado por delito doloso o culposo grave así señalado por la ley, mediante sentencia ejecutoria, ni estar sujeto a proceso penal.
+e) (DEROGADO, P.O. 17 DE MARZO DE 2020)
 
 f) Tener una residencia efectiva en el Estado no menor de tres años inmediatos anteriores a la fecha de la solicitud;
 
@@ -353,7 +353,7 @@ c) En su caso, poseer cédula profesional expedida por la Dirección General de 
 
 d) Comprobar el ejercicio actual de su profesión, oficio o actividad con una antigüedad mínima de tres años de práctica.
 
-e) Observar una conducta honesta y no haber sido condenado por delito doloso o culposo grave así señalado por la ley, mediante sentencia ejecutoria, ni estar sujeto a proceso penal.
+e) (DEROGADO, P.O. 17 DE MARZO DE 2020)
 
 f) Tener una residencia efectiva en el Estado no menor de tres años inmediatos anteriores a la fecha de la solicitud;
 
@@ -367,7 +367,7 @@ c) En su caso, poseer cédula profesional expedida por la Dirección General de 
 
 d) Comprobar el ejercicio actual de su profesión, oficio o actividad con una antigüedad mínima de tres años de práctica.
 
-e) Observar una conducta honesta y no haber sido condenado por delito doloso o culposo grave así señalado por la ley, mediante sentencia ejecutoria, ni estar sujeto a proceso penal.
+e) (DEROGADO, P.O. 17 DE MARZO DE 2020)
 
 f) Tener una residencia efectiva en el Estado no menor de tres años inmediatos anteriores a la fecha de la solicitud;
 
@@ -381,7 +381,7 @@ c) Tratándose de lenguas o dialectos de las etnias, se requerirá certificació
 
 d) En su caso, poseer cédula profesional expedida por la Dirección General de Profesiones dependiente de la Secretaría de Educación Pública.
 
-e) Observar una conducta honesta y no haber sido condenado por delito doloso o culposo grave así señalado por la ley, mediante sentencia ejecutoria, ni estar sujeto a proceso penal.
+e) (DEROGADO, P.O. 17 DE MARZO DE 2020)
 
 f) Tener una residencia efectiva en el Estado no menor de tres años inmediatos anteriores a la fecha de la solicitud, y
 
@@ -395,7 +395,7 @@ c) En su caso, poseer cédula profesional expedida por la Dirección General de 
 
 d) Comprobar el ejercicio actual de su profesión, oficio o actividad con una antigüedad mínima de tres años de práctica.
 
-e) Observar una conducta honesta y no haber sido condenado por delito doloso o culposo grave así señalado por la ley, mediante sentencia ejecutoria, ni estar sujeto a proceso penal.
+e) (DEROGADO, P.O. 17 DE MARZO DE 2020)
 
 f) Tener una residencia efectiva en el Estado no menor de tres años inmediatos anteriores a la fecha de la solicitud.
 
@@ -602,5 +602,13 @@ P.O. 7 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 755.- SE REFORMA EL ARTÍCULO 22, DE LA LEY DE PERITOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0631.- SE DEROGA DEL ARTÍCULO 12 EN SUS FRACCIONES I A V LOS INCISOS E), DE LA LEY DE PERITOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
