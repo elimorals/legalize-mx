@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-tribunal-estatal-de-justicia-121005"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-04-10"
-last_updated: "2017-04-10"
+last_updated: "2020-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Gobierno del Estado de San Luis Potosí, el lunes 10 de abril de 2017.
 
@@ -665,7 +665,7 @@ II. Tener al día de su nombramiento cuando menos treinta y cinco años y no má
 
 III. Tener al día de su nombramiento, título profesional de licenciado en derecho con una antigüedad mínima de diez años, expedido por autoridad o institución legalmente facultada para ello y acreditar el ejercicio profesional por el mismo tiempo;
 
-IV. Gozar de buena reputación y no haber sido condenado por delito que haya ameritado pena privativa de libertad de más de un año; pero, si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+IV. (DEROGADA, P.O. 17 DE MARZO DE 2020)
 
 V. Haber residido en el Estado durante los dos años anteriores al día de su nombramiento;
 
@@ -1048,3 +1048,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0629.- SE DEROGA DEL ARTÍCULO 40 LA FRACCIÓN IV, DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
