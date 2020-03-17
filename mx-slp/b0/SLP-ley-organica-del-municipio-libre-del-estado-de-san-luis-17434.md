@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2020-03-03"
+last_updated: "2020-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -651,13 +651,17 @@ XXIII. Constituir dentro de los primeros treinta días del inicio de la administ
 
 XXIV. Designar por el voto de cuando menos las dos terceras partes de sus integrantes, a propuesta del Presidente Municipal, a los delegados municipales que correspondan según sea el caso;
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
 
-XXV. Emitir recibos por todos y cada uno de los cobros que realice el ayuntamiento, los cuales deberán contener de forma enunciativa más no limitativa, el nombre del ayuntamiento, Clave del Registro Federal de Contribuyentes, Régimen Fiscal en que tributen conforme a la Ley del Impuesto Sobre la Renta, se deberá señalar el domicilio del área o departamento en el que se emitan las facturas electrónicas, contener el número de folio y sello digital asignado por el Sistema de Administración Tributaria, sello digital del contribuyente que lo expide, lugar y fecha de expedición, Clave del Registro Federal de Contribuyentes de la persona a favor de quien se expida, cantidad, unidad de medida y clase de los bienes, mercancías o descripción del servicio o del uso o goce que amparen, valor unitario consignado en número, importe total señalado en número y en letra, señalamiento expreso cuando la prestación se pague en una sola exhibición o en parcialidades, cuando proceda, se indicará el monto de los impuestos trasladados, desglosados por tasa de impuesto y, en su caso, el monto de los impuestos retenidos, forma en que se realizó el pago, efectivo, transferencia electrónica de fondos, cheque nominativo o tarjeta de débito, de crédito, de servicio o la denominada monedero electrónico que autorice el Servicio de Administración Tributaria, además debe contener la fecha y hora de certificación, y
+XXV. Emitir recibos por todos y cada uno de los cobros que realice el ayuntamiento, los cuales deberán contener de forma enunciativa más no limitativa, el nombre del ayuntamiento, Clave del Registro Federal de Contribuyentes, Régimen Fiscal en que tributen conforme a la Ley del Impuesto Sobre la Renta, se deberá señalar el domicilio del área o departamento en el que se emitan las facturas electrónicas, contener el número de folio y sello digital asignado por el Sistema de Administración Tributaria, sello digital del contribuyente que lo expide, lugar y fecha de expedición, Clave del Registro Federal de Contribuyentes de la persona a favor de quien se expida, cantidad, unidad de medida y clase de los bienes, mercancías o descripción del servicio o del uso o goce que amparen, valor unitario consignado en número, importe total señalado en número y en letra, señalamiento expreso cuando la prestación se pague en una sola exhibición o en parcialidades, cuando proceda, se indicará el monto de los impuestos trasladados, desglosados por tasa de impuesto y, en su caso, el monto de los impuestos retenidos, forma en que se realizó el pago, efectivo, transferencia electrónica de fondos, cheque nominativo o tarjeta de débito, de crédito, de servicio o la denominada monedero electrónico que autorice el Servicio de Administración Tributaria, además debe contener la fecha y hora de certificación;
 
-(ADICIONADA, P.O. 13 DE MAYO DE 2014) (REPUBLICADA, P.O. 4 DE JULIO DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE MARZO DE 2020)</small>
 
-XXVI. Las demás que señalen la presente Ley y los ordenamientos aplicables.
+XXVI. Coordinarse con la Auditoría Superior del Estado, con el objeto de que los contralores municipales reciban capacitación y certificación en las materias específicas de fiscalización y vigilancia, relativas a sus funciones, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE MARZO DE 2020)</small>
+
+XXVII. Las demás que señalen la presente Ley y los ordenamientos.
 
 ###### ARTICULO 32.
 
@@ -1675,13 +1679,17 @@ XXXVI. Establecer un sistema para seleccionar a los integrantes de los órganos 
 
 XXXVII. Emitir el Código de Ética de los servidores públicos de la Administración Pública Municipal, y las Reglas de Integridad para el ejercicio de la función pública;
 
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
+
+XXXVIII. Recibir, tramitar y resolver las inconformidades o impugnaciones que formulen los particulares con motivo de los actos realizados por los servidores públicos de las dependencias y entidades de la administración pública municipal, en materia de adquisiciones, arrendamientos, obras públicas y servicios relacionados con las mismas;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2020)</small>
+
+XXXIX. Recibir capacitación y certificaciones de la Auditoría Superior del Estado, en las materias específicas de fiscalización y vigilancia relativas a sus atribuciones, con independencia de los cursos y talleres señalados en el artículo 107 Bis de esta Ley, y
+
 > <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-XXXVIII. Recibir, tramitar y resolver las inconformidades o impugnaciones que formulen los particulares con motivo de los actos realizados por los servidores públicos de las dependencias y entidades de la administración pública municipal, en materia de adquisiciones, arrendamientos, obras públicas y servicios relacionados con las mismas, y
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XXXIX. Las demás que le encomienden expresamente las leyes y reglamentos.
+XL. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 ### CAPITULO VIII. Del Departamento de Asuntos Indígenas
 
@@ -3226,6 +3234,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0598.- SE ADICIONA AL ARTÍCULO 4º EL PÁRRAFO SEGUNDO, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0639.- SE REFORMA LOS ARTÍCULOS, 31 EN SU INCISO C) LAS FRACCIONES, XXV, Y XXVI, Y 86 EN SU FRACCIÓN XXXVIII; Y ADICIONA A LOS ARTÍCULOS, 31 EN SU INCISO C) LA FRACCIÓN XXVII, Y 86 UNA FRACCIÓN, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
