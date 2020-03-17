@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2020-01-30"
+last_updated: "2020-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -69,9 +69,17 @@ VIII. Regular la autorización del impacto ambiental para el desarrollo de obras
 
 IX. El establecimiento de los mecanismos de coordinación, inducción y concertación entre autoridades, entre éstas y los sectores social y privado, así como con personas y grupos sociales en materia ambiental;
 
-X. Regular la autorización de la licencia del uso de suelo a que se refiere esta Ley, y
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
 
-XI. El establecimiento de medidas de control y de seguridad para garantizar el cumplimiento y la aplicación de la misma y de las disposiciones que de ella se deriven, así como para la imposición de las sanciones administrativas que correspondan y la denuncia ante las instancias competentes en las materias relacionadas.
+X. Regular la autorización de la licencia del uso de suelo a que se refiere esta Ley;
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
+
+XI. El establecimiento de medidas de control y de seguridad para garantizar el cumplimiento y la aplicación de la misma y de las disposiciones que de ella se deriven, así como para la imposición de las sanciones administrativas que correspondan y la denuncia ante las instancias competentes en las materias relacionadas, y
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2020)</small>
+
+XII. Promover el uso de combustibles y energías alternativas, siempre que no estén reservados a la Federación.
 
 En lo no previsto por la presente Ley, se aplicarán supletoriamente las disposiciones contenidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como las demás leyes y normas de orden federal y estatal que sean aplicables a esta materia, según el caso de que se trate.
 
@@ -1297,9 +1305,17 @@ II. La creación y desarrollo de viveros, criaderos, laboratorios, estaciones ex
 
 III. La captación y aprovechamiento de aguas pluviales;
 
-IV. La reutilización e intercambio de aguas residuales tratadas, y
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
 
-V. La reducción del consumo de agua por las industrias, establecimientos comerciales y de servicios y de uso doméstico en general.
+IV. La reutilización e intercambio de aguas residuales tratadas;
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
+
+V. La reducción del consumo de agua por las industrias, establecimientos comerciales y de servicios y de uso doméstico en general, y
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2020)</small>
+
+VI. La creación de programas estratégicos que contribuyan al uso de nuevas tecnologías, para la mejora del medio ambiente y la disminución de gases altamente contaminantes, siempre que se opongan a alguna disposición federal, o internacional.
 
 De igual manera podrán establecerse programas en materia de saneamiento de aguas en los términos que lo establecen las leyes aplicables, en coordinación en su caso con la Comisión Estatal de Agua Potable, Alcantarillado y Saneamiento y con los municipios por sí o a través de los organismos operadores del agua.
 
@@ -3552,3 +3568,19 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Durante el año 2020 no se aplicará la sanción establecida en la fracción III del artículo 159 Bis que se adiciona con el presente Decreto.
 
 TERCERO. Se derogan todas las disposiciones que contravengan este Decreto.
+
+P.O. 17 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0623.- SE REFORMA EL ARTÍCULO 70 EN SUS FRACCIONES, IV, Y V; Y ADICIONA AL MISMO ARTÍCULO 70 LA FRACCIÓN VI, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0635.- SE REFORMA EL ARTÍCULO 1° EN SUS FRACCIONES, X, Y XI; Y ADICIONA AL MISMO ARTÍCULO 1° LA FRACCIÓN XII, DE LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
