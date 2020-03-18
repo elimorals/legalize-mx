@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2020-02-27"
+last_updated: "2020-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2020.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -130,6 +130,8 @@ Asimismo, se le adscriben los Órganos Desconcentrados denominados Centro de Com
 
 Para el despacho de los asuntos que competan a las Dependencias de la Administración Pública, se les adscriben las Unidades Administrativas, las Unidades Administrativas de Apoyo Técnico-Operativo y los Órganos Desconcentrados siguientes:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 18 DE MARZO DE 2020)</small>
+
 I. A la Secretaría de Gobierno:
 
 A) Dirección General de Planeación y Desarrollo Institucional, a la que quedan adscritas:
@@ -182,9 +184,9 @@ G) Dirección General del Instituto de Reinserción Social, a la que queda adscr
 
 1. Dirección Ejecutiva de Programas de Reinserción.
 
-> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2020)</small>
 
-Asimismo, se le adscriben los Órganos Desconcentrados denominados Secretaría Ejecutiva del Mecanismo de Seguimiento y Evaluación del Programa de Derechos Humanos de la Ciudad de México y la Comisión de Búsqueda de Personas de la Ciudad de México. Así como el órgano denominado Autoridad del Centro Histórico.
+Asimismo, se le adscriben los Órganos Desconcentrados denominados Instancia Ejecutora del Sistema Integral de Derechos Humanos de la Ciudad de México y la Comisión de Búsqueda de Personas de la Ciudad de México. Así como el órgano denominado Autoridad del Centro Histórico.
 
 II. A la Secretaría de Administración y Finanzas:
 
@@ -10778,7 +10780,7 @@ XVII. Las demás que le instruya la persona titular de la Secretaría de la Cont
 
 ADSCRITO A LA SECRETARIA DE GOBIERNO.
 
-> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2020)</small>
 
 ###### Artículo 258.
 
@@ -12732,25 +12734,49 @@ XI. Las demás que le sean encomendadas por las personas Titulares de la Coordin
 
 ###### Artículo 296.
 
-La Secretaría Ejecutiva del Mecanismo de Seguimiento y Evaluación del Programa de Derechos Humanos de la Ciudad de México es el Órgano Desconcentrado que tiene por objeto dar seguimiento, evaluar y orientar la implementación del Programa de Derechos Humanos del Distrito Federal para la transformación de políticas públicas que hagan efectivo el goce de los derechos humanos en la Ciudad de México.
+La Instancia Ejecutora del Sistema Integral de Derechos Humanos de la Ciudad de México es el Órgano Desconcentrado que tiene como función principal garantizar el cumplimiento de los fines del Sistema Integral, a efecto de asegurar la progresividad de los derechos humanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2020)</small>
 
 ###### Artículo 297.
 
-Corresponde a la persona Titular de la Secretaría Ejecutiva del Mecanismo de Seguimiento y Evaluación del Programa de Derechos Humanos de la Ciudad de México:
+Corresponde a la persona titular de la Instancia Ejecutora del Sistema Integral de Derechos Humanos de la Ciudad de México, representar legalmente al organismo e implementar las acciones para cumplir con las atribuciones siguientes:
 
-I. Coordinar las acciones de las partes para el seguimiento y evaluación en el diseño, implementación, gestión, resultados, impacto, programación y presupuestación del Programa.
+I. Coadyuvar con los entes obligados en:
 
-II. Promover la institucionalización del enfoque de derechos humanos en el quehacer público.
+a) La construcción de indicadores que permitan evaluar el diseño, procesos e impacto en el ejercicio de los derechos humanos por la ejecución de los instrumentos de planeación, la situación actual de los derechos humanos, las brechas de desigualdad en su ejercicio y el establecimiento de niveles esenciales y alcanzados de satisfacción de los derechos conforme a la Constitución;
 
-III. Orientar a las instancias ejecutoras en la implementación del Programa.
+b) El diseño de una plataforma integral de seguimiento a indicadores de derechos humanos;
 
-IV. Fomentar la participación de organizaciones civiles y sociales, instituciones académicas, organismos internacionales de derechos humanos, en el mecanismo, difundiendo y promocionando el Programa y las herramientas de participación.
+c) El diseño de indicadores y metodologías para el seguimiento continuo y evaluación, con enfoque de derechos humanos, de la acción gubernamental vinculada al Programa;
 
-V. Coordinarse y articularse con las instancias públicas, organizaciones civiles y sociales, instituciones académicas, organismos internacionales de derechos humanos, iniciativa privada, instituciones de generación de información, entre otras, a fin de facilitar el trabajo del Mecanismo; y
+d) La elaboración de programas de formación, capacitación y sensibilización en materia de derecho (sic) humanos que se impartan a las personas servidoras públicas.
 
-VI. Las demás que se establezcan en otras leyes y disposiciones.
+II. Emitir opinión de congruencia existente entre el Programa y los instrumentos de planeación de los entes obligados;
+
+III. Promover la participación social en acciones gubernamentales relacionadas con el Programa, mediante la comunicación eficiente y transparente;
+
+IV. Realizar tareas de asesoría, vinculación y coordinación con las instancias integrantes del Sistema Integral en materias relacionadas con la implementación del enfoque de derechos humanos;
+
+V. Ejecutar los modelos metodológicos e instrumentos para el seguimiento del Programa que el Comité apruebe;
+
+VI. Promover acciones de fortalecimiento de capacidades en derechos humanos de la sociedad civil y las personas y grupos titulares de derechos;
+
+VII. Articular acciones gubernamentales entre las personas o instancias integrantes del Comité para la definición y generación de fuentes de información y su recopilación;
+
+VIII. Recabar información de los entes obligados, relativa a acciones gubernamentales en materia de derechos humanos;
+
+IX. Proponer al Comité las consultorías y asesorías que deberán realizarse de manera externa con la finalidad de cumplir con las atribuciones del Sistema Integral;
+
+X. Elaborar informes y opiniones técnicas con relación a la vinculación del Programa, la elaboración, seguimiento y monitoreo de indicadores de derechos humanos, así como la elaboración e implementación de medidas de nivelación, inclusión, acciones afirmativas y recomendaciones para la reorientación de acciones gubernamentales;
+
+XI. Coordinar los Espacios de Participación;
+
+XII. Mantener el vínculo y la comunicación con los entes obligados, para garantizarles el conocimiento de los acuerdos surgidos del Comité Coordinador;
+
+XIII. Enviar los informes de actividades sobre la implementación y avances del Programa, y
+
+XIV. Las demás que se establezcan en la Ley del Sistema Integral de Derechos Humanos de la Ciudad de México y otras disposiciones aplicables.
 
 > <small>(ADICIONADO, G.O. 18 DE JULIO DE 2019)</small>
 
@@ -14283,3 +14309,11 @@ PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debid
 SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- Los asuntos que con la entrada en vigor del presente Decreto se encuentren en trámite en la Dirección Ejecutiva de Administración Inmobiliaria y se relacionen con las atribuciones que se confieren a la Dirección Ejecutiva de Normatividad y Consulta Inmobiliaria, serán atendidos y resueltos por ésta última en el ámbito de su respectiva competencia.
+
+G.O. 18 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
