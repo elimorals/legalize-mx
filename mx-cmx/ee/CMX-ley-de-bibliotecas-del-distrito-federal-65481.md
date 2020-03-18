@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-bibliotecas-del-distrito-federal-65481"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-22"
-last_updated: "2017-09-08"
+last_updated: "2020-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65481&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2009-01-20"
 ---
 # LEY DE BIBLIOTECAS DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO POR EL QUE SE ABROGA LA LEY DE BIBLIOTECAS DEL DISTRITO FEDERAL Y SE EXPIDE LA LEY DE BIBLIOTECAS DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 18 DE MARZO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE BIBLIOTECAS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 18 DE MARZO DE 2020 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 22 de enero de 2009.
 
@@ -267,3 +269,23 @@ PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su difus
 SEGUNDO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- El Jefe de Gobierno y la Asamblea Legislativa deben destinar recursos suficientes para la implementación de la presente reforma.
+
+G.O. 18 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY DE BIBLIOTECAS DEL DISTRITO FEDERAL Y SE EXPIDE LA LEY DE BIBLIOTECAS DE LA CIUDAD DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México y para mayor difusión en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de bibliotecas del Distrito Federal.
+
+###### ARTÍCULO CUARTO.
+
+La jefatura de Gobierno de la Ciudad contará con un plazo de noventa días, contados a partir de la entrada en vigor de la presente ley, para la expedición de su Reglamento.
