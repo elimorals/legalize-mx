@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-del-distrito-federal-16351"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-08"
-last_updated: "2019-07-26"
+last_updated: "2020-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16351&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2000-05-05"
 
 LEY DE EDUCACIÓN DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de junio de 2000.
 
@@ -212,13 +212,17 @@ XXIV. Desarrollar programas educativos tendientes a crear y fortalecer una cultu
 
 XXV. Desarrollar programas educativos tendientes a la prevención y detección temprana del cáncer de mama y cérvico uterino;
 
-> <small>(REFORMADA, G.O. 26 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2020)</small>
 
-XXVI. Fomentar la autoestima del estudiante, promoviendo valores como el respeto, la justicia, la solidaridad, la igualdad, entre otros y la observancia de la ley, la cultura de la legalidad y la no violencia en cualquier tipo de sus manifestaciones, con la impartición de actividades extracurriculares específicas, así como una estrecha vinculación entre los padres de familia o quienes ejerzan la patria potestad, tutela o guarda y custodia y los docentes, reforzando todos los valores dentro de las escuelas de todos los niveles, con el fin de evitar la violencia en la infancia, adolescencia y juventud; y
+XXVI. Fomentar la autoestima del estudiante, promoviendo valores como el respeto, la justicia, la solidaridad, la igualdad, entre otros y la observancia de la ley, la cultura de la legalidad y la no violencia en cualquier tipo de sus manifestaciones, con la impartición de actividades extracurriculares específicas, así como una estrecha vinculación entre los padres de familia o quienes ejerzan la patria potestad, tutela o guarda y custodia y los docentes, reforzando todos los valores dentro de las escuelas de todos los niveles, con el fin de evitar la violencia en la infancia, adolescencia y juventud.
 
-> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2020)</small>
 
-XXVII. Contribuir al desarrollo de la personalidad y autonomía en el proceso de enseñanza y aprendizaje a través del impulso de aptitudes, valores, potencialidades.
+XXVII. Contribuir al desarrollo de la personalidad y autonomía en el proceso de enseñanza y aprendizaje a través del impulso de aptitudes, valores, potencialidades; y
+
+> <small>(ADICIONADA, G.O. 18 DE MARZO DE 2020)</small>
+
+XXVIII. Promover la educación vial, a través de actividades extracurriculares y acciones específicas que involucren a la comunidad escolar, con el objeto de preservar la vida y la integridad física, la adopción de nuevos hábitos de movilidad con cortesía y respeto a los derechos humanos. Asimismo, que se difundan materiales sobre educación vial.
 
 > <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -252,9 +256,9 @@ VI. Elaborar el presupuesto general del ramo educativo en la entidad, atendiendo
 
 VII. Administrar los recursos destinados a la educación pública en el Distrito Federal.
 
-> <small>(REFORMADA, G.O. 17 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2020)</small>
 
-VIII. Proponer a la Secretaría de Educación Pública los contenidos regionales que deban incluirse en los planes y programas de estudio para la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica. Asimismo, los contenidos ambientales que deban incluirse en los planes y programas de estudio de las materias afines que se impartan en la educación inicial, preescolar, básica, media superior y normal para la formación de maestros de educación básica y media superior, en los que se incluyan los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, el uso racional de los recursos naturales y la prevención del cambio climático.
+VIII. Proponer a la Secretaría de Educación Pública los contenidos regionales que deban incluirse en los planes y programas de estudio para la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica. Asimismo, los contenidos ambientales que deban incluirse en los planes y programas de estudio de las materias afines que se impartan en la educación inicial, preescolar, básica, media superior y normal para la formación de maestros de educación básica y media superior, en los que se incluyan los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, el uso racional de los recursos naturales y la prevención del cambio climático; así como los contenidos para el fomento de los principios básicos de seguridad y educación vial.
 
 IX. Ajustar el calendario escolar para cada ciclo lectivo de la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, con respecto al calendario fijado por la Secretaría de Educación Pública, cuando ello resulte necesario en atención a requerimientos específicos del Distrito Federal.
 
@@ -306,9 +310,9 @@ XXVI. Promover el establecimiento y operación de casas de cultura, museos, heme
 
 XXVII. Establecer y coordinar los programas de educación para adultos, alfabetización, educación indígena y educación especial, en coordinación con el gobierno federal.
 
-> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2020)</small>
 
-XXVIII. Promover convenios de cooperación y/o acuerdos interinstitucionales, con instituciones públicas o privadas, en materia educativa, de salud, científica, tecnológica, artística, cultural, de educación física y deporte en los términos que establecen las disposiciones legales.
+XXVIII. Promover convenios de cooperación y/o acuerdos interinstitucionales, con instituciones públicas o privadas, en materia educativa, de salud, científica, tecnológica, artística, cultural, de educación física y deporte, de educación vial, en los términos que establecen las disposiciones legales.
 
 XXIX. Celebrar convenios con la federación para unificar, ampliar y enriquecer los servicios educativos.
 
@@ -1769,3 +1773,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
 
 TERCERO.- Dentro de los noventa días siguientes a la publicación del presente Decreto, el Gobierno de la Ciudad de México, a través de la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México, realizará la actualización y armonización necesaria de los Reglamentos y marco normativo aplicable.
+
+G.O. 18 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXVIII, REFORMÁNDOSE LAS FRACCIONES XXVI Y XXVII AL ARTÍCULO 10 Y SE REFORMAN LAS FRACCIONES VIII Y XXVIII DEL ARTÍCULO 13 DE LA LEY DE EDUCACIÓN DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
