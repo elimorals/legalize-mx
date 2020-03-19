@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2019-11-17"
+last_updated: "2020-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -2301,6 +2301,14 @@ VI. Con apoyo de la Comisión Estatal de Derechos Humanos del Estado de Durango,
 
 VII. Las demás que le otorguen otras disposiciones legales o reglamentarias.
 
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2020)</small>
+
+###### Artículo 229.
+
+El Ayuntamiento establecerá enlaces institucionales de coordinación con dependencias de otros municipios, el Estado y la Federación a fin de desarrollar programas de protección de los derechos de las mujeres, con el propósito de prevenir y combatir la violencia contra la mujer, la discriminación por razón de género y las condiciones inequitativas hacia las mujeres.
+
+Asimismo procurará la equidad de género en la conformación laboral de las diversas áreas de la administración pública municipal.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.
@@ -2474,3 +2482,11 @@ SEGUNDO. En un plazo máximo de 60 días hábiles posteriores a la fecha de entr
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 CUARTO. La reforma propuesta no se contrapone con lo dispuesto en la Ley de Gestión Ambiental Sustentable del Estado de Durango.
+
+P.O. 19 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 270.- POR EL QUE SE ADICIONA UN ARTÍCULO 229 A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
