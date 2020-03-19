@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-expropiacion-ocupacion-temporal-o-limitacion-de-8117"
 country: "mx"
 rank: "ley"
 publication_date: "1992-04-25"
-last_updated: "2014-11-27"
+last_updated: "2020-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EXPROPIACIÓN, OCUPACIÓN TEMPORAL O LIMITACIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 25 de abril de 1992.
 
@@ -103,11 +103,15 @@ XII.- La creación, ampliación, regularización, saneamiento o mejoramiento de 
 
 XIII.- El proyecto, diseño y realización de las obras de remodelación y regeneración urbanas;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2020)</small>
 
-XIV.- La superficie necesaria para la explotación, uso y aprovechamiento de las aguas de jurisdicción estatal, y la superficie necesaria para la explotación, uso y aprovechamiento de las aguas nacionales asignadas al Estado o los Ayuntamientos, destinadas al uso doméstico en beneficio colectivo de una comunidad urbana o rural; y,
+XIV.- La superficie necesaria para la explotación, uso y aprovechamiento de las aguas de jurisdicción estatal, y la superficie necesaria para la explotación, uso y aprovechamiento de las aguas nacionales asignadas al Estado o los Ayuntamientos, destinadas al uso doméstico en beneficio colectivo de una comunidad urbana o rural;
 
-XV.- Los demás casos previstos por leyes especiales.
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2020)</small>
+
+XV.- La creación, establecimiento, impulso, promoción y fortalecimiento de áreas, zonas y lugares para el desarrollo turístico sustentable; y
+
+XVI.- Los demás casos previstos por leyes especiales.
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
@@ -392,3 +396,15 @@ Los procedimientos de expropiación, ocupación temporal o limitación de domini
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-87 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XIV Y SE ADICIONA UNA FRACCIÓN XV, RECORRIÉNDOSE LA ACTUAL PARA SER FRACCIÓN XVI DEL ARTÍCULO 4°, DE LA LEY DE EXPROPIACIÓN, OCUPACIÓN TEMPORAL O LIMITACIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que contravengan o se opongan a las adiciones y reformas materia de este.
