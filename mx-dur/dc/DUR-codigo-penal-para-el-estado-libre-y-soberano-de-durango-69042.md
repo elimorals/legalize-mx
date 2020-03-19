@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2019-12-29"
+last_updated: "2020-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -1111,6 +1111,10 @@ Punibilidad de la tentativa.
 
 La punibilidad aplicable a la tentativa, será de entre una tercera parte de la mínima y dos terceras partes de la máxima, previstas para el correspondiente delito doloso consumado que el sujeto activo quiso realizar.
 
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2020)</small>
+
+Tratándose del delito de feminicidio la punibilidad aplicable a la tentativa será de entre dos terceras partes de la mínima y dos terceras partes de la máxima.
+
 En la aplicación de las penas o medidas de seguridad a que se refiere este artículo, la autoridad judicial tendrá en cuenta, además de lo previsto en el artículo 68 de este código, el mayor o menor grado de aproximación a la consumación del delito y la magnitud del peligro en que se puso al bien jurídico protegido.
 
 ### CAPÍTULO III. CASOS DE COMPLICIDAD, AUXILIO EN CUMPLIMIENTO DE PROMESA ANTERIOR Y AUTORÍA INDETERMINADA
@@ -1825,9 +1829,9 @@ Existen razones de género cuando se acredite cualquiera de las siguientes circu
 
 I. El cuerpo de la víctima presente signos de violencia sexual de cualquier tipo;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2020)</small>
 
-II. El cuerpo de la víctima presente lesiones infamantes o degradantes, heridas en zonas vitales, traumatismos, estrangulamiento, cortes, puñaladas, contusiones, fracturas, dislocaciones, quemaduras, escoriaciones, o mutilaciones, previas o posteriores a la privación de la vida o actos de necrofilia;
+II. El cuerpo de la víctima presente lesiones infamantes o degradantes o mutilaciones, previas o posteriores a la privación de la vida o actos de necrofilia;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2018)</small>
 
@@ -1841,9 +1845,9 @@ IV. El cuerpo de la víctima sea expuesto, depositado o arrojado en un lugar pú
 
 V. La víctima haya sido incomunicada sin ánimo de obtención de lucro, cualquiera que sea el tiempo previo a su fallecimiento.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2020)</small>
 
-VI. Que entre la víctima y el sujeto activo exista o haya existido una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, sociedad de convivencia, noviazgo o cualquier otra relación de hecho o amistad;
+VI. Que entre la víctima y el sujeto activo exista o haya existido una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, sociedad de convivencia, noviazgo o cualquier otra relación sentimental o afectiva;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2018)</small>
 
@@ -1857,9 +1861,9 @@ VIII. Cuando la víctima se haya encontrado en un estado de indefensión.
 
 A quien cometa feminicidio se impondrá de cuarenta a sesenta años de prisión y de dos mil ochocientos ochenta a cuatro mil trecientos veinte veces la Unidad de Medida y Actualización de multa.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE MARZO DE 2020)</small>
 
-Si entre el sujeto activo y la víctima existió una relación sentimental, afectiva o de confianza; de parentesco, laboral, docente o cualquiera que implique confianza, subordinación o superioridad, si la víctima es menor de edad, embarazada o con discapacidad, así como cuando el sujeto activo sea servidor público y haya cometido la conducta valiéndose de esta condición, se impondrán de cuarenta y cinco a sesenta años de prisión y multa de tres mil doscientos cuarenta a cuatro mil trecientos veinte veces la Unidad de Medida y Actualización.
+Si la víctima es menor de edad, adulta mayor, embarazada o con discapacidad, así como cuando el sujeto activo sea servidor público y haya cometido la conducta valiéndose de esta condición, se impondrán de cuarenta y cinco a sesenta y cinco años de prisión y multa de tres mil doscientos cuarenta a cuatro mil seiscientas ochenta veces la Unidad de Medida y Actualización.
 
 ###### Artículo 147 Bis.
 
@@ -6250,3 +6254,11 @@ P.O. 29 DE DICIEMBRE DE 2019.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
+
+P.O. 19 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 273.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 76 Y 147 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
