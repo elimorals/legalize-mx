@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-instituto-de-defensoria-publica-del-estado-de-68129"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-08"
-last_updated: "2014-05-06"
+last_updated: "2020-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,15 +23,15 @@ state: "DUR"
 
 LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON LA FRACCIÓN I DEL ARTÍCULO CUARTO DEL DECRETO No. 420, MEDIANTE EL CUAL SE EMITE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO, PUBLICADA EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL DECRETO No. 261 DEL 18 DE FEBRERO DE 2009 Y LAS REFORMAS POSTERIORES A LA CITADA LEY HAN ENTRADO EN VIGOR.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 8 de marzo de 2009.
 
 EL CIUDADANO CONTADOR PUBLICO ISMAEL ALFREDO HERNANDEZ DERAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A SUS HABITANTES, S A B E D:
 
-CONSIDERANDOS...
+CONSIDERANDOS
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXIV Legislatura del Estado, expide el siguiente:
 
@@ -367,7 +367,9 @@ Los Defensores Públicos serán asignados inmediatamente por el Instituto, sin m
 
 En el caso de los menores, el Defensor Público deberá acudir ante los Centros Especializados de Reinserción y Tratamiento para Menores Infractores, para enterarse de la comisión de la conducta tipificada como delito en que haya incurrido el menor y presentar ante el área del Tribunal para Menores Infractores, que corresponda, los elementos de defensa a favor del propio menor, en términos de la legislación aplicable.
 
-El Director General, procurará que los miembros de pueblos o comunidades indígenas, a quienes se les impute la comisión de un delito, cuenten con un defensor que posea conocimiento de su lengua y cultura.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2020)</small>
+
+El Director General, deberá proporcionar a los miembros de pueblos o comunidades indígenas, a quienes se les impute la comisión de un delito, la asistencia en todo tiempo de un defensor o un intérprete que tenga conocimiento de su lengua y cultura.
 
 ARTÍCULO 27
 
@@ -505,9 +507,17 @@ VIII. Asistir puntualmente a las reuniones convocadas por su superior jerárquic
 
 IX. Observar respeto y ejercicio del buen despacho respecto a sus superiores jerárquicos, cumpliendo las disposiciones que éstos dicten, en el ejercicio de sus atribuciones legales;
 
-X. Actualizarse constantemente y participar en los cursos respectivos que al efecto realicen el Instituto y el Consejo de la Judicatura; y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2020)</small>
 
-XI. Atender los demás asuntos que se deriven de la naturaleza de sus funciones y de las disposiciones legales aplicables.
+X. Actualizarse constantemente y participar en los cursos respectivos que al efecto realicen el Instituto y el Consejo de la Judicatura;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2020)</small>
+
+XI. Atender los demás asuntos que se deriven de la naturaleza de sus funciones y de las disposiciones legales aplicables; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MARZO DE 2020)</small>
+
+XII. Solicitar la inmediata designación de un defensor con conocimiento de la lengua, traductor o intérprete, cuando la persona que requiere el servicio pertenezca a alguna comunidad indígena o tenga alguna discapacidad según sea el caso y esa circunstancia sea impedimento en la comunicación para la prestación efectiva del servicio o le impida comprender sus derechos sin la ayuda de dicha asistencia.
 
 ARTÍCULO 40
 
@@ -856,3 +866,11 @@ El presente Decreto entrará en vigor a las 00:01 horas del día 7 de mayo del a
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que contravengan a las contenidas en el presente Decreto.
+
+P.O. 19 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 272.- QUE CONTIENE REFORMA (SIC) AL ÚLTIMO PÁRRAFO DEL ARTÍCULO 26 Y LAS FRACCIONES X, XI Y XII DEL ARTÍCULO 39 DE LA LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
