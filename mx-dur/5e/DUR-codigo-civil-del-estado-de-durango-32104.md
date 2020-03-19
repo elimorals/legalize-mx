@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2019-10-17"
+last_updated: "2020-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2020.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -835,31 +835,57 @@ ART. 149.- (DEROGADO, P.O. 26 DE FEBRERO DE 2017)
 
 ART. 150.- (DEROGADO, P.O. 26 DE FEBRERO DE 2017)
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2020)</small>
 
-ART. 150 BIS.- También es requisito para contraer matrimonio, la asistencia previa de los interesados al Taller de Orientación Prematrimonial implementado por la autoridad estatal encargada del Sistema para el Desarrollo Integral de la Familia; misma que deberá acreditarse mediante la presentación del documento autorizado.
+ART. 150 BIS.- También es requisito para contraer matrimonio, la asistencia previa de los interesados al Taller de Orientación Prematrimonial con perspectiva de género, implementado por la autoridad estatal encargada del Sistema para el Desarrollo Integral de la Familia; misma que deberá acreditarse mediante la presentación del documento autorizado.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2013)</small>
 
 En dicho taller se informará cuando menos sobre:
 
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2013)</small>
+
 I. Los requisitos para contraer matrimonio.
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2013)</small>
 
 II. Los efectos del matrimonio con relación a los cónyuges y a sus hijos.
 
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2013)</small>
+
 III. Los regímenes patrimoniales del matrimonio.
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2013)</small>
 
 IV. Las causales de divorcio.
 
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2013)</small>
+
 V. La Patria Potestad.
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2013)</small>
 
 VI. El Patrimonio de Familia.
 
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2013)</small>
+
 VII. El manejo de conflictos interpersonales.
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2013)</small>
 
 VIII. La paternidad responsable.
 
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2013)</small>
+
 IX. La responsabilidad financiera.
 
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2013)</small>
+
 X. La violencia familiar.
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2020)</small>
+
+XI. Igualdad entre mujeres y hombres.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2004)</small>
 
@@ -1699,9 +1725,9 @@ ART. 317.- Cuando el deudor alimentario no estuviere presente, o estándolo rehu
 
 Lo dispuesto en este artículo es aplicable a la obligación alimentaria entre el concubino y la concubina.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2020)</small>
 
-ART. 318.- El cónyuge, que sin culpa suya, se vea obligado a vivir separado, podrá pedir al Juez de Primera Instancia de su residencia, que obligue al que dio motivo de la separación a que ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo desde que abandonó al otro cónyuge, así como que satisfaga los adeudos contraídos en los términos del artículo anterior. Si dicha proporción no se puede determinar, el Juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y la de lo que hubiere dejado de cubrir desde la separación.
+ART. 318.- El cónyuge que se haya separado del otro, sigue obligado a cumplir con los gastos alimentarios. En tal virtud el cónyuge que no haya dado lugar a la separación, podrá pedir a la autoridad judicial competente del lugar de su residencia, que obligue al otro a que ministre los gastos por el tiempo que dure la separación en la misma proporción que lo venía haciendo hasta antes de aquella, así como también que satisfaga los adeudos contraídos en los términos del artículo anterior. Si dicha proporción no se puede determinar, el Juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y la de lo que hubiere dejado de cubrir desde la separación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2019)</small>
 
@@ -10792,3 +10818,19 @@ P.O. 17 DE OCTUBRE DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 271. QUE CONTIENE REFORMA AL ARTICULO 318 DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 274.- QUE CONTIENE REFORMAS Y ADICIONES AL ARTÍCULO 150 BIS DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
