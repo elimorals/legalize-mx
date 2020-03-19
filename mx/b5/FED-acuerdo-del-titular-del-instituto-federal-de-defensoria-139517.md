@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-del-titular-del-instituto-federal-de-defensoria-139517"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-12-11"
-last_updated: "2020-02-19"
+last_updated: "2020-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139517&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-11-29"
 
 ACUERDO DEL TITULAR DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2020.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de diciembre de 2019.
 
@@ -1489,9 +1489,13 @@ La lista de referencia se publicará en la página web oficial del Instituto, co
 
 Cuando por el número de plazas disponibles o atendiendo a las necesidades del servicio, no se considere viable la celebración de un Concurso de oposición, los miembros de la Junta Directiva del Instituto podrán aprobar la vía de Examen de ingreso a la Lista para una posterior designación en el cargo de Defensor Público o Asesor Jurídico, de las personas que tengan las calificaciones más altas en la lista relativa, mismas que no deberán ser menores a ochenta y cinco puntos, en una escala de cero a cien, otorgándoles, en su caso, una plaza definitiva de confianza, pasando a formar parte del servicio civil de carrera del Instituto.
 
-La permanencia de una persona en la lista de referencia será de tres años; la designación en el cargo de defensor público o asesor jurídico, genera la salida de la misma.
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 2020)</small>
 
-Una vez transcurridos los tres años, las personas que no hubieran sido designadas para ocupar tales cargos, podrán solicitar su incorporación a la nueva lista que, en su caso sea integrada, para lo cual deberán cursar las especializaciones en defensa penal y asesoría jurídica, impartidas por el propio Instituto y conseguir una calificación mínima de 8.5, para que el resultado sirva de referencia del lugar que deberán ocupar en la lista.
+La permanencia de una persona en la lista de referencia será de un año; la designación en el cargo de defensor público o asesor jurídico, genera la salida de la misma.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 2020)</small>
+
+Una vez transcurrido el año, las personas que no hubieran sido designadas para ocupar tales cargos, podrán solicitar su incorporación a la nueva lista que, en su caso sea integrada, para lo cual deberán cursar las especializaciones en defensa penal y asesoría jurídica, impartidas por el propio Instituto y conseguir una calificación mínima de 8.5, para que el resultado sirva de referencia del lugar que deberán ocupar en la lista.
 
 El ingreso a la Lista de personas aptas para ser designadas en los cargos de Defensor Público y Asesor Jurídico, no garantiza a sus integrantes la obtención de una plaza de defensor público o asesor jurídico en el Instituto Federal de Defensoría Pública; tampoco genera una obligación al Instituto de otorgar una plaza a sus integrantes en forma automática, ni constituye una obligación laboral entre las personas que la integren y el propio Instituto.
 
@@ -2001,10 +2005,20 @@ SEGUNDO. La Dirección General del Instituto realizará las gestiones que result
 
 > <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL "ACUERDO DEL TITULAR DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA"]</small>
 
-PRIMERO. En cumpliciento a lo ordenado por la Junta Directiva del Instituto Federal de Defensoría Pública, en sesión ordinaria del veintiocho de enero del año dos mil veinte, publíquese el presente acuerdo en el Diario Oficial de la Federación.
+PRIMERO. En cumplimiento a lo ordenado por la Junta Directiva del Instituto Federal de Defensoría Pública, en sesión ordinaria del veintiocho de enero del año dos mil veinte, publíquese el presente acuerdo en el Diario Oficial de la Federación.
 
 SEGUNDO. Las modificaciones y adiciones de las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública aprobadas por la Junta Directiva en sesión ordinaria del veintiocho de enero del año dos mil veinte, estarán disponibles en los siguientes vínculos electrónicos: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf
 
 ## TRANSITORIO
 
 ÚNICO. Las modificaciones y adiciones de las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública aprobadas por la Junta Directiva en sesión ordinaria del veintiocho de enero del año dos mil veinte, entrarán en vigor al día siguiente de la publicación del presente acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA JUNTA DIRECTIVA DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, POR EL QUE SE REFORMA EL ARTÍCULO 78 BIS DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA VIGENTES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las presentes modificaciones a las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública vigentes, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO. Las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública y sus modificaciones estarán disponibles para su consulta en la página electrónica oficial del Instituto.
