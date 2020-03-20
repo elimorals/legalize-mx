@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-conducta-del-banco-de-mexico-133361"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-08"
-last_updated: "2019-02-08"
+last_updated: "2020-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-01-25"
 
 CÓDIGO DE CONDUCTA DEL BANCO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MARZO DE 2020.
 
 Código publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 8 de febrero de 2019.
 
@@ -397,9 +397,25 @@ Incidentes de seguridad informática
 
 13. Reportaremos al Centro de Soporte Institucional cualquier incidente relacionado con el comportamiento anormal de los equipos y sistemas del Banco que utilicemos o si la información que mantenemos en los mismos pudiera haber sido comprometida.
 
+> <small>(ADICIONADO, D.O.F. 20 DE MARZO DE 2020)</small>
+
+Uso de redes sociales digitales
+
+14. Las publicaciones que las personas servidoras públicas hagamos en las redes sociales digitales en cuentas personales, pueden adquirir notoriedad pública, trascender al ámbito público, y ser asumidas por la sociedad como posturas oficiales. Por ello, debemos ser cuidadosas y prudentes en hacer un uso adecuado de dichas redes, así como de los servicios de mensajería instantánea (incluyendo los existentes en las plataformas tecnológicas de los proveedores de servicios de información financiera) y observar los principios, valores y reglas previstas en el Código de Ética, entre otros, los de responsabilidad, objetividad, integridad, imparcialidad y profesionalismo.
+
+En las declaraciones u opiniones que divulguemos en las referidas redes sociales, debemos indicar en el respectivo perfil que son expresadas estrictamente a título personal y que no necesariamente representan o reflejan la postura o punto de vista del Banco.
+
+Asimismo, debemos ser especialmente prudentes al realizar declaraciones o comentarios que pudieran afectar a la Institución o interpretarse como hechas a nombre del Banco, lo que podría crear confusión respecto de los mensajes institucionales o, inclusive, dañar su reputación.
+
+De igual forma, debemos abstenernos de publicar, compartir o hacer referencias directas o indirectas a la información relacionada con el desempeño de nuestra función, cargo o comisión, que haya sido clasificada como reservada, confidencial, o bien, información que por sus características solo pueda ser utilizada o gestionada por personal del Banco ("Interna-Uso Limitado" o "Interna-Uso General"), o cualquier otra que no haya sido difundida previamente por los canales institucionales.
+
+De igual manera, para evitar posibles afectaciones al funcionamiento del Banco o poner en riesgo la seguridad de sus instalaciones o de las personas, debemos abstenernos de difundir imágenes, audios o videos de las mismas, salvo en aquellos casos en los que se cuente con la autorización del área respectiva conforme a la normatividad aplicable o se hayan hecho previamente públicos por el Banco. También debemos abstenernos de difundir cualquier tipo de imágenes, audios o videos, incluyendo los tomados durante las comisiones de trabajo, que pudieran afectar la imagen institucional.
+
+En ningún caso debemos utilizar el correo electrónico institucional para registrarnos en redes sociales digitales personales ni utilizar los logos institucionales en los perfiles personales.
+
 Compromiso de confidencialidad
 
-14. Suscribiremos un compromiso de confidencialidad con la finalidad de promover el adecuado manejo y cuidado de la información a que tenemos acceso con motivo de nuestras funciones, el cual se refrendará periódicamente en los plazos que el Banco determine.
+15. Suscribiremos un compromiso de confidencialidad con la finalidad de promover el adecuado manejo y cuidado de la información a que tenemos acceso con motivo de nuestras funciones, el cual se refrendará periódicamente en los plazos que el Banco determine.
 
 XIV. SEGURIDAD, PROTECCIÓN CIVIL Y MEDIO AMBIENTE
 
@@ -498,3 +514,15 @@ Hostigamiento: El ejercicio del poder en una relación de subordinación real de
 Otras entidades: Empresas fuera del ámbito de la regulación y supervisión del Banco de México.
 
 www.banxico.org.mx
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “ADICIÓN AL CÓDIGO DE CONDUCTA DEL BANCO DE MÉXICO”.]
+
+PRIMERA. La Comisión de Responsabilidades acordó en sesión celebrada el veintiséis de febrero de dos mil veinte, aprobar la adición al Código de Conducta del Banco de México, con fundamento en los artículos 61, fracción I, de la Ley del Banco de México, 16 de la Ley General de Responsabilidades Administrativas, Décimo Primero de los "Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas", emitidos mediante Acuerdo del Comité Coordinador del Sistema Nacional Anticorrupción publicado en el Diario Oficial de la Federación del doce de octubre de dos mil dieciocho, así como 36, fracción IV, del Reglamento Interior del Banco de México.
+
+SEGUNDA. Queda sin efectos cualquier otra disposición que se oponga a la presente adición.
+
+TERCERA. La presente adición entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
