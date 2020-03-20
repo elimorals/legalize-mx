@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2020-02-04"
+last_updated: "2020-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -99,11 +99,11 @@ Las escuelas públicas y privadas en el Estado de Coahuila que establezcan el us
 
 La falta de uniforme escolar no será motivo para impedir o negar el acceso a los servicios educativos a los estudiantes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 7°.
 
-La educación que impartan el Estado, los Municipios, los organismos descentralizados, los órganos desconcentrados y los particulares con autorización o con reconocimiento de validez oficial de estudios tendrá, además de los fines y criterios establecidos por el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Educación, los siguientes:
+La educación que impartan el Estado, los Municipios, los organismos descentralizados, los órganos desconcentrados y los particulares con autorización o con reconocimiento de validez oficial de estudios tendrá por objeto el pleno desarrollo de la personalidad humana y el fortalecimiento del respeto a los derechos humanos y a las libertades fundamentales; favorecerá la comprensión, la tolerancia y la amistad entre todas las naciones y todos los grupos étnicos o religiosos para el mantenimiento de la paz. Además de los fines y criterios establecidos por el Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Educación, los siguientes propósitos:
 
 I.- Contribuir al desarrollo armónico e integral del individuo para elevar sus niveles de participación, responsabilidad y solidaridad en la construcción de la democracia;
 
@@ -176,6 +176,10 @@ XVIII. Promover, fomentar e impulsar en los educandos una cultura de paz, a trav
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
 XIX. Promover la inclusión, como eje transversal, de la educación ambiental, entendida, como el proceso tendiente a la formación de una conciencia crítica ante los problemas ambientales, en el que el educando asimila los conceptos e interioriza las actitudes que le permitan evaluar las relaciones de interdependencia establecidas entre la sociedad y su medio natural, considerando el ámbito educativo formal e informal; y de la cultura ambiental que permita le (sic) participar responsablemente en la atención y solución de los problemas ambientales, para contribuir al tránsito del desarrollo sostenible en el Estado.
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2020)</small>
+
+XX. Promover y apoyar el fortalecimiento de la enseñanza y aprendizaje del idioma inglés en nivel de educación básica, misma que será impartida a través de docentes certificados a fin de garantizar su comprensión y aprendizaje.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
 
@@ -299,6 +303,10 @@ III. Tomar las medidas que permitan la colaboración efectiva de alumnos, maestr
 
 IV. Implementar protocolos de atención, sistemas de capacitación obligatoria y programas de prevención, para prevenir y atender la violencia y abuso sexual contra niñas, niños y adolescentes.
 
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2020)</small>
+
+V. Brindar apoyo y autorizar a los directores de los planteles y resto del personal docente a notificar y/o reportar ante la Procuraduría para Niños, Niñas y la Familia (PRONNIF) la prolongada o reiterada ausencia de un estudiante, así como señales o indicios de agresión física, psicológica y/o sexual.
+
 ###### ARTICULO 10.
 
 Corresponden a la autoridad educativa estatal, de manera concurrente con la federación, las atribuciones que señala la Ley General de Educación y demás disposiciones aplicables.
@@ -383,13 +391,11 @@ V. La Infraestructura Educativa.
 
 Los trabajadores de apoyo y de asistencia a la educación contribuyen con el desempeño de sus funciones a conseguir los fines del sistema educativo estatal.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2020)</small>
+
 ###### ARTICULO 14.
 
-El educador es promotor, coordinador y agente corresponsable en el proceso educativo, por tanto, le serán proporcionados los medios que le permitan realizar una función óptima y eficaz, además de los que requiera para su constante superación profesional.
-
-> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
-
-Para ejercer la docencia en instituciones establecidas por el Estado, los maestros deberán satisfacer los requisitos que, en su caso, señalen las autoridades competentes y, para la educación básica que comprende los niveles de preescolar, primaria y secundaria en todas sus modalidades, incluyendo la especial y la que imparte en los centros de educación básica para adultos así como educación media superior, deberán observar lo dispuesto por la Ley General del Servicio Profesional Docente.
+El educador es promotor, coordinador y agente corresponsable en el proceso educativo, por tanto, le serán proporcionados los medios que le permitan realizar una función óptima y eficaz, además de los que requiera para el desarrollo pleno de su personalidad, la consciencia de la supremacía del respeto a los derechos humanos y su constante superación profesional.
 
 > <small>(REFORMADO, P.O. 8 DE MARZO DE 2014)</small>
 
@@ -681,7 +687,9 @@ Se brindarán cursos a los docentes y al personal que labora en los planteles de
 
 En caso de que los educadores así como las autoridades educativas, tengan conocimiento de la comisión de algún delito en agravio de los estudiantes, lo harán del conocimiento inmediato de la autoridad correspondiente.
 
-Así mismo, cuando las autoridades educativas, los directores de los planteles educativos, así como el resto del personal docente noten la prolongada o reiterada ausencia de un estudiante deberán notificarlo o reportarlo ante la Procuraduría para Niños, Niñas y la Familia con la finalidad de descartar o detectar posibles situaciones de maltrato infantil.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2020)</small>
+
+Así mismo, cuando las autoridades educativas, los directores de los planteles educativos, así como el resto del personal docente noten la prolongada o reiterada ausencia de un estudiante, señales o indicios de agresión física, psicológica y/o sexual deberán notificarlo y/o reportarlo ante la Procuraduría para Niños, Niñas y la Familia (PRONNIF) con la finalidad de que la autoridad investigue y de seguimiento para poder descartar o detectar posibles situaciones de maltrato infantil y en su caso emita las sanciones correspondientes contra quien resulte.
 
 > <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2020)</small>
 
@@ -1111,11 +1119,11 @@ La autoridad educativa del estado pondrá a consideración y, en su caso, autori
 
 ARTICULO 65 BIS.- La autoridad educativa del estado pondrá a consideración y, en su caso, autorización de la autoridad educativa federal, la aplicación dentro del plan de estudios, contenidos que permitan que los educandos adquieran mayor sensibilidad en los temas relacionados con el desarrollo en los ideales de justicia social, tolerancia, libertad e igualdad, así como el estudio de los derechos humanos contemplados en la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 66.
 
-La autoridad educativa estatal determinará y formulará planes y programas de estudio de la educación distinta a la preescolar, primaria, secundaria y demás para la formación de maestros, actualización, capacitación y superación profesional, tomando en consideración los lineamientos generales que expida la autoridad educativa federal.
+La autoridad educativa estatal determinará y formulará planes y programas de estudio de la educación distinta a la preescolar, primaria, secundaria y demás para la formación de maestros, actualización, capacitación y superación profesional, tomando en consideración lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales en materia de derechos humanos, así como en los lineamientos generales que expida la autoridad educativa federal.
 
 ### CAPITULO XI. DE LOS CONSEJOS TÉCNICOS DE EDUCACIÓN
 
@@ -1349,11 +1357,17 @@ La Secretaría de Educación del Estado llevará un control estadístico de los 
 
 Los particulares que presten servicios educativos, se encuentren o no incorporados al sistema educativo estatal, deberán notificar a la autoridad correspondiente el inicio de sus actividades, proporcionarle la información que les solicite, así mismo deberán mencionar tal circunstancia en la documentación que expidan y en la publicidad que realicen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2020)</small>
+
 ###### ARTICULO 82.
 
-Las colegiaturas son el cobro de los servicios educativos prestados por las instituciones sostenidas por los particulares; quienes en ningún caso podrán retener los documentos que acrediten la preparación del alumno para obtener las citadas colegiaturas.
+Las colegiaturas son el cobro de los servicios educativos prestados por las instituciones sostenidas por los particulares; los cuales en ningún caso podrán con motivo del cobro de colegiaturas o cualquier otra contraprestación, derivada de la educación que se imparta en estas instituciones realizar acciones que atenten contra la dignidad y los derechos de los educandos, de manera especial de las niñas, niños y adolescentes, incluyendo la retención de documentos personales, académicos y/o que acrediten la preparación del alumno.
 
 El cobro de los adeudos estará sujeto a las leyes de la materia, al igual que los aumentos en las colegiaturas.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2020)</small>
+
+La adquisición de uniformes y materiales educativos, así como de actividades extraescolares, no podrán condicionar la prestación del servicio público referido en esta Ley.
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
 
@@ -2058,3 +2072,35 @@ P.O. 4 DE FEBRERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 563.- SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 7 DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 564.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 7, ASÍ COMO LOS ARTÍCULOS 14 Y 66 DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 565.- SE REFORMA EL PRIMER PÁRRAFO AL ARTÍCULO 82 Y SE ADICIONA UN TERCER PÁRRAFO A ESE MISMO ARTÍCULO DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 568.- SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 9 BIS, Y SE REFORMA EL SÉPTIMO PÁRRAFO DEL ARTÍCULO 36 DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
