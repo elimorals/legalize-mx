@@ -4,7 +4,7 @@ identifier: "CMX-ley-que-regula-el-funcionamiento-de-los-centros-de-atencion-825
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-19"
-last_updated: "2019-03-25"
+last_updated: "2020-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82519&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2011-05-17"
 ---
 # LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCION Y CUIDADO INFANTIL PARA LA CIUDAD DE MEXICO -- ANTES LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCION Y CUIDADO INFANTIL PARA EL DISTRITO FEDERAL --
 
-LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCIÓN Y CUIDADO INFANTIL PARA EL DISTRITO FEDERAL
+LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCIÓN Y CUIDADO INFANTIL PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 20 DE MARZO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 19 de agosto de 2011.
 
@@ -46,27 +46,37 @@ DECRETO POR EL QUE SE EXPIDE LA LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS 
 
 Se expide la Ley que Regula el Funcionamiento de los Centros de Atención y Cuidado Infantil para el Distrito Federal, para quedar como sigue:
 
-LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCIÓN Y CUIDADO INFANTIL PARA EL DISTRITO FEDERAL.
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 20 DE MARZO DE 2020)</small>
+
+LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCIÓN Y CUIDADO INFANTIL PARA LA CIUDAD DE MÉXICO.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público y de observancia general en el Distrito Federal, y tiene por objeto regular las bases, condiciones y procedimientos mínimos para la creación, administración y funcionamiento de los Centros de Atención y Cuidado Infantil, que deben constituir un espacio seguro para el cuidado de los niños y niñas de padres, madres o de quien ejerza la patria potestad, guarda y custodia.
+La presente Ley es de orden público y de observancia general en la Ciudad de México, y tiene por objeto regular las bases, condiciones y procedimientos mínimos para la creación, administración y funcionamiento de los Centros de Atención y Cuidado Infantil, que deben constituir un espacio seguro para el cuidado de los niños y niñas de padres, madres o de quien ejerza la patria potestad, guarda y custodia.
+
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 2.
 
-La aplicación de la presente Ley corresponde al Jefe de Gobierno del Distrito Federal, al Sistema para el Desarrollo Integral de la Familia del Distrito Federal, Dependencias que integran la Administración Pública Central y al Instituto de Verificación Administrativa del Distrito Federal, en sus respectivos ámbitos de competencia.
+La aplicación de la presente Ley corresponde a la persona titular de la Jefatura de Gobierno de la Ciudad de México, al Sistema para el Desarrollo Integral de la Familia de la Ciudad de México, Dependencias que integran la Administración Pública Central y al Instituto de Verificación Administrativa de la Ciudad de México, en sus respectivos ámbitos de competencia.
+
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 3.
 
-En todo lo no previsto por la presente Ley, serán de aplicación supletoria las disposiciones normativas de la Ley de Procedimiento Administrativo, Ley de Educación, Ley de Salud, Ley de Protección Civil, Ley del Instituto de Verificación Administrativa y el Código Civil, todos para el Distrito Federal y demás ordenamientos aplicables a la presente ley.
+En todo lo no previsto por la presente Ley, serán de aplicación supletoria las disposiciones normativas de la Ley de Procedimiento Administrativo, Ley de Educación, Ley de Salud, Ley de Protección Civil, Ley del Instituto de Verificación Administrativa y el Código Civil, todos para la Ciudad de México y demás ordenamientos aplicables a la presente ley.
 
 ###### ARTÍCULO 4.
 
 Para efectos de esta Ley, se entiende por:
 
-I. Autorización de apertura: Al permiso de funcionamiento emitido por la Secretaría de Gobierno para ejercer el servicio de Centros de Atención y Cuidado Infantil en el territorio del Distrito Federal, una vez que en materia de la presente Ley hayan cumplido los requisitos establecidos.
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+
+I. Autorización de apertura: Al permiso de funcionamiento emitido por el Sistema para el Desarrollo Integral de la Familia para ejercer el servicio de Centros de Atención y Cuidado Infantil en el territorio de la Ciudad de México, una vez que en materia de la presente Ley hayan cumplido los requisitos establecidos;
 
 II. Carta Compromiso: El acuerdo suscrito entre el usuario y el prestador de servicios con el objeto de utilizar los servicios de cuidado y atención infantil, en el que se indique entre otros aspectos: el nombre de los niños y niñas, horario y costo del servicio.
 
@@ -78,41 +88,71 @@ V. Contingencia: Siniestro, hecho funesto, daño grave, destrucción fortuita o 
 
 VI. Cuidado y Atención Infantil: Acciones tendientes a preservar y favorecer el bienestar de los niños y niñas, tomando como base la satisfacción de sus necesidades.
 
-VII. DIF DF: El Sistema para el Desarrollo Integral de la Familia del Distrito Federal que es un Organismo Público Descentralizado de la Administración Pública del Distrito Federal, con personalidad jurídica y patrimonio propios, teniendo como objetivos la promoción de la asistencia social y la prestación de servicios asistenciales en el Distrito Federal.
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
 
-VIII. Fondo: Al Fondo de Apoyo de Regularización de los CACI del Distrito Federal.
+VII. DIF CDMX: El Sistema para el Desarrollo Integral de la Familia de la Ciudad de México que es un Organismo Público Descentralizado de la Administración Pública de la Ciudad de México, con personalidad jurídica y patrimonio propios, teniendo como objetivos la promoción de la asistencia social y la prestación de servicios asistenciales en la Ciudad de México;
 
-IX. Instituto de Verificación Administrativa: Es el organismo descentralizado de la Administración Pública del Distrito Federal, con personalidad jurídica y patrimonio propio, dotado de autonomía presupuestaria, de operación y decisión funcional.
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
 
-X. Ley: Ley que Regula el Funcionamiento y Operación de los Centros de Atención y Cuidado Infantil para el Distrito Federal.
+VIII. Fondo: Al Fondo de Apoyo de Regularización de los CACI de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+
+IX. Instituto de Verificación Administrativa: Es el organismo descentralizado de la Administración Pública de la Ciudad de México, con personalidad jurídica y patrimonio propio, dotado de autonomía presupuestaria, de operación y decisión funcional;
+
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+
+X. Ley: Ley que Regula el Funcionamiento y Operación de los Centros de Atención y Cuidado Infantil para la Ciudad de México;
 
 XI. Niñas y niños: A la niña o niño desde los 45 días de nacido hasta los cinco años once meses de edad.
 
-XII. Padrón Único de Centros de Atención y Cuidado Infantil: Instrumento de registro y control de los Centros de Atención y Cuidado Infantil del Distrito Federal.
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+
+XII. Padrón Único de Centros de Atención y Cuidado Infantil: Instrumento de registro y control de los Centros de Atención y Cuidado Infantil de la Ciudad de México;
 
 XIII. Prestadores de servicios: Es la persona física o moral, responsable de un CACI para realizar actividades relacionadas con la guarda, custodia, cuidado, aseo, alimentación y recreación de los niños y niñas.
 
 XIV. Programa General de Protección Civil: Aquel que realice la Secretaría de Protección Civil, con el fin de salvaguardar la integridad física de los niños y niñas, empleados y personas que concurren a ellos, así como de proteger las instalaciones, bienes e información vital, ante la ocurrencia de un riesgo, emergencia, siniestro o desastre.
 
-XV. Reglamento: El Reglamento de la Ley de Centros de Atención y Cuidado Infantil para el Distrito Federal.
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
 
-XVI. Secretaría de Protección Civil: es el Órgano de la Administración Pública Central del Distrito Federal encargado de elaborar, coordinar y vigilar la ejecución de programas de protección Civil y prevención del desastre.
+XV. Reglamento: El Reglamento de la Ley de Centros de Atención y Cuidado Infantil para la Ciudad de México.
 
-XVII. Secretaría de Salud del Distrito Federal: es el Órgano de la Administración Pública Central del Distrito Federal encargado formular, ejecutar, operar y evaluar las políticas de salud.
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
 
-XVIII. Visitas de Verificación: Son las realizadas por las autoridades competentes del Distrito Federal, para comprobar el cumplimiento de las disposiciones. Dichas visitas se sujetarán a los principios de unidad, funcionalidad, coordinación, profesionalización, simplificación, agilidad, precisión, legalidad, transparencia, imparcialidad y autocontrol de los particulares.
+XVI. Secretaría de Protección Civil: es el Órgano de la Administración Pública Central de la Ciudad de México encargado de elaborar, coordinar y vigilar la ejecución de programas de protección Civil y prevención del desastre;
+
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+
+XVII. Secretaría de Salud de la Ciudad de México: es el Órgano de la Administración Pública Central de la Ciudad de México encargado (sic) formular, ejecutar, operar y evaluar las políticas de salud;
+
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+
+XVIII. Visitas de Verificación: Son las realizadas por las autoridades competentes de la Ciudad de México, para comprobar el cumplimiento de las disposiciones. Dichas visitas se sujetarán a los principios de unidad, funcionalidad, coordinación, profesionalización, simplificación, agilidad, precisión, legalidad, transparencia, imparcialidad y autocontrol de los particulares, y
 
 XIX. Usuario: La persona que utilice los servicios de un CACI, en cualquiera de sus modalidades, quienes podrán ser la madre, padre, tutor o quien judicialmente tuviere confiada la guarda y custodia del niño o niña.
+
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 5.
 
 Los CACI se clasifican en:
 
-I. CACI Públicos: Los creados, financiados y administrados por el Gobierno del Distrito Federal o sus Instituciones;
+I. CACI Públicos: Los creados, financiados y administrados por el Gobierno de la Ciudad de México o sus Instituciones;
 
-II. CACI Privados: Todos los que son creados, financiados y administrados por particulares, excepto los que reciban subsidios o apoyos del Gobierno Federal;
+II. CACI Privados: Todos los que son creados, financiados y administrados por particulares, excepto los que reciban subsidios o apoyos de la Ciudad de México;
 
-III. CACI Comunitarios: En estos, el Gobierno del Distrito Federal, los órganos político-administrativos y/o las personas físicas o morales participan en el financiamiento o establecimiento de centros que proporcionan diversos servicios de cuidado y atención a la infancia.
+III. CACI Comunitarios: En estos, el Gobierno de la Ciudad de México, las alcaldías y/o las personas físicas o morales participan en el financiamiento o establecimiento de centros que proporcionan diversos servicios de cuidado y atención a la infancia.
+
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+
+ARTÍCULO 5 BIS. - El Gobierno de la Ciudad de México, de acuerdo al presupuesto asignado, procurará el establecimiento de los CACI en zonas de alta y muy alta marginación.
+
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+
+ARTÍCULO 5 TER.- Los CACI privados o comunitarios, procurarán otorgar descuentos en las cuotas y costos desde un cincuenta por ciento hasta un cien por ciento a por lo menos el cinco por ciento de su matrícula, a aquellos usuarios que se encuentren en situaciones de vulnerabilidad de acuerdo a los lineamientos que al efecto emita el Comité de Desarrollo Interinstitucional de Atención y Cuidado de la Infancia.
+
+Se exceptuarán de esta disposición a aquellos CACI que por otra disposición normativa otorguen estos beneficios a los usuarios en mayor proporción a los establecidos en este artículo.
 
 ###### ARTÍCULO 6.
 
@@ -136,15 +176,19 @@ II. Garantizar y velar por la integridad de los niños y niñas a través de las
 
 III. Evaluar los resultados de los servicios prestados en los CACI;
 
-IV. Incluir anualmente en el decreto de presupuesto de egresos del Distrito Federal, los recursos necesarios para la ejecución de la presente Ley;
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+
+IV. Incluir anualmente en el decreto de presupuesto de egresos de la Ciudad de México, los recursos necesarios para la ejecución de la presente Ley;
 
 V. Vigilar el estricto cumplimiento de esta ley, así como las disposiciones que se dicten con base en ella, sin perjuicio de las facultades que en la materia competan a las dependencias públicas locales y federales, y
 
 VI. Las demás que le otorguen las leyes aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 8.
 
-Corresponde al DIF DF:
+Corresponde al DIF CDMX:
 
 I. Elaborar el Padrón Único de Centros de Atención y Cuidado Infantil y publicarlo en su respectivo sitio de internet;
 
@@ -166,7 +210,9 @@ VIII. Las demás que le otorguen las leyes aplicables y que no se opongan a las 
 
 Corresponde a la Secretaría de Salud las siguientes atribuciones:
 
-I. Elaborar todos aquellos actos que permitan preservar la salubridad de los CACI de conformidad con la normatividad que en materia de salud esté vigente en el Distrito Federal;
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+
+I. Elaborar todos aquellos actos que permitan preservar la salubridad de los CACI de conformidad con la normatividad que en materia de salud esté vigente (sic) la Ciudad de México;
 
 II. Emitir lineamientos en materia de sanidad para los CACI;
 
@@ -174,7 +220,9 @@ III. Elaborar programas de nutrición y difundir información para recomendar h�
 
 IV. Realizar las visitas de inspección, cuando considere conveniente, con el fin de evaluar que las instalaciones destinadas a CACI cumplan con la normatividad en materia de salud;
 
-V. Supervisar que los CACI se sujeten a los lineamientos establecidos en la Ley de Salud del Distrito Federal;
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+
+V. Supervisar que los CACI se sujeten a los lineamientos establecidos en la Ley de Salud de la Ciudad de México;
 
 VI. Vigilar que los niños y niñas a su cuidado estén al corriente de sus vacunas, y
 
@@ -212,21 +260,23 @@ V. Las demás que le otorguen las leyes aplicables y el Reglamento de los CACI.
 
 Se crea el Comité de Desarrollo Interinstitucional de Atención y Cuidado de la Infancia, que es un órgano colegiado que tiene la función de evaluar y supervisar el cumplimiento de los objetivos y prioridades de los CACI.
 
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 13.
 
-El Comité, será integrado por:
+El Comité, será integrado por las personas titulares de:
 
-I. Jefe de Gobierno, quien lo presidirá;
+I. La Jefatura de Gobierno, quien lo presidirá;
 
-II. Director General del Sistema para el Desarrollo Integral de la Familia del Distrito Federal, quien tendrá a cargo la coordinación ejecutiva del Comité;
+II. La Dirección General del Sistema para el Desarrollo Integral de la Familia de la Ciudad de México, quien tendrá a cargo la coordinación ejecutiva del Comité;
 
-III. Secretario de Protección Civil;
+III. La Secretaría de Protección Civil;
 
-IV. Secretario de Salud;
+IV. La Secretaría de Salud;
 
-V. Secretario de Educación; y
+V. La Secretaría de Educación; y
 
-VI. Un Representante de la Secretaría de Desarrollo Social del Distrito Federal.
+VI. Una persona representante de la Secretaría de Inclusión y Bienestar Social.
 
 ### CAPÍTULO III. COMITÉ DE DESARROLLO INTERINSTITUCIONAL DE ATENCIÓN Y CUIDADO DE LA INFANCIA
 
@@ -246,9 +296,11 @@ V. Entregar un informe anual a la Asamblea Legislativa, y
 
 VI. Las demás que le otorguen las leyes aplicables y el Reglamento de los CACI.
 
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 15.
 
-Los CACI Públicos, Privados y Comunitarios que presten el servicio de atención y cuidado infantil en el Distrito Federal, con independencia de su régimen interno, deberán sujetarse, en lo conducente, a las disposiciones de esta Ley, y deberán registrarse en la Secretaría de Gobierno a efecto de realizar el tramite para la autorización de apertura.
+Los CACI Públicos, Privados y Comunitarios que presten el servicio de atención y cuidado infantil en la Ciudad de México, con independencia de su régimen interno, deberán sujetarse, en lo conducente, a las disposiciones de esta Ley, y deberán registrarse en el Sistema para el Desarrollo Integral de la Familia, a efecto de realizar el trámite para la autorización de apertura.
 
 ### CAPÍTULO IV. MEDIDAS DE SEGURIDAD EN LOS CENTROS DE ATENCIÓN Y CUIDADO INFANTIL
 
@@ -318,9 +370,11 @@ VI. Las zonas de paso, patios y espacios de recreo no se podrán utilizar en nin
 
 VII. Se debe contar con al menos una salida de emergencia, debiéndose verificar y comprobar periódicamente que se encuentre permanentemente despejada de obstáculos, así como su correcto funcionamiento.
 
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 22.
 
-Además de lo previsto en la presente ley, los CACI que brinden servicios educativos observarán lo dispuesto en la normatividad aplicable. Aquellos que además de dar cuidado y atención infantil impartan educación inicial o preescolar, conforme a los convenios, acuerdos y demás normatividad que en materia de educación resulte aplicable, la capacitación y supervisión se llevarán a cabo en coordinación entre la Secretaría de Educación y el DIF DF.
+Además de lo previsto en la presente ley, los CACI que brinden servicios educativos observarán lo dispuesto en la normatividad aplicable. Aquellos que además de dar cuidado y atención infantil impartan educación inicial o preescolar, conforme a los convenios, acuerdos y demás normatividad que en materia de educación resulte aplicable, la capacitación y supervisión se llevarán a cabo en coordinación entre la Secretaría de Educación y el DIF CDMX.
 
 ### CAPÍTULO V. DEL PERSONAL
 
@@ -350,9 +404,25 @@ Asimismo, podrán orientar a la madre, padre, o quienes judicialmente se le hubi
 
 Los CACI para admitir a un niño o niña, deberán suscribir una carta compromiso con el padre, madre, tutor, o quien ejerza la patria potestad o guarda y custodia sobre el niño o la niña, en el cual se fijarán entre otras circunstancias, el horario al que quedará sujeta la prestación del servicio, la persona o personas autorizadas para recoger al niño o niña, la tolerancia para su entrada y salida y, en su caso, el costo del servicio.
 
-> <small>(ADICIONADO, G.O. 25 DE MARZO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], G.O. 20 DE MARZO DE 2020)</small>
 
-Asimismo, tendrán prioridad para la admisión en los CACI las hijas e hijos de las madres entre 12 y 22 años 11 meses de edad, que comprueben estar inscritas en los niveles básico, medio superior o superior del sistema educativo nacional y que por asistir a la escuela no puedan proporcionar la atención y cuidados necesarios a sus hijas e hijos. En estos casos, el Gobierno de la Ciudad de México cubrirá el costo de los servicios de acuerdo a la suficiencia presupuestal disponible y atendiendo a los criterios socioeconómicos que para tales efectos sean expedidos anualmente por la autoridad.
+Asimismo, tendrán prioridad para la admisión en los CACI las hijas e hijos:
+
+I. De madres entre 12 y 22 años 11 meses de edad, que comprueben estar inscritas en los niveles básico, medio superior o superior del sistema educativo nacional y que por asistir a la escuela no puedan proporcionar la atención y cuidados necesarios a sus hijas e hijos;
+
+II. De madres víctimas de violencia intrafamiliar;
+
+III. De madres solteras que requieran la atención de su niña o niño por motivos laborales;
+
+IV. Que su madre, padre y/o tutor, se encuentren en condiciones de pobreza o vulnerabilidad económica;
+
+V. Se atiendan a niñas o niños con algún grado de discapacidad; y,
+
+VI. Se encuentren en los demás casos que determine el Comité de Desarrollo Interinstitucional de Atención y Cuidado de la Infancia
+
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 2020)</small>
+
+En los casos anteriores, el Gobierno de la Ciudad de México cubrirá el costo de los servicios de acuerdo a la suficiencia presupuestal disponible y atendiendo a los criterios socioeconómicos que para tales efectos sean expedidos anualmente por la autoridad.
 
 ###### ARTÍCULO 28.
 
@@ -480,21 +550,27 @@ La autorización de apertura para la operación y funcionamiento de los CACI, de
 
 Los requisitos para tramitar la autorización de apertura son los siguientes:
 
-I.- Llenar el formato expedido por la Secretaría de Gobierno en el que se especificará, el nombre de la persona física o moral que desee prestar el servicio de un CACI;
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
 
-II.- Entrega de los siguientes documentos:
+I. Llenar el formato expedido por el Sistema para el Desarrollo Integral de la Familia, en el que se especificará el nombre de la persona física o moral que desee prestar el servicio de un CACI;
+
+II. Entrega de los siguientes documentos:
 
 a) Constancia expedida por la Secretaría de Protección Civil, quien tendrá un plazo de treinta días naturales para expedirla, en la cual se exprese que las instalaciones cuentan con todas las medidas de seguridad previstas en la presente ley para operar;
 
 b) Identificación oficial vigente y tratándose de personas morales, el acta constitutiva, reformas a ésta y los documentos que acrediten la representación legal del solicitante, y
 
-c) Carta de no antecedentes penales expedida por la Procuraduría General de Justicia del Distrito Federal de las personas físicas y en su caso de todos los socios de la persona moral, salvo tratándose de delitos culposos, cuando en estos últimos haya transcurrido el término de tres años. Por ningún motivo deberá tener antecedentes por delitos previstos en el Libro II, Título V y VI del Código Penal para el Distrito Federal, o cualquier otro similar que pudiera poner en peligro la integridad física y psicológica de los niños o niñas; y
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 2020)</small>
+
+c) Carta de no antecedentes penales expedida por la Procuraduría General de Justicia de la Ciudad de México de las personas físicas y en su caso de todos los socios de la persona moral, salvo tratándose de delitos culposos, cuando en estos últimos haya transcurrido el término de tres años. Por ningún motivo deberá tener antecedentes por delitos previstos en el Libro II, Título V y VI del Código Penal para la Ciudad de México, o cualquier otro similar que pudiera poner en peligro la integridad física y psicológica de los niños o niñas; y
 
 III. Un proyecto de reglamento operativo, de acuerdo con las edades y número de los niños y niñas que atenderá.
 
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 47.
 
-Recibida la solicitud, la Secretaria de Gobierno en un plazo máximo de quince días hábiles, comunicará al interesado la resolución fundada y motivada correspondiente y, en su caso, expedirá la autorización de apertura.
+Recibida la solicitud, el Sistema para el Desarrollo Integral de la Familia, en un plazo máximo de quince días hábiles, comunicará al interesado la resolución fundada y motivada correspondiente y, en su caso, expedirá la autorización de apertura.
 
 ###### ARTÍCULO 48.
 
@@ -548,15 +624,19 @@ II. Cuando el CACI, considere necesario ejecutar obras de reparación, ampliaci�
 
 III. Cuando sobrevenga algún fenómeno natural, contingencia o causa operativa que impida la prestación del servicio.
 
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 55.
 
-Las sanciones, así como la revocación de las autorizaciones de apertura, serán por resolución que emane de los procedimientos establecidos en la Ley de Procedimiento Administrativo del Distrito Federal.
+Las sanciones, así como la revocación de las autorizaciones de apertura, serán por resolución que emane de los procedimientos establecidos en la Ley de Procedimiento Administrativo aplicable al ámbito local.
 
 ### CAPÍTULO XIII. DEL FONDO DE APOYO PARA LA REGULARIZACIÓN DE LOS CENTROS DE ATENCIÓN Y CUIDADO INFANTIL
 
-###### Artículo 56.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MARZO DE 2020)</small>
 
-Los CACI contarán con un Fondo de Apoyo para su regularización, administrado por la Secretaría de Finanzas del Distrito Federal y en coordinación con el DIF DF.
+###### ARTÍCULO 56.
+
+Los CACI contarán con un Fondo de Apoyo para su regularización, administrado por la Secretaría de Administración y Finanzas de la Ciudad de México, en coordinación con el DIF CDMX.
 
 El Comité, establecerá los mecanismos para acceder al Fondo, tomando en cuenta lo siguiente:
 
@@ -595,3 +675,13 @@ G.O. 25 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 27 DE LA LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCIÓN Y CUIDADO INFANTIL PARA EL DISTRITO FEDERAL”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA DENOMINACIÓN DE LA LEY; SE REFORMAN LOS ARTÍCULOS 1, 2, 3, 4 FRACCIONES I, VII, VIII, IX, X, XII, XV, XVI, XVII Y XVIII, 5, 7, FRACCIÓN IV, 8, PRIMER PÁRRAFO, 9, FRACCIONES I Y V, 13, 15, 22, 27, 46, FRACCIONES I Y II, INCISO C), 47, 55 Y 56; Y SE ADICIONAN LOS ARTÍCULOS 5 BIS Y 5 TER TODOS DE LA LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCIÓN Y CUIDADO INFANTIL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno de la Ciudad de México, para su publicación en la Gaceta Oficial de la Ciudad de México
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- La Jefatura de Gobierno contará con 30 días contados a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones correspondientes al Reglamento de la Ley que Regula el Funcionamiento de los Centros de Atención y Cuidado Infantil para el Distrito Federal.
