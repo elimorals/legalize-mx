@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-mejora-regulatoria-del-estado-de-baja-california-89621"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-28"
-last_updated: "2012-09-28"
+last_updated: "2020-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE MEJORA REGULATORIA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 28 de septiembre de 2012.
 
@@ -199,9 +199,11 @@ Los actos administrativos de carácter general, tales como reglamentos, decretos
 
 ### CAPÍTULO PRIMERO. DE LA COMISIÓN DE MEJORA REGULATORIA DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2020)</small>
+
 ###### Artículo 14.
 
-Se crea la Comisión de Mejora Regulatoria del Estado de Baja California, como organismo público desconcentrado, adscrito a la Secretaría de Desarrollo Económico del Gobierno del Estado de Baja California, cuyas atribuciones serán:
+Se crea la Comisión de Mejora Regulatoria del Estado de Baja California, como Organismo Público Desconcentrado, adscrito a la Secretaría de Economía Sustentable y Turismo del Gobierno del Estado de Baja California, cuyas atribuciones serán:
 
 I. Realizar un proceso continuo de revisión de la regulación en materia económica del Estado de Baja California, diagnosticar los efectos de su aplicación y elaborar propuestas al Gobernador de proyectos de disposiciones legislativas y administrativas, así como para mejorar la regulación en actividades o sectores económicos específicos;
 
@@ -225,9 +227,17 @@ X. Elaborar cada año y publicar en el Periódico Oficial del Estado de Baja Cal
 
 XI. Formular y proponer, en el marco de los programas de desregulación y simplificación administrativa, las acciones que incentiven la creación de empresas, la inversión y el desarrollo tecnológico, fortaleciendo el mercado interno y la promoción de las exportaciones;
 
-XII. Proponer acciones con base en estudios y programas especiales, sobre la simplificación de la actividad económica; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2020)</small>
 
-XIII. Interpretar en el ámbito administrativo esta Ley.
+XII. Proponer acciones con base en estudios y programas especiales, sobre la simplificación de la actividad económica;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MARZO DE 2020)</small>
+
+XIII. Vigilar que las empresas extranjeras, foráneas o nacionales que inicien operaciones en Baja California, cumplan con lo señalado en la fracción V del artículo 24 de esta ley, cuando así lo determinen las autoridades en mejora regulatoria del Estado; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE MARZO DE 2020)</small>
+
+XIV. Interpretar en el ámbito administrativo esta Ley.
 
 ###### Artículo 15.
 
@@ -375,6 +385,8 @@ Las dependencias y entidades entregarán a la Comisión un reporte semestral res
 
 ### CAPÍTULO SEGUNDO. DE LAS DISPOSICIONES COMUNES A LOS TRÁMITES Y SERVICIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 20 DE MARZO DE 2020)</small>
+
 ###### Artículo 24.
 
 Para el desahogo de los trámites o servicios se observarán las previsiones siguientes, salvo que en otra regulación de carácter general se establezcan reglas particulares:
@@ -386,6 +398,10 @@ II. Todo documento original puede presentarse en copia certificada y éstos podr
 III. Cuando se requiera la comprobación de existencia de permisos, registros, licencias y, en general, de cualquier documento expedido por la dependencia o entidad ante la que realice el trámite o el servicio, los interesados podrán señalar los datos de identificación de dichos documentos, lo que les eximirá de entregar copia de dicha documentación; y
 
 IV. Los interesados no estarán obligados a proporcionar datos o entregar juegos adicionales de documentos entregados previamente a la dependencia o entidad ante la que realicen el trámite o servicio correspondiente, siempre y cuando señalen los datos de identificación del escrito en el que se citaron o con el que se acompañaron y el nuevo trámite o servicio lo realicen ante la propia dependencia o entidad, aún y cuando lo hagan ante una unidad administrativa diversa. Esto no aplicará cuando en un procedimiento se tenga que dar vista a terceros.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MARZO DE 2020)</small>
+
+V. En los trámites de apertura y operación de empresas extranjeras, foráneas o nacionales en Baja California, si así lo estimaren conveniente las autoridades en materia de mejora regulatoria en el Estado, podrán requerir a las empresas anteriores, el depósito de una garantía que tenga como finalidad cubrir las obligaciones legales adquiridas con motivo de su operación y/o apertura.
 
 ###### Artículo 25.
 
@@ -589,9 +605,13 @@ Una vez inscrito el usuario en el RUPABC las dependencias o entidades estarán o
 
 ### CAPÍTULO SEXTO. DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2020)</small>
+
 ###### Artículo 46.
 
-Se crea el Sistema de Apertura Rápida de Empresas, con el objeto de coordinar las acciones de la administración pública centralizada del Estado de Baja California y los Ayuntamientos, para que las empresas de bajo riesgo para la salud y el medio ambiente, puedan contar con los permisos y licencias administrativas para iniciar sus operaciones en un plazo máximo de tres días hábiles, a partir del ingreso de la solicitud debidamente integrada.
+Se crea el Sistema de Apertura Rápida de Empresas, con el objeto de coordinar las acciones de la Administración Pública Centralizada del Estado de Baja California y los Ayuntamientos, para que las empresas de bajo riesgo para la salud y el medio ambiente, puedan contar con los permisos y licencias administrativas para iniciar sus operaciones en un plazo máximo de tres días hábiles, a partir del ingreso de la solicitud debidamente integrada.
+
+El trámite de apertura rápida de las empresas extranjeras o foráneas en Baja California, no procederá hasta en tanto se dé cumplimiento a lo señalado en la fracción V del artículo 24 de esta ley, cuando así lo determinen las autoridades en mejora regulatoria en el Estado.
 
 ###### Artículo 47.
 
@@ -666,3 +686,17 @@ GOBERNADOR DEL ESTADO
 FRANCISCO ANTONIO GARCÍA BURGOS
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 50 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 14, 24 Y 46 DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La Secretaría de Economía Sustentable y Turismo, realizará una campaña informativa para dar a conocer la presente reforma, asimismo realizará un estudio de riesgo para identificar las características de las empresas golondrinas o de riesgo, para que sean considerados (sic) por los funcionarios responsables de dar a trámite a las autorizaciones de nuevas empresas para la aplicación de la presente reforma.
+
+TERCERO.- La Secretaría del Trabajo vigilará el cumplimiento de la presente reforma, en el ámbito de sus atribuciones.
+
+CUARTO.- Las presentes disposiciones se aplicarán a las nuevas empresas que inicien operaciones a partir de la entrada en vigor de la presente reforma.
