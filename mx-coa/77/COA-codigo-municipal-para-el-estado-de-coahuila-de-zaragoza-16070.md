@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2020-02-04"
+last_updated: "2020-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -729,9 +729,11 @@ Las sesiones que celebre el ayuntamiento podrán ser ordinarias o extraordinaria
 
 En las sesiones ordinarias el ayuntamiento tratará los asuntos de su competencia y de su funcionamiento y celebrará el número de ellas que señale su reglamento interior pero no podrán ser menos de dos sesiones ordinarias públicas al mes.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 91.
 
-Las sesiones extraordinarias tienen por objeto tratar asuntos, que sean importantes y urgentes para la vida municipal; pueden celebrase las que se consideren necesarias, a juicio del presidente municipal.
+Las sesiones extraordinarias tienen por objeto tratar asuntos, que sean importantes y urgentes para la vida municipal; pueden celebrase las que se consideren necesarias, a juicio del presidente municipal o de las dos terceras partes de la totalidad de los miembros del cabildo.
 
 ###### ARTÍCULO 92.
 
@@ -2477,7 +2479,9 @@ II. Buscarán tener la eficacia que corresponde al logro de la mayor calidad y l
 
 III. Se prestarán con eficiencia, para economizar sus costos al máximo posible.
 
-IV. Se aplicarán equitativamente, buscando asegurar un mínimo para todos los habitantes de la comunidad; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2020)</small>
+
+IV. Se aplicarán equitativamente, buscando asegurar un mínimo para todos los habitantes de la comunidad, incluyendo a los asentamientos humanos irregulares, en cuanto al servicio público municipal de limpia, recolección, traslado, tratamiento y disposición final de residuos, y.
 
 V. La imposibilidad de su prestación para todos los habitantes, determinará que aquellos que no lo disfruten, sean sujetos de programas compensatorios.
 
@@ -4958,3 +4962,19 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los organismos municipales señalados en el artículo 138, deberán cumplir con el contenido de los informes trimestrales en un plazo de tres meses contado a partir de la entrada en vigor del presente decreto, aplicable para los organismos que nunca habían presentado el informe correspondiente. Los organismos que presentaban informes trimestrales deberán cumplir con los contenidos correspondientes al presentar el informe que corresponda en fecha posterior a la promulgación de este decreto.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 566.- SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 200 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado; y
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 567.- SE REFORMA EL ARTÍCULO 91 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
