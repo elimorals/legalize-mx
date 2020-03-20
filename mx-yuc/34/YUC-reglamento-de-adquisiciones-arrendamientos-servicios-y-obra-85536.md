@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-adquisiciones-arrendamientos-servicios-y-obra-855
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-27"
-last_updated: "2018-05-15"
+last_updated: "2020-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y OBRA PÚBLICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE MARZO DE 2020.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 27 de enero de 2012.
 
@@ -765,17 +765,15 @@ La Unidad de Administración efectuará el pago correspondiente, una vez que ver
 
 Requisito para adjudicación
 
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 44.
 
-Será requisito indispensable para la adjudicación del proveedor, que éste se encuentre previamente inscrito en el Padrón de Proveedores del Tribunal. Dicha inscripción será gratuita.
+Será requisito para la adjudicación del contrato, que el proveedor se encuentre previamente inscrito en el Padrón de Proveedores del Tribunal o en el Padrón de Proveedores del Consejo de la Judicatura. La inscripción en el Padrón de Proveedores del Tribunal será gratuita.
 
-> <small>(ADICIONADO, D.O. 6 DE AGOSTO DE 2013)</small>
+La Unidad de Administración llevará el Padrón de Proveedores del Tribunal, por conducto del Departamento de Servicios Generales, y clasificará a las personas inscritas de acuerdo con su actividad.
 
-La Unidad de Administración llevará el Padrón de Proveedores del Tribunal, por conducto del Departamento de Servicios Generales y Mantenimiento, y clasificará a las personas inscritas de acuerdo con su actividad.
-
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O. 15 DE MAYO DE 2018)</small>
-
-Se podrán realizar contrataciones con proveedores no inscritos en el padrón a que se refiere este artículo, cuando:
+Se podrán realizar contrataciones con proveedores no inscritos previamente en los padrones a que se refiere este artículo, cuando:
 
 I. La operación no rebase de 500 veces el valor diario de la unidad de medida y actualización, sin incluir impuestos;
 
@@ -785,9 +783,21 @@ III. Entre los proveedores inscritos no se encuentre alguno que ofrezca los bien
 
 IV. Se actualice un evento imprevisible y la demora en la contratación ponga en peligro la implementación u operación de los fines, programas, planes o funcionamiento del Tribunal.
 
-> <small>(ADICIONADO, D.O. 15 DE MAYO DE 2018)</small>
-
 Los referidos supuestos serán justificados en el informe suscrito por el Director de la Unidad de Administración.
+
+Igualmente, se podrán realizar contrataciones con proveedores no inscritos previamente en los padrones señalados, cuando se actualicen los supuestos establecidos en el artículo 23 de este Reglamento.
+
+Las excepciones establecidas en este artículo no eximirán al área responsable de la contratación, de la obligación de solicitar al proveedor al que se proponga adjudicar el contrato, la documentación relacionada en el artículo 45 de este Reglamento.
+
+> <small>(ADICIONADO, D.O. 20 DE MARZO DE 2020)</small>
+
+Reconocimiento de la inscripción en el Padrón de Proveedores del Consejo de la Judicatura
+
+ARTÍCULO 44 BIS. Los proveedores inscritos en el Padrón de Proveedores del Consejo de la Judicatura podrán participar en los procedimientos regulados en este Reglamento, siempre que acrediten la referida inscripción y su vigencia, al tiempo de la presentación de la cotización o propuesta.
+
+El Comité de Adquisiciones otorgará reconocimiento a las inscripciones del Padrón de Proveedores del Consejo de la Judicatura, cuando se advierta que al momento de la inscripción existió identidad entre los requisitos solicitados en aquel, y los previstos en el artículo 45 de este Reglamento.
+
+El Tribunal promoverá el establecimiento de mecanismos de colaboración con el Consejo de la Judicatura del Poder Judicial del Estado, para compartir los expedientes de sus respectivos padrones de proveedores. En este sentido, previo a la adjudicación, la Unidad de Administración deberá allegarse de la información contenida en el expediente del proveedor que obre en poder de las áreas competentes del Consejo de la Judicatura del Poder Judicial del Estado, a fin de verificar el cumplimiento de los requisitos fijados en este Reglamento.
 
 Requisitos de inscripción en el Padrón de Proveedores
 
@@ -1164,3 +1174,15 @@ Artículo quinto. Se instruye a la persona titular de la Secretaría Ejecutiva d
 Derogación tácita
 
 Artículo sexto. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Acuerdo General.
+
+D.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO OR04-200220-20 DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO POR EL QUE SE REFORMA Y ADICIONA EL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y OBRA PÚBLICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE YUCATÁN, EN MATERIA DE PADRÓN DE PROVEEDORES”.]
+
+Entrada en vigor
+
+Artículo primero. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación tácita
+
+Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Acuerdo General.
