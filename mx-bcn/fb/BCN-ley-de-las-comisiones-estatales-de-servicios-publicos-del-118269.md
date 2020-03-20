@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-las-comisiones-estatales-de-servicios-publicos-del-11826
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-19"
-last_updated: "2017-01-19"
+last_updated: "2020-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
 
 Ley publicada en el Número Especial al 4 del Periódico Oficial del Estado de Baja California, el jueves 19 de enero de 2017.
 
@@ -55,7 +55,9 @@ III.- La operación y mantenimiento de los sistemas de que se trata;
 
 IV.- La prestación a los usuarios de los servicios mencionados;
 
-V.- La recaudación de los derechos que conforme a la Ley y a los Convenios que celebren, les correspondan;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2020)</small>
+
+V.- La determinación de créditos fiscales y recaudación de los derechos, aprovechamientos y contribuciones de mejoras que conforme a las Leyes aplicables y a los Convenios que celebren, les correspondan;
 
 VI.- La implementación de programas de apoyo a los usuarios para el financiamiento en la adquisición de tecnologías así como aditamentos y dispositivos ahorradores de agua, y
 
@@ -203,9 +205,13 @@ Los derechos por consumo de agua, alcantarillado de aguas negras y demás servic
 
 El importe de las obras de conducción, distribución, conexión de las redes a los sistemas generales de las ciudades, tomas de agua, descargas de aguas negras, u otras, serán los que fijen cada una de las Comisiones de acuerdo a los costos que para éstas tengan dichas obras.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 21.
 
-La obligación de pago de las cuotas por consumo de agua y por realización de las obras que ejecute la Comisión y sus accesorios, tendrá el carácter de fiscal, correspondiendo a la Comisión la determinación de los créditos y de las bases para su liquidación, la fijación de la cantidad líquida y su percepción y cobro. Respecto de las cantidades que no hubieren sido cubiertas directamente a la Comisión, el cobro se realizará por conducto de las Oficinas Recaudadoras del Estado, conforme al Código Fiscal del mismo, las que podrán hacer uso del procedimiento económico-coactivo. Obtenido el pago, las Oficinas Ejecutoras entregarán a la Comisión las sumas recaudadas.
+La obligación de pago de las cuotas por consumo de agua y por realización de las obras que ejecute la Comisión y sus accesorios, tendrá el carácter de fiscal, correspondiendo a la Comisión la determinación de los créditos y de las bases para su liquidación, la fijación de la cantidad líquida y su percepción.
+
+Respecto de las cantidades que no hubieren sido cubiertas directamente a la Comisión, el cobro se realizará por conducto de las Oficinas Subrecaudadoras de Rentas adscritas a la Comisión, conforme al Código Fiscal del Estado, las que podrán hacer uso del procedimiento económico-coactivo, el importe del cobro que se recupere del procedimiento, deberá ingresarse a la Comisión que lo generó.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -256,3 +262,13 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GOMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 51 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2 FRACCIÓN V Y 21 DE LA LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA, ASIMISMO SE REFORMAN LOS ARTÍCULOS 2 Y 17, Y ADICIÓN DE UNA FRACCIÓN IV AL ARTÍCULO 96 DE LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las Comisiones Estatales de Servicios Públicos dentro de los 90 días naturales contados a partir de la entrada en vigor de la presente reforma, deberán realizar las modificaciones a los reglamentos que correspondan.
