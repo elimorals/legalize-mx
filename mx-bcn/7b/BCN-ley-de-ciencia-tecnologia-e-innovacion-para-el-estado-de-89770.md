@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ciencia-tecnologia-e-innovacion-para-el-estado-de-89770"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-05"
-last_updated: "2016-10-21"
+last_updated: "2020-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE CIENCIA, TECNOLOGIA E INNOVACION PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE IMPULSO AL CONOCIMIENTO CIENTÍFICO, TECNOLÓGICO Y A LA INNOVACIÓN PARA EL DESARROLLO DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020 (ABROGADO).
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 5 de octubre de 2012.
 
@@ -858,3 +860,21 @@ P.O. 21 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 642 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6, 20 Y 41 DE LA LEY DE LA CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 Único.- El presente decreto entrará en vigor al día siguiente a su publicación en el periódico oficial del Estado de Baja California.
+
+P.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 45 MEDIANTE EL CUAL SE CREA LA LEY DE IMPULSO AL CONOCIMIENTO CIENTÍFICO, TECNOLÓGICO Y A LA INNOVACIÓN PARA EL DESARROLLO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Ciencia, Tecnología e Innovación para el Estado de Baja California, publicada en el Periódico Oficial del Estado bajo en (sic) No. 45, Tomo CXIX, sección II, de fecha 5 de octubre de 2012, y se derogan las disposiciones de leyes o reglamentos que se opongan a lo que establece esta Ley.
+
+TERCERO.- La Secretaría de Educación y la Secretaría de Economía Sustentable y Turismo, contarán con el personal destinado para cumplir con lo establecido en la presente Ley.
+
+CUARTO.- El COCIT, establecerán (sic) los lineamientos que deberán seguir en sus respectivas sesiones, atendiendo lo dispuesto en la presente Ley.
+
+QUINTO.- En un periodo de 60 días naturales a partir de la entrada en vigor de la presente Ley, la Secretaría en coordinación con el COCIT, realizarán modificaciones a sus respectivas páginas de Internet, a fin de dar cumplimiento a la presente Ley en materia de transparencia.
+
+SEXTO.- Para efectos de dar cumplimiento a la presente Ley y a partir de la entrada en vigor del presente Decreto, se precisa que el inmueble donde se ubica el Consorcio, seguirá siendo administrado por la Secretaría de Economía Sustentable y Turismo, con participación de la Secretaría de Educación, y en donde el referido Consorcio cambiará su denominación como Consorcio de Investigación e Innovación Tecnológica, el cual será la sede del COCIT.
+
+SÉPTIMO.- El Gobernador del Estado contará con 90 días naturales contados a partir de la entrada en vigor de la presente Ley, para modificar o expedir las normas reglamentarias correspondientes, para la ejecución y cumplimiento de la misma.
