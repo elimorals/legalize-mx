@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2020-02-28"
+last_updated: "2020-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE FEBRERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -639,9 +637,11 @@ f) Las iniciativas encaminadas a establecer programas educativos dirigidos a los
 
 g) La designación y renuncia del Presidente de la Comisión Estatal de Derechos Humanos, así como representar al Congreso ante los organismos e instancias de Derechos Humanos estatales, nacionales e internacionales
 
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 20 DE MARZO DE 2020)</small>
+
 h) Coordinarse con otra u otras comisiones para tratar temas comunes o relacionados con sus atribuciones;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 20 DE MARZO DE 2020)</small>
 
 i) Dar cauce y contestación a las peticiones de personas que soliciten la intervención del Poder Legislativo;
 
@@ -785,15 +785,23 @@ d) Lo concerniente al desarrollo y planificación de centros de población alter
 
 e) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 20 DE MARZO DE 2020)</small>
 
-X.- Comisión de Transporte:
+X.- Comisión de Movilidad:
 
-a) Legislar en lo relativo al transporte, así como lo que se refiera al tránsito de todo tipo de vehículos;
+a) Legislar lo relativo a las directrices para planificar, regular y gestionar la movilidad de las personas y los bienes en el Estado.
 
-b) La legislación relativa a la construcción y funcionamiento de las vías de comunicación estatales así como la prestación directa o concesionada de transporte; y
+b) Legislar lo relativo a la prestación de los diferentes servicios de transporte público de pasajeros y de alquiler;
 
-c) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+c) Legislar lo relativo al fomento del uso de medios de transporte no motorizado en el Estado;
+
+d) Legislar lo relativo a incentivar el uso de las nuevas tecnologías de la información para el mejoramiento del transporte y la movilidad en el Estado;
+
+e) Legislar lo relativo a la prestación de los diferentes servicios de transporte privado en el estado;
+
+f) La legislación relativa a la construcción y funcionamiento de las vías de comunicación estatales así como la prestación directa o concesionada de transporte; y
+
+g) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -893,9 +901,7 @@ b) Las iniciativas y reformas a las leyes en materia de ciencia y tecnología;
 
 c) Proponer al Titular del Ejecutivo Estatal, las reformas legales o administrativas para estímulos fiscales, y para reducir o eliminar las barreras regulatorias, presupuestales, administrativas y financieras que obstaculicen el desarrollo científico, tecnológico y de innovación en el Estado;
 
-> <small>[N. DE E. EL CONTENIDO DEL PRESENTE INCISO ES IDÉNTICO AL CONTENIDO DEL INCISO C), VÉASE PUBLICACIÓN OFICIAL DE FECHA 20 DE ENERO DE 2020.]</small>
-
-d) Proponer al Titular del Ejecutivo Estatal, las reformas legales o administrativas para estímulos fiscales, y para reducir o eliminar las barreras regulatorias, presupuestales, administrativas y financieras que obstaculicen el desarrollo científico, tecnológico y de innovación en el Estado;
+d) (DEROGADO, P.O. 20 DE MARZO DE 2020)
 
 e) Las iniciativas y reformas que tengan como fin el Impulsar el desarrollo científico, tecnológico y de innovación a través del fortalecimiento de los sectores sociales, económicos y ambientales del Estado;
 
@@ -2932,3 +2938,9 @@ TERCERO.- Dentro de los 6 meses siguientes a la entrada en vigor del presente De
 CUARTO.- El Sistema de Información Legislativa previsto en el artículo 159 BIS 2 y la Plataforma Digital Legislativa contemplada en el artículo 65 ambos del Reglamento para el Gobierno Interior del Congreso del Estado, entrarán en funciones durante los 180 días posteriores a la entrada en vigor al presente Decreto y el Sistema de Información Legislativa contendrá cuando menos toda la información relativa a la LXXV Legislatura, pudiendo de manera posterior adicionar información respecto a Legislaturas anteriores.
 
 QUINTO.- La Gaceta Legislativa empezará a publicarse en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 281. SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 70 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 39; SE ADICIONAN LOS INCISOS H) E I) A LA FRACCIÓN V; Y SE DEROGA EL INCISO D) DE LA FRACCIÓN XIII, DEL ARTÍCULO 39 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
