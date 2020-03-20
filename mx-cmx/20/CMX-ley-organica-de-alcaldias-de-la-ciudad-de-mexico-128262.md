@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-alcaldias-de-la-ciudad-de-mexico-128262"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2020-03-04"
+last_updated: "2020-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128262&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MARZO DE 2020.
 
 Ley publicada en el Tomo I del Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -294,9 +294,9 @@ XIX. Promover la creación, ampliación, cuidado, mejoramiento, uso, goce, recup
 
 XX. Proteger y ampliar el patrimonio ecológico;
 
-(REUBICADA, G.O. 4 DE MARZO DE 2020)
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
 
-XXI. Promover el interés general de la Ciudad y asegurar el desarrollo sustentable;
+XXI. Establecer instrumentos de cooperación local, así como celebrar acuerdos interinstitucionales con las Alcaldías y los municipios de las entidades federativas, entidades gubernamentales de otras naciones y organizaciones internacionales, en coordinación con el órgano encargado de las relaciones internacionales del Gobierno de la Ciudad de México, los cuales sean informados al Congreso y dando la intervención correspondiente a la autoridad competente, de conformidad con la legislación aplicable. Además, podrán designar un enlace de alto nivel para el vínculo, seguimiento, monitoreo y cumplimiento de esos acuerdos;
 
 (REUBICADA, G.O. 4 DE MARZO DE 2020)
 
@@ -402,9 +402,17 @@ XIII. Reglamentos, circulares y disposiciones administrativas de observancia gen
 
 XIV. Alcaldía digital;
 
-XV. La delegación de atribuciones será en términos de lo que establezca el reglamento; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE MARZO DE 2020)</small>
 
-XVI. Las demás que señalen las leyes.
+XV. Acción internacional de gobierno local;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA], G.O. 20 DE MARZO DE 2020)</small>
+
+XVI. La delegación de atribuciones será en términos de lo que establezca el reglamento; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA], G.O. 20 DE MARZO DE 2020)</small>
+
+XVII. Las demás que señalen las leyes.
 
 ### CAPÍTULO VII. DE LAS ATRIBUCIONES EXCLUSIVAS DE LAS PERSONAS TITULARES DE LAS ALCALDÍAS
 
@@ -576,9 +584,11 @@ La atribución exclusiva de las personas titulares de las Alcaldías en materia 
 
 ### CAPÍTULO VIII. DE LAS ATRIBUCIONES DE LAS PERSONAS TITULARES DE LAS ALCALDÍAS COORDINADAS CON EL GOBIERNO DE LA CIUDAD DE MÉXICO U OTRAS AUTORIDADES
 
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 2020)</small>
+
 ###### Artículo 40.
 
-Las personas titulares de las Alcaldías tienen las siguientes atribuciones coordinadas con el Gobierno de la Ciudad u otras autoridades en las materias de gobierno y régimen interior, obra pública, desarrollo urbano y servicios públicos, desarrollo económico y social, educación y cultura, protección al medio ambiente, asuntos jurídicos y alcaldía digital.
+Las personas titulares de las Alcaldías tienen las siguientes atribuciones coordinadas con el Gobierno de la Ciudad u otras autoridades en las materias de gobierno y régimen interior, obra pública, desarrollo urbano y servicios públicos, desarrollo económico y social, educación y cultura, protección al medio ambiente, asuntos jurídicos, alcaldía digital y acción internacional de gobierno local.
 
 ###### Artículo 41.
 
@@ -729,6 +739,26 @@ I. Participar con la Jefatura de Gobierno en el diseño y despliegue de una agen
 II. Contribuir con la infraestructura de comunicaciones, cómputo y dispositivos para el acceso a internet gratuito en espacios públicos; y
 
 III. Ofrecer servicios y trámites digitales simplificados a la ciudadanía.
+
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+
+###### Artículo 54 Bis.
+
+Las Alcaldías, en el ámbito de sus competencias y de manera coordinada con el órgano encargado de las relaciones internacionales del Gobierno de la Ciudad de México, promoverán su acción internacional de conformidad con la política internacional de la Ciudad de México, con las leyes en la materia y bajo los principios que rigen la política exterior mexicana.
+
+Para llevar a cabo lo anterior, podrán:
+
+I. Coadyuvar en la proyección de la Ciudad de México en el exterior, de conformidad con el numeral 7 del artículo 20, de la Constitución Local;
+
+II. Celebrar acuerdos interinstitucionales, así como formular mecanismos de cooperación internacional y regional con entidades gubernamentales equivalentes de otras naciones y con organizaciones internacionales que favorezcan la cooperación internacional y las relaciones de amistad, los cuales sean informados al Congreso, de conformidad con el numeral 8 del artículo 20 de la Constitución Local, y al Gobierno Federal;
+
+III. Celebrar acuerdos de hermanamiento con entidades locales extranjeras estratégicas para impulsar la cooperación y los lazos de amistad;
+
+IV. Participar en foros multilaterales regionales temáticos y bilaterales internacionales, informado al Congreso Local y al Gobierno Federal;
+
+V. Promover el intercambio y la difusión cultural e histórica de su demarcación con entidades gubernamentales, organizaciones internacionales, instituciones académicas y de la sociedad civil en el exterior; y
+
+VI. Mantener relaciones de colaboración con las embajadas, consulados, representaciones de organizaciones internacionales, cámaras de industria o del comercio e institutos culturales extranjeros que se encuentren dentro de su territorio, a fin de promover la cooperación y el intercambio social y cultural.
 
 ###### Artículo 55.
 
@@ -2341,3 +2371,15 @@ G.O. 4 DE MARZO DE 2020.
 PRIMERO. Remítase a la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México y, para su mayor difusión, en el Diario Oficial de la Federación.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XVIII, NUMERAL 2 DEL ARTÍCULO 10 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO. SE REFORMA LA FRACCIÓN XXI, DEL ARTÍCULO 20, Y LAS FRACCIONES XV, XVI Y XVII, DEL ARTÍCULO 29; SE REFORMA EL ARTÍCULO 40; Y, SE ADICIONA EL 54 BIS, DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+CUARTO. Cuando un acuerdo interinstitucional involucre la transferencia de recursos financieros, se atenderá lo dispuesto conforme a la Ley en la materia.
