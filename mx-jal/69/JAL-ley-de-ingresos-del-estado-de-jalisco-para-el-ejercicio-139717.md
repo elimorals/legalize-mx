@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-139717"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-27"
-last_updated: "2020-02-18"
+last_updated: "2020-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2020
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 18 DE FEBRERO DE 2020 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 25 DE ENERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
 
 Ley publicada en el Número 40 Ter de la Edición Especial del Periódico Oficial del Estado de Jalisco, el viernes 27 de diciembre de 2019.
 
@@ -977,13 +975,21 @@ El refrendo anual para motocicletas sólo incluye la expedición de tarjeta de c
 
 Tratándose de vehículos fabricados con sistema de propulsión híbrido sin considerar los modificados o hechizos, pagarán el 50%, por derecho de refrendo anual y calcomanía de identificación vehicular previsto en la fracción III de este artículo, en el caso de vehículos eléctricos, estarán exentos del pago de los derechos referidos.
 
-Los pagos previstos en las fracciones III y III Bis de este artículo deberán efectuarse en el periodo comprendido del 2 de enero al último día hábil del mes de marzo de 2020 dos mil veinte.
+> <small>(REFORMADO, P.0. 20 DE MARZO DE 2020)</small>
+
+Los pagos previstos en las fracciones III y III Bis de este artículo deberán efectuarse en el periodo comprendido del 2 de enero al último día hábil del mes de mayo de 2020 dos mil veinte.
 
 Los propietarios de automóviles, camiones, camionetas, tractores automotores, remolques y motocicletas, que hubieren sido objeto de robo, estarán exentos del pago de derechos previstos en la fracción III y III Bis de este artículo, por el ejercicio fiscal en que ocurrió el delito, siempre que el robo hubiere acontecido dentro del periodo de pago a que se refiere el párrafo anterior.
 
 A los pagos efectuados del 1° primero de enero y hasta el 31 treinta y uno de enero de 2020 dos mil veinte, por los derechos previstos en la fracción III inciso a) de este artículo, se concederá un descuento de 10%.
 
 A los pagos efectuados a partir del 1° primero de febrero y hasta el último día hábil del mes de marzo de 2020 dos mil veinte, por los derechos previstos en la fracción III inciso a) de este artículo, se concederá un descuento de 5%.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.0. 20 DE MARZO DE 2020)</small>
+
+A los pagos efectuados vía Internet a partir del 1° primero de abril y hasta el último día hábil del mes de mayo de 2020 dos mil veinte, por los derechos previstos en la fracción III inciso a) y fracción III Bis de este artículo, se concederá un descuento de 5%.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.0. 20 DE MARZO DE 2020)</small>
 
 Cuando los contribuyentes realicen el pago por refrendo anual y calcomanía de identificación vehicular sean automóviles, camiones, camionetas, tractores automotores y remolques, para el servicio particular y público, motocicletas, así como placas de demostración; así como motocicletas sólo por el refrendo anual, deberán cubrir un monto de $53.00 correspondiendo $31.00 para la Cruz Roja Mexicana y $22.00 para el Hogar Cabañas. Estarán exentos de este pago los vehículos eléctricos e híbridos.
 
@@ -2342,3 +2348,9 @@ PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicaci�
 SEGUNDO. El titular del Poder Ejecutivo deberá realizar las modificaciones necesarias al Reglamento de la Ley de Movilidad y Transporte del Estado de Jalisco en un plazo no mayor a sesenta días hábiles a partir de la entrada en vigor del presente decreto.
 
 TERCERO. Las dependencias del Poder Ejecutivo deberán realizar las adecuaciones o modificaciones que resulten necesarias para la aplicación del presente decreto.
+
+P.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27885/LXII/20 QUE REFORMA EL ARTÍCULO 23 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2020; LA CUAL TIENE POR OBJETO AMPLIAR EL PLAZO DE PAGO DEL REFRENDO HASTA EL ÚLTIMO DÍA HÁBIL DEL MES DE MAYO 2020; ASÍ COMO INCENTIVAR EL TRÁMITE A TRAVÉS DE MEDIOS ELECTRÓNICOS DE INTERNET, OTORGANDO UN DESCUENTO DEL 5% A LOS PAGOS EN LÍNEA QUE SE REALICEN DURANTE LOS MESES DE ABRIL Y MAYO 2020".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
