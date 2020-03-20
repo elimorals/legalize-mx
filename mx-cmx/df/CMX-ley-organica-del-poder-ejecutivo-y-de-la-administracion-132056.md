@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-poder-ejecutivo-y-de-la-administracion-132056"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-13"
-last_updated: "2020-01-10"
+last_updated: "2020-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132056&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-13"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MARZO DE 2020.
 
 Ley publicada en el Número 471 Bis en la Gaceta Oficial de la Ciudad de México, el jueves 13 de diciembre de 2018.
 
@@ -224,11 +224,15 @@ XVI. Informar de manera permanente y completa mediante el sistema de gobierno ab
 
 XVII. Garantizar los derechos laborales de las personas trabajadoras del Poder Ejecutivo y de sus Alcaldías;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 20 DE MARZO DE 2020)</small>
+
 XVIII. Llevar a cabo las relaciones internacionales de la Ciudad de México en el ámbito de su competencia, auxiliándose para ello de un órgano o unidad administrativa que le estará jerárquicamente subordinada y que tendrá entre sus funciones:
 
 1. Diseñar, dirigir y ejecutar la política internacional que permita consolidar la presencia de la Ciudad de México en el mundo, con base en los principios de cooperación internacional y corresponsabilidad global, favoreciendo la participación de actores no gubernamentales.
 
-2. Propiciar y coordinar las acciones que en materia internacional realicen las dependencias y entidades de la Administración Pública de la Ciudad de México.
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 2020)</small>
+
+2. Propiciar y coordinar las acciones que en materia internacional realicen las dependencias y entidades de la Administración Pública de la Ciudad de México, impulsando la internacionalización de las Alcaldías, de conformidad con el artículo 20 numeral 7 de la Constitución Política de la Ciudad de México.
 
 3. Celebrar convenios, acuerdos interinstitucionales, y demás instrumentos, en el ámbito de sus competencias y de acuerdo a los principios de la Política Exterior de México que permitan contribuir sustantivamente a fortalecer la presencia e influencia de la Ciudad de México en el contexto internacional; así como aprobar cualquier instrumento que permita lograr el cumplimiento de sus atribuciones y facultades.
 
@@ -2325,3 +2329,15 @@ PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayo
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial.
 
 TERCERO. Para la entrega de la información referida en los artículos 31, fracción XXVII; 35, fracción XLVI y 39, fracción XXIV, se estará a lo previsto en la ley de la materia.
+
+G.O. 20 DE MARZO DE 2020.
+
+> <small>[N. DE E. TRANSITORIOS “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XVIII, NUMERAL 2 DEL ARTÍCULO 10 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO. SE REFORMA LA FRACCIÓN XXI, DEL ARTÍCULO 20, Y LAS FRACCIONES XV, XVI Y XVII, DEL ARTÍCULO 29; SE REFORMA EL ARTÍCULO 40; Y, SE ADICIONA EL 54 BIS, DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]</small>
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+CUARTO. Cuando un acuerdo interinstitucional involucre la transferencia de recursos financieros, se atenderá lo dispuesto conforme a la Ley en la materia.
