@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2020-01-20"
+last_updated: "2020-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -899,9 +899,9 @@ VIII.- Medio Ambiente y Desarrollo Sustentable;
 
 IX. Desarrollo Urbano;
 
-> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2020)</small>
 
-X. Transporte;
+X. Movilidad;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1644,3 +1644,9 @@ TERCERO.- Dentro de los 6 meses siguientes a la entrada en vigor del presente De
 CUARTO.- El Sistema de Información Legislativa previsto en el artículo 159 BIS 2 y la Plataforma Digital Legislativa contemplada en el artículo 65 ambos del Reglamento para el Gobierno Interior del Congreso del Estado, entrarán en funciones durante los 180 días posteriores a la entrada en vigor al presente Decreto y el Sistema de Información Legislativa contendrá cuando menos toda la información relativa a la LXXV Legislatura, pudiendo de manera posterior adicionar información respecto a Legislaturas anteriores.
 
 QUINTO.- La Gaceta Legislativa empezará a publicarse en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 281. SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 70 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 39; SE ADICIONAN LOS INCISOS H) E I) A LA FRACCIÓN V; Y SE DEROGA EL INCISO D) DE LA FRACCIÓN XIII, DEL ARTÍCULO 39 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
