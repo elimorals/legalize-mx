@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-reglamenta-el-servicio-de-agua-potable-en-el-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-19"
-last_updated: "2017-01-19"
+last_updated: "2020-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el jueves 19 de enero de 2017.
 
@@ -43,13 +43,11 @@ LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA
 
 La proyección, dirección y ejecución de las obras de captación, conducción y distribución de los Sistemas de Agua Potable para el servicio público de las poblaciones del Estado, estará a cargo de los Organismos que designen las leyes respectivas y se efectuarán de acuerdo con las necesidades que demande el servicio y con sujeción a las disposiciones legales sobre la materia.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2020)</small>
+
 ###### ARTICULO 2.
 
-La operación, conservación, vigilancia y reparación de los Sistemas de Agua Potable, las obras de ampliación de los mismos, así como la imposición de sanciones por infracción a las disposiciones de esta Ley, estará igualmente a cargo de los Organismos a que se refiere el artículo anterior.
-
-La recaudación de los ingresos por la prestación de los servicios de agua, la efectuarán a través de los Subrecaudadores de Rentas adscritos a cada Organismo, que sean designados por el Secretario de Planeación y Finanzas del Estado, en los términos de las disposiciones fiscales aplicables.
-
-Se entiende por Organismo encargado del servicio aquél que presta el servicio de agua potable, drenaje y alcantarillado.
+La operación, conservación, vigilancia y reparación de los Sistemas de Agua Potable, las obras de ampliación, la recaudación de los ingresos por la prestación de los mismos, así como la imposición de sanciones por infracción a las disposiciones de esta Ley, estará igualmente a cargo de los Organismos a que se refiere el artículo anterior.
 
 DE LA OBLIGACION DE SURTIRSE DE AGUA POTABLE DEL SERVICIO PUBLICO
 
@@ -159,9 +157,11 @@ III.- En forma solidaria, los arrendadores y arrendatarios de predios locales qu
 
 Las personas obligadas a pagar los derechos por servicios de agua, deberán cubrirlos en las oficinas recaudadoras o en establecimientos autorizados por las autoridades fiscales, dentro de los quince días naturales posteriores al periodo facturado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2020)</small>
+
 ###### ARTICULO 17.
 
-Cuando no se cubran los derechos a que se refiere el artículo 15, en el plazo que señala el artículo anterior, su pago y el de los accesorios legales respectivos, se hará efectivo en las condiciones y términos que establezca la Legislación fiscal del Estado de Baja California. Sin embargo, el suministro de agua potable y alcantarillado sanitario que se preste en los inmuebles en los que el Gobierno del Estado brinde educación básica y servicios de salud pública, no podrán reducirse ni suspenderse.
+Cuando no se cubran los derechos a que se refiere el artículo 15, en el plazo que señala el artículo anterior, su pago y el de los accesorios legales respectivos, se hará efectivo en las condiciones y términos que establezcan la Ley de las Comisiones Estatales de Servicios Públicos del Estado de Baja California y la legislación fiscal del Estado de Baja California. Sin embargo, el suministro de agua potable y alcantarillado sanitario que se preste en los inmuebles en los que el Gobierno del Estado brinde educación básica y servicios de salud pública, no podrán reducirse ni suspenderse.
 
 Tratándose de la prestación del servicio de agua potable y alcantarillado para uso doméstico, ante la falta de pago de más de tres meses, únicamente podrá reducirse el suministro de agua en un 50% del diámetro de la toma contratada y ante la falta de pago de más de seis meses, sólo podrá reducirse el suministro de agua en un 70% del diámetro de la toma contratada, en tanto el usuario cubra el importe correspondiente, o en su caso, celebre el convenio respectivo, en términos de las disposiciones fiscales, en el que se considerará su capacidad de pago.
 
@@ -719,6 +719,18 @@ II.- Por no cubrir o garantizar, por medio de depósito o fianza, dentro del té
 
 III.- Por falta de pago de las cuotas por servicio de agua por tres meses o más.
 
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2020)</small>
+
+IV.- De manera inmediata, cuando intencionalmente el propietario del giro, se suministre el servicio de agua potable sin autorización del Organismo, mediante toma directa o derivación, o cuando dolosamente retire, manipule, destruya o altere el medidor que determina la facturación del consumo de agua o retire cualquier aditamento instalado para el control del suministro del agua potable.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV, P.O. 20 DE MARZO DE 2020]</small>
+
+Cuando el usuario impida por cualquier medio la toma de la lectura, las comisiones podrán solicitar y hacerse acompañar de la fuerza pública.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV, P.O. 20 DE MARZO DE 2020]</small>
+
+En el caso de que para la toma de lectura sea necesario que las Comisiones realicen acciones o trabajos de afectación en la vía pública para llegar a la toma, éstas podrán realizarlas sin la autorización previa de los municipios, debiendo de informar al municipio al término de éstas, mediante escrito debidamente fundado y motivado sobre las acciones realizadas en la vía pública. En estos casos el usuario será responsable de los costos de reparación de infraestructura de vía pública afectada.
+
 ###### ARTICULO 97.
 
 Cuando no se cumpla con las obligaciones señaladas en la fracción III del artículo 5° de esta Ley, las autoridades competentes deberán, a solicitud del Organismo encargo (sic) del servicio, ordenar la suspensión de las construcciones, hasta que se instale la toma correspondiente.
@@ -904,3 +916,13 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GOMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 51 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2 FRACCIÓN V Y 21 DE LA LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA, ASIMISMO SE REFORMAN LOS ARTÍCULOS 2 Y 17, Y ADICIÓN DE UNA FRACCIÓN IV AL ARTÍCULO 96 DE LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos administrativos de reducción de suministro de agua, que a la entrada en vigor del presente Decreto se encuentren en trámite, continuarán substanciados por la autoridad y términos bajo los cuales fueron iniciados.
